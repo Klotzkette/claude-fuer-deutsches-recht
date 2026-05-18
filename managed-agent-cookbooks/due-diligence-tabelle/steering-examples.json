@@ -1,0 +1,18 @@
+[
+  {
+    "event": "Ordner /02-Vertraege gegen Schema ma-diligence prüfen",
+    "description": "Tabellenmodus — M&A-Due-Diligence-Standardspaltensatz über den wesentlichen Vertragsordner ausführen und tabellarische Prüfungs-CSVs + Zusammenfassung erzeugen. Typisch für Unternehmenskauf nach §§ 311 ff. AktG oder § 15 ff. UmwG."
+  },
+  {
+    "event": "VDR auf neue Uploads seit 2026-05-01 beobachten, Wesentliche Verträge und Schutzrechte/IP markieren",
+    "description": "Beobachtungsmodus — jedes neue Dokument seit dem Stichdatum auflisten, gegen Anforderungslisten-Kategorien klassifizieren, Hochpriorisiertes markieren und Aktualisierungsbericht schreiben. Relevant für laufende Datenraumüberwachung bei §§ 35 ff. GWB-Freigabeverfahren."
+  },
+  {
+    "event": "Tabelle für Dokumente [DOK-001, DOK-002, DOK-003] mit hinzugefügter Spalte kuendigung_aus_wichtigem_grund neu berechnen",
+    "description": "Tabellenmodus — Schemaergänzung + gezielter Neu-Lauf gegen eine Dokumententeilmenge, bestehende Zeilen für nicht betroffene Dokumente beibehalten. Nützlich nach Hinweis auf § 314 BGB-relevante Sonderklauseln in der Erstprüfung."
+  },
+  {
+    "event": "Ordner /05-IP-Portfolio gegen Schema ip-diligence prüfen, Fokus Lizenzkette und Erfindervergütung",
+    "description": "Tabellenmodus mit angepasstem Schema — Schutzrechtspositionen, Lizenzkette (§ 31 UrhG, § 15 PatG), Arbeitnehmererfindervergütung (§§ 9, 12 ArbEG) und etwaige offene Anmeldungen prüfen."
+  }
+]

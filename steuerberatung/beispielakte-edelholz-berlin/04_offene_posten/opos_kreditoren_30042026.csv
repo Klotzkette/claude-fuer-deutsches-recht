@@ -1,0 +1,23 @@
+Belegnummer;Lieferant;Belegdatum;Faelligkeit;Betrag_brutto_EUR;Mahnstufe;Bemerkung
+ER-2026-0211;Pollmeier Massivholz GmbH;14.02.2026;14.03.2026;18450,00;2;Buche/Eiche, gestundet bis 15.05.2026
+ER-2026-0234;Holzland Becker KG;28.02.2026;28.03.2026;12380,00;2;Plattenmaterial, Skonto verfallen
+ER-2026-0241;Hettich Beschläge GmbH;02.03.2026;01.04.2026;9870,00;1;Beschläge Hotel Lützowufer
+ER-2026-0248;Lackiererei Bremer & Sohn;10.03.2026;09.04.2026;6420,00;2;Oberflächen, 2. Mahnung
+ER-2026-0256;SCM Group Service (CNC-Wartung);15.03.2026;14.04.2026;4180,00;1;Wartungsvertrag
+ER-2026-0263;Vattenfall Wärme;18.03.2026;01.04.2026;3240,00;1;Heizung Werkstatt, Drohung Sperre
+ER-2026-0270;Stromnetz Berlin (Strom);22.03.2026;05.04.2026;5860,00;1;Werkstattstrom, Drohung Sperre 22.05.
+ER-2026-0274;Eurobaustoff Heimbau Berlin;25.03.2026;24.04.2026;3720,00;0;Bauchemie
+ER-2026-0281;HORNBACH (Bargeld-Käufe);02.04.2026;02.05.2026;1240,00;0;Verbrauchsmaterial
+ER-2026-0288;BG Holz und Metall;05.04.2026;05.05.2026;8620,00;0;BG-Beitrag 2026
+ER-2026-0295;SCM Group GmbH;08.04.2026;08.05.2026;28000,00;0;Angebot Reparatur CNC-Antrieb (nicht beauftragt)
+ER-2026-0301;Pollmeier Massivholz GmbH;10.04.2026;10.05.2026;14620,00;0;Neulieferung Auftrag Lützowufer
+ER-2026-0312;Allianz Versicherungs-AG;14.04.2026;14.05.2026;2480,00;0;Berufshaftpflicht Q2
+ER-2026-0318;Berliner Wasserbetriebe;15.04.2026;15.05.2026;1180,00;0;Wasser/Abwasser
+ER-2026-0324;Datev eG;18.04.2026;18.05.2026;820,00;0;Buchhaltungssoftware
+ER-2026-0331;Toyota Material Handling (Stapler-Leasing);20.04.2026;01.05.2026;1820,00;0;Leasingrate Mai
+ER-2026-0337;Mietkonto Köpenicker Str. 187 (Schrenk Immobilien);28.04.2026;01.05.2026;9840,00;0;Werkstattmiete + NK Mai
+ER-2026-0341;Lohnabrechnung April (Lohn an MA);28.04.2026;05.05.2026;52780,00;0;Netto-Löhne April
+ER-2026-0344;Hettich Beschläge GmbH;28.04.2026;28.05.2026;4720,00;0;Beschläge Senatsverwaltung
+ER-2026-0349;Vermögensanlagen Korbach (Gesellschafterdarlehen);01.04.2026;laufend;25000,00;0;Tilgungsrate Q2 (Darlehen 120 TEUR ohne Rangrücktritt)
+ER-2026-0352;Sparkasse Kontokorrent Zinsen Q1;30.04.2026;15.05.2026;2940,00;0;Q1 Sollzinsen
+Summe;;;;;;217180,00;

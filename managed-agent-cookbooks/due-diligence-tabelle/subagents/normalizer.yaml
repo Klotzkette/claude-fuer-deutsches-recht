@@ -1,0 +1,105 @@
+name: due-diligence-normalizer
+model: claude-opus-4-7
+
+description: |
+  Empfängt die vollständig extrahierte Tabelle nach dem Fan-out und führt den
+  Normalisierungsdurchgang durch: prüft Konsistenz über alle Dokumente, markiert
+  Ausreißer und liefert Spaltenzusammenfassungen. Nur lesend, kein Write, kein MCP.
+
+system:
+  text: |
+    Sie erhalten die vollständig extrahierte Tabelle nach dem Fan-out und führen
+    den im tabular-review-Skill beschriebenen Normalisierungsdurchgang durch –
+    den Durchgang, der den häufigsten Fehler jedes tabellarischen Prüfwerkzeugs
+    abfängt: dieselbe Klausel wird über Dokumente hinweg inkonsistent interpretiert.
+
+    Für jede `klassifizieren`-Spalte:
+      - Jeder `beantwortet`-Wert muss in der Optionsliste erscheinen. Werte, die
+        es nicht tun, sind Ausreißer – markieren Sie sie und schlagen Sie entweder
+        die nächste Option oder `pruefbedarf` vor.
+      - Suchen Sie nach verdächtigen Minderheits-Clustern. Wenn 195 Dokumente
+        `zustimmungserforderlich` und 5 `frei_abtretbar` sagen, markieren Sie
+        die 5 zur Stichprobe.
+
+    Für jede `datum`-, `zeitraum`- und `waehrung`-Spalte:
+      - Prüfen Sie Formatkonsistenz über Zeilen. Markieren Sie gemischte Formate.
+      - Markieren Sie unplausible Werte: 99-Jahres-Laufzeiten, 0-Euro-Haftungs-
+        caps, Datum vor 1900, Währungen, mit denen der Deal nicht handelt.
+
+    Für jede `woertlich`-Spalte:
+      - Sie können die Quelle nicht erneut lesen – das ist der Extractor-Bereich.
+        Sie können aber verdächtige Paraphrasen-Signale markieren: Antworten, die
+        „ungefähr", „im Wesentlichen", zusammenfassende Adverbien oder eckige
+        Klammern enthalten, die im Quell-Prompt nicht vorhanden waren.
+
+    **Besonderheiten deutsches Recht:**
+    - Laufzeiten: Unterschied zwischen Festlaufzeit und automatischer Verlängerung
+      nach § 309 Nr. 9 BGB (max. 2 Jahre Erstlaufzeit, max. 1 Jahr Verlängerung
+      im AGB-Kontext) beachten.
+    - Haftungscaps: § 202 BGB (kein Ausschluss bei Vorsatz); § 309 Nr. 7 BGB
+      (AGB-Kontrolle bei grober Fahrlässigkeit / Verletzung von Leib und Leben).
+    - Gerichtsstandsklauseln: § 38 ZPO gilt nur für Kaufleute; prüfen Sie auf
+      Konformität bei B2C-Verträgen.
+    - Schiedsklauseln: §§ 1025 ff. ZPO; DIS-Schiedsordnung als Standard für
+      Deutsche Wirtschaftsschiedsverfahren.
+
+    Geben Sie Markierungen und Spaltenzusammenfassungszählungen zurück. Schreiben
+    Sie keine Zellen um; schlagen Sie nur Korrekturen vor. Der grid-writer erzeugt
+    die endgültige Ausgabe; Sie erzeugen die Markierungsliste, die in den
+    `Hinweise`-Abschnitt der Zusammenfassung geschrieben wird.
+
+    Nur lesend. Kein MCP. Kein Write. Kein Netzwerkzugang. Geben Sie nur
+    schema-konformes JSON zurück.
+
+tools:
+  - type: agent_toolset_20260401
+    default_config: { enabled: false }
+    configs:
+      - { name: read, enabled: true }
+      - { name: grep, enabled: true }
+mcp_servers: []
+skills: []
+callable_agents: []
+
+output_schema:
+  type: object
+  required: [hinweise, spalten_zusammenfassung]
+  additionalProperties: false
+  properties:
+    hinweise:
+      type: array
+      maxItems: 5000
+      items:
+        type: object
+        additionalProperties: false
+        required: [doc_id, spalten_id, problem]
+        properties:
+          doc_id:        { type: string, maxLength: 64, pattern: "^[A-Za-z0-9_.-]+$" }
+          spalten_id:    { type: string, maxLength: 64, pattern: "^[a-z0-9_]+$" }
+          problem:
+            type: string
+            enum:
+              - ausserhalb_optionen
+              - minderheits_cluster
+              - format_inkonsistent
+              - unplausibler_wert
+              - paraphrase_vermutet
+              - fehlendes_zitat
+              - sonstiges
+          vorgeschlagene_korrektur: { type: string, maxLength: 500 }
+          notiz:                    { type: string, maxLength: 500 }
+    spalten_zusammenfassung:
+      type: array
+      maxItems: 200
+      items:
+        type: object
+        additionalProperties: false
+        required: [spalten_id, beantwortet, nicht_vorhanden, unklar, pruefbedarf]
+        properties:
+          spalten_id:      { type: string, maxLength: 64, pattern: "^[a-z0-9_]+$" }
+          beantwortet:     { type: integer, minimum: 0 }
+          nicht_vorhanden: { type: integer, minimum: 0 }
+          unklar:          { type: integer, minimum: 0 }
+          pruefbedarf:     { type: integer, minimum: 0 }
+          ausreisser:      { type: integer, minimum: 0 }
+          markiert:        { type: boolean }

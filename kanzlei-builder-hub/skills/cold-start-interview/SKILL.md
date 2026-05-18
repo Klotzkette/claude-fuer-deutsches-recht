@@ -1,0 +1,187 @@
+---
+name: cold-start-interview
+description: >
+  Praxisprofil-Interview, das ein Starter-Paket aus Community-Kanzlei-Skills empfiehlt und installiert.
+  Dies IST der Kaltstart für das gesamte Ökosystem — es fragt nach Kanzleityp und empfiehlt,
+  was zuerst installiert werden sollte. Beim Erststart einsetzen, wenn der Nutzer sagt
+  „Einstieg", „Was soll ich installieren" oder um die Integrations-Verfügbarkeitsprüfung
+  nach Hinzufügen oder Entfernen eines MCP-Konnektors erneut auszuführen.
+argument-hint: "[--redo] [--check-integrations]"
+language: de
+triggers:
+  - "kaltstart"
+  - "cold-start"
+  - "einrichten"
+  - "was soll ich installieren"
+  - "einstieg"
+---
+
+# /cold-start-interview — Kanzleiprofil-Interview
+
+## Zweck
+
+Das Interview fragt, was für eine Kanzlei oder Rechtsabteilung betrieben wird, und empfiehlt ein Starter-Paket passender Community-Skills. Kurz und direkt: Fünf Fragen, eine Empfehlung, fertig.
+
+## Eingaben
+
+- Kanzleityp, Rechtsgebiet(e), Teamgröße, technische Vertrautheit
+- Optional: Bestehende Registry-Liste oder Allowlist
+- Optional: `--redo` für erneutes vollständiges Interview; `--check-integrations` nur für Integrationsprüfung; `--full` für vollständige Einrichtung
+
+## Ablauf
+
+### Kaltstart-Prüfung
+
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` lesen:
+- **Existiert nicht** → Interview starten.
+- **Enthält `<!-- EINRICHTUNG PAUSIERT BEI: -->`** → Nutzer begrüßen und Fortsetzung von diesem Abschnitt anbieten.
+- **Enthält `[PLATZHALTER]`-Marker aber keinen Pause-Kommentar** → Template nie abgeschlossen; Neustart oder Fortsetzung von den Platzhaltern anbieten.
+- **Vollständig ausgefüllt (keine Platzhalter, kein Pause-Kommentar)** → Bereits konfiguriert; überspringen außer bei `--redo`.
+
+### Installationsumfang-Prüfung
+
+Vor der Orientierung: Falls das Arbeitsverzeichnis sich innerhalb eines Projekts befindet (nicht im Home-Verzeichnis), einmalig hinweisen:
+
+> **Achtung — Es sieht aus, als wäre dieses Plugin projektbegrenzt, was bedeutet, dass nur Dateien in [aktuellem Verzeichnis] gelesen werden können. Für Mandatsdokumente aus anderen Ordnern benutzerbegrenzt installieren. Sie können mit der Projektbegrenzung fortfahren, müssen aber Dateien in diesen Ordner verschieben.**
+
+### Kanzleiprofil prüfen
+
+Prüfen ob `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-profil.md` existiert:
+- **Existiert:** Lesen. Einzeilige Bestätigung anzeigen: „Sie sind [Name], [Kanzleityp], [Rechtsgebiete]. Richtig? (Oder sagen Sie 'aktualisieren' um das geteilte Profil zu ändern.)" Bei Bestätigung Kanzlei-Fragen überspringen.
+- **Existiert nicht:** Kanzlei-Fragen stellen und in geteiltes Profil schreiben.
+
+### Einstiegstext anzeigen
+
+> **`kanzlei-builder-hub` dient der Entdeckung, Installation und Verwaltung von Community-Kanzlei-Skills.** Suchen Sie einen Praxisbereich-Workflow? Installieren Sie eines der `kanzlei-*`-Plugins direkt; führen Sie `/kanzlei-builder-hub:registry-browser` aus, um zu sehen, was verfügbar ist.
+>
+> **2 Minuten** ergibt Rolle und Praxisbereich(e) — plus sinnvolle Standardwerte für Registry-Watchlist, Update-Kadenz und eine standardmäßig zulässige Allowlist. **15 Minuten** fügt ein kalibriertes Starter-Paket passend zu Ihrer Kanzlei hinzu, eine in `allowlist.yaml` geschriebene Vertrauensquellen-Richtlinie, Update-Benachrichtigungseinstellungen und Ihre Rechtsgebiets-/Teamgrößeninformation für Empfehlungen.
+>
+> Schnell oder vollständig? (Jederzeit hochstufen mit `/kanzlei-builder-hub:cold-start-interview --full`.)
+
+### Part 0: Wer nutzt dies, und was ist verbunden
+
+#### Wer nutzt dies?
+
+> Wer wird dieses Plugin täglich nutzen?
+>
+> 1. **Rechtsanwalt/Rechtsanwältin oder juristisches Fachpersonal** — Rechtsanwalt, Paralegal, Legal Ops unter anwaltlicher Aufsicht.
+> 2. **Nicht-Jurist mit Anwaltszugang** — Geschäftsführer, Vertragsmanager, HR, Einkauf; Sie haben einen Anwalt, den Sie konsultieren können.
+> 3. **Nicht-Jurist ohne regelmäßigen Anwaltszugang** — Sie bearbeiten dies selbst.
+
+Bei Antwort 3 hinzufügen:
+> Falls Sie einen Rechtsanwalt finden möchten: Die zuständige Rechtsanwaltskammer (RAK) oder die Bundesrechtsanwaltskammer (BRAK) bieten Vermittlungsdienste. Viele Anwälte bieten Erstberatungen zu moderaten Kosten an. Rechtsberatungsstellen (z. B. Caritas, VdK) und Verbraucherzentralen helfen bei Standardproblemen.
+
+#### Was ist verbunden?
+
+Prüfen, welche Konnektoren tatsächlich verbunden sind (nicht nur konfiguriert):
+- Nur ✓ melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war.
+- ⚪ melden für konfiguriert-aber-ungeprüfte Konnektoren.
+- Niemals ✓ nur aufgrund von `.mcp.json`-Einträgen melden.
+
+### Die fünf Fragen
+
+1. **Kanzleityp/Tätigkeitsschwerpunkt** — Kanzlei oder Rechtsabteilung? Zivil, Straf, Verwaltung, Handels-/Gesellschaftsrecht, Arbeitsrecht, Datenschutz, IP, M&A, anderes?
+
+2. **Rechtsgebiet(e)** — Welche Rechtsgebiete sind im Fokus? (Beeinflusst Registry-Suche und Starter-Paket-Filterung.)
+
+3. **Teamgröße** — Solo, kleines Team (2–5), große Rechtsabteilung? (Beeinflusst `allowlist.yaml`-Modus-Standard — Solo/klein erhält `permissive`, Mittel/groß/Rechtsabteilung erhält `restrictive`.)
+
+4. **Was machen Sie am häufigsten?** — Vertragsgestaltung und -prüfung, Schriftsatzerstellung, Compliance, M&A Due Diligence, Mandatsbegleitung, Briefe? (Beeinflusst `related-skills-surfacer`.)
+
+5. **Technische Vertrautheit** — Entwickler (Sie bauen eigene Skills), Anpasser (Sie bearbeiten installierte), Nutzer (Sie wollen, dass es funktioniert)? (Beeinflusst Empfehlungstiefe.)
+
+### TOM-Hinweis im Interview
+
+Nach den fünf Fragen und vor der Starter-Paket-Empfehlung:
+
+> **Hinweis für den Kanzleibetrieb:** Vor dem Einsatz von KI-Skills in der Kanzlei ist zu prüfen, ob Technisch-Organisatorische Maßnahmen (TOM) nach Art. 25 und 32 DSGVO erforderlich sind. Dies betrifft insbesondere:
+> - Verschlüsselung übertragener und gespeicherter Mandantendaten
+> - Zugriffskontrolle und Berechtigungskonzept für KI-Tools
+> - Dokumentation in der Verfahrensübersicht nach Art. 30 DSGVO
+> - Ggf. Datenschutz-Folgenabschätzung nach Art. 35 DSGVO bei hohem Risiko
+>
+> Diese Einrichtung legt Ihren Kanzleityp fest — die konkrete TOM-Prüfung pro Skill erfolgt beim Install über `/kanzlei-builder-hub:skill-installer`.
+
+### Empfehlung
+
+Profil auf Registry-Skills abbilden:
+
+| Profil | Starter-Paket |
+|---|---|
+| Kanzlei Zivilrecht/Vertragsrecht | kanzlei-vertragsrecht + lpm-skills (Mandatsplanung, Fristenverwaltung) |
+| Datenschutzrecht / Datenschutzbeauftragter | kanzlei-datenschutz + Community-DSE/AV-Vertrag-Skills |
+| Arbeitsrecht | kanzlei-arbeitsrecht + Fristen-Tracker-Skills |
+| M&A / Gesellschaftsrecht | kanzlei-gesellschaftsrecht + Community-Due-Diligence-Skills |
+| Solo / kleines Team | Alles Leichtgewichtige — Triage-Skills vor vollständigen Review-Skills |
+| Entwickler | Rohe Registries und das skills-qa-Framework |
+
+Für jeden empfohlenen Skill: SKILL.md-Beschreibung anzeigen. Nutzer wählt — nichts ohne Ja installieren.
+
+### Deployment-Kontext für Allowlist
+
+> „Wie werden Sie die installierten Skills einsetzen — nur für sich selbst, geteilt in der Kanzlei oder eingebettet in ein Produkt oder eine Dienstleistung, die Sie an Mandanten liefern? (Persönlich / Kanzlei-intern / Produkteinbettung.) Dies beeinflusst die Lizenz-Standardwerte der Allowlist."
+
+Für **Kanzlei-intern** zusätzlich fragen: „Liegt eine Auftragsverarbeitungsvereinbarung (Art. 28 DSGVO) mit dem Anbieter der genutzten KI-Infrastruktur vor?"
+
+### Allowlist schreiben
+
+Nach der Deployment-Kontext-Frage `allowlist.yaml` gemäß Schema in `skill-installer/references/allowlist.md` schreiben. Lizenzen je nach Kontext:
+- **Persönlich** → MIT, Apache-2.0, BSD-2-Clause, BSD-3-Clause, ISC, CC0-1.0
+- **Kanzlei-intern** → wie Persönlich plus LGPL-2.1-only, LGPL-3.0-only, MPL-2.0
+- **Produkteinbettung** → wie Persönlich; starkes Copyleft (GPL, AGPL) als Kommentar markieren
+
+### Praxisprofil schreiben
+
+Kurz: Profil + installierte Liste + Registry-Präferenzen. Gemäß Template in `${CLAUDE_PLUGIN_ROOT}/CLAUDE.md`. Config-Pfad erstellen bei Bedarf.
+
+### Nach dem Schreiben
+
+> **Was möchten Sie als nächstes tun?**
+>
+> - **Community-Skills durchsuchen** — Sehen Sie, was andere Kanzleien und Rechtsabteilungen gebaut haben. Ausprobieren: `/kanzlei-builder-hub:registry-browser`
+> - **Einen Skill aus einer Registry installieren** — Einen Community-Skill zur Umgebung hinzufügen — lizenz- und allowlist-geprüft vor der Ausführung. Ausprobieren: `/kanzlei-builder-hub:skill-installer`
+> - **Updates prüfen** — Sehen, welche installierten Skills neuere Versionen in ihrer Quell-Registry haben. Ausprobieren: `/kanzlei-builder-hub:auto-updater`
+> - **Skill-Empfehlungen erhalten** — Basierend auf aktueller Tätigkeit relevante Skills empfehlen. Ausprobieren: `/kanzlei-builder-hub:related-skills-surfacer`
+> - **Einen Skill gegen das Framework prüfen** — Skills-QA durchführen. Ausprobieren: `/kanzlei-builder-hub:skills-qa`
+
+Abschließen mit:
+> Fertig. Ihre Konfiguration liegt unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` — eine Klartextdatei, die Sie direkt lesen und bearbeiten können. Alles kann geändert werden:
+>
+> - Datei direkt bearbeiten für schnelle Änderungen
+> - `/kanzlei-builder-hub:cold-start-interview --redo` für vollständiges Wiederholungsinterview
+> - `/kanzlei-builder-hub:cold-start-interview --check-integrations` um Verbindungen erneut zu prüfen
+
+## Quellen und Zitierweise
+
+Einschlägige Normen für Datenschutz im Kanzleibetrieb:
+- Art. 25, 28, 30, 32, 35 DSGVO
+- § 43a Abs. 2 BRAO (Verschwiegenheitspflicht)
+- § 203 StGB (Verletzung von Privatgeheimnissen)
+- §§ 2 ff. BORA (Grundpflichten)
+
+Zitierweise nach `../references/zitierweise.md`.
+
+## Ausgabeformat
+
+Nach dem Interview: Strukturiertes Kanzleiprofil in CLAUDE.md + installierte Skills-Liste + Empfehlungsbegründung. Keine langen Prosa-Absätze — kurze, actionable Abschnitte.
+
+## Beispiel
+
+```
+Kanzleiprofil erstellt am 2025-01-15:
+- Typ: Einzelkanzlei, Schwerpunkt Arbeitsrecht
+- Team: Solo
+- Rechtsgebiet: Arbeitsrecht, Kündigungsschutz, Betriebsverfassungsrecht
+- Eingesetztes Starter-Paket:
+  - kanzlei-arbeitsrecht (installiert)
+  - kuendigungsfristen-tracker (installiert)
+- Beobachtete Registries: kanzlei-skills
+- TOM-Hinweis: Bitte Verfahrensübersicht nach Art. 30 DSGVO aktualisieren.
+```
+
+## Risiken / typische Fehler
+
+- **Platzhalter im Profil:** Nie mit stillen Lücken schreiben — jeder Platzhalter ist ein bewusst bestätigtes Auslassen.
+- **Falsche Deployment-Kontext-Angabe:** Kanzlei-intern erfordert AVV mit KI-Infrastrukturanbieter (Art. 28 DSGVO).
+- **TOM-Vergessen:** KI-Skills in der Kanzlei erfordern TOM-Prüfung vor dem Einsatz — dieser Schritt darf nicht übersprungen werden.
+- **Praxisprofil zu generisch:** Ein generisches Profil ergibt generische Empfehlungen.

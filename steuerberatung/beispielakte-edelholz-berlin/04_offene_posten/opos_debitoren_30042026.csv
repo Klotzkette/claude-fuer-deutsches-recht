@@ -1,0 +1,16 @@
+Rechnungsnummer;Kunde;Rechnungsdatum;Faelligkeit;Betrag_brutto_EUR;Mahnstufe;voraussichtl_Eingang;Bemerkung
+RE-2026-0084;Hotel Lützowufer GmbH;15.03.2026;14.04.2026;48500,00;1;25.05.2026;Anzahlung Auftrag LZF-2025-08
+RE-2026-0091;Boutique Manufactum Mitte;28.03.2026;27.04.2026;9870,00;1;22.05.2026;Wandverkleidung Showroom
+RE-2026-0094;Privat: Bach/Wieland;02.04.2026;02.05.2026;12480,00;0;05.05.2026;Einbauküche Eiche massiv
+RE-2026-0098;Senatsverwaltung Bildung;05.04.2026;05.06.2026;31200,00;0;08.06.2026;Möblierung Schule Pankow (60-Tage-Ziel)
+RE-2026-0101;Privat: Hentschel/Vargas;11.04.2026;11.05.2026;7240,00;0;13.05.2026;Garderobe + Sideboard
+RE-2026-0103;Cafe Lichtfels;14.04.2026;14.05.2026;5860,00;0;18.05.2026;Theke Erweiterung
+RE-2026-0106;Hotel Lützowufer GmbH;18.04.2026;18.05.2026;38400,00;0;28.07.2026;Teilrechnung Suiten 4./5. OG; Zahlung nach Lieferung KW 28
+RE-2026-0108;Anwaltskanzlei Bredow & Kollegen;22.04.2026;22.05.2026;14620,00;0;25.05.2026;Empfang + Konferenzraum
+RE-2026-0111;Privat: Liebrecht;25.04.2026;25.05.2026;6890,00;0;27.05.2026;Eichen-Esstisch Sondermaß
+RE-2026-0113;Senatsverwaltung Bildung;28.04.2026;28.06.2026;18750,00;0;01.07.2026;Schlussrechnung Schule Pankow
+RE-2026-0115;Privat: Görlitz/Aydin;29.04.2026;29.05.2026;9420,00;0;01.06.2026;Schiebetürenschrank Nussbaum
+RE-2025-0421;Bauträger Spreequartier GmbH;03.11.2025;03.12.2025;28640,00;3;30.06.2026;DISPUTE: Nachbesserung strittig, Mahnverfahren droht
+RE-2025-0438;Restaurant Glasperlenspiel;18.12.2025;17.01.2026;14380,00;2;15.06.2026;1. Mahnung 12.02., 2. Mahnung 11.03. – Kunde stundet bis Juni
+RE-2026-0067;Privat: Saalfeld;08.02.2026;10.03.2026;4220,00;2;15.05.2026;in Klärung, Mängelrüge
+Summe;;;;;;250470,00;

@@ -1,0 +1,13 @@
+{
+  "name": "datenschutzrecht",
+  "version": "1.0.0-de.1",
+  "description": "DSGVO/BDSG/TTDSG – PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15, Datenpannenmeldung Art. 33/34, Beschäftigtendatenschutz, Drift-Monitoring.",
+  "language": "de",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "adapted_from": {
+    "name": "anthropics/claude-for-legal",
+    "license": "MIT"
+  }
+}

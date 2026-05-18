@@ -1,0 +1,13 @@
+{
+  "name": "regulatorisches-recht",
+  "version": "1.0.0-de.1",
+  "description": "Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.",
+  "language": "de",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "adapted_from": {
+    "name": "anthropics/claude-for-legal",
+    "license": "MIT"
+  }
+}

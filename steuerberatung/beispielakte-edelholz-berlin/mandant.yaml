@@ -1,0 +1,368 @@
+# Eingabedatei für scripts/build_liquiditaetsplan.py
+# Edelholz Manufaktur Berlin GmbH – Stichtag 18.05.2026 (Mo der KW 21)
+
+mandant:
+  name: "Edelholz Manufaktur Berlin GmbH"
+  rechtsform: "GmbH"
+  branche: "Edeltischlerei / Möbelmanufaktur"
+  mitarbeiter: 20
+
+stichtag: "2026-05-18"
+
+kassenbestand_start: 1850          # Werkstattkasse
+kontostand_start: 19139            # Geschäftskonto Berliner Sparkasse 30.04. (+19.139,12)
+kreditlinie_gesamt: 150000
+kreditlinie_genutzt: 138400        # 92,3 % ausgenutzt
+szenario: "Base"
+
+# Wochen 0..12 = KW 21..33 (Mo 18.05.2026 ff.)
+# Werte in EUR, Vorzeichen positiv für Einnahmen und Ausgaben (in Excel werden Ausgaben subtrahiert).
+plan:
+  # KW 21 (18.–24.05.)
+  0:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 0
+    ausgaben:
+      lohn: 0
+      sv: 0
+      waren: 0
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 0
+      versicherung: 0
+      beratung: 0
+      sonstige: 1180         # HORNBACH Verbrauchsmaterial
+      investitionen: 0
+      steuern: 3800           # GewSt-VZ Q2 fällig 15.05. → in KW 21 verbucht
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 27000   # Pollmeier 18.450 + Holzland 12.380 minus skontiert
+
+  # KW 22 (25.–31.05.)
+  1:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 22330           # Bach/Wieland 12.480 + Anwalt Bredow nachzahl. 9.850 (Teil)
+    ausgaben:
+      lohn: 53000               # Lohn Mai (Netto)
+      sv: 0
+      waren: 0
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 4180             # SCM Accord 50
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 3180             # Sparkasse Investkredit
+      zinsen: 0
+      entnahmen: 25000          # GF-Darlehen-Tilgung Q2 Korbach (ohne Rangrücktritt!)
+    faellig_folgewoche: 41000   # SV März TK rückwirkend + AOK Mai-Vorab
+
+  # KW 23 (01.–07.06.)
+  2:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 14800           # Liebrecht 6.890 + Görlitz/Aydin 9.420 (teilw.)
+    ausgaben:
+      lohn: 0
+      sv: 41560                 # SV Mai für alle Kassen (Lastschrift)
+      waren: 18450              # Pollmeier gestundet, jetzt fällig
+      miete: 9840
+      energie: 9100             # Strom 5.860 + Vattenfall 3.240
+      verwaltung: 0
+      werbung: 0
+      leasing: 1820             # Toyota Stapler
+      versicherung: 0
+      beratung: 820             # Datev
+      sonstige: 0
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 38000
+
+  # KW 24 (08.–14.06.)
+  3:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 13680           # Hentschel/Vargas + Boutique Manufactum (teilw.)
+    ausgaben:
+      lohn: 0
+      sv: 0
+      waren: 12380              # Holzland Becker
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 2640             # Holzma Plattensäge
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 16840            # USt-VZ April fällig 10.06. (Dauerfrist)
+      sonstige2: 2250           # KSt-VZ Q2 fällig 10.06.
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 28000   # Lackiererei Bremer 6.420 + Hettich 9.870 + Eurobaustoff 3.720 + Sonstiges
+
+  # KW 25 (15.–21.06.)
+  4:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 5860            # Cafe Lichtfels
+    ausgaben:
+      lohn: 0
+      sv: 0
+      waren: 0
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 4180             # SCM Accord Juni
+      versicherung: 0
+      beratung: 0
+      sonstige: 1180             # Wasser/Internet
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 32000
+
+  # KW 26 (22.–28.06.)
+  5:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 31200           # Senatsverwaltung Bildung (60-Tage-Ziel, RE 0098 jetzt fällig)
+    ausgaben:
+      lohn: 53000               # Lohn Juni
+      sv: 0
+      waren: 9870               # Hettich Mai-Lieferung
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 0
+      versicherung: 0
+      beratung: 0
+      sonstige: 6420            # Lackiererei Bremer Stundungsende
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 3180             # Sparkasse Investkredit
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 25000
+
+  # KW 27 (29.06.–05.07.)
+  6:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 14380           # Restaurant Glasperlenspiel (gestundet)
+    ausgaben:
+      lohn: 0
+      sv: 41700                 # SV Juni
+      waren: 0
+      miete: 9840                # Juli
+      energie: 9100
+      verwaltung: 0
+      werbung: 0
+      leasing: 1820
+      versicherung: 2480         # Allianz Berufshaftpflicht Q3
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 18000
+
+  # KW 28 (06.–12.07.) – Lieferung Hotel Lützowufer
+  7:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 0               # Schlussrechnung wird erst KW 28 gestellt
+    ausgaben:
+      lohn: 0
+      sv: 0
+      waren: 14620              # Pollmeier Neulieferung
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 2640
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 28000      # CNC-Antriebsmotor Reparatur (zwingend nach Lieferung)
+      steuern: 0
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 22000
+
+  # KW 29 (13.–19.07.)
+  8:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 18750           # Senat Schlussrechnung Pankow
+    ausgaben:
+      lohn: 0
+      sv: 0
+      waren: 0
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 4180
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 28000
+
+  # KW 30 (20.–26.07.)
+  9:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 0
+    ausgaben:
+      lohn: 53500              # Lohn Juli
+      sv: 0
+      waren: 0
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 0
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 3180
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 38000
+
+  # KW 31 (27.07.–02.08.) – Zahlung Hotel Lützowufer Hauptauftrag
+  10:
+    einnahmen:
+      umsatz: 121850            # Hotel Lützowufer 145.000 netto + USt = 172.550 brutto; davon 121,8k Eingang (Rest Schlussrate)
+      anzahlungen: 0
+      sonstige: 0
+    ausgaben:
+      lohn: 0
+      sv: 41800
+      waren: 0
+      miete: 9840
+      energie: 9100
+      verwaltung: 0
+      werbung: 0
+      leasing: 1820
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 14200            # USt-VZ Mai (Dauerfrist) + SonderVZ-Anteil
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 22000
+
+  # KW 32 (03.–09.08.)
+  11:
+    einnahmen:
+      umsatz: 38400             # Hotel Lützowufer Suiten-Rate RE-2026-0106
+      anzahlungen: 0
+      sonstige: 0
+    ausgaben:
+      lohn: 0
+      sv: 0
+      waren: 14620
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 2640
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 0
+      zinsen: 2940              # KK-Zins Q2
+      entnahmen: 25000          # GF-Darlehen-Tilgung Q3 Korbach
+    faellig_folgewoche: 28000
+
+  # KW 33 (10.–16.08.)
+  12:
+    einnahmen:
+      umsatz: 0
+      anzahlungen: 0
+      sonstige: 0
+    ausgaben:
+      lohn: 54000              # Lohn August
+      sv: 0
+      waren: 0
+      miete: 0
+      energie: 0
+      verwaltung: 0
+      werbung: 0
+      leasing: 4180
+      versicherung: 0
+      beratung: 0
+      sonstige: 0
+      investitionen: 0
+      steuern: 0
+      sonstige2: 0
+      tilgung: 3180
+      zinsen: 0
+      entnahmen: 0
+    faellig_folgewoche: 32000
+
+# Fortführungsprognose nach IDW S 6 (Befunde des Steuerberaters)
+prognose:
+  auftrag: "Erstellung 12-Monats-Liquiditätsplan zum Stichtag 18.05.2026 im Auftrag der Geschäftsführung; Beurteilung des Vorliegens eines Insolvenzantragsgrundes nach §§ 17, 19 InsO und Hinweis nach § 102 StaRUG."
+  basis: "Einzelfertigung Edelholz; 20 MA; Jahresumsatz 2025: 2.087 TEUR; Maschinenpark teilmodernisiert; Hausbanken: Berliner Sparkasse (Geschäftskonto), Mittelbrandenburgische Sparkasse (KK 150 TEUR, 92 % ausgenutzt, ab 01.01.2027 Reduzierung auf 80 TEUR angekündigt)."
+  krise: "Stadium: Liquiditätskrise (Hauschka-Schema, IDW S 6 Tz. 5 ff.). Ursachen: Energiepreisanstieg 2022/23; Bugwelle Lieferantenkredit (64 TEUR überfällig); ausgeschöpfte KK-Linie; SV-Rückstand 65 TEUR; CNC-Antrieb defekt (28 TEUR Reparatur). Indizien § 17 InsO erfüllt: Lastschriftrückgabe 27.03.2026, SV-Rückstände TK (2. Mahnung, Strafanzeige § 266a StGB angedroht), AOK Vollstreckung angekündigt."
+  leitbild: "Fortführung des Geschäftsmodells Edeltischlerei mit Fokus Hotellerie/Boutique; Reduktion Privatkundengeschäft (Margenproblem); Aufbau wiederkehrender Wartungsverträge bei Bestandshotels."
+  massnahmen: "Kurzfristig: Stundung SV-Beiträge mit Ratenplan, Verzicht Gesellschafterdarlehenstilgung Korbach (qualifizierter Rangrücktritt § 39 Abs. 2 InsO), Forderungsverkauf (Factoring) Senatsverwaltung. Mittelfristig: Aufstockung KK-Linie scheitert (Bank kürzt!); Sale-and-Lease-Back CNC-Maschine prüfen; Einlage Gesellschafter 80 TEUR notwendig. Langfristig: Margenanpassung Privatkundengeschäft, Restrukturierungsverfahren StaRUG nur bei nur drohender Zahlungsunfähigkeit (§ 18 InsO) eröffnet – hier ZU bereits eingetreten."
+  planung: "Integrierte Planung 24 Monate liegt nicht vor. Skill zeigt: ab KW 22 (25.–31.05.2026) tritt Zahlungsunfähigkeit ein (Liquiditätslücke > 10 %, nicht binnen 3 Wochen schließbar). Erst KW 31 (Zahlung Lützowufer) bringt operative Entlastung – dann aber 9 Wochen Zahlungsunfähigkeit überschritten."
+  sanierung: "Sanierungsfähigkeit IDW S 6: NEGATIV ohne Frischkapital + qualifizierten Rangrücktritt + Forderungsfactoring. Keine überwiegende Wahrscheinlichkeit branchenüblicher Ertragskraft binnen 24 Monaten."
+  fortbestehen: "Fortbestehensprognose § 19 Abs. 2 InsO: NEGATIV. In Verbindung mit rechnerischer Unterdeckung (negatives bilanzielles EK 31.12.2025: −34 TEUR; im Überschuldungsstatus mit stillen Reserven CNC ca. +60 TEUR positiv, ABER ohne Rangrücktritt Korbach 70 TEUR → Unterdeckung verbleibt) → INSOLVENZRECHTLICHE ÜBERSCHULDUNG INDIZIERT (§ 19 InsO). Antragspflicht 6 Wochen ab Eintritt (§ 15a Abs. 1 Satz 2 InsO). Hinweis § 102 StaRUG zwingend."

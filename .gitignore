@@ -1,0 +1,7 @@
+.DS_Store
+*.skill
+/logs/
+/outputs/
+/.claude/
+__pycache__/
+*.pyc

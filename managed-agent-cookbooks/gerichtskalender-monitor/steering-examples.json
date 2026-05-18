@@ -1,0 +1,22 @@
+[
+  {
+    "event": "Verfahren Az. 3 O 215/26 LG München I beobachten, Mandat M-2026-042",
+    "description": "Einzelmandat-Zivilrechtsverfahren – Sweep für Eingänge, Fristen nach ZPO prüfen, Berufungsfrist (§§ 517, 519 ZPO) und Klagebeantwortungsfrist (§ 277 ZPO) berechnen."
+  },
+  {
+    "event": "Tagesprüfung: alle aktiven Mandate mit Verhandlungsterminen in den nächsten 14 Tagen",
+    "description": "Geplanter Portfolio-Sweep für nahende Termine – priorisiert Mandate mit Hauptverhandlung, mündlicher Verhandlung (§ 128 ZPO) oder Güterichtertermin."
+  },
+  {
+    "event": "Neuer Eingang erkannt: Klageerwiderung in Mandat M-2026-042, Replikfrist berechnen",
+    "description": "Ereignis-ausgelöste Fristenberechnung für einen spezifischen Eingang – Replikfrist gemäß § 132 ZPO i.V.m. richterlicher Verfügung ermitteln."
+  },
+  {
+    "event": "Berufungsverfahren Az. 6 U 88/26 OLG Hamburg – Begründungsfrist und Anschlussberufungsfrist ermitteln",
+    "description": "Berufungsfristen nach §§ 519, 522 ZPO (Begründungsfrist 2 Monate), Anschlussberufung § 524 ZPO – besonders fristsensibles Verfahren, tägliche Überwachung."
+  },
+  {
+    "event": "Verwaltungsverfahren Az. 7 K 1234/26 VG Berlin – Klagefrist und Widerspruchsbescheiddatum prüfen",
+    "description": "VwGO-Klagefrist nach § 74 VwGO (1 Monat ab Zustellung Widerspruchsbescheid), Zustelldatum aus beA-Eingang verifizieren."
+  }
+]
