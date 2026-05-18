@@ -1,159 +1,183 @@
 ---
 name: oc-status
-description: Generate weekly status-request email drafts to outside counsel across the active portfolio — markdown per matter, plus Gmail drafts when the MCP is available. Use when the user asks for OC status requests, weekly outside counsel check-ins, or wants per-matter status emails drafted from the portfolio log.
-argument-hint: "[--all | --slug=foo | --no-gmail]"
+description: Erstellt wöchentliche Statusanfrage-E-Mail-Entwürfe an externe Bevollmächtigte (Sozietät/Korrespondenzanwalt) für alle aktiven Prozessmandate im Portfolio — Markdown-Entwurf je Mandat, optional Outlook-Entwurf bei verfügbarer MCP-Integration. Lädt, wenn der Nutzer Statusanfragen an externe Bevollmächtigte erstellen, wöchentliche Rückfragen bei der Außensozietät generieren oder mandatsbezogene Anfragen-E-Mails aus dem Portfolio-Protokoll heraus entwerfen möchte.
+language: de
+triggers:
+  - "Statusanfrage externe Bevollmächtigte"
+  - "Korrespondenzanwalt anfragen"
+  - "wöchentliche OC-Rückfrage"
+  - "Außensozietät Status"
+  - "Sachstandsanfrage Prozess"
+  - "Stand bei Gegenbevollmächtigten"
+  - "externe Anwälte abfragen"
+  - "Sozietät anfragen"
 ---
 
-# /oc-status
+# Statusabfrage Externe Bevollmächtigte
 
-To run weekly, set a recurring reminder to invoke `/litigation-legal:oc-status`. Automated scheduling requires a scheduled-tasks integration, which is not bundled.
+## Zweck
 
-1. Load `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml`, filter per default rules (or per flags).
-2. Load `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` → outside counsel directive style, signer defaults, budget posture.
-3. Follow the workflow and reference below.
-4. For each matter in scope: read `matter.md` + `history.md`, draft per-matter email.
-5. Write markdown to `~/.claude/plugins/config/claude-for-legal/litigation-legal/oc-status/[YYYY-MM-DD]/[slug].md`.
-6. If Gmail MCP authenticated: create Gmail drafts. Else: markdown-only, note in summary.
-7. Write `~/.claude/plugins/config/claude-for-legal/litigation-legal/oc-status/[YYYY-MM-DD]/_summary.md` — what ran, what was skipped and why.
+Jede Woche dieselbe Statusanfrage an externe Bevollmächtigte für 5–15 Prozessmandate zu schreiben ist mechanische Routinearbeit. Inhalt je Mandat ist wiederkehrend (Stand, ausstehende Entscheidungen, Budgetkontrolle). Die Adressaten sind gleich (Partneranwalt der mandatierten Sozietät). Der Ton ist einheitlich (gemäß der im Kanzleiprofil hinterlegten Direktive für externe Bevollmächtigte). Dieser Skill erstellt alle Entwürfe; der Anwalt prüft und versendet.
 
----
+## Eingaben
 
-# OC Status
+- **Mandatsprotokoll `_log.yaml`**: Filterquelle und Feldquelle
+- **`akte.md` und `verlauf.md`** je Mandat: Mandatskontext und aktuelle Entwicklungen
+- **Kanzleikonfiguration `CLAUDE.md`**: Direktive für externe Bevollmächtigte (Tonvorgabe), Unterzeichner, Budgethaltung
+- **Flags** (optional): `--alle`, `--slug=[bezeichnung]`, `--kein-outlook`
 
-## Purpose
+## Rechtlicher Rahmen
 
-Writing the same status-request email to outside counsel every week across 5–15 matters is mechanical cognitive tax. The content is consistent per matter (status, decisions pending, budget check). The audience is consistent (OC lead partner). The tone is consistent (per house outside-counsel-directive style). A scheduled task drafts all of them; counsel reviews and sends.
+### Kernvorschriften
 
-## Load context
+- **§ 43a Abs. 4 BRAO** — Anwaltliche Fortbildungs- und Berichterstattungspflicht gegenüber dem Mandanten; regelmäßige Rückmeldung der externen Bevollmächtigten ist Teil der ordnungsgemäßen Mandatsführung.
+- **§ 667 BGB** — Auskunftspflicht des Beauftragten; der externe Bevollmächtigte hat dem Auftraggeber auf Verlangen Auskunft zu erteilen; die wöchentliche Statusanfrage ist Ausfluss dieses Anspruchs.
+- **§ 43a Abs. 2 BRAO** — Vertraulichkeit; die Statuskorrespondenz mit externen Bevollmächtigten ist durch die gemeinsame Verschwiegenheitspflicht geschützt.
+- **§ 49b BRAO; §§ 2 ff. RVG** — Vergütung; Budgetanfragen und Kostenkontrollen im Statusschreiben orientieren sich am vereinbarten Honorar und etwaigen Vergütungsrahmen.
 
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml` — the filtering and field source
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/[slug]/matter.md` — matter context (current posture, open questions)
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/[slug]/history.md` — recent events to inform what to ask about
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` → outside counsel directive style, signer name/email, budget posture
+### Leitentscheidungen
 
-## Filtering — which matters?
+- **BGH, Urt. v. 08.11.2007 – IX ZR 58/06, NJW 2008, 224 Rn. 18 ff.** — Auskunfts- und Rechenschaftspflicht des Rechtsanwalts gegenüber dem Mandanten; regelmäßige schriftliche Berichterstattung als Teil der Sorgfaltspflicht.
+- **BGH, Urt. v. 19.01.2006 – IX ZR 232/04, NJW 2006, 1579 Rn. 12** — Haftung des Rechtsanwalts bei unterlassener Information über veränderte Prozesslage; Kommunikationspflichten im laufenden Prozessmandat.
+- **BGH, Urt. v. 06.06.2013 – IX ZR 204/12, NJW 2013, 2747 Rn. 14** — Pflicht zur Unterrichtung des Mandanten über drohende Kostenrisiken; Relevanz für Budgetabfragen in Statusschreiben.
 
-Default filter:
+### Kommentarliteratur
 
-- `status != closed`
-- `outside_counsel.firm != null` AND `outside_counsel.lead != null`
-- Either: last update more than 10 days old (time for something to have happened) OR has a `next_deadline` within 21 days
+- `Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a Rn. 120 ff.` — Unterrichtungspflichten des Anwalts; Reichweite der Berichterstattungspflicht gegenüber Mandanten und bei Korrespondenzmandat.
+- `BeckOK BRAO/Römermann, 21. Ed. (Stand 01.03.2024), § 49b Rn. 8 ff.` — Vergütungsabrechnungen; Transparenz im Mandatsverhältnis.
 
-Skip matters that just had a status update in the last 10 days (no need to re-ping) and matters where `outside_counsel.email` is null (email addresses needed for Gmail draft; still produce markdown).
+## Ablauf
 
-Flags:
-- `--all` → draft for every active matter regardless of recency
-- `--slug=[slug]` → draft for one matter only (ad-hoc request)
-- `--no-gmail` → skip Gmail draft creation even if MCP is available
+### Schritt 1: Mandate filtern
 
-## Per-matter email draft
+**Standardfilter:**
 
-Each email has the same skeleton; content is matter-specific.
+- `status != geschlossen`
+- `externe_bevollmaechtigte.sozietaet != null` UND `externe_bevollmaechtigte.partner != null`
+- Entweder: letzte Aktualisierung vor mehr als 10 Tagen ODER `naechste_frist` innerhalb von 21 Tagen
 
-**Subject:** per house convention (from `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` outside counsel directive style; fallback: `[Matter: [matter name]] — Weekly status update`)
+Übersprungen werden: Mandate mit Update in den letzten 10 Tagen (kein erneutes Anschreiben erforderlich) sowie Mandate ohne hinterlegte E-Mail-Adresse des externen Bevollmächtigten (Markdown-Entwurf wird trotzdem erstellt; Outlook-Entwurf nicht).
 
-**Body skeleton:**
+**Flags:**
+- `--alle` → Entwurf für alle aktiven Mandate, unabhängig von der Aktualität
+- `--slug=[bezeichnung]` → Entwurf nur für ein Mandat (Ad-hoc-Anfrage)
+- `--kein-outlook` → kein Outlook-Entwurf, auch wenn MCP verfügbar
+
+### Schritt 2: Je Mandat — E-Mail-Entwurf erstellen
+
+Jede E-Mail folgt demselben Grundgerüst; Inhalt ist mandatsspezifisch.
+
+**Betreff:** gemäß Kanzleidirektive (Fallback: `[Mandat: [Bezeichnung]] — Wöchentlicher Sachstand`)
+
+**Rumpf-Gerüst:**
 
 ```
-[lead partner first name],
+[Vorname des Partneranwalts],
 
-[One sentence opener — natural, matches house tone.]
+[Ein einleitender Satz — natürlich, entspricht dem Kanzleiston.]
 
-Checking in on [matter name]. A few items:
+Kurze Rückmeldung zu [Mandatsbezeichnung] erbeten. Einige Punkte:
 
-1. **Status since [date of last update captured in history.md]** — what's moved, what's pending? Any filings, hearings, correspondence, or calls since we last touched base?
+1. **Sachstand seit [Datum der letzten Aktualisierung aus verlauf.md]** — Was hat sich bewegt, was ist noch offen? Gab es Schriftsätze, Termine, Korrespondenz oder Telefonate seit unserem letzten Austausch?
 
-2. **Upcoming deadlines** — I show [next_deadline from log + any deadlines in matter.md]. Confirm coverage plan and any dates we should add.
+2. **Bevorstehende Fristen** — Ich vermerke [naechste_frist aus Protokoll + etwaige Fristen aus akte.md]. Bitte Abdeckungsplan bestätigen und ggf. weitere Termine mitteilen.
 
-3. **Decisions pending** — [pull open questions from matter.md that require OC input; if none, omit this numbered item and renumber]
+3. **Ausstehende Entscheidungen** — [offene Fragen aus akte.md, die externen Input erfordern; entfällt, falls keine vorhanden — umnummerieren]
 
-4. **Budget** — [monthly / quarterly / on-request per `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` budget posture]. Where are we against [budget authorization from matter.md]? Any variance to flag?
+4. **Budget** — [monatlich / quartalsweise / auf Anfrage gemäß Kanzleikonfiguration]. Wo stehen wir gegenüber [Budgetrahmen aus akte.md]? Gibt es Abweichungen?
 
-[If material and relevant: 5. Specific ask — e.g., "Please send me the latest draft of the motion to dismiss before [date]" — drawn from matter.md open questions.]
+[Falls wesentlich und relevant: 5. Konkrete Bitte — z. B. „Bitte Entwurf des Schriftsatzes vor [Datum] übersenden" — aus offenen Punkten in akte.md.]
 
-[Signoff — name, role, contact. From `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` signer default for OC directives.]
+[Grußformel — Name, Funktion, Kontakt. Aus Kanzleikonfiguration.]
 ```
 
-Adapt tone per `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` outside counsel directive style — some shops are "dear counsel" formal; others are first-name-and-bullets. Match.
+Ton wird der Kanzleidirektive angepasst — einige Kanzleien schreiben förmlich, andere per Vorname und Stichpunkte. Die Direktive hat Vorrang.
 
-## Output
+### Schritt 3: Ausgabe erstellen
 
-### Markdown drafts
+### Schritt 4: Abschicken-Schranke
 
-Write to: `~/.claude/plugins/config/claude-for-legal/litigation-legal/oc-status/[YYYY-MM-DD]/[slug].md`
+Jedem Entwurf wird folgender Hinweis angefügt (vor dem Versenden entfernen):
 
-Each file is one email, formatted as:
+> Dies ist ein Entwurf zur anwaltlichen Prüfung vor dem Versand an externe Bevollmächtigte. Prüfen Sie auf privilegierte Inhalte, die nicht aus dem Mandatsverhältnis herausgegeben werden sollten, sachliche Richtigkeit, Ton und Budgethaltung. Auch routinemäßige Wochenanfragen können Strategie, Positionierungen oder unbeabsichtigte Zugeständnisse enthalten.
+
+## Ausgabeformat
+
+### Markdown-Entwürfe
+
+Datei: `oc-status/[JJJJ-MM-TT]/[slug].md`
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs — differs by role; see `## Who's using this`]
+[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
 
-# [Matter name] — OC status request — [YYYY-MM-DD]
+# [Mandatsbezeichnung] — Statusanfrage externe Bevollmächtigte — [JJJJ-MM-TT]
 
-**To:** [outside_counsel.email from log] ([outside_counsel.lead], [outside_counsel.firm])
-**From:** [signer name / email from `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`]
-**Subject:** [subject line]
+**An:** [externe_bevollmaechtigte.email] ([Partner], [Sozietät])
+**Von:** [Unterzeichner Name/E-Mail aus Kanzleikonfiguration]
+**Betreff:** [Betreffzeile]
 
-> The work-product header above applies to this internal record. The outgoing email body below goes to outside counsel on a retained matter, which is itself a privileged communication — apply the house privilege marking (`~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` privilege conventions) at the top of the email sent, typically `Privileged & Confidential — Attorney-Client Communication / Attorney Work Product`, not this internal work-product header.
+> Der Arbeitsergebnis-Kopf oben gilt für diesen internen Vermerk. Der ausgehende E-Mail-Text unten geht an externe Bevollmächtigte in einem Mandatsverhältnis, das selbst durch Verschwiegenheit (§ 43a Abs. 2 BRAO) geschützt ist — Vertraulichkeitskennzeichnung gemäß Kanzleikonfiguration auf der versendeten E-Mail anbringen (typisch: „Vertraulich — Anwaltskorrespondenz / Mandatsgeheimnis").
 
 ---
 
-[body per skeleton]
+[Rumpf gemäß Gerüst]
 ```
 
-### Send gate (closing note on every draft)
+### Outlook-Entwürfe (falls MCP verfügbar)
 
-Append the following to each markdown draft, immediately below the body and above the run metadata — strip before sending:
+Falls die Outlook-MCP-Integration authentifiziert ist:
 
-> This is a draft status email for attorney review before sending to outside counsel. Check for privileged content you did not intend to share outside the engagement circle, factual accuracy, tone, and budget posture. Do not send unreviewed — even routine weekly check-ins can surface theory, strategy, or concessions the sender didn't mean to put in writing.
+- Je Mandat wird ein Entwurf im Outlook-Postfach (Ordner „Entwürfe") angelegt mit `an`, `von`, `betreff` und `text`
+- Der Entwurf liegt montags zur Prüfung bereit
+- Falls die MCP-Integration nicht verfügbar oder fehlerhaft ist: Rückfall auf Markdown und Hinweis an den Nutzer
 
-### Gmail drafts (if MCP available)
+### Laufergebnis-Zusammenfassung
 
-If the Gmail draft-creation MCP is authenticated:
-
-- Create a draft in the user's Gmail per matter with `to`, `from`, `subject`, `body` populated
-- The draft sits in Drafts folder; user reviews and sends Monday morning
-- If Gmail MCP is NOT available or fails: fall back to markdown-only and tell the user
-
-### Run summary
-
-After processing all matters, write `~/.claude/plugins/config/claude-for-legal/litigation-legal/oc-status/[YYYY-MM-DD]/_summary.md`:
+Nach Verarbeitung aller Mandate: `oc-status/[JJJJ-MM-TT]/_zusammenfassung.md`
 
 ```markdown
-# OC Status Run — [YYYY-MM-DD]
+# Statusanfrage Externe Bevollmächtigte — Lauf [JJJJ-MM-TT]
 
-**Matters processed:** [N]
-**Drafts created:** [N]
-**Gmail drafts:** [created / skipped — reason]
+**Mandate verarbeitet:** [N]
+**Entwürfe erstellt:** [N]
+**Outlook-Entwürfe:** [erstellt / übersprungen — Grund]
 
-## Drafted for
+## Entwurf erstellt für
 
-| Matter | OC lead | Last updated | Reason for inclusion |
+| Mandat | Externer Partner | Zuletzt aktualisiert | Grund der Aufnahme |
 |---|---|---|---|
-| [slug] | [lead] | [date] | [stale / upcoming deadline / --all / --slug] |
+| [slug] | [Partner] | [Datum] | [veraltet / bevorstehende Frist / --alle / --slug] |
 
-## Skipped
+## Übersprungen
 
-| Matter | Reason |
+| Mandat | Grund |
 |---|---|
-| [slug] | recent update (last touched [date]) |
-| [slug] | no OC email in log — update with `/matter-update [slug]` |
+| [slug] | aktuelles Update (zuletzt bearbeitet [Datum]) |
+| [slug] | keine E-Mail des externen Bevollmächtigten im Protokoll — nachtragen mit `/mandat-update [slug]` |
 
-## Anomalies
+## Auffälligkeiten
 
-- Matters without outside counsel assigned: [list — if any are high/critical risk, flagged]
-- Matters with outside counsel but no email in log: [list]
+- Mandate ohne externe Bevollmächtigte: [Liste — bei hohem/kritischem Risiko gesondert markiert]
+- Mandate mit externen Bevollmächtigten, aber ohne E-Mail-Adresse: [Liste]
 ```
 
-## Scheduling
+## Beispiel
 
-This skill is designed to run weekly. Automated scheduling requires a scheduled-tasks integration that is not bundled with the plugin. To run weekly, set a recurring reminder to invoke `/litigation-legal:oc-status` — e.g., Monday morning on your calendar.
+**Sachverhalt:** Mandat `bauer-ag-berufung-2025`, OLG Hamburg. Letztes Update vor 14 Tagen. Nächste Frist: Berufungserwiderung in 18 Tagen. Externer Partner: RA Dr. Schneider, Schneider & Partner.
 
-Ad-hoc: `/oc-status` any time. `/oc-status --slug=foo` for a single matter.
+**Ergebnis:** Entwurf mit Statusanfrage zu eingereichten Schriftsätzen seit letztem Austausch, Bestätigung der Berufungserwiderungsfrist, Budget-Abfrage gemäß Quartals-Direktive. Gespeichert unter `oc-status/2025-05-12/bauer-ag-berufung-2025.md`.
 
-## What this skill does not do
+## Risiken und typische Fehler
 
-- **Send the emails.** Drafts only. Counsel reviews and sends.
-- **Generate content it doesn't have.** If `matter.md` is thin, the email is short and asks broad-status questions. The skill doesn't invent specific questions from nothing.
-- **Retry failures.** If Gmail draft creation fails mid-run, the skill logs the failure and continues with markdown. User can retry after fixing auth.
-- **Rewrite history.md.** Reads it for context; doesn't modify. (If OC's response surfaces new events, use `/matter-update [slug]` to log them.)
-- **Enforce a minimum template.** If the house tone is "one line, first name, done," the draft honors that and skips the bulleted structure. Match `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`.
+- **Vertraulichkeit:** Die Statuskorrespondenz mit externen Bevollmächtigten ist durch § 43a Abs. 2 BRAO geschützt; Entwürfe nicht an Personen außerhalb des Mandatskreises weitergeben.
+- **Nicht geprüfte Entwürfe versenden:** Auch kurze Statusanfragen können strategische Hinweise, Budgetkonzessionen oder unbeabsichtigte Zugaben enthalten.
+- **Veraltete Kontaktdaten:** Falls die E-Mail des externen Partners nicht im Protokoll hinterlegt ist, wird kein Outlook-Entwurf angelegt; der Nutzer erhält einen Hinweis, die Daten nachzupflegen.
+- **Mandatsübergreifende Abfrage:** Nur bei aktivem `Mandatsübergreifender Kontext: an` in der Kanzleikonfiguration darf das System mandatsübergreifend lesen.
+
+## Quellenpflicht
+
+- Gesetzestexte: §§ 43a, 49b BRAO; §§ 2 ff. RVG; § 667 BGB
+- Rechtsprechung: BGH, Urt. v. 08.11.2007 – IX ZR 58/06, NJW 2008, 224; BGH, Urt. v. 19.01.2006 – IX ZR 232/04, NJW 2006, 1579
+- Kommentare: Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a Rn. 120 ff.; BeckOK BRAO/Römermann, 21. Ed. 2024, § 49b
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

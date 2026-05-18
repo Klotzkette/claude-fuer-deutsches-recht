@@ -1,283 +1,261 @@
 ---
 name: oss-review
 description: >
-  Open source license compliance check for a dependency list, a single
-  library, or outbound code. Use when reviewing a manifest, SBOM, or repo for
-  copyleft obligations and license compatibility, when asked whether a library
-  can ship, or when preparing code to be open-sourced.
-argument-hint: "[file path to manifest / SBOM | package name | repo path | paste text]"
+  Open-Source-Lizenz-Compliance-Prüfung für eine Abhängigkeitsliste, eine
+  einzelne Bibliothek oder ausgehenden Code. Lädt bei der Prüfung eines
+  Manifests, SBOM oder Repositories auf Copyleft-Pflichten und
+  Lizenzkompatibilität, bei der Frage ob eine Bibliothek ausgeliefert werden
+  darf, oder bei der Vorbereitung von Code zur Veröffentlichung als Open Source.
+language: de
+triggers:
+  - "Open-Source-Lizenz prüfen"
+  - "GPL Copyleft Compliance"
+  - "AGPL Pflichten"
+  - "Abhängigkeitsliste Lizenz"
+  - "SBOM Lizenzprüfung"
+  - "Open Source Veröffentlichung"
+  - "Nutzungsrechte Software Lizenz"
+  - "OSS Compliance"
 ---
 
-# /oss-review
+# Open-Source-Lizenz-Compliance-Prüfung
 
-Runs an open source license compliance check against the practice profile in `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`. Classifies dependencies by license family, maps obligations to the deployment model, flags license-unknown and non-OSI-posing-as-OSS packages, and recommends actions — comply, replace, remove, seek legal review, seek commercial license.
+## Zweck
 
-## Instructions
+Diese Skill teilt mit, welche Lizenzen im Abhängigkeitsbaum enthalten sind, welche Pflichten diese Lizenzen angesichts des Einsatzmodells auslösen, und was für jede einzelne Abhängigkeit zu tun ist: Pflichten erfüllen, ersetzen, entfernen, anwaltliche Prüfung einholen oder kommerzielle Lizenz beschaffen.
 
-1. **Load `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`.** If placeholders present, stop and prompt: "Run `/ip-legal:cold-start-interview` first — I need to learn your practice profile (and OSS policy, if any) before I can review." If the practice profile points at an uploaded OSS policy, read that too — it is the source of truth for accepted / review / banned licenses on this team.
+Dies ist eine Erstklassifikation. Copyleft-Analysen hängen vom Einsatzmodell, der Einbindungstiefe, der Rechtsordnung und bisweilen von noch nicht gerichtlich geklärten Rechtsfragen ab (insbesondere AGPL-Netzwerktrigger, GPL-3.0-Patentklausel). Alles was als starkes Copyleft oder unklare Lizenz eingestuft wird, geht vor Auslieferung oder Veröffentlichung an einen Rechtsanwalt. Die Skill liefert den Befund; der Anwalt entscheidet.
 
-2. **Establish the scope:** a dependency list (package.json, requirements.txt, go.mod, Gemfile, Cargo.toml, pom.xml, SBOM), a single library, or outbound code the team is preparing to open-source. If the user passed a path, infer from the file; otherwise ask.
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-3. **Establish the deployment model** before classifying obligations — SaaS, distributed binary, internal only, or embedded. The same dependency list triggers different obligations depending on this.
+## Eingaben
 
-4. **Follow the workflow below.** In particular:
-   - Read the actual license text, not just metadata — LICENSE files can be wrong, package metadata can be stale.
-   - Classify each package into permissive / weak copyleft / strong copyleft / public domain / non-OSI / unknown.
-   - Flag license-unknown as "needs review," not permissive by default.
-   - Flag non-OSI source-available licenses (SSPL, BUSL, Commons Clause, Elastic License, fair-source) — these are not open source.
-   - For outbound code, check that the chosen outbound license is compatible with every embedded dependency.
+1. **Was wird geprüft?**
+   - Abhängigkeitsliste (`package.json`, `requirements.txt`, `go.mod`, `Gemfile`, `Cargo.toml`, `pom.xml`, SBOM nach SPDX / CycloneDX, Lockfile)
+   - Einzelne Bibliothek — ein konkretes Paket, das hinzugefügt werden soll
+   - Eigener Code — Vorbereitung zur Open-Source-Veröffentlichung
 
-5. **Output the memo** per the template below — work-product header first, bottom line, top-of-memo flags, per-package blocks grouped by severity, jurisdiction note, outbound check (if applicable), approval routing.
+2. **Einsatzmodell** (vor Klassifikation der Pflichten zwingend festlegen):
+   - SaaS / gehosteter Dienst — Nutzer greifen über Netz zu; kein Code wird ausgeliefert
+   - Distribuiertes Programm — kompilierter Code wird ausgeliefert (Desktop-App, Mobile-App, On-Prem-Server, CLI)
+   - Nur intern — ausschließlich im Unternehmen genutzt, keine Auslieferung nach außen
+   - Eingebettet / Firmware — ausgeliefert in Hardware oder als Closed-System-Firmware
 
-6. **Respect the decision posture.** When a copyleft-trigger analysis turns on a contested question (AGPL's "interacts over a network," GPL-3.0's "conveying," LGPL linking scope), flag for attorney review and surface the factors cutting both ways. Anything flagged as strong copyleft or license-unknown goes to an attorney before the dependency ships or the code is released.
+## Rechtlicher Rahmen
 
-## Examples
+### Kernvorschriften
 
-```
-/ip-legal:oss-review ~/code/my-project/package.json
-/ip-legal:oss-review ~/code/my-project/requirements.txt
-/ip-legal:oss-review redis
-/ip-legal:oss-review ~/code/my-project  # repo root — scan all manifests
-```
+- **§ 69a ff. UrhG** — Urheberrechtsschutz für Computerprogramme; § 69b UrhG Arbeitnehmerprogramme
+- **§ 31 Abs. 1 UrhG** — Einfaches und ausschließliches Nutzungsrecht; Copyleft-Lizenzen räumen einfache Nutzungsrechte unter Bedingungen ein
+- **§ 31 Abs. 5 UrhG** — Zweckübertragungslehre: Im Zweifel nur für Vertragszweck erforderliche Rechte; Copyleft-Bedingungen müssen explizit akzeptiert werden
+- **§ 97 UrhG** — Unterlassungs- und Schadensersatzanspruch bei Lizenzverletzung; Grundlage für GPL-Enforcement-Klagen
+- **§§ 14, 15 UrhG** — Bearbeitungsrecht, Verwertungsrechte; Copyleft wirkt über das Bearbeitungsrecht
 
----
+### Leitentscheidungen
 
-## Works better connected
+- LG München I, Urt. v. 19.05.2004 – 21 O 6123/04 (Welte/Sitecom — GPL-Enforcement); grundlegendes Urteil: GPL ist durchsetzbares Vertragsrecht nach deutschem Recht; Verletzung führt zum automatischen Rechtelicenzentzug
+- BGH, Urt. v. 03.02.2022 – I ZR 1/21, GRUR 2022, 520 (Afterlife — GPL Enforcement) — Lizenzbedingungen einer Open-Source-Lizenz sind urheberrechtlich durchsetzbar; bei Verstoß entfällt das Nutzungsrecht rückwirkend
+- BGH, Urt. v. 25.06.2020 – I ZR 176/19, GRUR 2020, 1231 (Deutsche Digitale Bibliothek II) — Reichweite des Bearbeitungsrechts; relevanter Maßstab für Copyleft-Übernahme
+- OLG Hamburg, Urt. v. 03.11.2006 – 5 U 156/05 (netfilter/iptables) — GPL-Verletzung; Pflichten zur Quellcodeoffenlegung; kein Stillschweigen bei Verletzung
 
-OSS clearance requests usually come in via a ticketing system. Connected to
-Jira, Linear, or Asana, this skill can: monitor incoming OSS requests, respond
-with guidance directly in the ticket (flagging incomplete info, asking for the
-repo link, returning the license-family classification), and track clearance
-status across requests.
+### Kommentare
 
-Without a connector, paste the ticket or describe the request and I'll handle
-it one at a time. See `CONNECTORS.md` at the repo root for how to add a
-ticketing connector.
+- Schricker/Loewenheim/Spindler, UrhG, 6. Aufl. 2020, § 69a Rn. 1 ff. (Softwareschutz allgemein)
+- BeckOK UrhR/Scholz, 42. Ed. (Stand 01.01.2025), § 69a Rn. 20 ff. (Lizenzbedingungen von Open-Source-Software)
+- Dreier/Schulze/Dreier, UrhG, 7. Aufl. 2022, § 31 Rn. 60 ff. (Nutzungsrechtseinräumung, Copyleft-Mechanismus)
+- Metzger/Jaeger, GRUR Int. 1999, 839 (Zur Wirksamkeit der GPL nach deutschem Recht) — Grundlagenaufsatz
 
-## Matter context
+## Ablauf
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/ip-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/ip-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+### Schritt 1: Prüfungsumfang klären
 
----
+Aus dem Übergabematerial ableiten oder fragen:
 
-## Purpose
+- Abhängigkeitsliste → alle Einträge klassifizieren, Pflichten aufrollen
+- Einzelbibliothek → ein Paket klassifizieren, transitive Abhängigkeiten soweit verfügbar
+- Ausgehender Code → Was ist eingebettet (direkt und transitiv)? Ist die gewählte Ausgangslizenz mit allen eingebetteten Lizenzen kompatibel? Sind LICENSE/NOTICE-Dateien korrekt?
 
-Tell the user what licenses are in their dependency tree, what obligations those licenses trigger given how the code will be deployed, and what to do about each one. The output is a memo the lawyer (or the engineer with attorney access) can act on — comply, replace, remove, seek legal review, seek commercial license.
+### Schritt 2: Einsatzmodell festlegen
 
-**This is a first-pass classification.** Copyleft analysis depends on the deployment model, the degree of linking, the jurisdiction, and sometimes on legal questions that have not been tested in court (notably AGPL's "interacts over a network," GPL-3.0's patent clause). For anything that classifies as strong copyleft or license-unknown, an attorney evaluates before the dependency ships or the code is released. The skill reports what it found; the lawyer decides what to do.
+Das Einsatzmodell bestimmt, welche Copyleft-Pflichten ausgelöst werden:
 
-## Precondition: load the practice profile
-
-**Before scanning dependencies, read `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`.** If it is missing or still contains placeholders, stop and run `/ip-legal:cold-start-interview`. The practice profile tells you:
-
-- Who owns OSS review on this team (often engineering with legal sign-off)
-- Escalation routing for copyleft obligations
-- The work-product header to prepend
-
-If the practice profile has an OSS policy uploaded, read that too — it is the source of truth for which licenses the team accepts, which trigger review, and which are banned.
-
-## Workflow
-
-### Step 1: What's the scope?
-
-Ask (or infer from what the user provided):
-
-> What are we reviewing?
->
-> 1. **A dependency list** — `package.json`, `requirements.txt`, `go.mod`, `Gemfile`, `Cargo.toml`, `pom.xml`, an SBOM (SPDX / CycloneDX), a lockfile
-> 2. **A single library** — one specific package you're considering adding
-> 3. **Our own code** — we're planning to open-source this and need to check what's embedded
-
-The analysis path differs:
-
-- Dependency list → classify every entry, roll up obligations
-- Single library → classify one package and walk its transitive dependencies if available
-- Outbound code → check what's embedded (direct and transitive), check whether chosen outbound license is compatible with all embedded licenses, check that LICENSE / NOTICE files are correct
-
-### Step 2: What's the deployment model?
-
-This is the single most important input after the license list — the same library carries different obligations depending on how the software is delivered. Ask:
-
-> How will this be deployed?
->
-> 1. **SaaS / hosted service** — users access over a network; nothing ships to the user
-> 2. **Distributed binary** — we ship compiled code to users (desktop app, mobile app, on-prem server, CLI tool)
-> 3. **Internal only** — used only inside the company, not distributed outside
-> 4. **Embedded / firmware** — shipped in hardware or as closed-system firmware
-
-| Deployment | Licenses that materially matter |
+| Einsatzmodell | Wesentliche Lizenzen |
 |---|---|
-| SaaS | AGPL (network-trigger), permissive attribution in any UI, SSPL/BUSL/Elastic if repurposing as competing service |
-| Distributed binary | GPL, LGPL, MPL, EPL (all trigger on distribution), permissive attribution |
-| Internal only | Most copyleft does not trigger — no distribution. Permissive attribution still good hygiene. AGPL still triggers if users outside the company interact over the network. |
-| Embedded / firmware | GPL is especially hard to comply with here (source disclosure + reproducible build + installation information in some cases). Plan for this before shipping, not after. |
+| SaaS | AGPL-3.0 (Netzwerktrigger), Attribution bei Permissive in der UI, SSPL/BUSL/Elastic bei konkurrierendem Dienst |
+| Distribuiertes Programm | GPL-2.0, GPL-3.0, LGPL, MPL, EPL (alle triggern bei Distribution); Permissive Attribution |
+| Nur intern | Kein Copyleft-Trigger bei interner Nutzung ohne Distribution. AGPL triggert dennoch, wenn externe Nutzer über Netz zugreifen. Permissive Attribution gute Praxis. |
+| Embedded / Firmware | GPL besonders schwer erfüllbar (Quellcodeoffenlegung + reproduzierbarer Build + Installationsinfo); vor Auslieferung planen |
 
-Flag the deployment model in the output memo — the same dependency list reviewed against "SaaS" vs. "distributed binary" yields different obligations.
+Einsatzmodell im Ausgabevermerk kennzeichnen.
 
-### Step 3: Classify each dependency
+### Schritt 3: Jede Abhängigkeit klassifizieren
 
-For every package, determine the license. Read the actual license text, not just the metadata — LICENSE files can be wrong (the file says MIT but the headers say GPL; the README claims Apache but there's no license file), and package manager metadata can be stale.
+Nicht nur Metadaten lesen — tatsächlichen Lizenztext prüfen. LICENSE-Dateien können falsch sein; Package-Metadaten können veraltet sein.
 
-Classify into:
+Klassifikation:
 
-| Bucket | Examples | Key obligations |
+| Kategorie | Beispiele | Wesentliche Pflichten |
 |---|---|---|
-| **Permissive** | MIT, BSD-2-Clause, BSD-3-Clause, Apache-2.0, ISC, Zlib, Unlicense | Attribution, preserve license text, Apache-2.0 adds patent grant + NOTICE requirement |
-| **Weak copyleft** | LGPL-2.1, LGPL-3.0, MPL-2.0, EPL-1.0, EPL-2.0, CDDL | File-level or library-level source disclosure; linking rules vary |
-| **Strong copyleft** | GPL-2.0, GPL-3.0, AGPL-3.0, OSL, EUPL (depending on version) | Broad source disclosure; AGPL extends to network use |
-| **Public domain / dedication** | CC0, Unlicense, WTFPL | Typically no obligations, but some are contested in jurisdictions that don't recognize dedication to public domain |
-| **Non-OSI source-available** | SSPL, BUSL, Commons Clause, Elastic License, Confluent Community, fair-source family | Not open source — restrict commercial use, competing-service use, or both. Read the specific license. |
-| **Other / custom / unknown** | vendor-specific, proprietary, missing license file, license conflict between file and headers | Stop — do not treat as permissive by default |
+| **Permissiv** | MIT, BSD-2-Clause, BSD-3-Clause, Apache-2.0, ISC | Attribution, Lizenztextbeibehaltung; Apache-2.0 ergänzend Patentlizenz + NOTICE-Pflicht |
+| **Schwaches Copyleft** | LGPL-2.1, LGPL-3.0, MPL-2.0, EPL-1.0, EPL-2.0, CDDL | Datei- oder bibliotheksweite Quellcodeoffenlegung; Verlinkungsregeln variieren |
+| **Starkes Copyleft** | GPL-2.0, GPL-3.0, AGPL-3.0, OSL, EUPL (je nach Version) | Breite Quellcodeoffenlegung; AGPL erstreckt sich auf Netzwerknutzung |
+| **Public Domain / Widmung** | CC0, Unlicense, WTFPL | Keine Pflichten; aber: Public-Domain-Widmung nicht in allen Rechtsordnungen anerkannt (in Deutschland fraglich, §§ 29, 64 UrhG) |
+| **Nicht-OSI Source-Available** | SSPL, BUSL, Commons Clause, Elastic License, Fair Source | Kein Open Source — schränken kommerzielle oder konkurrierende Nutzung ein; Lizenztext lesen |
+| **Unbekannt / Proprietär** | Vendor-spezifisch, fehlendes Lizenz-File, Widerspruch File vs. Headers | Stopp — nicht als Permissiv behandeln |
 
-Flag:
+Besonders kennzeichnen:
 
-- **Dual-licensed packages** — which license are we using? The choice may change obligations.
-- **Deprecated packages** — the package is no longer maintained; is there a supported replacement?
-- **Packages with a copyleft dependency in their own tree** — the top-level license is permissive but a transitive dependency is copyleft.
-- **Packages that changed license recently** — Redis, MongoDB, Elastic, HashiCorp — make sure the version pinned is under the license you think it is.
+- **Dual-lizenzierte Pakete** — welche Lizenz nutzen wir? Wahl kann Pflichten ändern.
+- **Veraltete Pakete** — kein aktiver Maintainer; gibt es einen gepflegten Ersatz?
+- **Copyleft in transitiver Abhängigkeit** — Toplevel-Lizenz ist permissiv, aber eine transitive Abhängigkeit ist Copyleft.
+- **Lizenswechsel bei bekannten Projekten** — Redis, MongoDB, Elastic, HashiCorp haben relizenziert; angepinnte Version prüfen.
 
-### Step 4: Map obligations to the deployment model
+### Schritt 4: Pflichten auf Einsatzmodell abbilden
 
-For each classified dependency, state what the deployment model triggers:
+Für jedes klassifizierte Paket:
 
 ```markdown
-### [package@version] — [License]
+### [Paket@Version] — [Lizenz]
 
-**Classification:** [Permissive / Weak copyleft / Strong copyleft / Public domain / Non-OSI / Unknown]
+**Klassifikation:** [Permissiv / Schwaches Copyleft / Starkes Copyleft / Public Domain / Nicht-OSI / Unbekannt]
 
-**Obligations for our deployment ([SaaS / binary / internal / embedded]):**
+**Pflichten für unser Einsatzmodell ([SaaS / Distribuiert / Intern / Embedded]):**
 
-- [ ] [Specific obligation — e.g., "Include attribution in a NOTICES file shipped with the app"]
-- [ ] [e.g., "If we modify and distribute, publish source of our modifications"]
-- [ ] [e.g., "AGPL network trigger — if users access our modified version over a network, source must be offered to them"]
+- [ ] [Konkrete Pflicht — z. B. „Attribution in NOTICES-Datei, die mit der App ausgeliefert wird"]
+- [ ] [z. B. „Bei Modifikation und Distribution: Quellcode der Änderungen veröffentlichen"]
+- [ ] [z. B. „AGPL-Netzwerktrigger — wenn Nutzer über Netz auf unsere modifizierte Version zugreifen, Quellcode anbieten"]
 
-**Risk:** 🔴 Critical | 🟠 High | 🟡 Medium | 🟢 Low
+**Risiko:** 🔴 Kritisch | 🟠 Hoch | 🟡 Mittel | 🟢 Niedrig
 
-**Recommendation:** [Comply with obligations | Replace with [alternative] | Remove | Attorney review before shipping | Seek commercial license from [vendor]]
+**Empfehlung:** [Pflichten erfüllen | Ersetzen durch [Alternative] | Entfernen | Anwaltliche Prüfung vor Auslieferung | Kommerzielle Lizenz bei [Anbieter] beschaffen]
 ```
 
-> **How is the copyleft dependency consumed?** The linking relationship determines whether copyleft actually triggers. Ask or determine:
-> - **Static linking / compilation together:** The works are combined into one binary. Strong signal that copyleft triggers (LGPL "work based on the Library," GPL derivative work).
-> - **Dynamic linking / shared library:** The works remain separable at runtime. LGPL explicitly permits this ("work that uses the Library"). GPL's position is contested (FSF says derivative, others disagree).
-> - **Header inclusion / inline functions:** Can create a derivative work depending on how much is included.
-> - **Subprocess / IPC:** Separate processes communicating over well-defined interfaces. Generally not derivative.
-> - **Network API call:** For most licenses, no. For **AGPL**, the network-interaction clause means serving the software over a network IS distribution. In a microservices architecture, an AGPL component behind an API still triggers.
-> - **File-scope copyleft (MPL):** Only the modified files carry copyleft, not the whole work. Check whether any copyleft files were modified.
->
-> **The severity rating depends on this.** "LGPL — weak copyleft, linking rules vary" without the linking analysis is the answer that gets an engineer sued. Static-linked LGPL in a proprietary product is 🔴 Critical. Dynamic-linked LGPL is 🟢 Low. Same license, opposite rating.
+**Verlinkungsbeziehung bestimmt den Schweregrad:**
 
-**Severity calibration:**
+- **Statische Verlinkung / gemeinsame Kompilierung:** Werke zu einem Binary vereint. Starkes Signal für Copyleft-Trigger.
+- **Dynamische Verlinkung / Shared Library:** Werke zur Laufzeit trennbar. LGPL explizit erlaubt (§ 6 LGPL — „work that uses the Library"). GPL-Position umstritten.
+- **Header-Einbindung / Inline-Funktionen:** Kann abhängig von Einbindungstiefe ein abgeleitetes Werk begründen.
+- **Subprozess / IPC:** Getrennte Prozesse über wohldefinierte Schnittstellen. Im Regelfall kein abgeleitetes Werk.
+- **Netzwerk-API-Aufruf:** Für die meisten Lizenzen kein Trigger. Für **AGPL-3.0**: Bereitstellung der Software über Netz gilt als Verbreitung — auch AGPL-Komponente hinter einer API triggert in einer Microservice-Architektur.
+- **Dateiweises Copyleft (MPL):** Nur modifizierte Dateien tragen das Copyleft, nicht das gesamte Werk.
 
-| Level | Means |
+**Schweregrad-Kalibrierung:**
+
+| Stufe | Bedeutung |
 |---|---|
-| 🔴 Critical | Strong copyleft in a deployment that triggers it (e.g., GPL in a distributed binary, AGPL in a SaaS). Non-OSI license that the business model actually conflicts with (e.g., SSPL while we're building a managed service). License cannot be determined and the package is load-bearing. |
-| 🟠 High | Weak copyleft with obligations the team hasn't set up for (file-level disclosure, NOTICE requirements). Dual-licensed where the chosen license is ambiguous. License file says one thing, headers say another. |
-| 🟡 Medium | Permissive with attribution requirements that haven't been wired into the build (missing NOTICES file, missing LICENSE in distribution). Transitive copyleft in a position that may or may not trigger, depending on how the library is consumed. |
-| 🟢 Low | Permissive with obligations already satisfied. Copyleft in a deployment model that doesn't trigger it (e.g., GPL library used internally only, with no redistribution). |
+| 🔴 Kritisch | Starkes Copyleft in einem Einsatzmodell, das es auslöst (GPL in distribuiertem Binary, AGPL in SaaS). Nicht-OSI-Lizenz, die dem Geschäftsmodell widerspricht (z. B. SSPL bei gebautem verwaltetem Dienst). Lizenz nicht bestimmbar bei tragender Abhängigkeit. |
+| 🟠 Hoch | Schwaches Copyleft mit Pflichten, die noch nicht eingerichtet sind (Dateilevel-Disclosure, NOTICE-Anforderungen). Dual-lizenziert mit unklarer Lizenzwahl. Lizenzdatei widerspricht File-Headern. |
+| 🟡 Mittel | Permissiv mit noch nicht umgesetzten Attributionspflichten (fehlende NOTICES-Datei). Transitive Copyleft-Abhängigkeit, die je nach Einbindung triggern kann oder nicht. |
+| 🟢 Niedrig | Permissiv mit bereits erfüllten Pflichten. Copyleft in einem Einsatzmodell, das es nicht auslöst (GPL-Bibliothek nur intern, keine Distribution). |
 
-### Step 5: Flag failure modes
+### Schritt 5: Kritische Befunde am Anfang des Vermerks kennzeichnen
 
-Call out any of the following in a top-of-memo section:
+- **Lizenz unbekannt** — als „Prüfung erforderlich" klassifizieren, nicht als Permissiv. Unklassifizierte Abhängigkeit sollte eine Lieferentscheidung aufhalten.
+- **Lizenzdatei widerspricht File-Headern** — beide lesen und Widerspruch melden.
+- **Inkompatible Kombinationen** — GPL-2.0-only + Apache-2.0 historisch bekannte Inkompatibilität; MPL / EPL / GPL-Kombinationen sorgfältig prüfen.
+- **Nicht-OSI-Lizenzen als Open Source getarnt** — SSPL, BUSL, Commons Clause, Elastic License. Lizenztexte lesen; nicht dem GitHub-„Open Source"-Badge vertrauen.
+- **Lizenswechsel** — wenn Vorgängerversion permissiv und aktuelle Version Source-Available ist: angepinnte Version entscheidet.
 
-- **License unknown** — classify as "needs review," not permissive. An unclassified dependency should stop a ship decision, not slip through.
-- **License file conflicts with file headers** — read both and report the conflict.
-- **Incompatible combinations** — GPL-2.0 only + Apache-2.0 historically a known incompatibility; check MPL / EPL / GPL combinations carefully.
-- **Non-OSI licenses posing as open source** — SSPL, BUSL, Commons Clause, Elastic License, Confluent Community. Read the license; don't rely on GitHub's "open source" badge.
-- **License changes** — if a prior version was permissive and the current version is source-available, the pin matters.
+### Schritt 6: Ausgehende Prüfung (nur bei Code-Veröffentlichung als Open Source)
 
-### Step 6: Outbound check (if reviewing our own code before open-sourcing)
+- Gewählte Ausgangslizenz mit jeder eingebetteten Abhängigkeitslizenz kompatibel? (Kein MIT-Release bei eingebettetem GPL-Code möglich — das kombinierte Werk muss GPL sein)
+- LICENSE-Datei vorhanden und korrekt?
+- NOTICE-Datei vorhanden mit erforderlichen Attributionen (Apache-2.0 u. a.)?
+- Drittlizenz-Texte gebündelt wo erforderlich?
+- Kein proprietärer oder vertraulicher Code, keine Kundendaten, keine eingebetteten Zugangsdaten in der Repository-History?
+- Marken- und Markenrechtsrichtlinien für den Projektnamen geprüft (getrennt von der Urheberrechtslizenz)?
 
-If the user is preparing to open-source code:
-
-- Confirm the chosen outbound license is compatible with every embedded dependency's license (e.g., you cannot release under MIT if you've embedded GPL code — the combined work must be GPL)
-- Confirm LICENSE file is present and correct
-- Confirm NOTICE file is present and lists required attributions (Apache-2.0 and others)
-- Confirm third-party license texts are bundled where required
-- Confirm no proprietary or confidential code, no customer data, no embedded credentials in the repo history
-- Confirm trademark and brand policy for any project name (separate from the copyright license)
-
-### Step 7: Assemble the memo
-
-Prepend the work-product header from `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md` → `## Outputs` (differs by user role — see `## Who's using this`).
-
-This memo and any dependency list reviewed may be privileged, confidential, or both. The output inherits that status from the source. Distribute only within the privilege circle; strip the work-product header before any external delivery (including before attaching the memo to an engineering ticket outside the privilege circle).
-
-> **No silent supplement.** If a research query to the configured legal research tool returns few or no results for a rule the memo needs (enforceability of AGPL's network trigger in a given jurisdiction, scope of GPL-3.0's patent grant, latest license text for a recently-relicensed package), report what was found and stop. Do NOT fill the gap from web search or model knowledge without asking. Say: "The search returned [N] results from [tool]. Coverage appears thin for [rule / license / jurisdiction]. Options: (1) broaden the search query, (2) try a different research tool, (3) search the web — results will be tagged `[web search — verify]` and should be checked against a primary source before relying, or (4) flag as unverified and stop. Which would you like?" A lawyer decides whether to accept lower-confidence sources.
->
-> **Source attribution.** Where the memo cites a license text, a court decision interpreting a license, or guidance from a steward (FSF, OSI, SPDX, SFLC), tag the citation: `[OSI]`, `[SPDX]`, `[FSF]`, `[SFC/SFLC]`, `[Westlaw]`, or the MCP tool name for citations retrieved from a connector; `[web search — verify]` for web-search citations; `[model knowledge — verify]` for citations recalled from training data; `[user provided]` for license text read directly from the repo. Citations tagged `verify` carry higher fabrication risk. Never strip or collapse the tags.
+### Schritt 7: Vermerk zusammenstellen
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs]
+[ARBEITSERGEBNIS-KOPFZEILE]
 
-# OSS Review: [Project / Dependency List / Package]
+# OSS-Lizenz-Prüfung: [Projekt / Abhängigkeitsliste / Paket]
 
-**Reviewed:** [date]
-**Scope:** [Dependency list / Single library / Outbound code]
-**Deployment model:** [SaaS / Binary / Internal / Embedded]
-
----
-
-## Bottom line
-
-[Two sentences. Can this ship? What has to happen first?]
-
-**Packages reviewed:** [N]
-**By classification:** [N permissive, N weak copyleft, N strong copyleft, N public domain, N non-OSI, N unknown]
-**Issues:** [N]🔴 [N]🟠 [N]🟡 [N]🟢
-
-**Approval needed from:** [name, per practice profile]
+**Geprüft:** [Datum]
+**Umfang:** [Abhängigkeitsliste / Einzelbibliothek / Ausgehender Code]
+**Einsatzmodell:** [SaaS / Distribuiert / Intern / Embedded]
 
 ---
 
-## Top-of-memo flags
+## Ergebnis
 
-[License-unknown list, license-conflict list, non-OSI-posing-as-OSS list, incompatible combinations]
+[Zwei Sätze. Kann ausgeliefert werden? Was muss zuerst passieren?]
 
----
+**Geprüfte Pakete:** [N]
+**Nach Klassifikation:** [N permissiv, N schwaches Copyleft, N starkes Copyleft, N Public Domain, N Nicht-OSI, N unbekannt]
+**Befunde:** [N]🔴 [N]🟠 [N]🟡 [N]🟢
 
-## By package
-
-[Blocks from Step 4, grouped by severity]
-
----
-
-## Jurisdiction note
-
-OSS license enforceability varies — AGPL's network trigger has not been broadly tested in court; GPL-3.0's patent clause reads differently under US vs. EU patent law; dedications to public domain are not universally recognized. State the governing-law choice for any downstream distribution (e.g., vendor agreements incorporating the code) and flag jurisdictions the practice profile marks as escalate.
+**Genehmigung erforderlich von:** [Name, gemäß Mandatsprofil]
 
 ---
 
-## Outbound check (if applicable)
+## Kritische Anfangshinweise
 
-[From Step 6]
+[Unbekannte Lizenzen, Lizenz-Konflikte, Nicht-OSI als OSS getarnt, inkompatible Kombinationen]
 
 ---
 
-## Approval routing
+## Nach Paket
 
-[From practice profile — who approves, what triggers automatic escalation]
+[Blöcke aus Schritt 4, nach Schweregrad gruppiert]
+
+---
+
+## Rechtsordnungshinweis
+
+OSS-Lizenz-Durchsetzbarkeit variiert: AGPL-Netzwerktrigger ist in Deutschland grundsätzlich durchsetzbar (vgl. LG München I); Public-Domain-Widmungen sind im deutschen Recht problematisch (§§ 29, 64 UrhG — kein vollständiger Rechteentzug möglich, nur schuldrechtliche Abreden). Anwendbares Recht für Downstream-Distribution (z. B. bei Kunden in anderen Jurisdiktionen) und Mandatsprofil-Flaggen beachten.
+
+---
+
+## Ausgehende Prüfung (soweit einschlägig)
+
+[Aus Schritt 6]
+
+---
+
+## Weiterleitungshinweise
+
+[Wer genehmigt; was löst automatische Eskalation aus]
 ```
 
-## Decision posture
+## Ausgabeformat
 
-When a license cannot be confidently classified, flag it as **"needs review"** — do not call it permissive. Under-classifying license risk is a one-way door: a ship decision made on a permissive-by-default assumption becomes a source-disclosure obligation or an injunction months later. Over-flagging is a two-way door — the attorney narrows the list in review.
+Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, kritischen Anfangshinweisen, Paketblöcken nach Schweregrad, Rechtsordnungshinweis, ausgehende Prüfung (falls einschlägig), Weiterleitungshinweise.
 
-Likewise, when the copyleft-trigger analysis turns on a contested question (AGPL's "interacts over a network," GPL-3.0's "conveying," the scope of LGPL linking), flag for attorney review and surface the factors cutting both ways.
+## Beispiel
 
-## Quality checks before delivering
+**Eingabe:** `requirements.txt` eines Python-SaaS-Projekts enthält `flask-login` (MIT), `celery` (BSD-3-Clause), `cryptography` (Apache-2.0/BSD), `mysqlclient` (GPL-2.0).
 
-- [ ] Practice profile and any OSS policy were loaded
-- [ ] Deployment model was established before classifying obligations
-- [ ] Every dependency has a classification, including transitives where available
-- [ ] License-unknown packages are flagged, not defaulted to permissive
-- [ ] License text was read (not just metadata) for any copyleft or non-OSI finding
-- [ ] Source tags applied to citations; no stripped `verify` tags
-- [ ] Approver named per practice profile
-- [ ] Output marked with the work-product header
+**Befund (Auszug):**
 
-## Close with the next-steps decision tree
+> ### mysqlclient@2.1.1 — GPL-2.0
+>
+> **Klassifikation:** Starkes Copyleft
+>
+> **Pflichten für unser Einsatzmodell (SaaS):**
+> - [ ] Kein Distributions-Trigger bei reiner SaaS-Nutzung — Quellcodeoffenlegungspflicht der GPL trifft grundsätzlich auf physische Distribution
+> - [ ] AGPL-Trigger gilt nicht für GPL-2.0 — jedoch: falls künftig Binary ausgeliefert wird, entsteht Pflicht
+> - [ ] Kommerziell: MySQL Connector/Python (proprietäre Lizenz) oder `PyMySQL` (MIT) als Alternative prüfen
+>
+> **Risiko:** 🟡 Mittel (SaaS ohne Distribution) / 🔴 Kritisch (bei künftiger Binary-Distribution)
+>
+> **Empfehlung:** Ersetzen durch `PyMySQL` (MIT) zur Risikominimierung; alternativ anwaltliche Prüfung ob SaaS-Einsatz tatsächlich GPL-frei bleibt.
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+## Risiken und typische Fehler
 
-If the scan surfaced more than ~10 packages, or any time the user asks: offer the dashboard (see CLAUDE.md `## Outputs → Dashboard offer for data-heavy outputs`). Shape the offer to what's useful here — counts by license family (permissive / weak copyleft / strong copyleft / AGPL / proprietary / unknown), risk distribution, and a table of findings with severity and package version.
+- **GPL-Durchsetzbarkeit in Deutschland unterschätzen:** Deutsche Gerichte haben GPL-Bedingungen konsequent durchgesetzt (LG München I, BGH). Verstöße führen automatisch zum Verlust des Nutzungsrechts.
+- **AGPL-Netzwerktrigger ignorieren:** Bei SaaS-Anwendungen, die AGPL-Komponenten nutzen, muss der gesamte Quellcode den Nutzern angeboten werden — auch ohne physische Distribution.
+- **Public Domain im deutschen Recht:** § 64 UrhG: Urheberrecht erlischt 70 Jahre nach Tod des Urhebers. Eine „Widmung" in die Gemeinfreiheit ist deutschrechtlich nicht vollständig möglich; CC0 ist die bestmögliche Annäherung.
+- **Dynamische vs. statische Verlinkung:** Gleiche Lizenz, entgegengesetztes Ergebnis. LGPL + statisch gelinkt = 🔴; LGPL + dynamisch gelinkt = 🟢.
+- **Lizenswechsel nicht erkannt:** Angepinnte Version bestimmt die Lizenz — nicht die aktuelle Upstream-Version.
 
+## Quellenpflicht
+
+Alle Klassifikationen und Pflichtaussagen müssen belegbar sein:
+
+- **Gesetze:** §§ 31, 69a, 97 UrhG
+- **Rechtsprechung:** mindestens eine Entscheidung zur GPL-Durchsetzbarkeit (LG München I oder BGH Afterlife)
+- **Lizenztext:** direkt aus dem Repository oder SPDX; als `[Lizenztext gelesen — [Quelle]]` kennzeichnen
+- **Kommentar oder Aufsatz:** Schricker/Loewenheim UrhG oder Metzger/Jaeger GRUR Int. 1999 mit Seitenangabe
+- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.

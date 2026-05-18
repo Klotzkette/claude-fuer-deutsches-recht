@@ -1,173 +1,183 @@
 ---
 name: deadlines
 description: >
-  Track case deadlines — add, cross-case rollup report, update, complete,
-  close. Warns at configurable thresholds (default 14/7/3/1 days); overdue
-  items stay flagged until resolved. The operational record for a clinic
-  workload. Use when a student or supervisor needs to add a deadline,
-  ask what's due this week, get a deadline report, or update a case deadline.
-argument-hint: "[--add | --report (default) | --update [id] | --complete [id] | --close [id] | --horizon=N]"
+  Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende
+  Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen.
+  Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige
+  Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein
+  Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder
+  eine Fristenübersicht für laufende Mandate benötigt.
+language: de
+triggers:
+  - "Frist eintragen"
+  - "Fristenübersicht"
+  - "Notfrist"
+  - "Wiedereinsetzung"
+  - "Klagefrist"
+  - "VwVfG Frist"
+  - "ZPO Frist"
+  - "Fristenkontrolle"
+  - "was ist diese Woche fällig"
 ---
 
-# /deadlines
+# Fristenverwaltung
 
-1. Load `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → jurisdiction, practice areas, warning-day cadence.
-2. Use the workflow below.
-3. Route by flag:
-   - `--add`: capture case, type, description, due date, source, owner. Write to `~/.claude/plugins/config/claude-for-legal/legal-clinic/deadlines.yaml`. Check for duplicates first.
-   - `--report` (default): cross-case rollup — overdue, next 3d, next 7d, next 14d; by owner; by practice area; unassigned flags.
-   - `--update [id]`: modify fields; log note with date.
-   - `--complete [id]`: mark done; confirm with student that work is actually filed/submitted.
-   - `--close [id]`: close-without-completing; require rationale in notes.
-4. Confirm any write before committing.
+## Zweck
 
----
+Die gravierendste operative Gefahr einer Rechtsberatungsstelle ist eine versäumte Frist. Studierende betreuen mehrere Mandate gleichzeitig, arbeiten in Teilzeit und wechseln semesterweise. Fristen, die nur im Kopf einzelner Studierender existieren, gehen bei der Semesterübergabe verloren, werden in Prüfungsphasen vergessen oder fallen weg, wenn ein Studierender unerwartet aus der Beratungsstelle ausscheidet.
 
-# Deadlines
+Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende volljuristische Supervisor trägt die Verantwortung, wenn eine Frist versäumt wird. Die Skill ist auf dieses Haftungsniveau kalibriert: Warnungen greifen früh, überfällige Einträge bleiben in jeder Übersicht sichtbar, und Semesterübergaben (via `/semester-handoff`) übertragen das Fristenregister auf die nächste Studierendenkohorte.
 
-## Purpose
+## Eingaben
 
-A clinic's biggest operational risk is a missed deadline. Students carry multiple cases, work part-time, turn over every semester. Deadlines that live only in individual students' heads get dropped at handoff, get forgotten during finals week, get missed when a student unexpectedly withdraws from the clinic. This skill is the central operational record.
+- **Fall-ID + Bezeichnung** — um welches Mandat handelt es sich?
+- **Rechtsgebiet** — z. B. Mietrecht, Aufenthaltsrecht, Verbraucherrecht
+- **Fristtyp** — Einreichungsfrist / Gerichtstermin / Verjährungsfrist / Widerspruchsfrist / Klagefrist / Wiedereinsetzungsfrist / Sonstige
+- **Beschreibung** — eine Zeile: was ist fällig?
+- **Fälligkeitsdatum** (ggf. Uhrzeit)
+- **Quelle** — Grundlage der Frist (z. B. Zustellungsurkunde v. 20.04.2026, § 74 VwGO, § 276 Abs. 1 ZPO, Mietvertrag § 7)
+- **Zuständige/-r Studierende/-r**
 
-The supervising attorney is on the hook if a deadline is missed. The skill is calibrated to that stakes level — warnings fire early, overdue items stay visible until explicitly resolved, handoffs (via `/semester-handoff`) pull the deadline list forward to the next student.
+## Rechtlicher Rahmen
 
-## Load context
+### Kernvorschriften
 
-- `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → jurisdiction, practice areas, deadline warning days (default 14/7/3/1), supervising attorneys
-- `~/.claude/plugins/config/claude-for-legal/legal-clinic/deadlines.yaml` — the ledger
+- **§§ 186–193 BGB** — Berechnung von Fristen und Terminen; § 193 BGB: Fristende am nächsten Werktag, wenn Fälligkeit auf Samstag, Sonntag oder gesetzlichen Feiertag fällt.
+- **§§ 217–222 ZPO** — Prozessuale Fristberechnung (Beginn, Ende, Verlängerung, Notfristen).
+- **§§ 233–238 ZPO** — Wiedereinsetzung in den vorigen Stand: bei unverschuldeter Fristversäumung binnen zwei Wochen nach Wegfall des Hindernisses zu beantragen (§ 234 ZPO); bei Notfristen und Frist zur Begründung der Revision beachte § 233 S. 2 ZPO.
+- **§§ 31, 32 VwVfG / §§ 57–60 VwGO** — Fristberechnung im Verwaltungsverfahren und verwaltungsgerichtlichen Verfahren; Wiedereinsetzung nach § 60 VwGO.
+- **§ 74 VwGO** — Klagefrist von einem Monat nach Zustellung des Widerspruchsbescheids.
+- **§ 80 Abs. 5 VwGO** — Antrag auf Wiederherstellung der aufschiebenden Wirkung (einstweiliger Rechtsschutz).
+- **§ 4 KSchG** — Dreiwochenfrist zur Erhebung der Kündigungsschutzklage (Notfrist); § 5 KSchG Wiedereinsetzung (nachträgliche Zulassung).
+- **§§ 195 ff. BGB** — Verjährungsfristen: Regelverjährung 3 Jahre (§ 195 BGB), Beginn mit Schluss des Entstehungsjahres (§ 199 Abs. 1 BGB).
+- **§§ 12–17 BeratungshilfeG (BerHG)** — Verfahren bei Beratungshilfe; Beratungshilfeschein vor Mandatsbeginn einholen.
+- **§§ 114–127a ZPO** — Prozesskostenhilfe (PKH): Antrag vor oder mit Klageerhebung, keine Unterbrechung laufender Fristen durch PKH-Antrag (§ 204 Abs. 1 Nr. 14 BGB beachten).
 
-**Jurisdiction assumption.** Deadline calculations and warning thresholds assume the jurisdiction set in CLAUDE.md. Deadlines, tolling rules, computation-of-time rules, and local court practices vary materially by jurisdiction and by specific court. If a matter involves a different state, a specific court's local rules, or a federal vs. state forum question, confirm the deadline against the governing rule with your supervisor before relying on it.
+### Leitentscheidungen
 
-## Modes
+- BGH, Beschl. v. 15.12.2021 – XII ZB 557/20, NJW 2022, 614 Rn. 10 ff. — Sorgfaltspflichten bei elektronischer Fristennotierung; Kanzleipflicht zur Ausgangskontrolle gilt auch für studentische Beratungsstellen sinngemäß.
+- BGH, Beschl. v. 08.02.2022 – XI ZB 43/20, NJW-RR 2022, 647 Rn. 8 — Wiedereinsetzungsantrag: Glaubhaftmachung nach § 236 Abs. 2 ZPO erfordert vollständige und in sich schlüssige Darlegung des Fristversäumnisses.
+- BVerwG, Beschl. v. 12.06.2019 – 2 B 53/18, NVwZ-RR 2019, 879 Rn. 5 — Fristwahrung im verwaltungsgerichtlichen Verfahren; Zugangsfiktion bei Bekanntgabe nach § 41 Abs. 2 VwVfG.
+- BAG, Urt. v. 26.06.2014 – 2 AZR 594/13, NZA 2014, 1303 Rn. 14 — Drei-Wochen-Frist des § 4 KSchG als Ausschlussfrist; keine Hemmung durch laufende Verhandlungen.
 
-Flag: `--add | --report | --update | --complete | --close` (default: report)
+### Kommentarliteratur
 
-### `--add` — log a new deadline
+- BeckOK ZPO/Jaspersen, 53. Ed. (Stand 01.03.2025), § 233 Rn. 15 ff. — Voraussetzungen der Wiedereinsetzung; unverschuldetes Hindernis.
+- MüKoZPO/Stackmann, 6. Aufl. 2020, § 217 Rn. 5 — Fristberechnung, Beginn der Notfrist.
+- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 60 Rn. 1 ff. — Wiedereinsetzung im Verwaltungsprozessrecht.
+- Palandt/Ellenberger, BGB, 83. Aufl. 2024, § 186 Rn. 1 ff. — Fristberechnung nach §§ 186–193 BGB.
 
-**Inputs:**
-- Case ID + name (which case)
-- Practice area
-- Type (filing / hearing / statute-of-limitations / discovery / cure-period / response / notice / other)
-- Description — one line of what's due
-- Due date (and time + timezone if applicable)
-- Source — where the deadline came from (court order served 2026-04-20, statute 8 USC § 1229a, cure period in contract §7)
-- Owner student — the student responsible
+## Ablauf
 
-The skill generates an `id` slug automatically: `[case]-[short-desc]-[YYYY-MM]`.
+### Modus `--eintragen` — neue Frist erfassen
 
-**Extraction from other skills:** when `/client-intake`, `/draft`, or `/status` surface a deadline in their output, they should hand off to this skill with pre-populated fields. Student confirms and adds.
+1. Fall-ID + Bezeichnung abfragen.
+2. Fristtyp und Beschreibung erfassen.
+3. Fälligkeitsdatum aufnehmen; Quelle dokumentieren.
+4. Zuständige/-n Studierende/-n zuweisen.
+5. System generiert automatisch eine ID: `[fall-id]-[kurzbezeichnung]-[JJJJ-MM]`.
+6. Duplikatsprüfung: existiert bereits ein Eintrag mit gleicher Fall-ID, gleichem Typ und gleichem Datum? Falls ja, Hinweis vor dem Speichern.
+7. **Plausibilitätsprüfung (Pflicht):** Nach Eingabe des Datums wird das Ergebnis gegen typische Fristbänder für den gewählten Typ geprüft (z. B. Klagefrist VwGO: ca. 1 Monat nach Zustellung; Dreiwochenfrist KSchG: 21 Tage ab Zugang Kündigung; Widerspruchsfrist VwGO: 1 Monat). Liegt das eingetragene Datum außerhalb des typischen Bandes, erfolgt folgende Warnung:
+   > „Das eingetragene Datum liegt außerhalb des typischen Bereichs für [Fristtyp] im deutschen Recht ([Rechtsgebiet]). Typische Dauer: ca. [Bandbreite] nach [auslösendem Ereignis]. Ihr Eintrag: [Datum], das sind [N] Tage nach [Ereignis]. Prüfen Sie Ihre Berechnung gegen [zitierte Norm aus dem Fristenband] sowie die maßgebliche Fristberechnungsregel (§ 187 f. BGB / § 222 ZPO / § 57 VwGO). Falls Ihre Berechnung korrekt ist (Sonderregelung, Hemmung, Unterbrechung, Wiedereinsetzung), bestätigen Sie; ich trage die Frist unverändert ein."
+8. Gibt der/die Studierende `[PRÜFEN]` im Datumsfeld ein, wird der Eintrag mit `faellig: [PRÜFEN]` gespeichert; die Plausibilitätsprüfung läuft erst, wenn ein konkretes Datum eingetragen wird.
+9. **Die Skill berechnet keine Fristen.** Die Berechnung obliegt dem/der Studierenden und dem Supervisor; die Skill trägt das Ergebnis ein.
 
-**Pre-add check:** if a deadline with the same case_id + type + due_date already exists, flag as likely duplicate and ask before adding.
+### Modus `--bericht` (Standard) — gesamtübergreifende Übersicht
 
-**Plausibility sanity band.** After the student enters a due date, do NOT compute or verify — but apply a rough plausibility check against typical ranges for the filing type, and flag the student if the date falls far outside. This is scaffolding to catch gross errors in the student's own math, not an alternative to computing against the rule.
-
-**Bands are jurisdiction-keyed.** Load the band file for this clinic's jurisdiction from `references/plausibility-bands/{state}.md` where `{state}` is the two-letter code from `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → clinic jurisdiction (and federal always loads alongside). The legal-clinic plugin ships `references/plausibility-bands/CA.md` (fully populated) and `references/plausibility-bands/IL.md` (placeholder structure) as starting points.
-
-**Hard stop at cold-start if the band file is missing.** If `references/plausibility-bands/{state}.md` does not exist for the clinic's jurisdiction, do NOT silently run without plausibility checks. At cold-start, tell the supervisor:
-
-> "I don't have deadline plausibility checks for [state] — the sanity band for this clinic's jurisdiction isn't in the shipped reference files. I can still track deadlines (add, report, update, complete, close), but I cannot sanity-check them against typical ranges. Here's how to build the band file from your state's rules: copy `references/plausibility-bands/IL.md` as a template, fill in one row per deadline type your clinic sees most (typical range, triggering-event handling, computation-of-time rule, short cite), save at `references/plausibility-bands/{state}.md`, and re-run `/legal-clinic:deadlines`. Until then, every deadline I accept will carry `warnings: no-plausibility-band` and your review should treat dates as unchecked."
-
-Do not fall back to the CA table for a non-CA clinic. The silent-degradation case — shipping a California sanity check to an Illinois clinic — is the failure this fix exists to close.
-
-**Sanity check logic:**
-
-1. Load the bands table for this clinic's jurisdiction from `references/plausibility-bands/{state}.md` (plus federal-always).
-2. After the student enters `due:`, compare to triggering-event date + typical range for that `type:` (if a typical range exists in the loaded band file for the filing type).
-3. If inside the range, write the entry. Say nothing — the band exists to catch errors, not to congratulate correct math.
-4. If outside the range by a material margin, stop before writing and say:
-   > The date you entered falls outside the typical range for [type] in [jurisdiction]. [Type] deadlines for [filing type] typically fall ~[range] after [triggering event]. Your entry: [date], which is [N] days from [triggering event]. Re-check your calculation against [cited rule from the band file] and the jurisdiction's computation-of-time rule. If your calculation is correct (local rule exception, atypical triggering event, tolling, waiver), confirm and I will add the entry as-is. Otherwise, recompute and re-run `/deadlines --add`.
-5. If no band is known for this `type:` (unusual filing, non-standard deadline), do not sanity-check — write the entry and note in the `warnings:` field that no plausibility band applies.
-6. If the band file is missing entirely for this jurisdiction, the hard stop above applies at cold-start; in steady-state (supervisor acknowledged the gap and proceeded), every entry is written with `warnings: no-plausibility-band`.
-
-**The skill does not compute.** If the student enters `[VERIFY]` in the `due:` field because they haven't done the math yet, write the entry with `due: [VERIFY]` — the sanity band runs only when the student supplies a concrete date. The computation stays with the student and supervisor.
-
-### `--report` (default) — cross-case rollup
-
-Read `~/.claude/plugins/config/claude-for-legal/legal-clinic/deadlines.yaml`. Produce:
+Liest `deadlines.yaml` und erzeugt folgende Tabelle:
 
 ```markdown
-# Deadline Report — [today]
+# Fristenübersicht — [heute]
 
-**Active deadlines:** [N]
-**Overdue:** [N] ⚠️
-**Due this week (next 7 days):** [N]
+**Aktive Fristen:** [N]
+**Überfällig:** [N] ⚠
+**Fällig diese Woche (nächste 7 Tage):** [N]
 
 ---
 
-## ⚠️ Overdue (flagged for immediate attention)
+## Überfällig (sofortige Bearbeitung erforderlich)
 
-| ID | Case | Type | Due | Owner | Days overdue |
+| ID | Fall | Typ | Fällig | Zuständig | Tage überfällig |
 |---|---|---|---|---|---|
 
-## 🔴 Due today / next 3 days
+## Fällig heute / in den nächsten 3 Tagen
 
-| ID | Case | Type | Due | Owner |
+| ID | Fall | Typ | Fällig | Zuständig |
 |---|---|---|---|---|
 
-## 🟡 Due in 4-7 days
+## Fällig in 4–7 Tagen
 
-| ID | Case | Type | Due | Owner |
+| ID | Fall | Typ | Fällig | Zuständig |
 |---|---|---|---|---|
 
-## 🟢 Due in 8-14 days
+## Fällig in 8–14 Tagen
 
-[list]
+[Liste]
 
-## Beyond 14 days
-
-[count only — expand with `/deadlines --report --horizon=30` for details]
+## Über 14 Tage (Anzahl — Details mit `--bericht --horizont=30`)
 
 ---
 
-## By owner student (workload distribution)
+## Nach Zuständigen (Arbeitsbelastung)
 
-| Student | Overdue | Next 7d | Next 14d | Total active |
+| Studierende/-r | Überfällig | Nächste 7 Tage | Nächste 14 Tage | Gesamt aktiv |
 |---|---|---|---|---|
 
-## By practice area
+## Nach Rechtsgebiet
 
-[same table, grouped by area]
+[gleiche Tabelle, nach Rechtsgebiet gruppiert]
 
-## Unassigned deadlines
+## Nicht zugewiesene Fristen
 
-[list — flag if any active deadline has no owner_student]
+[Liste — Warnung, wenn aktive Fristen ohne Zuständige vorhanden sind]
 ```
 
-### `--update` — modify an existing deadline
+### Modus `--aktualisieren [id]` — bestehende Frist ändern
 
-Common updates: due date changed (court continuance), owner changed (reassignment), notes added.
+Typische Aktualisierungen: Fristdatum geändert (Terminverlegung durch Gericht), Zuständige/-r gewechselt (Neuzuweisung), Notiz hinzugefügt. Jede Änderung wird mit Datum protokolliert; der Verlauf bleibt im Eintrag sichtbar.
 
-Every update writes a dated note inline; history is visible in the entry.
+### Modus `--erledigt [id]` — als abgeschlossen markieren
 
-### `--complete` — mark done
+- Setzt `status: erledigt`, `erledigungsdatum: [heute]`.
+- Bestätigt mit dem/der Studierenden, dass die Handlung tatsächlich vorgenommen und (soweit erforderlich) eingereicht wurde.
+- Verschwindet aus aktiven Berichten, bleibt aber in der YAML-Datei erhalten.
 
-- Sets `status: completed`, `completed_date: [today]`.
-- Confirms with the student that the actual work is done and filed/submitted.
-- Removes from active reports but stays in the yaml.
+### Modus `--schliessen [id]` — ohne Erledigung schließen
 
-### `--close` — close without completing
+Für Fristen, die nicht mehr relevant sind (Fall einvernehmlich beendet, Antrag zurückgenommen, Mandant hat Beratungsstelle abgewählt). Erfordert zwingend einen Eintrag in `notizen:` mit Begründung.
 
-For deadlines that no longer apply — case settled, motion withdrawn, client dropped the matter. Requires a `notes:` entry explaining why.
+## Ausgabeformat
 
-## Warning cadence
+Strukturierte Markdown-Tabellen gemäß dem Bericht-Modus oben. Jeder Eintrag enthält ID, Fall, Typ, Fälligkeitsdatum, Zuständige/-n und Quellnorm. Überfällige Einträge werden visuell hervorgehoben und bleiben in jedem Bericht sichtbar, bis sie ausdrücklich erledigt oder geschlossen werden.
 
-Per `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` deadline warning days. Default 14, 7, 3, 1.
+## Beispiel
 
-Warnings don't auto-surface — this plugin has no scheduled/agent behavior. But any time `/deadlines` is invoked (or `/status`, which routes to this skill for deadline checks), the report pulls forward anything hitting a warning threshold.
+**Szenario:** Studierende Maria hat eine Kündigung des Mietverhältnisses erhalten. Kündigung wurde am 08.04.2026 zugestellt. Widerspruchsfrist (§ 574 BGB i. V. m. § 542 BGB) läuft am 08.05.2026 ab.
 
-If a deadline passes its due date without being marked complete, it moves to `status: overdue` and stays there in every report until explicitly resolved. Overdue deadlines do not auto-close.
+```
+/deadlines --eintragen
+Fall: Mueller-Mietrecht-2026
+Typ: Klagefrist
+Beschreibung: Widerspruch gegen Kündigung, § 574 BGB
+Fällig: 08.05.2026
+Quelle: Zustellung der Kündigung 08.04.2026, § 574 BGB
+Zuständig: stud. Berater Schmidt
+```
 
-## Integration
+Ausgabe: Eintrag `mueller-mietrecht-widerspruch-2026-05` wird gespeichert. Plausibilitätsprüfung: 30 Tage nach Zustellung — im typischen Band für Widerspruchsfristen im Mietrecht. Eintrag übernommen.
 
-- **`/client-intake`:** when intake surfaces a timeline urgency (eviction notice date, asylum filing deadline, hearing date), offer to `/deadlines --add` with pre-populated fields.
-- **`/draft`:** when a filing draft references a deadline (answer due, objection window), offer to add.
-- **`/status`:** the status skill reads `~/.claude/plugins/config/claude-for-legal/legal-clinic/deadlines.yaml` for the relevant case and includes upcoming deadlines in its output.
-- **`/semester-handoff`:** reads deadlines.yaml to identify all active deadlines across departing-student cases; each handoff memo carries the deadlines forward.
-- **`/supervisor-review-queue` (if formal review enabled):** deadlines near their cutoff get priority in the review queue.
+## Risiken und typische Fehler
 
-## What this skill does not do
+- **Frist falsch berechnet:** Die Skill trägt ein, was der/die Studierende eingibt; sie berechnet nicht selbst. Besonders kritisch bei: § 222 ZPO (Wochenfrist), § 193 BGB (Sonn-/Feiertagsverschiebung), § 57 VwGO, Sonderfälle bei Zustellungsfiktion nach § 41 Abs. 2 VwVfG.
+- **Notfrist verwechselt mit verlängerbarer Frist:** ZPO-Notfristen (z. B. Notfrist Berufung, § 548 ZPO; Revisionsfrist, § 548 ZPO) sind nicht verlängerbar. Fristverlängerungsanträge bei Notfristen sind unwirksam. Immer beim Supervisor klären.
+- **PKH-Antrag hemmt Frist nicht automatisch:** Die Einreichung eines PKH-Antrags unterbricht keine Klagefrist. Ausnahme: § 204 Abs. 1 Nr. 14 BGB (Verjährungshemmung durch PKH-Antrag bei Verjährungsfristen); nicht bei prozessualen Ausschlussfristen.
+- **Keine Zuweisung:** Aktive Fristen ohne Zuständige/-n werden im Bericht besonders hervorgehoben. Unzugewiesene Fristen sind Hochrisikopositionen.
+- **Frist nur im Kopf des Studierenden:** Wird nicht in der YAML-Datei eingetragen und nicht an die nächste Kohorte übergeben.
 
-- **Calculate deadlines from triggering events.** If a complaint was served today and the answer is due in 21 days per local rules, the skill doesn't do that math — the student does, using the rule, and logs the resulting date. (Doing the math autonomously creates a liability the skill shouldn't own; rules vary by jurisdiction and court.)
-- **File or serve anything.** The skill tracks dates; filing happens outside the plugin.
-- **Auto-notify.** No scheduled notifications. The report surfaces warnings when invoked; it doesn't push. A scheduled cron could be added later but would need explicit professor opt-in per clinic.
-- **Override local rules.** If the student logs a due date that contradicts local rules, the skill doesn't catch it. Another reason to calendar with `[VERIFY: confirm against local rule]` for any non-routine deadline.
+## Quellenpflicht
+
+Jede eingetragene Frist muss eine **Quellnorm** enthalten (Gesetz, Gerichtsurteil, Vertrag, behördlicher Bescheid). Fristen ohne Quellangabe erhalten den Warnstatus `warnung: keine-quelle`. Die Quellnorm ist die Grundlage, gegen die der Supervisor die Berechnung prüft.
+
+Jeder Fristeneintrag, der außerhalb des Plausibilitätsbands liegt und dennoch bestätigt wurde, erhält automatisch den Hinweis: `warnung: ausserhalb-plausibilitaetsband — vom Supervisor zu prüfen`.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Alle Fristenberechnungen sind vom begleitenden Supervisor zu prüfen und freizugeben.

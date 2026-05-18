@@ -1,152 +1,176 @@
 ---
 name: outline-builder
 description: >
-  Build or extend a course outline in your format, from class notes and
-  casebook. Scaffolds — it does not write the outline for you. Use when the
-  user says "outline [subject]", "add to my outline", "build an outline
-  from", or points at class materials.
-argument-hint: "[subject, or point at class notes/casebook section]"
+  Erstellt oder erweitert Lernstrukturen nach dem Prüfungsstoff der Ersten und Zweiten Staatsprüfung
+  (JAG/JAPrO der Bundesländer) — Skripten-Gliederung, Definitionen-Lernkartei, Paragraphenübersicht.
+  Gerüstbau: schreibt die Inhalte nicht für den Studierenden. Lädt, wenn der Nutzer
+  „Lernstruktur aufbauen", „Gliederung [Rechtsgebiet]", „Übersicht erstellen" oder
+  „mein Lernblatt erweitern" sagt.
+language: de
+triggers:
+  - "Lernstruktur aufbauen"
+  - "Gliederung BGB"
+  - "Strafrecht Übersicht"
+  - "Lernplan Struktur"
+  - "Examensstoff gliedern"
+  - "Definitionen Lernkartei"
+  - "JAG Prüfungsstoff"
+  - "Skript erweitern"
+  - "mein Lernblatt"
+  - "Paragraphenübersicht"
 ---
 
-# /outline-builder
+# Lernstruktur-Builder
 
-1. Load `~/.claude/plugins/config/claude-for-legal/law-student/CLAUDE.md` → outline preferences, existing outlines.
-2. Apply the workflow below.
-3. Build in student's format. If extending an existing outline, match its structure exactly.
+## Zweck
 
----
+Die Lernstruktur ist das Instrument, aus dem studiert wird. **Den Aufbau selbst zu erarbeiten ist bereits die Hälfte des Lernens** — das ist keine Floskel. Eine Struktur, die jemand anderes erstellt hat, ist eine Struktur, die man im Examen nicht kennt.
 
-## Purpose
+Diese Skill baut das Gerüst — Themenblöcke, Unterpunkte, Normslots, Ausnahmen-Platzhalter — und fragt nach. Inhalte (Definitionen, Fallgruppen, Ausnahmen) trägt der Studierende selbst ein, aus eigenen Notizen, Skripten oder Kommentaren. Das ist nicht Verweigerung — das ist Methode.
 
-The outline is the thing you study from. **Building it is half the studying** — that's a literal claim, not a throwaway. An outline you didn't build is an outline you won't know on the exam. This skill helps you build — it does not build for you.
+## Eingaben
 
-## The "don't write it for me" rule (hard rule)
+- **Rechtsgebiet** (z. B. BGB AT, Schuldrecht AT, Schuldrecht BT, Sachenrecht, StGB AT, StGB BT, VerwR AT, VerwR BT, Öffentliches Recht, Europarecht, Zivilprozessrecht)
+- **Prüfungsordnung / Bundesland** (JAG NRW, JAPrO Bayern, JAPO Baden-Württemberg etc. — Prüfungsstoff variiert)
+- **Quelle** (Skript Alpmann/Hemmer/Jura Intensiv/Kaiser, eigene Notizen, Vorlesungsmitschrift, Kommentar)
+- **Bestand**: Neubau oder Erweiterung einer bestehenden Struktur
+- **Format** (klassische Gliederung A./I./1./a), Fließtext-Gerüst, Paragraphenübersicht, Flussdiagramm-Skizze)
 
-This is a learning-mode skill. Other tools will cheerfully generate a full outline from a casebook or syllabus and hand it over. This one refuses.
+## Rechtlicher Rahmen
 
-**What this skill will do:**
-- Read your syllabus, casebook excerpts, class notes, or existing outline and match your format precisely.
-- Build the **scaffold** — the topic structure, sub-topic headings, case-slot placeholders, where exceptions should go.
-- Ask you Socratic questions on each topic as you build: "what's the rule here?", "which case did the professor use?", "what's the exception the casebook hinted at?"
-- Point out gaps: places where your notes are thin, where a topic on the syllabus isn't in the outline yet, where an exception is mentioned but not explained.
-- When you paste in rules from your own notes or from a source, integrate them verbatim into the scaffold.
-- Flag thin or confused spots and ask you to go back to your notes or casebook.
+Der Prüfungsstoff des Ersten Staatsexamens ist in den Juristenausbildungsgesetzen der Bundesländer definiert. Die Lernstruktur folgt dem jeweils geltenden Pflichtstoffkatalog.
 
-**What this skill will not do, even if asked:**
-- Fill in the rule statement, case holding, or analysis from AI knowledge just because you asked it to. If you say "just write this section for me," the answer is no — the skill explains why and offers to scaffold that section with questions instead.
-- Build an entire outline from "the syllabus" without your notes or casebook inputs. A scaffolded topic tree, yes. Populated rules and cases, no — that's the learning work.
-- Invent rules to avoid leaving a gap. A `[GAP — fill from class notes]` marker is the correct answer when source material is missing.
+**Prüfungsordnungen (Auswahl):**
+- Juristenausbildungsgesetz NRW (JAG NRW) i.d.F. vom 11.03.2003 (zuletzt geändert)
+- Ausbildungs- und Prüfungsordnung für Juristen Bayern (JAPO) i.d.F. vom 13.10.2003
+- Juristenausbildungsgesetz Baden-Württemberg (JAPrO BW)
+- Einheitlichkeit durch gemeinsamen Pflichtkern gemäß § 5d DRiG
 
-**Exception** (the only one): if the student is **extending** an existing outline and pastes casebook text or their own notes, the skill extracts rules and cases from that source text. That is not writing-for-you; that is formatting what you provided.
+**Maßgebliche Pflichtstoff-Leitentscheidungen:**
 
-If the student asks the skill to cross the line, respond:
+Für BGB AT und Schuldrecht:
+- BGH, Urt. v. 07.06.1984 – IX ZR 66/83, BGHZ 91, 324 — Schweigen als Willenserklärung (§§ 116 ff. BGB)
+- BGH, Urt. v. 25.11.2009 – VIII ZR 318/08, NJW 2010, 610 Rn. 12 ff. — Leistungsstörungsrecht nach Schuldrechtsreform
 
-> I'm not going to fill in [topic] from my own knowledge — that defeats the point of building the outline. Two options:
->
-> 1. **Scaffold mode** (default): I'll put the headings, sub-headings, and case slots in place, and ask you Socratic questions as we build. You write the rules.
-> 2. **Source-extract mode:** paste your class notes, the casebook section, or a case brief. I'll extract the rule from that text and slot it in.
->
-> Which one?
+Für Strafrecht:
+- BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 (Lederriemen) — dolus eventualis, Abgrenzung bewusste Fahrlässigkeit
+- BGH, Urt. v. 22.09.1995 – 2 StR 310/95, BGHSt 41, 292 — Mittäterschaft § 25 Abs. 2 StGB
 
-## Confidence discipline
+**Kanonische Lernmaterialien:**
+- Alpmann Schmidt, Gesamtdarstellungen (BGB AT, SchuldR, StGB AT/BT etc.)
+- Hemmer/Wüst, Skriptenreihe (durchgängig nach Examensstoff strukturiert)
+- Jura Intensiv, Skriptenreihe
+- Kaiser-Skripten
+- Palandt/Grüneberg, BGB, 83. Aufl. 2024 — Kurzkommentar für Normübersicht
+- MüKoBGB, 9. Aufl. 2021/2022 — für tiefergehende Erschließung
 
-An outline is a rule library. Wrong rules are worse than missing rules because you study from them without re-checking. The rule for this skill:
+## Ablauf
 
-- **If building from the student's class notes, casebook sections, or case briefs they paste:** I extract from what's in front of me. Confident. Rules stated in the source are the rules I write.
-- **If the student asks me to fill in a topic without source material:** the default is no — I leave a `[GAP — fill from class notes]` marker and ask Socratic questions to help them fill it from their own notes. The student learns nothing from reading a rule I wrote; they learn from writing it themselves. Only if the student explicitly overrides ("I know, I just want a reference, write it anyway") do I state a majority rule, and every line I'm not fully confident on gets `[UNCERTAIN]` or `[VERIFY]`. Default to the gap.
-- **Every rule statement in the outline carries a provenance cue:** from the student's notes (no marker); from casebook they uploaded (no marker); from my knowledge with confidence (no marker); from my knowledge with uncertainty (`[VERIFY]` or `[UNCERTAIN]`).
+### Schritt 1: Was wird aufgebaut?
 
-The outline is only as trustworthy as what's in it. Err toward gaps over guesses.
+- Rechtsgebiet und Prüfungsordnung erfragen (falls nicht angegeben)
+- Format bestimmen (klassische Gliederung, Paragraphenübersicht, Flussdiagramm-Skizze)
+- Bestand prüfen: Neubau oder Erweiterung?
 
-**Narrow carve-out — rule contradiction within the student's own materials.** The "don't write it for me" rule has one exception: when the student states a rule (in-session, or in an outline entry they're extending) that **contradicts their own uploaded notes, case brief, casebook excerpt, or earlier outline section**, surface the conflict without filling in the answer. Say:
+Bei Erweiterung: bestehende Struktur einlesen. Format exakt fortführen — keine andere Systematik aufzwingen.
 
-> "That doesn't match what you wrote at [file / outline section / case brief]. Your earlier note says [exact quote]. Which is right?"
+### Schritt 2: Gerüst nach Prüfungsstoff
 
-This is not writing for the student — it is pointing the student at two things they already have and asking them to reconcile. A 1L who puts a wrong rule into an outline and studies from it is the failure mode this skill exists to prevent. Apply this only when:
+Das Gerüst entsteht aus dem einschlägigen Pflichtstoffkatalog und dem Inhaltsverzeichnis der Quelle. Themenblöcke → Unterpunkte → Normslots → Ausnahmen-Platzhalter — ohne Regelinhalt.
 
-1. The student has actually uploaded or written materials the skill can cite (seed materials in `~/.claude/plugins/config/claude-for-legal/law-student/CLAUDE.md` → Seed materials, or an earlier section of the outline being extended), and
-2. The stated rule and the student's own material disagree on a specific substantive point — not phrasing, not level of detail.
+**Niemals**: Gerüst überspringen und direkt eine fertige Gliederung mit Inhalten ausgeben. Das ist die Hauptfehlfunktion, die diese Skill verhindert.
 
-Do not volunteer the correction from your own knowledge. Do not cite the casebook unless the student uploaded it. Only quote the student's own materials back to them. The goal is to train the student to trust and verify their own work, not to deliver the right answer.
+### Schritt 3: Inhalte aus Quellen — nicht aus meinem Wissen
 
-## Load context
+**Wenn der Studierende Quellen einfügt** (Skript-Abschnitt, Notizen, Kommentarauszug): Regel und Definition aus dem bereitgestellten Text extrahieren und in das Gerüst integrieren. Das ist kein Schreiben für den Studierenden, sondern Formatierung des Bereitgestellten.
 
-`~/.claude/plugins/config/claude-for-legal/law-student/CLAUDE.md` → outline preferences (format, depth, existing outlines location).
+**Wenn der Studierende keine Quelle liefert**: Gerüst mit Platzhalter belassen + Maieut-Fragen stellen (z. B. „Was hat der Professor zu § 119 BGB gesagt?", „Welche Fallgruppe nennt das Skript hier?"). Falls der Studierende ausdrücklich eine vorläufige Ausfüllung wünscht, kann ein Lehrbuch-Mehrheitsmeinung eingetragen werden — jede solche Angabe erhält `[PRÜFEN: gegen Skript / Kommentar abgleichen]`.
 
-If existing outlines exist: read one. Match its structure exactly. Headings, depth, how cases are integrated, whether there are hypos.
+**Regelwiderspruch in eigenen Materialien**: Wenn die vom Studierenden genannte Regel dem widerspricht, was in einer früher hochgeladenen Quelle steht:
 
-## Workflow
+> „Das weicht von Ihrer Notiz bei [Abschnitt/Quelle] ab — dort steht: [wörtliches Zitat]. Welche Fassung ist die zutreffende?"
 
-### Step 1: Inputs
+Das ist kein Einwurf aus eigenem Wissen, sondern Konfrontation mit eigenen Materialien.
 
-What are we building from?
-- Class notes
-- Casebook sections
-- Case briefs (from case-brief skill or the student's own)
-- Syllabus (for structure)
-- Existing partial outline (extending, not starting fresh)
+### Schritt 4: Lücken markieren
 
-### Step 2: Structure
-
-Syllabus gives the structure. Major topics → subtopics → rules → cases illustrating rules.
-
-If extending: match the existing outline's structure precisely. Don't impose a different organization.
-
-### Step 3: Build — scaffold first, content from sources
-
-**The scaffold gets built from the syllabus and any existing outline.** The scaffold is topics, sub-topics, case slots, exception placeholders — the skeleton without the rules.
-
-**The content gets filled by the student from their notes, casebook, or briefs — or extracted verbatim from source text the student pastes.** If the student has no source for a topic, the skill does not invent; it asks Socratic questions ("What did the professor say about X?", "Which case illustrates this rule?") and leaves a `[GAP]` marker.
-
-Never skip the scaffold step and just generate a populated outline. That is the failure mode this skill exists to prevent.
-
-Per the student's format. Common formats:
-
-**Traditional outline:**
 ```
-I. [Major topic]
-   A. [Subtopic]
-      1. Rule: [statement]
-         a. [Case name]: [how it illustrates the rule]
-         b. [Exception or limitation]
-      2. [Next rule]
+[LÜCKE — aus Vorlesungsnotizen ergänzen]
+[FÄLLE FEHLEN — Norm steht, aber kein Leitfall]
+[AUSNAHME UNKLAR — Skript erwähnt Ausnahme, Regel nicht ausformuliert]
+[PRÜFEN — aus meinem Wissen ergänzt, vor dem Lernen verifizieren]
 ```
 
-**Rules-only (bar prep style):**
+### Schritt 5: Drill-Modus (optional)
+
+Nach Fertigstellung eines Abschnitts: „Gliederung schließen. Frage: [konkreter Sachverhalt aus dem bearbeiteten Abschnitt]." Testen, ob der Aufbau den Kopf erreicht hat oder nur das Dokument.
+
+## Ausgabeformat
+
+**Klassische Gliederung (Standard für Hausarbeiten und Lernblätter):**
 ```
-## [Topic]
-- [Rule]. [Case cite].
-- Exception: [rule]. [Case cite].
+A. [Rechtsgebiet / Oberthema]
+   I. [Hauptproblem]
+      1. [Tatbestandsmerkmal / Fallgruppe]
+         a) Definition: [LÜCKE — aus Skript ergänzen]
+         b) Leitfall: [LÜCKE — Leitentscheidung eintragen]
+         c) Ausnahme: [LÜCKE]
+      2. [Nächstes Merkmal]
 ```
 
-**Flowchart-adjacent:**
+**Paragraphenübersicht (für Schnellorientierung):**
 ```
-[Topic] → Is [element 1] met?
-  YES → Is [element 2] met?
-    YES → [Result]
-    NO → [Different result]
-  NO → [No claim]
+§ 119 BGB — Anfechtung wegen Irrtums
+  - Tatbestand: Inhalts-/Erklärungsirrtum; Eigenschaftsirrtum (Abs. 2)
+  - Rechtsfolge: Anfechtbarkeit, Ersatz des Vertrauensschadens § 122 BGB
+  - Abgrenzung: § 123 BGB (arglistige Täuschung)
+  - Leitfall: [LÜCKE]
 ```
 
-Match theirs.
+**Flussdiagramm-Skizze:**
+```
+Anspruch aus § 280 Abs. 1 BGB?
+  → Schuldverhältnis? (§§ 241 ff. BGB)
+    JA → Pflichtverletzung? (§ 241 Abs. 2 BGB)
+      JA → Vertretenmüssen? (§ 276 BGB, Vermutung)
+        JA → Schaden? (§§ 249 ff. BGB)
+          JA → Anspruch (+)
+          NEIN → (-)
+        NEIN → (-)
+```
 
-### Step 4: Gaps
+## Beispiel
 
-Mark where the outline is thin:
-- `[NEEDS CASES — rule stated but no illustrating case]`
-- `[CHECK CLASS NOTES — professor may have emphasized something here]`
-- `[EXCEPTION UNCLEAR — casebook mentions an exception, find the rule]`
+**Auftrag:** „Gliederung für BGB Schuldrecht AT aufbauen, Schwerpunkt Leistungsstörungsrecht."
 
-## Citation check
+**Ergebnis (Gerüst, erste Ebene):**
+```
+A. Grundlagen des Schuldverhältnisses (§§ 241–243 BGB)
+B. Leistungsstörungsrecht
+   I.   Unmöglichkeit (§§ 275, 283, 311a BGB)
+         1. Arten der Unmöglichkeit [LÜCKE]
+         2. Rechtsfolgen [LÜCKE]
+   II.  Verzug (§§ 280 Abs. 2, 286 ff. BGB)
+         1. Schuldnerverzug [LÜCKE]
+         2. Gläubigerverzug [LÜCKE]
+   III. Schadensersatz statt der Leistung (§§ 280 Abs. 3, 281, 283, 311a BGB)
+         [LÜCKE — Prüfungsreihenfolge nach Hemmer SchuldR AT, Rn. 150 ff.]
+C. Besondere Leistungspflichten (§ 241 Abs. 2 BGB)
+D. Rücktritt (§§ 323 ff. BGB) [LÜCKE]
+```
 
-Any case cites, statutory cites, or rule statements I add to the outline from my own knowledge (rather than from source material you pasted) were generated by an AI model and have not been verified. Before you study from the outline, look up each case and statute on Westlaw, Fastcase, CourtListener, or your casebook. AI-generated citations are sometimes fabricated or misquoted, and a wrong rule you memorized is worse than a gap you filled in later.
+**Sokrates-Frage danach:** „Schließen Sie die Gliederung. — Was sind die Voraussetzungen des Schuldnerverzugs nach § 286 BGB? Bitte alle vier."
 
-## Drill-me integration
+## Risiken und typische Fehler
 
-In drill-me mode, after building a section: "Okay, close the outline. [Subject] question: [hypo]." Test whether the outline got into their head or just onto paper.
+- **Fertig-Gliederung abschreiben**: Eine aus dem Skript kopierte Gliederung ist kein Lernbeitrag. Den Aufbau selbst erarbeiten — notfalls anhand des Skript-Inhaltsverzeichnisses, aber eigenständig nachstrukturieren.
+- **Falsche Reihenfolge der Ansprüche**: Im BGB-Klausuraufbau gelten feste Prüfungsreihenfolgen (vertragliche vor deliktischen vor bereicherungsrechtlichen Ansprüchen). Abweichungen im Lernblatt führen zu Fehlern in der Klausur.
+- **Lücken übertünchen**: Eine Gliederung mit `[LÜCKE]`-Markierungen ist besser als eine mit erfundenen Inhalten. Falsch eingebrachte Definitionen werden auswendig gelernt.
+- **Landesspezifika ignorieren**: Der Pflichtfachkatalog variiert zwischen Bundesländern (z. B. Bayern hat Wirtschaftsrecht als Schwerpunktfach, NRW nicht). Immer die maßgebliche JAG/JAPrO prüfen.
+- **Kommentar mit Lernbuch verwechseln**: Kommentare sind für die Tiefenerschließung einzelner Normen, nicht für die Klausur-Lernstruktur. Skripten (Alpmann, Hemmer, Jura Intensiv, Kaiser) spiegeln den Examensstoff besser wider.
 
-## What this skill does not do
+## Quellenpflicht
 
-- Replace the student's own synthesis. An outline you didn't build is an outline you won't know. This skill *helps* build — the student should be driving.
-- Guarantee exam coverage. Outline the whole syllabus; the professor will test whatever they want.
-- **Invent rules to fill gaps.** If I don't have source material and I'm not confident on a rule, the outline gets `[GAP — fill from class notes]` rather than a fabricated rule. Check every `[VERIFY]` and `[UNCERTAIN]` marker before studying from the outline.
+Jede Regelaussage, die in das Gerüst aus meinem Wissen eingetragen wird (nicht aus einer vom Studierenden bereitgestellten Quelle), trägt `[PRÜFEN]`. Vor dem Lernen aus der Struktur: jede solche Stelle gegen das aktuell verwendete Skript oder einen anerkannten Kommentar abgleichen. Falsch eingeübte Strukturen sind in der Klausur schwer zu korrigieren.
+
+Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

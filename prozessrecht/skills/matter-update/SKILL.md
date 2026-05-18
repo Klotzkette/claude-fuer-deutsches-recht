@@ -1,150 +1,200 @@
 ---
 name: matter-update
-description: Append a dated event to a matter's history file and refresh the log row — captures new developments, status changes, risk re-assessments, deadline shifts, and settlement authority changes. Use when the user wants to log an update on a matter, note a development, or record a status change against the portfolio.
-argument-hint: "[slug] [brief event description]"
+description: Fügt einem Prozessmandat einen datierten Eintrag in die Verlaufsakte hinzu und aktualisiert den Protokolleintrag — erfasst neue Entwicklungen, Statusänderungen, Risikoneubewertungen, Fristverschiebungen und Änderungen bei der Vergleichskompetenz. Lädt, wenn der Nutzer eine Aktualisierung zu einem Prozessmandat eintragen, eine neue Entwicklung notieren oder eine Statusänderung im Portfolio festhalten möchte.
+language: de
+triggers:
+  - "Mandatsupdate"
+  - "Aktualisierung Prozessmandat"
+  - "neue Entwicklung eintragen"
+  - "Friständerung notieren"
+  - "Statusänderung Mandat"
+  - "Risikoneu­bewertung"
+  - "Verhandlung protokollieren"
+  - "Vergleichsangebot eingetragen"
+  - "Berufungsfrist gesetzt"
 ---
 
-# /matter-update
+# Mandats-Aktualisierung
 
-1. Follow the workflow and reference below.
-2. Confirm slug exists in `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/` and `_log.yaml`.
-3. Prompt for event type, date (default today), summary, and any log field updates (risk change, status change, next deadline shift, materiality reclassification).
-4. Append dated entry to `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/[slug]/history.md`.
-5. Update `_log.yaml` — set `last_updated` to today, apply any field updates.
-6. Confirm.
+## Zweck
 
----
+Ein Prozessportfolio bleibt nur dann nützlich, wenn es aktuell ist. Dieser Skill macht das Einpflegen einer Entwicklung effizient — strukturiertes Erfassen in wenigen Minuten, ohne freien Textdrift. Lädt bei jeder Anfrage, einen neuen Vorgang in ein laufendes Prozessmandat einzutragen.
 
-# Matter Update
+## Eingaben
 
-## Purpose
+- **Mandatsbezeichnung (Slug)** (erforderlich): Kurzbezeichnung des Mandats. Falls nicht angegeben, wird eine Liste zuletzt aktualisierter Mandate zur Auswahl angeboten.
+- **Ereignistyp**: Auswahl aus Kategorien oder Freitext.
+- **Datum**: Standardmäßig heute; kann für rückwirkende Einträge überschrieben werden.
+- **Zusammenfassung**: Ein kurzer Absatz — was ist passiert, was bedeutet es, welche unmittelbaren Folgen hat es.
+- **Feldupdates** (soweit durch das Ereignis berührt): Status, Verfahrensstadium, Risikoeinstufung, Wesentlichkeit, Streitwert/Exposure, nächste Frist, externe Bevollmächtigte, interne Verantwortliche.
 
-The portfolio only stays useful if it stays current. This skill makes logging an update cheap — two minutes of structured capture, no freeform drift.
+## Rechtlicher Rahmen
 
-## Load context
+### Kernvorschriften
 
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml` — find the row
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/[slug]/history.md` — append target
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/[slug]/matter.md` — reference (don't rewrite)
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` — risk calibration (if re-assessing risk)
+- **§§ 214–229 ZPO** — Fristen, Versäumnis, Wiedereinsetzung; zentral für die Fristenkontrolle im Prozessmandat.
+- **§§ 516, 548, 569 ZPO** — Berufungs-, Revisions- und Beschwerdebegründungsfristen (Monats- bzw. Zwei-Monats-Fristen nach Zustellung); jede Fristverlängerung ist einzutragen.
+- **§ 116 VwGO** — Zustellung und Fristen im Verwaltungsgerichtsverfahren.
+- **§§ 317–329 StPO** — Rechtsmittelfristen im Strafverfahren (Berufungsfrist: eine Woche ab Urteilsverkündung, § 317 StPO).
+- **§ 43a Abs. 1, 4 BRAO** — Sachkundige, gewissenhafte Berufsausübung; Pflicht zur lückenlosen Aktenführung als Berufspflicht.
+- **§ 11 BORA** — Sorgfaltspflicht bei Fristnotierung und Aktenführung.
+- **§§ 257, 261 HGB; § 147 AO** — Aufbewahrungspflichten für Handels- und Steuerunterlagen (6–10 Jahre); relevant für den Beweissicherungsaspekt.
 
-**Conflicts gate — unbypassable.** Before logging an update, check `_log.yaml` for the matter slug. If the matter is not in `_log.yaml`, refuse and route:
+### Leitentscheidungen
 
-> "I don't see [matter slug] in the matter log. Run `/litigation-legal:matter-intake` first so the conflicts check runs and the matter workspace exists. I won't append history to an unmanaged matter — the conflicts check is the gate, and there's no `history.md` to append to until the matter is intaken."
+- **BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 14 ff.** — Anwaltliche Haftung bei versäumter Berufungsbegründungsfrist; lückenlose Fristkontrolle als Grundpflicht.
+- **BGH, Beschl. v. 26.11.2019 – VIII ZB 61/19, NJW 2020, 765 Rn. 10** — Wiedereinsetzung in den vorigen Stand; Voraussetzungen und Dokumentationspflichten bei Fristversäumnis.
+- **BVerwG, Beschl. v. 08.03.2018 – 2 B 31/17, NVwZ-RR 2018, 591 Rn. 6** — Fristenberechnungsgrundlagen im verwaltungsgerichtlichen Rechtsmittelverfahren.
 
-## Input
+### Kommentarliteratur
 
-Slug (required). If not provided, ask — with a short list of recently updated matters to pick from.
+- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 233 Rn. 12 ff.` — Wiedereinsetzung bei Fristversäumnis; Anforderungen an die Fristenkontrolle einer Kanzlei.
+- `MüKoZPO/Gehrlein, 6. Aufl. 2020, § 214 Rn. 5 ff.` — Fristberechnung und Fristenkontrolle; organisatorische Anforderungen.
+- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 317 Rn. 3` — Berufungsfrist im Strafverfahren; Beginn und Wahrung.
 
-## The update
+## Ablauf
 
-### 1. Event type
+### Schritt 0: Konfliktsschranke
 
-Offer categories:
+Vor dem Einpflegen eines Eintrags wird geprüft, ob das Mandat in `_log.yaml` enthalten ist. Fehlt es:
 
-- **Procedural** — motion filed/received, order issued, hearing held, deadline set
-- **Discovery** — production made/received, depositions taken, subpoena served
-- **Substantive** — new facts, key document surfaced, ruling on merits
-- **Strategy** — posture shift, settlement offer made/received, authority update
-- **Risk re-assessment** — severity or likelihood changed
-- **Stakeholder** — new person looped in, outside counsel change
-- **Administrative** — engagement letter executed, budget adjusted, hold refreshed
+> „Das Mandat [Bezeichnung] ist nicht im Mandatsprotokoll erfasst. Bitte zunächst `/prozessrecht:mandat-aufnahme` ausführen, damit die Interessenkonfliktprüfung erfolgt und die Mandatsakte angelegt wird."
 
-Or freeform if none fits.
+### Schritt 1: Ereignistyp
 
-### 2. Date
+Angebotene Kategorien:
 
-Default today. Accept an override (e.g., capturing an event from last week).
+- **Verfahrensrechtlich** — Schriftsatz eingereicht/erhalten, Beschluss ergangen, Termin stattgefunden, Frist gesetzt
+- **Beweiserhebung** — Urkunden vorgelegt/erhalten, Zeugenvernehmung, § 142 ZPO-Anordnung
+- **Sachlich** — neue Tatsachen, relevantes Dokument aufgetaucht, Entscheidung zur Sache
+- **Strategie** — Positionswechsel, Vergleichsangebot gemacht/erhalten, Änderung der Vergleichskompetenz
+- **Risikoneubewertung** — Schwere oder Wahrscheinlichkeit hat sich geändert
+- **Beteiligte** — Neue Person einbezogen, Wechsel der externen Bevollmächtigten
+- **Administrativ** — Mandatsvertrag geschlossen, Budget angepasst, Beweissicherungsanordnung erneuert
 
-### 3. Summary
+Freitext möglich, wenn keine Kategorie passt.
 
-One-paragraph narrative. What happened, what it means, any immediate implication.
+### Schritt 2: Datum
 
-### 4. Log field changes
+Standard: heute. Überschreibung möglich (z. B. für die Nacherfassung eines Ereignisses der letzten Woche).
 
-Walk through potentially affected fields:
+### Schritt 3: Zusammenfassung
 
-- `status:` — has the stage shifted (e.g., pleadings → fact discovery)?
-- `stage:` — substage update
-- `risk:` — reassessment required?
-- `materiality:` — any change (new facts might trigger reserve or disclosure)?
-- `exposure_range:` — revise if new information
-- `next_deadline:` — new upcoming date, if any
-- `outside_counsel:` — change?
-- `internal_owners:` — anyone new or removed?
-- `legal_hold:` — refreshed, expanded, released?
+Ein Absatz: Was ist passiert, was bedeutet es, welche unmittelbaren Folgen sind erkennbar.
 
-Only prompt for fields likely affected by the event type. Procedural updates usually touch `stage` and `next_deadline` only; a settlement offer might touch `materiality`, `exposure_range`, `status`.
+### Schritt 4: Protokollfelder aktualisieren
 
-### 4pre. Settlement-acceptance gate
+Nur die durch das Ereignis betroffenen Felder werden abgefragt:
 
-If the Strategy update is a **settlement acceptance** (the company is accepting a settlement offer, executing a settlement agreement, or authorizing acceptance in principle — not merely logging an offer made or received): Read `## Who's using this` in `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`. If the Role is Non-lawyer:
+- `status:` — Hat sich das Stadium verschoben (z. B. Klageerhebung → Beweisaufnahme)?
+- `verfahrensstadium:` — Detailangabe zum Unterstand
+- `risiko:` — Neubewertung erforderlich?
+- `wesentlichkeit:` — Änderung? (neue Tatsachen können Rückstellungs- oder Offenlegungspflicht auslösen)
+- `streitwert_exposure:` — Anpassen bei neuen Erkenntnissen
+- `naechste_frist:` — Neues kommendes Datum, falls bekannt
+- `externe_bevollmaechtigte:` — Wechsel?
+- `interne_verantwortliche:` — Neu oder ausgeschieden?
+- `beweissicherung:` — Erneuert, erweitert, aufgehoben?
 
-> Accepting a settlement has legal consequences — it resolves claims, typically requires a release, and can affect insurance, tax, and related matters. Have you reviewed this with an attorney? If yes, proceed. If no, here's a brief to bring to them:
+Verfahrensrechtliche Updates berühren in der Regel nur `verfahrensstadium` und `naechste_frist`; ein Vergleichsangebot kann `wesentlichkeit`, `streitwert_exposure` und `status` berühren.
+
+### Schritt 4a: Vergleichsannahmeschranke
+
+Handelt es sich um eine **Vergleichsannahme** (die Partei nimmt ein Vergleichsangebot an, unterzeichnet einen Vergleich oder erteilt grundsätzlich Vollmacht zur Annahme — nicht bloßes Erfassen eines Angebots oder Gegenentwurfs):
+
+> Ein Vergleich hat endgültige Rechtswirkungen — er beseitigt den Klagegegenstand, erfordert typischerweise eine gegenseitige Erlassklausel und kann steuerliche sowie versicherungsrechtliche Folgen haben. Wurde dies mit einem Anwalt besprochen? Falls ja: bitte bestätigen. Falls nein, hier ist ein Briefing für das Gespräch:
 >
-> [Generate a 1-page summary: the matter, proposed settlement terms (dollar, structural, release scope, confidentiality, non-disparagement), exposure at stake, authority ladder status (see `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` settlement authority), what could go wrong, what to ask the attorney before accepting.]
->
-> If you need to find a licensed attorney, solicitor, barrister, or other authorised legal professional in your jurisdiction: your professional regulator's referral service is the fastest starting point (state bar in the US, SRA/Bar Standards Board in England & Wales, Law Society in Scotland/NI/Ireland/Canada/Australia, or your jurisdiction's equivalent).
+> [Zusammenfassung: Mandat, Vergleichskonditionen (Betrag, Struktur, Erlassumfang, Vertraulichkeit), gefährdetes Interesse, Stand der Vergleichskompetenz, Risiken, Fragen an den Anwalt.]
 
-Do not log the acceptance or flip materiality on acceptance basis without an explicit yes. Logging offers or counters does not require the gate — acceptance does.
+Ohne ausdrückliche Bestätigung wird die Annahme nicht eingetragen und die Wesentlichkeit nicht auf Vergleichsbasis umklassifiziert.
 
-### 4a. Materiality trigger — explicit prompt
+### Schritt 4b: Wesentlichkeitsprüfung
 
-Certain event types force a materiality re-check. When the event type is in this list, **always prompt** — don't let the user move on without an explicit answer:
+Bei bestimmten Ereignistypen ist eine Wesentlichkeitsprüfung obligatorisch — der Nutzer muss explizit antworten:
 
-| Event type | Materiality trigger prompt |
+| Ereignistyp | Hinweistext |
 |---|---|
-| Substantive (new facts, key document, merits ruling) | "This event is substantive. Does it push `materiality`? Current: `[current]`. Options: `reserved / disclosed / monitored / none`. Change?" |
-| Strategy (posture shift, settlement offer made or received) | "Settlement activity often triggers materiality reclassification. Current: `[current]`. If the offer, counter, or acceptance moves exposure or shifts from contested to probable-and-estimable, reclassify." |
-| Risk re-assessment (severity or likelihood changed) | "Risk moved. Materiality should track. Current: `[current]`. Reclassify?" |
-| Regulatory / enforcement development | "Regulator action (subpoena, CID, enforcement notice) usually triggers disclosure analysis. Current: `[current]`. Change?" |
+| Sachlich (neue Tatsachen, relevantes Dokument, Entscheidung zur Sache) | „Dieses Ereignis ist sachlicher Natur. Ändert es die Wesentlichkeitseinstufung? Aktuell: [X]. Optionen: rückgestellt / offengelegt / beobachtet / keine. Änderung?" |
+| Strategie (Positionswechsel, Vergleichsangebot gemacht oder erhalten) | „Vergleichsaktivität kann eine Wesentlichkeitsumstufung auslösen. Aktuell: [X]. Wenn das Angebot die Exposure verschiebt oder den Streit von 'bestritten' auf 'wahrscheinlich und schätzbar' bewegt, bitte umklassifizieren." |
+| Risikoneubewertung | „Risiko hat sich verändert. Die Wesentlichkeit sollte folgen. Aktuell: [X]. Umklassifizieren?" |
+| Behördliche Maßnahme | „Behördenhandeln (Durchsuchung, Vorladung, Ordnungsverfügung) löst regelmäßig eine Offenlegungsanalyse aus. Aktuell: [X]. Änderung?" |
 
-Acceptable answers include `no change` — but `no change` must be explicit, not implied by silence. Capture in the history entry:
-
-```markdown
-**Materiality check:** [no change / changed from X to Y]
-**Reasoning:** [one sentence]
-```
-
-If materiality moves to `reserved` or `disclosed`, and the matter did not previously carry a reserve or disclosure, flag the event as requiring finance / audit-committee notification per `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` materiality thresholds.
-
-### 5. Seed doc prompt (optional)
-
-If the update references a document (order, filing, correspondence), ask if there's a path to link. Not pushy.
-
-## Writing
-
-### Append to `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/[slug]/history.md`
-
-Most recent at top, directly under the `---` that follows the header.
+„Keine Änderung" muss explizit bestätigt werden. Im Verlaufseintrag wird festgehalten:
 
 ```markdown
-## [YYYY-MM-DD] — [Event type]: [short title]
-
-[Paragraph summary.]
-
-**Fields changed:**
-- [field]: [old → new]
-- [field]: [old → new]
-
-**Related doc:** [path, if provided]
+**Wesentlichkeitsprüfung:** [keine Änderung / geändert von X nach Y]
+**Begründung:** [ein Satz]
 ```
 
-If no fields changed, omit the "Fields changed" block.
+### Schritt 5: Belegdokument (optional)
 
-### Update `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml`
+Falls das Update ein Dokument betrifft (Beschluss, Schriftsatz, Korrespondenz), wird gefragt, ob ein Pfad verlinkt werden soll.
 
-- Apply any field changes.
-- Set `last_updated: [today]` (or the event date if the user overrode — the log tracks when the record was last touched).
+## Ausgabeformat
 
-## Confirm
+### Verlaufseintrag in `history.md`
 
-Show the user the history entry and the yaml diff before writing:
+Jüngster Eintrag oben, direkt unter dem `---` nach dem Header:
 
-> Here's what I'll append and update. Good to commit?
+```markdown
+## [JJJJ-MM-TT] — [Ereignistyp]: [Kurztitel]
 
-## What this skill does not do
+[Zusammenfassung in einem Absatz.]
 
-- Edit past history entries. Corrections are new entries that reference and correct prior ones.
-- Silently change the log. Every field change is shown to the user before write.
-- Decide whether a new development warrants reserve/disclosure. It surfaces the question ("this might push materiality — want to reclassify?"), the user answers.
+**Geänderte Felder:**
+- [Feld]: [alt → neu]
+- [Feld]: [alt → neu]
+
+**Verweisung Dokument:** [Pfad, falls angegeben]
+```
+
+Falls keine Felder geändert wurden, entfällt der Block „Geänderte Felder".
+
+### Protokolldatei `_log.yaml`
+
+- Geänderte Felder werden übernommen.
+- `zuletzt_aktualisiert:` wird auf heute gesetzt (oder das Ereignisdatum, falls überschrieben).
+
+### Bestätigung vor dem Speichern
+
+Der Verlaufseintrag und die Yaml-Diff werden dem Nutzer zur Freigabe vorgelegt:
+
+> „Das ist, was ich eintragen und aktualisieren werde. Soll ich das festschreiben?"
+
+## Beispiel
+
+**Sachverhalt:** Im Verfahren Müller ./. Beta GmbH (ZPO-Berufungsverfahren, OLG Frankfurt) ist am 12.05.2025 die Berufungsbegründungsfrist abgelaufen. Die Begründung wurde fristgerecht eingereicht. Keine Risikoänderung.
+
+**Eintrag:**
+
+```markdown
+## [2025-05-12] — Verfahrensrechtlich: Berufungsbegründung eingereicht
+
+Berufungsbegründung fristgerecht beim OLG Frankfurt eingereicht (§ 520 Abs. 2 ZPO). Keine inhaltlichen Änderungen zur bisherigen Positionierung. Nächster Termin: Eingang der Berufungserwiderung der Gegenseite erwartet bis 12.07.2025.
+
+**Geänderte Felder:**
+- naechste_frist: 2025-07-12
+- verfahrensstadium: Berufungsbegründung eingereicht → Berufungserwiderung ausstehend
+
+**Wesentlichkeitsprüfung:** keine Änderung
+**Begründung:** Verfahrensrechtlicher Schritt ohne neue Tatsachen oder Risikoverschiebung.
+```
+
+## Risiken und typische Fehler
+
+- **Fristversäumnis durch verzögerten Eintrag:** Der Eintrag ersetzt kein Fristenkontrollsystem; die Kanzlei muss separate Fristenkalender nach § 11 BORA führen. Dieser Skill dokumentiert — er sichert keine Fristen.
+- **Stillschweigendes Wesentlichkeitsupdating:** Unterbleibt die explizite Wesentlichkeitsprüfung, kann eine Rückstellungspflicht oder eine kapitalmarktrechtliche Offenlegungspflicht übersehen werden.
+- **Einträge in nicht-aufgenommene Mandate:** Ohne vorherige Interessenkonfliktprüfung (`/prozessrecht:mandat-aufnahme`) werden keine Einträge angelegt.
+- **Vergleichsannahme ohne anwaltliche Prüfung:** Die Schranke ist unüberwindbar für Nicht-Juristen; nur ein explizites Ja entsperrt den Eintrag.
+- **Rückwirkende Einträge:** Das Datum kann überschrieben werden; `zuletzt_aktualisiert` in `_log.yaml` zeigt jedoch immer das Bearbeitungsdatum, nicht das Ereignisdatum.
+- **Korrekturen:** Vergangene Einträge werden nicht bearbeitet. Korrekturen erfolgen als neuer Eintrag mit Verweis auf den zu korrigierenden Eintrag.
+
+## Quellenpflicht
+
+In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen heranzuziehen und, soweit angegeben, zu zitieren:
+
+- Gesetzestexte: §§ 214 ff., 516, 520, 548, 569 ZPO; §§ 317 ff. StPO; § 116 VwGO; § 43a BRAO; § 11 BORA
+- Rechtsprechung: BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655; BGH, Beschl. v. 26.11.2019 – VIII ZB 61/19, NJW 2020, 765
+- Kommentare: Zöller/Greger, ZPO, 35. Aufl. 2024, § 233; MüKoZPO/Gehrlein, 6. Aufl. 2020, § 214
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

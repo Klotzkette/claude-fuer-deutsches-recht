@@ -1,131 +1,319 @@
 ---
 name: policy-drafting
 description: >
-  Draft an employment policy with state supplements where law differs across
-  the jurisdictional footprint. Use when the user says "draft a [topic]
-  policy", "we need a policy on", "update our [topic] policy", or names a
-  policy gap.
-argument-hint: "[policy topic — e.g., 'remote work', 'parental leave', 'PTO']"
+  Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy)
+  mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge
+  abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats
+  und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand
+  sagt „Richtlinie entwerfen zu [Thema]", „wir brauchen eine Regelung zu"
+  oder eine Regelungslücke benennt.
+language: de
+triggers:
+  - "Richtlinie entwerfen"
+  - "Policy entwerfen"
+  - "Betriebsordnung"
+  - "Regelung entwerfen"
+  - "Handbuch-Policy"
+  - "Arbeitsanweisung"
+  - "betriebliche Regelung neu"
 ---
 
-# /policy-drafting
+# Richtlinien-Entwurf (Arbeitsrecht)
 
-1. Load `~/.claude/plugins/config/claude-for-legal/employment-legal/CLAUDE.md` → jurisdictional footprint, handbook location.
-2. Use the workflow below.
-3. Draft core policy. Check each jurisdiction in footprint for required variants.
-4. Output: core policy + state supplements. Flag where law is currently shifting.
+## Zweck
 
----
+Eine Regelung, die für München passt, kann in Frankfurt falsch sein — nicht
+wegen des Landes, sondern wegen des Tarifvertrags, der Betriebsvereinbarung
+oder der Konzernstruktur. Diese Skill entwirft eine Kernregelung und erstellt
+standortspezifische Ergänzungen, wo der Betrieb, ein Tarifvertrag oder eine
+bestehende Betriebsvereinbarung abweichende Anforderungen stellt.
 
-## Matter context
+Lädt, wenn eine neue oder geänderte Arbeitsregelung für ein oder mehrere
+Unternehmen / Standorte benötigt wird und die Folgewirkungen auf Betriebsrat,
+Tarifvertrag und bestehende Zusagen geprüft werden sollen.
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/employment-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/employment-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+## Eingaben
 
----
+- Thema der Regelung (z. B. Mobile Arbeit, Elternzeit-Ergänzung, Spesen,
+  Social Media, Datenschutz am Arbeitsplatz)
+- Anlass (gesetzliche Anforderung, Unternehmensinitiative, Regelungslücke)
+- Geltungsbereich (alle Arbeitnehmer / bestimmte Rollen / bestimmte Standorte)
+- Bestehende Betriebsvereinbarungen und Tarifbindung (falls bekannt)
+- Jurisdiktioneller Fußabdruck (Standorte und Länder)
 
-## Purpose
+## Rechtlicher Rahmen
 
-A policy that's right for California may be wrong (or unnecessary) in Texas. This skill drafts a core policy and generates state supplements where the footprint requires different rules.
+**Kernvorschriften:**
 
-## Load context
+- § 87 BetrVG: Erzwingbares Mitbestimmungsrecht des Betriebsrats —
+  Regelungen in den Bereichen § 87 Abs. 1 Nr. 1–13 (u. a. Ordnung des
+  Betriebs, Arbeitszeit, Urlaub, Datenschutz, Vergütungsgrundsätze)
+  können nicht ohne Zustimmung des Betriebsrats eingeführt werden
+- § 77 BetrVG: Betriebsvereinbarungen — Vorrang und Ablöseprinzip;
+  Nachwirkung (§ 77 Abs. 6 BetrVG); günstigerer Tarifvertrag geht vor
+- §§ 305 ff. BGB: AGB-Kontrolle für vorformulierte Arbeitsbedingungen;
+  § 305c Abs. 1 BGB: Verbot überraschender Klauseln; § 307 BGB:
+  Inhaltskontrolle; Transparenzgebot
+- § 2 NachwG: Schriftliche Mitteilung wesentlicher Arbeitsbedingungen
+  bei erstmaliger Vereinbarung und bei Änderungen
+- §§ 3 ff. AGG: Diskriminierungsverbote — Regelungen dürfen keine
+  unmittelbaren oder mittelbaren Benachteiligungen wegen geschützter
+  Merkmale enthalten oder bewirken
+- ArbZG: Arbeitszeitgesetz — Regelungen zur Arbeitszeit dürfen
+  gesetzliche Höchstgrenzen (§ 3 ArbZG: 8 Stunden täglich, maximal
+  10 Stunden) und Ruhezeiten (§ 5 ArbZG) nicht unterschreiten
+- § 26 BDSG / Art. 88 DSGVO: Beschäftigtendatenschutz — Regelungen zur
+  Überwachung, Zugriffsrechten oder Kommunikation erfordern
+  Datenschutzprüfung und ggf. Betriebsvereinbarung nach § 26 BDSG
 
-`~/.claude/plugins/config/claude-for-legal/employment-legal/CLAUDE.md` → jurisdictional footprint, handbook location and format.
+**Leitentscheidungen:**
 
-## Workflow
+- BAG, Urt. v. 11.04.2006 – 9 AZR 557/05, NZA 2006, 1149 Rn. 20 ff.:
+  AGB-Kontrolle von Handbuchregelungen, die durch Bezugnahmeklausel
+  einbezogen wurden; überraschende Klauseln nach § 305c BGB;
+  Transparenzgebot nach § 307 Abs. 1 S. 2 BGB; Reichweite der
+  Inhaltskontrolle bei Arbeitsregelungen
+- BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 Rn. 31:
+  Betriebliche Übung als Anspruchsgrundlage; einseitige Verschlechterung
+  einer durch betriebliche Übung entstandenen Leistungspflicht unwirksam;
+  Änderungskündigung als erforderliches Instrument
+- BAG, Urt. v. 23.01.2018 – 1 AZR 65/17, NZA 2018, 735 Rn. 16 ff.:
+  Mitbestimmungspflicht bei einseitiger Änderung betrieblicher Regelungen
+  in § 87 BetrVG-Bereichen; Einigungsstellenverfahren bei Scheitern der
+  Einigung
 
-### Step 1: Scope the policy
+**Kommentarliteratur:**
 
-- What's the policy for? (Remote work, parental leave, social media, etc.)
-- Why now? (Legal requirement, incident, growth, gap noticed)
-- Who does it apply to? (All employees, certain roles, certain locations)
+- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 1 ff.:
+  Katalog der erzwingbaren Mitbestimmungsrechte; Reichweite bei einzelnen
+  Themenfeldern (Homeoffice, Datenschutz, Zeiterfassung)
+- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 200 ff.:
+  AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle;
+  Transparenzgebot im Arbeitsrecht
+- HWK/Thüsing, 11. Aufl. 2024, § 2 NachwG Rn. 1 ff.:
+  Nachweispflicht; schriftliche Mitteilung bei Änderungen; Folgen
 
-### Step 2: Jurisdictional scan
+## Ablauf
 
-For each state/country in the footprint, check: does this jurisdiction have a specific rule on this topic?
+**Schritt 1 — Kontext laden**
 
-**Common topics with jurisdictional variance:**
+Lese `CLAUDE.md` im Plugin-Verzeichnis → jurisdiktioneller Fußabdruck,
+Handbuch-Standort, Tarifbindungen, bestehende Betriebsvereinbarungen.
 
-| Topic | Variance |
+**Schritt 2 — Regelung scopen**
+
+- Welches Thema? (Mobile Arbeit, Elternzeit, Social Media, Spesen, etc.)
+- Warum jetzt? (Gesetzliche Anforderung, Unternehmensinitiative, Regelungslücke)
+- Für wen gilt sie? (Alle Arbeitnehmer, bestimmte Rollen, bestimmte Standorte)
+
+**Schritt 3 — Mitbestimmungsprüfung**
+
+Prüfe, ob die geplante Regelung in einen Mitbestimmungstatbestand des
+§ 87 Abs. 1 BetrVG fällt:
+
+| Regelungsthema | Mitbestimmungstatbestand |
 |---|---|
-| Paid leave | State mandates (CA, NY, CO, WA, etc.) with different accrual rates, uses, carryover |
-| Parental leave | State programs layer on top of FMLA (CA PFL, NY PFL, etc.) |
-| Meal and rest breaks | CA is the outlier (penalty pay); most states minimal |
-| Expense reimbursement | CA requires; most states don't |
-| Pay transparency | Growing list of states requiring ranges in postings |
-| Non-competes | See hiring-review skill — unenforceable in some states |
-| Final pay | Timing varies widely |
+| Ordnung des Betriebs, Verhaltensregeln | § 87 Abs. 1 Nr. 1 BetrVG |
+| Beginn/Ende der täglichen Arbeitszeit, Pausen | § 87 Abs. 1 Nr. 2, 3 BetrVG |
+| Urlaubsplanung, -grundsätze | § 87 Abs. 1 Nr. 5 BetrVG |
+| Einführung von Überwachungstechnik (IT, Zeiterfassung) | § 87 Abs. 1 Nr. 6 BetrVG |
+| Unfallverhütung, Gesundheitsschutz | § 87 Abs. 1 Nr. 7 BetrVG |
+| Grundsätze des betrieblichen Lohngestaltung | § 87 Abs. 1 Nr. 10 BetrVG |
+| Mobile Arbeit / Homeoffice | § 87 Abs. 1 Nr. 1, 2, 6 BetrVG |
 
-If the topic has no jurisdictional variance (dress code, say), skip this step.
+Falls Mitbestimmung ausgelöst: explizit flaggen und empfohlenes Vorgehen
+angeben (Einholung Betriebsratszustimmung oder Einigungsstellenverfahren
+nach § 76 BetrVG).
 
-### Step 3: Draft the core policy
+**Schritt 4 — Jurisdiktioneller Scan**
 
-One policy. Applies everywhere. Clear and readable — employees should understand it without a lawyer.
+Für jeden Standort / jede tarifvertragliche Bindung im Fußabdruck prüfen:
+Gibt es abweichende gesetzliche, tarifvertragliche oder
+betriebsvereinbarungsbasierte Anforderungen zu diesem Thema?
 
-Structure:
-- Purpose (one sentence — why this policy exists)
-- Scope (who it applies to)
-- The rule (what's required/permitted/prohibited)
-- Process (how to request, who approves, what happens if)
-- Questions (who to ask)
+**Häufige Themen mit Varianz:**
 
-Avoid: "heretofore," "notwithstanding," nested exceptions. This is a handbook policy, not a contract.
+| Thema | Varianzquelle |
+|---|---|
+| Arbeitszeitregelungen | ArbZG-Mindestanforderungen; Branchentarifverträge (z. B. BAP/iGZ für Zeitarbeit) |
+| Urlaubsansprüche | Tarifvertragliche Mehrurlaubs-Ansprüche; BUrlG-Mindest |
+| Mobiles Arbeiten | Betriebsvereinbarungen; § 87 Abs. 1 Nr. 1, 2, 6 BetrVG |
+| Überstundenregelungen | ArbZG-Grenzen; TV-Mehrarbeitszuschläge |
+| Datenschutz am Arbeitsplatz | § 26 BDSG; Betriebsvereinbarung als Rechtsgrundlage |
+| Außertarifliche Zulagen | Gleichbehandlungsgrundsatz; AGG |
+| Kündigung / Abfindung | KSchG; TV-Abfindungsregelungen |
 
-### Step 4: State supplements
+Falls das Thema keine standortspezifische Varianz aufweist (z. B. reines
+Verhaltensgebot ohne Vergütungsrelevanz): diesen Schritt überspringen.
 
-For each jurisdiction where the rule differs, a supplement:
+**Schritt 5 — Kernregelung entwerfen**
+
+Eine Regelung. Gilt für alle erfassten Arbeitnehmer. Klar und verständlich —
+Arbeitnehmer sollen sie ohne juristische Vorkenntnisse verstehen.
+
+Struktur:
+- Zweck (ein Satz — warum diese Regelung besteht)
+- Geltungsbereich (wer ist erfasst)
+- Die Regel (was ist geboten / erlaubt / untersagt)
+- Verfahren (wie beantragen, wer genehmigt, was passiert bei Verstoß)
+- Ansprechpartner (an wen wenden bei Fragen)
+
+Vermeiden: „unbeschadet", „vorbehaltlich", verschachtelte Ausnahmen.
+Das ist eine Betriebsregelung, kein Vertrag.
+
+**Datenschutzprüfung:** Falls die Regelung die Verarbeitung von
+Beschäftigtendaten vorsieht oder ermöglicht (z. B. IT-Monitoring,
+Zeiterfassung, Zugangskontrolle): Rechtsgrundlage nach § 26 BDSG und
+ggf. DSFA nach Art. 35 DSGVO prüfen. Bei automatisierter Überwachung
+ist eine Betriebsvereinbarung als Rechtsgrundlage nach § 26 Abs. 4 BDSG
+der sichere Weg.
+
+**Schritt 6 — Standortspezifische Ergänzungen**
+
+Für jeden Standort, an dem die Regel abweicht:
 
 ```markdown
-### [State] Supplement
+### [Standort]-Ergänzung
 
-Employees working in [State] are subject to the following in addition to / instead of the core policy:
+Für Arbeitnehmer am Standort [Standort] gilt abweichend bzw. ergänzend:
 
-- [Specific difference]
-- [Cite the state law if helpful]
+- [Spezifische Abweichung]
+- [Rechtsgrundlage oder Tarifvertragsbezug]
 ```
 
-Keep supplements tight. Only what's different — don't repeat the core.
+Ergänzungen knapp halten — nur Abweichendes; Kernregelung nicht wiederholen.
 
-### Step 5: Cross-check
+**Schritt 7 — Quercheck**
 
-- Does this policy conflict with anything already in the handbook?
-- Does it promise more than the company intends to deliver? (A policy is a promise — courts hold employers to handbook promises.)
-- Does it inadvertently create a contract? (Some states treat handbook policies as contractual — include the standard "this is not a contract" language if the handbook doesn't already.)
+- Kollidiert diese Regelung mit einer bestehenden Regelung im Handbuch?
+- Verspricht sie mehr, als das Unternehmen liefern will? (Eine Regelung ist
+  ein Versprechen — Gerichte halten Arbeitgeber an Handbuchzusagen.)
+- Enthält sie unabsichtlich eine vertragliche Bindung? (Betriebliche Übung
+  nach drei gleichförmigen Wiederholungen — Disclaimer-Klausel wenn nötig,
+  aber als eigenständigen Abschnitt, nicht als Fußnote.)
+- AGG-Konformität: Enthält die Regelung mittelbare Benachteiligungen wegen
+  geschützter Merkmale nach § 1 AGG?
 
-## Output
+## Ausgabeformat
 
 ```markdown
-# [Policy Name]
+# [Regelungsname]
 
-## Core Policy
+## Kernregelung
 
-[Full text]
+**Geltung:** [alle Arbeitnehmer / bestimmte Gruppen / Standorte]
 
-## State Supplements
+**Zweck**
+[Ein Satz]
 
-### [State 1]
-[Supplement]
+**Geltungsbereich**
+[Wer ist erfasst]
 
-### [State 2]
-[Supplement]
+**Die Regelung**
+[Was ist geboten / erlaubt / untersagt]
+
+**Verfahren**
+[Wie beantragen, Genehmigung, Konsequenzen bei Verstoß]
+
+**Ansprechpartner**
+[HR-Kontakt / Vorgesetzte]
 
 ---
 
-## Drafting Notes (internal — remove before handbook insertion)
+## Standortspezifische Ergänzungen
 
-- **Jurisdictional scan:** [which states checked, which have variance]
-- **Conflicts with existing handbook:** [none | list]
-- **Law currently shifting:** [any state where this is in flux]
-- **Review cadence:** [when to revisit — annual, or when X happens]
+### [Standort 1]
+[Ergänzung]
+
+### [Standort 2]
+[Ergänzung]
+
+---
+
+## Entwurfsnotizen (intern — vor Einpflegen ins Handbuch entfernen)
+
+- **Mitbestimmung:** [Tatbestand § 87 BetrVG — betroffene Nr. / nicht betroffen]
+- **Betriebsrat-Vorgehen:** [Zustimmung erforderlich / Einigungsstellenverfahren]
+- **Datenschutz:** [§ 26 BDSG-Prüfung, DSFA erforderlich ja/nein]
+- **Jurisdiktioneller Scan:** [welche Standorte geprüft, wo Varianz]
+- **Kollisionen mit bestehendem Handbuch:** [keine | Liste]
+- **Recht derzeit im Wandel:** [Themen, die in Bewegung sind]
+- **Review-Turnus:** [jährlich / bei Änderung von Gesetz/TV]
 ```
 
-> **Draft, not a policy in effect.** This is a drafting aid for attorney review, not a policy you can publish. Publishing a handbook policy has legal consequences — in several states it can bind the company as a contractual promise, and wage/leave/accommodation policies are routinely read against the employer. A licensed attorney, solicitor, barrister, or other authorised legal professional in your jurisdiction reviews, edits as needed, and takes professional responsibility before the policy is rolled out. Do not publish or distribute this draft unreviewed.
+## Beispiel
 
-## Handoff
+Szenario: Entwurf einer Mobile-Work-Regelung für ein Unternehmen mit
+Standorten in Hamburg und München, Tarifbindung nach TV Gesamtmetall.
 
-To handbook-updates skill: when this policy is approved, it diffs against the current handbook and flags what changes.
+Ausgabe (Auszug Entwurfsnotizen):
 
-## What this skill does not do
+> Mitbestimmung: Mobile-Arbeit-Regelung berührt § 87 Abs. 1 Nr. 1 BetrVG
+> (Ordnung des Betriebs), Nr. 2 BetrVG (Beginn/Ende der Arbeitszeit) und
+> Nr. 6 BetrVG (IT-Überwachung bei Homeoffice-Zeiterfassung).
+> Betriebsrat-Zustimmung oder Abschluss einer Betriebsvereinbarung ist
+> vor Einführung zwingend.
+>
+> TV Gesamtmetall: Prüfen, ob der einschlägige ERA-TV Regelungen zur
+> mobilen Arbeit enthält, die von der Kernregelung abweichen.
+>
+> Datenschutz: Falls die Regelung IT-Monitoring im Homeoffice vorsieht
+> (z. B. Aktivitätstracking), ist eine Betriebsvereinbarung als
+> Rechtsgrundlage nach § 26 Abs. 4 BDSG erforderlich und eine DSFA
+> nach Art. 35 DSGVO zu prüfen.
 
-- Approve the policy. It drafts; a human approves.
-- Roll out the policy. Communication to employees is an HR workflow.
-- Cover every jurisdiction on earth — only the ones in the footprint. If the footprint expands, re-run.
+## Risiken und typische Fehler
+
+- **Mitbestimmung übergangen**: Eine in § 87 BetrVG-Bereichen eingeführte
+  Regelung ohne Betriebsratszustimmung ist unwirksam, auch wenn der Inhalt
+  sachlich gerechtfertigt ist.
+- **Betriebliche Übung**: Was dreimal gleichförmig gewährt wurde, kann
+  bindend werden. Neuregelungen, die bisher praxisübliche Leistungen
+  einschränken, brauchen entweder individuelle Zustimmung oder
+  Änderungskündigung.
+- **AGB-Falle**: Vorformulierte Arbeitsbedingungen unterliegen § 307 BGB.
+  Überraschende oder unverhältnismäßig belastende Klauseln sind unwirksam.
+- **NachwG versäumt**: Wenn die Regelung wesentliche Arbeitsbedingungen
+  ändert, ist schriftliche Mitteilung an die betroffenen Arbeitnehmer
+  nach § 2 NachwG erforderlich.
+- **AGG-Konformität nicht geprüft**: Regelungen können mittelbar
+  diskriminierend wirken (z. B. Teilzeitausschlüsse, die überwiegend
+  Frauen treffen). § 3 Abs. 2 AGG beachten.
+- **Datenschutz nicht eingeplant**: Technische Überwachungsmaßnahmen
+  ohne Betriebsvereinbarung und DSFA können nach § 26 BDSG und
+  § 87 Abs. 1 Nr. 6 BetrVG unzulässig sein.
+
+## Quellenpflicht
+
+Jede Ausgabe dieser Skill zitiert je nach Relevanz:
+
+- § 87 BetrVG (Mitbestimmung), § 77 BetrVG (Betriebsvereinbarung)
+- §§ 305 ff. BGB (AGB-Kontrolle), § 307 BGB (Inhaltskontrolle)
+- § 2 NachwG (Nachweispflicht)
+- § 26 BDSG, Art. 88 DSGVO (Beschäftigtendatenschutz)
+- BAG, Urt. v. 11.04.2006 – 9 AZR 557/05, NZA 2006, 1149 (AGB-Kontrolle)
+- BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 (betriebliche Übung)
+- BAG, Urt. v. 23.01.2018 – 1 AZR 65/17, NZA 2018, 735 (Mitbestimmung)
+- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 1 ff.
+
+> **Entwurf, keine geltende Regelung.** Dieser Entwurf ist ein Arbeitsdokument
+> für die anwaltliche Überprüfung. Eine Betriebsregelung oder Richtlinie, die
+> tatsächlich gilt, hat arbeitsrechtliche Bindungswirkung — in bestimmten
+> Bereichen als vertragliche Vereinbarung, durch betriebliche Übung oder
+> als Betriebsvereinbarung. Ein in der jeweiligen Jurisdiktion zugelassener
+> Rechtsanwalt oder Syndikusrechtsanwalt (§ 46 BRAO) prüft, überarbeitet
+> und trägt die fachliche Verantwortung, bevor die Regelung in Kraft tritt.
+> Nicht ohne Freigabe verteilen oder einführen.
+
+## Übergabe an handbook-updates
+
+Wenn diese Regelung genehmigt ist: `handbook-updates`-Skill prüft die
+Auswirkung auf das bestehende Handbuch und benennt Querverweise und
+Anpassungsbedarf.
+
+## Was diese Skill nicht tut
+
+- Regelungen genehmigen — das ist Aufgabe von HR-Leitung und Rechtsabteilung.
+- Regelungen kommunizieren — Mitarbeiterinformation ist HR-Aufgabe.
+- Alle denkbaren Jurisdiktionen abdecken — nur den konfigurierten Fußabdruck.
+  Bei Erweiterung des Fußabdrucks neu prüfen.

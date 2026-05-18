@@ -1,278 +1,316 @@
 ---
 name: subpoena-triage
-description: Triage a subpoena served on the company — classify it, analyze scope/burden/privilege, cross-check the portfolio, and produce an objections framework, compliance plan, and deadline calendar. Use when the user says "we got a subpoena", "served with a subpoena", or shares a subpoena, CID, or third-party document request to evaluate.
-argument-hint: "[path-to-subpoena] [--slug=custom-slug]"
+description: Triage einer gerichtlichen oder behördlichen Beweisanordnung — Klassifizierung, Umfangs- und Beschlagnahmeschutzanalyse, Portfolioquerverweis und Erstellung eines Einwendungsgerüsts, Mitwirkungsplans und Fristenkalenders. Lädt, wenn der Nutzer eine Vorladung, Zeugenladung, Vorlageanordnung, Durchsuchungsanordnung oder behördliche Anforderung erhalten hat und deren Reaktionsstrategie klären möchte.
+language: de
+triggers:
+  - "Beweisanordnung erhalten"
+  - "Vorlagepflicht Gericht"
+  - "§ 142 ZPO Anordnung"
+  - "Zeugenladung Triage"
+  - "Durchsuchung Kanzlei"
+  - "Vorladung als Zeuge"
+  - "§ 161a StPO Anforderung"
+  - "Sicherstellung Unterlagen"
+  - "gerichtliche Anforderung prüfen"
+  - "Einwendungen Beweiserhebung"
 ---
 
-# /subpoena-triage
+# Triage Gerichtliche und Behördliche Beweisanordnungen
 
-1. Read the subpoena from provided path.
-2. Classify (third-party-docs / third-party-depo / party / CID / grand-jury).
-3. If grand jury → stop, escalate per `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`. Otherwise continue.
-4. Load `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml` for cross-check. Load `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` → landscape, privilege conventions, escalation norms.
-5. Follow the workflow and reference below.
-6. Extract key fields, analyze scope/burden/privilege, produce objections framework + compliance plan + deadline calendar.
-7. Write `~/.claude/plugins/config/claude-for-legal/litigation-legal/inbound/[slug]/triage.md`. Copy or link subpoena to `~/.claude/plugins/config/claude-for-legal/litigation-legal/inbound/[slug]/incoming.[ext]`.
-8. Hand off: `/legal-hold --issue` if hold not in place; `/matter-intake` if materiality warrants; `/matter-briefing [slug]` if party subpoena in existing matter.
+## Zweck
 
----
+Beweisanordnungen und Vorladungen kommen mit Fristen. Die typischen Fehler: Frist verpassen, zu viel produzieren (Schutzrechtsverlust, unnötige Belastung), zu wenig produzieren (Ordnungsgeld, Beugehaft) oder das Fenster für eine Einwendung versäumen. Dieser Skill klassifiziert, analysiert und erstellt einen Mitwirkungsplan mit Einwendungsgerüst.
 
-# Subpoena Triage
+Hinweis: Ein direktes Pendant zur US-amerikanischen „Subpoena" existiert im deutschen Recht nicht. Dieser Skill behandelt die deutschen Rechtsinstitute, die vergleichbare Funktionen erfüllen: Urkundenvorlageanordnung (§ 142 ZPO), Augenscheinsanordnung (§ 144 ZPO), Zeugenladung (§§ 373 ff. ZPO), polizeiliche und staatsanwaltschaftliche Anforderungen (§ 161a StPO), Durchsuchung und Sicherstellung (§§ 102, 103 StPO) sowie behördliche Auskunftsersuchen.
 
-## Purpose
+## Eingaben
 
-Subpoenas arrive with deadlines. The failure modes: missing the deadline, over-producing (privilege waiver, burden we should have objected to), under-producing (contempt exposure), or missing a motion-to-quash window. This skill classifies, analyzes, and produces a compliance plan with objections framework.
+- **Beweisanordnung oder Vorladungsdokument** (erforderlich): Pfad oder direktes Einlesen im Dialog
+- **Mandatsbezeichnung (Slug)** (optional): Falls bereits ein Mandat existiert
+- **Verfahrensart**: ZPO, StPO, VwGO, FGO, SGG
+- **Stellung**: Zeuge, Dritter, Partei, Verteidiger
 
-## Jurisdiction assumption
+## Rechtlicher Rahmen
 
-The rule cited in Step 0 is the operative one for this subpoena in this forum. Subpoena practice varies materially: federal (FRCP 45) vs. state equivalents, state-to-state variants, local rules, court-specific standing orders, and the subpoena type (trial, deposition, document production) all change objection deadlines, place-of-compliance limits, privilege-log requirements, and cost-shifting. Every rule output here is a starting-point heuristic — confirm currency and the local variant before asserting in writing.
+### Kernvorschriften: Urkundenvorlage und Beweiserhebung (ZPO)
 
-## Side context
+- **§ 142 ZPO** — Anordnung der Urkundenvorlegung durch das Gericht; Voraussetzungen: Erheblichkeit und Zumutbarkeit; Verweigerungsrecht nach § 142 Abs. 2 ZPO i.V.m. §§ 383, 384 ZPO.
+- **§ 144 ZPO** — Anordnung der Inaugenscheinnahme; analoge Schranken.
+- **§§ 273, 356 ZPO** — Gerichtliche Beweisbeschlüsse; Fristbestimmungen; Folgen der Nichtbefolgung (§ 286 ZPO Beweiswürdigung, § 380 ZPO Ordnungsgeld bei Zeugnisverweigerung).
+- **§§ 373–401 ZPO** — Zeugenbeweis; Ladung, Erscheinungspflicht, Zeugnisverweigerungsrecht; § 383 Nr. 6 ZPO: Zeugnisverweigerung für Rechtsanwälte.
 
-This skill is inherently defensive — a subpoena has been served on the recipient and the posture is respond/object/comply. Read `## Side` in the practice profile. If the user's default side is **plaintiff**, note that receiving a subpoena is common for plaintiffs too (witness subpoenas, third-party requests directed at the plaintiff's own records) but the framing here is always "subpoena served on us, how do we respond." If the user is **defense** (typical), the framing aligns with the default. If the matter has a different posture than the default (e.g., defense practitioner receiving a subpoena in a matter where they're pro se for a family member), prompt the user to confirm posture before proceeding.
+### Kernvorschriften: Strafverfahren
 
-## Load context
+- **§ 161a StPO** — Staatsanwaltliche Anforderung von Auskünften und Vorlage von Unterlagen; Erscheinens- und Aussagepflicht.
+- **§§ 102, 103 StPO** — Durchsuchung bei Verdächtigen (§ 102) und bei Dritten (§ 103 StPO: erhöhte Anforderungen; Kanzleidurchsuchung nach § 103 grundsätzlich nur bei dringenden Verdachtsmomenten gegen den Anwalt selbst).
+- **§ 94 StPO** — Sicherstellung als Beweismittel; sachliche Voraussetzungen.
+- **§ 97 StPO** — Beschlagnahmeverbot; schützt Schriften des Verteidigers und Gegenstände im Gewahrsam von Zeugnisverweigerungsberechtigten.
+- **§ 53 StPO** — Zeugnisverweigerungsrecht des Rechtsanwalts; vollständige Weigerungsbefugnis.
+- **§ 160a StPO** — Schutz des Verkehrs mit Berufsgeheimnisträgern; Verbot der Umgehung durch verdeckte Ermittlungsmaßnahmen.
 
-- The subpoena document (user provides path or drops it in-session)
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml` — for related matter lookup and legal hold status
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` → landscape (regulators we deal with), house privilege conventions, escalation norms
+### Kernvorschriften: Beschlagnahmeschutz
 
-## Workflow
+- **§ 97 Abs. 1 Nr. 1 StPO** — Beschlagnahmeverbot für schriftliche Mitteilungen zwischen Beschuldigtem und Rechtsanwalt im Gewahrsam des Anwalts.
+- **§ 97 Abs. 2 StPO** — Beschlagnahmeverbot erstreckt sich auf alle Gegenstände, auf die das Zeugnisverweigerungsrecht sich bezieht.
 
-### Step 0: Research the applicable rule
+### Leitentscheidungen
 
-**Before analyzing this subpoena, research the applicable rule of civil procedure for the forum (FRCP 45 for federal, the state equivalent otherwise) and the subpoena type (trial, deposition, document production). Identify: place-of-compliance limits, objection deadlines (these often run from the EARLIER of the compliance date or a fixed number of days after service), privilege-log requirements, and who bears costs. Cite with pinpoint references. Verify currency — rules and local variants change. Flag grand-jury subpoenas for immediate criminal-counsel escalation.**
+- **BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917** — Kanzleidurchsuchung; Beschlagnahmeverbot des § 97 StPO ist verfassungsrechtlich in Art. 12 Abs. 1 GG und im Rechtsstaatsprinzip verankert; Verhältnismäßigkeitsmaßstab.
+- **BGH, Beschl. v. 10.07.2019 – StB 23/19, NStZ 2019, 687 Rn. 14 ff.** — Reichweite des Beschlagnahmeverbots § 97 StPO bei Kanzleidurchsuchung; Verteidiger-Mandant-Gewahrsam; Beweismittelbeschlagnahme nur bei nicht-verteidigungsrelevanten Gegenständen.
+- **BGH, Beschl. v. 07.11.2018 – XII ZB 2/16, NJW 2019, 374 Rn. 18 ff.** — § 142 ZPO Urkundenvorlage; richterliche Ermessensgrenzen; Verweigerung wegen anwaltlicher Verschwiegenheit wirksam.
+- **EuGH, Urt. v. 08.12.2022 – C-694/20 (Orde van Vlaamse Balies u.a.), NJW 2023, 197** — Schutz anwaltlicher Kommunikation im EU-Recht; Meldepflichten aus DAC6-Richtlinie verletzen bei Rechtsanwälten den Schutz vertraulicher Kommunikation; maßgeblich für alle grenzüberschreitenden Sachverhalte mit EU-Bezug.
+- **BVerwG, Urt. v. 15.02.2018 – 1 A 2/17, NVwZ 2018, 825 Rn. 20** — Auskunftsverweigerungsrecht nach § 99 VwGO; behördliches Geheimhaltungsinteresse vs. Beibringungspflicht; Abwägungsmaßstab.
 
-**No silent supplement.** If a research query to the configured legal research tool (Westlaw, CourtListener, Trellis, Descrybe, or firm platform) returns few or no results for the forum's rule, variant, or pinpoint, report what was found and stop. Do NOT fill the gap from web search or model knowledge without asking. Say: "The search returned [N] results from [tool]. Coverage appears thin for [rule / forum / variant]. Options: (1) broaden the search query, (2) try a different research tool, (3) search the web — results will be tagged `[web search — verify]` and should be checked against a primary source before relying, or (4) stop here. Which would you like?" A lawyer decides whether to accept lower-confidence sources; the skill does not decide for them.
+### Kommentarliteratur
 
-**Source attribution.** Tag every rule reference, case, statute, and regulation in the triage output with where it came from: `[Westlaw]`, `[CourtListener]`, `[Trellis]`, `[Descrybe]`, or the MCP tool name for citations retrieved from a legal research connector; `[web search — verify]` for citations from web search; `[model knowledge — verify]` for citations recalled from training data; `[user provided]` for citations the user supplied (e.g., from the subpoena or prior matter work). Citations tagged `verify` carry higher fabrication risk and should be checked first. Never strip or collapse the tags — they are counsel's fastest signal about which citations to verify before asserting in objections or filings.
+- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97 Rn. 5 ff.` — Beschlagnahmeverbot; Gewahrsam; Treuhandverhältnis; Durchsuchungsschutz in Kanzleiräumen.
+- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 142 Rn. 3 ff.` — Urkundenvorlageanordnung; Weigerungsrechte; Verhältnismäßigkeit und Zumutbarkeit.
+- `Kopp/Schenke, VwGO, 29. Aufl. 2023, § 99 Rn. 10 ff.` — In-camera-Verfahren bei behördlichem Geheimhaltungsinteresse; Reichweite der Vorlage­pflicht.
+- `BeckOK StPO/Bär, 52. Ed. (Stand 01.01.2024), § 53 Rn. 6 ff.` — Zeugnisverweigerungsrecht; Bezugnahme auf Dritte (§ 53a StPO).
 
-### Step 1: Classify
+## Ablauf
 
-Subpoenas come in flavors with different rules; confirm the specifics against the rule you just researched:
+### Schritt 0: Anwendbares Recht bestimmen
 
-- **Third-party document subpoena (civil)** — we're not a party to the litigation; someone wants our documents. Usual objection categories: relevance, burden, privilege, place-of-compliance / geographic reach.
-- **Third-party deposition subpoena** — someone wants an employee to testify. Scope, relevance, burden; possible motion to quash; witness prep required.
-- **Party subpoena** — we ARE a party; this is discovery in a litigation we're tracking. Treat as discovery, not inbound — it should map to an existing matter.
-- **Regulatory civil investigative demand (CID)** — FTC, SEC, DOJ, state AG. Different rules, different posture; often more deferential but also more consequential.
-- **Grand jury subpoena** — criminal. Escalate immediately to criminal counsel; different skill path (outside this skill's scope — flag for escalation).
+Vor der Analyse der Beweisanordnung: Welches Verfahren und welche Normen gelten?
 
-### Step 2: Extract key fields
+- **ZPO-Verfahren**: §§ 142, 144, 273 ZPO; Verweigerungsrechte nach §§ 383, 384 ZPO; Fristberechnung nach §§ 214 ff. ZPO.
+- **StPO-Verfahren**: §§ 94, 97, 102, 103, 161a StPO; § 53 StPO bei Zeugnisverweigerungsrecht; sofortiger Widerspruch bei Beschlagnahme von Verteidigerunterlagen.
+- **VwGO**: §§ 86, 99, 111 VwGO; behördliche Vorlagebeschlüsse; In-camera-Verfahren.
+- **EU-Bezug**: EuGH C-694/20 beachten für anwaltliche Kommunikation im grenzüberschreitenden Kontext.
 
-- **Issuing authority** — court (which), agency (which), counsel (if civil)
-- **Issuing party** — who requested (if civil)
-- **Case / matter caption** — the litigation we're being asked about
-- **Document categories sought** — numbered list
-- **Testimony topics** (if depo) — Rule 30(b)(6) designations
-- **Deadline for response/objection** — date served + computing the response window per applicable rule
-- **Production date** — date by which documents must be produced
-- **Geographic scope** — custodians, locations, systems implicated
-- **Custodian of record designation** — who at the company is the witness/signatory
+Quellenattribuierung: Jeden Normen- und Entscheidungshinweis mit Herkunft versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Vor Einreichung in Schriftsätzen oder gegenüber dem Gericht sind alle Angaben gegen eine Primärquelle (juris, beck-online) zu verifizieren.
 
-### Step 3: Portfolio cross-check
+### Schritt 1: Klassifizieren
 
-- **Party subpoena → related to existing matter:** verify the caption matches a matter in `_log.yaml`. If yes, route to that matter's workflow; this triage is informational.
-- **Third-party subpoena → caption we don't recognize:** capture the parties; log as standalone inbound.
-- **Multiple subpoenas from same case:** flag coordinated issuance; a single response strategy may apply.
+Beweisanordnungen kommen in verschiedenen Formen mit unterschiedlichen Rechtsfolgen:
 
-### Step 4: Analyze scope, burden, privilege
+- **Urkundenvorlageanordnung (§ 142 ZPO, zivil)** — Wir sind Dritter oder Partei; das Gericht verlangt unsere Unterlagen. Übliche Einwendungskategorien: Erheblichkeit, Zumutbarkeit, Beschlagnahmeschutz/Zeugnisverweigerungsrecht.
+- **Zeugenladung (§§ 373 ff. ZPO; § 161a StPO)** — Ein Mitarbeiter oder der Anwalt selbst soll aussagen. Umfang, Relevanz, mögliche Einwendung; etwaige Zeugnisvorbereitung erforderlich.
+- **Durchsuchungs-/Sicherstellungsanordnung (§§ 102, 103 StPO)** — Ermittlungsmaßnahme in Büro- oder Kanzleiräumen. Bei Kanzleidurchsuchung sofortige Prüfung § 97 StPO; Widerspruch zu Protokoll erklären; keine Mitwirkung über die Duldungspflicht hinaus ohne Rechtsrat.
+- **Behördliches Auskunftsersuchen (z. B. BKartA, BaFin, Steuerfahndung)** — Eigene Verfahrensordnung; Auskunftsverweigerungsrechte unterschiedlich.
+- **Strafrechtliche Vorladung (§ 163a StPO)** — Als Beschuldigter; sofortiger Rechtsanwalt; Aussageverweigerungsrecht.
 
-**Scope / relevance**
-- Do the categories map to actual documents we plausibly have?
-- Is any category a fishing expedition (overbroad, untethered to claims/defenses of the underlying case)?
-- Place of compliance / geographic reach — apply the researched rule; limits differ by subpoena type (trial vs. document vs. deposition).
+### Schritt 2: Schlüsselfelder extrahieren
 
-**Burden**
-- Custodians implicated, systems searched, time period
-- Estimated volume (rough: small / medium / large / extreme)
-- Cost — third-party responders may have cost-shifting available; check the researched rule.
+- **Anordnende Stelle** — Gericht (welches), Staatsanwaltschaft (welche), Behörde (welche)
+- **Antragsteller** (bei Zivilsachen) — wer hat die Anordnung beantragt
+- **Verfahrens-/Aktenzeichen** — das zugrundeliegende Verfahren
+- **Verlangte Unterlagenkategorien** — nummerierte Liste
+- **Aussagethemen** (bei Zeugenladung) — Themenkomplexe nach Ladung
+- **Reaktionsfrist** — Zustelldatum + Berechnung der Reaktionszeit nach anwendbarem Recht
+- **Vorlage-/Erscheinungsdatum** — Datum, zu dem Dokumente vorgelegt oder Aussage gemacht werden soll
+- **Geographischer Umfang** — betroffene Personen, Orte, Systeme
+- **Zustellungsempfänger** — wer ist Adressat
 
-**Privilege**
-- Attorney-client or work product likely implicated? (Almost always yes for anything legal-related; often yes for communications involving in-house or outside counsel.)
-- Other privileges — trade secret, HIPAA (if applicable), state privilege, common interest
-- Privilege log will be required — flag the format per `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`
+### Schritt 3: Portfolioquerverweis
 
-**Other objection grounds**
-- Confidentiality — protective order needed?
-- Duplicative — do they already have this from another party?
-- Not possessed — we don't have what they're asking for (document with specificity)
-- Improperly served — check the researched rule's service requirements
+- **Anordnung in Parteiverfahren:** Stimmt das Aktenzeichen mit einem Mandat in `_log.yaml` überein? Falls ja: In bestehendes Mandat eingliedern; diese Triage ist informativ.
+- **Anordnung aus unbekanntem Verfahren:** Beteiligte erfassen; als eigenständige Eingangspost anlegen.
+- **Mehrere Anordnungen aus demselben Verfahren:** Koordinierte Anforderung markieren; einheitliche Antwortstrategie prüfen.
 
-### Step 5: Objections framework
+### Schritt 4: Umfang, Belastung und Beschlagnahmeschutz analysieren
 
-Draft a structured objections outline — not the final objections letter, but the outline of what objections apply and why. The user (often with outside counsel) finalizes.
+**Umfang / Erheblichkeit**
+- Erfassen die Kategorien tatsächlich vorhandene Dokumente?
+- Ist eine Kategorie überschießend (unverhältnismäßig weit, ohne erkennbaren Bezug zum Verfahrensgegenstand)?
+- Geografischer Umfang / Erscheinungsort — § 142 ZPO: zumutbar; § 103 StPO: Verhältnismäßigkeit; VwGO: § 86 Abs. 1 VwGO Beibringungspflicht.
 
-Each objection:
-- Legal basis — cite the pinpoint from the rule researched in Step 0
-- Specific application to this subpoena (which categories, which custodians)
-- Strength (strong / reasonable / weak)
+**Belastung**
+- Betroffene Personen und Systeme, relevanter Zeitraum
+- Geschätztes Volumen (grob: gering / mittel / groß / außergewöhnlich hoch)
+- Kosten — Dritte können in bestimmten Konstellationen Kostenerstattung geltend machen; Rechtsgrundlage prüfen.
 
-### Step 6: Compliance plan
+**Beschlagnahmeschutz und Zeugnisverweigerung**
+- § 97 StPO-Schutz wahrscheinlich berührt? (Beinahe immer bei jeder rechtsbezogenen Anforderung; häufig auch bei Korrespondenz mit Syndikusrechtsanwälten — Einschränkung beachten)
+- Weitere Weigerungsrechte: § 383 Nr. 6 ZPO, § 53 StPO Zeugnisverweigerung, § 43a BRAO Verschwiegenheit
+- Schutzwürdige Geschäftsgeheimnisse nach GeschGehG
+- Datenschutz — Art. 14 DSGVO: Informationspflicht bei Übermittlung personenbezogener Daten an Dritte
 
-Even when objecting, we often produce some of what's requested. Plan:
+**Sonstige Einwendungsgründe**
+- Vertraulichkeit — Schutzanordnung nach § 174 GVG oder Vereinbarung erforderlich?
+- Doppelproduktion — hat die Gegenseite bereits dieselben Unterlagen aus einer anderen Quelle?
+- Nicht vorhanden — wir besitzen das Verlangte nicht (mit Substanz darlegen)
+- Zustellungsmangel — Voraussetzungen der §§ 171 ff. ZPO, §§ 33 ff. StPO prüfen
 
-- **Scope of likely production** — after objections, what we'd produce
-- **Custodians to search** — names and systems
-- **Date range**
-- **Review protocol** — who reviews for privilege (us, outside counsel, contract reviewers)
-- **Production format** — per the subpoena or per negotiated protocol (TIFF+load file, native, PDF)
-- **Privilege log requirements** — format, fields
+### Schritt 5: Einwendungsgerüst
 
-### Step 7: Deadlines
+Strukturiertes Einwendungsraster — nicht der fertige Schriftsatz, sondern das Gerüst, das Anwalt (ggf. zusammen mit externen Bevollmächtigten) ausarbeitet.
 
-Use the deadlines identified in the Step 0 research. Note that objection deadlines often run from the EARLIER of the compliance date or a fixed number of days after service — do not default to a single number without checking the applicable rule and local variant.
+Je Einwendung:
+- Rechtsgrundlage — Pinpoint-Zitat aus der Schritt-0-Recherche
+- Konkrete Anwendung auf diese Anordnung (welche Kategorien, welche Personen)
+- Stärke (stark / vertretbar / schwach)
 
-- **Response deadline** — per researched rule; note if user needs more time (meet-and-confer to extend is standard)
-- **Objection deadline** — per researched rule (federal / state rule + any local variant)
-- **Production date** — if no objections succeed
-- **Motion to quash window** — if pursuing that path, timing is critical
+### Schritt 6: Mitwirkungsplan
 
-Calendar all of them. Immediate action item.
+Selbst bei Einwendungen wird häufig ein Teil des Verlangten erfüllt:
 
-### Step 8: Write triage
+- **Umfang der wahrscheinlichen Vorlage** — nach Einwendungen verbleibende Dokumente
+- **Zu durchsuchende Personen und Systeme**
+- **Zeitraum**
+- **Prüfungsprotokoll** — wer prüft auf Vertraulichkeitsschutz (Kanzlei, externe Bevollmächtigte)
+- **Produktionsformat** — gemäß Anordnung oder ausgehandeltem Protokoll
+- **Anforderungen an das Vertraulichkeitsregister** — Format, Felder, geschätzte Einträge
 
-Output: `~/.claude/plugins/config/claude-for-legal/litigation-legal/inbound/[slug]/triage.md`.
+### Schritt 7: Fristen
+
+Alle Fristen aus der Schritt-0-Recherche verwenden. Einwendungsfristen können bereits mit Zustellung zu laufen beginnen — nicht auf ein einheitliches Datum vertrauen, ohne die geltende Norm und etwaige lokale Varianten zu prüfen.
+
+- **Reaktionsfrist** — nach anwendbarer Norm; ggf. Verlängerung durch Korrespondenz mit Gericht/Staatsanwaltschaft erforderlich
+- **Einwendungsfrist** — nach anwendbarer Norm (ZPO, StPO, VwGO, FGO) `[PRÜFEN]`
+- **Abstimmungstermin** — falls Einschränkungen angestrebt werden, typischerweise vor Einwendungsfrist
+- **Vorlagedatum** — sofern keine Einwendungen greifen
+
+Alle Fristen sofort im Fristenkontrollsystem notieren.
+
+## Ausgabeformat
+
+### Schritt 8: Triage-Dokument erstellen
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs — differs by role; see `## Who's using this`]
+[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
 
-# Subpoena Triage
+# Beweisanordnung Triage
 
-> **NOT A SUBSTITUTE FOR OUTSIDE COUNSEL.** This is a structured classification and scoping read to support fast decisions on deadlines, holds, and engagement. Every rule reference is a starting-point heuristic; jurisdiction-specific analysis, objections finalization, motions practice, and merit calls on privilege require licensed counsel familiar with the forum. Engage outside counsel for any subpoena above routine third-party document scope.
+> **KEIN ERSATZ FÜR ANWALTLICHE BERATUNG.** Dies ist eine strukturierte Klassifizierungs- und Scoping-Analyse zur Unterstützung schneller Entscheidungen zu Fristen, Beweissicherung und Mandatierung. Jeder Normenhinweis ist ein Ausgangspunkt — rechtssichere Einwendungen, Antragsstellung und Vertretung vor Gericht erfordern zugelassene Rechtsanwälte mit Kenntnis des Forums. Externe Bevollmächtigte für jede Beweisanordnung außerhalb routinemäßiger Drittvorlagen mandatieren.
 
-**Slug:** [slug]
-**Served:** [YYYY-MM-DD]
-**Served on:** [entity / registered agent]
-**Incoming file:** [path]
-**Classification:** [third-party-docs / third-party-depo / party / CID / grand-jury]
-
----
-
-## Key fields
-
-- **Issuing authority:** [court/agency]
-- **Issuing party:** [name]
-- **Case caption:** [caption]
-- **Response deadline:** [date]
-- **Production date:** [date]
-- **Motion-to-quash window:** [date range]
-
-## Categories sought (summary)
-
-[numbered list, concise]
-
-## Custodians / systems likely implicated
-
-[list]
+**Slug:** [Bezeichnung]
+**Zugestellt:** [JJJJ-MM-TT]
+**Zugestellt an:** [Person / Kanzlei / eingetragener Vertreter]
+**Ausgangsdokument:** [Pfad]
+**Klassifizierung:** [§-142-ZPO-Vorlage / Zeugenladung / Durchsuchung/Sicherstellung / Behördenanforderung / Strafrechtliche-Vorladung]
 
 ---
 
-## Portfolio cross-check
+## Schlüsselfelder
 
-**Related matter:** [slug or "none"]
-**If party subpoena:** [routed to existing matter or new matter?]
-**If third-party:** [standalone inbound]
+- **Anordnende Stelle:** [Gericht/Behörde]
+- **Antragsteller:** [Name]
+- **Aktenzeichen/Verfahrenskapitel:** [Bezeichnung]
+- **Reaktionsfrist:** [Datum]
+- **Vorlagedatum:** [Datum]
+- **Einwendungsfenster:** [Zeitraum]
 
----
+## Verlangte Kategorien (Zusammenfassung)
 
-## Scope & burden analysis
+[nummerierte Liste, knapp]
 
-**Scope:** [relevance assessment by category]
-**Burden estimate:** [small / medium / large / extreme — with reasoning]
-**Geographic reach issues:** [any]
+## Betroffene Personen / Systeme
 
-## Privilege analysis
-
-*Privilege scoping is a first-pass read; final call is counsel's, not this skill's.*
-
-**Attorney-client / work product likely implicated:** [yes/no + which categories] `[SME VERIFY]`
-**Other privileges:** [trade secret, HIPAA, state, common interest] `[SME VERIFY]`
-**Privilege log format required:** [per `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`]
+[Liste]
 
 ---
 
-## Objections framework
+## Portfolioquerverweis
 
-*Every row below requires `[SME VERIFY]` before asserting in writing — jurisdiction, rule currency, waiver risk.*
+**Verwandtes Mandat:** [Bezeichnung oder „keins"]
+**Bei Parteiverfahren:** [in bestehendes Mandat eingegliedert oder neues Mandat?]
+**Bei Drittanordnung:** [eigenständige Eingangspost]
 
-| Objection | Legal basis | Applies to | Strength | SME verified? |
+---
+
+## Umfangs- und Belastungsanalyse
+
+**Umfang:** [Erheblichkeitsbewertung je Kategorie]
+**Belastungsschätzung:** [gering / mittel / groß / außergewöhnlich hoch — mit Begründung]
+**Geografischer Umfang:** [etwaige Probleme]
+
+## Beschlagnahmeschutz- und Zeugnisverweigerungsanalyse
+
+*Erste Scoping-Prüfung; endgültige Entscheidung liegt beim Anwalt.*
+
+**§ 97 StPO / § 43a BRAO / § 53 StPO wahrscheinlich berührt:** [ja/nein + welche Kategorien] `[PRÜFEN]`
+**Weitere Weigerungsrechte:** [GeschGehG, Datenschutz, § 383 ZPO] `[PRÜFEN]`
+**Vertraulichkeitsregister erforderlich:** [ja/nein — Format]
+
+---
+
+## Einwendungsgerüst
+
+*Jede Zeile erfordert `[PRÜFEN]` vor Geltendmachung in Schriftsätzen — Normaktualität, lokale Varianten, Wirkungsrisiko.*
+
+| Einwendung | Rechtsgrundlage | Anwendung | Stärke | Anwalt geprüft? |
 |---|---|---|---|---|
-| Relevance | [rule] | [categories] | [strong/reasonable/weak] | [ ] |
-| Burden | [rule] | [categories] | | [ ] |
-| Privilege | A/C, WP | [all producing docs] | strong (always) | [ ] |
-| Duplicative | [rule/doctrine] | [if applicable] | | [ ] |
-| [other] | | | | [ ] |
+| Erheblichkeit/Verhältnismäßigkeit | [Norm] | [Kategorien] | [stark/vertretbar/schwach] | [ ] |
+| Belastung/Zumutbarkeit | [Norm] | [Kategorien] | | [ ] |
+| § 97 StPO / § 43a BRAO | Beschlagnahmeschutz/Verschwiegenheit | [alle Schutzunterlagen] | stark | [ ] |
+| Nicht vorhanden | [Norm/Grundsatz] | [falls zutreffend] | | [ ] |
+| [Sonstiges] | | | | [ ] |
 
 ---
 
-## Compliance plan (if responding)
+## Mitwirkungsplan (falls Reaktion erfolgt)
 
-- **Scope of likely production:** [after objections]
-- **Custodians / systems:** [list]
-- **Date range:** [range]
-- **Review protocol:** [who, how]
-- **Production format:** [format]
-- **Privilege log:** [format, est. entries]
-
----
-
-## Deadlines (calendar these)
-
-*All deadlines below come from the Step 0 rule research. `[SME VERIFY]` confirms the rule, variant, and computation for this forum and this subpoena type — state variants and local rules differ.*
-
-- **Response deadline:** [date] `[SME VERIFY]`
-- **Objection deadline:** [date] — cite: [rule + pinpoint] `[SME VERIFY]`
-- **Meet-and-confer by:** [date] (typically before objection deadline) `[SME VERIFY]`
-- **Production date:** [date]
+- **Umfang der wahrscheinlichen Vorlage:** [nach Einwendungen]
+- **Personen/Systeme:** [Liste]
+- **Zeitraum:** [Zeitraum]
+- **Prüfungsprotokoll:** [wer, wie]
+- **Produktionsformat:** [Format]
+- **Vertraulichkeitsregister:** [Format, geschätzte Einträge]
 
 ---
 
-## Immediate actions
+## Fristen (sofort im Fristenkontrollsystem eintragen)
 
-- [ ] Legal hold issued — [yes/no] — if no, run `/legal-hold [slug] --issue` with subpoena scope
-- [ ] Outside counsel engaged — [yes/who/TBD]
-- [ ] Meet-and-confer scheduled — [date]
-- [ ] Matter created in log — [yes/no/TBD — usually yes for anything above the smallest third-party docs subpoena]
-- [ ] Insurance / cost-shifting analysis — [if burden is large]
-- [ ] Internal escalation — [who]
+*Alle Fristen stammen aus der Schritt-0-Normenrecherche. `[PRÜFEN]` bestätigt Norm, Variante und Berechnung für dieses Forum und diese Anordnungsart.*
 
----
-
-## Recommendation
-
-[Two paragraphs: what to do. Objection posture. Production posture. Whether outside counsel handles objections or we do. Whether to move to quash.]
+- **Reaktionsfrist:** [Datum] `[PRÜFEN]`
+- **Einwendungsfrist:** [Datum] — Quelle: [Norm + Pinpoint] `[PRÜFEN]`
+- **Abstimmungstermin:** [Datum] (typischerweise vor Einwendungsfrist) `[PRÜFEN]`
+- **Vorlagedatum:** [Datum]
 
 ---
 
-## Citation verification
+## Sofortige Maßnahmen
 
-Every rule reference, case, statute, and regulation in this triage — including the Step 0 research citations, objection bases, and the privilege-log format pointer — is AI-generated and unverified. Before relying on any cite (especially in objections, a motion to quash, or correspondence with the issuing party), run a verification pass against a legal research tool (Westlaw, CourtListener, Trellis, Descrybe, or your firm's platform) for accuracy, good law status, and local variants. Fabricated or misquoted citations in filed documents have resulted in sanctions. Source tags on each citation (e.g., `[Westlaw]`, `[web search — verify]`) show where it came from; `verify` tags carry higher fabrication risk and should be checked first.
+- [ ] Beweissicherungsanordnung — [ja/nein] — falls nein: `/prozessrecht:beweissicherung [slug] --anordnen` mit Anordnungsumfang ausführen
+- [ ] Externe Bevollmächtigte mandatiert — [ja/wer/offen]
+- [ ] Abstimmung mit Anordnendem geplant — [Datum]
+- [ ] Mandat im Protokoll angelegt — [ja/nein/offen]
+- [ ] Kostenanalyse — [falls Belastung groß]
+- [ ] Interne Eskalation — [wer]
+
+---
+
+## Empfehlung
+
+[Zwei Absätze: Was tun. Einwendungshaltung. Mitwirkungshaltung. Ob externe Bevollmächtigte Einwendungen übernehmen oder nicht. Ob ein Antrag auf Aufhebung/Einschränkung der Anordnung sinnvoll ist.]
+
+---
+
+## Quellenverifizierung
+
+Jeder Normen-, Entscheidungs- und Regelhinweis in dieser Triage — einschließlich der Schritt-0-Recherchequellen, Einwendungsgrundlagen und Verweisungen auf das Vertraulichkeitsregister — ist KI-generiert und ungeprüft. Vor Verwendung in Schriftsätzen, Einwendungskorrespondenz oder Antragsstellungen ist eine Verifikation gegen eine Primärquelle (juris, beck-online, Wolters Kluwer) erforderlich: Richtigkeit, Aktualität, lokale Varianten. Fabrizierte oder fehlerhafte Zitate in eingereichten Schriftsätzen können Sanktionen auslösen.
 ```
 
-### Step 9: Hand off
+### Schritt 9: Übergabe
 
-**Before responding to the subpoena (serving objections, producing documents, appearing for deposition, or filing a motion to quash — any substantive response to the issuing party or court):** Read `## Who's using this` in `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`. If the Role is Non-lawyer:
+**Vor der Reaktion gegenüber dem Gericht oder der Behörde (Einwendungen einreichen, Dokumente vorlegen, als Zeuge erscheinen, Antrag auf Aufhebung stellen — jede inhaltliche Reaktion):**
 
-> Responding to a subpoena has legal consequences — missing a deadline risks contempt, over-producing waives privilege, under-producing risks sanctions. Have you reviewed this with an attorney? If yes, proceed. If no, here's a brief to bring to them:
+> Eine Reaktion auf Beweisanordnungen hat rechtliche Folgen — Fristversäumnis kann Ordnungsgeld oder Beugehaft auslösen, zu viel produzieren kann Schutzrechtsverlust bewirken, zu wenig produzieren kann Kostennachteile oder Beweisnachteile erzeugen. Wurde dies mit einem Anwalt besprochen? Falls ja: bitte bestätigen. Falls nein, hier ist ein Briefing für das Gespräch:
 >
-> [Generate a 1-page summary: the subpoena type, issuing authority, deadlines, scope of what's sought, objections framework and strength, privilege and burden issues, proposed response posture, what could go wrong, what to ask the attorney.]
->
-> If you need to find a licensed attorney, solicitor, barrister, or other authorised legal professional in your jurisdiction: your professional regulator's referral service is the fastest starting point (state bar in the US, SRA/Bar Standards Board in England & Wales, Law Society in Scotland/NI/Ireland/Canada/Australia, or your jurisdiction's equivalent).
+> [Zusammenfassung: Art der Anordnung, anordnende Stelle, Fristen, Umfang des Verlangten, Einwendungsgerüst und Stärke, Beschlagnahmeschutz und Belastungsfragen, vorgeschlagene Reaktionshaltung, was schiefgehen kann, Fragen an den Anwalt.]
 
-Do not proceed past this gate without an explicit yes. Triage, scoping, and internal calendaring do not require the gate — the response to the issuing authority does.
+Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und internes Fristenmanagement erfordern die Schranke nicht — die Reaktion gegenüber der anordnenden Stelle schon.
 
-- If classified as **grand jury subpoena** → stop, flag for escalation per `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md`, do not proceed with standard triage.
-- If classified as **CID**: flag that regulator-specific norms apply; recommend outside regulatory counsel.
-- Otherwise: offer to create a matter (usually yes — subpoenas are almost always material enough to track).
-- If a legal hold isn't issued with subpoena scope, hand off to `/legal-hold --issue` immediately.
+- Bei **strafrechtlicher Vorladung als Beschuldigter** → sofort Verteidiger mandatieren; diese Triage endet hier.
+- Bei **Kanzleidurchsuchung (§ 103 StPO)**: sofortiger Widerspruch zu Protokoll; keine freiwillige Herausgabe über Duldungspflicht hinaus ohne anwaltliche Prüfung.
+- Sonst: Angebot, Mandat anzulegen (in der Regel sinnvoll — Beweisanordnungen sind fast immer bedeutend genug zur Verfolgung).
+- Falls noch keine Beweissicherungsanordnung mit dem Anordnungsumfang vorliegt: sofort an `/prozessrecht:beweissicherung --anordnen` übergeben.
 
-## Close with the next-steps decision tree
+## Risiken und typische Fehler
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+- **Beschlagnahmeschutz § 97 StPO:** Bei Kanzleidurchsuchungen sofort Widerspruch erklären; jede Herausgabe ohne Prüfung kann den Schutz endgültig beseitigen.
+- **Syndikusanwalt-Korrespondenz:** Im EU-Kartellverfahren und bei Behördenermittlungen kein Schutz (EuGH Akzo Nobel C-550/07 P) — nicht pauschal § 43a BRAO geltend machen.
+- **EuGH C-694/20:** Bei grenzüberschreitenden Sachverhalten und EU-Bezug: Schutz anwaltlicher Kommunikation nach EU-Recht beachten.
+- **Einwendungsfristen:** Laufen teilweise bereits ab Zustellung; kein einheitliches Datum ohne Normprüfung annehmen.
+- **Quellenverifizierung:** Alle Norm- und Entscheidungshinweise sind vor Einreichung zu verifizieren.
 
-## What this skill does not do
+## Quellenpflicht
 
-- **Draft the final objections letter.** Produces the framework; the letter is drafted by user + outside counsel (future: a dedicated objections-draft skill).
-- **Move to quash.** Surfaces the option; the motion is legal work that requires jurisdiction-specific analysis.
-- **Validate rules across jurisdictions.** The Step 0 research produces the operative rule for this subpoena; the skill doesn't independently confirm currency or local variants. Flag for counsel verification before acting.
-- **Handle grand jury subpoenas.** Escalates. This is outside the triage scope.
+- Gesetzestexte: §§ 142, 144, 273, 373 ff., 383, 384 ZPO; §§ 53, 94, 97, 102, 103, 160a, 161a, 163a StPO; §§ 86, 99 VwGO; § 43a BRAO; GeschGehG
+- Rechtsprechung: BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917; BGH, Beschl. v. 10.07.2019 – StB 23/19, NStZ 2019, 687; EuGH, Urt. v. 08.12.2022 – C-694/20, NJW 2023, 197
+- Kommentare: Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97; Zöller/Greger, ZPO, 35. Aufl. 2024, § 142; Kopp/Schenke, VwGO, 29. Aufl. 2023, § 99
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

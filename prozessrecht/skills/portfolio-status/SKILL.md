@@ -1,126 +1,182 @@
 ---
 name: portfolio-status
-description: Roll up the portfolio from _log.yaml — risk distribution, upcoming deadlines, stale matters, materiality totals, stage distribution, and flagged anomalies. Use when the user asks "where do we stand", "how many open matters", or wants a portfolio rollup or status across all active matters.
-argument-hint: "[--all | --risk=high | --stale]"
+description: Erstellt eine Übersicht des Prozessportfolios aus _log.yaml — Risikoverteilung, bevorstehende Fristen, veraltete Mandate, Wesentlichkeitssummen, Verfahrensstadien und markierte Auffälligkeiten. Lädt, wenn der Nutzer fragt „wo stehen wir", „wie viele offene Verfahren gibt es" oder eine Gesamtübersicht aller aktiven Prozessmandate benötigt.
+language: de
+triggers:
+  - "Portfolio-Übersicht"
+  - "Prozessportfolio Stand"
+  - "offene Verfahren"
+  - "Risikoübersicht Mandate"
+  - "Fristenanzeige Portfolio"
+  - "veraltete Mandate"
+  - "Mandatslage insgesamt"
+  - "Rückstellung Wesentlichkeit"
+  - "Gesamtstatus Prozesse"
 ---
 
-# /portfolio-status
+# Prozessportfolio-Status
 
-1. Load `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` → risk calibration (defines how to read the `risk:` field).
-2. Follow the workflow and reference below.
-3. Parse `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml`. Filter closed matters by default (include with `--all`).
-4. Produce rollup: risk distribution, deadlines in next 14/30/60 days, matters with no update in >30 days, materiality totals, stage distribution.
-5. Flag anomalies — everything marked critical, overdue next_deadline, matters without outside counsel assigned where risk is medium or high.
+## Zweck
 
----
+Eine Abfrage, die beantwortet: Was führe ich gerade, was erfordert Aufmerksamkeit, was droht zu versanden? Die Ausgabe ist auf schnelles Überfliegen ausgelegt — geeignet für einen Anwalt, der drei Minuten vor dem nächsten Termin hat. Lädt bei allen Anfragen zu einer Gesamtübersicht aktiver oder aller Prozessmandate.
 
-# Portfolio Status
+## Eingaben
 
-## Purpose
+- **Mandatsprotokoll `_log.yaml`**: Primärquelle
+- **Kanzleikonfiguration `CLAUDE.md`**: Risikokalibrierung (zur korrekten Auslegung der Risiko- und Wesentlichkeitsfelder)
+- **Flags** (optional): `--alle`, `--risiko=hoch`, `--veraltet`, `--typ=arbeitsrecht`, `--verantwortlicher=[Name]`
 
-One read that answers: what do I own right now, what needs attention, and what's slipping? Output is scannable — designed for a counsel who has three minutes before their next call.
+## Rechtlicher Rahmen
 
-## Load context
+### Kernvorschriften
 
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/matters/_log.yaml` — source of truth
-- `~/.claude/plugins/config/claude-for-legal/litigation-legal/CLAUDE.md` — risk calibration (to interpret risk/materiality fields correctly)
+- **§ 43a Abs. 1 BRAO i.V.m. § 11 BORA** — Sorgfaltspflicht; lückenlose Fristen- und Sachstandskontrolle als Berufspflicht; Verfahren ohne aktuellen Eintrag können auf Versäumnisse hinweisen.
+- **§§ 214–233 ZPO; §§ 516, 520, 548, 569 ZPO** — Fristen im Zivilprozess; versäumte Fristen sind einer der häufigsten Anwaltshaftungsgründe.
+- **§ 317 StPO** — Berufungsfrist im Strafverfahren (eine Woche ab Urteilsverkündung); besondere Überwachungspflicht.
+- **§ 74 VwGO** — Klagefrist im Verwaltungsgerichtsverfahren (ein Monat); versäumt grundsätzlich nicht wiedereinsetzungsfähig.
+- **§ 249 HGB** — Rückstellungspflicht für drohende Verluste aus schwebenden Rechtsstreitigkeiten; relevant für die Wesentlichkeitsklassifizierung.
+- **§ 285 Nr. 3a HGB; § 340e Abs. 3 HGB** — Offenlegung wesentlicher Rechtsstreitigkeiten im Jahresabschluss; Berührungspunkt mit der Wesentlichkeitskennzeichnung.
 
-## Flags & filters
+### Leitentscheidungen
 
-Default: active matters only (exclude `status: closed`).
+- **BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 12 ff.** — Anwaltliche Haftung bei versäumter Rechtsmittelfrist; Anforderungen an die Fristenkontrolle einer Kanzlei.
+- **BGH, Urt. v. 26.05.2011 – IX ZR 160/10, NJW 2011, 2513 Rn. 18** — Pflicht zur unverzüglichen Information des Mandanten über drohende Fristversäumnisse und Verfahrensrisiken.
+- **BVerfG, Beschl. v. 20.06.1995 – 1 BvR 166/93, NJW 1995, 3173** — Recht auf effektiven Rechtsschutz; staatliche Gerichte dürfen überhöhte Anforderungen an Fristen nicht stellen; Gegenseite: Anwaltspflicht zur Ausschöpfung aller Rechtsmittelwege.
 
-Flags:
-- `--all` — include closed
-- `--risk=high` (or `critical` / `medium` / `low`) — filter by risk band
-- `--stale` — only matters with `last_updated` > 30 days
-- `--type=employment` — filter by matter type
-- `--owner=[name]` — filter by business/HR/comms owner
+### Kommentarliteratur
 
-## The rollup
+- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 233 Rn. 5 ff.` — Sorgfaltsanforderungen an Fristenkontrolle; organisatorische Pflichten der Kanzlei.
+- `MüKoZPO/Gehrlein, 6. Aufl. 2020, § 214 Rn. 8 ff.` — Fristenberechnung und Überwachungspflichten; praktische Anforderungen.
+- `BeckOK HGB/Förschle, 60. Ed. (Stand 01.11.2023), § 249 Rn. 30 ff.` — Rückstellungspflicht bei Rechtsstreitigkeiten; Kriterien für „wahrscheinlich" und „schätzbar".
+
+## Ablauf
+
+### Schritt 1: Kontext laden
+
+`_log.yaml` einlesen; `CLAUDE.md` → Risikokalibrierung lesen.
+
+### Schritt 2: Filtern
+
+Standard: nur aktive Mandate (`status != geschlossen`).
+
+**Flags:**
+- `--alle` → geschlossene Mandate einschließen
+- `--risiko=hoch` (oder `kritisch` / `mittel` / `niedrig`) → nach Risikostufe filtern
+- `--veraltet` → nur Mandate mit `zuletzt_aktualisiert` > 30 Tage
+- `--typ=arbeitsrecht` → nach Mandatstyp filtern
+- `--verantwortlicher=[Name]` → nach internem Verantwortlichen filtern
+
+### Schritt 3: Übersicht erstellen
+
+(Vorlage siehe Ausgabeformat)
+
+### Schritt 4: Auffälligkeiten prüfen
+
+Sieben Prüfregeln (Details im Abschnitt Auffälligkeitsregeln).
+
+### Schritt 5: Entscheidungsbaum ausgeben
+
+Abschluss mit Nächste-Schritte-Entscheidungsbaum gemäß Kanzleikonfiguration `## Ausgaben`. Optionen an die Ausgabe anpassen (Entwurf erstellen, eskalieren, weitere Fakten beschaffen, beobachten, anderes). Bei mehr als ca. 10 Mandaten oder auf Anfrage: Dashboard-Angebot (Risikoverteilung, Fristatimeline, sortierbare Mandatsliste mit Status und letztem Bearbeitungsdatum).
+
+## Ausgabeformat
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs — differs by role; see `## Who's using this`]
+[ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
 
-# Portfolio Status — [today]
+# Prozessportfolio-Status — [heute]
 
-**Active matters:** [N]
-**Closed (ytd):** [N] *(shown only with --all)*
+**Aktive Mandate:** [N]
+**Geschlossen (lfd. Jahr):** [N] *(nur bei --alle)*
 
 ---
 
-## By risk
+## Nach Risiko
 
-| Risk | Count | Matters |
+| Risiko | Anzahl | Mandate |
 |---|---|---|
-| Critical | [N] | [slugs] |
-| High | [N] | [slugs] |
-| Medium | [N] | [count only — expand with `--risk=medium`] |
-| Low | [N] | [count only] |
+| Kritisch | [N] | [Bezeichnungen] |
+| Hoch | [N] | [Bezeichnungen] |
+| Mittel | [N] | [nur Anzahl — mit `--risiko=mittel` ausklappen] |
+| Niedrig | [N] | [nur Anzahl] |
 
-## Upcoming deadlines
+## Bevorstehende Fristen
 
-| Within | Matters |
+| Zeitraum | Mandate |
 |---|---|
-| 14 days | [slug — deadline — brief] |
-| 15–30 days | [...] |
-| 31–60 days | [...] |
+| 14 Tage | [Bezeichnung — Frist — Kurzbeschreibung] |
+| 15–30 Tage | [...] |
+| 31–60 Tage | [...] |
 
-*Overdue `next_deadline` flagged separately below.*
+*Überfällige Fristen werden gesondert im Auffälligkeitsabschnitt markiert.*
 
-## Materiality
+## Wesentlichkeit
 
-| Category | Count | Total exposure (midpoint) |
+| Kategorie | Anzahl | Gesamt-Exposure (Mittelwert) |
 |---|---|---|
-| Reserved | [N] | [$X] |
-| Disclosed | [N] | [$X] |
-| Monitored | [N] | — |
-| None | [N] | — |
+| Rückgestellt | [N] | [EUR X] |
+| Offengelegt | [N] | [EUR X] |
+| Beobachtet | [N] | — |
+| Keine | [N] | — |
 
-## By stage
+## Nach Verfahrensstadium
 
-[table: pleadings / discovery / dispositive motions / trial prep / settlement / appeal]
-
----
-
-## ⚠️ Anomalies & flags
-
-- **Overdue deadlines:** [list slugs where next_deadline has passed]
-- **Stale (>30d no update):** [list]
-- **Conflicts unresolved:** [list slugs with `conflicts.status in [pending, not-run]`]
-- **Conflicts bypassed (override active):** [list slugs where `conflicts.override.by` is populated — permanent flag until manually cleared]
-- **High/critical risk without outside counsel:** [list]
-- **Reserved without last_updated in >60d:** [list] — reserve recalibration likely overdue
-- **Hold not issued on active litigation:** [list]
-- **Missing fields:** [slug → field]
+[Tabelle: Klageerhebung / Beweisaufnahme / mündliche Verhandlung / Rechtsmittel / Vergleich / vollständige Erledigung]
 
 ---
 
-## Closing advice
+## Auffälligkeiten
 
-[One or two sentences on what to look at first, if anything stands out. Not boilerplate — only if something truly stands out.]
+- **Überfällige Fristen:** [Mandate mit vergangener `naechste_frist`]
+- **Veraltet (>30 Tage kein Update):** [Liste]
+- **Interessenkonfliktprüfung offen:** [Mandate mit `konfliktstatus: ausstehend` oder `nicht-durchgeführt`]
+- **Interessenkonflikt überbrückt (Override aktiv):** [Mandate mit aktivem Override — dauerhaft markiert bis manuell gelöscht]
+- **Hohes/kritisches Risiko ohne externe Bevollmächtigte:** [Liste]
+- **Rückstellung ohne Update seit >60 Tagen:** [Liste — Neubewertung der Rückstellung wahrscheinlich überfällig]
+- **Keine Beweissicherungsanordnung bei laufendem Prozess:** [Liste]
+- **Fehlende Pflichtfelder:** [Bezeichnung → Feld]
+
+---
+
+## Handlungsempfehlung
+
+[Ein bis zwei Sätze — was zuerst anschauen, falls etwas wirklich heraussticht. Kein Boilerplate — nur wenn etwas tatsächlich auffällig ist.]
 ```
 
-## Anomaly rules
+## Beispiel
 
-These are the checks that make the skill useful rather than decorative:
+**Sachverhalt:** Portfolio mit 8 aktiven Prozessmandaten. Zwei Mandate haben Fristen in den nächsten 14 Tagen. Ein Mandat wurde seit 45 Tagen nicht aktualisiert. Ein Mandat ist mit kritischem Risiko ohne externe Bevollmächtigte.
 
-1. **Overdue deadline:** `next_deadline < today` and `status != closed`
-2. **Stale:** `last_updated < today - 30d` and `status != closed`
-3. **Conflicts unresolved:** `conflicts.status in [pending, not-run]` and `status != closed`
-3b. **Conflicts override active:** `conflicts.override.by != null` (never auto-clears)
-4. **High-risk uncovered:** `risk in [high, critical]` and `outside_counsel.firm == null`
-5. **Stale reserve:** `materiality == reserved` and `last_updated < today - 60d`
-6. **Hold gap:** `status in [threatened, active, discovery, trial, appeal]` and `legal_hold.issued == false` — preservation duty attaches at reasonable anticipation, so `threatened` matters are in scope.
-7. **Missing fields:** any required field null — `risk`, `materiality`, `status`, `opened`, `conflicts.status`
+**Auffälligkeiten-Ausgabe:**
 
-## Close with the next-steps decision tree
+```
+- Überfällige Fristen: keine
+- Veraltet (>30 Tage): bauer-ag-revision-2024 (45 Tage)
+- Kritisches Risiko ohne externe Bevollmächtigte: mueller-gmbh-strafverfolgung-2025
+  → Empfehlung: unverzüglich externe Strafverteidigung mandatieren
+```
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+## Auffälligkeitsregeln
 
-If the portfolio has more than ~10 matters, or any time the user asks: offer the dashboard (see CLAUDE.md `## Outputs → Dashboard offer for data-heavy outputs`). Shape the offer for this output — counts by risk tier, a timeline of upcoming deadlines, and a sortable matter ledger with status, conflicts check, and last-touched date.
+1. **Überfällige Frist:** `naechste_frist < heute` und `status != geschlossen`
+2. **Veraltet:** `zuletzt_aktualisiert < heute - 30 Tage` und `status != geschlossen`
+3. **Interessenkonflikt offen:** `konfliktstatus in [ausstehend, nicht-durchgeführt]` und `status != geschlossen`
+4. **Override aktiv:** `konflikt_override.durch != null` (löscht sich nicht automatisch)
+5. **Hohes Risiko ohne Bevollmächtigte:** `risiko in [hoch, kritisch]` und `externe_bevollmaechtigte.sozietaet == null`
+6. **Veraltete Rückstellung:** `wesentlichkeit == rückgestellt` und `zuletzt_aktualisiert < heute - 60 Tage`
+7. **Fehlende Beweissicherung:** `status in [angedroht, aktiv, beweisaufnahme, verhandlung, rechtsmittel]` und `beweissicherung.angeordnet == false` — Sicherungspflicht setzt bei vernünftiger Erwartung eines Verfahrens ein, also auch bei angedrohten Klagen (Risikovorsatz)
+8. **Fehlende Pflichtfelder:** beliebiges Pflichtfeld `null` — `risiko`, `wesentlichkeit`, `status`, `eroeffnet`, `konfliktstatus`
 
-## What this skill does not do
+## Risiken und typische Fehler
 
-- Make decisions. It surfaces what needs attention; the user decides priority.
-- Pretend precision it doesn't have. Exposure midpoints are rough and should be labeled so.
-- Replace a real MMS. This is a working-memory rollup, not a system of record.
+- **Scheingenaue Exposure-Summen:** Exposure-Mittelwerte sind grob und sollten als solche gekennzeichnet sein.
+- **Kein Ersatz für ein Aktenverwaltungssystem (MACS/Kanzleisoftware):** Dies ist eine Arbeitsspeicher-Übersicht, kein Aktensystem.
+- **Stille Entscheidungen:** Der Skill stellt Fragen, trifft keine Prioritätsentscheidungen für den Nutzer.
+- **Risikoklassifizierung:** Die Risikostufen werden aus dem Protokoll gelesen — eine schlechte Datenpflege führt zu einer schlechten Übersicht.
+
+## Quellenpflicht
+
+- Gesetzestexte: §§ 43a BRAO; § 11 BORA; §§ 214 ff., 516, 520, 548, 569 ZPO; § 317 StPO; § 74 VwGO; §§ 249, 285 HGB
+- Rechtsprechung: BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655; BGH, Urt. v. 26.05.2011 – IX ZR 160/10, NJW 2011, 2513
+- Kommentare: Zöller/Greger, ZPO, 35. Aufl. 2024, § 233; BeckOK HGB/Förschle, 60. Ed. 2023, § 249
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

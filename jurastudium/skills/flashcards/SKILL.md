@@ -1,158 +1,176 @@
 ---
 name: flashcards
 description: >
-  Generate or drill flashcards for black-letter memorization — Leitner-style
-  buckets, per-subject markdown storage, drill mode with self-assessment. Use
-  when the user says "drill flashcards", "make flashcards from", "quiz me on
-  cards", or wants to memorize rules.
-argument-hint: "[subject] [--generate | --drill | --review | --stats | --session <n>]"
+  Erstellt oder übt Karteikarten für die Gedächtnisleistung im Jurastudium — Leitner-System,
+  fachspezifische Definitionen (§-genaue Formulierungen), Drill-Modus mit Selbsteinschätzung.
+  Lädt, wenn der Nutzer „Karteikarten erstellen", „Definition üben", „Wiederholung starten"
+  oder „Anki-Karten für [Rechtsgebiet]" sagt.
+language: de
+triggers:
+  - "Karteikarten erstellen"
+  - "Definition üben"
+  - "Karteikarten Strafrecht"
+  - "Definitionen Zivilrecht"
+  - "Wiederholung starten"
+  - "Anki Jura"
+  - "Drill-Modus"
+  - "Lernkartei"
+  - "Definitionen wiederholen"
 ---
 
-# /flashcards
+# Karteikarten-Drill
 
-1. Load `~/.claude/plugins/config/claude-for-legal/law-student/CLAUDE.md` → current classes, weak subjects, outline locations.
-2. Apply the framework below.
-3. Route by flag:
-   - `--generate`: build cards from source (outline path, notes, casebook) per card-writing rules. Write to `~/.claude/plugins/config/claude-for-legal/law-student/flashcards/[subject]/cards.md`.
-   - `--drill` (default): prioritize due cards + new; show Q, wait for answer, show A, take self-assessment, update buckets + next review.
-   - `--review`: browse deck by bucket.
-   - `--stats`: progress snapshot; flag stuck cards for verbal drill.
-   - `--session <n>`: focused N-card session, prioritized by prior misses + due cards; appends results to `study-plan.yaml` → `session_history`.
-4. Apply confidence discipline: flag every card generated from knowledge-without-source with `[VERIFY]`.
+## Zweck
 
----
+Definitionen, Tatbestandsmerkmale und Normstrukturen für das Staatsexamen müssen exakt und abrufbar sein — nicht „ungefähr bekannt". Diese Skill erzeugt Karteikarten aus eigenen Materialien (Skripten, Lernblättern, Definitionen-Sammlungen) oder aus eigenen Notizen, übt sie im Leitner-System und zeigt, welche Wissenslücken bestehen.
 
-## Real-matter check
+Nicht diese Skill: Anki selbst ersetzen. Wer Anki bereits nutzt, sollte es behalten. Diese Skill ist für den Direkteinstieg im Chat — ohne Programmwechsel.
 
-If the question the student is asking sounds like it's about a REAL situation — their lease, their parking ticket, their family's business, their friend's arrest, a real dollar amount, a real deadline, a real party name — stop.
+Modi: `--erstellen` | `--üben` (Standard) | `--durchsehen` | `--statistik` | `--einheit <n>`
 
-> "This sounds like a real situation, not a hypothetical. I can't give you legal advice, and you can't give it either — you're not a lawyer yet. If this is real, [the person] needs an actual lawyer: legal aid, your school's clinic, a lawyer referral service (your jurisdiction's bar association, law society, or legal aid body), or (if there's money) a private attorney. I'm happy to help you understand the general legal concepts involved, but that's study, not advice."
+## Eingaben
 
-Watch for: real names, real addresses, real dates, specific dollar amounts, "my landlord/boss/parent/friend," "I got a ticket/letter/notice," deadlines measured in days. Any one of these is a trigger.
+- **Rechtsgebiet oder Thema** (z. B. „BGB AT Willenserklärung", „§ 242 StGB", „Allgemeines Verwaltungsrecht Ermessen")
+- **Quelle** (Skript, Lernblatt, eigene Notizen — optional, aber für genaue Karten erforderlich)
+- **Kartenanzahl** (Standard: 10–20 pro Einheit)
+- **Prüfungsziel** (Erstes Staatsexamen, Zweites Staatsexamen, Klausur, Hausarbeit)
 
-## Purpose
+## Rechtlicher Rahmen
 
-Outlines are for synthesis; flashcards are for memorization. The bar exam and most law school exams reward fast rule recall. This skill generates cards from your outline (or notes or casebook excerpts), drills them with light spacing, and tracks what's stuck and what hasn't.
+Die Karteikarten folgen der kanonischen Definitionsliteratur des deutschen Rechts. Definitionen ohne zuverlässige Quellenangabe werden mit `[PRÜFEN]` markiert.
 
-**Not a full SRS system.** Simple Leitner-style buckets. Good enough to study, light enough to maintain. If you want Anki, use Anki; this is for when you're in chat and want a quick drill.
+**Maßgebliche Literatur und Rechtsprechung:**
 
-## Confidence discipline
+- Larenz/Wolf, BGB Allgemeiner Teil, 9. Aufl. 2004 — Grundlagendefinitionen BGB AT
+- Medicus/Lorenz, Schuldrecht I Allgemeiner Teil, 22. Aufl. 2021 — Schuldrecht
+- Roxin/Greco, Strafrecht Allgemeiner Teil, Bd. I, 5. Aufl. 2020 — StGB AT
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020 — VerwR
+- Brox/Walker, Allgemeines Schuldrecht, 46. Aufl. 2022
+- Wessels/Beulke/Satzger, Strafrecht AT, 53. Aufl. 2023
+- Palandt/Grüneberg, BGB, 83. Aufl. 2024, maßgeblich für Kurzformeln
 
-Same rule as the other content-generating skills:
+**Leitentscheidungen (Beispiele für Kartenkontexte):**
 
-- If generating cards from a source you provide (outline, notes, casebook excerpt), the card's Q and A come from that source. Confident.
-- If generating cards from my knowledge without a source, I flag every card that states a rule I'm not fully confident on with `[VERIFY: rule — confirm against source]`. You should check before committing to the card as a learning target.
-- If I don't know an area well, I generate fewer cards rather than inventing. Better to have 8 good cards than 20 where 5 are wrong.
+- BGH, Urt. v. 07.06.1984 – IX ZR 66/83, BGHZ 91, 324 — Schweigen als Willenserklärung
+- BGH, Urt. v. 08.03.2005 – XI ZR 170/04, NJW 2005, 1579 Rn. 14 — Anfechtung § 119 BGB
+- BGH, Urt. v. 26.11.2015 – I ZR 174/14, NJW 2016, 1575 — Bestimmtheitsgrundsatz
+- BGH BGHZ 213, 374 Rn. 26 ff. — Vorsatz und dolus eventualis im Zivilrecht
 
-## Load context
+**Kommentare:**
 
-- `~/.claude/plugins/config/claude-for-legal/law-student/CLAUDE.md` → current classes, weak subjects, existing outlines
-- `~/.claude/plugins/config/claude-for-legal/law-student/flashcards/[subject]/cards.md` if it exists (incremental build)
-- User-provided source (outline path, notes, casebook excerpt) if given
+- Palandt/Ellenberger, BGB, 83. Aufl. 2024, § 119 Rn. 4 ff.
+- MüKoBGB/Armbrüster, 9. Aufl. 2021, § 123 Rn. 12
+- BeckOK BGB/Wendtland, 70. Ed. (Stand 01.08.2024), § 133 Rn. 5
 
-## Modes
+## Ablauf
 
-Flag: `--generate | --drill | --review | --stats | --session <n>` (default: prompt)
+### Schritt 1: Modus bestimmen
 
-### `--session <n>` — focused N-card session
+- `--erstellen`: Karten aus bereitgestellter Quelle generieren
+- `--üben` (Standard): Fällige Karten + neue Karten üben; Frage zeigen → antworten → Antwort zeigen → Selbsteinschätzung → Bucket aktualisieren
+- `--durchsehen`: Gesamte Kartei nach Bucket anzeigen
+- `--statistik`: Fortschritt je Rechtsgebiet; hängen gebliebene Karten für mündlichen Drill markieren
+- `--einheit <n>`: Fokussierte Einheit mit n Karten, priorisiert nach früheren Fehlern
 
-For when the student says "let's do 5 cards on Contracts" or runs `/law-student:session Contracts 5 --flashcards`.
+### Schritt 2: Kartenerstellung (`--erstellen`)
 
-- Load `~/.claude/plugins/config/claude-for-legal/law-student/study-plan.yaml` if it exists and read `session_history` for this subject.
-- Prioritize: cards previously marked wrong > due cards > new cards.
-- Run N cards one at a time per the `--drill` flow.
-- At session end, append results to `study-plan.yaml` → `session_history`:
-
-```yaml
-session_history:
-  - date: 2026-05-08
-    subject: Contracts
-    type: flashcards
-    n_cards: 5
-    right: 3
-    partial: 1
-    wrong: 1
-    stuck_topics: [parol-evidence-rule]
-```
-
-- If no `study-plan.yaml`, write to `~/.claude/plugins/config/claude-for-legal/law-student/session-history.yaml` instead.
-
-### `--generate` — create cards
-
-**Inputs:**
-- Subject (class name or topic)
-- Source (outline path, notes, or "use my existing outline from ~/.claude/plugins/config/claude-for-legal/law-student/CLAUDE.md")
-- Optional: card count target (default 10-20 per session)
-
-**Card structure:**
+**Kartenformat:**
 
 ```markdown
-### Card [N]
-**Q:** [question — one concept, one card]
-**A:** [answer — the rule, one or two sentences]
-**Source:** [outline section, casebook page, class note date]
-**Bucket:** new
-**Last reviewed:** —
-**Next review:** [today's date]
-**Notes:** [optional — distinctions, exceptions, traps]
+### Karte [N]
+**F:** [Frage — ein Begriff, ein Tatbestandsmerkmal]
+**A:** [Definition oder Regel — ein bis zwei Sätze, exakte Formulierung]
+**Norm:** [§ / Art. — z. B. § 119 BGB]
+**Quelle:** [Skript-Seite, Literatur, Urteil]
+**Bucket:** neu
+**Zuletzt geübt:** —
+**Nächste Wiederholung:** [heutiges Datum]
+**Hinweise:** [Abgrenzungen, Ausnahmen, Klausurfallen]
 ```
 
-**Card-writing rules:**
-1. **One concept per card.** "Elements of negligence" becomes 4 cards, not 1.
-2. **Front is a question, not a topic.** "Negligence duty" bad. "What are the four elements of negligence?" good.
-3. **Back is a rule, not a paragraph.** If the answer needs a paragraph, split into multiple cards.
-4. **Cite the source** so you can re-check during drill.
+**Kartenregeln:**
+1. Ein Begriff, ein Tatbestandsmerkmal = eine Karte. Nie mehrere Definitionen auf einer Karte.
+2. Die Forderseite stellt eine Frage, kein Stichwort. Nicht „Vorsatz" — sondern „Was ist Vorsatz im Sinne des § 15 StGB?"
+3. Die Rückseite enthält die Definition in Examensqualität — so wie sie in der Klausur gefordert wird.
+4. Paragraphenangabe immer mit §-Zeichen: `§ 242 StGB`, `§ 812 Abs. 1 S. 1 Alt. 1 BGB`.
+5. Karten aus eigenen Quellen sind zuverlässig. Karten aus meinem Wissen ohne Quelle erhalten `[PRÜFEN: Definition bestätigen]`.
 
-**Citation check.** When cards are generated from my knowledge rather than a source you pasted, the rule and any case/statute cited on the back were generated by an AI model and have not been verified. Before you memorize a card, confirm it against your outline, casebook, or a research tool (Westlaw, Fastcase, CourtListener). A wrong card drilled to mastery is worse than no card.
+**Beispiel-Karte:**
 
-### `--drill` — study session
+```
+F: Was ist Beleidigung im Sinne des § 185 StGB?
+A: Beleidigung ist die Kundgabe der Miss- oder Nichtachtung gegenüber einer bestimmten Person
+   durch Erklärung oder tätliches Verhalten.
+Norm: § 185 StGB
+Quelle: Wessels/Hettinger/Engländer, Strafrecht BT 1, 46. Aufl. 2023, Rn. 401
+```
 
-**Prioritization:**
-1. Cards where `next_review <= today` AND bucket != mastered
-2. New cards not yet attempted
-3. If no cards due and no new cards: ask if user wants review of mastered cards (for decay prevention)
+### Schritt 3: Drill-Modus (`--üben`)
 
-**Drill flow per card:**
-1. Show Q. Wait for answer.
-2. User answers (or types "skip" / "don't know")
-3. Show A.
-4. User self-assesses: `right` / `partial` / `wrong` / `don't know`
-5. Update bucket + next review per the table below:
+**Priorisierung:**
+1. Karten mit `nächste_wiederholung <= heute` und Bucket ≠ gekonnt
+2. Neue, noch nicht versuchte Karten
+3. Kein Fälliges mehr: Fragen, ob gekonnte Karten zur Verfallsprävention wiederholt werden sollen
 
-| Self-assessment | Bucket change | Next review |
+**Drill-Ablauf je Karte:**
+1. Frage zeigen. Auf Antwort warten.
+2. Nutzer antwortet (oder: „weiß nicht" / „überspringen")
+3. Antwort und Norm zeigen
+4. Selbsteinschätzung: `gewusst` / `teilweise` / `nicht gewusst` / `weiß nicht`
+5. Bucket und Wiederholungstermin aktualisieren:
+
+| Einschätzung | Bucket | Nächste Wiederholung |
 |---|---|---|
-| right | up one (new → learning → review → mastered) | +1d new, +3d learning, +7d review, +21d mastered |
-| partial | same bucket | +1d |
-| wrong | down one (review → learning; learning → new; new stays new) | today +4h |
-| don't know | down one | today +4h |
+| gewusst | aufsteigen (neu → lernend → überprüfend → gekonnt) | +1 Tag neu, +3 lernend, +7 überprüfend, +21 gekonnt |
+| teilweise | gleich | +1 Tag |
+| nicht gewusst | absteigen | heute +4 Stunden |
+| weiß nicht | absteigen | heute +4 Stunden |
 
-### `--review` — browse deck
+## Ausgabeformat
 
-Show all cards in a subject. Grouped by bucket. Useful for scanning what's in the deck and manually adjusting card content.
+- Karten im Markdown-Format, ein Block je Karte
+- Statistik als Tabelle: Rechtsgebiet / Gesamt / Bucket-Verteilung / Heute fällig
+- Sitzungsbericht am Ende einer `--einheit`:
 
-### `--stats` — progress snapshot
-
-Per subject: total cards, bucket distribution, due today, reviewed this week. Highlight any cards that have bounced down to `new` more than twice — those are the stuck concepts worth drilling verbally via `/law-student:socratic-drill`.
-
-## Integration with other skills
-
-- **outline-builder:** after building or extending an outline, offer to generate flashcards from the new material
-- **socratic-drill:** if a card has been wrong 2+ times, route it to `/law-student:socratic-drill` for verbal working-through — flashcards aren't enough for concepts you don't actually understand
-- **bar-prep-questions:** bar prep subjects with poor flashcard stats weight higher in MBE drilling
-
-## Storage
-
-```
-flashcards/
-└── [subject]/
-    └── cards.md
+```yaml
+sitzungs_verlauf:
+  - datum: 2026-05-08
+    rechtsgebiet: Schuldrecht BT
+    typ: karteikarten
+    karten_anzahl: 10
+    gewusst: 7
+    teilweise: 2
+    nicht_gewusst: 1
+    problemthemen: [§ 823 Abs. 2 BGB Schutzgesetze]
 ```
 
-One file per subject. Cards are markdown. Bucket/review metadata is inline per card. Not optimal for very large decks (>500) but fine for typical law school deck sizes.
+## Beispiel
 
-## What this skill does not do
+**Einheit BGB AT — 5 Karten:**
 
-- **Replace Anki.** If you already have a flashcard habit, keep it. This is for when you're in chat and want to drill without switching apps.
-- **Invent cards to hit a count target.** If I can only generate 8 confident cards from your source, you get 8. Padding with `[VERIFY]`-heavy guesses is worse than a smaller deck.
-- **Enforce study discipline.** Missed review days compound; the skill just shows what's due. You decide whether to drill.
-- **Teach you the rule.** Cards are for drilling what you've already studied. If a card is consistently wrong, the problem is upstream — use `/law-student:socratic-drill` or re-read the source.
+> F: Wann liegt eine Willenserklärung vor?
+> A: Eine Willenserklärung ist eine private Willensäußerung, die unmittelbar auf die Herbeiführung einer Rechtsfolge gerichtet ist (Handlungswille, Erklärungsbewusstsein [str.], Geschäftswille).
+> Norm: §§ 116 ff. BGB; Palandt/Ellenberger, BGB, 83. Aufl. 2024, Vor § 116 Rn. 1.
+
+> F: Was ist der Unterschied zwischen Anfechtung nach § 119 und § 123 BGB?
+> A: § 119 BGB: Irrtum über Inhalt oder Erklärungsinhalt (ohne Verschulden des Anfechtungsgegners); § 123 BGB: arglistige Täuschung oder widerrechtliche Drohung (Verschulden des Täuschenden erforderlich). Ausschlussfrist: § 119 „unverzüglich", § 123 Abs. 1 i.V.m. § 124 BGB ein Jahr.
+> Norm: §§ 119, 123, 124 BGB.
+
+## Risiken und typische Fehler
+
+- **Ungenaue Definitionen lernen**: Eine Karte mit einer im Wesentlichen richtigen, aber examensuntauglichen Definition ist schlimmer als keine Karte. Definitionen aus Skripten sind oft schärfer als solche aus meinem Wissen — Skripte bevorzugen.
+- **Zu viel auf eine Karte**: Tatbestandsmerkmale sind einzeln zu üben, nicht als Block. Wer „Betrug § 263 StGB: alle Merkmale" auf eine Karte schreibt, hat sechs Karten in eine gepresst.
+- **Karte als Lernersatz**: Karteikarten sind Abruftraining für bereits Verstandenes. Eine Karte, die regelmäßig falsch beantwortet wird, zeigt ein Verständnisproblem — dann ist mündliches Durcharbeiten mit `socratic-drill` angezeigt.
+- **Wiederholungstermine ignorieren**: Das Leitner-System funktioniert nur, wenn die Abstände eingehalten werden. Ausgefallene Tage akkumulieren Rückstand.
+- **Keine Normangabe**: Jede Karte muss die einschlägige Norm nennen. Definitionen ohne Norm sind im Examen wertlos.
+
+## Quellenpflicht
+
+Jede Karte, die aus eigenen Unterlagen generiert wurde, trägt die Quellangabe dieser Unterlagen. Karten, die aus meinem Wissen ohne bereitgestellte Quelle generiert werden, erhalten `[PRÜFEN]` — vor dem Einlernen gegen Skript, Lehrbuch oder Kommentar abgleichen. Falsch eingeübte Definitionen schaden mehr als Lücken.
+
+**Kanonische Definitionen-Quellen:**
+- Skripten: Alpmann Schmidt, Hemmer/Wüst, Jura Intensiv, Kaiser-Skripten
+- Lehrbücher: s. Rechtlicher Rahmen
+- Kommentare: Palandt/Grüneberg, MüKoBGB, BeckOK BGB
+
+Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

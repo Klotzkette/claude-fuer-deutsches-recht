@@ -1,203 +1,216 @@
 ---
 name: research-start
 description: >
-  Research roadmap for a legal issue — statutes to check, case law areas to
-  investigate, regulatory frameworks, Westlaw search terms. Leads and
-  frameworks, NOT authoritative citations; students verify and develop
-  everything. Use when a student asks where to start researching, wants a
-  research roadmap for an issue, or needs gaps identified in existing research.
-argument-hint: "[legal issue]"
+  Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche,
+  Kommentarliteratur, Suchbegriffe für juris/beck-online/dejure. Hinweise und
+  Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren
+  eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche
+  anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in
+  bestehender Recherche identifizieren möchte.
+language: de
+triggers:
+  - "Recherche anfangen"
+  - "wo anfangen Rechtsfrage"
+  - "Recherchefahrplan"
+  - "juris Suche"
+  - "beck-online Suche"
+  - "Normen finden"
+  - "Rechtsprechung recherchieren"
+  - "Mietrecht recherchieren"
+  - "Verwaltungsrecht recherchieren"
+  - "Arbeitsrecht recherchieren"
 ---
 
-# /research-start
+# Recherchefahrplan: Orientierung, keine Recherche
 
-1. Load `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → jurisdiction, practice area.
-2. Use the workflow below.
-3. Frame the issue specifically. Build roadmap: statutory starting points (unverified), case law areas (not cases), secondary sources, search terms.
-4. If student has existing research uploaded: synthesize and identify gaps.
-5. Output with prominent "leads not authorities" header. Everything is a starting point the student verifies.
+## Zweck
 
-```
-/legal-clinic:research-start "habitability defense to nonpayment eviction in [State]"
-```
+Juristische Recherche ist ein Kernbestandteil der klinischen Ausbildung. Die Initialphase — die richtige Norm finden, den Rahmen verstehen, den Einstieg schaffen — ist jedoch oft die zeitintensivste und bildungsmäßig geringwertigste Phase. Studierende verbringen Stunden damit, den Startpunkt zu finden, bevor sie eigentlich forschen können.
 
----
+Diese Skill liefert den Startpunkt: Normen zum Nachschlagen, Rechtsprechungsbereiche zum Untersuchen, Suchbegriffe für juris, beck-online und dejure. **Nichts davon ist verifiziert. Nichts davon ist zitierfähig. Alles ist ein Hinweis, dem der Studierende nachgehen muss.**
 
-# Research Start: Roadmap, Not Research
+**Dies ist eine pädagogische Absicherung, keine bloße Zeitersparnis.** Studierende lernen weiterhin zu recherchieren — sie beginnen nur von einem besseren Ausgangspunkt.
 
-## Purpose
+## Eingaben
 
-Legal research is essential to clinical education. But the initial phase — figuring out *what* to research, finding the right statute, understanding the framework — is often the most time-consuming and least educational part. Students spend hours finding the starting point before they can do the actual research.
+- **Rechtsfrage** — so präzise wie möglich formuliert; nicht „Mietrecht", sondern „Kann die Mieterin die Miete mindern, weil die Heizung seit November defekt ist und der Vermieter nicht reagiert hat?"
+- **Rechtsgebiet** (optional, falls nicht aus der Frage erkennbar)
+- **Bisherige Recherche** (optional) — bereits gefundene Normen oder Entscheidungen für Lückenanalyse
 
-This skill produces the starting point: statutes to check, case law areas to investigate, search terms for Westlaw and CourtListener. **None of it is verified. None of it is authoritative. All of it is a lead for the student to run down.**
+## Rechtlicher Rahmen
 
-**This is a pedagogical safeguard, not just an ethical one.** Students still learn to research. They just start from a better place.
+### Primärquellen-Hierarchie im deutschen Recht
 
-## Load context
+- **Bundesrecht** geht Landesrecht vor (Art. 31 GG).
+- **EU-Recht** hat Vorrang vor nationalem Recht; bei europarechtlichem Bezug (z. B. Verbraucherrecht, Datenschutz, Wettbewerbsrecht) immer auch EU-Rechtsakte und EuGH-Rspr. prüfen.
+- **Gesetzliche Grundlage → Ausführungsverordnung → Verwaltungsvorschrift** — Hierarchie im Verwaltungsrecht.
+- Für studentische Beratungsstellen besonders relevant: **BGB, ZPO, VwVfG, VwGO, AGG, KSchG, BerHG, RDG**.
 
-`~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → jurisdiction (state), practice areas.
+### Leitentscheidungen zur Recherchemethodik (exemplarisch)
 
-## Workflow
+- BGH, Beschl. v. 18.09.2018 – II ZR 152/17, NJW-RR 2018, 1266 Rn. 5 — Aktualitätspflicht bei Rechtsanwendung; veraltete Normen oder überschriebene Rspr. begründen Haftung.
+- BGH, Urt. v. 08.05.2012 – VI ZR 217/08, NJW 2012, 2187 Rn. 12 — Pflicht zur vollständigen Rechtsrecherche; Vernachlässigung höchstrichterlicher Rspr. als Pflichtverstoß.
+- BVerfG, Beschl. v. 19.12.2012 – 1 BvR 3006/11, NJW 2013, 523 — Pflicht zur Berücksichtigung verfassungskonformer Auslegung; nur bei gründlicher Normenrecherche erkennbar.
+- BGH, Urt. v. 13.09.2018 – IX ZR 294/17, NJW 2018, 3697 Rn. 20 — Anwaltliche Sorgfaltspflicht bei Rechtsrecherche; sinngemäß auf studentische Beratungsstellen unter Aufsicht übertragbar.
 
-### Step 0: Seed documents first
+### Kommentarliteratur zur Orientierung
 
-**Before building the roadmap, read the clinic's own seed documents.** The supervising attorney uploaded them at cold-start (handbook, filing guides, local court rules, intake forms, example case files, prior memos) — they are pre-vetted, jurisdiction-specific, and will beat any Westlaw query on the first 20 minutes of a student's research.
+- Larenz/Wolf, Allgemeiner Teil des Bürgerlichen Rechts, 9. Aufl. 2004 — klassisches Lehrbuch zur Gutachtenmethode und Normanwendung.
+- Rüthers/Fischer/Birk, Rechtstheorie, 12. Aufl. 2022 — Methodik der Normauslegung; Auslegungskanon.
+- BeckOK BGB (aktuelle Ed.) — Einstiegspunkt für BGB-Normen; immer auf aktuellen Bearbeitungsstand achten.
+- Sodan/Ziekow, VwGO, 5. Aufl. 2023, Einleitung — Systematik des Verwaltungsprozessrechts; Einstieg für verwaltungsrechtliche Fragen.
 
-1. Read `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → `## Seed documents`. Identify any item whose purpose or filename matches the research area (e.g., "Alameda UD filing guide" for a UD habitability question; a redacted sample case file in the same practice area; a prior memo on the same issue).
-2. For each match, surface it as a **Seed documents to read first** block at the top of the roadmap output. Name the file, say why it matters for this specific question, and say what it likely covers vs. where outside research will still be needed.
-3. If no seed documents match the issue, say so plainly ("No clinic seed documents match this issue — proceeding straight to primary sources"). Don't fabricate a match.
-4. If the clinic has the `LIMITED DATA` flag set in `## Seed documents`, add a one-line note: "Clinic has fewer than 10 seed docs; your professor's precedent bank is thin — lean harder on primary sources and flag what's missing for your supervisor."
+## Ablauf
 
-The roadmap still covers statutes, case law areas, secondary sources, and search terms — seed docs are the first lead, not a replacement for the rest. But surface them above everything else so the student starts where their supervisor's precedent starts.
+### Schritt 0: Klinik-Vorlagendokumente zuerst lesen
 
-### Step 1: Frame the issue
+Bevor der Fahrplan aufgebaut wird: Die eigenen Vorlagendokumente der Klinik lesen. Der Supervisor hat beim Kalt-Start Handbücher, Einreichungsanleitungen, Musterakten und Altgutachten hinterlegt — sie sind fachlich geprüft, spezifisch für die Klinik und schlagen jede Datenbanksuche in den ersten zwanzig Minuten.
 
-What's the research question? Be specific. Not "eviction defenses" — "habitability defense to nonpayment eviction in [State], specifically whether a broken heater qualifies and whether the tenant had to give written notice."
+1. Klinik-Konfiguration (CLAUDE.md) → `## Vorlagendokumente` lesen. Gibt es Dokumente, deren Zweck oder Dateiname zur Rechtsfrage passt (z. B. „Mietrecht-Einreichungsleitfaden" für eine Mietminderungsfrage)?
+2. Für jeden Treffer: als **Vorlagendokumente zuerst lesen**-Block an den Anfang des Fahrplans stellen. Dokumentnamen angeben, warum relevant, was es abdeckt und wo außerhalb davon noch recherchiert werden muss.
+3. Falls keine Vorlagendokumente zur Frage passen: ausdrücklich benennen („Keine Klinik-Vorlagendokumente zu dieser Frage — direkt zu den Primärquellen").
 
-If the question is too broad, narrow it with the student: "That's three research questions. Let's take them one at a time. Which first?"
+### Schritt 1: Frage präzisieren
 
-### Step 2: Build the roadmap
+Was ist die Rechtsfrage? Präzise formulieren. Nicht „Kündigung" — sondern: „Ist die fristlose Kündigung des Arbeitsvertrags vom 15.04.2026 rechtswirksam, obwohl dem Arbeitgeber keine Abmahnung vorausgegangen ist?"
 
-**Statutory starting points:**
-List statutes *likely* relevant. State explicitly these are likely, not confirmed.
+Bei zu breiter Frage mit dem Studierenden eingrenzen: „Das sind drei Rechtsfragen. Welche zuerst?"
 
-> **Likely relevant statutes** (UNVERIFIED — confirm currency and applicability):
-> - [State] Landlord-Tenant Act, likely at [State Code Title X] — look for "warranty of habitability" or "repair and deduct"
-> - Local housing code for [City/County] — may define specific conditions (heat, water) as required
-> - `[VERIFY each citation is current and correct — codes get renumbered]`
+### Schritt 2: Fahrplan aufbauen
 
-**Case law areas to investigate:**
-Not cases — *areas*. The student finds the cases.
+**Gesetzliche Ausgangspunkte:**
+Wahrscheinlich einschlägige Normen nennen. Ausdrücklich als ungeprüft kennzeichnen.
 
-> **Case law areas:**
-> - [State] Supreme Court or appellate decisions on implied warranty of habitability — look for the leading case establishing the doctrine
-> - Cases on what conditions qualify — heat specifically, if any
-> - Cases on procedural prerequisites — did tenant have to give notice? withhold rent? escrow?
-> - Cases on the remedy — offset against rent owed, or a separate damages claim?
+> **Wahrscheinlich einschlägig** (UNGEPRÜFT — Aktualität und Einschlägigkeit verifizieren):
+> - § 626 BGB — Außerordentliche Kündigung aus wichtigem Grund; Zweiwochenfrist (§ 626 Abs. 2 BGB)
+> - § 314 BGB — Außerordentliche Kündigung von Dauerschuldverhältnissen
+> - §§ 1, 2 KSchG — Soziale Rechtfertigung; Anwendbarkeit prüfen (Betriebsgröße, Beschäftigungsdauer)
+> - `[PRÜFEN: Paragraphennummern gegen aktuelle Fassung verifizieren — Gesetze werden umnummeriert]`
 
-**Regulatory / administrative sources:**
-If applicable (immigration especially).
+**Rechtsprechungsbereiche:**
+Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studierende selbst.
 
-> **Administrative sources:**
-> - [Agency] regulations at [CFR cite area]
-> - Agency guidance or policy manuals — often more current than regs
-> - For immigration: USCIS Policy Manual, BIA precedent decisions
+> **Rspr.-Bereiche:**
+> - BAG-Rspr. zu Abmahnungserfordernis vor fristloser Kündigung — Leitentscheidung des BAG suchen
+> - BAG-Rspr. zum „wichtigen Grund" i. S. d. § 626 BGB — Fallgruppen (Diebstahl, Arbeitsverweigerung, etc.)
+> - Rspr. zum Verhältnismäßigkeitsgrundsatz bei Kündigung ohne vorherige Abmahnung
+> - Rspr. zu den Anforderungen an die Anhörung des Betriebsrats (§ 102 BetrVG) — falls Betriebsrat vorhanden
 
-**Secondary sources to orient:**
-Where to get the framework before diving into primary.
+**Kommentare und Sekundärquellen:**
 
-> **Secondary sources (for framework, not to cite):**
-> - [State] practice guide on landlord-tenant (check clinic library)
-> - Relevant CLE materials
-> - Law review notes on the specific issue if it's contested
+> **Kommentare (zum Einstieg, nicht als Quelle zitieren):**
+> - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB — Außerordentliche Kündigung; Prüfungsschema
+> - BeckOK BGB/Henssler, 70. Ed. (Stand 01.08.2024), § 626 Rn. 1 ff. — Überblick und Rspr.-Nachweise
+> - Praxishandbuch Arbeitsrecht (beck-online) — Einstieg für typische Fallkonstellationen
 
-**Search terms:**
-For Westlaw, or whatever the clinic uses.
+**Suchbegriffe:**
 
-> **Search terms to try:**
-> - Westlaw: `"warranty of habitability" /s heat! & [State]`
-> - CourtListener: `implied warranty of habitability AND (heat OR heater) AND [State]`
-> - Refine based on what comes back — these are starting queries
+> **Suchbegriffe für juris / beck-online / dejure:**
+> - juris: `fristlose Kündigung Abmahnung Erfordernis Arbeitnehmer § 626`
+> - beck-online: `außerordentliche Kündigung ohne Abmahnung BAG`
+> - dejure.org: `§ 626 BGB Rechtsprechung — Abmahnungserfordernis`
+> - Ergebnisse verfeinern basierend auf den Treffern — diese sind Einstiegsabfragen
 
-### Step 3: Flag what's uncertain
+### Schritt 3: Unsicherheiten kennzeichnen
 
-If the skill is unsure whether a source is relevant or current:
+Wenn die Skill unsicher ist, ob eine Quelle einschlägig oder aktuell ist:
 
-> `[UNCERTAIN: whether [State] has a specific statute on this vs. common-law
-> doctrine only — the search will tell you]`
+> `[UNSICHER: ob § 314 BGB hier neben § 626 BGB anwendbar ist — die Rspr. wird es zeigen]`
 
-Uncertainty is stated, not hidden.
+Unsicherheit wird benannt, nicht verschwiegen.
 
-> **No silent supplement.** This skill produces leads, not authoritative citations — by design, students run the citations down themselves. But if a query to a configured research tool (Westlaw, CourtListener) returns few or no results for a specific rule or case, say so and stop. Do NOT manufacture citations from web search or model knowledge to fill a thin result set without asking. Say: "The search returned [N] results from [tool]. Coverage appears thin for [rule]. Options: (1) broaden the search query, (2) try a different research tool, (3) search the web — results will be tagged `[web search — verify]` and should be checked against a primary source before relying, or (4) stop here and flag the gap for your supervisor. Which would you like?" The supervising attorney decides whether to accept lower-confidence sources.
->
-> **Source attribution.** Tag every suggested citation with where it came from: `[Westlaw]`, `[CourtListener]`, `[Fastcase]`, or the MCP tool name for citations retrieved from a legal research connector; `[web search — verify]` for web-search citations; `[model knowledge — verify]` for citations recalled from training data; `[user provided]` for citations supplied by the supervising attorney or case file. Citations tagged `verify` carry higher fabrication risk and should be checked first. Never strip or collapse the tags — they tell the student which leads are raw research and which are model guesses to verify against a primary source.
+**Kein stilles Ergänzen:** Diese Skill liefert Hinweise, keine geprüften Quellen — das ist so gewollt. Falls eine Suchanfrage in einer konfigurierten Datenbank wenige oder keine Treffer ergibt, dies ausdrücklich sagen und aufhören. Lücken nicht durch Modellwissen oder Websuche ohne Rückfrage füllen. Stattdessen: „Die Suche ergab [N] Treffer in [Datenbank]. Die Abdeckung scheint dünn für [Frage/Norm]. Optionen: (1) Suchabfrage erweitern, (2) andere Datenbank probieren, (3) Websuche — Treffer werden als `[Websuche — verifizieren]` markiert und sind vor der Verwendung gegen Primärquellen zu prüfen, oder (4) Lücke dem Supervisor melden. Welche Option bevorzugen Sie?" Der Supervisor entscheidet über weniger verlässliche Quellen.
 
-### Step 4: Synthesize uploaded research (if any)
+### Schritt 4: Bestehende Recherche analysieren (wenn vorhanden)
 
-If the student has already done some research and uploads it: read it, identify what's covered and what's missing.
+Wenn der Studierende bereits Recherchematerial hochgeladen hat: lesen, was abgedeckt ist, was fehlt.
 
-> **From your research so far:**
-> - You have: [summary of what's covered]
-> - Gap: [what the roadmap above suggests that you haven't found yet]
-> - `[VERIFY: the case you cited — [name] — run through a citator (verify it is good law) it, it may have been distinguished or limited]`
+> **Aus Ihrer bisherigen Recherche:**
+> - Vorhanden: [Zusammenfassung des Abgedeckten]
+> - Lücke: [Was der Fahrplan oben nahelegt, aber noch nicht gefunden wurde]
+> - `[PRÜFEN: Die zitierte Entscheidung [Name] — per Datenbank-Zitieranalyse prüfen, ob sie nicht durch spätere Rspr. eingeschränkt wurde]`
 
-## Output
+## Ausgabeformat
 
 ```markdown
 ═══════════════════════════════════════════════════════════════════════
-  RESEARCH ROADMAP — LEADS, NOT AUTHORITIES
-  Nothing below is a verified citation. Every statute, every case area,
-  every search term is a starting point for YOUR research. You verify
-  currency, applicability, and accuracy. You find the actual cases.
-  If something below turns out to be wrong or outdated, that's expected —
-  this is a map of where to look, not a substitute for looking.
+  RECHERCHEFAHRPLAN — HINWEISE, KEINE QUELLEN
+  Nichts unten ist ein geprüfter Beleg. Jede Norm, jeder Rspr.-Bereich,
+  jeder Suchbegriff ist ein Startpunkt für IHRE Recherche. Sie verifizieren
+  Aktualität, Einschlägigkeit und Richtigkeit. Sie finden die tatsächlichen
+  Entscheidungen. Wenn etwas unten unzutreffend oder veraltet ist, liegt
+  das in der Natur des Instruments — es ist eine Karte, kein Ergebnis.
 ═══════════════════════════════════════════════════════════════════════
 
-# Research Roadmap: [Issue]
+# Recherchefahrplan: [Rechtsfrage]
 
-**Jurisdiction:** [State] | **Practice area:** [area]
+**Rechtsgebiet:** [Gebiet] | **Bearbeiter/-in:** [Studierender]
 
-## Seed documents to read first
+## Vorlagendokumente der Klinik (zuerst lesen)
 
-[Per Step 0. List any clinic seed docs that match the issue with a one-line
-"what this likely covers" note. If none matched: "No clinic seed documents
-match this issue — proceeding to primary sources."]
+[Per Schritt 0. Passende Klinikdokumente mit Erläuterung benennen.
+Falls keine passen: „Keine Klinik-Vorlagendokumente zu dieser Frage — direkt zu den Primärquellen."]
 
-## Statutory starting points (UNVERIFIED)
+## Gesetzliche Ausgangspunkte (UNGEPRÜFT)
 
-[list with VERIFY flags]
+[Liste mit PRÜFEN-Flags]
 
-## Case law areas to investigate
+## Rechtsprechungsbereiche
 
-[areas, not cases]
+[Bereiche, keine Entscheidungen]
 
-## Administrative / regulatory sources
+## Kommentare und Sekundärquellen (zum Orientieren, nicht als Quelle)
 
-[if applicable]
+[Liste]
 
-## Secondary sources (for framework, not citation)
+## Suchbegriffe
 
-[list]
+**juris:** [Abfragen]
+**beck-online:** [Abfragen]
+**dejure:** [Abfragen]
 
-## Search terms
+## Unsicherheitsmarkierungen
 
-**Westlaw:** [queries]
-
-## Uncertainty flags
-
-[Everywhere the roadmap is genuinely unsure]
+[Stellen, an denen der Fahrplan genuinely unsicher ist]
 
 ---
 
-## What to do with this
+## Nächste Schritte
 
-1. Start with a secondary source to get the framework
-2. Find and read the primary statutes — confirm the citations above are current
-3. Run the searches, find the leading cases
-4. run through a citator (verify it is good law) everything before relying on it
-5. Come back and run `/memo` to scaffold your analysis once you have the rule
+1. Mit einem Kommentar einsteigen, um den Rahmen zu verstehen
+2. Die gesetzlichen Normen suchen — verifizieren, ob die Angaben oben aktuell sind
+3. Suchbegriffe in den Datenbanken starten, Leitentscheidungen finden
+4. Jede Entscheidung per Zitieranalyse (juris: „Rechtsprechung zu diesem Urteil") auf Aktualität prüfen
+5. Zurückgehen und `/memo` nutzen, um die Analyse zu strukturieren, sobald die Normen feststehen
 
-## What this roadmap does NOT do
+## Was dieser Fahrplan nicht leistet
 
-- **It does not give you citations you can use.** Every cite above is a lead
-  to verify, not an authority to rely on.
-- **It does not do the research.** You do the research. This gets you to the
-  starting line faster.
-- **It does not replace Westlaw.** Those have the actual cases. This
-  tells you where to point them.
+- **Er liefert keine zitierfähigen Belege.** Jeder Hinweis oben ist zu verifizieren.
+- **Er ersetzt nicht die Recherche.** Sie recherchieren. Der Fahrplan bringt Sie schneller an den Startpunkt.
+- **Er deckt keine Spezialmaterie ab.** Für Nischenrechtsgebiete (z. B. spezifisches Landesrecht, Sondergerichtsbarkeit) ggf. Supervisor fragen.
 
 ---
-
-**Cite verification — required before use.** Citations above were generated by an AI model and have not been verified. Before relying on any case, statute, or rule — or including it in client work — run it through Westlaw, Fastcase, CourtListener, or your clinic's research platform for accuracy and current good-law status. Flag unverified citations to your supervisor.
 ```
 
-## What this skill does NOT do
+## Beispiel
 
-- **Provide authoritative citations.** Explicitly, by design. The student verifies every cite before using it.
-- **Replace legal research.** Accelerates the "where do I start" phase; the research itself is still the student's.
-- **Guarantee the roadmap is complete.** It's a starting set of leads. The research may reveal sources the roadmap missed — that's fine, that's research.
+**Szenario:** Studierende Hofer recherchiert für Mandantin Erdem: Kann sie die Miete mindern, weil die Heizung seit November defekt ist?
 
-## Close with the next-steps decision tree
+Fahrplan enthält:
+- Gesetzliche Ausgangspunkte: `§ 536 BGB (Mietminderung), § 536a BGB (Schadensersatz), § 536c BGB (Anzeigepflicht) [UNGEPRÜFT — verifizieren]`
+- Rspr.-Bereiche: „AG/LG München und Hamburg Rspr. zu Heizungsausfall als erheblicher Mangel; Minderungsquoten-Rspr.; Anzeigepflicht-Rspr."
+- Suchbegriffe: `juris: "§ 536 BGB Heizung Mietminderung erheblicher Mangel"`
+- Unsicherheit: `[UNSICHER: ob Frau Erdems mündliche Anzeige am 05.11.2025 die Formerfordernisse des § 536c BGB erfüllt — Rspr. prüfen]`
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+## Risiken und typische Fehler
 
+- **Fahrplan-Hinweise als fertige Belege behandeln:** Die häufigste Fehlerquelle. Normen und Rspr.-Bereiche müssen in den Datenbanken nachgeschlagen, auf Aktualität geprüft und korrekt zitiert werden.
+- **Nur eine Datenbank nutzen:** Verschiedene Datenbanken decken unterschiedliche Quellen ab. juris und beck-online ergänzen sich; dejure eignet sich für schnelle Normensuche.
+- **Keine Zitieranalyse:** Eine Entscheidung, die in einer neueren höchstrichterlichen Entscheidung eingeschränkt wurde, kann nicht mehr als Beleg verwendet werden. Zitieranalyse in juris (Rubrik „Rechtsprechung zu diesem Urteil") ist Pflicht.
+- **Lücke schweigend überbrücken:** Wenn eine Suchanfrage wenige Treffer ergibt, nicht durch Modellwissen ergänzen. Den Supervisor informieren und auf eine verlässlichere Quelle warten.
+
+## Quellenpflicht
+
+Jeder im Fahrplan vorgeschlagene Hinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Hinweise; `[Websuche — verifizieren]` für webbasierte Hinweise; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit „verifizieren" tragen höheres Fehlerrisiko und sind zuerst gegen Primärquellen zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

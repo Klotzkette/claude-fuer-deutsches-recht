@@ -1,361 +1,414 @@
 ---
 name: international-expansion
 description: >
-  Reference: implementation-planning framework for international hiring — EOR
-  vs. entity decision framing, cross-functional triggers for tax/finance/HR,
-  structured outside-counsel briefing requests, and a persistent gap tracker.
-  Loaded by /expansion-kickoff and /expansion-update; not invoked directly.
+  Referenz-Skill: Implementierungsplanungs-Framework für internationale
+  Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft,
+  abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter
+  Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker.
+  Wird von /expansion-kickoff und /expansion-update geladen; nicht direkt
+  aufzurufen.
+language: de
 user-invocable: false
+triggers:
+  - "internationale Einstellung"
+  - "Auslandsexpansion"
+  - "EOR vs Gesellschaft"
+  - "AÜG Ausland"
+  - "Scheinselbständigkeit international"
+  - "Betriebsstätte Ausland"
+  - "externe Arbeitsrechtler briefen"
 ---
 
-# International Expansion Skill
+# Internationale Expansion — Referenz-Skill (Arbeitsrecht)
 
-## Matter context
+## Zweck
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/employment-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/employment-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+Internationale Einstellungen werden bei wachsenden Unternehmen regelmäßig
+unstrukturiert behandelt, weil niemand das Gesamtbild überblickt. Legal kennt
+die arbeitsrechtlichen Fragen, aber nicht das Betriebsstättenrisiko. Finance
+kennt das Kostenmodell, aber nicht die Schwellenwerte für Arbeitnehmervertretungen.
+HR kennt die Gehaltsmarktdaten, aber nicht die Tag-1-Compliance-Anforderungen.
 
----
+Diese Skill ersetzt keine dieser Funktionen. Sie kartiert das Terrain, formuliert
+die richtigen Fragen für jeden Stakeholder, erstellt einen Briefing-Request
+für externe Arbeitsrechtler im Zielland und legt einen Tracker an, der das
+Projekt sitzungsübergreifend voranbringt.
 
-## Purpose
+Die Skill setzt voraus, dass die Expansionsentscheidung gefallen ist. Sie ist
+kein Rahmen für „sollen wir expandieren?".
 
-International hiring gets handled sloppily at scaleups because nobody owns
-the full picture. Legal knows the employment-law questions but not the PE
-risk questions. Finance knows the cost model but not the employee-representation
-triggers. HR knows the comp benchmarks but not the Day 1 compliance requirements.
+Diese Skill enthält kein länderspezifisches Arbeitsrecht. Die materiellen
+Regelungen ändern sich häufig und variieren nach Rolle, Headcount und Branche —
+jedes Zielland wird über einen Briefing-Request an externe Arbeitsrechtler geleitet,
+nicht über eine interne Referenztabelle.
 
-This skill doesn't replace any of those functions. It maps the terrain, drafts
-the right questions for each stakeholder, produces a briefing request that
-walks outside counsel through the country-specific issues, and creates a
-tracker that keeps the project moving across sessions.
+## Rechtlicher Rahmen
 
-This skill assumes expansion is decided. It is not a "should we expand?"
-framework.
+**Kernvorschriften:**
 
-This skill does not contain country-specific employment law. The substantive
-rules change frequently and vary by role, headcount, and industry — the skill
-routes every country through an outside-counsel briefing rather than relying
-on a stored reference table.
+- §§ 1–19 AÜG: Arbeitnehmerüberlassungsgesetz — Erlaubnispflicht, 18-Monats-Grenze
+  (§ 1 Abs. 1b AÜG), Equal-Pay (§ 8 AÜG); relevant wenn EOR als Struktur gewählt wird
+- § 7 SGB IV: Beschäftigungsverhältnis; Scheinselbständigkeit — bei Freelancer- oder
+  Contractor-Konstellationen zu prüfen
+- § 611a BGB: Arbeitnehmerbegriff; Abgrenzung zu selbständiger Tätigkeit
+- Art. 8 Rom I-VO (VO EG 593/2008): Arbeitsvertragsstatut — Rechtswahl darf nicht zum
+  Entzug zwingender Schutzvorschriften des Beschäftigungsstaats führen
+- Art. 45 AEUV, RL 96/71/EG (Entsenderichtlinie), RL 2018/957/EU: Arbeitnehmerfreizügigkeit,
+  Entsendung innerhalb der EU
+- DSGVO / § 26 BDSG: Beschäftigtendatenschutz; Datentransfer in Drittstaaten
+  (Art. 44 ff. DSGVO) bei Daten über EU-Arbeitnehmer an nicht-EU-Muttergesellschaft
 
-## Load context
+**Leitentscheidungen:**
 
-Read `~/.claude/plugins/config/claude-for-legal/employment-legal/CLAUDE.md` → jurisdictional footprint, escalation table, any existing
-expansion notes.
+- BAG, Urt. v. 20.09.2016 – 9 AZR 735/15, NZA 2017, 34 Rn. 14 ff.:
+  Arbeitnehmerbegriff bei grenzüberschreitenden Tätigkeiten; Indizien für
+  Weisungsgebundenheit — maßgeblich für Contractor- vs. Arbeitnehmerstatus
+- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289 Rn. 18 ff.:
+  Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach § 10 Abs. 1 AÜG
+  bei unerlaubter Arbeitnehmerüberlassung
+- BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R, NZA 2022, 1254:
+  Statusfeststellungsverfahren nach § 7a SGB IV; Gesamtbetrachtung aller
+  Beschäftigungsmerkmale; Indizgewicht einzelner Faktoren
 
-## Output header
+**Kommentarliteratur:**
 
-Prepend the work-product header from `~/.claude/plugins/config/claude-for-legal/employment-legal/CLAUDE.md` → `## Outputs` (it differs by user role — see `## Who's using this`).
+- Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Rn. 1 ff., § 8 Rn. 1 ff.:
+  Grundkonzeption des AÜG, Equal-Pay und Ausnahmen durch Tarifvertrag
+- Erfurter Kommentar/Wank, 24. Aufl. 2024, § 611a BGB Rn. 1 ff.:
+  Arbeitnehmerbegriff — zentrales Merkmal Weisungsgebundenheit; Scheinselbständigkeit
+- Rieble/Junker (Hrsg.), Münchener Handbuch zum Arbeitsrecht, Bd. 1,
+  5. Aufl. 2021, § 17 Rn. 1 ff.: Grenzüberschreitende Arbeitsverhältnisse;
+  Anknüpfung und Rechtswahl nach Art. 8 Rom I-VO
 
 ## Workflow
 
-### Step 1 — Information gathering
+### Schritt 1 — Informationserhebung
 
-Ask all of the following in a single block:
+Alle folgenden Fragen in einem einzigen Block stellen:
 
-> Before I build the expansion plan I need to understand the shape of this
-> expansion. Please answer what you can — gaps in the answers are themselves
-> useful data:
+> Zur Erstellung des Expansionsplans werden folgende Angaben benötigt.
+> Beantworte, was bekannt ist — Informationslücken sind selbst nützliche Daten:
 >
-> **The expansion**
-> - Which country?
-> - What roles are you hiring? (Job function matters — a sales rep closing
->   deals creates different legal exposure than an engineer writing code)
-> - How many hires are planned in the next 12 months?
-> - When do you need the first person to start?
+> **Die Expansion**
+> - Welches Land?
+> - Welche Rollen werden eingestellt? (Stellenprofil ist entscheidend —
+>   ein Vertriebsmitarbeiter mit Abschlussvollmacht erzeugt anderes
+>   Betriebsstättenrisiko als eine reine Entwicklerstelle)
+> - Wie viele Einstellungen im 12-Monats-Horizont?
+> - Wann soll die erste Person starten?
 >
-> **Current state**
-> - Do you already have a legal entity in this country?
-> - Have you used an EOR provider before? Are you already considering one?
-> - Has tax or finance been looped in yet?
-> - Do you have outside employment counsel in this country?
+> **Ausgangssituation**
+> - Besteht bereits eine rechtliche Einheit im Zielland?
+> - Wird ein EOR-Anbieter erwogen oder bereits genutzt?
+> - Sind Steuerberatung und Finance bereits eingebunden?
+> - Gibt es externe Arbeitsrechtler im Zielland?
 >
-> **Strategic context**
-> - Is this a long-term strategic commitment (building a real team) or
->   testing the market (one or two hires, see how it goes)?
-> - Who is the executive sponsor making the structure decision?
+> **Strategischer Kontext**
+> - Langfristiger Aufbau (echtes Team aufbauen) oder Markttest
+>   (ein bis zwei Einstellungen, dann bewerten)?
+> - Wer ist der Entscheidungsträger für die Strukturentscheidung?
 
-Wait for responses before proceeding.
+Auf Antworten warten, bevor fortgefahren wird.
 
-### Step 2 — EOR vs. entity framing
+### Schritt 2 — Entscheidungsrahmen: AÜG-Modell/EOR vs. eigene Gesellschaft
 
-Do not make this decision. Frame it with enough precision that the CFO and
-tax counsel can make it.
+Diese Entscheidung nicht treffen. Rahmen mit ausreichender Präzision aufstellen,
+damit CFO und Steuerberater sie treffen können.
 
-Work through the following factors against the intake answers and produce a
-structured framing document:
+Folgende Faktoren gegen die erhobenen Angaben prüfen und ein strukturiertes
+Rahmendokument erstellen:
 
-**The core trade-off:**
+**Grundsätzliche Abwägung:**
 
-| Factor | Points toward EOR | Points toward Entity |
+| Faktor | Spricht für EOR/AÜG-Modell | Spricht für eigene Gesellschaft |
 |---|---|---|
-| Headcount in 12 months | Fewer hires | More hires |
-| Timeline to first hire | Short runway | Longer runway available |
-| Strategic commitment | Testing the market | Long-term presence |
-| Cost sensitivity | EOR markup acceptable | Scale makes entity more efficient |
-| Control needs | Low — EOR employer handles local HR | High — want direct employer relationship |
-| IP sensitivity | Lower | Higher — entity ownership cleaner |
+| Headcount (12 Monate) | Weniger Einstellungen | Mehr Einstellungen |
+| Timeline bis zur ersten Einstellung | Kurze Vorlaufzeit | Längere Vorlaufzeit möglich |
+| Strategische Ausrichtung | Markttest | Langfristige Präsenz |
+| Kostensensitivität | EOR-Aufschlag akzeptabel | Skalierung macht Gesellschaft effizienter |
+| Kontrollbedarf | Gering — EOR übernimmt lokale HR | Hoch — direktes Arbeitgeberverhältnis gewünscht |
+| IP-Sensitivität | Geringer | Höher — Gesellschaftsstruktur klarer |
 
-Specific headcount break-even points, EOR markup ranges, setup costs, and
-timelines vary by country and provider — do not hardcode them. Route those
-questions to tax/finance and the EOR provider.
+Konkrete Break-even-Headcounts, EOR-Aufschläge, Gründungskosten und Timelines
+variieren je Land und Anbieter — nicht hardcoden. An Steuer/Finance und EOR-Anbieter
+leiten.
 
-**PE risk flag (route to tax counsel):**
-If roles include sales, business development, account management, or anyone
-with authority to negotiate or sign contracts on behalf of the company —
-flag this explicitly:
+**AÜG-Compliance-Hinweis (bei EOR-Konstellationen zwingend prüfen):**
+Wenn der EOR im Verhältnis zur deutschen Muttergesellschaft als Verleiher
+fungiert, kann die AÜG-Erlaubnispflicht (§ 1 AÜG) ausgelöst werden.
+18-Monats-Grenze (§ 1 Abs. 1b AÜG) und Equal-Pay-Gebot (§ 8 AÜG nach 9 Monaten)
+laufen auch bei EOR-Strukturen.
 
-> PE Risk: [Role type] may create a taxable permanent establishment in
-> [country] even before a legal entity exists. This is a tax question, not
-> an employment question. Tax counsel must assess before the first hire.
+**Betriebsstättenrisiko-Flag (an Steuerberatung leiten):**
+Falls Rollen Vertrieb, Business Development, Account Management oder sonstige
+Vertragsabschlussbefugnis umfassen — explizit flaggen:
 
-**Produce the question for the CFO/tax:**
+> Betriebsstättenrisiko: [Rollentyp] kann auch ohne rechtliche Einheit im
+> Zielland eine steuerliche Betriebsstätte begründen. Dies ist eine Steuerfrage,
+> keine Arbeitsrechtsfrage. Steuerberatung muss vor der ersten Einstellung prüfen.
 
-> Questions for your CFO and tax counsel:
-> - At [N] hires over 12 months, at what headcount does entity setup become
->   more cost-effective than EOR (accounting for EOR markup, setup costs,
->   and ongoing compliance burden)?
-> - [If PE-risk roles:] Do these role types create a taxable permanent
->   establishment in [country]? If yes, does that change the entity timeline?
-> - If we start with EOR and convert to entity later, what are the transition
->   risks for the employees already on the EOR?
-> - Who is our preferred EOR provider for this country, and have we vetted
->   their local compliance track record?
+**Fragen für CFO/Steuerberatung:**
 
-### Step 3 — Cross-functional triggers
+> - Bei [N] Einstellungen über 12 Monate: Ab welchem Headcount wird eine
+>   eigene Gesellschaft kosteneffizienter als EOR (einschließlich EOR-Aufschlag,
+>   Gründungskosten, laufender Compliance-Aufwand)?
+> - [Falls Betriebsstättenrisiko:] Begründen diese Rollen im Zielland eine
+>   steuerliche Betriebsstätte? Falls ja — ändert das die Gründungs-Timeline?
+> - Falls mit EOR gestartet und später Gesellschaft gegründet wird: Was sind die
+>   Übergangsrisiken für die bereits beim EOR beschäftigten Mitarbeiter?
+> - Wer ist unser bevorzugter EOR-Anbieter für dieses Land und ist seine lokale
+>   Compliance-Bilanz geprüft worden?
 
-For each function that needs to be looped in, state: what they need to do,
-and the specific questions legal should ask them. Do not just say "loop in
-finance." Draft the ask.
+### Schritt 3 — Abteilungsübergreifende Trigger
 
-**Tax counsel** (always required before first hire)
+Für jede einzubeziehende Funktion: was ist zu tun und welche konkreten Fragen
+sollte Legal stellen. Nicht nur „Finance einbinden" — die Anfrage formulieren.
 
-What they need to do: PE risk analysis, determine whether entity is required
-for tax purposes, advise on equity tax treatment in this jurisdiction.
+**Steuerberatung** (immer vor der ersten Einstellung erforderlich)
 
-Questions legal should ask:
-- Does hiring a [role type] in [country] create a permanent establishment or
-  taxable nexus before we have an entity?
-- What is our exposure window if we start hiring before the PE question is
-  resolved?
-- How are our equity awards (RSUs/options) taxed in [country]? Do we need
-  local tax counsel to advise employees at grant and vesting?
-- If we set up an entity, what intercompany services agreement is needed
-  between the subsidiary and the US parent?
+Aufgabe: Betriebsstättenrisikoanalyse, Prüfung ob Gesellschaft steuerlich
+erforderlich ist, Beratung zur Eigenkapitalvergütungsbesteuerung im Zielland.
 
-**Finance / Payroll** (required before first paycheck)
+Fragen von Legal:
+- Begründet ein [Rollentyp] in [Land] eine Betriebsstätte oder steuerliche
+  Nexus vor Gründung einer Gesellschaft?
+- Wie lange ist das Expositionsfenster, wenn vor Klärung der Betriebsstättenfrage
+  eingestellt wird?
+- Wie werden unsere Beteiligungsprogramme (Optionen/Phantom Shares/RSU-Äquivalente)
+  in [Land] besteuert? Brauchen Mitarbeiter lokale Steuerberatung bei Gewährung
+  und Ausübung?
+- Falls Gesellschaft gegründet wird: Welche Dienstleistungsvereinbarung
+  (Intragroup Service Agreement) wird zwischen Tochter und Mutter benötigt?
 
-What they need to do: identify local payroll provider (or confirm EOR handles
-it), budget mandatory employer contributions, set up local banking if entity.
+**Finance / Lohnbuchhaltung** (vor dem ersten Gehaltslauf erforderlich)
 
-Questions legal should ask:
-- Have we identified a local payroll provider? (If EOR: confirm EOR handles
-  payroll including local social contributions)
-- What are the mandatory employer contributions in [country] — pension,
-  social insurance, healthcare — and are these budgeted in the comp model?
-- How will equity grants be administered for employees in [country]? Has
-  anyone modeled the employer-side tax withholding obligations at vesting?
+Aufgabe: Lokalen Lohnbuchhaltungsanbieter identifizieren (oder EOR-Deckung
+bestätigen), Pflichtarbeitgeberanteile budgetieren, lokales Bankkonto bei
+Gesellschaftsmodell einrichten.
 
-**HR / Total Rewards** (required before offer is made)
+Fragen von Legal:
+- Haben wir einen lokalen Lohnbuchhaltungsanbieter identifiziert? (Bei EOR:
+  bestätigen, dass EOR Payroll inkl. lokaler Sozialabgaben übernimmt)
+- Welche Pflichtarbeitgeberanteile bestehen in [Land] — Rente, Kranken-,
+  Sozialversicherung — und sind diese im Vergütungsmodell budgetiert?
+- Wie werden Beteiligungsprogramme für Mitarbeiter in [Land] administriert?
+  Hat jemand die arbeitgeberseitigen Quellensteueranteile bei Ausübung modelliert?
 
-What they need to do: benefits benchmarking, comp benchmarking against local
-market, confirm mandatory vs. supplemental benefits.
+**HR / Compensation & Benefits** (vor der ersten Angebotsmachung erforderlich)
 
-Questions legal should ask:
-- What benefits are legally mandatory in [country] vs. market-standard? (Do
-  not want to accidentally promise more than required or less than market)
-- Is our standard equity package competitive in this market, or does local
-  practice differ significantly?
-- Who will be this person's day-to-day manager — local or remote from HQ?
-  (Affects employee-representation analysis and employment agreement terms
-  in some jurisdictions)
+Aufgabe: Benchmarking Vergütung und Benefits gegen den lokalen Markt,
+Pflicht- vs. freiwillige Benefits klären.
 
-**Outside counsel** (required — do not skip)
+Fragen von Legal:
+- Welche Benefits sind in [Land] gesetzlich Pflicht vs. marktüblich? (Vermeiden:
+  versehentlich mehr oder weniger als Marktstandard versprechen)
+- Ist unser Beteiligungspaket in diesem Markt wettbewerbsfähig oder weicht
+  die lokale Praxis erheblich ab?
+- Wer ist die direkte Führungskraft dieser Person — lokal oder remote aus dem
+  Inland? (Beeinflusst Arbeitnehmervertretungsanalyse und Arbeitsvertragsbedingungen
+  in einigen Jurisdiktionen)
 
-What they need to do: research and advise on the local employment framework
-for this role and headcount, review/draft local employment agreement, flag
-any structural issues with the proposed arrangement.
+**Externe Arbeitsrechtler** (zwingend erforderlich — nicht überspringen)
 
-The outside-counsel briefing request in Step 4 is the agenda for this
-engagement. Send it at the start — do not ask piecemeal.
+Aufgabe: Lokales Arbeitsrechtsrahmenwerk für diese Rolle und diesen Headcount
+recherchieren und beratend begleiten, lokalen Arbeitsvertrag prüfen/entwerfen,
+strukturelle Probleme mit der geplanten Konstruktion flaggen.
 
-### Step 4 — Country-specific briefing request
+Der Briefing-Request in Schritt 4 ist die Agenda für dieses Mandat.
+Am Anfang vollständig übersenden — nicht scheibchenweise.
 
-Instead of a stored country reference table, this skill produces a structured
-outside-counsel briefing request. Substantive local law (entity requirements,
-statutory benefits and contributions, termination protections, notice periods,
-employee-representation / works-council / collective-bargaining obligations,
-mandatory leave, restrictive covenants, data protection, work authorization)
-varies by country *and* by role and headcount *and* by industry, and changes
-frequently. Treat every country as a country that requires verification — do
-not rely on the skill's own knowledge.
+### Schritt 4 — Länderspezifischer Briefing-Request
 
-Draft the briefing request below, tailored to the intake answers:
+Statt einer internen Ländertabelle erstellt diese Skill einen strukturierten
+Briefing-Request an externe Arbeitsrechtler. Materielles Lokalrecht (Gesellschafts-
+anforderungen, Pflichtleistungen und Beiträge, Kündigungsschutz, Kündigungsfristen,
+Arbeitnehmervertretungen/Betriebsrat/Tarifbindung, Pflichtfreistellungen, Wettbewerbs-
+verbote, Datenschutz, Arbeitserlaubnis) variiert nach Land, Rolle, Headcount und
+Branche und ändert sich regelmäßig. Jedes Land als Verifizierungsfall behandeln —
+nicht auf das eigene Wissen der Skill vertrauen.
 
-**Outside counsel briefing request — [Country]**
+Briefing-Request, zugeschnitten auf die erhobenen Angaben:
 
-> We are planning to hire [N] employees in [Country] starting [date], in the
-> following roles: [roles]. Target headcount over 12 months: [N]. Preferred
-> structure (subject to your advice and tax counsel): [EOR / entity /
-> undecided]. We need a briefing covering each of the following. Please
-> answer as questions with cites to primary law, not as a reference table —
-> we want to be able to track changes over time.
+**Briefing-Request an externe Arbeitsrechtler — [Land]**
+
+> Wir planen die Einstellung von [N] Mitarbeitern in [Land] ab [Datum] in
+> folgenden Rollen: [Rollen]. Angestrebter Headcount über 12 Monate: [N].
+> Bevorzugte Struktur (vorbehaltlich Ihrer Beratung und steuerlicher Klärung):
+> [EOR / Gesellschaft / offen]. Wir bitten um ein Briefing zu folgenden Punkten.
+> Bitte antworten Sie mit Quellenangaben zu primärem Recht, nicht als
+> Referenztabelle — wir möchten Änderungen im Zeitverlauf verfolgen können.
 >
-> 1. **Entity and engagement structure** — what are our options (direct
->    hire via entity, EOR, contractor) and what are the practical and legal
->    trade-offs for this headcount and these roles?
+> 1. **Einstellungsstruktur** — Welche Optionen bestehen (Direktanstellung
+>    über Gesellschaft, EOR, Freier Mitarbeiter) und was sind die rechtlichen
+>    und praktischen Abwägungen für diesen Headcount und diese Rollen?
 >
-> 2. **Employment contract requirements** — what form is required or standard?
->    What must be included? What cannot be included or is unenforceable?
->    What language or translation requirements apply?
+> 2. **Arbeitsvertragsanforderungen** — Welche Form ist vorgeschrieben oder
+>    üblich? Was muss enthalten sein? Was kann nicht wirksam vereinbart werden?
+>    Welche Sprach- oder Übersetzungsanforderungen bestehen?
 >
-> 3. **Termination** — what are the notice requirements and severance
->    obligations? How difficult is termination in practice (protected-cause
->    standards, social-selection rules in RIFs, reasonable-notice common-law
->    exposure)? What documentation standard should we establish from day one?
+> 3. **Kündigung** — Welche Kündigungsfristen und Abfindungspflichten bestehen?
+>    Wie schwierig ist eine Kündigung in der Praxis (Kündigungsschutz,
+>    Sozialauswahlregeln bei Massenentlassung, Sonderkündigungsschutz)?
+>    Welchen Dokumentationsstandard sollten wir von Tag 1 an etablieren?
 >
-> 4. **Mandatory benefits and employer contributions** — what must we provide
->    by law (pension, social insurance, healthcare, paid leave, bonuses)?
->    What are the current employer contribution rates we should budget?
->    Please cite the controlling statute and verify currency.
+> 4. **Pflichtleistungen und Arbeitgeberanteile** — Was muss gesetzlich
+>    geleistet werden (Rente, Kranken-, Sozialversicherung, bezahlter Urlaub,
+>    Boni)? Welche aktuellen Arbeitgeberbeitragssätze sind zu budgetieren?
+>    Bitte einschlägige Gesetzesnorm angeben und Aktualität bestätigen.
 >
-> 5. **Restrictive covenants** — are non-competes enforceable? Under what
->    conditions and with what compensation requirements? What confidentiality
->    and IP assignment language holds up?
+> 5. **Wettbewerbsverbote / Geheimhaltung** — Sind nachvertragliche
+>    Wettbewerbsverbote durchsetzbar? Unter welchen Bedingungen und gegen
+>    welche Karenzentschädigung? Welche Geheimhaltungs- und
+>    IP-Übertragungsklauseln halten stand?
 >
-> 6. **Employee representation** — are there works council, employee
->    representation, union, or collective bargaining requirements? At what
->    headcount do they trigger? What consultation or co-determination rights
->    apply? Are we covered by any sectoral collective agreement even if we
->    are not unionized?
+> 6. **Arbeitnehmervertretung** — Bestehen Betriebsrats-, Arbeitnehmervertretungs-,
+>    Gewerkschafts- oder Tarifbindungsanforderungen? Ab welchem Headcount
+>    greifen sie? Welche Anhörungs- oder Mitbestimmungsrechte bestehen?
+>    Sind wir durch einen Branchentarifvertrag gebunden, auch ohne Gewerkschafts-
+>    mitgliedschaft?
 >
-> 7. **Data protection** — what obligations apply to employee data? Is there
->    a data transfer mechanism needed for employee data flowing to the US?
+> 7. **Datenschutz** — Welche Pflichten bestehen für Beschäftigtendaten?
+>    Ist ein Datentransfermechanismus für Beschäftigtendaten in die EU oder
+>    ins Inland erforderlich?
 >
-> 8. **Work authorization** — what permits or visas are required for foreign
->    nationals? What are the processing timelines?
+> 8. **Arbeitserlaubnis** — Welche Aufenthaltstitel oder Visa sind für
+>    ausländische Staatsangehörige erforderlich? Wie sind die Bearbeitungszeiten?
 >
-> 9. **Industry-specific rules** — are there sector rules, awards, or
->    collective agreements that apply to our industry regardless of whether
->    we are unionized?
+> 9. **Branchenspezifische Regeln** — Gibt es Branchenregeln, Tarifverträge
+>    oder kollektive Vereinbarungen, die unabhängig von einer Gewerkschafts-
+>    zugehörigkeit für unsere Branche gelten?
 >
-> 10. **Contractor/independent-contractor risk** — what is the country's test
->     for classification, and what are the deemed-employment or reclassification
->     risks for any contractor arrangements we may consider?
+> 10. **Contractor-Risiko / Scheinselbständigkeit** — Welches Prüfungsmaßstab
+>     gilt für die Statusfeststellung und welche Reklassifizierungsrisiken
+>     bestehen für etwaige Freelancer-Konstellationen?
 >
-> 11. **Equity / incentive compensation** — any local tax, securities, or
->     employment-law rules that govern how we grant RSUs, options, or other
->     equity here?
+> 11. **Beteiligungsvergütung** — Gibt es lokale Steuer-, Kapitalmarkt- oder
+>     arbeitsrechtliche Regeln für Optionen, Phantom Shares oder andere
+>     Beteiligungsprogramme?
 >
-> 12. **Day 1 compliance** — what must be in place before the first employee
->     starts? Registration requirements, notices, filings, posters?
+> 12. **Tag-1-Compliance** — Was muss vor dem ersten Arbeitstag des ersten
+>     Mitarbeiters in Ordnung sein? Anmeldungen, Aushangpflichten, Meldungen?
 >
-> 13. **Top 2-3 things that surprise US companies hiring here for the first
->     time** — what do you wish clients had asked you earlier? What has
->     *changed recently* that a US team might not have caught?
+> 13. **Die 2–3 Dinge, die ausländische Unternehmen am häufigsten überraschen** —
+>     Was wünschen Sie sich, hätten Mandanten früher gefragt? Was hat sich
+>     **jüngst geändert**, was ein Team aus dem Inland möglicherweise verpasst hat?
 
-Add this briefing request to the expansion tracker as a single open item:
-owner = Outside Counsel, status = open, with the full briefing agenda in
-the questions field. If the jurisdiction is one the team has asked about
-before, still send the briefing — this is a currency check, not a first
-contact.
+Diesen Briefing-Request als einzelnen offenen Punkt in den Expansions-Tracker aufnehmen:
+Verantwortung = Externe Arbeitsrechtler, Status = offen, vollständige Briefing-Agenda
+im Fragenfeld. Auch wenn die Jurisdiktion früher schon angefragt wurde, neuen
+Briefing-Request senden — dies ist eine Aktualitätsprüfung, kein erstes Mandat.
 
-### Step 5 — Create the expansion tracker
+### Schritt 5 — Expansions-Tracker anlegen
 
-Write a new file to `~/.claude/plugins/config/claude-for-legal/employment-legal/expansion-[country-slug].yaml` with all open items
-identified in Steps 2-4. This file persists across sessions.
+Neue Datei `expansion-[land-slug].yaml` mit allen in Schritten 2–4 identifizierten
+offenen Punkten erstellen. Diese Datei persistiert sitzungsübergreifend.
 
 Format:
 
 ```yaml
-[WORK-PRODUCT HEADER — per plugin config ## Outputs — differs by role; see `## Who's using this`]
-country: [Country name]
-country_slug: [lowercase-hyphenated]
-kickoff_date: [ISO date]
-first_hire_target: [ISO date or "TBD"]
+# VERTRAULICH — EXPANSIONSPLANUNG — [Datum]
+land: [Ländername]
+land_slug: [kleinbuchstaben-bindestrich]
+kickoff_datum: [ISO-Datum]
+erste_einstellung_angestrebt: [ISO-Datum oder "offen"]
 headcount_12mo: [N]
-roles: [list]
-strategic_commitment: [testing / long-term]
-eor_or_entity: [EOR / entity / undecided]
-outside_counsel_engaged: [true / false]
-pe_risk_flagged: [true / false]
-last_updated: [ISO date]
+rollen: [Liste]
+strategische_ausrichtung: [markttest / langfristig]
+eor_oder_gesellschaft: [EOR / Gesellschaft / offen]
+externe_ar_beauftragt: [true / false]
+betriebsstaette_geflaggt: [true / false]
+zuletzt_aktualisiert: [ISO-Datum]
 
-open_items:
+offene_punkte:
   - id: 1
-    category: [structure / tax / finance / hr / outside-counsel / compliance]
-    item: "[what needs to happen]"
-    owner: "[function or person]"
-    status: [open / in-progress / done / blocked]
-    due: [ISO date or null]
-    questions:
-      - "[specific question drafted in Steps 2-4]"
-    notes: ""
+    kategorie: [struktur / steuer / finance / hr / externe-ar / compliance]
+    punkt: "[was zu tun ist]"
+    verantwortung: "[Funktion oder Person]"
+    status: [offen / in-bearbeitung / erledigt / blockiert]
+    faellig: [ISO-Datum oder null]
+    fragen:
+      - "[spezifische Frage aus Schritten 2–4]"
+    notizen: ""
 
   - id: 2
     [etc.]
 ```
 
-Generate one open item per action identified across Steps 2-4. Do not collapse
-multiple actions into one item — each item should be completable and
-attributable to a single owner.
+Pro identifizierter Maßnahme aus Schritten 2–4 einen eigenen Punkt — nicht
+mehrere Maßnahmen zusammenfassen; jeder Punkt soll einer einzelnen
+Verantwortlichkeit zuordenbar sein.
 
-### Step 6 — Output
+### Schritt 6 — Ausgabe
 
-> **Jurisdiction assumption.** This plan frames the expansion to the single country identified in intake. Local employment law, tax rules, employee-representation obligations, and data-protection requirements vary materially by country, region, industry, and headcount, and change frequently. Every substantive local-law answer comes from the outside-counsel briefing request, not from this skill. If the plan is adapted for another country later, re-run the briefing.
+> **Jurisdiktionshinweis.** Dieser Plan betrifft ausschließlich das in der
+> Erhebung genannte Land. Lokales Arbeitsrecht, Steuerregeln, Arbeitnehmervertretungs-
+> anforderungen und Datenschutzpflichten variieren erheblich nach Land, Branche und
+> Headcount und ändern sich regelmäßig. Jede materielle Rechtsantwort kommt aus
+> dem Briefing-Request an externe Arbeitsrechtler, nicht aus dieser Skill. Für
+> ein anderes Land: neuen Briefing-Request und neuen Kickoff-Lauf durchführen.
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs — differs by role; see `## Who's using this`]
+## Internationale Expansion: [Land] — [Datum]
 
-## International Expansion: [Country] — [Date]
-
-**First hire target:** [date]
-**Headcount (12 months):** [N]
-**Roles:** [list]
-**Tracker:** ~/.claude/plugins/config/claude-for-legal/employment-legal/expansion-[slug].yaml
+Erste Einstellung angestrebt: [Datum]
+Headcount (12 Monate): [N]
+Rollen: [Liste]
+Tracker: expansion-[slug].yaml
 
 ---
 
-### EOR vs. Entity
+### EOR vs. Gesellschaft
 
-[Framing from Step 2 — table, PE risk flag if applicable, questions for CFO/tax]
-
----
-
-### Who needs to be looped in — and what to ask them
-
-**Tax counsel** — [N] questions
-[Questions from Step 3]
-
-**Finance / Payroll** — [N] questions
-[Questions from Step 3]
-
-**HR / Total Rewards** — [N] questions
-[Questions from Step 3]
-
-**Outside counsel** — see briefing request below
-[Full briefing request from Step 4]
+[Rahmen aus Schritt 2 — Tabelle, Betriebsstättenrisiko-Flag falls zutreffend,
+Fragen für CFO/Steuerberatung]
 
 ---
 
-### Open items ([N] total)
+### Wer einzubinden ist — und was zu fragen ist
 
-| # | Item | Owner | Status |
+**Steuerberatung** — [N] Fragen
+[Fragen aus Schritt 3]
+
+**Finance / Lohnbuchhaltung** — [N] Fragen
+[Fragen aus Schritt 3]
+
+**HR / Compensation & Benefits** — [N] Fragen
+[Fragen aus Schritt 3]
+
+**Externe Arbeitsrechtler** — siehe Briefing-Request
+[Vollständiger Briefing-Request aus Schritt 4]
+
+---
+
+### Offene Punkte ([N] gesamt)
+
+| # | Punkt | Verantwortung | Status |
 |---|---|---|---|
-| 1 | [item] | [owner] | Open |
-[etc.]
+| 1 | [Punkt] | [Funktion] | Offen |
 
 ---
 
-Run `/employment-legal:expansion-update [country]` to update status
-as items close.
+`/arbeitsrecht:expansion-update [Land]` ausführen, wenn Punkte geschlossen werden.
 ```
 
-## What this skill does NOT do
+## Was diese Skill nicht tut
 
-- Advise on specific local employment law — that is outside counsel's job.
-- Make the EOR vs. entity decision — frames it for the right decision-makers.
-- Draft the local employment agreement — flags that outside counsel must do
-  this.
-- State country-specific rules from its own knowledge — every country is
-  routed through an outside-counsel briefing.
-- Substitute for outside counsel engagement — every new country requires
-  local counsel, no exceptions.
+- Länderspezifisches Arbeitsrecht inhaltlich beantworten — das ist Aufgabe
+  der externen Arbeitsrechtler.
+- Die EOR-vs.-Gesellschaft-Entscheidung treffen — sie rahmt sie für die
+  richtigen Entscheidungsträger.
+- Den lokalen Arbeitsvertrag entwerfen — das muss außen Counsel erledigen.
+- Länderspezifische Regeln aus eigenem Wissen wiedergeben — jedes Land wird
+  durch den Briefing-Request verifiziert.
+- Externes Arbeitsrechtsmandat ersetzen — jedes neue Land erfordert lokalen
+  Rechtsbeistand, keine Ausnahme.
+
+## Quellenpflicht
+
+Jede Ausgabe zu AÜG-Konstellationen zitiert:
+- §§ 1, 8, 10 AÜG, § 7 SGB IV, Art. 8 Rom I-VO
+- BAG, Urt. v. 20.09.2016 – 9 AZR 735/15, NZA 2017, 34
+- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289
+- Schüren/Hamann, AÜG, 5. Aufl. 2022
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

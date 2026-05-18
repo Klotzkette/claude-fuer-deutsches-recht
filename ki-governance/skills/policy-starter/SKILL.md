@@ -1,262 +1,182 @@
 ---
 name: policy-starter
 description: >
-  Draft a firm AI usage policy from published model policies, adapted to your
-  practice profile — a research-and-synthesis tool whose output is a draft for
-  attorney review and adoption, not a finished policy. Use when user says "draft
-  an AI policy", "we need an AI policy", "build an AI usage policy", "our firm
-  needs a GenAI policy", or similar requests to generate a first-cut internal
-  AI policy.
-argument-hint: "[optional — scope hint, e.g. 'firm-wide', 'legal team only', 'update existing']"
+  Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter
+  Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool,
+  dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist,
+  keine fertige Richtlinie. Lädt, wenn der Nutzer „KI-Richtlinie entwerfen",
+  „wir brauchen eine KI-Richtlinie", „AI-Act-konforme Richtlinie" oder
+  Ähnliches sagt.
+language: de
+triggers:
+  - "KI-Richtlinie entwerfen"
+  - "KI-Nutzungsrichtlinie erstellen"
+  - "AI-Act-konforme Richtlinie"
+  - "wir brauchen eine KI-Richtlinie"
+  - "interne KI-Governance-Richtlinie"
+  - "KI-Richtlinie aktualisieren"
+  - "GenAI-Richtlinie aufsetzen"
+  - "Acceptable-Use-Policy KI"
 ---
 
-# /policy-starter
+# KI-Richtlinien-Starter
 
-1. Read `~/.claude/plugins/config/claude-for-legal/ai-governance-legal/CLAUDE.md`. If the practice profile is unpopulated, stop and direct to `/ai-governance-legal:cold-start-interview`.
-2. Use the framework below.
-3. Run the scope interview — which sections does the policy need to cover, who's the audience, what's the deployment context. Do not skip to drafting.
-4. Web search for the current published model policies and guidance relevant to the deployment context (ABA, state bars, ILTA, CLOC, NIST, peer-firm / peer-company policies, current state AI laws, EU AI Act, sector regulators as applicable).
-5. Draft the selected sections, sourced from the model policies, with `[review]` flags on every choice point and `[review]` open questions at the bottom of each section.
-6. Output with the draft header ("DRAFT FOR INTERNAL LEGAL REVIEW — NOT FOR DISTRIBUTION"), the sources block, the reviewer note, and the adoption checklist.
-7. Close with the next-steps decision tree.
+## Zweck
 
-```
-/ai-governance-legal:policy-starter
-/ai-governance-legal:policy-starter "we need an AI policy for our 30-lawyer firm"
-/ai-governance-legal:policy-starter "update our existing policy for the 2026 state AI laws"
-```
+Viele Unternehmen haben noch keine schriftliche KI-Nutzungsrichtlinie, oder
+arbeiten mit einer veralteten Fassung, die den AI Act (VO (EU) 2024/1689),
+DSGVO Art. 22 und den tatsächlichen Tool-Einsatz nicht abbildet.
 
----
+Dieser Skill produziert einen **Entwurf** — keinen fertigen Text. Disziplin:
+(1) aus veröffentlichten Musterquellen sourcing, nicht aus dem Nichts;
+(2) Umfang vor Entwurf klären; (3) jeden Ermessensspielraum mit `[prüfen]`
+kennzeichnen; (4) Adoptionstatus-Signale nicht abschwächen.
 
-## Matter context
+Dieser Skill schließt keine Richtlinie ab, verteilt sie nicht und empfiehlt
+keine konkrete Position zu den schwierigen Entscheidungspunkten.
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/ai-governance-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/ai-governance-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+## Eingaben
 
----
+- Praxisprofil aus `CLAUDE.md` (KI-Rolle, regulatorischer Fußabdruck,
+  bestehendes Register, Governance-Team, ggf. bestehende Richtlinie)
+- Scopegespräch: welche Abschnitte? welche Zielgruppe? welcher Kontext?
 
-## Purpose
+## Rechtlicher Rahmen
 
-A lot of firms and in-house teams don't have a written AI usage policy yet, or
-are running on a 2024-vintage one that doesn't mention the state AI laws, the EU
-AI Act implementing acts, the 2025 COPPA amendments, or what they actually ended
-up doing with Copilot and Claude for Work. This skill produces a **draft** policy
-to bring to the decision-maker — GC, managing partner, executive committee,
-board, head of IT, head of HR — not a finished policy to circulate.
+**Kernvorschriften**
 
-The discipline of this skill:
+- **AI Act Art. 4 KI-VO**: KI-Kompetenzverpflichtung — Anbieter und Betreiber
+  müssen hinreichende KI-Kompetenz ihres Personals sicherstellen; Richtlinie
+  muss Schulungspflicht abbilden.
+- **AI Act Art. 9 KI-VO**: Risikomanagementsystem für Hochrisiko-KI; interne
+  Richtlinien müssen Risikoidentifikations- und Mitigationsverfahren beschreiben.
+- **AI Act Art. 26/29 KI-VO**: Betreiberpflichten — menschliche Aufsicht,
+  Protokollierung, Meldeobliegenheiten; müssen in der Richtlinie operationalisiert
+  werden.
+- **DSGVO Art. 22**: Vollautomatisierte Einzelentscheidungen nur unter Art. 22
+  Abs. 2 lit. a–c zulässig; Richtlinie muss Rechtsgrundlage und
+  Widerspruchsrecht klären.
+- **§ 87 Abs. 1 Nr. 6 BetrVG**: Mitbestimmungsrecht des Betriebsrats bei KI-
+  Tools zur Mitarbeiterüberwachung/-bewertung; vor Richtlinienabschnitt prüfen.
+- **GeschGehG §§ 2, 4**: Schutz von Geschäftsgeheimnissen bei Eingabe
+  vertraulicher Daten in externe KI-Systeme.
+- **UrhG § 44b**: Text-und-Data-Mining-Schranke; relevant bei KI-Training.
 
-1. **Source from published model policies, not from invention.** Search for and
-   read the ABA AI Toolkit, state bar guidance, ILTA's model policy, CLOC's
-   templates, and peer-firm / peer-company policies that are public. Cite what
-   each source says and adapt it — don't generate policy language out of thin
-   air.
-2. **Decision-tree the scope before drafting.** A policy that tries to cover
-   everything covers nothing. Ask the user what sections the policy needs. Let
-   them pick. Then build each picked section with `[review]` flags on every
-   choice point.
-3. **Flag every judgment call.** The output is a draft the attorney reviews and
-   adopts; every threshold, every named tool, every disclosure trigger, every
-   enforcement consequence is a `[review]` line.
-4. **Header signals the scope of the audience.** This output may be read beyond
-   legal — by HR, IT, all staff. The header is adapted accordingly.
+**Leitentscheidungen**
 
-This skill does NOT finalize, distribute, publish, or even recommend a specific
-position on the hard calls. It produces a draft and surfaces the choices.
+- EuGH, Urt. v. 07.12.2023 – C-634/21, NJW 2024, 126 (Schufa-Score):
+  Richtlinie muss Art. 22 Abs. 3 DSGVO-Widerspruchsrecht bei automatisierten
+  Entscheidungen operationalisieren.
+- EuGH, Urt. v. 04.10.2024 – C-203/22 (Dun & Bradstreet): Offenlegungspflicht
+  bei algorithmischen Entscheidungen in verständlicher Sprache; maßgeblich
+  für den Transparenz-Abschnitt einer Richtlinie.
+- BAG, Urt. v. 13.01.2004 – 9 AZR 603/02, NZA 2004, 784: Mitbestimmungs-
+  pflicht bei technischen Überwachungssystemen; gilt auch für KI-basierte
+  Mitarbeiterbewertung.
+- BGH, Urt. v. 19.06.2018 – VI ZR 184/17, NJW 2018, 2877: Interne
+  Organisationspflichten bei technischen Systemen; übertragbar auf
+  KI-Governance-Richtlinien.
 
-## Read `~/.claude/plugins/config/claude-for-legal/ai-governance-legal/CLAUDE.md` first
+**Kommentare**
 
-Before drafting, always read the practice profile. The sections that drive the
-draft:
+- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4 Rn. 3 ff.
+  (KI-Kompetenzverpflichtung; interne Richtliniengestaltung).
+- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 1 ff.
+- Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.
+  (Mitbestimmung bei KI-Tools).
+- Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
+  Teil IV Rn. 100 ff. (Compliance-Anforderungen für KI-Nutzungsrichtlinien).
 
-- `## Company profile` — AI role (Builder / Deployer / Both), regulatory footprint,
-  external commitments, practice setting
-- `## Use case registry` — what's already approved, conditional, or a red line
-- `## AI policy commitments` — what a prior or current policy already says
-- `## Vendor AI governance` — what the team already requires from vendors
-- `## Governance team and escalation` — who approves, who escalates
-- `## Who's using this` — Role (lawyer / non-lawyer) governs the header and the
-  "adopt this" framing
+*Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
 
-If `## AI policy commitments` is populated, this is an UPDATE, not a new draft —
-treat the existing policy as the base and propose changes. If it's empty, this
-is a first-cut draft.
+## Ablauf
 
-## Scope interview (do this BEFORE drafting)
+**Schritt 1 — Praxisprofil laden**
 
-Ask the user which sections the policy should cover. Present as a checklist —
-the user picks, you build. Do not pre-decide.
+`CLAUDE.md` lesen. Wenn `## KI-Richtlinien-Verpflichtungen` ausgefüllt:
+Update-Modus (bestehende Richtlinie als Basis). Wenn leer: Erstfassung.
 
-> **What should the AI policy cover? Pick the sections you want in the draft:**
-> 1. **Scope** — who the policy applies to (all staff, certain roles, contractors), what tools it covers (GenAI only, all AI, specific vendors), what data is in/out of scope.
-> 2. **Permitted and prohibited uses** — the approved categories, the red lines, the "ask first" cases.
-> 3. **Approval and review** — who approves a new tool, who approves a new use case, how the review request is filed, what the SLA is.
-> 4. **Disclosure** — to clients (for firms), to courts, to counterparties, to employees, to end users of an AI feature.
-> 5. **Data handling** — what confidential/client/privileged data can go where, data residency, vendor retention terms, training-on-data posture.
-> 6. **Training and certification** — who has to take training, on what cadence, consequences for non-completion.
-> 7. **Incidents and reporting** — what counts as an AI incident, how to report, who handles.
-> 8. **Enforcement** — what happens when the policy is violated, link to disciplinary framework.
-> 9. **Review cadence and ownership** — how often the policy gets updated, who owns updates, how changes are communicated.
-> 10. **Glossary** — defined terms (GenAI, approved tool, high-risk use, consequential decision, confidential data, etc.).
+**Schritt 2 — Scopegespräch (VOR dem Entwurf)**
+
+> **Welche Abschnitte soll die KI-Richtlinie enthalten?**
+> 1. Anwendungsbereich (wer, welche Tools, welche Daten)
+> 2. Erlaubte und verbotene Nutzungen (inkl. Art. 5 KI-VO-Verbote)
+> 3. Freigabe und Prüfung (Genehmigungsworkflow)
+> 4. Offenlegung (Kunden, Mitarbeitende, Dritte; DSGVO Art. 13/14)
+> 5. Datenhandhabung (vertrauliche Daten, Anbieter-Training; GeschGehG)
+> 6. Schulung und Zertifizierung (Art. 4 KI-VO)
+> 7. Vorfälle und Meldung (Art. 73 KI-VO Betreiber-Meldeobliegenheiten)
+> 8. Durchsetzung (Verweis auf Disziplinarrahmen)
+> 9. Überprüfungsrhythmus und Verantwortung (mind. jährlich)
+> 10. Glossar (Hochrisiko-KI gem. Anhang III, DSGVO Art. 22, GeschGeh usw.)
 >
-> Default starter pack for a firm / in-house legal team that's never had a policy: 1, 2, 3, 4, 5, 9. Skip the rest for v1.
+> Empfohlenes Startpaket für Erstfassungen: 1, 2, 3, 4, 5, 9.
 
-After the user picks, ask the second question:
+Dann: Zielgruppe (alle MA / Rechtsabteilung / mit Betriebsrat?) und
+Anwendungskontext (Unternehmen / Konzern / Kanzlei / Behörde).
 
-> **Two more inputs before I draft:**
-> - **Audience** — who's reading this? (All staff / legal team only / attorneys plus staff / client-facing version also needed) This drives tone and the glossary.
-> - **Deployment context** — (a) law firm, (b) in-house legal at a company (policy covers legal or company-wide?), (c) legal aid / clinic, (d) government. This drives which model policies I search.
+**Schritt 3 — Musterquellen recherchieren**
 
-## Source the model policies
+Aktuelle veröffentlichte Muster-KI-Richtlinien und Leitlinien suchen:
+- Deutschland/EU: AI Act direkt (Art. 4, 9, 26, 29); EDPB Guidelines 01/2022
+  (Art. 22 DSGVO); DSK-Orientierungshilfen; BSI-Empfehlungen; Bitkom/DAV-
+  Leitlinien; veröffentlichte Unternehmensrichtlinien aus DAX-Umfeld.
+- Jeden verwendeten Quellennachweis im **Quellenblock** dokumentieren:
+  Name, URL, Zugriffsdatum, was der Entwurf daraus entnommen hat.
 
-Before drafting, run web searches for the most recent published model AI
-policies and guidance.
+**Schritt 4 — Entwurf erstellen**
 
-**Derive the model policy sources from the practice profile's `## Regulatory footprint`.** Don't hardcode US sources for a global user.
-
-| Jurisdiction | Model policy sources |
-|---|---|
-| US | ABA Formal Opinion 512, state bar guidance (CA, FL, NY, TX all have published AI guidance), ILTA model policy, CLOC templates, peer firm published AI policies |
-| UK | Solicitors Regulation Authority risk outlook, Law Society AI principles, ICO AI guidance, Bar Council guidance |
-| EU | EU AI Act compliance framework (Article 4 AI literacy, Article 17 quality management), national DPA AI guidance (CNIL, DSB, Garante, AEPD), EDPB guidelines, EU institutions' AI policies |
-| Australia | Law Council of Australia AI guidelines, OAIC AI guidance, state law society guidance, Australian AI Ethics Framework |
-| Singapore | PDPC Model AI Governance Framework, MinLaw guidance, MAS AI fairness principles (for financial services) |
-| Canada | Law Society of Ontario/BC/Alberta AI guidance, OPC AI guidance, TBS Directive on Automated Decision-Making |
-| Multi-jurisdiction | Use all applicable, and note where they diverge (e.g., EU requires human oversight documentation US doesn't; Australia focuses on voluntary ethics frameworks; Singapore focuses on sectoral regulation) |
-
-If the practice profile's footprint is empty or `[PLACEHOLDER]`, ask: "What jurisdiction(s) does your organization operate in? I'll draft from the model policies that match your regulatory environment and professional responsibility framework, not a US-centric template."
-
-For each source the draft uses, **record it in a "Sources" block at the top of
-the output** with: name, URL, date accessed, and what the draft took from it.
-
-If a web search can't be run, note in the reviewer note: "Could not run web
-search — draft sourced from training knowledge alone, verify against current
-versions of the cited sources before adopting." The verification log applies.
-
-## The draft
-
-Output follows a consistent structure. **Every choice point gets a `[review]`
-flag.** The user has to decide; the skill presents options.
-
-### Header
-
+Kopfzeile:
 ```
-DRAFT FOR INTERNAL LEGAL REVIEW — NOT FOR DISTRIBUTION
-Prepared for: [firm / company name from practice profile]
-Date: [today's date]
-Prepared by: ai-governance-legal policy-starter skill, adapted from published model policies
-Not for adoption, distribution, posting, or reliance until reviewed, adapted, and approved by [attorney / GC / managing partner / executive committee per the governance team section of the practice profile].
+ENTWURF ZUR INTERNEN RECHTLICHEN PRÜFUNG — NICHT ZUR VERTEILUNG
+Erstellt für: [Unternehmensname] | Datum: [heute]
+Nicht zur Beschlussfassung bis von [Syndikusrechtsanwalt / GC / Compliance
+Officer] geprüft, angepasst und freigegeben.
 ```
 
-When the Role in `## Who's using this` is Non-lawyer: add a second line under
-the header — "If you are not a licensed attorney, solicitor, barrister, or other
-authorised legal professional in your jurisdiction, bring this draft to your
-attorney contact ([name from practice profile]) before using any of it. This is
-a starting draft for their review, not a policy you can adopt."
+Für jeden Abschnitt: materielle Regeln aus Musterquellen, inline-
+Quellenattribution, jeder Schwellenwert/Tool/Anbieter/Kontakt als `[prüfen]`.
 
-### Sources block (at the top, under the header)
+Freigabe-Checkliste am Ende:
+- [ ] Syndikusrechtsanwalt / GC `[prüfen — Name]`
+- [ ] IT / Informationssicherheit `[prüfen]`
+- [ ] HR (für Durchsetzungs-/Schulungsabschnitte) `[prüfen]`
+- [ ] Betriebsrat (§ 87 Abs. 1 Nr. 6 BetrVG) `[prüfen — erforderlich?]`
+- [ ] Datenschutzbeauftragter (Art. 38 Abs. 1 DSGVO) `[prüfen]`
+- [ ] Inkrafttretungsdatum und Überprüfungsrhythmus `[prüfen]`
 
-A table of the model policies / guidance / regulations the draft drew from:
+## Ausgabeformat
 
-| Source | URL | Accessed | What the draft took from it |
-|---|---|---|---|
-| ABA Formal Op. 512 | [url] | [date] | Disclosure and competence framing |
-| ILTA Model AI Policy v.[X] | [url] | [date] | Approval workflow, data handling |
-| [State] Bar Op. [X] | [url] | [date] | Disclosure to clients |
-| [peer firm] published AI policy | [url] | [date] | Scope language |
-| Colorado SB 24-205 | [url] | [date] | High-risk AI definition |
-| EU AI Act, Art. [X] | [url] | [date] | Vendor flow-down |
+Strukturiertes Markdown-Dokument: Kopfzeile, Quellenblock, Zusammenfassung
+(max. 3 Abs.), gewählte Abschnitte (materielle Regeln + inline-Quellen +
+offene Fragen je Abschnitt), Freigabe-Checkliste, Prüfhinweis. Sprache
+klar genug für Nicht-Juristen; Präzision liegt in den `[prüfen]`-Markern.
 
-### Executive summary
+## Beispiel
 
-Three paragraphs max. What the policy does, who it binds, what the reader has
-to do before it takes effect.
+**Anfrage:** KI-Richtlinie für 200-Personen-Unternehmen mit Betriebsrat,
+Abschnitte 1, 2, 3, 5 und 9. **Vorgehen:** Betreiberrolle, Deutschland;
+AI Act Art. 4/26/29; EDPB Guidelines 01/2022; § 87 Abs. 1 Nr. 6 BetrVG.
+Abschnitt 3 (Freigabe): Hinweis, dass neue KI-Tools ggf. Betriebsrats-
+Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]`.
 
-### The sections
+## Risiken und typische Fehler
 
-Only the sections the user picked, in the order above. For each:
+- Richtliniensprache erfinden: jede materielle Regel aus einer Quelle
+  belegen oder `[prüfen — adaptiert, keine Direktquelle]` kennzeichnen.
+- Schwierige Entscheidungen vorwegnehmen: das ist ein `[prüfen]`, keine
+  empfohlene Position.
+- § 87 BetrVG vergessen: bei Unternehmen mit Betriebsrat immer prüfen.
+- Scope-Gespräch überspringen: „einfach alles" ist die Hauptfehlerquelle.
 
-- A **header and scope** sentence.
-- The **substantive rules**, adapted from the cited model policies. Every
-  specific threshold, number, named tool, named vendor, or escalation contact
-  is `[review]`. Example: "Confidential client data may not be entered into
-  [general-purpose consumer AI tools] `[review — list tools, or reference the
-  approved-tools list]`. Use of such data in [approved firm-licensed tools]
-  `[review — list tools]` is permitted subject to the data handling section."
-- **Source attribution** inline where a rule is adapted from a specific source.
-  Example: "Attorneys must verify the accuracy of all AI-generated work product
-  before using it in representation of a client `[ABA Formal Op. 512]`."
-- **Open questions** at the bottom of each section — 2-3 decisions the attorney
-  needs to make before the section is ready. These are distinct from inline
-  `[review]` flags — these are the "we don't have a position here yet" items,
-  not the "fill in the specifics" items.
+## Quellenpflicht
 
-### Adoption checklist
-
-At the end of the draft, a checklist of the things that have to happen before
-the policy is adopted. Don't invent these — pull from the practice profile's
-governance team and escalation section. Typical items:
-
-- [ ] Review by GC / managing partner `[review — name]`
-- [ ] Review by IT / security `[review — name]`
-- [ ] Review by HR (for enforcement / training sections) `[review — name]`
-- [ ] Board / executive committee approval (if required) `[review — confirm whether required]`
-- [ ] Training materials drafted
-- [ ] Announcement drafted
-- [ ] Effective date set `[review]`
-- [ ] Review cadence calendared `[review — annual is typical]`
-- [ ] Add policy to the `## AI policy commitments` section of the practice
-      profile once adopted
-
-### Reviewer note
-
-The standard reviewer note above the header, per the `## Outputs` section of
-the practice profile. Use the block format:
-
-> **⚠️ Reviewer note**
-> - **Sources:** web search ✓ / not connected — cites from training knowledge
-> - **Read:** practice profile · [N] published model policies
-> - **Flagged for your judgment:** [N] `[review]` items inline · [N] open questions per section
-> - **Currency:** searched for developments since [date]
-> - **Before relying:** this is a DRAFT — bring to [approver from practice profile], don't distribute until adopted
-
-## Don'ts
-
-- **Don't invent policy language.** Every substantive rule in the draft must be
-  traceable to a cited source or flagged `[review — adapted, no direct source]`.
-- **Don't pick the hard calls for the attorney.** "Should paralegals be
-  permitted to use AI for first-draft work?" is a `[review]`, not a recommended
-  position.
-- **Don't produce a finished-looking policy.** The header, the reviewer note,
-  and the `[review]` flags throughout are the signal that this is a draft. Do
-  not soften them.
-- **Don't skip the scope interview.** If the user says "just draft a full
-  policy," push back: "A policy that tries to cover everything covers nothing.
-  Which sections do you want? Here's the checklist." One round of negotiation
-  is fine — two is also fine. Drafting without scope is the failure mode.
-- **Don't generate section content the user didn't ask for.** If they picked 1,
-  2, 3, 4, 5, 9, do those. Don't add section 6 because "a real policy needs
-  training."
-- **Don't recommend a specific vendor, tool, or consequence.** Flag those
-  `[review]` with context on what a typical decision would be, not what the
-  user's should be.
-- **Don't promise legal sufficiency.** The draft is a starting point for
-  attorney review, not a tested policy.
-
-## Handoffs
-
-After the draft is produced, close with the decision tree from the practice
-profile. The most common next steps:
-
-1. **Tune the draft** — the user walks through the `[review]` flags and resolves
-   them with the attorney; the skill re-runs with the decisions baked in.
-2. **Stakeholder summary** — produce a one-page version for the board or
-   executive committee explaining what the policy does and doesn't do.
-3. **Training materials** — once the policy is adopted, `/ai-governance-legal:aia-generation` can be used to produce per-use-case training notes.
-4. **Vendor sweep** — once the policy is adopted, `/ai-governance-legal:vendor-ai-review` should be run against the vendors the policy references to check conformance.
-5. **Gap check against new regulation** — pair with `/ai-governance-legal:reg-gap-analysis` to test the draft against a specific regulation or guidance before adoption.
-
-## Output scope reminder
-
-The document this skill produces reaches HR, IT, and the broader business — not
-just legal. Keep the language plain enough for non-lawyers to follow. The legal
-precision is in the `[review]` flags and the sources, not in jargon.
+- **AI Act Art. 4, 9, 26/29** — VO (EU) 2024/1689.
+- **DSGVO Art. 22** bei automatisierten Entscheidungen.
+- **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-KI.
+- **GeschGehG §§ 2, 4** bei Abschnitt zu vertraulichen Daten.
+- **EuGH C-634/21 (Schufa-Score)** beim Abschnitt zu automatisierten
+  Entscheidungen.
+- **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4.**
+- **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22.**
+- **Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.**

@@ -1,235 +1,188 @@
 ---
 name: tabular-review
 description: >
-  Tabular review — one row per document, one column per data point, every cell
-  cited to source. Built for M&A diligence ("review these 200 target contracts
-  for change-of-control, assignment, and MAC clauses") but works for any batch
-  review that needs a spreadsheet out the other end. Use when user says "tabular
-  review", "review grid", "build a grid", "extract these fields from these
-  contracts", "review these documents for X, Y, Z", "give me a spreadsheet of",
-  "batch review", or points at a folder of documents and asks to compare them.
+  Tabellarisches Vertragsreview im Rahmen der M&A Due Diligence — eine Zeile pro
+  Dokument, eine Spalte pro Datenpunkt, jede Zelle mit Quellenangabe. Geeignet für
+  Massenreviews (Change-of-Control-Klauseln, Abtretungsverbote, MAC-Klauseln in 200
+  Zielgesellschaftsverträgen) und jeden anderen Stapeldurchlauf, der eine strukturierte
+  Tabelle als Ergebnis erfordert. Lädt bei „tabellarisches Review", „Review-Raster",
+  „Raster aufbauen", „Felder aus Verträgen extrahieren", „Dokumente auf X, Y, Z prüfen",
+  „Tabelle erstellen" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag.
+language: de
+triggers:
+  - "tabellarisches Review"
+  - "Review-Raster"
+  - "Due Diligence Tabelle"
+  - "Verträge auf Klauseln prüfen"
+  - "Change-of-Control Review"
+  - "Massenreview"
+  - "Vertragsmatrix"
+  - "Felder extrahieren"
+  - "Batch-Review"
 ---
 
-# /tabular-review
+# Tabellarisches Vertragsreview (M&A Due Diligence)
 
-1. Load `~/.claude/plugins/config/claude-for-legal/corporate-legal/CLAUDE.md` → diligence structure, thresholds, house format.
-2. Confirm: what documents, what columns, where does the output go.
-3. Build the typed schema. Write `.review-schema.yaml`. Confirm with the user.
-4. Sample run (3–5 docs). Adjust schema. Confirm.
-5. Fan out — one sub-agent per document, parallel. Each cell: value + state + verbatim quote + location.
-6. Normalization pass. Flag outliers and inconsistencies.
-7. Output: `.xlsx` or Google Sheets (ask which), plus `.csv` + `_sources.csv` + markdown always. Work-product header.
-8. Summary: verification workload (counts of not_present / unclear / needs_review per column), flagged columns, where the files are, reminder that every cell is a lead not a finding.
+## Zweck
 
-```
-/corporate-legal:tabular-review
-/corporate-legal:tabular-review --schema .review-schema.yaml --docs ./vdr/02-Contracts/
-/corporate-legal:tabular-review --template ma-diligence
-```
+Sie haben einen Stapel Dokumente und eine Liste von Fragen, die konsistent für jedes Dokument beantwortet werden müssen. Eine Due-Diligence-Anforderungsliste. Ein Vendor-Vertragsaudit. Eine Mietportfolioprüfung. Das Ergebnis ist eine Tabelle: Dokumentenzeilen, Datenpunktspalten, und jede Zelle rückverfolgbar bis auf die exakten Wörter im Quelltext.
 
-**`--schema <path>`:** Use an existing schema file instead of building one. Useful for re-runs and incremental additions.
+Dies ist keine Problemerkennung. `/Due-Diligence-Extraktion` findet die 30 Probleme, die in 2.000 Dokumenten stecken. Dieser Skill beantwortet dieselben 15 Fragen für alle 2.000 Dokumente. Beides ist legitim; beide beantworten unterschiedliche Fragen.
 
-**`--template <name>`:** Start from a template in `references/`. Currently: `ma-diligence`.
+Dies ist auch kein Ersatz dafür, das Dokument selbst zu lesen. Jede von diesem Skill erzeugte Zelle ist ein **Hinweis, der der Verifikation bedarf**, kein Befund. Das Ergebnis soll die Verifikation beschleunigen, nicht überspringen.
 
-**`--docs <path>`:** Document source. A local folder, a Drive folder ID, or a VDR path. If omitted, asks.
+## Eingaben
 
-**`--output <xlsx|gsheets|csv>`:** Output format. If omitted, asks.
+- Dokumentenquelle: Datenraum-Ordner, lokaler Pfad, SharePoint-Bibliothek
+- Schema (entweder beschrieben oder als `.review-schema.yaml` hochgeladen)
+- Ausgabeformat: Excel (`.xlsx`) oder CSV — nach Wahl des Nutzers
+- Praxisprofil (CLAUDE.md) → Due-Diligence-Struktur, Wesentlichkeitsschwellen, Hausformat
 
-**`--sample <n>`:** Sample size for the schema check. Default 5.
+## Rechtlicher Rahmen
 
----
+**M&A Due Diligence allgemein:**
+§§ 311 Abs. 2, 241 Abs. 2 BGB (vorvertragliche Aufklärungspflichten); §§ 443, 444 BGB (Garantien, Haftungsausschluss); § 442 BGB (Kenntnis des Käufers, Ausschluss der Gewährleistung). BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25 (Due-Diligence-Pflicht des Käufers; Kenntnis von Mängeln).
 
-## Matter context
+**Change-of-Control-Klauseln:**
+BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Auslegung einer Change-of-Control-Klausel; Kündigung bei mittelbarem Kontrollwechsel); BGH, Urt. v. 10.11.2016 – I ZR 193/15, NJW-RR 2017, 877 Rn. 14 (Vertragsübernahme ohne Zustimmung des Schuldners).
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/corporate-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/corporate-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+**Vertragliche Abtretungsverbote:**
+§ 399 BGB (Abtretungsausschluss durch Parteivereinbarung); § 354a HGB (Abtretungsverbot im Handelsverkehr zwischen Kaufleuten; Unwirksamkeit im kaufmännischen Kontext); BGH, Urt. v. 14.11.1991 – IX ZR 31/91, NJW 1992, 1026 (Abtretungsverbot; Rechtsfolgen).
 
----
+**MAC-Klauseln (Material Adverse Change):**
+§§ 313, 314 BGB (Wegfall der Geschäftsgrundlage; außerordentliche Kündigung) als gesetzlicher Hintergrund; MAC-Klauseln im SPA regeln vertraglich den Rücktritt/Closing-Verweigerungsrecht des Käufers bei wesentlicher Verschlechterung.
 
-## Purpose
+**Kommentarliteratur:**
+MüKoBGB/Westermann, 9. Aufl. 2022, § 453 Rn. 12 ff. (Unternehmenskauf, Due Diligence); Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 15 Rn. 5 ff. (Abtretung GmbH-Anteile, Due Diligence); Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 ff. (Abtretungsverbot Handelsverkehr).
 
-You have a pile of documents and a list of questions you need answered consistently across every one. A diligence request list. A vendor contract audit. A lease portfolio review. The output is a table: document rows, data-point columns, and every cell traceable to the exact words in the source.
+## Ablauf
 
-This is not issue spotting. `diligence-issue-extraction` finds the 30 problems hiding in 2,000 documents. This skill answers the same 15 questions about all 2,000 documents. Both are legitimate; they answer different questions.
+### Schritt 0: Was und Wo
 
-This is also not a replacement for a human reading the document. Every cell this skill produces is a **lead that needs verification**, not a finding. The output is designed to make verification fast, not to skip it.
+Klären:
+1. **Dokumente.** Wo liegen sie? Datenraum-MCP (Box, Datasite, SharePoint), lokaler Ordner oder Dateiliste. Wie viele? Bei > 200 Dokumenten: Warnung, dass dies Zeit braucht; Angebot, mit einem wesentlichkeitsgefilterten Teilbestand zu beginnen.
+2. **Schema.** Welche Spalten? Zwei Wege:
+   - Nutzer wählt Vorlage aus `references/` (Standard: M&A Due Diligence)
+   - Nutzer beschreibt Spalten in natürlicher Sprache, die dann in das getypte Schema überführt werden
+3. **Ausgabe.** Excel (`.xlsx`) oder CSV — fragen, nicht raten. CSV und Markdown werden immer als Fallback geschrieben.
 
-## Load context
+### Schritt 1: Schema aufbauen und bestätigen
 
-- `~/.claude/plugins/config/claude-for-legal/corporate-legal/CLAUDE.md` → diligence structure, materiality thresholds, house format preferences
-- `~/.claude/plugins/config/claude-for-legal/corporate-legal/deals/[code]/deal-context.md` if working a specific deal
-- An existing schema file if the user has one (`.review-schema.yaml`)
+Spaltenliste des Nutzers in ein strukturiertes Schema überführen. Für jede Spalte: eine stabile `id`, ein menschlicher `label`, ein `typ`, ein `prompt` (die Frage, die ein Reviewer beim Lesen stellen würde), und für `klassifizieren`-Spalten eine `optionen`-Liste.
 
-## The column type system
+Schema als `.review-schema.yaml` neben der Ausgabe speichern. Dem Nutzer zeigen und vor dem Durchlauf bestätigen.
 
-The thing that makes a tabular review useful is that Column C means the same thing in row 1 as in row 200. Free text drifts. Types hold.
+**Spaltentypensystem:**
 
-Every column has a **type** that constrains the answer format:
-
-| Type | What it returns | Use for |
+| Typ | Was er zurückgibt | Verwendung |
 |---|---|---|
-| `verbatim` | Exact quote from the document, character-for-character | Defined terms, operative clause language, anything where the words matter |
-| `classify` | One value from a fixed list you define | Yes/No, present/absent, clause variants (e.g., "sole consent" / "consent not unreasonably withheld" / "silent") |
-| `date` | ISO date | Effective date, expiration, termination notice deadline |
-| `duration` | Number + unit | Term length, notice period, survival period |
-| `currency` | Number + currency code | Caps, thresholds, fees, purchase price references |
-| `number` | Bare number | Counts, percentages, page references |
-| `free` | Short free text summary | Use sparingly — this is the type that drifts. Only when the others genuinely don't fit. |
+| `wörtlich` | Exaktes Zitat aus dem Dokument, zeichengenau | Definitionen, operative Klauselformulierungen, alles wo die Worte zählen |
+| `klassifizieren` | Ein Wert aus einer von Ihnen definierten festen Liste | Ja/Nein, vorhanden/nicht vorhanden, Klauselvarianten (z.B. „alleiniges Zustimmungsrecht" / „Zustimmung nicht ohne sachlichen Grund zu versagen" / „keine Regelung") |
+| `datum` | ISO-Datum | Abschlussdatum, Ablauf, Kündigungsfrist |
+| `dauer` | Zahl + Einheit | Vertragslaufzeit, Kündigungsfrist, Überlebensfrist |
+| `betrag` | Zahl + Währungscode | Haftungsobergrenzen, Schwellenwerte, Honorare |
+| `zahl` | Bloße Zahl | Anzahlen, Prozentsätze, Seitenverweise |
+| `frei` | Kurze Freitextzusammenfassung | Sparsam verwenden — dies ist der Typ, der Inkonsistenz erzeugt. Nur wenn die anderen wirklich nicht passen. |
 
-**The verbatim rule:** Every non-`verbatim` column also captures the exact source quote that supports the answer, as a companion field. The answer in the cell is the interpretation; the quote is the evidence. A `classify` cell that says "consent not unreasonably withheld" is useless without the sentence it came from, because the reviewer's job is to check whether that's the right read.
+**Die Wörtlichkeitsregel:** Jede Nicht-`wörtlich`-Spalte erfasst auch das exakte Quellzitat, das die Antwort stützt, als Begleitfeld. Die Antwort in der Zelle ist die Interpretation; das Zitat ist der Beweis.
 
-## The three states of "not found"
+### Schritt 2: Probedurchlauf
 
-A blank cell hides information. Force one of three explicit states whenever you can't produce a positive answer:
+Nicht 200 Dokumente mit einem ungeprüften Schema durchlaufen. Erst 3–5 Dokumente prüfen. Zeilen dem Nutzer zeigen. Folgendes beachten:
+- Spalten, bei denen die meisten Antworten `unklar` sind — Prompt ist mehrdeutig, umformulieren
+- `klassifizieren`-Spalten, bei denen Antworten nicht in die Optionen passen — Optionen ergänzen oder zu `frei` wechseln
+- `wörtlich`-Spalten, die Paraphrasen zurückgeben — auf zeichengenaue Zitierweise bestehen
 
-| State | Meaning | When to use |
-|---|---|---|
-| `not_present` | The document was read and the clause is not there | You are confident the subject matter isn't addressed |
-| `unclear` | Something is there but you can't classify it confidently | Ambiguous drafting, partial clause, conflicting provisions |
-| `needs_review` | You found something but a human must make the call | Edge case, unusual drafting, the answer depends on a judgment the schema doesn't capture |
+Schema anpassen, Probedurchlauf wiederholen, bestätigen. Dies verhindert einen vollständigen Durchlauf, der verworfen werden muss.
 
-These are three different pieces of information. A deal team handles "the contract is silent on assignment" very differently from "the assignment clause is ambiguous." Collapsing them into one blank cell loses the distinction.
+### Schritt 3: Vollständiger Durchlauf
 
-## Workflow
+Ein Unteragent pro Dokument, parallel. Jeder Unteragent:
 
-### Step 0: What and where
+1. Liest das gesamte Dokument (kein RAG-Chunk — der vollständige Text).
+2. Findet für jede Spalte die relevante Bestimmung.
+3. Gibt eine strukturierte Zeile zurück: für jede Spalte `{wert, zustand, zitat, fundstelle}`.
+   - `wert` ist die getypte Antwort (oder null, wenn `zustand` nicht `beantwortet` ist)
+   - `zustand` ist `beantwortet | nicht_vorhanden | unklar | pruefung_erforderlich`
+   - `zitat` ist der wörtliche Begleittext (exakt, keine Paraphrase, kein Auslassungszeichen innerhalb eines Satzes — beim Kürzen auf Satzgrenzen kürzen und markieren)
+   - `fundstelle` ist wo das Zitat im Dokument steht (Abschnittsnummer, Überschrift, Seite)
 
-Confirm:
-1. **Documents.** Where are they? VDR MCP (Box, Datasite, iManage), local folder, Google Drive folder, or a list of files. How many? If >200, warn that this will take a while and offer to start with a materiality-filtered subset.
-2. **Schema.** What columns? Two paths:
-   - User picks a template from `references/` (M&A diligence standard is the default)
-   - User describes columns in natural language and you structure them into the typed schema
-3. **Output.** Excel (`.xlsx`) or Google Sheets — ask which the team works in. CSV and markdown always written as fallbacks. Output goes to the deal folder, Drive, or wherever the user says.
+**Die Wörtlichkeitsregel ist mechanisch, keine Empfehlung.** Jeder Unteragent muss alle folgenden Punkte erfüllen, bevor er eine Zelle mit `zustand: beantwortet` zurückgibt:
 
-### Step 1: Build and confirm the schema
+- Das `zitat` MUSS eine zeichengenaue Kopie zusammenhängenden Texts aus dem Quelldokument sein, abrufbar an der genannten `fundstelle`. NICHT aus Abschnittsüberschrift plus erwartetem Standardtext zusammensetzen. NICHT paraphrasieren und als wörtlich bezeichnen. NICHT ein Zitat aus der Erinnerung rekonstruieren, wie solche Klauseln „üblicherweise" lauten. NICHT Lücken durch Auslassungszeichen zwischen nicht zusammenhängendem Text überbrücken.
+- Die `fundstelle` muss spezifisch genug sein, dass der Normalisierungsdurchgang das Dokument an derselben Stelle wieder öffnen und denselben Abschnitt lesen kann.
+- Falls der Unteragent den exakten Text nicht finden und kopieren kann (Quelle abgeschnitten, OCR-Fehler, Bestimmung impliziert aber nicht geschrieben, Abschnittsüberschrift sichtbar aber Text nicht geladen): Zellzustand ist `pruefung_erforderlich`, `wert` ist null, und `notizen` MUSS `zitat_nicht_verfügbar: <Grund>` enthalten.
 
-Turn the user's column list into a structured schema. For each column: a stable `id`, a human `label`, a `type`, a `prompt` (the question a reviewer reading the document would ask), and for `classify` columns an `options` list.
+### Schritt 4: Normalisierung
 
-Write it to `.review-schema.yaml` next to the output. This file is the reusable artifact — the user can edit it, add a column, re-run against new documents. Show it to the user and confirm before fanning out.
+Nach dem Durchlauf die gesamte Tabelle spaltenweise lesen. Dies ist der Durchgang, der das Hauptversagen jedes tabellarischen Review-Tools aufdeckt: dieselbe Klausel, inkonsistent über Dokumente hinweg interpretiert.
 
-```yaml
-schema:
-  name: "M&A Diligence — Project [Code]"
-  created: 2026-05-07
-  columns:
-    - id: counterparty
-      label: "Counterparty"
-      type: verbatim
-      prompt: "Who is the contracting party other than the target?"
-    - id: effective_date
-      label: "Effective Date"
-      type: date
-      prompt: "When did the agreement become effective?"
-    - id: change_of_control
-      label: "Change of Control"
-      type: classify
-      options: [silent, consent_required, consent_not_unreasonably_withheld, automatic_termination, notice_only]
-      prompt: "Does the agreement address a change of control of the target? What does it require?"
-    - id: assignment
-      label: "Assignment Restrictions"
-      type: classify
-      options: [silent, consent_required, consent_not_unreasonably_withheld, freely_assignable, assignable_to_affiliates]
-      prompt: "Can the target assign this agreement? What restrictions apply?"
-    # ... more columns
-```
+Für jede `klassifizieren`-Spalte:
+- Prüfen, ob jeder `beantwortet`-Wert in der Optionsliste steht. Ausreißer neu klassifizieren oder auf `pruefung_erforderlich` setzen.
+- Auf Häufungen prüfen: Wenn 180 Dokumente `zustimmungserforderlich` und 20 `keine_regelung` sagen, ist das wahrscheinlich real. Wenn 195 `zustimmungserforderlich` und 5 `frei_übertragbar` sagen, die 5 prüfen.
 
-### Step 2: Sample run
+Für jede `datum`/`dauer`/`betrag`-Spalte:
+- Formatkonsistenz prüfen und normalisieren.
+- Unplausible Werte (`99`-jährige Laufzeit, 1-EUR-Haftungsdeckelung) als `pruefung_erforderlich` flaggen.
 
-Do not fan out to 200 documents on an untested schema. Run 3–5 documents first. Show the user the rows. Look for:
-- Columns where most answers are `unclear` — the prompt is ambiguous, rewrite it
-- `classify` columns where answers don't fit the options — add options or change to `free`
-- `verbatim` columns returning paraphrases — reinforce that it must be character-for-character
+Für Quellzitate — Stichprobe: bei mindestens 3–5 Zeilen pro Spalte (oder 10 %, je nachdem was größer ist) das Quelldokument an der genannten `fundstelle` wieder öffnen und das gespeicherte `zitat` zeichengenau mit dem Quelltext vergleichen. Bei Abweichung: Zelle auf `pruefung_erforderlich` setzen mit `zitat_abweichung` in Notizen, und ganze Spalte auf weiteren Spot-Check ausweiten.
 
-Adjust the schema, re-run the sample, confirm. This saves the user from a full run that has to be thrown out.
+### Schritt 5: Ausgabe
 
-### Step 3: Fan out
-
-One sub-agent per document, in parallel. Each sub-agent:
-
-1. Reads the entire document (not a RAG chunk — the whole thing).
-2. For each column, finds the relevant provision.
-3. Returns a structured row: for each column, `{value, state, quote, location}`.
-   - `value` is the typed answer (or null if `state` is not `answered`)
-   - `state` is `answered | not_present | unclear | needs_review`
-   - `quote` is the verbatim supporting text (exact, no paraphrase, no ellipsis inside a sentence — if you cut, cut at sentence boundaries and mark it)
-   - `location` is where the quote lives (section number, heading, page — whatever the document gives you)
-
-**The quote is not optional, and the verbatim rule is mechanical, not exhortation.** Each sub-agent must comply with all of the following before returning a cell with `state: answered`:
-
-- The `quote` MUST be a character-for-character copy of contiguous text from the source document, retrievable at the `location` the sub-agent cites. Do NOT compose a quote from a section heading plus standard boilerplate you expect to be there. Do NOT paraphrase and call it verbatim. Do NOT reconstruct a quote from memory of how such clauses "usually" read. Do NOT fill gaps in the source with ellipsis-stitching across non-contiguous text.
-- The `location` must be specific enough for the normalization pass to re-open the document and re-read the same span — a section number, heading, or page reference the reviewer can navigate to.
-- If the sub-agent cannot locate and copy the exact text (source truncated, OCR garbage, provision implied but not written, section heading visible but body not loaded), the cell state is `needs_review`, the `value` is null, and `notes` MUST contain `quote_unavailable: <reason>`. It is NEVER acceptable to set `state: answered` with a composed or reconstructed quote.
-- The same rule applies to `verbatim`-typed columns AND to the companion source quotes attached to `classify` / `date` / `duration` / `currency` / `number` / `free` cells. The supporting quote carries the same verbatim obligation as the cell value.
-
-The normalization pass in Step 4 spot-checks this by re-reading the source at the cited `location` and comparing the stored `quote` character-for-character against the source text. A mismatch downgrades the cell to `needs_review`, notes `quote_mismatch`, and flags the whole column for a wider spot-check — if one sub-agent composed a quote, others in the same run may have too.
-
-### Step 4: Normalize
-
-After the fan-out, read the whole table column by column. This is the pass that catches the failure mode of every tabular review tool: the same clause interpreted inconsistently across documents.
-
-For each `classify` column:
-- Check that every `answered` value is in the options list. Outliers get re-classified or bumped to `needs_review`.
-- Check for clusters: if 180 documents say `consent_required` and 20 say `consent_not_unreasonably_withheld`, that's probably real. If 195 say `consent_required` and 5 say `freely_assignable`, look at the 5 — they're either genuinely different or misclassified.
-
-For each `date` / `duration` / `currency` column:
-- Check format consistency. Normalize.
-- Flag implausible values (a 99-year term, a $1 cap) as `needs_review`.
-
-For each `verbatim` column AND for the companion source quotes on every other column:
-- Spot-check by re-opening the source document at the cited `location` for a random sample (at least 3–5 rows per column, or 10% of rows, whichever is larger) and comparing the stored `quote` character-for-character against the source.
-- If any quote is composed, paraphrased, reconstructed, or cannot be located at the cited span: downgrade that cell to `needs_review` with `quote_mismatch` in notes, and flag the whole column — expand the spot-check to the rest of the column rather than assuming the other rows are clean. One fabricated quote is enough to justify widening the check.
-- A cell with `state: answered` and a mismatched quote is a higher-severity failure than an `unclear` or `needs_review` cell — it misrepresents the evidence trail. Downgrade aggressively.
-
-### Step 5: Output
-
-Write the table in three formats:
-
-**Markdown** (always, for in-session review):
+**Markdown** (immer, für sitzungsinterne Prüfung):
 ```markdown
-| Document | Counterparty | Effective Date | Change of Control | Assignment | ⚠️ Flags |
+| Dokument | Gegenpartei | Wirksamkeitsdatum | Change of Control | Abtretung | ⚠️ Flags |
 |---|---|---|---|---|---|
-| Vendor MSA — Acme | Acme Corp | 2023-04-01 | consent_required | consent_required | — |
-| Supply Agmt — Beta | Beta LLC | 2021-11-15 | ⚠️ unclear | silent | CoC ambiguous §14.2 |
+| Lieferanten-MSA — Alpha | Alpha GmbH | 2023-04-01 | zustimmungserforderlich | zustimmungserforderlich | — |
+| Rahmenvertrag — Beta | Beta KG | 2021-11-15 | ⚠️ unklar | keine_regelung | CoC unklar § 14.2 |
 ```
 
-**CSV** (`.csv`, always):
-One file for the values, one companion file for the quotes and locations (`_sources.csv`). Keeps the main file clean and the evidence trail complete.
+**CSV** (`.csv`, immer):
+Eine Datei für die Werte, eine Begleitdatei für Zitate und Fundstellen (`_quellen.csv`). Hält die Hauptdatei übersichtlich und die Beweiskette vollständig.
 
-**Excel** (`.xlsx`) or **Google Sheets** — whichever the user works in. Ask; don't guess. Both follow the same workbook structure (see `references/excel-output.md` and `references/gsheets-output.md`). For Excel: Claude in Excel (Office agent) if available, `openpyxl` fallback. For Sheets: Sheets MCP if available, Sheets API via ADC, CSV-import fallback. In the spreadsheet output:
-- Each data column is paired with a hidden source column containing the quote and location. Cell comments (Excel) or notes (Sheets) on the visible column surface the quote on hover.
-- Color code by state: white = answered, yellow = unclear or needs_review, gray = not_present.
-- A `Verified` column per data column, blank by default. The reviewer marks it. This is the verify/flag pattern that makes the table auditable — the deal team can see at a glance what a human has actually checked.
-- A `_schema` sheet with the column definitions, so the file is self-documenting.
+**Excel** (`.xlsx`) oder **CSV** — je nach Wahl des Nutzers. Im Tabellenformat:
+- Jede Datenspalte ist mit einer verdeckten Quellspalte gepaart, die Zitat und Fundstelle enthält. Zellenkommentare (Excel) oder Notizen zeigen das Zitat beim Überfahren.
+- Farbkodierung nach Zustand: weiß = beantwortet, gelb = unklar oder pruefung_erforderlich, grau = nicht_vorhanden.
+- Eine `Geprüft`-Spalte pro Datenspalte, standardmäßig leer. Der Reviewer markiert sie. Dies ist das Prüf-/Flag-Muster, das die Tabelle prüfbar macht.
+- Ein `_Schema`-Tabellenblatt mit den Spaltendefinitionen, damit die Datei selbstdokumentierend ist.
 
-Prepend the work-product header from the plugin config `## Outputs` as a top row. Alongside it, include a distribution note:
+Arbeitsergebnis-Kopfzeile aus CLAUDE.md als oberste Zeile einfügen. Dazu einen Verteilungshinweis:
 
-> This review is derived from source documents that may be privileged, confidential, or both. It inherits the sources' privilege and confidentiality status — distribution beyond the privilege circle can waive privilege. Store with the matter's privileged files and make distribution decisions deliberately.
+> Dieses Review basiert auf Quelldokumenten, die privilegiert, vertraulich oder beides sein können. Es teilt den Schutzstatus der Quellen — die Verteilung über den Vertraulichkeitskreis hinaus kann das Mandatsgeheimnis (§ 43a Abs. 2 BRAO) beeinträchtigen. Mit den privilegierten Unterlagen des Mandats aufbewahren und Verteilungsentscheidungen bewusst treffen.
 
-### Step 6: Summary
+### Schritt 6: Zusammenfassung
 
-After the table is written, give the user a one-screen readout:
-- Document count, column count, rows completed
-- Count of `not_present`, `unclear`, `needs_review` per column — this is the verification workload
-- Any columns where the normalization pass flagged >10% of rows
-- Where the output files are
-- A reminder: every cell is a lead, not a finding. Verification required before this informs a rep, a schedule, or a memo.
+Nach Fertigstellung der Tabelle eine kompakte Übersicht ausgeben:
+- Dokumentenanzahl, Spaltenanzahl, abgeschlossene Zeilen
+- Anzahl von `nicht_vorhanden`, `unklar`, `pruefung_erforderlich` pro Spalte — das ist die Verifikationsarbeit
+- Spalten, bei denen der Normalisierungsdurchgang > 10 % der Zeilen flaggte
+- Speicherort der Ausgabedateien
+- Hinweis: Jede Zelle ist ein Hinweis, kein Befund. Verifikation erforderlich, bevor dies eine Gewährleistung, einen Anhang oder einen Vermerk informiert.
 
-## Close with the next-steps decision tree
+## Ausgabeformat
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+Strukturierte Tabelle (Markdown in Sitzung, Excel/CSV als Dateien) + Schema-YAML + Zusammenfassungs-Einseiter. Arbeitsergebnis-Kopfzeile und Verteilungshinweis oben.
 
-## What this skill does not do
+## Beispiel
 
-- **It does not replace reading the documents.** It tells you where to look.
-- **It does not produce confidence scores.** A 0.73 is not information. The `unclear` / `needs_review` states and the verbatim quotes are the confidence signal — if the quote doesn't support the value, flag it.
-- **It does not silently skip documents.** Every document the user pointed at gets a row. A document that couldn't be read gets a row of `needs_review` with a note.
-- **It does not pretend a paraphrase is a quote.** The evidence trail is the whole point.
+**Szenario:** GmbH-Anteilskauf, 80 Zielgesellschaftsverträge im Datenraum. Aufgabe: Change-of-Control-Klauseln, Abtretungsverbote und Mindestvertragslaufzeit extrahieren.
 
-## Relationship to other skills
+Nach Probedurchlauf (5 Dokumente): Schema angepasst (CoC-Optionen um „Kündigung bei mittelbarem Kontrollwechsel" ergänzt, wie in BGH KZR 2/07 relevant). Vollständiger Durchlauf: 80 Zeilen, 12 Verträge mit CoC-Klauseln (davon 3 unklare Formulierungen → `pruefung_erforderlich`), 15 Abtretungsverbote, 7 unter § 354a HGB-Vorbehalt.
 
-- `diligence-issue-extraction` finds issues; this extracts data points. If an extraction reveals an issue (a MAC clause that references a specific earnings target, a poison pill), note it and suggest running diligence-issue-extraction on that document.
-- `material-contract-schedule` builds one specific table (the disclosure schedule). It can consume this skill's output directly — the schedule is a filtered, reformatted view of a tabular review.
-- `ai-tool-handoff` hands bulk review to Luminance/Kira when the corpus is too large or the team prefers a dedicated platform. This skill is the in-house option for anything it can handle — run it first, hand off the residue.
+## Risiken und typische Fehler
 
-## Output safeguards
+- **Dokumente überspringen.** Jedes vom Nutzer angegebene Dokument bekommt eine Zeile. Ein nicht lesbares Dokument bekommt eine Zeile `pruefung_erforderlich` mit Notiz.
+- **Paraphrase als Zitat ausgeben.** Die Beweiskette ist der Kernwert. Wörtlichkeitsregel mechanisch umsetzen.
+- **Schema nicht probetesten.** Ein Vollständigkeitsdurchlauf mit einem fehlerhaften Schema wird verworfen. Immer 3–5 Dokumente zuerst.
+- **Konfidenzwerte ausgeben.** Kein numerischer Konfidenzwert. Stattdessen: `unklar`/`pruefung_erforderlich`-Zustände und verbatim-Zitate sind das Konfidenz-Signal.
+- **§ 354a HGB ignorieren.** Abtretungsverbote zwischen Kaufleuten können nach § 354a HGB unwirksam sein — diese Besonderheit in den Schema-Notizen und Normalisierungskommentaren vermerken.
 
-Every output gets the work-product header. Every cell gets a source citation or a flagged state. The summary explicitly says verification is required. The Excel `Verified` column makes the verification state auditable. This is not a tool that lets you skip reading; it's a tool that makes reading faster.
+## Quellenpflicht
+
+Alle rechtlichen Beurteilungen im Schema-Aufbau und in der Normalisierung mit Norm belegen:
+- Abtretungsverbote: `§ 399 BGB`, `§ 354a HGB`
+- Change-of-Control: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
+- Due-Diligence-Pflichten: `BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25`
+- Kommentare: `Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1`
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -1,148 +1,183 @@
 ---
 name: material-contract-schedule
 description: >
-  Build the material contracts disclosure schedule from diligence findings,
-  applying the purchase agreement's Material Contract definition and formatting
-  per the agreement's schedule format. Use when user says "build the contracts
-  schedule", "disclosure schedule", "schedule 3.X", "material contracts list",
-  or when drafting disclosure schedules.
-argument-hint: "[purchase agreement path, or paste the Material Contract definition]"
+  Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus
+  Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats.
+  Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und
+  Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei „Vertragsanhang erstellen",
+  „Disclosure Schedule", „wesentliche Verträge", „Anhang 3.X" oder beim Entwurf von
+  Offenlegungsanhängen im M&A-Kontext.
+language: de
+triggers:
+  - "Vertragsanhang erstellen"
+  - "wesentliche Verträge"
+  - "Disclosure Schedule"
+  - "Material Contracts Schedule"
+  - "Anhang SPA"
+  - "Due Diligence Vertragsverzeichnis"
+  - "Change-of-Control Klauseln"
+  - "Offenlegungsanhang"
+  - "Gewährleistungsanhang"
+argument-hint: "[Pfad zum SPA, oder Definition 'wesentlicher Vertrag' einfügen]"
 ---
 
-# /material-contract-schedule
+# Material-Vertragsverzeichnis (Disclosure Schedule)
 
-1. Load purchase agreement → Material Contract definition + schedule format.
-2. Use the workflow below.
-3. Apply definition to diligence findings. Flag edge cases.
-4. Format per agreement. Consent overlay feeds closing checklist.
+## Zweck
 
----
+Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistung: „Anhang [X] listet alle wesentlichen Verträge der Gesellschaft." Dieser Skill erstellt diesen Anhang aus den Due-Diligence-Erkenntnissen — welche Verträge sind wesentlich im Sinne der SPA-Definition, in dem Format, das der SPA vorschreibt.
 
-## Matter context
+## Eingaben
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/corporate-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/corporate-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+- Unternehmenskaufvertrag (SPA) oder Entwurf davon — für die Definition „wesentlicher Vertrag" und das Anhangformat
+- Due-Diligence-Erkenntnisse aus dem Vertragsreview (vertragsebene Daten)
+- Praxisprofil (CLAUDE.md) → Wesentlichkeitsschwellen (können von der SPA-Definition abweichen — SPA-Definition hat Vorrang)
+- Optional: Bestehende Anhänge im SPA als Formatvorlage
 
----
+## Rechtlicher Rahmen
 
-## Purpose
+**Wesentlichkeit / Disclosure:**
+§§ 443, 444 BGB (Garantien; Haftungsausschluss); §§ 453, 435 BGB (Sachmängelgewährleistung beim Rechtskauf, Unternehmenskauf); § 311 Abs. 2 BGB (culpa in contrahendo; Offenlegungspflichten in der Due Diligence).
 
-The purchase agreement has a rep: "Schedule 3.X lists all Material Contracts." This skill builds that schedule from the diligence findings — which contracts are material per the agreement's definition, in the format the agreement requires.
+**Change-of-Control-Klauseln:**
+BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Auslegung einer Change-of-Control-Klausel; Kündigung bei mittelbarem Kontrollwechsel); BGH, Urt. v. 10.11.2016 – I ZR 193/15, NJW-RR 2017, 877 Rn. 14 (Vertragsübernahme ohne Zustimmung des Schuldners; Grenzen der Abtretbarkeit). Vendor Disclosure: Hat der Verkäufer in einem Vendor Due Diligence Report (VDR) auf eine Tatsache hingewiesen, kann er sich im Rahmen der Gewährleistung hierauf berufen (§ 442 BGB analog; str., vgl. BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25).
 
-## Load context
+**Vertragsregister und Anhangpflichten:**
+§ 15 GmbHG (Abtretung von Geschäftsanteilen — Auswirkung auf Vertragsabschluss); § 40 GmbHG (Gesellschafterliste); §§ 246 ff. HGB (Jahresabschluss, Vollständigkeit); Art. 6 Abs. 1 lit. c DSGVO (Datenverarbeitung in Due Diligence).
 
-- Purchase agreement draft — for the definition of "Material Contract" and the schedule format
-- `~/.claude/plugins/config/claude-for-legal/corporate-legal/CLAUDE.md` → materiality thresholds (may differ from the agreement definition — use the agreement's)
-- Diligence findings from diligence-issue-extraction — contract-level data
+**Kommentarliteratur:**
+Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 15 Rn. 5 ff.; MüKoBGB/Westermann, 9. Aufl. 2022, § 453 Rn. 12 ff. (Unternehmenskauf, Gewährleistung); Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1 ff. (Firmenfortführung und Vertragskontinuität).
 
-## Workflow
+## Ablauf
 
-### Step 1: Get the definition
+### Schritt 1: SPA-Definition ermitteln
 
-Pull the definition of "Material Contract" from the purchase agreement — the PA definition controls. Deal-structure differences (stock vs. asset vs. merger) can change how a prong is interpreted, and regulated-industry overlays (healthcare, defense, financial services, telecom, government contracting) can add consent requirements that live outside the PA. If the deal involves any of those overlays, research the applicable anti-assignment or novation rules (for example, federal contracts, government contracting novation, sector-specific consent statutes) and cite the controlling rule.
+Die Definition „wesentlicher Vertrag" aus dem SPA extrahieren — die SPA-Definition ist maßgeblich, nicht der eigene Schwellenwert aus CLAUDE.md. Bei Abweichungen: SPA-Definition verwenden und die Differenz flaggen.
 
-Common prong categories to look for in the PA definition — these are not a substitute for reading the PA, and the list the PA uses controls:
+Transaktionsstruktur beachten (Share Deal / Asset Deal / Verschmelzung): Bei einem Asset Deal nach §§ 433 ff. BGB sind Zustimmungserfordernisse bei Vertragsübergang nach § 415 BGB anders zu behandeln als beim Share Deal, wo die Gesellschaft mit ihren Verträgen übergeht. Regulierte Branchen (Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, öffentliche Aufträge) können zusätzliche behördliche Zustimmungspflichten begründen — diese sind gesondert zu recherchieren und mit Norm zu belegen.
 
-- Dollar-value threshold (annual or aggregate)
-- Term length
-- Change-of-control or anti-assignment provision
-- Exclusivity or non-compete
-- Top N customer or supplier contracts
-- Real property leases
-- IP licenses (in-bound and out-bound)
-- Related-party agreements
-- Government contracts
-- Contracts outside the ordinary course
+Typische Prüfkategorien aus SPA-Definitionen (kein Ersatz für die tatsächliche SPA-Lektüre):
+- Jahres- oder Gesamtwertschwelle
+- Vertragslaufzeit
+- Change-of-Control- oder Abtretungsbeschränkung
+- Exklusivität oder Wettbewerbsverbot
+- Top-N-Kunden- oder Lieferantenverträge
+- Grundstücksnutzungsverträge (Miet- und Pachtverträge)
+- IP-Lizenzen (in- und outbound)
+- Konzerninterneliche Verträge (Related-Party-Agreements)
+- Öffentliche Aufträge / Vergabeverträge
+- Außerordentliche Verträge (außerhalb des gewöhnlichen Geschäftsbetriebs)
 
-The PA's definition is the test. Apply it mechanically — every contract that meets any prong in the PA's definition goes on the schedule.
+### Schritt 2: Definition auf Due-Diligence-Erkenntnisse anwenden
 
-### Step 2: Apply the definition to the findings
+Für jeden geprüften Vertrag:
 
-For each contract reviewed in diligence:
-
-| Contract | Meets prong(s) | Include |
+| Vertrag | Erfüllte Prüfkriterien | Aufnahme |
 |---|---|---|
-| [name] | [$X+ annual value; CoC provision] | Yes |
-| [name] | [none] | No |
+| [Name] | [Jahreswert > X EUR; CoC-Klausel] | Ja |
+| [Name] | [keines] | Nein |
 
-**Edge cases to flag for human decision:**
-- Contract is $X-1 (just under threshold) but important to the business
-- Contract meets a prong but is being terminated anyway
-- Oral agreements or side letters that may or may not count
+**Grenzfälle zur menschlichen Entscheidung flaggen:**
+- Vertrag liegt knapp unterhalb des Schwellenwerts, ist aber geschäftlich bedeutsam
+- Vertrag erfüllt ein Prüfkriterium, wird aber ohnehin beendet
+- Mündliche Vereinbarungen oder Side Letters, deren Zuordnung zweifelhaft ist
+- Lieferantenverträge mit Exklusivitätsklauseln, die nicht ausdrücklich als „wesentlich" eingestuft wurden
 
-### Step 3: Gather schedule data
+### Schritt 3: Anhangdaten zusammenstellen
 
-For each included contract, the schedule typically needs:
+Für jeden aufzunehmenden Vertrag werden typischerweise benötigt:
 
-| Field | Source |
+| Feld | Quelle |
 |---|---|
-| Counterparty name | Contract |
-| Contract title/type | Contract |
-| Date | Contract |
-| Term / expiration | Contract |
-| Annual/total value | Contract or management data |
-| Which materiality prong it meets | Step 2 analysis |
-| Consent required for the deal | Diligence finding |
-| VDR reference | Diligence inventory |
+| Name der Vertragspartei / Gegenpartei | Vertrag |
+| Vertragsbezeichnung und -typ | Vertrag |
+| Datum | Vertrag |
+| Laufzeit / Ablauf | Vertrag |
+| Jahres- / Gesamtwert | Vertrag oder Unternehmensdaten |
+| Erfülltes SPA-Prüfkriterium | Schritt-2-Analyse |
+| Zustimmungserfordernis für die Transaktion | Due-Diligence-Erkenntnis |
+| Datenraum-Referenz | Due-Diligence-Verzeichnis |
 
-Pull from existing diligence extractions. If a field is missing, flag it — don't guess.
+Aus bestehenden Due-Diligence-Extraktionen ziehen. Fehlende Felder flaggen — nicht schätzen.
 
-### Step 4: Format per the agreement
+### Schritt 4: Format nach SPA
 
-Disclosure schedules have a format — usually a numbered list or a table, sometimes with sub-parts by contract type. Match the format of the other schedules in the draft agreement.
+Offenlegungsanhänge haben ein einheitliches Format — in der Regel eine nummerierte Liste oder Tabelle, teilweise mit Unterabschnitten nach Vertragstyp. Format der anderen Anhänge im SPA-Entwurf übernehmen.
 
 ```markdown
-## Schedule 3.[X] — Material Contracts
+## Anhang [X] — Wesentliche Verträge
 
-The following are the Material Contracts as of the date hereof:
+Die folgenden Verträge sind wesentliche Verträge im Sinne des Kaufvertrags:
 
-### (a) Customer Contracts
+### (a) Kundenverträge
 
-1. [Agreement Title], dated [date], between [Target] and [Counterparty].
-   [Brief description if the format calls for it.]
-   [VDR: path]
+1. [Vertragsbezeichnung], datiert [Datum], zwischen [Zielgesellschaft] und [Gegenpartei].
+   [Kurzbeschreibung, falls das Format eine solche vorsieht.]
+   [Datenraum: Pfad]
 
 2. [...]
 
-### (b) Supplier Contracts
+### (b) Lieferantenverträge
 
 [...]
 
-### (c) Real Property
+### (c) Grundstücksnutzungsverträge
 
 [...]
 
-[etc. — sub-parts per the agreement's definition structure]
+### (d) IP-Lizenzverträge
+
+[...]
+
+[etc. — Unterabschnitte gemäß SPA-Definitionsstruktur]
 ```
 
-### Step 5: Consent tracking overlay
+### Schritt 5: Zustimmungs-Overlay
 
-Separately (not in the schedule itself — this is internal), track which scheduled contracts require consent.
+Separat (nicht im Anhang selbst — dies ist interne Arbeit): Verfolgen, welche Vertragsanhänge Zustimmungen erfordern.
 
-> The consent overlay and any pre-delivery working draft of the schedule are derived from privileged diligence materials and inherit their privilege and confidentiality status — distribution beyond the privilege circle can waive privilege. The schedule itself, once delivered as an exhibit to the executed PA, is a deal document and is not privileged; strip any internal annotations before delivery.
+> Das Zustimmungs-Overlay und jeder Vorentwurf des Anhangs stammen aus privilegierten Due-Diligence-Unterlagen und teilen deren Vertraulichkeitsstatus gemäß § 43a Abs. 2 BRAO. Interne Annotationen vor Übergabe des finalen Anhangs als Vertragsanlage entfernen.
 
-
-| Schedule # | Counterparty | Consent required | Status | Owner | Due |
+| Anhang # | Gegenpartei | Zustimmung erforderlich | Status | Verantwortlich | Frist |
 |---|---|---|---|---|---|
-| 3.X(a)(1) | [name] | Yes — CoC §12.2 | Requested | [name] | [date] |
+| [X](a)(1) | [Name] | Ja — CoC § 12.2 | Angefragt | [Name] | [Datum] |
 
-This feeds closing-checklist.
+Dieses Overlay speist die Abschluss-Checkliste.
 
-## Cross-check
+### Schritt 6: Gegenprüfung
 
-Before delivering:
+Vor Übergabe:
+- Jeder Vertrag, der ein Prüfkriterium erfüllt, ist im Anhang (Vollständigkeit)
+- Kein Vertrag, der kein Prüfkriterium erfüllt, ist im Anhang (kein Over-Disclosure — es ist eine Gewährleistung, kein Datendump)
+- Anhang ist konsistent mit anderen Gewährleistungsanhängen (ein Vertrag in Anhang [X], der ein Pfandrecht begründet, muss auch im Pfandrechtsanhang erscheinen)
+- Jeder Eintrag hat eine Datenraum-Referenz, damit Käuferberater das Ursprungsdokument findet
 
-- Every contract that met a prong is on the schedule (completeness)
-- No contract is on the schedule that doesn't meet a prong (no over-disclosure — it's a rep, not a data dump)
-- Schedule is consistent with the other reps (a contract on Schedule 3.X that creates a lien should also be on the liens schedule)
-- Every entry has a VDR cite so buyer's counsel can find the underlying doc
+## Ausgabeformat
 
-## Handoffs
+- Anhang im SPA-konformen Format (Markdown, übertragbar in Word/PDF)
+- Internes Zustimmungs-Overlay als Tabelle (für Abschluss-Checkliste)
+- Flaggenliste mit Grenzfällen zur menschlichen Entscheidung
 
-- **From diligence-issue-extraction:** Contract-level findings are the input.
-- **To closing-checklist:** Consent items go on the checklist.
+## Beispiel
 
-## What this skill does not do
+**Szenario:** GmbH-Anteilskauf, SPA-Definition wesentlicher Vertrag: Jahreswert > 50.000 EUR ODER Change-of-Control-Klausel ODER IP-Lizenz.
 
-- It doesn't decide the materiality definition — that's in the purchase agreement.
-- It doesn't obtain consents — it tracks which ones are needed.
-- It doesn't draft the rep — it populates the schedule the rep references.
+Due-Diligence-Ergebnis: 127 geprüfte Verträge. 23 erfüllen mindestens ein Kriterium. Anhang [X] enthält 23 Einträge in 4 Unterabschnitten. Zustimmungs-Overlay: 8 Verträge mit CoC-Klauseln → Übergabe an Integrations-Tracker.
+
+## Risiken und typische Fehler
+
+- **Wesentlichkeitsdefinition aus CLAUDE.md statt SPA verwenden.** Die SPA-Definition kontrolliert — immer aus dem Vertragstext lesen.
+- **Over-Disclosure.** Es ist eine Gewährleistung, keine Datenmigration. Nur Verträge aufnehmen, die mindestens ein SPA-Prüfkriterium erfüllen.
+- **Datenraum-Referenzen weglassen.** Jeder Eintrag muss lokalisierbar sein — Käuferberater muss Ursprungsdokument finden können.
+- **Anhang-Konsistenz nicht prüfen.** Ein Vertrag kann mehrere Anhänge berühren (z.B. Hauptkundensvertrag + Pfandrecht + verwandte Partei). Querverweisung notwendig.
+- **Interne Annotationen im Lieferanhang belassen.** Vertraulichkeitsstatus und Arbeitsnotizen vor finaler Übergabe entfernen.
+- **Asset-Deal-Besonderheiten ignorieren.** Bei Asset Deal: § 415 BGB (Schuldübernahme mit Gläubigerzustimmung), §§ 398 ff. BGB (Forderungsabtretung). Change-of-Control-Klauseln können auch bei Share Deals ausgelöst werden — BGH, Urt. v. 29.04.2008 – KZR 2/07.
+
+## Quellenpflicht
+
+Alle rechtlichen Beurteilungen in der Analyse sind mit Norm und ggf. Rechtsprechung zu belegen:
+- Gesetzliche Grundlage: `§§ 443, 444 BGB`, `§ 415 BGB`
+- BGH-Entscheidungen: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
+- Kommentare: `MüKoBGB/Westermann, 9. Aufl. 2022, § 453 Rn. 12`
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

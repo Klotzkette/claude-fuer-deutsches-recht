@@ -1,184 +1,318 @@
 ---
 name: matter-workspace
 description: >
-  Manage matter workspaces — new, list, switch, close, or detach (practice-level).
-  Use when a multi-client practitioner needs to create a matter, switch the active
-  matter, list matters, archive a matter, or detach to practice-level context, or
-  when another skill needs to know which matter it's working in.
-argument-hint: "<new | list | switch | close | none> [slug]"
+  Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln,
+  abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn
+  ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven
+  Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf
+  kanzleiweiten Kontext umschalten möchte.
+language: de
+triggers:
+  - "Mandat anlegen"
+  - "Mandatsakte"
+  - "Mandatswechsel"
+  - "Mandat abschließen"
+  - "Mandatsverwaltung"
+  - "Aktenstruktur"
+  - "Mandatsübersicht"
+  - "neues Mandat"
 ---
 
-# /matter-workspace
+# Mandatsarbeitsbereich Vertragsrecht
 
-Practitioners work across multiple clients and matters. A matter workspace keeps one client or engagement's context separate from every other. This command manages those workspaces.
+## Zweck
 
-## Subcommands
+Anwältinnen und Anwälte arbeiten parallel an mehreren Mandaten. Ein
+Mandatsarbeitsbereich hält den Kontext eines Mandanten oder Auftrags strikt
+von allen anderen getrennt. Diese Skill verwaltet diese Arbeitsbereiche.
 
-- `/commercial-legal:matter-workspace new <slug>` — create a new matter workspace, run a short intake, write `matter.md`
-- `/commercial-legal:matter-workspace list` — list matters with status and active flag
-- `/commercial-legal:matter-workspace switch <slug>` — set the active matter
-- `/commercial-legal:matter-workspace close <slug>` — archive a matter (move to `~/.claude/plugins/config/claude-for-legal/commercial-legal/matters/_archived/`, never delete)
-- `/commercial-legal:matter-workspace none` — detach from any active matter, work at practice-level only
+Lädt, wenn ein Anwalt mit Mehrfach-Mandantenstruktur (Kanzlei, Außenmandate)
+einen Arbeitsbereich anlegen, wechseln, auflisten oder schließen möchte, oder
+wenn eine andere Skill wissen muss, in welchem Mandat sie tätig ist.
 
-## Instructions
+**Standardzustand: deaktiviert.** Für Syndikusrechtsanwältinnen und
+-anwälte (In-house) mit einem einzigen Mandanten/Arbeitgeber läuft das
+Plugin automatisch auf Kanzleiebene. Mandatsarbeitsbereiche werden nur für
+Kanzleien und Berufsanwälte mit Mehrfach-Mandantenstruktur aktiviert.
 
-1. Read `~/.claude/plugins/config/claude-for-legal/commercial-legal/CLAUDE.md` — confirm the `## Matter workspaces` section is populated. If `Enabled` is `✗`, tell the user: "Matter workspaces are off — you're configured as an in-house practice with one client, so the plugin works from practice-level context automatically. If you actually work across multiple clients, re-run `/commercial-legal:cold-start-interview --redo` and select a private-practice setting. Otherwise, you don't need `/matter-workspace` at all." Don't error — the disabled state is the expected one for in-house users.
-2. Use the subcommand logic below.
-3. Dispatch on the first token of `$ARGUMENTS`:
-   - `new` → run the intake interview, write `~/.claude/plugins/config/claude-for-legal/commercial-legal/matters/<slug>/matter.md`, seed `history.md` and `notes.md`.
-   - `list` → enumerate `~/.claude/plugins/config/claude-for-legal/commercial-legal/matters/*/matter.md`, print a table, mark the active matter.
-   - `switch` → update the `Active matter:` line in the practice-level CLAUDE.md.
-   - `close` → move `~/.claude/plugins/config/claude-for-legal/commercial-legal/matters/<slug>/` to `~/.claude/plugins/config/claude-for-legal/commercial-legal/matters/_archived/<slug>/`, log the close date in `history.md`.
-   - `none` → set `Active matter:` to `none — practice-level context only`.
-4. Show the user what changed and confirm before writing.
+## Eingaben
 
-## Notes
+- Unterbefehl: `neu`, `liste`, `wechseln`, `schließen`, `keine`
+- Mandats-Kürzel (Slug): Kurzbezeichnung in Kleinbuchstaben mit Bindestrichen
+  (z. B. `mueller-kaufvertrag-2026`, `meier-agb-prüfung`, `xyz-gmbh-msa`)
+- Für `neu`: Mandantenangaben (Name, Gegenpartei, Vertragsart, Schlüsselfakten)
 
-- The skill never reads across matters unless `Cross-matter context` is `on` in the practice-level CLAUDE.md.
-- Archiving is not deletion — closed matters remain readable for retention/conflicts purposes.
-- Slugs are lowercase with hyphens. If a slug is reused across archived and active, the archived one is preserved under `_archived/<slug>/`.
+## Rechtlicher Rahmen
 
----
+### Kernvorschriften
 
-Multi-client practitioners (private practice — solo, small firm, large firm) work across many matters. Context from one must not leak into another. This skill is the thin file-management layer that makes that true.
+Die Mandatsverwaltung ist untrennbar mit dem anwaltlichen Berufsrecht
+und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
-**Default state is off.** In-house users never see this — they run at practice-level only. Matter workspaces turn on at cold-start for private-practice users, or by editing `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗`, this skill does not run; the workflow above explains the disabled state and suggests `/commercial-legal:cold-start-interview --redo` for users who actually need matter isolation.
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Rechtsanwalts;
+  Mandatsgeheimnis als Kernpflicht
+- § 203 StGB — Verletzung von Privatgeheimnissen; strafrechtlicher Schutz
+  des Mandatsgeheimnisses
+- § 50 BRAO — Handakten; Aufbewahrungspflicht (5 Jahre nach Abschluss
+  des Mandats)
+- § 2 BORA — Grundpflichten; Interessenkonflikte müssen geprüft werden
+  (Mandate gegen frühere Mandanten oder gleichzeitig gegen denselben
+  Mandanten in anderem Verfahren)
+- DSGVO Art. 5, 25 — Datenschutz durch Technikgestaltung; mandatsbezogene
+  personenbezogene Daten dürfen nicht zwischen Mandaten geteilt werden
 
-## Storage layout
+### Leitentscheidungen
 
-All matter data lives under:
+- BGH, Urt. v. 17.02.2011 – IX ZR 198/09, NJW 2011, 1594 Rn. 15
+  (Anwaltliche Verschwiegenheitspflicht; Schadensersatz bei
+  Geheimnisbruch durch Anwalt; § 43a BRAO)
+- BGH, Urt. v. 03.05.2007 – IX ZR 218/05, BGHZ 172, 199 Rn. 22
+  (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
+- BGH, Urt. v. 10.03.1998 – IX ZR 196/97, NJW 1998, 2048 Rn. 10
+  (Interessenkonflikt; gleichzeitige Vertretung widerstreitender Interessen;
+  Nichtigkeitsfolgen für Honorarvereinbarung)
+- BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, BVerfGE 113, 29 Rn. 84
+  (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
 
-```
-~/.claude/plugins/config/claude-for-legal/commercial-legal/
-├── CLAUDE.md                       # practice-level practice profile
-└── matters/
-    ├── <slug>/
-    │   ├── matter.md               # client, counterparty, matter type, key facts, overrides
-    │   ├── history.md              # dated log of events, decisions, drafts, reviews
-    │   ├── notes.md                # free-form working notes
-    │   └── outputs/                # skill outputs for this matter (optional subfolder)
-    └── _archived/
-        └── <slug>/                 # closed matters — readable but not active
-```
+### Kommentarliteratur
 
-Slugs are lowercase with hyphens. Examples: `acme-msa-2026`, `zenith-renewal`, `vendor-xyz-nda`.
+- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff. (Verschwiegenheitspflicht)
+- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 50 Rn. 10 ff. (Handakten und Aufbewahrung)
+- Palandt/Grüneberg, BGB, 83. Aufl. 2024, Einl. vor § 611 Rn. 20 ff.
+  (Anwaltsvertrag; Pflichten im Dienstleistungsverhältnis)
+- BeckOK BRAO/Römermann, 21. Ed. (Stand 01.09.2024), § 43a Rn. 55 ff.
 
-## Active matter is in the practice CLAUDE.md
+## Ablauf
 
-The `Active matter:` line under `## Matter workspaces` in the practice-level CLAUDE.md is the single source of truth. Switching a matter edits that line. No separate state file.
+### Unterbefehle
 
-## Subcommand logic
+- `/vertragsrecht:matter-workspace neu <kürzel>` — neuen Mandatsarbeitsbereich
+  anlegen, kurze Aufnahme durchführen, `mandat.md` schreiben
+- `/vertragsrecht:matter-workspace liste` — alle Mandate mit Status und
+  aktivem Kürzel auflisten
+- `/vertragsrecht:matter-workspace wechseln <kürzel>` — aktives Mandat setzen
+- `/vertragsrecht:matter-workspace schließen <kürzel>` — Mandat archivieren
+  (verschiebt in `_archiv/`, löscht nie)
+- `/vertragsrecht:matter-workspace keine` — von aktivem Mandat trennen,
+  auf Kanzleiebene arbeiten
 
-### `new <slug>`
+### Schritt 1 — Kanzleiprofil prüfen
 
-1. Confirm slug is not already present in `matters/<slug>/` or `matters/_archived/<slug>/`. If reused, ask the user to pick a different slug.
-2. Run the intake interview:
-   - **Client** (the party we represent, or the internal business unit if in-house)
-   - **Counterparty** (the other side — may be multiple)
-   - **Matter type** (read the plugin's practice profile for typical categories; for commercial-legal: vendor MSA | customer agreement | NDA | SaaS subscription | amendment | renewal | other)
-   - **Confidentiality level** (standard | heightened | clean-team — heightened prompts extra care in cross-matter settings)
-   - **Key facts** (2–5 sentences: what this matter is about, who the stakeholders are, what's at stake)
-   - **Matter-specific overrides to the practice playbook** (e.g., "client requires 24-month LoL cap not 12", "counterparty is a strategic partner — relationship-preserving tone")
-   - **Related matters** (slugs of any connected matters)
-3. Write `matters/<slug>/matter.md` using the template below.
-4. Seed `matters/<slug>/history.md` with a single "Opened" entry.
-5. Create an empty `matters/<slug>/notes.md`.
-6. Do **not** auto-switch to the new matter. Ask: "Want to switch to `<slug>` now? (`/commercial-legal:matter-workspace switch <slug>`)"
+Lies `~/.claude/plugins/config/klotzkette/vertragsrecht/CLAUDE.md`. Prüfe
+den Abschnitt `## Mandatsarbeitsbereiche`. Wenn `Aktiviert: ✗`, weise einmal
+darauf hin:
 
-### `list`
+> Mandatsarbeitsbereiche sind deaktiviert — Sie sind als In-house-Praxis
+> mit einem Mandanten konfiguriert; das Plugin arbeitet automatisch auf
+> Kanzleiebene. Wenn Sie tatsächlich mit mehreren Mandanten arbeiten,
+> führen Sie `/vertragsrecht:cold-start-interview --redo` aus und wählen
+> eine Kanzleisetting-Option. Andernfalls benötigen Sie
+> `/matter-workspace` nicht.
 
-Enumerate `matters/*/matter.md`. Read each file's front-matter or first few lines to extract status. Print a table:
+### Schritt 2 — Unterbefehl ausführen
 
-| Slug | Client | Matter type | Status | Opened | Active |
+Auflösung nach dem ersten Token von `$ARGUMENTE`:
+
+- `neu` → Aufnahme durchführen, `mandate/<kürzel>/mandat.md` schreiben,
+  `verlauf.md` und `notizen.md` anlegen
+- `liste` → `mandate/*/mandat.md` aufzählen, Tabelle ausgeben,
+  aktives Mandat markieren
+- `wechseln` → Zeile `Aktives Mandat:` im Kanzleiprofil aktualisieren
+- `schließen` → `mandate/<kürzel>/` nach `mandate/_archiv/<kürzel>/`
+  verschieben, Abschlussdatum in `verlauf.md` eintragen
+- `keine` → `Aktives Mandat:` auf `keine — Kanzleiebene` setzen
+
+### Schritt 3 — Bestätigung vor Schreiben
+
+Dem Nutzer vor jeder Dateiänderung zeigen, was sich ändert, und
+Bestätigung einholen.
+
+### Unterbefehl-Logik: `neu <kürzel>`
+
+1. Prüfen, ob das Kürzel noch nicht in `mandate/<kürzel>/` oder
+   `mandate/_archiv/<kürzel>/` vorhanden ist. Bei Wiederverwendung:
+   anderes Kürzel vorschlagen.
+2. Kurzaufnahme durchführen:
+   - **Mandant** (vertretene Partei oder interne Geschäftseinheit bei In-house)
+   - **Gegenpartei** (andere Seite — kann mehrere sein)
+   - **Vertragsart** (Lieferantenvertrag / Dienstleistungsvertrag / NDA /
+     SaaS-Abonnement / Nachtrag / Verlängerung / Sonstiges)
+   - **Vertraulichkeitsstufe** (Standard / erhöht / Clean-Team)
+   - **Schlüsselfakten** (2–5 Sätze: Gegenstand, Beteiligte, Besonderheiten
+     gegenüber Standardplaybook)
+   - **Mandatsspezifische Abweichungen vom Playbook** (z. B. „Mandant besteht
+     auf 24 Monate Haftungsdeckel statt 12; kooperativer Ton, da strategische
+     Partnerschaft")
+   - **Verwandte Mandate** (Kürzel verbundener Mandate)
+3. `mandate/<kürzel>/mandat.md` nach Vorlage unten schreiben.
+4. `mandate/<kürzel>/verlauf.md` mit einem „Eröffnet"-Eintrag anlegen.
+5. Leere `mandate/<kürzel>/notizen.md` erstellen.
+6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen:
+   „Möchten Sie jetzt zu `<kürzel>` wechseln?"
+
+### Unterbefehl-Logik: `liste`
+
+`mandate/*/mandat.md` aufzählen. Erste Zeilen jeder Datei für Status lesen.
+Tabelle ausgeben:
+
+| Kürzel | Mandant | Vertragsart | Status | Eröffnet | Aktiv |
 |---|---|---|---|---|---|
 
-Mark the currently-active matter with `*`. Include `_archived/*` under a separate "Archived" heading if any exist.
+Aktives Mandat mit `*` markieren. Archivierte Mandate unter
+„Archivierte Mandate" separat aufführen.
 
-### `switch <slug>`
+### Unterbefehl-Logik: `wechseln <kürzel>`
 
-1. Confirm `matters/<slug>/matter.md` exists. If not, offer `/commercial-legal:matter-workspace new <slug>`.
-2. Edit the `Active matter:` line in the practice-level CLAUDE.md to `Active matter: <slug>`.
-3. Show the user the matter.md summary so they can confirm they're on the right matter.
+1. Prüfen, ob `mandate/<kürzel>/mandat.md` existiert. Falls nicht:
+   `/vertragsrecht:matter-workspace neu <kürzel>` anbieten.
+2. `Aktives Mandat:`-Zeile im Kanzleiprofil auf `<kürzel>` setzen.
+3. `mandat.md`-Zusammenfassung anzeigen, damit der Nutzer das richtige
+   Mandat bestätigt.
 
-### `close <slug>`
+### Unterbefehl-Logik: `schließen <kürzel>`
 
-1. Confirm `matters/<slug>/` exists.
-2. Append a "Closed" entry to `matters/<slug>/history.md` with today's date.
-3. Move `matters/<slug>/` → `matters/_archived/<slug>/`.
-4. If the closed matter was the active matter, set `Active matter:` to `none — practice-level context only`.
+1. Vorhandensein von `mandate/<kürzel>/` prüfen.
+2. Abschlusseintrag mit heutigem Datum in `mandate/<kürzel>/verlauf.md` hinzufügen.
+3. `mandate/<kürzel>/` nach `mandate/_archiv/<kürzel>/` verschieben.
+4. War das geschlossene Mandat das aktive, `Aktives Mandat:` auf
+   `keine — Kanzleiebene` setzen.
 
-### `none`
+### Unterbefehl-Logik: `keine`
 
-Set `Active matter:` in the practice-level CLAUDE.md to `none — practice-level context only`. Confirm with the user.
+`Aktives Mandat:` im Kanzleiprofil auf `keine — Kanzleiebene` setzen.
+Mit Nutzer bestätigen.
 
-## `matter.md` template
+## Ausgabeformat
+
+### Vorlage `mandat.md`
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs — differs by role; see `## Who's using this` in the practice-level CLAUDE.md]
+[ARBEITSERGEBNIS-KENNZEICHNUNG — gemäß Kanzleiprofil ## Ausgaben]
 
-# Matter: [Client] — [short description]
+# Mandat: [Mandant] — [Kurzbeschreibung]
 
-**Slug:** [slug]
-**Opened:** [YYYY-MM-DD]
-**Status:** active
-**Confidentiality:** [standard / heightened / clean-team]
+**Kürzel:** [kürzel]
+**Eröffnet:** [JJJJ-MM-TT]
+**Status:** aktiv
+**Vertraulichkeit:** [Standard / erhöht / Clean-Team]
 
 ---
 
-## Parties
+## Parteien
 
-**Client:** [name]
-**Counterparty:** [name(s)]
+**Mandant:** [Name]
+**Gegenpartei:** [Name(n)]
 
-## Matter type
+## Vertragsart
 
-[vendor MSA | customer agreement | NDA | SaaS subscription | amendment | renewal | other — with one-line rationale]
+[Lieferantenvertrag / Dienstleistungsvertrag / NDA / SaaS-Abonnement /
+Nachtrag / Verlängerung / Sonstiges — mit einem Satz Begründung]
 
-## Key facts
+## Schlüsselfakten
 
-[2–5 sentences. What this matter is about. Who the stakeholders are. What's at stake. What makes it different from the default playbook.]
+[2–5 Sätze: Vertragsgegenstand, beteiligte Personen, Risikolage,
+Besonderheiten gegenüber dem Standard-Playbook.]
 
-## Matter-specific overrides
+## Mandatsspezifische Abweichungen vom Playbook
 
-*Any deviation from the practice-level playbook that applies to this matter and only this matter.*
+*Jede Abweichung vom kanzleiweiten Playbook, die nur dieses Mandat betrifft.*
 
-- [e.g., "LoL cap: client requires 24 months, not house standard 12."]
-- [e.g., "Tone: relationship-preserving — counterparty is a strategic partner."]
-- [e.g., "Governing law: must be English law, not Delaware."]
+- [z. B. „Haftungsobergrenze: Mandant besteht auf 24 Monate, nicht
+  Kanzleistandard 12."]
+- [z. B. „Ton: beziehungserhaltend — Gegenpartei ist strategischer Partner."]
+- [z. B. „Gerichtsstand: muss München sein."]
 
-## Related matters
+## Verwandte Mandate
 
-- [slug — one line why related]
+- [Kürzel — ein Satz warum verwandt]
 
-## Notes on confidentiality
+## Vertraulichkeitshinweise
 
-[If heightened or clean-team, describe why. Who may see matter files. Whether cross-matter context is permissible even if globally on.]
+[Bei erhöhter Vertraulichkeit oder Clean-Team: Begründung, wer Einsicht hat,
+ob mandatsübergreifender Kontext trotz globaler Einstellung unzulässig ist.]
 ```
 
-## `history.md` seed
+### Vorlage `verlauf.md` (Seed)
 
 ```markdown
-# History: [Client] — [short description]
+# Verlauf: [Mandant] — [Kurzbeschreibung]
 
-Append-only event log. Most recent at top.
+Append-only Ereignisprotokoll. Aktuellster Eintrag oben.
 
 ---
 
-## [YYYY-MM-DD] — Matter opened
+## [JJJJ-MM-TT] — Mandat eröffnet
 
-Intake completed. Slug: `[slug]`. Status: active.
-[Any initial context worth preserving beyond matter.md — e.g., "Opened in response to inbound MSA draft from [counterparty]."]
+Aufnahme abgeschlossen. Kürzel: `[kürzel]`. Status: aktiv.
+[Anfangskontext — z. B. „Eröffnet auf eingehenden MSA-Entwurf von
+[Gegenpartei]."]
 ```
 
-## Cross-matter context
+## Ablagestruktur
 
-The practice-level CLAUDE.md has a `Cross-matter context:` flag. When it's `off` (the default), a skill working in matter A **never reads** files in `matters/B/` for any other `B`. Period. This is the confidentiality guarantee the setting exists to provide.
+```
+~/.claude/plugins/config/klotzkette/vertragsrecht/
+├── CLAUDE.md                       # Kanzleiprofil
+└── mandate/
+    ├── <kürzel>/
+    │   ├── mandat.md               # Mandantenangaben, Schlüsselfakten, Abweichungen
+    │   ├── verlauf.md              # Datiertes Protokoll (Ereignisse, Entscheidungen, Entwürfe)
+    │   ├── notizen.md              # Freie Arbeitsnotizen
+    │   └── ausgaben/               # Skill-Ausgaben für dieses Mandat (optional)
+    └── _archiv/
+        └── <kürzel>/               # Geschlossene Mandate — lesbar, nicht aktiv
+```
 
-When it's `on`, a skill may read files across matter folders only when the user explicitly asks it to (e.g., "compare our position on liability caps across the last five vendor matters"). Even when `on`, the default is to load only the active matter unless the user asks for a cross-matter view.
+Kürzel sind Kleinbuchstaben mit Bindestrichen. Beispiele:
+`mueller-kaufvertrag-2026`, `meier-agb-pruefung`, `xyz-gmbh-nda`.
 
-## What this skill does not do
+## Mandatsübergreifender Kontext
 
-- **Run a conflicts check.** Conflicts are the practitioner's/firm's job; the intake captures what the user declares.
-- **Enforce retention.** Closing archives a matter; it does not delete. Retention policy is out of scope.
-- **Auto-route outputs.** The substantive skill decides where to write; this skill tells it *which folder* is active, not what to put in it.
-- **Decide whether cross-matter is appropriate.** It reads the flag and obeys.
+Das Kanzleiprofil enthält eine `Mandatsübergreifender-Kontext:`-Option.
+Standardmäßig `aus` — eine Skill, die in Mandat A arbeitet, liest **nie**
+Dateien aus `mandate/B/`. Das ist die Vertraulichkeitsgarantie.
+
+Bei `ein` darf eine Skill mandatsübergreifend lesen **nur** auf ausdrückliche
+Nutzeranfrage. Auch dann gilt: Standardmäßig nur aktives Mandat laden,
+es sei denn, der Nutzer fragt explizit nach einer mandatsübergreifenden Ansicht.
+
+## Beispiel
+
+**Szenario:** Kanzlei übernimmt Prüfung eines IT-Dienstleistungsvertrags
+für Mandantin GmbH gegen Lieferant X.
+
+```
+/vertragsrecht:matter-workspace neu mueller-it-vertrag-2026
+```
+
+Kurzaufnahme ergibt:
+- Mandant: Müller GmbH
+- Gegenpartei: IT-Lieferant X GmbH
+- Vertragsart: Dienstleistungsvertrag
+- Besonderheit: Mandant besteht auf unbeschränkter Gewährleistung für
+  datenschutzkritische Komponenten
+
+Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
+„Gewährleistung: kein Verjährungsverkürzung für Datenschutz-Komponenten."
+
+## Risiken und typische Fehler
+
+- **Kein Interessenkonflikt-Check.** Diese Skill führt keine automatische
+  Konfliktprüfung durch — das ist Aufgabe des Anwalts. Die Aufnahme erfasst,
+  was der Nutzer erklärt; sie ersetzt keine Prüfung nach § 43a BRAO, § 3
+  BORA.
+- **Löschen ist verboten.** Abschließen bedeutet Archivieren. Keine
+  Mandatsakte wird gelöscht — Aufbewahrungspflicht nach § 50 BRAO (5 Jahre).
+- **Kürzel-Kollision prüfen.** Wird ein Kürzel eines archivierten Mandats
+  wiederverwendet, das archivierte Mandat unter `_archiv/<kürzel>/` belassen.
+- **Mandatsübergreifender Kontext bleibt aus.** Wenn nicht explizit
+  eingeschaltet, niemals Dateien eines anderen Mandats lesen.
+
+## Quellenpflicht
+
+Bei mandatsspezifischen Hinweisen zur Vertraulichkeit oder Aufbewahrung:
+- § 43a Abs. 2 BRAO (Verschwiegenheit), § 50 BRAO (Handakten)
+- BGH, Urt. v. 17.02.2011 – IX ZR 198/09, NJW 2011, 1594
+- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

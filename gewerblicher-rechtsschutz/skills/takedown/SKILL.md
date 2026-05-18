@@ -1,447 +1,359 @@
 ---
 name: takedown
 description: >
-  Draft a DMCA takedown notice, triage one you received, or draft a §512(g)
-  counter-notice. Use when asserting copyright through a §512(c)(3) takedown
-  with the fair-use and perjury gates, when an incoming takedown needs triage
-  into comply / counter / engage / ignore options, or when drafting a
-  §512(g)(3) counter-notice with the consent-to-federal-jurisdiction gate.
-argument-hint: "<--send | --respond | --counter> [context or path to incoming notice]"
+  Abmahnungsunterstützung und Meldeverfahren bei Urheberrechtsverletzungen im
+  Internet — Notice-and-Take-Down nach §§ 7 ff. TMG/DDG, DSA Art. 16
+  Meldeverfahren, Störerhaftung und Gegendarstellung. Lädt bei der Erstellung
+  einer Meldung an einen Hostprovider, der Triagierung einer eingegangenen
+  Meldung oder der Formulierung einer Gegendarstellung.
+language: de
+triggers:
+  - "Take-Down Meldung"
+  - "Notice and Take Down Deutschland"
+  - "Hostprovider Haftung"
+  - "DSA Meldung"
+  - "Störerhaftung"
+  - "Urheberrechtsverletzung Internet"
+  - "Plattform Meldeverfahren"
+  - "Gegenvorstellung Meldung"
+  - "§ 7 TMG DDG Haftung"
 ---
 
-# /takedown
+# Notice-and-Take-Down / Meldeverfahren
 
-Three modes. Pick one:
+## Zweck
 
-- `/ip-legal:takedown --send` — draft a §512(c)(3) takedown notice. Fair-use gate (*Lenz*) + loud perjury / §512(f) gate before delivery.
-- `/ip-legal:takedown --respond` — triage a takedown someone sent you. Options: comply / counter / engage / ignore.
-- `/ip-legal:takedown --counter` — draft a §512(g)(3) counter-notice. Loud gate for the federal-jurisdiction admission and the perjury statement.
+Diese Skill deckt drei Handlungsmodi ab:
 
-## Instructions
+- `--senden` — Meldung an einen Hostprovider nach §§ 7 ff. TMG/DDG (Notice-and-Take-Down) sowie ggf. DSA Art. 16 formulieren
+- `--reagieren` — eingegangene Meldung triagieren: Entfernen / Gegenvorstellung / Verhandeln / Ignorieren
+- `--gegenvorstellung` — Gegenvorstellung an die Plattform nach eigenem gutem Glauben formulieren
 
-1. **Read the practice profile.** Load `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`. If it contains `[PLACEHOLDER]` markers or does not exist, stop and say: "This plugin needs setup before it can give you useful output. Run `/ip-legal:cold-start-interview` — the takedown skill depends on your approval matrix and practice profile."
+Kein Modus sendet automatisch. Die Skill entwirft; der Rechtsanwalt prüft und versendet.
 
-2. **Check matter workspaces.** Per `## Matter workspaces`: if `Enabled` is `✗`, skip. If enabled and there is no active matter, ask: "Which matter is this for? Run `/ip-legal:matter-workspace switch <slug>` or say `practice-level`."
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-3. **Dispatch on `$ARGUMENTS`:**
-   - `--send` → run send mode (below). Walk identify-the-work, identify-the-infringing-material, fair-use gate (*Lenz*), good-faith belief, accuracy/authority, draft the §512(c)(3) notice, run the loud gate, write output.
-   - `--respond` → run respond mode (below). Read the incoming notice, assess (license, fair use, defects, host §512(g) compliance, sender credibility), present the four options, recommend, write the triage memo.
-   - `--counter` → run counter mode (below). Confirm the predicate (taken down in response to a §512 notice, good-faith belief of mistake/misidentification, ready for federal-jurisdiction admission, attorney in the loop), draft the §512(g)(3) counter-notice, run the loud gate, write output.
-   - No flag → ask once: "Are we sending a DMCA takedown, triaging one we received, or drafting a counter-notice?"
+## Eingaben
 
-4. **Respect the gates.** In `--send` and `--counter`, the loud gate runs before any final output is written. The fair-use gate in `--send` is separate and runs earlier; "debatable" or "likely" fair use stops the draft and routes to attorney review.
+Befehlsargument:
+- `--senden` + Kontext oder Pfad zur Meldungsunterlage
+- `--reagieren` + Pfad zur oder eingefügte eingegangene Meldung
+- `--gegenvorstellung` + Kontext
+- (kein Argument) → fragen: „Sollen wir eine Meldung senden, auf eine eingegangene reagieren oder eine Gegenvorstellung formulieren?"
 
-5. **Jurisdiction note.** DMCA §512 is US federal law. If the service provider, content, or infringer sits outside US jurisdiction, flag before drafting — you may need an EU DSA notice, UK OSA notice, or local-regime instrument instead of (or in addition to) a DMCA notice.
+## Rechtlicher Rahmen
 
-6. **Hand off where appropriate.** `--respond` with a counter-notice recommendation chains into `/ip-legal:takedown --counter` — but only after the triage memo has been reviewed and the decision to counter has been made deliberately.
+### Kernvorschriften
 
-## Examples
+**Haftung des Hostproviders / Vermittlerdienstleister:**
+- **§ 7 Abs. 1 DDG / § 7 Abs. 1 TMG (§ 10 TMG a.F.)** — Kein Hostprovider ist verpflichtet, gespeicherte Inhalte zu überwachen; erst nach Kenntnis von konkreter Rechtsverletzung entsteht Handlungspflicht (Reaktionspflicht nach BGH-Rspr.)
+- **§ 10 DDG / § 10 TMG** — Haftungsprivileg für Hostprovider: Haftung erst bei Kenntnis und Nichtentfernen nach Hinweis (Notice-and-Take-Down-Mechanismus)
+- **Art. 16 DSA (Digital Services Act, EU 2022/2065)** — Meldeverfahren für Plattformen mit mehr als 45 Mio. monatlichen Nutzern in der EU; einheitliches Meldeformular-Format; Reaktionspflicht; Beschwerdemechanismus
+- **Art. 17 DSA** — Begründungspflicht der Plattform bei Inhaltsmoderation; Gegenvorstellungsrecht
+- **§ 97 UrhG** — Unterlassungs- und Schadensersatzanspruch bei Urheberrechtsverletzung; Grundlage für Abmahnung
 
-```
-/ip-legal:takedown --send
-/ip-legal:takedown --respond ~/Downloads/youtube-takedown-notice.pdf
-/ip-legal:takedown --counter
-/ip-legal:takedown
-```
+**Störerhaftung:**
+- Störerhaftung: Wer willentlich und adäquat kausal zur Rechtsverletzung eines Dritten beiträgt, haftet als Störer auf Unterlassung (nicht Schadensersatz). Prüfungspflichten müssen zumutbar sein.
+- **§ 8 DDG** — Durchleitungsdienstleister: kein Haftungsprivileg-Verlust bei bloßer Durchleitung; keine Überwachungspflicht
 
-## Notes
+**NetzDG / weitere:**
+- **§§ 1–3 NetzDG** — Plattformpflichten bei Hassrede und sonstigen strafbaren Inhalten; spezialgesetzliche Entfernungspflicht unabhängig vom allgemeinen Notice-and-Take-Down
 
-- The outgoing notice and counter-notice do not carry the work-product header. Internal drafts, fair-use analyses, and triage memos do.
-- §512(c)(3) and §512(g)(3) are element-by-element statutes — every required element must be present or the notice is defective.
-- Counter-notices consent to federal court jurisdiction in the claimant's district (or a designated district for non-US subscribers). This is not a formality.
-- Non-lawyer users get a one-page brief for the attorney conversation before the gate clears — particularly important for counter-notices, which are the step before litigation.
+### Leitentscheidungen
 
----
+- BGH, Urt. v. 11.03.2004 – I ZR 304/01, BGHZ 158, 236 (Internet-Versteigerung I) — Grundlegend: Störerhaftung des Online-Marktplatzes; zumutbare Prüfungspflichten; Haftung erst nach Hinweis auf konkrete Rechtsverletzung
+- BGH, Urt. v. 30.04.2020 – I ZR 115/16, GRUR 2020, 738 (YouTube / Uploaded) — Haftung von Hostprovider für Urheberrechtsverletzungen; Reaktionspflicht nach qualifiziertem Hinweis; kein generelles Overblocking
+- BGH, Urt. v. 12.07.2012 – I ZR 18/11, GRUR 2013, 370 (Alone in the Dark) — Take-Down bei Filesharing; Zumutbarkeit der Prüfungspflicht
+- BGH, Urt. v. 22.07.2010 – I ZR 139/08, GRUR 2011, 152 (Rolex/Stiftung Warentest) — Störerhaftung; Abmahnungserfordernis vor gerichtlichem Vorgehen; Wiederholungsgefahr
+- EuGH, Urt. v. 22.06.2021 – C-682/18, C-683/18, GRUR 2021, 1054 (YouTube/Cyando) — Kommunikation an die Öffentlichkeit; Kenntnis und Kontrolle als Haftungsvoraussetzung für Plattformen
 
-## Purpose
+### Kommentare
 
-The DMCA §512 notice-and-takedown system is fast, cheap, and consequential in equal measure. A takedown is a sworn statement under penalty of perjury that gets content pulled with no judicial review. A counter-notice is another sworn statement that consents to federal jurisdiction and puts the content back. Both decisions can become litigation. This skill handles all three moves with the guardrails each warrants.
+- Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 2.1 ff. (Unterlassungsanspruch; Störerhaftung)
+- Schricker/Loewenheim/Leistner/Ohst, UrhG, 6. Aufl. 2020, § 97 Rn. 1 ff. (Unterlassung und Schadensersatz)
+- Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2023, § 10 TMG Rn. 1 ff. (Hostprovider-Haftung, Notice-and-Take-Down)
+- BeckOK InfoMedienR/Martini, 44. Ed. (Stand 01.05.2025), Art. 16 DSA Rn. 1 ff. (Meldeverfahren)
 
-Three modes:
+## Ablauf
 
-- `--send` — draft a §512(c)(3) takedown notice
-- `--respond` — triage a takedown someone sent you; produce options
-- `--counter` — draft a §512(g)(3) counter-notice
+### Modus `--senden`: Meldung an Hostprovider / Plattform
 
-If the user does not pass a flag, ask once: "Are we sending a DMCA takedown, triaging one we received, or drafting a counter-notice?"
+#### Schritt 1: Geschütztes Werk identifizieren
 
-> **External deliverables (send and counter modes):** the outgoing notice/counter-notice goes to the service provider's designated agent. Do NOT include the `PRIVILEGED & CONFIDENTIAL — ATTORNEY WORK PRODUCT` header on the outgoing document. The notice itself is not privileged — it's a statement made in a statutory process. Internal drafts, pre-send briefs, fair-use analyses, and triage memos keep the header per plugin config `## Outputs`.
-
-## Jurisdiction assumption
-
-DMCA §512 is **US federal law**. It runs against service providers subject to US jurisdiction. Other jurisdictions have their own notice-and-action regimes — EU Digital Services Act Art. 16, UK Online Safety Act, India IT Rules 2021, etc. — that differ materially in required elements, counter-notice mechanics, and liability for misuse. If the service provider, content, or infringer sits outside US jurisdiction, flag it — a US DMCA notice may be the wrong instrument, or may need to be paired with a local regime's notice. Copyright subsistence itself is Berne-multilateral, but enforcement mechanics are jurisdiction-specific.
-
-## Load context
-
-- `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md` → `## IP practice profile` (copyright registrations if any), `## Enforcement posture` → `Approval matrix → DMCA takedown (ordinary)` row, `## Outputs` (work-product header, role), `## Who's using this` (role — lawyer vs. non-lawyer)
-- **Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (in-house default), skip matter machinery. If enabled and no active matter, ask: "Which matter? Run `/ip-legal:matter-workspace switch <slug>` or say `practice-level`." Write outputs to the active matter's folder at `~/.claude/plugins/config/claude-for-legal/ip-legal/matters/<matter-slug>/takedown/<slug>/` (or `takedown/<slug>/` at practice level). Never read another matter's files unless `Cross-matter context` is `on`.
-
-## Send mode — drafting a §512(c)(3) takedown notice
-
-### Step 1: Identify the copyrighted work
-
-> What is the copyrighted work?
+> Um eine Meldung zu formulieren, werden folgende Angaben benötigt:
 >
-> - **Title / description** — what is the work (software, image, text, video, audio)?
-> - **Registration status** — US Copyright Office registration number and date (if any). Registration is NOT required to send a takedown, but it is required to file suit on a US work and its pre-infringement timing controls statutory damages and fees.
-> - **Ownership** — do we own it outright, or hold an exclusive license with takedown authority? (Non-exclusive licensees typically cannot send takedowns on the licensor's work.)
-> - **Prior licensing** — have we ever licensed this use, or a broader use that might cover it?
+> - **Bezeichnung / Beschreibung des Werkes** — was ist es (Software, Bild, Text, Video, Audio)?
+> - **Rechtsinhaber** — wem gehören die Rechte? Eigentümer, ausschließlicher Nutzungsrechtinhaber, oder Auftraggeber nach § 69b UrhG (Arbeitnehmer-Softwarewerk)?
+> - **Nachweis der Rechtsinhaberschaft** — Urheberschaft, Lizenz, Auftrag
+> - **Frühere Lizenzen** — wurde die beanstandete Nutzung jemals gestattet (Vertrag, Creative-Commons-Lizenz, stillschweigende Erlaubnis)?
 
-Ownership and authority are the first things §512(f) cases look at. Get them clearly on the record before drafting.
+Rechtsinhaberschaft und Verfügungsberechtigung sind die ersten Punkte, die ein Hostprovider und ein Gericht prüfen.
 
-### Step 2: Identify the infringing material and its location
+#### Schritt 2: Verletzungsmaterial und Fundort identifizieren
 
-> Where is the infringing material?
->
-> - **Platform / service provider** — YouTube, Twitter/X, GitHub, Reddit, Amazon, a web host, etc.
-> - **URL(s)** — specific permalinks to the infringing material. One notice can cover multiple URLs if they're all from the same service.
-> - **Description** — what is the infringing material and how does it infringe (verbatim copy, substantially similar, derivative)?
-> - **Screenshots / evidence** — preserved with timestamp and URL visible
+> - **Plattform / Diensteanbieter** — YouTube, Instagram, GitHub, Amazon, ein Webhoster etc.
+> - **URL(s)** — konkrete, direkte Links zum beanstandeten Inhalt
+> - **Beschreibung** — was ist die Verletzung (identische Kopie, wesentlich ähnlich, abgeleitetes Werk ohne Lizenz)?
+> - **Beweissicherung** — Screenshot mit sichtbarer URL und Zeitstempel; ggf. Web-Archivierung (archive.org)
 
-§512(c)(3) requires "information reasonably sufficient to permit the service provider to locate the material." URLs alone are usually enough; be precise.
+§ 97 UrhG und das Notice-and-Take-Down-System verlangen hinreichend genaue Bezeichnung, damit der Diensteanbieter den Inhalt auffinden und beurteilen kann.
 
-### Step 3: Fair-use gate
+#### Schritt 3: Zulässigkeitsprüfung (Freie Nutzung, Schranken)
 
-Under *Lenz v. Universal Music Corp.*, 801 F.3d 1126 (9th Cir. 2015), a copyright holder must consider fair use before sending a takedown. This is not a judgment about fair use — it is a consideration step that the sender must take and can prove they took.
+Vor der Meldung sind Urheberrechtsschranken zu prüfen. Eine Meldung auf schrankengemäße Nutzungen schädigt den Diensteanbieter und kann Schadensersatzansprüche (§ 826 BGB, § 97a Abs. 4 UrhG analog) auslösen.
 
-Ask:
+Prüfen nach §§ 44a ff. UrhG:
 
-> Before we draft the notice, walk through fair use. Under *Lenz*, you have to consider it before sending — even if the conclusion is "not fair use." The four factors:
->
-> 1. **Purpose and character** — commercial? transformative? criticism, comment, news reporting, teaching, scholarship, research?
-> 2. **Nature of the copyrighted work** — factual or creative? published or not?
-> 3. **Amount and substantiality** — how much of the work is used? is it the heart of the work?
-> 4. **Effect on the market** — does the use substitute for the original or harm a derivative market?
->
-> Your read on each? And your conclusion — fair use unlikely, debatable, likely?
+- **§ 51 UrhG — Zitat:** Kritik, Rezension, wissenschaftliche Auseinandersetzung — legitim, wenn Zitatzweck erkennbar und Umfang verhältnismäßig
+- **§ 49 UrhG — Presseprivileg:** Übernahme von Tagesaktualitäten; eng begrenzt
+- **§ 44a UrhG — Vorübergehende Vervielfältigungen:** Technisch-funktionale Zwischenspeicherung
+- **§ 60a ff. UrhG — Bildung und Wissenschaft:** Unterricht, Wissenschaft, öffentliche Einrichtungen; begrenzt
+- **§ 24 UrhG — Freie Benutzung (aufgehoben):** Seit 7.6.2021 durch Unionsrecht ersetzt; Parodie, Karikatur, Pastiche jetzt über § 51a UrhG
 
-Record the answer in the notice file. If "debatable" or "likely," do not draft. Stop and route to attorney review: "Fair use is debatable/likely on these facts. Sending a takedown on a use that is protected by fair use is the exact §512(f) exposure the statute creates. Route this to counsel before any notice goes out."
+Wenn Schrankennutzung **wahrscheinlich oder zweifelhaft**: Entwurf stoppen, an Rechtsanwalt verweisen. Eine Meldung auf geschützte Meinungsäußerungen ist das genaue Szenario, das zu einer Gegenreaktion berechtigt.
 
-### Step 4: Good-faith belief
+#### Schritt 4: Guter Glaube und Vertretungsberechtigung
 
-§512(c)(3)(A)(v) requires "a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law."
+- Ist der Nutzer der Rechtsinhaber oder von ihm bevollmächtigt?
+- Wurde die Nutzung direkt geprüft (nicht nur aus zweiter Hand)?
+- Wurden bestehende Lizenzen und Gestattungen überprüft?
 
-The sender forms this belief on the record. Have they:
+Wenn ja auf alle Punkte: Guter Glaube ist begründbar.
 
-- Confirmed the work is theirs (or they have takedown authority via exclusive license)?
-- Confirmed the use is not licensed (no prior deal, no implied license, no Creative Commons grant that would cover it)?
-- Considered fair use (Step 3)?
-- Reviewed the accused content directly (not just a report about it)?
+#### Schritt 5: Meldung formulieren
 
-If yes on all four, the good-faith belief is colorable. If no on any, pause.
+Erforderliche Elemente (nach BGH-Rspr. und DSA Art. 16):
 
-### Step 5: Accuracy and agent authority
+1. **Identifikation der Rechtsinhaberin** — Name, Adresse, E-Mail; Bevollmächtigter falls zutreffend
+2. **Bezeichnung des geschützten Werkes** — Titel, Typ, ggf. Registrierungsnummer (Urheberrecht entsteht formfrei nach § 7 UrhG; Registrierung ist kein Anspruchsvoraussetzung)
+3. **Genaue Fundort-URL(s)** des beanstandeten Inhalts
+4. **Beschreibung der Verletzung** — worin konkret die Verletzung besteht
+5. **Erklärung guten Glaubens** — keine Berechtigung der Nutzung durch Inhaber, seinen Bevollmächtigten oder das Gesetz
+6. **Genauigkeitserklärung** — Angaben sind nach bestem Wissen zutreffend
+7. **Bitte um Entfernung**
 
-§512(c)(3)(A)(vi) requires "a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed."
+DSA Art. 16 Plattformen: Meldung über das behördlich bereitgestellte Formular oder den plattformeigenen Meldepfad einreichen. Plattform ist zur Bestätigung und Begründung verpflichtet (Art. 17 DSA).
 
-This is the perjury statement. It applies to the accuracy of the identification and the authority — not to the fair-use determination itself, though §512(f) liability reaches both.
-
-Confirm signer: who is sending this on behalf of whom, and do they have authority to do so?
-
-### Step 6: Draft the notice
-
-§512(c)(3)(A) elements — every one must be present:
-
-1. **Signature** (physical or electronic) of the rights holder or authorized agent
-2. **Identification of the copyrighted work** — "Copyrighted work: [title, description, registration no. if any]"
-3. **Identification of the infringing material** with location information — "Infringing material: [URL(s), description, how it infringes]"
-4. **Contact information** — address, phone, email of the complaining party or agent
-5. **Good-faith belief statement** — verbatim, adapted: "I have a good faith belief that use of the copyrighted material described above is not authorized by the copyright owner, its agent, or the law."
-6. **Accuracy and authority statement under penalty of perjury** — verbatim, adapted: "I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed."
-
-Structure:
-
-- Sender address block / date
-- Recipient: designated DMCA agent at [service provider] (find via Copyright Office's DMCA Designated Agent Directory — `https://www.copyright.gov/dmca-directory/`)
-- Re: Notice of Copyright Infringement pursuant to 17 U.S.C. §512(c)
-- The six elements above, numbered or clearly set apart
-- Signature line
-
-Most service providers publish a preferred form or a web intake (YouTube Content ID / Copyright webform, Twitter / X copyright report, GitHub DMCA repo, etc.). The skill produces the notice content; the user submits through the provider's path. Note in the output which intake path is expected for the named service provider.
-
-### Step 7: The loud gate before delivery
+#### Schritt 6: Warnhinweis vor Versand
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  BEFORE THIS TAKEDOWN GOES ANYWHERE                         │
+│  VOR DEM VERSAND DIESER MELDUNG                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  A DMCA takedown is a statement under penalty of perjury.   │
-│  Signing and sending it is not a routine administrative     │
-│  step — it is a sworn declaration with specific legal       │
-│  consequences.                                              │
+│  Eine Notice-and-Take-Down-Meldung hat unmittelbare         │
+│  rechtliche Wirkung. Unberechtigt eingereichte Meldungen    │
+│  können Schadensersatzansprüche des Diensteanbieters        │
+│  oder des betroffenen Nutzers auslösen (§§ 823, 826 BGB;   │
+│  Art. 17 Abs. 8 DSA für Missbrauch des Meldeverfahrens).   │
 │                                                             │
-│  • 17 U.S.C. §512(f) creates LIABILITY for knowing          │
-│    material misrepresentations. People have been sued,      │
-│    and have lost, for bad-faith takedowns — *Lenz v.        │
-│    Universal*, 801 F.3d 1126 (9th Cir. 2015); *Online       │
-│    Policy Group v. Diebold*, 337 F. Supp. 2d 1195 (N.D.     │
-│    Cal. 2004); *Stephens v. Clash*, 796 F.3d 281 (3d        │
-│    Cir. 2015).                                              │
+│  Vor dem Versand bestätigen:                                │
 │                                                             │
-│  • The accuracy and authority statement is sworn under      │
-│    penalty of perjury. That is a real statement, not a      │
-│    formality.                                               │
+│    1. Sie sind Rechtsinhaber oder bevollmächtigt.           │
+│    2. Die beanstandete Nutzung ist nicht gestattet —        │
+│       Lizenzen, Schranken und Gestattungen wurden           │
+│       geprüft.                                              │
+│    3. Schranken (§§ 44a ff. UrhG, insb. Zitat § 51,        │
+│       Parodie § 51a) sind nicht einschlägig.                │
+│    4. Die versendende Person hat Genehmigung gemäß          │
+│       Mandatsprofil.                                        │
 │                                                             │
-│  • Sending a takedown on material that is in fact           │
-│    licensed, owned by someone else, or fair use is the      │
-│    fact pattern §512(f) was written for.                    │
-│                                                             │
-│  Confirm before the notice leaves:                          │
-│                                                             │
-│    1. You own the copyright, or you hold an exclusive       │
-│       license with takedown authority.                      │
-│    2. The accused use is not authorized — you have          │
-│       checked licenses, grants, and any prior consents.     │
-│    3. You considered fair use per *Lenz* (see Step 3 of     │
-│       this draft); your conclusion is on the record.        │
-│    4. Whoever has authority to sign approves sending.       │
-│                                                             │
-│  Approver per your practice profile: [approver from         │
-│  Enforcement posture → Approval matrix → DMCA takedown      │
-│  (ordinary) row]                                            │
-│                                                             │
-│  Automatic escalations that apply here: [list any from      │
-│  the practice profile that this matter triggers]            │
+│  Genehmigung gemäß Mandatsprofil: [Genehmigende Person]    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-If the user is a non-lawyer (per `## Who's using this`), add:
+### Modus `--reagieren`: Eingegangene Meldung triagieren
 
-> A DMCA takedown is sworn under penalty of perjury and creates §512(f) exposure for bad-faith or overbroad use. Have you reviewed this with an attorney? If not, here's a brief to bring to them: [generate a short summary: work, ownership, accused use, licensing check, fair-use analysis, signer, service provider]. A few thousand dollars of attorney time now is materially cheaper than a §512(f) suit.
->
-> If you need to find a licensed attorney, solicitor, barrister, or other authorised legal professional in your jurisdiction: your professional regulator's referral service (state bar in the US, SRA/Bar Standards Board in England & Wales, Law Society in Scotland/NI/Ireland/Canada/Australia, or your jurisdiction's equivalent); ABA IP section referral roster (US); law school IP clinics for individual creators and small businesses.
+Der eigene Inhalt wurde von einer Plattform entfernt oder ein Diensteanbieter hat eine Meldung übermittelt.
 
-Do not write the final output without explicit engagement with the gate.
+#### Schritt 1: Meldung lesen
 
-### Step 8: Output
+Extrahieren:
 
-**Primary:** `<matter-folder>/takedown/<slug>/notice-v<N>.md` (or .docx if the service provider accepts it — most accept pasted text or web-form submission). The notice content, ready to paste into the service provider's DMCA intake form or send to its designated agent.
+- **Absender** — Entität, Unterzeichner, ggf. anwaltliche Vertretung
+- **Diensteanbieter** — welche Plattform hat informiert?
+- **Beanstandetes Werk** — was behauptet der Absender als sein Recht?
+- **Unser Inhalt** — welche URL(s) / welcher Inhalt wurde beanstandet?
+- **Datum** der Meldung und ggf. Entfernung
+- **Formelle Vollständigkeit** — enthält die Meldung alle erforderlichen Elemente? (Fehler erhöhen die Möglichkeit einer Gegenvorstellung)
 
-**In-chat:** show the notice as plain text for review before writing. Iterate before committing to disk.
+#### Schritt 2: Bewertung
 
-**Reviewer-facing closing note** (in the in-chat preview only):
+- **Liegt eine Lizenz vor?** Vertraglich, stillschweigend, Creative Commons, vorherige Einigung
+- **Greift eine Schranke?** Zitat (§ 51 UrhG), Parodie/Pastiche (§ 51a UrhG), Bildung (§ 60a ff. UrhG)
+- **Hat die Meldung formelle Mängel?** Fehlende Elemente, fehlende Genehmigungserklärung, unklare Rechtsinhaberschaft? Mangelhafte Meldungen sind keine ordnungsgemäßen Meldungen; die Plattform darf trotzdem handeln — aber das Durchsetzungsrisiko des Absenders steigt.
+- **Hat die Plattform ordnungsgemäß reagiert?** Wurde uns nach Art. 17 DSA eine Begründung übermittelt?
+- **Absender-Glaubwürdigkeit:** Wiederholte Meldungen auf vergleichbare Inhalte? Erkennbares Muster von Overblocking?
 
-> This is a draft DMCA notice for attorney review, not a notice ready to send. Sending it is a sworn statement with §512(f) exposure. A licensed attorney reviews, edits, and takes professional responsibility before submission. Do not send this unreviewed.
+#### Schritt 3: Vier Optionen präsentieren
 
-**Citation verification.** Any case or statutory citation included (for example, in internal memoranda around the notice) must be verified on a legal research tool. Source-tag each — `[Westlaw]`, `[CourtListener]`, `[user provided]`, `[model knowledge — verify]`, `[web search — verify]`. Citations tagged `verify` get checked first. No silent supplement from web or model knowledge if a configured research tool comes up thin — present options to the user.
+**A — Entfernung akzeptieren**
+- Wenn: Meldung berechtigt oder Aufwand des Widerspruchs unverhältnismäßig
+- Abwägung: Inhalt bleibt offline; SEO-Effekt; Sperren-Konto-Risiko bei Plattformen mit Wiederholungssystem
+- Nächster Schritt: Vorgang dokumentieren; keine Gegenvorstellungs-Frist versäumen
 
-**Post-send record.** After submission, write `<matter-folder>/takedown/<slug>/submission.md`: service provider, designated agent used (address or web form URL), date submitted, confirmation ID if returned, URLs targeted, counter-notice watch date (generally 10–14 business days), legal hold refreshed.
+**B — Gegenvorstellung einlegen**
+- Wenn: guter Glaube, dass Inhalt rechtmäßig war — Lizenz, Schranke, fehlendes Eigentumsrecht des Absenders
+- Abwägung: Inhalt bleibt gesperrt bis Plattform entscheidet; bei DSA: Beschwerdemechanismus (Art. 20) und außergerichtliche Beilegung (Art. 21) verfügbar; Eskalationsrisiko
+- Nächster Schritt: `/gewerblicher-rechtsschutz:takedown --gegenvorstellung`
 
-## Respond mode — triaging a takedown you received
+**C — Absender direkt kontaktieren**
+- Wenn: Spielraum für einvernehmliche Lösung (Lizenzierung, Namensnennung, Teilentfernung)
+- Abwägung: Inhalt bleibt gesperrt während der Gespräche; Vertraulichkeit von Verhandlungen beachten (§ 278 ZPO-Analogie)
+- Nächster Schritt: Anschreiben an Absender; Gegenvorstellung bis Einigung zurückstellen
 
-Your content was taken down. A service provider has notified you of a §512(c)(3) notice. You have options.
+**D — Ignorieren / auf anderem Weg verfolgen**
+- Wenn: Schaden gering, kein Interesse an Gerichtsstand-Einräumung, Absender separat adressieren
+- Abwägung: Inhalt bleibt gesperrt; § 97 UrhG kann ggf. beim Absender selbst geltend gemacht werden bei unberechtigter Meldung
 
-### Step 1: Read the notice you received
+Empfehlung mit zwei Sätzen Begründung.
 
-Extract:
-
-- **Sender** — entity, signer, address, email
-- **Service provider** — who notified you (the platform)
-- **Claimed work** — what they say is theirs
-- **Your content alleged to infringe** — URL(s) or identifiers as they named them
-- **Date of takedown / notice**
-- **Whether the notice appears to meet §512(c)(3) on its face** — flag missing elements; a defective notice is not a proper notice
-
-### Step 2: Assess
-
-- **Do we have a license?** Negotiated, implied, Creative Commons, prior settlement, assignment — anything that authorizes the use.
-- **Is it fair use?** Walk the *Lenz* four factors. Be honest; this is for us, not the response.
-- **Is the notice defective?** Missing any of the §512(c)(3)(A) elements, lacking the perjury statement, signed by someone without apparent authority? Defective notices are not properly compliant; the host may still act on them but the sender's §512(f) exposure rises and our leverage rises.
-- **Did the host comply properly with §512(g)?** Were we given notice and an opportunity to counter? If the host acted without giving us the chance, that is a separate issue with the host (not the sender).
-- **Is the sender a troll?** Repeat pattern of overbroad takedowns on this platform?
-
-### Step 3: Options
-
-Present 4 options with tradeoffs:
-
-**A — Comply (let the takedown stand)**
-- When: they're right, or the fight isn't worth it
-- Tradeoff: content stays down; may affect SEO, accounts with strikes policies, livelihood for creators
-- Next step: log the event, confirm no counter-notice deadline issues, move on
-
-**B — Send a counter-notice** (§512(g)(3))
-- When: we have a good-faith belief the material was misidentified or removed by mistake — often applies where the use is licensed, fair use, or the sender doesn't own the work
-- Tradeoff: sworn under penalty of perjury, consents to federal court jurisdiction in the sender's district (or our own if outside the US and we designate), puts the decision in the sender's hands for 10–14 business days — if they sue, content stays down; if they don't, content is restored
-- Next step: `/ip-legal:takedown --counter`
-
-**C — Engage the sender directly**
-- When: there's room for a business resolution (license, credit, takedown of a narrower portion)
-- Tradeoff: the content stays down during the conversation; settlement-communication hygiene matters (FRE 408 or equivalent; protection from substance and context, not labeling)
-- Next step: outreach letter to the sender; do not send the counter-notice while discussions are live
-
-**D — Ignore and let it stand; raise it elsewhere**
-- When: the harm is small, we don't want the federal-jurisdiction admission, and we'd rather deal with the sender separately
-- Tradeoff: content stays down; if the takedown itself was bad-faith, we may have §512(f) to assert on our own schedule — but that's its own fight
-
-Recommend one with two sentences of rationale.
-
-### Step 4: Write triage memo
-
-Output: `<matter-folder>/takedown/inbound/<slug>/triage.md`.
+#### Schritt 4: Triagierungsvermerk schreiben
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs]
+[ARBEITSERGEBNIS-KOPFZEILE]
 
-> **Privilege inheritance.** This triage records our first-pass assessment of an adverse takedown. It is attorney-client and/or work-product material. Do not forward outside the privilege circle or attach to counter-notice submissions without scrubbing.
+# Eingegangene Meldung — Triagierung
 
-# DMCA Takedown Received — Triage
+**Kurzzeichen:** [kurzzeichen]
+**Eingegangen:** [JJJJ-MM-TT]
+**Plattform:** [Name]
 
-> **READ FOR TRIAGE, NOT OPINION.** Structured intake scan, not a legal merit opinion. Every authority flagged for SME verification; every merit call is counsel's.
+## Die Meldung
 
-**Slug:** [slug]
-**Received:** [YYYY-MM-DD]
-**Service provider:** [platform]
-**Incoming file:** [path]
+**Absender:** [Entität, Unterzeichner, Anwaltsbüro falls vorhanden]
+**Beanstandetes Werk:** [Titel, Beschreibung]
+**Unser Inhalt:** [URLs / Identifikatoren]
+**Datum der Entfernung:** [JJJJ-MM-TT]
+**Formelle Vollständigkeit der Meldung:** [ja / nein — fehlende Elemente auflisten]
 
-## The notice
+## Bewertung
 
-**Sender:** [entity, signer, counsel if any]
-**Claimed work:** [title, description, reg no. if provided]
-**Our content targeted:** [URLs / identifiers]
-**Date of takedown:** [YYYY-MM-DD]
-**Notice meets §512(c)(3) on its face:** [yes / no — list any missing elements]
+**Lizenz / Genehmigungscheck:** [Ergebnis]
+**Schrankenprüfung (§§ 51, 51a, 60a ff. UrhG):** [Ergebnis — jede Schranke + Schluss; `[SME VERIFIZIEREN]`]
+**Formelle Mängel der Meldung:** [Liste oder keine]
+**DSA-Begründung durch Plattform:** [erhalten / nicht erhalten]
+**Absender-Glaubwürdigkeit:** [Einschätzung]
 
-## Assessment
+## Optionen
 
-**License / authorization check:** [read]
-**Fair use walkthrough (Lenz factors):** [read — each factor + conclusion; `[SME VERIFY]`]
-**Notice defects:** [list or none]
-**Host compliance with §512(g):** [were we given notice and opportunity]
-**Sender credibility:** [troll / real claimant / repeat takedown pattern]
+### A. Entfernung akzeptieren
+### B. Gegenvorstellung
+### C. Absender kontaktieren
+### D. Ignorieren
 
-## Options
+**Empfehlung:** [A/B/C/D] — [zwei Sätze] — `[SME VERIFIZIEREN: Anwalt bestätigt vor Ausführung]`
 
-### A. Comply
-### B. Counter-notice (§512(g)(3))
-### C. Engage sender
-### D. Ignore
+## Fristen
 
-**Recommendation:** [A/B/C/D] — [two sentences why] — `[SME VERIFY: counsel to confirm before executing]`
+- **Beschwerdefrist DSA Art. 20:** 6 Monate nach Entscheidung der Plattform
+- **Außergerichtliche Beilegung DSA Art. 21:** Verfügbar bei nicht-gütlicher Einigung
+- **Vertragliche Fristen mit Plattform:** [prüfen]
 
-## Deadlines
+## Sofortmaßnahmen
 
-- **Counter-notice watch window:** 10–14 business days after counter-notice is submitted — content stays down if sender files suit in that window
-- **Sender's suit filing timing:** typically on our counter-notice clock, if we counter
-- **Any contractual deadlines with the host:** [check]
-
-## Immediate actions
-
-- [ ] Legal hold issued on the accused work and our related content — [yes/no]
-- [ ] Business impact assessed (revenue, account strikes, SEO) — [yes/no]
-- [ ] Matter created in log — [yes/no/TBD]
-- [ ] Counsel assigned — [who]
+- [ ] Beweissicherung des beanstandeten Inhalts durchgeführt — [ja/nein]
+- [ ] Geschäftliche Auswirkung bewertet — [ja/nein]
+- [ ] Mandat im Verlaufsprotokoll erfasst — [ja/nein/TBD]
+- [ ] Rechtsanwalt beauftragt — [wer]
 ```
 
-Close the in-chat presentation with:
+### Modus `--gegenvorstellung`: Gegenvorstellung an Plattform
 
-> This is a triage memo, not advice. The assessments above are a first read from the four corners of the notice. An attorney evaluates before you counter-notice (which consents to federal jurisdiction) or decide not to respond.
+#### Schritt 1: Voraussetzungen prüfen
 
-## Counter mode — drafting a §512(g)(3) counter-notice
+- Inhalt wurde aufgrund einer Meldung (nicht aufgrund von AGB-Verstoß) entfernt
+- Es besteht guter Glaube, dass die Entfernung unberechtigt war (Lizenz, Schranke, fehlende Rechtsinhaberschaft des Absenders)
+- Entscheidung wurde bewusst getroffen — nicht reaktiv
 
-Counter-notices put content back up unless the original sender sues within 10–14 business days. They are the step before litigation.
+#### Schritt 2: Gegenvorstellung formulieren
 
-### Step 1: Confirm the predicate
+Erforderliche Elemente:
 
-- The content was taken down in response to a §512 notice (not a terms-of-service action by the host).
-- You have a good-faith belief the material was removed by mistake or misidentification — the statutory test.
-- You are prepared to consent to federal court jurisdiction in the original sender's district (or designate if you are outside the US).
-- The decision has been made deliberately — not in reaction, not without attorney input.
+1. **Identifikation des betroffenen Inhalts** — URL des entfernten Inhalts
+2. **Erklärung des guten Glaubens** — Inhalt war rechtmäßig, weil: [Lizenz / Schranke / fehlendes Recht des Absenders]
+3. **Begründung** — konkrete Darlegung
+4. **Antrag auf Wiederherstellung**
+5. **Kontaktdaten**
 
-### Step 2: Draft per §512(g)(3)
+Bei DSA-Plattformen: Beschwerdemechanismus nach Art. 20 DSA nutzen; ggf. außergerichtliche Streitbeilegung nach Art. 21 DSA.
 
-§512(g)(3) elements — every one must be present:
-
-1. **Signature** (physical or electronic) of the subscriber
-2. **Identification of the material removed** and its location before removal (the URL where the content was)
-3. **Statement under penalty of perjury that the subscriber has a good faith belief the material was removed or disabled as a result of mistake or misidentification** — verbatim, adapted
-4. **Subscriber's name, address, telephone number** — and, critically, **consent to the jurisdiction of the federal district court** for the district where the subscriber's address is located (or, if outside the US, any district in which the service provider may be found), and acceptance of service of process from the person who provided notification or that person's agent
-
-Structure:
-
-- Subscriber address block / date
-- Recipient: designated DMCA agent at the service provider (same agent that received the original takedown)
-- Re: Counter-Notification pursuant to 17 U.S.C. §512(g)
-- The four elements above, numbered or clearly set apart
-- Signature line
-
-### Step 3: The loud gate before delivery
+#### Schritt 3: Warnhinweis vor Versand
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  BEFORE THIS COUNTER-NOTICE GOES ANYWHERE                   │
+│  VOR DEM VERSAND DIESER GEGENVORSTELLUNG                    │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│  A DMCA counter-notice is a statement under penalty of      │
-│  perjury AND consents to federal court jurisdiction. It     │
-│  is the step before litigation.                             │
+│  Eine Gegenvorstellung bestreitet die Berechtigung          │
+│  der ursprünglichen Meldung und kann den Absender zu        │
+│  rechtlichen Schritten veranlassen.                         │
 │                                                             │
-│  • If the original claimant files suit within 10–14         │
-│    business days after your counter-notice, the content     │
-│    stays down pending the suit. 17 U.S.C. §512(g)(2)(C).    │
+│  • Bei Eskalation durch den Absender: Klage auf             │
+│    Unterlassung oder Schadensersatz nach § 97 UrhG          │
+│    möglich.                                                 │
 │                                                             │
-│  • If they do not sue within the window, the host must      │
-│    restore the content within 14 business days of your      │
-│    counter-notice.                                          │
+│  • DSA Art. 20: Beschwerde bei Plattform möglich.           │
+│    Art. 21: Außergerichtliche Streitbeilegung verfügbar.    │
 │                                                             │
-│  • You are consenting to be sued in federal court in the    │
-│    claimant's judicial district (or, if you are outside     │
-│    the US, designating a district). This is a jurisdiction  │
-│    admission you make by signing.                           │
+│  Vor dem Versand bestätigen:                                │
+│    1. Guter Glaube besteht — Lizenz, Schranke oder          │
+│       fehlendes Recht des Absenders ist konkret             │
+│       benennbar.                                            │
+│    2. Anwalt hat diese Gegenvorstellung vor dem             │
+│       Versand geprüft.                                      │
+│    3. Genehmigung gemäß Mandatsprofil liegt vor.            │
 │                                                             │
-│  • The perjury statement is real. §512(f) liability runs    │
-│    in both directions — senders and counter-senders.        │
-│                                                             │
-│  Confirm before the counter-notice leaves:                  │
-│                                                             │
-│    1. The material was removed in response to a §512        │
-│       notice (not a TOS action).                            │
-│    2. You have a good-faith belief the removal was a        │
-│       mistake or misidentification — because the use is     │
-│       licensed, fair use, not actually infringing, or the   │
-│       sender doesn't own the work.                          │
-│    3. You are prepared to be sued in federal court in the   │
-│       claimant's district. Budget, counsel, and risk        │
-│       tolerance are all set.                                │
-│    4. An attorney has reviewed this before it is sent.      │
-│                                                             │
-│  Approver per your practice profile: [approver from         │
-│  Enforcement posture → Approval matrix — counter-notices    │
-│  generally route above the DMCA takedown (ordinary)         │
-│  approver because of the federal-jurisdiction admission]    │
+│  Genehmigung gemäß Mandatsprofil: [Genehmigende Person]    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-If the user is a non-lawyer:
+## Ausgabeformat
 
-> A counter-notice consents to federal court jurisdiction and is sworn under penalty of perjury. Have you reviewed with a licensed attorney, solicitor, barrister, or other authorised legal professional in your jurisdiction? This is not the Claude-review layer; this is the step where you need licensed professional judgment. Brief for the conversation: [generate a 1-page summary]. Referral resources: your professional regulator's referral service (state bar in the US, SRA/Bar Standards Board in England & Wales, Law Society in Scotland/NI/Ireland/Canada/Australia, or your jurisdiction's equivalent); law school IP clinics; ABA IP section (US).
+- `--senden`: Meldungsentwurf (Klartext, zum Einreichen über plattformeigenen Meldepfad oder per E-Mail an Diensteanbieter). Im Chat zur Überprüfung zeigen, bevor auf Disk gespeichert.
+- `--reagieren`: Triagierungsvermerk mit Arbeitsergebnis-Kopfzeile; privilegiert und vertraulich.
+- `--gegenvorstellung`: Gegenvorstellungsentwurf (Klartext). Im Chat zur Überprüfung zeigen.
 
-Do not write the final output without explicit engagement.
+Abschlusssatz (in-Chat-Vorschau): *„Dies ist ein Entwurf zur anwaltlichen Prüfung, kein versandfertiges Schreiben. Ein Rechtsanwalt prüft, bearbeitet und übernimmt fachliche Verantwortung vor dem Versand."*
 
-### Step 4: Output
+## Beispiel
 
-**Primary:** `<matter-folder>/takedown/<slug>/counter-notice-v<N>.md` — the counter-notice content, ready to submit via the service provider's counter-notice intake.
+**Eingabe:** `/gewerblicher-rechtsschutz:takedown --senden` — Fotograf meldet unerlaubte Nutzung seines Fotos auf einer Nachrichtenwebsite.
 
-**In-chat:** present as plain text for review before committing.
+**Auszug Meldungsentwurf:**
 
-**Reviewer-facing closing note** (in-chat only):
+> An: [Name Diensteanbieter / Hostprovider]
+> Betreff: Meldung einer Urheberrechtsverletzung nach § 7 Abs. 2 DDG
+>
+> Sehr geehrte Damen und Herren,
+>
+> ich bin Rechtsinhaber / bevollmächtigte Vertreterin für folgendes urheberrechtlich geschütztes Werk:
+> Fotografie „[Bildtitel]", aufgenommen am [Datum], Urheber [Name] (§ 7 UrhG).
+>
+> Dieses Werk wird auf Ihrer Plattform ohne Genehmigung genutzt unter:
+> [URL]
+>
+> Die Nutzung ist weder durch mich noch durch Dritte gestattet. Schranken nach §§ 44a ff. UrhG greifen nach Prüfung nicht ein. Ich bitte um unverzügliche Entfernung des genannten Inhalts.
+>
+> Ich erkläre nach bestem Wissen und Gewissen, dass die vorstehenden Angaben zutreffend sind und ich berechtigt bin, im Namen des Rechtsinhabers zu handeln.
+>
+> [Kontaktdaten / Unterschrift]
 
-> This is a draft counter-notice for attorney review, not a counter ready to send. Sending it is a sworn statement and consents to federal court jurisdiction in the claimant's district. A licensed attorney reviews before submission. Do not send this unreviewed.
+## Risiken und typische Fehler
 
-**Post-submission record.** After submission, write `<matter-folder>/takedown/<slug>/counter-submission.md`: service provider, date submitted, confirmation ID, 10–14 business-day watch window end date calendared, watch for suit filing in the claimant's district, plan if content is restored, plan if suit is filed.
+- **Schrankenprüfung versäumen:** Meldungen auf zitiergeschützte Kritik, Parodien oder Unterrichtsmaterial sind unzulässig und können Gegenansprüche auslösen.
+- **Unklare Rechtsinhaberschaft:** Meldung ohne Nachweis der Berechtigung scheitert beim Hostprovider und erzeugt Haftungsrisiken.
+- **DSA-Pflichten übersehen:** Große Plattformen (Very Large Online Platforms nach Art. 33 DSA) sind zu förmlichen Reaktionen und Begründungen verpflichtet; diese Pflichten können eingefordert werden.
+- **Gegenvorstellung ohne Anwaltsrat:** Die Gegenvorstellung bestreitet die Meldung; eine unbegründete Gegenvorstellung kann zur eigenen Unterlassungsklage führen.
+- **NetzDG-Spezialregeln vergessen:** Bei Hassrede und strafbaren Inhalten gelten §§ 1–3 NetzDG mit eigenem Melde- und Entfernungsregime.
 
-## Decision posture
+## Quellenpflicht
 
-Per `## Decision posture on subjective legal calls` in the practice profile: when uncertain whether the use is fair, whether the rights holder is us, whether the work is actually ours, whether fair use defeats the claim on the receiving side — do not silently decide. Fair use is the paradigmatic uncertain call. Flag for attorney review; surface the factors. Sending a takedown or a counter-notice on an assumption is a one-way door.
+Alle Aussagen zu Haftung, Schranken und Verfahren müssen belegbar sein:
 
-## What this skill does not do
-
-- **Submit the notice.** Drafting only. The user submits through the service provider's designated channel.
-- **Pick a service provider's intake form for the user.** Notes which path is expected; does not auto-submit.
-- **Decide fair use.** Walks the four factors; flags. An attorney decides whether to proceed.
-- **Validate the sender's claim on the receive side.** Structured read; every authority flagged for SME verification.
-- **Bypass the gate.** The gate runs every time in `--send` and `--counter` modes.
-- **Invent citations.** Any cites included are source-tagged and flagged for verification; no silent supplement.
-- **Handle non-US regimes.** DMCA is US-specific. For EU DSA, UK OSA, India IT Rules, and other regimes — flag and route.
+- **Gesetze:** §§ 7, 10 DDG (entspr. TMG); §§ 51, 51a, 97 UrhG; Art. 16, 17, 20, 21 DSA; §§ 1–3 NetzDG
+- **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Hostprovider-Haftung oder Störerhaftung (BGH BGHZ 158, 236 oder BGH GRUR 2020, 738)
+- **Kommentar:** Spindler/Schuster eMedienR oder Köhler/Bornkamm/Feddersen UWG mit § und Randnummer
+- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.

@@ -1,136 +1,186 @@
 ---
 name: ramp
 description: >
-  Student semester onboarding — clinic procedures, tool walkthrough, practice
-  exercises before real cases. Reads the handbook the professor uploaded at
-  setup and teaches it interactively. Use when a new clinic student says
-  "onboard me", "I'm new to the clinic", "getting started", or at the start of
-  each semester; pass --card for the one-page reference.
-argument-hint: "[--card for the one-page reference]"
+  Semester-Onboarding für neue studentische Berater — Einführung in die
+  Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und
+  Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor
+  hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer
+  studentischer Berater „Onboarding starten", „ich bin neu in der Klinik",
+  „Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für
+  die einseitige Referenzkarte.
+language: de
+triggers:
+  - "Onboarding starten"
+  - "ich bin neu in der Klinik"
+  - "Einführung Rechtsberatungsstelle"
+  - "RDG Schulung"
+  - "studentischer Berater Einarbeitung"
+  - "Semesterstart"
+  - "neue Kohorte"
+  - "Beratungsstelle kennenlernen"
+  - "was darf ich als Student"
 ---
 
-# /ramp
+# Einarbeitung: Semester-Onboarding
 
-1. Check `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` is set up. If placeholders: "Ask [professor] to run `/legal-clinic:cold-start-interview` first."
-2. Use the walkthrough below.
-3. Walk through: clinic context (from handbook) → commands → practice exercises (fake intake, practice draft, research roadmap) → verification habits.
-4. `--card`: generate the one-page reference card.
+## Zweck
 
-```
-/legal-clinic:ramp
-```
+Jedes Semester verliert die Rechtsberatungsstelle ihre gesamte studentische Belegschaft und baut sie neu auf. Neue Studierende müssen Verfahrensabläufe, Mandatsverwaltung, Einreichungskonventionen und Rechtsgebiet-Grundlagen kennenlernen, bevor sie produktiv arbeiten können. Traditionell kostet das Wochen mit PDF-Lektüre und immer wiederkehrenden Fragen an den Supervisor.
 
-```
-/legal-clinic:ramp --card
-```
+Diese Skill ist der geführte Walkthrough. Sie liest, was der Supervisor beim Kalt-Start hinterlegt hat — das Handbuch, Einreichungsanleitungen, Verfahrensregeln — und vermittelt es interaktiv, mit Übungsaufgaben in einem sicheren Rahmen, bevor ein echter Mandant betroffen ist.
 
----
+**Zielgruppe: Studierende.** Supervisoren nutzen `/kalt-start-interview`.
 
-# Ramp: Semester Onboarding
+## Eingaben
 
-## Purpose
+Keine aktiven Eingaben — die Skill liest die Klinik-Konfiguration (CLAUDE.md) und das hinterlegte Handbuch.
 
-Every semester, the clinic loses its entire workforce and rebuilds from scratch. New students need to learn procedures, case management, filing conventions, and practice-area basics before they're useful. Traditionally that takes weeks of reading PDFs and asking the professor the same questions every semester.
+Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: „Die Beratungsstelle ist noch nicht eingerichtet. Bitten Sie [Supervisor] zuerst `/kalt-start-interview` auszuführen."
 
-This skill is the guided walkthrough. It reads what the professor uploaded during cold-start — the handbook, the filing guides, the local rules — and teaches it interactively, with practice exercises so students try the tools in a low-stakes setting before a real client is on the line.
+## Rechtlicher Rahmen
 
-**Audience: students.** Professors don't run this (they run `/cold-start-interview`).
+### Kernvorschriften für das Onboarding
 
-## Load context
+- **§ 6 Abs. 1 RDG** — Unentgeltliche Rechtsdienstleistung: Studierende dürfen im Rahmen der Rechtsberatungsstelle Rechtsberatung erbringen, soweit sie unentgeltlich erfolgt und unter Aufsicht eines Rechtsanwalts/einer Rechtsanwältin steht.
+- **§ 6 Abs. 2 RDG** — Aufsichtspflicht des begleitenden Rechtsanwalts/der begleitenden Rechtsanwältin: Die Aufsichtsperson muss zur Rechtsanwaltschaft zugelassen sein; die Aufsicht muss inhaltlich effektiv sein (kein Formalia-Supervisor).
+- **§ 43a Abs. 2 BRAO, § 203 Abs. 3 StGB** — Mandatsgeheimnis und Verschwiegenheitspflicht: Gilt sinngemäß für Studierende als berufsmäßig tätige Gehilfen. Alle Mandantendaten, Fallnotizen und Korrespondenz sind vertraulich. Kein Austausch über Mandate außerhalb der Beratungsstelle.
+- **§§ 1, 2 BerHG** — Beratungshilfe: Häufig in der Mandatsarbeit relevant; Studierende müssen wissen, wann ein Beratungshilfe-Schein vor Leistungsbeginn einzuholen ist.
+- **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Voraussetzungen und typisches Prozedere in der Mandatsarbeit.
 
-`~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → clinic profile, practice areas, jurisdiction, handbook path, supervision style, practice-area templates.
+### Leitentscheidungen
 
-If that file is missing or still has placeholders: "The clinic hasn't been set up yet. Ask [supervising professor] to run `/cold-start-interview` first."
+- BGH, Urt. v. 26.10.2017 – IX ZR 285/16, NJW 2018, 314 Rn. 10 — Haftung des aufsichtführenden Rechtsanwalts für Fehler in der Mandatsbearbeitung durch nachgeordnete Personen; sinngemäß für Supervisoren der Beratungsstelle.
+- BVerfG, Beschl. v. 14.07.1987 – 1 BvR 537/81, NJW 1988, 191 — Recht auf anwaltliche Erstberatung; Grundlage für das Beratungshilfe-System.
+- BGH, Urt. v. 15.04.2010 – IX ZR 189/09, NJW 2010, 2050 Rn. 8 — Verschwiegenheitspflicht im Mandatsverhältnis; keine Weitergabe ohne Einwilligung des Mandanten.
+- BAG, Urt. v. 08.05.2014 – 2 AZR 75/13, NZA 2014, 1248 Rn. 14 — Vertragliche Schweigepflicht und § 203 StGB; auf Ausbildungsverhältnisse sinngemäß anwendbar.
 
-## The walkthrough
+### Kommentarliteratur
 
-### Opening
+- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 1 ff. — Voraussetzungen der unentgeltlichen Rechtsdienstleistung; Anforderungen an die Aufsicht.
+- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 15 ff. — Verschwiegenheitspflicht; Umfang und Ausnahmen.
+- Brenneke/Lux, Recht der Rechtsdienstleistungen, 2. Aufl. 2022, § 6 RDG Rn. 33 ff. — Studentische Rechtsberatungsstellen; praktische Anforderungen.
+- Schütz, Das Recht der Beratungshilfe, 3. Aufl. 2020, § 1 BerHG Rn. 5 ff. — Voraussetzungen; Verfahren.
 
-> Welcome to [clinic name]. I'm going to walk you through how this clinic works and how to use these tools — about twenty minutes, and you can pause anytime. By the end you'll have run a practice intake, drafted a practice document, and you'll know what to do when you get your first real case.
+## Ablauf
+
+### Begrüßung
+
+> Willkommen in der [Name der Beratungsstelle]. Ich führe Sie durch die Arbeitsweise dieser Beratungsstelle und die verfügbaren Tools — ca. zwanzig Minuten, Pause jederzeit möglich. Am Ende haben Sie eine Übungsberatung durchgeführt, einen Übungsentwurf erstellt und einen Recherchefahrplan erarbeitet.
 >
-> One thing up front: everything I generate is a starting point, not a final answer. You do the analysis. [Professor] reviews your work [per supervision style]. I handle the formatting and the first draft so you spend your time on the lawyering, not on writing "Dear Judge" for the twentieth time.
+> Ein wichtiger Grundsatz vorab: Alles, was ich erzeuge, ist ein Ausgangspunkt. Die rechtliche Analyse kommt von Ihnen. [Supervisor] prüft Ihre Arbeit [entsprechend dem Supervisionsmodell]. Ich übernehme die Formatierung und den Erstentwurf, damit Ihre Zeit der juristischen Denkarbeit zugute kommt.
+>
+> Was Sie als Studierender nach § 6 RDG dürfen und was nicht: Sie beraten unter Aufsicht und unentgeltlich. Sie erstellen keine selbständigen Rechtsprodukte ohne Supervisoren-Freigabe. Jedes nach außen gehende Schriftstück und jede Mandantenauskunft zu strittigen Rechtsfragen wird vom Supervisor freigegeben.
 
-### Part 1: This clinic (5 min)
+### Teil 1: Diese Beratungsstelle (5 Min)
 
-Read from `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` and the ingested handbook. Cover, interactively:
+Aus der Klinik-Konfiguration und dem hinterlegten Handbuch. Interaktiv abarbeiten:
 
-- **Practice areas** — what the clinic handles, what it doesn't (and where to refer if someone walks in with an out-of-scope issue)
-- **Clients** — who they are, what they're facing, languages
-- **Jurisdiction** — which courts, which judges, what the local quirks are
-- **Case management** — how cases are tracked, where files live, what a well-documented case looks like
-- **Supervision** — how review works in this clinic (per the supervision style in CLAUDE.md). Be specific: "Before anything goes to a client or a court, [it goes in the review queue / you check with Professor X / etc.]"
+- **Rechtsgebiete** — Was berät die Klinik? Was nicht? (Und wohin verweisen, wenn jemand mit einem nicht abgedeckten Problem kommt?)
+- **Mandanten** — Wer kommt? Welche besonderen Umstände gibt es (Sprache, Vulnerable Gruppen, unbegleitete Minderjährige)?
+- **Zuständiges Gericht / Behörden** — Welche Gerichte und Behörden sind für die Klinik regelmäßig relevant? Lokale Besonderheiten?
+- **Mandatsverwaltung** — Wie werden Mandate geführt, wo liegen Akten, was ist ein gut dokumentierter Fall?
+- **Supervision** — Wie läuft die Prüfung ab (entsprechend dem Supervisionsmodell). Konkret: „Bevor etwas zum Mandanten oder an ein Gericht geht, [kommt es in die Prüfwarteschlange / sprechen Sie mit Frau/Herrn X / etc.]"
 
-Don't lecture — check understanding. "So if a client comes in with an eviction notice but also mentions they're undocumented, what do you do?" (Answer: both issues get noted in intake; the immigration question may need a referral or a flag to the professor, depending on the clinic's scope.)
+Kein Monolog — Verständnis überprüfen: „Wenn ein Mandant mit einem Räumungsbegehren und gleichzeitig einem Aufenthaltsrechtsproblem kommt — was tun Sie?" (Antwort: Beide Fragen in der Aktennotiz festhalten; das Aufenthaltsrechtsproblem ggf. an spezialisierte Flüchtlingsberatung weiterleiten oder dem Supervisor flaggen, je nach Tätigkeitsbereich der Klinik.)
 
-### Part 2: The commands (5 min)
+### Teil 2: Die Befehle (5 Min)
 
-Walk through each command the student will actually use:
-
-| Command | When you use it | What you get |
+| Befehl | Wann verwenden | Was Sie bekommen |
 |---|---|---|
-| `/client-intake` | Client interview | Formatted case summary with issues spotted, conflict flags, triage |
-| `/draft [doc type]` | Need a first draft of a common document | Practice-area template filled from case notes — *starting point, not final* |
-| `/memo` | Need to analyze a case internally | IRAC-format memo with research gaps flagged |
-| `/research-start [issue]` | Starting legal research | Roadmap: statutes to check, case law areas, search terms — *leads, not authoritative cites* |
-| `/status [audience]` | Updating someone on a case | Summary tailored to client / professor / court |
-| `/client-letter [type]` | Routine correspondence | Appointment confirm, doc request, status update from templates |
+| `/mandanten-aufnahme` | Beratungsgespräch | Strukturierte Fallzusammenfassung mit erkannten Rechtsfragen, Interessenkollisionsprüfung, Triage |
+| `/draft [Schriftstücktyp]` | Erstentwurf eines häufigen Schriftstücks | Rechtsgebiet-Muster aus den Fallnotizen — *Ausgangspunkt, nicht fertig* |
+| `/memo` | Interne Fallanalyse | Gutachten-Gerüst nach Gutachtenmethode mit gekennzeichneten Recherchelücken |
+| `/research-start [Frage]` | Einstieg in Rechtsrecherche | Recherchefahrplan: Normen, Rspr.-Bereiche, Suchbegriffe — *Hinweise, keine geprüften Belege* |
+| `/status [Zielgruppe]` | Jemanden über einen Fall informieren | Zusammenfassung für Mandant / Supervisor / Gericht |
+| `/mandantenbrief [typ]` | Routine-Korrespondenz | Terminbestätigung, Unterlagenbitte, Statusupdate aus Mustern |
 
-For each: what it does, what it explicitly doesn't do, what the student verifies before relying on it.
+Für jeden Befehl: was er tut, was er ausdrücklich nicht tut, was der/die Studierende vor dem Verwenden prüft.
 
-### Part 3: Practice exercises (8-10 min)
+### Teil 3: Übungsaufgaben (8–10 Min)
 
-**Low-stakes. Fake client. Real tools.**
+**Ohne Risiko. Fiktiver Mandant. Echte Tools.**
 
-**Exercise 1 — Practice intake:**
-> Here's a fake client scenario: [practice-area-appropriate hypo — e.g., for a housing clinic, "Maria got a 3-day notice to quit last Tuesday. She's two months behind on rent after losing her job. The apartment has had a broken heater since November. She has two kids."]
+**Übung 1 — Übungsaufnahme:**
+> Hier ist ein fiktives Szenario: [Rechtsgebiet-angepasste Aufgabe — z. B. für eine Mietrechtsklinik: „Frau Erdem hat letzte Woche eine fristlose Kündigung erhalten. Sie ist mit zwei Monatsmieten im Rückstand, nachdem sie ihren Job verloren hat. Die Heizung ist seit November defekt. Sie hat zwei Kinder."]
 >
-> Run `/client-intake` and interview me as if I'm Maria. I'll answer as Maria would. At the end, look at the case summary it produces — what issues did it spot? Did it catch the habitability defense?
+> Führen Sie `/mandanten-aufnahme` aus und sprechen Sie mit mir wie mit Frau Erdem. Ich antworte wie Frau Erdem. Schauen Sie am Ende auf die erzeugte Fallzusammenfassung: Welche Rechtsfragen wurden erkannt? Wurde die Mängeleinrede (§ 536 BGB) als mögliche Verteidigung erkannt?
 
-Debrief: what the intake caught, what the *student* should have probed deeper on, what gets flagged for the professor.
+Nachbesprechung: Was die Aufnahme erfasst hat, wo der Studierende tiefer hätte bohren sollen, was dem Supervisor zu flaggen ist.
 
-**Exercise 2 — Practice draft:**
-> Using Maria's intake, run `/draft eviction-answer`. You'll get a first draft.
+**Übung 2 — Übungsentwurf:**
+> Verwenden Sie Frau Erdems Aufnahme und führen Sie `/draft widerspruch-kuendigung` aus. Sie erhalten einen Erstentwurf.
 >
-> Read it. What's right about it? What's wrong? What would you change before showing it to [Professor]?
+> Lesen Sie ihn kritisch. Was ist richtig? Was ist falsch? Was würden Sie vor Vorlage an [Supervisor] ändern?
 
-The point: the draft is competent but not final. The student learns to read critically, not accept.
+Ziel: Der Entwurf ist kompetent, aber nicht abschließend. Der Studierende lernt, kritisch zu lesen statt blind zu akzeptieren.
 
-**Exercise 3 — Research roadmap:**
-> Run `/research-start "habitability defense to eviction in [state]"`. You'll get a roadmap — statutes, case law areas, search terms.
+**Übung 3 — Recherchefahrplan:**
+> Führen Sie `/research-start "Mietminderung wegen Heizungsausfall nach § 536 BGB"` aus. Sie erhalten einen Fahrplan — Normen, Rspr.-Bereiche, Suchbegriffe.
 >
-> None of those citations are verified. That's on purpose. Pick one statute from the roadmap and tell me how you'd verify it's current and applies here.
+> Nichts davon ist geprüft. Das ist so gewollt. Nennen Sie eine Norm aus dem Fahrplan und beschreiben Sie, wie Sie deren Aktualität und Einschlägigkeit prüfen würden.
 
-The point: `/research-start` is a starting place, not a citation. The student still does the research.
+Ziel: `/research-start` ist ein Startpunkt, keine Quelle. Der Studierende forscht selbst.
 
-### Part 4: Verification habits (2 min)
+### Teil 4: Verifikationsgewohnheiten (2 Min)
 
-The habits that matter:
+Die entscheidenden Gewohnheiten:
 
-- **Every output is a starting point.** If it went to a client or a court without you reading it critically, something went wrong.
-- **Verify every citation** before it goes in anything. `/research-start` gives leads, not authorities.
-- **Check jurisdiction-specific details.** The plugin knows your state from setup, but local court quirks change — double-check against current local rules.
-- **When uncertain, it says so.** If an output has a `[UNCERTAIN: ...]` flag, that's a prompt to research or ask the professor, not to delete the flag and move on.
-- **[Supervision reminder per CLAUDE.md style]** — what gets reviewed before it goes out, and how.
+- **Jede Ausgabe ist ein Ausgangspunkt.** Wenn etwas den Mandanten oder ein Gericht erreicht, ohne dass Sie es kritisch gelesen haben, ist etwas schiefgelaufen.
+- **Jede Quelle verifizieren**, bevor sie in ein Schriftstück fließt. `/research-start` gibt Hinweise, keine Belege.
+- **Rechtsgebiet-spezifische Details prüfen.** Die Konfiguration kennt Ihr Bundesland; lokale Besonderheiten ändern sich — aktuell gültige Regeln gegenprüfen.
+- **UNSICHER-Flags ernst nehmen.** Ein `[UNSICHER: ...]`-Flag ist ein Rechercheauftrag oder ein Thema für den Supervisor, kein zu löschender Fehler.
+- **Mandatsgeheimnis immer.** Keine Fallinformationen außerhalb der Beratungsstelle weitergeben, auch nicht zum „Erklären" — § 203 StGB.
+- **[Supervisionshinweis entsprechend dem Klinik-Modell]** — was wird geprüft, bevor es die Klinik verlässt, und wie.
 
-### Closing
+### Abschluss
 
-> That's it. You've run an intake, drafted a document, and built a research roadmap. Your first real case will feel similar, except the client is real and the professor is reading your work.
+> Das war es. Sie haben eine Aufnahme durchgeführt, einen Entwurf erstellt und einen Recherchefahrplan erarbeitet. Ihr erster echter Fall wird ähnlich ablaufen — mit dem Unterschied, dass der Mandant real ist und der Supervisor Ihre Arbeit liest.
 >
-> The one-page reference card: `/ramp --card`
+> Die einseitige Referenzkarte: `/ramp --karte`
 
-## `/ramp --card`
+## `/ramp --karte`
 
-Generate the one-page student reference card per the one-page card spec. Contents:
+Erzeugt die einseitige Studentenreferenzkarte. Inhalt:
 
-- The commands (table from Part 2, condensed)
-- What Claude can help with / what it can't (starting points yes, final work product no, authoritative citations no)
-- Verification habits (the bullets from Part 4)
-- Who to ask when stuck (professor name from CLAUDE.md)
+- Die Befehle (Tabelle aus Teil 2, komprimiert)
+- Was die KI leisten kann / was nicht (Ausgangspunkte ja, fertige Arbeitsergebnisse nein, geprüfte Quellen nein)
+- Verifikationsgewohnheiten (Punkte aus Teil 4)
+- Wen fragen bei Unklarheiten (Supervisorenname aus CLAUDE.md)
+- **RDG-Kurzhinweis:** Was Studierende nach § 6 RDG dürfen und was nicht
 
-Printable. One page. Hand it out on day one.
+Druckfähig. Eine Seite. Am ersten Tag aushändigen.
 
-## What this skill does NOT do
+## Risiken und typische Fehler
 
-- Replace the professor's orientation. It covers procedures and tools; the professor covers judgment, strategy, and the things you only learn by watching someone good do it.
-- Teach substantive law. Practice-area *orientation*, not a doctrinal course.
-- Certify the student as ready. The professor decides when a student takes a real case.
+- **Onboarding als Formalität behandeln:** Die Übungsaufgaben sind der Kern. Studierende, die sie überspringen, gehen mit falscher Sicherheit ins erste echte Mandat.
+- **RDG-Grenzen nicht verinnerlicht:** Studierende müssen wissen, dass sie nur unter Aufsicht und unentgeltlich tätig sind. Kein eigenständiges Handeln ohne Supervisoren-Rückkopplung.
+- **Mandatsgeheimnis vergessen:** Bereits in der Übungsphase: Fallhypothetika enthalten keine echten Mandantendaten. In der echten Arbeit: strikte Vertraulichkeit nach § 203 StGB.
+- **Supervisor nicht eingerichtet:** Wenn die CLAUDE.md Platzhalter enthält, ist das Onboarding zu stoppen und dem Supervisor zur Einrichtung zu übergeben.
+
+## Quellenpflicht
+
+Das Onboarding selbst enthält keine zitierpflichtigen Belege — die RDG-Normen und Grundsätze werden im Überblick vermittelt. Sobald echte Mandate bearbeitet werden, gilt die Quellenpflicht aus den jeweiligen Skills (`/memo`, `/draft`, `/research-start`).
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine juristische Ausbildung. Die inhaltliche Einführung in das Rechtsgebiet übernimmt der Supervisor, nicht dieses Tool.
+
+## Ausgabeformat
+
+Das Onboarding läuft interaktiv — keine einmalige Ausgabe, sondern ein geführtes Gespräch in vier Teilen (Klinik-Kontext, Befehle, Übungsaufgaben, Verifikationsgewohnheiten). Jeder Teil schließt mit einer Verständnisfrage oder einer Übung, bevor zum nächsten Teil übergegangen wird.
+
+`/ramp --karte` erzeugt eine druckbare, einseitige Referenzkarte (Markdown, ggf. in PDF exportierbar) mit den wesentlichen Befehlen, Verifikationsgewohnheiten und dem RDG-Kurzhinweis.
+
+## Beispiel
+
+**Szenario:** Neue Studierende Hofer betritt die Mietrechtsklinik zu Beginn des Wintersemesters. Sie führt `/ramp` aus.
+
+Teil 1: Klinik-Konfiguration wird gelesen; Hofer erfährt, dass die Klinik Mietrecht und Verbraucherrecht abdeckt, nicht aber Strafrecht (Verweisung an Rechtsberatungsstelle der Strafrechts-Vertiefung). Supervisorin: Rechtsanwältin Dr. Weber.
+
+Teil 2: Befehlsübersicht. Hofer fragt: „Was macht `/memo`?" → Erklärung: Gutachten-Gerüst nach Gutachtenmethode, kein fertiges Gutachten.
+
+Teil 3, Übung 1: Fiktiver Fall „Frau Erdem — Heizung defekt seit November". Hofer führt `/mandanten-aufnahme` durch, identifiziert Mietminderung (§ 536 BGB) und Mangel (§ 535 BGB) als Fragen. Nachbesprechung: Hofer hätte nach dem Datum der Mängelanzeige fragen sollen.
+
+Übung 2: `/draft widerspruch-kuendigung` — Hofer liest den Entwurf kritisch: „Der Entwurf nennt die Frist als 10.05.2026, aber die Kündigung war am 09.04. zugegangen — ich muss die Dreiwochenfrist für Kündigungsschutz prüfen."
+
+Übung 3: `/research-start "§ 536 BGB Mietminderung Heizungsausfall"` → Fahrplan mit ungeprüften Normen. Hofer wählt § 536c BGB und erklärt: Prüfung über juris mit Aktualitätsdatum.
+
+Teil 4: Verifikationsgewohnheiten besprochen. Abschluss: `/ramp --karte` aufgerufen.

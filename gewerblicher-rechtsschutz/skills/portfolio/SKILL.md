@@ -1,539 +1,285 @@
 ---
 name: portfolio
 description: >
-  Track the IP portfolio — registrations, renewals, maintenance fees, and use
-  declarations. Use when checking what's renewing, adding or updating an
-  asset, recording a maintenance filing, or auditing the register for gaps,
-  lapses, and use-in-commerce questions. Receives handoffs from prosecution
-  and clearance work.
-argument-hint: "[--report [--days N] | --add | --update | --audit]"
+  Verwaltung des IP-Portfolios — Eintragungen, Verlängerungen, Jahresgebühren
+  und Benutzungsnachweise. Lädt bei der Prüfung anstehender Fristen, dem
+  Hinzufügen oder Aktualisieren eines Schutzrechts, der Erfassung einer
+  Amtshandlung oder einer Portfolio-Überprüfung auf Lücken, Verfall und
+  Benutzungsfragen.
+language: de
+triggers:
+  - "IP-Portfolio Fristen"
+  - "Marke verlängern"
+  - "Patentjahresgebühr"
+  - "Schutzrechtsverwaltung"
+  - "Portfolioübersicht"
+  - "Markenverlängerung MarkenG"
+  - "Patent Aufrechterhaltungsgebühr"
+  - "DesignG Verlängerung"
+  - "IP-Register"
 ---
 
-# /portfolio
+# IP-Portfolio-Verwaltung
 
-Surfaces what's renewing, adds assets, records filings, and audits the register.
+## Zweck
 
-## Instructions
+Diese Skill zeigt anstehende Fristen, fügt Schutzrechte hinzu, erfasst Amtshandlungen und prüft das Register auf Gesundheit. Eine Marke, die nicht rechtzeitig verlängert wird, kann gelöscht werden. Ein Patent ohne gezahlte Jahresgebühr erlischt. Eine Domain, die abläuft, kann innerhalb von Stunden registriert werden. All das ist vermeidbar — und hängt davon ab, dass die richtige Frist der richtigen Eintragungsnummer in der richtigen Behörde zugeordnet ist.
 
-1. **Follow the workflow below** and read
-   `~/.claude/plugins/config/claude-for-legal/ip-legal/portfolio.yaml`.
+Diese Skill reicht keine Anträge ein. Jede aufgezeigte Handlung ist vom Patentanwalt, Rechtsanwalt oder dem beauftragten Korrespondenzanwalt auszuführen.
 
-2. **Default (no args):** equivalent to `--report` — show deadlines in the
-   next 90 days grouped by urgency (🔴 lapsed/grace, ⏰ due within window,
-   🟡 upcoming, 🌐 agent-managed, ❓ unknown).
+Hinweis: Berechnete Fristen sind Referenzwerte. Jede Frist ist vor Handlung gegen DPMA DPMAdirektplus / PatReg, EUIPO eSearch, WIPO Madrid Monitor / Patentscope oder das jeweilige nationale Register zu verifizieren.
 
-3. **`--report [--days N]`:** Mode 2. Change the window with `--days`
-   (30 / 60 / 90 / 180 typical). Always prepend the work-product header
-   per CLAUDE.md → Outputs. Always close with the verification caveat.
+## Eingaben
 
-4. **`--add`:** Mode 3. Walk through a new asset interactively — type,
-   jurisdiction, number, dates, owner, business owner. Capture a custom
-   rule if the jurisdiction isn't built in.
+Befehlsargument:
 
-5. **`--update`:** Mode 4. Record that a maintenance filing or fee payment
-   was made, sync with the IP management system, or change an asset's
-   status. Enforce the consequential-action gate before setting any
-   deadline to `filed`.
+- `--bericht [--tage N]` — Fristen im Berichtsfenster (Standard: 90 Tage)
+- `--hinzufuegen` — neues Schutzrecht interaktiv erfassen
+- `--aktualisieren` — Amtshandlung, Gebührenzahlung oder Statusänderung erfassen
+- `--pruefung` — umfassende Portfolioprüfung
+- (kein Argument) — entspricht `--bericht`
 
-6. **`--audit`:** Mode 5. Broader health check — deadline hygiene,
-   registration gaps, use-in-commerce questions on §8-approaching marks,
-   owner inconsistencies, expiration horizon, unwatched marks.
+## Rechtlicher Rahmen
 
-7. **If the register is empty and an IP management system is connected:**
-   Offer Mode 1 — pull the portfolio from the system of record and
-   initialise the register.
+### Kernvorschriften — Fristen und Verlängerungen
 
-8. **Guardrail reminder:** Computed deadlines are reference only. Every
-   output closes with a line directing verification against the USPTO
-   TSDR, WIPO, or relevant registry before filing or paying. A
-   docketed-but-wrong deadline creates false confidence; do not let the
-   user treat this as the system of record unless the IP management
-   system is sync-integrated.
+**Marken:**
+- **§ 47 Abs. 1 MarkenG** — Schutzdauer: 10 Jahre ab Anmeldetag, danach jeweils weitere 10 Jahre
+- **§ 47 Abs. 3 MarkenG** — Verlängerung durch Zahlung der Verlängerungsgebühr; Schonfrist 6 Monate mit Zuschlag (§ 7 PatKostG)
+- **Art. 53 UMV (Unionsmarkenverordnung EU 2017/1001)** — Schutzdauer Unionsmarke 10 Jahre; Verlängerung beim EUIPO
+- **Art. 7 MMA / Regel 30 GAFO** — Madrid-System: 10-jährige internationale Registrierung; Verlängerung beim WIPO; individuelle Wirkungsländer-Fristen beachten
+- **§ 26 MarkenG** — Benutzungszwang; nach 5 Jahren Löschungsrisiko bei ernsthafter Nichtbenutzung (§ 49 MarkenG)
 
-## Examples
+**Patente:**
+- **§ 17 PatG** — Patentlaufzeit: 20 Jahre ab Anmeldetag; Aufrechterhaltung durch jährliche Jahresgebühren (§ 17 Abs. 1 i. V. m. PatKostG Anlage)
+- **§ 20 Abs. 1 Nr. 3 PatG** — Erlöschen bei Nichtzahlung der Jahresgebühr
+- **§ 17 Abs. 2 PatG** — Schonfrist: 6 Monate mit Zuschlag
+- **Regel 51 EPÜ / Art. 86 EPÜ** — EP-Patent: Jahresgebühren beim nationalen Amt ab dem 3. Jahr nach Anmeldetag; Nationalisierung innerhalb von 31 Monaten (PCT)
+- **§ 13 GebrMG** — Gebrauchsmuster: Schutzdauer 3 Jahre ab Anmeldetag, verlängerbar auf max. 10 Jahre (je +3/+2 Jahre)
+
+**Designs:**
+- **§ 27 DesignG** — Schutzdauer: 5 Jahre ab Anmeldetag, verlängerbar bis max. 25 Jahre in 5-Jahres-Schritten
+- **Art. 12 GGV (Gemeinschaftsgeschmacksverordnung EU 6/2002)** — Eingetragenes Gemeinschaftsgeschmacksmuster (EGGM): 5 Jahre ab Anmeldedatum, verlängerbar bis max. 25 Jahre
+
+**Urheberrecht:**
+- **§ 64 UrhG** — Schutzfrist: 70 Jahre nach Tod des Urhebers; keine aktive Verlängerung erforderlich
+- **§§ 70–72 UrhG** — Verwandte Schutzrechte: abweichende Fristen
+
+### Leitentscheidungen
+
+- BGH, Urt. v. 10.01.2008 – I ZR 38/05, GRUR 2008, 616 (Schmuck) — Löschungsklage wegen Nichtbenutzung (§ 49 MarkenG); Maßstab ernsthafte Benutzung; relevanter Zeitraum
+- BGH, Urt. v. 17.08.2011 – I ZB 59/10, GRUR 2012, 180 (Lernfox) — Verlängerung der Markenschutzfrist; maßgeblicher Zeitpunkt der Zahlung
+
+### Kommentare
+
+- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 47 Rn. 1 ff. (Schutzdauer und Verlängerung), § 49 Rn. 1 ff. (Löschung wegen Nichtbenutzung)
+- Benkard/Rogge, PatG, 12. Aufl. 2023, § 17 Rn. 1 ff. (Laufzeit und Jahresgebühren)
+- Eichmann/Jestaedt/Fink/Meiser, DesignG, 6. Aufl. 2019, § 27 Rn. 1 ff. (Schutzdauer und Verlängerung)
+
+## Ablauf
+
+### Modus 1: Initialisierung (bei leerem Register oder `--neu`)
+
+1. Quelle bestimmen: IP-Verwaltungssystem angebunden (Anaqua, Dennemeyer, Patronas, CPA Global)? Falls ja: Portfolio über Integration beziehen. Falls nein: Tabelle / Export anfordern oder interaktiv durchführen.
+2. Für jedes Schutzrecht Fristen berechnen (Regeln unten). `naechste_fristen` mit den zwei bis drei nächsten Fälligkeiten befüllen.
+3. Register schreiben. Zusammenfassung ausgeben:
 
 ```
-/ip-legal:portfolio
+Portfolio-Register initialisiert.
+
+Schutzrechte: [N]
+  Marken: [N]   ([N eingetragen] / [N angemeldet])
+  Patente: [N]  ([N erteilt] / [N angemeldet])
+  Designs: [N]
+  Domains: [N]
+
+Fristen berechnet: [N]
+Anwaltlich verwaltet / Zuständigkeit TBD: [N] — mit Korrespondenzanwalt bestätigen
+Unbekannt (Daten fehlen): [N] — vor Verlassen auf Berichte ergänzen
+
+`--bericht` ausführen für Übersicht.
 ```
 
-```
-/ip-legal:portfolio --report --days 180
-```
+### Modus 2: Bericht (`--bericht [--tage N]`)
+
+Standard: 90 Tage. Berechnete Fristen vor Berichtserstellung für jedes Schutzrecht aktualisieren.
+
+Ausgabe (Arbeitsergebnis-Kopfzeile voranstellen):
 
 ```
-/ip-legal:portfolio --add
+IP-PORTFOLIO-FRISTENBERICHT — [Datum]
+[Unternehmensname] — Fenster: nächste [N] Tage
+
+🔴 ERLOSCHEN / IN SCHONFRIST ([N])
+  [ID] / [Behörde] / [Typ] / [Bezeichnung]
+    [Handlung] — ursprünglich fällig [Datum], Schonfrist endet [Datum]
+    Status: [schonfrist / erloschen]
+
+⏰ FÄLLIG INNERHALB [N] TAGE ([N])
+  [ID] / [Behörde] / [Typ] / [Bezeichnung]
+    [Handlung] — fällig [Datum]
+    Grundlage: [z. B. „10. Jahrestag der Anmeldung, § 47 Abs. 1 MarkenG"]
+    [Anwalt: Kanzlei / Aktenzeichen — falls vorhanden]
+
+🟡 BEVORSTEHEND (über 30 Tage, innerhalb [N] Tage)
+  [Liste]
+
+🌐 ANWALTLICH VERWALTET ([N])
+  [ID] / [Behörde] — verwaltet von [Korrespondenzanwalt]; direkt bestätigen
+  [ID] / [Behörde] — kein Korrespondenzanwalt eingetragen; mit --aktualisieren ergänzen
+
+❓ UNBEKANNT ([N])
+  [ID] — fehlendes [Feld]; Frist nicht berechenbar
+  Vor Verlassen auf diesen Bericht mit [DPMA / EUIPO / WIPO] abgleichen.
+
+ZUSAMMENFASSUNG
+  Schutzrechte gesamt: [N]
+  Fristen im Fenster: [N]
+  Letzte Portfolioprüfung: [Datum]
 ```
 
-```
-/ip-legal:portfolio --update
-```
+Schlusssatz: *„Aus Portfolio-Register berechnet. Jede Frist vor Handlung gegen DPMA DPMAdirektplus, EUIPO eSearch, WIPO Madrid Monitor oder das jeweilige Behördenregister verifizieren."*
 
-```
-/ip-legal:portfolio --audit
-```
+### Modus 3: Hinzufügen (`--hinzufuegen`)
 
----
+Interaktive Erfassung eines neuen Schutzrechts. Abfragen:
 
-## Works better connected
+1. Typ (Marke / Patent / Gebrauchsmuster / Design / Urheberrecht / Domain)
+2. Behörde / Jurisdiktion (DPMA, EUIPO, WIPO Madrid, EPO, national)
+3. Bezeichnung / Erfindungstitel
+4. Inhaber (eingetragene Rechtsperson — relevant für Validitätsprüfungen und Zuordnung)
+5. Schlüsseldaten (je nach Typ: Anmelde-, Eintragungstag, Erteilungstag, Prioritätstag, Ablaufdatum)
+6. Aktenzeichen(n)
+7. Klassen / Ansprüche (Nizza-Klassen für Marken; IPC/CPC für Patente)
+8. Quelle — wird im IP-Verwaltungssystem unter einer Aktennummer geführt?
+9. Externer Patentanwalt / Korrespondenzanwalt falls vorhanden
+10. Fachbereich-Zuständiger im Unternehmen
 
-This skill tracks deadlines from what you tell it. It works much better
-connected to:
+Nach Erfassung: Fristen nach den Regeln oben berechnen. Falls Jurisdiktion nicht eingebaut: `eigene_regeln`-Flow (unten).
 
-- **An IP management system (IPMS) via MCP** — Anaqua, Clarivate IPfolio,
-  AppColl, Patrix, Alt Legal, FoundationIP. A connected IPMS gives you the
-  full docket, maintenance fee schedules, and incoming correspondence in one
-  place, instead of the register being whatever the lawyer remembers to
-  paste. Ask your IPMS vendor if they have an MCP connector, or see
-  `CONNECTORS.md` at the repo root for how to get one added.
-- **USPTO directly via customer number** — pulls status, deadlines, and
-  correspondence for your whole portfolio rather than one application at a
-  time. Not currently available as an MCP; on the wish list in
-  `CONNECTORS.md`.
+**Eigene Regeln für unbekannte Jurisdiktionen:**
 
-Without either, paste your docket or upload a spreadsheet and I'll track from
-there.
-
-## Purpose
-
-A trademark registration that isn't renewed on time can be cancelled. A patent
-without its maintenance fee paid lapses. A domain that expires can be sniped
-within the hour. All of this is avoidable, and all of it depends on one thing:
-the right deadline is on someone's calendar, tied to the right registration
-number, in the right jurisdiction.
-
-This skill maintains that calendar.
-
-## Important: deadline reference caveat
-
-> The deadline rules this skill applies reflect publicly available requirements
-> as of the skill's build date. IP office requirements, grace periods, fee
-> structures, and maintenance schedules change. **Always confirm computed
-> deadlines against the USPTO TSDR / Patent Center, WIPO Madrid Monitor /
-> Patentscope, EUIPO eSearch, UKIPO online records, or the relevant national
-> registry before acting.** If you use Anaqua, CPA Global, Clarivate, Alt Legal,
-> or another IP management system, their docket is authoritative for your
-> assets — use this tracker to organize and surface their data, not to replace
-> it.
+> Für [Jurisdiktion] / [Typ] sind die Aufrechterhaltungsregeln nicht eingebaut. Bitte angeben:
 >
-> A docketed-but-wrong deadline is worse than an undocketed one: it creates
-> false confidence. "No deadline soon" outputs especially deserve a second
-> look before you rely on them.
+> 1. Welche Ereignisse sind fristen-relevant? (Verlängerung alle N Jahre? Jahresgebühren jährlich? Benutzungsnachweise? Sonstiges?)
+> 2. Was löst das Fälligkeitsdatum aus — Anmelde-, Eintragungstag, nationaler Phase-Eintritt, etwas anderes?
+> 3. Gibt es eine Schonfrist? Mit welchem Zuschlag?
+> 4. Verwaltet ein Korrespondenzanwalt dieses Schutzrecht?
 
-## Jurisdiction and type assumptions
+Unter `eigene_regeln:` speichern; auf zukünftige Schutzrechte dieser Jurisdiktion anwenden.
 
-Maintenance mechanics vary by jurisdiction and asset type:
+### Modus 4: Aktualisieren (`--aktualisieren`)
 
-- **US trademarks:** §8 Declaration of Use between 5th and 6th anniversary of
-  registration (or §71 for Madrid designations), then combined §8/§9 renewal
-  at 10 years and every 10 years thereafter. §15 Incontestability available
-  after 5 years of continuous use. 6-month grace period with surcharge for §8
-  and §9; no grace for the underlying use itself.
-- **Madrid International trademarks:** 10-year registration term renewable at
-  WIPO; individual designated countries may have local use or declaration
-  requirements (e.g., US §71).
-- **EUIPO trademarks:** 10-year renewal; 6-month grace with surcharge.
-- **US utility patents:** Maintenance fees due at 3.5, 7.5, and 11.5 years
-  from grant. 6-month grace window with surcharge; after that, potential
-  revival by petition if lapse was unintentional.
-- **US design patents:** No maintenance fees — 15-year term from grant for
-  applications filed on or after May 13, 2015 (14 years if earlier). No action
-  required mid-term.
-- **EPO / national patents:** Annuities typically due annually from filing or
-  from national phase entry. National rules vary — confirm per jurisdiction.
-- **US copyright:** No maintenance for works created 1978 or later.
-  Pre-1978 works may have had renewal obligations; flag for attorney review
-  if the asset pre-dates 1964 (rarely in scope for modern portfolios).
-- **Domains:** Annual or multi-year renewal per registrar; typical 30-day
-  grace then redemption period (~30 days at high fee) then drop.
+**Entscheidungs-Gate vor Statusänderung:** Bevor eine Amtshandlung oder Gebührenzahlung als „eingereicht" erfasst wird — falls der Nutzer kein Rechtsanwalt ist:
 
-If the portfolio includes assets in jurisdictions not listed above, capture
-the maintenance mechanic in the register's `custom_rules` block and the
-report will surface them as `agent_managed` — confirm status with the
-foreign associate rather than computing a date this skill doesn't understand.
-
----
-
-## The register
-
-Lives at `~/.claude/plugins/config/claude-for-legal/ip-legal/portfolio.yaml`.
-Structure:
-
-```yaml
-# IP Portfolio Register
-# Generated: [date]
-# Last updated: [date]
-# Disclaimer: computed deadlines are reference only — confirm with USPTO/WIPO/
-# relevant registry or the IP management system of record before acting.
-
-metadata:
-  company: "[Company Name]"
-  generated: "[date]"
-  last_updated: "[date]"
-  last_audit: "[date or null]"
-  source_system: "[Anaqua / CPA Global / manual / none]"
-
-custom_rules:   # non-built-in jurisdictions captured manually
-  []
-
-assets:
-  - id: "TM-US-001"
-    type: "trademark"                          # trademark / patent / copyright / design / domain
-    jurisdiction: "US"
-    mark_or_title: "[Mark or title]"
-    owner: "[Record owner — registered entity name]"
-    status: "registered"                       # pending / registered / lapsed / abandoned / cancelled
-    application_number: "[number or null]"
-    registration_number: "[number or null]"
-    classes: ["9", "42"]                       # Nice classes for TM; CPC/IPC for patents; null otherwise
-    filing_date: "[YYYY-MM-DD or null]"
-    registration_date: "[YYYY-MM-DD or null]"
-    priority_date: "[YYYY-MM-DD or null]"
-    grant_date: "[YYYY-MM-DD or null]"         # patents
-    next_deadlines:                            # computed; refreshed on --report and --audit
-      - type: "§8 Declaration of Use"
-        due_date: "[YYYY-MM-DD]"
-        grace_end: "[YYYY-MM-DD or null]"
-        basis: "5th-6th anniversary of registration"
-        action: "File §8 Declaration of Use (or excusable nonuse)"
-        status: "upcoming"                     # upcoming / due_soon / overdue / grace / filed
-    use_in_commerce: true                      # TM only — drives §8 analysis
-    agent_managed: false                       # true for foreign associate / outside counsel managed
-    local_agent: null
-    docket_id: "[IP-mgmt-system ID or null]"
-    outside_counsel: "[firm or null]"
-    business_owner: "[email or team]"
-    notes: ""
-
-  - id: "PAT-US-001"
-    type: "patent"
-    jurisdiction: "US"
-    mark_or_title: "[Invention title]"
-    owner: "[Owner]"
-    status: "granted"
-    application_number: "[number]"
-    registration_number: "[patent number]"
-    filing_date: "[YYYY-MM-DD]"
-    grant_date: "[YYYY-MM-DD]"
-    priority_date: "[YYYY-MM-DD or null]"
-    expiration_date: "[YYYY-MM-DD]"            # 20 years from earliest non-provisional filing
-    next_deadlines:
-      - type: "3.5-year maintenance fee"
-        due_date: "[YYYY-MM-DD]"
-        grace_end: "[YYYY-MM-DD]"
-        basis: "3.5 years from grant"
-        action: "Pay maintenance fee (small/micro entity if applicable)"
-        status: "upcoming"
-    claims_count: 20
-    entity_size: "large"                       # large / small / micro (drives USPTO fees)
-    docket_id: null
-    outside_counsel: null
-    business_owner: null
-    notes: ""
-```
-
-Status values for `next_deadlines`:
-- `upcoming` — more than 90 days out
-- `due_soon` — due within 90 days, not yet filed
-- `overdue` — past the primary due date, within grace window (if any)
-- `grace` — in the grace period (explicit flag — carries surcharge)
-- `lapsed` — past grace with no action; asset effectively lost unless revivable
-- `filed` — action completed this cycle
-
----
-
-## Mode 1: Initialise
-
-Run when no register exists, or with `--rebuild`.
-
-### Step 1: Determine the source
-
-Read `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`:
-- **IP management system connected** (Anaqua, CPA Global, etc.): pull the portfolio via its integration. The IP system is the authoritative source; this register mirrors it and adds no deadlines the system doesn't already have.
-- **No IP management system, but spreadsheet / export available:** ask the user to share the export. Import what's present; flag any asset missing a registration or grant date as `unknown` for deadline computation.
-- **Nothing at hand:** walk through assets interactively — type, jurisdiction, number, key dates, owner.
-
-### Step 2: For each asset, compute deadlines
-
-Apply the rules at the top of this file. Populate `next_deadlines` with the
-two or three closest upcoming items — further-out deadlines (10-year renewals
-decades away) are computed on demand during reports rather than stored
-speculatively.
-
-**For assets the skill cannot confidently schedule:**
-- Unknown jurisdiction rules → add a stub under `custom_rules` and flag the
-  asset `agent_managed: true` with a TODO to confirm with the foreign associate.
-- Missing dates needed for computation (no grant date for a patent, no
-  registration date for a TM) → set `next_deadlines` empty with a note in
-  `notes`, and list the asset as `unknown` in the initialisation summary.
-
-### Step 3: Write the register
-
-Generate `portfolio.yaml` at the config path. Show a summary:
-
-```
-Portfolio register initialised.
-
-Assets: [N]
-  Trademarks: [N]   ([N registered] / [N pending])
-  Patents:    [N]   ([N granted] / [N pending])
-  Copyrights: [N]
-  Designs:    [N]
-  Domains:    [N]
-
-Deadlines computed: [N]
-Agent-managed / jurisdiction TBC: [N] — confirm with foreign associates
-Unknown (missing key dates): [N] — fill in before relying on reports
-
-Run /ip-legal:portfolio --report to see what's due.
-```
-
----
-
-## Mode 2: Report
-
-```
-/ip-legal:portfolio --report [--days 30|60|90|180]
-```
-
-Default window: 90 days. Refresh computed deadlines for every asset before
-producing the report — don't rely on stored dates alone.
-
-Output (prepend work-product header per `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md` → Outputs):
-
-```
-IP PORTFOLIO DEADLINE REPORT — [date]
-[Company Name] — window: next [N] days
-
-🔴 LAPSED / IN GRACE ([N])
-  [Asset ID] / [Jurisdiction] / [Type] / [Mark or title]
-    [Action] — original due [date], grace ends [date]
-    Status: [grace / lapsed]
-
-⏰ DUE WITHIN [N] DAYS ([N])
-  [Asset ID] / [Jurisdiction] / [Type] / [Mark or title]
-    [Action] — due [date]
-    Basis: [e.g., "5th-6th anniversary of registration"]
-    [Agent: firm / docket: id — if present]
-
-🟡 UPCOMING (next window beyond 30 days, within [N] days)
-  [list]
-
-🌐 AGENT-MANAGED ([N])
-  [Asset ID] / [Jurisdiction] — managed by [local agent]; confirm directly
-  [Asset ID] / [Jurisdiction] — no local agent recorded; add with --update
-
-❓ UNKNOWN ([N])
-  [Asset ID] — missing [field]; cannot compute deadline
-  Confirm with [IP management system / USPTO TSDR / relevant registry] before relying on this report.
-
-SUMMARY
-  Total assets tracked: [N]
-  Deadlines in window: [N]
-  Last audit: [date]
-```
-
-Close the report with the caveat line: *"Computed from portfolio register. Verify each deadline against the USPTO/WIPO/registry of record before filing or paying."*
-
-If the report lists more than ~10 assets, or any time the user asks: offer the dashboard (see CLAUDE.md `## Outputs → Dashboard offer for data-heavy outputs`). Shape the offer for this output — counts by registration status (live / in grace / lapsed / pending), a deadline timeline, and a sortable portfolio table with jurisdiction, type, and next-action date.
-
----
-
-## Mode 3: Add
-
-```
-/ip-legal:portfolio --add
-```
-
-Interactive add of a single asset. Ask for:
-1. Type (trademark / patent / copyright / design / domain)
-2. Jurisdiction
-3. Mark or title / invention name
-4. Owner (record owner — matters for §8 filings and assignments)
-5. Key dates (per type: filing, registration, grant, priority, expiration)
-6. Number(s)
-7. Classes / claims count
-8. Source — is this being tracked in the IP management system under a docket ID?
-9. Outside counsel / foreign associate, if any
-10. Business owner (who does this matter to — product line, brand manager)
-
-After capture:
-- Compute next deadlines per the rules at the top of this file.
-- If jurisdiction rules aren't built in, walk through the `custom_rules` capture flow (see below).
-- Append to `assets:` in `portfolio.yaml`.
-
-### Custom rules capture
-
-When a jurisdiction isn't in the built-in list:
-
-> I don't have maintenance rules for [Jurisdiction] / [Asset type] built in.
-> Let me capture them so we can track this going forward.
+> Das Erfassen einer Marken­verlängerung, Jahresgebühr oder Gebrauchsmuster­verlängerung als „eingereicht" hat Konsequenzen. Wenn die Erfassung falsch ist — versäumtes Fristdatum, falsche Gebührenhöhe, fehlender Nachweis — verschiebt sich die Frist nicht und das Schutzrecht kann erlöschen. Haben Sie die Handlung mit dem zuständigen Patentanwalt oder Korrespondenzanwalt bestätigt (oder über DPMA DPMAdirektplus / EUIPO / WIPO überprüft)? Wenn ja: weiter. Wenn nein:
 >
-> 1. What maintenance events apply? (Renewal every N years? Annuities annually?
->    Declarations of use? Something else?)
-> 2. What triggers the due date — filing date, registration date, grant date,
->    national phase entry, anniversary of something else?
-> 3. Is there a grace period? At what cost?
-> 4. Is there a foreign associate or local agent managing this?
+> - Noch nicht als eingereicht erfassen.
+> - Folgendes zum Anwalt/Korrespondenzanwalt: Schutzrechts-ID, Behörde, Fristtyp, was das IP-Verwaltungssystem zeigt, was Ihrer Überzeugung nach eingereicht wurde und wann, und die Quelle dieser Überzeugung.
 
-Store under `custom_rules:` and apply to future assets in that jurisdiction.
+Kein `status: eingereicht` ohne ausdrückliches Ja über dieses Gate.
 
----
+**Teilmodi:**
 
-## Mode 4: Update
+- **Manuelle Aktualisierung:** „Wir haben die Verlängerung von TM-DPMA-001 am 3. Juli eingereicht, Nachweis beigefügt." → Entsprechende Frist auf `status: eingereicht`, `eingereichtes_datum` setzen; nächste Frist im Lebenszyklus berechnen.
+- **Statusänderung:** „Bitte TM-EUIPO-004 als aufgegeben markieren." → `status` aktualisieren, `naechste_fristen` leeren, Datum notieren.
+- **IP-System-Abgleich:** Falls Anaqua / Dennemeyer / CPA Global angebunden: aktuellen Datenstand ziehen, abgleichen. Abweichungen kennzeichnen — System of Record gewinnt.
 
-```
-/ip-legal:portfolio --update
-```
+### Modus 5: Portfolioprüfung (`--pruefung`)
 
-### Consequential-action gate
+Umfassende Gesundheitsprüfung über die nächsten Monatsfristen hinaus:
 
-**Before recording that a maintenance filing or fee payment was made:** Read
-`## Who's using this` in `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`. If the Role is **Non-lawyer**:
+**Fristenhygiene**
+- Fristen derzeit in `schonfrist`-Status? (Handlung möglich, aber Zuschlag anfallend.)
+- Erloschenene Schutzrechte, die nicht als aufgegeben / gelöscht markiert sind? Entweder wiederbeleben oder Status aktualisieren.
+- Schutzrechte ohne berechnete `naechste_fristen`? Fehlende Daten oder unbekannte Jurisdiktion.
 
-> Recording a §8 declaration, a §9 renewal, a patent maintenance fee payment,
-> or an international annuity as "filed" has consequences. If the record is
-> wrong — missed due date, wrong entity size, wrong specimen of use — the
-> deadline doesn't move, and the asset can still lapse. Have you confirmed
-> this with the attorney or foreign associate who actually made the filing
-> (or with the USPTO TSDR / WIPO Madrid Monitor / relevant registry)? If yes,
-> proceed. If no:
->
-> - Do not record as filed yet.
-> - Here is what to bring to the attorney: asset ID, jurisdiction, deadline
->   type, what the IP management system shows, what you believe was filed and
->   when, and the source of that belief.
->
-> If you need to find a licensed attorney, solicitor, barrister, or other authorised legal professional in your jurisdiction: your professional regulator's referral service
-> is the fastest starting point (state bar in the US, SRA/Bar Standards Board in England & Wales, Law Society in Scotland/NI/Ireland/Canada/Australia, or your jurisdiction's equivalent).
+**Eintragungslücken**
+- Markenanmeldungen älter als 18 Monate noch `angemeldet`? Amtsstatus prüfen — ggf. Beanstandungen zu beantworten.
+- Patentanmeldungen älter als 4 Jahre noch `angemeldet`? Prüfungsstand prüfen.
 
-Do not set a deadline's `status` to `filed` past this gate without an
-explicit yes. Status refresh, report generation, and upcoming-deadline
-surfacing do not require the gate.
+**Benutzung (Marken)**
+- §-49-MarkenG-Risiko: Marken, deren Verlängerung näher rückt und für die `benutzung_nachgewiesen: false` oder unklar? Die Verlängerung erfordert keine Benutzungsnachweise, aber der Löschungsanspruch Dritter entsteht nach 5 Jahren ernsthafter Nichtbenutzung. Benutzungsaudit vor Verlängerungsentscheidung empfehlen.
 
-### Sub-modes
+**Inhaberhygiene**
+- Schutzrechte, bei denen `inhaber` keine aktive Gesellschaft ist (Umfirmierung, Verschmelzung, Spaltung)? Ggf. Umschreibung beim Amt (§ 28 MarkenG; § 30 PatG) erforderlich.
+- Inhaberbezeichnungen inkonsistent über Schutzrechte hinweg? Für Bereinigung kennzeichnen.
 
-**Manual update:** "We filed the §8 for TM-US-001 on March 4, specimen
-attached." Update the matching deadline: `status: filed`, `filed_date`,
-and compute the next deadline in its lifecycle (for §8 that's the §9
-renewal 10 years out).
+**Ablaufhorizont (24 Monate)**
+- Patente, die in 24 Monaten auslaufen? Auch ohne Jahresgebühr-Frist geschäftsrelevant — Produktplanung, Fortsetzungsstrategie, Lizenzierungsfenster.
 
-**From IP management system sync:** If Anaqua / CPA Global / similar is
-connected, pull the latest docket and reconcile. Flag mismatches between
-the register and the system of record — the system of record wins; update
-the register to match and surface anything the register had that the
-system doesn't.
+**Nicht überwachte Schutzrechte**
+- Eingetragene Marken, die nicht im Watch-Service des Mandatsprofils aufgeführt sind? Als Lücke für anwaltliche Entscheidung markieren.
 
-**Status change:** "Mark TM-US-004 as abandoned." Update `status`, clear
-`next_deadlines`, note the date abandoned.
-
----
-
-## Mode 5: Audit
+Ausgabeformat:
 
 ```
-/ip-legal:portfolio --audit
-```
+IP-PORTFOLIOPRÜFUNG — [Datum]
 
-Broader health check beyond this month's deadlines:
+FRISTENHYGIENE
+  In Schonfrist: [N] — sofortige Handlung vermeidet Erlöschen
+  Erloschen (nicht als aufgegeben markiert): [N] — Status bestätigen
+  Fehlende Fristenberechnung: [N] — Daten ergänzen oder anwaltlich verwalten markieren
 
-**Deadline hygiene**
-- Any deadlines in `grace` status right now? (In progress but surcharge-costing.)
-- Any `lapsed` assets that aren't marked `abandoned` or `cancelled`? Either
-  revive or update status.
-- Any assets with no `next_deadlines` computed? Either missing data or a
-  jurisdiction the skill doesn't know.
+EINTRAGUNGSLÜCKEN
+  Markenanmeldungen > 18 Monate anhängig: [Liste]
+  Patentanmeldungen > 4 Jahre anhängig: [Liste]
 
-**Registration gaps**
-- Trademark applications filed more than 18 months ago still `pending`?
-  Flag for status check at the office — may need response to an action.
-- Patents filed more than 4 years ago still `pending`? Flag for prosecution
-  check.
+BENUTZUNG (MARKEN)
+  § 49 MarkenG — Löschungsrisiko bei anhängenden Verlängerungen und unklarer Benutzung: [Liste]
 
-**Use-in-commerce (TM only)**
-- §8 approaching on a mark flagged `use_in_commerce: false` or uncertain?
-  The §8 requires use; mark needs a use audit before filing or an excusable
-  nonuse declaration.
+INHABER
+  Schutzrechte mit nicht aktiver/unklarer Inhaberbezeichnung: [N]
+  Inhaber-Bezeichnungsinkonsistenzen: [Liste]
 
-**Ownership hygiene**
-- Any assets where the `owner` is not a currently active entity per the
-  entity register (if available)? Flag — may need recordal of assignment.
-- Owner name inconsistencies across assets (same entity, different name
-  strings)? Surface for cleanup.
+ABLAUFHORIZONT (24 MONATE)
+  Ablaufende Patente: [Liste]
 
-**Expiration horizon**
-- Any patents expiring in the next 24 months? Even without a maintenance
-  deadline, the business may want to know — product planning, continuation
-  strategy, licensing window.
+MARKEN-WATCH
+  Eingetragene Marken nicht im Watch-Service: [Liste]
 
-**Unwatched assets**
-- Any registered marks not on the watch list in CLAUDE.md → Brand protection?
-  Flag as a gap for the attorney to decide whether to add.
-
-Output format:
-
-```
-IP PORTFOLIO AUDIT — [date]
-
-DEADLINE HYGIENE
-  In grace: [N] — acting now avoids lapse
-  Lapsed (not marked abandoned): [N] — confirm status
-  Missing next-deadline computation: [N] — fill data or mark agent-managed
-
-REGISTRATION GAPS
-  TM applications pending >18 months: [list]
-  Patent applications pending >4 years: [list]
-
-USE IN COMMERCE (TM)
-  §8 approaching on uncertain-use marks: [list]
-
-OWNERSHIP
-  Assets with unrecognised owner strings: [N]
-  Owner name inconsistencies: [list]
-
-EXPIRATION HORIZON (24 months)
-  Patents expiring: [list]
-
-BRAND WATCH
-  Registered marks not on watch list: [list]
-
-RECOMMENDED ACTIONS
-  1. [highest priority]
+EMPFOHLENE MASSNAHMEN
+  1. [höchste Priorität]
   2. [etc.]
 ```
 
----
+## Ausgabeformat
 
-## Integration: ip-renewal-watcher agent
+Fristen-Bericht, Prüfbericht oder Erfassungsbestätigung je nach Modus. Immer mit Verifikations-Hinweis abschließen. Arbeitsergebnis-Kopfzeile voranstellen.
 
-The `ip-renewal-watcher` agent in this plugin runs this skill on a schedule
-(weekly by default) and posts the Mode 2 report to the channel named in
-CLAUDE.md → Renewal alerts. If 🔴 items appear (grace / lapsed), the agent
-posts them immediately regardless of schedule.
+## Beispiel
 
-## Handoffs
+**Eingabe:** `/gewerblicher-rechtsschutz:portfolio` (kein Argument)
 
-- Receives: new asset records from prosecution skills (when an application
-  is filed or a mark clears), from clearance skills (when a mark is adopted
-  and a filing is queued), and from assignment recordals.
-- Sends: "file §8 now" triggers to the attorney — this skill doesn't file
-  anything; it tells the attorney the deadline and what to bring.
+**Ausgabe (Auszug):**
 
-## What this skill does not do
+> IP-PORTFOLIO-FRISTENBERICHT — 2025-07-15
+> Fenster: nächste 90 Tage
+>
+> ⏰ FÄLLIG INNERHALB 90 TAGE (2)
+>   TM-DPMA-012 / DPMA / Marke / ALPHAWAVE
+>     Verlängerung § 47 Abs. 1 MarkenG — fällig 2025-08-20
+>     Grundlage: 10. Jahrestag der Eintragung
+>
+>   PAT-EP-003 / EPO / Patent / Verfahren zur Datenübertragung
+>     Jahresgebühr Jahr 5 — fällig 2025-09-01
+>     Grundlage: Art. 86 EPÜ; Zahlung beim nationalen Amt (DPMA)
+>
+> *Berechnungen aus Portfolio-Register. Vor Handlung gegen DPMA DPMAdirektplus / EUIPO eSearch / WIPO Madrid Monitor verifizieren.*
 
-- It does not file anything. Every action it surfaces is for the attorney
-  or foreign associate to execute.
-- It does not verify deadlines against the USPTO TSDR, WIPO, or any other
-  registry. It computes them from the dates you give it. The register is
-  a working copy; the registry is the source of truth.
-- It does not decide whether to renew. Renewal is a business call — is the
-  mark still in use, is the patent still valuable, does the domain still
-  matter. This skill surfaces the deadline and the cost; the business and
-  the attorney decide.
-- It does not replace an IP management system for multi-hundred-asset
-  portfolios. Anaqua, CPA Global, Clarivate, Alt Legal, and similar systems
-  have direct registry feeds, deadline automation, and annuity payment
-  services. This skill is best suited for smaller portfolios, or as a
-  lightweight layer that surfaces what the system of record shows.
-- It does not read office records to verify status. A §8 shown as "filed"
-  here means someone told it so — not that the USPTO accepted it. Confirm
-  acceptance through TSDR or the IP management system.
+## Risiken und typische Fehler
+
+- **Berechnete Frist ist nicht die amtliche Frist:** Das Register ist eine Arbeitskopie; das Behördenregister ist die Quelle der Wahrheit. Eine falsch eingetragene Frist erzeugt falsches Sicherheitsgefühl.
+- **Schonfrist als Normalzustand:** Schonfristgebühren sind Zusatzkosten; regelmäßige Nutzung der Schonfrist ist Ineffizienz, nicht Praxis.
+- **Benutzungszwang übersehen:** § 26 MarkenG — Marke ohne ernsthafte Benutzung nach 5 Jahren löschbar (§ 49 MarkenG). Portfolio-Verlängerung setzt keine Benutzungsprüfung voraus — aber das Löschungsrisiko entsteht trotzdem.
+- **Inhaberumbenennung/-umschreibung vergessen:** Nach Umfirmierung oder Umstrukturierung müssen Schutzrechte beim Amt umgeschrieben werden, sonst entstehen Validitätsrisiken.
+- **PCT-Nationale-Phase-Fristen:** 30/31-Monatsfrist (Regel 22.1 PCT) ist hart — kein Wiedereinsetzen bei Versäumnis in den meisten Ländern.
+
+## Quellenpflicht
+
+Alle Fristenangaben müssen auf konkreten Normen beruhen. Pflichtquellen:
+
+- **Gesetze:** § 47 MarkenG, § 17 PatG, § 13 GebrMG, § 27 DesignG; Art. 53 UMV; Art. 12 GGV; Art. 86 EPÜ; PatKostG
+- **Rechtsprechung:** mindestens eine BGH-Entscheidung zu Markenfristen oder Jahresgebühren
+- **Kommentar:** Ingerl/Rohnke MarkenG oder Benkard PatG mit § und Randnummer
+- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.

@@ -1,192 +1,288 @@
 ---
 name: stakeholder-summary
 description: >
-  Translates a contract review into a summary the business stakeholder will
-  actually read. Not a legal memo — a two-minute answer to "can I sign this
-  and what do I need to know." Use when user says "summarize for the business",
-  "write this up for [stakeholder]", "explain this to procurement", "non-legal
-  summary", or when a review is done and needs to go to someone outside legal.
+  Übersetzt ein Vertragsprüfungsmemo in eine Zusammenfassung für
+  Geschäftsführung, Vorstand oder Einkauf — kein Rechtsgutachten, sondern
+  eine klare Entscheidungsgrundlage. Lädt, wenn der Nutzer „Zusammenfassung
+  für Geschäftsführung", „für den Vorstand aufbereiten", „Managementzusammenfassung",
+  „für Einkauf erklären" oder „nicht-juristische Zusammenfassung" sagt.
+language: de
+triggers:
+  - "Zusammenfassung Geschäftsführung"
+  - "Vorstandszusammenfassung"
+  - "Management-Briefing"
+  - "Risikomatrix"
+  - "nicht-juristische Zusammenfassung"
+  - "für Einkauf aufbereiten"
+  - "Vertragsstatus berichten"
+  - "Mandantenkurzfassung"
 ---
 
-# Stakeholder Summary
+# Mandantenzusammenfassung Vertragsrecht
 
-## Matter context
+## Zweck
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/commercial-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/commercial-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+Der Geschäftsführer, der diesen Vertrag beauftragt hat, will kein
+Rechtsgutachten. Er will wissen: Können wir unterschreiben? Was ist der
+Haken? Was müssen wir tun? Diese Skill liest das fertige Prüfungsmemo
+und verdichtet es auf genau das.
 
----
+Lädt, wenn eine Vertragsanalyse abgeschlossen ist und das Ergebnis an
+eine Person außerhalb der Rechtsabteilung weitergegeben werden soll.
 
-## Destination check
+## Eingaben
 
-Before producing output, check where it's going. If the user has named a destination (a channel, a distribution list, a counterparty, "everyone"), ask whether it's inside the privilege circle. Public channels, company-wide lists, counterparty/opposing counsel, vendors, and clients (for work product) waive the protection. When the destination looks outside the circle, flag it and offer (a) the privileged version for legal only, (b) a sanitized version for the broader channel, or (c) both — don't silently apply a privileged header and then help paste it somewhere the header won't protect it. See the canonical `## Shared guardrails → Destination check` in this plugin's CLAUDE.md.
+- Das fertige Prüfungsmemo (aus `/vertragsrecht:review`)
+- Optional: Empfänger (Geschäftsführung, Vorstand, Einkauf, Finance, IT)
+- Optional: Kanal (E-Mail, Slack, Jour fixe)
 
-## Purpose
+## Rechtlicher Rahmen
 
-The business owner who asked for this contract doesn't want a legal memo. They want to know: can I sign it, what's the catch, and what do I need to do. This skill takes a completed review and turns it into that.
+### Grundlagen der rechtssicheren Kommunikation an Mandanten
 
-## Which side?
+Zusammenfassungen an Mandanten und interne Nicht-Juristen unterliegen
+besonderen Sorgfaltsanforderungen — auch informelle Kurzfassungen erzeugen
+Vertrauen beim Empfänger und können haftungsrechtliche Folgen haben, wenn
+sie wesentliche Risiken weglassen.
 
-The underlying review memo was run against either the sales-side or the purchasing-side playbook. Carry that framing through. A purchasing-side summary tells the business owner "here's what we're getting and what we agreed to give up"; a sales-side summary tells them "here's what we're selling and what we're on the hook for." Check which side the review was run on (it should be noted at the top of the review memo) and match the voice. If it's not obvious from the memo, ask the lawyer before summarizing.
+- § 280 Abs. 1 BGB — Pflichtverletzung durch fehlerhafte Beratung;
+  Schadensersatzpflicht des Anwalts bei falsch oder unvollständig
+  kommunizierten Risiken
+- § 675 BGB i.V.m. §§ 611 ff. BGB — Anwaltsvertrag als Dienstvertrag
+  mit besonderer Sorgfaltspflicht; vollständige und zutreffende Aufklärung
+  des Mandanten
+- § 43a Abs. 2 BRAO — Mandatsgeheimnis; Weiterleitung von Zusammenfassungen
+  außerhalb des Vertrauenskreises bedarf der Prüfung (Privilegkreis)
+- §§ 164 ff. BGB — Vollmacht; eine Zusammenfassung, die impliziert, der
+  Vertrag sei unterschriftsreif, kann als Beratungsleistung wirken, auf
+  die sich der Mandant verlässt
 
-## Audience calibration
+### Sorgfaltspflicht bei Risikoangaben
 
-Read `~/.claude/plugins/config/claude-for-legal/commercial-legal/CLAUDE.md` → `## House style` → who reads stakeholder summaries, how long should they be. If not specified, default to: procurement or a department head, two paragraphs max, no legal terms of art.
+- BGH, Urt. v. 10.07.2014 – IX ZR 197/12, NJW 2014, 2951 Rn. 14
+  (Anwaltshaftung bei fehlerhafter Beratung; vollständige Risikoaufklärung
+  als Kernpflicht; § 280 Abs. 1 BGB, § 675 BGB)
+- BGH, Urt. v. 15.10.2009 – IX ZR 143/08, NJW 2010, 146 Rn. 8
+  (Haftung für unvollständige Aufklärung über rechtliches Risiko;
+  Schadensersatzpflicht bei Weglassen wesentlicher Informationen)
+- BGH, Urt. v. 06.07.2006 – IX ZR 88/05, NJW-RR 2006, 1568 Rn. 12
+  (Beratungspflicht des Rechtsanwalts; Belehrung über alle
+  entscheidungsrelevanten Gesichtspunkte)
+- BGH, Urt. v. 07.03.2019 – IX ZR 143/18, NJW 2019, 1949 Rn. 20
+  (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
+  als Bestandteil ordnungsgemäßer Beratung)
 
-Different audiences need different summaries:
+### Kommentarliteratur
 
-| Audience | Cares about | Doesn't care about |
+- Palandt/Weidenkaff, BGB, 83. Aufl. 2024, § 675 Rn. 10 ff.
+  (Anwaltsvertrag; Beratungspflicht, Schadensersatz bei Pflichtverletzung)
+- MüKoBGB/Heermann, 9. Aufl. 2022, § 675 Rn. 50 ff.
+  (Dienstvertrag mit anwaltlicher Beratungskomponente)
+- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 80 ff.
+  (Mandatsgeheimnis bei Weiterleitung von Arbeitsergebnissen)
+- BeckOGK BGB/Martens, 70. Ed. (Stand 01.08.2024), § 675 Rn. 30 ff.
+
+## Ablauf
+
+### Schritt 1 — Mandatskontext
+
+Prüfe `## Mandatsarbeitsbereiche` im Kanzleiprofil. Wenn aktiviert und
+kein aktives Mandat gesetzt: „Für welches Mandat ist diese Zusammenfassung?
+(`/vertragsrecht:matter-workspace wechseln <kürzel>` oder `kanzleiebene`)."
+Aktive `mandat.md` für mandatsspezifischen Kontext laden.
+
+### Schritt 2 — Privilegkreis-Check
+
+Vor der Ausgabe prüfen, wohin sie geht. Wenn der Nutzer einen Empfänger
+oder Kanal genannt hat:
+
+- Interne Rechtsabteilung / unter anwaltlicher Aufsicht → privilegiertes
+  Arbeitsergebnis behalten
+- Geschäftsführung, Vorstand, Einkauf (intern) → Arbeitergebnis-Kennzeichnung
+  entfernen oder anpassen; kein Mandatsgeheimnis verletzt, aber Kennzeichnung
+  täuscht über Privilegstatus
+- Gegenseite, externe Berater, Lieferant → ROT; privilegierte Kennzeichnung
+  entfernen; Mandant darauf hinweisen, dass die Weiterleitung den Privilegstatus
+  dieser Kommunikation beeinflussen kann
+
+Angebot: (a) privilegierte Version für interne Rechtsabteilung, (b) bereinigte
+Version für Weitergabe, (c) beides.
+
+### Schritt 3 — Empfänger bestimmen
+
+Wenn nicht angegeben, fragen:
+
+> Für wen ist diese Zusammenfassung? Das bestimmt, was wichtig ist und
+> was wegfällt.
+
+| Empfänger | Interessiert an | Interessiert nicht an |
 |---|---|---|
-| **Procurement** | Price, renewal mechanics, approval routing | Liability cap structure |
-| **Department head (budget owner)** | Can their team use it, what happens if it breaks, cost | Indemnity scope |
-| **Finance** | Total cost of ownership, renewal price risk, off-balance-sheet commitments | Governing law |
-| **Security / IT** | Data handling, subprocessors, SOC 2, where data lives | Everything else |
-| **Executive sponsor** | Is this going to embarrass us, is legal a blocker | Details |
+| **Geschäftsführung / Vorstand** | Unterschriftsempfehlung, Hauptrisiken, Eskalationsbedarf | Paragraphen, Klauselstruktur |
+| **Einkauf / Beschaffung** | Preis, Verlängerungsmechanik, Genehmigungsweg | Haftungsstruktur |
+| **Budget-/Kostenstellenverantwortlicher** | Gesamtkosten, Verlängerungspreisrisiko, außerbilanzielle Verpflichtungen | Gerichtsstand |
+| **IT / Datenschutz** | Datenspeicherung, Unterauftragnehmer, AVV, ISO/SOC-Zertifizierung | Alles andere |
+| **Geschäftsführer als Sponsor** | Reputationsrisiko, Rechtssicherheit, Zeitplanung | Einzelheiten |
 
-Ask who this is for if it's not obvious from context.
+### Schritt 4 — Zusammenfassung erstellen
 
-## The summary
+**Längen-Maximum: 200 Wörter (ohne Risikomatrix und Eskalationsstatus).**
+Wer mehr schreibt, packt Details hinein, die der Empfänger nicht braucht —
+dafür ist das Memo da.
 
-### Length cap — enforced
+**Struktur (in dieser Reihenfolge):**
 
-The summary is:
-- **One paragraph** for the verdict and what this is (business terms, plain English)
-- **One paragraph** for the catch — the thing the stakeholder would be surprised by later if nobody told them now
-- **A 2-3 item checklist** for what the stakeholder actually needs to do (at most three items; if you want a fourth, the first three aren't tight enough)
-- **A one-line close** with approval timing
+1. **Ein Absatz** — Urteil und Vertragsinhalt in Geschäftssprache.
+   Nicht „Dienstleistungsrahmenvertrag für die Bereitstellung
+   cloudbasierter Analysedienste" — sondern „das ist der Vertrag für
+   das Dashboard-Tool, das das Marketing-Team angefragt hat."
 
-**Under 200 words total.** If you're writing more, you're including detail the stakeholder doesn't need — they have the memo for that. This is the quick read before the stakeholder hits reply.
+2. **Ein Absatz** — Der Haken, wenn es einen gibt. Was überrascht den
+   Empfänger später, wenn es ihm jetzt keiner sagt? Beispiel: „Achtung:
+   der Vertrag verlängert sich automatisch jährlich; Kündigung muss
+   6 Wochen vorher erfolgen. Ich habe es im Fristen-Tracker eingetragen,
+   aber Sie sollten das wissen." Bei sauberem Vertrag: „Kein besonderer
+   Hinweis — alles entspricht Standard."
 
-If the close needs a third paragraph, fold it into the checklist instead. Don't let the close grow into a fourth block.
+3. **2–3 Punkte Checkliste** — Was der Empfänger konkret tun muss
+   (höchstens drei Punkte; wenn ein vierter nötig ist, sind die ersten
+   drei nicht präzise genug).
 
-### Scope of quote — discipline
+4. **Eine Zeile Abschluss** — Wer genehmigt, bis wann.
 
-When quoting a contract clause (in the summary, in the "catch" paragraph, or in the checklist), quote the **full conditional sentence**, not a truncated version. A clause that reads "Except as expressly provided in the Order Form, renewal of promotional or one-time priced subscriptions resets to list price" means something different from "renewal resets to list price" — the truncation drops the condition and misrepresents what the term does.
+### Schritt 5 — Risikomatrix (optional, für Eskalationsfälle)
 
-If a full conditional quote doesn't fit the summary's length cap, paraphrase rather than truncate. "For promotional pricing, renewal resets to list" is a fair paraphrase; "renewal resets to list" is not — it promotes the exception to the rule.
+Wenn das Prüfungsmemo ROTE Befunde enthält oder mehrere GELBE Positionen
+gleichzeitig betroffen sind, optionale Risikomatrix erstellen:
 
-### Format
+| Klausel | Risiko | Wahrscheinlichkeit | Handlung |
+|---|---|---|---|
+| [Klausel] | [Risiko in Geschäftssprache] | Gering / Mittel / Hoch | [konkrete Handlung] |
 
-Prepend the work-product header from `~/.claude/plugins/config/claude-for-legal/commercial-legal/CLAUDE.md` `## Outputs` (it differs by user role — see `## Who's using this`).
+Die Matrix ist vom 200-Wörter-Limit ausgenommen.
 
-```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs]
-<!-- Remove the header above if forwarding outside the legal-privileged circle (e.g., to a business stakeholder, counterparty, or vendor). Confirm the correct marking for your jurisdiction and matter before forwarding. -->
+### Schritt 6 — Eskalationsstatus
 
-**[Counterparty] [Agreement type]** — [READY TO SIGN | NEEDS CHANGES | BLOCKED]
+Das Prüfungsmemo kann mehrere Genehmigungsadressaten benennen
+(GC, CISO, CFO, Geschäftsführung). Vor der Zusammenfassung zählen:
 
-[One paragraph: what this agreement does, in business terms. Not "Master Services
-Agreement for the provision of cloud-based analytics" — "this is the contract
-for the dashboard tool the marketing team wants."]
+1. Wie viele Eskalationsziele hat das Prüfungsmemo genannt?
+2. Wie viele Eskalationsentwürfe liegen bereits vor?
+3. Delta = noch nicht eingeleitet.
 
-[One paragraph: what the stakeholder needs to know. The catch, if there is one.
-The thing that will surprise them later if nobody tells them now. E.g., "Heads
-up: this auto-renews every year and we have to cancel 60 days out. I've added
-it to the tracker but you should know." Or: "Clean agreement, no surprises,
-cleared to sign."]
+Kurzer Eskalationsblock in der Zusammenfassung (oberhalb der Checkliste):
 
-<!-- Do not claim "I've added it to the tracker" unless `renewal-tracker` has
-actually been run for this contract — see Verify tracker entries before
-asserting them below. -->
-
-**Verify tracker entries before asserting them.** Before the summary says "I've added it to the tracker" (or any equivalent — "it's in the tracker," "tracked," "set a reminder"), verify that `renewal-tracker` has been run for this contract. Check the outputs folder or the matter folder for a `renewal-tracker` output that names this counterparty / agreement. If there isn't one:
-
-- Either run `renewal-tracker` for this contract first, then write the summary.
-- Or write the summary without asserting the tracker entry, and include an action item: "Add to renewal tracker — not yet done."
-
-Claiming a tracker entry exists when it does not is worse than omitting the reassurance. The stakeholder then trusts the reminder that will never fire. If the truthful statement is "tracked," the skill runs the tracker. If it's "you should add this to your calendar — I haven't logged it," say that.
-
-**What you need to do:**
-- [ ] [Action item, if any — "confirm the team is okay with data living in EU"
-  or "nothing — I'll route for signature"]
-
-**Approval:** [who's approving and expected timing]
+```
+Eskalationsstatus: [M] von [N] Eskalationspfaden eingeleitet.
+Noch ausstehend:
+- [Adressat] — [ein Satz zum Befund]
 ```
 
-### What to translate
+Wenn alle eingeleitet: `[N] von [N] Eskalationspfaden eingeleitet.`
+Wenn das Prüfungsmemo keine Eskalationen vorsieht: Block weglassen.
 
-| Legal finding | Business translation |
+## Ausgabeformat
+
+```markdown
+[ARBEITSERGEBNIS-KENNZEICHNUNG — nur für interne juristische Kreise;
+bei Weiterleitung an Nicht-Juristen entfernen]
+
+**[Vertragspartner] [Vertragstyp]** — [UNTERSCHRIFTSREIF / ÄNDERUNGEN ERFORDERLICH / BLOCKIERT]
+
+[Absatz 1: Was ist dieser Vertrag — in Geschäftssprache.]
+
+[Absatz 2: Der Haken, falls vorhanden. Oder: „Kein besonderer Hinweis."]
+
+**Eskalationsstatus:** [M] von [N] Eskalationspfaden eingeleitet.
+[Ausstehende Adressaten, falls vorhanden]
+
+**Was jetzt zu tun ist:**
+- [ ] [Handlungspunkt — konkret]
+- [ ] [Handlungspunkt — konkret]
+
+**Genehmigung:** [Wer genehmigt und bis wann]
+```
+
+### Übersetzungstabelle: juristischer Befund → Geschäftssprache
+
+| Juristischer Befund | Übersetzung für Empfänger |
 |---|---|
-| "Liability capped at 12 months fees" | "If they break something, the most we can recover is a year's worth of what we paid them." |
-| "No termination for convenience" | "Once we sign, we're locked in for the full term — we can't just cancel if we stop using it." |
-| "Auto-renewal with 60-day notice" | "This renews automatically every year. To cancel, we have to tell them two months before the renewal date." |
-| "No IP indemnity" | "If someone sues us claiming this tool infringes their patent, the vendor isn't on the hook to defend us." |
-| "Subprocessor list not disclosed" | "We don't know what other companies will have access to our data through them." |
-| "Data deletion within 30 days of termination" | "When we cancel, they delete our data within a month. Export anything you need before then." |
-| "SLA credits capped at 10% of monthly fee" | "If the service goes down, we get a small credit back. It won't cover the cost of the downtime to the business." |
+| „Haftung auf 12 Monate Vergütung begrenzt" | „Wenn sie etwas kaputt machen, können wir maximal ein Jahresgehalt zurückfordern." |
+| „Keine ordentliche Kündigung" | „Einmal unterschrieben, sitzen wir die Laufzeit aus — wir können nicht einfach kündigen, wenn wir den Dienst nicht mehr nutzen." |
+| „Automatische Verlängerung mit 6-Wochen-Frist" | „Verlängert sich jedes Jahr automatisch. Kündigen müssen wir 6 Wochen vorher." |
+| „Keine Freistellung bei IP-Verletzung" | „Wenn jemand klagt, dass dieses Tool ein Patent verletzt, übernimmt der Anbieter die Verteidigung nicht." |
+| „Unterauftragnehmerliste nicht offengelegt" | „Wir wissen nicht, welche anderen Unternehmen über diesen Anbieter Zugang zu unseren Daten haben." |
+| „AVV fehlt trotz Verarbeitung personenbezogener Daten" | „Datenschutzrechtlich ist dieser Vertrag noch nicht fertig — ein Pflichtanhang fehlt (DSGVO-Anforderung)." |
+| „SLA-Gutschriften auf 10 % der Monatsgebühr begrenzt" | „Wenn das System ausfällt, bekommen wir eine kleine Gutschrift. Die deckt die tatsächlichen Ausfallkosten für das Unternehmen nicht." |
 
-### What NOT to include
+### Was NICHT hineingehört
 
-- Section numbers
-- Defined terms in quotes
-- The word "indemnification" (say "they cover us if" / "we cover them if")
-- The word "notwithstanding"
-- Risk matrices with colored dots (unless this stakeholder has specifically asked for them before)
-- Caveats about how this isn't legal advice — the stakeholder knows who sent it
+- Paragraphennummern
+- Definierte Begriffe in Anführungszeichen
+- Das Wort „Haftungsfreizeichnung" (stattdessen: „sie übernehmen keine
+  Verantwortung, wenn…")
+- Das Wort „ungeachtet"
+- Risikomatrizen mit Farbpunkten (sofern nicht explizit angefordert)
+- Relativierungsfloskeln à la „Dies ist keine Rechtsauskunft" — der Empfänger
+  weiß, wer diese Zusammenfassung geschrieben hat
 
-## When the review found problems
+## Beispiel
 
-If the review has 🔴 or 🟠 issues, the summary still needs to be two paragraphs — but the second paragraph is "here's what we're pushing back on and why."
+**Szenario:** SaaS-Vertrag für ein Marketing-Tool, Kunden-Seite,
+zwei GELBE Befunde (automatische Verlängerung, Preisanpassungsklausel),
+kein ROTER Befund. Empfänger: Geschäftsführerin.
 
-```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs]
-<!-- Remove the header above if forwarding outside the legal-privileged circle. -->
+```
+VERTRAULICH — ANWALTLICHES ARBEITSERGEBNIS
 
-**[Counterparty] [Agreement type]** — NEEDS CHANGES
+**TechSoft GmbH SaaS-Lizenzvertrag** — UNTERSCHRIFTSREIF (mit Hinweis)
 
-[What it is, one paragraph.]
+Das ist der Vertrag für die neue Marketing-Automatisierungsplattform,
+die das Team seit Q3 testen möchte. Laufzeit 12 Monate, Jahresgebühr
+24.000 €, Datenspeicherung ausschließlich in der EU.
 
-We're going back to them on [N] things before this is ready. The main one:
-[the critical issue in plain English — "they want the right to use our data
-to improve their product, which means our competitors' instance gets smarter
-from our data"]. We've asked them to strike it. [Realistic assessment: "They'll
-probably agree" / "This might be a sticking point — will keep you posted."]
+Zwei Punkte, die Sie kennen sollten: Der Vertrag verlängert sich automatisch
+um ein Jahr, wenn wir nicht 6 Wochen vorher kündigen — ich habe das im
+Fristen-Tracker eingetragen. Außerdem darf TechSoft den Preis bei Verlängerung
+um bis zu 5 % erhöhen; das muss in die Budgetplanung für nächstes Jahr.
 
-**What you need to do:**
-- [ ] Nothing yet — I'll let you know when it's back from them.
-  OR
-- [ ] [Business decision they need to make: "If they won't budge on X, are you
-  okay with Y, or do we walk?"]
+Eskalationsstatus: kein Eskalationsbedarf nach Playbook-Prüfung.
+
+**Was jetzt zu tun ist:**
+- [ ] Verlängerungstermin im Kalender sichern (6 Wochen vor Ende = XX.XX.XXXX)
+- [ ] Preisanpassung in Budgetplanung aufnehmen (+max. 5 % ab 2. Jahr)
+
+**Genehmigung:** Unterschrift durch Prokuristin; keine GC-Freigabe erforderlich.
 ```
 
-## Handoffs
+## Risiken und typische Fehler
 
-**From vendor-agreement-review / saas-msa-review:** Those skills produce the full memo. This skill reads the memo and compresses it. Don't re-review the contract — read the review.
+- **Fristen-Tracker-Eintragung behaupten ohne Prüfung.** Nur dann schreiben
+  „im Fristen-Tracker eingetragen", wenn `/vertragsrecht:fristen-tracker`
+  tatsächlich für diesen Vertrag ausgeführt wurde. Andernfalls:
+  „noch nicht eingetragen — bitte als Handlungspunkt aufnehmen."
+- **Klauseln trunkieren.** Bedingte Klauseln vollständig paraphrasieren —
+  nie verkürzte Version, die die Bedingung weglässt.
+- **Privilegkreis ignorieren.** Bei Weiterleitung außerhalb der
+  Rechtsabteilung Kennzeichnung anpassen; darauf hinweisen, dass die
+  Weiterleitung vertraulicher Rechtsberatung an Dritte den Schutz
+  dieser Kommunikation beeinflusst.
+- **Eskalationsadressen weglassen.** Auch wenn der Empfänger die Namen
+  nicht kennt, muss der Eskalationsstatus intern vollständig sein.
+  Die Zusammenfassung signalisiert dem Anwalt, ob alle Eskalationspfade
+  beschritten wurden.
+- **„Kein Risiko" bei sauberem Vertrag nicht sagen.** Stattdessen:
+  „Kein besonderer Hinweis — der Vertrag entspricht unserem Standard
+  und ist unterzeichnungsreif."
 
-**To the stakeholder:** Via whatever channel `~/.claude/plugins/config/claude-for-legal/commercial-legal/CLAUDE.md` says. If Slack, keep it under 150 words. If email, the format above is fine as-is.
+## Quellenpflicht
 
-## Escalation-fan-out reconciliation
+Wenn die Zusammenfassung auf ein spezifisches Risiko hinweist (z. B.
+DSGVO-Pflicht, Haftungsobergrenze), muss das zugrundeliegende Prüfungsmemo
+die folgenden Quellen enthalten (nicht die Zusammenfassung selbst — die
+ist für Nicht-Juristen):
+- Gesetzesnorm (z. B. Art. 28 DSGVO, § 309 Nr. 7 BGB)
+- BGH-Entscheidung in korrekter Zitierweise
+- Kommentarbeleg im Bearbeiterstil
+  (z. B. Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 45)
 
-The upstream review is a one-to-many producer: it can name five escalation targets (Deputy GC, CISO, Privacy Officer, CFO, business owner) across different findings. `escalation-flagger` routes one finding at a time. Without a reconciliation step, the Deputy GC sees the memo and the other four approvers never do.
-
-Before producing the summary, read the upstream review memo and tally escalations:
-
-1. **Count the escalation targets the review named.** Look for the routing / escalation block at the end of the review, or for per-finding "escalate to [X]" tags. De-dupe by approver name — a reviewer named for two findings counts once.
-2. **Count the escalations actually routed.** Read the review folder (or matter folder) for `escalation-*.md` drafts produced by `escalation-flagger` since the review was written. Each draft names one approver.
-3. **Reconcile.** If N approvers were named and M drafts exist, (N − M) escalations have not been routed.
-
-Include a short reconciliation block in the summary — above the checklist, below the catch paragraph:
-
-```markdown
-**Escalation status:** [M] of [N] escalation targets routed. The following have not been routed and require action:
-- [Approver name] — [one line on the finding that named them]
-- [Approver name] — [one line]
-```
-
-If all N have been routed:
-```markdown
-**Escalation status:** [N] of [N] escalation targets routed.
-```
-
-If the upstream review surfaced no escalations, omit the block.
-
-**Do not omit a named approver from the reconciliation because the stakeholder wouldn't recognize the name.** Business stakeholders often do not know who the Privacy Officer or CISO is. The reconciliation is internal-facing — it tells the lawyer sending the summary whether all the routing is done, not the stakeholder. If the stakeholder-facing summary needs to stay narrow, the reconciliation can live in a "routing status" footer or attached note — but it has to exist. A summary that implies routing is complete when it is not is worse than no summary.
-
-**Word-count carve-out.** The escalation reconciliation block is exempt from the 200-word cap. Length-cap discipline on the summary body stays; the reconciliation is housekeeping, not narrative.
-
-**When no escalation-flagger drafts exist.** If the upstream review named approvers and no drafts are in the folder, treat the count as M = 0. The reconciliation block lists all N as unrouted. That is the finding.
-
-## A note on tone
-
-Stakeholders remember two things about legal: did it block me, and did it make sense. This skill is how legal makes sense. Write like you're explaining it to a smart colleague over coffee, not like you're writing a memo to file.
-
-If the honest summary is "this is fine, sign it," say that. Don't pad a clean review into three paragraphs to look thorough.
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

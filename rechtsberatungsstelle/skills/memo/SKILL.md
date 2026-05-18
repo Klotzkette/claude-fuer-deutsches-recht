@@ -1,210 +1,219 @@
 ---
 name: memo
 description: >
-  IRAC-scaffolded case analysis memo with research gaps flagged — the
-  scaffold, not the analysis. Rule blocks are RESEARCH NEEDED, Application
-  is STUDENT ANALYSIS prompts, Conclusion is blank. Use when a student needs
-  to scaffold a case analysis memo, write up their analysis, or build an
-  IRAC memo for a case.
-argument-hint: "[optional: specific issue to focus]"
+  Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode
+  (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten
+  Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind
+  mit RECHERCHE ERFORDERLICH markiert, die Subsumtion mit STUDENTISCHE ANALYSE,
+  das Ergebnis ist bewusst offen gelassen. Lädt, wenn ein Studierender ein
+  internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder
+  ein Kurz-Gutachten für einen Fall erstellen muss.
+language: de
+triggers:
+  - "Gutachten erstellen"
+  - "Fallanalyse"
+  - "Gutachtenmethode"
+  - "Rechtsgutachten"
+  - "IRSE Methode"
+  - "interne Fallanalyse"
+  - "Mietrecht prüfen"
+  - "Prüfungsschema"
+  - "Obersatz Subsumtion"
 ---
 
-# /memo
+# Internes Rechtsgutachten: Gutachten-Gerüst
 
-1. Load `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → practice areas, jurisdiction.
-2. Use the workflow below. Read intake summary / case notes.
-3. Frame issues as questions. Scaffold IRAC for each — Rule blocks are RESEARCH NEEDED, Application is STUDENT ANALYSIS prompts, Conclusion is blank.
-4. Strengths/weaknesses/open questions. Research gaps summary.
-5. Output with prominent "the analysis is yours" label.
+## Zweck
 
-```
-/legal-clinic:memo
-```
+Das interne Rechtsgutachten ist das Herzstück studentischen Arbeitens in der Beratungsstelle. Diese Skill liefert das Gerüst nach der deutschen Gutachtenmethode (Obersatz — Norm/Definition — Subsumtion — Ergebnis) und kennzeichnet die Recherchelücken. Die Analyse selbst kommt vom Studierenden.
 
----
+**Die Analyse ist Aufgabe des Studierenden.** Diese Skill strukturiert; sie schlussfolgert nicht.
 
-# Memo: Internal Case Analysis
+Hinweis: Die Gutachtenmethode entspricht dem deutschen juristischen Standard. Kurzgutachten (direkter Einstieg mit Ergebnis, dann Begründung) sind für interne Berichte möglich; für die Ausbildung innerhalb der Beratungsstelle wird die volle Gutachtenform bevorzugt.
 
-## Purpose
+## Eingaben
 
-The case analysis memo is where the student's thinking lives. This skill provides the IRAC scaffolding and flags the research gaps — the student fills in the analysis.
+- **Sachverhaltsnotizen / Aktennotiz** — Fakten des Falls; fehlende Angaben werden markiert
+- **Rechtsgebiet** — z. B. Mietrecht, Arbeitsrecht, Verwaltungsrecht, Verbraucherrecht
+- **Spezifische Rechtsfrage** (optional) — falls der Fokus auf einer bestimmten Frage liegen soll
+- **Forschungsstand** (optional) — bereits recherchierte Normen oder Urteile, die eingeflossen sind
 
-**The analysis is the student's.** This skill structures; it doesn't conclude.
+## Rechtlicher Rahmen
 
-## Load context
+### Kernvorschriften
 
-`~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → practice areas, jurisdiction, supervision style.
-Intake summary and case notes for facts.
+- **§ 6 RDG** — Rechtsdienstleistungen durch studentische Beratungsstellen: zulässig als unentgeltliche Rechtsdienstleistung unter anwaltlicher Aufsicht. Das Gutachten ist ein internes Arbeitsmittel und kein Rechtsgutachten im Sinne eines anwaltlichen Leistungsprodukts.
+- **§ 43a Abs. 2 BRAO / § 203 StGB** — Mandatsgeheimnis: Das Gutachten enthält vertrauliche Mandanteninformationen und darf die Beratungsstelle nicht ohne Supervisoren-Freigabe verlassen.
+- Materialrecht des jeweiligen Rechtsgebiets (wird im Gutachten konkretisiert).
 
-## Pedagogy check
+### Leitentscheidungen (exemplarisch für häufige Rechtsgebiete)
 
-Read the supervisor guide for this practice area at `~/.claude/plugins/config/claude-for-legal/legal-clinic/guides/<practice-area>.md`. Check the `pedagogy_posture` setting:
+- BGH, Urt. v. 18.11.2015 – VIII ZR 266/14, NJW 2016, 863 Rn. 8 — Wohnraummiete: Konkretisierung der Mängelanzeigepflicht des Mieters; sinngemäß für Gutachten zu Mängelrügen.
+- BAG, Urt. v. 29.06.2017 – 2 AZR 302/16, NZA 2017, 1121 Rn. 15 — Soziale Rechtfertigung einer betriebsbedingten Kündigung; Interessenabwägung im Prüfungsschema KSchG.
+- BVerwG, Urt. v. 24.04.2019 – 3 C 2/18, NVwZ 2019, 1440 Rn. 12 — Ermessensausübung im Verwaltungsrecht; Prüfungsreihenfolge bei Ermessensentscheidungen.
+- BGH, Urt. v. 26.10.2022 – VIII ZR 390/21, NJW 2023, 142 Rn. 20 — Verbraucherrecht: Widerruf nach § 355 BGB; Voraussetzungen und Rechtsfolgen.
 
-- **`guide` (default):** Produce the IRAC structure and the research-gap list. Ask the student to draft each rule statement themselves from research, rather than giving them a framework. Give feedback on what they wrote. Offer to fill the framework rule for a section only when the student has tried once.
-- **`assist`:** Produce the memo scaffold and fill what can be filled. Flag items for student review. The student edits and learns by reviewing. (Note: this memo skill always leaves the `[STUDENT ANALYSIS]` and `[STUDENT CONCLUSION]` blocks blank by design — `assist` means the skill produces the IRAC scaffold and framework rule statement; it does not produce the application or the conclusion.)
-- **`teach`:** Don't produce the framework or the scaffold content. Ask the student to frame the issues, state the rules from their research, and do the application. Give feedback. Ask leading questions when they're stuck. Only show a model rule statement or a model application paragraph after two attempts, and only for the section they're stuck on. Track what they got right and wrong so the supervisor can see progress.
+### Kommentarliteratur
 
-If no guide exists, use `guide`. If the guide exists but doesn't set a posture, use `guide`.
+- Palandt/Weidenkaff, BGB, 83. Aufl. 2024, § 535 Rn. 1 ff. — Mietrecht: Prüfungsschema Mängel und Gewährleistung.
+- Erfurter Kommentar/Oetker, 24. Aufl. 2024, § 1 KSchG Rn. 5 ff. — Soziale Rechtfertigung der Kündigung; systematische Prüfungsreihenfolge.
+- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 113 Rn. 1 ff. — Begründetheitsprüfung der Anfechtungsklage; Aufbaureihenfolge.
+- BeckOK BGB/Mörsdorf, 70. Ed. (Stand 01.08.2024), § 355 Rn. 10 ff. — Widerruf im Fernabsatz; Prüfungsschema Verbraucherrecht.
 
-Whatever the posture, the output always includes: "**Pedagogy mode: [assist/guide/teach]** — set by your supervisor's guide. This means I [description of what the student did vs what the skill did]."
+## Ablauf
 
-## Workflow
+### Schritt 1: Rechtsfragen formulieren
 
-### Step 1: Frame the issues
+Aus den Fallnotizen: Welche rechtlichen Fragen stellt dieser Fall?
 
-From the intake summary and case notes: what are the legal questions this case presents?
+Jede Frage als Obersatz formulieren. Nicht „Mietrecht" — sondern: „Kann die Mandantin die Miete mindern, weil die Heizung seit November defekt ist, und wenn ja, in welcher Höhe?"
 
-State each as a question. Not "habitability" — "Can the client assert a habitability defense to the eviction based on the broken heater, and if so, does it offset the rent owed?"
+Wenn mehrere Fragen vorliegen, bekommt jede ihren eigenen Prüfungsblock.
 
-If there are multiple issues, each gets its own IRAC block.
+### Schritt 2: Gutachten-Gerüst aufbauen
 
-### Step 2: Scaffold the IRAC
+Für jede Frage:
 
-For each issue:
+**Obersatz:** Als Fragesatz formuliert (aus Schritt 1).
 
-**Issue:** Stated as a question (from Step 1).
+**Norm/Definition:** Dies ist eine Recherche-Lücke, keine Schlussfolgerung. Was der/die Studierende finden muss:
 
-**Rule:** This is a research gap, not a conclusion. State what the student needs to find:
+> `[RECHERCHE ERFORDERLICH: § 536 BGB — Mietminderung wegen Sachmangel;
+> Voraussetzungen: erheblicher Mangel, Anzeige durch Mieter (§ 536c BGB),
+> keine Kenntnis bei Vertragsschluss (§ 536b BGB). Starten Sie mit:
+> § 536 BGB, dann Rspr. zu Heizungsausfall als erheblicher Mangel.
+> Vgl. /research-start für einen Recherchefahrplan.]`
 
-> `[RESEARCH NEEDED: [State] habitability doctrine — warranty of habitability
-> elements, what conditions qualify, remedies available including rent offset.
-> Start with: [State] landlord-tenant statute, then case law on heater/heat
-> specifically. See /research-start for a roadmap.]`
+Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann dieser als Ausgangspunkt benannt werden — aber ausdrücklich als ungeprüft markiert:
 
-If the skill has high confidence in the general rule framework (e.g., "most states recognize an implied warranty of habitability"), state that as a framework starting point — **but explicitly mark it as unverified**:
+> *Normrahmen (ungeprüft — für [Bundesland/Gericht] verifizieren):* § 536 Abs. 1 BGB
+> gibt dem Mieter einen Anspruch auf verhältnismäßige Herabsetzung der Miete,
+> wenn die Mietsache zu Mietbeginn oder während der Mietzeit mit einem Mangel
+> behaftet ist, der ihre Tauglichkeit zum vertragsmäßigen Gebrauch aufhebt oder
+> mindert. Die Minderung tritt kraft Gesetzes ein; einer Erklärung bedarf es nicht.
+> `[PRÜFEN: aktuelle Fassung und einschlägige Rspr. für diesen Sachverhalt]`
 
-> *Framework (unverified — confirm for [State]):* Most jurisdictions recognize
-> an implied warranty of habitability requiring landlords to maintain
-> conditions fit for human occupation. Breach may give rise to rent withholding,
-> repair-and-deduct, or rent abatement.
-> `[VERIFY: [State]'s specific elements and remedies]`
+**Subsumtion:** Hier steht die Analyse des Studierenden. Gerüst strukturieren, nicht ausfüllen:
 
-**Application:** This is where the student's analysis goes. Scaffold the structure, don't fill it:
+> `[STUDENTISCHE ANALYSE: Norm auf Sachverhalt anwenden. Relevante Tatsachen:
+> - Heizung seit November defekt — seit wann ist dies ein „erheblicher" Mangel?
+> - Wann und wie hat die Mandantin den Vermieter informiert (§ 536c BGB)?
+> - Ist ein Minderungsausschluss nach § 536b BGB möglich?
+> - Wie hoch ist der Minderungsprozentsatz (Rspr. zu Heizungsausfall prüfen)?]`
 
-> `[STUDENT ANALYSIS: Apply the rule to the facts. Key facts to address:
-> - Heater broken since November — how long is "unreasonable"?
-> - Client notified landlord [when? how? documented?]
-> - Landlord's response or lack thereof
-> - [State]-specific: does client need to have given written notice?
->   deposited rent in escrow? other procedural prerequisites?]`
+**Ergebnis:** Bewusst offen lassen:
 
-List the facts that matter. Let the student do the applying.
+> `[STUDENTISCHES ERGEBNIS: Welche Schlussfolgerung ergibt sich aus Norm und
+> Subsumtion? Wie stark ist der Anspruch? Welche Gegenargumente sind zu erwarten?]`
 
-**Conclusion:** Explicitly blank:
+### Schritt 3: Stärken, Schwächen, offene Fragen
 
-> `[STUDENT CONCLUSION: Based on your research and analysis above, what's the
-> likely outcome? How strong is this defense? What are the weaknesses?]`
+Separater Abschnitt nach den Prüfungsblöcken:
 
-### Step 3: Identify strengths, weaknesses, open questions
+**Stärken (aus dem Sachverhalt — Studierende/-r soll diese testen):**
+- [Hilfreiche Tatsache und warum]
 
-Separate section, after the IRAC blocks:
+**Schwächen (aus dem Sachverhalt — Studierende/-r soll Gewicht abschätzen):**
+- [Problematische Tatsache und warum]
+- `[UNSICHER: ob [X] tatsächlich eine Schwäche ist — hängt von [Norm/Rspr.] zu [Y] ab]`
 
-**Strengths (apparent from facts — student should test these):**
-- [Fact that seems helpful and why]
+**Offene Fragen (aus dem Gutachten nicht beantwortbar):**
+- Sachverhaltlich: [Was wissen wir nicht über den Mandanten/die Mandantin?]
+- Rechtlich: [Was erfordert Recherche?]
+- Strategisch: [Ermessensentscheidungen für Studierenden/Supervisor]
 
-**Weaknesses (apparent from facts — student should assess how serious):**
-- [Fact that seems harmful and why]
-- `[UNCERTAIN: whether [X] is actually a weakness — depends on [State] rule on [Y]]`
-
-**Open questions (things the memo can't answer without more info):**
-- Factual: [what we don't know from the client]
-- Legal: [what needs research]
-- Strategic: [judgment calls for the student/professor]
-
-## Output
+## Ausgabeformat
 
 ```markdown
 ═══════════════════════════════════════════════════════════════════════
-  AI-ASSISTED SCAFFOLD — THE ANALYSIS IS YOURS TO WRITE
-  Every [RESEARCH NEEDED] and [STUDENT ANALYSIS] block is a prompt, not
-  a placeholder to delete. The thinking happens when you fill them in.
+  KI-GESTÜTZTES GERÜST — DIE ANALYSE IST VON IHNEN ZU VERFASSEN
+  Jeder [RECHERCHE ERFORDERLICH]- und [STUDENTISCHE ANALYSE]-Block ist
+  eine Aufgabe, kein Platzhalter zum Löschen. Der Bildungswert liegt
+  im Ausfüllen dieser Blöcke.
 ═══════════════════════════════════════════════════════════════════════
 
-# Case Analysis Memo: [Client] — [Matter]
+# Internes Rechtsgutachten: [Mandant] — [Rechtsfrage]
 
-**Date:** [date] | **By:** [student] | **For:** [Professor]
-
----
-
-## Bottom line
-
-[Take the case / Decline because X / Need more info on Y — next step is Z]
+**Datum:** [Datum] | **Verfasser/-in:** [Studierender] | **Für:** [Supervisor]
 
 ---
 
-## Issues Presented
+## Kurzergebnis
 
-1. [Issue as question]
-2. [Issue as question]
-
----
-
-## Issue 1: [Issue]
-
-### Rule
-
-[Framework starting point with VERIFY flags, and RESEARCH NEEDED blocks]
-
-### Application
-
-[STUDENT ANALYSIS scaffold with the facts that matter]
-
-### Conclusion
-
-[STUDENT CONCLUSION — blank]
+[Mandat annehmen / Ablehnen, weil X / Weitere Informationen zu Y erforderlich —
+nächster Schritt: Z]
 
 ---
 
-[repeat for each issue]
+## Geprüfte Fragen
+
+1. [Frage als Obersatz]
+2. [Frage als Obersatz]
 
 ---
 
-## Strengths
+## Frage 1: [Obersatz]
 
-[list with caveats]
+### Norm / Definition
 
-## Weaknesses
+[Normrahmen als Ausgangspunkt mit PRÜFEN-Flags und RECHERCHE ERFORDERLICH-Blöcken]
 
-[list with UNCERTAIN flags where applicable]
+### Subsumtion
 
-## Open Questions
+[STUDENTISCHE ANALYSE — Gerüst mit den relevanten Tatsachen]
 
-**Factual:** [list]
-**Legal:** [list — these feed /research-start]
-**Strategic:** [list — these are for discussion with Professor]
+### Ergebnis
+
+[STUDENTISCHES ERGEBNIS — bewusst offen]
 
 ---
 
-## Research gaps summary
+[Wiederholung für jede weitere Frage]
 
-[Every RESEARCH NEEDED block pulled out into one list, so the student can
-work through them systematically — and can run /research-start on each]
+---
+
+## Stärken
+
+[Liste mit Vorbehalten]
+
+## Schwächen
+
+[Liste mit UNSICHER-Flags, wo zutreffend]
+
+## Offene Fragen
+
+**Sachverhaltlich:** [Liste]
+**Rechtlich:** [Liste — diese fließen in /research-start ein]
+**Strategisch:** [Liste — dies ist die Agenda für das Supervisorengespräch]
+
+---
+
+## Recherchelücken-Zusammenfassung
+
+[Alle RECHERCHE ERFORDERLICH-Blöcke in einer Liste, damit der/die Studierende
+sie systematisch abarbeiten kann — und /research-start für jede starten kann]
 
 ═══════════════════════════════════════════════════════════════════════
-
-## What this memo is NOT
-
-This is a scaffold, not an analysis. The [STUDENT ANALYSIS] blocks are where
-the educational value lives — filling them in is the work. A memo where those
-blocks are still empty is a memo that hasn't been written yet.
-
----
-
-**Cite verification — required before use.** Any framework rules, cases, or statutes suggested above were generated by an AI model and have not been verified. Before relying on any citation — or including it in client work — run it through Westlaw, Fastcase, CourtListener, or your clinic's research platform for accuracy and current good-law status. Flag unverified citations to your supervisor.
-
-**Source attribution.** Tag every suggested citation in the scaffold with where it came from: `[Westlaw]`, `[CourtListener]`, `[Fastcase]`, or the MCP tool name for citations retrieved from a legal research connector; `[web search — verify]` for web-search citations; `[model knowledge — verify]` for citations recalled from training data; `[user provided]` for citations the supervising attorney or case file supplied. Citations tagged `verify` carry higher fabrication risk than tool-retrieved citations and should be checked first. Never strip or collapse the tags — they are the supervisor's fastest signal about which citations to verify.
-
-**No silent supplement.** If a query to a configured research tool returns few or no results for a rule the memo needs, say so and stop. Do NOT fill the gap from web search or model knowledge without asking. Say: "The search returned [N] results from [tool]. Coverage appears thin for [rule / issue]. Options: (1) broaden the search query, (2) try a different research tool, (3) search the web — results will be tagged `[web search — verify]` and should be checked against a primary source before relying, or (4) leave `[RULE TO VERIFY]` and stop. Which would you like?" The supervising attorney decides whether to accept lower-confidence sources.
 ```
 
-## What this skill does NOT do
+## Beispiel
 
-- **Write the analysis.** It scaffolds the IRAC and flags the gaps. The student reasons through the application.
-- **Provide verified rules.** Every rule statement is explicitly unverified until the student researches it.
-- **Reach conclusions.** The C in IRAC is blank on purpose.
-- **Replace the conversation with the professor.** The Open Questions / Strategic section is the agenda for that conversation, not a substitute.
+**Szenario:** Mandant Koch, Mieter einer 3-Zimmer-Wohnung. Heizung defekt seit 01.11.2025. Vermieter nach mündlicher Anzeige vom 05.11.2025 untätig. Mandant zahlt weiter volle Miete 1.200 €/Monat.
 
-## Close with the next-steps decision tree
+Obersatz: „Hat Herr Koch einen Anspruch auf Mietminderung nach § 536 Abs. 1 BGB und wenn ja, in welcher Höhe?"
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+Normblock enthält: `[RECHERCHE ERFORDERLICH: § 536 BGB, § 536c BGB (Anzeigepflicht), Rspr. zu Heizungsausfall als erheblicher Mangel — AG/LG München, AG Hamburg; Höhe des Minderungsprozentsatzes]`. Subsumtionsblock enthält: `[STUDENTISCHE ANALYSE: Anzeigepflicht am 05.11.2025 erfüllt? Schriftform? Wie viele Monate betroffen?]`. Ergebnisblock offen.
 
+## Risiken und typische Fehler
+
+- **Analyse ohne Recherche ausfüllen:** Die RECHERCHE ERFORDERLICH-Blöcke sind keine Formalität. Ein Gutachten mit ungefüllten oder voreilig abgehakten Normblöcken ist noch kein Gutachten.
+- **Unsicherheiten stillschweigend übergehen:** Wenn ein UNSICHER-Flag gesetzt ist, ist das ein Hinweis zur Recherche oder zum Supervisorengespräch, kein Tippfehler.
+- **Kurzergebnis ohne Analyse:** Das Kurzergebnis am Anfang des Gutachtens ist eine Orientierung; es muss durch die Prüfungsblöcke belegt sein.
+- **Gutachten verlässt Klinik ohne Freigabe:** Das interne Gutachten enthält vertrauliche Mandanteninformationen (§ 203 StGB, § 43a Abs. 2 BRAO). Kein Versand ohne Supervisoren-Freigabe.
+- **Falsches Prüfungsschema:** Das Gerüst folgt der üblichen deutschen Gutachtenreihenfolge. Abweichende Prüfungsreihenfolgen (z. B. Prozessvoraussetzungen zuerst im Verwaltungsrecht) müssen vom Studierenden eigenständig berücksichtigt werden.
+
+## Quellenpflicht
+
+Jeder im Gerüst vorgeschlagene Normrahmen oder Entscheidungshinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Belege; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit „verifizieren" tragen ein höheres Fehlerrisiko und sind zuerst zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

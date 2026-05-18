@@ -1,163 +1,175 @@
 ---
 name: draft
 description: >
-  First draft of a common clinic document — practice-area templates (asylum
-  applications, eviction answers, protective order petitions, demand letters),
-  jurisdiction-aware formatting, explicitly a starting point requiring student
-  analysis and attorney review. Use when a student needs a first draft of a
-  motion, letter, petition, declaration, or other clinic document.
-argument-hint: "[document type — e.g., 'eviction-answer', 'asylum-declaration', 'demand-letter']"
+  Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle —
+  Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe,
+  Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme
+  Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden-
+  Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten
+  Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks
+  der Klinik benötigt.
+language: de
+triggers:
+  - "Schriftsatz entwerfen"
+  - "Widerspruch formulieren"
+  - "Klageschrift Entwurf"
+  - "Mahnschreiben"
+  - "Mietrecht Brief"
+  - "Beratungshilfe Antrag"
+  - "Erstantrag formulieren"
+  - "PKH Antrag"
+  - "Schutzschrift"
 ---
 
-# /draft
+# Schriftsatzentwurf: Erstentwurf-Erstellung
 
-1. Load `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → practice-area templates, jurisdiction, local rules, supervision style.
-2. Use the workflow below.
-3. Match doc type to template. Gather facts from case notes — flag missing, never guess.
-4. Apply jurisdiction formatting. Draft with `[FACT NEEDED]`, `[VERIFY]`, `[UNCERTAIN]` flags inline.
-5. Output with prominent AI-assisted label, student review checklist, supervision routing.
+## Zweck
 
-```
-/legal-clinic:draft eviction-answer
-```
+Studierende wenden erhebliche Zeit auf Erstentwürfe von Schriftstücken auf, deren Bildungswert in der rechtlichen Analyse und Strategie liegt — nicht im Abtippen eines Rubrum oder im Formulieren von „Sehr geehrte Damen und Herren". Diese Skill erstellt den Erstentwurf aus Fallnotizen und Rechtsgebiet-spezifischen Mustern, damit die studentische Arbeitszeit dem eigentlichen juristischen Denken zugute kommt.
 
-```
-/legal-clinic:draft asylum-declaration
-```
+**Jeder Entwurf ist ausdrücklich ein Ausgangspunkt.** Kein fertiges Arbeitsergebnis. Der/die Studierende analysiert und überarbeitet; der Supervisor prüft, bevor das Schriftstück die Beratungsstelle verlässt.
 
----
+Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfolgen nach § 6 Abs. 1 RDG als unentgeltliche Rechtsdienstleistung unter Aufsicht eines zur Rechtsanwaltschaft zugelassenen Supervisors (§ 6 Abs. 2 RDG). Alle nach außen gehenden Schriftstücke sind ohne Supervisoren-Freigabe nicht zu versenden.
 
-# Draft: First-Draft Document Generation
+## Eingaben
 
-## Purpose
+- **Schriftstücktyp** — z. B. `widerspruch`, `klageschrift-ag`, `mahnschreiben`, `beratungshilfe-antrag`, `pkh-antrag`, `mietrechtliches-kuendigungsschreiben`
+- **Sachverhaltsnotizen / Aktennotiz** — Fakten des Falls; fehlende Angaben werden markiert, nie erfunden
+- **Rechtsgebiet** — Mietrecht, Arbeitsrecht, Verwaltungsrecht, Verbraucherrecht u. a.
+- **Zuständiges Gericht / Behörde** (falls bekannt) — für Rubrum und Formvorschriften
+- **Frist** — ob eine Einreichungsfrist läuft und bis wann
 
-Students spend enormous time on first drafts of documents where the educational value is in the analysis and strategy, not in formatting a caption or writing "Dear Judge." This skill produces the first draft from case notes and practice-area templates so the student's time goes to the thinking.
+## Rechtlicher Rahmen
 
-**Every draft is explicitly a starting point.** Not final work product. The student analyzes, revises, and the professor reviews before anything goes anywhere.
+### Kernvorschriften
 
-## Load context
+- **§ 6 RDG** — Unentgeltliche Rechtsdienstleistung: zulässig durch Rechtsberatungsstellen unter anwaltlicher Aufsicht; die Aufsicht muss durch eine zur Rechtsanwaltschaft zugelassene Person ausgeübt werden.
+- **§ 43a Abs. 2 BRAO** — Mandatsgeheimnis/Verschwiegenheitspflicht: gilt sinngemäß für Studierende der Beratungsstelle; keine Informationen aus dem Mandat nach außen.
+- **§ 203 Abs. 3 StGB** — Strafbarkeit der Verletzung von Privatgeheimnissen; Studierende sind als „berufsmäßig tätige Gehilfen" i. S. d. § 203 Abs. 3 S. 2 StGB zu behandeln.
+- **§§ 114 ff. ZPO** — Prozesskostenhilfe (PKH): Entwürfe für PKH-Anträge müssen wirtschaftliche Verhältnisse vollständig darlegen; Prüfung hinreichender Erfolgsaussichten (§ 114 Abs. 1 S. 1 ZPO).
+- **§§ 1, 2 BerHG** — Beratungshilfe: Voraussetzungen, Bewilligung vor Erbringung der Leistung.
+- **§§ 17, 18, 23 VwVfG** — Form von Widersprüchen und Verwaltungsverfahrensschreiben.
+- **§ 70 VwGO** — Form des Widerspruchs (schriftlich oder zur Niederschrift); Einreichungsfrist nach §§ 70, 58, 74 VwGO.
 
-`~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → practice areas, practice-area templates, jurisdiction (state + local court + any local rules ingested), supervision style.
+### Leitentscheidungen
 
-Case notes or intake summary for the facts.
+- BGH, Urt. v. 16.07.2015 – IX ZR 197/14, NJW 2015, 3087 Rn. 20 — Anwaltliche Sorgfaltspflicht bei der Erstellung von Schriftsätzen; sinngemäß auf Beratungsstellen unter Aufsicht übertragbar.
+- BAG, Urt. v. 27.02.2020 – 2 AZR 570/19, NZA 2020, 901 Rn. 12 — Formvoraussetzungen und Klarheit eines Beendigungsschreibens im Arbeitsrecht; Schriftformgebot des § 623 BGB.
+- BVerwG, Urt. v. 20.02.2019 – 6 C 1/18, NVwZ 2019, 735 Rn. 8 — Formwirksamkeit des Widerspruchs im Verwaltungsverfahren; Anforderungen an Bestimmtheit und Begründung.
+- BGH, Urt. v. 06.07.2021 – VI ZR 40/20, NJW 2021, 3055 Rn. 18 — Inhaltliche Anforderungen an Mahnschreiben und Forderungsbriefe; keine Irreführung nach §§ 3, 5 UWG.
 
-## Pedagogy check
+### Kommentarliteratur
 
-Read the supervisor guide for this practice area at `~/.claude/plugins/config/claude-for-legal/legal-clinic/guides/<practice-area>.md`. Check the `pedagogy_posture` setting:
+- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 ff. — Voraussetzungen unentgeltlicher Rechtsdienstleistung; studentische Beratungsstellen.
+- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 242 Rn. 34 — Gestaltung von Schreiben im Schuldrecht; Grundsatz von Treu und Glauben als Stilprinzip.
+- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 70 Rn. 3 ff. — Formvorschriften für den Widerspruch.
+- BeckOK ZPO/Vorwerk, 53. Ed. (Stand 01.03.2025), § 114 Rn. 5 ff. — Voraussetzungen der Prozesskostenhilfe.
 
-- **`guide` (default):** Produce the structure and the checklist. Ask the student to draft each section. Give feedback on their draft (register, reading level, required elements, what they missed). Offer to fill a section only when the student has tried once.
-- **`assist`:** Produce the work product. Flag items for student review. The student edits and learns by reviewing.
-- **`teach`:** Don't produce the work product. Ask the student to draft it. Give feedback. Ask leading questions when they're stuck. Only show a model paragraph after two attempts, and only the section they're stuck on. Track what they got right and wrong so the supervisor can see progress.
+## Ablauf
 
-If no guide exists, use `guide`. If the guide exists but doesn't set a posture, use `guide`.
+### Schritt 1: Welches Schriftstück?
 
-Whatever the posture, the output always includes: "**Pedagogy mode: [assist/guide/teach]** — set by your supervisor's guide. This means I [description of what the student did vs what the skill did]."
+Den Anforderungstyp dem Musterbestand der Beratungsstelle zuordnen. Typischer Bestand nach Rechtsgebiet:
 
-**Jurisdiction assumption.** The draft assumes the state, court, and local rules set in CLAUDE.md. Caption format, service requirements, page limits, filing windows, and substantive rules vary materially across jurisdictions and even between courts in the same state. If the matter is in a different court or a different state, confirm with your supervisor before relying on any format, deadline, or argument in the draft.
-
-## Workflow
-
-### Step 1: Which document?
-
-Match the request to the clinic's template set (from `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md`). Common set by practice area:
-
-| Practice area | Documents |
+| Rechtsgebiet | Schriftstücke |
 |---|---|
-| **Immigration** | I-589 asylum application narrative, client declaration, motion to change venue, motion to continue, FOIA request, country conditions summary |
-| **Housing** | Eviction answer, demand letter (repairs/deposit), motion to stay execution, discovery requests |
-| **Family** | Protective order petition, custody declaration, motion to modify, financial affidavit |
-| **Consumer** | Debt validation letter, FDCPA demand letter, answer to collection complaint, motion to vacate default |
-| **General litigation** | Motion template, notice of appearance, certificate of service |
+| **Mietrecht** | Widerspruch gegen Kündigung, Mängelrüge mit Fristsetzung, Klage auf Kaution, Antrag auf einstweiligen Rechtsschutz |
+| **Arbeitsrecht** | Kündigungsschutzklage (AG), Abmahnungsrüge, Zeugnisverlangen, Lohnrückstandsschreiben |
+| **Verwaltungsrecht** | Widerspruchsschreiben, Klage beim Verwaltungsgericht (Entwurf), Antrag auf aufschiebende Wirkung (§ 80 Abs. 4, 5 VwGO) |
+| **Verbraucherrecht** | Widerrufserklärung (§ 355 BGB), Mahnschreiben, Antwort auf Inkassoschreiben, Antrag auf Lastschriftrückgabe |
+| **Allgemein** | Beratungshilfe-Antrag (BerH 1), PKH-Antrag (ZPO 117), Vollmacht, Empfangsbekenntnis |
 
-If the requested document isn't in the template set: "The clinic's templates don't include [X]. I can attempt a draft from general principles, but flag this heavily — it hasn't been tuned for your practice area or jurisdiction. Better to ask [Professor] if there's an existing template."
+Falls das angeforderte Schriftstück nicht im Musterbestand vorhanden ist: „Der Musterbestand der Beratungsstelle enthält kein Muster für [X]. Ich kann einen Entwurf nach allgemeinen Grundsätzen versuchen, aber dieser muss besonders sorgfältig geprüft werden — er wurde nicht auf das Rechtsgebiet und die zuständige Behörde/das Gericht abgestimmt. Besser wäre, den Supervisor zu fragen, ob ein bewährtes Muster vorliegt."
 
-### Step 2: Gather the facts
+### Schritt 2: Sachverhalt aufnehmen
 
-Read the intake summary or case notes. For each fact the document needs: do we have it?
+Fallnotizen und Aktennotiz lesen. Für jeden Aspekt, den das Schriftstück benötigt: Liegt die Information vor?
 
-| Document needs | Have? | Source |
+| Schriftstück braucht | Vorhanden? | Quelle |
 |---|---|---|
-| [fact] | ✓ / ✗ | [intake / client doc / need to get] |
+| [Tatsache] | Ja / Nein | [Aktennotiz / Mandantenunterlage / noch zu beschaffen] |
 
-Missing required facts → don't guess. Mark them: `[FACT NEEDED: client's entry date — get from I-94 or ask client]`.
+Fehlende notwendige Tatsachen → nicht erfinden. Markierung: `[TATSACHE FEHLT: Zustellungsdatum der Kündigung — aus Briefumschlag oder Postzustellungsurkunde entnehmen]`.
 
-### Step 3: Apply jurisdiction
+### Schritt 3: Zuständiges Gericht / Behörde und Formvorschriften
 
-Per `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` jurisdiction:
+- **Rubrum:** Gericht, Aktenzeichen (falls vorhanden), Parteien, Bevollmächtigte/r (Studierender unter Aufsicht des Supervisors)
+- **Formvorschriften:** Schriftform, Unterschrift, Einreichungsweg (post, Fax, beA, elektronisch)
+- Sind örtliche Besonderheiten nicht bekannt: `[PRÜFEN: Einreichungsweg beim zuständigen Gericht / der zuständigen Behörde überprüfen]`
 
-- **Caption format:** state and local court rules. If local rules were ingested at cold-start, use them. If not, use state default and flag: `[VERIFY CAPTION: local rules not loaded — confirm format against [Court]'s current rules]`
-- **Service requirements:** who gets served, how, by when per the court's rules
-- **Local quirks:** page limits, font requirements, standing orders. Apply what's ingested; flag what isn't.
+### Schritt 4: Entwerfen
 
-### Step 4: Draft
+Das Rechtsgebiet-Muster verwenden. Füllen, was aus den Fakten befüllt werden kann. Platzhalter explizit lassen — niemals mit plausibel klingendem Inhalt füllen.
 
-Use the practice-area template. Fill what can be filled from facts. Leave placeholders explicit — never fill with plausible-sounding invention.
+**Wo immer der Entwurf eine Rechtsbehauptung aufstellt:** Diese Behauptung ist eine Hypothese, die der/die Studierende überprüft, keine Schlussfolgerung, auf die der Entwurf sich verlässt. Entsprechend markieren.
 
-**Everywhere the draft makes a legal assertion:** that assertion is a hypothesis the student verifies, not a conclusion the draft guarantees. Mark accordingly.
+### Schritt 5: Unsicherheiten kennzeichnen
 
-### Step 5: Flag uncertainty
+Drei Arten von Markierungen, direkt im Text:
 
-Three kinds of flags, in-line:
+- `[TATSACHE FEHLT: ...]` — das Schriftstück benötigt eine Tatsache, die die Fallnotizen nicht enthalten
+- `[PRÜFEN: ...]` — eine Rechts- oder Tatsachenbehauptung, die vor Einreichung überprüft werden muss
+- `[UNSICHER: ...]` — der Skill ist genuinely unsicher und sagt dies, anstatt zu raten
 
-- `[FACT NEEDED: ...]` — the document needs a fact the case notes don't have
-- `[VERIFY: ...]` — a legal or factual assertion that needs checking before this is filed
-- `[UNCERTAIN: ...]` — the skill is genuinely unsure and says so rather than guessing
+### Schritt 6: Supervisoren-Routing
 
-### Step 6: Supervision routing
+Ein Schriftstück bei Gericht oder einer Behörde einzureichen ist eine folgenschwere Handlung. Das Gate ist das Supervisionsmodell der Beratungsstelle, verstärkt durch die Grundvoraussetzung, dass ein zugelassener Rechtsanwalt/eine zugelassene Rechtsanwältin die Aufsicht innehat (§ 6 Abs. 2 RDG). Gerichtliche und behördliche Einreichungen gehen immer durch die Supervisoren-Prüfung, unabhängig vom gewählten Supervisionsmodell.
 
-Filing a document with a court or agency is a consequential action. The gate is the supervision workflow in `## Supervision style` in `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md`, reinforced by the Part 0 role check that confirms a licensed supervising attorney owns the clinic setup. Court filings always route through supervision before filing, regardless of the supervision-style choice.
+- **Formelle Prüfwarteschlange:** Entwurf geht in die Warteschlange; Studierender sieht „in Warteschlange für [Supervisor]"
+- **Konfigurierbare Flags:** Wenn dieser Schriftstücktyp ein Flag auslöst (gerichtliche Einreichungen in der Regel immer), enthält der Output: „VOR DER EINREICHUNG MIT [SUPERVISOR] ABSPRECHEN"
+- **Leichtere Begleitung:** Standard-Sicherheitslabel; keine zusätzliche Schranke — aber gerichtliche Einreichungen gehen per Klinikverfahren dennoch an den Supervisor vor Einreichung
 
-Per `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` supervision style:
-- **Formal queue:** draft goes to queue, student sees "queued for [Professor]"
-- **Configurable flags:** if this document type is a flag trigger (court filings usually are), output includes "CHECK WITH [PROFESSOR] BEFORE FILING"
-- **Lighter-touch:** standard safeguard label, no additional gate — but court filings still go to the professor before filing per the clinic's existing supervision structure
+## Ausgabeformat
 
-## Output
-
-```markdown
+```
 ═══════════════════════════════════════════════════════════════════════
-  AI-ASSISTED DRAFT — REQUIRES STUDENT ANALYSIS AND ATTORNEY REVIEW
-  This is a starting point, not final work product.
-  Every [VERIFY] and [FACT NEEDED] flag must be resolved before filing.
+  KI-GESTÜTZTER ENTWURF — ERFORDERT STUDENTISCHE ANALYSE UND SUPERVISOREN-PRÜFUNG
+  Dies ist ein Ausgangspunkt, kein fertiggestelltes Arbeitsergebnis.
+  Jedes [PRÜFEN]- und [TATSACHE FEHLT]-Flag muss vor der Einreichung aufgelöst werden.
+  § 6 Abs. 2 RDG: Einreichung erst nach Supervisoren-Freigabe.
 ═══════════════════════════════════════════════════════════════════════
 
-[The document — in the practice-area template format, jurisdiction-aware,
-with flags inline]
+[Das Schriftstück — im Rechtsgebiet-Musterformat, formvorschriftengerecht,
+mit Flags direkt im Text]
 
 ═══════════════════════════════════════════════════════════════════════
 
-## Student review checklist
+## Prüfliste für Studierende
 
-Before showing this to [Professor]:
+Vor Vorlage an [Supervisor]:
 
-- [ ] Read the whole thing. Does it say what you want it to say?
-- [ ] Every fact: is it accurate per the client's actual documents, not just the intake notes?
-- [ ] Every [VERIFY] flag: resolved with research or struck
-- [ ] Every [FACT NEEDED] flag: filled with verified information or the section removed
-- [ ] Legal theory: is this the right argument? Are there better ones? (That's your analysis, not the draft's.)
-- [ ] Jurisdiction: caption, service, format correct per current local rules
-- [ ] [Supervision step per CLAUDE.md style]
-
-## What this draft does NOT do
-
-- It does not decide strategy. The draft follows the most common approach for
-  this document type — you decide if that's right for this client.
-- It does not verify its own legal assertions. Every legal conclusion above is
-  a hypothesis until you research it.
-- It does not file itself. [Professor] reviews, you file per clinic procedure.
-
----
-
-**Before this leaves the clinic.** This is a student draft for supervising-attorney review, not a final letter, filing, or form. Filing it with a court or agency, or sending it to a client or opposing party, has legal consequences for the client. A licensed supervising attorney reviews, edits, and signs off before it leaves the clinic. Strip the AI-assisted draft header only after that sign-off. Do not send or file this draft without supervisor approval.
-
-*ABA Formal Opinion 512 (2024): generative AI use requires competence,
-supervision, and verification. This draft is designed to be supervised and
-verified — it is not designed to be trusted without that.*
+- [ ] Das Schriftstück vollständig lesen. Sagt es das, was ausgedrückt werden soll?
+- [ ] Jede Tatsache: stimmt sie mit den tatsächlichen Mandantenunterlagen überein?
+- [ ] Jedes [PRÜFEN]-Flag: durch Recherche aufgelöst oder gestrichen
+- [ ] Jedes [TATSACHE FEHLT]-Flag: mit verifizierten Informationen gefüllt oder Abschnitt entfernt
+- [ ] Rechtsgrundlage: ist dies die richtige Argumentation? Gibt es bessere Ansätze? (Das ist die Analyse des Studierenden, nicht des Entwurfs.)
+- [ ] Formvorschriften: Rubrum, Einreichungsweg, Format nach aktuellen Vorschriften korrekt?
+- [ ] [Supervisionsschritt per Klinik-Konfiguration]
 ```
 
-## What this skill does NOT do
+## Beispiel
 
-- **Produce final work product.** First draft only. Student revises, professor reviews.
-- **Guess at missing facts.** Flags them for the student to get.
-- **Decide the legal theory.** Uses the common approach; the student decides if it's the right one for this case.
-- **Replace jurisdiction-specific research.** Applies ingested local rules; flags where rules weren't ingested or might have changed.
+**Szenario:** Mandantin Erdem erhält eine fristlose Kündigung ihres Arbeitsverhältnisses. Kündigung zugestellt am 15.04.2026. Studierender Müller soll einen Entwurf der Kündigungsschutzklage beim Arbeitsgericht Berlin erstellen.
+
+```
+/draft kuendigungsschutzklage-ag
+Fall: Erdem-Arbeitsrecht-2026
+Frist: 06.05.2026 (3 Wochen ab 15.04.2026, § 4 KSchG)
+Arbeitgeber: Beispiel GmbH, Musterstraße 1, 10115 Berlin
+```
+
+Entwurf enthält: Rubrum (AG Berlin), Anträge, Klagebegründung mit `[PRÜFEN: Beschäftigungsdauer und Betriebsgröße für Anwendbarkeit KSchG]`, `[TATSACHE FEHLT: Datum des Arbeitsvertragsabschlusses]`.
+
+## Risiken und typische Fehler
+
+- **Frist nicht beachtet:** Der Entwurf weist auf erkannte Fristen hin, berechnet sie aber nicht selbst. Studierende müssen die Dreiwochenfrist des § 4 KSchG, die Widerspruchsfrist (§ 70 VwGO), Verjährungsfristen (§ 195 BGB) eigenständig prüfen und in `/deadlines` eintragen.
+- **Rubrum falsch:** Zuständigkeit, Parteibezeichnungen, Aktenzeichen müssen überprüft werden. Fehlerhaftes Rubrum kann zur Unzulässigkeit führen.
+- **PKH-Antrag vergessen:** Wenn die Mandantin/der Mandant nicht zahlungsfähig ist, muss gleichzeitig mit der Klage ein PKH-Antrag (§ 117 ZPO) eingereicht werden.
+- **Entwurf verlässt Klinik ohne Freigabe:** § 6 Abs. 2 RDG verlangt anwaltliche Aufsicht. Kein Entwurf wird dem Mandanten oder einer Behörde/einem Gericht ohne Supervisoren-Freigabe zugeleitet.
+- **Falsche Rechtsgrundlagen:** Rechtsbehauptungen im Entwurf sind Hypothesen. Der/die Studierende verifiziert jede Norm und Rechtsprechung, bevor der Entwurf weitergereicht wird.
+
+## Quellenpflicht
+
+Jede Rechtsbehauptung im Entwurf ist mit der einschlägigen Norm oder Entscheidung zu belegen. Vorgeschlagene Quellen aus dem Modell sind mit `[Modellwissen — verifizieren]` zu kennzeichnen und vor Verwendung gegen aktuelle Datenbanken (beck-online, juris, dejure) zu prüfen. Niemals ohne Quellangabe und Supervisoren-Freigabe einreichen.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -1,472 +1,256 @@
 ---
 name: invention-intake
 description: >
-  Invention disclosure first-pass screen — novelty, obviousness, §101
-  eligibility, bar dates, detectability, and strategic value. Use when an
-  invention disclosure comes in and needs triage on whether to pursue a
-  prior-art search and patent counsel review, investigate further, or decline.
-argument-hint: "[paste or describe the invention disclosure — or just the title and I'll ask]"
+  Erstprüfung einer Erfindungsmeldung nach deutschem Recht — Neuheit,
+  erfinderische Tätigkeit, technischer Charakter (EPÜ), Schutzfähigkeit,
+  Arbeitnehmererfindung (ArbnErfG) und strategischer Wert. Lädt, wenn eine
+  Erfindungsmeldung eingereicht wird und eine Ersteinschätzung zu Anmeldung,
+  Weiterverfolgung oder Ablehnung benötigt wird.
+language: de
+triggers:
+  - "Erfindungsmeldung"
+  - "Arbeitnehmererfindung"
+  - "Patentanmeldung prüfen"
+  - "Inanspruchnahme Erfindung"
+  - "technische Schutzrechte"
+  - "Neuheitsprüfung"
+  - "Schutzrechtsstrategie Patent"
+  - "ArbnErfG Meldung"
 ---
 
-# /invention-intake
-
-**This is a first-pass screen by a non-specialist, not a patentability
-opinion.** The screen never concludes that an invention is patentable — it
-concludes that it passes the initial screen and warrants a prior-art search
-and registered-practitioner review, that it needs more information, or that
-it hits a disqualifier. A prior-art search is a separate step; this skill
-does not do one.
-
-## Instructions
-
-1. Read `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`. If it
-   contains `[PLACEHOLDER]`, stop and direct to `/ip-legal:cold-start-interview`. If the
-   practice profile shows trademark- or copyright-only (no patent practice),
-   say so and route the user elsewhere — this is the wrong tool.
-2. Follow the workflow below.
-3. Run intake. If the user pasted or uploaded a disclosure, read it. If not,
-   ask the seven intake questions (what / problem / differences / inventors /
-   public disclosure / status / technology area) in one batch and wait.
-4. Run the six screens: novelty signals, obviousness flags, § 101 eligibility,
-   public disclosure / bar dates, detectability, strategic value. Each screen
-   gets a ✓ / 🟡 / 🔴 verdict with one-line reasoning.
-5. Write the invention screen memo to the matter folder (if a matter is
-   active) or the practice outputs folder. Apply the work-product header per
-   role.
-6. Bottom-line verdict: **PURSUE** (schedule prior-art search and attorney
-   review) / **INVESTIGATE** (needs more info on a specific open item) /
-   **DECLINE** (state the concrete reason). Never say "patentable."
-7. Close with the decision tree (prior-art search / inventor follow-up /
-   specialist review / decline + thank-you / trade-secret route) and the
-   non-lawyer gate if the role is non-lawyer.
-8. If the screen hit a within-one-year US disclosure or any public disclosure
-   with foreign rights in scope, flag at the top: **time-sensitive**.
-
-This skill never concludes that an invention is patentable. If uncertain,
-flag — a registered patent attorney or agent decides.
-
-## Examples
-
-```
-/ip-legal:invention-intake "a new cache-eviction algorithm that uses a learned model rather than LRU; conceived Q1 this year, not yet disclosed, engineering prototype in internal staging"
-```
-
-```
-/ip-legal:invention-intake
-```
-
-(And the skill will ask for the invention, the problem it solves, how it
-differs, inventors, public disclosure status, usage status, and technology
-area.)
-
----
-
-## THIS IS A FIRST-PASS SCREEN, NOT A PATENTABILITY OPINION
-
-**Say this at the top of every output. Do not drop it, do not soften it.**
-
-> **This is a first-pass screen by a non-specialist, not a patentability
-> opinion.** A patentability opinion requires a prior-art search, full claim
-> construction, and the judgment of a registered patent attorney or agent. This
-> screen does not do a prior-art search, does not assess what is in the art, and
-> does not construct claims. It screens for the obvious disqualifiers (the
-> invention is already on the market, it was publicly disclosed two years ago,
-> it is plainly an abstract idea) and the obvious go-aheads (new mechanism,
-> technical advance, recent conception, in-use secretly). Everything in between
-> needs a prior-art search and a registered practitioner's review. This screen
-> never concludes that something is "patentable" — it concludes that it "passes
-> the initial screen, warrants investigation" or that it does not.
-
-Under-flagging an invention that should have been filed is a one-way door — the
-one-year US bar runs, foreign rights are lost at first public disclosure, the
-competitor files first. Over-flagging just means a prior-art search that comes
-back empty. Stay on the two-way door side.
-
----
-
-## Matter context
-
-**Matter context.** Check `## Matter workspaces` in the practice-level
-CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest
-of this paragraph — skills use practice-level context and the matter machinery
-is invisible. If enabled and there is no active matter, ask: "Which matter is
-this for? Run `/ip-legal:matter-workspace switch <slug>` or say `practice-level`." Load
-the active matter's `matter.md` for matter-specific context and overrides.
-Write outputs to the matter folder at
-`~/.claude/plugins/config/claude-for-legal/ip-legal/matters/<matter-slug>/`.
-Never read another matter's files unless `Cross-matter context` is `on`.
-
-Invention disclosures are particularly common candidates for **clean-team** or
-**heightened** confidentiality at matter-open. Respect the matter's
-confidentiality marking from `matter.md`. Invention content is inherently
-sensitive — do not summarize, quote, or reference it outside privileged
-channels.
-
----
-
-## Load the practice profile first
-
-**Before reading the disclosure, read
-`~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`.** If it is
-missing or still contains placeholders, stop and run `/ip-legal:cold-start-interview`. The
-practice profile tells you:
-
-- The company's **patent filing strategy** — offensive (building an assertion
-  portfolio), defensive (filing to protect freedom to operate), hybrid, or
-  licensing-revenue. This determines the strategic-value bar.
-- The **technology areas of interest** — where the company files and where it
-  does not. An invention that falls outside the areas of interest is often a
-  decline even if the technical screen is clean.
-- The **filing budget posture** — aggressive (file everything that passes the
-  screen), selective (file the best few), or minimal (only what the business
-  needs to protect). This shapes the output's recommendation.
-- The **approval chain** — who signs off on a filing decision, and who the
-  invention gets routed to if it passes the screen.
-
-If the practice profile shows trademark-only or copyright-only (no patent
-practice), this skill is the wrong tool — say so and route the user elsewhere.
-
----
-
-## Workflow
-
-### Step 1: Intake the disclosure
-
-If the user pastes or uploads a disclosure, read it. If not, ask — in one
-batch, not one at a time:
-
-> To screen this, I need:
->
-> 1. **What is the invention?** In plain language — what does it do, what makes
->    it work, what is the key idea.
-> 2. **What problem does it solve?** What was broken or missing before.
-> 3. **How does it differ from what existed before?** What did people do
->    previously? What does this do differently?
-> 4. **Who invented it, and when?** Names and rough conception date.
-> 5. **Has it been publicly disclosed?** Published, sold, offered for sale,
->    demonstrated at a conference, shown to a customer under an NDA, posted to
->    a public repo, written up in a paper, included in a product release note.
->    If yes, when and where.
-> 6. **Is it in use or planned?** Shipping now? In a limited pilot? On the
->    roadmap? Still on paper?
-> 7. **What technology area?** (Software, hardware, mechanical, biotech,
->    method-of-doing-business, AI/ML, etc.)
-
-Wait for answers. Do not proceed on a half-disclosure — a screen of "a new
-machine learning thing that helps users" is worse than no screen.
-
-If the disclosure is a formal invention disclosure form (IDF) from an IPMS or
-a template, extract these fields from the form and only ask for what's missing.
-
-### Step 2: Screen against the checklist
-
-Walk the five screens in order. Each produces a per-screen verdict:
-`✓ clear`, `🟡 flagged — needs further look`, or `🔴 red flag`. Explain the
-reasoning briefly; do not pad.
-
-#### Screen 1: Novelty signals
-
-Does the disclosure describe something new? This is not a full novelty
-analysis — that requires a prior-art search. This screens the disclosure's own
-description for self-evident novelty problems.
-
-**Red flags (🔴):**
-- "We just applied [known technique] to [new domain]" — e.g., "we took
-  gradient boosting and applied it to predicting customer churn"
-- "It's like [existing product] but for [X]" — Uber-for-dog-walking framing
-- "Competitors do something similar" — if the disclosure itself says this,
-  novelty is in question
-- The disclosure describes a feature of an existing public product with minor
-  tuning
-
-**Green flags (✓):**
-- A new **mechanism** — a new way of doing the thing, not a new application
-- A new **combination** that produces an unexpected result (not just
-  additive — "faster," "smaller," "cheaper" are sometimes unexpected, sometimes
-  obvious)
-- Solving a problem the field **had not solved** — the disclosure explains why
-  the prior approaches failed and how this one doesn't
-
-**Flagged (🟡):** anything ambiguous. Prior-art search settles it.
-
-#### Screen 2: Obviousness flags
-
-Would a person of ordinary skill in the art (POSA) have arrived at this
-combination based on what's known? This is a screen, not a § 103 analysis —
-flag for further investigation, never conclude obviousness or non-obviousness.
-
-**Red flags (🔴) for further investigation:**
-- Combining **known elements in a predictable way** — putting a known sensor
-  on a known machine to measure a known thing
-- **Routine optimization** — "we tuned the existing parameter from X to Y and
-  got better results"
-- **Design choice without functional advantage** — aesthetic, ergonomic, or
-  stylistic changes that don't change how the thing works
-- **Obvious to try** — one of a small number of identified solutions with a
-  reasonable expectation of success
-
-**Green flags (✓):**
-- Teaching away — prior art expected the opposite result or said this approach
-  wouldn't work
-- Unexpected result — the combination produces something the POSA would not
-  have predicted
-- Long-felt need — the problem was known, and attempts to solve it had failed
-
-#### Screen 3: Subject-matter eligibility (§ 101)
-
-Is this an abstract idea, law of nature, or natural phenomenon? This is the
-hardest screen, the most litigated, and the one most likely to require a
-specialist read. Flag anything borderline for specialist review.
-
-**Red flags (🔴) for § 101:**
-- Pure **business method** without technical implementation — "a method of
-  pricing widgets more efficiently"
-- **Mathematical algorithm** on its own — even as dressed up in pseudocode
-- **Organizing human activity** — scheduling, pairing, matching, reviewing —
-  without a technical improvement
-- Claim that reads as "**do [known thing] on a computer**" with no
-  improvement to the computer itself
-- AI/ML invention where the claim is the **function** (recommend, classify,
-  predict) without the specific technical means that improves how the computer
-  performs the function
-
-**Green flags (✓) for software/AI inventions:**
-- Technical improvement to the **computer itself** — new architecture, new
-  training technique, new hardware/software interface, new security mechanism
-- Specific technical means, not just results
-- Improvement to a **technical field** (image processing, compression,
-  cryptography, robotics) with the technical means described
-
-**Anything borderline gets a 🟡 with "§ 101 — route to specialist for
-Alice/Mayo analysis."** A non-specialist should not call a close § 101
-question.
-
-For **biotech / diagnostic** inventions, also flag for § 101 if the claim
-recites:
-- A natural correlation ("if level of X is above Y, patient has Z")
-- A naturally occurring substance (isolated gene, natural product) without
-  significant human modification
-
-> **§101 is a US standard. Other patent offices are different.** The EPO's "technical effect" test (Art. 52 EPC) is materially more permissive for software and AI inventions than US §101 post-*Alice*. JPO and CNIPA also apply different standards. An invention that screens 🔴 under *Alice* may be perfectly eligible at EPO/JPO/CNIPA.
->
-> When the practice profile includes non-US jurisdictions: "This §101 screen is US-only. If you file internationally, the eligibility posture may be different — particularly for software, AI/ML, and business methods, which EPO is more permissive on. Don't decline based on US §101 alone if you have EP/JP/CN filing plans."
-
-#### Screen 4: Public disclosure / bar dates
-
-Has the invention been disclosed, sold, offered for sale, or publicly used?
-This is the most time-sensitive screen — the answer can kill patentability
-absolutely, or start a clock that cannot be stopped.
-
-Categorize the disclosure status:
-
-**🔴 Likely barred:**
-- Publicly disclosed, sold, or offered for sale **more than 12 months ago**
-  in the US — 35 U.S.C. § 102(b) one-year grace period has run
-- **Any** public disclosure, anywhere, before filing — absolute novelty bar in
-  the EU, China, Japan, and most countries outside the US. If the business
-  cares about foreign rights, this is potentially fatal even if US is still
-  open.
-
-**🟡 Clock is running:**
-- Publicly disclosed within the last 12 months — US one-year clock is running,
-  foreign rights may already be lost. Urgent. Confirm the disclosure date and
-  route to filing immediately.
-
-**✓ Clear:**
-- No public disclosure. Confidential customer demonstrations under NDA, internal
-  use, beta releases to named parties under NDA, draft papers not yet submitted
-  — usually not "public" for § 102 purposes, but depends on the facts. When the
-  disclosure was to a customer or external party, even under NDA, flag the
-  specifics for the prosecution team to assess.
-
-**Ask specifically about:**
-- Papers submitted to journals or conferences (submission ≠ publication; but
-  check the journal's policy and whether preprints were posted)
-- Talks given at conferences, meetups, internal company events open to
-  non-employees
-- Posts to public repos, blogs, social media, or forums
-- Product releases, even in limited beta
-- Sales activity including quotes, RFP responses, and offers for sale
-- Disclosures to investors or board members who are not under NDA
-
-The **on-sale bar** catches offers for sale of a product embodying the
-invention, not just completed sales. An RFP response describing the invention
-can trigger it.
-
-#### Screen 5: Detectability
-
-If a competitor were to infringe this invention, could you tell? An invention
-that's practiced in secret — server-side processing, back-office operations,
-internal manufacturing techniques — may be better protected as a **trade
-secret** than as a patent. Publishing a patent on an undetectable invention is
-giving it to competitors in exchange for an asset you can never enforce.
-
-**🔴 Low detectability flags:**
-- Server-side algorithm with no observable output pattern
-- Internal manufacturing process (e.g., a novel etch step in a semiconductor
-  process)
-- Data-pipeline or analytics methodology that happens inside a competitor's
-  infrastructure
-- Training data composition or training technique for an ML model — visible
-  only through fine-grained probing, if at all
-
-For these, flag for the **patent-vs-trade-secret decision**. The question is
-not "is this patentable" but "should we patent it if we could." Route to
-whoever in the practice profile owns trade-secret classification decisions.
-
-**✓ High detectability:**
-- Consumer product — visible in the product
-- Published API, SDK, protocol — visible in network traffic or integration
-  docs
-- Physical mechanism in a distributed product — reverse-engineerable
-- Compiled code with distinctive signatures in a distributed binary
-
-#### Screen 6: Strategic value
-
-Does this align with the company's patent strategy from the practice profile?
-This is where the screen becomes company-specific rather than doctrinal.
-
-Check against the profile:
-
-- **Offensive strategy (build to assert):** is this asset assert-worthy? A
-  narrow, easily designed-around patent has lower offensive value than a broad
-  mechanism claim. Is the competitive landscape one where you would want to
-  sue?
-- **Defensive strategy (build to protect FTO):** does this cover a technology
-  area where competitors are filing? A defensive filing in an area nobody
-  files in is a wasted spend.
-- **Licensing / revenue strategy:** is this licensable? Who would pay for it,
-  and under what circumstances?
-
-Also check:
-
-- Is this **core** technology (part of the product's differentiation) or
-  **peripheral** (incidental to a side feature)? Core is worth more.
-- What is the **competitive landscape**? Patent-heavy (semiconductors,
-  pharmaceuticals) — file early or lose the race. Patent-light (many
-  open-source-heavy software segments) — sometimes skip entirely and spend
-  the money elsewhere.
-- Is the technology area on the company's list of **tech areas of interest**
-  from the practice profile? If not, it is often a decline regardless of
-  doctrine.
-
-### Step 3: Assemble the invention screen memo
+# Erfindungseingang — Erstprüfung
+
+## Zweck
+
+Diese Skill führt eine strukturierte Erstprüfung einer Erfindungsmeldung durch. Sie schirmt offensichtliche Ausschlussgründe ab, identifiziert kritische Fristen (insbesondere neuheitsschädliche Vorveröffentlichungen nach § 3 PatG) und empfiehlt eine von drei Handlungsoptionen: **WEITERVERFOLGEN** (Beauftragung einer Patentrecherche und Einschaltung eines Patentanwalts), **KLÄREN** (Rückfragen an den Erfinder oder Spezialisten) oder **ABLEHNEN** (mit konkreter Begründung).
+
+Die Skill trifft keine Patentierbarkeitsaussage. Eine solche setzt eine vollständige Patentrecherche, Anspruchskonstruktion und das fachliche Urteil eines zugelassenen Patentanwalts voraus.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Eingaben
+
+Wenn der Nutzer keine Erfindungsmeldung eingereicht hat, werden folgende Angaben in einem Durchgang abgefragt:
+
+1. **Was ist die Erfindung?** Beschreibung in eigenen Worten — was sie tut, wie sie funktioniert, was die Kernidee ist.
+2. **Welches Problem wird gelöst?** Was war zuvor nicht möglich oder mangelhaft?
+3. **Worin liegt der Unterschied zum Stand der Technik?** Was haben andere bisher gemacht, und was macht diese Erfindung anders?
+4. **Wer hat erfunden, und wann?** Namen, Arbeitsverhältnis (Arbeitnehmer/Freier Mitarbeiter?), ungefähres Entstehungsdatum.
+5. **Wurde die Erfindung bereits offenbart?** Publikation, Messe, Konferenz, Angebot, öffentliches Repository, Kundendemonstration (auch unter NDA). Wenn ja: wann und wie.
+6. **Wird die Erfindung bereits genutzt oder ist sie geplant?** In Produktion, im Pilotbetrieb, auf der Roadmap oder noch auf dem Papier?
+7. **Welches Technologiegebiet?** Software, Hardware, Mechanik, Biotechnologie, KI/ML, Chemie, Medizinprodukt etc.
+
+Bei formeller Erfindungsmeldung (IDF oder Unternehmensformular): Felder daraus entnehmen, nur Fehlende erfragen.
+
+## Rechtlicher Rahmen
+
+### Kernvorschriften
+
+- **§§ 1–5 PatG** — Patentierbarkeitsvoraussetzungen: Neuheit (§ 3), erfinderische Tätigkeit (§ 4), gewerbliche Anwendbarkeit (§ 5)
+- **Art. 52–57 EPÜ** — Patentierbarkeit im europäischen Patentsystem; technischer Charakter als Voraussetzung; Art. 56 EPÜ erfinderische Tätigkeit (Aufgabe-Lösungs-Ansatz)
+- **§§ 5–12 ArbnErfG** — Meldepflicht (§ 5), Inanspruchnahme durch den Arbeitgeber (§ 6 Abs. 1: Frist 4 Monate), unbeschränkte vs. beschränkte Inanspruchnahme; Vergütungspflicht (§§ 9 ff. ArbnErfG)
+- **§ 3 Abs. 1 PatG** — Absolutes Neuheitserfordernis: jede Offenbarung vor dem Anmeldetag ist neuheitsschädlich (kein US-amerikanischer „Grace Period"-Ansatz im europäischen Recht)
+- **§§ 1–3 GebrMG** — Gebrauchsmuster als schnellerer Schutzrechtsweg (keine erfinderische Tätigkeit im gleichen Maßstab, aber Neuheit + erfinderischer Schritt erforderlich)
+- **§ 26 GeschGehG** — Geschäftsgeheimnis als Alternative bei mangelnder Erkennbarkeit der Verletzung
+
+### Leitentscheidungen
+
+- BGH, Urt. v. 11.02.2014 – X ZR 107/12, GRUR 2014, 647 (Bildunterschrift II) — Neuheitsschädlichkeit von Internetpublikationen; maßgeblicher Zeitpunkt der öffentlichen Zugänglichkeit
+- BGH, Urt. v. 26.10.2010 – X ZR 47/07, GRUR 2011, 129 (Lernspiele) — Abgrenzung technische Lehre / abstrakte Idee; Anforderungen an den technischen Charakter
+- BGH, Urt. v. 17.10.2001 – X ZR 58/99, BGHZ 149, 68 (Luftverteiler) — Arbeitnehmererfindung: Abgrenzung Dienst- und freie Erfindung; Meldepflicht nach § 5 ArbnErfG
+- BGH, Urt. v. 16.04.2002 – X ZR 127/99, GRUR 2002, 801 (Abgestuftes Getriebe) — Berechnung der Arbeitnehmererfindervergütung; Anteilsfaktor
+
+### Kommentare
+
+- Benkard/Melullis, PatG, 12. Aufl. 2023, § 3 Rn. 1 ff. (Neuheitsbegriff, Stand der Technik)
+- Bartenbach/Volz, ArbnErfG, 6. Aufl. 2019, § 5 Rn. 1 ff. (Meldepflicht und Form) und § 9 Rn. 1 ff. (Vergütung)
+- Mes, PatG/GebrMG, 5. Aufl. 2020, § 1 Rn. 20 ff. (technischer Charakter, Software- und KI-Erfindungen)
+- BeckOK PatR/Bremi, 30. Ed. (Stand 01.01.2025), Art. 56 EPÜ Rn. 10 ff. (Aufgabe-Lösungs-Ansatz EPA)
+
+## Ablauf
+
+### Schritt 1: Meldung aufnehmen
+
+Vorliegende Erfindungsmeldung vollständig lesen. Fehlen Angaben: Rückfragen gemäß Abschnitt „Eingaben" in einem Durchgang stellen. Unvollständige Meldungen nicht screenen — ein Screening von „einer neuen KI-Lösung für X" ohne technische Substanz ist schlechter als kein Screening.
+
+**Arbeitnehmererfindung prüfen:** Wenn der Erfinder Arbeitnehmer ist, zunächst klären: Handelt es sich um eine Diensterfindung (§ 4 Abs. 2 ArbnErfG: Entstehung aus dem Arbeitverhältnis oder wesentlich auf betriebliche Erfahrungen/Tätigkeiten beruhend)? Wenn ja: Meldepflicht nach § 5 ArbnErfG auslösen und Inanspruchnahmefrist (4 Monate, § 6 Abs. 1) dokumentieren.
+
+### Schritt 2: Sechs Prüfungsschirme
+
+Jeden Schirm in der Reihenfolge abarbeiten. Ergebnis je Schirm: `✓ grün`, `🟡 unklar — Klärungsbedarf`, `🔴 Rote Flagge`.
+
+#### Schirm 1: Neuheitssignale (§ 3 PatG, Art. 54 EPÜ)
+
+**Rote Flaggen (🔴):**
+- „Wir haben [bekannte Technik] auf [neues Gebiet] angewandt" — Anwendung bekannter Methoden ohne technische Besonderheit
+- „Wettbewerber machen etwas Ähnliches" — Beschreibung selbst stellt Neuheit in Frage
+- Merkmal findet sich bereits in öffentlich zugänglichen Produkten, Publikationen oder Patenten
+
+**Grüne Flaggen (✓):**
+- Neuer **Mechanismus** — nicht nur neue Anwendung, sondern neue technische Wirkungsweise
+- Neue **Kombination** mit unerwartetem Ergebnis
+- Lösung eines bisher ungelösten Problems mit spezifischer technischer Lehre
+
+#### Schirm 2: Erfinderische Tätigkeit (§ 4 PatG, Art. 56 EPÜ)
+
+EPA-Prüfungsansatz: Aufgabe-Lösungs-Ansatz. Würde ein Fachmann ausgehend vom nächstliegenden Stand der Technik und der zugrunde liegenden technischen Aufgabe zur beanspruchten Lösung gelangen?
+
+**Rote Flaggen (🔴):**
+- Kombinieren bekannter Elemente auf vorhersehbare Weise (predictable combination)
+- Routinemäßige Optimierung bekannter Parameter ohne überraschenden Effekt
+- „Obvious to try" — eine aus wenigen naheliegenden Alternativen ohne Hindernis
+
+**Grüne Flaggen (✓):**
+- Stand der Technik lehrte vom Lösungsweg ab (teaching away)
+- Unerwarteter technischer Effekt (surprising effect)
+- Langbekanntes Problem, das trotz Bemühungen bisher ungelöst geblieben ist
+
+#### Schirm 3: Technischer Charakter und Schutzfähigkeit (Art. 52 EPÜ, § 1 PatG)
+
+Software, KI/ML und Geschäftsmethoden: Nicht per se ausgeschlossen, aber technischer Charakter muss vorliegen. EPA: „technical character" — weitgehend jeder Bezug zur Technik genügt; Abgrenzung gilt auf der Ebene der erfinderischen Tätigkeit.
+
+**Rote Flaggen (🔴):**
+- Reine Geschäftsmethode ohne technische Umsetzung
+- Mathematischer Algorithmus ohne technische Anwendung
+- Ablauf menschlicher Tätigkeiten ohne computergestützte oder physische Komponente
+- KI-Invention: Schutzbegehren richtet sich allein auf Funktion (empfehlen, klassifizieren, vorhersagen) ohne konkrete technische Mittel
+
+**Grüne Flaggen (✓):**
+- Technische Verbesserung des Computers selbst (Architektur, Sicherheit, Effizienz)
+- Technische Mittel werden konkret beschrieben, nicht nur Ergebnisse beansprucht
+- Einbettung in technisches Gebiet (Bildverarbeitung, Signalübertragung, Steuerung)
+
+#### Schirm 4: Neuheitsschädliche Vorveröffentlichung / Fristen (§ 3 PatG)
+
+Im deutschen und europäischen Patentrecht gilt **absolutes Neuheitserfordernis**: jede öffentliche Zugänglichmachung vor dem Anmeldetag ist neuheitsschädlich. Es gibt keine 12-Monate-Schonfrist wie im US-Recht (35 U.S.C. § 102(b)).
+
+**Ausnahme:** § 3 Abs. 5 PatG (Ausstellungsprioritätsprinzip) und Art. 55 EPÜ (offensichtlicher Missbrauch oder Ausstellungsprivileg) — sehr eng, nicht als Sicherheitsnetz einplanen.
+
+Kategorisierung:
+
+**🔴 Wahrscheinlich neuheitsschädlich:**
+- Öffentliche Veröffentlichung, Verkauf, Angebot, Messedemonstration, öffentliches Repository **vor dem Anmeldetag**
+- Preprint, Konferenzbeitrag, Social-Media-Post, Blogbeitrag mit technischem Inhalt
+
+**🟡 Fristdruck:**
+- Veröffentlichung liegt vor, Anmeldung noch nicht erfolgt — **sofortiger Handlungsbedarf**; auch US-Frist (12 Monate) läuft
+
+**✓ Unbedenklich:**
+- Keine Offenbarung außerhalb vertraulicher Kanäle
+- Kundenpräsentation unter NDA (Sorgfalt: NDA-Reichweite prüfen)
+
+Konkret erfragen: Konferenzbeiträge (auch eingereicht, nicht nur angenommen), Preprints, öffentliche Repositories, Messeauftritte, Angebote an Kunden, Investorenpräsentationen ohne NDA.
+
+#### Schirm 5: Erkennbarkeit einer Verletzung (Detectability)
+
+Ist eine Verletzung am Markt erkennbar? Server-seitige Algorithmen, interne Fertigungsschritte und reine Datenverarbeitungsmethoden ohne erkennbare Außenwirkung sind schwer durchzusetzen.
+
+**🔴 Geringe Erkennbarkeit:**
+- Server-seitiger Algorithmus ohne erkennbares Ausgabemuster
+- Internes Fertigungsverfahren (z. B. neuer Ätzschritt in Halbleiterproduktion)
+- Trainings-Methodik für ML-Modell — nur durch aufwendige Tests erahnbar
+
+Bei geringer Erkennbarkeit: Abwägung Patent vs. Geschäftsgeheimnis nach GeschGehG vornehmen. Wer die Entscheidung in der Praxis trifft: gemäß Unternehmensrichtlinie / Mandatsprofil.
+
+**✓ Hohe Erkennbarkeit:**
+- Konsumentenprodukt mit sichtbaren Merkmalen
+- Veröffentlichte API, Protokoll, SDK
+- Physischer Mechanismus in verteiltem Produkt
+
+#### Schirm 6: Strategischer Wert
+
+Passt die Erfindung zur Schutzrechtsstrategie des Unternehmens? Prüfung anhand des Mandatsprofils:
+
+- **Offensiv (Durchsetzungsportfolio):** Ist der Anspruch breit und assertionsfähig?
+- **Defensiv (Freedom to Operate):** Schützt die Anmeldung eine relevante Technologie?
+- **Lizenz-/Erlösmodell:** Ist die Erfindung lizenzierbar und wer würde zahlen?
+- **Kerntechnologie vs. Peripherie:** Kern hat höheren Wert.
+- **Wettbewerbslandschaft:** In patentintensiven Sektoren (Pharma, Halbleiter) frühzeitig anmelden.
+
+### Schritt 3: Erfindungsprüfungsvermerk erstellen
 
 Format:
 
-> **Invention screen memo — [invention title]**
+> **Erfindungsprüfungsvermerk — [Titel der Erfindung]**
 >
-> **Bottom line: [PURSUE / INVESTIGATE / DECLINE]**
+> **Ergebnis: [WEITERVERFOLGEN / KLÄREN / ABLEHNEN]**
 >
-> *[One sentence — the reason in plain language.]*
+> *[Ein Satz — Begründung im Klartext.]*
 >
 > ---
 >
-> ### Screen results
+> ### Prüfungsergebnisse
 >
-> | Screen | Verdict | Notes |
+> | Prüfschirm | Ergebnis | Anmerkung |
 > |---|---|---|
-> | Novelty signals | [✓ / 🟡 / 🔴] | [one-line reasoning] |
-> | Obviousness flags | [✓ / 🟡 / 🔴] | [one-line reasoning] |
-> | § 101 eligibility | [✓ / 🟡 / 🔴] | [one-line reasoning] |
-> | Public disclosure / bar dates | [✓ / 🟡 / 🔴] | [one-line reasoning + dates] |
-> | Detectability | [✓ / 🟡 / 🔴] | [one-line reasoning] |
-> | Strategic value | [✓ / 🟡 / 🔴] | [one-line reasoning, referenced to profile] |
+> | Neuheitssignale | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
+> | Erfinderische Tätigkeit | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
+> | Technischer Charakter | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
+> | Vorveröffentlichung / Fristen | [✓ / 🟡 / 🔴] | [einzeiliger Grund + Daten] |
+> | Erkennbarkeit | [✓ / 🟡 / 🔴] | [einzeiliger Grund] |
+> | Strategischer Wert | [✓ / 🟡 / 🔴] | [Bezug zum Mandatsprofil] |
 >
 > ---
 >
-> ### Open questions
+> ### Offene Punkte
 >
-> *Things that would change the answer. The inventor, the prosecution team, or
-> a specialist would need to address these before this screen converts to a
-> filing decision.*
+> - [Frage / Klärungsbedarf]
 >
-> - [question]
-> - [question]
+> ### Nächste Schritte
 >
-> ### Next steps (decision tree)
+> 1. **Patentrecherche beauftragen** — Suchanfrage für Patentanwalt mit Anspruchskonzepten, Erfindernamen, IPC-Klasse und bekannten Referenzen.
+> 2. **Rückfrage an Erfinder** — Klärung offener Punkte zu [konkreten Punkten].
+> 3. **An Patentanwalt übergeben** — bei Grenzfragen zum technischen Charakter oder zur Schutzstrategie.
+> 4. **Ablehnen und Dankesschreiben** — Begründung archivieren.
+> 5. **Geschäftsgeheimnis-Route** — Hinweis an zuständige Stelle gemäß GeschGehG.
+
+### Schritt 4: Arbeitnehmererfindung — Pflichtprozess
+
+Wenn der Erfinder Arbeitnehmer ist:
+
+- **§ 5 ArbnErfG — Meldepflicht:** Erfinder hat unverzüglich zu melden. Form: schriftlich, Beschreibung der Erfindung, Entstehungsumstände.
+- **§ 6 Abs. 1 ArbnErfG — Inanspruchnahmefrist:** Arbeitgeber hat **4 Monate** ab Eingang der Meldung, um unbeschränkt oder beschränkt in Anspruch zu nehmen. Frist läuft automatisch; Untätigkeit gilt als Freigabe.
+- **§§ 9 ff. ArbnErfG — Vergütungspflicht:** Bei Inanspruchnahme entsteht Vergütungsanspruch. Bemessung nach den Richtlinien für die Vergütung von Arbeitnehmererfindungen im privaten Dienst (1959/zuletzt geändert). Faktoren: Erfindungswert, Anteilsfaktor, Mitarbeiterstellung.
+- Frist im Vermerk dokumentieren und in das Fristenkontrollsystem des Mandanten eintragen.
+
+## Ausgabeformat
+
+Der Erfindungsprüfungsvermerk enthält: Titel, Ergebnis (WEITERVERFOLGEN / KLÄREN / ABLEHNEN), Prüftabelle, offene Punkte, nächste Schritte. Bei aktiver Mandatssache: Ausgabe in den Mandatsordner.
+
+Kein internes Arbeitsnarrativ im Vermerk. Der Vermerk ist sofort verwendbar.
+
+## Beispiel
+
+**Eingabe:** „Neuer Cache-Algorithmus auf Basis eines erlernten Modells anstelle von LRU; im ersten Quartal dieses Jahres entwickelt, noch nicht veröffentlicht, Prototyp intern im Staging."
+
+**Ergebnis (Beispiel):**
+
+> **Erfindungsprüfungsvermerk — Lernbasierter Cache-Algorithmus**
 >
-> Pick one and I'll help you build it out:
+> **Ergebnis: WEITERVERFOLGEN** — Neuheit und technischer Charakter sind prima facie gegeben; keine neuheitsschädliche Vorveröffentlichung erkennbar; strategische Relevanz in Abhängigkeit vom Mandatsprofil prüfen.
 >
-> 1. **Commission the prior-art search** — I'll draft the search request for
->    [outside counsel / search vendor] with the claim concepts, inventors,
->    technology classification, and any known references.
-> 2. **Go back to the inventor for more facts** — I'll draft the follow-up
->    questions on [specific open items above].
-> 3. **Route to outside counsel for § 101 / patent-vs-trade-secret judgment** —
->    I'll draft a transmittal summarizing what the screen found and what
->    specialist judgment is needed.
-> 4. **Decline and send the standard thank-you** — I'll draft the inventor
->    thank-you and archive the disclosure with the declination reason.
-> 5. **Flag for trade secret instead** — I'll draft a note to whoever owns
->    trade-secret classification explaining why a trade-secret approach is a
->    better fit.
+> | Prüfschirm | Ergebnis | Anmerkung |
+> |---|---|---|
+> | Neuheitssignale | 🟡 | Mechanismus neu, aber verwandte Literatur (ML-Caching) vorhanden — Recherche erforderlich |
+> | Erfinderische Tätigkeit | 🟡 | Unerwarteter Effizienzgewinn behauptet — durch Recherche zu belegen |
+> | Technischer Charakter | ✓ | Konkrete technische Verbesserung der Cache-Verwaltung |
+> | Vorveröffentlichung | ✓ | Keine Offenbarung, intern und vertraulich |
+> | Erkennbarkeit | 🟡 | Server-seitig: Abwägung Patent vs. Geschäftsgeheimnis empfohlen |
+> | Strategischer Wert | 🟡 | Abhängig vom Mandatsprofil |
 
-Apply the work-product header per role. Apply the reviewer note. Keep the
-deliverable clean of internal narration ("I'm using the invention-intake
-skill..." etc.).
+## Risiken und typische Fehler
 
-### Step 4: Recommend the bottom-line verdict
+- **Neuheitsschädliche Vorveröffentlichung übersehen:** Jede öffentliche Zugänglichmachung vor Anmeldetag zerstört die Patentierbarkeit weltweit (außer engen Ausnahmefällen). US-Schonfrist gilt nicht in Deutschland/Europa.
+- **ArbnErfG-Fristen versäumen:** Die 4-Monats-Inanspruchnahmefrist (§ 6 Abs. 1 ArbnErfG) läuft automatisch. Nicht im Fristenbuch eingetragen = Freigabe der Erfindung.
+- **Patentierbarkeit bestätigen:** Die Skill trifft keine Patentierbarkeitsaussage. „Besteht die Erstprüfung" ist nicht „patentierbar".
+- **Erkennbarkeitsfrage ignorieren:** Ein Patent auf eine nicht erkennbare Verletzungsform veröffentlicht das Know-how ohne Durchsetzungsmöglichkeit.
+- **KI/Software-Erfindungen: technischen Charakter unterschätzen:** Im EPA-Kontext weiter gefasst als im US-Recht; nicht vorschnell ablehnen.
 
-The bottom line is one of three:
+## Quellenpflicht
 
-- **PURSUE** — enough screens are clear (or clearly fixable) to warrant a
-  prior-art search and attorney review. This is NOT "patentable" — it is
-  "passes the initial screen, investigation warranted."
-- **INVESTIGATE** — one or more screens flagged something that needs more
-  information, specialist review, or a clarifying question back to the
-  inventor before a pursue/decline decision can be made. Name the specific
-  open item.
-- **DECLINE** — a screen hit a fatal flag (barred by disclosure over 12
-  months old with no foreign rights concern, plainly obvious, plainly abstract
-  under Alice, outside the company's technology areas of interest, fundamentally
-  undetectable with no trade-secret path). State the reason clearly.
+Jede Aussage zu Neuheit, erfinderischer Tätigkeit oder Vergütung muss auf konkreten Normen oder Entscheidungen beruhen. Pflichtquellen in jedem Vermerk:
 
-A DECLINE should always be backed by a concrete reason the inventor can
-understand. "Not patentable" is not an acceptable decline reason; "barred by
-your paper at NeurIPS 2023 — the US one-year bar ran in December 2024" is.
-
-## Guardrails
-
-**Never say "patentable."** The closest you can come is "passes the initial
-screen, warrants further investigation." Patentability is a conclusion a
-registered practitioner reaches after a prior-art search and claim
-construction.
-
-**Never do a prior-art search in this skill.** A WebSearch for "does this
-already exist" is not a prior-art search — it's a credibility check the
-user can also run. If you want to sanity-check novelty, say so explicitly
-("quick web check — the technique was discussed in [X] — this is not a prior-
-art search, it's context for the screen") and flag it as `[web — verify]`.
-
-**Defer on § 101 calls.** For anything borderline under Alice/Mayo, flag for
-specialist review. § 101 is where practitioners routinely disagree and where
-a non-specialist's confident call ages badly.
-
-**Flag detectability before strategic value.** An undetectable invention that
-would be "high strategic value" as a patent is usually higher strategic value
-as a trade secret. Do not recommend PURSUE on an undetectable invention
-without addressing the trade-secret alternative.
-
-**Urgent cases get urgent flagging.** If the screen hits a within-one-year
-public disclosure in the US, or any public disclosure with foreign rights in
-scope, say so at the top of the memo. Bottom line, then: "**Time-sensitive —
-US bar runs [date], foreign rights already at risk.**" This is the kind of
-finding a lawyer needs to see in the first three seconds.
-
-**Respect the routing.** Per the practice profile, this screen is a triage
-step. The person who decides what to file is the attorney or agent responsible
-for patent prosecution. The screen feeds that person; it does not replace them.
-
-## Non-lawyer gate
-
-If the role is **non-lawyer** (with or without attorney access), close the
-memo with:
-
-> **This is a screening tool for your disclosure, not a patentability opinion.
-> The decision about whether to file — and how — belongs to a registered
-> patent attorney or agent. If this screen says PURSUE or INVESTIGATE, your
-> next step is not to file or draft claims; it is to share this memo (and the
-> underlying disclosure) with patent counsel. If there is no counsel engaged
-> yet, [contact from profile / "your professional regulator's IP referral service — state bar in the US, SRA/Bar Standards Board in England & Wales, Law Society in Scotland/NI/Ireland/Canada/Australia, or your jurisdiction's equivalent"] is the
-> starting point.**
+- **Gesetzestext:** § 3, § 4, § 5 PatG; §§ 5, 6, 9 ff. ArbnErfG; Art. 52–56 EPÜ
+- **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Neuheit oder erfinderischen Tätigkeit
+- **Kommentar:** Benkard PatG oder Bartenbach/Volz ArbnErfG mit § und Randnummer
+- Alle Quellen mit Fundstelle zitieren. Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.

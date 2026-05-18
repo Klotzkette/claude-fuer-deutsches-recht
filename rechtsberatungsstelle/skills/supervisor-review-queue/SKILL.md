@@ -1,108 +1,152 @@
 ---
 name: supervisor-review-queue
 description: >
-  Professor's review queue — student output waits here for professor approval
-  before going to clients or courts. Only active if "formal review queue"
-  supervision style was chosen at setup; otherwise dormant. Use when the
-  professor wants to see what's waiting for review, approve, edit-then-approve,
-  or return an item.
-argument-hint: "[--approve ID | --return ID 'note' | --edit ID]"
+  Supervisoren-Prüfwarteschlange — studentische Arbeitsergebnisse warten hier
+  auf die Supervisoren-Freigabe, bevor sie an Mandanten oder Gerichte gehen.
+  Nur aktiv, wenn das Supervisionsmodell „formelle Prüfwarteschlange" gewählt
+  wurde; andernfalls inaktiv. Lädt, wenn der Supervisor sehen möchte, was auf
+  Prüfung wartet, einen Eintrag freigibt, bearbeitet und freigibt oder
+  mit einem Hinweis zurückschickt.
+language: de
+triggers:
+  - "Prüfwarteschlange"
+  - "Supervisor Freigabe"
+  - "Review Queue"
+  - "Studentenentwurf prüfen"
+  - "Warteliste Supervisor"
+  - "Freigabe erteilen"
+  - "Entwurf zurückschicken"
+  - "ausstehende Prüfung"
 ---
 
-# /supervisor-review-queue
+# Supervisoren-Prüfwarteschlange (Optional)
 
-1. Check `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → supervision style. If NOT "formal review queue": explain the clinic is set up for [flags/lighter-touch], no formal queue exists, and how to switch.
-2. Use the workflow below.
-3. Default: show what's waiting, by urgency, by student.
-4. Actions: approve / edit-then-approve / return with note. All logged.
+## Zweck
 
-```
-/legal-clinic:supervisor-review-queue
-```
+Manche Beratungsstellen wollen ein formelles Gate: Studierendenentw[urf], Supervisoren-Prüfung, dann Freigabe. Andere finden das zu starr — sie begleiten über Fallgespräche und Einzelgespräche, nicht über eine Warteschlange.
 
-```
-/legal-clinic:supervisor-review-queue --approve Q-003
-```
+**Diese Skill ist nur aktiv, wenn die Klinik-Konfiguration (CLAUDE.md) unter „Supervisionsmodell" die Option „formelle Prüfwarteschlange" gewählt hat.** Andernfalls ist sie inaktiv — beim Kalt-Start-Interview entscheidet der Supervisor, welches Modell er/sie möchte; dies ist eine von drei Optionen.
 
-```
-/legal-clinic:supervisor-review-queue --return Q-004 "Check the service requirement — local rules changed"
-```
+Ob eine formelle Prüf-Workflow sinnvoll ist, hängt vom Erfahrungsstand der Studierenden, der Fallzahl und der bestehenden Betreuungsstruktur ab. Der Supervisor entscheidet beim Kalt-Start und kann die Einstellung jederzeit ändern.
 
----
+**Rechtlicher Hintergrund:** Die Prüfwarteschlange dokumentiert, dass ein zugelassener Rechtsanwalt/eine zugelassene Rechtsanwältin studentische Arbeitsergebnisse geprüft hat, bevor sie Mandanten, Gerichte oder Behörden erreichten. Dies ist die institutionelle Umsetzung der Aufsichtspflicht nach § 6 Abs. 2 RDG.
 
-# Supervisor Review Queue (Optional)
+## Eingaben
 
-## Purpose
+- **Keine** bei Standardaufruf (zeigt, was wartet)
+- **`--freigeben [id]`** — Eintrag freigeben
+- **`--zurueck [id] "Hinweis"`** — Eintrag mit Kommentar zurückschicken
+- **`--bearbeiten [id]`** — Eintrag inline bearbeiten, dann freigeben
 
-Some clinics want a formal gate: student drafts, professor reviews, output releases. Others find that too prescriptive — they supervise through case rounds and one-on-ones, not through a queue.
+## Rechtlicher Rahmen
 
-**This skill is only active if `~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → Supervision style is "formal review queue."** Otherwise it's dormant — the cold-start interview asks the professor which model they want, and this is one of three options.
+### Kernvorschriften
 
-Whether to use a formal review workflow is genuinely an open question for clinic adoption. It depends on student experience level, caseload, and how the professor already runs supervision. The professor decides at setup and can change it later.
+- **§ 6 Abs. 2 RDG** — Aufsichtspflicht des begleitenden Rechtsanwalts/der begleitenden Rechtsanwältin: Die Aufsicht muss inhaltlich effektiv sein. Eine Warteschlange mit dokumentierter Prüfung ist eine institutionelle Umsetzung dieser Pflicht.
+- **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht: Die Warteschlange enthält vertrauliche Mandantendaten; sie ist ausschließlich supervisor-zugänglich und nicht für Studierende einsehbar (außer für ihren eigenen Eintrag nach Freigabe/Rücksendung).
+- **§ 203 Abs. 3 StGB** — Gehilfenstatus der Studierenden: Der Supervisor als aufsichtführender Rechtsanwalt/Rechtsanwältin ist strafrechtlich mitverantwortlich für den sachgerechten Umgang mit Mandantendaten.
+- **§ 50 BRAO** — Handakten: Freigegebene Dokumente sind Teil der Handakte und unterliegen der 5-jährigen Aufbewahrungspflicht.
+- **DSGVO Art. 5, 32** — Sicherheit der Verarbeitung: Die Prüfwarteschlange verarbeitet personenbezogene Mandantendaten; technische und organisatorische Maßnahmen (Zugangsbeschränkung, Verschlüsselung) sind erforderlich.
 
-## Load context
+### Leitentscheidungen
 
-`~/.claude/plugins/config/claude-for-legal/legal-clinic/CLAUDE.md` → supervision style. If NOT "formal review queue": respond with "The clinic is set up for [flags/lighter-touch] supervision — there's no formal queue. [Professor] reviews through [the clinic's existing structure]. To switch to a formal queue, edit CLAUDE.md → Supervision style."
+- BGH, Urt. v. 26.10.2017 – IX ZR 285/16, NJW 2018, 314 Rn. 10 — Haftung des aufsichtführenden Rechtsanwalts für Fehler nachgeordneter Personen; Prüfung muss tatsächlich stattfinden, nicht nur pro forma.
+- BGH, Urt. v. 14.06.2012 – IX ZR 145/11, NJW 2012, 2571 Rn. 15 — Dokumentationspflicht: Beratungsleistungen und Prüfvorgänge sind zu dokumentieren; Warteschlangenprotokoll ist Teil dieser Dokumentation.
+- BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917 — Grundlage für die Vertraulichkeit von Beratungsunterlagen; spiegelbildlich für Prüfwarteschlangen.
+- BAG, Urt. v. 25.04.2018 – 2 AZR 6/18, NZA 2018, 987 Rn. 20 — Weisungsverhältnis und Aufsichtspflicht; Supervisor als Leitungsperson in der Beratungsstelle.
 
-If formal queue IS enabled → read flag triggers and proceed.
+### Kommentarliteratur
 
-## The queue
+- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 30 ff. — Anforderungen an die inhaltliche Aufsicht; formelle vs. informelle Supervision.
+- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 22 ff. — Verschwiegenheitspflicht bei gemeinschaftlicher Mandatsbearbeitung; Datentrennung.
+- Gola, DSGVO, 3. Aufl. 2022, Art. 32 Rn. 15 ff. — Technische Maßnahmen für die Datensicherheit; Zugangsbeschränkungen für Beratungsunterlagen.
+- BeckOK BRAO/Deckenbrock, 23. Ed. (Stand 01.03.2025), § 6 RDG Rn. 5 ff. — Rechtsberatungsstellen; Supervisionsmodelle.
 
-Lives at `references/review-queue.yaml`. Each entry:
+## Ablauf
+
+### Konfigurationsprüfung
+
+Zuerst: Klinik-Konfiguration (CLAUDE.md) → Supervisionsmodell prüfen. Falls NICHT „formelle Prüfwarteschlange": 
+
+> „Die Beratungsstelle ist für das Supervisionsmodell [konfigurierbare Flags / leichte Begleitung] eingerichtet — es gibt keine formelle Prüfwarteschlange. [Supervisor] begleitet Entwürfe über [die bestehende Betreuungsstruktur]. Um zur formellen Prüfwarteschlange zu wechseln: CLAUDE.md → Supervisionsmodell auf 'formelle Prüfwarteschlange' setzen."
+
+Falls formelle Prüfwarteschlange AKTIVIERT: Flag-Trigger lesen und fortfahren.
+
+### Die Warteschlange
+
+Liegt in `references/pruef-warteschlange.yaml`. Jeder Eintrag:
 
 ```yaml
-- id: Q-001
-  type: "draft"  # intake | draft | memo | status | client-letter
-  client: "[name or ID]"
-  student: "[name]"
-  submitted: [timestamp]
+- id: P-001
+  typ: "entwurf"  # aufnahme | entwurf | memo | status | mandantenbrief
+  mandant: "[Name oder ID]"
+  studierender: "[Name]"
+  eingereicht: [Zeitstempel]
   flags:
-    - rule: "Court filing"
-      detail: "Eviction answer — always queued"
-  content_path: "[path to the document]"
-  status: "pending"  # pending | approved | edited-approved | returned
+    - regel: "Gerichtliche Einreichung"
+      detail: "Klageschrift AG — immer in Warteschlange"
+  inhaltspfad: "[Pfad zum Dokument]"
+  status: "ausstehend"  # ausstehend | freigegeben | bearbeitet-freigegeben | zurueckgeschickt
 ```
 
-## Modes
-
-### What's waiting
+### Was wartet (Standard-Anzeige)
 
 ```markdown
-## Review Queue — [date]
+## Prüfwarteschlange — [Datum]
 
-**Pending:** [N] | **Oldest:** [N] hours
+**Ausstehend:** [N] | **Ältester Eintrag:** [N] Stunden
 
-### 🔴 Deadline-sensitive
-| ID | Type | Client | Student | Why flagged | Waiting |
+### Fristgebunden (sofortige Prüfung)
+| ID | Typ | Mandant | Studierender | Warum geflaggt | Wartet seit |
 |---|---|---|---|---|---|
 
 ### Standard
-[same table]
+[gleiche Tabelle]
 
-### By student
-[Breakdown — spot patterns: who's queueing a lot, who might need a check-in]
+### Nach Studierendem
+[Aufschlüsselung — Muster erkennbar: wer reicht viel ein, wer sollte ein Gespräch bekommen]
 ```
 
-### Review an item
+### Eintrag prüfen
 
-Show full content + why it was flagged + student notes.
+Vollständigen Inhalt anzeigen + Warum geflaggt + Notizen des Studierenden.
 
-### Approve / edit-then-approve / return
+### Freigeben / Bearbeiten und Freigeben / Zurückschicken
 
-- **Approve:** Status → approved, student notified, logged.
-- **Edit then approve:** Professor edits inline, approved version is the edited one, original preserved in log so student sees the diff (teaching moment).
-- **Return:** With a note. Student revises and resubmits.
+- **Freigeben:** Status → freigegeben, Studierender informiert, protokolliert.
+- **Bearbeiten und Freigeben:** Supervisor bearbeitet inline; die freigegebene Version ist die bearbeitete; Original im Protokoll erhalten, damit der Studierende den Unterschied sieht (Lehrmoment).
+- **Zurückschicken:** Mit Hinweis. Studierender überarbeitet und reicht erneut ein.
 
-## Logging
+## Ausgabeformat
 
-Every action logged. Approval logs are clinic records — they document that a licensed attorney, solicitor, barrister, or other authorised legal professional in the clinic's jurisdiction reviewed student work before it went to a client or court. That matters for the clinic's own compliance and for student evaluation.
+Markdown-Tabellen nach dem Warteschlangen-Anzeigeschema oben. Einzelne Einträge werden mit vollständigem Inhalt, Flag-Begründung und Studierenden-Notizen angezeigt.
 
-## Teaching signal
+## Beispiel
 
-The queue is also data. Pattern in returns ("Student X keeps missing the service requirement") is a coaching conversation. Pattern in edits ("Everyone's demand letters are too long") is a `/ramp` update for next semester.
+**Szenario:** Studierender Müller reicht einen Entwurf der Kündigungsschutzklage für Mandantin Erdem ein (AG Berlin). Da es sich um eine gerichtliche Einreichung handelt, wird der Entwurf automatisch in die Prüfwarteschlange eingestellt.
 
-## What this skill does NOT do
+Supervisor sieht:
+```
+P-003 | entwurf | Erdem | Müller | Gerichtliche Einreichung — Klageschrift AG | 4 Stunden
+```
 
-- **Run unless the professor chose it.** It's one of three supervision models, not the only one.
-- **Auto-approve.** The professor approves.
-- **Replace the clinic's existing supervision structure.** It's a gate for work product, not a substitute for case rounds, one-on-ones, or watching students in action.
+Supervisor prüft den Inhalt. Ergänzt: „§ 4 KSchG-Frist: Bitte noch einmal prüfen ob der Zugang am 15.04.2026 korrekt dokumentiert ist." → Zurückschicken. Müller überarbeitet, reicht neu ein → P-003b.
+
+## Risiken und typische Fehler
+
+- **Prüfung pro forma:** Eine Prüfwarteschlange ohne inhaltliche Prüfung erfüllt § 6 Abs. 2 RDG nicht. Das Protokoll dokumentiert, dass tatsächlich geprüft wurde; es ersetzt nicht die Prüfung selbst.
+- **Warteschlange als Flaschenhals:** Bei hoher Fallzahl und Fristdruck kann eine formelle Warteschlange zum Engpass werden. Supervisor muss Kapazitäten planen; dringende Fristen werden in der Warteschlange priorisiert angezeigt.
+- **Datenschutz:** Die Warteschlange enthält sensitive Mandantendaten. Nur Supervisoren-Zugang; keine Ablage in unsicheren Systemen.
+- **Zurückgeschickte Einträge nicht verfolgt:** Wenn ein Studierender einen zurückgeschickten Eintrag nicht überarbeitet und neu einreicht, bleibt die Arbeit hängen. Supervisor sollte offene Rücksendungen regelmäßig prüfen.
+
+## Lehrfunktion der Warteschlange
+
+Die Warteschlange ist auch Datenbasis. Muster in Rücksendungen („Studierender X vergisst regelmäßig die Fristprüfung") ist ein Coaching-Gespräch. Muster in Bearbeitungen durch den Supervisor („Alle Mahnschreiben sind zu lang") ist ein Update für das nächste Semester-Onboarding (`/ramp`).
+
+Der Vergleich Original/bearbeitet im Protokoll ist ein Lehrmoment: Der Studierende sieht, was der Supervisor geändert hat, und warum — sofern der Supervisor einen kurzen Kommentar hinzufügt.
+
+## Quellenpflicht
+
+Prüfentscheidungen werden im Protokoll mit Datum und Supervisorenname dokumentiert. Begründungen für Rücksendungen sind inhaltlich und konkret (nicht „bitte nochmals prüfen", sondern „§ 4 KSchG-Frist: Zustellungsnachweis fehlt"). Das Protokoll ist Teil der Mandantenakte.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine volljuristische Supervision nach § 6 Abs. 2 RDG.

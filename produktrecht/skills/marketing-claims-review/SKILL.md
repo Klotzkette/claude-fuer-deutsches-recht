@@ -1,220 +1,250 @@
 ---
 name: marketing-claims-review
 description: >
-  Review marketing copy for claims that need substantiation, reframing, or cutting.
-  Use when the user says "review this marketing copy", "check these claims",
-  "can we say this", "is this puffery or a problem", or pastes marketing content
-  (landing pages, emails, ads, taglines).
-argument-hint: "[paste copy, or file path]"
+  Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach
+  deutschem und europäischem Recht. Lädt, wenn der Nutzer „Werbetext prüfen",
+  „Marketingaussagen freigeben", „UWG-Prüfung", „Health Claims", „klimaneutral
+  prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt.
+language: de
+triggers:
+  - "Werbetext prüfen"
+  - "Marketingaussagen prüfen"
+  - "UWG-Prüfung"
+  - "Health Claims"
+  - "klimaneutral Werbung"
+  - "Werbeaussagen freigeben"
+  - "irreführende Werbung"
+  - "vergleichende Werbung"
+  - "Influencer-Werbung"
+  - "Heilmittelwerbegesetz"
 ---
 
-# /marketing-claims-review
+# Werbeaussagen-Prüfung (Marketing Claims Review)
 
-1. Load `~/.claude/plugins/config/claude-for-legal/product-legal/CLAUDE.md` → Marketing claims standards.
-2. Apply the claim taxonomy and review workflow below.
-3. Extract every claim. Classify: puffery / factual / comparative / implied / absolute.
-4. For each non-puffery claim: substantiation check, suggested fix.
-5. Output: claim-by-claim with calls, suggested revision if short enough.
+## Zweck
 
-```
-/product-legal:marketing-claims-review
-[paste landing page copy]
-```
+Das Marketing möchte das Produkt bestmöglich darstellen. Das Recht verlangt, dass Werbeaussagen wahr oder zumindest nicht nachweislich falsch sind. Diese Skill identifiziert Behauptungen, die Abmahnrisiken, behördliche Anfragen (Bundeskartellamt, Verbraucherschutzverbände) oder eine UWG-Klage auslösen können, und schlägt Alternativformulierungen vor, die Werbewirkung und Rechtskonformität verbinden.
 
----
+Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbeschreibungen, E-Mail-Kampagnen, Anzeigentexte oder Influencer-Briefings zur Prüfung vorlegt.
 
-## Matter context
+## Eingaben
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/product-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/product-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+- **Werbetext / Werbemittel** — Landingpage, E-Mail, Anzeige, Produktbeschreibung, Tagline, Social-Media-Post, Influencer-Brief (als Datei oder direkte Eingabe)
+- **Produktbeschreibung** — Was tut das Produkt tatsächlich? Welche Nachweise liegen vor?
+- **Nachweisunterlagen** — Studien, Testzertifikate, Kundendaten (soweit vorhanden)
+- **Zielgruppe und Medium** — B2C oder B2B, Online, Print, Social Media, Rundfunk, Fachpresse
+- **Zielmärkte** — Deutschland, Österreich, Schweiz, EU-weit; Sonderregelungen bei Lebensmitteln, Arzneimitteln, Medizinprodukten
 
----
+## Rechtlicher Rahmen
 
-## Purpose
+### Kernvorschriften
 
-Marketing wants to say the product is the best. Legal needs it to be true, or at least not provably false. This skill finds the claims that will get a demand letter from a competitor or an inquiry from a regulator, and suggests how to keep the energy while fixing the exposure.
+**Allgemeines Wettbewerbs- und Werberecht**
+- § 3 UWG: Verbot unlauterer geschäftlicher Handlungen
+- § 5 UWG: Irreführende geschäftliche Handlungen (irreführende Angaben über Beschaffenheit, Herkunft, Testergebnisse, Alleinstellungsbehauptungen)
+- § 5a UWG: Irreführung durch Unterlassen
+- § 6 UWG: Vergleichende Werbung (zulässig nur bei objektivem, nachweisbarem und sachlichem Vergleich auf Grundlage wesentlicher Merkmale)
+- § 7 UWG: Unzumutbare Belästigung (Spam, unerwünschte Telefonwerbung)
+- §§ 8, 9 UWG: Unterlassung, Schadensersatz; Aktivlegitimation von Mitbewerbern und Verbänden (§ 8 Abs. 3 UWG)
+- Anlage 1 zu § 3 Abs. 3 UWG: Stets unzulässige geschäftliche Handlungen (Schwarze Liste)
 
-## Load standards
+**Klimaaussagen und Nachhaltigkeitswerbung**
+- BGH, Urt. v. 27.06.2024 – I ZR 98/23, GRUR 2024, 1166 (Klimaneutralität): Werbeaussage „klimaneutral" ist irreführend nach § 5 Abs. 1 UWG, wenn die Kompensation nicht transparent offengelegt wird; Verbraucher interpretieren „klimaneutral" als absolute Eigenschaft, nicht als Kompensationsversprechen. Die Aussage erfordert eine klare, unmittelbar zugängliche Erläuterung des Kompensationswegs. `[verify]`
+- BGH, Urt. v. 08.07.2021 – I ZR 214/18, GRUR 2021, 1561 (Umweltengel): Werbung mit Umwelteigenschaften unterliegt erhöhter Substantiierungspflicht. `[verify]`
+- RL 2024/825/EU (Green Claims-RL, Umsetzungsfrist läuft): Verschärfte Anforderungen an Nachhaltigkeitsaussagen, insb. Verbot unbelegter Klimaneutrality-Claims
 
-Read `~/.claude/plugins/config/claude-for-legal/product-legal/CLAUDE.md` → `## Marketing claims`:
-- Comparative claims policy (allowed with substantiation / discouraged / never)
-- Substantiation standard (what's required before a claim ships)
-- Common rejected claims (learn from history)
+**Gesundheitsbezogene Angaben**
+- Health-Claims-VO (EG) 1924/2006: Nährwert- und gesundheitsbezogene Angaben über Lebensmittel nur zulässig, wenn in der Positivliste (Art. 13 oder Art. 14) gelistet oder ausdrücklich zugelassen
+- Heilmittelwerbegesetz (HWG): §§ 3, 3a HWG — irreführende Heilmittelwerbung verboten; § 5 HWG — Pflichtangaben; § 11 HWG — besondere Verbote (z. B. Vorher-Nachher-Bilder, Laienempfehlungen)
+- LMIV VO (EU) 1169/2011: Irreführungsverbot für Lebensmittelkennzeichnung und -werbung
 
-## Research the applicable standards before clearing copy
+**Vergleichende Werbung und Konkurrentennennung**
+- BGH, Urt. v. 02.04.2015 – I ZR 167/13, GRUR 2015, 1134 (Vergleichende Werbung — Prüfkriterien): Vergleich muss objektiv, nachweisbar, nicht irreführend und nicht verunglimpfend sein. `[verify]`
+- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 431 (Vergleichende Preisangaben): Zeitliche Aktualität des Vergleichs erforderlich. `[verify]`
 
-Research the currently operative advertising and substantiation standards for the applicable jurisdictions and media (for example, FTC, NAD, state UDAP regimes, sector regulators for healthcare / financial / children's products, and platform-specific policies). Identify what substantiation the *specific claim* requires — who measured it, when, sample size, apples-to-apples basis — not just whether *some* substantiation exists on file. Flag implied claims and comparative claims for heightened scrutiny. Verify currency: endorsement and review guides have been updated recently and continue to evolve. Cite primary sources with pinpoint references. If you cannot verify the current standard, flag for attorney verification — do not state a rule you haven't confirmed.
+**Influencer-Werbung und Kennzeichnungspflicht**
+- BGH, Urt. v. 09.09.2021 – I ZR 90/20, GRUR 2022, 160 (Influencer II): Kommerzielle Postings ohne klare Kennzeichnung als Werbung sind unlauter nach § 5a Abs. 6 UWG (jetzt § 5a Abs. 4 UWG n. F.). `[verify]`
+- § 22 MStV (Medienstaatsvertrag): Werbekennzeichnungspflicht für Telemedien und Social Media
+- BGH GRUR 2022, 1812: Weitere Konkretisierung zur Werbekennzeichnung bei Eigenpromotion `[verify]`
 
-> **Only cite the standards that apply to the specific claims under review.** A blanket list of every FTC guideline, NAD practice note, or sector rule makes the load-bearing ones invisible. Do not cite the Endorsement Guides (16 CFR Part 255) unless the copy contains an endorsement, testimonial, or influencer content. Do not cite disclosure-overlay rules unless a claim in the asset triggers the overlay. Do not cite a sector regulator unless the copy targets or implicates that sector. A standard earns its place in the output by mapping to a specific quoted claim; otherwise drop it.
+### Kommentarliteratur
 
-> **No silent supplement.** If a research query to the configured legal research tool returns few or no results for the applicable standard (FTC rule, NAD decision, state UDAP, sector rule, platform policy), report what was found and stop. Do NOT fill the gap from web search or model knowledge without asking. Say: "The search returned [N] results from [tool]. Coverage appears thin for [standard / jurisdiction]. Options: (1) broaden the search query, (2) try a different research tool, (3) search the web — results will be tagged `[web search — verify]` and should be checked against the issuing authority before relying, or (4) flag as unverified and stop. Which would you like?" A lawyer decides whether to accept lower-confidence sources.
->
-> **Source attribution tiering.** Tag every citation with its source. For model-knowledge citations, use one of three tiers rather than a single blanket "verify" tag:
->
-> - `[settled]` — stable, well-known statutory and regulatory references unlikely to have changed (e.g., FTC Act § 5, Lanham Act § 43(a) as a concept). Still verify before approving copy, but lower priority.
-> - `[verify]` — model-knowledge citations that are real but should be verified: specific FTC enforcement actions, NAD decisions, state UDAP statutes, sector-specific rules, platform policies, case holdings, thresholds, effective dates, recent updates (the Endorsement Guides and disclosure rules update frequently).
-> - `[verify-pinpoint]` — pinpoint citations (specific subsection letters, CFR subpart references, case paragraph numbers) carry the highest fabrication risk and should ALWAYS be verified against a primary source.
->
-> Tool-retrieved citations keep their source tag (`[Westlaw]`, `[CourtListener]`, `[FTC site]`, `[NAD]`, `[platform policy]`, or the MCP tool name); web-search citations remain `[web search — verify]`; user-supplied citations (from substantiation files) remain `[user provided]`. The tiering surfaces the real verification work — a reader who verifies everything verifies nothing. Never strip or collapse the tags.
+- Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 5 Rn. 1.1 ff. (Irreführende Werbung) `[verify]`
+- Harte-Bavendamm/Henning-Bodewig (Hrsg.), UWG, 5. Aufl. 2021, § 6 Rn. 10 ff. (Vergleichende Werbung) `[verify]`
+- Sosnitza, UWG, 4. Aufl. 2022, § 5 Rn. 44 ff. (Alleinstellungsbehauptungen) `[verify]`
+- Streinz/Kraus, LFGB, 2. Aufl. 2022, § 11 Rn. 5 ff. (Irreführungsverbot Lebensmittel) `[verify]`
 
-## Claim taxonomy
+## Ablauf
 
-The categories below are structural patterns the reviewer should be able to recognize. Whether a given phrase is actionable depends on the currently operative rule in the applicable jurisdiction, the specific substantiation available, and the audience — research that before concluding.
+### Schritt 1: Standards laden und Branchenkontext klären
 
-### Vague / subjective claims
+Aus der CLAUDE.md → `## Marketingaussagen-Standards` lesen:
+- Unternehmensrichtlinie zu vergleichender Werbung (erlaubt mit Nachweis / nicht empfohlen / nie)
+- Substantiierungsstandard (welcher Nachweis ist vor Veröffentlichung erforderlich)
+- Historisch abgelehnte Aussagen (aus früheren Prüfungen lernen)
 
-Subjective assertions with no measurable content. Whether they are actionable depends on jurisdiction, context, and audience — research before concluding.
+Branchenspezifika vorab klären: Lebensmittel → Health-Claims-VO; Arzneimittel/Medizinprodukte → HWG; Finanzprodukte → WpHG-Werbepflichten; Energieversorgung → EnWG-Transparenzregeln.
 
-| Example |
+> **Nur anwendbare Normen zitieren.** Kein pauschales Auflisten aller UWG-Paragraphen. Eine Norm verdient einen Platz im Prüfvermerk nur, wenn sie einer konkreten, zitierten Werbeaussage zugeordnet werden kann.
+
+### Schritt 2: Alle Werbeaussagen extrahieren
+
+Jeden Satz oder jede Phrase, die eine Tatsache behauptet, einen Vergleich anstellt oder eine Zusage macht, auflisten. Reine Anpreisungen ohne konkreten Tatsachenkern (subjektive Einschätzungen, die kein vernünftiger Verbraucher für bare Münze nimmt) vorerst zurückstellen.
+
+### Schritt 3: Klassifizieren und prüfen
+
+**Werbeaussagen-Taxonomie:**
+
+**Vage / subjektive Anpreisungen (Puffery)**
+
+Subjektive Wertungen ohne messbaren Inhalt. Ob sie wettbewerbsrechtlich relevant sind, hängt vom konkreten Kontext und der angesprochenen Verkehrskreise ab.
+
+| Beispiel |
 |---|
-| "The best way to manage your projects" |
-| "You'll love it" |
-| "Revolutionary" |
+| „Der beste Weg, Ihre Projekte zu managen" |
+| „Sie werden es lieben" |
+| „Revolutionär" |
 
-### Specific factual claims
+**Konkrete Tatsachenbehauptungen (erhöhter Substantiierungsbedarf)**
 
-Measurable, specific, a reasonable person might rely on it.
+Messbare, spezifische Aussagen, auf die ein vernünftiger Verbraucher vertraut.
 
-| Example | Substantiation to look for |
+| Beispiel | Erforderlicher Nachweis |
 |---|---|
-| "50% faster than [competitor]" | Benchmark data, disclosed methodology, date |
-| "Trusted by 10,000 companies" | Actual count (not cumulative signups — *currently* trusted) |
-| "Saves 5 hours per week" | Study or customer data, disclosed sample |
-| "Enterprise-grade security" | What does that mean? SOC 2? Spell it out or it's a promise |
-| "HIPAA compliant" | BAA available, actually configured for it — this is a contractual promise |
+| „50 % schneller als [Wettbewerber]" | Benchmark-Daten, offengelegte Methodik, Datum |
+| „Von 10.000 Unternehmen genutzt" | Aktuelle Nutzerzahl, nicht kumulierte Registrierungen |
+| „Spart 5 Stunden pro Woche" | Studie oder Kundendaten mit offengelegter Stichprobe |
+| „Klinisch geprüft" (Kosmetik) | Art und Umfang der Prüfung, keine Verwechselung mit Arzneimittelzulassung |
+| „DSGVO-konform" | Konkrete Konfiguration und AV-Vertrag vorhanden — dies ist eine vertragliche Zusage |
 
-### Comparative claims (heightened scrutiny)
+**Klimaneutralitäts- und Nachhaltigkeitsaussagen (besonderer Fokus)**
 
-Naming a competitor or implying one. Research the applicable rules for comparative advertising in the relevant jurisdictions and media before clearing.
+Seit BGH, Urt. v. 27.06.2024 – I ZR 98/23, GRUR 2024, 1166 gilt: Die Aussage „klimaneutral" ist ohne unmittelbar zugängliche, vollständige Erläuterung des Kompensationswegs irreführend i. S. d. § 5 Abs. 1 UWG.
 
-| Example | Fix pattern |
+| Aussage | Prüfmuster |
 |---|---|
-| "Faster than Slack" | Either name Slack with head-to-head data you can defend, or abstract to "faster than legacy chat tools" with substantiation |
-| "The only platform that does X" | False if anyone else does X — "The first platform to..." (if true) or drop "only" |
-| "[Competitor] can't do this" | Show your feature. Let the viewer compare. |
+| „Klimaneutral" (ohne Erläuterung) | Blocker — Erläuterung des Kompensationsansatzes auf derselben Kommunikationsfläche erforderlich |
+| „CO₂-neutral bis 2030" | Zeitplan, Maßnahmen und Zwischenziele belegen |
+| „Nachhaltig produziert" | Welches Label, welche Norm, welcher Verifizierer? |
+| „100 % Ökostrom" | Herkunftsnachweis (Herkunftsnachweisregister nach EEG) |
 
-Per `~/.claude/plugins/config/claude-for-legal/product-legal/CLAUDE.md` — if comparative claims are "never," flag all of them. If "allowed with substantiation," check for the substantiation.
+**Vergleichende Werbung (§ 6 UWG, erhöhte Sorgfalt)**
 
-### Implied claims
+Nennung eines Konkurrenten oder impliziter Bezug. Zulässig nur bei objektivem, nachweisbarem, aktuellem und sachlichem Vergleich.
 
-Not stated outright but a reasonable reader infers it. Research the treatment of implied claims under the applicable advertising regime — implied claims often carry the same substantiation burden as express ones.
+| Beispiel | Lösungsmuster |
+|---|---|
+| „Schneller als [Konkurrent X]" | Head-to-Head-Daten mit offengelegter Methodik, oder Abstraktion auf „schneller als herkömmliche Lösungen" mit Substantiierung |
+| „Die einzige Plattform, die X kann" | Falsch, wenn irgendein Mitbewerber X ebenfalls kann — „Die erste Plattform, die X…" (wenn wahr) oder Streichung von „einzig" |
+| „[Konkurrent] kann das nicht" | Funktion zeigen und den Vergleich dem Betrachter überlassen |
 
-| Example | Implication | Fix |
+**Implizite Behauptungen**
+
+Nicht ausdrücklich formuliert, aber von vernünftigen Verkehrskreisen so verstanden.
+
+| Beispiel | Implikation | Lösung |
 |---|---|---|
-| "Finally, a secure alternative" | Competitors are insecure | "Finally, security you can verify" |
-| Customer logos without context | These companies endorse us | "Customers include..." is fine; "Trusted by..." implies more |
-| "Built for healthcare" | HIPAA compliant | Clarify or qualify |
+| „Endlich eine sichere Alternative" | Konkurrenten sind unsicher | „Endlich Sicherheit, die Sie nachprüfen können" |
+| Kundenlogos ohne Kontext | Diese Unternehmen empfehlen uns | „Zu unseren Kunden zählen…" ist zulässig; „Vertraut von…" impliziert mehr |
+| „Für den Gesundheitsbereich entwickelt" | Medizinprodukt oder DSGVO-Gesundheitsdaten-Konformität | Konkretisieren oder qualifizieren |
 
-### Absolute claims
+**Absolute Behauptungen**
 
-No room for error. One counter-example makes them false. Research whether qualifications cure the issue in the applicable jurisdiction.
+Kein Spielraum für Ausnahmen. Ein Gegenbeispiel macht sie falsch.
 
-| Example | Fix pattern |
+| Beispiel | Lösungsmuster |
 |---|---|
-| "Never goes down" | "99.9% uptime" (with SLA that defines it) |
-| "100% accurate" | A specific, substantiated percentage tied to a benchmark |
-| "Guaranteed" | Only if you actually offer a guarantee with terms — this creates warranty exposure |
-| "Always" / "Every" | "Typically" / "Most" |
+| „Fällt nie aus" | „99,9 % Verfügbarkeit" (mit SLA-Definition) |
+| „100 % genau" | Konkrete, substantiierte Prozentzahl mit Benchmark |
+| „Garantiert" | Nur wenn tatsächlich eine Garantie mit Bedingungen angeboten wird — schafft sonst Gewährleistungsversprechen (§ 443 BGB) |
+| „Immer" / „Jedes" | „Typischerweise" / „In den meisten Fällen" |
 
-## The review
-
-### Step 1: Extract every claim
-
-Read the copy. List every sentence or phrase that asserts a fact, makes a comparison, or promises something. Ignore pure puffery in the list.
-
-### Step 2: Classify and check
-
-For each claim:
+**Für jede Behauptung ausgeben:**
 
 ```markdown
-**Claim:** "[exact quote]"
-**Type:** [Specific factual | Comparative | Implied | Absolute]
-**Substantiation on file:** [Yes — link | No | Unknown]
-**Call:** [✅ Fine | ⚠️ Needs substantiation | ⚠️ Needs rewording | 🔴 Cut]
-**Suggested fix:** "[alternative phrasing that keeps the energy]"
-**Why:** [one line]
+**Behauptung:** „[genaues Zitat]"
+**Typ:** [Konkrete Tatsache | Vergleichend | Implizit | Absolut | Klimaschutz/Nachhaltig | HWG/Health Claim]
+**Nachweis vorhanden:** [Ja — Link/Referenz | Nein | Unbekannt]
+**Bewertung:** [✅ Unbedenklich | ⚠️ Nachweis erforderlich | ⚠️ Umformulierung nötig | 🔴 Streichen]
+**Empfohlene Formulierung:** „[Alternativtext, der die Werbewirkung erhält]"
+**Begründung:** [eine Zeile mit Normbezug]
 ```
 
-### Step 3: Check against the product
+### Schritt 4: Produktabgleich
 
-Does the product actually do what the copy says? Not a philosophical question — check the PRD or ask the PM.
+Entspricht das Produkt wirklich dem, was der Werbetext verspricht? Häufiges Phänomen: Marketingtext wurde auf Basis eines frühen Entwurfs verfasst, das Produkt hat sich geändert, der Text nicht. PRD oder PM befragen.
 
-Common drift: marketing copy written from an early spec, product changed, nobody updated the copy.
-
-### Step 4: Output
-
-Prepend the work-product header from `~/.claude/plugins/config/claude-for-legal/product-legal/CLAUDE.md` `## Outputs` (it differs by user role — see `## Who's using this`).
+### Schritt 5: Ausgabe zusammenstellen
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs]
+# Werbeaussagen-Prüfvermerk: [Kampagne / Asset-Name]
 
-# Marketing Review: [Campaign/Asset name]
-
-**Reviewed:** [date]
-**Asset:** [landing page / email / ad / etc.]
+**Geprüft:** [Datum]
+**Werbemittel:** [Landingpage / E-Mail / Anzeige / etc.]
 
 ---
 
-## Summary
+## Zusammenfassung
 
-[N] claims reviewed. [N]✅ [N]⚠️ [N]🔴
+[N] Behauptungen geprüft. [N]✅ [N]⚠️ [N]🔴
 
-**Ready to ship:** [Yes | With changes below | No — rewrite needed]
-
-> **Before emitting "Ready to ship: Yes" (i.e., approving a claim for external use / publication):** Read `## Who's using this` in `~/.claude/plugins/config/claude-for-legal/product-legal/CLAUDE.md`. If the Role is Non-lawyer:
->
-> > Approving a marketing claim for publication is a legal act — once published, substantiation gaps and comparative-claim exposure become enforcement or competitor-challenge risk. Have you reviewed this with an attorney? If yes, proceed. If no, here's a brief to bring to them:
-> >
-> > [Generate a 1-page summary: asset, claims approved, claim types (specific factual / comparative / implied / absolute), substantiation on file for each, any implied claims flagged, and the three things to ask the attorney before the copy goes live.]
-> >
-> > If you need to find a lawyer: your professional regulator's referral service is the fastest starting point (state bar in the US; SRA/Bar Standards Board in England & Wales; Law Society in Scotland/NI/Ireland/Canada/Australia; or your jurisdiction's equivalent).
->
-> Do not proceed past this gate to "Ready to ship: Yes" without an explicit yes. "With changes below" and "No — rewrite needed" do not require the gate — those are review calls, not approvals.
+**Freigabe:** [Ja | Mit Änderungen gemäß unten | Nein — Überarbeitung erforderlich]
 
 ---
 
-## Claim-by-claim
+## Behauptungen im Einzelnen
 
-[All the claim blocks from Step 2, grouped: 🔴 first, then ⚠️, then ✅]
-
----
-
-## Suggested revision
-
-[For short assets — under 50 words, or a tweet, headline, one-liner, tagline, short ad — the output in this block is the actual revised copy with the fixes applied inline, not a description of what changed. The reader should be able to copy-paste this block into the asset.
-For longer assets (>50 words but <300 words), show the revised copy with fixes applied inline.
-For longer assets (300+ words), summarize the changes as a bulleted diff ("Strip Claim 1. Rewrite Claim 3 to drop 'any.' Soften Claim 4 for regulated-domain risk.") rather than pasting the whole asset.
-A meta-description of changes is never an acceptable output for a short asset — when the asset is one line, the output should BE the revised one line.]
+[Alle Behauptungsblöcke aus Schritt 3 — 🔴 zuerst, dann ⚠️, dann ✅]
 
 ---
 
-## Substantiation needed before ship
+## Empfohlene Überarbeitung
 
-| Claim | Need | From whom |
+[Für kurze Assets (≤ 50 Wörter, Headline, Tagline, Einzeiler): den tatsächlich überarbeiteten Text ausgeben, nicht eine Beschreibung. Der Nutzer soll ihn direkt übernehmen können.
+Für mittellange Assets (51–300 Wörter): überarbeiteten Text mit Korrekturen inline.
+Für längere Assets (> 300 Wörter): Änderungs-Diff als Aufzählung.]
+
+---
+
+## Erforderliche Nachweise vor Veröffentlichung
+
+| Behauptung | Benötigter Nachweis | Zuständig |
 |---|---|---|
-| [claim] | [data type] | [PM / data team / eng] |
-
----
-
-## Citation check
-
-Any FTC rules, NAD decisions, state UDAP statutes, sector regulations, or platform policies cited in this review were generated by an AI model and have not been verified against a primary source. Before relying on a specific rule to clear or reject copy, verify it against a legal research tool (Westlaw, CourtListener, or your firm's research platform) for accuracy and current effective date — endorsement guides, platform rules, and state UDAP regimes all update frequently. Source tags on each citation (e.g., `[FTC site]`, `[web search — verify]`) show where it came from; `verify` tags carry higher fabrication risk and should be checked first.
+| [Behauptung] | [Datentyp / Studie / Zertifikat] | [PM / Marketing / Recht] |
 ```
 
-## Disclosure overlays
+## Ausgabeformat
 
-Copy that involves any of the fact patterns below sits inside an additional disclosure regime. Research the currently operative disclosure requirements in the applicable jurisdictions (including any platform policies and sector-specific rules) and verify currency — these regimes are updated frequently.
+Prüfvermerk im internen Format gemäß CLAUDE.md. Für kurze Assets (Tagline, Headline) ist das Ergebnis die tatsächlich überarbeitete Formulierung, nicht eine Metabeschreibung der Änderungen.
 
-- **Testimonials / reviews** — material connections between the speaker and the advertiser are typically disclosable; research the current form and placement rules
-- **Influencer content** — research the current tagging, clarity, and conspicuousness requirements for the channel and audience
-- **"Results may vary" / atypical results** — research whether a disclosure (and what form) is required when shown results aren't representative
-- **Free trial / auto-renewal / negative option** — research the current conspicuousness and consent requirements for auto-conversion terms
+## Beispiel
 
-## Close with the next-steps decision tree
+**Sachverhalt:** Landingpage für ein Nahrungsergänzungsmittel mit folgenden Aussagen: (1) „Stärkt Ihr Immunsystem", (2) „Klimaneutral produziert", (3) „50 % wirksamer als Vitamin-C-Tabletten der Konkurrenz".
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+**Beispiel-Ergebnis:**
+- **(1) „Stärkt Ihr Immunsystem"** → 🔴 **Streichen oder ersetzen.** Gesundheitsbezogene Angabe für Nahrungsergänzungsmittel nur zulässig, wenn in der Positivliste der Health-Claims-VO (EG) 1924/2006 gelistet. „Vitamin C trägt zur normalen Funktion des Immunsystems bei" wäre zulässig (Art. 13-Claim, zugelassen). Allgemein gehaltener Immunsystem-Claim ohne Nährstoffbezug ist nicht gelistet → Abmahnrisiko.
+- **(2) „Klimaneutral produziert"** → ⚠️ **Umformulierung nötig.** Nach BGH, Urt. v. 27.06.2024 – I ZR 98/23, GRUR 2024, 1166 ist der Claim ohne unmittelbar zugängliche Erläuterung irreführend. Alternativ: „Produziert mit vollständig kompensierten CO₂-Emissionen — [Link zu Kompensationspartner und Methodik]."
+- **(3) „50 % wirksamer als…"** → ⚠️ **Nachweis erforderlich.** Vergleichende Werbung (§ 6 UWG) zulässig nur mit objektivem, aktuellem, nachweisbarem Vergleich. Head-to-Head-Studie mit offengelegter Methodik vorlegen oder Formulierung streichen.
 
-## What this skill does not do
+## Risiken und typische Fehler
 
-- It doesn't write the marketing. It fixes what's wrong with it. The suggested rewrites keep the energy, but the marketer owns the voice.
-- It doesn't substantiate claims. It identifies which ones need it and who has the data.
-- It doesn't review design or imagery — words only. If an image implies a claim (competitor logo with a red X through it), flag it, but visual review is a human judgment.
+- **Klimaneutralitäts-Claims ohne Transparenz:** Seit BGH GRUR 2024, 1166 konstant hohes Abmahnrisiko. Sämtliche Nachhaltigkeitsaussagen auf Plausibilität und Belegbarkeit prüfen; Kompensationspartner und Methodik immer offenlegen. Verschärfte Anforderungen durch Green Claims-RL 2024/825/EU (Umsetzungsfrist beachten).
+- **Ungesicherte Alleinstellungsbehauptungen:** „Die Nr. 1", „Marktführer", „Einzig" — nur zulässig mit aktuellem, belastbarem Beleg (Marktanteilsstudie, Zertifikat o. Ä.).
+- **Influencer-Posts ohne Werbekennzeichnung:** Nach BGH GRUR 2022, 160 (Influencer II) und §§ 5a Abs. 4 UWG, 22 MStV muss kommerzielle Kommunikation klar als Werbung erkennbar sein. „#ad" oder „Werbung" prominent am Anfang des Beitrags; nicht versteckt im Hashtag-Block.
+- **Health-Claims außerhalb der Positivliste:** Jede gesundheitsbezogene Angabe für Lebensmittel und Nahrungsergänzungsmittel benötigt einen zugelassenen Claim nach Art. 13 oder 14 VO 1924/2006. Eigene Formulierungen sind grundsätzlich unzulässig.
+- **HWG-Verstöße in Heilmittelwerbung:** § 3 HWG verbietet irreführende Werbung für Arzneimittel, Medizinprodukte und Verfahren. § 11 HWG verbietet spezifisch Laienempfehlungen, Vorher-Nachher-Bilder, Angst- und Druckwerbung gegenüber Verbrauchern.
+- **Veraltete vergleichende Werbung:** BGH GRUR 2018, 431 — Preisvergleiche und Leistungsvergleiche müssen aktuell sein; veraltete Benchmarks machen die Werbung irreführend.
+- **Fehlende Substantiierung bei absoluten Behauptungen:** „100 %" und „immer" unterliegen einem Nulltoleranzmaßstab; ein einziges dokumentiertes Gegenbeispiel genügt für eine begründete Abmahnung.
+
+## Quellenpflicht
+
+Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
+
+- **Primärquellen:** Gesetze und Verordnungen im Volltext (gesetze-im-internet.de, EUR-Lex), BfR-Stellungnahmen (Health Claims), Bundeskartellamt-Leitfäden
+- **Rechtsprechung:** juris, beck-online, GRUR, NJW, GRUR-RS — BGH-Entscheidungen zur Zitierform `BGH, Urt. v. TT.MM.JJJJ – Az., Fundstelle Rn. X`
+- **Kommentare:** Köhler/Bornkamm/Feddersen UWG, Harte-Bavendamm/Henning-Bodewig UWG, Sosnitza UWG
+- **Branchenspezifisch:** BfArM (Arzneimittelwerbung), BVL (Lebensmittelkennzeichnung), DAZ (Apothekenwesen)
+
+Quellen, die nur aus dem Modellwissen stammen, tragen das Tag `[verify]`. Pinpoint-Zitate (konkrete Randnummern, Seitenzahlen) tragen `[verify-pinpoint]`.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

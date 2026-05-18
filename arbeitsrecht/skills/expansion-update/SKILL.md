@@ -1,74 +1,187 @@
 ---
 name: expansion-update
 description: >
-  Update the status of an in-progress international expansion project —
-  recalculates what is now unblocked, flags anything overdue, and surfaces
-  the next priorities. Use when work has happened since the last session and
-  the expansion tracker needs to reflect the current state.
-argument-hint: "[country name]"
+  Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt,
+  welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und
+  benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung
+  Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln
+  soll.
+language: de
+triggers:
+  - "Expansion aktualisieren"
+  - "Tracker update"
+  - "Status Expansion"
+  - "was ist noch offen"
+  - "nächste Schritte Auslandseinstellung"
+  - "Expansionsprojekt fortschreiben"
+  - "was hat sich geändert"
 ---
 
-# /expansion-update
+# Expansions-Update (Arbeitsrecht)
 
-Returns to an open expansion tracker and updates item status based on what
-has happened since the last session. Recalculates what is now unblocked,
-flags anything overdue, and surfaces the next priorities.
+## Zweck
 
-## Instructions
+Diese Skill kehrt zu einem laufenden Expansions-Tracker zurück und aktualisiert
+den Bearbeitungsstand anhand der seit der letzten Sitzung eingetretenen
+Entwicklungen. Sie berechnet neu, welche Punkte jetzt angegangen werden können,
+kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten.
 
-1. Load `~/.claude/plugins/config/claude-for-legal/employment-legal/CLAUDE.md`.
+Lädt, wenn Fortschritte bei einer laufenden Auslandseinstellung zu dokumentieren
+sind und der Tracker aktualisiert werden soll.
 
-2. Identify the tracker file: `~/.claude/plugins/config/claude-for-legal/employment-legal/expansion-[slug].yaml`. If it doesn't
-   exist, respond: "No expansion tracker found for [country]. Run
-   `/employment-legal:expansion-kickoff [country]` to start one."
+## Eingaben
 
-3. Read the tracker. Show the current state:
+- Zielland (ggf. aus bestehendem Tracker automatisch erkannt)
+- Beschreibung der eingetretenen Änderungen seit der letzten Sitzung
+- Neue Punkte oder geänderte Fristen (falls zutreffend)
+
+## Rechtlicher Rahmen
+
+**Kernvorschriften:**
+
+- § 7 SGB IV: Beschäftigungsverhältnis und Scheinselbständigkeit — bei
+  Verlängerung eines EOR-Verhältnisses weiterhin zu prüfen
+- § 1 Abs. 1b AÜG: Gesetzliche Höchstüberlassungsdauer von 18 Monaten —
+  bei andauernder EOR-Nutzung kontinuierlich zu überwachen
+- § 8 AÜG: Equal-Pay-Gebot nach neun Monaten Überlassung — Ausnahme nur
+  durch einschlägigen Tarifvertrag
+- Art. 8 Rom I-VO: Fortlaufende Relevanz des Beschäftigungsstatuts bei
+  grenzüberschreitenden Arbeitsverhältnissen
+- §§ 17, 18 KSchG: Massenentlassungsanzeige bei Erreichung der
+  Schwellenwerte im Rahmen des Aufbaus
+
+**Leitentscheidungen:**
+
+- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289 Rn. 18 ff.:
+  Rechtsfolgen fehlender AÜG-Erlaubnis; Entstehung eines Arbeitsverhältnisses
+  zum Entleiher kraft Gesetzes — Relevanz, wenn EOR ohne korrekte AÜG-Struktur
+  fortgeführt wird
+- BAG, Urt. v. 30.09.2014 – 1 AZR 1083/12, NZA 2015, 121 Rn. 25 ff.:
+  Interessenausgleich und Sozialplan bei Betriebsänderungen infolge
+  Auslandsexpansion — zu beachten, wenn durch den Aufbau im Ausland
+  inländische Strukturen betroffen werden
+- BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R, NZA 2022, 1254:
+  Gesamtbetrachtung bei der Statusfeststellung nach § 7a SGB IV
+
+**Kommentarliteratur:**
+
+- Schüren/Hamann, AÜG, 5. Aufl. 2022, § 1 Abs. 1b Rn. 10 ff.:
+  Fristberechnung und Unterbrechungsregeln bei der 18-Monats-Grenze
+- Erfurter Kommentar/Wank, 24. Aufl. 2024, § 611a BGB Rn. 80 ff.:
+  Folgen einer Umklassifizierung als Arbeitnehmer
+- Rieble/Junker, Münchener Handbuch zum Arbeitsrecht, Bd. 1, 5. Aufl. 2021,
+  § 19 Rn. 22 ff.: Statusänderungen in laufenden grenzüberschreitenden
+  Projekten
+
+## Ablauf
+
+**Schritt 1 — Tracker identifizieren**
+
+Lese `CLAUDE.md` im Plugin-Verzeichnis. Identifiziere die Tracker-Datei
+`expansion-[slug].yaml`. Falls sie nicht existiert:
+
+> Für [Land] ist kein Expansions-Tracker vorhanden. Starten Sie mit
+> `/arbeitsrecht:expansion-kickoff [Land]`.
+
+**Schritt 2 — Aktuellen Stand anzeigen**
+
+Lese den Tracker. Zeige den Gesamtstatus:
 
 ```
-[Country] Expansion — last updated [date]
-Open: [N] | In progress: [N] | Done: [N] | Blocked: [N]
+[Land] Expansion — zuletzt aktualisiert: [Datum]
+Offen: [N] | In Bearbeitung: [N] | Erledigt: [N] | Blockiert: [N]
 
-Next priorities (open items with earliest due dates or highest-dependency):
-  [item] — owner: [owner]
-  [item] — owner: [owner]
-  [item] — owner: [owner]
+Nächste Prioritäten (offene Punkte nach Fälligkeit / Abhängigkeit):
+  [Punkt] — Verantwortung: [Person/Funktion]
+  [Punkt] — Verantwortung: [Person/Funktion]
+  [Punkt] — Verantwortung: [Person/Funktion]
 ```
 
-4. Ask for updates in a single prompt — do not ask about each item one by one:
+**Schritt 3 — Änderungen abfragen**
 
-   > Which items have moved since we last looked? Tell me what's changed
-   > (e.g., "EOR decision made — going with Deel", "outside counsel engaged —
-   > call scheduled for Thursday", "PE analysis still open, waiting on tax").
-   > You can also add new items or change due dates.
+Frage alle Änderungen in einem einzigen Block ab:
 
-5. Apply updates to the tracker file. For any item newly marked `done`,
-   check whether it unblocks other items and flag those as now actionable.
+> Welche Punkte haben sich seit der letzten Sitzung bewegt? Bitte schildern
+> Sie kurz die Änderungen (z. B. „EOR-Entscheidung getroffen — Anbieter ist
+> Deel", „externe Arbeitsrechtler beauftragt — Erstgespräch nächste Woche",
+> „Betriebsstättenanalyse noch offen, Steuerberater wartet auf Mandatserteilung").
+> Neue Punkte oder geänderte Fristen können ebenfalls mitgeteilt werden.
 
-6. If any item has a due date that has passed and is still `open` or
-   `in-progress`, flag it:
+**Schritt 4 — Updates anwenden**
 
-```
-⚠️ Overdue: [item] — was due [date], owner: [owner]
-```
+Trage alle Änderungen in den Tracker ein. Wenn ein Punkt als erledigt markiert
+wird, prüfe, ob er andere Punkte freischaltet, und kennzeichne diese als
+jetzt bearbeitbar.
 
-7. Write the updated tracker. Confirm:
+**Schritt 5 — Überfällige Punkte kennzeichnen**
 
-```
-Tracker updated — [N] items closed, [N] still open.
-Next priority: [top open item].
-```
-
-## Examples
+Wenn ein Punkt eine abgelaufene Frist hat und noch den Status `offen` oder
+`in Bearbeitung` trägt:
 
 ```
-/employment-legal:expansion-update Germany
+Überfällig: [Punkt] — Fälligkeit war [Datum], Verantwortung: [Person/Funktion]
+```
+
+**Schritt 6 — AÜG-Fristcheck**
+
+Wenn der Tracker einen aktiven EOR-Einsatz enthält: Prüfe, ob die
+18-Monats-Grenze des § 1 Abs. 1b AÜG oder das Equal-Pay-Gebot nach § 8 AÜG
+(9 Monate ohne tarifvertragliche Ausnahme) in den nächsten 60 Tagen greift.
+Falls ja, flagge explizit.
+
+**Schritt 7 — Tracker speichern und bestätigen**
+
+```
+Tracker aktualisiert — [N] Punkte geschlossen, [N] noch offen.
+Nächste Priorität: [oberster offener Punkt].
+```
+
+## Ausgabeformat
+
+Statusanzeige nach Schritt 2 (Tabellenform), gefolgt von freiem Abfrageblock,
+dann Bestätigungsnachricht nach Update. Bei AÜG-Fristwarnung: gesonderter
+Warnblock über der Bestätigung.
+
+## Beispiel
+
+```
+/arbeitsrecht:expansion-update Polen
 ```
 
 ```
-/employment-legal:expansion-update
-(will ask which country if multiple trackers exist)
+/arbeitsrecht:expansion-update
+(fragt nach dem Land, wenn mehrere Tracker existieren)
 ```
 
-> Detailed tracker schema, item-status rules, and dependency logic live in the
-> `international-expansion` reference skill — load it before doing substantive
-> work.
+Beispiel-Ausgabe bei laufendem EOR-Einsatz seit 14 Monaten:
+
+> AÜG-Fristwarnung: Der EOR-Einsatz für [Mitarbeiterin] läuft seit
+> 14 Monaten. Die gesetzliche Höchstüberlassungsdauer von 18 Monaten
+> (§ 1 Abs. 1b AÜG) wird am [Datum] erreicht. Ohne tarifvertragliche
+> Verlängerungsklausel oder Umwandlung in ein direktes Arbeitsverhältnis
+> droht Rechtsfolge nach § 10 Abs. 1 AÜG.
+
+## Risiken und typische Fehler
+
+- **18-Monats-Grenze übersehen**: Die AÜG-Frist läuft unabhängig davon,
+  ob die Parteien die Überlassung bewusst als solche strukturiert haben.
+  Frühzeitige Planung der Folgeoption (Direkteinstellung oder neuer EOR-Vertrag
+  mit echtem Unterbrechungszeitraum) ist erforderlich.
+- **Equal-Pay vergessen**: Nach neun Monaten ununterbrochener Überlassung
+  gilt das Equal-Pay-Gebot (§ 8 AÜG), sofern kein einschlägiger TV gilt.
+  Budgetauswirkung für Finance vorab modellieren.
+- **Tracker nicht gepflegt**: Ein veralteter Tracker führt zu fehlerhafter
+  Priorisierung. Update zeitnah nach jeder relevanten Entwicklung.
+- **Statusänderungen nicht auf Abhängigkeiten geprüft**: Wird z. B. die
+  EOR-Entscheidung getroffen, schaltet dies typischerweise Punkte für
+  Steuer, Finance und HR frei — diese dürfen nicht übersehen werden.
+
+## Quellenpflicht
+
+Bei AÜG-relevanten Warnungen zitieren:
+- § 1 Abs. 1b AÜG (Höchstüberlassungsdauer)
+- § 8 AÜG (Equal-Pay-Gebot)
+- § 10 Abs. 1 AÜG (Fiktion des Arbeitsverhältnisses)
+- BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

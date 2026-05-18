@@ -1,286 +1,261 @@
 ---
 name: ip-clause-review
 description: >
-  Review the IP clauses in an agreement — assignment, ownership, license
-  grants, warranties, indemnities. Use when reviewing IP terms in employment,
-  consulting, SOW, vendor, or licensing agreements, when asked to check the
-  assignment language or license scope, or when an agreement with IP
-  provisions is pasted or attached.
-argument-hint: "[file path | Drive link | paste text]"
+  Prüfung der IP-Klauseln in einem Vertrag — Übertragung, Inhaberschaft,
+  Lizenzgewährung, Gewährleistung, Freistellung. Lädt bei der Prüfung von
+  IP-Regelungen in Arbeits-, Dienst-, Werk-, Lizenz- oder sonstigen
+  Verträgen mit IP-Bezug sowie bei Fragen zu Abtretungssprache oder
+  Lizenzumfang.
+language: de
+triggers:
+  - "IP-Klausel prüfen"
+  - "Nutzungsrechtsklausel"
+  - "Urheberrechtsübertragung Vertrag"
+  - "Lizenzvertrag prüfen"
+  - "Arbeitsvertrag Schutzrechte"
+  - "Dienstvertrag IP"
+  - "Vertragsreview gewerblicher Rechtsschutz"
+  - "Abtretung Patent Marke"
+  - "Open Source Klausel"
 ---
 
-# /ip-clause-review
+# IP-Klausel-Prüfung
 
-Reviews the IP clauses in an agreement against the practice profile in `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`. Flags assignment gaps, ownership ambiguity, license-scope issues, and IP warranty/indemnity problems. Produces a memo with per-clause findings, prioritized by risk, with suggested redline language where appropriate.
+## Zweck
 
-## Instructions
+Diese Skill liest die IP-Klauseln eines Vertrags und gibt dem Rechtsanwalt für jede Klausel eine strukturierte Auswertung: Was steht drin, wie weicht es von der Marktpraxis oder der Hausposition ab, welches Risiko besteht, und — wo angebracht — welcher konkrete Änderungsvorschlag greift. Das Ziel ist ein Vermerk, der in einem Durchgang handlungsfähig macht.
 
-1. **Load `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`.** If placeholders present, stop and prompt: "Run `/ip-legal:cold-start-interview` first — I need to learn your practice profile before I can review IP clauses against it."
+Die wichtigsten IP-Klauseln in den meisten Verträgen sind Rechteeinräumung und Inhaberschaft. Fehler hier sind schwer zu korrigieren. Eine fehlende oder unklare Rechteübertragung taucht später in Due-Diligence-Prozessen, Finanzierungsrunden und Rechtsstreitigkeiten auf.
 
-2. **Get the agreement:** From file path, Drive link, or pasted text. If none provided, ask.
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
-3. **Follow the workflow below.** In particular:
-   - Establish the agreement type and which side the company is on for IP (granting / receiving / both). The side question is per-document, not a one-time setup answer.
-   - Run the assignment gap check first if the agreement is an employment, consulting, SOW, or work-for-hire document.
-   - Produce per-clause findings prioritized by risk.
-   - Check cross-clause consistency, not just clause-by-clause.
-   - Note jurisdiction implications (moral rights, work-for-hire, implied license, patent indemnity).
+## Eingaben
 
-4. **Output the memo** per the template below — work-product header first, bottom line, assignment gap check, clauses by severity, consistency flags, jurisdiction note, approval routing.
+- **Vertragsdokument:** Dateilink, eingefügter Text oder Beschreibung.
+- **Vertragstyp:** Arbeitsvertrag, Dienstvertrag (freier Mitarbeiter), Werkvertrag/SOW, Lizenzvertrag (ein- oder ausgehend), Kooperationsvertrag, MSA, M&A-Nebenabrede, sonstige.
+- **Position des Mandanten:** Rechtegebend (Lizenzgeber / Übertrager) oder Rechteempfangend (Lizenznehmer / Erwerber) oder beides.
+- **Rechtsordnung des Vertrags:** Welches Recht ist vereinbart?
 
-5. **Respect the decision posture.** When a clause could be read to allocate IP either way, flag for attorney review and surface the factors cutting both ways. Never silently decide a subjective allocation question.
+## Rechtlicher Rahmen
 
-## Examples
+### Kernvorschriften
 
-```
-/ip-legal:ip-clause-review ~/Documents/vendor-sow.pdf
-/ip-legal:ip-clause-review https://docs.google.com/document/d/...
-/ip-legal:ip-clause-review
-```
+- **§§ 11–24 UrhG** — Urheberpersönlichkeitsrechte (unveräußerlich; § 14 UrhG Entstellungsschutz)
+- **§ 29 UrhG** — Urheberrecht ist nicht übertragbar; nur Einräumung von Nutzungsrechten (§§ 31 ff. UrhG) möglich — kein Copyright-„Assignment" im US-Sinne
+- **§§ 31–44 UrhG** — Einräumung von Nutzungsrechten: einfaches vs. ausschließliches Nutzungsrecht (§ 31 Abs. 1), Übertragung von Nutzungsrechten (§ 34), Unterlizenzen (§ 35), Zweckübertragungslehre (§ 31 Abs. 5)
+- **§§ 43, 69b UrhG** — Urheberrecht an Computerprogrammen bei Arbeitsverhältnissen: Nutzungsrechte beim Arbeitgeber kraft Gesetzes (§ 69b Abs. 1)
+- **§§ 15–22 PatG** — Übertragung und Lizenzierung von Patenten; Vindikationsanspruch; Miterfinderschaft
+- **§§ 27–31 MarkenG** — Übertragung und Lizenzierung von Marken
+- **§§ 1–4 GeschGehG** — Geschäftsgeheimnis: Voraussetzungen, angemessene Schutzmaßnahmen
+- **§§ 4, 5 ArbnErfG** — Zuordnung von Arbeitnehmererfindungen (Patent-/Gebrauchsmusterrechte beim Arbeitgeber nach Inanspruchnahme)
+- **§§ 433 ff., 311, 280 BGB** — Gewährleistungs- und Haftungsregelungen bei Rechtsmängeln
 
----
+### Leitentscheidungen
 
-## Matter context
+- BGH, Urt. v. 26.02.2009 – I ZR 142/06, GRUR 2009, 694 (Sammelbox) — Zweckübertragungslehre: im Zweifel werden nur die für den Vertragszweck unbedingt erforderlichen Nutzungsrechte eingeräumt
+- BGH, Urt. v. 29.04.2010 – I ZR 68/08, GRUR 2010, 1090 (Werbeanzeige) — Reichweite des einfachen Nutzungsrechts; nachträgliche Nutzungen erfordern neue Vereinbarung
+- BGH, Urt. v. 19.11.2015 – I ZR 149/14, GRUR 2016, 596 (Mein Erbe) — Urheberrechtliche Vergütungsansprüche; AGB-Kontrolle von Pauschalabgeltungsklauseln
+- BGH, Urt. v. 17.10.2001 – X ZR 58/99, BGHZ 149, 68 (Luftverteiler) — Arbeitnehmererfindung; Rechtelage ohne formelle Inanspruchnahme
 
-**Matter context.** Check `## Matter workspaces` in the practice-level CLAUDE.md. If `Enabled` is `✗` (the default for in-house users), skip the rest of this paragraph — skills use practice-level context and the matter machinery is invisible. If enabled and there is no active matter, ask: "Which matter is this for? Run `/ip-legal:matter-workspace switch <slug>` or say `practice-level`." Load the active matter's `matter.md` for matter-specific context and overrides. Write outputs to the matter folder at `~/.claude/plugins/config/claude-for-legal/ip-legal/matters/<matter-slug>/`. Never read another matter's files unless `Cross-matter context` is `on`.
+### Kommentare
 
----
+- Schricker/Loewenheim/Leistner, UrhG, 6. Aufl. 2020, § 31 Rn. 1 ff. (Nutzungsrechte, Übertragbarkeit)
+- Schricker/Loewenheim/Spindler, UrhG, 6. Aufl. 2020, § 29 Rn. 1 ff. (Nicht-Übertragbarkeit des Urheberrechts)
+- Benkard/Melullis, PatG, 12. Aufl. 2023, § 15 Rn. 1 ff. (Patentübertragung und -lizenz)
+- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 27 Rn. 1 ff. (Markenübertragung)
+- BeckOK UrhR/Soppe, 42. Ed. (Stand 01.01.2025), § 31 Rn. 50 ff. (ausschließliches Nutzungsrecht, Übertragung)
 
-## Purpose
+## Ablauf
 
-Read the IP clauses in an agreement and tell the lawyer what each one does, how it deviates from market or from the team's standard position, what the risk is, and — where appropriate — the specific redline to propose. The goal is a memo the lawyer can act on in one pass.
+### Schritt 1: Orientierung
 
-**The highest-stakes clauses in most agreements are IP ownership and assignment.** They are hard to fix later. A failure to get a clean assignment on an employment or consulting agreement surfaces in M&A diligence, in financing, and in litigation, sometimes years after the agreement was signed. If assignment language is weak or missing in a document that should have it, flag it loudly at the top of the memo — not buried as one line item among many.
+Vertrag einmal vollständig lesen. Antworten auf folgende Fragen:
 
-## Precondition: load the practice profile
-
-**Before reading the agreement, read `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`.** If it is missing or still contains placeholders, stop and run `/ip-legal:cold-start-interview`. The practice profile tells you:
-
-- The jurisdiction footprint — which affects whether moral rights waivers are enforceable, whether work-for-hire applies, whether implied assignment fills a gap, how broad license grants can be
-- Who approves deviations and at what severity
-- The work-product header to prepend to outputs
-
-## Workflow
-
-### Step 1: Orient
-
-Read the whole agreement once, fast. Answer:
-
-| Question | Answer |
+| Frage | Antwort |
 |---|---|
-| What kind of agreement is this? | Employment / consulting or SOW / vendor MSA / in-license / out-license / collaboration or JDA / settlement / acquisition or asset purchase / other |
-| Which side are we on for IP? | Granting rights or receiving them / assigning IP or acquiring it / licensor or licensee |
-| Who is the counterparty? | Name, and sophistication — individual, startup, BigCo |
-| Is there consideration flowing for the IP specifically? | Salary, fee, royalty, upfront payment, equity, none |
-| Governing law and venue | What does it say — and does our practice profile flag that jurisdiction as escalate/never? |
+| Vertragstyp? | Arbeitsvertrag / Dienstvertrag / Werkvertrag-SOW / Lizenzvertrag ein- oder ausgehend / Kooperation / Sonstiges |
+| Position des Mandanten bei IP? | Rechtegebend / -empfangend / beides |
+| Vertragspartner? | Name und Einschätzung — Einzelperson, Startup, Großunternehmen |
+| Steht Vergütung für IP gesondert? | Arbeitsentgelt, Werkhonorar, Lizenzgebühr, Vorauszahlung, keine |
+| Anwendbares Recht? | Welche Rechtsordnung; ist das Mandatsprofil betroffen? |
 
-The side question is per-document, not a one-time setup answer. An in-house counsel reviewing an employment agreement is on the "receiving" side; reviewing an out-license the same day, on the "granting" side. The posture inverts.
+Bei Unklarheit über die IP-Position (Kooperationsvertrag, beidseitige Rechteeinräumung): nachfragen.
 
-If the side is ambiguous (a collaboration agreement where both parties contribute and both receive rights, a reseller agreement with flow-through IP), ask:
+### Schritt 2: Prüfung der Rechteübertragungsklauseln (höchste Priorität)
 
-> Which side is [company] on for this agreement's IP? Granting rights, receiving rights, or both? If both, I'll review each direction separately.
+Bei Arbeitsverträgen, Dienstverträgen und Werkverträgen, wo der Mandant IP des Vertragspartners erwerben soll, zunächst folgende Punkte prüfen:
 
-### Step 2: Assignment gap check (highest priority)
+**A — Urheber- und Leistungsschutzrechte:**
+- § 29 UrhG: Urheberrecht ist nicht übertragbar. Möglich ist nur die Einräumung von Nutzungsrechten (§§ 31 ff. UrhG). Eine Klausel, die „das Urheberrecht überträgt", ist rechtlich ungenau und erreicht das Ziel nicht.
+- § 31 Abs. 1 UrhG: Unterschied zwischen einfachem (nicht ausschließlichem) und ausschließlichem Nutzungsrecht — ausschließliches Nutzungsrecht erlaubt Klage auf eigenem Namen, einfaches nicht.
+- § 31 Abs. 5 UrhG (Zweckübertragungslehre): Im Zweifel werden nur für den Vertragszweck unbedingt erforderliche Rechte eingeräumt. Umfang muss explizit definiert sein.
+- Urheberpersönlichkeitsrechte (§§ 12–14 UrhG) sind unveräußerlich; lediglich Verzichtserklärungen oder Nichtausübungsabreden (im Rahmen des § 138 BGB) möglich.
 
-If the agreement is an employment agreement, consulting agreement, SOW, work-for-hire contract, or anything else where the company should be receiving an assignment of the counterparty's IP in work product — check the assignment language first.
+**B — Patente und Gebrauchsmuster:**
+- Bei Arbeitnehmern: Nutzungsrechte entstehen nach Inanspruchnahme gemäß § 6 ArbnErfG beim Arbeitgeber automatisch.
+- Bei freien Mitarbeitern: Ausdrückliche schriftliche Abtretung (§ 15 PatG) erforderlich. Zukunftsbezogene Abtretungsklauseln (noch nicht entstandene Patente) sind zulässig.
 
-Look for:
+**C — Klauselsprache prüfen:**
+- Aktuelle Einräumung: „räumt hiermit ein" ist stärker als „verpflichtet sich einzuräumen" (Leistungspflicht vs. dingliche Wirkung)
+- Umfang: Alle für die Leistung relevanten Nutzungsarten einschließlich unbekannter Nutzungsarten (§ 31a UrhG) — explizit regeln, wenn gewollt
+- Unterlizenzen: Klausel für die Berechtigung zur Unterlizenzierung (§ 35 UrhG) prüfen
+- Vorbestehende IP: Welche Rechte des Auftragnehmers sind explizit ausgenommen?
 
-- **Present-tense assignment** ("hereby assigns" or "hereby irrevocably assigns and agrees to assign"). A bare "agrees to assign" is a promise to assign, not an assignment, and can require a second document to perfect.
-- **Scope** — does it cover all IP created in the course of engagement, or only IP related to the company's business, or only IP created using company resources? Narrow scope is a gap if work product is expected to range broadly.
-- **Moral rights waiver** (for jurisdictions that recognize moral rights — EU member states, Canada, many others — the US recognizes a narrow version for visual art). If the agreement is governed by or has counterparties in a moral-rights jurisdiction, a waiver or non-assertion covenant matters.
-- **Further assurances** clause — counterparty agrees to sign whatever else is needed to perfect the assignment later.
-- **Pre-existing IP carveout** — what does the counterparty exclude from the assignment, and is that list specific or open-ended?
+Wenn wesentliche Punkte fehlen oder unklar sind: am Anfang des Vermerks mit 🔴 oder 🟠 kennzeichnen und Änderungsvorschlag beifügen.
 
-If any of the above is missing or weak, flag at the top of the memo with a 🔴 or 🟠 severity and a specific redline.
+### Schritt 3: Klausel-für-Klausel-Prüfung
 
-```markdown
-## ⚠️ ASSIGNMENT GAP
-
-**Section [X]** assigns IP in the work product, but: [specific issue — e.g.,
-"'agrees to assign' rather than 'hereby assigns,'" or "no moral rights waiver
-and governing law is France," or "no carveout list is provided and the
-counterparty has pre-existing platform IP"].
-
-**Risk:** This is the kind of gap that surfaces in M&A diligence years later.
-The counterparty (or a successor) may have residual rights in work product we
-thought we owned.
-
-**Proposed redline:**
-> "[specific replacement language]"
-
-**Escalation:** Per `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md`, assignment-scope gaps escalate to [approver].
-```
-
-> **Can the assignment convey AI-generated content?** *Thaler v. Perlmutter* and the Copyright Office's 2023 AI registration guidance suggest that AI-generated works without any human authorship may not be copyrightable, though the boundaries remain unclear and this area is evolving. If the contractor uses AI for substantial portions of the deliverables, the copyright status of those portions is uncertain — and an assignment clause can only convey rights that exist.
->
-> Check: does the agreement have an AI-use disclosure obligation? A representation about the role of AI in the deliverables? A mechanism to identify which portions are AI-assisted vs. human-authored?
->
-> If absent and AI-assisted creation is foreseeable (consulting, development, content creation, design): 🟠 High. "The assignment clause is well-drafted but there's no AI-use disclosure. The copyright status of AI-generated content is unsettled, and without a disclosure obligation you won't know which portions are affected. Add an AI-use representation and a disclosure obligation." `[review — copyright status of AI-generated works is an evolving area; verify against current Copyright Office guidance and case law]`
-
-> **AI-assisted inventorship.** A patent filed with incorrect inventorship is unenforceable. If a consultant uses AI tools that contribute to an inventive concept, the inventorship question is unsettled and the patent is at risk. For any agreement with patent assignment provisions covering potentially patentable work product:
->
-> Check: does the agreement have an AI-use representation? A process for determining inventorship where AI contributed? A disclosure obligation about AI use in the inventive process?
->
-> If absent: flag. "Patent assignment without an AI-use representation. If AI tools contributed to the inventive concept, inventorship determination is complicated and an incorrectly-attributed patent is unenforceable. Add an AI-use representation and inventorship protocol."
-
-### Step 3: Clause-by-clause review
-
-For every IP-relevant clause, produce a block. The clauses to look for:
-
-- **Assignment / work-for-hire** — who owns what's created under the agreement
-- **Ownership of deliverables** — distinct from assignment; often states the output of the engagement
-- **Improvements and derivatives** — who owns improvements to pre-existing IP, who owns derivative works
-- **Background IP vs. foreground IP** — does the agreement define pre-existing IP and newly-created IP separately, and license the background IP to the extent needed?
-- **License grants** — scope, exclusivity, territory, field of use, sublicensability, term, termination triggers, royalty or fee structure
-- **IP warranties** — non-infringement of third-party rights, authority to grant, original work
-- **IP indemnities** — scope, cap, procedure, exclusions (user modifications, combinations, unauthorized use)
-- **Moral rights waiver** — jurisdiction-dependent
-- **Open source representations** — representations about what OSS is and is not embedded in deliverables
-- **Trademark use** — any grant or restriction on use of the other party's marks; brand guidelines; quality control for licensor
-- **Confidentiality / trade secrets** — treatment of trade secret material, reasonable measures, return or destruction, post-term obligations
-
-For each clause present, produce:
+Für jede IP-relevante Klausel einen Prüfblock erstellen:
 
 ```markdown
-### [Section X.X]: [Clause name]
+### [Abschnitt X.X]: [Klauselbezeichnung]
 
-**What it says:** [plain-English summary, one or two sentences]
+**Was sie sagt:** [Zusammenfassung in eigenen Worten, ein bis zwei Sätze]
 
-**What's market (for this agreement type, this side, this jurisdiction):**
-[brief reference point]
+**Marktstandard (für diesen Vertragstyp, diese Position, dieses Recht):**
+[kurze Referenz]
 
-**Risk:** 🔴 Critical | 🟠 High | 🟡 Medium | 🟢 Low
+**Risiko:** 🔴 Kritisch | 🟠 Hoch | 🟡 Mittel | 🟢 Niedrig
 
-**Why it matters:** [one or two sentences — what goes wrong for the business
-if this stays as-is]
+**Warum es darauf ankommt:** [ein bis zwei Sätze — was schief geht, wenn die Klausel so bleibt]
 
-**Proposed redline (if needed):**
-> "[specific replacement language]"
+**Änderungsvorschlag (soweit erforderlich):**
+> „[konkrete Ersatzformulierung]"
 
-**Decision call:** [If uncertain whether the clause achieves the intended IP
-allocation, flag for attorney review and state the factors cutting both
-ways. Do not silently decide a subjective allocation question.]
+**Entscheidungsvorbehalt:** [Bei subjektiven Zuordnungsfragen: anwaltliche Prüfung empfehlen, Argumente pro/contra aufzeigen]
 ```
 
-**Severity calibration:**
+Zu prüfende Klauseltypen:
 
-| Level | Means |
+- **Rechteeinräumung / Urheberrechtsklausel** — Wer bekommt welche Nutzungsrechte?
+- **Eigentumsklausel an Arbeitsergebnissen** — Abgrenzung Diensterfindung / freie Erfindung / Werk
+- **Verbesserungen und Ableitungen** — Wer gehört Verbesserungen an vorbestehendem IP? Wer derivate Werke?
+- **Hintergrund-IP vs. Vordergrund-IP** — Ist vorbestehendes IP klar definiert und für den Vertragszweck lizenziert?
+- **Lizenzgewährungen** — Umfang, Ausschließlichkeit, Territorium, Verwendungszweck (field of use), Sublizenzierbarkeit, Laufzeit, Kündigungsgründe, Vergütung
+- **IP-Gewährleistungen** — Nichtverstoß gegen Drittrechte, Verfügungsberechtigung, Originalität des Werkes
+- **IP-Freistellungen** — Umfang, Cap, Verfahren, Ausschlüsse (Modifikationen durch den anderen Teil, ungenehmigte Nutzungen)
+- **Open-Source-Erklärungen** — Angaben zu eingebetteten OSS-Komponenten; GPL/LGPL/AGPL-Risiken
+- **Marken** — Nutzungsrechte an Marken des anderen Teils, Qualitätskontrolle bei Lizenzen (§ 30 Abs. 2 MarkenG)
+- **Geschäftsgeheimnisse** — Behandlung von GeschGehG-Material, angemessene Schutzmaßnahmen (§ 2 Nr. 1 lit. b GeschGehG), Rückgabe nach Vertragsende
+
+**Schweregrad-Kalibrierung:**
+
+| Stufe | Bedeutung |
 |---|---|
-| 🔴 Critical | Don't sign without fixing. Assignment gap in a document that should have one. Unlimited license where a narrow one was intended. Exclusive grant where non-exclusive was intended. |
-| 🟠 High | Strongly push; escalate if they won't move. Ambiguous scope, missing moral rights waiver in a moral rights jurisdiction, missing further assurances, narrow indemnity. |
-| 🟡 Medium | Push in first round; accept if it's the last open item. Cosmetic but imprecise language, survival periods shorter than standard. |
-| 🟢 Low | Note it, don't spend capital. A stylistic deviation that doesn't change the allocation. |
+| 🔴 Kritisch | Nicht unterzeichnen ohne Korrektur. Fehlende Rechteeinräumung wo sie erforderlich ist. Unbeschränkte Lizenz wo beschränkte gewollt ist. Exklusive Einräumung wo nicht exklusiv gewollt. |
+| 🟠 Hoch | Stark nachverhandeln; eskalieren wenn keine Bewegung. Unklarer Umfang, fehlendes Urheberpersönlichkeitsrecht-Waiver, fehlende further-assurance-Klausel. |
+| 🟡 Mittel | Im ersten Durchgang pushen; akzeptieren wenn letzter offener Punkt. Sprachlich ungenau, Überlebenszeitraum kürzer als Standard. |
+| 🟢 Niedrig | Vermerken, kein Kapital einsetzen. Stilistische Abweichung ohne inhaltliche Auswirkung. |
 
-### Step 4: Cross-clause consistency
+### Schritt 4: Klausel-übergreifende Konsistenzprüfung
 
-IP clauses fail as a system. Check:
+IP-Klauseln scheitern als System. Prüfen:
 
-- **Does the license grant match the scope of what's being licensed?** (A license to "use" the deliverable is narrower than a license to "use, modify, and create derivative works.")
-- **Do the warranties cover everything the grant covers?** (A warranty of non-infringement limited to patents, in a license that also covers copyrights and trade secrets, leaves gaps.)
-- **Does the indemnity cover what the warranty promises?** (A warranty without indemnity is a promise without a remedy.)
-- **Does termination pull the license back?** (Or does a paid-up license survive termination? Either is defensible — the question is whether it matches intent.)
-- **Is the IP allocation between this agreement and any related SOW, order form, or related side letter consistent?** Flag conflicts.
+- **Passt die Lizenzgewährung zum Umfang des lizenzierten Rechts?** (Lizenz zur „Nutzung" ist enger als Lizenz zur „Nutzung, Bearbeitung und Erstellung abgeleiteter Werke".)
+- **Decken die Gewährleistungen ab, was die Lizenz umfasst?** (Gewährleistung nur für Patente bei einer Lizenz, die auch Urheberrecht und Geschäftsgeheimnisse umfasst, hinterlässt Lücken.)
+- **Deckt die Freistellung was die Gewährleistung verspricht?** (Gewährleistung ohne Freistellung ist ein Versprechen ohne Rechtsbehelf.)
+- **Zieht Kündigung die Lizenz zurück?** (Oder überlebt eine bezahlte Lizenz die Kündigung? Beides vertretbar — Frage ist, ob es der Absicht entspricht.)
+- **Stimmt die IP-Regelung in diesem Vertrag mit verbundenen SOW, Bestellformularen oder Nebenbriefen überein?** Konflikte kennzeichnen.
 
-### Step 5: Jurisdiction note
+### Schritt 5: Rechtsordnungshinweis
 
-IP rules are jurisdiction-specific in ways that change the outcome. Flag if the agreement implicates any of these:
+IP-Regelungen sind rechtsordnungsabhängig. Kennzeichnen wenn relevant:
 
-- **Moral rights** — EU member states, Canada, much of the civil-law world recognize moral rights (paternity, integrity) that may not be fully assignable or waivable. US recognition is narrow (VARA, for visual art).
-- **Work-for-hire** — US doctrine is statutory (17 U.S.C. § 101) and only applies to enumerated categories for independent contractors. UK implies assignment in the employment context but not always for contractors. Civil-law jurisdictions handle this differently again.
-- **Implied license** — common-law jurisdictions may read in an implied license where the written grant is silent. Civil-law jurisdictions tend not to.
-- **Patent indemnity exclusions** — combinations, modifications, and user supply of accused features are standard US exclusions; the interaction with EU patent and UPC is still developing.
+- **Urheberpersönlichkeitsrechte:** In Deutschland (und EU) grundsätzlich unveräußerlich (§§ 12–14 UrhG). Nur Nichtausübungsabreden möglich. Im englischen Copyright Act 1988 sind moral rights waiveable; im US-Recht nur für bildende Kunst (VARA). Bei grenzüberschreitenden Verträgen: Klärungsbedarf.
+- **§ 69b UrhG:** Computerprogramme: Bei Arbeitsverhältnissen Nutzungsrechte kraft Gesetzes beim Arbeitgeber — explizite Einräumung für das Sicherheitsgefühl in der Due Diligence aber sinnvoll.
+- **Zweckübertragungslehre (§ 31 Abs. 5 UrhG):** Gilt im deutschen Recht automatisch; Common-Law-Jurisdiktionen kennen keine vergleichbare Restriktion.
+- **KI-generierte Werke:** Nach deutschem Recht ist Schutzvoraussetzung eine menschliche Schöpfung (§ 2 Abs. 2 UrhG — persönliche geistige Schöpfung). Rein KI-generierte Werke ohne menschlichen schöpferischen Beitrag sind nicht urheberrechtsschutzfähig; eine Rechteübertragungsklausel kann nur Rechte übertragen, die bestehen. Wenn KI-Einsatz wahrscheinlich (Softwareentwicklung, Content, Design): 🟠 Hoch — KI-Nutzungsoffenbarungspflicht und Regelung über KI-Anteile empfehlen.
 
-State what jurisdiction the agreement is governed by, and whether the practice profile flags that jurisdiction as standard, escalate, or never.
+### Schritt 6: Vermerk zusammenstellen
 
-## Redline granularity
-
-**Edit at the smallest possible granularity.** A redline is a negotiation artifact, not a rewrite. Wholesale clause replacement signals "we threw out your drafting" — it's aggressive, it forces the counterparty to re-read the whole clause, and it discards the parts of their drafting that were fine. Surgical redlines — strike a word, insert a phrase, restructure a subclause — signal "we have specific asks" and are faster to read, understand, and accept.
-
-Default to the smallest edit that achieves the playbook position:
-- Replace a **word** before a phrase. ("twelve (12)" → "twenty-four (24)")
-- Replace a **phrase** before a sentence. ("paid by the Buyer" → "paid and payable by the Buyer")
-- Restructure a **subclause** before replacing the sentence. (Add "(a)" and "(b)" to split a compound condition.)
-- Replace a **sentence** before replacing the clause.
-- Only replace a **whole clause** when the counterparty's version is so far from your position that surgical edits would be harder to read than a fresh draft — and when you do, say so in the transmittal: "We've replaced §8.2 rather than marking it up because the changes were extensive. Happy to walk you through the delta."
-
-When in doubt, smaller. A client who receives a surgical redline trusts that you read carefully. A client who receives a wholesale replacement wonders whether you read at all.
-
-### Step 6: Assemble the memo
-
-Prepend the work-product header from `~/.claude/plugins/config/claude-for-legal/ip-legal/CLAUDE.md` → `## Outputs` (it differs by user role — see `## Who's using this`).
-
-This memo and the underlying agreement may be privileged, confidential, or both. The output inherits that status from the source. Distribute only within the privilege circle; mark and store it where privileged materials live; strip the work-product header before any external delivery.
-
-> **No silent supplement.** If a research query to the configured legal research tool returns few or no results for a rule the memo needs (enforceability of a moral rights waiver in a given jurisdiction, scope of an implied license, standard for an IP warranty survival period), report what was found and stop. Do NOT fill the gap from web search or model knowledge without asking. Say: "The search returned [N] results from [tool]. Coverage appears thin for [rule / jurisdiction]. Options: (1) broaden the search query, (2) try a different research tool, (3) search the web — results will be tagged `[web search — verify]` and should be checked against a primary source before relying, or (4) flag as unverified and stop. Which would you like?" A lawyer decides whether to accept lower-confidence sources.
->
-> **Source attribution.** Where the memo cites a statute, regulation, case, or treatise, tag the citation: `[Westlaw]`, `[statute / regulator site]`, or the MCP tool name for citations retrieved from a legal research connector; `[web search — verify]` for web-search citations; `[model knowledge — verify]` for citations recalled from training data; `[user provided]` for citations from the counterparty draft or house files. Citations tagged `verify` carry higher fabrication risk and should be checked first. Never strip or collapse the tags.
+Format:
 
 ```markdown
-[WORK-PRODUCT HEADER — per plugin config ## Outputs]
+[ARBEITSERGEBNIS-KOPFZEILE — gemäß Mandatsprofil]
 
-# IP Clause Review: [Counterparty] [Agreement Type]
+# IP-Klausel-Prüfung: [Vertragspartner] — [Vertragstyp]
 
-**Reviewed:** [date]
-**Our side for IP:** [Granting / Receiving / Both]
-**Governing law:** [jurisdiction]
-
----
-
-## Bottom line
-
-[Two sentences. Can the IP allocation stand? What has to change first?]
-
-**Issues:** [N]🔴 [N]🟠 [N]🟡 [N]🟢
-
-**Approval needed from:** [name, per practice profile]
+**Geprüft:** [Datum]
+**Position bei IP:** [Rechtegebend / -empfangend / beides]
+**Anwendbares Recht:** [Rechtsordnung]
 
 ---
 
-## Assignment gap check
+## Ergebnis
 
-[✅ Clear | ⚠️ Gap present — see above]
+[Zwei Sätze. Hält die IP-Zuordnung stand? Was muss zuerst geändert werden?]
 
----
+**Befunde:** [N]🔴 [N]🟠 [N]🟡 [N]🟢
 
-## Clauses by severity
-
-[All clause blocks from Step 3, grouped Critical → Low]
+**Genehmigung erforderlich von:** [Name, gemäß Mandatsprofil]
 
 ---
 
-## Cross-clause consistency
+## Rechteübertragungsprüfung
 
-[Flags from Step 4]
-
----
-
-## Jurisdiction note
-
-[Flags from Step 5]
+[✅ Unbedenklich | ⚠️ Lücke vorhanden — siehe oben]
 
 ---
 
-## Approval routing
+## Klauseln nach Schweregrad
 
-[From practice profile — who approves, what triggers automatic escalation]
+[Alle Klauselblöcke aus Schritt 3, gruppiert Kritisch → Niedrig]
+
+---
+
+## Klausel-übergreifende Konsistenz
+
+[Befunde aus Schritt 4]
+
+---
+
+## Rechtsordnungshinweis
+
+[Befunde aus Schritt 5]
+
+---
+
+## Weiterleitungshinweise
+
+[Wer genehmigt; was löst automatische Eskalation aus]
 ```
 
-## Decision posture
+## Ausgabeformat
 
-When a clause could be read to allocate IP either way, or when it is unclear whether the drafter's chosen words achieve the stated intent, **flag it for attorney review and surface the factors cutting both ways**. Do not silently decide a subjective allocation question. An unresolved IP allocation that gets signed is a one-way door — the error surfaces in diligence, financing, or litigation. Flagging an ambiguous clause that turns out to be fine is a two-way door.
+Vermerk mit Arbeitsergebnis-Kopfzeile, Gesamtbewertung, Rechteübertragungsprüfung, Klauselblöcke nach Schweregrad, Konsistenzprüfung, Rechtsordnungshinweis, Weiterleitungshinweise. Änderungsvorschläge: kleinstmögliche Eingriffsgranularität (Wort vor Phrase vor Satz vor Klausel).
 
-## Quality checks before delivering
+## Beispiel
 
-- [ ] Practice profile was loaded and the jurisdiction note reflects what's there
-- [ ] Assignment gap checked first (for employment/consulting/SOW/WFH)
-- [ ] Every 🔴 and 🟠 issue has specific replacement language
-- [ ] Cross-clause consistency checked, not just clause-by-clause
-- [ ] Source tags applied to citations; no stripped `verify` tags
-- [ ] Approver named per practice profile, not "escalate to legal"
-- [ ] Output marked with the work-product header
+**Eingabe:** Werkvertrag mit einem freien Softwareentwickler, der „alle Urheberrechte an den Arbeitsergebnissen überträgt".
 
-## Close with the next-steps decision tree
+**Befund (Auszug):**
 
-End with the next-steps decision tree per CLAUDE.md `## Outputs`. Customize the options to what this skill just produced — the five default branches (draft the X, escalate, get more facts, watch and wait, something else) are a starting point, not a lock-in. The tree is the output; the lawyer picks.
+> ### Abschnitt 5.1: Rechteübertragungsklausel
+>
+> **Was sie sagt:** „Der Auftragnehmer überträgt alle Urheberrechte an den Arbeitsergebnissen auf den Auftraggeber."
+>
+> **Marktstandard:** Einräumung ausschließlicher Nutzungsrechte in allen bekannten und unbekannten Nutzungsarten.
+>
+> **Risiko:** 🔴 Kritisch
+>
+> **Warum es darauf ankommt:** Urheberrecht ist nach § 29 UrhG nicht übertragbar. Die Klausel erreicht das angestrebte Ziel nicht. In einer Due-Diligence-Prüfung wird dies auffallen.
+>
+> **Änderungsvorschlag:**
+> „Der Auftragnehmer räumt dem Auftraggeber hiermit das ausschließliche, räumlich, zeitlich und inhaltlich unbeschränkte Nutzungsrecht an allen im Rahmen dieses Vertrags erstellten Arbeitsergebnissen ein, einschließlich des Rechts zur Bearbeitung und Weiterübertragung sowie zur Einräumung von Unterlizenzen."
 
+## Risiken und typische Fehler
+
+- **§ 29 UrhG übersehen:** „Übertragung des Urheberrechts" ist deutschrechtlich unwirksam — nur Nutzungsrechtseinräumung möglich.
+- **Zweckübertragungslehre nicht beachtet:** Zu eng gefasste Klauseln schränken spätere Nutzungsarten ein (z. B. keine Streaming-Rechte wenn nur „Vervielfältigung" lizenziert).
+- **Urheberpersönlichkeitsrechte ignorieren:** Nichtausübungsabrede vergessen → Risiko späterer Unterlassungsansprüche des Urhebers bei Entstellungen.
+- **KI-generierte Werke:** Unklar ob urheberrechtsschutzfähig; Abtretungsklausel ohne KI-Offenbarungspflicht ist Blindflug.
+- **Arbeitnehmererfindungen:** Ohne formelle Inanspruchnahme nach § 6 ArbnErfG bleiben Patentrechte beim Erfinder — trotz Vertragsklausel.
+
+## Quellenpflicht
+
+Jede Klauselaussage muss auf eine Norm oder Entscheidung gestützt sein. Pflichtquellen:
+
+- **Gesetze:** §§ 29, 31, 31a, 35, 69b UrhG; §§ 15, 22 PatG; § 27 MarkenG; ArbnErfG
+- **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Zweckübertragungslehre oder Nutzungsrechtsreichweite
+- **Kommentar:** Schricker/Loewenheim UrhG oder BeckOK UrhR mit § und Randnummer
+- Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen; keine stillen Ergänzungen aus dem Modellwissen ohne Hinweis.
