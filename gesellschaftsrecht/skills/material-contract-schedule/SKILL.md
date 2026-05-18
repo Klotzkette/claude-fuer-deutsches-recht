@@ -46,7 +46,7 @@ BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Auslegung einer Cha
 § 15 GmbHG (Abtretung von Geschäftsanteilen — Auswirkung auf Vertragsabschluss); § 40 GmbHG (Gesellschafterliste); §§ 246 ff. HGB (Jahresabschluss, Vollständigkeit); Art. 6 Abs. 1 lit. c DSGVO (Datenverarbeitung in Due Diligence).
 
 **Kommentarliteratur:**
-Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 15 Rn. 5 ff.; MüKoBGB/Westermann, 9. Aufl. 2022, § 453 Rn. 12 ff. (Unternehmenskauf, Gewährleistung); Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1 ff. (Firmenfortführung und Vertragskontinuität).
+Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 15 Rn. 5; Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12 (Unternehmenskauf, Gewährleistung); Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1 (Firmenfortführung und Vertragskontinuität).
 
 ## Ablauf
 
@@ -178,6 +178,6 @@ Due-Diligence-Ergebnis: 127 geprüfte Verträge. 23 erfüllen mindestens ein Kri
 Alle rechtlichen Beurteilungen in der Analyse sind mit Norm und ggf. Rechtsprechung zu belegen:
 - Gesetzliche Grundlage: `§§ 443, 444 BGB`, `§ 415 BGB`
 - BGH-Entscheidungen: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
-- Kommentare: `MüKoBGB/Westermann, 9. Aufl. 2022, § 453 Rn. 12`
+- Kommentare: `Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12`
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

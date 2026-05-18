@@ -53,7 +53,7 @@ Rechtsberatungsstellen erstellen eine Vielzahl von Statusmitteilungen — an Man
 ### Kommentarliteratur
 
 - Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 22 ff. — Mandanteninformation; Form und Umfang der Unterrichtungspflicht.
-- BeckOK ZPO/Bacher, 53. Ed. (Stand 01.03.2025), § 128 Rn. 5 — Schriftliche Verfahren; Formanforderungen.
+- Bacher, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 128 Rn. 5 — Schriftliche Verfahren; Formanforderungen.
 - Greger/Unberath/Steffek, Recht der alternativen Konfliktlösung, 3. Aufl. 2023, § 2 MediationsG Rn. 8 — Verständlichkeitspflicht bei der Mandanteninformation.
 - Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 25 Rn. 1 ff. — Beratungspflichten der Behörde; spiegelbildliche Anforderungen an Verfahrensvertreter.
 

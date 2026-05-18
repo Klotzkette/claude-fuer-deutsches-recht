@@ -56,9 +56,9 @@ Der Gutachtenstil ist keine Gesetzesnorm, sondern methodische Grundlage deutsche
 - BGH, Beschl. v. 04.11.1988 – GSSt 1/88, BGHSt 36, 1 — dolus eventualis (Lederriemen-Fall)
 
 **Kommentare und Literatur:**
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, Einl. Rn. 1 ff. — zur Auslegung und Subsumtionstechnik
-- MüKoBGB/Schubert, 9. Aufl. 2021, § 242 Rn. 5 ff. — Treu und Glauben als Korrektiv
-- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020, § 7 Rn. 1 ff. — Aufbau der Straftat
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, Einl. Rn. 1 — zur Auslegung und Subsumtionstechnik (vormals Palandt; seit 81. Aufl. 2022 unter dem Namen Grüneberg)
+- Schubert, in: MüKoBGB, 9. Aufl. 2021, § 242 Rn. 5 — Treu und Glauben als Korrektiv
+- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020, § 7 Rn. 1 — Aufbau der Straftat (Lehrbuch, keine Kommentarzitierung)
 
 **EU-Recht im Gutachten:**
 - EuGH, Urt. v. 05.04.2016 – C-689/13, NJW 2016, 2175 (Puligienica) — Vorrang des Unionsrechts und Nichtanwendungsgebot

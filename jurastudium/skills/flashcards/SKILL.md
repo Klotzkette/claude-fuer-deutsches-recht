@@ -47,7 +47,7 @@ Die Karteikarten folgen der kanonischen Definitionsliteratur des deutschen Recht
 - Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020 — VerwR
 - Brox/Walker, Allgemeines Schuldrecht, 46. Aufl. 2022
 - Wessels/Beulke/Satzger, Strafrecht AT, 53. Aufl. 2023
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, maßgeblich für Kurzformeln
+- Grüneberg, BGB, 84. Aufl. 2025 (vormals Palandt) — maßgeblich für Kurzformeln
 
 **Leitentscheidungen (Beispiele für Kartenkontexte):**
 
@@ -58,9 +58,9 @@ Die Karteikarten folgen der kanonischen Definitionsliteratur des deutschen Recht
 
 **Kommentare:**
 
-- Palandt/Ellenberger, BGB, 83. Aufl. 2024, § 119 Rn. 4 ff.
-- MüKoBGB/Armbrüster, 9. Aufl. 2021, § 123 Rn. 12
-- BeckOK BGB/Wendtland, 70. Ed. (Stand 01.08.2024), § 133 Rn. 5
+- Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, § 119 Rn. 4
+- Armbrüster, in: MüKoBGB, 9. Aufl. 2021, § 123 Rn. 12
+- Wendtland, in: BeckOK BGB, 70. Ed. (Stand 01.08.2024), § 133 Rn. 5
 
 ## Ablauf
 
@@ -150,7 +150,7 @@ sitzungs_verlauf:
 
 > F: Wann liegt eine Willenserklärung vor?
 > A: Eine Willenserklärung ist eine private Willensäußerung, die unmittelbar auf die Herbeiführung einer Rechtsfolge gerichtet ist (Handlungswille, Erklärungsbewusstsein [str.], Geschäftswille).
-> Norm: §§ 116 ff. BGB; Palandt/Ellenberger, BGB, 83. Aufl. 2024, Vor § 116 Rn. 1.
+> Norm: §§ 116 ff. BGB; Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, Vor § 116 Rn. 1.
 
 > F: Was ist der Unterschied zwischen Anfechtung nach § 119 und § 123 BGB?
 > A: § 119 BGB: Irrtum über Inhalt oder Erklärungsinhalt (ohne Verschulden des Anfechtungsgegners); § 123 BGB: arglistige Täuschung oder widerrechtliche Drohung (Verschulden des Täuschenden erforderlich). Ausschlussfrist: § 119 „unverzüglich", § 123 Abs. 1 i.V.m. § 124 BGB ein Jahr.
@@ -171,6 +171,6 @@ Jede Karte, die aus eigenen Unterlagen generiert wurde, trägt die Quellangabe d
 **Kanonische Definitionen-Quellen:**
 - Skripten: Alpmann Schmidt, Hemmer/Wüst, Jura Intensiv, Kaiser-Skripten
 - Lehrbücher: s. Rechtlicher Rahmen
-- Kommentare: Palandt/Grüneberg, MüKoBGB, BeckOK BGB
+- Kommentare: Grüneberg (vormals Palandt), MüKoBGB, BeckOK BGB
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

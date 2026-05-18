@@ -60,10 +60,10 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Kommentare
 
-- Schricker/Loewenheim/Spindler, UrhG, 6. Aufl. 2020, § 69a Rn. 1 ff. (Softwareschutz allgemein)
-- BeckOK UrhR/Scholz, 42. Ed. (Stand 01.01.2025), § 69a Rn. 20 ff. (Lizenzbedingungen von Open-Source-Software)
-- Dreier/Schulze/Dreier, UrhG, 7. Aufl. 2022, § 31 Rn. 60 ff. (Nutzungsrechtseinräumung, Copyleft-Mechanismus)
-- Metzger/Jaeger, GRUR Int. 1999, 839 (Zur Wirksamkeit der GPL nach deutschem Recht) — Grundlagenaufsatz
+- Spindler, in: Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 69a Rn. 1 (Softwareschutz allgemein)
+- Scholz, in: BeckOK UrhR, 42. Ed. (Stand 01.01.2025), § 69a Rn. 20 (Lizenzbedingungen von Open-Source-Software)
+- Dreier, in: Dreier/Schulze, UrhG, 7. Aufl. 2022, § 31 Rn. 60 (Nutzungsrechtseinräumung, Copyleft-Mechanismus)
+- Metzger/Jaeger, Open Source Software und deutsches Urheberrecht, GRUR Int. 1999, 839 (847) — Grundlagenaufsatz zur Wirksamkeit der GPL nach deutschem Recht
 
 ## Ablauf
 

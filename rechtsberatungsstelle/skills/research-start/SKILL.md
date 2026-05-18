@@ -99,8 +99,8 @@ Nicht Entscheidungen — Bereiche. Die Entscheidungen findet der Studierende sel
 **Kommentare und Sekundärquellen:**
 
 > **Kommentare (zum Einstieg, nicht als Quelle zitieren):**
-> - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 626 BGB — Außerordentliche Kündigung; Prüfungsschema
-> - BeckOK BGB/Henssler, 70. Ed. (Stand 01.08.2024), § 626 Rn. 1 ff. — Überblick und Rspr.-Nachweise
+> - Müller-Glöge, in: ErfK, 25. Aufl. 2025, § 626 BGB Rn. 1 — Außerordentliche Kündigung; Prüfungsschema
+> - Henssler, in: BeckOK BGB, 70. Ed. (Stand 01.08.2024), § 626 Rn. 1 — Überblick und Rspr.-Nachweise
 > - Praxishandbuch Arbeitsrecht (beck-online) — Einstieg für typische Fallkonstellationen
 
 **Suchbegriffe:**

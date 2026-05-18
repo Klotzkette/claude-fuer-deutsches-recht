@@ -53,9 +53,9 @@ Die Trennung zwischen „Formularerstellung" und „Schriftsatzerstellung" war i
 ### Kommentarliteratur
 
 - Schütz, Das Recht der Beratungshilfe, 3. Aufl. 2020, § 1 BerHG Rn. 5 ff. — Voraussetzungen; Antragstellung; Formular BerH 1.
-- BeckOK ZPO/Vorwerk, 53. Ed. (Stand 01.03.2025), § 117 Rn. 5 ff. — PKH-Antrag: Inhalt, Form, Beilagen.
-- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 ff. — Aufsichtspflicht auch bei vermeintlich formalen Tätigkeiten wie Formularausfüllung.
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 242 Rn. 18 — Treu und Glauben bei der Antragstellung; keine unvollständigen oder irreführenden Angaben.
+- Vorwerk, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 117 Rn. 5 — PKH-Antrag: Inhalt, Form, Beilagen.
+- Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 — Aufsichtspflicht auch bei vermeintlich formalen Tätigkeiten wie Formularausfüllung (Doppelautoren-Kommentar).
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 242 Rn. 18 — Treu und Glauben bei der Antragstellung; keine unvollständigen oder irreführenden Angaben.
 
 ## Ablauf
 

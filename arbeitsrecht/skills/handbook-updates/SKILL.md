@@ -73,13 +73,13 @@ Folgewirkungen systematisch geprüft werden sollen.
 
 **Kommentarliteratur:**
 
-- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 1 ff.:
+- Kania, in: ErfK, 25. Aufl. 2025, § 87 BetrVG Rn. 1:
   Katalog erzwingbarer Mitbestimmungsrechte; Reichweite der Mitbestimmung
   bei Regelungsänderungen
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 200 ff.:
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 200:
   AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle
   und Transparenzgebot im Arbeitsverhältnis
-- HWK/Thüsing, 11. Aufl. 2024, § 2 NachwG Rn. 10 ff.:
+- Thüsing, in: HWK, 11. Aufl. 2024, § 2 NachwG Rn. 10:
   Nachweispflicht bei Änderungen wesentlicher Arbeitsbedingungen,
   Formerfordernis und Folgen der Verletzung
 

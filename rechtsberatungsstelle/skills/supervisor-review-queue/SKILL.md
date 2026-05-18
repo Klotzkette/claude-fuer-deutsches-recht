@@ -60,7 +60,7 @@ Ob eine formelle Prüf-Workflow sinnvoll ist, hängt vom Erfahrungsstand der Stu
 - Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 30 ff. — Anforderungen an die inhaltliche Aufsicht; formelle vs. informelle Supervision.
 - Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 22 ff. — Verschwiegenheitspflicht bei gemeinschaftlicher Mandatsbearbeitung; Datentrennung.
 - Gola, DSGVO, 3. Aufl. 2022, Art. 32 Rn. 15 ff. — Technische Maßnahmen für die Datensicherheit; Zugangsbeschränkungen für Beratungsunterlagen.
-- BeckOK BRAO/Deckenbrock, 23. Ed. (Stand 01.03.2025), § 6 RDG Rn. 5 ff. — Rechtsberatungsstellen; Supervisionsmodelle.
+- Deckenbrock, in: BeckOK BRAO, 23. Ed. (Stand 01.03.2025), § 6 RDG Rn. 5 — Rechtsberatungsstellen; Supervisionsmodelle.
 
 ## Ablauf
 

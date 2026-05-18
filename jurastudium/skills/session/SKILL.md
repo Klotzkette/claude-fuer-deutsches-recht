@@ -46,10 +46,10 @@ Gutachtenstil-Klausurfragen:
 - BGH, Urt. v. 22.09.1995 – 2 StR 310/95, BGHSt 41, 292 — Mittäterschaft § 25 Abs. 2 StGB
 
 **Literatur:**
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024 — Kurzkommentar-Standard
-- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020 — Deliktsaufbau
-- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020 — VerwR-Standard
-- MüKoBGB/Armbrüster, 9. Aufl. 2021 — BGB AT vertiefte Definitionen
+- Grüneberg, BGB, 84. Aufl. 2025 (vormals Palandt) — Kurzkommentar-Standard
+- Roxin/Greco, Strafrecht AT I, 5. Aufl. 2020 — Deliktsaufbau (Lehrbuch)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020 — VerwR-Standard (Lehrbuch)
+- Armbrüster, in: MüKoBGB, 9. Aufl. 2021, § 116 Rn. 1 ff. — BGB AT vertiefte Definitionen
 
 ## Ablauf
 

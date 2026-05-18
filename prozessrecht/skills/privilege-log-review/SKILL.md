@@ -57,10 +57,10 @@ Der Syndikusrechtsanwalt (§ 46 BRAO) hat eine Zwitterstellung. Die Verschwiegen
 
 ### Kommentarliteratur
 
-- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97 Rn. 4 ff.` — Beschlagnahmeverbot; Gewahrsam; Treuhandverhältnis.
-- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 142 Rn. 5 ff.` — Urkundenvorlagepflicht; Weigerungsrechte; Verhältnismäßigkeit.
-- `Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a Rn. 44 ff.` — Verschwiegenheitspflicht; Schutzbereich; Durchbrechungen.
-- `BeckOK StPO/Bär, 52. Ed. (Stand 01.01.2024), § 53 Rn. 8 ff.` — Zeugnisverweigerungsrecht des Rechtsanwalts; Reichweite auf Dritte.
+- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97 Rn. 4` — Beschlagnahmeverbot; Gewahrsam; Treuhandverhältnis (Doppelautoren-Kommentar).
+- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 142 Rn. 5` — Urkundenvorlagepflicht; Weigerungsrechte; Verhältnismäßigkeit.
+- `Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 44` — Verschwiegenheitspflicht; Schutzbereich; Durchbrechungen.
+- `Bär, in: BeckOK StPO, 52. Ed. (Stand 01.01.2024), § 53 Rn. 8` — Zeugnisverweigerungsrecht des Rechtsanwalts; Reichweite auf Dritte.
 
 ## Ablauf
 
@@ -186,6 +186,6 @@ Ohne ausdrückliche Bestätigung wird die Liste nicht als vorlagebereits behande
 
 - Gesetzestexte: §§ 142, 144 ZPO; §§ 53, 53a, 97, 160a StPO; §§ 43a, 46 BRAO; § 203 StGB; §§ 86, 99 VwGO
 - Rechtsprechung: BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, NJW 2005, 1917; BGH, Beschl. v. 10.07.2019 – StB 23/19, NStZ 2019, 687; EuGH, Urt. v. 08.12.2022 – C-694/20 (Orde van Vlaamse Balies)
-- Kommentare: Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97; Zöller/Greger, ZPO, 35. Aufl. 2024, § 142; Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a
+- Kommentare: Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 97; Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 142; Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -69,10 +69,10 @@ Befehlsargument:
 
 ### Kommentare
 
-- Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 2.1 ff. (Unterlassungsanspruch; Störerhaftung)
-- Schricker/Loewenheim/Leistner/Ohst, UrhG, 6. Aufl. 2020, § 97 Rn. 1 ff. (Unterlassung und Schadensersatz)
-- Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2023, § 10 TMG Rn. 1 ff. (Hostprovider-Haftung, Notice-and-Take-Down)
-- BeckOK InfoMedienR/Martini, 44. Ed. (Stand 01.05.2025), Art. 16 DSA Rn. 1 ff. (Meldeverfahren)
+- Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 2.1 (Unterlassungsanspruch; Störerhaftung)
+- Leistner/Ohst, in: Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 97 Rn. 1 (Unterlassung und Schadensersatz)
+- Hoffmann, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2023, § 10 TMG Rn. 1 (Hostprovider-Haftung, Notice-and-Take-Down)
+- Martini, in: BeckOK InfoMedienR, 44. Ed. (Stand 01.05.2025), Art. 16 DSA Rn. 1 (Meldeverfahren nach Digital Services Act)
 
 ## Ablauf
 

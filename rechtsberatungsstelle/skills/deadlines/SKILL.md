@@ -62,10 +62,10 @@ Diese Skill ist das zentrale Betriebsverzeichnis für Fristen. Der begleitende v
 
 ### Kommentarliteratur
 
-- BeckOK ZPO/Jaspersen, 53. Ed. (Stand 01.03.2025), § 233 Rn. 15 ff. — Voraussetzungen der Wiedereinsetzung; unverschuldetes Hindernis.
-- MüKoZPO/Stackmann, 6. Aufl. 2020, § 217 Rn. 5 — Fristberechnung, Beginn der Notfrist.
-- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 60 Rn. 1 ff. — Wiedereinsetzung im Verwaltungsprozessrecht.
-- Palandt/Ellenberger, BGB, 83. Aufl. 2024, § 186 Rn. 1 ff. — Fristberechnung nach §§ 186–193 BGB.
+- Jaspersen, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 233 Rn. 15 — Voraussetzungen der Wiedereinsetzung; unverschuldetes Hindernis.
+- Stackmann, in: MüKoZPO, 6. Aufl. 2020, § 217 Rn. 5 — Fristberechnung, Beginn der Notfrist.
+- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 60 Rn. 1 — Wiedereinsetzung im Verwaltungsprozessrecht (Doppelautoren-Kommentar).
+- Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, § 186 Rn. 1 — Fristberechnung nach §§ 186–193 BGB.
 
 ## Ablauf
 

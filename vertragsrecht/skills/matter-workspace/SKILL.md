@@ -76,11 +76,11 @@ und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
 ### Kommentarliteratur
 
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff. (Verschwiegenheitspflicht)
-- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 50 Rn. 10 ff. (Handakten und Aufbewahrung)
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, Einl. vor § 611 Rn. 20 ff.
+- Henssler, in: Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 (Verschwiegenheitspflicht)
+- Kleine-Cosack, BRAO, 8. Aufl. 2022, § 50 Rn. 10 (Handakten und Aufbewahrung; Einzelautoren-Kommentar)
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, Einl. vor § 611 Rn. 20
   (Anwaltsvertrag; Pflichten im Dienstleistungsverhältnis)
-- BeckOK BRAO/Römermann, 21. Ed. (Stand 01.09.2024), § 43a Rn. 55 ff.
+- Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.09.2024), § 43a Rn. 55
 
 ## Ablauf
 

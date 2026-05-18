@@ -42,7 +42,7 @@ Dieser Skill ist die Programmmanagement-Ebene für die rechtliche Post-Closing-I
 
 **Change of Control / Vertragskontinuität:** BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (CoC-Klausel, Auslegung; mittelbarer Kontrollwechsel); §§ 414 f. BGB (Schuldübernahme); § 25 HGB (Haftung bei Firmenfortführung).
 
-**Gesellschaftsrechtliche Post-Closing-Pflichten:** § 40 GmbHG (Gesellschafterliste aktualisieren); §§ 17 ff. UmwG (Verschmelzung); §§ 65 ff. GmbHG (Liquidation). MüKoBGB/Roth, 9. Aufl. 2022, § 414 Rn. 5 ff.; Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1 ff.
+**Gesellschaftsrechtliche Post-Closing-Pflichten:** § 40 GmbHG (Gesellschafterliste aktualisieren); §§ 17 ff. UmwG (Verschmelzung); §§ 65 ff. GmbHG (Liquidation). Roth, in: MüKoBGB, 9. Aufl. 2022, § 414 Rn. 5; Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 25 Rn. 1.
 
 ## Ablauf
 
@@ -127,6 +127,6 @@ GmbH-Anteilskauf, Closing 01.03.2025, 15 Pflicht-Zustimmungen aus SPA-Anhang, 3 
 - `§§ 17 ff. UmwG` (Verschmelzung), `§§ 65 ff. GmbHG` (Liquidation), `§ 40 GmbHG` (Gesellschafterliste)
 - BGH: `BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18`
 - BAG: `BAG, Urt. v. 27.11.2008 – 2 AZR 675/07, NZA 2009, 842 Rn. 20`
-- Kommentare: `MüKoBGB/Roth, 9. Aufl. 2022, § 414 Rn. 5`
+- Kommentare: `Roth, in: MüKoBGB, 9. Aufl. 2022, § 414 Rn. 5`
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

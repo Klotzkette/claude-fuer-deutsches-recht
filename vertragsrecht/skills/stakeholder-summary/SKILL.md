@@ -74,13 +74,13 @@ sie wesentliche Risiken weglassen.
 
 ### Kommentarliteratur
 
-- Palandt/Weidenkaff, BGB, 83. Aufl. 2024, § 675 Rn. 10 ff.
+- Weidenkaff, in: Grüneberg, BGB, 84. Aufl. 2025, § 675 Rn. 10
   (Anwaltsvertrag; Beratungspflicht, Schadensersatz bei Pflichtverletzung)
-- MüKoBGB/Heermann, 9. Aufl. 2022, § 675 Rn. 50 ff.
+- Heermann, in: MüKoBGB, 9. Aufl. 2022, § 675 Rn. 50
   (Dienstvertrag mit anwaltlicher Beratungskomponente)
-- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 80 ff.
+- Henssler, in: Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 80
   (Mandatsgeheimnis bei Weiterleitung von Arbeitsergebnissen)
-- BeckOGK BGB/Martens, 70. Ed. (Stand 01.08.2024), § 675 Rn. 30 ff.
+- Martens, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 675 Rn. 30
 
 ## Ablauf
 
@@ -283,6 +283,6 @@ ist für Nicht-Juristen):
 - Gesetzesnorm (z. B. Art. 28 DSGVO, § 309 Nr. 7 BGB)
 - BGH-Entscheidung in korrekter Zitierweise
 - Kommentarbeleg im Bearbeiterstil
-  (z. B. Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 45)
+  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

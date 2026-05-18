@@ -45,9 +45,9 @@ Eine Abfrage, die beantwortet: Was führe ich gerade, was erfordert Aufmerksamke
 
 ### Kommentarliteratur
 
-- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 233 Rn. 5 ff.` — Sorgfaltsanforderungen an Fristenkontrolle; organisatorische Pflichten der Kanzlei.
-- `MüKoZPO/Gehrlein, 6. Aufl. 2020, § 214 Rn. 8 ff.` — Fristenberechnung und Überwachungspflichten; praktische Anforderungen.
-- `BeckOK HGB/Förschle, 60. Ed. (Stand 01.11.2023), § 249 Rn. 30 ff.` — Rückstellungspflicht bei Rechtsstreitigkeiten; Kriterien für „wahrscheinlich" und „schätzbar".
+- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233 Rn. 5` — Sorgfaltsanforderungen an Fristenkontrolle; organisatorische Pflichten der Kanzlei.
+- `Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214 Rn. 8` — Fristenberechnung und Überwachungspflichten; praktische Anforderungen.
+- `Förschle, in: BeckOK HGB, 60. Ed. (Stand 01.11.2023), § 249 Rn. 30` — Rückstellungspflicht bei Rechtsstreitigkeiten; Kriterien für „wahrscheinlich" und „schätzbar".
 
 ## Ablauf
 

@@ -84,13 +84,13 @@ Tarifvertrag und bestehende Zusagen geprüft werden sollen.
 
 **Kommentarliteratur:**
 
-- Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 1 ff.:
+- Kania, in: ErfK, 25. Aufl. 2025, § 87 BetrVG Rn. 1:
   Katalog der erzwingbaren Mitbestimmungsrechte; Reichweite bei einzelnen
   Themenfeldern (Homeoffice, Datenschutz, Zeiterfassung)
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 200 ff.:
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 200:
   AGB-Kontrolle vorformulierter Arbeitsbedingungen; Inhaltskontrolle;
   Transparenzgebot im Arbeitsrecht
-- HWK/Thüsing, 11. Aufl. 2024, § 2 NachwG Rn. 1 ff.:
+- Thüsing, in: HWK, 11. Aufl. 2024, § 2 NachwG Rn. 1:
   Nachweispflicht; schriftliche Mitteilung bei Änderungen; Folgen
 
 ## Ablauf

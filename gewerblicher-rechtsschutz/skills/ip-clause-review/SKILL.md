@@ -59,11 +59,11 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Kommentare
 
-- Schricker/Loewenheim/Leistner, UrhG, 6. Aufl. 2020, § 31 Rn. 1 ff. (Nutzungsrechte, Übertragbarkeit)
-- Schricker/Loewenheim/Spindler, UrhG, 6. Aufl. 2020, § 29 Rn. 1 ff. (Nicht-Übertragbarkeit des Urheberrechts)
-- Benkard/Melullis, PatG, 12. Aufl. 2023, § 15 Rn. 1 ff. (Patentübertragung und -lizenz)
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 27 Rn. 1 ff. (Markenübertragung)
-- BeckOK UrhR/Soppe, 42. Ed. (Stand 01.01.2025), § 31 Rn. 50 ff. (ausschließliches Nutzungsrecht, Übertragung)
+- Leistner, in: Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 31 Rn. 1 (Nutzungsrechte, Übertragbarkeit)
+- Spindler, in: Schricker/Loewenheim, UrhG, 6. Aufl. 2020, § 29 Rn. 1 (Nicht-Übertragbarkeit des Urheberrechts)
+- Melullis, in: Benkard, PatG, 12. Aufl. 2023, § 15 Rn. 1 (Patentübertragung und -lizenz)
+- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 27 Rn. 1 (Markenübertragung – Doppelautoren-Kommentar)
+- Soppe, in: BeckOK UrhR, 42. Ed. (Stand 01.01.2025), § 31 Rn. 50 (ausschließliches Nutzungsrecht, Übertragung)
 
 ## Ablauf
 

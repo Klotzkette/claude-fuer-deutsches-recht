@@ -21,7 +21,7 @@ triggers:
 
 Der Datenraum hat 2.000 Dokumente. Irgendwo darin befinden sich die 30, die für den Deal entscheidend sind. Dieser Skill liest Dokumente gegen die DD-Kategorien und Wesentlichkeitsschwellen aus dem Praxisprofil, extrahiert Issues und schreibt sie im Hausformat.
 
-**Kein Pre-Trial Discovery in Deutschland.** Due Diligence in deutschen M&A-Transaktionen läuft ausschließlich über den Datenraum (VDR), den Q&A-Prozess und den Disclosure Letter. Was nicht bereitgestellt wurde, ist weder bekannt noch garantiert (caveat emptor-Modifikation durch SPA-Garantien). Gesetzliche Auskunftsansprüche im Streitfall: §§ 142, 144 ZPO; § 810 BGB; §§ 242, 259, 666 BGB; Art. 15 DSGVO; § 254 ZPO.
+**Keine vorprozessuale Beweiserhebung im deutschen Recht.** Anders als das US-amerikanische Pre-Trial Discovery kennt das deutsche Verfahrensrecht keine parteiengetriebene Beweisermittlung vor Klageerhebung. Die Due Diligence (Sorgfaltsprüfung) in deutschen M&A-Transaktionen läuft ausschließlich über den virtuellen Datenraum (VDR – Virtual Data Room), den Frage-Antwort-Prozess (Q&A) und den Disclosure Letter (Offenlegungserklärung). Was nicht offengelegt wurde, ist weder bekannt noch garantiert – das im SPA (Share Purchase Agreement, Unternehmenskaufvertrag) verankerte Garantieregime modifiziert insoweit den allgemeinen Grundsatz, dass der Käufer das Risiko nicht offenbarter Mängel trägt. Gesetzliche Auskunftsansprüche im Streitfall: §§ 142, 144 ZPO; § 810 BGB; §§ 242, 259, 666 BGB; Art. 15 DSGVO; § 254 ZPO (Stufenklage).
 
 ## Eingaben
 
@@ -187,10 +187,10 @@ Mit dem Entscheidungsbaum-Nächste-Schritte aus CLAUDE.md `## Ergebnisse` abschl
 Zitierweise nach `../../references/zitierweise.md`.
 
 Kommentarliteratur:
-- MüKoBGB/Westermann, 9. Aufl. 2022, § 453 Rn. 10 ff. (Unternehmenskauf, Gewährleistung).
-- Roth/Altmeppen, GmbHG, 10. Aufl. 2021, § 15 Rn. 80 ff. (Übertragung GmbH-Anteile).
-- BGH, Urt. v. 01.03.2010 – II ZR 213/08, NJW 2010, 1808 (Informationsasymmetrie und Risikoverteilung beim Unternehmenskauf).
-- BGH, Urt. v. 06.04.2001 – V ZR 394/99, NJW 2001, 2875 (Aufklärungspflicht Verkäufer beim Unternehmenskauf).
+- Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 10 (Unternehmenskauf, Gewährleistung).
+- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2023, § 15 Rn. 80 (Übertragung GmbH-Anteile).
+- BGH, Urt. v. 01.03.2010 – II ZR 213/08, NJW 2010, 1808 Rn. 12 (Informationsasymmetrie und Risikoverteilung beim Unternehmenskauf).
+- BGH, Urt. v. 06.04.2001 – V ZR 394/99, NJW 2001, 2875 Rn. 17 (Aufklärungspflicht Verkäufer beim Unternehmenskauf).
 
 ## Was dieser Skill nicht tut
 

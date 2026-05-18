@@ -63,13 +63,13 @@ muss an den gesetzlichen Grenzen gemessen werden:
 Jeder Vorschlag zur Änderung einer Playbook-Position muss mit Quellen
 begründet sein. Maßgebliche Kommentare für Playbook-Vorschläge im Vertragsrecht:
 
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 1 ff. — Leitstelle für
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 1 — Leitstelle für
   Inhaltskontrolle und Transparenzgebot
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 45 ff. — Differenzierte Analyse
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 — Differenzierte Analyse
   zu einzelnen Klauseltypen
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100 ff.
-  — Klauselkontrolle in der Verhandlungspraxis
-- Staudinger/Coester-Waltjen, BGB, Neubearbeitung 2022, § 307 Rn. 200 ff.
+- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100
+  — Klauselkontrolle in der Verhandlungspraxis (Doppelautoren-Kommentar)
+- Coester-Waltjen, in: Staudinger, BGB, Neubearbeitung 2022, § 307 Rn. 200
   — Systematische Darstellung Generalklausel
 
 ### Leitentscheidungen für Playbook-Anpassungen
@@ -90,13 +90,13 @@ begründet sein. Maßgebliche Kommentare für Playbook-Vorschläge im Vertragsre
 
 ### Kommentarliteratur
 
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 45 ff.
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45
   (Transparenzgebot bei Haftungsklauseln)
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 309 Rn. 90 ff.
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Rn. 90
   (Haftungsausschlussverbote im Detail)
 - Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, Vor § 307 BGB
   Rn. 50 ff. (Verhandlungsspielraum bei AGB-Klauseln)
-- BeckOGK BGB/Lehmann-Richter, 70. Ed. (Stand 01.08.2024), § 307
+- Lehmann-Richter, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 307
   Rn. 100 ff. (Inhaltskontrolle Schritt für Schritt)
 
 ## Ablauf
@@ -144,7 +144,7 @@ Begründung (Monitor): 7 von 12 unterzeichneten Verträgen in den letzten
 12 Monaten wurden mit 18 Monaten abgeschlossen. Muster liegt oberhalb
 des Schwellenwerts (5 Mal).
 
-Quelle: MüKoBGB/Wurmnest, 9. Aufl. 2022, § 309 Nr. 7 Rn. 15 ff.
+Quelle: Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Nr. 7 Rn. 15
 (Zulässigkeit 18-Monate-Cap als Fallback bei IT-Dienstleistungsverträgen)
 
 Übernehmen? (ja / nein / bearbeiten)
@@ -205,7 +205,7 @@ wurden mit 2 Jahren abgeschlossen.
 Quelle:
 - BGH, Urt. v. 14.01.2020 – VIII ZR 163/18, NJW 2020, 1431 Rn. 25
   (Grenzen Gewährleistungsverkürzung in AGB)
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 438 Rn. 10
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 438 Rn. 10
   (Zulässige Verjährungszeiträume in AGB)
 ```
 
@@ -231,7 +231,7 @@ Anwalt wählt „Übernehmen" → Diff angezeigt → Kanzleiprofil aktualisiert.
 Jeder Vorschlag in der Ausgabe muss enthalten:
 - Den betroffenen Paragraphen (z. B. § 309 Nr. 7 BGB, § 438 BGB)
 - Mindestens eine BGH-Entscheidung zur Klauselgrenze in korrekter Zitierweise
-- Mindestens einen Kommentarbeleg im Bearbeiterstil
-  (z. B. Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 45)
+- Mindestens einen Kommentarbeleg im Bearbeiterstil „Bearbeiter, in: Werk"
+  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

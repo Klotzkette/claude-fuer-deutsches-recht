@@ -165,9 +165,9 @@ Normen-Basis für Extraktionsprofil: §§ 305 ff. BGB (AGB-Kontrolle), § 398 BG
 Zitierweise nach `../../references/zitierweise.md`.
 
 Kommentarliteratur:
-- Roth/Altmeppen, GmbHG, 10. Aufl. 2021.
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 45 ff. (AGB-Kontrolle).
-- BGH, Urt. v. 25.03.2015 – VIII ZR 38/14, NJW 2015, 1871 (zur AGB-Kontrolle von Change-of-Control-Klauseln im B2B-Bereich).
+- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2023, Einl. Rn. 1 (Doppelautoren-Kommentar).
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (AGB-Kontrolle).
+- BGH, Urt. v. 25.03.2015 – VIII ZR 38/14, NJW 2015, 1871 Rn. 16 (zur AGB-Kontrolle von Change-of-Control-Klauseln im B2B-Bereich).
 
 ## Ausgabeformat
 

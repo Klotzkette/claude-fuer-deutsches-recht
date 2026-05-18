@@ -85,13 +85,13 @@ Anbieter mit unseren Daten macht).
 
 **Kommentare**
 
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25 Rn. 5 ff.
-  (Verantwortlichkeitsverteilung; vertragliche Pflichten-Übertragung).
-- Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
-  Teil IV Rn. 120 ff. (Vertragsgestaltung bei KI-Diensten).
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 80 ff. (AGB-Kontrolle
+- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25 Rn. 5
+  (Verantwortlichkeitsverteilung; vertragliche Pflichten-Übertragung; Doppelautoren-Kommentar).
+- Hoffmann, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
+  Teil IV Rn. 120 (Vertragsgestaltung bei KI-Diensten).
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 80 (AGB-Kontrolle
   bei IT-/Softwareverträgen; KI-Haftungsklauseln).
-- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30 ff.
+- Bertermann, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30.
 
 *Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im Einzelfall.*
 
@@ -207,6 +207,6 @@ Betreiberpflichten Art. 26/29 dokumentieren. AVV: DSGVO Art. 28 prüfen.
 - **GeschGehG § 2 Nr. 1** bei Training-auf-Daten.
 - **BGB §§ 305 ff. (§ 307)** bei AGB-Haftungsklauseln.
 - **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Entscheidungssystemen.
-- **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25.**
-- **MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 80 ff.**
-- **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30 ff.**
+- **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25 Rn. 5** (Doppelautoren-Kommentar).
+- **Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 80.**
+- **Bertermann, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30.**

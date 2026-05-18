@@ -167,4 +167,4 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - Kommentarbelege mit Bearbeiter, Werk, Auflage, Jahr, §, Rn.; bei BetrVG-Kommentaren insbesondere Fitting und Richardi.
 - Bei umstrittenen Fragen (z. B. Umfang der Mitteilungspflicht, Fehlerfolgen) h. M. und Gegenauffassung getrennt zitieren.
 - Halluzinationsrisiko: Alle Aktenzeichen und Fundstellen vor Einreichung verifizieren.
-- Kein stare decisis – auch jüngere Instanzrechtsprechung berücksichtigen, wenn BAG sich noch nicht geäußert hat.
+- Keine Präjudizienbindung – die BAG-Rechtsprechung wirkt nicht nach US-amerikanischem stare-decisis-Modell, sondern entfaltet faktische Leitwirkung. Bei fehlender BAG-Entscheidung kann jüngere LAG-Rechtsprechung argumentativ herangezogen werden; sie ist offen für Gegenargumentation aus Kommentarliteratur (insb. Fitting, Richardi) und Aufsätzen.

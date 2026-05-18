@@ -53,7 +53,7 @@ BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Auslegung einer Cha
 §§ 313, 314 BGB (Wegfall der Geschäftsgrundlage; außerordentliche Kündigung) als gesetzlicher Hintergrund; MAC-Klauseln im SPA regeln vertraglich den Rücktritt/Closing-Verweigerungsrecht des Käufers bei wesentlicher Verschlechterung.
 
 **Kommentarliteratur:**
-MüKoBGB/Westermann, 9. Aufl. 2022, § 453 Rn. 12 ff. (Unternehmenskauf, Due Diligence); Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 15 Rn. 5 ff. (Abtretung GmbH-Anteile, Due Diligence); Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 ff. (Abtretungsverbot Handelsverkehr).
+Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12 (Unternehmenskauf, Due Diligence); Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 15 Rn. 5 (Abtretung GmbH-Anteile, Due Diligence); Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 (Abtretungsverbot im Handelsverkehr).
 
 ## Ablauf
 

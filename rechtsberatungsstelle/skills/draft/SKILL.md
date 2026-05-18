@@ -61,9 +61,9 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 ### Kommentarliteratur
 
 - Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 20 ff. — Voraussetzungen unentgeltlicher Rechtsdienstleistung; studentische Beratungsstellen.
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 242 Rn. 34 — Gestaltung von Schreiben im Schuldrecht; Grundsatz von Treu und Glauben als Stilprinzip.
-- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 70 Rn. 3 ff. — Formvorschriften für den Widerspruch.
-- BeckOK ZPO/Vorwerk, 53. Ed. (Stand 01.03.2025), § 114 Rn. 5 ff. — Voraussetzungen der Prozesskostenhilfe.
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 242 Rn. 34 — Gestaltung von Schreiben im Schuldrecht; Grundsatz von Treu und Glauben als Stilprinzip.
+- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, § 70 Rn. 3 — Formvorschriften für den Widerspruch (Doppelautoren-Kommentar).
+- Vorwerk, in: BeckOK ZPO, 53. Ed. (Stand 01.03.2025), § 114 Rn. 5 — Voraussetzungen der Prozesskostenhilfe.
 
 ## Ablauf
 

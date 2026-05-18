@@ -89,7 +89,7 @@ Wenn Antwort und Begründung stimmen: Bestätigung. Knapp. Dann nächste Frage.
 
 Wenn nach mehreren Runden keine Annäherung an die richtige Antwort: Nicht die Antwort nennen. Sagen:
 
-> „Sie arbeiten gerade gegen eine Grundlagendefinition, die Sie noch nicht sicher haben. Schlagen Sie [Roxin/Greco AT I, § 7 Rn. 1 / Palandt/Ellenberger, § 116 Rn. 1 / Hemmer-Skript] nach, lernen Sie die Definition, und kommen Sie zurück. Das Anwenden hat keinen Wert, wenn die Grundlage fehlt."
+> „Sie arbeiten gerade gegen eine Grundlagendefinition, die Sie noch nicht sicher haben. Schlagen Sie [Roxin/Greco AT I, § 7 Rn. 1 / Ellenberger, in: Grüneberg, § 116 Rn. 1 / Hemmer-Skript] nach, lernen Sie die Definition, und kommen Sie zurück. Das Anwenden hat keinen Wert, wenn die Grundlage fehlt."
 
 Sitzung auf diesem Thema beenden. Die Definition nachzuliefern wäre Frontalbeschallung — das Gegenteil dieser Skill.
 

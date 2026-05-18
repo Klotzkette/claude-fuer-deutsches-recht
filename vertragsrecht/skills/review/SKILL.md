@@ -135,14 +135,14 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 
 ### Kommentarliteratur
 
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 305 Rn. 3 ff. (Einbeziehung AGB);
-  § 305c Rn. 5 ff. (Überraschungsklausel); § 307 Rn. 1 ff. (Inhaltskontrolle)
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 45 ff. (Transparenzgebot);
-  § 309 Rn. 80 ff. (Klauselverbote im Einzelnen)
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100 ff.
-  (Generalklausel; Praxisrelevanz); § 305c Rn. 20 ff. (Überraschungsklauseln)
-- Staudinger/Coester-Waltjen, BGB, Neubearbeitung 2022, § 307 Rn. 200 ff.
-- BeckOGK BGB/Lehmann-Richter, 70. Ed. (Stand 01.08.2024), § 307 Rn. 150 ff.
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 305 Rn. 3 (Einbeziehung AGB);
+  § 305c Rn. 5 (Überraschungsklausel); § 307 Rn. 1 (Inhaltskontrolle)
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (Transparenzgebot);
+  § 309 Rn. 80 (Klauselverbote im Einzelnen)
+- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100
+  (Generalklausel; Praxisrelevanz; Doppelautoren-Kommentar)
+- Coester-Waltjen, in: Staudinger, BGB, Neubearbeitung 2022, § 307 Rn. 200
+- Lehmann-Richter, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 307 Rn. 150
 
 ## Ablauf
 
@@ -329,7 +329,7 @@ und Eskalationsanfrage formulieren.
 „[vorgeschlagene Formulierung]"
 
 *Begründung: [z. B. BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104;
-Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 45]*
+Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45]*
 
 ---
 
@@ -376,8 +376,8 @@ soweit keine grobe Fahrlässigkeit oder kein Vorsatz vorliegt."
 Jede Klauselbewertung muss belegen:
 - Den einschlägigen Paragraphen (§ 305c, § 307, § 309 Nr. 7 BGB etc.)
 - Mindestens eine BGH-Entscheidung in korrekter Zitierweise
-- Mindestens einen Kommentarbeleg im Bearbeiterstil
-  (z. B. Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 45;
-  MüKoBGB/Wurmnest, 9. Aufl. 2022, § 309 Rn. 90)
+- Mindestens einen Kommentarbeleg im Bearbeiterstil „Bearbeiter, in: Werk"
+  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 45;
+  Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 309 Rn. 90)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

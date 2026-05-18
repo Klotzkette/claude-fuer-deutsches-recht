@@ -82,10 +82,10 @@ Lädt beim ersten Einsatz des Plugins oder wenn `--redo` übergeben wird.
 
 ### Kommentarliteratur
 
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 305 Rn. 3 ff. (Einbeziehungsvoraussetzungen AGB)
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 1 ff. (Inhaltskontrolle, Transparenzgebot)
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100 ff. (Generalklausel)
-- Staudinger/Coester-Waltjen, BGB, Neubearbeitung 2022, § 307 Rn. 200 ff.
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 305 Rn. 3 (Einbeziehungsvoraussetzungen AGB)
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 1 (Inhaltskontrolle, Transparenzgebot)
+- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 307 BGB Rn. 100 (Generalklausel; Doppelautoren-Kommentar)
+- Coester-Waltjen, in: Staudinger, BGB, Neubearbeitung 2022, § 307 Rn. 200
 
 ## Ablauf
 
@@ -426,7 +426,7 @@ Jede Vertragsanalyse und jedes Playbook-Ergebnis muss Nachweise führen aus:
 - Gesetzestexten (BGB, UWG, HGB, DSGVO/BDSG) mit konkretem Paragraphen
 - BGH-Rechtsprechung in korrekter Zitierweise
   (z. B. BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104)
-- Kommentarliteratur im Bearbeiterstil
-  (z. B. Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 5)
+- Kommentarliteratur im Bearbeiterstil „Bearbeiter, in: Werk"
+  (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 5)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

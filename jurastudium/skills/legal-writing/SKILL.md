@@ -50,8 +50,8 @@ Wissenschaftlicher juristischer Stil folgt Konventionen, die in Stil- und Method
 - BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf Vergessen I) — Zitierbeispiel für Entscheidungszitate mit Kurznamen
 
 **Kommentare und Formatnachweise:**
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024 — Musterformat für Kommentarzitat
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 45 — Bearbeiterstil
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28 — Musterformat für Kommentarzitat (vormals Palandt, seit 81. Aufl. 2022 Grüneberg)
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 — Bearbeiterstil im Großkommentar
 - Creifelds, Rechtswörterbuch, 24. Aufl. 2023 — Begriffsdefinitionen
 
 ## Ablauf
@@ -162,7 +162,7 @@ Strukturiertes Feedback nach dem Schema in Schritt 3. Einschätzung nach Notente
 
 - **Normen nur zitieren, nicht auslegen**: „Gemäß § 280 Abs. 1 BGB ist Schadensersatz zu leisten" ist keine juristische Argumentation. Die Norm muss auf die Rechtsfrage ausgelegt und angewendet werden.
 - **Literaturverzeichnis als Legitimation**: Viele Fußnoten ersetzen keine Argumentation. Jede Quellenangabe muss einer inhaltlichen Aussage im Text entsprechen.
-- **Fehlerhafte Zitierweise**: Im deutschen Recht gibt es kein einheitliches Bluebook. Geltende Konvention je Zeitschrift / Einrichtung einhalten. Randnummern (Rn.) statt Seitenzahlen, wo verfügbar. Kommentare im Bearbeiterstil: Palandt/Grüneberg, nicht nur „Palandt".
+- **Fehlerhafte Zitierweise**: Im deutschen Recht gibt es kein einheitliches Bluebook. Geltende Konvention je Zeitschrift / Einrichtung einhalten. Randnummern (Rn.) statt Seitenzahlen, wo verfügbar. Kommentare im Bearbeiterstil: „Bearbeiter, in: Kommentar, Auflage, Jahr, § Norm Rn. X" (z. B. „Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28"). Der bisherige Palandt heißt seit 81. Aufl. 2022 Grüneberg.
 - **Kein Forschungsstand in Seminar- und Dissertationsarbeiten**: Wissenschaftliche Arbeiten müssen den Stand der Diskussion aufnehmen — Monografien, Aufsätze in NJW, JZ, AcP, ZHR, DÖV — nicht nur Kommentare.
 - **These ≠ Fragestellung**: Eine Hausarbeit, die nur referiert, ist kein wissenschaftlicher Text. Eine eigene Stellungnahme ist strukturell erforderlich.
 

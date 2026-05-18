@@ -55,10 +55,10 @@ Hinweis: Die Gutachtenmethode entspricht dem deutschen juristischen Standard. Ku
 
 ### Kommentarliteratur
 
-- Palandt/Weidenkaff, BGB, 83. Aufl. 2024, § 535 Rn. 1 ff. — Mietrecht: Prüfungsschema Mängel und Gewährleistung.
-- Erfurter Kommentar/Oetker, 24. Aufl. 2024, § 1 KSchG Rn. 5 ff. — Soziale Rechtfertigung der Kündigung; systematische Prüfungsreihenfolge.
-- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 113 Rn. 1 ff. — Begründetheitsprüfung der Anfechtungsklage; Aufbaureihenfolge.
-- BeckOK BGB/Mörsdorf, 70. Ed. (Stand 01.08.2024), § 355 Rn. 10 ff. — Widerruf im Fernabsatz; Prüfungsschema Verbraucherrecht.
+- Weidenkaff, in: Grüneberg, BGB, 84. Aufl. 2025, § 535 Rn. 1 — Mietrecht: Prüfungsschema Mängel und Gewährleistung.
+- Oetker, in: ErfK, 25. Aufl. 2025, § 1 KSchG Rn. 5 — Soziale Rechtfertigung der Kündigung; systematische Prüfungsreihenfolge.
+- Kopp/Schenke, VwGO, 29. Aufl. 2023, § 113 Rn. 1 — Begründetheitsprüfung der Anfechtungsklage (Doppelautoren-Kommentar).
+- Mörsdorf, in: BeckOK BGB, 70. Ed. (Stand 01.08.2024), § 355 Rn. 10 — Widerruf im Fernabsatz; Prüfungsschema Verbraucherrecht.
 
 ## Ablauf
 

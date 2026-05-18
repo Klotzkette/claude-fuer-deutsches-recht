@@ -43,8 +43,8 @@ Jede Woche dieselbe Statusanfrage an externe Bevollmächtigte für 5–15 Prozes
 
 ### Kommentarliteratur
 
-- `Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a Rn. 120 ff.` — Unterrichtungspflichten des Anwalts; Reichweite der Berichterstattungspflicht gegenüber Mandanten und bei Korrespondenzmandat.
-- `BeckOK BRAO/Römermann, 21. Ed. (Stand 01.03.2024), § 49b Rn. 8 ff.` — Vergütungsabrechnungen; Transparenz im Mandatsverhältnis.
+- `Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 120` — Unterrichtungspflichten des Anwalts; Reichweite der Berichterstattungspflicht gegenüber Mandanten und bei Korrespondenzmandat.
+- `Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.03.2024), § 49b Rn. 8` — Vergütungsabrechnungen; Transparenz im Mandatsverhältnis.
 
 ## Ablauf
 
@@ -178,6 +178,6 @@ Nach Verarbeitung aller Mandate: `oc-status/[JJJJ-MM-TT]/_zusammenfassung.md`
 
 - Gesetzestexte: §§ 43a, 49b BRAO; §§ 2 ff. RVG; § 667 BGB
 - Rechtsprechung: BGH, Urt. v. 08.11.2007 – IX ZR 58/06, NJW 2008, 224; BGH, Urt. v. 19.01.2006 – IX ZR 232/04, NJW 2006, 1579
-- Kommentare: Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a Rn. 120 ff.; BeckOK BRAO/Römermann, 21. Ed. 2024, § 49b
+- Kommentare: Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 120; Römermann, in: BeckOK BRAO, 21. Ed. 2024, § 49b
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

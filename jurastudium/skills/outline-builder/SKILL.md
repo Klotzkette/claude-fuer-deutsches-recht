@@ -61,8 +61,8 @@ Für Strafrecht:
 - Hemmer/Wüst, Skriptenreihe (durchgängig nach Examensstoff strukturiert)
 - Jura Intensiv, Skriptenreihe
 - Kaiser-Skripten
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024 — Kurzkommentar für Normübersicht
-- MüKoBGB, 9. Aufl. 2021/2022 — für tiefergehende Erschließung
+- Grüneberg, BGB, 84. Aufl. 2025 (vormals Palandt) — Kurzkommentar für Normübersicht
+- MüKoBGB, 9. Aufl. 2021/2022 (Säcker/Rixecker/Oetker/Limperg, Hrsg.) — für tiefergehende Erschließung
 
 ## Ablauf
 

@@ -60,7 +60,7 @@ Die Verständlichkeit von Mandantenkommunikation ist eine Rechtspflicht, keine S
 - Kleine-Cosack, BRAO, 8. Aufl. 2022, § 43a Rn. 30 ff. — Sachlichkeitsgebot; Verständlichkeitsanforderungen bei Mandantenbriefen.
 - Deckenbrock/Henssler, RDG, 5. Aufl. 2021, § 6 Rn. 28 ff. — Außenkommunikation der Beratungsstelle; Anforderungen an Mandantenschreiben unter Aufsicht.
 - Greger/Unberath/Steffek, Recht der alternativen Konfliktlösung, 3. Aufl. 2023, § 2 MediationsG Rn. 8 — Verständlichkeitspflicht bei der Mandanteninformation; Maßstab.
-- BeckOK BRAO/Deckenbrock, 23. Ed. (Stand 01.03.2025), § 43a Rn. 15 — Aufklärungspflicht; Inhalt und Grenzen bei studentischen Beratungsstellen.
+- Deckenbrock, in: BeckOK BRAO, 23. Ed. (Stand 01.03.2025), § 43a Rn. 15 — Aufklärungspflicht; Inhalt und Grenzen bei studentischen Beratungsstellen.
 
 ## Ablauf
 

@@ -48,9 +48,9 @@ Ein Prozessportfolio bleibt nur dann nützlich, wenn es aktuell ist. Dieser Skil
 
 ### Kommentarliteratur
 
-- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 233 Rn. 12 ff.` — Wiedereinsetzung bei Fristversäumnis; Anforderungen an die Fristenkontrolle einer Kanzlei.
-- `MüKoZPO/Gehrlein, 6. Aufl. 2020, § 214 Rn. 5 ff.` — Fristberechnung und Fristenkontrolle; organisatorische Anforderungen.
-- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 317 Rn. 3` — Berufungsfrist im Strafverfahren; Beginn und Wahrung.
+- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233 Rn. 12` — Wiedereinsetzung bei Fristversäumnis; Anforderungen an die Fristenkontrolle einer Kanzlei.
+- `Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214 Rn. 5` — Fristberechnung und Fristenkontrolle; organisatorische Anforderungen.
+- `Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 317 Rn. 3` — Berufungsfrist im Strafverfahren; Beginn und Wahrung (Doppelautoren-Kommentar).
 
 ## Ablauf
 
@@ -195,6 +195,6 @@ In der Verlaufsakte und bei Wesentlichkeitsprüfungen sind folgende Quellen hera
 
 - Gesetzestexte: §§ 214 ff., 516, 520, 548, 569 ZPO; §§ 317 ff. StPO; § 116 VwGO; § 43a BRAO; § 11 BORA
 - Rechtsprechung: BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655; BGH, Beschl. v. 26.11.2019 – VIII ZB 61/19, NJW 2020, 765
-- Kommentare: Zöller/Greger, ZPO, 35. Aufl. 2024, § 233; MüKoZPO/Gehrlein, 6. Aufl. 2020, § 214
+- Kommentare: Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 233; Gehrlein, in: MüKoZPO, 6. Aufl. 2020, § 214
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -46,9 +46,9 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 
 ### Kommentarliteratur
 
-- `Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a Rn. 55 ff.` — Verschwiegenheitspflicht; Reichweite und Grenzen; mandatsübergreifende Nutzung.
-- `Zöller/Greger, ZPO, 35. Aufl. 2024, § 84 Rn. 3` — Vollmacht und Aktenführung im Prozess; Wechsel des Prozessbevollmächtigten.
-- `BeckOK BRAO/Römermann, 21. Ed. (Stand 01.03.2024), § 50 Rn. 12 ff.` — Handaktenpflicht, Aufbewahrung, Vernichtung.
+- `Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55` — Verschwiegenheitspflicht; Reichweite und Grenzen; mandatsübergreifende Nutzung.
+- `Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 84 Rn. 3` — Vollmacht und Aktenführung im Prozess; Wechsel des Prozessbevollmächtigten.
+- `Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.03.2024), § 50 Rn. 12` — Handaktenpflicht, Aufbewahrung, Vernichtung.
 
 ## Ablauf
 
@@ -183,6 +183,6 @@ Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
 
 - Gesetzestexte: §§ 43a, 45, 46, 50 BRAO; § 3 BORA; Art. 32 DSGVO; § 1 BDSG
 - Rechtsprechung: BGH, Urt. v. 05.11.2009 – IX ZR 214/08, NJW 2010, 73; BGH, Urt. v. 14.07.2016 – IX ZR 291/14, NJW 2016, 3235
-- Kommentare: Henssler/Prütting/Dittmann, BRAO, 5. Aufl. 2023, § 43a; BeckOK BRAO/Römermann, 21. Ed. 2024, § 50
+- Kommentare: Dittmann, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a; Römermann, in: BeckOK BRAO, 21. Ed. 2024, § 50
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

@@ -65,14 +65,14 @@ Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbe
 **Influencer-Werbung und Kennzeichnungspflicht**
 - BGH, Urt. v. 09.09.2021 – I ZR 90/20, GRUR 2022, 160 (Influencer II): Kommerzielle Postings ohne klare Kennzeichnung als Werbung sind unlauter nach § 5a Abs. 6 UWG (jetzt § 5a Abs. 4 UWG n. F.). `[verify]`
 - § 22 MStV (Medienstaatsvertrag): Werbekennzeichnungspflicht für Telemedien und Social Media
-- BGH GRUR 2022, 1812: Weitere Konkretisierung zur Werbekennzeichnung bei Eigenpromotion `[verify]`
+- BGH-Entscheidung GRUR 2022, 1812: Weitere Konkretisierung zur Werbekennzeichnung bei Eigenpromotion `[prüfen-pinpoint – Aktenzeichen und Datum in juris/beck-online verifizieren]`
 
 ### Kommentarliteratur
 
-- Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 5 Rn. 1.1 ff. (Irreführende Werbung) `[verify]`
-- Harte-Bavendamm/Henning-Bodewig (Hrsg.), UWG, 5. Aufl. 2021, § 6 Rn. 10 ff. (Vergleichende Werbung) `[verify]`
-- Sosnitza, UWG, 4. Aufl. 2022, § 5 Rn. 44 ff. (Alleinstellungsbehauptungen) `[verify]`
-- Streinz/Kraus, LFGB, 2. Aufl. 2022, § 11 Rn. 5 ff. (Irreführungsverbot Lebensmittel) `[verify]`
+- Bornkamm, in: Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 5 Rn. 1.1 (Irreführende Werbung) `[prüfen-pinpoint]`
+- Henning-Bodewig, in: Harte-Bavendamm/Henning-Bodewig, UWG, 5. Aufl. 2021, § 6 Rn. 10 (Vergleichende Werbung) `[prüfen-pinpoint]`
+- Sosnitza, UWG, 4. Aufl. 2022, § 5 Rn. 44 (Alleinstellungsbehauptungen; Einzelautoren-Kommentar) `[prüfen-pinpoint]`
+- Streinz/Kraus, LFGB, 2. Aufl. 2022, § 11 Rn. 5 (Irreführungsverbot Lebensmittel; Doppelautoren-Kommentar) `[prüfen-pinpoint]`
 
 ## Ablauf
 

@@ -71,12 +71,12 @@ begrenzt. Relevante Grenzen:
 
 ### Kommentarliteratur
 
-- Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 307 Rn. 1 ff. (Inhaltskontrolle),
-  § 309 Rn. 48 ff. (Haftungsausschluss)
-- MüKoBGB/Wurmnest, 9. Aufl. 2022, § 307 Rn. 45 ff. (Transparenzgebot);
-  § 309 Rn. 90 ff.
-- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 309 Nr. 7 Rn. 30 ff.
-- BeckOGK BGB/Lehmann-Richter, 70. Ed. (Stand 01.08.2024), § 307 Rn. 150 ff.
+- Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 307 Rn. 1 (Inhaltskontrolle),
+  § 309 Rn. 48 (Haftungsausschluss)
+- Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (Transparenzgebot);
+  § 309 Rn. 90
+- Wolf/Lindacher/Pfeiffer, AGB-Recht, 7. Aufl. 2020, § 309 Nr. 7 Rn. 30 (Doppelautoren-Kommentar)
+- Lehmann-Richter, in: BeckOGK BGB, 70. Ed. (Stand 01.08.2024), § 307 Rn. 150
 
 ## Ablauf
 
@@ -195,7 +195,7 @@ oder eine Warnung ausgelöst wird, muss die Ausgabe belegen:
 - Den einschlägigen Paragraphen (z. B. § 309 Nr. 7 BGB)
 - Eine BGH-Entscheidung zur Grenze (z. B. BGH, Urt. v. 25.10.2016 –
   VI ZR 516/15, NJW 2017, 1104)
-- Einen Kommentarbeleg (z. B. Palandt/Grüneberg, BGB, 83. Aufl. 2024,
+- Einen Kommentarbeleg (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025,
   § 309 Rn. 48)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
