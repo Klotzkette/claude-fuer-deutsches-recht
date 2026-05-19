@@ -115,11 +115,11 @@ Einfachster Weg in Claude Desktop oder der Cowork-Oberfläche:
 
 Wenn kein Marketplace-Manifest verwendet werden soll oder eine bestimmte Version festgehalten werden muss:
 
-1. Auf https://github.com/Klotzkette/claude-fuer-deutsches-recht das Release **v1.0** öffnen (oder **Code → Download ZIP** vom `main`-Branch).
-2. In Cowork **Customize → Plugin** öffnen und über **+ → Create → Upload plugin** das ZIP hochladen.
+1. Das gewünschte einzelne Plugin-ZIP aus dem neuesten Release herunterladen, z. B. `liquiditaetsplanung.zip` von https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest.
+2. In Cowork **Customize → Plugin** öffnen und über **+ → Create → Upload plugin** dieses einzelne Plugin-ZIP hochladen.
 3. Nach dem Upload erscheint das Plugin in der Plugin-Liste und kann aktiviert werden.
 
-**Wichtig:** Das ZIP muss die korrekte Verzeichnisstruktur enthalten — `SKILL.md` auf der jeweils obersten Skill-Ebene (z. B. `arbeitsrecht/skills/<skill-name>/SKILL.md`). Andernfalls vor dem Upload neu komprimieren.
+**Wichtig:** Nicht das komplette Repository-ZIP aus **Code → Download ZIP** hochladen. Ein Upload-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` usw. im ZIP-Root enthalten.
 
 ### Weg 3 — Marketplace-Kommando (Claude Code im Terminal)
 
