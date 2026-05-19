@@ -13,7 +13,7 @@ triggers:
   - "KI-Inventar erfassen"
   - "Plugin konfigurieren"
   - "Erstgespräch KI"
-  - "Einarbeitung KI-Compliance"
+  - "Onboarding KI-Compliance"
   - "AI Act Anwendungsbereich prüfen"
   - "KI-Rolle Anbieter Betreiber"
   - "KI-Bestandsaufnahme"

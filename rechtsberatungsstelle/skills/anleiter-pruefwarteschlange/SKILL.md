@@ -141,7 +141,7 @@ Supervisor prüft den Inhalt. Ergänzt: „§ 4 KSchG-Frist: Bitte noch einmal p
 
 ## Lehrfunktion der Warteschlange
 
-Die Warteschlange ist auch Datenbasis. Muster in Rücksendungen („Studierender X vergisst regelmäßig die Fristprüfung") ist ein Coaching-Gespräch. Muster in Bearbeitungen durch den Supervisor („Alle Mahnschreiben sind zu lang") ist ein Update für die nächste Semestereinarbeitung (`/einarbeitung`).
+Die Warteschlange ist auch Datenbasis. Muster in Rücksendungen („Studierender X vergisst regelmäßig die Fristprüfung") ist ein Coaching-Gespräch. Muster in Bearbeitungen durch den Supervisor („Alle Mahnschreiben sind zu lang") ist ein Update für das nächste Semester-Onboarding (`/einarbeitung`).
 
 Der Vergleich Original/bearbeitet im Protokoll ist ein Lehrmoment: Der Studierende sieht, was der Supervisor geändert hat, und warum — sofern der Supervisor einen kurzen Kommentar hinzufügt.
 
