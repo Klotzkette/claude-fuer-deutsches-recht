@@ -2,16 +2,17 @@
 name: anwaltsgeheimnis-pruefung
 description: Erstprüfung der Vertraulichkeits- und Vorlageschutzklassifizierung von Dokumenten in Prozessmandaten — offensichtlich geschützte, offensichtlich nicht geschützte und zweifelhafte Dokumente werden sortiert und für die anwaltliche Prüfung markiert. Lädt, wenn der Nutzer Dokumente auf Vertraulichkeitsschutz prüfen, eine Vorlagepflicht-Liste erstellen oder vorzulegende Unterlagen nach § 142 ZPO oder § 97 StPO sichten möchte.
 language: de
-triggers:
-  - "Vertraulichkeitsprotokoll prüfen"
-  - "Vorlagepflicht Dokumente"
-  - "Mandatsgeheimnis prüfen"
-  - "§ 142 ZPO Vorlage"
-  - "§ 97 StPO Beschlagnahmeschutz"
-  - "Zeugnisverweigerung Berufsgeheimnisträger"
-  - "Verschwiegenheit anwaltlich"
-  - "Dokumentenvorlage Klage"
-  - "Beschlagnahmeverbot Kanzlei"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Vertraulichkeitsprotokoll prüfen
+  - Vorlagepflicht Dokumente
+  - Mandatsgeheimnis prüfen
+  - § 142 ZPO Vorlage
+  - § 97 StPO Beschlagnahmeschutz
+  - Zeugnisverweigerung Berufsgeheimnisträger
+  - Verschwiegenheit anwaltlich
+  - Dokumentenvorlage Klage
+  - Beschlagnahmeverbot Kanzlei
 ---
 
 # Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit)

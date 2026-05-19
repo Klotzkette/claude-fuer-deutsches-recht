@@ -2,14 +2,15 @@
 name: saas-msa-pruefung
 description: Prüfung von SaaS-Abonnement- und Rahmenverträgen (MSA) mit Schwerpunkt auf AGB-Kontrolle (§§ 305–310 BGB), automatischer Verlängerung, Preiseskalation, Datenschutz (Art. 28 DSGVO), Haftungsbegrenzung und Vertragsstrafe (§ 339 BGB). Wird von /vertragsrecht:pruefen geladen, wenn ein SaaS- oder Abonnementvertrag erkannt wird.
 language: de
-triggers:
-  - "saas"
-  - "msa"
-  - "softwarevertrag"
-  - "abonnement"
-  - "cloudvertrag"
-  - "avv"
-  - "rahmenvertrag"
+when_to_use: |
+  Trigger phrases and example requests:
+  - saas
+  - msa
+  - softwarevertrag
+  - abonnement
+  - cloudvertrag
+  - avv
+  - rahmenvertrag
 ---
 
 # SaaS-/MSA-Prüfung

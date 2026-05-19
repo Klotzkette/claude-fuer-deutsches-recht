@@ -2,16 +2,17 @@
 name: ustva
 description: Begleitet Unternehmen und Steuerberater bei der korrekten Abgabe von Umsatzsteuer-Voranmeldungen nach § 18 UStG – von der Bestimmung des Voranmeldungszeitraums über Dauerfristverlängerung bis zur Berichtigung. Lädt bei Fragen zur UStVA, ELSTER, Dauerfristverlängerung und Voranmeldungsberichtigung.
 language: de
-triggers:
-  - "Umsatzsteuervoranmeldung"
-  - "UStVA"
-  - "§ 18 UStG"
-  - "Dauerfristverlängerung"
-  - "ELSTER Umsatzsteuer"
-  - "Voranmeldungszeitraum"
-  - "monatliche UStVA"
-  - "quartalsweise Voranmeldung"
-  - "Berichtigung UStVA"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Umsatzsteuervoranmeldung
+  - UStVA
+  - § 18 UStG
+  - Dauerfristverlängerung
+  - ELSTER Umsatzsteuer
+  - Voranmeldungszeitraum
+  - monatliche UStVA
+  - quartalsweise Voranmeldung
+  - Berichtigung UStVA
 ---
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)

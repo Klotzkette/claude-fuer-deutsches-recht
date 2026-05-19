@@ -8,14 +8,15 @@ description: >
   Befragungsnotizen oder Dokumentenlieferungen für eine laufende Untersuchung
   eingehen.
 language: de
-triggers:
-  - "Untersuchung Daten hinzufügen"
-  - "Befragungsnotizen einpflegen"
-  - "Dokumente zur Untersuchung"
-  - "neue Erkenntnisse Untersuchung"
-  - "E-Mail-Auswertung Untersuchung"
-  - "Zeuge befragt"
-  - "Unterlagen eingegangen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Untersuchung Daten hinzufügen
+  - Befragungsnotizen einpflegen
+  - Dokumente zur Untersuchung
+  - neue Erkenntnisse Untersuchung
+  - E-Mail-Auswertung Untersuchung
+  - Zeuge befragt
+  - Unterlagen eingegangen
 ---
 
 # Untersuchungs-Datenpflege (Arbeitsrecht)

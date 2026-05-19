@@ -7,12 +7,13 @@ description: >
   „Interview wiederholen".
 argument-hint: "[--redo zum Neustart] [--check-integrations nur Integrationen neu prüfen]"
 language: de
-triggers:
-  - "cold-start"
-  - "einrichten"
-  - "konfigurieren"
-  - "interview"
-  - "setup"
+when_to_use: |
+  Trigger phrases and example requests:
+  - cold-start
+  - einrichten
+  - konfigurieren
+  - interview
+  - setup
 ---
 
 # Cold-Start-Interview – Datenschutzrecht

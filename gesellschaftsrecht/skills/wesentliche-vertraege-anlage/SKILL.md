@@ -8,16 +8,17 @@ description: >
   „Disclosure Schedule", „wesentliche Verträge", „Anhang 3.X" oder beim Entwurf von
   Offenlegungsanhängen im M&A-Kontext.
 language: de
-triggers:
-  - "Vertragsanhang erstellen"
-  - "wesentliche Verträge"
-  - "Disclosure Schedule"
-  - "Material Contracts Schedule"
-  - "Anhang SPA"
-  - "Due Diligence Vertragsverzeichnis"
-  - "Change-of-Control Klauseln"
-  - "Offenlegungsanhang"
-  - "Gewährleistungsanhang"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Vertragsanhang erstellen
+  - wesentliche Verträge
+  - Disclosure Schedule
+  - Material Contracts Schedule
+  - Anhang SPA
+  - Due Diligence Vertragsverzeichnis
+  - Change-of-Control Klauseln
+  - Offenlegungsanhang
+  - Gewährleistungsanhang
 argument-hint: "[Pfad zum SPA, oder Definition 'wesentlicher Vertrag' einfügen]"
 ---
 
@@ -140,7 +141,7 @@ Separat (nicht im Anhang selbst — dies ist interne Arbeit): Verfolgen, welche 
 
 | Anhang # | Gegenpartei | Zustimmung erforderlich | Status | Verantwortlich | Frist |
 |---|---|---|---|---|---|
-| [X](a)(1) | [Name] | Ja — CoC § 12.2 | Angefragt | [Name] | [Datum] |
+| X(a)(1) | [Name] | Ja — CoC § 12.2 | Angefragt | [Name] | [Datum] |
 
 Dieses Overlay speist die Abschluss-Checkliste.
 

@@ -2,14 +2,15 @@
 name: schriftsatz-abschnitt
 description: Entwurf eines Schriftsatzabschnitts im Kanzleistil, konsistent mit der Mandatstheorie – jede Tatsache belegt, jede Norm geprüft, jedes Argument an der Theorie verankert. Verwenden, wenn der Nutzer sagt „Entwurf [Abschnitt]", „schreib den Klagevortrag", „Berufungsbegründung zu [Punkt]" oder einen Ersterst-Entwurf eines Schriftsatzabschnitts benötigt.
 language: de
-triggers:
-  - "schriftsatz-abschnitt"
-  - "klageschrift"
-  - "klageerwiderung"
-  - "berufungsbegründung"
-  - "revisionsbegründung"
-  - "schriftsatz entwerfen"
-  - "abschnitt entwerfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - schriftsatz-abschnitt
+  - klageschrift
+  - klageerwiderung
+  - berufungsbegründung
+  - revisionsbegründung
+  - schriftsatz entwerfen
+  - abschnitt entwerfen
 ---
 
 # Schriftsatzabschnitt-Entwurf

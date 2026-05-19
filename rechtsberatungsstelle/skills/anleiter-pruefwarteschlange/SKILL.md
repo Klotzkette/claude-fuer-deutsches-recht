@@ -8,15 +8,16 @@ description: >
   Prüfung wartet, einen Eintrag freigibt, bearbeitet und freigibt oder
   mit einem Hinweis zurückschickt.
 language: de
-triggers:
-  - "Prüfwarteschlange"
-  - "Supervisor Freigabe"
-  - "Review Queue"
-  - "Studentenentwurf prüfen"
-  - "Warteliste Supervisor"
-  - "Freigabe erteilen"
-  - "Entwurf zurückschicken"
-  - "ausstehende Prüfung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Prüfwarteschlange
+  - Supervisor Freigabe
+  - Review Queue
+  - Studentenentwurf prüfen
+  - Warteliste Supervisor
+  - Freigabe erteilen
+  - Entwurf zurückschicken
+  - ausstehende Prüfung
 ---
 
 # Supervisoren-Prüfwarteschlange (Optional)

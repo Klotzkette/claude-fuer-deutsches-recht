@@ -8,15 +8,16 @@ description: >
   „wir brauchen eine KI-Richtlinie", „AI-Act-konforme Richtlinie" oder
   Ähnliches sagt.
 language: de
-triggers:
-  - "KI-Richtlinie entwerfen"
-  - "KI-Nutzungsrichtlinie erstellen"
-  - "AI-Act-konforme Richtlinie"
-  - "wir brauchen eine KI-Richtlinie"
-  - "interne KI-Governance-Richtlinie"
-  - "KI-Richtlinie aktualisieren"
-  - "GenAI-Richtlinie aufsetzen"
-  - "Acceptable-Use-Policy KI"
+when_to_use: |
+  Trigger phrases and example requests:
+  - KI-Richtlinie entwerfen
+  - KI-Nutzungsrichtlinie erstellen
+  - AI-Act-konforme Richtlinie
+  - wir brauchen eine KI-Richtlinie
+  - interne KI-Governance-Richtlinie
+  - KI-Richtlinie aktualisieren
+  - GenAI-Richtlinie aufsetzen
+  - Acceptable-Use-Policy KI
 ---
 
 # KI-Richtlinien-Starter

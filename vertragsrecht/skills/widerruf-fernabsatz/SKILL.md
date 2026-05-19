@@ -6,16 +6,17 @@ description: |
   Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung
   eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft.
 language: de
-triggers:
-  - "Widerrufsrecht"
-  - "Fernabsatz"
-  - "§ 312g BGB"
-  - "§ 355 BGB"
-  - "Widerrufsbelehrung"
-  - "14 Tage"
-  - "Rückgaberecht"
-  - "Online-Kauf Widerruf"
-  - "Außergeschäftsraum"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Widerrufsrecht
+  - Fernabsatz
+  - § 312g BGB
+  - § 355 BGB
+  - Widerrufsbelehrung
+  - 14 Tage
+  - Rückgaberecht
+  - Online-Kauf Widerruf
+  - Außergeschäftsraum
 ---
 
 # Widerruf im Fernabsatz- und Außergeschäftsraumvertrag

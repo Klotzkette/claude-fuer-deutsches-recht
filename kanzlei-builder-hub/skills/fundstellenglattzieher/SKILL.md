@@ -11,17 +11,18 @@ description: >
   „Zitate glattziehen", „Zitatformat", „Zitierweise korrigieren",
   „BGH-Zitierung prüfen" oder „Citation Check" auftreten.
 language: de
-triggers:
-  - "Fundstellen prüfen"
-  - "Zitate glattziehen"
-  - "Zitatkorrektur"
-  - "Zitierweise korrigieren"
-  - "Fundstellen korrigieren"
-  - "Zitate vereinheitlichen"
-  - "BGH-Zitierung prüfen"
-  - "Citation Check"
-  - "Fundstellenformat"
-  - "Quellenformat"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Fundstellen prüfen
+  - Zitate glattziehen
+  - Zitatkorrektur
+  - Zitierweise korrigieren
+  - Fundstellen korrigieren
+  - Zitate vereinheitlichen
+  - BGH-Zitierung prüfen
+  - Citation Check
+  - Fundstellenformat
+  - Quellenformat
 ---
 
 # Fundstellenglattzieher / Zitatenkorrektor

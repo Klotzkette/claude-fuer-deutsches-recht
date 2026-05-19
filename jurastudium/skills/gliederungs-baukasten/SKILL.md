@@ -7,17 +7,18 @@ description: >
   „Lernstruktur aufbauen", „Gliederung [Rechtsgebiet]", „Übersicht erstellen" oder
   „mein Lernblatt erweitern" sagt.
 language: de
-triggers:
-  - "Lernstruktur aufbauen"
-  - "Gliederung BGB"
-  - "Strafrecht Übersicht"
-  - "Lernplan Struktur"
-  - "Examensstoff gliedern"
-  - "Definitionen Lernkartei"
-  - "JAG Prüfungsstoff"
-  - "Skript erweitern"
-  - "mein Lernblatt"
-  - "Paragraphenübersicht"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Lernstruktur aufbauen
+  - Gliederung BGB
+  - Strafrecht Übersicht
+  - Lernplan Struktur
+  - Examensstoff gliedern
+  - Definitionen Lernkartei
+  - JAG Prüfungsstoff
+  - Skript erweitern
+  - mein Lernblatt
+  - Paragraphenübersicht
 ---
 
 # Lernstruktur-Builder

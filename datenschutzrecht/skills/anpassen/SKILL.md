@@ -6,12 +6,13 @@ description: >
   AVV-Dealbreaker, Systemliste), oder ein Skill hat eine Standardeinstellung gemeldet,
   die nicht passt.
 language: de
-triggers:
-  - "anpassen"
-  - "konfigurieren"
-  - "ändern"
-  - "profil aktualisieren"
-  - "anpassen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - anpassen
+  - konfigurieren
+  - ändern
+  - profil aktualisieren
+  - anpassen
 ---
 
 # Customize – Praxisprofil anpassen

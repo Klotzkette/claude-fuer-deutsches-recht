@@ -7,14 +7,15 @@ description: >
   Untersuchungsprotokoll abfragen möchte, ohne jeden Eintrag einzeln
   durchlesen zu müssen.
 language: de
-triggers:
-  - "Untersuchung abfragen"
-  - "was hat Zeuge gesagt"
-  - "Widersprüche in Untersuchung"
-  - "Beweislage prüfen"
-  - "was fehlt noch"
-  - "stärkste Belege"
-  - "Protokoll auswerten"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Untersuchung abfragen
+  - was hat Zeuge gesagt
+  - Widersprüche in Untersuchung
+  - Beweislage prüfen
+  - was fehlt noch
+  - stärkste Belege
+  - Protokoll auswerten
 ---
 
 # Untersuchungsprotokoll-Abfrage (Arbeitsrecht)

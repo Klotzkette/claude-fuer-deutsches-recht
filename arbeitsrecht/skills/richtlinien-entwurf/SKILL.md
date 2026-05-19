@@ -8,14 +8,15 @@ description: >
   sagt „Richtlinie entwerfen zu [Thema]", „wir brauchen eine Regelung zu"
   oder eine Regelungslücke benennt.
 language: de
-triggers:
-  - "Richtlinie entwerfen"
-  - "Policy entwerfen"
-  - "Betriebsordnung"
-  - "Regelung entwerfen"
-  - "Handbuch-Policy"
-  - "Arbeitsanweisung"
-  - "betriebliche Regelung neu"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Richtlinie entwerfen
+  - Policy entwerfen
+  - Betriebsordnung
+  - Regelung entwerfen
+  - Handbuch-Policy
+  - Arbeitsanweisung
+  - betriebliche Regelung neu
 ---
 
 # Richtlinien-Entwurf (Arbeitsrecht)

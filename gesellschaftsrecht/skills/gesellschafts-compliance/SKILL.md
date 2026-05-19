@@ -8,13 +8,14 @@ description: >
   Trigger: „Gesellschafts-Compliance", „Einreichungsfristen", „Bilanzpublizität",
   „Transparenzregister", „Jahresabschluss einreichen", „was ist fällig".
 language: de
-triggers:
-  - "Gesellschafts-Compliance"
-  - "Einreichungsfristen"
-  - "Bilanzpublizität"
-  - "Transparenzregister"
-  - "Jahresabschluss"
-  - "Handelsregisterpflicht"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Gesellschafts-Compliance
+  - Einreichungsfristen
+  - Bilanzpublizität
+  - Transparenzregister
+  - Jahresabschluss
+  - Handelsregisterpflicht
 ---
 
 # Gesellschafts-Compliance (§ 325 HGB Bilanzpublizität; § 20 GwG Transparenzregister)

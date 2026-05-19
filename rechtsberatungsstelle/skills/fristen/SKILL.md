@@ -8,16 +8,17 @@ description: >
   Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder
   eine Fristenübersicht für laufende Mandate benötigt.
 language: de
-triggers:
-  - "Frist eintragen"
-  - "Fristenübersicht"
-  - "Notfrist"
-  - "Wiedereinsetzung"
-  - "Klagefrist"
-  - "VwVfG Frist"
-  - "ZPO Frist"
-  - "Fristenkontrolle"
-  - "was ist diese Woche fällig"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Frist eintragen
+  - Fristenübersicht
+  - Notfrist
+  - Wiedereinsetzung
+  - Klagefrist
+  - VwVfG Frist
+  - ZPO Frist
+  - Fristenkontrolle
+  - was ist diese Woche fällig
 ---
 
 # Fristenverwaltung

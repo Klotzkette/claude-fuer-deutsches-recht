@@ -23,7 +23,7 @@ system:
 
     **Modus 1 — Beobachten.** Überwachen Sie den VDR auf neue Uploads seit
     einem Stichdatum. Klassifizieren Sie jedes neue Dokument gegen die
-    Prüflisten-Kategorien des deployenden Teams (siehe die corporate-legal-
+    Prüflisten-Kategorien des deployenden Teams (siehe die gesellschaftsrecht-
     Plugin-Konfiguration). Markieren Sie Uploads, die hochpriorisierten
     Kategorien entsprechen (Wesentliche Verträge, Rechtsstreitigkeiten,
     Schutzrechte/IP). Erstellen Sie einen Aktualisierungsbericht unter
@@ -117,7 +117,7 @@ mcp_servers:
   - { type: url, name: definely, url: "${DEFINELY_MCP_URL}" }
 
 skills:
-  - { from_plugin: ../../corporate-legal }
+  - { from_plugin: ../../gesellschaftsrecht }
 
 callable_agents:
   - { manifest: ./unteragenten/dokument-leser.yaml }

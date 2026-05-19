@@ -7,14 +7,15 @@ description: >
   „1. StEx", „2. StEx" oder ähnliches.
 language: de
 argument-hint: "[Rechtsgebiet, oder --schriftlich / --mündlich / --session <n>]"
-triggers:
-  - "examensklausur"
-  - "übungsfragen"
-  - "teste mich"
-  - "examensvorbereitung"
-  - "staatsexamen"
-  - "1. stex"
-  - "2. stex"
+when_to_use: |
+  Trigger phrases and example requests:
+  - examensklausur
+  - übungsfragen
+  - teste mich
+  - examensvorbereitung
+  - staatsexamen
+  - 1. stex
+  - 2. stex
 ---
 
 # Examensvorbereitungs-Fragen

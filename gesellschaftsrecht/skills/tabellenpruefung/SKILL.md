@@ -9,16 +9,17 @@ description: >
   „Raster aufbauen", „Felder aus Verträgen extrahieren", „Dokumente auf X, Y, Z prüfen",
   „Tabelle erstellen" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag.
 language: de
-triggers:
-  - "tabellarisches Review"
-  - "Review-Raster"
-  - "Due Diligence Tabelle"
-  - "Verträge auf Klauseln prüfen"
-  - "Change-of-Control Review"
-  - "Massenreview"
-  - "Vertragsmatrix"
-  - "Felder extrahieren"
-  - "Batch-Review"
+when_to_use: |
+  Trigger phrases and example requests:
+  - tabellarisches Review
+  - Review-Raster
+  - Due Diligence Tabelle
+  - Verträge auf Klauseln prüfen
+  - Change-of-Control Review
+  - Massenreview
+  - Vertragsmatrix
+  - Felder extrahieren
+  - Batch-Review
 ---
 
 # Tabellarisches Vertragsreview (M&A Due Diligence)

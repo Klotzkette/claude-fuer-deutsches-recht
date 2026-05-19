@@ -8,11 +8,10 @@ Führen Sie `../scripts/agentenrezept-ausliefern.sh <slug>` aus, um Skills hochz
 
 | Agent | Vertikales Plugin | Was überwacht wird | CMA-Steuerungsereignis | Leaf-Worker |
 |---|---|---|---|---|
-| [`aufsichts-monitor`](./aufsichts-monitor/) | regulatory-legal | Behördenfeeds (BAnz, BaFin-Journal, EUR-Lex, BNetzA-RSS) | `Feeds prüfen zum <Datum>, Wesentlichkeit: <Schwelle>` | feed-leser · wesentlichkeits-filter · **zusammenfassung-schreiber** |
-| [`verlaengerungs-monitor`](./verlaengerungs-monitor/) | commercial-legal | Vertragsarchiv (iManage, SharePoint, DMS) auf Verlängerungs- und Kündigungsfristen | `Verlängerungen <X>–<Y> Tage voraus prüfen, Playbook-Abweichungen melden` | ablage-leser · frist-rechner · **warnungs-schreiber** |
-| [`due-diligence-tabelle`](./due-diligence-tabelle/) | corporate-legal | Virtueller Datenraum (Box, Datasite, Intralinks, iManage) auf neue Uploads + Stapelprüfung | `Ordner <Pfad> gegen Schema <Schema-ID> prüfen` | dokument-leser · extrahierer · normalisierer · **tabellen-schreiber** |
-| [`launch-radar`](./launch-radar/) | product-legal | Produkt-Roadmap/-Tracker (Jira, Linear, Asana) auf Launches mit rechtlichem Prüfbedarf | `Tracker auf Launches in den nächsten <N> Wochen prüfen` | tracker-reader · risk-classifier · **memo-writer** |
-| [`gerichtskalender-monitor`](./gerichtskalender-monitor/) | litigation-legal | Gerichtskalender (eAkte-Schnittstelle, EGVP, CELEX) auf neue Eingänge, Fristen und Zustellungen | `Verfahren <Az.> beim <Gericht> beobachten, Mandat <Mandat-ID>` | terminkalender-leser · frist-zuordner · **tracker-schreiber** |
+| [`aufsichts-monitor`](./aufsichts-monitor/) | regulatorisches-recht | Behördenfeeds (BAnz, BaFin-Journal, EUR-Lex, BNetzA-RSS) | `Feeds prüfen zum <Datum>, Wesentlichkeit: <Schwelle>` | feed-leser · wesentlichkeits-filter · **zusammenfassung-schreiber** |
+| [`verlaengerungs-monitor`](./verlaengerungs-monitor/) | vertragsrecht | Vertragsarchiv (iManage, SharePoint, DMS) auf Verlängerungs- und Kündigungsfristen | `Verlängerungen <X>–<Y> Tage voraus prüfen, Playbook-Abweichungen melden` | ablage-leser · frist-rechner · **warnungs-schreiber** |
+| [`due-diligence-tabelle`](./due-diligence-tabelle/) | gesellschaftsrecht | Virtueller Datenraum (Box, Datasite, Intralinks, iManage) auf neue Uploads + Stapelprüfung | `Ordner <Pfad> gegen Schema <Schema-ID> prüfen` | dokument-leser · extrahierer · normalisierer · **tabellen-schreiber** |
+| [`gerichtskalender-monitor`](./gerichtskalender-monitor/) | prozessrecht | Gerichtskalender (eAkte-Schnittstelle, EGVP, CELEX) auf neue Eingänge, Fristen und Zustellungen | `Verfahren <Az.> beim <Gericht> beobachten, Mandat <Mandat-ID>` | terminkalender-leser · frist-zuordner · **tracker-schreiber** |
 
 **Fett** gedruckter Leaf = der einzige Worker mit `Write`.
 
@@ -22,7 +21,7 @@ Die `agent.yaml`-Dateien verwenden die echten `POST /v1/agents`-Feldnamen mit we
 
 | Manifest-Konvention | Wird aufgelöst zu |
 |---|---|
-| `system: {file: ../../<plugin>/agenten/<agent>.md, append: "..."}` | `system: "<eingefügter Inhalt + append>"` |
+| `system: {file: ../../<plugin>/agents/<agent>.md, append: "..."}` | `system: "<eingefügter Inhalt + append>"` |
 | `system: {text: "..."}` | `system: "<Text>"` |
 | `skills: [{from_plugin: ../../<plugin>}]` | lädt alle `skills/*` aus dem Verzeichnis hoch → `[{type: custom, skill_id: ...}, ...]` |
 | `skills: [{path: ../../...}]` | `skills: [{type: custom, skill_id: <uploaded-id>}]` |
@@ -32,7 +31,7 @@ Die `agent.yaml`-Dateien verwenden die echten `POST /v1/agents`-Feldnamen mit we
 
 ## Agentenübergreifende Übergaben
 
-Benannte Agenten rufen sich niemals direkt gegenseitig auf. Wenn ein Agent einen anderen benötigt (z. B. ermittelt `launch-radar` einen Launch, der ein vollständiges Prüfungsmemo benötigt), sendet er einen `handoff_request` in seiner Ausgabe; [`../scripts/orchestrate.py`](../scripts/orchestrate.py) (oder Ihr eigener Event-Bus) leitet ihn als neues Steuerungsereignis an die Zielsitzung weiter. Das Referenzskript hat eine Hartcodierung zulässiger Ziele und validiert Nutzdaten gegen ein Schema.
+Benannte Agenten rufen sich niemals direkt gegenseitig auf. Wenn ein Agent einen anderen benötigt, sendet er einen `handoff_request` in seiner Ausgabe; [`../scripts/orchestrate.py`](../scripts/orchestrate.py) (oder Ihr eigener Event-Bus) leitet ihn als neues Steuerungsereignis an die Zielsitzung weiter. Das Referenzskript hat eine Hartcodierung zulässiger Ziele und validiert Nutzdaten gegen ein Schema.
 
 ## Sicherheitsmodell
 

@@ -9,19 +9,20 @@ description: >
   „§ 1848 BGB", „§ 1850 BGB", „§ 1851 BGB", „freiheitsentziehende Maßnahme"
   oder „Heimvertrag" auftreten.
 language: de
-triggers:
-  - "Genehmigung Betreuungsgericht"
-  - "§ 1848 BGB"
-  - "§ 1850 BGB"
-  - "§ 1851 BGB"
-  - "§ 1831 BGB"
-  - "§ 1832 BGB"
-  - "Grundstücksverkauf Betreuung"
-  - "Erbausschlagung Betreuung"
-  - "Heimvertrag Betreuung"
-  - "Wohnungsauflösung Betreuter"
-  - "freiheitsentziehende Maßnahme"
-  - "Unterbringung Betreuung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Genehmigung Betreuungsgericht
+  - § 1848 BGB
+  - § 1850 BGB
+  - § 1851 BGB
+  - § 1831 BGB
+  - § 1832 BGB
+  - Grundstücksverkauf Betreuung
+  - Erbausschlagung Betreuung
+  - Heimvertrag Betreuung
+  - Wohnungsauflösung Betreuter
+  - freiheitsentziehende Maßnahme
+  - Unterbringung Betreuung
 ---
 
 # Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)

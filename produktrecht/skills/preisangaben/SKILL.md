@@ -2,17 +2,18 @@
 name: preisangaben
 description: Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe.
 language: de
-triggers:
-  - "Preisangaben"
-  - "PAngV"
-  - "Grundpreis"
-  - "Streichpreis"
-  - "30-Tage-Niedrigstpreis"
-  - "Preisauszeichnung"
-  - "Versandkosten"
-  - "Gesamtpreis"
-  - "Sale Kennzeichnung"
-  - "Preisreduzierung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Preisangaben
+  - PAngV
+  - Grundpreis
+  - Streichpreis
+  - 30-Tage-Niedrigstpreis
+  - Preisauszeichnung
+  - Versandkosten
+  - Gesamtpreis
+  - Sale Kennzeichnung
+  - Preisreduzierung
 ---
 
 # Preisangaben (PAngV 2022)

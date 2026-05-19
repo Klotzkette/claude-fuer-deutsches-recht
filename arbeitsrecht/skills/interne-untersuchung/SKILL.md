@@ -11,14 +11,15 @@ description: >
   aufzurufen.
 language: de
 user-invocable: false
-triggers:
-  - "interne Untersuchung"
-  - "arbeitsrechtliche Untersuchung"
-  - "Beschwerde untersuchen"
-  - "Untersuchungsprotokoll"
-  - "Untersuchungsmemo"
-  - "Beschäftigtenbefragung"
-  - "Hinweisgebersache"
+when_to_use: |
+  Trigger phrases and example requests:
+  - interne Untersuchung
+  - arbeitsrechtliche Untersuchung
+  - Beschwerde untersuchen
+  - Untersuchungsprotokoll
+  - Untersuchungsmemo
+  - Beschäftigtenbefragung
+  - Hinweisgebersache
 ---
 
 # Interne Untersuchung — Referenz-Skill (Arbeitsrecht)

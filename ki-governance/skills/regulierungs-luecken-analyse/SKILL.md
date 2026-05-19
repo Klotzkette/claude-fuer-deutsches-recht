@@ -7,16 +7,17 @@ description: >
   „Lückenanalyse AI Act", „gilt der AI Act für uns", „Compliance-Prüfung
   KI", „neue KI-Verordnung prüfen" oder Regelungstext eingibt.
 language: de
-triggers:
-  - "Lückenanalyse AI Act"
-  - "gilt der AI Act für uns"
-  - "Compliance-Prüfung KI"
-  - "neue KI-Verordnung prüfen"
-  - "AI-Act-Conformity-Check"
-  - "regulatorische Lücken KI"
-  - "DSGVO Art. 22 Compliance"
-  - "Hochrisiko-KI-Pflichten prüfen"
-  - "KI-Regulierung Anwendungsbereich"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Lückenanalyse AI Act
+  - gilt der AI Act für uns
+  - Compliance-Prüfung KI
+  - neue KI-Verordnung prüfen
+  - AI-Act-Conformity-Check
+  - regulatorische Lücken KI
+  - DSGVO Art. 22 Compliance
+  - Hochrisiko-KI-Pflichten prüfen
+  - KI-Regulierung Anwendungsbereich
 ---
 
 # KI-Regulierungs-Lückenanalyse

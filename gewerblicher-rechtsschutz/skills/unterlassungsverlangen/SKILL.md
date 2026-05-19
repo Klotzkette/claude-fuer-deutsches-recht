@@ -6,13 +6,14 @@ description: >
   Produziert einen Abmahnungsentwurf mit modifizierter Unterlassungserklärung,
   Streitwert und Kostenansatz (RVG) oder ein Optionen-Memo zur erhaltenen Abmahnung.
 language: de
-triggers:
-  - "abmahnung"
-  - "unterlassungserklärung"
-  - "abmahnschreiben"
-  - "cease and desist"
-  - "verletzungsschreiben"
-  - "vertragsstrafe"
+when_to_use: |
+  Trigger phrases and example requests:
+  - abmahnung
+  - unterlassungserklärung
+  - abmahnschreiben
+  - cease and desist
+  - verletzungsschreiben
+  - vertragsstrafe
 ---
 
 # Abmahnung

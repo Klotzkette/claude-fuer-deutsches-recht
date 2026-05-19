@@ -7,14 +7,15 @@ description: >
   oder wenn der Registry-Sync-Agent den Skill aufruft.
 argument-hint: "[--apply zum Aktualisieren aller, sonst nur Benachrichtigen]"
 language: de
-triggers:
-  - "updates prüfen"
-  - "skills aktualisieren"
-  - "automatischer-aktualisierer"
-  - "skill-updates"
-  - "neue version skill"
-  - "verzeichnis-synchronisierung"
-  - "skill auf aktualität prüfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - updates prüfen
+  - skills aktualisieren
+  - automatischer-aktualisierer
+  - skill-updates
+  - neue version skill
+  - verzeichnis-synchronisierung
+  - skill auf aktualität prüfen
 ---
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review

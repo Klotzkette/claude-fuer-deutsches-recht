@@ -8,12 +8,13 @@ description: >
   „KI-Inventar", „KI-System hinzufügen", „welche Systeme haben wir", „KI-System klassifizieren",
   „KI-VO-Register" oder „KI-System-Verzeichnis".
 argument-hint: "[list | add | edit <id> | classify <id> | show <id>]"
-triggers:
-  - "KI-Inventar"
-  - "KI-System"
-  - "EU AI Act Register"
-  - "KI-VO Klassifizierung"
-  - "Risikoklasse"
+when_to_use: |
+  Trigger phrases and example requests:
+  - KI-Inventar
+  - KI-System
+  - EU AI Act Register
+  - KI-VO Klassifizierung
+  - Risikoklasse
 language: de
 ---
 

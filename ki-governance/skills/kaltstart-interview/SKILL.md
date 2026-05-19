@@ -8,15 +8,16 @@ description: >
   „Plugin konfigurieren", „Erstgespräch KI" oder „AI Act Anwendungsbereich
   prüfen" sagt oder die Konfigurationsdatei fehlt bzw. `[PLATZHALTER]` enthält.
 language: de
-triggers:
-  - "KI-Governance einrichten"
-  - "KI-Inventar erfassen"
-  - "Plugin konfigurieren"
-  - "Erstgespräch KI"
-  - "Onboarding KI-Compliance"
-  - "AI Act Anwendungsbereich prüfen"
-  - "KI-Rolle Anbieter Betreiber"
-  - "KI-Bestandsaufnahme"
+when_to_use: |
+  Trigger phrases and example requests:
+  - KI-Governance einrichten
+  - KI-Inventar erfassen
+  - Plugin konfigurieren
+  - Erstgespräch KI
+  - Onboarding KI-Compliance
+  - AI Act Anwendungsbereich prüfen
+  - KI-Rolle Anbieter Betreiber
+  - KI-Bestandsaufnahme
 ---
 
 # Erstgespräch KI-Governance

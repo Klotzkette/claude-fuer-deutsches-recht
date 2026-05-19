@@ -8,17 +8,18 @@ description: >
   anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in
   bestehender Recherche identifizieren möchte.
 language: de
-triggers:
-  - "Recherche anfangen"
-  - "wo anfangen Rechtsfrage"
-  - "Recherchefahrplan"
-  - "juris Suche"
-  - "beck-online Suche"
-  - "Normen finden"
-  - "Rechtsprechung recherchieren"
-  - "Mietrecht recherchieren"
-  - "Verwaltungsrecht recherchieren"
-  - "Arbeitsrecht recherchieren"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Recherche anfangen
+  - wo anfangen Rechtsfrage
+  - Recherchefahrplan
+  - juris Suche
+  - beck-online Suche
+  - Normen finden
+  - Rechtsprechung recherchieren
+  - Mietrecht recherchieren
+  - Verwaltungsrecht recherchieren
+  - Arbeitsrecht recherchieren
 ---
 
 # Recherchefahrplan: Orientierung, keine Recherche

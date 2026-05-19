@@ -8,12 +8,13 @@ description: >
   anleitenden Volljurist.
 argument-hint: "[Abschnitt der CLAUDE.md oder Name des Leitfadens – z. B. 'fachbereiche', 'gates', 'asyl']"
 language: de
-triggers:
-  - "profil anpassen"
-  - "konfiguration ändern"
-  - "anpassen"
-  - "einstellungen"
-  - "leitfaden aktualisieren"
+when_to_use: |
+  Trigger phrases and example requests:
+  - profil anpassen
+  - konfiguration ändern
+  - anpassen
+  - einstellungen
+  - leitfaden aktualisieren
 ---
 
 # /anpassen

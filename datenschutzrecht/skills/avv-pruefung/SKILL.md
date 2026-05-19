@@ -6,15 +6,16 @@ description: >
   EU-Standardvertragsklauseln (EU-SCC) und EU-US Data Privacy Framework (DPF).
   Richtung (Auftragsverarbeiter oder Verantwortlicher) wird automatisch erkannt.
 language: de
-triggers:
-  - "AVV"
-  - "Auftragsverarbeitungsvertrag"
-  - "dpa review"
-  - "data processing agreement"
-  - "Art. 28 DSGVO"
-  - "Sub-Auftragsverarbeiter"
-  - "Standardvertragsklauseln"
-  - "SCC"
+when_to_use: |
+  Trigger phrases and example requests:
+  - AVV
+  - Auftragsverarbeitungsvertrag
+  - dpa review
+  - data processing agreement
+  - Art. 28 DSGVO
+  - Sub-Auftragsverarbeiter
+  - Standardvertragsklauseln
+  - SCC
 ---
 
 # AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO

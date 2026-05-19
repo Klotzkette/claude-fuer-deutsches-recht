@@ -8,12 +8,13 @@ description: >
   „kaltstart-interview".
 language: de
 argument-hint: "[--redo | --check-integrations | --schnellstart]"
-triggers:
-  - "cold-start"
-  - "neueinrichtung"
-  - "neues profil"
-  - "plugin einrichten"
-  - "lernprofil anlegen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - cold-start
+  - neueinrichtung
+  - neues profil
+  - plugin einrichten
+  - lernprofil anlegen
 ---
 
 # Erstes Einrichtungsgespräch (Cold-Start-Interview)

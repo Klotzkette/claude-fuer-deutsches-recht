@@ -7,17 +7,18 @@ description: |
   Strafverteidigung, einen ersten Mandantentermin in Strafsachen oder einen Hauptverhandlungs-
   auftrag betrifft.
 language: de
-triggers:
-  - "Strafverteidigung"
-  - "Pflichtverteidiger"
-  - "Akteneinsicht Strafrecht"
-  - "Schweigerecht"
-  - "§ 140 StPO"
-  - "§ 147 StPO"
-  - "Ersttermin Strafrecht"
-  - "Hauptverhandlung"
-  - "§ 136 StPO"
-  - "Beweisantrag Strafrecht"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Strafverteidigung
+  - Pflichtverteidiger
+  - Akteneinsicht Strafrecht
+  - Schweigerecht
+  - § 140 StPO
+  - § 147 StPO
+  - Ersttermin Strafrecht
+  - Hauptverhandlung
+  - § 136 StPO
+  - Beweisantrag Strafrecht
 ---
 
 # Strafverteidigung – Ersttermin und erste Schritte

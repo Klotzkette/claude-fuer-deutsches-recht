@@ -8,16 +8,17 @@ description: >
   Lädt, wenn der Nutzer „Vertrag prüfen", „AGB prüfen", „NDA prüfen",
   „Klauselkontrolle" oder einen Vertrag zur Analyse einreicht.
 language: de
-triggers:
-  - "Vertrag prüfen"
-  - "AGB prüfen"
-  - "Klauselkontrolle"
-  - "NDA prüfen"
-  - "Vertragsanalyse"
-  - "Vertragsreview"
-  - "Vertrag einreichen"
-  - "Inhaltskontrolle"
-  - "Vertragsgestaltung prüfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Vertrag prüfen
+  - AGB prüfen
+  - Klauselkontrolle
+  - NDA prüfen
+  - Vertragsanalyse
+  - Vertragsreview
+  - Vertrag einreichen
+  - Inhaltskontrolle
+  - Vertragsgestaltung prüfen
 ---
 
 # Vertragsanalyse und Klauselkontrolle

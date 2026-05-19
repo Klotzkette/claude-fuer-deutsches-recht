@@ -8,12 +8,13 @@ description: >
   den Stand des Verfahrens oder einen konkreten nächsten Schritt mitteilen will.
 argument-hint: "[optional: Briefanlass – z. B. 'Widerspruch eingelegt', 'Ergebnis Mietprüfung']"
 language: de
-triggers:
-  - "mandantenbrief"
-  - "brief schreiben"
-  - "einfache sprache"
-  - "mandantenbrief"
-  - "antwort an mandant"
+when_to_use: |
+  Trigger phrases and example requests:
+  - mandantenbrief
+  - brief schreiben
+  - einfache sprache
+  - mandantenbrief
+  - antwort an mandant
 ---
 
 # /mandantenbrief

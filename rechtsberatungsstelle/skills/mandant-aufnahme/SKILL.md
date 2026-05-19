@@ -8,12 +8,13 @@ description: >
   Mandatsannahme. Aufrufen bei neuen Mandaten oder zur Erfassung eines Erstgesprächs.
 argument-hint: "[optional: Fachbereich – z. B. 'asyl', 'sgbii', 'mietrecht']"
 language: de
-triggers:
-  - "neues mandat"
-  - "erstgespräch"
-  - "intake"
-  - "mandant aufnehmen"
-  - "mandant-aufnahme"
+when_to_use: |
+  Trigger phrases and example requests:
+  - neues mandat
+  - erstgespräch
+  - intake
+  - mandant aufnehmen
+  - mandant-aufnahme
 ---
 
 # /mandant-aufnahme

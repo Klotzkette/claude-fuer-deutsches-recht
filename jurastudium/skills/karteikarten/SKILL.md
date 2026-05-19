@@ -6,16 +6,17 @@ description: >
   Lädt, wenn der Nutzer „Karteikarten erstellen", „Definition üben", „Wiederholung starten"
   oder „Anki-Karten für [Rechtsgebiet]" sagt.
 language: de
-triggers:
-  - "Karteikarten erstellen"
-  - "Definition üben"
-  - "Karteikarten Strafrecht"
-  - "Definitionen Zivilrecht"
-  - "Wiederholung starten"
-  - "Anki Jura"
-  - "Drill-Modus"
-  - "Lernkartei"
-  - "Definitionen wiederholen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Karteikarten erstellen
+  - Definition üben
+  - Karteikarten Strafrecht
+  - Definitionen Zivilrecht
+  - Wiederholung starten
+  - Anki Jura
+  - Drill-Modus
+  - Lernkartei
+  - Definitionen wiederholen
 ---
 
 # Karteikarten-Drill

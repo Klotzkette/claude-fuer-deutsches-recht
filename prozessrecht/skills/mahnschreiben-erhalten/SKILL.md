@@ -2,13 +2,14 @@
 name: mahnschreiben-erhalten
 description: Eingehendes Mahnschreiben oder Abmahnung triage – Felder extrahieren, Portfolio abgleichen, Berechtigung prüfen, Handlungsoptionen mit Empfehlung vorstellen und ggf. an Mandat-Intake oder Mahnschreiben-Intake übergeben. Verwenden, wenn der Nutzer sagt „wir haben eine Mahnung bekommen", „triage dieses Schreiben" oder ein eingehendes Aufforderungsschreiben zur Auswertung vorlegt.
 language: de
-triggers:
-  - "mahnschreiben-erhalten"
-  - "mahnung erhalten"
-  - "abmahnung erhalten"
-  - "eingehendes schreiben"
-  - "forderungsschreiben triage"
-  - "klagedrohung erhalten"
+when_to_use: |
+  Trigger phrases and example requests:
+  - mahnschreiben-erhalten
+  - mahnung erhalten
+  - abmahnung erhalten
+  - eingehendes schreiben
+  - forderungsschreiben triage
+  - klagedrohung erhalten
 ---
 
 # Eingehendes Mahnschreiben / Abmahnung – Triage

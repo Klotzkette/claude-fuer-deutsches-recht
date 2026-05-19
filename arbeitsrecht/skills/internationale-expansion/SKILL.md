@@ -9,14 +9,15 @@ description: >
   aufzurufen.
 language: de
 user-invocable: false
-triggers:
-  - "internationale Einstellung"
-  - "Auslandsexpansion"
-  - "EOR vs Gesellschaft"
-  - "AÜG Ausland"
-  - "Scheinselbständigkeit international"
-  - "Betriebsstätte Ausland"
-  - "externe Arbeitsrechtler briefen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - internationale Einstellung
+  - Auslandsexpansion
+  - EOR vs Gesellschaft
+  - AÜG Ausland
+  - Scheinselbständigkeit international
+  - Betriebsstätte Ausland
+  - externe Arbeitsrechtler briefen
 ---
 
 # Internationale Expansion — Referenz-Skill (Arbeitsrecht)

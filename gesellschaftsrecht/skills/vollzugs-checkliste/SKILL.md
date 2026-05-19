@@ -7,13 +7,14 @@ description: >
   „Vollzugscheckliste", „Closing-Checkliste", „was fehlt noch zum Closing",
   „Checklisten-Status", „zur Checkliste hinzufügen".
 language: de
-triggers:
-  - "Vollzugscheckliste"
-  - "Closing-Checkliste"
-  - "Closing-Bedingungen"
-  - "was fehlt zum Vollzug"
-  - "Checklisten-Status"
-  - "Vollzugsvoraussetzungen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Vollzugscheckliste
+  - Closing-Checkliste
+  - Closing-Bedingungen
+  - was fehlt zum Vollzug
+  - Checklisten-Status
+  - Vollzugsvoraussetzungen
 ---
 
 # Vollzugscheckliste M&A

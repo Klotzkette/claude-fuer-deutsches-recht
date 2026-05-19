@@ -2,17 +2,18 @@
 name: vorlageanordnung
 description: Triage einer gerichtlichen oder behördlichen Beweisanordnung — Klassifizierung, Umfangs- und Beschlagnahmeschutzanalyse, Portfolioquerverweis und Erstellung eines Einwendungsgerüsts, Mitwirkungsplans und Fristenkalenders. Lädt, wenn der Nutzer eine Vorladung, Zeugenladung, Vorlageanordnung, Durchsuchungsanordnung oder behördliche Anforderung erhalten hat und deren Reaktionsstrategie klären möchte.
 language: de
-triggers:
-  - "Beweisanordnung erhalten"
-  - "Vorlagepflicht Gericht"
-  - "§ 142 ZPO Anordnung"
-  - "Zeugenladung Triage"
-  - "Durchsuchung Kanzlei"
-  - "Vorladung als Zeuge"
-  - "§ 161a StPO Anforderung"
-  - "Sicherstellung Unterlagen"
-  - "gerichtliche Anforderung prüfen"
-  - "Einwendungen Beweiserhebung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Beweisanordnung erhalten
+  - Vorlagepflicht Gericht
+  - § 142 ZPO Anordnung
+  - Zeugenladung Triage
+  - Durchsuchung Kanzlei
+  - Vorladung als Zeuge
+  - § 161a StPO Anforderung
+  - Sicherstellung Unterlagen
+  - gerichtliche Anforderung prüfen
+  - Einwendungen Beweiserhebung
 ---
 
 # Triage Gerichtliche und Behördliche Beweisanordnungen

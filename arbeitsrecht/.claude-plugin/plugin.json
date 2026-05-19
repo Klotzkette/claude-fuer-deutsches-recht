@@ -1,13 +1,8 @@
 {
   "name": "arbeitsrecht",
-  "version": "1.0.0-de.1",
+  "version": "1.0.0-de.2",
   "description": "Arbeitsrecht – Individualkündigung (KSchG-Klage, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, Anhörung Betriebsrat § 102 BetrVG, AGG-Prüfung, Statusfeststellung, Personalrichtlinien (BetrVG, AGG, ArbZG, MuSchG, BEEG, EFZG, TzBfG).",
-  "language": "de",
   "author": {
     "name": "Klotzkette"
-  },
-  "adapted_from": {
-    "name": "anthropics/claude-for-legal",
-    "license": "MIT"
   }
 }

@@ -10,16 +10,17 @@ description: >
   „Gesellschafterbeschluss" oder Beschreibung einer zustimmungspflichtigen Maßnahme
   ohne Versammlung.
 language: de
-triggers:
-  - "Umlaufbeschluss"
-  - "schriftlicher Beschluss"
-  - "Gesellschafterbeschluss"
-  - "§ 48 Abs. 2 GmbHG"
-  - "Beschluss ohne Versammlung"
-  - "Aufsichtsratsumlaufbeschluss"
-  - "Zustimmungsbeschluss"
-  - "schriftliche Abstimmung"
-  - "Gesellschafterversammlung schriftlich"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Umlaufbeschluss
+  - schriftlicher Beschluss
+  - Gesellschafterbeschluss
+  - § 48 Abs. 2 GmbHG
+  - Beschluss ohne Versammlung
+  - Aufsichtsratsumlaufbeschluss
+  - Zustimmungsbeschluss
+  - schriftliche Abstimmung
+  - Gesellschafterversammlung schriftlich
 argument-hint: "[Beschreibung der zustimmungspflichtigen Maßnahme]"
 ---
 

@@ -6,7 +6,7 @@
 
 Der Agent ist an das deutsche Verfahrensrecht angepasst: ZPO (Zivilprozess), StPO (Strafprozess), VwGO (Verwaltungsprozess), FamFG (Familiensachen), ArbGG (Arbeitsgerichtsverfahren), SGG (Sozialgerichtsverfahren). Schnittstellen: EGVP (Elektronisches Gerichts- und Verwaltungspostfach), beA (besonderes elektronisches Anwaltspostfach), CELEX (EUR-Lex), Bundesgerichtshof-Datenbank.
 
-Gleiche Quelle wie der [`terminkalender-monitor`](../../litigation-legal/agenten/terminkalender-monitor.md)-Agent im litigation-legal-Claude-Code-Plugin – dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`.
+Gleiche Quelle wie der [`terminkalender-monitor`](../../prozessrecht/agents/terminkalender-monitor.md)-Agent im prozessrecht-Claude-Code-Plugin – dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`.
 
 ## ⚠️ Vor dem Deployment
 
@@ -46,7 +46,7 @@ Gerichtliche Eingänge sind öffentliche Dokumente (soweit nicht unter Verschlus
 Dieses Kochbuch ist ein Ausgangspunkt. Es wird in der Produktion nicht funktionieren, bis Sie folgendes getan haben:
 
 - **MCP-URLs setzen.** `EGVP_MCP_URL` und `BEA_MCP_URL` müssen auf die Endpunkte Ihres Deployments zeigen, mit welcher Authentifizierung Ihre Plattform benötigt. `GDRIVE_MCP_URL` (oder ein Ersatz) zeigt auf den Speicherort Ihrer Fristentabellen.
-- **Portfolio laden.** Der Agent liest `verfahren/_log.yaml` plus die `az` (Aktenzeichen) und `gericht` pro Verfahren aus der litigation-legal-Konfiguration des deployenden Teams. Wenn Ihr Kanzleiverwaltungssystem die Quelle der Wahrheit ist, verbinden Sie es über ein MCP oder führen Sie eine Synchronisierung in den Konfigurationspfad durch.
+- **Portfolio laden.** Der Agent liest `verfahren/_log.yaml` plus die `az` (Aktenzeichen) und `gericht` pro Verfahren aus der prozessrecht-Konfiguration des deployenden Teams. Wenn Ihr Kanzleiverwaltungssystem die Quelle der Wahrheit ist, verbinden Sie es über ein MCP oder führen Sie eine Synchronisierung in den Konfigurationspfad durch.
 - **Jurisdiktionsregeln konfigurieren.** Versorgen Sie den frist-zuordner mit einer Fristentabelle für jedes Gericht in Ihrem Portfolio. Bundesrechtsregeln (ZPO, VwGO, ArbGG, SGG) können einmal kodiert werden; Landesgerichte und einzelne Richter sind die Risikobereiche. Ein unbekanntes Gericht sollte `confidence: niedrig` + `verifizierung_erforderlich: true` erzeugen, niemals einen stillen Standard.
 - **Zustellung verkabeln.** Entscheiden Sie, wohin die Ausgabe geht: Ihr Kanzleiverwaltungssystem liest `./out/fristen.yaml`; der Berichtbericht geht in Slack, E-Mail oder Ihren Mandatsverwaltungsbereich; kritische Markierungen werden an denjenigen weitergeleitet, den Sie benachrichtigt haben möchten.
 - **Zeitplan setzen.** Wöchentlich für die meisten Verfahren; täglich für alles mit einer Verhandlung in weniger als 14 Tagen, jedes Verfahren in der Phase `Berufung`/`Revision` oder jedes Mandat mit `risiko: kritisch`.

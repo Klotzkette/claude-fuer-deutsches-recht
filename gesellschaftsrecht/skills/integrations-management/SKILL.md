@@ -8,16 +8,17 @@ description: >
   „Post-Merger-Integration", „Post-Closing", „Betriebsübergang", „Vertragsübertragung"
   oder „was ist noch offen".
 language: de
-triggers:
-  - "Post-Merger-Integration"
-  - "Post-Closing"
-  - "Betriebsübergang"
-  - "Vertragsübertragung"
-  - "Integrationsstatus"
-  - "was ist noch offen"
-  - "Zustimmungen ausstehend"
-  - "Integrationsplan"
-  - "PMI"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Post-Merger-Integration
+  - Post-Closing
+  - Betriebsübergang
+  - Vertragsübertragung
+  - Integrationsstatus
+  - was ist noch offen
+  - Zustimmungen ausstehend
+  - Integrationsplan
+  - PMI
 argument-hint: "[--init | --vertraege | --bericht | --update | --export] [--mandat [code]]"
 ---
 

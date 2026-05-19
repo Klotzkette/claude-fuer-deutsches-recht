@@ -6,16 +6,17 @@ description: >
   den Lernplan. Lädt, wenn der Nutzer „10 Fragen zu [Rechtsgebiet]", „Lerneinheit starten",
   „5 Karten zu [Thema]" oder „Abfrage [Rechtsgebiet]" sagt.
 language: de
-triggers:
-  - "Lerneinheit starten"
-  - "Fragen zu Strafrecht"
-  - "Abfrage BGB"
-  - "Karteikarten üben"
-  - "Klausurfragen üben"
-  - "Wiederholung starten"
-  - "Prüfungssimulation"
-  - "Examensvorbereitung"
-  - "Drill starten"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Lerneinheit starten
+  - Fragen zu Strafrecht
+  - Abfrage BGB
+  - Karteikarten üben
+  - Klausurfragen üben
+  - Wiederholung starten
+  - Prüfungssimulation
+  - Examensvorbereitung
+  - Drill starten
 ---
 
 # Lerneinheit

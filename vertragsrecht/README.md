@@ -112,10 +112,10 @@ vertragsrecht/
 ├── .mcp.json
 ├── CLAUDE.md                    # Praxisprofil der Rechtsabteilung
 ├── README.md
-├── agenten/
-│   ├── verlaengerungs-waechter.md
-│   ├── abschluss-debrief.md
-│   └── vorgehensleitfaden-monitor.md
+├── agents/
+│   ├── verlaengerungs-monitor.md
+│   ├── deal-nachbesprechung.md
+│   └── spielbuch-monitor.md
 ├── skills/
 │   ├── kaltstart-interview/    # → ersteinrichtung
 │   ├── vertragspruefung/                  # → prüfen

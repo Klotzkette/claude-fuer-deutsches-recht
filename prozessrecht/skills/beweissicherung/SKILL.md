@@ -2,13 +2,14 @@
 name: beweissicherung
 description: Anordnung, Aktualisierung, Aufhebung oder Statusbericht zu Aufbewahrungspflichten und Beweissicherungsmaßnahmen nach deutschem Recht – § 257 HGB, § 147 AO, §§ 286, 444 ZPO (Beweisvereitelung), §§ 485 ff. ZPO (Selbständiges Beweisverfahren). Verwenden, wenn der Nutzer sagt „Aufbewahrungspflicht prüfen", „Beweissicherung anordnen", „Legal Hold einrichten" oder Statusbericht über Sicherungsmaßnahmen anfordert.
 language: de
-triggers:
-  - "beweissicherung"
-  - "aufbewahrungspflicht"
-  - "legal hold"
-  - "selbständiges beweisverfahren"
-  - "beweisvereitelung"
-  - "dokumente sichern"
+when_to_use: |
+  Trigger phrases and example requests:
+  - beweissicherung
+  - aufbewahrungspflicht
+  - legal hold
+  - selbständiges beweisverfahren
+  - beweisvereitelung
+  - dokumente sichern
 ---
 
 # Aufbewahrungspflicht und Beweissicherung

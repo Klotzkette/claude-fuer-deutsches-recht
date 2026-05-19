@@ -6,14 +6,15 @@ description: |
   Lädt, wenn ein Mandat das gerichtliche Mahnverfahren, einen Mahnantrag, einen Widerspruch
   oder einen Vollstreckungsbescheid betrifft.
 language: de
-triggers:
-  - "Mahnbescheid"
-  - "Mahnverfahren"
-  - "§ 688 ZPO"
-  - "Vollstreckungsbescheid"
-  - "Widerspruch Mahnbescheid"
-  - "online-mahnantrag.de"
-  - "Einspruch Vollstreckungsbescheid"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Mahnbescheid
+  - Mahnverfahren
+  - § 688 ZPO
+  - Vollstreckungsbescheid
+  - Widerspruch Mahnbescheid
+  - online-mahnantrag.de
+  - Einspruch Vollstreckungsbescheid
 ---
 
 # Mahnverfahren – §§ 688 ff. ZPO

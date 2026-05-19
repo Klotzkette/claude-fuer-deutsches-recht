@@ -8,16 +8,17 @@ description: >
   Lädt, wenn der Nutzer „Profil ändern", „Konfiguration aktualisieren", „Einstellung anpassen"
   oder vergleichbare Formulierungen verwendet.
 language: de
-triggers:
-  - "Profil ändern"
-  - "Konfiguration aktualisieren"
-  - "Einstellung anpassen"
-  - "Schwellenwert ändern"
-  - "Modul aktivieren"
-  - "Eskalation aktualisieren"
-  - "Beschlussformat anpassen"
-  - "Praxisprofil bearbeiten"
-  - "anpassen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Profil ändern
+  - Konfiguration aktualisieren
+  - Einstellung anpassen
+  - Schwellenwert ändern
+  - Modul aktivieren
+  - Eskalation aktualisieren
+  - Beschlussformat anpassen
+  - Praxisprofil bearbeiten
+  - anpassen
 argument-hint: "[Abschnitt oder Beschreibung der gewünschten Änderung]"
 ---
 

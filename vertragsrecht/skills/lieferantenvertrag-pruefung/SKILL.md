@@ -2,14 +2,15 @@
 name: lieferantenvertrag-pruefung
 description: Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631, 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:pruefen geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird.
 language: de
-triggers:
-  - "lieferantenvertrag"
-  - "dienstleistungsvertrag"
-  - "werkvertrag"
-  - "rahmenvertrag prüfen"
-  - "vendor agreement"
-  - "lksg klausel"
-  - "gewährleistung prüfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - lieferantenvertrag
+  - dienstleistungsvertrag
+  - werkvertrag
+  - rahmenvertrag prüfen
+  - vendor agreement
+  - lksg klausel
+  - gewährleistung prüfen
 ---
 
 # Lieferanten-/Dienstleistervertrag-Prüfung

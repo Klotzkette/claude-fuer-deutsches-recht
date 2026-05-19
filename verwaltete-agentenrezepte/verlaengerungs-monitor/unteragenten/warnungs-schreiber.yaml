@@ -68,5 +68,5 @@ tools:
       - { name: write, enabled: true }
 mcp_servers: []
 skills:
-  - { path: ../../../commercial-legal/skills/contract-monitoring }
+  - { path: ../../../vertragsrecht/skills/vertragsverlaengerungs-monitor }
 callable_agents: []

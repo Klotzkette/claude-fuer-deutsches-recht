@@ -7,14 +7,15 @@ description: >
   revisionssicher. Lädt, wenn der Nutzer einen Community-Skill vollständig
   entfernen möchte („Skill deinstallieren [Name]", „Skill entfernen").
 language: de
-triggers:
-  - "Skill deinstallieren"
-  - "Skill entfernen"
-  - "Skill löschen"
-  - "Community-Skill entfernen"
-  - "Skill vollständig löschen"
-  - "Plugin-Skill deinstallieren"
-  - "Skill aus Kanzlei entfernen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Skill deinstallieren
+  - Skill entfernen
+  - Skill löschen
+  - Community-Skill entfernen
+  - Skill vollständig löschen
+  - Plugin-Skill deinstallieren
+  - Skill aus Kanzlei entfernen
 argument-hint: "[Skill-Name]"
 ---
 

@@ -2,18 +2,19 @@
 name: bwa-sus-bilanz-pruefung
 description: Prüft BWA (Betriebswirtschaftliche Auswertung), SuSa (Summen- und Saldenliste), Einzelbelege und Bilanzentwürfe einer GmbH/UG auf insolvenzrechtliche Krisensignale. Bewertet, ob bereits eine Überschuldung im Sinne des § 19 InsO oder eine Zahlungsunfähigkeit im Sinne des § 17 InsO vorliegt und ob die Warn- bzw. Hinweispflicht nach § 102 StaRUG ausgelöst ist. Lädt bei Bilanzerstellung, Jahresabschluss, BWA-Review, Krisenfrüherkennung, Fortbestehensprognose, Insolvenzreife-Indizien.
 language: de
-triggers:
-  - "BWA prüfen"
-  - "Summen- und Saldenliste"
-  - "SuSa Bilanz"
-  - "Überschuldung § 19 InsO"
-  - "Zahlungsunfähigkeit § 17 InsO"
-  - "Fortbestehensprognose"
-  - "§ 102 StaRUG"
-  - "Krisenfrüherkennung"
-  - "Bilanzerstellung GmbH"
-  - "Insolvenzreife Hinweispflicht"
-  - "Steuerberater Warnpflicht"
+when_to_use: |
+  Trigger phrases and example requests:
+  - BWA prüfen
+  - Summen- und Saldenliste
+  - SuSa Bilanz
+  - Überschuldung § 19 InsO
+  - Zahlungsunfähigkeit § 17 InsO
+  - Fortbestehensprognose
+  - § 102 StaRUG
+  - Krisenfrüherkennung
+  - Bilanzerstellung GmbH
+  - Insolvenzreife Hinweispflicht
+  - Steuerberater Warnpflicht
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)

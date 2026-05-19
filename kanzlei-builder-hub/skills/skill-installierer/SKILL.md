@@ -8,15 +8,16 @@ description: >
   Nutzer „Skill installieren [Name]" eingibt, einen Skill aus dem
   Verzeichnis auswählt oder eine direkte Skill-URL übergibt.
 language: de
-triggers:
-  - "Skill installieren"
-  - "Skill hinzufügen"
-  - "neuen Skill einrichten"
-  - "Skill aus Registry laden"
-  - "Kanzlei-Skill einbinden"
-  - "Plugin-Skill installieren"
-  - "Skill-URL installieren"
-  - "Community-Skill installieren"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Skill installieren
+  - Skill hinzufügen
+  - neuen Skill einrichten
+  - Skill aus Registry laden
+  - Kanzlei-Skill einbinden
+  - Plugin-Skill installieren
+  - Skill-URL installieren
+  - Community-Skill installieren
 ---
 
 # Skill-Installer
@@ -107,7 +108,7 @@ Dann auf Basis des extrahierten SPDX-Tokens (oder „nicht erkannt" / „nicht v
 Aus Registry-URL oder Skill-Name (aufgelöst gegen überwachte Registries):
 
 - Skill-Verzeichnis klonen oder herunterladen
-- Sammeln: vollständige `SKILL.md`, alle `commands/*`, `agenten/*`, `ausloeser/ausloeser.json`, `.mcp.json`, `references/*`, `templates/*`, `scripts/*`
+- Sammeln: vollständige `SKILL.md`, alle `commands/*`, `agents/*`, `ausloeser/ausloeser.json`, `.mcp.json`, `references/*`, `templates/*`, `scripts/*`
 
 **Schreibgeschützter Subagent — Pflicht im restriktiven Modus.** In diesem Modus müssen Schritte 2–4 in einem Subagenten mit ausschließlich Lese- + WebFetch- + Glob-Zugriff ausgeführt werden. Kein Schreiben, keine Bash, kein MCP. Ist kein schreibgeschützter Subagent verfügbar: Stopp. Nutzer informieren und warten, bis eine konforme Umgebung bereitsteht oder auf permissiven Modus gewechselt wird.
 

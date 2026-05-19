@@ -2,13 +2,14 @@
 name: anspruchstabelle
 description: Aufbau oder Überprüfung einer Anspruchstabelle – zivilrechtliche Element-für-Element-Analyse eines Anspruchs oder einer Einrede, oder patentrechtliche Verletzungs-/Nichtigkeitstabelle – mit Quellenbelegen für jedes Element und Lückenerkennung als Prioritätsausgabe. Verwenden, wenn der Nutzer eine Anspruchstabelle, Elementtabelle, Beweistabelle, patenrechtliche Verletzungsanalyse oder fragt „Was fehlt uns noch, um [Anspruch] zu beweisen?".
 language: de
-triggers:
-  - "anspruchstabelle"
-  - "elementtabelle"
-  - "anspruchsprüfung"
-  - "was fehlt zum beweis"
-  - "patentverletzung chart"
-  - "tatbestandsmerkmale"
+when_to_use: |
+  Trigger phrases and example requests:
+  - anspruchstabelle
+  - elementtabelle
+  - anspruchsprüfung
+  - was fehlt zum beweis
+  - patentverletzung chart
+  - tatbestandsmerkmale
 ---
 
 # Anspruchstabelle

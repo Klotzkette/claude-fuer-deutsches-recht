@@ -8,15 +8,16 @@ description: >
   Wird von den Skills „uninstall" und „deaktivieren" des Kanzlei-Builder-Hub
   geladen. Kein direkter Nutzeraufruf.
 language: de
-triggers:
-  - "Skill deinstallieren"
-  - "Skill entfernen"
-  - "Skill deaktivieren"
-  - "Skill reaktivieren"
-  - "Skill-Verwaltung"
-  - "installierten Skill löschen"
-  - "Skill pausieren"
-  - "Skill wieder aktivieren"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Skill deinstallieren
+  - Skill entfernen
+  - Skill deaktivieren
+  - Skill reaktivieren
+  - Skill-Verwaltung
+  - installierten Skill löschen
+  - Skill pausieren
+  - Skill wieder aktivieren
 user-invocable: false
 ---
 
@@ -109,7 +110,7 @@ Die Skill-Zeile aus der installierten Starter-Pack-Tabelle in der Hub-CLAUDE.md 
 
 - `SKILL.md` → `SKILL.md.deaktiviert`
 - `ausloeser/ausloeser.json` → `ausloeser/ausloeser.json.deaktiviert` (falls vorhanden)
-- Agent-Dateien des Skills → `agenten/*.md.deaktiviert` (geplante Agenten damit stoppen)
+- Agent-Dateien des Skills → `agents/*.md.deaktiviert` (geplante Agenten damit stoppen)
 
 #### Schritt 3: Bestätigen
 

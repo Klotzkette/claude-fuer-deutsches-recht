@@ -2,13 +2,14 @@
 name: richtlinien-vergleich
 description: Richtlinien-Diff – vergleicht eine neue Aufsichtsnorm oder -verlautbarung gegen eine bestehende interne Richtlinie. Laden, wenn eine konkrete Norm oder Verlautbarung gegen ein Bestandsdokument verglichen werden soll.
 language: de
-triggers:
-  - "richtlinien-vergleich"
-  - "Richtlinien-Diff"
-  - "Diff"
-  - "Richtlinie vergleichen"
-  - "was hat sich geändert"
-  - "neue Norm gegen Richtlinie"
+when_to_use: |
+  Trigger phrases and example requests:
+  - richtlinien-vergleich
+  - Richtlinien-Diff
+  - Diff
+  - Richtlinie vergleichen
+  - was hat sich geändert
+  - neue Norm gegen Richtlinie
 ---
 
 # Richtlinien-Diff

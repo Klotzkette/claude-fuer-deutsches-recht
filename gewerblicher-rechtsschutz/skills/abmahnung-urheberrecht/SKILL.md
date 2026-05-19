@@ -7,15 +7,16 @@ description: >
   (§ 97 Abs. 2 UrhG). Lädt bei urheberrechtlichen Abmahnungen, Unterlassungs-
   erklärungen, Filesharing-Fällen oder Schadensersatzforderungen nach UrhG.
 language: de
-triggers:
-  - "Abmahnung Urheberrecht"
-  - "§ 97a UrhG"
-  - "Filesharing"
-  - "Unterlassungserklärung Urheber"
-  - "Lizenzanalogie"
-  - "Tauschbörse"
-  - "urheberrechtliche Abmahnung"
-  - "modifizierte Unterlassungserklärung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Abmahnung Urheberrecht
+  - § 97a UrhG
+  - Filesharing
+  - Unterlassungserklärung Urheber
+  - Lizenzanalogie
+  - Tauschbörse
+  - urheberrechtliche Abmahnung
+  - modifizierte Unterlassungserklärung
 ---
 
 # Urheberrechtliche Abmahnung – § 97a UrhG

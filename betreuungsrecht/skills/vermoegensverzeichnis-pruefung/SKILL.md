@@ -7,16 +7,17 @@ description: >
   wie „Vermögensverzeichnis", „Anfangsvermögen", „Rechnungslegung",
   „§ 1835 BGB", „§ 1865 BGB" oder „Sperrvermerk" auftreten.
 language: de
-triggers:
-  - "Vermögensverzeichnis"
-  - "Anfangsvermögen Betreuung"
-  - "Rechnungslegung Betreuer"
-  - "§ 1835 BGB"
-  - "§ 1839 BGB"
-  - "§ 1865 BGB"
-  - "Sperrvermerk Konto"
-  - "mündelsichere Anlage"
-  - "Schlussrechnung Betreuung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Vermögensverzeichnis
+  - Anfangsvermögen Betreuung
+  - Rechnungslegung Betreuer
+  - § 1835 BGB
+  - § 1839 BGB
+  - § 1865 BGB
+  - Sperrvermerk Konto
+  - mündelsichere Anlage
+  - Schlussrechnung Betreuung
 ---
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)

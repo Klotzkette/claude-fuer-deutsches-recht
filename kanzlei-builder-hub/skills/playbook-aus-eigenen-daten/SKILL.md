@@ -3,19 +3,20 @@ name: playbook-aus-eigenen-daten
 description: Erzeugt aus eigenen Daten (E-Mails, Schriftsätzen, Aktenexporten, Notizen, Sprachprotokollen) ein wiederverwendbares Vorgehens-Spielbuch (Playbook) für wiederkehrende anwaltliche Arbeitsabläufe. Extrahiert Muster, typische Klauseln, Standardfragen, Eskalationsstufen und Fristen aus tatsächlicher Bearbeitungspraxis.
 language: de
 license: Apache-2.0 OR MIT
-triggers:
-  - "playbook aus meinen daten erstellen"
-  - "wie mache ich aus meinen e-mails ein playbook"
-  - "spielbuch aus akten generieren"
-  - "vorgehensleitfaden aus dokumenten ableiten"
-  - "workflow automatisieren aus eigener praxis"
-  - "wiederkehrenden arbeitsablauf in skill verwandeln"
-  - "muster aus mandatshistorie extrahieren"
-  - "kanzlei-spielbuch aus outlook ziehen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - playbook aus meinen daten erstellen
+  - wie mache ich aus meinen e-mails ein playbook
+  - spielbuch aus akten generieren
+  - vorgehensleitfaden aus dokumenten ableiten
+  - workflow automatisieren aus eigener praxis
+  - wiederkehrenden arbeitsablauf in skill verwandeln
+  - muster aus mandatshistorie extrahieren
+  - kanzlei-spielbuch aus outlook ziehen
 related_skills:
   - kanzlei-builder-hub/skills/skill-installierer
   - kanzlei-builder-hub/skills/skills-qualitaetspruefung
-  - vertragsrecht/agenten/spielbuch-monitor
+  - vertragsrecht/agents/spielbuch-monitor
 ---
 
 # Skill: Playbook aus eigenen Daten

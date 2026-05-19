@@ -5,14 +5,15 @@ description: >
   Recherche in Espacenet, DPMApaplus und EP-Datenbank auf sperrende DE- und
   EP-Patente. Ergebnis ist ein Recherchepaket für den Patentanwalt – kein FTO-Gutachten.
 language: de
-triggers:
-  - "fto"
-  - "freedom to operate"
-  - "patentrecherche"
-  - "sperrpatent"
-  - "patentverletzung prüfen"
-  - "freiheit zu operieren"
-  - "fto-triage"
+when_to_use: |
+  Trigger phrases and example requests:
+  - fto
+  - freedom to operate
+  - patentrecherche
+  - sperrpatent
+  - patentverletzung prüfen
+  - freiheit zu operieren
+  - fto-triage
 ---
 
 # Freedom-to-Operate-Triage (FTO)

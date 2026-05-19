@@ -7,15 +7,16 @@ description: >
   AktG analog) und Anfechtbarkeit (§ 246 AktG analog). Lädt bei Mandaten zur
   Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung.
 language: de
-triggers:
-  - "Gesellschafterbeschluss"
-  - "Hauptversammlung"
-  - "Gesellschafterversammlung"
-  - "Anfechtungsklage"
-  - "Beschlussnichtigkeit"
-  - "Stimmrecht"
-  - "Beschlussmehrheit"
-  - "Versammlungsprotokoll"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Gesellschafterbeschluss
+  - Hauptversammlung
+  - Gesellschafterversammlung
+  - Anfechtungsklage
+  - Beschlussnichtigkeit
+  - Stimmrecht
+  - Beschlussmehrheit
+  - Versammlungsprotokoll
 ---
 
 # Gesellschafterbeschluss – GmbH und AG

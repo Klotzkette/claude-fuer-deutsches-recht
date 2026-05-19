@@ -1,13 +1,8 @@
 {
   "name": "rechtsberatungsstelle",
-  "version": "1.0.0-de.1",
+  "version": "1.0.0-de.2",
   "description": "Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.",
-  "language": "de",
   "author": {
     "name": "Klotzkette"
-  },
-  "adapted_from": {
-    "name": "anthropics/claude-for-legal",
-    "license": "MIT"
   }
 }

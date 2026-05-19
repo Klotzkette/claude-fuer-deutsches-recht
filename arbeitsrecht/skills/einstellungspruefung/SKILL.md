@@ -2,13 +2,14 @@
 name: einstellungspruefung
 description: Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen – TzBfG (Sachgrund, Vorbeschäftigungsverbot), AGG (diskriminierungsfreie Ausschreibung und Einstellung), AÜG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB).
 language: de
-triggers:
-  - "einstellungsprüfung"
-  - "arbeitsvertrag prüfen"
-  - "befristung prüfen"
-  - "hiring review"
-  - "neues arbeitsverhältnis"
-  - "befristeter arbeitsvertrag"
+when_to_use: |
+  Trigger phrases and example requests:
+  - einstellungsprüfung
+  - arbeitsvertrag prüfen
+  - befristung prüfen
+  - hiring review
+  - neues arbeitsverhältnis
+  - befristeter arbeitsvertrag
 argument-hint: "[Arbeitsvertragsentwurf oder Beschreibung des Einstellungsvorgangs]"
 ---
 

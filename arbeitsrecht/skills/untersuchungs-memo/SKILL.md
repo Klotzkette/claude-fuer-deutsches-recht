@@ -7,14 +7,15 @@ description: >
   ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf
   veraltet haben.
 language: de
-triggers:
-  - "Untersuchungsmemo"
-  - "Untersuchungsvermerk"
-  - "Vermerk entwerfen"
-  - "Untersuchung zusammenfassen"
-  - "Abschlussvermerk"
-  - "Memo aktualisieren"
-  - "Untersuchungsergebnis dokumentieren"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Untersuchungsmemo
+  - Untersuchungsvermerk
+  - Vermerk entwerfen
+  - Untersuchung zusammenfassen
+  - Abschlussvermerk
+  - Memo aktualisieren
+  - Untersuchungsergebnis dokumentieren
 ---
 
 # Untersuchungsvermerk (Arbeitsrecht)

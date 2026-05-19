@@ -8,17 +8,18 @@ description: >
   „Jahresbericht", „Betreuungsbericht", „§ 1863 BGB", „Betreuungsgericht",
   „Berufsbetreuer" oder „Lebenssituation" auftreten.
 language: de
-triggers:
-  - "Jahresbericht Betreuungsgericht"
-  - "Betreuungsbericht"
-  - "§ 1863 BGB"
-  - "Berufsbetreuer Bericht"
-  - "Lebenssituation Bericht"
-  - "BtOG Bericht"
-  - "Bericht Betreuter"
-  - "Bericht Betreute"
-  - "Vereinsbetreuer Bericht"
-  - "Anfangsbericht Betreuung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Jahresbericht Betreuungsgericht
+  - Betreuungsbericht
+  - § 1863 BGB
+  - Berufsbetreuer Bericht
+  - Lebenssituation Bericht
+  - BtOG Bericht
+  - Bericht Betreuter
+  - Bericht Betreute
+  - Vereinsbetreuer Bericht
+  - Anfangsbericht Betreuung
 ---
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)

@@ -96,10 +96,10 @@ mcp_servers:
   - { type: url, name: banz,    url: "${BANZ_MCP_URL}" }
   - { type: url, name: bafin,   url: "${BAFIN_MCP_URL}" }
   - { type: url, name: eurlex,  url: "${EURLEX_MCP_URL}" }
-  - { type: url, name: bnetzа,  url: "${BNETZA_MCP_URL}" }
+  - { type: url, name: bnetza,  url: "${BNETZA_MCP_URL}" }
 
 skills:
-  - { from_plugin: ../../regulatory-legal }
+  - { from_plugin: ../../regulatorisches-recht }
 
 callable_agents:
   - { manifest: ./unteragenten/feed-leser.yaml }

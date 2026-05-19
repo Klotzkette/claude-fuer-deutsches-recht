@@ -6,12 +6,13 @@ description: >
   „Deal-Zusammenfassung", „Status für Geschäftsführung", „Team-Update",
   „Deal-Team-Summary".
 language: de
-triggers:
-  - "Deal-Briefing"
-  - "Deal-Zusammenfassung"
-  - "Team-Update"
-  - "Vorstandsbriefing"
-  - "Deal-Summary"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Deal-Briefing
+  - Deal-Zusammenfassung
+  - Team-Update
+  - Vorstandsbriefing
+  - Deal-Summary
 ---
 
 # Deal-Team-Zusammenfassung

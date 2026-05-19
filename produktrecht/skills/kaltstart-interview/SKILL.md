@@ -7,13 +7,14 @@ description: >
   die Plugin-Konfiguration noch Platzhalter enthält. Mit --redo für erneutes
   Interview, mit --check-integrations nur für Konnektoren-Prüfung.
 language: de
-triggers:
-  - "cold-start"
-  - "ersteinrichtung"
-  - "setup produktrecht"
-  - "konfigurieren"
-  - "launch-tracker verbinden"
-  - "produktrecht-profil anlegen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - cold-start
+  - ersteinrichtung
+  - setup produktrecht
+  - konfigurieren
+  - launch-tracker verbinden
+  - produktrecht-profil anlegen
 argument-hint: "[--redo] [--check-integrations]"
 ---
 

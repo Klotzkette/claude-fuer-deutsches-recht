@@ -7,16 +7,17 @@ description: >
   Kaiser-Skripten). Lädt, wenn der Nutzer „Lernplan erstellen", „Examensvorbereitung planen",
   „Stundenplan Staatsexamen" oder „wie soll ich für [Prüfung] lernen" sagt.
 language: de
-triggers:
-  - "Lernplan erstellen"
-  - "Examensvorbereitung planen"
-  - "Staatsexamen Lernplan"
-  - "Repetitorium Planung"
-  - "Klausurenphase planen"
-  - "zweites Staatsexamen vorbereiten"
-  - "Wiederholungsphase strukturieren"
-  - "Lernen organisieren"
-  - "Lernstunden planen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Lernplan erstellen
+  - Examensvorbereitung planen
+  - Staatsexamen Lernplan
+  - Repetitorium Planung
+  - Klausurenphase planen
+  - zweites Staatsexamen vorbereiten
+  - Wiederholungsphase strukturieren
+  - Lernen organisieren
+  - Lernstunden planen
 ---
 
 # Staatsexamen-Lernplan

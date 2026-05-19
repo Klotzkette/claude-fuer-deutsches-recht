@@ -6,13 +6,14 @@ description: >
   „Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die
   ein einheitliches Klausel-Extraktionsprofil erfordern.
 language: de
-triggers:
-  - "Luminance"
-  - "Kira"
-  - "KI-Prüfung"
-  - "automatische Extraktion"
-  - "Massenvertragsprüfung"
-  - "Bulk-Review"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Luminance
+  - Kira
+  - KI-Prüfung
+  - automatische Extraktion
+  - Massenvertragsprüfung
+  - Bulk-Review
 ---
 
 # KI-Tool-Übergabe (Luminance / Kira)

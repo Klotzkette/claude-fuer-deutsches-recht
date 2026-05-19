@@ -9,16 +9,17 @@ description: >
   internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder
   ein Kurz-Gutachten für einen Fall erstellen muss.
 language: de
-triggers:
-  - "Gutachten erstellen"
-  - "Fallanalyse"
-  - "Gutachtenmethode"
-  - "Rechtsgutachten"
-  - "IRSE Methode"
-  - "interne Fallanalyse"
-  - "Mietrecht prüfen"
-  - "Prüfungsschema"
-  - "Obersatz Subsumtion"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Gutachten erstellen
+  - Fallanalyse
+  - Gutachtenmethode
+  - Rechtsgutachten
+  - IRSE Methode
+  - interne Fallanalyse
+  - Mietrecht prüfen
+  - Prüfungsschema
+  - Obersatz Subsumtion
 ---
 
 # Internes Rechtsgutachten: Gutachten-Gerüst

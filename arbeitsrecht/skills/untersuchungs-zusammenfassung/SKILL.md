@@ -7,14 +7,15 @@ description: >
   aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt
   erhalten darf oder soll.
 language: de
-triggers:
-  - "Untersuchung zusammenfassen"
-  - "HR-Zusammenfassung Untersuchung"
-  - "Aufsichtsrat briefen"
-  - "Geschäftsführung informieren"
-  - "externe Anwälte briefen"
-  - "zielgruppengerechte Zusammenfassung"
-  - "Untersuchungsergebnis kommunizieren"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Untersuchung zusammenfassen
+  - HR-Zusammenfassung Untersuchung
+  - Aufsichtsrat briefen
+  - Geschäftsführung informieren
+  - externe Anwälte briefen
+  - zielgruppengerechte Zusammenfassung
+  - Untersuchungsergebnis kommunizieren
 ---
 
 # Untersuchungs-Zusammenfassung für Zielgruppen (Arbeitsrecht)

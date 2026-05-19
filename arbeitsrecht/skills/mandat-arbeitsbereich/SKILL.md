@@ -2,12 +2,13 @@
 name: mandat-arbeitsbereich
 description: Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert.
 language: de
-triggers:
-  - "neue akte"
-  - "mandat wechseln"
-  - "mandat-arbeitsbereich"
-  - "mandatsakte"
-  - "mandat anlegen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - neue akte
+  - mandat wechseln
+  - mandat-arbeitsbereich
+  - mandatsakte
+  - mandat anlegen
 argument-hint: "<neu | auflisten | wechseln | schließen | keine> [kürzel]"
 ---
 

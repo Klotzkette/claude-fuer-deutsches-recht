@@ -6,13 +6,14 @@ description: >
   Genehmigungsmatrix und schreibt das Ergebnis in CLAUDE.md. Vor dem ersten
   Einsatz aller anderen Skills ausführen.
 language: de
-triggers:
-  - "kaltstart-interview"
-  - "ersteinrichtung"
-  - "plugin einrichten"
-  - "kanzleiprofil anlegen"
-  - "ip-portfolio einrichten"
-  - "gewerblicher rechtsschutz setup"
+when_to_use: |
+  Trigger phrases and example requests:
+  - kaltstart-interview
+  - ersteinrichtung
+  - plugin einrichten
+  - kanzleiprofil anlegen
+  - ip-portfolio einrichten
+  - gewerblicher rechtsschutz setup
 ---
 
 # Ersteinrichtungsinterview

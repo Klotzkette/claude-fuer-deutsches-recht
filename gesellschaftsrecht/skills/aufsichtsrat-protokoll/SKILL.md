@@ -8,14 +8,15 @@ description: >
   „Vorstandssitzung", „Aufsichtsratssitzung", „Gesellschafterversammlung",
   „Protokollentwurf", „Sitzungsprotokoll".
 language: de
-triggers:
-  - "Protokoll"
-  - "Vorstandssitzung"
-  - "Aufsichtsratssitzung"
-  - "Gesellschafterversammlung"
-  - "Protokollentwurf"
-  - "Sitzungsprotokoll"
-  - "Hauptversammlung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Protokoll
+  - Vorstandssitzung
+  - Aufsichtsratssitzung
+  - Gesellschafterversammlung
+  - Protokollentwurf
+  - Sitzungsprotokoll
+  - Hauptversammlung
 ---
 
 # Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)

@@ -8,14 +8,15 @@ description: >
   der Nutzer sagt „ändere mein [Ding]", „Profil aktualisieren", „Konfiguration bearbeiten",
   „Playbook anpassen" oder „anpassen".
 argument-hint: "[Abschnittsname oder Beschreibung der gewünschten Änderung]"
-triggers:
-  - "Profil anpassen"
-  - "Playbook ändern"
-  - "anpassen"
-  - "KI-Governance konfigurieren"
-  - "Use-Case-Register ändern"
-  - "Eskalationskontakte aktualisieren"
-  - "Konfiguration bearbeiten"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Profil anpassen
+  - Playbook ändern
+  - anpassen
+  - KI-Governance konfigurieren
+  - Use-Case-Register ändern
+  - Eskalationskontakte aktualisieren
+  - Konfiguration bearbeiten
 language: de
 ---
 

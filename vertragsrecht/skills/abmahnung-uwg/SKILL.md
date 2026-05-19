@@ -6,15 +6,16 @@ description: |
   Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte
   Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat.
 language: de
-triggers:
-  - "Abmahnung"
-  - "UWG"
-  - "Unterlassungserklärung"
-  - "Wettbewerbsrecht"
-  - "Vertragsstrafe"
-  - "Schutzschrift"
-  - "Hamburger Brauch"
-  - "strafbewehrte Unterlassung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Abmahnung
+  - UWG
+  - Unterlassungserklärung
+  - Wettbewerbsrecht
+  - Vertragsstrafe
+  - Schutzschrift
+  - Hamburger Brauch
+  - strafbewehrte Unterlassung
 ---
 
 # UWG-Abmahnung – Erstellung und Prüfung

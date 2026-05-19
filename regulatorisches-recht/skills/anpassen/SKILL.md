@@ -2,13 +2,14 @@
 name: anpassen
 description: Praxisprofil des Plugins anpassen, ohne die Ersteinrichtung komplett zu wiederholen. Laden, wenn ein einzelner Parameter geändert werden soll.
 language: de
-triggers:
-  - "Praxisprofil anpassen"
-  - "Materialitätsschwelle ändern"
-  - "Behörde hinzufügen"
-  - "Feed-Konfiguration aktualisieren"
-  - "anpassen"
-  - "Plugin anpassen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Praxisprofil anpassen
+  - Materialitätsschwelle ändern
+  - Behörde hinzufügen
+  - Feed-Konfiguration aktualisieren
+  - anpassen
+  - Plugin anpassen
 ---
 
 # Praxisprofil anpassen

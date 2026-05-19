@@ -8,14 +8,15 @@ description: >
   oder eine einfach formulierte Mandantenmitteilung erstellen möchte.
 language: de
 user-invocable: false
-triggers:
-  - "Mandantenbrief einfache Sprache"
-  - "verständlicher Brief"
-  - "Terminbestätigung schreiben"
-  - "Informationsschreiben Mandant"
-  - "leichte Sprache Schreiben"
-  - "Statusbrief verständlich"
-  - "Mandant informieren einfach"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Mandantenbrief einfache Sprache
+  - verständlicher Brief
+  - Terminbestätigung schreiben
+  - Informationsschreiben Mandant
+  - leichte Sprache Schreiben
+  - Statusbrief verständlich
+  - Mandant informieren einfach
 ---
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`

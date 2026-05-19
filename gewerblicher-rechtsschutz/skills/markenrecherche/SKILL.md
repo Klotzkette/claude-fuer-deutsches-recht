@@ -6,14 +6,15 @@ description: >
   Verwenden vor Markenanmeldung, Produkteinführung oder Rebranding. Kein
   Freigabegutachten – Ergebnis ist Recherchepaket für anwaltliche Entscheidung.
 language: de
-triggers:
-  - "markenrecherche"
-  - "markenprüfung"
-  - "clearance"
-  - "marke anmelden"
-  - "verwechslungsgefahr"
-  - "ähnlichkeitsprüfung"
-  - "markencheck"
+when_to_use: |
+  Trigger phrases and example requests:
+  - markenrecherche
+  - markenprüfung
+  - clearance
+  - marke anmelden
+  - verwechslungsgefahr
+  - ähnlichkeitsprüfung
+  - markencheck
 ---
 
 # Markenrecherche (Clearance)

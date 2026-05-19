@@ -6,15 +6,16 @@ description: >
   es um Streitwert, Gegenstandswert, Gerichtskosten, Anwaltsgebühren oder die
   Kostenfestsetzung geht.
 language: de
-triggers:
-  - "Streitwert"
-  - "Gegenstandswert"
-  - "GKG"
-  - "RVG"
-  - "Kostenfestsetzung"
-  - "Kostenausgleichung"
-  - "Streitwertbeschwerde"
-  - "Mehrwert Hilfsantrag"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Streitwert
+  - Gegenstandswert
+  - GKG
+  - RVG
+  - Kostenfestsetzung
+  - Kostenausgleichung
+  - Streitwertbeschwerde
+  - Mehrwert Hilfsantrag
 ---
 
 # Streitwertfestsetzung – GKG / RVG

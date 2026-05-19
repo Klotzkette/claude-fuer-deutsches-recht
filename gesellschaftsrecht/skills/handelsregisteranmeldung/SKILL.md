@@ -7,16 +7,17 @@ description: >
   Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen
   Registerpublizitätsfragen und Anmeldungspflichten.
 language: de
-triggers:
-  - "Handelsregister"
-  - "HRB"
-  - "HRA"
-  - "Handelsregisteranmeldung"
-  - "Prokura"
-  - "Sitzverlegung"
-  - "Registeranmeldung"
-  - "Registergericht"
-  - "notarielle Beglaubigung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Handelsregister
+  - HRB
+  - HRA
+  - Handelsregisteranmeldung
+  - Prokura
+  - Sitzverlegung
+  - Registeranmeldung
+  - Registergericht
+  - notarielle Beglaubigung
 ---
 
 # Handelsregisteranmeldung – HRB / HRA / GnR / PartGR

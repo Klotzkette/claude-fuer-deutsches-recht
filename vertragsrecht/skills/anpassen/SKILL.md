@@ -6,15 +6,16 @@ description: >
   „Profil anpassen", „Playbook ändern", „Eskalation aktualisieren",
   „Klauselposition ändern" oder „konfigurieren" sagt.
 language: de
-triggers:
-  - "Profil anpassen"
-  - "Playbook ändern"
-  - "Konfiguration ändern"
-  - "Klauselposition"
-  - "Eskalation aktualisieren"
-  - "Risikoposition"
-  - "Kanzleiprofil bearbeiten"
-  - "Einstellung ändern"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Profil anpassen
+  - Playbook ändern
+  - Konfiguration ändern
+  - Klauselposition
+  - Eskalation aktualisieren
+  - Risikoposition
+  - Kanzleiprofil bearbeiten
+  - Einstellung ändern
 ---
 
 # Kanzleiprofil anpassen

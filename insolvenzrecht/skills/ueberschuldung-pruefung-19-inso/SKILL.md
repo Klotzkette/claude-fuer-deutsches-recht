@@ -6,17 +6,18 @@ description: >
   auf Liquidationswertbasis (Stufe 2). Lädt, wenn Überschuldung geprüft, ein
   Überschuldungsstatus erstellt oder § 19 InsO ausgelegt werden soll.
 language: de
-triggers:
-  - "Überschuldung"
-  - "§ 19 InsO"
-  - "Überschuldungsstatus"
-  - "Fortbestehensprognose"
-  - "Liquidationswerte"
-  - "zweistufige Überschuldungsprüfung"
-  - "insolvenzrechtliche Überschuldung"
-  - "Rangrücktritt Gesellschafterdarlehen"
-  - "MoMiG Überschuldung"
-  - "SanInsFoG Überschuldung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Überschuldung
+  - § 19 InsO
+  - Überschuldungsstatus
+  - Fortbestehensprognose
+  - Liquidationswerte
+  - zweistufige Überschuldungsprüfung
+  - insolvenzrechtliche Überschuldung
+  - Rangrücktritt Gesellschafterdarlehen
+  - MoMiG Überschuldung
+  - SanInsFoG Überschuldung
 ---
 
 # Zweistufige Überschuldungsprüfung gem. § 19 Abs. 2 InsO

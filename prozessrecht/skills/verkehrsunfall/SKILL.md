@@ -6,18 +6,19 @@ description: |
   (Reparatur, Wertminderung, Nutzungsausfall) und Schmerzensgeld. Lädt, wenn ein Mandat einen
   Verkehrsunfall, eine Unfallregulierung oder eine Schadensersatzklage im Straßenverkehr betrifft.
 language: de
-triggers:
-  - "Verkehrsunfall"
-  - "Unfallregulierung"
-  - "KFZ-Schaden"
-  - "Haftpflicht"
-  - "Schmerzensgeld Unfall"
-  - "130%-Grenze"
-  - "Nutzungsausfall"
-  - "Wertminderung"
-  - "§ 7 StVG"
-  - "§ 115 VVG"
-  - "Direktanspruch"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Verkehrsunfall
+  - Unfallregulierung
+  - KFZ-Schaden
+  - Haftpflicht
+  - Schmerzensgeld Unfall
+  - 130%-Grenze
+  - Nutzungsausfall
+  - Wertminderung
+  - § 7 StVG
+  - § 115 VVG
+  - Direktanspruch
 ---
 
 # Verkehrsunfall – Haftung, Schaden und Schadensausgleich

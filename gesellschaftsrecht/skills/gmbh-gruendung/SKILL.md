@@ -6,15 +6,16 @@ description: >
   GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur
   Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag.
 language: de
-triggers:
-  - "GmbH gründen"
-  - "Gesellschaftsvertrag GmbH"
-  - "Stammkapital"
-  - "UG haftungsbeschränkt"
-  - "Handelsregistereintragung GmbH"
-  - "Geschäftsführerbestellung"
-  - "Transparenzregister"
-  - "Vorgesellschaft"
+when_to_use: |
+  Trigger phrases and example requests:
+  - GmbH gründen
+  - Gesellschaftsvertrag GmbH
+  - Stammkapital
+  - UG haftungsbeschränkt
+  - Handelsregistereintragung GmbH
+  - Geschäftsführerbestellung
+  - Transparenzregister
+  - Vorgesellschaft
 ---
 
 # GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag

@@ -2,20 +2,21 @@
 name: liquiditaetsvorschau-3-6-12-monate
 description: Erstellt für eine GmbH/UG aus unstrukturierten Eingaben (Rechnungen, Bankauszüge, BWA, SuSa, Zahlungserwartungen, Daueraufträge) eine robuste rollierende Liquiditätsvorschau mit Wochenraster über 3, 6 und 12 Monate. Prüft fortlaufend, ob Zahlungsunfähigkeit nach § 17 InsO (10-%-Lücke / 3-Wochen-Horizont) droht oder bereits eingetreten ist, und liefert eine insolvenzrechtliche Fortführungsprognose unter Beachtung der Abgrenzung zwischen handelsbilanzieller und insolvenzrechtlicher Überschuldung (§ 19 InsO). Methodik nach IDW S 6 (Sanierungskonzept) und IDW S 11 (Insolvenzeröffnungsgründe). Exportiert die Tabelle nach Excel.
 language: de
-triggers:
-  - "Liquiditätsvorschau"
-  - "Liquiditätsplanung"
-  - "Cashflow-Planung"
-  - "Zahlungsunfähigkeit § 17 InsO"
-  - "10-Prozent-Lücke"
-  - "Drei-Wochen-Frist"
-  - "Fortführungsprognose"
-  - "Fortbestehensprognose § 19 InsO"
-  - "IDW S 6"
-  - "IDW S 11"
-  - "13-Wochen-Forecast"
-  - "rollierende Liquidität"
-  - "insolvenzfähige Überschuldung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Liquiditätsvorschau
+  - Liquiditätsplanung
+  - Cashflow-Planung
+  - Zahlungsunfähigkeit § 17 InsO
+  - 10-Prozent-Lücke
+  - Drei-Wochen-Frist
+  - Fortführungsprognose
+  - Fortbestehensprognose § 19 InsO
+  - IDW S 6
+  - IDW S 11
+  - 13-Wochen-Forecast
+  - rollierende Liquidität
+  - insolvenzfähige Überschuldung
 ---
 
 # Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)

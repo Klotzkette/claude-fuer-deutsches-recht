@@ -6,17 +6,18 @@ description: >
   „Was gibt es Neues im Regulatorischen", „BaFin-Rundschreiben" oder eine konkrete Fundstelle
   zur Einordnung nennt — oder wenn der Scheduler-Agent die Skill automatisch auslöst.
 language: de
-triggers:
-  - "Feeds prüfen"
-  - "regulatorische Aktualisierung"
-  - "Was gibt es Neues im Regulatorischen"
-  - "BaFin-Rundschreiben"
-  - "Bundesgesetzblatt Änderungen"
-  - "Amtsblatt EU"
-  - "BSI-Verlautbarungen"
-  - "EuGH-Newsletter"
-  - "Referentenentwurf neu"
-  - "Bundesanzeiger Aktuell"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Feeds prüfen
+  - regulatorische Aktualisierung
+  - Was gibt es Neues im Regulatorischen
+  - BaFin-Rundschreiben
+  - Bundesgesetzblatt Änderungen
+  - Amtsblatt EU
+  - BSI-Verlautbarungen
+  - EuGH-Newsletter
+  - Referentenentwurf neu
+  - Bundesanzeiger Aktuell
 ---
 
 # Regulatorischer Feed-Watcher

@@ -7,15 +7,16 @@ description: >
   Lizenzkompatibilität, bei der Frage ob eine Bibliothek ausgeliefert werden
   darf, oder bei der Vorbereitung von Code zur Veröffentlichung als Open Source.
 language: de
-triggers:
-  - "Open-Source-Lizenz prüfen"
-  - "GPL Copyleft Compliance"
-  - "AGPL Pflichten"
-  - "Abhängigkeitsliste Lizenz"
-  - "SBOM Lizenzprüfung"
-  - "Open Source Veröffentlichung"
-  - "Nutzungsrechte Software Lizenz"
-  - "OSS Compliance"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Open-Source-Lizenz prüfen
+  - GPL Copyleft Compliance
+  - AGPL Pflichten
+  - Abhängigkeitsliste Lizenz
+  - SBOM Lizenzprüfung
+  - Open Source Veröffentlichung
+  - Nutzungsrechte Software Lizenz
+  - OSS Compliance
 ---
 
 # Open-Source-Lizenz-Compliance-Prüfung

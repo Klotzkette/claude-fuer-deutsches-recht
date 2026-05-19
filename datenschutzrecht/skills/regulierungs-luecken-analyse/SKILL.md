@@ -5,15 +5,16 @@ description: >
   geänderte Anforderungen aus EDSA-Leitlinien, DSK-Beschlüssen, Gesetzesänderungen oder
   Behördenentscheidungen. Ergebnis: priorisierte Maßnahmenliste mit Handlungsfristen.
 language: de
-triggers:
-  - "Gap-Analyse"
-  - "Lückenanalyse"
-  - "EDSA-Leitlinie"
-  - "DSK-Beschluss"
-  - "neue Anforderung"
-  - "Umsetzungspflicht"
-  - "reg-gap"
-  - "Compliance-Check"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Gap-Analyse
+  - Lückenanalyse
+  - EDSA-Leitlinie
+  - DSK-Beschluss
+  - neue Anforderung
+  - Umsetzungspflicht
+  - reg-gap
+  - Compliance-Check
 ---
 
 # DS-Gap-Analyse – Datenschutzrecht

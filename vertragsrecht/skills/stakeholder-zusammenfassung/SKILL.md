@@ -7,15 +7,16 @@ description: >
   für Geschäftsführung", „für den Vorstand aufbereiten", „Managementzusammenfassung",
   „für Einkauf erklären" oder „nicht-juristische Zusammenfassung" sagt.
 language: de
-triggers:
-  - "Zusammenfassung Geschäftsführung"
-  - "Vorstandszusammenfassung"
-  - "Management-Briefing"
-  - "Risikomatrix"
-  - "nicht-juristische Zusammenfassung"
-  - "für Einkauf aufbereiten"
-  - "Vertragsstatus berichten"
-  - "Mandantenkurzfassung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Zusammenfassung Geschäftsführung
+  - Vorstandszusammenfassung
+  - Management-Briefing
+  - Risikomatrix
+  - nicht-juristische Zusammenfassung
+  - für Einkauf aufbereiten
+  - Vertragsstatus berichten
+  - Mandantenkurzfassung
 ---
 
 # Mandantenzusammenfassung Vertragsrecht

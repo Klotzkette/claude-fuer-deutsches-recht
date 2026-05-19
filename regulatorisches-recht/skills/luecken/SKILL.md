@@ -2,12 +2,13 @@
 name: luecken
 description: Offenen Gap-Tracker anzeigen und verwalten. Laden, um zu sehen, welche Compliance-Lücken gemeldet wurden, was noch offen ist und was in Bearbeitung ist.
 language: de
-triggers:
-  - "gaps"
-  - "offene Lücken"
-  - "Gap-Tracker"
-  - "Compliance-Lücken anzeigen"
-  - "was ist noch offen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - gaps
+  - offene Lücken
+  - Gap-Tracker
+  - Compliance-Lücken anzeigen
+  - was ist noch offen
 ---
 
 # Gap-Tracker

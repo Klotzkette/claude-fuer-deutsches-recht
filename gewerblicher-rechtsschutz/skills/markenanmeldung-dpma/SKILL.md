@@ -7,16 +7,17 @@ description: >
   Lädt bei Markenanmeldungen, Markenschutz, DPMA-Verfahren, Widerspruch oder
   Eintragungshindernissen.
 language: de
-triggers:
-  - "Markenanmeldung"
-  - "DPMA"
-  - "Markenrecht"
-  - "Nizza-Klassifikation"
-  - "Widerspruch Marke"
-  - "Eintragungshindernis"
-  - "Markenschutz"
-  - "BPatG Marke"
-  - "§ 8 MarkenG"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Markenanmeldung
+  - DPMA
+  - Markenrecht
+  - Nizza-Klassifikation
+  - Widerspruch Marke
+  - Eintragungshindernis
+  - Markenschutz
+  - BPatG Marke
+  - § 8 MarkenG
 ---
 
 # Markenanmeldung beim DPMA

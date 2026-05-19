@@ -1,13 +1,8 @@
 {
   "name": "produktrecht",
-  "version": "1.0.0-de.1",
+  "version": "1.0.0-de.2",
   "description": "Produktrecht – Launch-Review, Impressumspflicht §§ 5, 6 DDG, PAngV, Marketing-Claims, UWG-Konformität, 'Ist das ein Problem?'-Bewertungen.",
-  "language": "de",
   "author": {
     "name": "Klotzkette"
-  },
-  "adapted_from": {
-    "name": "anthropics/claude-for-legal",
-    "license": "MIT"
   }
 }

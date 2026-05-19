@@ -7,13 +7,14 @@ description: >
   „examens-prognose" oder „worauf soll ich mich konzentrieren".
 language: de
 argument-hint: "[Rechtsgebiet oder Bundesland, oder --statistik]"
-triggers:
-  - "examensprognose"
-  - "was kommt im examen"
-  - "jpa-statistik"
-  - "schwerpunktthemen examen"
-  - "worauf konzentrieren"
-  - "examens-prognose"
+when_to_use: |
+  Trigger phrases and example requests:
+  - examensprognose
+  - was kommt im examen
+  - jpa-statistik
+  - schwerpunktthemen examen
+  - worauf konzentrieren
+  - examens-prognose
 ---
 
 # Examensprognose / JPA-Statistik

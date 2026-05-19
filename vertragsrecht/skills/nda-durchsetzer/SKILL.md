@@ -11,17 +11,18 @@ description: >
   „Geheimhaltungsvereinbarung Änderungsmodus", „Mindeststandard NDA" oder
   „NDA-Verhandlung" auftreten.
 language: de
-triggers:
-  - "NDA durchsetzen"
-  - "NDA Redline"
-  - "NDA Gegenseite"
-  - "NDA Änderungsmodus"
-  - "Geheimhaltungsvereinbarung überarbeiten"
-  - "Geheimhaltungsvereinbarung Redline"
-  - "Mindeststandard NDA"
-  - "NDA-Verhandlung"
-  - "NDA Markup"
-  - "Vertraulichkeitsvereinbarung Redline"
+when_to_use: |
+  Trigger phrases and example requests:
+  - NDA durchsetzen
+  - NDA Redline
+  - NDA Gegenseite
+  - NDA Änderungsmodus
+  - Geheimhaltungsvereinbarung überarbeiten
+  - Geheimhaltungsvereinbarung Redline
+  - Mindeststandard NDA
+  - NDA-Verhandlung
+  - NDA Markup
+  - Vertraulichkeitsvereinbarung Redline
 ---
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse

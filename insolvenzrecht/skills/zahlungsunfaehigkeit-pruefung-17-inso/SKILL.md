@@ -7,17 +7,18 @@ description: >
   Lädt, wenn der Nutzer Zahlungsunfähigkeit, Liquiditätsstatus, Insolvenzeröffnungsgrund
   oder § 17 InsO prüfen möchte.
 language: de
-triggers:
-  - "Zahlungsunfähigkeit"
-  - "§ 17 InsO"
-  - "Liquiditätsstatus"
-  - "Liquiditätsbilanz"
-  - "10-Prozent-Schwelle"
-  - "Zahlungseinstellung"
-  - "Zahlungsstockung"
-  - "Insolvenzeröffnungsgrund"
-  - "fällige Verbindlichkeiten"
-  - "Eröffnungsgrund prüfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Zahlungsunfähigkeit
+  - § 17 InsO
+  - Liquiditätsstatus
+  - Liquiditätsbilanz
+  - 10-Prozent-Schwelle
+  - Zahlungseinstellung
+  - Zahlungsstockung
+  - Insolvenzeröffnungsgrund
+  - fällige Verbindlichkeiten
+  - Eröffnungsgrund prüfen
 ---
 
 # Gerichtsfeste Prüfung des Eröffnungsgrundes § 17 InsO (Zahlungsunfähigkeit)

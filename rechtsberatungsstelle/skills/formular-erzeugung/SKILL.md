@@ -8,14 +8,15 @@ description: >
   erstellen oder Formulargenerierung durchführen möchte.
 language: de
 user-invocable: false
-triggers:
-  - "Formular ausfüllen"
-  - "Formularerstellung"
-  - "Antragsformular"
-  - "Formulargenerierung"
-  - "Vordrucke erstellen"
-  - "Beratungshilfe Formular"
-  - "PKH Formular"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Formular ausfüllen
+  - Formularerstellung
+  - Antragsformular
+  - Formulargenerierung
+  - Vordrucke erstellen
+  - Beratungshilfe Formular
+  - PKH Formular
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`

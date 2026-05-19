@@ -2,13 +2,14 @@
 name: kaltstart-interview
 description: Ersteinrichtung des Arbeitsrecht-Plugins – ermittelt Standortprofil, Tarifbindung, Betriebsratssituation und Eskalationsregeln aus Personalhandbuch und Kündigungsunterlagen. Ausführen bei Neuinstallation, wenn CLAUDE.md noch [PLATZHALTER]-Markierungen enthält oder mit --redo oder --check-integrations.
 language: de
-triggers:
-  - "cold-start"
-  - "ersteinrichtung"
-  - "plugin einrichten"
-  - "setup"
-  - "arbeitsrecht einrichten"
-  - "personalhandbuch laden"
+when_to_use: |
+  Trigger phrases and example requests:
+  - cold-start
+  - ersteinrichtung
+  - plugin einrichten
+  - setup
+  - arbeitsrecht einrichten
+  - personalhandbuch laden
 argument-hint: "[--redo | --check-integrations]"
 ---
 

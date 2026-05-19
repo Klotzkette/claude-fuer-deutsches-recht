@@ -7,13 +7,14 @@ description: >
   „Mandat wechseln", „Mandate auflisten", „Mandat schließen" oder wenn ein inhaltlicher Skill
   wissen muss, in welchem Mandat er arbeitet.
 argument-hint: "<new | list | switch | close | none> [slug]"
-triggers:
-  - "Mandat"
-  - "Mandatsworkspace"
-  - "mandat-arbeitsbereich"
-  - "neues Mandat"
-  - "Mandat wechseln"
-  - "Mandat schließen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Mandat
+  - Mandatsworkspace
+  - mandat-arbeitsbereich
+  - neues Mandat
+  - Mandat wechseln
+  - Mandat schließen
 language: de
 ---
 

@@ -7,13 +7,14 @@ description: >
   „Klausuraufbau" oder wenn ein Sachverhalt zur Bearbeitung eingegeben wird.
 language: de
 argument-hint: "[Sachverhalt einfügen oder Fallname nennen]"
-triggers:
-  - "fallbearbeitung"
-  - "gutachten"
-  - "sachverhalt"
-  - "klausuraufbau"
-  - "löse den fall"
-  - "anspruch prüfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - fallbearbeitung
+  - gutachten
+  - sachverhalt
+  - klausuraufbau
+  - löse den fall
+  - anspruch prüfen
 ---
 
 # Fallbearbeitung im Gutachtenstil

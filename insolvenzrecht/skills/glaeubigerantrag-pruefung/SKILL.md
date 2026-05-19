@@ -8,17 +8,18 @@ description: >
   wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn
   Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind.
 language: de
-triggers:
-  - "Gläubigerantrag"
-  - "§ 14 InsO"
-  - "Insolvenzantrag Gläubiger"
-  - "Antrag auf Insolvenz stellen"
-  - "Glaubhaftmachung Forderung Insolvenz"
-  - "Insolvenzantrag Finanzamt"
-  - "Insolvenzantrag Sozialversicherung"
-  - "Eröffnungsgrund glaubhaft machen"
-  - "Insolvenzantrag abwehren"
-  - "Druckantrag Insolvenz"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Gläubigerantrag
+  - § 14 InsO
+  - Insolvenzantrag Gläubiger
+  - Antrag auf Insolvenz stellen
+  - Glaubhaftmachung Forderung Insolvenz
+  - Insolvenzantrag Finanzamt
+  - Insolvenzantrag Sozialversicherung
+  - Eröffnungsgrund glaubhaft machen
+  - Insolvenzantrag abwehren
+  - Druckantrag Insolvenz
 ---
 
 # Prüfung Gläubigerantrag nach § 14 InsO

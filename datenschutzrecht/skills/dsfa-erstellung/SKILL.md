@@ -5,15 +5,16 @@ description: >
   BfDI-Blacklist-/Whitelist-Abgleich, strukturierte DSFA im eigenen Hausformat.
   Auslöser: Neues Verarbeitungsvorhaben, Systemeinführung, oder Ergebnis aus anwendungsfall-triage.
 language: de
-triggers:
-  - "DSFA"
-  - "Datenschutz-Folgenabschätzung"
-  - "PIA"
-  - "Art. 35"
-  - "Risikoabschätzung"
-  - "Hochrisiko"
-  - "Blacklist"
-  - "Schwellwert"
+when_to_use: |
+  Trigger phrases and example requests:
+  - DSFA
+  - Datenschutz-Folgenabschätzung
+  - PIA
+  - Art. 35
+  - Risikoabschätzung
+  - Hochrisiko
+  - Blacklist
+  - Schwellwert
 ---
 
 # DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO

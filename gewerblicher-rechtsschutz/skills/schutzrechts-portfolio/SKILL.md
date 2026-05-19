@@ -7,16 +7,17 @@ description: >
   Amtshandlung oder einer Portfolio-Überprüfung auf Lücken, Verfall und
   Benutzungsfragen.
 language: de
-triggers:
-  - "IP-Portfolio Fristen"
-  - "Marke verlängern"
-  - "Patentjahresgebühr"
-  - "Schutzrechtsverwaltung"
-  - "Portfolioübersicht"
-  - "Markenverlängerung MarkenG"
-  - "Patent Aufrechterhaltungsgebühr"
-  - "DesignG Verlängerung"
-  - "IP-Register"
+when_to_use: |
+  Trigger phrases and example requests:
+  - IP-Portfolio Fristen
+  - Marke verlängern
+  - Patentjahresgebühr
+  - Schutzrechtsverwaltung
+  - Portfolioübersicht
+  - Markenverlängerung MarkenG
+  - Patent Aufrechterhaltungsgebühr
+  - DesignG Verlängerung
+  - IP-Register
 ---
 
 # IP-Portfolio-Verwaltung

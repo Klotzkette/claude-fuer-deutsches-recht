@@ -7,16 +7,17 @@ description: >
   „Markteinführung freigeben", „produktrechtliche Prüfung" oder eine
   Produkt-Launch-Checkliste bzw. ein PRD mit Freigabebedarf nennt.
 language: de
-triggers:
-  - "Produkt-Launch prüfen"
-  - "Markteinführung freigeben"
-  - "CE-Konformität"
-  - "Produktsicherheitsprüfung"
-  - "Marktüberwachung"
-  - "Konformitätsbewertung"
-  - "ProdSG-Prüfung"
-  - "Launch-Freigabe"
-  - "technische Dokumentation"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Produkt-Launch prüfen
+  - Markteinführung freigeben
+  - CE-Konformität
+  - Produktsicherheitsprüfung
+  - Marktüberwachung
+  - Konformitätsbewertung
+  - ProdSG-Prüfung
+  - Launch-Freigabe
+  - technische Dokumentation
 ---
 
 # Produkt-Launch-Freigabeprüfung

@@ -2,16 +2,17 @@
 name: mandat-arbeitsbereich
 description: Verwaltet Mandatsarbeitsbereiche für Mehrmandat-Kanzleien — anlegen, auflisten, wechseln, abschließen oder vom aktiven Mandat lösen. Lädt, wenn der Nutzer einen neuen Mandatsarbeitsbereich anlegen, das aktive Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder nur auf Kanzleiebene arbeiten möchte.
 language: de
-triggers:
-  - "neues Prozessmandat anlegen"
-  - "Mandat wechseln"
-  - "Mandatsliste"
-  - "Mandat archivieren"
-  - "Mandatsarbeitsbereich"
-  - "Akte anlegen"
-  - "Mandatsverwaltung"
-  - "aktives Mandat setzen"
-  - "Mandat schließen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - neues Prozessmandat anlegen
+  - Mandat wechseln
+  - Mandatsliste
+  - Mandat archivieren
+  - Mandatsarbeitsbereich
+  - Akte anlegen
+  - Mandatsverwaltung
+  - aktives Mandat setzen
+  - Mandat schließen
 ---
 
 # Mandatsarbeitsbereich

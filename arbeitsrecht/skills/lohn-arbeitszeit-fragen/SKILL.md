@@ -2,14 +2,15 @@
 name: lohn-arbeitszeit-fragen
 description: Standortbezogene Lohn- und Arbeitszeitfragen – ArbZG (Höchstarbeitszeit, Pausen, Ruhezeiten, Aufzeichnungspflichten), MiLoG (Mindestlohn, Aufzeichnungspflicht), EFZG (Entgeltfortzahlung im Krankheitsfall), Tarifverträge, Überstunden. Antwort mit der maßgeblichen Norm und Zitat.
 language: de
-triggers:
-  - "lohn und arbeitszeit"
-  - "wage hour"
-  - "überstunden"
-  - "mindestlohn"
-  - "arbeitszeit"
-  - "entgeltfortzahlung"
-  - "arbeitszeiterfassung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - lohn und arbeitszeit
+  - wage hour
+  - überstunden
+  - mindestlohn
+  - arbeitszeit
+  - entgeltfortzahlung
+  - arbeitszeiterfassung
 argument-hint: "[Frage zur Lohn- oder Arbeitszeitregelung]"
 ---
 

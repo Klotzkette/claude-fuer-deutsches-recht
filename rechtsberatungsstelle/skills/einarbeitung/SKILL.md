@@ -9,16 +9,17 @@ description: >
   „Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für
   die einseitige Referenzkarte.
 language: de
-triggers:
-  - "Einarbeitung starten"
-  - "ich bin neu in der Klinik"
-  - "Einführung Rechtsberatungsstelle"
-  - "RDG Schulung"
-  - "studentischer Berater Einarbeitung"
-  - "Semesterstart"
-  - "neue Kohorte"
-  - "Beratungsstelle kennenlernen"
-  - "was darf ich als Student"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Einarbeitung starten
+  - ich bin neu in der Klinik
+  - Einführung Rechtsberatungsstelle
+  - RDG Schulung
+  - studentischer Berater Einarbeitung
+  - Semesterstart
+  - neue Kohorte
+  - Beratungsstelle kennenlernen
+  - was darf ich als Student
 ---
 
 # Einarbeitung: Semestereinarbeitung

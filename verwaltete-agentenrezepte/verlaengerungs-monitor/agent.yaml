@@ -100,7 +100,7 @@ mcp_servers:
   - { type: url, name: dms,        url: "${DMS_MCP_URL}" }
 
 skills:
-  - { from_plugin: ../../commercial-legal }
+  - { from_plugin: ../../vertragsrecht }
 
 callable_agents:
   - { manifest: ./unteragenten/ablage-leser.yaml }

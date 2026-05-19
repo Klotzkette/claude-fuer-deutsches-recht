@@ -7,15 +7,16 @@ description: >
   Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf
   kanzleiweiten Kontext umschalten möchte.
 language: de
-triggers:
-  - "Mandat anlegen"
-  - "Mandatsakte"
-  - "Mandatswechsel"
-  - "Mandat abschließen"
-  - "Mandatsverwaltung"
-  - "Aktenstruktur"
-  - "Mandatsübersicht"
-  - "neues Mandat"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Mandat anlegen
+  - Mandatsakte
+  - Mandatswechsel
+  - Mandat abschließen
+  - Mandatsverwaltung
+  - Aktenstruktur
+  - Mandatsübersicht
+  - neues Mandat
 ---
 
 # Mandatsarbeitsbereich Vertragsrecht

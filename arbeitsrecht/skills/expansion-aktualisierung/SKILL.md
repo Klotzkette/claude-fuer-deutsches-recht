@@ -7,14 +7,15 @@ description: >
   Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln
   soll.
 language: de
-triggers:
-  - "Expansion aktualisieren"
-  - "Tracker update"
-  - "Status Expansion"
-  - "was ist noch offen"
-  - "nächste Schritte Auslandseinstellung"
-  - "Expansionsprojekt fortschreiben"
-  - "was hat sich geändert"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Expansion aktualisieren
+  - Tracker update
+  - Status Expansion
+  - was ist noch offen
+  - nächste Schritte Auslandseinstellung
+  - Expansionsprojekt fortschreiben
+  - was hat sich geändert
 ---
 
 # Expansions-Update (Arbeitsrecht)

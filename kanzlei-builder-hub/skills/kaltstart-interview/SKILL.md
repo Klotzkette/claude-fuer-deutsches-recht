@@ -8,12 +8,13 @@ description: >
   nach Hinzufügen oder Entfernen eines MCP-Konnektors erneut auszuführen.
 argument-hint: "[--redo] [--check-integrations]"
 language: de
-triggers:
-  - "kaltstart"
-  - "cold-start"
-  - "einrichten"
-  - "was soll ich installieren"
-  - "einstieg"
+when_to_use: |
+  Trigger phrases and example requests:
+  - kaltstart
+  - cold-start
+  - einrichten
+  - was soll ich installieren
+  - einstieg
 ---
 
 # /kaltstart-interview — Kanzleiprofil-Interview

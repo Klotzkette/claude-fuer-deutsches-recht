@@ -9,7 +9,7 @@ Zwei Modi:
 - **Sweep** – liest alle konfigurierten Feeds seit einem Stichdatum, klassifiziert jeden Eintrag gegen die vom deployenden Team konfigurierten Themenprofile (Finanzaufsicht, Netzregulierung, Kartellrecht, Datenschutz, Kapitalmarkt) und markiert Einträge oberhalb der Wesentlichkeitsschwelle.
 - **Digest** – erstellt nach einem abgeschlossenen Sweep einen strukturierten Bericht mit Zusammenfassung, Volltextreferenzen und handlungsempfehlenden Hinweisen. Das Aufsichtsrecht-Arbeitsmittel für den täglichen oder wöchentlichen Überwachungsrhythmus.
 
-Gleiche Quelle wie das [`regulatory-legal`](../../regulatory-legal)-Plugin — dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`. Der Sweep-Modus nutzt den `feed-monitoring`-Skill und läuft headless über eine Feed-Reader-Flotte.
+Gleiche Quelle wie das [`regulatorisches-recht`](../../regulatorisches-recht)-Plugin — dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`. Der Sweep-Modus nutzt den `aufsichts-feed-monitor`-Skill und läuft headless über eine Feed-Reader-Flotte.
 
 ## ⚠️ Vor dem Deployment
 
@@ -25,7 +25,7 @@ export ANTHROPIC_API_KEY=sk-ant-...
 export BANZ_MCP_URL=...            # Bundesanzeiger-RSS/API-Konnektor
 export BAFIN_MCP_URL=...           # BaFin-Journal-Feed-Konnektor
 export EURLEX_MCP_URL=...          # EUR-Lex-CELLAR-API-Konnektor
-export BNETZА_MCP_URL=...          # BNetzA-RSS-Konnektor
+export BNETZA_MCP_URL=...          # BNetzA-RSS-Konnektor
 ../../scripts/agentenrezept-ausliefern.sh aufsichts-monitor
 ```
 
@@ -52,7 +52,7 @@ Behördenfeeds und die darin verlinkten Dokumente sind **nicht vertrauenswürdig
 ## Anpassungshinweise
 
 - **Feed-URLs.** Setzen Sie `BANZ_MCP_URL`, `BAFIN_MCP_URL`, `EURLEX_MCP_URL` und `BNETZA_MCP_URL` auf die Endpunkte Ihres Deployments. Der Standard aktiviert alle vier Feeds. Deaktivieren Sie Feeds, die für Ihr Mandatsprofil nicht relevant sind, in der `default_config` des `feed-leser`.
-- **Themenprofile.** Die Wesentlichkeitsschwellen und Themencluster (Finanzaufsicht, Netzregulierung, Kartellrecht, Datenschutz) werden in der `CLAUDE.md` des deployenden Teams konfiguriert. Führen Sie dort `/regulatory-legal:themen-konfiguration` durch, bevor Sie den Sweep-Modus in den Live-Betrieb bringen.
+- **Themenprofile.** Die Wesentlichkeitsschwellen und Themencluster (Finanzaufsicht, Netzregulierung, Kartellrecht, Datenschutz) werden in der `CLAUDE.md` des deployenden Teams konfiguriert. Führen Sie dort `/regulatorisches-recht:themen-konfiguration` durch, bevor Sie den Sweep-Modus in den Live-Betrieb bringen.
 - **Zeitplan.** Täglich für mandatsbezogene Überwachung in aktiven Verfahren; wöchentlich für allgemeines Regulatory-Monitoring. Für BaFin-Meldungen (z. B. bei laufenden Erlaubnisverfahren nach KWG/WpIG) empfiehlt sich ein täglicher Sweep.
 - **Ausgabeziel.** Ausgaben landen in `./out/`. Leiten Sie sie über Ihre Deploy-Pipeline in Ihren Mandatsordner, SharePoint-Bereich oder iManage-Arbeitsbereich weiter. Geben Sie dem `zusammenfassung-schreiber` kein MCP zum Hochladen; eine Übergabe an Ihren Upload-Schritt ist sauberer und isoliert die Write-Stufe.
 - **Digest-Sprache.** Der `zusammenfassung-schreiber` verwendet standardmäßig Deutsch und die BGH/Beck-Zitierweise. Passen Sie den Fußnotenapparat in `./unteragenten/zusammenfassung-schreiber.yaml` an Ihre Hauszitierweise an.

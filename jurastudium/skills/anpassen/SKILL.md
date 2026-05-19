@@ -7,13 +7,14 @@ description: >
   „Bundesland aktualisieren" oder „anpassen".
 language: de
 argument-hint: "[--lernstil | --bundesland | --fach | --material | --reset]"
-triggers:
-  - "profil ändern"
-  - "lernstil wechseln"
-  - "fach hinzufügen"
-  - "bundesland aktualisieren"
-  - "anpassen"
-  - "einstellungen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - profil ändern
+  - lernstil wechseln
+  - fach hinzufügen
+  - bundesland aktualisieren
+  - anpassen
+  - einstellungen
 ---
 
 # Lernprofil anpassen

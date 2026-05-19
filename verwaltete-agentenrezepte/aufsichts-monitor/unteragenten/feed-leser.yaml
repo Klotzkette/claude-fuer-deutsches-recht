@@ -48,13 +48,13 @@ tools:
   - { type: mcp_toolset, mcp_server_name: banz,   default_config: { enabled: true  } }
   - { type: mcp_toolset, mcp_server_name: bafin,  default_config: { enabled: true  } }
   - { type: mcp_toolset, mcp_server_name: eurlex, default_config: { enabled: true  } }
-  - { type: mcp_toolset, mcp_server_name: bnetzа, default_config: { enabled: false } }
+  - { type: mcp_toolset, mcp_server_name: bnetza, default_config: { enabled: false } }
 
 mcp_servers:
   - { type: url, name: banz,   url: "${BANZ_MCP_URL}" }
   - { type: url, name: bafin,  url: "${BAFIN_MCP_URL}" }
   - { type: url, name: eurlex, url: "${EURLEX_MCP_URL}" }
-  - { type: url, name: bnetzа, url: "${BNETZA_MCP_URL}" }
+  - { type: url, name: bnetza, url: "${BNETZA_MCP_URL}" }
 
 skills: []
 callable_agents: []
@@ -66,7 +66,7 @@ output_schema:
   properties:
     feed_quelle:
       type: string
-      enum: [bundesanzeiger, bafin_journal, eur_lex, bnetzа_rss, sonstiges]
+      enum: [bundesanzeiger, bafin_journal, eur_lex, bnetza_rss, sonstiges]
     stand:        { type: string, maxLength: 32, pattern: "^[0-9T:+-]+Z?$" }
     eintraege:
       type: array
@@ -83,7 +83,7 @@ output_schema:
           doc_url:      { type: string, maxLength: 500, pattern: "^https://" }
           feed_quelle:
             type: string
-            enum: [bundesanzeiger, bafin_journal, eur_lex, bnetzа_rss, sonstiges]
+            enum: [bundesanzeiger, bafin_journal, eur_lex, bnetza_rss, sonstiges]
           doc_typ:
             type: string
             enum:
@@ -96,7 +96,7 @@ output_schema:
               - rundschreiben_bafin
               - allgemeinverfuegung
               - bekanntmachung_banz
-              - regulierungsverfuegung_bnetzа
+              - regulierungsverfuegung_bnetza
               - entgeltgenehmigung
               - frequenzzuteilung
               - sonstiges

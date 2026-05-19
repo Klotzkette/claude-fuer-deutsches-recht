@@ -7,13 +7,14 @@ description: >
   „ich werde morgen drangenommen".
 language: de
 argument-hint: "[Fall oder Thema nennen]"
-triggers:
-  - "ag-vorbereitung"
-  - "seminar vorbereiten"
-  - "aufgerufen werden"
-  - "cold call"
-  - "drangenommen"
-  - "arbeitsgemeinschaft"
+when_to_use: |
+  Trigger phrases and example requests:
+  - ag-vorbereitung
+  - seminar vorbereiten
+  - aufgerufen werden
+  - cold call
+  - drangenommen
+  - arbeitsgemeinschaft
 ---
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)

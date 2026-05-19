@@ -2,13 +2,14 @@
 name: mandat-arbeitsbereich
 description: Mandat-Workspaces verwalten (nur Kanzleibetrieb mit mehreren Mandanten). Laden, um ein neues Mandat anzulegen, zwischen Mandaten zu wechseln, ein Mandat zu schließen oder Workspaces zu deaktivieren.
 language: de
-triggers:
-  - "mandat-arbeitsbereich"
-  - "neues Mandat"
-  - "Mandat wechseln"
-  - "Mandat schließen"
-  - "Mandats-Workspace"
-  - "matter workspace"
+when_to_use: |
+  Trigger phrases and example requests:
+  - mandat-arbeitsbereich
+  - neues Mandat
+  - Mandat wechseln
+  - Mandat schließen
+  - Mandats-Workspace
+  - matter workspace
 ---
 
 # Mandat-Workspace-Verwaltung

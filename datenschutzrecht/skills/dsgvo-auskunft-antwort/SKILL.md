@@ -6,16 +6,17 @@ description: >
   Antwortentwurf. Fristen nach Art. 12 Abs. 3 DSGVO werden automatisch berechnet.
   Ausnahmen nach §§ 34, 35 BDSG werden geprüft.
 language: de
-triggers:
-  - "Betroffenenanfrage"
-  - "Auskunftsanfrage"
-  - "DSAR"
-  - "Löschantrag"
-  - "Widerspruch"
-  - "Art. 15"
-  - "Art. 17"
-  - "Art. 21"
-  - "Datenkopie"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Betroffenenanfrage
+  - Auskunftsanfrage
+  - DSAR
+  - Löschantrag
+  - Widerspruch
+  - Art. 15
+  - Art. 17
+  - Art. 21
+  - Datenkopie
 ---
 
 # Betroffenenanfragen – Art. 15–22 DSGVO

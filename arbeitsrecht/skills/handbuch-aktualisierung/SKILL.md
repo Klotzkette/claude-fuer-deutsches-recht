@@ -8,14 +8,15 @@ description: >
   Lädt, wenn jemand sagt „Handbuch aktualisieren", „neue Regelung einpflegen"
   oder „Richtlinie ändern".
 language: de
-triggers:
-  - "Personalhandbuch aktualisieren"
-  - "Handbuch ändern"
-  - "Betriebsvereinbarung anpassen"
-  - "Richtlinie einpflegen"
-  - "Arbeitsordnung überarbeiten"
-  - "betriebliche Regelung"
-  - "Folgewirkungen Handbuchänderung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Personalhandbuch aktualisieren
+  - Handbuch ändern
+  - Betriebsvereinbarung anpassen
+  - Richtlinie einpflegen
+  - Arbeitsordnung überarbeiten
+  - betriebliche Regelung
+  - Folgewirkungen Handbuchänderung
 ---
 
 # Personalhandbuch-Aktualisierung (Arbeitsrecht)

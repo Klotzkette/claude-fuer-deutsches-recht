@@ -8,16 +8,17 @@ description: >
   den Supervisor briefen oder einen gerichtlichen/behördlichen Statusbericht
   vorbereiten muss.
 language: de
-triggers:
-  - "Fallstatus"
-  - "Mandant informieren"
-  - "Supervisor briefen"
-  - "Sachstandsbericht"
-  - "Verfahrensstand"
-  - "Status für Gericht"
-  - "Statusbrief Mandant"
-  - "interner Statusbericht"
-  - "Behördenupdate"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Fallstatus
+  - Mandant informieren
+  - Supervisor briefen
+  - Sachstandsbericht
+  - Verfahrensstand
+  - Status für Gericht
+  - Statusbrief Mandant
+  - interner Statusbericht
+  - Behördenupdate
 ---
 
 # Fallstatus: Zielgruppengerechte Fallzusammenfassung

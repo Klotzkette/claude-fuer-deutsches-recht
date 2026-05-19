@@ -8,16 +8,17 @@ description: >
   Lädt, wenn der Nutzer „KI-Anwendungsfall triage", „dürfen wir KI für X
   einsetzen", „ist das freigegeben" oder „Hochrisiko-KI klassifizieren" sagt.
 language: de
-triggers:
-  - "KI-Anwendungsfall triage"
-  - "dürfen wir KI für X einsetzen"
-  - "ist das freigegeben"
-  - "KI-Use-Case prüfen"
-  - "AI Act Risikoklassifikation"
-  - "verbotene KI-Praktiken prüfen"
-  - "Hochrisiko-KI klassifizieren"
-  - "KI-Einsatz genehmigen"
-  - "Anhang III KI-VO prüfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - KI-Anwendungsfall triage
+  - dürfen wir KI für X einsetzen
+  - ist das freigegeben
+  - KI-Use-Case prüfen
+  - AI Act Risikoklassifikation
+  - verbotene KI-Praktiken prüfen
+  - Hochrisiko-KI klassifizieren
+  - KI-Einsatz genehmigen
+  - Anhang III KI-VO prüfen
 ---
 
 # KI-Anwendungsfall-Triage

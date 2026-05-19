@@ -8,13 +8,14 @@ description: >
   Erstellung des Semesterübergabe-Protokolls.
 argument-hint: "[optional: Aktenzeichen oder Mandantenkennung]"
 language: de
-triggers:
-  - "kommunikation protokollieren"
-  - "kontakt loggen"
-  - "mandantenkontakt"
-  - "mandanten-kommunikations-log"
-  - "kommunikationsverlauf"
-  - "kontaktprotokoll erstellen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - kommunikation protokollieren
+  - kontakt loggen
+  - mandantenkontakt
+  - mandanten-kommunikations-log
+  - kommunikationsverlauf
+  - kontaktprotokoll erstellen
 ---
 
 # /mandanten-kommunikations-log

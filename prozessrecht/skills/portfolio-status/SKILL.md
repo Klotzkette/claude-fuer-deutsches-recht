@@ -2,16 +2,17 @@
 name: portfolio-status
 description: Erstellt eine Übersicht des Prozessportfolios aus _log.yaml — Risikoverteilung, bevorstehende Fristen, veraltete Mandate, Wesentlichkeitssummen, Verfahrensstadien und markierte Auffälligkeiten. Lädt, wenn der Nutzer fragt „wo stehen wir", „wie viele offene Verfahren gibt es" oder eine Gesamtübersicht aller aktiven Prozessmandate benötigt.
 language: de
-triggers:
-  - "Portfolio-Übersicht"
-  - "Prozessportfolio Stand"
-  - "offene Verfahren"
-  - "Risikoübersicht Mandate"
-  - "Fristenanzeige Portfolio"
-  - "veraltete Mandate"
-  - "Mandatslage insgesamt"
-  - "Rückstellung Wesentlichkeit"
-  - "Gesamtstatus Prozesse"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Portfolio-Übersicht
+  - Prozessportfolio Stand
+  - offene Verfahren
+  - Risikoübersicht Mandate
+  - Fristenanzeige Portfolio
+  - veraltete Mandate
+  - Mandatslage insgesamt
+  - Rückstellung Wesentlichkeit
+  - Gesamtstatus Prozesse
 ---
 
 # Prozessportfolio-Status

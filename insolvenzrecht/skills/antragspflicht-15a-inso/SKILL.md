@@ -7,17 +7,18 @@ description: >
   „Antragspflicht", „Insolvenzverschleppung", „3-Wochen-Frist", „Zahlungsverbot"
   oder „§ 15a InsO" auftreten.
 language: de
-triggers:
-  - "Antragspflicht"
-  - "Insolvenzverschleppung"
-  - "§ 15a InsO"
-  - "§ 15b InsO"
-  - "3-Wochen-Frist"
-  - "6-Wochen-Frist"
-  - "Zahlungsverbot Insolvenz"
-  - "Haftung Geschäftsführer Insolvenz"
-  - "Insolvenzantrag GmbH"
-  - "Strafbarkeit Insolvenzantrag"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Antragspflicht
+  - Insolvenzverschleppung
+  - § 15a InsO
+  - § 15b InsO
+  - 3-Wochen-Frist
+  - 6-Wochen-Frist
+  - Zahlungsverbot Insolvenz
+  - Haftung Geschäftsführer Insolvenz
+  - Insolvenzantrag GmbH
+  - Strafbarkeit Insolvenzantrag
 ---
 
 # § 15a InsO — Antragspflicht, Insolvenzverschleppung und § 15b InsO Zahlungsverbot

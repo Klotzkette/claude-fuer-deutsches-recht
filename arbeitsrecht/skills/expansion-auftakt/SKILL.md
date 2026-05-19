@@ -8,15 +8,16 @@ description: >
   Lädt, wenn jemand sagt „wir stellen in [Land/Region] ein",
   „Expansion nach [Land]" oder „erste Einstellung in [Land]".
 language: de
-triggers:
-  - "Expansion"
-  - "Neueinstellung Ausland"
-  - "erste Einstellung"
-  - "AÜG-Modell"
-  - "EOR Deutschland"
-  - "Tochtergesellschaft gründen"
-  - "grenzüberschreitende Einstellung"
-  - "Scheinselbständigkeit prüfen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Expansion
+  - Neueinstellung Ausland
+  - erste Einstellung
+  - AÜG-Modell
+  - EOR Deutschland
+  - Tochtergesellschaft gründen
+  - grenzüberschreitende Einstellung
+  - Scheinselbständigkeit prüfen
 ---
 
 # Expansions-Kickoff (Arbeitsrecht)

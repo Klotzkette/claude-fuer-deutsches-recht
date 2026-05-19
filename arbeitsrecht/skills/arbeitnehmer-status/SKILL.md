@@ -2,14 +2,15 @@
 name: arbeitnehmer-status
 description: Statusfeststellung für eine geplante Beschäftigung – Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AÜG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv – für bestehende Verhältnisse Außenberater einschalten.
 language: de
-triggers:
-  - "arbeitnehmer-status"
-  - "scheinselbständigkeit"
-  - "arbeitnehmer oder selbständig"
-  - "worker classification"
-  - "freier mitarbeiter"
-  - "honorarvertrag prüfen"
-  - "§ 7a sgb iv"
+when_to_use: |
+  Trigger phrases and example requests:
+  - arbeitnehmer-status
+  - scheinselbständigkeit
+  - arbeitnehmer oder selbständig
+  - worker classification
+  - freier mitarbeiter
+  - honorarvertrag prüfen
+  - § 7a sgb iv
 argument-hint: "[Beschreibung der geplanten Beschäftigung oder Honorarvertragsentwurf]"
 ---
 

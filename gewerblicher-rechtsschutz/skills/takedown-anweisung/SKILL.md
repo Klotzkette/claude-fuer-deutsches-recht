@@ -7,16 +7,17 @@ description: >
   einer Meldung an einen Hostprovider, der Triagierung einer eingegangenen
   Meldung oder der Formulierung einer Gegendarstellung.
 language: de
-triggers:
-  - "Take-Down Meldung"
-  - "Notice and Take Down Deutschland"
-  - "Hostprovider Haftung"
-  - "DSA Meldung"
-  - "Störerhaftung"
-  - "Urheberrechtsverletzung Internet"
-  - "Plattform Meldeverfahren"
-  - "Gegenvorstellung Meldung"
-  - "§ 7 TMG DDG Haftung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Take-Down Meldung
+  - Notice and Take Down Deutschland
+  - Hostprovider Haftung
+  - DSA Meldung
+  - Störerhaftung
+  - Urheberrechtsverletzung Internet
+  - Plattform Meldeverfahren
+  - Gegenvorstellung Meldung
+  - § 7 TMG DDG Haftung
 ---
 
 # Notice-and-Take-Down / Meldeverfahren

@@ -7,12 +7,13 @@ description: >
   neue Registry zur Watchlist hinzufügen möchte.
 argument-hint: "[Suchbegriff]"
 language: de
-triggers:
-  - "skills suchen"
-  - "registry durchsuchen"
-  - "was gibt es für"
-  - "skill finden"
-  - "verzeichnis-durchsuchen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - skills suchen
+  - registry durchsuchen
+  - was gibt es für
+  - skill finden
+  - verzeichnis-durchsuchen
 ---
 
 # /verzeichnis-durchsuchen — Skill-Registry-Browser

@@ -8,17 +8,18 @@ description: >
   wechseln", „Mandate auflisten", „Mandat schließen" oder wenn der Nutzer nur auf
   Praxisebene arbeiten möchte.
 language: de
-triggers:
-  - "neues Mandat"
-  - "Mandat anlegen"
-  - "Mandat wechseln"
-  - "Mandate auflisten"
-  - "Mandat schließen"
-  - "Mandatsworkspace"
-  - "Datenraum-Phase"
-  - "NDA-Phase"
-  - "LOI"
-  - "SPA-Verhandlung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - neues Mandat
+  - Mandat anlegen
+  - Mandat wechseln
+  - Mandate auflisten
+  - Mandat schließen
+  - Mandatsworkspace
+  - Datenraum-Phase
+  - NDA-Phase
+  - LOI
+  - SPA-Verhandlung
 argument-hint: "<neu | liste | wechseln | schließen | keine> [slug]"
 ---
 

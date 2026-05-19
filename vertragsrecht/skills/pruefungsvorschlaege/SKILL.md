@@ -7,14 +7,15 @@ description: >
   „Playbook-Vorschläge prüfen", „welche Playbook-Updates sind ausstehend" oder
   „Abweichungsvorschläge durchgehen" sagt.
 language: de
-triggers:
-  - "Playbook-Vorschläge"
-  - "Regelwerk-Vorschläge"
-  - "Abweichungsvorschläge"
-  - "Playbook aktualisieren"
-  - "ausstehende Vorschläge"
-  - "Klauselvorschläge genehmigen"
-  - "Verhandlungspositionen anpassen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Playbook-Vorschläge
+  - Regelwerk-Vorschläge
+  - Abweichungsvorschläge
+  - Playbook aktualisieren
+  - ausstehende Vorschläge
+  - Klauselvorschläge genehmigen
+  - Verhandlungspositionen anpassen
 ---
 
 # Playbook-Vorschläge prüfen und genehmigen

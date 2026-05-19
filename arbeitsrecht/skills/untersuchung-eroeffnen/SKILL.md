@@ -7,14 +7,15 @@ description: >
   eingeht und ein vertraulicher Untersuchungsarbeitsbereich eingerichtet
   werden soll.
 language: de
-triggers:
-  - "Untersuchung eröffnen"
-  - "Untersuchung einleiten"
-  - "Beschwerde untersuchen"
-  - "interne Untersuchung starten"
-  - "Ermittlung eröffnen"
-  - "Hinweisgebersache eröffnen"
-  - "Verdacht untersuchen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Untersuchung eröffnen
+  - Untersuchung einleiten
+  - Beschwerde untersuchen
+  - interne Untersuchung starten
+  - Ermittlung eröffnen
+  - Hinweisgebersache eröffnen
+  - Verdacht untersuchen
 ---
 
 # Untersuchungseröffnung (Arbeitsrecht)

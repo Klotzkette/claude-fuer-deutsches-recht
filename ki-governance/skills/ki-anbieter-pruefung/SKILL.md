@@ -8,16 +8,17 @@ description: >
   wenn der Nutzer „KI-Vertrag prüfen", „Anbietervertrag KI", „AI Act
   Art. 25 Vertragspflichten" oder „KI-AGB prüfen" sagt.
 language: de
-triggers:
-  - "KI-Vertrag prüfen"
-  - "Anbietervertrag KI"
-  - "KI-Zusatzvereinbarung prüfen"
-  - "AI Act Art. 25 Vertragspflichten"
-  - "Anbieter Betreiber Vertrag KI"
-  - "Training auf unseren Daten"
-  - "KI-Haftungsklauseln"
-  - "KI-AGB prüfen"
-  - "Modelländerungsbenachrichtigung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - KI-Vertrag prüfen
+  - Anbietervertrag KI
+  - KI-Zusatzvereinbarung prüfen
+  - AI Act Art. 25 Vertragspflichten
+  - Anbieter Betreiber Vertrag KI
+  - Training auf unseren Daten
+  - KI-Haftungsklauseln
+  - KI-AGB prüfen
+  - Modelländerungsbenachrichtigung
 ---
 
 # KI-Anbieterprüfung

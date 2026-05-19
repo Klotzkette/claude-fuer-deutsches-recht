@@ -9,16 +9,17 @@ description: >
   Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen
   ausscheidenden Studierenden abmelden müssen.
 language: de
-triggers:
-  - "Semesterübergabe"
-  - "Fallübergabe"
-  - "Kohorte abschließen"
-  - "Mandatsübergabe"
-  - "Abschluss Semester"
-  - "nächste Kohorte"
-  - "Exmatrikulation Beratungsstelle"
-  - "Mandantenakten übergeben"
-  - "Fallakte weiterleiten"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Semesterübergabe
+  - Fallübergabe
+  - Kohorte abschließen
+  - Mandatsübergabe
+  - Abschluss Semester
+  - nächste Kohorte
+  - Exmatrikulation Beratungsstelle
+  - Mandantenakten übergeben
+  - Fallakte weiterleiten
 ---
 
 # Semesterübergabe

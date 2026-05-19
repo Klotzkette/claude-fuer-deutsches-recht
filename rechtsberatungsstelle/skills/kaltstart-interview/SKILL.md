@@ -8,12 +8,13 @@ description: >
   oder grundlegender Neuausrichtung der Beratungsstelle.
 argument-hint: "[--redo zum vollständigen Neustart]"
 language: de
-triggers:
-  - "beratungsstelle einrichten"
-  - "ersteinrichtung"
-  - "cold-start"
-  - "konfiguration"
-  - "new clinic"
+when_to_use: |
+  Trigger phrases and example requests:
+  - beratungsstelle einrichten
+  - ersteinrichtung
+  - cold-start
+  - konfiguration
+  - new clinic
 ---
 
 # /kaltstart-interview

@@ -68,5 +68,5 @@ tools:
       - { name: write, enabled: true }
 mcp_servers: []
 skills:
-  - { path: ../../../regulatory-legal/skills/feed-monitoring }
+  - { path: ../../../regulatorisches-recht/skills/aufsichts-feed-monitor }
 callable_agents: []

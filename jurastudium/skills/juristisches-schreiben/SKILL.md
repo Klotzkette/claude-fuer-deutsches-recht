@@ -6,17 +6,18 @@ description: >
   Nutzer „Feedback auf meine Hausarbeit", „Gliederung prüfen", „meinen Aufsatz kommentieren"
   oder „Stilfehler zeigen" sagt.
 language: de
-triggers:
-  - "Hausarbeit Feedback"
-  - "Seminararbeit prüfen"
-  - "Aufsatz kommentieren"
-  - "juristische Schreibweise"
-  - "Gliederung prüfen"
-  - "Stilfehler Jura"
-  - "Dissertation Feedback"
-  - "JuS Aufsatz"
-  - "wissenschaftlicher Stil"
-  - "Klausur Urteilsstil"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Hausarbeit Feedback
+  - Seminararbeit prüfen
+  - Aufsatz kommentieren
+  - juristische Schreibweise
+  - Gliederung prüfen
+  - Stilfehler Jura
+  - Dissertation Feedback
+  - JuS Aufsatz
+  - wissenschaftlicher Stil
+  - Klausur Urteilsstil
 ---
 
 # Juristische Schreibberatung

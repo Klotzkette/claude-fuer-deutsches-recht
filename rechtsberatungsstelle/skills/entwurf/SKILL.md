@@ -9,16 +9,17 @@ description: >
   Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks
   der Klinik benötigt.
 language: de
-triggers:
-  - "Schriftsatz entwerfen"
-  - "Widerspruch formulieren"
-  - "Klageschrift Entwurf"
-  - "Mahnschreiben"
-  - "Mietrecht Brief"
-  - "Beratungshilfe Antrag"
-  - "Erstantrag formulieren"
-  - "PKH Antrag"
-  - "Schutzschrift"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Schriftsatz entwerfen
+  - Widerspruch formulieren
+  - Klageschrift Entwurf
+  - Mahnschreiben
+  - Mietrecht Brief
+  - Beratungshilfe Antrag
+  - Erstantrag formulieren
+  - PKH Antrag
+  - Schutzschrift
 ---
 
 # Schriftsatzentwurf: Erstentwurf-Erstellung

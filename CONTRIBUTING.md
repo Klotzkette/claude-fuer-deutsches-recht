@@ -7,7 +7,7 @@ Beiträge sind willkommen – insbesondere zu neuen Rechtsgebieten, aktuelleren 
 - [ ] Sprache deutsch.
 - [ ] Zitierweise nach [`references/zitierweise.md`](./references/zitierweise.md).
 - [ ] Methodik nach [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md).
-- [ ] Skill-Frontmatter vollständig (`name`, `description`, `language: de`).
+- [ ] Skill-Frontmatter vollständig (`name`, `description`, `when_to_use`).
 - [ ] Skills sind kanzleitauglich (reproduzierbar, mit Quellenpflicht, mit Fristlogik wo relevant).
 - [ ] Keine Mandantendaten / personenbezogene Daten im Beispiel.
 - [ ] `python scripts/validate.py` läuft fehlerfrei.
@@ -26,9 +26,8 @@ Beiträge sind willkommen – insbesondere zu neuen Rechtsgebieten, aktuelleren 
 name: Kurzname
 description: Wann lädt Claude diesen Skill?
 language: de
-triggers:
-  - "Kündigung"
-  - "KSchG"
+when_to_use: |
+  Kündigung, KSchG, arbeitsrechtliche Beendigung
 ---
 ```
 

@@ -6,13 +6,14 @@ description: >
   Erklärungen. Erkennt Inkonsistenzen und entwirft Aktualisierungen.
   Zweiter Modus: Direkt-Anfrage für konkrete geplante Änderungen.
 language: de
-triggers:
-  - "Policy-Monitor"
-  - "Datenschutzerklärung prüfen"
-  - "policy drift"
-  - "Richtlinie aktualisieren"
-  - "Datenschutzerklärung veraltet"
-  - "Consent Management"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Policy-Monitor
+  - Datenschutzerklärung prüfen
+  - policy drift
+  - Richtlinie aktualisieren
+  - Datenschutzerklärung veraltet
+  - Consent Management
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung

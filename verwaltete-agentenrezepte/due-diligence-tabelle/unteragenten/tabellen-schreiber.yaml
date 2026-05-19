@@ -96,5 +96,5 @@ tools:
       - { name: write, enabled: true }
 mcp_servers: []
 skills:
-  - { path: ../../../corporate-legal/skills/tabellenpruefung }
+  - { path: ../../../gesellschaftsrecht/skills/tabellenpruefung }
 callable_agents: []

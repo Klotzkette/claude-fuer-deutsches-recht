@@ -8,13 +8,14 @@ description: >
   Anleiter einen neuen Leitfaden aufbauen oder einen bestehenden überarbeiten will.
 argument-hint: "[optional: Fachbereich – z. B. 'asyl', 'sgbii', 'mietrecht']"
 language: de
-triggers:
-  - "leitfaden erstellen"
-  - "beratungsstelle aufbauen"
-  - "guide konfigurieren"
-  - "leitfaden-erstellen"
-  - "rdg-praxisleitfaden"
-  - "anleiter-konfiguration"
+when_to_use: |
+  Trigger phrases and example requests:
+  - leitfaden erstellen
+  - beratungsstelle aufbauen
+  - guide konfigurieren
+  - leitfaden-erstellen
+  - rdg-praxisleitfaden
+  - anleiter-konfiguration
 ---
 
 # /leitfaden-erstellen

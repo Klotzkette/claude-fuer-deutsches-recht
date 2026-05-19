@@ -7,15 +7,16 @@ description: >
   „Plugin einrichten", „Profil erstellen", „Erstgespräch starten" oder
   „Vertragsmandat aufnehmen" sagt.
 language: de
-triggers:
-  - "Plugin einrichten"
-  - "Erstgespräch"
-  - "Mandatsaufnahme"
-  - "Profil erstellen"
-  - "Vertragsrecht konfigurieren"
-  - "Kanzleiprofil"
-  - "Playbook erstellen"
-  - "Neueinrichtung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Plugin einrichten
+  - Erstgespräch
+  - Mandatsaufnahme
+  - Profil erstellen
+  - Vertragsrecht konfigurieren
+  - Kanzleiprofil
+  - Playbook erstellen
+  - Neueinrichtung
 ---
 
 # Erstgespräch Vertragsrecht — Mandatsaufnahme

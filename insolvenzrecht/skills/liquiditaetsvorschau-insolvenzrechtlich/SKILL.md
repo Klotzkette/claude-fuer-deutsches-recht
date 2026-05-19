@@ -7,17 +7,18 @@ description: >
   ist, eine Liquiditätsbilanz für Gericht oder Insolvenzverwalter erstellt werden soll, oder die
   13-Wochen- bzw. 24-Monats-Vorschau nach IDW S 11 zu konstruieren ist.
 language: de
-triggers:
-  - "Liquiditätsvorschau"
-  - "Liquiditätsbilanz"
-  - "Zahlungsunfähigkeit nachweisen"
-  - "13-Wochen-Vorschau"
-  - "24-Monats-Vorschau"
-  - "Fortbestehensprognose"
-  - "§ 17 InsO Liquidität"
-  - "Zahlungsunfähigkeitszeitpunkt"
-  - "Liquiditätslücke"
-  - "IDW S 11 Liquiditätsplanung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Liquiditätsvorschau
+  - Liquiditätsbilanz
+  - Zahlungsunfähigkeit nachweisen
+  - 13-Wochen-Vorschau
+  - 24-Monats-Vorschau
+  - Fortbestehensprognose
+  - § 17 InsO Liquidität
+  - Zahlungsunfähigkeitszeitpunkt
+  - Liquiditätslücke
+  - IDW S 11 Liquiditätsplanung
 ---
 
 # Liquiditätsvorschau als insolvenzrechtliches Beweismittel

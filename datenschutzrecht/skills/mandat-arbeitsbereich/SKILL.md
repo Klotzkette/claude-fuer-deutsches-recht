@@ -5,12 +5,13 @@ description: >
   schließen. Stellt sicher, dass Datenschutzmandate mandatsübergreifend isoliert bleiben
   (kein Kontext-Leak zwischen Mandaten). Für internen Unternehmenseinsatz nicht relevant.
 language: de
-triggers:
-  - "Mandat anlegen"
-  - "Mandatswechsel"
-  - "mandat-arbeitsbereich"
-  - "neues Mandat"
-  - "Mandatsübersicht"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Mandat anlegen
+  - Mandatswechsel
+  - mandat-arbeitsbereich
+  - neues Mandat
+  - Mandatsübersicht
 ---
 
 # Mandat-Arbeitsbereich – Mehrmandat-Kanzlei

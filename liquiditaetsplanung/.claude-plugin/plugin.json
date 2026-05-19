@@ -1,13 +1,17 @@
 {
   "name": "liquiditaetsplanung",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rollierende Liquiditätsvorschau und Krisenfrüherkennung nach deutschem Recht: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134 – 10-%-Lücke / 3-Wochen-Horizont), integrierter 13/26/52-Wochen-Plan mit Ampel, Fortführungsprognose nach IDW S 6/S 11 und insolvenzrechtliche Liquiditätsanalyse §§ 17/18/19 InsO. Bündelt die Liquiditätsplanungs-Skills aus Steuerberater- und Insolvenzrecht-Perspektive.",
-  "language": "de",
-  "rechtsgebiet": "Krisenfrüherkennung, Sanierung, Insolvenzrecht",
   "license": "Apache-2.0 OR MIT",
-  "author": { "name": "Klotzkette" },
+  "author": {
+    "name": "Klotzkette"
+  },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
-  "tags": [
+  "dependencies": [
+    "steuerberater-werkzeuge",
+    "insolvenzrecht"
+  ],
+  "keywords": [
     "liquiditaetsplanung",
     "liquiditaetsvorschau",
     "13-wochen-forecast",

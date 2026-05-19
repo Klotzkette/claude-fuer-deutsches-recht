@@ -1,8 +1,10 @@
 {
   "name": "steuerberater-werkzeuge",
   "description": "Werkzeugbox für Steuerberater und Geschäftsleitung kleiner GmbHs/UGs: BWA-, SuSa- und Belegprüfung, Krisenfrüherkennung (§§ 17, 19 InsO, § 1 StaRUG, § 102 StaRUG-Warnpflicht). Für die rollierende Liquiditätsplanung siehe das eigene Plugin `liquiditaetsplanung`.",
-  "version": "0.1.0",
-  "author": { "name": "Klotzkette" },
+  "version": "0.1.1",
+  "author": {
+    "name": "Klotzkette"
+  },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
   "license": "Apache-2.0 OR MIT"
 }

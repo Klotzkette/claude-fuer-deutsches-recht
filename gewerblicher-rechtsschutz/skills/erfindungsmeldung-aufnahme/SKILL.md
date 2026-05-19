@@ -7,15 +7,16 @@ description: >
   Erfindungsmeldung eingereicht wird und eine Ersteinschätzung zu Anmeldung,
   Weiterverfolgung oder Ablehnung benötigt wird.
 language: de
-triggers:
-  - "Erfindungsmeldung"
-  - "Arbeitnehmererfindung"
-  - "Patentanmeldung prüfen"
-  - "Inanspruchnahme Erfindung"
-  - "technische Schutzrechte"
-  - "Neuheitsprüfung"
-  - "Schutzrechtsstrategie Patent"
-  - "ArbnErfG Meldung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Erfindungsmeldung
+  - Arbeitnehmererfindung
+  - Patentanmeldung prüfen
+  - Inanspruchnahme Erfindung
+  - technische Schutzrechte
+  - Neuheitsprüfung
+  - Schutzrechtsstrategie Patent
+  - ArbnErfG Meldung
 ---
 
 # Erfindungseingang — Erstprüfung

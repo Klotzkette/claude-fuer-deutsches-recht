@@ -6,17 +6,18 @@ description: >
   „Marketingaussagen freigeben", „UWG-Prüfung", „Health Claims", „klimaneutral
   prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt.
 language: de
-triggers:
-  - "Werbetext prüfen"
-  - "Marketingaussagen prüfen"
-  - "UWG-Prüfung"
-  - "Health Claims"
-  - "klimaneutral Werbung"
-  - "Werbeaussagen freigeben"
-  - "irreführende Werbung"
-  - "vergleichende Werbung"
-  - "Influencer-Werbung"
-  - "Heilmittelwerbegesetz"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Werbetext prüfen
+  - Marketingaussagen prüfen
+  - UWG-Prüfung
+  - Health Claims
+  - klimaneutral Werbung
+  - Werbeaussagen freigeben
+  - irreführende Werbung
+  - vergleichende Werbung
+  - Influencer-Werbung
+  - Heilmittelwerbegesetz
 ---
 
 # Werbeaussagen-Prüfung (Marketing Claims Review)

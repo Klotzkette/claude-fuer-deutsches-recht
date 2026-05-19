@@ -6,13 +6,14 @@ description: >
   „Datenraum prüfen", „DD-Issues extrahieren aus [Ordner]", „Due-Diligence-Prüfung",
   „was ist im VDR" sagt oder auf VDR-Dokumente hinweist.
 language: de
-triggers:
-  - "Datenraum prüfen"
-  - "DD-Issues"
-  - "Due Diligence"
-  - "VDR-Prüfung"
-  - "Findings-Report"
-  - "Datenraum-Dokumente"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Datenraum prüfen
+  - DD-Issues
+  - Due Diligence
+  - VDR-Prüfung
+  - Findings-Report
+  - Datenraum-Dokumente
 ---
 
 # DD-Issue-Extraktion (Findings-Report)

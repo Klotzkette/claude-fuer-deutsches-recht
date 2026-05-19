@@ -7,16 +7,17 @@ description: >
   Lädt, wenn CLAUDE.md noch [PLATZHALTER]-Marker enthält, bei Neumandat (--neues-mandat)
   oder zur Überprüfung von Integrationen (--integrationen-pruefen).
 language: de
-triggers:
-  - "Ersteinrichtung"
-  - "Praxisprofil einrichten"
-  - "cold-start"
-  - "Setup starten"
-  - "Mandatsprofil anlegen"
-  - "Konfiguration aktualisieren"
-  - "neues Mandat"
-  - "Integrationen prüfen"
-  - "Profil neu aufsetzen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Ersteinrichtung
+  - Praxisprofil einrichten
+  - cold-start
+  - Setup starten
+  - Mandatsprofil anlegen
+  - Konfiguration aktualisieren
+  - neues Mandat
+  - Integrationen prüfen
+  - Profil neu aufsetzen
 argument-hint: "[--redo | --neues-mandat | --integrationen-pruefen | --modul [ma | aufsichtsrat | kapitalmarkt | gesellschaften]]"
 ---
 

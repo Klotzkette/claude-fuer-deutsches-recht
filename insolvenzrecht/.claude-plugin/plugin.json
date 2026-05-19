@@ -1,13 +1,13 @@
 {
   "name": "insolvenzrecht",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Insolvenzrechtliche Skills: Liquiditätsvorschau zur Prüfung der Zahlungsunfähigkeit (§ 17 InsO), Überschuldungsstatus (§ 19 InsO) mit Fortbestehensprognose, Antragspflicht des Geschäftsleiters (§ 15a InsO), Gläubigerantrag-Prüfung. Praxis für Insolvenzverwalter, beratende Anwälte, Geschäftsführer, Sanierungsberater (StaRUG) und Wirtschaftsprüfer. Maßgeblich BGH-Rechtsprechung sowie IDW S 11/S 9/S 6.",
-  "language": "de",
-  "rechtsgebiet": "Insolvenz- und Sanierungsrecht",
   "license": "Apache-2.0 OR MIT",
-  "author": "Klotzkette",
+  "author": {
+    "name": "Klotzkette"
+  },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
-  "tags": [
+  "keywords": [
     "insolvenzrecht",
     "zahlungsunfaehigkeit",
     "ueberschuldung",

@@ -2,15 +2,16 @@
 name: betriebsrat-anhoerung
 description: Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll.
 language: de
-triggers:
-  - "Betriebsratsanhörung"
-  - "BR-Anhörung"
-  - "§ 102 BetrVG"
-  - "Betriebsrat Kündigung"
-  - "Anhörung Betriebsrat"
-  - "Anhörungsfehler Kündigung"
-  - "Widerspruch Betriebsrat"
-  - "Weiterbeschäftigung Widerspruch BR"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Betriebsratsanhörung
+  - BR-Anhörung
+  - § 102 BetrVG
+  - Betriebsrat Kündigung
+  - Anhörung Betriebsrat
+  - Anhörungsfehler Kündigung
+  - Widerspruch Betriebsrat
+  - Weiterbeschäftigung Widerspruch BR
 ---
 
 # Betriebsratsanhörung vor Kündigung (§ 102 BetrVG)

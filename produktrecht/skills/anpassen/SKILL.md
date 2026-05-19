@@ -8,12 +8,13 @@ description: >
   [Ding] ändern", „mein Profil aktualisieren", „mein Framework bearbeiten",
   „meine Kalibrierung anpassen" oder „anpassen".
 language: de
-triggers:
-  - "anpassen"
-  - "konfiguration ändern"
-  - "profil aktualisieren"
-  - "framework bearbeiten"
-  - "kalibrierung anpassen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - anpassen
+  - konfiguration ändern
+  - profil aktualisieren
+  - framework bearbeiten
+  - kalibrierung anpassen
 argument-hint: "[Abschnittsname, oder beschreiben was Sie ändern möchten]"
 ---
 

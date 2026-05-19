@@ -11,15 +11,16 @@ description: >
   fragt „Ist dieser Skill gut gestaltet?" Läuft automatisch als Teil des
   Skill-Installers.
 language: de
-triggers:
-  - "Skill prüfen"
-  - "Skill-Qualitätsprüfung"
-  - "Skill bewerten"
-  - "Ist dieser Skill vertrauenswürdig"
-  - "Skill-QA durchführen"
-  - "Skill auf Sicherheit prüfen"
-  - "Community-Skill analysieren"
-  - "Skill-Design bewerten"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Skill prüfen
+  - Skill-Qualitätsprüfung
+  - Skill bewerten
+  - Ist dieser Skill vertrauenswürdig
+  - Skill-QA durchführen
+  - Skill auf Sicherheit prüfen
+  - Community-Skill analysieren
+  - Skill-Design bewerten
 argument-hint: "[Skill-Pfad | SKILL.md-Pfad | Inhalt einfügen]"
 ---
 

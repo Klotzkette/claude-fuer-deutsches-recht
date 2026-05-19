@@ -9,7 +9,7 @@ Zwei Modi:
 - **Prüfung** – durchsucht das konfigurierte Vertragsarchiv nach Verträgen mit ablaufenden Fristen innerhalb eines konfigurierten Vorlauffensters (z. B. 30–90 Tage), berechnet Verlängerungs- und Kündigungsfristen nach dem anwendbaren Recht und markiert Abweichungen vom Vertragsplaybook des Mandanten.
 - **Alert** – erstellt nach einer abgeschlossenen Prüfung einen strukturierten Bericht mit Fristenliste, Handlungsempfehlungen und Eskalationsvorschlägen. Das Vertragsmanagement-Arbeitsmittel für den wöchentlichen oder monatlichen Prüfungsrhythmus.
 
-Gleiche Quelle wie das [`commercial-legal`](../../commercial-legal)-Plugin — dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`. Der Prüfmodus nutzt den `contract-monitoring`-Skill und läuft headless über eine Repo-Reader-Flotte.
+Gleiche Quelle wie das [`vertragsrecht`](../../vertragsrecht)-Plugin — dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`. Der Prüfmodus nutzt den `vertragsverlaengerungs-monitor`-Skill und läuft headless über eine Repo-Reader-Flotte.
 
 ## ⚠️ Vor dem Deployment
 

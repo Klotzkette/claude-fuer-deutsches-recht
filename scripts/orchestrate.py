@@ -49,7 +49,10 @@ import anthropic
 import jsonschema
 
 ALLOWED_TARGETS = {
-    "reg-monitor", "verlaengerungs-monitor", "diligence-grid", "launch-radar", "terminkalender-monitor",
+    "aufsichts-monitor",
+    "verlaengerungs-monitor",
+    "due-diligence-tabelle",
+    "gerichtskalender-monitor",
 }
 
 # Closed schema of permitted handoff intents. Parameters are typed and

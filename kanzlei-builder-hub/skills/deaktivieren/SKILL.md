@@ -7,14 +7,15 @@ description: >
   aber behalten möchte, oder einen zuvor deaktivierten Skill wieder aktivieren möchte.
 argument-hint: "[Skillname]"
 language: de
-triggers:
-  - "skill deaktivieren"
-  - "skill stilllegen"
-  - "disable"
-  - "deaktivieren"
-  - "skill abschalten"
-  - "skill pausieren"
-  - "skill vorübergehend sperren"
+when_to_use: |
+  Trigger phrases and example requests:
+  - skill deaktivieren
+  - skill stilllegen
+  - disable
+  - deaktivieren
+  - skill abschalten
+  - skill pausieren
+  - skill vorübergehend sperren
 ---
 
 # /deaktivieren — Skill deaktivieren (ohne Dateilöschung)
@@ -65,7 +66,7 @@ Den Deaktivierungs-Arbeitsablauf aus dem `skill-verwalter`-Referenz-Skill ausfü
 Folgende Umbenennungen vorbereiten:
 - `SKILL.md` → `SKILL.md.disabled` (Claude entdeckt den Skill nicht mehr als aktiven Skill)
 - `ausloeser/ausloeser.json` → `ausloeser/ausloeser.json.disabled` (falls vorhanden — verhindert automatisches Auslösen)
-- Alle Agentendateien `agenten/*.md` → `agenten/*.md.disabled` (falls vorhanden — stoppt geplante Agenten)
+- Alle Agentendateien `agents/*.md` → `agents/*.md.disabled` (falls vorhanden — stoppt geplante Agenten)
 
 ### Schritt 3: Bestätigen
 
@@ -107,7 +108,7 @@ Wenn der Nutzer einen Skill nennt, dessen neueste Protokollaktion `deaktivieren`
 1. Umbenennung rückgängig machen:
    - `SKILL.md.disabled` → `SKILL.md`
    - `ausloeser.json.disabled` → `ausloeser.json` (falls vorhanden)
-   - `agenten/*.md.disabled` → `agenten/*.md` (falls vorhanden)
+   - `agents/*.md.disabled` → `agents/*.md` (falls vorhanden)
 2. Umbenennungsliste anzeigen
 3. „Skill reaktivieren? (ja / nein)" — nur bei `ja` fortfahren
 4. Protokolleintrag mit `action: enable` anhängen
@@ -149,7 +150,7 @@ Skill deaktivieren? (ja / nein): ja
 ## Risiken und typische Fehler
 
 - **Automatische Auslöser übersehen:** Falls ein Skill `ausloeser/ausloeser.json` enthält und diese Datei nicht umbenannt wird, können automatische Auslöser weiterhin feuern. Dieser Skill benennt die Auslöserdatei immer mit um.
-- **Agentendateien übersehen:** Geplante Agenten in `agenten/*.md` müssen ebenfalls deaktiviert werden.
+- **Agentendateien übersehen:** Geplante Agenten in `agents/*.md` müssen ebenfalls deaktiviert werden.
 - **Deaktivierung mit Deinstallation verwechseln:** `deaktivieren` entfernt keine Dateien. Für vollständige Entfernung: `/kanzlei-builder-hub:deinstallieren`.
 
 ## Was dieser Skill nicht tut

@@ -1,13 +1,8 @@
 {
   "name": "jurastudium",
-  "version": "1.0.0-de.1",
+  "version": "1.0.0-de.2",
   "description": "Studium und Referendariat – Sokratisches Drilling, Fallbearbeitung im Gutachtenstil, 1. und 2. Staatsexamen, Klausurkorrektur, Lernplanung.",
-  "language": "de",
   "author": {
     "name": "Klotzkette"
-  },
-  "adapted_from": {
-    "name": "anthropics/claude-for-legal",
-    "license": "MIT"
   }
 }

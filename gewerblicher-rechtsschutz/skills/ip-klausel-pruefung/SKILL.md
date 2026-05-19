@@ -7,16 +7,17 @@ description: >
   Verträgen mit IP-Bezug sowie bei Fragen zu Abtretungssprache oder
   Lizenzumfang.
 language: de
-triggers:
-  - "IP-Klausel prüfen"
-  - "Nutzungsrechtsklausel"
-  - "Urheberrechtsübertragung Vertrag"
-  - "Lizenzvertrag prüfen"
-  - "Arbeitsvertrag Schutzrechte"
-  - "Dienstvertrag IP"
-  - "Vertragsreview gewerblicher Rechtsschutz"
-  - "Abtretung Patent Marke"
-  - "Open Source Klausel"
+when_to_use: |
+  Trigger phrases and example requests:
+  - IP-Klausel prüfen
+  - Nutzungsrechtsklausel
+  - Urheberrechtsübertragung Vertrag
+  - Lizenzvertrag prüfen
+  - Arbeitsvertrag Schutzrechte
+  - Dienstvertrag IP
+  - Vertragsreview gewerblicher Rechtsschutz
+  - Abtretung Patent Marke
+  - Open Source Klausel
 ---
 
 # IP-Klausel-Prüfung

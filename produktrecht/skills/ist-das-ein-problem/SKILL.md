@@ -8,13 +8,14 @@ description: >
   die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit
   Quellen – keine ausführliche Analyse.
 language: de
-triggers:
-  - "ist das ein problem"
-  - "kurze frage"
-  - "können wir das"
-  - "schnellprüfung"
-  - "darf ich"
-  - "plausibilitätsprüfung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - ist das ein problem
+  - kurze frage
+  - können wir das
+  - schnellprüfung
+  - darf ich
+  - plausibilitätsprüfung
 argument-hint: "[die Frage]"
 ---
 

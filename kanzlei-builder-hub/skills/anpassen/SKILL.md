@@ -7,12 +7,13 @@ description: >
   ändern möchte — ohne das vollständige kaltstart-interview zu wiederholen.
 argument-hint: "[--profil | --positivliste | --registries | --updates | --tom | Abschnittsname]"
 language: de
-triggers:
-  - "kanzleiprofil anpassen"
-  - "positivliste bearbeiten"
-  - "registry hinzufügen"
-  - "einstellungen ändern"
-  - "anpassen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - kanzleiprofil anpassen
+  - positivliste bearbeiten
+  - registry hinzufügen
+  - einstellungen ändern
+  - anpassen
 ---
 
 # /anpassen — Kanzleiprofil und Einstellungen anpassen

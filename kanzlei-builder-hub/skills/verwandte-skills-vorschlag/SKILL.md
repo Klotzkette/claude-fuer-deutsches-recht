@@ -7,12 +7,13 @@ description: >
   „Was gibt es sonst noch", oder wenn Skill-Empfehlungen gewünscht werden; läuft auch passiv
   am Ende von Abläufe anderer Plugins.
 language: de
-triggers:
-  - "gibt es einen skill dafür"
-  - "was gibt es noch"
-  - "skill empfehlung"
-  - "verwandte-skills-vorschlag"
-  - "verwandte skills"
+when_to_use: |
+  Trigger phrases and example requests:
+  - gibt es einen skill dafür
+  - was gibt es noch
+  - skill empfehlung
+  - verwandte-skills-vorschlag
+  - verwandte skills
 ---
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung

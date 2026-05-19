@@ -9,15 +9,16 @@ description: >
   X einführen — brauchen wir eine Richtlinienänderung" oder
   „Policy-Monitor starten" sagt.
 language: de
-triggers:
-  - "Richtlinien-Sweep"
-  - "KI-Richtlinie prüfen"
-  - "AI-Act-Konformität überwachen"
-  - "deckt unsere Richtlinie das ab"
-  - "Policy-Drift erkennen"
-  - "neue KI-Praxis prüfen"
-  - "Policy-Monitor starten"
-  - "KI-Governance-Überwachung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Richtlinien-Sweep
+  - KI-Richtlinie prüfen
+  - AI-Act-Konformität überwachen
+  - deckt unsere Richtlinie das ab
+  - Policy-Drift erkennen
+  - neue KI-Praxis prüfen
+  - Policy-Monitor starten
+  - KI-Governance-Überwachung
 ---
 
 # KI-Richtlinien-Monitor

@@ -2,15 +2,16 @@
 name: aufhebungsvertrag
 description: Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte.
 language: de
-triggers:
-  - "Aufhebungsvertrag"
-  - "Aufhebungsvertrag prüfen"
-  - "Aufhebungsvertrag entwerfen"
-  - "Sperrzeit Arbeitslosengeld"
-  - "Abfindung Aufhebungsvertrag"
-  - "§ 623 BGB"
-  - "einvernehmliche Beendigung Arbeitsverhältnis"
-  - "Ausgleichsklausel Aufhebungsvertrag"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Aufhebungsvertrag
+  - Aufhebungsvertrag prüfen
+  - Aufhebungsvertrag entwerfen
+  - Sperrzeit Arbeitslosengeld
+  - Abfindung Aufhebungsvertrag
+  - § 623 BGB
+  - einvernehmliche Beendigung Arbeitsverhältnis
+  - Ausgleichsklausel Aufhebungsvertrag
 ---
 
 # Aufhebungsvertrag

@@ -2,13 +2,13 @@
 
 Rollierende Liquiditätsplanung und Krisenfrüherkennung nach deutschem Recht — gebündelt für Steuerberater, Sanierungsberater, GmbH-Geschäftsleitung und Insolvenzverwalter. Maßstab ist die BGH-Rechtsprechung zu § 17 InsO (BGHZ 163, 134 – 10-%-Lücke, 3-Wochen-Horizont) und die berufsständischen Verlautbarungen IDW S 6 (Sanierungskonzepte) und IDW S 11 (Insolvenzeröffnungsgründe).
 
-> ⚠️ **Hinweis:** Dieses Plugin enthält **keine eigenen Skill-Definitionen**, sondern bündelt und referenziert die Liquiditätsplanungs-Skills aus den Plugins [`steuerberater-werkzeuge`](../steuerberater-werkzeuge/) und [`insolvenzrecht`](../insolvenzrecht/). Damit ist die rollierende Liquiditätsplanung sowohl unter dem fachlich passenden Thema als auch direkt aus den jeweiligen Praxis-Plugins erreichbar.
+> **Hinweis:** Dieses Plugin enthält schlanke **Routing-Skills** und deklariert die Plugins [`steuerberater-werkzeuge`](../steuerberater-werkzeuge/) und [`insolvenzrecht`](../insolvenzrecht/) als Abhängigkeiten. Die eigentliche Fachlogik bleibt in den Quell-Plugins; `liquiditaetsplanung` bietet den einheitlichen Einstieg.
 
 ## Enthaltene Skills (Bündel)
 
 | Skill | Heimatplugin | Zweck |
 |---|---|---|
-| `liquiditaetsvorschau-3wochen` | `steuerberater-werkzeuge` | Kurzfrist-Test über 3 Wochen nach § 17 InsO; löst Ampel 🔴 und Hinweis auf § 15a InsO-Antragspflicht aus |
+| `liquiditaetsvorschau-3wochen` | `steuerberater-werkzeuge` | Kurzfrist-Test über 3 Wochen nach § 17 InsO; löst Ampel und Hinweis auf § 15a InsO-Antragspflicht aus |
 | `liquiditaetsvorschau-3-6-12-monate` | `steuerberater-werkzeuge` | Rollierende 13/26/52-Wochen-Vorschau mit IDW-S-6-Fortführungsprognose und Excel-Export |
 | `liquiditaetsvorschau-insolvenzrechtlich` | `insolvenzrecht` | Gerichtsfähige Liquiditätsbilanz als Beweismittel für § 17 InsO und Fortbestehensprognose § 19 InsO |
 

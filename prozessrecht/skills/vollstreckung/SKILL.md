@@ -6,19 +6,20 @@ description: |
   Herausgabe. Lädt, wenn ein Mandat die Einleitung, Durchführung oder Abwehr von Vollstreckungs-
   maßnahmen betrifft.
 language: de
-triggers:
-  - "Zwangsvollstreckung"
-  - "Vollstreckung"
-  - "Gerichtsvollzieher"
-  - "Pfändung"
-  - "PfÜB"
-  - "Forderungspfändung"
-  - "Vermögensauskunft"
-  - "Räumung"
-  - "ZVG"
-  - "Herausgabevollstreckung"
-  - "§ 829 ZPO"
-  - "§ 808 ZPO"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Zwangsvollstreckung
+  - Vollstreckung
+  - Gerichtsvollzieher
+  - Pfändung
+  - PfÜB
+  - Forderungspfändung
+  - Vermögensauskunft
+  - Räumung
+  - ZVG
+  - Herausgabevollstreckung
+  - § 829 ZPO
+  - § 808 ZPO
 ---
 
 # Zwangsvollstreckung – Überblick und Praxis

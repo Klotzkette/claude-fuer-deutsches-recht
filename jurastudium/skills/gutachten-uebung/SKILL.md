@@ -6,16 +6,17 @@ description: >
   Schreibt die Klausur NICHT um. Lädt, wenn der Nutzer „mein Gutachten prüfen", „Gutachtenstil üben",
   „Klausur Feedback" oder „Subsumtion prüfen" sagt.
 language: de
-triggers:
-  - "Gutachtenstil üben"
-  - "Klausur Feedback"
-  - "Gutachten prüfen"
-  - "Anspruchsgrundlage prüfen"
-  - "Subsumtion prüfen"
-  - "Hilfsgutachten"
-  - "Klausurtechnik"
-  - "mein Gutachten bewerten"
-  - "Obersatz Ergebnis"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Gutachtenstil üben
+  - Klausur Feedback
+  - Gutachten prüfen
+  - Anspruchsgrundlage prüfen
+  - Subsumtion prüfen
+  - Hilfsgutachten
+  - Klausurtechnik
+  - mein Gutachten bewerten
+  - Obersatz Ergebnis
 ---
 
 # Gutachtenstil-Übung

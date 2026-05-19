@@ -7,14 +7,15 @@ description: >
   konkretes Mandat verwaltet werden soll oder eine Sachskill wissen muss,
   in welchem Mandatskontext sie arbeitet.
 language: de
-triggers:
-  - "Mandat anlegen"
-  - "Mandatsakte wechseln"
-  - "IP-Mandat verwalten"
-  - "Mandatsliste anzeigen"
-  - "Mandat schließen"
-  - "Aktenführung Kanzlei"
-  - "Mandatsorganisation gewerblicher Rechtsschutz"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Mandat anlegen
+  - Mandatsakte wechseln
+  - IP-Mandat verwalten
+  - Mandatsliste anzeigen
+  - Mandat schließen
+  - Aktenführung Kanzlei
+  - Mandatsorganisation gewerblicher Rechtsschutz
 ---
 
 # Mandatsarbeitsbereich

@@ -5,12 +5,13 @@ description: >
   Portfolio-Register, OSS-Richtlinie oder Überwachungslisten aktualisieren, ohne
   das gesamte kaltstart-interview erneut auszuführen.
 language: de
-triggers:
-  - "kanzleiprofil anpassen"
-  - "einstellungen ändern"
-  - "anpassen"
-  - "profil aktualisieren"
-  - "durchsetzungsstrategie ändern"
+when_to_use: |
+  Trigger phrases and example requests:
+  - kanzleiprofil anpassen
+  - einstellungen ändern
+  - anpassen
+  - profil aktualisieren
+  - durchsetzungsstrategie ändern
 ---
 
 # Kanzleiprofil anpassen

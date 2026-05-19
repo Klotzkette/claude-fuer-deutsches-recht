@@ -6,16 +6,17 @@ description: >
   das Klausurdenken. Lädt, wenn der Nutzer „Abfrage", „mündlich prüfen", „AG-Gespräch simulieren",
   „Fragen-Antwort-Drill" oder „mündliche Prüfung üben" sagt.
 language: de
-triggers:
-  - "mündlich prüfen"
-  - "AG-Gespräch"
-  - "Abfrage Strafrecht"
-  - "Fragen-Antwort-Drill"
-  - "mündliche Prüfung üben"
-  - "sokratischer Drill"
-  - "Prüfungsgespräch"
-  - "Nachfragen üben"
-  - "Klausurbesprechung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - mündlich prüfen
+  - AG-Gespräch
+  - Abfrage Strafrecht
+  - Fragen-Antwort-Drill
+  - mündliche Prüfung üben
+  - sokratischer Drill
+  - Prüfungsgespräch
+  - Nachfragen üben
+  - Klausurbesprechung
 ---
 
 # Maieutisches Prüfungsgespräch

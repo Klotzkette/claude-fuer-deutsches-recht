@@ -6,15 +6,16 @@ description: >
   (§ 8 UWG). Entscheidungsempfehlung: Ignorieren / Informelles Schreiben /
   Abmahnung / einstweilige Verfügung / Klage.
 language: de
-triggers:
-  - "verletzung"
-  - "infringement"
-  - "verletzungs-triage"
-  - "verletzt meine marke"
-  - "patentverletzung"
-  - "urheberrechtsverletzung"
-  - "wettbewerbsverstoß"
-  - "schutzrechtsverletzung"
+when_to_use: |
+  Trigger phrases and example requests:
+  - verletzung
+  - infringement
+  - verletzungs-triage
+  - verletzt meine marke
+  - patentverletzung
+  - urheberrechtsverletzung
+  - wettbewerbsverstoß
+  - schutzrechtsverletzung
 ---
 
 # Verletzungs-Triage

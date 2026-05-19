@@ -132,8 +132,8 @@ gewerblicher-rechtsschutz/
 ├── .mcp.json
 ├── CLAUDE.md                    # Kanzleiprofil – vom Interview geschrieben, von Ihnen bearbeitet
 ├── README.md
-├── agenten/
-│   └── ip-verlängerungs-watcher.md
+├── agents/
+│   └── schutzrechts-verlaengerungs-monitor.md
 ├── skills/
 │   ├── kaltstart-interview/
 │   ├── abmahnung/ (unterlassungsverlangen)

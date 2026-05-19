@@ -6,16 +6,17 @@ description: |
   Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich
   zum Gegenstand hat.
 language: de
-triggers:
-  - "AGB"
-  - "Allgemeine Geschäftsbedingungen"
-  - "Inhaltskontrolle"
-  - "§ 307 BGB"
-  - "§ 309 BGB"
-  - "Transparenzgebot"
-  - "Klauselkontrolle"
-  - "AGB-Recht"
-  - "B2B AGB"
+when_to_use: |
+  Trigger phrases and example requests:
+  - AGB
+  - Allgemeine Geschäftsbedingungen
+  - Inhaltskontrolle
+  - § 307 BGB
+  - § 309 BGB
+  - Transparenzgebot
+  - Klauselkontrolle
+  - AGB-Recht
+  - B2B AGB
 ---
 
 # AGB-Prüfung – Einbeziehung und Inhaltskontrolle

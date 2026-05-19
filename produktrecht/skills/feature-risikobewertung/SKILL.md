@@ -10,12 +10,13 @@ description: >
   Besonders einschlägig bei: UWG-Verstoßrisiken, DSGVO-Verletzung, DSA-Pflichten,
   KI-VO-Anforderungen, Verbraucherschutz nach BGB.
 language: de
-triggers:
-  - "risikobewertung"
-  - "feature-risiko"
-  - "tiefer einblick"
-  - "was könnte schiefgehen"
-  - "tiefenanalyse"
+when_to_use: |
+  Trigger phrases and example requests:
+  - risikobewertung
+  - feature-risiko
+  - tiefer einblick
+  - was könnte schiefgehen
+  - tiefenanalyse
 argument-hint: "[Feature-Beschreibung oder PRD-Link]"
 ---
 

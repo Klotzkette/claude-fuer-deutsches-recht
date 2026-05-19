@@ -7,16 +7,17 @@ description: >
   den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren
   parallelen Produktrechtsmandaten.
 language: de
-triggers:
-  - "Mandat anlegen"
-  - "Mandatswechsel"
-  - "Mandat wechseln"
-  - "neues Mandat"
-  - "Mandat schließen"
-  - "Mandatsliste"
-  - "Produktmandat"
-  - "Mandatskontext"
-  - "Mandat trennen"
+when_to_use: |
+  Trigger phrases and example requests:
+  - Mandat anlegen
+  - Mandatswechsel
+  - Mandat wechseln
+  - neues Mandat
+  - Mandat schließen
+  - Mandatsliste
+  - Produktmandat
+  - Mandatskontext
+  - Mandat trennen
 ---
 
 # Produktmandat-Workspace

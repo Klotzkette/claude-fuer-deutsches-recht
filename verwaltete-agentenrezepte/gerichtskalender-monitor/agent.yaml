@@ -84,7 +84,7 @@ mcp_servers:
   - { type: url, name: gdrive, url: "${GDRIVE_MCP_URL}" }
 
 skills:
-  - { from_plugin: ../../litigation-legal }
+  - { from_plugin: ../../prozessrecht }
 
 callable_agents:
   - { manifest: ./unteragenten/terminkalender-leser.yaml }
