@@ -1,6 +1,6 @@
 ---
 name: vorlageanordnung
-description: Triage einer gerichtlichen oder behördlichen Beweisanordnung — Klassifizierung, Umfangs- und Beschlagnahmeschutzanalyse, Portfolioquerverweis und Erstellung eines Einwendungsgerüsts, Mitwirkungsplans und Fristenkalenders. Lädt, wenn der Nutzer eine Vorladung, Zeugenladung, Vorlageanordnung, Durchsuchungsanordnung oder behördliche Anforderung erhalten hat und deren Reaktionsstrategie klären möchte.
+description: "Triage einer gerichtlichen oder behördlichen Beweisanordnung — Klassifizierung, Umfangs- und Beschlagnahmeschutzanalyse, Portfolioquerverweis und Erstellung eines Einwendungsgerüsts, Mitwirkungsplans und Fristenkalenders. Lädt, wenn der Nutzer eine Vorladung, Zeugenladung, Vorlageanordnung, Durchsuchungsanordnung oder behördliche Anforderung erhalten hat und deren Reaktionsstrategie klären möchte."
 ---
 
 # Triage Gerichtliche und Behördliche Beweisanordnungen

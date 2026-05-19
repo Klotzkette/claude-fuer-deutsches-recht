@@ -1,6 +1,6 @@
 ---
 name: luecken-aufzeiger
-description: Gap-Analyse interner Richtlinien gegen aktuelle Aufsichtsverlautbarungen (BaFin-Rundschreiben, MaRisk-Novellen, EBA-Leitlinien). Laden bei Vergleich von Bestandsrichtlinien mit neuen regulatorischen Anforderungen.
+description: "Gap-Analyse interner Richtlinien gegen aktuelle Aufsichtsverlautbarungen (BaFin-Rundschreiben, MaRisk-Novellen, EBA-Leitlinien). Laden bei Vergleich von Bestandsrichtlinien mit neuen regulatorischen Anforderungen."
 ---
 
 # Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen

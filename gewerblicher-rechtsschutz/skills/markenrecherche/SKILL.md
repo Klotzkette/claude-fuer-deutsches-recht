@@ -1,6 +1,6 @@
 ---
 name: markenrecherche
-description:  Erste Markenrechercheprüfung für eine geplante Kennzeichnung: Identitäts- und Ähnlichkeitsprüfung in DPMAregister, EUIPO eSearch+ und WIPO Global Brand DB. Verwenden vor Markenanmeldung, Produkteinführung oder Rebranding. Kein Freigabegutachten – Ergebnis ist Recherchepaket für anwaltliche Entscheidung.
+description: "Erste Markenrechercheprüfung für eine geplante Kennzeichnung: Identitäts- und Ähnlichkeitsprüfung in DPMAregister, EUIPO eSearch+ und WIPO Global Brand DB. Verwenden vor Markenanmeldung, Produkteinführung oder Rebranding. Kein Freigabegutachten – Ergebnis ist Recherchepaket für anwaltliche Entscheidung."
 ---
 
 # Markenrecherche (Clearance)

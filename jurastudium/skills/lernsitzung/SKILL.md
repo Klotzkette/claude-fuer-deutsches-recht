@@ -1,6 +1,6 @@
 ---
 name: lernsitzung
-description:  Führt eine fokussierte Lerneinheit mit N Fragen zu einem Rechtsgebiet durch — Karteikarten, Klausurfragen im Gutachtenstil oder mündliche Abfrage. Verfolgt die Ergebnisse und aktualisiert den Lernplan. Lädt, wenn der Nutzer „10 Fragen zu [Rechtsgebiet]", „Lerneinheit starten", „5 Karten zu [Thema]" oder „Abfrage [Rechtsgebiet]" sagt.
+description: "Führt eine fokussierte Lerneinheit mit N Fragen zu einem Rechtsgebiet durch — Karteikarten, Klausurfragen im Gutachtenstil oder mündliche Abfrage. Verfolgt die Ergebnisse und aktualisiert den Lernplan. Lädt, wenn der Nutzer „10 Fragen zu [Rechtsgebiet]\", „Lerneinheit starten\", „5 Karten zu [Thema]\" oder „Abfrage [Rechtsgebiet]\" sagt."
 ---
 
 # Lerneinheit

@@ -1,6 +1,6 @@
 ---
 name: ustva
-description: Begleitet Unternehmen und Steuerberater bei der korrekten Abgabe von Umsatzsteuer-Voranmeldungen nach § 18 UStG – von der Bestimmung des Voranmeldungszeitraums über Dauerfristverlängerung bis zur Berichtigung. Lädt bei Fragen zur UStVA, ELSTER, Dauerfristverlängerung und Voranmeldungsberichtigung.
+description: "Begleitet Unternehmen und Steuerberater bei der korrekten Abgabe von Umsatzsteuer-Voranmeldungen nach § 18 UStG – von der Bestimmung des Voranmeldungszeitraums über Dauerfristverlängerung bis zur Berichtigung. Lädt bei Fragen zur UStVA, ELSTER, Dauerfristverlängerung und Voranmeldungsberichtigung."
 ---
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)

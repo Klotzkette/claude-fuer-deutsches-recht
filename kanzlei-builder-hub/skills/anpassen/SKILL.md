@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description:  Kanzleiprofil, Positivliste, Registry-Watchlist und Aktualisierungseinstellungen anpassen. Einsetzen, wenn der Nutzer einzelne Profil-Abschnitte ändern möchte, neue Registries hinzufügen, Positivliste-Einträge aktualisieren oder die Update-Benachrichtigungseinstellungen ändern möchte — ohne das vollständige kaltstart-interview zu wiederholen.
+description: "Kanzleiprofil, Positivliste, Registry-Watchlist und Aktualisierungseinstellungen anpassen. Einsetzen, wenn der Nutzer einzelne Profil-Abschnitte ändern möchte, neue Registries hinzufügen, Positivliste-Einträge aktualisieren oder die Update-Benachrichtigungseinstellungen ändern möchte — ohne das vollständige kaltstart-interview zu wiederholen."
 ---
 
 # /anpassen — Kanzleiprofil und Einstellungen anpassen

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description:  Erstes Einrichtungsgespräch: baut das persönliche Lernprofil auf. Läuft genau einmal (oder bei --redo). Lade diesen Skill wenn der Nutzer das Plugin zum ersten Mal startet, wenn CLAUDE.md noch Platzhalter enthält, oder wenn der Nutzer sagt „Neueinrichtung", „neues Profil" oder „kaltstart-interview".
+description: "Erstes Einrichtungsgespräch: baut das persönliche Lernprofil auf. Läuft genau einmal (oder bei --redo). Lade diesen Skill wenn der Nutzer das Plugin zum ersten Mal startet, wenn CLAUDE.md noch Platzhalter enthält, oder wenn der Nutzer sagt „Neueinrichtung\", „neues Profil\" oder „kaltstart-interview\"."
 ---
 
 # Erstes Einrichtungsgespräch (Kaltstart-Interview)

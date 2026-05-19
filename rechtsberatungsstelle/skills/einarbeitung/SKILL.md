@@ -1,6 +1,6 @@
 ---
 name: einarbeitung
-description:  Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater „Einarbeitung starten", „ich bin neu in der Klinik", „Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte.
+description: "Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater „Einarbeitung starten\", „ich bin neu in der Klinik\", „Einführung\" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte."
 ---
 
 # Einarbeitung: Semestereinarbeitung

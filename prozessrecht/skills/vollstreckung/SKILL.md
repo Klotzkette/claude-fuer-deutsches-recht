@@ -1,6 +1,6 @@
 ---
 name: vollstreckung
-description:  Unterstützt bei der Durchführung der Zwangsvollstreckung nach §§ 704 ff. ZPO: Mobiliarvoll- streckung, Forderungspfändung, Immobiliarvollstreckung, Vermögensauskunft, Räumung und Herausgabe. Lädt, wenn ein Mandat die Einleitung, Durchführung oder Abwehr von Vollstreckungs- maßnahmen betrifft.
+description: "Unterstützt bei der Durchführung der Zwangsvollstreckung nach §§ 704 ff. ZPO: Mobiliarvoll- streckung, Forderungspfändung, Immobiliarvollstreckung, Vermögensauskunft, Räumung und Herausgabe. Lädt, wenn ein Mandat die Einleitung, Durchführung oder Abwehr von Vollstreckungs- maßnahmen betrifft."
 ---
 
 # Zwangsvollstreckung – Überblick und Praxis

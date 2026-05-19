@@ -1,6 +1,6 @@
 ---
 name: nda-durchsetzer
-description:  Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen, Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter wie „NDA durchsetzen", „NDA Redline", „NDA Gegenseite überarbeiten", „Geheimhaltungsvereinbarung Änderungsmodus", „Mindeststandard NDA" oder „NDA-Verhandlung" auftreten.
+description: "Überarbeitet ein NDA der Gegenseite **konservativ im Änderungsmodus**, ohne Struktur, Nummerierung, Reihenfolge oder Look-&-Feel zu verändern, und erstellt parallel eine strukturierte Analyse (Executive Summary, struktureller Vergleich, Klausel-für-Klausel-Vergleich mit Risikoampel GÜNSTIG/NEUTRAL/NACHTEILIG/ROTE LINIE, fehlende Regelungen, Klauselentwürfe, priorisierte Änderungsliste). Lädt, wenn Schlagwörter wie „NDA durchsetzen\", „NDA Redline\", „NDA Gegenseite überarbeiten\", „Geheimhaltungsvereinbarung Änderungsmodus\", „Mindeststandard NDA\" oder „NDA-Verhandlung\" auftreten."
 ---
 
 # NDA-Durchsetzer — Redline der Gegenseite im Änderungsmodus + strukturierte Analyse

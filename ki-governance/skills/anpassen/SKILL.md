@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description:  Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt „ändere mein [Ding]", „Profil aktualisieren", „Konfiguration bearbeiten", „Playbook anpassen" oder „anpassen".
+description: "Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt „ändere mein [Ding]\", „Profil aktualisieren\", „Konfiguration bearbeiten\", „Playbook anpassen\" oder „anpassen\"."
 ---
 
 # /anpassen

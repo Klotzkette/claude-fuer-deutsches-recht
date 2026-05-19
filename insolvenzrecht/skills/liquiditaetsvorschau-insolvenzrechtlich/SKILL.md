@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-insolvenzrechtlich
-description:  Erstellt und bewertet die rollierende Liquiditätsvorschau als strukturierte Arbeitsgrundlage für insolvenzrechtliche Tatbestände nach § 17 InsO (Zahlungsunfähigkeit) und § 19 Abs. 2 InsO (Fortbestehensprognose). Lädt, wenn geprüft werden soll, ob/wann Zahlungsunfähigkeit eingetreten ist, eine Liquiditätsbilanz für Gericht oder Insolvenzverwalter erstellt werden soll, oder die 13-Wochen- bzw. 24-Monats-Vorschau nach IDW S 11 zu konstruieren ist.
+description: "Erstellt und bewertet die rollierende Liquiditätsvorschau als strukturierte Arbeitsgrundlage für insolvenzrechtliche Tatbestände nach § 17 InsO (Zahlungsunfähigkeit) und § 19 Abs. 2 InsO (Fortbestehensprognose). Lädt, wenn geprüft werden soll, ob/wann Zahlungsunfähigkeit eingetreten ist, eine Liquiditätsbilanz für Gericht oder Insolvenzverwalter erstellt werden soll, oder die 13-Wochen- bzw. 24-Monats-Vorschau nach IDW S 11 zu konstruieren ist."
 ---
 
 # Liquiditätsvorschau als insolvenzrechtliches Beweismittel

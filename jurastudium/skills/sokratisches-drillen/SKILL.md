@@ -1,6 +1,6 @@
 ---
 name: sokratisches-drillen
-description:  Maieutisches Prüfungsgespräch nach AG-Tradition — stellt Fragen, hakt nach, gibt die Antwort erst, wenn der Studierende sie erarbeitet hat. Übt die mündliche Prüfung, das AG-Gespräch und das Klausurdenken. Lädt, wenn der Nutzer „Abfrage", „mündlich prüfen", „AG-Gespräch simulieren", „Fragen-Antwort-Drill" oder „mündliche Prüfung üben" sagt.
+description: "Maieutisches Prüfungsgespräch nach AG-Tradition — stellt Fragen, hakt nach, gibt die Antwort erst, wenn der Studierende sie erarbeitet hat. Übt die mündliche Prüfung, das AG-Gespräch und das Klausurdenken. Lädt, wenn der Nutzer „Abfrage\", „mündlich prüfen\", „AG-Gespräch simulieren\", „Fragen-Antwort-Drill\" oder „mündliche Prüfung üben\" sagt."
 ---
 
 # Maieutisches Prüfungsgespräch

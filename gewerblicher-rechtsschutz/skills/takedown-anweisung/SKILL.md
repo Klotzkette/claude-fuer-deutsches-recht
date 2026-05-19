@@ -1,6 +1,6 @@
 ---
 name: takedown-anweisung
-description:  Abmahnungsunterstützung und Meldeverfahren bei Urheberrechtsverletzungen im Internet — Notice-and-Take-Down nach §§ 7 ff. TMG/DDG, DSA Art. 16 Meldeverfahren, Störerhaftung und Gegendarstellung. Lädt bei der Erstellung einer Meldung an einen Hostprovider, der Triagierung einer eingegangenen Meldung oder der Formulierung einer Gegendarstellung.
+description: "Abmahnungsunterstützung und Meldeverfahren bei Urheberrechtsverletzungen im Internet — Notice-and-Take-Down nach §§ 7 ff. TMG/DDG, DSA Art. 16 Meldeverfahren, Störerhaftung und Gegendarstellung. Lädt bei der Erstellung einer Meldung an einen Hostprovider, der Triagierung einer eingegangenen Meldung oder der Formulierung einer Gegendarstellung."
 ---
 
 # Notice-and-Take-Down / Meldeverfahren

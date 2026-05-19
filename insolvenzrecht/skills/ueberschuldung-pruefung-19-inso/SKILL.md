@@ -1,6 +1,6 @@
 ---
 name: ueberschuldung-pruefung-19-inso
-description:  Führt die zweistufige Überschuldungsprüfung gem. § 19 Abs. 2 InsO durch: Fortbestehensprognose (Stufe 1) und insolvenzrechtlicher Überschuldungsstatus auf Liquidationswertbasis (Stufe 2). Lädt, wenn Überschuldung geprüft, ein Überschuldungsstatus erstellt oder § 19 InsO ausgelegt werden soll.
+description: "Führt die zweistufige Überschuldungsprüfung gem. § 19 Abs. 2 InsO durch: Fortbestehensprognose (Stufe 1) und insolvenzrechtlicher Überschuldungsstatus auf Liquidationswertbasis (Stufe 2). Lädt, wenn Überschuldung geprüft, ein Überschuldungsstatus erstellt oder § 19 InsO ausgelegt werden soll."
 ---
 
 # Zweistufige Überschuldungsprüfung gem. § 19 Abs. 2 InsO

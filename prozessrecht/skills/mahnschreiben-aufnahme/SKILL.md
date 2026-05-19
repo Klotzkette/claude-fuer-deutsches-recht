@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-aufnahme
-description: Vorbereitende Informationserhebung für ein Mahnschreiben oder eine vorgerichtliche Aufforderung – Parteien, Sachverhalt, Anspruchsgrundlage, Forderungsbetrag, BATNA und Vertraulichkeitsfilter – wird als strukturierte intake.md gespeichert, auf die der mahnschreiben-Skill zugreift. Verwenden, wenn der Nutzer ein Mahnschreiben vorbereiten, einen Intake vor dem Entwurf durchführen oder Kontext für eine Zahlungsaufforderung, Mängelrüge oder Abmahnung erfassen möchte.
+description: "Vorbereitende Informationserhebung für ein Mahnschreiben oder eine vorgerichtliche Aufforderung – Parteien, Sachverhalt, Anspruchsgrundlage, Forderungsbetrag, BATNA und Vertraulichkeitsfilter – wird als strukturierte intake.md gespeichert, auf die der mahnschreiben-Skill zugreift. Verwenden, wenn der Nutzer ein Mahnschreiben vorbereiten, einen Intake vor dem Entwurf durchführen oder Kontext für eine Zahlungsaufforderung, Mängelrüge oder Abmahnung erfassen möchte."
 ---
 
 # Mahnschreiben-Intake

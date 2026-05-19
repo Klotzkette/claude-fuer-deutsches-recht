@@ -1,6 +1,6 @@
 ---
 name: ip-klausel-pruefung
-description:  Prüfung der IP-Klauseln in einem Vertrag — Übertragung, Inhaberschaft, Lizenzgewährung, Gewährleistung, Freistellung. Lädt bei der Prüfung von IP-Regelungen in Arbeits-, Dienst-, Werk-, Lizenz- oder sonstigen Verträgen mit IP-Bezug sowie bei Fragen zu Abtretungssprache oder Lizenzumfang.
+description: "Prüfung der IP-Klauseln in einem Vertrag — Übertragung, Inhaberschaft, Lizenzgewährung, Gewährleistung, Freistellung. Lädt bei der Prüfung von IP-Regelungen in Arbeits-, Dienst-, Werk-, Lizenz- oder sonstigen Verträgen mit IP-Bezug sowie bei Fragen zu Abtretungssprache oder Lizenzumfang."
 ---
 
 # IP-Klausel-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: klage-aus-eigenem-skill
-description: Laufzeit-Variante der Klagewerkstatt. Setzt voraus, dass ein zuvor mit klagevorlage-aus-eigenen-mustern erzeugtes hauseigenes Klage-Plugin installiert ist (klagewerkstatt-kanzlei). Nimmt nur noch den Sachverhalt und die Beklagtenadresse entgegen, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG), füllt die hauseigene Standardvorlage und liefert die fertige Klageschrift als DOCX und Markdown. Keine erneute Extraktion, kein erneuter Lernlauf.
+description: "Laufzeit-Variante der Klagewerkstatt. Setzt voraus, dass ein zuvor mit klagevorlage-aus-eigenen-mustern erzeugtes hauseigenes Klage-Plugin installiert ist (klagewerkstatt-kanzlei). Nimmt nur noch den Sachverhalt und die Beklagtenadresse entgegen, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG), füllt die hauseigene Standardvorlage und liefert die fertige Klageschrift als DOCX und Markdown. Keine erneute Extraktion, kein erneuter Lernlauf."
 ---
 
 # Klagewerkstatt — Laufzeit aus eigenem Skill

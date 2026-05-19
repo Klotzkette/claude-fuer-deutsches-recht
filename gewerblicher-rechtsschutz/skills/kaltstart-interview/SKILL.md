@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description:  Ersteinrichtungsinterview für das Plugin „Gewerblicher Rechtsschutz". Liest Kanzleiprofil, Schutzrechtsportfolio, Durchsetzungsstrategie und Genehmigungsmatrix und schreibt das Ergebnis in CLAUDE.md. Vor dem ersten Einsatz aller anderen Skills ausführen.
+description: "Ersteinrichtungsinterview für das Plugin „Gewerblicher Rechtsschutz\". Liest Kanzleiprofil, Schutzrechtsportfolio, Durchsetzungsstrategie und Genehmigungsmatrix und schreibt das Ergebnis in CLAUDE.md. Vor dem ersten Einsatz aller anderen Skills ausführen."
 ---
 
 # Ersteinrichtungsinterview

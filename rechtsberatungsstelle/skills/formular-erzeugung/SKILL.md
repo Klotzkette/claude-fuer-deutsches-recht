@@ -1,6 +1,6 @@
 ---
 name: formular-erzeugung
-description:  Referenz: VERALTET — bitte `/entwurf` verwenden. Diese Skill wurde in die Draft-Skill überführt, die die gesamte Schriftstück-Erstellung der Rechtsberatungsstelle einschließlich Formularausfüllung übernimmt. Lädt, wenn ein Studierender Formulare ausfüllen, Antragsvordrucke erstellen oder Formulargenerierung durchführen möchte.
+description: "Referenz: VERALTET — bitte `/entwurf` verwenden. Diese Skill wurde in die Draft-Skill überführt, die die gesamte Schriftstück-Erstellung der Rechtsberatungsstelle einschließlich Formularausfüllung übernimmt. Lädt, wenn ein Studierender Formulare ausfüllen, Antragsvordrucke erstellen oder Formulargenerierung durchführen möchte."
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`

@@ -1,6 +1,6 @@
 ---
 name: mandantendaten-ki
-description: Begleitet Rechtsanwälte und Berufsgeheimnisträger bei der datenschutz- und berufsrechtlich konformen Nutzung von KI-Diensten und externen IT-Dienstleistern für die Verarbeitung von Mandantendaten. Lädt bei Fragen zu § 203 StGB, anwaltlicher Verschwiegenheit (§ 43a BRAO), AVV und KI-Systemen.
+description: "Begleitet Rechtsanwälte und Berufsgeheimnisträger bei der datenschutz- und berufsrechtlich konformen Nutzung von KI-Diensten und externen IT-Dienstleistern für die Verarbeitung von Mandantendaten. Lädt bei Fragen zu § 203 StGB, anwaltlicher Verschwiegenheit (§ 43a BRAO), AVV und KI-Systemen."
 ---
 
 # Mandantendaten und KI-Dienstleister (§ 203 StGB, Art. 28 DSGVO)

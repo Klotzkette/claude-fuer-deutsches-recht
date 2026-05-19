@@ -1,6 +1,6 @@
 ---
 name: mandat-aktualisierung
-description: Fügt einem Prozessmandat einen datierten Eintrag in die Verlaufsakte hinzu und aktualisiert den Protokolleintrag — erfasst neue Entwicklungen, Statusänderungen, Risikoneubewertungen, Fristverschiebungen und Änderungen bei der Vergleichskompetenz. Lädt, wenn der Nutzer eine Aktualisierung zu einem Prozessmandat eintragen, eine neue Entwicklung notieren oder eine Statusänderung im Portfolio festhalten möchte.
+description: "Fügt einem Prozessmandat einen datierten Eintrag in die Verlaufsakte hinzu und aktualisiert den Protokolleintrag — erfasst neue Entwicklungen, Statusänderungen, Risikoneubewertungen, Fristverschiebungen und Änderungen bei der Vergleichskompetenz. Lädt, wenn der Nutzer eine Aktualisierung zu einem Prozessmandat eintragen, eine neue Entwicklung notieren oder eine Statusänderung im Portfolio festhalten möchte."
 ---
 
 # Mandats-Aktualisierung

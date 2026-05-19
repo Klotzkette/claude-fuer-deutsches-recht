@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid
-description:  Unterstützt bei der Beantragung eines Mahnbescheids nach §§ 688 ff. ZPO, der Reaktion auf Widerspruch und Vollstreckungsbescheid sowie der Weiterverfolgung im streitigen Verfahren. Lädt, wenn ein Mandat das gerichtliche Mahnverfahren, einen Mahnantrag, einen Widerspruch oder einen Vollstreckungsbescheid betrifft.
+description: "Unterstützt bei der Beantragung eines Mahnbescheids nach §§ 688 ff. ZPO, der Reaktion auf Widerspruch und Vollstreckungsbescheid sowie der Weiterverfolgung im streitigen Verfahren. Lädt, wenn ein Mandat das gerichtliche Mahnverfahren, einen Mahnantrag, einen Widerspruch oder einen Vollstreckungsbescheid betrifft."
 ---
 
 # Mahnverfahren – §§ 688 ff. ZPO

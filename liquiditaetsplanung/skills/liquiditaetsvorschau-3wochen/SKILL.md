@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. Erstellt zwingend eine Excel-Tabelle auf Wochenbasis und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Wendet das BGH-Schema BGHZ 217, 129 (Passiva II) und BGHZ 163, 134 (10-%-Schwelle) an, zeigt die Lücke wochenaktuell zum Freitag und das Verhältnis zu den offenen Forderungen. Memo wird nur auf ausdrückliche Anfrage erstellt.
+description: "Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. Erstellt zwingend eine Excel-Tabelle auf Wochenbasis und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt zur fortlaufenden Pflege. Wendet das BGH-Schema BGHZ 217, 129 (Passiva II) und BGHZ 163, 134 (10-%-Schwelle) an, zeigt die Lücke wochenaktuell zum Freitag und das Verhältnis zu den offenen Forderungen. Memo wird nur auf ausdrückliche Anfrage erstellt."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)

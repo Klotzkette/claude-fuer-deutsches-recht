@@ -1,6 +1,6 @@
 ---
 name: ist-das-ein-problem
-description:  Schnelle „Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt „ist das ein Problem", „kurze Frage", „können wir X machen", „brauche ich rechtliche Prüfung für", „Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse.
+description: "Schnelle „Ist-das-ein-Problem?\"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt „ist das ein Problem\", „kurze Frage\", „können wir X machen\", „brauche ich rechtliche Prüfung für\", „Plausibilitätsprüfung\", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse."
 ---
 
 # /ist-das-ein-problem – Schnellprüfung

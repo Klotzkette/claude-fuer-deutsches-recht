@@ -1,6 +1,6 @@
 ---
 name: tabellenpruefung
-description:  Tabellarisches Vertragsreview im Rahmen der M&A Due Diligence — eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit Quellenangabe. Geeignet für Massenreviews (Change-of-Control-Klauseln, Abtretungsverbote, MAC-Klauseln in 200 Zielgesellschaftsverträgen) und jeden anderen Stapeldurchlauf, der eine strukturierte Tabelle als Ergebnis erfordert. Lädt bei „tabellarisches Review", „Review-Raster", „Raster aufbauen", „Felder aus Verträgen extrahieren", „Dokumente auf X, Y, Z prüfen", „Tabelle erstellen" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag.
+description: "Tabellarisches Vertragsreview im Rahmen der M&A Due Diligence — eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit Quellenangabe. Geeignet für Massenreviews (Change-of-Control-Klauseln, Abtretungsverbote, MAC-Klauseln in 200 Zielgesellschaftsverträgen) und jeden anderen Stapeldurchlauf, der eine strukturierte Tabelle als Ergebnis erfordert. Lädt bei „tabellarisches Review\", „Review-Raster\", „Raster aufbauen\", „Felder aus Verträgen extrahieren\", „Dokumente auf X, Y, Z prüfen\", „Tabelle erstellen\" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag."
 ---
 
 # Tabellarisches Vertragsreview (M&A Due Diligence)

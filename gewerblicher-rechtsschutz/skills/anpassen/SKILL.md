@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description:  Kanzleiprofil nachträglich anpassen: Durchsetzungsstrategie, Genehmigungsmatrix, Portfolio-Register, OSS-Richtlinie oder Überwachungslisten aktualisieren, ohne das gesamte kaltstart-interview erneut auszuführen.
+description: "Kanzleiprofil nachträglich anpassen: Durchsetzungsstrategie, Genehmigungsmatrix, Portfolio-Register, OSS-Richtlinie oder Überwachungslisten aktualisieren, ohne das gesamte kaltstart-interview erneut auszuführen."
 ---
 
 # Kanzleiprofil anpassen

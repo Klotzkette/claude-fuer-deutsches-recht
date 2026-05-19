@@ -1,6 +1,6 @@
 ---
 name: untersuchungs-memo
-description:  Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben.
+description: "Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben."
 ---
 
 # Untersuchungsvermerk (Arbeitsrecht)

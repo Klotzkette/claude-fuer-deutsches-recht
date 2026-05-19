@@ -1,6 +1,6 @@
 ---
 name: mandat-aufnahme
-description: Aufnahme eines neuen Mandats – strukturierte Fragen zu Identifizierung, Interessenkonflikten, Sachverhalt, Risikotriage, Materialität, Verfahrensart, Außenanwalt, Verantwortlichen, Beweissicherung und Schlüsselfristen; schreibt mandat.md und verlauf.md und fügt eine strukturierte Zeile in _log.yaml ein. Verwenden, wenn der Nutzer sagt „neues Mandat", „Mandat aufnehmen" oder ein neues Mandat ins Portfolio aufnehmen möchte.
+description: "Aufnahme eines neuen Mandats – strukturierte Fragen zu Identifizierung, Interessenkonflikten, Sachverhalt, Risikotriage, Materialität, Verfahrensart, Außenanwalt, Verantwortlichen, Beweissicherung und Schlüsselfristen; schreibt mandat.md und verlauf.md und fügt eine strukturierte Zeile in _log.yaml ein. Verwenden, wenn der Nutzer sagt „neues Mandat\", „Mandat aufnehmen\" oder ein neues Mandat ins Portfolio aufnehmen möchte."
 ---
 
 # Mandat-Intake

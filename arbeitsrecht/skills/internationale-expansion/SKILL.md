@@ -1,6 +1,6 @@
 ---
 name: internationale-expansion
-description:  Referenz-Skill: Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker. Wird von /expansion-auftakt und /expansion-aktualisierung geladen; nicht direkt aufzurufen.
+description: "Referenz-Skill: Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker. Wird von /expansion-auftakt und /expansion-aktualisierung geladen; nicht direkt aufzurufen."
 ---
 
 # Internationale Expansion — Referenz-Skill (Arbeitsrecht)

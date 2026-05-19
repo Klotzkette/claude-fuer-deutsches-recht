@@ -1,6 +1,6 @@
 ---
 name: dealteam-zusammenfassung
-description:  Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: „Deal-Briefing", „Deal-Zusammenfassung", „Status für Geschäftsführung", „Team-Update", „Deal-Team-Summary".
+description: "Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: „Deal-Briefing\", „Deal-Zusammenfassung\", „Status für Geschäftsführung\", „Team-Update\", „Deal-Team-Summary\"."
 ---
 
 # Deal-Team-Zusammenfassung

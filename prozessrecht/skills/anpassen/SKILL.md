@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: Geführte Anpassung des Praxisprofils – einzelne Einstellungen ändern, ohne das gesamte Kaltstart-Interview zu wiederholen. Rolle, Praxisschwerpunkte, Risikostrategie, Kanzleistil, Vergütungsart oder Integrationen einzeln aktualisieren.
+description: "Geführte Anpassung des Praxisprofils – einzelne Einstellungen ändern, ohne das gesamte Kaltstart-Interview zu wiederholen. Rolle, Praxisschwerpunkte, Risikostrategie, Kanzleistil, Vergütungsart oder Integrationen einzeln aktualisieren."
 ---
 
 # Praxisprofil anpassen

@@ -1,6 +1,6 @@
 ---
 name: dora-ikt-vertragspruefung
-description: Prüft IKT-Drittdienstleisterverträge eines Finanzunternehmens auf die Mindestanforderungen der EU-Verordnung 2022/2554 (DORA) und ergänzender RTS/ITS/EBA-/ESA-Leitlinien. Liefert eine tabellarische Lückenanalyse mit konkreten Verbesserungsvorschlägen und Klauselentwürfen.
+description: "Prüft IKT-Drittdienstleisterverträge eines Finanzunternehmens auf die Mindestanforderungen der EU-Verordnung 2022/2554 (DORA) und ergänzender RTS/ITS/EBA-/ESA-Leitlinien. Liefert eine tabellarische Lückenanalyse mit konkreten Verbesserungsvorschlägen und Klauselentwürfen."
 ---
 
 # DORA-IKT-Vertragsprüfung

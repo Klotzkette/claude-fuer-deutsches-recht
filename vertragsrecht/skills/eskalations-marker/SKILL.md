@@ -1,6 +1,6 @@
 ---
 name: eskalations-marker
-description: Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt „wer muss das genehmigen", „eskalieren", „braucht das GC-Freigabe", „Genehmigung einholen" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt.
+description: "Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt „wer muss das genehmigen\", „eskalieren\", „braucht das GC-Freigabe\", „Genehmigung einholen\" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt."
 ---
 
 # Eskalationsregeln

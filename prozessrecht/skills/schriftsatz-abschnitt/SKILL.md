@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-abschnitt
-description: Entwurf eines Schriftsatzabschnitts im Kanzleistil, konsistent mit der Mandatstheorie – jede Tatsache belegt, jede Norm geprüft, jedes Argument an der Theorie verankert. Verwenden, wenn der Nutzer sagt „Entwurf [Abschnitt]", „schreib den Klagevortrag", „Berufungsbegründung zu [Punkt]" oder einen Ersterst-Entwurf eines Schriftsatzabschnitts benötigt.
+description: "Entwurf eines Schriftsatzabschnitts im Kanzleistil, konsistent mit der Mandatstheorie – jede Tatsache belegt, jede Norm geprüft, jedes Argument an der Theorie verankert. Verwenden, wenn der Nutzer sagt „Entwurf [Abschnitt]\", „schreib den Klagevortrag\", „Berufungsbegründung zu [Punkt]\" oder einen Ersterst-Entwurf eines Schriftsatzabschnitts benötigt."
 ---
 
 # Schriftsatzabschnitt-Entwurf

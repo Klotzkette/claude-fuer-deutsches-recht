@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3wochen
-description: Kurzfristige Drei-Wochen-Liquiditätsvorschau für GmbH/UG zur wöchentlichen Krisenfrüherkennung nach § 1 StaRUG und Vorprüfung der Zahlungsunfähigkeit nach § 17 InsO. Wendet das BGH-Schema (BGHZ 163, 134 Rn. 12 ff.) an — 10-%-Lücke und 3-Wochen-Schließbarkeit. Übergibt bei roter Ampel an das insolvenzrechtliche Schwester-Plugin und löst die Hinweispflicht des Steuerberaters nach § 102 StaRUG aus.
+description: "Kurzfristige Drei-Wochen-Liquiditätsvorschau für GmbH/UG zur wöchentlichen Krisenfrüherkennung nach § 1 StaRUG und Vorprüfung der Zahlungsunfähigkeit nach § 17 InsO. Wendet das BGH-Schema (BGHZ 163, 134 Rn. 12 ff.) an — 10-%-Lücke und 3-Wochen-Schließbarkeit. Übergibt bei roter Ampel an das insolvenzrechtliche Schwester-Plugin und löst die Hinweispflicht des Steuerberaters nach § 102 StaRUG aus."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)

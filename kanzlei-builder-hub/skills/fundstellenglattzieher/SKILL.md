@@ -1,6 +1,6 @@
 ---
 name: fundstellenglattzieher
-description:  Zieht juristische Fundstellen in einem Text glatt: prüft jede Quellenangabe (Rechtsprechung, Kommentar, Aufsatz, Buch, Gesetz, EU-Recht) gegen die hauseigene Zitierweise (`references/zitierweise.md`), korrigiert Heftnummern, „S."-Zusätze bei Zeitschriften, Bearbeiter-Schreibung, Auflage-vor-Jahr-Reihenfolge, Punkt/Kein-Punkt bei Zeitschriftenkürzeln, Anfangsseite/(Zitatseite), inflationäre „vgl."-Zusätze und Abkürzungen (iVm/zB/iSv etc.). Lädt, wenn Schlagwörter wie „Fundstellen prüfen", „Zitate glattziehen", „Zitatformat", „Zitierweise korrigieren", „BGH-Zitierung prüfen" oder „Citation Check" auftreten.
+description: "Zieht juristische Fundstellen in einem Text glatt: prüft jede Quellenangabe (Rechtsprechung, Kommentar, Aufsatz, Buch, Gesetz, EU-Recht) gegen die hauseigene Zitierweise (`references/zitierweise.md`), korrigiert Heftnummern, „S.\"-Zusätze bei Zeitschriften, Bearbeiter-Schreibung, Auflage-vor-Jahr-Reihenfolge, Punkt/Kein-Punkt bei Zeitschriftenkürzeln, Anfangsseite/(Zitatseite), inflationäre „vgl.\"-Zusätze und Abkürzungen (iVm/zB/iSv etc.). Lädt, wenn Schlagwörter wie „Fundstellen prüfen\", „Zitate glattziehen\", „Zitatformat\", „Zitierweise korrigieren\", „BGH-Zitierung prüfen\" oder „Citation Check\" auftreten."
 ---
 
 # Fundstellenglattzieher / Zitatenkorrektor

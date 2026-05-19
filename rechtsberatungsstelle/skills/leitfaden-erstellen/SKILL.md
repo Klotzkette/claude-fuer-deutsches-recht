@@ -1,6 +1,6 @@
 ---
 name: leitfaden-erstellen
-description:  Hilft einem anleitenden Volljuristen, einen praxisbereichsspezifischen Leitfaden zu erstellen, der das Verhalten der studierendengerichteten Skills konfiguriert – Intake-Fragen, Pädagogikhaltung (ausführen / anleiten / lehren), Prüfungsgates, RDG-Grenzen und örtliche Besonderheiten. Aufrufen, wenn ein Anleiter einen neuen Leitfaden aufbauen oder einen bestehenden überarbeiten will.
+description: "Hilft einem anleitenden Volljuristen, einen praxisbereichsspezifischen Leitfaden zu erstellen, der das Verhalten der studierendengerichteten Skills konfiguriert – Intake-Fragen, Pädagogikhaltung (ausführen / anleiten / lehren), Prüfungsgates, RDG-Grenzen und örtliche Besonderheiten. Aufrufen, wenn ein Anleiter einen neuen Leitfaden aufbauen oder einen bestehenden überarbeiten will."
 ---
 
 # /leitfaden-erstellen

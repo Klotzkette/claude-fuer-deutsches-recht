@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsvorschau-3-6-12-monate
-description: Rollierende Liquiditätsvorschau über 13/26/52 Wochen für GmbH/UG/AG. Erstellt zwingend eine Excel-Tabelle nach der hinterlegten Vorlage und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt, das mit jeder Folgemeldung aktualisiert wird. Wendet das BGH-Schema (BGHZ 217, 129 Passiva II; BGHZ 163, 134 10-%-Schwelle/3-Wochen-Horizont) wochenaktuell zum Freitag an und stellt die Lücke zu den offenen Forderungen ins Verhältnis. Fortführungsprognose § 19 InsO mit IDW S 6/S 11 nur als Hintergrundmaßstab. Memo nur auf ausdrückliche Anfrage.
+description: "Rollierende Liquiditätsvorschau über 13/26/52 Wochen für GmbH/UG/AG. Erstellt zwingend eine Excel-Tabelle nach der hinterlegten Vorlage und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt, das mit jeder Folgemeldung aktualisiert wird. Wendet das BGH-Schema (BGHZ 217, 129 Passiva II; BGHZ 163, 134 10-%-Schwelle/3-Wochen-Horizont) wochenaktuell zum Freitag an und stellt die Lücke zu den offenen Forderungen ins Verhältnis. Fortführungsprognose § 19 InsO mit IDW S 6/S 11 nur als Hintergrundmaßstab. Memo nur auf ausdrückliche Anfrage."
 ---
 
 # Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)

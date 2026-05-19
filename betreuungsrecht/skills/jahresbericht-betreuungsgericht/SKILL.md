@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-betreuungsgericht
-description:  Erstellt aus einer Sammlung von Ereignissen, E-Mails, Aktenvermerken, Arztbriefen, Heimrechnungen und Vermerken über persönliche Kontakte einen strukturierten Jahresbericht des rechtlichen Betreuers an das Betreuungsgericht nach § 1863 BGB. Lädt, wenn Schlagwörter wie „Jahresbericht", „Betreuungsbericht", „§ 1863 BGB", „Betreuungsgericht", „Berufsbetreuer" oder „Lebenssituation" auftreten.
+description: "Erstellt aus einer Sammlung von Ereignissen, E-Mails, Aktenvermerken, Arztbriefen, Heimrechnungen und Vermerken über persönliche Kontakte einen strukturierten Jahresbericht des rechtlichen Betreuers an das Betreuungsgericht nach § 1863 BGB. Lädt, wenn Schlagwörter wie „Jahresbericht\", „Betreuungsbericht\", „§ 1863 BGB\", „Betreuungsgericht\", „Berufsbetreuer\" oder „Lebenssituation\" auftreten."
 ---
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)

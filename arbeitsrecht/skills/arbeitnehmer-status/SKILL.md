@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-status
-description: Statusfeststellung für eine geplante Beschäftigung – Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AÜG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv – für bestehende Verhältnisse Außenberater einschalten.
+description: "Statusfeststellung für eine geplante Beschäftigung – Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AÜG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv – für bestehende Verhältnisse Außenberater einschalten."
 ---
 
 # /arbeitsrecht:arbeitnehmer-status

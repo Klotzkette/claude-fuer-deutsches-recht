@@ -1,6 +1,6 @@
 ---
 name: unterlassungsverlangen
-description:  Abmahnung versenden (Sendemodus) oder eine erhaltene Abmahnung triagieren (Empfangsmodus). Verwenden bei Marken-, Urheber-, Patent- oder UWG-Verstößen. Produziert einen Abmahnungsentwurf mit modifizierter Unterlassungserklärung, Streitwert und Kostenansatz (RVG) oder ein Optionen-Memo zur erhaltenen Abmahnung.
+description: "Abmahnung versenden (Sendemodus) oder eine erhaltene Abmahnung triagieren (Empfangsmodus). Verwenden bei Marken-, Urheber-, Patent- oder UWG-Verstößen. Produziert einen Abmahnungsentwurf mit modifizierter Unterlassungserklärung, Streitwert und Kostenansatz (RVG) oder ein Optionen-Memo zur erhaltenen Abmahnung."
 ---
 
 # Abmahnung

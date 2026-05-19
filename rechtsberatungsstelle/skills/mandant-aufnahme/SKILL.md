@@ -1,6 +1,6 @@
 ---
 name: mandant-aufnahme
-description:  Strukturiertes Erstgespräch – fachbereichsspezifische Vorlagen, fachübergreifende Problemerkennung, RDG-Konfliktprüfung, Interessenkonflikt-Check und Triage-Klassifikation. Erzeugt eine formatierte Fallzusammenfassung, die der Studierende analysiert und der Anleiter prüft. Entscheidet nicht über Mandatsannahme. Aufrufen bei neuen Mandaten oder zur Erfassung eines Erstgesprächs.
+description: "Strukturiertes Erstgespräch – fachbereichsspezifische Vorlagen, fachübergreifende Problemerkennung, RDG-Konfliktprüfung, Interessenkonflikt-Check und Triage-Klassifikation. Erzeugt eine formatierte Fallzusammenfassung, die der Studierende analysiert und der Anleiter prüft. Entscheidet nicht über Mandatsannahme. Aufrufen bei neuen Mandaten oder zur Erfassung eines Erstgesprächs."
 ---
 
 # /mandant-aufnahme

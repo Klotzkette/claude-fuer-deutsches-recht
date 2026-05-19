@@ -1,6 +1,6 @@
 ---
 name: handbuch-aktualisierung
-description:  Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt „Handbuch aktualisieren", „neue Regelung einpflegen" oder „Richtlinie ändern".
+description: "Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt „Handbuch aktualisieren\", „neue Regelung einpflegen\" oder „Richtlinie ändern\"."
 ---
 
 # Personalhandbuch-Aktualisierung (Arbeitsrecht)

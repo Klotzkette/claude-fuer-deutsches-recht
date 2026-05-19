@@ -1,6 +1,6 @@
 ---
 name: fto-triage
-description:  Freedom-to-Operate-Triage (FTO) für ein Produkt oder eine Technologie: Recherche in Espacenet, DPMApaplus und EP-Datenbank auf sperrende DE- und EP-Patente. Ergebnis ist ein Recherchepaket für den Patentanwalt – kein FTO-Gutachten.
+description: "Freedom-to-Operate-Triage (FTO) für ein Produkt oder eine Technologie: Recherche in Espacenet, DPMApaplus und EP-Datenbank auf sperrende DE- und EP-Patente. Ergebnis ist ein Recherchepaket für den Patentanwalt – kein FTO-Gutachten."
 ---
 
 # Freedom-to-Operate-Triage (FTO)

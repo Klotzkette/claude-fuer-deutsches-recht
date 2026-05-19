@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description:  Passt das Beratungsstellenprofil (CLAUDE.md) oder einen Fachbereichsleitfaden (guides/fachbereich.md) gezielt an – ohne den vollen Kaltstart-Ablauf zu durchlaufen. Für kleinere Aktualisierungen: neuer Fachbereich, geänderte Prüfungsgates, aktualisierte Kontakte, Semesterwechsel. Nur für den anleitenden Volljurist.
+description: "Passt das Beratungsstellenprofil (CLAUDE.md) oder einen Fachbereichsleitfaden (guides/fachbereich.md) gezielt an – ohne den vollen Kaltstart-Ablauf zu durchlaufen. Für kleinere Aktualisierungen: neuer Fachbereich, geänderte Prüfungsgates, aktualisierte Kontakte, Semesterwechsel. Nur für den anleitenden Volljurist."
 ---
 
 # /anpassen

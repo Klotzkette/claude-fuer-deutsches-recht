@@ -1,6 +1,6 @@
 ---
 name: examensvorbereitung-fragen
-description:  Examensvorbereitungs-Fragen für das 1. und 2. Juristische Staatsexamen, bundeslandspezifisch nach JAG. Lade diesen Skill, wenn der Nutzer sagt: „Examensklausur", „Übungsfragen", „teste mich", „Examensvorbereitung", „1. StEx", „2. StEx" oder ähnliches.
+description: "Examensvorbereitungs-Fragen für das 1. und 2. Juristische Staatsexamen, bundeslandspezifisch nach JAG. Lade diesen Skill, wenn der Nutzer sagt: „Examensklausur\", „Übungsfragen\", „teste mich\", „Examensvorbereitung\", „1. StEx\", „2. StEx\" oder ähnliches."
 ---
 
 # Examensvorbereitungs-Fragen

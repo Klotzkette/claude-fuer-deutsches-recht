@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: Ersteinrichtung des Plugins für aufsichtsrechtliche Praxis. Laden, wenn das Praxisprofil noch nicht konfiguriert ist oder neu eingerichtet werden soll.
+description: "Ersteinrichtung des Plugins für aufsichtsrechtliche Praxis. Laden, wenn das Praxisprofil noch nicht konfiguriert ist oder neu eingerichtet werden soll."
 ---
 
 # Ersteinrichtung – Regulatorisches Recht

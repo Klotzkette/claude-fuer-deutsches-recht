@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich
-description:  Verwaltung von Mandatsarbeitsbereichen — Anlegen, Auflisten, Wechseln, Schließen oder Trennen des aktiven Mandats. Für Kanzleien und Sozietäten, um den Kontext verschiedener Mandanten strikt zu trennen. Lädt, wenn ein konkretes Mandat verwaltet werden soll oder eine Sachskill wissen muss, in welchem Mandatskontext sie arbeitet.
+description: "Verwaltung von Mandatsarbeitsbereichen — Anlegen, Auflisten, Wechseln, Schließen oder Trennen des aktiven Mandats. Für Kanzleien und Sozietäten, um den Kontext verschiedener Mandanten strikt zu trennen. Lädt, wenn ein konkretes Mandat verwaltet werden soll oder eine Sachskill wissen muss, in welchem Mandatskontext sie arbeitet."
 ---
 
 # Mandatsarbeitsbereich

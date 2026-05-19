@@ -1,6 +1,6 @@
 ---
 name: inkasso-rdg
-description: Begleitet registrierte Inkassounternehmen und Rechtsanwälte bei der rechtskonformen Durchführung von Inkassodienstleistungen nach dem RDG – von Registrierungsvoraussetzungen über Hinweispflichten gegenüber Schuldnern bis zur Vergütung und datenschutzkonformen Datenverarbeitung. Lädt bei Fragen zu Inkasso, RDG-Registrierung, Mahnung, Schuldnerschutz und Legal-Tech-Inkasso.
+description: "Begleitet registrierte Inkassounternehmen und Rechtsanwälte bei der rechtskonformen Durchführung von Inkassodienstleistungen nach dem RDG – von Registrierungsvoraussetzungen über Hinweispflichten gegenüber Schuldnern bis zur Vergütung und datenschutzkonformen Datenverarbeitung. Lädt bei Fragen zu Inkasso, RDG-Registrierung, Mahnung, Schuldnerschutz und Legal-Tech-Inkasso."
 ---
 
 # Inkassodienstleistungen (RDG)

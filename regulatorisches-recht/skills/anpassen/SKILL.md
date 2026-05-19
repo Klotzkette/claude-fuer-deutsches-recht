@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: Praxisprofil des Plugins anpassen, ohne die Ersteinrichtung komplett zu wiederholen. Laden, wenn ein einzelner Parameter geändert werden soll.
+description: "Praxisprofil des Plugins anpassen, ohne die Ersteinrichtung komplett zu wiederholen. Laden, wenn ein einzelner Parameter geändert werden soll."
 ---
 
 # Praxisprofil anpassen

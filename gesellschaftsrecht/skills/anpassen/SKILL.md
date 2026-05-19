@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description:  Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A / Governance / Kapitalmarkt / Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Beschlussformat oder Mandatsworkspace-Pfade anpassen. Lädt, wenn der Nutzer „Profil ändern", „Konfiguration aktualisieren", „Einstellung anpassen" oder vergleichbare Formulierungen verwendet.
+description: "Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A / Governance / Kapitalmarkt / Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Beschlussformat oder Mandatsworkspace-Pfade anpassen. Lädt, wenn der Nutzer „Profil ändern\", „Konfiguration aktualisieren\", „Einstellung anpassen\" oder vergleichbare Formulierungen verwendet."
 ---
 
 # Praxisprofil anpassen

@@ -1,6 +1,6 @@
 ---
 name: deinstallieren
-description:  Deinstalliert einen Community-Skill, der über den Kanzlei-Builder-Hub installiert wurde. Bestätigt vor dem Löschen von Dateien, verweigert jede Aktion auf Erstanbieter-Plugin-Skills und protokolliert jeden Vorgang revisionssicher. Lädt, wenn der Nutzer einen Community-Skill vollständig entfernen möchte („Skill deinstallieren [Name]", „Skill entfernen").
+description: "Deinstalliert einen Community-Skill, der über den Kanzlei-Builder-Hub installiert wurde. Bestätigt vor dem Löschen von Dateien, verweigert jede Aktion auf Erstanbieter-Plugin-Skills und protokolliert jeden Vorgang revisionssicher. Lädt, wenn der Nutzer einen Community-Skill vollständig entfernen möchte („Skill deinstallieren [Name]\", „Skill entfernen\")."
 ---
 
 # Deinstallation

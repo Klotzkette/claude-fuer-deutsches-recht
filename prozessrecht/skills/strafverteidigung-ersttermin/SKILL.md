@@ -1,6 +1,6 @@
 ---
 name: strafverteidigung-ersttermin
-description:  Unterstützt Strafverteidiger bei der Vorbereitung des Erstgesprächs mit dem Mandanten und der ersten anwaltlichen Schritte: Akteneinsicht, Schweigerecht, Pflichtverteidigung, Beweisanträge und Überblick über den Hauptverhandlungsablauf. Lädt, wenn ein Mandat eine Strafverteidigung, einen ersten Mandantentermin in Strafsachen oder einen Hauptverhandlungs- auftrag betrifft.
+description: "Unterstützt Strafverteidiger bei der Vorbereitung des Erstgesprächs mit dem Mandanten und der ersten anwaltlichen Schritte: Akteneinsicht, Schweigerecht, Pflichtverteidigung, Beweisanträge und Überblick über den Hauptverhandlungsablauf. Lädt, wenn ein Mandat eine Strafverteidigung, einen ersten Mandantentermin in Strafsachen oder einen Hauptverhandlungs- auftrag betrifft."
 ---
 
 # Strafverteidigung – Ersttermin und erste Schritte

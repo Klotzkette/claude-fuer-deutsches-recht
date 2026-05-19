@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung
-description:  Unterstützt bei Beantragung, Abwehr und Vollziehung einstweiliger Verfügungen nach §§ 935, 940 ZPO. Deckt Verfügungsanspruch, Verfügungsgrund, Glaubhaftmachung, Widerspruch und Schutzschrift ab. Lädt, wenn ein Mandat eine einstweilige Verfügung, eine Schutzschrift oder die Aufhebung einer Verfügung betrifft.
+description: "Unterstützt bei Beantragung, Abwehr und Vollziehung einstweiliger Verfügungen nach §§ 935, 940 ZPO. Deckt Verfügungsanspruch, Verfügungsgrund, Glaubhaftmachung, Widerspruch und Schutzschrift ab. Lädt, wenn ein Mandat eine einstweilige Verfügung, eine Schutzschrift oder die Aufhebung einer Verfügung betrifft."
 ---
 
 # Einstweilige Verfügung – §§ 935, 940 ZPO

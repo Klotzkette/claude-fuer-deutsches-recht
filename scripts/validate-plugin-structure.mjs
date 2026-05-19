@@ -173,6 +173,9 @@ function checkSkills() {
       if (v === '|' || v === '>' || v.startsWith('|') || v.startsWith('>')) {
         errors.push(`${rel(skill)}: description must be single-line (no | or > block style)`);
       }
+      if (!['"', "'"].includes(v[0]) && /:\s/.test(v)) {
+        errors.push(`${rel(skill)}: quote description because plain YAML scalars cannot safely contain ": "`);
+      }
       if (v.length > 1024) {
         errors.push(`${rel(skill)}: description exceeds 1024 chars (${v.length})`);
       }

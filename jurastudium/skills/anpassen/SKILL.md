@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description:  Lernprofil anpassen: Lernstil wechseln, Fächer aktualisieren, Material hinzufügen, Bundesland oder Prüfungsziel ändern. Lade diesen Skill bei Anfragen wie „Profil ändern", „Lernstil wechseln", „neues Fach hinzufügen", „Bundesland aktualisieren" oder „anpassen".
+description: "Lernprofil anpassen: Lernstil wechseln, Fächer aktualisieren, Material hinzufügen, Bundesland oder Prüfungsziel ändern. Lade diesen Skill bei Anfragen wie „Profil ändern\", „Lernstil wechseln\", „neues Fach hinzufügen\", „Bundesland aktualisieren\" oder „anpassen\"."
 ---
 
 # Lernprofil anpassen
