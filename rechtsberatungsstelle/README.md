@@ -35,8 +35,8 @@ Dieses Plugin senkt die Zeitkosten für alles **rund um die Rechtsarbeit**, dami
 
 | Rolle | Startet | Erhält |
 |---|---|---|
-| **Anleitender Volljurist** | `/cold-start-interview` (einmalig), `/supervisor-review-queue` (wenn formelle Prüfung aktiviert) | Konfigurierter Beratungsstellenkontext, Prüfung studentischer Arbeit |
-| **Studierende** | `/ramp` (Semesterbeginn), dann `/client-intake`, `/draft`, `/memo`, `/research-start`, `/status`, `/client-letter` | Strukturierte Arbeitshilfen, Entwürfe, Rechercheeinstiege |
+| **Anleitender Volljurist** | `/kaltstart-interview` (einmalig), `/anleiter-pruefwarteschlange` (wenn formelle Prüfung aktiviert) | Konfigurierter Beratungsstellenkontext, Prüfung studentischer Arbeit |
+| **Studierende** | `/einarbeitung` (Semesterbeginn), dann `/mandant-aufnahme`, `/entwurf`, `/memo`, `/recherche-start`, `/status`, `/mandantenbrief` | Strukturierte Arbeitshilfen, Entwürfe, Rechercheeinstiege |
 | **Mandant** | – | Empfängt fertig geprüfte Briefe (Studierender + Anleiter haben freigegeben) |
 
 ---
@@ -44,14 +44,14 @@ Dieses Plugin senkt die Zeitkosten für alles **rund um die Rechtsarbeit**, dami
 ## Schnellstart
 
 ```
-/rechtsberatungsstelle:cold-start-interview   # Anleiter: Beratungsstelle konfigurieren
-/rechtsberatungsstelle:ramp                   # Studierender: Onboarding zum Semesterbeginn
-/rechtsberatungsstelle:client-intake          # Neues Mandat aufnehmen
+/rechtsberatungsstelle:kaltstart-interview   # Anleiter: Beratungsstelle konfigurieren
+/rechtsberatungsstelle:einarbeitung                   # Studierender: Onboarding zum Semesterbeginn
+/rechtsberatungsstelle:mandant-aufnahme          # Neues Mandat aufnehmen
 /rechtsberatungsstelle:memo                   # Gutachtenstil-Memo erstellen
-/rechtsberatungsstelle:draft                  # Schriftsatz entwerfen
-/rechtsberatungsstelle:deadlines              # Fristen prüfen
-/rechtsberatungsstelle:client-letter          # Mandantenbrief in einfacher Sprache
-/rechtsberatungsstelle:semester-handoff       # Semesterübergabe vorbereiten
+/rechtsberatungsstelle:entwurf                  # Schriftsatz entwerfen
+/rechtsberatungsstelle:fristen              # Fristen prüfen
+/rechtsberatungsstelle:mandantenbrief          # Mandantenbrief in einfacher Sprache
+/rechtsberatungsstelle:semester-uebergabe       # Semesterübergabe vorbereiten
 ```
 
 ---
@@ -71,7 +71,7 @@ Allgemeine studentische Beratungsstellen an Universitäten (oft „JuRI", „Jur
 
 ### AnwVer/DAV Pro-Bono-Initiativen
 
-Anwaltsverein-getragene Pro-Bono-Programme (z. B. **Pro Bono Berlin e. V.**, **DAV Pro Bono**): hier beraten zugelassene Anwälte direkt, die Plugin-Komponenten `draft`, `memo` und `research-start` unterstützen die Mandatsarbeit.
+Anwaltsverein-getragene Pro-Bono-Programme (z. B. **Pro Bono Berlin e. V.**, **DAV Pro Bono**): hier beraten zugelassene Anwälte direkt, die Plugin-Komponenten `entwurf`, `memo` und `recherche-start` unterstützen die Mandatsarbeit.
 
 ### Verbraucherzentralen (§ 8 RDG)
 
@@ -101,22 +101,22 @@ Anerkannte Beratungsträger (AWO, Caritas, Diakonie, DRK, Paritätischer) arbeit
 
 | Skill | Zweck | Primäre Normen |
 |---|---|---|
-| `build-guide` | Leitfaden zum Aufbau einer Beratungsstelle | RDG, BRAO |
-| `client-comms-log` | Mandantenkommunikations-Logbuch | § 43a BRAO, § 203 StGB |
-| `client-intake` | Intake mit RDG-Konfliktprüfung | § 6 II Nr. 2 RDG |
-| `client-letter` | Mandantenbrief in einfacher Sprache | BORA |
-| `cold-start-interview` | Ersteinrichtung der Beratungsstelle | RDG, BRAO |
-| `customize` | Beratungsstellenprofil anpassen | – |
-| `deadlines` | Fristenkontrolle | § 84 SGG, § 74 VwGO, §§ 36, 74 AsylG |
-| `draft` | Schriftsatzentwurf | ZPO, VwGO, SGG |
-| `form-generation` | Formularerstellung (PKH, BerHG, KSchG) | §§ 114 ff. ZPO, BerHG |
+| `leitfaden-erstellen` | Leitfaden zum Aufbau einer Beratungsstelle | RDG, BRAO |
+| `mandanten-kommunikations-log` | Mandantenkommunikations-Logbuch | § 43a BRAO, § 203 StGB |
+| `mandant-aufnahme` | Intake mit RDG-Konfliktprüfung | § 6 II Nr. 2 RDG |
+| `mandantenbrief` | Mandantenbrief in einfacher Sprache | BORA |
+| `kaltstart-interview` | Ersteinrichtung der Beratungsstelle | RDG, BRAO |
+| `anpassen` | Beratungsstellenprofil anpassen | – |
+| `fristen` | Fristenkontrolle | § 84 SGG, § 74 VwGO, §§ 36, 74 AsylG |
+| `entwurf` | Schriftsatzentwurf | ZPO, VwGO, SGG |
+| `formular-erzeugung` | Formularerstellung (PKH, BerHG, KSchG) | §§ 114 ff. ZPO, BerHG |
 | `memo` | Memo im Gutachtenstil | – |
-| `plain-language-letters` | Einfache Sprache | BORA |
-| `ramp` | Onboarding Studierende | § 6 II Nr. 2 RDG |
-| `research-start` | Rechercheeinstieg | juris, Beck-Online, gesetze-im-internet.de |
-| `semester-handoff` | Semesterübergabe | – |
+| `einfache-sprache-briefe` | Einfache Sprache | BORA |
+| `einarbeitung` | Onboarding Studierende | § 6 II Nr. 2 RDG |
+| `recherche-start` | Rechercheeinstieg | juris, Beck-Online, gesetze-im-internet.de |
+| `semester-uebergabe` | Semesterübergabe | – |
 | `status` | Statusbericht | – |
-| `supervisor-review-queue` | Aufsichts-Reviewqueue | § 6 II Nr. 2 RDG, § 43a BRAO |
+| `anleiter-pruefwarteschlange` | Aufsichts-Reviewqueue | § 6 II Nr. 2 RDG, § 43a BRAO |
 
 ---
 

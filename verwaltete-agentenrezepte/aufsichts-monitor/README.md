@@ -26,7 +26,7 @@ export BANZ_MCP_URL=...            # Bundesanzeiger-RSS/API-Konnektor
 export BAFIN_MCP_URL=...           # BaFin-Journal-Feed-Konnektor
 export EURLEX_MCP_URL=...          # EUR-Lex-CELLAR-API-Konnektor
 export BNETZА_MCP_URL=...          # BNetzA-RSS-Konnektor
-../../scripts/deploy-managed-agent.sh aufsichts-monitor
+../../scripts/agentenrezept-ausliefern.sh aufsichts-monitor
 ```
 
 ## Steuerungsereignisse
@@ -39,24 +39,24 @@ Behördenfeeds und die darin verlinkten Dokumente sind **nicht vertrauenswürdig
 
 | Stufe | Berührt Rohdaten? | Tools | Konnektoren |
 |---|---|---|---|
-| **`feed-reader`** | **Ja** (nur lesend) | `Read`, `Grep` | BAnz, BaFin, EUR-Lex, BNetzA (alle nur lesend) |
-| **`materiality-filter`** | Nein — sieht nur strukturiertes JSON | `Read`, `Grep`, `Glob` | Keine |
-| **`digest-writer`** (Write-Inhaber) | Nein | `Read`, `Write` | Keine |
+| **`feed-leser`** | **Ja** (nur lesend) | `Read`, `Grep` | BAnz, BaFin, EUR-Lex, BNetzA (alle nur lesend) |
+| **`wesentlichkeits-filter`** | Nein — sieht nur strukturiertes JSON | `Read`, `Grep`, `Glob` | Keine |
+| **`zusammenfassung-schreiber`** (Write-Inhaber) | Nein | `Read`, `Write` | Keine |
 
-`feed-reader` liefert längenbegrenzte, schema-validierte JSON. `materiality-filter` hat kein MCP und kein Netz — er wendet Regeln aus der Kanzleikonfiguration an. `digest-writer` erzeugt `./out/aufsichts-digest-<Datum>.md` und `./out/aufsichts-eintraege-<Datum>.json`.
+`feed-leser` liefert längenbegrenzte, schema-validierte JSON. `wesentlichkeits-filter` hat kein MCP und kein Netz — er wendet Regeln aus der Kanzleikonfiguration an. `zusammenfassung-schreiber` erzeugt `./out/aufsichts-digest-<Datum>.md` und `./out/aufsichts-eintraege-<Datum>.json`.
 
 **Kein Direkt-Posting.** Der Agent veröffentlicht niemals direkt in einem Kommunikationskanal. Berichte sind Dateien. Ein `handoff_request` teilt dem Orchestrator mit, welchen Kanal er weiterleiten soll. Konfigurieren Sie den Zielkanal in der `CLAUDE.md`-Konfiguration des deployenden Teams.
 
-**Arbeitsergebnisvermerk.** `digest-writer` stellt den Vermerk aus der `## Ausgaben`-Konfiguration des deployenden Teams voran. Bestätigen Sie den Vermerk mit dem Team, bevor Sie in den Live-Betrieb gehen — er unterscheidet sich je nach Prüferrolle (Syndikusrechtsanwalt vs. externer Berater).
+**Arbeitsergebnisvermerk.** `zusammenfassung-schreiber` stellt den Vermerk aus der `## Ausgaben`-Konfiguration des deployenden Teams voran. Bestätigen Sie den Vermerk mit dem Team, bevor Sie in den Live-Betrieb gehen — er unterscheidet sich je nach Prüferrolle (Syndikusrechtsanwalt vs. externer Berater).
 
 ## Anpassungshinweise
 
-- **Feed-URLs.** Setzen Sie `BANZ_MCP_URL`, `BAFIN_MCP_URL`, `EURLEX_MCP_URL` und `BNETZA_MCP_URL` auf die Endpunkte Ihres Deployments. Der Standard aktiviert alle vier Feeds. Deaktivieren Sie Feeds, die für Ihr Mandatsprofil nicht relevant sind, in der `default_config` des `feed-reader`.
+- **Feed-URLs.** Setzen Sie `BANZ_MCP_URL`, `BAFIN_MCP_URL`, `EURLEX_MCP_URL` und `BNETZA_MCP_URL` auf die Endpunkte Ihres Deployments. Der Standard aktiviert alle vier Feeds. Deaktivieren Sie Feeds, die für Ihr Mandatsprofil nicht relevant sind, in der `default_config` des `feed-leser`.
 - **Themenprofile.** Die Wesentlichkeitsschwellen und Themencluster (Finanzaufsicht, Netzregulierung, Kartellrecht, Datenschutz) werden in der `CLAUDE.md` des deployenden Teams konfiguriert. Führen Sie dort `/regulatory-legal:themen-konfiguration` durch, bevor Sie den Sweep-Modus in den Live-Betrieb bringen.
 - **Zeitplan.** Täglich für mandatsbezogene Überwachung in aktiven Verfahren; wöchentlich für allgemeines Regulatory-Monitoring. Für BaFin-Meldungen (z. B. bei laufenden Erlaubnisverfahren nach KWG/WpIG) empfiehlt sich ein täglicher Sweep.
-- **Ausgabeziel.** Ausgaben landen in `./out/`. Leiten Sie sie über Ihre Deploy-Pipeline in Ihren Mandatsordner, SharePoint-Bereich oder iManage-Arbeitsbereich weiter. Geben Sie dem `digest-writer` kein MCP zum Hochladen; eine Übergabe an Ihren Upload-Schritt ist sauberer und isoliert die Write-Stufe.
-- **Digest-Sprache.** Der `digest-writer` verwendet standardmäßig Deutsch und die BGH/Beck-Zitierweise. Passen Sie den Fußnotenapparat in `./agenten/digest-writer.yaml` an Ihre Hauszitierweise an.
-- **EUR-Lex-Filter.** EUR-Lex liefert alle EU-Rechtsinstrumente. Konfigurieren Sie die Filterparameter (Rechtsgebiet, Sprachfassung, Dokumenttyp) im `feed-reader`, um das Volumen auf relevante Rechtsakte zu begrenzen.
+- **Ausgabeziel.** Ausgaben landen in `./out/`. Leiten Sie sie über Ihre Deploy-Pipeline in Ihren Mandatsordner, SharePoint-Bereich oder iManage-Arbeitsbereich weiter. Geben Sie dem `zusammenfassung-schreiber` kein MCP zum Hochladen; eine Übergabe an Ihren Upload-Schritt ist sauberer und isoliert die Write-Stufe.
+- **Digest-Sprache.** Der `zusammenfassung-schreiber` verwendet standardmäßig Deutsch und die BGH/Beck-Zitierweise. Passen Sie den Fußnotenapparat in `./unteragenten/zusammenfassung-schreiber.yaml` an Ihre Hauszitierweise an.
+- **EUR-Lex-Filter.** EUR-Lex liefert alle EU-Rechtsinstrumente. Konfigurieren Sie die Filterparameter (Rechtsgebiet, Sprachfassung, Dokumenttyp) im `feed-leser`, um das Volumen auf relevante Rechtsakte zu begrenzen.
 
 ## Relevante Rechtsnormen (deutsches Aufsichtsrecht)
 

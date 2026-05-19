@@ -1,18 +1,18 @@
 # Managed-Agent-Vorlagen für die deutsche Kanzleipraxis
 
-Jeder Agent in diesem Verzeichnis steht **auf zwei Wegen** bereit: als Claude-Code-Plugin für den Soforteinsatz (siehe die Hauptverzeichnisse im Repo) und als **Claude Managed Agent**-Vorlage, die das Plattformteam hinter der kanzleieigenen Workflow-Engine betreibt. **Gleicher Agent, gleiche Skills – Oberfläche nach Wahl.** Jedes Verzeichnis unten ist ein Deploy-Manifest, das den kanonischen System-Prompt und die Skills aus dem zugehörigen Plugin referenziert, sodass es nur eine Quelle der Wahrheit gibt.
+Jeder Agent in diesem Verzeichnis steht **auf zwei Wegen** bereit: als Claude-Code-Plugin für den Soforteinsatz (siehe die Hauptverzeichnisse im Repo) und als **Claude Managed Agent**-Vorlage, die das Plattformteam hinter der kanzleieigenen Ablauf-Engine betreibt. **Gleicher Agent, gleiche Skills – Oberfläche nach Wahl.** Jedes Verzeichnis unten ist ein Deploy-Manifest, das den kanonischen System-Prompt und die Skills aus dem zugehörigen Plugin referenziert, sodass es nur eine Quelle der Wahrheit gibt.
 
 Dies sind **Kochbücher, keine fertigen Produkte.** Sie sind Ausgangspunkte. Passen Sie sie an Ihr Dokumentenverwaltungssystem, Ihr Vertragsarchiv, Ihren Kommunikationskanal, Ihre Benachrichtigungsweiterleitung und Ihren Prüfungsrhythmus an. Sie funktionieren nicht ohne diese Anpassung – und das ist so beabsichtigt.
 
-Führen Sie `../scripts/deploy-managed-agent.sh <slug>` aus, um Skills hochzuladen, Leaf-Worker zu erstellen und `POST /v1/agents` mit der aufgelösten Konfiguration aufzurufen. Jede Vorlage enthält [`steering-examples.json`](./aufsichts-monitor/steering-examples.json) und eine agentenspezifische README mit Sicherheitsstufe und Übergaben.
+Führen Sie `../scripts/agentenrezept-ausliefern.sh <slug>` aus, um Skills hochzuladen, Leaf-Worker zu erstellen und `POST /v1/agents` mit der aufgelösten Konfiguration aufzurufen. Jede Vorlage enthält [`steering-examples.json`](./aufsichts-monitor/steering-examples.json) und eine agentenspezifische README mit Sicherheitsstufe und Übergaben.
 
 | Agent | Vertikales Plugin | Was überwacht wird | CMA-Steuerungsereignis | Leaf-Worker |
 |---|---|---|---|---|
-| [`aufsichts-monitor`](./aufsichts-monitor/) | regulatory-legal | Behördenfeeds (BAnz, BaFin-Journal, EUR-Lex, BNetzA-RSS) | `Feeds prüfen zum <Datum>, Wesentlichkeit: <Schwelle>` | feed-reader · materiality-filter · **digest-writer** |
-| [`verlaengerungs-monitor`](./verlaengerungs-monitor/) | commercial-legal | Vertragsarchiv (iManage, SharePoint, DMS) auf Verlängerungs- und Kündigungsfristen | `Verlängerungen <X>–<Y> Tage voraus prüfen, Playbook-Abweichungen melden` | repo-reader · deadline-calculator · **alert-writer** |
-| [`due-diligence-tabelle`](./due-diligence-tabelle/) | corporate-legal | Virtueller Datenraum (Box, Datasite, Intralinks, iManage) auf neue Uploads + Stapelprüfung | `Ordner <Pfad> gegen Schema <Schema-ID> prüfen` | doc-reader · extractor · normalizer · **grid-writer** |
+| [`aufsichts-monitor`](./aufsichts-monitor/) | regulatory-legal | Behördenfeeds (BAnz, BaFin-Journal, EUR-Lex, BNetzA-RSS) | `Feeds prüfen zum <Datum>, Wesentlichkeit: <Schwelle>` | feed-leser · wesentlichkeits-filter · **zusammenfassung-schreiber** |
+| [`verlaengerungs-monitor`](./verlaengerungs-monitor/) | commercial-legal | Vertragsarchiv (iManage, SharePoint, DMS) auf Verlängerungs- und Kündigungsfristen | `Verlängerungen <X>–<Y> Tage voraus prüfen, Playbook-Abweichungen melden` | ablage-leser · frist-rechner · **warnungs-schreiber** |
+| [`due-diligence-tabelle`](./due-diligence-tabelle/) | corporate-legal | Virtueller Datenraum (Box, Datasite, Intralinks, iManage) auf neue Uploads + Stapelprüfung | `Ordner <Pfad> gegen Schema <Schema-ID> prüfen` | dokument-leser · extrahierer · normalisierer · **tabellen-schreiber** |
 | [`launch-radar`](./launch-radar/) | product-legal | Produkt-Roadmap/-Tracker (Jira, Linear, Asana) auf Launches mit rechtlichem Prüfbedarf | `Tracker auf Launches in den nächsten <N> Wochen prüfen` | tracker-reader · risk-classifier · **memo-writer** |
-| [`gerichtskalender-monitor`](./gerichtskalender-monitor/) | litigation-legal | Gerichtskalender (eAkte-Schnittstelle, EGVP, CELEX) auf neue Eingänge, Fristen und Zustellungen | `Verfahren <Az.> beim <Gericht> beobachten, Mandat <Mandat-ID>` | docket-reader · deadline-mapper · **tracker-writer** |
+| [`gerichtskalender-monitor`](./gerichtskalender-monitor/) | litigation-legal | Gerichtskalender (eAkte-Schnittstelle, EGVP, CELEX) auf neue Eingänge, Fristen und Zustellungen | `Verfahren <Az.> beim <Gericht> beobachten, Mandat <Mandat-ID>` | terminkalender-leser · frist-zuordner · **tracker-schreiber** |
 
 **Fett** gedruckter Leaf = der einzige Worker mit `Write`.
 
@@ -26,7 +26,7 @@ Die `agent.yaml`-Dateien verwenden die echten `POST /v1/agents`-Feldnamen mit we
 | `system: {text: "..."}` | `system: "<Text>"` |
 | `skills: [{from_plugin: ../../<plugin>}]` | lädt alle `skills/*` aus dem Verzeichnis hoch → `[{type: custom, skill_id: ...}, ...]` |
 | `skills: [{path: ../../...}]` | `skills: [{type: custom, skill_id: <uploaded-id>}]` |
-| `callable_agents: [{manifest: ./subagents/x.yaml}]` | `callable_agents: [{type: agent, id: <created-id>, version: latest}]` |
+| `callable_agents: [{manifest: ./unteragenten/x.yaml}]` | `callable_agents: [{type: agent, id: <created-id>, version: latest}]` |
 
 > **Research Preview:** `callable_agents` (Multi-Agent-Delegation) unterstützt **eine Delegationsebene**. Ein Orchestrator kann Worker aufrufen; Worker können keine weiteren Subagenten aufrufen.
 

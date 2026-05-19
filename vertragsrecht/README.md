@@ -31,9 +31,9 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 |---|---|
 | `/vertragsrecht:ersteinrichtung` | Ersteinrichtungs-Interview durchführen oder wiederholen |
 | `/vertragsrecht:pruefen [Datei]` | Vertrag gegen den Vorgehensleitfaden prüfen |
-| `/vertragsrecht:verlängerungstracker` | Welche Verträge laufen in 90 Tagen aus und bis wann muss die Kündigung eingehen? |
+| `/vertragsrecht:vertragsverlaengerungs-monitor` | Welche Verträge laufen in 90 Tagen aus und bis wann muss die Kündigung eingehen? |
 | `/vertragsrecht:eskalation` | Eskalationspfad ermitteln und Vorlage formulieren |
-| `/vertragsrecht:nachtragsverwaltung [Datei(en)]` | Vertragsänderungen über Basisvertrag und alle Nachträge nachverfolgen |
+| `/vertragsrecht:aenderungs-historie [Datei(en)]` | Vertragsänderungen über Basisvertrag und alle Nachträge nachverfolgen |
 | `/vertragsrecht:klausel-vorschlaege` | Ausstehende Aktualisierungen des Vorgehensleitfadens aus dem Monitor-Agenten durcharbeiten |
 | `/vertragsrecht:akte` | Akten verwalten (nur Kanzleinutzung mit mehreren Mandanten) |
 
@@ -45,10 +45,10 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 | **lieferantenvertrag-pruefung** | Vollständige Abweichungsanalyse gegen den Vorgehensleitfaden mit Klausel-Redlines (§§ 631, 611 BGB; LkSG) |
 | **nda-pruefung** | Schnelle GRÜN/GELB/ROT-Triage (§§ 17 ff. GeschGehG, § 241 II BGB) |
 | **saas-msa-pruefung** | SaaS-/MSA-spezifische Prüfung: AGB, Datenschutz Art. 28 DSGVO, Haftung, Preiseskalation |
-| **verlängerungstracker** | Register der Kündigungsfristen; zeigt Fristen gemäß § 309 Nr. 9 BGB |
+| **vertragsverlaengerungs-monitor** | Register der Kündigungsfristen; zeigt Fristen gemäß § 309 Nr. 9 BGB |
 | **eskalation** | Eskalationsmatrix aus dem Vorgehensleitfaden, Vorlage für Genehmigungsanfrage |
 | **stakeholder-zusammenfassung** | Zweisprachige Nicht-Juristen-Fassung eines Rechtsgutachtens |
-| **nachtragsverwaltung** | Änderungen über Basisvertrag und Nachträge zusammenfassen oder Klausel zurückverfolgen |
+| **aenderungs-historie** | Änderungen über Basisvertrag und Nachträge zusammenfassen oder Klausel zurückverfolgen |
 | **akte** | Akten anlegen, auflisten, wechseln und schließen für Mehrfachmandatsverhältnisse |
 
 ## Befehle vs. terminierte Agenten
@@ -95,7 +95,7 @@ Ausgabe: Abweichungsprotokoll gegen den Vorgehensleitfaden mit konkreten Redline
 ### 3. Ablaufende Verträge abrufen
 
 ```
-/vertragsrecht:verlängerungstracker
+/vertragsrecht:vertragsverlaengerungs-monitor
 ```
 
 Ausgabe: alles mit Kündigungsfrist in den nächsten 90 Tagen, nach Dringlichkeit geordnet.
@@ -117,18 +117,18 @@ vertragsrecht/
 │   ├── abschluss-debrief.md
 │   └── vorgehensleitfaden-monitor.md
 ├── skills/
-│   ├── cold-start-interview/    # → ersteinrichtung
-│   ├── review/                  # → prüfen
-│   ├── review-proposals/        # → klausel-vorschläge
-│   ├── vendor-agreement-review/ # → lieferantenvertrag-prüfung
-│   ├── nda-review/              # → nda-prüfung
-│   ├── saas-msa-review/         # → saas-msa-prüfung
-│   ├── renewal-tracker/         # → verlängerungstracker
+│   ├── kaltstart-interview/    # → ersteinrichtung
+│   ├── vertragspruefung/                  # → prüfen
+│   ├── pruefungsvorschlaege/        # → klausel-vorschläge
+│   ├── lieferantenvertrag-pruefung/ # → lieferantenvertrag-prüfung
+│   ├── nda-pruefung/              # → nda-prüfung
+│   ├── saas-msa-pruefung/         # → saas-msa-prüfung
+│   ├── vertragsverlaengerungs-monitor/         # → vertragsverlaengerungs-monitor
 │   │   └── references/renewal-register.yaml
-│   ├── escalation-flagger/      # → eskalation
-│   ├── amendment-history/       # → nachtragsverwaltung
+│   ├── eskalations-marker/      # → eskalation
+│   ├── aenderungs-historie/       # → aenderungs-historie
 │   ├── mandats-arbeitsbereich/  # → akte
-│   ├── stakeholder-summary/     # → stakeholder-zusammenfassung
+│   ├── stakeholder-zusammenfassung/     # → stakeholder-zusammenfassung
 │   ├── abmahnung-uwg/           # NEU
 │   ├── agb-pruefung/            # NEU
 │   └── widerruf-fernabsatz/     # NEU

@@ -49,7 +49,7 @@ import anthropic
 import jsonschema
 
 ALLOWED_TARGETS = {
-    "reg-monitor", "renewal-watcher", "diligence-grid", "launch-radar", "docket-watcher",
+    "reg-monitor", "verlaengerungs-monitor", "diligence-grid", "launch-radar", "terminkalender-monitor",
 }
 
 # Closed schema of permitted handoff intents. Parameters are typed and
@@ -117,10 +117,10 @@ HANDOFF_TEMPLATES: dict[str, str] = {
     ),
     "deal_debrief": (
         "Run a post-signature deviation debrief for matter {matter_id} using "
-        "the deal-debrief skill."
+        "the deal-nachbesprechung skill."
     ),
     "playbook_monitor": (
-        "Run the playbook-monitor sweep. If a clause hint was provided, "
+        "Run the spielbuch-monitor sweep. If a clause hint was provided, "
         "prioritize it: {clause}."
     ),
 }

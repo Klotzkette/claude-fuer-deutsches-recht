@@ -200,6 +200,31 @@ In Deutschland besteht keine Präjudizienbindung; das BVerfG bindet nach § 31 B
 **Regel für jeden Skill, jedes Memo, jede E-Mail in diesem Repository:**
 > Jede juristische Aussage wird belegt. Bei umstrittenen Fragen werden h. M., Gegenauffassung und – sofern vorhanden – Rechtsprechung **getrennt** zitiert. Bei Fehlen einschlägiger Rechtsprechung ist dies ausdrücklich kenntlich zu machen ("soweit ersichtlich noch nicht entschieden"; "Rechtsprechung liegt hierzu noch nicht vor, vgl. aber …").
 
+## 10a. Palandt heisst seit 2022 Grüneberg — Pflicht-Nachfrage bei Palandt-Treffern
+
+**Es gibt kein aktuelles BGB-Kommentarwerk mit dem Namen „Palandt“ mehr.** Der vormalige Palandt erscheint seit der **81. Auflage 2022** unter dem Titel **Grüneberg, BGB** (Beck-Verlag). Eine Zitierung als „Palandt“ ist daher ab Auflage 81 sachlich falsch und ab Auflage 84 (2025) erst recht.
+
+**Regel:**
+
+1. Taucht in einem zu prüfenden Text irgendwo „Palandt“ als aktuelle Quelle auf, ist **zwingend nachzufragen**, ob tatsächlich eine **Altauflage (≤ 80. Aufl. 2021)** gemeint ist.
+2. **Im Zweifel** wird auf **Grüneberg** umgestellt (aktuelle Auflage, derzeit `84. Aufl. 2025`).
+3. Historische Bezüge auf den Palandt sind nur dann zulässig, wenn sie als solche kenntlich gemacht sind (`Palandt, BGB, 80. Aufl. 2021, § 280 Rn. 28`) und die Altauflage für die zitierte Aussage tatsächlich einschlägig ist.
+4. Formulierungen wie „vormals Palandt“ im Fließtext sind nur für **erklärende Hinweise** gestattet, nicht als laufende Zitierform.
+
+**Korrekt:**
+
+- `Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28`
+- `Ellenberger, in: Grüneberg, BGB, 84. Aufl. 2025, § 119 Rn. 7`
+- Historisch (mit Altauflage und sachlicher Notwendigkeit): `Palandt/Heinrichs, BGB, 67. Aufl. 2008, § 242 Rn. 38`
+
+**Falsch (Nachfrage auslösen):**
+
+- `Palandt, BGB, 84. Aufl. 2025, § 280 Rn. 28` — es gibt keinen Palandt in 84. Aufl.
+- `Palandt/Grüneberg, § 280 Rn. 28` — widersprüchlich; nach 2022 heißt das Werk Grüneberg.
+- `vgl. Palandt, § 535 Rn. 119` ohne Auflage — ist es ein historischer Beleg oder ein Versehen?
+
+Der Skill `kanzlei-builder-hub/skills/fundstellenglattzieher` setzt diese Regel automatisch durch: Jeder Palandt-Treffer wird als `[FUNDSTELLE PRÜFEN — PALANDT]` markiert und im Korrekturprotokoll mit Rückfrage versehen.
+
 ## 11. Typografische Detailregeln (Zeitschriften, Bücher, Bearbeiter)
 
 Die folgenden Regeln folgen der in der deutschen Schriftsatz- und Aufsatzpraxis verbreiteten, an der ZUM/MMR/NJW orientierten Konvention. Sie sind innerhalb dieses Repositorys verbindlich.

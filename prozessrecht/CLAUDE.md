@@ -1,6 +1,6 @@
 # Prozessrecht-Plugin – Praxiskonfiguration
 
-> Diese Datei wird vom Cold-Start-Interview geschrieben und angepasst. Sie enthält das Praxisprofil der Kanzlei bzw. Rechtsabteilung und steuert alle Skills. Vor dem ersten Einsatz das Cold-Start-Interview mit `/cold-start` ausführen.
+> Diese Datei wird vom Cold-Start-Interview geschrieben und angepasst. Sie enthält das Praxisprofil der Kanzlei bzw. Rechtsabteilung und steuert alle Skills. Vor dem ersten Einsatz das Cold-Start-Interview mit `/Kaltstart` ausführen.
 
 ---
 
@@ -113,9 +113,9 @@ kalender_mcp: false         # Kalender MCP verfügbar?
 
 | Skill | Befehl | Zweck |
 |---|---|---|
-| Cold-Start-Interview | `/cold-start` | Praxisprofil einrichten |
+| Cold-Start-Interview | `/Kaltstart` | Praxisprofil einrichten |
 | Konfiguration anpassen | `/anpassen` | Einzelne Einstellung ändern |
-| Neues Mandat | `/mandat-intake` | Mandatsaufnahme |
+| Neues Mandat | `/mandat-aufnahme` | Mandatsaufnahme |
 | Mandats-Update | `/mandat-update [slug]` | Entwicklung dokumentieren |
 | Mandats-Briefing | `/mandat-briefing [slug]` | Tiefenbriefing |
 | Mandat schließen | `/mandat-schliessen [slug]` | Mandat abschließen |
@@ -125,8 +125,8 @@ kalender_mcp: false         # Kalender MCP verfügbar?
 | Schriftsatzabschnitt | `/schriftsatz [slug]` | Klage, Erwiderung, Berufung |
 | Anspruchstabelle | `/anspruchstabelle [slug]` | Element-für-Element-Analyse |
 | Mahnschreiben | `/mahnschreiben [slug]` | Vorgerichtliche Aufforderung |
-| Mahnschreiben-Intake | `/mahnschreiben-intake` | Vorbereitung Mahnschreiben |
-| Eingehendes Schreiben | `/schreiben-eingegangen` | Eingehende Mahnung triage |
+| Mahnschreiben-Intake | `/mahnschreiben-aufnahme` | Vorbereitung Mahnschreiben |
+| Eingehendes Schreiben | `/mahnschreiben-erhalten` | Eingehende Mahnung triage |
 | Zeugenvernehmung-Vorbereitung | `/zeuge-vorbereitung [name]` | Vernehmung nach § 373 ff. ZPO |
 | Aufbewahrungspflicht | `/beweissicherung [slug]` | Legal Hold nach deutschem Recht |
 | Gegenseite-Status | `/gegenseite-status` | Korrespondenz Gegenseite / OC |
@@ -161,18 +161,18 @@ Kritische Fristen, die das Plugin stets überprüft:
 ## 9. Mandate und Dateistruktur
 
 ```
-matters/
+mandate/
 ├── _log.yaml              # Portfolio-Log aller Mandate
 ├── [slug]/
-│   ├── matter.md          # Mandatsstammdaten
-│   └── history.md         # Verlaufsdokumentation
+│   ├── mandat.md          # Mandatsstammdaten
+│   └── verlauf.md         # Verlaufsdokumentation
 demand-letters/
 ├── [slug]/
 │   ├── intake.md          # Mahnaktion-Intake
 │   └── [version].md       # Entwurf
 inbound/
 ├── [JJJJ-MM-TT]-[slug].md # Eingegangene Schreiben
-oc-status/
+gegenseite-status/
 ├── [JJJJ-MM-TT]/          # Wöchentliche OC-Statusanfragen
 ```
 

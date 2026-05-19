@@ -10,11 +10,11 @@ Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 1. Konfiguration aus diesem Pfad LESEN. Nicht aus dieser Datei.
 2. Falls diese Datei nicht existiert oder noch [PLATZHALTER]-Markierungen enthält, VOR
    substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin muss vor der Nutzung eingerichtet
-   werden. Führen Sie /arbeitsrecht:cold-start-interview aus – das dauert ca. 10–15 Minuten
+   werden. Führen Sie /arbeitsrecht:kaltstart-interview aus – das dauert ca. 10–15 Minuten
    und jeder Befehl in diesem Plugin hängt davon ab. Ohne Einrichtung sind Ausgaben generisch
-   und passen möglicherweise nicht zu Ihrer Praxis." NUR /arbeitsrecht:cold-start-interview
+   und passen möglicherweise nicht zu Ihrer Praxis." NUR /arbeitsrecht:kaltstart-interview
    darf ohne Einrichtung laufen.
-3. Einrichtung und cold-start-interview SCHREIBEN in diesen Pfad, erstellen übergeordnete
+3. Einrichtung und kaltstart-interview SCHREIBEN in diesen Pfad, erstellen übergeordnete
    Verzeichnisse nach Bedarf.
 4. Diese Datei (die Sie gerade lesen) ist die VORLAGE. Sie wird mit dem Plugin ausgeliefert und
    zeigt die Struktur, die die Konfiguration haben soll. Sie wird bei jedem Plugin-Update
@@ -22,13 +22,13 @@ Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 
 **Gemeinsames Kanzleiprofil.** Kanzlei-/Unternehmensweite Angaben (wer Sie sind, was Sie tun,
 wo Sie tätig sind, Ihre Risikoeinstellung, Schlüsselpersonen) stehen in
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/company-profile.md` – eine Ebene über
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` – eine Ebene über
 dieser Datei, von allen 12 Plugins gemeinsam genutzt. Diese Datei vor dem Plugin-eigenen
 Praxisprofil lesen. Falls sie nicht existiert, erstellt die Einrichtung dieses Plugins sie.
 -->
 
 # Arbeitsrechtliches Praxisprofil
-*Erstellt durch cold-start am [DATUM]. Falls `[PLATZHALTER]`, führen Sie `/arbeitsrecht:cold-start-interview` aus.*
+*Erstellt durch Kaltstart am [DATUM]. Falls `[PLATZHALTER]`, führen Sie `/arbeitsrecht:kaltstart-interview` aus.*
 
 ---
 
@@ -36,10 +36,10 @@ Praxisprofil lesen. Falls sie nicht existiert, erstellt die Einrichtung dieses P
 
 [Kanzlei / Unternehmen]. Mitarbeiterzahl: [N]. HR-Leitung: [Name]. Arbeitsrechtliche Beratung: [intern / extern / beides].
 
-*(Kanzlei-/Unternehmensname und Mitarbeiterzahl kommen aus company-profile.md – dort bearbeiten, damit Änderungen in allen Plugins wirksam werden. HR-Leitung und Beratungsstruktur sind Plugin-spezifisch.)*
+*(Kanzlei-/Unternehmensname und Mitarbeiterzahl kommen aus unternehmens-profil.md – dort bearbeiten, damit Änderungen in allen Plugins wirksam werden. HR-Leitung und Beratungsstruktur sind Plugin-spezifisch.)*
 
 **Praxisumfeld:** [PLATZHALTER – Einzelkanzlei / Mittelgroße Kanzlei / Großkanzlei / Rechtsabteilung in-house / Syndikusrechtsanwalt / Behördlicher Rechtsdienst]
-*(Aus company-profile.md – dort bearbeiten, damit Änderungen in allen Plugins wirksam werden)*
+*(Aus unternehmens-profil.md – dort bearbeiten, damit Änderungen in allen Plugins wirksam werden)*
 
 ---
 
@@ -131,11 +131,11 @@ Wenn ein Skill eine benötigte Information nicht hat (vollständiger Normtext, B
 
 | Integration | Status | Fallback bei Nicht-Verfügbarkeit |
 |---|---|---|
-| HRIS (Workday, BambooHR, Personio, DATEV) | [✓ / ✗] | Urlaubsdaten in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`; manuelle Eingabe via `/arbeitsrecht:log-fehlzeit` |
+| HRIS (Workday, BambooHR, Personio, DATEV) | [✓ / ✗] | Urlaubsdaten in `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/urlaubsregister.yaml`; manuelle Eingabe via `/arbeitsrecht:fehlzeit-erfassen` |
 | Dokumentenablage (SharePoint, Google Drive, DMS) | [✓ / ✗] | Lokale Pfade für Handbuch und Muster-Dokumente lesen |
 | E-Mail (Outlook, Gmail) | [✓ / ✗] | Ausgaben nur als Dateien; kein automatischer Versand |
 
-*Erneut prüfen: `/arbeitsrecht:cold-start-interview --check-integrations`*
+*Erneut prüfen: `/arbeitsrecht:kaltstart-interview --check-integrations`*
 
 ---
 
@@ -226,7 +226,7 @@ Verweis: `../references/methodik-deutsches-recht.md`
 
 *Nur relevant für multi-mandant-Kanzleien. Für Syndikusrechtsanwälte mit einem Arbeitgeber ist diese Funktion deaktiviert.*
 
-**Aktiviert:** ✗ (bei cold-start für Kanzleibetrieb aktivierbar; Syndikusrechtsanwälte brauchen dies nicht)
+**Aktiviert:** ✗ (bei Kaltstart für Kanzleibetrieb aktivierbar; Syndikusrechtsanwälte brauchen dies nicht)
 **Aktive Akte:** keine
 **Aktenübergreifender Kontext:** deaktiviert
 
@@ -285,7 +285,7 @@ Verweis: `../references/methodik-deutsches-recht.md`
 
 ## Jurisdiktionsspezifische Eskalationsregeln
 
-*Erstellt aus Personalhandbuch und Kündigungsunterlagen bei cold-start.*
+*Erstellt aus Personalhandbuch und Kündigungsunterlagen bei Kaltstart.*
 
 | Jurisdiktion / Besonderheit | Sonderregelung | Eskalieren wenn |
 |---|---|---|
@@ -325,4 +325,4 @@ Verweis: `../references/methodik-deutsches-recht.md`
 
 ---
 
-*Erneut ausführen: `/arbeitsrecht:cold-start-interview --redo`*
+*Erneut ausführen: `/arbeitsrecht:kaltstart-interview --redo`*

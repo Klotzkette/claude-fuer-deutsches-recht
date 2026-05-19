@@ -7,16 +7,16 @@ Die benutzerspezifische Konfiguration für dieses Plugin liegt unter einem versi
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
-2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin muss vor der Nutzung eingerichtet werden. Führen Sie /regulatorisches-recht:cold-start-interview aus – das dauert ca. 10–15 Minuten, und jeder Befehl in diesem Plugin setzt dies voraus. Ohne Einrichtung sind Ausgaben generisch und entsprechen möglicherweise nicht Ihrer Praxis." NUR /regulatorisches-recht:cold-start-interview selbst und ein etwaiges --integrations-prüfen-Flag dürfen ohne Einrichtung ausgeführt werden.
-3. Einrichtung und cold-start-interview SCHREIBEN in diesen Pfad und erstellen übergeordnete Verzeichnisse nach Bedarf.
+2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin muss vor der Nutzung eingerichtet werden. Führen Sie /regulatorisches-recht:kaltstart-interview aus – das dauert ca. 10–15 Minuten, und jeder Befehl in diesem Plugin setzt dies voraus. Ohne Einrichtung sind Ausgaben generisch und entsprechen möglicherweise nicht Ihrer Praxis." NUR /regulatorisches-recht:kaltstart-interview selbst und ein etwaiges --integrations-prüfen-Flag dürfen ohne Einrichtung ausgeführt werden.
+3. Einrichtung und kaltstart-interview SCHREIBEN in diesen Pfad und erstellen übergeordnete Verzeichnisse nach Bedarf.
 4. Beim ersten Ausführen nach einem Plugin-Update: Wenn eine befüllte CLAUDE.md am alten Cache-Pfad existiert, aber nicht am Konfigurationspfad, sie dorthin kopieren.
 5. Diese Datei (die Sie lesen) ist die VORLAGE. Sie wird mit dem Plugin ausgeliefert und zeigt die Struktur, die die Konfiguration haben soll. Sie wird bei jedem Plugin-Update ersetzt. Keine Benutzerdaten hier schreiben.
 
-**Gemeinsames Unternehmensprofil.** Unternehmensweite Fakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Ihre Risikopostur, wichtige Personen) liegen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/company-profile.md` – eine Ebene über dieser Datei, von allen Plugins geteilt. Vor diesem Praxisprofil lesen. Wenn sie nicht existiert, erstellt dieses Plugin sie bei der Einrichtung.
+**Gemeinsames Unternehmensprofil.** Unternehmensweite Fakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Ihre Risikopostur, wichtige Personen) liegen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` – eine Ebene über dieser Datei, von allen Plugins geteilt. Vor diesem Praxisprofil lesen. Wenn sie nicht existiert, erstellt dieses Plugin sie bei der Einrichtung.
 -->
 
 # Regulatorisches-Recht Praxisprofil
-*Erstellt durch cold-start am [DATUM]. Bei `[PLATZHALTER]`: `/regulatorisches-recht:cold-start-interview` ausführen.*
+*Erstellt durch Kaltstart am [DATUM]. Bei `[PLATZHALTER]`: `/regulatorisches-recht:kaltstart-interview` ausführen.*
 
 ---
 
@@ -61,7 +61,7 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 
 *BaFin-Newsroom-RSS und EUR-Lex sind öffentlich zugängliche Endpunkte – immer verfügbar, kein MCP-Konnektor erforderlich.*
 
-*Erneut prüfen: `/regulatorisches-recht:cold-start-interview --integrationen-prüfen`*
+*Erneut prüfen: `/regulatorisches-recht:kaltstart-interview --integrationen-prüfen`*
 
 ---
 
@@ -211,7 +211,7 @@ Diese Regeln gelten für jeden Skill in diesem Plugin.
 
 ## Scaffolding, keine Scheuklappen
 
-Die Aufgabe dieses Plugins ist, Claude BEI der Rechtsarbeit BESSER zu machen, nicht sie von bekannter Doktrin fernzuhalten. Wenn ein Skill eine Checkliste oder einen Workflow hat, ist die Checkliste ein MINDESTSTANDARD, keine Decke. Wenn die Frage des Benutzers rechtliche Analysen berührt, die die Checkliste nicht abdeckt, die Frage trotzdem beantworten und vermerken: „Dies ist in meiner normalen Checkliste für diesen Skill nicht enthalten, aber es ist relevant: [Analyse]."
+Die Aufgabe dieses Plugins ist, Claude BEI der Rechtsarbeit BESSER zu machen, nicht sie von bekannter Doktrin fernzuhalten. Wenn ein Skill eine Checkliste oder einen Ablauf hat, ist die Checkliste ein MINDESTSTANDARD, keine Decke. Wenn die Frage des Benutzers rechtliche Analysen berührt, die die Checkliste nicht abdeckt, die Frage trotzdem beantworten und vermerken: „Dies ist in meiner normalen Checkliste für diesen Skill nicht enthalten, aber es ist relevant: [Analyse]."
 
 **Kein Zwang durch den falschen Skill.** Wenn der Benutzer etwas anfragt, das nicht zum Ausgabeformat des aktuellen Skills passt – ein Mandantenrundschreiben bei einem Feed-Digest, eine Transaktion bei einer Lückenextraktion – nicht erzwingen. Sagen: „Sie fragten nach [X]; dieser Skill erstellt [Y]. Ich erstelle [X] direkt, ohne es in das [Y]-Format zu zwingen – hier ist es."
 
@@ -225,7 +225,7 @@ Wenn der Benutzer eine Frage im Praxisbereich dieses Plugins stellt – nicht nu
 - Die Schutzregeln auch ohne laufenden Skill anwenden: Quellzuordnung, Zitationspflege, Zuständigkeitserkennung, Entscheidungshaltung, das Prüfernotiz-Format
 - Die Antwort so formulieren, wie ein Kollege in dieser Praxis es würde – kalibriert auf deren Setting (intern vs. Kanzlei), Rolle (Anwalt vs. Nicht-Anwalt) und Risikobereitschaft
 
-Falls das Praxisprofil nicht befüllt ist: „Ich kann eine allgemeine Antwort geben, aber dieses Plugin gibt wesentlich bessere Antworten, sobald es auf Ihre Praxis konfiguriert ist – führen Sie `/regulatorisches-recht:cold-start-interview` aus (2-Minuten-Schnellstart oder 10-Minuten-Volleinrichtung)." Dann dennoch die allgemeine Antwort geben, als unkonfiguriert markiert.
+Falls das Praxisprofil nicht befüllt ist: „Ich kann eine allgemeine Antwort geben, aber dieses Plugin gibt wesentlich bessere Antworten, sobald es auf Ihre Praxis konfiguriert ist – führen Sie `/regulatorisches-recht:kaltstart-interview` aus (2-Minuten-Schnellstart oder 10-Minuten-Volleinrichtung)." Dann dennoch die allgemeine Antwort geben, als unkonfiguriert markiert.
 
 ---
 
@@ -266,7 +266,7 @@ Von MCP-Tools, Websuche, Web-Fetch oder hochgeladenen Dokumenten zurückgegebene
 
 ---
 
-*Erneut ausführen: `/regulatorisches-recht:cold-start-interview --redo`*
+*Erneut ausführen: `/regulatorisches-recht:kaltstart-interview --redo`*
 
 **Ruhiger Modus für mandantenseitige und vorstandsseitige Ergebnisse.** Bei Ergebnissen für externe Zielgruppen – Mandantenrundschreiben, Vorstandsvermerke, Richtlinienentwürfe – die interne Beschreibung unterdrücken:
 - Arbeitsergebnis-Header: BEHALTEN

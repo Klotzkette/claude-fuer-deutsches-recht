@@ -168,6 +168,27 @@ Aktenzeichen, unklare Randnummer, unbekanntes Zeitschriftenkürzel,
 fehlende Auflage), wird die Fundstelle mit `[FUNDSTELLE PRÜFEN]`
 markiert und ein Hinweis ausgegeben.
 
+### 4a. Hard-Stop bei Palandt
+
+Jeder Treffer des Wortes `Palandt` — in welcher Schreibvariante auch
+immer (`Palandt`, `Palandt/Bearbeiter`, `Palandt, BGB`, `vgl. Palandt`)
+— löst den Spezialmarker **`[FUNDSTELLE PRÜFEN — PALANDT]`** aus und
+wird **niemals stillschweigend** in `Grüneberg` umgeschrieben. Im
+Korrekturprotokoll wird die Stelle als Pflicht-Rückfrage geführt:
+
+> Rückfrage Palandt: Der BGB-Kommentar heißt seit der 81. Aufl. 2022
+> **Grüneberg**. Ist (a) eine konkrete Palandt-**Altauflage**
+> (≤ 80. Aufl. 2021) gemeint — bitte Auflage und Bearbeiter angeben —
+> oder (b) ein **aktueller Beleg**, der dann auf
+> `Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § X Rn. Y`
+> umzustellen ist?
+
+Erst nach ausdrücklicher Antwort wird der Marker aufgelöst. Details
+und Regex-Varianten siehe
+[`references/regex-muster.md`](./references/regex-muster.md) Abschn. 11
+sowie [`references/zitierweise.md`](../../../references/zitierweise.md)
+Abschn. 10a.
+
 ### 5. Ausgabe
 
 Drei Artefakte:
@@ -266,6 +287,12 @@ Die Whitelist in `references/zitierweise.md` Abschnitt 13 nutzt die
 **punktlose** Form (`iVm`, `iSv`). Wenn ein Dokument einheitlich die
 gepunktete Form verwendet, kann diese stehen bleiben, sofern der Skill
 es eindeutig erkennt; Mischformen werden vereinheitlicht.
+
+**8. Palandt nicht automatisch in Grüneberg umbenennen**
+Der Kommentar heißt seit der 81. Aufl. 2022 Grüneberg, davor Palandt.
+Die automatische Ersetzung würde eine Altauflagen-Zitierung verfälschen.
+Deshalb gilt der Hard-Stop aus Abschnitt 4a: Pflicht-Rückfrage, keine
+stille Umbenennung.
 
 ## Quellenpflicht
 

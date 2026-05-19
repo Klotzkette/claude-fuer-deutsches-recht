@@ -7,7 +7,7 @@ Benutzerspezifische Konfiguration für dieses Plugin liegt an einem versionsunab
 
 Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
-2. Existiert diese Datei nicht oder enthält noch [PLATZHALTER]-Marker, VOR substanzieller Arbeit STOPPEN. Ausgabe: „Dieses Plugin benötigt eine Einrichtung, bevor es sinnvolle Ergebnisse liefern kann. Führen Sie /datenschutzrecht:cold-start-interview aus – die Einrichtung dauert ca. 10–15 Minuten; ohne sie sind Ausgaben generisch und entsprechen nicht Ihrer tatsächlichen Praxis." Ausnahme: Das Cold-Start-Interview selbst und --check-integrations laufen auch ohne Setup.
+2. Existiert diese Datei nicht oder enthält noch [PLATZHALTER]-Marker, VOR substanzieller Arbeit STOPPEN. Ausgabe: „Dieses Plugin benötigt eine Einrichtung, bevor es sinnvolle Ergebnisse liefern kann. Führen Sie /datenschutzrecht:kaltstart-interview aus – die Einrichtung dauert ca. 10–15 Minuten; ohne sie sind Ausgaben generisch und entsprechen nicht Ihrer tatsächlichen Praxis." Ausnahme: Das Cold-Start-Interview selbst und --check-integrations laufen auch ohne Setup.
 3. Setup und Cold-Start-Interview SCHREIBEN in diesen Pfad (übergeordnete Verzeichnisse werden angelegt).
 4. Bei erstem Start nach einem Plugin-Update: Wenn eine befüllte CLAUDE.md am alten Cache-Pfad existiert, aber nicht am Konfigurationspfad, diese automatisch dorthin übertragen.
 5. Diese Datei hier ist die VORLAGE. Sie wird mit jedem Plugin-Update überschrieben. Keine Benutzerdaten hier eintragen.
@@ -16,7 +16,7 @@ Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 -->
 
 # Datenschutzrecht – Praxisprofil
-*Geschrieben durch das Cold-Start-Interview. Bis dahin ist dies eine Vorlage – enthält die Datei `[PLATZHALTER]`, führen Sie `/datenschutzrecht:cold-start-interview` aus.*
+*Geschrieben durch das Cold-Start-Interview. Bis dahin ist dies eine Vorlage – enthält die Datei `[PLATZHALTER]`, führen Sie `/datenschutzrecht:kaltstart-interview` aus.*
 
 ---
 
@@ -58,11 +58,11 @@ Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 
 | Integration | Status | Fallback bei Ausfall |
 |---|---|---|
-| Dokumentenspeicher (Drive / SharePoint) | [PLATZHALTER ✓/✗] | Ausgaben lokal gespeichert; policy-monitor nur im Direct-Query-Modus |
+| Dokumentenspeicher (Drive / SharePoint) | [PLATZHALTER ✓/✗] | Ausgaben lokal gespeichert; richtlinien-monitor nur im Direct-Query-Modus |
 | Slack / Teams | [PLATZHALTER ✓/✗] | Datenpannen- und Triage-Meldungen inline statt gepostet |
 | Aufgabenplanung | [PLATZHALTER ✓/✗] | Policy-Monitor-Scan nur auf Abruf |
 
-*Neu prüfen: `/datenschutzrecht:cold-start-interview --check-integrations`*
+*Neu prüfen: `/datenschutzrecht:kaltstart-interview --check-integrations`*
 
 ---
 
@@ -212,7 +212,7 @@ Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 **Letzte Aktualisierung:** [PLATZHALTER – Datum]
 **Letzter Policy-Scan:** [PLATZHALTER – Datum, automatisch aktualisiert]
 
-**Weitere Datenschutz-Commitment-Flächen** (policy-monitor prüft alle):
+**Weitere Datenschutz-Commitment-Flächen** (richtlinien-monitor prüft alle):
 - **CMP / Cookie-Consent-Banner:** [PLATZHALTER – Anbieter + Konfigurationspfad, letztes Änderungsdatum]
 - **App-Store Privacy Label (Apple):** [PLATZHALTER – Pfad/URL oder entfällt]
 - **Google Data Safety Label:** [PLATZHALTER – Pfad/URL oder entfällt]
@@ -287,8 +287,8 @@ Diese Regeln gelten für jeden Skill in diesem Plugin. Bei Widersprüchen zwisch
 
 Wenn Mandat-Arbeitsbereiche aktiviert sind, arbeiten Skills im Kontext des aktiven Mandats. Ausgaben werden in den Mandatsordner geschrieben. Beim Wechsel des Mandats wird der Kontext nicht übertragen.
 
-Mandate verwalten mit `/datenschutzrecht:matter-workspace neu | liste | wechsle | schließe | keins`.
+Mandate verwalten mit `/datenschutzrecht:mandat-arbeitsbereich neu | liste | wechsle | schließe | keins`.
 
 ---
 
-*Neu einrichten: `/datenschutzrecht:cold-start-interview --redo`*
+*Neu einrichten: `/datenschutzrecht:kaltstart-interview --redo`*

@@ -7,27 +7,27 @@ Nutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsuna
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
-2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR der eigentlichen Arbeit STOPPEN. Sagen Sie: „Dieses Plugin benötigt ein Setup bevor es nützliche Ausgaben liefern kann. Führen Sie /produktrecht:cold-start-interview aus – es dauert ca. 10–15 Minuten und jeder Befehl in diesem Plugin hängt davon ab. Ohne Setup sind Ausgaben generisch und spiegeln möglicherweise nicht wider, wie Ihre Praxis tatsächlich arbeitet." NICHT mit Platzhalter- oder Standard-Konfiguration fortfahren. Die einzigen Skills die ohne Setup laufen: /produktrecht:cold-start-interview selbst und jedes --check-integrations-Flag.
-3. Setup und cold-start-interview SCHREIBEN in diesen Pfad, erstellen übergeordnete Verzeichnisse bei Bedarf.
+2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR der eigentlichen Arbeit STOPPEN. Sagen Sie: „Dieses Plugin benötigt ein Setup bevor es nützliche Ausgaben liefern kann. Führen Sie /produktrecht:kaltstart-interview aus – es dauert ca. 10–15 Minuten und jeder Befehl in diesem Plugin hängt davon ab. Ohne Setup sind Ausgaben generisch und spiegeln möglicherweise nicht wider, wie Ihre Praxis tatsächlich arbeitet." NICHT mit Platzhalter- oder Standard-Konfiguration fortfahren. Die einzigen Skills die ohne Setup laufen: /produktrecht:kaltstart-interview selbst und jedes --check-integrations-Flag.
+3. Setup und kaltstart-interview SCHREIBEN in diesen Pfad, erstellen übergeordnete Verzeichnisse bei Bedarf.
 4. Beim ersten Lauf nach einem Plugin-Update: wenn eine ausgefüllte CLAUDE.md (ohne [PLATZHALTER]-Marker) unter dem alten Cache-Pfad existiert aber nicht unter dem Konfigurationspfad, diese vorwärts an den Konfigurationspfad kopieren.
 5. Diese Datei (die Sie gerade lesen) ist die VORLAGE. Sie wird mit dem Plugin ausgeliefert. Sie wird bei jedem Plugin-Update ersetzt. Niemals Nutzerdaten hierher schreiben.
 
-**Gemeinsames Unternehmensprofil.** Unternehmensweite Fakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Ihre Risikoposition, wichtige Personen) liegen in `~/.claude/plugins/config/claude-fuer-legal/company-profile.md` – eine Ebene über dieser Datei, geteilt von allen Plugins. Diese vor dem Praxis-Profil dieses Plugins lesen. Wenn sie nicht existiert, erstellt das Setup dieses Plugins sie.
+**Gemeinsames Unternehmensprofil.** Unternehmensweite Fakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Ihre Risikoposition, wichtige Personen) liegen in `~/.claude/plugins/config/claude-fuer-legal/unternehmens-profil.md` – eine Ebene über dieser Datei, geteilt von allen Plugins. Diese vor dem Praxis-Profil dieses Plugins lesen. Wenn sie nicht existiert, erstellt das Setup dieses Plugins sie.
 -->
 
 # Produktrecht – Praxisprofil
-*Erstellt durch Cold-Start am [DATUM]. Wenn Sie `[PLATZHALTER]` sehen, führen Sie `/produktrecht:cold-start-interview` aus.*
+*Erstellt durch Cold-Start am [DATUM]. Wenn Sie `[PLATZHALTER]` sehen, führen Sie `/produktrecht:kaltstart-interview` aus.*
 
 ---
 
 ## Wer wir sind
 
-[Unternehmen] stellt [Produkt] her. [Verbraucher/B2B/beide]. Reguliert durch [keine/Liste]. International: [Regionen]. *(Unternehmensname, Branche und Jurisdiktionen kommen aus company-profile.md – dort bearbeiten um alle Plugins zu aktualisieren)*
+[Unternehmen] stellt [Produkt] her. [Verbraucher/B2B/beide]. Reguliert durch [keine/Liste]. International: [Regionen]. *(Unternehmensname, Branche und Jurisdiktionen kommen aus unternehmens-profil.md – dort bearbeiten um alle Plugins zu aktualisieren)*
 
 **Unternehmensphase:** [PLATZHALTER – Frühphase / Series A-D / Pre-IPO / börsennotiert / PE-gehalten / sonstige]
 **Investorbedingte Risikoüberlagerungen:** [PLATZHALTER – Aufsichtsratsberichterstattung, D&O-Einschränkungen, Offenlegungsschranken für börsennotierte Unternehmen, oder keine]
 
-**Jurisdiktions-Fußabdruck:** *(Aus company-profile.md – dort bearbeiten um alle Plugins zu aktualisieren)*
+**Jurisdiktions-Fußabdruck:** *(Aus unternehmens-profil.md – dort bearbeiten um alle Plugins zu aktualisieren)*
 - Nutzer: [PLATZHALTER]
 - Mitarbeiter und Daten: [PLATZHALTER]
 - Hochrelevante Jurisdiktionen: [PLATZHALTER]
@@ -37,7 +37,7 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 **Was uns nachts wachhält:** [PLATZHALTER]
 **Die Frage, die der GC immer stellt:** [PLATZHALTER]
 
-**Praxissetting:** [PLATZHALTER – Solo/kleine Kanzlei | Mittelgroße/große Kanzlei | In-House | Behörde/Rechtsberatungsstelle] *(Aus company-profile.md – dort bearbeiten um alle Plugins zu aktualisieren)*
+**Praxissetting:** [PLATZHALTER – Solo/kleine Kanzlei | Mittelgroße/große Kanzlei | In-House | Behörde/Rechtsberatungsstelle] *(Aus unternehmens-profil.md – dort bearbeiten um alle Plugins zu aktualisieren)*
 
 ---
 
@@ -56,7 +56,7 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 | Dokumentenspeicher (Drive / SharePoint) | [PLATZHALTER ✓/✗] | Review-Memos lokal gespeichert; Seed-Docs manuell abgerufen |
 | Slack | [PLATZHALTER ✓/✗] | Triage-Antworten direkt inline statt gepostet |
 
-*Neu prüfen: `/produktrecht:cold-start-interview --check-integrations`*
+*Neu prüfen: `/produktrecht:kaltstart-interview --check-integrations`*
 
 ---
 
@@ -191,7 +191,7 @@ Tool-abgerufene Zitate behalten ihren Quell-Tag (`[juris]`, `[beck-online]`, `[B
 
 ## Praxis-Profil (Launch-Konfiguration)
 
-<!-- SETUP PAUSED AT: [Abschnittsname] — /produktrecht:cold-start-interview ausführen um fortzufahren -->
+<!-- SETUP PAUSED AT: [Abschnittsname] — /produktrecht:kaltstart-interview ausführen um fortzufahren -->
 
 ### Wer wir sind
 [PLATZHALTER]
@@ -214,7 +214,7 @@ Tool-abgerufene Zitate behalten ihren Quell-Tag (`[juris]`, `[beck-online]`, `[B
 **Freigabe:** [PLATZHALTER]
 
 ### Review-Framework
-*Geprüfte Kategorien bei jedem Launch (vgl. `references/launch-review-framework-de.md`):*
+*Geprüfte Kategorien bei jedem Launch (vgl. `references/launch-pruefung-framework-de.md`):*
 1. [PLATZHALTER]
 
 ### Risikokalibrierung
@@ -268,4 +268,4 @@ Tool-abgerufene Zitate behalten ihren Quell-Tag (`[juris]`, `[beck-online]`, `[B
 
 ---
 
-*Neu ausführen: `/produktrecht:cold-start-interview --redo`*
+*Neu ausführen: `/produktrecht:kaltstart-interview --redo`*

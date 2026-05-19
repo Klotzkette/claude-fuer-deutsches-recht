@@ -7,7 +7,7 @@ Stapelweise Dokumentenprüfung über einen virtuellen Datenraum (VDR) im M&A-Kon
 - **Beobachten** – überwacht den VDR auf neue Uploads seit einem Stichdatum, klassifiziert jeden Upload gegen die Prüflisten-Kategorien des eingesetzten Teams und markiert Uploads in hochpriorisierten Kategorien (Wesentliche Verträge, Rechtsstreitigkeiten, Schutzrechte/IP).
 - **Tabelle** – führt eine tabellarische Prüfung gegen ein Spaltenschema über einen Dokumentenordner durch. Eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle rückzitiert auf ein wörtliches Quellzitat. Das M&A-Due-Diligence-Arbeitsmittel.
 
-Gleiche Quelle wie das [`corporate-legal`](../../corporate-legal)-Plugin – dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`. Der Tabellenmodus nutzt den `tabular-review`-Skill und läuft headless über eine Extractor-Worker-Flotte.
+Gleiche Quelle wie das [`corporate-legal`](../../corporate-legal)-Plugin – dieses Verzeichnis ist das Managed-Agent-Kochbuch für `POST /v1/agents`. Der Tabellenmodus nutzt den `tabellenpruefung`-Skill und läuft headless über eine Extractor-Worker-Flotte.
 
 ## ⚠️ Vor dem Deployment
 
@@ -24,7 +24,7 @@ export BOX_MCP_URL=...
 export GDRIVE_MCP_URL=...
 export IMANAGE_MCP_URL=...          # optional; Standard-Konfiguration aktivieren, wenn genutzt
 export DEFINELY_MCP_URL=...         # optional; für Klauselstruktur-QA des Normalizer-Durchlaufs
-../../scripts/deploy-managed-agent.sh due-diligence-tabelle
+../../scripts/agentenrezept-ausliefern.sh due-diligence-tabelle
 ```
 
 ## Steuerungsereignisse
@@ -37,27 +37,27 @@ VDR-Dokumente – Verträge, Protokolle der Gesellschafterversammlung / des Aufs
 
 | Stufe | Berührt nicht vertrauenswürdige Dokumente? | Tools | Konnektoren |
 |---|---|---|---|
-| **`doc-reader`** | **Ja** (nur lesend) | `Read`, `Grep` | Box, Google Drive, iManage (Lesen) |
-| **`extractor`** | **Ja** (nur lesend) | `Read`, `Grep` | Keine |
-| `normalizer` / Orchestrator | Nein | `Read`, `Grep`, `Glob`, `Agent` | Keine (Definely optional, nur lesen) |
-| **`grid-writer`** (Write-Inhaber) | Nein | `Read`, `Write` | Keine |
+| **`dokument-leser`** | **Ja** (nur lesend) | `Read`, `Grep` | Box, Google Drive, iManage (Lesen) |
+| **`extrahierer`** | **Ja** (nur lesend) | `Read`, `Grep` | Keine |
+| `normalisierer` / Orchestrator | Nein | `Read`, `Grep`, `Glob`, `Agent` | Keine (Definely optional, nur lesen) |
+| **`tabellen-schreiber`** (Write-Inhaber) | Nein | `Read`, `Write` | Keine |
 
-`doc-reader` und `extractor` liefern längenbegrenzte, schema-validierte JSON. Der Orchestrator und `normalizer` sehen nur strukturierte Daten. `grid-writer` erzeugt `./out/due-diligence-tabelle-<Datum>.csv`, `./out/due-diligence-tabelle-<Datum>_quellen.csv` und `./out/due-diligence-tabelle-<Datum>-zusammenfassung.md`.
+`dokument-leser` und `extrahierer` liefern längenbegrenzte, schema-validierte JSON. Der Orchestrator und `normalisierer` sehen nur strukturierte Daten. `tabellen-schreiber` erzeugt `./out/due-diligence-tabelle-<Datum>.csv`, `./out/due-diligence-tabelle-<Datum>_quellen.csv` und `./out/due-diligence-tabelle-<Datum>-zusammenfassung.md`.
 
-**CSV-Formelinjektionsabwehr.** Jede Zelle, die vom `grid-writer` geschrieben wird – Werte, wörtliche Zitate, Fundstellen, Dokumentnamen, Spaltenbezeichnungen – wird auf das erste Zeichen gegen `=`, `+`, `-`, `@`, Tab und Wagenrücklauf geprüft. Zellen, die übereinstimmen, werden mit einem einzelnen Apostroph vorangestellt. Vom Vertragspartner hochgeladene Verträge enthalten routinemäßig Zeichenketten, die Excel und Sheets sonst als Formeln ausführen (`=HYPERLINK(...)` Exfiltration, `=cmd|...` DDE in älterem Excel), sobald das Dealteam die Datei öffnet.
+**CSV-Formelinjektionsabwehr.** Jede Zelle, die vom `tabellen-schreiber` geschrieben wird – Werte, wörtliche Zitate, Fundstellen, Dokumentnamen, Spaltenbezeichnungen – wird auf das erste Zeichen gegen `=`, `+`, `-`, `@`, Tab und Wagenrücklauf geprüft. Zellen, die übereinstimmen, werden mit einem einzelnen Apostroph vorangestellt. Vom Vertragspartner hochgeladene Verträge enthalten routinemäßig Zeichenketten, die Excel und Sheets sonst als Formeln ausführen (`=HYPERLINK(...)` Exfiltration, `=cmd|...` DDE in älterem Excel), sobald das Dealteam die Datei öffnet.
 
-**Xlsx ist ein Deployment-Anliegen.** Das Kochbuch liefert nur CSVs. Das deployende Team transformiert diese in `.xlsx` mit der Arbeitsmappenstruktur in [`corporate-legal/skills/tabular-review/references/excel-output.md`](../../corporate-legal/skills/tabular-review/references/excel-output.md) – versteckte `_quelle`-Spalten, Zellkommentare mit dem Zitat beim Hovern, zustandsbasierte Füllungen, `Verifiziert`-Dropdown pro Spalte, `_schema`- und `_zusammenfassung`-Blätter.
+**Xlsx ist ein Deployment-Anliegen.** Das Kochbuch liefert nur CSVs. Das deployende Team transformiert diese in `.xlsx` mit der Arbeitsmappenstruktur in [`corporate-legal/skills/tabellenpruefung/references/excel-output.md`](../../corporate-legal/skills/tabellenpruefung/references/excel-output.md) – versteckte `_quelle`-Spalten, Zellkommentare mit dem Zitat beim Hovern, zustandsbasierte Füllungen, `Verifiziert`-Dropdown pro Spalte, `_schema`- und `_zusammenfassung`-Blätter.
 
 **Nicht garantiert:** Jede Zelle ist ein **Hinweis, der verifiziert werden muss**, kein Befund. Der Prüfer liest die Quelle, prüft das Zitat, markiert die Spalte `Verifiziert`. Ein Anwalt entscheidet, was in eine Zusicherung, einen Zeitplan oder ein Memo aufgenommen wird.
 
 ## Anpassungshinweise
 
 - **VDR-URL.** Setzen Sie `BOX_MCP_URL` / `GDRIVE_MCP_URL` / `IMANAGE_MCP_URL` passend zu Ihrem Datenraum. Standard aktiviert Box und Google Drive; wechseln Sie die `default_config` in [`agent.yaml`](./agent.yaml), wenn Sie iManage oder Datasite als primär betreiben. Für Intralinks oder Datasite fügen Sie einen Eintrag zu `mcp_servers` und `tools` mit der passenden MCP-URL hinzu.
-- **Spaltenschema.** Der M&A-Standard aus [`corporate-legal/skills/tabular-review/references/ma-diligence-columns.md`](../../corporate-legal/skills/tabular-review/references/ma-diligence-columns.md) ist der Standard. Passen Sie ihn für Ihren Deal-Typ an – Tech/IP, Healthcare, Immobilien, regulierte Finanzdienstleistungen – mit den Ergänzungen in dieser Referenz. Für deutsche M&A-Transaktionen empfehlen sich zusätzliche Spalten: Mitbestimmungsrelevanz (§ 111a AktG), GWB-Freigabe (§§ 35 ff. GWB), Grunderwerbsteuer (§ 1 GrEStG), steuerliche Organschaft.
-- **Ausgabeziel.** Ausgaben landen in `./out/`. Leiten Sie sie über Ihre Deploy-Pipeline in Ihren Deal-Ordner, Google Drive, iManage-Arbeitsbereich oder Box-Ordner weiter. Geben Sie dem `grid-writer` kein MCP zum Hochladen; eine Übergabe an Ihren Upload-Schritt ist sauberer und isoliert die Write-Stufe.
-- **Standardmodus.** Beobachten vs. Tabelle wird pro Steuerungsereignis ausgewählt. Wenn Ihr Workflow fast immer eines von beidem ist, füllen Sie die Steuerungsereignis-Vorlage in Ihrem Orchestrator entsprechend vor.
-- **Prüflistenkategorien.** Der Beobachtungsmodus klassifiziert gegen die Kategorien in der `CLAUDE.md`-Konfiguration des deployenden Teams. Führen Sie dort `/corporate-legal:cold-start-interview` durch, bevor Sie den Beobachtungsmodus in einen Live-Deal einbinden.
-- **Arbeitsergebnisvermerk.** `grid-writer` stellt den Vermerk aus der `## Ausgaben`-Konfiguration des deployenden Teams voran. Bestätigen Sie den Vermerk mit Ihrem Team – er unterscheidet sich je nach Prüferrolle (Rechtsanwalt vs. Nichtanwalt).
+- **Spaltenschema.** Der M&A-Standard aus [`corporate-legal/skills/tabellenpruefung/references/ma-diligence-columns.md`](../../corporate-legal/skills/tabellenpruefung/references/ma-diligence-columns.md) ist der Standard. Passen Sie ihn für Ihren Deal-Typ an – Tech/IP, Healthcare, Immobilien, regulierte Finanzdienstleistungen – mit den Ergänzungen in dieser Referenz. Für deutsche M&A-Transaktionen empfehlen sich zusätzliche Spalten: Mitbestimmungsrelevanz (§ 111a AktG), GWB-Freigabe (§§ 35 ff. GWB), Grunderwerbsteuer (§ 1 GrEStG), steuerliche Organschaft.
+- **Ausgabeziel.** Ausgaben landen in `./out/`. Leiten Sie sie über Ihre Deploy-Pipeline in Ihren Deal-Ordner, Google Drive, iManage-Arbeitsbereich oder Box-Ordner weiter. Geben Sie dem `tabellen-schreiber` kein MCP zum Hochladen; eine Übergabe an Ihren Upload-Schritt ist sauberer und isoliert die Write-Stufe.
+- **Standardmodus.** Beobachten vs. Tabelle wird pro Steuerungsereignis ausgewählt. Wenn Ihr Ablauf fast immer eines von beidem ist, füllen Sie die Steuerungsereignis-Vorlage in Ihrem Orchestrator entsprechend vor.
+- **Prüflistenkategorien.** Der Beobachtungsmodus klassifiziert gegen die Kategorien in der `CLAUDE.md`-Konfiguration des deployenden Teams. Führen Sie dort `/corporate-legal:kaltstart-interview` durch, bevor Sie den Beobachtungsmodus in einen Live-Deal einbinden.
+- **Arbeitsergebnisvermerk.** `tabellen-schreiber` stellt den Vermerk aus der `## Ausgaben`-Konfiguration des deployenden Teams voran. Bestätigen Sie den Vermerk mit Ihrem Team – er unterscheidet sich je nach Prüferrolle (Rechtsanwalt vs. Nichtanwalt).
 - **Benachrichtigungsweiterleitung.** Dieser Agent veröffentlicht niemals direkt. Berichte sind Dateien; ein `handoff_request` teilt Ihrem Orchestrator mit, welchen Kanal er weiterleiten soll. Konfigurieren Sie den Deal-Kanal in der `CLAUDE.md`-Konfiguration des deployenden Teams.
 
 ## Relevante Rechtsnormen (deutsches M&A-Recht)

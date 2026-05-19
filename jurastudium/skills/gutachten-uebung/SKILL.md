@@ -189,6 +189,6 @@ Typischer Defizit-Befund: Studierende nennen § 985 BGB (Eigentumsherausgabe) vo
 
 ## Quellenpflicht
 
-Normangaben und Entscheidungszitate im Feedback entstammen gefestigter Rechtsprechung und Literatur. Für klausurrelevante Definitionen: stets gegen aktuelles Skript (Alpmann, Hemmer, Jura Intensiv, Kaiser) oder Kommentar (Palandt, MüKo) abgleichen. Keine Inhalte aus diesem Feedback ohne Verifikation in eine Hausarbeit übernehmen.
+Normangaben und Entscheidungszitate im Feedback entstammen gefestigter Rechtsprechung und Literatur. Für klausurrelevante Definitionen: stets gegen aktuelles Skript (Alpmann, Hemmer, Jura Intensiv, Kaiser) oder Kommentar (Grüneberg — vormals Palandt, seit 81. Aufl. 2022 umbenannt; MüKoBGB) abgleichen. Keine Inhalte aus diesem Feedback ohne Verifikation in eine Hausarbeit übernehmen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.

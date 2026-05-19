@@ -47,7 +47,9 @@ Zielform. Sie dient dem Skill als Spickzettel und Selbstkontrolle.
 | `Grüneberg § 280 Rn. 28` | `Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28` |
 | `MüKoBGB § 280 Rn. 28` | `Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154` (Bearbeiter beschaffen) |
 | `BeckOK BGB § 311 Rn. 45` | `Sutschet, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 311 Rn. 45` |
-| `Palandt, BGB, § 280 Rn. 28` | `Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025, § 280 Rn. 28` — der Palandt heißt seit 81. Aufl. „Grüneberg" |
+| `Palandt, BGB, § 280 Rn. 28` | `[FUNDSTELLE PRÜFEN — PALANDT]` mit Pflicht-Rückfrage (siehe Abschnitt 11), **niemals stillschweigend** in Grüneberg umbenennen |
+| `Palandt/Grüneberg, § 280 Rn. 28` | `[FUNDSTELLE PRÜFEN — PALANDT]` — widersprüchlich, seit 81. Aufl. 2022 heißt das Werk Grüneberg |
+| `vgl. Palandt, § 535 Rn. 119` (ohne Auflage) | `[FUNDSTELLE PRÜFEN — PALANDT]` |
 
 | Erkennen | Korrektur (Kurzform, sofern Vorgabe) |
 |---|---|
@@ -104,3 +106,28 @@ Mischbestand wie `i.V.m.` neben `iVm` → vereinheitlichen auf `iVm`.
 - EuGH-Entscheidung ohne Rechtssachen-Bezeichnung
 - Gericht in Vollform ohne erkennbare Standardabkürzung
 - Unbekanntes Zeitschriftenkürzel
+
+## 11. Hard-Stop bei Palandt (Pflicht-Rückfrage)
+
+Jeder Palandt-Treffer im Prooftext (Wort `Palandt`, gleich in welcher
+Schreibvariante, ob als `Palandt`, `Palandt/Bearbeiter` oder
+`Palandt, BGB`) löst den Marker **`[FUNDSTELLE PRÜFEN — PALANDT]`** aus.
+Der Marker wird **nicht** durch automatische Umbenennung in Grüneberg
+ersetzt, sondern als Rückfragepunkt ins Korrekturprotokoll übernommen:
+
+> Rückfrage: Im Text wird „Palandt" zitiert. Der BGB-Kommentar heißt
+> seit der 81. Aufl. 2022 **Grüneberg**. Ist (a) eine konkrete
+> **Palandt-Altauflage ≤ 80. Aufl. 2021** gemeint (dann bitte Auflage
+> und Bearbeiter angeben), oder (b) ein **aktueller Beleg**, der dann
+> auf `Grüneberg, BGB, 84. Aufl. 2025, § X Rn. Y` umzustellen ist?
+
+Nur nach ausdrücklicher Antwort der Bearbeiterin / des Bearbeiters
+wird der Marker aufgelöst:
+
+- Variante (a) — Altauflage: Zitierform `Palandt/Bearbeiter, BGB,
+  80. Aufl. 2021, § X Rn. Y`.
+- Variante (b) — aktuell: Zitierform `Grüneberg, in: Grüneberg, BGB,
+  84. Aufl. 2025, § X Rn. Y`.
+
+Dieser Hard-Stop folgt unmittelbar aus
+`references/zitierweise.md` Abschn. 10a.

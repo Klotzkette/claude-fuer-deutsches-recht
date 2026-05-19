@@ -1,5 +1,5 @@
 ---
-name: streitwert-festsetzung
+name: streitwert
 description: >
   Berechnung und Darlegung des Streitwerts nach GKG und RVG für Zivil-, Handels-
   und Gesellschaftssachen; Kostenfestsetzungsanträge nach § 104 ZPO. Lädt, wenn

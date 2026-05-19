@@ -8,7 +8,7 @@ der Plugin-Updates übersteht:
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration aus diesem Pfad LESEN. Nicht aus dieser Datei.
-2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin benötigt eine Einrichtung, bevor es nützliche Ergebnisse liefern kann. Führen Sie /kanzlei-builder-hub:cold-start-interview aus — es dauert ca. 10–15 Minuten, und alle Befehle dieses Plugins hängen davon ab. Ohne Einrichtung sind Ausgaben generisch und entsprechen möglicherweise nicht der tatsächlichen Kanzleipraxis." NICHT mit Platzhalter- oder Standardkonfiguration fortfahren. Die einzigen Skills, die ohne Einrichtung laufen, sind /kanzlei-builder-hub:cold-start-interview selbst und jedes --check-integrations-Flag.
+2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin benötigt eine Einrichtung, bevor es nützliche Ergebnisse liefern kann. Führen Sie /kanzlei-builder-hub:kaltstart-interview aus — es dauert ca. 10–15 Minuten, und alle Befehle dieses Plugins hängen davon ab. Ohne Einrichtung sind Ausgaben generisch und entsprechen möglicherweise nicht der tatsächlichen Kanzleipraxis." NICHT mit Platzhalter- oder Standardkonfiguration fortfahren. Die einzigen Skills, die ohne Einrichtung laufen, sind /kanzlei-builder-hub:kaltstart-interview selbst und jedes --check-integrations-Flag.
 3. Einrichtung und Cold-Start-Interview SCHREIBEN in diesen Pfad und erstellen übergeordnete Verzeichnisse bei Bedarf.
 4. Beim ersten Ausführen nach einem Plugin-Update: Wenn eine befüllte CLAUDE.md unter dem alten Cache-Pfad (~/.claude/plugins/cache/claude-fuer-deutsches-recht/kanzlei-builder-hub/<version>/CLAUDE.md) existiert, aber nicht unter dem Config-Pfad, vorwärts in den Config-Pfad kopieren.
 5. Diese Datei (die Sie gerade lesen) ist das TEMPLATE. Sie wird bei jedem Plugin-Update ersetzt. Niemals Benutzerdaten hier schreiben.
@@ -18,7 +18,7 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 
 # Kanzlei-Builder-Hub Praxisprofil
 
-*Erstellt von cold-start am [DATUM].*
+*Erstellt von Kaltstart am [DATUM].*
 
 ---
 
@@ -35,9 +35,9 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 
 | Integration | Status | Fallback bei Nichtverfügbarkeit |
 |---|---|---|
-| Slack | [✓ / ✗] | Neue Skill- und Update-Benachrichtigungen erscheinen bei der nächsten `/kanzlei-builder-hub:registry-browser`- oder `/kanzlei-builder-hub:auto-updater`-Ausführung statt proaktiv |
+| Slack | [✓ / ✗] | Neue Skill- und Update-Benachrichtigungen erscheinen bei der nächsten `/kanzlei-builder-hub:verzeichnis-durchsuchen`- oder `/kanzlei-builder-hub:automatischer-aktualisierer`-Ausführung statt proaktiv |
 
-*Erneut prüfen: `/kanzlei-builder-hub:cold-start-interview --check-integrations`*
+*Erneut prüfen: `/kanzlei-builder-hub:kaltstart-interview --check-integrations`*
 
 ---
 
@@ -47,7 +47,7 @@ Dieses Plugin produziert keine juristischen Arbeitsergebnisse — es entdeckt, i
 
 **Jurisdiktionsprüfung für installierte Skills.** § 43a Abs. 2 BRAO schützt die anwaltliche Verschwiegenheit; § 203 StGB pönalisiert deren Verletzung. Bei der QA-Prüfung eines installierten Skills ist jeder fremde Schutzvermerk durch den verbindlichen Hinweis zu ersetzen: „VERTRAULICH — INTERNE RECHTSANALYSE — KEIN ERSATZ FÜR EXTERNE RECHTSBERATUNG".
 
-**Ausgabemodus für Nicht-Juristen.** Wenn das Praxisprofil angibt, dass der Nutzer kein Jurist ist, strukturieren die eigenen Ausgaben des Hubs — `related-skills-surfacer`-Berichte, `registry-browser`-Ergebnisse, `skills-qa`-Urteile und Installations-/Update-Bestätigungen — für einen Leser, der juristisches Fachvokabular nicht entschlüsseln kann: (1) Die Zusammenfassung für den Anwalt steht oben; (2) jede rechtliche Kennzeichnung erhält eine einzeilige Erläuterung in Klammern auf Deutsch; (3) jedes Gesetzeszitat erhält eine einzeilige Beschreibung in Alltagssprache.
+**Ausgabemodus für Nicht-Juristen.** Wenn das Praxisprofil angibt, dass der Nutzer kein Jurist ist, strukturieren die eigenen Ausgaben des Hubs — `verwandte-skills-vorschlag`-Berichte, `verzeichnis-durchsuchen`-Ergebnisse, `skills-qualitaetspruefung`-Urteile und Installations-/Update-Bestätigungen — für einen Leser, der juristisches Fachvokabular nicht entschlüsseln kann: (1) Die Zusammenfassung für den Anwalt steht oben; (2) jede rechtliche Kennzeichnung erhält eine einzeilige Erläuterung in Klammern auf Deutsch; (3) jedes Gesetzeszitat erhält eine einzeilige Beschreibung in Alltagssprache.
 
 ---
 
@@ -167,7 +167,7 @@ Diese Regeln gelten für jeden Skill in diesem Plugin. Skills können sie in ihr
 
 ## Gerüst, keine Scheuklappen
 
-Die Aufgabe des Plugins ist es, Claude bei der juristischen Arbeit zu VERBESSERN, nicht davon abzulenken. Wenn ein Skill eine Checkliste oder einen Workflow hat, ist die Checkliste ein MINDESTSTANDARD, keine Deckelung. Wenn die Frage des Nutzers rechtliche Analyse berührt, die die Checkliste nicht abdeckt, die Frage trotzdem beantworten.
+Die Aufgabe des Plugins ist es, Claude bei der juristischen Arbeit zu VERBESSERN, nicht davon abzulenken. Wenn ein Skill eine Checkliste oder einen Ablauf hat, ist die Checkliste ein MINDESTSTANDARD, keine Deckelung. Wenn die Frage des Nutzers rechtliche Analyse berührt, die die Checkliste nicht abdeckt, die Frage trotzdem beantworten.
 
 ---
 
@@ -183,4 +183,4 @@ Die Standard-Frameworks, Tests, Normen und Verfahren sind auf deutsches Recht au
 
 ---
 
-*Erneut ausführen: `/kanzlei-builder-hub:cold-start-interview --redo`*
+*Erneut ausführen: `/kanzlei-builder-hub:kaltstart-interview --redo`*

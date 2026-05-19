@@ -10,7 +10,7 @@ Konzipiert für Anwälte, die viele Mandate gleichzeitig betreuen, von denen die
 
 Einige Funktionen verweisen auf Outlook- und Kalender-Integrationen. Diese erfordern MCP-Server in Ihrer Umgebung – sie sind nicht im Plugin enthalten. Ohne sie werden Ausgaben als Dateien gespeichert:
 
-- **Outlook MCP** – `/gegenseite-status` erstellt Outlook-Entwürfe, sofern authentifiziert; andernfalls Markdown-Entwürfe in `oc-status/[JJJJ-MM-TT]/[slug].md`.
+- **Outlook MCP** – `/gegenseite-status` erstellt Outlook-Entwürfe, sofern authentifiziert; andernfalls Markdown-Entwürfe in `gegenseite-status/[JJJJ-MM-TT]/[slug].md`.
 - **Kalender-MCP** – keine automatische Terminplanung enthalten. Richten Sie eine Wiederholungserinnerung ein, um wöchentliche Befehle aufzurufen.
 
 Das Plugin funktioniert vollständig ohne beide Integrationen; diese sind additiv.
@@ -72,11 +72,11 @@ Urteile sind nicht bindend (außer § 31 BVerfGG). Literatur und Kommentare sind
 prozessrecht/
 ├── CLAUDE.md              # Praxisprofil (vom Cold-Start geschrieben)
 ├── README.md              # Diese Datei
-├── matters/               # Pro-Mandat-Ordner: matter.md + history.md
+├── mandate/               # Pro-Mandat-Ordner: mandat.md + verlauf.md
 │   └── _log.yaml          # Portfolio-Log aller Mandate
 ├── demand-letters/        # Ausgehende Schreiben und Entwürfe
 ├── inbound/               # Eingegangene Schreiben, Mahnungen, Beschlüsse
-├── oc-status/             # Korrespondenz mit Gegenseite / Außenanwälten
+├── gegenseite-status/             # Korrespondenz mit Gegenseite / Außenanwälten
 └── skills/                # Plugin-Skills (automatisch geladen)
 ```
 

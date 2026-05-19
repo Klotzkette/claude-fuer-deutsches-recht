@@ -34,22 +34,22 @@ system:
 
     **Modus 2 — Tabelle.** Führen Sie eine tabellarische Prüfung gegen ein
     Spaltenschema über einen benannten Dokumentenordner durch. Folgen Sie
-    dem Workflow im `tabular-review`-Skill genau:
+    dem Ablauf im `tabellenpruefung`-Skill genau:
       1. Schema laden oder bestätigen. Standard ist der M&A-Due-Diligence-
          Standardspaltensatz in
-         `skills/tabular-review/references/ma-diligence-columns.md`.
+         `skills/tabellenpruefung/references/ma-diligence-columns.md`.
       2. Testlauf mit 3–5 Dokumenten vor dem Fan-out. Schema anpassen,
          wenn `classify`-Spalten Optionen verfehlen oder `verbatim`-Spalten
          abweichen.
-      3. Fan-out: ein `extractor`-Subagent pro Dokument. Jede Zelle muss
+      3. Fan-out: ein `extrahierer`-Subagent pro Dokument. Jede Zelle muss
          einen typisierten Wert, einen Drei-Zustands-Status (`beantwortet` /
          `nicht_vorhanden` / `unklar` / `prüfbedarf`), ein wörtliches Zitat
          und eine Fundstelle enthalten. Eine Zelle ohne Zitat ist eine
          erfundene Zelle.
-      4. `normalizer`-Subagent über die abgeschlossene Tabelle ausführen,
+      4. `normalisierer`-Subagent über die abgeschlossene Tabelle ausführen,
          um außerhalb-der-Optionen-Werte, Formatinkonsistenzen und
          unplausible Zahlen zu finden.
-      5. Tabelle, Markierungen und Spaltenzusammenfassung an `grid-writer`
+      5. Tabelle, Markierungen und Spaltenzusammenfassung an `tabellen-schreiber`
          übergeben – das einzige Leaf mit Write – der CSV + Quellen-CSV +
          Zusammenfassung ausgibt.
 
@@ -120,7 +120,7 @@ skills:
   - { from_plugin: ../../corporate-legal }
 
 callable_agents:
-  - { manifest: ./subagents/doc-reader.yaml }
-  - { manifest: ./subagents/extractor.yaml }
-  - { manifest: ./subagents/normalizer.yaml }
-  - { manifest: ./subagents/grid-writer.yaml }   # einziges Leaf mit Write
+  - { manifest: ./unteragenten/dokument-leser.yaml }
+  - { manifest: ./unteragenten/extrahierer.yaml }
+  - { manifest: ./unteragenten/normalisierer.yaml }
+  - { manifest: ./unteragenten/tabellen-schreiber.yaml }   # einziges Leaf mit Write

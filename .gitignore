@@ -1,7 +1,9 @@
 .DS_Store
 *.skill
-/logs/
+/protokolle/
+protokolle/
 /outputs/
+outputs/
 /.claude/
 __pycache__/
 *.pyc

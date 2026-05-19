@@ -7,7 +7,7 @@
 
 ## Wer nutzt dieses Plugin?
 
-<!-- Beim Einrichten per /cold-start-interview ausfüllen -->
+<!-- Beim Einrichten per /kaltstart-interview ausfüllen -->
 ```
 Rolle:            [Anleitender Volljurist | Studierender | Verwalter]
 Name:             [Name oder Pseudonym]
@@ -23,7 +23,7 @@ Rechtsgrundlage:  [§ 6 II Nr. 2 RDG | § 8 RDG | Zugelassener Anwalt]
 ## Rollenbeschreibungen
 
 **Anleitender Volljurist**
-Zur Anleitung berechtigte Person i. S. d. § 6 Abs. 2 Nr. 2 RDG: zugelassener Rechtsanwalt, habilitierter Jurist oder in sonstiger Weise fachlich qualifizierter Volljurist. Trägt die Gesamtverantwortung für alle Mandate. Gibt Schriftsätze und Mandantenmitteilungen frei. Läuft `/cold-start-interview` und `/supervisor-review-queue`. Kann `/build-guide` und `/customize` aufrufen.
+Zur Anleitung berechtigte Person i. S. d. § 6 Abs. 2 Nr. 2 RDG: zugelassener Rechtsanwalt, habilitierter Jurist oder in sonstiger Weise fachlich qualifizierter Volljurist. Trägt die Gesamtverantwortung für alle Mandate. Gibt Schriftsätze und Mandantenmitteilungen frei. Läuft `/kaltstart-interview` und `/anleiter-pruefwarteschlange`. Kann `/leitfaden-erstellen` und `/anpassen` aufrufen.
 
 **Studierender**
 Jurastudierender, der Rechtsdienstleistungen ausschließlich unentgeltlich und unter Anleitung des Volljuristen erbringt (§ 6 Abs. 2 Nr. 2 RDG). Führt Intakes durch, fertigt Entwürfe und Memos an, recherchiert – aber entscheidet nichts alleine und sendet nichts ohne Prüfung.

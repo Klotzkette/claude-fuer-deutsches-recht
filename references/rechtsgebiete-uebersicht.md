@@ -14,7 +14,7 @@
 | `rechtsberatungsstelle` | Rechtsberatungsstellen, Studienberatung, Pro Bono | – |
 | `regulatorisches-recht` | Aufsichtsrecht, Branchenrecht | KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG |
 | `vertragsrecht` | Vertragsrecht, AGB, NDA, SaaS, Vertrieb | BGB, HGB, AGG, EU-Lieferketten-RL |
-| `verwaltete-agentenrezepte` | Vorlagen für Multi-Agent-Workflows | – |
+| `verwaltete-agentenrezepte` | Vorlagen für Multi-Agent-Abläufe | – |
 
 ## Neu im deutschen Repository
 

@@ -36,7 +36,7 @@ Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Ma
 
 3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis „positive Fortführungsprognose" / „negative Fortführungsprognose" mit Begründung.
 
-4. **Excel-Export**: Die Tabelle wird über `scripts/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert.
+4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert.
 
 Anwendungsfälle: Krisen-GmbH/UG, Mittelstand mit Bugwellen-Liquidität, Vorbereitung Sanierungsgespräch mit Hausbank, Dokumentation Fortbestehensprognose für § 19 InsO, Vorbereitung StaRUG-Restrukturierungsverfahren, regelmäßige wöchentliche Geschäftsführer-Sitzung.
 
@@ -132,7 +132,7 @@ Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanal
 - Ergebnis: **Insolvenzfähige Überschuldung** nur, wenn rechnerische Unterdeckung **und** negative Fortführungsprognose.
 
 **Schritt 7 – Excel-Export**
-- Aufruf `python scripts/build_liquiditaetsplan.py --eingabe <mandant>.yaml --ausgabe liquiditaetsplan.xlsx`.
+- Aufruf `python werkzeuge/build_liquiditaetsplan.py --eingabe <mandant>.yaml --ausgabe liquiditaetsplan.xlsx`.
 - Drei Sheets (13W/26W/52W), Ampel via bedingter Formatierung, Lückenquote in Prozentformat, Formeln (`=SUMME(...)`, `=B5-C5`, kein Hartcoding).
 - Ergänzungssheet `Fortfuehrungsprognose` mit IDW-S-6-Matrix.
 - Ergänzungssheet `Annahmen` (alle Inputs nachvollziehbar).
@@ -182,4 +182,4 @@ Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei 
 Siehe ergänzend:
 - `references/idw-s6-kernelemente.md` – Strukturmatrix Sanierungskonzept
 - `references/wochenraster-anleitung.md` – Aufbau und Buckets der Wochenplanung
-- `scripts/build_liquiditaetsplan.py` – Excel-Generator (mit Beispiel-YAML)
+- `werkzeuge/build_liquiditaetsplan.py` – Excel-Generator (mit Beispiel-YAML)

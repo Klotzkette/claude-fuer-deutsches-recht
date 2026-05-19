@@ -6,7 +6,7 @@
 
 ## Für wen dieses Plugin gedacht ist
 
-| Rolle | Primäre Workflows |
+| Rolle | Primäre Abläufe |
 |---|---|
 | **Compliance-/Aufsichtsrechtler** | Beobachtungsliste, Gap-Triage, Richtlinienaktualisierung |
 | **Datenschutz-/Produktjurist** | Gefilterte Alerts für das eigene Gebiet |
@@ -17,21 +17,21 @@
 Fragt ab, welche Behörden Sie beobachten, verbindet Ihren Richtlinienordner und erlernt, was „wesentlich" bedeutet. Erstellt eine Beobachtungsliste und indiziert Ihre Richtlinienbibliothek.
 
 ```
-/regulatorisches-recht:cold-start-interview
+/regulatorisches-recht:kaltstart-interview
 ```
 
 ## Skills
 
 | Skill | Funktion |
 |---|---|
-| `/regulatorisches-recht:cold-start-interview` | Ersteinrichtung: Beobachtungsliste + Richtlinienindex + Materialitätsschwelle |
-| `/regulatorisches-recht:reg-feed-watcher` | Feeds jetzt prüfen, Neues melden |
-| `/regulatorisches-recht:policy-diff [Norm]` | Diff einer konkreten Rechtsänderung gegen die Richtlinienbibliothek |
-| `/regulatorisches-recht:gaps` | Offener Gap-Tracker – was wurde gemeldet und noch nicht geschlossen? |
-| `/regulatorisches-recht:comments` | Offene Konsultationszeiträume prüfen, Entscheidungen protokollieren, Fristen verfolgen |
-| `/regulatorisches-recht:policy-redraft` | Vorgeschlagene Richtlinienneufassung, die eine Lücke schließt – Erstentwurf zur internen Prüfung, kein direktes Bearbeiten von Quelldokumenten |
-| `/regulatorisches-recht:matter-workspace` | Mandats-Workspaces verwalten (nur Multi-Mandantenpraxis) – neu, auflisten, wechseln, schließen, keiner |
-| **gap-surfacer** *(Referenz)* | Gemeinsames Gap- und Kommentar-Tracker-Framework, das von `/gaps` und `/comments` geladen wird |
+| `/regulatorisches-recht:kaltstart-interview` | Ersteinrichtung: Beobachtungsliste + Richtlinienindex + Materialitätsschwelle |
+| `/regulatorisches-recht:aufsichts-feed-monitor` | Feeds jetzt prüfen, Neues melden |
+| `/regulatorisches-recht:richtlinien-vergleich [Norm]` | Diff einer konkreten Rechtsänderung gegen die Richtlinienbibliothek |
+| `/regulatorisches-recht:luecken` | Offener Gap-Tracker – was wurde gemeldet und noch nicht geschlossen? |
+| `/regulatorisches-recht:stellungnahmen` | Offene Konsultationszeiträume prüfen, Entscheidungen protokollieren, Fristen verfolgen |
+| `/regulatorisches-recht:richtlinien-neufassung` | Vorgeschlagene Richtlinienneufassung, die eine Lücke schließt – Erstentwurf zur internen Prüfung, kein direktes Bearbeiten von Quelldokumenten |
+| `/regulatorisches-recht:mandat-arbeitsbereich` | Mandats-Workspaces verwalten (nur Multi-Mandantenpraxis) – neu, auflisten, wechseln, schließen, keiner |
+| **luecken-aufzeiger** *(Referenz)* | Gemeinsames Gap- und Kommentar-Tracker-Framework, das von `/luecken` und `/stellungnahmen` geladen wird |
 
 ## Interaktive Skills vs. geplante Agenten
 
@@ -39,7 +39,7 @@ Die obigen Skills werden bei Aufruf ausgeführt – für die aktive Arbeit an ei
 
 | Agent | Was er beobachtet | Standardrhythmus |
 |---|---|---|
-| **reg-change-monitor** | Aufsichts-Feeds – filtert nach der bei der Ersteinrichtung erlernten Materialitätsschwelle und erstellt ein Digest aus Signal statt Rauschen | Wöchentlich (täglich bei aktivem regulatorischen Umfeld) |
+| **regulierungs-aenderungs-monitor** | Aufsichts-Feeds – filtert nach der bei der Ersteinrichtung erlernten Materialitätsschwelle und erstellt ein Digest aus Signal statt Rauschen | Wöchentlich (täglich bei aktivem regulatorischen Umfeld) |
 
 ## Konnektoren und Zitatverifizierung
 
@@ -62,7 +62,7 @@ Eigentümer-Benachrichtigungen (Gap-Zuweisungen, Fristenerinnerungen, Konsultati
 
 ## Wie das Plugin lernt
 
-Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` ist nicht statisch – es verbessert sich mit der Nutzung. Skills informieren Sie, wenn eine Ausgabe eine Standardeinstellung verwendet, die Sie anpassen sollten. Der `reg-change-monitor`-Agent beobachtet die Aufsichts-Feeds und markiert Änderungen gegen Ihre Richtlinienbibliothek. Sie können die Einrichtung erneut ausführen, die Datei direkt bearbeiten oder einem Skill mitteilen, eine neue Position aufzuzeichnen.
+Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/CLAUDE.md` ist nicht statisch – es verbessert sich mit der Nutzung. Skills informieren Sie, wenn eine Ausgabe eine Standardeinstellung verwendet, die Sie anpassen sollten. Der `regulierungs-aenderungs-monitor`-Agent beobachtet die Aufsichts-Feeds und markiert Änderungen gegen Ihre Richtlinienbibliothek. Sie können die Einrichtung erneut ausführen, die Datei direkt bearbeiten oder einem Skill mitteilen, eine neue Position aufzuzeichnen.
 
 ## Abgedeckte Normen und Behörden
 
@@ -80,7 +80,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/reg
 
 - Materialitätsfilterung ist der Mehrwert. Alles ist „technisch eine Regulierungsänderung" – das Plugin lernt, was hier tatsächlich wichtig ist.
 - Policy-Diff vergleicht gegen indizierte Richtlinien. Wenn die Richtlinienbibliothek nicht verbunden ist, laufen Diffs gegen eingefügte Inhalte.
-- Dies ist die automatisierte Version von `datenschutzrecht/reg-gap-analysis`. Kombination empfohlen: dieses beobachtet, jenes taucht tiefer ein.
+- Dies ist die automatisierte Version von `datenschutzrecht/regulierungs-luecken-analyse`. Kombination empfohlen: dieses beobachtet, jenes taucht tiefer ein.
 
 ## Konfiguration
 

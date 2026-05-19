@@ -13,9 +13,9 @@ triggers:
   - "muster aus mandatshistorie extrahieren"
   - "kanzlei-spielbuch aus outlook ziehen"
 related_skills:
-  - kanzlei-builder-hub/skills/skill-installer
-  - kanzlei-builder-hub/skills/skills-qa
-  - vertragsrecht/agenten/playbook-monitor
+  - kanzlei-builder-hub/skills/skill-installierer
+  - kanzlei-builder-hub/skills/skills-qualitaetspruefung
+  - vertragsrecht/agenten/spielbuch-monitor
 ---
 
 # Skill: Playbook aus eigenen Daten

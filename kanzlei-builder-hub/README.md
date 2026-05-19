@@ -1,6 +1,6 @@
 # Kanzlei-Builder-Hub
 
-Community-Skills für Kanzleien: Entdecken, prüfen und installieren. Durchsucht GitHub-Registries (kanzlei-skills und weitere, die über `/kanzlei-builder-hub:registry-browser` ergänzt werden können), installiert und aktualisiert Skills automatisch (mit Diff-Review), und zeigt in anderen Kanzlei-Plugins verwandte Community-Skills an. Das Erstgespräch-Interview (`cold-start-interview`) ist gleichzeitig der Starter-Pack-Empfehlungsassistent — es fragt nach Kanzleityp und Tätigkeitsschwerpunkt und empfiehlt passende Skills zur Installation.
+Community-Skills für Kanzleien: Entdecken, prüfen und installieren. Durchsucht GitHub-Registries (kanzlei-skills und weitere, die über `/kanzlei-builder-hub:verzeichnis-durchsuchen` ergänzt werden können), installiert und aktualisiert Skills automatisch (mit Diff-Review), und zeigt in anderen Kanzlei-Plugins verwandte Community-Skills an. Das Erstgespräch-Interview (`kaltstart-interview`) ist gleichzeitig der Starter-Pack-Empfehlungsassistent — es fragt nach Kanzleityp und Tätigkeitsschwerpunkt und empfiehlt passende Skills zur Installation.
 
 **Jeder Community-Skill wird vor der Installation im Rohformat angezeigt, auf Prompt-Injection-Muster gescannt und gegen das Kanzlei-Skill-Design-Framework geprüft. Sicherheits- und Berufsrechtsprüfung (DSGVO, BRAO/BORA, Mandantengeheimnis) erfolgen vor jeder Installation. Der Hub hilft beim Finden und Bewerten — die Entscheidung, was vertraut wird, liegt beim Anwender.**
 
@@ -17,7 +17,7 @@ Für alle, die die anderen Kanzlei-Plugins nutzen. Dies ist der App-Store.
 Das Interview fragt nach Kanzleityp, Rechtsgebiet, Teamgröße und technischer Vertrautheit. Es empfiehlt ein Starter-Paket passender Community-Skills und installiert die ausgewählten.
 
 ```
-/kanzlei-builder-hub:cold-start-interview
+/kanzlei-builder-hub:kaltstart-interview
 ```
 
 Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` und bleibt bei Plugin-Updates erhalten.
@@ -30,9 +30,9 @@ Installierte Community-Skills laufen mit Zugriff auf Mandantendaten, Aktendateie
 
 ### Vier Verteidigungsebenen
 
-- **Allowlist (admin-kontrolliert):** `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/allowlist.yaml` legt fest, welche Registries, Publisher und MCP-Konnektoren Community-Skills nutzen dürfen. Der Modus `permissive` (Standard) warnt bei allem außerhalb der Liste; der Modus `restrictive` (empfohlen für Kanzlei- und Unternehmensdeployments) verweigert die Installation. Die Allowlist wird geprüft, bevor Drittanbieterinhalte geladen werden.
+- **Positivliste (admin-kontrolliert):** `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/positivliste.yaml` legt fest, welche Registries, Publisher und MCP-Konnektoren Community-Skills nutzen dürfen. Der Modus `permissive` (Standard) warnt bei allem außerhalb der Liste; der Modus `restrictive` (empfohlen für Kanzlei- und Unternehmensdeployments) verweigert die Installation. Die Positivliste wird geprüft, bevor Drittanbieterinhalte geladen werden.
 - **Rohquelle statt Zusammenfassung:** Der Installer zeigt den vollständigen SKILL.md-Rohtext — keine KI-Zusammenfassung — bevor irgendetwas geschrieben wird.
-- **Heuristische Scans:** Installer und `skills-qa` scannen den Skill auf Prompt-Injection-Muster (Override-/Authority-Claims, unerlaubte Lese-/Schreibzugriffe, externe URLs, verstecktes Unicode, Shell-Ausführung, Credential-Anfragen). Diese KI-Heuristik ist kein Sicherheitsaudit.
+- **Heuristische Scans:** Installer und `skills-qualitaetspruefung` scannen den Skill auf Prompt-Injection-Muster (Override-/Authority-Claims, unerlaubte Lese-/Schreibzugriffe, externe URLs, verstecktes Unicode, Shell-Ausführung, Credential-Anfragen). Diese KI-Heuristik ist kein Sicherheitsaudit.
 - **Menschliche Genehmigung, jedes Mal:** Nichts wird ohne frisch eingetipptes `ja` auf Disk geschrieben. Genehmigung wird nicht aus früheren Nachrichten abgeleitet.
 
 ### Berufsrechtliches Security-Review-Gate
@@ -46,14 +46,14 @@ Installierte Community-Skills laufen mit Zugriff auf Mandantendaten, Aktendateie
 
 Updates verwenden dieselbe Haltung: Der Auto-Updater pinnt auf Commit-SHAs (keine veränderbaren Tags), zeigt den vollständigen Diff inklusive Hooks und MCP-Änderungen und erfordert explizite Genehmigung pro Update.
 
-Bei Problemen nach der Installation: `/kanzlei-builder-hub:disable [skill]` deaktiviert den Skill ohne Dateientfernung; `/kanzlei-builder-hub:uninstall [skill]` entfernt ihn vollständig. Beide Befehle sind auf Community-Skills beschränkt, die über diesen Hub installiert wurden — Erstanbieter-Plugin-Skills sind geschützt.
+Bei Problemen nach der Installation: `/kanzlei-builder-hub:deaktivieren [skill]` deaktiviert den Skill ohne Dateientfernung; `/kanzlei-builder-hub:deinstallieren [skill]` entfernt ihn vollständig. Beide Befehle sind auf Community-Skills beschränkt, die über diesen Hub installiert wurden — Erstanbieter-Plugin-Skills sind geschützt.
 
 ---
 
 ## Voraussetzungen
 
 - Slack-Benachrichtigungen des Registry-Sync-Agenten erfordern einen konfigurierten Slack-MCP-Server. Ohne diesen schreibt der Agent seinen Digest in eine Datei.
-- Die Standard-Registry-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` wird leer ausgeliefert (außer `kanzlei-skills`). Weitere Registries können über `/kanzlei-builder-hub:registry-browser` oder durch direktes Bearbeiten von `CLAUDE.md` hinzugefügt werden.
+- Die Standard-Registry-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` wird leer ausgeliefert (außer `kanzlei-skills`). Weitere Registries können über `/kanzlei-builder-hub:verzeichnis-durchsuchen` oder durch direktes Bearbeiten von `CLAUDE.md` hinzugefügt werden.
 
 ---
 
@@ -61,15 +61,15 @@ Bei Problemen nach der Installation: `/kanzlei-builder-hub:disable [skill]` deak
 
 | Befehl | Funktion |
 |---|---|
-| `/kanzlei-builder-hub:cold-start-interview` | Kanzleiprofil erstellen + Starter-Paket empfehlen |
-| `/kanzlei-builder-hub:registry-browser [Suchbegriff]` | Beobachtete Registries nach Skills durchsuchen |
-| `/kanzlei-builder-hub:skill-installer [skill]` | Community-Skill installieren (mit Security- und Berufsrechtsprüfung) |
-| `/kanzlei-builder-hub:auto-updater` | Updates für installierte Skills prüfen (mit Diff-Review) |
-| `/kanzlei-builder-hub:related-skills-surfacer` | Verwandte Skills basierend auf aktueller Tätigkeit empfehlen |
-| `/kanzlei-builder-hub:skills-qa [skill]` | Skill gegen das Kanzlei-Skill-Design-Framework prüfen (inkl. Zitierweise und Methodik) |
-| `/kanzlei-builder-hub:customize` | Kanzleiprofil und Einstellungen anpassen |
-| `/kanzlei-builder-hub:disable [skill]` | Installierten Community-Skill deaktivieren (Dateien bleiben erhalten) |
-| `/kanzlei-builder-hub:uninstall [skill]` | Community-Skill vollständig entfernen |
+| `/kanzlei-builder-hub:kaltstart-interview` | Kanzleiprofil erstellen + Starter-Paket empfehlen |
+| `/kanzlei-builder-hub:verzeichnis-durchsuchen [Suchbegriff]` | Beobachtete Registries nach Skills durchsuchen |
+| `/kanzlei-builder-hub:skill-installierer [skill]` | Community-Skill installieren (mit Security- und Berufsrechtsprüfung) |
+| `/kanzlei-builder-hub:automatischer-aktualisierer` | Updates für installierte Skills prüfen (mit Diff-Review) |
+| `/kanzlei-builder-hub:verwandte-skills-vorschlag` | Verwandte Skills basierend auf aktueller Tätigkeit empfehlen |
+| `/kanzlei-builder-hub:skills-qualitaetspruefung [skill]` | Skill gegen das Kanzlei-Skill-Design-Framework prüfen (inkl. Zitierweise und Methodik) |
+| `/kanzlei-builder-hub:anpassen` | Kanzleiprofil und Einstellungen anpassen |
+| `/kanzlei-builder-hub:deaktivieren [skill]` | Installierten Community-Skill deaktivieren (Dateien bleiben erhalten) |
+| `/kanzlei-builder-hub:deinstallieren [skill]` | Community-Skill vollständig entfernen |
 
 ---
 
@@ -77,16 +77,16 @@ Bei Problemen nach der Installation: `/kanzlei-builder-hub:disable [skill]` deak
 
 | Skill | Zweck |
 |---|---|
-| **cold-start-interview** | Kanzleiprofil → Starter-Paket |
-| **registry-browser** | Registries nach Skills durchsuchen |
-| **skill-installer** | Allowlist-Gate, Abruf, Rohtext-Anzeige, DSGVO/BRAO-Prüfung, QA, Installation |
+| **kaltstart-interview** | Kanzleiprofil → Starter-Paket |
+| **verzeichnis-durchsuchen** | Registries nach Skills durchsuchen |
+| **skill-installierer** | Positivliste-Gate, Abruf, Rohtext-Anzeige, DSGVO/BRAO-Prüfung, QA, Installation |
 | **uninstall** | Community-Skill deinstallieren (Erstanbieter-Plugin-Skills sind gesperrt) |
 | **disable** | Community-Skill ohne Dateilöschung deaktivieren; später wieder aktivierbar |
-| **skill-manager** | Referenz: Detaillierte Deinstallations-, Deaktivierungs- und Reaktivierungsworkflows |
-| **skills-qa** | Skill gegen das Kanzlei-Skill-Design-Framework prüfen — Design, Fehlerquellen, Trust-Surface, Zitierweise, Methodik |
-| **auto-updater** | Updates prüfen; Diff und Trust-Review anzeigen; Anwendung nur nach expliziter Genehmigung |
-| **related-skills-surfacer** | Verwandte Community-Skills nach einer Aufgabe empfehlen |
-| **customize** | Kanzleiprofil, Allowlist, Registry-Watchlist und Aktualisierungseinstellungen anpassen |
+| **skill-verwalter** | Referenz: Detaillierte Deinstallations-, Deaktivierungs- und Reaktivierungsworkflows |
+| **skills-qualitaetspruefung** | Skill gegen das Kanzlei-Skill-Design-Framework prüfen — Design, Fehlerquellen, Trust-Surface, Zitierweise, Methodik |
+| **automatischer-aktualisierer** | Updates prüfen; Diff und Trust-Review anzeigen; Anwendung nur nach expliziter Genehmigung |
+| **verwandte-skills-vorschlag** | Verwandte Community-Skills nach einer Aufgabe empfehlen |
+| **anpassen** | Kanzleiprofil, Positivliste, Registry-Watchlist und Aktualisierungseinstellungen anpassen |
 | **playbook-aus-eigenen-daten** | Aus E-Mails, Mandantenkorrespondenz und eigenen Dokumenten ein wiederverwendbares Kanzlei-Spielbuch destillieren (DSGVO/BRAO-konforme Pseudonymisierung) |
 | **fundstellenglattzieher** | Juristische Fundstellen im Text gegen die hauseigene Zitierweise prüfen und vereinheitlichen (Heftnummern, `S.`-Zusätze, Bearbeiter, Auflage, Aufsatztitel-Entfall, `vgl.`-Floskeln, Abkürzungen) |
 
@@ -98,13 +98,13 @@ Die obigen Befehle werden bei Aufruf ausgeführt — für die aktive Mandatsarbe
 
 | Agent | Was er beobachtet | Standard-Kadenz |
 |---|---|---|
-| **registry-sync** | Beobachtete Registries auf neue und aktualisierte Skills; sendet Benachrichtigungen gemäß Einstellungen | Wöchentlich |
+| **verzeichnis-synchronisierung** | Beobachtete Registries auf neue und aktualisierte Skills; sendet Benachrichtigungen gemäß Einstellungen | Wöchentlich |
 
 ---
 
 ## Beobachtete Registries (Standard)
 
-Die Standard-Allowlist enthält von uns geprüfte Community-Registries. Eigene Registries können über `references/allowlist-default.yaml` im Repo oder über die persönliche Allowlist unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/allowlist.yaml` hinzugefügt, entfernt oder zwischen den Modi gewechselt werden.
+Die Standard-Positivliste enthält von uns geprüfte Community-Registries. Eigene Registries können über `references/positivliste-standard.yaml` im Repo oder über die persönliche Positivliste unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/positivliste.yaml` hinzugefügt, entfernt oder zwischen den Modi gewechselt werden.
 
 - **kanzlei-skills** — Skills für deutsche Kanzleien und Rechtsabteilungen — Kanzlei-Community auf GitHub
 
@@ -112,7 +112,7 @@ Die Standard-Allowlist enthält von uns geprüfte Community-Registries. Eigene R
 
 ## Wie der Hub dazulernt
 
-Das Kanzleiprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` ist nicht statisch — es verbessert sich mit der Nutzung. Der Hub liest es bei jedem `/kanzlei-builder-hub:registry-browser`- und `/kanzlei-builder-hub:related-skills-surfacer`-Aufruf neu, sodass Änderungen an Kanzleityp, Rechtsgebiet oder beobachteten Registries künftige Empfehlungen schärfen. Die Datei kann direkt bearbeitet oder mit `/kanzlei-builder-hub:cold-start-interview --redo` neu durchgeführt werden.
+Das Kanzleiprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-builder-hub/CLAUDE.md` ist nicht statisch — es verbessert sich mit der Nutzung. Der Hub liest es bei jedem `/kanzlei-builder-hub:verzeichnis-durchsuchen`- und `/kanzlei-builder-hub:verwandte-skills-vorschlag`-Aufruf neu, sodass Änderungen an Kanzleityp, Rechtsgebiet oder beobachteten Registries künftige Empfehlungen schärfen. Die Datei kann direkt bearbeitet oder mit `/kanzlei-builder-hub:kaltstart-interview --redo` neu durchgeführt werden.
 
 ---
 
@@ -120,6 +120,6 @@ Das Kanzleiprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ka
 
 - Community-Skills werden vor der Installation gelesen. Der **Rohtext** der SKILL.md wird angezeigt — keine Zusammenfassung — bevor etwas akzeptiert wird.
 - Auto-Update ist standardmäßig deaktiviert. Pro Skill aktivierbar, wenn die Quelle vertrauenswürdig ist.
-- Der `related-skills-surfacer` läuft innerhalb anderer Plugins: Während einer Aufgabe prüft er, ob die Community etwas Passendes anbietet.
-- **Kanzlei-/Unternehmensdeployments:** `mode: restrictive` in `allowlist.yaml` setzen und `registries`, `publishers` und `connectors` befüllen. Im Restrictive-Modus verweigert der Installer das Abrufen, Analysieren und Installieren von allem aus nicht gelisteten Quellen.
+- Der `verwandte-skills-vorschlag` läuft innerhalb anderer Plugins: Während einer Aufgabe prüft er, ob die Community etwas Passendes anbietet.
+- **Kanzlei-/Unternehmensdeployments:** `mode: restrictive` in `positivliste.yaml` setzen und `registries`, `publishers` und `connectors` befüllen. Im Restrictive-Modus verweigert der Installer das Abrufen, Analysieren und Installieren von allem aus nicht gelisteten Quellen.
 - **Datenschutz-Hinweis:** Für jede KI-gestützte Verarbeitung von Mandantendaten empfiehlt sich eine Datenschutz-Folgenabschätzung (Art. 35 DSGVO) sowie die Überprüfung, ob eine Auftragsverarbeitung (Art. 28 DSGVO) vorliegt. Installierte Skills sind in der Verfahrensübersicht nach Art. 30 DSGVO zu dokumentieren.

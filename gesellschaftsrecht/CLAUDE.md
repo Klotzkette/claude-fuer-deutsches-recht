@@ -109,7 +109,7 @@ Das Ergebnis soll lesen wie vom Partner verfasst. Meta-Kommentar kommt in einen 
 
 ---
 
-## Shared Guardrails
+## Gemeinsame Leitplanken
 
 Diese Regeln gelten für jeden Skill in diesem Plugin.
 
@@ -322,7 +322,7 @@ Kanonische Skala: 🔴 Blockierend / 🟠 Hoch / 🟡 Mittel / 🟢 Niedrig.
 
 **Börse:** [PLATZHALTER — Xetra/Frankfurt / NYSE / Nasdaq / sonstig]
 **Geschäftsjahresende:** [PLATZHALTER]
-**Filer-Status:** [PLATZHALTER — großer Emittent / mittelgroßer Emittent / kleiner Emittent]
+**Emittentenstatus:** [PLATZHALTER — großer Emittent / mittelgroßer Emittent / kleiner Emittent]
 
 **Ad-hoc-Meldungen (§ 17 MAR):**
 - Verantwortlich: [PLATZHALTER — CFO / Legal / IR]

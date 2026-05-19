@@ -7,14 +7,14 @@ Die nutzerspezifische Konfiguration für dieses Plugin liegt unter einem version
 
 Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht von dieser Datei.
-2. Existiert diese Datei nicht oder enthält noch [PLATZHALTER]-Marker, STOPP vor jeder inhaltlichen Arbeit. Meldung: „Dieses Plugin braucht eine Einrichtung, bevor es nützliche Ausgaben liefern kann. Führe /jurastudium:cold-start-interview aus – es dauert etwa 10–15 Minuten, und alle Befehle dieses Plugins setzen es voraus. Ohne Einrichtung sind Ausgaben generisch und stimmen möglicherweise nicht mit deinem tatsächlichen Ausbildungsstand überein." Nur cold-start-interview selbst und --check-integrations-Flags laufen ohne Einrichtung.
-3. Setup und cold-start-interview SCHREIBEN in diesen Pfad, erstellen übergeordnete Verzeichnisse bei Bedarf.
+2. Existiert diese Datei nicht oder enthält noch [PLATZHALTER]-Marker, STOPP vor jeder inhaltlichen Arbeit. Meldung: „Dieses Plugin braucht eine Einrichtung, bevor es nützliche Ausgaben liefern kann. Führe /jurastudium:kaltstart-interview aus – es dauert etwa 10–15 Minuten, und alle Befehle dieses Plugins setzen es voraus. Ohne Einrichtung sind Ausgaben generisch und stimmen möglicherweise nicht mit deinem tatsächlichen Ausbildungsstand überein." Nur kaltstart-interview selbst und --check-integrations-Flags laufen ohne Einrichtung.
+3. Setup und kaltstart-interview SCHREIBEN in diesen Pfad, erstellen übergeordnete Verzeichnisse bei Bedarf.
 4. Diese Datei (die du gerade liest) ist die VORLAGE. Sie wird bei jedem Plugin-Update ersetzt. Schreibe keine Nutzerdaten hier hinein.
 -->
 
 # Jurastudium – Lernprofil
 
-*Angelegt durch cold-start am [DATUM]. Dieses Profil dreht sich um DICH.*
+*Angelegt durch Kaltstart am [DATUM]. Dieses Profil dreht sich um DICH.*
 
 ---
 
@@ -225,7 +225,7 @@ Wenn ein Skill eine Norm, ein Urteil, ein Aktenzeichen oder eine Fundstelle aus 
 
 ---
 
-## Startmaterial (durch cold-start befüllt)
+## Startmaterial (durch Kaltstart befüllt)
 
 | Kategorie | Positionen | Notizen |
 |---|---|---|
@@ -245,14 +245,14 @@ Wenn ein Skill eine Norm, ein Urteil, ein Aktenzeichen oder eine Fundstelle aus 
 
 ## Zitate ungeprüft
 
-**Pre-Flight-Check vor jedem Skill, der Normen, Urteile oder Kommentare zitiert.** Ohne angebundenes Recherchetool gilt: alle Zitate aus Modellwissen sind mit `[Modellwissen – prüfen]` markiert und müssen vor Klausurabgabe gegen Primärquelle geprüft werden.
+**Vorab-Prüfung vor jedem Skill, der Normen, Urteile oder Kommentare zitiert.** Ohne angebundenes Recherchetool gilt: alle Zitate aus Modellwissen sind mit `[Modellwissen – prüfen]` markiert und müssen vor Klausurabgabe gegen Primärquelle geprüft werden.
 
 ---
 
 ## Gerüst, keine Scheuklappen
 
-Die Aufgabe des Plugins ist, Claude bei juristischer Arbeit **besser** zu machen, nicht ihn von Rechtsdogmatik abzulenken, die er bereits kennt. Wenn ein Skill eine Checkliste oder einen Workflow hat, ist die Checkliste ein **Mindeststandard**, keine Obergrenze. Berührt die Nutzerfrage rechtliche Analyse, die die Checkliste nicht abdeckt, wird die Frage trotzdem beantwortet mit dem Hinweis: „Das gehört nicht zu meiner üblichen Checkliste für diesen Skill, ist aber relevant: [Analyse]."
+Die Aufgabe des Plugins ist, Claude bei juristischer Arbeit **besser** zu machen, nicht ihn von Rechtsdogmatik abzulenken, die er bereits kennt. Wenn ein Skill eine Checkliste oder einen Ablauf hat, ist die Checkliste ein **Mindeststandard**, keine Obergrenze. Berührt die Nutzerfrage rechtliche Analyse, die die Checkliste nicht abdeckt, wird die Frage trotzdem beantwortet mit dem Hinweis: „Das gehört nicht zu meiner üblichen Checkliste für diesen Skill, ist aber relevant: [Analyse]."
 
 ---
 
-*Neu starten: `/jurastudium:cold-start-interview --redo`*
+*Neu starten: `/jurastudium:kaltstart-interview --redo`*

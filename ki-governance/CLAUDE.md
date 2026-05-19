@@ -10,9 +10,9 @@ Regeln für alle Skills, Befehle und Agenten dieses Plugins:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
 2. Existiert die Datei nicht oder enthält noch [PLATZHALTER]-Marker, STOPP vor der inhaltlichen
    Arbeit. Ausgabe: „Dieses Plugin muss vor der Nutzung eingerichtet werden. Führen Sie
-   /ki-governance:cold-start-interview aus – ca. 10–15 Minuten; alle Befehle dieses Plugins
+   /ki-governance:kaltstart-interview aus – ca. 10–15 Minuten; alle Befehle dieses Plugins
    hängen davon ab. Ohne Setup sind Ausgaben generisch und spiegeln nicht Ihre tatsächliche
-   Praxis wider." NUR die Skills /ki-governance:cold-start-interview selbst und ein
+   Praxis wider." NUR die Skills /ki-governance:kaltstart-interview selbst und ein
    --check-integrations-Flag dürfen ohne Setup laufen.
 3. Setup und Cold-Start-Interview SCHREIBEN in diesen Pfad, legen übergeordnete Verzeichnisse
    bei Bedarf an.
@@ -24,7 +24,7 @@ Regeln für alle Skills, Befehle und Agenten dieses Plugins:
 
 **Gemeinsames Unternehmensprofil.** Unternehmensweite Fakten (wer Sie sind, was Sie tun,
 wo Sie tätig sind, Ihre Risikoeinstellung, wichtige Ansprechpartner) liegen unter
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/company-profile.md` – eine Ebene
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` – eine Ebene
 oberhalb, gemeinsam genutzt von allen Plugins. Diese Datei vor dem Praxisprofil lesen.
 Existiert sie nicht, erstellt das Setup dieses Plugins sie.
 -->
@@ -32,13 +32,13 @@ Existiert sie nicht, erstellt das Setup dieses Plugins sie.
 # KI-Governance-Praxisprofil
 
 *Erstellt durch das Cold-Start-Interview. Bis dahin ist dies eine Vorlage – wenn Sie
-`[PLATZHALTER]` sehen, führen Sie `/ki-governance:cold-start-interview` aus.*
+`[PLATZHALTER]` sehen, führen Sie `/ki-governance:kaltstart-interview` aus.*
 
 ---
 
 ## Unternehmensprofil
 
-[Unternehmen] ist [Beschreibung – Tätigkeit und Kundschaft]. *(Aus company-profile.md – dort
+[Unternehmen] ist [Beschreibung – Tätigkeit und Kundschaft]. *(Aus unternehmens-profil.md – dort
 ändern, um alle Plugins zu aktualisieren)*
 
 **KI-Rolle:** *Nicht auf Unternehmensebene festgelegt.* Nach der EU-KI-Verordnung (VO 2024/1689,
@@ -54,7 +54,7 @@ Mischung. Nur Orientierung. Die maßgebliche Klassifikation je System liegt in
 
 **Regulatorischer Fußabdruck:** [PLATZHALTER – nur was tatsächlich gilt.
 KI-VO / DSGVO / BDSG / sektorspezifisch / vertragliche Anforderungen.
-Wenn noch nichts gilt, so vermerken.] *(Aus company-profile.md)*
+Wenn noch nichts gilt, so vermerken.] *(Aus unternehmens-profil.md)*
 
 **Offene Regulierungsverfahren:** [PLATZHALTER]
 
@@ -62,7 +62,7 @@ Wenn noch nichts gilt, so vermerken.] *(Aus company-profile.md)*
 Transparenzberichte – oder keine]
 
 **Praxiskontext:** [PLATZHALTER – Solo/Kleinkanzlei | Mittelgroße/Großkanzlei | In-house |
-Behörde/Rechtsberatungsstelle] *(Aus company-profile.md)*
+Behörde/Rechtsberatungsstelle] *(Aus unternehmens-profil.md)*
 
 ---
 
@@ -82,7 +82,7 @@ Nicht-Jurist ohne regelmäßigen Anwaltszugang]
 | Geplante Aufgaben | [✓ / ✗] | Policy-Monitor-Sweep nur auf Abruf |
 | Slack | [✓ / ✗] | Eskalationen und Meldungen nur per E-Mail |
 
-*Neu prüfen: `/ki-governance:cold-start-interview --check-integrations`*
+*Neu prüfen: `/ki-governance:kaltstart-interview --check-integrations`*
 
 ---
 
@@ -105,7 +105,7 @@ Die folgenden sind automatische Neins, unabhängig von der Formulierung einer An
 
 | Risikostufe | Genehmigungsweg | Beispiel-Anwendungsfälle |
 |---|---|---|
-| Standard | [PLATZHALTER] | Interne Produktivitätswerkzeuge, assistierendes Drafting |
+| Standard | [PLATZHALTER] | Interne Produktivitätswerkzeuge, assistierende Entwurfserstellung |
 | Erhöht | [PLATZHALTER – Rechts-/Datenschutzprüfung erforderlich] | Kundenseitige KI, HR-Anwendungsfälle |
 | Hoch | [PLATZHALTER – Geschäftsleitung / Aufsichtsrat] | Folgenreiche automatisierte Entscheidungen, Biometrie |
 
@@ -131,7 +131,7 @@ Jeder Datensatz enthält:
 
 **Das Inventar leitet Pflichten NICHT automatisch ab.** Wenn nach „Welche Pflichten gelten
 für System X?" gefragt wird, erfolgt die Antwort im Gespräch, markiert `[prüfen]`, und wird
-bei Bedarf an `/ki-governance:aia-generation` übergeben. Das ist gewollt – die
+bei Bedarf an `/ki-governance:ki-folgenabschaetzung` übergeben. Das ist gewollt – die
 Artikel-Zuordnung ist komplex, die KI-VO tritt bis 2027 schrittweise in Kraft, und eine
 fest codierte Rolle × Klasse → Pflichten-Tabelle ist genau das Artefakt, das in einem
 Vorstandsmemo landet und selbstsicher falsch liegt.
@@ -187,8 +187,8 @@ vorhanden, nach Abschluss der ersten Abschätzung ergänzen.]
 **Erforderliche Schutzmaßnahmen:** [PLATZHALTER]
 **Offenlegungspflichten:** [PLATZHALTER – was die Richtlinie zum Offenlegen des KI-Einsatzes
 gegenüber Kunden, Mitarbeitern oder betroffenen Personen sagt]
-**Genehmigte Anbieter / Tools:** [PLATZHALTER – Liste oder „in Allowlist geführt"]
-**Untersagte Anbieter / Tools:** [PLATZHALTER – Liste oder „in Blocklist geführt"]
+**Genehmigte Anbieter / Tools:** [PLATZHALTER – Liste oder „in Positivliste geführt"]
+**Untersagte Anbieter / Tools:** [PLATZHALTER – Liste oder „in Sperrliste geführt"]
 
 ---
 
@@ -217,7 +217,7 @@ gegenüber Kunden, Mitarbeitern oder betroffenen Personen sagt]
 | Referenz-Folgenabschätzung | [PLATZHALTER] | | |
 | Wichtigster Vendor-KI-Vertrag | [PLATZHALTER] | | |
 | Modell-Inventar | [PLATZHALTER] | | |
-| Allowlist / Blocklist | [PLATZHALTER] | | |
+| Positivliste / Sperrliste | [PLATZHALTER] | | |
 
 ---
 
@@ -366,7 +366,7 @@ ursprüngliche Aufgabe fortsetzen.
 
 Die Aufgabe des Plugins ist es, Claude bei der Rechtsarbeit BESSER zu machen, nicht es von
 Rechtsdogmatik fernzuhalten, die es ohnehin kennt. Wenn ein Skill eine Checkliste oder einen
-Workflow hat, ist die Checkliste ein BODEN, keine Decke. Wenn die Frage des Nutzers
+Ablauf hat, ist die Checkliste ein BODEN, keine Decke. Wenn die Frage des Nutzers
 rechtliche Analysen berührt, die die Checkliste nicht abdeckt, die Frage trotzdem beantworten
 und vermerken: „Das gehört nicht zu meiner üblichen Checkliste für diesen Skill, ist aber
 relevant: [Analyse]." Ein Plugin, das auf eine Frage in seinem eigenen Fachgebiet eine
@@ -384,7 +384,7 @@ In-house-KI-Governance für ein Unternehmen betreiben, ist dieser Abschnitt inak
 **Mandatsübergreifender Kontext:** aus
 
 Bei aktivierten Mandate-Workspaces arbeiten Skills im Kontext des aktiven Mandats. Skills
-lesen diese Praxisprofil-CLAUDE.md für praxisweite Regeln und die Mandat-`matter.md` für
+lesen diese Praxisprofil-CLAUDE.md für praxisweite Regeln und die Mandat-`mandat.md` für
 mandatsspezifische Fakten. Ausgaben werden im Mandatsordner gespeichert.
 
 ---
@@ -402,4 +402,4 @@ Risikobewertung.
 
 ---
 
-*Neu starten: `/ki-governance:cold-start-interview --redo`*
+*Neu starten: `/ki-governance:kaltstart-interview --redo`*

@@ -11,7 +11,7 @@ Regeln für alle Skills, Befehle und Agenten in diesem Plugin:
 3. Einrichtung und Ersteinrichtung SCHREIBEN in diesen Pfad, ggf. übergeordnete Verzeichnisse anlegen.
 4. Diese Datei (die Sie gerade lesen) ist das TEMPLATE. Sie wird bei jedem Plugin-Update ersetzt. Nutzerdaten niemals hier speichern.
 
-**Gemeinsames Mandantenprofil.** Unternehmensfakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Risikobereitschaft, Schlüsselpersonen) liegen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/company-profile.md` – eine Ebene höher, gemeinsam genutzt von allen Plugins. Diese Datei vor dem Praxisprofil des Plugins lesen. Falls sie nicht existiert, legt die Einrichtung sie an.
+**Gemeinsames Mandantenprofil.** Unternehmensfakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Risikobereitschaft, Schlüsselpersonen) liegen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` – eine Ebene höher, gemeinsam genutzt von allen Plugins. Diese Datei vor dem Praxisprofil des Plugins lesen. Falls sie nicht existiert, legt die Einrichtung sie an.
 -->
 
 # Vertragsrechtliches Praxisprofil
@@ -78,7 +78,7 @@ Dieses Plugin arbeitet im Rahmen des deutschen Privatrechts. Maßgebliche Rechts
 
 [Unternehmensname] ist eine [Rechtsform]. Das Vertragsteam besteht aus [Anzahl] Personen. [Name GC / Leiter Rechtsabteilung] ist der finale Eskalationspunkt. Wir verarbeiten monatlich ca. [Anzahl] Verträge, überwiegend [Lieferanten-/Kunden-/gemischt]. Wir nutzen [CLM-System] für die Vertragslebenszyklusverwaltung.
 
-*(Unternehmensname, Rechtsform, Branche und Größe kommen aus company-profile.md – dort ändern, damit Änderungen in allen Plugins wirken.)*
+*(Unternehmensname, Rechtsform, Branche und Größe kommen aus unternehmens-profil.md – dort ändern, damit Änderungen in allen Plugins wirken.)*
 
 **Das macht uns Kopfzerbrechen:** [PLATZHALTER – was das Team beschäftigt, in eigenen Worten]
 
@@ -308,7 +308,7 @@ Interne Compliance-Analysen, DPIAs oder Launch-Reviews sind grundsätzlich nicht
 - Arbeitsergebnis-Header: BEHALTEN
 - ⚠️ Prüfer-Hinweis: BEHALTEN
 - Quellenkennzeichnungs-Tags: BEHALTEN (inline oder als Fußnote)
-- Skill-Workflow-Erklärungen: KÜRZEN
+- Skill-Ablauf-Erklärungen: KÜRZEN
 - Plugin-Befehlsverweise: KÜRZEN (in gesonderten Prüfer-Hinweis)
 
 Das Ergebnis soll lesen wie von einem Berufsjuristen verfasst.

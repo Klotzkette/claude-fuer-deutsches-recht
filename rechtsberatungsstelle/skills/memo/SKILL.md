@@ -82,7 +82,7 @@ Für jede Frage:
 > Voraussetzungen: erheblicher Mangel, Anzeige durch Mieter (§ 536c BGB),
 > keine Kenntnis bei Vertragsschluss (§ 536b BGB). Starten Sie mit:
 > § 536 BGB, dann Rspr. zu Heizungsausfall als erheblicher Mangel.
-> Vgl. /research-start für einen Recherchefahrplan.]`
+> Vgl. /recherche-start für einen Recherchefahrplan.]`
 
 Falls der Skill einen allgemeinen Normrahmen mit hoher Sicherheit kennt, kann dieser als Ausgangspunkt benannt werden — aber ausdrücklich als ungeprüft markiert:
 
@@ -183,7 +183,7 @@ nächster Schritt: Z]
 ## Offene Fragen
 
 **Sachverhaltlich:** [Liste]
-**Rechtlich:** [Liste — diese fließen in /research-start ein]
+**Rechtlich:** [Liste — diese fließen in /recherche-start ein]
 **Strategisch:** [Liste — dies ist die Agenda für das Supervisorengespräch]
 
 ---
@@ -191,7 +191,7 @@ nächster Schritt: Z]
 ## Recherchelücken-Zusammenfassung
 
 [Alle RECHERCHE ERFORDERLICH-Blöcke in einer Liste, damit der/die Studierende
-sie systematisch abarbeiten kann — und /research-start für jede starten kann]
+sie systematisch abarbeiten kann — und /recherche-start für jede starten kann]
 
 ═══════════════════════════════════════════════════════════════════════
 ```

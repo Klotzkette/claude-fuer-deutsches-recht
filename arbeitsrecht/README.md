@@ -1,24 +1,24 @@
 # Arbeitsrecht-Plugin
 
-Arbeitsrechtliche Workflows für Personalabteilungen und Arbeitsrechtler: Einstellungsprüfung, Kündigungsprüfung, Richtlinienerstellung, Personalhandbuch-Updates, Lohn-und-Arbeitszeitfragen sowie Statusfeststellung – auf das deutsche Arbeitsrecht (KSchG, BetrVG, BGB, AGG, ArbZG, MiLoG, MuSchG, BEEG, TzBfG, BUrlG, EFZG, SGB IV) zugeschnitten.
+Arbeitsrechtliche Abläufe für Personalabteilungen und Arbeitsrechtler: Einstellungsprüfung, Kündigungsprüfung, Richtlinienerstellung, Personalhandbuch-Updates, Lohn-und-Arbeitszeitfragen sowie Statusfeststellung – auf das deutsche Arbeitsrecht (KSchG, BetrVG, BGB, AGG, ArbZG, MiLoG, MuSchG, BEEG, TzBfG, BUrlG, EFZG, SGB IV) zugeschnitten.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, mit Prüfhinweisen versehen und gegen unbeabsichtigte Weitergabe gesichert. Das Plugin erledigt die Recherchearbeit: Es liest Dokumente, wendet Ihre Prüfschemata an, benennt Risiken und erstellt Entwürfe. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt oder Syndikusrechtsanwalt.** Zitate werden nach ihrer Quelle gekennzeichnet, damit klar ist, welche überprüft werden müssen. Vertraulichkeitsvermerke werden zurückhaltend gesetzt. Folgenreiche Handlungen – Einreichen, Versenden, Vollziehen – erfordern ausdrückliche Freigabe.
 
 ## Für wen ist das Plugin
 
-| Rolle | Primäre Workflows |
+| Rolle | Primäre Abläufe |
 |---|---|
 | **Arbeitsrechtlicher Berater / Fachanwalt Arbeitsrecht** | Kündigungsprüfung, Statusfeststellung, Interne Untersuchung, KSchG-Klage, Aufhebungsvertrag |
 | **Syndikusrechtsanwalt (in-house)** | Einstellungsprüfung, Personalrichtlinien, Betriebsratsanhörung, Lohn-und-Arbeitszeitfragen |
 | **HR Business Partner / Personalleiter** | Einstellungsprüfung, Handbuch-Updates, Urlaub-/Fehlzeiten-Tracker, Abmahnungsentwürfe |
 | **GC / Leiter Rechtsabteilung** | Eskalationsempfänger bei hochriskanten Kündigungen, Massenentlassungen, Einigungsstellenverfahren |
 
-## Ersteinrichtung: cold-start
+## Ersteinrichtung: Kaltstart
 
 Fragt ab, in welchen Bundesländern und Ländern Mitarbeiter beschäftigt sind, liest Ihr Personalhandbuch und drei aktuelle Kündigungsunterlagen, erstellt eine standortbezogene Eskalationstabelle und speichert die Kanzlei- oder Unternehmenskonfiguration.
 
 ```
-/arbeitsrecht:cold-start-interview
+/arbeitsrecht:kaltstart-interview
 ```
 
 Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` gespeichert und übersteht Plugin-Updates.
@@ -34,18 +34,18 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 | Skill | Funktion |
 |---|---|
-| `/arbeitsrecht:cold-start-interview` | Ersteinrichtung – Standortprofil, Eskalationsregeln, Handbuchwissen |
+| `/arbeitsrecht:kaltstart-interview` | Ersteinrichtung – Standortprofil, Eskalationsregeln, Handbuchwissen |
 | `/arbeitsrecht:einstellungspruefung` | Arbeitsvertragsprüfung: Befristung (TzBfG), AGG, AÜG, Nachweisgesetz |
-| `/arbeitsrecht:kuendigungspruefung` | Kündigungsprüfung: KSchG, § 102 BetrVG, §§ 622, 626 BGB, Sozialauswahl |
+| `/arbeitsrecht:kuendigungs-pruefung` | Kündigungsprüfung: KSchG, § 102 BetrVG, §§ 622, 626 BGB, Sozialauswahl |
 | `/arbeitsrecht:kuendigungsschutzklage` | Entwurf und Prüfung der KSchG-Klage, § 4 KSchG, 3-Wochen-Frist, Klageschrift ArbG |
 | `/arbeitsrecht:abmahnung-arbeitsrecht` | Abmahnungsentwurf und -bewertung nach BAG-Grundsätzen |
 | `/arbeitsrecht:aufhebungsvertrag` | Aufhebungsvertrag inkl. Sperrzeitprüfung § 159 SGB III, Abfindungssteuer § 34 EStG |
 | `/arbeitsrecht:betriebsrat-anhoerung` | Betriebsratsanhörung § 102 BetrVG – Fristen, Inhalt, Mitteilungspflichten |
-| `/arbeitsrecht:lohn-und-arbeitszeit` | Lohn-/Arbeitszeitfragen: ArbZG, MiLoG, EFZG – standortbezogen |
-| `/arbeitsrecht:statusfeststellung` | Statusfeststellung § 7a SGB IV, Scheinselbständigkeit, AÜG |
+| `/arbeitsrecht:lohn-arbeitszeit-fragen` | Lohn-/Arbeitszeitfragen: ArbZG, MiLoG, EFZG – standortbezogen |
+| `/arbeitsrecht:arbeitnehmer-status` | Statusfeststellung § 7a SGB IV, Scheinselbständigkeit, AÜG |
 | `/arbeitsrecht:lohnsteuer-sozialversicherung` | Statusfeststellung, Scheinselbständigkeit, Clearingverfahren DRV |
 | `/arbeitsrecht:urlaub-fehlzeiten` | Urlaubsregister und Fehlzeitentracker: BUrlG, EFZG, MuSchG, BEEG |
-| `/arbeitsrecht:log-fehlzeit` | Neue Fehlzeit / neuen Urlaub im Register anlegen |
+| `/arbeitsrecht:fehlzeit-erfassen` | Neue Fehlzeit / neuen Urlaub im Register anlegen |
 | `/arbeitsrecht:internationaler-einsatz-kickoff [Land]` | Entsendungs-/Expansionsprojekt eröffnen: AÜG, A1, EU-Entsende-RL, AentG |
 | `/arbeitsrecht:internationaler-einsatz-update [Land]` | Offenes Entsendungsprojekt aktualisieren |
 | `/arbeitsrecht:untersuchung-eroeffnen` | Interne Untersuchung eröffnen – Intake, Quellenplan, Protokoll anlegen |
@@ -56,7 +56,7 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | `/arbeitsrecht:personalrichtlinien` | Personalrichtlinien diff und Betriebsvereinbarungsauswirkungen prüfen |
 | `/arbeitsrecht:richtlinienerstellung [Thema]` | BetrVG-konforme Richtlinie entwerfen, BR-Anhörung planen |
 | `/arbeitsrecht:mandatsakte` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
-| `/arbeitsrecht:customize` | Kanzlei-/Unternehmensprofil gezielt anpassen |
+| `/arbeitsrecht:anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
 
 ## Interaktive Skills vs. geplante Agenten
 
@@ -70,7 +70,7 @@ Die obigen Skills werden auf Abruf ausgeführt. Der folgende Agent läuft nach Z
 
 **Szenario 1 – Ordentliche Kündigung mit Sozialauswahl:**
 ```
-/arbeitsrecht:kuendigungspruefung
+/arbeitsrecht:kuendigungs-pruefung
 Mandant plant betriebsbedingte Kündigung von 3 von 12 Arbeitnehmern.
 Betrieb hat 15 AN, kein BR. Bitte Sozialauswahl prüfen und § 1 KSchG
 Interessenabwägung durchführen.
