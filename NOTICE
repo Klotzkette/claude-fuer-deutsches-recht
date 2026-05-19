@@ -8,5 +8,11 @@ Inspiriert von und adaptiert nach Anthropics "claude-for-legal"
 veröffentlicht unter der MIT License, Copyright Anthropic.
 
 Diese Adaption ist auf das deutsche Recht und die deutsche
-Kanzleipraxis zugeschnitten und wird unter der Apache License,
-Version 2.0 veröffentlicht.
+Kanzleipraxis zugeschnitten und wird doppellizenziert unter
+
+  Apache License, Version 2.0     (siehe LICENSE-APACHE)
+                ODER
+  MIT License                     (siehe LICENSE-MIT)
+
+nach Wahl der Nutzerin / des Nutzers, veröffentlicht unter dem
+SPDX-Bezeichner `Apache-2.0 OR MIT`.

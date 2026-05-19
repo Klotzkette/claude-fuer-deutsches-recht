@@ -231,7 +231,7 @@ A: Derzeit funktionieren Skills nur in Claude Desktop, Claude Code und über die
 A: Das hängt von Ihrer Nutzung ab. Anthropic ist DSGVO-zertifiziert, aber Sie müssen sicherstellen, dass Sie keine Mandantendaten ohne AVV hochladen. Siehe: https://www.anthropic.com/legal/privacy
 
 **F: Kann ich die Skills anpassen?**
-A: Ja. Alle Skills sind Open Source (Apache 2.0). Sie können sie nach Belieben anpassen – siehe [`CONTRIBUTING.md`](CONTRIBUTING.md).
+A: Ja. Alle Skills sind Open Source (Apache-2.0 OR MIT, nach Wahl der Nutzerin / des Nutzers). Sie können sie nach Belieben anpassen – siehe [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 **F: Was mache ich, wenn ein Skill nicht funktioniert?**
 A: Öffnen Sie einen Issue auf GitHub oder schauen Sie in die Skill-Datei – oft sind Abhängigkeiten oder Formate dokumentiert.
@@ -255,9 +255,9 @@ A: **Nicht sehr**. LLMs erfinden oft Zitate. Die Skills sind so konzipiert, dass
 
 ## Lizenz
 
-Apache License, Version 2.0 – siehe [`LICENSE`](./LICENSE) und [`NOTICE`](./NOTICE).
+Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl der Nutzerin / des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [`LICENSE`](./LICENSE), [`LICENSE-APACHE`](./LICENSE-APACHE), [`LICENSE-MIT`](./LICENSE-MIT) und [`NOTICE`](./NOTICE).
 
-Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-Lizenz; diese Adaption erweitert, ersetzt und ergänzt die ursprünglichen Inhalte und wird unter der oben genannten Lizenz veröffentlicht.
+Die ursprüngliche Vorlage `claude-for-legal` von Anthropic steht unter der MIT-Lizenz; diese Adaption erweitert, ersetzt und ergänzt die ursprünglichen Inhalte und wird unter dem oben genannten Doppellizenz-Modell veröffentlicht.
 
 ## Mitwirken
 

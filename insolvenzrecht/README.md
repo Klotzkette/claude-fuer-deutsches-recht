@@ -50,6 +50,6 @@ Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es li
 - *IDW S 6* — Anforderungen an Sanierungskonzepte
 - *IDW S 9* — Bescheinigungen nach §§ 50, 51 StaRUG
 
-## Apache-2.0
+## Lizenz
 
-Dieses Plugin steht unter Apache License 2.0.
+Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl der Nutzerin / des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`). Siehe `LICENSE`, `LICENSE-APACHE`, `LICENSE-MIT` und `NOTICE` im Repository-Wurzelverzeichnis.

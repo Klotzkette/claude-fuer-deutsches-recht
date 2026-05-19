@@ -2,7 +2,7 @@
 name: playbook-aus-eigenen-daten
 description: Erzeugt aus eigenen Daten (E-Mails, Schriftsätzen, Aktenexporten, Notizen, Sprachprotokollen) ein wiederverwendbares Vorgehens-Spielbuch (Playbook) für wiederkehrende anwaltliche Arbeitsabläufe. Extrahiert Muster, typische Klauseln, Standardfragen, Eskalationsstufen und Fristen aus tatsächlicher Bearbeitungspraxis.
 language: de
-license: Apache-2.0
+license: Apache-2.0 OR MIT
 triggers:
   - "playbook aus meinen daten erstellen"
   - "wie mache ich aus meinen e-mails ein playbook"

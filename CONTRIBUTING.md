@@ -46,4 +46,4 @@ Siehe [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
 
 ## Lizenz
 
-Apache License, Version 2.0 – siehe [`LICENSE`](./LICENSE) und [`NOTICE`](./NOTICE). Mit deinem Beitrag stimmst du der Veröffentlichung unter dieser Lizenz zu.
+Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl der Nutzerin / des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [`LICENSE`](./LICENSE), [`LICENSE-APACHE`](./LICENSE-APACHE), [`LICENSE-MIT`](./LICENSE-MIT) und [`NOTICE`](./NOTICE). Mit deinem Beitrag stimmst du der Veröffentlichung unter diesen Bedingungen zu.
