@@ -1,7 +1,7 @@
 {
   "name": "liquiditaetsplanung",
   "version": "0.2.1",
-  "description": "Eigenständiges Power-Plugin Liquiditätsvorschau nach deutschem Recht. Wochenaktuelle 3-Wochen-Vorschau (§ 17 InsO), rollierende 13/26/52-Wochen-Planung und gerichtsfeste Liquiditätsbilanz nach BGH-Schema (BGHZ 217, 129 Passiva II; BGHZ 163, 134 10-%-Schwelle/3-Wochen-Horizont; BGH 28.06.2022 II ZR 112/21; BGH 28.04.2022 IX ZR 48/21; BGH 23.01.2025 IX ZR 229/22; BGH 11.03.2025 II ZR 139/23). Erzeugt zwingend eine Excel-Tabelle nach hinterlegter Vorlage und auf Wunsch ein interaktives HTML-Padlet oder Markdown-Artefakt. Banking optional (manuell, Datei-Import CAMT.053/MT940/CSV/DATEV-OPOS, Connector). Memo nur auf Anfrage. Voll autark; ergänzt sich mit den Plugins insolvenzrecht und steuerberater-werkzeuge, hängt aber nicht davon ab.",
+  "description": "Autarke Liquiditätsplanung nach deutschem Recht mit 3-Wochen-Vorschau, 13/26/52-Wochen-Planung und Excel-Export.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

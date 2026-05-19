@@ -1,7 +1,7 @@
 {
   "name": "betreuungsrecht",
   "version": "0.1.1",
-  "description": "Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB: Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835 ff. BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB). Praxis für Berufsbetreuer, Vereinsbetreuer und Betreuungsbehörden. Maßgeblich Reform 2023, einschlägige BGH-Rechtsprechung sowie Kommentarliteratur (Grüneberg, MünchKomm).",
+  "description": "Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis und Genehmigungspflichten nach BtOG und BGB.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

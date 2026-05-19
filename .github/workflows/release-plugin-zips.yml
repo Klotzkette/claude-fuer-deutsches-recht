@@ -46,7 +46,7 @@ jobs:
           mkdir -p dist
           for plugin in ${{ steps.plugins.outputs.names }}; do
             echo "Baue $plugin.zip"
-            (cd "$plugin" && zip -rq "../dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc')
+            (cd "$plugin" && zip -rq "../dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc' 'CLAUDE.md')
             ls -la "dist/${plugin}.zip"
           done
           # Manifest fuer Marketplace-Komfort

@@ -1,7 +1,7 @@
 {
   "name": "forderungsmanagement-klagewerkstatt",
   "version": "0.1.0",
-  "description": "Generalisierter Klage-Assistent für Forderungsmanagement-Klagen mit eigenem Plugin-Generator. Aus eigenen Klagemustern, Urteilen, Kommentaren, Aufsätzen und Formatvorlagen destilliert der Skill eine hauseigene Standardklage-Vorlage, sammelt den Sachverhalt, prüft online die örtliche und sachliche Zuständigkeit (justizadressen.nrw.de, justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG) und liefert die fertige Klage als DOCX und Markdown. Zusätzlich erzeugt der Skill ein eigenes, sofort in Claude Code installierbares Mini-Plugin (ZIP), mit dem die nächste Klage ohne Extraktionsschritt direkt in der hauseigenen Vorlage entsteht. Eigenständig nutzbar; ergänzt sich mit prozessrecht, vertragsrecht und liquiditaetsplanung, hängt aber nicht davon ab.",
+  "description": "Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Standardklage und optionalem Kanzlei-Mini-Plugin.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

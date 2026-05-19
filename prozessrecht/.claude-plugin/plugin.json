@@ -1,7 +1,7 @@
 {
   "name": "prozessrecht",
   "version": "1.0.0",
-  "description": "Prozessrecht – Zivil-, Straf-, Verwaltungs- und Arbeitsgerichtsverfahren: Mandatsportfolio, Fristen, Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung und Schutzschrift, Zwangsvollstreckung, Verkehrsunfall, Schriftsatzentwürfe, Anhörungsrüge, Beweismittel ohne Discovery.",
+  "description": "Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze.",
   "author": {
     "name": "Klotzkette"
   }

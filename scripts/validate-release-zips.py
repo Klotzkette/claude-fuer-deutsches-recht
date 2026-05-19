@@ -47,6 +47,8 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
         fail(f"{zip_path}: ZIP is nested under {plugin_name}/; upload ZIPs must be flat")
     if any(name.startswith(f"{plugin_name}/") for name in names):
         fail(f"{zip_path}: contains nested {plugin_name}/ root")
+    if "CLAUDE.md" in names:
+        fail(f"{zip_path}: root CLAUDE.md must not be shipped; Claude Code treats it as a warning and Cowork upload may reject it")
     if any("__pycache__/" in name or name.endswith(".pyc") for name in names):
         fail(f"{zip_path}: contains Python cache files")
 
