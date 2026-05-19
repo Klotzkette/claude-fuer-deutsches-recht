@@ -41,24 +41,29 @@ def validate_plugin_zip(dist_dir: Path, plugin_name: str) -> None:
         )
 
     names = zip_names(zip_path)
-    if ".claude-plugin/plugin.json" not in names:
-        fail(f"{zip_path}: .claude-plugin/plugin.json must be at ZIP root")
-    if f"{plugin_name}/.claude-plugin/plugin.json" in names:
-        fail(f"{zip_path}: ZIP is nested under {plugin_name}/; upload ZIPs must be flat")
-    if any(name.startswith(f"{plugin_name}/") for name in names):
-        fail(f"{zip_path}: contains nested {plugin_name}/ root")
-    if "CLAUDE.md" in names:
+    root = f"{plugin_name}/"
+    manifest_path = f"{root}.claude-plugin/plugin.json"
+    if manifest_path not in names:
+        fail(f"{zip_path}: {manifest_path} must exist")
+    if ".claude-plugin/plugin.json" in names:
+        fail(f"{zip_path}: ZIP is flat; Cowork upload expects a single {plugin_name}/ root folder")
+    outside_root = sorted(name for name in names if name and not name.startswith(root))
+    if outside_root:
+        fail(f"{zip_path}: contains entries outside {plugin_name}/ root: {outside_root[:3]}")
+    if f"{root}CLAUDE.md" in names:
         fail(f"{zip_path}: root CLAUDE.md must not be shipped; Claude Code treats it as a warning and Cowork upload may reject it")
     if any("__pycache__/" in name or name.endswith(".pyc") for name in names):
         fail(f"{zip_path}: contains Python cache files")
 
     with zipfile.ZipFile(zip_path) as archive:
-        manifest = json.loads(archive.read(".claude-plugin/plugin.json"))
+        manifest = json.loads(archive.read(manifest_path))
     if manifest.get("name") != plugin_name:
         fail(f"{zip_path}: manifest name {manifest.get('name')!r} does not match {plugin_name!r}")
+    if len(manifest.get("description", "")) > 300:
+        fail(f"{zip_path}: manifest description is too long for Cowork upload")
 
     if plugin_name == "liquiditaetsplanung":
-        generator = "skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py"
+        generator = f"{root}skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py"
         if generator not in names:
             fail(f"{zip_path}: missing standalone Liquiditätsplan generator {generator}")
 

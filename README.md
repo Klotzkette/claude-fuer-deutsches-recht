@@ -119,7 +119,7 @@ Wenn kein Marketplace-Manifest verwendet werden soll oder eine bestimmte Version
 2. In Cowork **Customize → Plugin** öffnen und über **+ → Create → Upload plugin** dieses einzelne Plugin-ZIP hochladen.
 3. Nach dem Upload erscheint das Plugin in der Plugin-Liste und kann aktiviert werden.
 
-**Wichtig:** Nicht das komplette Repository-ZIP aus **Code → Download ZIP** hochladen. Ein Upload-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` usw. im ZIP-Root enthalten.
+**Wichtig:** Nicht das komplette Repository-ZIP aus **Code → Download ZIP** hochladen. Das Release-ZIP enthält genau einen Plugin-Ordner, z. B. `liquiditaetsplanung/.claude-plugin/plugin.json`, und ist so für Cowork-Upload gebaut.
 
 ### Weg 3 — Marketplace-Kommando (Claude Code im Terminal)
 
