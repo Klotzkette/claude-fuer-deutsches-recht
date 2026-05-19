@@ -52,6 +52,9 @@ jobs:
           # Manifest fuer Marketplace-Komfort
           cp .claude-plugin/marketplace.json dist/marketplace.json
 
+      - name: Release-ZIPs validieren
+        run: python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json
+
       - name: Beispielakten separat verpacken (kein Teil der Plugins)
         run: |
           if [ -d examples ]; then
