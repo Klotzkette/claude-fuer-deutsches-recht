@@ -1,0 +1,55 @@
+{
+  "mcpServers": {
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Nachrichten suchen, Kanäle lesen, Diskussionen im gesamten Arbeitsbereich finden."
+    },
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Dokumente in Google Drive suchen, lesen und abrufen."
+    },
+    "Everlaw": {
+      "type": "http",
+      "url": "https://api.everlaw.com/v1/mcp",
+      "title": "Everlaw",
+      "description": "Dokumente aus Everlaw-Projekten suchen, strukturieren und abrufen – Metadaten, Stichwörter, Dokumenttypen – mit Prüfverweisen."
+    },
+    "TopCounsel": {
+      "type": "http",
+      "url": "https://api.techgc.co/api/mcp/topcounsel",
+      "title": "TopCounsel",
+      "description": "Empfehlungen für Korrespondenzanwälte aus The L Suite – Bewertungen, Rankings und Kompetenzbelege aus einer Community von über 5.000 Unternehmensjuristen."
+    },
+    "CourtListener": {
+      "type": "http",
+      "url": "https://mcp.courtlistener.com/",
+      "title": "CourtListener",
+      "description": "Rechtsprechungsrecherche – Urteile und Entscheidungen abrufen sowie Fundstellen prüfen; ergänzend zu Beck-Online, juris und ECLI-Suche nutzbar."
+    },
+    "Aurora": {
+      "type": "http",
+      "url": "https://mcp.ai.consilio.com",
+      "title": "Aurora",
+      "description": "Schreibgeschützter Consilio-eDiscovery-Zugriff – Mandate finden, Arbeitsbereiche auflisten, Volltextsuche, KI-gestützte mandantsübergreifende Recherchen, jeder Treffer mit Quellverweis."
+    },
+    "Trellis": {
+      "type": "http",
+      "url": "https://mcp.trellis.law/anthropic",
+      "title": "Trellis",
+      "description": "Verfahrensanalytik – Akten, Entscheidungen, Urteile, Schriftsätze sowie Richter- und Gegenparteianalysen für die Prozessvorbereitung."
+    }
+  },
+  "recommendedCategories": [
+    "ediscovery",
+    "legal-research",
+    "case-law",
+    "court-analytics",
+    "outside-counsel-network",
+    "documents",
+    "chat"
+  ]
+}

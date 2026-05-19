@@ -1,0 +1,41 @@
+# Standard-Positivliste für kanzlei-builder-hub
+# Erzeugt durch /kanzlei-builder-hub:ersteinrichtungs-interview — diese Datei bearbeiten, um vertrauenswürdige Quellen zu ändern.
+# Das vollständige Schema ist in skill-installer/references/allowlist.md beschrieben.
+#
+# SICHERHEITSHINWEIS: Diese Standard-Konfiguration ist RESTRIKTIV — unbekannte Quellen werden abgelehnt.
+# Das Ersteinrichtungs-Interview bietet an, auf permissiv umzustellen — für Einzelanwälte
+# ohne IT-verwaltete Herausgeberliste. Wurde die Einrichtung nie durchgeführt,
+# wird der Installer jede Quelle ablehnen, die nicht ausdrücklich unten aufgeführt ist.
+# Das ist beabsichtigt: Fail-closed ist der richtige Standard für ein Werkzeug,
+# das Drittanbieter-Code in einen privilegierten Rechtarbeitsbereich installiert.
+# /kanzlei-builder-hub:ersteinrichtungs-interview ausführen, um zu konfigurieren,
+# oder diese Datei direkt bearbeiten, wenn der Kompromiss bekannt ist.
+
+modus: restriktiv    # restriktiv (fail-closed, Standard) | permissiv (Nachfragen-und-Markieren)
+
+register:
+  - https://github.com/legalopsconsulting/lpm-skills
+  # Lawvable — Startpartner, zwei kuratierte Register unter der lawvable GitHub-Organisation.
+  - https://github.com/lawvable/awesome-legal-skills
+  - https://github.com/lawvable/agent-skills
+
+herausgeber:
+  - legalopsconsulting
+  - lawvable
+
+konnektoren: []
+  # Im restriktiven Modus bedeutet ein leerer Wert, dass Community-Skills,
+  # die IRGENDEINEN MCP-Konnektor deklarieren, abgelehnt werden.
+  # Genehmigte MCP-Server-URLs hier eintragen oder auf permissiv umstellen,
+  # um statt Ablehnung nachzufragen.
+
+lizenzen:
+  # SPDX-Lizenzbezeichner, die Community-Skills tragen dürfen. Persönliche Standards.
+  # Durch Ersteinrichtung nach Deployment-Kontext gesetzt (persönlich / kanzlei-intern /
+  # Produkteinbettung). Siehe skill-installer/references/allowlist.md.
+  - MIT
+  - Apache-2.0
+  - BSD-2-Clause
+  - BSD-3-Clause
+  - ISC
+  - CC0-1.0

@@ -1,0 +1,18 @@
+[
+  {
+    "event": "Verlängerungen 30–90 Tage voraus prüfen, Playbook-Abweichungen melden, Mandant Müller GmbH",
+    "description": "Prüfmodus — Vertragsarchiv des Mandanten nach Verträgen mit Verlängerungs- oder Kündigungsfristen im Zeitfenster 30–90 Tage durchsuchen, Fristen nach §§ 620 ff. BGB und § 309 Nr. 9 BGB berechnen, Abweichungen vom Vertragsplaybook markieren. Standard-Wochenprüfung für aktive Vertragsmandante."
+  },
+  {
+    "event": "Kritische Fristen unter 14 Tagen in allen Archiven prüfen, Eskalation sofort",
+    "description": "Prüfmodus mit Notfall-Schwelle — alle Vertragsarchive (iManage, SharePoint) auf Verträge mit ablaufenden Fristen in weniger als 14 Tagen prüfen, handoff_request an Notfallkanal senden. Auslöser: Monatsauftakt-Sweep oder nach manueller Eskalation."
+  },
+  {
+    "event": "Alert für Lizenzverträge im iManage-Ordner /mandate/m-2026-017/vertraege/lizenzen erstellen",
+    "description": "Alert-Modus mit Archiv-Pfad-Fokus — Lizenzverträge im bezeichneten iManage-Ordner lesen, Fristen nach § 31 UrhG, § 15 PatG und § 30 MarkenG berechnen, strukturierten Fristenbericht für das IP-Team erzeugen."
+  },
+  {
+    "event": "SharePoint-Archiv /mandate/rahmenvertraege auf § 309 Nr. 9 BGB-konforme Verlängerungsklauseln prüfen",
+    "description": "Prüfmodus mit Playbook-Abgleich — alle Rahmenverträge im bezeichneten SharePoint-Ordner lesen, Verlängerungsklauseln gegen AGB-Schranken (§ 309 Nr. 9 BGB: max. 2 Jahre Erstlaufzeit, max. 1 Jahr Verlängerung) prüfen, nicht-konforme Klauseln für Überarbeitung markieren."
+  }
+]

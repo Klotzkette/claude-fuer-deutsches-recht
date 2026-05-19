@@ -1,0 +1,42 @@
+{
+  "mcpServers": {
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Nachrichten suchen, Kanäle lesen, Diskussionen im gesamten Arbeitsbereich finden."
+    },
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Dokumente in Google Drive suchen, lesen und abrufen."
+    },
+    "Linear": {
+      "type": "http",
+      "url": "https://mcp.linear.app/mcp",
+      "title": "Linear",
+      "description": "Aufgabenverfolgung und Projektmanagement."
+    },
+    "Atlassian": {
+      "type": "http",
+      "url": "https://mcp.atlassian.com/v1/sse",
+      "title": "Atlassian",
+      "description": "Jira-Vorgänge und Confluence-Seiten."
+    },
+    "Asana": {
+      "type": "http",
+      "url": "https://mcp.asana.com/sse",
+      "title": "Asana",
+      "description": "Aufgaben und Projektverfolgung."
+    }
+  },
+  "recommendedCategories": [
+    "project-management",
+    "issue-tracking",
+    "documents",
+    "chat",
+    "email",
+    "outside-counsel-network"
+  ]
+}

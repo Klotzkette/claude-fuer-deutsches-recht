@@ -1,0 +1,14 @@
+{
+  "ausloeser": {
+    "user-prompt-submit": [
+      {
+        "match": "(?i)(fundstellen\\s*pr(ü|ue)fen|zitate\\s*glattziehen|zitatkorrektur|zitierweise\\s*korrigieren|fundstellen\\s*korrigieren|zitate\\s*vereinheitlichen|bgh-zitierung\\s*pr(ü|ue)fen|citation\\s*check|fundstellenformat|quellenformat)",
+        "load_skill": "skills/fundstellenglattzieher"
+      },
+      {
+        "match": "(?i)(playbook\\s+aus\\s+eigenen\\s+daten|kanzlei-spielbuch|mailverkehr\\s+zu\\s+playbook|mandatsgeschichte\\s+zu\\s+playbook)",
+        "load_skill": "skills/playbook-aus-eigenen-daten"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+# Fristenregister — rechtsberatungsstelle
+#
+# Wird automatisch befüllt durch /rechtsberatungsstelle:fristen --hinzufuegen
+# (oder durch Extraktion aus /mandantenaufnahme, /entwurf, /status, wenn diese
+# Skills eine Frist ermitteln). Wird gelesen von
+# /rechtsberatungsstelle:fristen --bericht für mandantsübergreifende Zusammenfassungen.
+#
+# Versäumte Fristen in der Rechtsberatungsstelle begründen Haftungsrisiken für
+# den betreuenden Anwalt. Diese Datei ist das operative Dokument.
+#
+# ──────────────────────────────────────────────────────────────────────────
+# Schema
+# ──────────────────────────────────────────────────────────────────────────
+# - id:             Zeichenkette (Kurzname: [fall]-[kurzbeschreibung]-[YYYY-MM])
+#   fall_id:        Zeichenkette — Verweis auf den Fall / Mandanten im Aufnahmesystem
+#   fallname:       Zeichenkette — menschenlesbarer Fallname
+#   rechtsgebiet:   aufenthaltsrecht | mietrecht | familienrecht | verbraucherrecht | strafrecht | sozialrecht | verwaltungsrecht | sonstiges
+#   typ:            einreichung | termin | verjährungsfrist | entdeckung | heilungsfrist | stellungnahme | bekanntmachung | sonstiges
+#   beschreibung:   Zeichenkette — einzeilige Angabe, was fällig ist
+#   faelligkeitsdatum: JJJJ-MM-TT
+#   uhrzeit:        HH:MM (optional; für Gerichtstermine oder Einreichungsfristen mit genauen Uhrzeiten)
+#   zeitzone:       Zeichenkette (optional; Standard aus CLAUDE.md-Jurisdiktion)
+#   quelle:         Zeichenkette — woher die Frist stammt (Gerichtsbeschluss, Gesetz, Mandantendokument usw.)
+#   zustaendig_student:   Zeichenkette — welcher Student diese Frist verantwortet
+#   zustaendig_anwalt:    Zeichenkette — betreuender Anwalt (in der Regel aus CLAUDE.md)
+#   status:         anstehend | heute | überfällig | erledigt | geschlossen
+#   erledigungsdatum: JJJJ-MM-TT | null
+#   hinweise:       Zeichenkette | null
+#   erstellt:       JJJJ-MM-TT
+#   erstellt_von:   Zeichenkette — Student, der die Frist eingetragen hat
+# ──────────────────────────────────────────────────────────────────────────
+
+fristen: []

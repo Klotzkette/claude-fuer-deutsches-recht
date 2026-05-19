@@ -1,0 +1,56 @@
+{
+  "mcpServers": {
+    "Ironclad": {
+      "type": "http",
+      "url": "https://mcp.na1.ironcladapp.com/mcp",
+      "title": "Ironclad",
+      "description": "Vertragsrepository und Arbeitsabläufe in natürlicher Sprache durchsuchen – ablaufende Rahmenverträge, Kündigungsklauseln, Lieferantenverträge – auf Ihre Berechtigungen beschränkt."
+    },
+    "DocuSign": {
+      "type": "http",
+      "url": "https://mcp.docusign.com/mcp",
+      "title": "DocuSign",
+      "description": "Vertragssuche, Statusverfolgung und Signaturarbeitsabläufe."
+    },
+    "iManage": {
+      "type": "http",
+      "url": "https://cloudimanage.com/mcp/work",
+      "title": "iManage",
+      "description": "Verwaltete iManage-Inhalte, verbunden mit Claude – Dokumente verbleiben in iManage, Zugriff ist berechtigungsgebunden und revisionssicher."
+    },
+    "TopCounsel": {
+      "type": "http",
+      "url": "https://api.techgc.co/api/mcp/topcounsel",
+      "title": "TopCounsel",
+      "description": "Empfehlungen für Korrespondenzanwälte aus The L Suite – Bewertungen, Rankings und Kompetenzbelege aus einer Community von über 5.000 Unternehmensjuristen."
+    },
+    "Definely": {
+      "type": "http",
+      "url": "https://mcp.uk.definely.com/api/proxy/core-mcp",
+      "title": "Definely",
+      "description": "Direkter, deterministischer Zugriff auf Vertragsstruktur – Definitionen auflösen, Querverweise prüfen, Abhängigkeiten abbilden, strukturelle Vergleiche durchführen."
+    },
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Nachrichten suchen, Kanäle lesen, Diskussionen im gesamten Arbeitsbereich finden."
+    },
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Dokumente in Google Drive suchen, lesen und abrufen."
+    }
+  },
+  "recommendedCategories": [
+    "contract-management",
+    "e-signature",
+    "legal-document-management",
+    "email",
+    "documents",
+    "chat",
+    "contract-review",
+    "outside-counsel-network"
+  ]
+}

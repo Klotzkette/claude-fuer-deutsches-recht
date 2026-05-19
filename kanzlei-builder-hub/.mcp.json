@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Nachrichten suchen, Kanäle lesen, Diskussionen im gesamten Arbeitsbereich finden."
+    },
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Dokumente in Google Drive suchen, lesen und abrufen."
+    },
+    "Lawve AI": {
+      "type": "http",
+      "url": "https://mcp.lawve.ai/mcp",
+      "title": "Lawve AI",
+      "description": "Kuratierte Bibliothek rechtlicher KI-Skills, verfasst von praktizierenden Anwälten, Unternehmensjuristen und Legal-Tech-Fachleuten."
+    }
+  },
+  "recommendedCategories": [
+    "legal-skills-registry",
+    "chat",
+    "documents"
+  ]
+}

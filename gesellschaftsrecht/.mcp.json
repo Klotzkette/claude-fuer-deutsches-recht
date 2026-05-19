@@ -1,0 +1,55 @@
+{
+  "mcpServers": {
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Nachrichten suchen, Kanäle lesen, Diskussionen im gesamten Arbeitsbereich finden."
+    },
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Dokumente in Google Drive suchen, lesen und abrufen."
+    },
+    "Box": {
+      "type": "http",
+      "url": "https://mcp.box.com/mcp",
+      "title": "Box",
+      "description": "Datenraum- und Dokumentenverwaltung."
+    },
+    "iManage": {
+      "type": "http",
+      "url": "https://cloudimanage.com/mcp/work",
+      "title": "iManage",
+      "description": "Verwaltete iManage-Inhalte, verbunden mit Claude – Dokumente verbleiben in iManage, Zugriff ist berechtigungsgebunden und revisionssicher."
+    },
+    "TopCounsel": {
+      "type": "http",
+      "url": "https://api.techgc.co/api/mcp/topcounsel",
+      "title": "TopCounsel",
+      "description": "Empfehlungen für Korrespondenzanwälte aus The L Suite – Bewertungen, Rankings und Kompetenzbelege aus einer Community von über 5.000 Unternehmensjuristen."
+    },
+    "Definely": {
+      "type": "http",
+      "url": "https://mcp.uk.definely.com/api/proxy/core-mcp",
+      "title": "Definely",
+      "description": "Direkter, deterministischer Zugriff auf Vertragsstruktur – Definitionen auflösen, Querverweise prüfen, Abhängigkeiten abbilden, strukturelle Vergleiche durchführen."
+    },
+    "Solve Intelligence": {
+      "type": "http",
+      "url": "https://api.solveintelligence.com/mcp/",
+      "title": "Solve Intelligence",
+      "description": "Patentarbeitsabläufe – Patent- und Nichtpatentliteratur, Rechtstexte, SEP-Technikstandards, Stand der Technik und Anspruchsanalyse recherchieren."
+    }
+  },
+  "recommendedCategories": [
+    "legal-document-management",
+    "virtual-data-room",
+    "contract-review",
+    "board-governance",
+    "documents",
+    "chat",
+    "email"
+  ]
+}

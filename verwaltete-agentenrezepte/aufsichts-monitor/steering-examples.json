@@ -1,0 +1,22 @@
+[
+  {
+    "event": "Alle Feeds seit 2026-05-01 prüfen, Wesentlichkeit: Finanzaufsicht + Kapitalmarkt",
+    "description": "Sweep-Modus — BAnz, BaFin-Journal, EUR-Lex und BNetzA-RSS seit dem Stichdatum lesen, Einträge gegen Themenprofile Finanzaufsicht (KWG, WpIG, MAR, MiFID II) und Kapitalmarkt (WpHG, WpÜG) klassifizieren und wesentliche Einträge markieren. Relevant für Mandanten mit BaFin-Erlaubnis nach § 32 KWG oder laufendem Börsenzulassungsverfahren."
+  },
+  {
+    "event": "Wochentliche Sweep: BNetzA-RSS und EUR-Lex, Thema TKG-Frequenzvergabe",
+    "description": "Sweep-Modus mit eingeschränktem Feed-Set — BNetzA-RSS und EUR-Lex-TK-Kanal lesen, Einträge zu § 61 TKG (Frequenzvergabe) und Regulierungsverfügungen nach §§ 13 ff. TKG klassifizieren. Wöchentlicher Rhythmus für TK-Mandanten in laufenden BNetzA-Verfahren."
+  },
+  {
+    "event": "Digest aus Sweep vom 2026-05-08 erstellen, Fokus Kartellrecht GWB-Novelle",
+    "description": "Digest-Modus — strukturierten Bericht aus dem gespeicherten Sweep-Eintragsindex erzeugen, Schwerpunkt auf Einträgen zur 12. GWB-Novelle (§§ 1, 19, 20 GWB), Bekanntmachungen des Bundeskartellamts und EU-Kommissionsentscheidungen zu Art. 101, 102 AEUV."
+  },
+  {
+    "event": "EUR-Lex auf neue Sekundärrechtsakte zu DORA (EU) 2022/2554 seit 2026-01-01 prüfen",
+    "description": "Sweep-Modus mit EUR-Lex-Fokus — alle delegierten Rechtsakte, Leitlinien der EBA/EIOPA/ESMA und technischen Regulierungsstandards zu DORA (Digital Operational Resilience Act) seit Jahresbeginn lesen und klassifizieren. Relevant für beaufsichtigte Finanzunternehmen mit Umsetzungspflicht bis 17. Januar 2025."
+  },
+  {
+    "event": "BaFin-Journal letzte 3 Ausgaben lesen, Wesentlichkeit: alle Themen, Schwelle niedrig",
+    "description": "Sweep-Modus mit niedriger Wesentlichkeitsschwelle — alle drei zuletzt veröffentlichten BaFin-Journal-Ausgaben vollständig klassifizieren, auch nachrangige Einträge aufnehmen. Einsatz bei Mandats-Onboarding oder Erst-Kalibrierung des Themenprofils."
+  }
+]

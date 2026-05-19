@@ -1,0 +1,13 @@
+{
+  "name": "gesellschaftsrecht",
+  "version": "1.0.0-de.1",
+  "description": "Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen.",
+  "language": "de",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "adapted_from": {
+    "name": "anthropics/claude-for-legal",
+    "license": "MIT"
+  }
+}

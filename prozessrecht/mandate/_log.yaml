@@ -1,0 +1,64 @@
+# Mandatsregister — prozessrecht
+#
+# Ein Eintrag je Mandat unter `mandate:`. Maßgebliche Quelle für /mandatsstatus-Berichte.
+# Geschlossene Mandate verbleiben in dieser Datei (durchsuchbare Historie), werden jedoch
+# bei aktiven Berichten standardmäßig herausgefiltert. Bearbeitung über
+# /prozessrecht:mandat-aufnahme, /mandat-aktualisierung und /mandat-schliessen –
+# direkte Bearbeitungen sind zulässig, sind aber in der Verlaufshistorie des Mandats zu dokumentieren.
+#
+# ──────────────────────────────────────────────────────────────────────────
+# Schema
+# ──────────────────────────────────────────────────────────────────────────
+# - id:                Zeichenkette — Kurzname, dauerhaft; entspricht mandate/[kurzname]/-Ordner
+#   bezeichnung:       Zeichenkette — Anzeigename
+#   typ:               vertrag | arbeit | gewerblicher-rechtsschutz | regulatorisch | untersuchung | produkthaftung | sonstiges
+#   rolle:             klager | beklagter | antragsteller | antragsgegner | untersuchter
+#   gegenpartei:       Zeichenkette
+#   gerichtsbarkeit:   Zeichenkette — Gericht oder Behörde (z. B. LG München I, BGH, BaFin)
+#   status:            angedroht | aktiv | beweisaufnahme | hauptverhandlung | berufung | geschlossen
+#                      (Erledigung wird gesondert über `ergebnis` beim Schließen erfasst;
+#                       `/mandat-schliessen` schreibt `ergebnis: vergleich` bei einvernehmlicher Erledigung)
+#   verfahrensstand:   Zeichenkette — freier Teilstatus (z. B. "Klageschrift", "Beweisaufnahme")
+#   quelle:            mahnschreiben | klageschrift-zugestellt | vorladung | behoerdliche-anfrage | interner-bericht | vorprozessuale-drohung
+#   korrespondenzanwalt:
+#     kanzlei:         Zeichenkette | null
+#     sachbearbeiter:  Zeichenkette | null
+#     email:           Zeichenkette | null     # für /gegenseite-status E-Mail-Entwurf
+#     mandat:          unterzeichnet | ausstehend | keines
+#   interessenkonflikte:
+#     status:          geprüft | ausstehend | nicht-geprüft | verzichtet
+#     methode:         rechtsabteilung | korrespondenzanwalt | systemprüfung | informell | sonstiges
+#     geprüft_von:     Zeichenkette | null
+#     prüfdatum:       JJJJ-MM-TT | null
+#     ausnahme:
+#       genehmigt_von: Zeichenkette | null
+#       datum:         JJJJ-MM-TT | null
+#       begründung:    Zeichenkette | null        # dauerhafter Eintrag; läuft nicht ab
+#   risiko:            kritisch | hoch | mittel | niedrig   (gemäß CLAUDE.md-Risikorahmen)
+#   wesentlichkeit:    zurückgestellt | offengelegt | beobachtet | keine
+#   streitwert:        Zeichenkette — z. B. "200.000–500.000 €" oder "unter 50.000 €"
+#   interne_verantwortliche:
+#     fachabteilung:   Zeichenkette | null
+#     hr_ansprechpartner:  Zeichenkette | null
+#     presse_kontakt:  Zeichenkette | null
+#   beweissicherung:
+#     angeordnet:      bool
+#     anordnungsdatum: JJJJ-MM-TT | null
+#     umfang:          Zeichenkette | null
+#     verwahrer:       [Zeichenkette]
+#     letzte_aktualisierung:  JJJJ-MM-TT | null
+#     naechste_prüfung:       JJJJ-MM-TT | null
+#     aufgehoben:             JJJJ-MM-TT | null
+#   verbundene_mandate:  [Zeichenkette] | null     # Liste verbundener Mandats-Kurznamen
+#   eroeffnet:         JJJJ-MM-TT
+#   naechste_frist:    JJJJ-MM-TT | null
+#   letzte_aktualisierung: JJJJ-MM-TT
+#   pfad:              Zeichenkette — "mandate/[kurzname]/"
+#
+# Geschlossene Mandate tragen zusätzlich:
+#   geschlossen:       JJJJ-MM-TT
+#   ergebnis:          vergleich | abweisung | urteil-fuer-mandant | urteil-gegen-mandant | ruecknahme | verbunden | sonstiges
+#   gesamtkosten:      Zeichenkette | Zahl
+# ──────────────────────────────────────────────────────────────────────────
+
+mandate: []

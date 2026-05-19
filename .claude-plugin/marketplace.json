@@ -1,0 +1,130 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "klotzkette-german-legal-skills",
+  "description": "Klotzkette German Legal Skills – deutsche Rechtsfähigkeiten für die anwaltliche Praxis. Skills, Agenten, Auslöser und Agentenrezepte für Arbeit, Vertrag, Gesellschaft, IP, Datenschutz, Prozess, Regulierung, KI-Governance, Insolvenzrecht und Steuerberatung. Mit verbindlicher BGH-Zitierweise und hohem Stellenwert von Kommentaren und Aufsätzen.",
+  "owner": {
+    "name": "Klotzkette"
+  },
+  "plugins": [
+    {
+      "name": "vertragsrecht",
+      "source": "./vertragsrecht",
+      "description": "Prüft NDA, AGB, SaaS-Verträge, Lieferanten- und Vertriebsverträge nach deutschem Recht (§§ 305 ff. BGB, HGB), trackt Verlängerungs- und Kündigungstermine, eskaliert nach internem Playbook und erstellt Business-Zusammenfassungen.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "datenschutzrecht",
+      "source": "./datenschutzrecht",
+      "description": "DSGVO/BDSG/TTDSG: PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15 DSGVO, Datenpannenmeldung Art. 33/34, Beschäftigtendatenschutz.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "produktrecht",
+      "source": "./produktrecht",
+      "description": "Produkt-Launches, Impressumspflicht (§§ 5, 6 DDG), Preisangabenverordnung, Marketing-Claims, UWG-Konformität, schnelle 'Ist das ein Problem?'-Bewertungen.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "gesellschaftsrecht",
+      "source": "./gesellschaftsrecht",
+      "description": "M&A-Due-Diligence (ohne Discovery, mit Q&A/Datenraum), Gesellschafterbeschlüsse, Closing Checklists, HRB/HRA-Anmeldungen, Compliance-Fristen.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "arbeitsrecht",
+      "source": "./arbeitsrecht",
+      "description": "Kündigung (KSchG-Klage, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, Anhörung Betriebsrat § 102 BetrVG, Statusfeststellung, Personalrichtlinien (BetrVG, AGG, ArbZG, MuSchG, BEEG).",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "regulatorisches-recht",
+      "source": "./regulatorisches-recht",
+      "description": "Aufsichtsrecht (KWG, ZAG, WpHG, GwG), EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds und Wochendigest.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "ki-governance",
+      "source": "./ki-governance",
+      "description": "EU-KI-VO + DSGVO: Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "prozessrecht",
+      "source": "./prozessrecht",
+      "description": "Zivil-, Straf-, Verwaltungs- und Arbeitsgerichtsprozess: Mandatsportfolio, Fristen, Mahnbescheid, einstweilige Verfügung + Schutzschrift, Zwangsvollstreckung, Verkehrsunfall, Schriftsatzentwürfe, Anhörungsrüge, Beweisermittlung ohne Discovery.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "jurastudium",
+      "source": "./jurastudium",
+      "description": "Sokratisches Drilling, Fallbearbeitung im Gutachtenstil, Examensvorbereitung (1. und 2. Staatsexamen), Klausurkorrektur, Lernplanung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "rechtsberatungsstelle",
+      "source": "./rechtsberatungsstelle",
+      "description": "Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "kanzlei-builder-hub",
+      "source": "./kanzlei-builder-hub",
+      "description": "Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Einsatz in der Kanzleiumgebung. Enthält zusätzlich den Skill 'playbook-aus-eigenen-daten', der aus Mandantenkorrespondenz und Aktenexporten ein wiederverwendbares Spielbuch (Playbook) ableitet — mit verbindlicher Pseudonymisierung nach DSGVO/BRAO.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "gewerblicher-rechtsschutz",
+      "source": "./gewerblicher-rechtsschutz",
+      "description": "DPMA-/EUIPO-Markenrecherche und Anmeldung, Freedom-to-Operate, Patentscreening, UWG-/Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechtsfristen.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "steuerberatung",
+      "source": "./steuerberatung",
+      "description": "Skills für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht), rollierende Liquiditätsvorschau 13/26/52 Wochen mit Ampel nach BGH BGHZ 163, 134 (10-%-Lücke, 3-Wochen-Horizont), Fortführungsprognose nach IDW S 6/S 11.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "insolvenzrecht",
+      "source": "./insolvenzrecht",
+      "description": "Insolvenz- und sanierungsrechtliche Skills: strukturierte Prüfung Zahlungsunfähigkeit (§ 17 InsO) anhand der BGH-Rechtsprechung (BGHZ 163, 134), zweistufige Überschuldungsprüfung (§ 19 InsO) mit Fortbestehensprognose nach IDW S 11, Antragspflicht Geschäftsleiter (§ 15a InsO) und Haftung Insolvenzverschleppung, Gläubigerantrag-Prüfung (§ 14 InsO), rollierende Liquiditätsvorschau 13 Wochen / 24 Monate.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "betreuungsrecht",
+      "source": "./betreuungsrecht",
+      "description": "Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB). Maßgeblich BGH-Rechtsprechung sowie Grüneberg/MünchKomm-Kommentarliteratur.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    }
+  ]
+}

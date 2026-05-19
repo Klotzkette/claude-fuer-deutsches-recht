@@ -1,0 +1,42 @@
+{
+  "mcpServers": {
+    "Solve Intelligence": {
+      "type": "http",
+      "url": "https://api.solveintelligence.com/mcp/",
+      "title": "Solve Intelligence",
+      "description": "Patentarbeitsabläufe – Patent- und Nichtpatentliteratur, Rechtstexte, SEP-Technikstandards, Stand der Technik und Anspruchsanalyse recherchieren."
+    },
+    "CourtListener": {
+      "type": "http",
+      "url": "https://mcp.courtlistener.com/",
+      "title": "CourtListener",
+      "description": "Rechtsprechungsrecherche – Urteile und Entscheidungen abrufen sowie Fundstellen prüfen; ergänzend zu Beck-Online, juris und ECLI-Suche für IP-Rechtsprechung nutzbar."
+    },
+    "Descrybe": {
+      "type": "http",
+      "url": "https://mcp.descrybe.com/mcp",
+      "title": "Descrybe",
+      "description": "Rechtsprimärquellenrecherche – Fälle nach Konzept oder Wortlaut suchen, aus Fundstellen abrufen, Autoritäten extrahieren, Behandlung prüfen, Zitate verifizieren."
+    },
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Nachrichten suchen, Kanäle lesen, Diskussionen im gesamten Arbeitsbereich finden."
+    },
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Dokumente in Google Drive suchen, lesen und abrufen."
+    }
+  },
+  "recommendedCategories": [
+    "ip-management",
+    "legal-research",
+    "case-law",
+    "documents",
+    "chat",
+    "email"
+  ]
+}

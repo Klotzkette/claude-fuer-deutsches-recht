@@ -1,0 +1,17 @@
+# Lücken-Tracker
+# Wird durch richtlinien-diff-uebergaben befüllt. Verfolgt offene regulatorische Lücken
+# bis zur Schließung oder Risikoakzeptanz.
+
+luecken: []
+
+# Beispiel:
+# - id: LUECKE-001
+#   anforderung: "Informationspflicht X muss an Stelle Y im Ablauf erfüllt werden"
+#   rechtsakt: "DSGVO Art. 13 Abs. 1 lit. c; DSK-Leitlinie vom 15.03.2025"
+#   betroffene_richtlinie: "Datenschutzerklärung v3.1"
+#   lueckentyp: "teilweise"
+#   verantwortlicher: "datenschutz-recht@kanzlei.de"
+#   eroeffnet: 2026-03-01
+#   faellig: 2026-06-01
+#   status: "offen"
+#   loesung: ""

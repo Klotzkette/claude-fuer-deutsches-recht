@@ -1,0 +1,42 @@
+{
+  "mcpServers": {
+    "Slack": {
+      "type": "http",
+      "url": "https://mcp.slack.com/mcp",
+      "title": "Slack",
+      "description": "Nachrichten suchen, Kanäle lesen, Diskussionen im gesamten Arbeitsbereich finden."
+    },
+    "Google Drive": {
+      "type": "http",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "title": "Google Drive",
+      "description": "Dokumente in Google Drive suchen, lesen und abrufen."
+    },
+    "CourtListener": {
+      "type": "http",
+      "url": "https://mcp.courtlistener.com/",
+      "title": "CourtListener",
+      "description": "Rechtsprechungsrecherche – Urteile und Entscheidungen abrufen sowie Fundstellen prüfen; ergänzend zu Beck-Online und juris nutzbar."
+    },
+    "Courtroom5": {
+      "type": "http",
+      "url": "https://mcp.courtroom5.com",
+      "title": "Courtroom5",
+      "description": "Verfahrensunterstützung für Rechtssuchende ohne Anwalt – Fallerfassung, Fristenberechnung nach ZPO/FamFG, prozedurale nächste Schritte im deutschen Zivilverfahren."
+    },
+    "Descrybe": {
+      "type": "http",
+      "url": "https://mcp.descrybe.com/mcp",
+      "title": "Descrybe",
+      "description": "Rechtsprimärquellenrecherche – Fälle nach Konzept oder Wortlaut suchen, aus Fundstellen abrufen, Autoritäten extrahieren, Behandlung prüfen, Zitate verifizieren."
+    }
+  },
+  "recommendedCategories": [
+    "case-management",
+    "legal-research",
+    "case-law",
+    "licensing-boards",
+    "documents",
+    "chat"
+  ]
+}

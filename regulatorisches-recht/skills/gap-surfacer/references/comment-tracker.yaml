@@ -1,0 +1,19 @@
+# Stellungnahmen-Tracker
+# Wird automatisch durch aufsichts-feed-waechter befüllt, wenn Referentenentwürfe erkannt werden.
+# Verwaltung über /regulatorisches-recht:stellungnahmen
+
+stellungnahmen:
+  - id: STN-001
+    rechtsakt: "[Bezeichnung des Referentenentwurfs + Bundesanzeiger- oder EUR-Lex-Fundstelle]"
+    behoerde: "[Bezeichnung der Behörde, z. B. BaFin, BNetzA, Bundeskartellamt, BMUV, BMJ]"
+    zusammenfassung: "[ein Satz — was dieser Rechtsetzungsvorschlag regeln soll]"
+    link: "[URL: Bundesanzeiger, EUR-Lex oder Behördenwebsite]"
+    stellungnahmefrist: "2026-05-15"
+    erkannt: "2026-03-20"
+    entscheidung: "offen"  # offen | einreichen | nicht-einreichen | eingereicht | verzichtet
+    verantwortlicher: "[Standard-Entscheidungsträger für Stellungnahmen aus CLAUDE.md]"
+    verantwortlicher_slack: "[Slack-Benutzer-ID oder Handle]"
+    benachrichtigt: false
+    begruendung: ""  # wird bei Entscheidung ausgefüllt
+    eingereicht_am: null  # ISO-Datum/-Uhrzeit, falls eingereicht
+    hinweise: ""

@@ -1,0 +1,18 @@
+{
+  "ausloeser": {
+    "user-prompt-submit": [
+      {
+        "match": "(?i)(jahresbericht|betreuungsbericht|§\\s*1863|berufsbetreuer|btog\\s+bericht)",
+        "load_skill": "skills/jahresbericht-betreuungsgericht"
+      },
+      {
+        "match": "(?i)(vermögensverzeichnis|anfangsvermögen|rechnungslegung|sperrvermerk|§\\s*1835|§\\s*1865)",
+        "load_skill": "skills/vermoegensverzeichnis-pruefung"
+      },
+      {
+        "match": "(?i)(genehmigung\\s+betreuungsgericht|§\\s*184[89]|§\\s*185[01]|§\\s*183[12]|freiheitsentziehend|heimvertrag|erbausschlagung|grundstücksverkauf\\s+betreuung)",
+        "load_skill": "skills/genehmigungspflicht-pruefung"
+      }
+    ]
+  }
+}
