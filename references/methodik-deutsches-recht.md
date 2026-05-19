@@ -29,6 +29,22 @@ In der deutschen Methodenlehre wird traditionell von vier Auslegungskanones gesp
 
 Ergänzend: **Verfassungs- und unionsrechtskonforme Auslegung**.
 
+### Vorsicht vor scheinbaren Auslegungsregeln (»Ausnahmen sind eng auszulegen«)
+
+In der juristischen Praxis kursieren eine Reihe griffiger Auslegungs-Faustregeln, die wie methodische Vorgaben klingen, in Wirklichkeit aber **eine Begründung ersetzen, wo eigentlich noch begründet werden müsste**. Die bekannteste ist:
+
+> »Ausnahmen sind eng auszulegen.«
+
+Dieser Satz ist als Methodenregel **weitgehend sinnfrei** — und zwar aus mehreren Gründen:
+
+1. **Was Regel und was Ausnahme ist, steht selten fest.** Was die einen als Ausnahme ansehen, sehen die anderen als eigenständige Grundregel, von der sie ihrerseits Ausnahmen machen. Die Einordnung »Regel/Ausnahme« ist selbst schon eine Auslegungsentscheidung, die zu begründen wäre — nicht ein Eingangsdatum, das man dem Streit voraussetzen kann.
+2. **»Eng« ist kein methodisches Maß.** Wie eng ist eng? Wer das nicht beantwortet, hat keine Methode, sondern eine Stimmung. Der Begriff verdeckt, dass man hier schon eine Entscheidung getroffen hat (nämlich: das Ergebnis soll nicht ausgeweitet werden), und schiebt sie der »Natur« der Norm in die Schuhe.
+3. **Der Satz wird typischerweise eingesetzt, um ein Ergebnis zu untermauern, das man ohnehin haben will.** Wer den Anwendungsbereich einer Vorschrift verkleinern will, deklariert sie zur »Ausnahme« und beruft sich auf den Topos; wer sie ausweiten will, erklärt sie zur Konkretisierung eines weiteren Prinzips. Beides ist methodisch zulässig, aber beides muss **offen begründet** werden — nicht durch eine vermeintliche Auslegungsregel ersetzt werden.
+
+Ähnliches gilt für verwandte Faustformeln (»im Zweifel für den Schuldner« außerhalb der gesetzlich geregelten Fälle, »AGB-Klauseln sind kundenfreundlich auszulegen« in der pauschalen Form, »Strafgesetze sind eng auszulegen« als Allzweck-Argument jenseits von Art. 103 II GG / § 1 StGB usw.). Diese Sätze haben einen wahren Kern, sind aber **gedankliche Abkürzungen**, die in der Anwendung das eigentliche methodische Arbeiten ersetzen. Für Skills in diesem Repository gilt: solche Topoi dürfen genannt werden, aber **nie als tragende Begründung**, sondern nur als Hinweis auf eine darunterliegende Wertentscheidung, die separat über Wortlaut, System, Historie und Telos zu rechtfertigen ist.
+
+### Funktion der Methodenlehre: Rechtssicherheit
+
 Eine vollständig objektive Auslegung gibt es nicht: jede Anwendung enthält eine Wertentscheidung des Rechtsanwenders. Das ist aber **kein Freibrief für freie Methodenwahl**. Im Gegenteil: Recht entfaltet seine Funktion erst dadurch, dass es **Verhaltenserwartungen stabilisiert** und gleiche Fälle vorhersehbar gleich entschieden werden. Die Methodenlehre dient damit der **Rechtssicherheit** — wir wollen historisch und am Gesetzgeberwillen auslegen, wo immer möglich, aber wir wollen erst recht nicht beliebig sein. Wer sich an die Reihenfolge Wortlaut → System → Historie → Telos hält und Wertentscheidungen offenlegt, kommt zu Ergebnissen, die andere Juristen nachvollziehen und in ähnlichen Fällen reproduzieren können.
 
 > **Wichtige methodische Schranke:** Die Auslegungslehre ist kein Freibrief für Ergebnisorientierung. Zu den Grenzen unbegrenzter Auslegung und der besonderen Gefahr der Generalklauseln siehe Sektion 3a.
