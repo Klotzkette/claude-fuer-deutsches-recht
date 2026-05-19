@@ -119,6 +119,8 @@ function checkMarketplace() {
       for (const asset of ['assets/excel/Liquiditaetsplan-Wochenbasis.xlsx', 'assets/padlet/liquiditaets-padlet.html', 'assets/markdown/liquiditaets-artefakt-vorlage.md']) {
         if (!exists(path.join(pluginRoot, asset))) errors.push(`${plugin.name}: missing standalone asset ${asset}`);
       }
+      const generator = 'skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py';
+      if (!exists(path.join(pluginRoot, generator))) errors.push(`${plugin.name}: missing standalone generator ${generator}`);
       for (const pdf of ['BGH_II_ZR_88-16_vom_2017-12-19.pdf', 'BGH_II_ZR_112-21_vom_2022-06-28.pdf', 'BGH_IX_ZR_48-21_vom_2022-04-28.pdf', 'BGH_IX_ZR_229-22_vom_2025-01-23.pdf', 'BGH_II_ZR_139-23_vom_2025-03-11.pdf']) {
         if (!exists(path.join(pluginRoot, 'references', 'rechtsprechung', pdf))) errors.push(`${plugin.name}: missing BGH PDF references/rechtsprechung/${pdf}`);
       }
