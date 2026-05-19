@@ -3,7 +3,7 @@ name: Release Plugin ZIPs
 # Baut bei jedem Tag oder bei manueller Ausloesung pro Plugin eine ZIP-Datei
 # und haengt sie an den GitHub Release. Damit ergeben sich stabile Download-URLs:
 #   https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<plugin>.zip
-# Direkt einzeln in Claude Code (Customize Plugins) installierbar.
+# Direkt einzeln in Claude Code/Cowork (Customize Plugins) installierbar.
 
 on:
   push:
@@ -46,7 +46,7 @@ jobs:
           mkdir -p dist
           for plugin in ${{ steps.plugins.outputs.names }}; do
             echo "Baue $plugin.zip"
-            (cd "$plugin" && zip -rq "../dist/${plugin}.zip" . -x '*.DS_Store' '__pycache__/*' '*.pyc' 'CLAUDE.md')
+            zip -rq "dist/${plugin}.zip" "$plugin" -x '*.DS_Store' '*/__pycache__/*' '*.pyc' "${plugin}/CLAUDE.md"
             ls -la "dist/${plugin}.zip"
           done
           # Manifest fuer Marketplace-Komfort
