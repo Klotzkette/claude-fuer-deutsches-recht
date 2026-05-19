@@ -1,4 +1,4 @@
-# Plugin `liquiditaetsplanung` — Agenten-Konfiguration
+# Plugin Liquiditätsplanung (`liquiditaetsplanung`) — Agenten-Konfiguration
 
 Dieses Plugin ist ein **Bündel-Plugin**: Es definiert schlanke Routing-Skills und verweist auf die Liquiditätsplanungs-Skills der Plugins `steuerberater-werkzeuge` und `insolvenzrecht`. Die Dependencies sind in `.claude-plugin/plugin.json` deklariert.
 

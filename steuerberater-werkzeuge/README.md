@@ -8,15 +8,15 @@ Steuerberater-Werkzeugbox für die Krisenfrüherkennung nach deutschem Recht (St
 |---|---|
 | `bwa-sus-bilanz-pruefung` | Automatisierte Prüfung von BWA, SuSa und Bilanz auf Krisensignale; Auslösung der **Hinweispflicht des Steuerberaters** nach § 102 StaRUG (BGH-Vorläufer: IX ZR 285/14, BGHZ 213, 374) |
 
-Die eigentliche **rollierende Liquiditätsplanung** (3-Wochen-Test, 13/26/52-Wochen-Plan, insolvenzrechtliche Sicht) ist in das eigene Plugin [`liquiditaetsplanung`](../liquiditaetsplanung/) ausgelagert, damit sie sowohl von Steuerberatern als auch von Sanierungsberatern und Insolvenzverwaltern direkt genutzt werden kann.
+Die eigentliche **rollierende Liquiditätsplanung** (3-Wochen-Test, 13/26/52-Wochen-Plan, insolvenzrechtliche Sicht) ist in das eigene Plugin [Liquiditätsplanung](../liquiditaetsplanung/) ausgelagert, damit sie sowohl von Steuerberatern als auch von Sanierungsberatern und Insolvenzverwaltern direkt genutzt werden kann.
 
 ## Abgrenzung zu den Schwester-Plugins
 
 - `steuerberater-werkzeuge` (dieses Plugin) ist **krisenfrüh** ausgerichtet: Es erkennt Warnsignale in Finanzkennzahlen und dokumentiert die Hinweispflicht nach § 102 StaRUG.
-- `liquiditaetsplanung` liefert die **rollierenden Liquiditätsvorschauen** (3 Wochen / 13 / 26 / 52 Wochen) mit Ampel nach BGH BGHZ 163, 134 und Fortführungsprognose nach IDW S 6/S 11.
+- Liquiditätsplanung (`liquiditaetsplanung`) liefert die **rollierenden Liquiditätsvorschauen** (3 Wochen / 13 / 26 / 52 Wochen) mit Ampel nach BGH BGHZ 163, 134 und Fortführungsprognose nach IDW S 6/S 11.
 - `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Subsumtion für Zahlungsunfähigkeit (§ 17 InsO), Überschuldung (§ 19 InsO), Antragspflicht (§ 15a InsO).
 
-**Übergabe:** Sobald der `bwa-sus-bilanz-pruefung`-Skill eine unmittelbare Insolvenzreife indiziert oder der `liquiditaetsvorschau-3wochen`-Skill aus `liquiditaetsplanung` ein 🔴-Flag erzeugt, ist zum Plugin `insolvenzrecht` zu wechseln oder ein Insolvenzanwalt einzuschalten.
+**Übergabe:** Sobald der `bwa-sus-bilanz-pruefung`-Skill eine unmittelbare Insolvenzreife indiziert oder der `liquiditaetsvorschau-3wochen`-Skill aus Liquiditätsplanung (`liquiditaetsplanung`) ein 🔴-Flag erzeugt, ist zum Plugin `insolvenzrecht` zu wechseln oder ein Insolvenzanwalt einzuschalten.
 
 ## Rechtlicher Rahmen
 

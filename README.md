@@ -62,8 +62,8 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono-Beratungsstellen, Mandantenakte, Mandantenbrief |
 | [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht, KWG, GwG, EnWG, TKG, Inkasso/RDG, UStVA, DORA-IKT-Vertragsprüfung |
 | [`insolvenzrecht`](./insolvenzrecht) | Zahlungsunfähigkeit § 17 InsO (BGHZ 163, 134), zweistufige Überschuldungsprüfung § 19 InsO mit Fortbestehensprognose (IDW S 11), Antragspflicht § 15a InsO und Haftung wegen Insolvenzverschleppung, Gläubigerantrag § 14 InsO, gerichtsfähige Liquiditätsvorschau. |
-| [`liquiditaetsplanung`](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
-| [`steuerberater-werkzeuge`](./steuerberater-werkzeuge) | Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Die rollierende Liquiditätsplanung steht im Schwester-Plugin `liquiditaetsplanung`. |
+| [Liquiditätsplanung](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
+| [`steuerberater-werkzeuge`](./steuerberater-werkzeuge) | Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Die rollierende Liquiditätsplanung steht im Schwester-Plugin Liquiditätsplanung (`liquiditaetsplanung`). |
 | [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking |
 | [`betreuungsrecht`](./betreuungsrecht) | Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB). |
 
@@ -89,7 +89,7 @@ Einfachster Weg in Claude Desktop oder der Cowork-Oberfläche:
 1. Claude Desktop öffnen und in der linken Seitenleiste auf **Customize** klicken.
 2. Auf **Skills** wechseln und neben „Personal plugins" das **+**-Symbol anklicken.
 3. Im Dialogfeld den Pfad des GitHub-Repositorys im Format `owner/repo` eingeben: **`Klotzkette/claude-fuer-deutsches-recht`**.
-4. Auf **Sync** klicken. Cowork liest daraufhin den Marketplace und listet alle Plugins (z. B. `arbeitsrecht`, `vertragsrecht`, `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` ...).
+4. Auf **Sync** klicken. Cowork liest daraufhin den Marketplace und listet alle Plugins (z. B. `arbeitsrecht`, `vertragsrecht`, Liquiditätsplanung (`liquiditaetsplanung`), `insolvenzrecht`, `steuerberater-werkzeuge` ...).
 5. Beim gewünschten Plugin auf **Install** klicken. Nach erfolgreicher Installation wechselt der Button zu **Manage**.
 6. Eine neue Konversation starten — die Skills stehen ab sofort zur Verfügung. Tipp: Mit `/skill` oder freier Eingabe (z. B. „Erstelle eine 3-Wochen-Liquiditätsvorschau") wird der passende Skill automatisch erkannt.
 

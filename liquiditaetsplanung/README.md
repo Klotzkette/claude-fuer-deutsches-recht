@@ -1,8 +1,8 @@
-# Plugin `liquiditaetsplanung`
+# Plugin Liquiditätsplanung (`liquiditaetsplanung`)
 
 Rollierende Liquiditätsplanung und Krisenfrüherkennung nach deutschem Recht — gebündelt für Steuerberater, Sanierungsberater, GmbH-Geschäftsleitung und Insolvenzverwalter. Maßstab ist die BGH-Rechtsprechung zu § 17 InsO (BGHZ 163, 134 – 10-%-Lücke, 3-Wochen-Horizont) und die berufsständischen Verlautbarungen IDW S 6 (Sanierungskonzepte) und IDW S 11 (Insolvenzeröffnungsgründe).
 
-> **Hinweis:** Dieses Plugin enthält schlanke **Routing-Skills** und deklariert die Plugins [`steuerberater-werkzeuge`](../steuerberater-werkzeuge/) und [`insolvenzrecht`](../insolvenzrecht/) als Abhängigkeiten. Die eigentliche Fachlogik bleibt in den Quell-Plugins; `liquiditaetsplanung` bietet den einheitlichen Einstieg.
+> **Hinweis:** Dieses Plugin enthält schlanke **Routing-Skills** und deklariert die Plugins [`steuerberater-werkzeuge`](../steuerberater-werkzeuge/) und [`insolvenzrecht`](../insolvenzrecht/) als Abhängigkeiten. Die eigentliche Fachlogik bleibt in den Quell-Plugins; Liquiditätsplanung bietet den einheitlichen Einstieg.
 
 ## Enthaltene Skills (Bündel)
 
