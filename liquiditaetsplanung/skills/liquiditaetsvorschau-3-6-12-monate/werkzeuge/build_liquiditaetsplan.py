@@ -81,7 +81,7 @@ except ImportError:
 # ----------------------------------------------------------------------------
 
 def load_input(path: Path) -> dict[str, Any]:
-    text = path.read_text(encoding="utf-8")
+    text = path.read_text(encoding="utf-8-sig")
     if path.suffix.lower() in {".yaml", ".yml"}:
         if yaml is None:
             return load_simple_yaml(text, path)
