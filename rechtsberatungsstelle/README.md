@@ -45,7 +45,7 @@ Dieses Plugin senkt die Zeitkosten für alles **rund um die Rechtsarbeit**, dami
 
 ```
 /rechtsberatungsstelle:kaltstart-interview   # Anleiter: Beratungsstelle konfigurieren
-/rechtsberatungsstelle:einarbeitung                   # Studierender: Onboarding zum Semesterbeginn
+/rechtsberatungsstelle:einarbeitung                   # Studierender: Einarbeitung zum Semesterbeginn
 /rechtsberatungsstelle:mandant-aufnahme          # Neues Mandat aufnehmen
 /rechtsberatungsstelle:memo                   # Gutachtenstil-Memo erstellen
 /rechtsberatungsstelle:entwurf                  # Schriftsatz entwerfen
@@ -112,7 +112,7 @@ Anerkannte Beratungsträger (AWO, Caritas, Diakonie, DRK, Paritätischer) arbeit
 | `formular-erzeugung` | Formularerstellung (PKH, BerHG, KSchG) | §§ 114 ff. ZPO, BerHG |
 | `memo` | Memo im Gutachtenstil | – |
 | `einfache-sprache-briefe` | Einfache Sprache | BORA |
-| `einarbeitung` | Onboarding Studierende | § 6 II Nr. 2 RDG |
+| `einarbeitung` | Einarbeitung Studierende | § 6 II Nr. 2 RDG |
 | `recherche-start` | Rechercheeinstieg | juris, Beck-Online, gesetze-im-internet.de |
 | `semester-uebergabe` | Semesterübergabe | – |
 | `status` | Statusbericht | – |

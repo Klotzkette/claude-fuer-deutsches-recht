@@ -1,16 +1,16 @@
 ---
 name: einarbeitung
 description: >
-  Semester-Onboarding für neue studentische Berater — Einführung in die
+  Semestereinarbeitung für neue studentische Berater — Einführung in die
   Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und
   Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor
   hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer
-  studentischer Berater „Onboarding starten", „ich bin neu in der Klinik",
+  studentischer Berater „Einarbeitung starten", „ich bin neu in der Klinik",
   „Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für
   die einseitige Referenzkarte.
 language: de
 triggers:
-  - "Onboarding starten"
+  - "Einarbeitung starten"
   - "ich bin neu in der Klinik"
   - "Einführung Rechtsberatungsstelle"
   - "RDG Schulung"
@@ -21,7 +21,7 @@ triggers:
   - "was darf ich als Student"
 ---
 
-# Einarbeitung: Semester-Onboarding
+# Einarbeitung: Semestereinarbeitung
 
 ## Zweck
 
@@ -39,7 +39,7 @@ Falls die Konfigurationsdatei fehlt oder noch Platzhalter enthält: „Die Berat
 
 ## Rechtlicher Rahmen
 
-### Kernvorschriften für das Onboarding
+### Kernvorschriften für die Einarbeitung
 
 - **§ 6 Abs. 1 RDG** — Unentgeltliche Rechtsdienstleistung: Studierende dürfen im Rahmen der Rechtsberatungsstelle Rechtsberatung erbringen, soweit sie unentgeltlich erfolgt und unter Aufsicht eines Rechtsanwalts/einer Rechtsanwältin steht.
 - **§ 6 Abs. 2 RDG** — Aufsichtspflicht des begleitenden Rechtsanwalts/der begleitenden Rechtsanwältin: Die Aufsichtsperson muss zur Rechtsanwaltschaft zugelassen sein; die Aufsicht muss inhaltlich effektiv sein (kein Formalia-Supervisor).
@@ -152,20 +152,20 @@ Druckfähig. Eine Seite. Am ersten Tag aushändigen.
 
 ## Risiken und typische Fehler
 
-- **Onboarding als Formalität behandeln:** Die Übungsaufgaben sind der Kern. Studierende, die sie überspringen, gehen mit falscher Sicherheit ins erste echte Mandat.
+- **Einarbeitung als Formalität behandeln:** Die Übungsaufgaben sind der Kern. Studierende, die sie überspringen, gehen mit falscher Sicherheit ins erste echte Mandat.
 - **RDG-Grenzen nicht verinnerlicht:** Studierende müssen wissen, dass sie nur unter Aufsicht und unentgeltlich tätig sind. Kein eigenständiges Handeln ohne Supervisoren-Rückkopplung.
 - **Mandatsgeheimnis vergessen:** Bereits in der Übungsphase: Fallhypothetika enthalten keine echten Mandantendaten. In der echten Arbeit: strikte Vertraulichkeit nach § 203 StGB.
-- **Supervisor nicht eingerichtet:** Wenn die CLAUDE.md Platzhalter enthält, ist das Onboarding zu stoppen und dem Supervisor zur Einrichtung zu übergeben.
+- **Supervisor nicht eingerichtet:** Wenn die CLAUDE.md Platzhalter enthält, ist die Einarbeitung zu stoppen und dem Supervisor zur Einrichtung zu übergeben.
 
 ## Quellenpflicht
 
-Das Onboarding selbst enthält keine zitierpflichtigen Belege — die RDG-Normen und Grundsätze werden im Überblick vermittelt. Sobald echte Mandate bearbeitet werden, gilt die Quellenpflicht aus den jeweiligen Skills (`/memo`, `/entwurf`, `/recherche-start`).
+Die Einarbeitung selbst enthält keine zitierpflichtigen Belege — die RDG-Normen und Grundsätze werden im Überblick vermittelt. Sobald echte Mandate bearbeitet werden, gilt die Quellenpflicht aus den jeweiligen Skills (`/memo`, `/entwurf`, `/recherche-start`).
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine juristische Ausbildung. Die inhaltliche Einführung in das Rechtsgebiet übernimmt der Supervisor, nicht dieses Tool.
 
 ## Ausgabeformat
 
-Das Onboarding läuft interaktiv — keine einmalige Ausgabe, sondern ein geführtes Gespräch in vier Teilen (Klinik-Kontext, Befehle, Übungsaufgaben, Verifikationsgewohnheiten). Jeder Teil schließt mit einer Verständnisfrage oder einer Übung, bevor zum nächsten Teil übergegangen wird.
+Die Einarbeitung läuft interaktiv — keine einmalige Ausgabe, sondern ein geführtes Gespräch in vier Teilen (Klinik-Kontext, Befehle, Übungsaufgaben, Verifikationsgewohnheiten). Jeder Teil schließt mit einer Verständnisfrage oder einer Übung, bevor zum nächsten Teil übergegangen wird.
 
 `/einarbeitung --karte` erzeugt eine druckbare, einseitige Referenzkarte (Markdown, ggf. in PDF exportierbar) mit den wesentlichen Befehlen, Verifikationsgewohnheiten und dem RDG-Kurzhinweis.
 

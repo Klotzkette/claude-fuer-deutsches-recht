@@ -25,7 +25,7 @@ triggers:
 
 ## Zweck
 
-Jedes Semester verliert die Rechtsberatungsstelle ihre gesamte studentische Belegschaft und baut sie neu auf. `/einarbeitung` löst die eine Hälfte des Problems — Onboarding der neuen Kohorte. Diese Skill löst die andere Hälfte: Sie offboardet die abgehende Kohorte, indem sie Übergabenotizen erstellt, die alle für den Fortgang notwendigen Informationen zu jedem laufenden Mandat enthalten.
+Jedes Semester verliert die Rechtsberatungsstelle ihre gesamte studentische Belegschaft und baut sie neu auf. `/einarbeitung` löst die eine Hälfte des Problems — Einarbeitung der neuen Kohorte. Diese Skill löst die andere Hälfte: Sie verabschiedet die abgehende Kohorte, indem sie Übergabenotizen erstellt, die alle für den Fortgang notwendigen Informationen zu jedem laufenden Mandat enthalten.
 
 Ohne diese Übergabe verlässt das Fallwissen die Beratungsstelle mit den Studierenden. Die neue Kohorte beginnt mit der Fallakte und der Aktennotiz — das reicht nie. Zwei Wochen gehen für die Wiedereinarbeitung verloren; der Mandant erlebt dies als Rückschritt: Anrufe bleiben unbeantwortet, bereits beantwortete Fragen werden erneut gestellt.
 
@@ -182,7 +182,7 @@ Nach allen fallbezogenen Notizen, `handoffs/[semester]/_zusammenfassung.md` erst
 
 - [Falls in diesem Semester besondere Leistungsprobleme bei Studierenden aufgefallen sind — für engere Begleitung im Folgesemester notieren]
 - [Falls ausscheidende Studierende bereit sind, für den Nachfolger/die Nachfolgerin zur Verfügung zu stehen — z. B. Absolvent/-in, der/die die Übergabe begleiten möchte]
-- [Muster über Fälle hinweg — z. B. „Drei von sechs Fällen haben Fristen in den ersten 14 Tagen des neuen Semesters; ggf. Onboarding-Übungen auf diese Rechtsgebiete fokussieren"]
+- [Muster über Fälle hinweg — z. B. „Drei von sechs Fällen haben Fristen in den ersten 14 Tagen des neuen Semesters; ggf. Einarbeitungs-Übungen auf diese Rechtsgebiete fokussieren"]
 ```
 
 ### Schritt 4: Supervisoren-Prüfung
