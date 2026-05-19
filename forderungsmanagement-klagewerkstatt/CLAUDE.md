@@ -30,6 +30,6 @@ Verbindliche Regeln für jeden Lauf in diesem Plugin. Gilt für beide Skills.
 
 ## Übergabe
 
-- Bei drohender Zahlungsunfähigkeit der Beklagten an `liquiditaetsplanung`.
+- Bei drohender Zahlungsunfähigkeit der Beklagten an Liquiditätsplanung (`liquiditaetsplanung`).
 - Bei einstweiligem Rechtsschutz / Mahnverfahren an `prozessrecht`.
 - Wiederverwendung beim nächsten Mal über den Laufzeit-Skill `klage-aus-eigenem-skill`.

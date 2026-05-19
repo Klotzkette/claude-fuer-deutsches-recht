@@ -84,11 +84,175 @@ def load_input(path: Path) -> dict[str, Any]:
     text = path.read_text(encoding="utf-8")
     if path.suffix.lower() in {".yaml", ".yml"}:
         if yaml is None:
-            raise SystemExit("PyYAML nicht installiert – bitte `pip install pyyaml`.")
-        return yaml.safe_load(text)
+            return load_simple_yaml(text, path)
+        return yaml.safe_load(text) or {}
     if path.suffix.lower() == ".json":
         return json.loads(text)
     raise SystemExit(f"Unbekanntes Eingabeformat: {path.suffix}")
+
+
+def load_simple_yaml(text: str, path: Path) -> dict[str, Any]:
+    """Kleiner YAML-Fallback für die mitgelieferten Akten, falls PyYAML fehlt."""
+    root: dict[Any, Any] = {}
+    stack: list[tuple[int, dict[Any, Any] | list[Any]]] = [(-1, root)]
+    lines: list[tuple[int, int, str]] = []
+
+    for lineno, raw_line in enumerate(text.splitlines(), start=1):
+        if "\t" in raw_line[: len(raw_line) - len(raw_line.lstrip())]:
+            raise SystemExit(f"{path}:{lineno}: Tabs in Einrückungen werden nicht unterstützt.")
+
+        line = strip_yaml_comment(raw_line).rstrip()
+        if not line.strip():
+            continue
+
+        indent = len(line) - len(line.lstrip(" "))
+        content = line[indent:]
+        lines.append((lineno, indent, content))
+
+    for index, (lineno, indent, content) in enumerate(lines):
+        while indent <= stack[-1][0]:
+            stack.pop()
+        parent = stack[-1][1]
+
+        if content.startswith("- "):
+            if not isinstance(parent, list):
+                raise SystemExit(f"{path}:{lineno}: YAML-Liste ohne Listenkontext.")
+
+            item_text = content[2:].strip()
+            split_at = find_yaml_key_separator(item_text)
+            if item_text and split_at is not None:
+                item: dict[Any, Any] = {}
+                parent.append(item)
+                stack.append((indent, item))
+
+                key_text = item_text[:split_at].strip()
+                value_text = item_text[split_at + 1:].strip()
+                if not key_text:
+                    raise SystemExit(f"{path}:{lineno}: Leerer YAML-Schlüssel.")
+                key = parse_yaml_scalar(key_text)
+                if value_text == "":
+                    child: dict[Any, Any] | list[Any]
+                    child = [] if next_yaml_child_is_list(lines, index, indent) else {}
+                    item[key] = child
+                    stack.append((next_yaml_child_stack_indent(lines, index, indent), child))
+                else:
+                    item[key] = parse_yaml_scalar(value_text)
+            elif item_text:
+                parent.append(parse_yaml_scalar(item_text))
+            else:
+                item = {}
+                parent.append(item)
+                stack.append((next_yaml_child_stack_indent(lines, index, indent), item))
+            continue
+
+        if not isinstance(parent, dict):
+            raise SystemExit(f"{path}:{lineno}: YAML-Schlüssel ohne Mapping-Kontext.")
+
+        split_at = find_yaml_key_separator(content)
+        if split_at is None:
+            raise SystemExit(f"{path}:{lineno}: YAML-Zeile nicht verstanden: {content!r}")
+
+        key_text = content[:split_at].strip()
+        value_text = content[split_at + 1:].strip()
+        if not key_text:
+            raise SystemExit(f"{path}:{lineno}: Leerer YAML-Schlüssel.")
+
+        key = parse_yaml_scalar(key_text)
+
+        if value_text == "":
+            child: dict[Any, Any] | list[Any]
+            child = [] if next_yaml_child_is_list(lines, index, indent) else {}
+            parent[key] = child
+            stack.append((next_yaml_child_stack_indent(lines, index, indent), child))
+        else:
+            parent[key] = parse_yaml_scalar(value_text)
+
+    return root
+
+
+def next_yaml_child_is_list(lines: list[tuple[int, int, str]], index: int, indent: int) -> bool:
+    for _, next_indent, content in lines[index + 1:]:
+        if next_indent <= indent:
+            return False
+        if next_indent > indent:
+            return content.startswith("- ")
+    return False
+
+
+def next_yaml_child_stack_indent(lines: list[tuple[int, int, str]], index: int, indent: int) -> int:
+    for _, next_indent, _ in lines[index + 1:]:
+        if next_indent > indent:
+            return next_indent - 1
+    return indent
+
+
+def strip_yaml_comment(line: str) -> str:
+    quote: str | None = None
+    escaped = False
+    for i, ch in enumerate(line):
+        if quote == '"':
+            if escaped:
+                escaped = False
+            elif ch == "\\":
+                escaped = True
+            elif ch == quote:
+                quote = None
+        elif quote == "'":
+            if ch == quote:
+                quote = None
+        else:
+            if ch in {"'", '"'}:
+                quote = ch
+            elif ch == "#":
+                return line[:i]
+    return line
+
+
+def find_yaml_key_separator(content: str) -> int | None:
+    quote: str | None = None
+    escaped = False
+    for i, ch in enumerate(content):
+        if quote == '"':
+            if escaped:
+                escaped = False
+            elif ch == "\\":
+                escaped = True
+            elif ch == quote:
+                quote = None
+        elif quote == "'":
+            if ch == quote:
+                quote = None
+        else:
+            if ch in {"'", '"'}:
+                quote = ch
+            elif ch == ":":
+                return i
+    return None
+
+
+def parse_yaml_scalar(value: str) -> Any:
+    if value.startswith('"') and value.endswith('"'):
+        return json.loads(value)
+    if value.startswith("'") and value.endswith("'"):
+        return value[1:-1].replace("''", "'")
+
+    lower = value.lower()
+    if lower in {"null", "~"}:
+        return None
+    if lower == "true":
+        return True
+    if lower == "false":
+        return False
+
+    normalized = value.replace("_", "")
+    try:
+        return int(normalized)
+    except ValueError:
+        pass
+    try:
+        return float(normalized)
+    except ValueError:
+        return value
 
 
 # ----------------------------------------------------------------------------

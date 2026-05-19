@@ -8,7 +8,7 @@
 
 | Plugin | Direkt-Download |
 | --- | --- |
-| **liquiditaetsplanung** (dieses Plugin) | [liquiditaetsplanung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
+| **Liquiditätsplanung** (`liquiditaetsplanung`, dieses Plugin) | [liquiditaetsplanung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
 | insolvenzrecht | [insolvenzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
 | steuerberater-werkzeuge | [steuerberater-werkzeuge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerberater-werkzeuge.zip) |
 

@@ -25,7 +25,7 @@ when_to_use: |
 
 ## Powerplugin-Hinweis
 
-**Die fachlich aktualisierte und autarke Version dieses Skills lebt im Plugin `liquiditaetsplanung`** (Power-Plugin Liquiditätsvorschau) — mit dem strikten BGH-Schema (Passiva II zwingend, BGHZ 217, 129; 10-%-Schwelle BGHZ 163, 134; Bugwellenrspr. BGH II ZR 112/21; titulierte Forderungen BGH IX ZR 229/22; objektive Beurteilung BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt und Banking-Wahl. PDFs liegen im Plugin unter `references/rechtsprechung/`. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben oder dessen Belege beim Erstellen der gerichtsfesten Liquiditätsbilanz beiziehen.
+**Die fachlich aktualisierte und autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit dem strikten BGH-Schema (Passiva II zwingend, BGHZ 217, 129; 10-%-Schwelle BGHZ 163, 134; Bugwellenrspr. BGH II ZR 112/21; titulierte Forderungen BGH IX ZR 229/22; objektive Beurteilung BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt und Banking-Wahl. PDFs liegen im Plugin unter `references/rechtsprechung/`. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben oder dessen Belege beim Erstellen der gerichtsfesten Liquiditätsbilanz beiziehen.
 
 ## Zweck
 

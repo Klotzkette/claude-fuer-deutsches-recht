@@ -12,7 +12,7 @@
 # so their JSON is schema-checked before the orchestrator consumes it.
 #
 # Usage: scripts/agentenrezept-ausliefern.sh <slug>
-#   e.g. scripts/agentenrezept-ausliefern.sh reg-monitor
+#   e.g. scripts/agentenrezept-ausliefern.sh aufsichts-monitor
 
 set -euo pipefail
 

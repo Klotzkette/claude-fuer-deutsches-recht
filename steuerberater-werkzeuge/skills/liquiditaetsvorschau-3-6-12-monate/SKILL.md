@@ -23,7 +23,7 @@ when_to_use: |
 
 ## Powerplugin-Hinweis
 
-**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin `liquiditaetsplanung`** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, Bugwellenrspr. (BGH II ZR 112/21), 10-%-Schwelle (BGH IX ZR 48/21), titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt, Banking-Wahl und Memo-nur-auf-Anfrage. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben.
+**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, Bugwellenrspr. (BGH II ZR 112/21), 10-%-Schwelle (BGH IX ZR 48/21), titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt, Banking-Wahl und Memo-nur-auf-Anfrage. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben.
 
 Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten und am Ende die Hinweispflicht nach § 102 StaRUG dokumentieren.
 

@@ -1,4 +1,4 @@
-# Plugin liquiditaetsplanung – Modellhinweise
+# Plugin Liquiditätsplanung (`liquiditaetsplanung`) – Modellhinweise
 
 Dieses Plugin ist **autark**. Es funktioniert als **eigenständiges Power-Plugin Liquiditätsvorschau**. Wenn `insolvenzrecht` und/oder `steuerberater-werkzeuge` ebenfalls installiert sind, werden Übergaben angeboten — sie sind aber keine Voraussetzung.
 

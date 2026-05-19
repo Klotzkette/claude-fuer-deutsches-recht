@@ -212,7 +212,7 @@ Felder automatisch belegen.
 
 ## Übergabe
 
-- Bei drohender Zahlungsunfähigkeit der Beklagten an `liquiditaetsplanung`.
+- Bei drohender Zahlungsunfähigkeit der Beklagten an Liquiditätsplanung (`liquiditaetsplanung`).
 - Bei einstweiligem Rechtsschutz / Mahnverfahren an `prozessrecht`.
 - Wenn die Hausvorlage veraltet wirkt, zurück an den Schwester-Skill
   `klagevorlage-aus-eigenen-mustern` im Plugin `forderungsmanagement-klagewerkstatt`
