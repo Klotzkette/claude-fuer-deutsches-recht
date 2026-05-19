@@ -1,6 +1,6 @@
-# Klotzkette German Legal Skills
+# Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 
-> **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Auslöser und Agentenrezepte als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **BGH-Zitierweise** und am hohen Stellenwert von **Kommentaren und Aufsätzen** im civil law. Keine Fachgutachten – jede Nutzerin und jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
+> **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis** und am hohen Stellenwert von **Kommentaren und Aufsätzen**. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jede Nutzerin und jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
 
 > ⚠️ **WICHTIGER HINWEIS**
 >
