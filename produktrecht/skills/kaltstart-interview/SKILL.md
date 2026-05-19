@@ -3,7 +3,7 @@ name: kaltstart-interview
 description: >
   Cold-Start-Interview für das Produktrecht-Plugin – verbindet sich mit dem
   Launch-Tracker, liest vergangene Reviews, lernt Ihre Risikokalibrierung.
-  Verwenden bei Erstinstallation, beim Onboarding von Produktjuristen oder wenn
+  Verwenden bei Erstinstallation, bei der Einarbeitung von Produktjuristen oder wenn
   die Plugin-Konfiguration noch Platzhalter enthält. Mit --redo für erneutes
   Interview, mit --check-integrations nur für Konnektoren-Prüfung.
 language: de

@@ -27,7 +27,7 @@ Ergebnis ist eine tabellarische Lückenanalyse mit:
 - konkretem Verbesserungsvorschlag inkl. Klausel-Entwurf,
 - Kritikalitäts-Score (1 = niedrig … 5 = "kritisch oder wichtig" i. S. v. Art. 28 III DORA, § 28 BaFin-Auslegungshilfe).
 
-Anwendungsfälle: Onboarding eines IKT-Dienstleisters; Re-Papering bestehender Cloud-/SaaS-/Outsourcing-Verträge zum Geltungsbeginn 17. Januar 2025; ad-hoc-Prüfung im Rahmen einer BaFin-Sonderprüfung nach § 44 KWG / § 306 VAG.
+Anwendungsfälle: Vertragsanbindung eines neuen IKT-Dienstleisters; Re-Papering bestehender Cloud-/SaaS-/Outsourcing-Verträge zum Geltungsbeginn 17. Januar 2025; ad-hoc-Prüfung im Rahmen einer BaFin-Sonderprüfung nach § 44 KWG / § 306 VAG.
 
 ## Eingaben
 
