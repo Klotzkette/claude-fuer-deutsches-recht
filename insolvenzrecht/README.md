@@ -12,11 +12,10 @@ Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, C
 | `antragspflicht-15a-inso` | Höchstfrist nach § 15a InsO, Haftung bei Insolvenzverschleppung, Schutz Geschäftsführer/Vorstand |
 | `glaeubigerantrag-pruefung` | Prüfung Zulässigkeit/Begründetheit eines Gläubigerantrags (§ 14 InsO), Glaubhaftmachung Forderung + Eröffnungsgrund |
 
-## Abgrenzung zum Steuerberatung-Plugin
+## Abgrenzung zu den Schwester-Plugins
 
-Das Plugin `steuerberatung` enthält:
-- `bwa-sus-bilanz-pruefung` — Prüfung BWA/SuSa/Bilanz auf Krisensignale, **Hinweispflicht des Steuerberaters** nach § 102 StaRUG (BGH-Vorläufer IX ZR 285/14)
-- `liquiditaetsvorschau-3-6-12-monate` — Steuerberater-Sicht auf Liquidität, Fortführungsprognose IDW S 6, dauerhafte Lebensfähigkeit
+- Das Plugin [`steuerberater-werkzeuge`](../steuerberater-werkzeuge/) enthält `bwa-sus-bilanz-pruefung` — Prüfung BWA/SuSa/Bilanz auf Krisensignale, **Hinweispflicht des Steuerberaters** nach § 102 StaRUG (BGH-Vorläufer IX ZR 285/14).
+- Das Plugin [`liquiditaetsplanung`](../liquiditaetsplanung/) enthält die rollierenden Liquiditätsvorschauen 3 Wochen / 13 / 26 / 52 Wochen mit Ampel nach BGH BGHZ 163, 134 und Fortführungsprognose nach IDW S 6.
 
 Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es liefert die rechtlichen Subsumtionsbausteine und Beweismittel, wenn die Krise bereits eingetreten ist — Zeitpunkt der Zahlungsunfähigkeit, Überschuldungsstatus zum Stichtag, Antragspflichtfrist, Haftung Geschäftsleiter.
 

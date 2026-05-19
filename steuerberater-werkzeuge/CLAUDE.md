@@ -3,11 +3,11 @@ KONFIGURATIONSPFAD
 
 Die benutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad, der Plugin-Updates überlebt:
 
-  ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerberatung/CLAUDE.md
+  ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerberater-werkzeuge/CLAUDE.md
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
-2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin muss vor der Nutzung eingerichtet werden. Führen Sie /steuerberatung:kaltstart-interview aus – das dauert ca. 10–15 Minuten, und jeder Befehl in diesem Plugin setzt dies voraus. Ohne Einrichtung sind Ausgaben generisch und entsprechen möglicherweise nicht Ihrer Praxis." NUR /steuerberatung:kaltstart-interview selbst und ein etwaiges --integrationen-prüfen-Flag dürfen ohne Einrichtung ausgeführt werden.
+2. Wenn diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit STOPPEN. Meldung: „Dieses Plugin muss vor der Nutzung eingerichtet werden. Führen Sie /steuerberater-werkzeuge:kaltstart-interview aus – das dauert ca. 10–15 Minuten, und jeder Befehl in diesem Plugin setzt dies voraus. Ohne Einrichtung sind Ausgaben generisch und entsprechen möglicherweise nicht Ihrer Praxis." NUR /steuerberater-werkzeuge:kaltstart-interview selbst und ein etwaiges --integrationen-prüfen-Flag dürfen ohne Einrichtung ausgeführt werden.
 3. Einrichtung und kaltstart-interview SCHREIBEN in diesen Pfad und erstellen übergeordnete Verzeichnisse nach Bedarf.
 4. Beim ersten Ausführen nach einem Plugin-Update: Wenn eine befüllte CLAUDE.md am alten Cache-Pfad existiert, aber nicht am Konfigurationspfad, sie dorthin kopieren.
 5. Diese Datei (die Sie lesen) ist die VORLAGE. Sie wird mit dem Plugin ausgeliefert und zeigt die Struktur, die die Konfiguration haben soll. Sie wird bei jedem Plugin-Update ersetzt. Keine Benutzerdaten hier schreiben.
@@ -16,7 +16,7 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 -->
 
 # Steuerberatung Praxisprofil
-*Erstellt durch Kaltstart am [DATUM]. Bei `[PLATZHALTER]`: `/steuerberatung:kaltstart-interview` ausführen.*
+*Erstellt durch Kaltstart am [DATUM]. Bei `[PLATZHALTER]`: `/steuerberater-werkzeuge:kaltstart-interview` ausführen.*
 
 ---
 
@@ -39,7 +39,7 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 | Slack | [✓ / ✗] | Digests nur als Dateien; keine Kanal-Alerts |
 | IDW-Datenbank / beck-online / juris | [✓ / ✗] | Modellwissen mit `[Modellwissen – prüfen]`-Markierung; vor Verwendung verifizieren |
 
-*Erneut prüfen: `/steuerberatung:kaltstart-interview --integrationen-prüfen`*
+*Erneut prüfen: `/steuerberater-werkzeuge:kaltstart-interview --integrationen-prüfen`*
 
 ---
 
@@ -222,7 +222,7 @@ Wenn der Benutzer eine Frage im Praxisbereich dieses Plugins stellt – nicht nu
 - Die Leitplanken auch ohne laufenden Skill anwenden: Quellzuordnung, Zitationspflege, Zuständigkeitserkennung, Entscheidungshaltung, das Prüfernotiz-Format
 - Die Antwort so formulieren, wie ein erfahrener Steuerberater in dieser Praxis es würde – kalibriert auf Setting (Kanzlei / Steuerberatungsgesellschaft / Inhouse), Rolle (Steuerberater / Nicht-Steuerberater) und Risikobereitschaft
 
-Falls das Praxisprofil nicht befüllt ist: „Ich kann eine allgemeine Antwort geben, aber dieses Plugin gibt wesentlich bessere Antworten, sobald es auf Ihre Praxis konfiguriert ist – führen Sie `/steuerberatung:kaltstart-interview` aus (2-Minuten-Schnellstart oder 10-Minuten-Volleinrichtung)." Dann dennoch die allgemeine Antwort geben, als unkonfiguriert markiert.
+Falls das Praxisprofil nicht befüllt ist: „Ich kann eine allgemeine Antwort geben, aber dieses Plugin gibt wesentlich bessere Antworten, sobald es auf Ihre Praxis konfiguriert ist – führen Sie `/steuerberater-werkzeuge:kaltstart-interview` aus (2-Minuten-Schnellstart oder 10-Minuten-Volleinrichtung)." Dann dennoch die allgemeine Antwort geben, als unkonfiguriert markiert.
 
 ---
 
@@ -254,7 +254,7 @@ Die Antwort nach der Frage bemessen. Eine Orientierungsanfrage zu § 102 StaRUG 
 
 ---
 
-*Erneut ausführen: `/steuerberatung:kaltstart-interview --redo`*
+*Erneut ausführen: `/steuerberater-werkzeuge:kaltstart-interview --redo`*
 
 **Ruhiger Modus für mandantenseitige Ergebnisse.** Bei Ergebnissen für externe Zielgruppen – Mandantenrundschreiben, Hinweisschreiben § 102 StaRUG, Vorstandsvermerke – die interne Beschreibung unterdrücken:
 - Arbeitsergebnis-Header: BEHALTEN

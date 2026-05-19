@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "klotzkette-german-legal-skills",
-  "description": "Klotzkette German Legal Skills – deutsche Rechtsfähigkeiten für die anwaltliche Praxis. Skills, Agenten, Auslöser und Agentenrezepte für Arbeit, Vertrag, Gesellschaft, IP, Datenschutz, Prozess, Regulierung, KI-Governance, Insolvenzrecht und Steuerberatung. Mit verbindlicher BGH-Zitierweise und hohem Stellenwert von Kommentaren und Aufsätzen.",
+  "description": "Klotzkette German Legal Skills – deutsche Rechtsfähigkeiten für die anwaltliche Praxis. Skills, Agenten, Auslöser und Agentenrezepte für Arbeit, Vertrag, Gesellschaft, IP, Datenschutz, Prozess, Regulierung, KI-Governance, Insolvenzrecht, Liquiditätsplanung und Steuerberater-Werkzeuge. Mit verbindlicher BGH-Zitierweise und hohem Stellenwert von Kommentaren und Aufsätzen.",
   "owner": {
     "name": "Klotzkette"
   },
@@ -103,9 +103,17 @@
       }
     },
     {
-      "name": "steuerberatung",
-      "source": "./steuerberatung",
-      "description": "Skills für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht), rollierende Liquiditätsvorschau 13/26/52 Wochen mit Ampel nach BGH BGHZ 163, 134 (10-%-Lücke, 3-Wochen-Horizont), Fortführungsprognose nach IDW S 6/S 11.",
+      "name": "steuerberater-werkzeuge",
+      "source": "./steuerberater-werkzeuge",
+      "description": "Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Für die rollierende Liquiditätsplanung 13/26/52 Wochen siehe das eigene Plugin `liquiditaetsplanung`.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "liquiditaetsplanung",
+      "source": "./liquiditaetsplanung",
+      "description": "Rollierende Liquiditätsvorschau und Krisenfrüherkennung: 3-Wochen-Test § 17 InsO, integrierter 13/26/52-Wochen-Plan mit Ampel nach BGH BGHZ 163, 134 (10-%-Lücke, 3-Wochen-Horizont), Fortführungsprognose nach IDW S 6/S 11 und insolvenzrechtliche Liquiditätsanalyse §§ 17/18/19 InsO. Für Steuerberater, GmbH-Geschäftsleitung, Sanierungsberater und Insolvenzverwalter.",
       "author": {
         "name": "Klotzkette"
       }

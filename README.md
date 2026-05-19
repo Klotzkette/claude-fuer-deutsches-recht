@@ -61,8 +61,9 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`prozessrecht`](./prozessrecht) | Zivil-, Straf- und Verwaltungsprozess, Mahnverfahren, einstweilige Verfügung, Zwangsvollstreckung, Verkehrsunfall |
 | [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono-Beratungsstellen, Mandantenakte, Mandantenbrief |
 | [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht, KWG, GwG, EnWG, TKG, Inkasso/RDG, UStVA, DORA-IKT-Vertragsprüfung |
-| [`insolvenzrecht`](./insolvenzrecht) | Strukturierte Prüfung Zahlungsunfähigkeit (§ 17 InsO) anhand der BGH-Rechtsprechung (BGHZ 163, 134); zweistufige Überschuldungsprüfung (§ 19 InsO) mit Fortbestehensprognose nach IDW S 11; Antragspflicht Geschäftsleiter (§ 15a InsO) inkl. Haftung wegen Insolvenzverschleppung; Gläubigerantrag-Prüfung (§ 14 InsO); insolvenzrechtliche Liquiditätsvorschau 13 Wochen / 24 Monate. |
-| [`steuerberatung`](./steuerberatung) | BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht), rollierende Liquiditätsvorschau 13/26/52 Wochen mit Ampel und Fortführungsprognose nach IDW S 6/S 11. |
+| [`insolvenzrecht`](./insolvenzrecht) | Zahlungsunfähigkeit § 17 InsO (BGHZ 163, 134), zweistufige Überschuldungsprüfung § 19 InsO mit Fortbestehensprognose (IDW S 11), Antragspflicht § 15a InsO und Haftung wegen Insolvenzverschleppung, Gläubigerantrag § 14 InsO, gerichtsfähige Liquiditätsvorschau. |
+| [`liquiditaetsplanung`](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerberater-werkzeuge` und `insolvenzrecht`. |
+| [`steuerberater-werkzeuge`](./steuerberater-werkzeuge) | Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Die rollierende Liquiditätsplanung steht im Schwester-Plugin `liquiditaetsplanung`. |
 | [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking |
 | [`betreuungsrecht`](./betreuungsrecht) | Skills für berufliche Betreuer nach BtOG und §§ 1814 ff. BGB (Reform 2023): Jahresbericht ans Betreuungsgericht (§ 1863 BGB), Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1865 BGB), Genehmigungspflicht-Prüfung (§§ 1848 ff., 1831, 1832 BGB). |
 
@@ -73,44 +74,72 @@ Zusätzlich:
 
 ## Schnellstart
 
-Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Skill-Konsolen mit Marketplace-Kommando.
+Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Claude Code im Terminal.
+
+### Voraussetzungen
+
+- Ein **Claude-Account** (Free oder Pro) – https://claude.ai/login
+- Entweder **Claude Desktop** (https://claude.com/download) **oder** **Claude Code** (`npm install -g @anthropic-ai/claude-code`, danach `claude` im Terminal).
+- Für Weg 3 zusätzlich `git`.
 
 ### Weg 1 — Installation über „Customize → Skills" (GUI, empfohlen)
 
-Der offizielle, einfachste Weg innerhalb der Cowork-Oberfläche bzw. Claude Desktop:
+Einfachster Weg in Claude Desktop oder der Cowork-Oberfläche:
 
 1. Claude Desktop öffnen und in der linken Seitenleiste auf **Customize** klicken.
 2. Auf **Skills** wechseln und neben „Personal plugins" das **+**-Symbol anklicken.
-3. Im Dialogfeld den Pfad des GitHub-Repositorys im Format `owner/repo` eingeben: `Klotzkette/claude-fuer-deutsches-recht`.
-4. Auf **Sync** klicken. Cowork liest daraufhin den Marketplace bzw. die im Repository enthaltenen Skills aus.
-5. Beim gewünschten Skill auf **Install** klicken. Nach erfolgreicher Installation wechselt der Button zu **Manage** und ein Bestätigungs-Banner erscheint.
-6. Eine neue Konversation starten — der Skill steht ab sofort zur Verfügung.
+3. Im Dialogfeld den Pfad des GitHub-Repositorys im Format `owner/repo` eingeben: **`Klotzkette/claude-fuer-deutsches-recht`**.
+4. Auf **Sync** klicken. Cowork liest daraufhin den Marketplace und listet alle Plugins (z. B. `arbeitsrecht`, `vertragsrecht`, `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` ...).
+5. Beim gewünschten Plugin auf **Install** klicken. Nach erfolgreicher Installation wechselt der Button zu **Manage**.
+6. Eine neue Konversation starten — die Skills stehen ab sofort zur Verfügung. Tipp: Mit `/skill` oder freier Eingabe (z. B. „Erstelle eine 3-Wochen-Liquiditätsvorschau") wird der passende Skill automatisch erkannt.
 
 ### Weg 2 — Manueller ZIP-Upload als Plugin
 
-Wenn kein Marketplace-Manifest vorliegt oder eine bestimmte Version festgehalten werden soll:
+Wenn kein Marketplace-Manifest verwendet werden soll oder eine bestimmte Version festgehalten werden muss:
 
-1. Auf der GitHub-Seite des Skills das gesamte Repository als ZIP herunterladen: **Code → Download ZIP**.
+1. Auf https://github.com/Klotzkette/claude-fuer-deutsches-recht das Release **v1.0** öffnen (oder **Code → Download ZIP** vom `main`-Branch).
 2. In Cowork **Customize → Plugin** öffnen und über **+ → Create → Upload plugin** das ZIP hochladen.
-3. Nach dem Upload erscheint der Skill in der Skill-Liste und kann aktiviert werden.
+3. Nach dem Upload erscheint das Plugin in der Plugin-Liste und kann aktiviert werden.
 
 **Wichtig:** Das ZIP muss die korrekte Verzeichnisstruktur enthalten — `SKILL.md` auf der jeweils obersten Skill-Ebene (z. B. `arbeitsrecht/skills/<skill-name>/SKILL.md`). Andernfalls vor dem Upload neu komprimieren.
 
-### Weg 3 — Marketplace-Kommando (Claude Code / kompatible Konsole)
+### Weg 3 — Marketplace-Kommando (Claude Code im Terminal)
 
-```bash
+Claude Code starten (`claude` im Terminal) und dann:
+
+```text
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
 /plugin install arbeitsrecht
 /plugin install vertragsrecht
+/plugin install liquiditaetsplanung
+/plugin install insolvenzrecht
+/plugin install steuerberater-werkzeuge
 ```
 
-Lokal vorgehaltenes Repository ebenfalls möglich:
+Einzelne Plugins lassen sich auch später mit `/plugin install <name>` nachinstallieren; `/plugin list` zeigt den aktuellen Stand.
+
+Alternativ ein lokal geklontes Repository nutzen:
 
 ```bash
-/plugin marketplace add /pfad/zu/claude-fuer-deutsches-recht
+git clone https://github.com/Klotzkette/claude-fuer-deutsches-recht.git
+cd claude-fuer-deutsches-recht
+claude
 ```
 
-Details siehe [`QUICKSTART.md`](./QUICKSTART.md).
+Und dann im Claude-Code-Prompt:
+
+```text
+/plugin marketplace add .
+/plugin install <plugin-name>
+```
+
+### Überprüfen, ob die Installation funktioniert hat
+
+- In Claude Desktop: in der Plugin-Liste muss neben dem Plugin **Manage** statt **Install** stehen.
+- In Claude Code: `/plugin list` zeigt das Plugin als aktiviert.
+- Funktionstest: in einer neuen Konversation einen typischen Auftrag stellen, z. B. „Mache eine 3-Wochen-Liquiditätsvorschau für meine GmbH" → der Skill `liquiditaetsvorschau-3wochen` sollte sichtbar geladen werden.
+
+Details und Fehlersuche siehe [`QUICKSTART.md`](./QUICKSTART.md).
 
 ## Schwerpunkte für die deutsche Praxis
 
