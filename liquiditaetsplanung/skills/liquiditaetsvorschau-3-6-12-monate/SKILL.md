@@ -146,7 +146,7 @@ Format-Wahl (Abschnitt *Format- und Padlet-Wahl*) und Banking-Wahl (Abschnitt *B
 **Schritt 7 – Ergebnis ausliefern**
 - **Immer**: Excel-Datei `Liquiditaetsplan-<Firma>-KW<t>.xlsx` auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` befüllen. Vorgegebenes Layout (Kategorien-Zeilen × KW-Spalten) **nicht verändern**. BGH-Block ab Zeile 42 (Aktiva I/II, Passiva I/II, Lücke abs., Lücke %, Ampel) und Block „Offene Forderungen“ behalten. Formeln verwenden, nicht hartcodieren.
 - **Wenn HTML-Padlet gewählt**: zusätzlich `liquiditaets-padlet-<Firma>-KW<t>.html` aus `assets/padlet/liquiditaets-padlet.html` ableiten (single-file, autark, localStorage, JSON-Export/Import, Live-Ampel nach BGH-Schema).
-- **Wenn Markdown-Artefakt gewählt**: `liquiditäts-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditäts-artefakt-vorlage.md` ausfüllen.
+- **Wenn Markdown-Artefakt gewählt**: `liquiditäts-artefakt-<Firma>-KW<t>.md` auf Basis von `assets/markdown/liquiditaets-artefakt-vorlage.md` ausfüllen.
 - Bei jeder Folgemeldung des Nutzers das gewählte Artefakt aktualisieren und die neue Version unter demselben Asset-Namen liefern.
 
 **Schritt 8 – Memo (nur auf Anfrage)**
@@ -160,7 +160,7 @@ Bei Zustimmung: Sachverhalt, Liquiditätsbilanz tabellarisch, Quotenberechnung n
 
 1. **Excel** (immer) auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`. KW-Spalten × Kategorien-Zeilen wie in der Vorlage; BGH-Block (Aktiva I/II, Passiva I/II, Lücke abs., %, Ampel) ab Zeile 42; Block „Offene Forderungen“; Hinweise zur BGH-Rspr. Sheet `Liquiditätsplan` (Werte) und Sheet `BGH-Schema` (Erläuterung). Wochenstichtag = Freitag.
 2. **HTML-Padlet** (auf Wunsch): autarke single-file HTML aus `assets/padlet/liquiditaets-padlet.html`, live rechnend, localStorage-Speicher, JSON-Export/-Import.
-3. **Markdown-Artefakt** (auf Wunsch): `assets/markdown/liquiditäts-artefakt-vorlage.md` als Vorlage; bei jeder Folgemeldung neu geschrieben.
+3. **Markdown-Artefakt** (auf Wunsch): `assets/markdown/liquiditaets-artefakt-vorlage.md` als Vorlage; bei jeder Folgemeldung neu geschrieben.
 4. **Memo** (nur auf Anfrage): Kurz-Gutachten im Gutachtenstil, höchstens zwei Seiten, DOCX oder Markdown nach Wahl.
 5. **Hinweispflicht § 102 StaRUG** wenn nicht-Geschäftsleiter beauftragt (z. B. Steuerberatermandat) — Textbaustein anbieten.
 

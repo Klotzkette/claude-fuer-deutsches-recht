@@ -12,7 +12,7 @@ Dieser Skill ist die **Laufzeit-Variante**. Er setzt voraus, dass das hauseigene
 ## Ablauf
 
 **Schritt 1 — Hausvorlage finden**
-Prüfen, ob `klagewerkstatt-<slug>` installiert ist und `assets/vorlage/standardklage.md` sowie `references/hausregeln.json` enthält. Wenn nicht: höflich auf `klagevorlage-aus-eigenen-mustern` verweisen.
+Prüfen, ob `klagewerkstatt-<slug>` installiert ist und `assets/vorlagen-leer/standardklage.md` sowie `references/hausregeln.json` enthält. Wenn nicht: höflich auf `klagevorlage-aus-eigenen-mustern` verweisen.
 
 **Schritt 2 — Sachverhalt einsammeln**
 Alle Felder, die der Schwester-Skill in Schritt 5 abfragt, in einer Liste stellen. Dokumenten-Drop akzeptieren und Felder daraus belegen.
@@ -21,7 +21,7 @@ Alle Felder, die der Schwester-Skill in Schritt 5 abfragt, in einer Liste stelle
 Identisch zum Schwester-Skill, Schritt 6: rechnerische sachliche Zuständigkeit (§§ 23, 71 GVG), rechtliche örtliche Zuständigkeit (§§ 12, 13, 29, 29c, 38 ZPO; ggf. Brüssel Ia VO), Online-Recherche unter `https://www.justizadressen.nrw.de/de/justiz/suche` (PLZ oder Ort) und bundesweit unter `https://www.justiz.de/onlinedienste/gerichtsverzeichnis_und_orga/index.php`. Quelle und Abrufdatum dokumentieren. BeA-SAFE-ID nachtragen.
 
 **Schritt 4 — Klage erzeugen**
-Vorlage `assets/vorlage/standardklage.md` mit Sachverhalt befüllen, DOCX über `office/docx` rendern. Anlagenliste aus `references/anlagenliste.md` ergänzen. Dateiname `Klage-<Beklagte>-<YYYYMMDD>.docx`.
+Vorlage `assets/vorlagen-leer/standardklage.md` mit Sachverhalt befüllen, DOCX über `office/docx` rendern. Anlagenliste aus `references/anlagenliste.md` ergänzen. Dateiname `Klage-<Beklagte>-<YYYYMMDD>.docx`.
 
 **Schritt 5 — Memo (nur auf Anfrage)**
 
