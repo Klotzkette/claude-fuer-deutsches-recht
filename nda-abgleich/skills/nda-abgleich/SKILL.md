@@ -1,23 +1,98 @@
 ---
 name: nda-abgleich
-description: "NDA-Verhandlungshilfe fuer die empfangende Seite. Akzeptiert den Entwurf der Gegenseite als Ausgangsdokument und setzt darauf den eigenen Mandantenstandard mit chirurgischen Tracked Changes durch. Der Anwender bringt drei Inputs mit: NDA-Entwurf der Gegenseite (.docx), eigenes Standard-NDA (.docx) und eine interne Ampelmatrix mit Haltelinien (ROT), verhandelbaren Punkten (GELB) und flexiblen Punkten (GRUEN). Ausgabe ist eine .docx mit echten Word-Tracked-Changes (w:ins und w:del als Geschwister auf Laufebene, mit author und date). Keine Absatzloeschungen, keine kompletten Neufassungen, jede Aenderung minimalinvasiv. Verwenden bei Formulierungen wie 'NDA der Gegenseite anpassen', 'NDA Redlining', 'Standard durchsetzen', 'NDA Tracked Changes', 'Haltelinien einarbeiten', 'NDA chirurgisch redigieren'."
+description: "NDA-Verhandlungshilfe fuer die empfangende Seite. Zwei Modi: (A) Standard-Destillation aus 1 bis n eigenen NDAs und frei beschreibbarer Erfahrung in einen konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN; (B) Redlining-Lauf, der einen Entwurf der Gegenseite gegen genau diesen Standard chirurgisch mit echten Word-Tracked-Changes umarbeitet (w:ins und w:del als Geschwister auf Laufebene, mit author und date). Keine Absatzloeschungen, keine kompletten Klausel-Neufassungen, jede Aenderung minimalinvasiv. Verwenden bei Formulierungen wie 'aus unseren NDAs einen Standard ableiten', 'Haltelinien aus mehreren Vertraegen destillieren', 'NDA der Gegenseite anpassen', 'NDA Redlining', 'Standard durchsetzen', 'NDA Tracked Changes', 'NDA chirurgisch redigieren'."
 ---
 
-# NDA-Abgleich: Standard chirurgisch durchsetzen
+# NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen
 
 ## Wann diesen Skill aufrufen
 
-Wenn der Anwender (typischerweise als Inhouse-Jurist oder externer Anwalt der **empfangenden Seite**) einen NDA-Entwurf der Gegenseite bekommen hat und ihn **nicht durch einen eigenen Entwurf ersetzen** kann oder will, aber dennoch seine internen Haltelinien durchsetzen muss. Der Skill greift, sobald drei Inputs zusammenkommen:
+Wenn der Anwender (typischerweise als Inhouse-Jurist oder externer Anwalt der **empfangenden Seite**) entweder seinen eigenen NDA-Standard erst noch **erarbeiten** muss oder einen NDA-Entwurf der Gegenseite bekommen hat, den er **nicht durch einen eigenen Entwurf ersetzen** kann oder will, aber dessen interne Haltelinien er dennoch durchsetzen muss.
 
-1. NDA-Entwurf der Gegenseite (.docx oder .pdf, mit OCR falls Bild-PDF).
-2. Eigenes Standard-NDA des Mandanten (.docx oder Referenztext im Chat).
-3. Interne Verhandlungsmatrix mit Ampel ROT (Haltelinie, nicht verhandelbar), GELB (verhandelbar mit Grenzen), GRUEN (flexibel).
+Der Skill hat zwei Einsatzmodi, die unabhaengig oder nacheinander laufen koennen:
 
-Auch dann, wenn der Anwender nur sagt: "Bitte den NDA der Gegenseite an unseren Standard anpassen, aber so, dass die Gegenseite ihn noch als ihren wiedererkennt."
+- **Modus A — Standard-Destillation:** Aus 1 bis n eigenen NDAs (oder NDA-Entwuerfen, Verhandlungsergebnissen aus alten Akten, Excel-Auszuegen mit Klauselverweisen, freien Erfahrungswerten) wird ein konsolidierter **Haltelinien-Standard** mit Ampelmatrix ROT/GELB/GRUEN erzeugt. Dieser Standard ist die Eingangsgroesse fuer Modus B und fuer kuenftige Verhandlungen.
+- **Modus B — Redlining-Lauf:** Der NDA-Entwurf der Gegenseite wird gegen genau diesen Standard chirurgisch redigiert. Ausgabe ist eine .docx mit echten Word-Tracked-Changes.
 
-Nicht zustaendig: Erstellung eines NDA von Null, allgemeine Vertragspruefung ohne Ampelmatrix, Pruefung der inhaltlichen Plausibilitaet des eigenen Standards.
+Der Skill greift, sobald der Anwender mindestens einen der beiden Anwendungsfaelle anstoesst. Typische Aufschlaege:
 
-## Grundprinzip: chirurgisches Redigieren
+- "Hier sind unsere letzten zehn NDAs, mach uns daraus einen Standard."
+- "Wir haben zwar ein eigenes NDA-Template, aber wichtig ist eigentlich, was wir in der Praxis verhandelt haben — destilliere unseren echten Haltelinien-Standard."
+- "Hier ist der NDA-Entwurf der Gegenseite und unser Standard. Bitte chirurgisch anpassen."
+- "Macht eine .docx mit Tracked Changes draus, so dass die Gegenseite das Dokument noch als ihres erkennt."
+
+Nicht zustaendig: Erstellung eines NDA von Null ohne jegliche Vorlage, allgemeine Vertragspruefung ohne Bezug zu NDA-Klauseln, materiell-rechtliche Wuerdigung der Vertragsverletzungsfolgen.
+
+## Modus A — Standard-Destillation
+
+### Inputs in Modus A
+
+Alles, was der Anwender beibringen kann, ist verwertbar — gerade weil der Standard aus gelebter Praxis und nicht aus einem Template-Fetisch entstehen soll. Verarbeitbar sind:
+
+- **Eigene NDAs** als .docx oder .pdf (auch viele auf einmal, typischerweise 1 bis 50). Jede Datei wird einzeln analysiert.
+- **NDAs der Gegenseite aus frueheren Verhandlungen**, soweit der Anwender sie freigibt. Diese werden besonders interessant ausgewertet: wo hat der Mandant nachgegeben, wo hat die Gegenseite nachgegeben, wo wurde eine Mittelloesung gefunden?
+- **Verhandlungs-Notizen, E-Mails, Aktenvermerke** in beliebigem Format. Werden ausgelesen und in den Standard eingeflochten als "Erfahrungswert".
+- **Frei beschriebene Erfahrung** des Anwenders im Chat: "Wir akzeptieren nie Schiedsklauseln, weil unser letzter Schiedsfall in Singapur 14 Monate gedauert hat." Solche freitext-Saetze werden als zusaetzliche Haltelinien aufgenommen, sofern sie konkret genug sind.
+- **Eigenes Template-NDA**, sofern vorhanden, als grobe Strukturreferenz. Der Skill **gewichtet das Template aber nicht hoeher als die gelebte Praxis** — wenn die Praxis vom Template abweicht, gewinnt die Praxis.
+
+Wenn nur ein einziger NDA verfuegbar ist, ist das auch in Ordnung; der Skill arbeitet dann mit einer entsprechend duenneren Belegbasis und macht das im Reporting transparent.
+
+### Methodik der Destillation
+
+Fuer jede der typischen NDA-Klauseln (siehe Klauselkatalog unten) wertet der Skill ueber alle Inputs hinweg aus:
+
+1. **Welche Position kommt vor?** Pro Klausel werden die tatsaechlich vereinbarten Formulierungen extrahiert (Vertragslaufzeit, Gerichtsstand, Vertragsstrafe etc.).
+2. **Wie haeufig?** Die Verteilung wird sichtbar gemacht: "In 9 von 12 NDAs deutsches Recht, in 2 schweizerisches, in 1 englisches."
+3. **Mit welcher Streuung?** Wo eine echte Bandbreite besteht (z. B. Nachwirkungsfrist zwischen 2 und 5 Jahren), wird die Spanne und der Median dokumentiert.
+4. **Welche Outlier?** Eine einzelne Abweichung aus einem Spezialfall (z. B. ein NDA fuer eine US-Akquisition mit Delaware-Recht) wird nicht zur Regel hochgerechnet, sondern als Ausnahme markiert.
+5. **Welche Vorzugsformulierung?** Pro Klausel wird die im Mandantenkreis am haeufigsten verwendete Formulierung als Standardposition vorgeschlagen — woertlich, damit sie spaeter in Modus B als Einfuegungstext direkt zur Verfuegung steht.
+
+### Output von Modus A
+
+Die Destillation liefert drei Dateien im Workspace:
+
+- `Haltelinien-Standard_<Mandant>_<Datum>.md` — die konsolidierte Ampelmatrix mit Klausel, Status (ROT/GELB/GRUEN), Standardposition, Bandbreite, Quelle (welche Vertraege belegen die Position), Begruendung.
+- `Haltelinien-Standard_<Mandant>_<Datum>.docx` — dieselbe Matrix als formatierte Tabelle zum internen Verteilen.
+- `Haltelinien-Standard_<Mandant>_<Datum>.json` — maschinenlesbare Repraesentation derselben Matrix; wird von Modus B als Eingangsgroesse genutzt.
+
+Die Ampel-Zuordnung folgt diesen Heuristiken (der Anwender kann jede ueberstimmen):
+
+- **ROT** wird vorgeschlagen, wenn in **allen** verfuegbaren NDAs dieselbe Position vereinbart wurde und/oder der Anwender sie als "nicht verhandelbar" beschrieben hat.
+- **GELB** wird vorgeschlagen, wenn die Klausel ueber die Inputs hinweg innerhalb einer engen Bandbreite variiert (z. B. Nachwirkungsfrist 3 bis 5 Jahre, Vertragsstrafe 10 bis 50 TEUR).
+- **GRUEN** wird vorgeschlagen, wenn die Klausel in der gelebten Praxis sehr unterschiedlich gehandhabt wurde, ohne dass das den Schutzinteressen des Mandanten geschadet haette (Form der Mitteilungen, Sprache, Counterparts).
+
+Der Skill **fragt vor Finalisierung nach**, ob die vorgeschlagene Ampel-Zuordnung passt; im Zweifel werden GELB-Positionen mit der zugehoerigen Bandbreite belassen.
+
+### Klauselkatalog (Mindestumfang der Destillation)
+
+Der Skill arbeitet jede der folgenden Klauseln ab — auch dann, wenn sie in den Inputs nicht vorkommt, dann mit Markierung "nicht belegt, Standardvorschlag aus juristischem Allgemeingut":
+
+- Parteibezeichnung und Bilateralitaet (gegenseitig oder einseitig).
+- Definition Confidential Information und Kennzeichnungserfordernis.
+- Zweckbindung.
+- Geheimhaltungspflicht und Sorgfaltsmassstab.
+- Weitergabekreis (Representatives, Konzerngesellschaften, externe Berater).
+- Ausnahmen / Carve-outs (oeffentlich bekannt, vor Offenlegung bekannt, eigenstaendig entwickelt, von Dritten ohne Geheimhaltungspflicht erhalten, gesetzliche Offenlegungspflicht).
+- IP / kein Rechteuebergang / Lizenzen.
+- Rueckgabe und Vernichtung; Wahlrecht; Aufbewahrungspflichten fuer Compliance.
+- Vertragslaufzeit und Nachwirkungsfrist.
+- Vertragsstrafe und Schadenersatz.
+- Schriftformklausel (einfach / doppelt) und elektronische Form.
+- Anwendbares Recht (mit oder ohne CISG / IPR-Verweisungen).
+- Gerichtsstand oder Schiedsklausel.
+- Form der Mitteilungen (Notices).
+- Sprache des Vertrags und massgebliche Fassung.
+- Counterparts, salvatorische Klausel.
+
+Weitere Klauseln, die in den Inputs auftauchen (z. B. Non-Solicitation, Standstill, Publicity, Audit-Right), werden mit aufgenommen und mit Ampel-Vorschlag versehen.
+
+### Iteratives Schaerfen
+
+Der Skill behandelt den destillierten Standard als **lebendes Dokument**. Wenn der Anwender spaeter weitere NDAs einreicht, kann derselbe Skill den bestehenden Standard re-destillieren — neue Erkenntnisse fliessen ein, alte Belegbasis bleibt versioniert. Im Workspace wird die jeweils neue Fassung mit Zeitstempel abgelegt, die alte nicht ueberschrieben.
+
+## Modus B — Redlining-Lauf
+
+### Grundprinzip in Modus B: chirurgisches Redigieren
 
 Der Entwurf der Gegenseite ist das Ausgangsdokument. Er bleibt strukturell **vollstaendig erhalten**:
 
@@ -29,12 +104,17 @@ Der Entwurf der Gegenseite ist das Ausgangsdokument. Er bleibt strukturell **vol
 
 Hintergrund: Wer ganze Klauseln durch eigene Formulierungen ersetzt, signalisiert der Gegenseite, dass man einen neuen Entwurf vorlegen will. Das eskaliert die Verhandlung. Wer dagegen drei Worte streicht und durch zwei andere ersetzt, signalisiert: "Wir verhandeln auf eurem Papier, aber unsere Haltelinien stehen fest." Das ist anschlussfaehiger und politisch klueger.
 
-## Inputs sichten und Ampel uebernehmen
+### Inputs in Modus B
 
-Vor der ersten Aenderung liest der Skill **alle drei Dokumente vollstaendig**:
+Fuer Modus B braucht der Skill:
+
+- den **NDA-Entwurf der Gegenseite** (.docx oder .pdf, OCR falls Bild-PDF) als Ausgangsdokument, und
+- den **Haltelinien-Standard des Mandanten**. Diesen liefert idealerweise Modus A in Form der `.json`- oder `.md`-Datei. Alternativ akzeptiert der Skill auch ein eigenes Standard-NDA des Mandanten plus eine kurze Ampelmatrix als Eingabe — er destilliert dann intern "on the fly" einen Minimal-Standard daraus (mit Hinweis, dass Modus A grundsaetzlich die solidere Grundlage ist).
+
+Vor der ersten Aenderung liest der Skill alle Inputs vollstaendig:
 
 - Der Entwurf der Gegenseite wird in seine Absaetze zerlegt und durchnummeriert (typischerweise 60 bis 100 Absaetze). Diese Nummerierung dient als Adresse fuer jede Aenderung.
-- Das eigene Standard-NDA liefert die **Zielformulierungen** fuer jede Klausel — also die genauen Worte, mit denen die eigene Position sprachlich am elegantesten ins Dokument der Gegenseite eingebaut werden kann.
+- Der Haltelinien-Standard liefert die **Zielformulierungen** fuer jede Klausel — also die genauen Worte, mit denen die eigene Position sprachlich am elegantesten ins Dokument der Gegenseite eingebaut werden kann.
 - Die Ampelmatrix liefert die **Reihenfolge der Verbindlichkeit**:
   - ROT-Eintraege sind **nicht verhandelbar**. Jeder ROT-Punkt muss in der Ausgabe-Datei adressiert sein, andernfalls schlaegt das Mandat fehl.
   - GELB-Eintraege werden in **Standardposition** eingebracht; die zulaessige Bandbreite ist in der Matrix definiert.
@@ -159,8 +239,17 @@ Auch wenn der Skill chirurgisch arbeitet, bleibt die **Letztverantwortung** fuer
 
 ## Beispielformulierungen, die diesen Skill ausloesen
 
+Fuer Modus A (Destillation):
+
+- "Hier sind unsere letzten zehn NDAs. Destilliere daraus unseren Standard."
+- "Wir haben zwar ein Template, aber wichtig ist die Praxis. Bau uns daraus eine Ampelmatrix."
+- "Aus diesen NDAs und meinen Notizen einen Haltelinien-Katalog ableiten."
+- "Pruef nochmal mit diesen drei neuen NDAs, ob unser Standard noch stimmt."
+
+Fuer Modus B (Redlining):
+
 - "Hier ist der NDA-Entwurf von TechVantage Global und unser Standard. Bitte chirurgisch anpassen."
-- "Macht eine .docx mit Tracked Changes draus, sodass wir unsere Haltelinien durchsetzen, aber die Gegenseite das Dokument noch als ihres erkennt."
+- "Macht eine .docx mit Tracked Changes draus, so dass wir unsere Haltelinien durchsetzen, aber die Gegenseite das Dokument noch als ihres erkennt."
 - "NDA Redlining gegen unsere Ampelmatrix, behutsam."
 - "Wir sind Receiving Party, die andere Seite hat vorgelegt. Standard durchsetzen ohne neue Absaetze."
 - "Bitte nur Wortaenderungen, keine ganzen Klauseln neu schreiben."
