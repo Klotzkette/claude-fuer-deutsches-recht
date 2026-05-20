@@ -1,0 +1,28 @@
+{
+  "name": "fluggastrechte",
+  "version": "0.1.0",
+  "description": "Fluggastrechte selber geltend machen — VO (EG) Nr. 261/2004 plus EuGH-Rspr. Tickets erfassen Annullierung vs Verspaetung pruefen aussergewoehnliche Umstaende Distanz und Ausgleich Forderungsschreiben Mahnung Klage Amtsgericht. Vollmacht Familie. Katalog Airline-Standardausreden.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "fluggastrechte",
+    "eu-261-2004",
+    "annullierung",
+    "verspaetung",
+    "ausgleichszahlung",
+    "aussergewoehnliche-umstaende",
+    "eugh-rechtsprechung",
+    "sturgeon",
+    "wallentin-hermann",
+    "pesokova",
+    "kruesemann",
+    "folkerts",
+    "vollmacht",
+    "forderungsschreiben",
+    "klage-amtsgericht",
+    "selbstmandat-verbraucher"
+  ]
+}
