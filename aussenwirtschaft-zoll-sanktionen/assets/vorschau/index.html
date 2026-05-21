@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Außenwirtschaft, Sanktionen, Zoll und CBAM</title>
+<style>
+:root { --ink:#0e1726; --muted:#53606f; --line:#d8dee8; --blue:#173f67; --silver:#edf1f6; --orange:#d06f1f; --paper:#ffffff; }
+* { box-sizing:border-box; }
+body { margin:0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color:var(--ink); background:linear-gradient(180deg,#f9fbfd 0%,#eef3f8 52%,#ffffff 100%); }
+header { min-height:72vh; padding:48px min(7vw,88px); display:grid; align-content:center; border-bottom:1px solid var(--line); }
+.kicker { color:var(--orange); font-weight:800; font-size:12px; text-transform:uppercase; }
+h1 { margin:14px 0 18px; max-width:1050px; font-size:clamp(38px,6vw,78px); line-height:.98; letter-spacing:0; }
+.lead { max-width:900px; color:var(--muted); font-size:clamp(18px,2vw,24px); line-height:1.35; }
+.actions { margin-top:30px; display:flex; flex-wrap:wrap; gap:12px; }
+a.btn { text-decoration:none; color:white; background:var(--blue); border:1px solid #11314f; padding:12px 16px; border-radius:8px; font-weight:750; }
+a.btn.secondary { color:var(--blue); background:rgba(255,255,255,.82); border-color:var(--line); }
+main { padding:34px min(7vw,88px) 70px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:14px; }
+article { background:rgba(255,255,255,.9); border:1px solid var(--line); border-radius:8px; padding:18px; min-height:196px; box-shadow:0 16px 38px rgba(23,63,103,.08); }
+article span { color:var(--orange); font-weight:850; font-size:12px; }
+article h3 { margin:10px 0 8px; font-size:18px; line-height:1.2; }
+article p { margin:0; color:var(--muted); line-height:1.45; }
+.footer { margin-top:30px; color:var(--muted); max-width:930px; line-height:1.5; }
+</style>
+</head>
+<body>
+<header>
+  <div class="kicker">Freistehendes Claude-Plugin</div>
+  <h1>Außenwirtschaft, Sanktionen, Zoll und CBAM</h1>
+  <p class="lead">Exportkontrolle, Sanktionen, Embargos, Zoll, CBAM, Verbrauchsteuer, AWV, AML/KYC, Ermittlungen und Krisenkommunikation in einem geführten Workflow.</p>
+  <nav class="actions" aria-label="Downloads">
+    <a class="btn" href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip">Plugin-ZIP laden</a>
+    <a class="btn secondary" href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip">Testakte laden</a>
+  </nav>
+</header>
+<main>
+  <section class="grid" aria-label="Kern-Workflows">
+        <article><span>01</span><h3>Außenwirtschaft-Kommandocenter</h3><p>Führt grenzüberschreitende Handels-, Zoll-, Sanktions-, CBAM- und Ermittlungsmandate von Intake bis Handlungsvorschlag.</p></article>
+        <article><span>02</span><h3>Exportkontrolle und Dual-Use</h3><p>Prüft Güter, Software, Technologie, technische Unterstützung, Vermittlung, Endverwendung, Endverwender und Genehmigungspflichten.</p></article>
+        <article><span>03</span><h3>Güterlisten- und Klassifizierungslog</h3><p>Erstellt ein nachvollziehbares Klassifizierungsdossier mit Produktdaten, Zolltarifnummer, technischen Parametern, Güterlistenbezug und offenen Nachweisen.</p></article>
+        <article><span>04</span><h3>BAFA-Genehmigungen und Anfragen</h3><p>Bereitet BAFA-Anträge, Nullbescheide, Auskünfte, ELAN-K2-Vorgänge, Empfängeranfragen und Rückfragen an Behörden vor.</p></article>
+        <article><span>05</span><h3>Sanktionen, Embargos und Bereitstellungsverbote</h3><p>Prüft Länderembargos, personenbezogene Sanktionen, Eigentum, Kontrolle, Umgehungsrisiken, Finanzmittel, Dienstleistungen, IP-Rechte und Zahlungsströme.</p></article>
+        <article><span>06</span><h3>US EAR, ITAR und Extraterritorialität</h3><p>Identifiziert US-Touchpoints, Reexport-Risiken, US-Origin-Komponenten, De-minimis, Foreign Direct Product Rule, ITAR-Bezug und OFAC-Bezug.</p></article>
+        <article><span>07</span><h3>Zolltarif, TARIC und vZTA</h3><p>Prüft Wareneinreihung, TARIC-Maßnahmen, Zusatzcodes, Dokumentencodes und verbindliche Zolltarifauskunft.</p></article>
+        <article><span>08</span><h3>Zollwert, Ursprung und Präferenzen</h3><p>Prüft Zollwert, Incoterms, Hinzurechnungen, Abzüge, Warenursprung, Präferenznachweise, Lieferantenerklärungen und vUA.</p></article>
+        <article><span>09</span><h3>Zollverfahren, Bewilligungen und Vereinfachungen</h3><p>Prüft Versand, Zolllager, aktive Veredelung, Endverwendung, AEO, vereinfachte Anmeldung, Bürgschaft und Bewilligungsrisiken.</p></article>
+        <article><span>10</span><h3>Verbote und Beschränkungen bei Ein- und Ausfuhr</h3><p>Prüft VuB-Themen wie Dual-Use, Kulturgüter, CITES, F-Gase, Veterinär, Lebensmittel, Luxuswaren, Iran/Nordkorea/Russland-Bezüge und Dokumentencodes.</p></article>
+  </section>
+  <p class="footer">Ruhiger Silber-/Blau-Look mit orangefarbenen Eskalationssignalen. Fachlich zwingt das Plugin zu Live-Quellen, Trefferlog, Datenlücken und überprüfbaren Sofortmaßnahmen.</p>
+</main>
+</body>
+</html>

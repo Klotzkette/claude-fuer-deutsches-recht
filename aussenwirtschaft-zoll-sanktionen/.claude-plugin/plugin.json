@@ -1,0 +1,38 @@
+{
+  "name": "aussenwirtschaft-zoll-sanktionen",
+  "version": "2.9.0",
+  "description": "Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "aussenwirtschaft",
+    "exportkontrolle",
+    "dual-use",
+    "bafa",
+    "sanktionen",
+    "embargo",
+    "zollrecht",
+    "taric",
+    "vzta",
+    "ursprung",
+    "praeferenzen",
+    "zollwert",
+    "cbam",
+    "co2-zoll",
+    "verbrauchsteuer",
+    "antidumping",
+    "ausgleichszoll",
+    "awv",
+    "bundesbank",
+    "aml",
+    "kyc",
+    "ear",
+    "itar",
+    "ofac",
+    "internal-compliance-program",
+    "freistehend"
+  ]
+}

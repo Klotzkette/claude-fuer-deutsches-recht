@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v2.8.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v2.9.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **66 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **67 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -74,6 +74,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| `aussenwirtschaft-zoll-sanktionen.zip` | Exportkontrolle, Sanktionen, Embargos, Zoll, TARIC, CBAM, Verbrauchsteuer, Antidumping, AWV, AML/KYC, Prüfungen und Krisenkommunikation |
 | `datenschutzrecht.zip`                    | DSGVO/BDSG/TTDSG, PIA/DPIA, AVV-Review, Datenpannenmeldung                                                                 |
 | `ki-governance.zip`                       | EU-KI-VO + DSGVO: Use-Case-Triage, KI-Inventar, Vendor-Review                                                              |
 | `berufsrecht-ki-vertragspruefung.zip`     | Berufsrechtliche Vorprüfung von Verträgen mit Legal-Tech-Anbietern                                                         |
@@ -107,6 +108,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-betreuung-hildegard-sauer.zip`                   | `betreuungsrecht`                                            |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip`            | `sozialrecht-kanzlei`                                        |
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip`       | `fortbestehensprognose`                                      |
+| `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |
 | `testakte-energierecht-stadtwerke-quartier.zip`          | `energierecht`                                              |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip`   | `umweltrecht`                                               |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | `verkehr-infrastrukturrecht`                         |

@@ -6,6 +6,7 @@ Dieser Ordner enthält **fiktive Mandatsakten**, mit denen sich die Skills sofor
 
 | Akte | Inhalt | Passt zu |
 | --- | --- | --- |
+| [`aussenwirtschaft-zoll-sanktionen-globalmaschinen/`](./aussenwirtschaft-zoll-sanktionen-globalmaschinen/) | Fiktive Globalmaschinen GmbH mit Exportkontrolle, Sanktionshit, Zolltarif/vZTA, Ursprung, CBAM-Importen, Verbrauchsteuer, Antidumpingbescheid, AWV-Zahlungen, AML/KYC, BAFA-/Zollprüfung und Presseanfrage. | `aussenwirtschaft-zoll-sanktionen` |
 | [`beispielakte-edelholz-berlin/`](./beispielakte-edelholz-berlin/) | Edelholz Manufaktur Berlin GmbH (KMU, ca. 2 Mio. EUR Umsatz, angespannte Liquidität) — Firmenstammblatt, Personalliste, BWA Jan–Apr 2026, SuSa 30.04.2026, OPOS Debitoren/Kreditoren, Bankauszüge Q1 2026, Steuern/SV-Lage, Aufträge, Verträge, fertige `liquiditaetsplan_edelholz.xlsx` und `mandant.yaml`. | `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` |
 | [`fluggastrechte-familie-braeutigam/`](./fluggastrechte-familie-braeutigam/) | Familie Bräutigam-Zaytuna, Hamburg, 2 Erwachsene und 3 Kinder. Rückflug Bangkok–Frankfurt am 11.04.2026 annulliert, Ersatzflug erst 53 Stunden später. Pacific Sky Airways verweigert mit „außergewöhnlichen Umständen" und schikaniert mit überzogener Vollmachts­anforderung. Buchungs­bestätigung, Bordkarten, Mailverlauf, Hotel- und Verpflegungs­belege Bangkok, laienhafte Vollmacht, Auslagen-Excel, Mandantennotiz. | `fluggastrechte` |
 | [`betreuung-hildegard-sauer/`](./betreuung-hildegard-sauer/) | Frau Hildegard Sauer, 87, Demenz, Pflegegrad 4, Berufsbetreuer seit 18.11.2024 (AG Mitte 70 XVII 4421/24). Erster Jahresbericht zum 30.04.2026 fällig; Streit der erwachsenen Kinder um den Verkauf der Eigentumswohnung. Anregung Bezirksamt, Charité-Arztbrief, Beschluss, Pflegegrad-Bescheid, Vermögens­verzeichnis (Excel), Heimvertrag, Korrespondenz Geschwister, Entwurf Genehmigungs­antrag § 1850 BGB, Patientenverfügung, Hausbesuchs-Vermerk. | `betreuungsrecht` |
@@ -21,6 +22,7 @@ Dieser Ordner enthält **fiktive Mandatsakten**, mit denen sich die Skills sofor
 
 Jede Akte wird beim Release-Build als eigenes ZIP an den GitHub-Release angehängt:
 
+- [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip)
 - [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip)
 - [testakte-fluggastrechte-familie-braeutigam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip)
 - [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip)

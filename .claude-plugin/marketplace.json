@@ -31,6 +31,14 @@
       }
     },
     {
+      "name": "aussenwirtschaft-zoll-sanktionen",
+      "source": "./aussenwirtschaft-zoll-sanktionen",
+      "description": "Freistehendes Außenwirtschafts-, Sanktions-, Zoll- und CBAM-Plugin: Exportkontrolle, BAFA, Dual-Use, Embargos, TARIC, Ursprung, Zollwert, Verbrauchsteuer, Antidumping, AWV, AML/KYC, Ermittlungen und Krisenkommunikation.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "berufsrecht-ki-vertragspruefung",
       "source": "./berufsrecht-ki-vertragspruefung",
       "description": "Berufsrechtliche und strafrechtliche Forprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Rechtsanwälte Steuerberater Wirtschaftsprüfer Patentanwälte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. Maßstab DAV-Stellungnahme. Gutachten Rückfragebrief Klauselvorschläge.",
