@@ -1,0 +1,22 @@
+{
+  "mode": "leichte",
+  "characters": 1320,
+  "sentences": 30,
+  "words": 195,
+  "average_sentence_words": 6.5,
+  "long_sentence_limit": 10,
+  "long_sentences": [],
+  "long_words_sample": [],
+  "passive_candidates": [],
+  "nominalization_sample": [],
+  "headings": 7,
+  "lists": 1,
+  "legal_terms_found": [
+    "behörde",
+    "bescheid",
+    "frist",
+    "widerspruch"
+  ],
+  "warnings": [],
+  "status": "ok"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "einfache-leichte-sprache-jura",
+  "version": "3.0.8",
+  "description": "Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: Zielgruppe klären, Inhalt sichern, juristische Begriffe erklären, DIN-nah prüfen und verständliche Mandantenfassungen erstellen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "einfache-sprache",
+    "leichte-sprache",
+    "juristische-texte",
+    "barrierefreiheit",
+    "din-8581-1",
+    "din-iso-24495-1",
+    "din-spec-33429",
+    "plain-language",
+    "legal-design",
+    "freistehend"
+  ]
+}

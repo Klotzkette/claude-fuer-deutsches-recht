@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.7`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.8`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **79 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **80 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -46,6 +46,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `zitierweise-deutsches-recht.zip`         | Deutsche Hauszitierweise (Datum + Aktenzeichen, BGHZ-Pinpoint mit Randnummer)                                              |
 | `common-law-kompass.zip`                  | Common Law, English Law und US Law für deutsche Wirtschaftsjuristen: False Friends, Vertragsbegriffe, Consideration, UCC, Discovery und bilinguale Reviews |
 | `europarecht-kompass.zip`                 | Europarecht ohne deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Beihilfen und Vorlageverfahren |
+| `einfache-leichte-sprache-jura.zip`       | Juristische Texte wahlweise in Einfache Sprache oder Leichte Sprache übertragen, mit Rechtsinhalt-Sicherung und Qualitätsgate |
 
 ### Wirtschaft, Insolvenz, Sanierung
 
@@ -119,6 +120,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-fluggastrechte-familie-braeutigam.zip`           | `fluggastrechte`                                             |
 | `testakte-betreuung-hildegard-sauer.zip`                   | `betreuungsrecht`                                            |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip`   | `betreuungsrecht`                                            |
+| `testakte-einfache-leichte-sprache-jura-mandantenbrief.zip` | `einfache-leichte-sprache-jura`                              |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip`            | `sozialrecht-kanzlei`                                        |
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip`       | `fortbestehensprognose`                                      |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | `insolvenzforderungsanmeldungspruefung` |

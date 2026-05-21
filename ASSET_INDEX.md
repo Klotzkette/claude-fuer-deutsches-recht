@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v3.0.7
+**Stand:** v3.0.8
 
 ## Asset-Typen
 
@@ -12,7 +12,7 @@
 | **fallakte** | `testakte-<aktenname>.zip` | **Kein Plugin.** Mandatsunterlagen für Testzwecke. In den Chat ziehen, nicht zum Plugin-Upload geben. |
 | **manifest** | `marketplace.json` | **Kein Plugin.** Marketplace-Manifest für `/plugin marketplace add` und zur manuellen Inspektion. |
 
-## Plugin-Assets (79 Stück)
+## Plugin-Assets (80 Stück)
 
 Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
@@ -28,6 +28,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `common-law-kompass` | Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
 | `corporate-kanzlei` | Corporate/M&A-Plugin (46 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI. |
 | `datenschutzrecht` | DSGVO/BDSG/TTDSG: PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15 DSGVO, Datenpannenmeldung Art. 33/34, Beschäftigtendatenschutz. |
+| `einfache-leichte-sprache-jura` | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: Zielgruppe klären, Inhalt sichern, juristische Begriffe erklären, DIN-nah prüfen und verständliche Mandantenfassungen erstellen. |
 | `energierecht` | Freistehendes Energierecht-Plugin: Stadtwerke, Strom-, Gas- und Wärmeversorgung, Netze, Speicher, Vertrieb, Industrie, EEG/KWKG, Quartiere, Fernwärme, Wettbewerb, Verwaltungsverfahren, Transaktionen, PPA und Projektfinanzierung. |
 | `europarecht-kompass` | Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. |
 | `fachanwalt-agrarrecht` | Light-Touch-Plugin Fachanwalt fuer Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Duengeverordnung Pflanzenschutzrecht Tierschutz Forstrecht. |
@@ -99,7 +100,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `zitierweise-deutsches-recht` | Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg. |
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung. |
 
-## Fallakten-Assets (25 Stück)
+## Fallakten-Assets (26 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -112,6 +113,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-betreuung-hildegard-sauer.zip` | siehe `testakten/betreuung-hildegard-sauer/` |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip` | siehe `testakten/betreuung-schmalfeld-kontodaten-vertraege/` |
 | `testakte-common-law-kompass-crossborder-contract.zip` | siehe `testakten/common-law-kompass-crossborder-contract/` |
+| `testakte-einfache-leichte-sprache-jura-mandantenbrief.zip` | siehe `testakten/einfache-leichte-sprache-jura-mandantenbrief/` |
 | `testakte-energierecht-stadtwerke-quartier.zip` | siehe `testakten/energierecht-stadtwerke-quartier/` |
 | `testakte-europarecht-kompass-beihilfe-richtlinie.zip` | siehe `testakten/europarecht-kompass-beihilfe-richtlinie/` |
 | `testakte-fluggastrechte-familie-braeutigam.zip` | siehe `testakten/fluggastrechte-familie-braeutigam/` |
@@ -143,10 +145,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
-| plugin | 79 | |
-| fallakte | 25 | |
+| plugin | 80 | |
+| fallakte | 26 | |
 | manifest | 1 | |
-| **gesamt** | | **105** |
+| **gesamt** | | **107** |
 
 ## Verifikation eines Release
 
@@ -155,4 +157,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet: 105 Assets, davon 79 Plugin-ZIPs, 25 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet: 107 Assets, davon 80 Plugin-ZIPs, 26 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.

@@ -79,6 +79,14 @@
       }
     },
     {
+      "name": "einfache-leichte-sprache-jura",
+      "source": "./einfache-leichte-sprache-jura",
+      "description": "Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: Zielgruppe klären, Inhalt sichern, juristische Begriffe erklären, DIN-nah prüfen und verständliche Mandantenfassungen erstellen.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "energierecht",
       "source": "./energierecht",
       "description": "Freistehendes Energierecht-Plugin: Stadtwerke, Strom-, Gas- und Wärmeversorgung, Netze, Speicher, Vertrieb, Industrie, EEG/KWKG, Quartiere, Fernwärme, Wettbewerb, Verwaltungsverfahren, Transaktionen, PPA und Projektfinanzierung.",

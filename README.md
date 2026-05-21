@@ -153,7 +153,7 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 >
 > Beide Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte diese beiden zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
-> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz; Schmalfeld, Kontodaten und verdächtige Verträge), Sozialrecht (Herr Tannenberg, Rollstuhl-Ablehnung), Fortbestehensprognose (Paragrafix GmbH, Legal-AI-Startup Berlin-Moabit), Kanzlei-Lebenszyklus-Alltag plus die bestehende Insolvenzakte Edelholz Berlin. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz; Schmalfeld, Kontodaten und verdächtige Verträge), Einfache/Leichte Sprache (juristischer Mandantenbrief), Sozialrecht (Herr Tannenberg, Rollstuhl-Ablehnung), Fortbestehensprognose (Paragrafix GmbH, Legal-AI-Startup Berlin-Moabit), Kanzlei-Lebenszyklus-Alltag plus die bestehende Insolvenzakte Edelholz Berlin. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
 
 Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis, alphabetisch sortiert:
 
@@ -168,6 +168,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`common-law-kompass`](./common-law-kompass) | Freistehender Common-Law-Kompass für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
 | [`corporate-kanzlei`](./corporate-kanzlei) | Corporate/M&A-Plugin (46 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI. |
 | [`datenschutzrecht`](./datenschutzrecht) | DSGVO, BDSG, TTDSG, Auskunft, Datenpanne, AVV. |
+| [`einfache-leichte-sprache-jura`](./einfache-leichte-sprache-jura) | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: Zielgruppe klären, Rechtsinhalt sichern, DIN-nah formulieren, schwere Wörter erklären und Qualitätsgate laufen lassen. |
 | [`energierecht`](./energierecht) | Freistehender Energierechts-Assistent für Stadtwerke, Energieversorger, Wärme, Netze, Vertrieb, Industriekunden, EEG/KWKG, Quartiere, E-Mobility, Wasserstoff, Verfahren, Transaktionen und Projektfinanzierung. |
 | [`europarecht-kompass`](./europarecht-kompass) | Freistehender Europarecht-Kompass gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. |
 | [**Übersicht Fachanwaltschaften**](https://klotzkette.github.io/claude-fuer-deutsches-recht/) | Hinweis und Linksammlung: tabellarische Übersicht aller 24 Fachanwalts-Plugins mit Direktlinks ins jeweilige Plugin-Verzeichnis, Skills und Release-Download (GitHub Pages, gehostet aus `uebersicht-fachanwaltschaften/index.html`). |
@@ -251,8 +252,8 @@ Die Plugins unterscheiden sich darin, wie weit ihre Werkzeugkette über reinen S
 | Reifegrad | Bedeutung | Beispiele |
 |---|---|---|
 | **L1 — skilltext-only** | Skill liefert strukturierte Texte (Schreiben, Schriftsätze, Memos, Gutachten-Skizzen). Keine eigenen Werkzeuge. | Großteil der 24 Fachanwalts-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, …), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`, `jurastudium`. |
-| **L2 — mit Werkzeugen** | Skill ruft Python- oder XLSX-Werkzeuge im Plugin-Ordner auf, die kalkulieren, Dateien bauen oder Vorlagen generieren. | `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` (build_liquiditaetsplan.py); `anlagen-zu-schriftsaetzen` (build_anlagenkonvolut.py); `kanzlei-cowork/rechnungserstellung-rvg` (rvg_gebuehrenrechner.py); `forderungsmanagement-klagewerkstatt` (verzugszins_rechner.py); `phishing-vorfall-pruefer` (phishing_case_gate.py); `aktenaufbereiter-strafrecht` (aktenuebersicht_template.xlsx). |
-| **L3 — mit Tests** | Plugin ist zusätzlich durch einen Smoke-Test in [`tests/smoke-tests.md`](./tests/smoke-tests.md) abgedeckt — Eingang, Kaltstart-Skill, erwarteter Output, Abbruchkriterium. | Aktuell: `liquiditaetsplanung`, `insolvenzrecht`, `fluggastrechte`, `sozialrecht`, `betreuungsrecht`, `berufsrecht-ki-vertragspruefung`, `anlagen-zu-schriftsaetzen`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `kanzlei-cowork`. |
+| **L2 — mit Werkzeugen** | Skill ruft Python- oder XLSX-Werkzeuge im Plugin-Ordner auf, die kalkulieren, Dateien bauen oder Vorlagen generieren. | `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` (build_liquiditaetsplan.py); `anlagen-zu-schriftsaetzen` (build_anlagenkonvolut.py); `kanzlei-cowork/rechnungserstellung-rvg` (rvg_gebuehrenrechner.py); `forderungsmanagement-klagewerkstatt` (verzugszins_rechner.py); `phishing-vorfall-pruefer` (phishing_case_gate.py); `einfache-leichte-sprache-jura` (verstaendlichkeitscheck.py); `aktenaufbereiter-strafrecht` (aktenuebersicht_template.xlsx). |
+| **L3 — mit Tests** | Plugin ist zusätzlich durch einen Smoke-Test in [`tests/smoke-tests.md`](./tests/smoke-tests.md) abgedeckt — Eingang, Kaltstart-Skill, erwarteter Output, Abbruchkriterium. | Aktuell: `liquiditaetsplanung`, `insolvenzrecht`, `fluggastrechte`, `sozialrecht`, `betreuungsrecht`, `berufsrecht-ki-vertragspruefung`, `anlagen-zu-schriftsaetzen`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `einfache-leichte-sprache-jura`, `kanzlei-cowork`. |
 
 Für einen neuen Plugin gilt: L1 ist der akzeptable Start, L2 wird angestrebt, sobald wiederkehrende Berechnungen oder Dateigenerate sichtbar werden, und L3 wird vor einem Release gesetzt, wenn der Plugin fachlich-substanziell beansprucht wird.
 
@@ -260,7 +261,7 @@ Für einen neuen Plugin gilt: L1 ist der akzeptable Start, L2 wird angestrebt, s
 
 Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Claude Code im Terminal.
 
-> 📆 **Release- vs. main-Stand.** Der **letzte Release-Tag** ist [v2.1.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
+> 📆 **Release- vs. main-Stand.** Der **letzte Release-Tag** ist [v3.0.8](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
 
 > 💡 **Findest du in Cowork kein Feld für den GitHub-Pfad?** Dann ist in deiner Oberfläche der Marketplace-Weg vermutlich noch nicht freigeschaltet. Lade die Plugin-ZIPs einzeln aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) herunter und installiere sie über denselben Dialog, mit dem du z. B. „Legal Plugin" installierst. Schritt für Schritt erklärt: **[INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md)**.
 
@@ -340,7 +341,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.0.7: **79 Plugins, 1002 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
+Stand v3.0.8: **80 Plugins, 1007 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
 
 ### Materielle Rechtsgebiete
 
@@ -365,7 +366,7 @@ Stand v3.0.7: **79 Plugins, 1002 Skills**. Abgedeckt sind klassische Mandantenpr
 
 - **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `memorandums-ersteller`, `tabellenreview-3d`
 - **Kanzleibetrieb** – `kanzlei-allgemein`, `kanzlei-cowork`, `kanzlei-builder-hub`, `rechtsberatungsstelle`, `verlagsredaktion`
-- **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`
+- **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`, `einfache-leichte-sprache-jura`
 
 Eine vollständige Übersicht aller Plugins und Rechtsgebiete steht in [`references/rechtsgebiete-uebersicht.md`](./references/rechtsgebiete-uebersicht.md). Die kompakte Plugin-Liste mit Reifegrad findest du im Abschnitt ["Was ist drin?"](#was-ist-drin) weiter oben.
 

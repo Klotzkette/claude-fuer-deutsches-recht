@@ -1,0 +1,10 @@
+{
+  "ausloeser": {
+    "user-prompt-submit": [
+      {
+        "match": "(?i)(einfache\\s+sprache|leichte\\s+sprache|leicht\\s+verst[äa]ndlich|barrierefreie?r?\\s+text|juristische?n?\\s+text\\s+verst[äa]ndlich|din\\s*8581|din\\s*iso\\s*24495|din\\s*spec\\s*33429|plain\\s+language)",
+        "load_skill": "skills/elsj-kommandocenter"
+      }
+    ]
+  }
+}

@@ -105,6 +105,20 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 ---
 
+## einfache-leichte-sprache-jura
+
+**Eingang:** `testakten/einfache-leichte-sprache-jura-mandantenbrief/`.
+
+**Schritt 1 — Kaltstart:** `/einfache-leichte-sprache-jura:elsj-kommandocenter` → fragt Modus (Einfache Sprache oder Leichte Sprache), Zielgruppe, Medium und gewünschte Vollständigkeit ab.
+
+**Schritt 2 — Übertragung:** `/einfache-leichte-sprache-jura:elsj-einfache-sprache` oder `/einfache-leichte-sprache-jura:elsj-leichte-sprache`.
+
+**Erwarteter Output:** Verständliche Fassung mit sichtbarer Frist, erklärten Wörtern wie Bescheid, Widerspruch und Akteneinsicht, erhaltener Handlungsoption und juristischem Sicherungsvermerk.
+
+**Abbruchkriterium:** Frist, Rechtsfolge oder Handlungsoption fehlen **oder** der Leichte-Sprache-Entwurf behauptet eine Nutzerprüfung, obwohl nur ein Entwurf erzeugt wurde.
+
+---
+
 ## anlagen-zu-schriftsaetzen
 
 **Eingang:** Ein Schriftsatz-Entwurf (PDF/DOCX) + Ordner mit 5–10 Anlagen in unterschiedlichen Formaten.
