@@ -1,0 +1,23 @@
+{
+  "name": "phishing-vorfall-pruefer",
+  "version": "3.0.6",
+  "description": "Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "phishing",
+    "online-banking",
+    "push-tan",
+    "call-id-spoofing",
+    "675u",
+    "675v",
+    "zahlungsdienste",
+    "bankrecht",
+    "klage",
+    "ombudsmann",
+    "freistehend"
+  ]
+}

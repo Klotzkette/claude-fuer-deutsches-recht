@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v3.0.5
+**Stand:** v3.0.6
 
 ## Asset-Typen
 
@@ -12,7 +12,7 @@
 | **fallakte** | `testakte-<aktenname>.zip` | **Kein Plugin.** Mandatsunterlagen für Testzwecke. In den Chat ziehen, nicht zum Plugin-Upload geben. |
 | **manifest** | `marketplace.json` | **Kein Plugin.** Marketplace-Manifest für `/plugin marketplace add` und zur manuellen Inspektion. |
 
-## Plugin-Assets (78 Stück)
+## Plugin-Assets (79 Stück)
 
 Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
@@ -79,6 +79,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `mittelstand-corporate-ma` | Freistehendes Corporate/M&A-Plugin für mittelständische Kanzleien: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI. |
 | `nda-abgleich` | NDA-Verhandlungshilfe fuer die empfangende Seite. Akzeptiert den Entwurf der Gegenseite und setzt den eigenen Standard chirurgisch durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Word-Tracked-Changes. Keine Absatzloeschungen, keine Klausel-Neufassungen. |
 | `patentrecherche` | Patentrecherche fuer Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO PATENTSCOPE USPTO. Stand der Technik Neuheit (§ 3 PatG Art. 54 EPUe) erfinderische Taetigkeit (§ 4 PatG Art. 56 EPUe) Problem-Solution-Approach Freedom-to-Operate CPC-/IPC-Klassifikation INPADOC-Patentfamilie Rechtsstand Patentbeobachtung Recherchebericht. Funktioniert allein; empfohlenes Begleitplugin gewerblicher-rechtsschutz (Marke Design UWG). |
+| `phishing-vorfall-pruefer` | Freistehender Phishing-Vorfall-Prüfer für Online-Banking: § 675u/§ 675v BGB, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Banklogs, Bankpflichten, Schlichtung und Klage. |
 | `produktrecht` | Produkt-Launches, Impressumspflicht (§§ 5, 6 DDG), Preisangabenverordnung, Marketing-Claims, UWG-Konformität, schnelle 'Ist das ein Problem?'-Bewertungen. |
 | `prozessrecht` | Zivil-, Straf-, Verwaltungs- und Arbeitsgerichtsprozess: Mandatsportfolio, Fristen, Mahnbescheid, einstweilige Verfügung + Schutzschrift, Zwangsvollstreckung, Verkehrsunfall, Schriftsatzentwürfe, Anhörungsrüge, Beweisermittlung ohne Discovery. |
 | `rechtsberatungsstelle` | Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe. |
@@ -98,7 +99,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `zitierweise-deutsches-recht` | Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg. |
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Zwangsverwaltungs-Plugin aus Sicht des Zwangsverwalters: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Mieteinzug, Objektkosten, Versicherung, Treuhandkonto, Berichte, Rechnungslegung, Verteilung und Aufhebung. |
 
-## Fallakten-Assets (23 Stück)
+## Fallakten-Assets (24 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -122,6 +123,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
 | `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | siehe `testakten/jveg-zeugin-berger-lg-tuebingen/` |
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
+| `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
 | `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip` | siehe `testakten/strafbefehl-ladendiebstahl-fahrerflucht-musterakte/` |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip` | siehe `testakten/umweltrecht-industrieanlage-genehmigung/` |
@@ -140,10 +142,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
-| plugin | 78 | |
-| fallakte | 23 | |
+| plugin | 79 | |
+| fallakte | 24 | |
 | manifest | 1 | |
-| **gesamt** | | **102** |
+| **gesamt** | | **104** |
 
 ## Verifikation eines Release
 
@@ -152,4 +154,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet: 102 Assets, davon 78 Plugin-ZIPs, 23 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet: 104 Assets, davon 79 Plugin-ZIPs, 24 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.

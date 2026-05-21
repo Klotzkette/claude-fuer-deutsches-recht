@@ -487,6 +487,14 @@
       }
     },
     {
+      "name": "phishing-vorfall-pruefer",
+      "source": "./phishing-vorfall-pruefer",
+      "description": "Freistehender Phishing-Vorfall-Pruefer fuer Online-Banking: BGB Paragraf 675u, 675v, 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlaessigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "produktrecht",
       "source": "./produktrecht",
       "description": "Produkt-Launches, Impressumspflicht (§§ 5, 6 DDG), Preisangabenverordnung, Marketing-Claims, UWG-Konformität, schnelle 'Ist das ein Problem?'-Bewertungen.",

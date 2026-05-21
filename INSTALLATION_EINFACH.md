@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.5`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.6`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **78 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **79 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -69,6 +69,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `strafbefehl-verteidiger.zip`            | Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Wiedereinsetzung, Einstellung und Hauptverhandlung         |
 | `verkehrsowi-verteidiger.zip`             | Verkehrsordnungswidrigkeiten: Bußgeld, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Messakte, Einspruch und Amtsgericht |
 | `forderungsmanagement-klagewerkstatt.zip` | Standardklage aus eigenen Mustern, Zuständigkeitsprüfung, Inkasso-Zahlungsklage mit Mahnvorlauf und Anspruchs-Gatekeeper |
+| `phishing-vorfall-pruefer.zip` | Online-Banking-Phishing, pushTAN, Call-ID-Spoofing, § 675u/§ 675v BGB, Banklogs, Ombudsmann und Klage |
 | `vertragsausfueller.zip` | DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, Clean-Verträge erzeugen und Track Changes nur nach ausdrücklicher Nachfrage |
 | `vertragsrecht.zip`                       | NDA, AGB, SaaS, Lieferantenverträge                                                                                        |
 | `fluggastrechte.zip`                      | VO 261/2004, EuGH-Rspr., Ticketprüfung, Pauschalklage                                                                      |
@@ -123,6 +124,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | `insolvenzplan-starug-planwerkstatt` |
 | `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | `jveg-kostenpruefer` |
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | `forderungsmanagement-klagewerkstatt` |
+| `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | `phishing-vorfall-pruefer` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | `vertragsausfueller` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | `geldwaeschepraevention-aml-kyc` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |

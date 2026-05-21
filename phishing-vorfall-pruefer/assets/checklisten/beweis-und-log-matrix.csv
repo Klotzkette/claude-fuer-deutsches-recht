@@ -1,0 +1,13 @@
+Kategorie,Beweisfrage,Typischer Beleg,Anforderung an Bank/Mandant,Bewertung
+Autorisierung,Wurde die konkrete Zahlung mit Betrag und Empfänger freigegeben?,App-Dialog/Screenshot,Tatsächlichen Dialogtext und Layout vorlegen,
+Authentifizierung,Welche SCA wurde genutzt?,Banklog,Login- und TAN-Protokoll mit Zeitstempel vorlegen,
+Transaktionsbindung,War die Freigabe dynamisch mit Betrag und Empfänger verknüpft?,SCA-/TAN-Datensatz,Parameter der Freigabe offenlegen,
+Gerät,Welches Gerät war registriert und welches Gerät löste aus?,Device-Log,Device-ID Betriebssystem App-Version nennen,
+IP/Ort,Gab es IP- oder Ortswechsel?,IP-Log,IP-Adresse User-Agent Geo-/Risikokennzeichen vorlegen,
+Empfänger,Wurde ein neuer Empfänger angelegt?,Empfängerlog,Zeitpunkt der Anlage und Freigabe offenlegen,
+Monitoring,Wurde ein Risikoscore erzeugt?,Fraud-Log,Risikoscore Schwellenwert und Entscheidung vorlegen,
+Warnung,Welche konkrete Warnung sah der Kunde?,Screenshot/Textbaustein,Exakten Warntext vorlegen,
+Sperre,Wann wurde gesperrt?,Sperrprotokoll,Sperrnotruf Hotline und Banking-Sperre belegen,
+Rückholung,Wurde ein Recall versucht?,Banknotiz,SEPA Recall oder Händlerstorno darlegen,
+Kunde,Was hat der Kunde wem gesagt?,Gedächtnisprotokoll,Telefonnotiz Zeugen eidesstattliche Versicherung,
+Schaden,Sind alle Positionen endgültig belastet?,Kontoauszug,Valuta Rückbuchungen Gebühren Zinsen prüfen,

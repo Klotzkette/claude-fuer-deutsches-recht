@@ -1,0 +1,39 @@
+{
+  "case_name": "Mayer ./. Sparkasse Berlin",
+  "damage_amount": "12295.00",
+  "transaction_total": "12295.00",
+  "damage_matches_transactions": true,
+  "traffic_lights": {
+    "erstattung_dem_grunde": "GRUEN",
+    "grobe_fahrlaessigkeit_einwand": "GELB",
+    "bankpflichten_monitoring": "GRUEN",
+    "prozessfreigabe": "GELB"
+  },
+  "claimant_points": [
+    "Call-ID-Spoofing mit plausibler Banknummer",
+    "Freigabedialog war mehrdeutig oder als Sicherheitsvorgang gerahmt",
+    "TAN-Einsatz aus fremder oder riskanter IP-Umgebung",
+    "Ort/Gerät des Kontoinhabers passt nicht zum Transaktionsauslöser",
+    "Sperre/Reklamation erfolgte zeitnah",
+    "Ombudsmann-Vorschlag wurde bankseitig nicht umgesetzt"
+  ],
+  "bank_points": [
+    "TAN oder Freigabe wurde telefonisch weitergegeben",
+    "vorherige Sicherheitswarnungen können der Bank helfen",
+    "Bank behauptet protokollierte starke Kundenauthentifizierung"
+  ],
+  "missing_evidence": [
+    "exact_app_dialog",
+    "full_authentication_logs",
+    "recipient_creation_log",
+    "recall_attempts"
+  ],
+  "recommended_next_steps": [
+    "Transaktionsmatrix finalisieren und Doppelzählungen ausschließen",
+    "App-Freigabetext und vollständige Banklogs anfordern",
+    "Sperr-, Anzeige- und Strafanzeigenachweise beilegen",
+    "Bankargumente zu § 675v BGB tabellarisch vorwegnehmen",
+    "Ombudsmann- oder Vergleichspfad nur mit dokumentierter Quote nutzen"
+  ],
+  "recommendation": "Klagefähig, aber nicht als Selbstläufer behandeln. Erst Banklogs und App-Dialog sichern; § 675v-Einwand aktiv vorwegnehmen und hilfsweise Vergleichs-/Ombudsmannquote prüfen."
+}

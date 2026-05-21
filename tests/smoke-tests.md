@@ -127,6 +127,20 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 ---
 
+## phishing-vorfall-pruefer
+
+**Eingang:** `testakten/phishing-vorfall-mayer-sparkasse-berlin/`.
+
+**Schritt 1 — Skill:** `/phishing-vorfall-pruefer:phishing-vorfall-pruefen` → erkennt Call-ID-Spoofing, pushTAN, streitige Autorisierung, § 675v-Bankeinwand, Banklogs und Ombudsmann-Quote.
+
+**Schritt 2 — Gate:** `python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/phishing-vorfall-mayer-sparkasse-berlin/08_case_gate_input.json`.
+
+**Erwarteter Output:** `damage_matches_transactions: true`, Erstattung dem Grunde `GRUEN`, grobe Fahrlässigkeit `GELB`, Bankpflichten/Monitoring `GRUEN`, Prozessfreigabe `GELB`. Der Fall darf nicht als sicherer Selbstläufer erscheinen.
+
+**Abbruchkriterium:** Wenn das Plugin allein aus der TAN-Weitergabe automatisch "verloren" macht oder umgekehrt die grobe Fahrlässigkeit ausblendet.
+
+---
+
 ## kanzlei-cowork (rechnungserstellung-rvg)
 
 **Eingang:** Mandatsdatenraum mit Streitwert, Tätigkeitsbeschreibung, Auslagen.

@@ -1,0 +1,26 @@
+{
+  "case_name": "Mayer ./. Sparkasse Berlin",
+  "mandate_reference": "2025-B-0478",
+  "court_reference": "LG Berlin, 4 O 218/25",
+  "claimant": "Peter Mayer",
+  "bank": "Sparkasse Berlin",
+  "iban": "DE89 1005 0000 0478 2395 42",
+  "incident_date": "2025-05-28",
+  "criminal_complaint_date": "2025-05-29",
+  "first_bank_rejection": "2025-06-02",
+  "final_bank_rejection": "2025-06-05",
+  "lawyer_demand": "2025-06-10",
+  "ombudsman_application": "2025-07-01",
+  "ombudsman_proposal": "2025-08-15",
+  "lawsuit_date": "2025-09-15",
+  "damage_amount": "12295.00",
+  "phishing_scenario": {
+    "channel": "Telefon",
+    "spoofed_number": "030-869869869",
+    "alleged_employee": "Thomas Bergmann, Sicherheitsteam der Sparkasse Berlin",
+    "pretext": "angeblich verdächtige Auslandsabbuchungen und Kontosperre",
+    "tan": "487923",
+    "app_wording_claimed_by_customer": "Freigabe für Sicherheitssperre und Transaktionsfreigabe - Mehrere Vorgänge"
+  },
+  "procedural_posture": "Bank lehnt Erstattung ab; Ombudsmann schlägt 70/30 zugunsten Mandant vor; Bank lehnt ab; Klage erhoben."
+}

@@ -1,0 +1,8 @@
+Zeitpunkt,Zahlungsart,Empfaenger_oder_Haendler,Betrag_EUR,Quelle,Anmerkung
+2025-05-28 11:17,Ueberweisung,Digital Services GmbH,4500.00,17_Kontoauszuege.pdf,streitige Online-Banking-Transaktion
+2025-05-28 11:17,Ueberweisung,TechPay Solutions,3200.00,17_Kontoauszuege.pdf,streitige Online-Banking-Transaktion
+2025-05-28 11:18,Lastschriftrueckgabe,Miete,1850.00,17_Kontoauszuege.pdf,Rueckgabe als Schaden erfasst
+2025-05-28 11:18,Lastschriftrueckgabe,Versicherungen gesamt,645.00,17_Kontoauszuege.pdf,Rueckgabe als Schaden erfasst
+2025-05-28 11:19,Apple Pay,MediaMarkt Muenchen,849.00,17_Kontoauszuege.pdf,Wallet-/Kartenvorgang
+2025-05-28 11:19,Apple Pay,Saturn Stuttgart,599.00,17_Kontoauszuege.pdf,Wallet-/Kartenvorgang
+2025-05-28 11:20,Apple Pay,Expert Muenchen,652.00,17_Kontoauszuege.pdf,Wallet-/Kartenvorgang

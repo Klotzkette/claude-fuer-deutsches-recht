@@ -1,0 +1,61 @@
+{
+  "case_name": "Mayer ./. Sparkasse Berlin",
+  "damage_amount": "12295.00",
+  "incident_date": "2025-05-28",
+  "notice_date": "2025-05-28",
+  "immediate_block_call_minutes": 30,
+  "ombudsman_proposal_percent": 70,
+  "transactions": [
+    {
+      "type": "Ueberweisung",
+      "recipient": "Digital Services GmbH",
+      "amount": "4500.00"
+    },
+    {
+      "type": "Ueberweisung",
+      "recipient": "TechPay Solutions",
+      "amount": "3200.00"
+    },
+    {
+      "type": "Lastschriftrueckgabe",
+      "recipient": "Miete",
+      "amount": "1850.00"
+    },
+    {
+      "type": "Lastschriftrueckgabe",
+      "recipient": "Versicherungen gesamt",
+      "amount": "645.00"
+    },
+    {
+      "type": "Apple Pay",
+      "recipient": "MediaMarkt Muenchen",
+      "amount": "849.00"
+    },
+    {
+      "type": "Apple Pay",
+      "recipient": "Saturn Stuttgart",
+      "amount": "599.00"
+    },
+    {
+      "type": "Apple Pay",
+      "recipient": "Expert Muenchen",
+      "amount": "652.00"
+    }
+  ],
+  "factors": {
+    "spoofed_bank_number": true,
+    "tan_shared_by_phone": true,
+    "app_text_ambiguous": true,
+    "app_text_clear_amount_recipient": false,
+    "security_warnings_before": true,
+    "strong_customer_authentication_logged": true,
+    "tan_entry_foreign_tor_ip": true,
+    "account_holder_location_mismatch": true,
+    "bank_rejected_ombudsman": true,
+    "exact_app_dialog": false,
+    "full_authentication_logs": false,
+    "risk_score_thresholds": true,
+    "recipient_creation_log": false,
+    "recall_attempts": false
+  }
+}

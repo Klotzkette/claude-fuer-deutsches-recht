@@ -220,6 +220,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`mittelstand-corporate-ma`](./mittelstand-corporate-ma) | Freistehendes Corporate/M&A-Plugin für mittelständische Kanzleien mit Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreifecheck, CP-Kalender, SPA/APA, W&I, Public M&A, Umwandlungsrecht, StaRUG/Insolvenzplan, Billing, XRechnung/ZUGFeRD, GoBD und Closing Bible. |
 | [`nda-abgleich`](./nda-abgleich) | NDA-Verhandlungshilfe für die empfangende Seite. Modus A: Standard-Destillation aus 1–n NDAs. Modus B: Redlining gegen den eigenen Standard. |
 | [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwälte – agentisch in Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE, USPTO. Stand der Technik, Neuheit (§ 3 PatG, Art. 54 EPÜ), erfinderische Tätigkeit (§ 4 PatG, Art. 56 EPÜ) im Problem-Solution-Approach, Freedom-to-Operate, CPC-/IPC-Klassifikation, INPADOC-Patentfamilie, Recherchebericht. |
+| [`phishing-vorfall-pruefer`](./phishing-vorfall-pruefer) | Freistehender Prüfer für Online-Banking-Phishing: § 675u/§ 675v BGB, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Banklogs, Ombudsmann und Klage. |
 | [`produktrecht`](./produktrecht) | Produktrecht, AGB, Impressum, PAngV, Marketing-Claims. |
 | [`prozessrecht`](./prozessrecht) | Zivil-, Straf- und Verwaltungsprozess, Mahnverfahren, einstweilige Verfügung, Zwangsvollstreckung, Verkehrsunfall. Streitwertgrenzen ab 1.1.2026 angepasst (AG bis 10.000 € nach § 23 Nr. 1 GVG n.F.). |
 | [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono-Beratungsstellen, Mandantenakte, Mandantenbrief. |
@@ -250,8 +251,8 @@ Die Plugins unterscheiden sich darin, wie weit ihre Werkzeugkette über reinen S
 | Reifegrad | Bedeutung | Beispiele |
 |---|---|---|
 | **L1 — skilltext-only** | Skill liefert strukturierte Texte (Schreiben, Schriftsätze, Memos, Gutachten-Skizzen). Keine eigenen Werkzeuge. | Großteil der 24 Fachanwalts-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, …), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`, `jurastudium`. |
-| **L2 — mit Werkzeugen** | Skill ruft Python- oder XLSX-Werkzeuge im Plugin-Ordner auf, die kalkulieren, Dateien bauen oder Vorlagen generieren. | `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` (build_liquiditaetsplan.py); `anlagen-zu-schriftsaetzen` (build_anlagenkonvolut.py); `kanzlei-cowork/rechnungserstellung-rvg` (rvg_gebuehrenrechner.py); `forderungsmanagement-klagewerkstatt` (verzugszins_rechner.py); `aktenaufbereiter-strafrecht` (aktenuebersicht_template.xlsx). |
-| **L3 — mit Tests** | Plugin ist zusätzlich durch einen Smoke-Test in [`tests/smoke-tests.md`](./tests/smoke-tests.md) abgedeckt — Eingang, Kaltstart-Skill, erwarteter Output, Abbruchkriterium. | Aktuell: `liquiditaetsplanung`, `insolvenzrecht`, `fluggastrechte`, `sozialrecht`, `betreuungsrecht`, `berufsrecht-ki-vertragspruefung`, `anlagen-zu-schriftsaetzen`, `forderungsmanagement-klagewerkstatt`, `kanzlei-cowork`. |
+| **L2 — mit Werkzeugen** | Skill ruft Python- oder XLSX-Werkzeuge im Plugin-Ordner auf, die kalkulieren, Dateien bauen oder Vorlagen generieren. | `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` (build_liquiditaetsplan.py); `anlagen-zu-schriftsaetzen` (build_anlagenkonvolut.py); `kanzlei-cowork/rechnungserstellung-rvg` (rvg_gebuehrenrechner.py); `forderungsmanagement-klagewerkstatt` (verzugszins_rechner.py); `phishing-vorfall-pruefer` (phishing_case_gate.py); `aktenaufbereiter-strafrecht` (aktenuebersicht_template.xlsx). |
+| **L3 — mit Tests** | Plugin ist zusätzlich durch einen Smoke-Test in [`tests/smoke-tests.md`](./tests/smoke-tests.md) abgedeckt — Eingang, Kaltstart-Skill, erwarteter Output, Abbruchkriterium. | Aktuell: `liquiditaetsplanung`, `insolvenzrecht`, `fluggastrechte`, `sozialrecht`, `betreuungsrecht`, `berufsrecht-ki-vertragspruefung`, `anlagen-zu-schriftsaetzen`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `kanzlei-cowork`. |
 
 Für einen neuen Plugin gilt: L1 ist der akzeptable Start, L2 wird angestrebt, sobald wiederkehrende Berechnungen oder Dateigenerate sichtbar werden, und L3 wird vor einem Release gesetzt, wenn der Plugin fachlich-substanziell beansprucht wird.
 
@@ -339,7 +340,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.0.5: **78 Plugins, 1000 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
+Stand v3.0.6: **79 Plugins, 1001 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
 
 ### Materielle Rechtsgebiete
 
@@ -348,7 +349,7 @@ Stand v3.0.5: **78 Plugins, 1000 Skills**. Abgedeckt sind klassische Mandantenpr
 - **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `fachanwalt-internationales-wirtschaftsrecht`
 - **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `fachanwalt-bank-kapitalmarktrecht`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
 - **Insolvenz & Sanierung** – `insolvenzrecht` (Gläubiger/Schuldner), `insolvenzverwaltung` (Verwalter-Sicht, § 270d, § 15b, § 129 ff.), `zwangsverwaltung-zvg` (ZVG-Verwalter, § 155 Verteilungsplan), `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `fortbestehensprognose`, `fachanwalt-insolvenz-sanierungsrecht`
-- **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
+- **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
 - **Steuerrecht** – `steuerrecht-kanzlei`, `fachanwalt-steuerrecht`, `steuerberater-werkzeuge` (USt-Voranmeldung, Korrektur § 153 AO)
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafbefehl-verteidiger`, `verkehrsowi-verteidiger`
 - **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `fachanwalt-vergaberecht`
