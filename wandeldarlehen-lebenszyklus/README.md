@@ -12,20 +12,25 @@ Die vollständige Beispielakte liegt unter [`testakten/wandeldarlehen-beispielca
 
 ### Einzelne Dateien direkt öffnen
 
+Tipp: Bei DOCX/XLSX rendert GitHub keine lesbare Vorschau. Daher liegt zu jeder Vertrags- oder Tabellendatei eine `.md`-Vorschau daneben, die auf GitHub direkt lesbar ist. Maßgeblich bleibt jeweils das Original.
+
 | Datei | Inhalt |
 |---|---|
 | [README.md](../testakten/wandeldarlehen-beispielcase/README.md) | Überblick Sonnenglas UG / Northstar Pre-Seed Partners, Parteien, Konditionen |
-| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) | Bilingualer Vertrag DE/EN, zweispaltig |
-| [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) | Einsprachige Vertragsfassung DE |
+| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.md](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.md) | Markdown-Vorschau des bilingualen Vertrags (DE/EN) |
+| [Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-bilingual.docx) | Bilingualer Vertrag DE/EN, zweispaltig (Original) |
 | [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.md) | Markdown-Vorschau des einsprachigen Vertrags |
-| [Cap-Table-Pre-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Pre-Money.xlsx) | Cap-Table vor Wandlung |
-| [Cap-Table-Post-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Post-Money.xlsx) | Cap-Table nach Seed-Runde und Wandlung |
-| [Wandlungserklaerung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.docx) | Muster-Wandlungserklärung Northstar an Sonnenglas |
+| [Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx](../testakten/wandeldarlehen-beispielcase/Wandeldarlehen-Sonnenglas-Northstar-nur-deutsch.docx) | Einsprachige Vertragsfassung DE (Original) |
+| [Cap-Table-Pre-Money.md](../testakten/wandeldarlehen-beispielcase/Cap-Table-Pre-Money.md) | Markdown-Vorschau Cap-Table vor Wandlung |
+| [Cap-Table-Pre-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Pre-Money.xlsx) | Cap-Table vor Wandlung (Original) |
+| [Cap-Table-Post-Money.md](../testakten/wandeldarlehen-beispielcase/Cap-Table-Post-Money.md) | Markdown-Vorschau Cap-Table nach Wandlung |
+| [Cap-Table-Post-Money.xlsx](../testakten/wandeldarlehen-beispielcase/Cap-Table-Post-Money.xlsx) | Cap-Table nach Seed-Runde und Wandlung (Original) |
 | [Wandlungserklaerung-Muster.md](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.md) | Markdown-Vorschau der Wandlungserklärung |
-| [Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) | Beschluss über Kapitalerhöhung gegen Sacheinlage |
+| [Wandlungserklaerung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Wandlungserklaerung-Muster.docx) | Muster-Wandlungserklärung Northstar an Sonnenglas (Original) |
 | [Gesellschafterbeschluss-Kapitalerhoehung-Muster.md](../testakten/wandeldarlehen-beispielcase/Gesellschafterbeschluss-Kapitalerhoehung-Muster.md) | Markdown-Vorschau des Beschlusses |
-| [Notar-Paket-Inhaltsverzeichnis.docx](../testakten/wandeldarlehen-beispielcase/Notar-Paket-Inhaltsverzeichnis.docx) | Inhaltsverzeichnis aller Notar-Unterlagen |
+| [Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx](../testakten/wandeldarlehen-beispielcase/Gesellschafterbeschluss-Kapitalerhoehung-Muster.docx) | Beschluss über Kapitalerhöhung gegen Sacheinlage (Original) |
 | [Notar-Paket-Inhaltsverzeichnis.md](../testakten/wandeldarlehen-beispielcase/Notar-Paket-Inhaltsverzeichnis.md) | Markdown-Vorschau Notar-Paket |
+| [Notar-Paket-Inhaltsverzeichnis.docx](../testakten/wandeldarlehen-beispielcase/Notar-Paket-Inhaltsverzeichnis.docx) | Inhaltsverzeichnis aller Notar-Unterlagen (Original) |
 
 ## Lebenszyklus-Visualisierung
 

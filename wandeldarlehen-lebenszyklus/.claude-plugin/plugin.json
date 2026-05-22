@@ -1,7 +1,7 @@
 {
   "name": "wandeldarlehen-lebenszyklus",
   "displayName": "Wandeldarlehen-Lebenszyklus (Erstellung bis Cap-Table)",
-  "version": "4.5.0",
+  "version": "4.6.0",
   "description": "Begleitet den vollstaendigen Lebenszyklus eines Wandeldarlehens fuer GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungspruefung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket.",
   "author": {
     "name": "Klotzkette"

@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-insolvenz-sanierungsrecht",
-  "version": "4.5.0",
+  "version": "4.6.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Glaeubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-kanzlei.",
   "license": "Apache-2.0 OR MIT",
   "author": {

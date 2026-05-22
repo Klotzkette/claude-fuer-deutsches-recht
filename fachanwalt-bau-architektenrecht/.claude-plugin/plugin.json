@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-bau-architektenrecht",
-  "version": "4.5.0",
+  "version": "4.6.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {

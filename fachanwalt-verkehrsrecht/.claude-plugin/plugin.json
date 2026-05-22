@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-verkehrsrecht",
-  "version": "4.5.0",
+  "version": "4.6.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bussgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {
