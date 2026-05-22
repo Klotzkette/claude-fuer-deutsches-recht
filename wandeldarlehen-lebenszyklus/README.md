@@ -10,9 +10,7 @@ https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/downlo
 
 ## Testakte
 
-```
-https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip
-```
+[testakte-wandeldarlehen-beispielcase.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip)
 
 Enthält: bilinguale und einsprachige Vertragsfassung (Sonnenglas UG / Northstar Pre-Seed Partners), Pre-Money- und Post-Money-Cap-Tables, Wandlungserklärung, Gesellschafterbeschluss, Notar-Paket-Inhaltsverzeichnis.
 
