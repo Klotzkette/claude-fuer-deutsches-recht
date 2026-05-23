@@ -68,7 +68,7 @@ Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Per
 - **Abmahnungsfrist** wie gesetzt
 - **Einstweilige Verfügung** Dringlichkeit ein Monat ab Kenntnis (Münchener Rechtsprechung)
 - **Hauptsacheklage nach EV** § 926 ZPO Aufforderung
-- **DSA-Beschwerde Art. 16 DSA** (NetzDG aufgehoben 14.05.2024)
+- **DSA-Beschwerde Art. 16 DSA** (NetzDG überwiegend außer Kraft seit 14.05.2024; Restvorschriften für Altfälle vor 17.02.2024 bleiben)
 
 ### Frage 7 — Wirtschaftliche Verhältnisse?
 
@@ -119,7 +119,7 @@ Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Per
 - KUG §§ 22 23
 - BGB §§ 823 1004
 - LPG (jeweils landesrechtlich)
-- DSA DDG (DDG seit 14.05.2024 ersetzt TMG; NetzDG aufgehoben)
+- DSA DDG (DDG seit 14.05.2024 ersetzt TMG; NetzDG überwiegend außer Kraft — Restvorschriften für Altfälle vor 17.02.2024)
 - BGH I. Zivilsenat VI. Zivilsenat
 - Schricker/Loewenheim UrhG
 - Soehring/Hoehne Presserecht

@@ -31,7 +31,7 @@ description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen No
 - Pressefreiheit und Gegendarstellung
 - Recht am eigenen Bild bei Bildveröffentlichung
 - Persoenlichkeitsrecht und Äußerungsrecht
-- Onlineplattformhaftung DSA / DDG (NetzDG aufgehoben 14.05.2024 durch Digitale-Dienste-Gesetz)
+- Onlineplattformhaftung DSA / DDG (NetzDG überwiegend außer Kraft seit 14.05.2024 durch Digitale-Dienste-Gesetz — Restvorschriften für Altfälle/Bußgeldverfahren vor 17.02.2024 bestehen fort)
 - Rundfunkrecht und Streaming
 
 ## Fristen
