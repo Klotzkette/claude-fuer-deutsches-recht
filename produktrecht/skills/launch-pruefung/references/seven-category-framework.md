@@ -94,7 +94,7 @@ wenn Daten fließen, ist der Ausfall des Drittanbieters unser Problem (Verfügba
 
 Die einschlägigen Regulierungsregime für den Sektor des Produkts sind zu recherchieren (z. B.
 Gesundheit: ProdSichG/GPSR, MDR, ProdHaftG; Finanzdienstleistungen: KWG, WpHG, MiFIR; Kinder
-und Schüler: DSGVO Art. 8, § 11 TTDSG; Versicherungen: VAG; Telekommunikation: TKG; Arbeitsrecht:
+und Schüler: DSGVO Art. 8, § 11 TDDDG (vormals TTDSG, seit Mai 2024); Versicherungen: VAG; Telekommunikation: TKG; Arbeitsrecht:
 ArbSchG, ArbZG; Werbung: UWG, HWG, LMIV, Health-Claims-VO), Zielgruppe und Rechtsordnungen
 (Deutschland, EU-Mitgliedstaaten, UK und sonstige Regionen, die das Produkt erreicht). Außerdem
 Barrierefreiheit (BFSG, European Accessibility Act) und Ausfuhrkontrolle (AWV, Dual-Use-VO) prüfen,

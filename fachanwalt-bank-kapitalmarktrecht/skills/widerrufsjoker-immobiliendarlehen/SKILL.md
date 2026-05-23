@@ -213,6 +213,6 @@ Mit freundlichen Grüßen
 
 - BGB §§ 357 491 495 355
 - VerbrKrG (alt)
-- BGB-InfoV
+- BGB-InfoV (historisch — durch VRRL-UmsetzungsG zum 13.6.2014 abgeschafft, Anlagen heute zu §§ 312d ff. BGB / Art. 247 EGBGB; fuer Altvertraege weiter relevant)
 - BGH XI. Zivilsenat — Widerrufsjoker-Linie
 - Bülow/Artz Verbraucherkredit

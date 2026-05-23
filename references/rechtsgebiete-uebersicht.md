@@ -3,7 +3,7 @@
 | Verzeichnis | Inhalt | Wichtigste Normen |
 | --- | --- | --- |
 | `arbeitsrecht` | Individual- und kollektives Arbeitsrecht | BGB §§ 611a ff., KSchG, TzBfG, BUrlG, EFZG, AGG, BetrVG, ArbZG, MuSchG, BEEG, NachwG, AÜG |
-| `datenschutzrecht` | DSGVO, BDSG, TTDSG, Beschäftigtendatenschutz | DSGVO, BDSG, TTDSG, KUG |
+| `datenschutzrecht` | DSGVO, BDSG, TDDDG, Beschäftigtendatenschutz | DSGVO, BDSG, TDDDG (vormals TTDSG), KUG |
 | `gesellschaftsrecht` | GmbH, AG, GbR, OHG, KG, M&A | GmbHG, AktG, HGB, MoPeG, UmwG, WpÜG |
 | `gewerblicher-rechtsschutz` | Marken, Designs, Patente, Urheberrecht, Wettbewerb | MarkenG, DesignG, PatG, UrhG, UWG, GeschGehG |
 | `jurastudium` | Skills für Studium und Referendariat | – |
