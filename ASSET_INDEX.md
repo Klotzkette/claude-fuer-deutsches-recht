@@ -100,7 +100,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `zitierweise-deutsches-recht` | Deutsche juristische Hauszitierweise v3.0. Rspr. mit Az.-Marker Datum Aktenzeichen Fundstelle Rn. Bearbeiter-Kommentar mit in: und Einzelautorenkommentar ohne in:. Verlag bei Monographien. Diss. und Habil. mit Hochschulort. Reihenfolge erst Gerichtshierarchie dann Chronologie oder Relevanz. Palandt heisst seit 2022 Grueneberg. |
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
 
-## Fallakten-Assets (28 Stück)
+## Fallakten-Assets (43 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -109,6 +109,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | Asset | Inhalt |
 | --- | --- |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | siehe `testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen/` |
+| `testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip` | siehe `testakten/bav-strategie-konzern-meissner-rheinwerk-ag/` |
+| `testakte-bebauungsplan-augsburg-bahnhofsareal.zip` | siehe `testakten/bebauungsplan-augsburg-bahnhofsareal/` |
+| `testakte-befristungskontrollklage-vogt-stadtwerke.zip` | siehe `testakten/befristungskontrollklage-vogt-stadtwerke/` |
 | `testakte-beispielakte-edelholz-berlin.zip` | siehe `testakten/beispielakte-edelholz-berlin/` |
 | `testakte-betreuung-hildegard-sauer.zip` | siehe `testakten/betreuung-hildegard-sauer/` |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip` | siehe `testakten/betreuung-schmalfeld-kontodaten-vertraege/` |
@@ -119,23 +122,35 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-fluggastrechte-familie-braeutigam.zip` | siehe `testakten/fluggastrechte-familie-braeutigam/` |
 | `testakte-fortbestehensprognose-paragrafix-gmbh.zip` | siehe `testakten/fortbestehensprognose-paragrafix-gmbh/` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | siehe `testakten/geldwaesche-aml-kyc-musterholding/` |
+| `testakte-gesellschaftsgruender-streit-roeschen-tech.zip` | siehe `testakten/gesellschaftsgruender-streit-roeschen-tech/` |
 | `testakte-grosskanzlei-corporate-ma-datenraum.zip` | siehe `testakten/grosskanzlei-corporate-ma-datenraum/` |
-| `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip` | siehe `testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/` |
+| `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | siehe `testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/` |
 | `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip` | siehe `testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/` |
-| `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
+| `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip` | siehe `testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/` |
+| `testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip` | siehe `testakten/insolvenzverwaltung-nordlicht-handels-kiel/` |
 | `testakte-jveg-zeugin-berger-lg-tuebingen.zip` | siehe `testakten/jveg-zeugin-berger-lg-tuebingen/` |
 | `testakte-kanzlei-allgemein-alltag.zip` | siehe `testakten/kanzlei-allgemein-alltag/` |
+| `testakte-ki-richtlinie-musterkanzlei.zip` | siehe `testakten/ki-richtlinie-musterkanzlei/` |
+| `testakte-krisenfrueherkennung-starug-vier-varianten.zip` | siehe `testakten/krisenfrueherkennung-starug-vier-varianten/` |
+| `testakte-kuendigungsschutzklage-weber-techlogix.zip` | siehe `testakten/kuendigungsschutzklage-weber-techlogix/` |
+| `testakte-legistik-pflichtpostfach.zip` | siehe `testakten/legistik-pflichtpostfach/` |
+| `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip` | siehe `testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
+| `testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip` | siehe `testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/` |
+| `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip` | siehe `testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/` |
+| `testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip` | siehe `testakten/schulungsakte-lumen-studios-insolvenz-strafrecht/` |
+| `testakte-solis-vision-x-smartglasses.zip` | siehe `testakten/solis-vision-x-smartglasses/` |
 | `testakte-sozialrecht-rollstuhl-tannenberg.zip` | siehe `testakten/sozialrecht-rollstuhl-tannenberg/` |
 | `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip` | siehe `testakten/strafbefehl-ladendiebstahl-fahrerflucht-musterakte/` |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip` | siehe `testakten/umweltrecht-industrieanlage-genehmigung/` |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | siehe `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen/` |
 | `testakte-verkehrsowi-rotlicht-tempo-musterakte.zip` | siehe `testakten/verkehrsowi-rotlicht-tempo-musterakte/` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | siehe `testakten/vertragsausfueller-bsag-kiosk-huckelriede/` |
+| `testakte-wandeldarlehen-beispielcase.zip` | siehe `testakten/wandeldarlehen-beispielcase/` |
 | `testakte-zwangsverwaltung-friedrichshoefe-berlin.zip` | siehe `testakten/zwangsverwaltung-friedrichshoefe-berlin/` |
-| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | siehe `testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/` |
 | `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip` | siehe `testakten/zwangsverwaltung-zvg-mietshaus-parkstrasse/` |
+| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip` | siehe `testakten/zwangsverwaltung-zvg-versteigerung-eppendorf-altbau/` |
 
 ## Manifest-Asset (1 Stück)
 
@@ -148,9 +163,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
 | plugin | 80 | |
-| fallakte | 28 | |
+| fallakte | 43 | |
 | manifest | 1 | |
-| **gesamt** | | **109** |
+| **gesamt** | | **124** |
 
 ## Verifikation eines Release
 
