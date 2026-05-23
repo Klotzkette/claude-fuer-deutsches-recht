@@ -122,19 +122,22 @@ Die vom Beklagten an den Klaeger zu erstattenden Kosten werden auf
 Basiszinssatz seit Rechtshaengigkeit (Paragraf 104 I 2 ZPO) zu zahlen.
 ```
 
-### Erledigungsbeschluss Paragraf 91a ZPO
+### Erledigungsbeschluss Paragraf 91a ZPO — **nur bei uebereinstimmender Erledigungserklaerung**
+
+Der Erledigungsbeschluss nach Paragraf 91a ZPO ergeht **nur**, wenn **beide Parteien** den Rechtsstreit uebereinstimmend fuer erledigt erklaert haben. Er enthaelt **nur die Kostenentscheidung**.
 
 ```
 Die Kosten des Rechtsstreits werden gegeneinander aufgehoben
 (Paragraf 91a I 1 ZPO).
 ```
 
-oder bei einseitiger Erledigungserklaerung mit folgender Klageabweisung:
+oder z.B.
 
 ```
-Es wird festgestellt, dass die Hauptsache erledigt ist.
-Die Kosten des Rechtsstreits traegt der Beklagte.
+Die Kosten des Rechtsstreits traegt der Beklagte (Paragraf 91a I 1 ZPO).
 ```
+
+> **Achtung — abgrenzende Konstellation**: Bei **einseitiger** Erledigungserklaerung, der die Gegenseite **widerspricht**, ist der Streitgegenstand gewandelt zur Feststellung der Erledigung. Darueber wird **durch Urteil** entschieden (nicht durch Beschluss nach Paragraf 91a ZPO), mit Tenor „Es wird festgestellt, dass die Hauptsache erledigt ist" und voller Kostenentscheidung nach Paragraf 91 ZPO. Tenor und Urteilsbegruendung gehoeren dann nicht in diesen Beschluss-Skill, sondern in `tenor-bauen-zivil` und `entscheidungsgruende-zivil-schreiben`.
 
 ## 4) Begruendungsmuster
 
