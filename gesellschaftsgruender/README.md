@@ -65,7 +65,7 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
      Schlichtung durch Beirat
 ```
 
-## Enthaltene Skills (34)
+## Enthaltene Skills (36)
 
 ### Phase 0 — Intake und Rechtsformwahl (5 Skills)
 
@@ -101,6 +101,8 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
 | `gesellschaftsgruender-gf-meeting-templates` | Tagesordnung Einladung Protokoll Umlauf-Beschluss bilingual |
 | `gesellschaftsgruender-beirat-advisory-board` | Beirat Advisory Board Beiratsordnung Schlichtungs-Funktion |
 | `gesellschaftsgruender-bilinguale-dokumente` | Deutsch und Englisch parallel Vorrang-Klausel Uebersetzungs-Fallen |
+| `gesellschaftsgruender-klauselkatalog-bilingual` | Volltextliche DE/EN-Klauseln Stimmbindung Golden-Share-StaRUG-Veto BSG-feste Sperrminoritaet Drag Tag Liquidation Preference Anti-Dilution Vesting Bad-Leaver Koppelung Wettbewerbsverbot |
+| `gesellschaftsgruender-intake-decision-tree` | Mermaid-Decision-Tree fuer Intake conditional logic Knoten Trigger-Events Workflow-Engine-Architektur |
 
 ### Phase C — Notar und Handelsregister (3 Skills)
 
