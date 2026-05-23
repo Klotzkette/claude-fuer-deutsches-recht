@@ -34,7 +34,7 @@ description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 S
 ## Prüfschema
 
 ```
-1. Aufenthaltsdauer (fuenf Jahre Regelfall; drei-Jahres-Verkuerzung § 10 Abs. 3 StAG a.F. nur noch fuer Altantraege vor 30.10.2025)
+1. Aufenthaltsdauer (fuenf Jahre Regelfall; § 10 Abs. 3 StAG a.F. zum 30.10.2025 ersatzlos gestrichen, keine Übergangsregelung — auf nicht beschiedene Altantraege findet die neue Rechtslage Anwendung)
 2. Aufenthaltstitel (unbefristet oder Freizuegigkeit)
 3. Sprache B1 (Zertifikat von BAMF anerkannt)
 4. Einbuergerungstest § 10 Abs. 1 Nr. 7 StAG bestanden

@@ -20,7 +20,7 @@ description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typisch
 | Konzessionen | KonzVgV |
 | Bauleistungen oberschwellig | VgV-Baubereich VOB-A Abschnitt 2 |
 | Unterschwellig | UVgO (Unterschwellenvergabeordnung) VOB-A Abschnitt 1 |
-| EU-Schwellenwerte | Delegierte Verordnungen (alle zwei Jahre); Werte 2024/2025: Liefer-/Dienstleistung Kommunen EUR 221000 Bund EUR 143000 Sektoren EUR 443000 Bau EUR 5538000 |
+| EU-Schwellenwerte | Delegierte Verordnungen (alle zwei Jahre); ab 01.01.2026 (DelVO (EU) 2025/2150/2151/2152): Liefer-/Dienstleistung Kommunen EUR 216000 Bund EUR 140000 Sektoren EUR 432000 Bau und Konzessionen EUR 5404000; Soziale/besondere Dienstleistungen unverändert EUR 750000 (Bund) bzw. EUR 1000000 (Sektoren) |
 | Verteidigung und Sicherheit | VSVgV |
 | EU-RL | RL 2014/24 (allgemein) RL 2014/25 (Sektoren) RL 2014/23 (Konzessionen) RL 2007/66 Rechtsmittel |
 
