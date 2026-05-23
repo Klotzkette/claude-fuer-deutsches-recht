@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-steuerrecht-einspruch-finanzamt
-description: Einspruch gegen Steuerbescheid nach § 347 AO. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO. Antrag auf Aussetzung der Vollziehung § 361 AO bei ernstlichen Zweifeln. Begruendung Rechtsverletzung Rechenfehler offensichtliche Unrichtigkeit § 129 AO. Schreibvorlage Adressat Bezeichnung Aktenzeichen Bescheid Datum Antrag Begruendung. Pruefe Zustellungsdatum Drei-Tage-Fiktion § 122 Abs. 2 AO Wochenenden Feiertage. Schnittstelle zitierweise-deutsches-recht und kanzlei-cowork.
+description: Einspruch gegen Steuerbescheid nach § 347 AO. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO. Antrag auf Aussetzung der Vollziehung § 361 AO bei ernstlichen Zweifeln. Begruendung Rechtsverletzung Rechenfehler offensichtliche Unrichtigkeit § 129 AO. Schreibvorlage Adressat Bezeichnung Aktenzeichen Bescheid Datum Antrag Begruendung. Pruefe Zustellungsdatum Vier-Tage-Fiktion § 122 Abs. 2 AO (seit 01.01.2025 PostModG) Wochenenden Feiertage. Schnittstelle zitierweise-deutsches-recht und kanzlei-cowork.
 ---
 
 # Einspruch gegen Steuerbescheid (§ 347 AO)
@@ -16,7 +16,7 @@ description: Einspruch gegen Steuerbescheid nach § 347 AO. Frist ein Monat ab B
 ## Anspruchsgrundlagen und Verfahrensrecht
 
 - **Einspruch:** § 347 Abs. 1 Nr. 1 AO — Einspruch ist statthaft gegen Verwaltungsakte in Abgabenangelegenheiten.
-- **Frist:** § 355 Abs. 1 AO — ein Monat ab Bekanntgabe. Bekanntgabe bei Postzustellung nach § 122 Abs. 2 Nr. 1 AO am dritten Tag nach Aufgabe zur Post; fällt der Drei-Tage-Tag auf Samstag, Sonntag oder Feiertag, verschiebt er sich auf den nächsten Werktag (BFH, Urt. v. 14.10.2003 – Az. IX R 68/98, BStBl. II 2003, 898).
+- **Frist:** § 355 Abs. 1 AO — ein Monat ab Bekanntgabe. Bekanntgabe bei Postzustellung nach § 122 Abs. 2 Nr. 1 AO **am vierten Tag** nach Aufgabe zur Post (seit 01.01.2025 durch Postrechtsmodernisierungsgesetz PostModG geändert; vorher dritter Tag); fällt der Vier-Tage-Tag auf Samstag, Sonntag oder Feiertag, verschiebt er sich auf den nächsten Werktag.
 - **Form:** § 357 Abs. 1 AO — schriftlich, elektronisch nach § 87a AO oder zur Niederschrift; ausdrückliche Bezeichnung als „Einspruch" nicht erforderlich, wohl aber Erkennbarkeit (BFH, Urt. v. 20.11.2008 – Az. III R 66/07, BFH/NV 2009, 884).
 - **AdV:** § 361 Abs. 2 S. 2 AO — auf Antrag, wenn ernstliche Zweifel an der Rechtmäßigkeit bestehen oder die Vollziehung eine unbillige Härte zur Folge hätte. Definition „ernstliche Zweifel" siehe BFH, Beschl. v. 10.02.1967 – Az. III B 9/66, BStBl. III 1967, 182 (st. Rspr.).
 - **Verböserungsverbot — nicht absolut:** § 367 Abs. 2 S. 2 AO; bei beabsichtigter Verböserung Hinweis und Gelegenheit zur Rücknahme.
@@ -34,7 +34,7 @@ description: Einspruch gegen Steuerbescheid nach § 347 AO. Frist ein Monat ab B
    - Verwaltungsakt in Abgabenangelegenheit?
 2. Form § 357 AO
    - Schriftlich oder elektronisch über § 87a AO?
-3. Frist § 355 AO + Bekanntgabefiktion § 122 Abs. 2 AO
+3. Frist § 355 AO + Bekanntgabefiktion § 122 Abs. 2 AO (vier Tage seit 01.01.2025)
    - Bekanntgabedatum + 1 Monat (Wochenend-/Feiertagsregel beachten).
 4. Beschwer
    - Steuerpflichtiger durch Bescheid in seinen Rechten beeinträchtigt?

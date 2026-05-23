@@ -151,7 +151,7 @@ Neue Direktzahlungs-Komponente — freiwillig zusätzlich:
 
 ### Widerspruchsfrist
 
-- **Ein Monat** ab Bekanntgabe (Drei-Tages-Fiktion § 41 VwVfG)
+- **Ein Monat** ab Bekanntgabe (Vier-Tage-Fiktion § 41 VwVfG seit 01.01.2025 PostModG; vorher drei Tage)
 - **Ein Jahr** bei fehlender Rechtsbehelfsbelehrung
 
 ### Widerspruch-Inhalt

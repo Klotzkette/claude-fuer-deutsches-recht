@@ -8,7 +8,7 @@ description: "Aufklaerungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risi
 ## Kaltstart-Rückfragen
 
 1. Welcher Eingriff war Gegenstand der Aufklärung (Operation, invasive Diagnostik, Medikamentengabe, Off-Label-Use)?
-2. Wann erfolgte die Aufklärung — bei stationären Eingriffen Aufklärung am Vorabend nicht ausreichend bei elektiven Eingriffen (BGH VI ZR 320/01, Urt. v. 14.06.1994, ständige Rspr.)?
+2. Wann erfolgte die Aufklärung — bei stationären Eingriffen Aufklärung am Vorabend nicht ausreichend bei elektiven Eingriffen (BGH VI ZR 178/93 Urt. v. 14.06.1994; ständige Rspr.; ergaenzend BGH VI ZR 375/21 Urt. v. 20.12.2022: keine zwingende Sperrfrist zwischen Aufklärung und Einwilligung)?
 3. Wer hat aufgeklärt — Operateur, anderer Arzt, qualifizierte Mitarbeiter? Lagen Aufklärungsbögen unterschrieben vor?
 4. Welche Risiken wurden besprochen oder unterlassen — eingriffsspezifische Risiken, Alternativen, Nachbehandlung?
 5. Welcher Schaden ist eingetreten und ist er von der unterlassenen Aufklärung umfasst?
