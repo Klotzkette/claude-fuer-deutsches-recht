@@ -12,7 +12,25 @@ Kein Rechtsberatungs-Tool. Mechanische Tatbestandsprüfung mit ständigen Warnhi
 
 ## Direkt-Download
 
-[bereicherungs-und-anfechtungsrecht-pruefer.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip)
+| Plugin | Direkt-Download |
+| --- | --- |
+| bereicherungs-und-anfechtungsrecht-pruefer | [bereicherungs-und-anfechtungsrecht-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip) |
+
+## Installation
+
+1. Claude Code oder Claude Desktop/Cowork öffnen.
+2. **Customize Plugins** bzw. **Personal plugins** wählen.
+3. **Install from .zip** und `bereicherungs-und-anfechtungsrecht-pruefer.zip` hochladen.
+4. Mit einem konkreten Auftrag starten, zum Beispiel: `Prüfe eine Insolvenzanfechtung gegen einen Lieferanten.`
+
+Alternativ via Marketplace:
+
+```
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install bereicherungs-und-anfechtungsrecht-pruefer@claude-fuer-deutsches-recht
+```
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
 
 ---
 

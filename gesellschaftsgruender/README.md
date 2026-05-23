@@ -2,6 +2,34 @@
 
 Freistehendes Plugin, das durch die Gruendung einer deutschen Gesellschaft fuehrt — von der Rechtsformwahl ueber Cap Table, Class-Shares, Notar, Handelsregister, Behoerdenanmeldungen bis hin zu den ersten 100 Tagen Geschaeftsfuehrer-Pflichten und Streit-Eskalationen.
 
+## Direkt-Download
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| gesellschaftsgruender | [gesellschaftsgruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsgruender.zip) |
+
+## Installation
+
+1. Claude Code oder Claude Desktop/Cowork oeffnen.
+2. **Customize Plugins** bzw. **Personal plugins** waehlen.
+3. **Install from .zip** und `gesellschaftsgruender.zip` hochladen.
+4. Mit einem konkreten Auftrag starten, zum Beispiel: `Starte die Gesellschaftsgruendung. Rechtsform: GmbH. Drei Gruender, zwei davon im Ausland.`
+
+Alternativ via Marketplace:
+
+```
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install gesellschaftsgruender@claude-fuer-deutsches-recht
+```
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` enthalten.
+
+## Schulungsakte (Direkt-Download)
+
+- **Streit Roeschen Tech GmbH i.Gr.** (Drei-Gruender-Streit mit Vesting/SHA/Class-Shares): [testakten/gesellschaftsgruender-streit-roeschen-tech/](../testakten/gesellschaftsgruender-streit-roeschen-tech/) -> [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip)
+
+Details zur Schulungsakte stehen weiter unten.
+
 ## Mandatsperspektive
 
 **Du als Anwalt, Steuerberater, Gruender oder Notarberater.** Das Plugin

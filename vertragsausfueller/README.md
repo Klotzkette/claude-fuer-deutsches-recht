@@ -4,11 +4,34 @@ Freistehendes Cowork-Plugin für workflowgestütztes Ausfüllen von Vertragsvorl
 
 Der BSAG-Mietvertrag und das Term Sheet Kiosk Huckelriede sind als Beispielakte eingebunden.
 
-## Direkt herunterladen
+## Direkt-Download
 
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vertragsausfueller.zip)
-- [BSAG-Beispielakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip)
+| Plugin | Direkt-Download |
+| --- | --- |
+| vertragsausfueller | [vertragsausfueller.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/vertragsausfueller.zip) |
+
+Zusatzmaterial:
 - [Vorschau lokal öffnen](./assets/vorschau/index.html)
+
+## Installation
+
+1. Claude Code oder Claude Desktop/Cowork öffnen.
+2. **Customize Plugins** bzw. **Personal plugins** wählen.
+3. **Install from .zip** und `vertragsausfueller.zip` hochladen.
+4. Mit einem konkreten Auftrag starten, zum Beispiel: `Fülle diesen Mietvertrag mit den Daten aus dem Term Sheet aus.`
+
+Alternativ via Marketplace:
+
+```
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install vertragsausfueller@claude-fuer-deutsches-recht
+```
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/` und `assets/` enthalten.
+
+## Beispielakte
+
+- **BSAG Mietvertrag Kiosk Huckelriede** (Word-Vorlage plus Term Sheet, Mapping auf Vertragsfelder): [testakten/vertragsausfueller-bsag-kiosk-huckelriede/](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/) -> [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip)
 
 ## Workflow
 

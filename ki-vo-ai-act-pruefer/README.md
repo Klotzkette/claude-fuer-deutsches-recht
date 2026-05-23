@@ -8,7 +8,25 @@ Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-Syste
 
 ## Direkt-Download
 
-[ki-vo-ai-act-pruefer.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-vo-ai-act-pruefer.zip)
+| Plugin | Direkt-Download |
+| --- | --- |
+| ki-vo-ai-act-pruefer | [ki-vo-ai-act-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-vo-ai-act-pruefer.zip) |
+
+## Installation
+
+1. Claude Code oder Claude Desktop/Cowork öffnen.
+2. **Customize Plugins** bzw. **Personal plugins** wählen.
+3. **Install from .zip** und `ki-vo-ai-act-pruefer.zip` hochladen.
+4. Mit einem konkreten Auftrag starten, zum Beispiel: `Prüfe ein KI-System für Bewerbungsauswahl nach der KI-VO.`
+
+Alternativ via Marketplace:
+
+```
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install ki-vo-ai-act-pruefer@claude-fuer-deutsches-recht
+```
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
 
 ---
 

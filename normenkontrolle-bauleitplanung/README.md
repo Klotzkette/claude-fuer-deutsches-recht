@@ -2,6 +2,32 @@
 
 Freistehendes Plugin für die Prüfung und gerichtliche Anfechtung von **Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften** im Normenkontrollverfahren nach § 47 VwGO vor dem **Bayerischen Verwaltungsgerichtshof (BayVGH)** und anderen Oberverwaltungsgerichten.
 
+## Direkt-Download
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| normenkontrolle-bauleitplanung | [normenkontrolle-bauleitplanung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/normenkontrolle-bauleitplanung.zip) |
+
+## Installation
+
+1. Claude Code oder Claude Desktop/Cowork öffnen.
+2. **Customize Plugins** bzw. **Personal plugins** wählen.
+3. **Install from .zip** und `normenkontrolle-bauleitplanung.zip` hochladen.
+4. Mit einem konkreten Auftrag starten, zum Beispiel: `Prüfe diesen Bebauungsplan auf formelle und materielle Fehler.`
+
+Alternativ via Marketplace:
+
+```
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install normenkontrolle-bauleitplanung@claude-fuer-deutsches-recht
+```
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
+
+## Testakte
+
+- **Bebauungsplan Augsburg Bahnhofsareal** (Realer BayVGH-Mandantenstil mit Antragsbefugnis, Abwägungsfehler, Artenschutz): [testakten/bebauungsplan-augsburg-bahnhofsareal/](../testakten/bebauungsplan-augsburg-bahnhofsareal/) -> [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal.zip)
+
 ## Mandatsperspektive
 
 Anwältin der Antragstellerseite — Eigentümer, Nachbarn, anerkannte Naturschutzverbände, Gemeinden gegen übergeordnete Planung. Schwerpunkt: aus der angegriffenen Satzung die formellen und materiellen Fehler herausarbeiten und vor dem OVG/VGH zur Unwirksamkeitserklärung bringen.

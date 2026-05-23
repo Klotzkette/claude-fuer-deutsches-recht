@@ -2,6 +2,28 @@
 
 Freistehendes Plugin für Studierende der Rechtswissenschaft, das durch das Erstellen einer **Hausarbeit oder Seminararbeit lernfördernd** hindurchführt. Es liefert **keine fertigen Lösungen**, sondern stellt Fragen, gibt Strukturen, Methoden-Hinweise und Zitierweise — Du subsumierst selbst.
 
+## Direkt-Download
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| hausarbeitenmacher | [hausarbeitenmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hausarbeitenmacher.zip) |
+
+## Installation
+
+1. Claude Code oder Claude Desktop/Cowork öffnen.
+2. **Customize Plugins** bzw. **Personal plugins** wählen.
+3. **Install from .zip** und `hausarbeitenmacher.zip` hochladen.
+4. Mit einer konkreten Aufgabenstellung starten, zum Beispiel: `Hilf mir bei einer Hausarbeit. Sachverhalt folgt.`
+
+Alternativ via Marketplace:
+
+```
+/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
+/plugin install hausarbeitenmacher@claude-fuer-deutsches-recht
+```
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
+
 ## Mandatsperspektive
 
 **Du als Studierende oder Studierender.** Du gibst Deine Aufgabenstellung ein und gehst Schritt für Schritt durch die Lösung. Das Plugin

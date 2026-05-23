@@ -10,6 +10,10 @@ Vollstaendige Werkstatt fuer Legistinnen und Legisten in Bundes- und Landesminis
 
 Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
+## Testakte
+
+- **Legistik Pflichtpostfach** (Vom Koalitionsvertrag zum Referentenentwurf, Stammgesetz mit Begruendung und Folgenabschaetzung): [testakten/legistik-pflichtpostfach/](../testakten/legistik-pflichtpostfach/) -> [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip)
+
 ## Installation in Claude Code
 
 1. ZIP herunterladen (Link oben).
