@@ -20,7 +20,7 @@ description: Befristung nach TzBfG. Schriftform vor Beschaeftigungsbeginn § 14 
 - **Sachgrundlos:** § 14 Abs. 2 TzBfG — bis zu zwei Jahre, höchstens dreimalige Verlängerung in dieser Zeit.
 - **Vorbeschäftigungsverbot:** § 14 Abs. 2 S. 2 TzBfG — keine sachgrundlose Befristung, wenn bereits zuvor ein Arbeitsverhältnis mit demselben Arbeitgeber bestanden hat. Sehr lange zurückliegende Vorbeschäftigungen können nach BVerfG, Beschl. v. 06.06.2018 – Az. 1 BvL 7/14, BVerfGE 149, 126 Rn. 63 ff. in eng begrenzten Fällen unbeachtlich sein.
 - **Befristungskontrollklage:** § 17 TzBfG — drei Wochen nach vereinbartem Ende; Versäumung führt zur Fiktion der Wirksamkeit (§ 17 S. 2 iVm § 7 KSchG).
-- **Neueinstellung Älterer:** § 14 Abs. 3 TzBfG — sachgrundlose Befristung bis fünf Jahre bei vorheriger Arbeitslosigkeit ab Vollendung 52. Lebensjahr.
+- **Neueinstellung Älterer:** § 14 Abs. 3 TzBfG — sachgrundlose Befristung bis fünf Jahre, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat **und** unmittelbar vor Beginn des Arbeitsverhältnisses **mindestens vier Monate** beschäftigungslos war (§ 138 SGB III), Transferkurzarbeitergeld bezog oder an einer Massnahme nach SGB II/III teilgenommen hat. Mehrfachverlaengerung innerhalb der Gesamtdauer von fünf Jahren zulaessig.
 - **Wissenschaftszeitvertragsgesetz (WissZeitVG):** Sondergesetz für Wissenschaft.
 
 ## Sachgründe (§ 14 Abs. 1 S. 2 TzBfG)

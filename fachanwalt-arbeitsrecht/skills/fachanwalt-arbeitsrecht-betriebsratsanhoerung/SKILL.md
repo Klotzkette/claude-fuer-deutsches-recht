@@ -19,8 +19,8 @@ description: Anhoerung des Betriebsrats nach § 102 BetrVG vor jeder Kuendigung.
 - **Stellungnahmefristen § 102 Abs. 2 BetrVG:**
   - ordentliche Kündigung: eine Woche
   - außerordentliche Kündigung: drei Tage
-- **Widerspruchsgründe § 102 Abs. 3 BetrVG** (z. B. unzureichende Sozialauswahl, andere Beschäftigungsmöglichkeiten).
-- **Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG** bei Widerspruch und Klage.
+- **Widerspruchsgründe § 102 Abs. 3 BetrVG** — nur gegen **ordentliche** Kündigungen (z. B. unzureichende Sozialauswahl, andere Beschäftigungsmöglichkeiten); ein Widerspruch des Betriebsrats gegen eine ausserordentliche Kündigung ist gesetzlich nicht vorgesehen.
+- **Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG** bei Widerspruch und Klage gegen eine ordentliche Kündigung.
 - **§ 79 BetrVG** Verschwiegenheitspflicht; bei sensiblen Daten Schwärzung.
 
 ## Mindestinhalt der Anhörung
@@ -46,9 +46,8 @@ Eine unvollständige Anhörung ist regelmäßig nicht ordnungsgemäß (BAG, Urt.
 4. Anhörung vor Ausspruch der Kündigung.
 5. Fristbeginn mit Zugang bei Vorsitz BR (§ 26 Abs. 2 BetrVG).
 6. Stellungnahme abwarten oder Schweigen der Frist
-   - ordentlich: 1 Woche
-   - außerordentlich: 3 Tage
-   Bei Schweigen Zustimmungsfiktion (§ 102 Abs. 2 S. 2 BetrVG).
+   - ordentlich: 1 Woche — Schweigen = Zustimmungsfiktion § 102 Abs. 2 S. 2 BetrVG.
+   - ausserordentlich: 3 Tage — keine Zustimmungsfiktion im Gesetz; bei Schweigen oder Stellungnahme gilt die Anhoerung als abgeschlossen, die Kuendigung kann ausgesprochen werden (BAG, st. Rspr.).
 7. Bei Widerspruch § 102 Abs. 3 BetrVG: Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG.
 8. Dokumentation für späteren Prozess.
 ```

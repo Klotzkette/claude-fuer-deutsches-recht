@@ -86,7 +86,7 @@ und beantragen, das Gericht möge nach mündlicher Verhandlung wie folgt erkenne
 3. Hilfsweise: Das Arbeitsverhältnis wird gegen Zahlung einer angemessenen Abfindung gemäß § 9 KSchG aufgelöst.
 4. Die Beklagte trägt die Kosten des Rechtsstreits.
 
-Streitwert: drei Bruttomonatsgehälter (§ 42 Abs. 2 GKG iVm § 2 KostO).
+Streitwert: drei Bruttomonatsverdienste (§ 42 Abs. 2 S. 1 GKG — Vierteljahresverdienst, Hoechstgrenze).
 
 Sachverhalt:
 [Anstellungsdaten, Tätigkeit, Lohn, Kündigung, Anhörung Betriebsrat, Sonderkündigungsschutz]
