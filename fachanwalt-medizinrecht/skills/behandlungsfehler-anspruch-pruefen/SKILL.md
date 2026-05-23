@@ -46,7 +46,7 @@ Bei Patientenmandaten klären: liegt Behandlungsfehler vor, welche Beweislast, w
 - **Behandlungs-Alternativen**
 - **Diagnose und Prognose**
 - **Wirtschaftliche Aufklärung** § 630c Abs. 3 BGB
-- **Zeitpunkt** so rechtzeitig dass Patient noch frei entscheiden kann (BGH VI ZR 320/00 — bei OP ein Tag vorher)
+- **Zeitpunkt** so rechtzeitig dass Patient noch frei entscheiden kann (BGH VI ZR 131/02 v. 25.03.2003 — bei stationärem Eingriff Aufklärung im Verlaufe des Vortages grundsätzlich genügend; BGH VI ZR 178/93 v. 14.06.1994 — bei ambulanten Eingriffen Aufklärung am Tag des Eingriffs grundsätzlich ausreichend; BGH VI ZR 375/21 v. 20.12.2022 — keine zwingende Sperrfrist zwischen Aufklärung und Einwilligung)
 - **Form** mündlich plus schriftliche Unterlagen
 - **Beweislast** für ordnungsgemäße Aufklärung beim Arzt § 630h Abs. 2 BGB
 
@@ -78,7 +78,7 @@ Bei Patientenmandaten klären: liegt Behandlungsfehler vor, welche Beweislast, w
 ## Schritt 5 — Hypothetische Einwilligung
 
 - Arzt kann einwenden Patient hätte auch bei richtiger Aufklärung eingewilligt
-- Patient kann durch substantiierten Entscheidungskonflikt entkräften (BGH VI ZR 320/00)
+- Patient kann durch substantiierten Entscheidungskonflikt entkräften (BGH VI ZR 260/93 v. 14.06.1994)
 
 ## Schritt 6 — Schadenspositionen
 

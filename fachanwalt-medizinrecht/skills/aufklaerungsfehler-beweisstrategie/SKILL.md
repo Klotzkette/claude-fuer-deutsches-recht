@@ -100,7 +100,7 @@ Wenn die Behandlung medizinisch ordnungsgemäß war, bleibt häufig der Aufklär
 ### Patient-Konter
 
 - **Substantiierter Entscheidungs-Konflikt** dartun
-- BGH VI ZR 320/00
+- BGH VI ZR 260/93 v. 14.06.1994
 - Konkret: Wir hätten zu Alternative XY tendiert, wenn wir über das XY-Risiko aufgeklärt worden wären
 - Familien-/Lebensplanungs-Bezug helfen
 - Frühere Entscheidungen des Patient gegen Risiko-Eingriffe
