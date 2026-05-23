@@ -25,7 +25,7 @@ description: "Schiedsklausel in internationalen Vertraegen pruefen und entwerfen
 - Kompetenz-Kompetenz § 1040 ZPO — Schiedsgericht entscheidet selbst über eigene Zuständigkeit.
 - Vollstreckbarerklärung ausländischer Schiedsspruch §§ 1061 ff. ZPO i.V.m. NYC.
 - Aufhebungsantrag inländischer Schiedsspruch § 1059 ZPO — abschließender Katalog.
-- BGH zur engen Auslegung von Aufhebungsgründen: BGH I ZB 13/15, Urt. v. 23.06.2015, Rn. 14 ff.
+- BGH zur engen Auslegung von Aufhebungsgründen: BGH I ZB 13/15, Beschl. v. 23.06.2015, Rn. 14 ff.
 
 ## Beweislast und Frist
 

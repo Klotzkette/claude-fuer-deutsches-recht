@@ -1,6 +1,6 @@
 ---
 name: widerrufsjoker-immobiliendarlehen
-description: Pruefraster Widerruf von Immobiliendarlehensvertraegen wegen fehlerhafter Widerrufsbelehrung. Anwendungsbereich Verbraucher-Darlehensvertraege ab 2002 mit den unterschiedlichen Stichtagen Aenderungen Belehrungs-Muster. Pruefung Belehrungs-Inhalt Frist Beginn Form Klarheit Optik Adresse. Bei Fehler ewiges Widerrufsrecht durch BGH XI ZR 33/08 bis 2016 Reform. Rechtsfolgen Rueckabwicklung Vorfaelligkeits-Entschaedigung-Vermeidung Zinsersparnis Marktzins-Vorteil. Beachtung BGH IX ZB Ueberweisung gegen Zug-um-Zug Rueckgewaehr Pruefung Verwirkung.
+description: Pruefraster Widerruf von Immobiliendarlehensvertraegen wegen fehlerhafter Widerrufsbelehrung. Anwendungsbereich Verbraucher-Darlehensvertraege ab 2002 mit den unterschiedlichen Stichtagen Aenderungen Belehrungs-Muster. Pruefung Belehrungs-Inhalt Frist Beginn Form Klarheit Optik Adresse. Bei Fehler ewiges Widerrufsrecht durch BGH XI ZR 33/08 bis 2016 Reform. Rechtsfolgen Rueckabwicklung Vorfaelligkeits-Entschaedigung-Vermeidung Zinsersparnis Marktzins-Vorteil. Beachtung BGH XI. Zivilsenat Rueckgewaehrschuldverhaeltnis Zug-um-Zug Pruefung Verwirkung.
 ---
 
 # Widerrufsjoker bei Immobiliendarlehen

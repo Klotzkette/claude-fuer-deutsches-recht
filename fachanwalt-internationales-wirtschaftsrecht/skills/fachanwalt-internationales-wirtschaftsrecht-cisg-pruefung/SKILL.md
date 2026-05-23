@@ -21,7 +21,7 @@ description: "Internationalen Warenkaufvertrag nach CISG UN-Kaufrecht pruefen. A
 - Vertragsschluss Art. 14-24 CISG — Angebot/Annahme; abweichende Antwort Art. 19 CISG (wesentliche Abweichungen).
 - Vertragsmäßigkeit der Ware Art. 35 CISG — vertragliche Beschaffenheit, gewöhnlicher Gebrauch, besonderer Gebrauch, Muster.
 - Untersuchungspflicht Art. 38 CISG so kurz wie nach Umständen möglich.
-- Mängelrüge Art. 39 CISG in angemessener Frist — BGH zur Frist: ca. ein Monat als Faustregel (BGH VIII ZR 304/00, Urt. v. 03.11.1999, Rn. 22).
+- Mängelrüge Art. 39 CISG in angemessener Frist — BGH zur Frist: ca. ein Monat als Faustregel (BGH VIII ZR 159/94, Urt. v. 08.03.1995, BGHZ 129, 75 Rn. 22 — Knochenmehl).
 - Rechtsbehelfe Käufer Art. 45 ff.: Erfüllung Art. 46, Nachbesserung Art. 46, Vertragsaufhebung Art. 49 (wesentliche Vertragsverletzung Art. 25), Minderung Art. 50, Schadensersatz Art. 74-77.
 - Befreiung Art. 79 CISG bei Hindernis außerhalb Einflussbereich.
 - BGH zur wesentlichen Vertragsverletzung Art. 25 CISG: BGH VIII ZR 51/95, Urt. v. 03.04.1996, Rn. 23 (Kobaltsulfat).
