@@ -46,8 +46,9 @@ Bei vermutlich überschuldetem Nachlass die Erbenhaftung begrenzen — vom Aussc
 
 ### Frist
 
-- **Nachlassgericht setzt Frist** § 1994 BGB
+- **Nachlassgericht setzt Frist auf Antrag eines Nachlassgläubigers** § 1994 Abs. 1 Satz 1 BGB (Glaubhaftmachung der Forderung erforderlich)
 - Bei Versäumnis unbeschränkte Haftung § 1994 Abs. 1 Satz 2 BGB
+- Freiwillige Inventarerrichtung ohne Antrag jederzeit möglich (§ 1993 BGB)
 
 ### Schutzwirkung
 
@@ -158,7 +159,7 @@ Bei vermutlich überschuldetem Nachlass die Erbenhaftung begrenzen — vom Aussc
 
 - Ungültige Letztwillige Verfügung — Anfechtung § 2082 BGB
 - Erb-Vertrag-Aufhebung
-- Pflichtteilsverzicht nichtig § 138 BGB
+- Pflichtteilsverzicht grundsätzlich wirksam bei notarieller Form § 2346 Abs. 2 iVm § 2348 BGB; Nichtigkeit nach § 138 BGB nur in besonderen Einzelfällen (z. B. Sittenwidrigkeit gegenüber behindertem Sozialhilfeempfänger ist nach BGH IV ZR 7/10 vom 19.01.2011 gerade nicht gegeben)
 
 ## Praktische Checkliste
 

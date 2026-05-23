@@ -35,7 +35,7 @@ Standardliteratur: Grüneberg BGB § 2247 ff.; MüKo-BGB / Leipold zu §§ 2247�
 | Teilungsanordnung § 2048 BGB | Verteilung unter Erben | Berührt nicht die Quote |
 | Pflichtteilsstrafklausel | Wer Pflichtteil verlangt verliert Schlusserbenstellung | Üblich im Berliner Testament |
 | Wiederverheiratungsklausel | Bedingte Verfügung bei Wiederheirat | Vorsicht — keine sittenwidrige Behinderung |
-| Behindertentestament Vor- und Nacherbschaft mit Dauer-TV | Schutz vor Sozialregress § 102 SGB XII | Anerkannt BGH IV ZR 7/89, Urt. v. 21.03.1990, Rn. 18 ff. |
+| Behindertentestament Vor- und Nacherbschaft mit Dauer-TV | Schutz vor Zugriff Sozialhilfeträger §§ 93 102 SGB XII | Grundsatzentscheidung BGH IV ZR 169/89, Urt. v. 21.03.1990, NJW 1990, 2055; bestätigt BGH IV ZR 231/92, Urt. v. 20.10.1993; Pflichtteilsverzicht BGH IV ZR 7/10, Urt. v. 19.01.2011. |
 
 ## Schreibvorlage eigenhändiges Berliner Testament
 
@@ -70,5 +70,5 @@ Saemtliche Verfuegungen sind wechselbezueglich § 2270 BGB.
 
 - Bei Vermögen über Freibeträgen (Ehegatte 500 TEUR Kinder 400 TEUR § 16 ErbStG) Hinweis auf Schenkungs-/Erbschaftsteuerberatung.
 - Bei Unternehmensvermögen Nachfolgeregelung gesondert prüfen (Begünstigungen §§ 13a, 13b ErbStG).
-- Empfehlung Hinterlegung beim Amtsgericht (§ 2248 BGB) — Hinterlegungsgebühr nach KostO/GNotKG.
+- Empfehlung Hinterlegung beim Amtsgericht (§ 2248 BGB) — Hinterlegungsgebühr nach GNotKG (KostO ist mit Wirkung zum 01.08.2013 außer Kraft getreten, Art. 9 2. KostRMoG).
 - Anschluss-Skill bei späterem Erbfall: `fachanwalt-erbrecht-erbschein-antrag`.

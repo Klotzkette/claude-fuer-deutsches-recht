@@ -26,7 +26,7 @@ description: "Pflichtteilsanspruch nach §§ 2303 ff. BGB pruefen und beziffern.
 
 - Pflichtteilsberechtigter trägt die Beweislast für seine Berechtigung und für die anspruchserhöhenden Tatsachen (Schenkungen).
 - Erbe trägt die Beweislast für anspruchsmindernde Tatsachen (Anrechnung, Erfüllung).
-- Verjährung drei Jahre nach § 195 BGB; Beginn nach § 199 Abs. 1 BGB mit Schluss des Jahres in dem der Pflichtteilsberechtigte Kenntnis vom Erbfall und von der ihn beeinträchtigenden Verfügung erlangt hat (st. Rspr., siehe BGH IV ZR 30/14, Urt. v. 16.01.2013, Rn. 11).
+- Verjährung drei Jahre nach § 195 BGB; Beginn nach § 199 Abs. 1 BGB mit Schluss des Jahres in dem der Pflichtteilsberechtigte Kenntnis vom Erbfall und von der ihn beeinträchtigenden Verfügung erlangt hat (BGH, Urt. v. 16.01.2013 – IV ZR 232/12, NJW 2013, 1086: einheitlicher unaufspaltbarer Pflichtteilsanspruch, keine erneute Verjährung bei später bekanntwerdenden Nachlassgegenständen).
 - Höchstfrist 30 Jahre ab Erbfall (§ 199 Abs. 3a BGB).
 
 ## Berechnungsschema

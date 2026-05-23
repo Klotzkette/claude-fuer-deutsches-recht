@@ -98,8 +98,8 @@ Schenkungen des Erblassers in den letzten zehn Jahren werden in einer abschmelze
 
 ### Bewertung der Schenkungen
 
-- Bei Geldschenkungen Nominalwert
-- Bei Sachzuwendungen Verkehrswert zum Stichtag der Schenkung — bei Wertsteigerung Stichtag des Erbfalls (Niedrigwerttheorie BGH IV ZR 263/95)
+- Verbrauchbare Sachen (Geld Wertpapiere) Wert zum Zeitpunkt der Schenkung (§ 2325 Abs. 2 Satz 1 BGB)
+- Nicht verbrauchbare Sachen (insb. Immobilien) Niederstwertprinzip § 2325 Abs. 2 Satz 2 BGB: Vergleich inflationsbereinigter Schenkungswert mit Wert zum Erbfall, der **niedrigere** Wert ist anzusetzen (st. Rspr. BGH IVa ZR 85/88, Urt. v. 19.04.1989; BGH IV ZR 259/92, Urt. v. 02.06.1993)
 
 ## Schritt 6 — Pflichtteilsquote x Berechnungsbasis
 
