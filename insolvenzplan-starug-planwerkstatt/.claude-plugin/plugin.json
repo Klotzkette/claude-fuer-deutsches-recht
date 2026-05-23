@@ -1,6 +1,6 @@
 {
   "name": "insolvenzplan-starug-planwerkstatt",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug.",
   "license": "Apache-2.0 OR MIT",
   "author": {

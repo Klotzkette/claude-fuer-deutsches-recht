@@ -1,6 +1,6 @@
 {
   "name": "ki-governance",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.",
   "license": "Apache-2.0 OR MIT",
   "author": {

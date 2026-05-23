@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-vergaberecht",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Vergaberecht. GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A. EU-Vergabe-RL. Nachpruefungsverfahren Vergabekammer und OLG-Vergabesenat. Schnittstelle Plugin fachanwalt-bau-architektenrecht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

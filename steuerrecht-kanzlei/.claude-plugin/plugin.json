@@ -1,6 +1,6 @@
 {
   "name": "steuerrecht-kanzlei",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "Vollassistenz fuer die steueranwaltliche Kanzlei: Bescheidanalyse Einspruch AO Klage Finanzgericht FGO Aussetzung der Vollziehung Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht. Anwaltlich-streitbezogen statt Steuererklaerung. Mit Fristenbuch und PKH.",
   "license": "Apache-2.0 OR MIT",
   "author": {

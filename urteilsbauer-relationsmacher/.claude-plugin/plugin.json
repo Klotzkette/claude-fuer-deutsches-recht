@@ -1,6 +1,6 @@
 {
   "name": "urteilsbauer-relationsmacher",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "Urteils- und Beschluss-Werkstatt fuer Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswuerdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgruende Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.",
   "license": "Apache-2.0 OR MIT",
   "author": {

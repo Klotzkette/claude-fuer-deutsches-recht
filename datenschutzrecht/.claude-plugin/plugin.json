@@ -1,6 +1,6 @@
 {
   "name": "datenschutzrecht",
-  "version": "6.0.0",
+  "version": "6.1.0",
   "description": "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15, Datenpannenmeldung Art. 33/34, Drittlandstransfer Art. 44 ff., Drift-Monitoring.",
   "license": "Apache-2.0 OR MIT",
   "author": {
