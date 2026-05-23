@@ -180,5 +180,5 @@ Wenn die Revision nicht zugelassen ist, ist nach Paragraf 544 ZPO Nichtzulassung
 
 ## Anschluss
 
-- Wenn revisionsfest: `urteil-erstellen` zum finalen Schritt
-- Wenn nicht: zurueck zum mangelhaften Skill (Hinweise an Beweiswuerdigung oder Anspruchspruefung)
+- Wenn revisionsfest: `dokumente-rendern-urteil-docx` zum finalen DOCX-/PDF-Export
+- Wenn nicht: zurueck zum mangelhaften Skill (`tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben`, `beweiswuerdigung-mit-richter-input` oder `anspruchsgrundlagen-pruefen`, je nach Mangel)

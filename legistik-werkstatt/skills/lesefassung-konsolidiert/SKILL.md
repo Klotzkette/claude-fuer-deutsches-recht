@@ -117,5 +117,7 @@ Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erf
 ## 6) Anschluss
 
 - `xml-paralleldarstellung` — bei XML-pflichtigen Veroeffentlichungen
-- `synopse-erstellen` — fuer den Aenderungs-Diff
-- `bgbl-veroeffentlichung-vorbereiten` — fuer die amtliche Verkuendung
+- `synopse-erstellen` — fuer den Aenderungs-Diff alt vs. neu
+- `dokumente-rendern-docx-pdf` — fuer den DOCX-/PDF-Export der Lesefassung
+- `referentenentwurf-bauen` — bei aenderbarem Entwurfsstand
+- `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Uebergangsregelungen

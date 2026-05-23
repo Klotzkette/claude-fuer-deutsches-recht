@@ -168,7 +168,10 @@ Empfehlung: Go / Go mit Warnungen / No-go
 
 ## 8) Schnittstellen
 
-- `vaf-vertragsdatenmatrix` — liefert die Eingabedaten
-- `vaf-rueckfragen` — fuettert die ungeklaerten Punkte
-- `vaf-ausfuellprotokoll` — protokolliert die Entscheidungen
-- `vaf-track-changes` — nach GRUEN-Ampel und Bestaetigung
+- `vaf-feldinventar` — extrahiert das Pflichtfeld-Inventar aus der Vorlage
+- `vaf-termsheet-mapping` — mappt Term-Sheet-Werte auf die Feldliste
+- `vaf-rueckfrageninterview` — klaert offene Punkte mit dem Mandanten
+- `vaf-plausibilitaetscheck` — pre-Quality-Gate-Pruefung der Zahlenlogik
+- `vaf-redline-qa` — Review von Track-Changes-Fassungen
+- `vaf-clean-output` — finaler Clean-Entwurf nach GRUEN-Ampel
+- `vaf-track-changes-nur-nach-frage` — Track Changes nur nach Bestaetigung

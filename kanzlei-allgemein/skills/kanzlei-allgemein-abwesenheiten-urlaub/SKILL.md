@@ -151,6 +151,9 @@ Vorlage unter `assets/templates/abwesenheiten-register.md`.
 ## 9) Schnittstellen
 
 - `kanzlei-allgemein-lohn-sv` — bei Krankheit > 6 Wochen, Mutterschutz, Elternzeit
-- `kanzlei-allgemein-fristen-kalender` — Fristen-Vertretung
-- `kanzlei-allgemein-bea-postfach` — beA-Vertretung Paragraf 31a III BRAO
-- `kanzlei-allgemein-mandanten-kommunikation` — Vertretungsanzeige
+- `kanzlei-allgemein-hr-personal` — Personalakte, Resturlaubs-Konto, Vertragsfragen
+- `kanzlei-allgemein-fristen-monitor` — Fristen-Vertretung waehrend Abwesenheit
+- `kanzlei-allgemein-kanzleikalender` — Termin-Vertretung und Kalender-Synchronisation
+- `kanzlei-allgemein-bea-journal` — beA-Vertretung Paragraf 31a III BRAO
+- `kanzlei-allgemein-postlauf` — Postzustellung und -bearbeitung waehrend Abwesenheit
+- `kanzlei-allgemein-output-versand` — Vertretungsanzeige in der Mandanten-Korrespondenz
