@@ -62,7 +62,7 @@ Prüft eine erhaltene Abmahnung nach UrhG — typischer Fall: Filesharing Foto-N
 - **Störerhaftung** (Anschlussinhaber-Haftung — eng nach BGH I ZR 121/08 Sommer unseres Lebens)
 - **Sekundäre Darlegungslast Anschlussinhaber** (BGH I ZR 75/14 Tauschbörse III Urt. v. 11.06.2015): Anschlussinhaber muss vortragen wer Anschluss nutzte
 - **Eltern-Haftung minderjähriger Kinder** Belehrung nötig (BGH I ZR 74/12 Morpheus)
-- **WLAN-Anschluss Hotel-Betreiber-Privilegierung** § 8 Abs. 3 DDG (seit 14.05.2024 ersetzt § 8 Abs. 3 TMG durch Digitale-Dienste-Gesetz BGBl 2024 I Nr. 149)
+- **WLAN-Anschluss Hotel-Betreiber-Privilegierung** Art. 4 DSA (VO (EU) 2022/2065) i.V.m. § 7 DDG (seit 14.05.2024 abgelöst § 8 Abs. 3 TMG durch Digitale-Dienste-Gesetz BGBl 2024 I Nr. 149) — § 8 DDG regelt nur noch Sperransprüche/Kostentragung, nicht die Access-Provider-Privilegierung
 
 ## Schritt 5 — Schranken und Erlaubnistatbestände
 
@@ -154,7 +154,8 @@ Bei Fehler unbegründete Abmahnung — Gegenanspruch § 97a Abs. 4 UrhG.
 
 - UrhG §§ 2 7 8 15 16 17 19a 31 51 51a 53 59 69a 72 97 97a 102
 - KUG §§ 22 23
-- DDG § 8 (seit 14.05.2024 ersetzt TMG)
+- DSA Art. 4 (VO (EU) 2022/2065) Access-Provider-Privilegierung
+- DDG §§ 7 8 (seit 14.05.2024 ersetzt TMG; § 8 = Sperranspruch)
 - BGH I. Zivilsenat VI. Zivilsenat
 - Schricker/Loewenheim UrhG
 - Dreier/Schulze UrhG
