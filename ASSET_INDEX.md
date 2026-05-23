@@ -174,4 +174,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet: 108 Assets, davon 80 Plugin-ZIPs, 27 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet: 124 Assets, davon 80 Plugin-ZIPs, 43 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
