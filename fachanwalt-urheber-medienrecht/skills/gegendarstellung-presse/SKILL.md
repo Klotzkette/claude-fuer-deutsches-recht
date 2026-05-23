@@ -23,7 +23,7 @@ Der spezielle Rechtsbehelf des Pressrechts bei falschen Tatsachenbehauptungen �
 
 - **Tageszeitung** Magazin Wochenzeitung
 - **Rundfunk** Fernsehen Radio (eigene Regelung im Medienstaatsvertrag MStV seit 07.11.2020 — RStV außer Kraft)
-- **Telemedien-Inhalte** journalistisch-redaktionell § 19 MStV (RStV außer Kraft seit 07.11.2020)
+- **Telemedien-Inhalte** journalistisch-redaktionell § 20 MStV (seit 07.11.2020 ablöst § 56 RStV a.F.; § 19 MStV regelt Sorgfaltspflichten, nicht Gegendarstellung)
 - **Social-Media-Posts** von Redaktionen (str. — eher journalistische Telemedien)
 - **Sonstige Medien** nicht erfasst
 
