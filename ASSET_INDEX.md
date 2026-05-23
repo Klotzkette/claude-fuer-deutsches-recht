@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v3.0.10
+**Stand:** v6.1.1
 
 ## Asset-Typen
 

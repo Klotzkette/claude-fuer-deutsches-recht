@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.10`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v6.1.1`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
