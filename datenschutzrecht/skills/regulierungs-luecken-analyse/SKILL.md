@@ -7,7 +7,7 @@ description: "Datenschutz-Gap-Analyse: Abgleich der aktuellen Datenschutzpraxis 
 
 ## Zweck
 
-Systematische Lückenanalyse zwischen dem aktuellen Datenschutz-Status der Organisation und neuen oder geänderten Anforderungen aus: EDSA-Leitlinien, DSK-Orientierungshilfen, Gesetzesnovellen (BDSG, TTDSG, sektorspezifisches Recht), Aufsichtsbeschlüssen oder EuGH-Entscheidungen. Ergebnis ist ein priorisierter Umsetzungsplan – kein pauschales Compliance-Dashboard.
+Systematische Lückenanalyse zwischen dem aktuellen Datenschutz-Status der Organisation und neuen oder geänderten Anforderungen aus: EDSA-Leitlinien, DSK-Orientierungshilfen, Gesetzesnovellen (BDSG, TDDDG, sektorspezifisches Recht), Aufsichtsbeschlüssen oder EuGH-Entscheidungen. Ergebnis ist ein priorisierter Umsetzungsplan – kein pauschales Compliance-Dashboard.
 
 ## Eingaben
 
@@ -70,7 +70,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 44–49 DSGVO (Drittlandtransfer)
 - Art. 65 DSGVO (verbindliche EDSA-Beschlüsse)
 - Art. 83, 84 DSGVO (Bußgelder)
-- §§ 19–26 TTDSG (Cookie-Einwilligung, Endgerätezugriff)
+- §§ 19–26 TDDDG (Cookie-Einwilligung, Endgerätezugriff)
 - EDSA-Leitlinien 01/2022 zu Datenübermittlungen
 - EDSA-Leitlinien 05/2020 zu Einwilligung
 - EDSA-Empfehlungen 01/2020 (TIA)

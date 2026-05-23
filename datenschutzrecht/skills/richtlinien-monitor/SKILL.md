@@ -24,7 +24,7 @@ Typische Drifts: neue Tracking-Tool-Integration ohne Datenschutzerklärungsupdat
    - CMP / Cookie-Consent-Banner-Konfiguration
    - App-Store Privacy Labels
    - In-Produkt-Einwilligungsflows
-   - Sektorspezifische Hinweise (TTDSG, KUG)
+   - Sektorspezifische Hinweise (TDDDG, KUG)
 
 2. **Praxis-Inventur.**
    Aktuelle Verarbeitungspraxis aus Ausgaben des Plugins rekonstruieren:
@@ -77,7 +77,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Art. 14 DSGVO (Informationspflicht bei Datenerhebung nicht bei Betroffenen)
 - Art. 5 Abs. 1 lit. a DSGVO (Transparenzgrundsatz)
 - Art. 12 DSGVO (Transparente Information)
-- §§ 19, 25 TTDSG (Einwilligung Endgerätezugriff, Cookie-Einwilligung)
+- §§ 19, 25 TDDDG (Einwilligung Endgerätezugriff, Cookie-Einwilligung)
 - EDSA-Leitlinien 03/2022 zu Dunklen Designmustern (Consent-Flows)
 - EDSA-Leitlinien 05/2020 zu Einwilligung
 - Paal, in: Paal/Pauly, DSGVO/BDSG, 3. Aufl. 2021, Art. 13 Rn. 1 ff.
@@ -107,7 +107,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Neue Datenkategorie: Nein (Nutzungsverhalten bereits erfasst).
 - Neuer Empfänger (Drittland USA): **Ja** – Art. 13 Abs. 1 lit. f DSGVO (Drittlandtransfer mit Transfermechanismus angeben).
 - Transfermechanismus prüfen: DPF, SCC Modul 1 oder 2? TIA erforderlich (EuGH, Urt. v. 16.07.2020 – C-311/18, NJW 2020, 2945).
-- Consent-Management: Ist der Anbieter nur nach Einwilligung aktiv (§ 25 TTDSG)? Dann Cookie-Banner anpassen (neue Kategorie / neuer Anbieter).
+- Consent-Management: Ist der Anbieter nur nach Einwilligung aktiv (§ 25 TDDDG)? Dann Cookie-Banner anpassen (neue Kategorie / neuer Anbieter).
 - DSFA: `anwendungsfall-triage` empfehlen – bei umfangreichem Tracking ggf. DSFA nach Art. 35 DSGVO erforderlich.
 
 **Änderungsentwurf (Datenschutzerklärung, Abschnitt „Drittlandsübermittlung"):**
@@ -117,7 +117,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 
 - **Sweep ohne konfigurierten Ausgabenordner:** Ohne Ordner-Pfad kann der Sweep keine Praxis-Inventur aus Plugin-Ausgaben erstellen; Direkt-Modus bleibt aber ohne Ausgabenordner vollständig nutzbar.
 - **Datenschutzerklärungsversion nicht datiert:** Nutzer sollten publizierte Erklärungen immer mit Datum versehen; anderenfalls kann Drift nicht datiert werden.
-- **Cookie-Banner ≠ Datenschutzerklärung:** TTDSG-Einwilligung (§ 25 TTDSG) ist unabhängig von der DSGVO-Rechtsgrundlage; eine korrekte Datenschutzerklärung ersetzt nicht den rechtskonformen Cookie-Banner.
+- **Cookie-Banner ≠ Datenschutzerklärung:** TDDDG-Einwilligung (§ 25 TDDDG) ist unabhängig von der DSGVO-Rechtsgrundlage; eine korrekte Datenschutzerklärung ersetzt nicht den rechtskonformen Cookie-Banner.
 - **Stillschweigendes Weglassen veralteter Klauseln:** Wenn eine Verarbeitung eingestellt wird, muss die Datenschutzerklärung aktiv aktualisiert werden – das Fehlen einer Praxis ist kein Automatismus für korrekte Erklärung.
 - **Frequenz:** EDSA empfiehlt anlassbezogene Aktualisierung; ein rein jährliches Review ist bei schnell wachsenden Produkten nicht ausreichend.
 

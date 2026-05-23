@@ -77,7 +77,7 @@ folgenden Bedingungen erklaert
 2. weitere Anspruchsanerkenntnisse (Schadensersatz Auskunft) werden
    nicht abgegeben
 3. ein Anspruch auf Abmahnkosten besteht hoechstens im Umfang von
-   § 97a Abs. 3 UrhG (Streitwert 1000 EUR)
+   § 97a Abs. 3 UrhG (Gegenstandswert 1.000 EUR fuer die Berechnung der erstattungsfaehigen Anwaltskosten)
 
 Diese Erklaerung dient ausschliesslich der Beseitigung der
 Wiederholungsgefahr und stellt kein Anerkenntnis des geltend

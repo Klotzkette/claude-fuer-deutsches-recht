@@ -86,7 +86,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `aussenwirtschaft-zoll-sanktionen.zip` | Exportkontrolle, Sanktionen, Embargos, Zoll, TARIC, CBAM, Verbrauchsteuer, Antidumping, AWV, AML/KYC, Prüfungen und Krisenkommunikation |
-| `datenschutzrecht.zip`                    | DSGVO/BDSG/TTDSG, PIA/DPIA, AVV-Review, Datenpannenmeldung                                                                 |
+| `datenschutzrecht.zip`                    | DSGVO/BDSG/TDDDG, PIA/DPIA, AVV-Review, Datenpannenmeldung                                                                 |
 | `geldwaeschepraevention-aml-kyc.zip` | Geldwäscheprävention, AML/KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister, Monitoring, Audit und Behördenverfahren |
 | `ki-governance.zip`                       | EU-KI-VO + DSGVO: Use-Case-Triage, KI-Inventar, Vendor-Review                                                              |
 | `berufsrecht-ki-vertragspruefung.zip`     | Berufsrechtliche Vorprüfung von Verträgen mit Legal-Tech-Anbietern                                                         |

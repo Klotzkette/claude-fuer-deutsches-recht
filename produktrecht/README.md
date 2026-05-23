@@ -118,7 +118,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/pro
 - **PAngV 2022** (Preisangabenpflichten, Grundpreis § 4, Streichpreise § 11)
 - **BGB §§ 305 ff.** (AGB-Kontrolle, Einbeziehung, Inhaltskontrolle)
 - **DDG** (vormals TMG – Impressumspflicht §§ 5, 6, Haftung §§ 7 ff.)
-- **TTDSG** (Cookie-Einwilligung, § 25 TTDSG)
+- **TDDDG** (Cookie-Einwilligung, § 25 TDDDG)
 - **ProdSG / GPSR** (Produktsicherheit, Marktüberwachung)
 - **MarkenG** (Markenverletzung, Benutzungsmarken, Verwechslungsgefahr)
 - **AGG** (Diskriminierungsverbot, Benachteiligung)

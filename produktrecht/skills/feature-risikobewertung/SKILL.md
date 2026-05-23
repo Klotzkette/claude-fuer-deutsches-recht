@@ -143,13 +143,13 @@ Prüfen:
 
 Leitkommentare: Köhler/Bornkamm/Feddersen UWG, 42. Aufl. 2024, § 5 Rn. 1 ff.; Harte-Bavendamm/Henning-Bodewig UWG, 5. Aufl. 2021.
 
-### DSGVO/TTDSG-Risiko
+### DSGVO/TDDDG-Risiko
 
 Prüfen:
 - Neue Datenerhebung: Welche Rechtsgrundlage (Art. 6 DSGVO)? Einwilligung oder berechtigtes Interesse?
 - Besondere Kategorien (Art. 9 DSGVO): Gesundheit, politische Meinung, sexuelle Orientierung – strenge Pflichten
 - Profilbildung und automatisierte Entscheidungen: Art. 22 DSGVO wenn Entscheidungen automatisch und erheblich beeinträchtigend
-- Cookies und Tracking: § 25 TTDSG (Einwilligung erforderlich für nicht-technisch-notwendige Cookies)
+- Cookies und Tracking: § 25 TDDDG (Einwilligung erforderlich für nicht-technisch-notwendige Cookies)
 - Datenweitergabe an Dritte: AV-Vertrag (Art. 28 DSGVO), Drittlandtransfer (Art. 44 ff. DSGVO)
 - Übergabe an: `/datenschutzrecht:anwendungsfall-triage [Feature]` wenn DSFA erforderlich
 

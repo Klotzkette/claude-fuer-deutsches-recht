@@ -17,7 +17,7 @@ Seit dem Digital Services Act (DSA), gültig seit Februar 2024, haben wir deutli
   - Art. 26-30 DSA: Transparenzpflichten für Werbung, Recommender-Systeme
   - Art. 45 DSA: Zuständigkeit Koordinator für digitale Dienste
 - **Art. 14/15 E-Commerce-Richtlinie (RL 2000/31/EG):** Noch anwendbar für Haftungsprivileg (Hosting); wird durch DSA nicht vollständig ersetzt (DSA schafft kein neues Haftungsrecht, sondern Verfahrenspflichten)
-- **§ 10 TMG (TelemediengG):** Haftungsprivileg Hosting-Provider (Umsetzung E-Commerce-RL)
+- **§§ 7-10 DDG (Digitale-Dienste-Gesetz, abgeloest § 10 TMG zum 14.5.2024):** Haftungsprivileg Hosting-Provider (Umsetzung E-Commerce-RL)
 - **BGH I ZR 140/14 (mySpace):** Prüfpflichten von Online-Plattformen nach Kenntnis einer Verletzung; keine allgemeine Überwachungspflicht, aber konkrete Prüfpflicht nach Hinweis
 - **BGH I ZR 171/10 (Alone in the Dark):** Haftung Online-Speicher
 - **EuGH C-324/09 (L'Oréal/eBay):** Online-Plattform-Haftung für Markenverletzungen durch Drittanbieter; aktive Rolle begründet eigene Haftung

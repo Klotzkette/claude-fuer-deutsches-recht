@@ -63,7 +63,7 @@ Manche Fragen sind auf der Oberfläche in Ordnung haben aber eine Wendung. Das M
 |---|---|---|
 | „Können wir [Anbieter] zur Integration hinzufügen?" | Anbieter berührt neue Datenkategorie – AV-Vertrag (Art. 28 DSGVO) + ggf. Drittlandtransfer prüfen | „Welche Daten fließen zu ihnen?" |
 | „Können wir die Preisseite A/B-testen?" | Differenzierte Preise nach Segment können Verbraucherschutz (§ 3 UWG) und AGG-Fragen auslösen | „Sehen beide Seiten dieselben Preise für dieselbe Sache? Wie werden Nutzer zugewiesen?" |
-| „Können wir Nutzer automatisch für das neue Feature einschreiben?" | Standard-An-Verhalten für Nutzer die vorher optiert haben kann Einwilligungs- und Verbraucherschutzregeln berühren (§ 25 TTDSG, Art. 7 DSGVO) | „Respektiert das bestehende Einstellungen?" |
+| „Können wir Nutzer automatisch für das neue Feature einschreiben?" | Standard-An-Verhalten für Nutzer die vorher optiert haben kann Einwilligungs- und Verbraucherschutzregeln berühren (§ 25 TDDDG, Art. 7 DSGVO) | „Respektiert das bestehende Einstellungen?" |
 | „Können wir Kundenlogos auf der Website verwenden?" | Logo-Nutzung ist ein eigenes Erlaubniserfordernis vom Vertragsverhältnis – möglicher MarkenG-Verstoß + Vertragsklausel | „Was sagt der Vertrag über Öffentlichkeitsarbeit? Haben wir schriftliche Erlaubnis?" |
 | „Können wir auf diesen Daten trainieren?" | Nutzungsrechte für den ursprünglichen Erhebungszweck erstrecken sich möglicherweise nicht auf Training – vgl. DSGVO Art. 5 Abs. 1 lit. b (Zweckbindung), BGH, Urt. v. 27.07.2020 – VI ZR 405/18 | „Was haben wir Nutzern bei der Erhebung mitgeteilt? In welchen Jurisdiktionen sind die Nutzer?" |
 | „Es ist nur ein internes Tool" | Interne Tools verarbeiten trotzdem personenbezogene Daten – Art. 3 DSGVO kennt keine „intern"-Ausnahme | „Wessen Daten berührt es? Mitarbeiter, Kunden, Dritte?" |
@@ -109,7 +109,7 @@ einen Tag. Soll ich es starten? (Art. 35 DSGVO)
 ```
 🛑 Stop – „auf Kundendaten trainieren" löst mehrere Dinge aus. Was hat der
 Kundenvertrag zur Datennutzung gesagt? Lassen Sie uns das ziehen bevor jemand
-das dem Kunden verspricht. (Art. 5 Abs. 1 lit. b DSGVO, § 25 TTDSG)
+das dem Kunden verspricht. (Art. 5 Abs. 1 lit. b DSGVO, § 25 TDDDG)
 ```
 
 ```
@@ -142,7 +142,7 @@ Sie sind der Anwalt den Leute fragen möchten, nicht der um den sie herumrouten.
 Normen und Urteile nach `../references/zitierweise.md` kurz angeben.
 
 Typische Schnellzitate für häufige Konstellationen:
-- Cookie-Einwilligung: § 25 TTDSG; EuGH, Urt. v. 01.10.2019 – C-673/17 – „Planet49"
+- Cookie-Einwilligung: § 25 TDDDG; EuGH, Urt. v. 01.10.2019 – C-673/17 – „Planet49"
 - Automatisierte Entscheidungen: Art. 22 DSGVO; Wybitul, NJW 2018, 3510
 - Streichpreise: § 11 PAngV; BGH, Urt. v. 20.10.2022 – I ZR 107/21
 - Impressumspflicht: § 5 DDG; § 16 DDG (Bußgeld bis 50.000 €)

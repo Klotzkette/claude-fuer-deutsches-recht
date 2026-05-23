@@ -94,7 +94,7 @@ Mit der Eintragung im Handelsregister wird der Geschaeftsfuehrer im Sinne von Pa
 
 ### Konsequenz Versaeumnis
 
-- Persoenliche Haftung Paragraf 64 GmbHG (Zahlungen nach Insolvenzreife)
+- Persoenliche Haftung **§ 15b InsO** (frueher § 64 GmbHG aF, aufgehoben durch SanInsFoG zum 1.1.2021) bei Zahlungen nach Insolvenzreife
 - **Strafbarkeit** Paragraf 15a IV InsO: Freiheitsstrafe bis 3 Jahre
 
 ### Praxis
@@ -220,7 +220,7 @@ Mit der Eintragung im Handelsregister wird der Geschaeftsfuehrer im Sinne von Pa
 
 ### Haftung gegenueber Glaeubigern
 
-- **Insolvenzverschleppung** Paragraf 64 GmbHG / Paragraf 15a InsO
+- **Insolvenzverschleppung** § 15b InsO (vormals § 64 GmbHG aF, aufgehoben durch SanInsFoG 1.1.2021) iVm § 15a InsO
 - **Strafbarkeit** bei Falschangaben Paragraf 82 GmbHG
 
 ### Haftung gegenueber Behoerden

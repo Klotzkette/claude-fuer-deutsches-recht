@@ -1,6 +1,6 @@
 ---
 name: werkmangel-vob-bgb-pruefen
-description: Pruefraster Werkmangel-Haftung am Bau — Abgrenzung VOB/B vs. BGB-Werkvertragsrecht §§ 633 ff. BGB Auswirkungen der VOB/B-Einbeziehung Abnahme-Wirkungen § 640 BGB Konsequenzen der Beweislastumkehr Verjaehrung Mangelansprueche fuenf Jahre § 634a BGB plus Hemmungsvorschriften Architektenhaftung als gesamtschuldnerische Haftung mit Bauunternehmer Mangelfolgeschaeden Nachbesserungsrecht und -frist Minderung Selbstvornahme Ruecktritt Schadensersatz. Berechnet Streitwert nach KostO und Vorschuss-Anspruch § 637 BGB.
+description: Pruefraster Werkmangel-Haftung am Bau — Abgrenzung VOB/B vs. BGB-Werkvertragsrecht §§ 633 ff. BGB Auswirkungen der VOB/B-Einbeziehung Abnahme-Wirkungen § 640 BGB Konsequenzen der Beweislastumkehr Verjaehrung Mangelansprueche fuenf Jahre § 634a BGB plus Hemmungsvorschriften Architektenhaftung als gesamtschuldnerische Haftung mit Bauunternehmer Mangelfolgeschaeden Nachbesserungsrecht und -frist Minderung Selbstvornahme Ruecktritt Schadensersatz. Berechnet Streitwert nach GKG §§ 48 50 iVm § 3 ZPO und Vorschuss-Anspruch § 637 BGB.
 ---
 
 # Werkmangel — VOB/B oder BGB?

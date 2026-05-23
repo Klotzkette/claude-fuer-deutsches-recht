@@ -157,6 +157,6 @@ Testkaufunterlagen (Anlage AS 3).
 ## Übergabe
 
 - Bei mehreren Schutzrechten (Design plus Marke plus UWG plus UrhG) Anspruchskonkurrenz prüfen; Klagehäufung möglich.
-- Bei Verletzungen im Online-Handel Schnittstelle zu Plattformbetreibern (§ 7 TMG aF / § 8 DSA Notice-and-Action).
+- Bei Verletzungen im Online-Handel Schnittstelle zu Plattformbetreibern (§§ 7-10 DDG seit 14.5.2024 vormals § 7 TMG aF iVm Art. 16 DSA Notice-and-Action).
 - Bei Auslandsbezug Schnittstelle zur Brüssel-Ia-VO (Zuständigkeit) und Rom-II-VO Art. 8 (anwendbares Recht).
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, EuGH/BGH-Pinpoint mit Rn., Hierarchie EuGH vor BGH vor OLG).

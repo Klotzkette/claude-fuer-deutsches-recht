@@ -124,7 +124,7 @@ Bei Erkenntnis des Stammkapital-Verlustes hat GF auch zu pruefen:
 
 ### Paragraf 15a InsO-Verletzung
 
-- Haftung fuer **Zahlungen nach Insolvenzreife** Paragraf 64 GmbHG (gegenueber Gesellschaft, Erstattungsanspruch)
+- Haftung fuer **Zahlungen nach Insolvenzreife** § 15b InsO (vormals § 64 GmbHG aF, aufgehoben durch SanInsFoG zum 1.1.2021) gegenueber Gesellschaft, Erstattungsanspruch
 - **Persoenliche Haftung gegenueber Glaeubigern** fuer Schaeden durch verspaetete Insolvenzantragstellung Paragraf 823 II BGB iVm Paragraf 15a InsO
 - **Strafbarkeit** Paragraf 15a IV InsO Freiheitsstrafe bis 3 Jahre
 

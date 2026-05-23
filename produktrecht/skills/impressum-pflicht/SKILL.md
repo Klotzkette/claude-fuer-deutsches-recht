@@ -39,7 +39,7 @@ Das Modell benötigt:
 
 ### Kommentarliteratur
 
-1. Schirmbacher, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2019, § 5 TMG Rn. 25–80: Ausführlich zu den Pflichtangaben im Einzelnen; zur Auslegung von „geschäftsmäßig" (weiter Anwendungsbereich: auch Blogs mit Werbebannern, Influencer-Profile); zu Social-Media-Profilen als eigenständige Telemedien.
+1. Schirmbacher, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2019, § 5 TMG Rn. 25–80 (historisch; § 5 TMG durch § 5 DDG zum 14.5.2024 ersetzt): Ausführlich zu den Pflichtangaben im Einzelnen; zur Auslegung von „geschäftsmäßig" (weiter Anwendungsbereich: auch Blogs mit Werbebannern, Influencer-Profile); zu Social-Media-Profilen als eigenständige Telemedien. Aktuell: BeckOK Informations- und Medienrecht (Stand 2025) zu § 5 DDG.
 
 2. Ott, in: BeckOK Informations- und Medienrecht, 44. Ed. (Stand 01.02.2025), § 5 DDG Rn. 10–55: Zur Umsetzung des DDG (Ablösung des TMG ab 14.05.2024); Kontinuität der Rspr. zu § 5 TMG; zur v.i.S.d.P.-Pflicht nach § 18 MStV für Social-Media-Kanäle mit redaktionellem Inhalt.
 

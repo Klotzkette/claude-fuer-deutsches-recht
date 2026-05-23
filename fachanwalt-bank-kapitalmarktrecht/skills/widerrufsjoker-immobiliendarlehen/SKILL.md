@@ -79,7 +79,7 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 
 ### Muster-Belehrung als Schutz
 
-- Verwendung der Muster-Belehrung in BGB-InfoV (anlage) schützt bei richtigem Ausfüllen
+- Verwendung der Muster-Belehrung in BGB-InfoV (historisch — durch VRRL-UmsetzungsG zum 13.6.2014 abgeschafft; Anlagen heute zu §§ 312d ff. BGB / Art. 247 EGBGB) schuetzt bei richtigem Ausfuellen; fuer Altvertraege vor 2014 weiter relevant
 - BGH XI ZR 564/15 — Schutzwirkung
 - Bei Abweichungen vom Muster Risiko
 

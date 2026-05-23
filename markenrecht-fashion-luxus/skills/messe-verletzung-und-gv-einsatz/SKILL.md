@@ -19,7 +19,7 @@ Messe-Verletzungen erfordern blitzschnelles Handeln: Die Ware verschwindet nach 
 - **§§ 916/917 ZPO:** Arrest (Sicherungsarrest für Schadensersatzansprüche)
 - **§§ 753/759 ZPO:** Gerichtsvollzieher-Vollstreckung/Sicherstellung
 - **Schutzschrift (§ 945a ZPO / Schutzschriftenregister):** Präventive Eingabe des Beklagten bei Gericht vor Erlass einer einstweiligen Verfügung
-- **Messeprivileg:** Bei ausländischen Messegästen: Internationale Zuständigkeit nach EuGVO Art. 7 Nr. 2 (Tatortprinzip), Durchführungsverordnung zu §§ 110/111 MarkenG (Schutz ausländischer Staatsangehöriger auf deutschen Messen)
+- **Messeprivileg:** Bei ausländischen Messegästen: Internationale Zuständigkeit nach EuGVVO Art. 7 Nr. 2 (Tatortprinzip), Durchführungsverordnung zu §§ 110/111 MarkenG (Schutz ausländischer Staatsangehöriger auf deutschen Messen)
 
 ## Prüfungsschritte
 
@@ -135,4 +135,4 @@ IV.  GLAUBHAFTMACHUNG
 - **Dringlichkeitsfrist:** Nach BGH gilt: Wer mit Verletzung länger als 4-6 Wochen zuwartet, verwirkt die Eilbedürftigkeit (sog. Dringlichkeitsschädlichkeit). Bei Messeverletzung: Keine Duldung, sofort handeln
 - **Schutzschrift des Gegners:** Donauzon könnte vorab Schutzschrift hinterlegt haben → ZSSR prüfen
 - **GV-Zugang Messestand:** Gerichtsvollzieher braucht Zugang; Messe-Direktion vorab einbinden
-- **Internationale Aussteller:** EuGVO-Zuständigkeit bei EU-Ausländern; außerhalb EU: Haager Zustellungsübereinkommen beachten
+- **Internationale Aussteller:** EuGVVO-Zuständigkeit bei EU-Ausländern; außerhalb EU: Haager Zustellungsübereinkommen beachten

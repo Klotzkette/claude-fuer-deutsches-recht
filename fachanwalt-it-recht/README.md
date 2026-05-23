@@ -1,6 +1,6 @@
 # Fachanwalt It Recht
 
-Light-Touch-Plugin Fachanwalt fuer Informationstechnologierecht. Orientierung SaaS-Vertraege Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG Open-Source-Compliance Plattformhaftung DSA DMA EU-KI-VO. Schnittstellen datenschutzrecht ki-governance vertragsrecht.
+Light-Touch-Plugin Fachanwalt fuer Informationstechnologierecht. Orientierung SaaS-Vertraege Software-Lizenz DSGVO BDSG TDDDG TKG NIS2 DDG Open-Source-Compliance Plattformhaftung DSA DMA EU-KI-VO. Schnittstellen datenschutzrecht ki-governance vertragsrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-it-recht-orientierung` | Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TTDSG TKG NIS2-Umsetzungsgesetz DDG (vormals TMG) … |
+| `fachanwalt-it-recht-orientierung` | Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TDDDG TKG NIS2-Umsetzungsgesetz DDG (vormals TMG) … |
 
 ## Lizenz
 

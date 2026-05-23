@@ -22,7 +22,7 @@ Alternativ via Marketplace:
 /plugin install gesellschaftsgruender@claude-fuer-deutsches-recht
 ```
 
-Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` enthalten.
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und das Verzeichnis `skills/` enthalten.
 
 ## Schulungsakte (Direkt-Download)
 

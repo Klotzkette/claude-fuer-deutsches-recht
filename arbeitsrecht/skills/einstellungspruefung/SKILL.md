@@ -91,7 +91,7 @@ Falls Betriebsrat vorhanden: § 99 BetrVG – Zustimmung vor jeder Einstellung (
 Zitierstandard: `../references/zitierweise.md`. Methodik: `../references/methodik-buergerliches-recht.md`.
 
 Wesentliche Quellen:
-- Müller-Glöge, in: ErfK, 24. Aufl. 2024, § 14 TzBfG (Befristungsrecht umfassend)
+- Müller-Glöge (begr.) / Preis / Schmidt, in: ErfK, 25. Aufl. 2025, § 14 TzBfG (Befristungsrecht umfassend; Müller-Glöge verstorben 2018, Werk wird fortgefuehrt unter den Hrsg. Preis/Sittard/Kiel)
 - Roloff, in: BeckOK ArbR, 71. Ed. 2025, § 14 TzBfG Rn. 1 ff.
 - BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 (Vorbeschäftigungsverbot)
 - BVerfG, Beschl. v. 06.06.2018 – 1 BvL 7/14, NJW 2018, 2542 (Verfassungskonformität § 14 Abs. 2 TzBfG)

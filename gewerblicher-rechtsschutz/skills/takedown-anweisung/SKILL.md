@@ -55,7 +55,7 @@ Befehlsargument:
 
 - Köhler, in: Köhler/Bornkamm/Feddersen, UWG, 43. Aufl. 2025, § 8 Rn. 2.1 (Unterlassungsanspruch; Störerhaftung)
 - Leistner/Ohst, in: Schricker/Löwenheim, UrhG, 6. Aufl. 2020, § 97 Rn. 1 (Unterlassung und Schadensersatz)
-- Hoffmann, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2023, § 10 TMG Rn. 1 (Hostprovider-Haftung, Notice-and-Take-Down)
+- Hoffmann, in: Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2023, § 10 TMG Rn. 1 (Hostprovider-Haftung, Notice-and-Take-Down — TMG durch DDG zum 14.5.2024 abgeloest, nun §§ 7-10 DDG; BeckOK InfoMedienR zur DDG-Nachfolge)
 - Martini, in: BeckOK InfoMedienR, 44. Ed. (Stand 01.05.2025), Art. 16 DSA Rn. 1 (Meldeverfahren nach Digital Services Act)
 
 ## Ablauf
