@@ -16,7 +16,7 @@ description: "Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels na
 ## Anspruchsgrundlagen
 
 - Allgemeine Erteilungsvoraussetzungen § 5 AufenthG: Identität geklärt, kein Ausweisungsinteresse, Lebensunterhalt gesichert.
-- Aufenthalt zum Zweck der Beschäftigung §§ 18 ff. AufenthG i.V.m. BeschV — Zustimmung BA erforderlich nach § 39 AufenthG bzw. zustimmungsfrei nach § 81 BeschV.
+- Aufenthalt zum Zweck der Beschäftigung §§ 18 ff. AufenthG i.V.m. BeschV — Zustimmung BA erforderlich nach § 39 AufenthG bzw. zustimmungsfrei nach §§ 2 bis 15 BeschV (z.B. § 5 BeschV Führungskräfte, § 6 BeschV Wissenschaftler, § 8 BeschV Ausbildung).
 - Blaue Karte EU § 18b AufenthG — Hochschulabschluss + Mindestgehalt.
 - Familiennachzug zu Deutschen § 28 AufenthG / zu Drittstaatsangehörigen § 29 AufenthG / Ehegatten § 30 AufenthG mit Sprachnachweis A1.
 - Studium § 16b AufenthG.

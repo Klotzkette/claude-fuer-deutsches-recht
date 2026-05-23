@@ -37,7 +37,7 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 - **Anspruch auf vergaberechtsgemäßes Verfahren** durch Bieter
 - Vorgehensweise: hat eigene Interessen am Auftrag und droht Schaden durch Vergabeverstoß
 - Erfolglos teilgenommen oder noch teilnehmen wollen
-- BGH X. Senat Rechtsprechung
+- BGH XIII. Zivilsenat Rechtsprechung (Vergaberecht seit 01.01.2021; vorher X. Zivilsenat)
 
 ## Schritt 3 — Rügeobliegenheit § 160 Abs. 3 GWB
 
@@ -172,7 +172,7 @@ Bei einer drohenden oder erfolgten Vergabe-Entscheidung systematisch prüfen, ob
 - GWB §§ 97 ff. 123 124 127 134 155 160 167 169 171 173 181
 - VgV §§ 14 60 63
 - VOB/A-EU SektVO KonzVgV
-- BGH X. Senat
+- BGH XIII. Zivilsenat (Vergaberecht seit 01.01.2021; vorher X. Zivilsenat)
 - OLG Vergabesenate
 - Burgi Vergaberecht
 - Bechtold/Bosch GWB

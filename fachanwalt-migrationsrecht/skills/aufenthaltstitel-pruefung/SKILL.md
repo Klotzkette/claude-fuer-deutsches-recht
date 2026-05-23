@@ -126,10 +126,11 @@ Bei jedem migrationsrechtlichen Mandat ist erste Frage: welcher Aufenthaltstitel
 ## Schritt 8 — Bürgerschafts-/Naturalisations-Perspektive
 
 - Einbürgerung § 10 StAG
-- Voraussetzungen acht (gekürzt fünf-sechs) Jahre Aufenthalt
+- Voraussetzungen fünf Jahre rechtmäßiger Aufenthalt (Regelfall seit StARModG 27.06.2024 — vorher acht Jahre)
+- Bei Vorliegen besonderer Integrationsleistungen: Verkürzung auf drei Jahre war bis 29.10.2025 möglich (§ 10 Abs. 3 StAG a.F.) — durch das Sechste Gesetz zur Änderung des StAG zum 30.10.2025 abgeschafft; nur noch für vor diesem Datum gestellte Anträge (Stichtagsregelung)
 - Deutsch B1
 - Einbürgerungstest
-- Lebensunterhalt
+- Lebensunterhalt eigenständig (§ 10 Abs. 1 Satz 1 Nr. 3 StAG)
 - Bekenntnis zur freiheitlich-demokratischen Grundordnung
 
 ## Schritt 9 — Praktische Schritte

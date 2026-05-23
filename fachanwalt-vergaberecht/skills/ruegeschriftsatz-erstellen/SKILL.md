@@ -208,6 +208,6 @@ Pruefung und ggf. Ausschluss des Bieters.
 - VgV §§ 31 46 60
 - VOB/A-EU
 - SektVO
-- BGH X. Senat
+- BGH XIII. Zivilsenat (Vergaberecht seit 01.01.2021; vorher X. Zivilsenat)
 - OLG Vergabesenate
 - Burgi Vergaberecht

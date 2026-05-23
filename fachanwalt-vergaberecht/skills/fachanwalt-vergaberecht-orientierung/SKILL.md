@@ -20,7 +20,7 @@ description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typisch
 | Konzessionen | KonzVgV |
 | Bauleistungen oberschwellig | VgV-Baubereich VOB-A Abschnitt 2 |
 | Unterschwellig | UVgO (Unterschwellenvergabeordnung) VOB-A Abschnitt 1 |
-| EU-Schwellenwerte | EU-VO 1336/2013 aktualisiert alle zwei Jahre |
+| EU-Schwellenwerte | Delegierte Verordnungen (alle zwei Jahre); Werte 2024/2025: Liefer-/Dienstleistung Kommunen EUR 221000 Bund EUR 143000 Sektoren EUR 443000 Bau EUR 5538000 |
 | Verteidigung und Sicherheit | VSVgV |
 | EU-RL | RL 2014/24 (allgemein) RL 2014/25 (Sektoren) RL 2014/23 (Konzessionen) RL 2007/66 Rechtsmittel |
 
@@ -48,7 +48,7 @@ description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typisch
 
 - **Vergabekammer** (Bund: BKartA Vergabekammer; Land: Vergabekammer der Bezirksregierung / Landesvergabekammer).
 - **OLG-Vergabesenat** Beschwerdeinstanz.
-- **BGH** Rechtsbeschwerde § 173 GWB.
+- **BGH** (XIII. Zivilsenat seit 01.01.2021) bei Divergenzvorlage § 179 Abs. 2 GWB des OLG-Vergabesenats.
 - **EuGH** bei EU-rechtlichen Vorabentscheidungen.
 
 ## Standardliteratur

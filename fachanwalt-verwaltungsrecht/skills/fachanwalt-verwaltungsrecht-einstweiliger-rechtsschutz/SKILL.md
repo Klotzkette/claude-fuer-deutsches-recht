@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz
-description: "Einstweiliger Rechtsschutz § 80 Abs. 5 VwGO Anordnung Wiederherstellung aufschiebende Wirkung. § 123 VwGO einstweilige Anordnung. Voraussetzung Interessenabwaegung Erfolgsaussichten Hauptsache plus Vollzugsinteresse. Anordnungsgrund Anordnungsanspruch bei § 123 VwGO. Glaubhaftmachung § 920 ZPO i.V.m. § 173 VwGO. Frist nicht starr aber unverzueglich. Vorlaeufigkeit der Regelung."
+description: "Einstweiliger Rechtsschutz § 80 Abs. 5 VwGO Anordnung Wiederherstellung aufschiebende Wirkung. § 123 VwGO einstweilige Anordnung. Voraussetzung Interessenabwaegung Erfolgsaussichten Hauptsache plus Vollzugsinteresse. Anordnungsgrund Anordnungsanspruch bei § 123 VwGO. Glaubhaftmachung § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO. Frist nicht starr aber unverzueglich. Vorlaeufigkeit der Regelung."
 ---
 
 # Einstweiliger Rechtsschutz

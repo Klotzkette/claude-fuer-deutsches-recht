@@ -62,8 +62,8 @@ Wenn nein — Realakt informelle Maßnahme — andere Klagearten Feststellungs- 
 
 **Bekanntgabe-Fiktion**
 
-- **§ 41 VwVfG** drei Tage nach Aufgabe zur Post bei Inland-Bescheid
-- **Elektronisch** drei Tage nach Absendung
+- **§ 41 Abs. 2 VwVfG** vier Tage nach Aufgabe zur Post bei Inland-Bescheid (seit 01.01.2025 PostModG — vorher drei Tage)
+- **Elektronisch § 41 Abs. 2a VwVfG** drei Tage nach Absendung
 
 ## Schritt 6 — Vorläufiger Rechtsschutz
 

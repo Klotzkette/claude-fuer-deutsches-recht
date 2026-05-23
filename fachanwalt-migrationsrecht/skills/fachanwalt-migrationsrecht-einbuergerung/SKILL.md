@@ -15,7 +15,7 @@ description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 S
 
 ## Anspruchsgrundlagen
 
-- Anspruchseinbürgerung § 10 StAG: fünf Jahre rechtmäßiger gewöhnlicher Aufenthalt (drei Jahre bei besonderen Integrationsleistungen § 10 Abs. 3 StAG), unbefristeter Aufenthaltstitel oder Freizügigkeitsrecht, Lebensunterhaltssicherung, B1-Deutschkenntnisse, Einbürgerungstest, Bekenntnis zur fdGO, kein Ausweisungsinteresse, keine Verurteilung über Bagatellgrenze § 12a StAG.
+- Anspruchseinbürgerung § 10 StAG: fünf Jahre rechtmäßiger gewöhnlicher Aufenthalt (Regelfall seit StARModG 27.06.2024). Die Verkürzung auf drei Jahre bei besonderen Integrationsleistungen (§ 10 Abs. 3 StAG a.F.) wurde durch das Sechste Gesetz zur Änderung des StAG zum 30.10.2025 abgeschafft; gilt nur noch fuer vor diesem Datum gestellte Anträge. Weiterhin erforderlich: unbefristeter Aufenthaltstitel oder Freizügigkeitsrecht, Lebensunterhaltssicherung, B1-Deutschkenntnisse, Einbürgerungstest, Bekenntnis zur fdGO, kein Ausweisungsinteresse, keine Verurteilung über Bagatellgrenze § 12a StAG.
 - Mehrstaatigkeit § 12 StAG nach Reform vom 27.06.2024 grundsätzlich zulässig — Aufgabe Vorgängerstaatsangehörigkeit nicht mehr erforderlich.
 - Einbürgerung von Ehegatten Deutscher § 9 StAG nach drei Jahren Aufenthalt und zwei Jahren Ehe.
 - Ermessenseinbürgerung § 8 StAG bei besonderem öffentlichem Interesse oder besondere Härte.
@@ -34,7 +34,7 @@ description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 S
 ## Prüfschema
 
 ```
-1. Aufenthaltsdauer (fuenf bzw. drei Jahre § 10 Abs. 3 StAG)
+1. Aufenthaltsdauer (fuenf Jahre Regelfall; drei-Jahres-Verkuerzung § 10 Abs. 3 StAG a.F. nur noch fuer Altantraege vor 30.10.2025)
 2. Aufenthaltstitel (unbefristet oder Freizuegigkeit)
 3. Sprache B1 (Zertifikat von BAMF anerkannt)
 4. Einbuergerungstest § 10 Abs. 1 Nr. 7 StAG bestanden

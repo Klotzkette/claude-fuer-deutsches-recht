@@ -93,7 +93,7 @@ Bei Stillhaltefrist § 134 GWB läuft:
 ## Mandatsannahme
 
 - **Konflikt-Check** — kein Doppel-Mandat unter Bietern
-- **Streitwert** § 50 Abs. 2 GKG fünf Prozent Brutto-Auftragssumme bei Liefer- und Dienstleistungs-Auftrag — bei Bau dasselbe; in keinem Fall mehr als EUR 100000 oder weniger als EUR 25000
+- **Streitwert** § 50 Abs. 2 GKG fünf Prozent Brutto-Auftragssumme bei Liefer- Dienstleistungs- und Bauaufträgen — ohne gesetzliche Höchst- oder Mindestgrenze (BGH XIII ZB 64/21 vom 29.11.2022 zur Berechnungsgrundlage einschließlich durchlaufender Posten)
 - **Komplexität** Sachverständigen-Bedarf technisch Kalkulationen
 - **Versicherungs-Deckung** Bietern selten — Berufshaftpflicht Anwalt prüfen
 
@@ -119,5 +119,5 @@ Bei Stillhaltefrist § 134 GWB läuft:
 - GWB §§ 97 ff. 123 124 127 134 135 155 160 167 169 171 173 181
 - VgV VOB/A-EU UVgO SektVO KonzVgV
 - GKG § 50
-- BGH X. Senat
+- BGH XIII. Zivilsenat (Vergaberecht seit 01.01.2021; vorher X. Zivilsenat)
 - Burgi Vergaberecht

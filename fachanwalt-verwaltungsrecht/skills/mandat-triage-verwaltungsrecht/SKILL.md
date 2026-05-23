@@ -63,7 +63,7 @@ Verwaltungsrecht ist hochheterogen — vom Bauantrag bis zur Asylklage. Triage o
 
 ### Frage 6 — Frist?
 
-- **Widerspruch** ein Monat § 70 VwGO; Drei-Tages-Fiktion § 41 VwVfG
+- **Widerspruch** ein Monat § 70 VwGO; Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG vier Tage seit 01.01.2025 (PostModG)
 - **Klage** ein Monat § 74 VwGO ab Bekanntgabe Widerspruchsbescheid
 - **Untätigkeitsklage** § 75 VwGO nach drei Monaten ohne Bescheid
 - **Verfassungsbeschwerde** ein Monat § 93 BVerfGG

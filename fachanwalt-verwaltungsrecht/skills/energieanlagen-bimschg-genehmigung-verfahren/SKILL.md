@@ -22,7 +22,7 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solar, KWK, Geothermie) bed
 ### Spalte 1 — Förmliches Verfahren § 10 BImSchG
 
 - Anlagen mit erheblichem Umfang
-- Beispiele: Wind mit Gesamthöhe > 50 m, Biogas > 1,2 MW, Großfeuerungsanlagen, große KWK
+- Beispiele: Windfarm ab 20 WEA > 50 m (Nr. 1.6.1 Anhang 1), Biogas > 1,2 MW Feuerungswärmeleistung, Großfeuerungsanlagen, große KWK
 - Öffentlichkeitsbeteiligung mit Auslegung, Erörterungs-Termin
 - Entscheidungs-Dauer typisch 12-18 Monate
 
@@ -34,7 +34,7 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solar, KWK, Geothermie) bed
 
 ### Konkrete Schwellen 4. BImSchV (Auswahl, Stand 2024)
 
-- Windkraftanlage > 50 m Gesamthöhe: Spalte 1 (mit UVP-Pflicht ab 6 Anlagen)
+- Windkraftanlage > 50 m Gesamthöhe: < 20 WEA Spalte 2 (Nr. 1.6.2 vereinfachtes Verfahren), ab 20 WEA Spalte 1 (Nr. 1.6.1 förmlich). UVPG Anlage 1 Nr. 1.6: ab 20 WEA UVP-Pflicht, 6 bis 19 allgemeine Vorprüfung, 3 bis 5 standortbezogene Vorprüfung
 - Biogasanlage > 1,2 MW: Spalte 1
 - Biogasanlage ≤ 1,2 MW: Spalte 2 oder Bauantrag
 - Feuerungsanlage > 50 MW: Spalte 1

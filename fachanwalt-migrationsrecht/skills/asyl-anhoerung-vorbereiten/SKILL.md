@@ -208,7 +208,7 @@ Die Anhörung beim BAMF nach § 25 AsylG ist das zentrale Ereignis des Asylverfa
 
 ### Beweis-Erleichterung
 
-- BVerwG 2 BvR 2299/09 zur Beweis-Erleichterung im Asyl
+- BVerwG 10 C 21.08 vom 05.05.2009 zur Beweiserleichterung Art. 4 Abs. 4 Qualifikations-RL 2011/95/EU (Vorverfolgte profitieren von Vermutung erneuter Verfolgung)
 
 ## Schritt 10 — Bei Ablehnung
 
