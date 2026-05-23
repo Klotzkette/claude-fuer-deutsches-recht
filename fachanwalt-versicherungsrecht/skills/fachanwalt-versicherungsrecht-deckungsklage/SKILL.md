@@ -16,7 +16,7 @@ description: "Deckungsklage gegen Versicherer auf Leistung. Sachliche Zustaendig
 ## Anspruchsgrundlagen und Zuständigkeit
 
 - Materielle Anspruchsgrundlage § 1 VVG i. V. m. konkretem Vertrag und AVB.
-- Sachliche Zuständigkeit: bis 5.000 EUR Amtsgericht (§ 23 Nr. 1 GVG), darüber Landgericht (§ 71 GVG).
+- Sachliche Zuständigkeit: bis 10.000 EUR Amtsgericht (§ 23 Nr. 1 GVG, seit 01.01.2026 Justizreform), darüber Landgericht (§ 71 GVG).
 - Örtliche Zuständigkeit § 215 VVG — Gerichtsstand am Wohnsitz des Versicherungsnehmers (Verbraucherschutz); alternativ allgemeiner Gerichtsstand des Versicherers § 17 ZPO.
 - Streitwert bei wiederkehrenden Leistungen (BU-Rente): 3,5-fache Jahresleistung § 9 ZPO, gedeckelt durch den geringeren Wert bei kürzerer Restlaufzeit.
 - Feststellungsinteresse § 256 ZPO bei BU-Versicherung regelmäßig gegeben (BGH IV ZR 248/10, Urt. v. 22.06.2011, Rn. 16) — Versicherer bestreitet Versicherungsfall.

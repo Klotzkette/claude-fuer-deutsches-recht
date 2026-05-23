@@ -18,7 +18,7 @@ description: "Bussgeldbescheid OWiG §§ 65 ff. pruefen. Form- und Verfahrensfeh
 - Verjährung § 26 Abs. 3 StVG drei Monate ab Tatzeit (sechs Monate nach Anhörung bzw. nach Erlass eines Bußgeldbescheids); Unterbrechung § 33 OWiG (Anhörung, Bußgeldbescheid, etc.).
 - Anhörung § 55 OWiG — Recht des Betroffenen zur Stellungnahme vor Erlass des Bußgeldbescheids; Verletzung kann Verfahrenshindernis sein.
 - Akteneinsicht § 49 OWiG durch Verteidiger — insbesondere Messdaten und Falldatensatz.
-- Standardisiertes Messverfahren — Toleranzabzug nach Geräteart (regelmäßig 3 km/h bis 100 km/h, darüber 3 %); Vermutung der Richtigkeit, Verteidigung muss konkrete Anhaltspunkte für Messfehler vortragen (BGH 4 StR 24/01, Beschl. v. 19.08.1993).
+- Standardisiertes Messverfahren — Toleranzabzug nach Geräteart (regelmäßig 3 km/h bis 100 km/h, darüber 3 %); Vermutung der Richtigkeit, Verteidigung muss konkrete Anhaltspunkte für Messfehler vortragen (BGH, Beschl. v. 19.08.1993 - 4 StR 627/92, BGHSt 39, 291).
 - Recht auf Einsicht in Rohmessdaten (BVerfG 2 BvR 1167/20, Beschl. v. 12.11.2020, Rn. 33 ff. — Anspruch auf Zugang zu nicht in der Akte befindlichen Datensätzen, soweit sie zur effektiven Verteidigung erforderlich sind).
 - Einspruch § 67 OWiG schriftlich oder zur Niederschrift bei der erlassenden Behörde innerhalb zwei Wochen ab Zustellung.
 - Fahrverbot § 25 StVG — Regelfall bei BKat-Anlage 1 Nr. 11.3 ff.; Wegfall bei beruflicher Existenzgefährdung möglich (Härtefall, Mandant muss konkrete Umstände vortragen).

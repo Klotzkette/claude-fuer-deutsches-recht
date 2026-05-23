@@ -76,7 +76,7 @@ Leistungsfreiheit nur bei:
   - Brand durch Fettpfanne unbeaufsichtigt
   - Diebstahl ohne abschließen
   - Trunkenheitsfahrt Vollkasko
-- BGH IV ZR 122/09 (Trunkenheit) — vollständiger Wegfall möglich
+- BGH, Urt. v. 22.06.2011 - IV ZR 225/10 (Trunkenheit, § 81 VVG) — quotale Kürzung bis vollständiger Wegfall möglich
 
 ### Schritt 5 — Risikoausschlüsse
 

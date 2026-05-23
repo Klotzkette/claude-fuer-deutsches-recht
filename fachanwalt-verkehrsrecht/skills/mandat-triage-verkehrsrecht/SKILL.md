@@ -88,7 +88,7 @@ Bei Fahrerlaubnis-vorläufig-entzogen § 111a StPO:
 ## Mandatsannahme
 
 - **Konflikt-Check** — kein anderer Mandant in derselben Sache (Unfallgegner Versicherer Mitfahrer)
-- **Streitwert** ab EUR 10000 LG; darunter AG (Streitwertgrenze 2024 zehntausend Euro)
+- **Streitwert** ab EUR 10000 LG; darunter AG (Streitwertgrenze zehntausend Euro seit 01.01.2026 Justizreform)
 - **Komplexität** Personenschaden Eigentums-Streit über Halterstellung Auslandsbezug Lkw-Frachtrecht
 
 ## Eskalation

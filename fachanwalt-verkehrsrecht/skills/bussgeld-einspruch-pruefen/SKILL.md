@@ -1,6 +1,6 @@
 ---
 name: bussgeld-einspruch-pruefen
-description: Pruefraster Bussgeldbescheid nach OWiG. Erfasst Tatvorwurf (Geschwindigkeit Rotlicht Abstand Handy Trunkenheit § 24 StVG iVm BKatV) Bussgeldhoehe Punkte Fahrverbot. Pruefung Messverfahren (Lasermessgeraet PoliScan TraffiStar Lidar) Eichung Schulung Messung-Toleranz standardisiert (BGH 4 StR 47/14). Verteidigungs-Ansaetze Identitaetsbestreitung Fahrer-Foto Akteneinsicht Bussgeldakte Sachverstaendigen-Beweisangebot fehlerhafte Messung. Einspruchsfrist zwei Wochen § 67 OWiG mit Drei-Tages-Fiktion § 51 OWiG. Antrag auf Aufhebung Fahrverbot Haerte-Fall § 4 BKatV.
+description: Pruefraster Bussgeldbescheid nach OWiG. Erfasst Tatvorwurf (Geschwindigkeit Rotlicht Abstand Handy Trunkenheit § 24 StVG iVm BKatV) Bussgeldhoehe Punkte Fahrverbot. Pruefung Messverfahren (Lasermessgeraet PoliScan TraffiStar Lidar) Eichung Schulung Messung-Toleranz standardisiert (BGH 4 StR 627/92 BGHSt 39 291). Verteidigungs-Ansaetze Identitaetsbestreitung Fahrer-Foto Akteneinsicht Bussgeldakte Sachverstaendigen-Beweisangebot fehlerhafte Messung. Einspruchsfrist zwei Wochen § 67 OWiG mit Vier-Tages-Fiktion seit 01.01.2025 PostModG iVm § 4 Abs. 2 VwZG. Antrag auf Aufhebung Fahrverbot Haerte-Fall § 4 BKatV.
 ---
 
 # Bußgeldbescheid prüfen und Einspruch
@@ -21,7 +21,7 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler Identitäts-Zw
 ## Schritt 1 — Frist
 
 - **Zwei Wochen ab Bekanntgabe** § 67 OWiG
-- **Drei-Tages-Fiktion** § 51 OWiG bei Postversand
+- **Vier-Tages-Fiktion** seit 01.01.2025 PostModG (§ 51 Abs. 1 OWiG iVm § 4 Abs. 2 VwZG, zuvor drei Tage)
 - **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr § 50 OWiG analog
 - Wiedereinsetzung § 52 OWiG bei unverschuldetem Fristversaeumnis
 
@@ -55,7 +55,7 @@ Standardisierte Messverfahren BGH-anerkannt:
 - **Bis 100 km/h:** drei km/h Toleranz
 - **Ueber 100 km/h:** drei Prozent Toleranz
 - Bei Lasermessung mit Stativ Toleranz angepasst
-- BGH 4 StR 47/14 — Standardisiertes Messverfahren
+- BGH, Beschl. v. 19.08.1993 - 4 StR 627/92 (BGHSt 39, 291) — Standardisiertes Messverfahren
 
 ### Sachverständigen-Gutachten
 

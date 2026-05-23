@@ -102,7 +102,7 @@ Mit freundlichen Gruessen
 
 ## Übergabe
 
-- Bei Ablehnung oder Teilregulierung Klage zum Amtsgericht (bis 5.000 EUR) oder Landgericht (darüber, § 23 GVG).
+- Bei Ablehnung oder Teilregulierung Klage zum Amtsgericht (bis 10.000 EUR seit 01.01.2026, § 23 GVG) oder Landgericht (darüber, § 71 GVG).
 - Bei streitiger Schuldfrage Verkehrsunfallrekonstruktions-Sachverständigengutachten beantragen.
 - Bei Personenschaden zusätzlich Heilbehandlungs-, Haushaltsführungs- und Verdienstausfallrechnung detailliert führen.
 - Anschluss-Skill bei Klage: Klageschrift mit Stufenklage Auskunft zum gegnerischen Versicherungsschein § 117 VVG nötigenfalls.

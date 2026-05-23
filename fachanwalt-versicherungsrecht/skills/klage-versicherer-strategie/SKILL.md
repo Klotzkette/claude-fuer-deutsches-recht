@@ -19,7 +19,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 ## Schritt 1 — Streitwertbemessung
 
 - **Hauptforderung** bezifferter Wert
-- **Streitwert AG** bis EUR 10000 (seit Justizmodernisierung 2024)
+- **Streitwert AG** bis EUR 10000 (seit Justizreform 01.01.2026)
 - **Streitwert LG** ab EUR 10000
 - **Feststellungsklage** Wert nach § 9 ZPO (typisch ein Drittel des Versicherungs-Werts)
 - **BU-Rente** dreieinhalb-faches Jahresleistungs-Betrag § 9 ZPO
