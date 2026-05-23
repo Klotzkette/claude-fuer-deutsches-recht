@@ -142,7 +142,7 @@ Der spezielle Rechtsbehelf des Pressrechts bei falschen Tatsachenbehauptungen �
 
 ### Bei Online-Inhalten
 
-- **Update / Korrektur-Hinweis** § 6 DDG / § 25 TDDDG (TTDSG umbenannt 14.05.2024; DDG ersetzt TMG)
+- **Update / Korrektur-Hinweis** journalistische Sorgfaltspflicht (§ 19 MStV; presserechtlicher Berichtigungsanspruch); zur Bekanntgabe der Gegendarstellung im Online-Angebot siehe § 20 MStV
 - **Caroline-Linie** zur Auffindbarkeit-Eingrenzung
 
 ## Schritt 9 — Praktische Schritte
