@@ -1,7 +1,7 @@
 {
   "name": "gesellschaftsgruender",
   "version": "6.1.0",
-  "description": "Gruendungsassistent fuer deutsche Gesellschaften. Fuehrt von Rechtsformwahl GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH ueber Gesellschaftsvertrag und Geschaeftsfuehreranstellungsvertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister IHK Berufsgenossenschaft. MoPeG 2024 DiRUG Online-Gruendung GwG TraFinG. Erste-100-Tage-Pflichten fuer Geschaeftsfuehrer. Kein Ersatz fuer Notar- und Anwaltsberatung.",
+  "description": "Gruendungsassistent deutsche Gesellschaften (GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH). Von Rechtsformwahl ueber Gesellschaftsvertrag und Geschaeftsfuehrervertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister. MoPeG DiRUG GwG. Kein Ersatz fuer Anwaltsberatung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
