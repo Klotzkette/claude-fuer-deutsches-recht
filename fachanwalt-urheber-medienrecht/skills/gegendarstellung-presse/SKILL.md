@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-presse
-description: Pruefraster Anspruch auf Gegendarstellung nach Landespressegesetzen (LPG) typische Frist zwei Wochen Veroeffentlichungs-Pflicht in gleicher Aufmachung Sichtbarkeit Schriftgroesse. Voraussetzung Tatsachenbehauptung in periodischem Presseerzeugnis Betroffenheit eines bestimmten Personenkreises konkrete Gegendarstellung mit eigener Tatsachenbehauptung Unterschrift Original. Abgrenzung von Werturteilen Meinungs-Aeusserungen. Rundfunkstaatsvertrag Telemediengesetz fuer Online-Presse. Antrag auf einstweilige Verfuegung bei Verweigerung der Veroeffentlichung. Verhaeltnis zu Unterlassungs-Schadensersatz § 823 BGB iVm Art. 1 Art. 2 GG.
+description: Pruefraster Anspruch auf Gegendarstellung nach Landespressegesetzen (LPG) typische Frist zwei Wochen Veroeffentlichungs-Pflicht in gleicher Aufmachung Sichtbarkeit Schriftgroesse. Voraussetzung Tatsachenbehauptung in periodischem Presseerzeugnis Betroffenheit eines bestimmten Personenkreises konkrete Gegendarstellung mit eigener Tatsachenbehauptung Unterschrift Original. Abgrenzung von Werturteilen Meinungs-Aeusserungen. Medienstaatsvertrag DDG fuer Online-Presse. Antrag auf einstweilige Verfuegung bei Verweigerung der Veroeffentlichung. Verhaeltnis zu Unterlassungs-Schadensersatz § 823 BGB iVm Art. 1 Art. 2 GG.
 ---
 
 # Gegendarstellung nach Pressegesetz
@@ -22,8 +22,8 @@ Der spezielle Rechtsbehelf des Pressrechts bei falschen Tatsachenbehauptungen �
 ### Periodisches Presseerzeugnis
 
 - **Tageszeitung** Magazin Wochenzeitung
-- **Rundfunk** Fernsehen Radio (eigene Regelung im Rundfunkstaatsvertrag)
-- **Telemedien-Inhalte** journalistisch-redaktionell § 56 RStV / Medienstaatsvertrag
+- **Rundfunk** Fernsehen Radio (eigene Regelung im Medienstaatsvertrag MStV seit 07.11.2020 — RStV außer Kraft)
+- **Telemedien-Inhalte** journalistisch-redaktionell § 19 MStV (RStV außer Kraft seit 07.11.2020)
 - **Social-Media-Posts** von Redaktionen (str. — eher journalistische Telemedien)
 - **Sonstige Medien** nicht erfasst
 
@@ -142,7 +142,7 @@ Der spezielle Rechtsbehelf des Pressrechts bei falschen Tatsachenbehauptungen �
 
 ### Bei Online-Inhalten
 
-- **Update / Korrektur-Hinweis** § 6 DDG / TTDSG
+- **Update / Korrektur-Hinweis** § 6 DDG / § 25 TDDDG (TTDSG umbenannt 14.05.2024; DDG ersetzt TMG)
 - **Caroline-Linie** zur Auffindbarkeit-Eingrenzung
 
 ## Schritt 9 — Praktische Schritte
@@ -175,7 +175,7 @@ Hierzu stelle ich richtig:
 
 ## Schritt 11 — Bei Rundfunk
 
-- Rundfunkstaatsvertrag / Medienstaatsvertrag
+- Medienstaatsvertrag MStV (RStV außer Kraft seit 07.11.2020)
 - Frist und Form vergleichbar
 - Sendezeit zum Zeitpunkt der ursprünglichen Sendung
 
@@ -200,7 +200,7 @@ Hierzu stelle ich richtig:
 ## Quellen
 
 - LPG der Bundesländer
-- Rundfunkstaatsvertrag / Medienstaatsvertrag
+- Medienstaatsvertrag MStV (RStV außer Kraft seit 07.11.2020)
 - BGB §§ 823 1004
 - GG Art. 1 Art. 2
 - BGH VI. Zivilsenat

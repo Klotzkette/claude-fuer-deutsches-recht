@@ -1,6 +1,6 @@
 ---
 name: verbandsstrafe-anfechten
-description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spannungsfeld Verbandsautonomie Art. 9 GG vs. gerichtliche Inhaltskontrolle vereinsrechtlich § 25 BGB Schiedsklauseln § 1029 ZPO CAS-Schiedsgerichtsbarkeit (BGH Pechstein-Urteil VI ZR 304/15). Dopingverfahren NADA Code WADA-Code Anti-Doping-Gesetz § 4 AntiDopG. Vertraglicher und persoenlichkeitsrechtlicher Schutz Spieler bei Vereinswechsel Lizenzentzug Spielsperre Bewertungs-Verfahren. Inhaltskontrolle nach §§ 305 ff. BGB AGB-Anwendung auf Verbandssatzung BGH II ZR 235/95.
+description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spannungsfeld Verbandsautonomie Art. 9 GG vs. gerichtliche Inhaltskontrolle vereinsrechtlich § 25 BGB Schiedsklauseln § 1029 ZPO CAS-Schiedsgerichtsbarkeit (BGH Pechstein-Urteil KZR 6/15 v. 07.06.2016 Kartellsenat). Dopingverfahren NADA Code WADA-Code Anti-Doping-Gesetz § 4 AntiDopG. Vertraglicher und persoenlichkeitsrechtlicher Schutz Spieler bei Vereinswechsel Lizenzentzug Spielsperre Bewertungs-Verfahren. Inhaltskontrolle nach §§ 305 ff. BGB AGB-Anwendung auf Verbandssatzung BGH II ZR 235/95.
 ---
 
 # Verbandsstrafe anfechten
@@ -54,7 +54,7 @@ Sportler oder Verein wurden vom Sportverband bestraft (Sperre Geldstrafe Lizenze
 - **Restzuständigkeit** trotz Schiedsklausel
 - **Inhaltskontrolle** Schiedsklausel auf Wirksamkeit §§ 305 ff. BGB
 - **Vereinsrechtliche Anfechtung** § 25 BGB ungültiger Beschluss
-- BGH Pechstein VI ZR 304/15 — Schiedsklausel kann wirksam sein wenn Strukturpflicht erfüllt
+- BGH Pechstein KZR 6/15 v. 07.06.2016 (Kartellsenat) — Schiedsklausel kann wirksam sein wenn Strukturpflicht erfüllt
 
 ## Schritt 3 — Verbandsautonomie und Grenzen
 
@@ -113,7 +113,7 @@ Sportler oder Verein wurden vom Sportverband bestraft (Sperre Geldstrafe Lizenze
 
 ## Schritt 6 — Inhaltskontrolle der Schiedsklausel
 
-### Pechstein-Rechtsprechung BGH VI ZR 304/15
+### Pechstein-Rechtsprechung BGH KZR 6/15 v. 07.06.2016 (Kartellsenat)
 
 - Sport-Schiedsklauseln können wirksam sein
 - Voraussetzung: **Strukturelle Ausgewogenheit** des Schiedsverfahrens
@@ -183,7 +183,7 @@ Sportler oder Verein wurden vom Sportverband bestraft (Sperre Geldstrafe Lizenze
 - GG Art. 9 12
 - AntiDopG § 4
 - ZPO §§ 935 1029 1033
-- BGH II. Zivilsenat VI. Zivilsenat — Pechstein
+- BGH II. Zivilsenat (Vereinsrecht) BGH Kartellsenat — Pechstein KZR 6/15
 - EuGH C-415/93 Bosman
 - WADA-Code NADA-Verfahrensordnung
 - Adolphsen Sportrecht

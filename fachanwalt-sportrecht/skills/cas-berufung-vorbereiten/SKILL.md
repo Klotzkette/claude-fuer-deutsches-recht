@@ -24,7 +24,7 @@ Bei Sport-Verbandsstrafen ist die Berufung beim CAS in Lausanne häufig die einz
 
 - In Verbands-Statut oder Spielerlizenz häufig automatisch
 - Anwendbarkeit bei Pflicht-Mitgliedschaft / Lizenz
-- BGH Pechstein VI ZR 304/15 — strukturelle Ausgewogenheit erforderlich
+- BGH Pechstein KZR 6/15 v. 07.06.2016 (Kartellsenat) — strukturelle Ausgewogenheit erforderlich
 
 ### CAS-Gerichtsbarkeit
 
@@ -241,7 +241,7 @@ Die Berufungsführerin beantragt:
 - CAS Code R47 ff. R58 R37 R49
 - WADA-Code aktuelle Fassung
 - IPRG Art. 77
-- BGH Pechstein VI ZR 304/15
+- BGH Pechstein KZR 6/15 v. 07.06.2016 (Kartellsenat)
 - Schweizer Bundesgericht zu CAS-Beschwerden
 - Adolphsen Sportrecht
 - Reeb/Mavromati Code of CAS

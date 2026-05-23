@@ -1,13 +1,13 @@
 ---
 name: mandat-triage-urheber-medienrecht
-description: Strukturierte Eingangs-Abfrage fuer urheber- und medienrechtliche Mandate. Klaert Sachgebiet (Urheberrecht inkl. Filesharing Foto-Lizenz Software-Lizenz Persoenlichkeitsrecht Presserecht Aeusserungsrecht KUG Recht am eigenen Bild Rundfunk Streaming Plattformhaftung NetzDG DSA Verlags- und Buchrecht Filmrecht Musikrecht GEMA VG WORT VG BildKunst) Mandantenrolle (Urheber Werknutzer Plattform Verlag Medienhaus Privatperson Betroffener) Sofort-Fristen Abmahnungsfrist Gegendarstellung Frist § 11 LPG. Eskalation Telefon-Sofort bei einstweiliger Verfuegung. Routing zu urheber-abmahnung-pruefen.
+description: Strukturierte Eingangs-Abfrage fuer urheber- und medienrechtliche Mandate. Klaert Sachgebiet (Urheberrecht inkl. Filesharing Foto-Lizenz Software-Lizenz Persoenlichkeitsrecht Presserecht Aeusserungsrecht KUG Recht am eigenen Bild Rundfunk Streaming Plattformhaftung DSA DDG Verlags- und Buchrecht Filmrecht Musikrecht GEMA VG WORT VG BildKunst) Mandantenrolle (Urheber Werknutzer Plattform Verlag Medienhaus Privatperson Betroffener) Sofort-Fristen Abmahnungsfrist Gegendarstellung Frist § 11 LPG. Eskalation Telefon-Sofort bei einstweiliger Verfuegung. Routing zu urheber-abmahnung-pruefen.
 ---
 
 # Mandat-Triage Urheber- und Medienrecht
 
 ## Zweck
 
-Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Persönlichkeitsrecht (Ehre Privatsphäre Bild) vs. Presserecht (Berichterstattung) vs. Internet-Plattformen (NetzDG DSA). Triage ordnet zu.
+Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Persönlichkeitsrecht (Ehre Privatsphäre Bild) vs. Presserecht (Berichterstattung) vs. Internet-Plattformen (DSA DDG). Triage ordnet zu.
 
 ## Ablauf — sieben Fragen
 
@@ -32,7 +32,7 @@ Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Per
 - Persönlichkeitsrecht (KUG Recht am eigenen Bild §§ 22 23 KUG; Ehrenschutz § 823 BGB iVm Art. 1 Art. 2 GG)
 - Presserecht (Berichterstattung Pressestrafrecht)
 - Rundfunk Streaming Plattform
-- NetzDG DSA Plattformhaftung
+- DSA DDG Plattformhaftung
 - Verwertungsgesellschaften
 - Datenschutz medial
 
@@ -68,7 +68,7 @@ Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Per
 - **Abmahnungsfrist** wie gesetzt
 - **Einstweilige Verfügung** Dringlichkeit ein Monat ab Kenntnis (Münchener Rechtsprechung)
 - **Hauptsacheklage nach EV** § 926 ZPO Aufforderung
-- **NetzDG-Beschwerde** sieben/vierundzwanzig Stunden Provider
+- **DSA-Beschwerde Art. 16 DSA** (NetzDG aufgehoben 14.05.2024)
 
 ### Frage 7 — Wirtschaftliche Verhältnisse?
 
@@ -87,7 +87,7 @@ Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Per
 | Software-Lizenz Open-Source-Compliance | weiter an `gewerblicher-rechtsschutz` Skill `open-source-pruefung` |
 | Persönlichkeitsrecht / KUG | (Skill kug-aeusserungsrecht — perspektivisch) |
 | Presserecht Gegendarstellung | (Skill gegendarstellung — perspektivisch) |
-| Plattform DSA NetzDG | (Skill plattform-haftung — perspektivisch) |
+| Plattform DSA DDG | (Skill plattform-haftung — perspektivisch) |
 | Verlagsvertrag-Beratung | (Skill verlagsvertrag — perspektivisch) |
 
 ## Mandatsannahme
@@ -119,7 +119,7 @@ Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Per
 - KUG §§ 22 23
 - BGB §§ 823 1004
 - LPG (jeweils landesrechtlich)
-- NetzDG DSA
+- DSA DDG (DDG seit 14.05.2024 ersetzt TMG; NetzDG aufgehoben)
 - BGH I. Zivilsenat VI. Zivilsenat
 - Schricker/Loewenheim UrhG
 - Soehring/Hoehne Presserecht
