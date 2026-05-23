@@ -62,8 +62,9 @@ Wenn nein — Realakt informelle Maßnahme — andere Klagearten Feststellungs- 
 
 **Bekanntgabe-Fiktion**
 
-- **§ 41 Abs. 2 VwVfG** vier Tage nach Aufgabe zur Post bei Inland-Bescheid (seit 01.01.2025 PostModG — vorher drei Tage)
-- **Elektronisch § 41 Abs. 2a VwVfG** drei Tage nach Absendung
+- **§ 41 Abs. 2 Satz 1 VwVfG** vier Tage nach Aufgabe zur Post bei Inland-Bescheid (seit 01.01.2025 PostModG — vorher drei Tage)
+- **§ 41 Abs. 2 Satz 2 VwVfG** elektronisch übermittelter Bescheid gilt vier Tage nach Absendung als bekannt gegeben (seit 01.01.2025 PostModG — vorher drei Tage)
+- **§ 41 Abs. 2a VwVfG** Bekanntgabe durch Abruf über öffentlich zugängliche Netze (Portal-Zustellung mit Einwilligung): gilt am Tag nach dem Abruf als bekannt gegeben
 
 ## Schritt 6 — Vorläufiger Rechtsschutz
 
