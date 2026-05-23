@@ -30,7 +30,7 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rueck
 | Datei | Beschreibung |
 |---|---|
 | [BSAG-Mietvertrag-Vorlage.docx](BSAG-Mietvertrag-Vorlage.docx) / [.md](BSAG-Mietvertrag-Vorlage.md) | Generische Vermietungsvorlage der BSAG mit Platzhaltern fuer alle Mieterdaten, Preise und Sonderbedingungen |
-| [BSAG-TermSheet-Kiosk-Huckelriede - Kopie.docx](BSAG-TermSheet-Kiosk-Huckelriede%20-%20Kopie.docx) / [.md](BSAG-TermSheet-Kiosk-Huckelriede%20-%20Kopie.md) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
+| [BSAG-TermSheet-Kiosk-Huckelriede.docx](BSAG-TermSheet-Kiosk-Huckelriede.docx) / [.md](BSAG-TermSheet-Kiosk-Huckelriede.md) | Konkretes Term Sheet zum Mietfall Scherflein GmbH mit allen ausgehandelten Zahlen und Sonderpunkten |
 | [01_feldinventar_bsag.csv](01_feldinventar_bsag.csv) | Aus der Vorlage extrahiertes Feldinventar (Platzhalter, Typ, Bemerkung) |
 | [02_mapping_notiz.md](02_mapping_notiz.md) | Mapping zwischen Vorlage-Feldern und Term-Sheet-Werten inklusive Konfliktstellen |
 | [03_rueckfragen_bsag.md](03_rueckfragen_bsag.md) | Offene Rueckfragen an die BSAG vor Erstellung des Clean-Entwurfs |
