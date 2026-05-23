@@ -8,3 +8,5 @@ outputs/
 __pycache__/
 *.pyc
 /dist/
+
+testakten/**/*.zip
