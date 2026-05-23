@@ -25,7 +25,7 @@ description: "Anwendbares Recht bei grenzueberschreitenden Vertraegen nach Rom-I
 - Arbeitsvertrag Art. 8 Rom I — gewöhnlicher Arbeitsort; Günstigkeitsprinzip.
 - Eingriffsnormen Art. 9 Rom I.
 - ordre public Art. 21 Rom I.
-- EuGH zu konkludenter Rechtswahl: EuGH C-184/12, Urt. v. 17.10.2013, Rn. 35 ff. (Unamar).
+- EuGH zu Eingriffsnormen Art. 9 Rom I: EuGH C-184/12, Urt. v. 17.10.2013, Rn. 46 ff. (Unamar) — Anwendung zwingender Vorschriften des Forumstaats trotz Rechtswahl.
 
 ## Beweislast und Frist
 

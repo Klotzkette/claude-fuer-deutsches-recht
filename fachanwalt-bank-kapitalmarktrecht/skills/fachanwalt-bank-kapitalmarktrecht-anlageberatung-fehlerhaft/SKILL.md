@@ -8,7 +8,7 @@ description: "Fehlerhafte Anlageberatung der Bank pruefen. Bond-Urteil-Pflichten
 ## Kaltstart-Rückfragen
 
 1. Welches Anlageprodukt wurde empfohlen (Aktie, Anleihe, Zertifikat, geschlossener Fonds, Schiffsfonds, Immobilienfonds)?
-2. Wann erfolgte die Beratung und wann wurde der Erwerb getätigt? Liegt ein Beratungsprotokoll § 18 WpHG vor?
+2. Wann erfolgte die Beratung und wann wurde der Erwerb getätigt? Liegt eine Geeignetheitserklärung § 64 Abs. 4 WpHG (bis 02.01.2018: Beratungsprotokoll § 34 Abs. 2a WpHG aF) vor?
 3. Welche Risikoklasse hat der Mandant in seinem WpHG-Bogen angegeben? Wurde Risikobereitschaft und Anlageziel erfragt?
 4. Hat die Bank über Rückvergütungen (Kick-backs) oder Innenprovisionen aufgeklärt?
 5. Wie hoch ist der eingetretene Schaden (Erwerbsschaden, entgangener Gewinn)?
@@ -17,7 +17,7 @@ description: "Fehlerhafte Anlageberatung der Bank pruefen. Bond-Urteil-Pflichten
 
 - Konkludenter Beratungsvertrag mit Bank/Berater bei eigener Anlageberatung: BGH XI ZR 12/93, Urt. v. 06.07.1993, Rn. 11 ff. (Bond-Urteil).
 - Anleger- und anlagegerechte Beratung — Pflicht zur vollständigen, richtigen und verständlichen Information.
-- Aufklärungspflicht über Rückvergütungen (Kick-backs): BGH XI ZR 510/07, Urt. v. 19.12.2006, Rn. 23.
+- Aufklärungspflicht über Rückvergütungen (Kick-backs): BGH XI ZR 510/07, Beschl. v. 20.01.2009, Rn. 12 ff. (Kick-back III); grundlegend BGH XI ZR 56/05, Urt. v. 19.12.2006, Rn. 22 (Kick-back II).
 - Aufklärungspflicht über Innenprovisionen ab 15 Prozent: BGH III ZR 359/02, Urt. v. 12.02.2004, Rn. 38.
 - Anspruchsgrundlage: §§ 280 Abs. 1, 311 Abs. 2 BGB i.V.m. Beratungsvertrag (Schadensersatz wegen Pflichtverletzung).
 - Bei Vorsatz oder Sittenwidrigkeit zusätzlich § 826 BGB und § 31 BGB für Organhaftung.
@@ -40,7 +40,7 @@ description: "Fehlerhafte Anlageberatung der Bank pruefen. Bond-Urteil-Pflichten
    - Rueckverguetung/Kick-back
    - Innenprovision >= 15%
    - Totalverlustrisiko (geschlossene Fonds)
-4. Beratungsprotokoll § 18 WpHG analysieren
+4. Geeignetheitserklaerung § 64 Abs. 4 WpHG analysieren (bzw. § 34 Abs. 2a WpHG aF bis 02.01.2018)
 5. Schaden berechnen (Erwerbsschaden + entgangener Gewinn)
 6. Verjaehrung pruefen (3 Jahre Kenntnis / 10 Jahre Hoechstfrist)
 ```
@@ -62,7 +62,7 @@ EUR [Betrag].
 
 Beratungsfehler liegen in folgenden Punkten:
 1. fehlende Aufklaerung ueber Rueckverguetung (Kick-back BGH XI ZR
-   510/07 Rn. 23)
+   510/07 Beschl. v. 20.01.2009 Rn. 12 ff.)
 2. unterlassene Aufklaerung ueber Innenprovision von [...] Prozent
    (BGH III ZR 359/02 Rn. 38)
 3. anlegerunabhaengige Empfehlung trotz Risikoklasse [...]

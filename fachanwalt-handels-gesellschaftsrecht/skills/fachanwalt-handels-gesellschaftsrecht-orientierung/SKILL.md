@@ -27,7 +27,7 @@ description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetz
 - **AktG:** Gründung §§ 1 ff., Hauptversammlung §§ 118 ff., Beschlussanfechtung §§ 241 ff., Vorstandshaftung § 93 AktG, Aufsichtsrat §§ 95 ff.
 - **PartGG** und **MoPeG-GbR-Recht** (in Kraft seit 01.01.2024) mit eGbR-Registereintragung.
 - **UmwG:** Verschmelzung §§ 2 ff., Spaltung §§ 123 ff., Formwechsel §§ 190 ff.
-- **InsO Schnittstellen:** § 15a InsO (Antragspflicht), § 64 GmbHG aF / § 15b InsO (Zahlungsverbot).
+- **InsO Schnittstellen:** § 15a InsO (Antragspflicht); § 15b InsO Zahlungsverbot ab Insolvenzreife (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021, ersetzt durch § 15b InsO).
 
 ## Typische Mandate
 
@@ -53,7 +53,7 @@ description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetz
 ## Maßgebliche Rechtsprechung
 
 - BGH, Urt. v. 21.04.1997 – Az. II ZR 175/95, BGHZ 135, 244 Rn. 17 – ARAG/Garmenbeck — Geschäftsleiterermessen, Vorläufer Business Judgement Rule (kodifiziert § 93 Abs. 1 S. 2 AktG).
-- BGH, Urt. v. 26.06.2018 – Az. II ZR 65/16, BGHZ 219, 193 Rn. 25 — Geschäftsführerhaftung GmbH.
+- BGH, Urt. v. 04.11.2002 – Az. II ZR 224/00, BGHZ 152, 280 Rn. 8 ff. — Darlegungs- und Beweislast Geschäftsführerhaftung GmbH (§ 93 Abs. 2 S. 2 AktG analog).
 - BGH, Urt. v. 12.03.2013 – Az. II ZR 73/11, BGHZ 197, 304 Rn. 20 — Stimmverbot § 47 Abs. 4 GmbHG.
 - BGH, Urt. v. 12.10.2009 – Az. II ZR 257/08, BGHZ 183, 84 Rn. 38 – Lipsia — Innenausgleich Gesellschafter.
 - BGH, Urt. v. 14.07.2009 – Az. II ZR 17/08, BGHZ 182, 1 Rn. 12 — Handelsvertreterausgleich Berechnung.

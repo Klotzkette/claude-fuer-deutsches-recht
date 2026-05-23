@@ -32,7 +32,7 @@ Erste Frage bei jedem internationalen Mandat: wo wird gestritten und nach welche
 - **Form** schriftlich oder elektronisch dauerhaft
 - **Bestimmtheit** Gericht oder Gerichte konkret
 - **Ausschließlichkeit** zu vermuten Art. 25 Abs. 1 Satz 2
-- **Asymmetrische Klauseln** wirksam (BGH XI ZR 80/12)
+- **Asymmetrische Klauseln** wirksam (BGH II ZB 35/20 Beschl. v. 15.06.2021; vgl. EuGH C-537/23 v. 27.02.2025 — Anforderungen Art. 25 Brüssel Ia)
 
 ### Spezielle Gerichtsstände
 

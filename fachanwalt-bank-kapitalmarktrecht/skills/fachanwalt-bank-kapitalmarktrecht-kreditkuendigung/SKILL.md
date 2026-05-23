@@ -20,7 +20,7 @@ description: "Kreditkuendigung der Bank pruefen. Ordentliche Kuendigung § 488 A
 - Allgemeines Kündigungsrecht aus wichtigem Grund § 314 BGB — Abmahnung erforderlich falls Pflichtverletzung.
 - Bei Verbraucherdarlehen § 498 BGB: qualifizierter Zahlungsverzug erforderlich (zwei aufeinander folgende Raten ganz oder teilweise; bei Restlaufzeit > 3 Jahre 10 %, bei kürzerer 5 % des Nennbetrags); zweiwöchige Heilungsfrist nach Mahnung.
 - AGB-Banken Nr. 19 (ordentliche Kündigung) und Nr. 26 (außerordentliche Kündigung) — AGB-Kontrolle § 307 BGB.
-- Vorfälligkeitsentschädigung § 502 BGB; Berechnungsmethode BGH XI ZR 27/00, Urt. v. 30.11.2004, Rn. 22 ff.
+- Vorfälligkeitsentschädigung § 502 BGB; Berechnungsmethode (Aktiv-Passiv-Vergleich) BGH XI ZR 27/00, Urt. v. 07.11.2000, Rn. 18 ff.
 - Treu und Glauben § 242 BGB — Kündigung zur Unzeit oder ohne überwiegenden Bankinteressen.
 
 ## Beweislast und Frist

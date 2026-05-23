@@ -74,4 +74,4 @@ description: Orientierung im Insolvenz- und Sanierungsrecht und Fachanwaltschaft
 - **`insolvenzrecht`** für operative Mandatsführung.
 - **`steuerrecht-kanzlei`** für Steuerforderungen in der Insolvenz und § 75 AO.
 - **`fachanwalt-arbeitsrecht`** bei §§ 113, 125 ff. InsO und Insolvenzgeld.
-- **`fachanwalt-handels-gesellschaftsrecht`** bei Geschäftsführerhaftung § 64 GmbHG aF / § 15b InsO.
+- **`fachanwalt-handels-gesellschaftsrecht`** bei Geschäftsführerhaftung § 15b InsO (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021).

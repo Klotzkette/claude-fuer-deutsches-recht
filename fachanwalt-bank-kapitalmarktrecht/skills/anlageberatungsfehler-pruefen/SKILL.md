@@ -69,12 +69,12 @@ BGH XI ZR 56/05 XI ZR 191/10 und Folgerechtsprechung:
 
 ### Lehman-Zertifikate
 
-- Aufklärungs-Pflicht über Emittenten-Risiko (BGH XI ZR 33/10 XI ZR 174/10)
+- Aufklärungs-Pflicht über Emittenten-Risiko (BGH XI ZR 178/10 XI ZR 182/10 — Lehman v. 27.09.2011)
 - Verteilung Beratung Bank vs. Aufklärung Emittent
 
 ### Swap-Geschäfte / CMS Spread Ladder Swap
 
-- BGH XI ZR 33/10 Ille (anfänglicher negativer Marktwert)
+- BGH XI ZR 33/10 Ille (anfänglicher negativer Marktwert v. 22.03.2011)
 - Aufklärung über strukturierte Komplexität
 
 ### Schiffsfonds Filmfonds

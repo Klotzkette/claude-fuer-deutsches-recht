@@ -19,7 +19,7 @@ description: Geschaeftsfuehrerhaftung § 43 GmbHG und Vorstandshaftung § 93 Akt
 - **GmbH:** § 43 Abs. 1 GmbHG Sorgfalt eines ordentlichen Geschäftsmanns; § 43 Abs. 2 GmbHG Schadensersatzpflicht bei Pflichtverletzung; § 43 Abs. 3 GmbHG verschärfte Haftung bei verbotener Auszahlung des Stammkapitals; § 43 Abs. 4 GmbHG Verjährung fünf Jahre.
 - **AG:** § 93 Abs. 1 S. 1 AktG Sorgfaltspflicht; § 93 Abs. 1 S. 2 AktG Business Judgement Rule; § 93 Abs. 2 S. 1 AktG Schadensersatzpflicht; § 93 Abs. 2 S. 2 AktG Beweislastumkehr für Pflichterfüllung und schuldhaftes Handeln; § 93 Abs. 6 AktG Verjährung (fünf Jahre, börsennotierte AG zehn Jahre).
 - **Verbotene Rückzahlung:** § 30 GmbHG iVm § 43 Abs. 3 GmbHG; § 57 AktG.
-- **Insolvenzrechtliche Haftung:** § 15a InsO Antragspflicht; § 15b InsO Zahlungsverbot ab Insolvenzreife (vormals § 64 GmbHG aF; bzw. § 92 Abs. 2 AktG aF).
+- **Insolvenzrechtliche Haftung:** § 15a InsO Antragspflicht; § 15b InsO Zahlungsverbot ab Insolvenzreife (§ 64 GmbHG und § 92 Abs. 2 AktG aF aufgehoben durch SanInsFoG zum 01.01.2021, ersetzt durch § 15b InsO als rechtsformneutrale Regelung).
 - **Steuern und Sozialversicherung:** § 69 AO Haftung für hinterzogene Steuern; § 266a StGB Vorenthalten von Sozialversicherungsbeiträgen mit zivilrechtlicher Haftung § 823 Abs. 2 BGB.
 - **Aktionärsklage:** Klagezulassungsverfahren § 148 AktG (Quorum 1 % oder EUR 100 000 anteilige Beteiligung).
 - **Verfolgungspflicht Aufsichtsrat:** § 111 AktG, BGH ARAG/Garmenbeck.
@@ -29,7 +29,7 @@ description: Geschaeftsfuehrerhaftung § 43 GmbHG und Vorstandshaftung § 93 Akt
 
 - BGH, Urt. v. 21.04.1997 – Az. II ZR 175/95, BGHZ 135, 244 Rn. 17 – ARAG/Garmenbeck — unternehmerisches Ermessen (Vorläufer Business Judgement Rule).
 - BGH, Urt. v. 22.02.2011 – Az. II ZR 146/09, BGHZ 188, 326 Rn. 15 — Anforderungen Business Judgement Rule.
-- BGH, Urt. v. 26.06.2018 – Az. II ZR 65/16, BGHZ 219, 193 Rn. 25 — Schadensermittlung Geschäftsführerhaftung GmbH.
+- BGH, Urt. v. 04.11.2002 – Az. II ZR 224/00, BGHZ 152, 280 Rn. 8 ff. — Darlegungs- und Beweislast bei Schadensersatzansprüchen gegen GmbH-Geschäftsführer (§ 93 Abs. 2 S. 2 AktG analog); Beweismaß § 287 ZPO.
 - BGH, Urt. v. 16.03.2009 – Az. II ZR 280/07, BGHZ 180, 105 Rn. 17 — Haftung wegen verspäteter Insolvenzantragstellung.
 - BGH, Urt. v. 14.07.2008 – Az. II ZR 202/07, BGHZ 177, 235 Rn. 28 — Innenausgleich bei Mehrgliederhaftung.
 

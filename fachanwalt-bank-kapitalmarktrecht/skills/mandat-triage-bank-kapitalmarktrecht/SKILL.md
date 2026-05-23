@@ -29,7 +29,7 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 - Verbraucherkredit Widerruf § 495 ff. BGB Widerrufsjoker
 - Immobilienfinanzierungs-Beratung
 - Bank-AGB Kontoführung Kontosperre
-- Kontopfändung Pfändungsschutz P-Konto § 850k ZPO
+- Kontopfändung Pfändungsschutz P-Konto §§ 850k 899 ff. ZPO (Pfändungsschutzkonto seit PKoFoG 01.12.2021 in §§ 899-910 ZPO)
 - Kreditsicherheiten Grundschuld Bürgschaft Sicherungsabtretung
 - Geldwäsche § 261 StGB AMLA
 - BaFin-Aufsicht Sanktionen
@@ -131,5 +131,5 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 - VermAnlG WpPG
 - StGB § 261
 - KWG
-- ZPO § 850k
+- ZPO §§ 850k 899-910 (PKoFoG)
 - BGH XI. Zivilsenat — Bond Lehman Ille Kickback
