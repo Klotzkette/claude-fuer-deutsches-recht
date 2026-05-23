@@ -1,0 +1,41 @@
+{
+  "name": "hausarbeitenmacher",
+  "version": "0.2.0",
+  "description": "Didaktisches Plugin fuer juristische Hausarbeiten und Seminararbeiten im Jurastudium. Fuehrt Studierende sokratisch durch die Loesung in Zivilrecht oeffentlichem Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt Adressaten-Strategie ohne Schleimerei. Bei Seminararbeit Modus-Wechsel zum wissenschaftlichen Aufsatz mit eigener These. Strikt lernfoerdernd nicht zum Abschreiben: das Plugin stellt Fragen gibt Strukturen Schemata Methodenhinweise Zitierweise aber liefert keine fertigen Loesungen sondern fuehrt zu eigenstaendiger Subsumtion. Behutsam-frech-wertschaetzender Dialog-Stil am Rande. Geeignet fuer GuP Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit und Seminararbeit.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "keywords": [
+    "hausarbeit",
+    "seminararbeit",
+    "jurastudium",
+    "gutachten",
+    "gutachtenstil",
+    "subsumtion",
+    "anspruchsgrundlagen",
+    "zivilrecht",
+    "oeffentliches-recht",
+    "strafrecht",
+    "europarecht",
+    "rechtstheorie",
+    "rechtsphilosophie",
+    "methodenlehre",
+    "auslegung",
+    "klausur",
+    "sokratisch",
+    "anfaengeruebung",
+    "fortgeschrittenenuebung",
+    "examenshausarbeit",
+    "didaktik",
+    "lernen",
+    "studium",
+    "jura",
+    "professor",
+    "lehrkraft",
+    "vortrag",
+    "disputation",
+    "wissenschaftlich"
+  ],
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+}

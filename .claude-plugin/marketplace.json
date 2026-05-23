@@ -439,6 +439,15 @@
       "version": "5.6.0"
     },
     {
+      "name": "hausarbeitenmacher",
+      "source": "./hausarbeitenmacher",
+      "description": "Didaktisches Plugin fuer juristische Hausarbeiten und Seminararbeiten im Jurastudium. Fuehrt Studierende sokratisch durch die Loesung in Zivilrecht oeffentlichem Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt Adressaten-Strategie ohne Schleimerei. Bei Seminararbeit Modus-Wechsel zum wissenschaftlichen Aufsatz mit eigener These. Strikt lernfoerdernd nicht zum Abschreiben. Behutsam-frech-wertschaetzender Dialog-Stil am Rande.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "0.2.0"
+    },
+    {
       "name": "immobilienrechtspraxis",
       "source": "./immobilienrechtspraxis",
       "description": "Werkzeuge fuer immobilienrechtliche Rechtsabteilungen — musterbasierte Vertragserstellung mit Klauselschutz; Vertragspruefung gegen Playbook; Grundbuchanalyse; Sachverhaltsermittlung; Mieteranfragen mit BGH-Verankerung; Case Management; projektbasierte Arbeitsweise mit AVV-Pruefung.",
