@@ -38,7 +38,7 @@ description: SGB II Buergergeld-Bescheid. Bedarfsberechnung Regelbedarf § 20 Me
 5. Einkommensanrechnung
    - Bereinigung § 11b SGB II (Versicherungspauschale, Werbungskosten, Erwerbstätigenfreibetrag).
 6. Vermögen
-   - Freibeträge, Schonvermögen, Karenzzeit nach § 12 Abs. 4 SGB II.
+   - Freibeträge (§ 12 Abs. 2 SGB II: 15.000 EUR pro Person), Karenzzeit ein Jahr ab Erstbezug § 12 Abs. 3 SGB II (Vermögen nur bei Erheblichkeit berücksichtigt), Definition erhebliches Vermögen § 12 Abs. 4 SGB II (40.000 EUR / 15.000 EUR), Schonvermögen § 12 Abs. 1 SGB II.
 7. Sanktionen
    - Ist die Pflichtverletzung tatbestandlich? Rechtsfolgenbelehrung erfolgt?
 8. Verfahrensfehler

@@ -73,7 +73,7 @@ ein.
 Begründung folgt binnen vier Wochen nach Akteneinsicht. Wir bitten um Übersendung der vollständigen Verwaltungsakte (§ 25 SGB X) sowie um Mitteilung des Sachbearbeiters.
 
 [Bei Wegfall der aufschiebenden Wirkung zusätzlich:]
-Zugleich wird beim zuständigen Sozialgericht parallel ein Antrag nach § 86b Abs. 2 SGG auf Wiederherstellung / Anordnung der aufschiebenden Wirkung gestellt.
+Zugleich wird beim zuständigen Sozialgericht parallel ein Antrag nach § 86b Abs. 1 Satz 1 Nr. 2 SGG auf Anordnung der aufschiebenden Wirkung gestellt (Anfechtungssituation, etwa bei § 39 SGB II); bei Verpflichtungs- bzw. Leistungsbegehren stattdessen einstweilige Anordnung nach § 86b Abs. 2 SGG.
 
 Anlagen:
 - Vollmacht
