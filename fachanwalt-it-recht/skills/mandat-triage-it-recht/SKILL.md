@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-it-recht
-description: Strukturierte Eingangs-Abfrage fuer IT-rechtliche Mandate. Klaert Sachgebiet (Softwareerstellung Lizenzrecht SaaS Cloud Hosting IT-Sicherheit DSGVO IT-Compliance NIS-2 Cyber-Vorfall AI-Act KRITIS Telekommunikationsrecht TMG Provider-Haftung E-Commerce Domain-Recht Plattformrecht DSA) Mandantenrolle (Auftraggeber Auftragnehmer Plattform Hosting-Provider Nutzer) Vertragstyp Phase (vor Vertrag waehrend Projekt nach Abnahme Streit) Sofort-Fristen Cyber-Vorfall-Meldung 72-Stunden-DSGVO 24-Stunden-NIS-2 Stilllegungs-Anordnungen. Eskalation Telefon-Sofort bei Cyber-Vorfall Hacker-Angriff. Routing zu softwarefehler-mangelhaftung-pruefen.
+description: Strukturierte Eingangs-Abfrage fuer IT-rechtliche Mandate. Klaert Sachgebiet (Softwareerstellung Lizenzrecht SaaS Cloud Hosting IT-Sicherheit DSGVO IT-Compliance NIS-2 Cyber-Vorfall AI-Act KRITIS Telekommunikationsrecht TMG Provider-Haftung E-Commerce Domain-Recht Plattformrecht DSA TMG abgeloest durch DDG seit 14.05.2024) Mandantenrolle (Auftraggeber Auftragnehmer Plattform Hosting-Provider Nutzer) Vertragstyp Phase (vor Vertrag waehrend Projekt nach Abnahme Streit) Sofort-Fristen Cyber-Vorfall-Meldung 72-Stunden-DSGVO 24-Stunden-NIS-2 Stilllegungs-Anordnungen. Eskalation Telefon-Sofort bei Cyber-Vorfall Hacker-Angriff. Routing zu softwarefehler-mangelhaftung-pruefen.
 ---
 
 # Mandat-Triage IT-Recht
@@ -35,7 +35,7 @@ IT-Recht ist breit und stark im Wandel (DSGVO NIS-2 AI Act DSA). Triage stellt S
 - DSA Plattformhaftung
 - E-Commerce-Recht (Impressum AGB Verbraucherschutz)
 - Domain-Streit
-- Telekommunikationsrecht TKG
+- Telekommunikationsrecht TKG / TDDDG (vormals TTDSG)
 - IT-Strafrecht (§§ 202a 202b 202c 263a 303a 303b StGB)
 
 ### Frage 3 — Akute Eilbedürftigkeit?
@@ -135,7 +135,7 @@ Bei aktivem Hacker-Angriff:
 - BGB §§ 433 ff. 535 ff. 611 631 ff.
 - StGB §§ 202a 202b 202c 263a 303a 303b
 - DSGVO Art. 33 34
-- NIS-2-RL (in DE umgesetzt durch NIS2UmsuCG)
+- NIS-2-RL (in DE umgesetzt durch NIS2UmsuCG in Kraft seit 06.12.2025 — Hauptnorm § 32 BSIG n.F.)
 - AI Act
 - DSA
 - BGH VIII. Zivilsenat

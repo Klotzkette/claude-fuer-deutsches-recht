@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-orientierung
-description: Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TTDSG TKG NIS2-Umsetzungsgesetz DDG (vormals TMG) DSA Digital Services Act DMA Digital Markets Act EU-KI-VO Verordnung 2024/1689. Open-Source-Compliance. Schnittstelle Plugin datenschutzrecht ki-governance vertragsrecht.
+description: Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TDDDG (vormals TTDSG) TKG NIS2-Umsetzungsgesetz BSIG n.F. DDG (vormals TMG) DSA Digital Services Act DMA Digital Markets Act EU-KI-VO Verordnung 2024/1689. Open-Source-Compliance. Schnittstelle Plugin datenschutzrecht ki-governance vertragsrecht.
 ---
 
 # Fachanwalt für Informationstechnologierecht — Orientierung
@@ -15,10 +15,10 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 | Bereich | Norm |
 |---|---|
 | IT-Vertragsrecht | BGB §§ 305 ff. (AGB) §§ 631 ff. (Werkvertrag bei Softwareentwicklung) §§ 535 ff. (Mietrecht analog bei SaaS-Cloud-Modellen) |
-| Datenschutz | DSGVO BDSG TTDSG |
+| Datenschutz | DSGVO BDSG TDDDG (Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz seit 14.05.2024 vormals TTDSG) |
 | Telekommunikation | TKG |
 | Digitale Dienste | DDG (Digitale-Dienste-Gesetz seit 14.05.2024 ersetzt TMG für Plattformbetreiber) |
-| Cybersicherheit | NIS2-Umsetzungsgesetz BSIG |
+| Cybersicherheit | NIS2UmsuCG (in Kraft seit 06.12.2025) BSIG n.F. § 32 BSIG Meldepflichten |
 | Plattformregulierung | DSA (EU 2022/2065) DMA (EU 2022/1925) |
 | Kuenstliche Intelligenz | EU-KI-VO (EU 2024/1689) |
 | Urheberrecht | UrhG bei Software §§ 69a ff. UrhG |
@@ -39,7 +39,7 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 ## Fristen
 
 - **Datenpannenmeldung** DSGVO Art. 33 — 72 Stunden.
-- **NIS2-Meldepflicht** binnen 24 Stunden erste Meldung 72 Stunden Update.
+- **NIS2-Meldepflicht** § 32 BSIG n.F. — 24 Stunden Frühwarnung 72 Stunden Folgemeldung Abschlussbericht binnen eines Monats.
 - **Vertragsverjährung** regelmäßig drei Jahre (§ 195 BGB).
 - **Open-Source-Lizenzverletzung** Verjährung drei Jahre.
 

@@ -23,7 +23,7 @@ Software-Mängel sind häufige Streitthema — Bugs Performance-Probleme Schnitt
 | Konstellation | Vertragstyp |
 |---|---|
 | Standardsoftware auf Datenträger | Kaufrecht §§ 433 ff. BGB BGH VIII ZR 6/89 |
-| Standardsoftware-Download Lizenz-überlassung dauernd | Kaufrecht analog BGH VIII ZR 50/13 |
+| Standardsoftware-Download Lizenz-überlassung dauernd | Kaufrecht analog — Erschöpfung des Verbreitungsrechts § 69c Nr. 3 S. 2 UrhG BGH I ZR 129/08 v. 17.07.2013 (UsedSoft II); BGH I ZR 8/13 v. 11.12.2014 (UsedSoft III); EuGH C-128/11 v. 03.07.2012 (UsedSoft) |
 | Individualsoftware-Erstellung | Werkvertrag §§ 631 ff. BGB |
 | Software-Anpassung Customizing | Werkvertrag §§ 631 ff. BGB |
 | SaaS Software-as-a-Service | Mietrecht §§ 535 ff. BGB BGH XII ZR 120/04 ASP |
@@ -32,6 +32,14 @@ Software-Mängel sind häufige Streitthema — Bugs Performance-Probleme Schnitt
 | Lizenz-Überlassung zeitlich befristet | Mietrecht/Pacht analog |
 
 ## Schritt 2 — Mangelbegriff
+
+### Verbraucherverträge über digitale Produkte §§ 327 ff. BGB (seit 01.01.2022)
+
+- Eigenständige Mängelregelung für B2C-Verträge über digitale Inhalte/Dienstleistungen — auch wenn nur personenbezogene Daten als Gegenleistung
+- Aktualisierungspflicht § 327f BGB (Sicherheits- und Funktionsupdates)
+- Sachmangel § 327e BGB (subjektive und objektive Anforderungen)
+- Beweislastumkehr § 327k Abs. 1 BGB ein Jahr ab Bereitstellung
+- Verjährung § 327j BGB grundsätzlich zwei Jahre — bei dauerhafter Bereitstellung erweitert
 
 ### Kauf § 434 BGB
 
@@ -78,7 +86,7 @@ Software-Mängel sind häufige Streitthema — Bugs Performance-Probleme Schnitt
 
 ### Werk — Mangelrüge an sich
 
-- Substanziiert (Sympomtheorie BGH VII ZR 41/02)
+- Substanziiert (Symptomtheorie BGH VII ZR 210/96 v. 03.07.1997 — Grundsatz; bestätigt BGH VII ZR 41/14 v. 24.08.2016 — Mangelrüge erfasst alle Ursachen des bezeichneten Symptoms)
 - Fristsetzung zur Nachbesserung
 
 ## Schritt 5 — Nachbesserungsrecht
@@ -86,7 +94,7 @@ Software-Mängel sind häufige Streitthema — Bugs Performance-Probleme Schnitt
 - Erstmal Nacherfüllung § 439 BGB / § 635 BGB
 - Verkäufer Wahlrecht (Kauf) — Unternehmer Wahlrecht (Werk)
 - Frist setzen — angemessen unter Berücksichtigung Schwere Komplexität
-- Zwei Versuche im Kauf typisch BGH VIII ZR 159/97
+- Zwei Versuche im Kauf typisch (gesetzliche Vermutung Fehlschlagen nach zweitem Versuch § 440 S. 2 BGB)
 
 ## Schritt 6 — Sekundärrechte
 
@@ -100,8 +108,8 @@ Software-Mängel sind häufige Streitthema — Bugs Performance-Probleme Schnitt
 
 - **Kauf** zwei Jahre § 438 BGB ab Übergabe
 - **Werk** zwei Jahre § 634a BGB ab Abnahme
-- **Werk Bauwerk-Software** fünf Jahre — strittig ob ERP-Implementierung dazu zählt (eher nicht — BGH X ZR 76/05)
-- **Miete** drei Jahre § 195 BGB
+- **Werk Bauwerk-Software** fünf Jahre § 634a Abs. 1 Nr. 2 BGB — strittig ob ERP-Implementierung dazu zählt (eher nicht — BGH X ZR 76/05 v. 05.12.2006; vgl. BGH X ZR 57/02 v. 20.05.2003 zur Bauwerkseigenschaft technischer Anlagen)
+- **Miete/SaaS** Mängelrechte des Mieters ohne Sondervorschrift — Regelverjährung drei Jahre § 195 BGB (Ansprüche des Vermieters § 548 BGB sechs Monate ab Rückgabe)
 
 ## Schritt 8 — AGB-Kontrolle
 
@@ -143,7 +151,7 @@ Software-Mängel sind häufige Streitthema — Bugs Performance-Probleme Schnitt
 
 ## Quellen
 
-- BGB §§ 280 281 433 437 438 439 535 536 611 631–650 634a
+- BGB §§ 280 281 327 327a 327e 327f 327j 327k 433 437 438 439 440 535 536 611 631–650 634a 548
 - HGB § 377
 - DSGVO Art. 32 (Sicherheit)
 - BGH VIII. Zivilsenat VII. Zivilsenat X. Zivilsenat

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-datenschutz-folgenabschaetzung
-description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchfuehren. Pflicht bei voraussichtlich hohem Risiko fuer Rechte und Freiheiten natuerlicher Personen insbesondere bei neuen Technologien systematischer Profilbildung umfangreicher Verarbeitung besonderer Kategorien § 9 DSGVO oder oeffentlichen Bereichen. Schwarze Liste der Aufsichtsbehoerden DSK beachten. Konsultation der Aufsichtsbehoerde Art. 36 DSGVO bei Restrisiko. Dokumentationspflicht Art. 30 DSGVO."
+description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchfuehren. Pflicht bei voraussichtlich hohem Risiko fuer Rechte und Freiheiten natuerlicher Personen insbesondere bei neuen Technologien systematischer Profilbildung umfangreicher Verarbeitung besonderer Kategorien Art. 9 DSGVO oder oeffentlichen Bereichen. Schwarze Liste der Aufsichtsbehoerden DSK beachten. Konsultation der Aufsichtsbehoerde Art. 36 DSGVO bei Restrisiko. Dokumentationspflicht Art. 30 DSGVO."
 ---
 
 # Datenschutz-Folgenabschätzung

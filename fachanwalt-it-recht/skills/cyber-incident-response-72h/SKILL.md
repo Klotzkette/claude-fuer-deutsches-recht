@@ -61,14 +61,14 @@ Bei aktivem Cyber-Vorfall sind die ersten 72 Stunden entscheidend — DSGVO-Meld
 
 - Art der Verletzung (Vertraulichkeits- Integritäts- Verfügbarkeits-Verlust)
 - Kategorien und Anzahl Betroffener
-- Kategorien und Anzahl betroffener Datensaetze
+- Kategorien und Anzahl betroffener Datensätze
 - Kontaktdaten DSB
 - Wahrscheinliche Folgen
 - Bereits ergriffene oder vorgeschlagene Maßnahmen
 
 ### Bei unvollständigen Informationen
 
-- Vorlaeufige Meldung möglich
+- Vorläufige Meldung möglich
 - Nachreichung unverzüglich
 
 ### Adressat
@@ -90,13 +90,14 @@ Bei aktivem Cyber-Vorfall sind die ersten 72 Stunden entscheidend — DSGVO-Meld
 ### Anwendbarkeit
 
 - Wenn Mandant unter NIS-2-Anwendungsbereich fällt
-- Wesentliche oder wichtige Einrichtung nach NIS2UmsuCG
+- Besonders wichtige oder wichtige Einrichtung nach NIS2UmsuCG (in Kraft seit 06.12.2025) — Rechtsgrundlage § 32 BSIG n.F.
 
-### Fristen
+### Fristen § 32 BSIG n.F.
 
-- **24 Stunden** Frühwarnung (initial)
-- **72 Stunden** Vorfallsmeldung (substantiiert)
-- **Ein Monat** Abschluss-Bericht
+- **24 Stunden** Frühwarnung (unverzüglich nach Kenntnis — Verdacht böswillige Handlung, grenzüberschreitende Auswirkungen)
+- **72 Stunden** Folgemeldung (Bewertung Schweregrad, Auswirkungen, Kompromittierungsindikatoren)
+- **Ein Monat** Abschlussbericht (Ursachenanalyse, Maßnahmen)
+- Zwischenmeldung auf Nachfrage des BSI
 
 ### Adressat
 
@@ -114,7 +115,7 @@ Bei aktivem Cyber-Vorfall sind die ersten 72 Stunden entscheidend — DSGVO-Meld
 - **§ 263a StGB** Computer-Betrug
 - **§ 303a StGB** Datenveränderung (Ransomware!)
 - **§ 303b StGB** Computer-Sabotage
-- **§ 269 StGB** Faelschung beweiserheblicher Daten
+- **§ 269 StGB** Fälschung beweiserheblicher Daten
 
 ### Anzeige beim Polizeipräsidium oder StA
 
@@ -226,7 +227,7 @@ Bei aktivem Cyber-Vorfall sind die ersten 72 Stunden entscheidend — DSGVO-Meld
 
 - DSGVO Art. 28 32 33 34
 - StGB §§ 202a–202d 263a 269 303a 303b
-- NIS2UmsuCG
+- NIS2UmsuCG (in Kraft seit 06.12.2025) — Meldepflichten § 32 BSIG n.F. Sanktionen § 65 BSIG n.F.
 - BetrVG § 87
 - BSI-Empfehlungen
 - DSK-Empfehlungen
