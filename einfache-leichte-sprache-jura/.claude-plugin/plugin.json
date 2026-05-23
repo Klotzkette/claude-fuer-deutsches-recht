@@ -1,6 +1,6 @@
 {
   "name": "einfache-leichte-sprache-jura",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

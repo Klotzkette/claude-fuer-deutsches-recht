@@ -1,6 +1,6 @@
 {
   "name": "ki-vo-ai-act-pruefer",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Vollstaendiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Sanktionen. Kein Rechtsrat.",
   "license": "Apache-2.0 OR MIT",
   "author": {

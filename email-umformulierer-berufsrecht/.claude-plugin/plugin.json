@@ -1,7 +1,7 @@
 {
   "name": "email-umformulierer-berufsrecht",
   "displayName": "E-Mail-Umformulierer (Berufsrechtskonform)",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Formuliert unfreundliche, emotionale oder unsachliche E-Mails in hoefliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformitaet, mit Varianten fuer Steuerberater, Notare und allgemeine berufliche Korrespondenz.",
   "author": {
     "name": "Klotzkette"

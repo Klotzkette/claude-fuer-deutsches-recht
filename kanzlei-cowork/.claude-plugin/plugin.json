@@ -1,6 +1,6 @@
 {
   "name": "kanzlei-cowork",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Cowork-Assistent fuer die deutsche Anwaltskanzlei. Fristenbuch Timesheet RVG-Rechnung Versand-Vor-Check (PDF beA Signatur) beA-Versand Postein- und ausgang Mandantenakte Aktenbestand Honorar-Mahnwesen Mandantenbriefe Geburtstage Weihnachtskarten Tagesbrief. Rechtsgebietsunabhaengig.",
   "license": "Apache-2.0 OR MIT",
   "author": {

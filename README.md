@@ -26,8 +26,8 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | **Plugins** | 97 |
 | **Skills (SKILL.md)** | über 1500 |
 | **Testakten** | 40 |
-| **Fachanwält·innen-Profile** | alle 24 |
-| **Letzter Release** | [v5.7.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v5.7.0) |
+| **Fachanwalts-/-anwältinnen-Profile** | alle 24 |
+| **Letzter Release** | [v5.7.1](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v5.7.1) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Inhaltliche Cluster
@@ -41,7 +41,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 - **Querschnitt:** Aktenauszug Gerichtsverfahren, Mandantenanfragen-Assistent, Arbeitszeugnis-Analyse (Ampelsystem), Email-Umformulierer berufsrechtskonform, Zitierweise BGH-/Beck-Stil, Fachanwaltschafts-Übersicht.
 
 > ⚠️ **Vorsicht: hiermit bitte nicht mogeln im Studium.**
-> Die Vollrelation, der Urteilsentwurf und alle Schulungsakten sind **Trainings- und Praxiswerkzeuge** für Referendar·innen, Assessor·innen, Berufsrichter·innen und Lehrkräfte. Sie sind ausdrücklich **nicht** dafür gedacht, in Klausuren, Hausarbeiten, Aktenvorträgen oder im juristischen Vorbereitungsdienst (Z-, S-, V-, A-Klausur, mündliche Prüfung) als eigene Leistung ausgegeben zu werden. Das wäre ein Täuschungsversuch im Sinne von § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder und kann zum Nichtbestehen, zur Aberkennung der Prüfung oder zu disziplinarrechtlichen Konsequenzen führen. Wer eine Relation üben will: zuerst selbst schreiben, danach mit dem Plugin abgleichen.
+> Die Vollrelation, der Urteilsentwurf und alle Schulungsakten sind **Trainings- und Praxiswerkzeuge** für Referendare/-innen, Assessoren/-innen, Berufsrichter/-innen und Lehrkräfte. Sie sind ausdrücklich **nicht** dafür gedacht, in Klausuren, Hausarbeiten, Aktenvorträgen oder im juristischen Vorbereitungsdienst (Z-, S-, V-, A-Klausur, mündliche Prüfung) als eigene Leistung ausgegeben zu werden. Das wäre ein Täuschungsversuch im Sinne von § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder und kann zum Nichtbestehen, zur Aberkennung der Prüfung oder zu disziplinarrechtlichen Konsequenzen führen. Wer eine Relation üben will: zuerst selbst schreiben, danach mit dem Plugin abgleichen.
 
 Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) und im Abschnitt [Was ist drin?](#was-ist-drin).
 

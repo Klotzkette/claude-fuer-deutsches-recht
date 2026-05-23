@@ -1,13 +1,13 @@
 ---
 name: vollrelation-langfassung
-description: "Ausformulierte Vollrelation im Schulstandard fuer Referendar- und Assessor-Pruefung mit gutachterlichem Stil bei Bedarf bis zu 20 Seiten Sachbericht Auslegung Zulaessigkeit Schluessigkeit Erheblichkeit Replik Beweisstation Tenorierung Nebenentscheidungen Selbstkontrolle. Schreibt jede Station als eigenen Abschnitt mit Obersatz Definition Subsumtion Ergebnis. Gegenstueck zur Kurzfassung im Skill relation-zivil."
+description: "Ausformulierte Vollrelation im Schulstandard fuer Referendar/-innen- und Assessor/-innen-Pruefung mit gutachterlichem Stil bei Bedarf bis zu 20 Seiten Sachbericht Auslegung Zulaessigkeit Schluessigkeit Erheblichkeit Replik Beweisstation Tenorierung Nebenentscheidungen Selbstkontrolle. Schreibt jede Station als eigenen Abschnitt mit Obersatz Definition Subsumtion Ergebnis. Gegenstueck zur Kurzfassung im Skill relation-zivil."
 ---
 
 # Vollrelation Langfassung - Schulstandard fuer Pruefung
 
 **Vorsicht: hiermit bitte nicht mogeln im Studium.** Dieser Skill schreibt eine ausformulierte Vollrelation auf Pruefungsstandard. Genau deswegen ist die Verwendung als eingereichte Klausur- oder Hausarbeitsleistung im juristischen Vorbereitungsdienst eine Pruefungstaeuschung (Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbare Vorschriften der Laender). Folge: Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubt und sinnvoll: Erst selbst schreiben dann mit dieser Vollrelation abgleichen und Schwaechen finden.
 
-Dieser Skill schreibt eine ausformulierte Vollrelation in der Form wie sie im Referendariat und in der Assessorpruefung verlangt wird. Im Gegensatz zur Praxis-Kurzform werden alle Stationen ausgeschrieben als Fliesstext mit Obersatz Definition Subsumtion Ergebnis (Gutachtenstil im Sachverhalt-Teil; Urteilsstil nur dort wo am Ende uebernommen wird).
+Dieser Skill schreibt eine ausformulierte Vollrelation in der Form wie sie im Referendariat und in der Assessor/-innen-Pruefung verlangt wird. Im Gegensatz zur Praxis-Kurzform werden alle Stationen ausgeschrieben als Fliesstext mit Obersatz Definition Subsumtion Ergebnis (Gutachtenstil im Sachverhalt-Teil; Urteilsstil nur dort wo am Ende uebernommen wird).
 
 Laenge: 8 bis 20 Seiten je nach Aktenumfang. Schreibstil: gutachterlich klar normverankert. Jedes Zitat einer Norm in der Form **Paragraf 433 BGB** oder **Artikel 35 CISG**.
 

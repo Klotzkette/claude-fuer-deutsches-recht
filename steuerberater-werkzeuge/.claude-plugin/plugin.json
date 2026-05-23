@@ -1,7 +1,7 @@
 {
   "name": "steuerberater-werkzeuge",
   "description": "Werkzeugbox für Steuerberater mit BWA-, SuSa- und Belegprüfung sowie Krisenfrüherkennung.",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "author": {
     "name": "Klotzkette"
   },

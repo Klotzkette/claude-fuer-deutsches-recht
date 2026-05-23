@@ -1,11 +1,11 @@
 ---
 name: schulung-urteilsbauer
-description: "Trainerleitfaden fuer Schulungen zum Plugin urteilsbauer-relationsmacher. Lernziele Stundenplan eine Tagesschulung und zwei Tage Praktische Uebungen anhand der Schulungsakte. Adressaten Proberichter Assessoren Rechtspfleger."
+description: "Trainerleitfaden fuer Schulungen zum Plugin urteilsbauer-relationsmacher. Lernziele Stundenplan eine Tagesschulung und zwei Tage Praktische Uebungen anhand der Schulungsakte. Adressaten Proberichter/-innen Assessoren/-innen Rechtspfleger/-innen."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer
 
-Zielgruppe: Proberichter, Assessoren, Rechtspfleger.
+Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 
 ## Lernziele
 
@@ -42,7 +42,7 @@ Tag 1 wie oben. Tag 2 vertieft die Schulungsakte `testakten/solis-vision-x-smart
 
 ## Hinweis zur Pruefungstaeuschung
 
-Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier ausgegebenen Relationen und Urteilsentwuerfe duerfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Es handelt sich um Schulungs- und Praxismaterial; die Eigenleistung des Teilnehmers ist nicht verzichtbar.
+Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier ausgegebenen Relationen und Urteilsentwuerfe duerfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Es handelt sich um Schulungs- und Praxismaterial; die Eigenleistung der Teilnehmer/-innen ist nicht verzichtbar.
 
 ## Workflow-Entscheidungspunkte
 

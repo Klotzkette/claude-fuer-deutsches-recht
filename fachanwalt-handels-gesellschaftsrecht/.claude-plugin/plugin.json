@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-handels-gesellschaftsrecht",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Light-Touch-Plugin Fachanwalt fuer Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschaeftsfuehrerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {

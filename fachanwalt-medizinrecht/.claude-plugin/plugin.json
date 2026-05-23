@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-medizinrecht",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Light-Touch-Plugin Fachanwalt fuer Medizinrecht. Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Aerzte SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen Plugin sozialrecht-kanzlei kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-strafrecht",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Light-Touch-Plugin Fachanwalt fuer Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {

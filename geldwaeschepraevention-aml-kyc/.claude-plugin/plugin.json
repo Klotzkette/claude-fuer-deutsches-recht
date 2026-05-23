@@ -1,6 +1,6 @@
 {
   "name": "geldwaeschepraevention-aml-kyc",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Freistehendes Plugin für Geldwäscheprävention, AML, KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister und Behördenverfahren.",
   "license": "Apache-2.0 OR MIT",
   "author": {

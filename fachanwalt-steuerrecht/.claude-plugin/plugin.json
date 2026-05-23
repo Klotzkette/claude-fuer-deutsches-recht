@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-steuerrecht",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Light-Touch-Plugin Fachanwalt fuer Steuerrecht nach FAO § 9. AO Einspruch Stundung Vollstreckungsaufschub. Aussenpruefung Schlussbesprechung. Steuerstrafrecht Selbstanzeige § 371 AO. Schnittstellen steuerrecht-kanzlei und kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {

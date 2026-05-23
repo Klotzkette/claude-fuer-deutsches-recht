@@ -1,6 +1,6 @@
 {
   "name": "rechtsberatungsstelle",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "description": "Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.",
   "license": "Apache-2.0 OR MIT",
   "author": {

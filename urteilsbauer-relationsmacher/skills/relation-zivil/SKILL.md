@@ -1,21 +1,21 @@
 ---
 name: relation-zivil
-description: "Erstellt eine vollstaendige deutsche Relation nach klassischer Relationstechnik der Referendarausbildung: Sachbericht Auslegung des Streitgegenstands Zulaessigkeitsstation Schluessigkeitsstation Klaegerstation Erheblichkeitsstation Beklagtenstation Replikstation Beweisstation Tenorierungsstation Nebenentscheidungen. Fragt zu Beginn ab ob Vollrelation Schulstandard oder Kurzfassung Praxis gewuenscht ist. Liefert die komplette Entscheidungsstruktur vor der Urteilsabfassung."
+description: "Erstellt eine vollstaendige deutsche Relation nach klassischer Relationstechnik der Referendar/-innen-Ausbildung: Sachbericht Auslegung des Streitgegenstands Zulaessigkeitsstation Schluessigkeitsstation Klaegerstation Erheblichkeitsstation Beklagtenstation Replikstation Beweisstation Tenorierungsstation Nebenentscheidungen. Fragt zu Beginn ab ob Vollrelation Schulstandard oder Kurzfassung Praxis gewuenscht ist. Liefert die komplette Entscheidungsstruktur vor der Urteilsabfassung."
 ---
 
 # Relation Zivilprozess - Vollrelation nach deutschem Standard
 
-Methodischer Aufbau der Entscheidungsstruktur vor dem Urteil. Folgt der klassischen Relationstechnik aus der Referendarausbildung (siehe Anders/Gehle Das Assessorexamen im Zivilrecht; Knoeringer Die Assessorklausur im Zivilprozess; Mahnken Relation in der Praxis).
+Methodischer Aufbau der Entscheidungsstruktur vor dem Urteil. Folgt der klassischen Relationstechnik aus der Referendar/-innen-Ausbildung (siehe Anders/Gehle Das Assessorexamen im Zivilrecht; Knoeringer Die Assessorklausur im Zivilprozess; Mahnken Relation in der Praxis).
 
 ## WICHTIG - keine Pruefungstaeuschung
 
-**Vorsicht: hiermit bitte nicht mogeln im Studium.** Dieser Skill ist ein Trainings- und Praxiswerkzeug fuer Referendar- und Assessor-Ausbildung, fuer Berufsrichter und fuer Lehrkraefte. Er darf **nicht** dazu benutzt werden, in einer Z- S- V- A-Klausur in einer Hausarbeit in einem Aktenvortrag oder in einer muendlichen Pruefung des juristischen Vorbereitungsdienstes Inhalte als eigene Leistung auszugeben. Das waere ein Taeuschungsversuch im Sinne von Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbarer Vorschriften der anderen Bundeslaender; Folge ist regelmaessig Nichtbestehen Aberkennung Disziplinarverfahren. Wer ueben will: erst selbst schreiben dann gegenpruefen lassen.
+**Vorsicht: hiermit bitte nicht mogeln im Studium.** Dieser Skill ist ein Trainings- und Praxiswerkzeug fuer Referendare/-innen Assessoren/-innen Berufsrichter/-innen und Lehrkraefte. Er darf **nicht** dazu benutzt werden in einer Z- S- V- A-Klausur in einer Hausarbeit in einem Aktenvortrag oder in einer muendlichen Pruefung des juristischen Vorbereitungsdienstes Inhalte als eigene Leistung auszugeben. Das waere ein Taeuschungsversuch im Sinne von Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbarer Vorschriften der anderen Bundeslaender; Folge ist regelmaessig Nichtbestehen Aberkennung Disziplinarverfahren. Wer ueben will: erst selbst schreiben dann gegenpruefen lassen.
 
 ## Wahlfrage am Anfang - IMMER stellen
 
 Vor Beginn der Relation **immer** fragen:
 
-> Soll ich eine **Vollrelation** im Schulstandard (alle Stationen ausformuliert mit gutachterlichem Stil fuer Referendar- und Assessor-Pruefung) erstellen oder eine **Kurzrelation** im Praxisstandard (Stichworttabelle pro Station wie es Berufsrichter im Alltag schreiben)?
+> Soll ich eine **Vollrelation** im Schulstandard (alle Stationen ausformuliert mit gutachterlichem Stil fuer Referendar/-innen- und Assessor/-innen-Pruefung) erstellen oder eine **Kurzrelation** im Praxisstandard (Stichworttabelle pro Station wie es Berufsrichter/-innen im Alltag schreiben)?
 
 Wenn die Vollrelation gewuenscht ist dann den Skill `vollrelation-langfassung` zusaetzlich laden und nach dessen Schema schreiben.
 
