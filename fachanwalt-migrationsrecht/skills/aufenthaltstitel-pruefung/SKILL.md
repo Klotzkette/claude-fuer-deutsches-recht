@@ -127,7 +127,7 @@ Bei jedem migrationsrechtlichen Mandat ist erste Frage: welcher Aufenthaltstitel
 
 - Einbürgerung § 10 StAG
 - Voraussetzungen fünf Jahre rechtmäßiger Aufenthalt (Regelfall seit StARModG 27.06.2024 — vorher acht Jahre)
-- Bei Vorliegen besonderer Integrationsleistungen: Verkürzung auf drei Jahre war bis 29.10.2025 möglich (§ 10 Abs. 3 StAG a.F.) — durch das Sechste Gesetz zur Änderung des StAG zum 30.10.2025 abgeschafft; nur noch für vor diesem Datum gestellte Anträge (Stichtagsregelung)
+- Frühere Verkürzung auf drei Jahre bei besonderen Integrationsleistungen (§ 10 Abs. 3 StAG a.F.) durch das Sechste Gesetz zur Änderung des StAG zum 30.10.2025 ersatzlos gestrichen — keine Übergangsregelung für Altanträge; auf alle nach diesem Datum noch nicht beschiedenen Anträge findet die neue Rechtslage Anwendung
 - Deutsch B1
 - Einbürgerungstest
 - Lebensunterhalt eigenständig (§ 10 Abs. 1 Satz 1 Nr. 3 StAG)
