@@ -1,6 +1,6 @@
 {
   "name": "berufsrecht-ki-vertragspruefung",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "description": "Berufsrechtliche und strafrechtliche Forprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Rechtsanwälte Steuerberater Wirtschaftsprüfer Patentanwälte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. Maßstab DAV-Stellungnahme. Gutachten Rückfragebrief Klauselvorschläge.",
   "license": "Apache-2.0 OR MIT",
   "author": {

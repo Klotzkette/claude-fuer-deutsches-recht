@@ -1,6 +1,6 @@
 {
   "name": "bereicherungs-und-anfechtungsrecht-pruefer",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "description": "Mechanisches Durchpruefen von Bereicherungsrecht SS 812 ff. BGB sowie Anfechtung nach AnfG und SS 129-147 InsO. Weichenstellung Rechtsgrund, Insolvenz, Vollstreckungstitel. Keine Rechtsberatung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "liquiditaetsplanung",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "description": "Liquiditaetsplanung nach deutschem Recht: 3-Wochen-Vorschau mit BGH-Passiva-II- und 10-Prozent-Schema, 13/26/52-Wochen-Forecast, Excel-Export mit Quote/Luecken-Ampel, Padlet/JSON-Round-Trip, Integration mit Fortbestehensprognose. Krisen-GmbH, Bugwellenrechtsprechung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
