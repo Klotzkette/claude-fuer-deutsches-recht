@@ -7,7 +7,7 @@ description: Strukturierte Eingangs-Abfrage fuer steuerrechtliche Mandate (ander
 
 ## Zweck
 
-Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und sehr unterschiedlich (ESt-Bescheid bis Steuerstrafverfahren). Triage stellt die richtige Spur sicher — ergänzend zum Plugin-Konfigurations-Skill `kaltstart-interview`.
+Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und sehr unterschiedlich (ESt-Bescheid bis Steuerstrafverfahren). Triage stellt die richtige Spur sicher — ergänzend zum Plugin-Konfigurations-Skill `anw-kaltstart-interview`.
 
 ## Ablauf — acht Fragen
 
@@ -122,8 +122,8 @@ Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und se
 | Akteneinsicht | `anw-akteneinsicht-steuerakte` |
 | Fristenbuch | `anw-fristenbuch-steuerrecht` |
 | Frist-Berechnung Zustellung | (allgemein im Fristenbuch) |
-| Betriebsausgaben-Werbungskosten | `betriebsausgaben-werbungskosten-pruefraster` |
-| Plugin-Konfiguration | `kaltstart-interview` |
+| Betriebsausgaben-Werbungskosten | `anw-betriebsausgaben-werbungskosten-pruefraster` |
+| Plugin-Konfiguration | `anw-kaltstart-interview` |
 | Erbschaftsteuer | (Skill erbschaftsteuer-prüfen — perspektivisch) |
 | Umsatzsteuer-Prüfung | (Skill ust-prüfung — perspektivisch) |
 | Verrechnungspreise | (Skill verrechnungspreise — perspektivisch) |
