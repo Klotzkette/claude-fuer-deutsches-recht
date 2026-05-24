@@ -105,6 +105,13 @@ oder fälliger Teile), Lohn- und Gehaltsrückstände, Sozialversicherungsbeiträ
 Steuerschulden mit abgelaufener Zahlungsfrist, sonstige fällige Forderungen. Stundungen sind auf
 ihre rechtliche Wirksamkeit hin zu überprüfen (s. BGH IX ZR 92/04).
 
+> **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) ist keine Stundung.** AdV-Verfügungen
+> hemmen nur die Vollziehung, lassen die Fälligkeit der Steuerforderung aber unberührt. Im
+> Liquiditätsstatus bleiben AdV-Beträge **Passiva I**, soweit nicht zusätzlich eine
+> schriftliche Stundung nach § 222 AO mit Verschiebung der Fälligkeit über den Stichtag
+> hinaus vorliegt. Sonst wird die Liquiditätslücke unterzeichnet und es droht eine
+> falsche "nicht zahlungsunfähig"-Feststellung.
+
 **Schritt 3 – Aktiva-Erfassung**
 - *Aktiva I*: sofort verfügbare liquide Mittel zum Stichtag (Kassenbestand, Bankguthaben,
   debitorische Konten ohne Ausschöpfung des Rahmens)

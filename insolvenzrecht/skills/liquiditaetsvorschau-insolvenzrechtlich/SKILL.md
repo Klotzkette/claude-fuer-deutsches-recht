@@ -269,6 +269,13 @@ Die bloße Duldung durch einen Gläubiger (kein Mahn-, kein Vollstreckungsschrei
 begründet keine Stundung im Sinne von BGH IX ZR 92/04 Rn. 22. Fehlendes Stundungs-
 nachweis führt zur Aufnahme der Position in die Passivseite.
 
+**2a. Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) fälschlich als Stundung werten**
+AdV-Verfügungen hemmen nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt
+unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche
+§ 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt. Eine
+Herausnahme von AdV-Beträgen aus den Passiva I führt zu einer methodisch falschen
+"nicht zahlungsunfähig"-Feststellung.
+
 **3. Einbeziehung nicht fälliger Verbindlichkeiten**
 Verbindlichkeiten mit Fälligkeit außerhalb des 3-Wochen-Fensters dürfen nach
 Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 44 nicht in die Liquiditätsbilanz

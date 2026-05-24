@@ -150,6 +150,7 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 
 - **Voll ausgeschöpften Kontokorrent als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
 - **Faktische Duldung des Zahlungsverzugs als Stundung werten**: Beseitigt die Fälligkeit nicht — BGH, Urt. v. 14.07.2006 – IX ZR 92/04, BGHZ 168, 158 Rn. 21 ff.
+- **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung, lässt die Fälligkeit der Steuerforderung unberührt. AdV-Beträge bleiben **Passiva I**, soweit nicht zusätzlich eine schriftliche Stundung nach § 222 AO mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
 - **Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
 - **3-Wochen-Frist statisch ab Planerstellung rechnen**: Sie läuft ab Eintritt der Zahlungsunfähigkeit.
 - **SV- und Lohnsteuer-Rückstände kleinreden**: Starke Indizien und persönlich haftungsauslösend.

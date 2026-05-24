@@ -109,6 +109,7 @@ Wenn Daten fehlen: Annahmen explizit dokumentieren und im Worst Case rechnen.
 
 - **Kontokorrent voll als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
 - **Stundungen als Liquidität werten**: Verschieben die Fälligkeit, sind aber Indiz für Zahlungsunfähigkeit (BGH NJW 2007, 78 Rn. 18).
+- **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) wie eine Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt. Eine Herausnahme von AdV-Beträgen aus Passiva I führt zu falschem "nicht zahlungsunfähig"-Ergebnis.
 - **3-Wochen-Frist statisch ab Planerstellung rechnen**: Sie läuft ab **Eintritt** der Zahlungsunfähigkeit.
 - **Erwartete Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
 - **SV-Rückstände kleinreden**: Starkes Indiz und Anzeigequelle (§ 15a Abs. 4 InsO; BGH NJW 2007, 78).
