@@ -28,19 +28,19 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 
 ## Schritt 2 — Spezielle Anfechtungs-Tatbestände
 
-### § 130 InsO — Kongrünte Deckung
+### § 130 InsO — Kongruente Deckung
 
 - Rechtshandlung in **letzten drei Monaten** vor Antrag
 - Schuldner **zahlungsunfähig**
 - Anfechtungs-Gegner **kannte** Zahlungsunfähigkeit oder Umstände die zwingend darauf schließen lassen
-- "Kongrünt" — Anfechtungs-Gegner hatte vertraglichen Anspruch auf das Erlangte
+- "Kongruent" — Anfechtungs-Gegner hatte vertraglichen Anspruch auf das Erlangte
 
-### § 131 InsO — Inkongrünte Deckung
+### § 131 InsO — Inkongruente Deckung
 
 - Rechtshandlung in **letztem Monat** vor Antrag oder danach (Abs. 1 Nr. 1)
 - In letzten drei Monaten — wenn Schuldner zahlungsunfähig (Abs. 1 Nr. 2)
 - In letzten drei Monaten — wenn Anfechtungs-Gegner Benachteiligungs-Wissen (Abs. 1 Nr. 3)
-- "Inkongrünt" — Anfechtungs-Gegner hatte **keinen** vertraglichen Anspruch (Aufrechnungs-Möglichkeit Sicherheit-Leistung Vorauszahlung)
+- "Inkongruent" — Anfechtungs-Gegner hatte **keinen** vertraglichen Anspruch (Aufrechnungs-Möglichkeit Sicherheit-Leistung Vorauszahlung)
 
 ### § 132 InsO — Unmittelbar nachteilige Rechtshandlung
 

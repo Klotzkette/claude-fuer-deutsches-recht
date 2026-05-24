@@ -30,7 +30,7 @@ Dieser Skill erfasst alle wirtschaftlichen Kernkonditionen des Wandeldarlehens u
 - §§ 3, 4 StaRUG (Einschränkung Kündigungsrechte im Restrukturierungsrahmen)
 
 ### Rechtsprechung
-- BGH, Urt. v. 7. März 2013 – IX ZR 7/12 (Kongrünzdeckung Darlehensrückzahlung)
+- BGH, Urt. v. 7. März 2013 – IX ZR 7/12 (Kongruenzdeckung Darlehensrückzahlung)
 - BGH, Urt. v. 29. Januar 2015 – IX ZR 279/13 (Fälligkeitsklausel und Insolvenz)
 
 ## Vorgehen

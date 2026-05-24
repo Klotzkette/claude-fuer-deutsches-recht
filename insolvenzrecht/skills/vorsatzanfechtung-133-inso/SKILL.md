@@ -31,8 +31,8 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 
 **ZUERST PRÜFEN: Welcher Tatbestand?**
 
-- **4 Jahre — § 133 Abs. 2 InsO**: Deckungs- oder Befriedigungs-Handlungen, die dem Gläubiger **kongrünt** eine Sicherung oder Befriedigung gewährt haben (z.B. Fälligkeits-Zahlung Lieferant, planmäßige Tilgung Bank-Kredit, vertraglich vereinbarte Sicherheits-Bestellung)
-- **10 Jahre — § 133 Abs. 1 InsO**: alle anderen Rechts-Handlungen mit Gläubiger-Benachteiligungs-Vorsatz, insbesondere **Vermögens-Verschiebungen** (Schenkungen, Verkauf unter Wert, Übertragung auf nahe-stehende Personen, inkongrünte Deckungen, Vermögens-Ausgliederungen)
+- **4 Jahre — § 133 Abs. 2 InsO**: Deckungs- oder Befriedigungs-Handlungen, die dem Gläubiger **kongruent** eine Sicherung oder Befriedigung gewährt haben (z.B. Fälligkeits-Zahlung Lieferant, planmäßige Tilgung Bank-Kredit, vertraglich vereinbarte Sicherheits-Bestellung)
+- **10 Jahre — § 133 Abs. 1 InsO**: alle anderen Rechts-Handlungen mit Gläubiger-Benachteiligungs-Vorsatz, insbesondere **Vermögens-Verschiebungen** (Schenkungen, Verkauf unter Wert, Übertragung auf nahe-stehende Personen, inkongruente Deckungen, Vermögens-Ausgliederungen)
 - **Vor 22.4.2017** — einheitlich 10 Jahre für alle Tatbestände (Alt-Fälle)
 - **Unentgeltliche Leistungen** — separater Tatbestand § 134 InsO (4 Jahre)
 
@@ -40,12 +40,12 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 
 | Sachverhalt | Frist | Norm |
 |---|---|---|
-| Kongrünte Fälligkeits-Zahlung | 4 Jahre | § 133 Abs. 2 |
-| Vorzeitige Tilgung (inkongrünt) | 10 Jahre | § 133 Abs. 1 |
+| Kongruente Fälligkeits-Zahlung | 4 Jahre | § 133 Abs. 2 |
+| Vorzeitige Tilgung (inkongruent) | 10 Jahre | § 133 Abs. 1 |
 | Verkauf unter Wert an Dritte | 10 Jahre | § 133 Abs. 1 |
 | Übertragung auf Familie | 10 Jahre | § 133 Abs. 1 (+ § 138) |
 | Schenkung | 4 Jahre | § 134 InsO |
-| Bestellung Sicherheit nach Schuldgrund | 10 Jahre | § 133 Abs. 1 (inkongrünt) |
+| Bestellung Sicherheit nach Schuldgrund | 10 Jahre | § 133 Abs. 1 (inkongruent) |
 
 ### Beweislast Insolvenz-Verwalter
 
@@ -66,12 +66,12 @@ c) **Kenntnis Vertragspartner** des Vorsatzes
 - **Zahlungs-Unfähigkeit** zum Handlungs-Zeitpunkt
 - **Drohende Zahlungs-Unfähigkeit** mit Bewusstsein
 - **Vorzugs-Behandlung** einzelner Gläubiger
-- **Inkongrünte Leistungs-Bedingungen**
+- **Inkongruente Leistungs-Bedingungen**
 
 ### Reform 2017 Modifikation
 
 - **BGH IX ZR 233/19** zur Kenntnis-Vermutung Reform
-- Kenntnis der drohenden Zahlungs-Unfähigkeit allein nicht ausreichend für Vorsatz-Vermutung bei kongrünter Leistung
+- Kenntnis der drohenden Zahlungs-Unfähigkeit allein nicht ausreichend für Vorsatz-Vermutung bei kongruenter Leistung
 
 ## Schritt 3 — Kenntnis Vertragspartner
 
@@ -171,7 +171,7 @@ Schuldner zahlt sofort bei Lieferung.
 ### Konstellation B — Bank erhält Tilgungs-Zahlung
 
 - Bei drohender Insolvenz Schuldner zahlt Bank-Kredit
-- Inkongrünt: vor Fälligkeit
+- Inkongruent: vor Fälligkeit
 - BGH IX ZR-Anfechtungs-Risiko hoch
 - **Verteidigung:** Bei Fälligkeit Bargeschäft
 
@@ -193,15 +193,15 @@ Schuldner zahlt sofort bei Lieferung.
 - BGH IX ZR-Beratung Schutz
 - **Verteidigung:** Beratungs-Erfolg-Aussicht IDW S 6
 
-## Schritt 8 — Inkongrünz und Kongrünz
+## Schritt 8 — Inkongruenz und Kongruenz
 
-### § 130 InsO Kongrünte Deckung
+### § 130 InsO Kongruente Deckung
 
 - Bei Fälligkeit
 - In den letzten 3 Monaten
 - Mit Kenntnis Zahlungs-Unfähigkeit
 
-### § 131 InsO Inkongrünte Deckung
+### § 131 InsO Inkongruente Deckung
 
 - Vor Fälligkeit oder anders als geschuldet
 - In den letzten 3 Monaten ohne Kenntnis-Anforderung
@@ -209,8 +209,8 @@ Schuldner zahlt sofort bei Lieferung.
 
 ### Abgrenzung § 133 InsO
 
-- **§ 133 Abs. 1** — 10 Jahre Rückblick, Vermögens-Verschiebungs- und Inkongrünz-Tatbestände
-- **§ 133 Abs. 2** — 4 Jahre Rückblick, kongrünte Deckungs-/Befriedigungs-Handlungen
+- **§ 133 Abs. 1** — 10 Jahre Rückblick, Vermögens-Verschiebungs- und Inkongruenz-Tatbestände
+- **§ 133 Abs. 2** — 4 Jahre Rückblick, kongruente Deckungs-/Befriedigungs-Handlungen
 - Beide strenger als §§ 130/131: Vorsatz erforderlich, dafür deutlich längere Frist
 - **§ 133 plus § 130/131** parallel möglich — Insolvenz-Verwalter wählt stärkste Norm
 

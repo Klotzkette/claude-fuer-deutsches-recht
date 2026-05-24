@@ -271,7 +271,7 @@ Eröffnungsgrund § 17 InsO durch Indizienkombination glaubhaft gemacht
 5. **Sofortige Zahlung als Anfechtungsrisiko**: Zahlt der Schuldner die
    antragsbegründende Forderung kurzfristig, um den Antrag zu Fall zu bringen,
    ist diese Zahlung nach § 133 Abs. 1 InsO (Vorsatzanfechtung) oder § 131 InsO
-   (inkongrünte Deckung) anfechtbar, wenn innerhalb der Anfechtungsfristen
+   (inkongruente Deckung) anfechtbar, wenn innerhalb der Anfechtungsfristen
    Insolvenz eröffnet wird. Der Schuldner „kauft" sich damit nur Zeit, ohne die
    Insolvenzlage zu beseitigen.
 

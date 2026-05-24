@@ -14,7 +14,7 @@ Verwalter kann Vermögens-Verschiebungen vor Insolvenz rückgängig machen. Auch
 1. Zeitpunkt der Zahlung / Vermögens-Verfügung?
 2. Verhältnis Schuldner-Empfänger (Geschäftspartner, Bank, Gesellschafter, Naheste-hender)?
 3. Insolvenzantrag-Datum?
-4. Kongrünt (vertraglich geschuldet) vs. inkongrünt (anders erfüllt)?
+4. Kongruent (vertraglich geschuldet) vs. inkongruent (anders erfüllt)?
 5. Wert der Verfügung?
 6. Eigen-Rolle: Verwalter oder Anfechtungs-Gegner?
 
@@ -22,8 +22,8 @@ Verwalter kann Vermögens-Verschiebungen vor Insolvenz rückgängig machen. Auch
 
 | § | Tatbestand | Frist | Beweislast |
 |---|---|---|---|
-| 130 | Kongrünt + Zahlungsunfähigkeit-Kenntnis | 3 Monate vor Antrag | Verwalter |
-| 131 | Inkongrünt | 3 Monate vor Antrag | Verwalter (vereinfacht) |
+| 130 | Kongruent + Zahlungsunfähigkeit-Kenntnis | 3 Monate vor Antrag | Verwalter |
+| 131 | Inkongruent | 3 Monate vor Antrag | Verwalter (vereinfacht) |
 | 132 | Unmittelbar-nachteilig | 3 Monate | Verwalter |
 | 133 | Vorsatz-Anfechtung | **4 Jahre** vor Antrag | Verwalter (Vorsatz beider Seiten) |
 | 134 | Unentgeltlich | 4 Jahre | Verwalter (Schenkungs-Charakter) |

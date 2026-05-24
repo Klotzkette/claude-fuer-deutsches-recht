@@ -3,21 +3,21 @@ name: inso-kongruente-deckung-130
 description: "§ 130 InsO: Anfechtung kongruenter Deckung. Sicherung oder Befriedigung in den letzten drei Monaten vor Insolvenzantrag. Zahlungsunfähigkeit und Kenntnis des Anfechtungsgegners."
 ---
 
-# Kongrünte Deckung — § 130 InsO
+# Kongruente Deckung — § 130 InsO
 
 ## Obersatz
 
-Anfechtbar sind nach § 130 Abs. 1 InsO Rechtshandlungen, die einem Insolvenzgläubiger eine Sicherung oder Befriedigung gewährt oder ermöglicht haben, die dieser beanspruchen konnte (kongrünte Deckung), wenn:
+Anfechtbar sind nach § 130 Abs. 1 InsO Rechtshandlungen, die einem Insolvenzgläubiger eine Sicherung oder Befriedigung gewährt oder ermöglicht haben, die dieser beanspruchen konnte (kongruente Deckung), wenn:
 1. die Handlung im letzten Monat vor Antrag oder nach Antrag vorgenommen wurde (§ 130 Abs. 1 Nr. 1) und die Zahlungsunfähigkeit vorlag, oder
 2. die Handlung im zweiten oder dritten Monat vor Antrag vorgenommen wurde (§ 130 Abs. 1 Nr. 2) und der Anfechtungsgegner die Zahlungsunfähigkeit kannte.
 
 ## Tatbestandsmerkmale
 
-### 1. Kongrünte Deckung
+### 1. Kongruente Deckung
 
 Der Gläubiger erhält genau das, was ihm vertraglich oder gesetzlich in dieser Art und zu diesem Zeitpunkt zusteht. Keine Besserstellung gegenüber dem vereinbarten Anspruch.
 
-**Abgrenzung zur Inkongrünz (§ 131 InsO):** Bei kongrünter Deckung sind die Anforderungen an die subjektiven Tatbestandsmerkmale höher als bei inkongrünter.
+**Abgrenzung zur Inkongruenz (§ 131 InsO):** Bei kongruenter Deckung sind die Anforderungen an die subjektiven Tatbestandsmerkmale höher als bei inkongruenter.
 
 ### 2. Zeitlicher Rahmen — drei Monate vor Insolvenzantrag
 

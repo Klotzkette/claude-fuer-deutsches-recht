@@ -11,7 +11,7 @@ Anfechtbar sind nach § 132 Abs. 1 InsO Rechtshandlungen, die unmittelbar nachte
 
 ## Abgrenzung zu §§ 130, 131 InsO
 
-§ 132 InsO greift bei Rechtshandlungen, die nicht als kongrünte oder inkongrünte Deckung eines bestehenden Anspruchs eines Insolvenzgläubigers zu qualifizieren sind, sondern bei denen die Schädigung des Gläubigervermögens die unmittelbare Folge der Rechtshandlung ist — ohne dass ein anderer die Sicherung oder Befriedigung erlangt.
+§ 132 InsO greift bei Rechtshandlungen, die nicht als kongruente oder inkongruente Deckung eines bestehenden Anspruchs eines Insolvenzgläubigers zu qualifizieren sind, sondern bei denen die Schädigung des Gläubigervermögens die unmittelbare Folge der Rechtshandlung ist — ohne dass ein anderer die Sicherung oder Befriedigung erlangt.
 
 ## Tatbestandsmerkmale
 

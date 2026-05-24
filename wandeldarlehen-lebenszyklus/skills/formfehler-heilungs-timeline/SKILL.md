@@ -160,8 +160,8 @@ Vertrags-Schluss.
 
 ### Konstellationen
 
-- **§ 130 InsO** Kongrünz-Anfechtung — wenn Bestellung nach Insolvenz-Antrag-Stellung
-- **§ 131 InsO** Inkongrünz-Anfechtung — wenn keine entsprechende Gegenleistung
+- **§ 130 InsO** Kongruenz-Anfechtung — wenn Bestellung nach Insolvenz-Antrag-Stellung
+- **§ 131 InsO** Inkongruenz-Anfechtung — wenn keine entsprechende Gegenleistung
 - **§ 132 InsO** unmittelbar nachteilige Rechtsgeschäfte
 - **§ 133 InsO** Vorsatz-Anfechtung — bei Vorsatz auf Gläubiger-Benachteiligung
 

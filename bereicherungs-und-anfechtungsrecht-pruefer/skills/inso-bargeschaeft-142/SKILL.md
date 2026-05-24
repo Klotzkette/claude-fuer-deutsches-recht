@@ -15,7 +15,7 @@ Das Bargeschäftsprivileg schützt Austauschgeschäfte, bei denen Leistung und G
 
 Die vom Schuldner empfangene Gegenleistung muss dem Wert der von ihm erbrachten Leistung entsprechen (objektiver Vergleich, keine bloß symbolische Gegenleistung).
 
-### 2. Unmittelbarer Zusammenhang (Kongrünz)
+### 2. Unmittelbarer Zusammenhang (Kongruenz)
 
 Leistung und Gegenleistung müssen in einem unmittelbaren zeitlichen Zusammenhang erbracht worden sein. Die Rechtsprechung toleriert regelmäßig einen Zeitraum von wenigen Tagen bis maximal zwei bis drei Wochen.
 
