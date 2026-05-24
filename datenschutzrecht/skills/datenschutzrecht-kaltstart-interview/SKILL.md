@@ -92,7 +92,7 @@ Praxisumgebung: Unternehmen intern
 Primär: Auftragsverarbeiter (Art. 28 DSGVO) für Kundendaten
 Rechtsgrundlage: Art. 6 Abs. 1 lit. b DSGVO (Vertragserfüllung) für Kunden; Art. 6 Abs. 1 lit. c DSGVO (gesetzliche Pflicht)
 Zuständige Aufsichtsbehörde: LfDI NRW (Hauptniederlassung NRW)
-DSB: [Name], intern, bestellt nach § 37 DSGVO / § 38 BDSG
+DSB: [Name], intern, bestellt nach Art. 37 DSGVO / § 38 BDSG
 Drittlandtransfer: nein (Hosting Frankfurt, alle Sub-AVs EU)
 Deal-Breaker: Sub-AV-Wechsel ohne 4-Wochen-Vorankündigung
 ```

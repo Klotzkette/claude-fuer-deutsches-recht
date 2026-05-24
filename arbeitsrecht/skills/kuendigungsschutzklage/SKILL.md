@@ -190,7 +190,7 @@ Ein erstmaliges Auskunftsersuchen kann ausnahmsweise nach Art. 12 Abs. 5 S. 2 DS
 - BAG, Urt. v. 20.02.2025 – 8 AZR 61/24: Der Betroffene muss konkrete nachteilige Auswirkungen der Auskunftspflichtverletzung darlegen. `[Modellwissen – prüfen]`
 
 **Prozessuale Koordination:**
-- Auskunftsklage nach Art. 15 DSGVO ist vor dem **Landgericht** einzuklagen (§ 44 DSGVO); das Arbeitsgericht ist nicht zuständig.
+- Auskunftsklage nach Art. 15 DSGVO ist vor dem **Landgericht** einzuklagen (§ 44 BDSG i.V.m. Art. 79 DSGVO); das Arbeitsgericht ist nicht zuständig.
 - Bei parallelem KSchG-Verfahren (Arbeitsgericht) und DSGVO-Auskunftsverfahren (Landgericht) Prozesstaktik koordinieren.
 - Unberechtigte Ablehnung eines legitimen Auskunftsersuchens kann eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO auslösen — auch ohne rechtswidrige Verarbeitung.
 - Frist: Art. 12 Abs. 3 DSGVO — Antwort innerhalb eines Monats ab Eingang des Ersuchens; Verzögerung muss begründet und kommuniziert werden.

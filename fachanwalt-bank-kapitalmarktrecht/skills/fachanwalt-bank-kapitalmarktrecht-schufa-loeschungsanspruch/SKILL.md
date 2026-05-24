@@ -118,7 +118,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 ## 8) Anschluss
 
 - `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` — bei verbundener Kredit-Konstellation
-- `datenschutzrecht/skills/auskunftsersuchen-art-15-dsgvo` — für formelle Anträge
+- `datenschutzrecht/skills/dsgvo-auskunft` — für formelle Anträge nach Art. 15 DSGVO
 - `forderungsmanagement-klagewerkstatt` — bei Inkasso-Streit-Hintergrund
 
 ## 9) Aktuelle BGH-/EuGH-Linien

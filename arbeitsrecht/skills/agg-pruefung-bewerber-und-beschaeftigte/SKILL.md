@@ -220,7 +220,7 @@ Ein kumulativer Missbrauchsnachweis ist erforderlich:
 Die Hürden bleiben **hoch**: Das Auskunftsrecht (Art. 8 GRCh) gilt; Ausnahmen sind eng auszulegen. Ein einziger Antrag ohne weitere Anhaltspunkte genügt nicht.
 
 **Praxishinweise für den Arbeitgeber:**
-- DSGVO-Auskunft (Art. 15 DSGVO) und AGG-Entschädigungsbegehren (§ 15 AGG) laufen auf verschiedenen Rechtsgebieten parallel: Auskunftsklage gehört vor das **Landgericht** (§ 44 DSGVO); AGG-Entschädigungsklage vor das **Arbeitsgericht** (§ 2 Abs. 1 Nr. 3 ArbGG).
+- DSGVO-Auskunft (Art. 15 DSGVO) und AGG-Entschädigungsbegehren (§ 15 AGG) laufen auf verschiedenen Rechtsgebieten parallel: Auskunftsklage gehört vor das **Landgericht** (§ 44 BDSG i.V.m. Art. 79 DSGVO); AGG-Entschädigungsklage vor das **Arbeitsgericht** (§ 2 Abs. 1 Nr. 3 ArbGG).
 - Auskunft innerhalb eines Monats erteilen (Art. 12 Abs. 3 DSGVO); andernfalls droht eigenständiger Schadensersatz nach Art. 82 DSGVO zusätzlich zur AGG-Haftung.
 - Auswahlunterlagen und Bewertungsbögen sind personenbezogene Daten des Bewerbers — Offenlegungs- und Auskunftspflicht beachten; Geheimhaltungsinteressen Dritter (andere Bewerber) abwägen.
 - BAG, Urt. v. 20.06.2024 – 8 AZR 91/22: Bloßer Kontrollverlust durch Auskunftspflichtverletzung begründet nicht automatisch Art.-82-Schaden. `[Modellwissen – prüfen]`
