@@ -174,4 +174,4 @@ aktivierte Eigenleistungen (0200), Miete (4210).
 *Diese Testakte wurde mit Hilfe von KI-Tools erstellt. Alle Angaben sind fiktiv. 
 Kein Bestandteil dieser Akte begründet Rechtsberatung oder steuerliche Beratung.*
 
-*Erstellt: Mai 2026 (Testversion) | Plugin-Testing: fortbestehensprognose, liquiditaetsplanung*
+*Erstellt: Mai 2026 (Testversion) | Plugin-Testing: fortbestehensprognose, liquiditätsplanung*

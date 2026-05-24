@@ -2,7 +2,7 @@
 
 Technischer Plugin-Name: `urteilsbauer-relationsmacher`.
 
-Freistehendes Plugin fuer **Amts-, Land- und Familienrichter sowie Rechtspfleger**. Begleitet von der Aktenintake ueber die Relation und die Beweiswuerdigung mit Richter-Input bis zum fertigen Urteil oder Beschluss inklusive Tenor, Tatbestand, Entscheidungsgruenden, Kosten- und Rechtsmittelbelehrung. Erzeugt am Ende ein DOCX nach § 313 ZPO.
+Freistehendes Plugin für **Amts-, Land- und Familienrichter sowie Rechtspfleger**. Begleitet von der Aktenintake über die Relation und die Beweiswürdigung mit Richter-Input bis zum fertigen Urteil oder Beschluss inklusive Tenor, Tatbestand, Entscheidungsgründen, Kosten- und Rechtsmittelbelehrung. Erzeugt am Ende ein DOCX nach § 313 ZPO.
 
 ## Direkt-Download
 
@@ -12,8 +12,8 @@ Freistehendes Plugin fuer **Amts-, Land- und Familienrichter sowie Rechtspfleger
 
 ## Installation
 
-1. Claude Code oder Claude Desktop/Cowork oeffnen.
-2. **Customize Plugins** bzw. **Personal plugins** waehlen.
+1. Claude Code oder Claude Desktop/Cowork öffnen.
+2. **Customize Plugins** bzw. **Personal plugins** wählen.
 3. **Install from .zip** und `urteilsbauer-relationsmacher.zip` hochladen.
 4. Mit einem konkreten Auftrag starten, zum Beispiel: `Starte die Relation fuer eine Werklohnklage. Akte liegt vor.`
 
@@ -35,38 +35,38 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 | Skill | Zweck |
 | --- | --- |
-| `aktenintake-zivil` | Erfasst Parteien, Antraege, Sachverhalt, Streitwert, Anlagen und Lage. |
-| `zulaessigkeit-pruefen` | Pruft Statthaftigkeit, Zustaendigkeit, Partei- und Prozessfaehigkeit, Rechtsschutzbeduerfnis. |
+| `aktenintake-zivil` | Erfasst Parteien, Anträge, Sachverhalt, Streitwert, Anlagen und Lage. |
+| `zulaessigkeit-pruefen` | Pruft Statthaftigkeit, Zuständigkeit, Partei- und Prozessfähigkeit, Rechtsschutzbedürfnis. |
 | `relation-zivil` | Baut Relation aus Klagegrund und Verteidigung mit Streitstand und Beweislage. |
-| `vollrelation-langfassung` | Liefert die ausfuehrliche Vollrelation mit Hilfserwaegungen und Eventualbegruendung. |
+| `vollrelation-langfassung` | Liefert die ausführliche Vollrelation mit Hilfserwaegungen und Eventualbegründung. |
 | `anspruchsgrundlagen-pruefen` | Identifiziert und subsumiert die einschlaegigen Anspruchsgrundlagen. |
 | `kollidierende-agb-pruefen` | Loest AGB-Konflikt nach Restguelitgkeits- und Knock-out-Doktrin. |
 | `cisg-pruefen` | Pruft CISG-Anwendbarkeit, Anspruechs- und Aufrechnungslage. |
-| `internationales-privatrecht` | Klaert anwendbares Recht nach Rom I/II und nationalem IPR. |
-| `incoterms-und-gefahruebergang` | Wendet Incoterms 2020 auf Gefahruebergang und Transportkosten an. |
-| `dsgvo-rechtswidriges-produkt` | Beurteilt DSGVO-Verstoesse durch Produkte mit Datenverarbeitung. |
-| `familienrichter-spezifika` | Familienrechtliche Besonderheiten: FamFG-Verfahren, Anhoerungspflicht, Vergleichsdruck. |
+| `internationales-privatrecht` | Klärt anwendbares Recht nach Rom I/II und nationalem IPR. |
+| `incoterms-und-gefahruebergang` | Wendet Incoterms 2020 auf Gefahrübergang und Transportkosten an. |
+| `dsgvo-rechtswidriges-produkt` | Beurteilt DSGVO-Verstöße durch Produkte mit Datenverarbeitung. |
+| `familienrichter-spezifika` | Familienrechtliche Besonderheiten: FamFG-Verfahren, Anhörungspflicht, Vergleichsdruck. |
 | `beweisbeschluss-vorbereiten` | Formuliert Beweisthemen, Beweismittel und Beweisanordnung. |
-| `beweiswuerdigung-mit-richter-input` | Holt Richter-Input zu Glaubwuerdigkeit ein und baut Beweiswuerdigung. |
-| `tatbestand-zivil-schreiben` | Verfasst Tatbestand mit unstreitigem und streitigem Sachverhalt und Antraegen. |
-| `entscheidungsgruende-zivil-schreiben` | Baut Entscheidungsgruende mit Subsumtion und juristischer Begruendung. |
-| `tenor-bauen-zivil` | Erstellt Tenor mit Hauptsache, Kosten, vorlaeufiger Vollstreckbarkeit. |
+| `beweiswuerdigung-mit-richter-input` | Holt Richter-Input zu Glaubwürdigkeit ein und baut Beweiswürdigung. |
+| `tatbestand-zivil-schreiben` | Verfasst Tatbestand mit unstreitigem und streitigem Sachverhalt und Anträgen. |
+| `entscheidungsgruende-zivil-schreiben` | Baut Entscheidungsgründe mit Subsumtion und juristischer Begründung. |
+| `tenor-bauen-zivil` | Erstellt Tenor mit Hauptsache, Kosten, vorläufiger Vollstreckbarkeit. |
 | `kostenentscheidung-bauen` | Berechnet Kostenquote nach §§ 91 ff. ZPO inklusive Vergleichswerten. |
 | `vorlaeufige-vollstreckbarkeit` | Setzt Sicherheitsleistung und Abwendungsbefugnis nach §§ 708 ff. ZPO. |
-| `rechtsmittelbelehrung-zivil` | Erzeugt korrekte Rechtsmittelbelehrung fuer Berufung, Beschwerde, Revision. |
-| `beschluss-bauen-zpo` | Baut Beschluesse statt Urteilen, etwa bei einstweiligem Rechtsschutz oder Streitwertfestsetzung. |
-| `berufungsfest-pruefen` | Pruft das Urteil auf Berufungsfestigkeit und typische Aufhebungsgruende. |
+| `rechtsmittelbelehrung-zivil` | Erzeugt korrekte Rechtsmittelbelehrung für Berufung, Beschwerde, Revision. |
+| `beschluss-bauen-zpo` | Baut Beschlüsse statt Urteilen, etwa bei einstweiligem Rechtsschutz oder Streitwertfestsetzung. |
+| `berufungsfest-pruefen` | Pruft das Urteil auf Berufungsfestigkeit und typische Aufhebungsgründe. |
 | `revisionsfest-pruefen` | Pruft Urteil auf revisionsrechtliche Schwachstellen. |
 | `dokumente-rendern-urteil-docx` | Rendert das fertige Urteil als DOCX nach § 313 ZPO. |
 | `schulung-urteilsbauer` | Trainingsskill zur Einarbeitung neuer Richter und Rechtspfleger. |
 
 ## Typische Workflows
 
-- Aktenintake -> Zulaessigkeit -> Relation -> Anspruchsgrundlagen -> Beweisbeschluss.
-- Beweiswuerdigung mit Richter-Input -> Tatbestand -> Entscheidungsgruende -> Tenor.
-- Kostenentscheidung -> Vorlaeufige Vollstreckbarkeit -> Rechtsmittelbelehrung.
+- Aktenintake -> Zulässigkeit -> Relation -> Anspruchsgrundlagen -> Beweisbeschluss.
+- Beweiswürdigung mit Richter-Input -> Tatbestand -> Entscheidungsgründe -> Tenor.
+- Kostenentscheidung -> Vorläufige Vollstreckbarkeit -> Rechtsmittelbelehrung.
 - Berufungs-/Revisionsfestigkeit -> DOCX-Rendering nach § 313 ZPO.
 
 ## Haftung
 
-Dieses Plugin ist ein Arbeitswerkzeug fuer die richterliche Praxis. Es ersetzt keine eigene rechtliche Pruefung und keine Beratung durch zugelassene Rechtsanwaelte. Die Verantwortung fuer Tenor, Tatbestand und Entscheidungsgruende bleibt beim Spruchkoerper.
+Dieses Plugin ist ein Arbeitswerkzeug für die richterliche Praxis. Es ersetzt keine eigene rechtliche Prüfung und keine Beratung durch zugelassene Rechtsanwälte. Die Verantwortung für Tenor, Tatbestand und Entscheidungsgründe bleibt beim Spruchkoerper.

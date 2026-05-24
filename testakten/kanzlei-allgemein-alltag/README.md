@@ -47,7 +47,7 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 | Datei | Inhalt |
 |-------|--------|
 | [01_posteingang/email_mandantin_meyer.txt](01_posteingang/email_mandantin_meyer.txt) | E-Mail von Clara Meyer mit Schilderung des Schlössertauschs |
-| [01_posteingang/fax_verfuegung_amtsgericht.txt](01_posteingang/fax_verfuegung_amtsgericht.txt) | Fax-Verfügung des AG Mitte mit Fristsetzung 23.05.2026 |
+| [01_posteingang/fax_verfügung_amtsgericht.txt](01_posteingang/fax_verfuegung_amtsgericht.txt) | Fax-Verfügung des AG Mitte mit Fristsetzung 23.05.2026 |
 | [01_posteingang/whatsapp_screenshot_meyer.placeholder.txt](01_posteingang/whatsapp_screenshot_meyer.placeholder.txt) | Platzhalter für abgeschnittenen WhatsApp-Screenshot (Anlage K5) |
 
 ### 02 — beA

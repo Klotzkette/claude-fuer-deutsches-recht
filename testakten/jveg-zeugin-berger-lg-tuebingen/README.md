@@ -107,7 +107,7 @@ Diese Testakte veranschaulicht das **JVEG-Entschädigungsrecht** an einem praxis
 - Beschwerde bei weiterer Ablehnung (§ 4 Abs. 3 JVEG).
 
 ### 7. Vollständiger Verfahrensgang
-Die Akte deckt die gesamte Prozesskette ab: Ladung → Vorschussantrag → Ablehnung → Verhandlung → Festsetzungsantrag → Festsetzungsbeschluss → Erinnerung. Sie eignet sich damit als Referenzfall für plugin-gestützte JVEG-Prüfung (jveg-kostenpruefer) und für die manuelle Fehleranalyse.
+Die Akte deckt die gesamte Prozesskette ab: Ladung → Vorschussantrag → Ablehnung → Verhandlung → Festsetzungsantrag → Festsetzungsbeschluss → Erinnerung. Sie eignet sich damit als Referenzfall für plugin-gestützte JVEG-Prüfung (jveg-kostenprüfer) und für die manuelle Fehleranalyse.
 
 ---
 

@@ -1,6 +1,6 @@
 # Fachanwalt Agrarrecht
 
-Light-Touch-Plugin Fachanwalt fuer Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Duengeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.
+Light-Touch-Plugin Fachanwalt für Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-agrarrecht-orientierung` | Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Hoefeordnung (HoefeO) Anerbenrecht der Bundeslaender Landpachtrecht (BGB §§ 581 ff.) Grundstuecksverkehrsgesetz GVG-G… |
+| `fachanwalt-agrarrecht-orientierung` | Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Hoefeordnung (HoefeO) Anerbenrecht der Bundesländer Landpachtrecht (BGB §§ 581 ff.) Grundstücksverkehrsgesetz GVG-G… |
 
 ## Lizenz
 

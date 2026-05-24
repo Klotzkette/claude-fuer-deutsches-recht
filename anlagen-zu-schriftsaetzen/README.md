@@ -1,6 +1,6 @@
 # Anlagen zu Schriftsätzen
 
-Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik (Klage/Erwiderung/Replik), konvertiert nach PDF, vergibt K/B/AST/AG, stempelt oben rechts in Arial 12, beA-tauglich, mit Konvolut. Modi: Auto-Benennung, Schriftsatz folgt, Pruefmodus.
+Zuordnung von Anlagen zu gerichtlichen Schriftsätzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik (Klage/Erwiderung/Replik), konvertiert nach PDF, vergibt K/B/AST/AG, stempelt oben rechts in Arial 12, beA-tauglich, mit Konvolut. Modi: Auto-Benennung, Schriftsatz folgt, Prüfmodus.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `anlagen-zu-schriftsaetzen` | Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Liest den Schriftsatz (Klage/Klageerwiderung/Replik), erkennt vorhandene Beweisstuecke, sortiert nach Schriftsatz-Logik, konvertiert alles nach PDF, benennt nach … |
+| `anlagen-zu-schriftsaetzen` | Zuordnung von Anlagen zu gerichtlichen Schriftsätzen. Liest den Schriftsatz (Klage/Klageerwiderung/Replik), erkennt vorhandene Beweisstücke, sortiert nach Schriftsatz-Logik, konvertiert alles nach PDF, benennt nach … |
 
 ## Lizenz
 

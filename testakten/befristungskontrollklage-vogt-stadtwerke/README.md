@@ -72,7 +72,7 @@ rechtskräftiges Feststellungsurteil.
 |---|---|
 | [README.md](README.md) | Diese Übersichtsseite: Sachverhalt, Eckdaten, Dateiliste, Lernziele |
 | [mandantennotiz_erstgespraech_09-03-2026.md](mandantennotiz_erstgespraech_09-03-2026.md) | Strukturierte Kanzleinotiz zum Erstgespräch vom 09.03.2026 |
-| [mandantennotiz_erstgespraech_09-03-2026.txt](mandantennotiz_erstgespraech_09-03-2026.txt) | Rohabschrift der handschriftlichen Notiz (Original) |
+| [mandantennotiz_erstgespräch_09-03-2026.txt](mandantennotiz_erstgespraech_09-03-2026.txt) | Rohabschrift der handschriftlichen Notiz (Original) |
 | [vollmacht_vogt.docx](vollmacht_vogt.docx) | Vollmacht Lena Vogt (DOCX-Fassung) |
 | [vollmacht_vogt.md](vollmacht_vogt.md) | Vollmacht Lena Vogt (MD-Vorschau) |
 | [vollmacht_vogt.txt](vollmacht_vogt.txt) | Vollmacht Lena Vogt (Rohabschrift) |
@@ -80,7 +80,7 @@ rechtskräftiges Feststellungsurteil.
 | [arbeitsvertrag_vogt_2024_befristung.docx](arbeitsvertrag_vogt_2024_befristung.docx) | Arbeitsvertrag 2024 als vollständiges DOCX mit allen Klauseln |
 | [arbeitsvertrag_vogt_2024_befristung.md](arbeitsvertrag_vogt_2024_befristung.md) | Arbeitsvertrag 2024 MD-Vorschau |
 | [arbeitsvertrag_ferienaushilfe_2021_auszug.txt](arbeitsvertrag_ferienaushilfe_2021_auszug.txt) | Auszug Ferienaushilfe-Vertrag 2021 (nur Seite 1, Seite 2 fehlt) |
-| [email_uebermittlung_vertrag_feb_2024.txt](email_uebermittlung_vertrag_feb_2024.txt) | E-Mail-Verlauf: Übermittlung und Rücksendung des AV (Feb. 2024) |
+| [email_übermittlung_vertrag_feb_2024.txt](email_uebermittlung_vertrag_feb_2024.txt) | E-Mail-Verlauf: Übermittlung und Rücksendung des AV (Feb. 2024) |
 | [email_schoenfeld_kein_folgevertrag_jan_2026.txt](email_schoenfeld_kein_folgevertrag_jan_2026.txt) | E-Mail-Verlauf: Mitteilung kein Anschlussvertrag (Jan. 2026) |
 | [klageschrift_vogt_arbg_berlin.docx](klageschrift_vogt_arbg_berlin.docx) | Klageschrift Befristungskontrollklage ArbG Berlin (DOCX) |
 | [klageschrift_vogt_arbg_berlin.md](klageschrift_vogt_arbg_berlin.md) | Klageschrift MD-Vorschau |

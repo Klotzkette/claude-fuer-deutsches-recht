@@ -25,7 +25,7 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | **Geschäftsführer** | Klaus-Dieter Brenner, Sabine Wollner |
 | **GwG-Status** | Verpflichtete gem. § 2 Abs. 1 Nr. 14, 16 GwG |
 | **Geldwäschebeauftragter** | Thomas Eckhardt (intern) |
-| **Beratungsmandat** | RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld, Frankfurt |
+| **Beratungsmandat** | RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld, Frankfurt |
 | **Risikokundenprofil** | Danube Trade Solutions SRL, Bukarest (Hochrisiko) |
 | **UBO (fraglich)** | Blue Harbor Holdings Ltd., Nikosia, Zypern |
 | **Drittza hler** | Adriatic Commerce Ltd., Valletta, Malta |
@@ -48,7 +48,7 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | Klaus-Dieter Brenner | Geschäftsführer Musterholding GmbH |
 | Sabine Wollner | Geschäftsführerin, zuständig Finanzen |
 | Thomas Eckhardt | Geldwäschebeauftragter (intern) |
-| RA Dr. Franziska Heller | Externe AML-Beraterin, Kanzlei Heller & Schoenfeld |
+| RA Dr. Franziska Heller | Externe AML-Beraterin, Kanzlei Heller & Schönfeld |
 | Andrei Moldovan | GF Danube Trade Solutions SRL (Screening-Treffer) |
 | Blue Harbor Holdings Ltd. | Behaupteter UBO, Zypern |
 | Adriatic Commerce Ltd. | Drittzahler, Malta |

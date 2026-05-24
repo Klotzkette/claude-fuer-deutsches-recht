@@ -1,22 +1,22 @@
-# Schulungsakte „Roeschen Tech GmbH" — Gesellschaftsgruendung mit B-Shares und Streit-Eskalation
+# Schulungsakte „Roeschen Tech GmbH" — Gesellschaftsgründung mit B-Shares und Streit-Eskalation
 
 ## Szenario
 
-Die **Roeschen Tech GmbH** (fiktive Gesellschaft, alle Personen frei erfunden) wird im Maerz 2024 von **drei Gruendern** mit Sitz in Berlin gegruendet. Stammkapital 30.000 EUR. Geschaeftsmodell: KI-gestuetzte Software-Entwicklung.
+Die **Roeschen Tech GmbH** (fiktive Gesellschaft, alle Personen frei erfunden) wird im März 2024 von **drei Gründern** mit Sitz in Berlin gegründet. Stammkapital 30.000 EUR. Geschäftsmodell: KI-gestützte Software-Entwicklung.
 
-Im November 2025 tritt **Investor Stahlauge Ventures AG** (fiktiv) im Rahmen einer Series-A-Finanzierung ein. Es werden **B-Shares** mit Sondervetorechten und 1,5x Liquidation Preference ausgegeben. Das Stammkapital wird auf 40.000 EUR erhoeht; Bezugsrecht der Gruender ausgeschlossen.
+Im November 2025 tritt **Investor Stahlauge Ventures AG** (fiktiv) im Rahmen einer Series-A-Finanzierung ein. Es werden **B-Shares** mit Sondervetorechten und 1,5x Liquidation Preference ausgegeben. Das Stammkapital wird auf 40.000 EUR erhoeht; Bezugsrecht der Gründer ausgeschlossen.
 
-Im **Juni 2026** plant Stahlauge Ventures gemeinsam mit zwei Gruendern eine **zweite Kapitalerhoehung** um 12.500 EUR — wiederum mit Bezugsrechtsausschluss — zur Aufnahme eines strategischen Investors (Pi Mu Holding GmbH, fiktiv). Die dritte Gruenderin Christine **widerspricht**: sie sieht Verwaesserung von 19 % auf 14 % als unverhaeltnismaessig und nicht sachlich gerechtfertigt.
+Im **Juni 2026** plant Stahlauge Ventures gemeinsam mit zwei Gründern eine **zweite Kapitalerhöhung** um 12.500 EUR — wiederum mit Bezugsrechtsausschluss — zur Aufnahme eines strategischen Investors (Pi Mu Holding GmbH, fiktiv). Die dritte Gründerin Christine **widerspricht**: sie sieht Verwässerung von 19 % auf 14 % als unverhältnismaessig und nicht sachlich gerechtfertigt.
 
-In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhoehung **mehrheitlich** beschlossen (zustimmend: Andrea, Bert, Stahlauge Ventures mit B-Sondervetorecht; ablehnend: Christine). Christine erhebt **Anfechtungsklage** und beantragt **einstweilige Verfuegung** beim Landgericht Berlin sowie **Anmeldungs-Sperre** beim Amtsgericht Charlottenburg.
+In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhöhung **mehrheitlich** beschlossen (zustimmend: Andrea, Bert, Stahlauge Ventures mit B-Sondervetorecht; ablehnend: Christine). Christine erhebt **Anfechtungsklage** und beantragt **einstweilige Verfügung** beim Landgericht Berlin sowie **Anmeldungs-Sperre** beim Amtsgericht Charlottenburg.
 
 ## Beteiligte
 
-| Person | Rolle | Anteilshoehe |
+| Person | Rolle | Anteilshöhe |
 |---|---|---|
-| Andrea Roesener (Gruenderin, CEO) | Class Common | 12.000 EUR (40 %) -> nach Series A 30 %, nach 2. KE 23,5 % |
-| Bert Schmid (Gruender, CTO) | Class Common | 12.000 EUR (40 %) -> nach Series A 30 %, nach 2. KE 23,5 % |
-| Christine Linnenbach (Gruenderin, COO) | Class Common | 6.000 EUR (20 %) -> nach Series A 15 %, nach 2. KE 11,8 % |
+| Andrea Roesener (Gründerin, CEO) | Class Common | 12.000 EUR (40 %) -> nach Series A 30 %, nach 2. KE 23,5 % |
+| Bert Schmid (Gründer, CTO) | Class Common | 12.000 EUR (40 %) -> nach Series A 30 %, nach 2. KE 23,5 % |
+| Christine Linnenbach (Gründerin, COO) | Class Common | 6.000 EUR (20 %) -> nach Series A 15 %, nach 2. KE 11,8 % |
 | Stahlauge Ventures AG | Class B | 10.000 EUR (25 % nach Series A) -> nach 2. KE 19,6 % |
 | Pi Mu Holding GmbH (nach 2. KE) | Class C | 12.500 EUR (24,5 %) — geplant |
 
@@ -25,7 +25,7 @@ In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhoehung **
 1. **B-Shares mit Sondervetorechten**: wie sie funktionieren, wo Streit entsteht
 2. **Liquidation Preference 1,5x participating**: Auswirkungen bei Exit
 3. **Bezugsrechtsausschluss Paragraf 55 IV GmbHG**: sachliche Rechtfertigung, BGH-Linie Kali+Salz
-4. **Streit ueber Verwaesserung**: Klage-Werkzeuge fuer Minderheits-Gesellschafter
+4. **Streit über Verwässerung**: Klage-Werkzeuge für Minderheits-Gesellschafter
 5. **Eilrechtsschutz** beim LG und Registergericht
 6. **Anfechtungsklage Paragraf 246 AktG analog**: Monatsfrist
 7. **Versammlungsleitung bei streitiger GV**: Wahl, Befugnisse, Streit
@@ -79,7 +79,7 @@ In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhoehung **
 
 ## Bearbeitungs-Hinweise
 
-### Variante A — Standardgruendung lernen
+### Variante A — Standardgründung lernen
 
 1. Beginne mit `gesellschaftsgruender-rechtsformwahl` und `gesellschaftsgruender-gmbh-vorbereitung`.
 2. Lies die Satzung der Roeschen Tech GmbH.
@@ -89,7 +89,7 @@ In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhoehung **
 
 1. `gesellschaftsgruender-share-classes-a-b-c` und `gesellschaftsgruender-gesellschaftervereinbarung`.
 2. Lies das SHA und die Class-B-Klauseln in der Satzung.
-3. Erstelle den Cap Table fuer Series A nach.
+3. Erstelle den Cap Table für Series A nach.
 
 ### Variante C — Streit-Eskalation
 

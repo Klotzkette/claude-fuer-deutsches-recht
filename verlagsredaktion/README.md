@@ -1,6 +1,6 @@
 # Verlagsredaktion
 
-Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte PPT Screenshots Videos Notizen) ein Rohmanuskript als Anschubhilfe. Modus B ueberarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer.
+Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte PPT Screenshots Videos Notizen) ein Rohmanuskript als Anschubhilfe. Modus B überarbeitet umgliedert verdichtet erkennt Widersprüche. Hauszitierweise mit Pinpoint-Randnummer.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `verlagsredaktion` | Verlegerischer Redaktionsassistent fuer juristische Verlage und Autoren. Modus A Rohmanuskript macht aus disparaten Inputs wie Audiotranskripten Konzeptpapieren PowerPoint Screenshots Videos und handschriftlichen Noti… |
+| `verlagsredaktion` | Verlegerischer Redaktionsassistent für juristische Verlage und Autoren. Modus A Rohmanuskript macht aus disparaten Inputs wie Audiotranskripten Konzeptpapieren PowerPoint Screenshots Videos und handschriftlichen Noti… |
 
 ## Lizenz
 

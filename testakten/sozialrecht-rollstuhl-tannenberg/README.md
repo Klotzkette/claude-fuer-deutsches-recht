@@ -1,13 +1,13 @@
 # Testakte: Familie Tannenberg - vier Sozialrechtsverfahren parallel
 
-> **Hinweis:** Diese Akte ist frei erfunden und dient ausschliesslich der Schulung
-> mit dem Plugin `sozialrecht-kanzlei`. Personen, Aerzte, Versicherungsnummern,
+> **Hinweis:** Diese Akte ist frei erfunden und dient ausschließlich der Schulung
+> mit dem Plugin `sozialrecht-kanzlei`. Personen, Ärzte, Versicherungsnummern,
 > Aktenzeichen, Adressen, Befunde - alles fiktiv. Keine reale Aehnlichkeit
 > beabsichtigt.
 
 ## Idee der Akte
 
-Die Familie Tannenberg in Kiel wickelt zur gleichen Zeit **vier sozialrechtliche Verfahren** ueber dieselbe Kanzlei (RA Holm) ab. Jeder Fall ist eigenstaendig, hat einen eigenen Bescheid, eine eigene Frist und ein eigenes Sachgebiet. Zusammen decken sie die wichtigsten Felder ab, die in einer typischen Sozialrechts-Kanzlei taeglich vorkommen.
+Die Familie Tannenberg in Kiel wickelt zur gleichen Zeit **vier sozialrechtliche Verfahren** über dieselbe Kanzlei (RA Holm) ab. Jeder Fall ist eigenständig, hat einen eigenen Bescheid, eine eigene Frist und ein eigenes Sachgebiet. Zusammen decken sie die wichtigsten Felder ab, die in einer typischen Sozialrechts-Kanzlei täglich vorkommen.
 
 | Mandant | Verfahren | Sozialgesetzbuch | Sachgebiet |
 |---|---|---|---|
@@ -69,29 +69,29 @@ testakten/sozialrecht-rollstuhl-tannenberg/
 ## Schulungs-Workflow (Kurz)
 
 1. **Triage** - vier Bescheide auf den Tisch, SGB-Buch zuordnen
-2. **Frist-Quick-Check** - 60 Sekunden pro Bescheid, Ampel rot/gelb/gruen
-3. **Bescheidanalyse** - Begruendungsmaengel finden
+2. **Frist-Quick-Check** - 60 Sekunden pro Bescheid, Ampel rot/gelb/grün
+3. **Bescheidanalyse** - Begründungsmaengel finden
 4. **Widerspruch** - Bausteine zusammensetzen
 5. **Mandantenbrief** - in einfacher Sprache
-6. **Strategie** - PKH, Eilrechtsschutz, Untaetigkeitsklage
+6. **Strategie** - PKH, Eilrechtsschutz, Untätigkeitsklage
 
 Details siehe `SCHULUNG-Trainerhandbuch.md`.
 
 ## Stand der Verfahren (Datum 22.05.2026)
 
-- **Olaf:** Widerspruch eingelegt am 20.05.2026, Eilantrag fuer Sitzung 25.08.2026 vorbereitet
+- **Olaf:** Widerspruch eingelegt am 20.05.2026, Eilantrag für Sitzung 25.08.2026 vorbereitet
 - **Lena:** Widerspruch eingelegt am 06.04.2026, Antwort Jugendamt steht aus
 - **Margarete:** Widerspruchsentwurf vom 28.04.2026 eingereicht, Antwort AOK steht aus
-- **Bodo:** Widerspruchsentwurf vom 02.05.2026 eingereicht, PKH fuer mgl. Klage vorbereitet
+- **Bodo:** Widerspruchsentwurf vom 02.05.2026 eingereicht, PKH für mgl. Klage vorbereitet
 
-## Empfohlener Einstieg fuer Selbststudium
+## Empfohlener Einstieg für Selbststudium
 
 1. `SCHULUNG-Trainerhandbuch.md` lesen, um den Aufbau zu verstehen
 2. Im Plugin `sozialrecht-kanzlei` mit Skill `sozialrecht-fallaufnahme-routing` starten
 3. Bei jedem Fall den Bescheid lesen, dann das Gutachten, dann den Widerspruchsentwurf
 4. Fristen-XLSX dazulegen, um die Termin-Logik zu verstehen
-5. Den Mandantenbrief von Lena lesen und ueberlegen, wie er fuer Bodo aussehen wuerde
+5. Den Mandantenbrief von Lena lesen und überlegen, wie er für Bodo aussehen würde
 
 ## Disclaimer
 
-**Diese Akte ist nicht zur Verwendung in echten Mandaten geeignet.** Schriftsaetze, Anlagen und Texte sind Schulungsmaterial. Aktenzeichen, Versicherungsnummern, Befunde und Personen sind erfunden. Vor jedem realen Einsatz ist eine vollstaendige fachliche Pruefung durch eine Rechtsanwaeltin oder einen Rechtsanwalt fuer Sozialrecht erforderlich.
+**Diese Akte ist nicht zur Verwendung in echten Mandaten geeignet.** Schriftsätze, Anlagen und Texte sind Schulungsmaterial. Aktenzeichen, Versicherungsnummern, Befunde und Personen sind erfunden. Vor jedem realen Einsatz ist eine vollständige fachliche Prüfung durch eine Rechtsanwältin oder einen Rechtsanwalt für Sozialrecht erforderlich.

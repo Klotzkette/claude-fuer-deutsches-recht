@@ -1,28 +1,28 @@
 # Schulungsakte - Elektronisches Pflichtpostfach
 
-> Trainingsakte fuer das Plugin `legistik-werkstatt`. Die Akte simuliert einen vollstaendigen Legistik-Durchlauf vom Koalitionsvertrag bis zur fertigen Kabinettsmappe.
+> Trainingsakte für das Plugin `legistik-werkstatt`. Die Akte simuliert einen vollständigen Legistik-Durchlauf vom Koalitionsvertrag bis zur fertigen Kabinettsmappe.
 
 ## Politische Vorgabe (Auszug Koalitionsvertrag, fiktiv)
 
-> "Wir wollen die Digitalisierung der Rechtskommunikation entschlossen voranbringen. Alle im Handelsregister eingetragenen Gesellschaften, ihre Zweigniederlassungen sowie sehr grosse Online-Plattformen und Online-Suchmaschinen im Sinne des Digital Services Act sollen verpflichtet werden, ein elektronisches Pflichtpostfach vorzuhalten. Dieses Pflichtpostfach soll fuer Zustellungen durch Gerichte, Behoerden und in Wahrnehmung oeffentlicher Aufgaben handelnde Stellen geeignet sein. Wir gewaehrleisten Interoperabilitaet mit den vorhandenen Postfaechern (beA, beBPo, eBO, ELSTER-Postfach, Mein Unternehmenskonto)."
+> "Wir wollen die Digitalisierung der Rechtskommunikation entschlossen voranbringen. Alle im Handelsregister eingetragenen Gesellschaften, ihre Zweigniederlassungen sowie sehr große Online-Plattformen und Online-Suchmaschinen im Sinne des Digital Services Act sollen verpflichtet werden, ein elektronisches Pflichtpostfach vorzuhalten. Dieses Pflichtpostfach soll für Zustellungen durch Gerichte, Behörden und in Wahrnehmung öffentlicher Aufgaben handelnde Stellen geeignet sein. Wir gewaehrleisten Interoperabilitaet mit den vorhandenen Postfaechern (beA, beBPo, eBO, ELSTER-Postfach, Mein Unternehmenskonto)."
 
 ## Aufgabe an die Legistinnen und Legisten
 
 Aus dieser politischen Vorgabe ist ein **Stammgesetz "Pflichtpostfachgesetz - PflPostG"** zu erstellen, das
 
 - in HGB, ZPO, FamFG, VwZG, AO die noetigen Folgeaenderungen anstoesst,
-- Bezuege zu DSA, eIDAS 2.0, GoBD herstellt und
-- ueber das Notifizierungsverfahren 2015/1535 europarechtlich abgesichert wird.
+- Bezüge zu DSA, eIDAS 2.0, GoBD herstellt und
+- über das Notifizierungsverfahren 2015/1535 europarechtlich abgesichert wird.
 
-Ein vollstaendiger Workflow durch alle 25 Skills des Plugins `legistik-werkstatt` ist im Trainerhandbuch beschrieben (`trainerhandbuch.md`).
+Ein vollständiger Workflow durch alle 25 Skills des Plugins `legistik-werkstatt` ist im Trainerhandbuch beschrieben (`trainerhandbuch.md`).
 
 ## Lernfallen, die in der Schulung bewusst eingebaut sind
 
-1. **Goldplating** - die DSA-Pflicht auf 45 Mio Nutzer ist klar, aber der Entwurf zieht sie auf eine "vergleichbare Groesse" herab. Skill `goldplating-vermeiden` muss greifen.
-2. **Bestimmtheit** - die Formulierung "ab einer gewissen Groesse" ist verfassungsrechtlich nicht haltbar. Skill `verfassungsmaessigkeit-quercheck` muss eine Untergrenze fordern.
-3. **Verordnungsermaechtigung** - Inhalt, Zweck und Ausmass nach Art. 80 GG muessen so bestimmt sein, dass der Buerger sie aus dem Gesetz heraus erkennt. Skill `verordnungsermaechtigung-art80` zwingt zur Nachschaerfung.
-4. **Notifizierung** - technische Vorschrift im Sinne der Richtlinie (EU) 2015 1535, deshalb dreimonatige Stillhaltefrist gegenueber Kommission und Mitgliedstaaten.
-5. **Zustaendigkeit** - HGB ist Buergerliches Recht (Art. 74 Abs. 1 Nr. 1 GG), Verfahrensrecht ZPO und FamFG (Art. 74 Abs. 1 Nr. 1 GG), Zustaendigkeit fuer die VLOP-Pflicht aber komplett DSA-getrieben (DSA-DG als Stammgesetz, Bundeszustaendigkeit).
+1. **Goldplating** - die DSA-Pflicht auf 45 Mio Nutzer ist klar, aber der Entwurf zieht sie auf eine "vergleichbare Größe" herab. Skill `goldplating-vermeiden` muss greifen.
+2. **Bestimmtheit** - die Formulierung "ab einer gewissen Größe" ist verfassungsrechtlich nicht haltbar. Skill `verfassungsmaessigkeit-quercheck` muss eine Untergrenze fordern.
+3. **Verordnungsermaechtigung** - Inhalt, Zweck und Ausmass nach Art. 80 GG müssen so bestimmt sein, dass der Bürger sie aus dem Gesetz heraus erkennt. Skill `verordnungsermaechtigung-art80` zwingt zur Nachschaerfung.
+4. **Notifizierung** - technische Vorschrift im Sinne der Richtlinie (EU) 2015 1535, deshalb dreimonatige Stillhaltefrist gegenüber Kommission und Mitgliedstaaten.
+5. **Zuständigkeit** - HGB ist Bürgerliches Recht (Art. 74 Abs. 1 Nr. 1 GG), Verfahrensrecht ZPO und FamFG (Art. 74 Abs. 1 Nr. 1 GG), Zuständigkeit für die VLOP-Pflicht aber komplett DSA-getrieben (DSA-DG als Stammgesetz, Bundeszustaendigkeit).
 6. **Zirkelschluss** - die Definition "Pflichtpostfach im Sinne des § 1 PflPostG" wird in HGB § 33a verwendet, der wieder auf das PflPostG zurueckverweist - in Ordnung, aber das XML muss das sauber abbilden.
 
 ## Ordnerstruktur
@@ -51,14 +51,14 @@ testakten/legistik-pflichtpostfach/
   output/                  # leer am Anfang, wird vom render.py gefuellt
 ```
 
-## So fuehren Sie die Schulung durch
+## So führen Sie die Schulung durch
 
 1. Auftrag aus `eingang/auftragsblatt.md` lesen
 2. Skill `legistik-auftragsaufnahme` durchlaufen
 3. Skill `normhierarchie-routing` -> Ergebnis: Bundesstammgesetz
 4. Skills `gesetzgebungskompetenz-pruefen`, `verfassungsmaessigkeit-quercheck`, `europarechtskonformitaet`
 5. Skill `normenkartierung` -> Karte mit HGB, ZPO, FamFG, DSA, eIDAS, VwZG
-6. Skill `terminologie-konsistenz` -> ein einheitlicher Begriff fuer "Pflichtpostfach"
+6. Skill `terminologie-konsistenz` -> ein einheitlicher Begriff für "Pflichtpostfach"
 7. Skill `referentenentwurf-bauen` -> baut das Markdown-Geruest
 8. Skill `begruendung-allgemein-und-besonders`
 9. Skill `synopse-erstellen` -> CSV
@@ -80,9 +80,9 @@ python3 legistik-werkstatt/skills/dokumente-rendern-docx-pdf/assets/render.py \
   --ausgabe testakten/legistik-pflichtpostfach/output
 ```
 
-Ausgabe: `Referentenentwurf-PflPostG.docx` im offiziellen Arial-11pt-Layout mit Bearbeitungsstand-Kopf, A-F-Vorblatt, Artikelgesetz und Begruendung in Teil A und B.
+Ausgabe: `Referentenentwurf-PflPostG.docx` im offiziellen Arial-11pt-Layout mit Bearbeitungsstand-Kopf, A-F-Vorblatt, Artikelgesetz und Begründung in Teil A und B.
 
-Fuer das BT-Drucksachen-Layout (Times New Roman, Drucksachennummer im Kopf, Anschreiben des Bundeskanzlers):
+Für das BT-Drucksachen-Layout (Times New Roman, Drucksachennummer im Kopf, Anschreiben des Bundeskanzlers):
 
 ```bash
 python3 legistik-werkstatt/skills/dokumente-rendern-docx-pdf/assets/render.py \

@@ -57,7 +57,7 @@ Die Akte enthält drei Verteidigungslinien: die Angreifbarkeit der Fahreridentif
 | [08_zeugenvermerk_polizeibeamter.md](08_zeugenvermerk_polizeibeamter.md) | Zeugenvermerk PHK Klaus Kramer: Einsatzdaten, eigene Wahrnehmung, Fahreridentifikation, Fahrspurkorrektur, Kanzleibefragungsplanung |
 | [09_fahrtenbuch_arbeitgeber.csv](09_fahrtenbuch_arbeitgeber.csv) | Fahrtenbuch der GbR, Fahrzeug K-JM 426, März 2026: 34 Einträge mit Datum, Uhrzeit, Nutzer, Zweck, Strecke, km-Stand, Auftragsnummer |
 | [10_punktestand_kba_fiktiv.md](10_punktestand_kba_fiktiv.md) | Fiktiver KBA-Auszug (ZFER): aktuell 1 Punkt, Prognose 3 Punkte nach Rechtskraft, Seminar-Option, Tilgungsfristen |
-| [11_kalender_fahrverbot_haertefall.ics](11_kalender_fahrverbot_haertefall.ics) | ICS-Kalender: Einspruchsfrist, Akteneinsicht, Begründungsfrist, Härtevortrag-Termine (Rheinauhafen, Pulheim etc.), Wahlmonat-Planung, Hauptverhandlung |
+| [11_kalender_fahrverbot_härtefall.ics](11_kalender_fahrverbot_haertefall.ics) | ICS-Kalender: Einspruchsfrist, Akteneinsicht, Begründungsfrist, Härtevortrag-Termine (Rheinauhafen, Pulheim etc.), Wahlmonat-Planung, Hauptverhandlung |
 | [12_mandantenchat_und_timeline.md](12_mandantenchat_und_timeline.md) | Realistischer WhatsApp-Chatverlauf (26 Nachrichten, 07.05.–05.06.2026) + tabellarische Verfahrenstimeline |
 | [13_rechtsprechungsnotizen.md](13_rechtsprechungsnotizen.md) | 7 fiktive Leitentscheidungen zu: Fotoidentifikation, Haltereigenschaft, Protokollkorrektur, Eichung nach Reparatur, Härtevortrag, Rotlichtgrenzwert, Akteneinsicht Rohmessdaten |
 | [14_einspruch_entwurf.md](14_einspruch_entwurf.md) | Vollständige Einspruchsbegründung (ca. 1.600 Wörter): 4 Verteidigungslinien, Beweisanträge, Härtevortrag, Anlagenverzeichnis |

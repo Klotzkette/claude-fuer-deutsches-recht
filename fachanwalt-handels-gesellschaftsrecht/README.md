@@ -1,6 +1,6 @@
 # Fachanwalt Handels- und Gesellschaftsrecht
 
-Light-Touch-Plugin Fachanwalt fuer Handels- und Gesellschaftsrecht nach FAO § 14i. HGB, AktG, GmbHG, PartGG, UmwG, MoPeG (GbR seit 2024). Geschaeftsfuehrerhaftung §§ 43 GmbHG, 93 AktG. Gesellschafterstreit und Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB.
+Light-Touch-Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB, AktG, GmbHG, PartGG, UmwG, MoPeG (GbR seit 2024). Geschäftsführerhaftung §§ 43 GmbHG, 93 AktG. Gesellschafterstreit und Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -21,9 +21,9 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 | Skill | Zweck |
 | --- | --- |
 | `fachanwalt-handels-gesellschaftsrecht-orientierung` | Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen Normen typische Mandate. |
-| `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Geschaeftsfuehrerhaftung § 43 GmbHG und § 93 AktG. Innenhaftung Aussenhaftung Business Judgement Rule. |
+| `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Geschäftsführerhaftung § 43 GmbHG und § 93 AktG. Innenhaftung Außenhaftung Business Judgement Rule. |
 | `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` | Gesellschafterstreit. Beschlussanfechtung Einberufungsmangel Stimmverbot. Ausschluss aus wichtigem Grund. |
-| `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Handelsvertreterausgleichsanspruch § 89b HGB. Drei Voraussetzungen Berechnung Hoechstgrenze. |
+| `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Handelsvertreterausgleichsanspruch § 89b HGB. Drei Voraussetzungen Berechnung Höchstgrenze. |
 
 ## Zitierweise
 

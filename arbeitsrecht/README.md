@@ -198,12 +198,12 @@ Download als ZIP:
 | Datei | Inhalt |
 |---|---|
 | [README.md](../testakten/kuendigungsschutzklage-weber-techlogix/README.md) | Überblick, Fristen, Streitpunkte |
-| [kuendigungsschreiben_techlogix_30-04-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/kuendigungsschreiben_techlogix_30-04-2026.txt) | Kündigungsschreiben vom 30.04.2026 |
+| [kündigungsschreiben_techlogix_30-04-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/kuendigungsschreiben_techlogix_30-04-2026.txt) | Kündigungsschreiben vom 30.04.2026 |
 | [arbeitsvertrag_weber_2018_auszug.txt](../testakten/kuendigungsschutzklage-weber-techlogix/arbeitsvertrag_weber_2018_auszug.txt) | Arbeitsvertrag Auszug 2018 |
-| [betriebsrat_anhoerung_entwurf_roh.txt](../testakten/kuendigungsschutzklage-weber-techlogix/betriebsrat_anhoerung_entwurf_roh.txt) | Roh-Entwurf der BR-Anhörung mit Lücken |
+| [betriebsrat_anhörung_entwurf_roh.txt](../testakten/kuendigungsschutzklage-weber-techlogix/betriebsrat_anhoerung_entwurf_roh.txt) | Roh-Entwurf der BR-Anhörung mit Lücken |
 | [sozialauswahl_vergleichstabelle_roh.md](../testakten/kuendigungsschutzklage-weber-techlogix/sozialauswahl_vergleichstabelle_roh.md) | Sozialauswahl-Vergleichstabelle Weber vs. Grunewald |
-| [mandantennotiz_erstgespraech_06-05-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/mandantennotiz_erstgespraech_06-05-2026.txt) | Mandantennotiz Erstgespräch |
-| [notiz_weber_gespraech_maerz_2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/notiz_weber_gespraech_maerz_2026.txt) | Notiz Vorgespräch März 2026 |
+| [mandantennotiz_erstgespräch_06-05-2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/mandantennotiz_erstgespraech_06-05-2026.txt) | Mandantennotiz Erstgespräch |
+| [notiz_weber_gespräch_märz_2026.txt](../testakten/kuendigungsschutzklage-weber-techlogix/notiz_weber_gespraech_maerz_2026.txt) | Notiz Vorgespräch März 2026 |
 | [vollmacht_weber.txt](../testakten/kuendigungsschutzklage-weber-techlogix/vollmacht_weber.txt) | Vollmacht des Mandanten |
 
 ### Befristungskontrollklage Vogt ./. Stadtwerke Neukölln — Einzeldateien
@@ -212,10 +212,10 @@ Download als ZIP:
 |---|---|
 | [README.md](../testakten/befristungskontrollklage-vogt-stadtwerke/README.md) | Überblick, Fristen, Streitpunkte |
 | [arbeitsvertrag_vogt_2024_per_email.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/arbeitsvertrag_vogt_2024_per_email.txt) | Befristeter Arbeitsvertrag (per E-Mail übermittelt, Schriftformproblem § 14 Abs. 4 TzBfG) |
-| [email_uebermittlung_vertrag_feb_2024.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/email_uebermittlung_vertrag_feb_2024.txt) | E-Mail mit Vertrag (Februar 2024) |
+| [email_übermittlung_vertrag_feb_2024.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/email_uebermittlung_vertrag_feb_2024.txt) | E-Mail mit Vertrag (Februar 2024) |
 | [arbeitsvertrag_ferienaushilfe_2021_auszug.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/arbeitsvertrag_ferienaushilfe_2021_auszug.txt) | Vorbeschäftigung 2021 als Ferienaushilfe |
 | [email_schoenfeld_kein_folgevertrag_jan_2026.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/email_schoenfeld_kein_folgevertrag_jan_2026.txt) | E-Mail Schönfeld: kein Folgevertrag (Januar 2026) |
-| [mandantennotiz_erstgespraech_09-03-2026.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/mandantennotiz_erstgespraech_09-03-2026.txt) | Mandantennotiz Erstgespräch |
+| [mandantennotiz_erstgespräch_09-03-2026.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/mandantennotiz_erstgespraech_09-03-2026.txt) | Mandantennotiz Erstgespräch |
 | [vollmacht_vogt.txt](../testakten/befristungskontrollklage-vogt-stadtwerke/vollmacht_vogt.txt) | Vollmacht der Mandantin |
 
 ## Lerneffekt

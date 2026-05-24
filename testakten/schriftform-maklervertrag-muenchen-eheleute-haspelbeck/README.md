@@ -38,7 +38,7 @@ Im Verlauf des E-Mail-Austauschs enthielt die Signatur einer ihrer Mails (E-Mail
 vom 03.04.2023) folgenden Hinweis:
 
 > *„Unser Honorar betraegt maximal drei Komma sieben Prozent des Kaufpreises (zzgl. gesetzl.
-> MwSt.) gemaess gesetzlicher Courtagefreiheit des Verkaeufers. Bezug: Ihr Anfrageobjekt."*
+> MwSt.) gemäß gesetzlicher Courtagefreiheit des Verkaeufers. Bezug: Ihr Anfrageobjekt."*
 
 Weder war das Objekt namentlich bezeichnet, noch war eine Provision der Höhe nach
 festgeschrieben. Korbinian Haspelbeck bemerkte diesen Hinweis nach eigenen Angaben kaum

@@ -1,17 +1,17 @@
-# gesellschaftsgruender — Gruendungsassistent fuer deutsche Gesellschaften
+# gesellschaftsgründer — Gründungsassistent für deutsche Gesellschaften
 
-Freistehendes Plugin, das durch die Gruendung einer deutschen Gesellschaft fuehrt — von der Rechtsformwahl ueber Cap Table, Class-Shares, Notar, Handelsregister, Behoerdenanmeldungen bis hin zu den ersten 100 Tagen Geschaeftsfuehrer-Pflichten und Streit-Eskalationen.
+Freistehendes Plugin, das durch die Gründung einer deutschen Gesellschaft führt — von der Rechtsformwahl über Cap Table, Class-Shares, Notar, Handelsregister, Behördenanmeldungen bis hin zu den ersten 100 Tagen Geschäftsführer-Pflichten und Streit-Eskalationen.
 
 ## Direkt-Download
 
 | Plugin | Direkt-Download |
 | --- | --- |
-| gesellschaftsgruender | [gesellschaftsgruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsgruender.zip) |
+| gesellschaftsgründer | [gesellschaftsgruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsgruender.zip) |
 
 ## Installation
 
-1. Claude Code oder Claude Desktop/Cowork oeffnen.
-2. **Customize Plugins** bzw. **Personal plugins** waehlen.
+1. Claude Code oder Claude Desktop/Cowork öffnen.
+2. **Customize Plugins** bzw. **Personal plugins** wählen.
 3. **Install from .zip** und `gesellschaftsgruender.zip` hochladen.
 4. Mit einem konkreten Auftrag starten, zum Beispiel: `Starte die Gesellschaftsgruendung. Rechtsform: GmbH. Drei Gruender, zwei davon im Ausland.`
 
@@ -26,35 +26,35 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Schulungsakte (Direkt-Download)
 
-- **Streit Roeschen Tech GmbH i.Gr.** (Drei-Gruender-Streit mit Vesting/SHA/Class-Shares): [testakten/gesellschaftsgruender-streit-roeschen-tech/](../testakten/gesellschaftsgruender-streit-roeschen-tech/) -> [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip)
+- **Streit Roeschen Tech GmbH i.Gr.** (Drei-Gründer-Streit mit Vesting/SHA/Class-Shares): [testakten/gesellschaftsgruender-streit-roeschen-tech/](../testakten/gesellschaftsgruender-streit-roeschen-tech/) -> [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip)
 
 Details zur Schulungsakte stehen weiter unten.
 
 ## Mandatsperspektive
 
-**Du als Anwalt, Steuerberater, Gruender oder Notarberater.** Das Plugin
+**Du als Anwalt, Steuerberater, Gründer oder Notarberater.** Das Plugin
 
-- erfasst die **Gruender-Eckdaten** strukturiert,
-- klaert die **Rechtsformwahl** (GmbH, UG, GbR, OHG, KG, GmbH & Co. KG, AG, PartG, gGmbH, eK),
-- entwickelt **Cap Table** mit Pre/Post-Money und Verwaesserungs-Simulation,
+- erfasst die **Gründer-Eckdaten** strukturiert,
+- klärt die **Rechtsformwahl** (GmbH, UG, GbR, OHG, KG, GmbH & Co. KG, AG, PartG, gGmbH, eK),
+- entwickelt **Cap Table** mit Pre/Post-Money und Verwässerungs-Simulation,
 - liefert **Class-Shares** (A/B/C/Common) mit Liquidation Preference,
 - erstellt **Gesellschaftervereinbarung (SHA)** mit Vesting, Drag/Tag, Stimmverpflichtungen,
 - bereitet die **Notarsitzung** vor (auch DiRUG-online),
 - begleitet die **Handelsregister-Anmeldung**,
-- koordiniert die **Behoerden-Anmeldungen** (Gewerbe, Finanzamt, IHK, BG, TraFinG),
-- liefert eine **Geschaeftsordnung der Geschaeftsfuehrung** und Meeting-Templates,
+- koordiniert die **Behörden-Anmeldungen** (Gewerbe, Finanzamt, IHK, BG, TraFinG),
+- liefert eine **Geschäftsordnung der Geschäftsführung** und Meeting-Templates,
 - erstellt **Gesellschafterversammlungs-Einladungen** und **Protokolle**,
 - vermittelt **bilinguale Dokumente** Deutsch/Englisch,
-- klaert den **Sozialversicherungs-Status** des Geschaeftsfuehrers,
-- begleitet **Gesellschafterstreit** mit Eilantraegen LG und Registergericht,
-- prueft den **Firmennamen** (HR, IHK, DPMA, EUIPO),
-- liefert eine **erste 100-Tage-Checkliste** fuer den Geschaeftsfuehrer.
+- klärt den **Sozialversicherungs-Status** des Geschäftsführers,
+- begleitet **Gesellschafterstreit** mit Eilanträgen LG und Registergericht,
+- prüft den **Firmennamen** (HR, IHK, DPMA, EUIPO),
+- liefert eine **erste 100-Tage-Checkliste** für den Geschäftsführer.
 
-Beruecksichtigt aktuelle Gesetzeslage Stand 2026 inkl. **MoPeG** (Modernisierung Personengesellschaftsrecht, Januar 2024) und **DiRUG** (Online-Gruendung per Videokonferenz, August 2022).
+Berücksichtigt aktuelle Gesetzeslage Stand 2026 inkl. **MoPeG** (Modernisierung Personengesellschaftsrecht, Januar 2024) und **DiRUG** (Online-Gründung per Videokonferenz, August 2022).
 
 ## Aufbau
 
-Der Lebenszyklus einer Gruendung laeuft in fuenf Phasen:
+Der Lebenszyklus einer Gründung läuft in fünf Phasen:
 
 ```
 Phase 0 — Intake und Rechtsformwahl (Woche 1)
@@ -100,10 +100,10 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
 | Slug | Beschreibung |
 |---|---|
 | `gesellschaftsgruender-kommandocenter` | Master-Workflow mit Fristen Beteiligten Kosten |
-| `gesellschaftsgruender-gruender-intake` | Strukturierte Eingangs-Abfrage Gruender Anteile Class-Shares Geschaeftsmodell |
+| `gesellschaftsgruender-gruender-intake` | Strukturierte Eingangs-Abfrage Gründer Anteile Class-Shares Geschäftsmodell |
 | `gesellschaftsgruender-rechtsformwahl` | Entscheidungsmatrix GmbH/UG/GbR/OHG/KG/AG/PartG/gGmbH/eK |
-| `gesellschaftsgruender-firmenname-pruefung` | HR DPMA EUIPO Domain Verwechslungsgefahr Irrefuehrungsverbot |
-| `gesellschaftsgruender-cap-table` | Capitalization Table Pre/Post-Money Verwaesserung Liquidation-Waterfall |
+| `gesellschaftsgruender-firmenname-pruefung` | HR DPMA EUIPO Domain Verwechslungsgefahr Irreführungsverbot |
+| `gesellschaftsgruender-cap-table` | Capitalization Table Pre/Post-Money Verwässerung Liquidation-Waterfall |
 
 ### Phase A — Strukturen und Sondervetorechte (4 Skills)
 
@@ -111,43 +111,43 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
 |---|---|
 | `gesellschaftsgruender-gmbh-vorbereitung` | Sieben Bausteine: Firma Sitz Gegenstand Stammkapital Anteile GF Satzungswahl |
 | `gesellschaftsgruender-ug-vorbereitung` | UG-Spezifika Thesaurierungspflicht Paragraf 5a III GmbHG |
-| `gesellschaftsgruender-egbr-mopeg` | GbR nach MoPeG 2024 Gesellschaftsregister Pflichteintragung Grundstuecksgeschaefte |
-| `gesellschaftsgruender-kg-und-gmbhcokg` | KG und GmbH und Co KG Komplementaer Kommanditist Hafteinlage |
+| `gesellschaftsgruender-egbr-mopeg` | GbR nach MoPeG 2024 Gesellschaftsregister Pflichteintragung Grundstücksgeschäfte |
+| `gesellschaftsgruender-kg-und-gmbhcokg` | KG und GmbH und Co KG Komplementär Kommanditist Hafteinlage |
 | `gesellschaftsgruender-share-classes-a-b-c` | Anteilsklassen A/B/C Common Liquidation Preference Anti-Dilution |
-| `gesellschaftsgruender-golden-share-und-vetorechte` | Golden Share Sperrminoritaet Vetorechte Restrukturierung |
+| `gesellschaftsgruender-golden-share-und-vetorechte` | Golden Share Sperrminorität Vetorechte Restrukturierung |
 
-### Phase B — Vertraege und Geschaeftsordnung (8 Skills)
+### Phase B — Verträge und Geschäftsordnung (8 Skills)
 
 | Slug | Beschreibung |
 |---|---|
 | `gesellschaftsgruender-gesellschaftsvertrag-gmbh` | Satzung mit Pflicht-/Standard-Klauseln Musterprotokoll vs individuell |
 | `gesellschaftsgruender-gesellschaftervereinbarung` | SHA: Vesting Leaver Drag Tag Liquidation Anti-Dilution Pönalen |
-| `gesellschaftsgruender-sha-satzung-stimmverpflichtung` | Stimmverpflichtung Innenverhaeltnis Joinder Agreement Pönalen |
-| `gesellschaftsgruender-geschaeftsfuehrervertrag` | GF-Anstellung Vergueutung Wettbewerb D&O SV-Status vGA |
+| `gesellschaftsgruender-sha-satzung-stimmverpflichtung` | Stimmverpflichtung Innenverhältnis Joinder Agreement Pönalen |
+| `gesellschaftsgruender-geschaeftsfuehrervertrag` | GF-Anstellung Vergütung Wettbewerb D&O SV-Status vGA |
 | `gesellschaftsgruender-gf-sozialversicherungs-status` | Fremd-GF Mehrheits-/Minderheits-GF Statusfeststellung Paragraf 7a SGB IV |
-| `gesellschaftsgruender-geschaeftsordnung-gf` | Geschaeftsordnung der Geschaeftsfuehrung Zustimmungs-Kataloge |
+| `gesellschaftsgruender-geschaeftsordnung-gf` | Geschäftsordnung der Geschäftsführung Zustimmungs-Kataloge |
 | `gesellschaftsgruender-gf-meeting-templates` | Tagesordnung Einladung Protokoll Umlauf-Beschluss bilingual |
 | `gesellschaftsgruender-beirat-advisory-board` | Beirat Advisory Board Beiratsordnung Schlichtungs-Funktion |
-| `gesellschaftsgruender-bilinguale-dokumente` | Deutsch und Englisch parallel Vorrang-Klausel Uebersetzungs-Fallen |
-| `gesellschaftsgruender-klauselkatalog-bilingual` | Volltextliche DE/EN-Klauseln Stimmbindung Golden-Share-StaRUG-Veto BSG-feste Sperrminoritaet Drag Tag Liquidation Preference Anti-Dilution Vesting Bad-Leaver Koppelung Wettbewerbsverbot |
-| `gesellschaftsgruender-intake-decision-tree` | Mermaid-Decision-Tree fuer Intake conditional logic Knoten Trigger-Events Workflow-Engine-Architektur |
+| `gesellschaftsgruender-bilinguale-dokumente` | Deutsch und Englisch parallel Vorrang-Klausel Übersetzungs-Fallen |
+| `gesellschaftsgruender-klauselkatalog-bilingual` | Volltextliche DE/EN-Klauseln Stimmbindung Golden-Share-StaRUG-Veto BSG-feste Sperrminorität Drag Tag Liquidation Preference Anti-Dilution Vesting Bad-Leaver Koppelung Wettbewerbsverbot |
+| `gesellschaftsgruender-intake-decision-tree` | Mermaid-Decision-Tree für Intake conditional logic Knoten Trigger-Events Workflow-Engine-Architektur |
 
 ### Phase C — Notar und Handelsregister (3 Skills)
 
 | Slug | Beschreibung |
 |---|---|
 | `gesellschaftsgruender-notar-vorbereitung` | Notarsitzung Unterlagen GNotKG-Kosten Sacheinlage |
-| `gesellschaftsgruender-online-gruendung-dirug` | DiRUG-Online-Gruendung Videokonferenz seit August 2022 |
+| `gesellschaftsgruender-online-gruendung-dirug` | DiRUG-Online-Gründung Videokonferenz seit August 2022 |
 | `gesellschaftsgruender-handelsregister-anmeldung` | Anmeldung Versicherungen Paragraf 8 II GmbHG Vor-GmbH |
 
-### Phase D — Behoerden und Start (5 Skills)
+### Phase D — Behörden und Start (5 Skills)
 
 | Slug | Beschreibung |
 |---|---|
 | `gesellschaftsgruender-gewerbeanmeldung-finanzamt` | Gewerbeamt Paragraf 14 GewO ELSTER USt-Wahl Kleinunternehmer |
-| `gesellschaftsgruender-transparenzregister` | TraFinG wirtschaftlich Berechtigter Bussgeld bis 150000 EUR |
+| `gesellschaftsgruender-transparenzregister` | TraFinG wirtschaftlich Berechtigter Bußgeld bis 150000 EUR |
 | `gesellschaftsgruender-ihk-und-berufsgenossenschaft` | IHK HwK BG binnen 1 Woche Freiberufler-Spezifika |
-| `gesellschaftsgruender-stammkapital-einzahlung` | Bareinlage freie Verfuegung Paragraf 7 II 2 GmbHG Hin-und-Herzahlen verboten |
+| `gesellschaftsgruender-stammkapital-einzahlung` | Bareinlage freie Verfügung Paragraf 7 II 2 GmbHG Hin-und-Herzahlen verboten |
 | `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` | Erste 100 Tage Buchhaltung Steuern SV Compliance Haftung Paragraf 43 GmbHG |
 
 ### Phase E — GV und Konflikt-Mass nahmen (5 Skills)
@@ -156,28 +156,28 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
 |---|---|
 | `gesellschaftsgruender-gv-einladung-tagesordnung` | Einladung Paragraf 51 GmbHG Frist Form Tagesordnung Beschluss-Vorlage |
 | `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` | Protokoll Versammlungsleiter Wahl Streit notarielle Beurkundung |
-| `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` | Pflichtversammlung bei Verlust Haelfte Stammkapital |
+| `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` | Pflichtversammlung bei Verlust Hälfte Stammkapital |
 | `gesellschaftsgruender-genehmigtes-kapital` | Vorratsbeschluss Paragraf 55a GmbHG bis 50% des Stammkapitals 5 Jahre |
-| `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` | Kapitalerhoehung Bezugsrecht Bezugsrechtsausschluss BGH-Linie Kali-Salz |
-| `gesellschaftsgruender-gesellschafterstreit-eilantraege` | Einstweilige Verfuegung LG Anmeldungs-Sperre Registergericht Anfechtungsklage |
+| `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` | Kapitalerhöhung Bezugsrecht Bezugsrechtsausschluss BGH-Linie Kali-Salz |
+| `gesellschaftsgruender-gesellschafterstreit-eilantraege` | Einstweilige Verfügung LG Anmeldungs-Sperre Registergericht Anfechtungsklage |
 
 ## Schulungsakte
 
-Im Verzeichnis `testakten/gesellschaftsgruender-streit-roeschen-tech/` befindet sich eine **vollstaendige Schulungsakte** mit dem Szenario einer fiktiven Roeschen Tech GmbH:
+Im Verzeichnis `testakten/gesellschaftsgruender-streit-roeschen-tech/` befindet sich eine **vollständige Schulungsakte** mit dem Szenario einer fiktiven Roeschen Tech GmbH:
 
-- Gruendung mit drei Gruendern und Stammkapital 30.000 EUR
+- Gründung mit drei Gründern und Stammkapital 30.000 EUR
 - Series-A-Aufnahme von Stahlauge Ventures AG mit B-Shares
-- 2. Kapitalerhoehung mit Bezugsrechtsausschluss zugunsten Pi Mu Holding GmbH
+- 2. Kapitalerhöhung mit Bezugsrechtsausschluss zugunsten Pi Mu Holding GmbH
 - **Streit** der Minderheits-Gesellschafterin Christine Linnenbach mit Anfechtungsklage, Eilantrag LG, Anmeldungs-Sperre Registergericht
 - Schlichtung durch Beirat
 
-Enthaelt:
+Enthält:
 
-- Vollstaendige Satzung
+- Vollständige Satzung
 - Shareholder Agreement
 - Cap Table (Stand 1-4)
 - Einladung und Protokoll der streitigen GV
-- Anfechtungsklage und Eilantraege
+- Anfechtungsklage und Eilanträge
 - Beirat-Schlichtungs-Empfehlung
 - Schulungsbegleiter mit Lernzielen und Aufgaben
 
@@ -186,12 +186,12 @@ Enthaelt:
 ### Was das Plugin macht
 
 - Strukturen und Schemata vermitteln
-- Pflicht- und Soll-Inhalte erklaeren
+- Pflicht- und Soll-Inhalte erklären
 - Fristen und Beteiligte aufstellen
 - Typische Fallstricke benennen
-- Praktische Schritt-fuer-Schritt-Anleitungen
+- Praktische Schritt-für-Schritt-Anleitungen
 - Bilinguale Vorlagen (Deutsch/Englisch)
-- Konflikt-Werkzeuge (Eilantraege, Anfechtungsklagen)
+- Konflikt-Werkzeuge (Eilanträge, Anfechtungsklagen)
 
 ### Was nicht
 
@@ -203,8 +203,8 @@ Enthaelt:
 ### Wann zwingend Anwalt / Notar / Steuerberater
 
 - Bei Sacheinlagen mit Werthaltigkeits-Risiko (Differenzhaftung Paragraf 9 GmbHG)
-- Bei Beteiligung von Auslandsgesellschaftern (Sanktionsrecht, Investitionspruefung)
-- Bei gemeinnuetzigen Zwecken
+- Bei Beteiligung von Auslandsgesellschaftern (Sanktionsrecht, Investitionsprüfung)
+- Bei gemeinnützigen Zwecken
 - Bei Konzern- und Holding-Strukturen
 - Bei Family-Buy-In / Buy-Out
 - Bei wirtschaftlicher Krise (Insolvenzantragspflicht Paragraf 15a InsO)
@@ -214,33 +214,33 @@ Enthaelt:
 
 Sämtliche Zitierweise-Vorgaben folgen `references/zitierweise.md` des übergeordneten Repositories `claude-fuer-deutsches-recht`. Jede juristische Aussage wird belegt.
 
-## Aktualitaet (Stand 2026)
+## Aktualität (Stand 2026)
 
-Beruecksichtigt:
+Berücksichtigt:
 
-- **MoPeG** (Modernisierung Personengesellschaftsrecht, 1.1.2024) — eGbR-Eintragung, Pflicht bei Grundstuecksgeschaeften
-- **DiRUG** (Digitalisierungsrichtlinie-Umsetzungsgesetz, 1.8.2022) — Online-Gruendung
+- **MoPeG** (Modernisierung Personengesellschaftsrecht, 1.1.2024) — eGbR-Eintragung, Pflicht bei Grundstücksgeschäften
+- **DiRUG** (Digitalisierungsrichtlinie-Umsetzungsgesetz, 1.8.2022) — Online-Gründung
 - **TraFinG** (2021) — Transparenzregister als Vollregister
-- **GwG**-Novellen — wirtschaftlich Berechtigter, Bussgeld bis 150.000 EUR
+- **GwG**-Novellen — wirtschaftlich Berechtigter, Bußgeld bis 150.000 EUR
 - **BGH Kali+Salz** (BGHZ 71, 40) — Bezugsrechtsausschluss-Linie
 - **BGH Macrotron** (BGH NJW 2005, 985) — Bezugsrecht-Schutz
 - **BGH NJW 2007, 917 / 2018, 1233** — Treuepflicht in Kapitalgesellschaften
 
-## Tipps fuer die Bearbeitung
+## Tipps für die Bearbeitung
 
-1. **Zeit einplanen**: Eine GmbH-Gruendung dauert 4-8 Wochen, eine GmbH & Co. KG 6-10 Wochen, eine AG 8-12 Wochen.
+1. **Zeit einplanen**: Eine GmbH-Gründung dauert 4-8 Wochen, eine GmbH & Co. KG 6-10 Wochen, eine AG 8-12 Wochen.
 
-2. **Rechtsform-Beratung vor Notar**: Wer falsch waehlt, korrigiert spaeter teuer per Umwandlungsverfahren.
+2. **Rechtsform-Beratung vor Notar**: Wer falsch wählt, korrigiert später teuer per Umwandlungsverfahren.
 
-3. **Steuerberater frueh einbinden**: insbesondere fuer Vorauszahlungs-Schaetzung und USt-Wahl.
+3. **Steuerberater früh einbinden**: insbesondere für Vorauszahlungs-Schätzung und USt-Wahl.
 
-4. **TraFinG nicht vergessen**: bei Konto-Eroeffnung wird die Bank pruefen.
+4. **TraFinG nicht vergessen**: bei Konto-Eröffnung wird die Bank prüfen.
 
 5. **D&O-Versicherung von Anfang an**: GF-Haftung Paragraf 43 GmbHG ist real.
 
-6. **Vesting fuer Gruender**: Vermeidet Frust, wenn ein Gruender nach 6 Monaten ausscheidet.
+6. **Vesting für Gründer**: Vermeidet Frust, wenn ein Gründer nach 6 Monaten ausscheidet.
 
-7. **Bezugsrechte ernst nehmen**: Bei Kapitalerhoehung **immer** Bezugsrechte anbieten — sonst Anfechtungs-Risiko.
+7. **Bezugsrechte ernst nehmen**: Bei Kapitalerhöhung **immer** Bezugsrechte anbieten — sonst Anfechtungs-Risiko.
 
 8. **Beirat als Schlichter**: Vor Klage anrufen, wenn vorgesehen.
 

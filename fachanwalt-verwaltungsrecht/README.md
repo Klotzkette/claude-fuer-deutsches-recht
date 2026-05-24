@@ -1,6 +1,6 @@
 # Fachanwalt Verwaltungsrecht
 
-Light-Touch-Plugin Fachanwalt fuer Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.
+Light-Touch-Plugin Fachanwalt für Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-verwaltungsrecht-orientierung` | Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VwGO Verwaltungsverfahrensgesetz des Bundes und der Laender Polizei- und Ordnungsrecht Bauplanung und Bauordnun… |
+| `fachanwalt-verwaltungsrecht-orientierung` | Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VwGO Verwaltungsverfahrensgesetz des Bundes und der Länder Polizei- und Ordnungsrecht Bauplanung und Bauordnun… |
 
 ## Lizenz
 

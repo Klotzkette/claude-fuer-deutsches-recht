@@ -52,7 +52,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | vaf-template-erkennung | klassifiziert den Vertrag und trennt Fixtext von Variablen. |
 | vaf-feldinventar | baut die zentrale Datenmatrix für den Vertrag. |
 | vaf-termsheet-mapping | überführt wirtschaftliche Eckdaten in Vertragsklauseln. |
-| vaf-rueckfrageninterview | füllt Datenlücken ohne den Nutzer zu überfordern. |
+| vaf-rückfrageninterview | füllt Datenlücken ohne den Nutzer zu überfordern. |
 | vaf-bsag-mietvertrag | setzt den Huckelriede-Term-Sheet-Fall in die BSAG-Vorlage um. |
 | vaf-klauselentscheidung | verhindert stilles Auswählen riskanter Optionen. |
 | vaf-plausibilitaetscheck | härtet den Entwurf vor Versand oder Verhandlung. |

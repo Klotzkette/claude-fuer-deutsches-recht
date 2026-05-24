@@ -42,7 +42,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | # | Skill-Name | Beschreibung | Lade-Trigger (Beispiele) |
 |---|---|---|---|
 | 1 | `anmeldung-strategie-portfolio` | Strategie DE/EU/Madrid-Protokoll, Nizza-Klassen, Multi-Class-Portfolio (Kl. 3/14/18/25/35), Prioritätskaskade, Kostenoptimierung | „Markenstrategie", „Portfolio", „Nizza-Klassen", „Madrid-Protokoll" |
-| 2 | `wortmarke-anmeldung-dpma` | DPMA-Anmeldung Wortmarke, §§ 32 ff. MarkenG, absolute Schutzhindernisse § 8 MarkenG, Beanstandungsbescheid-Antwort | „Wortmarke", „DPMA-Anmeldung", „Unterscheidungskraft", „Markenpruefung" |
+| 2 | `wortmarke-anmeldung-dpma` | DPMA-Anmeldung Wortmarke, §§ 32 ff. MarkenG, absolute Schutzhindernisse § 8 MarkenG, Beanstandungsbescheid-Antwort | „Wortmarke", „DPMA-Anmeldung", „Unterscheidungskraft", „Markenprüfung" |
 | 3 | `bildmarke-und-wort-bild` | Bildmarke Couture-Logo, Wort-Bild-Marke, Farbansprüche RGB/Pantone, EUIPO Vienna Classification | „Bildmarke", „Wort-Bild-Marke", „Logo-Marke", „Farbanspruch" |
 | 4 | `slogan-marke` | Slogan-Marken, Unterscheidungskraft, EuGH C-398/08, BGH darferdas, BGH Quadratisch Praktisch Gut | „Slogan-Marke", „Werbeslogan schützen", „Kampagnen-Claim" |
 | 5 | `soundmarke-und-bewegungsmarke` | Hörmarke MMA-Verfahren, Sonogramm, Notenschrift, MP3-Hinterlegung, Bewegungsmarke | „Höermarke", „Soundmarke", „Jingle schützen", „Bewegungsmarke" |
