@@ -1,4 +1,4 @@
-# Datenqualitäts-Gate für KI-gestuetzte Analysen.
+# Datenqualitäts-Gate für KI-gestützte Analysen.
 
 ## Kontext
 

@@ -70,5 +70,5 @@ Saemtliche Verfuegungen sind wechselbezueglich § 2270 BGB.
 
 - Bei Vermögen über Freibeträgen (Ehegatte 500 TEUR Kinder 400 TEUR § 16 ErbStG) Hinweis auf Schenkungs-/Erbschaftsteuerberatung.
 - Bei Unternehmensvermögen Nachfolgeregelung gesondert prüfen (Begünstigungen §§ 13a, 13b ErbStG).
-- Empfehlung Hinterlegung beim Amtsgericht (§ 2248 BGB) — Hinterlegungsgebühr nach GNotKG (KostO ist durch das 2. KostRMoG vom 23.07.2013, BGBl. I S. 2586, mit Wirkung zum 01.08.2013 ausser Kraft getreten).
+- Empfehlung Hinterlegung beim Amtsgericht (§ 2248 BGB) — Hinterlegungsgebühr nach GNotKG (KostO ist durch das 2. KostRMoG vom 23.07.2013, BGBl. I S. 2586, mit Wirkung zum 01.08.2013 außer Kraft getreten).
 - Anschluss-Skill bei späterem Erbfall: `fachanwalt-erbrecht-erbschein-antrag`.

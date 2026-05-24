@@ -117,7 +117,7 @@ Nicht zwingend aber **empfohlen** bei hohen Forderungen — Beweis- und Anfechtu
 
 ### Anfechtungsrisiko
 
-Bei nachfolgender Insolvenz pruefbar nach § 135 Abs. 1 InsO (Gesellschafterdarlehen — Insolvenzanfechtung). Der Rangrücktritt selbst ist nicht anfechtbar — er konkretisiert die ohnehin nach § 39 Abs. 1 Nr. 5 InsO bestehende Nachrangigkeit.
+Bei nachfolgender Insolvenz prüfbar nach § 135 Abs. 1 InsO (Gesellschafterdarlehen — Insolvenzanfechtung). Der Rangrücktritt selbst ist nicht anfechtbar — er konkretisiert die ohnehin nach § 39 Abs. 1 Nr. 5 InsO bestehende Nachrangigkeit.
 
 ### Verzicht auf bereits geleistete Zahlungen?
 

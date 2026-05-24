@@ -13,8 +13,8 @@ Verteidigung Athlet bei Doping-Vorwurf.
 
 ### Strict Liability
 
-- Athlet haftet **ohne Verschulden** fuer positive Tests
-- Auch bei kontaminiertem Nahrungsergaenzungsmittel
+- Athlet haftet **ohne Verschulden** für positive Tests
+- Auch bei kontaminiertem Nahrungsergänzungsmittel
 - BGH NJW 2016, 1024 (Pechstein KZR 6/15)
 
 ### Verbotene Substanzen
@@ -29,18 +29,18 @@ Verteidigung Athlet bei Doping-Vorwurf.
 
 - Out-of-Competition oder In-Competition
 - A-Probe positiv -> B-Probe Anforderung
-- B-Probe bestaetigt -> Verfahren
+- B-Probe bestätigt -> Verfahren
 
-### Anhoerung
+### Anhörung
 
 - Verband-Schiedsgericht (DOSB-Schiedsgericht)
-- Sperrung waehrend Verfahren
-- Anhoerung Athlet
+- Sperrung während Verfahren
+- Anhörung Athlet
 
 ### Sanktion
 
 - Erstvergehen: 2-4 Jahre
-- Bei Bagatell (Nahrungsergaenzungsmittel): reduzierte Sperre
+- Bei Bagatell (Nahrungsergänzungsmittel): reduzierte Sperre
 - Wiederholung: lebenslange Sperre
 
 ## 3) TUE — Therapeutic Use Exemption
@@ -67,28 +67,28 @@ Verteidigung Athlet bei Doping-Vorwurf.
 
 - Schriftsatz-Phase
 - Muendliche Verhandlung
-- Schiedsspruch endgueltig
+- Schiedsspruch endgültig
 
 ### Anfechtung Schiedsspruch
 
-- Schweizer Bundesgericht (begrenzte Anfechtungs-Gruende)
+- Schweizer Bundesgericht (begrenzte Anfechtungs-Gründe)
 - BGH I ZR 137/18 (Pechstein) zur Anerkennung CAS-Spruch
 - BGH KZR 6/15 v. 7.6.2016 (Pechstein) zur CAS-Wirksamkeit
 - EGMR-Linie zu Schiedszwang Sport
 
 ## 5) Workflow
 
-### Phase 1 — Tag der Probe-Eroeffnung
+### Phase 1 — Tag der Probe-Eröffnung
 
 - Sofort-Anwalt
-- Beratungs-Gespraech Athlet
-- Probe-Analyse pruefen
+- Beratungs-Gespräch Athlet
+- Probe-Analyse prüfen
 
 ### Phase 2 — Verband-Verfahren
 
-- Anhoerung mit Anwalt
+- Anhörung mit Anwalt
 - Beweisanbote (Kontaminations-These)
-- Bemuehung um milde Sanktion
+- Bemühung um milde Sanktion
 
 ### Phase 3 — CAS-Berufung
 
@@ -104,7 +104,7 @@ Verteidigung Athlet bei Doping-Vorwurf.
 
 ## 6) Spezial Kontaminations-These
 
-- Nahrungsergaenzungsmittel-Verunreinigung
+- Nahrungsergänzungsmittel-Verunreinigung
 - Beweis: identische Charge in Labor analysieren
 - Bei Erfolg: deutliche Strafmilderung
 
@@ -112,7 +112,7 @@ Verteidigung Athlet bei Doping-Vorwurf.
 
 1. **TUE nicht vor Wettkampf** beantragt
 2. **B-Probe verzichtet** — Beweis-Position schwach
-3. **CAS-Berufungs-Frist 21 Tage versaeumt**
+3. **CAS-Berufungs-Frist 21 Tage versäumt**
 4. **Kontaminations-These ohne Beweis**
 
 ## Anschluss

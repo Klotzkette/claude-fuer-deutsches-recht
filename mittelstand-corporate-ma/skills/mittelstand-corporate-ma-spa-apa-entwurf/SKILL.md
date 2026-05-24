@@ -7,7 +7,7 @@ description: "SPA/APA-Entwurf: Erstellt und strukturiert Kaufvertragsentwuerfe f
 
 ## Zweck
 
-Erstellt und strukturiert Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur.
+Erstellt und strukturiert Kaufvertragsentwürfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur.
 
 ## Arbeitsmodus
 

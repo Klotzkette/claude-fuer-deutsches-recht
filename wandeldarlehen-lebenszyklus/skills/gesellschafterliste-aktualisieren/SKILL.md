@@ -74,7 +74,7 @@ Gesamt: 107 Anteile, Stammkapital EUR 107
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Liste nicht eingereicht | Lender hat keine Gutglaubensposition | Liste in Erarbeitung | Notar reicht sofort ein |
 | Fehlerhafte Anteilszahl | HR-Liste und tatsächliche Beteiligung weichen ab | Kleiner Tippfehler | Exakt korrekt |

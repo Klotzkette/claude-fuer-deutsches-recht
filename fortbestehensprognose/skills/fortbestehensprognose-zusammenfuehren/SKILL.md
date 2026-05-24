@@ -3,11 +3,11 @@ name: fortbestehensprognose-zusammenfuehren
 description: Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfaehig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert ueber `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt.
 ---
 
-# Fortbestehensprognose zusammenfuehren
+# Fortbestehensprognose zusammenführen
 
 ## Maßstab
 
-§ 19 Abs. 2 InsO seit SanInsFoG 2021: "Die Fortfuehrung des Unternehmens ist nach den Umstaenden überwiegend wahrscheinlich" — Prognosezeitraum **zwölf Monate**.
+§ 19 Abs. 2 InsO seit SanInsFoG 2021: "Die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich" — Prognosezeitraum **zwölf Monate**.
 
 **Überwiegend wahrscheinlich** bedeutet **mehr als 50 Prozent** Wahrscheinlichkeit (klassische BGH-Rspr. zur Vorhersage; bestätigt durch IDW S 11).
 
@@ -16,7 +16,7 @@ description: Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Pla
 Die abstrakte Wahrscheinlichkeitsformel ist methodisch durch die **Zahlungsfähigkeitsprognose** zu fuellen. Die Fortbestehensprognose ist genau dann positiv wenn das Unternehmen über den Zwölf-Monats-Horizont mit überwiegender Wahrscheinlichkeit **nicht in die Zahlungsunfähigkeit nach § 17 InsO gerät**. Das bedeutet konkret:
 
 - In jedem Zeitabschnitt der zwölf Monate müssen **mindestens 90 Prozent** der dann fälligen Verbindlichkeiten aus den verfügbaren Mitteln (Liquiditätsbestand plus Kreditlinie plus rechtzeitig erzielbare Zufluesse) gedeckt werden können.
-- **Voruebergehende Unterdeckungen** über zehn Prozent dürfen höchstens **drei Wochen** dauern und müssen mit überwiegender Wahrscheinlichkeit binnen dieser Frist wieder geschlossen werden (BGH IX ZR 123/04, BGHZ 163, 134).
+- **Vorübergehende Unterdeckungen** über zehn Prozent dürfen höchstens **drei Wochen** dauern und müssen mit überwiegender Wahrscheinlichkeit binnen dieser Frist wieder geschlossen werden (BGH IX ZR 123/04, BGHZ 163, 134).
 
 Wenn die Liquiditätsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — auch im plausibilisierten Negativ-Szenario — ist die Fortbestehensprognose **positiv**. Wenn die Schwelle in einem oder mehreren Zeitabschnitten oder über laengere Phasen reisst und auch durch Sanierungsbausteine nicht verbindlich geschlossen werden kann ist die Prognose **negativ**.
 
@@ -142,4 +142,4 @@ prognose-zusammenfassung:
 - Weiterleitung an:
   - `sanierungsbausteine-vorschlagen` wenn Maßnahmen erforderlich.
   - `wenn-prognose-negativ-naechste-schritte` wenn Ergebnis negativ.
-  - `prognose-dokumentation-stichtag` zur abschliessenden Dokumentation.
+  - `prognose-dokumentation-stichtag` zur abschließenden Dokumentation.

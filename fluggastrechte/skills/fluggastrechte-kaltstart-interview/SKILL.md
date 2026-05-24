@@ -8,7 +8,7 @@ description: "Kaltstart-Interview fuer das Fluggastrechte-Plugin. Klaert Anwendu
 ## Ablauf
 
 1. Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/fluggastrechte/CLAUDE.md` prüfen.
-2. Falls befuellt: bestätigen.
+2. Falls befüllt: bestätigen.
 3. Andernfalls Interview unten.
 
 ## Disclaimer

@@ -9,16 +9,16 @@ description: "Erstellt eine Lesefassung des geaenderten Stammgesetzes in der nac
 
 ## Zweck
 
-Die Lesefassung zeigt das Stammgesetz in der nach Inkrafttreten gueltigen Form — **ohne** Aenderungsmarkierung, **mit** allen Aenderungen eingearbeitet. Adressaten (Buerger, Unternehmen) und Vollzugsbehoerden brauchen diese Fassung, um zu sehen, „wie es ab Tag X heisst", ohne den Aenderungs-Diff lesen zu muessen.
+Die Lesefassung zeigt das Stammgesetz in der nach Inkrafttreten gültigen Form — **ohne** Änderungsmarkierung, **mit** allen Änderungen eingearbeitet. Adressaten (Bürger, Unternehmen) und Vollzugsbehörden brauchen diese Fassung, um zu sehen, „wie es ab Tag X heisst", ohne den Änderungs-Diff lesen zu müssen.
 
-Komplementaer zu:
+Komplementär zu:
 - **Synopse**: zeigt alt vs. neu in zwei Spalten
-- **Aenderungsanordnung**: zeigt die Aenderung als Befehl („Paragraf 3 Absatz 2 wird wie folgt geaendert: ...")
+- **Änderungsanordnung**: zeigt die Änderung als Befehl („Paragraf 3 Absatz 2 wird wie folgt geändert: ...")
 - **Lesefassung**: zeigt das fertige neue Gesetz
 
 ## 1) Inhalte pro Datei
 
-Eine Datei je Stammgesetz. Bei einem Aenderungsgesetz, das mehrere Stammgesetze beruehrt, entsprechend mehrere Lesefassungen.
+Eine Datei je Stammgesetz. Bei einem Änderungsgesetz, das mehrere Stammgesetze beruehrt, entsprechend mehrere Lesefassungen.
 
 ### Header-Block
 
@@ -33,19 +33,19 @@ Erstellt durch: [Referat / Verantwortlicher / Pruefer]
 
 ### Format
 
-- Markdown mit Ueberschrift pro Paragraf: `## § 3 Antragstellung`
-- Absaetze als Aufzaehlung mit Klammer-Zahl: `(1) ...`, `(2) ...`
-- Saetze nicht nummeriert (auch wenn Gesetz Satz-Nr. hat — die folgen im Text)
+- Markdown mit Überschrift pro Paragraf: `## § 3 Antragstellung`
+- Absätze als Aufzaehlung mit Klammer-Zahl: `(1) ...`, `(2) ...`
+- Sätze nicht nummeriert (auch wenn Gesetz Satz-Nr. hat — die folgen im Text)
 - Aufzaehlungen mit `1.`, `a)`, `aa)` wie im Gesetz
-- DOCX-Export fuer offizielle Versendung an Adressaten und Vollzugsbehoerden
+- DOCX-Export für offizielle Versendung an Adressaten und Vollzugsbehörden
 
 ## 2) Was muss in die Lesefassung
 
 ### Geaenderte Paragrafen
 
-Mit dem **neuen Wortlaut** komplett. Auch wenn nur ein Komma geaendert wurde — der gesamte Paragraf, damit die Lesefassung in sich konsistent ist.
+Mit dem **neuen Wortlaut** komplett. Auch wenn nur ein Komma geändert wurde — der gesamte Paragraf, damit die Lesefassung in sich konsistent ist.
 
-### Nicht-geaenderte, aber bezugsrelevante Paragrafen
+### Nicht-geänderte, aber bezugsrelevante Paragrafen
 
 Bei sehr stark auf andere Paragrafen verweisenden Gesetzen ist es sinnvoll, **alle** Paragrafen aufzunehmen, damit der Adressat nicht zwischen zwei Dokumenten springen muss.
 
@@ -66,21 +66,21 @@ Bis zum [Datum] gilt die vorherige Fassung (siehe Aenderungsanordnung vom ...).
 
 Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten mehrere Lesefassungen erstellen (z.B. „Lesefassung Stand 01.01.2026" und „Lesefassung Stand 01.07.2026").
 
-## 3) Pruefliste vor Freigabe
+## 3) Prüfliste vor Freigabe
 
-### Vollstaendigkeit
+### Vollständigkeit
 
-- [ ] Alle vom Aenderungsgesetz beruehrten Paragrafen aufgenommen
+- [ ] Alle vom Änderungsgesetz beruehrten Paragrafen aufgenommen
 - [ ] Anlagen aktualisiert
 - [ ] Inkrafttretens-Datum klar dokumentiert
 - [ ] Stand-Datum (Konsolidierung) klar dokumentiert
 
 ### Konsistenz
 
-- [ ] Numerierung konsistent (keine doppelten Paragrafen, keine Luecken)
+- [ ] Numerierung konsistent (keine doppelten Paragrafen, keine Lücken)
 - [ ] Verweise innerhalb des Gesetzes aktualisiert (z.B. „Paragraf 3 Absatz 4" stimmt jetzt, nachdem Absatz 3 weggefallen ist)
-- [ ] Verweise auf externe Normen aktualisiert (z.B. wenn EuGVVO geaendert wurde, deren Verweise aktualisieren)
-- [ ] Begriffsdefinitionen konsistent (wenn `Verbraucher` neu definiert ist, ueberall der neue Begriff)
+- [ ] Verweise auf externe Normen aktualisiert (z.B. wenn EuGVVO geändert wurde, deren Verweise aktualisieren)
+- [ ] Begriffsdefinitionen konsistent (wenn `Verbraucher` neu definiert ist, überall der neue Begriff)
 
 ### Format
 
@@ -92,32 +92,32 @@ Das Datum des **Inkrafttretens** ist massgeblich. Bei stufenweisem Inkrafttreten
 ### Kontrolle
 
 - [ ] Stichprobe: 3-5 Paragrafen mit dem amtlichen BGBl-Text abgeglichen
-- [ ] Aenderungsanordnung gegengelesen — wurde alles umgesetzt?
+- [ ] Änderungsanordnung gegengelesen — wurde alles umgesetzt?
 - [ ] Zweitlesung durch zweite Person empfohlen
 
 ## 4) Typische Fehler
 
-1. **Inkrafttretens-Verschachtelung uebersehen.** Wenn das Aenderungsgesetz mehrere Inkrafttretens-Daten hat (typisch bei Uebergangsregelungen), braucht es mehrere Lesefassungen.
+1. **Inkrafttretens-Verschachtelung übersehen.** Wenn das Änderungsgesetz mehrere Inkrafttretens-Daten hat (typisch bei Übergangsregelungen), braucht es mehrere Lesefassungen.
 2. **Verweise nicht nachgezogen.** Wenn Paragraf 3 Absatz 3 entfaellt, muss in Paragraf 7 der Verweis auf „Paragraf 3 Absatz 3" angepasst werden.
-3. **Anlagen vergessen.** Bei BGBl-Veroeffentlichung sind Anlagen oft separat — leicht zu uebersehen.
-4. **Standard-Header fehlt.** Adressaten muessen erkennen koennen, **welcher** Stand vorliegt.
-5. **DOCX mit Track Changes ausgegeben.** Lesefassung ist per Definition ohne Aenderungsmarkierung — Word-Datei vor Export bereinigen.
-6. **Zwei Stammgesetze in einer Datei.** Bei einem Aenderungsgesetz, das BGB und HGB anpasst, **zwei** Lesefassungen — eine fuer BGB, eine fuer HGB.
+3. **Anlagen vergessen.** Bei BGBl-Veröffentlichung sind Anlagen oft separat — leicht zu übersehen.
+4. **Standard-Header fehlt.** Adressaten müssen erkennen koennen, **welcher** Stand vorliegt.
+5. **DOCX mit Track Changes ausgegeben.** Lesefassung ist per Definition ohne Änderungsmarkierung — Word-Datei vor Export bereinigen.
+6. **Zwei Stammgesetze in einer Datei.** Bei einem Änderungsgesetz, das BGB und HGB anpasst, **zwei** Lesefassungen — eine für BGB, eine für HGB.
 
-## 5) Verhaeltnis zur amtlichen Konsolidierung
+## 5) Verhältnis zur amtlichen Konsolidierung
 
-Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erfolgt durch das Bundesministerium der Justiz fuer die [www.gesetze-im-internet.de](https://www.gesetze-im-internet.de) — meist mit zeitlicher Verzoegerung von einigen Wochen bis Monaten nach Verkuendung. Vorlaeufige Lesefassungen sind sinnvoll, weil:
+Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erfolgt durch das Bundesministerium der Justiz für die [www.gesetze-im-internet.de](https://www.gesetze-im-internet.de) — meist mit zeitlicher Verzoegerung von einigen Wochen bis Monaten nach Verkündung. Vorläufige Lesefassungen sind sinnvoll, weil:
 
-- die Adressaten frueher Klarheit brauchen
-- die Vollzugsbehoerden die Anwendung vorbereiten muessen
+- die Adressaten früher Klarheit brauchen
+- die Vollzugsbehörden die Anwendung vorbereiten müssen
 - der parlamentarische Beratungsbedarf ohne Lesefassung erschwert ist
 
 **Wichtig im Header**: Klar machen, dass es sich um eine **Arbeits-Lesefassung** handelt, nicht um den amtlichen Wortlaut.
 
 ## 6) Anschluss
 
-- `xml-paralleldarstellung` — bei XML-pflichtigen Veroeffentlichungen
-- `synopse-erstellen` — fuer den Aenderungs-Diff alt vs. neu
-- `dokumente-rendern-docx-pdf` — fuer den DOCX-/PDF-Export der Lesefassung
+- `xml-paralleldarstellung` — bei XML-pflichtigen Veröffentlichungen
+- `synopse-erstellen` — für den Änderungs-Diff alt vs. neu
+- `dokumente-rendern-docx-pdf` — für den DOCX-/PDF-Export der Lesefassung
 - `referentenentwurf-bauen` — bei aenderbarem Entwurfsstand
-- `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Uebergangsregelungen
+- `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Übergangsregelungen

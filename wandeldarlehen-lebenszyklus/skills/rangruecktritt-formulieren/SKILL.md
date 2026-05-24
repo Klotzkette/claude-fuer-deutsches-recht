@@ -68,7 +68,7 @@ zu verursachen droht (vgl. BGH, Urt. v. 5. März 2015 – IX ZR 133/14).
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Keine vorinsolvenzliche Durchsetzungssperre | Rangrücktritt nur insolvenzrechtlich, nicht bilanziell wirksam | Klausel unklar formuliert | BGH-konforme Klausel vorhanden |
 | Zinsen nicht in Nachrangforderungen einbezogen | Zinsen weiter fällig in Krise | Zinsen teilweise erfasst | Zinsen vollständig einbezogen |

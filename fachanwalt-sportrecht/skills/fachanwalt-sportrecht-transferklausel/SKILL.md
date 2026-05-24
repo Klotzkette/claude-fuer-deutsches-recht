@@ -23,7 +23,7 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 
 - Sommer-Periode ca. Juni-August
 - Winter-Periode ca. Januar
-- Ausserhalb: keine Transfers
+- Außerhalb: keine Transfers
 
 ### TMS — Transfer Matching System
 
@@ -35,21 +35,21 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 ### Ausstiegs-Klausel
 
 - Festgelegter Betrag, gegen Zahlung Spieler frei
-- Liga-abhaengig (Spanien Standard, DE seltener)
+- Liga-abhängig (Spanien Standard, DE seltener)
 - Marktwert kann erheblich abweichen
 
-### Verlaengerungs-Optionen
+### Verlängerungs-Optionen
 
 - Einseitige Option Verein
 - Reziprok-Klausel (auch Spieler kann widerrufen)
 
-### Eigenrechte (Persoenlichkeitsrechte)
+### Eigenrechte (Persönlichkeitsrechte)
 
 - Bildrechte (Image Rights)
 - Werbeauftritte
 - Spielerrechte vs. Vereinsrechte
 
-## 4) Konfliktloesung
+## 4) Konfliktlösung
 
 ### Schiedsgerichtsbarkeit FIFA
 
@@ -68,11 +68,11 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 
 - Wesentliche Vertragsverletzung
 - Beispiele: nicht-Zahlung Gehalt, Mobbing, Karriere-Behinderung
-- Recht zur fristlosen Kuendigung Spieler
+- Recht zur fristlosen Kündigung Spieler
 
 ### Sporting Just Cause § 15 FIFA-Statuten
 
-- Bei nicht-Spielzeit (etablierter Profi < 10 % Einsaetze)
+- Bei nicht-Spielzeit (etablierter Profi < 10 % Einsätze)
 - Standortwechsel-Recht
 
 ## 6) Workflow Vertrags-Beratung
@@ -80,7 +80,7 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 ### Phase 1 — Vertrag
 
 - Ausstiegs-Klausel
-- Verlaengerungs-Option
+- Verlängerungs-Option
 - Image Rights
 
 ### Phase 2 — Transfer-Sondierung
@@ -91,7 +91,7 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 ### Phase 3 — Verhandlung
 
 - Wechsel-Bedingungen
-- Gehalts-Erhoehung
+- Gehalts-Erhöhung
 - Bonus-Regelungen
 
 ### Phase 4 — Abschluss
@@ -103,7 +103,7 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 ## 7) Konkrete BGH-/CAS-Linien
 
 - CAS Webster vs. Heart of Midlothian (Art. 17 FIFA-Statuten)
-- CAS Matuzalem (Aufloesungs-Schadenersatz)
+- CAS Matuzalem (Auflösungs-Schadenersatz)
 
 ## 8) Spieler-Berater § 14 RegBerVO
 
@@ -115,7 +115,7 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 1. **Ausstiegs-Klausel ohne Inhalt**
 2. **Image Rights nicht separat geregelt**
 3. **Transferperiode verpasst**
-4. **Just-Cause-Pruefung versaeumt** bei Spieler-Beschwerde
+4. **Just-Cause-Prüfung versäumt** bei Spieler-Beschwerde
 
 ## Anschluss
 

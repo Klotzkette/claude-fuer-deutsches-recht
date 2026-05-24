@@ -73,7 +73,7 @@ Abstimmung: einstimmig angenommen.
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Protokoll fehlt | Beweislosigkeit Beschlussfassung | Protokoll nachgereicht | Protokoll sofort vorhanden |
 | Ladungsfrist nicht eingehalten, Einwände | Beschluss anfechtbar | Nachträgliche Zustimmung | Ladungsfrist gewahrt oder Verzicht |

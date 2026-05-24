@@ -116,7 +116,7 @@ Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-
 | Handelsregister-Anmeldung | `handelsregisteranmeldung` |
 | Aufsichtsrat-Protokoll | `aufsichtsrat-protokoll` |
 | Compliance | `gesellschafts-compliance` |
-| Tabellenpruefung | `tabellenpruefung` |
+| Tabellenprüfung | `tabellenpruefung` |
 | Vollzugs-Checkliste | `vollzugs-checkliste` |
 | DD-Findings Extraktion | `dd-findings-extraktion` |
 | DealTeam-Zusammenfassung | `dealteam-zusammenfassung` |

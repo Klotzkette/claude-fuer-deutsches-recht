@@ -9,7 +9,7 @@ description: Checkliste vor Abgabe der Hausarbeit inhaltlich und formal. Zwei Du
 
 Bevor Du Deine Hausarbeit abgibst — eine letzte, sorgfältige Selbst-Kontrolle. Sie nimmt einen Tag in Anspruch, aber sie kann Dir eine ganze Note retten.
 
-**Wichtig vorab:** Du gibst eine **eigene Leistung** ab. Vom Plugin generierte Textbausteine gehören in **Deine** Worte umgeschrieben oder als Pruefstein zum Abgleich genutzt, nicht als Copy-Paste-Material. Wer Plugin-Output ungeprüft übernimmt riskiert eine Pruefungstaeuschung. Eigenstaendigkeitserklaerung gewissenhaft unterschreiben.
+**Wichtig vorab:** Du gibst eine **eigene Leistung** ab. Vom Plugin generierte Textbausteine gehören in **Deine** Worte umgeschrieben oder als Pruefstein zum Abgleich genutzt, nicht als Copy-Paste-Material. Wer Plugin-Output ungeprüft übernimmt riskiert eine Prüfungstaeuschung. Eigenständigkeitserklärung gewissenhaft unterschreiben.
 
 ## Durchgang 1 — Inhaltlich
 

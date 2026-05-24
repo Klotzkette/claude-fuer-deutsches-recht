@@ -10,7 +10,7 @@ description: Behandelt Reiseplaene mit Anschlussfluegen (Connecting Flights) und
 EuGH C-11/11 (Folkerts 26.02.2013) und C-559/16 (Wegener 31.05.2018):
 
 - Bei einer **einheitlichen Buchung** mit Anschlussflug ist maßgeblich die **Verspätung am Endziel** — nicht am Anschlussflughafen.
-- Anspruch besteht auch wenn der erste Flug puenktlich war aber der Anschlussflug ausfaellt und das Endziel mehr als drei Stunden verspätet erreicht wird.
+- Anspruch besteht auch wenn der erste Flug puenktlich war aber der Anschlussflug ausfällt und das Endziel mehr als drei Stunden verspätet erreicht wird.
 - Umgekehrt: erster Flug verspätet aber kurz vor der Drei-Stunden-Schwelle aber Anschluss noch erreicht — kein Anspruch.
 
 ## Prüfraster
@@ -36,7 +36,7 @@ EuGH C-559/16 (Wegener) und C-832/18 (Airhelp / SAS): bei einheitlicher Buchung 
 - **Berlin BER — Madrid MAD — Buenos Aires EZE** mit einheitlicher Buchung.
 - Erster Flug BER-MAD puenktlich. Anschlussflug MAD-EZE annulliert. Ersatz am nächsten Tag.
 - Endzielverspätung 28 Stunden.
-- Distanz BER-EZE auf Grosskreis 11.940 km nicht-innergemeinschaftlich.
+- Distanz BER-EZE auf Großkreis 11.940 km nicht-innergemeinschaftlich.
 - Stufe 3 — 600 EUR pro Passagier.
 
 ## Reiseverträge über Reiseveranstalter

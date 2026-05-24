@@ -79,7 +79,7 @@ Im Sozialrecht ist die Wahrung der Widerspruchsfrist absolut entscheidend. Diese
 
 - Krankenhausaufenthalt mit ärztlichem Attest
 - Postversagen mit Sendungsverfolgung
-- Tod naher Angehöriger
+- Tod näher Angehöriger
 - Höhere Gewalt
 - Behörden-Fehler
 

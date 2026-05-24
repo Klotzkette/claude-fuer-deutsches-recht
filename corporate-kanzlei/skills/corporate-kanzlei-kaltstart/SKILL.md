@@ -7,13 +7,13 @@ description: "Deal-Kaltstart: Nimmt Kanzlei- und Mandantenpraeferenzen für Corp
 
 ## Zweck
 
-Nimmt Kanzlei- und Mandantenpraeferenzen für Corporate/M&A auf: Dealtypen, Playbooks, Materiality, Reporting, Abrechnung, KI-Governance und Sicherheitsregeln.
+Nimmt Kanzlei- und Mandantenpräferenzen für Corporate/M&A auf: Dealtypen, Playbooks, Materiality, Reporting, Abrechnung, KI-Governance und Sicherheitsregeln.
 
 ## Arbeitsmodus
 
 - Deal-Playbook abfragen: Buy-side/Sell-side, PE/Strategic, Private/Public, Distressed, Carve-out.
 - Standard-Schwellen erfassen: Materiality, red flag, escalation, W&I, board reporting.
-- Datenquellen erfassen: VDR, Excel, HRB, Bundesanzeiger, Kapitalmarkt, interne Praezedenzfaelle.
+- Datenquellen erfassen: VDR, Excel, HRB, Bundesanzeiger, Kapitalmarkt, interne Präzedenzfälle.
 - Ergebnis als Deal-Profil ablegen.
 
 ## Rote Schwellen

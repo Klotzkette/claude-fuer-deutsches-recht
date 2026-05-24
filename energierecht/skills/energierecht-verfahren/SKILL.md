@@ -128,7 +128,7 @@ Behandelt das gesamte Verfahrens-Spektrum im Energierecht: BNetzA-Beschwerden, K
 
 ### BAFA / KfW Widerruf
 
-- Bei Verstoss Auflagen Bewilligungs-Bescheid
+- Bei Verstoß Auflagen Bewilligungs-Bescheid
 - Anhörung
 - Widerrufs-Bescheid
 - Klage VG
@@ -210,14 +210,14 @@ Behandelt das gesamte Verfahrens-Spektrum im Energierecht: BNetzA-Beschwerden, K
 
 ### BNetzA-Sanktionen
 
-- Bei Verstoss MaStRV
-- Bei REMIT-Verstoss
+- Bei Verstoß MaStRV
+- Bei REMIT-Verstoß
 - Bei Bilanzkreis-Pflichtverletzungen
 
 ### BAFA-Sanktionen
 
-- EnEfG-Verstoss
-- Strompreiskompensation-Verstoss
+- EnEfG-Verstoß
+- Strompreiskompensation-Verstoß
 
 ### Strafverfolgung
 

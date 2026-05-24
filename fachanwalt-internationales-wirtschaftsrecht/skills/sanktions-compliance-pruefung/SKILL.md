@@ -7,7 +7,7 @@ description: Pruefraster fuer EU-Sanktionen US-OFAC UK-HMT UN-Sicherheitsrat. EU
 
 ## Zweck
 
-Bei jedem internationalen Geschäft prüfen — gegen EU- US- UK- UN-Sanktionen verstoßen wir nicht? Verstoss strafbar und reputationsschädigend.
+Bei jedem internationalen Geschäft prüfen — gegen EU- US- UK- UN-Sanktionen verstoßen wir nicht? Verstoß strafbar und reputationsschädigend.
 
 ## Eingaben
 

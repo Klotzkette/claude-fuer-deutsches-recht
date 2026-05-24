@@ -3,15 +3,15 @@ name: schwerbehindertenausweis-gdb
 description: "Pruefung von Feststellungsbescheiden des Versorgungsamts zum Grad der Behinderung (GdB) und zu Merkzeichen nach § 152 SGB IX. Grundlage Versorgungsmedizin-Verordnung (VersMedV) Anlage Versorgungsmedizinische Grundsaetze. Pruefung Einzel-GdB pro Funktionsstoerung Gesamt-GdB Bildung nach Wechselwirkungen (kein Addieren). Merkzeichen aG (aussergewoehnliche Gehbehinderung) G (erhebliche Beeintraechtigung im Strassenverkehr) B (Begleitperson) Bl (Blindheit) Gl (Gehoerlosigkeit) H (Hilflosigkeit) RF (Rundfunkbeitragsbefreiung) TBl (Taubblindheit). Endet mit Widerspruchsbausteinen Beweisantraegen und Hinweis Steuerfreibetraege § 33b EStG."
 ---
 
-# Schwerbehinderung und GdB — Pruefung Bescheid
+# Schwerbehinderung und GdB — Prüfung Bescheid
 
 Versorgungsaemter bauen den GdB systematisch zu niedrig. Mit der VersMedV in der Hand laesst sich fast jeder Bescheid sauber angreifen.
 
 ## Eingabe
 
 - Bescheid Versorgungsamt
-- Befundberichte aller behandelnden Aerzte und Kliniken
-- Bisherige Bescheide (Erstfeststellung, Aenderung)
+- Befundberichte aller behandelnden Ärzte und Kliniken
+- Bisherige Bescheide (Erstfeststellung, Änderung)
 - Schwerbehinderten-Ausweis (Kopie, sofern bereits erteilt)
 - Mandanten-Schilderung der konkreten Funktionseinschraenkung im Alltag
 
@@ -22,44 +22,44 @@ Versorgungsaemter bauen den GdB systematisch zu niedrig. Mit der VersMedV in der
 | § 152 Abs. 1 SGB IX | Feststellung GdB durch Versorgungsamt |
 | § 152 Abs. 4 SGB IX | Merkzeichen Feststellung |
 | § 2 Abs. 2 SGB IX | Schwerbehinderung ab GdB 50 |
-| § 2 Abs. 3 SGB IX | Gleichstellung Agentur fuer Arbeit ab GdB 30/40 |
-| VersMedV | Versorgungsmedizinische Grundsaetze |
+| § 2 Abs. 3 SGB IX | Gleichstellung Agentur für Arbeit ab GdB 30/40 |
+| VersMedV | Versorgungsmedizinische Grundsätze |
 | § 33b EStG | Steuerlicher Pauschbetrag |
-| § 145 SGB IX | Unentgeltliche Befoerderung im Nahverkehr (Merkzeichen G, aG, Gl, Bl, H) |
+| § 145 SGB IX | Unentgeltliche Beförderung im Nahverkehr (Merkzeichen G, aG, Gl, Bl, H) |
 
 ## GdB-Bildung — Grundregel
 
-**GdB wird nicht addiert.** Es wird die wechselseitige Beeinflussung der Funktionsstoerungen geprueft.
+**GdB wird nicht addiert.** Es wird die wechselseitige Beeinflussung der Funktionsstörungen geprüft.
 
-1. Bestimme den **fuehrenden Einzel-GdB** (hoechste Funktionsstoerung)
-2. Pruefe pro weiterer Funktionsstoerung, ob sie das fuehrende Bild verstaerkt oder unabhaengig daneben besteht
-3. Bei Verstaerkung — Erhoehung um eine Stufe (10 GdB-Punkte) je nach Wechselwirkung
-4. Geringfuegige Funktionsstoerungen (Einzel-GdB unter 10) gehen unter
+1. Bestimme den **führenden Einzel-GdB** (hoechste Funktionsstörung)
+2. Pruefe pro weiterer Funktionsstörung, ob sie das führende Bild verstaerkt oder unabhängig daneben besteht
+3. Bei Verstaerkung — Erhöhung um eine Stufe (10 GdB-Punkte) je nach Wechselwirkung
+4. Geringfuegige Funktionsstörungen (Einzel-GdB unter 10) gehen unter
 
-Beispiel: Diabetes mellitus mit GdB 40, depressive Stoerung mit Einzel-GdB 30, Wirbelsaeulensyndrom mit Einzel-GdB 20 — Gesamt-GdB typischerweise 60, nicht 90.
+Beispiel: Diabetes mellitus mit GdB 40, depressive Störung mit Einzel-GdB 30, Wirbelsaeulensyndrom mit Einzel-GdB 20 — Gesamt-GdB typischerweise 60, nicht 90.
 
 ## Merkzeichen — Voraussetzungen kompakt
 
 | Merkzeichen | Voraussetzung Kurzfassung |
 |---|---|
-| G | Erhebliche Beeintraechtigung der Bewegungsfaehigkeit im Strassenverkehr — Wegstrecke 2 km in 30 Minuten nicht ohne Beschwerden moeglich (VersMedV Teil D Nr. 1) |
-| aG | Aussergewoehnliche Gehbehinderung — auch mit Hilfsmitteln nur unter erheblichster Anstrengung moeglich (VersMedV Teil D Nr. 3); sehr restriktiv |
-| B | Berechtigung Begleitperson — bei Merkzeichen G, Gl, Bl oder H bei staendiger Begleitung im Strassenverkehr (VersMedV Teil D Nr. 2) |
+| G | Erhebliche Beeintraechtigung der Bewegungsfähigkeit im Straßenverkehr — Wegstrecke 2 km in 30 Minuten nicht ohne Beschwerden möglich (VersMedV Teil D Nr. 1) |
+| aG | Außergewoehnliche Gehbehinderung — auch mit Hilfsmitteln nur unter erheblichster Anstrengung möglich (VersMedV Teil D Nr. 3); sehr restriktiv |
+| B | Berechtigung Begleitperson — bei Merkzeichen G, Gl, Bl oder H bei staendiger Begleitung im Straßenverkehr (VersMedV Teil D Nr. 2) |
 | Bl | Blindheit — keine Sehkraft oder Sehkraft unter 1/50 (VersMedV Teil A Nr. 6) |
-| Gl | Gehoerlosigkeit — auch unter Beruecksichtigung von Hoergeraeten Hoerverlust an Sprache grenzend (VersMedV Teil D Nr. 4) |
-| H | Hilflos — staendige fremde Hilfe in mindestens drei Lebensbereichen (VersMedV Teil A Nr. 4); fuer Kinder GdB 50 plus Funktionseinschraenkung |
+| Gl | Gehoerlosigkeit — auch unter Berücksichtigung von Hörgeräten Hörverlust an Sprache grenzend (VersMedV Teil D Nr. 4) |
+| H | Hilflos — staendige fremde Hilfe in mindestens drei Lebensbereichen (VersMedV Teil A Nr. 4); für Kinder GdB 50 plus Funktionseinschraenkung |
 | RF | Rundfunkbeitragsbefreiung — bei taub-blinden oder schwer mobilitaetseingeschraenkten Personen |
 | TBl | Taubblindheit — Kombination Bl und Gl |
 
 ## Typische Schwachstellen Versorgungsamt-Bescheid
 
-1. Einzel-GdB pro Funktionsstoerung nicht ausgewiesen
-2. Aktuelle Befunde nicht beruecksichtigt — nur Aktenlage
-3. Psychische Erkrankungen ueberhaupt nicht gepruefte (Depression, Angststoerung, PTBS)
+1. Einzel-GdB pro Funktionsstörung nicht ausgewiesen
+2. Aktuelle Befunde nicht berücksichtigt — nur Aktenlage
+3. Psychische Erkrankungen überhaupt nicht geprüfte (Depression, Angststörung, PTBS)
 4. Schmerzsyndrome nicht eingestuft
 5. Wechselwirkung mehrerer Erkrankungen ignoriert
-6. Merkzeichen G abgelehnt mit Standardformel ohne konkrete Pruefung 2-km-30-Min-Kriterium
-7. Veraltete Befunde — versorgungsaerztlicher Stellungnahme ohne aktuellem Bezug
+6. Merkzeichen G abgelehnt mit Standardformel ohne konkrete Prüfung 2-km-30-Min-Kriterium
+7. Veraltete Befunde — versorgungsärztlicher Stellungnahme ohne aktuellem Bezug
 8. Bei Kindern: GdB Autismus oder ADHS oft zu niedrig — VersMedV Teil B Nr. 3.5 / 3.5.1
 
 ## Widerspruchsbausteine
@@ -98,18 +98,18 @@ Wir beantragen die Feststellung eines GdB von [X] sowie der Merkzeichen
 des angegriffenen Bescheids.
 ```
 
-## Beweisantraege
+## Beweisanträge
 
 - Beiziehung der Verwaltungsakte des Versorgungsamts
-- Aktualisierte Befundberichte aller behandelnden Aerzte
-- Sachverstaendigengutachten Fachrichtung [Neurologie / Orthopaedie / Psychiatrie]
-- Bei Merkzeichen G/aG — Gehstreckenpruefung durch Sachverstaendigen
+- Aktualisierte Befundberichte aller behandelnden Ärzte
+- Sachverständigengutachten Fachrichtung [Neurologie / Orthopaedie / Psychiatrie]
+- Bei Merkzeichen G/aG — Gehstreckenprüfung durch Sachverständigen
 
 ## Praxisbezug — Steuer und Nahverkehr
 
 Hinweis an Mandanten, sobald GdB feststeht:
-- Steuerlicher Pauschbetrag § 33b EStG nach GdB-Hoehe
-- Kuendigungsschutz § 168 SGB IX ab GdB 50
+- Steuerlicher Pauschbetrag § 33b EStG nach GdB-Höhe
+- Kündigungsschutz § 168 SGB IX ab GdB 50
 - Zusatzurlaub § 208 SGB IX ab GdB 50 (5 Tage)
 - Nahverkehr unentgeltlich mit Wertmarke bei G/aG/Gl/Bl/H
 
@@ -117,5 +117,5 @@ Hinweis an Mandanten, sobald GdB feststeht:
 
 - `widerspruch-formulieren`
 - `fristenbuch-sozialrecht`
-- `akteneinsicht-anfordern` (Versorgungsamt-Akte mit versorgungsaerztlicher Stellungnahme)
+- `akteneinsicht-anfordern` (Versorgungsamt-Akte mit versorgungsärztlicher Stellungnahme)
 - `anlagen-erstellen` (Befundberichte und Verkehrsprotokoll)

@@ -19,7 +19,7 @@ gegen denselben Maßstab geprüft werden.
 - Projekt-Bezeichnung (Objekt Aktenzeichen Transaktion)
 - Optional: hauseigenes Playbook Musterverträge Klauselkatalog
 - Optional: AVV-Anforderungen der Abteilung
-- Optional: Compliance-Vorgaben (zB Geldwaeschegesetz
+- Optional: Compliance-Vorgaben (zB Geldwäschegesetz
   Sanktionslisten)
 
 ## Projekt-Skelett
@@ -53,7 +53,7 @@ gegen denselben Maßstab geprüft werden.
 ## AVV-Prüfung nach Art. 28 DSGVO
 
 Eingehende AVV oder AV-Verträge werden gegen den Mindestkatalog
-nach Art. 28 Abs. 3 DSGVO geprueft:
+nach Art. 28 Abs. 3 DSGVO geprüft:
 
 - Gegenstand und Dauer der Verarbeitung
 - Art und Zweck der Verarbeitung
@@ -74,10 +74,10 @@ abweicht.
 
 ## Interne Compliance-Vorgaben
 
-Falls in `vorgaben.md` hinterlegt werden zusätzlich geprueft:
+Falls in `vorgaben.md` hinterlegt werden zusätzlich geprüft:
 
 - Sanktionslisten und Embargo-Vorgaben
-- Geldwaeschegesetz — Kenntnis des wirtschaftlich Berechtigten bei
+- Geldwäschegesetz — Kenntnis des wirtschaftlich Berechtigten bei
   Immobilien-Transaktionen § 3 GwG
 - Mindest-Vertragsstrafen bei Geheimhaltungsverletzung
 - Maximal akzeptierte Indexierungs-Schwellen bei
@@ -129,13 +129,13 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 ## Output beim Setup
 
 - Projekt-Verzeichnisbaum
-- `vorgaben.md` ausgefuellt mit den getroffenen Festlegungen
+- `vorgaben.md` ausgefüllt mit den getroffenen Festlegungen
 - `audit.md` mit Eintrag Setup
-- Optional Vorlage-Dateien aus `00_Projekt-Setup/` befuellt
+- Optional Vorlage-Dateien aus `00_Projekt-Setup/` befüllt
 
 ## Beispielformulierungen
 
-- "Lege ein Projekt für das Buerogebäude Friedrichstrasse 100
+- "Lege ein Projekt für das Buerogebäude Friedrichstraße 100
   an. Playbook Gewerbemiete Standard. AVV-Prüfung Pflicht."
 - "Prüfe diesen eingehenden AVV nach Art. 28 DSGVO und unsere
   internen Vorgaben."

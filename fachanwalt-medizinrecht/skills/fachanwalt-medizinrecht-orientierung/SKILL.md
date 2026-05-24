@@ -14,21 +14,21 @@ description: Orientierung im Medizinrecht — FAO Voraussetzungen Normen typisch
 
 | Bereich | Norm |
 |---|---|
-| Patientenrechte | §§ 630a–630h BGB (Behandlungsvertrag Aufklaerung Dokumentation Beweislast) |
+| Patientenrechte | §§ 630a–630h BGB (Behandlungsvertrag Aufklärung Dokumentation Beweislast) |
 | Schadensrecht | §§ 249 ff. BGB §§ 823 ff. BGB Schmerzensgeld § 253 BGB |
-| Krankenversicherung | SGB V §§ 27 ff. (Leistungen) §§ 73 ff. (Vertragsaerzte) |
+| Krankenversicherung | SGB V §§ 27 ff. (Leistungen) §§ 73 ff. (Vertragsärzte) |
 | Pflegeversicherung | SGB XI |
-| Berufsrecht Aerzte | Berufsordnung der Aerztekammern Heilberufsgesetze der Laender |
+| Berufsrecht Ärzte | Berufsordnung der Ärztekammern Heilberufsgesetze der Länder |
 | Krankenhaus | KHG KHEntgG |
 | Medizinprodukte | MPDG (EU-MDR) |
 | Apothekenrecht | ApoG ApBetrO Arzneimittelgesetz AMG |
 
 ## Typische Mandate
 
-- Arzthaftung (Behandlungsfehler Aufklaerungsfehler Dokumentationsmangel)
+- Arzthaftung (Behandlungsfehler Aufklärungsfehler Dokumentationsmangel)
 - Patientenanspruch auf Krankenversicherung-Leistungen (siehe sozialrecht-kanzlei)
 - Vertragsarztrecht (Zulassung Disziplinar Wirtschaftlichkeitsprüfung)
-- Aerztliche Berufsrechtsverfahren
+- Ärztliche Berufsrechtsverfahren
 - Krankenhaus-Abrechnungsstreit (DRG)
 - Medizinprodukteanmeldung Marktüberwachung
 - Pflegeheim und Heimvertrag
@@ -37,7 +37,7 @@ description: Orientierung im Medizinrecht — FAO Voraussetzungen Normen typisch
 
 - **Verjährung Schadensersatz Arzthaftung** regelmäßig drei Jahre ab Kenntnis (§ 195 BGB) Höchstfrist zehn Jahre (§ 199 Abs. 2 BGB).
 - **Widerspruchsfrist Krankenkasse** ein Monat (§ 84 SGG).
-- **Beschwerdefristen Aerztekammer** verfahrensrechtlich prüfen.
+- **Beschwerdefristen Ärztekammer** verfahrensrechtlich prüfen.
 - **Vertragsarztzulassung** Klagefrist gegen Beschluss des Zulassungsausschusses ein Monat (§ 96 Abs. 4 SGB V iVm SGG).
 
 ## Hauptgerichte

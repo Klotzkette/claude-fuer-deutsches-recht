@@ -7,23 +7,23 @@ description: "Ausweisung § 53 AufenthG nach Reform 2016 Drei-Stufen-Pruefung Au
 
 ## Zweck
 
-Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
+Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 
 ## 1) Eingangs-Abfrage
 
-1. Anlass der Ausweisung (Strafurteil, Sicherheitsgefaehrdung, Sozialhilfe-Bezug)?
+1. Anlass der Ausweisung (Strafurteil, Sicherheitsgefährdung, Sozialhilfe-Bezug)?
 2. Aufenthaltstitel Stand?
 3. Familien-Konstellation (Ehegatte, Kinder)?
 4. Wohndauer Deutschland?
-5. Heimatland-Bezuege?
+5. Heimatland-Bezüge?
 6. Strafverfahren parallel?
 
-## 2) Drei-Stufen-Pruefung § 53 AufenthG (seit 2016)
+## 2) Drei-Stufen-Prüfung § 53 AufenthG (seit 2016)
 
 ### Stufe 1 — Ausweisungs-Interesse
 
 - Schwerwiegend § 54 I AufenthG (Strafrechtliche Verurteilung > 2 Jahre)
-- Schwer wiegend § 54 II AufenthG (Verurteilung 1-2 Jahre, oder besonders schwere Faelle)
+- Schwer wiegend § 54 II AufenthG (Verurteilung 1-2 Jahre, oder besonders schwere Fälle)
 - Sonstige § 54 III AufenthG
 
 ### Stufe 2 — Bleibe-Interesse
@@ -34,12 +34,12 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 ### Stufe 3 — Einzelfall-Abwaegung
 
 - Ausweisungs- vs. Bleibe-Interesse
-- Verhaeltnismaessigkeits-Pruefung
+- Verhältnismaessigkeits-Prüfung
 - Art. 8 EMRK Familie
 
 ## 3) Aufenthalts-Konsequenz
 
-### Ausweisungs-Verfuegung
+### Ausweisungs-Verfügung
 
 - Aufenthaltstitel erlischt § 51 I Nr. 5 AufenthG
 - Einreise- und Aufenthalts-Verbot
@@ -47,7 +47,7 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 
 ### Sofort-Vollzug
 
-- Standard bei schwerwiegenden Faellen
+- Standard bei schwerwiegenden Fällen
 - Eilantrag § 80 V VwGO zur Aussetzung erforderlich
 
 ## 4) Familien-Mitglieder-Schutz
@@ -55,22 +55,22 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 ### Art. 8 EMRK
 
 - Familienleben
-- Beruecksichtigung Kindeswohl
-- EGMR-Linie zur Verhaeltnismaessigkeit
+- Berücksichtigung Kindeswohl
+- EGMR-Linie zur Verhältnismaessigkeit
 
 ### Daueraufenthaltsrecht EU § 9a AufenthG
 
 - Verstaerkter Schutz nach 5 Jahren rechtmaessigem Aufenthalt
-- Ausweisung nur bei besonders schwerwiegenden Gruenden
+- Ausweisung nur bei besonders schwerwiegenden Gründen
 
-### Tuerkische Staatsangehoerige ARB 1/80
+### Türkische Staatsangehörige ARB 1/80
 
 - Assoziations-Recht
 - Schutz Familien-Mitglieder
 
 ## 5) Workflow
 
-### Schritt 1 — Anhoerung
+### Schritt 1 — Anhörung
 
 - Schriftliche Stellungnahme
 - Vor Bescheid-Erlass
@@ -79,7 +79,7 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 ### Schritt 2 — Bei Bescheid
 
 - **Widerspruch binnen 1 Monat** § 70 VwGO iVm Landes-AusfG
-- Anfechtungs-Grund: Verhaeltnismaessigkeit, Abwaegungs-Mangel
+- Anfechtungs-Grund: Verhältnismaessigkeit, Abwaegungs-Mangel
 - Familien-Aspekte
 
 ### Schritt 3 — Eilantrag § 80 V VwGO
@@ -98,12 +98,12 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 ### Pro Bleibe-Interesse
 
 - Lange Wohndauer
-- Familien-Mitglieder Schutzwuerdig (Kinder, Ehegatte)
+- Familien-Mitglieder Schutzwürdig (Kinder, Ehegatte)
 - Integration (Schule, Arbeit, Sprachkenntnis)
-- Bewaehrungs-Erwartung
+- Bewährungs-Erwartung
 - Therapie / Resozialisierung
 
-### Verhaeltnismaessigkeits-Verstoss
+### Verhältnismaessigkeits-Verstoß
 
 - Kindeswohl
 - Krankheit Heimatland nicht behandelbar
@@ -113,7 +113,7 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 
 - Strafverteidigung minimieren Strafmass
 - Bei < 2 Jahre meist nur Schwere Ausweisungs-Interesse, nicht schwerwiegend
-- Bewaehrung erwirken
+- Bewährung erwirken
 
 ## 8) Befristung § 11 AufenthG
 
@@ -123,7 +123,7 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 - 10 Jahre bei schwerwiegender Ausweisung
 - 20 Jahre bei terroristischer Bezug
 
-### Verkuerzung Antrag
+### Verkürzung Antrag
 
 - Nach Verbuessung Strafe
 - Bei Familien-Schutz
@@ -131,11 +131,11 @@ Verteidigung gegen Ausweisungs-Verfuegung Auslaenderbehoerde.
 
 ## 9) Typische Fehler
 
-1. **Widerspruchsfrist 1 Monat versaeumt**
+1. **Widerspruchsfrist 1 Monat versäumt**
 2. **Eilantrag spät** — Abschiebung trotz Verfahren
 3. **Familien-Schutz nicht ausreichend dargelegt**
 4. **Strafverfahren ohne migrations-rechtliche Beratung**
-5. **Verhaeltnismaessigkeit nur pauschal angesprochen**
+5. **Verhältnismaessigkeit nur pauschal angesprochen**
 
 ## 10) BVerwG-/EuGH-Linien
 

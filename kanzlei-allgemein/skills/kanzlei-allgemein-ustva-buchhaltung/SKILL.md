@@ -27,7 +27,7 @@ Dieser Skill bereitet die monatliche Umsatzsteuer-Voranmeldung und die Belegsamm
 3. Vereinnahmte oder vereinbarte Entgelte je nach Besteuerungsart markieren.
 4. Eingangsrechnungen und Vorsteuer prüfen.
 5. Reverse-Charge, Ausland, Kleinunternehmer, steuerfreie Umsätze und Fremdgeld als Unsicherheit markieren.
-6. Belege nach GoBD-naher Ablage prüfen.
+6. Belege nach GoBD-näher Ablage prüfen.
 7. Zahlungseingänge und Ausgangsrechnungen mit offenen Posten abstimmen.
 8. Summenblatt erzeugen.
 9. Übergabe an ELSTER, Steuerberater oder Buchhaltung vorbereiten.

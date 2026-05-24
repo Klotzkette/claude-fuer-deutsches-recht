@@ -244,7 +244,7 @@ Klimaklagen sind seit BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021) das wichti
 ### CSRD-Berichts-Bezug
 
 - Klima-Berichtspflicht ab 2024
-- Verstoss begründet Bußgeld
+- Verstoß begründet Bußgeld
 - Beweisangebot
 
 ## Schritt 12 — Konkrete Klage-Bausteine

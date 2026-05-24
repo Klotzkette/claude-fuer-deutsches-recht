@@ -7,31 +7,31 @@ description: "Anmeldung beim Handelsregister durch Notar. Pflichtangaben GmbH UG
 
 ## Zweck
 
-Die Handelsregister-Anmeldung ist der oeffentliche Akt, der die Gesellschaft als juristische Person zur Entstehung bringt (konstitutive Wirkung bei GmbH Paragraf 11 I GmbHG). Bis zur Eintragung ist die GmbH **Vor-GmbH** — mit Aussenwirkung, aber persoenlicher Gesellschafterhaftung.
+Die Handelsregister-Anmeldung ist der öffentliche Akt, der die Gesellschaft als juristische Person zur Entstehung bringt (konstitutive Wirkung bei GmbH Paragraf 11 I GmbHG). Bis zur Eintragung ist die GmbH **Vor-GmbH** — mit Außenwirkung, aber persönlicher Gesellschafterhaftung.
 
 ## 1) Wer meldet an
 
 ### Bei GmbH/UG
 
-- **Alle Geschaeftsfuehrer** in vertretungsberechtigter Zahl (Paragraf 78 GmbHG)
+- **Alle Geschäftsführer** in vertretungsberechtigter Zahl (Paragraf 78 GmbHG)
 - Anmeldung wird vom **Notar** vorbereitet und elektronisch eingereicht
 - Unterschriften der GF werden notariell **beglaubigt** (nicht beurkundet)
 
 ### Bei KG/OHG
 
-- **Alle Gesellschafter** muessen anmelden (Paragraf 108 HGB)
+- **Alle Gesellschafter** müssen anmelden (Paragraf 108 HGB)
 - Beglaubigung der Unterschriften durch Notar
 
 ## 2) Pflicht-Inhalte der Anmeldung
 
 ### Bei GmbH/UG (Paragraf 8 GmbHG)
 
-#### Anmeldung enthaelt
+#### Anmeldung enthält
 
 - Firma und Sitz
 - Gegenstand des Unternehmens
 - Stammkapital
-- Geschaeftsfuehrer mit Vertretungsbefugnis
+- Geschäftsführer mit Vertretungsbefugnis
 - Versicherungen der GF (siehe unten)
 
 #### Beilagen
@@ -39,51 +39,51 @@ Die Handelsregister-Anmeldung ist der oeffentliche Akt, der die Gesellschaft als
 - **Satzung** im notariellen Original
 - **Gesellschafterliste** Paragraf 8 I Nr. 3 GmbHG
 - **Versicherungen der GF** zu Paragraf 8 II GmbHG
-- **Nachweis der Bareinzahlung** (Bank-Bestaetigung)
-- Bei Sachgruendung: **Sachgruendungsbericht**, ggf. Sachwertgutachten
-- **Genehmigungen** fuer den Gegenstand des Unternehmens (sofern erforderlich)
+- **Nachweis der Bareinzahlung** (Bank-Bestätigung)
+- Bei Sachgründung: **Sachgründungsbericht**, ggf. Sachwertgutachten
+- **Genehmigungen** für den Gegenstand des Unternehmens (sofern erforderlich)
 
 ### Bei KG (Paragraf 106 HGB)
 
 - Firma und Sitz
 - Gegenstand
-- Komplementaere mit Vertretungsbefugnis
-- Kommanditisten mit **Hafteinlage-Hoehe**
+- Komplementäre mit Vertretungsbefugnis
+- Kommanditisten mit **Hafteinlage-Höhe**
 
-## 3) Versicherungen der Geschaeftsfuehrer Paragraf 8 II GmbHG
+## 3) Versicherungen der Geschäftsführer Paragraf 8 II GmbHG
 
 Jeder GF muss eine **eidesstattliche Versicherung** zu folgenden Punkten abgeben:
 
-1. **Bareinzahlung** des Stammkapitals (mindestens 12.500 EUR bzw. vollstaendig bei UG / Sachgruendung)
-2. **Freie Verfuegung** des Geschaeftsfuehrers ueber die eingezahlten Mittel
+1. **Bareinzahlung** des Stammkapitals (mindestens 12.500 EUR bzw. vollständig bei UG / Sachgründung)
+2. **Freie Verfügung** des Geschäftsführers über die eingezahlten Mittel
 3. **Bestellungs-Hindernisse** ausgeschlossen:
    - Keine Verurteilung wegen Insolvenzverschleppung in den letzten 5 Jahren (Paragraf 6 II Nr. 3a GmbHG)
-   - Keine Verurteilung wegen Verstoss gegen GmbH-Vorschriften, Steuerstraftaten in den letzten 5 Jahren
-   - Kein gerichtliches oder behoerdliches Berufsverbot fuer Geschaeftsfuehrungs-Taetigkeiten
+   - Keine Verurteilung wegen Verstoß gegen GmbH-Vorschriften, Steuerstraftaten in den letzten 5 Jahren
+   - Kein gerichtliches oder behördliches Berufsverbot für Geschäftsführungs-Tätigkeiten
    - Keine Insolvenz- oder Verwertungsverfahren
 
 ### Strafbarkeit bei Falschangabe
 
 - **Paragraf 82 GmbHG**: falsche Versicherung -> Freiheitsstrafe bis 3 Jahre oder Geldstrafe
-- Ueblich werden falsche Versicherungen entdeckt, weil das Bundeszentralregister abgeglichen wird
+- Üblich werden falsche Versicherungen entdeckt, weil das Bundeszentralregister abgeglichen wird
 
 ## 4) Eintragungs-Verfahren
 
-### Pruefung durch Handelsregister-Gericht
+### Prüfung durch Handelsregister-Gericht
 
-- Pruefung formaler Voraussetzungen (Satzung gueltig, Versicherungen vollstaendig)
-- Pruefung der Firma (Verwechslungsfaehigkeit Paragraf 30 HGB)
-- Pruefung des Geschaeftsgegenstands (Konkretheit)
-- Bei Beanstandungen: **Zwischenverfuegung**, Frist zur Korrektur (typisch 2 Wochen)
+- Prüfung formaler Voraussetzungen (Satzung gültig, Versicherungen vollständig)
+- Prüfung der Firma (Verwechslungsfähigkeit Paragraf 30 HGB)
+- Prüfung des Geschäftsgegenstands (Konkretheit)
+- Bei Beanstandungen: **Zwischenverfügung**, Frist zur Korrektur (typisch 2 Wochen)
 
 ### Eintragung
 
-- Bei vollstaendigen Unterlagen: Eintragung typisch **2-14 Tage** nach Eingang
+- Bei vollständigen Unterlagen: Eintragung typisch **2-14 Tage** nach Eingang
 - Konstitutiv: GmbH/UG entsteht **mit der Eintragung** (Paragraf 11 I GmbHG)
 
 ### Bekanntmachung
 
-- **Bundesanzeiger**: oeffentliche Bekanntmachung der Eintragung
+- **Bundesanzeiger**: öffentliche Bekanntmachung der Eintragung
 - Kostenfrei nach Eintragung; oft direkt vom Handelsregister veranlasst
 
 ## 5) Eintragungs-Kosten
@@ -93,8 +93,8 @@ Jeder GF muss eine **eidesstattliche Versicherung** zu folgenden Punkten abgeben
 | GmbH-Eintragung | 150 EUR |
 | UG-Eintragung | 150 EUR |
 | KG-Eintragung | 100 EUR |
-| Spaetere Aenderung Geschaeftsfuehrer | 70 EUR |
-| Aenderung Satzung | 100 EUR |
+| Spätere Änderung Geschäftsführer | 70 EUR |
+| Änderung Satzung | 100 EUR |
 | Bekanntmachung Bundesanzeiger | meist im Eintragungskosten enthalten |
 
 ## 6) Online-Anmeldung (DiRUG)
@@ -104,47 +104,47 @@ Seit Juli 2022 sind elektronische Anmeldungen Standard. Notar beglaubigt online 
 - Beschleunigung: typisch 5-7 Tage statt 14
 - Voraussetzung: Notar mit DiRUG-Beglaubigungs-Fhigkeit
 
-## 7) Vor-GmbH und Vor-Gruendungsgesellschaft
+## 7) Vor-GmbH und Vor-Gründungsgesellschaft
 
-### Vor-Gruendungs-Gesellschaft (vor Notar-Beurkundung)
+### Vor-Gründungs-Gesellschaft (vor Notar-Beurkundung)
 
-- BGB-Gesellschaft der zukuenftigen Gruender
-- Persoenliche Haftung der Gesellschafter
-- Geschaefte sind „auf eigene Rechnung" — Uebergang auf GmbH erfordert spaetere Uebertragung
+- BGB-Gesellschaft der zukuenftigen Gründer
+- Persönliche Haftung der Gesellschafter
+- Geschäfte sind „auf eigene Rechnung" — Übergang auf GmbH erfordert spätere Übertragung
 
 ### Vor-GmbH (zwischen Beurkundung und Eintragung)
 
-- Eigene Rechtspersoenlichkeit (BGH-Linie)
-- Aber: **persoenliche Haftung** der Gesellschafter Paragraf 11 II GmbHG fuer Verbindlichkeiten der Vor-GmbH (sogenannte „Differenzhaftung" anders als Differenzhaftung bei Sacheinlage)
+- Eigene Rechtspersönlichkeit (BGH-Linie)
+- Aber: **persönliche Haftung** der Gesellschafter Paragraf 11 II GmbHG für Verbindlichkeiten der Vor-GmbH (sogenannte „Differenzhaftung" anders als Differenzhaftung bei Sacheinlage)
 - Loescht sich bei Eintragung und „verschmilzt" in die eigentliche GmbH
 
 ### Konsequenz
 
-In der Phase Vor-GmbH **moeglichst keine grossen Geschaefte** abschliessen. Wenn unverzichtbar: persoenliches Haftungsrisiko der Gruender bewusst.
+In der Phase Vor-GmbH **möglichst keine großen Geschäfte** abschließen. Wenn unverzichtbar: persönliches Haftungsrisiko der Gründer bewusst.
 
 ## 8) Gesellschafterliste Paragraf 40 GmbHG
 
 ### Pflicht
 
 - Mit Anmeldung: erste Gesellschafterliste
-- Jede Aenderung muss neue Liste beim Handelsregister eingereicht werden
-- Wer **Veraenderung** ist (Erwerb, Veraeusserung, Einziehung): Notar reicht ein (Paragraf 40 II GmbHG)
+- Jede Änderung muss neue Liste beim Handelsregister eingereicht werden
+- Wer **Veränderung** ist (Erwerb, Veraeusserung, Einziehung): Notar reicht ein (Paragraf 40 II GmbHG)
 
 ### Inhalt
 
 - Vor- und Nachname (bei juristischer Person: Firma und Sitz)
 - Adresse
-- Geburtsdatum (bei natuerlicher Person)
-- Geschaeftsanteile mit Nummer und Nennwert
+- Geburtsdatum (bei natürlicher Person)
+- Geschäftsanteile mit Nummer und Nennwert
 
 ## 9) Typische Anmeldungs-Fehler
 
-1. **Versicherungs-Pflichten unvollstaendig.** Handelsregister beanstandet, Zwischenverfuegung, Verzug.
-2. **Bareinzahlung nicht in voller Hoehe nachgewiesen.** Bei UG vollstaendig, bei GmbH mindestens 12.500 EUR.
+1. **Versicherungs-Pflichten unvollständig.** Handelsregister beanstandet, Zwischenverfügung, Verzug.
+2. **Bareinzahlung nicht in voller Höhe nachgewiesen.** Bei UG vollständig, bei GmbH mindestens 12.500 EUR.
 3. **Falsche Vertretungsbefugnis.** Bei Mehrgliedrigkeit der GF: klar trennen Einzel / Gesamt.
-4. **Sachgruendungsbericht zu duenn.** Bei Sacheinlage muss Werthaltigkeit ueberpruefbar sein.
-5. **Falscher Geschaeftsgegenstand.** Zu allgemein („alle gesetzlich zugelassenen Geschaefte") oder zu eng.
-6. **Firma verwechslungsfaehig.** IHK haette das vorab gepruet.
+4. **Sachgründungsbericht zu duenn.** Bei Sacheinlage muss Werthaltigkeit überprüfbar sein.
+5. **Falscher Geschäftsgegenstand.** Zu allgemein („alle gesetzlich zugelassenen Geschäfte") oder zu eng.
+6. **Firma verwechslungsfähig.** IHK hätte das vorab geprüft.
 7. **Erste Gesellschafterliste nicht eingereicht.** Pflicht ab 1.1.2022 (TraFinG).
 
 ## 10) Nach Eintragung
@@ -159,7 +159,7 @@ In der Phase Vor-GmbH **moeglichst keine grossen Geschaefte** abschliessen. Wenn
 
 ## Anschluss
 
-- `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Behoerden-Anmeldung
+- `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Behörden-Anmeldung
 - `gesellschaftsgruender-transparenzregister` — TraFinG-Pflicht
 - `gesellschaftsgruender-ihk-und-berufsgenossenschaft` — weitere Mitgliedschaften
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — GF-Pflichten nach Eintragung

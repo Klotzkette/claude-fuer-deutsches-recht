@@ -16,20 +16,20 @@ Widerspruch gegen die Eintragung einer juenger angemeldeten Marke wegen aelterer
 3. Verwechslungs-Aehnlichkeit Zeichen?
 4. Waren-/Dienstleistungs-Aehnlichkeit?
 5. Bekanntheit der AE?
-6. Frist gewahrt (3 Monate ab Veroeffentlichung)?
+6. Frist gewahrt (3 Monate ab Veröffentlichung)?
 
 ## 2) Frist und Form
 
-- DPMA: 3 Monate ab Veroeffentlichung im Markenblatt § 42 I MarkenG
-- EUIPO: 3 Monate ab Veroeffentlichung
+- DPMA: 3 Monate ab Veröffentlichung im Markenblatt § 42 I MarkenG
+- EUIPO: 3 Monate ab Veröffentlichung
 - Form: schriftlich, Widerspruchsgebuehr 250 EUR (DPMA) bzw. 320 EUR (EUIPO)
 - Sprachen DPMA: deutsch
 
-## 3) Pruefraster Verwechslungsgefahr
+## 3) Prüfraster Verwechslungsgefahr
 
 4-Stufen-Test (BGH I ZR 207/12):
 
-| Stufe | Pruefkriterium |
+| Stufe | Prüfkriterium |
 |---|---|
 | 1 | Zeichen-Aehnlichkeit (klanglich, schriftbildlich, begrifflich) |
 | 2 | Waren-/Dienstleistungs-Aehnlichkeit |
@@ -58,27 +58,27 @@ Widerspruch gegen die Eintragung einer juenger angemeldeten Marke wegen aelterer
 
 ## 5) Workflow Widerspruch
 
-### Schritt 1 — Anmeldungs-Ueberwachung
+### Schritt 1 — Anmeldungs-Überwachung
 
-- Markenueberwachungs-Dienste (Compumark, Trademark Online)
+- Markenüberwachungs-Dienste (Compumark, Trademark Online)
 - Alarm bei neuen Anmeldungen in identischen / aehnlichen Klassen
 
-### Schritt 2 — Widerspruchs-Vorpruefung
+### Schritt 2 — Widerspruchs-Vorprüfung
 
-- Wahrscheinlichkeits-Pruefung Erfolg
+- Wahrscheinlichkeits-Prüfung Erfolg
 - Kosten-Nutzen (Eintrag verhindern oder zulassen mit Co-Existence?)
 
 ### Schritt 3 — Widerspruch einlegen
 
-- Schriftsatz mit Begruendung und Beweis
+- Schriftsatz mit Begründung und Beweis
 - Gebuehr zahlen
 
 ### Schritt 4 — Cooling-off-Periode (EUIPO)
 
 - 2 Monate Vergleichs-Phase
-- Co-Existence-Vereinbarung moeglich
+- Co-Existence-Vereinbarung möglich
 
-### Schritt 5 — Inhaltliche Pruefung
+### Schritt 5 — Inhaltliche Prüfung
 
 - Inhabers-Beweisantritt
 - Stellungnahmen-Austausch
@@ -99,31 +99,31 @@ Widerspruch gegen die Eintragung einer juenger angemeldeten Marke wegen aelterer
 - Verzicht auf gegenseitige Klagen
 - Anpassung der Marken-Designs
 
-## 7) Loeschungsklage als Alternative
+## 7) Löschungsklage als Alternative
 
 - Bei verspaetetem Widerspruch oder bei eingetragener Junger Marke
-- DPMA-Loeschungsantrag § 50 MarkenG (Nichtigkeit)
+- DPMA-Löschungsantrag § 50 MarkenG (Nichtigkeit)
 - Klage beim Bundespatentgericht (Beschwerde gegen DPMA)
 
 ## 8) Beschwerde gegen DPMA/EUIPO
 
 - DPMA: Bundespatentgericht binnen 1 Monat
 - EUIPO: Boards of Appeal binnen 2 Monaten
-- Rechtsmittel-Gebuehren beachten
+- Rechtsmittel-Gebühren beachten
 
 ## 9) Typische Fehler
 
-1. **Frist 3 Monate verpasst** — kein Widerspruch mehr moeglich
+1. **Frist 3 Monate verpasst** — kein Widerspruch mehr möglich
 2. **Benutzungs-Nachweis nicht parat** bei aelterer Marke
-3. **Klassen-Aehnlichkeits-Pruefung oberflaechlich** — Verwechslungs-Gefahr falsch eingeschaetzt
-4. **Cooling-off bei EUIPO uebersehen** — Vergleichs-Chance vertan
-5. **Loeschungs-Antrag statt Widerspruch** bei laufender Widerspruchsfrist
+3. **Klassen-Aehnlichkeits-Prüfung oberflaechlich** — Verwechslungs-Gefahr falsch eingeschätzt
+4. **Cooling-off bei EUIPO übersehen** — Vergleichs-Chance vertan
+5. **Löschungs-Antrag statt Widerspruch** bei laufender Widerspruchsfrist
 
 ## 10) Honorar
 
 - Widerspruchs-Gebuehr: 250-320 EUR
-- Anwalt: pauschal 800-2.000 EUR fuer Widerspruchs-Schriftsatz
-- Bei Beschwerde: zusaetzlich nach RVG
+- Anwalt: pauschal 800-2.000 EUR für Widerspruchs-Schriftsatz
+- Bei Beschwerde: zusätzlich nach RVG
 
 ## 11) BGH-Linien
 

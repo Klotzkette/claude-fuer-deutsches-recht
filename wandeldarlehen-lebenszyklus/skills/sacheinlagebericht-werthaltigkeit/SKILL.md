@@ -73,7 +73,7 @@ entspricht ihrem Nennwert von EUR 275694. Eine Überbewertung liegt nicht vor.
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Gesellschaft überschuldet oder zahlungsunfähig | Werthaltigkeit der Forderung fraglich, Differenzhaftung § 9 GmbHG | Liquidität knapp | Gesellschaft klar zahlungsfähig |
 | Kein Sacheinlagebericht | HR-Eintragung scheitert | Bericht unvollständig | Vollständiger Bericht |

@@ -3,15 +3,15 @@ name: gesellschaftsgruender-kapitalerhoehung-bezugsrecht
 description: "Kapitalerhoehung Paragrafen 55 ff GmbHG. Bezugsrecht bestehender Gesellschafter Paragraf 55 II GmbHG. Bezugsrechtsausschluss Voraussetzungen sachliche Rechtfertigung Verhaeltnismaessigkeit. Verwaesserungs-Berechnung. Streit-Konstellationen bei nicht-mitziehenden Gesellschaftern. Eilantrag gegen Eintragung."
 ---
 
-# Kapitalerhoehung und Bezugsrecht
+# Kapitalerhöhung und Bezugsrecht
 
 ## Zweck
 
-Bei Erhoehung des Stammkapitals muessen die bestehenden Gesellschafter **Bezugsrechte** erhalten (Paragraf 55 II GmbHG). Ausschluss ist moeglich, aber begruendungsbeduerftig. Streit ueber Bezugsrecht / Bezugsrechtsausschluss ist klassischer Konflikt-Ausloeser.
+Bei Erhöhung des Stammkapitals müssen die bestehenden Gesellschafter **Bezugsrechte** erhalten (Paragraf 55 II GmbHG). Ausschluss ist möglich, aber begründungsbedürftig. Streit über Bezugsrecht / Bezugsrechtsausschluss ist klassischer Konflikt-Auslöser.
 
 ## 1) Rechtsgrundlagen
 
-- **Paragraf 55 GmbHG**: Erhoehung des Stammkapitals
+- **Paragraf 55 GmbHG**: Erhöhung des Stammkapitals
 - **Paragraf 55 II GmbHG**: Bezugsrecht
 - **Paragraf 55 IV GmbHG**: Bezugsrechtsausschluss
 - **Paragraf 56 GmbHG**: Sacheinlage
@@ -21,7 +21,7 @@ Bei Erhoehung des Stammkapitals muessen die bestehenden Gesellschafter **Bezugsr
 ### Pro-Rata-Recht
 
 - Jeder Gesellschafter hat das Recht, einen seiner Beteiligungsquote entsprechenden Teil der neuen Anteile zu erwerben
-- Vermeidet Verwaesserung
+- Vermeidet Verwässerung
 
 ### Beispiel
 
@@ -48,7 +48,7 @@ Nach Erhoehung (alle ziehen mit):
 ### Konstellation
 
 - Gesellschafter B kann oder will nicht mitziehen
-- Gruender A zieht voll mit
+- Gründer A zieht voll mit
 - Investor I AG nimmt die nicht-ausgeuebten Anteile
 
 ### Auswirkung
@@ -69,7 +69,7 @@ Nach Erhoehung:
 - Investor I AG: 4.000 / 35.000 = 11,43 %
 ```
 
-### Konsequenz fuer B
+### Konsequenz für B
 
 - **Anteilsquote sinkt** von 40 % auf 28,57 %
 - **Stimmrechte sinken** entsprechend
@@ -81,14 +81,14 @@ Nach Erhoehung:
 
 - **75 %-Mehrheits-Beschluss** in GV (Paragraf 53 II GmbHG)
 - **Sachliche Rechtfertigung**
-- **Verhaeltnismaessigkeit**
+- **Verhältnismaessigkeit**
 - **Angemessenheit**
 
 ### Sachliche Rechtfertigung
 
 Bei Series-A-Investor:
 - Investor bringt strategisches Know-how oder Marktzugang
-- Kapital-Beduerfnis kann nicht durch bestehende Gesellschafter gedeckt werden
+- Kapital-Bedürfnis kann nicht durch bestehende Gesellschafter gedeckt werden
 - Investor verlangt Mindest-Anteil als Voraussetzung des Einstiegs
 
 Bei Mitarbeiter-Beteiligung:
@@ -105,17 +105,17 @@ Bei Mitarbeiter-Beteiligung:
 ### Typisch
 
 - **Mehrheits-Gesellschafter** wollen Investor-Eintritt mit Bezugsrechtsausschluss
-- **Minderheits-Gesellschafter** lehnen ab — Verwaesserungs-Angst
+- **Minderheits-Gesellschafter** lehnen ab — Verwässerungs-Angst
 - **75 %-Beschluss** wird gefasst (Mehrheits-Gesellschafter haben 75 %)
 - **Minderheits-Gesellschafter** klagt auf Anfechtung des Beschlusses
 
 ### Eilrechtsschutz
 
-- **Einstweilige Verfuegung** auf Anmeldungs-Sperre (Paragraf 16 II HGB)
+- **Einstweilige Verfügung** auf Anmeldungs-Sperre (Paragraf 16 II HGB)
 - Antrag beim **Landgericht** (Gesellschafts-Sitz)
 - Glaubhaftmachung von:
   - Wahrscheinlichkeit der Anfechtbarkeit (sachliche Rechtfertigung fehlt)
-  - Eilbeduerftigkeit (Eintragung wuerde Verwaesserung unwiderruflich)
+  - Eilbedürftigkeit (Eintragung würde Verwässerung unwiderruflich)
 
 → `gesellschaftsgruender-gesellschafterstreit-eilantraege`
 
@@ -166,11 +166,11 @@ Sachliche Rechtfertigung des Bezugsrechtsausschlusses:
 
 → `gesellschaftsgruender-golden-share-und-vetorechte`
 
-## 8) Verwaesserungs-Schutz im SHA
+## 8) Verwässerungs-Schutz im SHA
 
 ### Anti-Dilution-Klauseln
 
-Bei spaeterer Erhoehung zu niedrigerem Preis als Erstausgabe:
+Bei späterer Erhöhung zu niedrigerem Preis als Erstausgabe:
 
 - **Full Ratchet**: rueckwirkende Preisanpassung
 - **Weighted Average broad-based**: gewichteter Mittelwert
@@ -179,11 +179,11 @@ Bei spaeterer Erhoehung zu niedrigerem Preis als Erstausgabe:
 
 ### Pflicht zur Mitteilung
 
-- Bezugsrechte muessen den Gesellschaftern **mit Frist** angeboten werden
+- Bezugsrechte müssen den Gesellschaftern **mit Frist** angeboten werden
 - Frist typisch 14-28 Tage
-- Bei Verstoss: Anfechtungs-Risiko
+- Bei Verstoß: Anfechtungs-Risiko
 
-## 9) Typische Erhoehungs-Fehler
+## 9) Typische Erhöhungs-Fehler
 
 1. **Bezugsrecht nicht offeriert**, sondern automatisch ausgeschlossen ohne Beschluss. Anfechtbar.
 2. **Sachliche Rechtfertigung fehlt**. Anfechtbar.
@@ -210,4 +210,4 @@ Bei spaeterer Erhoehung zu niedrigerem Preis als Erstausgabe:
 - `gesellschaftsgruender-genehmigtes-kapital` — bei Vorratsbeschluss
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit
 - `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — Protokoll
-- `gesellschaftsgruender-cap-table` — Verwaesserungs-Berechnung
+- `gesellschaftsgruender-cap-table` — Verwässerungs-Berechnung

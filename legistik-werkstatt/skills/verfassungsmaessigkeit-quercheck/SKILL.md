@@ -5,13 +5,13 @@ description: "Querschnittspruefung Verfassungsmaessigkeit eines Entwurfs. Pruefu
 
 # Verfassungsmaessigkeit-Quercheck
 
-> Nicht jeder Entwurf ist verfassungsgemaess, weil er gut gemeint ist.
+> Nicht jeder Entwurf ist verfassungsgemäß, weil er gut gemeint ist.
 
 ## Pruefstation 1 - Welche Grundrechte sind betroffen?
 
-Pruefen pro Adressat:
+Prüfen pro Adressat:
 
-- Art. 1 GG Menschenwuerde
+- Art. 1 GG Menschenwürde
 - Art. 2 GG allgemeine Handlungsfreiheit, Recht auf koerperliche Unversehrtheit
 - Art. 3 GG Gleichheit
 - Art. 4 GG Religionsfreiheit
@@ -26,13 +26,13 @@ Pruefen pro Adressat:
 - Art. 16 GG Auslieferung
 - Art. 17 GG Petitionsrecht
 
-## Pruefstation 2 - Pruefraster pro Grundrecht
+## Pruefstation 2 - Prüfraster pro Grundrecht
 
-1. Schutzbereich (persoenlich und sachlich)
+1. Schutzbereich (persönlich und sachlich)
 2. Eingriff
 3. Rechtfertigung
    - verfassungsmaessige Schranke
-   - Schranken-Schranken (insbesondere Verhaeltnismaessigkeit)
+   - Schranken-Schranken (insbesondere Verhältnismaessigkeit)
      - legitimer Zweck
      - geeignet
      - erforderlich (mildestes Mittel)
@@ -40,19 +40,19 @@ Pruefen pro Adressat:
 
 ## Pruefstation 3 - Art. 3 GG Gleichbehandlung
 
-Bei Ungleichbehandlung: ist sie sachlich gerechtfertigt? Wenn personenbezogen: strenge Pruefung (neue Formel BVerfG E 88 / 87).
+Bei Ungleichbehandlung: ist sie sachlich gerechtfertigt? Wenn personenbezogen: strenge Prüfung (neue Formel BVerfG E 88 / 87).
 
 ## Pruefstation 4 - Art. 12 GG Berufsfreiheit
 
 Drei-Stufen-Theorie (BVerfGE 7 / 377 Apotheker):
-- Berufsausuebung: leichter zu rechtfertigen
-- Subjektive Zulassung: sachliche Gruende, Verhaeltnismaessigkeit
-- Objektive Zulassung: ueberwiegende Interessen der Allgemeinheit
+- Berufsausübung: leichter zu rechtfertigen
+- Subjektive Zulassung: sachliche Gründe, Verhältnismaessigkeit
+- Objektive Zulassung: überwiegende Interessen der Allgemeinheit
 
 ## Pruefstation 5 - Art. 14 GG Eigentum
 
-- Inhalts- und Schrankenbestimmung (regelmaessiger Eingriff)
-- Enteignung (zugriff auf Eigentum gegen Entschaedigung)
+- Inhalts- und Schrankenbestimmung (regelmäßiger Eingriff)
+- Enteignung (zugriff auf Eigentum gegen Entschädigung)
 - ausgleichspflichtige Inhaltsbestimmung (BVerfG)
 
 ## Pruefstation 6 - Art. 20 Abs. 3 GG Rechtsstaat
@@ -63,7 +63,7 @@ Drei-Stufen-Theorie (BVerfGE 7 / 377 Apotheker):
 
 ## Pruefstation 7 - Art. 103 Abs. 2 GG bei Strafnormen
 
-Bestimmtheitsgebot bei Strafnormen. Der Buerger muss erkennen, was strafbar ist.
+Bestimmtheitsgebot bei Strafnormen. Der Bürger muss erkennen, was strafbar ist.
 
 ## Pruefstation 8 - Wesentlichkeitstheorie
 
@@ -71,7 +71,7 @@ Wesentliche Entscheidungen muss der Gesetzgeber selbst treffen, nicht der Verord
 
 ## Pruefstation 9 - Art. 28 Abs. 2 GG Selbstverwaltungsgarantie
 
-Wenn der Entwurf in kommunale Angelegenheiten eingreift: Eingriff in Selbstverwaltungsgarantie? Erforderlich? Verhaeltnismaessig?
+Wenn der Entwurf in kommunale Angelegenheiten eingreift: Eingriff in Selbstverwaltungsgarantie? Erforderlich? Verhältnismaessig?
 
 ## Pruefstation 10 - Demokratieprinzip Art. 20 Abs. 2 GG
 
@@ -79,7 +79,7 @@ Bei dynamischen Verweisungen auf EU-Recht oder andere externe Stellen: ist die d
 
 ## Ausgabe
 
-Tabellarisches Querprotokoll mit allen einschlaegigen Grundrechten plus Pruefergebnis plus Empfehlung.
+Tabellarisches Querprotokoll mit allen einschlaegigen Grundrechten plus Prüfergebnis plus Empfehlung.
 
 ## Anschluss
 

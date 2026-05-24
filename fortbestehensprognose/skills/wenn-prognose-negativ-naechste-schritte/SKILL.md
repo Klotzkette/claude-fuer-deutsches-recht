@@ -7,7 +7,7 @@ description: Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- u
 
 ## Disclaimer (Schlüsselstelle)
 
-Wenn die Fortbestehensprognose negativ ausfaellt liegt **insolvenzrechtliche Überschuldung** nach § 19 InsO vor. Die Antragspflicht beginnt zu laufen. **Ohne Insolvenzanwalt** sollte ab diesem Punkt nicht weitergearbeitet werden. Jede Tagesverzoegerung kann zur **strafrechtlichen Haftung** nach § 15a Abs. 4 InsO und zur **zivilrechtlichen Haftung** nach § 15b InsO fuehren.
+Wenn die Fortbestehensprognose negativ ausfällt liegt **insolvenzrechtliche Überschuldung** nach § 19 InsO vor. Die Antragspflicht beginnt zu laufen. **Ohne Insolvenzanwalt** sollte ab diesem Punkt nicht weitergearbeitet werden. Jede Tagesverzoegerung kann zur **strafrechtlichen Haftung** nach § 15a Abs. 4 InsO und zur **zivilrechtlichen Haftung** nach § 15b InsO führen.
 
 ## Sofortmaßnahmen — innerhalb 24 Stunden
 
@@ -29,9 +29,9 @@ Ausnahmen (§ 15b Abs. 1 InsO):
 
 **Praktisch**:
 
-- Sozialversicherungsbeitraege Arbeitnehmer-Anteil: **weiter abfuehren** (§ 266a StGB Pflicht zur Abfuehrung).
+- Sozialversicherungsbeitraege Arbeitnehmer-Anteil: **weiter abführen** (§ 266a StGB Pflicht zur Abführung).
 - Lohn- und Gehaltszahlung: weiter (sonst gefährden der Betrieb).
-- Lohnsteuer abfuehren.
+- Lohnsteuer abführen.
 - Umsatzsteuer Voranmeldungen abgeben (auch wenn keine Zahlung erfolgt).
 - Bezahlung von Lieferanten nur nach Abstimmung mit Insolvenzanwalt — Risiko § 15b InsO.
 
@@ -142,11 +142,11 @@ Mit freundlichen Grüßen
 
 ## Auch im Zweifel
 
-Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt einschalten** als die Frist verstreichen lassen. Die Anwaltsgebuehr ist deutlich geringer als die persoenliche Haftung.
+Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt einschalten** als die Frist verstreichen lassen. Die Anwaltsgebuehr ist deutlich geringer als die persönliche Haftung.
 
 ## Ausgabe
 
 - `eskalation-an-insolvenzanwalt-<datum>.docx` als Mitteilung.
 - Termin im Kalender innerhalb 24 Stunden.
 - Status-Eintrag im Sanierungsbausteine-Tracker: „Prüfung negativ — Eskalation eingeleitet".
-- Ende dieses Plugin-Workflows; Fortfuehrung im Plugin `insolvenzrecht` durch Insolvenzanwalt.
+- Ende dieses Plugin-Workflows; Fortführung im Plugin `insolvenzrecht` durch Insolvenzanwalt.

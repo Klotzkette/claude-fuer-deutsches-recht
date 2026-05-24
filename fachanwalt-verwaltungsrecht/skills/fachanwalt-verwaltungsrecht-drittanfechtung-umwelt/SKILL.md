@@ -7,7 +7,7 @@ description: "Drittanfechtung umweltrechtlicher Genehmigung BImSchG. Klagebefugn
 
 ## Zweck
 
-Klage von Nachbarn / Verbaenden gegen umweltrechtliche Genehmigungen.
+Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
 
 ## 1) Klagebefugnis § 42 II VwGO
 
@@ -17,7 +17,7 @@ Klage von Nachbarn / Verbaenden gegen umweltrechtliche Genehmigungen.
 - BImSchG § 5 schuetzt Nachbarn
 - Bei reinen Allgemeinwohl-Normen: keine Klagebefugnis
 
-### Bei Verbaenden
+### Bei Verbänden
 
 - Umwelt-Verbands-Klage UmwRG
 - Anerkennung BfN
@@ -26,10 +26,10 @@ Klage von Nachbarn / Verbaenden gegen umweltrechtliche Genehmigungen.
 
 - Tierhaltungs-Anlage
 - Windkraft-Anlage
-- Strassen-/Schienen-Planfeststellung
+- Straßen-/Schienen-Planfeststellung
 - Industriebetrieb
 
-## 2) Pruefungs-Punkte
+## 2) Prüfungs-Punkte
 
 ### Materiell
 
@@ -41,50 +41,50 @@ Klage von Nachbarn / Verbaenden gegen umweltrechtliche Genehmigungen.
 ### Verfahrens
 
 - Beteiligungs-Verfahren
-- Anhoerung
-- Sachverstaendigen-Pruefung
+- Anhörung
+- Sachverständigen-Prüfung
 
 ### Verfahrensvorschriften
 
 - Vorabbescheid-Aufhebung
-- Wesentliche Aenderung
+- Wesentliche Änderung
 - Teil-Genehmigung
 
 ## 3) Verfahrens-Vorschriften
 
-### Foermliches Verfahren § 10 BImSchG
+### Förmliches Verfahren § 10 BImSchG
 
 - Bekanntmachung
 - Auslegung 1 Monat
 - Erörterungs-Termin
-- Bescheid mit Begruendung
+- Bescheid mit Begründung
 
 ### Vereinfachtes Verfahren § 19 BImSchG
 
 - Bei kleineren Anlagen
-- Keine Buergerbeteiligung
+- Keine Bürgerbeteiligung
 - Schneller
 
-## 4) UVP-Pruefung
+## 4) UVP-Prüfung
 
-### Pflicht / Vor-Pruefung
+### Pflicht / Vor-Prüfung
 
 - UVPG Anlage 1
 - Schwellenwerte
 - Allgemeine UVP / Standortbezogene UVP / Vor-UVP
 
-### Bei Versaeumnis
+### Bei Versäumnis
 
 - Genehmigung anfechtbar
 - Auflagen-Defizit
 
 ## 5) Workflow
 
-### Phase 1 — Bescheid-Pruefung
+### Phase 1 — Bescheid-Prüfung
 
-- Vollstaendigkeit
+- Vollständigkeit
 - Auflagen
-- Begruendung
+- Begründung
 
 ### Phase 2 — Klage-Strategie
 
@@ -94,14 +94,14 @@ Klage von Nachbarn / Verbaenden gegen umweltrechtliche Genehmigungen.
 
 ### Phase 3 — Beweisaufnahme
 
-- Sachverstaendigen-Gutachten
+- Sachverständigen-Gutachten
 - Eigenstudien (Geruch, Larm, Bioaerosole)
 - Vergleichs-Anlagen
 
 ### Phase 4 — Urteil
 
 - Aufhebung Genehmigung
-- Auflagen-Aenderung
+- Auflagen-Änderung
 - Klage abgewiesen
 
 ## 6) Aufschiebende Wirkung
@@ -114,7 +114,7 @@ Klage von Nachbarn / Verbaenden gegen umweltrechtliche Genehmigungen.
 ### Erfolgsaussichten Eil
 
 - Wahrscheinlichkeit Hauptsache-Erfolg
-- Eigene Schaedigung vs. AG-Interesse
+- Eigene Schädigung vs. AG-Interesse
 
 ## 7) Verbands-Klage UmwRG
 
@@ -133,21 +133,21 @@ Klage von Nachbarn / Verbaenden gegen umweltrechtliche Genehmigungen.
 ## 8) Typische Fehler
 
 1. **Klagebefugnis nicht ausreichend dargetan**
-2. **Eilantrag versaeumt** — Anlage geht in Betrieb
-3. **Sachverstaendiger zu spaet**
-4. **UVP-Pflicht uebersehen**
+2. **Eilantrag versäumt** — Anlage geht in Betrieb
+3. **Sachverständiger zu spaet**
+4. **UVP-Pflicht übersehen**
 
 ## 9) BVerwG-Linien
 
 - BVerwG, Urt. v. 28.9.2017 — 4 C 7/15 (Klagebefugnis)
-- BVerwG, Urt. v. 16.6.2016 — 4 C 4/15 (UVP-Vor-Pruefung)
+- BVerwG, Urt. v. 16.6.2016 — 4 C 4/15 (UVP-Vor-Prüfung)
 - BVerwG, Urt. v. 28.1.2010 — 4 BN 22/09 (Verbands-Klage)
 
 ## 10) Honorar
 
 - Streitwert nach wirtschaftlichem Interesse
 - Bei Vereinen oft NGO-Finanzierung
-- VKH-Antrag moeglich
+- VKH-Antrag möglich
 
 ## Anschluss
 

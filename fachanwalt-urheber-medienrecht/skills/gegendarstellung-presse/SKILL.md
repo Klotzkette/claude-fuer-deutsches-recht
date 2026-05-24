@@ -110,7 +110,7 @@ Der spezielle Rechtsbehelf des Pressrechts bei falschen Tatsachenbehauptungen �
 - **In der nächsten verfügbaren Ausgabe**
 - **Bei Online-Medien** unmittelbar zugängliches Update
 
-### Bei Verstoss
+### Bei Verstoß
 
 - Strafverfolgung
 - Antrag auf einstweilige Verfügung an gerichtliche Veröffentlichung

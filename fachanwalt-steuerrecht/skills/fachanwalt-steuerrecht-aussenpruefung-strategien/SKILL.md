@@ -3,24 +3,24 @@ name: fachanwalt-steuerrecht-aussenpruefung-strategien
 description: "Aussenpruefung § 194 AO Pruefungsanordnung Pruefer-Akten Mitwirkungspflichten. Schlussbesprechung Ergebnis. Pruefungsbericht Anfechtbarkeit. Strategie aktive Mitwirkung dokumentierter Widerspruch Vergleichs-Verhandlung. Workflow Vorbereitung Begleitung Bescheid."
 ---
 
-# Aussenpruefung — Strategien
+# Außenprüfung — Strategien
 
 ## Zweck
 
-Begleitung Aussenpruefung beim Mandanten.
+Begleitung Außenprüfung beim Mandanten.
 
-## 1) Pruefungs-Anordnung § 196 AO
+## 1) Prüfungs-Anordnung § 196 AO
 
 ### Inhalt
 
-- Pruefer
-- Pruefungs-Zeitraum (typisch 3 Jahre)
+- Prüfer
+- Prüfungs-Zeitraum (typisch 3 Jahre)
 - Steuerarten
 - Datum / Dauer
 
-### Anfechtungs-Moeglichkeit
+### Anfechtungs-Möglichkeit
 
-- Pruefungs-Anordnung ist anfechtbar bei wesentlichen Maengeln
+- Prüfungs-Anordnung ist anfechtbar bei wesentlichen Mängeln
 - Frist 1 Monat
 - Bei Streit: Eilantrag
 
@@ -28,7 +28,7 @@ Begleitung Aussenpruefung beim Mandanten.
 
 ### Pflichten Steuerpflichtiger
 
-- Zugang gewaehren zu Geschaeftsraeumen
+- Zugang gewaehren zu Geschäftsräumen
 - Bereitstellung Unterlagen
 - Beantwortung Fragen
 - Bei elektronischen Daten: Datenzugriff Z1-Z3
@@ -43,43 +43,43 @@ Begleitung Aussenpruefung beim Mandanten.
 
 ### Aktive Mitwirkung
 
-- Kooperative Pruefer-Beziehung
+- Kooperative Prüfer-Beziehung
 - Klare Unterlagen-Vorlage
 - Schlussbesprechung mit Vorbereitung
 
 ### Dokumentierter Widerspruch
 
-- Bei strittigen Pruefungs-Massnahmen: schriftlich
-- Beweissichern fuer spaetere Klage
-- Verhaeltnismaessigkeits-Pruefung
+- Bei strittigen Prüfungs-Maßnahmen: schriftlich
+- Beweissichern für spätere Klage
+- Verhältnismaessigkeits-Prüfung
 
 ### Vergleichs-Verhandlung
 
-- Tatsachen-Vergleich § 162 AO moeglich
-- Nicht: Verstaendigung ueber Recht
-- BGH-Linie zur „tatsaechlichen Verstaendigung"
+- Tatsachen-Vergleich § 162 AO möglich
+- Nicht: Verständigung über Recht
+- BGH-Linie zur „tatsächlichen Verständigung"
 
 ## 4) Schlussbesprechung § 201 AO
 
 ### Bedeutung
 
 - Letzte Gelegenheit Stellungnahme
-- Vorbereitung des Pruefungs-Berichts
+- Vorbereitung des Prüfungs-Berichts
 - Mit Anwalt empfohlen
 
 ### Inhalt
 
-- Pruefer-Feststellungen
+- Prüfer-Feststellungen
 - Steuerpflichtiger-Sicht
 - Ggf. Vergleichs-Versuche
 
-## 5) Pruefungs-Bericht § 202 AO
+## 5) Prüfungs-Bericht § 202 AO
 
 ### Inhalt
 
 - Feststellungen
 - Steuerliche Folgen
-- Begruendung
+- Begründung
 
 ### Folge-Bescheid
 
@@ -88,19 +88,19 @@ Begleitung Aussenpruefung beim Mandanten.
 
 ## 6) Workflow
 
-### Phase 1 — Pruefungs-Anordnung
+### Phase 1 — Prüfungs-Anordnung
 
-- Pruefen ob anfechtbar
+- Prüfen ob anfechtbar
 - Vorbereitung Unterlagen
 - Schwerpunkt-Themen identifizieren
 
-### Phase 2 — Pruefer-Besuch
+### Phase 2 — Prüfer-Besuch
 
 - Empfang, Raum-Vorbereitung
-- Erste Gespraeche begleiten
+- Erste Gespräche begleiten
 - Tagliche Berichts-Linie zwischen Anwalt und Mandant
 
-### Phase 3 — Pruefer-Anfragen
+### Phase 3 — Prüfer-Anfragen
 
 - Antworten in Schriftform
 - Bei strittigen Fragen: Bedenkzeit
@@ -109,35 +109,35 @@ Begleitung Aussenpruefung beim Mandanten.
 ### Phase 4 — Schlussbesprechung
 
 - Mit Anwalt
-- Vergleichs-Bereitschaft pruefen
+- Vergleichs-Bereitschaft prüfen
 - Klare Stellungnahme
 
 ### Phase 5 — Bescheid
 
 - Bei nachteiligem Bescheid: **Einspruch binnen 1 Monat**
-- Bei FA-Schweigen 6 Monate: Untaetigkeitsklage
+- Bei FA-Schweigen 6 Monate: Untätigkeitsklage
 
 ## 7) Sondersituationen
 
 ### Steuerstrafverfahren-Verdacht
 
-- Pruefer informiert Steuerfahndung
+- Prüfer informiert Steuerfahndung
 - Selbstbelastungs-Verbot
 - Anwalt-Strafverteidigung dringend
 
-### Schaetzung § 162 AO
+### Schätzung § 162 AO
 
 - Bei mangelnder Mitwirkung
-- Schaetzungs-Befugnis FA weit
+- Schätzungs-Befugnis FA weit
 - Anfechtungs-Strategie: Konkrete Daten nachreichen
 
 ## 8) Typische Fehler
 
-1. **Pruefer-Beziehung schaedigend** -> spaetere Pruefungen schwierig
-2. **Mitwirkung verweigert** -> Schaetzung droht
+1. **Prüfer-Beziehung schaedigend** -> spätere Prüfungen schwierig
+2. **Mitwirkung verweigert** -> Schätzung droht
 3. **Schlussbesprechung ohne Anwalt** -> wichtige Fehler
 4. **Einspruchsfrist verpasst**
-5. **Tatsaechliche Verstaendigung schlecht dokumentiert**
+5. **Tatsächliche Verständigung schlecht dokumentiert**
 
 ## 9) BFH-/BGH-Linien
 

@@ -15,12 +15,12 @@ description: Orientierung im Transport- und Speditionsrecht — FAO Voraussetzun
 | Bereich | Norm |
 |---|---|
 | Frachtvertrag | HGB §§ 407 ff. |
-| Haftung Frachtfuehrer | HGB §§ 425 ff. (Obhutshaftung Haftungshöchstbetrag § 431) |
+| Haftung Frachtführer | HGB §§ 425 ff. (Obhutshaftung Haftungshöchstbetrag § 431) |
 | Speditionsvertrag | HGB §§ 453 ff. |
 | Lagervertrag | HGB §§ 467 ff. |
 | Straßenverkehr international | CMR (Convention relative au contrat de transport international de marchandises par Route) |
 | Eisenbahn international | COTIF / CIM (Convention concernant les transports internationaux ferroviaires) |
-| Luftverkehr | Montrealer Uebereinkommen 1999 |
+| Luftverkehr | Montrealer Übereinkommen 1999 |
 | Seehandel | Haager Visby Regeln BGB-HGB §§ 476 ff. Hamburg-Regeln (nicht in Deutschland in Kraft) |
 | Multimodaler Transport | CMR / CIM in Anwendung |
 | AGB Spedition | ADSp 2017 |
@@ -30,11 +30,11 @@ description: Orientierung im Transport- und Speditionsrecht — FAO Voraussetzun
 
 - Frachtschadens-Klage (Verlust Beschädigung Verspätung)
 - Spediteurshaftung
-- Haftungshöchstgrenzen § 431 HGB CMR Art. 23 Montrealer Uebereinkommen Art. 22
+- Haftungshöchstgrenzen § 431 HGB CMR Art. 23 Montrealer Übereinkommen Art. 22
 - Reklamations- und Klagefristen
 - ADSp-Anwendung (Spediteursklauseln)
 - Container-Streitigkeiten in Seehandel
-- Pflichtversicherung Kraftverkehr Spediteur Frachtfuehrer
+- Pflichtversicherung Kraftverkehr Spediteur Frachtführer
 - Internationale Vollstreckung
 
 ## Fristen

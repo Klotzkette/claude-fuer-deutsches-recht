@@ -16,16 +16,16 @@ Die Teilnehmenden koennen am Ende
 3. die einschlaegigen Anspruchsgrundlagen identifizieren,
 4. CISG- und IPR-Probleme erkennen,
 5. einen Beweisbeschluss vorbereiten,
-6. eine Beweiswuerdigung schreiben (mit Eigenanteil),
-7. Tenor, Tatbestand und Entscheidungsgruende formulieren,
-8. ein vollstaendiges Urteil im offiziellen Layout ausgeben.
+6. eine Beweiswürdigung schreiben (mit Eigenanteil),
+7. Tenor, Tatbestand und Entscheidungsgründe formulieren,
+8. ein vollständiges Urteil im offiziellen Layout ausgeben.
 
 ## Eintagesschulung
 
 | Block | Skills |
 | --- | --- |
 | Akteintake und Relation | `aktenintake-zivil`, `relation-zivil`, optional `vollrelation-langfassung` |
-| Zulaessigkeit und Anspruchsgrundlagen | `zulaessigkeit-pruefen`, `anspruchsgrundlagen-pruefen` |
+| Zulässigkeit und Anspruchsgrundlagen | `zulaessigkeit-pruefen`, `anspruchsgrundlagen-pruefen` |
 | Internationales | `internationales-privatrecht`, `cisg-pruefen`, `kollidierende-agb-pruefen`, `incoterms-und-gefahruebergang` |
 | Beweis | `beweisbeschluss-vorbereiten`, `beweiswuerdigung-mit-richter-input` |
 | Urteil schreiben | `tenor-bauen-zivil`, `tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben` |
@@ -36,11 +36,11 @@ Die Teilnehmenden koennen am Ende
 ## Zweitagesschulung
 
 Tag 1 wie oben. Tag 2 vertieft die Schulungsakte `testakten/solis-vision-x-smartglasses/`:
-- Vormittag: kollidierende AGB Schweizer Recht und EU-Recht; CISG-Anwendbarkeit ohne und mit ordnungsgemaessem Ausschluss
+- Vormittag: kollidierende AGB Schweizer Recht und EU-Recht; CISG-Anwendbarkeit ohne und mit ordnungsgemäßem Ausschluss
 - Mittag: DSGVO als Eingriffsnorm und Auswirkung auf den Sachmangel
-- Nachmittag: Beweiswuerdigung des Gutachtens; Schreiben des Urteilstenors und der Entscheidungsgruende; Render des DOCX
+- Nachmittag: Beweiswürdigung des Gutachtens; Schreiben des Urteilstenors und der Entscheidungsgründe; Render des DOCX
 
-## Hinweis zur Pruefungstaeuschung
+## Hinweis zur Prüfungstaeuschung
 
 Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier ausgegebenen Relationen und Urteilsentwuerfe duerfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Es handelt sich um Schulungs- und Praxismaterial; die Eigenleistung der Teilnehmer/-innen ist nicht verzichtbar.
 
@@ -49,7 +49,7 @@ Im Trainerleitfaden zu Beginn jeder Schulung den Hinweis mitgeben: **Die hier au
 Am Anfang **immer** vier Wahlfragen stellen:
 
 1. **Relations-Stil**: Vollrelation Schulstandard (mit `vollrelation-langfassung`) oder Kurzrelation Praxisstandard (nur `relation-zivil`)?
-2. **Dokumenttyp**: Urteil Versaeumnisurteil oder Beschluss?
+2. **Dokumenttyp**: Urteil Versäumnisurteil oder Beschluss?
 3. **Ausgabeformat**: nur DOCX oder DOCX und PDF?
 4. **Tenor-Variante**: Soll die wahrscheinliche Variante (A B oder C aus der Tenorierungsstation) gerendert werden oder eine bestimmte Variante?
 
@@ -57,9 +57,9 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 
 ## Lernfallen in der Schulungsakte
 
-1. Klaeger glaubt, deutsches Recht gelte - die AGB der Beklagten verweisen aber auf Schweizer Recht.
+1. Kläger glaubt, deutsches Recht gelte - die AGB der Beklagten verweisen aber auf Schweizer Recht.
 2. Beide AGB kollidieren - Knock-out Doktrin greift.
-3. CISG ist anwendbar, auch ohne ausdruecklichen Ausschluss in beiden AGB.
-4. Incoterm FOB Galway - Gefahruebergang dort, also vor Eintritt in die EU - aber DSGVO greift trotzdem nach Art. 3 II DSGVO.
+3. CISG ist anwendbar, auch ohne ausdrücklichen Ausschluss in beiden AGB.
+4. Incoterm FOB Galway - Gefahrübergang dort, also vor Eintritt in die EU - aber DSGVO greift trotzdem nach Art. 3 II DSGVO.
 5. Streitwert 1577 EUR - sachlich zustaendig AG nach Paragraf 23 Nr. 1 GVG.
-6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR fuer Beklagte) - der Klaeger hat aber Beschwer ueber 600 EUR, also Berufung statthaft.
+6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR für Beklagte) - der Kläger hat aber Beschwer über 600 EUR, also Berufung statthaft.

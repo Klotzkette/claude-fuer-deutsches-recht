@@ -5,11 +5,11 @@ description: "Pruefraster gegen Goldplating bei nationaler Umsetzung von EU-Rech
 
 # Goldplating vermeiden
 
-> "Eine deutsche Eichenholz-Tuer da, wo eine Wellblech-Tuer der EU genuegt haette."
+> "Eine deutsche Eichenholz-Tür da, wo eine Wellblech-Tür der EU genuegt hätte."
 
 ## Was ist Goldplating?
 
-Eine nationale Regelung, die ueber den Mindeststandard einer EU-Richtlinie hinausgeht. Es ist nicht per se unzulaessig, aber:
+Eine nationale Regelung, die über den Mindeststandard einer EU-Richtlinie hinausgeht. Es ist nicht per se unzulaessig, aber:
 
 - Politisch verpflichtet sich die Bundesregierung (seit 2014) zur "1 zu 1 Umsetzung"
 - Goldplating belastet Wirtschaft und Verwaltung ohne EU-Vorgabe
@@ -17,11 +17,11 @@ Eine nationale Regelung, die ueber den Mindeststandard einer EU-Richtlinie hinau
 
 ## Wann ist Abweichung legitim?
 
-- Verbraucherschutz: hoeheres Schutzniveau ist meist EU-rechtlich ausdruecklich erlaubt
-- Datenschutz: DSGVO erlaubt teilweise Oeffnungsklauseln fuer schaerferes Recht
-- Politische Entscheidung des Gesetzgebers: muss dann aber begruendet werden
+- Verbraucherschutz: höheres Schutzniveau ist meist EU-rechtlich ausdruecklich erlaubt
+- Datenschutz: DSGVO erlaubt teilweise Oeffnungsklauseln für schaerferes Recht
+- Politische Entscheidung des Gesetzgebers: muss dann aber begründet werden
 
-## Pruefverfahren
+## Prüfverfahren
 
 ### Schritt 1 - Pflicht-Anteil ermitteln
 
@@ -31,19 +31,19 @@ Was muss die RL mindestens umgesetzt werden?
 
 Welche Optionen laesst die RL? Welche Oeffnungsklauseln?
 
-### Schritt 3 - Nationaler Entwurf - was geht darueber hinaus?
+### Schritt 3 - Nationaler Entwurf - was geht darüber hinaus?
 
 Tabelle:
 
-| RL-Vorgabe | Entwurf | Abweichung | Begruendung | Bewertung |
+| RL-Vorgabe | Entwurf | Abweichung | Begründung | Bewertung |
 |---|---|---|---|---|
 | Art. 5 RL: Pflicht ab 50 MA | Pflicht ab 10 MA | strenger | Soziales Anliegen | gewollt |
 | Art. 7 RL: Frist 30 Tage | Frist 14 Tage | strenger | Mandantenschutz | gewollt |
-| - | Bussgeld 5000 EUR | nationale Sanktion | erforderlich fuer Vollzug | OK |
+| - | Bußgeld 5000 EUR | nationale Sanktion | erforderlich für Vollzug | OK |
 
-### Schritt 4 - Notwendigkeit pruefen
+### Schritt 4 - Notwendigkeit prüfen
 
-Pro Abweichung: notwendig fuer die Funktion der nationalen Rechtsordnung? Oder Versehen?
+Pro Abweichung: notwendig für die Funktion der nationalen Rechtsordnung? Oder Versehen?
 
 ## Sonderfall vollharmonisierende RL
 

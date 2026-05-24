@@ -7,7 +7,7 @@ description: Abschliessende Selbstdokumentation der Fortbestehensprognose zum ko
 
 ## Zweck
 
-Die Fortbestehensprognose ist Beweisstueck. Bei späterer Insolvenz wird genau geprüft ob der Geschäftsleiter zum Stichtag der Erstellung **objektiv** eine positive Prognose annehmen durfte. Diese Dokumentation muss als Beweis dienen können.
+Die Fortbestehensprognose ist Beweisstück. Bei späterer Insolvenz wird genau geprüft ob der Geschäftsleiter zum Stichtag der Erstellung **objektiv** eine positive Prognose annehmen durfte. Diese Dokumentation muss als Beweis dienen können.
 
 ## Pflichtinhalte
 
@@ -146,7 +146,7 @@ ANLAGEN
 
 - Original mit allen Anlagen in der Geschäftsleitungsakte.
 - Kopie an Steuerberater und Insolvenzanwalt (falls eingebunden).
-- Aufbewahrung mindestens **zehn Jahre** (Anlehnung an § 257 HGB Buchfuehrungspflicht und ggf. § 147 AO).
+- Aufbewahrung mindestens **zehn Jahre** (Anlehnung an § 257 HGB Buchführungspflicht und ggf. § 147 AO).
 
 ## Bei späterer Insolvenz
 
@@ -159,7 +159,7 @@ Diese Dokumentation ist Beweis dass der Geschäftsleiter zum Stichtag eine **obj
 
 ## Bei aktualisierter Prognose
 
-Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben und mit Stichtag-Vermerk archivieren. Die aktuelle Version bleibt federfuehrend.
+Wenn die Prognose vierteljaehrlich aktualisiert wird, alte Prognosen aufheben und mit Stichtag-Vermerk archivieren. Die aktuelle Version bleibt federführend.
 
 ## Ausgabe
 

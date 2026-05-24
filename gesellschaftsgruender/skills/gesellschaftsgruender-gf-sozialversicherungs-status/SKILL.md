@@ -3,31 +3,31 @@ name: gesellschaftsgruender-gf-sozialversicherungs-status
 description: "Sozialversicherungs-Status des Geschaeftsfuehrers. Fremd-GF sozialversicherungspflichtig. Gesellschafter-GF Mehrheits-Beteiligung typisch frei Minderheits-Beteiligung typisch pflichtig. Sperrminoritaet ueber Sondervetorecht. Statusfeststellung Paragraf 7a SGB IV. BSG-Linie zur Weisungsfreiheit. Konsequenzen rueckwirkende Beitragsforderung."
 ---
 
-# Sozialversicherungs-Status des Geschaeftsfuehrers
+# Sozialversicherungs-Status des Geschäftsführers
 
 ## Zweck
 
-Bei jedem Geschaeftsfuehrer ist zu klaeren, ob er **sozialversicherungspflichtig** ist (Renten-, Arbeitslosen-, Kranken-, Pflegeversicherung). Bei falscher Annahme drohen rueckwirkende Beitragsforderungen ueber 4 Jahre (Paragraf 25 SGB IV) — fuer Gesellschaft und Geschaeftsfuehrer empfindlich.
+Bei jedem Geschäftsführer ist zu klären, ob er **sozialversicherungspflichtig** ist (Renten-, Arbeitslosen-, Kranken-, Pflegeversicherung). Bei falscher Annahme drohen rueckwirkende Beitragsforderungen über 4 Jahre (Paragraf 25 SGB IV) — für Gesellschaft und Geschäftsführer empfindlich.
 
 ## 1) Grundsatz
 
 ### Sozialversicherungspflicht
 
-- Pflicht entsteht bei **abhaengiger Beschaeftigung** (Paragraf 7 SGB IV)
+- Pflicht entsteht bei **abhängiger Beschaeftigung** (Paragraf 7 SGB IV)
 - Wesentliche Merkmale:
-  - Weisungsabhaengigkeit
+  - Weisungsabhängigkeit
   - Eingliederung in fremde Betriebsorganisation
   - Kein wesentliches unternehmerisches Risiko
   - Kein eigenes Kapital im Spiel
 
 ### Sozialversicherungsfrei
 
-- **Selbststaendige Taetigkeit**
+- **Selbstständige Tätigkeit**
 - Wesentliche Merkmale:
   - Weisungsfreiheit
   - Eigenes unternehmerisches Risiko
   - Eigenes Kapital eingebracht
-  - Selbstaendige Geschaeftsausuebung
+  - Selbständige Geschäftsausübung
 
 ## 2) BSG-Linie
 
@@ -40,46 +40,46 @@ Bei jedem Geschaeftsfuehrer ist zu klaeren, ob er **sozialversicherungspflichtig
 
 - **Meist sozialversicherungsfrei**
 - BSG NJW 2012, 2310 / BSG SGb 2018, 612
-- Voraussetzung: Mehrheit beschluesst Geschaeftsfuehrer-Anweisungen — Mehrheits-GF kann sich nicht selbst weisen
+- Voraussetzung: Mehrheit beschluesst Geschäftsführer-Anweisungen — Mehrheits-GF kann sich nicht selbst weisen
 
 ### Bei 50 %-Gesellschafter-GF
 
 - **Strittig**
-- Bei zustaendigem Sondervetorecht ueber Beschluesse: meist sozialversicherungsfrei
+- Bei zuständigem Sondervetorecht über Beschlüsse: meist sozialversicherungsfrei
 - Sonst: sozialversicherungspflichtig
 - BSG NJW 2017, 1056
 
 ### Bei Minderheits-Gesellschafter-GF (< 50 %)
 
 - **Meist sozialversicherungspflichtig**
-- Ausnahme: **Sperrminoritaet ueber Sondervetorecht** oder **gesellschaftsvertragliche Vereinbarung der Weisungsfreiheit**
+- Ausnahme: **Sperrminorität über Sondervetorecht** oder **gesellschaftsvertragliche Vereinbarung der Weisungsfreiheit**
 
 ### Bei Fremd-GF (kein Gesellschafter)
 
-- **Sozialversicherungspflichtig** (regelmaessig)
-- Status-Feststellung dennoch sinnvoll, da im Einzelfall Abweichungen moeglich
+- **Sozialversicherungspflichtig** (regelmäßig)
+- Status-Feststellung dennoch sinnvoll, da im Einzelfall Abweichungen möglich
 
 ## 3) Statusfeststellung Paragraf 7a SGB IV
 
 ### Was ist das
 
 - **Optionale, formelle Feststellung** des Status durch die Clearingstelle der Deutschen Rentenversicherung Bund
-- Bindend fuer alle Sozialversicherungstraeger (Krankenkasse, RV, AV, PV)
+- Bindend für alle Sozialversicherungsträger (Krankenkasse, RV, AV, PV)
 
 ### Wann beantragen
 
-- **Vor** Aufnahme der Taetigkeit empfohlen
+- **Vor** Aufnahme der Tätigkeit empfohlen
 - Bei jedem neuen GF
-- Bei Aenderung der Anteilshoehe
-- Bei Aenderung der Vetorechte / Stimmrechts-Struktur
+- Bei Änderung der Anteilshöhe
+- Bei Änderung der Vetorechte / Stimmrechts-Struktur
 
 ### Antrag
 
-- Online ueber Deutsche Rentenversicherung Bund
-- Formular V0027 (oder spezieller Antrag fuer GF)
+- Online über Deutsche Rentenversicherung Bund
+- Formular V0027 (oder spezieller Antrag für GF)
 - Beilagen:
   - Gesellschaftsvertrag
-  - Geschaeftsfuehrer-Anstellungsvertrag
+  - Geschäftsführer-Anstellungsvertrag
   - Beschluss zur Bestellung
   - Aktueller HR-Auszug
   - Gesellschafterliste
@@ -92,7 +92,7 @@ Bei jedem Geschaeftsfuehrer ist zu klaeren, ob er **sozialversicherungspflichtig
 ### Ergebnis
 
 - Schriftlicher Bescheid
-- Bindend gegenueber Sozialversicherungstraegern
+- Bindend gegenüber Sozialversicherungsträgern
 - Anfechtbar bei Ablehnung (Widerspruch -> Sozialgericht)
 
 ## 4) Kriterien-Katalog
@@ -100,13 +100,13 @@ Bei jedem Geschaeftsfuehrer ist zu klaeren, ob er **sozialversicherungspflichtig
 | Kriterium | spricht FUER Sozialversicherungspflicht | spricht GEGEN |
 |---|---|---|
 | Anteil < 25 % | + | - |
-| Anteil 25-50 % | + (eher) | - (bei Sperrminoritaet) |
+| Anteil 25-50 % | + (eher) | - (bei Sperrminorität) |
 | Anteil > 50 % | - | + |
 | Sondervetorecht | - | + |
 | Weisungs-Pflicht im Anstellungsvertrag | + | - |
 | Eigene Kapital-Risiko-Beteiligung | - | + |
-| Persoenliche Buergschaft fuer Verbindlichkeiten | - | + |
-| Familienangehoeriger im Mehrheitsbesitz | + | - |
+| Persönliche Bürgschaft für Verbindlichkeiten | - | + |
+| Familienangehöriger im Mehrheitsbesitz | + | - |
 
 ### Faustregel
 
@@ -115,10 +115,10 @@ Bei jedem Geschaeftsfuehrer ist zu klaeren, ob er **sozialversicherungspflichtig
 
 ## 5) Konsequenzen bei falscher Annahme
 
-### Bei rueckwirkender Pflichtigerklaerung
+### Bei rueckwirkender Pflichtigerklärung
 
 - **Beitragsforderung** bis 4 Jahre rueckwirkend (Paragraf 25 I SGB IV)
-- Bei vorsaetzlicher Hinterziehung: 30 Jahre (Paragraf 25 I 2 SGB IV)
+- Bei vorsätzlicher Hinterziehung: 30 Jahre (Paragraf 25 I 2 SGB IV)
 - **Saeumniszuschlag** 1 % pro Monat (Paragraf 24 SGB IV)
 
 ### Beispielrechnung
@@ -155,21 +155,21 @@ Im Gesellschaftsvertrag wird Folgendes festgelegt:
 
 ### BSG-Linie
 
-BSG NJW 2016, 1990 / BSG B 12 R 19/14: Eine Sperrminoritaet von 50 % oder mehr bei Mehrheitserfordernis schafft echte Mitbestimmung -> SV-frei. Bei einfacher Mehrheit aber Sperrminoritaet > 25 % alleine reicht nicht.
+BSG NJW 2016, 1990 / BSG B 12 R 19/14: Eine Sperrminorität von 50 % oder mehr bei Mehrheitserfordernis schafft echte Mitbestimmung -> SV-frei. Bei einfacher Mehrheit aber Sperrminorität > 25 % alleine reicht nicht.
 
 ## 7) Vermeidung haeufiger Fehler
 
 ### Familien-GmbH
 
 - Sehr haeufig: Vater Mehrheits-Gesellschafter, Sohn Minderheits-GF (25-49 %)
-- Sohn als GF aus dem Familien-Umfeld weisungsabhaengig
+- Sohn als GF aus dem Familien-Umfeld weisungsabhängig
 - **Empfehlung**: explizite Weisungsfreiheits-Klausel im Anstellungsvertrag, Sondervetorechte in Satzung
 
 ### Investor-Konstellation
 
-- Investor haelt 30 %, Gruender 70 %
-- Gruender ist GF — meist SV-frei
-- Bei spaeterer Verwaesserung auf < 50 %: SV-Status neu pruefen
+- Investor haelt 30 %, Gründer 70 %
+- Gründer ist GF — meist SV-frei
+- Bei späterer Verwässerung auf < 50 %: SV-Status neu prüfen
 
 ### Sole-Gesellschafter-GF
 
@@ -214,24 +214,24 @@ BSG NJW 2016, 1990 / BSG B 12 R 19/14: Eine Sperrminoritaet von 50 % oder mehr b
 
 - Pflicht zur Krankenversicherung (Paragraf 193 III VVG)
 - PKV oder freiwillige GKV
-- Aufnahme-Voraussetzungen pruefen (Gesundheitspruefung)
+- Aufnahme-Voraussetzungen prüfen (Gesundheitsprüfung)
 
 ### Rentenversicherung
 
-- Freiwillige Versicherung in der DRV moeglich
+- Freiwillige Versicherung in der DRV möglich
 - Alternativ: privater Aufbau (Riester, Ruerup, betriebliche Altersversorgung)
 
 ### Arbeitslosen-Versicherung
 
-- Freiwillig moeglich (Paragraf 28a SGB III)
-- Bei Existenzgruendern empfohlen
-- Antrag bei Bundesagentur fuer Arbeit binnen 3 Monaten nach Aufnahme
+- Freiwillig möglich (Paragraf 28a SGB III)
+- Bei Existenzgründern empfohlen
+- Antrag bei Bundesagentur für Arbeit binnen 3 Monaten nach Aufnahme
 
 ## 10) Praktische Empfehlung
 
 - **Statusfeststellung Paragraf 7a SGB IV** bei jedem neuen GF — auch wenn „klar" SV-frei
-- **Wenn SV-Status erst spaeter geklaert wird**: rueckwirkende Forderung droht
-- **Bei strukturellen Aenderungen** (Anteilswechsel, neue Vetorechte): erneute Pruefung
+- **Wenn SV-Status erst später geklärt wird**: rueckwirkende Forderung droht
+- **Bei strukturellen Änderungen** (Anteilswechsel, neue Vetorechte): erneute Prüfung
 - **Anstellungsvertrag** klar formulieren: Weisungsfreiheit, eigene Verantwortung
 - **D&O-Versicherung** ungeachtet SV-Status
 
@@ -239,5 +239,5 @@ BSG NJW 2016, 1990 / BSG B 12 R 19/14: Eine Sperrminoritaet von 50 % oder mehr b
 
 - `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag
 - `gesellschaftsgruender-share-classes-a-b-c` — Stimmrechts-Klassen
-- `gesellschaftsgruender-golden-share-und-vetorechte` — Vetorechte fuer SV-Status
+- `gesellschaftsgruender-golden-share-und-vetorechte` — Vetorechte für SV-Status
 - `kanzlei-allgemein-lohn-sv` — laufende SV-Abwicklung

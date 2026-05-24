@@ -7,40 +7,40 @@ description: "HOAI-Honorar nach EuGH C-377/17 Vossloh und BGH VII ZR 174/19 Mind
 
 ## Zweck
 
-Architektenhonorar berechnen, pruefen und durchsetzen — nach dem EuGH-Urteil zur Unwirksamkeit der Mindestsaetze.
+Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil zur Unwirksamkeit der Mindestsätze.
 
 ## 1) Eingangs-Abfrage
 
 1. Wann wurde der Architektenvertrag geschlossen (vor/nach 1.1.2021)?
 2. Schriftlicher Architektenvertrag mit Honorar-Vereinbarung?
-3. Leistungsbild (Objektplanung Gebaeude, Tragwerksplanung, TGA)?
+3. Leistungsbild (Objektplanung Gebäude, Tragwerksplanung, TGA)?
 4. Anrechenbare Kosten / Bausumme?
 5. Schlussrechnung erstellt?
 6. AG-Einwendungen?
 
 ## 2) EuGH-Urteil C-377/17 (Vossloh, 2019)
 
-> „Die deutschen Mindest- und Hoechstsaetze der HOAI verstossen gegen die Dienstleistungs-Richtlinie."
+> „Die deutschen Mindest- und Hoechstsätze der HOAI verstoßen gegen die Dienstleistungs-Richtlinie."
 
 ### Folgen
 
-- Mindestsaetze HOAI 2013 / HOAI 2021 **nicht mehr bindend**
-- BGH, Urt. v. 2.6.2022 — VII ZR 174/19: Auch fuer Altvertraege keine Bindung
+- Mindestsätze HOAI 2013 / HOAI 2021 **nicht mehr bindend**
+- BGH, Urt. v. 2.6.2022 — VII ZR 174/19: Auch für Altverträge keine Bindung
 - Frei vereinbarte Honorare wirksam
 - HOAI gilt als **Orientierungshilfe**, nicht als Pflicht
 
 ## 3) HOAI 2021 — Struktur
 
-### Wesentliche Aenderungen
+### Wesentliche Änderungen
 
-- Mindest- und Hoechstsaetze als „Orientierungsrahmen"
-- Schriftform-Erfordernis fuer Honorar **nicht mehr** zwingend (§ 7 I HOAI 2021)
-- Bei fehlender Vereinbarung: **Basishonorarsatz** als „uebliche Vergueutung" § 632 BGB
+- Mindest- und Hoechstsätze als „Orientierungsrahmen"
+- Schriftform-Erfordernis für Honorar **nicht mehr** zwingend (§ 7 I HOAI 2021)
+- Bei fehlender Vereinbarung: **Basishonorarsatz** als „übliche Vergütung" § 632 BGB
 
 ### Leistungsbilder
 
-- Objektplanung Gebaeude § 34 HOAI
-- Objektplanung Innenraeume § 34 HOAI
+- Objektplanung Gebäude § 34 HOAI
+- Objektplanung Innenräume § 34 HOAI
 - Objektplanung Freianlagen § 38 HOAI
 - Objektplanung Ingenieurbau § 43 HOAI
 - Tragwerksplanung § 49 HOAI
@@ -54,10 +54,10 @@ Architektenhonorar berechnen, pruefen und durchsetzen — nach dem EuGH-Urteil z
 | 2 | Vorplanung | 7 % |
 | 3 | Entwurfsplanung | 15 % |
 | 4 | Genehmigungsplanung | 3 % |
-| 5 | Ausfuehrungsplanung | 25 % |
+| 5 | Ausführungsplanung | 25 % |
 | 6 | Vorbereitung Vergabe | 10 % |
 | 7 | Mitwirkung Vergabe | 4 % |
-| 8 | Objektueberwachung | 32 % |
+| 8 | Objektüberwachung | 32 % |
 | 9 | Objektbetreuung | 2 % |
 
 ## 4) Honorar-Berechnung
@@ -65,7 +65,7 @@ Architektenhonorar berechnen, pruefen und durchsetzen — nach dem EuGH-Urteil z
 ### Anrechenbare Kosten
 
 - KG 300-400 nach DIN 276
-- KG 200 (Herrichten + Erschliessen) anteilig
+- KG 200 (Herrichten + Erschließen) anteilig
 - Nebenkosten / mwst gesondert
 
 ### Honorar-Zone
@@ -82,22 +82,22 @@ Architektenhonorar berechnen, pruefen und durchsetzen — nach dem EuGH-Urteil z
 
 ### Pflicht-Inhalt
 
-- Vollstaendige Aufstellung Leistungsphasen
+- Vollständige Aufstellung Leistungsphasen
 - Anrechenbare Kosten dargelegt
-- Honorar-Zone begruendet
+- Honorar-Zone begründet
 - Multiplikator nachvollziehbar
 - Nebenkosten getrennt
 
 ### Bei Pruefbarkeits-Mangel
 
-- Faelligkeit nicht eingetreten -> keine Verzugszinsen
+- Fälligkeit nicht eingetreten -> keine Verzugszinsen
 - Aufforderung zur Pruefbarmachung
-- Bei laufender Verjaehrungsfrist: Hemmung pruefen
+- Bei laufender Verjaehrungsfrist: Hemmung prüfen
 
 ### Frist zur Pruefbarmachung
 
 - AG muss Pruefbarkeit innerhalb **2 Monaten** ruegen (BGH VII ZR 89/22)
-- Nach Schweigen Faelligkeit fingiert
+- Nach Schweigen Fälligkeit fingiert
 
 ## 6) Architektenvertrag § 650p ff. BGB
 
@@ -115,20 +115,20 @@ Architektenhonorar berechnen, pruefen und durchsetzen — nach dem EuGH-Urteil z
 
 ## 7) AN-Strategie (Honorar-Klage)
 
-### Schritt 1 — Schlussrechnung pruefbar
+### Schritt 1 — Schlussrechnung prüfbar
 
-- Vollstaendige Aufstellung
+- Vollständige Aufstellung
 - Anrechenbare Kosten detailliert
 
-### Schritt 2 — Faelligkeit
+### Schritt 2 — Fälligkeit
 
 - 30 Tage Zahlungsziel
-- Verzug ohne Mahnung bei Faelligkeit
+- Verzug ohne Mahnung bei Fälligkeit
 
 ### Schritt 3 — Klage
 
 - LG / AG nach Streitwert
-- Beweissicherung: Vertrag, Leistungs-Nachweise, Schluss-Plaene
+- Beweissicherung: Vertrag, Leistungs-Nachweise, Schluss-Pläne
 
 ## 8) AG-Strategie (Honorar-Verteidigung)
 
@@ -139,17 +139,17 @@ Architektenhonorar berechnen, pruefen und durchsetzen — nach dem EuGH-Urteil z
 ### Schritt 2 — Mangel-Einrede
 
 - Bei Planungsmangel: Aufrechnung / Zurueckbehalt
-- Sachverstaendigen-Gutachten
+- Sachverständigen-Gutachten
 
 ### Schritt 3 — Honorar-Reduzierung
 
-- Bei nicht vollstaendiger Leistungsphase
+- Bei nicht vollständiger Leistungsphase
 - Bei nicht erbrachten Teil-Leistungen
 
 ## 9) Typische Fehler
 
-1. **Mindestsaetze als bindend angesehen** (nach EuGH-Urteil)
-2. **Pruefbarkeit-Ruege uebersehen** -> Faelligkeit fingiert
+1. **Mindestsätze als bindend angesehen** (nach EuGH-Urteil)
+2. **Pruefbarkeit-Ruege übersehen** -> Fälligkeit fingiert
 3. **Verbraucher-Architektenvertrag ohne Pflicht-Inhalt** -> nichtig
 4. **Anrechenbare Kosten nicht dokumentiert** -> Pruefbarkeit
 5. **LPH-Erbringung nicht nachweisbar** -> Honorar-Reduzierung
@@ -163,5 +163,5 @@ Architektenhonorar berechnen, pruefen und durchsetzen — nach dem EuGH-Urteil z
 ## Anschluss
 
 - `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Bau-Mangel
-- `werkmangel-vob-bgb-pruefen` — Mangel-Pruefraster
+- `werkmangel-vob-bgb-pruefen` — Mangel-Prüfraster
 - `vertragsausfueller` — bei Architektenvertrag-Erstellung

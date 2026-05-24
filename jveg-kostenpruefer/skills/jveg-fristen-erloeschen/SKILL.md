@@ -3,7 +3,7 @@ name: jveg-fristen-erloeschen
 description: "Prüft Geltendmachung, Drei-Monats-Frist, Belehrung, Wiedereinsetzung, Verjährung und sichere Fristennotizen."
 ---
 
-# JVEG Fristen Erloeschen
+# JVEG Fristen Erlöschen
 
 ## Aufgabe
 

@@ -23,7 +23,7 @@ Rechtssicherheit bei steuerlich heiklen Sachverhalten **vor** Verwirklichung.
 - Internationale Konstruktion
 - Verkauf mit Steuer-Optimierung
 
-## 2) Gebuehrenpflicht
+## 2) Gebührenpflicht
 
 - Ab 30 K Gegenstandswert: gestaffelte Gebuehr
 - Maximal ca. 110.000 EUR
@@ -34,7 +34,7 @@ Rechtssicherheit bei steuerlich heiklen Sachverhalten **vor** Verwirklichung.
 ### Positive Bindung
 
 - Finanzamt bindet sich
-- Bei spaeterer Pruefung: Auskunfts-Sachverhalt nicht anders beurteilen
+- Bei späterer Prüfung: Auskunfts-Sachverhalt nicht anders beurteilen
 
 ### Grenze
 
@@ -48,25 +48,25 @@ Rechtssicherheit bei steuerlich heiklen Sachverhalten **vor** Verwirklichung.
 - Sachverhalt detailliert
 - Eigene Beurteilung
 - Konkrete Rechts-Frage
-- Begruendung fuer besonderes Interesse
+- Begründung für besonderes Interesse
 
 ### Anlagen
 
 - Vertrags-Entwuerfe
-- Gesellschafter-Beschluesse
+- Gesellschafter-Beschlüsse
 - Bilanz-Auszuege
 
 ## 5) Workflow
 
 ### Phase 1 — Sachverhalts-Aufnahme
 
-- Vollstaendige Erfassung
-- Variant-Pruefung (mit/ohne Massnahme)
+- Vollständige Erfassung
+- Variant-Prüfung (mit/ohne Maßnahme)
 - Steuer-Berechnung
 
 ### Phase 2 — Antrag
 
-- Schriftlich beim zustaendigen Finanzamt
+- Schriftlich beim zuständigen Finanzamt
 - Frist-Bestimmung (typisch 6 Monate Bearbeitung)
 - Gebuehr-Vorauszahlung
 
@@ -87,7 +87,7 @@ Rechtssicherheit bei steuerlich heiklen Sachverhalten **vor** Verwirklichung.
 
 - Rechts-Sicherheit
 - Bei BFH-Anfechtung: hoher Beweiswert
-- Bei Investoren-Pruefung: Sicherheits-Plus
+- Bei Investoren-Prüfung: Sicherheits-Plus
 
 ### Contra
 
@@ -103,18 +103,18 @@ Rechtssicherheit bei steuerlich heiklen Sachverhalten **vor** Verwirklichung.
 
 ## 7) Typische Fehler
 
-1. **Sachverhalt nicht vollstaendig** -> Bindungs-Verlust
+1. **Sachverhalt nicht vollständig** -> Bindungs-Verlust
 2. **Sachverhalt schon verwirklicht** -> Antrag unzulaessig
 3. **Konkrete Rechts-Frage fehlt** -> Antrag pauschal
-4. **Gebuehr-Vorauszahlung versaeumt**
+4. **Gebuehr-Vorauszahlung versäumt**
 
 ## 8) BFH-Linien
 
 - BFH, Urt. v. 9.10.2013 — IX R 12/14 (Bindung Reichweite)
-- BFH, Urt. v. 18.2.2014 — V R 19/13 (Sachverhalts-Identitaet)
+- BFH, Urt. v. 18.2.2014 — V R 19/13 (Sachverhalts-Identität)
 
 ## Anschluss
 
 - `fachanwalt-steuerrecht-selbstanzeige-371-ao` — bei nachtraeglichem Bezug
-- `fachanwalt-steuerrecht-aussenpruefung-strategien` — bei Pruefung
+- `fachanwalt-steuerrecht-aussenpruefung-strategien` — bei Prüfung
 - `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` — bei Holding

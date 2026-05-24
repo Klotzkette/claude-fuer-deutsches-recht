@@ -64,7 +64,7 @@ Haben:
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Buchhaltung bucht Darlehen erst nach Fälligkeit aus | Bilanzunklarheit | Buchung verzögert | Buchung zeitnah mit Eintragung |
 | Steuerberater nicht informiert | Steuerliche Risiken unerkannt | Informiert nach HR-Eintragung | Sofort informiert |

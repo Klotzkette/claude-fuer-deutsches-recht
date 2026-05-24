@@ -63,7 +63,7 @@ Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierunge
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Einstufige Abtretung ohne Beurkundung | Vertrag formnichtig § 125 BGB | Unsicherheit über Konstruktion | Zweistufige Kapitalerhöhung |
 | Term Sheet mit Anteilsabtretung | Formverstoß | Term Sheet unklar | Term Sheet ohne Abtretung |

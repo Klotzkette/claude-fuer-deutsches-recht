@@ -17,7 +17,7 @@ description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen No
 | Urheberrecht | UrhG §§ 1 ff. (Schutz Werk) §§ 15 ff. (Verwertungsrechte) §§ 31 ff. (Nutzungsrechte) §§ 44a ff. (Schranken) §§ 51 ff. (Zitat) §§ 87a ff. (Datenbanken) §§ 95a ff. (Technische Schutzmaßnahmen) |
 | Verwertungsgesellschaften | VGG |
 | Recht am eigenen Bild | §§ 22 23 KUG (KunsturhG) |
-| Persoenlichkeitsrecht | Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG §§ 823 1004 BGB |
+| Persönlichkeitsrecht | Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG §§ 823 1004 BGB |
 | Pressefreiheit | Art. 5 GG Landespresse-Gesetze |
 | Rundfunk und Medien | MedienStV (Medienstaatsvertrag) Rundfunkstaatsvertrag a.F. |
 | Markenrecht | siehe gewerblicher-rechtsschutz |
@@ -30,7 +30,7 @@ description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen No
 - Verlagsverträge (siehe verlagsredaktion)
 - Pressefreiheit und Gegendarstellung
 - Recht am eigenen Bild bei Bildveröffentlichung
-- Persoenlichkeitsrecht und Äußerungsrecht
+- Persönlichkeitsrecht und Äußerungsrecht
 - Onlineplattformhaftung DSA / DDG (NetzDG überwiegend außer Kraft seit 14.05.2024 durch Digitale-Dienste-Gesetz — Restvorschriften für Altfälle/Bußgeldverfahren vor 17.02.2024 bestehen fort)
 - Rundfunkrecht und Streaming
 
@@ -40,7 +40,7 @@ description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen No
 - **Verwirkung** im Einzelfall.
 - **Strafrechtliche Verjährung Urheberrecht** §§ 106 ff. UrhG iVm StGB.
 - **Pressrechtliche Gegendarstellung** zwei bis drei Wochen ab Kenntnis (Landespressegesetze).
-- **Eilrechtsschutz** einstweilige Verfügung — zuegig nach Kenntnis (Verfügungsgrund Eilbeduerfnis).
+- **Eilrechtsschutz** einstweilige Verfügung — zuegig nach Kenntnis (Verfügungsgrund Eilbedürfnis).
 
 ## Hauptgerichte
 

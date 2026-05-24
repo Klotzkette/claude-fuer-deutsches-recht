@@ -44,12 +44,12 @@ Standardliteratur: Geigel Der Haftpflichtprozess; Himmelreich/Halm Handbuch des 
 |---|---|---|
 | Reparaturkosten netto | § 249 Abs. 2 Satz 1 BGB | SV-Gutachten oder Rechnung |
 | Wertminderung | § 251 BGB | SV-Gutachten |
-| Sachverstaendigenkosten | § 249 BGB | Rechnung SV |
+| Sachverständigenkosten | § 249 BGB | Rechnung SV |
 | Abschleppkosten | § 249 BGB | Rechnung |
 | Mietwagenkosten | § 249 BGB | Rechnung Mietwagen |
 | Nutzungsausfall | § 251 BGB | Sanden/Danner Tabelle |
-| Unkostenpauschale | § 249 BGB Schaetzung | 25-30 EUR |
-| Schmerzensgeld | § 253 Abs. 2 BGB | aerztliche Atteste |
+| Unkostenpauschale | § 249 BGB Schätzung | 25-30 EUR |
+| Schmerzensgeld | § 253 Abs. 2 BGB | ärztliche Atteste |
 | Verdienstausfall | § 252 BGB | Lohnnachweise |
 | Anwaltskosten | § 249 BGB / § 286 BGB | RVG-Berechnung |
 

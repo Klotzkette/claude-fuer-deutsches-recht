@@ -7,14 +7,14 @@ description: "Open-Source-Software Compliance Lizenz-Pflicht GPL Copyleft MIT BS
 
 ## Zweck
 
-Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligence, bei Verletzungs-Vorwurf.
+Prüfung der OSS-Lizenz-Konformität — vor Produkt-Launch, vor M&A-Due-Diligence, bei Verletzungs-Vorwurf.
 
 ## 1) Eingangs-Abfrage
 
 1. Eigenes Produkt mit OSS-Komponenten?
 2. Vertriebs-Modell (Software-Verkauf, SaaS, Embedded)?
 3. SBOM (Software-Bill-of-Materials) vorhanden?
-4. Bisherige Compliance-Pruefung gemacht?
+4. Bisherige Compliance-Prüfung gemacht?
 5. Konkreter Anlass (M&A, Vorwurf, Launch)?
 
 ## 2) Lizenz-Klassifikation
@@ -23,7 +23,7 @@ Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligen
 
 - **MIT**: Copyright-Hinweis, sonst frei
 - **BSD-2/3**: aehnlich
-- **Apache 2.0**: Copyright, Patent-Grant, Aenderungs-Hinweis
+- **Apache 2.0**: Copyright, Patent-Grant, Änderungs-Hinweis
 
 ### Schwache Copyleft
 
@@ -32,8 +32,8 @@ Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligen
 
 ### Starkes Copyleft
 
-- **GPL v2/v3**: Quelltext-Pflicht fuer **gesamtes** abgeleitetes Werk
-- **AGPL v3**: Auch fuer SaaS — extrem strikt
+- **GPL v2/v3**: Quelltext-Pflicht für **gesamtes** abgeleitetes Werk
+- **AGPL v3**: Auch für SaaS — extrem strikt
 - Bei Mischung mit kommerzieller Software: oft inkompatibel
 
 ## 3) Pflicht-Inhalte
@@ -42,8 +42,8 @@ Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligen
 |---|---|---|---|
 | Copyright-Hinweis | + | + | + |
 | Lizenz-Text mitliefern | + | + | + |
-| Quelltext-Veroeffentlichung | - | nur Library | gesamtes Werk |
-| Aenderungs-Hinweis | + (Apache) | + | + |
+| Quelltext-Veröffentlichung | - | nur Library | gesamtes Werk |
+| Änderungs-Hinweis | + (Apache) | + | + |
 | Patent-Lizenz | + (Apache) | + | + |
 
 ## 4) Klassische Risiken
@@ -80,7 +80,7 @@ Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligen
 - Komponenten-Name + Version
 - Lizenz
 - Hash / Identifikation
-- Sub-Abhaengigkeiten
+- Sub-Abhängigkeiten
 
 ### Werkzeuge
 
@@ -94,24 +94,24 @@ Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligen
 ### Schritt 1 — Inventarisierung
 
 - SBOM erstellen
-- Direkte + transitive Abhaengigkeiten
+- Direkte + transitive Abhängigkeiten
 - Build-Tools (Maven, npm, pip) inkl.
 
 ### Schritt 2 — Lizenz-Mapping
 
 - Pro Komponente Lizenz identifizieren
-- Bei Multi-Lizenz: gewaehlte Variante dokumentieren
+- Bei Multi-Lizenz: gewählte Variante dokumentieren
 
-### Schritt 3 — Kompatibilitaets-Pruefung
+### Schritt 3 — Kompatibilitaets-Prüfung
 
 - Lizenz-Matrix
 - Konflikte aufdecken (GPL im proprietaeren Code)
 
-### Schritt 4 — Pflicht-Erfuellung
+### Schritt 4 — Pflicht-Erfüllung
 
 - Copyright-Hinweise konsolidieren
-- Lizenz-Texte beifuegen
-- Quelltext bei GPL veroeffentlichen
+- Lizenz-Texte beifügen
+- Quelltext bei GPL veröffentlichen
 
 ### Schritt 5 — Dokumentation
 
@@ -120,22 +120,22 @@ Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligen
 
 ## 7) Bei Verletzungs-Vorwurf
 
-### Sofort-Massnahmen
+### Sofort-Maßnahmen
 
 - Quellcode-Sicherung
 - Kommunikation einstellen ohne Anwalt
-- SBOM erstellen / pruefen
+- SBOM erstellen / prüfen
 
 ### Verteidigung
 
-- Lizenz-Erfuellung dokumentieren
-- Bei tatsaechlichem Verstoss: Heilung durch Nachbesserung
-- Vergleich mit Klaeger (typisch Software Freedom Conservancy, FSF)
+- Lizenz-Erfüllung dokumentieren
+- Bei tatsächlichem Verstoß: Heilung durch Nachbesserung
+- Vergleich mit Kläger (typisch Software Freedom Conservancy, FSF)
 
 ### Klage-Risiko
 
 - BGH NJW 2024 (Linux-Verletzung)
-- Streitwert nach Lizenz-Hoehe + Schadensersatz
+- Streitwert nach Lizenz-Höhe + Schadensersatz
 
 ## 8) M&A-Kontext
 
@@ -152,9 +152,9 @@ Pruefung der OSS-Lizenz-Konformitaet — vor Produkt-Launch, vor M&A-Due-Diligen
 ## 9) Typische Fehler
 
 1. **SBOM fehlt** — kein Compliance-Nachweis
-2. **AGPL in SaaS** uebersehen
-3. **Sub-Abhaengigkeiten ignoriert**
-4. **Lizenz-Texte nicht beigefuegt**
+2. **AGPL in SaaS** übersehen
+3. **Sub-Abhängigkeiten ignoriert**
+4. **Lizenz-Texte nicht beigefügt**
 5. **Copyleft-Folge ignoriert** — Verkaufs-Stopp droht
 
 ## 10) Strategische Empfehlungen

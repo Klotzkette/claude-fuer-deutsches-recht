@@ -24,7 +24,7 @@ Wenn die Behandlung medizinisch ordnungsgemäß war, bleibt häufig der Aufklär
 
 - **Diagnose**
 - **Prognose**
-- **Wesentliche Umstaende** des Eingriffs
+- **Wesentliche Umstände** des Eingriffs
 - **Risiken** auch seltene aber gravierende Risiken
 - **Verlauf** der Behandlung
 - **Folgen** absehbare
@@ -126,7 +126,7 @@ Wenn die Behandlung medizinisch ordnungsgemäß war, bleibt häufig der Aufklär
 
 ### Stufenweise Aufklärung
 
-- Vorgespraech Termin
+- Vorgespräch Termin
 - Vertief Gespräch vor OP
 - Bei längerem Verlauf — wiederholte Aufklärung
 

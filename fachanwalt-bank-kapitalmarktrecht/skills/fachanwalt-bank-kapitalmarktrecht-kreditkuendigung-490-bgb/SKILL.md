@@ -3,63 +3,63 @@ name: fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb
 description: "Kreditkuendigung der Bank § 490 BGB bei wesentlicher Vermoegensverschlechterung Voraussetzungen Ankuendigung Kuendigungsfrist Sicherheiten. AGB-Banken Nr. 19 Klausel. Auswirkung Faelligstellung Vollstreckung Bonitaets-Triage. AN-Strategie Widerspruch Stundung Ratenplan einstweiliger Rechtsschutz. Workflow Sofort-Sicherung."
 ---
 
-# Kreditkuendigung § 490 BGB
+# Kreditkündigung § 490 BGB
 
 ## Zweck
 
-Mandate bei drohender oder erfolgter Kreditkuendigung — fuer Kreditnehmer und Banken.
+Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer und Banken.
 
 ## 1) Eingangs-Abfrage
 
-1. Kreditart (Konsumentenkredit, Immobiliendarlehen, Geschaeftskredit, KfW)?
+1. Kreditart (Konsumentenkredit, Immobiliendarlehen, Geschäftskredit, KfW)?
 2. Aktueller Saldo und Tilgungsstand?
-3. Anlass der Kuendigung (Ratenstundung, Bonitaet, Sicherheiten)?
-4. Kuendigungsschreiben Wortlaut?
+3. Anlass der Kündigung (Ratenstundung, Bonitaet, Sicherheiten)?
+4. Kündigungsschreiben Wortlaut?
 5. AGB-Banken Vertrag (Nr. 19)?
-6. Sicherheiten (Grundschuld, Buergschaft)?
+6. Sicherheiten (Grundschuld, Bürgschaft)?
 7. Konsumenten- oder Unternehmenskredit?
 
-## 2) Rechtsgrundlagen Kuendigung
+## 2) Rechtsgrundlagen Kündigung
 
-### § 490 BGB — Wesentliche Vermoegensverschlechterung
+### § 490 BGB — Wesentliche Vermögensverschlechterung
 
-> „Vor Auszahlung des Darlehens kann der Darlehensgeber im Zweifel den Darlehensvertrag bei einer wesentlichen Verschlechterung der Vermoegensverhaeltnisse des Darlehensnehmers oder der Werthaltigkeit einer fuer das Darlehen gestellten Sicherheit, durch die die Rueckzahlung des Darlehens, auch unter Verwertung der Sicherheit, gefaehrdet wird, kuendigen. Nach Auszahlung kann er nur in der Regel kuendigen, soweit die Voraussetzungen nach Satz 1 in besonderem Masse vorliegen."
+> „Vor Auszahlung des Darlehens kann der Darlehensgeber im Zweifel den Darlehensvertrag bei einer wesentlichen Verschlechterung der Vermögensverhältnisse des Darlehensnehmers oder der Werthaltigkeit einer für das Darlehen gestellten Sicherheit, durch die die Rückzahlung des Darlehens, auch unter Verwertung der Sicherheit, gefährdet wird, kündigen. Nach Auszahlung kann er nur in der Regel kündigen, soweit die Voraussetzungen nach Satz 1 in besonderem Masse vorliegen."
 
 ### AGB-Banken Nr. 19
 
-- Kuendigungsrecht bei wesentlicher Vermoegensverschlechterung
+- Kündigungsrecht bei wesentlicher Vermögensverschlechterung
 - Klauselkontrolle § 308, § 309 BGB
 
 ### § 498 BGB — Verbraucherdarlehen
 
-- Bei Konsumentenkrediten: Kuendigung nur bei **Verzug 2 Raten + > 10 % Kreditbetrag** + **2-Wochen-Mahnung mit Hinweis**
+- Bei Konsumentenkrediten: Kündigung nur bei **Verzug 2 Raten + > 10 % Kreditbetrag** + **2-Wochen-Mahnung mit Hinweis**
 
 ### § 314 BGB — Wichtiger Grund
 
-- Auch fuer Geschaeftskredit subsidiaer
+- Auch für Geschäftskredit subsidiaer
 
-## 3) Voraussetzungen Bank-Kuendigung
+## 3) Voraussetzungen Bank-Kündigung
 
-| Element | Pruefung |
+| Element | Prüfung |
 |---|---|
-| Wesentliche Verschlechterung | Bonitaets-Tatbestaende: Insolvenzantrag, Eidesstattliche Versicherung, Bilanz-Verlust |
-| Gefaehrdung der Rueckzahlung | Sicherheits-Wert vs. Restschuld; Beleihungs-Wert |
-| Ankuendigung / Vorwarnung | BGH XI ZR 178/10: Bei Hausbank-Kuendigung muss Vorwarnung erfolgen |
+| Wesentliche Verschlechterung | Bonitaets-Tatbestände: Insolvenzantrag, Eidesstattliche Versicherung, Bilanz-Verlust |
+| Gefährdung der Rückzahlung | Sicherheits-Wert vs. Restschuld; Beleihungs-Wert |
+| Ankündigung / Vorwarnung | BGH XI ZR 178/10: Bei Hausbank-Kündigung muss Vorwarnung erfolgen |
 | Konsumenten: 2 Raten Verzug + Mahnung | § 498 BGB iVm § 502 BGB |
-| Verhaeltnismaessigkeit | bei Geringfuegigkeit unwirksam |
+| Verhältnismaessigkeit | bei Geringfuegigkeit unwirksam |
 
-## 4) Folgen der Kuendigung
+## 4) Folgen der Kündigung
 
 ### Faelligstellung
 
 - Gesamter Restbetrag sofort faellig
 - Verzug ab Faelligstellung
-- Verzugszinsen 9 %-Pkt. ueber Basis (§ 288 II BGB) bei B2B; 5 %-Pkt. bei Verbraucher (§ 288 I BGB)
+- Verzugszinsen 9 %-Pkt. über Basis (§ 288 II BGB) bei B2B; 5 %-Pkt. bei Verbraucher (§ 288 I BGB)
 
 ### Sicherheiten-Verwertung
 
 - Grundschuld: Zwangsversteigerung / Zwangsverwaltung
-- Buergschaft: Inanspruchnahme Buergen
+- Bürgschaft: Inanspruchnahme Buergen
 
 ### SCHUFA-Eintrag
 
@@ -71,20 +71,20 @@ Mandate bei drohender oder erfolgter Kreditkuendigung — fuer Kreditnehmer und 
 ### Schritt 1 — Schriftliche Reaktion
 
 - Innerhalb **2 Wochen** Widerspruch
-- Vorlage Liquiditaets-/Sanierungs-Plan
-- Bei Verbraucher: Pruefung § 498 BGB Voraussetzungen
+- Vorlage Liquiditäts-/Sanierungs-Plan
+- Bei Verbraucher: Prüfung § 498 BGB Voraussetzungen
 
 ### Schritt 2 — Verhandlung
 
 - **Stundung** (typisch 6-12 Monate)
-- **Ratenanpassung** (Verlaengerung)
-- **Sicherheiten-Stellung** zusaetzlich
-- **Buergschaft** Dritte
+- **Ratenanpassung** (Verlängerung)
+- **Sicherheiten-Stellung** zusätzlich
+- **Bürgschaft** Dritte
 
 ### Schritt 3 — Klage / Eilantrag
 
 - Bei Drohung der Zwangsversteigerung: einstweiliger Rechtsschutz
-- Feststellungsklage Kuendigung unwirksam
+- Feststellungsklage Kündigung unwirksam
 - Streitwert: Restschuld
 
 ## 6) Bank-Strategie
@@ -93,12 +93,12 @@ Mandate bei drohender oder erfolgter Kreditkuendigung — fuer Kreditnehmer und 
 
 - Wesentliche Verschlechterung dokumentieren (Bilanz-Auszug, BWA, SCHUFA, Externe Auskunft)
 - Mahnungs-Geschichte (bei Verbraucher)
-- Vorgespraeche-Protokoll
+- Vorgespräche-Protokoll
 
 ### Kommunikation
 
 - Schriftform zwingend
-- Konkrete Begruendung
+- Konkrete Begründung
 - Frist zur Stellungnahme (typisch 2-4 Wochen)
 
 ## 7) BGH-Linien
@@ -111,24 +111,24 @@ Mandate bei drohender oder erfolgter Kreditkuendigung — fuer Kreditnehmer und 
 
 ### Bank-Fehler
 
-1. **Kuendigung ohne Vorwarnung** bei Hausbank-Verhaeltnis
-2. **Pauschale Begruendung** ohne konkrete Tatbestaende
-3. **Konsumenten: ohne 10 %-Schwelle erfuellt** kuendigen
-4. **AGB-Nr. 19 unverhaeltnismaessig** angewendet
+1. **Kündigung ohne Vorwarnung** bei Hausbank-Verhältnis
+2. **Pauschale Begründung** ohne konkrete Tatbestände
+3. **Konsumenten: ohne 10 %-Schwelle erfüllt** kündigen
+4. **AGB-Nr. 19 unverhältnismaessig** angewendet
 
 ### Kunden-Fehler
 
 1. **Nicht reagiert** auf Vorwarnung
-2. **Keine Liquiditaets-Planung** vorgelegt
-3. **Kuendigung als unabaenderlich** akzeptiert
-4. **Spaet-Strafanwalt** bei drohender Zwangsversteigerung
+2. **Keine Liquiditäts-Planung** vorgelegt
+3. **Kündigung als unabaenderlich** akzeptiert
+4. **Spät-Strafanwalt** bei drohender Zwangsversteigerung
 
 ## 9) Konkrete Beispiel-Konstellation
 
-GmbH-Kreditkuendigung 800.000 EUR, AG behauptet Bonitaets-Gefaehrdung:
+GmbH-Kreditkündigung 800.000 EUR, AG behauptet Bonitaets-Gefährdung:
 
 1. Schriftlicher Widerspruch binnen 2 Wochen
-2. BWA aktuell und Liquiditaets-Vorschau 3 Monate vorlegen
+2. BWA aktuell und Liquiditäts-Vorschau 3 Monate vorlegen
 3. Sanierungs-Konzept (StaRUG-Pre-Check)
 4. Verhandlung Stillhalte-Vereinbarung mit AG
 5. Bei Scheitern: Feststellungsklage + einstweiliger Rechtsschutz

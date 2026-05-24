@@ -7,15 +7,15 @@ description: Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp p
 
 ## Auswahlmatrix
 
-Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt sich die Lücke zwischen aktueller Liquidität / Bilanzbasis und der Schwelle zur positiven Fortbestehensprognose. Die Bausteine sind nach Effekt und Umsetzungszeit zu wählen.
+Aus der Zusammenführung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt sich die Lücke zwischen aktueller Liquidität / Bilanzbasis und der Schwelle zur positiven Fortbestehensprognose. Die Bausteine sind nach Effekt und Umsetzungszeit zu wählen.
 
 | Baustein | Effekt | Umsetzungszeit | Skill |
 |---|---|---|---|
 | Externe harte Patronatserklärung | Liquiditäts- und Bilanzeffekt sofort | 1 bis 2 Tage | patronatserklaerung-extern-hart-erzeugen |
 | Comfortletter (intern/weich) | Symbolisch / Reputation; kein Bilanzeffekt | 1 Tag | comfortletter-weich-erzeugen |
-| Gesellschafterdarlehen mit Rangrücktritt | Bilanzeffekt sofort; Liquidität bei Auszahlung | 3 bis 7 Tage notariell | gesellschafterdarlehen-rangruecktritt |
+| Gesellschafterdarlehen mit Rangrücktritt | Bilanzeffekt sofort; Liquidität bei Auszahlung | 3 bis 7 Tage notariell | gesellschafterdarlehen-rangrücktritt |
 | Forderungsverzicht mit Besserungsschein | Bilanzeffekt sofort | 5 bis 14 Tage | forderungsverzicht-besserungsschein |
-| Stundung Forderung (Lieferant Bank) | Liquiditätseffekt sofort | 5 bis 10 Tage | stundungsanfrage-glaeubiger |
+| Stundung Forderung (Lieferant Bank) | Liquiditätseffekt sofort | 5 bis 10 Tage | stundungsanfrage-gläubiger |
 | Kapitalerhöhung Gesellschafter | Bilanz- und Liquiditätseffekt | 14 bis 28 Tage notariell | (Plugin gesellschaftsrecht) |
 | Sale-and-Lease-back | Liquidität einmalig | 14 bis 30 Tage | externe Bank |
 | Kreditlinienerhöhung | Liquidität sofort wenn zugesagt | je nach Bank | externe Bank |
@@ -33,7 +33,7 @@ Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 ### Comfortletter (weich)
 
 - **Nicht** ausreichend für die Fortbestehensprognose-Bilanzentlastung.
-- Kann aber **Liquiditätsunterstuetzung** signalisieren (z. B. an Bank).
+- Kann aber **Liquiditätsunterstützung** signalisieren (z. B. an Bank).
 - Skill `comfortletter-weich-erzeugen`.
 
 ### Gesellschafterdarlehen mit qualifiziertem Rangrücktritt
@@ -59,13 +59,13 @@ Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 
 ### Kapitalerhöhung
 
-- Bareinlage durch Gesellschafter oder Sacheinlage (mit Sachgruendungsbericht).
+- Bareinlage durch Gesellschafter oder Sacheinlage (mit Sachgründungsbericht).
 - Notarurkunde Handelsregistereintragung.
 - Plugin `gesellschaftsrecht` (Skill kapitalerhöhung).
 
 ### Sale-and-Lease-back
 
-- Verkauf eines Vermögenswerts (Maschine Grundstueck) an Leasing-Geber mit anschliessendem Leasing.
+- Verkauf eines Vermögenswerts (Maschine Grundstück) an Leasing-Geber mit anschließendem Leasing.
 - Liquiditätseffekt einmalig.
 - Folgekosten (Leasingraten) im Liquiditätsplan berücksichtigen.
 

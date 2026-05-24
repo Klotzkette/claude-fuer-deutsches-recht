@@ -3,26 +3,26 @@ name: gesellschaftsgruender-geschaeftsordnung-gf
 description: "Geschaeftsordnung der Geschaeftsfuehrung. Zustimmungspflichtige Geschaefte Berichtspflichten Meeting-Rhythmus Entscheidungs-Prozesse Eskalations-Matrix bei Mehrgliedrigkeit. Abgrenzung Satzung SHA Geschaeftsordnung. Aenderbarkeit Form. Beispiel-Kataloge fuer Standard-GmbH und Tech-Startup."
 ---
 
-# Geschaeftsordnung Geschaeftsfuehrung
+# Geschäftsordnung Geschäftsführung
 
 ## Zweck
 
-Die **Geschaeftsordnung fuer die Geschaeftsfuehrung** regelt die innerorganisatorischen Ablaeufe bei mehrgliedrigen Geschaeftsfuehrungen. Sie ist **kein** Pflicht-Dokument (anders als bei AG Paragraf 77 AktG), aber bei Mehr-GF-Konstellationen sehr empfehlenswert.
+Die **Geschäftsordnung für die Geschäftsführung** regelt die innerorganisatorischen Ablaeufe bei mehrgliedrigen Geschäftsführungen. Sie ist **kein** Pflicht-Dokument (anders als bei AG Paragraf 77 AktG), aber bei Mehr-GF-Konstellationen sehr empfehlenswert.
 
 ## 1) Rechtsgrundlagen
 
-- **Paragraf 37 I GmbHG**: Geschaeftsfuehrer haben die Gesellschaft nach Gesetz, Satzung und Beschluessen der Gesellschafterversammlung zu fuehren
-- **Paragraf 37 II GmbHG**: bei Mehrgliedrigkeit Gesamtgeschaeftsfuehrung, sofern Satzung / Geschaeftsordnung nicht anders bestimmt
-- Geschaeftsordnung ist **freiwillig** — wird typisch von Gesellschafterversammlung beschlossen
+- **Paragraf 37 I GmbHG**: Geschäftsführer haben die Gesellschaft nach Gesetz, Satzung und Beschlüssen der Gesellschafterversammlung zu führen
+- **Paragraf 37 II GmbHG**: bei Mehrgliedrigkeit Gesamtgeschäftsführung, sofern Satzung / Geschäftsordnung nicht anders bestimmt
+- Geschäftsordnung ist **freiwillig** — wird typisch von Gesellschafterversammlung beschlossen
 
 ## 2) Wann sinnvoll
 
-- **Mehrere Geschaeftsfuehrer**: Ressort-Trennung, Entscheidungs-Prozesse
+- **Mehrere Geschäftsführer**: Ressort-Trennung, Entscheidungs-Prozesse
 - **Investor-Beteiligung**: Berichtspflichten an Investor-Beirat
-- **Komplexe Geschaeftsmodelle**: Zustimmungs-Kataloge je nach Geschaeftsart
+- **Komplexe Geschäftsmodelle**: Zustimmungs-Kataloge je nach Geschäftsart
 - **Compliance-bewusste Unternehmen**: schriftliche Prozess-Dokumentation
 
-## 3) Pflicht-Inhalte einer guten Geschaeftsordnung
+## 3) Pflicht-Inhalte einer guten Geschäftsordnung
 
 ### A. Ressort-Verteilung
 
@@ -33,9 +33,9 @@ Ressort-Verteilung:
 - Geschaeftsfuehrer C (CFO): Finanzen, Buchhaltung, Reporting, Personal
 ```
 
-### B. Zustimmungspflichtige Geschaefte
+### B. Zustimmungspflichtige Geschäfte
 
-Geschaefte, die Zustimmung **aller** GF oder der Gesellschafterversammlung erfordern:
+Geschäfte, die Zustimmung **aller** GF oder der Gesellschafterversammlung erfordern:
 
 ```
 Zustimmungspflicht der gesamten Geschaeftsfuehrung
@@ -99,7 +99,7 @@ SHA-Verpflichtung):
 ### E. Entscheidungs-Prozesse
 
 - Bei Patt-Situation (z.B. 2 GF, beide unterschiedlicher Meinung): Eskalation zur Gesellschafterversammlung
-- Bei Eilbeduerftigkeit: Einzelvertretung mit nachtraeglicher Genehmigung
+- Bei Eilbedürftigkeit: Einzelvertretung mit nachtraeglicher Genehmigung
 
 ### F. Eskalations-Matrix
 
@@ -117,19 +117,19 @@ Konflikt-Eskalation:
 
 ### Erlass durch Gesellschafterversammlung
 
-- Gesellschafterversammlung kann Geschaeftsordnung beschliessen (Paragraf 46 Nr. 6 GmbHG)
+- Gesellschafterversammlung kann Geschäftsordnung beschließen (Paragraf 46 Nr. 6 GmbHG)
 - Einfache Mehrheit ausreichend
-- Beschluss-Protokoll dokumentiert die Geschaeftsordnung
+- Beschluss-Protokoll dokumentiert die Geschäftsordnung
 
-### Erlass durch Geschaeftsfuehrung (selbstauferlegt)
+### Erlass durch Geschäftsführung (selbstauferlegt)
 
 - Bei Solo-GF oft selbstauferlegt
 - Bei Mehr-GF: Einigung der GF
 - Wirkung: bindet die GF selbst, nicht aber die Gesellschafterversammlung
 
-### Aenderung
+### Änderung
 
-- Wenn von Gesellschafterversammlung erlassen: Aenderung nur durch GV (einfache Mehrheit)
+- Wenn von Gesellschafterversammlung erlassen: Änderung nur durch GV (einfache Mehrheit)
 - Wenn von GF selbst: aenderbar mit Mehrheit der GF
 
 ### Form
@@ -191,28 +191,28 @@ einfacher Mehrheit.
 der Gesellschafterversammlung am [Datum] in Kraft.
 ```
 
-## 6) Abgrenzung Satzung — SHA — Geschaeftsordnung
+## 6) Abgrenzung Satzung — SHA — Geschäftsordnung
 
-| Aspekt | Satzung | SHA | Geschaeftsordnung |
+| Aspekt | Satzung | SHA | Geschäftsordnung |
 |---|---|---|---|
 | Vertretung extern | + | - | (Bezug) |
 | Vesting | - | + | - |
-| Zustimmungs-Kataloge | (typisch ja) | (typisch nein) | (typisch ja, ergaenzend) |
+| Zustimmungs-Kataloge | (typisch ja) | (typisch nein) | (typisch ja, ergänzend) |
 | Meeting-Rhythmus | (selten) | (manchmal) | + (Standard) |
-| Berichtspflichten | (selten) | (typisch ja fuer Investor) | + |
+| Berichtspflichten | (selten) | (typisch ja für Investor) | + |
 | Aenderbarkeit | 75 % Mehrheit + Notar | einstimmig | einfache Mehrheit |
 | Form | notariell | schriftlich | schriftlich |
 
 ## 7) Typische Fehler
 
-1. **Geschaeftsordnung ohne Zustimmungs-Katalog**. „GF handelt im Rahmen der Gesetze" reicht nicht — bei strittigen Geschaeften keine Orientierung.
+1. **Geschäftsordnung ohne Zustimmungs-Katalog**. „GF handelt im Rahmen der Gesetze" reicht nicht — bei strittigen Geschäften keine Orientierung.
 2. **Zustimmungs-Schwellen zu hoch**. Wenn Schwelle 1 Mio. EUR, aber Jahresumsatz 500 K — Schwelle praktisch wirkungslos.
-3. **Patt-Mechanismus fehlt**. Bei 2-GF-Konstellation ohne Eskalation: GmbH handlungsunfaehig.
+3. **Patt-Mechanismus fehlt**. Bei 2-GF-Konstellation ohne Eskalation: GmbH handlungsunfähig.
 4. **Keine Berichts-Pflichten**. Investoren / Beirat haben kein Steuerungs-Hebel ohne Reports.
-5. **Geschaeftsordnung wird vergessen**. Erlassen, aber nie angepasst, nie gelebt -> praktisch tot.
+5. **Geschäftsordnung wird vergessen**. Erlassen, aber nie angepasst, nie gelebt -> praktisch tot.
 
 ## Anschluss
 
 - `gesellschaftsgruender-gf-meeting-templates` — Tagesordnungen, Protokoll-Vorlagen
-- `gesellschaftsgruender-geschaeftsfuehrervertrag` — Geschaeftsfuehrer-Anstellung
+- `gesellschaftsgruender-geschaeftsfuehrervertrag` — Geschäftsführer-Anstellung
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlung

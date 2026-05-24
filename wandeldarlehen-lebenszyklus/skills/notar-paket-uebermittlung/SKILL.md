@@ -74,7 +74,7 @@ Nach Kapitalerhöhung: Pflicht zur Aktualisierung des Transparenzregisters nach 
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Sacheinlage vor Anmeldung nicht erbracht | § 57 GmbHG-Voraussetzung fehlt | Einbringungsnachweis unvollständig | Einbringung vollständig belegt |
 | Gesellschafterliste nicht aktualisiert | § 16 GmbHG-Gutglaubenswirkung gefährdet | Liste in Erarbeitung | Aktuelle Liste beigefügt |

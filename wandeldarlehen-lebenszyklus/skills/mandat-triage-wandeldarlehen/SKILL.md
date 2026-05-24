@@ -16,7 +16,7 @@ Dieser Skill strukturiert das erste Gespräch mit dem Mandanten über ein beabsi
 - Namen und Rollen der Gesellschafterinnen (Anzahl, Anteile)
 - Name und Rechtsform des Darlehensgebers (Privatperson oder juristische Person)
 - Beabsichtigter Darlehensbetrag (EUR) und Laufzeit
-- Zinssatz (Standard fuenf Prozent p.a.)
+- Zinssatz (Standard fünf Prozent p.a.)
 - Gewünschte Wandelereignisse (Qualified Financing, Exit, Maturity)
 - Sprachen-Stack: bilingual DE/EN oder nur DE
 - Vorhandener Gesellschafterbeschluss zur grundsätzlichen Kapitalerhöhungsbereitschaft: ja/nein
@@ -61,11 +61,11 @@ Empfehlung: `parteien-erfassen` für vollständige KYC-Daten, dann `darlehenshoe
 |---|---|
 | Gesellschaft | Sonnenglas Solartechnologie UG (haftungsbeschränkt), HRB 123456, AG Berlin |
 | Stammkapital | EUR 1000, 100 Anteile à EUR 1 Nennwert |
-| Gesellschafterinnen | Dr. Mira Schoeneck 40 Anteile, Lina Habersaat 35 Anteile, Treasury 25 Anteile |
+| Gesellschafterinnen | Dr. Mira Schöneck 40 Anteile, Lina Habersaat 35 Anteile, Treasury 25 Anteile |
 | Darlehensgeber | Northstar Pre-Seed Partners GmbH & Co. KG |
 | Betrag | EUR 250000 |
 | Laufzeit | 2 Jahre feste Laufzeit |
-| Zinssatz | fuenf Prozent p.a. (act/360) |
+| Zinssatz | fünf Prozent p.a. (act/360) |
 | Cap | EUR 4000000 Pre-Money |
 | Discount | zwanzig Prozent |
 | Sprache | bilingual DE/EN |
@@ -74,7 +74,7 @@ Empfehlung: `parteien-erfassen` für vollständige KYC-Daten, dann `darlehenshoe
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Wandelereignis schon eingetreten | Nachträgliche Vereinbarung problematisch | Wandelereignis kurz bevorstehend | Wandelereignis weit in Zukunft |
 | Keine Fall-back-Bewertung vereinbart | Maturity-Wandlung unklar | Bewertung grob geschätzt | Bewertung durch TS belegt |

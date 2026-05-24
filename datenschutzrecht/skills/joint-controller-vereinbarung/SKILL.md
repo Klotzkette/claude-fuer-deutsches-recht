@@ -357,7 +357,7 @@ Anhang 3: Innenhaftungs-Quote
 - Vorlage Vereinbarung
 - TOMs-Bestätigung
 
-### Sanktion bei Verstoss
+### Sanktion bei Verstoß
 
 - Bußgeld
 - Anordnungen
@@ -370,7 +370,7 @@ Anhang 3: Innenhaftungs-Quote
 - `dsfa-erstellung` — bei DSFA-Pflicht
 - `datenpanne-meldung` — bei Vorfall
 - `drittlandstransfer-pruefung` — bei Drittland-Bezug
-- `anwendungsfall-triage` — bei Eingangs-Pruefung
+- `anwendungsfall-triage` — bei Eingangs-Prüfung
 - `regulierungs-luecken-analyse` — bei mehreren Verarbeitungs-Tätigkeiten
 
 ## Ausgabe

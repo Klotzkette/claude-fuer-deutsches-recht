@@ -3,7 +3,7 @@ name: fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung
 description: "UWG-Einstweilige Verfuegung §§ 935 940 ZPO bei Wettbewerbsverletzungen Abmahnung mit Frist Unterlassungserklaerung Schutzschrift Gerichtsstand. Dringlichkeit § 12 II UWG Vermutung. Vertragsstrafe Hamburger-Brauch neuer Hamburger-Brauch. Workflow Sofort-Sicherung Abmahnung eA Schutzschrift Hauptsache."
 ---
 
-# UWG-Einstweilige Verfuegung
+# UWG-Einstweilige Verfügung
 
 ## Zweck
 
@@ -11,7 +11,7 @@ Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und ei
 
 ## 1) Eingangs-Abfrage
 
-1. Wettbewerbs-Verstoss: irrefuehrende Werbung, vergleichende Werbung, Geschaeftsgeheimnis-Verletzung, Belaestigung?
+1. Wettbewerbs-Verstoß: irreführende Werbung, vergleichende Werbung, Geschäftsgeheimnis-Verletzung, Belaestigung?
 2. Erste Kenntnis (Dringlichkeits-Frist)?
 3. Eigene Aktivlegitimation (Mitbewerber, Verbraucherschutz-Verband)?
 4. Abmahnungs-Stand?
@@ -21,13 +21,13 @@ Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und ei
 
 ### Vermutung
 
-- UWG: Vermutung der Dringlichkeit fuer 1 Monat ab Kenntnis
-- Bei Versaeumnis: Dringlichkeit kann widerlegt werden -> Hauptsache-Klage
+- UWG: Vermutung der Dringlichkeit für 1 Monat ab Kenntnis
+- Bei Versäumnis: Dringlichkeit kann widerlegt werden -> Hauptsache-Klage
 
 ### Praxis
 
-- **Innerhalb 4 Wochen** nach Kenntnis Verfuegungsantrag
-- Bei laengerem Zoegern: Verlust Verfuegungs-Grund
+- **Innerhalb 4 Wochen** nach Kenntnis Verfügungsantrag
+- Bei laengerem Zoegern: Verlust Verfügungs-Grund
 
 ## 3) Aktivlegitimation § 8 UWG
 
@@ -38,7 +38,7 @@ Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und ei
 - Qualifizierte Einrichtungen Verbraucherschutz (Verbraucherzentralen)
 - IHKs und Handwerkskammern
 
-### Wettbewerbsverhaeltnis
+### Wettbewerbsverhältnis
 
 - Substituierbare Produkte / Dienstleistungen
 - Auch bei nur peripherem Bezug (BGH I ZR 11/19)
@@ -47,60 +47,60 @@ Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und ei
 
 ### Inhalt
 
-- Verstoss-Beschreibung
+- Verstoß-Beschreibung
 - Unterlassungs-Anspruch
-- Strafbewehrte Unterlassungs-Erklaerung (Hamburger Brauch)
+- Strafbewehrte Unterlassungs-Erklärung (Hamburger Brauch)
 - Frist (typisch 1-2 Wochen)
-- Kostenuebernahmeantrag (Anwaltsgebuehren)
+- Kostenübernahmeantrag (Anwaltsgebuehren)
 
 ### Aufwendungs-Ersatz
 
-- Kosten der Abmahnung erstattungsfaehig bei berechtigter Abmahnung
-- Bei missbraeuchlicher Abmahnung: Rueckforderung § 8c UWG
+- Kosten der Abmahnung erstattungsfähig bei berechtigter Abmahnung
+- Bei missbraeuchlicher Abmahnung: Rückforderung § 8c UWG
 
 ### Hamburger Brauch
 
-- Klassisch: Vertragsstrafe-Hoehe nach Ermessen des Glaeubigers, Ueberpruefung Gericht
-- Neuer Hamburger Brauch: konkrete Hoehe je Verstoss
+- Klassisch: Vertragsstrafe-Höhe nach Ermessen des Gläubigers, Überprüfung Gericht
+- Neuer Hamburger Brauch: konkrete Höhe je Verstoß
 
 ## 5) Schutzschrift
 
 ### Praeventive Hinterlegung
 
 - Im Zentralen Schutzschriftenregister (ZSSR)
-- Beim zustaendigen Gericht
+- Beim zuständigen Gericht
 - Inhalt: Gegen-Argumentation, eigene Sicht
 
 ### Wirkung
 
-- Gericht muss Schutzschrift vor Erlass der Verfuegung lesen
+- Gericht muss Schutzschrift vor Erlass der Verfügung lesen
 - Faktisch: muendliche Verhandlung wahrscheinlich
 
 ### Gebuehr ZSSR
 
 - ca. 80 EUR
 
-## 6) Verfuegungsantrag
+## 6) Verfügungsantrag
 
 ### Inhalt
 
 - Tatbestands-Beschreibung
-- Verstoss-Norm (z.B. § 5 UWG Irrefuehrung)
+- Verstoß-Norm (z.B. § 5 UWG Irreführung)
 - Eidesstattliche Versicherung
 - Glaubhaftmachung (eA + Klage-Vortrag)
 - Anlage Schutzschrift falls bekannt
 
 ### Gerichtsstand § 14 UWG
 
-- Mehrere moegliche Gerichtsstaende
-- Klaeger waehlt — „Forum-Shopping"
+- Mehrere mögliche Gerichtsstaende
+- Kläger wählt — „Forum-Shopping"
 - Spezialisierte Kammern oft (LG Frankfurt, LG Hamburg, LG Muenchen)
 
-## 7) Anhoerung vs. Verfuegung ohne muendliche Verhandlung
+## 7) Anhörung vs. Verfügung ohne muendliche Verhandlung
 
 ### Ohne muendliche Verhandlung
 
-- Bei eindeutigem Verstoss + Eilbeduerftigkeit
+- Bei eindeutigem Verstoß + Eilbedürftigkeit
 - Standard bis ca. 2010
 - Heute seltener wegen Schutzschriften-Pflicht
 
@@ -115,8 +115,8 @@ Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und ei
 ### Widerspruch § 924 ZPO
 
 - Innerhalb 14 Tagen ab Zustellung
-- Fuehrt zu muendlicher Verhandlung
-- Kosten-Risiko fuer Beklagten
+- Führt zu muendlicher Verhandlung
+- Kosten-Risiko für Beklagten
 
 ### Berufung OLG
 
@@ -132,27 +132,27 @@ Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und ei
 
 ### Wenn eA verloren
 
-- Klage zur endgueltigen Klaerung
+- Klage zur endgültigen Klärung
 - Bei vorliegender Schutzschrift: gute Aussichten
 
 ## 10) Vertragsstrafe
 
-### Hoehe
+### Höhe
 
-- Beim ersten Verstoss: typisch 5.001-10.000 EUR
-- Bei Wiederholung: hoehere Saetze
+- Beim ersten Verstoß: typisch 5.001-10.000 EUR
+- Bei Wiederholung: höhere Sätze
 - Bei Verbraucher-relevanter Werbung: 30.000 EUR oder mehr
 
 ### Gerichtliche Kontrolle § 339 BGB
 
-- Reduzierung auf angemessene Hoehe moeglich
+- Reduzierung auf angemessene Höhe möglich
 - Bei extrem hohen Strafen Kontrolle
 
 ## 11) Typische Fehler
 
 1. **Frist Dringlichkeit verpasst** — Hauptsache statt eA
 2. **Abmahnung unterbleibt** — Kostenrisiko bei sofortiger eA
-3. **Schutzschrift nicht hinterlegt** — Verfuegung ohne Anhoerung
+3. **Schutzschrift nicht hinterlegt** — Verfügung ohne Anhörung
 4. **Forum-Shopping zu aggressiv** — Beklagten-Sympathie verschlechtert
 5. **Schadensersatz vergessen** — Hauptsache-Klage erforderlich
 
@@ -165,5 +165,5 @@ Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und ei
 ## Anschluss
 
 - `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage
-- `gewerblicher-rechtsschutz/skills/takedown-anweisung` — bei Online-Plattform-Verstoss
+- `gewerblicher-rechtsschutz/skills/takedown-anweisung` — bei Online-Plattform-Verstoß
 - `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` — bei Marken-Streit

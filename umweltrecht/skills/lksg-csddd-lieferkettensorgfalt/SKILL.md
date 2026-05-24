@@ -7,7 +7,7 @@ description: Pruefraster Lieferkettensorgfalt nach LkSG (seit 1.1.2023) und EU-C
 
 ## Zweck
 
-Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden EU-weit ab 2027 mit der CSDDD (Richtlinie (EU) 2024/1760, Umsetzungsfrist 26.7.2026) verschaerft. Dieses Skill bedient Compliance-Aufbau und Verstoss-Verteidigung.
+Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden EU-weit ab 2027 mit der CSDDD (Richtlinie (EU) 2024/1760, Umsetzungsfrist 26.7.2026) verschaerft. Dieses Skill bedient Compliance-Aufbau und Verstoß-Verteidigung.
 
 ## Eingaben
 
@@ -157,11 +157,11 @@ Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden
 
 ### Bußgelder § 24 LkSG
 
-| Verstoss | Höchst-Betrag |
+| Verstoß | Höchst-Betrag |
 |---|---|
-| Verstoss gegen Risikomanagement | EUR 800.000 |
-| Verstoss gegen Berichterstattung | EUR 100.000 |
-| Verstoss gegen Beschwerdemechanismus | EUR 100.000 |
+| Verstoß gegen Risikomanagement | EUR 800.000 |
+| Verstoß gegen Berichterstattung | EUR 100.000 |
+| Verstoß gegen Beschwerdemechanismus | EUR 100.000 |
 | Bei Konzernen > 400 Mio EUR Umsatz | bis 2 Prozent Konzernumsatz |
 
 ### Zwangsgelder
@@ -329,7 +329,7 @@ verabschiedet und wird jaehrlich aktualisiert.
 
 ## Schritt 12 — Verzahnung mit anderen Plugins
 
-- **fachanwalt-internationales-wirtschaftsrecht** Sanktions-Pruefung
+- **fachanwalt-internationales-wirtschaftsrecht** Sanktions-Prüfung
 - **datenschutzrecht** ki-verordnung-compliance bei automatisierter Lieferanten-Risiko-Bewertung
 - **fachanwalt-arbeitsrecht** HinSchG-Synergien bei Beschwerdemechanismus
 - **umweltrecht-compliance-schulung** Bei Umwelt-Pflichten

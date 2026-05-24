@@ -7,7 +7,7 @@ description: "Betriebliches Eingliederungs-Management § 167 II SGB IX Pflicht b
 
 ## Zweck
 
-Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Wochen AU innerhalb eines Jahres. Versaeumnis fuehrt fast immer zu **Unwirksamkeit einer personenbedingten Kuendigung** (BAG-Linie).
+Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Wochen AU innerhalb eines Jahres. Versäumnis führt fast immer zu **Unwirksamkeit einer personenbedingten Kündigung** (BAG-Linie).
 
 ## 1) Eingangs-Abfrage
 
@@ -16,22 +16,22 @@ Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Woch
 3. Schwerbehinderten-Status?
 4. Hat AG **BEM-Einladung** ausgesprochen?
 5. AN reagiert/teilnahme?
-6. Aktueller Zustand: Wiedereingliederung moeglich?
+6. Aktueller Zustand: Wiedereingliederung möglich?
 
 ## 2) Pflicht des Arbeitgebers § 167 II SGB IX
 
-> „Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfaehig, klaert der Arbeitgeber mit der zustaendigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen ausserdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Moeglichkeiten, wie die Arbeitsunfaehigkeit moeglichst ueberwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfaehigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
+> „Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des § 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
 
-## 3) Wirksamkeit der personenbedingten Kuendigung
+## 3) Wirksamkeit der personenbedingten Kündigung
 
 ### BAG-Linie
 
-- BAG, Urt. v. 20.11.2014 — 2 AZR 755/13: BEM ist **Verhaeltnismaessigkeits-Voraussetzung** der personenbedingten Kuendigung
-- BAG, Urt. v. 21.4.2016 — 2 AZR 400/15: AG muss **darlegen**, dass auch bei BEM keine Loesung gefunden worden waere — andernfalls Kuendigung unwirksam
+- BAG, Urt. v. 20.11.2014 — 2 AZR 755/13: BEM ist **Verhältnismaessigkeits-Voraussetzung** der personenbedingten Kündigung
+- BAG, Urt. v. 21.4.2016 — 2 AZR 400/15: AG muss **darlegen**, dass auch bei BEM keine Lösung gefunden worden waere — andernfalls Kündigung unwirksam
 
 ### Konsequenz
 
-Ohne BEM = Kuendigungsschutzklage **gewinnbar** in 80-90 % der Faelle.
+Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
 
 ## 4) Ablauf des BEM
 
@@ -41,16 +41,16 @@ Ohne BEM = Kuendigungsschutzklage **gewinnbar** in 80-90 % der Faelle.
 - Hinweis auf **Freiwilligkeit** der Teilnahme
 - Hinweis auf Beteiligung BR/SBV (mit Zustimmung AN)
 
-### Schritt 2 — Erst-Gespraech
+### Schritt 2 — Erst-Gespräch
 
 - Mit AG, BR/SBV, AN
 - Vertraulichkeit
-- AN bestimmt, welche AU-Gruende offenbart werden
+- AN bestimmt, welche AU-Gründe offenbart werden
 
-### Schritt 3 — Massnahmen-Plan
+### Schritt 3 — Maßnahmen-Plan
 
 - Anpassung Arbeitsplatz (Stuhl, Hilfsmittel, Telearbeit)
-- Aenderung Arbeitszeit (Teilzeit, Schicht)
+- Änderung Arbeitszeit (Teilzeit, Schicht)
 - Versetzung intern
 - Wiedereingliederung **Hamburger Modell** § 74 SGB V iVm § 28 SGB IX
 
@@ -61,20 +61,20 @@ Ohne BEM = Kuendigungsschutzklage **gewinnbar** in 80-90 % der Faelle.
 
 ## 5) Zustimmung Integrationsamt bei Schwerbehinderten § 168 SGB IX
 
-- Bei Schwerbehinderten zwingend **vor Kuendigung** Zustimmung Integrationsamt
-- Frist Integrationsamt: 1 Monat (Verlaengerung moeglich)
-- Bei Verstoss: Kuendigung **nichtig**
+- Bei Schwerbehinderten zwingend **vor Kündigung** Zustimmung Integrationsamt
+- Frist Integrationsamt: 1 Monat (Verlängerung möglich)
+- Bei Verstoß: Kündigung **nichtig**
 
-## 6) AN-Strategie bei Kuendigung trotz fehlendem BEM
+## 6) AN-Strategie bei Kündigung trotz fehlendem BEM
 
 ### Schritt 1 — Klage binnen 3 Wochen nach Zugang (§ 4 KSchG)
 
-- Verfahrensvermerk: AG hat BEM nicht durchgefuehrt
+- Verfahrensvermerk: AG hat BEM nicht durchgeführt
 
 ### Schritt 2 — Beweisaufnahme
 
 - AG muss darlegen **konkret**, warum BEM aussichtslos war
-- BAG-Linie: nicht ausreichend „BEM haette nichts gebracht"
+- BAG-Linie: nicht ausreichend „BEM hätte nichts gebracht"
 
 ### Schritt 3 — Verhandlungs-Position
 
@@ -86,9 +86,9 @@ Ohne BEM = Kuendigungsschutzklage **gewinnbar** in 80-90 % der Faelle.
 ### Saubere Dokumentation
 
 - Einladung schriftlich, Zugangs-Nachweis
-- AN-Ablehnung schriftlich (Verzicht-Erklaerung)
-- Bei Teilnahme: Protokoll des Erst-Gespraechs
-- Massnahmen-Plan schriftlich
+- AN-Ablehnung schriftlich (Verzicht-Erklärung)
+- Bei Teilnahme: Protokoll des Erst-Gesprächs
+- Maßnahmen-Plan schriftlich
 - Evaluation nach 3-6-12 Monaten
 
 ### Bei AN-Ablehnung
@@ -99,28 +99,28 @@ Ohne BEM = Kuendigungsschutzklage **gewinnbar** in 80-90 % der Faelle.
 
 ## 8) Hamburger Modell — Stufenweise Wiedereingliederung
 
-- Aerztliches Attest mit Stufen-Plan (z.B. 3h, 4h, 6h, 8h)
-- AG entscheidet ueber Teilnahme — kann auch ablehnen
-- Lohnzahlung waehrend Wiedereingliederung: typisch keine (Krankengeld bleibt)
-- Bei Erfolg: Zurueck zur vollen Arbeitsfaehigkeit
+- Ärztliches Attest mit Stufen-Plan (z.B. 3h, 4h, 6h, 8h)
+- AG entscheidet über Teilnahme — kann auch ablehnen
+- Lohnzahlung während Wiedereingliederung: typisch keine (Krankengeld bleibt)
+- Bei Erfolg: Zurueck zur vollen Arbeitsfähigkeit
 - Bei Misserfolg: BEM-Folge-Termin
 
 ## 9) Typische Fehler
 
-1. **AG fuehrt BEM gar nicht durch** — Kuendigung waekt unwirksam
+1. **AG führt BEM gar nicht durch** — Kündigung waekt unwirksam
 2. **Einladung ohne Hinweis auf Freiwilligkeit** — formale Pflicht
-3. **Bei AN-Ablehnung kein Verzicht-Schriftstueck** — Beweisproblem
-4. **Schwerbehinderten-Zustimmung Integrationsamt vergessen** — Kuendigung nichtig
-5. **BEM nur einmalig**, nicht bei wiederholten AU-Faellen — Pflicht-Verletzung
+3. **Bei AN-Ablehnung kein Verzicht-Schriftstück** — Beweisproblem
+4. **Schwerbehinderten-Zustimmung Integrationsamt vergessen** — Kündigung nichtig
+5. **BEM nur einmalig**, nicht bei wiederholten AU-Fällen — Pflicht-Verletzung
 
 ## 10) Honorar
 
 - BEM-Begleitung: pauschal oder Stundensatz
-- Kuendigungsschutzklage: § 42 II GKG (3 Brutto-Monatsgehaelter Streitwert)
+- Kündigungsschutzklage: § 42 II GKG (3 Brutto-Monatsgehaelter Streitwert)
 - Vergleich oft mit Abfindungs-Quote
 
 ## Anschluss
 
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — bei Klage
-- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` — bei einvernehmlicher Loesung
+- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` — bei einvernehmlicher Lösung
 - `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei laufender Krankheit

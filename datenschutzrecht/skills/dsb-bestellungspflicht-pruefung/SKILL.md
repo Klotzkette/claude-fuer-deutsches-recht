@@ -234,7 +234,7 @@ e) **Anlaufstelle Aufsichtsbehörde** für Fragen Beratung
 - Vertraulichkeits-Pflicht
 - Beendigungs-Regelung
 
-## Schritt 10 — Bei Verstoss
+## Schritt 10 — Bei Verstoß
 
 ### Sanktionen
 
@@ -298,7 +298,7 @@ e) **Anlaufstelle Aufsichtsbehörde** für Fragen Beratung
 
 ## Ausgabe
 
-- `dsb-pruefung-{unternehmen}.md` mit Pflicht-Analyse Anforderungs-Pruefung Konflikt-Bewertung
+- `dsb-pruefung-{unternehmen}.md` mit Pflicht-Analyse Anforderungs-Prüfung Konflikt-Bewertung
 - Bei DSB-Lücke: Bestellungs-Pflicht-Bestätigung + Bestellungs-Vorbereitung
 - Bei externem DSB: Vertrags-Entwurf
 - Bei internem DSB: Stellenbeschreibung

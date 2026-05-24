@@ -13,11 +13,11 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 - Abmahnung Kanzlei (Waldorf Frommer, .rka, FAREDS) wegen Film / Serie / Software
 - Streitwert behauptet hoch (10-50 K)
-- Aufforderung Unterlassungs-Erklaerung + Zahlung
+- Aufforderung Unterlassungs-Erklärung + Zahlung
 
-## 2) Eigene Pruefung
+## 2) Eigene Prüfung
 
-### Beweis-Pruefung
+### Beweis-Prüfung
 
 - IP-Adresse-Ermittlung korrekt?
 - Beweissicherungs-Protokoll der Kanzlei?
@@ -26,7 +26,7 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 ### Anschluss-Inhaber-Haftung
 
 - BGH, Urt. v. 27.7.2017 — I ZR 68/16 (Loud-Entscheidung)
-- BGH, Urt. v. 11.6.2015 — I ZR 19/14 (Tauschboerse III)
+- BGH, Urt. v. 11.6.2015 — I ZR 19/14 (Tauschbörse III)
 - **Sekundaere Darlegungslast**: Anschluss-Inhaber muss mitwirken, aber nicht selbst sich belasten
 
 ## 3) Strategie
@@ -35,19 +35,19 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 - Eigene Sicht: nicht selbst getauscht
 - Sekundaere Darlegungs-Last: Familienmitglieder im Haushalt?
-- Pruefung Internet-Sicherung
+- Prüfung Internet-Sicherung
 
-### Modifizierte Unterlassungs-Erklaerung
+### Modifizierte Unterlassungs-Erklärung
 
-- Standard-Erklaerung der Kanzlei akzeptiert oft zu viel
+- Standard-Erklärung der Kanzlei akzeptiert oft zu viel
 - Modifikation:
   - Nur konkrete Tat (nicht generelle Schutz-Tat)
   - Eingeschraenkte Verpflichtung
-  - Vertragsstrafe-Hoehe (Hamburger Brauch)
+  - Vertragsstrafe-Höhe (Hamburger Brauch)
 
 ## 4) Streitwert-Begrenzung § 97a III UrhG
 
-- Bei Verbraucher und einfach gelagerter Verletzung: **Gegenstandswert 1.000 EUR** fuer Anwaltsgebuehren-Berechnung
+- Bei Verbraucher und einfach gelagerter Verletzung: **Gegenstandswert 1.000 EUR** für Anwaltsgebuehren-Berechnung
 - Maximale Erstattung der Abmahnung: ca. 124 EUR Anwaltsgebuehren
 - BGH-Linie zu „einfach gelagert"
 
@@ -55,7 +55,7 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 ### Lizenz-Analogie
 
-- Lizenz-Hoehe fuer das geteilte Werk
+- Lizenz-Höhe für das geteilte Werk
 - GEMA-Tarife / Branchen-Referenzen
 - BGH: bei einzelnem Lied 60-200 EUR
 
@@ -67,11 +67,11 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 ### Sofort-Schritte
 
-- **NICHT Unterzeichnen** der Original-Unterlassungs-Erklaerung
+- **NICHT Unterzeichnen** der Original-Unterlassungs-Erklärung
 - **NICHT zahlen** ohne Anwalt
 - Schweige-Recht ueben
 
-### Phase 1 — Mandanten-Gespraech
+### Phase 1 — Mandanten-Gespräch
 
 - Familien-Konstellation
 - Internet-Nutzung
@@ -79,8 +79,8 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 
 ### Phase 2 — Schriftsatz
 
-- Bestreitens-Erklaerung
-- Modifizierte Unterlassungs-Erklaerung (ggf.)
+- Bestreitens-Erklärung
+- Modifizierte Unterlassungs-Erklärung (ggf.)
 - Aufwendungs-Anspruch ablehnen
 
 ### Phase 3 — Bei Klage
@@ -89,29 +89,29 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 - BGH-Verteidigungs-Linien
 - Vergleichs-Verhandlung
 
-## 7) Vertragsstrafe-Hoehe
+## 7) Vertragsstrafe-Höhe
 
-### Bei Verstoss
+### Bei Verstoß
 
 - Hamburger Brauch (typisch 5.001 EUR)
-- Bei Wiederholung: hoehere Saetze
+- Bei Wiederholung: höhere Sätze
 - Vermeidung: technische Sicherung Internet-Anschluss
 
 ## 8) Typische Fehler
 
-1. **Unterlassungs-Erklaerung sofort unterschrieben**
+1. **Unterlassungs-Erklärung sofort unterschrieben**
 2. **Selbst-Belastung** in Korrespondenz
-3. **Vergleichs-Zahlung** ohne Pruefung
+3. **Vergleichs-Zahlung** ohne Prüfung
 4. **Streitwert-Begrenzung § 97a III UrhG ignoriert**
 
 ## 9) BGH-Linien
 
 - BGH, Urt. v. 27.7.2017 — I ZR 68/16 (Loud)
-- BGH, Urt. v. 12.5.2016 — I ZR 86/15 (Tauschboerse VII)
-- BGH, Urt. v. 11.6.2015 — I ZR 19/14 (Tauschboerse III)
+- BGH, Urt. v. 12.5.2016 — I ZR 86/15 (Tauschbörse VII)
+- BGH, Urt. v. 11.6.2015 — I ZR 19/14 (Tauschbörse III)
 
 ## Anschluss
 
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — bei verbundener Frage
-- `urheber-abmahnung-pruefen` (Power-Tool) — Pruefraster
+- `urheber-abmahnung-pruefen` (Power-Tool) — Prüfraster
 - `fachanwalt-urheber-medienrecht-orientierung` — Triage

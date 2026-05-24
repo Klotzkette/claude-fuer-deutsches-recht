@@ -117,7 +117,7 @@ Nur einfügen wenn:
 
 Enthält: Telefonnummer des Transkriptionsservices, kurze Ablauferklärung, DSGVO-Einwilligungshinweis in Kurzform (Langform aus Skill `einwilligung-hinweis-datenschutz`).
 
-### Mandatsverhaeltnis-Disclaimer
+### Mandatsverhältnis-Disclaimer
 
 Kurzform in der Mail: „Bitte beachten Sie, dass diese Eingangsbestätigung kein Mandatsverhältnis begründet und keine Rechtsberatung darstellt."
 

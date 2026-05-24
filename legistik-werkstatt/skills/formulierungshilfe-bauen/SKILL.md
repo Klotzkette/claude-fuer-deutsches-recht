@@ -9,59 +9,59 @@ description: "Erstellt eine Formulierungshilfe aus der Mitte des Bundestages ode
 
 ## Was ist eine Formulierungshilfe?
 
-Ein Text, den die Ministerialverwaltung im Auftrag der Hausspitze entwirft und der dann von Abgeordneten der Koalitionsfraktionen als Aenderungsantrag in das laufende parlamentarische Verfahren eingebracht wird. Formal kommt der Antrag aus der "Mitte des Bundestages" / "Mitte des Landtages", inhaltlich aus dem Ministerium.
+Ein Text, den die Ministerialverwaltung im Auftrag der Hausspitze entwirft und der dann von Abgeordneten der Koalitionsfraktionen als Änderungsantrag in das laufende parlamentarische Verfahren eingebracht wird. Formal kommt der Antrag aus der "Mitte des Bundestages" / "Mitte des Landtages", inhaltlich aus dem Ministerium.
 
 ## Vorteile
 
-- Keine foermliche Ressortabstimmung (umgeht GGO-Verfahren)
-- Keine Verbaendeanhoerung
-- Keine Pruefung durch Normenkontrollrat
+- Keine förmliche Ressortabstimmung (umgeht GGO-Verfahren)
+- Keine Verbändeanhörung
+- Keine Prüfung durch Normenkontrollrat
 - Schnelle Beratung im Ausschuss
 
 ## Risiken
 
 - Geringere Pruefqualitaet
 - Politische Reputation kann leiden ("Schleichweg")
-- Risiko verfassungs- und europarechtlicher Pruefung steigt
+- Risiko verfassungs- und europarechtlicher Prüfung steigt
 - Bei umfassenderen Materien rechtspolitisch unangemessen
 
 ## Wann passt eine Formulierungshilfe?
 
-- Punktuelle Aenderung
+- Punktuelle Änderung
 - Dringender politischer Konsens
 - Bestehende parlamentarische Beratung, in die das Anliegen eingespeist werden kann
-- Materie ist ueberschaubar
+- Materie ist überschaubar
 
 ## Wann NICHT?
 
 - Eingriff in Grundrechte erheblich
 - Neue Stammgesetze
-- Umfangreiche Folgenabschaetzung erforderlich
-- Verfassungs- oder europarechtliche Zweifelsfaelle
+- Umfangreiche Folgenabschätzung erforderlich
+- Verfassungs- oder europarechtliche Zweifelsfälle
 
 ## Aufbau einer Formulierungshilfe
 
 ### Teil 1 - Antrag
 
-"Der Ausschuss XYZ moege beschliessen:"
-"Artikel ... wird wie folgt geaendert: ..."
+"Der Ausschuss XYZ moege beschließen:"
+"Artikel ... wird wie folgt geändert: ..."
 
-### Teil 2 - Begruendung (drei bis fuenf Saetze)
+### Teil 2 - Begründung (drei bis fünf Sätze)
 
 - Anliegen kurz
-- gewaehlte Loesung
+- gewählte Lösung
 - Bezug zum bestehenden Verfahren
 
 ### Teil 3 - interne Anlage
 
-- Hintergrundpapier fuer die Abgeordneten
-- Verfassungsrechtliche Bewertung in zwei Saetzen
-- Europarechtliche Bewertung in zwei Saetzen
-- Erfuellungsaufwand grobe Schaetzung
+- Hintergrundpapier für die Abgeordneten
+- Verfassungsrechtliche Bewertung in zwei Sätzen
+- Europarechtliche Bewertung in zwei Sätzen
+- Erfüllungsaufwand grobe Schätzung
 
 ## Pflichtquercheck
 
-Auch bei Formulierungshilfe muss intern geprueft werden:
+Auch bei Formulierungshilfe muss intern geprüft werden:
 
 - Verfassungsrecht (siehe `verfassungsmaessigkeit-quercheck`)
 - Europarecht (siehe `europarechtskonformitaet`)
@@ -69,7 +69,7 @@ Auch bei Formulierungshilfe muss intern geprueft werden:
 
 ## Ausgabe
 
-Datei "Formulierungshilfe_XYZ.md" mit Antrag, Begruendung und Hintergrundpapier.
+Datei "Formulierungshilfe_XYZ.md" mit Antrag, Begründung und Hintergrundpapier.
 
 ## Anschluss
 

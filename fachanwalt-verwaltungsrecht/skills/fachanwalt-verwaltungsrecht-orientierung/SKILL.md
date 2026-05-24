@@ -17,7 +17,7 @@ description: Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typ
 | Verwaltungsverfahren | VwVfG (Bund) Landes-VwVfG |
 | Verwaltungsprozess | VwGO §§ 40 ff. 80 86b 123 |
 | Allgemeines Verwaltungsrecht | Maurer/Waldhoff Hartmann Grundbegriffe |
-| Polizei- und Ordnungsrecht | Polizei- und Ordnungsgesetze der Laender (PolG NRW BayPAG) |
+| Polizei- und Ordnungsrecht | Polizei- und Ordnungsgesetze der Länder (PolG NRW BayPAG) |
 | Baurecht | BauGB BauNVO Landesbauordnungen |
 | Beamtenrecht | BeamtStG BBG Landesbeamtengesetze |
 | Versammlungsrecht | VersG / Landesversammlungsgesetze |
@@ -38,7 +38,7 @@ description: Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typ
 - **Widerspruchsfrist** § 70 VwGO — ein Monat.
 - **Klagefrist** § 74 VwGO — ein Monat ab Bekanntgabe.
 - **Berufungsantrag (Zulassung)** § 124a VwGO — ein Monat.
-- **Eilrechtsschutz** § 80 Abs. 5 VwGO und § 123 VwGO — keine Frist; aber Eilbeduerfnis erforderlich.
+- **Eilrechtsschutz** § 80 Abs. 5 VwGO und § 123 VwGO — keine Frist; aber Eilbedürfnis erforderlich.
 - **Normenkontrolle** § 47 VwGO — ein Jahr ab Bekanntmachung der Norm.
 
 ## Hauptgerichte

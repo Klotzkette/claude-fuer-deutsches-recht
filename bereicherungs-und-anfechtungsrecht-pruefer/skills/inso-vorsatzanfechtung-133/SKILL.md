@@ -17,8 +17,8 @@ Das AnfRefG vom 5. April 2017 hat § 133 InsO grundlegend geändert:
 - § 133 Abs. 1 InsO (Vorsatzanfechtung allgemein): zehn Jahre vor Antrag (unverändert).
 - § 133 Abs. 2 InsO (entgeltliche Verträge mit nahestehenden Personen): vier Jahre vor Antrag (neu).
 
-**Einschränkung bei kongruenten Deckungen:**
-§ 133 Abs. 3 InsO schränkt die Vorsatzanfechtung bei kongruenten Deckungen (§ 130 InsO) ein: Kannte der Anfechtungsgegner weder die Zahlungsunfähigkeit noch Umstände, die zwingend auf den Benachteiligungsvorsatz schließen lassen, entfällt die Anfechtung.
+**Einschränkung bei kongrünten Deckungen:**
+§ 133 Abs. 3 InsO schränkt die Vorsatzanfechtung bei kongrünten Deckungen (§ 130 InsO) ein: Kannte der Anfechtungsgegner weder die Zahlungsunfähigkeit noch Umstände, die zwingend auf den Benachteiligungsvorsatz schließen lassen, entfällt die Anfechtung.
 
 ## Tatbestandsmerkmale § 133 Abs. 1 InsO
 
@@ -28,7 +28,7 @@ Das AnfRefG vom 5. April 2017 hat § 133 InsO grundlegend geändert:
 
 **Indizien:**
 - Kenntnis der eigenen Zahlungsunfähigkeit oder drohenden Zahlungsunfähigkeit.
-- Inkongruente Leistung (starkes Indiz).
+- Inkongrünte Leistung (starkes Indiz).
 - Handeln zu Gunsten von nahestehenden Personen.
 
 ### 2. Kenntnis des Anfechtungsgegners

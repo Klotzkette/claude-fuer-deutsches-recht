@@ -22,9 +22,9 @@ Mandanten lesen lieber PDF als Excel. Der PDF-Bericht ist die Erzählfassung des
 ### 2. Management-Summary (Ein Blatt)
 
 - Würfel-Ampel mit Begründung in drei Sätzen
-- Top-5-Hotspots (Datenpunkte mit ueberproportional vielen roten Zellen)
+- Top-5-Hotspots (Datenpunkte mit überproportional vielen roten Zellen)
 - Top-5-rote-Zeilen (Dokumente die das größte Risiko tragen)
-- Top-3-Widersprueche aus `kreuzblatt-konsistenzpruefung`
+- Top-3-Widersprüche aus `kreuzblatt-konsistenzpruefung`
 - Anzahl Prüfer-Flags und Status der Abnahme
 
 ### 3. Pro Arbeitsblatt-Perspektive (ein Abschnitt)
@@ -59,7 +59,7 @@ Alle zitierten Quellen mit:
 
 - Rote Hintergrundfarbe bei roter Ampel
 - Gelbe Hintergrundfarbe bei gelber Ampel
-- Schwacher Gruener-Ton bei gruener Ampel (sonst zu unruhig)
+- Schwacher Grüner-Ton bei grüner Ampel (sonst zu unruhig)
 - Schraffur bei Prüfer-Flag
 
 ## Sicherheit

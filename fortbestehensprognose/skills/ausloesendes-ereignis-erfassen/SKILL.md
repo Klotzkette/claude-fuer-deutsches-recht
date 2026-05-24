@@ -15,25 +15,25 @@ Die Fortbestehensprognose ist kein Selbstzweck — sie ist die Antwort auf einen
 
 Seit 01.01.2021 hat der Steuerberater eine **Hinweispflicht**: wenn ihm bei der Bilanzaufstellung Anhaltspunkte für einen möglichen Insolvenzeröffnungsgrund auffallen muss er den Mandanten darauf hinweisen.
 
-- Datum des Hinweises (schriftlich / mündlich / im Gespraech)
+- Datum des Hinweises (schriftlich / mündlich / im Gespräch)
 - Wortlaut wenn schriftlich
 - Konkrete Anhaltspunkte die der StB genannt hat
 - Quittierung des Hinweises durch den Mandanten
 
 ### 2. Hinweis des Wirtschaftsprüfers
 
-Bei prüfungspflichtigen Gesellschaften (mittelgrosse oder große KapGes nach § 267 HGB) kann der Prüfer im Rahmen des Jahresabschlusses einen **Hinweis zur Going-Concern-Annahme** geben oder den Bestätigungsvermerk einschraenken oder versagen.
+Bei prüfungspflichtigen Gesellschaften (mittelgroße oder große KapGes nach § 267 HGB) kann der Prüfer im Rahmen des Jahresabschlusses einen **Hinweis zur Going-Concern-Annahme** geben oder den Bestätigungsvermerk einschraenken oder versagen.
 
 ### 3. Eigene Feststellung bei der Bilanzaufstellung
 
 - **Eigenkapital negativ** (Aktiva kleiner als Passiva).
-- **Wesentliche stille Lasten** im Status (z. B. Pensionsrückstellungen ausserbilanziell).
+- **Wesentliche stille Lasten** im Status (z. B. Pensionsrückstellungen außerbilanziell).
 - **Erhebliche außergewöhnliche Verluste** im laufenden Geschäftsjahr.
 
 ### 4. Liquiditätsengpass
 
 - Mahnungen Gerichtsbeschlüsse oder Zahlungsverzug bei wesentlichen Gläubigern.
-- Kreditlinie ausgeschoepft Kontoueberziehung.
+- Kreditlinie ausgeschoepft Kontoüberziehung.
 - Lohn- und Gehaltszahlungen knapp.
 - Steuer- und Sozialversicherungsabgaben nicht puenktlich.
 
@@ -93,5 +93,5 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 ## Ausgabe
 
 - `ausloesendes-ereignis.yaml` mit allen Pflichtfeldern.
-- Erste Risikobewertung (gruen / gelb / rot).
+- Erste Risikobewertung (grün / gelb / rot).
 - Empfehlung: bei rot direkt zu `wenn-prognose-negativ-naechste-schritte` und Insolvenzanwalt einschalten — diese Prüfung kann fortgesetzt werden aber nicht ohne anwaltliche Begleitung.

@@ -14,7 +14,7 @@ Koordiniert lokale Kanzleien, Übersetzungen, Rechtsvergleich und Multi-Jurisdic
 - Jurisdiktionen, lokale Counsel und Arbeitssprache erfassen.
 - Fragen standardisieren und Antworten vergleichbar machen.
 - Übersetzungen als Arbeitsübersetzung kennzeichnen.
-- Cross-border-Widersprueche und Annexmaterien eskalieren.
+- Cross-border-Widersprüche und Annexmaterien eskalieren.
 
 ## Rote Schwellen
 

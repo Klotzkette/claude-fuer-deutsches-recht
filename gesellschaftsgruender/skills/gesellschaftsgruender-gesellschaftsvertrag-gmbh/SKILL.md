@@ -17,56 +17,56 @@ Jede Satzung muss enthalten:
 2. **Sitz** der Gesellschaft
 3. **Gegenstand** des Unternehmens
 4. **Betrag des Stammkapitals**
-5. **Anteile** der Gesellschafter am Stammkapital (Geschaeftsanteile)
+5. **Anteile** der Gesellschafter am Stammkapital (Geschäftsanteile)
 
 Fehlt eine dieser Angaben, ist die Satzung nichtig.
 
 ## 2) Soll-Inhalte (typische Standardklauseln)
 
-### Geschaeftsjahr
+### Geschäftsjahr
 
 - Standard: Kalenderjahr (1.1.-31.12.)
-- Bei Gruendung im laufenden Jahr: Rumpf-Geschaeftsjahr bis 31.12.
+- Bei Gründung im laufenden Jahr: Rumpf-Geschäftsjahr bis 31.12.
 
-### Geschaeftsfuehrung und Vertretung
+### Geschäftsführung und Vertretung
 
 - Anzahl der GF
 - Einzel- oder Gesamtvertretung
-- Befreiung Paragraf 181 BGB (In-sich-Geschaeft, Mehrfachvertretung)
-- Bei Mehrheits-GF: Zustimmungs-Vorbehalte fuer aussergewoehnliche Geschaefte
+- Befreiung Paragraf 181 BGB (In-sich-Geschäft, Mehrfachvertretung)
+- Bei Mehrheits-GF: Zustimmungs-Vorbehalte für außergewoehnliche Geschäfte
 
-### Gesellschafterbeschluesse
+### Gesellschafterbeschlüsse
 
 - Form: meist einfacher Beschluss in Gesellschafterversammlung; schriftlich nur bei Einstimmigkeit (Paragraf 48 II GmbHG)
 - Mehrheits-Erfordernisse:
-  - Einfache Mehrheit fuer Standardentscheidungen
-  - 75 %-Mehrheit fuer Satzungsaenderungen, Aufloesung (Paragraf 53 II GmbHG)
-- Stimmrecht: meist nach Geschaeftsanteilen (1 EUR Anteil = 1 Stimme)
+  - Einfache Mehrheit für Standardentscheidungen
+  - 75 %-Mehrheit für Satzungsaenderungen, Auflösung (Paragraf 53 II GmbHG)
+- Stimmrecht: meist nach Geschäftsanteilen (1 EUR Anteil = 1 Stimme)
 - Ladungs-Form und -Frist
 
 ### Gewinnverwendung
 
 - Standard: anteilig nach Beteiligung
-- Abweichungen moeglich (Vorab-Dividende, Sondergewinnanspruch)
+- Abweichungen möglich (Vorab-Dividende, Sondergewinnanspruch)
 - Verlust-Ausgleich aus Ruecklagen
 
-### Geschaeftsanteile
+### Geschäftsanteile
 
-- Verfuegbarkeit (Veraeusserlichkeit, Erblichkeit)
-- **Vinkulierung**: Anteilsuebertragung nur mit Zustimmung der Gesellschaft (Paragraf 15 V GmbHG)
+- Verfügbarkeit (Veraeusserlichkeit, Erblichkeit)
+- **Vinkulierung**: Anteilsübertragung nur mit Zustimmung der Gesellschaft (Paragraf 15 V GmbHG)
 - **Vorkaufsrechte**: Andere Gesellschafter haben Vorzug bei Verkauf
 
 ### Ausscheiden und Abfindung
 
-- Einziehung von Geschaeftsanteilen (Paragraf 34 GmbHG): bei Insolvenz, Tod, schwerer Pflichtverletzung
+- Einziehung von Geschäftsanteilen (Paragraf 34 GmbHG): bei Insolvenz, Tod, schwerer Pflichtverletzung
 - Abfindungs-Berechnung: Verkehrswert, Buchwert, Substanzwert?
 - Auszahlungs-Frist und -Modus
 
 ### Wettbewerbsverbote
 
-- Fuer Gesellschafter und Geschaeftsfuehrer waehrend der Beteiligung und nachvertraglich
+- Für Gesellschafter und Geschäftsführer während der Beteiligung und nachvertraglich
 - Sachlich, raeumlich, zeitlich begrenzt (sonst Nichtigkeit Paragraf 138 BGB)
-- Entschaedigung fuer nachvertragliches Wettbewerbsverbot bei Geschaeftsfuehrern empfohlen (analoge Anwendung Paragraf 74 II HGB diskutiert)
+- Entschädigung für nachvertragliches Wettbewerbsverbot bei Geschäftsführern empfohlen (analoge Anwendung Paragraf 74 II HGB diskutiert)
 
 ## 3) Investoren-spezifische Klauseln
 
@@ -74,7 +74,7 @@ Bei Vorbereitung externer Investoren (typisch in Tech-Startups):
 
 ### Vesting
 
-- Gruender-Anteile werden ueber 3-4 Jahre erdient
+- Gründer-Anteile werden über 3-4 Jahre erdient
 - **Cliff** typisch 1 Jahr (vor Cliff keine Anteile)
 - Bei Ausscheiden: Gesellschaft kann nicht-vested Anteile zurueckkaufen oder einziehen
 - Steht typisch in **Gesellschaftervereinbarung**, nicht in Satzung
@@ -87,14 +87,14 @@ Bei Vorbereitung externer Investoren (typisch in Tech-Startups):
 
 ### Anti-Dilution-Protection
 
-- Schutz der Investoren vor Verwaesserung bei spaeteren Finanzierungsrunden zu niedrigerem Wert
+- Schutz der Investoren vor Verwässerung bei späteren Finanzierungsrunden zu niedrigerem Wert
 - „Weighted average" oder „Full ratchet"
 
 ### Drag-Along
 
 - Mehrheitsgesellschafter koennen Minderheitsgesellschafter zum Mitverkauf zwingen
-- Wichtig fuer Exit-Faehigkeit (Investor kann nicht von wenigen Gesellschaftern blockiert werden)
-- Schwellen-Mehrheit ueblich (z.B. 75 %)
+- Wichtig für Exit-Fähigkeit (Investor kann nicht von wenigen Gesellschaftern blockiert werden)
+- Schwellen-Mehrheit üblich (z.B. 75 %)
 
 ### Tag-Along
 
@@ -105,7 +105,7 @@ Bei Vorbereitung externer Investoren (typisch in Tech-Startups):
 
 - Mit Investor-Eintritt typisch:
   - Vetorecht bei Satzungsaenderungen
-  - Vetorecht bei aussergewoehnlichen Geschaeften
+  - Vetorecht bei außergewoehnlichen Geschäften
   - Informationsrechte (Quartalsberichte etc.)
   - Sitz im Beirat / Aufsichtsrat (falls eingerichtet)
 
@@ -113,31 +113,31 @@ Bei Vorbereitung externer Investoren (typisch in Tech-Startups):
 
 ### Musterprotokoll Paragraf 2 Ia GmbHG
 
-- Stark verkuerzte Satzung
+- Stark verkürzte Satzung
 - Voraussetzungen:
   - Maximal **3 Gesellschafter**
-  - **Ein** Geschaeftsfuehrer
-  - **Bargruendung** (keine Sacheinlage)
+  - **Ein** Geschäftsführer
+  - **Bargründung** (keine Sacheinlage)
 - Notarkosten reduziert
-- **Nicht erweiterbar** waehrend der Beurkundung
-- Erste Satzungsaenderung muss ueber individuelle Satzung erfolgen
+- **Nicht erweiterbar** während der Beurkundung
+- Erste Satzungsaenderung muss über individuelle Satzung erfolgen
 
 #### Wann sinnvoll
 
-- Solo-Gruender ohne Investor-Planung
-- Solo-/Paar-Gruendung mit klarer Quote
-- Schnelle, billige Gruendung
+- Solo-Gründer ohne Investor-Planung
+- Solo-/Paar-Gründung mit klarer Quote
+- Schnelle, billige Gründung
 
 ### Individuelle Satzung
 
 - Volle Gestaltungsfreiheit
-- Notarkosten geringfuegig hoeher
+- Notarkosten geringfuegig höher
 - Bei mehr als 3 Gesellschaftern, mehreren GF, Sacheinlage zwingend
 - Bei Investor-Vorbereitung zwingend
 
 ## 5) Beispiel: Klauseln einer typischen Tech-Startup-GmbH
 
-### Geschaeftsfuehrung
+### Geschäftsführung
 
 ```
 Die Gesellschaft hat einen oder mehrere Geschaeftsfuehrer.
@@ -179,31 +179,31 @@ Die Einziehung von Geschaeftsanteilen ist zulaessig:
 ### Was in Satzung
 
 - Pflicht-Inhalte
-- Klauseln mit Aussenwirkung (Vertretung, Vinkulierung)
+- Klauseln mit Außenwirkung (Vertretung, Vinkulierung)
 - Klauseln, die alle Gesellschafter binden sollen
 
 ### Was in Gesellschaftervereinbarung
 
-- Vesting / Cliff (innere Beziehung der Gruender)
+- Vesting / Cliff (innere Beziehung der Gründer)
 - Liquidation Preference, Anti-Dilution
 - Drag-/Tag-Along (oft auch in Satzung dupliziert)
 - Sondergewinnrechte
-- Wettbewerbsverbote (auch in Satzung moeglich)
+- Wettbewerbsverbote (auch in Satzung möglich)
 
 → Skill `gesellschaftsgruender-gesellschaftervereinbarung`
 
 ## 7) Typische Gestaltungs-Fehler
 
-1. **Musterprotokoll bei spaeter geplanter Investor-Aufnahme.** Spaetere Satzungsaenderung kostet 1.000+ EUR; initial individuelle Satzung waere billiger gewesen.
+1. **Musterprotokoll bei später geplanter Investor-Aufnahme.** Spätere Satzungsaenderung kostet 1.000+ EUR; initial individuelle Satzung waere billiger gewesen.
 2. **Zu enger Gegenstand des Unternehmens.** Pivot erfordert Satzungsaenderung mit 75-%-Mehrheit.
 3. **Keine Vinkulierung.** Anteil koennte an unerwuenschten Dritten verkauft werden.
-4. **Keine Einziehungs-Klausel.** Bei zerstrittener Gesellschafterstruktur keine Loesung ausser teure Aufloesung.
-5. **Abfindung zu Buchwert vereinbart, aber Verkehrswert weit hoeher.** Ausscheidender Gesellschafter wird benachteiligt, Klagen typisch.
+4. **Keine Einziehungs-Klausel.** Bei zerstrittener Gesellschafterstruktur keine Lösung außer teure Auflösung.
+5. **Abfindung zu Buchwert vereinbart, aber Verkehrswert weit höher.** Ausscheidender Gesellschafter wird benachteiligt, Klagen typisch.
 6. **Wettbewerbsverbot zu weit.** Sittenwidrig Paragraf 138 BGB -> insgesamt nichtig.
-7. **Keine Regelung zur Geschaeftsfuehrer-Bestellung.** Standard Paragraf 46 Nr. 5 GmbHG: durch Gesellschafterbeschluss — bei zerstrittener Mehrheit Lahmung.
+7. **Keine Regelung zur Geschäftsführer-Bestellung.** Standard Paragraf 46 Nr. 5 GmbHG: durch Gesellschafterbeschluss — bei zerstrittener Mehrheit Lahmung.
 
 ## Anschluss
 
-- `gesellschaftsgruender-gesellschaftervereinbarung` — fuer Gruendervertrag / SHA
+- `gesellschaftsgruender-gesellschaftervereinbarung` — für Gründervertrag / SHA
 - `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag GF
-- `gesellschaftsgruender-notar-vorbereitung` — fuer die Beurkundung
+- `gesellschaftsgruender-notar-vorbereitung` — für die Beurkundung

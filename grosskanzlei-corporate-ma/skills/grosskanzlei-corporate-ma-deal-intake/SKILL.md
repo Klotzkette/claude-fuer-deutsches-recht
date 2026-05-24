@@ -12,7 +12,7 @@ Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams
 ## Arbeitsmodus
 
 - Parteien, Zielgesellschaft, Deal-Typ, Jurisdiktionen, Zeitplan, Vertraulichkeit und erste rote Flaggen extrahieren.
-- Konfliktcheck, Sanktionen, Insider-/Clean-Room-Fragen und Mandatsumfang anstossen.
+- Konfliktcheck, Sanktionen, Insider-/Clean-Room-Fragen und Mandatsumfang anstoßen.
 - Fehlende Kerninformationen als kurze IRL anlegen.
 - Akte und Deal-Namen vorschlagen.
 

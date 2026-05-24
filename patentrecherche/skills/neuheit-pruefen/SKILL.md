@@ -79,4 +79,4 @@ Tabelle aller Entgegenhaltungen mit Bewertungsspalte:
 
 ## Disclaimer
 
-> **Hinweis zur Prüfung.** Diese Neuheitsprüfung ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Die Bewertung als „neu" oder „nicht neu" ist eine Einschätzung anhand der Recherche-Treffer; die amtliche Prüfung kann zu anderen Ergebnissen kommen, weil weitere oder andere Entgegenhaltungen gefunden werden oder die Auslegung des Anspruchs anders ausfaellt.
+> **Hinweis zur Prüfung.** Diese Neuheitsprüfung ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Die Bewertung als „neu" oder „nicht neu" ist eine Einschätzung anhand der Recherche-Treffer; die amtliche Prüfung kann zu anderen Ergebnissen kommen, weil weitere oder andere Entgegenhaltungen gefunden werden oder die Auslegung des Anspruchs anders ausfällt.

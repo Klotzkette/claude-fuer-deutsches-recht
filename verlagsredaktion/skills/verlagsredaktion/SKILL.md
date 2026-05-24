@@ -14,7 +14,7 @@ handschriftliche Notizen Email-Wechsel mit Co-Autoren. Aus diesem
 Material entsteht im traditionellen Verlagshaus durch redaktionelle
 Anschubhilfe ein Rohmanuskript mit dem der Autor weiterarbeiten
 kann. Der Skill leistet genau diese Anschubhilfe und ist zugleich
-ein Editionssystem für die nächsten Ueberarbeitungsrunden.
+ein Editionssystem für die nächsten Überarbeitungsrunden.
 
 Eigenleistung des Autors und redaktionelle Anschubhilfe werden
 transparent getrennt — der Autor sieht jederzeit was aus seinem
@@ -29,9 +29,9 @@ Material kommt und was die Redaktion ergänzt hat.
 - Videoausschnitte mit Transkript oder Untertiteln
 - Handschriftliche Notizen mit OCR
 - Eigene ältere Texte des Autors zur Stilreferenz
-- Beigefuegte Rechtsprechung und Kommentarliteratur
+- Beigefügte Rechtsprechung und Kommentarliteratur
 - Optional: Redaktions-Leitlinien des Verlags (Hauszitierweise
-  Spaltenbreite Fussnotenstil Umfangsvorgabe)
+  Spaltenbreite Fußnotenstil Umfangsvorgabe)
 
 OCR auf Scans und handschriftlichen Notizen ist Pflicht. Ohne
 Texterkennung wird das Material nicht verarbeitet.
@@ -45,12 +45,12 @@ Der Skill verdichtet die Inputs zu einer ersten Manuskriptfassung.
 Schritte:
 1. Materialinventar — pro Input Typ Umfang Datum Quelle notieren
 2. Themen-Cluster bilden aus allen Inputs gemeinsam
-3. Vorlaeufige Gliederung vorschlagen (I, II, III ... mit
+3. Vorläufige Gliederung vorschlagen (I, II, III ... mit
    Unterpunkten)
 4. Pro Gliederungspunkt Material zuordnen mit Quellenangabe in
    eckigen Klammern (`[Transkript v. 12.03. min 14:22]`,
    `[PPT Folie 7]`, `[Konzeptpapier S. 3]`)
-5. Rohtext schreiben — verdichtet nicht ueberinterpretierend
+5. Rohtext schreiben — verdichtet nicht überinterpretierend
 6. Lückenmarkierung — wo das Material für eine Stelle nicht
    reicht steht `[LUECKE: Autor bitte ergänzen]` mit Hinweis was
    inhaltlich fehlt
@@ -64,14 +64,14 @@ plain-text-Version.
 
 ### Modus B — Edition
 
-Der Skill ueberarbeitet eine vorhandene Fassung gemäß Auftrag des
+Der Skill überarbeitet eine vorhandene Fassung gemäß Auftrag des
 Autors oder Lektors:
 
 - Umgliedern — neue Gliederungsstruktur mit Begründung
 - Verdichten — Redundanzen entfernen Argumente straffen
 - Vertiefen — schwach belegte Stellen mit weiterer Literatur und
   Rechtsprechung anreichern (mit Pinpoint-Zitat)
-- Widerspruchsprüfung — interne Widersprueche und Bruechen
+- Widerspruchsprüfung — interne Widersprüche und Brüchen
   zwischen Abschnitten markieren
 - Sprachglaettung — Stil an Verlags-Leitlinien anpassen
 - Quellenprüfung — vorhandene Zitate auf Hauszitierweise
@@ -104,11 +104,11 @@ Reihenfolge juengere zuerst. Bei mehreren Belegen Punkt-Trennung.
 
 ### Kommentarliteratur
 
-Vorrangig Grueneberg und Münchener Kommentar. Format: Bearbeiter
+Vorrangig Grüneberg und Münchener Kommentar. Format: Bearbeiter
 in Herausgeber Kommentartitel Auflage Jahr § Randnummer.
 
 Beispiele:
-- Ellenberger in Grueneberg BGB 83. Auflage 2024 § 138 Rn. 51
+- Ellenberger in Grüneberg BGB 83. Auflage 2024 § 138 Rn. 51
 - Schaefer in MuenchKomm BGB 9. Auflage 2023 § 823 Rn. 412
 - Pohlmann in Wieczorek/Schuetze ZPO 5. Auflage 2024 § 91 Rn. 7
 
@@ -142,8 +142,8 @@ Im Rohmanuskript-Output gibt es eine Spalte oder eine Randmarkierung
 die anzeigt:
 
 - `[A]` Autor — wortgetreu oder eng paraphrasiert aus dem Material
-- `[R]` Redaktion — verbindender Text Ueberleitung Strukturhilfe
-- `[Z]` Zitat — extern beigefuegte Rechtsprechung oder Literatur
+- `[R]` Redaktion — verbindender Text Überleitung Strukturhilfe
+- `[Z]` Zitat — extern beigefügte Rechtsprechung oder Literatur
 - `[L]` Lücke — vom Autor zu ergänzen
 
 Der Autor entscheidet was er übernimmt. Die Trennung verhindert
@@ -188,7 +188,7 @@ Wortgetreue Übernahmen aus dem Material des Autors sind durch
 den Mandatsvertrag zwischen Autor und Verlag gedeckt. Wortgetreue
 Übernahmen aus fremder Kommentarliteratur und Rechtsprechung
 folgen § 51 UrhG (Zitatrecht) — Kennzeichnung und Quellenangabe
-zwingend. Gesetzestexte und Gerichtsentscheidungen geniessen
+zwingend. Gesetzestexte und Gerichtsentscheidungen genießen
 gemäß § 5 UrhG keinen urheberrechtlichen Schutz und sind frei
 verwendbar.
 
@@ -216,7 +216,7 @@ Zusicherung und tatsächlicher Gewährleistung sind zulässig.
 
 Der Skill ersetzt nicht den Autor. Er ersetzt auch nicht die
 Schluss-Redaktion durch einen erfahrenen Lektor. Er erspart aber
-die zaehe Phase zwischen Materialhaufen und erstem zusammenhaengenden
+die zaehe Phase zwischen Materialhaufen und erstem zusammenhängenden
 Text — die Phase in der Autoren erfahrungsgemäß steckenbleiben.
 Aus Materialhaufen wird Rohmanuskript. Aus Rohmanuskript wird
 Manuskript. Aus Manuskript wird Veröffentlichung. Der Skill

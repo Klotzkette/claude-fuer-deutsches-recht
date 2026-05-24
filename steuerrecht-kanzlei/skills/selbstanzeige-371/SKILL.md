@@ -7,7 +7,7 @@ description: Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei S
 
 ## Disclaimer (Schlüsselstelle, mehrfach)
 
-Eine fehlerhafte oder unvollständige Selbstanzeige fuehrt nicht zur Straffreiheit — sondern dokumentiert die Hinterziehung. Risiko: Strafverfahren mit zusätzlich der Selbstanzeige als Beweis. Vor jeder Selbstanzeige zwingend Doppelprüfung durch zweiten qualifizierten Anwalt und enge Abstimmung mit dem Mandanten über Wirtschaftlichkeit und Folgen.
+Eine fehlerhafte oder unvollständige Selbstanzeige führt nicht zur Straffreiheit — sondern dokumentiert die Hinterziehung. Risiko: Strafverfahren mit zusätzlich der Selbstanzeige als Beweis. Vor jeder Selbstanzeige zwingend Doppelprüfung durch zweiten qualifizierten Anwalt und enge Abstimmung mit dem Mandanten über Wirtschaftlichkeit und Folgen.
 
 ## Voraussetzungen
 
@@ -15,7 +15,7 @@ Eine fehlerhafte oder unvollständige Selbstanzeige fuehrt nicht zur Straffreihe
 
 - **Alle unrichtigen oder unvollständigen Angaben** in vollem Umfang berichtigen.
 - **Alle Steuerarten** der unverjährten Steuerstraftaten — mindestens **die letzten zehn Kalenderjahre** (§ 371 Abs. 1 Satz 2 AO).
-- **Alle Veranlagungszeitraeume** innerhalb dieses Zeitraums.
+- **Alle Veranlagungszeiträume** innerhalb dieses Zeitraums.
 - Eine Teil-Selbstanzeige ist unwirksam (Vollständigkeitsgebot).
 
 ### 2. Sperrgründe (§ 371 Abs. 2 AO)
@@ -23,8 +23,8 @@ Eine fehlerhafte oder unvollständige Selbstanzeige fuehrt nicht zur Straffreihe
 Keine Strafbefreiung wenn vor Selbstanzeige:
 
 - **Bekanntgabe einer Prüfungsanordnung** dem Taeter oder seinem Vertreter (§ 371 Abs. 2 Nr. 1a AO).
-- **Einleitung eines Straf- oder Bussgeldverfahrens** dem Taeter oder seinem Vertreter mitgeteilt (§ 371 Abs. 2 Nr. 1b AO).
-- **Erscheinen** eines Amtstraegers zur steuerlichen Prüfung oder Ermittlung (§ 371 Abs. 2 Nr. 1c AO).
+- **Einleitung eines Straf- oder Bußgeldverfahrens** dem Taeter oder seinem Vertreter mitgeteilt (§ 371 Abs. 2 Nr. 1b AO).
+- **Erscheinen** eines Amtsträgers zur steuerlichen Prüfung oder Ermittlung (§ 371 Abs. 2 Nr. 1c AO).
 - **Tatentdeckung** durch die Finanzbehörde teilweise oder vollständig (§ 371 Abs. 2 Nr. 2 AO).
 - **Hinterziehungsbetrag pro Tat über 25000 EUR** → Strafbefreiung nur bei Zahlung des Zuschlags § 398a AO.
 
@@ -42,7 +42,7 @@ Keine Strafbefreiung wenn vor Selbstanzeige:
 
 ### 2. Erklärung
 
-"Hiermit erstatte ich namens und im Auftrag des Steuerpflichtigen Selbstanzeige nach § 371 AO und berichtige die unrichtigen / unvollständigen Angaben in den Steuererklärungen für die Veranlagungszeitraeume (Jahre) Steuerarten (...) wie folgt: ..."
+"Hiermit erstatte ich namens und im Auftrag des Steuerpflichtigen Selbstanzeige nach § 371 AO und berichtige die unrichtigen / unvollständigen Angaben in den Steuererklärungen für die Veranlagungszeiträume (Jahre) Steuerarten (...) wie folgt: ..."
 
 ### 3. Berichtigungsdaten
 
@@ -61,7 +61,7 @@ Vollständige Bezugsbelege als Anlagen (Kontoauszüge Depotübersichten Belege a
 
 ### 5. Antrag
 
-"Es wird beantragt die nachzuzahlenden Betraege festzusetzen und eine Frist zur Zahlung einzuraeumen. Die Nachzahlung wird unverzueglich nach Festsetzung erfolgen."
+"Es wird beantragt die nachzuzahlenden Betraege festzusetzen und eine Frist zur Zahlung einzuräumen. Die Nachzahlung wird unverzueglich nach Festsetzung erfolgen."
 
 ## Wirtschaftliche Vorprüfung
 
@@ -70,7 +70,7 @@ Vollständige Bezugsbelege als Anlagen (Kontoauszüge Depotübersichten Belege a
 
 ## Verfahren
 
-1. **Schweigepflichtsentbindung** der Berater des Mandanten klaeren.
+1. **Schweigepflichtsentbindung** der Berater des Mandanten klären.
 2. **Vollständige Datenerhebung** in allen Steuerarten und Jahren — Vermögensaufstellung Depots ausländische Konten.
 3. **Doppelprüfung** durch zweiten qualifizierten Anwalt.
 4. **Selbstanzeige einreichen** über beA an Finanzamt.

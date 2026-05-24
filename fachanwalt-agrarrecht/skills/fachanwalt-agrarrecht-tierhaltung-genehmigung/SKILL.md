@@ -12,11 +12,11 @@ Genehmigung von Stallneubau / -erweiterung mit immissionsschutzrechtlichen, baup
 ## 1) Eingangs-Abfrage
 
 1. Tierart und geplante Bestandsgroesse (GV oder Tierplatzzahl)?
-2. Standort (Innenbereich, Aussenbereich, Schutzgebiete)?
+2. Standort (Innenbereich, Außenbereich, Schutzgebiete)?
 3. Bestehender Betrieb (Erweiterung) oder Neubau?
 4. Naehe zu Wohngebieten / Naturschutzgebieten?
-5. UVP-Vorpruefung bereits erfolgt?
-6. Buergerinitiative oder Nachbarn-Widerspruch absehbar?
+5. UVP-Vorprüfung bereits erfolgt?
+6. Bürgerinitiative oder Nachbarn-Widerspruch absehbar?
 
 ## 2) Schwellenwerte BImSchG vs. Baugenehmigung
 
@@ -35,30 +35,30 @@ Anhang 1 zur 4. BImSchV — Schwellenwerte:
 
 Unterhalb der Schwellen: **nur Baugenehmigung** nach Landes-Bauordnung.
 
-### Foermliches Verfahren vs. vereinfachtes Verfahren
+### Förmliches Verfahren vs. vereinfachtes Verfahren
 
-- **§ 10 BImSchG** Foermliches Verfahren (Hauptanlage): Buergerbeteiligung, Auslegung, Erörterungstermin
-- **§ 19 BImSchG** Vereinfachtes Verfahren (kleinere Schwelle): ohne Buergerbeteiligung
+- **§ 10 BImSchG** Förmliches Verfahren (Hauptanlage): Bürgerbeteiligung, Auslegung, Erörterungstermin
+- **§ 19 BImSchG** Vereinfachtes Verfahren (kleinere Schwelle): ohne Bürgerbeteiligung
 
-## 3) UVP-Vorpruefung
+## 3) UVP-Vorprüfung
 
-- **UVPG** Anlage 1: Schwellenwerte fuer **allgemeine** UVP, **standortbezogene** UVP, **Vor-UVP**
+- **UVPG** Anlage 1: Schwellenwerte für **allgemeine** UVP, **standortbezogene** UVP, **Vor-UVP**
 - Bei Mastschweinen ab 3.000 Tierplaetze: allgemeine UVP
-- Vor-UVP fuer Erweiterungen, wenn kumulative Wirkung relevant
+- Vor-UVP für Erweiterungen, wenn kumulative Wirkung relevant
 - Bei FFH-/Vogelschutzgebiet in Naehe: Vertraeglichkeitsprüfung § 34 BNatSchG
 
 ## 4) BauGB-Privilegierung § 35 I Nr. 1 BauGB
 
 ### Standortgebundenheit
 
-Tierhaltung im Aussenbereich nur privilegiert, wenn:
+Tierhaltung im Außenbereich nur privilegiert, wenn:
 
 - **Standortgebundenheit**: Tierhaltung muss an die Bodennutzung der Hofstelle gebunden sein
-- **Futtergrundlage**: > 50 % des Futters muss vom eigenen Hof kommen — bei Massentierhaltung **oft nicht erfuellt** -> nur Privilegierung wenn ueberwiegende Eigen-Futter-Grundlage
+- **Futtergrundlage**: > 50 % des Futters muss vom eigenen Hof kommen — bei Massentierhaltung **oft nicht erfüllt** -> nur Privilegierung wenn überwiegende Eigen-Futter-Grundlage
 
 ### Bei fehlender Privilegierung
 
-- **§ 35 II BauGB** sonstige Bauvorhaben: Genehmigung nur, wenn oeffentliche Belange nicht beeintraechtigt -> in Praxis oft Ablehnung
+- **§ 35 II BauGB** sonstige Bauvorhaben: Genehmigung nur, wenn öffentliche Belange nicht beeintraechtigt -> in Praxis oft Ablehnung
 
 ### BVerwG-Linie
 
@@ -68,38 +68,38 @@ BVerwG, Urt. v. 16.6.1994 — 4 C 20/93 zu Standortgebundenheit; BVerwG, Urt. v.
 
 ### TA Luft 2021
 
-- **Geruchsimmissions-Richtwerte**: 0,10 fuer Wohngebiet, 0,15 fuer Mischgebiet (Jahres-Geruchsstunden)
+- **Geruchsimmissions-Richtwerte**: 0,10 für Wohngebiet, 0,15 für Mischgebiet (Jahres-Geruchsstunden)
 - **GIRL** (Geruchsimmissions-Richtlinie) als Hilfsmittel
 - Mindestabstaende nach VDI 3894
 
 ### Bioaerosole
 
-- Pflicht-Pruefung bei groesseren Anlagen
+- Pflicht-Prüfung bei groesseren Anlagen
 - TA Luft 5.4.7.1: Begrenzung der Bioaerosol-Immission auf ≤ 100 KBE/m³
 
 ## 6) Tierschutz
 
 - **Tierschutz-Nutztierhaltungsverordnung** (TierSchNutztV)
-- Mindestflaechen pro Tier, Bewegungsmoeglichkeit, Beleuchtung, Lueftung
+- Mindestflaechen pro Tier, Bewegungsmöglichkeit, Beleuchtung, Lueftung
 - Bei Neubau zwingend zu beachten; Bestandsbau mit Bestandsschutz
 
 ## 7) Workflow Genehmigung
 
 ### Schritt 1 — Vorbereitung
 
-- Standort-Pruefung (BauNVO, Flaechennutzungsplan)
-- UVP-Vorpruefung beim Landesamt
+- Standort-Prüfung (BauNVO, Flächennutzungsplan)
+- UVP-Vorprüfung beim Landesamt
 - Schalltechnische, geruchstechnische, bioaerosol-Gutachten
 
 ### Schritt 2 — Antrag
 
-- Antrag bei zustaendiger Immissionsschutzbehoerde (in NRW Bezirksregierung, in BY LRA)
-- Vollstaendige Unterlagen inkl. UVP-Bericht
+- Antrag bei zuständiger Immissionsschutzbehoerde (in NRW Bezirksregierung, in BY LRA)
+- Vollständige Unterlagen inkl. UVP-Bericht
 
-### Schritt 3 — Buergerbeteiligung
+### Schritt 3 — Bürgerbeteiligung
 
 - Auslegung 1 Monat
-- Stellungnahmen Anwohner / Verbaende
+- Stellungnahmen Anwohner / Verbände
 - Erörterungstermin bei wesentlichen Bedenken
 
 ### Schritt 4 — Entscheidung
@@ -122,13 +122,13 @@ BVerwG, Urt. v. 16.6.1994 — 4 C 20/93 zu Standortgebundenheit; BVerwG, Urt. v.
 
 ## 9) Typische Fehler
 
-1. **UVP-Vorpruefung uebersehen** — Bescheid anfechtbar
+1. **UVP-Vorprüfung übersehen** — Bescheid anfechtbar
 2. **Standortgebundenheit nicht ausreichend dargelegt** — § 35 BauGB-Ablehnung
-3. **Geruchsgutachten unvollstaendig** — Auflagen-Aerger
+3. **Geruchsgutachten unvollständig** — Auflagen-Aerger
 4. **Tierschutz-Mindestmasse unterschritten** — Beanstandung
 
 ## Anschluss
 
-- `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` — bei verbundener Foerderung
+- `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` — bei verbundener Förderung
 - `umweltrecht-industrieanlage-genehmigung` — bei umfassender Anlage
 - `fachanwalt-verwaltungsrecht-widerspruch-oder-klage-erstpruefung` — bei Widerspruchs-Triage

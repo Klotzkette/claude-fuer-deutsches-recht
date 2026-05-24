@@ -40,10 +40,10 @@ Mietsenkungsverlangen sind streitanfällig. Die Mietpreisbremse gilt nur in Gebi
 
 - Mieter kann vom Vermieter Auskunft verlangen über Tatsachen, die für die Ausnahmen nach §§ 556e und 556f BGB massgebend sind.
 
-### Schritt 6 — Mietpreisueberhöhung (§ 5 WiStG)
+### Schritt 6 — Mietpreisüberhöhung (§ 5 WiStG)
 
 - **Über zwanzig Prozent** über ortsüblicher Vergleichsmiete bei **Ausnutzung eines geringen Angebots**.
-- Ordnungswidrigkeit; ueberhöhter Teil ist nicht geschuldet.
+- Ordnungswidrigkeit; überhöhter Teil ist nicht geschuldet.
 
 ### Schritt 7 — Wucher (§ 291 StGB)
 

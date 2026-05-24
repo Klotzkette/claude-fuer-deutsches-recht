@@ -19,7 +19,7 @@ description: Anhoerung des Betriebsrats nach § 102 BetrVG vor jeder Kuendigung.
 - **Stellungnahmefristen § 102 Abs. 2 BetrVG:**
   - ordentliche Kündigung: eine Woche
   - außerordentliche Kündigung: drei Tage
-- **Widerspruchsgründe § 102 Abs. 3 BetrVG** — nur gegen **ordentliche** Kündigungen (z. B. unzureichende Sozialauswahl, andere Beschäftigungsmöglichkeiten); ein Widerspruch des Betriebsrats gegen eine ausserordentliche Kündigung ist gesetzlich nicht vorgesehen.
+- **Widerspruchsgründe § 102 Abs. 3 BetrVG** — nur gegen **ordentliche** Kündigungen (z. B. unzureichende Sozialauswahl, andere Beschäftigungsmöglichkeiten); ein Widerspruch des Betriebsrats gegen eine außerordentliche Kündigung ist gesetzlich nicht vorgesehen.
 - **Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG** bei Widerspruch und Klage gegen eine ordentliche Kündigung.
 - **§ 79 BetrVG** Verschwiegenheitspflicht; bei sensiblen Daten Schwärzung.
 

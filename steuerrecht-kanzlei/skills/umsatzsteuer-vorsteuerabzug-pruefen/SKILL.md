@@ -97,7 +97,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 ## Schritt 4 — Berichtigung § 15a UStG
 
-### Aenderung der Verhältnisse
+### Änderung der Verhältnisse
 
 - Bei Wirtschaftsgütern (typisch Anlagevermögen Immobilien)
 - Bei nutzungsspezifischer Änderung des Vorsteuerabzugs-Bezugs

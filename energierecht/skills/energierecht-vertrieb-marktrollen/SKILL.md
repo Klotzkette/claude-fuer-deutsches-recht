@@ -223,7 +223,7 @@ Behandelt die Stromlieferungs-/Gasversorgungs-Sphäre: Grundversorger, Sonderkun
 
 - Anlagen-Portfolio strukturiert
 - Bilanzkreis-Pflichten sicherstellen
-- PPA-Optionen erschliessen
+- PPA-Optionen erschließen
 
 ## Verzahnung
 

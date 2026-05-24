@@ -98,7 +98,7 @@ Mietrechts-Mandate sind heterogen — Wohnraummietrecht (sozial geschützt) Gewe
 | Lage und Ausstattung erheben | `lage-und-ausstattung-erheben` |
 | WEG-Beschluss-Anfechtung | `weg-beschluss-anfechten` |
 | Mietkaution-Rückforderung | (Skill mietkaution-rueckforderung — perspektivisch) |
-| Mietminderung wegen Mangel | (Skill mietminderung-pruefen — perspektivisch) |
+| Mietminderung wegen Mangel | (Skill mietminderung-prüfen — perspektivisch) |
 
 ## Mandatsannahme
 

@@ -15,7 +15,7 @@ Einspruch und Klage gegen Steuerbescheide haben **keine aufschiebende Wirkung** 
 
 - Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag wenn:
   - **ernstliche Zweifel** an der Rechtmäßigkeit des Bescheids bestehen, **oder**
-  - die Vollziehung für den Steuerpflichtigen eine **unbillige nicht durch überwiegende öffentliche Interessen gebotene Haerte** zur Folge haette.
+  - die Vollziehung für den Steuerpflichtigen eine **unbillige nicht durch überwiegende öffentliche Interessen gebotene Härte** zur Folge hätte.
 
 ### Stufe 2 — Antrag an das Finanzgericht (§ 69 Abs. 3 FGO)
 
@@ -48,7 +48,7 @@ Bei Stufe 2 (FG):
 - BFH-Rechtsprechung zur Rechtsfrage.
 - Ungeloeste Streitfragen rechtfertigen ernstliche Zweifel.
 
-#### Unbillige Haerte
+#### Unbillige Härte
 
 - Vermögens- und Liquiditätslage des Steuerpflichtigen.
 - Existenzbedrohung durch sofortige Vollziehung.
@@ -56,7 +56,7 @@ Bei Stufe 2 (FG):
 
 #### Eidesstattliche Versicherung
 
-Bei wirtschaftlicher Haerte vom Mandanten zu unterschreiben — Glaubhaftmachung nach § 155 Satz 1 FGO iVm § 294 ZPO.
+Bei wirtschaftlicher Härte vom Mandanten zu unterschreiben — Glaubhaftmachung nach § 155 Satz 1 FGO iVm § 294 ZPO.
 
 ### 4. Sicherheitsleistung
 

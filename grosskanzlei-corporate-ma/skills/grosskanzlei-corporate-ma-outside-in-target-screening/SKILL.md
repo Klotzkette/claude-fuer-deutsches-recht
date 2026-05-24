@@ -7,20 +7,20 @@ description: "Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipel
 
 ## Zweck
 
-Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus oeffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen.
+Erstellt frühe Zielobjekt- und Pipeline-Analysen aus öffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen.
 
 ## Arbeitsmodus
 
 - Anforderungsprofil des Kaufinteressenten erfassen.
 - Zielunternehmen nach Markt, Produkt, Kunden, IP, Compliance, Risiko und Synergie scoren.
-- Warnsignale für spaetere Due Diligence markieren.
+- Warnsignale für spätere Due Diligence markieren.
 - Keine vertraulichen Daten fingieren; Quellenstatus klar trennen.
 
 ## Rote Schwellen
 
 - Quelle nicht verifizierbar.
 - Bewertung basiert nur auf Modellannahmen.
-- Marktmissbrauchs- oder Insiderrechtsrisiko bei boersennotierten Zielen.
+- Marktmissbrauchs- oder Insiderrechtsrisiko bei börsennotierten Zielen.
 
 ## Standardausgabe
 

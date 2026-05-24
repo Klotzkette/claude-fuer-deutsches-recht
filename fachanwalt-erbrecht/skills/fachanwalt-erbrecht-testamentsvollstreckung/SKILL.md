@@ -7,13 +7,13 @@ description: "Testamentsvollstreckung §§ 2197 ff. BGB. Abwicklungs-TV § 2203 
 
 ## Zweck
 
-Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Verwaltung, Auskunft, Vergueutung, Entlastung.
+Mandate als Testamentsvollstrecker (TV) oder Erben gegenüber TV — Annahme, Verwaltung, Auskunft, Vergütung, Entlastung.
 
 ## 1) Eingangs-Abfrage
 
 1. Art der TV: Abwicklungs-, Verwaltungs- oder Dauer-TV?
 2. Wer ist TV (Privat-Person, Anwalt, Notar, Bank)?
-3. Erblasser-Anordnungen (Aufgaben, Befugnisse, Vergueutung)?
+3. Erblasser-Anordnungen (Aufgaben, Befugnisse, Vergütung)?
 4. Anzahl Erben und Pflichtteils-Berechtigte?
 5. Nachlassvolumen?
 6. Bestehende Konflikte?
@@ -23,9 +23,9 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 ### Abwicklungs-TV § 2203 BGB
 
 - Standardform
-- Ueberfuehrung Nachlass in Erbengemeinschafts-Vermoegen
+- Überführung Nachlass in Erbengemeinschafts-Vermögen
 - Dauer: bis zur Auseinandersetzung
-- Erben sind nicht verfuegungsbefugt
+- Erben sind nicht verfügungsbefugt
 
 ### Verwaltungs-TV § 2209 BGB
 
@@ -44,11 +44,11 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 ### Frist
 
 - Unverzueglich nach Kenntnis (BGH: typisch 2-4 Wochen)
-- Form: Erklaerung gegenueber Nachlassgericht
+- Form: Erklärung gegenüber Nachlassgericht
 
-### Bestaetigung Nachlassgericht
+### Bestätigung Nachlassgericht
 
-- TV-Bestaetigung ist Legitimation gegenueber Banken, Grundbuch etc.
+- TV-Bestätigung ist Legitimation gegenüber Banken, Grundbuch etc.
 - Antragsgebuehr nach GNotKG (Streitwert nach Nachlassvolumen)
 
 ### Ablehnung
@@ -60,17 +60,17 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 
 ### Auskunftspflicht § 2218 BGB
 
-- Gegenueber Erben jederzeit
+- Gegenüber Erben jederzeit
 - Mindestens **jaehrliche Rechnungslegung** § 2218 II BGB
 
 ### Verzeichnis § 2215 BGB
 
-- Bei Amtsantritt: vollstaendiges Nachlass-Verzeichnis
+- Bei Amtsantritt: vollständiges Nachlass-Verzeichnis
 - Den Erben in Abschrift mitteilen
 
 ### Pflicht zur Auseinandersetzung § 2204 BGB
 
-- Bei Abwicklungs-TV: zuegige Aufloesung des Nachlasses
+- Bei Abwicklungs-TV: zuegige Auflösung des Nachlasses
 - Bei Streit: Verteilung nach Erbquoten
 
 ### Sorgfaltspflichten § 2216 BGB
@@ -78,12 +78,12 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 - Ordentliche Verwaltung wie ein „Treuhaender"
 - Bei Pflichtverletzung: Haftung § 2219 BGB
 
-## 5) Vergueutung § 2221 BGB
+## 5) Vergütung § 2221 BGB
 
 ### Erblasser-Anordnung
 
-- Erblasser kann Vergueutung anordnen
-- Bei Schweigen: angemessene Vergueutung
+- Erblasser kann Vergütung anordnen
+- Bei Schweigen: angemessene Vergütung
 
 ### Hamburger Tabelle (Standard)
 
@@ -97,7 +97,7 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 - Bei Privatpersonen: Hamburger Tabelle
 - Bei Streit: Festsetzung durch Nachlassgericht § 2221 BGB
 
-## 6) Erben-Strategie gegenueber TV
+## 6) Erben-Strategie gegenüber TV
 
 ### Bei Verzoegerung
 
@@ -105,14 +105,14 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 - Klage auf Auskunft / Rechnungslegung
 - Anfechtung der TV bei Pflichtverletzung § 2227 BGB
 
-### Bei Vergueutungs-Streit
+### Bei Vergütungs-Streit
 
 - Antrag auf Festsetzung beim Nachlassgericht
 - Hamburger Tabelle als Orientierung
 
 ### Entlassung des TV § 2227 BGB
 
-- Wichtiger Grund: grobe Pflichtverletzung, Unfaehigkeit
+- Wichtiger Grund: grobe Pflichtverletzung, Unfähigkeit
 - Beschluss Nachlassgericht
 - Ernennung Ersatz-TV
 
@@ -121,16 +121,16 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 ### Schritt 1 — Nachlass-Sichtung
 
 - Testament lesen, Auftrag verstehen
-- Vermoegens-Verzeichnis (Bank, Grundbuch, Versicherungen)
+- Vermögens-Verzeichnis (Bank, Grundbuch, Versicherungen)
 - Schulden ermitteln
 
-### Schritt 2 — Annahme-Erklaerung
+### Schritt 2 — Annahme-Erklärung
 
 - Notar-Beurkundung
 - Beim Nachlassgericht
 - TV-Zeugnis beantragen
 
-### Schritt 3 — Vermoegens-Sicherung
+### Schritt 3 — Vermögens-Sicherung
 
 - Konten-Sperrung bzw. Umstellung
 - Grundbuch-Sperre
@@ -138,39 +138,39 @@ Mandate als Testamentsvollstrecker (TV) oder Erben gegenueber TV — Annahme, Ve
 
 ### Schritt 4 — Verzeichnis und Erstmitteilung
 
-- Vollstaendiges Nachlass-Verzeichnis (binnen 4 Wochen)
+- Vollständiges Nachlass-Verzeichnis (binnen 4 Wochen)
 - Erben informieren
 
 ### Schritt 5 — Verwertung / Verteilung
 
 - Abwicklung Forderungen, Verbindlichkeiten
 - Pflichtteils-Auszahlung
-- Erbschaftssteuer-Erklaerung (TV-Pflicht)
+- Erbschaftssteuer-Erklärung (TV-Pflicht)
 
 ### Schritt 6 — Auseinandersetzung
 
 - Verteilungs-Plan
 - Erben-Zustimmung (bei Schenkungs-Anrechnung)
-- Vollstaendige Aufloesung
+- Vollständige Auflösung
 
 ### Schritt 7 — Entlastung
 
 - Abschluss-Rechnungslegung
 - Erben-Genehmigung
-- Loeschung TV im Erbschein
+- Löschung TV im Erbschein
 
 ## 8) Steuer
 
-- Erbschaftssteuer-Erklaerung durch TV (§ 31 V ErbStG)
-- TV-Vergueutung beim TV als Einnahme (selbststaendige Taetigkeit)
-- Bei Erben: Vergueutung als Nachlass-Verbindlichkeit abzugsfaehig
+- Erbschaftssteuer-Erklärung durch TV (§ 31 V ErbStG)
+- TV-Vergütung beim TV als Einnahme (selbstständige Tätigkeit)
+- Bei Erben: Vergütung als Nachlass-Verbindlichkeit abzugsfähig
 
 ## 9) Typische Fehler
 
 1. **Verzeichnis nicht binnen Frist** -> Erbenklage
-2. **Rechnungslegung versaeumt** -> Pflichtverletzung
-3. **Vergueutung ohne Hamburger Tabelle** -> Streit
-4. **Verfuegungs-Mangel** bei Verwaltungs-TV -> Erbenklage
+2. **Rechnungslegung versäumt** -> Pflichtverletzung
+3. **Vergütung ohne Hamburger Tabelle** -> Streit
+4. **Verfügungs-Mangel** bei Verwaltungs-TV -> Erbenklage
 5. **TV-Annahme unter Bedingung** -> Unwirksam
 
 ## 10) BGH-/OLG-Linien

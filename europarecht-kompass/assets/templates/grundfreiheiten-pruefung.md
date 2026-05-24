@@ -1,4 +1,4 @@
-# grundfreiheiten pruefung
+# grundfreiheiten prüfung
 
 | Punkt | Befund | Quelle | Risiko | nächster Schritt |
 | --- | --- | --- | --- | --- |

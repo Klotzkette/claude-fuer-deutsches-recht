@@ -7,13 +7,13 @@ description: "Mietminderung § 536 BGB bei Schimmelbefall Ursachen-Differenzieru
 
 ## Zweck
 
-Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
+Mandate Mieter bei Schimmel — Beweislast, Höhe, durchsetzbare Strategie.
 
 ## 1) Eingangs-Abfrage
 
-1. Welche Wohnflaeche betroffen?
+1. Welche Wohnfläche betroffen?
 2. Schimmel sichtbar oder verdeckt?
-3. Mieter-Lueftungsverhalten (Stoss-/Querlueftung, Feuchteproduktion)?
+3. Mieter-Lueftungsverhalten (Stoß-/Querlueftung, Feuchteproduktion)?
 4. Vermieter informiert?
 5. Bauphysik-Aspekte (Daemmung, Waermebruecken)?
 6. Aktuelle Miete?
@@ -24,12 +24,12 @@ Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
 
 - Foto-Dokumentation
 - Datums-Vermerk
-- Ggf. Sachverstaendigen-Beleg
+- Ggf. Sachverständigen-Beleg
 
 ### Schritt 2 — Vermieter beweist Ursache
 
-- Wenn Mieter Mangel bewiesen: Vermieter muss Bauphysik ausschliessen
-- Sachverstaendiger durch Vermieter
+- Wenn Mieter Mangel bewiesen: Vermieter muss Bauphysik ausschließen
+- Sachverständiger durch Vermieter
 
 ### Schritt 3 — Mieter beweist Bauphysik-Mangel
 
@@ -41,12 +41,12 @@ Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
 - BGH, Urt. v. 11.5.2016 — VIII ZR 209/15 (Beweislast-Verteilung)
 - BGH, Urt. v. 5.12.2018 — VIII ZR 271/17 (Lueftungs-Pflicht Mieter)
 
-## 3) Minderungs-Hoehe
+## 3) Minderungs-Höhe
 
 | Beeintraechtigung | Minderungs-Quote |
 |---|---|
-| Sichtbarer Schimmel kleine Flaeche | 5-10 % |
-| Mehrere Raeume betroffen | 10-20 % |
+| Sichtbarer Schimmel kleine Fläche | 5-10 % |
+| Mehrere Räume betroffen | 10-20 % |
 | Erheblicher Befall mit Geruch | 20-30 % |
 | Gesundheits-Beeintraechtigung | 30-50 % |
 | Unbewohnbarkeit | 100 % |
@@ -61,13 +61,13 @@ Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
 
 ### Standard
 
-- Stoss-Lueftung 3-5 Min, mehrfach taeglich
-- Bei Kochen / Duschen: zusaetzlich
-- BGH: zumutbar bis 3 x taeglich
+- Stoß-Lueftung 3-5 Min, mehrfach täglich
+- Bei Kochen / Duschen: zusätzlich
+- BGH: zumutbar bis 3 x täglich
 
 ### Bei verschärfter Pflicht
 
-- Veroeffentlichte Hinweis-Verstaendnis muss durch Vermieter erfolgen
+- Veröffentlichte Hinweis-Verständnis muss durch Vermieter erfolgen
 - Bei mangel-anfaelligen Wohnungen: detaillierte Hinweise
 
 ### Mieter-Verschulden
@@ -83,20 +83,20 @@ Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
 - Frist zur Mangelbeseitigung (typisch 2-4 Wochen)
 - Foto-Dokumentation
 
-### Schritt 2 — Mietkuerzung
+### Schritt 2 — Mietkürzung
 
 - Ab Mangel-Anzeige: gekürzte Miete zahlen
-- Differenz auf Sparkonto fuer Sicherung
+- Differenz auf Sparkonto für Sicherung
 
 ### Schritt 3 — Bei Untaetigkeit Vermieter
 
-- Sachverstaendiger
+- Sachverständiger
 - Schadensersatz-Forderung
 - ggf. Selbstvornahme § 536a II BGB
 
 ### Schritt 4 — Klage
 
-- Amtsgericht (Wohnraummiete unabhaengig vom Streitwert)
+- Amtsgericht (Wohnraummiete unabhängig vom Streitwert)
 - Klage auf Beseitigung + Minderung
 - Eilanordnung bei Gesundheitsgefahr
 
@@ -121,13 +121,13 @@ Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
 ### Sofort-Antwort
 
 - Besichtigungs-Termin
-- Sachverstaendiger
+- Sachverständiger
 - Mangel-Beseitigung Frist
 
 ### Bei nachgewiesener Mieter-Ursache
 
 - Mahnung zur Lueftung
-- Bei Wiederholung: ordentliche Kuendigung
+- Bei Wiederholung: ordentliche Kündigung
 
 ## 8) Sonderkonstellationen
 
@@ -140,14 +140,14 @@ Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
 ### Schimmel bei Neubau
 
 - Trocknungs-Phase 1-2 Jahre
-- Bei spaeterem Schimmel: Bauphysik-Mangel wahrscheinlich
+- Bei späterem Schimmel: Bauphysik-Mangel wahrscheinlich
 
 ## 9) Typische Fehler
 
 1. **Mangel-Anzeige fehlt** -> Schadensersatz scheitert
 2. **Lueftungs-Verhalten ohne Dokumentation** Mieter
-3. **Mietkürzung zu hoch** -> Vermieter-Kuendigung
-4. **Sachverstaendiger erst zu spaet**
+3. **Mietkürzung zu hoch** -> Vermieter-Kündigung
+4. **Sachverständiger erst zu spaet**
 5. **Bei Klage AG kein Anwalt-Pflicht — Anwalt-Vertretung dennoch empfohlen**
 
 ## 10) BGH-Linien
@@ -157,6 +157,6 @@ Mandate Mieter bei Schimmel — Beweislast, Hoehe, durchsetzbare Strategie.
 
 ## Anschluss
 
-- `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` — bei Folge-Kuendigung
+- `fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung` — bei Folge-Kündigung
 - `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` — bei WEG
 - `mietrecht` — vertieftes Vollplugin

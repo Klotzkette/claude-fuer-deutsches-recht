@@ -3,7 +3,7 @@ name: jveg-sachverstaendigenrechnung
 description: "Prüft Sachverständigenvergütung: Honorargruppe, erforderliche Zeit, Reisezeit, Nebenkosten, § 8a-Risiken und Vorschussüberlauf."
 ---
 
-# JVEG Sachverstaendigenrechnung
+# JVEG Sachverständigenrechnung
 
 ## Aufgabe
 

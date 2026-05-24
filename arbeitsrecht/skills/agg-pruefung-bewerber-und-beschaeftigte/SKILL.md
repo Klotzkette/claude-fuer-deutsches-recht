@@ -155,7 +155,7 @@ Arbeitgeber muss beweisen (Vollbeweis), dass kein Verstoß gegen das Benachteili
 
 ## Risikoampel
 
-| Befund | Rot | Orange | Gruen |
+| Befund | Rot | Orange | Grün |
 |--------|-----|--------|-------|
 | Stellenausschreibung | Merkmal des § 1 AGG explizit genannt (§ 11 AGG-Verstoß) | Mittelbar ausschließendes Kriterium ohne Rechtfertigung | Diskriminierungsmerkmalsneutral, Anforderungen sachlich |
 | Auswahlverfahren | Dokumentation fehlt, Entscheider hat diskriminierende Äußerungen gemacht | Lückenhaft dokumentiert, Merkmal bekannt geworden vor Entscheidung | Nachvollziehbarer, merkmalsneutraler Auswahlprozess dokumentiert |

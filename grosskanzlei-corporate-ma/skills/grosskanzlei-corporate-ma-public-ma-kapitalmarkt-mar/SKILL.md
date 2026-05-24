@@ -7,7 +7,7 @@ description: "Public M&A, Kapitalmarkt und MAR: Begleitet boersennotierte Transa
 
 ## Zweck
 
-Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen und Marktgeruechte.
+Begleitet börsennotierte Transaktionen: WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen und Marktgerüchte.
 
 ## Arbeitsmodus
 
@@ -19,7 +19,7 @@ Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen, Ad-hoc-Prüfung, Insi
 ## Rote Schwellen
 
 - Insiderinformation ungekennzeichnet.
-- Ad-hoc-Aufschub ohne Begruendung.
+- Ad-hoc-Aufschub ohne Begründung.
 - WpUEG-Frist oder Publikation offen.
 
 ## Standardausgabe

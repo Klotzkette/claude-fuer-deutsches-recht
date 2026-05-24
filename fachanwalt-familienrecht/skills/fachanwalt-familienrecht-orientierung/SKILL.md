@@ -21,7 +21,7 @@ description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbe
 | Versorgungsausgleich | VersAusglG |
 | Lebenspartnerschaft | LPartG |
 | Gerichtsverfassung | § 23a GVG (Familiengericht beim AG) § 23b GVG |
-| EU- und Voelkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
+| EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
 
 ## Typische Mandate
 

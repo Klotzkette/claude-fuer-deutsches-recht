@@ -7,12 +7,12 @@ description: "Kaltstart-Interview fuer das Fortbestehensprognose-Plugin. Stellt 
 
 ## Disclaimer (Schlüsselstelle)
 
-Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nach § 19 Abs. 2 InsO. Es ersetzt **nicht** die anwaltliche Prüfung durch einen Insolvenzrechtler bei Anzeichen für Insolvenzreife. Die Antragspflicht nach § 15a InsO (drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung) ist persoenliche Pflicht des Geschäftsleiters mit strafrechtlicher Bewehrung (§ 15a Abs. 4 InsO) und Haftungsrisiko (§ 15b InsO, fruehere § 64 GmbHG). Im Zweifel **vor** Ablauf der Frist Insolvenzanwalt konsultieren.
+Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nach § 19 Abs. 2 InsO. Es ersetzt **nicht** die anwaltliche Prüfung durch einen Insolvenzrechtler bei Anzeichen für Insolvenzreife. Die Antragspflicht nach § 15a InsO (drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung) ist persönliche Pflicht des Geschäftsleiters mit strafrechtlicher Bewehrung (§ 15a Abs. 4 InsO) und Haftungsrisiko (§ 15b InsO, frühere § 64 GmbHG). Im Zweifel **vor** Ablauf der Frist Insolvenzanwalt konsultieren.
 
 ## Ablauf
 
 1. Datei `~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md` prüfen.
-2. Falls befuellt: bestätigen, gegebenenfalls --redo für Neu-Interview.
+2. Falls befüllt: bestätigen, gegebenenfalls --redo für Neu-Interview.
 3. Andernfalls Interview unten ausführen.
 
 ## Interview
@@ -20,7 +20,7 @@ Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nac
 ### 1. Wer nutzt das Plugin
 
 - **Rolle:** Geschäftsführer GmbH / Vorstand AG / Geschäftsleiter Personengesellschaft / Gesellschafter mit Eigenverantwortung / Finanzleiter / sonst?
-- **Persoenliche Antragspflicht** nach § 15a InsO? Wer ist Geschäftsleiter mit Antragspflicht? Bei mehreren ist jeder einzeln verpflichtet (BGH-Rspr.).
+- **Persönliche Antragspflicht** nach § 15a InsO? Wer ist Geschäftsleiter mit Antragspflicht? Bei mehreren ist jeder einzeln verpflichtet (BGH-Rspr.).
 - **Anwaltlicher Ansprechpartner** (Insolvenzanwalt) — Name, Erreichbarkeit. Bei negativer Prognose sofort eskalieren.
 - **Steuerlicher Ansprechpartner** (Steuerberater / Wirtschaftsprüfer) — Name, Erreichbarkeit.
 
@@ -50,7 +50,7 @@ Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nac
 ### 5. Eskalationspfad
 
 - **Ab welchem Befund** wird sofort der Insolvenzanwalt eingeschaltet? Empfehlung: bei jedem 🔴-Flag im Verlauf.
-- **Drei-Wochen-Frist** § 15a InsO bei Zahlungsunfähigkeit (§ 17 InsO) ist persoenliche Pflicht. **Sechs Wochen** bei Überschuldung (§ 19 InsO seit SanInsFoG 2021).
+- **Drei-Wochen-Frist** § 15a InsO bei Zahlungsunfähigkeit (§ 17 InsO) ist persönliche Pflicht. **Sechs Wochen** bei Überschuldung (§ 19 InsO seit SanInsFoG 2021).
 - **Kein Aufschieben** wegen Sanierungsverhandlungen — die Frist beginnt mit Eintritt der Insolvenzreife (objektives Kriterium).
 
 ### 6. Standort

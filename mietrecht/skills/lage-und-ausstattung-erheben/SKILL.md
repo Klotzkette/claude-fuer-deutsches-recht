@@ -15,7 +15,7 @@ Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt f�
 
 ### 1. Adresse und Lage
 
-- Vollständige Adresse (Strasse, Hausnummer, PLZ, Ort).
+- Vollständige Adresse (Straße, Hausnummer, PLZ, Ort).
 - Stadt-/Stadtteil/Quartier.
 - Wohnlagen-Zuordnung nach dem amtlichen Straßenverzeichnis oder Geoportal der Stadt (einfach / mittel / gut). Wenn unklar: Link auf das amtliche Verzeichnis aus references/mietspiegel-quellen.md.
 

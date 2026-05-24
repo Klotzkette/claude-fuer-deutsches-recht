@@ -7,13 +7,13 @@ description: "Fertige Wuerfelvorlage fuer M&A-Due-Diligence — 18 Spalten (Vert
 
 ## Zweck
 
-M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind bekannt — diese Vorlage liefert sie fix und fertig: Spaltenprompts mit BGH-Verankerung, vier Arbeitsblatt-Perspektiven, Ampel-Schwellen praxisbewaehrt.
+M&A-DD bei einem Vertragsstapel der Zielgesellschaft. Die Standardfragen sind bekannt — diese Vorlage liefert sie fix und fertig: Spaltenprompts mit BGH-Verankerung, vier Arbeitsblatt-Perspektiven, Ampel-Schwellen praxisbewährt.
 
 ## Spalten (18 Datenpunkte)
 
 1. **Vertragsart** — Rahmenvertrag / Einzelvertrag / NDA / Lizenz / Lieferung / Werk
 2. **Laufzeit und Beginn** — Vertragsdatum + Festlaufzeit / unbefristet
-3. **Kündigungsfrist** — ordentliche / ausserordentliche / Sondertatbestaende
+3. **Kündigungsfrist** — ordentliche / außerordentliche / Sondertatbestände
 4. **Change-of-Control** — Klausel vorhanden / Schwelle / Rechtsfolge (BGH KZR 2/07)
 5. **MAC-Klausel** — Wesentlichkeitsdefinition / Rechtsfolge (BGB Paragraph 313 / 314)
 6. **Abtretungsverbot** — BGB Paragraph 399 / HGB Paragraph 354a / Vertragsübernahme

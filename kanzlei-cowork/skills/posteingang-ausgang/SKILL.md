@@ -7,7 +7,7 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 
 ## Posteingang
 
-### Erfassung pro eingegangenem Schriftstueck
+### Erfassung pro eingegangenem Schriftstück
 
 ```yaml
 - eingang-id: PE-2026-04223
@@ -33,11 +33,11 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 
 ### Drei-Tages-Fiktionen
 
-Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fiktion regelmäßig für den Fristbeginn. Bei nachweislich frueherem Zugang gilt der tatsächliche Zugang. Dokumentation des Eingangsdatums daher entscheidend.
+Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fiktion regelmäßig für den Fristbeginn. Bei nachweislich früherem Zugang gilt der tatsächliche Zugang. Dokumentation des Eingangsdatums daher entscheidend.
 
 ## Postausgang
 
-### Erfassung pro versendetem Schriftstueck
+### Erfassung pro versendetem Schriftstück
 
 ```yaml
 - ausgang-id: PA-2026-09817
@@ -58,7 +58,7 @@ Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fikti
 ### Pflichtschritte
 
 1. **Vor Versand** den Skill `versand-vor-check` durchlaufen.
-2. **Versandnummer** aus dem Versand-Vor-Check uebernehmen.
+2. **Versandnummer** aus dem Versand-Vor-Check übernehmen.
 3. **Quittung** sichern (beA EGVP Einschreiben).
 4. **Fristerledigung** im Fristenbuch markieren (Verweis zurück).
 5. **Mandant informieren** über den Versand falls vereinbart.
@@ -70,13 +70,13 @@ Bei Notfristen (Berufung Revision Kündigungsschutzklage): Posteingang Akte und 
 ## Audit-Trail
 
 - Append-only Logbuch `posteingang.jsonl` und `postausgang.jsonl`.
-- Änderungen nur durch Korrektureintrag (kein Ueberschreiben).
+- Änderungen nur durch Korrektureintrag (kein Überschreiben).
 - Bei Korrektur: Begründung Datum und ausführende Person.
 
 ## Tagesbrief-Integration
 
 - Posteingang des Vortags und der Nacht erscheint im `sekretariats-tagesbrief`.
-- Offene Posteingangs-Posten (noch nicht der Akte zugeordnet) werden taeglich gemeldet.
+- Offene Posteingangs-Posten (noch nicht der Akte zugeordnet) werden täglich gemeldet.
 
 ## Sichere Ablage
 
@@ -92,6 +92,6 @@ Bei Notfristen (Berufung Revision Kündigungsschutzklage): Posteingang Akte und 
 
 ## Ausgabe
 
-- Aktualisierte Logbuecher.
+- Aktualisierte Logbücher.
 - Tagesbrief-Einträge.
 - Verbindungen zu Akte Fristenbuch und Honorar-Tracker.

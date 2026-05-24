@@ -7,7 +7,7 @@ description: Mietersicht — pruefe ein Mieterhoehungsverlangen nach ortsueblich
 
 ## Disclaimer (Schlüsselstelle)
 
-Diese Prüfung und der nachstehende Entwurf ersetzen **keine Rechtsberatung**. Vor Versand des Schreibens an den Vermieter ist eine anwaltliche oder mietervereinsseitige Kontrolle dringend zu empfehlen. Fristversäumnisse fuehren zu gesetzlicher Zustimmung nach § 558b Abs. 2 BGB.
+Diese Prüfung und der nachstehende Entwurf ersetzen **keine Rechtsberatung**. Vor Versand des Schreibens an den Vermieter ist eine anwaltliche oder mietervereinsseitige Kontrolle dringend zu empfehlen. Fristversäumnisse führen zu gesetzlicher Zustimmung nach § 558b Abs. 2 BGB.
 
 ## Workflow
 
@@ -27,7 +27,7 @@ Diese Prüfung und der nachstehende Entwurf ersetzen **keine Rechtsberatung**. V
 
 ### Schritt 3 — Wartefrist und Sperrjahr
 
-- Die neue Miete darf fruehestens **fünfzehn Monate** nach Einzug oder nach der letzten Erhöhung verlangt werden (§ 558 Abs. 1 BGB).
+- Die neue Miete darf frühestens **fünfzehn Monate** nach Einzug oder nach der letzten Erhöhung verlangt werden (§ 558 Abs. 1 BGB).
 - Berechnung dokumentieren.
 
 ### Schritt 4 — Kappungsgrenze (§ 558 Abs. 3 BGB)
@@ -55,7 +55,7 @@ Diese Prüfung und der nachstehende Entwurf ersetzen **keine Rechtsberatung**. V
 
 ## Schreiben-Entwurf
 
-Erzeuge ein hoeflich-bestimmtes Schreiben mit:
+Erzeuge ein höflich-bestimmtes Schreiben mit:
 
 1. Bezugnahme auf das Verlangen vom (Datum).
 2. Rechtliche Prüfung punktweise (Form, Frist, Kappungsgrenze, ortsübliche Vergleichsmiete).

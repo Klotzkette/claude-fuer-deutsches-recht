@@ -14,7 +14,7 @@ Verbindet M&A-Datenraumprüfung mit dem Tabellenreview-3D-Ansatz: Dokumente x Da
 - Spaltenprompts für Datenpunkte formulieren.
 - Zeilen als Dokumente oder Vertragscluster definieren.
 - Blaetter für Legal, Tax, Finance, ESG und PMI anlegen.
-- Kreuzblatt-Widersprueche und Belegketten ausgeben.
+- Kreuzblatt-Widersprüche und Belegketten ausgeben.
 
 ## Rote Schwellen
 

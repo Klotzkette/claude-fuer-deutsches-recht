@@ -11,16 +11,16 @@ description: Insolvenzanfechtung nach §§ 129 ff. InsO. Anfechtungsgegenstand R
 2. Datum des Eröffnungsantrags und der Verfahrenseröffnung? Anfechtungszeiträume danach (3-Monats- bzw. 4- oder 10-Jahres-Fenster)?
 3. Wer ist Anfechtungsgegner (Vertragspartner, nahestehende Person § 138 InsO, Gesellschafter § 135 InsO)?
 4. War der Schuldnerin im Zeitpunkt der Handlung Zahlungsunfähigkeit § 17 oder drohende Zahlungsunfähigkeit § 18 InsO bekannt? Welche Indizien sind aktenkundig (Mahnungen, Vollstreckungsdruck, Ratenzahlungsbitten, Branchenkenntnis)?
-5. Lag eine kongruente oder inkongruente Deckung vor (Anspruch auf gerade diese Leistung in dieser Art und zu dieser Zeit)?
+5. Lag eine kongrünte oder inkongrünte Deckung vor (Anspruch auf gerade diese Leistung in dieser Art und zu dieser Zeit)?
 6. Bei Vorsatzanfechtung § 133 InsO: Gibt es Indizien für Gläubigerbenachteiligungsvorsatz der Schuldnerin und Kenntnis des Empfängers?
 
 ## Rechtsgrundlagen
 
 - **Allgemeine Anfechtungsvoraussetzungen:** § 129 InsO — Rechtshandlung vor Verfahrenseröffnung, Gläubigerbenachteiligung, Anfechtungstatbestand erfüllt.
-- **Kongruente Deckung:** § 130 InsO — Befriedigung oder Sicherung in den letzten drei Monaten vor Antrag bei eingetretener Zahlungsunfähigkeit und Kenntnis des Anfechtungsgegners.
-- **Inkongruente Deckung:** § 131 InsO — Befriedigung oder Sicherung, die der Empfänger nicht oder nicht in der Art oder nicht zu der Zeit zu beanspruchen hatte; Dreimonatsfrist; bei nahestehenden Personen § 138 InsO erweitert.
+- **Kongrünte Deckung:** § 130 InsO — Befriedigung oder Sicherung in den letzten drei Monaten vor Antrag bei eingetretener Zahlungsunfähigkeit und Kenntnis des Anfechtungsgegners.
+- **Inkongrünte Deckung:** § 131 InsO — Befriedigung oder Sicherung, die der Empfänger nicht oder nicht in der Art oder nicht zu der Zeit zu beanspruchen hatte; Dreimonatsfrist; bei nahestehenden Personen § 138 InsO erweitert.
 - **Unmittelbar nachteilige Rechtshandlung:** § 132 InsO — Rechtsgeschäft, das Gläubiger unmittelbar benachteiligt.
-- **Vorsatzanfechtung:** § 133 InsO — Anfechtung von Rechtshandlungen, die in den letzten zehn Jahren mit dem Vorsatz vorgenommen wurden, Gläubiger zu benachteiligen, wenn der Empfänger Kenntnis hatte. Bei kongruenter Deckung gilt seit der Reform 2017 (Gesetz zur Verbesserung der Rechtssicherheit bei Anfechtungen) die verkürzte Vier-Jahres-Frist § 133 Abs. 2 InsO.
+- **Vorsatzanfechtung:** § 133 InsO — Anfechtung von Rechtshandlungen, die in den letzten zehn Jahren mit dem Vorsatz vorgenommen wurden, Gläubiger zu benachteiligen, wenn der Empfänger Kenntnis hatte. Bei kongrünter Deckung gilt seit der Reform 2017 (Gesetz zur Verbesserung der Rechtssicherheit bei Anfechtungen) die verkürzte Vier-Jahres-Frist § 133 Abs. 2 InsO.
 - **Unentgeltliche Leistung:** § 134 InsO — Anfechtung bis vier Jahre vor Antrag, unabhängig von Vorsatz oder Kenntnis.
 - **Gesellschafterdarlehen:** § 135 InsO — Rückzahlung in letzten zwölf Monaten und Besicherung in letzten zehn Jahren anfechtbar.
 - **Rechtsfolge:** § 143 InsO — Rückgewähr in die Insolvenzmasse; Wertersatz bei Untergang.
@@ -30,7 +30,7 @@ description: Insolvenzanfechtung nach §§ 129 ff. InsO. Anfechtungsgegenstand R
 
 - BGH, Urt. v. 06.05.2021 – Az. IX ZR 72/20, BGHZ 230, 28 Rn. 22 — Kenntnis vom Gläubigerbenachteiligungsvorsatz; Abkehr von älteren Indizienketten und Konturierung nach Reform 2017.
 - BGH, Urt. v. 09.06.2022 – Az. IX ZR 254/20, NZI 2022, 705 Rn. 19 — Anforderungen an Vorsatzanfechtung bei Ratenzahlungsvereinbarungen.
-- BGH, Urt. v. 06.12.2012 – Az. IX ZR 3/12, BGHZ 196, 16 Rn. 25 — Bargeschäftsausnahme § 142 InsO bei zeitnaher Gegenleistung.
+- BGH, Urt. v. 06.12.2012 – Az. IX ZR 3/12, BGHZ 196, 16 Rn. 25 — Bargeschäftsausnahme § 142 InsO bei zeitnäher Gegenleistung.
 - BGH, Urt. v. 15.04.2010 – Az. IX ZR 62/09, BGHZ 185, 209 Rn. 13 — Erkennbarkeit der Zahlungsunfähigkeit beim Anfechtungsgegner.
 - BGH, Urt. v. 17.11.2016 – Az. IX ZR 65/15, NZI 2017, 65 Rn. 18 — Anfechtbarkeit von Gesellschafterdarlehen § 135 InsO.
 

@@ -77,7 +77,7 @@ beschließt einstimmig:
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Keine notarielle Beurkundung | Beschluss unwirksam, HR-Eintragung scheitert | Notar noch nicht beauftragt | Notar bestätigt Beurkundung |
 | Bezugsrechtsverzicht fehlt | Altgesellschafterinnen könnten neue Anteile beanspruchen | Verzicht nachzureichen | Verzicht im Beschluss |

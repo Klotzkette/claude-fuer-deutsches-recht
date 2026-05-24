@@ -59,7 +59,7 @@ Nach Wandlungserklärung: Gesellschaft beruft Gesellschafterversammlung ein (§ 
 |---|---|
 | Darlehensbetrag | EUR 250000 |
 | Laufzeit | 2 Jahre = 730 Tage |
-| Zinsen (730 Tage, fuenf Prozent) | EUR 250000 × 0.05 × (730/360) = EUR 25694 |
+| Zinsen (730 Tage, fünf Prozent) | EUR 250000 × 0.05 × (730/360) = EUR 25694 |
 | Wandlungssumme C | EUR 275694 |
 | Fall-back-Bewertung (Pre-Money) | EUR 4000000 |
 | Anteile vor Wandlung | 100 |
@@ -68,7 +68,7 @@ Nach Wandlungserklärung: Gesellschaft beruft Gesellschafterversammlung ein (§ 
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Keine Fall-back-Bewertung vereinbart | Wandlungsbetrag unbestimmt | Grobe Schätzung | Klarer EUR-Wert |
 | Gesellschaft in Insolvenz bei Maturity | Wandlung blockiert, Rangrücktritt greift | Insolvenzantrag gestellt | Gesellschaft solvent |

@@ -14,10 +14,10 @@ description: Orientierung im Verkehrsrecht — FAO Voraussetzungen Normen typisc
 
 | Bereich | Norm |
 |---|---|
-| Haftung | §§ 7 ff. StVG (Halterhaftung) § 18 StVG (Fuehrer) § 823 BGB (Verschuldenshaftung) |
+| Haftung | §§ 7 ff. StVG (Halterhaftung) § 18 StVG (Führer) § 823 BGB (Verschuldenshaftung) |
 | Versicherung | PflVG VVG §§ 100 ff. VVG (Haftpflicht) §§ 86 ff. VVG (Kasko) |
 | Straßenverkehrsrecht | StVO StVZO FeV |
-| Bussgeld | OWiG StPO §§ 67 ff. OWiG |
+| Bußgeld | OWiG StPO §§ 67 ff. OWiG |
 | Verkehrsstrafrecht | §§ 315b 315c 315d 316 StGB (Trunkenheit Straßenverkehrsgefährdung) § 142 StGB (Unfallflucht) |
 | Schadensrecht | §§ 249 ff. BGB Naturalrestitution Differenzhypothese Wertminderung Nutzungsausfall |
 
@@ -26,14 +26,14 @@ description: Orientierung im Verkehrsrecht — FAO Voraussetzungen Normen typisc
 - Unfallregulierung Schadensersatz
 - Personenschaden (Schmerzensgeld Erwerbsschaden)
 - Schmerzensgeld nach BGH-Tabellen
-- Bussgeldverfahren OWi
+- Bußgeldverfahren OWi
 - Fahrerlaubnisrecht (Entziehung Wiedererteilung MPU)
 - Verkehrsstrafrecht
 - Versicherungsstreit (Haftpflicht Vollkasko)
 
 ## Fristen
 
-- **Bussgeldverfahren** Einspruch zwei Wochen (§ 67 OWiG).
+- **Bußgeldverfahren** Einspruch zwei Wochen (§ 67 OWiG).
 - **Klagefrist Verwaltungsgericht** ein Monat (§ 74 VwGO) z. B. Fahrerlaubnisentzug.
 - **Verjährung** Schadensersatz nach Unfall regelmäßig drei Jahre (§ 195 BGB).
 - **Direktanspruch** gegen Versicherer drei Jahre.

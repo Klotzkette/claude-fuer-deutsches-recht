@@ -20,7 +20,7 @@ Führt Signing-to-Closing: Conditions Precedent, Ordinary Course, Bring-down, Cl
 
 - CP ohne Owner.
 - Closing Deliverable fehlt.
-- Ordinary-Course-Verstoss nicht eskaliert.
+- Ordinary-Course-Verstoß nicht eskaliert.
 
 ## Standardausgabe
 

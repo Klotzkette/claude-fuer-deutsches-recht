@@ -11,7 +11,7 @@ description: "Pruefung Terminologie-Konsistenz im legistischen Entwurf. Neue Leg
 
 Alle in der Norm verwendeten Fachbegriffe sammeln. Substantive zuerst, dann Adjektive und Verben, die definierte Bedeutung haben.
 
-## Schritt 2 - Pruefung "schon definiert?"
+## Schritt 2 - Prüfung "schon definiert?"
 
 Pro Begriff suchen:
 
@@ -25,13 +25,13 @@ Pro Begriff suchen:
 
 | Begriff | Definition Entwurf | Andere Norm | Abweichung | Bewertung | Vorschlag |
 |---|---|---|---|---|---|
-| Postfach | elektr. Postf. | beA-Verordnung | beA = nur Anwalt | bewusst weiter | OK, andere Bezeichnung waehlen |
+| Postfach | elektr. Postf. | beA-Verordnung | beA = nur Anwalt | bewusst weiter | OK, andere Bezeichnung wählen |
 | Unternehmen | iSd HGB | DSA Art. 3 g | DSA umfasst auch Plattformen ohne HReg | nein | Verweis auf DSA klarstellen |
 | Zweigniederlassung | iSd HGB | Niederlassung iSd EU | abweichend | nein | Wahl klarstellen |
 
 ## Schritt 4 - HdR-Test
 
-Handbuch der Rechtsfoermlichkeit des Bundes (BMJ, 3. Auflage 2008, in Bearbeitung 4. Auflage):
+Handbuch der Rechtsförmlichkeit des Bundes (BMJ, 3. Auflage 2008, in Bearbeitung 4. Auflage):
 
 - Bestimmte Begriffe meiden ("etwaige", "gegebenenfalls" - Unbestimmtheit)
 - Aktiv statt Passiv
@@ -40,13 +40,13 @@ Handbuch der Rechtsfoermlichkeit des Bundes (BMJ, 3. Auflage 2008, in Bearbeitun
 
 ## Schritt 5 - GGO-Test
 
-Gemeinsame Geschaeftsordnung der Bundesministerien (GGO): formale Mindestanforderungen.
+Gemeinsame Geschäftsordnung der Bundesministerien (GGO): formale Mindestanforderungen.
 
 ## Schritt 6 - Genderaspekt
 
 Geschlechtergerechte Sprache. Bei Personenbezeichnungen entweder:
 
-- Paarform "die Buergerin oder der Buerger"
+- Paarform "die Bürgerin oder der Bürger"
 - generisches Femininum oder Maskulinum
 - neutrale Formulierung "die Person"
 
@@ -54,7 +54,7 @@ Inkonsistenz vermeiden - eine Formel je Gesetz.
 
 ## Ausgabe
 
-Begriffstabelle als Anhang zum Entwurf. Kritische Faelle (Bruchbildung) markiert.
+Begriffstabelle als Anhang zum Entwurf. Kritische Fälle (Bruchbildung) markiert.
 
 ## Anschluss
 

@@ -49,7 +49,7 @@ Landesrecht-Portale verwenden teilweise eigene XML-Formate, teilweise LegalDocML
 </akomaNtoso>
 ```
 
-## Pruefung
+## Prüfung
 
 Schema-Validierung via xmllint:
 

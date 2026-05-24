@@ -41,14 +41,14 @@ Dieser Skill liefert Textbausteine und rechtliche Hinweise. Bei substanziellen S
 
 ### Eigenbedarfskündigung (§ 573 Abs. 2 Nr. 2 BGB)
 
-- Berechtigtes Interesse erforderlich (Eigennutzung für sich, Familienangehoerige oder Angehoerige des Haushalts).
+- Berechtigtes Interesse erforderlich (Eigennutzung für sich, Familienangehörige oder Angehörige des Haushalts).
 - Begründung im Kündigungsschreiben (§ 573 Abs. 3 BGB) — konkret, nicht pauschal.
 - Kündigungssperrfristen nach Landesverordnung beachten (siehe `references/mietspiegel-quellen.md`).
 
 ### Belegeinsicht zur Nebenkostenabrechnung (§ 259 BGB, § 556 Abs. 4 BGB)
 
 - Recht des Mieters bestätigen.
-- Termin in den Geschäftsraeumen anbieten oder Kopien gegen Erstattung übersenden.
+- Termin in den Geschäftsräumen anbieten oder Kopien gegen Erstattung übersenden.
 
 ## Antwortstil
 
@@ -56,5 +56,5 @@ Dieser Skill liefert Textbausteine und rechtliche Hinweise. Bei substanziellen S
 - Bezugnahme auf das konkrete Schreiben und Datum.
 - Rechtsgrundlage benennen.
 - Lösungsschritt mit Termin oder Frist.
-- Hoeflichkeitsformel zum Schluss.
+- Höflichkeitsformel zum Schluss.
 - **Disclaimer am Ende** der Antwort, falls rechtlich strittig: Hinweis, dass Mieter sich beraten lassen kann (Mieterverein, Anwalt).

@@ -22,7 +22,7 @@ Eine Klage ist ein Rechtsschriftsatz mit Konsequenzen (Gerichtskosten Streitwert
 - Über zehntausend Euro Landgericht (§ 71 GVG).
 - Bei Fluggastrechten über drei Personen mit 600-EUR-Anspruechen Schwelle erreichbar — prüfen.
 
-## Oertliche Zuständigkeit
+## Örtliche Zuständigkeit
 
 **EuGH, Urt. v. 09.07.2009 — C-204/08 (Rehder)**: Wahlrecht des Fluggasts. Klage kann am
 

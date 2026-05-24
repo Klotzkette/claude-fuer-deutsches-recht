@@ -16,10 +16,10 @@ description: Beschlussanfechtungsklage nach § 44 WEG. Klagefrist einen Monat ab
 
 ## Rechtsgrundlagen
 
-- **Beschlussfassung:** §§ 23, 25 WEG — Mehrheit der abgegebenen Stimmen § 25 Abs. 1 WEG; gesetzlicher Regelfall ist das Kopfstimmrecht § 25 Abs. 2 WEG (jeder Wohnungseigentuemer eine Stimme); abweichende Stimmrechtsmodelle (Wert- oder Objektprinzip) erfordern eine Vereinbarung der Wohnungseigentuemer nach § 10 Abs. 1 S. 2 WEG (typischerweise in der Teilungserklaerung, aber auch durch spaetere Vereinbarung moeglich; fuer Wirkung gegen Sondernachfolger Grundbucheintragung § 10 Abs. 3 WEG).
+- **Beschlussfassung:** §§ 23, 25 WEG — Mehrheit der abgegebenen Stimmen § 25 Abs. 1 WEG; gesetzlicher Regelfall ist das Kopfstimmrecht § 25 Abs. 2 WEG (jeder Wohnungseigentuemer eine Stimme); abweichende Stimmrechtsmodelle (Wert- oder Objektprinzip) erfordern eine Vereinbarung der Wohnungseigentuemer nach § 10 Abs. 1 S. 2 WEG (typischerweise in der Teilungserklärung, aber auch durch spätere Vereinbarung möglich; für Wirkung gegen Sondernachfolger Grundbucheintragung § 10 Abs. 3 WEG).
 - **Anfechtungsklage:** § 44 WEG seit Reform 01.12.2020 — Klage gegen die Gemeinschaft der Wohnungseigentümer; vorher Klage gegen alle übrigen Eigentümer.
 - **Frist § 45 WEG:** Klage binnen eines Monats ab Beschlussfassung; Klagebegründung binnen weiterer zwei Monate.
-- **Anfechtungsgründe:** Verstoß gegen ordnungsmässige Verwaltung § 19 WEG, gegen das Gesetz (WEG und sonstiges zwingendes Recht, insb. BGB und einschlaegiges oeffentliches Recht mit Beschlussbezug) oder gegen Vereinbarungen § 10 Abs. 1 S. 2 WEG.
+- **Anfechtungsgründe:** Verstoß gegen ordnungsmässige Verwaltung § 19 WEG, gegen das Gesetz (WEG und sonstiges zwingendes Recht, insb. BGB und einschlaegiges öffentliches Recht mit Beschlussbezug) oder gegen Vereinbarungen § 10 Abs. 1 S. 2 WEG.
 - **Nichtigkeit:** Beschluss ohne Beschlusskompetenz, Verstoß gegen zwingendes Recht (§§ 134, 138 BGB analog), grobe Unbestimmtheit.
 - **Aktivlegitimation:** Jeder Wohnungseigentümer, der Eigentümer im Zeitpunkt der Beschlussfassung war (§ 44 Abs. 1 WEG).
 - **Passivlegitimation:** Gemeinschaft der Wohnungseigentümer als Beklagte, vertreten durch Verwalter § 9b WEG.

@@ -47,7 +47,7 @@ description: "Internationalen Warenkaufvertrag nach CISG UN-Kaufrecht pruefen. A
 9. Zinsen Art. 78 CISG
 ```
 
-Standardliteratur: Schlechtriem/Schwenzer CISG; Brunner/Gottlieb Commentary on the UN Sales Law; Achilles UN-Kaufrechtsuebereinkommen.
+Standardliteratur: Schlechtriem/Schwenzer CISG; Brunner/Gottlieb Commentary on the UN Sales Law; Achilles UN-Kaufrechtsübereinkommen.
 
 ## Schreibvorlage Vertragsaufhebung Art. 49 CISG
 

@@ -56,7 +56,7 @@ Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandene
 
 ### Datenschutz
 
-- Zusatzspalten: TIA (Transfer Impact Assessment) / Datenschutz-Folgenabschaetzung-Pflicht / Joint-Controller
+- Zusatzspalten: TIA (Transfer Impact Assessment) / Datenschutz-Folgenabschätzung-Pflicht / Joint-Controller
 - Prüfer: Datenschutzbeauftragter
 - Materialität rot: Auftragsverarbeitung ohne AVV; Drittlandtransfer ohne SCC + TIA
 
@@ -83,7 +83,7 @@ Beim Onboarding eines neuen Lieferanten (oder beim Bestands-Audit der vorhandene
 - **DSGVO** — Artikel 28 (Auftragsverarbeitung) Artikel 35 (DSFA) Artikel 44 ff. (Drittlandtransfer)
 - **BDSG** — Beschaeftigtendatenschutz
 - **GwG** — Paragraph 10 Sorgfaltspflichten Paragraph 20 Transparenzregister
-- **LkSG** — Paragraph 5 Risikoanalyse Paragraph 6 Praeventionsmaßnahmen
+- **LkSG** — Paragraph 5 Risikoanalyse Paragraph 6 Präventionsmaßnahmen
 - **BGB** — Paragraph 305 ff. AGB-Kontrolle
 - **TKG / NIS2** — bei TK-/Cyber-bezogenen Vendoren
 

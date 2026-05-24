@@ -108,14 +108,14 @@ Standardhinweis mit:
 
 - Identität des Verantwortlichen (Kanzlei).
 - Zweck der Verarbeitung (Mandatsdurchführung).
-- Rechtsgrundlage (Art. 6 Abs. 1 lit. b DSGVO + § 50 BRAO Aktenfuehrung).
+- Rechtsgrundlage (Art. 6 Abs. 1 lit. b DSGVO + § 50 BRAO Aktenführung).
 - Empfänger (Gericht Behörde Steuerberater Gegenseite — je nach Bedarf).
 - Speicherdauer (mindestens 6 Jahre nach Mandatsende § 50 Abs. 1 BRAO).
 - Betroffenenrechte (Auskunft Berichtigung Löschung Widerspruch).
 
-## Geldwaesche-Identifizierung (§§ 10 11 GwG)
+## Geldwäsche-Identifizierung (§§ 10 11 GwG)
 
-Bei Mandaten die unter GwG fallen (z. B. Immobilientransaktionen Bargeldgeschaefte ab Schwellenwert):
+Bei Mandaten die unter GwG fallen (z. B. Immobilientransaktionen Bargeldgeschäfte ab Schwellenwert):
 
 - Identifizierung der natürlichen Person mit Lichtbildausweis Kopie.
 - Bei juristischer Person Registerauszug HRB plus wirtschaftlich Berechtigte nach Transparenzregister.

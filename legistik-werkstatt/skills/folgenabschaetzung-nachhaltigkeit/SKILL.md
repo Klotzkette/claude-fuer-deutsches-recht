@@ -3,7 +3,7 @@ name: folgenabschaetzung-nachhaltigkeit
 description: "Pruefung weiterer Folgen Nachhaltigkeit. UN-SDGs zugewiesen pruefen welche SDG betroffen Bewertung positiv neutral negativ Begruendung. Demografiecheck Wirkung auf demografische Entwicklung Beruecksichtigung aelterer Buerger Familien. Gleichstellungspolitischer Check Wirkung auf Geschlechter Equal Pay Familien. Klimacheck Wirkung auf Treibhausgasemissionen Ressourcenverbrauch. Soziale Folgen Inklusion Teilhabe Armut. Endet mit Folgenmatrix plus Aufnahme in Vorblatt Abschnitt G und Begruendung Abschnitt A.VI.6."
 ---
 
-# Folgenabschaetzung - Nachhaltigkeit
+# Folgenabschätzung - Nachhaltigkeit
 
 > Was bewirkt das Vorhaben jenseits des unmittelbaren Regelungsziels?
 
@@ -11,27 +11,27 @@ description: "Pruefung weiterer Folgen Nachhaltigkeit. UN-SDGs zugewiesen pruefe
 
 ### A - Nachhaltigkeit nach UN-SDG
 
-17 Sustainable Development Goals der UN, Resolution 70/1 von 2015. Pro Vorhaben Pruefung:
+17 Sustainable Development Goals der UN, Resolution 70/1 von 2015. Pro Vorhaben Prüfung:
 
 - SDG 1 Keine Armut - betroffen ja/nein, positiv/negativ
 - SDG 3 Gesundheit
 - SDG 4 Bildung
 - SDG 5 Geschlechtergleichheit
-- SDG 8 Wuerdige Arbeit
+- SDG 8 Würdige Arbeit
 - SDG 10 Weniger Ungleichheit
 - SDG 13 Klimaschutz
 - SDG 16 Frieden, Gerechtigkeit, starke Institutionen
 
 ### B - Demografiecheck
 
-- aeltere Buerger
+- aeltere Bürger
 - Kinder und Jugendliche
 - Familien
 - Single-Haushalte
 
 ### C - Gleichstellungspolitischer Check
 
-- Wirkung auf Frauen vs. Maenner
+- Wirkung auf Frauen vs. Männer
 - Care-Arbeit
 - Equal Pay
 - Gewaltschutz
@@ -46,9 +46,9 @@ Klimaschutzgesetz Paragraf 13. Wirkung auf Treibhausgasemissionen direkt und ind
 - Migration / Integration
 - Armut / Wohnungslosigkeit
 
-### F - Wirkung auf laendliche Raeume
+### F - Wirkung auf laendliche Räume
 
-- gleichwertige Lebensverhaeltnisse Art. 72 Abs. 2 GG
+- gleichwertige Lebensverhältnisse Art. 72 Abs. 2 GG
 
 ### G - Wirkung auf KMU
 
@@ -56,7 +56,7 @@ Klimaschutzgesetz Paragraf 13. Wirkung auf Treibhausgasemissionen direkt und ind
 
 ## Ausgabe
 
-Folgenmatrix als Tabelle plus Text fuer Vorblatt G und Begruendung A.VI.6.
+Folgenmatrix als Tabelle plus Text für Vorblatt G und Begründung A.VI.6.
 
 ## Anschluss
 

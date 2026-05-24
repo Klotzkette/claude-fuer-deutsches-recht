@@ -65,7 +65,7 @@ Der Erst-Skill jedes Energiemandats. Sortiert den Eingang nach Mandanten-Rolle u
 
 ### Versorgungssicherheits-Notlage
 
-- § 24 EnSiG Massnahmen
+- § 24 EnSiG Maßnahmen
 - § 13 EnWG-Eingriffsbefugnisse
 - BNetzA-Anordnungen Gas-Notfall-Plan
 
@@ -100,7 +100,7 @@ Der Erst-Skill jedes Energiemandats. Sortiert den Eingang nach Mandanten-Rolle u
 | Bauleitplanung Wärmenetz-Korridore | `normenkontrolle-bauleitplanung` |
 | Wettbewerbs-Verfahren Bundeskartellamt | `fachanwalt-internationales-wirtschaftsrecht` ergänzend |
 
-## Schritt 6 — Mandatskarte und Ampel-Pruefung
+## Schritt 6 — Mandatskarte und Ampel-Prüfung
 
 Standard-Ausgabe Mandatskarte:
 
@@ -123,7 +123,7 @@ Berufsrecht / DS-Pflichten: [Pruefung erfolgt]
 - **GELB**: Frist binnen 3 Monaten, Genehmigungs-Verfahren mit Ausgang offen, Vertrags-Streit eskaliert
 - **GRÜN**: Frist über 3 Monate, klare Rechtslage, kooperative Beteiligte
 
-## Schritt 7 — Erstgespraechs-Fragen
+## Schritt 7 — Erstgesprächs-Fragen
 
 1. **Mandant und Gegen-Seite**: Welche Rolle haben Sie? Wer ist Vertragspartner / Gegner / Behörde?
 2. **Phase**: Projektentwicklung, Betrieb, Streit, Verkauf?
@@ -141,7 +141,7 @@ Berufsrecht / DS-Pflichten: [Pruefung erfolgt]
 - **Berufshaftpflicht** muss energierechtliche Beratung abdecken (häufig Ergänzung-Bedarf bei Allgemein-Kanzleien)
 - **Spezialisten-Pflicht** wenn komplexes EEG-Vergabe-Verfahren oder BNetzA-Festlegung — ggf. Mit-Mandat Spezial-Kanzlei
 - **Mandatsgeheimnis** § 43a Abs. 2 BRAO bei Geschäftsgeheimnissen Energieanlagen
-- **Interessenkonflikt** Pruefung — Anbieter / Netzbetreiber / Verbraucher häufig gegenläufige Interessen
+- **Interessenkonflikt** Prüfung — Anbieter / Netzbetreiber / Verbraucher häufig gegenläufige Interessen
 
 ## Schritt 9 — Ausgabe-Standard
 
@@ -149,7 +149,7 @@ Berufsrecht / DS-Pflichten: [Pruefung erfolgt]
 - Skill-Routing-Empfehlung
 - Frist-Tabelle
 - Ampel-Bewertung
-- Naechster Schritt formuliert
+- Nächster Schritt formuliert
 - Berufsrechts-Vermerk
 
 ## Quellen

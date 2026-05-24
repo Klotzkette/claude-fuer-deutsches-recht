@@ -3,17 +3,17 @@ name: verbaendeanhoerung-ressortabstimmung
 description: "Steuert die Verbaendeanhoerung und die Ressortabstimmung nach GGO. Erstellung der Anschreiben Liste der zu beteiligenden Verbaende abgestimmt mit Ressorts. Fristsetzung typischerweise drei bis sechs Wochen je nach Umfang. Auswertung der Stellungnahmen kategorisiert in zustimmend kritisch ablehnend mit konkreten Aenderungsvorschlaegen. Eigene Stellungnahme zu jeder kritischen Position. Aenderungen am Entwurf nachvollziehbar dokumentieren. Endet mit Auswertungsmatrix plus geaendertem Entwurf bereit fuer Kabinett."
 ---
 
-# Verbaendeanhoerung und Ressortabstimmung
+# Verbändeanhörung und Ressortabstimmung
 
 > Bevor das Kabinett entscheidet, muss man andere haben sprechen lassen.
 
-## Verbaendeanhoerung
+## Verbändeanhörung
 
-### Schritt 1 - Liste der Verbaende
+### Schritt 1 - Liste der Verbände
 
 Verbandsliste je nach Sachgebiet. Beispiele:
 - DIHK, ZDH, BDI, BDA, DGB (Wirtschaft, Arbeit)
-- DAV, BRAK, BNotK (Anwaelte, Notare)
+- DAV, BRAK, BNotK (Anwälte, Notare)
 - Sozialverband VdK, Sozialverband Deutschland (Sozialrecht)
 - BvD, Stiftung Datenschutz (Datenschutz)
 - Verbraucherzentrale Bundesverband (Verbraucherschutz)
@@ -30,15 +30,15 @@ Verbandsliste je nach Sachgebiet. Beispiele:
 
 - Standard: vier Wochen
 - bei umfangreichen Entwuerfen: sechs Wochen
-- bei Eile: zwei Wochen (mit Begruendung)
+- bei Eile: zwei Wochen (mit Begründung)
 
 ### Schritt 4 - Auswertung
 
 Tabelle:
 
-| Verband | Position | Begruendung | Vorschlag | Bewertung MinRef | Aenderung |
+| Verband | Position | Begründung | Vorschlag | Bewertung MinRef | Änderung |
 |---|---|---|---|---|---|
-| DIHK | kritisch | Erfuellungsaufwand | Schwellenwert anheben | erwogen | nein |
+| DIHK | kritisch | Erfüllungsaufwand | Schwellenwert anheben | erwogen | nein |
 | Bitkom | zustimmend | Klare Regelung | - | - | - |
 | Verbraucherzentrale | ablehnend | Goldplating | RL-Mindeststandard | abgelehnt | nein |
 
@@ -50,13 +50,13 @@ Zu jeder kritischen Position eine eigene Position formulieren - das vermeidet po
 
 GGO-Verfahren:
 
-### Schritt 1 - Federfuehrendes Ressort
+### Schritt 1 - Federführendes Ressort
 
-Bestimmung durch Geschaeftsordnung der Bundesregierung.
+Bestimmung durch Geschäftsordnung der Bundesregierung.
 
-### Schritt 2 - Mitzeichnungsfaehige Ressorts
+### Schritt 2 - Mitzeichnungsfähige Ressorts
 
-Alle Ressorts, deren Geschaeftsbereich betroffen ist. Auch nur am Rande - eher mitzeichnen lassen.
+Alle Ressorts, deren Geschäftsbereich betroffen ist. Auch nur am Rande - eher mitzeichnen lassen.
 
 ### Schritt 3 - Mitzeichnungs-Verfahren
 
@@ -66,14 +66,14 @@ Alle Ressorts, deren Geschaeftsbereich betroffen ist. Auch nur am Rande - eher m
 
 ### Schritt 4 - Dokumentation
 
-Pro Aenderungswunsch des Ressorts: Wer wollte was warum, wie wurde damit umgegangen.
+Pro Änderungswunsch des Ressorts: Wer wollte was warum, wie wurde damit umgegangen.
 
 ## Ausgabe
 
 - Verbandsliste (Excel)
 - Anschreiben (DOCX)
 - Auswertungsmatrix (Excel + Markdown)
-- Aenderungs-Dokumentation (Markdown)
+- Änderungs-Dokumentation (Markdown)
 
 ## Anschluss
 

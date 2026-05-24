@@ -7,7 +7,7 @@ description: "Wuerfelvorlage fuer Massenpruefung von Arbeitsvertraegen — 15 Sp
 
 ## Zweck
 
-Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsverträgen mit jeweils 12 bis 30 Klauseln. Diese Vorlage macht das pruefbar — in einem Lauf 200 mal 15 mal 3 = 9000 Zellen mit konsolidierter Ampel.
+Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsverträgen mit jeweils 12 bis 30 Klauseln. Diese Vorlage macht das prüfbar — in einem Lauf 200 mal 15 mal 3 = 9000 Zellen mit konsolidierter Ampel.
 
 ## Spalten (15 Datenpunkte)
 
@@ -24,7 +24,7 @@ Wer einen Mittelstaendler erwirbt steht vor 200 Arbeitsverträgen mit jeweils 12
 11. **Karenzentschädigung** — Höhe (mind 50 Prozent) / Berechnungsbasis
 12. **Urlaub** — Mindestmass BUrlG Paragraph 3 / vertraglich vereinbart
 13. **Vorbehaltsklauseln** — Versetzungs- / Widerrufs- / Anrechnungsklausel
-14. **Ueberstundenklausel** — Pauschalabgeltung (BAG strenge Prüfung)
+14. **Überstundenklausel** — Pauschalabgeltung (BAG strenge Prüfung)
 15. **Verfallklauseln** — Ausschlussfristen (mindestens 3 Monate Bag Rechtsprechung)
 
 ## Arbeitsblatt-Perspektiven (3)

@@ -37,12 +37,12 @@ Die Prüfung deckt typische Fehlerquellen ab, ersetzt aber keine anwaltliche Pr�
 ### Schritt 5 — Belegrecht (§ 259 BGB, § 556 Abs. 4 BGB)
 
 - Mieter darf die Originalbelege einsehen.
-- Aufforderung in Textform mit Termin in den Geschäftsraeumen des Vermieters oder Versand von Kopien gegen Erstattung der Kosten.
+- Aufforderung in Textform mit Termin in den Geschäftsräumen des Vermieters oder Versand von Kopien gegen Erstattung der Kosten.
 
 ### Schritt 6 — Einwendungsfrist
 
 - Einwendungen müssen dem Vermieter spätestens **zwölf Monate nach Zugang der Abrechnung** mitgeteilt werden (§ 556 Abs. 3 Satz 5 und 6 BGB).
-- Fristversäumnis fuehrt zur Praeklusion der Einwendungen.
+- Fristversäumnis führt zur Präklusion der Einwendungen.
 
 ## Schreiben-Entwurf
 

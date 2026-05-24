@@ -72,7 +72,7 @@ description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Dat
 ### Steuererklärungspflicht (§ 149 AO)
 
 - **Pflichtveranlagung** sieben Monate nach Ablauf des Kalenderjahrs (§ 149 Abs. 2 AO).
-- **Bei steuerlicher Vertretung** durch Steuerberater Verlängerung bis Ende Februar des uebernächsten Jahres (§ 149 Abs. 3 AO).
+- **Bei steuerlicher Vertretung** durch Steuerberater Verlängerung bis Ende Februar des übernächsten Jahres (§ 149 Abs. 3 AO).
 
 ### USt-Voranmeldung (§ 18 UStG)
 

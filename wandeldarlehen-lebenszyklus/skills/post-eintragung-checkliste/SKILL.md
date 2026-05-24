@@ -66,7 +66,7 @@ Dokumentation: Zeitlinie (Darlehen → Wandlungsereignis → Erklärung → Besc
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Sperrfrist § 22 UmwStG nicht beachtet | Rückwirkender Einbringungsgewinn | Steuerberater nicht informiert | Lender informiert |
 | Transparenzregister nach Eintragung nicht aktualisiert | GwG-Bußgeld | Verzögerung | Unmittelbar aktualisiert |

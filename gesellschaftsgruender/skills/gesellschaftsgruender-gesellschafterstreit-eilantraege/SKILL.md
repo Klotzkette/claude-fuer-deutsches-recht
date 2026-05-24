@@ -3,46 +3,46 @@ name: gesellschaftsgruender-gesellschafterstreit-eilantraege
 description: "Gesellschafterstreit Eilantrag einstweilige Verfuegung Landgericht Anmeldungs-Sperre Registergericht Paragraf 16 HGB. Streitige Gesellschafterversammlung Versammlungsleiter Konflikt. Anfechtungsklage Paragraf 246 AktG analog. FamFG Verfahren. Verfuegungsantrag Glaubhaftmachung Eilbeduerftigkeit. Tenor-Vorschlaege."
 ---
 
-# Gesellschafterstreit — Eilantraege
+# Gesellschafterstreit — Eilanträge
 
 ## Zweck
 
-Bei Streit der Gesellschafter kommt es typischerweise zu **Eilbeduerftigkeit**: ein streitiger Beschluss soll nicht ins Handelsregister, eine Versammlung soll oder soll nicht stattfinden. Dieser Skill behandelt das Werkzeug-Set: einstweilige Verfuegung beim LG, Anmeldungs-Sperre beim Registergericht, Anfechtungsklage.
+Bei Streit der Gesellschafter kommt es typischerweise zu **Eilbedürftigkeit**: ein streitiger Beschluss soll nicht ins Handelsregister, eine Versammlung soll oder soll nicht stattfinden. Dieser Skill behandelt das Werkzeug-Set: einstweilige Verfügung beim LG, Anmeldungs-Sperre beim Registergericht, Anfechtungsklage.
 
 ## 1) Typische Streit-Konstellationen
 
-1. **Bezugsrechtsausschluss-Streit**: Minderheit klagt gegen Kapitalerhoehung mit Bezugsrechtsausschluss
-2. **Geschaeftsfuehrer-Abberufungs-Streit**: Mehrheit will abberufen, Minderheit oder GF wehrt sich
+1. **Bezugsrechtsausschluss-Streit**: Minderheit klagt gegen Kapitalerhöhung mit Bezugsrechtsausschluss
+2. **Geschäftsführer-Abberufungs-Streit**: Mehrheit will abberufen, Minderheit oder GF wehrt sich
 3. **Versammlungsleiter-Streit**: bei streitiger GV — wer leitet?
-4. **Verwaesserungs-Streit**: KE soll bestimmte Anteile entwerten
-5. **Konkurrenz-Streit**: Gesellschafter macht konkurrierende Geschaefte
+4. **Verwässerungs-Streit**: KE soll bestimmte Anteile entwerten
+5. **Konkurrenz-Streit**: Gesellschafter macht konkurrierende Geschäfte
 6. **Restrukturierungs-Streit**: GF plant StaRUG-Antrag gegen Golden-Share-Veto
 
 ## 2) Werkzeug-Set des Eilrechtsschutzes
 
-### A. Einstweilige Verfuegung beim Landgericht (Paragrafen 935 ff. ZPO)
+### A. Einstweilige Verfügung beim Landgericht (Paragrafen 935 ff. ZPO)
 
 - Sitz der Gesellschaft (Paragraf 17 ZPO)
-- Glaubhaftmachung von **Verfuegungsanspruch** und **Verfuegungsgrund** (Eilbeduerftigkeit)
-- Verfahren: meist binnen 1-2 Wochen, ohne muendliche Verhandlung moeglich
+- Glaubhaftmachung von **Verfügungsanspruch** und **Verfügungsgrund** (Eilbedürftigkeit)
+- Verfahren: meist binnen 1-2 Wochen, ohne muendliche Verhandlung möglich
 
 #### Antragsarten
 
-- **Verbot der Beschluss-Ausfuehrung**
-- **Stimmverbot** fuer bestimmte Beschluesse
+- **Verbot der Beschluss-Ausführung**
+- **Stimmverbot** für bestimmte Beschlüsse
 - **Anweisung an GF**, bestimmte Handlungen zu unterlassen
-- **Einsetzung eines Notgeschaeftsfuehrers** (selten)
+- **Einsetzung eines Notgeschäftsführers** (selten)
 
 ### B. Anmeldungs-Sperre beim Registergericht (Paragraf 16 II HGB analog)
 
 - Antrag direkt beim Registergericht (HRB-Gericht der Gesellschaft)
-- **FamFG-Verfahren** (Paragrafen 374 ff. FamFG fuer Registersachen)
+- **FamFG-Verfahren** (Paragrafen 374 ff. FamFG für Registersachen)
 - Antrag: Sperrung der Eintragung des streitigen Beschlusses
 
 #### Voraussetzung
 
 - Glaubhaftmachung der Anfechtbarkeit / Nichtigkeit des Beschlusses
-- Eilbeduerftigkeit (Eintragung waere unwiderruflich)
+- Eilbedürftigkeit (Eintragung waere unwiderruflich)
 
 ### C. Anfechtungsklage (Paragrafen 246, 248 AktG analog)
 
@@ -50,7 +50,7 @@ Bei Streit der Gesellschafter kommt es typischerweise zu **Eilbeduerftigkeit**: 
 - Frist: 1 Monat ab Beschlussfassung
 - Beim Landgericht (Gesellschaftssitz)
 
-## 3) Beispiel: Einstweilige Verfuegung gegen Kapitalerhoehung
+## 3) Beispiel: Einstweilige Verfügung gegen Kapitalerhöhung
 
 ### Sachverhalt
 
@@ -143,18 +143,18 @@ Begruendung:
 ### Praxis
 
 - Registergericht entscheidet meist binnen Tagen
-- Bei begruendetem Antrag: Sperre, GF kann nicht eintragen
+- Bei begründetem Antrag: Sperre, GF kann nicht eintragen
 - Bei Ablehnung: Anmeldung erfolgt
 
 ## 5) Streitige Gesellschafterversammlung — Versammlungsleiter
 
 ### Konstellation
 
-- Versammlung beginnt, kein Konsens ueber Versammlungsleiter
-- Verschiedene Vorschlaege, keine eindeutige Mehrheit
+- Versammlung beginnt, kein Konsens über Versammlungsleiter
+- Verschiedene Vorschläge, keine eindeutige Mehrheit
 - GF moechte als Versammlungsleiter fungieren, Minderheit will eigenen Kandidaten
 
-### Loesungs-Optionen
+### Lösungs-Optionen
 
 #### Option 1: Wahl-Vorschlag durchsetzen
 
@@ -163,13 +163,13 @@ Begruendung:
 
 #### Option 2: Notar als neutralen Versammlungsleiter
 
-- Vorab bestellter Notar uebernimmt Leitungs-Funktion
+- Vorab bestellter Notar übernimmt Leitungs-Funktion
 - Beurkundet Versammlungsverlauf
 
 #### Option 3: Vertagung
 
 - Ohne Versammlungsleiter keine wirksame Beschlussfassung
-- Versammlung wird vertagt, Klaerung im Anfechtungs-/Eilrechtsschutz
+- Versammlung wird vertagt, Klärung im Anfechtungs-/Eilrechtsschutz
 
 #### Option 4: Mehrere Protokolle
 
@@ -183,7 +183,7 @@ Begruendung:
 ### Frist
 
 - **Monatsfrist** ab Beschluss (BGH-Linie analog Paragraf 246 AktG)
-- Versaeumnis: Beschluss wird endgueltig wirksam (ausser bei Nichtigkeit Paragrafen 241, 249 AktG analog)
+- Versäumnis: Beschluss wird endgültig wirksam (außer bei Nichtigkeit Paragrafen 241, 249 AktG analog)
 
 ### Antragsformulierung
 
@@ -211,7 +211,7 @@ Paragraf 186 III AktG (Kali+Salz-Linie).
 | Mangel | Folge |
 |---|---|
 | Form- oder Verfahrensfehler | Anfechtbarkeit, Monatsfrist |
-| Schwere Verstoesse (z.B. Sittenwidrigkeit) | Nichtigkeit, keine Frist |
+| Schwere Verstöße (z.B. Sittenwidrigkeit) | Nichtigkeit, keine Frist |
 | Nicht eingeladene Gesellschafter | Nichtigkeit (BGH) |
 | Sondervetorecht missachtet | Anfechtbarkeit |
 
@@ -222,7 +222,7 @@ Paragraf 186 III AktG (Kali+Salz-Linie).
 - **Schiedsklausel** (mit DIS-Schiedsordnung typisch)
 - **Mediations-Pflicht** vor Klage
 - **Vorab-Bestellung** eines neutralen Notars / Schlichters
-- **Pönalen** bei Stimmverstoss → `gesellschaftsgruender-sha-satzung-stimmverpflichtung`
+- **Pönalen** bei Stimmverstoß → `gesellschaftsgruender-sha-satzung-stimmverpflichtung`
 
 ### Beirat als Streit-Loeser
 
@@ -237,33 +237,33 @@ Paragraf 186 III AktG (Kali+Salz-Linie).
 - Streitiger Beschluss wird gefasst
 - Protokoll wird erstellt (ggf. mehrere)
 
-### Tag 0-2: Sofort-Massnahmen
+### Tag 0-2: Sofort-Maßnahmen
 
 - Anwalt einschalten
-- Beschluss pruefen (Form, Inhalt, Mehrheits-Berechnung)
-- Eilbeduerftigkeit pruefen (drohende Eintragung im HR?)
+- Beschluss prüfen (Form, Inhalt, Mehrheits-Berechnung)
+- Eilbedürftigkeit prüfen (drohende Eintragung im HR?)
 
 ### Tag 2-5: Eilantrag
 
-- Einstweilige Verfuegung beim LG **und/oder**
+- Einstweilige Verfügung beim LG **und/oder**
 - Anmeldungs-Sperre beim Registergericht
 - Glaubhaftmachung mit eidesstattlicher Versicherung
 
 ### Tag 5-30: Reaktion
 
 - Gegen-Stellungnahme der Gesellschaft / Mehrheits-Gesellschafter
-- LG entscheidet ueber EV (meist binnen 2 Wochen)
+- LG entscheidet über EV (meist binnen 2 Wochen)
 - Registergericht entscheidet schneller (binnen Tagen)
 
 ### Tag 0-30: Anfechtungsklage
 
 - Klage muss binnen 1 Monat ab Beschluss erhoben werden
-- Hauptverfahren laeuft parallel zum Eilrechtsschutz
+- Hauptverfahren läuft parallel zum Eilrechtsschutz
 
 ### Hauptverfahren
 
-- LG entscheidet ueber Anfechtbarkeit (Dauer typisch 6-18 Monate)
-- Berufung OLG moeglich
+- LG entscheidet über Anfechtbarkeit (Dauer typisch 6-18 Monate)
+- Berufung OLG möglich
 - Revisionszulassung selten
 
 ## 9) Schiedsklausel-Alternative
@@ -288,8 +288,8 @@ ist Deutsch.
 
 ### Nachteile
 
-- Hoehere Kosten
-- Eilrechtsschutz schwieriger (DIS-Notschiedsverfahren moeglich, aber ungewohnter)
+- Höhere Kosten
+- Eilrechtsschutz schwieriger (DIS-Notschiedsverfahren möglich, aber ungewohnter)
 
 ## 10) Praktische Empfehlung
 
@@ -297,7 +297,7 @@ ist Deutsch.
 - **Beschluss dokumentieren** mit allen Details (Anwesenheit, Stimmenverhalten)
 - **Eilrechtsschutz** parallel: LG **und** Registergericht
 - **Anfechtungsfrist** beachten (1 Monat ab Beschluss)
-- **Schiedsklausel** im Vorfeld als Praevention
+- **Schiedsklausel** im Vorfeld als Prävention
 
 ## Anschluss
 

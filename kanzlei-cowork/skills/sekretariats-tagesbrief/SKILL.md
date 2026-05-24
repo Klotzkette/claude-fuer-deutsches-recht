@@ -99,7 +99,7 @@ Az 2025/0188 — Rechnung 2025/00451 vom 14.11.2025 über 1.850 EUR
 
 ## Erstellung
 
-1. **Datenquellen** zusammenfuehren:
+1. **Datenquellen** zusammenführen:
    - Fristenbuch (`fristenbuch-fuehren`)
    - Posteingang (`posteingang-ausgang`)
    - Termine (Kalendersystem)

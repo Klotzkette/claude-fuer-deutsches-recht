@@ -12,7 +12,7 @@ Erstellt Freigabe-Landkarte für Kartellrecht, Fusionskontrolle, AWV/FDI, Sektor
 ## Arbeitsmodus
 
 - Schwellenwerte, Umsatzdaten, Sektor, Erwerberstruktur und Zielaktivitaeten erfassen.
-- Jurisdiktionen und Behoerdenfragen als Arbeitsentwurf strukturieren.
+- Jurisdiktionen und Behördenfragen als Arbeitsentwurf strukturieren.
 - Signing/Closing-Long-Stop und Gun-Jumping-Risiken markieren.
 - Regulatory Counsel und lokale Kanzleien als Owner aufnehmen.
 

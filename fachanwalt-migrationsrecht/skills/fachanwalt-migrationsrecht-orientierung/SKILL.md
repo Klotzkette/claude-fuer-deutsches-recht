@@ -17,7 +17,7 @@ description: Orientierung im Migrationsrecht — FAO Voraussetzungen Normen typi
 | Aufenthaltsrecht | AufenthG §§ 1 ff. (Aufenthaltstitel) § 60 (Abschiebungsverbote) § 25 (humanitaer) § 81 (Antragstellung Fiktionswirkung) |
 | Asylrecht | AsylG §§ 3 ff. (Fluechtlingsstatus) § 4 (subsidiaerer Schutz) § 36 (beschleunigtes Verfahren) § 74 (Klagefrist) |
 | Genfer Konvention | GFK 1951 Art. 1A (Fluechtlingsbegriff) Art. 33 Refoulementverbot |
-| EU-Recht | Dublin III VO (EU 604/2013) Qualifikations-RL 2011/95 Verfahrens-RL 2013/32 Aufnahme-RL 2013/33 Rückfuehrungs-RL 2008/115 |
+| EU-Recht | Dublin III VO (EU 604/2013) Qualifikations-RL 2011/95 Verfahrens-RL 2013/32 Aufnahme-RL 2013/33 Rückführungs-RL 2008/115 |
 | Staatsangehoerigkeit | StAG (Einbürgerung Anspruchseinbürgerung Ermessenseinbürgerung) |
 | Beschaeftigungsmigration | Beschaeftigungsverordnung BeschV Fachkraefteeinwanderungsgesetz |
 | Verfahrensrecht | VwGO (Klage gegen BAMF / Ausländerbehörde) AsylG (Sonderverfahren) |
@@ -32,7 +32,7 @@ description: Orientierung im Migrationsrecht — FAO Voraussetzungen Normen typi
 - Aufenthaltsverfestigung (Niederlassungserlaubnis Daueraufenthalt EU)
 - Duldung § 60a AufenthG
 - Ausländerrecht und Strafrecht (Ausweisung nach Straftat)
-- Dublin-Verfahren Ueberstellung in anderen EU-Mitgliedstaat
+- Dublin-Verfahren Überstellung in anderen EU-Mitgliedstaat
 
 ## Notfristen
 

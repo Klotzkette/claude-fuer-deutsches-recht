@@ -79,7 +79,7 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 
 ### Muster-Belehrung als Schutz
 
-- Verwendung der Muster-Belehrung in BGB-InfoV (historisch — durch VRRL-UmsetzungsG zum 13.6.2014 abgeschafft; Anlagen heute zu §§ 312d ff. BGB / Art. 247 EGBGB) schuetzt bei richtigem Ausfuellen; fuer Altvertraege vor 2014 weiter relevant
+- Verwendung der Muster-Belehrung in BGB-InfoV (historisch — durch VRRL-UmsetzungsG zum 13.6.2014 abgeschafft; Anlagen heute zu §§ 312d ff. BGB / Art. 247 EGBGB) schuetzt bei richtigem Ausfuellen; für Altverträge vor 2014 weiter relevant
 - BGH XI ZR 564/15 — Schutzwirkung
 - Bei Abweichungen vom Muster Risiko
 
@@ -119,7 +119,7 @@ Bei fehlerhafter Widerrufsbelehrung in Verbraucher-Immobiliendarlehen besteht ei
 ### Vorfälligkeits-Entschädigung-Vermeidung
 
 - Bei Widerruf vermeidet Darlehensnehmer typischerweise VFE
-- Trotz Abloesung Vorteil
+- Trotz Ablösung Vorteil
 
 ### Marktzins-Vorteil bei Refinanzierung
 
@@ -213,6 +213,6 @@ Mit freundlichen Grüßen
 
 - BGB §§ 357 491 495 355
 - VerbrKrG (alt)
-- BGB-InfoV (historisch — durch VRRL-UmsetzungsG zum 13.6.2014 abgeschafft, Anlagen heute zu §§ 312d ff. BGB / Art. 247 EGBGB; fuer Altvertraege weiter relevant)
+- BGB-InfoV (historisch — durch VRRL-UmsetzungsG zum 13.6.2014 abgeschafft, Anlagen heute zu §§ 312d ff. BGB / Art. 247 EGBGB; für Altverträge weiter relevant)
 - BGH XI. Zivilsenat — Widerrufsjoker-Linie
 - Bülow/Artz Verbraucherkredit

@@ -7,7 +7,7 @@ description: Katalog typischer Standardausreden der Fluggesellschaften mit Gegen
 
 ## Beweislast
 
-**Generell**: Beweislast für außergewöhnliche Umstaende und für die Ergreifung aller zumutbaren Maßnahmen liegt bei der **Airline** (Art. 5 Abs. 3 VO 261/2004 — Wortlaut „nachweisen kann"). Pauschale Behauptungen ohne Belege reichen nicht.
+**Generell**: Beweislast für außergewöhnliche Umstände und für die Ergreifung aller zumutbaren Maßnahmen liegt bei der **Airline** (Art. 5 Abs. 3 VO 261/2004 — Wortlaut „nachweisen kann"). Pauschale Behauptungen ohne Belege reichen nicht.
 
 ## Katalog
 
@@ -17,9 +17,9 @@ description: Katalog typischer Standardausreden der Fluggesellschaften mit Gegen
 
 **Gegenargument**:
 
-> EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann): Technische Probleme die im Rahmen der Wartung oder waehrend des regulaeren Betriebs auftreten sind **kein außergewöhnlicher Umstand**. Sie gehören zur normalen Ausübung der Tätigkeit eines Luftfahrtunternehmens.
+> EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann): Technische Probleme die im Rahmen der Wartung oder während des regulaeren Betriebs auftreten sind **kein außergewöhnlicher Umstand**. Sie gehören zur normalen Ausübung der Tätigkeit eines Luftfahrtunternehmens.
 > 
-> EuGH C-257/14 (van der Lans 17.09.2015): Auch ein versteckter Fabrikationsfehler oder fruehzeitiger Verschleiss ist regelmäßig kein außergewöhnlicher Umstand.
+> EuGH C-257/14 (van der Lans 17.09.2015): Auch ein versteckter Fabrikationsfehler oder frühzeitiger Verschleiss ist regelmäßig kein außergewöhnlicher Umstand.
 
 Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebener Fehler kurz vor dem Flug entdeckt wird oder Sabotage durch Dritte vorliegt.
 
@@ -33,7 +33,7 @@ Nur ausnahmsweise gilt etwas anderes wenn zB ein vom Hersteller bekannt gegebene
 
 **Differenziertes Bild**:
 
-> EuGH, Urt. v. 23.03.2021 — C-28/20 (Airhelp / SAS): Streiks die nach den nationalen rechtlichen Voraussetzungen organisiert werden können außergewöhnliche Umstaende sein **wenn** die Airline alle zumutbaren Maßnahmen ergriffen hat (Reserveflugzeug Umbuchung andere Airline). Beweislast bei der Airline.
+> EuGH, Urt. v. 23.03.2021 — C-28/20 (Airhelp / SAS): Streiks die nach den nationalen rechtlichen Voraussetzungen organisiert werden können außergewöhnliche Umstände sein **wenn** die Airline alle zumutbaren Maßnahmen ergriffen hat (Reserveflugzeug Umbuchung andere Airline). Beweislast bei der Airline.
 
 Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumutbare Maßnahmen sind regelmäßig nicht hinreichend dargelegt.
 
@@ -59,7 +59,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 
 **Differenziert**:
 
-> Wenn der Slot wegen kapazitaetsbedingter Ueberlastung verschoben wird ist das **regelmäßig kein außergewöhnlicher Umstand** (Teil normalen Flugbetriebs). Bei Sicherheits- oder Wetterrücksichten kann die Bewertung anders ausfallen.
+> Wenn der Slot wegen kapazitätsbedingter Überlastung verschoben wird ist das **regelmäßig kein außergewöhnlicher Umstand** (Teil normalen Flugbetriebs). Bei Sicherheits- oder Wetterrücksichten kann die Bewertung anders ausfallen.
 
 ### 8. „Vogelschlag"
 
@@ -69,7 +69,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 > 
 > ABER: die Airline muss zusätzlich nachweisen dass alle **zumutbaren Maßnahmen** ergriffen wurden — z. B. zuegige technische Prüfung schnellstmögliche Wiederinbetriebnahme Umbuchung auf anderen Flug.
 
-### 9. „Sie haben die Stoerung nicht binnen X Tagen gemeldet"
+### 9. „Sie haben die Störung nicht binnen X Tagen gemeldet"
 
 **Gegenargument**:
 
@@ -79,7 +79,7 @@ Praktisch: oft im Detail strittig — Airlines berufen sich pauschal; aber zumut
 
 **Gegenargument**:
 
-> Akzeptanz einer Ersatzbefoerderung schliesst den Ausgleichsanspruch nach Art. 7 VO 261/2004 nicht aus. Anspruchsgrundlage Art. 7 ist eigenständig und greift parallel zur Erstattung oder Ersatzbefoerderung (Art. 8 VO 261/2004).
+> Akzeptanz einer Ersatzbeförderung schließt den Ausgleichsanspruch nach Art. 7 VO 261/2004 nicht aus. Anspruchsgrundlage Art. 7 ist eigenständig und greift parallel zur Erstattung oder Ersatzbeförderung (Art. 8 VO 261/2004).
 > 
 > Voucher können Ausgleichsanspruch nur dann ersetzen wenn der Fluggast **schriftlich und ausdrücklich** auf seinen Ausgleichsanspruch verzichtet hat. Ein blosser Voucher-Erhalt ohne Verzichtserklärung ist kein Anspruchsverzicht.
 

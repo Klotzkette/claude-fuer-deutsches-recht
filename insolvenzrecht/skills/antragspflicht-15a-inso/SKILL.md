@@ -234,7 +234,7 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
 **1. Fristbeginn bei „wusste oder musste wissen"**
 Der Fristbeginn ist objektiv. Es genügt, dass der Geschäftsleiter bei
 pflichtgemäßer Sorgfalt — d.h. bei Führung einer ordnungsgemäßen Buchhaltung
-und zeitnaher Aufstellung von Liquiditätsplänen — den Eröffnungsgrund hätte
+und zeitnäher Aufstellung von Liquiditätsplänen — den Eröffnungsgrund hätte
 erkennen können (BGH II ZR 234/18 Rn. 20). Faktische Unkenntnis infolge
 mangelhafter interner Kontrolle schützt nicht.
 

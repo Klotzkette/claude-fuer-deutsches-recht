@@ -18,7 +18,7 @@ Art. 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:
 
 ## Distanzberechnung
 
-- **Grosskreisrechnung** (Great Circle Distance) zwischen Abflug- und Zielflughafen.
+- **Großkreisrechnung** (Great Circle Distance) zwischen Abflug- und Zielflughafen.
 - IATA-Standardkoordinaten der Flughaefen.
 - Bei mehreren Etappen (Anschlussfluege) gilt die **Gesamtdistanz Abflug zu Endziel** (EuGH C-559/16 Birkenstrand).
 - Anschlussflug über Drittstaat als Umweg zählt nicht (Direktverbindungs-Maßstab).
@@ -27,7 +27,7 @@ Art. 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:
 
 - **Innergemeinschaftlich** Flug zwischen zwei Flughaefen die in der EU liegen.
 - **Nicht-innergemeinschaftlich** mindestens ein Flughafen außerhalb der EU.
-- **Sondergebiete** Kanaren Madeira Azoren EU-Aussengebiete EU-Recht gilt (innergemeinschaftlich).
+- **Sondergebiete** Kanaren Madeira Azoren EU-Außengebiete EU-Recht gilt (innergemeinschaftlich).
 - **Norwegen Schweiz Island Liechtenstein** mehrere bilaterale Abkommen — beachten ob VO 261/2004 anwendbar.
 
 ## Beispielberechnungen
@@ -40,7 +40,7 @@ Art. 7 VO 261/2004 — Ausgleichsanspruch in drei Stufen:
 
 ## Halbierungsregel (Art. 7 Abs. 2 VO 261/2004)
 
-Die Airline kann den Ausgleich **um 50 Prozent kuerzen** wenn dem Fluggast eine **anderweitige Befoerderung** angeboten wurde **und** die tatsächliche Ankunftszeit am Endziel nicht überschreitet:
+Die Airline kann den Ausgleich **um 50 Prozent kuerzen** wenn dem Fluggast eine **anderweitige Beförderung** angeboten wurde **und** die tatsächliche Ankunftszeit am Endziel nicht überschreitet:
 
 - Bei Distanz **bis 1500 km** die geplante Ankunftszeit um **mehr als zwei Stunden**.
 - Bei Distanz **1500 bis 3500 km nicht-innergemeinschaftlich oder über 1500 km innergemeinschaftlich** die geplante Ankunftszeit um **mehr als drei Stunden**.
@@ -50,7 +50,7 @@ Folge: Stufe 1 → 125 EUR; Stufe 2 → 200 EUR; Stufe 3 → 300 EUR.
 
 ## Mehrere Passagiere
 
-- **Eigenständiger Anspruch pro Passagier** (Art. 7 VO 261/2004 ist persoenlich).
+- **Eigenständiger Anspruch pro Passagier** (Art. 7 VO 261/2004 ist persönlich).
 - **Auch Kinder** mit eigener Beförderung (eigenes Ticket) haben den vollen Anspruch — auch bei Kindertarif.
 - **Babys ohne eigenen Sitzplatz** (Lap-Infant) haben i. d. R. keinen eigenen Ausgleichsanspruch wenn nicht gesondert befoerdert.
 

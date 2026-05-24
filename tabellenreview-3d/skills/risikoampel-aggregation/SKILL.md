@@ -13,14 +13,14 @@ description: "Konsolidiert die Ampel-Wertungen entlang aller drei Wuerfelachsen 
 
 ### Zellen-Ampel (atomisch)
 
-Aus `review-durchfuehren`. Vier Werte: gruen / gelb / rot / prüfer-flag.
+Aus `review-durchfuehren`. Vier Werte: grün / gelb / rot / prüfer-flag.
 
 ### Zeilen-Ampel (Dokument)
 
 Konsolidierung über alle Zellen einer Zeile (also über alle Spalten aller Arbeitsblätter):
 - mindestens 1 rote Zelle = Zeile **rot**
 - keine rote aber mindestens 2 gelbe = Zeile **gelb**
-- nur gruen = Zeile **gruen**
+- nur grün = Zeile **grün**
 - mindestens 1 Prüfer-Flag = `prüfer-flag` zusätzlich
 
 ### Spalten-Ampel (Datenpunkt-Hotspot)
@@ -37,7 +37,7 @@ Worst-of-Worst-Konsolidierung: wenn irgendein Arbeitsblatt rot ist und irgendein
 
 ## Schweregrad-Boden
 
-Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skill (z. B. `kreuzblatt-konsistenzpruefung`) ihn ändern will, gilt der vorgelagerte Schweregrad als BODEN — eine rote Zelle kann nicht still nach gelb verschoben werden, nur dokumentiert ueberschrieben.
+Wenn ein Skill ein Finding mit einem Schweregrad produziert und ein anderer Skill (z. B. `kreuzblatt-konsistenzpruefung`) ihn ändern will, gilt der vorgelagerte Schweregrad als BODEN — eine rote Zelle kann nicht still nach gelb verschoben werden, nur dokumentiert überschrieben.
 
 ## Ausgabe
 

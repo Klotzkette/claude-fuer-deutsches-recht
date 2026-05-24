@@ -11,14 +11,14 @@ Bearbeitet Verschmelzung, Spaltung, Ausgliederung, Formwechsel, Einbringung und 
 
 ## Arbeitsmodus
 
-- Rechtstraeger, Vermögen, Anteilseigner und Zielstruktur erfassen.
-- Notwendige Beschluesse, Berichte, Prüfungen, Notar- und Registerschritte auflisten.
+- Rechtsträger, Vermögen, Anteilseigner und Zielstruktur erfassen.
+- Notwendige Beschlüsse, Berichte, Prüfungen, Notar- und Registerschritte auflisten.
 - Arbeitnehmer-, Gläubiger-, Minderheiten- und Spruchverfahrensrisiken markieren.
 - Closing-Schritte mit M&A-Zeitplan verzahnen.
 
 ## Rote Schwellen
 
-- Unklarer Rechtstraeger oder Registerstand.
+- Unklarer Rechtsträger oder Registerstand.
 - Beschluss-/Berichtserfordernis offen.
 - Steuerliche Rückwirkung oder Sperrfrist nicht geprüft.
 

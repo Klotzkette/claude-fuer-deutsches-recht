@@ -7,7 +7,7 @@ description: "Beirat Advisory Board Aufsichtsrat. Beiratsordnung Aufgaben Besetz
 
 ## Zweck
 
-Der **Beirat** ist ein freiwilliges Beratungs- und Aufsichtsorgan der GmbH. Er kann Geschaeftsfuehrung beraten, Strategie-Entwicklung begleiten, bei Konflikten schlichten — oder mit echten Befugnissen ausgestattet werden. Bei der GmbH **freiwillig** (anders als bei AG, wo Aufsichtsrat Pflicht ist).
+Der **Beirat** ist ein freiwilliges Beratungs- und Aufsichtsorgan der GmbH. Er kann Geschäftsführung beraten, Strategie-Entwicklung begleiten, bei Konflikten schlichten — oder mit echten Befugnissen ausgestattet werden. Bei der GmbH **freiwillig** (anders als bei AG, wo Aufsichtsrat Pflicht ist).
 
 ## 1) Begriffliche Klarheit
 
@@ -27,7 +27,7 @@ Der **Beirat** ist ein freiwilliges Beratungs- und Aufsichtsorgan der GmbH. Er k
 
 - Bei AG Pflicht (Paragraf 95 AktG)
 - Bei mitbestimmter GmbH ab 500 / 2.000 Beschaeftigten Pflicht (DrittelbG, MitbestG)
-- Pflicht-Aufgaben: Bestellung Vorstand, Pruefung Jahresabschluss
+- Pflicht-Aufgaben: Bestellung Vorstand, Prüfung Jahresabschluss
 
 ## 2) Wann sinnvoll
 
@@ -42,12 +42,12 @@ Der **Beirat** ist ein freiwilliges Beratungs- und Aufsichtsorgan der GmbH. Er k
 
 - Advisory Board mit Experten / Investoren
 - Strategie-Sparring, Netzwerk
-- Vergueutung typisch durch ESOP-Optionen
+- Vergütung typisch durch ESOP-Optionen
 
 ### Bei Investor-Beteiligung
 
 - Investor verlangt Sitz im Beirat
-- Beirat als Kontroll-Instrument fuer Investor
+- Beirat als Kontroll-Instrument für Investor
 - Beirat-Veto bei wesentlichen Entscheidungen
 
 ## 3) Aufgaben (typisch)
@@ -60,10 +60,10 @@ Der **Beirat** ist ein freiwilliges Beratungs- und Aufsichtsorgan der GmbH. Er k
 
 ### Aufsicht
 
-- Pruefung Jahresabschluss vor GV
+- Prüfung Jahresabschluss vor GV
 - Risiko-Bewertung
 - Compliance-Monitoring
-- Bewertung der Geschaeftsfuehrer-Leistung
+- Bewertung der Geschäftsführer-Leistung
 
 ### Schlichtung
 
@@ -120,7 +120,7 @@ der Gesellschafterversammlung beschlossen wird.
 ### Aufgaben und Befugnisse
 
 - Beratungs-, Kontroll-, ggf. Entscheidungs-Befugnisse
-- Zustimmungspflichtige Geschaefte
+- Zustimmungspflichtige Geschäfte
 - Berichtspflichten
 
 ### Meeting-Rhythmus
@@ -136,14 +136,14 @@ der Gesellschafterversammlung beschlossen wird.
 - Stimmrechts-Verteilung
 - Stimmrechts-Verbot bei Eigen-Interesse
 
-### Vergueutung
+### Vergütung
 
 - Sitzungsgeld
 - Jahres-Festbetrag
 - Reisekostenerstattung
 - Bei Startup: ESOP-Optionen
 
-### Beiratsvertraege
+### Beiratsverträge
 
 - Schriftlicher Beirats-Mitgliedschaftsvertrag
 - D&O-Versicherung (analog GF-Haftung)
@@ -196,9 +196,9 @@ Zustimmung des Beirats mit Zwei-Drittel-Mehrheit.
 ### Unterschiede zum Beirat
 
 - **Keine Entscheidungs-Befugnis** (rein beratend)
-- **Lockerer Rhythmus** (z.B. monatliches Call, vierteljaehrliches Praesenz-Meeting)
+- **Lockerer Rhythmus** (z.B. monatliches Call, vierteljaehrliches Präsenz-Meeting)
 - **Mitglieder oft Branchen-Experten / Mentoren**
-- **Vergueutung durch ESOP-Optionen** statt Bargeld
+- **Vergütung durch ESOP-Optionen** statt Bargeld
 
 ### Advisory Agreement
 
@@ -278,7 +278,7 @@ zurueckgewiesen werden.
 
 ## 10) Praktische Empfehlung
 
-### Bei Gruendung
+### Bei Gründung
 
 - Beirat in Satzung verankert, auch wenn anfangs nicht besetzt
 - Beiratsordnung als Vorlage in der Schublade
@@ -291,8 +291,8 @@ zurueckgewiesen werden.
 
 ### Bei Mittelstand
 
-- Beirat als Strategie-Sparring, fuer Risk-Management
-- Empfehlung: 3-5 Mitglieder, davon mindestens 1 unabhaengig
+- Beirat als Strategie-Sparring, für Risk-Management
+- Empfehlung: 3-5 Mitglieder, davon mindestens 1 unabhängig
 
 ### Bei Family Business
 

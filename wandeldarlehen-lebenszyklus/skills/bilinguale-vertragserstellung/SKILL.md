@@ -36,11 +36,11 @@ Dieser Skill erstellt den vollständigen Wandeldarlehensvertrag in bilingualer F
 ### 1. Dokumentstruktur festlegen
 Zweispaltige Word-Tabelle ohne Rahmenlinie: linke Spalte DE (breiter, ca. 55 %), rechte Spalte EN (ca. 45 %). Überschriften als Heading 2 in beiden Spalten. Paragrafen 0 bis 10 plus Signaturblock.
 
-### 2. Praeambel (§ 0) – beide Sprachen
+### 2. Präambel (§ 0) – beide Sprachen
 DE: Gesellschaft (UG-Hintergrund, Stammkapital, Gesellschafterinnen), Unternehmensgegenstand, Finanzierungsbedarf, Wandeldarlehensstruktur, geplante Finanzierungsrunde. EN: Entsprechung mit deutschen Rechtsbegriffen in Klammern.
 
 ### 3. §§ 1 bis 3 – Darlehen, Laufzeit, Zinsen
-Exakte Zahlen eintragen; keine Platzhalter [●] im ausgefüllten Vertrag. Zinssatz fuenf Prozent p.a. act/360. Bankverbindung in Tabelle.
+Exakte Zahlen eintragen; keine Platzhalter [●] im ausgefüllten Vertrag. Zinssatz fünf Prozent p.a. act/360. Bankverbindung in Tabelle.
 
 ### 4. § 4 Wandlung – alle Trigger und Formel
 Qualified Financing mit Schwellenwerten, Maturity, Liquidation Event. Wandlungspreis-Formel bilingual ausformulieren: CS = GK × (C / CV); alternativer Cap-Preis explizit.
@@ -68,7 +68,7 @@ German terms in parentheses in the English version are binding references.
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Englische Fassung weicht inhaltlich ab | Auslegungsstreit | Kleinere Abweichungen | Paralleltext konsistent |
 | Fehlende Sprachklausel | Unklare Maßgeblichkeit | Mündliche Verständigung | Sprachklausel vorhanden |

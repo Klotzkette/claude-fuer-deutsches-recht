@@ -76,7 +76,7 @@ Wenn die Airline mit einer typischen Begründung argumentiert siehe Skill
 | „Crew-Engpass" | nicht außergewöhnlich | st. Rspr. — Teil normalen Betriebs |
 | „verdeckter Konstruktionsfehler" | nicht außergewöhnlich | EuGH C-257/14 (van der Lans) |
 | „Sie haben uns nicht innerhalb von 30 Tagen informiert" | VO 261/2004 sieht keine solche Frist vor | Verjährung drei Jahre § 195 BGB |
-| „Sie haben Umbuchung akzeptiert" | Akzeptanz schliesst Ausgleichsanspruch nicht aus | EuGH ständig |
+| „Sie haben Umbuchung akzeptiert" | Akzeptanz schließt Ausgleichsanspruch nicht aus | EuGH ständig |
 | „Sie haben Voucher erhalten" | wenn nicht ausdrücklich als Ausgleichszahlung gewidmet — kein Ausschluss | st. Rspr. |
 | „Vorflug aus Vortag verspätet" | regelmäßig nicht außergewöhnlich (Kette aus Routine-Folge) | st. Rspr. EuGH |
 

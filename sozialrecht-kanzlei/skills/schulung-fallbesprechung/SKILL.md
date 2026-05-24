@@ -5,7 +5,7 @@ description: "Strukturierte Fallbesprechung fuer Schulung Inhouse-Fortbildung Re
 
 # Schulungs-Fallbesprechung — Trainerleitfaden
 
-Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testakte ein nachvollziehbares Training mit fuenf Stationen.
+Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testakte ein nachvollziehbares Training mit fünf Stationen.
 
 ## Setup
 
@@ -14,7 +14,7 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 - Material: Bescheid, Atteste, Mandanteninfo, Flipchart, Skill-Plugin geladen
 - Vorbereitung: 30 Minuten Trainer-Vorbereitung
 
-## Fuenf Stationen
+## Fünf Stationen
 
 ### Station 1 — Fall-Triage (15 Minuten)
 
@@ -31,70 +31,70 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 
 **Diskussionsfrage:** „Was waere die schlechteste Entscheidung in dieser Stunde?"
 
-**Musterloesung:** Routing-Karte ausfuellen.
+**Musterlösung:** Routing-Karte ausfuellen.
 
 ### Station 2 — Bescheidanalyse (30 Minuten)
 
-**Lernziel:** Teilnehmende koennen formell und materiell systematisch pruefen.
+**Lernziel:** Teilnehmende koennen formell und materiell systematisch prüfen.
 
-**Methode:** Jede Untergruppe analysiert je einen Bescheid. Notiert: Tenor, Rechtsgrundlagen, Begruendungstiefe, formelle Defizite (§§ 33 ff., § 35 SGB X), materielle Angriffspunkte.
+**Methode:** Jede Untergruppe analysiert je einen Bescheid. Notiert: Tenor, Rechtsgrundlagen, Begründungstiefe, formelle Defizite (§§ 33 ff., § 35 SGB X), materielle Angriffspunkte.
 
 **Skill-Bezug:** `bescheidanalyse`, je nach Fall `hilfsmittelantrag-pruefen`, `pflegegrad-widerspruch`, `erwerbsminderungsrente-pruefen`, `schwerbehindertenausweis-gdb`, `eingliederungshilfe-schule`
 
 **Stolperfallen:**
-- Anhoerung § 24 SGB X vergessen
-- Begruendung der Begruendung — ueberlasen Standardformeln
+- Anhörung § 24 SGB X vergessen
+- Begründung der Begründung — überlasen Standardformeln
 - Wechselwirkungen zwischen Bescheiden derselben Familie nicht erkannt
 
-**Musterloesung:** Bescheid-Pruefraster pro Fall.
+**Musterlösung:** Bescheid-Prüfraster pro Fall.
 
 ### Station 3 — Strategiebesprechung (20 Minuten)
 
-**Lernziel:** Teilnehmende entscheiden zwischen Widerspruch, Eilantrag, Akteneinsicht, PKH-Antrag, ergaenzendem Antrag § 44 SGB X.
+**Lernziel:** Teilnehmende entscheiden zwischen Widerspruch, Eilantrag, Akteneinsicht, PKH-Antrag, ergänzendem Antrag § 44 SGB X.
 
-**Methode:** Mandantengespraech-Simulation am Tisch. Wer ist die Person hinter dem Bescheid? Was ist das tatsaechliche Ziel? Ist Geld da fuer Anwalt?
+**Methode:** Mandantengespräch-Simulation am Tisch. Wer ist die Person hinter dem Bescheid? Was ist das tatsächliche Ziel? Ist Geld da für Anwalt?
 
 **Skill-Bezug:** `pkh-erfolgsaussicht-pruefen`, `eilantrag-sozialrecht`, `akteneinsicht-anfordern`
 
 **Stolperfallen:**
 - Eilantrag ohne Anordnungsgrund
-- PKH ohne Erfolgsaussichten-Pruefung beantragt
+- PKH ohne Erfolgsaussichten-Prüfung beantragt
 - Strategie ohne Mandanten-Ressourcen-Check
 
 **Diskussionsfragen:**
-- Was haette die Anwaeltin am ersten Tag tun muessen?
-- Wann macht man eine Sammel-Strategie ueber mehrere Familienmitglieder hinweg?
+- Was hätte die Anwältin am ersten Tag tun müssen?
+- Wann macht man eine Sammel-Strategie über mehrere Familienmitglieder hinweg?
 - Wann lieber Einzel-Akten?
 
 ### Station 4 — Schriftsatzwerkstatt (45 Minuten Halbtag / 90 Minuten Ganztag)
 
 **Lernziel:** Teilnehmende schreiben einen Widerspruch.
 
-**Methode:** Jeder Teilnehmende erhaelt einen Fall plus die Bescheidanalyse aus Station 2. Schreibt einen Widerspruch dem Grunde nach (15 Minuten), dann mit Begruendung (30 Minuten), dann mit Anlagenverzeichnis (15 Minuten).
+**Methode:** Jeder Teilnehmende erhaelt einen Fall plus die Bescheidanalyse aus Station 2. Schreibt einen Widerspruch dem Grunde nach (15 Minuten), dann mit Begründung (30 Minuten), dann mit Anlagenverzeichnis (15 Minuten).
 
 **Skill-Bezug:** `widerspruch-formulieren`, `anlagen-erstellen`
 
 **Stolperfallen:**
 - Antrag fehlt oder ist unklar
-- Begruendung wiederholt nur die Mandantenklage statt zu argumentieren
+- Begründung wiederholt nur die Mandantenklage statt zu argumentieren
 - Anlagen falsch nummeriert (W1 W2 W3 vs. K1 K2)
 - Vollmacht vergessen
 
 **Trainerfeedback:** Nach 30 Minuten Tauschpartner, gegenseitig korrigieren.
 
-### Station 5 — Rollenspiel Mandantengespraech (20 Minuten)
+### Station 5 — Rollenspiel Mandantengespräch (20 Minuten)
 
-**Lernziel:** Teilnehmende koennen den eigenen Schriftsatz dem Mandanten erklaeren.
+**Lernziel:** Teilnehmende koennen den eigenen Schriftsatz dem Mandanten erklären.
 
-**Methode:** Zwei Personen — eine spielt Mandant (mit Profil aus Akte), eine die Anwaeltin. Die Anwaeltin erklaert in 5 Minuten was sie tut, wie lange es dauert, was es kostet. Wechsel.
+**Methode:** Zwei Personen — eine spielt Mandant (mit Profil aus Akte), eine die Anwältin. Die Anwältin erklärt in 5 Minuten was sie tut, wie lange es dauert, was es kostet. Wechsel.
 
 **Skill-Bezug:** `mandantenbrief-leichte-sprache`
 
 **Stolperfallen:**
-- Fachsprache ohne Erklaerung
+- Fachsprache ohne Erklärung
 - Erfolgsaussichten geschoent
 - Kostenrisiko nicht erwaehnt
-- Kein konkreter naechster Schritt fuer den Mandanten
+- Kein konkreter nächster Schritt für den Mandanten
 
 ## Trainer-Werkzeuge
 
@@ -104,19 +104,19 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 
 ### Auflocker
 
-„Welcher Skill aus dem Plugin wuerden Sie noch erfinden?"
+„Welcher Skill aus dem Plugin würden Sie noch erfinden?"
 
 ### Abschlussfrage
 
 „Was nehmen Sie morgen Vormittag in Ihre Kanzlei mit?"
 
-## Bewertungsraster fuer Trainer
+## Bewertungsraster für Trainer
 
 | Kompetenz | Anfaenger | Fortgeschritten | Expert |
 |---|---|---|---|
 | Fristberechnung | Datum auf dem Bescheid | Bekanntgabe-Fiktion einbezogen | Wiedereinsetzung mitgedacht |
-| Bescheidanalyse | Tenor erfasst | Anhoerung und Begruendung geprueft | Wechselwirkung mehrerer Bescheide erkannt |
-| Widerspruchsbegruendung | Verweist auf Norm | Subsumtion sauber | Beweisantraege strukturiert |
+| Bescheidanalyse | Tenor erfasst | Anhörung und Begründung geprüft | Wechselwirkung mehrerer Bescheide erkannt |
+| Widerspruchsbegründung | Verweist auf Norm | Subsumtion sauber | Beweisanträge strukturiert |
 | Mandantenkommunikation | Verstaendlich | Verfahrenstransparent | Empathisch und gerechnet |
 
 ## Anwendungs-Setting Tannenberg
@@ -126,4 +126,4 @@ Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder 
 ## Anschluss-Skills
 
 - alle aufgerufenen Skills je Station
-- `fristenbuch-sozialrecht` als Eintrag „heute Schulung durchgefuehrt"
+- `fristenbuch-sozialrecht` als Eintrag „heute Schulung durchgeführt"

@@ -28,49 +28,49 @@ Verteidigung Beamten bei Disziplinar-Vorwurf.
 
 ### Schwere
 
-- Leichter Verstoss: Verweis
-- Mittel: Geldbusse / Kuerzung Bezuege
+- Leichter Verstoß: Verweis
+- Mittel: Geldbuße / Kürzung Bezüge
 - Schwer: Aberkennung Ruhegehalt
 - Sehr schwer: Entfernung aus Dienst
 
-## 3) Disziplinar-Massnahmen
+## 3) Disziplinar-Maßnahmen
 
-| Massnahme | Pflicht-Voraussetzung |
+| Maßnahme | Pflicht-Voraussetzung |
 |---|---|
-| Verweis | leichter Verstoss |
-| Geldbusse | bis 1 Monatsbezuege |
-| Kuerzung Bezuege | befristet bis 5 Jahre |
+| Verweis | leichter Verstoß |
+| Geldbuße | bis 1 Monatsbezüge |
+| Kürzung Bezüge | befristet bis 5 Jahre |
 | Zurueckstufung | dauerhafte Demotion |
-| Entfernung Dienst | schwere Verstoesse |
+| Entfernung Dienst | schwere Verstöße |
 | Aberkennung Ruhegehalt | bei Ruhe-Beamten |
 
 ## 4) Verfahren
 
 ### Schritt 1 — Voruntersuchung
 
-- Dienstvorgesetzter prueft Vorwurf
-- Anhoerung Beamter
+- Dienstvorgesetzter prüft Vorwurf
+- Anhörung Beamter
 
-### Schritt 2 — Foermliches Disziplinarverfahren
+### Schritt 2 — Förmliches Disziplinarverfahren
 
-- Eroeffnung durch Dienstherr
+- Eröffnung durch Dienstherr
 - Ermittlungsfuhrer
 - Beweisaufnahme
 
-### Schritt 3 — Disziplinarmassnahme
+### Schritt 3 — Disziplinarmaßnahme
 
-- Bescheid mit Begruendung
-- Bei schwerer Massnahme: Klage VG Pflicht
+- Bescheid mit Begründung
+- Bei schwerer Maßnahme: Klage VG Pflicht
 
 ### Schritt 4 — Klage VG
 
 - Disziplinargericht (im VG-Gefuege)
 - Disziplinarklage Dienstherr
-- Vollumfaengliche Pruefung
+- Vollumfaengliche Prüfung
 
 ## 5) Beamten-Strategie
 
-### Sofort-Massnahmen
+### Sofort-Maßnahmen
 
 - Schweige-Recht (in Disziplinar-Verfahren begrenzt)
 - Anwalt einschalten
@@ -82,10 +82,10 @@ Verteidigung Beamten bei Disziplinar-Vorwurf.
 - Gegen-Beweise
 - Milderungs-Faktoren (Krankheit, Belastung)
 
-### Vergleichs-Moeglichkeit
+### Vergleichs-Möglichkeit
 
 - Einstellung gegen Auflage
-- Anwendung Mildere-Massnahme
+- Anwendung Mildere-Maßnahme
 
 ## 6) Schwerwiegende Folgen
 
@@ -98,7 +98,7 @@ Verteidigung Beamten bei Disziplinar-Vorwurf.
 
 - Wegfall Versorgung
 - Verlust Status
-- Schwere persoenliche Folge
+- Schwere persönliche Folge
 
 ## 7) Strafverfahren parallel
 
@@ -115,12 +115,12 @@ Verteidigung Beamten bei Disziplinar-Vorwurf.
 
 ## 8) Workflow
 
-### Phase 1 — Erstgespraech
+### Phase 1 — Erstgespräch
 
 - Vorwurfs-Aufnahme
 - Verteidigungs-Strategie
 
-### Phase 2 — Anhoerung
+### Phase 2 — Anhörung
 
 - Schriftliche Stellungnahme
 - Beweise
@@ -144,7 +144,7 @@ Verteidigung Beamten bei Disziplinar-Vorwurf.
 
 ## 10) Typische Fehler
 
-1. **Unueberlegte Aussage** in Voruntersuchung
+1. **Unüberlegte Aussage** in Voruntersuchung
 2. **Klage-Frist 1 Monat verpasst**
 3. **Milderungs-Faktoren nicht dargelegt**
 4. **Strafverfahren ohne Disziplinar-Beratung**
@@ -152,7 +152,7 @@ Verteidigung Beamten bei Disziplinar-Vorwurf.
 ## 11) BVerwG-Linien
 
 - BVerwG laufende Disziplinar-Rspr.
-- BVerwG, Urt. v. 28.2.2013 — 2 C 3/12 (Verhaeltnismaessigkeit)
+- BVerwG, Urt. v. 28.2.2013 — 2 C 3/12 (Verhältnismaessigkeit)
 
 ## Anschluss
 

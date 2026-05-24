@@ -13,22 +13,22 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 
 ### Antrag
 
-- Beim Versorgungsamt / zustaendiger Behoerde
+- Beim Versorgungsamt / zuständiger Behörde
 - Formulare im Land verschieden
 - Arzt-Auskuenfte und Befunde einreichen
 
 ### Verfahren
 
 - 4-6 Monate Bearbeitungszeit typisch
-- Sachverstaendigen-Gutachten bei Bedarf
-- Bescheid mit GdB-Hoehe und Merkzeichen
+- Sachverständigen-Gutachten bei Bedarf
+- Bescheid mit GdB-Höhe und Merkzeichen
 
 ## 2) GdB-Bewertung
 
 ### Versorgungsmedizin-Verordnung
 
-- Versorgungsmedizinische Grundsaetze (VMG)
-- Anhaltspunkte fuer aerztliche Begutachtung
+- Versorgungsmedizinische Grundsätze (VMG)
+- Anhaltspunkte für ärztliche Begutachtung
 - Tabelle in Anhang VMG
 
 ### Einzel-GdB pro Funktionssystem
@@ -42,25 +42,25 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 ### Gesamt-GdB
 
 - Nicht Summe der Einzel-GdB
-- Wechselwirkungs-Pruefung
+- Wechselwirkungs-Prüfung
 - Typisch 10er-Stufen
 
 ## 3) Merkzeichen
 
 | Merkzeichen | Bedeutung | Voraussetzungen |
 |---|---|---|
-| **G** | erhebliche Gehbehinderung | Gehfaehigkeit < 2 km eingeschraenkt |
-| **aG** | aussergewoehnliche Gehbehinderung | Rollstuhl / dauernde Mobilitaets-Beschraenkung |
-| **H** | hilflos | Pflege-Bedarf taeglich |
+| **G** | erhebliche Gehbehinderung | Gehfähigkeit < 2 km eingeschraenkt |
+| **aG** | außergewoehnliche Gehbehinderung | Rollstuhl / dauernde Mobilitäts-Beschraenkung |
+| **H** | hilflos | Pflege-Bedarf täglich |
 | **B** | Begleitung erforderlich | im OePNV |
-| **Bl** | blind | Sehfaehigkeit < 1/50 |
-| **Gl** | gehoerlos | Hoerverlust > 80 % |
+| **Bl** | blind | Sehfähigkeit < 1/50 |
+| **Gl** | gehoerlos | Hörverlust > 80 % |
 | **RF** | Rundfunkbeitrag-Ermassigung | bestimmte schwere Behinderungen |
 
 ## 4) Vorteile Schwerbehindertenausweis (ab GdB 50)
 
 - Steuerlicher Behindertenpauschbetrag
-- Kuendigungs-Schutz § 168 SGB IX (Zustimmung Integrationsamt)
+- Kündigungs-Schutz § 168 SGB IX (Zustimmung Integrationsamt)
 - Zusatz-Urlaub 5 Tage
 - Vorzeitige Altersrente
 - Vorteile Parkplatz (mit aG)
@@ -68,42 +68,42 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 
 ## 5) Workflow Klage
 
-### Schritt 1 — Bescheid-Pruefung
+### Schritt 1 — Bescheid-Prüfung
 
 - Welche Funktionssysteme erfasst?
-- GdB-Hoehe begruendet?
-- Merkzeichen vollstaendig?
+- GdB-Höhe begründet?
+- Merkzeichen vollständig?
 
 ### Schritt 2 — Widerspruch 1 Monat
 
 - An Versorgungsamt
-- Detaillierte Begruendung mit Befunden
+- Detaillierte Begründung mit Befunden
 
-### Schritt 3 — Sachverstaendigen-Gutachten
+### Schritt 3 — Sachverständigen-Gutachten
 
 - Im Klage-Verfahren angeordnet
-- Kostenfrei fuer Antragsteller im SG
-- Wiederholung moeglich
+- Kostenfrei für Antragsteller im SG
+- Wiederholung möglich
 
 ### Schritt 4 — Klage SG
 
 - Frist 1 Monat nach Widerspruchsbescheid
 - Beim Sozialgericht
-- Streitwert nach Vorteil-Erhoehung
+- Streitwert nach Vorteil-Erhöhung
 
 ## 6) Verschlechterungs-Antrag
 
-- Bei Aenderung der Gesundheit
+- Bei Änderung der Gesundheit
 - Neuer Antrag jederzeit
-- Bei Verbesserung: Rueckforderung Versorgungsamt moeglich
+- Bei Verbesserung: Rückforderung Versorgungsamt möglich
 
 ## 7) Typische Fehler
 
-1. **Befunde unvollstaendig eingereicht**
+1. **Befunde unvollständig eingereicht**
 2. **Einzel-GdB falsch nach VMG bewertet**
 3. **Wechselwirkung nicht beachtet**
-4. **Merkzeichen-Pruefung uebersehen**
-5. **Frist 1 Monat versaeumt**
+4. **Merkzeichen-Prüfung übersehen**
+5. **Frist 1 Monat versäumt**
 
 ## 8) BSG-Linien
 

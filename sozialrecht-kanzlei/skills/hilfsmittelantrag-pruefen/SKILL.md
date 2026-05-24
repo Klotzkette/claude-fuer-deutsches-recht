@@ -31,14 +31,14 @@ description: Prueft die rechtliche Anspruchsgrundlage fuer ein Hilfsmittel (Roll
 
 ### Bedarf
 
-- Aerztliche Verordnung vorhanden?
+- Ärztliche Verordnung vorhanden?
 - Eindeutige Indikation (medizinische Notwendigkeit Teilhabeziel Pflegeerleichterung)?
 - Vergleich zwischen Standardversorgung und konkretem Wunschmodell.
 
 ### Zuständigkeit
 
-- Welcher Traeger ist primaer zuständig? Bei Streit § 14 SGB IX — Zuständigkeitsklaerung binnen zwei Wochen sonst Vorleistungspflicht.
-- Kommunikation mit der Kasse: Antrag immer schriftlich; Aktenzeichen vergeben; Frist § 18 SGB IX (zwei Monate für Rehabilitationstraeger).
+- Welcher Träger ist primaer zuständig? Bei Streit § 14 SGB IX — Zuständigkeitsklärung binnen zwei Wochen sonst Vorleistungspflicht.
+- Kommunikation mit der Kasse: Antrag immer schriftlich; Aktenzeichen vergeben; Frist § 18 SGB IX (zwei Monate für Rehabilitationsträger).
 
 ### Genehmigungsfiktion § 18 SGB IX / § 13 Abs. 3a SGB V
 
@@ -58,15 +58,15 @@ description: Prueft die rechtliche Anspruchsgrundlage fuer ein Hilfsmittel (Roll
 - Elektrorollstuhl bei eingeschraenkter Bewegungsfähigkeit + Ausschluss handbetriebener Versorgung.
 - Pflegerollstuhl bei stationärer Pflege über SGB XI möglich.
 
-### Hoerhilfe / Cochlea-Implantat
+### Hörhilfe / Cochlea-Implantat
 
-- Hoergeräteversorgung nach Hilfsmittelverzeichnis; Aufzahlung bei Sondermodellen.
-- BSG-Rspr. zur Mehrkostenproblematik bei hochgradig Hoergeschaedigten.
+- Hörgeräteversorgung nach Hilfsmittelverzeichnis; Aufzahlung bei Sondermodellen.
+- BSG-Rspr. zur Mehrkostenproblematik bei hochgradig Hörgeschädigten.
 
 ### Vorlesekraft / Hilfsmittel für blinde Personen
 
 - Vorlesegerät als Hilfsmittel zur Teilhabe (SGB IX) oder bei Berufsausbildung beruflicher Teilhabe (Bundesagentur für Arbeit DRV SGB VI).
-- Vorlesekraft als persoenliche Assistenz nach SGB IX Teilhabe / Assistenz für Studium oder Beruf.
+- Vorlesekraft als persönliche Assistenz nach SGB IX Teilhabe / Assistenz für Studium oder Beruf.
 
 ### Treppenlift / Wohnungsumbau
 

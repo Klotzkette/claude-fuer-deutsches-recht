@@ -7,13 +7,13 @@ description: "ADR Gefahrgut-Transport europaeisches UEbereinkommen. Klassifizier
 
 ## Zweck
 
-Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoss.
+Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoß.
 
 ## 1) ADR — Europaeisches UEbereinkommen
 
 ### Anwendungs-Bereich
 
-- Strassengueter-Transport
+- Straßengueter-Transport
 - Internationale und nationale Strecke
 - Pflicht ab kleinen Mengen je nach Klasse
 
@@ -46,27 +46,27 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoss.
 
 ### Pflicht-Unternehmen
 
-- Befoerderung, Verpackung, Beladung Gefahrgut
+- Beförderung, Verpackung, Beladung Gefahrgut
 
 ### Aufgaben § 8 GbV
 
-- Compliance-Ueberwachung
+- Compliance-Überwachung
 - Schulung
 - Vorfall-Anzeige
-- Jahres-Bericht an Geschaeftsleitung
+- Jahres-Bericht an Geschäftsleitung
 
 ### Qualifikation
 
 - Schulung IHK
-- Pruefung
+- Prüfung
 - Fortbildung 5 Jahre
 
-## 5) Anzeige bei Vorfaellen
+## 5) Anzeige bei Vorfällen
 
 ### An wer
 
-- Bundesamt fuer Materialforschung (BAM)
-- Bei schwerem Vorfall: zustaendige Landes-Behoerde
+- Bundesamt für Materialforschung (BAM)
+- Bei schwerem Vorfall: zuständige Landes-Behörde
 - Bei Verkehrsunfall: Polizei + Feuerwehr
 
 ### Frist
@@ -78,9 +78,9 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoss.
 
 ### Phase 1 — Audit
 
-- Pflicht-Pruefung Gefahrgut-Beauftragter
+- Pflicht-Prüfung Gefahrgut-Beauftragter
 - Schulungs-Plan Personal
-- Verpackungs-Genehmigung pruefen
+- Verpackungs-Genehmigung prüfen
 
 ### Phase 2 — Vorbereitung
 
@@ -90,20 +90,20 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoss.
 
 ### Phase 3 — Vorfall
 
-- Sofort-Massnahmen
+- Sofort-Maßnahmen
 - Anwalt einschalten
-- Anzeige Behoerde
+- Anzeige Behörde
 
 ## 7) Sanktionen
 
-### Bussgeld
+### Bußgeld
 
 - Bis 50.000 EUR (§ 17 GGVSEB)
-- Bei Vorsatz / Wiederholung: hoeher
+- Bei Vorsatz / Wiederholung: höher
 
 ### Strafbarkeit § 328 StGB
 
-- Bei Gefaehrdung durch ionisierende Strahlung etc.
+- Bei Gefährdung durch ionisierende Strahlung etc.
 - Freiheits-Strafe
 
 ## 8) Typische Fehler
@@ -111,7 +111,7 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoss.
 1. **Gefahrgut-Beauftragter nicht bestellt**
 2. **Schulung nicht aktuell**
 3. **Kennzeichnung mangelhaft**
-4. **Anzeige Behoerde versaeumt** bei Vorfall
+4. **Anzeige Behörde versäumt** bei Vorfall
 
 ## Anschluss
 

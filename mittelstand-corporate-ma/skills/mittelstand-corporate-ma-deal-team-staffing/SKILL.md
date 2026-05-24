@@ -7,14 +7,14 @@ description: "Deal-Team und Staffing: Plant Workstreams, Rollen, Kapazitaeten, R
 
 ## Zweck
 
-Plant Workstreams, Rollen, Kapazitaeten, Review-Level und Eskalationswege für große Transaktionen.
+Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für große Transaktionen.
 
 ## Arbeitsmodus
 
 - Workstreams Recht, Tax, Finance, ESG, IP/IT, Employment, Regulatory, Litigation, Real Estate und PMI anlegen.
 - Owner, Reviewer, Partner, Mandant und Deadline je Workstream bestimmen.
 - Follow-the-sun oder Multi-Jurisdiction-Setup abbilden.
-- Überlastung und Review-Luecken sichtbar machen.
+- Überlastung und Review-Lücken sichtbar machen.
 
 ## Rote Schwellen
 

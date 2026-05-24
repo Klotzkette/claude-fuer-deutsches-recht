@@ -16,8 +16,8 @@ Excel ist das Lingua Franca der Mandatsübergabe. Der 3D-Würfel wird in Excel n
 Jede Tabelle hat dieselbe Struktur:
 - Zeilen: Dokumente aus `zeilen-inventar.yaml`
 - Spalten: aus `spaltenprompts.yaml` plus Arbeitsblatt-spezifische Zusatzspalten
-- Zellinhalt: Antwort + woertliches Zitat + Fundstelle (Datei-ID + Seite + Absatz)
-- Zell-Hintergrundfarbe: rot / gelb / gruen aus Ampel
+- Zellinhalt: Antwort + wörtliches Zitat + Fundstelle (Datei-ID + Seite + Absatz)
+- Zell-Hintergrundfarbe: rot / gelb / grün aus Ampel
 - Zell-Kommentar: Prüfer-Flag (falls gesetzt) und Prompt-Version
 
 ### Reiter 'Übersicht'
@@ -29,9 +29,9 @@ Jede Tabelle hat dieselbe Struktur:
 
 ### Reiter 'Hotspots'
 
-Pro Spalte: Anzahl rot / gelb / gruen über den Stapel. Sortiert absteigend nach Rot-Anteil.
+Pro Spalte: Anzahl rot / gelb / grün über den Stapel. Sortiert absteigend nach Rot-Anteil.
 
-### Reiter 'Widersprueche'
+### Reiter 'Widersprüche'
 
 Aus `kreuzblatt-konsistenzpruefung`. Spalten: Zeile-ID, Spalte, Arbeitsblatt-A-Antwort, Arbeitsblatt-B-Antwort, Konflikt-Klassifikation, empfohlene Aktion.
 

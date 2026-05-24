@@ -3,16 +3,16 @@ name: fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen
 description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweisesicherung Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen."
 ---
 
-# Cyber-Vorfall-Sofortmassnahmen
+# Cyber-Vorfall-Sofortmaßnahmen
 
 ## Zweck
 
-Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche Sofortmassnahmen.
+Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche Sofortmaßnahmen.
 
 ## 1) Eingangs-Abfrage (Erst-Notruf-Anruf)
 
 1. Art des Vorfalls (Ransomware, Datenleck, DDoS, Insider)?
-2. Betroffene Systeme + Daten-Kategorie (personenbezogen, Geschaeftsgeheimnis)?
+2. Betroffene Systeme + Daten-Kategorie (personenbezogen, Geschäftsgeheimnis)?
 3. Bisheriges Vorgehen (Forensik-Beauftragung, Abschaltung)?
 4. KRITIS-Pflichten (BSIG / NIS2UmsuCG)?
 5. Cyber-Versicherung vorhanden?
@@ -20,15 +20,15 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 
 ## 2) Meldepflichten — 72-Stunden-Fristen
 
-### Art. 33 DSGVO — Datenschutz-Behoerde
+### Art. 33 DSGVO — Datenschutz-Behörde
 
 - **72 Stunden** nach Kenntnis
-- An zustaendige Aufsichtsbehoerde
-- Inhalt: Art Vorfall, Anzahl Betroffene, Datenkategorien, Folgen, Massnahmen
+- An zuständige Aufsichtsbehoerde
+- Inhalt: Art Vorfall, Anzahl Betroffene, Datenkategorien, Folgen, Maßnahmen
 
 ### Art. 34 DSGVO — Betroffene
 
-- Bei hohem Risiko fuer Betroffene
+- Bei hohem Risiko für Betroffene
 - Unverzueglich
 - Inhalt: Beschreibung Vorfall, Kontakt, Empfehlungen Selbstschutz
 
@@ -45,25 +45,25 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 - Gesundheit (BfArM)
 - Telekom (BNetzA)
 
-## 3) Tag 1 — Sofortmassnahmen (binnen 12 Stunden)
+## 3) Tag 1 — Sofortmaßnahmen (binnen 12 Stunden)
 
 ### Stunde 1-2
 
 - **Notruf-Anwalt + Forensik** einschalten
 - Krisenstab einberufen (CISO, CFO, CEO, Datenschutz, Anwalt, Forensik)
-- **Systeme NICHT** voreilig loeschen — Beweise sichern
+- **Systeme NICHT** voreilig löschen — Beweise sichern
 
 ### Stunde 2-6
 
 - Betroffene Systeme isolieren (nicht abschalten — Forensik!)
 - Memory-Dumps
 - Log-Sicherung
-- Backup-Pruefung
+- Backup-Prüfung
 
 ### Stunde 6-12
 
 - Erste Lage-Bewertung
-- Meldepflichten-Pruefung beginnen
+- Meldepflichten-Prüfung beginnen
 - Kommunikations-Plan
 
 ## 4) Tag 2-7 — Konsolidierung
@@ -82,7 +82,7 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 
 ### Tag 6-7
 
-- Aufsichtsbehoerden-Kommunikation
+- Aufsichtsbehörden-Kommunikation
 - Mitarbeiter-Info
 - Kunden-Info (gestaffelt)
 
@@ -90,8 +90,8 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 
 ### Loese-Geld zahlen?
 
-- **Strafrechtliche Pruefung** § 261 StGB (Geldwaesche-Risiko?)
-- Sanktions-Pruefung (USA OFAC bei Russland / Iran-Bezug)
+- **Strafrechtliche Prüfung** § 261 StGB (Geldwäsche-Risiko?)
+- Sanktions-Prüfung (USA OFAC bei Russland / Iran-Bezug)
 - BSI raet generell ab
 - Praxis: oft kein anderer Weg bei Backup-Defiziten
 
@@ -111,7 +111,7 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 
 - Chain of Custody dokumentieren
 - Hash-Werte aller Beweismittel
-- Original-Daten unveraendert lassen
+- Original-Daten unverändert lassen
 
 ### Werkzeuge
 
@@ -119,10 +119,10 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 - Volatility (Memory)
 - Wireshark (Netzwerk)
 
-### Rechts-Konformitaet
+### Rechts-Konformität
 
 - Betriebsrat / Personalrat einbeziehen bei MA-Bezug
-- DSGVO-Konformitaet der Analyse
+- DSGVO-Konformität der Analyse
 
 ## 7) Krisenkommunikation
 
@@ -149,7 +149,7 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 
 - Anzeige-Pflicht 24-48 Stunden
 - Selbstbehalt
-- Deckungs-Pruefung
+- Deckungs-Prüfung
 
 ### Typische Deckungen
 
@@ -168,7 +168,7 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 ### Bei Insider-Verdacht
 
 - Eigene Untersuchung vor Anzeige
-- Beweis-Schaedigung vermeiden
+- Beweis-Schädigung vermeiden
 
 ## 10) Workflow Wochen 2-4
 
@@ -188,19 +188,19 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 ## 11) Typische Fehler
 
 1. **System geloescht** — Forensik-Verlust
-2. **72-Stunden-Frist verpasst** — Bussgeld bis 20 Mio. / 4 % Umsatz
+2. **72-Stunden-Frist verpasst** — Bußgeld bis 20 Mio. / 4 % Umsatz
 3. **KRITIS-Meldung an BSI vergessen**
 4. **Versicherer-Anzeige verspaetet** — Deckungs-Verlust
-5. **Loese-Geld ohne Sanktions-Pruefung** -> Strafbarkeit
+5. **Loese-Geld ohne Sanktions-Prüfung** -> Strafbarkeit
 
 ## 12) BGH-/Aufsichts-Linien
 
 - BfDI-Hinweise zu Art. 33 DSGVO
 - BSI-Lageberichte
-- LDA-Bayern-Bussgelder als Orientierung
+- LDA-Bayern-Bußgelder als Orientierung
 
 ## Anschluss
 
 - `phishing-vorfall-pruefer` — bei Phishing-Vorfall
-- `datenschutzrecht/skills/datenpannenmeldung` — fuer formellen Antrag
+- `datenschutzrecht/skills/datenpannenmeldung` — für formellen Antrag
 - `fachanwalt-strafrecht-orientierung` — bei Strafanzeige

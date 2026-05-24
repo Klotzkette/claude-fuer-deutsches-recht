@@ -27,7 +27,7 @@ description: "Kindesunterhalt nach Duesseldorfer Tabelle § 1601 ff. BGB. Trennu
 - Bereinigtes Nettoeinkommen: Brutto − Steuern − Sozialabgaben − berufsbedingte Aufwendungen (5 % pauschal, mindestens 50 EUR höchstens 150 EUR — st. Rspr.) − Vorsorgeaufwendungen (bis 4 % Bruttoeinkommen Altersvorsorge).
 - Halbteilungsgrundsatz: Nach Abzug Kindesunterhalt bleibt der Rest 50/50 unter Ehegatten verteilt (BGH XII ZR 25/06, Urt. v. 30.07.2008, Rn. 25 ff.).
 - Erwerbsobliegenheit § 1574 BGB — fiktives Einkommen bei vorwerfbarer Untätigkeit.
-- Selbstbehalt nach Duesseldorfer Tabelle Anmerkung A — die konkreten Saetze (notwendiger Selbstbehalt gegenueber minderjaehrigen Kindern, angemessener Selbstbehalt gegenueber Ehegatten und volljaehrigen Kindern) werden in der Duesseldorfer Tabelle jaehrlich neu festgelegt; immer aktuelle Fassung des laufenden Jahres heranziehen, z.B. ueber OLG Duesseldorf Pressestelle oder unterhalt.net.
+- Selbstbehalt nach Duesseldorfer Tabelle Anmerkung A — die konkreten Sätze (notwendiger Selbstbehalt gegenüber minderjaehrigen Kindern, angemessener Selbstbehalt gegenüber Ehegatten und volljaehrigen Kindern) werden in der Duesseldorfer Tabelle jaehrlich neu festgelegt; immer aktuelle Fassung des laufenden Jahres heranziehen, z.B. über OLG Duesseldorf Pressestelle oder unterhalt.net.
 - Rangfolge § 1609 BGB: 1. minderjährige unverheiratete Kinder + privilegierte Volljährige, 2. Elternteile betreuender Kinder, 3. Ehegatten ab Ehe über kurze Zeit, 4. nicht privilegierte Volljährige, 5. andere Verwandte.
 - Bei Mangelfall (Einkommen reicht nicht für alle Berechtigten): Mangelverteilung nach Quoten innerhalb desselben Rangs.
 
@@ -72,7 +72,7 @@ Mit kollegialen Gruessen
 
 ## Übergabe
 
-- Bei Verweigerung Auskunft: Stufenklage Familiengericht; Unterhaltssache § 231 FamFG; oertliche Zustaendigkeit § 232 FamFG; sachliche Zustaendigkeit §§ 23a Abs. 1 Nr. 1, 23b GVG.
+- Bei Verweigerung Auskunft: Stufenklage Familiengericht; Unterhaltssache § 231 FamFG; oertliche Zuständigkeit § 232 FamFG; sachliche Zuständigkeit §§ 23a Abs. 1 Nr. 1, 23b GVG.
 - Bei einstweiligem Regelungsbedarf einstweilige Anordnung § 246 FamFG (Trennungsunterhalt).
 - Bei Verfahrenskostenhilfe Anlage § 117 ZPO ausfüllen.
 - Anschluss bei Trennung: Skill `fachanwalt-familienrecht-scheidungsantrag-stellen`.

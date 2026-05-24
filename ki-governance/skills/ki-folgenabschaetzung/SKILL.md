@@ -3,7 +3,7 @@ name: ki-folgenabschaetzung
 description: "KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt „Folgenabschätzung für\", „diesen KI-Anwendungsfall bewerten\", „FRIA erstellen\", „KI-Folgenabschätzung generieren\", „wir müssen dieses KI-System dokumentieren\", „KI-Risikoprüfung für X\" oder nach einem bedingten Triage-Ergebnis."
 ---
 
-# /ki-folgenabschaetzung – KI-Folgenabschätzung
+# /ki-folgenabschätzung – KI-Folgenabschätzung
 
 ## Zweck
 

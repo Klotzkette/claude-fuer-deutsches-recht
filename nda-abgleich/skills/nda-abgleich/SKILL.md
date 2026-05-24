@@ -30,7 +30,7 @@ Nicht zuständig: Erstellung eines NDA von Null ohne jegliche Vorlage, allgemein
 Alles, was der Anwender beibringen kann, ist verwertbar — gerade weil der Standard aus gelebter Praxis und nicht aus einem Template-Fetisch entstehen soll. Verarbeitbar sind:
 
 - **Eigene NDAs** als .docx oder .pdf (auch viele auf einmal, typischerweise 1 bis 50). Jede Datei wird einzeln analysiert.
-- **NDAs der Gegenseite aus frueheren Verhandlungen**, soweit der Anwender sie freigibt. Diese werden besonders interessant ausgewertet: wo hat der Mandant nachgegeben, wo hat die Gegenseite nachgegeben, wo wurde eine Mittellösung gefunden?
+- **NDAs der Gegenseite aus früheren Verhandlungen**, soweit der Anwender sie freigibt. Diese werden besonders interessant ausgewertet: wo hat der Mandant nachgegeben, wo hat die Gegenseite nachgegeben, wo wurde eine Mittellösung gefunden?
 - **Verhandlungs-Notizen, E-Mails, Aktenvermerke** in beliebigem Format. Werden ausgelesen und in den Standard eingeflochten als "Erfahrungswert".
 - **Frei beschriebene Erfahrung** des Anwenders im Chat: "Wir akzeptieren nie Schiedsklauseln, weil unser letzter Schiedsfall in Singapur 14 Monate gedauert hat." Solche freitext-Sätze werden als zusätzliche Haltelinien aufgenommen, sofern sie konkret genug sind.
 - **Eigenes Template-NDA**, sofern vorhanden, als grobe Strukturreferenz. Der Skill **gewichtet das Template aber nicht höher als die gelebte Praxis** — wenn die Praxis vom Template abweicht, gewinnt die Praxis.
@@ -45,7 +45,7 @@ Für jede der typischen NDA-Klauseln (siehe Klauselkatalog unten) wertet der Ski
 2. **Wie häufig?** Die Verteilung wird sichtbar gemacht: "In 9 von 12 NDAs deutsches Recht, in 2 schweizerisches, in 1 englisches."
 3. **Mit welcher Streuung?** Wo eine echte Bandbreite besteht (z. B. Nachwirkungsfrist zwischen 2 und 5 Jahren), wird die Spanne und der Median dokumentiert.
 4. **Welche Outlier?** Eine einzelne Abweichung aus einem Spezialfall (z. B. ein NDA für eine US-Akquisition mit Delaware-Recht) wird nicht zur Regel hochgerechnet, sondern als Ausnahme markiert.
-5. **Welche Vorzugsformulierung?** Pro Klausel wird die im Mandantenkreis am häufigsten verwendete Formulierung als Standardposition vorgeschlagen — woertlich, damit sie später in Modus B als Einfuegungstext direkt zur Verfügung steht.
+5. **Welche Vorzugsformulierung?** Pro Klausel wird die im Mandantenkreis am häufigsten verwendete Formulierung als Standardposition vorgeschlagen — wörtlich, damit sie später in Modus B als Einfuegungstext direkt zur Verfügung steht.
 
 ### Output von Modus A
 
@@ -55,11 +55,11 @@ Die Destillation liefert drei Dateien im Workspace:
 - `Haltelinien-Standard_<Mandant>_<Datum>.docx` — dieselbe Matrix als formatierte Tabelle zum internen Verteilen.
 - `Haltelinien-Standard_<Mandant>_<Datum>.json` — maschinenlesbare Repräsentation derselben Matrix; wird von Modus B als Eingangsgroesse genutzt.
 
-Die Ampel-Zuordnung folgt diesen Heuristiken (der Anwender kann jede ueberstimmen):
+Die Ampel-Zuordnung folgt diesen Heuristiken (der Anwender kann jede überstimmen):
 
 - **ROT** wird vorgeschlagen, wenn in **allen** verfügbaren NDAs dieselbe Position vereinbart wurde und/oder der Anwender sie als "nicht verhandelbar" beschrieben hat.
 - **GELB** wird vorgeschlagen, wenn die Klausel über die Inputs hinweg innerhalb einer engen Bandbreite variiert (z. B. Nachwirkungsfrist 3 bis 5 Jahre, Vertragsstrafe 10 bis 50 TEUR).
-- **GRUEN** wird vorgeschlagen, wenn die Klausel in der gelebten Praxis sehr unterschiedlich gehandhabt wurde, ohne dass das den Schutzinteressen des Mandanten geschadet haette (Form der Mitteilungen, Sprache, Counterparts).
+- **GRUEN** wird vorgeschlagen, wenn die Klausel in der gelebten Praxis sehr unterschiedlich gehandhabt wurde, ohne dass das den Schutzinteressen des Mandanten geschadet hätte (Form der Mitteilungen, Sprache, Counterparts).
 
 Der Skill **fragt vor Finalisierung nach**, ob die vorgeschlagene Ampel-Zuordnung passt; im Zweifel werden GELB-Positionen mit der zugehoerigen Bandbreite belassen.
 
@@ -88,7 +88,7 @@ Weitere Klauseln, die in den Inputs auftauchen (z. B. Non-Solicitation, Standsti
 
 ### Iteratives Schärfen
 
-Der Skill behandelt den destillierten Standard als **lebendes Dokument**. Wenn der Anwender später weitere NDAs einreicht, kann derselbe Skill den bestehenden Standard re-destillieren — neue Erkenntnisse fliessen ein, alte Belegbasis bleibt versioniert. Im Workspace wird die jeweils neue Fassung mit Zeitstempel abgelegt, die alte nicht ueberschrieben.
+Der Skill behandelt den destillierten Standard als **lebendes Dokument**. Wenn der Anwender später weitere NDAs einreicht, kann derselbe Skill den bestehenden Standard re-destillieren — neue Erkenntnisse fliessen ein, alte Belegbasis bleibt versioniert. Im Workspace wird die jeweils neue Fassung mit Zeitstempel abgelegt, die alte nicht überschrieben.
 
 ## Modus B — Redlining-Lauf
 
@@ -116,7 +116,7 @@ Vor der ersten Änderung liest der Skill alle Inputs vollständig:
 - Der Entwurf der Gegenseite wird in seine Absätze zerlegt und durchnummeriert (typischerweise 60 bis 100 Absätze). Diese Nummerierung dient als Adresse für jede Änderung.
 - Der Haltelinien-Standard liefert die **Zielformulierungen** für jede Klausel — also die genauen Worte, mit denen die eigene Position sprachlich am elegantesten ins Dokument der Gegenseite eingebaut werden kann.
 - Die Ampelmatrix liefert die **Reihenfolge der Verbindlichkeit**:
-  - ROT-Einträge sind **nicht verhandelbar**. Jeder ROT-Punkt muss in der Ausgabe-Datei adressiert sein, andernfalls schlaegt das Mandat fehl.
+  - ROT-Einträge sind **nicht verhandelbar**. Jeder ROT-Punkt muss in der Ausgabe-Datei adressiert sein, andernfalls schlägt das Mandat fehl.
   - GELB-Einträge werden in **Standardposition** eingebracht; die zulässige Bandbreite ist in der Matrix definiert.
   - GRUEN-Einträge werden nur dann beruehrt, wenn die Gegenseite eine Formulierung gewählt hat, die deutlich vom Standard abweicht — sonst stehen sie unverändert.
 
@@ -154,9 +154,9 @@ Schritt 3: Pro Matrixpunkt entscheiden, ob der Gegenseite-Text bereits der eigen
 Jede einzelne Änderung folgt diesen Regeln:
 
 - **So wenige Worte wie möglich, so viele wie noetig.** Wo ein Wort genügt, wird nicht ein Halbsatz verändert.
-- **Streichung und Einfuegung gehören zusammen.** Niemals nur löschen, ohne den Ersatz mitzugeben. Niemals nur einfuegen, ohne die alte Stelle zu streichen, wo eine semantische Verschiebung passiert.
+- **Streichung und Einfuegung gehören zusammen.** Niemals nur löschen, ohne den Ersatz mitzugeben. Niemals nur einfügen, ohne die alte Stelle zu streichen, wo eine semantische Verschiebung passiert.
 - **Niemals ganze Absätze löschen.** Auch eine vollständig unakzeptable Klausel wird durch wenige zielgenau geänderte Worte gerettet — etwa "Disclosing Party" zu "Each Party", "California law" zu "the laws of the Federal Republic of Germany".
-- **Keine neuen Absätze einfuegen.** Wenn ein Punkt im Entwurf der Gegenseite gar nicht vorkommt (etwa ein vollständiger Carve-out-Katalog fehlt), wird in einem **Kommentar** angemerkt, dass dies in einer separaten Verhandlungsrunde adressiert werden muss — der Skill schlaegt nicht eigenmaechtig neue Absätze vor.
+- **Keine neuen Absätze einfügen.** Wenn ein Punkt im Entwurf der Gegenseite gar nicht vorkommt (etwa ein vollständiger Carve-out-Katalog fehlt), wird in einem **Kommentar** angemerkt, dass dies in einer separaten Verhandlungsrunde adressiert werden muss — der Skill schlägt nicht eigenmaechtig neue Absätze vor.
 - **Inhalt vor Sprache.** Tippfehler und sprachliche Unsauberkeiten der Gegenseite werden **nur dann** angetastet, wenn sie zugleich eine inhaltliche Verschiebung bewirken. Eine reine Korrektur von "posseses" zu "possesses" ist nicht Aufgabe des Skills.
 
 ## Sprache und Ausgangstextpflege
@@ -203,7 +203,7 @@ Beispiel für einen Wortaustausch in einem Lauf:
 
 1. `.docx` als ZIP entpacken (Python `zipfile`).
 2. `word/document.xml` einlesen, Namespaces registrieren (`w` = `http://schemas.openxmlformats.org/wordprocessingml/2006/main`).
-3. Pro geplanter Änderung den passenden `<w:r>`-Lauf finden, an der Wortgrenze splitten, `<w:del>` und `<w:ins>` mit den korrekten Attributen einfuegen.
+3. Pro geplanter Änderung den passenden `<w:r>`-Lauf finden, an der Wortgrenze splitten, `<w:del>` und `<w:ins>` mit den korrekten Attributen einfügen.
 4. Alle anderen Dateien (`word/styles.xml`, `_rels`, `[Content_Types].xml`, Headers/Footers) unverändert lassen.
 5. ZIP neu schreiben.
 
@@ -211,7 +211,7 @@ Wichtig: Niemals den Text direkt am Anfang der `document.xml` über regulaere Au
 
 ## Header-Eintrag für die empfangende Partei
 
-Der Name des Mandanten (z. B. Wernherr & Dimpflmoser Spezialventiltechnik GmbH & Co. KG) wird als **Tracked Change** an der Stelle eingefügt, wo der Entwurf "[Company Name]" oder einen aequivalenten Platzhalter enthält. Ist kein Platzhalter vorhanden, wird die nächstpassende Stelle (in der "between"-Klausel der Praeambel) verwendet und der Eintrag dort durch einen `w:ins`-Block ergänzt.
+Der Name des Mandanten (z. B. Wernherr & Dimpflmoser Spezialventiltechnik GmbH & Co. KG) wird als **Tracked Change** an der Stelle eingefügt, wo der Entwurf "[Company Name]" oder einen aequivalenten Platzhalter enthält. Ist kein Platzhalter vorhanden, wird die nächstpassende Stelle (in der "between"-Klausel der Präambel) verwendet und der Eintrag dort durch einen `w:ins`-Block ergänzt.
 
 ## Reporting im Chat
 
@@ -229,7 +229,7 @@ Die Ausgabedatei trägt den Namen des Ursprungsdokuments mit dem Suffix `_redlin
 
 - **Keine Bewertung des Endverhandlungsergebnisses.** Der Skill stellt nur die Haltelinien sicher; ob das Verhandlungsergebnis kommerziell akzeptabel ist, entscheidet der Anwender.
 - **Keine Prüfung der Bonität oder Rechtsfähigkeit der Gegenseite.**
-- **Keine Prüfung der eigenen Bevollmaechtigung.** Der Anwender muss selbst sicherstellen, dass er für den Mandanten zeichnen darf.
+- **Keine Prüfung der eigenen Bevollmächtigung.** Der Anwender muss selbst sicherstellen, dass er für den Mandanten zeichnen darf.
 - **Keine Schwaerzung von Drittinformationen.** Wenn der Entwurf der Gegenseite Drittinformationen enthält (Namen, E-Mails von nicht beteiligten Personen in Kommentaren), wird das gemeldet, aber nicht automatisch entfernt.
 - **Keine elektronische Signatur und kein Versand.** Die fertige .docx wird im Workspace abgelegt, der Anwender übernimmt Versand und Signatur.
 

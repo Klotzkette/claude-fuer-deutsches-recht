@@ -7,27 +7,27 @@ description: "Gewerbeanmeldung beim oertlichen Gewerbeamt Paragraf 14 GewO. Frag
 
 ## Zweck
 
-Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwingend: das **Gewerbeamt** (lokal) und das **Finanzamt** (regional). Beide haben kurze Fristen, Versaeumnis kann Bussgelder und Steuerschaetzungen ausloesen.
+Nach Handelsregister-Eintragung sind zwei öffentlich-rechtliche Anmeldungen zwingend: das **Gewerbeamt** (lokal) und das **Finanzamt** (regional). Beide haben kurze Fristen, Versäumnis kann Bußgelder und Steuerschätzungen ausloesen.
 
 ## 1) Gewerbeanmeldung
 
 ### Rechtsgrundlage
 
 - Paragraf 14 GewO: Anzeigepflicht
-- **Unverzueglich nach Aufnahme** der gewerblichen Taetigkeit (in Praxis: vor Geschaeftsaufnahme)
+- **Unverzueglich nach Aufnahme** der gewerblichen Tätigkeit (in Praxis: vor Geschäftsaufnahme)
 
-### Zustaendigkeit
+### Zuständigkeit
 
-- **Oertliches Gewerbeamt** (Gemeinde, Stadt) am Sitz der Geschaeftsbetriebes
+- **Örtliches Gewerbeamt** (Gemeinde, Stadt) am Sitz der Geschäftsbetriebes
 - Bei mehreren Betriebsstaetten: pro Standort eigene Anmeldung
 
 ### Anmeldungs-Inhalt
 
 - Anschrift der Hauptniederlassung
-- Geschaeftsfuehrer (bei juristischer Person)
-- Genaue Art der gewerblichen Taetigkeit (mit Schwerpunkt)
+- Geschäftsführer (bei juristischer Person)
+- Genaue Art der gewerblichen Tätigkeit (mit Schwerpunkt)
 - Geplante Anzahl Beschaeftigte
-- Beteiligungs- / Inhaberverhaeltnisse
+- Beteiligungs- / Inhaberverhältnisse
 - Geplante Genehmigungspflichten
 
 ### Anlagen
@@ -39,42 +39,42 @@ Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwi
 
 ### Kosten
 
-- Gemeinde-abhaengig
+- Gemeinde-abhängig
 - Typisch 20-60 EUR
 
-### Konsequenz Versaeumnis
+### Konsequenz Versäumnis
 
-- **Bussgeld** bis 1.000 EUR (Paragraf 146 II GewO)
-- Bei Vorsatz / Wiederholung hoeher
+- **Bußgeld** bis 1.000 EUR (Paragraf 146 II GewO)
+- Bei Vorsatz / Wiederholung höher
 
 ## 2) Fragebogen zur steuerlichen Erfassung
 
 ### Rechtsgrundlage
 
 - Paragraf 138 AO: Meldepflicht
-- **Innerhalb eines Monats** nach Aufnahme der gewerblichen Taetigkeit
-- **Pflicht** zur elektronischen Uebermittlung ueber **ELSTER** (Paragraf 138 Ib AO)
+- **Innerhalb eines Monats** nach Aufnahme der gewerblichen Tätigkeit
+- **Pflicht** zur elektronischen Übermittlung über **ELSTER** (Paragraf 138 Ib AO)
 
 ### Inhalte des Fragebogens
 
 #### Unternehmensdaten
 
 - Firma, Rechtsform, Sitz, HR-Nummer
-- Geschaeftsgegenstand
-- Geschaeftsfuehrer / Vertreter
+- Geschäftsgegenstand
+- Geschäftsführer / Vertreter
 
 #### Steuerliche Daten
 
 - Voraussichtlicher Umsatz / Gewinn im Erst- und Folgejahr
-- Buchfuehrung (doppelte Buchfuehrung bei Kapitalgesellschaften zwingend)
-- Bilanzstichtag (typisch 31.12., bei Rumpfgeschaeftsjahr ggf. anders)
+- Buchführung (doppelte Buchführung bei Kapitalgesellschaften zwingend)
+- Bilanzstichtag (typisch 31.12., bei Rumpfgeschäftsjahr ggf. anders)
 
 #### Wahl der Umsatzsteuer
 
 - **Regelbesteuerung**: 19 % Standard, 7 % bei begünstigten Leistungen
 - **Kleinunternehmer-Regelung Paragraf 19 UStG**: keine USt, kein Vorsteuerabzug
-  - Voraussetzung: voraussichtlicher Umsatz im Gruendungsjahr < 22.000 EUR, im Folgejahr < 50.000 EUR
-  - Bei B2B-Geschaeft oft **nicht** sinnvoll (Vorsteuer-Verlust)
+  - Voraussetzung: voraussichtlicher Umsatz im Gründungsjahr < 22.000 EUR, im Folgejahr < 50.000 EUR
+  - Bei B2B-Geschäft oft **nicht** sinnvoll (Vorsteuer-Verlust)
 - **Wahlrecht** zur Regelbesteuerung trotz Kleinunternehmer-Voraussetzungen
 
 #### Lohnsteuer
@@ -86,7 +86,7 @@ Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwi
 #### Vorauszahlungen
 
 - Auf Basis der Prognose schaetzt das Finanzamt Vorauszahlungen
-- Quartalsweise (Paragraf 37 EStG fuer GF / Gesellschafter; Paragraf 19 KStG fuer Gesellschaft)
+- Quartalsweise (Paragraf 37 EStG für GF / Gesellschafter; Paragraf 19 KStG für Gesellschaft)
 
 ### Anlagen
 
@@ -96,19 +96,19 @@ Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwi
 ### Steuernummer und USt-IdNr.
 
 - **Steuernummer**: wird vom Finanzamt zugewiesen, typisch innerhalb 2-3 Wochen
-- **Umsatzsteuer-Identifikationsnummer**: separat beim Bundeszentralamt fuer Steuern beantragen, dauert 3-4 Wochen, bei vielen Online-Diensten unverzichtbar
+- **Umsatzsteuer-Identifikationsnummer**: separat beim Bundeszentralamt für Steuern beantragen, dauert 3-4 Wochen, bei vielen Online-Diensten unverzichtbar
 
-## 3) Konsequenz bei Versaeumnis
+## 3) Konsequenz bei Versäumnis
 
 ### Verspaetete Gewerbeanmeldung
 
-- Bussgeld Paragraf 146 II GewO
+- Bußgeld Paragraf 146 II GewO
 
 ### Verspaeteter Fragebogen
 
-- **Verspaetungs-Zuschlag** Paragraf 152 AO
-- **Schaetzung** der Besteuerungsgrundlagen (Paragraf 162 AO)
-- **Saeumnis-Zuschlag** auf zu spaet erklaerte Vorauszahlungen
+- **Verspätungs-Zuschlag** Paragraf 152 AO
+- **Schätzung** der Besteuerungsgrundlagen (Paragraf 162 AO)
+- **Saeumnis-Zuschlag** auf zu spaet erklärte Vorauszahlungen
 
 ### Keine USt-IdNr. bei B2B
 
@@ -120,7 +120,7 @@ Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwi
 ### Tag T (Handelsregister-Eintragung)
 
 - Eintragung wird publiziert
-- Tag der Aufnahme der gewerblichen Taetigkeit beginnt
+- Tag der Aufnahme der gewerblichen Tätigkeit beginnt
 
 ### Tag T+0 bis T+7 (Gewerbeamt)
 
@@ -130,8 +130,8 @@ Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwi
 
 ### Tag T+0 bis T+30 (Finanzamt)
 
-- Fragebogen zur steuerlichen Erfassung ueber ELSTER
-- Empfehlung: durch **Steuerberater** ausfuellen lassen (Optimierung Umsatzsteuer-Wahl, Vorauszahlungs-Schaetzung)
+- Fragebogen zur steuerlichen Erfassung über ELSTER
+- Empfehlung: durch **Steuerberater** ausfuellen lassen (Optimierung Umsatzsteuer-Wahl, Vorauszahlungs-Schätzung)
 
 ### Tag T+15 bis T+25 (Steuernummer)
 
@@ -151,8 +151,8 @@ Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwi
 #### Nachteile
 
 - Kein **Vorsteuerabzug**: bei groesseren Investitionen (Bueromiete, IT, Beratungskosten) zahlt Gesellschaft USt, kann sie aber nicht zurueckholen
-- B2B-Kunden bevorzugen meist Regelbesteuerung (kein USt-Abzug-Verlust beim Empfaenger)
-- Bei spaeterem Wechsel zur Regelbesteuerung: bindend fuer 5 Jahre
+- B2B-Kunden bevorzugen meist Regelbesteuerung (kein USt-Abzug-Verlust beim Empfänger)
+- Bei späterem Wechsel zur Regelbesteuerung: bindend für 5 Jahre
 
 ### Regelbesteuerung
 
@@ -174,7 +174,7 @@ Nach Handelsregister-Eintragung sind zwei oeffentlich-rechtliche Anmeldungen zwi
 
 ## 6) Standortwechsel
 
-Bei spaeterem Sitz- oder Standortwechsel:
+Bei späterem Sitz- oder Standortwechsel:
 
 - Gewerbeummeldung am neuen Sitz
 - Gewerbe-Abmeldung am alten Sitz
@@ -182,12 +182,12 @@ Bei spaeterem Sitz- oder Standortwechsel:
 
 ## 7) Typische Anmeldungs-Fehler
 
-1. **Anmeldung erst nach Aufnahme.** Bei Pruefung Bussgeld.
-2. **Kleinunternehmer-Regelung gewaehlt, aber B2B-Geschaeft.** Vorsteuer-Verlust, oft wirtschaftlich ungeschickt.
-3. **Falsche Geschaeftsgegenstand-Beschreibung im Gewerbeschein vs. Handelsregister.** Behoerden moegen Konsistenz.
-4. **Buchhaltung-Schwellen verwechselt.** Bei Kapitalgesellschaften immer doppelte Buchfuehrung — kein E-U-R.
-5. **USt-IdNr. zu spaet beantragt.** Bei B2B-Auslandsgeschaeft kritisch.
-6. **Lohnsteuer-Anmeldung versaeumt** bei erstem Mitarbeiter. Paragraf 41a EStG: monatlich, vor dem 10. des Folgemonats.
+1. **Anmeldung erst nach Aufnahme.** Bei Prüfung Bußgeld.
+2. **Kleinunternehmer-Regelung gewählt, aber B2B-Geschäft.** Vorsteuer-Verlust, oft wirtschaftlich ungeschickt.
+3. **Falsche Geschäftsgegenstand-Beschreibung im Gewerbeschein vs. Handelsregister.** Behörden moegen Konsistenz.
+4. **Buchhaltung-Schwellen verwechselt.** Bei Kapitalgesellschaften immer doppelte Buchführung — kein E-U-R.
+5. **USt-IdNr. zu spaet beantragt.** Bei B2B-Auslandsgeschäft kritisch.
+6. **Lohnsteuer-Anmeldung versäumt** bei erstem Mitarbeiter. Paragraf 41a EStG: monatlich, vor dem 10. des Folgemonats.
 
 ## 8) Schnittstelle
 

@@ -24,7 +24,7 @@ description: Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen
 | Anlageberatung | §§ 31 ff. WpHG (Wohlverhalten Anlageberatung-Documentation) |
 | Vermögensanlage | VermAnlG VermAnlVerkProspV |
 | KAGB | KAGB Investmentvermögen |
-| Geldwaesche | GwG |
+| Geldwäsche | GwG |
 
 ## Typische Mandate
 
@@ -38,7 +38,7 @@ description: Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen
 
 ## Fristen
 
-- **BGB-Widerrufsfrist** 14 Tage bei Fernabsatz und Haustürgeschaeft (§§ 312g 355 BGB) — bei fehlender Belehrung verlängert.
+- **BGB-Widerrufsfrist** 14 Tage bei Fernabsatz und Haustürgeschäft (§§ 312g 355 BGB) — bei fehlender Belehrung verlängert.
 - **Beratungshaftung Verjährung** drei Jahre (§ 195 BGB) ab Kenntnis; Höchstfrist zehn Jahre (§ 199 BGB).
 - **WpHG-Pflichten** laufende Aufzeichnung.
 - **Meldepflichten BaFin** unverzueglich bei meldepflichtigen Ereignissen.

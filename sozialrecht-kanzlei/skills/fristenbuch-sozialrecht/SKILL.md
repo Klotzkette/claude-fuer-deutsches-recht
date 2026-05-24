@@ -47,11 +47,11 @@ Pro Eintrag:
 | Drei-Tages-Fiktion Zustellung | § 37 Abs. 2 SGB X | Bekanntgabe drei Tage nach Aufgabe zur Post |
 | Genehmigungsfiktion Krankenkasse | § 13 Abs. 3a SGB V | drei Wochen (fünf Wochen bei MDK) |
 | Entscheidungsfrist Reha-Antrag | § 18 SGB IX | zwei Monate |
-| Ueberprüfungsantrag | § 44 SGB X | keine eigentliche Frist aber Wirkung nur für Vergangenheit |
+| Überprüfungsantrag | § 44 SGB X | keine eigentliche Frist aber Wirkung nur für Vergangenheit |
 
 ## Berechnung Fristbeginn
 
-- **Postzustellung** drei Tage nach Aufgabe (§ 37 Abs. 2 SGB X). Wenn nachweislich frueherer Zugang: Zugang maßgeblich.
+- **Postzustellung** drei Tage nach Aufgabe (§ 37 Abs. 2 SGB X). Wenn nachweislich früherer Zugang: Zugang maßgeblich.
 - **EGVP / beA** Tag der erfolgreichen Übertragung.
 - **Bekanntgabe durch Aushaendigung** Tag der Aushaendigung.
 - **Fristberechnung** § 26 SGB X iVm §§ 187 ff. BGB — Beginn des Folgetages; Ende mit Ablauf des entsprechenden Tages des letzten Monats; bei Wochenende / Feiertag auf nächsten Werktag.

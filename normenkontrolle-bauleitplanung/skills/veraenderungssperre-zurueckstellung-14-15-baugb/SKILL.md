@@ -139,7 +139,7 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 
 - Bei längerer Dauer (über vier Jahre) Anspruch nach § 18 BauGB
 
-## Schritt 6 — Pruefraster aus Bauherrn-Sicht
+## Schritt 6 — Prüfraster aus Bauherrn-Sicht
 
 ### Erste Schritte bei Sperre
 
@@ -154,7 +154,7 @@ c) **Befürchten** dass das Vorhaben die Plan-Entwicklung gefährdet
 - **Entschädigungs-Antrag** nach Ablauf vier Jahre
 - **Verkauf** des Vorhabens wenn Realisierungs-Verzögerung unzumutbar
 
-## Schritt 7 — Pruefraster aus Nachbar-Sicht
+## Schritt 7 — Prüfraster aus Nachbar-Sicht
 
 ### Bei Bauantrag des Nachbarn trotz Plan-Verfahrens
 

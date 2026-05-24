@@ -94,7 +94,7 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 | Vertragsstreit international | `gerichtsstand-und-rechtswahl-pruefen` plus Klage-Strategie |
 | Sanktionen / Embargo | (Skill sanktions-compliance — perspektivisch) |
 | Exportkontrolle Dual-Use | (Skill exportkontrolle — perspektivisch) |
-| Schiedsverfahren | (Skill schiedsverfahren-fuehren — perspektivisch) |
+| Schiedsverfahren | (Skill schiedsverfahren-führen — perspektivisch) |
 | Vollstreckung Auslandsurteil | (Skill vollstreckung-ausland — perspektivisch) |
 | Anti-Korruption FCPA UKBA | weiter an `mandat-triage-strafrecht` plus Spezial |
 

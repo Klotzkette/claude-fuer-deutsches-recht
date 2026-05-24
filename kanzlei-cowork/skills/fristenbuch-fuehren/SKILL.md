@@ -7,7 +7,7 @@ description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ue
 
 ## Pflicht
 
-Jede Kanzlei muss ein Fristenbuch fuehren — die Versäumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (§ 51 BRAO).
+Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist anwaltliche Pflichtverletzung mit Haftungsrisiko (§ 51 BRAO).
 
 ## Zentralablage
 
@@ -90,7 +90,7 @@ Jede Kanzlei muss ein Fristenbuch fuehren — die Versäumung einer Notfrist ist
 - **§ 41 Abs. 2 VwVfG** Verwaltungsakt
 - **§ 37 Abs. 2 SGB X** Sozialleistungsbescheid
 
-Beim Eintragen automatisch berücksichtigen — bei nachweislich frueherem Zugang Zugang maßgeblich.
+Beim Eintragen automatisch berücksichtigen — bei nachweislich früherem Zugang Zugang maßgeblich.
 
 ## Vorfristen
 

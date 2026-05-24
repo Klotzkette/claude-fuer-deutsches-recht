@@ -8,8 +8,8 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 ## Rechtsgrundlagen
 
 - **RVG** Rechtsanwaltsvergütungsgesetz — § 10 Berechnung der Vergütung; Anlage 1 (RVG-VV) Vergütungstabelle.
-- **Anlage 2 RVG** Gebuehrentabelle (Streitwert).
-- **Honorarvereinbarung** § 3a RVG — schriftlich Mindestbetraege Beduerftigkeitsprüfung.
+- **Anlage 2 RVG** Gebührentabelle (Streitwert).
+- **Honorarvereinbarung** § 3a RVG — schriftlich Mindestbetraege Bedürftigkeitsprüfung.
 
 ## Pflichtangaben § 10 RVG
 
@@ -18,7 +18,7 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 3. **Rechnungsdatum** und **Rechnungsnummer** (laufend einmalig).
 4. **Aktenzeichen** der Kanzlei.
 5. **Gegenstand der Tätigkeit** kurz beschrieben.
-6. **Vergütungstatbestaende** mit RVG-VV-Nummer und Gebuehrensatz.
+6. **Vergütungstatbestände** mit RVG-VV-Nummer und Gebührensatz.
 7. **Streitwert / Gegenstandswert** (bei RVG-Abrechnung).
 8. **Stundensätze und Stundenzahl** (bei Honorarvereinbarung).
 9. **Auslagen** (Telekommunikationspauschale Nr. 7002 VV RVG; Kopier- und Versandkosten Nr. 7000 7001; Reisekosten Tagegeld Abwesenheitsgeld Nr. 7003 ff.).
@@ -26,9 +26,9 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 11. **Gesamtbetrag** und Zahlungsweg.
 12. **Belehrung** auf Akteneinsichtsrecht des Mandanten (§ 50 BRAO).
 
-## RVG-Abrechnung (Gebuehren)
+## RVG-Abrechnung (Gebühren)
 
-### Typische Gebuehren
+### Typische Gebühren
 
 | Gebuehr | RVG-VV-Nr. | Anlass |
 |---|---|---|
@@ -44,15 +44,15 @@ description: Erstellt Honorarrechnungen nach RVG (Anlage 1 VV RVG Anlage 2 RVG G
 - Berechnung nach § 23 RVG iVm § 3 ZPO.
 - Streitwertfestsetzung des Gerichts bindend (§ 32 RVG).
 
-### Gebuehrentabelle
+### Gebührentabelle
 
-Anlage 2 RVG — Tabelle nach Streitwerten. Bei Streitwerterhöhung waehrend Verfahrens Nachforderung möglich.
+Anlage 2 RVG — Tabelle nach Streitwerten. Bei Streitwerterhöhung während Verfahrens Nachforderung möglich.
 
 ## Honorarvereinbarung (§ 3a RVG)
 
 - **Schriftform** zwingend.
 - **Höhere Vergütung als RVG** zulässig wenn Vereinbarung wirksam.
-- **Niedrigere Vergütung** als RVG nicht zulässig (§ 4 RVG) ausser bei außergerichtlicher Beratung.
+- **Niedrigere Vergütung** als RVG nicht zulässig (§ 4 RVG) außer bei außergerichtlicher Beratung.
 - **Stundensatz** und Schaetzgesamtbetrag empfehlenswert.
 - **Pflicht** zur Information über Belegung der Stunden gegenüber Mandant.
 
@@ -63,7 +63,7 @@ Anlage 2 RVG — Tabelle nach Streitwerten. Bei Streitwerterhöhung waehrend Ver
 - **Nr. 7002 VV RVG** Telekommunikationspauschale 20 EUR pro Sache.
 - **Nr. 7003 VV RVG** Reisekosten (Kilometerpauschale 0,42 EUR pro km PKW).
 - **Nr. 7005 VV RVG** Tage- und Abwesenheitsgeld.
-- **Belege** beifuegen wo erforderlich.
+- **Belege** beifügen wo erforderlich.
 
 ## Umsatzsteuer
 

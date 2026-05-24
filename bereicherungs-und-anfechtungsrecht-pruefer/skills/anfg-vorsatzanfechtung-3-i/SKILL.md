@@ -21,7 +21,7 @@ Jedes rechtlich erhebliche Handeln oder Unterlassen des Schuldners. Auch Unterla
 
 **Indizien für Benachteiligungsvorsatz:**
 - Kenntnis der eigenen Zahlungsunfähigkeit.
-- Inkongruente Leistung (Leistung auf nicht fällige oder nicht in dieser Art geschuldete Forderung).
+- Inkongrünte Leistung (Leistung auf nicht fällige oder nicht in dieser Art geschuldete Forderung).
 - Verschleuderung von Vermögenswerten unter Wert.
 - Übertragung auf nahestehende Personen kurz vor Insolvenz.
 

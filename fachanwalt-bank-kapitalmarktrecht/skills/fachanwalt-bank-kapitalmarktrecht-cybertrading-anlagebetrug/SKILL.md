@@ -7,15 +7,15 @@ description: "Anlagebetrug ueber Online-Trading-Plattformen Cybertrading. Strafa
 
 ## Zweck
 
-Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Beweissicherung, zivilrechtliche und strafrechtliche Schritte.
+Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Maßnahmen, Beweissicherung, zivilrechtliche und strafrechtliche Schritte.
 
 ## 1) Eingangs-Abfrage
 
 1. Plattform-Name und Domain?
 2. Erste Kontaktaufnahme (Telefon, E-Mail, Social Media)?
-3. Bisher uebersuehrte Summe und Konten-Daten?
-4. Letzte Aktivitaet (Abhebung verweigert, „Steuer" gefordert)?
-5. Bank-Konto-Verlauf vollstaendig vorhanden?
+3. Bisher übersuehrte Summe und Konten-Daten?
+4. Letzte Aktivität (Abhebung verweigert, „Steuer" gefordert)?
+5. Bank-Konto-Verlauf vollständig vorhanden?
 6. Crypto-Wallet involviert?
 7. Sprache der „Berater" (Hinweis auf Standort)?
 
@@ -23,15 +23,15 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Be
 
 1. **Anwerbung**: Werbung „Trading-Akademie", „passives Einkommen"
 2. **Erst-Investition**: 200-500 EUR, scheinbare Gewinne auf Plattform sichtbar
-3. **Skalierung**: Ueberredung zu hoheren Einlagen
+3. **Skalierung**: Überredung zu hoheren Einlagen
 4. **Sperre**: Auszahlung verweigert, „Steuer" oder „Audit-Gebuehr" gefordert
 5. **Versilberung**: Konto leer, Plattform verschwunden
 
-## 3) Sofort-Massnahmen
+## 3) Sofort-Maßnahmen
 
 ### Tag 1 (akut)
 
-- **Hausbank kontaktieren**: SEPA-Rueckruf bei < 8 Wochen (Lastschrift), bei Ueberweisung Erstattungsantrag
+- **Hausbank kontaktieren**: SEPA-Rückruf bei < 8 Wochen (Lastschrift), bei Überweisung Erstattungsantrag
 - **Kreditkarten-Chargeback**: bei VISA/Master innerhalb 120 Tagen
 - **Crypto-Tracing**: Wallets und Transaktion-Hashes sichern (Chainalysis)
 - **Beweissicherung**: alle E-Mails, Chats, Screenshots der Plattform
@@ -48,7 +48,7 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Be
 ### Anspruchsgrundlagen
 
 - **§ 280 I BGB** (Vertrag-Verletzung Sorgfaltspflicht)
-- **§ 60 KWG** (Pflicht Geldwaesche-Verdacht)
+- **§ 60 KWG** (Pflicht Geldwäsche-Verdacht)
 - **§ 25h KWG** Sorgfaltspflichten bei verdaechtigen Transaktionen
 - **§ 280 I BGB iVm AGB-Banken Nr. 11**: Pflicht zur Warnung bei evidenten Risiken
 
@@ -60,14 +60,14 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Be
 
 ### Beweisanforderung
 
-- Auffaelligkeit der Transaktion (Hoehe, Empfaenger-Standort, neuer Empfaenger)
+- Auffaelligkeit der Transaktion (Höhe, Empfänger-Standort, neuer Empfänger)
 - Plausibilitaet einer Bank-Warnung
 
-## 5) Werbe-Hilfetraeger (Influencer, Vermittler)
+## 5) Werbe-Hilfeträger (Influencer, Vermittler)
 
 ### Ansprueche
 
-- **§ 826 BGB** (vorsaetzliche sittenwidrige Schaedigung) wenn Vermittler wusste oder wissen musste
+- **§ 826 BGB** (vorsätzliche sittenwidrige Schädigung) wenn Vermittler wusste oder wissen musste
 - **§ 823 II BGB iVm § 263 StGB** Schadensersatz aus Schutzgesetz-Verletzung
 - **§ 280 BGB iVm Beratervertrag** falls explizite Anlageempfehlung
 
@@ -76,17 +76,17 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Be
 - Beweis Vorsatz / Schadenswissen
 - Vermittler oft im Ausland oder Briefkasten-Firma
 
-## 6) Rueckueberweisung
+## 6) Ruecküberweisung
 
 ### Innerhalb EU/SEPA
 
-- **8-Wochen-Frist** fuer SEPA-Lastschrift-Rueckruf
-- Bei Ueberweisung: Bank-Antrag auf Rueckruf
+- **8-Wochen-Frist** für SEPA-Lastschrift-Rückruf
+- Bei Überweisung: Bank-Antrag auf Rückruf
 - Erfolgsquote 20-40 % wenn binnen 48 Stunden
 
 ### Drittland (typisch Litauen, Zypern, UK)
 
-- IBAN-Anschrift pruefen
+- IBAN-Anschrift prüfen
 - Bank-zu-Bank-Korrespondenz
 - Erfolgsquote 5-15 %
 
@@ -94,7 +94,7 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Be
 
 - On-Chain-Tracing
 - Wallet-Sperrung beim Anbieter (Coinbase, Binance)
-- Bei verbundenen Identitaeten: zivilrechtliche Klage in Heimatland
+- Bei verbundenen Identitäten: zivilrechtliche Klage in Heimatland
 
 ## 7) Klage-Strategie
 
@@ -103,7 +103,7 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Be
 - Plattform (oft nicht greifbar)
 - Bank des Geschaedigten (Sorgfaltsverletzung)
 - Vermittler / Influencer (§ 826 BGB)
-- ggf. Drittbank, die Empfaenger-Konto fuehrte (Beihilfe Geldwaesche)
+- ggf. Drittbank, die Empfänger-Konto führte (Beihilfe Geldwäsche)
 
 ### Gerichtsstand
 
@@ -117,15 +117,15 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Massnahmen, Be
 
 ## 8) Typische Mandats-Konstellationen
 
-- 50.000 EUR Anlageverlust, Bank ueberwies trotz 5 vorheriger ungewoehnlicher Transaktionen — Aussicht Mitverschulden 30-50 %
-- 200.000 EUR ueber LinkedIn-Vermittler — § 826 BGB-Klage gegen Vermittler aussichtsreich, wenn Vorsatz nachweisbar
+- 50.000 EUR Anlageverlust, Bank überwies trotz 5 vorheriger ungewoehnlicher Transaktionen — Aussicht Mitverschulden 30-50 %
+- 200.000 EUR über LinkedIn-Vermittler — § 826 BGB-Klage gegen Vermittler aussichtsreich, wenn Vorsatz nachweisbar
 - Crypto-Verlust 80.000 EUR auf nicht-regulierte Plattform — Bank haftet nur bei evidenter Pflichtverletzung
 
 ## 9) Steuer
 
-- **Verlustabzug** § 20 II EStG zu pruefen
+- **Verlustabzug** § 20 II EStG zu prüfen
 - Bei Strafverfolgung: Selbstbeurteilung dokumentieren
-- Bei spaeterer Erstattung: Versteuerung Wiederherstellungs-Betrag
+- Bei späterer Erstattung: Versteuerung Wiederherstellungs-Betrag
 
 ## Anschluss
 

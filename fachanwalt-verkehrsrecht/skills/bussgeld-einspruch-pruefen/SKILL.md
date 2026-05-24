@@ -23,7 +23,7 @@ Bußgeldbescheide haben oft Verteidigungspotenzial — Messfehler Identitäts-Zw
 - **Zwei Wochen ab Bekanntgabe** § 67 OWiG
 - **Vier-Tages-Fiktion** seit 01.01.2025 PostModG (§ 51 Abs. 1 OWiG iVm § 4 Abs. 2 VwZG, zuvor drei Tage)
 - **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr § 50 OWiG analog
-- Wiedereinsetzung § 52 OWiG bei unverschuldetem Fristversaeumnis
+- Wiedereinsetzung § 52 OWiG bei unverschuldetem Fristversäumnis
 
 ## Schritt 2 — Materielle Prüfung
 
@@ -46,20 +46,20 @@ Standardisierte Messverfahren BGH-anerkannt:
 
 ### Eich-Erfordernis
 
-- Eichgültigkeit ein Jahr (oder zwei je Geraet)
+- Eichgültigkeit ein Jahr (oder zwei je Gerät)
 - Eichschein-Anforderungs-Recht über Akteneinsicht
 - Bei abgelaufener Eichung ggf. Beweisverwertungsverbot
 
 ### Toleranzabzug
 
 - **Bis 100 km/h:** drei km/h Toleranz
-- **Ueber 100 km/h:** drei Prozent Toleranz
+- **Über 100 km/h:** drei Prozent Toleranz
 - Bei Lasermessung mit Stativ Toleranz angepasst
 - BGH, Beschl. v. 19.08.1993 - 4 StR 627/92 (BGHSt 39, 291) — Standardisiertes Messverfahren
 
 ### Sachverständigen-Gutachten
 
-- Bei zweifelhaftem Messverfahren Sachverstaendigen-Beweisangebot
+- Bei zweifelhaftem Messverfahren Sachverständigen-Beweisangebot
 - Kosten ggf. Mandant trägt — bei Erfolg erstattet
 
 ## Schritt 3 — Bußgeldkatalog und Verschiebung
@@ -85,7 +85,7 @@ Standardisierte Messverfahren BGH-anerkannt:
 
 - **Reg.-Fahrverbot** bei Überschreitung 31 km/h innerorts / 41 km/h außerorts
 - Ab 26 km/h innerorts und Voreintrag binnen Jahres-Frist
-- Bei Rotlichtverstoss
+- Bei Rotlichtverstoß
 
 ### Aufhebung Fahrverbot — Härtefall
 
@@ -101,10 +101,10 @@ Standardisierte Messverfahren BGH-anerkannt:
 - Fahrverbot-Beginn binnen vier Monate nach Rechtskraft frei wählbar
 - Bei Berufstätigkeit beste Ferienzeit wählen
 
-## Schritt 5 — Rotlicht-Verstoss
+## Schritt 5 — Rotlicht-Verstoß
 
-- **Einfacher Rotlicht-Verstoss** unter eine Sekunde — EUR 90 plus ein Punkt
-- **Qualifizierter Rotlicht-Verstoss** ab eine Sekunde — EUR 200 plus zwei Punkte plus ein Monat Fahrverbot
+- **Einfacher Rotlicht-Verstoß** unter eine Sekunde — EUR 90 plus ein Punkt
+- **Qualifizierter Rotlicht-Verstoß** ab eine Sekunde — EUR 200 plus zwei Punkte plus ein Monat Fahrverbot
 - Bei Personen-/Sachgefährdung Erhöhung
 
 ## Schritt 6 — Handy am Steuer
@@ -124,7 +124,7 @@ Standardisierte Messverfahren BGH-anerkannt:
 
 - Bei Einspruch — Termin vor Amtsgericht
 - **Anwesenheits-Pflicht** des Betroffenen § 73 OWiG (Entbindung Antragbar)
-- **Beweis-Aufnahme** Zeugen Sachverstaendige
+- **Beweis-Aufnahme** Zeugen Sachverständige
 
 ## Schritt 9 — Akteneinsicht-Pflichtumfang
 

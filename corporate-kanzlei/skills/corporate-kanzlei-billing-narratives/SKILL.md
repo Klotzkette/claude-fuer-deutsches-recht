@@ -11,14 +11,14 @@ Erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, C
 
 ## Arbeitsmodus
 
-- Taetigkeiten nach Phase, Workstream und Deliverable erfassen.
+- Tätigkeiten nach Phase, Workstream und Deliverable erfassen.
 - Narratives knapp, mandantentauglich und prüfbar formulieren.
 - Budgetabweichungen und Scope Creep markieren.
 - E-Rechnung/GoBD-Schnittstelle als nachgelagerten Kanzlei-Workflow vorbereiten.
 
 ## Rote Schwellen
 
-- Narrative enthaelt Mandatsgeheimnis unnoetig detailliert.
+- Narrative enthält Mandatsgeheimnis unnoetig detailliert.
 - Budgetwarnung fehlt.
 - Leistung ohne Akte/Workstream.
 

@@ -7,7 +7,7 @@ description: "Massenentlassung Anzeige § 17 KSchG Schwellenwerte 5/25/30 Bescha
 
 ## Zweck
 
-Bei Massenentlassung Anzeige-, Konsultations- und Sozialplan-Pflichten erfuellen. Versaeumnis fuehrt zur **Unwirksamkeit ALLER Kuendigungen** (BAG / EuGH).
+Bei Massenentlassung Anzeige-, Konsultations- und Sozialplan-Pflichten erfüllen. Versäumnis führt zur **Unwirksamkeit ALLER Kündigungen** (BAG / EuGH).
 
 ## 1) Eingangs-Abfrage
 
@@ -33,40 +33,40 @@ Maßgeblich: Entlassungen **innerhalb 30 Tagen**.
 ### Pflicht
 
 - AG **vor** Anzeige BA mit **Betriebsrat konsultieren**
-- Pruefung: Vermeidung, Einschraenkung, Milderung von Massenentlassungen
+- Prüfung: Vermeidung, Einschraenkung, Milderung von Massenentlassungen
 - Dauer: **mindestens 2 Wochen** (Faustregel)
 
 ### Inhalt
 
-- Gruende
+- Gründe
 - Anzahl und Berufsgruppen
 - Auswahlkriterien
-- Massnahmen-Vorschlaege Sozialplan / Interessenausgleich
+- Maßnahmen-Vorschläge Sozialplan / Interessenausgleich
 
 ### EuGH-Linie
 
-EuGH, Urt. v. 27.1.2005 — C-188/03 (Junk): Konsultations-Verfahren muss **vor Anzeige** UND **vor Kuendigung** liegen. Verstoss = Unwirksamkeit aller Kuendigungen.
+EuGH, Urt. v. 27.1.2005 — C-188/03 (Junk): Konsultations-Verfahren muss **vor Anzeige** UND **vor Kündigung** liegen. Verstoß = Unwirksamkeit aller Kündigungen.
 
 ## 4) Anzeige § 17 III KSchG
 
 ### An wer
 
-- Zustaendige Agentur fuer Arbeit (Betriebssitz)
+- Zustaendige Agentur für Arbeit (Betriebssitz)
 - Schriftform
 
 ### Inhalt
 
 - Name AG, Branche
-- Gruende der Entlassung
+- Gründe der Entlassung
 - Anzahl, Berufsgruppen, Beschaeftigungsdauer
-- Konsultations-Ergebnis BR (Stellungnahme beifuegen)
+- Konsultations-Ergebnis BR (Stellungnahme beifügen)
 - Zeitpunkt der Entlassungen
 
 ### Folgen der Anzeige
 
 - **Entlassungssperre 1 Monat** ab Anzeige (Freifrist § 18 I KSchG)
-- BA kann **Verlaengerung bis 2 Monate** anordnen (§ 18 II KSchG)
-- Erst nach Ablauf: Kuendigungen wirksam
+- BA kann **Verlängerung bis 2 Monate** anordnen (§ 18 II KSchG)
+- Erst nach Ablauf: Kündigungen wirksam
 
 ## 5) Sozialplan + Interessenausgleich §§ 112, 112a BetrVG
 
@@ -100,15 +100,15 @@ EuGH, Urt. v. 27.1.2005 — C-188/03 (Junk): Konsultations-Verfahren muss **vor 
 
 ### Phase 3 — Anzeige BA
 
-- Vollstaendiges Anzeigeschreiben
-- BR-Stellungnahme beifuegen
-- **Bestaetigung Anzeige durch BA** einholen
+- Vollständiges Anzeigeschreiben
+- BR-Stellungnahme beifügen
+- **Bestätigung Anzeige durch BA** einholen
 
-### Phase 4 — Kuendigung
+### Phase 4 — Kündigung
 
 - **Nach Ablauf** Entlassungssperre
-- Einzelne Kuendigungsschreiben
-- Anhoerung BR § 102 BetrVG pro Kuendigung
+- Einzelne Kündigungsschreiben
+- Anhörung BR § 102 BetrVG pro Kündigung
 
 ### Phase 5 — Sozialplan / IA
 
@@ -116,29 +116,29 @@ EuGH, Urt. v. 27.1.2005 — C-188/03 (Junk): Konsultations-Verfahren muss **vor 
 - Bei Einigung: Beschluss BR-Versammlung
 - Bei Scheitern: Einigungsstelle
 
-## 7) AN-Strategie bei Kuendigung
+## 7) AN-Strategie bei Kündigung
 
 ### Schritt 1 — Klagefrist § 4 KSchG
 
 - 3 Wochen nach Zugang
 
-### Schritt 2 — Pruefung Anzeige-Konsultations-Pflicht
+### Schritt 2 — Prüfung Anzeige-Konsultations-Pflicht
 
 - BA-Anfrage (Auskunfts-Anspruch nach IFG?)
 - BR-Vertreter-Auskunft
 
 ### Schritt 3 — Klagschrift
 
-- Bei nachweisbarem Versaeumnis: **Sicherer Sieg**
+- Bei nachweisbarem Versäumnis: **Sicherer Sieg**
 - Vergleich oft mit hoher Abfindung
 
 ## 8) Typische Fehler
 
-1. **Konsultation NACH Anzeige** statt davor (Junk-Verstoss)
+1. **Konsultation NACH Anzeige** statt davor (Junk-Verstoß)
 2. **Konsultationsdauer zu kurz** (< 2 Wochen)
-3. **Anzeige unvollstaendig** — Wiederholung erforderlich
-4. **Einzelkuendigungen vor Ablauf Sperrfrist** — unwirksam
-5. **BR-Stellungnahme nicht beigefuegt**
+3. **Anzeige unvollständig** — Wiederholung erforderlich
+4. **Einzelkündigungen vor Ablauf Sperrfrist** — unwirksam
+5. **BR-Stellungnahme nicht beigefügt**
 6. **Sozialplan zu spät verhandelt**
 
 ## 9) BAG- und EuGH-Linien
@@ -151,7 +151,7 @@ EuGH, Urt. v. 27.1.2005 — C-188/03 (Junk): Konsultations-Verfahren muss **vor 
 ## 10) Honorar
 
 - Beratung AG: Pauschal oder Stundensatz, bei Massenverfahren mehrtaegig
-- Kuendigungsschutzklage AN: § 42 II GKG (3 Brutto)
+- Kündigungsschutzklage AN: § 42 II GKG (3 Brutto)
 - Sozialplan-Verhandlung: Pauschal mit BR-Honorar nach BetrVG
 
 ## Anschluss

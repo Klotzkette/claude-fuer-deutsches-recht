@@ -43,15 +43,15 @@ Pro Aktenteil eine Klassifizierung:
 
 - **Bescheid vs Aktenstand** — sagt der Bescheid Dinge die in der Akte anders stehen?
 - **Verfahrensvermerke** — wurde die Anhörung geführt aktenkundig?
-- **Medizinische Gutachten** — sind sie schlüssig nachvollziehbar? Wurden Befunde aus Arztbriefen ueberhaupt zur Kenntnis genommen?
-- **Ermittlungsumfang** — hat die Behörde alles erhoben was sie haette erheben müssen (§ 20 SGB X)?
+- **Medizinische Gutachten** — sind sie schlüssig nachvollziehbar? Wurden Befunde aus Arztbriefen überhaupt zur Kenntnis genommen?
+- **Ermittlungsumfang** — hat die Behörde alles erhoben was sie hätte erheben müssen (§ 20 SGB X)?
 - **Datenherkunft** — woher hat die Behörde Drittauskuenfte und durfte sie diese erheben?
 
 ### 5. Folge-Prüfkatalog
 
 Für den nächsten Schriftsatz:
-- Welche Aktenstuecke zitieren wir mit Pinpoint (Seite Absatz)?
-- Welche Aktenstuecke widerlegen die Bescheidbegründung?
+- Welche Aktenstücke zitieren wir mit Pinpoint (Seite Absatz)?
+- Welche Aktenstücke widerlegen die Bescheidbegründung?
 - Wo brauchen wir eine Stellungnahme des Mandanten?
 - Wo brauchen wir ein eigenes Privatgutachten zur Untermauerung?
 - Welche Beweisanträge könnten wir im Klageverfahren stellen?
@@ -59,7 +59,7 @@ Für den nächsten Schriftsatz:
 ## Ausgabe
 
 - `aktenchronik-<mandat>.md` mit Chronik und Bewertung.
-- `aktenpruefliste-<mandat>.md` mit Prüfer-Flags zur Klaerung mit Mandant.
+- `aktenpruefliste-<mandat>.md` mit Prüfer-Flags zur Klärung mit Mandant.
 - Vorlage `schriftsatzbausteine-<mandat>.md` mit zitierfähigen Pinpoint-Verweisen aus der Akte für den Folgeschriftsatz.
 
 ## Hinweis zur Vertraulichkeit

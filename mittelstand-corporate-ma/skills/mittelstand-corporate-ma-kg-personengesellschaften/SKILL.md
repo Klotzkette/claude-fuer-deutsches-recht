@@ -20,7 +20,7 @@ Spezialworkflow für KG, GmbH & Co. KG, Fondsvehikel, Kommanditistenwechsel, Ein
 
 - Haftsumme/Registerstand unklar.
 - Kommanditistenwechsel ohne Zustimmungskette.
-- Kapital-/Steuerkonto nicht beruecksichtigt.
+- Kapital-/Steuerkonto nicht berücksichtigt.
 
 ## Standardausgabe
 

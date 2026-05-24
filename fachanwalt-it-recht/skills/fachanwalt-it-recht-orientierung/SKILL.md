@@ -28,7 +28,7 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 ## Typische Mandate
 
 - SaaS-Verträge Cloud-Verträge Software-Lizenz
-- Datenschutz-Audit Datenschutzfolgenabschaetzung (siehe datenschutzrecht)
+- Datenschutz-Audit Datenschutzfolgenabschätzung (siehe datenschutzrecht)
 - Open-Source-Compliance
 - IT-Sicherheit NIS2-Umsetzung
 - KI-Governance KI-VO (siehe ki-governance)
@@ -54,7 +54,7 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 ## Standardliteratur
 
 - Auer-Reinsdorff/Conrad, Handbuch IT- und Datenschutzrecht.
-- Roth/Schoenrich, IT-Vertragsrecht.
+- Roth/Schönrich, IT-Vertragsrecht.
 - Soeldner/Litzel, Open-Source-Recht.
 - Roßnagel, Handbuch Datenschutzrecht.
 

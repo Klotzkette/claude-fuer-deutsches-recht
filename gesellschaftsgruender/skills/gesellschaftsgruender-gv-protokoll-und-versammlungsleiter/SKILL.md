@@ -7,37 +7,37 @@ description: "Protokoll der Gesellschafterversammlung. Wahl des Versammlungsleit
 
 ## Zweck
 
-Das Protokoll dokumentiert Beschluesse der Gesellschafterversammlung. Es ist Beweismittel bei Streit und Voraussetzung fuer Anmeldungen beim Handelsregister.
+Das Protokoll dokumentiert Beschlüsse der Gesellschafterversammlung. Es ist Beweismittel bei Streit und Voraussetzung für Anmeldungen beim Handelsregister.
 
 ## 1) Pflicht-Inhalte des Protokolls
 
 ### Formaler Teil
 
 - Datum, Ort, Beginn, Ende
-- Anwesenheits-Liste mit Anteilshoehen und Stimmrechten
+- Anwesenheits-Liste mit Anteilshöhen und Stimmrechten
 - Wahl des Versammlungsleiters
-- Wahl des Schriftfuehrers
-- Feststellung der ordnungsgemaessen Ladung und der Beschlussfaehigkeit
+- Wahl des Schriftführers
+- Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
 - Tagesordnung
 
 ### Pro Tagesordnungspunkt
 
 - Beschluss-Vorlage im Wortlaut
 - Diskussion (knappe Zusammenfassung)
-- Beschluss im **endgueltigen Wortlaut**
+- Beschluss im **endgültigen Wortlaut**
 - Stimm-Ergebnis: Ja-Stimmen, Nein-Stimmen, Enthaltungen — jeweils nach Anteilen und Personen
 
 ### Schluss
 
 - Schluss der Versammlung
-- Unterschriften: Versammlungsleiter und Schriftfuehrer
+- Unterschriften: Versammlungsleiter und Schriftführer
 
 ## 2) Wahl des Versammlungsleiters
 
 ### Standard
 
 - Wahl durch die GV mit einfacher Mehrheit
-- Typisch der Geschaeftsfuehrer (der einberufen hat) oder ein Gesellschafter
+- Typisch der Geschäftsführer (der einberufen hat) oder ein Gesellschafter
 
 ### Bei streitiger Versammlung
 
@@ -48,7 +48,7 @@ Das Protokoll dokumentiert Beschluesse der Gesellschafterversammlung. Es ist Bew
 ### Befugnisse des Versammlungsleiters
 
 - Ordnungsmaecht in der Versammlung (Reihenfolge, Diskussionsdauer)
-- Feststellung der Beschluesse
+- Feststellung der Beschlüsse
 - Unterzeichnung des Protokolls
 - Bei Streit: stark umstritten, was er einseitig feststellen darf
 
@@ -57,20 +57,20 @@ Das Protokoll dokumentiert Beschluesse der Gesellschafterversammlung. Es ist Bew
 ### Standardregeln
 
 - Stimmrecht nach Anteilen (Paragraf 47 II GmbHG)
-- 1 EUR Geschaeftsanteil = 1 Stimme
-- Abweichungen in Satzung moeglich (Mehrstimmrecht, Sonderklassen) → `gesellschaftsgruender-share-classes-a-b-c`
+- 1 EUR Geschäftsanteil = 1 Stimme
+- Abweichungen in Satzung möglich (Mehrstimmrecht, Sonderklassen) → `gesellschaftsgruender-share-classes-a-b-c`
 
 ### Mehrheits-Erfordernisse
 
 | Beschluss | Mehrheit |
 |---|---|
 | Standard | einfache Mehrheit (>50 % der abgegebenen Stimmen) |
-| Geschaeftsfuehrer-Bestellung | einfache Mehrheit |
-| Geschaeftsfuehrer-Abberufung | einfache Mehrheit (Paragraf 38 GmbHG) |
+| Geschäftsführer-Bestellung | einfache Mehrheit |
+| Geschäftsführer-Abberufung | einfache Mehrheit (Paragraf 38 GmbHG) |
 | Satzungsaenderung | 75 % der abgegebenen Stimmen (Paragraf 53 II GmbHG) |
-| Aufloesung | 75 % (Paragraf 60 I Nr. 2 GmbHG) |
-| Kapitalerhoehung | 75 % (Paragraf 53 II GmbHG) |
-| Verkauf wesentlicher Aktiva | abhaengig von Satzung |
+| Auflösung | 75 % (Paragraf 60 I Nr. 2 GmbHG) |
+| Kapitalerhöhung | 75 % (Paragraf 53 II GmbHG) |
+| Verkauf wesentlicher Aktiva | abhängig von Satzung |
 | Entlastung | einfache Mehrheit (typisch) |
 
 ### Stimmverbot Paragraf 47 IV GmbHG
@@ -81,24 +81,24 @@ Bei eigenen Angelegenheiten ausgeschlossen:
 - Befreiung von Verbindlichkeiten
 - Geltendmachung von Schadensersatzanspruechen gegen den Gesellschafter
 
-## 4) Notarielle Beurkundung bei bestimmten Beschluessen
+## 4) Notarielle Beurkundung bei bestimmten Beschlüssen
 
 ### Notar-Pflicht (Paragraf 53 GmbHG)
 
 - Satzungsaenderung
-- Erhoehung / Herabsetzung des Stammkapitals
-- Aufloesung der Gesellschaft
+- Erhöhung / Herabsetzung des Stammkapitals
+- Auflösung der Gesellschaft
 - Verschmelzung / Spaltung (UmwG)
 
 ### Praxis
 
 - Notar wird zur Versammlung eingeladen oder ad hoc bestellt
 - Notar beurkundet **gesamten Versammlungsverlauf** als Protokoll
-- Notar-Protokoll ersetzt das uebliche Protokoll
+- Notar-Protokoll ersetzt das übliche Protokoll
 
 ### Wahl-Erfordernis
 
-- Wahl-Beschluesse (z.B. Geschaeftsfuehrer-Bestellung) **nicht** notarpflichtig, ausser Satzung sieht es vor
+- Wahl-Beschlüsse (z.B. Geschäftsführer-Bestellung) **nicht** notarpflichtig, außer Satzung sieht es vor
 - Schriftform genuegt
 
 ## 5) Beispiel-Protokoll
@@ -176,13 +176,13 @@ Schriftfuehrer:          _______________
                          Bernd Schmidt
 ```
 
-## 6) Anfechtung von Beschluessen
+## 6) Anfechtung von Beschlüssen
 
 ### Anfechtbarkeit (Paragrafen 246, 248 AktG analog)
 
 - Bei Verfahrensfehlern (Einladung, Mehrheits-Berechnung)
-- Bei Verstoss gegen Satzung
-- Bei Verstoss gegen Treuepflicht
+- Bei Verstoß gegen Satzung
+- Bei Verstoß gegen Treuepflicht
 
 ### Frist
 
@@ -191,7 +191,7 @@ Schriftfuehrer:          _______________
 
 ### Nichtigkeit (Paragrafen 241, 249 AktG analog)
 
-- Bei schweren Maengeln (z.B. nicht eingeladene Gesellschafter)
+- Bei schweren Mängeln (z.B. nicht eingeladene Gesellschafter)
 - Keine Frist
 
 → `gesellschaftsgruender-gesellschafterstreit-eilantraege`
@@ -203,10 +203,10 @@ Schriftfuehrer:          _______________
 - Gesellschafter A leitet Versammlung; Gesellschafter B widerspricht der Leitung; jeder erstellt eigenes Protokoll
 - Verschiedene Beschluss-Feststellungen
 
-### Loesung
+### Lösung
 
 - Notar empfohlen — neutrale Beurkundung
-- Andernfalls: Anfechtungs-Klage zur Feststellung der wahren Beschluesse
+- Andernfalls: Anfechtungs-Klage zur Feststellung der wahren Beschlüsse
 
 ### Bei Anmeldung beim Handelsregister
 
@@ -216,16 +216,16 @@ Schriftfuehrer:          _______________
 ## 8) Aufbewahrung
 
 - Protokolle sind **mindestens 10 Jahre** aufzubewahren (Paragraf 257 HGB)
-- Idealerweise dauerhaft (z.B. fuer spaetere Due Diligence vor M&A)
+- Idealerweise dauerhaft (z.B. für spätere Due Diligence vor M&A)
 - Originale (mit Unterschriften) im Original-Archiv
 
 ## 9) Typische Protokoll-Fehler
 
-1. **Anwesenheits-Liste unvollstaendig**. Bei Anfechtung schwer beweisbar, wer wirklich da war.
-2. **Stimm-Ergebnis nicht beschriftet**. „Beschluss ist einstimmig" reicht nicht — Anteile / Stimmen aufschluesseln.
+1. **Anwesenheits-Liste unvollständig**. Bei Anfechtung schwer beweisbar, wer wirklich da war.
+2. **Stimm-Ergebnis nicht beschriftet**. „Beschluss ist einstimmig" reicht nicht — Anteile / Stimmen aufschlüsseln.
 3. **Versammlungsleiter-Wahl vergessen** zu protokollieren. Anfechtungs-Argument.
-4. **Beschluss-Wortlaut unklar**. Bei spaeterer Anmeldung HR-Beanstandung.
-5. **Stimmverbot Paragraf 47 IV GmbHG nicht beruecksichtigt**. Stimmen muessen abgezogen werden.
+4. **Beschluss-Wortlaut unklar**. Bei späterer Anmeldung HR-Beanstandung.
+5. **Stimmverbot Paragraf 47 IV GmbHG nicht berücksichtigt**. Stimmen müssen abgezogen werden.
 6. **Notar fehlt bei satzungsaendendem Beschluss**. Beschluss nichtig.
 
 ## Anschluss

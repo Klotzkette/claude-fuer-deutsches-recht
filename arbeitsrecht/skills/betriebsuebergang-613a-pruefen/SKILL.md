@@ -188,4 +188,4 @@ Nach EuGH C-13/95 Süzen und Folgerechtsprechung:
 - EuGH-Rspr. Spähn / Christel Schmidt / Süzen / Albron / Klarenberg
 - BAG 8. Senat
 - ErfK Preis BGB
-- ErfK (begr. Müller-Glöge/Preis/Schmidt), 25. Aufl. 2025 — fortgefuehrt durch Preis/Sittard/Kiel
+- ErfK (begr. Müller-Glöge/Preis/Schmidt), 25. Aufl. 2025 — fortgeführt durch Preis/Sittard/Kiel

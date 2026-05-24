@@ -3,7 +3,7 @@ name: anrede-uebernehmen
 description: "Uebernimmt die EXAKTE Anrede aus der eingehenden Mandantenanfrage und konvertiert sie in die formelle Anredezeile der Antwortmail. Heuristiken fuer Titel (Dr. Prof. Mag.), Doppelnamen, Adelspraedikate, kirchliche Titel, Komposita, Ehepaare, Erbengemeinschaften und namenlose Anfragen. Laedt wenn der Nutzer 'Anrede uebernehmen', 'Anredezeile erstellen', 'formelle Anrede', 'Titel erkennen' oder 'Doppelname Anrede' sagt."
 ---
 
-# Anrede-Uebernehmen
+# Anrede-Übernehmen
 
 Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt sie — wo nötig — in eine formelle Anredezeile für das Antwortschreiben um. Grundprinzip: Was die anfragende Person über sich selbst sagt, hat Vorrang vor jeder Heuristik.
 

@@ -7,53 +7,53 @@ description: "StaRUG-Restrukturierungsplan §§ 4-65 StaRUG. Voraussetzung drohe
 
 ## Zweck
 
-Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfaehigkeit. Kein Insolvenz-Verfahren, kein Insolvenz-Stigma.
+Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kein Insolvenz-Verfahren, kein Insolvenz-Stigma.
 
 ## 1) Eingangs-Abfrage
 
-1. Liquiditaets-Lage: drohende Zahlungsunfaehigkeit § 18 InsO?
-2. Bereits Zahlungsunfaehigkeit § 17 InsO oder Ueberschuldung § 19 InsO? -> dann nicht StaRUG, sondern InsO
-3. Sanierungs-Aussichts-Pruefung
-4. Glaeubiger-Struktur (Bank, Lieferanten, Mitarbeiter)?
-5. Welche Glaeubiger sollen vom Plan betroffen sein?
+1. Liquiditäts-Lage: drohende Zahlungsunfähigkeit § 18 InsO?
+2. Bereits Zahlungsunfähigkeit § 17 InsO oder Überschuldung § 19 InsO? -> dann nicht StaRUG, sondern InsO
+3. Sanierungs-Aussichts-Prüfung
+4. Gläubiger-Struktur (Bank, Lieferanten, Mitarbeiter)?
+5. Welche Gläubiger sollen vom Plan betroffen sein?
 
 ## 2) Voraussetzungen § 29 StaRUG
 
 | Voraussetzung | Inhalt |
 |---|---|
-| Drohende Zahlungsunfaehigkeit | § 18 InsO — 24-Monats-Prognose |
-| **Keine** Zahlungsunfaehigkeit | § 17 InsO — bei Eintritt: Wechsel ins Insolvenzverfahren |
-| Sanierungs-Aussicht | Bescheinigung Pruefer |
-| Antrag des Schuldners | bei Gesellschaft: Geschaeftsfuehrer |
+| Drohende Zahlungsunfähigkeit | § 18 InsO — 24-Monats-Prognose |
+| **Keine** Zahlungsunfähigkeit | § 17 InsO — bei Eintritt: Wechsel ins Insolvenzverfahren |
+| Sanierungs-Aussicht | Bescheinigung Prüfer |
+| Antrag des Schuldners | bei Gesellschaft: Geschäftsführer |
 
 ### Vorteil StaRUG vs. Insolvenz
 
-- Nicht-publik moeglich (anders als Insolvenz)
-- Schuldner behaelt volle Verfuegungsbefugnis
-- Nur betroffene Glaeubiger gebunden (anders als Insolvenz-Plan)
+- Nicht-publik möglich (anders als Insolvenz)
+- Schuldner behaelt volle Verfügungsbefugnis
+- Nur betroffene Gläubiger gebunden (anders als Insolvenz-Plan)
 - Schnellerer Verlauf
 
 ## 3) Plan-Struktur § 8 StaRUG
 
 ### Pflicht-Inhalte
 
-1. Darstellender Teil (Sachverhalt, Gruende)
+1. Darstellender Teil (Sachverhalt, Gründe)
 2. Gestaltender Teil (Eingriffe in Rechte)
 3. Gruppen-Bildung
 
 ### Gruppen § 9 StaRUG
 
-- Glaeubiger mit gleichen Rechten und Interessen
-- Typisch: Bank-Kredite, Lieferanten, gesicherte Glaeubiger
+- Gläubiger mit gleichen Rechten und Interessen
+- Typisch: Bank-Kredite, Lieferanten, gesicherte Gläubiger
 
 ### Mehrheiten je Gruppe § 25 StaRUG
 
-- **75 % der Summe** der Forderungen der abgestimmten Glaeubiger einer Gruppe
+- **75 % der Summe** der Forderungen der abgestimmten Gläubiger einer Gruppe
 
 ### Cross-class cramdown § 26 StaRUG
 
-- Bei Verweigerung einer Klasse: Plan kann trotzdem bestaetigt werden, wenn:
-  - Plan-Verhaeltnis-Pruefung erfuellt
+- Bei Verweigerung einer Klasse: Plan kann trotzdem bestätigt werden, wenn:
+  - Plan-Verhältnis-Prüfung erfüllt
   - Keine Klasse schlechter gestellt als ohne Plan
   - Mehrheit der Klassen zustimmt
 
@@ -63,12 +63,12 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfaehigkeit. Kei
 
 - Schutz vor Zwangsvollstreckung
 - Vor Sicherheits-Verwertung
-- Maximal **3 Monate**, Verlaengerung moeglich
+- Maximal **3 Monate**, Verlängerung möglich
 
 ### Antrag
 
 - Beim Restrukturierungsgericht
-- Glaubhaftmachung Eilbeduerftigkeit
+- Glaubhaftmachung Eilbedürftigkeit
 
 ## 5) Restrukturierungsbeauftragter § 73 StaRUG
 
@@ -85,71 +85,71 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfaehigkeit. Kei
 
 ## 6) Workflow
 
-### Phase 1 — Krisen-Pruefung
+### Phase 1 — Krisen-Prüfung
 
-- Liquiditaets-Plan 24-Monate
-- Bescheinigung Pruefer
+- Liquiditäts-Plan 24-Monate
+- Bescheinigung Prüfer
 - Sanierungs-Konzept
 
 ### Phase 2 — Anzeige § 31 StaRUG
 
 - Beim Restrukturierungsgericht
 - Plan-Inhalts-Skizze
-- Glaeubiger-Verzeichnis
+- Gläubiger-Verzeichnis
 
 ### Phase 3 — Plan-Aufstellung
 
 - Schriftliche Plan-Ausarbeitung
-- Glaeubiger-Information
+- Gläubiger-Information
 - Vergleichs-Verhandlungen
 
 ### Phase 4 — Abstimmung
 
 - Klassen-Aufteilung
 - Schriftliche oder muendliche Abstimmung
-- Mehrheits-Pruefung
+- Mehrheits-Prüfung
 
-### Phase 5 — Bestaetigung
+### Phase 5 — Bestätigung
 
-- Gerichts-Bestaetigung
+- Gerichts-Bestätigung
 - Plan tritt in Kraft
 
 ### Phase 6 — Umsetzung
 
 - Anpassung Forderungen
-- Restrukturierungs-Massnahmen
+- Restrukturierungs-Maßnahmen
 - Aufhebung Stabilisierung
 
-## 7) Geschaeftsfuehrer-Pflichten § 32 StaRUG
+## 7) Geschäftsführer-Pflichten § 32 StaRUG
 
 ### Pflicht
 
-- Bei Inanspruchnahme StaRUG: Pflicht zur Wahrung Glaeubiger-Interessen
+- Bei Inanspruchnahme StaRUG: Pflicht zur Wahrung Gläubiger-Interessen
 - Pflicht zur Anzeige bei Misserfolg
 
 ### Haftung
 
-- Bei Pflichtverletzung: Schadensersatz gegenueber Glaeubigern
+- Bei Pflichtverletzung: Schadensersatz gegenüber Gläubigern
 - Strafbarkeit § 15a IV InsO bleibt unberuehrt bei Verschleppung
 
 ## 8) Cross-Border (EU-RestrukturierungsRL)
 
 - Eintragung im EU-Insolvenz-Register
 - Anerkennung in anderen EU-Staaten
-- Bei Auslands-Glaeubigern: spezielle Konsultations-Verfahren
+- Bei Auslands-Gläubigern: spezielle Konsultations-Verfahren
 
 ## 9) Typische Fehler
 
-1. **StaRUG bei Zahlungsunfaehigkeit § 17 InsO**: Pflicht zum Wechsel in Insolvenz
+1. **StaRUG bei Zahlungsunfähigkeit § 17 InsO**: Pflicht zum Wechsel in Insolvenz
 2. **Gruppen-Bildung unzureichend**: Plan-Anfechtung droht
 3. **75 %-Mehrheit knapp verfehlt**: Plan scheitert ohne Cross-Class
-4. **Stabilisierungs-Verlaengerung versaeumt**: Sicherheits-Verwertung
-5. **Bescheinigungs-Pruefer ungeeignet**: Antrag-Ablehnung
+4. **Stabilisierungs-Verlängerung versäumt**: Sicherheits-Verwertung
+5. **Bescheinigungs-Prüfer ungeeignet**: Antrag-Ablehnung
 
 ## 10) BGH-/AG-Linien
 
 - AG Hamburg, Beschl. v. 28.4.2021 — 67g IN 121/21 (erstes StaRUG-Verfahren)
-- BGH, Beschl. v. 13.7.2023 — IX ZB 24/22 (Sanierungs-Aussichten-Pruefung)
+- BGH, Beschl. v. 13.7.2023 — IX ZB 24/22 (Sanierungs-Aussichten-Prüfung)
 
 ## 11) Praxis-Hinweise
 

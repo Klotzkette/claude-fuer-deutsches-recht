@@ -12,7 +12,7 @@ Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organp
 ## Arbeitsmodus
 
 - Amtliche Bundes- und Landesquellen bevorzugen.
-- OpenJur/dejure nur ergaenzend nutzen und Fundstellen verifizieren.
+- OpenJur/dejure nur ergänzend nutzen und Fundstellen verifizieren.
 - Entscheidungen mit Datum, Aktenzeichen, Fundstelle und Randnummer erfassen.
 - Verwertungsnotiz für Vertrag, Memo, Board Paper oder Schriftsatz schreiben.
 

@@ -146,7 +146,7 @@ Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erze
 
 ### Rückforderungs-Risiko
 
-- Bei Beihilfen-Verstoss EU-Kommission
+- Bei Beihilfen-Verstoß EU-Kommission
 - Verzinsung bis 10 Jahre rückwirkend
 - Skill `europarecht-kompass`
 

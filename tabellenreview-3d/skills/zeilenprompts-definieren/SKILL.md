@@ -13,7 +13,7 @@ Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau 
 
 ### Konzern- und Gruppenkontext
 
-"Dieser Vertrag laeuft zwischen Mutter- und Tochtergesellschaft im 100-Prozent-Konzern — AktG Paragraph 311 und Paragraph 312 (Konzernrecht und Abhängigkeitsbericht) zusätzlich prüfen. Marktüblichkeit der Konditionen ist Pflichtspalte."
+"Dieser Vertrag läuft zwischen Mutter- und Tochtergesellschaft im 100-Prozent-Konzern — AktG Paragraph 311 und Paragraph 312 (Konzernrecht und Abhängigkeitsbericht) zusätzlich prüfen. Marktüblichkeit der Konditionen ist Pflichtspalte."
 
 ### Fehlende Anlagen
 
@@ -21,7 +21,7 @@ Spaltenprompts machen alle Dokumente vergleichbar. Zeilenprompts erlauben genau 
 
 ### Sprachfremde Dokumente
 
-"Vertrag in englischer Sprache. Bei Zitat: Originalwortlaut PLUS deutsche Arbeitsuebersetzung in Klammern. Auslegungsmaßstab nach BGB Paragraph 133 und Paragraph 157 trotz Englisch."
+"Vertrag in englischer Sprache. Bei Zitat: Originalwortlaut PLUS deutsche Arbeitsübersetzung in Klammern. Auslegungsmaßstab nach BGB Paragraph 133 und Paragraph 157 trotz Englisch."
 
 ### Älterer Vertrag
 

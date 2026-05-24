@@ -3,7 +3,7 @@ name: jveg-kuerzung-wegfall-8a
 description: "Findet Kürzungs- und Wegfallrisiken: Verwertbarkeit, Hinweisobliegenheit, Befangenheit, Vorschussüberschreitung und Mängel."
 ---
 
-# JVEG Kuerzung Wegfall 8a
+# JVEG Kürzung Wegfall 8a
 
 ## Aufgabe
 

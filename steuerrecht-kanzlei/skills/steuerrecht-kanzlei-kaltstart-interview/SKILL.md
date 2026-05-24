@@ -9,7 +9,7 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfr
 
 1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-kanzlei/CLAUDE.md` prüfen.
 2. Falls vorhanden ohne Platzhalter: bestätigen.
-3. Andernfalls Interview unten durchfuehren und Datei schreiben.
+3. Andernfalls Interview unten durchführen und Datei schreiben.
 
 ## Kaltstart-Interview
 

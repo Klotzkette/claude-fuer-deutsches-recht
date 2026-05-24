@@ -3,7 +3,7 @@ name: annahmen-sammeln-fortfuehrung
 description: Sammelt die Annahmen die der Geschaeftsfuehrer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate`.
 ---
 
-# Annahmen sammeln (Fortfuehrung)
+# Annahmen sammeln (Fortführung)
 
 ## Zweck
 
@@ -42,7 +42,7 @@ annahmen:
 
 - **Auftragsbestand** zum Stichtag.
 - **Kundenpipeline** quasi-sichere Folgeaufträge.
-- **Saisonalitaet** historisch über drei Jahre.
+- **Saisonalität** historisch über drei Jahre.
 - **Top-Kunden-Konzentration** Risiko bei Wegfall.
 
 ### 2. Kostenentwicklung
@@ -66,7 +66,7 @@ annahmen:
 ### 5. Finanzierung
 
 - **Bestehende Kreditlinien** Volumen Ausnutzung Endfälligkeit.
-- **Tilgungsplaene** der bestehenden Darlehen.
+- **Tilgungspläne** der bestehenden Darlehen.
 - **Neue Finanzierungsangebote** Bank schriftliche Zusagen.
 - **Gesellschafterzusagen** Patronatserklärungen Comfortletter.
 
@@ -88,7 +88,7 @@ Im Streit (z. B. späteren Haftungsprozess) wird genau geprüft ob es Wünsche o
 
 Jede Annahme braucht:
 
-- **Zahl** (in EUR oder Prozent oder Tagen) — keine Spannweiten ausser bei Sensitivitaet.
+- **Zahl** (in EUR oder Prozent oder Tagen) — keine Spannweiten außer bei Sensitivitaet.
 - **Zeitraum** — Monat oder Quartal.
 - **Begründung** — woher kommt die Zahl?
 - **Beleg** — Excel Auftragsbestand Bestätigung Kunde Mietvertrag etc.
@@ -155,4 +155,4 @@ annahmen:
 - `annahmen.yaml` mit allen Pflichtfeldern.
 - Hinweis auf Skill `annahmen-belastbarkeit-plausibilisieren` als nächsten Schritt.
 - Liste fehlender Belege als Prüfer-Flag.
-- Empfehlung: bei einer Annahme die als unbelegt markiert ist *nicht* in die Liquidität uebernehmen — oder explizit als „Modellannahme ohne Beleg" markieren.
+- Empfehlung: bei einer Annahme die als unbelegt markiert ist *nicht* in die Liquidität übernehmen — oder explizit als „Modellannahme ohne Beleg" markieren.

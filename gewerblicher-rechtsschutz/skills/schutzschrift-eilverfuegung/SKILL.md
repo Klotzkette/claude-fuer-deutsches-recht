@@ -20,7 +20,7 @@ Wenn eine einstweilige Verfügung droht, kann eine Schutzschrift im zentralen el
 
 ### Wann nicht sinnvoll?
 
-- Bei eindeutig zugestandenem Verstoss — kontraproduktiv
+- Bei eindeutig zugestandenem Verstoß — kontraproduktiv
 - Bei rein theoretischem Risiko — Aufwand verschwendet
 - Bei bereits eingereichtem EV-Antrag
 
@@ -158,7 +158,7 @@ Es wird beantragt:
 - Frankfurt: ein bis zwei Monate
 - Düsseldorf: länger toleriert
 
-### Argument bei Eilbedürftigkeits-Verstoss
+### Argument bei Eilbedürftigkeits-Verstoß
 
 - Schutzschrift dokumentiert Verzögerung
 - Bei Verfahrens-Beginn vorzeigen

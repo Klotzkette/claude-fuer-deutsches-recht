@@ -36,7 +36,7 @@ Der Gläubigerausschuss ist das wichtigste Mitwirkungs-Organ der Gläubiger im I
 
 ### Überwachung Insolvenzverwalter § 69 InsO
 
-- **Kassenpruefung** Aufzeichnungen Belege
+- **Kassenprüfung** Aufzeichnungen Belege
 - **Quartalsbericht** Verwalter
 - **Berichts-Verlangen**
 
@@ -48,7 +48,7 @@ Der Gläubigerausschuss ist das wichtigste Mitwirkungs-Organ der Gläubiger im I
 - **Personalmaßnahmen** in größeren Konstellationen
 - **Vergleiche** mit größerem Volumen
 
-### Vergütungspruefung § 73 Abs. 1 InsO
+### Vergütungsprüfung § 73 Abs. 1 InsO
 
 - Verwalter-Vergütungs-Antrag nach InsVV
 - Stellungnahme an Insolvenzgericht
@@ -83,7 +83,7 @@ Der Gläubigerausschuss ist das wichtigste Mitwirkungs-Organ der Gläubiger im I
 
 ### Gewissenhafte Aufgabenwahrnehmung
 
-- **Sorgfalt eines ordentlichen Geschaeftsmanns**
+- **Sorgfalt eines ordentlichen Geschäftsmanns**
 - **Treuepflicht** gegenüber Gläubiger-Gesamtheit
 - **Verschwiegenheits-Pflicht** gegenüber Dritten
 

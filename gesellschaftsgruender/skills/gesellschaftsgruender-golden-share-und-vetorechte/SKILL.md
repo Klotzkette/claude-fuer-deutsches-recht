@@ -7,24 +7,24 @@ description: "Golden Share Sperrminoritaet Sondervetorechte. Bei Restrukturierun
 
 ## Zweck
 
-Ein **Golden Share** (auf Deutsch oft „Goldene Aktie" oder „Vorzugsanteil mit Vetorechten") ist ein Anteil mit **besonderen Stimmrechten** oder **Veto-Rechten**, die der Inhaber **unabhaengig** von seiner sonstigen Anteilshoehe besitzt. Klassisch bei Privatisierungs-Transaktionen entstanden, heute oft in Gruender-Verhaeltnissen, Investor-Schutz und Family-Office-Strukturen.
+Ein **Golden Share** (auf Deutsch oft „Goldene Aktie" oder „Vorzugsanteil mit Vetorechten") ist ein Anteil mit **besonderen Stimmrechten** oder **Veto-Rechten**, die der Inhaber **unabhängig** von seiner sonstigen Anteilshöhe besitzt. Klassisch bei Privatisierungs-Transaktionen entstanden, heute oft in Gründer-Verhältnissen, Investor-Schutz und Family-Office-Strukturen.
 
 ## 1) Konzept
 
 ### Klassisches Beispiel
 
-- Eine natuerliche Person haelt 1 Goldenen Anteil
-- Mehrheits-Beschluesse sind nur wirksam, wenn die Inhaberin des Golden Share **zustimmt**
-- Damit kann eine einzelne Person bestimmte Geschaefte verhindern
+- Eine natürliche Person haelt 1 Goldenen Anteil
+- Mehrheits-Beschlüsse sind nur wirksam, wenn die Inhaberin des Golden Share **zustimmt**
+- Damit kann eine einzelne Person bestimmte Geschäfte verhindern
 
 ### Inhalt des Vetorechts
 
 Typisch geregelt:
 
-- Aenderung der Satzung
-- Aenderung des Geschaeftsgegenstands
+- Änderung der Satzung
+- Änderung des Geschäftsgegenstands
 - Verkauf oder Verpfaendung wesentlicher Aktiva
-- Aufloesung der Gesellschaft
+- Auflösung der Gesellschaft
 - **Restrukturierung nach StaRUG oder Insolvenzantrag** (siehe unten)
 - Aufnahme neuer Investoren mit Vorzugsrechten
 
@@ -32,19 +32,19 @@ Typisch geregelt:
 
 ### Konstellation
 
-- Geschaeftsfuehrung will **StaRUG-Restrukturierung** beginnen (Paragraf 31 StaRUG)
+- Geschäftsführung will **StaRUG-Restrukturierung** beginnen (Paragraf 31 StaRUG)
 - Bestimmte Gesellschafter wollen das **nicht** (z.B. weil sie ausgebootet werden koennten)
 - Golden Share mit Restrukturierungs-Vetorecht: ohne Zustimmung kein Antrag
 
 ### Rechtsfrage
 
-- Im Aussenverhaeltnis: bindet die Geschaeftsfuehrung; Antrag ohne Zustimmung wirksam nach aussen?
-- BGH-Linie: GF ist im Innenverhaeltnis an Satzung gebunden, im Aussenverhaeltnis greift die Vertretungsmacht trotz Verstoss
+- Im Außenverhältnis: bindet die Geschäftsführung; Antrag ohne Zustimmung wirksam nach außen?
+- BGH-Linie: GF ist im Innenverhältnis an Satzung gebunden, im Außenverhältnis greift die Vertretungsmacht trotz Verstoß
 - Bei Pflichtverletzung: Haftung Paragraf 43 GmbHG; Abberufung Paragraf 38 GmbHG
 
 ### Praktische Wirkung
 
-- GF wird ohne Zustimmung des Golden-Share-Inhabers den Antrag nicht stellen, um persoenliche Haftung zu vermeiden
+- GF wird ohne Zustimmung des Golden-Share-Inhabers den Antrag nicht stellen, um persönliche Haftung zu vermeiden
 - Damit Golden Share **faktisch** wirksam
 
 ## 3) Satzungs-Klausel — Beispiel
@@ -81,11 +81,11 @@ in einen normalen Anteil um.
 
 ## 4) Wichtig: Paragraf 15a InsO Insolvenzantragspflicht
 
-### Pflicht der Geschaeftsfuehrung
+### Pflicht der Geschäftsführung
 
-- Bei Zahlungsunfaehigkeit oder Ueberschuldung: **Antragspflicht binnen 3 Wochen**
-- **Strafbarkeit** Paragraf 15a IV InsO bei Versaeumnis
-- **Sondervetorecht** der Gesellschafter **entlastet nicht** den Geschaeftsfuehrer
+- Bei Zahlungsunfähigkeit oder Überschuldung: **Antragspflicht binnen 3 Wochen**
+- **Strafbarkeit** Paragraf 15a IV InsO bei Versäumnis
+- **Sondervetorecht** der Gesellschafter **entlastet nicht** den Geschäftsführer
 
 ### Konsequenz
 
@@ -94,10 +94,10 @@ in einen normalen Anteil um.
 
 ## 5) Anwendungs-Konstellationen
 
-### Gruender-Schutz
+### Gründer-Schutz
 
-- Solo-Gruender mit Investoren-Eintritt
-- Gruender behaelt Vetorecht ueber Restrukturierung, Verkauf, Aufloesung
+- Solo-Gründer mit Investoren-Eintritt
+- Gründer behaelt Vetorecht über Restrukturierung, Verkauf, Auflösung
 - Schutz vor „Ausbootung" durch Mehrheits-Investor
 
 ### Investor-Schutz
@@ -107,8 +107,8 @@ in einen normalen Anteil um.
 
 ### Family Office
 
-- Familien-Patriarch / -Matriarchin behaelt Sondervetorecht ueber strategische Entscheidungen
-- Nachfolge-Generation kann taegliches Geschaeft fuehren, aber nicht strategische Wenden ohne Familienkonsens
+- Familien-Patriarch / -Matriarchin behaelt Sondervetorecht über strategische Entscheidungen
+- Nachfolge-Generation kann tägliches Geschäft führen, aber nicht strategische Wenden ohne Familienkonsens
 
 ### Strategische Investoren / Partner
 
@@ -119,18 +119,18 @@ in einen normalen Anteil um.
 ### Sittenwidrigkeit Paragraf 138 BGB
 
 - Zu weitgehende Vetorechte koennen sittenwidrig sein
-- Beispiel: Vetorecht gegen **alle** Beschluesse -> Gesellschaft funktionsunfaehig
+- Beispiel: Vetorecht gegen **alle** Beschlüsse -> Gesellschaft funktionsunfähig
 
 ### Treuepflicht der Gesellschafter
 
 - Vetorecht muss nach Treu und Glauben Paragraf 242 BGB ausgeuebt werden
-- Missbraeuchliche Ausuebung (rein schaedigend, ohne legitimes Interesse) kann anfechtbar sein
+- Missbraeuchliche Ausübung (rein schaedigend, ohne legitimes Interesse) kann anfechtbar sein
 - BGH NJW 2007, 917 zur Treuepflicht in Kapitalgesellschaften
 
 ### Stimmverbot Paragraf 47 IV GmbHG
 
 - Bei eigenen Angelegenheiten ist Stimmrecht ausgeschlossen
-- Golden Share kann das **nicht** umgehen — Stimmverbot greift auch fuer Golden-Share-Inhaber
+- Golden Share kann das **nicht** umgehen — Stimmverbot greift auch für Golden-Share-Inhaber
 
 ## 7) Stimmverpflichtung im SHA
 
@@ -140,14 +140,14 @@ In der **Gesellschaftervereinbarung (SHA)** koennen Gesellschafter sich verpflic
 
 → `gesellschaftsgruender-sha-satzung-stimmverpflichtung`
 
-## 8) Streit ueber Vetorecht
+## 8) Streit über Vetorecht
 
 ### Bei Konflikt
 
 - Veto wird ausgeuebt -> Beschluss nicht zustande gekommen
 - Gegenseitige Vorwuerfe: Veto rechtmaessig? Treuwidrig?
 - Klage auf Feststellung der Wirksamkeit / Unwirksamkeit eines Beschlusses (Paragrafen 246, 248 AktG analog)
-- Bei Streit oft einstweilige Verfuegung -> `gesellschaftsgruender-gesellschafterstreit-eilantraege`
+- Bei Streit oft einstweilige Verfügung -> `gesellschaftsgruender-gesellschafterstreit-eilantraege`
 
 ## 9) Eintragung im Handelsregister
 
@@ -155,20 +155,20 @@ In der **Gesellschaftervereinbarung (SHA)** koennen Gesellschafter sich verpflic
 
 - Stimmrechts-Klauseln werden im Handelsregister hinterlegt (mit der Satzung)
 - Vetorecht ist publik
-- Bei Anteilsuebertragung: Vetorecht-Klausel bleibt im Anteil
+- Bei Anteilsübertragung: Vetorecht-Klausel bleibt im Anteil
 
-### Bei spaeterem Verkauf
+### Bei späterem Verkauf
 
-- Klausel zur Loeschung bei Verkauf ueblich (siehe Satzung Beispiel oben § 2)
+- Klausel zur Löschung bei Verkauf üblich (siehe Satzung Beispiel oben § 2)
 - Andernfalls: Investor erhaelt Golden Share, was meist nicht gewuenscht
 
 ## 10) Praktische Empfehlung
 
-- **Bei Solo-Gruender mit absehbaren Investoren**: Golden Share fuer den Gruender mit klar definierten Vetorechten
-- **Bei Family Office**: Golden Share fuer aktives Familienmitglied
-- **NICHT** Pauschal-Vetorechte ueber alles — selektiv, mit klaren Schwellen
+- **Bei Solo-Gründer mit absehbaren Investoren**: Golden Share für den Gründer mit klar definierten Vetorechten
+- **Bei Family Office**: Golden Share für aktives Familienmitglied
+- **NICHT** Pauschal-Vetorechte über alles — selektiv, mit klaren Schwellen
 - **Stimmverbot Paragraf 47 IV GmbHG beachten** — bei eigenen Angelegenheiten greift es
-- **In SHA Stimmverpflichtungen** als ergaenzendes Sicherungsnetz
+- **In SHA Stimmverpflichtungen** als ergänzendes Sicherungsnetz
 
 ## Anschluss
 

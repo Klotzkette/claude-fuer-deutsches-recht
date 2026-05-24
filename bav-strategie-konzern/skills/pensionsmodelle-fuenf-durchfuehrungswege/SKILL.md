@@ -106,7 +106,7 @@ Dr. von Sompeh-Ostermann eröffnet die Mandatsbearbeitung stets mit einem strukt
 
 #### 2.4 Pensionsfonds
 
-**Rechtsform:** Rechtsfähige Versorgungseinrichtung gem. § 236 VAG; kapitalmarktnaher Durchführungsweg.
+**Rechtsform:** Rechtsfähige Versorgungseinrichtung gem. § 236 VAG; kapitalmarktnäher Durchführungsweg.
 
 **Aufsicht:** BaFin gem. §§ 236–242 VAG; IORP II; MaRisk entsprechend.
 

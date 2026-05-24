@@ -5,23 +5,23 @@ description: "Vorbereitung der Vorlage an den Nationalen Normenkontrollrat NKR. 
 
 # Normenkontrollrat / KMU-Check
 
-> Der NKR ist die wichtigste Pruefinstanz fuer Erfuellungsaufwand.
+> Der NKR ist die wichtigste Pruefinstanz für Erfüllungsaufwand.
 
 ## Nationaler Normenkontrollrat (NKR)
 
-Unabhaengiges Beratungsgremium der Bundesregierung. Einrichtung durch NKRG (Gesetz ueber den Nationalen Normenkontrollrat) 2006.
+Unabhängiges Beratungsgremium der Bundesregierung. Einrichtung durch NKRG (Gesetz über den Nationalen Normenkontrollrat) 2006.
 
 ### Aufgabe
 
-Pruefung des Erfuellungsaufwands und der Folgekosten von Bundesgesetzen, Verordnungen und Allgemeinverwaltungsvorschriften.
+Prüfung des Erfüllungsaufwands und der Folgekosten von Bundesgesetzen, Verordnungen und Allgemeinverwaltungsvorschriften.
 
 ### Pruefberichte
 
-Der NKR erstellt einen Pruefbericht, der dem Kabinettsentwurf als Anlage beigefuegt wird. Negative Berichte erschweren das parlamentarische Verfahren.
+Der NKR erstellt einen Pruefbericht, der dem Kabinettsentwurf als Anlage beigefügt wird. Negative Berichte erschweren das parlamentarische Verfahren.
 
 ## KMU-Test
 
-Mittelstandsrelevante Vorschriften muessen einen besonderen KMU-Check bestehen:
+Mittelstandsrelevante Vorschriften müssen einen besonderen KMU-Check bestehen:
 
 - Welche Adressaten sind Unternehmen mit weniger als 250 Beschaeftigten?
 - Welche Umsetzungskosten?
@@ -30,9 +30,9 @@ Mittelstandsrelevante Vorschriften muessen einen besonderen KMU-Check bestehen:
 
 ## One-in-one-out
 
-Seit 2015 Bundesregierungsregel: Jeder neue Buerokratieaufwand fuer die Wirtschaft muss durch Entlastung an anderer Stelle ausgeglichen werden.
+Seit 2015 Bundesregierungsregel: Jeder neue Bürokratieaufwand für die Wirtschaft muss durch Entlastung an anderer Stelle ausgeglichen werden.
 
-### Pruefraster
+### Prüfraster
 
 - Pro neuem Aufwand: identifizieren Sie das Pendant zur Entlastung
 - Methodische Hilfe: SKK Standard-Kostenmodell
@@ -42,7 +42,7 @@ Seit 2015 Bundesregierungsregel: Jeder neue Buerokratieaufwand fuer die Wirtscha
 - NKR-Vorlagedatei
 - Anschreiben
 - Anlagen:
-  - Erfuellungsaufwand-Tabelle
+  - Erfüllungsaufwand-Tabelle
   - KMU-Test-Bericht
   - One-in-one-out-Nachweis
 

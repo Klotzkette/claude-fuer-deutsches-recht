@@ -5,7 +5,7 @@ description: "60-Sekunden-Sofortpruefung der Frist eines sozialrechtlichen Besch
 
 # Frist-Quick-Check
 
-Sofort-Eingangstuer zu jedem Bescheid. Vor Bescheidanalyse, vor Widerspruchsentwurf. **Nichts** vorher tun.
+Sofort-Eingangstür zu jedem Bescheid. Vor Bescheidanalyse, vor Widerspruchsentwurf. **Nichts** vorher tun.
 
 ## Eingabe
 
@@ -19,24 +19,24 @@ Sofort-Eingangstuer zu jedem Bescheid. Vor Bescheidanalyse, vor Widerspruchsentw
 | Norm | Inhalt |
 |---|---|
 | § 84 Abs. 1 SGG | Widerspruchsfrist ein Monat ab Bekanntgabe |
-| § 66 Abs. 1 SGG | Frist laeuft nur bei korrekter Rechtsbehelfsbelehrung |
+| § 66 Abs. 1 SGG | Frist läuft nur bei korrekter Rechtsbehelfsbelehrung |
 | § 66 Abs. 2 SGG | Bei fehlender / unrichtiger Belehrung ein Jahr ab Bekanntgabe |
 | § 37 Abs. 2 SGB X | Bekanntgabe-Fiktion einfacher Brief — am dritten Tag nach Aufgabe zur Post |
 | § 87 SGG | Klagefrist ein Monat nach Zustellung Widerspruchsbescheid |
 | § 67 SGG | Wiedereinsetzung in den vorigen Stand bei unverschuldeter Versaeumung |
-| § 44 SGB X | Ueberpruefungsantrag — auch nach Bestandskraft |
+| § 44 SGB X | Überprüfungsantrag — auch nach Bestandskraft |
 | § 86b SGG | Eilrechtsschutz beim Sozialgericht |
 
 ## Algorithmus
 
 Schritt 1 — Bekanntgabe bestimmen:
 - PZU oder Einschreiben mit Rueckschein → Datum auf Urkunde
-- Einfacher Brief → drei Tage nach Aufgabe zur Post (Datum auf Bescheid plus drei Tage, sofern nicht Mandant frueheres Zugangsdatum angibt)
-- Elektronisch über Postfach → tatsaechliches Abrufdatum, spaetestens drei Tage
+- Einfacher Brief → drei Tage nach Aufgabe zur Post (Datum auf Bescheid plus drei Tage, sofern nicht Mandant früheres Zugangsdatum angibt)
+- Elektronisch über Postfach → tatsächliches Abrufdatum, spaetestens drei Tage
 
 Schritt 2 — Fristbeginn ist der Tag nach Bekanntgabe (§ 26 Abs. 1 SGB X iVm § 187 Abs. 1 BGB).
 
-Schritt 3 — Fristende ist eine Monat spaeter, abends 24 Uhr, ggf. mit § 26 Abs. 3 SGB X (Wochenende, Feiertag).
+Schritt 3 — Fristende ist eine Monat später, abends 24 Uhr, ggf. mit § 26 Abs. 3 SGB X (Wochenende, Feiertag).
 
 Schritt 4 — Falls Rechtsbehelfsbelehrung fehlt oder fehlerhaft: Frist ist ein Jahr.
 
@@ -45,9 +45,9 @@ Schritt 4 — Falls Rechtsbehelfsbelehrung fehlt oder fehlerhaft: Frist ist ein 
 | Status | Verbleibende Tage | Sofortaktion |
 |---|---|---|
 | GRUEN | mehr als 14 | normale Bearbeitung, Akteneinsicht parallel |
-| GELB | 4 bis 14 | Vorrang Widerspruch heute oder morgen, Begruendung nachreichen § 84 Abs. 1 SGG |
-| ROT | weniger als 4 | sofort Widerspruchsschreiben „dem Grunde nach" — Begruendung folgt |
-| VERSTRICHEN | minus | Wiedereinsetzung § 67 SGG pruefen, ggf. § 44 SGB X |
+| GELB | 4 bis 14 | Vorrang Widerspruch heute oder morgen, Begründung nachreichen § 84 Abs. 1 SGG |
+| ROT | weniger als 4 | sofort Widerspruchsschreiben „dem Grunde nach" — Begründung folgt |
+| VERSTRICHEN | minus | Wiedereinsetzung § 67 SGG prüfen, ggf. § 44 SGB X |
 | EILBEDARF | egal | parallel `eilantrag-sozialrecht` |
 
 ## Output-Format
@@ -64,26 +64,26 @@ Ampel: [GRUEN / GELB / ROT / VERSTRICHEN / EILBEDARF]
 Sofort: [konkrete erste Handlung heute]
 ```
 
-## Wiedereinsetzung § 67 SGG — Kurzpruefung
+## Wiedereinsetzung § 67 SGG — Kurzprüfung
 
 Voraussetzungen alle:
-- Frist unverschuldet versaeumt (Krankheit, Naturkatastrophe, kein Verschulden der Anwaltschaft auf den Mandanten zugerechnet § 73 Abs. 6 SGG iVm § 85 ZPO)
+- Frist unverschuldet versäumt (Krankheit, Naturkatastrophe, kein Verschulden der Anwaltschaft auf den Mandanten zugerechnet § 73 Abs. 6 SGG iVm § 85 ZPO)
 - Antrag binnen zwei Wochen nach Wegfall des Hindernisses
-- Glaubhaftmachung (Attest, Bestaetigung)
-- Nachholung der versaeumten Handlung im selben Schriftsatz
+- Glaubhaftmachung (Attest, Bestätigung)
+- Nachholung der versäumten Handlung im selben Schriftsatz
 
-Wenn nicht alle erfuellt → kein Wiedereinsetzungsantrag, stattdessen `§ 44 SGB X` Ueberpruefungsantrag pruefen.
+Wenn nicht alle erfüllt → kein Wiedereinsetzungsantrag, stattdessen `§ 44 SGB X` Überprüfungsantrag prüfen.
 
 ## Faustregel Bestandskraft und § 44
 
-§ 44 Abs. 1 SGB X greift, wenn der Bescheid **rechtswidrig** war und der Mandant deshalb zu wenig oder gar keine Leistung erhalten hat. Rueckwirkung max. vier Jahre § 44 Abs. 4 SGB X. Antragsstellung jederzeit moeglich.
+§ 44 Abs. 1 SGB X greift, wenn der Bescheid **rechtswidrig** war und der Mandant deshalb zu wenig oder gar keine Leistung erhalten hat. Rueckwirkung max. vier Jahre § 44 Abs. 4 SGB X. Antragsstellung jederzeit möglich.
 
 ## Anschluss-Skills
 
-| Ergebnis | Naechster Skill |
+| Ergebnis | Nächster Skill |
 |---|---|
-| Ampel gruen oder gelb | `bescheidanalyse` |
+| Ampel grün oder gelb | `bescheidanalyse` |
 | Ampel rot | `widerspruch-formulieren` (Kurzfassung dem Grunde nach) |
-| Ampel verstrichen, Wiedereinsetzung moeglich | `widerspruch-formulieren` mit Antrag § 67 SGG |
-| Ampel verstrichen, keine Wiedereinsetzung | Pruefung § 44 SGB X (eigenstaendiger Pfad) |
+| Ampel verstrichen, Wiedereinsetzung möglich | `widerspruch-formulieren` mit Antrag § 67 SGG |
+| Ampel verstrichen, keine Wiedereinsetzung | Prüfung § 44 SGB X (eigenständiger Pfad) |
 | Eilbedarf | `eilantrag-sozialrecht` parallel |

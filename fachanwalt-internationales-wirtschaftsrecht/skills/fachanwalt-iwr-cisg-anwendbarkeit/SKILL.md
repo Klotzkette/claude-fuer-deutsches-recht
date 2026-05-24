@@ -7,7 +7,7 @@ description: "CISG-Anwendbarkeitspruefung UN-Kaufrecht. Sachlicher Anwendungsber
 
 ## Zweck
 
-Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwendbar ist.
+Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwendbar ist.
 
 ## 1) Eingangs-Abfrage
 
@@ -21,7 +21,7 @@ Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwend
 
 - **Warenkauf** zwischen Unternehmern aus verschiedenen Vertragsstaaten
 - Ausschluesse Art. 2: Konsum-Kaeufe, Versteigerung, Wertpapiere, Schiff, Luftfahrzeug
-- Art. 3: Werk-Lieferungs-Vertraege (wenn Material vom Kaeufer: kein CISG)
+- Art. 3: Werk-Lieferungs-Verträge (wenn Material vom Kaeufer: kein CISG)
 
 ## 3) Raeumlicher Anwendungsbereich
 
@@ -32,8 +32,8 @@ Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwend
 
 ### Indirekt Art. 1 Abs. 1 b) CISG
 
-- Kollisions-Recht fuehrt zu CISG-Staat
-- Beispiel: DE-Verkaeufer, NIC (nicht-Vertragsstaat)-Kaeufer; Rom I-VO fuehrt zu DE -> CISG anwendbar
+- Kollisions-Recht führt zu CISG-Staat
+- Beispiel: DE-Verkaeufer, NIC (nicht-Vertragsstaat)-Kaeufer; Rom I-VO führt zu DE -> CISG anwendbar
 
 ## 4) Ausschluss Art. 6 CISG
 
@@ -49,36 +49,36 @@ Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwend
 - Bei Verkaeufer-AGB: meist Ausschluss empfohlen (klare BGB-Anwendung)
 - Bei Kaeufer-Bestellung: CISG-Anwendung oft Vorteil
 
-## 5) Maengelpflichten Art. 35-39 CISG
+## 5) Mängelpflichten Art. 35-39 CISG
 
-### Art. 35 CISG — Vertragsgemaesse Ware
+### Art. 35 CISG — Vertragsgemäße Ware
 
 - Wesentliche Eigenschaften
 - Hinweis-Pflichten
 
 ### Untersuchungspflicht Art. 38 CISG
 
-- Kaeufer muss Ware so bald wie moeglich untersuchen
+- Kaeufer muss Ware so bald wie möglich untersuchen
 
 ### Ruegepflicht Art. 39 CISG
 
 - **Innerhalb angemessener Frist** nach Entdeckung
 - BGH-Faustregel: ca. **1 Monat** (BGH NJW 1995, 2099 / BGH NJW 1999, 1259)
 - BGH VIII ZR 159/94 BGHZ 129, 75 (Knochenmehl) zur Frist-Berechnung
-- Bei Versaeumnis: Verlust der Gewaehrleistungs-Rechte
+- Bei Versäumnis: Verlust der Gewaehrleistungs-Rechte
 
 ### Spaetestens Art. 39 II CISG
 
-- 2 Jahre ab Uebergabe der Ware
+- 2 Jahre ab Übergabe der Ware
 
-## 6) Workflow CISG-Pruefung
+## 6) Workflow CISG-Prüfung
 
 ### Schritt 1 — Parteien-Sitze
 
 - IHK-Verzeichnis CISG-Vertragsstaaten
 - Aktuelle Liste: https://uncitral.un.org
 
-### Schritt 2 — Vertragsausschluss-Pruefung
+### Schritt 2 — Vertragsausschluss-Prüfung
 
 - AGB lesen
 - Explizite Ausschluss-Klausel suchen
@@ -91,7 +91,7 @@ Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwend
 
 ### Schritt 4 — Sachverhaltsanalyse
 
-- Maengel-Stand
+- Mängel-Stand
 - Ruege-Zeitpunkt vs. Entdeckung
 - Untersuchung erfolgt?
 
@@ -99,7 +99,7 @@ Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwend
 
 | Punkt | CISG | BGB |
 |---|---|---|
-| Maengelrecht | Art. 35-44 | §§ 434 ff. |
+| Mängelrecht | Art. 35-44 | §§ 434 ff. |
 | Ruegepflicht | Pflicht, 1 Monat | nur § 377 HGB im Handelskauf |
 | Verjaehrung | 4 Jahre Art. 39 II analog | 2 Jahre § 438 |
 | Verzugszinsen | nicht geregelt -> nationales Recht | § 288 BGB |
@@ -108,7 +108,7 @@ Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwend
 ## 8) Typische Fehler
 
 1. **„Deutsches Recht" als CISG-Ausschluss missverstanden**
-2. **Ruegefrist verpasst** -> Verlust der Maengelrechte
+2. **Ruegefrist verpasst** -> Verlust der Mängelrechte
 3. **Untersuchungs-Pflicht missachtet** -> Verlust
 4. **Bei Werk-Lieferung CISG faelschlich angewendet** (Art. 3)
 
@@ -121,5 +121,5 @@ Pruefung, ob das UN-Kaufrecht (CISG) auf grenzueberschreitenden Warenkauf anwend
 ## Anschluss
 
 - `fachanwalt-iwr-brussels-ia-zustaendigkeit` — bei Forum-Frage
-- `cisg-pruefen` (Vollplugin-Skill) — vertiefte Pruefung
+- `cisg-pruefen` (Vollplugin-Skill) — vertiefte Prüfung
 - `incoterms-und-gefahruebergang` — bei Lieferungs-Risiko

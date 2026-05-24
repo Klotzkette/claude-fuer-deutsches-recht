@@ -7,7 +7,7 @@ description: Prueft externe Immobilienvertraege gegen das hauseigene Playbook de
 
 ## Leitidee
 
-Externe Verträge werden nicht freihaendig geprueft, sondern gegen ein
+Externe Verträge werden nicht freihändig geprüft, sondern gegen ein
 hauseigenes Playbook. Das Playbook ist die institutionalisierte
 Verhandlungserfahrung der Abteilung. Der Skill liefert Prüfergebnis,
 Redline-Empfehlung und Business-Memo in einem Lauf.
@@ -62,7 +62,7 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 - Mietpreisbremse §§ 556d ff. BGB bei Wohnraum
 - Kappungsgrenze § 558 Abs. 3 BGB
 - Kündigungsausschluss und Mindestlaufzeit
-- Gewährleistungsausschluss beim Grundstueckskaufvertrag und Arglist
+- Gewährleistungsausschluss beim Grundstückskaufvertrag und Arglist
 - Erschliessungskosten und Anliegerbeitraege
 - Altlasten und Baulastenverzeichnis
 - Belastung mit Grunddienstbarkeiten und Wegerechten
@@ -79,6 +79,6 @@ Redline-Empfehlung und Business-Memo in einem Lauf.
 ## Integration mit Projekten und Agenten
 
 Der Skill ist so gebaut, dass er in einem Projekt-Ordner mit fixiertem
-Playbook und Vertragstyp laeuft. Ein Agent kann auf eingehende Verträge
-auf einem Watch-Ordner reagieren und automatisch die Prüfung anstossen.
+Playbook und Vertragstyp läuft. Ein Agent kann auf eingehende Verträge
+auf einem Watch-Ordner reagieren und automatisch die Prüfung anstoßen.
 Siehe Skill `projekt-arbeitsweise`.

@@ -9,7 +9,7 @@ description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Sch
 
 1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/sozialrecht-kanzlei/CLAUDE.md` prüfen.
 2. Falls vorhanden ohne Platzhalter: bestätigen.
-3. Andernfalls Interview unten durchfuehren.
+3. Andernfalls Interview unten durchführen.
 4. Datei schreiben.
 5. Zusammenfassung anzeigen mit nächsten Skill-Empfehlungen.
 
@@ -18,14 +18,14 @@ description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Sch
 ### 1. Rolle und Kanzlei
 
 - **Rolle:** Fachanwalt für Sozialrecht / Rechtsanwalt mit sozialrechtlichem Schwerpunkt / Syndikus eines Sozialverbands / Beratungsstelle?
-- **Kanzleigroesse:** Einzelkanzlei / Sozietaet / mittelstaendisch / Verband
+- **Kanzleigroesse:** Einzelkanzlei / Sozietät / mittelstaendisch / Verband
 - **Sekretariat:** ja / nein (entscheidet ob Sekretariats-Workflows aktiv)
-- **Mandantenklientel:** Privatpersonen / Verbaende / Eingliederungstraeger / gemischt
+- **Mandantenklientel:** Privatpersonen / Verbände / Eingliederungsträger / gemischt
 
 ### 2. Schwerpunktbereiche
 
 - **SGB II** Bürgergeld (Regelbedarfe Kosten der Unterkunft Sanktionen): ja / nein
-- **SGB III** Arbeitsfoerderung Arbeitslosengeld I: ja / nein
+- **SGB III** Arbeitsförderung Arbeitslosengeld I: ja / nein
 - **SGB V** Krankenversicherung (Leistungsanträge Krankengeld): ja / nein
 - **SGB VI** Rente: ja / nein
 - **SGB VII** Unfallversicherung BG: ja / nein
@@ -50,11 +50,11 @@ description: "Kaltstart-Interview fuer die sozialrechtliche Kanzlei. Erfragt Sch
 
 ### 5. Prozesskostenhilfe
 
-- **PKH-Quote** geschaetzt im Mandantenstamm
+- **PKH-Quote** geschätzt im Mandantenstamm
 - **Vorlagen** für PKH-Antrag und ZP1a vorhanden
 - **Belege** Standardliste für Einkommens- und Vermögensnachweis
 
-### 6. Sekretariat und Aktenfuehrung
+### 6. Sekretariat und Aktenführung
 
 - **Aktenstruktur-Konvention:** Mandat-Nummer + Mandantenname + Rechtsbereich
 - **Postausgangsbuch:** digital / papier / hybrid
@@ -77,7 +77,7 @@ Profil wird geschrieben. Nächste sinnvolle Skills:
 ## Rechtlicher Rahmen
 
 - **SGG** Sozialgerichtsgesetz: § 78 Vorverfahren / § 84 Widerspruchsfrist / § 87 Klagefrist / § 86b Eilrechtsschutz
-- **SGB X** Sozialverwaltungsverfahren: §§ 41 ff. Heilung / § 25 Akteneinsicht / § 44 Ueberprüfung
+- **SGB X** Sozialverwaltungsverfahren: §§ 41 ff. Heilung / § 25 Akteneinsicht / § 44 Überprüfung
 - **BRAO** § 31a beA-Pflicht
 - **RVG** + RVG-VV für Sozialrechtsverfahren (Sondergebuehren) und PKH
 

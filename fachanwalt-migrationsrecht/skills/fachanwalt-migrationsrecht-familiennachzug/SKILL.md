@@ -7,12 +7,12 @@ description: "Familiennachzug §§ 27-36 AufenthG zum Ehegatten Kindern Eltern. 
 
 ## Zweck
 
-Visum / Aufenthaltstitel fuer Familienangehoerige eines in Deutschland lebenden Auslaenders / Deutschen.
+Visum / Aufenthaltstitel für Familienangehörige eines in Deutschland lebenden Ausländers / Deutschen.
 
 ## 1) Eingangs-Abfrage
 
-1. Wer ist der „Stamm-Inhaber" — Deutscher, EU-Buerger, Drittstaater?
-2. Welche Familienangehoerige (Ehegatte, Kinder, Eltern)?
+1. Wer ist der „Stamm-Inhaber" — Deutscher, EU-Bürger, Drittstaater?
+2. Welche Familienangehörige (Ehegatte, Kinder, Eltern)?
 3. Aufenthaltstitel des Stamm-Inhabers?
 4. Wohnraum / Einkommen Stamm-Inhaber?
 5. Sprachkenntnis Antragsteller?
@@ -35,42 +35,42 @@ Visum / Aufenthaltstitel fuer Familienangehoerige eines in Deutschland lebenden 
 
 ### Eltern-Nachzug § 36 II AufenthG
 
-- Nur bei aussergewoehnlicher Haerte
+- Nur bei außergewoehnlicher Härte
 - Sehr restriktiv
 
-### Familiennachzug zu Schutzbeduerftigen
+### Familiennachzug zu Schutzbedürftigen
 
 - Anerkannte Fluechtlinge: vereinfachter Nachzug § 36a AufenthG
-- Subsidiaer Schutzbeduerftige: § 36a AufenthG, monatliches Kontingent 1.000
+- Subsidiaer Schutzbedürftige: § 36a AufenthG, monatliches Kontingent 1.000
 - Bei Volljaehrigkeit Kind nach Anerkennung Eltern: § 36 I AufenthG
 
 ## 3) Voraussetzungen Lebensunterhaltssicherung § 5 I Nr. 1 AufenthG
 
 ### Standard
 
-- Netto-Einkommen Stamm-Inhaber muss reichen fuer:
+- Netto-Einkommen Stamm-Inhaber muss reichen für:
   - Eigenen Lebensunterhalt
   - Lebensunterhalt aller mitnachziehenden
 - Mietkosten + Sozialhilfe-Bedarfssatz als Maßstab
 
 ### Ausnahmen
 
-- Schutzbeduerftige im Erstjahr
-- Familienzusammenfuehrung mit deutschen Staatsangehoerigen § 28 AufenthG (geringere Anforderungen)
+- Schutzbedürftige im Erstjahr
+- Familienzusammenführung mit deutschen Staatsangehörigen § 28 AufenthG (geringere Anforderungen)
 
 ## 4) Sprachkenntnis A1
 
 ### Pflicht
 
 - Bei Ehegatten-Nachzug
-- Pruefung Goethe / TELC / OESD
+- Prüfung Goethe / TELC / OESD
 - Vor Visum-Antrag
 
 ### Ausnahmen
 
-- Schutzbeduerftige
+- Schutzbedürftige
 - Behinderung
-- EU-Buerger-Familienangehoerige
+- EU-Bürger-Familienangehörige
 - Klage gegen schwer erfuellbare Anforderung (EGMR-Linie)
 
 ## 5) Visum-Verfahren
@@ -84,12 +84,12 @@ Visum / Aufenthaltstitel fuer Familienangehoerige eines in Deutschland lebenden 
 ### Beschleunigtes Verfahren § 81a AufenthG
 
 - Antrag durch AG / Familie in Deutschland
-- Auslaenderbehoerde stimmt vorab zu
+- Ausländerbehoerde stimmt vorab zu
 - Visum-Erteilung beschleunigt
 
 ### Visum-Ablehnung
 
-- **Klage VG Berlin** (zustaendiges Gericht bei Visum)
+- **Klage VG Berlin** (zuständiges Gericht bei Visum)
 - Eilantrag § 123 VwGO
 
 ## 6) Workflow
@@ -104,12 +104,12 @@ Visum / Aufenthaltstitel fuer Familienangehoerige eines in Deutschland lebenden 
 
 - Botschaft im Heimatland
 - Begleitung durch Anwalt empfohlen
-- Bei Schwellen-Land: Vorabzustimmung Auslaenderbehoerde
+- Bei Schwellen-Land: Vorabzustimmung Ausländerbehoerde
 
 ### Phase 3 — Visum erteilt
 
 - Einreise innerhalb der Frist
-- Bei Auslaenderbehoerde Aufenthaltstitel beantragen
+- Bei Ausländerbehoerde Aufenthaltstitel beantragen
 - Aufenthaltstitel zum gleichen Zweck § 28 / 30 / 32 AufenthG
 
 ### Phase 4 — Bei Ablehnung
@@ -122,28 +122,28 @@ Visum / Aufenthaltstitel fuer Familienangehoerige eines in Deutschland lebenden 
 ### Familienleben
 
 - Verfassungsrechtlicher Schutz
-- Pruefung Verhaeltnismaessigkeit Ablehnung
+- Prüfung Verhältnismaessigkeit Ablehnung
 
 ### Kindeswohl
 
-- Bei Kindern besondere Pruefung
-- EGMR-Linie zur Familienzusammenfuehrung
+- Bei Kindern besondere Prüfung
+- EGMR-Linie zur Familienzusammenführung
 
 ## 8) Typische Fehler
 
-1. **A1-Sprachkenntnis unvollstaendig nachgewiesen**
+1. **A1-Sprachkenntnis unvollständig nachgewiesen**
 2. **Lebensunterhalts-Kalkulation falsch**
 3. **Termin Botschaft zu spaet** — Wartezeit unterschaetzt
-4. **Vorabzustimmung Auslaenderbehoerde versaeumt** bei beschleunigtem Verfahren
-5. **Klage-Frist 1 Monat versaeumt**
+4. **Vorabzustimmung Ausländerbehoerde versäumt** bei beschleunigtem Verfahren
+5. **Klage-Frist 1 Monat versäumt**
 
-## 9) Familiennachzug zu deutschen Staatsangehoerigen § 28 AufenthG
+## 9) Familiennachzug zu deutschen Staatsangehörigen § 28 AufenthG
 
 ### Vereinfacht
 
 - Keine Lebensunterhalts-Pflicht
 - Sprachkenntnis erforderlich (mit Ausnahmen)
-- Standard-Weg fuer deutsch-auslaendische Ehepaare
+- Standard-Weg für deutsch-ausländische Ehepaare
 
 ## 10) BVerwG-/EuGH-Linien
 
@@ -154,5 +154,5 @@ Visum / Aufenthaltstitel fuer Familienangehoerige eines in Deutschland lebenden 
 ## Anschluss
 
 - `fachanwalt-migrationsrecht-orientierung` — Triage
-- `aufenthaltstitel-pruefung` (Power-Tool) — Pruefraster
+- `aufenthaltstitel-pruefung` (Power-Tool) — Prüfraster
 - `fachanwalt-migrationsrecht-einbuergerung` — bei Staatsangehoerigkeit

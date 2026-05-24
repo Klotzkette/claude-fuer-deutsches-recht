@@ -5,13 +5,13 @@ description: "Synopse als Tabelle mit drei Spalten bisheriges Recht neues Recht 
 
 # Synopse erstellen
 
-> Drei Spalten: vorher, nachher, Aenderungsbefehl. Hilft Allen.
+> Drei Spalten: vorher, nachher, Änderungsbefehl. Hilft Allen.
 
 ## Aufbau einer Synopse
 
 ### Tabelle (Format Markdown / DOCX / PDF Landscape)
 
-| Bisheriges Recht | Neues Recht | Aenderungsbefehl |
+| Bisheriges Recht | Neues Recht | Änderungsbefehl |
 |---|---|---|
 | Paragraf 33 HGB (alte Fassung) Wortlaut ... | Paragraf 33 HGB (neue Fassung) Wortlaut ... | Paragraf 33 wird wie folgt gefasst ... |
 
@@ -23,17 +23,17 @@ description: "Synopse als Tabelle mit drei Spalten bisheriges Recht neues Recht 
 
 ### Spaltenbreite
 
-DOCX: ca. 33 Prozent / 33 Prozent / 34 Prozent. Bei langen Saetzen A3 Landscape oder DIN A4 mit kleiner Schrift.
+DOCX: ca. 33 Prozent / 33 Prozent / 34 Prozent. Bei langen Sätzen A3 Landscape oder DIN A4 mit kleiner Schrift.
 
-## Kennzeichnung von Aenderungen
+## Kennzeichnung von Änderungen
 
-- Eingefuegte Worte: **fett** oder Doppelunterstreichung
+- Eingefügte Worte: **fett** oder Doppelunterstreichung
 - Gestrichene Worte: ~~Durchstreichung~~ oder kursiv mit Hinweis "entfaellt"
 - Bei voelliger Neufassung: Spalte "Bisheriges Recht" "Aufgehoben (alte Fassung in Anlage)"
 
 ## Lesefassung in separater Datei
 
-Synopse ist gut fuer den Vergleich. Eine **Lesefassung** zeigt die geaenderte Norm in einer einheitlich gelesenen Fassung.
+Synopse ist gut für den Vergleich. Eine **Lesefassung** zeigt die geänderte Norm in einer einheitlich gelesenen Fassung.
 
 Beispiel "Lesefassung_HGB_Paragraf_33.md" - das ist der Paragraf, wie er nach Inkrafttreten lautet.
 

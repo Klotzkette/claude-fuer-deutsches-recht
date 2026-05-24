@@ -62,7 +62,7 @@ Bei Formverstoß (§ 125 BGB: Formmangel → Nichtigkeit): Heilung durch Vollzie
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Textform-Vertrag mit einstufiger Anteilsabtretung | Formnichtigkeit § 125 BGB | Konstruktion unklar | Zweistufige Konstruktion |
 | Kapitalerhöhung ohne Notar | HR-Eintragung unmöglich | Notar noch nicht beauftragt | Notar beauftragt |

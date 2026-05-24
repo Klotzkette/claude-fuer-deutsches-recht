@@ -7,7 +7,7 @@ description: "Bieterprozess-Simulation: Simuliert einen beschleunigten achtstuen
 
 ## Zweck
 
-Simuliert einen beschleunigten achtstuendigen Seller-side oder Buy-side M&A-Tag mit Datenraum, Q&A, Markup, CPs und Board Call.
+Simuliert einen beschleunigten achtstündigen Seller-side oder Buy-side M&A-Tag mit Datenraum, Q&A, Markup, CPs und Board Call.
 
 ## Arbeitsmodus
 

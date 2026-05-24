@@ -32,7 +32,7 @@ Der Anspruch auf Berichtigung eines inhaltlich falschen oder unvollständigen Ze
 
 **Beispiel 3 – Verwirkung:** Ein Arbeitnehmer nimmt ein Zeugnis mit Note 4 entgegen und beanstandet es erst vier Jahre später. Das Gericht kann Verwirkung des Berichtigungsanspruchs annehmen, wenn ein Vertrauenstatbestand entstanden ist.
 
-**Beispiel 4 – Geheimcode als Wahrheitspflicht-Verstoß:** Ein Zeugnis enthält „Wir wünschen ihm alles Gute" ohne Bedauern und ohne Dank. Der Arbeitnehmer war nachweislich beliebt und leistungsstark. Das Weglassen des Bedauerns ist ein Wahrheitspflicht-naher Tatbestand, der eine Berichtigung begründen kann.
+**Beispiel 4 – Geheimcode als Wahrheitspflicht-Verstoß:** Ein Zeugnis enthält „Wir wünschen ihm alles Gute" ohne Bedauern und ohne Dank. Der Arbeitnehmer war nachweislich beliebt und leistungsstark. Das Weglassen des Bedauerns ist ein Wahrheitspflicht-näher Tatbestand, der eine Berichtigung begründen kann.
 
 **Beispiel 5 – Auskunftspflicht des Arbeitgebers:** In manchen Fällen kann der Arbeitnehmer verlangen, dass der Arbeitgeber erklärt, warum bestimmte Formulierungen gewählt wurden. Das setzt voraus, dass der Arbeitnehmer eine plausible Berichtigung konkret benannt hat.
 

@@ -113,7 +113,7 @@ Behandelt wettbewerbsrechtliche Aspekte im Energie-Bereich: Marktbeherrschung, B
 - Notifizierung EU-Kommission
 - AGVO 651/2014 als Vereinfachung
 - De-minimis-VO
-- Bei Verstoss Rückforderung mit Zinsen
+- Bei Verstoß Rückforderung mit Zinsen
 
 ### EU-Kommissions-Linien
 
@@ -164,7 +164,7 @@ Behandelt wettbewerbsrechtliche Aspekte im Energie-Bereich: Marktbeherrschung, B
 - Aktuelle Verlängerung bis 2030 (mit Anpassungen)
 - Ressourcen-/Substitut-Kompensation reduziert
 
-### Bei Verstoss
+### Bei Verstoß
 
 - Rückforderung mit Zinsen
 - Bei systematischer Verletzung EU-Verfahren

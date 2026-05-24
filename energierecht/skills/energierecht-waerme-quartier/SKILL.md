@@ -161,7 +161,7 @@ Behandelt kommunale Wärmeplanung, Fernwärmeverträge, Mieterstrom, BEW-Förder
 
 - Bewilligung verweigert
 - Klage VG Köln (KfW-Sitz) oder VG Frankfurt am Main
-- Widerruf rückwirkend bei Verstoss
+- Widerruf rückwirkend bei Verstoß
 
 ## Schritt 6 — GEG Reform 01.01.2024
 
@@ -180,7 +180,7 @@ d) Biomasse-Heizung (mit Pflichten)
 e) Solarthermie-Hybrid
 f) Wasserstoff-Heizung (eingeschränkt)
 
-### Beratungsgespraech § 71 GEG
+### Beratungsgespräch § 71 GEG
 
 - Vor Heizungs-Tausch
 - Energieberater oder ähnlich

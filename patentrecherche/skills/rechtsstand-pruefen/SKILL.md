@@ -108,4 +108,4 @@ Tabelle mit Spalten: Veröff.-Nr., Status, Schutzdauer-Ende, Jahresgebühren bis
 
 ## Disclaimer
 
-> **Hinweis zum Rechtsstand.** Diese Rechtsstandsprüfung beruht auf dem Datum des Abrufs (im Output explizit dokumentiert). Der Rechtsstand kann sich taeglich ändern — Jahresgebuehren, Einspruchsverfahren, Nichtigkeitsverfahren, Anmelderwechsel. Bei zeitkritischen Entscheidungen ist eine aktuelle Direktabfrage im nationalen Register zwingend. Die Daten der Register können Verzoegerungen von einigen Tagen bis Wochen aufweisen.
+> **Hinweis zum Rechtsstand.** Diese Rechtsstandsprüfung beruht auf dem Datum des Abrufs (im Output explizit dokumentiert). Der Rechtsstand kann sich täglich ändern — Jahresgebuehren, Einspruchsverfahren, Nichtigkeitsverfahren, Anmelderwechsel. Bei zeitkritischen Entscheidungen ist eine aktuelle Direktabfrage im nationalen Register zwingend. Die Daten der Register können Verzoegerungen von einigen Tagen bis Wochen aufweisen.

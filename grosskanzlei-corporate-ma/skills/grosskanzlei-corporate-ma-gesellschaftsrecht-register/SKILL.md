@@ -7,7 +7,7 @@ description: "Corporate Housekeeping und Register: Prüft HRB/HRA, Gesellschafte
 
 ## Zweck
 
-Prüft HRB/HRA, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten, Organstellung, Transparenzregister und Corporate Approvals.
+Prüft HRB/HRA, Gesellschafterlisten, Satzungen, Beschlüsse, Vollmachten, Organstellung, Transparenzregister und Corporate Approvals.
 
 ## Arbeitsmodus
 

@@ -49,7 +49,7 @@ Pro Akte: Wiedervorlagedatum erfassen — z. B. bei ruhenden Mandaten ein Drei-M
 Skript prüft alle drei Monate:
 
 - Welche Mandate sind seit mehr als sechs Monaten in Status `ruhend`?
-- Liste an zuständigen Anwalt — Klaerung ob Mandat weiter offen ist abgeschlossen werden kann oder vergessen wurde.
+- Liste an zuständigen Anwalt — Klärung ob Mandat weiter offen ist abgeschlossen werden kann oder vergessen wurde.
 
 ## Datenschutz und Löschung
 
@@ -87,5 +87,5 @@ Skript prüft alle drei Monate:
 
 - Aktualisierter Aktenbestand.
 - Monatlicher und jaehrlicher Report.
-- Liste lang ruhender Mandate zur Klaerung.
+- Liste lang ruhender Mandate zur Klärung.
 - Wiedervorlagen-Einträge im Tagesbrief.

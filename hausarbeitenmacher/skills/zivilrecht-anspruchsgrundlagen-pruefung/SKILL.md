@@ -179,7 +179,7 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 #### Schema
 
 1. Schutzgesetz (Norm mit Schutz-Funktion)
-2. Verstoss gegen Schutzgesetz
+2. Verstoß gegen Schutzgesetz
 3. Kausalität
 4. Verschulden
 5. Schaden

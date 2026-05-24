@@ -29,7 +29,7 @@ Die Rüge ist die Pflicht-Voraussetzung jedes Vergabe-Nachprüfungs-Antrags. Ohn
 - Frist: vor Ablauf der Angebots-Abgabe (§ 160 Abs. 3 Satz 1 Nr. 3 GWB)
 - Beispiele: Wertungsschema unklar Sicherheitsleistung überzogen Vertragsklauseln zu Lasten Bieter
 
-### Konstellation 3 — Anderweitiger Vergabeverstoss
+### Konstellation 3 — Anderweitiger Vergabeverstoß
 
 - Frist: unverzüglich nach Kenntnisnahme (§ 160 Abs. 3 Satz 1 Nr. 1 GWB)
 - Beispiele: Falscher Wertungsschritt Bewertungsfehler Submission-Manipulation
@@ -61,17 +61,17 @@ Die Rüge ist die Pflicht-Voraussetzung jedes Vergabe-Nachprüfungs-Antrags. Ohn
 - Knapp und präzise
 - Bekanntmachung-Datum, eigene Beteiligung, Stand des Verfahrens
 
-### Vergabeverstoss
+### Vergabeverstoß
 
 - **Konkrete Norm** benennen (VgV / VOB/A-EU / SektVO / GWB)
-- **Konkreter Verstoss-Sachverhalt** beschreiben
+- **Konkreter Verstoß-Sachverhalt** beschreiben
 - **Beweis-Bezug** wenn möglich
 
 ### Antrag
 
 - Abhilfe (konkrete Bezeichnung was zu tun)
 - Hilfsweise: Aufhebung des Verfahrens
-- Bei besonders schwerem Verstoss: Wiederaufnahme von Zwischen-Schritten
+- Bei besonders schwerem Verstoß: Wiederaufnahme von Zwischen-Schritten
 
 ### Hinweis Frist
 
@@ -140,7 +140,7 @@ Pruefung und ggf. Ausschluss des Bieters.
 ### Nichtabhilfe-Mitteilung erkennen
 
 - Klare schriftliche Ablehnung
-- Schweigen ueber Wochen kann als Nichtabhilfe gewertet werden
+- Schweigen über Wochen kann als Nichtabhilfe gewertet werden
 - Bei mehrdeutiger Antwort Nachfrage
 
 ### Frist fünfzehn Kalendertage
@@ -169,7 +169,7 @@ Pruefung und ggf. Ausschluss des Bieters.
 
 ### Praktische Empfehlung
 
-- Immer dann rügen wenn ernsthafter Verstoss
+- Immer dann rügen wenn ernsthafter Verstoß
 - Nicht jeden minor Aspekt rügen
 - Klare Sprache wirtschaftliche Argumentation
 
@@ -198,9 +198,9 @@ Pruefung und ggf. Ausschluss des Bieters.
 ## Ausgabe
 
 - `ruege-{az}.md` mit Beispiels-Mustern
-- Konkreter Schriftsatz fuer den Einzelfall
-- Frist im Fristenbuch (fuenfzehn Kalendertage)
-- Bei Nicht-Abhilfe Nachpruefungs-Antrag-Vorbereitung
+- Konkreter Schriftsatz für den Einzelfall
+- Frist im Fristenbuch (fünfzehn Kalendertage)
+- Bei Nicht-Abhilfe Nachprüfungs-Antrag-Vorbereitung
 
 ## Quellen
 

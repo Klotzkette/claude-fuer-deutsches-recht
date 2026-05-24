@@ -3,7 +3,7 @@ name: jveg-uebernachtung-aufwand
 description: "Prüft Tagegeld, notwendige Übernachtung, BRKG-Anknüpfung, Belege und gerichtliche Obergrenzen."
 ---
 
-# JVEG Uebernachtung Aufwand
+# JVEG Übernachtung Aufwand
 
 ## Aufgabe
 

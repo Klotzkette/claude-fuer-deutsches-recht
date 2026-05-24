@@ -10,13 +10,13 @@ description: Erstellt einen Akteneinsichtsantrag nach § 25 SGB X (Verwaltungsve
 - **§ 25 SGB X** — Akteneinsicht im Verwaltungsverfahren. Anspruch der Beteiligten in die das Verfahren betreffenden Akten.
 - **§ 120 SGG** — Akteneinsicht im gerichtlichen Verfahren.
 - **Art. 15 DSGVO** — Auskunftsrecht in eigene personenbezogene Daten (ergänzend).
-- **§ 83 SGB X** — Auskunft des Sozialleistungstraegers an Betroffene.
+- **§ 83 SGB X** — Auskunft des Sozialleistungsträgers an Betroffene.
 
 ## Antragsschritte
 
 ### Vor dem Bescheid (während Verfahren)
 
-- § 25 SGB X: bei laufendem Verwaltungsverfahren. Akteneinsicht in die das Verfahren betreffenden Akten am Ort der Aktenfuehrung oder über Abschriften.
+- § 25 SGB X: bei laufendem Verwaltungsverfahren. Akteneinsicht in die das Verfahren betreffenden Akten am Ort der Aktenführung oder über Abschriften.
 - Bei medizinischen Gutachten in der Akte: ergänzender Anspruch aus § 25 SGB X auf vollständige Einsicht.
 
 ### Nach Widerspruch (im Vorverfahren)
@@ -50,9 +50,9 @@ Versand der Akte digital über beA-Nachricht oder als Kopie an die Kanzleianschr
 
 ## Verweigerung oder Schwaerzung
 
-- **Schutzwuerdige Belange Dritter** (§ 25 Abs. 3 SGB X) — Behörde kann teilweise Akteneinsicht verweigern. Vertrauliche Behandlung von Drittinteressen.
+- **Schutzwürdige Belange Dritter** (§ 25 Abs. 3 SGB X) — Behörde kann teilweise Akteneinsicht verweigern. Vertrauliche Behandlung von Drittinteressen.
 - **Geheimnisse von Privatpersonen** (§ 25 Abs. 2 SGB X) — soweit erforderlich Schwaerzung.
-- **Reaktion** bei umfangreicher Schwaerzung: Anforderung einer Begründung; ggf. Verfahren über § 86b SGG bei Eilbeduerftigkeit.
+- **Reaktion** bei umfangreicher Schwaerzung: Anforderung einer Begründung; ggf. Verfahren über § 86b SGG bei Eilbedürftigkeit.
 
 ## Frist
 

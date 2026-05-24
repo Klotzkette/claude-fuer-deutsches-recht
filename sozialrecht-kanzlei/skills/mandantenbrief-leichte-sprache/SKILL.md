@@ -5,30 +5,30 @@ description: "Erklaerung eines sozialrechtlichen Bescheids fuer den Mandanten in
 
 # Mandantenbrief in Einfacher oder Leichter Sprache
 
-Mandanten verstehen Bescheide nicht — und nicht selten auch Anwaltspost nicht. Dieser Skill produziert einen Brief, den die Mandantin am Kuechentisch lesen und verstehen kann.
+Mandanten verstehen Bescheide nicht — und nicht selten auch Anwaltspost nicht. Dieser Skill produziert einen Brief, den die Mandantin am Küchentisch lesen und verstehen kann.
 
 ## Eingabe
 
 - Bescheid oder Widerspruchsbescheid
-- Mandantenprofil (Lesekompetenz, Bildungshintergrund, kognitive Faehigkeit)
+- Mandantenprofil (Lesekompetenz, Bildungshintergrund, kognitive Fähigkeit)
 - Stand des Verfahrens
-- Was muss die Mandantin in den naechsten Tagen tun?
+- Was muss die Mandantin in den nächsten Tagen tun?
 
 ## Drei Sprachstufen
 
 | Stufe | Zielgruppe | Wesentliche Regeln |
 |---|---|---|
-| **Standard B1** | Erwachsene mit normaler Lesekompetenz | Kurze Saetze, keine Klauseln, deutsche Begriffe statt Latein, juristische Begriffe einmal erklaeren |
-| **Einfache Sprache A2** | Geringe Lesekompetenz, Senioren, Migrationshintergrund | Hauptsaetze, max. 15 Woerter pro Satz, keine Nebensaetze, keine Fremdwoerter, aktive Form |
-| **Leichte Sprache** | Kognitive Beeintraechtigung, Lernbehinderung | DIN SPEC 33429 / Netzwerk Leichte Sprache: ein Gedanke pro Satz, max. 8 Woerter, Bindestrich-Trennung langer Woerter, keine Konjunktive, keine Verneinungen wenn moeglich |
+| **Standard B1** | Erwachsene mit normaler Lesekompetenz | Kurze Sätze, keine Klauseln, deutsche Begriffe statt Latein, juristische Begriffe einmal erklären |
+| **Einfache Sprache A2** | Geringe Lesekompetenz, Senioren, Migrationshintergrund | Hauptsätze, max. 15 Woerter pro Satz, keine Nebensätze, keine Fremdwoerter, aktive Form |
+| **Leichte Sprache** | Kognitive Beeintraechtigung, Lernbehinderung | DIN SPEC 33429 / Netzwerk Leichte Sprache: ein Gedanke pro Satz, max. 8 Woerter, Bindestrich-Trennung langer Woerter, keine Konjunktive, keine Verneinungen wenn möglich |
 
 ## Pflichtelemente jedes Briefs
 
-1. **Anrede persoenlich** (Frau / Herr, keine Floskeln)
+1. **Anrede persönlich** (Frau / Herr, keine Floskeln)
 2. **Tenor in einem Satz** („Die Krankenkasse hat Ihren Antrag abgelehnt.")
-3. **Begruendung in maximal drei Saetzen**
+3. **Begründung in maximal drei Sätzen**
 4. **Konkrete Frist als Datum** (nicht „innerhalb eines Monats", sondern „bis Mittwoch, dem 15. Juli 2026")
-5. **Konkrete naechste Handlung** („Bitte unterschreiben Sie das beigelegte Formular und bringen es bis [Datum] in unser Buero.")
+5. **Konkrete nächste Handlung** („Bitte unterschreiben Sie das beigelegte Formular und bringen es bis [Datum] in unser Buero.")
 6. **Telefonzeit der Anwaltskanzlei**
 7. **Hinweis auf Eilbedarf falls vorhanden**
 
@@ -126,20 +126,20 @@ Liebe Gruesse
 
 ## Pruefregeln
 
-Bevor du den Brief abgibst, pruefe:
+Bevor du den Brief abgibst, prüfe:
 
 - [ ] Frist als **konkretes Datum**, nicht als Zeitraum
 - [ ] Maximal eine Information pro Absatz
 - [ ] Mandantin weiss am Ende **genau eine Sache zu tun**, nicht drei verschiedene
 - [ ] Telefonzeit benannt
-- [ ] Kein juristischer Fremdbegriff ohne Erklaerung
+- [ ] Kein juristischer Fremdbegriff ohne Erklärung
 - [ ] Bei Leichter Sprache — Schriftgroesse mind. 14 Punkt, Arial oder Verdana, einzeilig
 
 ## Anwendungsbeispiel — Familie Tannenberg
 
-Olaf Tannenberg ist Diplom-Ingenieur, Standardbrief reicht. Seine Mutter Margarete Tannenberg ist 84, Stand frueh dementiell — Einfache Sprache. Lena Tannenberg (16) ist Autistin im Asperger-Spektrum — Leichte Sprache fuer den Brief direkt an sie, Standardbrief fuer ihre Eltern.
+Olaf Tannenberg ist Diplom-Ingenieur, Standardbrief reicht. Seine Mutter Margarete Tannenberg ist 84, Stand früh dementiell — Einfache Sprache. Lena Tannenberg (16) ist Autistin im Asperger-Spektrum — Leichte Sprache für den Brief direkt an sie, Standardbrief für ihre Eltern.
 
 ## Anschluss-Skills
 
-- `widerspruch-formulieren` (parallel — der Anwalts-Schriftsatz an die Behoerde)
+- `widerspruch-formulieren` (parallel — der Anwalts-Schriftsatz an die Behörde)
 - `anlagen-erstellen` (was muss die Mandantin mitbringen)

@@ -3,30 +3,30 @@ name: fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf
 description: "Lebensversicherung Rueckkauf-Recht § 169 VVG Rueckkaufswert Mindestbetrag Stornogebuehr-Verbot BGH IV ZR 73/13. Widerruf langer Frist bei fehlerhafter Belehrung Endlos-Widerrufs-Joker. Bewertungs-Reserve. Workflow Pruefung Vertragsauswertung Rueckforderung."
 ---
 
-# Lebensversicherung Rueckkauf
+# Lebensversicherung Rückkauf
 
 ## Zweck
 
-Mandate bei Streit ueber Rueckkaufswerte / Widerruf Lebensversicherung.
+Mandate bei Streit über Rückkaufswerte / Widerruf Lebensversicherung.
 
-## 1) Rueckkauf § 169 VVG
+## 1) Rückkauf § 169 VVG
 
 ### Voraussetzungen
 
-- Vertrag laeuft mindestens 1 Versicherungs-Jahr
+- Vertrag läuft mindestens 1 Versicherungs-Jahr
 - Versicherungs-Pflichtbeitrag erbracht
-- Rueckkauf-Antrag
+- Rückkauf-Antrag
 
-### Rueckkaufswert
+### Rückkaufswert
 
-- Zeitwert (Aktiv-Vermoegen abzueglich noetiger Reserven)
+- Zeitwert (Aktiv-Vermögen abzueglich noetiger Reserven)
 - Mindestbetrag § 169 III VVG (1/3 der gezahlten Praemien)
 - Anteil an Bewertungsreserven
 
 ### Stornogebuehr
 
 - BGH, Urt. v. 25.7.2012 — IV ZR 201/10: Stornogebuehr unwirksam, soweit unzulaessig hoch
-- Bei alten Vertraegen oft Rueckforderung moeglich
+- Bei alten Verträgen oft Rückforderung möglich
 
 ## 2) Widerrufs-Joker
 
@@ -34,7 +34,7 @@ Mandate bei Streit ueber Rueckkaufswerte / Widerruf Lebensversicherung.
 
 - Fehlerhafte Widerrufsbelehrung in Versicherung
 - BGH IV ZR 73/13: Endlos-Widerrufs-Joker bei Lebensversicherung
-- Bei BGH-Bestaetigung: Vertrag kann auch nach Jahren widerrufen werden
+- Bei BGH-Bestätigung: Vertrag kann auch nach Jahren widerrufen werden
 
 ### Voraussetzung
 
@@ -44,7 +44,7 @@ Mandate bei Streit ueber Rueckkaufswerte / Widerruf Lebensversicherung.
 
 ### Folge
 
-- Rueckabwicklung: alle gezahlten Praemien plus Zinsen abzueglich Nutzungs-Vorteile
+- Rückabwicklung: alle gezahlten Praemien plus Zinsen abzueglich Nutzungs-Vorteile
 - Auch bei Ablauf
 
 ## 3) Bewertungs-Reserve
@@ -55,24 +55,24 @@ Mandate bei Streit ueber Rueckkaufswerte / Widerruf Lebensversicherung.
 
 ### Streit-Punkte
 
-- Hoehe der Reserve
+- Höhe der Reserve
 - Berechnungs-Methode
-- Verteilungs-Schluessel
+- Verteilungs-Schlüssel
 
 ## 4) Workflow
 
-### Phase 1 — Vertrag pruefen
+### Phase 1 — Vertrag prüfen
 
 - Vertragsbeginn (vor / nach 1.1.2008 — VVG-Reform)
 - Belehrungs-Text
-- Bisherige Praemien-Hoehe
+- Bisherige Praemien-Höhe
 
 ### Phase 2 — Berechnung
 
-- Rueckkaufs-Modell
+- Rückkaufs-Modell
 - Vergleich Auszahlungs-Angebot vs. Rechtsanspruch
 
-### Phase 3 — Widerrufs-Pruefung
+### Phase 3 — Widerrufs-Prüfung
 
 - Belehrung gegen BGH-Linie
 - Bei Mangel: Widerrufs-Schreiben
@@ -87,7 +87,7 @@ Mandate bei Streit ueber Rueckkaufswerte / Widerruf Lebensversicherung.
 - Streitwert: Differenz Auszahlung Angebot vs. Rechtsanspruch
 - Spezialist-Anwalt empfohlen
 
-## 5) Aktualitaet — BGH-Linien
+## 5) Aktualität — BGH-Linien
 
 - BGH, Urt. v. 7.5.2014 — IV ZR 73/13 (Widerrufs-Joker)
 - BGH, Urt. v. 25.7.2012 — IV ZR 201/10 (Stornogebuehr)
@@ -97,18 +97,18 @@ Mandate bei Streit ueber Rueckkaufswerte / Widerruf Lebensversicherung.
 
 - Beratung pauschal 500-1.500 EUR
 - Klage nach Streitwert
-- Rechtsschutz-Versicherung typisch zuschussfaehig
+- Rechtsschutz-Versicherung typisch zuschussfähig
 
 ## 7) Typische Fehler
 
-1. **Auszahlungs-Angebot ohne Pruefung akzeptiert**
-2. **Widerrufs-Recht-Pruefung versaeumt**
-3. **Stornogebuehr-Hoehe nicht angefochten**
+1. **Auszahlungs-Angebot ohne Prüfung akzeptiert**
+2. **Widerrufs-Recht-Prüfung versäumt**
+3. **Stornogebuehr-Höhe nicht angefochten**
 4. **Bewertungs-Reserven-Anteil ignoriert**
-5. **Verjaehrung 3 Jahre** ueberschritten
+5. **Verjaehrung 3 Jahre** überschritten
 
 ## Anschluss
 
 - `fachanwalt-versicherungsrecht-do-deckungsabwehr` — bei D&O-Streit
 - `fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage` — bei BU
-- `deckungsanfrage-pruefen` — Pruefraster
+- `deckungsanfrage-pruefen` — Prüfraster

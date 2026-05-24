@@ -5,7 +5,7 @@ description: "Prueft ob ein Produkt aus dem Ausland datenschutzrechtswidrig im S
 
 # DSGVO-rechtswidriges Produkt
 
-Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rueckabwicklung will.
+Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rückabwicklung will.
 
 ## Pruefstationen
 
@@ -13,11 +13,11 @@ Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtsw
 
 - Art. 3 Abs. 1 DSGVO: Niederlassungsprinzip
 - Art. 3 Abs. 2 DSGVO: Marktortprinzip - Anbieten von Waren oder Dienstleistungen an Personen in der Union ODER Verhaltensbeobachtung in der Union
-- DSGVO ist Eingriffsnorm im Sinne Art. 9 Rom-I (deutsche Gerichte wenden sie auch dann an, wenn das Vertragsstatut auslaendisch ist)
+- DSGVO ist Eingriffsnorm im Sinne Art. 9 Rom-I (deutsche Gerichte wenden sie auch dann an, wenn das Vertragsstatut ausländisch ist)
 
-### B - Verstoesse pruefen
+### B - Verstöße prüfen
 
-1. **Art. 5 Abs. 1 DSGVO** - Grundsaetze (Rechtmaessigkeit, Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integritaet, Rechenschaftspflicht)
+1. **Art. 5 Abs. 1 DSGVO** - Grundsätze (Rechtmäßigkeit, Treu und Glauben, Transparenz, Zweckbindung, Datenminimierung, Richtigkeit, Speicherbegrenzung, Integritaet, Rechenschaftspflicht)
 2. **Art. 6 DSGVO** - Rechtsgrundlage
 3. **Art. 7 DSGVO** - Einwilligung (informiert, freiwillig, widerrufbar)
 4. **Art. 9 DSGVO** - besondere Kategorien (Gesundheits-, biometrische Daten)
@@ -25,21 +25,21 @@ Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtsw
 6. **Art. 22 DSGVO** - automatisierte Entscheidung im Einzelfall
 7. **Art. 25 DSGVO** - privacy by design und by default
 8. **Art. 32 DSGVO** - Sicherheit der Verarbeitung
-9. **Art. 44 ff DSGVO** - Datenuebermittlung in Drittlaender
+9. **Art. 44 ff DSGVO** - Datenübermittlung in Drittlaender
 
-### C - Folgen fuer den Privatrechtsstreit
+### C - Folgen für den Privatrechtsstreit
 
-- Verstoss gegen ein Verbotsgesetz (Art. 6 DSGVO i. V. m. nationaler Norm)? -> Nichtigkeit nach Paragraf 134 BGB?
+- Verstoß gegen ein Verbotsgesetz (Art. 6 DSGVO i. V. m. nationaler Norm)? -> Nichtigkeit nach Paragraf 134 BGB?
 - Sachmangel im Sinne Paragraf 434 BGB i. V. m. Art. 6 ProduktsicherheitsVO 2023?
 - Mangel im Sinne Art. 35 CISG (Vertragsmaessigkeit)?
 
-## Smartglasses und Wearables - typische Verstoesse
+## Smartglasses und Wearables - typische Verstöße
 
-- heimliche Aufzeichnung Dritter ohne deren Wissen (Verletzung Persoenlichkeitsrecht aller in der Umgebung)
+- heimliche Aufzeichnung Dritter ohne deren Wissen (Verletzung Persönlichkeitsrecht aller in der Umgebung)
 - Live-Streaming der Kameraperspektive ohne Hinweis-LED
 - Gesichtserkennung in Echtzeit
-- Datenuebertragung in Drittlaender ohne SCC oder anderen Mechanismus
+- Datenübertragung in Drittlaender ohne SCC oder anderen Mechanismus
 
 ## Im Urteil
 
-Im Tatbestand auf das Gutachten verweisen. In den Entscheidungsgruenden konkret die verletzten DSGVO-Artikel benennen und subsumieren.
+Im Tatbestand auf das Gutachten verweisen. In den Entscheidungsgründen konkret die verletzten DSGVO-Artikel benennen und subsumieren.

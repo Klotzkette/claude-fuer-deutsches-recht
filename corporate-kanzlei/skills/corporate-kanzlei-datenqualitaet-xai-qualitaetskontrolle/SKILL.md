@@ -7,7 +7,7 @@ description: "Datenqualität und XAI-Qualitätskontrolle: Sichert KI-gestuetzte 
 
 ## Zweck
 
-Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab.
+Sichert KI-gestützte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab.
 
 ## Arbeitsmodus
 
@@ -20,7 +20,7 @@ Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme u
 
 - Keine Belegkette.
 - Nicht erklärbares Ergebnis bei hohem Risiko.
-- Bias oder Datenluecke wird nicht benannt.
+- Bias oder Datenlücke wird nicht benannt.
 
 ## Standardausgabe
 

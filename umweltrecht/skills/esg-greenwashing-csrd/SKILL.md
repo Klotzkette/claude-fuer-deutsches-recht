@@ -47,7 +47,7 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 - **Cross-cutting** ESRS 1 (Allgemein) ESRS 2 (Allgemeine Offenlegungen)
 - **Umwelt** E1 Klimawandel E2 Verschmutzung E3 Wasser und Meeresressourcen E4 Biodiversitaet und Oekosysteme E5 Ressourcennutzung
 - **Soziales** S1 Eigene Belegschaft S2 Arbeitnehmer Wertschoepfungskette S3 betroffene Gemeinschaften S4 Verbraucher
-- **Governance** G1 Geschaeftsverhalten
+- **Governance** G1 Geschäftsverhalten
 
 ### Doppelte Wesentlichkeit
 
@@ -123,7 +123,7 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 
 ### UWG § 5 Irreführung
 
-- **Aussage geeignet** Werbe-Empfaenger zu täuschen
+- **Aussage geeignet** Werbe-Empfänger zu täuschen
 - **Geschäftsentscheidung** beeinflusst
 - **Subjektive Vorstellung** Verbraucher relevant
 - **Verschiedene Aussagen-Kategorien:**

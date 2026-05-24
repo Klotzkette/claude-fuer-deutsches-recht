@@ -11,36 +11,36 @@ Strafbefreiende Selbstanzeige bei Steuerhinterziehung — sehr formstreng.
 
 ## 1) Voraussetzungen
 
-### Vollstaendigkeit § 371 I AO
+### Vollständigkeit § 371 I AO
 
 - **Alle Steuerarten** der letzten **10 Jahre**
-- Pro Steuerart: alle unverjaehrten Zeitraeume
-- Bei Versaeumnis: Verlust der Strafbefreiung
+- Pro Steuerart: alle unverjaehrten Zeiträume
+- Bei Versäumnis: Verlust der Strafbefreiung
 
 ### Berichtigungs-Inhalt
 
 - Konkrete Tatsachen
-- Bezifferte Steuerart, Veranlagungszeitraum, Hoehe
+- Bezifferte Steuerart, Veranlagungszeitraum, Höhe
 - Nicht „pauschale Selbstanzeige"
 
 ### Nachzahlung mit Zinsen
 
 - 6 % pro Jahr § 233a AO
 - 30-Tages-Frist nach Anzeige
-- Bei Versaeumnis: keine Strafbefreiung
+- Bei Versäumnis: keine Strafbefreiung
 
-## 2) Sperrgruende § 371 II AO
+## 2) Sperrgründe § 371 II AO
 
 | Sperr-Grund | Inhalt |
 |---|---|
-| Pruefungs-Ankuendigung | Außenpruefung angekuendigt — keine SA mehr |
+| Prüfungs-Ankündigung | Außenprüfung angekuendigt — keine SA mehr |
 | Bekanntwerden | Steuerhinterziehung schon entdeckt |
-| Hoehe ueber 25.000 EUR | bei Vorsatz Sperrung — Aufzahlung pflichtig § 398a AO |
+| Höhe über 25.000 EUR | bei Vorsatz Sperrung — Aufzahlung pflichtig § 398a AO |
 | Schwerer Fall § 370a AO | bei besonders schwerem Fall |
 
 ### Auflage § 398a AO
 
-- Bei Hoehe > 25.000 EUR und < 100.000 EUR: 10 % Auflage zusaetzlich
+- Bei Höhe > 25.000 EUR und < 100.000 EUR: 10 % Auflage zusätzlich
 - Bei > 100.000 EUR: 15 %
 - Bei > 1 Mio.: 20 %
 
@@ -48,7 +48,7 @@ Strafbefreiende Selbstanzeige bei Steuerhinterziehung — sehr formstreng.
 
 ### Phase 1 — Vorbereitung
 
-- Mandanten-Gespraech absolut vertraulich
+- Mandanten-Gespräch absolut vertraulich
 - Steuer-Akten sammeln (10 Jahre)
 - Beratungs-Pflicht Anwalt: keine Mitschuld machen
 - **NICHT** mit Steuerberater alleine
@@ -61,14 +61,14 @@ Strafbefreiende Selbstanzeige bei Steuerhinterziehung — sehr formstreng.
 
 ### Phase 3 — Einreichung
 
-- Beim zustaendigen Finanzamt
+- Beim zuständigen Finanzamt
 - **Schriftlich** mit Anlagen
-- Bestaetigung schriftlich anfordern
+- Bestätigung schriftlich anfordern
 
 ### Phase 4 — Nachzahlung
 
 - 30 Tage Frist
-- Bei Liquiditaets-Engpass: Stundungs-Antrag § 222 AO
+- Bei Liquiditäts-Engpass: Stundungs-Antrag § 222 AO
 
 ### Phase 5 — Bei Sperr-Grund
 
@@ -93,7 +93,7 @@ Strafbefreiende Selbstanzeige bei Steuerhinterziehung — sehr formstreng.
 
 - CRS / Common Reporting Standard
 - Automatischer Informationsaustausch
-- Selbstanzeige vor Daten-Uebermittlung empfohlen
+- Selbstanzeige vor Daten-Übermittlung empfohlen
 
 ### Stiftung Liechtenstein, Schweiz-Konten
 
@@ -105,14 +105,14 @@ Strafbefreiende Selbstanzeige bei Steuerhinterziehung — sehr formstreng.
 1. **Pauschal-Anzeige** ohne konkrete Daten -> nichtig
 2. **Eine Steuerart vergessen** -> alle Steuerarten verlieren Schutz
 3. **Nachzahlung nicht fristgerecht** -> Strafbefreiung weg
-4. **Sperr-Grund uebersehen** -> Anzeige laeuft ins Leere
+4. **Sperr-Grund übersehen** -> Anzeige läuft ins Leere
 5. **Steuerberater statt Anwalt** -> Verteidigungs-Privileg fehlt
 
 ## 7) BGH-/BFH-Linien
 
-- BGH, Urt. v. 20.5.2010 — 1 StR 577/09 (Vollstaendigkeit)
+- BGH, Urt. v. 20.5.2010 — 1 StR 577/09 (Vollständigkeit)
 - BGH, Urt. v. 25.7.2011 — 1 StR 631/10 (Konkretisierung)
-- BGH-Linie zu Sperrgruenden
+- BGH-Linie zu Sperrgründen
 
 ## Anschluss
 

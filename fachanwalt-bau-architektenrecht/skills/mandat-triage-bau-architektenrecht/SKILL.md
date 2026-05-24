@@ -86,7 +86,7 @@ Baurecht-Mandate hängen massiv vom Vertragstyp und der Mandantenrolle ab. Triag
 | Streitgegenstand | Folge-Skill |
 |---|---|
 | Mangel-Auseinandersetzung | `werkmangel-vob-bgb-pruefen` |
-| Schlussrechnung | (Skill schlussrechnung-pruefen — perspektivisch) |
+| Schlussrechnung | (Skill schlussrechnung-prüfen — perspektivisch) |
 | Nachtrag § 650b BGB | (Skill nachtragsmanagement — perspektivisch) |
 | Bauhandwerkersicherungshypothek | (Skill sicherungs-hypothek — perspektivisch) |
 | Architekten-Haftung Planungs/Überwachung | `werkmangel-vob-bgb-pruefen` plus Architekten-Spezifikum |

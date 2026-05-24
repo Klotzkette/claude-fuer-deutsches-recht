@@ -11,13 +11,13 @@ Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layo
 
 Vor dem Rendern muss der Workflow den Nutzer fragen:
 
-1. **Dokumenttyp** Urteil oder Versaeumnisurteil oder Beschluss (oder Relations-Dokument im Schul-Layout)?
+1. **Dokumenttyp** Urteil oder Versäumnisurteil oder Beschluss (oder Relations-Dokument im Schul-Layout)?
 2. **Ausgabeformat** DOCX oder DOCX und PDF?
-3. **Tenor-Variante** wenn aus der Relation drei Varianten vorliegen welche soll uebernommen werden?
+3. **Tenor-Variante** wenn aus der Relation drei Varianten vorliegen welche soll übernommen werden?
 
 ## Eingabeschema
 
-Der Eingabeordner enthaelt:
+Der Eingabeordner enthält:
 
 ```
 projekt/
@@ -44,24 +44,24 @@ python3 .../render_urteil.py eingabe ausgabe.docx --typ versaeumnis
 python3 .../render_urteil.py eingabe ausgabe.docx --typ beschluss
 ```
 
-Ausgabe: `Urteil-{Aktenzeichen}.docx` (und `.pdf` wenn `soffice` verfuegbar).
+Ausgabe: `Urteil-{Aktenzeichen}.docx` (und `.pdf` wenn `soffice` verfügbar).
 
 ## Layout
 
-- Arial 11pt (gerichtsueblich)
+- Arial 11pt (gerichtsüblich)
 - DIN A4, Rand: links 2.5 cm, rechts 2 cm, oben/unten 2 cm
 - Aktenzeichen oben rechts kursiv klein
 - Gerichtsbezeichnung zentriert fett
 - "Im Namen des Volkes" zentriert
 - "Urteil" zentriert fett
-- Rubrum mit Parteien linksbuendig, Antraege eingerueckt
-- "hat das Amtsgericht ... fuer Recht erkannt:" am Ende des Rubrums
+- Rubrum mit Parteien linksbuendig, Anträge eingerueckt
+- "hat das Amtsgericht ... für Recht erkannt:" am Ende des Rubrums
 - Tenor nummeriert 1) 2) 3) eingerueckt
 - "Tatbestand" fett, dann Fliesstext
-- "Entscheidungsgruende" fett, dann Fliesstext
+- "Entscheidungsgründe" fett, dann Fliesstext
 - Rechtsmittelbelehrung mit Trennung
 - Unterschriftenzeile (Richtername + Funktion)
 
 ## Voraussetzungen
 
-`pip install python-docx pyyaml`. Fuer PDF: LibreOffice (`soffice`).
+`pip install python-docx pyyaml`. Für PDF: LibreOffice (`soffice`).

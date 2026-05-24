@@ -3,11 +3,11 @@ name: fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch
 description: "SCHUFA-Loeschungsanspruch Art. 17 DSGVO bei unrechtmaessiger Eintragung. Negativeintrag Voraussetzungen Forderung unstreitig faellig BGH VI ZR 1213/22 Schadensersatz Art. 82 DSGVO. Drei-Jahres-Frist Restschuldbefreiung. SCHUFA-Score-Berechnung intransparent EuGH C-634/21. Workflow Auskunftsanspruch Widerspruch Loeschung Schadensersatz Klage."
 ---
 
-# SCHUFA-Loeschungsanspruch
+# SCHUFA-Löschungsanspruch
 
 ## Zweck
 
-Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Widerspruch, Loeschung, Schadensersatz.
+Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Widerspruch, Löschung, Schadensersatz.
 
 ## 1) Eingangs-Abfrage
 
@@ -29,9 +29,9 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 ### Bei Insolvenz
 
-- Restschuldbefreiung -> Loeschungs-Anspruch
-- BGH NJW 2024, 3148: schnellere Loeschung nach Restschuldbefreiung
-- 3-Jahres-Frist nach Restschuldbefreiung verkuerzt durch Vergleichs-Urteil 2023
+- Restschuldbefreiung -> Löschungs-Anspruch
+- BGH NJW 2024, 3148: schnellere Löschung nach Restschuldbefreiung
+- 3-Jahres-Frist nach Restschuldbefreiung verkürzt durch Vergleichs-Urteil 2023
 
 ## 3) Klassische Fehler-Konstellationen
 
@@ -39,35 +39,35 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 - Kunde hat Rechnung bestritten (z.B. Telekom-Streit)
 - Eintrag dennoch -> rechtswidrig
-- Loeschungs-Anspruch + Schadensersatz
+- Löschungs-Anspruch + Schadensersatz
 
 ### Konstellation B: Verfristet
 
 - Eintrag nach 4 Jahren noch da (sollte nach 3 Jahren geloescht)
-- Loeschungs-Anspruch
+- Löschungs-Anspruch
 
 ### Konstellation C: Insolvenz-Bezug
 
 - Trotz Restschuldbefreiung Eintrag bleibt
-- BGH VI ZR 1213/22 v. 18.11.2024: Loeschung schon nach 6 Monaten nach Restschuldbefreiung
+- BGH VI ZR 1213/22 v. 18.11.2024: Löschung schon nach 6 Monaten nach Restschuldbefreiung
 
 ### Konstellation D: Score ohne nachvollziehbare Grundlage
 
 - EuGH C-634/21 vom 7.12.2023: SCHUFA-Score ist „automatisierte Entscheidung" Art. 22 DSGVO
-- Recht auf Erklaerung, manuelle Pruefung
+- Recht auf Erklärung, manuelle Prüfung
 
-## 4) Workflow Loeschung
+## 4) Workflow Löschung
 
 ### Schritt 1 — Auskunft Art. 15 DSGVO
 
 - SCHUFA-Selbstauskunft kostenlos einmal jaehrlich
-- Online ueber meineschufa.de
+- Online über meineschufa.de
 - Erhalt: alle gespeicherten Daten + Score
 
-### Schritt 2 — Widerspruch / Loeschungsantrag
+### Schritt 2 — Widerspruch / Löschungsantrag
 
-- An SCHUFA: Antrag Art. 16 (Berichtigung), Art. 17 (Loeschung), Art. 21 (Widerspruch)
-- An Datenuebermittler (Bank, Inkasso, Telekom): Pruefantrag
+- An SCHUFA: Antrag Art. 16 (Berichtigung), Art. 17 (Löschung), Art. 21 (Widerspruch)
+- An Datenübermittler (Bank, Inkasso, Telekom): Pruefantrag
 
 ### Schritt 3 — Bei Ablehnung Beschwerde
 
@@ -77,20 +77,20 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 ### Schritt 4 — Klage
 
 - LG Sitz SCHUFA (Wiesbaden)
-- Klage auf Loeschung + Schadensersatz Art. 82 DSGVO
-- Streitwert: bei reinem Loeschungsanspruch 500-2.000 EUR; bei Schadensersatz aufschlagen
+- Klage auf Löschung + Schadensersatz Art. 82 DSGVO
+- Streitwert: bei reinem Löschungsanspruch 500-2.000 EUR; bei Schadensersatz aufschlagen
 
 ## 5) Schadensersatz Art. 82 DSGVO
 
 ### BGH VI ZR 1213/22 vom 18.11.2024
 
 - DSGVO-Schadensersatz auch bei nicht-materiellem Schaden
-- Kontrollverlust ueber Daten ausreichend
-- Tendenz Hoehe: 100-1.500 EUR pro Fall
+- Kontrollverlust über Daten ausreichend
+- Tendenz Höhe: 100-1.500 EUR pro Fall
 
 ### EuGH C-340/21 vom 14.12.2023
 
-- Schaden auch ohne konkreten finanziellen Schaden moeglich
+- Schaden auch ohne konkreten finanziellen Schaden möglich
 - Sorge / Aerger reicht aus
 
 ### Praxis-Bewertung
@@ -103,14 +103,14 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 
 - **Pauschal** je Eintrag (500-1.000 EUR + MwSt.)
 - **Erfolgs-Aufschlag** bei Schadensersatz (15-30 %)
-- **Rechtsschutz-Versicherung** typisch zuschussfaehig (Bereich „Schadensersatz / Datenschutz")
+- **Rechtsschutz-Versicherung** typisch zuschussfähig (Bereich „Schadensersatz / Datenschutz")
 
-## 7) Pruefliste
+## 7) Prüfliste
 
 - [ ] SCHUFA-Auskunft vorhanden?
-- [ ] Datenuebermittler identifiziert?
+- [ ] Datenübermittler identifiziert?
 - [ ] Forderung-Hintergrund (Vertrag, Mahnungen, Frist)?
-- [ ] Vorab-Hinweis durch Datenuebermittler erfolgt?
+- [ ] Vorab-Hinweis durch Datenübermittler erfolgt?
 - [ ] Eintragungs-Datum vs. Geltungsdauer-Grenze?
 - [ ] Bei Insolvenz: Restschuldbefreiung-Datum?
 - [ ] Konkreter Schaden dokumentiert (Kreditablehnung, Mietkaution)?
@@ -118,7 +118,7 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 ## 8) Anschluss
 
 - `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` — bei verbundener Kredit-Konstellation
-- `datenschutzrecht/skills/auskunftsersuchen-art-15-dsgvo` — fuer formelle Antraege
+- `datenschutzrecht/skills/auskunftsersuchen-art-15-dsgvo` — für formelle Anträge
 - `forderungsmanagement-klagewerkstatt` — bei Inkasso-Streit-Hintergrund
 
 ## 9) Aktuelle BGH-/EuGH-Linien

@@ -7,13 +7,13 @@ description: "Datenraum-Gap-Analyse und Clean Room: Prüft Datenraum, Teaser, IM
 
 ## Zweck
 
-Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Luecken, Widersprueche, Dubletten und Clean-Room-Bedarf.
+Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Lücken, Widersprüche, Dubletten und Clean-Room-Bedarf.
 
 ## Arbeitsmodus
 
 - Datenraum gegen IRL und IM abgleichen.
 - Referenzierte, aber fehlende Dokumente finden.
-- Widersprueche zwischen Legal, Tax, Finance, ESG und Commercial markieren.
+- Widersprüche zwischen Legal, Tax, Finance, ESG und Commercial markieren.
 - Clean-Room-Zugriffe und kartellrechtliche Sensibilitaet protokollieren.
 
 ## Rote Schwellen

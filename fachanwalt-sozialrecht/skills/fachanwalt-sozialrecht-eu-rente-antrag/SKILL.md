@@ -13,7 +13,7 @@ Renten-Antrag bei Personen mit Arbeitsleben in mehreren EU-Staaten.
 
 - Koordinierung Sozialversicherungen
 - Anwendung auf EU + EWR + Schweiz
-- Bilaterale Abkommen mit Drittstaaten zusaetzlich
+- Bilaterale Abkommen mit Drittstaaten zusätzlich
 
 ## 2) Anspruchs-Voraussetzungen
 
@@ -21,7 +21,7 @@ Renten-Antrag bei Personen mit Arbeitsleben in mehreren EU-Staaten.
 
 - Gesamte Wartezeit unter Anrechnung aller EU-Staaten
 - Mindestwartezeit Deutschland 5 Jahre § 50 SGB VI
-- Bei Anrechnung: oft erfuellt
+- Bei Anrechnung: oft erfüllt
 
 ### Rente bei Erreichen Renten-Alter
 
@@ -33,13 +33,13 @@ Renten-Antrag bei Personen mit Arbeitsleben in mehreren EU-Staaten.
 ### Antrag im Wohnsitzland
 
 - Bei Wohnsitz Deutschland: DRV
-- DRV leitet an andere EU-Renten-Traeger weiter
-- Antrag-Datum gilt fuer alle
+- DRV leitet an andere EU-Renten-Träger weiter
+- Antrag-Datum gilt für alle
 
 ### Erforderliche Unterlagen
 
 - Versicherungs-Verlaufs-Auskuenfte aller Staaten
-- Arbeitsvertraege / Steuerunterlagen
+- Arbeitsverträge / Steuerunterlagen
 - Personenstands-Dokumente
 
 ## 4) Berechnung pro rata temporis
@@ -56,12 +56,12 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 - Gesamtzeit 35 Jahre
 - Theoretische Vollrente: 1.500 EUR
 - DE-Anteil: 15/35 × 1.500 = 643 EUR
-- AT-Anteil: ueber AT-Renten-Traeger
+- AT-Anteil: über AT-Renten-Träger
 
 ## 5) Auslands-Zahlung
 
 - Rente kann auf Auslands-Konto gezahlt werden
-- Bei Wohnsitz Drittland: Pruefung bilateral
+- Bei Wohnsitz Drittland: Prüfung bilateral
 - Steuer: ab Rentenbeginn DE-Steuerpflicht ggf.
 
 ## 6) Workflow
@@ -69,18 +69,18 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 ### Phase 1 — Vorbereitung (3-6 Monate vor Rentenbeginn)
 
 - Versicherungs-Verlaufs-Auskunft DRV
-- Auslands-Renten-Traeger anfragen
+- Auslands-Renten-Träger anfragen
 - Komplette Akten-Lage
 
 ### Phase 2 — Antrag
 
-- DRV-Formular fuer Mehrstaaten-Antrag
+- DRV-Formular für Mehrstaaten-Antrag
 - Anlagen
 - Vollmacht ggf. bei Anwalt
 
 ### Phase 3 — Bescheid
 
-- Bei DE-Bescheid: Pruefung Anrechnungs-Zeiten
+- Bei DE-Bescheid: Prüfung Anrechnungs-Zeiten
 - Bei Ablehnung: Widerspruch 1 Monat
 - Bei Auslandsbescheid: Sprache!
 

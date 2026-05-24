@@ -22,7 +22,7 @@ description: Pflegt den Weihnachtskartenversand der Kanzlei. Verteiler mit Empfa
 
 ## Texte
 
-### Foermlich-zurückhaltend (Mandanten gemischter Branchen)
+### Förmlich-zurückhaltend (Mandanten gemischter Branchen)
 
 ```
 Sehr geehrter Herr [Nachname],
@@ -50,9 +50,9 @@ Beste Grüße
 [Anwalt]
 ```
 
-### Persoenlich (engster Kreis)
+### Persönlich (engster Kreis)
 
-Individuell formuliert — kein Templating; auf der persoenlichen Beziehung aufbauend.
+Individuell formuliert — kein Templating; auf der persönlichen Beziehung aufbauend.
 
 ## Versandformen
 
@@ -65,7 +65,7 @@ Individuell formuliert — kein Templating; auf der persoenlichen Beziehung aufb
 
 ### Digitaler Versand
 
-- **E-Mail** mit kurzer persoenlicher Anrede.
+- **E-Mail** mit kurzer persönlicher Anrede.
 - **Anhang** optional als PDF-Karte (Briefkopf der Kanzlei).
 - **Versandzeitraum** kurz vor Weihnachten (z. B. 22./23. Dezember).
 - **Massenversand vermeiden** — pro Empfänger einzeln im Bcc nicht zulässig wegen DSGVO; lieber serienmaessig versenden.

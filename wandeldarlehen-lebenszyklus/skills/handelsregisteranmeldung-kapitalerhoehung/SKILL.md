@@ -66,7 +66,7 @@ Unmittelbar nach HR-Eintragung: Prüfung ob Lender wirtschaftlich Berechtigter (
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Registergericht beanstandet Sacheinlagebericht | Verzögerung, Nachbesserung | Eine Beanstandung | Keine Beanstandung |
 | Bearbeitungsdauer über zwölf Wochen | Gesellschafterrechte Lender verzögert | Acht bis zwölf Wochen | Unter acht Wochen |

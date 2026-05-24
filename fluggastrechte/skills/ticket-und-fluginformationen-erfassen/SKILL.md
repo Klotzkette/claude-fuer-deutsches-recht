@@ -12,7 +12,7 @@ Was hochgeladen werden kann:
 - **Buchungsbestätigung** als PDF / E-Mail.
 - **E-Ticket** mit IATA-Standard-Konfiguration.
 - **Boardingpass** Foto oder PDF.
-- **Stoerungsbenachrichtigung** von der Airline.
+- **Störungsbenachrichtigung** von der Airline.
 - **Korrespondenz** mit der Airline (E-Mail-Verlauf).
 - **Pauschalreiseunterlagen** falls Buchung über Reiseveranstalter.
 
@@ -81,7 +81,7 @@ belege:
 - **Flugplandaten** geplante Zeiten aus Buchungsbestätigung — autoritativ.
 - **Ist-Zeiten** können Sie aus Boardingpass-Stempel SMS / E-Mail mit Verspätungs-Hinweis Flughafen-Anzeigetafel-Foto oder Airline-Verspätungs-API entnehmen.
 - Verbraucher-relevante öffentliche Datenquellen sind regelmäßig **zahlungspflichtig oder nicht autoritativ** (FlightAware FlightRadar24 etc.); im Streit beweisbedeutsam ist die **Eingangsbestätigung der Airline** und die offizielle **Verspätungs-/Annullierungsmeldung** der Airline.
-- Bei strittiger Ist-Zeit: Empfehlung **eigenhaendige Dokumentation am Tag des Ereignisses** (Fotos Anzeigentafel SMS-Eingaenge) als späterer Beweis.
+- Bei strittiger Ist-Zeit: Empfehlung **eigenhändige Dokumentation am Tag des Ereignisses** (Fotos Anzeigentafel SMS-Eingaenge) als späterer Beweis.
 
 ## Ausgabe
 
@@ -91,4 +91,4 @@ belege:
 
 ## Mehrere Passagiere
 
-Pro Flug wird **ein** Anspruchsfall mit mehreren Passagieren erfasst. Jeder Passagier hat aber einen **eigenen Ausgleichsanspruch** (Art. 7 VO 261/2004 ist persoenlich). Daher bei der Klage je Passagier eigener Antrag (Streitgenossenschaft möglich). Vollmacht der Mitreisenden falls einer für alle vorgeht — Skill `vollmacht-familienmitglieder`.
+Pro Flug wird **ein** Anspruchsfall mit mehreren Passagieren erfasst. Jeder Passagier hat aber einen **eigenen Ausgleichsanspruch** (Art. 7 VO 261/2004 ist persönlich). Daher bei der Klage je Passagier eigener Antrag (Streitgenossenschaft möglich). Vollmacht der Mitreisenden falls einer für alle vorgeht — Skill `vollmacht-familienmitglieder`.

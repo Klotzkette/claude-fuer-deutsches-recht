@@ -3,18 +3,18 @@ name: fachanwalt-medizinrecht-honorarvertrag-kv
 description: "Honorarvertrag Kassenaerztliche Vereinigung EBM-Punkte Regelleistungsvolumen RLV qualifikationsgebundene Zusatzleistungen QZV. Plausibilitaetspruefungen Wirtschaftlichkeitspruefung. Widerspruch Klage. Workflow Pruefraster Vorbereitung Schriftsatz."
 ---
 
-# Honorarvertrag Kassenaerztliche Vereinigung
+# Honorarvertrag Kassenärztliche Vereinigung
 
 ## Zweck
 
-Mandate fuer Vertragsaerzte bei Honorar-Streitigkeiten mit Kassenaerztlicher Vereinigung (KV).
+Mandate für Vertragsärzte bei Honorar-Streitigkeiten mit Kassenärztlicher Vereinigung (KV).
 
 ## 1) Eingangs-Abfrage
 
 1. Fachgruppe (Allgemein, Internist, Chirurg, Psychiater)?
 2. Honorar-Bescheid-Stand?
-3. Wirtschaftlichkeits-Pruefung laufend?
-4. Plausibilitaets-Pruefung?
+3. Wirtschaftlichkeits-Prüfung laufend?
+4. Plausibilitaets-Prüfung?
 5. Niederlassung neu / etabliert?
 6. KV-Region?
 
@@ -28,23 +28,23 @@ Mandate fuer Vertragsaerzte bei Honorar-Streitigkeiten mit Kassenaerztlicher Ver
 ### Regelleistungsvolumen (RLV)
 
 - Quartalsweise Budget pro Arzt
-- Bei UEberschreitung: gestaffelt geringere Verguetung
+- Bei UEberschreitung: gestaffelt geringere Vergütung
 - Berechnung nach Vorgaben KV
 
 ### Qualifikationsgebundene Zusatzleistungen (QZV)
 
-- Spezielle Leistungen ausserhalb RLV
+- Spezielle Leistungen außerhalb RLV
 - Voraussetzung: Genehmigung Qualifikation
 
-## 3) Pruefverfahren
+## 3) Prüfverfahren
 
-### Plausibilitaets-Pruefung
+### Plausibilitaets-Prüfung
 
 - Bei Auffaelligkeiten (z.B. zu viele Patienten/Tag)
 - Stichproben aus Abrechnungs-Daten
-- Folge: Honorar-Kuerzung bei Bestaetigung
+- Folge: Honorar-Kürzung bei Bestätigung
 
-### Wirtschaftlichkeits-Pruefung § 106 SGB V
+### Wirtschaftlichkeits-Prüfung § 106 SGB V
 
 - Bei Mehr-Verordnung Heilmittel/Arzneimittel
 - Vergleich Fachgruppen-Durchschnitt
@@ -52,13 +52,13 @@ Mandate fuer Vertragsaerzte bei Honorar-Streitigkeiten mit Kassenaerztlicher Ver
 
 ### Honoraranfechtung
 
-- Anwaltliche Pruefung der KV-Daten
+- Anwaltliche Prüfung der KV-Daten
 - Vergleich Eigen-Berechnung
 - Beweis-Anbringen
 
 ## 4) Workflow Widerspruch
 
-### Schritt 1 — Bescheid-Pruefung
+### Schritt 1 — Bescheid-Prüfung
 
 - Berechnungs-Grundlagen
 - Fachgruppen-Vergleich
@@ -74,21 +74,21 @@ Mandate fuer Vertragsaerzte bei Honorar-Streitigkeiten mit Kassenaerztlicher Ver
 
 - Binnen 1 Monat
 - An KV
-- Begruendung mit Daten
+- Begründung mit Daten
 
 ### Schritt 4 — Klage
 
 - Sozialgericht (SG)
 - Streitwert nach Differenz-Honorar
 
-## 5) Wirtschaftlichkeits-Pruefung
+## 5) Wirtschaftlichkeits-Prüfung
 
 ### Stufen
 
 1. **Beratung** (formlos, ohne Sanktion)
-2. **Statistische Pruefung** (Fachgruppen-Vergleich)
-3. **Regress** (Rueckzahlung)
-4. **Massnahmen-Klage** SG
+2. **Statistische Prüfung** (Fachgruppen-Vergleich)
+3. **Regress** (Rückzahlung)
+4. **Maßnahmen-Klage** SG
 
 ### Verteidigung
 
@@ -104,7 +104,7 @@ Mandate fuer Vertragsaerzte bei Honorar-Streitigkeiten mit Kassenaerztlicher Ver
 - Bedarfsplanung
 - Bei Bedarfs-Mangel: Zulassungs-Ablehnung
 
-### Praxis-Verkauf / Uebergabe
+### Praxis-Verkauf / Übergabe
 
 - Kollegial-Praxis vs. Praxis-Sitz-Verkauf
 - KV-Genehmigung erforderlich
@@ -113,19 +113,19 @@ Mandate fuer Vertragsaerzte bei Honorar-Streitigkeiten mit Kassenaerztlicher Ver
 ## 7) Honorar-Auseinandersetzung Praxis-Aufgabe
 
 - KV-Endabrechnung
-- Rueckforderungen
-- Sonderfaelle (Krankheit, Pensionierung)
+- Rückforderungen
+- Sonderfälle (Krankheit, Pensionierung)
 
 ## 8) Typische Fehler
 
-1. **Widerspruchs-Frist 1 Monat versaeumt**
+1. **Widerspruchs-Frist 1 Monat versäumt**
 2. **Praxisbesonderheiten** nicht dokumentiert
-3. **Patienten-Statistik** unvollstaendig
-4. **RLV-Berechnung** nicht ueberprueft
+3. **Patienten-Statistik** unvollständig
+4. **RLV-Berechnung** nicht überprüft
 
 ## 9) Sozialgericht
 
-- Kostenfrei fuer KV-Streitigkeiten (keine Gerichtskosten)
+- Kostenfrei für KV-Streitigkeiten (keine Gerichtskosten)
 - Rechtsanwaltskosten nach RVG
 - Aufschiebende Wirkung Widerspruch — bei Bescheiden meist sofort vollziehbar
 

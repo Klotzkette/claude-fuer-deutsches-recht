@@ -7,7 +7,7 @@ description: "Wuerfelvorlage fuer Immobilien-Portfolioanalyse — 16 Spalten (Ge
 
 ## Zweck
 
-Immobilien-Portfolioanalyse. Pro Flurstueck dieselben 16 Fragen, drei Perspektiven uebereinander.
+Immobilien-Portfolioanalyse. Pro Flurstück dieselben 16 Fragen, drei Perspektiven übereinander.
 
 ## Spalten (16 Datenpunkte)
 
@@ -15,7 +15,7 @@ Immobilien-Portfolioanalyse. Pro Flurstueck dieselben 16 Fragen, drei Perspektiv
 
 1. Gemarkung
 2. Flur
-3. Flurstueck
+3. Flurstück
 4. Wirtschaftsart und Lage
 5. Größe in Quadratmeter
 
@@ -34,7 +34,7 @@ Immobilien-Portfolioanalyse. Pro Flurstueck dieselben 16 Fragen, drei Perspektiv
 10. Löschungserleichterung vorhanden
 11. Offene Briefgrundschuld ohne Löschungsbewilligung
 
-### Aussergrundbuch
+### Außergrundbuch
 
 12. Baulasten aus Baulastenverzeichnis (NICHT im Grundbuch)
 13. Altlastenverdachtsfläche aus Kataster

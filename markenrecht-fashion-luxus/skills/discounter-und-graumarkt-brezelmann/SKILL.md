@@ -46,7 +46,7 @@ Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt l
 3. **Graumarkt-Strategie — Präventiv:**
    - Serialisierung/Serialnummern auf allen Produkten
    - Track-and-Trace-System (QR-Code/NFC-Chip)
-   - Händlervertragsklausel: „Weiterverkauf ausschließlich an Endverbraucher; kein Verkauf an Grossisten oder Händler außerhalb des Selektivvertriebs"
+   - Händlervertragsklausel: „Weiterverkauf ausschließlich an Endverbraucher; kein Verkauf an Großisten oder Händler außerhalb des Selektivvertriebs"
    - Menge pro Händler limitieren (verhindert Aufkauf für Graumarkt-Weitervertrieb)
 
 ## Falltypische Konstellationen

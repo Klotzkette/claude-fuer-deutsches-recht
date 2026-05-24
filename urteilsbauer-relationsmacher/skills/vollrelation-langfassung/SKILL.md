@@ -3,11 +3,11 @@ name: vollrelation-langfassung
 description: "Ausformulierte Vollrelation im Schulstandard fuer Referendar/-innen- und Assessor/-innen-Pruefung mit gutachterlichem Stil bei Bedarf bis zu 20 Seiten Sachbericht Auslegung Zulaessigkeit Schluessigkeit Erheblichkeit Replik Beweisstation Tenorierung Nebenentscheidungen Selbstkontrolle. Schreibt jede Station als eigenen Abschnitt mit Obersatz Definition Subsumtion Ergebnis. Gegenstueck zur Kurzfassung im Skill relation-zivil."
 ---
 
-# Vollrelation Langfassung - Schulstandard fuer Pruefung
+# Vollrelation Langfassung - Schulstandard für Prüfung
 
-**Vorsicht: hiermit bitte nicht mogeln im Studium.** Dieser Skill schreibt eine ausformulierte Vollrelation auf Pruefungsstandard. Genau deswegen ist die Verwendung als eingereichte Klausur- oder Hausarbeitsleistung im juristischen Vorbereitungsdienst eine Pruefungstaeuschung (Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbare Vorschriften der Laender). Folge: Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubt und sinnvoll: Erst selbst schreiben dann mit dieser Vollrelation abgleichen und Schwaechen finden.
+**Vorsicht: hiermit bitte nicht mogeln im Studium.** Dieser Skill schreibt eine ausformulierte Vollrelation auf Prüfungsstandard. Genau deswegen ist die Verwendung als eingereichte Klausur- oder Hausarbeitsleistung im juristischen Vorbereitungsdienst eine Prüfungstaeuschung (Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbare Vorschriften der Länder). Folge: Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubt und sinnvoll: Erst selbst schreiben dann mit dieser Vollrelation abgleichen und Schwaechen finden.
 
-Dieser Skill schreibt eine ausformulierte Vollrelation in der Form wie sie im Referendariat und in der Assessor/-innen-Pruefung verlangt wird. Im Gegensatz zur Praxis-Kurzform werden alle Stationen ausgeschrieben als Fliesstext mit Obersatz Definition Subsumtion Ergebnis (Gutachtenstil im Sachverhalt-Teil; Urteilsstil nur dort wo am Ende uebernommen wird).
+Dieser Skill schreibt eine ausformulierte Vollrelation in der Form wie sie im Referendariat und in der Assessor/-innen-Prüfung verlangt wird. Im Gegensatz zur Praxis-Kurzform werden alle Stationen ausgeschrieben als Fliesstext mit Obersatz Definition Subsumtion Ergebnis (Gutachtenstil im Sachverhalt-Teil; Urteilsstil nur dort wo am Ende übernommen wird).
 
 Laenge: 8 bis 20 Seiten je nach Aktenumfang. Schreibstil: gutachterlich klar normverankert. Jedes Zitat einer Norm in der Form **Paragraf 433 BGB** oder **Artikel 35 CISG**.
 
@@ -15,7 +15,7 @@ Laenge: 8 bis 20 Seiten je nach Aktenumfang. Schreibstil: gutachterlich klar nor
 
 ### Teil A Sachbericht
 
-Chronologischer neutraler Bericht. Unstreitiges im Indikativ Perfekt. Streitiges in der Form **Die Klaegerin behauptet ...** und **Die Beklagte bestreitet ...**. Antraege im Originalwortlaut zitieren.
+Chronologischer neutraler Bericht. Unstreitiges im Indikativ Perfekt. Streitiges in der Form **Die Klägerin behauptet ...** und **Die Beklagte bestreitet ...**. Anträge im Originalwortlaut zitieren.
 
 Laenge: ein bis vier Seiten je nach Aktenumfang.
 
@@ -23,49 +23,49 @@ Laenge: ein bis vier Seiten je nach Aktenumfang.
 
 Genau bezeichnen welcher Streitgegenstand vorliegt. Bei Klagehaeufung jeden Antrag einzeln auslegen. Hilfsantrag prozessualer Eventualantrag.
 
-### Teil C Zulaessigkeit
+### Teil C Zulässigkeit
 
 Jeden Pruefpunkt mit eigenem Absatz. Beispielstruktur:
 
-> **Internationale Zustaendigkeit.** Die internationale Zustaendigkeit deutscher Gerichte ergibt sich aus Artikel 7 Nummer 1 b der Verordnung Nummer 1215 2012 (EuGVVO). Danach kann eine Person die ihren Wohnsitz im Hoheitsgebiet eines Mitgliedstaats hat in einem anderen Mitgliedstaat vor dem Gericht des Erfuellungsorts verklagt werden. Erfuellungsort ist nach Artikel 7 Nummer 1 b erster Spiegelstrich der Ort der vertraglichen Lieferung. Hier wurde die Brille nach Hamburg geliefert. Die internationale Zustaendigkeit ist gegeben.
+> **Internationale Zuständigkeit.** Die internationale Zuständigkeit deutscher Gerichte ergibt sich aus Artikel 7 Nummer 1 b der Verordnung Nummer 1215 2012 (EuGVVO). Danach kann eine Person die ihren Wohnsitz im Hoheitsgebiet eines Mitgliedstaats hat in einem anderen Mitgliedstaat vor dem Gericht des Erfüllungsorts verklagt werden. Erfüllungsort ist nach Artikel 7 Nummer 1 b erster Spiegelstrich der Ort der vertraglichen Lieferung. Hier wurde die Brille nach Hamburg geliefert. Die internationale Zuständigkeit ist gegeben.
 
-Fuer jeden Pruefpunkt einen solchen Absatz schreiben. Bei nicht problematischen Punkten kurz halten (eine Zeile genuegt).
+Für jeden Pruefpunkt einen solchen Absatz schreiben. Bei nicht problematischen Punkten kurz halten (eine Zeile genuegt).
 
-### Teil D Schluessigkeit
+### Teil D Schlüssigkeit
 
-Die Schluessigkeitspruefung ist das Herzstueck. Schreibe in dieser Form:
+Die Schlüssigkeitsprüfung ist das Herzstück. Schreibe in dieser Form:
 
-> **Anspruch der Klaegerin gegen die Beklagte auf Zahlung von 1197 EUR Zug um Zug gegen Rueckgabe nach Artikel 81 Absatz 2 CISG.**
+> **Anspruch der Klägerin gegen die Beklagte auf Zahlung von 1197 EUR Zug um Zug gegen Rueckgabe nach Artikel 81 Absatz 2 CISG.**
 >
-> Die Klaegerin koennte einen Anspruch auf Rueckzahlung des Kaufpreises gegen die Beklagte aus Artikel 81 Absatz 2 CISG haben. Voraussetzungen sind ein wirksamer Kaufvertrag im Anwendungsbereich des CISG eine wesentliche Vertragsverletzung der Beklagten und eine wirksame Aufhebungserklaerung der Klaegerin.
+> Die Klägerin koennte einen Anspruch auf Rückzahlung des Kaufpreises gegen die Beklagte aus Artikel 81 Absatz 2 CISG haben. Voraussetzungen sind ein wirksamer Kaufvertrag im Anwendungsbereich des CISG eine wesentliche Vertragsverletzung der Beklagten und eine wirksame Aufhebungserklärung der Klägerin.
 >
-> **a) Anwendbarkeit des CISG.** Das CISG ist anwendbar gemaess Artikel 1 Absatz 1 a CISG ...
+> **a) Anwendbarkeit des CISG.** Das CISG ist anwendbar gemäß Artikel 1 Absatz 1 a CISG ...
 > **b) Wirksamer Kaufvertrag.** ...
 > **c) Vertragsmaessigkeit der Ware.** Nach Artikel 35 Absatz 1 CISG ...
 > **d) Wesentliche Vertragsverletzung Artikel 25 CISG.** ...
-> **e) Aufhebungserklaerung Artikel 26 CISG.** ...
+> **e) Aufhebungserklärung Artikel 26 CISG.** ...
 >
-> **Zwischenergebnis Schluessigkeit:** Bei unterstellter Richtigkeit des Klaegervortrags hat die Klaegerin einen Anspruch aus Artikel 81 Absatz 2 CISG auf Zahlung von 1197 EUR Zug um Zug gegen Rueckgabe der Brille. Die Klage ist schluessig.
+> **Zwischenergebnis Schlüssigkeit:** Bei unterstellter Richtigkeit des Klägervortrags hat die Klägerin einen Anspruch aus Artikel 81 Absatz 2 CISG auf Zahlung von 1197 EUR Zug um Zug gegen Rueckgabe der Brille. Die Klage ist schlüssig.
 
-Wenn die Klage unschluessig ist: Klar herausarbeiten an welchem Tatbestandsmerkmal es haengt; dann Hinweis nach Paragraf 139 ZPO erwaegen.
+Wenn die Klage unschlüssig ist: Klar herausarbeiten an welchem Tatbestandsmerkmal es hängt; dann Hinweis nach Paragraf 139 ZPO erwaegen.
 
 ### Teil E Erheblichkeit
 
-Fuer jeden Beklagteneinwand einen eigenen Absatz:
+Für jeden Beklagteneinwand einen eigenen Absatz:
 
-> **Einwand 1: AGB-Gerichtsstandsvereinbarung Zuerich.** Die Beklagte beruft sich auf Ziffer 18.1 ihrer AGB. Diese Klausel waere nur wirksam wenn sie nach Artikel 25 EuGVVO formgerecht vereinbart waere und nicht durch eine kollidierende Klausel der Klaegerin verdraengt wuerde. Hier liegt der Knock-out-Fall vor (BGH siehe oben). Damit ist der Einwand unerheblich.
+> **Einwand 1: AGB-Gerichtsstandsvereinbarung Zuerich.** Die Beklagte beruft sich auf Ziffer 18.1 ihrer AGB. Diese Klausel waere nur wirksam wenn sie nach Artikel 25 EuGVVO formgerecht vereinbart waere und nicht durch eine kollidierende Klausel der Klägerin verdraengt würde. Hier liegt der Knock-out-Fall vor (BGH siehe oben). Damit ist der Einwand unerheblich.
 >
 > **Einwand 2: CISG-Ausschluss durch AGB.** Die Beklagte beruft sich auf Ziffer 17.1. ...
 >
 > **Einwand 3: kein Sachmangel.** ...
 >
-> **Einwand 4: Gefahruebergang FOB Galway.** ...
+> **Einwand 4: Gefahrübergang FOB Galway.** ...
 
-Fuer jeden Einwand am Ende festhalten: **erheblich** oder **unerheblich** und warum.
+Für jeden Einwand am Ende festhalten: **erheblich** oder **unerheblich** und warum.
 
 ### Teil F Replik
 
-Die Repliken der Klaegerin durchgehen und wie in Teil E klassifizieren.
+Die Repliken der Klägerin durchgehen und wie in Teil E klassifizieren.
 
 ### Teil G Beweisstation
 
@@ -75,34 +75,34 @@ Tabelle mit allen verbleibenden streitigen Tatsachen Beweislast Beweismittel Bew
 
 Drei Varianten ausschreiben:
 
-> **Variante A** (Klage vollstaendig begruendet): Tenor lautet ...
-> **Variante B** (Klage teilweise begruendet): Tenor lautet ...
+> **Variante A** (Klage vollständig begründet): Tenor lautet ...
+> **Variante B** (Klage teilweise begründet): Tenor lautet ...
 > **Variante C** (Klage abzuweisen): Tenor lautet ...
 
-Die wahrscheinlichste Variante markieren und kurz begruenden.
+Die wahrscheinlichste Variante markieren und kurz begründen.
 
 ### Teil I Nebenentscheidungen
 
-Kosten vorlaeufige Vollstreckbarkeit Streitwert Zinsen Rechtsmittelzulassung. Wie in Skill `relation-zivil` Station 9 aber ausformuliert.
+Kosten vorläufige Vollstreckbarkeit Streitwert Zinsen Rechtsmittelzulassung. Wie in Skill `relation-zivil` Station 9 aber ausformuliert.
 
 ### Teil J Selbstkontrolle
 
 Fragenkatalog am Ende:
 
-- Sind alle Antraege beschieden?
+- Sind alle Anträge beschieden?
 - Sind alle erheblichen Einwendungen abgearbeitet?
-- Ist der Tenor vollstreckungsfaehig?
+- Ist der Tenor vollstreckungsfähig?
 - Sind die Kosten richtig verteilt?
-- Ist die vorlaeufige Vollstreckbarkeit korrekt?
+- Ist die vorläufige Vollstreckbarkeit korrekt?
 - Ist die Rechtsmittelbelehrung erforderlich?
 
 ## Stilfragen
 
 - Keine Wertungen im Sachbericht.
-- Konjunktiv I fuer Parteivortrag (Die Klaegerin behauptet die Brille zeichne ...).
-- Indikativ fuer Unstreitiges (Die Klaegerin hat die Brille am 19. Februar 2026 erhalten).
+- Konjunktiv I für Parteivortrag (Die Klägerin behauptet die Brille zeichne ...).
+- Indikativ für Unstreitiges (Die Klägerin hat die Brille am 19. Februar 2026 erhalten).
 - Normzitate ausgeschrieben (Paragraf 433 Absatz 1 Satz 1 BGB).
-- Keine Abkuerzungen wie BGH BVerfG sondern Bundesgerichtshof Bundesverfassungsgericht beim ersten Auftreten ausschreiben.
+- Keine Abkürzungen wie BGH BVerfG sondern Bundesgerichtshof Bundesverfassungsgericht beim ersten Auftreten ausschreiben.
 
 ## Ausgabeformat
 

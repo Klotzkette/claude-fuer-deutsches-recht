@@ -7,7 +7,7 @@ description: Pruefraster Arbeitszeit-Erfassungs-Pflicht und Mindestlohn-Anspruch
 
 ## Zweck
 
-Seit EuGH C-55/18 CCOO (14.5.2019) und BAG 1 ABR 22/21 (13.9.2022) ist Arbeitgeber zur **objektiven verlässlichen zugänglichen Arbeitszeit-Erfassung** verpflichtet. Bei Verstoss kippt Beweislast bei Mindestlohn-Klagen.
+Seit EuGH C-55/18 CCOO (14.5.2019) und BAG 1 ABR 22/21 (13.9.2022) ist Arbeitgeber zur **objektiven verlässlichen zugänglichen Arbeitszeit-Erfassung** verpflichtet. Bei Verstoß kippt Beweislast bei Mindestlohn-Klagen.
 
 ## Eingaben
 
@@ -47,7 +47,7 @@ Seit EuGH C-55/18 CCOO (14.5.2019) und BAG 1 ABR 22/21 (13.9.2022) ist Arbeitgeb
 - Apps mit GPS / Geo-Fencing
 - Vertrauens-Arbeitszeit problematisch — bedarf System-Bestätigung
 
-## Schritt 2 — Konsequenz bei Verstoss
+## Schritt 2 — Konsequenz bei Verstoß
 
 ### Beweis-Erleichterung Mindestlohn-Klage
 
@@ -138,7 +138,7 @@ Beispiel:
 ### Verjährungs-Frist
 
 - **Drei Jahre** § 195 BGB
-- Bei Tarif-Ausschluss-Frist möglicherweise kürzer (Tarif-Pruefung)
+- Bei Tarif-Ausschluss-Frist möglicherweise kürzer (Tarif-Prüfung)
 
 ## Schritt 6 — Verteidigung Arbeitgeber
 
@@ -157,7 +157,7 @@ Beispiel:
 ### Schadenslimitation
 
 - Bei substantiierter Mandanten-Klage Vergleichs-Verhandlung
-- Branchen-Ueblichkeit als Argument
+- Branchen-Üblichkeit als Argument
 - Streit-Reduktion
 
 ### Sofortmaßnahmen
@@ -212,7 +212,7 @@ Beispiel:
 
 - **Leitende Angestellte** § 5 BetrVG eingeschränkte Anwendung
 - **Geschäftsführer** keine Arbeitnehmer
-- **Ausserordentlich Befreiung** möglich
+- **Außerordentlich Befreiung** möglich
 
 ### Schicht-Modell
 
@@ -223,7 +223,7 @@ Beispiel:
 
 ### LkSG § 2 Abs. 2 Nr. 8 Mindestlohn
 
-- Mindestlohn-Verstoss bei Lieferanten = LkSG-Risiko
+- Mindestlohn-Verstoß bei Lieferanten = LkSG-Risiko
 - Bei Mandant als Auftraggeber Sorgfaltspflicht
 - Skill `lksg-csddd-lieferkettensorgfalt`
 
@@ -231,7 +231,7 @@ Beispiel:
 
 - **EUR 500.000** bei vorsätzlicher Unterschreitung
 - **EUR 30.000** bei fahrlässiger Pflicht-Verletzung
-- **EUR 30.000** bei Verstoss gegen Aufzeichnungs-Pflicht § 17 MiLoG
+- **EUR 30.000** bei Verstoß gegen Aufzeichnungs-Pflicht § 17 MiLoG
 
 ### Ausschluss öffentliche Vergabe § 23 MiLoG
 

@@ -7,29 +7,29 @@ description: "Pflichtversammlung bei Verlust der Haelfte des Stammkapitals Parag
 
 ## Zweck
 
-Wenn die Bilanz zeigt, dass das **Stammkapital zur Haelfte aufgebraucht** ist, muss die Geschaeftsfuehrung **unverzueglich** die Gesellschafterversammlung einberufen (Paragraf 49 III GmbHG). Pflicht zur Information und Beratung der Gesellschafter — Verstoss kann Haftung und Strafbarkeit ausloesen.
+Wenn die Bilanz zeigt, dass das **Stammkapital zur Hälfte aufgebraucht** ist, muss die Geschäftsführung **unverzueglich** die Gesellschafterversammlung einberufen (Paragraf 49 III GmbHG). Pflicht zur Information und Beratung der Gesellschafter — Verstoß kann Haftung und Strafbarkeit ausloesen.
 
 ## 1) Voraussetzungen
 
-### Verlust der Haelfte des Stammkapitals
+### Verlust der Hälfte des Stammkapitals
 
 - Stammkapital z.B. 25.000 EUR -> Eigenkapital unter 12.500 EUR
-- Pruefung anhand der **Zwischen- oder Jahresbilanz** zu Verkehrswerten
-- **Stille Reserven** werden beruecksichtigt
+- Prüfung anhand der **Zwischen- oder Jahresbilanz** zu Verkehrswerten
+- **Stille Reserven** werden berücksichtigt
 - **Pensionsverbindlichkeiten** und stille Lasten werden abgezogen
 
 ### Pflicht zur Erkenntnis
 
-- Geschaeftsfuehrer hat Pflicht zu **laufender Liquiditaets- und Eigenkapital-Beobachtung**
+- Geschäftsführer hat Pflicht zu **laufender Liquiditäts- und Eigenkapital-Beobachtung**
 - Bei Anhaltspunkten: Zwischen-Bilanz erstellen
 
-## 2) Pflichten der Geschaeftsfuehrung
+## 2) Pflichten der Geschäftsführung
 
 ### Unverzueglich
 
 - **Einberufung der Gesellschafterversammlung** (Paragraf 49 III GmbHG)
-- **Information** der Gesellschafter ueber die Lage
-- **Vorschlaege fuer Massnahmen** (Sanierung, Kapitalerhoehung, Restrukturierung)
+- **Information** der Gesellschafter über die Lage
+- **Vorschläge für Maßnahmen** (Sanierung, Kapitalerhöhung, Restrukturierung)
 
 ### Frist
 
@@ -39,7 +39,7 @@ Wenn die Bilanz zeigt, dass das **Stammkapital zur Haelfte aufgebraucht** ist, m
 ### Form
 
 - Standard-Einladung Paragraf 51 GmbHG
-- **Tagesordnung explizit**: „Beratung ueber die Lage der Gesellschaft (Paragraf 49 III GmbHG)"
+- **Tagesordnung explizit**: „Beratung über die Lage der Gesellschaft (Paragraf 49 III GmbHG)"
 
 ## 3) Tagesordnungs-Vorschlag
 
@@ -58,32 +58,32 @@ Wenn die Bilanz zeigt, dass das **Stammkapital zur Haelfte aufgebraucht** ist, m
 5. Sonstiges
 ```
 
-## 4) Pruefung Zahlungsunfaehigkeit / Ueberschuldung Paragraf 15a InsO
+## 4) Prüfung Zahlungsunfähigkeit / Überschuldung Paragraf 15a InsO
 
 ### Pflicht
 
-Bei Erkenntnis des Stammkapital-Verlustes hat GF auch zu pruefen:
+Bei Erkenntnis des Stammkapital-Verlustes hat GF auch zu prüfen:
 
-- **Zahlungsunfaehigkeit** Paragraf 17 InsO: ist die Gesellschaft nicht mehr in der Lage, faellige Verbindlichkeiten zu erfuellen?
-- **Ueberschuldung** Paragraf 19 InsO: liegen die Verbindlichkeiten ueber den verwertbaren Aktiva?
+- **Zahlungsunfähigkeit** Paragraf 17 InsO: ist die Gesellschaft nicht mehr in der Lage, faellige Verbindlichkeiten zu erfüllen?
+- **Überschuldung** Paragraf 19 InsO: liegen die Verbindlichkeiten über den verwertbaren Aktiva?
 
 ### Falls ja
 
 - **Antragspflicht** binnen **3 Wochen** (Paragraf 15a I InsO)
-- **Strafbarkeit** Paragraf 15a IV InsO bei Versaeumnis
-- Pflicht trifft GF persoenlich
+- **Strafbarkeit** Paragraf 15a IV InsO bei Versäumnis
+- Pflicht trifft GF persönlich
 
-### Pruefung
+### Prüfung
 
-- Insolvenz-Berater oder Wirtschaftspruefer zu Rate ziehen
-- Fortbestehensprognose pruefen (Paragraf 19 II InsO)
-- Bei positiver Fortbestehensprognose: keine Ueberschuldung im rechtlichen Sinne
+- Insolvenz-Berater oder Wirtschaftsprüfer zu Rate ziehen
+- Fortbestehensprognose prüfen (Paragraf 19 II InsO)
+- Bei positiver Fortbestehensprognose: keine Überschuldung im rechtlichen Sinne
 
 → `fortbestehensprognose` (vorhandenes Plugin)
 
-## 5) Massnahmen-Optionen
+## 5) Maßnahmen-Optionen
 
-### A. Kapitalerhoehung
+### A. Kapitalerhöhung
 
 - Einbringung weiterer Mittel durch Gesellschafter oder neuen Investor
 - Notar-Beurkundung (Paragraf 55 GmbHG)
@@ -91,11 +91,11 @@ Bei Erkenntnis des Stammkapital-Verlustes hat GF auch zu pruefen:
 
 → `gesellschaftsgruender-kapitalerhoehung-bezugsrecht`
 
-### B. Sanierungs-Massnahmen
+### B. Sanierungs-Maßnahmen
 
 - Forderungsverzicht von Gesellschafter-Darlehen
 - Sanierungs-Kredit
-- Verkauf nicht-betriebsnotwendiger Vermoegens
+- Verkauf nicht-betriebsnotwendiger Vermögens
 - Personalkosten-Senkung
 
 ### C. StaRUG-Restrukturierung
@@ -111,21 +111,21 @@ Bei Erkenntnis des Stammkapital-Verlustes hat GF auch zu pruefen:
 
 - Wenn Insolvenz-Reife
 - Paragraf 15a InsO Pflicht
-- Strafbar bei Versaeumnis
+- Strafbar bei Versäumnis
 
 → `fortbestehensprognose`, `insolvenzplan-starug-planwerkstatt`
 
-## 6) Geschaeftsfuehrer-Haftung bei Versaeumnis
+## 6) Geschäftsführer-Haftung bei Versäumnis
 
 ### Paragraf 49 III GmbHG-Verletzung
 
-- Haftung gegenueber Gesellschaft Paragraf 43 GmbHG
-- Schadensersatz fuer entstandene Schaeden durch verspaetete Reaktion
+- Haftung gegenüber Gesellschaft Paragraf 43 GmbHG
+- Schadensersatz für entstandene Schäden durch verspaetete Reaktion
 
 ### Paragraf 15a InsO-Verletzung
 
-- Haftung fuer **Zahlungen nach Insolvenzreife** § 15b InsO (vormals § 64 GmbHG aF, aufgehoben durch SanInsFoG zum 1.1.2021) gegenueber Gesellschaft, Erstattungsanspruch
-- **Persoenliche Haftung gegenueber Glaeubigern** fuer Schaeden durch verspaetete Insolvenzantragstellung Paragraf 823 II BGB iVm Paragraf 15a InsO
+- Haftung für **Zahlungen nach Insolvenzreife** § 15b InsO (vormals § 64 GmbHG aF, aufgehoben durch SanInsFoG zum 1.1.2021) gegenüber Gesellschaft, Erstattungsanspruch
+- **Persönliche Haftung gegenüber Gläubigern** für Schäden durch verspaetete Insolvenzantragstellung Paragraf 823 II BGB iVm Paragraf 15a InsO
 - **Strafbarkeit** Paragraf 15a IV InsO Freiheitsstrafe bis 3 Jahre
 
 ## 7) Anzeigepflicht im Insolvenzfall
@@ -141,10 +141,10 @@ Bei Erkenntnis des Stammkapital-Verlustes hat GF auch zu pruefen:
 
 ### Mit Insolvenzverwalter
 
-- Geschaeftsfuehrer-Befugnisse gehen ueber auf Insolvenzverwalter
-- Datenzugang fuer Aufklaerung
+- Geschäftsführer-Befugnisse gehen über auf Insolvenzverwalter
+- Datenzugang für Aufklärung
 
-## 8) Beispiel-Bericht der Geschaeftsfuehrung
+## 8) Beispiel-Bericht der Geschäftsführung
 
 ```
 Bericht zur Lage der Gesellschaft
@@ -187,33 +187,33 @@ Empfehlungen der Geschaeftsfuehrung:
 [A / B / C / D — siehe oben]
 ```
 
-## 9) Streit-Konstellation: Welche Massnahme
+## 9) Streit-Konstellation: Welche Maßnahme
 
 ### Investor lehnt KE ab
 
-- KE bedeutet Verwaesserung oder Mehrkosten
-- Investor verlangt stattdessen StaRUG -> Restrukturierung mit Glaeubigerbeteiligung
-- Gruender wollen KE -> Streit
+- KE bedeutet Verwässerung oder Mehrkosten
+- Investor verlangt stattdessen StaRUG -> Restrukturierung mit Gläubigerbeteiligung
+- Gründer wollen KE -> Streit
 
-### Gruender mit Class C lehnen StaRUG ab
+### Gründer mit Class C lehnen StaRUG ab
 
 - Wenn Golden Share mit Restrukturierungs-Vetorecht
-- StaRUG nicht moeglich
+- StaRUG nicht möglich
 - KE oder Insolvenz als Ausweg
 
 → `gesellschaftsgruender-gesellschafterstreit-eilantraege`
 
 ## 10) Praktische Empfehlung
 
-- **Monatliche Liquiditaets-Beobachtung** (Cash-Bestand, Faelligkeiten, Erwartungen)
-- **Quartalsweise Bilanz-Auszug** mit EK-Pruefung
+- **Monatliche Liquiditäts-Beobachtung** (Cash-Bestand, Fälligkeiten, Erwartungen)
+- **Quartalsweise Bilanz-Auszug** mit EK-Prüfung
 - **Bei Anzeichen**: zwischen-Bilanz, Beratung Steuerberater + Insolvenz-Experte
 - **Bei Erkenntnis Paragraf 49 III GmbHG**: sofort GV einberufen
 - **Bei Insolvenzreife**: Paragraf 15a InsO innerhalb 3 Wochen — keine Zeit verlieren
 
 ## Anschluss
 
-- `fortbestehensprognose` — bei Pruefung Ueberschuldung
+- `fortbestehensprognose` — bei Prüfung Überschuldung
 - `krisenfrueherkennung-starug` — bei Restrukturierungs-Option
 - `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — bei KE
-- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit ueber Massnahme
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit über Maßnahme

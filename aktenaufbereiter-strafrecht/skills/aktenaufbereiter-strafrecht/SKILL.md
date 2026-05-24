@@ -16,8 +16,8 @@ Excel weiterverwendbar sind.
 
 Der Skill ersetzt NICHT die eigene Aktenlektüre. Er ist kein
 agentisches System das selbständig verteidigt. Er ist ein Werkzeug
-das die mechanische Vorarbeit beschleunigt und dabei Widersprueche
-und Lücken sichtbar macht die beim Durchblaettern leicht uebersehen
+das die mechanische Vorarbeit beschleunigt und dabei Widersprüche
+und Lücken sichtbar macht die beim Durchblaettern leicht übersehen
 werden.
 
 ## Inputs
@@ -88,7 +88,7 @@ Spalten: Nr — Datum — Blatt — Beteiligte — Vorgang — Anmerkung
 Kanzlei — Anmerkung Mandant.
 
 Lückenlos chronologisch geordnet. Zentrales Arbeitsinstrument
-für Hauptverhandlung Mandantengespraech und Verständigung mit
+für Hauptverhandlung Mandantengespräch und Verständigung mit
 der Staatsanwaltschaft.
 
 ### 6. Fristen- und Terminverzeichnis
@@ -119,7 +119,7 @@ Staatsanwaltschaft Mitverteidiger Nebenklagevertretung.
 - Nur Informationen die in der Akte stehen
 - Keine eigenen Vermutungen oder Wertungen
 - Jede Information mit Band und Blattangabe wenn identifizierbar
-- Widersprueche BEIDE dokumentieren mit Fundstelle
+- Widersprüche BEIDE dokumentieren mit Fundstelle
 - Unsicherheiten kennzeichnen — Beispiel `[Datum unklar]`
   `[Name nur teilweise lesbar]`
 - KEINE rechtliche Bewertung der Vorwuerfe
@@ -135,7 +135,7 @@ Staatsanwaltschaft Mitverteidiger Nebenklagevertretung.
 - `Fristen_<Aktenzeichen>.xlsx`
 
 Alternativ ein Sammel-Workbook `Akte_<Aktenzeichen>.xlsx` mit
-sechs Tabellenblaettern.
+sechs Tabellenblättern.
 
 Auf Wunsch zusätzlich Markdown-Version der Tabellen für offline
 Nutzung bei Gerichtsterminen ohne stabilen Internet-Zugang.
@@ -143,9 +143,9 @@ Nutzung bei Gerichtsterminen ohne stabilen Internet-Zugang.
 ## Fortlaufende Aktualisierung
 
 Bei Nachlieferungen ergänzt der Skill die bestehende Tabelle.
-Neuzugaenge werden in einer Spalte `Status` mit `NEU` markiert
+Neuzugänge werden in einer Spalte `Status` mit `NEU` markiert
 oder in einer separaten Spalte `Eingang` mit Datum versehen.
-Bisherige Einträge werden nicht ueberschrieben.
+Bisherige Einträge werden nicht überschrieben.
 
 Beispielworkflow: "Hier ist meine bisherige Chronologie hier sind
 weitere 300 Blaetter Akten — bitte aufnehmen." Der Skill ergänzt
@@ -160,7 +160,7 @@ Transaktionschronologien Gesellschaftsverflechtungen.
 
 ### BtM-Verfahren
 
-Zusatztabellen: TKUe-Protokolle Observationsberichte Chatverlaeufe
+Zusatztabellen: TKUe-Protokolle Observationsberichte Chatverläufe
 mit Datum Teilnehmern Inhalt-Zusammenfassung.
 
 ### Beweismittelverzeichnis
@@ -178,20 +178,20 @@ Akte gedeckt ist.
 ### Vernehmungsübersicht
 
 Tabelle aller Vernehmungen: Datum — vernehmender Beamter —
-vernommene Person — wesentliche Aussageinhalte — Widersprueche
-zu frueheren Aussagen — Fundstelle.
+vernommene Person — wesentliche Aussageinhalte — Widersprüche
+zu früheren Aussagen — Fundstelle.
 
 ## Beispielformulierungen
 
 - "Erstelle alle sechs Übersichten zu dieser Strafakte. OCR
   ist gemacht."
 - "Hier ist meine bisherige Chronologie und 400 neue Blaetter.
-  Bitte aufnehmen mit Markierung der Neuzugaenge."
+  Bitte aufnehmen mit Markierung der Neuzugänge."
 - "Erzeuge zusätzlich das Wirtschaftsstraf-Set mit
   Finanzstroemen und Kontoverbindungen."
 - "Gleiche die Anklageschrift mit dem Aktenbefund ab und zeige
   Diskrepanzen."
-- "Vernehmungsübersicht mit Widerspruechen zwischen den
+- "Vernehmungsübersicht mit Widersprüchen zwischen den
   einzelnen Aussagen des Zeugen Mueller."
 
 ## Berufsrecht und Datenschutz
@@ -199,7 +199,7 @@ zu frueheren Aussagen — Fundstelle.
 Strafakten enthalten hochsensible personenbezogene Daten. Nutzung
 nur mit KI-Systemen die DSGVO § 203 StGB und §§ 43a 43e BRAO
 vertraglich zusichern und tatsächlich gewährleisten. Verlage
-und Gerichtsentscheidungen — § 5 UrhG — geniessen keinen
+und Gerichtsentscheidungen — § 5 UrhG — genießen keinen
 urheberrechtlichen Schutz; rechtswissenschaftliche Literatur der
 Verlage hingegen schon — Lizenzsituation prüfen.
 
@@ -207,8 +207,8 @@ Verlage hingegen schon — Lizenzsituation prüfen.
 
 Der Skill ist ein Quick Win. Er ersetzt nicht die Welt — er
 beschleunigt das bisherige Verfahren. Wer Chronologien in Excel
-fuehrt fuehrt sie weiter — nur eben schneller und vollständiger.
-Wer im Mandantengespraech präzise auf Blatt 312 zugreifen können
+führt führt sie weiter — nur eben schneller und vollständiger.
+Wer im Mandantengespräch präzise auf Blatt 312 zugreifen können
 muss findet die Stelle in Sekunden statt in Minuten.
 
 ## Werkzeug: `werkzeuge/aktenuebersicht_template.xlsx`

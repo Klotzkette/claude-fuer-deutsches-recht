@@ -78,12 +78,12 @@ Im Liquidation Event: Lender hat Wahlrecht zwischen (a) Rückzahlung Darlehensbe
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
-| Cap unterhalb aktueller Pre-Money-Bewertung | Lender wandelt sofort auf guenstigstem Preis | Cap leicht unter erwartetem Wert | Cap deutlich über aktueller Bewertung |
-| Keine Fall-back-Bewertung bei Maturity | Wandlungsbetrag unberechenbar | Grobe Schaetzung vorhanden | Klarer EUR-Wert vereinbart |
+| Cap unterhalb aktueller Pre-Money-Bewertung | Lender wandelt sofort auf günstigstem Preis | Cap leicht unter erwartetem Wert | Cap deutlich über aktueller Bewertung |
+| Keine Fall-back-Bewertung bei Maturity | Wandlungsbetrag unberechenbar | Grobe Schätzung vorhanden | Klarer EUR-Wert vereinbart |
 | Discount über dreissig Prozent | Verwässerung Altgesellschafterinnen erheblich | Zwanzig bis dreissig Prozent | Unter zwanzig Prozent |
-| MFN ohne Ausnahmen | Alle Folgerunden binden | MFN nur fuer gleiche Stufe | Keine MFN |
+| MFN ohne Ausnahmen | Alle Folgerunden binden | MFN nur für gleiche Stufe | Keine MFN |
 
 ## Querverweise
 

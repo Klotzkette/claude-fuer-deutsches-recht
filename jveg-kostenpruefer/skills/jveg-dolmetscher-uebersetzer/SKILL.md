@@ -3,7 +3,7 @@ name: jveg-dolmetscher-uebersetzer
 description: "Prüft Dolmetscher- und Übersetzervergütung, Stundensatz, Zeilen-/Textumfang, Reisezeiten und Sprach-/Terminlogik."
 ---
 
-# JVEG Dolmetscher Uebersetzer
+# JVEG Dolmetscher Übersetzer
 
 ## Aufgabe
 

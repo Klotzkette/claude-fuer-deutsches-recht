@@ -7,19 +7,19 @@ description: "Tempo-Messung Beweisanfechtung. Standardmessgeraete PoliScan Speed
 
 ## Zweck
 
-Verteidigung bei OWi wegen Geschwindigkeitsueberschreitung.
+Verteidigung bei OWi wegen Geschwindigkeitsüberschreitung.
 
 ## 1) Standardisierte Messverfahren
 
 ### PTB-Zulassung
 
 - Physikalisch-Technische Bundesanstalt-Zulassung
-- Bei zugelassenem Geraet: Standardisiertes Messverfahren
+- Bei zugelassenem Gerät: Standardisiertes Messverfahren
 - Beweis-Erleichterung
 
 ### Gemeinsame Liste
 
-| Geraet | Hersteller |
+| Gerät | Hersteller |
 |---|---|
 | PoliScan Speed | Vitronic |
 | ES 3.0, ES 8.0 | eso |
@@ -38,8 +38,8 @@ Verteidigung bei OWi wegen Geschwindigkeitsueberschreitung.
 
 ### Standard-Akteneinsicht
 
-- Bussgeldbescheid
-- Bei Anfechtung: vollstaendige Akten
+- Bußgeldbescheid
+- Bei Anfechtung: vollständige Akten
 
 ### Mess-Spezifische Unterlagen
 
@@ -63,10 +63,10 @@ Verteidigung bei OWi wegen Geschwindigkeitsueberschreitung.
 
 ### Erschuetterung
 
-- Konkrete Anhaltspunkte fuer Fehler
-- Sachverstaendigen-Gutachten
+- Konkrete Anhaltspunkte für Fehler
+- Sachverständigen-Gutachten
 
-### Pflicht zur Sachverstaendigenauskunft
+### Pflicht zur Sachverständigenauskunft
 
 - BGH-Linie zur erforderlichen Mess-Sicherheit
 - Bei Zweifel: SV-Pflicht Gericht
@@ -77,36 +77,36 @@ Verteidigung bei OWi wegen Geschwindigkeitsueberschreitung.
 
 - Reflektionsobjekt (Hochhaus, Tunnel)
 - Falsche Mess-Position
-- Pruefintervall ueberschritten
-- Software-Update nicht durchgefuehrt
+- Pruefintervall überschritten
+- Software-Update nicht durchgeführt
 
 ### Bedienfehler
 
 - Ausbildungs-Mangel
-- Geraet falsch positioniert
+- Gerät falsch positioniert
 - Mess-Modus falsch
 
-### Geraete-Spezifika
+### Geräte-Spezifika
 
 - LeivTec XV-3: laufende Diskussion
 - ES 3.0: bekannte Schwachstellen bei niedrigen Geschwindigkeiten
 
 ## 6) Workflow Einspruch
 
-### Phase 1 — Bussgeldbescheid
+### Phase 1 — Bußgeldbescheid
 
 - Frist 2 Wochen Einspruch
-- Bei Versaeumnis: Rechtskraft
+- Bei Versäumnis: Rechtskraft
 
 ### Phase 2 — Akteneinsicht
 
 - Antrag schriftlich
-- Vollstaendige Mess-Unterlagen
+- Vollständige Mess-Unterlagen
 
 ### Phase 3 — Verteidigungs-Strategie
 
 - Mangel-Analyse
-- Sachverstaendigen-Einbindung
+- Sachverständigen-Einbindung
 - Verfahrens-Strategie
 
 ### Phase 4 — Hauptverhandlung
@@ -125,12 +125,12 @@ Verteidigung bei OWi wegen Geschwindigkeitsueberschreitung.
 ### Punkte FAER
 
 - Bei zugelassener Fahreignung-Registers
-- 1-3 Punkte je Verstoss
+- 1-3 Punkte je Verstoß
 - 8 Punkte: MPU
 
 ### Fahrverbot
 
-- Ab > 25 km/h innerorts / 26 km/h ausserorts
+- Ab > 25 km/h innerorts / 26 km/h außerorts
 - Bei zweimaliger 21+ innerhalb 12 Monaten: 1 Monat
 - Dauer 1-3 Monate
 
@@ -138,8 +138,8 @@ Verteidigung bei OWi wegen Geschwindigkeitsueberschreitung.
 
 1. **Einspruchsfrist 2 Wochen verpasst**
 2. **Akteneinsicht oberflaechlich**
-3. **Sachverstaendigen-Pruefung versaeumt**
-4. **Geraete-spezifische Schwachstellen** nicht angefuehrt
+3. **Sachverständigen-Prüfung versäumt**
+4. **Geräte-spezifische Schwachstellen** nicht angeführt
 
 ## 9) BGH-/OLG-Linien
 
@@ -149,5 +149,5 @@ Verteidigung bei OWi wegen Geschwindigkeitsueberschreitung.
 ## Anschluss
 
 - `fachanwalt-verkehrsrecht-unfallregulierung-quoten` — bei verbundener Unfallfrage
-- `bussgeld-einspruch-pruefen` (Power-Tool) — Pruefraster
+- `bussgeld-einspruch-pruefen` (Power-Tool) — Prüfraster
 - `verkehrsowi-verteidiger` — bei vertieftem OWi-Verfahren

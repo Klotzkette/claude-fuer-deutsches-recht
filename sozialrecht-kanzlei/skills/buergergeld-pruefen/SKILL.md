@@ -45,7 +45,7 @@ description: Prueft Buergergeld-Bescheide nach SGB II — Regelbedarf (§ 20 SGB
 
 - **Karenzzeit** ein Jahr ab erstmaligem Leistungsbezug — erhebliches Vermögen.
 - **Schonvermögen** § 12 Abs. 4 SGB II — auch nach Karenzzeit.
-- Selbstgenutztes Hausgrundstueck angemessen — bei Mehrheit Schongroessen.
+- Selbstgenutztes Hausgrundstück angemessen — bei Mehrheit Schongroessen.
 
 ### 7. Leistungsminderungen / Sanktionen (§§ 31 ff. SGB II)
 
@@ -76,4 +76,4 @@ description: Prueft Buergergeld-Bescheide nach SGB II — Regelbedarf (§ 20 SGB
 
 - Bei laufendem Bewilligungszeitraum: Änderungsbescheid beantragen wenn sich die Verhältnisse ändern (§ 48 SGB X).
 - Bei Untätigkeit: Untätigkeitsklage nach § 88 SGG.
-- Bei Eilbeduerftigkeit (Wohnungsverlust droht): Eilantrag § 86b SGG.
+- Bei Eilbedürftigkeit (Wohnungsverlust droht): Eilantrag § 86b SGG.

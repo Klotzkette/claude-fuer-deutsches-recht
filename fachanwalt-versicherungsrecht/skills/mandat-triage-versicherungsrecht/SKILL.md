@@ -80,7 +80,7 @@ Versicherungsmandate sind sparten-spezifisch — KFZ-Vollkasko ist anders als BU
 | Deckungsablehnung Sachsparte | `deckungsanfrage-pruefen` | drei Jahre Verjährung |
 | BU-Ablehnung | `deckungsanfrage-pruefen` plus medizinische Gegenbegutachtung | drei Jahre |
 | Leben Todesfall | `deckungsanfrage-pruefen` | drei Jahre |
-| Krankenversicherung medizinische Notwendigkeit | (Skill kv-pruefung — perspektivisch) | drei Jahre |
+| Krankenversicherung medizinische Notwendigkeit | (Skill kv-prüfung — perspektivisch) | drei Jahre |
 | Rechtsschutz Deckungsablehnung | (Skill rs-deckung — perspektivisch) | drei Jahre |
 | Direktanspruch Geschädigter | Skill aus `fachanwalt-verkehrsrecht` `unfall-haftungsquote-berechnen` | drei Jahre |
 | Vermittlerhaftung | (Skill vermittler-haftung — perspektivisch) | drei Jahre |

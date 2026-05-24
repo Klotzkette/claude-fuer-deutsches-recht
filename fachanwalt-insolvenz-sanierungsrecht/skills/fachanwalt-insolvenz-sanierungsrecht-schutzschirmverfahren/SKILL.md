@@ -7,25 +7,25 @@ description: "Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. V
 
 ## Zweck
 
-Sanierungs-Vehikel: Schuldner behaelt Verfuegungsbefugnis, Sachwalter ueberwacht. 3-Monats-Schutz vor Glaeubiger-Massnahmen.
+Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht. 3-Monats-Schutz vor Gläubiger-Maßnahmen.
 
 ## 1) Eingangs-Abfrage
 
-1. Liquiditaets-Lage: Zahlungsunfaehigkeit oder „drohend" § 18 InsO?
-2. Ueberschuldung § 19 InsO?
+1. Liquiditäts-Lage: Zahlungsunfähigkeit oder „drohend" § 18 InsO?
+2. Überschuldung § 19 InsO?
 3. Sanierungs-Aussicht (positive Fortbestehensprognose)?
-4. Anzahl Mitarbeiter / Glaeubiger?
-5. Geplante Sanierungs-Massnahmen?
+4. Anzahl Mitarbeiter / Gläubiger?
+5. Geplante Sanierungs-Maßnahmen?
 6. Schutzschirm-Anwalt bereit?
 
 ## 2) Voraussetzungen § 270d InsO
 
 | Voraussetzung | Inhalt |
 |---|---|
-| Drohende Zahlungsunfaehigkeit oder Ueberschuldung | § 18 / § 19 InsO |
-| **Keine** Zahlungsunfaehigkeit § 17 InsO | Bei Zahlungsunfaehig: nur Eigenverwaltung § 270 InsO |
-| Sanierungs-Aussicht | Pruefer-Bescheinigung |
-| Antrag des Schuldners | Bei Gesellschaft: Geschaeftsfuehrer/Vorstand |
+| Drohende Zahlungsunfähigkeit oder Überschuldung | § 18 / § 19 InsO |
+| **Keine** Zahlungsunfähigkeit § 17 InsO | Bei Zahlungsunfähig: nur Eigenverwaltung § 270 InsO |
+| Sanierungs-Aussicht | Prüfer-Bescheinigung |
+| Antrag des Schuldners | Bei Gesellschaft: Geschäftsführer/Vorstand |
 
 ### Anders als StaRUG
 
@@ -37,12 +37,12 @@ Sanierungs-Vehikel: Schuldner behaelt Verfuegungsbefugnis, Sachwalter ueberwacht
 ### Bestellung
 
 - Vorschlagsrecht des Schuldners (mit anwaltlicher Mitwirkung)
-- Gericht bestellt — ueblich akzeptiert Vorschlag
+- Gericht bestellt — üblich akzeptiert Vorschlag
 
 ### Pflichten Sachwalter
 
-- Ueberwachung Geschaeftsfuehrung
-- Kassenpruefung
+- Überwachung Geschäftsführung
+- Kassenprüfung
 - Berichtspflicht Gericht
 - Insolvenzplan-Mitwirkung
 
@@ -52,7 +52,7 @@ Sanierungs-Vehikel: Schuldner behaelt Verfuegungsbefugnis, Sachwalter ueberwacht
 
 - Vollstreckungsschutz § 21 II Nr. 3 InsO analog
 - Keine Sicherheits-Verwertung
-- Vorlaeufige Eigenverwaltung
+- Vorläufige Eigenverwaltung
 
 ### Schuldner-Pflichten
 
@@ -62,14 +62,14 @@ Sanierungs-Vehikel: Schuldner behaelt Verfuegungsbefugnis, Sachwalter ueberwacht
 
 ### Verfahren
 
-- Schuldner bleibt Verfuegungsberechtigt
+- Schuldner bleibt Verfügungsberechtigt
 - Sachwalter berichtet Gericht
-- Glaeubigerausschuss eingerichtet bei groesseren Verfahren
+- Gläubigerausschuss eingerichtet bei groesseren Verfahren
 
 ## 5) Insolvenz-Geld
 
-- Bundesagentur uebernimmt **3 Monate** Loehne
-- Wichtig fuer Liquiditaet im Sanierungs-Verfahren
+- Bundesagentur übernimmt **3 Monate** Loehne
+- Wichtig für Liquidität im Sanierungs-Verfahren
 - Anspruch der Mitarbeiter, NICHT Schuldner
 
 ## 6) Workflow
@@ -77,76 +77,76 @@ Sanierungs-Vehikel: Schuldner behaelt Verfuegungsbefugnis, Sachwalter ueberwacht
 ### Phase 1 — Vorbereitung (vor Antrag)
 
 - Sanierungs-Gutachten
-- Liquiditaets-Plan 13-Wochen
-- Bescheinigung Pruefer „Sanierung nicht offenbar aussichtslos"
+- Liquiditäts-Plan 13-Wochen
+- Bescheinigung Prüfer „Sanierung nicht offenbar aussichtslos"
 - Sachwalter-Vorschlag
 - Antrag-Entwurf
 
 ### Phase 2 — Antrag
 
 - Schriftlich beim Insolvenzgericht
-- Mit Bescheinigung Pruefer
-- Verzeichnis Glaeubiger / Vermoegen
+- Mit Bescheinigung Prüfer
+- Verzeichnis Gläubiger / Vermögen
 - Vorgeschlagener Sachwalter
 
-### Phase 3 — Schutzschirm-Eroeffnung
+### Phase 3 — Schutzschirm-Eröffnung
 
 - Beschluss Insolvenzgericht (binnen Tagen)
 - Schutzschirm 3 Monate ab Antrag
 
-### Phase 4 — Sanierungs-Massnahmen
+### Phase 4 — Sanierungs-Maßnahmen
 
 - Insolvenzplan-Aufstellung
 - Verhandlungen Lieferanten / Mitarbeiter / Bank
-- Notwendige Kuendigungen (BR-Konsultation)
+- Notwendige Kündigungen (BR-Konsultation)
 
 ### Phase 5 — Insolvenzplan-Verfahren
 
-- Vorgestellt allen Glaeubigern
+- Vorgestellt allen Gläubigern
 - Abstimmung in Klassen § 222 InsO
 - Mehrheits-Erfordernis 50 % nach Kopf + 50 % nach Summe je Klasse
-- Bei Annahme: Gerichts-Bestaetigung
-- Wirkung: Gesellschaft saniert, Glaeubiger erhalten Quote
+- Bei Annahme: Gerichts-Bestätigung
+- Wirkung: Gesellschaft saniert, Gläubiger erhalten Quote
 
 ### Phase 6 — Verfahrensaufhebung
 
-- Mit Plan-Erfuellung
-- Loeschung Insolvenz-Vermerk
+- Mit Plan-Erfüllung
+- Löschung Insolvenz-Vermerk
 
 ## 7) Sanierungs-Optionen im Insolvenzplan
 
-### Sanierungs-Massnahmen
+### Sanierungs-Maßnahmen
 
-- Glaeubiger-Quote (z.B. 20 % der Forderung)
+- Gläubiger-Quote (z.B. 20 % der Forderung)
 - Loehne / Pensionen senken
 - Mitarbeiter-Abbau
 - Verkauf nicht-betriebsnotwendiger Aktiva
-- Debt-Equity-Swap (Glaeubiger werden Gesellschafter)
+- Debt-Equity-Swap (Gläubiger werden Gesellschafter)
 
 ### Investor-Modelle
 
-- Eigenstaendige Investor-Suche
+- Eigenständige Investor-Suche
 - Asset-Deal aus Schutzschirm
 - Doppel-Nettung-Modell
 
 ## 8) Typische Fehler
 
-1. **Antrag bei Zahlungsunfaehigkeit § 17 InsO** — kein Schutzschirm
+1. **Antrag bei Zahlungsunfähigkeit § 17 InsO** — kein Schutzschirm
 2. **Sachwalter-Vorschlag ungeeignet** — Gericht lehnt ab
-3. **Liquiditaets-Plan ueberoptimistisch** — Bescheinigung fragwuerdig
-4. **Insolvenz-Geld nicht beantragt** — Liquiditaets-Engpass
-5. **Insolvenzplan zu spaet** — Schutzschirm laeuft aus
+3. **Liquiditäts-Plan überoptimistisch** — Bescheinigung fragwürdig
+4. **Insolvenz-Geld nicht beantragt** — Liquiditäts-Engpass
+5. **Insolvenzplan zu spaet** — Schutzschirm läuft aus
 
 ## 9) Vergleich StaRUG vs. Schutzschirm vs. Standard-Insolvenz
 
 | Aspekt | StaRUG | Schutzschirm § 270d | Standard-Insolvenz |
 |---|---|---|---|
-| Voraussetzung | drohende Zahlungsunfaehigkeit | drohende ZahlUnfaeh + Sanierungs-Aussicht | Zahlungsunfaehigkeit / Ueberschuldung |
+| Voraussetzung | drohende Zahlungsunfähigkeit | drohende ZahlUnfaeh + Sanierungs-Aussicht | Zahlungsunfähigkeit / Überschuldung |
 | Eigenverwaltung | ja (faktisch) | ja | nein (Standard) |
 | Aufsicht | Restrukturierungsbeauftragter | Sachwalter | Insolvenzverwalter |
-| Glaeubiger-Bindung | nur betroffene | alle (Insolvenzplan) | alle |
+| Gläubiger-Bindung | nur betroffene | alle (Insolvenzplan) | alle |
 | Dauer | flexibel | 3 Monate + Plan-Phase | meist > 1 Jahr |
-| Oeffentlichkeit | nicht-publik moeglich | publik (Insolvenz) | publik |
+| Öffentlichkeit | nicht-publik möglich | publik (Insolvenz) | publik |
 
 ## 10) BGH-Linien
 
@@ -157,4 +157,4 @@ Sanierungs-Vehikel: Schuldner behaelt Verfuegungsbefugnis, Sachwalter ueberwacht
 
 - `krisenfrueherkennung-starug` — bei StaRUG-Alternative
 - `insolvenzplan-starug-planwerkstatt` — bei Plan-Aufstellung
-- `fortbestehensprognose` — bei Pruefung Sanierung
+- `fortbestehensprognose` — bei Prüfung Sanierung

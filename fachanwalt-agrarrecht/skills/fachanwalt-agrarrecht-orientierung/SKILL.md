@@ -14,25 +14,25 @@ description: Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische 
 
 | Bereich | Norm |
 |---|---|
-| Höferecht | HöfeO (Nordrhein-Westfalen Niedersachsen Schleswig-Holstein Hamburg) Anerbenrechte anderer Laender |
-| Landpacht | BGB §§ 581 ff. (Landpachtvertrag) §§ 585 ff. (Landpachtverträge über landwirtschaftliche Grundstuecke) LPachtVG (Landpachtverkehrsgesetz) |
-| Grundstuecksverkehr | GrdstVG (Grundstuecksverkehrsgesetz) Genehmigungspflicht bei Verkauf landwirtschaftlicher Flächen |
+| Höferecht | HöfeO (Nordrhein-Westfalen Niedersachsen Schleswig-Holstein Hamburg) Anerbenrechte anderer Länder |
+| Landpacht | BGB §§ 581 ff. (Landpachtvertrag) §§ 585 ff. (Landpachtverträge über landwirtschaftliche Grundstücke) LPachtVG (Landpachtverkehrsgesetz) |
+| Grundstücksverkehr | GrdstVG (Grundstücksverkehrsgesetz) Genehmigungspflicht bei Verkauf landwirtschaftlicher Flächen |
 | EU-Agrarpolitik | GAP EU-Direktzahlungen-Verordnung 2021/2115 Konditionalitaet Cross-Compliance |
-| Duenge- und Pflanzenschutz | DueV (Duengeverordnung) PflSchG (Pflanzenschutzgesetz) |
+| Duenge- und Pflanzenschutz | DueV (Düngeverordnung) PflSchG (Pflanzenschutzgesetz) |
 | Tierschutz | TierSchG TierSchNutztV |
 | Tierseuchen | TierGesG |
 | Naturschutz | BNatSchG (Bundesnaturschutzgesetz) NatSchG Land |
 | Wasser | WHG (Wasserhaushaltsgesetz) |
 | Forst | BWaldG Landesforstgesetze |
-| Agrar-Foerderung | EU-Gemeinschaftliche Strategien Agrarfoerderung Land |
+| Agrar-Förderung | EU-Gemeinschaftliche Strategien Agrarförderung Land |
 
 ## Typische Mandate
 
 - Hofübergabe / Erbsachen mit landwirtschaftlichem Bezug
 - Landpachtstreit Kündigung Pachtzins Pachtverlängerung
-- Grundstuecksverkehr Genehmigungsverfahren nach GrdstVG
-- EU-Foerderbescheide Direktzahlung Cross-Compliance-Korrektur
-- Duengeverordnung-Verstöße
+- Grundstücksverkehr Genehmigungsverfahren nach GrdstVG
+- EU-Förderbescheide Direktzahlung Cross-Compliance-Korrektur
+- Düngeverordnung-Verstöße
 - Tierseuchen-Bescheide Tierseuchen-Tilgung
 - Pflanzenschutzmittel-Rückruf
 - Naturschutz-Streit Eingriffsregelung
@@ -41,13 +41,13 @@ description: Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische 
 
 - **Hofübergabe** Hofbezugnahme nach Erbfall — siehe Höfeordnung Anerbenrechte.
 - **Landpachtkündigung** § 585 BGB iVm Landpachtvertrag (oft jaehrlich zu festgelegten Terminen).
-- **GrdstVG** Genehmigungsverfahren laeuft über Landwirtschaftsbehörde.
-- **Widerspruch gegen Foerderbescheid** ein Monat (VwGO § 70 / SGG § 84 je nach Behörde).
+- **GrdstVG** Genehmigungsverfahren läuft über Landwirtschaftsbehörde.
+- **Widerspruch gegen Förderbescheid** ein Monat (VwGO § 70 / SGG § 84 je nach Behörde).
 
 ## Hauptforen
 
 - **Landwirtschaftsgericht** (beim AG / LG je Bundesland — Landwirtschaftsverfahren-Gesetz LwVG).
-- **Verwaltungsgericht** bei öffentlich-rechtlichen Foerderbescheiden.
+- **Verwaltungsgericht** bei öffentlich-rechtlichen Förderbescheiden.
 - **BGH** Senat für Landwirtschaftssachen (V. Zivilsenat).
 - **EuGH** bei GAP-Vorabentscheidungen.
 
@@ -65,5 +65,5 @@ description: Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische 
 ## Schnittstellen
 
 - **fachanwalt-erbrecht** bei Hofübergabe.
-- **fachanwalt-verwaltungsrecht** bei Foerderbescheiden.
+- **fachanwalt-verwaltungsrecht** bei Förderbescheiden.
 - **kanzlei-cowork** Fristen Versand.

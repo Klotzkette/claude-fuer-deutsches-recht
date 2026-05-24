@@ -7,14 +7,14 @@ description: "StaRUG und Insolvenzplan: Unterstuetzt Restrukturierungsfaelle: St
 
 ## Zweck
 
-Unterstuetzt Restrukturierungsfaelle: StaRUG-Plan, Insolvenzplan, Distressed M&A, Gläubigerklassen, Planbetroffenheit und Zeitplan.
+Unterstützt Restrukturierungsfälle: StaRUG-Plan, Insolvenzplan, Distressed M&A, Gläubigerklassen, Planbetroffenheit und Zeitplan.
 
 ## Arbeitsmodus
 
 - Krisenphase, Zahlungsfähigkeit, drohende Zahlungsunfähigkeit und Stakeholder erfassen.
 - Planoptionen, Klassenbildung, Eingriffe, Mehrheiten und Gerichtsschritte strukturieren.
 - M&A-Optionen mit Sanierungsplan verzahnen.
-- Liquiditaets- und Insolvenzantragspflichten als rote Schwelle markieren.
+- Liquiditäts- und Insolvenzantragspflichten als rote Schwelle markieren.
 
 ## Rote Schwellen
 

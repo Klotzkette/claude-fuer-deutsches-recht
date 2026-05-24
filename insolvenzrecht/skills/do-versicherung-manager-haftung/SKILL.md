@@ -148,7 +148,7 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 - Verteidigungs-Strategie mit Versicherer abstimmen
 - Anerkenntnis nur mit Versicherer-Zustimmung
 
-### Bei Verstoss
+### Bei Verstoß
 
 - **Leistungs-Kürzung** oder -Verweigerung
 - **§ 28 VVG** bei Obliegenheits-Verletzung
@@ -213,7 +213,7 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 
 #### Materielle Verteidigung
 
-- **Antragspflicht-Versäumnis** dartun warum nicht erkennbar (Liquiditäts-Pruefung sorgfältig erfolgt, IDW S 11 angewendet)
+- **Antragspflicht-Versäumnis** dartun warum nicht erkennbar (Liquiditäts-Prüfung sorgfältig erfolgt, IDW S 11 angewendet)
 - **Zahlungen mit Sorgfalt** vereinbar (Skill `liquiditaetsvorschau-insolvenzrechtlich`)
 - **Sanierungs-Bemühungen** dokumentieren
 - **Sachverständigen-Gegen-Gutachten**
@@ -319,14 +319,14 @@ Mit freundlichen Gruessen
 ## Verzahnung mit anderen Skills
 
 - `antragspflicht-15a-inso` — Antragspflicht-Detail
-- `liquiditaetsvorschau-insolvenzrechtlich` — Liquiditäts-Pruefung
+- `liquiditaetsvorschau-insolvenzrechtlich` — Liquiditäts-Prüfung
 - `mandat-triage-insolvenzrecht` — Krisen-Einstieg
 - `anfechtungsrechte-pruefen` — Anfechtungs-Risiko Prämien
-- `fortbestehensprognose-zusammenfuehren` — Sanierungs-Pruefung
+- `fortbestehensprognose-zusammenfuehren` — Sanierungs-Prüfung
 
 ## Ausgabe
 
-- `do-pruefung-{az}.md` mit Police-Audit Deckungs-Pruefung Anspruch-Analyse
+- `do-pruefung-{az}.md` mit Police-Audit Deckungs-Prüfung Anspruch-Analyse
 - Schadens-Anzeige-Schriftsatz
 - Verteidigungs-Strategie
 - Vergleichs-Optionen-Bewertung

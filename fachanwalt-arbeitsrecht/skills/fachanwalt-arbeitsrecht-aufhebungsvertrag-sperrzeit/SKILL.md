@@ -7,39 +7,39 @@ description: "Aufhebungsvertrag mit Sperrzeit-Vermeidung § 159 SGB III. Wichtig
 
 ## Zweck
 
-Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch die Bundesagentur fuer Arbeit erleidet (§ 159 SGB III).
+Aufhebungsvertrag so gestalten, dass Mandant **keine 12-Wochen-Sperrzeit** durch die Bundesagentur für Arbeit erleidet (§ 159 SGB III).
 
 ## 1) Eingangs-Abfrage
 
 1. Wer initiiert? Arbeitgeber oder Arbeitnehmer?
-2. Drohende **betriebsbedingte Kuendigung**? Konkretisierbar?
+2. Drohende **betriebsbedingte Kündigung**? Konkretisierbar?
 3. Beschaeftigungsdauer und Brutto-Jahresgehalt?
 4. Anwendbarkeit KSchG (Betrieb > 10 AN, > 6 Monate Beschaeftigung)?
-5. Sonderkuendigungsschutz (BR, Schwerbehindert, Schwanger, Eltern)?
+5. Sonderkündigungsschutz (BR, Schwerbehindert, Schwanger, Eltern)?
 6. Bestehende Krankheit, BEM-Verfahren?
 7. Eltern- / Pflegezeit?
 
 ## 2) Sperrzeit-Vermeidung — wichtige Konstellationen
 
-### Konstellation A: Drohende ordentliche AG-Kuendigung
+### Konstellation A: Drohende ordentliche AG-Kündigung
 
 **Anerkannt als wichtiger Grund** (BSG B 11 AL 5/07 R), wenn:
 
-- AG haette ordentlich kuendigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
-- Beendigungszeitpunkt nicht frueher als bei ordentlicher Kuendigung
-- Abfindung **nicht hoeher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (BA-Hinweise zur Faustformel)
+- AG hätte ordentlich kündigen koennen (KSchG-relevanter Grund: betrieblich, personal, verhaltensbedingt)
+- Beendigungszeitpunkt nicht früher als bei ordentlicher Kündigung
+- Abfindung **nicht höher** als 0,5 Brutto-Monatsentgelte pro Beschaeftigungsjahr (BA-Hinweise zur Faustformel)
 
 **Folge**: keine Sperrzeit.
 
-### Konstellation B: Drohende verhaltensbedingte Kuendigung
+### Konstellation B: Drohende verhaltensbedingte Kündigung
 
 - Schwieriger zu argumentieren, da AN-Mitverschulden
 - Bei klarer Pflichtverletzung mit AG-Abmahnung: ggf. wichtiger Grund
 
-### Konstellation C: AN-Initiative aus betrieblichen Gruenden
+### Konstellation C: AN-Initiative aus betrieblichen Gründen
 
 - AN moechte selbst gehen — keine Sperrzeit-Vermeidung
-- Ausnahme: wichtiger Grund (Mobbing, Lohnverzug, Gesundheitsgefaehrdung)
+- Ausnahme: wichtiger Grund (Mobbing, Lohnverzug, Gesundheitsgefährdung)
 
 ## 3) Faustformel Abfindung
 
@@ -52,48 +52,48 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 
 **Verhandlungs-Spielraum**: 0,75-1,5 Brutto-Monatsgehaelter pro Jahr bei aelteren AN oder schwacher AG-Position.
 
-## 4) Steuer: Fuenftel-Regelung § 34 EStG
+## 4) Steuer: Fünftel-Regelung § 34 EStG
 
-- Abfindung kann nach **Fuenftel-Regelung** versteuert werden, wenn Zusammenballung
+- Abfindung kann nach **Fünftel-Regelung** versteuert werden, wenn Zusammenballung
 - Voraussetzung: Abfindung in einem VZ ausgezahlt
-- Antrag in Steuererklaerung
+- Antrag in Steuererklärung
 - Bei AN mit niedrigerem Einkommen besonders attraktiv
 
 ## 5) Krankenversicherung in der Karenzzeit
 
-- Falls AN zu Arbeitslosigkeit zwischen Ausscheiden und neuer Stelle: KV ueber **Arbeitslosengeld** moeglich
+- Falls AN zu Arbeitslosigkeit zwischen Ausscheiden und neuer Stelle: KV über **Arbeitslosengeld** möglich
 - Bei kurzem Arbeitswechsel: Familienversicherung oder freiwillige KV
-- **Achtung**: bei Sperrzeit kein ALG -> KV-Liquiditaet pruefen
+- **Achtung**: bei Sperrzeit kein ALG -> KV-Liquidität prüfen
 
 ## 6) Klausel-Katalog Aufhebungsvertrag
 
 ### Pflicht-Klauseln
 
 - Beendigungs-Zeitpunkt
-- Abfindung mit Faelligkeit (typisch mit letztem Gehalt)
-- Erledigungsklausel (saemtliche Anspruche erledigt)
+- Abfindung mit Fälligkeit (typisch mit letztem Gehalt)
+- Erledigungsklausel (sämtliche Anspruche erledigt)
 - Zeugnis-Anspruch (mind. „gut")
 
 ### Soll-Klauseln
 
 - **Freistellung** unter Anrechnung Resturlaub
-- Verzicht Kuendigungsschutzklage
-- Wettbewerbsverbot ggf. mit Karenz-Entschaedigung
-- Outplacement-Kostenuebernahme
-- **Sperrzeit-Klausel**: „AG bestaetigt, dass der Aufhebungsvertrag zur Vermeidung einer ordentlichen Kuendigung aus betriebsbedingten Gruenden geschlossen wird."
+- Verzicht Kündigungsschutzklage
+- Wettbewerbsverbot ggf. mit Karenz-Entschädigung
+- Outplacement-Kostenübernahme
+- **Sperrzeit-Klausel**: „AG bestätigt, dass der Aufhebungsvertrag zur Vermeidung einer ordentlichen Kündigung aus betriebsbedingten Gründen geschlossen wird."
 
 ### Sprachregelung
 
-- „Betriebsbedingte Kuendigung waere ausgesprochen worden" (Sperrzeit-Schutz)
+- „Betriebsbedingte Kündigung waere ausgesprochen worden" (Sperrzeit-Schutz)
 - Vermeiden: „AN bittet um Aufhebung" (Sperrzeit-Risiko)
 
 ## 7) Workflow
 
 ### Schritt 1 — Mandanten-Beratung
 
-- Sperrzeit-Risiko anhand BA-Hinweise pruefen
+- Sperrzeit-Risiko anhand BA-Hinweise prüfen
 - Abfindungs-Verhandlungsrahmen
-- Alternative: Kuendigungsschutzklage + Vergleich
+- Alternative: Kündigungsschutzklage + Vergleich
 
 ### Schritt 2 — Vor-Verhandlung
 
@@ -113,10 +113,10 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 
 ## 8) Typische Fehler
 
-1. **Sperrzeit-Klausel vergessen**: BA kann trotzdem Sperrzeit verhaengen
+1. **Sperrzeit-Klausel vergessen**: BA kann trotzdem Sperrzeit verhängen
 2. **Abfindung > 0,5 Faustformel**: BA-Risiko erhoeht
-3. **Eigene Kuendigung statt Aufhebung**: Sperrzeit fast garantiert
-4. **Sonderkuendigungsschutz uebersehen**: Aufhebungsvertrag kann unwirksam sein (Schwangerschaft, BR-Mitglied)
+3. **Eigene Kündigung statt Aufhebung**: Sperrzeit fast garantiert
+4. **Sonderkündigungsschutz übersehen**: Aufhebungsvertrag kann unwirksam sein (Schwangerschaft, BR-Mitglied)
 5. **Wettbewerbsverbot ohne Karenz**: bei laufendem Vertrag schaedlich
 
 ## 9) BSG-Linien

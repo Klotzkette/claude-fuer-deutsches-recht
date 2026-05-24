@@ -13,7 +13,7 @@ Seit 2.7.2023 ist das HinSchG in Kraft (Umsetzung EU-RL 2019/1937). Dieses Skill
 
 - Konstellation (Beschäftigter / Arbeitgeber)
 - Beschäftigten-Zahl des Arbeitgebers (Schwellenwerte)
-- Meldung-Inhalt (welcher Verstoss?)
+- Meldung-Inhalt (welcher Verstoß?)
 - Bisheriger Schriftwechsel
 - Folge-Maßnahmen des Arbeitgebers (bei Beschäftigten-Konstellation)
 - Kanal-Struktur (intern extern öffentlich)

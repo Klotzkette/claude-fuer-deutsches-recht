@@ -7,12 +7,12 @@ description: "Genehmigtes Kapital Paragraf 55a GmbHG. Vorratsbeschluss der Gesel
 
 ## Zweck
 
-Das **genehmigte Kapital** ist ein Vorratsbeschluss der Gesellschafterversammlung, der die Geschaeftsfuehrung ermaechtigt, das Stammkapital bis zu einem bestimmten Hoechstbetrag ohne weiteren GV-Beschluss zu erhoehen. Erleichtert spaetere Finanzierungsrunden, Mitarbeiter-Beteiligungen oder die Wandlung von Wandeldarlehen.
+Das **genehmigte Kapital** ist ein Vorratsbeschluss der Gesellschafterversammlung, der die Geschäftsführung ermaechtigt, das Stammkapital bis zu einem bestimmten Hoechstbetrag ohne weiteren GV-Beschluss zu erhöhen. Erleichtert spätere Finanzierungsrunden, Mitarbeiter-Beteiligungen oder die Wandlung von Wandeldarlehen.
 
 ## 1) Rechtsgrundlagen
 
 - **Paragraf 55a GmbHG**: genehmigtes Kapital
-- **Paragrafen 55 ff. GmbHG**: ordentliche Kapitalerhoehung (zum Vergleich)
+- **Paragrafen 55 ff. GmbHG**: ordentliche Kapitalerhöhung (zum Vergleich)
 
 ## 2) Voraussetzungen
 
@@ -23,9 +23,9 @@ Das **genehmigte Kapital** ist ein Vorratsbeschluss der Gesellschafterversammlun
 
 ### Inhalt
 
-- **Hoechstbetrag** der Erhoehung: max. **50 %** des bisherigen Stammkapitals (Paragraf 55a I 1 GmbHG)
+- **Hoechstbetrag** der Erhöhung: max. **50 %** des bisherigen Stammkapitals (Paragraf 55a I 1 GmbHG)
 - **Geltungsdauer**: max. **5 Jahre** ab Eintragung der Satzungsaenderung
-- **Klassen-Festlegung**: welche Klasse(n) bei Erhoehung ausgegeben werden
+- **Klassen-Festlegung**: welche Klasse(n) bei Erhöhung ausgegeben werden
 - **Bedingungen**: an wen, zu welchem Preis, mit welchen Rechten
 
 ## 3) Beispiel-Satzungs-Klausel
@@ -63,40 +63,40 @@ versammlung mit einfacher Mehrheit beschlossen.
 
 - Investor gibt Wandeldarlehen vor Series A
 - Bei Series A wandelt sich Darlehen in Anteile
-- Wandlung erfolgt durch Beschluss der Geschaeftsfuehrung aus dem genehmigten Kapital — **ohne** weiteren GV-Beschluss
+- Wandlung erfolgt durch Beschluss der Geschäftsführung aus dem genehmigten Kapital — **ohne** weiteren GV-Beschluss
 
 ### Mitarbeiter-Beteiligung (ESOP / VSOP)
 
 - Mitarbeiter erhalten Anteilsoptionen
-- Bei Ausuebung: Erhoehung aus genehmigtem Kapital
-- Vermeidet wiederholte GV-Beschluesse
+- Bei Ausübung: Erhöhung aus genehmigtem Kapital
+- Vermeidet wiederholte GV-Beschlüsse
 
 ### Series-A-Investor
 
 - Investor verlangt schnelle Eintragung
 - Mit genehmigtem Kapital: Notar-Termin, Beschluss aus genehmigtem Kapital, Eintragung HR
-- Ohne genehmigtes Kapital: zusaetzliche GV-Einberufung mit 1-2 Wochen Vorlauf
+- Ohne genehmigtes Kapital: zusätzliche GV-Einberufung mit 1-2 Wochen Vorlauf
 
-## 5) Beschluss-Verfahren bei Ausuebung
+## 5) Beschluss-Verfahren bei Ausübung
 
 ### Schritt 1: GF-Beschluss
 
-- Geschaeftsfuehrung beschliesst Kapitalerhoehung aus dem genehmigten Kapital
+- Geschäftsführung beschließt Kapitalerhöhung aus dem genehmigten Kapital
 - Beschluss mit allen Bedingungen (Klasse, Preis, Bezugsrecht)
 
 ### Schritt 2: Notar-Beurkundung
 
-- Beurkundung der Erhoehung
-- **Bei Bezugsrechtsausschluss**: zusaetzlich GV-Beschluss mit 75 %-Mehrheit erforderlich (Paragraf 55a IV GmbHG)
+- Beurkundung der Erhöhung
+- **Bei Bezugsrechtsausschluss**: zusätzlich GV-Beschluss mit 75 %-Mehrheit erforderlich (Paragraf 55a IV GmbHG)
 
 ### Schritt 3: Einzahlung
 
 - Wie bei normaler KE: Bareinlage muss vor Anmeldung erbracht sein
-- Bei Sacheinlage: Sachgruendungsbericht aequivalent (Paragraf 56 GmbHG)
+- Bei Sacheinlage: Sachgründungsbericht aequivalent (Paragraf 56 GmbHG)
 
 ### Schritt 4: Anmeldung HR
 
-- Mit Bestaetigung der Einzahlung
+- Mit Bestätigung der Einzahlung
 - Aktualisierte Gesellschafterliste
 
 ## 6) Bezugsrechtsausschluss
@@ -104,17 +104,17 @@ versammlung mit einfacher Mehrheit beschlossen.
 ### Konzept
 
 - Beim Ausgleichen von Anteilen erhalten bestehende Gesellschafter Bezugsrecht (Paragraf 55 II GmbHG)
-- Ausschluss moeglich, aber begruendungsbeduerftig
+- Ausschluss möglich, aber begründungsbedürftig
 
-### Begruendung
+### Begründung
 
 - Sachlich gerechtfertigt: z.B. Strategischer Investor, der nur ohne Bezugsrechte einsteigt
-- Verhaeltnismaessig: nicht ueber das hinausgehend, was Zweck erfordert
-- Angemessen: keine Verwaesserung zum Schaden Minderheits-Gesellschafter ohne sachlichen Grund
+- Verhältnismaessig: nicht über das hinausgehend, was Zweck erfordert
+- Angemessen: keine Verwässerung zum Schaden Minderheits-Gesellschafter ohne sachlichen Grund
 
 ### Anfechtbarkeit
 
-- Bei unbegruendetem Bezugsrechtsausschluss
+- Bei unbegründetem Bezugsrechtsausschluss
 - Anfechtungsklage gegen den Beschluss
 
 → `gesellschaftsgruender-kapitalerhoehung-bezugsrecht`
@@ -129,23 +129,23 @@ versammlung mit einfacher Mehrheit beschlossen.
 
 ### Contra genehmigtes Kapital
 
-- Reduziert Investor-Verhandlungs-Kontrolle bei kuenftigen Erhoehungen
-- Bei aggressiv gewaehltem Hoechstbetrag: Verwaesserungsangst der bestehenden Gesellschafter
+- Reduziert Investor-Verhandlungs-Kontrolle bei kuenftigen Erhöhungen
+- Bei aggressiv gewähltem Hoechstbetrag: Verwässerungsangst der bestehenden Gesellschafter
 
 ### Empfehlung
 
 - **Bei Tech-Startup mit absehbarer Series A**: genehmigtes Kapital von Anfang an
-- **Bei Solo-Gruender ohne Investor**: nicht zwingend, kann spaeter beschlossen werden
+- **Bei Solo-Gründer ohne Investor**: nicht zwingend, kann später beschlossen werden
 - **Hoechstbetrag**: typisch 40-50 % des Stammkapitals
 
-## 8) Erlöschen / Verlaengerung
+## 8) Erlöschen / Verlängerung
 
-### Automatisches Erloeschen
+### Automatisches Erlöschen
 
 - Nach 5 Jahren ab Eintragung (Paragraf 55a I 1 GmbHG)
 - Nach Vollausschoepfung des Hoechstbetrags
 
-### Verlaengerung
+### Verlängerung
 
 - Durch neuen Vorratsbeschluss
 - 75 %-Mehrheit, Notar-Beurkundung
@@ -154,12 +154,12 @@ versammlung mit einfacher Mehrheit beschlossen.
 ## 9) Typische Stolpersteine
 
 1. **Hoechstbetrag zu niedrig**: bei Anwendung schon ausgeschoepft, neuer Beschluss erforderlich.
-2. **Bezugsrechtsausschluss ohne 75 %-Beschluss**: Erhoehung anfechtbar.
+2. **Bezugsrechtsausschluss ohne 75 %-Beschluss**: Erhöhung anfechtbar.
 3. **Bezugsrechtsausschluss ohne sachliche Rechtfertigung**: anfechtbar.
-4. **Geltungsdauer abgelaufen**: ohne Verlaengerung keine Anwendung.
+4. **Geltungsdauer abgelaufen**: ohne Verlängerung keine Anwendung.
 5. **Falsche Klassen-Ausgabe**: Beschluss-Vorlage muss klar bezeichnen, welche Klasse ausgegeben wird.
 
-## 10) Konsequenzen fuer Cap Table
+## 10) Konsequenzen für Cap Table
 
 Bei Vorratsbeschluss zeigt der Cap Table:
 
@@ -175,6 +175,6 @@ Pro forma Verwaesserung
 ## Anschluss
 
 - `gesellschaftsgruender-cap-table` — Auswirkung im Cap Table
-- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — bei konkreter Erhoehung
+- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — bei konkreter Erhöhung
 - `gesellschaftsgruender-share-classes-a-b-c` — Klassen-Festlegung
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Klausel in Satzung

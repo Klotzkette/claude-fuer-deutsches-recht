@@ -7,47 +7,47 @@ description: "Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 M
 
 ## Zweck
 
-Mandate rund um landwirtschaftliche Pachtvertraege — Pachtanzeige, Aufhebung, Anpassung, Verlaengerung, Streitwert.
+Mandate rund um landwirtschaftliche Pachtverträge — Pachtanzeige, Aufhebung, Anpassung, Verlängerung, Streitwert.
 
 ## 1) Eingangs-Abfrage
 
-1. Pachtgegenstand: nur Acker/Gruenland oder mit Gebauden / Hofstelle?
+1. Pachtgegenstand: nur Acker/Grünland oder mit Gebauden / Hofstelle?
 2. Pachtdauer und Beginn?
 3. Pachtzins (Euro/ha) und Index-Klausel?
 4. Schriftform gewahrt (§ 585a BGB)?
 5. **Pachtanzeige** beim Landwirtschaftsamt erfolgt (§ 2 LPachtVG)?
-6. Verlaengerungs-Option oder befristet auslaufend?
+6. Verlängerungs-Option oder befristet auslaufend?
 7. Beidseitige Bewirtschaftungslage (Ertragsanstieg/-rueckgang seit Vertragsschluss)?
 
 ## 2) Pachtanzeige § 2 LPachtVG
 
 - Anzeige binnen **1 Monat** nach Vertragsschluss beim Landwirtschaftsamt
-- Bei Versaeumnis: **Vertrag bleibt wirksam**, aber Bussgeld
-- Behoerde prueft auf Beanstandungsgruende (§ 4 LPachtVG): grobe Disparitaet Pachtzins, Verschlechterung Agrarstruktur, unbillige Bedingungen
+- Bei Versäumnis: **Vertrag bleibt wirksam**, aber Bußgeld
+- Behörde prüft auf Beanstandungsgründe (§ 4 LPachtVG): grobe Disparitaet Pachtzins, Verschlechterung Agrarstruktur, unbillige Bedingungen
 
 ### Beanstandungsgrund: ungesunde Verteilung Bodennutzung
 
-Wenn Verpaechter bereits ueber 2 ha verpachtet und Paechter mit deutlich juengerer Existenz bevorzugt waere — Beanstandung moeglich.
+Wenn Verpaechter bereits über 2 ha verpachtet und Paechter mit deutlich juengerer Existenz bevorzugt waere — Beanstandung möglich.
 
 ## 3) Pachtzins-Anpassung § 593 BGB
 
 ### Voraussetzungen
 
-- **Wesentliche Aenderung der Verhaeltnisse** seit Vertragsschluss (Klima, Markt, Subventionen)
+- **Wesentliche Änderung der Verhältnisse** seit Vertragsschluss (Klima, Markt, Subventionen)
 - **Erst nach 3 Jahren** seit Vertragsschluss oder letzter Anpassung
-- Aenderung muss zu unbilliger Vorenthaltung der Aenderungs-Pflicht fuehren
+- Änderung muss zu unbilliger Vorenthaltung der Änderungs-Pflicht führen
 
 ### Praxis
 
 - Anpassung meist nach **Pachtpreisspiegel** des Landwirtschaftsamtes
-- Bei Streit: Sachverstaendiger zur Ertragslage
-- BGH-Linie: Aenderung muss erheblich und dauerhaft sein (BGH NJW-RR 2017, 1227)
+- Bei Streit: Sachverständiger zur Ertragslage
+- BGH-Linie: Änderung muss erheblich und dauerhaft sein (BGH NJW-RR 2017, 1227)
 
-## 4) Verlaengerung des Pachtvertrags § 595 BGB
+## 4) Verlängerung des Pachtvertrags § 595 BGB
 
 - **9 Jahre Standard-Laufzeit** bei Landpacht ohne abweichende Vereinbarung (§ 585a BGB)
-- Kuendigung mit **2-Jahres-Frist** bei laenger als 9-jaehriger Laufzeit (§ 594a BGB)
-- Bei Versaeumnis fristgerechte Kuendigung: **Vertrag verlaengert sich um 9 Jahre**
+- Kündigung mit **2-Jahres-Frist** bei laenger als 9-jaehriger Laufzeit (§ 594a BGB)
+- Bei Versäumnis fristgerechte Kündigung: **Vertrag verlaengert sich um 9 Jahre**
 
 ## 5) Vorpachtrecht § 588 BGB
 
@@ -55,18 +55,18 @@ Wenn Verpaechter bereits ueber 2 ha verpachtet und Paechter mit deutlich juenger
 - Frist: 2 Monate ab Mitteilung des Kaufvertrags
 - Bei Mehrere Paechter: anteilig
 
-## 6) Hofuebergabe-Konstellationen
+## 6) Hofübergabe-Konstellationen
 
 ### Konstellation 1: Verpachtung an Altenteiler
 
-- Hofnachfolger uebernimmt Hof
-- Altbauern bleiben auf Hofstelle, verpachten Flaechen an Sohn
+- Hofnachfolger übernimmt Hof
+- Altbauern bleiben auf Hofstelle, verpachten Flächen an Sohn
 - Klassische Konstellation, oft Schriftform-Problem
 
 ### Konstellation 2: Verpachtung an Dritten
 
 - Hof an externen Paechter
-- Hoeferecht / BGB-Erbrecht Konstellation pruefen
+- Hoeferecht / BGB-Erbrecht Konstellation prüfen
 - BFH-Linie zu Hofnachfolge-Pacht
 
 ## 7) Workflow Streit-Fall
@@ -74,31 +74,31 @@ Wenn Verpaechter bereits ueber 2 ha verpachtet und Paechter mit deutlich juenger
 ### Schritt 1 — Bestandsaufnahme
 
 - Pachtvertrag, Pachtanzeige, Bewirtschaftungs-Nachweise
-- Vorjahres-Buchhaltung (Schwarz-Buch / Steuererklaerung)
+- Vorjahres-Buchhaltung (Schwarz-Buch / Steuererklärung)
 - Pachtpreisspiegel der Region
 
 ### Schritt 2 — Verhandlung
 
-- Aussergerichtliche Loesung typisch ueber Landwirtschafts-Schiedsstelle (LWA-Vorpruefung)
-- Sachverstaendiger bei Streit ueber Ertragslage
+- Außergerichtliche Lösung typisch über Landwirtschafts-Schiedsstelle (LWA-Vorprüfung)
+- Sachverständiger bei Streit über Ertragslage
 
 ### Schritt 3 — Klage
 
-- **Sachliche Zustaendigkeit**: **Landwirtschaftsgericht** beim Amtsgericht oder Landgericht je nach Streitwert
+- **Sachliche Zuständigkeit**: **Landwirtschaftsgericht** beim Amtsgericht oder Landgericht je nach Streitwert
 - Klage- oder Eilantrag (z.B. Pacht-Zwangsversteigerung verhindern)
 - Streitwert: kapitalisierter Pacht-Streit (4-facher Jahres-Pachtzins, § 9 ZPO analog)
 
 ## 8) Typische Fehler
 
-1. **Pachtanzeige uebersehen** — Bussgeld, kein Vertrags-Mangel
-2. **Schriftform § 585a BGB nicht beachtet** — Verlaengerung droht
+1. **Pachtanzeige übersehen** — Bußgeld, kein Vertrags-Mangel
+2. **Schriftform § 585a BGB nicht beachtet** — Verlängerung droht
 3. **Pacht-Anpassung ohne 3-Jahres-Wartezeit** — Klage scheitert
 4. **Vorpacht-Recht zu spaet ausgeueubt** — verjaehrt nach 2 Monaten
 
 ## 9) Honorar
 
 - RVG nach Streitwert (4-facher Jahres-Pachtzins als Klagewert)
-- Bei Verhandlung: Geschaeftsgebuehr 1,3
+- Bei Verhandlung: Geschäftsgebuehr 1,3
 - Klage: Verfahrens- und Terminsgebuehr je 1,3
 
 ## Anschluss

@@ -7,14 +7,14 @@ description: "Distressed M&A: Führt Unternehmenskauf in Krise, vorlaeufiger Ins
 
 ## Zweck
 
-Führt Unternehmenskauf in Krise, vorlaeufiger Insolvenz, Insolvenzplan oder Asset Deal aus der Insolvenz.
+Führt Unternehmenskauf in Krise, vorläufiger Insolvenz, Insolvenzplan oder Asset Deal aus der Insolvenz.
 
 ## Arbeitsmodus
 
 - Status der Krise und Verfahrensstand erfassen.
-- Asset Deal/Share Deal/Planloesung vergleichen.
+- Asset Deal/Share Deal/Planlösung vergleichen.
 - Sicherheiten, Eigentum, Arbeitnehmerübergang, Anfechtung und Massefragen markieren.
-- Closing-Faehigkeit und Zustimmungserfordernisse prüfen.
+- Closing-Fähigkeit und Zustimmungserfordernisse prüfen.
 
 ## Rote Schwellen
 

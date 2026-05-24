@@ -9,7 +9,7 @@ description: Bearbeitet eingehende mietrechtliche Anfragen — Mietmaengelanzeig
 
 Wiederkehrende Mieteranfragen werden in der Praxis manuell beantwortet,
 obwohl die Antworten in 80 Prozent der Fälle musterhaft sind. Der Skill
-klassifiziert, wählt das passende Muster, befuellt es mit den konkreten
+klassifiziert, wählt das passende Muster, befüllt es mit den konkreten
 Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 
 ## Inputs
@@ -26,7 +26,7 @@ Sachverhaltselementen und ergänzt aktuelle BGH-Rechtsprechung.
 - Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB
 - Mieterhöhung nach § 558 BGB ortsübliche Vergleichsmiete
 - Mieterhöhung nach § 559 BGB Modernisierung
-- Widerspruch nach § 574 BGB Haerteklausel
+- Widerspruch nach § 574 BGB Härteklausel
 - Betriebskostenabrechnung — Prüfung Einwendungen § 556 Abs. 3 BGB
 - Untervermietung § 553 BGB
 - Mietkautionsrückforderung § 551 BGB
@@ -63,7 +63,7 @@ Bei folgenden Konstellationen erzeugt der Skill nur einen Entwurf MIT
 Warnsiegel, weil Einzelfallbewertung zwingend ist:
 
 - Kündigung wegen Pflichtverletzung mit unklarer Beweislage
-- Eigenbedarf mit Haerteeinrede § 574 BGB
+- Eigenbedarf mit Härteeinrede § 574 BGB
 - Mietminderung mit Schimmel und Streit über Ursache
 - Mietpreisbremse mit Bestandsschutz-Fragen
 - Gewerbemiete mit Schriftform-Risiko § 550 BGB
@@ -72,7 +72,7 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 
 - "Mieter ruegt Schimmel im Bad und mindert um 20 Prozent. Entwirf
   Antwort und Aktenvermerk."
-- "Mieter widerspricht Kündigung mit Haerte nach § 574 BGB. Welche
+- "Mieter widerspricht Kündigung mit Härte nach § 574 BGB. Welche
   Linie schlagen wir vor?"
 - "Mietkautionsrückforderung mit Abrechnung anbei. Prüfe und
   antworte."

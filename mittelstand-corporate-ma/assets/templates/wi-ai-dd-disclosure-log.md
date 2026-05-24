@@ -1,4 +1,4 @@
-# Transparenzlog für KI-gestuetzte DD im W&I-Prozess.
+# Transparenzlog für KI-gestützte DD im W&I-Prozess.
 
 ## Kontext
 

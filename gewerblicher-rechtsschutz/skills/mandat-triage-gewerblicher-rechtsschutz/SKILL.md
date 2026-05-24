@@ -91,7 +91,7 @@ Gewerblicher Rechtsschutz ist hochspezialisiert nach Schutzrecht (Marke Patent D
 | Erfindungsmeldung Aufnahme | `erfindungsmeldung-aufnahme` |
 | FTO Freedom to Operate | `fto-triage` |
 | IP-Klausel Vertrag | `ip-klausel-pruefung` |
-| Open Source Pruefung | `open-source-pruefung` |
+| Open Source Prüfung | `open-source-pruefung` |
 | Verletzungs-Triage | `verletzungs-triage` |
 | Abmahnung Urheber | `abmahnung-urheberrecht` |
 | Takedown-Anweisung | `takedown-anweisung` |
@@ -99,7 +99,7 @@ Gewerblicher Rechtsschutz ist hochspezialisiert nach Schutzrecht (Marke Patent D
 | Streitwert-Bestimmung | `streitwert-igr-berechnen` |
 | UWG-Wettbewerbsrecht | (Skill uwg-verstoss-pruefen — perspektivisch) |
 | Patent-Nichtigkeit | (Skill patent-nichtigkeit — perspektivisch) |
-| Geschäftsgeheimnis GeschGehG | (Skill geschaeftsgeheimnis — perspektivisch) |
+| Geschäftsgeheimnis GeschGehG | (Skill geschäftsgeheimnis — perspektivisch) |
 
 ## Mandatsannahme
 

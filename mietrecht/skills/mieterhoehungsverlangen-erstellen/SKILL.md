@@ -21,7 +21,7 @@ Ein formal oder materiell fehlerhaftes Mieterhöhungsverlangen ist unwirksam —
 
 ### Schritt 2 — Wartefrist (§ 558 Abs. 1 BGB)
 
-- Die neue Miete darf fruehestens **fünfzehn Monate** nach Einzug oder nach Wirksamwerden der letzten Erhöhung verlangt werden.
+- Die neue Miete darf frühestens **fünfzehn Monate** nach Einzug oder nach Wirksamwerden der letzten Erhöhung verlangt werden.
 - Berechnung dokumentieren — sonst Risiko der Unwirksamkeit.
 
 ### Schritt 3 — Kappungsgrenze (§ 558 Abs. 3 BGB)
@@ -54,7 +54,7 @@ Ein formal oder materiell fehlerhaftes Mieterhöhungsverlangen ist unwirksam —
 
 - Wartefrist fünfzehn Monate erfüllt.
 - Kappungsgrenze eingehalten.
-- Mietspiegel oder Gutachten oder drei Vergleichswohnungen als Begründung beigefuegt.
+- Mietspiegel oder Gutachten oder drei Vergleichswohnungen als Begründung beigefügt.
 - Alle Mieter namentlich adressiert.
 - Wirksamkeitstermin korrekt berechnet (Beginn des dritten Kalendermonats nach Zugang).
 - Bei Mietpreisbremse-Gebiet prüfen ob die neue Miete nach Erhöhung noch innerhalb der Vergleichsmiete plus zehn Prozent liegt.

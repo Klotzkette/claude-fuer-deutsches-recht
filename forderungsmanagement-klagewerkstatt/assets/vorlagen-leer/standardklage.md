@@ -47,7 +47,7 @@ Es wird angeregt, im schriftlichen Vorverfahren (§ 276 ZPO) zu entscheiden.
 
 ### II. Rechtliche Würdigung
 
-{{rechtliche_wuerdigung}}
+{{rechtliche_würdigung}}
 
 ### III. Zuständigkeit
 

@@ -7,7 +7,7 @@ description: "Kommerzielle Vertrags-DD: Prüft Kunden-, Lieferanten-, Haendler-,
 
 ## Zweck
 
-Prüft Kunden-, Lieferanten-, Haendler-, SaaS-, Lizenz- und Materialvertraege auf Change of Control, Kündigung, Exklusivitaet, Haftung, IP und Preisrisiken.
+Prüft Kunden-, Lieferanten-, Händler-, SaaS-, Lizenz- und Materialverträge auf Change of Control, Kündigung, Exklusivität, Haftung, IP und Preisrisiken.
 
 ## Arbeitsmodus
 

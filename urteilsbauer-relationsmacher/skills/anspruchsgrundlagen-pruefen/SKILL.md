@@ -3,9 +3,9 @@ name: anspruchsgrundlagen-pruefen
 description: "Identifiziert die einschlaegigen Anspruchsgrundlagen aus BGB HGB CISG GmbHG StVG ProdHG und Spezialgesetzen Reihenfolge vertraglich quasi-vertraglich dinglich deliktisch bereicherungsrechtlich. Pruefungsschema fuer jede Anspruchsgrundlage mit Tatbestandsmerkmalen Rechtsfolge Einwendungen Einreden Verjaehrung. Beruecksichtigt Internationales Privatrecht Rom-I und Rom-II."
 ---
 
-# Anspruchsgrundlagen-Pruefung
+# Anspruchsgrundlagen-Prüfung
 
-Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prueft sie schemamaessig.
+Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie schemamaessig.
 
 ## Reihenfolge
 
@@ -16,9 +16,9 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prueft sie sche
 5. **Bereicherungsrechtlich** (Paragraf 812 ff BGB)
 6. **Familien- / erbrechtlich** soweit einschlaegig
 
-## Pruefschema fuer jede Anspruchsgrundlage
+## Pruefschema für jede Anspruchsgrundlage
 
-1. Anwendbarkeit (sachlich, persoenlich, raeumlich, zeitlich)
+1. Anwendbarkeit (sachlich, persönlich, raeumlich, zeitlich)
 2. Tatbestandsmerkmale - bei jedem: Wer hat die Beweislast?
 3. Rechtsfolge
 4. Einwendungen (rechtshindernd, rechtsvernichtend)
@@ -27,9 +27,9 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prueft sie sche
 
 ## IPR
 
-Bei Auslandsbezug immer pruefen:
-- Rom-I-Verordnung (vertragliche Schuldverhaeltnisse)
-- Rom-II-Verordnung (ausservertragliche Schuldverhaeltnisse)
+Bei Auslandsbezug immer prüfen:
+- Rom-I-Verordnung (vertragliche Schuldverhältnisse)
+- Rom-II-Verordnung (außervertragliche Schuldverhältnisse)
 - CISG (Wiener UN-Kaufrecht) als materielles Einheitsrecht - geht IPR vor, soweit sachlicher Anwendungsbereich eroeffnet
 - Eingriffsnormen Artikel 9 Rom-I (Pflichtanwendung deutscher Vorschriften, z. B. DSGVO als Eingriffsnorm)
 

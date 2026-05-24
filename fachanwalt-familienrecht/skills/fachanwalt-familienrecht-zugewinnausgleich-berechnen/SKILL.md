@@ -77,7 +77,7 @@ Mit kollegialen Gruessen
 
 ## Übergabe
 
-- Bei Verweigerung: Stufenklage Auskunft + eidesstattliche Versicherung + Zahlung beim Familiengericht (Gueterrechtssache § 261 FamFG; Zustaendigkeit § 262 FamFG i.V.m. §§ 23a, 23b GVG).
+- Bei Verweigerung: Stufenklage Auskunft + eidesstattliche Versicherung + Zahlung beim Familiengericht (Gueterrechtssache § 261 FamFG; Zuständigkeit § 262 FamFG i.V.m. §§ 23a, 23b GVG).
 - Bei Auslandsvermögen Auskunftsanspruch erstreckt sich auch auf ausländisches Vermögen.
 - Bei Unternehmenswerten Sachverständigengutachten zur Bewertung notwendig — Kosten regelmäßig vorzustrecken.
 - Anschluss: Skill `fachanwalt-familienrecht-scheidungsantrag-stellen` bei Verbund nach § 137 FamFG.

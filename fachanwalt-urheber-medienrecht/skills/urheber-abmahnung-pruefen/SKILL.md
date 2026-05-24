@@ -157,5 +157,5 @@ Bei Fehler unbegründete Abmahnung — Gegenanspruch § 97a Abs. 4 UrhG.
 - DSA Art. 4 (VO (EU) 2022/2065) Access-Provider-Privilegierung
 - DDG §§ 7 8 (seit 14.05.2024 ersetzt TMG; § 8 = Sperranspruch)
 - BGH I. Zivilsenat VI. Zivilsenat
-- Schricker/Loewenheim UrhG
+- Schricker/Löwenheim UrhG
 - Dreier/Schulze UrhG

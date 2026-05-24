@@ -41,14 +41,14 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 - Kontosperre (Geldwäsche-Verdacht oder AGB-Kündigung)
 - Kreditkündigung — Verwertung droht
 - BaFin-Anordnung sofortige Vollziehung
-- Vorlaeufige Untersagung Geschäftsbetrieb
+- Vorläufige Untersagung Geschäftsbetrieb
 - Pfändung-Konto wirtschaftliche Existenz
 - Klage-Fristablauf Hauptsachefrist nach Schiedsspruch
 
 ### Frage 4 — Stand?
 
 - Beratung vor Vertragsschluss
-- Vertrag läuft Streit ueber Leistung
+- Vertrag läuft Streit über Leistung
 - Außergerichtlicher Schriftwechsel
 - Ombudsstelle der Banken läuft (Hemmung Verjährung)
 - Klage erhoben
@@ -93,9 +93,9 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 | Anlageberatungsfehler | `anlageberatungsfehler-pruefen` |
 | Prospekthaftung | `anlageberatungsfehler-pruefen` plus Prospektfokus |
 | Verbraucherkredit Widerruf | (Skill verbraucherkredit-widerruf — perspektivisch) |
-| Immobilienkredit | (Skill immobilienkredit-pruefen — perspektivisch) |
+| Immobilienkredit | (Skill immobilienkredit-prüfen — perspektivisch) |
 | Bank-AGB-Klauselstreit | (Skill agb-banken-pruefen — perspektivisch) |
-| Kontosperre | (Skill kontosperre-pruefen — perspektivisch) |
+| Kontosperre | (Skill kontosperre-prüfen — perspektivisch) |
 | Geldwäsche-Strafverfahren | weiter an `mandat-triage-strafrecht` plus Spezial |
 | BaFin-Aufsichtsverfahren | weiter an `mandat-triage-verwaltungsrecht` |
 | Pfändung P-Konto | weiter an `forderungsmanagement-klagewerkstatt` |

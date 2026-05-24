@@ -8,14 +8,14 @@ description: "Kaltstart-Interview fuer das tabellenreview-3d-Plugin. Erfragt typ
 ## Ablauf
 
 1. Zustand der Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md` prüfen.
-2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befuellt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
-3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchfuehren.
-4. Konfigurationsdatei schreiben (uebergeordnete Verzeichnisse bei Bedarf anlegen).
+2. Falls vorhanden und ohne `[PLATZHALTER]`-Marker: bestätigen, dass das Praxisprofil schon befüllt ist, und Modus erfragen (`--redo` für vollständiges Neu-Interview).
+3. Falls nicht vorhanden oder mit Platzhaltern: das Kaltstart-Interview unten durchführen.
+4. Konfigurationsdatei schreiben (übergeordnete Verzeichnisse bei Bedarf anlegen).
 5. Zusammenfassung zeigen und nächste Schritte vorschlagen.
 
 ## `--integrationen-prüfen`
 
-Prüft Konnektoren-Verfügbarkeit (Datenraum-Tool, Excel-Generator, PDF-Generator, Dokumentenspeicher, OCR-Pipeline, Anwaltsprüfer-Postfach). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, fuehrt kein neues Interview durch.
+Prüft Konnektoren-Verfügbarkeit (Datenraum-Tool, Excel-Generator, PDF-Generator, Dokumentenspeicher, OCR-Pipeline, Anwaltsprüfer-Postfach). Aktualisiert nur den Abschnitt `## Verfügbare Integrationen`, führt kein neues Interview durch.
 
 Beim Prüfen: nur `OK` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich war. Konfigurierte-aber-ungetestete Konnektoren als `unbekannt` markieren.
 
@@ -26,7 +26,7 @@ Beim Prüfen: nur `OK` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich
 ### 1. Wer nutzt dieses Plugin?
 
 - **Rolle:** Rechtsanwalt (M&A / Immobilien / Arbeit / Datenschutz) / Syndikus / Wirtschaftsprüfer / Steuerberater / Notar / Nicht-Jurist mit anwaltlicher Rücksprache?
-- **Praxiskontext:** Einzelkanzlei / kleine Kanzlei / Grosskanzlei / Inhouse / Beratungsstelle / Hochschule
+- **Praxiskontext:** Einzelkanzlei / kleine Kanzlei / Großkanzlei / Inhouse / Beratungsstelle / Hochschule
 - **Anwaltlicher Prüfer für Endabnahme:** Name, Erreichbarkeit (jede Würfel-Ausgabe geht erst nach Prüfer-Abnahme ans Mandat)
 
 ### 2. Typische Anwendungsfälle
@@ -36,43 +36,43 @@ Beim Prüfen: nur `OK` melden, wenn ein MCP-Tool-Aufruf tatsächlich erfolgreich
 - **Vendor-/Lieferanten-Onboarding** (AGB + AVV + Wirtschaftsdaten + Compliance): ja / nein
 - **Arbeitsvertrags-Massenprüfung** (Tarifbezug + AGB-Klauseln + DSGVO + Sozialversicherung): ja / nein
 - **Mietvertrags-Portfolio** (Schönheitsreparaturen + Indexmiete + Betriebskosten): ja / nein
-- **Anlagedokumente** (Fondsverträge / KAGB-Konformitaet / Anlegerschutz): ja / nein
+- **Anlagedokumente** (Fondsverträge / KAGB-Konformität / Anlegerschutz): ja / nein
 - **Freie Eigenwürfel:** ja, mit eigener Spalten- / Zeilen- / Arbeitsblatt-Definition
 
 ### 3. Standard-Würfeldimensionen
 
 - **Spalten (Datenpunkte):** typische Anzahl pro Würfel — z. B. 8 bis 25 Spaltenprompts
 - **Zeilen (Dokumente):** typische Stapelgroesse — z. B. 10 bis 2000 Dokumente
-- **Arbeitsblätter (Perspektiven):** wie viele Perspektiven werden uebereinander gestapelt — typisch 3 bis 6 (Recht / Steuer / Wirtschaft / Datenschutz / IT / Betrieb)
+- **Arbeitsblätter (Perspektiven):** wie viele Perspektiven werden übereinander gestapelt — typisch 3 bis 6 (Recht / Steuer / Wirtschaft / Datenschutz / IT / Betrieb)
 
 ### 4. Hauszitierweise
 
 - BGH-Stil mit Pinpoint-Randnummer (siehe `references/zitierweise.md` im Repository)
 - Kommentar-Stil: Bearbeiter in: Werk, Auflage Jahr, Norm Rn.
-- Bei Vertragsstellen: woertliches Zitat in Anführungszeichen, danach Fundstelle (Ziffer Absatz Seite)
+- Bei Vertragsstellen: wörtliches Zitat in Anführungszeichen, danach Fundstelle (Ziffer Absatz Seite)
 
 ### 5. Risikoampel-Schwellen
 
 - **Rot (Blockierend):** [PLATZHALTER — z. B. AGB-unwirksame Klausel BGB Paragraph 307; fehlende AVV bei Auftragsverarbeitung; offene Briefgrundschuld ohne Löschungsbewilligung]
 - **Gelb (Prüfenswert):** [PLATZHALTER — z. B. unklare Kündigungsfrist; Dienstbarkeit zugunsten unbekannter Dritter]
-- **Gruen (Niedrig):** [PLATZHALTER — z. B. branchenüblich; in Vorlage erfasst]
+- **Grün (Niedrig):** [PLATZHALTER — z. B. branchenüblich; in Vorlage erfasst]
 
 ### 6. Excel- und Belegkette-Pfade
 
 - **Excel-Ausgabe-Verzeichnis:** [PLATZHALTER — z. B. `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/würfel/<projekt>/`]
-- **Belegketten-Verzeichnis:** [PLATZHALTER — Speicherort für woertliche Quellenzitate mit Datei-Hash]
+- **Belegketten-Verzeichnis:** [PLATZHALTER — Speicherort für wörtliche Quellenzitate mit Datei-Hash]
 - **Audit-Trail-Verzeichnis:** [PLATZHALTER — Pfad für Prompt-Versionen Laufprotokolle und Prüfer-Abnahmen]
 
 ### 7. Standort
 
 - **Bundesland:** [PLATZHALTER]
-- **Praxistypus:** Einzelkanzlei / Sozietaet / Partnerschaftsgesellschaft / Inhouse-Rechtsabteilung
+- **Praxistypus:** Einzelkanzlei / Sozietät / Partnerschaftsgesellschaft / Inhouse-Rechtsabteilung
 
 ---
 
 ## Ausgabe
 
-Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md` geschrieben. Anschliessend zeigen:
+Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md` geschrieben. Anschließend zeigen:
 
 - Was eingerichtet wurde
 - Welche Skills jetzt sinnvoll als nächstes laufen können:
@@ -92,4 +92,4 @@ Das Praxisprofil wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/t
 
 ## Hinweise
 
-Dieses Plugin liefert eine Vorstrukturierung. Es ersetzt nicht die Prüfung durch einen zugelassenen Rechtsanwalt. Jede Zelle des Würfels ist ein Hinweis der Verifikation bedarf, kein abschliessender Befund. Vor Mandatsabnahme erfolgt die Prüfung durch den anwaltlichen Prüfer (siehe Skill `pruefer-uebergabe-paket`).
+Dieses Plugin liefert eine Vorstrukturierung. Es ersetzt nicht die Prüfung durch einen zugelassenen Rechtsanwalt. Jede Zelle des Würfels ist ein Hinweis der Verifikation bedarf, kein abschließender Befund. Vor Mandatsabnahme erfolgt die Prüfung durch den anwaltlichen Prüfer (siehe Skill `pruefer-uebergabe-paket`).

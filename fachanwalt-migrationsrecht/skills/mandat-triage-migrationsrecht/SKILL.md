@@ -99,7 +99,7 @@ Migrationsmandate sind hochgradig zeitkritisch — Abschiebung kann in Stunden e
 | Familiennachzug | `aufenthaltstitel-pruefung` plus Familiennachzugs-Schwerpunkt |
 | Abschiebung-Eilrechtsschutz | EILMODUS sofort |
 | Ausweisung anfechten | (Skill ausweisung-anfechten — perspektivisch) |
-| Einbürgerung | (Skill einbuergerung-staag — perspektivisch) |
+| Einbürgerung | (Skill einbürgerung-staag — perspektivisch) |
 
 ## Eilmodus Abschiebung
 
@@ -122,7 +122,7 @@ Bei drohender Abschiebung:
 
 ## Eskalation
 
-- **Telefon-Sofort** Abschiebung morgen Ueberstellung Dublin morgen Festnahme Grenze
+- **Telefon-Sofort** Abschiebung morgen Überstellung Dublin morgen Festnahme Grenze
 - **Binnen einer Stunde** Eilantrag § 80 Abs. 5 VwGO
 - **Heute** Asyl-Klage Frist zwei Wochen
 - **Diese Woche** Aufenthaltstitel-Antrag Niederlassungs-Antrag

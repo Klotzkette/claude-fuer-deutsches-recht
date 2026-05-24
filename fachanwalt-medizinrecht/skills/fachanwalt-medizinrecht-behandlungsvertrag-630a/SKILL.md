@@ -16,7 +16,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 - Sorgfaltspflicht des allg. anerkannten fachlichen Standards
 - BGH NJW 2014, 2960: Maßstab Facharzt-Standard
 
-### Aufklaerung § 630e BGB
+### Aufklärung § 630e BGB
 
 - **Vor** Behandlung
 - Inhalt: Art, Umfang, Verlauf, Folgen, Risiken, Alternativen
@@ -24,22 +24,22 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 
 ### Einwilligung § 630d BGB
 
-- Aufklaerungsbasiert
+- Aufklärungsbasiert
 - Bei Notfall: mutmassliche Einwilligung
-- Bei Minderjaehrigen: Eltern, ggf. Einsichtsfaehigkeit ab 14
+- Bei Minderjaehrigen: Eltern, ggf. Einsichtsfähigkeit ab 14
 
 ### Dokumentation § 630f BGB
 
 - **Patientenakte** in Schriftform / elektronisch
-- Pflichten: Anamnese, Diagnose, Behandlung, Aufklaerung, Befunde
+- Pflichten: Anamnese, Diagnose, Behandlung, Aufklärung, Befunde
 - Aufbewahrung 10 Jahre
 
 ## 2) Beweislast-Umkehr bei groben Behandlungsfehlern § 630h V BGB
 
 ### Voraussetzung
 
-- **Grober Behandlungsfehler**: Verstoss gegen elementare Behandlungsregel
-- Geeignet, festgestellte Gesundheitsverletzung herbeizufuehren
+- **Grober Behandlungsfehler**: Verstoß gegen elementare Behandlungsregel
+- Geeignet, festgestellte Gesundheitsverletzung herbeizuführen
 
 ### Folge
 
@@ -48,26 +48,26 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 
 ### Beispiele (BGH-Linie)
 
-- Roentgen-Befund uebersehen
+- Röntgen-Befund übersehen
 - Reanimation unterbrochen
 - Operation am falschen Bein
 - Hygiene-Standards grob verletzt
 
-## 3) Aufklaerungsmangel
+## 3) Aufklärungsmangel
 
 ### Voraussetzungen
 
-- Aufklaerung unterblieb oder unvollstaendig
+- Aufklärung unterblieb oder unvollständig
 - Hypothetische Einwilligung des Patienten widerlegt
 
 ### Folge
 
-- Eingriff ist **rechtswidrig** (auch bei korrekter Durchfuehrung)
+- Eingriff ist **rechtswidrig** (auch bei korrekter Durchführung)
 - Schadensersatz + Schmerzensgeld
 
 ### Beweislast
 
-- Arzt muss Aufklaerung beweisen (Schriftform empfohlen)
+- Arzt muss Aufklärung beweisen (Schriftform empfohlen)
 
 ## 4) Patientenrechte
 
@@ -99,13 +99,13 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 
 - MDK (gesetzlich Versicherte)
 - Privatgutachten
-- Schlichtungs-Stelle der Aerztekammer
+- Schlichtungs-Stelle der Ärztekammer
 
 ### Schritt 4 — Verhandlung / Klage
 
 - Vergleich mit Versicherer
 - Bei Streit: LG (Streitwert + 5.000 EUR Grenze)
-- Beweisaufnahme Sachverstaendiger
+- Beweisaufnahme Sachverständiger
 
 ## 6) Schadensersatz / Schmerzensgeld
 
@@ -122,7 +122,7 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 
 ## 8) Typische Fehler
 
-1. **Aufklaerungs-Beweis fehlt** Arztes -> rechtswidriger Eingriff
+1. **Aufklärungs-Beweis fehlt** Arztes -> rechtswidriger Eingriff
 2. **Akteneinsicht verweigert** -> Schaden Patient
 3. **MDK-Gutachten als alleinige Grundlage** — oft Mandanten-feindlich
 
@@ -130,10 +130,10 @@ Rechtliche Beziehung Arzt-Patient seit Patientenrechtegesetz 2013 kodifiziert. P
 
 - BGH, Urt. v. 25.6.2014 — VI ZR 21/13 (Standardbegriff)
 - BGH, Urt. v. 27.4.2017 — III ZR 351/15 (Grober Behandlungsfehler)
-- BGH, Urt. v. 19.5.2020 — VI ZR 156/18 (Aufklaerungs-Beweis)
+- BGH, Urt. v. 19.5.2020 — VI ZR 156/18 (Aufklärungs-Beweis)
 
 ## Anschluss
 
-- `behandlungsfehler-anspruch-pruefen` — Pruefraster
+- `behandlungsfehler-anspruch-pruefen` — Prüfraster
 - `fachanwalt-medizinrecht-approbations-widerspruch` — bei AErzte-Mandat
 - `aufklaerungsfehler-beweisstrategie` — Beweis-Strategie

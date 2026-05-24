@@ -5,22 +5,22 @@ description: "Erstellt die Rechtsmittelbelehrung nach Paragrafen 232 ZPO 511 ff 
 
 # Rechtsmittelbelehrung Zivil
 
-Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, gegen die ein selbstaendiges Rechtsmittel statthaft ist.
+Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, gegen die ein selbständiges Rechtsmittel statthaft ist.
 
 ## Berufung
 
 Statthaft gegen Endurteile (Paragraf 511 Abs. 1 ZPO). Voraussetzungen:
-- Beschwer der Berufungsklaegerin / des Berufungsklaegers ueber 600 EUR (Paragraf 511 Abs. 2 Nr. 1 ZPO) ODER
+- Beschwer der Berufungsklägerin / des Berufungsklägers über 600 EUR (Paragraf 511 Abs. 2 Nr. 1 ZPO) ODER
 - Zulassung der Berufung durch das erstinstanzliche Gericht (Paragraf 511 Abs. 4 ZPO)
 
 Form und Frist:
 - Einlegung binnen einer Frist von einem Monat nach Zustellung des Urteils
-- Begruendung binnen einer Frist von zwei Monaten nach Zustellung
+- Begründung binnen einer Frist von zwei Monaten nach Zustellung
 - Vor dem Berufungsgericht (LG bei AG-Urteilen, OLG bei LG-Urteilen) Anwaltszwang
 
 ## Sofortige Beschwerde
 
-Statthaft gegen Beschluesse (Paragraf 567 ZPO). Voraussetzungen ergeben sich aus der jeweiligen Vorschrift.
+Statthaft gegen Beschlüsse (Paragraf 567 ZPO). Voraussetzungen ergeben sich aus der jeweiligen Vorschrift.
 
 Form und Frist:
 - Einlegung binnen einer Frist von zwei Wochen nach Zustellung
@@ -28,4 +28,4 @@ Form und Frist:
 
 ## Standardformulierung
 
-"Gegen dieses Urteil ist die Berufung statthaft. Die Berufung ist binnen einer Frist von einem Monat nach Zustellung des Urteils beim Landgericht Hamburg (Sievekingplatz Nummer 1 in 20355 Hamburg) schriftlich oder zu Protokoll der Geschaeftsstelle einzulegen und binnen einer Frist von zwei Monaten nach Zustellung schriftlich zu begruenden. Vor dem Berufungsgericht besteht Anwaltszwang."
+"Gegen dieses Urteil ist die Berufung statthaft. Die Berufung ist binnen einer Frist von einem Monat nach Zustellung des Urteils beim Landgericht Hamburg (Sievekingplatz Nummer 1 in 20355 Hamburg) schriftlich oder zu Protokoll der Geschäftsstelle einzulegen und binnen einer Frist von zwei Monaten nach Zustellung schriftlich zu begründen. Vor dem Berufungsgericht besteht Anwaltszwang."

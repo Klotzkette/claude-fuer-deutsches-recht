@@ -14,26 +14,26 @@ description: Erstellt einen Prozesskostenhilfe-Antrag fuer sozialgerichtliche Ve
 
 ## Voraussetzungen
 
-### 1. Beduerftigkeit
+### 1. Bedürftigkeit
 
-- Klagepartei kann die Kosten der Prozessfuehrung nicht ganz nicht zum Teil oder nur in Raten aufbringen.
+- Klagepartei kann die Kosten der Prozessführung nicht ganz nicht zum Teil oder nur in Raten aufbringen.
 - Prüfung anhand Einkommen Vermögen und unterhaltsberechtigter Personen.
 - Sozialleistungsbezug (Bürgergeld Grundsicherung) typisch ausreichend für volle PKH ohne Raten.
 
 ### 2. Erfolgsaussicht
 
 - Hinreichende Aussicht auf Erfolg in der Hauptsache (§ 114 Abs. 1 Satz 1 ZPO).
-- Maßstab nicht ueberspannt — es reicht die nicht entfernt liegende Möglichkeit des Erfolgs.
+- Maßstab nicht überspannt — es reicht die nicht entfernt liegende Möglichkeit des Erfolgs.
 
 ### 3. Nicht Mutwilligkeit
 
-- Die Rechtsverfolgung muss notwendig erscheinen aus Sicht eines verständigen unbeduerftigen Drittens.
+- Die Rechtsverfolgung muss notwendig erscheinen aus Sicht eines verständigen unbedürftigen Drittens.
 
-## Formular ZP1a — Erklärung über die persoenlichen und wirtschaftlichen Verhältnisse
+## Formular ZP1a — Erklärung über die persönlichen und wirtschaftlichen Verhältnisse
 
 Pflichtfelder:
 
-- Persoenliche Daten
+- Persönliche Daten
 - Familienverhältnisse Unterhaltspflichten
 - Erwerbstätigkeit Einkommen
 - Sonstige Einnahmen (Sozialleistungen Kindergeld Unterhalt Rente)
@@ -75,12 +75,12 @@ Mutwilligkeit liegt nicht vor.
 ## Sonderfälle
 
 - **Beratungshilfe** § 1 BerHG für das Vorverfahren (Widerspruch) — separater Antrag beim Amtsgericht des Wohnorts.
-- **Vereinheitlichte PKH** wenn mehrere zusammenhaengende Verfahren — Antrag in jedem Verfahren erforderlich.
+- **Vereinheitlichte PKH** wenn mehrere zusammenhängende Verfahren — Antrag in jedem Verfahren erforderlich.
 
 ## Ausgabe
 
 - `pkh-antrag-<az>-<datum>.docx`.
-- ZP1a-Formular ausgefuellt zur Unterschrift des Mandanten.
+- ZP1a-Formular ausgefüllt zur Unterschrift des Mandanten.
 - Belegliste mit Prüfer-Flag für fehlende Belege.
 - Eintrag im Fristenbuch — PKH-Antrag sollte zeitgleich mit Klage oder Widerspruch eingereicht werden.
 

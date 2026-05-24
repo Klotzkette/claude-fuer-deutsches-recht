@@ -24,7 +24,7 @@ Berechnung Kindes-, Trennungs-, nachehelichen Unterhalts. Aktuelle Tabelle jaehr
 ### Brutto -> Netto
 
 - Lohnsteuer, KV/PV, RV, AV
-- Bei Selbstaendigen: Steuerbescheid letzte 3 Jahre Durchschnitt
+- Bei Selbständigen: Steuerbescheid letzte 3 Jahre Durchschnitt
 
 ### Bereinigtes Netto
 
@@ -33,7 +33,7 @@ Abzuege vom Netto:
 - Berufsbedingte Aufwendungen (5 % pauschal, max. 150 EUR/Monat)
 - Berufliche Fahrtkosten (0,30/km × Anzahl Arbeitstage × Strecke)
 - Krankenversicherungs-Anteile (private Zusatz)
-- Schulden mit unterhalts-relevanter Beruecksichtigung (BGH-Linie)
+- Schulden mit unterhalts-relevanter Berücksichtigung (BGH-Linie)
 - Altersvorsorge-Beitraege (4 % vom Brutto, primaere Versorgung)
 
 ## 3) Kindesunterhalt
@@ -49,7 +49,7 @@ Seit 1.1.2024 (verlinkt auf BMF-Bekanntmachung):
 | 12-17 Jahre | 645 EUR |
 | ab 18 Jahre | 689 EUR |
 
-(Werte jaehrlich aktualisiert — bei Mandant aktuelle Tabelle pruefen)
+(Werte jaehrlich aktualisiert — bei Mandant aktuelle Tabelle prüfen)
 
 ### Duesseldorfer Tabelle
 
@@ -71,13 +71,13 @@ Vater 4.500 EUR Netto, 2 Kinder (8 und 14):
 ### Voraussetzungen
 
 - Trennungszeit (vor Scheidung)
-- Beduerftigkeit Trennungs-Berechtigter
-- Leistungsfaehigkeit Trennungs-Pflichtiger
+- Bedürftigkeit Trennungs-Berechtigter
+- Leistungsfähigkeit Trennungs-Pflichtiger
 
 ### Berechnung
 
 - 3/7 vom bereinigten Netto-Einkommen des Unterhalts-Pflichtigen
-- Bei Kinder-Betreuung: zusaetzlicher Aufschlag
+- Bei Kinder-Betreuung: zusätzlicher Aufschlag
 
 ### Selbstbehalts-Satz
 
@@ -97,7 +97,7 @@ Vater 4.500 EUR Netto, 2 Kinder (8 und 14):
 
 ### Krankheits-Unterhalt § 1572 BGB
 
-- Bei Krankheit / Erwerbsunfaehigkeit
+- Bei Krankheit / Erwerbsunfähigkeit
 
 ### Aufstockungs-Befristung § 1578b BGB
 
@@ -105,7 +105,7 @@ Vater 4.500 EUR Netto, 2 Kinder (8 und 14):
 
 ## 6) Mangelfall-Berechnung
 
-Wenn nicht ausreichend Einkommen fuer alle Pflichten:
+Wenn nicht ausreichend Einkommen für alle Pflichten:
 
 1. Selbstbehalt sichern
 2. Restbetrag nach Quoten verteilen
@@ -127,8 +127,8 @@ Vater 3.200 EUR Netto, 2 Kinder, 1 Ehegattin:
 
 - Gehaltsabrechnungen 12 Monate
 - Steuerbescheide 3 Jahre
-- Selbstaendigen-BWA / EUER
-- Pruefung Schein-Selbststaendigkeit
+- Selbständigen-BWA / EUER
+- Prüfung Schein-Selbstständigkeit
 
 ### Phase 2 — Bereinigung
 
@@ -144,7 +144,7 @@ Vater 3.200 EUR Netto, 2 Kinder, 1 Ehegattin:
 
 ### Phase 4 — Verhandlung / Klage
 
-- Aussergerichtlich (Anwalt-Korrespondenz, Mediation)
+- Außergerichtlich (Anwalt-Korrespondenz, Mediation)
 - Familiengericht (FamG)
 - Beurkundung Jugendamt (Pflicht-Volumen)
 
@@ -152,7 +152,7 @@ Vater 3.200 EUR Netto, 2 Kinder, 1 Ehegattin:
 
 ### Voraussetzung
 
-- Wesentliche Aenderung der Verhaeltnisse seit Titel
+- Wesentliche Änderung der Verhältnisse seit Titel
 - 10 %-Schwelle als Faustregel
 
 ### Praxis
@@ -164,12 +164,12 @@ Vater 3.200 EUR Netto, 2 Kinder, 1 Ehegattin:
 ## 9) Typische Fehler
 
 1. **Veraltete Duesseldorfer Tabelle** -> Falschberechnung
-2. **Schein-Selbststaendigkeit nicht aufgedeckt** -> falsche Einkommens-Basis
-3. **Schulden vollstaendig abgezogen** -> BGH-Linie ignoriert
+2. **Schein-Selbstständigkeit nicht aufgedeckt** -> falsche Einkommens-Basis
+3. **Schulden vollständig abgezogen** -> BGH-Linie ignoriert
 4. **Selbstbehalt unter Mindest** -> Klage scheitert
 5. **Kindergeld-Anrechnung falsch** -> 50 % vs. 100 %
 
-## 10) Zustaendigkeit
+## 10) Zuständigkeit
 
 - Familiengericht (FamG) beim Amtsgericht
 - Verfahrenswert: Jahres-Unterhalt + Rueckstand

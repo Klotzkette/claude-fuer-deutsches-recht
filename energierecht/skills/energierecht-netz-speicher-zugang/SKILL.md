@@ -177,7 +177,7 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 
 - Markt-Transparenz, Insiderhandel-Verbot
 - Bilanzkreis-Daten-Übermittlung
-- BNetzA-Sanktionen bei REMIT-Verstoss
+- BNetzA-Sanktionen bei REMIT-Verstoß
 
 ### EU-Strommarkt-Reform 2024
 

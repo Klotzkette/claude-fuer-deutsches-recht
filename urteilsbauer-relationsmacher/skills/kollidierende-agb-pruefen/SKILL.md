@@ -5,18 +5,18 @@ description: "Prueft kollidierende Allgemeine Geschaeftsbedingungen im B2B-Verke
 
 # Kollidierende AGB
 
-Klassisches Problem im B2B-Geschaeft: Beide Parteien verweisen auf ihre eigenen AGB, die widersprechen sich.
+Klassisches Problem im B2B-Geschäft: Beide Parteien verweisen auf ihre eigenen AGB, die widersprechen sich.
 
 ## Geltungsumfang
 
-- B2C: keine AGB-Kollision moeglich, da Paragraf 305 II BGB die Einbeziehung in B2C strikt regelt.
-- B2B: Paragraf 310 I BGB - Inhaltskontrolle eingeschraenkt, Einbeziehung schon dann moeglich, wenn der Verwender klar zu erkennen gibt, dass er nur unter seinen Bedingungen abschliessen will. Bei Kollision gilt:
+- B2C: keine AGB-Kollision möglich, da Paragraf 305 II BGB die Einbeziehung in B2C strikt regelt.
+- B2B: Paragraf 310 I BGB - Inhaltskontrolle eingeschraenkt, Einbeziehung schon dann möglich, wenn der Verwender klar zu erkennen gibt, dass er nur unter seinen Bedingungen abschließen will. Bei Kollision gilt:
 
-## Loesungstheorien
+## Lösungstheorien
 
 1. **Last shot doctrine** (Theorie der letzten Stellungnahme): Wer zuletzt seine AGB einbringt und der andere schweigend leistet, dessen AGB gelten. **In Deutschland nicht mehr herrschende Meinung.**
-2. **Knock-out / Restgueltigkeit** (herrschende Meinung in Deutschland): Soweit die AGB der beiden Seiten kollidieren, fallen die kollidierenden Klauseln raus, der Rest gilt; statt der weggefallenen Klauseln greift dispositives Recht. So entschied der BGH in NJW Jahrgang 1985 auf Seite 1838.
-3. **CISG**: Artikel 19 CISG ist umstritten. Herrschende Meinung wendet auch hier Knock-out an, weil ein modifiziertes Angebot mit AGB nicht zwingend Ablehnung darstellt, wenn die Parteien dennoch durchfuehren.
+2. **Knock-out / Restgültigkeit** (herrschende Meinung in Deutschland): Soweit die AGB der beiden Seiten kollidieren, fallen die kollidierenden Klauseln raus, der Rest gilt; statt der weggefallenen Klauseln greift dispositives Recht. So entschied der BGH in NJW Jahrgang 1985 auf Seite 1838.
+3. **CISG**: Artikel 19 CISG ist umstritten. Herrschende Meinung wendet auch hier Knock-out an, weil ein modifiziertes Angebot mit AGB nicht zwingend Ablehnung darstellt, wenn die Parteien dennoch durchführen.
 
 ## Typische Kollisionsfelder
 

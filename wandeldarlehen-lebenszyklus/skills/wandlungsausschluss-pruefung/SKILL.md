@@ -63,7 +63,7 @@ Wandlungsrecht besteht: Weiter zu `wandlungspreis-berechnung`. Wandlungsrecht er
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Wandlungsmitteilung nie verschickt | Fristlauf unklar | Mitteilung verspätet | Mitteilung dokumentiert |
 | Lender drei Monate ohne Reaktion | Verwirkungsrisiko | Reaktion verzögert | Reaktion innerhalb Frist |

@@ -125,7 +125,7 @@ für die Schuldnerin
 
 ### Echtheit der Sanierungsabsicht
 
-Wird der Forderungsverzicht später als Scheingeschaeft angesehen (z. B. weil keine ernsthafte Sanierungsabsicht vorlag) kann er anfechtbar sein.
+Wird der Forderungsverzicht später als Scheingeschäft angesehen (z. B. weil keine ernsthafte Sanierungsabsicht vorlag) kann er anfechtbar sein.
 
 ### Gläubigergleichbehandlung
 
@@ -133,7 +133,7 @@ Bei Sanierungsverzicht ist auf Gläubigergleichbehandlung zu achten. Wenn nur ei
 
 ### Besserungsschein-Trigger genau definieren
 
-Der Trigger für das Wiederaufleben muss objektiv und nachpruefbar sein. Klauseln wie „wenn es uns wieder besser geht" sind ungeeignet.
+Der Trigger für das Wiederaufleben muss objektiv und nachprüfbar sein. Klauseln wie „wenn es uns wieder besser geht" sind ungeeignet.
 
 ## Ausgabe
 

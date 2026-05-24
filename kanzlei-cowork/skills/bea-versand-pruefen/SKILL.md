@@ -19,7 +19,7 @@ description: Prueft den beA-Versand nach Pflichten des § 130a ZPO § 32d StPO �
 
 ### 1. Sicherer Übermittlungsweg (sUW)
 
-- Versand erfolgt persoenlich durch den beA-Inhaber.
+- Versand erfolgt persönlich durch den beA-Inhaber.
 - Anmeldung mit beA-Karte und PIN.
 - Keine qualifizierte elektronische Signatur erforderlich am einzelnen Schriftsatz.
 - Signatur durch sUW gilt als ausreichend (§ 130a Abs. 3 Satz 1 Var. 2 ZPO).
@@ -61,11 +61,11 @@ Beide gehören in die Mandatsakte unter `mandate/<az>/03_schriftsaetze/<datum>-b
 - **Eingang beim Gericht** bestimmt Fristwahrung (§ 130a Abs. 5 ZPO Eingang in die für das Gericht bestimmte Posteingangsstelle).
 - **Eigene Sendebestätigung allein** reicht nicht — entscheidend ist die Eingangsbestätigung beim Empfänger.
 
-## Stoerung des beA
+## Störung des beA
 
-- **Stoerungsdokumentation** Screenshot Fehlermeldung Datum Uhrzeit.
+- **Störungsdokumentation** Screenshot Fehlermeldung Datum Uhrzeit.
 - **Ersatzeinreichung** schriftlich + qeS gemäß § 130d Satz 3 ZPO.
-- **Glaubhaftmachung** der Stoerung unverzueglich nach Wegfall (§ 130d Satz 2 ZPO iVm § 67 SGG analog).
+- **Glaubhaftmachung** der Störung unverzueglich nach Wegfall (§ 130d Satz 2 ZPO iVm § 67 SGG analog).
 - **Wiedereinsetzung** § 233 ZPO bei unverschuldetem Fristversäumnis.
 
 ## Audit
@@ -95,4 +95,4 @@ Beide gehören in die Mandatsakte unter `mandate/<az>/03_schriftsaetze/<datum>-b
 
 - Eintrag im `versand-audit.jsonl`.
 - Quittungen unter Mandatsakte.
-- Bei Stoerung: Stoerungsdokumentation als PDF.
+- Bei Störung: Störungsdokumentation als PDF.

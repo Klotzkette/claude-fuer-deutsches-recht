@@ -7,7 +7,7 @@ description: "Erklaert die Abgrenzung beruflicher / ehrenamtlicher (privater) Be
 
 ## Wann diesen Skill aufrufen
 
-Wenn der Nutzer wissen will, **wer** ueberhaupt Betreuer werden darf, **wie** sich beruflicher und ehrenamtlicher Betreuer unterscheiden, oder **wie** die Registrierung als beruflicher Betreuer nach §§ 23 ff. BtOG ablaeuft. Auch wenn die Frage nur scheinbar berufsrechtlich klingt (Vergueturung, Haftpflicht), aber im Kern auf den Status als Berufsbetreuer abzielt.
+Wenn der Nutzer wissen will, **wer** überhaupt Betreuer werden darf, **wie** sich beruflicher und ehrenamtlicher Betreuer unterscheiden, oder **wie** die Registrierung als beruflicher Betreuer nach §§ 23 ff. BtOG abläuft. Auch wenn die Frage nur scheinbar berufsrechtlich klingt (Vergueturung, Haftpflicht), aber im Kern auf den Status als Berufsbetreuer abzielt.
 
 ## I. Der "rechtliche Betreuer" als Oberbegriff
 
@@ -15,25 +15,25 @@ Der Gesetzgeber spricht systematisch vom **rechtlichen Betreuer** im Sinne des �
 
 Drei Erscheinungsformen:
 
-1. **Ehrenamtliche Betreuer mit familiaerer Bindung** (§ 21 BtOG) — meist Angehoerige.
+1. **Ehrenamtliche Betreuer mit familiaerer Bindung** (§ 21 BtOG) — meist Angehörige.
 2. **Ehrenamtliche Betreuer ohne familiaere Bindung** (§ 22 BtOG) — verpflichtet zum Abschluss einer Vereinbarung mit einem anerkannten Betreuungsverein (§ 15 BtOG).
-3. **Berufliche Betreuer** (§§ 19 Abs. 2, 23 ff. BtOG) — Personen, die Betreuungen entgeltlich und berufsmaessig fuehren.
+3. **Berufliche Betreuer** (§§ 19 Abs. 2, 23 ff. BtOG) — Personen, die Betreuungen entgeltlich und berufsmaessig führen.
 
 ## II. Ehrenamtlicher (privater) Betreuer
 
-Eine Privatperson, die die Betreuung **unentgeltlich** im Sinne des § 1878 BGB n.F. fuehrt. Sie erhält nur eine **pauschale Aufwandsentschädigung** nach § 1878 BGB i.V.m. § 22 JVEG (derzeit 425 EUR pro Jahr).
+Eine Privatperson, die die Betreuung **unentgeltlich** im Sinne des § 1878 BGB n.F. führt. Sie erhält nur eine **pauschale Aufwandsentschädigung** nach § 1878 BGB i.V.m. § 22 JVEG (derzeit 425 EUR pro Jahr).
 
 Rekrutierung typischerweise aus dem familiaeren oder freundschaftlichen Umfeld; nach § 22 BtOG aber auch fremde Personen möglich, sofern Vereinbarung mit einem Betreuungsverein besteht.
 
-**Keine Sachkundeprüfung** — die persoenliche Eignung prüfen die Betreuungsgerichte im Einzelfall.
+**Keine Sachkundeprüfung** — die persönliche Eignung prüfen die Betreuungsgerichte im Einzelfall.
 
-Wichtig für die Praxis: § 30 BtOG (Annahmeverbot von Zuwendungen) gilt **nicht** für ehrenamtliche Betreuer. Angehoerige dürfen testamentarisch bedacht werden, ohne berufsrechtliche Bedenken.
+Wichtig für die Praxis: § 30 BtOG (Annahmeverbot von Zuwendungen) gilt **nicht** für ehrenamtliche Betreuer. Angehörige dürfen testamentarisch bedacht werden, ohne berufsrechtliche Bedenken.
 
 ## III. Beruflicher Betreuer
 
-Legaldefinition § 19 Abs. 2 BtOG: derjenige, der Betreuungen **berufsmaessig** fuehrt.
+Legaldefinition § 19 Abs. 2 BtOG: derjenige, der Betreuungen **berufsmaessig** führt.
 
-Foermliche Feststellung der Berufsmaessigkeit durch das Gericht nach § 1 Abs. 2 VBVG; vermutet bei:
+Förmliche Feststellung der Berufsmaessigkeit durch das Gericht nach § 1 Abs. 2 VBVG; vermutet bei:
 
 - mindestens elf Betreuungen oder
 - Tätigkeit mit mehr als 20 Wochenstunden.
@@ -85,9 +85,9 @@ Erst die Registrierung eroeffnet die Bestellung durch das Betreuungsgericht und 
 
 Kumulativ:
 
-a) **Persoenliche Eignung und Zuverlaessigkeit** (Nr. 1), nachgewiesen durch:
+a) **Persönliche Eignung und Zuverlaessigkeit** (Nr. 1), nachgewiesen durch:
 
-- erweitertes Fuehrungszeugnis (§ 30a BZRG),
+- erweitertes Führungszeugnis (§ 30a BZRG),
 - Auskunft aus dem Schuldnerverzeichnis (§ 882b ZPO),
 - gegebenenfalls Bescheinigung in Steuersachen.
 
@@ -96,7 +96,7 @@ b) **Ausreichende Sachkunde** (Nr. 2 i.V.m. Abs. 3) in den Bereichen:
 - Betreuungs- und Unterbringungsrecht,
 - dazugehoeriges Verfahrensrecht,
 - Personen- und Vermögenssorge,
-- sozialrechtliches Unterstuetzungssystem,
+- sozialrechtliches Unterstützungssystem,
 - Kommunikation mit erkrankten oder behinderten Personen.
 
 c) **Berufshaftpflichtversicherung** für Vermögensschäden:
@@ -110,7 +110,7 @@ Der **Sachkundelehrgang** umfasst nach BtRegV in der Regel **270 Zeitstunden** m
 
 Anerkennung ganz oder teilweise möglich bei:
 
-- **Volljuristen** (Rechtswissenschaft mit Erstem und Zweitem Staatsexamen) — weitreichende Anerkennung; regelmäßig nur ergänzende Module zu Kommunikation und sozialrechtlichem Unterstuetzungssystem nachzuweisen.
+- **Volljuristen** (Rechtswissenschaft mit Erstem und Zweitem Staatsexamen) — weitreichende Anerkennung; regelmäßig nur ergänzende Module zu Kommunikation und sozialrechtlichem Unterstützungssystem nachzuweisen.
 - **Sozialarbeiter und Sozialpaedagogen** (Bachelor oder Diplom) — weitgehende Anerkennung.
 - **Sonstige einschlägige Abschlüsse** (Psychologie, Pflegewissenschaft) — Teilanerkennung möglich.
 
@@ -119,7 +119,7 @@ Anerkennung ganz oder teilweise möglich bei:
 ### 4. Verfahren
 
 - Antragstellung bei der Stammbehörde.
-- **Persoenliches Eignungsgespraech** (§ 24 BtOG i.V.m. § 4 BtRegV).
+- **Persönliches Eignungsgespräch** (§ 24 BtOG i.V.m. § 4 BtRegV).
 - Bei positivem Ergebnis: Eintragung in das Betreuerregister.
 - Übermittlung der Registrierungsdaten an die Betreuungsgerichte des Zuständigkeitsbereichs.
 - Bestellung durch Beschluss des Gerichts in konkreten Verfahren nach § 1816 BGB n.F.
@@ -128,7 +128,7 @@ Anerkennung ganz oder teilweise möglich bei:
 
 Rücknahme oder Widerruf der Registrierung nach **§ 27 BtOG** bei:
 
-- Wegfall der persoenlichen Eignung oder Zuverlaessigkeit,
+- Wegfall der persönlichen Eignung oder Zuverlaessigkeit,
 - groben Berufspflichtverletzungen, insbesondere bei Verstößen gegen **§ 30 BtOG** (Annahmeverbot).
 
 Laufende Aufsicht: Stammbehörde nach §§ 25, 26 BtOG.

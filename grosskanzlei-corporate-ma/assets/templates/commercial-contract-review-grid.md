@@ -1,4 +1,4 @@
-# Vertragsreview-Matrix für kommerzielle Vertraege.
+# Vertragsreview-Matrix für kommerzielle Verträge.
 
 ## Kontext
 

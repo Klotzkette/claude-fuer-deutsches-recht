@@ -16,7 +16,7 @@ Wo soll die neue Regelung leben? Stammgesetz identifizieren (z.B. HGB, BGB, ZPO,
 In welchen anderen Gesetzen wird auf das Hauptzielgesetz verwiesen? Im Internet:
 
 - gesetze-im-internet.de
-- buzer.de (Aenderungsgeschichte)
+- buzer.de (Änderungsgeschichte)
 - DIP des Bundestages
 - BeckOnline-Verweisindex
 - Juris-Linkliste
@@ -28,33 +28,33 @@ Welche Verordnungen sind auf dem Hauptzielgesetz erlassen? Welche Satzungen reku
 
 ## Schritt 4 - Begriffsdefinitionen
 
-Wenn das Vorhaben einen Begriff einfuehrt: existiert dieser Begriff schon woanders? Mit gleicher Definition? Mit abweichender Definition? Kollidiert?
+Wenn das Vorhaben einen Begriff einführt: existiert dieser Begriff schon woanders? Mit gleicher Definition? Mit abweichender Definition? Kollidiert?
 
-## Schritt 5 - Aenderungsmatrix aufbauen
+## Schritt 5 - Änderungsmatrix aufbauen
 
-| Lfd | Norm | Paragraf | Aenderungsart | Inhalt | Grund |
+| Lfd | Norm | Paragraf | Änderungsart | Inhalt | Grund |
 |---|---|---|---|---|---|
-| 1 | HGB | 33 | Aenderung | Pflicht-Postfach | Hauptregelung |
-| 2 | HGB | 13d | Aenderung | Zweigniederlassungen einbezogen | Folgeaenderung |
+| 1 | HGB | 33 | Änderung | Pflicht-Postfach | Hauptregelung |
+| 2 | HGB | 13d | Änderung | Zweigniederlassungen einbezogen | Folgeaenderung |
 | 3 | ZPO | 130d | Erweiterung | Zustellung an Pflicht-Postfach | Anpassung Zustellrecht |
-| 4 | FamFG | 14 | Aenderung | Bekanntgabe an Postfach | Anpassung |
-| 5 | DSGVO-Anpassungs-G | - | - | Verweis pruefen | Datenschutz |
+| 4 | FamFG | 14 | Änderung | Bekanntgabe an Postfach | Anpassung |
+| 5 | DSGVO-Anpassungs-G | - | - | Verweis prüfen | Datenschutz |
 
-## Schritt 6 - Verweisketten pruefen
+## Schritt 6 - Verweisketten prüfen
 
-Wenn Norm A auf Norm B verweist und sich B aendert, muss Norm A pruefen, ob der Verweis noch passt. Verweisketten ueber mehrere Gesetze sind heimtueckisch.
+Wenn Norm A auf Norm B verweist und sich B aendert, muss Norm A prüfen, ob der Verweis noch passt. Verweisketten über mehrere Gesetze sind heimtueckisch.
 
 ## Schritt 7 - Paralleles Gesetzgebungsverfahren?
 
-Wird eine der zu aendernden Normen zur gleichen Zeit in einem anderen Gesetzgebungsverfahren geaendert? Dann Abstimmung mit dem anderen Verfahren ueber Reihenfolge oder Aenderungsbefehl.
+Wird eine der zu aendernden Normen zur gleichen Zeit in einem anderen Gesetzgebungsverfahren geändert? Dann Abstimmung mit dem anderen Verfahren über Reihenfolge oder Änderungsbefehl.
 
-## Schritt 8 - EU-Normen, internationale Bezuege
+## Schritt 8 - EU-Normen, internationale Bezüge
 
-Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche voelkerrechtlichen Vertraege sind betroffen?
+Welche EU-Richtlinien oder Verordnungen werden beruehrt? Welche völkerrechtlichen Verträge sind betroffen?
 
 ## Ausgabe
 
-Aenderungsmatrix als Markdown- und Excel-Vorlage. Eintrag in das Auftragsblatt: Liste der zu aendernden Normen.
+Änderungsmatrix als Markdown- und Excel-Vorlage. Eintrag in das Auftragsblatt: Liste der zu aendernden Normen.
 
 ## Anschluss
 

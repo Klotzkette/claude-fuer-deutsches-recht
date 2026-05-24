@@ -18,7 +18,7 @@ Bei Sport-Verbandsstrafen ist die Berufung beim CAS in Lausanne häufig die einz
 - Mandanten-Aussage
 - Bei Doping: NADA / Verband-A-/B-Probe-Protokoll
 
-## Schritt 1 — Zustaendigkeit CAS
+## Schritt 1 — Zuständigkeit CAS
 
 ### Schiedsklausel
 
@@ -177,7 +177,7 @@ Die Berufungsführerin beantragt:
 ### Schweizer Bundesgericht Bern Art. 77 IPRG
 
 - **Dreißig Tage** Beschwerdefrist
-- **Eng begrenzte Gründe** Ordre Public Manifest fehlerhaft Verstoss schweizer Verfahrensgarantien
+- **Eng begrenzte Gründe** Ordre Public Manifest fehlerhaft Verstoß schweizer Verfahrensgarantien
 - **Selten erfolgreich** außer in Ausnahmefällen
 - Pechstein-Verfahren Beispiel erfolgreich
 

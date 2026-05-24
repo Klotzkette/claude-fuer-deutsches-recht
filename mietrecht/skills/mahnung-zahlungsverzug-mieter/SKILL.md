@@ -7,7 +7,7 @@ description: Vermietersicht — verfasse Mahnung und ggf. fristlose Kuendigung b
 
 ## Disclaimer (Schlüsselstelle, mehrfach)
 
-Eine Zahlungsverzugskündigung ist die mietrechtlich folgenreichste Erklärung. Eine formale oder materielle Fehlkündigung ist unwirksam und kann zu Schadensersatzanspruechen des Mieters fuehren. Vor Versand einer fristlosen Kündigung ist eine fachanwaltliche Prüfung dringend empfohlen. Diese Auto-Erstellung ersetzt nicht die anwaltliche Vertretung.
+Eine Zahlungsverzugskündigung ist die mietrechtlich folgenreichste Erklärung. Eine formale oder materielle Fehlkündigung ist unwirksam und kann zu Schadensersatzanspruechen des Mieters führen. Vor Versand einer fristlosen Kündigung ist eine fachanwaltliche Prüfung dringend empfohlen. Diese Auto-Erstellung ersetzt nicht die anwaltliche Vertretung.
 
 ## Workflow
 
@@ -41,7 +41,7 @@ Was zur Miete zählt: Grundmiete plus Nebenkostenvorauszahlungen plus etwaige He
 
 ### Schritt 5 — Formale Anforderungen (§ 568 Abs. 1 BGB)
 
-- **Schriftform** zwingend mit eigenhaendiger Unterschrift aller Vermieter.
+- **Schriftform** zwingend mit eigenhändiger Unterschrift aller Vermieter.
 - **Begründung** im Schreiben — konkrete Aufstellung der rückständigen Monate und Betraege (§ 569 Abs. 4 BGB).
 - **Hinweis** auf das Recht des Mieters die Wohnung durch Nachzahlung zu erhalten (§ 569 Abs. 3 Nr. 2 BGB) — Schonfristzahlung innerhalb von **zwei Monaten** nach Zustellung der Raeumungsklage.
 
@@ -64,7 +64,7 @@ Was zur Miete zählt: Grundmiete plus Nebenkostenvorauszahlungen plus etwaige He
 
 ### A. Mahnschreiben
 
-Sachlich kurz. Anrede mit Namen. Bezugnahme auf den Mietvertrag. Konkrete Aufstellung des Rückstands. Frist zur Zahlung. Hinweis auf Verzugszinsen und drohende Kündigung. Hoeflichkeitsformel.
+Sachlich kurz. Anrede mit Namen. Bezugnahme auf den Mietvertrag. Konkrete Aufstellung des Rückstands. Frist zur Zahlung. Hinweis auf Verzugszinsen und drohende Kündigung. Höflichkeitsformel.
 
 ### B. Fristlose Kündigung mit hilfsweiser ordentlicher Kündigung
 

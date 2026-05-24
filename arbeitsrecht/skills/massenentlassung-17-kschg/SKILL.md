@@ -23,7 +23,7 @@ Bei Massenentlassungen ist § 17 KSchG zwingend zu beachten — sonst sind alle 
 
 - **Dreißig Kalendertage** Berechnungs-Zeitraum
 - Vor und nach jeweiliger Kündigung zu zählen
-- Bei Aufhebungs-Vereinbarungen mit Kündigungs-Anstoss durch Arbeitgeber: zählend
+- Bei Aufhebungs-Vereinbarungen mit Kündigungs-Anstoß durch Arbeitgeber: zählend
 
 ### Begriff Arbeitnehmer
 
@@ -216,7 +216,7 @@ Schriftlich an Betriebsrat:
 - Anzeige-Schreiben AfA Vorlage
 - Sozialauswahl-Tabelle
 - Frist-Plan
-- Bei Verstoss: Verteidigungs-Strategie Arbeitnehmer
+- Bei Verstoß: Verteidigungs-Strategie Arbeitnehmer
 
 ## Quellen
 

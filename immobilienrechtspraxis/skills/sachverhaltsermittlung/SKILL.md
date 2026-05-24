@@ -85,4 +85,4 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
 - "Kündigungsstreit gegen Mieter Schmitt. Antworten der
   Hausverwaltung anbei. Konsolidiere zum Memo."
 - "Ich habe nur eine halbe Akte. Welche Fragen muss ich stellen,
-  bevor ich rechtlich pruefe?"
+  bevor ich rechtlich prüfe?"

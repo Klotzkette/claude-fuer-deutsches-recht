@@ -5,11 +5,11 @@ description: "Prueft das anwendbare Recht bei Auslandsbezug: Rom-I-Verordnung fu
 
 # Internationales Privatrecht
 
-Bei Auslandsbezug immer pruefen, welches Recht zur Anwendung kommt.
+Bei Auslandsbezug immer prüfen, welches Recht zur Anwendung kommt.
 
 ## Reihenfolge
 
-1. **Voelker- und EU-rechtliche Vorrang-Regeln**: CISG, FAA, COTIF, Montrealer Uebereinkommen, MARPOL usw.
+1. **Völker- und EU-rechtliche Vorrang-Regeln**: CISG, FAA, COTIF, Montrealer Übereinkommen, MARPOL usw.
 2. **EU-Verordnungen**: Rom-I (Verordnung Nr. 593 2008), Rom-II (Verordnung Nr. 864 2007), Rom-III (Familiensachen)
 3. **Bilaterale Abkommen** (z. B. mit Iran)
 4. **Autonomes deutsches IPR**: Artikel 3 ff EGBGB
@@ -18,7 +18,7 @@ Bei Auslandsbezug immer pruefen, welches Recht zur Anwendung kommt.
 
 - Artikel 3: Rechtswahl
 - Artikel 4: ohne Rechtswahl - Anknuepfung an die charakteristische Leistung
-- Artikel 6: Verbrauchervertraege - guenstigeres Recht des gewoehnlichen Aufenthalts des Verbrauchers
+- Artikel 6: Verbraucherverträge - günstigeres Recht des gewoehnlichen Aufenthalts des Verbrauchers
 - Artikel 9: Eingriffsnormen des Forums (DSGVO ist Eingriffsnorm im Sinne dieser Vorschrift, Erwaegungsgrund 81 Rom-I, st. Rspr. der nationalen Gerichte und EuGH)
 - Artikel 21: ordre public
 
@@ -29,4 +29,4 @@ Bei Auslandsbezug immer pruefen, welches Recht zur Anwendung kommt.
 
 ## Eingriffsnormen
 
-DSGVO Artikel 3 (raeumlicher Anwendungsbereich) ist Eingriffsnorm. Das deutsche Datenschutzrecht ist auf Verarbeitungen anwendbar, die sich an Personen in der EU richten, unabhaengig vom Sitz des Verantwortlichen.
+DSGVO Artikel 3 (raeumlicher Anwendungsbereich) ist Eingriffsnorm. Das deutsche Datenschutzrecht ist auf Verarbeitungen anwendbar, die sich an Personen in der EU richten, unabhängig vom Sitz des Verantwortlichen.

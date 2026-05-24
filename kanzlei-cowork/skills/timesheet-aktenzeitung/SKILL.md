@@ -7,7 +7,7 @@ description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit
 
 ## Zweck
 
-Die Aktenzeitung ist die Tagebuchfuehrung pro Mandat. Sie ist Grundlage jeder Honorarrechnung nach Stundensatz und Belegfähigkeit gegenüber dem Mandanten.
+Die Aktenzeitung ist die Tagebuchführung pro Mandat. Sie ist Grundlage jeder Honorarrechnung nach Stundensatz und Belegfähigkeit gegenüber dem Mandanten.
 
 ## Erfassungseinheit
 
@@ -31,8 +31,8 @@ Die Aktenzeitung ist die Tagebuchfuehrung pro Mandat. Sie ist Grundlage jeder Ho
 
 ## Tätigkeitsarten
 
-- **Mandatsbearbeitung**: Korrespondenz Schriftsatzentwurf Recherche Beratungsgespraech.
-- **Verhandlung**: Schiedsverhandlung Vergleichsgespraech.
+- **Mandatsbearbeitung**: Korrespondenz Schriftsatzentwurf Recherche Beratungsgespräch.
+- **Verhandlung**: Schiedsverhandlung Vergleichsgespräch.
 - **Gerichtstermin**: Hauptverhandlung Anhörung.
 - **Reise**: An- und Abreise zu Terminen (Stundensatz idR halb).
 - **Akteneinsicht**: bei Behörde Gericht VDR.

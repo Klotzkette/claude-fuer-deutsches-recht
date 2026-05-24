@@ -121,5 +121,5 @@ Medien- und Urheberrecht spaltet sich auf — Urheberrecht (Werknutzung) vs. Per
 - LPG (jeweils landesrechtlich)
 - DSA DDG (DDG seit 14.05.2024 ersetzt TMG; NetzDG überwiegend außer Kraft — Restvorschriften für Altfälle vor 17.02.2024)
 - BGH I. Zivilsenat VI. Zivilsenat
-- Schricker/Loewenheim UrhG
+- Schricker/Löwenheim UrhG
 - Soehring/Hoehne Presserecht

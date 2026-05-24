@@ -3,7 +3,7 @@ name: annullierung-oder-verspaetung-einordnen
 description: Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 5 VO 261/2004) Verspaetung (Art. 6 VO 261/2004 plus EuGH-Sturgeon-Rechtsprechung) Nichtbefoerderung wegen Overbooking (Art. 4 VO 261/2004) oder reine Umbuchung. Behandelt Sonderfaelle Flug am naechsten Tag mit gleicher Flugnummer Anschlussflug ohne Anschluss-Beifoerderung Ersatzflug. Erzeugt Subsumtionsergebnis mit Begruendung Verweis auf Normen und Rechtsprechung.
 ---
 
-# Annullierung Verspätung oder Nichtbefoerderung einordnen
+# Annullierung Verspätung oder Nichtbeförderung einordnen
 
 ## Drei Hauptkategorien
 
@@ -28,14 +28,14 @@ Der **geplante Flug findet statt**, aber:
 
 **Wichtig**: Maßgeblich ist die **Ankunftsverspätung am Endziel** — nicht die Abflugverspätung.
 
-### 3. Nichtbefoerderung (Art. 4 VO 261/2004)
+### 3. Nichtbeförderung (Art. 4 VO 261/2004)
 
 - Klassisch **Overbooking** — die Airline bucht mehr Plätze als verfügbar.
-- Die Airline verweigert die Befoerderung gegen den Willen des Passagiers.
+- Die Airline verweigert die Beförderung gegen den Willen des Passagiers.
 - Voraussetzung: rechtzeitiges Erscheinen am Check-in (in der Regel 45 Minuten vor Abflug).
-- Folge: Ausgleichsanspruch wie bei Annullierung + Wahl Erstattung oder anderweitige Befoerderung.
+- Folge: Ausgleichsanspruch wie bei Annullierung + Wahl Erstattung oder anderweitige Beförderung.
 
-**Nicht Nichtbefoerderung** wenn Passagier ausgeschlossen wird wegen:
+**Nicht Nichtbeförderung** wenn Passagier ausgeschlossen wird wegen:
 - Fehlender Reisedokumente (Pass Visum).
 - Sicherheitsbedenken.
 - Fluguntauglichkeit (medizinisch).
@@ -91,8 +91,8 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist un
 ## Ausgabe
 
 - `einordnung.md` mit:
-  - rechtlicher Kategorie (Annullierung / Verspätung / Nichtbefoerderung)
+  - rechtlicher Kategorie (Annullierung / Verspätung / Nichtbeförderung)
   - Begründung mit Verweis auf Norm und EuGH-Rechtsprechung
   - Höhe der voraussichtlichen Ausgleichszahlung (verweist auf Skill `distanz-und-ausgleich-berechnen`)
-  - offenen Fragen zur Klaerung mit dem Mandanten
+  - offenen Fragen zur Klärung mit dem Mandanten
 - Hinweis auf Skill `ausnahmen-aussergewoehnliche-umstaende-pruefen` zur Prüfung der Ausnahmen.

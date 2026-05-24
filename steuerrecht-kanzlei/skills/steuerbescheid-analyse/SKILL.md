@@ -36,18 +36,18 @@ Bescheid systematisch lesen vor dem Einspruch.
 - **Vorauszahlungen** richtig angerechnet (§ 36 EStG)?
 - **Solidaritaetszuschlag Kirchensteuer** zutreffend?
 
-### 3. Vorlaeufigkeit und Änderbarkeit
+### 3. Vorläufigkeit und Änderbarkeit
 
 - **§ 164 AO** Vorbehalt der Nachprüfung — Bescheid jederzeit aenderbar bis Festsetzungsverjährung.
-- **§ 165 AO** Vorlaeufigkeitsvermerk — Bescheid teilweise vorlaeufig.
+- **§ 165 AO** Vorläufigkeitsvermerk — Bescheid teilweise vorläufig.
 - **§ 172 ff. AO** Änderungsvorschriften nach Bestandskraft (z. B. § 173 neue Tatsachen § 175 Änderungsbescheid).
 - **§ 129 AO** offenbare Unrichtigkeit (Schreib- Rechenfehler).
 
-### 4. Schaetzung (§ 162 AO)
+### 4. Schätzung (§ 162 AO)
 
-Bei Schaetzungsbescheid:
-- Begründung für Schaetzungsbefugnis (Nicht-Abgabe Erklärung verletzte Mitwirkungspflicht).
-- Schaetzungsgrundlagen schlüssig?
+Bei Schätzungsbescheid:
+- Begründung für Schätzungsbefugnis (Nicht-Abgabe Erklärung verletzte Mitwirkungspflicht).
+- Schätzungsgrundlagen schlüssig?
 - Höhe wirtschaftlich plausibel?
 - Sicherheitszuschlaege im Rahmen?
 

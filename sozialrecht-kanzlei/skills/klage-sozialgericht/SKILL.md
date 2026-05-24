@@ -14,7 +14,7 @@ description: Entwurf einer Klage zum Sozialgericht nach §§ 87 ff. SGG. Klagefr
 ## Zuständigkeit
 
 - **Sachlich** Sozialgericht (§ 8 SGG) für Streitigkeiten in den Angelegenheiten der gesetzlichen Sozialversicherung der Grundsicherung für Arbeitsuchende des Asylbewerberleistungsgesetzes und in den überwiegenden Bereichen des SGB.
-- **Oertlich** das SG des gewöhnlichen Aufenthaltsorts des Klägers (§ 57 Abs. 1 SGG); bei juristischen Personen Sitz (§ 57 Abs. 2 SGG).
+- **Örtlich** das SG des gewöhnlichen Aufenthaltsorts des Klägers (§ 57 Abs. 1 SGG); bei juristischen Personen Sitz (§ 57 Abs. 2 SGG).
 
 ## Klagearten
 
@@ -76,7 +76,7 @@ Mit Sigel K1 K2 K3. Siehe Skill `anlagen-erstellen`.
 
 ## PKH-Antrag
 
-Bei wirtschaftlicher Beduerftigkeit: PKH nach § 73a SGG iVm §§ 114 ff. ZPO. Verweis auf Skill `prozesskostenhilfe-antrag`.
+Bei wirtschaftlicher Bedürftigkeit: PKH nach § 73a SGG iVm §§ 114 ff. ZPO. Verweis auf Skill `prozesskostenhilfe-antrag`.
 
 ## Ausgabe
 

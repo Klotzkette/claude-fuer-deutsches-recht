@@ -75,7 +75,7 @@ Hinweis: Die Beschlussfassung zu TOP 1 bis 3 erfordert notarielle Beurkundung.
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Einberufungsmangel, Gesellschafterin erhebt Einwand | Beschluss anfechtbar | Heilung durch nachträgliche Zustimmung | Ordnungsgemäße Einberufung |
 | Notar nicht rechtzeitig beauftragt | Versammlung ohne Beurkundung | Notar in Suche | Notar bestätigt Termin |

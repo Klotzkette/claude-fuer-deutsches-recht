@@ -10,7 +10,7 @@ Familiensachen folgen FamFG statt ZPO (mit Verweisen auf ZPO).
 ## Wichtigste Unterschiede
 
 - **Beschluss** statt Urteil (Paragraf 38 FamFG)
-- **Anhoerung** zwingend in vielen Verfahren (Kinder ab 14 Jahren, Eltern, Pflegepersonen)
+- **Anhörung** zwingend in vielen Verfahren (Kinder ab 14 Jahren, Eltern, Pflegepersonen)
 - **Verbundverfahren** Paragraf 137 FamFG bei Scheidung: Folgesachen werden zwingend mitverhandelt
 - **Versorgungsausgleich** ist Folgesache, wird im Verbund entschieden
 - **Verfahrensbeistand** Paragraf 158 FamFG (insbesondere in Kindersachen)
@@ -22,7 +22,7 @@ Paragraf 1697a BGB - Kindeswohl ist Leitlinie aller familiengerichtlichen Entsch
 
 ## Rechtsmittelbelehrung FamFG
 
-Beschwerde nach Paragraf 58 ff FamFG, Frist 1 Monat (in Eilfaellen 14 Tage), beim erlassenden Gericht oder beim Beschwerdegericht (OLG).
+Beschwerde nach Paragraf 58 ff FamFG, Frist 1 Monat (in Eilfällen 14 Tage), beim erlassenden Gericht oder beim Beschwerdegericht (OLG).
 
 ## Form
 

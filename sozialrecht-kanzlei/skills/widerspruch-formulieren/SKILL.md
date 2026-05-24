@@ -30,7 +30,7 @@ description: Entwirft einen begruendeten Widerspruch gegen einen Sozialleistungs
 
 ### 3. Begründung
 
-Aus dem Analyseprotokoll uebernehmen:
+Aus dem Analyseprotokoll übernehmen:
 
 - Formelle Mangel zuerst (Anhörung Begründungs- und Rechtsbehelfsbelehrungsfehler).
 - Materielle Mangel sortiert nach Erfolgsaussicht.

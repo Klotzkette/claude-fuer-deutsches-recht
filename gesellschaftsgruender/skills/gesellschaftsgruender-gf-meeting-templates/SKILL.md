@@ -7,7 +7,7 @@ description: "Templates Geschaeftsfuehrer-Meetings Tagesordnung Einladung Protok
 
 ## Zweck
 
-Vorlagen fuer Tagesordnung, Einladung und Protokoll der Geschaeftsfuehrer-Meetings. Bei mehrgliedriger Geschaeftsfuehrung sind dokumentierte Meetings essentiell — sowohl zur Entscheidungs-Dokumentation als auch zur Haftungs-Praevention.
+Vorlagen für Tagesordnung, Einladung und Protokoll der Geschäftsführer-Meetings. Bei mehrgliedriger Geschäftsführung sind dokumentierte Meetings essentiell — sowohl zur Entscheidungs-Dokumentation als auch zur Haftungs-Prävention.
 
 ## 1) Einladung — Standard-GF-Meeting
 
@@ -135,9 +135,9 @@ Bernd Schmidt      _______________
 
 ### Voraussetzungen
 
-- **Einstimmigkeit** erforderlich (Paragraf 48 II GmbHG analog fuer GF-Beschluss)
+- **Einstimmigkeit** erforderlich (Paragraf 48 II GmbHG analog für GF-Beschluss)
 - Schriftform oder Textform (E-Mail genuegt)
-- Dokumentiert im naechsten Protokoll
+- Dokumentiert im nächsten Protokoll
 
 ### Vorlage
 
@@ -252,14 +252,14 @@ Mehrheit: 2:1 zustimmend
 
 ## 9) Typische Fehler
 
-1. **Keine Tagesordnung**. Diskussion ohne Struktur, Beschluesse spaeter nicht nachvollziehbar.
-2. **Schriftliche Beschluesse fehlen**. Bei Streit nicht beweisbar.
-3. **Stimmverhalten nicht dokumentiert**. Bei spaeterer Haftungsfrage problematisch.
-4. **Beschluesse nicht eindeutig**. „Wir denken ueber X nach" ist kein Beschluss.
-5. **Naechste Schritte vergessen**. Wer macht was bis wann?
+1. **Keine Tagesordnung**. Diskussion ohne Struktur, Beschlüsse später nicht nachvollziehbar.
+2. **Schriftliche Beschlüsse fehlen**. Bei Streit nicht beweisbar.
+3. **Stimmverhalten nicht dokumentiert**. Bei späterer Haftungsfrage problematisch.
+4. **Beschlüsse nicht eindeutig**. „Wir denken über X nach" ist kein Beschluss.
+5. **Nächste Schritte vergessen**. Wer macht was bis wann?
 
 ## Anschluss
 
-- `gesellschaftsgruender-geschaeftsordnung-gf` — Rahmen-Geschaeftsordnung
+- `gesellschaftsgruender-geschaeftsordnung-gf` — Rahmen-Geschäftsordnung
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlung
 - `gesellschaftsgruender-bilinguale-dokumente` — DE/EN-Vorlagen

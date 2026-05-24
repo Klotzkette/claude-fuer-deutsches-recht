@@ -122,7 +122,7 @@ Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzier
 
 ### Rückforderungs-Risiko
 
-- Bei Verstoss gegen Auflagen
+- Bei Verstoß gegen Auflagen
 - Rückforderung mit Zinsen
 - 10-Jahres-Rückblick möglich
 
@@ -138,7 +138,7 @@ Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzier
 
 - Dokumentations-Pflichten
 - Audit-Termine
-- Bei Verstoss Eilantrag möglich
+- Bei Verstoß Eilantrag möglich
 
 ### Bei Widerruf
 

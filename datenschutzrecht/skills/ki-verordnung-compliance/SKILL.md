@@ -202,10 +202,10 @@ Verbote (Auswahl):
 
 ### Sanktionen Art. 99 KI-VO
 
-| Verstoss | Höchst-Strafe |
+| Verstoß | Höchst-Strafe |
 |---|---|
 | Verbotene Praktiken Art. 5 | EUR 35 Mio oder 7 % Konzernumsatz |
-| Verstoss gegen Hochrisiko-Pflichten | EUR 15 Mio oder 3 % Konzernumsatz |
+| Verstoß gegen Hochrisiko-Pflichten | EUR 15 Mio oder 3 % Konzernumsatz |
 | Falsche Informationen an Behörden | EUR 7,5 Mio oder 1 % Konzernumsatz |
 
 ### Verbandsklage
@@ -246,8 +246,8 @@ Verbote (Auswahl):
 ## Schritt 11 — Verzahnung mit anderen Skills
 
 - **dsfa-erstellung** — bei personenbezogenen Daten kombinierte Folgenabschätzung
-- **avv-pruefung** — wenn KI durch Dienstleister
-- **drittlandstransfer-pruefung** — bei Cloud-KI ausserhalb EU
+- **avv-prüfung** — wenn KI durch Dienstleister
+- **drittlandstransfer-prüfung** — bei Cloud-KI außerhalb EU
 - **anwendungsfall-triage** — wenn KI-VO-Bezug → hier herleiten
 - **mandantendaten-ki** (Kanzlei-intern) — bei eigener KI-Nutzung
 

@@ -7,17 +7,17 @@ description: "Normenkontrollverfahren § 47 VwGO bei Bauleitplaenen Rechtsverord
 
 ## Zweck
 
-Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsverordnungen).
+Prüfung untergesetzlicher Rechtsnormen (Bebauungspläne, Satzungen, Rechtsverordnungen).
 
 ## 1) Anwendungs-Bereich
 
 ### Pruefbare Normen § 47 I VwGO
 
-- Bauleitplaene (Flaechennutzungsplan, Bebauungsplan)
+- Bauleitpläne (Flächennutzungsplan, Bebauungsplan)
 - Rechtsverordnungen Land / Kreis / Gemeinde
 - Satzungen Gemeinden
 
-### Nicht pruefbare
+### Nicht prüfbare
 
 - Bundesgesetze (BVerfG-Verfahren)
 - Verwaltungsvorschriften (im Wirkungsfeld)
@@ -27,7 +27,7 @@ Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsveror
 ### Voraussetzung
 
 - Rechts-Beeintraechtigung erkennbar
-- Persoenliche Betroffenheit
+- Persönliche Betroffenheit
 - Nicht jede Beteiligung
 
 ### Beispiele
@@ -39,10 +39,10 @@ Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsveror
 ## 3) Frist § 47 II VwGO
 
 - **1 Jahr** nach Bekanntmachung
-- Bei Versaeumnis: Antrag unzulaessig
-- Aenderungs-Antraege erneut Frist
+- Bei Versäumnis: Antrag unzulaessig
+- Änderungs-Anträge erneut Frist
 
-## 4) Zustaendigkeit OVG
+## 4) Zuständigkeit OVG
 
 - Oberverwaltungsgericht / Verwaltungsgerichtshof
 - Spezialisierte Senate
@@ -54,9 +54,9 @@ Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsveror
 
 - Schriftlich beim OVG
 - Bezug auf konkrete Norm
-- Antragsbegruendung
+- Antragsbegründung
 
-### Schritt 2 — Anhoerung
+### Schritt 2 — Anhörung
 
 - Antragsgegner (Plan-Geber)
 - Beteiligte
@@ -64,21 +64,21 @@ Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsveror
 ### Schritt 3 — Beweisaufnahme
 
 - Akten-Einsicht
-- ggf. Sachverstaendige
+- ggf. Sachverständige
 
 ### Schritt 4 — Urteil
 
 - Normenverwerfungs-Urteil
-- Bei Erfolg: Norm tritt rueckwirkend ausser Kraft
+- Bei Erfolg: Norm tritt rueckwirkend außer Kraft
 - Allgemein-Verbindlichkeit
 
 ## 6) Bauplanungs-Recht Schwerpunkt
 
-### Pruefungsmaßstab
+### Prüfungsmaßstab
 
 - Pflicht-Inhalte BauGB
 - Abwaegungs-Gebot § 1 VII BauGB
-- Verhaeltnismaessigkeit
+- Verhältnismaessigkeit
 
 ### Mangel-Quellen
 
@@ -90,26 +90,26 @@ Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsveror
 
 - Bestimmte Mangel sind heilbar
 - Bei Mangel-Vortrag im Verfahren: keine Heilung
-- Detaillierte Pruefung erforderlich
+- Detaillierte Prüfung erforderlich
 
 ## 7) Workflow
 
-### Phase 1 — Plan-Pruefung
+### Phase 1 — Plan-Prüfung
 
-- Plan-Begruendung
+- Plan-Begründung
 - Abwaegungs-Vorgang
 - Beteiligungs-Verfahren
 
-### Phase 2 — Antragsbegruendung
+### Phase 2 — Antragsbegründung
 
-- Konkrete Maengel
+- Konkrete Mängel
 - Eigene Betroffenheit
 - Beweisanbote
 
 ### Phase 3 — OVG-Verfahren
 
 - Schriftsatz-Wechsel
-- Anhoerungs-Termin
+- Anhörungs-Termin
 - Urteil
 
 ### Phase 4 — Bei Erfolg
@@ -122,7 +122,7 @@ Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsveror
 
 ### Voraussetzungen
 
-- Eilbeduerftigkeit
+- Eilbedürftigkeit
 - Erfolgsaussicht Hauptverfahren
 
 ### Beispiel
@@ -140,7 +140,7 @@ Pruefung untergesetzlicher Rechtsnormen (Bebauungsplaene, Satzungen, Rechtsveror
 
 1. **1-Jahres-Frist verpasst**
 2. **Antragsbefugnis nicht ausreichend dargetan**
-3. **Maengel pauschal vorgetragen**
+3. **Mängel pauschal vorgetragen**
 4. **Heilungs-Pflicht nach § 215 BauGB ignoriert**
 
 ## 11) BVerwG-Linien

@@ -14,7 +14,7 @@ description: Entwurf einer Klage zum Finanzgericht nach §§ 40 ff. FGO. Klagefr
 ## Zuständigkeit
 
 - **Sachlich** Finanzgericht (§ 33 FGO) für Streitigkeiten über Abgabenangelegenheiten.
-- **Oertlich** das FG in dessen Bezirk die beklagte Behörde ihren Sitz hat (§ 38 FGO).
+- **Örtlich** das FG in dessen Bezirk die beklagte Behörde ihren Sitz hat (§ 38 FGO).
 - **Eingang** über beA (Pflicht für RA) oder EGVP.
 
 ## Klagearten
@@ -71,15 +71,15 @@ Mit Sigel K1 K2 K3.
 - **beA-Pflicht** für Rechtsanwälte (§ 52d FGO).
 - **Streitwert** und Gerichtskosten nach GKG (§§ 52 ff. GKG).
 - **Untersuchungsgrundsatz** (§ 76 FGO) — Gericht ermittelt von Amts wegen.
-- **Praeklusion** § 79b Abs. 3 FGO bei Versäumung der Tatsachenpraeklusionsfrist.
+- **Präklusion** § 79b Abs. 3 FGO bei Versäumung der Tatsachenpraeklusionsfrist.
 
 ## Aussetzung der Vollziehung
 
-Wenn das FA die AdV abgelehnt hat: Antrag an FG nach § 69 Abs. 3 FGO mit Eilbeduerftigkeit. Skill `aussetzung-vollziehung`.
+Wenn das FA die AdV abgelehnt hat: Antrag an FG nach § 69 Abs. 3 FGO mit Eilbedürftigkeit. Skill `aussetzung-vollziehung`.
 
 ## PKH
 
-- § 142 FGO iVm §§ 114 ff. ZPO. Beduerftigkeit und Erfolgsaussicht.
+- § 142 FGO iVm §§ 114 ff. ZPO. Bedürftigkeit und Erfolgsaussicht.
 - Skill `prozesskostenhilfe-antrag` aus dem Sozialrecht-Plugin sinngemäß.
 
 ## Revision

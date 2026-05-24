@@ -1,4 +1,4 @@
-# Outside-in-Assessment aus oeffentlichen Quellen.
+# Outside-in-Assessment aus öffentlichen Quellen.
 
 ## Kontext
 

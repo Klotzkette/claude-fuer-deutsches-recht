@@ -13,7 +13,7 @@ Erstellt Entscheidungsunterlagen für Vorstand/Geschäftsführung/Aufsichtsrat m
 
 - Entscheidung, Alternativen, Informationsquellen und Beraterbeitraege darstellen.
 - Due-Diligence-Ergebnisse und Restrisiken knapp priorisieren.
-- KI-Nutzung, Plausibilisierung und Datenluecken transparent machen.
+- KI-Nutzung, Plausibilisierung und Datenlücken transparent machen.
 - Business-Judgment- und Legalitaetspflicht-Aspekte als Prüfkarte ausgeben.
 
 ## Rote Schwellen

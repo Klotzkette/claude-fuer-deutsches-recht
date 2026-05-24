@@ -14,7 +14,7 @@ description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Ma
 
 | Bereich | Norm |
 |---|---|
-| Erbrecht BGB | §§ 1922 ff. BGB (Erbfolge) §§ 2064 ff. (Testament) §§ 2274 ff. (Erbvertrag) §§ 2303 ff. (Pflichtteil) §§ 2147 ff. (Vermaechtnis) §§ 2032 ff. (Erbengemeinschaft Auseinandersetzung) |
+| Erbrecht BGB | §§ 1922 ff. BGB (Erbfolge) §§ 2064 ff. (Testament) §§ 2274 ff. (Erbvertrag) §§ 2303 ff. (Pflichtteil) §§ 2147 ff. (Vermächtnis) §§ 2032 ff. (Erbengemeinschaft Auseinandersetzung) |
 | Nachlassverfahren | FamFG §§ 342 ff. (Nachlassgericht beim AG) |
 | Erbschaftsteuer | ErbStG Bewertungsgesetz |
 | Internationales Erbrecht | EU-ErbVO (Verordnung EU Nr. 650/2012) Europaeisches Nachlasszeugnis |

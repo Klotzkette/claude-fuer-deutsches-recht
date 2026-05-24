@@ -20,7 +20,7 @@ Eine muendlich erbetene und nicht schriftlich zugestandene Stundung darf nicht i
 ### 1. Lieferanten
 
 - Regelmäßig **bilateral verhandelbar**.
-- Beziehungs-Vorteil: Lieferanten haben Interesse an Fortfuehrung des Kunden.
+- Beziehungs-Vorteil: Lieferanten haben Interesse an Fortführung des Kunden.
 - Empfehlung: schriftliche Stundungsanfrage mit konkretem Verzugsplan und ggf. **Teilzahlung als Goodwill-Geste**.
 
 ### 2. Bank
@@ -28,7 +28,7 @@ Eine muendlich erbetene und nicht schriftlich zugestandene Stundung darf nicht i
 - Bei bestehenden Darlehen Tilgungspause oder Verlängerung.
 - Bei Kreditlinie Erhöhung oder Verlängerung.
 - Bank verlangt regelmäßig **Sanierungskonzept** (IDW S 6) oder zumindest die Fortbestehensprognose.
-- Verhandlung erfordert Bankgespraech — schriftliche Stundungszusage ggf. erst nach Prüfung.
+- Verhandlung erfordert Bankgespräch — schriftliche Stundungszusage ggf. erst nach Prüfung.
 
 ### 3. Vermieter
 
@@ -37,18 +37,18 @@ Eine muendlich erbetene und nicht schriftlich zugestandene Stundung darf nicht i
 
 ### 4. Steueramt (§ 222 AO)
 
-- **Erhebliche Haerte** muss vorliegen (§ 222 S. 1 AO).
+- **Erhebliche Härte** muss vorliegen (§ 222 S. 1 AO).
 - Stundung ist **Ermessensentscheidung** der Finanzbehörde.
 - Bei drohender Insolvenz oft restriktiv.
 - Sicherheitsleistung verlangt (§ 222 S. 2 AO).
 - Hinweis: Lohnsteuer kann **nicht** gestundet werden (§ 222 S. 3 AO i.V.m. § 41a EStG).
 
-### 5. Sozialversicherungstraeger (§ 76 Abs. 2 SGB IV)
+### 5. Sozialversicherungsträger (§ 76 Abs. 2 SGB IV)
 
 - **Sehr restriktiv** — nur in Ausnahmefällen.
 - Sozialversicherungsbeitraege sind treuhaenderisch und Arbeitnehmer-Anteil.
-- Nichtabfuehrung kann § 266a StGB auslösen (Vorenthalten Sozialversicherungsbeitraege Arbeitnehmer-Anteil).
-- **Pflicht zur Abfuehrung** der Arbeitnehmer-Beitraege bleibt grundsaetzlich auch bei Stundung — daher Stundung praktisch fast unwirksam.
+- Nichtabführung kann § 266a StGB auslösen (Vorenthalten Sozialversicherungsbeitraege Arbeitnehmer-Anteil).
+- **Pflicht zur Abführung** der Arbeitnehmer-Beitraege bleibt grundsaetzlich auch bei Stundung — daher Stundung praktisch fast unwirksam.
 
 ## Mustervorlage Lieferant
 

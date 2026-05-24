@@ -14,7 +14,7 @@ Vor der Verwirklichung eines noch nicht verwirklichten Sachverhalts (z. B. gepla
 ### 1. Antragsteller
 
 - Steuerpflichtiger oder Gesellschaft für die der Sachverhalt verbindliche Wirkung haben soll.
-- Bei Gesellschaftsgruendungen Gesellschaftermehrheit möglich.
+- Bei Gesellschaftsgründungen Gesellschaftermehrheit möglich.
 
 ### 2. Noch nicht verwirklichter Sachverhalt
 
@@ -54,7 +54,7 @@ Vor der Verwirklichung eines noch nicht verwirklichten Sachverhalts (z. B. gepla
 Präzise Fragen z. B.:
 
 1. Ist der geplante Vorgang als Verschmelzung iSd UmwStG § 11 ff. zu behandeln?
-2. Erfolgt eine steuerneutrale Buchwertfortfuehrung?
+2. Erfolgt eine steuerneutrale Buchwertfortführung?
 3. Werden Verlustvorträge erhalten?
 
 ### 5. Eigene Rechtsauffassung
@@ -71,7 +71,7 @@ Präzise Fragen z. B.:
 - Bewertungen
 - Konzeptpapiere
 
-## Gebuehren (§ 89 Abs. 5 AO)
+## Gebühren (§ 89 Abs. 5 AO)
 
 - Gebuehr richtet sich nach dem Gegenstandswert (Steuerauswirkung).
 - Mindestgebuehr 300 EUR.

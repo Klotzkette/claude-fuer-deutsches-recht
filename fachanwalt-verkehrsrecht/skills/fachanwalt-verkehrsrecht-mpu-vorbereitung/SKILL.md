@@ -9,14 +9,14 @@ description: "MPU Medizinisch-Psychologische Untersuchung Vorbereitung. Anlass A
 
 Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" — vor Wiedererteilung Fahrerlaubnis.
 
-## 1) Anlaesse fuer MPU-Anordnung
+## 1) Anlaesse für MPU-Anordnung
 
 | Anlass | Rechtsgrundlage |
 |---|---|
 | Alkohol > 1,6 Promille | § 13 Nr. 2c FeV |
 | Wiederholungs-Alkohol-Tat | § 13 Nr. 2b FeV |
 | Drogen (auch einmaliger Konsum harter Drogen) | § 14 FeV |
-| Regelmaessiger Cannabis-Konsum (Stand vor KCanG) | § 14 FeV — nach KCanG nur bei Beeintraechtigung |
+| Regelmäßiger Cannabis-Konsum (Stand vor KCanG) | § 14 FeV — nach KCanG nur bei Beeintraechtigung |
 | Punkte 8+ Fahreignungs-Register | § 4 StVG |
 | Aggressionspotential | § 11 FeV |
 
@@ -34,7 +34,7 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" 
 
 ## 3) Vorbereitung
 
-### Verhaltens-Aenderung dokumentieren
+### Verhaltens-Änderung dokumentieren
 
 - Abstinenz (Alkohol-Carbohydrat-Defizient-Transferrin CDT, Drogen-Haartests)
 - Therapie / Beratung
@@ -43,10 +43,10 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" 
 ### MPU-Kurse
 
 - Spezialisierte Anbieter
-- Pruefungs-aehnliche Simulation
-- Gespraechs-Vorbereitung
+- Prüfungs-aehnliche Simulation
+- Gesprächs-Vorbereitung
 
-### Behoerde
+### Behörde
 
 - Begutachtungs-Stelle (TUEV, DEKRA, IPS, AVUS)
 - Auswahl freie Wahl
@@ -55,15 +55,15 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" 
 
 ### Ablauf
 
-- Aerztliche Untersuchung (Blut, Urin)
-- Psychologisches Gespraech (90-120 Min)
+- Ärztliche Untersuchung (Blut, Urin)
+- Psychologisches Gespräch (90-120 Min)
 - Reaktions-Test
 
-### Themen Gespraech
+### Themen Gespräch
 
 - Tatzeit-Rueckblick
 - Konsum-Verhalten heute
-- Verhaltens-Aenderung
+- Verhaltens-Änderung
 - Risiko-Bewertung
 
 ## 5) Erfolgs-Quote
@@ -74,7 +74,7 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" 
 
 ## 6) Workflow
 
-### Phase 1 — Erstgespraech
+### Phase 1 — Erstgespräch
 
 - Mandanten-Sicht
 - Belastungs-Stand
@@ -101,7 +101,7 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" 
 
 ### Vor MPU
 
-- Pruefung Anordnung-Rechtmaessigkeit
+- Prüfung Anordnung-Rechtmäßigkeit
 - Vorbereitung Mandant
 - ggf. Klage gegen Anordnung
 
@@ -114,15 +114,15 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" 
 
 1. **MPU ohne Vorbereitung** -> 30 % Erfolg
 2. **Abstinenz nicht dokumentiert**
-3. **Bagatellisierungs-Haltung** im Gespraech
-4. **Anordnung Recht nicht ueberprüft**
+3. **Bagatellisierungs-Haltung** im Gespräch
+4. **Anordnung Recht nicht überprüft**
 
 ## 9) Aktuelle Sonderkonstellation: Cannabis seit KCanG
 
 - KCanG seit 1.4.2024
 - Cannabis-Konsum nicht mehr strafbar
-- Aber: § 14 FeV-Anordnung weiter moeglich bei Beeintraechtigung
-- Faustregel: > 3,5 ng/ml THC im Blut -> Eignung pruefen
+- Aber: § 14 FeV-Anordnung weiter möglich bei Beeintraechtigung
+- Faustregel: > 3,5 ng/ml THC im Blut -> Eignung prüfen
 
 ## Anschluss
 

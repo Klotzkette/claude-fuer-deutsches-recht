@@ -67,7 +67,7 @@ Post-Money-Cap-Table mit allen Lenders und neuen Investoren. Gesamtverwässerung
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | MFN-Trigger übersehen | Lender erhält schlechtere Konditionen | MFN-Prüfung durchgeführt | MFN automatisch ausgelöst |
 | Stack-Order nicht vereinbart | Rangstreit im Insolvenzfall | Mündliche Abrede | Schriftliche Stack-Order |

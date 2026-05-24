@@ -3,56 +3,56 @@ name: fachanwalt-bau-architektenrecht-abnahme-verweigerung
 description: "Abnahme-Verweigerung wegen Maengeln § 640 BGB. Wesentliche Maengel als Verweigerungsrecht unwesentliche fuehren nur zu Maengelrechten. Foermliche Abnahme Konkludente Abnahme Fiktion § 640 II BGB. Werkmangel Beweislastumkehr nach Abnahme. Workflow Maengelliste Frist Selbstvornahme Klage."
 ---
 
-# Abnahme-Verweigerung wegen Maengeln
+# Abnahme-Verweigerung wegen Mängeln
 
 ## Zweck
 
-Mandate zur Abnahme: Auftraggeber will Abnahme verweigern wegen Maengeln; Auftragnehmer will Abnahme erreichen.
+Mandate zur Abnahme: Auftraggeber will Abnahme verweigern wegen Mängeln; Auftragnehmer will Abnahme erreichen.
 
 ## 1) Eingangs-Abfrage
 
 1. VOB/B oder BGB-Werkvertrag?
-2. Geltend gemachte Maengel — wesentlich oder unwesentlich?
-3. Vertraglicher Fertigstellungs-Termin und tatsaechlicher Stand?
-4. Frist zur Maengelbeseitigung bereits gesetzt?
-5. Vergueutungs-Stand und Sicherheits-Einbehalt?
+2. Geltend gemachte Mängel — wesentlich oder unwesentlich?
+3. Vertraglicher Fertigstellungs-Termin und tatsächlicher Stand?
+4. Frist zur Mängelbeseitigung bereits gesetzt?
+5. Vergütungs-Stand und Sicherheits-Einbehalt?
 
 ## 2) Abnahme-Wirkung § 640 II BGB
 
 | Wirkung | Konsequenz |
 |---|---|
-| Faelligkeit Werklohn | Rechnung jetzt zahlbar |
-| Gefahrtragungs-Wechsel | Risiko geht auf AG ueber |
-| Beweislastumkehr bei Maengeln | AG muss beweisen, dass Mangel bei Abnahme bestand |
+| Fälligkeit Werklohn | Rechnung jetzt zahlbar |
+| Gefahrtragungs-Wechsel | Risiko geht auf AG über |
+| Beweislastumkehr bei Mängeln | AG muss beweisen, dass Mangel bei Abnahme bestand |
 | Beginn Verjaehrungsfrist | 5 Jahre Bau, 4 Jahre Werk (VOB/B 4 Jahre Bau) |
-| Beginn Gewaehrleistung | Maengel-Anspruch ab Abnahme |
+| Beginn Gewaehrleistung | Mängel-Anspruch ab Abnahme |
 
 ## 3) Abnahme-Verweigerungsrecht
 
 ### Wesentlicher Mangel § 640 II 1 BGB
 
 - Berechtigt zur Verweigerung
-- Definition: Mangel beeintraechtigt erheblich die vertragsgemaesse Nutzung
-- Beispiele: Statik-Mangel, Dachundichtigkeit, Heizung nicht funktionsfaehig
+- Definition: Mangel beeintraechtigt erheblich die vertragsgemäße Nutzung
+- Beispiele: Statik-Mangel, Dachundichtigkeit, Heizung nicht funktionsfähig
 
 ### Unwesentlicher Mangel
 
-- **Verweigerung unzulaessig**, aber Maengelrechte:
-  - Nacherfuellung § 635 BGB
+- **Verweigerung unzulaessig**, aber Mängelrechte:
+  - Nacherfüllung § 635 BGB
   - Selbstvornahme § 637 BGB
   - Minderung § 638 BGB
   - Schadensersatz § 280 BGB
 
 ### Verweigerung-Grenzwert
 
-BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Vergueutung -> wesentlich.
+BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Vergütung -> wesentlich.
 
 ## 4) Abnahme-Formen
 
-### Foermliche Abnahme
+### Förmliche Abnahme
 
 - Termin, Protokoll, Unterschrift beider Seiten
-- Maengel-Liste im Protokoll
+- Mängel-Liste im Protokoll
 
 ### Konkludente Abnahme
 
@@ -66,22 +66,22 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 
 ### Bei VOB/B
 
-- § 12 VOB/B: foermliche Abnahme, konkludente nach 12 Werktagen Nutzung
+- § 12 VOB/B: förmliche Abnahme, konkludente nach 12 Werktagen Nutzung
 
 ## 5) Workflow AG-Strategie (Verweigerung)
 
-### Schritt 1 — Maengel-Liste
+### Schritt 1 — Mängel-Liste
 
-- Schriftliche Aufstellung aller Maengel
-- Beweissicherung Foto, Sachverstaendigen-Pruefung
+- Schriftliche Aufstellung aller Mängel
+- Beweissicherung Foto, Sachverständigen-Prüfung
 - Klassifizierung wesentlich vs. unwesentlich
 
-### Schritt 2 — Frist zur Maengelbeseitigung
+### Schritt 2 — Frist zur Mängelbeseitigung
 
 - Schriftlich, angemessen (typisch 2-4 Wochen)
-- Bei wesentlichen Maengeln: Fristsetzung mit Abnahme-Verweigerung
+- Bei wesentlichen Mängeln: Fristsetzung mit Abnahme-Verweigerung
 
-### Schritt 3 — Vergueutungs-Einbehalt
+### Schritt 3 — Vergütungs-Einbehalt
 
 - Bis zu **dreifachem Mangel-Beseitigungs-Aufwand** zurueckhalten (§ 641 III BGB)
 - BGH: 200-300 % des Mangel-Aufwands
@@ -94,9 +94,9 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 
 ## 6) Workflow AN-Strategie (Abnahme erreichen)
 
-### Schritt 1 — Maengel-Behebung
+### Schritt 1 — Mängel-Behebung
 
-- AG-Maengel-Liste abarbeiten
+- AG-Mängel-Liste abarbeiten
 - Dokumentation der Behebung
 
 ### Schritt 2 — Fertigstellungs-Anzeige
@@ -106,7 +106,7 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 ### Schritt 3 — Bei Verweigerung
 
 - Klage auf Abnahme / Werklohn
-- Sachverstaendiger zur Mangel-Bewertung
+- Sachverständiger zur Mangel-Bewertung
 
 ### Schritt 4 — Abnahme-Fiktion nutzen
 
@@ -117,20 +117,20 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 
 ### Sicherheits-Einbehalt
 
-- Vertraglich (typisch 5 % der Bausumme) bis Mangel-Frei-Erklaerung
-- Buergschaft auf erstes Anfordern
+- Vertraglich (typisch 5 % der Bausumme) bis Mangel-Frei-Erklärung
+- Bürgschaft auf erstes Anfordern
 
-### Buergschaft
+### Bürgschaft
 
-- Vertragserfuellungs-Buergschaft
-- Gewaehrleistungs-Buergschaft (5 Jahre)
+- Vertragserfüllungs-Bürgschaft
+- Gewaehrleistungs-Bürgschaft (5 Jahre)
 
 ## 8) Typische Fehler
 
 1. **AG verweigert bei unwesentlichem Mangel** -> Klage AN auf Werklohn aussichtsreich
-2. **AN ignoriert Maengel-Liste** -> Abnahme bleibt aus, Werklohn faellig nicht
-3. **Maengelfrist zu kurz** -> AG-Selbstvornahme-Risiko
-4. **Konkludente Abnahme uebersehen** -> Maengelrechte verjaehrt
+2. **AN ignoriert Mängel-Liste** -> Abnahme bleibt aus, Werklohn faellig nicht
+3. **Mängelfrist zu kurz** -> AG-Selbstvornahme-Risiko
+4. **Konkludente Abnahme übersehen** -> Mängelrechte verjaehrt
 5. **Sicherheits-Einbehalt zu hoch** -> AG haftet auf Verzugszinsen
 
 ## 9) BGH-Linien
@@ -142,10 +142,10 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 ## 10) Honorar
 
 - Streitwert: ausstehende Werklohn-Forderung + Mangel-Kosten
-- Bei umfangreichen Maengeln: 1,3 Geschaeftsgebuehr, ggf. 1,8 bei Komplexitaet
+- Bei umfangreichen Mängeln: 1,3 Geschäftsgebuehr, ggf. 1,8 bei Komplexitaet
 
 ## Anschluss
 
-- `werkmangel-vob-bgb-pruefen` — Mangel-Pruefraster
-- `fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze` — bei Architekten-Vergueutung
+- `werkmangel-vob-bgb-pruefen` — Mangel-Prüfraster
+- `fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze` — bei Architekten-Vergütung
 - `fachanwalt-bau-architektenrecht-bautraeger-insolvenz` — bei Insolvenz-Fall

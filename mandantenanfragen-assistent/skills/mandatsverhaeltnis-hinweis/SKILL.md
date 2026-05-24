@@ -3,7 +3,7 @@ name: mandatsverhaeltnis-hinweis
 description: "Formuliert den expliziten Hinweis dass noch kein Mandatsverhaeltnis besteht: Die Beantwortung der Anfrage stellt keine Rechtsberatung dar und begruendet keine Pflichten der Kanzlei. Kurz- und Langform fuer Antwortmail und Fusszeile. Laedt wenn der Nutzer 'Mandatsverhaeltnis Hinweis', 'kein Mandat', 'Disclaimer Erstanfrage', 'keine Rechtsberatung Hinweis' oder 'Haftungsausschluss Erstanfrage' sagt."
 ---
 
-# Mandatsverhaeltnis-Hinweis
+# Mandatsverhältnis-Hinweis
 
 Dieser Skill formuliert den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer Erstanfrage noch kein Mandatsverhältnis begründet wird und die Antwort keine Rechtsberatung darstellt.
 

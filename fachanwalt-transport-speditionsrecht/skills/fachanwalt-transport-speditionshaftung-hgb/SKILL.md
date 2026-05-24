@@ -14,23 +14,23 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 ### Vermittlungs-Spedition § 453 HGB
 
 - Vermittlung Frachtvertrag
-- Spediteur ist nicht selbst Frachtfuehrer
-- Haftung nur fuer Sorgfaltspflichten
+- Spediteur ist nicht selbst Frachtführer
+- Haftung nur für Sorgfaltspflichten
 
 ### Selbsteintritts-Spedition § 458 HGB
 
-- Spediteur fuehrt selbst aus
-- Haftung wie Frachtfuehrer (HGB / CMR)
+- Spediteur führt selbst aus
+- Haftung wie Frachtführer (HGB / CMR)
 
 ### Sammellade-Spedition § 460 HGB
 
 - Sammlung mehrerer Lieferungen
-- Haftung wie Frachtfuehrer (§ 460 II HGB)
+- Haftung wie Frachtführer (§ 460 II HGB)
 
 ### Festpreis-Spedition § 459 HGB
 
 - Pauschal-Preis
-- Haftung wie Frachtfuehrer
+- Haftung wie Frachtführer
 
 ## 2) Haftungs-Grenze § 461 HGB
 
@@ -48,7 +48,7 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 
 ### Einbeziehung
 
-- Mit Frachtbrief / Auftragsbestaetigung
+- Mit Frachtbrief / Auftragsbestätigung
 - Kollisions-Klauseln mit Kunden-AGB
 
 ## 4) Reklamations-Fristen
@@ -57,7 +57,7 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 |---|---|
 | Sichtbar | bei Ablieferung |
 | Verdeckt | 7 Tage |
-| Verspaetung | 21 Tage |
+| Verspätung | 21 Tage |
 
 ## 5) Verjaehrung § 439 HGB
 
@@ -76,19 +76,19 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 ### Phase 2 — Reklamations-Schritte
 
 - Schriftlich an Spediteur
-- ADSp-Klauseln pruefen
+- ADSp-Klauseln prüfen
 - Versicherer-Mitteilung
 
 ### Phase 3 — Klage
 
 - Bei Streit: HGB / ADSp / CMR
-- Streitwert nach Schadenshoehe
+- Streitwert nach Schadenshöhe
 
 ## 7) Typische Fehler
 
-1. **ADSp-Einbeziehung uebersehen** -> Haftungs-Begrenzung
+1. **ADSp-Einbeziehung übersehen** -> Haftungs-Begrenzung
 2. **Vertragsart falsch eingeordnet** -> falsche Anspruchsgrundlage
-3. **Reklamationsfrist versaeumt**
+3. **Reklamationsfrist versäumt**
 4. **Mehrwert-Versicherung nicht beachtet**
 
 ## 8) BGH-Linien
@@ -98,6 +98,6 @@ Schaden bei Spediteur-Vertrag — Pflichten, Haftung, Anspruchs-Grundlagen.
 
 ## Anschluss
 
-- `fachanwalt-transport-cmr-schadensregulierung` — bei internationaler Strasse
-- `frachtfuehrerhaftung-pruefen` — Pruefraster
+- `fachanwalt-transport-cmr-schadensregulierung` — bei internationaler Straße
+- `frachtfuehrerhaftung-pruefen` — Prüfraster
 - `fachanwalt-transport-speditionsrecht-orientierung` — Triage

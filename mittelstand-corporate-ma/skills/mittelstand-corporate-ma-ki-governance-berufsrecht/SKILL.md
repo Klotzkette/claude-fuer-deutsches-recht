@@ -20,7 +20,7 @@ Prüft KI-Einsatz im Transaktionsmandat unter Mandatsgeheimnis, Need-to-know, Da
 
 - Mandatsgeheimnis im offenen Tool.
 - Kein Dienstleister-/AVV-Status.
-- KI-Output wird ohne Review nach aussen gegeben.
+- KI-Output wird ohne Review nach außen gegeben.
 
 ## Standardausgabe
 

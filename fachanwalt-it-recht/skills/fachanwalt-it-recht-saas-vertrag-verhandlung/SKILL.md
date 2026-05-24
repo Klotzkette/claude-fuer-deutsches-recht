@@ -7,7 +7,7 @@ description: "SaaS-Vertragsverhandlung Pflicht-Klauseln SLA Verfuegbarkeit Daten
 
 ## Zweck
 
-Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, Schwachstellen, Verhandlungs-Spielraum.
+Verhandlung / Prüfung SaaS-Vertrag für Geschäftskunden — Pflicht-Klauseln, Schwachstellen, Verhandlungs-Spielraum.
 
 ## 1) Eingangs-Abfrage
 
@@ -22,7 +22,7 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 
 ### Service Level Agreement (SLA)
 
-- Verfuegbarkeit: typisch 99,5-99,9 % pro Monat
+- Verfügbarkeit: typisch 99,5-99,9 % pro Monat
 - Bei Unterschreitung: Service-Gutschriften
 - Wartungs-Fenster ausgenommen (Standard 6 Stunden/Monat)
 - Definition „Ausfall" (Vollausfall vs. Teilausfall)
@@ -32,7 +32,7 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 - Auftrags-Verarbeitungs-Vertrag (AVV) zwingend
 - Sub-Verarbeiter mit Zustimmung
 - Lokation der Server (EU? Drittland?)
-- TOMs (Technische und organisatorische Massnahmen)
+- TOMs (Technische und organisatorische Maßnahmen)
 
 ### Wartung und Sicherheits-Updates
 
@@ -44,20 +44,20 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 
 - Kunde behaelt Eigentum an seinen Daten
 - Anbieter erhaelt Nutzungsrecht
-- Bei Beendigung: Loeschung mit Bestaetigung
+- Bei Beendigung: Löschung mit Bestätigung
 
 ## 3) Vendor-Lock-in vermeiden
 
 ### Exit-Klausel
 
 - **Daten-Export** in standard-Format (CSV, JSON, SQL)
-- **Migrations-Unterstuetzung** durch Anbieter (kostenlos oder Pauschal)
-- Frist nach Vertragsende fuer Daten-Abruf (60-90 Tage)
+- **Migrations-Unterstützung** durch Anbieter (kostenlos oder Pauschal)
+- Frist nach Vertragsende für Daten-Abruf (60-90 Tage)
 
 ### Open-Source-Komponenten
 
 - Welche OSS verwendet?
-- Lizenzen kompatibel mit Geschaeftsmodell
+- Lizenzen kompatibel mit Geschäftsmodell
 
 ### Standard-Schnittstellen
 
@@ -69,7 +69,7 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 
 ### Haftungs-Begrenzung
 
-- Standard-Klausel: Hoechstens 12-monatige Vergueutung
+- Standard-Klausel: Hoechstens 12-monatige Vergütung
 - Gilt nicht bei Vorsatz / grober Fahrlaessigkeit
 - AGB-Kontrolle § 309 Nr. 7 BGB beachten
 
@@ -78,7 +78,7 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 - Datenverlust
 - Systemausfall
 - Sicherheits-Vorfall
-- Verletzung Geschaeftsgeheimnis
+- Verletzung Geschäftsgeheimnis
 
 ## 5) Digitale-Produkte-RL (§§ 327 ff. BGB)
 
@@ -87,29 +87,29 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 - Verbraucher-Vertrag § 312 BGB
 - Widerrufsrecht 14 Tage
 - Aktualisierungs-Pflicht § 327f BGB (Wartung)
-- Maengelrechte angepasst
+- Mängelrechte angepasst
 
 ### Bei B2B-SaaS
 
 - §§ 327 ff. BGB nicht direkt anwendbar
 - Aber: Vertraegliche Standards angepasst
 
-## 6) Vertragslaufzeit / Kuendigung
+## 6) Vertragslaufzeit / Kündigung
 
 ### Mindestlaufzeit
 
-- Marktueblich 12-36 Monate
+- Marktüblich 12-36 Monate
 - Bei Standard-AGB: Klauselkontrolle (§ 309 Nr. 9 BGB B2C)
 
-### Automatische Verlaengerung
+### Automatische Verlängerung
 
-- Bei B2C: 1 Jahr Verlaengerung max., Kuendigungsfrist 1 Monat
+- Bei B2C: 1 Jahr Verlängerung max., Kündigungsfrist 1 Monat
 - Bei B2B: Verhandlungsfreiheit
 
-### Sonderkuendigungsrecht
+### Sonderkündigungsrecht
 
-- Bei wesentlichen Aenderungen Service / Preis
-- Bei dauerhaftem SLA-Verstoss
+- Bei wesentlichen Änderungen Service / Preis
+- Bei dauerhaftem SLA-Verstoß
 - Bei Insolvenz Anbieter
 
 ## 7) Daten-Lokation
@@ -123,9 +123,9 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 ### Souveraenitaets-Bedenken
 
 - US-Anbieter unterliegen US-Patriot Act / CLOUD Act
-- Bei sensiblen Daten: EU-souveraener Anbieter pruefen
+- Bei sensiblen Daten: EU-souveraener Anbieter prüfen
 
-## 8) Workflow Vertragspruefung
+## 8) Workflow Vertragsprüfung
 
 ### Schritt 1 — Klauselkontrolle
 
@@ -149,18 +149,18 @@ Verhandlung / Pruefung SaaS-Vertrag fuer Geschaeftskunden — Pflicht-Klauseln, 
 
 - Schriftlich
 - Anlagen (SLA, AVV, TOMs)
-- Update-Pflicht ueberwachen
+- Update-Pflicht überwachen
 
 ## 9) Typische Fehler
 
-1. **AVV fehlt** — DSGVO-Verstoss
-2. **SLA ohne konkrete Verfuegbarkeit** — keine Sanktionen
+1. **AVV fehlt** — DSGVO-Verstoß
+2. **SLA ohne konkrete Verfügbarkeit** — keine Sanktionen
 3. **Exit-Klausel fehlt** -> Vendor-Lock-in
 4. **Haftungs-Begrenzung extrem** -> unwirksam § 309 Nr. 7 BGB
-5. **Auslaendische Sub-Verarbeiter ohne SCC**
+5. **Ausländische Sub-Verarbeiter ohne SCC**
 
 ## Anschluss
 
-- `fachanwalt-it-recht-open-source-compliance-audit` — bei OSS-Pruefung
+- `fachanwalt-it-recht-open-source-compliance-audit` — bei OSS-Prüfung
 - `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` — bei Vorfall
 - `datenschutzrecht` — bei vertieften DSGVO-Fragen

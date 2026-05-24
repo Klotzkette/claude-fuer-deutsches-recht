@@ -13,7 +13,7 @@ Dieser Skill führt die vollständige Wandlungspreis-Berechnung durch – von de
 
 - Darlehensbetrag (EUR)
 - Auszahlungsdatum und Stichtag Wandlung (für Zinsberechnung)
-- Zinssatz (fuenf Prozent p.a., act/360)
+- Zinssatz (fünf Prozent p.a., act/360)
 - Pre-Money-Bewertung der Finanzierungsrunde (oder Fall-back-Bewertung bei Maturity)
 - Vollverwässerte Anteile vor Wandlung (Stammkapital + ESOP)
 - Valuation Cap (EUR)
@@ -79,12 +79,12 @@ Wandlungssumme C − Nennbetrag neue Anteile = Einlage in Kapitalrücklage (§ 2
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
-| Vollverwaesserte Anteile falsch ermittelt | Falsche Preisberechnung | ESOP-Pool strittig | Vollstaendig dokumentiert |
-| Zinsen nicht einbezogen | Wandlungssumme zu gering | Zinsen geschaetzt | Exakt berechnet |
+| Vollverwaesserte Anteile falsch ermittelt | Falsche Preisberechnung | ESOP-Pool strittig | Vollständig dokumentiert |
+| Zinsen nicht einbezogen | Wandlungssumme zu gering | Zinsen geschätzt | Exakt berechnet |
 | Cap unter aktuellem Preis A und B | Cap immer massgeblich | Cap leicht unter | Cap deutlich unter |
-| Differenzhaftung bei Ueberbewertung | Gesellschafter persoenlich haftbar (§ 9 GmbHG) | Wertgutachten fehlt | Werthaltigkeitspruefung vorhanden |
+| Differenzhaftung bei Überbewertung | Gesellschafter persönlich haftbar (§ 9 GmbHG) | Wertgutachten fehlt | Werthaltigkeitsprüfung vorhanden |
 
 ## Querverweise
 

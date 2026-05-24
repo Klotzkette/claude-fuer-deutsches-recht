@@ -17,21 +17,21 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 4. Aktueller Status: Vorhandene Approbation oder Wiedererteilung?
 5. Berufstaetigkeit aktuell?
 
-## 2) Widerrufs-Tatbestaende § 5 BAerztO
+## 2) Widerrufs-Tatbestände § 5 BAerztO
 
-### Unwuerdigkeit
+### Unwürdigkeit
 
 - Schwere strafrechtliche Verfehlung
 - Beispiele:
   - Toetungs-Delikte
   - Schwere Sexualstraftaten
-  - Vermoegens-Delikte mit Patienten-Geld (Abrechnungs-Betrug)
-  - BtmG-Delikte gross
+  - Vermögens-Delikte mit Patienten-Geld (Abrechnungs-Betrug)
+  - BtmG-Delikte groß
   - Steuerhinterziehung von Bedeutung
 
 ### Unzuverlaessigkeit
 
-- Persoenliche Eigenschaften unerlaubt
+- Persönliche Eigenschaften unerlaubt
 - Beispiele:
   - Sucht-Erkrankung
   - Psychische Erkrankung Behandlungs-relevant
@@ -39,12 +39,12 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 ### BAG-/BVerwG-Linie
 
-- BVerwG, Urt. v. 16.9.1997 — 3 C 12/95 (Maßstab Unwuerdigkeit)
+- BVerwG, Urt. v. 16.9.1997 — 3 C 12/95 (Maßstab Unwürdigkeit)
 - BVerwG, Urt. v. 28.4.2010 — 3 C 22/09 (Mass der Verfehlung)
 
 ## 3) Verfahren
 
-### Anhoerung § 28 VwVfG
+### Anhörung § 28 VwVfG
 
 - Vor Widerrufs-Entscheidung
 - Schriftlich oder muendlich
@@ -52,26 +52,26 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 ### Bescheid
 
-- Begruendung mit konkreten Tatbestaenden
+- Begründung mit konkreten Tatbeständen
 - Sofortvollzug typisch (§ 80 II Nr. 4 VwGO)
 
 ### Widerspruch / Klage
 
 - **Widerspruch binnen 1 Monat**
 - Bei abgelehnt: **Klage** beim Verwaltungsgericht binnen 1 Monat
-- Vorlaeufiger Rechtsschutz § 80 V VwGO
+- Vorläufiger Rechtsschutz § 80 V VwGO
 
 ### Eilantrag § 80 V VwGO
 
 - Bei Sofortvollzug: Aussetzung beantragen
-- Argumentation: Verhaeltnismaessigkeit, kein oeffentliches Interesse
+- Argumentation: Verhältnismaessigkeit, kein öffentliches Interesse
 
 ## 4) Wiedererteilung
 
 ### Voraussetzung
 
 - Sperrfrist typisch 5-10 Jahre
-- Beweis Bewaehrung (Therapie, kein Rueckfall)
+- Beweis Bewährung (Therapie, kein Rueckfall)
 - Bei Sucht: Abstinenz-Nachweis
 
 ### Praxis
@@ -86,14 +86,14 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 - Strafverfahren parallel: Strafmilderung -> Approbations-Schutz
 - Therapie / Kontrolle proaktiv anbieten
-- Halbierungs-Loesung (Ruhen statt Widerruf)
+- Halbierungs-Lösung (Ruhen statt Widerruf)
 
 ### Aussichtsreiche Argumente
 
-- Verhaeltnismaessigkeit
+- Verhältnismaessigkeit
 - Erst-Tat
-- Bewaehrungs-Bereitschaft
-- Spezial-Praevention
+- Bewährungs-Bereitschaft
+- Spezial-Prävention
 
 ## 6) Workflow
 
@@ -102,14 +102,14 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 - Strafverteidigung optimieren (Wahl-/Pflicht-Verteidiger)
 - Auf Approbations-Folgen achten
 
-### Phase 2 — Anhoerung
+### Phase 2 — Anhörung
 
 - Schriftliche Stellungnahme
-- Mit anwaltlicher Unterstuetzung
+- Mit anwaltlicher Unterstützung
 
 ### Phase 3 — Widerspruchs-Verfahren
 
-- Detaillierte Begruendung
+- Detaillierte Begründung
 - Beweisanbote
 - Gutachten
 
@@ -122,7 +122,7 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 ## 7) Sonderkonstellation Sucht
 
 - Suchtprobleme oft Anlass Approbations-Verfahren
-- BTM-Substituierung pruefen
+- BTM-Substituierung prüfen
 - Therapie-Programm
 - Gutachten von Suchtmediziner
 - Praxis: oft Ruhen statt Widerruf
@@ -131,28 +131,28 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 ### Strafgerichtliches Berufsverbot
 
-- Bei Straftat in Berufsausuebung
+- Bei Straftat in Berufsausübung
 - 1-5 Jahre
 - Approbations-Verfahren oft parallel
 
 ### Folge
 
 - Berufsverbot kann Approbation nicht erstaendigen
-- Aber: Indiz fuer Unwuerdigkeit
+- Aber: Indiz für Unwürdigkeit
 
 ## 9) Typische Fehler
 
-1. **Schweigen bei Anhoerung** -> Bescheid ohne Verteidigung
+1. **Schweigen bei Anhörung** -> Bescheid ohne Verteidigung
 2. **Strafverfahren ohne Approbations-Beratung** -> spaete Hilfe
-3. **Eilantrag versaeumt** -> Sofortvollzug greift
+3. **Eilantrag versäumt** -> Sofortvollzug greift
 4. **Therapie-Nachweis nicht beigebracht**
-5. **Wiedererteilungs-Antrag zu frueh** — wirft schlechtes Licht
+5. **Wiedererteilungs-Antrag zu früh** — wirft schlechtes Licht
 
 ## 10) Honorar
 
 - Beratung: pauschal 1.500-3.000 EUR
 - Klage VG: nach Streitwert (Approbations-Wert wirtschaftlich)
-- Rechtsschutz-Versicherung typisch nicht zuschussfaehig (Strafrecht-Bezug)
+- Rechtsschutz-Versicherung typisch nicht zuschussfähig (Strafrecht-Bezug)
 
 ## Anschluss
 

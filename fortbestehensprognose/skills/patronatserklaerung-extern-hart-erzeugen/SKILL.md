@@ -18,10 +18,10 @@ Im Gegensatz zur **internen** und zur **weichen** Patronatserklärung ist sie:
 
 ## Voraussetzungen für Berücksichtigung im Status
 
-- **Hoehe** des Verpflichtungsumfangs konkret beziffert.
+- **Höhe** des Verpflichtungsumfangs konkret beziffert.
 - **Bonität** des Patrons (er muss leistungsfähig sein — Bonitätsnachweis erforderlich).
 - **Insolvenzfeste Klausel**: der Patron verzichtet darauf seine Forderung gegen die Gesellschaft im Insolvenzfall geltend zu machen.
-- **Unwiderruflichkeit** waehrend der Laufzeit der Prognose.
+- **Unwiderruflichkeit** während der Laufzeit der Prognose.
 
 ## Mustervorlage
 

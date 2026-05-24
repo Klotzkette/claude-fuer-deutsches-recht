@@ -29,7 +29,7 @@ description: Orientierung im Bau- und Architektenrecht — FAO Voraussetzungen N
 - Mängelrechte (Nacherfüllung Selbstvornahme Minderung Schadensersatz Rücktritt § 634 BGB)
 - Abnahmestreit
 - Zahlungsklage Werklohn
-- Bauglobalvertrag mit Generaluebernehmer
+- Bauglobalvertrag mit Generalübernehmer
 - Vergabenachprüfungsverfahren
 
 ## Fristen

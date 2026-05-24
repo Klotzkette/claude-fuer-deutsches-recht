@@ -7,7 +7,7 @@ description: "W&I-Versicherung: Bereitet W&I-Prozess, Underwriting, DD-Berichte,
 
 ## Zweck
 
-Bereitet W&I-Prozess, Underwriting, DD-Berichte, AI-DD-Transparenz und Deckungsausschluesse vor.
+Bereitet W&I-Prozess, Underwriting, DD-Berichte, AI-DD-Transparenz und Deckungsausschlüsse vor.
 
 ## Arbeitsmodus
 

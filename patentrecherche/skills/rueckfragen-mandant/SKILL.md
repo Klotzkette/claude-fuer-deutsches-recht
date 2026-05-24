@@ -121,4 +121,4 @@ Mit freundlichen Grüßen
 
 ## Disclaimer
 
-> **Hinweis zur Rückfrage.** Diese Rückfrageliste ist eine KI-gestützte Vorbereitung. Die Mandantenkommunikation verantwortet die Patentanwältin / der Patentanwalt — Inhalt, Sprache und Versandweg müssen vor Absendung kanzleiintern geprüft werden. Die Frageliste ersetzt nicht die individuelle Mandatsfuehrung.
+> **Hinweis zur Rückfrage.** Diese Rückfrageliste ist eine KI-gestützte Vorbereitung. Die Mandantenkommunikation verantwortet die Patentanwältin / der Patentanwalt — Inhalt, Sprache und Versandweg müssen vor Absendung kanzleiintern geprüft werden. Die Frageliste ersetzt nicht die individuelle Mandatsführung.

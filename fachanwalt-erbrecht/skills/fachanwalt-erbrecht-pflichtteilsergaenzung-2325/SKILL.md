@@ -3,7 +3,7 @@ name: fachanwalt-erbrecht-pflichtteilsergaenzung-2325
 description: "Pflichtteilsergaenzungsanspruch § 2325 BGB bei Schenkungen 10 Jahre vor Erbfall. Abschmelzung pro Jahr 10 Prozent BGH IV ZR 132/12. Ehegattenschenkung Fristbeginn erst nach Tod § 2325 Abs. 3 BGB. Niederstwertprinzip § 2325 Abs. 2 BGB. Auskunftsstufenklage § 254 ZPO. Workflow Schenkungs-Recherche Berechnung Klage."
 ---
 
-# Pflichtteilsergaenzungsanspruch § 2325 BGB
+# Pflichtteilsergänzungsanspruch § 2325 BGB
 
 ## Zweck
 
@@ -12,7 +12,7 @@ Mandate von Pflichtteilsberechtigten mit Schenkungs-Verdacht — Ermittlung, Ber
 ## 1) Eingangs-Abfrage
 
 1. Erbfall-Datum und Pflichtteilsberechtigung?
-2. Bekannte Schenkungen (Immobilie, Konto-Verfuegungen, Wertgegenstaende)?
+2. Bekannte Schenkungen (Immobilie, Konto-Verfügungen, Wertgegenstände)?
 3. Ehegatten- oder Verwandten-Schenkungen?
 4. Schenkungs-Datum (vs. 10-Jahres-Frist)?
 5. Schenker-Behaltungs-Rechte (Niessbrauch, Wohnrecht)?
@@ -21,7 +21,7 @@ Mandate von Pflichtteilsberechtigten mit Schenkungs-Verdacht — Ermittlung, Ber
 
 ### § 2325 BGB
 
-Pflichtteilsberechtigter erhaelt ergaenzenden Pflichtteil aus Schenkungen, die Erblasser **vor dem Erbfall** vorgenommen hat.
+Pflichtteilsberechtigter erhaelt ergänzenden Pflichtteil aus Schenkungen, die Erblasser **vor dem Erbfall** vorgenommen hat.
 
 ### 10-Jahres-Frist § 2325 III BGB
 
@@ -29,12 +29,12 @@ Pflichtteilsberechtigter erhaelt ergaenzenden Pflichtteil aus Schenkungen, die E
 - Im Jahr 1 nach Schenkung: 100 %
 - Im Jahr 5: 50 %
 - Im Jahr 10: 0 %
-- **Ausnahme Ehegatten-Schenkung**: Frist beginnt erst mit Aufloesung der Ehe (Tod, Scheidung)
+- **Ausnahme Ehegatten-Schenkung**: Frist beginnt erst mit Auflösung der Ehe (Tod, Scheidung)
 
 ### Bei Niessbrauch / Wohnrecht
 
-- Schenkungs-Frist beginnt **erst mit Erloeschen** des Vorbehaltsrechts (BGH-Linie BGH IV ZR 132/12, IV ZR 1/00)
-- Praktisch: Schenkung mit Wohnrecht laeuft erst nach Tod des Wohnrecht-Inhabers an
+- Schenkungs-Frist beginnt **erst mit Erlöschen** des Vorbehaltsrechts (BGH-Linie BGH IV ZR 132/12, IV ZR 1/00)
+- Praktisch: Schenkung mit Wohnrecht läuft erst nach Tod des Wohnrecht-Inhabers an
 
 ## 3) Berechnung
 
@@ -64,13 +64,13 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 - 2024 verstirbt, Sohn ist Pflichtteilsberechtigt
 - 6 Jahre seit Schenkung = 40 % Abschmelzung = 60 % anrechenbar = 300 K
 - Sohn-Pflichtteilsquote 1/4 (bei Halbgeschwistern und ZGW-Ehegattin)
-- Pflichtteilsergaenzung 1/4 × 300 K = 75 K
+- Pflichtteilsergänzung 1/4 × 300 K = 75 K
 
 ## 5) Auskunftsanspruch § 2314 BGB + Stufenklage § 254 ZPO
 
 ### Auskunft
 
-- Pflichtteilsberechtigter kann Auskunft ueber Schenkungen verlangen
+- Pflichtteilsberechtigter kann Auskunft über Schenkungen verlangen
 - Nachlass-Verzeichnis durch Erben
 - Bei Streit: notarielles Verzeichnis § 2314 I 3 BGB
 
@@ -78,16 +78,16 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 
 - Stufe 1: Auskunft (Bestand Nachlass + Schenkungen)
 - Stufe 2: ggf. eidesstattliche Versicherung
-- Stufe 3: Zahlung Pflichtteils-(Ergaenzungs-)Betrag
+- Stufe 3: Zahlung Pflichtteils-(Ergänzungs-)Betrag
 
 ## 6) Workflow
 
 ### Phase 1 — Recherche
 
 - Grundbuch-Einsicht (Schenkungs-Eintragungen)
-- Kontoausgabe Erblasser (Vermoegens-Bewegungen)
-- Zeugen-Befragung (Wertgegenstaende, Bargeldgaben)
-- Niessbrauch-Pruefung
+- Kontoausgabe Erblasser (Vermögens-Bewegungen)
+- Zeugen-Befragung (Wertgegenstände, Bargeldgaben)
+- Niessbrauch-Prüfung
 
 ### Phase 2 — Auskunftsverlangen
 
@@ -97,7 +97,7 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 
 ### Phase 3 — Berechnung + Klage
 
-- Sachverstaendiger fuer Immobilien-Bewertung
+- Sachverständiger für Immobilien-Bewertung
 - Abschmelzungs-Tabelle
 - Niederstwertprinzip korrekt anwenden
 
@@ -105,15 +105,15 @@ Pflichtteilsergaenzung = Pflichtteil aus fiktivem Nachlass - Pflichtteil aus rea
 
 - **3 Jahre** ab Kenntnis des Erbfalls und der Schenkung
 - Hoechstens 30 Jahre ab Erbfall
-- Verlust durch Verschwiegenheit-Klauseln: Vorsicht bei Erbverzichtsvertraegen
+- Verlust durch Verschwiegenheit-Klauseln: Vorsicht bei Erbverzichtsverträgen
 
 ## 8) Typische Fehler
 
 1. **10-Jahres-Frist falsch berechnet** bei Wohnrecht/Niessbrauch
-2. **Ehegatten-Schenkungen uebersehen** (Frist laueft erst nach Tod)
+2. **Ehegatten-Schenkungen übersehen** (Frist laueft erst nach Tod)
 3. **Niederstwertprinzip ignoriert** (Inflations-Bereinigung)
-4. **Auskunftsanspruch versaeumt** -> Stufenklage gehindert
-5. **Sachverstaendige-Auswahl unguenstig** (zu hohe / niedrige Werte)
+4. **Auskunftsanspruch versäumt** -> Stufenklage gehindert
+5. **Sachverständige-Auswahl ungünstig** (zu hohe / niedrige Werte)
 
 ## 9) BGH-Linien
 

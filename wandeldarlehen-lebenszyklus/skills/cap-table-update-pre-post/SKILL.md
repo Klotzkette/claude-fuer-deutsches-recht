@@ -53,7 +53,7 @@ Cap-Table als Excel-Datei mit zwei Tabellenblättern (Pre-Money und Post-Money).
 
 | Gesellschafter | Anteile | Nennwert (EUR) | Prozent |
 |---|---|---|---|
-| Dr. Mira Schoeneck | 40 | 40 | 40.00 % |
+| Dr. Mira Schöneck | 40 | 40 | 40.00 % |
 | Lina Habersaat | 35 | 35 | 35.00 % |
 | Treasury | 25 | 25 | 25.00 % |
 | Gesamt | 100 | 100 | 100.00 % |
@@ -63,7 +63,7 @@ Cap-Table als Excel-Datei mit zwei Tabellenblättern (Pre-Money und Post-Money).
 
 | Gesellschafter | Anteile | EUR | Prozent |
 |---|---|---|---|
-| Dr. Mira Schoeneck | 40 | 40 | 29.63 % |
+| Dr. Mira Schöneck | 40 | 40 | 29.63 % |
 | Lina Habersaat | 35 | 35 | 25.93 % |
 | Treasury | 25 | 25 | 18.52 % |
 | Northstar (Lender, Wandlung) | 7 | 7 | 5.19 % |
@@ -72,13 +72,13 @@ Cap-Table als Excel-Datei mit zwei Tabellenblättern (Pre-Money und Post-Money).
 | Gesamt | 135 | 135 | 100.00 % |
 | Stammkapital nach KE | | EUR 135 | |
 
-Verwässerung Schoeneck: 40 % → 29.63 % = −10.37 Prozentpunkte
+Verwässerung Schöneck: 40 % → 29.63 % = −10.37 Prozentpunkte
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
-| ESOP-Pool nicht einbezogen | Verwässerung unterschätzt | ESOP-Groesse unbekannt | ESOP vollständig erfasst |
+| ESOP-Pool nicht einbezogen | Verwässerung unterschätzt | ESOP-Größe unbekannt | ESOP vollständig erfasst |
 | Falsche Anteilszahl Lender | Cap-Table inkorrekt | Aufrundung strittig | Exakte Berechnung |
 | Stammkapital-Erhöhung nicht ins HR eingetragen | Gesellschafterliste veraltet | Eintragung beantragt | Eingetragen |
 | Alte Gesellschafterliste verwendet | Altdaten | Teils aktuell | Aktuelle Liste gem. § 40 GmbHG |

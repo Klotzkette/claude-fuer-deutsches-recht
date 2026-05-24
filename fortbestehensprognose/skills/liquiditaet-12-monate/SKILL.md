@@ -49,7 +49,7 @@ Bei kritischen Phasen (Monaten mit knapp positivem Saldo oder negativem Endbesta
 - Drei-Wochen-Schwelle § 17 InsO BGHZ 163, 134 — bei Lücke größer als zehn Prozent über laenger als drei Wochen liegt Zahlungsunfähigkeit vor.
 - Plugin `liquiditaetsplanung` enthält die wochenbasierten Vorlagen.
 
-### Schicht 3 — Sensitivitaetsszenarien
+### Schicht 3 — Sensitivitätsszenarien
 
 Drei Szenarien aus `annahmen-belastbarkeit-plausibilisieren` werden in der Liquidität durchgerechnet:
 
@@ -83,7 +83,7 @@ Wenn das Plugin `liquiditaetsplanung` installiert ist:
 
 - Die detaillierte Wochenplanung erfolgt dort (Skill `liquiditaetsvorschau-3-6-12-monate`).
 - Hier importieren wir die Monatsaggregate.
-- Die Drei-Wochen-Schwelle § 17 InsO wird in `liquiditaetsplanung` separat geprueft.
+- Die Drei-Wochen-Schwelle § 17 InsO wird in `liquiditaetsplanung` separat geprüft.
 
 Wenn nicht installiert: einfache Tabelle hier; bei Bedarf nachinstallieren.
 
@@ -105,7 +105,7 @@ ist die Liquidität über den Horizont zu sichern.
 Die „überwiegende Wahrscheinlichkeit" nach § 19 Abs. 2 InsO ist nicht abstrakt zu prüfen, sondern operativ über den Liquiditätsplan. Das Unternehmen ist „überwiegend wahrscheinlich fortfuehrbar" wenn über den gesamten Zwölf-Monats-Horizont mit hoher Wahrscheinlichkeit **keine Zahlungsunfähigkeit nach § 17 InsO eintritt**. Damit gilt durchgehend der BGH-Maßstab aus BGHZ 163, 134 (BGH IX ZR 123/04):
 
 - **In jedem Zeitabschnitt** muss die Deckung der fälligen Verbindlichkeiten mindestens **90 Prozent** betragen (Liquiditätslücke unter zehn Prozent).
-- **Eine voruebergehende Lücke** über zehn Prozent darf höchstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfähig — und das ist gerade nicht „fortfuehrbar".
+- **Eine vorübergehende Lücke** über zehn Prozent darf höchstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfähig — und das ist gerade nicht „fortfuehrbar".
 - **Über den vollen Zwölf-Monats-Horizont** muss diese Schwelle eingehalten werden — andernfalls ist die Fortbestehensprognose **negativ**.
 
 Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf dass dieses Szenario (Einhaltung der BGH-Schwelle über zwölf Monate) eintritt — also nicht ein abstrakter Erfolgswert sondern die methodische Wahrscheinlichkeit dass das Unternehmen die 90-Prozent-Deckung bzw. die Drei-Wochen-Karenz **über den gesamten Horizont durchhaelt**.

@@ -69,7 +69,7 @@ Jede Partei erh채lt signiertes PDF per E-Mail (automatisch durch DocuSign). Zus�
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Gr체n |
 |---|---|---|---|
 | Unterzeichner nicht authentifiziert | Identit채tszweifel, Anfechtungsrisiko | Nur E-Mail-OTP | SMS-OTP oder QES |
 | Kein Audit Trail gespeichert | Beweisnot bei Streit | Audit Trail unvollst채ndig | Vollst채ndiger Trail archiviert |

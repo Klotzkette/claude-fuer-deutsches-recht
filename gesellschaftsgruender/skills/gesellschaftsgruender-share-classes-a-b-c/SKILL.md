@@ -7,13 +7,13 @@ description: "Anteilsklassen A B C Common Stock Vorzugsanteile. Stimmrechts-Mult
 
 ## Zweck
 
-Bei Investor-Beteiligung werden typisch **Vorzugsanteile** (A, B, C, ...) eingefuehrt, die gegenueber den Gruender-Anteilen (Common) bestimmte Bevorzugungen geniessen: Stimmrechts-Vorrang, Liquidation Preference, Anti-Dilution, Sondervetorechte. Dieser Skill behandelt Konzept und Satzungs-Gestaltung.
+Bei Investor-Beteiligung werden typisch **Vorzugsanteile** (A, B, C, ...) eingeführt, die gegenüber den Gründer-Anteilen (Common) bestimmte Bevorzugungen genießen: Stimmrechts-Vorrang, Liquidation Preference, Anti-Dilution, Sondervetorechte. Dieser Skill behandelt Konzept und Satzungs-Gestaltung.
 
 ## 1) Klassen-Begriffe
 
 ### Common Shares (Stammanteile)
 
-- Standard-Anteile der Gruender
+- Standard-Anteile der Gründer
 - Stimmrecht 1:1 (typisch)
 - Keine Liquidation Preference
 - Volle Bezugsrechte
@@ -23,29 +23,29 @@ Bei Investor-Beteiligung werden typisch **Vorzugsanteile** (A, B, C, ...) eingef
 - Erste externe Finanzierungsrunde
 - Liquidation Preference 1x non-participating Standard
 - Anti-Dilution (weighted average broad-based Standard)
-- Sondervetorechte fuer Investor
+- Sondervetorechte für Investor
 
 ### Class B (Series B Preferred)
 
 - Zweite Runde
-- Hoehere Bewertung
+- Höhere Bewertung
 - Praeferenz vor Class A (typisch), aber individuell verhandelt
-- Manchmal hoehere Liquidation Preference (1,5x oder 2x)
+- Manchmal höhere Liquidation Preference (1,5x oder 2x)
 
 ### Class C und folgende
 
-- Spaetere Runden
+- Spätere Runden
 - Praeferenz-Stack: C vor B vor A vor Common
 
 ### Stimmrechts-Klassen
 
 - Stimmrecht kann von wirtschaftlichem Anteil abweichen
 - Bei Mehrstimmrecht: Investor stimmt staerker als Quote
-- Bei Stimmrechtslosen Anteilen: nur Gewinn-Anteil, kein Stimmrecht (untypisch bei GmbH; bei AG ueblich)
+- Bei Stimmrechtslosen Anteilen: nur Gewinn-Anteil, kein Stimmrecht (untypisch bei GmbH; bei AG üblich)
 
-## 2) Wann schon bei Gruendung Class-Shares
+## 2) Wann schon bei Gründung Class-Shares
 
-### Argumente dafuer
+### Argumente dafür
 
 - Bei absehbarem Investor: Vorbereitung
 - Bei Familien-/Holding-Strukturen mit Beirat-Praerogativen
@@ -54,14 +54,14 @@ Bei Investor-Beteiligung werden typisch **Vorzugsanteile** (A, B, C, ...) eingef
 ### Argumente dagegen
 
 - Satzung wird komplexer, teurer beim Notar
-- Bei Solo-/Paar-Gruendung meist nicht erforderlich
-- Class-Shares spaeter durch Satzungsaenderung einfuehrbar
+- Bei Solo-/Paar-Gründung meist nicht erforderlich
+- Class-Shares später durch Satzungsaenderung einfuehrbar
 
 ### Empfehlung
 
-- **Solo-/Paar-Gruendung**: erst eine Klasse (Common). Class-Shares mit Investor einfuehren.
-- **Mehrgruender mit klarer Investor-Roadmap**: schon Class-Konzept in Satzung anlegen, auch wenn anfaenglich alle Common haben.
-- **Family-Office**: Class-Shares fuer Stimmrechts-Differenzierung sinnvoll.
+- **Solo-/Paar-Gründung**: erst eine Klasse (Common). Class-Shares mit Investor einführen.
+- **Mehrgründer mit klarer Investor-Roadmap**: schon Class-Konzept in Satzung anlegen, auch wenn anfaenglich alle Common haben.
+- **Family-Office**: Class-Shares für Stimmrechts-Differenzierung sinnvoll.
 
 ## 3) Pflicht-Satzungs-Klauseln bei Class-Shares
 
@@ -127,40 +127,40 @@ Inhaber der Class A Anteile mit einfacher Mehrheit:
 ### Konzept
 
 - Investor gibt Darlehen
-- Bei naechster Finanzierungsrunde wandelt sich Darlehen in Anteile der dann eingefuehrten Class
+- Bei nächster Finanzierungsrunde wandelt sich Darlehen in Anteile der dann eingeführten Class
 - Bewertungs-Discount typisch 15-25 %
 - Bewertungs-Cap als Schutz
 
 ### Vorteile
 
 - Schnelle Investment-Phase (kein langwieriger Notar-Termin)
-- Bewertung wird auf naechste Runde verschoben
+- Bewertung wird auf nächste Runde verschoben
 
 ### Nachteile
 
 - Komplexe Wandlungs-Klauseln
 - Pflicht-Termin Notar bei Wandlung
 
-### Bei der Gesellschaftsgruendung
+### Bei der Gesellschaftsgründung
 
-Wandeldarlehen werden in **separatem Vertrag** (Convertible Loan Agreement) ausserhalb der Satzung geregelt — Satzung muss aber **genehmigtes Kapital** vorsehen, damit Wandlung ohne Satzungsaenderung erfolgen kann -> `gesellschaftsgruender-genehmigtes-kapital`.
+Wandeldarlehen werden in **separatem Vertrag** (Convertible Loan Agreement) außerhalb der Satzung geregelt — Satzung muss aber **genehmigtes Kapital** vorsehen, damit Wandlung ohne Satzungsaenderung erfolgen kann -> `gesellschaftsgruender-genehmigtes-kapital`.
 
 ## 5) Mehrheits-/Minderheits-Schutz durch Klassen
 
-### Mehrheit der Common-Gruender (51-99 %)
+### Mehrheit der Common-Gründer (51-99 %)
 
-- Standard-Mehrheit fuer Geschaeftsfuehrer-Bestellung etc.
-- 75 %-Mehrheit fuer Satzungsaenderungen
+- Standard-Mehrheit für Geschäftsführer-Bestellung etc.
+- 75 %-Mehrheit für Satzungsaenderungen
 
 ### Investor-Minderheit (20-30 % A)
 
-- Sondervetorecht ueber Class-A-Stimmen
+- Sondervetorecht über Class-A-Stimmen
 - Praktisch: Schutz vor Wertvernichtung durch Common-Mehrheit
 
 ### Class-Class-Streit
 
-- Kann zu Patt-Situation fuehren
-- Loesungs-Mechanismen: Schlichtung, Beirat, Schiedsklauseln, ggf. Andienungsrechte
+- Kann zu Patt-Situation führen
+- Lösungs-Mechanismen: Schlichtung, Beirat, Schiedsklauseln, ggf. Andienungsrechte
 
 ## 6) Praktische Stoplsteine
 
@@ -168,7 +168,7 @@ Wandeldarlehen werden in **separatem Vertrag** (Convertible Loan Agreement) auss
 2. **Liquidation Preference doppelt im Stack**: Bei mehreren Klassen klar regeln, welche zuerst.
 3. **Stimmrechts-Multiplikator zu hoch**: Bei AG max. 1:1 (Paragraf 12 II AktG); bei GmbH zulaessig, aber praktisch problematisch jenseits 1:2.
 4. **Anti-Dilution full ratchet**: Bei Down Round wird Investor zu schmerzhaft viel kompensiert.
-5. **Sondervetorechte ueberzogen**: Wenn Investor 20 % haelt, aber 30 % der Themen vetorechtlich verlangt -> Lahmung der Gesellschaft.
+5. **Sondervetorechte überzogen**: Wenn Investor 20 % haelt, aber 30 % der Themen vetorechtlich verlangt -> Lahmung der Gesellschaft.
 
 ## 7) Bei der Notar-Sitzung
 
@@ -181,5 +181,5 @@ Wandeldarlehen werden in **separatem Vertrag** (Convertible Loan Agreement) auss
 
 - `gesellschaftsgruender-cap-table` — Klassen-Verteilung
 - `gesellschaftsgruender-gesellschaftervereinbarung` — SHA-Klauseln je Klasse
-- `gesellschaftsgruender-genehmigtes-kapital` — fuer spaetere Wandlung
+- `gesellschaftsgruender-genehmigtes-kapital` — für spätere Wandlung
 - `gesellschaftsgruender-golden-share-und-vetorechte` — bei Golden Share

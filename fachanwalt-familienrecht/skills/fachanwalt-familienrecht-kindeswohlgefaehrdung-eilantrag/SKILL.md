@@ -3,37 +3,37 @@ name: fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag
 description: "Kindeswohlgefaehrdung § 1666 BGB Eingriff Sorgerecht durch Familiengericht. Eilanordnung § 49 FamFG einstweilige Anordnung. Jugendamt-Meldung § 8a SGB VIII. Inobhutnahme § 42 SGB VIII. Sorgerecht Teilentzug Aufenthaltsbestimmungsrecht Personensorge. Workflow Beratung Eltern Jugendamt Klage Verteidigung."
 ---
 
-# Kindeswohlgefaehrdung — Eilanordnung
+# Kindeswohlgefährdung — Eilanordnung
 
 ## Zweck
 
-Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastung, Drittklage bei Jugendamts-Massnahme.
+Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastung, Drittklage bei Jugendamts-Maßnahme.
 
 ## 1) Eingangs-Abfrage
 
 1. Wer ist Mandant — Eltern, Kind (durch Verfahrensbeistand), Pflegefamilie?
-2. Anlass — Sucht, Gewalt, psychische Krise, Schulversaeumnisse?
+2. Anlass — Sucht, Gewalt, psychische Krise, Schulversäumnisse?
 3. Jugendamt eingeschaltet?
 4. Bereits Inobhutnahme erfolgt?
 5. FamG-Verfahren laufend?
-6. Kind-Alter und Aussage-Faehigkeit?
+6. Kind-Alter und Aussage-Fähigkeit?
 
 ## 2) Rechtsgrundlagen
 
-- **§ 1666 BGB** Massnahmen bei Kindeswohlgefaehrdung
-- **§ 1666a BGB** Verhaeltnismaessigkeit
-- **§ 1671 BGB** Sorgerechts-Uebertragung
+- **§ 1666 BGB** Maßnahmen bei Kindeswohlgefährdung
+- **§ 1666a BGB** Verhältnismaessigkeit
+- **§ 1671 BGB** Sorgerechts-Übertragung
 - **§ 1684 BGB** Umgangsrecht
-- **§ 1696 BGB** Aenderung
-- **§§ 8a, 42 SGB VIII** Jugendamts-Massnahmen
+- **§ 1696 BGB** Änderung
+- **§§ 8a, 42 SGB VIII** Jugendamts-Maßnahmen
 - **§ 49 FamFG** einstweilige Anordnung
 
-## 3) Stufen der Massnahme § 1666 BGB
+## 3) Stufen der Maßnahme § 1666 BGB
 
 ### Stufe 1 — Auflagen
 
 - Beratungs-Auflage
-- Schulpflicht-Ueberwachung
+- Schulpflicht-Überwachung
 - Therapie-Verpflichtung
 - Kontrollbesuche Jugendamt
 
@@ -41,12 +41,12 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 - Aufenthaltsbestimmungsrecht
 - Gesundheitssorge
-- Vermoegenssorge
+- Vermögenssorge
 
 ### Stufe 3 — Voll-Entzug Sorgerecht
 
 - Nur als letztes Mittel
-- Vormundschaft fuer Kind
+- Vormundschaft für Kind
 
 ### Stufe 4 — Wegnahme Kind aus Familie
 
@@ -55,11 +55,11 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ## 4) Jugendamt-Verfahren § 8a SGB VIII
 
-### Pruef-Auftrag
+### Prüf-Auftrag
 
 - Bei Verdacht / Meldung
-- Hausbesuch (mit oder ohne Ankuendigung)
-- Gefaehrdungs-Einschaetzung mit Schutzplan
+- Hausbesuch (mit oder ohne Ankündigung)
+- Gefährdungs-Einschätzung mit Schutzplan
 
 ### Schutzplan
 
@@ -69,21 +69,21 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ### Eskalation Familiengericht
 
-- Bei nicht-Kooperation oder akuter Gefaehrdung
+- Bei nicht-Kooperation oder akuter Gefährdung
 - Pflicht-Anrufung § 8a IV SGB VIII
 
 ## 5) Eilanordnung § 49 FamFG
 
 ### Voraussetzungen
 
-- Eilbeduerftigkeit (Gefaehrdung kann nicht abgewartet werden)
+- Eilbedürftigkeit (Gefährdung kann nicht abgewartet werden)
 - Glaubhaftmachung
 
 ### Verfahren
 
 - Antrag durch Jugendamt oder Eltern
 - FamG entscheidet binnen Tagen
-- Anhoerung der Eltern (auch nachtraeglich bei extremer Eile)
+- Anhörung der Eltern (auch nachtraeglich bei extremer Eile)
 
 ### Beispiele
 
@@ -91,10 +91,10 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 - Mutter psychotisch — Inobhutnahme + Vormundschaft
 - Eltern verweigern Schul-Anmeldung — Schul-Begleitung durch JA
 
-## 6) Anhoerung Beteiligter § 159 FamFG
+## 6) Anhörung Beteiligter § 159 FamFG
 
 - **Kind ab 14 Jahre** zwingend
-- Kind 3-14 Jahre: nach Verstaendnis-Faehigkeit
+- Kind 3-14 Jahre: nach Verständnis-Fähigkeit
 - Verfahrensbeistand (Anwalt des Kindes) § 158 FamFG
 
 ## 7) Workflow Eltern-Verteidigung
@@ -108,7 +108,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 ### Schritt 2 — Kooperation vs. Verteidigung
 
 - Bei akzeptabler Schutzplan-Auflage: Kooperation empfohlen
-- Bei ueberzogenen Auflagen: Verteidigung
+- Bei überzogenen Auflagen: Verteidigung
 
 ### Schritt 3 — Akteneinsicht
 
@@ -117,30 +117,30 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 ### Schritt 4 — Schriftsatz
 
-- Sachverhaltsklaerung
+- Sachverhaltsklärung
 - Gegenbeweise (Therapie, Atteste, Schul-Bescheinigungen)
-- Hilfsweise-Antrag (mildere Massnahme)
+- Hilfsweise-Antrag (mildere Maßnahme)
 
-### Schritt 5 — Anhoerung
+### Schritt 5 — Anhörung
 
 - Erscheinen vor FamG zwingend
 - Mit Anwalt
-- Kind-Anhoerung beobachten
+- Kind-Anhörung beobachten
 
 ## 8) Workflow Jugendamts-Klage / Eilantrag
 
 ### Schritt 1 — Eilantrag § 49 FamFG
 
-- Glaubhaftmachung Gefaehrdung
+- Glaubhaftmachung Gefährdung
 - Eidesstattliche Versicherung Sozialarbeiter
 - Schutzplan-Stand
 
 ### Schritt 2 — Beweisaufnahme
 
-- Eltern-Anhoerung
-- Kind-Anhoerung
+- Eltern-Anhörung
+- Kind-Anhörung
 - Verfahrensbeistand
-- Sachverstaendiger (Psychiater, Erziehungswissenschaftler)
+- Sachverständiger (Psychiater, Erziehungswissenschaftler)
 
 ### Schritt 3 — Beschluss
 
@@ -153,7 +153,7 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 
 - Akute Gefahr (z.B. Mutter Selbstmord-Versuch)
 - Kind selbst meldet sich (Weglauf)
-- Auslaendisches Kind ohne Aufsicht
+- Ausländisches Kind ohne Aufsicht
 
 ### Pflicht-Information
 
@@ -169,21 +169,21 @@ Mandate in Hochkonflikt-Familien — Eltern unter Verdacht, Eltern unter Belastu
 ## 10) Typische Fehler
 
 1. **Eltern verweigern Mitwirkung** Jugendamt — Eskalation
-2. **Eltern lassen sich nicht anwaltlich vertreten** im FamG-Anhoerung
+2. **Eltern lassen sich nicht anwaltlich vertreten** im FamG-Anhörung
 3. **Schutzplan-Auflagen ignoriert** — Stufen-Eskalation
 4. **Verfahrensbeistand nicht angefordert** — Kind ohne eigene Vertretung
-5. **Eil-Anordnung versaeumt** bei akuter Gefahr (Drohung)
+5. **Eil-Anordnung versäumt** bei akuter Gefahr (Drohung)
 
 ## 11) Honorar
 
 - Verfahrenswert FamG: 4.000-12.000 EUR (Standardwerte)
-- Bei Eilantraegen: erhoehte Gebuehr
-- VKH bei Bedurftigkeit zwingend zu pruefen
+- Bei Eilanträgen: erhoehte Gebuehr
+- VKH bei Bedurftigkeit zwingend zu prüfen
 
 ## 12) BGH-/BVerfG-Linien
 
-- BVerfG, Beschl. v. 13.7.2017 — 1 BvR 1202/17 (Verhaeltnismaessigkeit Entzug)
-- BGH, Beschl. v. 17.2.2010 — XII ZB 68/09 (Anhoerung Kind)
+- BVerfG, Beschl. v. 13.7.2017 — 1 BvR 1202/17 (Verhältnismaessigkeit Entzug)
+- BGH, Beschl. v. 17.2.2010 — XII ZB 68/09 (Anhörung Kind)
 
 ## Anschluss
 

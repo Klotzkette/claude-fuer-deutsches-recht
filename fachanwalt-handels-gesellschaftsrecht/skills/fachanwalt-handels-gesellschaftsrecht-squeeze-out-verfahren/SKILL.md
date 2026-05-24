@@ -15,7 +15,7 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 - 95 % der Stimmrechte des Hauptaktionaers
 - Hauptversammlungs-Beschluss mit einfacher Mehrheit
-- Eintragung HR, dann Aktienuebergang an Hauptaktionaer
+- Eintragung HR, dann Aktienübergang an Hauptaktionaer
 - Barabfindung gerichtlich kontrollierbar (Spruchverfahren)
 
 ### 2. WpUG-Squeeze-out §§ 39a-c WpUG
@@ -34,9 +34,9 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 ## 2) Eingangs-Abfrage
 
 1. Welche Variante (Aktien-, WpUG-, Verschmelzungs-)?
-2. Aktuelle Beteiligungs-Hoehe Hauptaktionaer?
+2. Aktuelle Beteiligungs-Höhe Hauptaktionaer?
 3. Streubesitz-Aktionaere (Anzahl)?
-4. Ziel-Gesellschaft boersennotiert?
+4. Ziel-Gesellschaft börsennotiert?
 5. Eigene Stellung — Hauptaktionaer oder Minderheits-Aktionaer?
 
 ## 3) Verfahren § 327a-f AktG
@@ -48,9 +48,9 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 ### Schritt 2 — Vorbereitung HV
 
-- Pruefer bestellt durch LG
+- Prüfer bestellt durch LG
 - Pruefbericht mit Bewertung
-- Pruefer prueft Angemessenheit der Abfindung
+- Prüfer prüft Angemessenheit der Abfindung
 
 ### Schritt 3 — Hauptversammlung
 
@@ -61,9 +61,9 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 ### Schritt 4 — Eintragung HR
 
 - Anfechtungsfrist 1 Monat
-- Bei Anfechtungs-Klage: Freigabeverfahren § 327e III AktG moeglich
+- Bei Anfechtungs-Klage: Freigabeverfahren § 327e III AktG möglich
 
-### Schritt 5 — Aktien-Uebergang
+### Schritt 5 — Aktien-Übergang
 
 - Mit Eintragung im HR
 - Hauptaktionaer wird Allein-Aktionaer
@@ -77,10 +77,10 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 - Multiplikator-Methode subsidiaer
 - Borsenkurs als Untergrenze (BGH II ZR 234/18)
 
-### Pruefer-Bericht
+### Prüfer-Bericht
 
-- Gerichtlich bestellter Pruefer
-- Pruefung der Angemessenheit
+- Gerichtlich bestellter Prüfer
+- Prüfung der Angemessenheit
 - Bei Streit: Stellungnahme
 
 ## 5) Spruchverfahren SpruchG
@@ -93,7 +93,7 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 - LG (Landgericht) am Sitz der Gesellschaft
 - Spezialisierte Kammer (Handelskammer)
-- Sachverstaendige Bewertung
+- Sachverständige Bewertung
 - Verfahren kann **mehrere Jahre** dauern
 
 ### Kostenrisiko
@@ -101,10 +101,10 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 - Bei Erfolg: Gesellschaft traegt Kosten
 - Bei Misserfolg: Antragsteller-Anteil
 
-### Erhoehung
+### Erhöhung
 
 - Bei nachgewiesen niedriger Erstabfindung: Aufschlag (typisch 10-30 %)
-- Verzinsung gemaess § 305 III AktG
+- Verzinsung gemäß § 305 III AktG
 
 ## 6) Anfechtungsklage
 
@@ -113,13 +113,13 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 - Verfahrensfehler bei HV
 - Fehlerhafte Bewertung
 - Sittenwidrigkeit § 138 BGB
-- Bewertungs-Pruefer-Mangel
+- Bewertungs-Prüfer-Mangel
 
 ### Risiken Anfechtungs-Klage
 
 - Klage hemmt Eintragung HR (Klagewirkung)
 - Bei missbraeuchlicher Klage: Schadensersatz Gesellschaft
-- Freigabeverfahren § 327e III AktG: Anfechtung wird ausser Wirksam gestellt
+- Freigabeverfahren § 327e III AktG: Anfechtung wird außer Wirksam gestellt
 
 ## 7) Freigabeverfahren
 
@@ -129,8 +129,8 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 ### Voraussetzung
 
-- Klage erscheint offensichtlich unbegruendet
-- Wirtschaftliche Schaeden bei Verzoegerung ueberwiegen
+- Klage erscheint offensichtlich unbegründet
+- Wirtschaftliche Schäden bei Verzoegerung überwiegen
 
 ### Folge
 
@@ -141,20 +141,20 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 ### Vorbereitung
 
-- Bewertungs-Gutachten frueh
-- Pruefer-Auswahl (BGH-Linie zu Unabhaengigkeit)
+- Bewertungs-Gutachten früh
+- Prüfer-Auswahl (BGH-Linie zu Unabhängigkeit)
 - HV-Vorbereitung sorgfaeltig
 
 ### Risikomanagement
 
 - Freigabe-Antrag bei Anfechtungsklage
-- Vergleichs-Bereitschaft bei „Beruhms-Klaeger"-Konstellation
+- Vergleichs-Bereitschaft bei „Beruhms-Kläger"-Konstellation
 
 ## 9) Minderheits-Aktionaers-Strategie
 
 ### Defensive Position
 
-- Pruefer-Bericht kritisch wuerdigen
+- Prüfer-Bericht kritisch würdigen
 - Eigene Bewertung einholen
 - Spruchverfahren-Antrag binnen 3 Monaten
 
@@ -165,16 +165,16 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 
 ## 10) Typische Fehler
 
-1. **Pruefer-Auswahl mangelhaft** — Bewertung anfechtbar
-2. **Spruchverfahrens-Frist 3 Monate verpasst** — keine Erhoehung
+1. **Prüfer-Auswahl mangelhaft** — Bewertung anfechtbar
+2. **Spruchverfahrens-Frist 3 Monate verpasst** — keine Erhöhung
 3. **Anfechtungs-Klage als Druckmittel** missbraucht — Schadensersatz-Risiko
 4. **Borsenkurs als Untergrenze ignoriert** — BGH-Linie
-5. **Freigabeverfahren versaeumt** Hauptaktionaer — Verzoegerung
+5. **Freigabeverfahren versäumt** Hauptaktionaer — Verzoegerung
 
 ## 11) BGH-Linien
 
 - BGH, Beschl. v. 24.4.2019 — II ZR 234/18 (Borsenkurs Untergrenze)
-- BGH, Beschl. v. 21.7.2020 — II ZB 7/19 (Pruefer-Unabhaengigkeit)
+- BGH, Beschl. v. 21.7.2020 — II ZB 7/19 (Prüfer-Unabhängigkeit)
 - BGH, Beschl. v. 12.1.2016 — II ZB 25/14 (Freigabe-Verfahren)
 
 ## Anschluss

@@ -5,27 +5,27 @@ description: "Bereitet einen Beweisbeschluss vor: streitige Tatsachen Beweisthem
 
 # Beweisbeschluss vorbereiten
 
-Vor der Beweisaufnahme das, was streitig und beweisbeduerftig ist, foermlich festhalten.
+Vor der Beweisaufnahme das, was streitig und beweisbedürftig ist, förmlich festhalten.
 
 ## Voraussetzungen
 
 1. **Streitige Tatsache** - nicht aus eigener Kenntnis des Gerichts und nicht unstreitig.
-2. **Erheblich** - kommt es auf die Tatsache fuer den Anspruch an?
-3. **Beweisbeduerftig** - keine offenkundige Tatsache (Paragraf 291 ZPO), keine Beweislastumkehr greift.
+2. **Erheblich** - kommt es auf die Tatsache für den Anspruch an?
+3. **Beweisbedürftig** - keine offenkundige Tatsache (Paragraf 291 ZPO), keine Beweislastumkehr greift.
 
 ## Inhalt nach Paragraf 359 ZPO
 
 1. Streitige Tatsache(n) - Beweisthema
-2. Beweismittel (Zeuge mit Name und Adresse / Sachverstaendiger / Augenschein / Urkunde / Parteivernehmung)
-3. Beweisfuehrer (welche Partei)
+2. Beweismittel (Zeuge mit Name und Adresse / Sachverständiger / Augenschein / Urkunde / Parteivernehmung)
+3. Beweisführer (welche Partei)
 4. Reihenfolge
 
 ## Beweislast
 
-- Klaeger trifft Beweislast fuer anspruchsbegruendende Tatsachen.
-- Beklagter fuer anspruchshindernde / -vernichtende Tatsachen und fuer Einreden.
+- Kläger trifft Beweislast für anspruchsbegründende Tatsachen.
+- Beklagter für anspruchshindernde / -vernichtende Tatsachen und für Einreden.
 - Beweislastumkehr in Spezialgesetzen (Paragraf 280 I 2 BGB, ProdHG, Paragraf 7 StVG bei Halterhaftung).
 
 ## Beweismass
 
-Paragraf 286 ZPO - volle Ueberzeugung des Gerichts. Wahrscheinlichkeit alleine reicht nicht.
+Paragraf 286 ZPO - volle Überzeugung des Gerichts. Wahrscheinlichkeit alleine reicht nicht.

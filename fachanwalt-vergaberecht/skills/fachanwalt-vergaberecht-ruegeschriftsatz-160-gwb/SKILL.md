@@ -7,7 +7,7 @@ description: "Ruege im Vergabeverfahren § 160 III GWB Frist unverzueglich nach 
 
 ## Zweck
 
-Ruege als Pflicht-Vorstufe zum Nachpruefungsverfahren.
+Ruege als Pflicht-Vorstufe zum Nachprüfungsverfahren.
 
 ## 1) Voraussetzungen § 160 III GWB
 
@@ -25,7 +25,7 @@ Ruege als Pflicht-Vorstufe zum Nachpruefungsverfahren.
 ### Inhalt
 
 - Konkreter Mangel benannt
-- Begruendung
+- Begründung
 - Antrag auf Abhilfe
 
 ## 2) Ruege-Inhalte (typische Mangel)
@@ -36,21 +36,21 @@ Ruege als Pflicht-Vorstufe zum Nachpruefungsverfahren.
 | Diskriminierung | Pflicht-Referenzen unangemessen |
 | Eignungs-Kriterien | Mindest-Umsatz uneurthältnismaessig |
 | Wertungs-Mangel | Bewertungs-Massstab unklar |
-| Aenderungs-Verbot | Wesentliche Vertrags-Aenderung ohne Neu-Ausschreibung |
+| Änderungs-Verbot | Wesentliche Vertrags-Änderung ohne Neu-Ausschreibung |
 
-## 3) Praeklusion
+## 3) Präklusion
 
 ### Verlust der Anspruche
 
-- Bei verspaeteter Ruege: **Praeklusion**
-- Spaeteres Nachpruefungsverfahren unzulaessig
+- Bei verspaeteter Ruege: **Präklusion**
+- Späteres Nachprüfungsverfahren unzulaessig
 - Strenge BGH-Linie
 
 ### Ausnahmen
 
 - Mangel nicht erkennbar
 - Bei Vertraulichkeits-Mangel
-- Bei nicht-veroeffentlichten Massnahmen
+- Bei nicht-veröffentlichten Maßnahmen
 
 ## 4) Workflow
 
@@ -72,7 +72,7 @@ Ruege als Pflicht-Vorstufe zum Nachpruefungsverfahren.
 
 ### Phase 4 — Bei Ablehnung
 
-- Nachpruefungs-Antrag VK § 160 GWB
+- Nachprüfungs-Antrag VK § 160 GWB
 - Frist 15 Tage nach Vergabestelle-Ablehnung
 
 ## 5) Typische Fehler
@@ -84,7 +84,7 @@ Ruege als Pflicht-Vorstufe zum Nachpruefungsverfahren.
 
 ## 6) BGH-/OLG-Linien
 
-- BGH, Beschl. v. 26.10.2020 — XIII ZB 26/19 (Praeklusion)
+- BGH, Beschl. v. 26.10.2020 — XIII ZB 26/19 (Präklusion)
 - OLG Duesseldorf-Linie zur „unverzueglich"-Auslegung
 
 ## Anschluss

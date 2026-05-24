@@ -148,7 +148,7 @@ Die Antragsbefugnis nach § 47 Abs. 2 VwGO ist beim VEP häufig erleichtert:
 - Antragsteller kann Aufhebungs-Erforderlichkeit feststellen lassen
 - BayVGH 1 N 11.756 (Urt. v. 19.06.2014) zur Antragsbefugnis
 
-## Schritt 9 — Pruefraster für die Mandantin-Vertretung
+## Schritt 9 — Prüfraster für die Mandantin-Vertretung
 
 ### Schritt 9.1 — Plan-Identifikation
 

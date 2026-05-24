@@ -17,12 +17,12 @@ description: Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetz
 | UN-Kaufrecht | CISG (BGBl. II 1989 S. 588) |
 | Gerichtsstand EU | Brüssel Ia VO (EU 1215/2012) |
 | Anwendbares Recht Vertrag | Rom I VO (EG 593/2008) |
-| Anwendbares Recht ausservertraglich | Rom II VO (EG 864/2007) |
+| Anwendbares Recht außervertraglich | Rom II VO (EG 864/2007) |
 | Anerkennung und Vollstreckung | New York Convention 1958 für Schiedssprueche |
 | Schiedsverfahren | UNCITRAL Modellgesetz ICC-Rules LCIA-Rules VIAC-Rules ZPO §§ 1025 ff. |
 | Investitionsschutz | ICSID-Konvention BIT-Verträge |
 | Welthandel | WTO-Recht (GATT GATS TRIPS DSU) |
-| EU-Aussenhandel | EU-Zollkodex EU-Sanktionsverordnungen Dual-Use-VO |
+| EU-Außenhandel | EU-Zollkodex EU-Sanktionsverordnungen Dual-Use-VO |
 | Lieferketten | LkSG (Lieferkettensorgfaltspflichtengesetz) EU CSDDD |
 | Internationale Vollstreckung | EuVTVO EUKoVO Brüssel Ia |
 
@@ -33,7 +33,7 @@ description: Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetz
 - Anerkennung und Vollstreckung ausländischer Urteile
 - Investitionsschutz-Schiedsverfahren ICSID
 - EU-Sanktionen Compliance Russland Iran etc.
-- Aussenwirtschaftsrecht Genehmigungen Exportkontrolle
+- Außenwirtschaftsrecht Genehmigungen Exportkontrolle
 - LkSG-Compliance Lieferantenkette Risikoanalyse
 
 ## Fristen
@@ -57,7 +57,7 @@ description: Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetz
 - Geimer/Schuetze, Internationales Zivilprozessrecht.
 - Stein/Jonas ZPO Schiedsverfahren.
 - Magnus, Internationales Wirtschaftsrecht.
-- Bredow/Kollatz, EU-Aussenwirtschaftsrecht.
+- Bredow/Kollatz, EU-Außenwirtschaftsrecht.
 
 ## Berufsverband
 
@@ -68,6 +68,6 @@ description: Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetz
 ## Schnittstellen
 
 - **gesellschaftsrecht** bei grenzüberschreitenden M&A.
-- **regulatorisches-recht** bei BaFin-Aufsicht Aussenhandel.
+- **regulatorisches-recht** bei BaFin-Aufsicht Außenhandel.
 - **fachanwalt-vergaberecht** bei grenzüberschreitender Vergabe.
 - **kanzlei-cowork** Fristen Versand.

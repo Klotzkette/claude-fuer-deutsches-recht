@@ -16,22 +16,22 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 
 ### Beispiele
 
-- Verlaengerung Bestandsauftrag ueber 50 %
-- Wesentliche Aenderung ohne Neuvergabe
+- Verlängerung Bestandsauftrag über 50 %
+- Wesentliche Änderung ohne Neuvergabe
 - Inhouse-Vergabe ohne Voraussetzungen
-- „Notvergabe" ohne tatsaechliche Eilbeduerftigkeit
+- „Notvergabe" ohne tatsächliche Eilbedürftigkeit
 
 ## 2) Unwirksamkeits-Klage § 135 GWB
 
 ### Voraussetzungen
 
-- De-facto-Vergabe oder Pflichtverstoss
+- De-facto-Vergabe oder Pflichtverstoß
 - Antrag bei VK / Klage
 
 ### Folgen
 
 - Vertrag wird unwirksam
-- Rueckabwicklung
+- Rückabwicklung
 - Neuvergabe erforderlich
 
 ### Frist
@@ -43,14 +43,14 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 
 ### EuGH-Linie (Teckal-Kriterien)
 
-- Kontrolle wie ueber eigene Dienststelle
-- Wesentliche Taetigkeit fuer Eigentuemer
+- Kontrolle wie über eigene Dienststelle
+- Wesentliche Tätigkeit für Eigentuemer
 - Keine Beteiligung privater Kapitals
 
-### Pruefung § 108 GWB
+### Prüfung § 108 GWB
 
 - Detaillierte Voraussetzungen
-- Bei Verstoss: De-facto-Vergabe
+- Bei Verstoß: De-facto-Vergabe
 
 ## 4) Schadensersatz § 181 GWB
 
@@ -60,7 +60,7 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 - Eigene Bewerbung
 - Schaden
 
-### Hoehe
+### Höhe
 
 - Negativ-Interesse: Bewerbungs-Kosten
 - Positiv-Interesse: entgangener Gewinn (BGH-Linie)
@@ -85,10 +85,10 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 
 ## 6) IFG-Antrag § 5 IFG
 
-### Pruefung
+### Prüfung
 
-- Vergabe-Akten oeffentlich zugaenglich
-- Schwarzanteile bei Geschaeftsgeheimnis
+- Vergabe-Akten öffentlich zugaenglich
+- Schwarzanteile bei Geschäftsgeheimnis
 
 ### Frist
 
@@ -97,12 +97,12 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 
 ## 7) Typische Konstellationen
 
-### Versorgungs-Vertraege
+### Versorgungs-Verträge
 
 - Strom, Gas, Telekom
-- Vertrags-Verlaengerung ohne Ausschreibung
+- Vertrags-Verlängerung ohne Ausschreibung
 
-### IT-Vertraege
+### IT-Verträge
 
 - Modular-Erweiterungen
 - Lock-In-Faktor missbraucht
@@ -110,14 +110,14 @@ Klage gegen ohne Ausschreibung erfolgte Auftragsvergabe.
 ### Bauauftraege
 
 - Folge-Aufträge ohne Neuvergabe
-- Nachtraege ueber Schwelle
+- Nachtraege über Schwelle
 
 ## 8) Typische Fehler
 
 1. **30-Tage-Frist verpasst**
 2. **IFG-Antrag nicht gestellt**
 3. **Schadensersatz-Anspruch pauschal**
-4. **Inhouse-Vergabe-Voraussetzungen falsch geprueft**
+4. **Inhouse-Vergabe-Voraussetzungen falsch geprüft**
 
 ## 9) BGH-/EuGH-Linien
 

@@ -7,22 +7,22 @@ description: "D-und-O-Versicherung Directors and Officers Deckungsabwehr durch V
 
 ## Zweck
 
-D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen Geschaeftsfuehrer.
+D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen Geschäftsführer.
 
 ## 1) D&O-Standard
 
 ### Anwendungs-Bereich
 
-- Vermoegens-Schaeden durch Geschaeftsfuehrer
+- Vermögens-Schäden durch Geschäftsführer
 - Aufsichtsrat
 - ggf. Prokuristen
 
 ### Versicherte Personen
 
 - Aktiv-Personen (im Dienst)
-- Frueher / spaeter (typisch 6-12 Monate Nach-Deckung)
+- Früher / später (typisch 6-12 Monate Nach-Deckung)
 
-## 2) Versicherte Schaeden
+## 2) Versicherte Schäden
 
 ### Standard
 
@@ -32,9 +32,9 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 ### Ausnahmen (typisch ausgeschlossen)
 
 - Vorsatz
-- Schaedigungs-Absicht
+- Schädigungs-Absicht
 - Insider-Trading
-- Verbotene Geschaeftsbereiche
+- Verbotene Geschäftsbereiche
 - Strafrechtliche Sanktionen (oft begrenzte Deckung)
 - Steuer-Schaden
 
@@ -55,7 +55,7 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 ### Verschwiegenheits-Verletzung
 
 - Versicherter muss kooperieren
-- Bei Verstoss: Leistungs-Verlust
+- Bei Verstoß: Leistungs-Verlust
 
 ## 4) Selbstbehalt
 
@@ -67,11 +67,11 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 ### Praxis
 
 - Versicherer-Standardbedingung
-- Bei kleinen Schaeden: Selbstbehalt absorbiert ganz
+- Bei kleinen Schäden: Selbstbehalt absorbiert ganz
 
 ## 5) Anspruchs-Geltendmachung
 
-### Sofort-Massnahmen
+### Sofort-Maßnahmen
 
 - Anspruch erkannt: Versicherer melden
 - Vermeiden: Anerkennung Schaden ohne Vers.-Zustimmung
@@ -79,7 +79,7 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 
 ### Pflichten Versicherte
 
-- Vollstaendige Information
+- Vollständige Information
 - Beweis-Sicherung
 - Verteidigung kooperativ
 
@@ -87,15 +87,15 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 
 ### Bei Versicherer-Ablehnung
 
-- Schriftliche Begruendung verlangen
+- Schriftliche Begründung verlangen
 - Eigene Sicht widerlegen
 - Klage Versicherer
 
 ### Klage Versicherer
 
 - LG Sitz Versicherer
-- Streitwert: Deckungs-Hoehe
-- Sachverstaendigen-Beweis ggf.
+- Streitwert: Deckungs-Höhe
+- Sachverständigen-Beweis ggf.
 
 ## 7) Workflow
 
@@ -104,13 +104,13 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 - Sofort Versicherer melden
 - Anwalt einschalten
 
-### Phase 2 — Versicherer-Pruefung
+### Phase 2 — Versicherer-Prüfung
 
-- Versicherer prueft Deckung
-- Bei Anerkennung: Anwalt-Bestellung uebernimmt
+- Versicherer prüft Deckung
+- Bei Anerkennung: Anwalt-Bestellung übernimmt
 - Bei Ablehnung: Streit
 
-### Phase 3 — Aussergerichtlich
+### Phase 3 — Außergerichtlich
 
 - Verhandlung mit Versicherer
 - Vergleichs-Bereitschaft
@@ -136,7 +136,7 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 
 ### Bei Mehrfach-Anspruch
 
-- Versicherer-Hoechstgrenze beachten
+- Versicherer-Höchstgrenze beachten
 - ggf. Aufstockungs-Vers.
 
 ## 10) Typische Fehler
@@ -144,7 +144,7 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 1. **Schaden nicht sofort gemeldet** -> Deckungs-Verlust
 2. **Anerkennung ohne Versicherer-Zustimmung**
 3. **Vorsatz-Einwand pauschal akzeptiert**
-4. **Selbstbehalt uebersehen** bei Pruefung
+4. **Selbstbehalt übersehen** bei Prüfung
 
 ## Anschluss
 

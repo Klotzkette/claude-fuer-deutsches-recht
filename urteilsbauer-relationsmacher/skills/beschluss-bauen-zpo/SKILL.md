@@ -7,9 +7,9 @@ description: "Erstellt Beschluesse fuer das Zivilverfahren: PKH-Beschluss Streit
 
 ## Zweck
 
-Beschluesse sind selbststaendige Entscheidungen, die nicht auf muendliche Verhandlung ergehen muessen (Paragraf 128 IV ZPO). Sie sind das taegliche Werkzeug des Zivilrichters — von der prozessleitenden Massnahme bis zur Endentscheidung im Beschlussverfahren (z.B. Familiensachen FamFG). Dieser Skill liefert die Form, die typischen Tenoere, die wichtigsten Begruendungsmuster und die wiederkehrenden Fallstricke.
+Beschlüsse sind selbstständige Entscheidungen, die nicht auf muendliche Verhandlung ergehen müssen (Paragraf 128 IV ZPO). Sie sind das tägliche Werkzeug des Zivilrichters — von der prozessleitenden Maßnahme bis zur Endentscheidung im Beschlussverfahren (z.B. Familiensachen FamFG). Dieser Skill liefert die Form, die typischen Tenoere, die wichtigsten Begründungsmuster und die wiederkehrenden Fallstricke.
 
-## 1) Beschluss-Typen im Ueberblick
+## 1) Beschluss-Typen im Überblick
 
 | Typ | Norm | Anlass | Rechtsmittel |
 |---|---|---|---|
@@ -17,14 +17,14 @@ Beschluesse sind selbststaendige Entscheidungen, die nicht auf muendliche Verhan
 | Verfahrenskostenhilfe Familiensachen | Paragraf 76 FamFG | VKH in FamFG-Sachen | sofortige Beschwerde Paragraf 76 II FamFG |
 | Streitwertbeschluss | Paragraf 63 GKG | Festsetzung gegen Streitwertfestsetzung | Beschwerde Paragraf 68 GKG |
 | Beweisbeschluss | Paragraf 358 ZPO | Anordnung einer Beweisaufnahme | unanfechtbar |
-| Hinweisbeschluss | Paragraf 139 ZPO | rechtliche/tatsaechliche Hinweise | unanfechtbar (aber gehoertspflicht-relevant) |
-| Kostenfestsetzungsbeschluss | Paragraf 104 ZPO | Hoehe der zu erstattenden Kosten | sofortige Beschwerde Paragraf 11 RPflG |
-| Saeumnisbeschluss/Versaeumnisurteil ohne Verhandlung | Paragraf 331 III ZPO | schriftliches Vorverfahren | Einspruch Paragraf 338 ZPO |
-| Erledigungsbeschluss | Paragraf 91a ZPO | uebereinstimmende Erledigungserklaerung | sofortige Beschwerde Paragraf 91a II ZPO |
+| Hinweisbeschluss | Paragraf 139 ZPO | rechtliche/tatsächliche Hinweise | unanfechtbar (aber gehörtspflicht-relevant) |
+| Kostenfestsetzungsbeschluss | Paragraf 104 ZPO | Höhe der zu erstattenden Kosten | sofortige Beschwerde Paragraf 11 RPflG |
+| Saeumnisbeschluss/Versäumnisurteil ohne Verhandlung | Paragraf 331 III ZPO | schriftliches Vorverfahren | Einspruch Paragraf 338 ZPO |
+| Erledigungsbeschluss | Paragraf 91a ZPO | übereinstimmende Erledigungserklärung | sofortige Beschwerde Paragraf 91a II ZPO |
 | Anerkenntnisbeschluss bei Mahnverfahren | Paragraf 700 ZPO | Anerkenntnis nach Widerspruch | wie Urteil |
 | Vergleichsfeststellung | Paragraf 278 VI ZPO | gerichtlicher Vergleich auf Vorschlag | keiner |
-| Zurueckweisungsbeschluss Berufung | Paragraf 522 II ZPO | offensichtlich unbegruendet | keiner |
-| Hinweis- und Aufklaerungsbeschluss BGH | Paragraf 552a ZPO | Revision offensichtlich unbegruendet | keiner |
+| Zurueckweisungsbeschluss Berufung | Paragraf 522 II ZPO | offensichtlich unbegründet | keiner |
+| Hinweis- und Aufklärungsbeschluss BGH | Paragraf 552a ZPO | Revision offensichtlich unbegründet | keiner |
 
 ## 2) Form
 
@@ -36,21 +36,21 @@ Wie beim Urteil:
 - **Parteien** mit Bezeichnung, Anschrift, Prozessbevollmaechtigte
 - Bei Mehrparteien-Beschluss alle Beteiligten
 
-### Ueberschrift
+### Überschrift
 
-`**Beschluss**` (zentriert), nicht „Urteil", nicht „Verfuegung"
+`**Beschluss**` (zentriert), nicht „Urteil", nicht „Verfügung"
 
 ### Tenor
 
-Klar, knapp, vollstreckbar. **Imperative Form**, keine Konditionalsaetze.
+Klar, knapp, vollstreckbar. **Imperative Form**, keine Konditionalsätze.
 
-### Gruende
+### Gründe
 
-Knapper als beim Urteil — meist 1-3 Absaetze. Aber: **vollstaendig genug, dass das Beschwerdegericht die Pruefung nachvollziehen kann** (Paragraf 567 ff. ZPO). Bei Hinweisbeschluss muessen die rechtlichen Hinweise so konkret sein, dass die Parteien angemessen reagieren koennen (BGH NJW 2020, 1740 Rn. 14).
+Knapper als beim Urteil — meist 1-3 Absätze. Aber: **vollständig genug, dass das Beschwerdegericht die Prüfung nachvollziehen kann** (Paragraf 567 ff. ZPO). Bei Hinweisbeschluss müssen die rechtlichen Hinweise so konkret sein, dass die Parteien angemessen reagieren koennen (BGH NJW 2020, 1740 Rn. 14).
 
 ### Rechtsmittelbelehrung
 
-Soweit Rechtsmittel statthaft ist (Paragraf 232 ZPO Pflicht). Bei unanfechtbaren Beschluessen optional, aber nicht schaedlich.
+Soweit Rechtsmittel statthaft ist (Paragraf 232 ZPO Pflicht). Bei unanfechtbaren Beschlüssen optional, aber nicht schaedlich.
 
 ### Unterschrift
 
@@ -80,7 +80,7 @@ hinreichende Erfolgsaussicht (Paragraf 114 ZPO) fehlt.
 Der Streitwert wird auf 12.500,- EUR festgesetzt.
 ```
 
-Bei mehreren Streitgegenstaenden:
+Bei mehreren Streitgegenständen:
 
 ```
 Der Streitwert wird festgesetzt
@@ -122,9 +122,9 @@ Die vom Beklagten an den Klaeger zu erstattenden Kosten werden auf
 Basiszinssatz seit Rechtshaengigkeit (Paragraf 104 I 2 ZPO) zu zahlen.
 ```
 
-### Erledigungsbeschluss Paragraf 91a ZPO — **nur bei uebereinstimmender Erledigungserklaerung**
+### Erledigungsbeschluss Paragraf 91a ZPO — **nur bei übereinstimmender Erledigungserklärung**
 
-Der Erledigungsbeschluss nach Paragraf 91a ZPO ergeht **nur**, wenn **beide Parteien** den Rechtsstreit uebereinstimmend fuer erledigt erklaert haben. Er enthaelt **nur die Kostenentscheidung**.
+Der Erledigungsbeschluss nach Paragraf 91a ZPO ergeht **nur**, wenn **beide Parteien** den Rechtsstreit übereinstimmend für erledigt erklärt haben. Er enthält **nur die Kostenentscheidung**.
 
 ```
 Die Kosten des Rechtsstreits werden gegeneinander aufgehoben
@@ -137,11 +137,11 @@ oder z.B.
 Die Kosten des Rechtsstreits traegt der Beklagte (Paragraf 91a I 1 ZPO).
 ```
 
-> **Achtung — abgrenzende Konstellation**: Bei **einseitiger** Erledigungserklaerung, der die Gegenseite **widerspricht**, ist der Streitgegenstand gewandelt zur Feststellung der Erledigung. Darueber wird **durch Urteil** entschieden (nicht durch Beschluss nach Paragraf 91a ZPO), mit Tenor „Es wird festgestellt, dass die Hauptsache erledigt ist" und voller Kostenentscheidung nach Paragraf 91 ZPO. Tenor und Urteilsbegruendung gehoeren dann nicht in diesen Beschluss-Skill, sondern in `tenor-bauen-zivil` und `entscheidungsgruende-zivil-schreiben`.
+> **Achtung — abgrenzende Konstellation**: Bei **einseitiger** Erledigungserklärung, der die Gegenseite **widerspricht**, ist der Streitgegenstand gewandelt zur Feststellung der Erledigung. Darüber wird **durch Urteil** entschieden (nicht durch Beschluss nach Paragraf 91a ZPO), mit Tenor „Es wird festgestellt, dass die Hauptsache erledigt ist" und voller Kostenentscheidung nach Paragraf 91 ZPO. Tenor und Urteilsbegründung gehören dann nicht in diesen Beschluss-Skill, sondern in `tenor-bauen-zivil` und `entscheidungsgruende-zivil-schreiben`.
 
-## 4) Begruendungsmuster
+## 4) Begründungsmuster
 
-### PKH — Erfolgsaussicht und Beduerftigkeit
+### PKH — Erfolgsaussicht und Bedürftigkeit
 
 ```
 Der Antrag hat Erfolg. Die Klage hat hinreichende Erfolgsaussicht
@@ -182,30 +182,30 @@ gegeben.
 ## 5) Unterschied zum Urteil
 
 - Beschluss ergeht **ohne** muendliche Verhandlung (Paragraf 128 IV ZPO), Urteil grundsaetzlich **mit** (Paragraf 128 I ZPO).
-- Begruendung beim Beschluss kuerzer — aber nicht unkenntlich.
+- Begründung beim Beschluss kuerzer — aber nicht unkenntlich.
 - Rechtsmittel beim Beschluss ist meist die **sofortige Beschwerde** (Paragraf 567 ZPO, 2-Wochen-Frist), nicht die Berufung.
-- **Tatbestand entfaellt** beim Beschluss in der Regel; bei Endentscheidungen (z.B. Versaeumnisbeschluss Paragraf 331 III ZPO) ist eine knappe Sachverhaltsdarstellung sinnvoll.
-- Beschluesse koennen vom **Vorsitzenden allein** ergehen, soweit nicht Kammerentscheidung vorgeschrieben (Paragraf 348 ZPO Einzelrichter).
+- **Tatbestand entfaellt** beim Beschluss in der Regel; bei Endentscheidungen (z.B. Versäumnisbeschluss Paragraf 331 III ZPO) ist eine knappe Sachverhaltsdarstellung sinnvoll.
+- Beschlüsse koennen vom **Vorsitzenden allein** ergehen, soweit nicht Kammerentscheidung vorgeschrieben (Paragraf 348 ZPO Einzelrichter).
 
 ## 6) Typische Fehler
 
 1. **Tenor unvollstreckbar.** Tenor muss aus sich heraus vollstreckbar sein. „Der Antrag wird teilweise zurueckgewiesen" reicht nicht — der zugesprochene Teil ist zu bezeichnen.
 2. **PKH-Beschluss ohne Beiordnung.** Bei Anwaltszwang (LG, OLG, FamG mit Anwaltszwang) muss die Beiordnung mit ausgesprochen werden (Paragraf 121 ZPO).
-3. **Hinweisbeschluss zu unkonkret.** „Die Klage ist substanziierungsbeduerftig" reicht nicht. Konkret muss benannt werden, was vorgetragen werden soll. BGH NJW 2020, 1740 Rn. 14; BGH NJW 2017, 3155.
-4. **Streitwertbeschluss zu spaet.** Festsetzung bis zur naechsten Instanz moeglich, aber meist mit Urteil/Endbeschluss (Paragraf 63 II GKG).
-5. **Erledigungsbeschluss ohne Begruendung der Kostenentscheidung.** Paragraf 91a ZPO verlangt billiges Ermessen; mindestens kurze Begruendung der Kostenquote.
-6. **Rechtsmittelbelehrung falsch.** Bei sofortiger Beschwerde 2 Wochen ab Zustellung; bei Einspruch gegen Versaeumnisbeschluss 2 Wochen ab Zustellung; bei Beschwerde gegen Streitwertfestsetzung 6 Monate ab Festsetzung (Paragraf 68 GKG).
-7. **Unterschriften fehlen.** Bei Kammer-Beschluss alle drei Richter. Bei Verhinderung Vermerk „fuer den an der Unterschrift verhinderten Richter [Name] gemaess Paragraf 315 ZPO".
+3. **Hinweisbeschluss zu unkonkret.** „Die Klage ist substanziierungsbedürftig" reicht nicht. Konkret muss benannt werden, was vorgetragen werden soll. BGH NJW 2020, 1740 Rn. 14; BGH NJW 2017, 3155.
+4. **Streitwertbeschluss zu spaet.** Festsetzung bis zur nächsten Instanz möglich, aber meist mit Urteil/Endbeschluss (Paragraf 63 II GKG).
+5. **Erledigungsbeschluss ohne Begründung der Kostenentscheidung.** Paragraf 91a ZPO verlangt billiges Ermessen; mindestens kurze Begründung der Kostenquote.
+6. **Rechtsmittelbelehrung falsch.** Bei sofortiger Beschwerde 2 Wochen ab Zustellung; bei Einspruch gegen Versäumnisbeschluss 2 Wochen ab Zustellung; bei Beschwerde gegen Streitwertfestsetzung 6 Monate ab Festsetzung (Paragraf 68 GKG).
+7. **Unterschriften fehlen.** Bei Kammer-Beschluss alle drei Richter. Bei Verhinderung Vermerk „für den an der Unterschrift verhinderten Richter [Name] gemäß Paragraf 315 ZPO".
 
-## 7) Schnellpruefung vor Versand
+## 7) Schnellprüfung vor Versand
 
 - [ ] Aktenzeichen korrekt?
-- [ ] Parteien vollstaendig bezeichnet?
+- [ ] Parteien vollständig bezeichnet?
 - [ ] Tenor aus sich heraus vollstreckbar?
-- [ ] Norm-Stuetze fuer den Tenor (z.B. „Paragraf 91a I ZPO")?
-- [ ] Begruendung ausreichend fuer das Beschwerdegericht?
+- [ ] Norm-Stütze für den Tenor (z.B. „Paragraf 91a I ZPO")?
+- [ ] Begründung ausreichend für das Beschwerdegericht?
 - [ ] Rechtsmittelbelehrung mit Frist und Form?
-- [ ] Unterschrift(en) vollstaendig?
+- [ ] Unterschrift(en) vollständig?
 
 ## Anschluss
 

@@ -119,9 +119,9 @@ Ergebnis: trotz **bilanzieller Überschuldung von 82.000 EUR** ist die **insolve
 
 ## Wichtige Hinweise
 
-- Bei **Personengesellschaften ohne natürlich-personige Vollhafter** (z. B. GmbH und Co. KG mit ausschließlich Komplementaer-GmbH) gilt § 19 InsO entsprechend.
+- Bei **Personengesellschaften ohne natürlich-personige Vollhafter** (z. B. GmbH und Co. KG mit ausschließlich Komplementär-GmbH) gilt § 19 InsO entsprechend.
 - Bei **Einzelkaufmann** oder Personengesellschaft mit natürlich-personiger Vollhafter ist § 19 InsO **nicht anwendbar** — Insolvenzantragspflicht ergibt sich nur aus Zahlungsunfähigkeit § 17 InsO.
-- Die Erstellung des Status ist **Geschäftsleiter-Pflicht**. Bei Buchfuehrungsmängeln (kein aktueller Stand kein Status möglich) kommt **Bankrott** § 283b StGB in Betracht.
+- Die Erstellung des Status ist **Geschäftsleiter-Pflicht**. Bei Buchführungsmängeln (kein aktueller Stand kein Status möglich) kommt **Bankrott** § 283b StGB in Betracht.
 
 ## Rechtsprechung
 

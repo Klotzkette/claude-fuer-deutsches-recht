@@ -9,7 +9,7 @@ description: Erstellt immobilienrechtliche Vertraege strikt auf Basis hausintern
 
 Vertragserstellung ist NICHT voll an die KI delegierbar. Die KI ist ein
 disziplinierter Schreibtisch, der vorgegebene Klauseln einsetzt, Platzhalter
-befuellt und Querverweise konsistent haelt. Sie ist KEIN Drafter und schreibt
+befüllt und Querverweise konsistent haelt. Sie ist KEIN Drafter und schreibt
 keine eigenen Klauseln in tragenden Punkten.
 
 ## Inputs
@@ -45,13 +45,13 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 4. Platzhalter befuellen, Querverweise (§-Verweise, Anlagen) anpassen
 5. Konsistenzprüfung: Daten, Betraege ohne Komma in der Beschreibung,
    Parteiennennungen, Pluralformen
-6. Änderungsprotokoll erzeugen — welche Platzhalter befuellt, welche offen,
+6. Änderungsprotokoll erzeugen — welche Platzhalter befüllt, welche offen,
    welche Konflikte
 7. Roter Block oben im Dokument: was zwingend manuell zu prüfen ist
 
 ## Output
 
-- `Vertrag_<Objekt>_<Datum>.docx` auf Muster-Layout, Platzhalter befuellt
+- `Vertrag_<Objekt>_<Datum>.docx` auf Muster-Layout, Platzhalter befüllt
 - `Aenderungsprotokoll.md` mit Tabelle Platzhalter — Wert — Quelle im Term Sheet
 - `Manuelle_Pruefung.md` mit Liste der Punkte die nur ein Jurist
   entscheiden kann (zB GenehmigungspflichtigerVerkauf §§ 1365 BGB,
@@ -61,7 +61,7 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 
 - Vorkaufsrechte der Gemeinde §§ 24 ff. BauGB
 - Genehmigung nach § 1365 BGB bei Verfügung über das Vermögen im Ganzen
-- Grundstuecksverkehrsgenehmigung GrdstVG
+- Grundstücksverkehrsgenehmigung GrdstVG
 - Sanierungsvermerk § 144 BauGB, Erhaltungssatzung § 172 BauGB
 - Wohnungseigentumsumwandlung § 250 BauGB (Genehmigungspflicht)
 - WEG-Beschlüsse als Anlage (Beschlussfähigkeit, Anfechtungsfristen)
@@ -73,9 +73,9 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 
 ## Beispielformulierungen
 
-- "Erstelle aus Mustervertrag Gewerbemiete und beigefuegtem Term Sheet
+- "Erstelle aus Mustervertrag Gewerbemiete und beigefügtem Term Sheet
   einen Entwurf. Achte auf Schriftform § 550 BGB."
 - "Befuelle den Wohnraummietvertrag-Muster mit den Eckpunkten aus dem
   Eckpunktepapier. Prüfe ob Mietpreisbremse greift und markiere."
 - "Erstelle WEG-Verwaltervertrag aus Muster, Term Sheet anbei,
-  Bestellungsbeschluss als Anlage einfuegen."
+  Bestellungsbeschluss als Anlage einfügen."

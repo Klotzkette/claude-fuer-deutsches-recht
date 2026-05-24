@@ -27,15 +27,15 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 | Auslands-Wohnsitz Erblasser oder Erbe | **6 Monate** |
 | Nicht bekannt Erbfall | Frist beginnt mit Kenntnis |
 
-### Versaeumnis
+### Versäumnis
 
 - Frist abgelaufen ohne Ausschlagung = **Erbe angenommen**
-- Anfechtung Annahme ueber § 1954 BGB schwer (Irrtum)
+- Anfechtung Annahme über § 1954 BGB schwer (Irrtum)
 
 ## 3) Form § 1945 BGB
 
 - **Notarielle Beurkundung** oder
-- **Erklaerung gegenueber Nachlassgericht** (Amtsgericht Erblassers letzter Wohnsitz)
+- **Erklärung gegenüber Nachlassgericht** (Amtsgericht Erblassers letzter Wohnsitz)
 - Beide Wege gleichwertig
 
 ### Kosten
@@ -48,8 +48,8 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 ### Rueckwirkung § 1953 BGB
 
 - Erbe gilt als nie eingetreten
-- Naechste Erbordnung tritt ein
-- Bei Kind ausschlaegt: Enkelkind kann erben (Repraesentations-Prinzip)
+- Nächste Erbordnung tritt ein
+- Bei Kind ausschlägt: Enkelkind kann erben (Repraesentations-Prinzip)
 
 ### Pflichtteils-Anspruch
 
@@ -58,30 +58,30 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 
 ### Bei Sozialhilfe-Beziehern
 
-- **Sozialhilfe-Traeger kann Ausschlagung anfechten** § 138 BGB (Sittenwidrigkeit) bei drohender Sozialhilfe-Belastung
+- **Sozialhilfe-Träger kann Ausschlagung anfechten** § 138 BGB (Sittenwidrigkeit) bei drohender Sozialhilfe-Belastung
 - BGH NJW 2006, 2113 zur Anfechtungs-Voraussetzung
 
 ## 5) Strategische Erwaegungen
 
 ### Pro Ausschlagung
 
-- Nachlass-Schulden hoeher als Aktiva
+- Nachlass-Schulden höher als Aktiva
 - Komplexe Auslands-Nachlaesse (Erbschein-Aufwand)
-- Bevorzugung naechster Generation (Nachfolge-Planung)
+- Bevorzugung nächster Generation (Nachfolge-Planung)
 - Vermeidung Verfahrenskosten
 
 ### Contra Ausschlagung
 
-- Nachlass-Wert unklar (Sachverstaendiger?)
-- Pflichtteils-Ausnahme moeglich
+- Nachlass-Wert unklar (Sachverständiger?)
+- Pflichtteils-Ausnahme möglich
 - Bei Vor-/Nacherbschaft: Pflicht-Verzicht ungewollt
 
 ## 6) Anfechtung der Ausschlagung § 1954 BGB
 
 ### Voraussetzungen
 
-- Irrtum ueber Inhalt oder Erklaerungsbestand
-- Irrtum ueber Eigenschaft (z.B. Nachlasswert)
+- Irrtum über Inhalt oder Erklärungsbestand
+- Irrtum über Eigenschaft (z.B. Nachlasswert)
 
 ### Frist
 
@@ -94,21 +94,21 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 ### Praxis
 
 - Schwer durchzusetzen — Beweislast
-- Beispiel: Nachlasswert wesentlich hoeher als angenommen, Pflichtangaben zur Inventarisierung
+- Beispiel: Nachlasswert wesentlich höher als angenommen, Pflichtangaben zur Inventarisierung
 
 ## 7) Workflow
 
 ### Schritt 1 — Nachlass-Analyse
 
 - Erblasser-Konten-Recherche
-- Grundbuch-Pruefung
+- Grundbuch-Prüfung
 - Schulden-Erforschung (Mahnungen, Vollstreckung)
 - Versicherungs- und Versorgungs-Ansprueche
 
 ### Schritt 2 — Bilanz
 
 - Aktiva vs. Passiva
-- Erbschaftssteuer-Anfall pruefen
+- Erbschaftssteuer-Anfall prüfen
 - Pflichtteils-Risiken
 
 ### Schritt 3 — Entscheidung
@@ -117,10 +117,10 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 - Ausschlagen
 - Inventarerrichtung § 1993 BGB (Schutz gegen Haftung)
 
-### Schritt 4 — Ausfuehrung
+### Schritt 4 — Ausführung
 
 - Notar oder Nachlassgericht
-- Schriftliche Bestaetigung
+- Schriftliche Bestätigung
 - Mitteilung an Mit-Erben
 
 ## 8) Auslands-Bezug
@@ -138,11 +138,11 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 
 ## 9) Typische Fehler
 
-1. **Frist versaeumt** durch fehlende Kenntnis-Berechnung
-2. **Konkludente Annahme** durch Vermoegens-Verfuegung (Konten-Abhebung, Wohnungsverkauf)
-3. **Auslandsbezug uebersehen** (6 Monate Frist!)
+1. **Frist versäumt** durch fehlende Kenntnis-Berechnung
+2. **Konkludente Annahme** durch Vermögens-Verfügung (Konten-Abhebung, Wohnungsverkauf)
+3. **Auslandsbezug übersehen** (6 Monate Frist!)
 4. **Anfechtungs-Frist 6 Wochen verpasst**
-5. **Sozialhilfe-Folgen ignoriert** — Anfechtungs-Risiko des Traegers
+5. **Sozialhilfe-Folgen ignoriert** — Anfechtungs-Risiko des Trägers
 6. **Mit-Erben nicht informiert** — Querverfahren
 
 ## 10) BGH-Linien

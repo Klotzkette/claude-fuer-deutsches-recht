@@ -3,17 +3,17 @@ name: fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage
 description: "Berufsunfaehigkeits-Versicherung BUV Klage bei abgelehnter Leistung. Begriff Berufsunfaehigkeit 50 Prozent letzte berufliche Taetigkeit. Verweisung zumutbare andere Taetigkeit. Pruefverfahren Versicherer Gutachten. Workflow Antrag Klage AG."
 ---
 
-# Berufsunfaehigkeit-Klage
+# Berufsunfähigkeit-Klage
 
 ## Zweck
 
-Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfaehigkeit (BU).
+Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfähigkeit (BU).
 
 ## 1) BU-Begriff
 
 ### Definition
 
-- **Berufsunfaehigkeit** = > **50 % Beeintraechtigung** in der letzten beruflichen Taetigkeit
+- **Berufsunfähigkeit** = > **50 % Beeintraechtigung** in der letzten beruflichen Tätigkeit
 - Beruf wie vor Eintritt
 - Dauerhaft (typisch > 6 Monate prognostiziert)
 
@@ -27,46 +27,46 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfaehigkeit (BU).
 
 ### Standard
 
-- „Wenn Versicherter zumutbare andere Taetigkeit ausueben kann, ist nicht BU"
+- „Wenn Versicherter zumutbare andere Tätigkeit ausueben kann, ist nicht BU"
 - Verweisung auf vergleichbare Berufe
 
-### Aenderung 1989
+### Änderung 1989
 
 - BGH IV ZR 14/87: Verweisungs-Klausel ohne konkrete Verweisung unwirksam
-- Heute: nur **konkrete** Verweisung (auf tatsaechlich ausgeuebte Taetigkeit)
+- Heute: nur **konkrete** Verweisung (auf tatsächlich ausgeuebte Tätigkeit)
 
-## 3) Ablehnungs-Gruende Versicherer
+## 3) Ablehnungs-Gründe Versicherer
 
 ### Pflichtverletzung Anzeige-Pflicht § 19 VVG
 
 - Vorerkrankungen nicht angegeben
-- Bei Schwer-Verstoss: Vertrags-Anpassung / Aufhebung
+- Bei Schwer-Verstoß: Vertrags-Anpassung / Aufhebung
 
 ### Mangelnder Beweis BU
 
 - Gutachten beantwortet nicht 50 %-Schwelle
-- Eigene Schaedigung
+- Eigene Schädigung
 
 ### Verweisung
 
-- Andere zumutbare Taetigkeit ausueubar
-- Konkret bestaetigt
+- Andere zumutbare Tätigkeit ausueubar
+- Konkret bestätigt
 
 ## 4) Workflow
 
 ### Phase 1 — Beratung Vers.-Nehmer
 
-- Vertragspruefung (BU-Klausel)
+- Vertragsprüfung (BU-Klausel)
 - Erkrankungs-Stand
 - Bisherige Korrespondenz
 
 ### Phase 2 — Versicherer-Antrag
 
-- Vollstaendige Antrags-Unterlagen
-- Aerztliche Atteste
+- Vollständige Antrags-Unterlagen
+- Ärztliche Atteste
 - Berufs-Beschreibung
 
-### Phase 3 — Pruefung Versicherer
+### Phase 3 — Prüfung Versicherer
 
 - Aktenkundige Vorerkrankungen
 - Gutachter-Einsatz
@@ -74,17 +74,17 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfaehigkeit (BU).
 
 ### Phase 4 — Bei Ablehnung
 
-- Schriftliche Begruendung verlangen
+- Schriftliche Begründung verlangen
 - Eigenes Gutachten
 - Klage AG / LG je Streitwert
 
 ### Phase 5 — Klage
 
 - Streitwert: jaehrliche Rente × Vermutungs-Dauer (oft 5-10 Jahre)
-- Sachverstaendigen-Beweis
+- Sachverständigen-Beweis
 - Beweisaufnahme
 
-## 5) Sachverstaendigen-Strategie
+## 5) Sachverständigen-Strategie
 
 ### Eigener SV
 
@@ -106,11 +106,11 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfaehigkeit (BU).
 
 ### Folgen § 19 VVG
 
-- Bei grober Fahrlaessigkeit: Vertrags-Aenderung
+- Bei grober Fahrlaessigkeit: Vertrags-Änderung
 - Bei Vorsatz: Aufhebung
-- Bei einfachem Verstoss: ggf. nur Pruemien-Anpassung
+- Bei einfachem Verstoß: ggf. nur Pruemien-Anpassung
 
-### Pruefung
+### Prüfung
 
 - Welche Frage falsch beantwortet?
 - Welche Vorerkrankung verschwiegen?
@@ -121,8 +121,8 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfaehigkeit (BU).
 ### Standard-Ergebnisse
 
 - Einmal-Zahlung statt Renten-Auszahlung (40-60 % Renten-Barwert)
-- Anpassung Rente-Hoehe
-- Befristete Rente mit Nachpruefung
+- Anpassung Rente-Höhe
+- Befristete Rente mit Nachprüfung
 
 ### Vorteile
 
@@ -130,7 +130,7 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfaehigkeit (BU).
 - Planungs-Sicherheit
 - Kein Klage-Risiko
 
-## 8) Aktualitaet — BGH-Linien
+## 8) Aktualität — BGH-Linien
 
 - BGH, Urt. v. 11.12.2019 — IV ZR 8/19 (Anzeige-Pflicht)
 - BGH, Urt. v. 22.4.2015 — IV ZR 419/13 (Verweisung)
@@ -140,14 +140,14 @@ Mandate von Versicherungs-Nehmern bei abgelehnter Berufsunfaehigkeit (BU).
 
 - Beratung 500-1.500 EUR pauschal
 - Klage nach Streitwert
-- Erfolgs-Vereinbarung bei Beratung moeglich
+- Erfolgs-Vereinbarung bei Beratung möglich
 
 ## 10) Typische Fehler
 
-1. **Anzeige-Pflichten unvollstaendig** bei Antragstellung
+1. **Anzeige-Pflichten unvollständig** bei Antragstellung
 2. **Privatgutachten ohne BU-Spezialisten**
 3. **Verweisung-Klausel nicht angefochten**
-4. **Verjaehrung 3 Jahre** versaeumt
+4. **Verjaehrung 3 Jahre** versäumt
 
 ## Anschluss
 

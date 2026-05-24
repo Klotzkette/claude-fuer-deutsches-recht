@@ -11,26 +11,26 @@ description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach
 
 - **Bekanntgabe** der Anordnung mit angemessenem Vorlauf (zwei bis vier Wochen).
 - **Inhalt** der Anordnung prüfen: Prüfungsumfang (Steuerarten Veranlagungsjahre) Prüfer Termin.
-- **Rechtsbehelf** gegen die Anordnung selbst: Einspruch (§ 347 AO). Bei Untätigkeit oder Eilbeduerftigkeit AdV oder Klage zum FG.
+- **Rechtsbehelf** gegen die Anordnung selbst: Einspruch (§ 347 AO). Bei Untätigkeit oder Eilbedürftigkeit AdV oder Klage zum FG.
 - Prüfung ob Prüfungsumfang zulässig (z. B. § 193 AO Kreis der Prüfungspflichtigen).
 
 ### 2. Vorbereitung
 
 - **Akteneinsicht** in die Veranlagungsakten der Prüfungsjahre — Steuerberater des Mandanten einbeziehen.
-- **Belegvollständigkeit** sicherstellen — GoBD-Konformitaet (Grundsätze ordnungsmäßiger Buchfuehrung und Datenzugriff).
-- **Risikoanalyse** Prüfungsschwerpunkte einschätzen (Branchengaengig Kassenfuehrung Zeitreihen Privatentnahmen Verrechnungspreise).
-- **Mandantenbriefing** Verhalten in Prüfer-Gespraechen.
+- **Belegvollständigkeit** sicherstellen — GoBD-Konformität (Grundsätze ordnungsmäßiger Buchführung und Datenzugriff).
+- **Risikoanalyse** Prüfungsschwerpunkte einschätzen (Branchengaengig Kassenführung Zeitreihen Privatentnahmen Verrechnungspreise).
+- **Mandantenbriefing** Verhalten in Prüfer-Gesprächen.
 
 ### 3. Prüfungsdurchführung
 
 - **Mitwirkungspflicht** § 200 AO — Auskunft Vorlage Aufzeichnungen.
-- **Datenzugriff** § 147 Abs. 6 AO — unmittelbar mittelbar oder Datentraegerueberlassung. § 147a AO besondere Aufzeichnungspflichten bei Bargeschaeften.
+- **Datenzugriff** § 147 Abs. 6 AO — unmittelbar mittelbar oder Datenträgerüberlassung. § 147a AO besondere Aufzeichnungspflichten bei Bargeschäften.
 - **Grenze** Mitwirkungspflicht — kein Selbstbelastungszwang bei möglicher Steuerstraftat / Ordnungswidrigkeit (§ 393 AO).
 - **Prüfer-Anfragen** schriftlich beantworten — Antworten über den Anwalt und Steuerberater abstimmen.
 
 ### 4. Schlussbesprechung (§ 201 AO)
 
-- **Vorbereitung** Streitpunkte vorab klaeren.
+- **Vorbereitung** Streitpunkte vorab klären.
 - **Teilnahme** Mandant Steuerberater Anwalt.
 - **Protokoll** mit allen Vereinbarungen — bei Einvernehmen über Sachverhalte rechtlich relevant.
 - **Tatsächliche Verständigung** über Sachverhaltsfragen § 88 AO iVm BFH-Rspr. möglich.
@@ -49,15 +49,15 @@ description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach
 
 ## Steuerstrafrechtliche Risiken
 
-- Stellt der Prüfer Anhaltspunkte für Steuerhinterziehung (§ 370 AO) fest: Mitteilung an die Bussgeld- und Strafsachenstelle.
+- Stellt der Prüfer Anhaltspunkte für Steuerhinterziehung (§ 370 AO) fest: Mitteilung an die Bußgeld- und Strafsachenstelle.
 - **Selbstanzeige** § 371 AO nur **vor** Bekanntgabe der Prüfungsanordnung **oder** vor Erscheinen des Prüfers wirksam (Sperrgründe § 371 Abs. 2 AO).
 - Skill `selbstanzeige-371` rechtzeitig prüfen.
 
 ## Datenformate
 
 - **DSFinV-K** Digitale Schnittstelle der Finanzverwaltung für Kassensysteme.
-- **GDPdU / IDEA** bei Datentraegerueberlassung.
-- **GoBD** Grundsätze zur ordnungsmäßigen Fuehrung und Aufbewahrung von Buechern Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff.
+- **GDPdU / IDEA** bei Datenträgerüberlassung.
+- **GoBD** Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff.
 
 ## Ausgabe
 

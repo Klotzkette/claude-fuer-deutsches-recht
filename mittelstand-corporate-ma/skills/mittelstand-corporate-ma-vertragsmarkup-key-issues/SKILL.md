@@ -7,11 +7,11 @@ description: "Markup und Key Issues: Analysiert SPA/APA/NDA/Process-Letter-Marku
 
 ## Zweck
 
-Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Gegenmarkup-Vorschlaege nach Parteiperspektive.
+Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Gegenmarkup-Vorschläge nach Parteiperspektive.
 
 ## Arbeitsmodus
 
-- Aenderungen nach wirtschaftlicher Relevanz und Rechtsrisiko clustern.
+- Änderungen nach wirtschaftlicher Relevanz und Rechtsrisiko clustern.
 - Position Buy-side/Sell-side transparent halten.
 - Rote Linien, Konzessionen und Verhandlungsstrategie trennen.
 - Gegenentwurf nur als Vorschlag mit Review-Status ausgeben.
@@ -19,7 +19,7 @@ Analysiert SPA/APA/NDA/Process-Letter-Markups, erstellt Key Issues Lists und Geg
 ## Rote Schwellen
 
 - Gegenseitenmarkup falsch gelesen.
-- Marktueblichkeit ohne eigene Praezedenz- oder Quellenbasis behauptet.
+- Marktüblichkeit ohne eigene Präzedenz- oder Quellenbasis behauptet.
 - Risk shift ohne Mandantenentscheidung.
 
 ## Standardausgabe

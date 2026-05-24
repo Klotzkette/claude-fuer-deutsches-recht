@@ -7,29 +7,29 @@ description: "Stimmverpflichtung im Gesellschaftervereinbarung SHA gegenueber de
 
 ## Zweck
 
-Die **Gesellschaftervereinbarung (Shareholder Agreement, SHA)** und die **Satzung** muessen zusammenpassen. Wo der SHA bestimmte Entscheidungen vorsieht, muessen die Gesellschafter **innerlich verpflichtet** sein, in der Gesellschafterversammlung **so** abzustimmen. Diese Stimmverpflichtung ist juristisch heikel.
+Die **Gesellschaftervereinbarung (Shareholder Agreement, SHA)** und die **Satzung** müssen zusammenpassen. Wo der SHA bestimmte Entscheidungen vorsieht, müssen die Gesellschafter **innerlich verpflichtet** sein, in der Gesellschafterversammlung **so** abzustimmen. Diese Stimmverpflichtung ist juristisch heikel.
 
 ## 1) Konzept der Stimmverpflichtung
 
 ### Was ist gemeint
 
-- SHA legt fest: „Bei Aenderung des Geschaeftsmodells sind alle Gesellschafter verpflichtet, ihrer Zustimmung zu verweigern, es sei denn 75 % der Common-Inhaber zuzustimmen."
-- In der Gesellschafterversammlung: Gesellschafter X stimmt **fuer** die AEnderung — entgegen der SHA-Pflicht.
-- **Rechtsfolgen**: gesellschaftsrechtlich ist die Stimme wirksam; im Innenverhaeltnis schuldet Gesellschafter X Schadensersatz oder Vertragsstrafe.
+- SHA legt fest: „Bei Änderung des Geschäftsmodells sind alle Gesellschafter verpflichtet, ihrer Zustimmung zu verweigern, es sei denn 75 % der Common-Inhaber zuzustimmen."
+- In der Gesellschafterversammlung: Gesellschafter X stimmt **für** die AEnderung — entgegen der SHA-Pflicht.
+- **Rechtsfolgen**: gesellschaftsrechtlich ist die Stimme wirksam; im Innenverhältnis schuldet Gesellschafter X Schadensersatz oder Vertragsstrafe.
 
 ### Schuldrechtlich vs. gesellschaftsrechtlich
 
 | Ebene | Wirkung |
 |---|---|
-| Schuldrechtlich (SHA) | bindet die Gesellschafter persoenlich |
+| Schuldrechtlich (SHA) | bindet die Gesellschafter persönlich |
 | Gesellschaftsrechtlich (Satzung) | bindet die Gesellschaft als Organ |
-| Beschlussfaehigkeit / Wirksamkeit | folgt der Satzung |
+| Beschlussfähigkeit / Wirksamkeit | folgt der Satzung |
 | Schadensersatz / Pönale | folgt der SHA |
 
 ### Folgen
 
 - Beschluss in der GV bleibt wirksam, auch wenn er gegen SHA verstoesst
-- Der vertragsbruchige Gesellschafter haftet aber persoenlich gegenueber den Mitgesellschaftern fuer die Folgen
+- Der vertragsbruchige Gesellschafter haftet aber persönlich gegenüber den Mitgesellschaftern für die Folgen
 
 ## 2) Typische SHA-Stimmverpflichtungs-Klauseln
 
@@ -72,8 +72,8 @@ Schadensersatz nach den allgemeinen Vorschriften.
 
 - Schuldrechtliche Stimmbindung ist grundsaetzlich **zulaessig** (BGH BGHZ 48, 163; BGHZ 102, 172)
 - Sie kann **gegen die Gesellschaft selbst** unwirksam sein, wenn sie der Gesellschaft schadet
-- Im Innenverhaeltnis (Gesellschafter zu Gesellschafter) wirksam
-- Erfuellungsklage moeglich: Gesellschafter kann verlangen, dass anderer Gesellschafter so abstimmt wie versprochen
+- Im Innenverhältnis (Gesellschafter zu Gesellschafter) wirksam
+- Erfüllungsklage möglich: Gesellschafter kann verlangen, dass anderer Gesellschafter so abstimmt wie versprochen
 
 ## 4) Pflicht-Korrespondenz SHA-Satzung
 
@@ -86,22 +86,22 @@ Schadensersatz nach den allgemeinen Vorschriften.
 | Liquidation Preference | + | + (Detail) |
 | Stimmverpflichtungs-Vereinbarungen | - | + |
 | Vesting / Leaver | - | + |
-| Vorkaufsrechte | + (Aussenwirkung) | + (Detail) |
+| Vorkaufsrechte | + (Außenwirkung) | + (Detail) |
 | Drag-/Tag-Along | + | + |
 | Pönalen | - | + |
 
 ### Praxis-Tipp
 
-- Satzung schlank halten — nur was Aussenwirkung haben muss
+- Satzung schlank halten — nur was Außenwirkung haben muss
 - SHA detailliert — alle Verpflichtungs- und Stimmverpflichtungs-Klauseln
-- Aenderungen synchron: Wenn Satzung geaendert wird (z.B. neue Anteilsklasse), muss SHA mitlaufen
+- Änderungen synchron: Wenn Satzung geändert wird (z.B. neue Anteilsklasse), muss SHA mitlaufen
 
 ## 5) Drittwirkung — Joinder Agreement
 
-### Bei Anteilsuebertragung
+### Bei Anteilsübertragung
 
 - SHA bindet nur Vertragspartner
-- Bei Anteilsuebertragung an Dritten muss neuer Anteilsinhaber **dem SHA beitreten**
+- Bei Anteilsübertragung an Dritten muss neuer Anteilsinhaber **dem SHA beitreten**
 - Mechanismus: **Joinder Agreement**
 
 ### Beispiel
@@ -116,12 +116,12 @@ und dabei den ausscheidenden Anteilsinhaber zu ersetzen.
 
 ### Bei Verweigerung
 
-- Anteilsuebertragung ohne Joinder kann durch Vinkulierungs-Klausel (Paragraf 15 V GmbHG) verhindert werden
-- Satzung sollte vorsehen: „Anteilsuebertragung nur mit Zustimmung der Gesellschafterversammlung; Zustimmung wird **nur** erteilt, wenn der Erwerber dem aktuell geltenden SHA beitritt."
+- Anteilsübertragung ohne Joinder kann durch Vinkulierungs-Klausel (Paragraf 15 V GmbHG) verhindert werden
+- Satzung sollte vorsehen: „Anteilsübertragung nur mit Zustimmung der Gesellschafterversammlung; Zustimmung wird **nur** erteilt, wenn der Erwerber dem aktuell geltenden SHA beitritt."
 
-## 6) Streit ueber Stimmverpflichtungen
+## 6) Streit über Stimmverpflichtungen
 
-### Schritt 1: Erfuellungsklage
+### Schritt 1: Erfüllungsklage
 
 - Kläger: Mitgesellschafter
 - Beklagter: vertragsbruchiger Gesellschafter
@@ -130,22 +130,22 @@ und dabei den ausscheidenden Anteilsinhaber zu ersetzen.
 
 ### Schritt 2: Vertragsstrafe / Schadensersatz
 
-- Bei tatsaechlich abgegebener anderer Stimme
-- Geltend gemacht ueber Klage
+- Bei tatsächlich abgegebener anderer Stimme
+- Geltend gemacht über Klage
 
 ### Praktische Schwierigkeit
 
-- Stimmabgabe ist regelmaessig **bereits erfolgt**, Beschluss wirksam
+- Stimmabgabe ist regelmäßig **bereits erfolgt**, Beschluss wirksam
 - Klage auf Schadensersatz ist die realistische Option
 
 ## 7) Stimmverbot Paragraf 47 IV GmbHG
 
 ### Wann gilt es
 
-- Bei Beschluss ueber **eigene Angelegenheiten** des Gesellschafters
-- Beispiel: Geschaeftsfuehrer-Bestellung des Gesellschafters X — er darf nicht mitstimmen
+- Bei Beschluss über **eigene Angelegenheiten** des Gesellschafters
+- Beispiel: Geschäftsführer-Bestellung des Gesellschafters X — er darf nicht mitstimmen
 
-### Konsequenz fuer SHA
+### Konsequenz für SHA
 
 - Stimmverpflichtung kann das Stimmverbot **nicht** umgehen
 - Gegen das Stimmverbot stimmen verstoesst gegen die Satzung -> Beschluss anfechtbar
@@ -155,15 +155,15 @@ und dabei den ausscheidenden Anteilsinhaber zu ersetzen.
 ### Sondervetorechte als Stimmverpflichtungs-Spiegel
 
 - Wenn Class A Sondervetorechte hat (Satzung)
-- Im SHA wird die Ausuebung des Vetorechts an objektive Kriterien gebunden („Veto nur bei wesentlicher Verwaesserung")
-- Bindet die Class-A-Inhaber im Innenverhaeltnis
+- Im SHA wird die Ausübung des Vetorechts an objektive Kriterien gebunden („Veto nur bei wesentlicher Verwässerung")
+- Bindet die Class-A-Inhaber im Innenverhältnis
 
 ## 9) Praktische Empfehlung
 
-- **Immer Stimmverpflichtungs-Klausel** im SHA aufnehmen — wo Inhalt der Satzung im Innenverhaeltnis prazisiert wird
+- **Immer Stimmverpflichtungs-Klausel** im SHA aufnehmen — wo Inhalt der Satzung im Innenverhältnis prazisiert wird
 - **Pönalen substantiell** (mindestens 100.000 EUR) — sonst keine Abschreckung
-- **Joinder-Pflicht** bei jedem Anteilsuebergang
-- **Synchronisation** Satzung-SHA bei jeder Aenderung
+- **Joinder-Pflicht** bei jedem Anteilsübergang
+- **Synchronisation** Satzung-SHA bei jeder Änderung
 - **Stimmverbot Paragraf 47 IV GmbHG** beachten
 
 ## Anschluss

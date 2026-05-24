@@ -27,13 +27,13 @@ Wenn irgendeine dieser Komponenten sich ändert wird der Cache-Eintrag invalidie
 - **Zeilenprompt geändert:** nur die betroffene Zeile invalidiert, über alle Arbeitsblätter
 - **Arbeitsblatt-Perspektive geändert:** alle Zellen dieses Arbeitsblatts invalidiert
 - **Dokument-Hash geändert (z. B. neue Version):** alle Zellen dieser Zeile invalidiert
-- **Modell-Version geändert:** Vorgehen wählbar — komplett neu / Stichprobe prüfen / Cache uebernehmen mit Hinweis
+- **Modell-Version geändert:** Vorgehen wählbar — komplett neu / Stichprobe prüfen / Cache übernehmen mit Hinweis
 
 ## Quasi-Duplikate
 
-Ein Vertrag-Cousin (sehr ähnlich) kann Cache-Treffer vom geprueften Originalvertrag uebernehmen — als VORSCHLAG nicht als Befund. Schwelle: Cosine-Ähnlichkeit über 95 Prozent UND derselbe Dokumenttyp UND derselbe Vertragspartner-Stamm. Prüfer-Flag automatisch. Prüfer bestätigt oder verwirft.
+Ein Vertrag-Cousin (sehr ähnlich) kann Cache-Treffer vom geprüften Originalvertrag übernehmen — als VORSCHLAG nicht als Befund. Schwelle: Cosine-Ähnlichkeit über 95 Prozent UND derselbe Dokumenttyp UND derselbe Vertragspartner-Stamm. Prüfer-Flag automatisch. Prüfer bestätigt oder verwirft.
 
-## Kostenschaetzung
+## Kostenschätzung
 
 Vor jedem Teil-Rerun schaetzt der Skill:
 - Anzahl zu berechnender Zellen
@@ -46,7 +46,7 @@ Prüfer kann Rerun beauftragen / ablehnen / nur Stichprobe rechnen lassen.
 ## Ausgabe
 
 - `cache.parquet` — alle Zellen mit Cache-Key Antwort Belegkette Ampel
-- `rerun-vorschlag.md` — pro Änderung welche Zellen invalidiert sind und Kostenschaetzung
+- `rerun-vorschlag.md` — pro Änderung welche Zellen invalidiert sind und Kostenschätzung
 - Eintrag in `audit-trail-protokoll`
 
 ## Grenzen

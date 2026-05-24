@@ -3,7 +3,7 @@ name: jveg-zeugenentschaedigung
 description: "Rechnet und plausibilisiert Zeugenentschädigung nach §§ 19 bis 22 JVEG."
 ---
 
-# JVEG Zeugenentschaedigung
+# JVEG Zeugenentschädigung
 
 ## Aufgabe
 

@@ -3,13 +3,13 @@ name: fachanwalt-vergaberecht-nachpruefungsverfahren-vk
 description: "Nachpruefungsverfahren VK Vergabekammer § 160 ff GWB. Antragsfrist 15 Werktage nach Ruegen-Ablehnung. Aufschiebende Wirkung Zuschlag verboten § 169 GWB. Sofortbeschwerde OLG. Workflow Antrag VK-Verfahren OLG."
 ---
 
-# Nachpruefungsverfahren VK
+# Nachprüfungsverfahren VK
 
 ## Zweck
 
 Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 
-## 1) Zustaendigkeit
+## 1) Zuständigkeit
 
 ### Schwellen-Werte (Stand 2024)
 
@@ -32,11 +32,11 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 ### Antragsfrist
 
 - **15 Werktage** nach Ablehnung der Ruege
-- Bei Schweigen Vergabestelle 14 Tage: Antrag ohne Ablehnungs-Brief moeglich
+- Bei Schweigen Vergabestelle 14 Tage: Antrag ohne Ablehnungs-Brief möglich
 
-### Praeklusion
+### Präklusion
 
-- Bei Versaeumnis: Antrag unzulaessig
+- Bei Versäumnis: Antrag unzulaessig
 
 ## 3) Aufschiebende Wirkung § 169 GWB
 
@@ -49,17 +49,17 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 ### Aufhebung Suspensiveffekt § 169 II GWB
 
 - Antrag Vergabestelle bei VK
-- VK pruef: ueberwiegendes Interesse
+- VK pruef: überwiegendes Interesse
 
 ## 4) Verfahren
 
 ### Schritt 1 — Antrag
 
 - Schriftlich an VK
-- Antragsteller-Begruendung
+- Antragsteller-Begründung
 - Beweis Ruege
 
-### Schritt 2 — Anhoerung
+### Schritt 2 — Anhörung
 
 - Beide Seiten + ggf. Bieter
 - Schriftsatz-Wechsel
@@ -76,17 +76,17 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 - Vergabesenat OLG
 - Letzte Instanz
 
-## 5) Entscheidungs-Moeglichkeiten
+## 5) Entscheidungs-Möglichkeiten
 
 ### VK kann
 
 - Vergabe-Verfahren auf bestimmten Stand zurueckversetzen
-- Konkrete Massnahmen anordnen
+- Konkrete Maßnahmen anordnen
 - Antrag ablehnen
 
-### Folge fuer Vergabestelle
+### Folge für Vergabestelle
 
-- Vergabe muss korrigiert / neu durchgefuehrt werden
+- Vergabe muss korrigiert / neu durchgeführt werden
 - Bei Zuschlag bereits erteilt: Aufhebung schwer (§ 168 GWB)
 
 ## 6) Workflow
@@ -101,7 +101,7 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 ### Phase 3 — VK-Verfahren
 
 - Sachverhalts-Vortrag
-- Beweis-Antraege
+- Beweis-Anträge
 - Schriftsatz-Wechsel
 
 ### Phase 4 — Beschluss
@@ -117,15 +117,15 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 
 ## 8) Typische Fehler
 
-1. **Ruege versaeumt** vor Antrag
+1. **Ruege versäumt** vor Antrag
 2. **15-Werktage-Frist verpasst**
 3. **Schriftsatz pauschal** ohne Beweismittel
-4. **Aufschiebung beantragt** Vergabestelle uebersehen
+4. **Aufschiebung beantragt** Vergabestelle übersehen
 
 ## 9) OLG-Linien
 
 - OLG Duesseldorf laufend (Vergabesenat)
-- BGH KZR-Linie zu Nachpruefungsverfahren
+- BGH KZR-Linie zu Nachprüfungsverfahren
 
 ## Anschluss
 

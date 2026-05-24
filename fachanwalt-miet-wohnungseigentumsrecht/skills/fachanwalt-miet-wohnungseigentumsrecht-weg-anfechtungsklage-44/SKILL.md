@@ -7,7 +7,7 @@ description: "WEG-Anfechtungsklage § 44 WEG Beschluss-Anfechtung Monatsfrist Kl
 
 ## Zweck
 
-Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-Reform 1.12.2020.
+Mandate bei Streit über Wohnungseigentuemergemeinschafts-Beschlüsse seit WEG-Reform 1.12.2020.
 
 ## 1) Eingangs-Abfrage
 
@@ -29,16 +29,16 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 ### Nichtigkeits-Klage § 23 IV WEG
 
-- Bei schwerwiegenden Maengeln (Verstoss gegen Gesetz / gute Sitten)
+- Bei schwerwiegenden Mängeln (Verstoß gegen Gesetz / gute Sitten)
 - **Keine Frist** — jederzeit
 - Folge: Beschluss ist von Anfang an nichtig
 
-### Anfechtungs-Gruende
+### Anfechtungs-Gründe
 
 | Grund | Anfechtbarkeit | Nichtigkeit |
 |---|---|---|
 | Ladungs-Mangel | + | - |
-| Beschlussfaehigkeit | + | - |
+| Beschlussfähigkeit | + | - |
 | Stimm-Mehrheit falsch | + | - |
 | Vereinbarungs-Eingriff ohne Zustimmung | - | + |
 | Sittenwidrigkeit | - | + |
@@ -52,7 +52,7 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 ### Abweichendes Modell
 
-- Nur durch **Teilungserklaerung**
+- Nur durch **Teilungserklärung**
 - z.B. nach Miteigentumsanteilen (MEA)
 - nach Wohneinheiten
 
@@ -64,11 +64,11 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 ## 4) WEG-Reform 1.12.2020
 
-### Wesentliche Aenderungen
+### Wesentliche Änderungen
 
-- GdWE als Verband mit Rechtsfaehigkeit § 9a WEG
+- GdWE als Verband mit Rechtsfähigkeit § 9a WEG
 - Beschluss-Sammlung durch Verwalter Pflicht § 24 VII WEG
-- Vereinbarungen ueber Verteilungs-Schluessel Mehrheits-faehig (vorher Einstimmigkeit)
+- Vereinbarungen über Verteilungs-Schlüssel Mehrheits-fähig (vorher Einstimmigkeit)
 - Verbesserung der Online-Versammlungen § 23 I WEG
 
 ### Konsequenzen Anfechtung
@@ -82,18 +82,18 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 ### § 10 Abs. 1 Satz 2 WEG
 
 - Vereinbarungen sind formfrei (zwischen den Eigentuemern)
-- Inhalt: abweichende Verteilungs-Schluessel, Sondernutzungsrechte
+- Inhalt: abweichende Verteilungs-Schlüssel, Sondernutzungsrechte
 
 ### § 10 Abs. 3 WEG
 
 - Vereinbarungs-Befugnis: Vereinbarungen wirken gegen Sondernachfolger **nur** mit Grundbuch-Eintragung
-- Praktische Konsequenz: ohne Eintragung gilt Vereinbarung nicht fuer neu hinzu kommende Eigentuemer
+- Praktische Konsequenz: ohne Eintragung gilt Vereinbarung nicht für neu hinzu kommende Eigentuemer
 
 ## 6) Workflow Anfechtungs-Klage
 
-### Schritt 1 — Beschluss-Pruefung
+### Schritt 1 — Beschluss-Prüfung
 
-- Form (Ladung, Tagesordnung, Beschlussfaehigkeit)
+- Form (Ladung, Tagesordnung, Beschlussfähigkeit)
 - Inhalt (Mehrheits-Erfordernis, materiell-rechtlich)
 - Protokoll-Kontrolle
 
@@ -104,11 +104,11 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 ### Schritt 3 — Klage-Antrag
 
-- An AG (sachliche Zustaendigkeit nach § 23 GVG fuer WEG-Sachen)
+- An AG (sachliche Zuständigkeit nach § 23 GVG für WEG-Sachen)
 - Klage gegen GdWE
 - Beschluss eindeutig bezeichnen
 
-### Schritt 4 — Klage-Begruendung
+### Schritt 4 — Klage-Begründung
 
 - Konkreter Anfechtungs-Grund
 - Beleg Versammlungs-Protokoll
@@ -124,7 +124,7 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 ### Funktion
 
-- Aufsicht ueber Verwalter
+- Aufsicht über Verwalter
 - Beratung Eigentuemer
 
 ### Wahl
@@ -134,8 +134,8 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 ### Aufgaben
 
-- Pruefung Wirtschaftsplan
-- Pruefung Jahres-Abrechnung
+- Prüfung Wirtschaftsplan
+- Prüfung Jahres-Abrechnung
 - Empfehlung an Versammlung
 
 ## 8) Verwalter-Bestellung / Abberufung
@@ -153,7 +153,7 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 ## 9) Typische Fehler
 
-1. **Frist 1 Monat versaeumt**
+1. **Frist 1 Monat versäumt**
 2. **Klage gegen Eigentuemer** statt GdWE (alte Rechtslage)
 3. **Stimmrecht falsch berechnet** (Kopf vs. MEA)
 4. **Beschluss-Protokoll-Kontrolle vernachlaessigt**
@@ -169,4 +169,4 @@ Mandate bei Streit ueber Wohnungseigentuemergemeinschafts-Beschluesse seit WEG-R
 
 - `fachanwalt-miet-wohnungseigentumsrecht-orientierung` — Triage
 - `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` — Miet-Bezug
-- `weg-beschluss-anfechten` (Power-Tool) — Pruefraster
+- `weg-beschluss-anfechten` (Power-Tool) — Prüfraster

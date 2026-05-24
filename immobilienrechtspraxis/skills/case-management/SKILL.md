@@ -10,7 +10,7 @@ description: KI-gestuetztes Case Management fuer immobilienrechtliche Vorgaenge.
 Eine Rechtsabteilung verliert mehr Zeit mit Suchen und
 Status-Reproduktion als mit der eigentlichen rechtlichen Arbeit. Der
 Skill konsolidiert pro Fall den aktuellen Stand auf einer Seite,
-fuehrt einen Fristenkalender und eine Ereignistabelle und schreibt
+führt einen Fristenkalender und eine Ereignistabelle und schreibt
 beides bei jedem neuen Eingang fort.
 
 ## Inputs

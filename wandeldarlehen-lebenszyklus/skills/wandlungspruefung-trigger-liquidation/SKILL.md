@@ -20,8 +20,8 @@ Dieser Skill prüft, ob ein Liquidationsereignis (Exit/Trade Sale/IPO/Fusion) al
 ## Rechtlicher Rahmen
 
 ### Primärnormen
-- § 4.2 lit. b GmbHG (Share Deal – Abtretung Anteile über fuenfzig Prozent)
-- § 4.2 lit. c (Asset Deal – Veräußerung Aktivvermögen über fuenfzig Prozent)
+- § 4.2 lit. b GmbHG (Share Deal – Abtretung Anteile über fünfzig Prozent)
+- § 4.2 lit. c (Asset Deal – Veräußerung Aktivvermögen über fünfzig Prozent)
 - § 4.2 lit. d (Fusion/IPO mit Kontrollwechsel)
 - § 15 Abs. 3, Abs. 4 GmbHG (Anteilsübertragung – notarielle Beurkundung)
 - § 20 UmwStG analog (steuerliche Behandlung der Wandlung bei Tauschvorgang)
@@ -60,16 +60,16 @@ Bei Barausschüttung: Aus Transaktionserlösen vor Ausschüttung an Gesellschaft
 | Resterlös an Gesellschafterinnen | EUR 4724306 |
 | Alternativ: Wandlung bei Cap EUR 4 Mio | 7 neue Anteile / 107 Anteile gesamt = 6.54 % |
 | Anteil am Exiterlös (Wandlung) | EUR 5000000 × 6.54 % = EUR 327000 |
-| Bessere Option fuer Lender | Wandlung (EUR 327000 > EUR 275694) |
+| Bessere Option für Lender | Wandlung (EUR 327000 > EUR 275694) |
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Keine Mitteilung vor Exit | Lender kann Wandlungsrecht nicht ausüben | Mitteilung sehr kurzfristig | Rechtzeitige Mitteilung |
 | Kapitalerhöhung nicht vor Closing | Wandlung scheitert technisch | Eng getaktet | Ausreichend Zeit |
 | Participating vs. non-participating unklar | Streit über Präferenzumfang | Klausel auslegungsbedürftig | Klar non-participating |
-| Transaktion unter fuenfzig Prozent | Kein Liquidationsereignis nach Vertrag | Knapp über fuenfzig Prozent | Eindeutig über fuenfzig Prozent |
+| Transaktion unter fünfzig Prozent | Kein Liquidationsereignis nach Vertrag | Knapp über fünfzig Prozent | Eindeutig über fünfzig Prozent |
 
 ## Querverweise
 

@@ -24,7 +24,7 @@ description: "Urheberrechtliche Abmahnung § 97a UrhG Voraussetzungen Inhalt Akt
 - Tatherrschaft / Mittäterschaft / Störerhaftung: bei Filesharing Anschlussinhaber trifft sekundäre Darlegungslast (BGH I ZR 75/14 — Tauschbörse III, Urt. v. 11.06.2015, Rn. 33 ff.) — Anschlussinhaber muss darlegen wer als Täter in Betracht kommt.
 - Modifizierte Unterlassungserklärung — vorformulierte Erklärung ist regelmäßig zu weit gefasst (Wiederholungsgefahr Vermutung Vertragsstrafenhöhe Gerichtsstand) → Modifikation.
 
-Standardliteratur: Dreier/Schulze UrhG; Wandtke/Bullinger UrhG; Loewenheim Handbuch Urheberrecht.
+Standardliteratur: Dreier/Schulze UrhG; Wandtke/Bullinger UrhG; Löwenheim Handbuch Urheberrecht.
 
 ## Beweislast und sekundäre Darlegungslast
 

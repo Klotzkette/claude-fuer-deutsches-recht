@@ -9,13 +9,13 @@ description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erf
 
 1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/CLAUDE.md` prüfen.
 2. Falls vorhanden ohne Platzhalter: bestätigen.
-3. Andernfalls Interview unten durchfuehren.
+3. Andernfalls Interview unten durchführen.
 
 ## Kaltstart-Interview
 
 ### 1. Kanzleiprofil
 
-- **Rechtsform** Einzelanwalt / Sozietaet GbR / Partnerschaftsgesellschaft / Rechtsanwalts-GmbH / Rechtsanwalts-AG
+- **Rechtsform** Einzelanwalt / Sozietät GbR / Partnerschaftsgesellschaft / Rechtsanwalts-GmbH / Rechtsanwalts-AG
 - **Anzahl Anwälte** und Mitarbeiterstellen
 - **Sekretariat** vorhanden ja / nein Anzahl Stellen
 - **Standort** Ort und Kammerbezirk
@@ -80,8 +80,8 @@ Profil wird geschrieben. Nächste sinnvolle Skills:
 
 ## Rechtlicher Rahmen
 
-- **BRAO** § 43a Verschwiegenheit § 50 Aktenfuehrung § 51 Berufshaftpflicht § 31a beA-Pflicht
-- **RVG** Gebuehrentabelle Anlage 1 Anlage 2 VV RVG
+- **BRAO** § 43a Verschwiegenheit § 50 Aktenführung § 51 Berufshaftpflicht § 31a beA-Pflicht
+- **RVG** Gebührentabelle Anlage 1 Anlage 2 VV RVG
 - **BORA** Berufsordnung der Rechtsanwälte (BRAK)
 - **DSGVO** Art. 5 6 9 Auftragsverarbeitung Art. 28
 

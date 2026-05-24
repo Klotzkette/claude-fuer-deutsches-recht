@@ -13,17 +13,17 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 
 ### Tatsachen-Behauptung
 
-- Konkret aussagefaehig
+- Konkret aussagefähig
 - Nicht Meinungsaeusserung (bei Meinungs-Streit andere Anspruche)
 
 ### Betroffenheit
 
-- Persoenlich
+- Persönlich
 - Mit eigenem Interesse
 
 ### Berechtigtes Interesse
 
-- Schutz des Persoenlichkeitsrechts
+- Schutz des Persönlichkeitsrechts
 - Konkrete Beeintraechtigung
 
 ### Form
@@ -59,17 +59,17 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 - Bei Online: gleicher Bereich
 - Kein redaktionelle Kommentierung
 
-### Bei Versaeumnis
+### Bei Versäumnis
 
 - Eilantrag § 935 ZPO
 - Klage AG / LG je Streitwert
 
 ## 4) Workflow
 
-### Phase 1 — Pruefung
+### Phase 1 — Prüfung
 
 - Urspruengliche Berichterstattung sammeln
-- Frist-Pruefung
+- Frist-Prüfung
 - Tatsachen-Behauptung identifizieren
 
 ### Phase 2 — Gegendarstellung verfassen
@@ -81,7 +81,7 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 ### Phase 3 — Vorlegung Redaktion
 
 - Per E-Mail / Post
-- Bestaetigung anfordern
+- Bestätigung anfordern
 
 ### Phase 4 — Bei Verweigerung
 
@@ -97,10 +97,10 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 | Widerruf | § 1004 BGB | Korrektur durch Medium |
 | Schadensersatz | § 823 II BGB iVm KUG | Geldersatz |
 
-## 6) Schmerzensgeld bei Persoenlichkeits-Verletzung
+## 6) Schmerzensgeld bei Persönlichkeits-Verletzung
 
 - Caroline-Linie BGH
-- Hoehe nach BGH-Tabelle (Boulevard 30.000+ EUR)
+- Höhe nach BGH-Tabelle (Boulevard 30.000+ EUR)
 
 ## 7) Typische Fehler
 
@@ -117,5 +117,5 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 ## Anschluss
 
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — bei verbundener Frage
-- `gegendarstellung-presse` (Power-Tool) — Pruefraster
+- `gegendarstellung-presse` (Power-Tool) — Prüfraster
 - `fachanwalt-urheber-medienrecht-filesharing-verteidigung` — bei anderer Streitart

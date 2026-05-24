@@ -15,13 +15,13 @@ description: Orientierung im Sportrecht — FAO Voraussetzungen Normen typische 
 | Bereich | Norm |
 |---|---|
 | Vereinsrecht | BGB §§ 21 ff. (eingetragener Verein) Vereinsrechtsgesetz |
-| Verbandsrecht | Satzungen der Sportverbaende (DFB DFL UEFA FIFA DOSB IOC) |
-| Sportgerichtsbarkeit | Schiedsgerichte der Verbaende Schiedsgerichtsbarkeit CAS Lausanne |
+| Verbandsrecht | Satzungen der Sportverbände (DFB DFL UEFA FIFA DOSB IOC) |
+| Sportgerichtsbarkeit | Schiedsgerichte der Verbände Schiedsgerichtsbarkeit CAS Lausanne |
 | Doping | Welt-Anti-Doping-Code WADA-Code NADA-Code |
 | Anti-Doping-Gesetz | AntiDopG (Bundesgesetz seit 2015) |
 | Sportveranstaltung | StVO PolizeiR Versammlungsrecht Hausrecht des Veranstalters |
 | Arbeitsrecht im Sport | BGB Arbeitsrecht §§ 611 ff. TzBfG (Befristung Spielerverträge) |
-| Persoenlichkeitsrecht | Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG KUG bei Bildverwertung |
+| Persönlichkeitsrecht | Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG KUG bei Bildverwertung |
 | Sponsoring | BGB AGB §§ 305 ff. UStG bei Sachsponsoring |
 | Steuerrecht im Sport | EStG (Einkünfte Sportler) StAuslG bei ausländischen Sportlern |
 | EU-Recht | TFEU Art. 165 Sportkompetenz EuGH-Bosman Rspr. Meca-Medina Rspr. |
@@ -33,7 +33,7 @@ description: Orientierung im Sportrecht — FAO Voraussetzungen Normen typische 
 - Dopingverfahren NADA / CAS
 - Sponsoringverträge
 - Vereinsrecht (Vorstandshaftung Vereinsausschluss)
-- Persoenlichkeitsrechte Sportler / Bildveröffentlichung
+- Persönlichkeitsrechte Sportler / Bildveröffentlichung
 - Verbandsverfahren Sperren Sanktionen
 - Steuerrecht im internationalen Sport
 - Veranstalterhaftung (Stadionsicherheit Hausrecht)

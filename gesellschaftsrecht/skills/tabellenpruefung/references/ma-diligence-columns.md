@@ -134,4 +134,4 @@ schema:
 
 ## Häufige Kürzungen für einen schnellen Erstdurchlauf
 
-Für einen zeitkritischen ersten Überblick beantworten diese 6 Spalten 80 % der frühen Transaktionsfragen: vertragspartner, wirksamkeitsdatum, laufzeit, kontrollwechsel, abtretung, kuendigung_ohne_grund. Diese zuerst durchführen und das Schema erweitern, sobald das Deal-Team Prioritäten gesetzt hat.
+Für einen zeitkritischen ersten Überblick beantworten diese 6 Spalten 80 % der frühen Transaktionsfragen: vertragspartner, wirksamkeitsdatum, laufzeit, kontrollwechsel, abtretung, kündigung_ohne_grund. Diese zuerst durchführen und das Schema erweitern, sobald das Deal-Team Prioritäten gesetzt hat.

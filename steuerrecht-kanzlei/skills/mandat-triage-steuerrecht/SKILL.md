@@ -44,7 +44,7 @@ Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und se
 - Änderungs-/Berichtigungsbescheid
 - Schätzungsbescheid § 162 AO
 - Haftungsbescheid § 191 AO
-- Vorlaeufigkeitsvermerk § 165 AO
+- Vorläufigkeitsvermerk § 165 AO
 - Vorbehalt der Nachprüfung § 164 AO
 - Einspruchsverfahren
 - Klage Finanzgericht
@@ -124,8 +124,8 @@ Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und se
 | Frist-Berechnung Zustellung | (allgemein im Fristenbuch) |
 | Betriebsausgaben-Werbungskosten | `betriebsausgaben-werbungskosten-pruefraster` |
 | Plugin-Konfiguration | `kaltstart-interview` |
-| Erbschaftsteuer | (Skill erbschaftsteuer-pruefen — perspektivisch) |
-| Umsatzsteuer-Prüfung | (Skill ust-pruefung — perspektivisch) |
+| Erbschaftsteuer | (Skill erbschaftsteuer-prüfen — perspektivisch) |
+| Umsatzsteuer-Prüfung | (Skill ust-prüfung — perspektivisch) |
 | Verrechnungspreise | (Skill verrechnungspreise — perspektivisch) |
 
 ## Mandatsannahme

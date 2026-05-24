@@ -46,7 +46,7 @@ Heute / in den nächsten Tagen Geburtstag:
 
 ## Vorlagen
 
-### Foermlich
+### Förmlich
 
 ```
 Betreff: Herzliche Glückwünsche zum Geburtstag
@@ -75,11 +75,11 @@ Beste Grüße aus der Kanzlei
 [Anwalt]
 ```
 
-## Firmenjubilaeen
+## Firmenjubiläen
 
-- Erfassung des Gruendungsdatums (Handelsregister) bei juristischen Personen als Mandanten.
+- Erfassung des Gründungsdatums (Handelsregister) bei juristischen Personen als Mandanten.
 - 10 25 50 75 100 Jahre als Schwellen.
-- Bei runder Jahreszahl: persoenliche Glückwunschkarte zusätzlich zur E-Mail.
+- Bei runder Jahreszahl: persönliche Glückwunschkarte zusätzlich zur E-Mail.
 
 ## Feiertagsversand
 

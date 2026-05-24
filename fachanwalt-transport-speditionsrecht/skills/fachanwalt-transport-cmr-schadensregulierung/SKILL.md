@@ -7,35 +7,35 @@ description: "CMR-Schadens-Regulierung internationaler Strassentransport. CMR-Fr
 
 ## Zweck
 
-Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen ueber den Befoerderungsvertrag im internationalen Strassengueterverkehr).
+Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen über den Beförderungsvertrag im internationalen Straßengueterverkehr).
 
 ## 1) Anwendbarkeit Art. 1 CMR
 
-- Strassentransport
+- Straßentransport
 - International (von / nach Vertragsstaat)
 - Gegen Entgelt
-- Eingeschlossen: kombiniert (Strasse + Schiff)
+- Eingeschlossen: kombiniert (Straße + Schiff)
 
 ## 2) CMR-Frachtbrief Art. 4-9 CMR
 
 ### Bedeutung Art. 9 CMR
 
 - **Beweis** des Vertragsabschlusses
-- **Beweis** der Ueberngabe in Wirklichkeit
-- Bei Mangel-Vermerk: Vermutung Verkehrs-Schaden Frachtfuehrer
+- **Beweis** der Überngabe in Wirklichkeit
+- Bei Mangel-Vermerk: Vermutung Verkehrs-Schaden Frachtführer
 
 ### Pflichtinhalte Art. 6 CMR
 
-- Absender, Empfaenger
+- Absender, Empfänger
 - Ware-Beschreibung
-- Frachtfuehrer
+- Frachtführer
 - Bestimmungs-Ort
 
 ## 3) Haftungs-Grenze Art. 23 III CMR
 
 - **8,33 SZR / kg** (Sonderziehungs-Recht ca. 10 EUR)
 - Pro Brutto-Kilogramm der verlorenen Ware
-- Beispiel: 1.000 kg Ware bei vollem Verlust = 10.000 EUR Hoechstgrenze
+- Beispiel: 1.000 kg Ware bei vollem Verlust = 10.000 EUR Höchstgrenze
 
 ### Aufhebung Haftungsbegrenzung
 
@@ -47,14 +47,14 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen ueber den Befo
 
 ### Frist
 
-- Bei aeusserlich sichtbaren Schaeden: **bei Ablieferung**
-- Bei verdeckten Schaeden: **7 Tage** nach Ablieferung
-- Bei Verspaetung: 21 Tage
+- Bei aeusserlich sichtbaren Schäden: **bei Ablieferung**
+- Bei verdeckten Schäden: **7 Tage** nach Ablieferung
+- Bei Verspätung: 21 Tage
 
 ### Form
 
 - Schriftlich
-- Bei Versaeumnis: Verlust der Anspruche (Vermutungs-Wirkung Art. 30)
+- Bei Versäumnis: Verlust der Anspruche (Vermutungs-Wirkung Art. 30)
 
 ## 5) Verjaehrung Art. 32 CMR
 
@@ -67,42 +67,42 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen ueber den Befo
 ### Phase 1 — Schadens-Aufnahme
 
 - Foto am Ablieferungs-Ort
-- Bestaetigung Empfaenger
+- Bestätigung Empfänger
 - CMR-Frachtbrief-Vermerk
 
 ### Phase 2 — Reklamation
 
-- Schriftlich an Frachtfuehrer
+- Schriftlich an Frachtführer
 - Innerhalb 7 Tage (verdeckt)
 - Schadens-Aufstellung
 
 ### Phase 3 — Versicherer
 
-- Frachtfuehrer-Versicherer
+- Frachtführer-Versicherer
 - Eigene Transport-Versicherung
 - Zeitgleiche Geltendmachung
 
 ### Phase 4 — Klage
 
 - Bei Verzug Versicherer: Klage AG / LG je Streitwert
-- Sachliche Zustaendigkeit Art. 31 CMR — Schaedigungs-Ort, Empfaenger-Ort
+- Sachliche Zuständigkeit Art. 31 CMR — Schädigungs-Ort, Empfänger-Ort
 
 ## 7) Beweisaufnahme
 
 ### Schaden-Beweis
 
 - Foto-Dokumentation
-- Sachverstaendigen-Gutachten
+- Sachverständigen-Gutachten
 - Zeugen-Aussagen
 
 ### Verschuldens-Frage
 
-- Frachtfuehrer-Verhalten
+- Frachtführer-Verhalten
 - Bei Vorsatz / grober Fahrlaessigkeit: Aufhebung Begrenzung
 
 ## 8) Typische Fehler
 
-1. **Reklamationsfrist 7 Tage versaeumt**
+1. **Reklamationsfrist 7 Tage versäumt**
 2. **CMR-Frachtbrief-Vermerk fehlt** bei Mangel
 3. **Verjaehrung 1 Jahr verpasst**
 4. **Haftungs-Aufhebung Art. 29 CMR nicht geltend gemacht**
@@ -114,6 +114,6 @@ Schaden an internationaler LKW-Lieferung nach CMR (UEbereinkommen ueber den Befo
 
 ## Anschluss
 
-- `frachtfuehrerhaftung-pruefen` — Pruefraster
+- `frachtfuehrerhaftung-pruefen` — Prüfraster
 - `fachanwalt-transport-speditionsrecht-orientierung` — Triage
 - `fachanwalt-versicherungsrecht-deckungsanfrage` — bei Versicherer

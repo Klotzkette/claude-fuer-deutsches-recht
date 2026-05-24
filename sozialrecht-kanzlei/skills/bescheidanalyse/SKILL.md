@@ -51,7 +51,7 @@ Analyseprotokoll mit:
 3. Rechtsbehelfsbelehrung mit Fristberechnung (Widerspruchsfrist ein Monat § 84 SGG)
 4. Formelle Fehler (Anhörung Begründung Rechtsbehelfsbelehrung)
 5. Materielle Angriffspunkte sortiert nach Erfolgsaussicht
-6. Empfehlung: Widerspruch / Ueberprüfungsantrag § 44 SGB X / Untätigkeitsklage / nichts
+6. Empfehlung: Widerspruch / Überprüfungsantrag § 44 SGB X / Untätigkeitsklage / nichts
 7. Frist im Fristenbuch eintragen — Verweis auf `fristenbuch-sozialrecht`
 
 ## Grenzen

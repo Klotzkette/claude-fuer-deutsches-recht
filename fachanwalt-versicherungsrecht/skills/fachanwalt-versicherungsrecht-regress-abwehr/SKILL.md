@@ -11,14 +11,14 @@ description: "Regress Sozialversicherungstraeger § 116 SGB X Versicherungstraeg
 2. Aus welchem Schadensereignis stammt der Regress — Unfall, Krankheit, Verletzung Dritter? Welcher Mandant haftet warum?
 3. Welche Sozialleistungen wurden für welchen Zeitraum erbracht — Krankenhauskosten, Krankengeld, Reha, Rente, Heilbehandlung?
 4. Ist die zugrundeliegende Schadenshaftung dem Grunde und der Höhe nach bereits geklärt oder noch streitig?
-5. Bestehen Verteidigungseinwände wie Familienprivileg (§ 86 Abs. 3 VVG, § 116 Abs. 6 SGB X), Mitverschulden des Geschädigten, fehlende Kongruenz, Verjährung?
+5. Bestehen Verteidigungseinwände wie Familienprivileg (§ 86 Abs. 3 VVG, § 116 Abs. 6 SGB X), Mitverschulden des Geschädigten, fehlende Kongrünz, Verjährung?
 
 ## Anspruchsgrundlagen Regress
 
 - Sozialleistungsregress § 116 SGB X: Forderungsübergang kraft Gesetzes auf Sozialversicherungsträger zum Zeitpunkt des schadensbegründenden Ereignisses, soweit Sozialleistungen aufgrund desselben Ereignisses gewährt werden müssen.
 - Versicherungsregress § 86 Abs. 1 VVG: Forderungsübergang auf privaten Versicherer im Umfang seiner Leistung.
-- Voraussetzung sachliche Kongruenz: Schaden und Sozialleistung müssen gleichartig sein (Erwerbsschaden-Krankengeld, Heilbehandlung-Krankenversicherung).
-- Voraussetzung zeitliche Kongruenz: Sozialleistung muss in dem Zeitraum erbracht werden für den Schadensersatz beansprucht wird.
+- Voraussetzung sachliche Kongrünz: Schaden und Sozialleistung müssen gleichartig sein (Erwerbsschaden-Krankengeld, Heilbehandlung-Krankenversicherung).
+- Voraussetzung zeitliche Kongrünz: Sozialleistung muss in dem Zeitraum erbracht werden für den Schadensersatz beansprucht wird.
 - Quotenvorrecht des Geschädigten § 116 Abs. 3 SGB X — bei Mitverschulden des Geschädigten oder beschränkter Haftung des Schädigers gehen nur die durch Haftungsanteil gedeckten Beträge auf den Sozialversicherungsträger über; der Geschädigte erhält Bevorzugung bei nicht durch Sozialleistung gedeckten Schadenspositionen (BGH VI ZR 132/11, Urt. v. 24.04.2012, Rn. 25 ff.).
 - Familienprivileg § 86 Abs. 3 VVG, § 116 Abs. 6 SGB X — kein Regress gegen Schädiger der mit Geschädigtem in häuslicher Gemeinschaft lebt; Ausnahme Vorsatz.
 - Verjährung wie zugrundeliegender Anspruch § 195 BGB drei Jahre; Hemmung § 203 BGB durch Verhandlungen.
@@ -27,7 +27,7 @@ Standardliteratur: Geigel Der Haftpflichtprozess; Küppersbusch/Höher Ersatzans
 
 ## Beweislast
 
-- Regressnehmer trägt Beweislast für Sozialleistung, Höhe, Kongruenz und Haftung dem Grunde nach.
+- Regressnehmer trägt Beweislast für Sozialleistung, Höhe, Kongrünz und Haftung dem Grunde nach.
 - Schädiger/Versicherer trägt Beweislast für Mitverschulden des Geschädigten, Familienprivileg und Verjährung.
 
 ## Verteidigungsstrategien
@@ -35,12 +35,12 @@ Standardliteratur: Geigel Der Haftpflichtprozess; Küppersbusch/Höher Ersatzans
 | Einwand | Voraussetzung | Wirkung |
 |---|---|---|
 | Familienprivileg | Häusliche Gemeinschaft Schädiger/Geschädigter ohne Vorsatz | Kein Forderungsübergang |
-| Fehlende Kongruenz | Sozialleistung deckt anderes als geltend gemachten Schaden | Anspruchsausfall in nicht-kongruenten Teil |
+| Fehlende Kongrünz | Sozialleistung deckt anderes als geltend gemachten Schaden | Anspruchsausfall in nicht-kongrünten Teil |
 | Quotenvorrecht | Mitverschulden des Geschädigten | Verteilung nach Quote zugunsten Geschädigtem |
 | Mitverschulden | § 254 BGB | Quotenkürzung |
 | Verjährung | § 195 BGB drei Jahre ab Kenntnis | Anspruch durchsetzbar nicht mehr |
 | Vorteilsausgleichung | Bessergestellt durch Schadensereignis | Reduzierung |
-| § 254 BGB Schadensminderungspflicht | Geschädigter nicht ausreichend Reha-Massnahmen | Kürzung |
+| § 254 BGB Schadensminderungspflicht | Geschädigter nicht ausreichend Reha-Maßnahmen | Kürzung |
 
 ## Schreibvorlage Regress-Abwehr
 

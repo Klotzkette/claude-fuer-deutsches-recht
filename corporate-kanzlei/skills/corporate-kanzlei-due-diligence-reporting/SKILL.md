@@ -20,7 +20,7 @@ Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und
 
 - Report ohne Scope/Limitations.
 - Finding ohne Quelle.
-- Keine Verbindung zu Vertragsloesung.
+- Keine Verbindung zu Vertragslösung.
 
 ## Standardausgabe
 

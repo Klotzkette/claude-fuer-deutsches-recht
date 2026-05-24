@@ -69,11 +69,11 @@ Verkehrsrechtliche Mandate sind heterogen — vom Auffahrunfall (Zivilrecht) üb
 |---|---|---|
 | Schadensregulierung Sachschaden | `unfall-haftungsquote-berechnen` | Verjährung drei Jahre |
 | Schadensregulierung Personenschaden | `unfall-haftungsquote-berechnen` plus medizinische Begutachtung | drei oder dreißig Jahre |
-| Bußgeldbescheid | (Skill bussgeld-pruefen — perspektivisch) | zwei Wochen § 67 OWiG |
+| Bußgeldbescheid | (Skill bußgeld-prüfen — perspektivisch) | zwei Wochen § 67 OWiG |
 | Vorläufige Entziehung FE | sofort Beschwerde § 304 StPO | binnen Stunden |
 | Verkehrsstraftaten | Skill aus `fachanwalt-strafrecht` `mandat-triage-strafrecht` | je nach Verfahrensstadium |
 | MPU | (Skill mpu-vorbereitung — perspektivisch) | sechs Monate vor Frist Beginn |
-| Punkte | (Skill faer-pruefen — perspektivisch) | Tilgungsfristen |
+| Punkte | (Skill faer-prüfen — perspektivisch) | Tilgungsfristen |
 | Versicherungs-Deckungsstreit | Skill aus `fachanwalt-versicherungsrecht` | nach VVG |
 
 ## Eilmodus vorläufige Entziehung

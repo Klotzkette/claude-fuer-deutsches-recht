@@ -11,7 +11,7 @@ Erzeugt und verwaltet Q&A-Prozess, Information Request Lists, Follow-ups und Ant
 
 ## Arbeitsmodus
 
-- Aus DD-Luecken gezielte Fragen ableiten.
+- Aus DD-Lücken gezielte Fragen ableiten.
 - Fragen nach Workstream, Prioritaet, Owner und Deal-Auswirkung sortieren.
 - Antworten gegen Datenraumbelege prüfen.
 - Unzureichende Antworten nachfassen.
@@ -20,7 +20,7 @@ Erzeugt und verwaltet Q&A-Prozess, Information Request Lists, Follow-ups und Ant
 
 - Frage verraet Strategie unnoetig.
 - Antwort ohne Beleg wird als erledigt markiert.
-- Q&A enthaelt Clean-Room-Information in offenem Bereich.
+- Q&A enthält Clean-Room-Information in offenem Bereich.
 
 ## Standardausgabe
 

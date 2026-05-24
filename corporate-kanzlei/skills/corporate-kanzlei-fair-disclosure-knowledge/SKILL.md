@@ -7,14 +7,14 @@ description: "Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Di
 
 ## Zweck
 
-Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestuetzter Datenraumprüfung.
+Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestützter Datenraumprüfung.
 
 ## Arbeitsmodus
 
 - Positive Kenntnis, best knowledge, Kennenmüssen und grobe Fahrlaessigkeit trennen.
-- Wissenstraeger, Datenraum, KI-Suche und aktenmaessiges Wissen als Verhandlungspunkt markieren.
+- Wissensträger, Datenraum, KI-Suche und aktenmaessiges Wissen als Verhandlungspunkt markieren.
 - Käufer- und Verkäuferperspektive getrennt darstellen.
-- Vorvertragliche Aufklaerung und Angaben-ins-Blaue-Risiko als rote Schwelle behandeln.
+- Vorvertragliche Aufklärung und Angaben-ins-Blaue-Risiko als rote Schwelle behandeln.
 
 ## Rote Schwellen
 

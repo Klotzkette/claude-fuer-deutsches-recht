@@ -13,27 +13,27 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 
 1. Erster Asylantrag wann abgelehnt?
 2. Aktueller Aufenthaltstitel / Duldung?
-3. Neue Sachlage seit Ablehnung (politische Lage Heimatland, persoenliche Aenderungen)?
+3. Neue Sachlage seit Ablehnung (politische Lage Heimatland, persönliche Änderungen)?
 4. Neue Beweismittel?
 5. Ausreise-Druck (Abschiebung)?
 
 ## 2) Voraussetzungen § 71 AsylG iVm § 51 VwVfG
 
-### Wiederaufgreifens-Gruende
+### Wiederaufgreifens-Gründe
 
-- **Aenderung Sachlage** (Heimatland, persoenlich)
-- **Neue Beweismittel**, die zu guenstigerer Entscheidung gefuehrt haetten
-- **Aenderung Rechtslage**
+- **Änderung Sachlage** (Heimatland, persönlich)
+- **Neue Beweismittel**, die zu günstigerer Entscheidung geführt hätten
+- **Änderung Rechtslage**
 
 ### Frist
 
 - 3 Monate ab Kenntnis des Wiederaufgreifens-Grundes
-- Bei Versaeumnis: Antrag unzulaessig
+- Bei Versäumnis: Antrag unzulaessig
 
 ### Ergebnis
 
-- BAMF prueft zunaechst Zulaessigkeit
-- Bei Zulaessigkeit: Sach-Pruefung wie Erstantrag
+- BAMF prüft zunächst Zulässigkeit
+- Bei Zulässigkeit: Sach-Prüfung wie Erstantrag
 
 ## 3) Sachverhalts-Schwerpunkte
 
@@ -43,10 +43,10 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 - Neue Verfolgungs-Gruppen
 - Anderer Aspekt (z.B. Sexual-Orientierung outet sich)
 
-### Persoenlich
+### Persönlich
 
 - Konvertierung Religion
-- Politische Aktivitaeten waehrend Aufenthalt
+- Politische Aktivitäten während Aufenthalt
 - Familien-Konstellation
 
 ### Beweise
@@ -57,17 +57,17 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 
 ## 4) Folge-Folgeantrag
 
-- Auch wiederholt moeglich
-- Aber: jeder Antrag braucht neue Wiederaufgreifens-Gruende
+- Auch wiederholt möglich
+- Aber: jeder Antrag braucht neue Wiederaufgreifens-Gründe
 - Bei missbraeuchlichem Verhalten: Unzulaessigkeit
 
 ## 5) Dublin-III VO 604/2013
 
 ### Bei Folgeantrag
 
-- Pruefung ob anderer EU-Staat zustaendig
-- 6-Monats-Ueberstellungs-Frist
-- Bei Versaeumnis: DE-Zustaendigkeit
+- Prüfung ob anderer EU-Staat zustaendig
+- 6-Monats-Überstellungs-Frist
+- Bei Versäumnis: DE-Zuständigkeit
 
 ### Aufenthalts-Recht
 
@@ -81,19 +81,19 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 - Wiederaufgreifens-Grund identifizieren
 - Realistische Aussichten-Bewertung
 - Risiko fehlender Aussicht: Abschiebung
-- Alternative: Aufenthaltstitel humanitaerer Gruende § 25 AufenthG
+- Alternative: Aufenthaltstitel humanitaerer Gründe § 25 AufenthG
 
 ### Schritt 2 — Antrag BAMF
 
 - Schriftlich, mit Wiederaufgreifens-Grund
-- Beweismittel beigefuegt
+- Beweismittel beigefügt
 - Dolmetscher bei Vorbringen
 
 ### Schritt 3 — Bescheid
 
 - BAMF entscheidet binnen Wochen
-- Bei Unzulaessigkeit: Aussetzung Anhoerung
-- Bei Zulaessigkeit: persoenliche Anhoerung
+- Bei Unzulaessigkeit: Aussetzung Anhörung
+- Bei Zulässigkeit: persönliche Anhörung
 
 ### Schritt 4 — Klage VG bei Ablehnung
 
@@ -106,30 +106,30 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 ### Konversion
 
 - Christen-Konversion (Iran, Pakistan)
-- Pflicht zur Glaubens-Pruefung
-- Sachverstaendiger-Gutachten
+- Pflicht zur Glaubens-Prüfung
+- Sachverständiger-Gutachten
 
 ### Sexual-Orientierung
 
 - Outet-sich-Argument
 - Verfolgung-Risiko Heimatland
 
-### Politische Aktivitaeten
+### Politische Aktivitäten
 
 - In Deutschland (Exil-Politik)
 - Beweis durch Demo-Fotos, Vereins-Mitgliedschaft
 
-## 8) Bundesamt fuer Migration und Fluechtlinge (BAMF)
+## 8) Bundesamt für Migration und Fluechtlinge (BAMF)
 
 ### Prozessuale Pflichten
 
-- Anhoerung
-- Vollstaendige Aufklaerung
-- Begruendung Bescheid
+- Anhörung
+- Vollständige Aufklärung
+- Begründung Bescheid
 
 ### Beweisaufnahme
 
-- Auskunft Auswaertiges Amt
+- Auskunft Auswärtiges Amt
 - ACCORD-Berichte
 - UNHCR-Berichte
 
@@ -137,7 +137,7 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 
 1. **3-Monats-Frist verpasst**
 2. **Wiederaufgreifens-Grund zu schwach**
-3. **Eilantrag versaeumt** bei drohender Abschiebung
+3. **Eilantrag versäumt** bei drohender Abschiebung
 4. **Folge-Folge-Antrag missbraeuchlich** -> Unzulaessigkeit
 
 ## 10) BVerwG-Linien

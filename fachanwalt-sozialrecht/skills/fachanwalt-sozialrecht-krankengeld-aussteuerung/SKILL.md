@@ -12,9 +12,9 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 ## 1) Bezugsdauer § 48 SGB V
 
 - **78 Wochen** wegen derselben Krankheit
-- Innerhalb von **3 Jahren** ab Beginn der Arbeitsunfaehigkeit
-- Sperrfristen ausser Acht
-- Wiederholungs-Aussteuerung moeglich
+- Innerhalb von **3 Jahren** ab Beginn der Arbeitsunfähigkeit
+- Sperrfristen außer Acht
+- Wiederholungs-Aussteuerung möglich
 
 ## 2) Anschluss-Optionen
 
@@ -22,24 +22,24 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 
 - Voraussetzung: Erwerbsminderung medizinisch nachweisbar
 - Antrag bei DRV
-- Bei < 3h taegliche Erwerbsfaehigkeit: volle EM-Rente
+- Bei < 3h tägliche Erwerbsfähigkeit: volle EM-Rente
 - 3-6h: teilweise EM-Rente
 
 ### B. ALG I § 145 SGB III (Nahtloskeits-Regelung)
 
-- Bei AU > 78 Wochen: Anspruch auf ALG ohne Verfuegbarkeits-Pflicht
+- Bei AU > 78 Wochen: Anspruch auf ALG ohne Verfügbarkeits-Pflicht
 - Bis 6 Monate
-- Pruefung Erwerbsminderung parallel
+- Prüfung Erwerbsminderung parallel
 
 ### C. Reha-Antrag § 14 ff. SGB IX
 
 - Medizinische Reha
-- Bei Erfolg: Rueckkehr Arbeitsfaehigkeit
+- Bei Erfolg: Rückkehr Arbeitsfähigkeit
 - Bei Misserfolg: Erwerbsminderungs-Antrag
 
 ## 3) Workflow
 
-### Phase 1 — Frueh-Beratung (60. Woche)
+### Phase 1 — Früh-Beratung (60. Woche)
 
 - Antrag Reha
 - Antrag Statusfeststellung Erwerbsminderung
@@ -58,10 +58,10 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 
 ## 4) Typische Fehler
 
-1. **EM-Antrag zu spaet** — Versorgungs-Luecke
-2. **Reha-Erfolg nicht beachtet** — Krankengeld-Rueckforderung
-3. **ALG I-Antrag versaeumt** Naht-loskeit-Regel
-4. **Widerspruchsfristen versaeumt**
+1. **EM-Antrag zu spaet** — Versorgungs-Lücke
+2. **Reha-Erfolg nicht beachtet** — Krankengeld-Rückforderung
+3. **ALG I-Antrag versäumt** Naht-loskeit-Regel
+4. **Widerspruchsfristen versäumt**
 
 ## 5) BSG-Linien
 
@@ -72,4 +72,4 @@ Beratung bei drohendem Krankengeld-Ende und Anschlussversorgung.
 
 - `fachanwalt-sozialrecht-orientierung` — Triage
 - `fachanwalt-sozialrecht-gdb-schwerbehinderung` — bei GdB-Bezug
-- `widerspruchsfrist-und-zustellung-sgb` (Power-Tool) — Frist-Pruefung
+- `widerspruchsfrist-und-zustellung-sgb` (Power-Tool) — Frist-Prüfung

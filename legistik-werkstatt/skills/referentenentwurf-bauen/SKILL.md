@@ -14,10 +14,10 @@ description: "Erstellt einen vollstaendigen Referentenentwurf des Bundes oder La
 Das Vorblatt vor dem eigentlichen Entwurfstext. Sieben bis acht Abschnitte (alphabetisch in der GGO geregelt):
 
 - **A. Problem und Ziel** - was ist das Problem, was soll erreicht werden
-- **B. Loesung** - die im Entwurf gewaehlte Loesung in drei Saetzen
+- **B. Lösung** - die im Entwurf gewählte Lösung in drei Sätzen
 - **C. Alternativen** - welche Alternativen wurden erwogen, warum verworfen
-- **D. Haushaltsausgaben ohne Erfuellungsaufwand** - was kostet es den Haushalt
-- **E. Erfuellungsaufwand** - Buerger, Wirtschaft, Verwaltung (Bund / Land / Gemeinde)
+- **D. Haushaltsausgaben ohne Erfüllungsaufwand** - was kostet es den Haushalt
+- **E. Erfüllungsaufwand** - Bürger, Wirtschaft, Verwaltung (Bund / Land / Gemeinde)
 - **F. Weitere Kosten** - z.B. Preiseffekte
 - **G. Weitere Folgen** - oekologisch, sozial, demografisch, gleichstellungspolitisch
 - **H. Befristung** und Evaluierung
@@ -29,21 +29,21 @@ Bei zustimmungspflichtigen Gesetzen: "Der Bundestag hat mit Zustimmung des Bunde
 
 ### Artikel und Paragrafen
 
-Bei Aenderungsgesetzen: Artikel 1, Artikel 2, Artikel 3 ...
-Pro Artikel je ein Stammgesetz, das geaendert wird.
+Bei Änderungsgesetzen: Artikel 1, Artikel 2, Artikel 3 ...
+Pro Artikel je ein Stammgesetz, das geändert wird.
 Innerhalb des Artikels:
-- "Paragraf X wird wie folgt geaendert:"
+- "Paragraf X wird wie folgt geändert:"
 - "1. Absatz 2 wird wie folgt gefasst: ..."
-- "2. Folgender Absatz wird angefuegt: ..."
+- "2. Folgender Absatz wird angefügt: ..."
 
 Bei Stammgesetzen (neuen Vollgesetzen): Paragraf 1, Paragraf 2 etc.
 
-### Aenderungsbefehle - Standardformulierungen
+### Änderungsbefehle - Standardformulierungen
 
-- "wird wie folgt geaendert"
+- "wird wie folgt geändert"
 - "wird durch folgenden Satz ersetzt"
-- "wird folgender Satz angefuegt"
-- "wird folgender Paragraf eingefuegt"
+- "wird folgender Satz angefügt"
+- "wird folgender Paragraf eingefügt"
 - "wird aufgehoben"
 - "wird gestrichen"
 - "wird die Angabe ... durch die Angabe ... ersetzt"
@@ -57,22 +57,22 @@ Oder gestaffeltes Inkrafttreten:
 
 ### Schlussformel
 
-"Berlin, den ... Der Bundespraesident ... Die Bundeskanzlerin ... Der Bundesminister ..."
+"Berlin, den ... Der Bundespräsident ... Die Bundeskanzlerin ... Der Bundesminister ..."
 
 ## Inhaltliche Standardstruktur eines Paragrafen
 
 1. **Anwendungsbereich / Definition**
 2. **Grundregel** (Pflicht, Erlaubnis, Verbot)
 3. **Ausnahmen**
-4. **Sanktionen / Rechtsfolgen** bei Verstoss (oder Verweis ins Bussgeldrecht)
+4. **Sanktionen / Rechtsfolgen** bei Verstoß (oder Verweis ins Bußgeldrecht)
 5. **Verfahren** (Antrag, Bescheid, Rechtsmittel)
-6. **Uebergangsregelung** in eigenem Paragrafen am Ende des Stammgesetzes
+6. **Übergangsregelung** in eigenem Paragrafen am Ende des Stammgesetzes
 
-## Pruefliste
+## Prüfliste
 
-- [ ] Vorblatt vollstaendig (alle Abschnitte A bis H)
+- [ ] Vorblatt vollständig (alle Abschnitte A bis H)
 - [ ] Eingangsformel passt zum Gesetz (Zustimmungserfordernis korrekt)
-- [ ] Aenderungsbefehle in Standardform
+- [ ] Änderungsbefehle in Standardform
 - [ ] Inkrafttreten klar geregelt
 - [ ] Schlussformel passend
 - [ ] HdR-Spruchregeln eingehalten (siehe `hdr-stilcheck`)
@@ -81,7 +81,7 @@ Oder gestaffeltes Inkrafttreten:
 
 ## Ausgabe
 
-Markdown-Datei mit dem kompletten Entwurfstext, bereit fuer Ressortabstimmung.
+Markdown-Datei mit dem kompletten Entwurfstext, bereit für Ressortabstimmung.
 
 ## Anschluss
 

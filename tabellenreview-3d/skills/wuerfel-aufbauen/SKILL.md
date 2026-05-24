@@ -21,12 +21,12 @@ Bevor ein Reviewlauf startet, muss die Würfel-Struktur stehen. Dieser Skill fra
 
 1. **Achse 1 — Spalten (Datenpunkte) definieren**
    - Jede Spalte ist ein Spaltenprompt: eine einzige präzise Frage, die für ALLE Dokumente gleich beantwortet wird.
-   - Pflichtfelder pro Spalte: `id`, `titel`, `prompt`, `antworttyp` (Freitext / Zitat-mit-Fundstelle / ja-nein / Datum / Geldbetrag / Aufzählung), `pflichtfeld` (ja / nein), `ampel-regel` (wann rot / gelb / gruen).
+   - Pflichtfelder pro Spalte: `id`, `titel`, `prompt`, `antworttyp` (Freitext / Zitat-mit-Fundstelle / ja-nein / Datum / Geldbetrag / Aufzählung), `pflichtfeld` (ja / nein), `ampel-regel` (wann rot / gelb / grün).
 2. **Achse 2 — Zeilen (Dokumente) definieren**
    - Jede Zeile ist ein Dokument mit Quellpfad Hash und optionalem Zeilenprompt.
    - Pflichtfelder pro Zeile: `id`, `pfad`, `hash`, `dokumenttyp`, optional `zeilenprompt` für dokumentspezifische Sonderanweisungen.
 3. **Achse 3 — Arbeitsblätter (Perspektiven) definieren**
-   - Jedes Arbeitsblatt ist eine eigene Pruefperspektive die über denselben Dokumentenstapel laeuft.
+   - Jedes Arbeitsblatt ist eine eigene Pruefperspektive die über denselben Dokumentenstapel läuft.
    - Beispiele: Recht (Anwaltsperspektive) / Steuer (Steuerberater) / Wirtschaft (Buyside) / Datenschutz (DSGVO) / IT (Architektur) / Betrieb (Operations)
    - Pflichtfelder pro Arbeitsblatt: `id`, `titel`, `perspektive`, `eigene-spalten-zusätze` (Arbeitsblatt-spezifische Zusatzspalten) und `auslassungen` (Spalten die für dieses Blatt nicht gelten).
 4. **Risikoampel-Konsolidierung** je Achse festlegen: Wann ist eine Zelle rot? Wann eine ganze Zeile rot? Wann ein ganzes Arbeitsblatt rot?
@@ -49,7 +49,7 @@ Würfel für M&A-DD bei Erwerb einer SaaS-GmbH:
 - **Spalten:** 12 Datenpunkte (Vertragsart Laufzeit Kündigungsfrist Change-of-Control Abtretungsverbot Haftungsbegrenzung Service-Level Datenschutz-Auftragsverarbeitung Geheimhaltung Vergütung-Anpassungsklausel anwendbares Recht Gerichtsstand)
 - **Zeilen:** 87 Verträge aus dem Datenraum (Kunden Lieferanten Banken Lizenzen Personal)
 - **Arbeitsblätter:** 4 Perspektiven (Recht / Steuer / Wirtschaft / Datenschutz)
-- Ergebnis: 12 mal 87 mal 4 = 4176 Zellen, jede mit woertlichem Zitat und Fundstelle.
+- Ergebnis: 12 mal 87 mal 4 = 4176 Zellen, jede mit wörtlichem Zitat und Fundstelle.
 
 ## Grenzen
 

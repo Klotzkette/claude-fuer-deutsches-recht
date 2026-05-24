@@ -93,7 +93,7 @@ Bei Gesellschafter-Streit (Two-Tier-Konflikt Mehrheits-/Minderheits-Konflikt Ges
 
 - Form-Mängel (Einladung Tagesordnung Beschlussfähigkeit)
 - Stimmrechts-Ausschluss-Verletzung
-- Treuepflicht-Verstoss
+- Treuepflicht-Verstoß
 - Sittenwidrig § 138 BGB
 
 ### Nichtigkeits-Gründe
@@ -157,7 +157,7 @@ Bei Gesellschafter-Streit (Two-Tier-Konflikt Mehrheits-/Minderheits-Konflikt Ges
 ### Voraussetzungen
 
 - Wichtiger Grund
-- Treuepflicht-Verstoss
+- Treuepflicht-Verstoß
 - Persönliche Unzumutbarkeit
 
 ## Schritt 8 — Abfindungs-Berechnung
@@ -219,7 +219,7 @@ Bei Gesellschafter-Streit (Two-Tier-Konflikt Mehrheits-/Minderheits-Konflikt Ges
 
 ## Schritt 11 — Wirtschaftliches Sicherheits-Netz
 
-### Vorlaeufige Maßnahmen
+### Vorläufige Maßnahmen
 
 - **Einstweilige Verfügung** § 935 ZPO
 - Beschlusssperre

@@ -23,8 +23,8 @@ Eine Tabellenzelle die behauptet etwas zu sagen ohne dass man die Stelle im Doku
 Beim Erstellen oder beim späteren Audit:
 
 - **Hash-Prüfung:** ist der Datei-Hash der Quelldatei noch derselbe wie beim Befuellzeitpunkt? Wenn nein: `hash-bruch` im `audit-trail-protokoll`.
-- **Volltext-Suche:** ist das woertliche Zitat noch im Volltext der Datei auffindbar? Wenn nein: `zitat-nicht-mehr-im-original`.
-- **Seitenkonsistenz:** existiert die angegebene Seite ueberhaupt in der Datei? Wenn nein: `fundstelle-außerhalb-dokument`.
+- **Volltext-Suche:** ist das wörtliche Zitat noch im Volltext der Datei auffindbar? Wenn nein: `zitat-nicht-mehr-im-original`.
+- **Seitenkonsistenz:** existiert die angegebene Seite überhaupt in der Datei? Wenn nein: `fundstelle-außerhalb-dokument`.
 
 ## Umgekehrte Suche
 
@@ -47,5 +47,5 @@ Diese Datei MUSS bei jeder Mandatsübergabe mitgehen. Sie ist die Reproduzierbar
 
 ## Grenzen
 
-- Bei geänderten Dokumenten (Vertragsversion 2 ueberschreibt Version 1) erhält die Belegkette die alte Fassung — der Prüfer entscheidet ob neu zu rechnen ist.
+- Bei geänderten Dokumenten (Vertragsversion 2 überschreibt Version 1) erhält die Belegkette die alte Fassung — der Prüfer entscheidet ob neu zu rechnen ist.
 - Bei OCR-Fehlern (Zitat hat OCR-Wortwahl die im Original anders steht) kann die Volltextsuche fehlschlagen — das ist ein bekannter OCR-Falschalarm, kein Belegkette-Bruch.

@@ -72,7 +72,7 @@ Sonnenglas Solartechnologie UG (haftungsbeschränkt)
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Wandlungserklärung nach Fristablauf | Erklärung verfristet, unwirksam für dieses Ereignis | Frist grenzwertig | Innerhalb der Frist |
 | Erklärung nicht in Textform | Formunwirksamkeit | Mündliche Erklärung mit schriftlicher Bestätigung | Textform gewahrt |

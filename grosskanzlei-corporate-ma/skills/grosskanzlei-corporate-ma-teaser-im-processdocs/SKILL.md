@@ -7,7 +7,7 @@ description: "Teaser, IM und Prozessdokumente: Unterstuetzt Seller-side bei Inve
 
 ## Zweck
 
-Unterstuetzt Seller-side bei Investment Teaser, Information Memorandum, NDA, Process Letter und Bieterkommunikation.
+Unterstützt Seller-side bei Investment Teaser, Information Memorandum, NDA, Process Letter und Bieterkommunikation.
 
 ## Arbeitsmodus
 

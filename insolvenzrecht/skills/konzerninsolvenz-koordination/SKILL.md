@@ -273,7 +273,7 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 - Pro Gesellschaft separate Anmeldung
 - Inter-Company-Forderungen besonders
 
-### Anfechtungs-Pruefung
+### Anfechtungs-Prüfung
 
 - Inter-Company-Transaktionen sensitiv
 - BGH IX ZR-Linien zur Vorsatzanfechtung § 133 InsO

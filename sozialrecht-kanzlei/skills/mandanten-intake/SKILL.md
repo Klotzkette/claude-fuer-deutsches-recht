@@ -51,7 +51,7 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 ## Sofort-Prüfraster
 
 - **Frist heute oder in den nächsten drei Tagen?** Sofort eskalieren — Skill `fristenbuch-sozialrecht`.
-- **Eilbeduerfnis** Wohnungsverlust Wegfall existenzsichernder Leistungen? Skill `eilantrag-sozialrecht`.
+- **Eilbedürfnis** Wohnungsverlust Wegfall existenzsichernder Leistungen? Skill `eilantrag-sozialrecht`.
 - **PKH erforderlich?** Skill `prozesskostenhilfe-antrag`.
 - **Akteneinsicht erforderlich?** Skill `akteneinsicht-anfordern`.
 
@@ -64,7 +64,7 @@ Den ersten Kontakt strukturieren — alle Daten erfassen die das Mandat braucht;
 
 - **Anwaltsvollmacht** mit konkretem Mandatsumfang (Vorverfahren und Klage; ggf. Untervollmacht).
 - **Datenschutzhinweis** nach Art. 13 DSGVO mit Verweis auf die Verarbeitung von Sozialdaten und Gesundheitsdaten (Art. 9 DSGVO).
-- **Schweigepflichtsentbindung** für Behörden / Aerzte / Drittstellen — separat.
+- **Schweigepflichtsentbindung** für Behörden / Ärzte / Drittstellen — separat.
 
 ## Ausgabe
 

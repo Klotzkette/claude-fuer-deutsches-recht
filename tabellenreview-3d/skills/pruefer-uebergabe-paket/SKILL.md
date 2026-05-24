@@ -31,7 +31,7 @@ Das Plugin liefert nicht das fertige Mandatsergebnis. Es liefert das Prüfer-Pak
 
 - `prompt-historie.yaml` aus `prompt-versionierung` — welche Versionen aktiv waren beim Lauf.
 
-### 6. Widersprueche
+### 6. Widersprüche
 
 - `widerspruchsbericht.md` aus `kreuzblatt-konsistenzpruefung` — Konflikte zwischen Arbeitsblättern.
 
@@ -57,7 +57,7 @@ Der Prüfer:
 
 1. Liest das Begleitschreiben.
 2. Geht die Prüfer-Flag-Arbeitsliste durch — Entscheidung pro Flag.
-3. Stichprobenprüfung an gelben und gruenen Zellen.
+3. Stichprobenprüfung an gelben und grünen Zellen.
 4. Prüfung der roten Zellen und Hotspots vollständig.
 5. Unterschrift im Audit-Trail (`prüferabnahme.eingegeben`).
 

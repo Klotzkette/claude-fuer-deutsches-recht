@@ -11,7 +11,7 @@ Dieser Skill ist die **Einstiegs-Schiene** für jede **Hausarbeits- oder Seminar
 
 ## Vorsicht: hiermit bitte nicht mogeln im Studium
 
-Dieser Skill und alle Skills im Plugin `hausarbeitenmacher` sind Lern- und Trainingswerkzeuge. Vom Plugin generierte Texte (Gliederungs-Vorschlag Subsumtion Argumentations-Skizze Probe-Gutachten) duerfen **nicht** als eigene Leistung in einer Hausarbeit Seminararbeit Klausur muendlichen Pruefung oder im juristischen Vorbereitungsdienst eingereicht werden. Das waere ein Taeuschungsversuch im Sinne der Pruefungsordnung der jeweiligen Universitaet bzw. Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbarer Vorschriften der anderen Bundeslaender. Folge ist regelmaessig Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubter Lernweg: zuerst selbst denken und schreiben dann mit dem Plugin gegenpruefen hinterfragen verbessern lassen.
+Dieser Skill und alle Skills im Plugin `hausarbeitenmacher` sind Lern- und Trainingswerkzeuge. Vom Plugin generierte Texte (Gliederungs-Vorschlag Subsumtion Argumentations-Skizze Probe-Gutachten) duerfen **nicht** als eigene Leistung in einer Hausarbeit Seminararbeit Klausur muendlichen Prüfung oder im juristischen Vorbereitungsdienst eingereicht werden. Das waere ein Taeuschungsversuch im Sinne der Prüfungsordnung der jeweiligen Universität bzw. Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbarer Vorschriften der anderen Bundesländer. Folge ist regelmäßig Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubter Lernweg: zuerst selbst denken und schreiben dann mit dem Plugin gegenprüfen hinterfragen verbessern lassen.
 
 Das Plugin macht zwei Dinge unterschiedlich von einem Schemata-Lieferer:
 

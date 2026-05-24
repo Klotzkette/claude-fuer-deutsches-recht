@@ -265,7 +265,7 @@ Drei Faktoren nach § 16 ff. BauNVO:
 - Eingriffs-Ausgleichs-Bilanz nach § 18 BNatSchG
 - Festsetzung Vermeidungs-, Minderungs- und Ausgleichs-Maßnahmen
 
-## Schritt 10 — Pruefraster für Mandanten-Vertretung
+## Schritt 10 — Prüfraster für Mandanten-Vertretung
 
 ### Schritt 10.1 — Festsetzungs-Inventar
 
@@ -275,7 +275,7 @@ Drei Faktoren nach § 16 ff. BauNVO:
 ### Schritt 10.2 — Außerhalb-Katalog-Prüfung
 
 - Sind Festsetzungen ohne erkennbare Rechtsgrundlage in § 9 BauGB?
-- Bei Verstoss: Teil-Nichtigkeit / Gesamt-Nichtigkeit?
+- Bei Verstoß: Teil-Nichtigkeit / Gesamt-Nichtigkeit?
 
 ### Schritt 10.3 — Höchstgrenzen-Prüfung § 17 BauNVO
 

@@ -11,26 +11,26 @@ description: "Trainerleitfaden Schulung Legistik mit der Schulungsakte elektroni
 
 Nach Abschluss der Schulung koennen die Teilnehmenden:
 
-1. **Auftragsaufnahme** - eine politische Vorgabe in operationalisierbare Regelungsziele uebersetzen
-2. **Norm-Routing** - die richtige Norm-Ebene waehlen
-3. **Verfassung quer pruefen** - Grundrechte, Kompetenzen, Wesentlichkeit
-4. **Europarecht quer pruefen** - Primaerrecht, Sekundaerrecht, Notifizierung
-5. **Referentenentwurf bauen** - Format, Aenderungsbefehle, Inkrafttreten
-6. **Begruendung schreiben** - allgemeiner und besonderer Teil
+1. **Auftragsaufnahme** - eine politische Vorgabe in operationalisierbare Regelungsziele übersetzen
+2. **Norm-Routing** - die richtige Norm-Ebene wählen
+3. **Verfassung quer prüfen** - Grundrechte, Kompetenzen, Wesentlichkeit
+4. **Europarecht quer prüfen** - Primärrecht, Sekundärrecht, Notifizierung
+5. **Referentenentwurf bauen** - Format, Änderungsbefehle, Inkrafttreten
+6. **Begründung schreiben** - allgemeiner und besonderer Teil
 7. **Synopse erstellen** - dreispaltig
-8. **Folgenabschaetzung** - Erfuellungsaufwand und Nachhaltigkeit
+8. **Folgenabschätzung** - Erfüllungsaufwand und Nachhaltigkeit
 9. **NKR-Vorlage** - Erstellung
 10. **Goldplating erkennen und vermeiden**
 
 ## Schulungsakte
 
-Politische Vorgabe: "Jede im Handelsregister eingetragene Gesellschaft sowie alle nach DSA als VLOP oder VLOSE eingestuften Unternehmen muessen ein elektronisches Pflichtpostfach vorhalten."
+Politische Vorgabe: "Jede im Handelsregister eingetragene Gesellschaft sowie alle nach DSA als VLOP oder VLOSE eingestuften Unternehmen müssen ein elektronisches Pflichtpostfach vorhalten."
 
-Akte enthaelt:
+Akte enthält:
 - Auftragsblatt aus Koalitionsvertrag-Auszug
 - Bestehende Normen-Sammlung (HGB, ZPO, FamFG, DSA, eIDAS)
 - Synopsen-Vorlage
-- Begruendungs-Vorlage
+- Begründungs-Vorlage
 - XML-Beispiel
 - NKR-Vorlage
 
@@ -42,11 +42,11 @@ Skill `legistik-auftragsaufnahme`. Teilnehmende fuellen Auftragsblatt aus.
 
 ### Station 2 - Norm-Routing (45 Min)
 
-Skill `normhierarchie-routing`. Entscheidung: HGB-Aenderung als Hauptort, plus FamFG und ZPO als Folge.
+Skill `normhierarchie-routing`. Entscheidung: HGB-Änderung als Hauptort, plus FamFG und ZPO als Folge.
 
 ### Station 3 - Kompetenz / Verordnung (45 Min)
 
-Skill `gesetzgebungskompetenz-pruefen`. Art. 74 Nr. 11 GG (Recht der Wirtschaft) plus Nr. 1 (Buergerliches Recht).
+Skill `gesetzgebungskompetenz-pruefen`. Art. 74 Nr. 11 GG (Recht der Wirtschaft) plus Nr. 1 (Bürgerliches Recht).
 
 ### Station 4 - Verfassung-Quercheck (60 Min)
 
@@ -54,9 +54,9 @@ Skill `verfassungsmaessigkeit-quercheck`. Grundrechte: Art. 12 Berufsfreiheit (U
 
 ### Station 5 - Europarecht-Quercheck (90 Min)
 
-Skill `europarechtskonformitaet`. DSA, eIDAS 2.0, Notifizierung 2015/1535. Goldplating-Pruefung Skill `goldplating-vermeiden`.
+Skill `europarechtskonformitaet`. DSA, eIDAS 2.0, Notifizierung 2015/1535. Goldplating-Prüfung Skill `goldplating-vermeiden`.
 
-### Station 6 - Entwurf und Begruendung (120 Min)
+### Station 6 - Entwurf und Begründung (120 Min)
 
 Skills `referentenentwurf-bauen` und `begruendung-allgemein-und-besonders`. Teilnehmende formulieren Paragraf 33a HGB neu.
 
@@ -68,7 +68,7 @@ Skills `synopse-erstellen` und `lesefassung-konsolidiert`.
 
 Skill `xml-paralleldarstellung`. Optional - nur wenn Zielgruppe IT-affin.
 
-### Station 9 - Folgenabschaetzung (60 Min)
+### Station 9 - Folgenabschätzung (60 Min)
 
 Skills `folgenabschaetzung-erfuellungsaufwand` und `folgenabschaetzung-nachhaltigkeit`.
 
@@ -82,25 +82,25 @@ Diskussion: wann ist strenger als EU OK? Wann nicht?
 
 ### Station 12 - Plenum Abschluss (45 Min)
 
-Skill `schulung-legistik`. Was wuerden Sie anders machen?
+Skill `schulung-legistik`. Was würden Sie anders machen?
 
-## Musterloesungen
+## Musterlösungen
 
 Siehe Testakte `legistik-pflichtpostfach`.
 
 ## Stolperfallen-Sammlung
 
-- Norm-Ebene falsch gewaehlt (Wesentlichkeit uebersehen)
-- Notifizierung 2015/1535 uebersehen
+- Norm-Ebene falsch gewählt (Wesentlichkeit übersehen)
+- Notifizierung 2015/1535 übersehen
 - Goldplating begangen ohne Bewusstsein
-- Erfuellungsaufwand zu niedrig geschaetzt
-- Bestimmtheitsgebot bei Schwellenwerten verletzt ("ab einer gewissen Groesse")
+- Erfüllungsaufwand zu niedrig geschätzt
+- Bestimmtheitsgebot bei Schwellenwerten verletzt ("ab einer gewissen Größe")
 - Verweis-Schleifen erst spaet entdeckt
 
 ## Materialliste
 
-- Drucker fuer Entwuerfe
+- Drucker für Entwuerfe
 - Whiteboard / Flipchart
-- ggf. Excel-Schulung fuer Synopsen-Tabellen
+- ggf. Excel-Schulung für Synopsen-Tabellen
 - HdR-PDF, GGO-PDF, NKRG-PDF
-- Smartphone fuer Online-Recherche in BGBl und Bundesanzeiger
+- Smartphone für Online-Recherche in BGBl und Bundesanzeiger

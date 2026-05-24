@@ -7,13 +7,13 @@ description: "Patent-Nichtigkeitsklage § 81 PatG vor Bundespatentgericht. Klage
 
 ## Zweck
 
-Klage auf Nichtigerklaerung eines Patents wegen ursprueglicher oder spaeterer Mangel.
+Klage auf Nichtigerklärung eines Patents wegen ursprueglicher oder späterer Mangel.
 
 ## 1) Eingangs-Abfrage
 
 1. Patent-Art: DE-Patent, EP-Patent (klassisch), Einheitspatent EPG?
 2. Bestehende Verletzungs-Streitigkeit?
-3. Stand der Technik bekannt (Vorveroeffentlichung, Vorbenutzung)?
+3. Stand der Technik bekannt (Vorveröffentlichung, Vorbenutzung)?
 4. Patent-Anmelder, -Inhaber?
 5. Eigenes Patent (Defensiv) oder fremdes Patent (Offensiv)?
 
@@ -21,17 +21,17 @@ Klage auf Nichtigerklaerung eines Patents wegen ursprueglicher oder spaeterer Ma
 
 | Grund | Inhalt |
 |---|---|
-| Mangelnde Patentfaehigkeit § 1 PatG | Erfindung nicht neu / nicht erfinderisch |
-| Mangelnde Neuheit § 3 PatG | Veroeffentlichung vor Anmeldungs-Datum |
-| Fehlende Erfindungshoehe § 4 PatG | „Naheliegend" fuer Fachmann |
-| Ungenuegende Offenbarung § 21 I Nr. 2 PatG | Fachmann kann Erfindung nicht ausfuehren |
-| Erweiterung Schutzbereich § 21 I Nr. 4 PatG | Schutzbereich ueber urspruenglich Offenbartes erweitert |
+| Mangelnde Patentfähigkeit § 1 PatG | Erfindung nicht neu / nicht erfinderisch |
+| Mangelnde Neuheit § 3 PatG | Veröffentlichung vor Anmeldungs-Datum |
+| Fehlende Erfindungshöhe § 4 PatG | „Naheliegend" für Fachmann |
+| Ungenügende Offenbarung § 21 I Nr. 2 PatG | Fachmann kann Erfindung nicht ausführen |
+| Erweiterung Schutzbereich § 21 I Nr. 4 PatG | Schutzbereich über urspruenglich Offenbartes erweitert |
 
 ## 3) Stand der Technik (SdT)
 
 ### Begriff § 3 PatG
 
-- Alles, was vor Anmeldungs-Tag der Oeffentlichkeit zugaenglich
+- Alles, was vor Anmeldungs-Tag der Öffentlichkeit zugaenglich
 - Schriftliche, muendliche Offenbarung, Vorbenutzung
 - Welt-Stand-Begriff
 
@@ -45,14 +45,14 @@ Klage auf Nichtigerklaerung eines Patents wegen ursprueglicher oder spaeterer Ma
 
 ### Beweis-Niveau
 
-- Veroeffentlichungs-Datum eindeutig (Indizierung, Bibliotheks-Stempel)
-- Erfindungs-Inhalt vollstaendig offenbart
+- Veröffentlichungs-Datum eindeutig (Indizierung, Bibliotheks-Stempel)
+- Erfindungs-Inhalt vollständig offenbart
 
-## 4) Zustaendigkeit
+## 4) Zuständigkeit
 
 ### Bundespatentgericht Muenchen
 
-- DE-Patente und EP-Patente fuer DE (klassischer Teil)
+- DE-Patente und EP-Patente für DE (klassischer Teil)
 - Nichtigkeits-Senate
 
 ### EPG / UPC (Einheitliches Patentgericht)
@@ -85,7 +85,7 @@ Klage auf Nichtigerklaerung eines Patents wegen ursprueglicher oder spaeterer Ma
 
 - BPatG Muenchen
 - Klagegebuehr (nach Streitwert)
-- Vorschuss Sachverstaendiger ggf.
+- Vorschuss Sachverständiger ggf.
 
 ### Phase 4 — Verfahren
 
@@ -102,16 +102,16 @@ Klage auf Nichtigerklaerung eines Patents wegen ursprueglicher oder spaeterer Ma
 - Verfahren bleibt mit eingeschraenktem Schutzbereich
 - Strategie: zentrale Anspruche schuetzen, peripheres aufgeben
 
-### Hilfsantraege
+### Hilfsanträge
 
 - Mehrere Beschraenkungs-Varianten
-- BPatG prueft schrittweise
+- BPatG prüft schrittweise
 
 ## 7) Kosten
 
 - Streitwert: oft 500 K - mehrere Mio. EUR
 - Anwaltsgebuehren nach RVG
-- Sachverstaendige (Fachgutachten) 30-100 K
+- Sachverständige (Fachgutachten) 30-100 K
 - Patentanwalt parallel
 
 ## 8) Strategische Aspekte
@@ -129,19 +129,19 @@ Klage auf Nichtigerklaerung eines Patents wegen ursprueglicher oder spaeterer Ma
 
 ### EPG-Wahl (Opt-out)
 
-- Bei klassischem EP-Patent: Opt-out vom EPG bis 2030 moeglich
+- Bei klassischem EP-Patent: Opt-out vom EPG bis 2030 möglich
 - Strategie bei Patenten mit DE-Schwerpunkt: Opt-out ggf. sinnvoll
 
 ## 9) Typische Fehler
 
 1. **SdT-Recherche oberflaechlich** — Klage scheitert
 2. **Verletzungs-Verfahren parallel ignoriert** — Schaden trotz Nichtigkeit
-3. **Hilfsantraege nicht eingeplant** — Verteidigung verloren
-4. **EPG-Opt-out versaeumt** — Falscher Gerichtsstand
+3. **Hilfsanträge nicht eingeplant** — Verteidigung verloren
+4. **EPG-Opt-out versäumt** — Falscher Gerichtsstand
 
 ## 10) BGH-/BPatG-Linien
 
-- BGH, Urt. v. 18.6.2009 — Xa ZR 17/06 (Erfindungshoehe)
+- BGH, Urt. v. 18.6.2009 — Xa ZR 17/06 (Erfindungshöhe)
 - BGH, Urt. v. 10.5.2011 — X ZR 16/09 (Schutzbereichs-Erweiterung)
 - BPatG laufende Nichtigkeits-Rspr.
 

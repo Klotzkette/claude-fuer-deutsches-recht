@@ -9,7 +9,7 @@ description: "Anklage-Erhebung § 199 StPO Eroeffnungs-Verfahren Pruefung hinrei
 
 Anwaltliche Reaktion auf eingereichte Anklage.
 
-## 1) Anklage-Pruefung
+## 1) Anklage-Prüfung
 
 ### Pflicht-Inhalte § 200 StPO
 
@@ -21,17 +21,17 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 
 ### Mangelhafte Anklage
 
-- Bei Form-Mangel: Eroeffnungs-Antrag-Verweigerung
+- Bei Form-Mangel: Eröffnungs-Antrag-Verweigerung
 - Bei Unbestimmtheit: Spezialisierungs-Antrag
 
-## 2) Eroeffnungs-Verfahren §§ 199-207 StPO
+## 2) Eröffnungs-Verfahren §§ 199-207 StPO
 
 ### Schwurgericht
 
-- Pruefung hinreichender Tatverdacht
+- Prüfung hinreichender Tatverdacht
 - Wahrscheinlichkeit Verurteilung > Freispruch
 
-### Eroeffnungs-Beschluss
+### Eröffnungs-Beschluss
 
 - Beschluss zur Hauptverhandlung
 - Anfechtbar nicht direkt
@@ -41,17 +41,17 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 - Bei mangelndem Tatverdacht
 - Verfahrens-Einstellung
 
-## 3) Einstellungs-Antraege
+## 3) Einstellungs-Anträge
 
 ### § 153 StPO — Geringfuegigkeit
 
 - Geringe Schuld
-- Kein oeffentliches Interesse
+- Kein öffentliches Interesse
 - Ohne Auflage
 
 ### § 153a StPO — Mit Auflage
 
-- Geldzahlung an gemeinnuetzige Einrichtung
+- Geldzahlung an gemeinnützige Einrichtung
 - Wiedergutmachung
 - Therapie
 - Sozialstunden
@@ -62,15 +62,15 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 - Kein Strafregister-Eintrag (bei § 153 StPO; bei 153a teils ja)
 - Schnelle Verfahrens-Beendigung
 
-## 4) Beweis-Antraege § 244 StPO
+## 4) Beweis-Anträge § 244 StPO
 
 ### Pflicht-Beweisantrag
 
 - Konkretes Beweisthema
 - Bestimmtes Beweismittel
-- Pruefungs-Pflicht Gericht
+- Prüfungs-Pflicht Gericht
 
-### Ablehnungs-Gruende § 244 III StPO
+### Ablehnungs-Gründe § 244 III StPO
 
 - Bewiesen / widerlegt
 - Unerheblich
@@ -79,15 +79,15 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 
 ## 5) Hauptverhandlungs-Vorbereitung
 
-### Sachverstaendigen-Pruefung
+### Sachverständigen-Prüfung
 
 - Bei medizinischen / technischen Fragen
-- Eigen-Sachverstaendiger
+- Eigen-Sachverständiger
 - Antrag auf gerichtlichen SV
 
-### Zeugen-Pruefung
+### Zeugen-Prüfung
 
-- Glaubwuerdigkeits-Analyse
+- Glaubwürdigkeits-Analyse
 - Aussage-Konstanz
 - Indirekte Beweise
 
@@ -101,15 +101,15 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 
 ### Phase 1 — Anklage-Auswertung
 
-- Vollstaendige Akteneinsicht
+- Vollständige Akteneinsicht
 - Beweis-Sichtung
 - Schwachstellen-Identifikation
 
-### Phase 2 — Vorab-Antraege
+### Phase 2 — Vorab-Anträge
 
-- Beweisantraege
-- Einstellungs-Antraege
-- Befangenheits-Antraege
+- Beweisanträge
+- Einstellungs-Anträge
+- Befangenheits-Anträge
 
 ### Phase 3 — Hauptverhandlung
 
@@ -119,17 +119,17 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 
 ### Phase 4 — Urteil
 
-- Begruendung erfassen
+- Begründung erfassen
 - Berufungs-Strategie
 
 ## 7) Strafmass-Reduzierung
 
-### Strafzumessungs-Gruende § 46 StGB
+### Strafzumessungs-Gründe § 46 StGB
 
 - Schwere der Tat
 - Vorleben
 - Geschaedigten-Beziehung
-- Bewaehrung-Aussicht
+- Bewährung-Aussicht
 
 ### Praktische Aspekte
 
@@ -144,7 +144,7 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 
 - Frist 1 Woche
 - Schriftform
-- Begruendung beim Berufungsgericht (LG)
+- Begründung beim Berufungsgericht (LG)
 
 ### Strategie
 
@@ -154,15 +154,15 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 ## 9) Revision § 333 StPO
 
 - Frist 1 Woche
-- Rechtsfehler-Pruefung (nicht Tatsachen!)
+- Rechtsfehler-Prüfung (nicht Tatsachen!)
 - BGH oder OLG
 
 ## 10) Typische Fehler
 
-1. **Beweisantraege zu pauschal** -> Ablehnung
-2. **Einstellungs-Antrag versaeumt** zur richtigen Zeit
+1. **Beweisanträge zu pauschal** -> Ablehnung
+2. **Einstellungs-Antrag versäumt** zur richtigen Zeit
 3. **Schadens-Wiedergutmachung erst in HV**
-4. **Berufungs-Frist 1 Woche versaeumt**
+4. **Berufungs-Frist 1 Woche versäumt**
 5. **Revision auf Tatsachen-Fragen** falsch begrenzt
 
 ## Anschluss

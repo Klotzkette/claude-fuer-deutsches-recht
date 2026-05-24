@@ -7,7 +7,7 @@ description: "Definiert die dritte Wuerfel-Achse — Arbeitsblaetter als Perspek
 
 ## Zweck
 
-Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt dieses Bild: dieselben Dokumente (Zeilen) werden mehrfach geprueft, jedes Mal aus einer anderen Perspektive (Arbeitsblatt). Die Spalten sind je Arbeitsblatt zum Teil deckungsgleich (vergleichbare Datenpunkte) und zum Teil arbeitsblattspezifisch.
+Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt dieses Bild: dieselben Dokumente (Zeilen) werden mehrfach geprüft, jedes Mal aus einer anderen Perspektive (Arbeitsblatt). Die Spalten sind je Arbeitsblatt zum Teil deckungsgleich (vergleichbare Datenpunkte) und zum Teil arbeitsblattspezifisch.
 
 ## Standard-Perspektiven
 
@@ -73,7 +73,7 @@ Excel kann mehrere Tabellenblaetter nebeneinander. Der 3D-Würfel übernimmt die
 
 ## Stapelung
 
-Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander dargestellt. Im PDF-Bericht erscheinen sie als aufeinanderfolgende Abschnitte. In `kreuzblatt-konsistenzpruefung` werden Widersprueche zwischen Arbeitsblättern gefunden (z. B. ein Vertrag der rechtlich gruen aber wirtschaftlich rot ist — das ist legitim und soll markiert werden).
+Die Arbeitsblätter werden in der Excel-Ausgabe als Tabellenreiter nebeneinander dargestellt. Im PDF-Bericht erscheinen sie als aufeinanderfolgende Abschnitte. In `kreuzblatt-konsistenzpruefung` werden Widersprüche zwischen Arbeitsblättern gefunden (z. B. ein Vertrag der rechtlich grün aber wirtschaftlich rot ist — das ist legitim und soll markiert werden).
 
 ## Ausgabe
 

@@ -1,8 +1,8 @@
-# Offizielle Mietspiegel-Quellen — Bundeslaender und 20 größte Städte
+# Offizielle Mietspiegel-Quellen — Bundesländer und 20 größte Städte
 
-Diese Referenz fuehrt ausschliesslich amtliche Quellen (Bundesministerien, Landesministerien, Landesaemter, Stadtverwaltungen). Private Anbieter (Conny, Mietwucher-Rechner, immowelt usw.) sind ausdruecklich ausgeklammert — auch wenn sie methodisch den gleichen Datenpool nutzen.
+Diese Referenz führt ausschließlich amtliche Quellen (Bundesministerien, Landesministerien, Landesaemter, Stadtverwaltungen). Private Anbieter (Conny, Mietwucher-Rechner, immowelt usw.) sind ausdruecklich ausgeklammert — auch wenn sie methodisch den gleichen Datenpool nutzen.
 
-Stand der Recherche: Mai 2026. Da Mietspiegel jaehrlich oder zweijaehrlich fortgeschrieben werden und Landesverordnungen (Mietpreisbremse, Kappungsgrenze, Kündigungssperrfrist) regelmäßig verlaengert oder neu erlassen werden, ist vor jedem Verwendungsfall die jeweilige amtliche Quelle auf Aktualitaet zu prüfen.
+Stand der Recherche: Mai 2026. Da Mietspiegel jaehrlich oder zweijaehrlich fortgeschrieben werden und Landesverordnungen (Mietpreisbremse, Kappungsgrenze, Kündigungssperrfrist) regelmäßig verlaengert oder neu erlassen werden, ist vor jedem Verwendungsfall die jeweilige amtliche Quelle auf Aktualität zu prüfen.
 
 ## Bundesweite Rechtsgrundlagen
 
@@ -13,10 +13,10 @@ Stand der Recherche: Mai 2026. Da Mietspiegel jaehrlich oder zweijaehrlich fortg
 - [WoFlV — Wohnflächenverordnung](https://www.gesetze-im-internet.de/woflv/)
 - [HeizkostenV](https://www.gesetze-im-internet.de/heizkostenv/)
 - [MsV — Mietspiegelverordnung](https://www.gesetze-im-internet.de/msv_2021/)
-- [§ 5 WiStG — Mietpreisueberhoehung](https://www.gesetze-im-internet.de/wistrg_1954/__5.html)
+- [§ 5 WiStG — Mietpreisüberhöhung](https://www.gesetze-im-internet.de/wistrg_1954/__5.html)
 - [§ 291 StGB — Wucher](https://www.gesetze-im-internet.de/stgb/__291.html)
 
-## Bundeslaender
+## Bundesländer
 
 Pro Bundesland: Rechtslage, landesweite offizielle Quelle, Städte mit Mietspiegel, Mietenbegrenzungs-/Kappungsgrenzen-/Kündigungssperrfristverordnung.
 
@@ -464,9 +464,9 @@ Pro Stadt: Typ (qualifiziert/einfach), aktueller Stand, offizielle URL, Online-A
 
 **Besonderheiten.** Die Mietpreisbremse gilt in Nürnberg ab 01.01.2026 nach der bayerischen Mieterschutzverordnung; zugleich gilt die abgesenkte Kappungsgrenze von 15 % in drei Jahren sowie die verlängerte Kündigungssperrfrist von 10 Jahren bei Umwandlung. Herausgebende/mitwirkende Stelle ist die Stadt Nürnberg (Stab Wohnen im Wirtschafts- und Wissenschaftsreferat) gemeinsam mit dem Amt für Stadtforschung und Statistik sowie Mieter- und Vermieterverbänden. Der Mietspiegel gilt für freifinanzierte Wohnungen, weist Nettokaltmieten aus und nennt eine Spannbreite von +/- 23 % um den Mittelwert.
 
-## Universitaetsstädte
+## Universitätsstädte
 
-Universitaetsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nachfrage). Alphabetisch sortiert. Quellen ausschliesslich amtlich (Stadtverwaltung, Landesministerium).
+Universitätsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nachfrage). Alphabetisch sortiert. Quellen ausschließlich amtlich (Stadtverwaltung, Landesministerium).
 
 ### Bamberg
 
@@ -818,11 +818,11 @@ Universitaetsstädte mit besonders angespanntem Wohnungsmarkt (Studierenden-Nach
 
 **Besonderheiten.** Die Stadt Würzburg weist ausdrücklich auf einen angespannten Wohnungsmarkt hin; für das Stadtgebiet gelten laut städtischer Mietspiegelseite die bayerische Mieterschutzverordnung mit reduzierter Kappungsgrenze bei Mieterhöhungen sowie die Mietpreisbremse bei Neuvermietungen. Herausgeberin ist die Stadt Würzburg; Erstellung und Fortschreibung erfolgten durch das EMA-Institut für empirische Marktanalysen, Regensburg, im Arbeitskreis Mietspiegel mit Beteiligung u. a. von Haus und Grund sowie Mieterverein. Die städtische Seite nennt als Gültigkeit der Fortschreibung 2025 zwei Jahre ab Veröffentlichung (bis 01.09.2027) und bietet auch eine Druckversion im Rathaus und in der Stadtbücherei an.
 
-## Pruefroutine vor jeder Verwendung
+## Prüfroutine vor jeder Verwendung
 
-1. **Aktualitaet prüfen.** Pruefe auf der amtlichen Stadt- oder Landesseite, ob seit Mai 2026 ein neuer Mietspiegel oder eine neue Mietenbegrenzungsverordnung erschienen ist.
-2. **Wohnlagen-Zuordnung.** Adresse in das amtliche Strassenverzeichnis / Geoportal der Stadt eingeben — die Wohnlage (einfach / mittel / gut) entscheidet über die Tabellenwerte.
-3. **Ausstattung erfassen.** Bad, Kueche, Heizung, Wohnung (Bodenbelag, Fenster, Balkon), Gebaeude (Aufzug, Stellplatz) — vgl. Sondermerkmals-Katalog des jeweiligen Mietspiegels.
+1. **Aktualität prüfen.** Pruefe auf der amtlichen Stadt- oder Landesseite, ob seit Mai 2026 ein neuer Mietspiegel oder eine neue Mietenbegrenzungsverordnung erschienen ist.
+2. **Wohnlagen-Zuordnung.** Adresse in das amtliche Straßenverzeichnis / Geoportal der Stadt eingeben — die Wohnlage (einfach / mittel / gut) entscheidet über die Tabellenwerte.
+3. **Ausstattung erfassen.** Bad, Küche, Heizung, Wohnung (Bodenbelag, Fenster, Balkon), Gebäude (Aufzug, Stellplatz) — vgl. Sondermerkmals-Katalog des jeweiligen Mietspiegels.
 4. **Spanne und Mittelwert ablesen.** In allen qualifizierten Mietspiegeln gibt es Spannen-Tabellen plus Orientierungshilfe für die Einordnung innerhalb der Spanne.
 5. **Mietpreisbremse prüfen.** Bei Neuvermietung: liegt die Wohnung in einem Gebiet mit angespanntem Wohnungsmarkt nach Landesverordnung? Dann maximal 10 % über ortsüblicher Vergleichsmiete (§ 556d Abs. 1 BGB).
 6. **Kappungsgrenze prüfen.** Bei Bestandsmiete: maximal 20 % oder — in den Gebieten der Kappungsgrenzenverordnung — 15 % in drei Jahren (§ 558 Abs. 3 BGB).

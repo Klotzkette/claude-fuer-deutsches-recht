@@ -9,7 +9,7 @@ description: Plausibilisiert die in `annahmen-sammeln-fortfuehrung` gesammelten 
 
 ### 1. Vergangenheits-Vergleich
 
-- Stimmt die Annahme mit den **letzten drei Jahren** der BWA / SuSa / Jahresabschluss ueberein?
+- Stimmt die Annahme mit den **letzten drei Jahren** der BWA / SuSa / Jahresabschluss überein?
 - Bei Abweichung: ist die Veränderung **konkret begründet** (neuer Kunde Standortschliessung Tariferhöhung)?
 - Bei stark abweichender Optimismus-Annahme **ohne neuen Anlass**: Reduktion auf historisches Niveau im Plausi-Szenario.
 
@@ -80,7 +80,7 @@ Eine Fortbestehensprognose ist nicht der Ort für Optimismus. **IDW S 11** und *
 - Bei Zweifeln: **konservative** Annahmen wählen.
 - Wenn eine Annahme **ambitioniert** oder **nicht-belastbar** ist und entscheidend für das Prognoseergebnis ist: das Ergebnis ist **nicht verwertbar** als positive Fortbestehensprognose. Maßnahme: entweder Belegbarkeit nachholen oder Annahme entfernen.
 
-## Sensitivitaetsszenarien
+## Sensitivitätsszenarien
 
 ```yaml
 szenarien:
@@ -109,7 +109,7 @@ Wenn der Status stille Reserven enthält (Skill `bilanzieller-status-aufnehmen`)
 
 - Verkehrswert-Gutachten vorhanden?
 - Realistisch verkaufbar im Planhorizont?
-- Auswirkung auf den Betrieb (z. B. Verkauf einer Maschine fuehrt zu Produktionsausfall)?
+- Auswirkung auf den Betrieb (z. B. Verkauf einer Maschine führt zu Produktionsausfall)?
 
 ### Comfortletter
 

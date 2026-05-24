@@ -7,19 +7,19 @@ description: "Lizenzvertrag Urheberrecht ausschliessliche / nicht-ausschliesslic
 
 ## Zweck
 
-Verhandlung Lizenz-Vertrag fuer urheberrechtlich geschuetzte Werke.
+Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 
 ## 1) Lizenz-Arten § 31 UrhG
 
-### Ausschliessliches Nutzungsrecht
+### Ausschließliches Nutzungsrecht
 
 - Lizenznehmer allein
-- Auch ohne Urheber moeglich
+- Auch ohne Urheber möglich
 - Schutz gegen Dritte
 
 ### Einfaches Nutzungsrecht
 
-- Mehrere Lizenznehmer moeglich
+- Mehrere Lizenznehmer möglich
 - Keine Ausschliessung Dritter
 
 ## 2) Lizenz-Reichweite
@@ -37,32 +37,32 @@ Verhandlung Lizenz-Vertrag fuer urheberrechtlich geschuetzte Werke.
 ### Zeitlich
 
 - Befristet oder unbegrenzt
-- Verlaengerungs-Option
+- Verlängerungs-Option
 
 ### Sprachlich / Medial
 
 - Sprache des Werks
 - Medium (Print, Digital, Audio)
 
-## 3) Vergueutung § 32 UrhG
+## 3) Vergütung § 32 UrhG
 
 ### Angemessenheit
 
 - BGH-Linie: Verkehrs-Wert
-- Bei sittenwidrig niedriger Verguetung: Anpassungs-Anspruch
+- Bei sittenwidrig niedriger Vergütung: Anpassungs-Anspruch
 
 ### Modelle
 
 - Pauschal
 - Fix-Betrag
 - Beteiligung (z.B. 10 % Umsatz)
-- Stueckweise (Verkaufs-Auflage)
+- Stückweise (Verkaufs-Auflage)
 
 ### Bestseller-Klausel § 32a UrhG
 
-- Bei Erfolg ueber Erwartung: Nach-Verguetung
+- Bei Erfolg über Erwartung: Nach-Vergütung
 
-### Vergueutungs-Verhandlung kollektiv
+### Vergütungs-Verhandlung kollektiv
 
 - VG Wort, VG Bild-Kunst
 - GEMA bei Musik
@@ -72,17 +72,17 @@ Verhandlung Lizenz-Vertrag fuer urheberrechtlich geschuetzte Werke.
 
 ### Verwertungs-Pflicht
 
-- Bei ausschliesslicher Lizenz: Pflicht zur Verwertung
-- Bei Nicht-Verwertung: Rueckruf-Recht § 41 UrhG
+- Bei ausschließlicher Lizenz: Pflicht zur Verwertung
+- Bei Nicht-Verwertung: Rückruf-Recht § 41 UrhG
 
 ### Abrechnungs-Pflicht
 
 - Jaehrliche Abrechnung
-- Pruefungs-Recht Urheber
+- Prüfungs-Recht Urheber
 
 ### Schutz des Werks
 
-- Veroeffentlichungs-Recht
+- Veröffentlichungs-Recht
 - Anonymitaet Urheber-Wunsch
 
 ## 5) Workflow
@@ -91,12 +91,12 @@ Verhandlung Lizenz-Vertrag fuer urheberrechtlich geschuetzte Werke.
 
 - Detail-Definition Werk
 - Verwertungs-Arten
-- Verguetungs-Modell
+- Vergütungs-Modell
 
 ### Phase 2 — Verhandlung
 
 - Marktvergleich
-- Schluesselbedingungen
+- Schlüsselbedingungen
 - Sonderrechte (Endorsement, Promotion)
 
 ### Phase 3 — Abschluss
@@ -106,22 +106,22 @@ Verhandlung Lizenz-Vertrag fuer urheberrechtlich geschuetzte Werke.
 
 ### Phase 4 — Laufende Pflichten
 
-- Abrechnungen pruefen
-- Bei Verstoss: Verzug-Mahnung
+- Abrechnungen prüfen
+- Bei Verstoß: Verzug-Mahnung
 
 ## 6) Vertragsbeendigung
 
-### Rueckruf § 41 UrhG (Nicht-Verwertung)
+### Rückruf § 41 UrhG (Nicht-Verwertung)
 
 - Nach 2 Jahren
 - Mit Frist
 
-### Rueckruf § 42 UrhG (gewandelte Ueberzeugung)
+### Rückruf § 42 UrhG (gewandelte Überzeugung)
 
 - Bei gewandelter UEberzeugung Urheber
 - Schadensersatz-Pflicht
 
-### Ordentliche Kuendigung
+### Ordentliche Kündigung
 
 - Vertraglich vereinbart
 
@@ -129,7 +129,7 @@ Verhandlung Lizenz-Vertrag fuer urheberrechtlich geschuetzte Werke.
 
 ### Buchverlag
 
-- Standard-Vertraege Verlag
+- Standard-Verträge Verlag
 - Verlag-Verband (VS)-Linie
 
 ### Filmproduktion
@@ -145,10 +145,10 @@ Verhandlung Lizenz-Vertrag fuer urheberrechtlich geschuetzte Werke.
 ## 8) Typische Fehler
 
 1. **Reichweite zu weit oder zu eng**
-2. **Vergueutung pauschal ohne Bestseller-Klausel**
-3. **Kuendigungs-Option fehlt**
-4. **Schriftform versaeumt bei kuenftigen Werken**
-5. **Lizenz-Kette nicht geprueft**
+2. **Vergütung pauschal ohne Bestseller-Klausel**
+3. **Kündigungs-Option fehlt**
+4. **Schriftform versäumt bei kuenftigen Werken**
+5. **Lizenz-Kette nicht geprüft**
 
 ## 9) BGH-Linien
 

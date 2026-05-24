@@ -27,7 +27,7 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 
 ### Anordnungsgrund
 
-- **Eilbeduerfnis** — wesentliche Nachteile drohen ohne Eilentscheidung.
+- **Eilbedürfnis** — wesentliche Nachteile drohen ohne Eilentscheidung.
 - Klassische Fälle: drohender Verlust der Wohnung Verlust der Krankenversicherung existenzielle Notlage Wegfall existenzsichernder Leistungen.
 - Bei existenzsichernden Leistungen (Bürgergeld Grundsicherung Asylbewerberleistungen) reduzierte Anforderungen — sog. existenznotsicherndes Eilverfahren (BVerfG-Rspr.).
 
@@ -39,7 +39,7 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 
 1. **Rubrum** wie Klage.
 2. **Antrag** auf einstweilige Anordnung oder aufschiebende Wirkung — konkret beziffert.
-3. **Sachverhalt** kurz mit Fokus auf Eilbeduerfnis.
+3. **Sachverhalt** kurz mit Fokus auf Eilbedürfnis.
 4. **Anordnungsanspruch** rechtliche Begründung der Erfolgsaussicht im Hauptverfahren.
 5. **Anordnungsgrund** Darstellung der wesentlichen Nachteile.
 6. **Glaubhaftmachung** mit eidesstattlicher Versicherung und Belegen.
@@ -47,7 +47,7 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 
 ## Frist und Form
 
-- Keine spezifische Antragsfrist — aber: je laenger gewartet wird desto schwerer ist das Eilbeduerfnis glaubhaft zu machen.
+- Keine spezifische Antragsfrist — aber: je laenger gewartet wird desto schwerer ist das Eilbedürfnis glaubhaft zu machen.
 - Form: schriftlich oder zur Niederschrift; bei RA über beA.
 
 ## Ausgabe
@@ -62,4 +62,4 @@ description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufsch
 
 ## Sonderregel existenzsichernde Leistungen
 
-Bei drohendem Wegfall von Bürgergeld oder Asylbewerberleistungen: das BVerfG hat wiederholt entschieden dass das Eilverfahren in diesen Fällen Grundrechtsverwirklichung des Art. 1 Abs. 1 GG iVm Art. 20 Abs. 1 GG dient (Existenzminimum). Die Anforderungen an die Glaubhaftmachung sind reduziert; das SG darf Leistungen vorlaeufig zusprechen wenn ohne sie das Existenzminimum nicht gesichert ist.
+Bei drohendem Wegfall von Bürgergeld oder Asylbewerberleistungen: das BVerfG hat wiederholt entschieden dass das Eilverfahren in diesen Fällen Grundrechtsverwirklichung des Art. 1 Abs. 1 GG iVm Art. 20 Abs. 1 GG dient (Existenzminimum). Die Anforderungen an die Glaubhaftmachung sind reduziert; das SG darf Leistungen vorläufig zusprechen wenn ohne sie das Existenzminimum nicht gesichert ist.

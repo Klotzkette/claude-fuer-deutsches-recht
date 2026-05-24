@@ -19,12 +19,12 @@ description: Eingliederungshilfe nach SGB IX Teil 2 (§§ 90 ff. SGB IX) Schulbe
 
 - **§ 35a SGB VIII** Eingliederungshilfe für seelisch behinderte Kinder und Jugendliche durch das Jugendamt — Abgrenzung zum SGB IX (koerperliche oder geistige Behinderung).
 
-### Schulgesetze der Laender
+### Schulgesetze der Länder
 
-- Inklusion und sonderpaedagogische Foerderung sind in den Schulgesetzen der Bundeslaender geregelt.
+- Inklusion und sonderpaedagogische Förderung sind in den Schulgesetzen der Bundesländer geregelt.
 - Grundsatz inklusiver Beschulung mit Wahlrecht der Eltern (BAG- und BVerwG-Rspr.).
 
-### Voelker- und Verfassungsrecht
+### Völker- und Verfassungsrecht
 
 - **UN-Behindertenrechtskonvention** (BGBl. II 2008 S. 1419) — Art. 24 Recht auf inklusive Bildung.
 - **Art. 3 Abs. 3 Satz 2 GG** Diskriminierungsverbot wegen Behinderung.
@@ -45,21 +45,21 @@ description: Eingliederungshilfe nach SGB IX Teil 2 (§§ 90 ff. SGB IX) Schulbe
 ### 3. Konkrete Hilfen
 
 - **Schulbegleitung / Integrationshelfer** — ständige Begleitung im Unterricht.
-- **Assistive Hilfsmittel** — Braille-Gerät Computer mit Sprachausgabe Hoeranlage.
+- **Assistive Hilfsmittel** — Braille-Gerät Computer mit Sprachausgabe Höranlage.
 - **Vorlesekraft / Vorlesegerät** für blinde oder sehbehinderte Schueler.
 - **Gebaerdensprachdolmetscher** bei gehoerlosen Schuelern.
-- **Therapeutische Foerderung** im schulischen Kontext (Ergotherapie Logopaedie als Eingliederungshilfe abgrenzbar zu SGB V).
+- **Therapeutische Förderung** im schulischen Kontext (Ergotherapie Logopaedie als Eingliederungshilfe abgrenzbar zu SGB V).
 
 ### 4. Antragsweg
 
-1. Antrag beim Eingliederungshilfetraeger (Land Landkreis) oder Jugendamt — abhängig von Art der Behinderung.
-2. Frist § 14 SGB IX — Zuständigkeitsklaerung binnen zwei Wochen.
+1. Antrag beim Eingliederungshilfeträger (Land Landkreis) oder Jugendamt — abhängig von Art der Behinderung.
+2. Frist § 14 SGB IX — Zuständigkeitsklärung binnen zwei Wochen.
 3. Frist § 18 SGB IX — Entscheidung binnen zwei Monaten ab Antragseingang.
 4. Bei Untätigkeit: Genehmigungsfiktion / Untätigkeitsklage § 88 SGG.
 
 ### 5. Schule und Schulrecht
 
-- Antrag auf sonderpaedagogische Foerderung beim staatlichen Schulamt parallel.
+- Antrag auf sonderpaedagogische Förderung beim staatlichen Schulamt parallel.
 - Bei Verweigerung inklusiver Beschulung: Verwaltungsverfahren / Klage zum Verwaltungsgericht (nicht Sozialgericht).
 
 ## Typische Ablehnungsgründe
@@ -70,9 +70,9 @@ description: Eingliederungshilfe nach SGB IX Teil 2 (§§ 90 ff. SGB IX) Schulbe
 
 ## Ausgabe
 
-- Bei Antrag: Antragsentwurf mit Anlagenliste (Schwerbehindertenausweis aerztliche Gutachten schulischer Foerderbedarf).
+- Bei Antrag: Antragsentwurf mit Anlagenliste (Schwerbehindertenausweis ärztliche Gutachten schulischer Foerderbedarf).
 - Bei Ablehnung: Widerspruch über Skill `widerspruch-formulieren`.
-- Bei Eilbeduerftigkeit (drohendes Schuljahr Schulausschluss): Eilantrag § 86b SGG.
+- Bei Eilbedürftigkeit (drohendes Schuljahr Schulausschluss): Eilantrag § 86b SGG.
 
 ## Schnittstelle zu anderen Plugins
 

@@ -7,7 +7,7 @@ description: "Versorgungsausgleich VersAusglG seit 2009. Hin- und Herrechnung im
 
 ## Zweck
 
-Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgungs-Anrechte. Standard im Scheidungsverbund.
+Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgungs-Anrechte. Standard im Scheidungsverbund.
 
 ## 1) Eingangs-Abfrage
 
@@ -16,7 +16,7 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 3. Beamten-Status?
 4. Eheschliessung im Ausland?
 5. Ausgleichs-Anspruch Verzicht in Ehevertrag?
-6. Hoehe Anrechte (Renten-Punkte)?
+6. Höhe Anrechte (Renten-Punkte)?
 
 ## 2) Rechtsgrundlagen
 
@@ -24,7 +24,7 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 - Vorher: Splitting / Quasi-Splitting -> heute Halbteilung
 - **§ 1 VersAusglG**: Pflicht zur Halbteilung
 - **§ 6 VersAusglG**: Vertragliche Modifikationen (Ehevertrag)
-- **§ 27 VersAusglG**: Haerteklausel
+- **§ 27 VersAusglG**: Härteklausel
 
 ## 3) Ehezeit-Begriff § 3 VersAusglG
 
@@ -38,7 +38,7 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 ### Gesetzliche Rentenversicherung
 
 - Auskunft DRV mit Renten-Punkten
-- Halbteilung der waehrend Ehezeit erworbenen Punkte
+- Halbteilung der während Ehezeit erworbenen Punkte
 
 ### Beamten-Versorgung
 
@@ -48,7 +48,7 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 ### Betriebliche Altersversorgung
 
 - Direktzusage: typisch interne Teilung
-- Pensionskasse / Pensionsfonds: extern moeglich
+- Pensionskasse / Pensionsfonds: extern möglich
 - Direktversicherung: typisch externe Teilung
 
 ### Private Renten (Riester, Ruerup, klassische LV)
@@ -67,15 +67,15 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 ### Externe Teilung § 14 VersAusglG
 
 - Bei kleinem Wert (< 84 EUR/Monat Rente, Stand 2024)
-- Auf Antrag des Versorgungs-Traegers
-- Ausgleichswert wird in Ziel-Versorgung uebertragen (DRV oder eigene Wahl)
+- Auf Antrag des Versorgungs-Trägers
+- Ausgleichswert wird in Ziel-Versorgung übertragen (DRV oder eigene Wahl)
 - BGH-Linie 2020 zur Verzinsung bei externer Teilung
 
 ## 6) Berechnung
 
 ### Ausgleichswert
 
-- Pro Anrecht: Halftung des waehrend Ehezeit erworbenen Wertes
+- Pro Anrecht: Halftung des während Ehezeit erworbenen Wertes
 - Korrespondierender Kapitalwert nach Bewertungsregeln
 
 ### Mehrwert-Faktor
@@ -89,9 +89,9 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 
 - Notarielle Form
 - Kontrolle § 138 BGB (Sittenwidrigkeit)
-- BGH-Linie zur Wirksamkeitspruefung bei Inkompetenz / Druck
+- BGH-Linie zur Wirksamkeitsprüfung bei Inkompetenz / Druck
 
-### Haerteklausel § 27 VersAusglG
+### Härteklausel § 27 VersAusglG
 
 - Grobe Unbilligkeit bei kurzer Ehe (< 3 Jahre)
 - Bei wesentlicher Wert-Disproportion
@@ -103,34 +103,34 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 
 - FamG fordert von beiden Eheleuten Versorgungs-Auskunft
 - Eheleute reichen Formular V10 ein
-- Versorgungs-Traeger antwortet binnen 3-6 Monaten
+- Versorgungs-Träger antwortet binnen 3-6 Monaten
 
 ### Phase 2 — Berechnung
 
 - FamG erstellt VA-Beschluss-Entwurf
-- Beide Anwaelte ueberpruefen Auskuenfte
-- Bei Streit: Sachverstaendiger
+- Beide Anwälte überprüfen Auskuenfte
+- Bei Streit: Sachverständiger
 
 ### Phase 3 — Beschluss
 
-- FamG beschliesst Aufteilung
+- FamG beschließt Aufteilung
 - Im Scheidungsverbund Teil des Endbeschlusses
 
 ### Phase 4 — Vollzug
 
-- Mitteilung an Versorgungs-Traeger
+- Mitteilung an Versorgungs-Träger
 - Eintragung der Anrechte beim Ausgleichs-Berechtigten
 
 ## 9) Anwalts-Strategie
 
 ### Bei vermeintlich kurzem Ehe-Verlauf
 
-- Pruefen ob VA-Ausschluss durch § 27 sinnvoll
-- Bei hoeheren Anrechten: VA-Ausschluss bringt Verlust
+- Prüfen ob VA-Ausschluss durch § 27 sinnvoll
+- Bei höheren Anrechten: VA-Ausschluss bringt Verlust
 
-### Bei selbststaendigem Mandanten
+### Bei selbstständigem Mandanten
 
-- Versicherungs-Vertraege identifizieren
+- Versicherungs-Verträge identifizieren
 - Bei DRV: minimale Anrechte ggf. nicht ausgleichs-relevant
 
 ### Bei Auslandsbezug
@@ -140,11 +140,11 @@ Bei Scheidung: Hin- und Herteilung der waehrend der Ehezeit erworbenen Versorgun
 
 ## 10) Typische Fehler
 
-1. **Versorgungs-Auskunft uebersehen** -> falsche Berechnung
+1. **Versorgungs-Auskunft übersehen** -> falsche Berechnung
 2. **Ehezeit falsch berechnet** -> Falschberechnung
 3. **Interne vs. externe Teilung nicht optimiert** -> wirtschaftlicher Verlust
-4. **Haerte-Antrag § 27 versaeumt** -> ungewollte Aufteilung
-5. **Ehevertrag-Pruefung uebersprungen** -> § 138 BGB-Streit spaeter
+4. **Härte-Antrag § 27 versäumt** -> ungewollte Aufteilung
+5. **Ehevertrag-Prüfung übersprungen** -> § 138 BGB-Streit später
 
 ## 11) BGH-Linien
 

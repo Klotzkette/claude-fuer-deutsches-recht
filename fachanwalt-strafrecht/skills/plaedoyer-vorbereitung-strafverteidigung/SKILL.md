@@ -13,7 +13,7 @@ Strukturierte Aufbereitung des Plädoyers — der entscheidende strafverteidiger
 
 ### Vor Schluss der Beweisaufnahme
 
-- **Beweisanträge** noch zu stellen (Hilfsbeweisantraege)
+- **Beweisanträge** noch zu stellen (Hilfsbeweisanträge)
 - **Verfahrensrügen** zu protokollieren (für Revision)
 - **Sachverhaltliche Lücken** im Vortrag der StA identifizieren
 
@@ -158,7 +158,7 @@ Auch wenn primär Freispruch erstrebt — Hilfs-Plädoyer für Strafzumessung:
 ## Verfahrensrügen-Bestand
 
 - Notiz zur möglichen Revision § 344 StPO
-- Verstoss gegen Verfahrensrecht ist Rüge-Stoff
+- Verstoß gegen Verfahrensrecht ist Rüge-Stoff
 
 ## Letztes Wort des Angeklagten
 

@@ -7,7 +7,7 @@ description: "Decision Tree fuer das Intake-Formular als Mermaid-Diagramm. Condi
 
 ## Zweck
 
-Grafischer Decision Tree fuer den Gruender-Intake-Workflow. Zeigt die **conditional logic**: welche Folgefragen sich aus welcher Antwort ergeben, wann welche Skills getriggert werden, wann welche Pflichtdokumente erzeugt werden.
+Grafischer Decision Tree für den Gründer-Intake-Workflow. Zeigt die **conditional logic**: welche Folgefragen sich aus welcher Antwort ergeben, wann welche Skills getriggert werden, wann welche Pflichtdokumente erzeugt werden.
 
 Implementiert in **Mermaid**-Notation (rendert in GitHub, GitLab, Notion, Obsidian, VSCode, BitBucket).
 
@@ -103,7 +103,7 @@ flowchart TD
 
 ---
 
-## 3) Detail-Diagramm: SV-Status-Pruefung
+## 3) Detail-Diagramm: SV-Status-Prüfung
 
 ```mermaid
 flowchart TD
@@ -178,25 +178,25 @@ flowchart TD
 ### Knoten 1 — Stammdaten
 
 **Pflichtfelder**:
-- Anzahl Gruender
-- Identitaet (Name, Geburtsdatum, Anschrift, Ausweis-Nummer)
-- Familienstand (fuer § 1365 BGB-Pruefung)
-- Minderjaehrigkeit (fuer §§ 1643, 1822 BGB)
+- Anzahl Gründer
+- Identität (Name, Geburtsdatum, Anschrift, Ausweis-Nummer)
+- Familienstand (für § 1365 BGB-Prüfung)
+- Minderjaehrigkeit (für §§ 1643, 1822 BGB)
 
 **Validierung**:
-- Personalausweis-Nummer-Pruefung
+- Personalausweis-Nummer-Prüfung
 - Bei Minderjaehrigkeit: Trigger Familiengerichtsgenehmigung
 
 ### Knoten 2 — Anteilsverteilung
 
 **Pflichtfelder**:
 - Stammkapital absolut
-- Anteilshoehen pro Gruender
+- Anteilshöhen pro Gründer
 - Klassen-Festlegung (Common / A / B / C)
 
 **Validierung**:
 - Summe = 100 %
-- Mindesthoehen pro Klasse
+- Mindesthöhen pro Klasse
 - Pflicht-Hinweis: bei Investor-Roadmap Class-Shares vorsehen
 
 ### Knoten 3 — Firma und IP
@@ -204,31 +204,31 @@ flowchart TD
 **Pflichtfelder**:
 - Wunsch-Firma
 - Sitz
-- Geschaeftsgegenstand
+- Geschäftsgegenstand
 
 **Validierung-Trigger**:
 - HR-Suche bundesweit
-- IHK-Vorpruefung
+- IHK-Vorprüfung
 - DPMA / EUIPO-Recherche
-- Domain-Verfuegbarkeit
-- Bei Kollision: Alternativ-Vorschlaege anbieten
+- Domain-Verfügbarkeit
+- Bei Kollision: Alternativ-Vorschläge anbieten
 
-### Knoten 4 — Geschaeftsfuehrung
+### Knoten 4 — Geschäftsführung
 
 **Pflichtfelder**:
 - Anzahl GF
 - Gesellschafter oder Fremd-GF
-- Anteilshoehe (falls Gesellschafter-GF)
+- Anteilshöhe (falls Gesellschafter-GF)
 - Anstellungsvertrag-Eckdaten
 
 **Trigger**:
-- SV-Status-Pruefung
+- SV-Status-Prüfung
 - Statusfeststellung Paragraf 7a SGB IV
-- Geschaeftsfuehrervertrag-Generierung
+- Geschäftsführervertrag-Generierung
 
 ### Knoten 5 — SHA und Vesting
 
-**Pflichtfelder bei Multi-Gruender**:
+**Pflichtfelder bei Multi-Gründer**:
 - Vesting-Periode (Standard 48 Monate)
 - Cliff (Standard 12 Monate)
 - Bad-Leaver-Definition
@@ -249,7 +249,7 @@ flowchart TD
 - Unterlagen-Liste generieren
 - Stammkapital-Einzahlung vorbereiten
 
-### Knoten 8 — Behoerden-Pflichten
+### Knoten 8 — Behörden-Pflichten
 
 **Trigger automatisch nach HR-Eintragung**:
 - Gewerbeanmeldung
@@ -260,17 +260,17 @@ flowchart TD
 
 ---
 
-## 6) Trigger-Events fuer Fristen-Engine
+## 6) Trigger-Events für Fristen-Engine
 
 | Event | Frist | Aktion |
 |---|---|---|
 | HR-Eintragung | + 1 Woche | BG-Anmeldung erinnern |
 | HR-Eintragung | + 1 Monat | ELSTER-Fragebogen einreichen |
 | HR-Eintragung | + sofort | TraFinG-Meldung |
-| Geschaeftsjahresende | + 3 Monate | Jahresabschluss aufstellen |
-| Jahresabschluss | + 12 Monate | Bundesanzeiger-Veroeffentlichung |
-| GV-Beschluss Kapitalerhoehung | + 1 Monat | Anfechtungsfrist abgelaufen |
-| Krisenfrueherkennung-Trigger | + sofort | StaRUG-Pruefung oder § 49 III GmbHG-Versammlung |
+| Geschäftsjahresende | + 3 Monate | Jahresabschluss aufstellen |
+| Jahresabschluss | + 12 Monate | Bundesanzeiger-Veröffentlichung |
+| GV-Beschluss Kapitalerhöhung | + 1 Monat | Anfechtungsfrist abgelaufen |
+| Krisenfrüherkennung-Trigger | + sofort | StaRUG-Prüfung oder § 49 III GmbHG-Versammlung |
 | Insolvenz-Reife | + 3 Wochen | § 15a InsO-Antragspflicht |
 
 ---
@@ -281,7 +281,7 @@ flowchart TD
 
 - **Bryter** (https://bryter.com) — No-Code Legal Workflow
 - **Josef** (https://www.josef.legal) — Document Automation
-- **Documate** (https://www.documate.org) — Doc-Assembly fuer Legal
+- **Documate** (https://www.documate.org) — Doc-Assembly für Legal
 - **Neota Logic** — Enterprise-Workflow
 - **Custom**: Node.js + JSON Schema + React Hook Form
 
@@ -313,9 +313,9 @@ flowchart TD
 
 - **DOCX** (Microsoft Word): Satzung, SHA, GF-Vertrag, Beiratsordnung
 - **PDF** (signiertes Endprodukt): nach Notar-Beurkundung
-- **XLSX** (Excel): Cap Table, Fristen-Liste, Behoerden-Checkliste
-- **iCal/ICS**: Fristen-Kalender fuer Outlook/Apple Calendar
-- **JSON**: Daten-Export fuer Buchhaltung / CRM
+- **XLSX** (Excel): Cap Table, Fristen-Liste, Behörden-Checkliste
+- **iCal/ICS**: Fristen-Kalender für Outlook/Apple Calendar
+- **JSON**: Daten-Export für Buchhaltung / CRM
 - **ZIP**: Notar-Paket mit allen Urkunden
 
 ---
@@ -326,16 +326,16 @@ flowchart TD
 
 - Stammkapital < Mindesthoehe -> Block
 - Anteilssumme != 100 % -> Block
-- Pflichtfeld nicht ausgefuellt -> Block
+- Pflichtfeld nicht ausgefüllt -> Block
 - Bei Sacheinlage: kein Werthaltigkeits-Nachweis -> Block
 - Bei Minderjaehrigem: keine Familiengericht-Genehmigung -> Block
 
 ### Weiches Validierungs-Warnung
 
 - Anteilsverteilung 50/50 ohne Stichentscheid -> Warnung Patt-Risiko
-- Vesting fehlt bei Multi-Gruender -> Warnung Bad-Leaver-Risiko
-- Bezugsrechtsausschluss bei kuenftiger KE geplant ohne sachliche Begruendung -> Warnung Anfechtungs-Risiko
-- Minderheits-Gesellschafter-GF ohne Sperrminoritaet -> Warnung SV-Pflicht
+- Vesting fehlt bei Multi-Gründer -> Warnung Bad-Leaver-Risiko
+- Bezugsrechtsausschluss bei kuenftiger KE geplant ohne sachliche Begründung -> Warnung Anfechtungs-Risiko
+- Minderheits-Gesellschafter-GF ohne Sperrminorität -> Warnung SV-Pflicht
 - Wettbewerbsverbot ohne Karenz -> Warnung Sittenwidrigkeit
 - Marken-Konflikt erkannt -> Warnung mit Vorschlag-Alternativen
 
@@ -357,12 +357,12 @@ Jede Eingabe und jede Entscheidung im Workflow wird protokolliert mit:
 
 Am Ende des Intakes wird automatisch generiert:
 
-- **Datenblatt Gruendung** (alle Eckdaten)
+- **Datenblatt Gründung** (alle Eckdaten)
 - **Cap Table** initial
 - **Pflichten-Checkliste** mit Fristen
 - **Stoppschilder-Liste** (was zwingend Anwalt / Notar / Steuerberater)
 - **Notar-Paket** vorbereitet
-- **Behoerden-Pflichten-Kalender** als iCal
+- **Behörden-Pflichten-Kalender** als iCal
 
 ---
 

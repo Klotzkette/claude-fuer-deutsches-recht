@@ -3,7 +3,7 @@ name: transkriptionsdienst-erklaerung
 description: "Formuliert den Hinweis auf den automatisierten Transkriptionsservice in der Erstantwort: Telefonnummer, Ablauf des Anrufs, Verarbeitungshinweis, DSGVO-Einwilligungserfordernis und Kein-Mandat-Hinweis. Nur fuer Anfragen bei denen schriftliche Schilderung nicht moeglich oder gewuenscht ist. Laedt wenn der Nutzer 'Transkriptionsservice erklaeren', 'Sprachaufnahme anbieten', 'kann nicht schreiben', 'Diktat Sachverhalt' oder 'Transkription Erstanfrage' sagt."
 ---
 
-# Transkriptionsdienst-Erklaerung
+# Transkriptionsdienst-Erklärung
 
 Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in dem der automatisierte Transkriptionsservice beschrieben wird. Er kommt zum Einsatz, wenn die anfragende Person signalisiert, dass sie ihren Sachverhalt nicht schriftlich schildern kann oder möchte.
 

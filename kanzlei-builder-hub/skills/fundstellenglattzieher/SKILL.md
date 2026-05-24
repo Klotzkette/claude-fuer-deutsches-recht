@@ -205,7 +205,7 @@ Der korrigierte Volltext folgt im Anschluss.
 > Die Haftung folgt aus § 280 I BGB, vgl. BGH NJW 2022, 2754, 2756. Siehe
 > auch Grüneberg/Grüneberg § 280 Rn 28. Zur Reichweite jüngst Grisse,
 > Plattformhaftung und Wandel, ZUM 2020, Heft 11, 819, 827. Vergleichbar
-> die Rspr des EuGH MMR 11, 596 ff. mit Anm. Hoeren – L'Oreal SA. Im
+> die Rspr des EuGH MMR 11, 596 ff. mit Anm. Hören – L'Oreal SA. Im
 > Übrigen i. V. m. § 312a IV BGB.
 
 **Ausgabe (korrigierter Text):**
@@ -214,7 +214,7 @@ Der korrigierte Volltext folgt im Anschluss.
 > VIII ZR 317/21, NJW 2022, 2754 (2756)). Grüneberg, in: Grüneberg, BGB,
 > 84. Aufl. 2025, § 280 Rn. 28. Zur Reichweite jüngst Grisse ZUM 2020,
 > 819 (827). Vergleichbar die st. Rspr. des EuGH MMR 2011, 596 Rn. 116
-> mAnm Hoeren – L'Oreal SA. Im Übrigen iVm § 312a Abs. 4 BGB.
+> mAnm Hören – L'Oreal SA. Im Übrigen iVm § 312a Abs. 4 BGB.
 
 **Korrekturprotokoll (Auszug):**
 

@@ -16,15 +16,15 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 | Reparaturkosten | Werkstatt-Rechnung netto |
 | Wertminderung | Merkantiler Minderwert |
 | Nutzungs-Ausfall | Tagessatz nach EurotaxSchwacke / DAT |
-| Mietwagen | Tagessaetze Schwacke-Liste |
+| Mietwagen | Tagessätze Schwacke-Liste |
 | Anwaltskosten | Anrechnung auf Schaden |
 | Schmerzensgeld | bei Personenschaden |
 | Verdienst-Ausfall | bei Erwerbs-Ausfall |
-| Sachverstaendigen-Kosten | bei Streit |
+| Sachverständigen-Kosten | bei Streit |
 
 ## 2) Mitverschulden § 254 BGB
 
-### Pruefung
+### Prüfung
 
 - Eigene Pflichtverletzung
 - Anteil am Schaden
@@ -33,7 +33,7 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 ### Praxis-Quoten
 
 - Auffahr-Unfall: meist 100 % Hintermann
-- Vorfahrt-Verstoss: 70-100 % Verursacher
+- Vorfahrt-Verstoß: 70-100 % Verursacher
 - Spurwechsel: 60-80 % Verursacher
 - Unaufmerksamkeits-Fall: gemischt
 
@@ -43,11 +43,11 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
 - Reparatur zulaessig, wenn Reparaturkosten **bis 130 %** des Wiederbeschaffungswerts
 - BGH, Urt. v. 15.10.1991 — VI ZR 314/90
-- Ueber 130 %: nur Wiederbeschaffungswert (Totalschaden)
+- Über 130 %: nur Wiederbeschaffungswert (Totalschaden)
 
 ### Fiktive Abrechnung
 
-- Bei Reparatur: tatsaechliche Werkstatt-Kosten
+- Bei Reparatur: tatsächliche Werkstatt-Kosten
 - Bei Verkauf Restwert: WBW abzueglich Restwert
 - Bei fiktiver Abrechnung: 6 Monate Bindungs-Frist
 
@@ -57,7 +57,7 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
 - Bei Vollkasko: meist Vertragswerkstatt
 - Bei Haftpflicht: freie Werkstattwahl
-- Stundensaetze: BGH-Linie
+- Stundensätze: BGH-Linie
 
 ## 5) Workflow
 
@@ -73,18 +73,18 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
 - Sachverhalts-Aufnahme
 - Schadens-Sichtung
-- Sachverstaendiger
+- Sachverständiger
 
 ### Phase 3 — Versicherer-Schadensmeldung
 
 - Mit Anwalt
-- Vollstaendige Position
+- Vollständige Position
 - Bei Streit: Klage AG / LG
 
 ### Phase 4 — Bei Streit
 
-- Klage gegen Versicherer (Direkt-Klage moeglich)
-- Sachverstaendigen-Beweis
+- Klage gegen Versicherer (Direkt-Klage möglich)
+- Sachverständigen-Beweis
 - Vergleich oder Urteil
 
 ## 6) Schmerzensgeld
@@ -100,7 +100,7 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 ### Praxis
 
 - Hacks Becker Schmerzensgeld-Tabelle
-- Vergleichs-Faelle
+- Vergleichs-Fälle
 
 ## 7) Verjaehrung
 
@@ -111,13 +111,13 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 ## 8) Typische Fehler
 
 1. **Unfallort nicht dokumentiert**
-2. **Werkstatt-Vertragsbindung uebersehen**
+2. **Werkstatt-Vertragsbindung übersehen**
 3. **130-%-Grenze ignoriert**
 4. **Schmerzensgeld zu niedrig** verhandelt
 
 ## 9) BGH-Linien
 
-- BGH, Urt. v. 23.5.2017 — VI ZR 9/17 (Stundensaetze)
+- BGH, Urt. v. 23.5.2017 — VI ZR 9/17 (Stundensätze)
 - BGH, Urt. v. 14.5.2019 — VI ZR 393/18 (Schmerzensgeld)
 - BGH, Urt. v. 28.5.2024 — VI ZR 178/93 (Mitverschulden bei OEsen-Verkehr)
 

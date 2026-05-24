@@ -72,7 +72,7 @@ Frankfurt am Main in deutscher Sprache vor einem Einzelschiedsrichter statt.
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Vertraulichkeit ohne Investoren-Ausnahme | Lender kann nicht pitchen | Ausnahme nur mit GF-Zustimmung | Klare Ausnahme |
 | Kein Gerichtsstand festgelegt | Mehrere Gerichtsstände möglich | Allgemeiner Gerichtsstand | Ausschließlicher Gerichtsstand |

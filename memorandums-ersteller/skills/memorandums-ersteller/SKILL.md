@@ -10,7 +10,7 @@ description: Erzeugt aus heterogenen Mandantenunterlagen ein professionelles jur
 Strukturierte Sachverhaltsaufbereitung ist das Fundament jeder
 qualifizierten Rechtsberatung. Bevor eine rechtliche Würdigung
 möglich ist, muss der Sachverhalt vollständig erfasst, chronologisch
-geordnet und auf Widersprueche geprüft werden. Der Skill leistet
+geordnet und auf Widersprüche geprüft werden. Der Skill leistet
 genau diese Vorarbeit und erzwingt durch das Format zugleich
 juristische Disziplin.
 
@@ -20,9 +20,9 @@ Aliasnamen je nach Kanzleikultur: Memorandumsmacher, Memorandumisierer.
 
 - Mandantenunterlagen in beliebiger Mischform: E-Mails Verträge
   Fotos handschriftliche Notizen Chats Kontoauszüge Gutachten
-  Aktenvermerke Gespraechsnotizen
+  Aktenvermerke Gesprächsnotizen
 - Optional: vorgegebene Prüfungsrichtung (gerichtete Prüfung)
-- Optional: beigefuegte Rechtsprechung und Kommentarliteratur
+- Optional: beigefügte Rechtsprechung und Kommentarliteratur
 - Optional: vorhandenes Memorandum zur Aktualisierung
 
 OCR ist Pflicht. Gescannte Dokumente ohne Texterkennung werden nicht
@@ -70,13 +70,13 @@ alle Zitate sind anhand der Originalquellen zu verifizieren.
    `[Telefonat lt. Vermerk v. 20.03.2024]`
 3. Chronologische Sortierung
 4. Widerspruchsprüfung — abweichende Datums- oder Sachangaben
-   werden BEIDE dokumentiert und als klaerungsbeduerftig markiert
-5. Abschnitt "Noch zu klaeren" am Ende des Sachverhalts
+   werden BEIDE dokumentiert und als klärungsbedürftig markiert
+5. Abschnitt "Noch zu klären" am Ende des Sachverhalts
 6. Identifikation der Rechtsfragen — entweder nach Vorgabe oder
    offen mit Piercing-Questions
 7. Ein-Satz-Fragen formulieren und durchnummerieren
 8. Ein-Satz-Antworten formulieren und entsprechend nummerieren
-9. Rechtliche Ausfuehrungen — pro Frage ein eigener Block mit
+9. Rechtliche Ausführungen — pro Frage ein eigener Block mit
    sauberer Prüfungsstruktur
 10. Zitate verifizieren oder mit `[Quelle zu verifizieren]` markieren
 
@@ -100,7 +100,7 @@ Jede Tatsachenangabe im Sachverhalt MUSS eine Quelle haben. Format:
 - `[Foto-Anlage <Bezeichnung>]` für Bildunterlagen
 - `[WhatsApp v. <Datum> <Uhrzeit>]` für Messenger
 
-Wo Quelle fehlt, gehört der Punkt in "Noch zu klaeren".
+Wo Quelle fehlt, gehört der Punkt in "Noch zu klären".
 
 ## Pinpoint-Zitierung Rechtsprechung
 
@@ -117,7 +117,7 @@ Juengere Entscheidungen stehen zuerst.
 Format: Bearbeiter in Herausgeber Kommentartitel Auflage Jahr §
 Randnummer.
 
-Beispiel: Ellenberger in Grueneberg BGB 83. Auflage 2024 § 138
+Beispiel: Ellenberger in Grüneberg BGB 83. Auflage 2024 § 138
 Rn. 51.
 
 ## Pinpoint-Zitierung Aufsätze
@@ -130,7 +130,7 @@ konkret S. 1237.
 ## Halluzinations-Schutz
 
 - Nur Quellen zitieren die existieren und verifizierbar sind
-- Bei Unsicherheit `[Quelle zu verifizieren]` einfuegen ODER auf
+- Bei Unsicherheit `[Quelle zu verifizieren]` einfügen ODER auf
   Zitat verzichten
 - Niemals plausibel klingende aber erfundene Aktenzeichen oder
   Fundstellen ausgeben
@@ -151,7 +151,7 @@ verwandte Aspekte mit.
 Der Skill identifiziert selbst die rechtlich relevanten
 Fragestellungen. Piercing-Questions sind durchdringende Fragen die
 den Kern freilegen. Sie sind besonders bei der ersten Sichtung
-hilfreich um nichts zu uebersehen.
+hilfreich um nichts zu übersehen.
 
 Empfehlung des Skills: Erste Sichtung offen, Vertiefung gerichtet.
 
@@ -167,16 +167,16 @@ Der pauschale Hinweis im Output ist Pflicht und nicht zu löschen.
 ## Output-Datei
 
 - `Memorandum_<Mandat>_<ISO-Datum>.docx` auf Kanzlei- oder
-  Abteilungsbriefkopf falls Vorlage beigefuegt
+  Abteilungsbriefkopf falls Vorlage beigefügt
 - Optional `Memorandum_<Mandat>_<ISO-Datum>.md` als reine
   Textversion
 
 ## Fortlaufende Aktualisierung
 
 Bei Nachlieferungen ergänzt der Skill ein vorhandenes Memorandum.
-Neuzugaenge werden im Sachverhalt mit `[NEU]` markiert. Bisherige
-Tatsachen werden nicht stillschweigend ueberschrieben — Änderungen
-werden in "Noch zu klaeren" sichtbar gemacht.
+Neuzugänge werden im Sachverhalt mit `[NEU]` markiert. Bisherige
+Tatsachen werden nicht stillschweigend überschrieben — Änderungen
+werden in "Noch zu klären" sichtbar gemacht.
 
 ## Beispielformulierungen
 
@@ -186,19 +186,19 @@ werden in "Noch zu klaeren" sichtbar gemacht.
 - "Prüfe gerichtet die Wirksamkeit der Kündigung vom fünfzehnten
   Juni. Memorandum auf Kanzlei-Briefkopf."
 - "Hier ist das bisherige Memorandum und neue Korrespondenz vom
-  letzten Monat. Aktualisiere bitte und markiere Neuzugaenge."
+  letzten Monat. Aktualisiere bitte und markiere Neuzugänge."
 - "Memorandum-Kurzversion für einfache Rechtsfrage zum
   Gewährleistungsausschluss."
 
 ## Variationen
 
 - Kurzversion für einfache Einzelfragen
-- Ausfuehrliche Version mit Zeitleiste und Beteiligtenliste als
+- Ausführliche Version mit Zeitleiste und Beteiligtenliste als
   Anhang
 - Gutachten-Version mit Alternativprüfungen und Risikoanalyse
 - Prozess-Version mit Beweiswürdigung und Prozessrisikoanalyse
 - Due-Diligence-Version mit Risikoklassifizierung
-- Mehrsprachige Unterlagen mit Uebersetzungshinweisen
+- Mehrsprachige Unterlagen mit Übersetzungshinweisen
 
 ## Berufsrecht und Datenschutz
 

@@ -25,7 +25,7 @@ Objekttabelle und ein einheitliches Risikoschema.
 1. OCR auf gescannten PDFs
 2. Pro Auszug Identifikation Bestandsverzeichnis Abteilung I II III
 3. Strukturierte Extraktion:
-   - Bestandsverzeichnis: Gemarkung Flur Flurstueck Wirtschaftsart
+   - Bestandsverzeichnis: Gemarkung Flur Flurstück Wirtschaftsart
      Größe
    - Abteilung I: Eigentümerkette mit Erwerbsgrund
    - Abteilung II: Lasten und Beschraenkungen (Dienstbarkeiten
@@ -39,7 +39,7 @@ Objekttabelle und ein einheitliches Risikoschema.
 
 ## Output
 
-- `Grundbuch_Portfolio.xlsx` — eine Zeile pro Flurstueck, Spalten je
+- `Grundbuch_Portfolio.xlsx` — eine Zeile pro Flurstück, Spalten je
   Risikofeld
 - `Risikomatrix.md` mit Ampel pro Objekt und Aggregat-Statistik
 - `Auffaelligkeiten.md` — Objekte mit ungewöhnlichen Vermerken

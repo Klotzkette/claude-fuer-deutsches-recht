@@ -7,13 +7,13 @@ description: "IHK- oder Handwerkskammer-Mitgliedschaft Pflichtbeitrag Beitragsbe
 
 ## Zweck
 
-Mit der Eintragung im Handelsregister fallen automatisch zwei weitere Pflichtmitgliedschaften an: die **IHK** (oder Handwerkskammer) und die zustaendige **Berufsgenossenschaft**. Beide sind Pflichtorganisationen oeffentlichen Rechts mit Beitragspflicht.
+Mit der Eintragung im Handelsregister fallen automatisch zwei weitere Pflichtmitgliedschaften an: die **IHK** (oder Handwerkskammer) und die zuständige **Berufsgenossenschaft**. Beide sind Pflichtorganisationen öffentlichen Rechts mit Beitragspflicht.
 
 ## 1) IHK-Mitgliedschaft
 
 ### Rechtsgrundlage
 
-- **IHKG (IHK-Gesetz)** Paragraf 2 I: Pflichtmitgliedschaft fuer gewerbliche Unternehmen
+- **IHKG (IHK-Gesetz)** Paragraf 2 I: Pflichtmitgliedschaft für gewerbliche Unternehmen
 - Ausnahme: reine Handwerksbetriebe (Mitgliedschaft Handwerkskammer)
 - Ausnahme: reine Freiberufler (siehe unten)
 
@@ -27,34 +27,34 @@ Mit der Eintragung im Handelsregister fallen automatisch zwei weitere Pflichtmit
 
 - **Grundbeitrag**: 50-300 EUR pro Jahr (regional unterschiedlich)
 - **Umlage**: Prozentsatz auf Gewerbeertrag (typisch 0,1-0,3 %)
-- Bei Gruendung: erstes Jahr oft reduziert
+- Bei Gründung: erstes Jahr oft reduziert
 
 ### Beitragsbefreiung
 
 - **Kleine Unternehmen** im ersten / zweiten Jahr mit Gewinn unter Schwelle (regional unterschiedlich, oft 5.000 EUR)
-- **Bagatell-Befreiung** fuer reine Beteiligungsgesellschaften ohne operatives Geschaeft
+- **Bagatell-Befreiung** für reine Beteiligungsgesellschaften ohne operatives Geschäft
 
 ### Leistungen der IHK
 
 - Beratung (kostenlos oder gering)
 - Aus- und Fortbildung
-- Sachverstaendigen-Vermittlung
-- Aussenhandels-Service (Carnet ATA, Ursprungszeugnisse)
+- Sachverständigen-Vermittlung
+- Außenhandels-Service (Carnet ATA, Ursprungszeugnisse)
 - Branchen-Informationen
-- Foerderprogramme
+- Förderprogramme
 
 ### IHK Pflichten
 
 - Mitwirkung in Ausschuessen (freiwillig)
 - Beitragspflicht
-- Datenmeldung (z.B. Ueberblick Beschaeftigtenzahl)
+- Datenmeldung (z.B. Überblick Beschaeftigtenzahl)
 
 ## 2) Handwerkskammer (bei Handwerk)
 
 ### Wann
 
 - **Eintragung in der Handwerksrolle** erforderlich, wenn Handwerk im Sinne der Anlage A HwO ausgeuebt wird
-- Voraussetzung: Meisterpruefung oder gleichwertige Qualifikation
+- Voraussetzung: Meisterprüfung oder gleichwertige Qualifikation
 
 ### Pflichtmitgliedschaft
 
@@ -70,19 +70,19 @@ Mit der Eintragung im Handelsregister fallen automatisch zwei weitere Pflichtmit
 
 ### Wer
 
-- AErzte, Rechtsanwaelte, Steuerberater, Notare, Wirtschaftspruefer, Architekten, Ingenieure, Apotheker (Paragraf 1 II PartGG)
+- AErzte, Rechtsanwälte, Steuerberater, Notare, Wirtschaftsprüfer, Architekten, Ingenieure, Apotheker (Paragraf 1 II PartGG)
 
 ### Folgen
 
 - **Keine IHK-Mitgliedschaft**
-- Stattdessen: **Berufskammer** (Aerztekammer, Rechtsanwaltskammer etc.)
+- Stattdessen: **Berufskammer** (Ärztekammer, Rechtsanwaltskammer etc.)
 - **Versorgungswerk** statt gesetzliche Rentenversicherung
 - **Berufshaftpflicht-Versicherung** zwingend
 
 ### Bei PartG mbB
 
 - Berufskammer-Mitgliedschaft
-- Berufshaftpflicht in spezieller Hoehe (z.B. mind. 2,5 Mio. EUR fuer Rechtsanwaelte; Paragraf 51a BRAO)
+- Berufshaftpflicht in spezieller Höhe (z.B. mind. 2,5 Mio. EUR für Rechtsanwälte; Paragraf 51a BRAO)
 - Versorgungswerk-Pflicht
 - Steuerlich: keine Gewerbesteuer (Paragraf 18 I Nr. 1 EStG)
 
@@ -104,40 +104,40 @@ Es gibt 9 gewerbliche Berufsgenossenschaften, jeweils branchenspezifisch:
 - BG Nahrung und Gastgewerbe
 - BG Rohstoffe und chemische Industrie
 - BG Verkehr Post und Logistik
-- BG Verwaltungs-Berufsgenossenschaft (VBG, fuer Bueros und Dienstleister)
+- BG Verwaltungs-Berufsgenossenschaft (VBG, für Bueros und Dienstleister)
 - BG Versicherung
 
 ### Anmeldung
 
-- Online ueber www.bg-portal.de oder direkt bei der zustaendigen BG
-- Innerhalb einer Woche nach Aufnahme der Taetigkeit
-- Auch wenn **noch keine Mitarbeiter** angestellt sind — Geschaeftsfuehrer kann pflichtversichert sein, je nach BG-Satzung
+- Online über www.bg-portal.de oder direkt bei der zuständigen BG
+- Innerhalb einer Woche nach Aufnahme der Tätigkeit
+- Auch wenn **noch keine Mitarbeiter** angestellt sind — Geschäftsführer kann pflichtversichert sein, je nach BG-Satzung
 
 ### Beitragspflicht
 
-- Beitrag richtet sich nach Bruttolohnsumme der Beschaeftigten und Gefahrentarif der Taetigkeit
+- Beitrag richtet sich nach Bruttolohnsumme der Beschaeftigten und Gefahrentarif der Tätigkeit
 - Standardbetraege: 1-5 % der Bruttolohnsumme
-- Erst nach erstem Geschaeftsjahr Berechnung; Vorauszahlungen ueblich
+- Erst nach erstem Geschäftsjahr Berechnung; Vorauszahlungen üblich
 
 ### Leistungen
 
-- Versicherungsschutz bei Arbeitsunfaellen, Wegeunfaellen, Berufskrankheiten
-- Praevention (kostenfreie Beratung)
+- Versicherungsschutz bei Arbeitsunfällen, Wegeunfällen, Berufskrankheiten
+- Prävention (kostenfreie Beratung)
 - Pflichtinformationen (z.B. Sicherheits-Unterweisungen)
 
-### Konsequenz Versaeumnis
+### Konsequenz Versäumnis
 
-- Bussgeld
+- Bußgeld
 - Bei Unfall vor Anmeldung: Versicherungsschutz besteht trotzdem (Versicherungspflicht), aber Beitraege werden rueckwirkend bis 4 Jahre nachgefordert (Paragraf 24 SGB IV)
 
 ## 5) Weitere Pflichtversicherungen / -mitgliedschaften
 
 ### Bei Mitarbeitern
 
-- **Krankenkasse**: Lohnnebenkosten-Abfuehrung
-- **Renten-, Arbeitslosen-, Pflegeversicherung**: ueber Krankenkasse
+- **Krankenkasse**: Lohnnebenkosten-Abführung
+- **Renten-, Arbeitslosen-, Pflegeversicherung**: über Krankenkasse
 - **Berufsgenossenschaft**: wie oben
-- **Bundesagentur fuer Arbeit**: Lohnsteuer-Abfuehrung
+- **Bundesagentur für Arbeit**: Lohnsteuer-Abführung
 
 ### Bei Gesellschaftern
 
@@ -151,13 +151,13 @@ Es gibt 9 gewerbliche Berufsgenossenschaften, jeweils branchenspezifisch:
 - **Bauwirtschaft**: ULAK-Beitraege (Urlaubs- und Lohn-Ausgleichskasse)
 - **Datenschutz**: bei mehr als 20 Beschaeftigten oder gewissen Branchen Datenschutzbeauftragter
 - **GEMA**: bei Musiknutzung
-- **VG Wort / VG Bild-Kunst**: bei Verlagsgeschaeft
+- **VG Wort / VG Bild-Kunst**: bei Verlagsgeschäft
 
-## 6) Typische Versaeumnis-Fehler
+## 6) Typische Versäumnis-Fehler
 
-1. **BG-Anmeldung versaeumt.** Bei Arbeitsunfall in der Vorwoche der ersten Lohnzahlung -> rueckwirkende Beitraege.
-2. **IHK-Mitgliedschaft nicht gemeldet.** Automatisch — Bescheid kommt von selbst. Aber Antwort auf den Fragebogen wird oft uebersehen.
-3. **Handwerks-Mitgliedschaft vergessen.** Bei Handwerksbetrieb: Eintragung in der Handwerksrolle vor Aufnahme — sonst Bussgeld.
+1. **BG-Anmeldung versäumt.** Bei Arbeitsunfall in der Vorwoche der ersten Lohnzahlung -> rueckwirkende Beitraege.
+2. **IHK-Mitgliedschaft nicht gemeldet.** Automatisch — Bescheid kommt von selbst. Aber Antwort auf den Fragebogen wird oft übersehen.
+3. **Handwerks-Mitgliedschaft vergessen.** Bei Handwerksbetrieb: Eintragung in der Handwerksrolle vor Aufnahme — sonst Bußgeld.
 4. **Freiberufler-Mitgliedschaft falsch.** Bei Mischformen (Architekt mit Bauunternehmen): meist beide Kammern.
 5. **Datenschutzbeauftragter vergessen.** Bei Gesellschaft mit mehr als 20 Personen Pflicht — bei E-Commerce ab erster Person mit Profil-Daten.
 

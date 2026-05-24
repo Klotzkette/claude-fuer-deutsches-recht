@@ -3,7 +3,7 @@ name: jveg-gerichtsschreiben-pruefung
 description: "Prüft Gerichtsschreiben und Kostenbeamtenargumente auf Tatbestandsfehler, Ermessensfehler, Beleganforderungen und Antwortbedarf."
 ---
 
-# JVEG Gerichtsschreiben Pruefung
+# JVEG Gerichtsschreiben Prüfung
 
 ## Aufgabe
 

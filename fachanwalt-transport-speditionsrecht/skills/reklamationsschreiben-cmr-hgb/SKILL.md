@@ -209,7 +209,7 @@ Mit freundlichen Grüßen
 ### Strategien
 
 - **Beweis-Erleichterung** für Frachtführer — Schaden nicht beim Übergang
-- **Frist-Verstoss** dokumentieren
+- **Frist-Verstoß** dokumentieren
 
 ### Bei dennoch begründeter Forderung
 
@@ -226,7 +226,7 @@ Mit freundlichen Grüßen
 ### Gefahrgut
 
 - Sondersicherheitsanforderungen ADR
-- Bei Verstoss Schadensersatz erhöht
+- Bei Verstoß Schadensersatz erhöht
 
 ### Hochwert-Transport
 

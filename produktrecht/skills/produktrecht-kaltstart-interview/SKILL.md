@@ -119,7 +119,7 @@ Wenn Antwort 3, hinzufügen:
 
 **Was tatsächlich verbunden ist prüfen, nicht was konfiguriert ist.** Ein in `.mcp.json` gelisteter Konnektor ist *verfügbar*. Einer der tatsächlich antwortet ist *verbunden*. Das sind unterschiedliche Dinge.
 
-Für nicht verbundene Konnektoren dem Nutzer sagen wie er verbindet. Beispiel: „Jira ist nicht verbunden. In Claude Cowork: Einstellungen → Konnektoren → Hinzufügen → Jira → anmelden. In Claude Code: Jira-MCP zur Konfiguration hinzufügen. Dieses Plugin funktioniert ohne – Sie fügen PRDs und Review-Dokumente direkt ein – aber das Verbinden lässt den markteinfuehrungs-monitor-Agenten Tickets automatisch abfragen."
+Für nicht verbundene Konnektoren dem Nutzer sagen wie er verbindet. Beispiel: „Jira ist nicht verbunden. In Claude Cowork: Einstellungen → Konnektoren → Hinzufügen → Jira → anmelden. In Claude Code: Jira-MCP zur Konfiguration hinzufügen. Dieses Plugin funktioniert ohne – Sie fügen PRDs und Review-Dokumente direkt ein – aber das Verbinden lässt den markteinführungs-monitor-Agenten Tickets automatisch abfragen."
 
 Ergebnisse in dieser Form melden:
 > - ✓ [Integration] – verbunden (getestet)

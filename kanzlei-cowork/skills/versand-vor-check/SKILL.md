@@ -22,9 +22,9 @@ Jeder ausgehende Versand der Kanzlei muss diesen Check durchlaufen. Fehlversand 
 ### 2. Unterschrift
 
 - [ ] Eigenhaendige Unterschrift (Original) bei Papierversand?
-- [ ] Bei beA-Versand: qualifizierte elektronische Signatur (qeS) **oder** sicherer Übermittlungsweg (sUW) durch persoenliches Versenden des beA-Inhabers?
+- [ ] Bei beA-Versand: qualifizierte elektronische Signatur (qeS) **oder** sicherer Übermittlungsweg (sUW) durch persönliches Versenden des beA-Inhabers?
 - [ ] Ist die unterzeichnende Person berechtigt (Anwalt der Kanzlei mit Vollmacht in der Akte)?
-- [ ] Bei Sozietaet: korrekt für die Sozietaet unterzeichnet oder mit "i. A." / "i. V."?
+- [ ] Bei Sozietät: korrekt für die Sozietät unterzeichnet oder mit "i. A." / "i. V."?
 
 ### 3. Adressat
 
@@ -95,10 +95,10 @@ quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-20-versand-quittung.pdf
 
 ## Sonderfälle
 
-### beA-Stoerung
+### beA-Störung
 
-- Bei Stoerung des beA-Systems: Glaubhaftmachung der Stoerung mit Screenshot + Fehlermeldung; Ersatzeinreichung schriftlich + qeS.
-- Stoerungsdokumentation in Audit.
+- Bei Störung des beA-Systems: Glaubhaftmachung der Störung mit Screenshot + Fehlermeldung; Ersatzeinreichung schriftlich + qeS.
+- Störungsdokumentation in Audit.
 
 ### Wochenende / Feiertag
 

@@ -2,7 +2,7 @@
 
 ## Bild
 
-Stellen Sie sich eine Excel-Mappe vor. Auf jedem Tabellenblatt eine Tabelle: Zeilen sind Dokumente, Spalten sind Fragen, Zellen sind Antworten mit woertlichem Zitat und Fundstelle. Bisher: eine Mappe pro Pruefdimension. Jetzt: eine Mappe mit mehreren Tabellenblaettern uebereinander, jedes Blatt ist eine andere Perspektive auf denselben Dokumentenstapel.
+Stellen Sie sich eine Excel-Mappe vor. Auf jedem Tabellenblatt eine Tabelle: Zeilen sind Dokumente, Spalten sind Fragen, Zellen sind Antworten mit wörtlichem Zitat und Fundstelle. Bisher: eine Mappe pro Pruefdimension. Jetzt: eine Mappe mit mehreren Tabellenblättern übereinander, jedes Blatt ist eine andere Perspektive auf denselben Dokumentenstapel.
 
 Das ist der Würfel.
 
@@ -10,7 +10,7 @@ Das ist der Würfel.
 
 ### Achse 1: Spalten (Datenpunkte)
 
-Die Fragen die für ALLE Dokumente identisch gestellt werden. Macht den Stapel vergleichbar. Beispiel: "Welche Kuendigungsfrist gilt?" — die gleiche Frage an 200 Vertraege. Spaltenprompt-Änderungen wirken über alle Dokumente.
+Die Fragen die für ALLE Dokumente identisch gestellt werden. Macht den Stapel vergleichbar. Beispiel: "Welche Kündigungsfrist gilt?" — die gleiche Frage an 200 Verträge. Spaltenprompt-Änderungen wirken über alle Dokumente.
 
 ### Achse 2: Zeilen (Dokumente)
 
@@ -18,7 +18,7 @@ Die einzelnen Dokumente plus deren optionale Sonderanweisungen (Zeilenprompts). 
 
 ### Achse 3: Arbeitsblätter (Perspektiven)
 
-Mehrere Pruefdimensionen über denselben Stapel. Beispiel: Recht / Steuer / Wirtschaft / Datenschutz uebereinander. Jede Perspektive hat eine Auswahl gemeinsamer Spalten plus eigener Zusatzspalten plus eigener Pruefer-Rolle.
+Mehrere Pruefdimensionen über denselben Stapel. Beispiel: Recht / Steuer / Wirtschaft / Datenschutz übereinander. Jede Perspektive hat eine Auswahl gemeinsamer Spalten plus eigener Zusatzspalten plus eigener Prüfer-Rolle.
 
 ## Warum drei Achsen?
 
@@ -32,7 +32,7 @@ Alle vier Antworten sind richtig — aus unterschiedlichen Perspektiven. Die dri
 
 ## Kreuzblatt-Konsistenz
 
-Wenn das Recht-Blatt sagt "Vertragsdatum 2021-03-15" und das Wirtschaft-Blatt sagt "Vertragsdatum 2021-03-25" — das ist ein Fehler, nicht eine Perspektive. Skill `kreuzblatt-konsistenzpruefung` findet beides: echte Widersprueche (Datenfehler) und legitime perspektivische Abweichungen.
+Wenn das Recht-Blatt sagt "Vertragsdatum 2021-03-15" und das Wirtschaft-Blatt sagt "Vertragsdatum 2021-03-25" — das ist ein Fehler, nicht eine Perspektive. Skill `kreuzblatt-konsistenzpruefung` findet beides: echte Widersprüche (Datenfehler) und legitime perspektivische Abweichungen.
 
 ## Belegkette
 
@@ -42,19 +42,19 @@ Jede Zelle ist ein Hinweis kein Befund. Die Belegkette macht jeden Hinweis rueck
 Zelle = Antwort + Zitat + Fundstelle (Datei-Hash + Seite + Absatz) + Prompt-Version
 ```
 
-Ohne Belegkette ist eine Zelle wertlos. Mit Belegkette ist sie pruefbar.
+Ohne Belegkette ist eine Zelle wertlos. Mit Belegkette ist sie prüfbar.
 
-## Pruefer-Flag
+## Prüfer-Flag
 
-Der Würfel sagt nicht "ich weiss es nicht" — er sagt "ich vermute X mit Konfidenz Y und Pruefer schaut bitte hin". Untermarkierung verbirgt Probleme. Uebermarkierung kostet den Pruefer zehn Sekunden pro Flag und schafft den noetigen Vertrauensvorschuss.
+Der Würfel sagt nicht "ich weiss es nicht" — er sagt "ich vermute X mit Konfidenz Y und Prüfer schaut bitte hin". Untermarkierung verbirgt Probleme. Übermarkierung kostet den Prüfer zehn Sekunden pro Flag und schafft den noetigen Vertrauensvorschuss.
 
 ## Audit-Trail und Reproduzierbarkeit
 
-Jeder Reviewlauf, jede Prompt-Änderung, jede Pruefer-Abnahme wird unveraenderlich protokolliert. Wer in zwei Jahren fragt "wie kam der Würfel zustande?" bekommt eine Antwort, nicht ein Schulterzucken.
+Jeder Reviewlauf, jede Prompt-Änderung, jede Prüfer-Abnahme wird unveränderlich protokolliert. Wer in zwei Jahren fragt "wie kam der Würfel zustande?" bekommt eine Antwort, nicht ein Schulterzucken.
 
-## Verhaeltnis zum 2D-Skill
+## Verhältnis zum 2D-Skill
 
-Der 2D-Skill `gesellschaftsrecht/tabellenpruefung` ist die Grundlage: Spaltenprompts + Zeilenprompts. Das 3D-Plugin erweitert ihn um die dritte Achse (Arbeitsblätter) und die ganze Pipeline (Cache, Audit-Trail, Belegkette, Pruefer-Paket).
+Der 2D-Skill `gesellschaftsrecht/tabellenpruefung` ist die Grundlage: Spaltenprompts + Zeilenprompts. Das 3D-Plugin erweitert ihn um die dritte Achse (Arbeitsblätter) und die ganze Pipeline (Cache, Audit-Trail, Belegkette, Prüfer-Paket).
 
 ## Grenzen
 

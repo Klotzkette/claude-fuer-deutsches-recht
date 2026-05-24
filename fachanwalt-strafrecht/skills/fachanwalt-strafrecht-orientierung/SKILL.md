@@ -32,7 +32,7 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 - Hauptverhandlung Strafrichter Schöffengericht Schwurgericht
 - Verteidigung in Wirtschaftsstrafsachen (Wirtschaftsstrafkammer Landgericht)
 - Berufung Revision Verfassungsbeschwerde
-- Strafvollstreckung Bewaehrung Reststrafenaussetzung
+- Strafvollstreckung Bewährung Reststrafenaussetzung
 
 ## Notfristen
 
@@ -46,7 +46,7 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 ## Hauptgerichte
 
 - **Amtsgericht** Strafrichter § 25 GVG (Vergehen Privatklage oder keine höhere Strafe als zwei Jahre zu erwarten) Schöffengericht § 28 GVG (bis vier Jahre Straferwartung).
-- **Landgericht** Grosse Strafkammer Wirtschaftsstrafkammer Schwurgericht.
+- **Landgericht** Große Strafkammer Wirtschaftsstrafkammer Schwurgericht.
 - **OLG** Berufungs- und Revisionsinstanz; Anklage erstinstanzlich bei Staatsschutzdelikten.
 - **BGH 1.–5. Strafsenat** Revisionsinstanz.
 

@@ -9,7 +9,7 @@ description: "Wahlverteidiger-Mandat StPO Erstgespraech Akteneinsicht § 147 StP
 
 Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 
-## 1) Erstgespraech
+## 1) Erstgespräch
 
 ### Vor jedem Inhalt
 
@@ -33,7 +33,7 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 ### Beschuldigter
 
 - **§ 147 IV StPO**: Eigenes Akteneinsichtsrecht (auch ohne Anwalt)
-- Begleitende Voraussetzung: nicht im Verfahrens-Stadium der Gefaehrdung
+- Begleitende Voraussetzung: nicht im Verfahrens-Stadium der Gefährdung
 - Polizeiakten-Anfrage
 
 ### Anwalt
@@ -41,7 +41,7 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 - § 147 II StPO: Voll-Recht
 - Bei U-Haft: § 147 II 2 StPO
 - Mitnahme Papierakten § 32f II 3 StPO
-- Kopie ueber Anwalt-Kanzlei
+- Kopie über Anwalt-Kanzlei
 
 ### Rechtsbehelf
 
@@ -54,8 +54,8 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 ### Aktive Strategie
 
 - Anfechtung Beweise
-- Eigene Beweis-Antraege
-- Sachverstaendige
+- Eigene Beweis-Anträge
+- Sachverständige
 - Gegenermittlungen
 
 ### Passive Strategie
@@ -67,14 +67,14 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 ### Mischformen
 
 - Phasen-Wechsel je nach Verfahrensstand
-- Bei Untersuchungs-Haft: oft Aktivitaet erforderlich
+- Bei Untersuchungs-Haft: oft Aktivität erforderlich
 
 ## 4) Workflow
 
-### Phase 1 — Erstgespraech (1-2 Stunden)
+### Phase 1 — Erstgespräch (1-2 Stunden)
 
 - Vorwurfs-Aufnahme
-- Schweigerecht erklaeren
+- Schweigerecht erklären
 - Honorar-Vereinbarung
 - Vollmacht
 
@@ -89,16 +89,16 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 - Eigene Aussage / Schweigen
 - Vorbereitung bei aktiver Strategie
 
-### Phase 4 — Eroeffnungs-Beschluss / Anklage
+### Phase 4 — Eröffnungs-Beschluss / Anklage
 
 - Antrag auf Einstellung § 153/153a StPO
-- Beweisantraege
+- Beweisanträge
 - Vorbereitung Hauptverhandlung
 
 ### Phase 5 — Hauptverhandlung
 
 - Plaedoyer-Strategie
-- Antraege auf Strafmilderung
+- Anträge auf Strafmilderung
 - Geringfuegigkeits-Antrag
 
 ## 5) Standard-Fehler des Beschuldigten
@@ -107,16 +107,16 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 2. **„Ich erklaere das mal eben" bei Polizei** — taktisch fatal
 3. **Eigene Anrufe / Briefe** an Anzeigenerstatter
 4. **Mitwirkung in WhatsApp-Gruppen** des Falls
-5. **Pflichtverteidigung statt Wahl** bei komplexen Faellen
+5. **Pflichtverteidigung statt Wahl** bei komplexen Fällen
 
 ## 6) Mandanten-Pflichten
 
-### Wahrheit gegenueber Anwalt
+### Wahrheit gegenüber Anwalt
 
 - Anwalt-Vertraulichkeit § 43a BRAO
 - Strategie braucht volle Information
 
-### Schweigen gegenueber Dritten
+### Schweigen gegenüber Dritten
 
 - Keine Aussagen ohne Anwalt
 - Auch in sozialen Medien
@@ -125,7 +125,7 @@ Beratung Beschuldigter bei Wahl Strafverteidiger und Mandats-Beginn.
 
 ### Sofortige Schritte
 
-- Haftpruefungs-Antrag
+- Haftprüfungs-Antrag
 - Akteneinsicht beschleunigen
 - Familien-Information
 

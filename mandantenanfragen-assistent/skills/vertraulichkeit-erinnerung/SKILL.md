@@ -59,7 +59,7 @@ diese Informationen vertraulich zu behandeln und nicht an Dritte weiterzugeben.
 
 ## Was die Erstantwort-Mail NICHT enthält
 
-Die Erstantwort-Mail (vor Mandatsbegründung) enthält **keinen** Hinweis auf die anwaltliche Schweigepflicht bezüglich des konkreten Anliegens — weil sie zu diesem Zeitpunkt noch nicht im vollen Umfang gilt. Stattdessen steht der Mandatsverhaeltnis-Hinweis (Skill `mandatsverhaeltnis-hinweis`) im Vordergrund.
+Die Erstantwort-Mail (vor Mandatsbegründung) enthält **keinen** Hinweis auf die anwaltliche Schweigepflicht bezüglich des konkreten Anliegens — weil sie zu diesem Zeitpunkt noch nicht im vollen Umfang gilt. Stattdessen steht der Mandatsverhältnis-Hinweis (Skill `mandatsverhaeltnis-hinweis`) im Vordergrund.
 
 Ein allgemeiner Vertraulichkeitshinweis ist möglich:
 ```

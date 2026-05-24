@@ -131,7 +131,7 @@ BGH II ZR 124/06 ARAG/Garmenbeck und Folgerechtsprechung:
 
 - **Deckungsumfang** klären
 - **Vorvertragliche Anzeigepflicht** (Reform 2020)
-- **Selbstbehalt** § 93 Abs. 2 Satz 3 AktG ein-Komma-fuenf Monatsbezuege bei Vorstand-AG; bei GmbH-Geschäftsführer analog häufig vereinbart
+- **Selbstbehalt** § 93 Abs. 2 Satz 3 AktG ein-Komma-fünf Monatsbezüge bei Vorstand-AG; bei GmbH-Geschäftsführer analog häufig vereinbart
 - **Deckungsablehnung** wegen vorsätzlich oder grob fahrlässig
 - **Inside-D&O vs. Reverse-D&O** Konstellation
 

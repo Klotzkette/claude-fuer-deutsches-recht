@@ -37,7 +37,7 @@ Dieser Skill führt die vollständige KYC-Prüfung nach dem Geldwäschegesetz (G
 Rechtsanwalt als Berater bei Gründung, Kauf oder Verkauf von Gesellschaftsanteilen: Verpflichteter nach § 2 Abs. 1 Nr. 10 GwG. Allgemeine Sorgfaltspflichten nach § 10 GwG verpflichtend.
 
 ### 2. Wirtschaftlich Berechtigte ermitteln
-Gesellschaft: Wer hält mehr als 25 % der Anteile direkt oder über eine Kette? Beispiel Sonnenglas: Dr. Schoeneck (40 %) und Habersaat (35 %) sind wirtschaftlich Berechtigte. Darlehensgeber (GmbH & Co. KG): Wer sind die Kommanditisten, wer hält mehr als 25 %? Transparenzregister prüfen.
+Gesellschaft: Wer hält mehr als 25 % der Anteile direkt oder über eine Kette? Beispiel Sonnenglas: Dr. Schöneck (40 %) und Habersaat (35 %) sind wirtschaftlich Berechtigte. Darlehensgeber (GmbH & Co. KG): Wer sind die Kommanditisten, wer hält mehr als 25 %? Transparenzregister prüfen.
 
 ### 3. Transparenzregisterabgleich (§ 19 GwG)
 Abruf Transparenzregister für alle beteiligten Gesellschaften. Abgleich mit tatsächlichen Eigentumsverhältnissen. Unstimmigkeit? → Meldepflicht § 23a GwG.
@@ -66,7 +66,7 @@ Darlehensbetrag: Woher stammt das Kapital? Kontoauszüge, Jahresabschluss des Le
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Sanktionslistentreffer | Vertrag darf nicht abgeschlossen werden | Namensähnlichkeit prüfen | Kein Treffer |
 | Mittelherkunft ungeklärt | Verdachtsmeldepflicht § 43 GwG | Teilweise belegt | Vollständig belegt |

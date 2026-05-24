@@ -7,7 +7,7 @@ description: "Konflikt-, GwG- und Sanktionscheck: Führt Annahmeprüfung für Co
 
 ## Zweck
 
-Führt Annahmeprüfung für Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektor- und Laender-Risiken.
+Führt Annahmeprüfung für Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektor- und Länder-Risiken.
 
 ## Arbeitsmodus
 

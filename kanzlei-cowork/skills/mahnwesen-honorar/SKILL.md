@@ -14,7 +14,7 @@ Honorarforderungen gegen Mandanten sind besonders sensible Eskalationen — das 
 ### Stufe 0 — Zahlungserinnerung (vor Verzug)
 
 - Etwa zehn Tage nach Fälligkeit der Rechnung.
-- Hoeflicher Hinweis dass die Rechnung noch nicht beglichen ist.
+- Höflicher Hinweis dass die Rechnung noch nicht beglichen ist.
 - Kein Verzug; keine Mahnkosten; keine Verzugszinsen.
 
 ```
@@ -92,10 +92,10 @@ Mit freundlichen Grüßen
 
 Mandant kann verlangen Einsicht in die Akte (§ 50 Abs. 5 BRAO). Bei Streit über Honorar zuständig prüfen.
 
-### Vergütungsklage gegen frueheren Mandanten
+### Vergütungsklage gegen früheren Mandanten
 
 - Sachliche Zuständigkeit § 23 Nr. 1 GVG (bis 10.000 EUR seit 01.01.2026); darüber LG § 71 GVG.
-- Oertliche Zuständigkeit allgemeiner Gerichtsstand des Mandanten (§§ 12 13 ZPO).
+- Örtliche Zuständigkeit allgemeiner Gerichtsstand des Mandanten (§§ 12 13 ZPO).
 - Streitwert: Honorarforderung mit Nebenforderungen.
 
 ### Verjährung der Honorarforderung

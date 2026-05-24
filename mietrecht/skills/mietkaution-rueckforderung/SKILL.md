@@ -34,7 +34,7 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 - **Erträge** stehen dem Mieter zu
 - **Banken-Konto** typisch — gesondertes "Mietkauto-Konto"
 
-### Verstoss-Folge
+### Verstoß-Folge
 
 - Mieter-Anspruch auf vorzeitige Rückforderung
 - Schadensersatz wegen Pflichtverletzung
@@ -170,7 +170,7 @@ Mit freundlichen Grüßen
 ### Sonderfälle Tod Insolvenz Vermieter
 
 - Bei Insolvenz Vermieter — Kaution insolvenzgeschützt durch separate Anlage
-- Bei Verstoss Vermieters: Schadensersatz Vermögensmischung
+- Bei Verstoß Vermieters: Schadensersatz Vermögensmischung
 
 ## Schritt 10 — Sonderfall Gewerbe-Miete
 

@@ -21,7 +21,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 | Bereich | Schwerpunkt |
 |---|---|
-| Legal | Vertraege, Litigation, Compliance, Korruption, GwG, KartellR |
+| Legal | Verträge, Litigation, Compliance, Korruption, GwG, KartellR |
 | Tax | Steuerliche Risiken, Verlustvortraege, Verrechnungspreise, Steuerstrafrecht |
 | Commercial | Markt-Position, Kunden-Konzentration, Wettbewerb |
 | Financial | Bilanz, GuV, Cash-Flow, EBITDA-Adjustments |
@@ -39,12 +39,12 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 ### Yellow Flag
 
 - Materielle, aber loesbare Risiken
-- Beispiel: laufende ungeklaerte Steuerprüfung
-- Beispiel: Bestehender Kuendigungsschutz-Prozess wesentlicher MA
+- Beispiel: laufende ungeklärte Steuerprüfung
+- Beispiel: Bestehender Kündigungsschutz-Prozess wesentlicher MA
 
 ### Green Flag
 
-- Ueblich-akzeptables Risiko
+- Üblich-akzeptables Risiko
 - Beispiel: kleinere Marken-Klagen
 - Beispiel: routinemaessige Steuer-Veranlagungen
 
@@ -85,7 +85,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 ### Phase 1 — VDR-Strukturierung
 
 - Indexierung
-- Pruef-Listen je Bereich
+- Prüf-Listen je Bereich
 - Q&A-Liste
 
 ### Phase 2 — Findings-Erfassung
@@ -95,7 +95,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
   - Finding-Beschreibung
   - Klassifizierung (Red/Yellow/Green)
   - Materialitaet (EUR-Wert oder %-Auswirkung)
-  - Loesungs-Vorschlag
+  - Lösungs-Vorschlag
 
 ### Phase 3 — Risiko-Matrix
 
@@ -115,10 +115,10 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 ### Typische CPs
 
 - Kartellrechtliche Freigabe BKartA / EU-Kommission
-- BaFin / Investitionspruefung AWG
+- BaFin / Investitionsprüfung AWG
 - Wesentliche Mitarbeiter-Zustimmung
 - Drittpartei-Zustimmungen (Change-of-Control-Klauseln)
-- Materielle Nicht-Veraenderung (MAC-Klausel)
+- Materielle Nicht-Veränderung (MAC-Klausel)
 
 ## 8) Garantien (Reps & Warranties)
 
@@ -126,17 +126,17 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 - Eigentum am Aktiva
 - Bilanz-Richtigkeit
-- Steuer-Konformitaet
+- Steuer-Konformität
 - Litigation
 - Compliance
 - IP
 - Mitarbeiter
-- Vertraege
+- Verträge
 
 ### Indemnities
 
 - Spezifische Risiken (nicht durch Garantie gedeckt)
-- Beispiel: Steuer-Risiko aus laufender Pruefung
+- Beispiel: Steuer-Risiko aus laufender Prüfung
 - Beispiel: Umwelt-Altlasten-Sanierung
 
 ### Verzogenheit
@@ -150,7 +150,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 
 - Locked-Box-Mechanismus (fester KP zum Effective Date)
 - Closing-Account-Mechanismus (Anpassung nach Closing-Bilanz)
-- Earn-out (Erfolgsabhaengig)
+- Earn-out (Erfolgsabhängig)
 
 ### Bei DD-Befunden
 
@@ -163,7 +163,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 1. **Findings nicht klassifiziert** — Risiko unentdeckt
 2. **Materialitaet nicht beziffert** — Garantie-Schwellen nicht greifbar
 3. **Knowledge-Qualifier ignoriert** — Verkaeufer entzieht sich Haftung
-4. **CP-Erfuellung nicht ueberwacht** — Closing verschoben
+4. **CP-Erfüllung nicht überwacht** — Closing verschoben
 5. **Verjaehrungs-Frist falsch verhandelt** — Garantie nicht greifbar
 
 ## 11) Reporting-Templates
@@ -177,7 +177,7 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 ### Detailed Findings Report
 
 - Pro Bereich strukturiert
-- Mit Begruendung und Quellenangaben (VDR-Dok-Nummer)
+- Mit Begründung und Quellenangaben (VDR-Dok-Nummer)
 
 ## Anschluss
 

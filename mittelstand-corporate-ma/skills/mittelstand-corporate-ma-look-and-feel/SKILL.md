@@ -20,7 +20,7 @@ Definiert die sichtbare Oberfläche: sehr ruhig, edel, bläulich-silbern mit war
 
 - Text überlappt Tabellen oder Karten.
 - Ampel- oder Freigabestatus fehlt.
-- Unerklärte Farben oder dekorative Flaechen verdecken Risiko.
+- Unerklärte Farben oder dekorative Flächen verdecken Risiko.
 
 ## Standardausgabe
 

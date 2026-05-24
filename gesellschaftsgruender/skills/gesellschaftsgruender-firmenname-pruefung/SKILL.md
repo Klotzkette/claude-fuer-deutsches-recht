@@ -3,13 +3,13 @@ name: gesellschaftsgruender-firmenname-pruefung
 description: "Pruefung des Firmennamens vor Notar-Termin. Handelsregister-Suche Paragraf 30 HGB Verwechslungsgefahr. IHK-Firmenvorpruefung. Marken-Suche DPMA EUIPO. Domain-Verfuegbarkeit. Bei Beanstandung Alternative-Vorschlaege. Irrefuehrungsverbot Paragraf 18 II HGB. Kennzeichnungs-Kraft Paragraf 18 I HGB."
 ---
 
-# Firmenname-Pruefung
+# Firmenname-Prüfung
 
 ## Zweck
 
-Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwechslungsfaehigkeit, Marken-Konflikte und Domain geprueft werden. Spaeter laesst sich der Name nur mit Notar-Beurkundung und Handelsregister-Aenderung wechseln — teuer und unangenehm.
+Vor Notar-Termin muss der Firmenname **vollständig** auf Verfügbarkeit, Verwechslungsfähigkeit, Marken-Konflikte und Domain geprüft werden. Später laesst sich der Name nur mit Notar-Beurkundung und Handelsregister-Änderung wechseln — teuer und unangenehm.
 
-## 1) Pruefungs-Schritte
+## 1) Prüfungs-Schritte
 
 ### A. Handelsregister-Suche
 
@@ -18,11 +18,11 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 - **Paragraf 30 HGB**: Verwechslungsgefahr vermeiden
 - Verwechslungsgefahr besteht bei ahnlichem Klang, Bedeutung, Schreibweise
 
-### B. IHK-Firmenvorpruefung
+### B. IHK-Firmenvorprüfung
 
 - **Kostenlos** oder geringe Gebuehr
-- IHK prueft die Firma auf Zulaessigkeit (Paragraf 18 HGB) und Verwechslungsgefahr (Paragraf 30 HGB)
-- Bestaetigung als Beweis fuer Notar
+- IHK prüft die Firma auf Zulässigkeit (Paragraf 18 HGB) und Verwechslungsgefahr (Paragraf 30 HGB)
+- Bestätigung als Beweis für Notar
 - Empfehlung: **immer** machen
 
 ### C. Marken-Suche
@@ -30,9 +30,9 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 - **DPMA-Recherche** (registrierte deutsche Marken): www.dpma.de
 - **EUIPO** (EU-Marken): www.euipo.europa.eu
 - **TMview** (international): www.tmdn.org
-- Pruefen auf Verwechslung mit eingetragenen Marken in der eigenen Branche
+- Prüfen auf Verwechslung mit eingetragenen Marken in der eigenen Branche
 
-### D. Domain-Verfuegbarkeit
+### D. Domain-Verfügbarkeit
 
 - .de (DENIC), .com, .eu, branchenrelevante TLD
 - Domain-Reseller: Strato, 1&1, GoDaddy, etc.
@@ -41,11 +41,11 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 ### E. Social-Media-Handles
 
 - Facebook, Instagram, LinkedIn, X (Twitter), TikTok
-- Bei Marketing-Bedeutung pruefen
+- Bei Marketing-Bedeutung prüfen
 
 ### F. Sprachen / Internationalisierung
 
-- Bei internationaler Aktivitaet: Bedeutung in anderen Sprachen
+- Bei internationaler Aktivität: Bedeutung in anderen Sprachen
 - Kuriose Bedeutungen in Zielmaerkten
 - Schwer aussprechbare Namen vermeiden
 
@@ -54,14 +54,14 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 ### Kennzeichnungs-Kraft Paragraf 18 I HGB
 
 - Firma muss zur **Kennzeichnung** des Kaufmanns geeignet sein
-- Unterscheidungs-Funktion gegenueber anderen
+- Unterscheidungs-Funktion gegenüber anderen
 - Beispiele:
-  - ✅ „Mueller Maschinenbau GmbH" — kennzeichnungsfaehig
+  - ✅ „Mueller Maschinenbau GmbH" — kennzeichnungsfähig
   - ❌ „Deutsche Firma GmbH" — zu allgemein
 
-### Irrefuehrungsverbot Paragraf 18 II HGB
+### Irreführungsverbot Paragraf 18 II HGB
 
-- Keine **irrefuehrenden Angaben** in der Firma
+- Keine **irreführenden Angaben** in der Firma
 - Beispiele:
   - ❌ „Bundesweite Versorgung GmbH" — wenn nur regional taetig
   - ❌ „Bank-Beratung GmbH" — wenn keine Bank-Lizenz
@@ -69,23 +69,23 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 
 ### Rechtsform-Zusatz
 
-- **Pflicht**: GmbH, UG (haftungsbeschraenkt), AG, OHG, KG, ...
-- **Nicht** abkuerzungsfaehig (z.B. „GmbH" muss ausgeschrieben oder durch Standard-Abkuerzung)
+- **Pflicht**: GmbH, UG (haftungsbeschränkt), AG, OHG, KG, ...
+- **Nicht** abkürzungsfähig (z.B. „GmbH" muss ausgeschrieben oder durch Standard-Abkürzung)
 
 ### Verwechslungs-Gefahr Paragraf 30 HGB
 
 - Im gleichen oertlichen Bereich (= Bezirk des Registergerichts) keine Verwechslung mit eingetragenen Firmen
 - Bei Verwechslungsgefahr: Beanstandung durch HR-Gericht
 
-## 3) Typische Beanstandungs-Gruende
+## 3) Typische Beanstandungs-Gründe
 
 1. **Zu allgemein** („Deutsche Firma GmbH")
-2. **Verwechslungsfaehig** mit anderer eingetragener Firma in Bezirk
-3. **Irrefuehrend** in Branchenbezeichnung
+2. **Verwechslungsfähig** mit anderer eingetragener Firma in Bezirk
+3. **Irreführend** in Branchenbezeichnung
 4. **Geschuetzt** als Marke eines Dritten (Beanstandung indirekt: Klage des Markeninhabers)
 5. **Geschuetzte Berufsbezeichnung** ohne Zulassung (z.B. „Steuerberatungs-GmbH" ohne StBerG-Zulassung)
 6. **Personennamen** ohne Berechtigung (Paragraf 12 BGB)
-7. **Geografische Bezeichnungen** ohne Bezug (z.B. „Berlin AG" als rein bayerisches Unternehmen — moeglich, aber im Marketing problematisch)
+7. **Geografische Bezeichnungen** ohne Bezug (z.B. „Berlin AG" als rein bayerisches Unternehmen — möglich, aber im Marketing problematisch)
 
 ## 4) Beispiele
 
@@ -93,7 +93,7 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 
 - „[Personenname] [Branche] GmbH" — z.B. „Mueller Maschinenbau GmbH"
 - „[Fantasiename] [Branche] GmbH" — z.B. „Solis Vision GmbH"
-- „[Branche] [Region] GmbH" — z.B. „Hanseatische Vermoegensverwaltung GmbH"
+- „[Branche] [Region] GmbH" — z.B. „Hanseatische Vermögensverwaltung GmbH"
 
 ### Riskant
 
@@ -117,36 +117,36 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 ### Praxis-Tipp
 
 - **3-5 Alternativen** vor Notar-Termin bereithalten
-- IHK kann mehrere parallel pruefen
+- IHK kann mehrere parallel prüfen
 
 ## 6) Marken-Strategie
 
 ### Bei strategischer Marken-Bedeutung
 
-- **Firmenname und Marke kollidieren-frei**: Anmeldung der Marke parallel zur Gesellschaftsgruendung
+- **Firmenname und Marke kollidieren-frei**: Anmeldung der Marke parallel zur Gesellschaftsgründung
 - DPMA-Anmeldung: ca. 290 EUR pro Klasse
 - EUIPO-Anmeldung: ca. 850 EUR pro Klasse
-- Pruefung 6-12 Monate
+- Prüfung 6-12 Monate
 
-### Bei spaeterer Marken-Anmeldung
+### Bei späterer Marken-Anmeldung
 
-- Risiko: Dritter kann Marke fuer den eigenen Firmennamen anmelden
+- Risiko: Dritter kann Marke für den eigenen Firmennamen anmelden
 - Bei Verlust: Firmen-Umfirmierung erforderlich
 
 ### Anmeldung Marken-Inhaber als Gesellschaft
 
 - Bei Marken-Anmeldung als „[Firma] GmbH i.G.": geht oft, aber Inhaber ist erst nach Eintragung definitiv
-- Sicher: Anmeldung im Namen eines Gruenders, spaetere Uebertragung auf die GmbH
+- Sicher: Anmeldung im Namen eines Gründers, spätere Übertragung auf die GmbH
 
 ## 7) Workflow
 
 ### Tag T-14 (vor Notar)
 
-1. **Vorschlaege sammeln**: 3-5 Wunsch-Namen
+1. **Vorschläge sammeln**: 3-5 Wunsch-Namen
 2. **HR-Suche** in Common Register
 3. **DPMA-Recherche** bei strategischer Bedeutung
-4. **Domain-Pruefung**
-5. **Vorpruefung IHK** beantragt
+4. **Domain-Prüfung**
+5. **Vorprüfung IHK** beantragt
 
 ### Tag T-7
 
@@ -156,14 +156,14 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 
 ### Tag T (Notar)
 
-9. **Beurkundung** mit gewaehltem Namen
+9. **Beurkundung** mit gewähltem Namen
 
 ### Tag T+5 bis T+14
 
-10. **HR-Eintragung** (Pruefung HR-Gericht)
+10. **HR-Eintragung** (Prüfung HR-Gericht)
 11. **Bei Beanstandung**: alternative Firma -> Satzungsaenderung -> erneute Beurkundung
 
-## 8) Pruef-Checkliste
+## 8) Prüf-Checkliste
 
 ```
 | Pruefung | Stelle | Ergebnis |
@@ -183,18 +183,18 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 
 ## 9) Typische Fehler
 
-1. **Nur IHK-Vorpruefung, keine HR-Suche**. IHK prueft regional, HR-Suche zeigt bundesweite Verwechslungen.
-2. **Marken-Suche ueberhaupt nicht**. Spaetere Marken-Klage moeglich.
-3. **Domain nicht gesichert**. Nach Gruendung steht Domain nicht zur Verfuegung.
+1. **Nur IHK-Vorprüfung, keine HR-Suche**. IHK prüft regional, HR-Suche zeigt bundesweite Verwechslungen.
+2. **Marken-Suche überhaupt nicht**. Spätere Marken-Klage möglich.
+3. **Domain nicht gesichert**. Nach Gründung steht Domain nicht zur Verfügung.
 4. **Branchen-Bezeichnung ohne Zulassung**. Z.B. „[Name] Bank GmbH" ohne BaFin-Lizenz -> Untersagung.
-5. **Personennamen ohne Berechtigung**. Z.B. „Einstein Energie GmbH" — Erben pruefen lassen.
-6. **Geografische Falsch-Bezeichnung**. „Hamburger Holding GmbH" mit Sitz Muenchen -> Beanstandung moeglich.
+5. **Personennamen ohne Berechtigung**. Z.B. „Einstein Energie GmbH" — Erben prüfen lassen.
+6. **Geografische Falsch-Bezeichnung**. „Hamburger Holding GmbH" mit Sitz Muenchen -> Beanstandung möglich.
 
 ## 10) Kosten
 
-| Pruefung | Kosten |
+| Prüfung | Kosten |
 |---|---|
-| IHK-Vorpruefung | 0-100 EUR |
+| IHK-Vorprüfung | 0-100 EUR |
 | HR-Suche | 0 EUR online |
 | DPMA-Recherche | 0 EUR online (Stichprobe), prof. Recherche 200-1.000 EUR |
 | EUIPO-Recherche | analog |
@@ -206,4 +206,4 @@ Vor Notar-Termin muss der Firmenname **vollstaendig** auf Verfuegbarkeit, Verwec
 
 - `gesellschaftsgruender-gmbh-vorbereitung` — Firma als Baustein
 - `gesellschaftsgruender-notar-vorbereitung` — IHK-Bescheinigung vorlegen
-- `gesellschaftsgruender-handelsregister-anmeldung` — Pruefung durch HR-Gericht
+- `gesellschaftsgruender-handelsregister-anmeldung` — Prüfung durch HR-Gericht

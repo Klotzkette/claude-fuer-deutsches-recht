@@ -37,7 +37,7 @@ Pro Anlage:
 - Original als PDF ablegen.
 - Stempel oben rechts auf erste Seite jeder Anlage: das Sigel (`K1`).
 - Doppelseitige Scans prüfen.
-- Persoenliche Daten Dritter schwaerzen wenn nicht erforderlich (DSGVO Datenminimierung).
+- Persönliche Daten Dritter schwaerzen wenn nicht erforderlich (DSGVO Datenminimierung).
 
 ### 3. Anlagenverzeichnis als Vorblatt
 

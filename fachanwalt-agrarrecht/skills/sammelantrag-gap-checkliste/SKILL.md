@@ -77,7 +77,7 @@ Wichtig: länderspezifische Termine prüfen (Landwirtschaftskammer)
 - Lebensmittel-Sicherheit
 - Wasserrecht (NEC RL)
 
-### Sanktion bei Verstoss
+### Sanktion bei Verstoß
 
 - **Kürzungen** bis 5 Prozent Standardsatz
 - **Bei Wiederholung** bis 15 Prozent
@@ -141,7 +141,7 @@ Neue Direktzahlungs-Komponente — freiwillig zusätzlich:
 
 ## Schritt 8 — Förderbescheid
 
-### Bescheid-Pruefung
+### Bescheid-Prüfung
 
 - Anerkannte Hektare
 - Anwendbarer Satz pro Hektar
@@ -192,7 +192,7 @@ Neue Direktzahlungs-Komponente — freiwillig zusätzlich:
 - Öko-Regelungen erwogen
 - Junglandwirts-Status geprüft
 - Tier-Bestand Stichtag-Eintrag HIT
-- Antrag schluessig vor 15. Mai eingereicht
+- Antrag schlüssig vor 15. Mai eingereicht
 - Korrektur-Möglichkeit bis 31. Mai im Auge
 
 ## Ausgabe
@@ -200,7 +200,7 @@ Neue Direktzahlungs-Komponente — freiwillig zusätzlich:
 - `sammelantrag-checkliste-{jahr}.md`
 - Antrag-Vorbereitungs-Dokument
 - Frist im Fristenbuch (15. Mai 31. Mai 30. September)
-- Bei Vor-Ort-Kontrolle Protokoll-Pruefung
+- Bei Vor-Ort-Kontrolle Protokoll-Prüfung
 - Bei Bescheid Widerspruch-Vorbereitung
 
 ## Quellen

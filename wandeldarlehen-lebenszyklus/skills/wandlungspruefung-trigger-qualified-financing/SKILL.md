@@ -58,7 +58,7 @@ Lender erklärt Wandlung per Textform innerhalb eines Monats nach Wandlungsmitte
 | Parameter | Wert |
 |---|---|
 | Darlehensbetrag | EUR 250000 |
-| Zinsen (2 Jahre, fuenf Prozent p.a.) | EUR 25694 |
+| Zinsen (2 Jahre, fünf Prozent p.a.) | EUR 25694 |
 | Wandlungssumme C | EUR 275694 |
 | Anteile vor Runde (vollverwaessert) | 100 |
 | Pre-Money Seed-Runde | EUR 6000000 |
@@ -71,7 +71,7 @@ Lender erklärt Wandlung per Textform innerhalb eines Monats nach Wandlungsmitte
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Pre-Money Runde unter Mindest-Schwelle | Kein Qualified Financing | Grenzwertig | Klar über Schwelle |
 | Wandlungsmitteilung nicht rechtzeitig | Fristversäumnis, Lender kann nicht wandeln | Mitteilung verspätet | Rechtzeitig |

@@ -33,8 +33,8 @@ Anfechtungsgegner ist, wer die anfechtbare Rechtshandlung vorgenommen hat oder z
 - Übereignung von Grundstücken oder Sachen.
 - Abtretung von Forderungen.
 - Belastung mit Grundpfandrechten.
-- Zahlung auf eine Schuld (kongruente Deckung).
-- Bestellung einer Sicherheit ohne entsprechende Vereinbarung (inkongruente Deckung).
+- Zahlung auf eine Schuld (kongrünte Deckung).
+- Bestellung einer Sicherheit ohne entsprechende Vereinbarung (inkongrünte Deckung).
 
 ## Verfahren
 

@@ -3,18 +3,18 @@ name: fachanwalt-strafrecht-untersuchungshaft-haftpruefung
 description: "Untersuchungs-Haft §§ 112 ff. StPO Haftgrund dringender Tatverdacht Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr. Haftpruefung § 117 StPO 3-Monats-Frist. Beschwerde Haftbeschwerde § 304 StPO. Workflow Sofort-Massnahmen Pruefungstermin Haftbeschwerde."
 ---
 
-# Untersuchungshaft Haftpruefung
+# Untersuchungshaft Haftprüfung
 
 ## Zweck
 
 Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
-## 1) Haftgruende § 112 II StPO
+## 1) Haftgründe § 112 II StPO
 
 ### Fluchtgefahr
 
 - Konkrete Anhaltspunkte (Auslandsverbindungen, Mittel)
-- Nicht: nur Strafe-Hoehe
+- Nicht: nur Strafe-Höhe
 
 ### Verdunkelungsgefahr
 
@@ -37,11 +37,11 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 - Wahrscheinlichkeit Verurteilung > Freispruch
 - Beweis-Stand
 
-### Verhaeltnismaessigkeit
+### Verhältnismaessigkeit
 
 - Auch bei dringendem Tatverdacht
 - Erwartete Strafe vs. Haft-Dauer
-- Schonungsbeduerftige (Kinder, Pflege)
+- Schonungsbedürftige (Kinder, Pflege)
 
 ## 3) Haftbefehl § 114 StPO
 
@@ -49,36 +49,36 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 - Konkrete Vorwurf
 - Haftgrund
-- Verhaeltnismaessigkeit
+- Verhältnismaessigkeit
 
 ### Bekanntgabe
 
 - Sofort bei Verhaftung
 - Anwalts-Information
 
-## 4) Haftpruefung § 117 StPO
+## 4) Haftprüfung § 117 StPO
 
 ### Antrag
 
-- Jederzeit moeglich
+- Jederzeit möglich
 - Schriftlich oder zu Protokoll
 
 ### Verfahren
 
 - AG-Richter entscheidet
-- Muendliche Anhoerung
+- Muendliche Anhörung
 - Bei Aufhebung: sofortige Entlassung
 
 ### Frist § 121 StPO
 
-- Nach **6 Monaten** Haft: Pruefung OLG
-- Bei Verlaengerung: durch OLG-Beschluss
+- Nach **6 Monaten** Haft: Prüfung OLG
+- Bei Verlängerung: durch OLG-Beschluss
 
 ## 5) Haftbeschwerde § 304 StPO
 
 ### Voraussetzungen
 
-- Beschwerde gegen Haftbefehl oder Verlaengerung
+- Beschwerde gegen Haftbefehl oder Verlängerung
 - Frist: jederzeit (ohne Frist)
 
 ### Verfahren
@@ -90,13 +90,13 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 ### Voraussetzungen
 
-- Haftgrund kann durch mildere Massnahmen abgewendet werden
+- Haftgrund kann durch mildere Maßnahmen abgewendet werden
 - Beispiele:
   - Meldepflicht
   - Pass-Hinterlegung
   - Kaution
 
-### Typische Massnahmen
+### Typische Maßnahmen
 
 - Wohnsitz-Auflage
 - Tag-Anwesenheits-Auflage
@@ -108,12 +108,12 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 - Mandanten-Besuch (binnen Stunden)
 - Akteneinsicht-Antrag
-- Haftpruefungs-Antrag oder Beschwerde
+- Haftprüfungs-Antrag oder Beschwerde
 
 ### Phase 2
 
-- Vorbereitung Anhoerung
-- Beweise gegen Haftgruende
+- Vorbereitung Anhörung
+- Beweise gegen Haftgründe
 - Verschon-Alternativen vorschlagen
 
 ### Phase 3
@@ -123,15 +123,15 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 
 ### Phase 4 — Dauer-U-Haft
 
-- Anfechtung Verlaengerung
-- Nach 6 Monaten: OLG-Pruefung
+- Anfechtung Verlängerung
+- Nach 6 Monaten: OLG-Prüfung
 - Strategie Hauptverhandlungs-Vorbereitung
 
 ## 8) Praktische Aspekte
 
 ### Mandanten-Betreuung
 
-- Regelmaessige Besuche
+- Regelmäßige Besuche
 - Schreib-Kommunikation
 - Familien-Info
 
@@ -149,13 +149,13 @@ Verteidigung bei drohender oder bestehender Untersuchungshaft.
 ## 9) Typische Fehler
 
 1. **Pflichtverteidiger ohne Strafrecht-Expertise**
-2. **Haftpruefung zu spaet beantragt**
+2. **Haftprüfung zu spaet beantragt**
 3. **Verschon-Alternativen nicht ausgearbeitet**
 4. **Akteneinsicht verzoegert**
 
 ## 10) BGH-Linien
 
-- BGH, Beschl. v. 22.9.2016 — StB 22/16 (Verhaeltnismaessigkeit)
+- BGH, Beschl. v. 22.9.2016 — StB 22/16 (Verhältnismaessigkeit)
 - BVerfG, Beschl. v. 23.1.2019 — 2 BvR 2429/18 (6-Monats-Frist)
 
 ## Anschluss

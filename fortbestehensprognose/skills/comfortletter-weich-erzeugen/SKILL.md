@@ -7,19 +7,19 @@ description: Erzeugt einen Comfortletter — eine weiche Erklaerung des Patrons 
 
 ## Wirkung und Grenze
 
-Der Comfortletter ist eine **moralische Unterstuetzungserklärung** ohne rechtliche Bindung. Er wirkt im Geschäftsverkehr (Bank Lieferant Investor) als **Reputations-Signal**.
+Der Comfortletter ist eine **moralische Unterstützungserklärung** ohne rechtliche Bindung. Er wirkt im Geschäftsverkehr (Bank Lieferant Investor) als **Reputations-Signal**.
 
 **Wirkung im Status der Gesellschaft**:
 
 - **Keine** Berücksichtigung als Aktivposten.
 - **Keine** Wirkung auf die Fortbestehensprognose.
-- **Reine** Unterstuetzungsabsichtserklärung.
+- **Reine** Unterstützungsabsichtserklärung.
 
 Wer den Comfortletter mit einer harten externen Patronatserklärung verwechselt schiebt eine **Selbsttaeuschung** in den Status hinein. Bei späterer Insolvenz wird das aufgedeckt; Haftungsrisiko des Geschäftsleiters § 15b InsO und § 43 GmbHG.
 
 ## Wann sinnvoll
 
-- **Bank-Signal**: Die Bank verlangt eine schriftliche Unterstuetzungsabsicht des Mutterunternehmens — nicht als Sicherheit aber als Indikator.
+- **Bank-Signal**: Die Bank verlangt eine schriftliche Unterstützungsabsicht des Mutterunternehmens — nicht als Sicherheit aber als Indikator.
 - **Lieferanten-Signal**: Beim Verhandeln mit Lieferanten kann der Comfortletter Vertrauen schaffen.
 - **Investor-Signal**: Bei Verhandlungen mit potenziellen Investoren als „Soft Backing".
 
@@ -75,7 +75,7 @@ Mit freundlichen Grüßen
 
 ## Hinweise
 
-- Comfortletter sollte **klar als solchen** bezeichnet werden — keine missverstaendlichen Formulierungen die als Patronatserklärung gewertet werden könnten (im Streit wird das anhand des Wortlauts geprueft).
+- Comfortletter sollte **klar als solchen** bezeichnet werden — keine missverständlichen Formulierungen die als Patronatserklärung gewertet werden könnten (im Streit wird das anhand des Wortlauts geprüft).
 - **Schriftlich** und unterzeichnet.
 - Im Geschäftsverkehr klar als unverbindlich kommunizieren.
 

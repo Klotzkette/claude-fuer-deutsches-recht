@@ -7,7 +7,7 @@ description: "Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenräume
 
 ## Zweck
 
-Strukturiert und bestueckt virtuelle Datenräume für Private M&A, Public M&A, Carve-out und Distressed-Prozesse.
+Strukturiert und bestückt virtuelle Datenräume für Private M&A, Public M&A, Carve-out und Distressed-Prozesse.
 
 ## Arbeitsmodus
 

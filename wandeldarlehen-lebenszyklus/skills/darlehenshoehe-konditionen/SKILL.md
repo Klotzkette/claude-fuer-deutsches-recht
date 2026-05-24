@@ -13,7 +13,7 @@ Dieser Skill erfasst alle wirtschaftlichen Kernkonditionen des Wandeldarlehens u
 
 - Darlehensbetrag in EUR (in Ziffern und in Worten)
 - Laufzeit in Jahren (Standard: zwei Jahre)
-- Zinssatz p.a. (Standard: fuenf Prozent; Basis act/360)
+- Zinssatz p.a. (Standard: fünf Prozent; Basis act/360)
 - Zinsabführung: Standard keine unterjährige Zahlung, Zinsen fällig bei Rückzahlung oder Wandlung
 - Auszahlungsfrist: Standard sieben deutsche Bankarbeitstage nach beidseitiger Unterzeichnung
 - Bankverbindung der Gesellschaft: Kontoinhaber, IBAN, BIC, Kreditinstitut, Verwendungszweck
@@ -30,7 +30,7 @@ Dieser Skill erfasst alle wirtschaftlichen Kernkonditionen des Wandeldarlehens u
 - §§ 3, 4 StaRUG (Einschränkung Kündigungsrechte im Restrukturierungsrahmen)
 
 ### Rechtsprechung
-- BGH, Urt. v. 7. März 2013 – IX ZR 7/12 (Kongruenzdeckung Darlehensrückzahlung)
+- BGH, Urt. v. 7. März 2013 – IX ZR 7/12 (Kongrünzdeckung Darlehensrückzahlung)
 - BGH, Urt. v. 29. Januar 2015 – IX ZR 279/13 (Fälligkeitsklausel und Insolvenz)
 
 ## Vorgehen
@@ -42,7 +42,7 @@ EUR-Betrag in Ziffern und in Worten (z. B. „EUR 250000 (in Worten: zweihundert
 Startdatum: Datum vollständiger Unterzeichnung durch alle Parteien. Enddatum: Startdatum plus zwei Jahre ohne Kündigung erforderlich. Beispiel: Unterzeichnung 01.06.2025 → Ende 31.05.2027.
 
 ### 3. Zinssatz und Berechnungsbasis
-Standard: fuenf Prozent p.a., pro rata temporis, act/360. Formel: Zinsen = Kapital × Zinssatz × (Tage / 360). Keine unterjährige Zahlung; Zinsen aufgelaufen bis Rückzahlung oder Wandlung.
+Standard: fünf Prozent p.a., pro rata temporis, act/360. Formel: Zinsen = Kapital × Zinssatz × (Tage / 360). Keine unterjährige Zahlung; Zinsen aufgelaufen bis Rückzahlung oder Wandlung.
 
 ### 4. Auszahlungsmodus
 Sieben deutsche Bankarbeitstage ab vollständiger Unterzeichnung. Überweisung auf die folgende Bankverbindung der Gesellschaft (Tabelle eintragen).
@@ -58,14 +58,14 @@ Ordentliche Kündigung ausgeschlossen für alle Parteien. § 490 Abs. 1 BGB vert
 | Parameter | Wert |
 |---|---|
 | Darlehensbetrag | EUR 250000 |
-| Zinssatz | fuenf Prozent p.a. |
+| Zinssatz | fünf Prozent p.a. |
 | Laufzeit | 2 Jahre (730 Tage) |
 | Zinsen act/360 | EUR 250000 × 0.05 × (730/360) = EUR 25694 |
 | Wandlungsbetrag | EUR 275694 |
 
 ## Risiken und Red Flags
 
-| Konstellation | Rot | Orange | Gruen |
+| Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
 | Zinssatz über zwanzig Prozent p.a. | Sittenwidrigkeitsprüfung § 138 BGB | Zehn bis zwanzig Prozent | Unter zehn Prozent |
 | Auszahlung vor Unterzeichnung erfolgt | Vertrag ex post unwirksam riskant | Auszahlung auf Anweisung | Auszahlung nach Unterzeichnung |

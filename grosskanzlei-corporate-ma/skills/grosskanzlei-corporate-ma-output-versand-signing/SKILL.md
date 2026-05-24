@@ -11,14 +11,14 @@ Bereitet Transaktionsoutput vor: Markups, Issues Lists, Reports, Board Papers, S
 
 ## Arbeitsmodus
 
-- Ausgabeformat und Empfaengerkreis prüfen.
+- Ausgabeformat und Empfängerkreis prüfen.
 - Clean-Version, Markup, PDF, Excel und Anlagen konsistent benennen.
 - Signatur-, Notar-, beA-, Kurier- und Datenraum-Uploads protokollieren.
 - Versand nur mit Freigabekarte.
 
 ## Rote Schwellen
 
-- Falscher Empfaengerkreis.
+- Falscher Empfängerkreis.
 - Nicht freigegebene Version.
 - Signing-Dokument ohne finale Anlagen.
 

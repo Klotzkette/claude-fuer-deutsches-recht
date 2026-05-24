@@ -3,36 +3,36 @@ name: fachanwalt-bau-architektenrecht-bautraeger-insolvenz
 description: "Bautraeger-Insolvenz Schutz Bautraeger MaBV-Sicherheiten § 7 MaBV Buergschaft 5 Prozent. Auflassungs-Anwartschaft Eintragung Vormerkung § 883 BGB. Insolvenzantrag-Massnahmen Erwerber-Strategie. § 103 InsO Verwalter-Wahl Erfuellung Ablehnung. Workflow Erwerber-Sofortmassnahmen Sicherheiten Klage."
 ---
 
-# Bautraeger-Insolvenz — Erwerber-Schutz
+# Bauträger-Insolvenz — Erwerber-Schutz
 
 ## Zweck
 
-Mandate von Erwerbern bei Bautraeger-Insolvenz — Sicherheiten, Vormerkung, Sanierungs-Option.
+Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, Sanierungs-Option.
 
 ## 1) Eingangs-Abfrage
 
-1. Bautraeger-Vertrag mit Notar-Beurkundung?
-2. Bauphase (Rohbau, Innenausbau, schluesselfertig)?
+1. Bauträger-Vertrag mit Notar-Beurkundung?
+2. Bauphase (Rohbau, Innenausbau, schlüsselfertig)?
 3. Bisher gezahlte Kaufpreis-Rate?
 4. Vormerkung im Grundbuch eingetragen?
-5. MaBV-Buergschaft vorhanden?
+5. MaBV-Bürgschaft vorhanden?
 6. Insolvenzantrag bereits eingereicht oder Verfahren eroeffnet?
-7. Anderswo Sicherheiten (Gewaehrleistungs-Buergschaft)?
+7. Anderswo Sicherheiten (Gewaehrleistungs-Bürgschaft)?
 
 ## 2) MaBV-Schutz nach § 7 MaBV
 
-### Buergschaft
+### Bürgschaft
 
-- Bautraeger muss Buergschaft auf erstes Anfordern ueber 5 % der Bausumme zugunsten Erwerber stellen
-- Buergschaft umfasst:
+- Bauträger muss Bürgschaft auf erstes Anfordern über 5 % der Bausumme zugunsten Erwerber stellen
+- Bürgschaft umfasst:
   - Fertigstellungs-Risiko
   - Mangelbeseitigung (5 Jahre)
 
 ### Bei Insolvenz
 
-- **Erwerber kann Buergschaft direkt ziehen** vom Buergen
+- **Erwerber kann Bürgschaft direkt ziehen** vom Buergen
 - Buerge (Bank, Versicherung) zahlt Fertigstellungs-/Mangel-Aufwand
-- Buergschaft erlischt mit Mangel-Frei-Erklaerung
+- Bürgschaft erlischt mit Mangel-Frei-Erklärung
 
 ## 3) Vormerkung § 883 BGB
 
@@ -49,14 +49,14 @@ Mandate von Erwerbern bei Bautraeger-Insolvenz — Sicherheiten, Vormerkung, San
 
 ### Praxis
 
-- Wirksamkeit Vormerkung pruefen (Datum, Eintragung, Bewertung)
-- Bei mehreren Erwerbern: Rangverhaeltnis
+- Wirksamkeit Vormerkung prüfen (Datum, Eintragung, Bewertung)
+- Bei mehreren Erwerbern: Rangverhältnis
 
-## 4) Insolvenzantrag — Sofort-Massnahmen Erwerber
+## 4) Insolvenzantrag — Sofort-Maßnahmen Erwerber
 
 ### Tag 1-3
 
-- **Buergschaft pruefen**: Original und Hoehe
+- **Bürgschaft prüfen**: Original und Höhe
 - **Buergen kontaktieren**: schriftliche Anfrage auf Fertigstellung
 - **Insolvenzverwalter** ermitteln (Beck-Insolvenz-Portal)
 - **Vormerkungs-Status** im Grundbuch checken
@@ -64,22 +64,22 @@ Mandate von Erwerbern bei Bautraeger-Insolvenz — Sicherheiten, Vormerkung, San
 ### Tag 4-14
 
 - **Forderungs-Anmeldung** zur Insolvenztabelle § 174 InsO
-- **Verwalter-Anfrage**: § 103 InsO Wahlrecht — Erfuellung oder Ablehnung?
+- **Verwalter-Anfrage**: § 103 InsO Wahlrecht — Erfüllung oder Ablehnung?
 - **Eigene Klage** auf Auflassung gegen Insolvenzverwalter
 
 ### Tag 15-60
 
 - Bei Verwalter-Ablehnung § 103 InsO: Erwerber kann **Schadensersatz** zur Insolvenztabelle anmelden
-- Buergschaft ziehen
+- Bürgschaft ziehen
 - Bei sicherheits-rechtlichem Konflikt: einstweiliger Rechtsschutz
 
 ## 5) § 103 InsO — Verwalter-Wahlrecht
 
-> „Der Insolvenzverwalter kann anstelle des Schuldners den Vertrag erfuellen und die Erfuellung vom anderen Teil verlangen."
+> „Der Insolvenzverwalter kann anstelle des Schuldners den Vertrag erfüllen und die Erfüllung vom anderen Teil verlangen."
 
-### Erfuellungs-Wahl
+### Erfüllungs-Wahl
 
-- Verwalter fuehrt Bauvorhaben fort
+- Verwalter führt Bauvorhaben fort
 - Erwerber zahlt Restkaufpreis
 - Vertrag bleibt bestehen
 
@@ -87,7 +87,7 @@ Mandate von Erwerbern bei Bautraeger-Insolvenz — Sicherheiten, Vormerkung, San
 
 - Vertrag wird beendet
 - Erwerber erhaelt:
-  - **Buergschaft** fuer Fertigstellung
+  - **Bürgschaft** für Fertigstellung
   - **Schadensersatz** zur Insolvenztabelle
   - Vormerkung bleibt (Eigentums-Anspruch)
 
@@ -98,19 +98,19 @@ Mandate von Erwerbern bei Bautraeger-Insolvenz — Sicherheiten, Vormerkung, San
 
 ## 6) Erwerber-Strategien
 
-### Strategie A — Buergschaft + Eigene Fertigstellung
+### Strategie A — Bürgschaft + Eigene Fertigstellung
 
-- Buergschaft 5 % ziehen
-- Mit eigenen Mitteln (+ Buergschafts-Geld) Bauvorhaben abschliessen
+- Bürgschaft 5 % ziehen
+- Mit eigenen Mitteln (+ Bürgschafts-Geld) Bauvorhaben abschließen
 - Schadensersatz wegen Mehrkosten zur Tabelle
 
-### Strategie B — Verwalter-Fortfuehrung
+### Strategie B — Verwalter-Fortführung
 
 - Hoffnung auf Sanierungs-Plan
 - Restkaufpreis zahlen
 - Mehrkosten-Risiko Erwerber
 
-### Strategie C — Vertrags-Rueckabwicklung
+### Strategie C — Vertrags-Rückabwicklung
 
 - Schwer, da Vormerkung Eigentums-Anspruch sichert
 - Nur bei extremer Bau-Stop und keinem Verwalter-Plan
@@ -118,28 +118,28 @@ Mandate von Erwerbern bei Bautraeger-Insolvenz — Sicherheiten, Vormerkung, San
 ## 7) Mehrere Erwerber
 
 - Erwerber haben **gleichen Rang**
-- Buergschaft-Verteilung anteilig
+- Bürgschaft-Verteilung anteilig
 - Vormerkungen jeweils in Rang ihrer Eintragung
-- Bei Bauteil-Differenzierung: einheitliche Loesung schwierig
+- Bei Bauteil-Differenzierung: einheitliche Lösung schwierig
 
 ## 8) Typische Fehler
 
 1. **Vormerkung nicht eingetragen** -> Insolvenzverwalter kann veraeussern
-2. **Buergschaft nicht angefordert** -> Erwerber zahlt zweimal
-3. **Forderungs-Anmeldung versaeumt** -> Insolvenzquote-Verlust
-4. **Verwalter-Wahlrecht uebersehen** -> Erfuellung mit hohem Restbetrag
+2. **Bürgschaft nicht angefordert** -> Erwerber zahlt zweimal
+3. **Forderungs-Anmeldung versäumt** -> Insolvenzquote-Verlust
+4. **Verwalter-Wahlrecht übersehen** -> Erfüllung mit hohem Restbetrag
 5. **Bauverzug-Pflichten ignoriert** -> Mangelrechte verjaehren
 
 ## 9) BGH-/IX. Senat-Linien
 
 - BGH, Urt. v. 7.4.2005 — IX ZR 109/04 (Vormerkungs-Schutz Insolvenz)
-- BGH, Urt. v. 25.4.2013 — IX ZR 235/12 (§ 103 InsO Bautraeger)
-- BGH, Urt. v. 26.1.2017 — IX ZR 285/14 (Buergschaft-Verteilung)
+- BGH, Urt. v. 25.4.2013 — IX ZR 235/12 (§ 103 InsO Bauträger)
+- BGH, Urt. v. 26.1.2017 — IX ZR 285/14 (Bürgschaft-Verteilung)
 
 ## 10) Honorar
 
 - Beratung: Pauschal 1.500-3.000 EUR
-- Klage: nach Streitwert (Restkaufpreis + Buergschafts-Hoehe)
+- Klage: nach Streitwert (Restkaufpreis + Bürgschafts-Höhe)
 - Forderungs-Anmeldung Insolvenz: separat nach § 22 RVG
 
 ## Anschluss
