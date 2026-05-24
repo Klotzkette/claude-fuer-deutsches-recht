@@ -129,8 +129,8 @@ Top-Up Tax = (15 % - ETR) × (GloBE Income - Substance-Based Income Exclusion)
 ### Phase 4 — Erklärung
 
 - **GloBE Information Return** (GIR) — XML-Datei an BZSt.
-- **Erstabgabe** 15 Monate nach Ende des ersten Geschäftsjahrs (für GJ 2024: bis Ende März/Juni 2026).
-- Folgejahre: 15 Monate nach Geschäftsjahr-Ende.
+- **Erstabgabe (Übergangsregelung)** — **18 Monate** nach Ende des ersten in den Anwendungsbereich fallenden Geschäftsjahrs (§ 95 Abs. 1 MinStG i.V.m. Art. 44 Abs. 7 EU-RL 2022/2523). Für Konzerne mit kalenderjahrgleichem GJ 2024: Frist **30.6.2026**. Für abweichende Wirtschaftsjahre entsprechend 18 Monate nach Ende GJ 2024.
+- **Folgejahre** (ab dem zweiten in-scope GJ): **15 Monate** nach Geschäftsjahr-Ende (§ 95 Abs. 1 MinStG).
 
 ### Phase 5 — Bei Erkenntnis Top-Up Tax
 

@@ -29,7 +29,7 @@ Anwaltliche Beratung bei Erwerb von Anteilen an Gesellschaften mit inländischem
 - **§ 1 Abs. 3 GrEStG** — Unmittelbare **Anteilsvereinigung** zu mindestens **90 %** durch eine Person.
 - **§ 1 Abs. 3a GrEStG** — Wirtschaftliche Beteiligung **mindestens 90 %** durch mehrstufige Beteiligungsketten.
 - **§ 5 / § 6 GrEStG** — Befreiungen bei Anteilsübertragungen zwischen Gesamthand/PersGes-Gesellschaftern (eingeschränkt).
-- **§ 7 GrEStG** — Befreiung bei Konzernerwerb (sehr eingeschränkt; bestimmte Voraussetzungen).
+- **§ 6a GrEStG** — **Konzernklausel** (Steuervergünstigung bei Umstrukturierungen im Konzern): Befreiung für Erwerbsvorgänge nach § 1 Abs. 1 Nr. 3, Abs. 2, 2a, 2b, 3 oder 3a GrEStG aufgrund einer Umwandlung (§ 1 Abs. 1 Nr. 1-3 UmwG) oder Einbringung im Konzern. Voraussetzungen: **herrschendes Unternehmen** hält am abhängigen Unternehmen mindestens **95 %** ununterbrochen während der **Vor- und Nachbehaltensfrist von je 5 Jahren**. § 7 GrEStG regelt dagegen die Steuermessung beim Übergang von Gesamthandsvermögen in Bruchteilseigentum, nicht Konzernsachverhalte.
 - **§ 8 GrEStG** — Bemessungsgrundlage: **Grundbesitzwert** § 138 BewG (nicht Kaufpreis Anteile; Sonderbewertung).
 - **§ 11 GrEStG** — Steuersatz: Ländersteuer, **zwischen 3,5 % und 6,5 %** je Bundesland.
 - **§ 19 GrEStG** — Anzeigepflicht: **2 Wochen** ab Tatbestandsverwirklichung; Verstoß bewehrt mit Säumniszuschlägen und ggf. Strafverfahren.
@@ -112,7 +112,7 @@ und wird zusätzlich zum Kaufpreis fällig.
 ### Option 4 — Befreiungstatbestände nutzen
 
 - § 5/§ 6 GrEStG bei Anteilsübertragung in PersGes (Gesamthand)
-- § 7 GrEStG bei Konzernerwerb (sehr eingeschränkt)
+- § 6a GrEStG bei konzerninternen Umstrukturierungen (Umwandlung/Einbringung; 95 %-Beteiligung + 5 Jahre Vor- und Nachbehaltensfrist)
 - Vorsicht: Behaltefristen!
 
 ## Anzeigepflicht § 19 GrEStG
