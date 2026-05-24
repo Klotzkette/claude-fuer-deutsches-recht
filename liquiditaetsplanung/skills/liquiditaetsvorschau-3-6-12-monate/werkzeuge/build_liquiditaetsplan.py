@@ -576,8 +576,14 @@ class XlsxWorkbook:
                     parts.append("<b/>")
                 parts.append(f'<color rgb="FF{fc}"/>')
                 parts.append("</font>")
+                # patternType="solid" ist zwingend, sonst rendern Excel-konforme
+                # Reader keine Hintergrundfarbe. Excel-DXFs nutzen bgColor als
+                # Solid-Color (anders als normale Fills, die fgColor nehmen);
+                # wir setzen beide auf denselben Wert fuer maximale Kompatibilitaet.
                 parts.append(
-                    f'<fill><patternFill><bgColor rgb="FF{bg}"/></patternFill></fill>'
+                    f'<fill><patternFill patternType="solid">'
+                    f'<fgColor rgb="FF{bg}"/><bgColor rgb="FF{bg}"/>'
+                    f'</patternFill></fill>'
                 )
                 parts.append("</dxf>")
             parts.append("</dxfs>")
