@@ -62,13 +62,22 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import sys
 from pathlib import Path
 from typing import Any
 
-import openpyxl
-from openpyxl.formatting.rule import CellIsRule
-from openpyxl.styles import Alignment, Font, PatternFill, Border, Side
-from openpyxl.utils import get_column_letter
+try:
+    import openpyxl
+    from openpyxl.formatting.rule import CellIsRule
+    from openpyxl.styles import Alignment, Font, PatternFill, Border, Side
+    from openpyxl.utils import get_column_letter
+except ImportError:
+    sys.stderr.write(
+        "FEHLER: Modul 'openpyxl' nicht installiert.\n"
+        "Installation: pip install openpyxl\n"
+        "(Optional auch 'pyyaml' fuer komfortable YAML-Eingabe: pip install pyyaml)\n"
+    )
+    sys.exit(2)
 
 try:
     import yaml  # type: ignore
