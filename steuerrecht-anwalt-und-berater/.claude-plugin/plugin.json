@@ -1,7 +1,7 @@
 {
   "name": "steuerrecht-anwalt-und-berater",
   "version": "7.1.0",
-  "description": "Steuerberater und Fachanwalt fuer Steuerrecht: Bescheidanalyse Einspruch Klage Finanzgericht Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht. Steuerberater-Werkzeuge BWA SuSa Bilanzpruefung Krisenfrueherkennung. Praefixe anw- fa- stb-.",
+  "description": "Steuerrecht fuer Anwaltschaft (anw-) inkl. Fachanwaeltinnen Steuerrecht FAO § 9 und Steuerberatung (stb-): Bescheidanalyse Einspruch Klage Finanzgericht Aussenpruefung Selbstanzeige Strafverteidigung Verbindliche Auskunft Akteneinsicht. StB-Werkzeuge BWA SuSa Bilanz Ueberschuldungspruefung § 19 InsO Liquiditaetsvorschau Krisenfrueherkennung § 102 StaRUG. Haftungs-Warnschreiben StB und Anwalt § 15a InsO § 15b InsO. Ersetzt frueheres fachanwalt-steuerrecht-Plugin.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -30,6 +30,12 @@
     "bwa",
     "susa",
     "krisenfrueherkennung",
+    "ueberschuldungspruefung",
+    "fortbestehensprognose",
+    "haftungswarnung",
+    "starug-102",
+    "insolvenzantragspflicht",
+    "steuerstrafverteidigung",
     "fao-paragraf-9"
   ]
 }

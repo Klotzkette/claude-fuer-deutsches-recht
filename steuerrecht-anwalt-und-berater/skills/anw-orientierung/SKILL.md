@@ -1,14 +1,11 @@
 ---
-name: fa-orientierung
-description: Orientierung im Steuerrecht und Fachanwaltschaft nach FAO § 9. AO Abgabenordnung EStG KStG UStG GewStG ErbStG GrEStG. Einspruch § 347 AO Frist ein Monat AdV § 361 AO. Aussenpruefung §§ 193 ff. AO Schlussbesprechung. Finanzgerichtsverfahren FGO Klage beim FG dann Revision BFH. Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. Standardliteratur Tipke/Kruse HHSp L. Schmidt EStG.
+name: anw-orientierung
+description: Orientierung Anwalt im Steuerrecht. AO Abgabenordnung EStG KStG UStG GewStG ErbStG GrEStG. Einspruch § 347 AO Frist ein Monat AdV § 361 AO. Aussenpruefung §§ 193 ff. AO Schlussbesprechung. Finanzgerichtsverfahren FGO Klage beim FG dann Revision BFH. Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. Standardliteratur Tipke/Kruse HHSp L. Schmidt EStG. Anhang FAO § 9 Voraussetzungen Fachanwaltschaft.
 ---
 
-# Fachanwalt für Steuerrecht — Orientierung
+# Anwalt im Steuerrecht — Orientierung
 
-## FAO-Voraussetzungen (§ 9 FAO)
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 50 Fälle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fünf rechtsförmliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.
+Dieser Skill ist die Einstiegs-Orientierung fuer **alle Anwaeltinnen und Anwaelte im Steuerrecht** — unabhaengig davon, ob der Fachanwaltstitel angestrebt oder bereits gefuehrt wird. Die FAO-§-9-Voraussetzungen sind als Anhang aufgenommen, weil sie nur fuer den Erwerbsweg relevant sind und das Mandat als solches nicht beeinflussen.
 
 ## Wichtige Normen
 
@@ -40,6 +37,7 @@ description: Orientierung im Steuerrecht und Fachanwaltschaft nach FAO § 9. AO 
 - **Festsetzungsverjährung** § 169 AO — regelmäßig vier Jahre; bei leichtfertiger Steuerverkürzung fünf Jahre, bei Steuerhinterziehung zehn Jahre.
 - **Aussetzung der Vollziehung** § 361 AO und § 69 FGO — jederzeit, bis Bestandskraft.
 - **Erklärungsfristen** § 149 AO iVm § 150 AO; vertretene Steuerpflichtige Februar des Zweitfolgejahres.
+- **Zugangsfiktion einfacher Brief** § 122 Abs. 2 Nr. 1 AO — seit PostModG 1.1.2025 vier Tage (vorher drei).
 
 ## Hauptgerichte
 
@@ -63,7 +61,16 @@ description: Orientierung im Steuerrecht und Fachanwaltschaft nach FAO § 9. AO 
 
 ## Schnittstellen
 
-- **`steuerrecht-anwalt-und-berater`** für Mandatsführung, Mandantenkommunikation, Werkzeuge.
+- **`stb-`-Skills im selben Plugin** fuer Steuerberater-spezifische Workflows (BWA-/SuSa-/Bilanzpruefung, Liquiditaetsvorschau).
 - **`kanzlei-cowork`** für Fristen, Versand, Aktenführung.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Tax-Aspekten der Unternehmensberatung.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Steuerforderungen in der Insolvenz.
+
+## Anhang — FAO-Voraussetzungen (§ 9 FAO)
+
+Nur relevant fuer den Erwerb des Fachanwaltstitels „Fachanwalt fuer Steuerrecht":
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 50 Faelle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fuenf rechtsfoermliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.
+
+Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl fuer Fachanwaeltinnen/Fachanwaelte als auch fuer alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.
