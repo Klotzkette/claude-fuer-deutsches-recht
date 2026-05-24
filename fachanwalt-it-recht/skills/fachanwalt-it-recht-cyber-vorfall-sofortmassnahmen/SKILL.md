@@ -202,5 +202,5 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 ## Anschluss
 
 - `phishing-vorfall-pruefer` — bei Phishing-Vorfall
-- `datenschutzrecht/skills/datenpannenmeldung` — für formellen Antrag
+- `datenschutzrecht/skills/datenpanne-meldung` — für formellen Antrag
 - `fachanwalt-strafrecht-orientierung` — bei Strafanzeige
