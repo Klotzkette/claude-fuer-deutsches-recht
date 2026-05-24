@@ -1,6 +1,6 @@
 ---
 name: stb-warnschreiben-krisensignale
-description: Schreibvorlage Steuerberater an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Pflichthinweis nach BGH IX ZR 285/14 und IX ZR 64/12 (Steuerberater-Hinweispflicht bei erkennbarer Krise) zur eigenen Haftungsvermeidung. Klare Bezugnahme auf § 15a InsO Antragspflicht (3 Wochen Zahlungsunfaehigkeit 6 Wochen Ueberschuldung) und § 102 StaRUG Krisenfrueherkennung. Empfehlung anwaltlicher Beratung. Keine eigene Rechtsberatung (§ 5 RDG). Eingangsbestaetigung dokumentiert.
+description: Schreibvorlage Steuerberater an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Pflichthinweis nach BGH IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 IX ZR 70/07 (Steuerberater-Hinweispflicht bei erkennbarer Krise) zur eigenen Haftungsvermeidung. Steuerberater ist regelmaessig externer Bestandteil des Krisenfrueherkennungssystems der Mandantin nach § 102 StaRUG — ohne seinen Hinweis kann die Geschaeftsleitung ihrer eigenen Pflicht nicht nachkommen. Bezug § 15a InsO Antragspflicht (drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung). Empfehlung anwaltlicher Beratung. Keine eigene Rechtsberatung (§ 5 RDG). Eingangsbestaetigung dokumentiert.
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen
@@ -10,6 +10,12 @@ description: Schreibvorlage Steuerberater an Mandanten-Geschaeftsfuehrung bei Kr
 Dieser Skill erstellt das **schriftliche Warnschreiben** des Steuerberaters an die Geschäftsführung einer GmbH/UG, wenn aus der laufenden Buchhaltungsbetreuung Krisensignale erkennbar werden — typisch im Anschluss an `stb-bwa-sus-bilanz-pruefung`, `stb-ueberschuldungspruefung-19-inso` oder `stb-liquiditaetsvorschau-3wochen` mit gelber oder roter Ampel.
 
 > Der Hinweis ist **keine Rechtsberatung** (§ 5 RDG). Er erfüllt die **Sorgfaltspflicht des Steuerberaters** nach BGH IX ZR 285/14 und IX ZR 64/12 — wer Krisensignale erkennt und nicht hinweist, haftet für die Verschleppungsschäden.
+
+### Warum gerade der Steuerberater
+
+Der Steuerberater ist in der Mandatsbetreuung in der Regel **derjenige Berater, der laufend über die wirtschaftlichen Verhältnisse der Mandantin informiert ist** — durch monatliche BWA, SuSa-Auswertungen, Lohnsteuer- und Umsatzsteuer-Voranmeldungen, Bilanzaufstellung und ggf. Liquiditätsplanung. Damit ist er **strukturell der erste**, der Krisensignale erkennt — oft Wochen oder Monate vor dem anwaltlichen Berater.
+
+Die Geschäftsleitung haftungsbeschränkter Gesellschaften ist nach **§ 102 StaRUG** verpflichtet, bestandsgefährdende Entwicklungen früh zu erkennen und Gegenmaßnahmen einzuleiten. Der Steuerberater ist regelmäßig der zentrale **externe Informationsgeber** dieses Krisenfrüherkennungssystems — ohne seinen Hinweis kann die GF ihrer eigenen § 102 StaRUG-Pflicht oft nicht nachkommen. Aus dieser tatsächlichen Schlüsselstellung folgt nach ständiger BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18) die **eigene Hinweispflicht** des Steuerberaters bei erkennbaren Krisensignalen. Ihr Verletzen führt zu eigener Haftung für Verschleppungsschäden.
 
 ## Eingaben
 
@@ -28,21 +34,31 @@ Dieser Skill erstellt das **schriftliche Warnschreiben** des Steuerberaters an d
 - **§ 5 RDG** — Nebenleistungspflicht: rechtliche Hinweise sind zulässig, soweit sie zur Erfüllung der steuerberatenden Hauptleistung gehören. **Keine eigene Rechtsberatung** zur Insolvenzantragspflicht — Empfehlung anwaltlicher Beratung ist Pflichtbestandteil.
 - **§ 15a Abs. 1 InsO** — Insolvenzantragspflicht der GmbH-Geschäftsführung: bei Zahlungsunfähigkeit **drei Wochen**, bei Überschuldung **sechs Wochen** ab Eintritt.
 - **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
-- **§ 102 StaRUG** — Krisenfrüherkennungspflicht der Geschäftsleitung haftungsbeschränkter Gesellschaften; ergänzt § 91 Abs. 2 AktG analog.
+- **§ 102 StaRUG** — Krisenfrüherkennungspflicht der Geschäftsleitung haftungsbeschränkter Gesellschaften; ergänzt § 91 Abs. 2 AktG analog. Der Steuerberater ist als laufender Buchhaltungs- und Bilanzbetreuer regelmäßig **wesentlicher externer Bestandteil** des Krisenfrüherkennungssystems. Versäumt er einen rechtzeitigen Hinweis, bricht das System praktisch zusammen — daraus folgt die eigene Hinweispflicht (siehe BGH IX ZR 285/14).
 - **§ 627 BGB** — Vertrauensstellung Steuerberatungsvertrag; Hinweis-/Aufklärungspflicht als Hauptpflicht.
 
 ### Leitentscheidungen
 
 - BGH, Urt. v. 26.1.2017 — **IX ZR 285/14** ("Steuerberater-Haftung wegen unterlassener Krisenwarnung"): Steuerberater haftet für Insolvenzverschleppungsschäden, wenn er aus der Buchhaltung Krisensignale erkennt und nicht hinweist. Maßstab: erkennbarer rechnerischer Überschuldungsstatus oder anhaltende Zahlungsstockung.
 - BGH, Urt. v. 7.3.2013 — **IX ZR 64/12** (Hinweispflicht bei drohender Insolvenzreife): Bereits **drohende** Insolvenzreife begründet die Hinweispflicht — nicht erst die manifeste Antragspflicht.
-- BGH, Urt. v. 6.6.2019 — **IX ZR 104/18** (Maßstab der erkennbaren Krisensignale; Substantiierungslast Steuerberater).
+- BGH, Urt. v. 6.6.2019 — **IX ZR 104/18** (Maßstab der erkennbaren Krisensignale; Substantiierungslast Steuerberater bei späterer Streitlage zur Hinweiserteilung).
 - BGH, Urt. v. 14.10.2010 — **IX ZR 153/09** (Steuerberater muss auf Schäden aus Geschäftsführerhaftung hinweisen).
+- BGH, Urt. v. 18.2.2010 — **IX ZR 70/07** (Inhalt und Maßstab der Hinweispflicht; ausdrückliche Warnung erforderlich, allgemeine Andeutungen genügen nicht).
+
+### § 102 StaRUG als Auslöser der StB-Hinweispflicht
+
+§ 102 StaRUG verpflichtet die Geschäftsleitung haftungsbeschränkter Gesellschaften zur fortlaufenden Krisenfrüherkennung und zum Ergreifen geeigneter Gegenmaßnahmen. In der Praxis stützt sich die GF auf die laufende Datenversorgung durch den Steuerberater. Daraus folgt:
+
+1. **Datenpflicht des Steuerberaters** — BWA, SuSa, Liquiditätsvorschau müssen so aufbereitet sein, dass Krisensignale für die GF erkennbar sind.
+2. **Aktive Hinweispflicht** — Erkennt der Steuerberater Krisensignale, muss er sie **ausdrücklich benennen**; bloße Übersendung der Zahlen genügt nicht (BGH IX ZR 70/07).
+3. **Empfehlung zum Aufbau des Krisenfrüherkennungssystems** — Wenn die Mandantin noch kein § 102 StaRUG-System hat, soll der Steuerberater auf die Pflicht zur Einrichtung hinweisen und die eigene Datenlieferung als Baustein anbieten.
+4. **Dokumentation** — Jedes Warnschreiben dient zugleich als Nachweis, dass die § 102 StaRUG-Pflicht der GF durch den Berater ordnungsgemäß unterstützt wurde.
 
 ## Vorgehen
 
-### 1. Krisensignale benennen
+### 1. Krisensignale benennen — § 102 StaRUG-tauglich
 
-Auflisten, **welche konkreten Befunde** der Steuerberater ermittelt hat. Beispiele:
+Auflisten, **welche konkreten Befunde** der Steuerberater ermittelt hat. Die Aufstellung soll so beziffert sein, dass die GF sie unmittelbar in das eigene § 102 StaRUG-System übernehmen kann. Beispiele:
 
 - Negatives Eigenkapital seit Stichtag XX.XX.XXXX (Aktiva EUR …, Passiva EUR …, Differenz EUR …).
 - Anhaltende Unterdeckung Lohnsteuer-/Sozialversicherungsbeiträge.
@@ -53,7 +69,7 @@ Auflisten, **welche konkreten Befunde** der Steuerberater ermittelt hat. Beispie
 
 ### 2. Rechtliche Einordnung — bewusst zurückhaltend
 
-Steuerberater **nennt** § 15a InsO, § 102 StaRUG und § 15b InsO als anwendbare Normen, **beurteilt sie aber nicht eigenständig**. Die anwaltliche Beratungsempfehlung ist Pflichtbestandteil.
+Steuerberater **nennt** § 15a InsO, § 102 StaRUG und § 15b InsO als anwendbare Normen, **beurteilt sie aber nicht eigenständig**. Die anwaltliche Beratungsempfehlung ist Pflichtbestandteil. Zusätzlich wird die GF auf ihre eigene § 102 StaRUG-Dokumentationspflicht hingewiesen und gebeten, das vorliegende Warnschreiben in das interne Krisenfrüherkennungssystem aufzunehmen.
 
 ### 3. Empfehlung mit Frist
 
@@ -104,13 +120,18 @@ sind als Geschaeftsfuehrer/in nach § 15a Abs. 1 InsO verpflichtet, bei
 Zahlungsunfaehigkeit innerhalb von drei Wochen, bei Ueberschuldung
 innerhalb von sechs Wochen Insolvenzantrag zu stellen. Zudem trifft Sie
 nach § 102 StaRUG die Pflicht zur Krisenfrueherkennung und zum Ergreifen
-geeigneter Gegenmassnahmen.
+geeigneter Gegenmassnahmen — wir empfehlen Ihnen, dieses Schreiben
+unmittelbar in Ihr internes Krisenfrueherkennungssystem aufzunehmen und
+den Eingang sowie die ergriffenen Massnahmen schriftlich zu dokumentieren.
 
 Wir leisten Ihnen mit diesem Schreiben den uns als Steuerberater nach
 staendiger Rechtsprechung des Bundesgerichtshofs obliegenden Hinweis
-(zuletzt BGH, Urt. v. 26.01.2017 — IX ZR 285/14). Eine rechtliche
-Beurteilung der Insolvenzantragspflicht ist uns als Steuerberater nach
-§ 5 RDG nicht erlaubt.
+(BGH IX ZR 285/14, IX ZR 64/12, IX ZR 104/18, IX ZR 70/07). Als Ihr
+laufender Steuerberater sind wir in tatsaechlicher Hinsicht regelmaessig
+derjenige Berater, der wirtschaftliche Schieflagen zuerst erkennt, und
+damit wesentlicher Bestandteil Ihres Krisenfrueherkennungssystems nach
+§ 102 StaRUG. Eine rechtliche Beurteilung der Insolvenzantragspflicht
+ist uns als Steuerberater nach § 5 RDG nicht erlaubt.
 
 Wir empfehlen Ihnen mit Nachdruck, **binnen einer Woche**:
 
@@ -150,6 +171,8 @@ Mit freundlichen Gruessen
 - `stb-liquiditaetsvorschau-3wochen` — Liquiditätsdaten als Beleg
 - `liquiditaetsplanung` (separates Power-Plugin) — gerichtsfeste insolvenzrechtliche Liquiditätsbilanz
 - `anw-haftungswarn-15a-inso-mandant` — anwaltliche Spiegelvariante (typisch nachgelagert, wenn Mandant anwaltlich vertreten ist)
+- `anw-insolvenzreife-pruefung-17-19-inso` — anwaltliche Beurteilung der Insolvenzreife (steuerspezifischer Schwerpunkt)
+- `krisenfrueherkennung-starug` (separates Power-Plugin) — vertiefte § 102 StaRUG-Pflicht und Aufbau des Krisenfrüherkennungssystems
 
 ## Quellen und Updates
 
