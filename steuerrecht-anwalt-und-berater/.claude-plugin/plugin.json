@@ -1,7 +1,7 @@
 {
   "name": "steuerrecht-anwalt-und-berater",
   "version": "7.1.0",
-  "description": "Steuerrecht fuer Anwaltschaft (anw-) inkl. Fachanwaeltinnen Steuerrecht FAO § 9 und Steuerberatung (stb-): Bescheidanalyse Einspruch Klage Finanzgericht Aussenpruefung Selbstanzeige Strafverteidigung Verbindliche Auskunft Akteneinsicht. StB-Werkzeuge BWA SuSa Bilanz Ueberschuldungspruefung § 19 InsO Liquiditaetsvorschau Krisenfrueherkennung § 102 StaRUG. Haftungs-Warnschreiben StB und Anwalt § 15a InsO § 15b InsO. Ersetzt frueheres fachanwalt-steuerrecht-Plugin.",
+  "description": "Steuerrecht fuer Anwaltschaft (anw- inkl. Fachanwaltschaft FAO § 9) und Steuerberatung (stb-): Bescheidanalyse Einspruch Klage FG Aussenpruefung Selbstanzeige Strafverteidigung. StB-Tools BWA SuSa Bilanz Ueberschuldungspruefung Liquiditaet Krisenfrueherkennung. Ersetzt fachanwalt-steuerrecht.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

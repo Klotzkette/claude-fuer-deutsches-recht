@@ -208,6 +208,10 @@ function checkPluginManifests() {
     if (typeof data.description === 'string' && /\d\s*,\s*\d/.test(data.description)) {
       errors.push(`${rel(m)}: description darf keine Zahl-Komma-Zahl-Sequenz enthalten (Cowork-Validator bricht); nutze 'Rn', 'und' oder '/'`);
     }
+    // Marketplace-Limit für Plugin-Description: 300 Zeichen.
+    if (typeof data.description === 'string' && data.description.length > 300) {
+      errors.push(`${rel(m)}: plugin description exceeds 300 chars (${data.description.length}) — Marketplace-Limit`);
+    }
   }
 }
 

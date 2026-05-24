@@ -754,7 +754,7 @@
     {
       "name": "steuerrecht-anwalt-und-berater",
       "source": "./steuerrecht-anwalt-und-berater",
-      "description": "Steuerberater und Fachanwalt fuer Steuerrecht: Bescheidanalyse Einspruch Klage Finanzgericht Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht. Steuerberater-Werkzeuge BWA SuSa Bilanzpruefung. Praefixe anw- fa- stb-.",
+      "description": "Steuerrecht fuer Anwaltschaft (anw- inkl. Fachanwaltschaft FAO § 9) und Steuerberatung (stb-): Bescheidanalyse Einspruch Klage FG Aussenpruefung Selbstanzeige Strafverteidigung. StB-Tools BWA SuSa Bilanz Ueberschuldungspruefung Liquiditaet Krisenfrueherkennung. Ersetzt fachanwalt-steuerrecht.",
       "author": {
         "name": "Klotzkette"
       },

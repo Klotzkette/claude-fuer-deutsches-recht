@@ -1,6 +1,6 @@
 ---
 name: stb-ueberschuldungspruefung-19-inso
-description: "Stichtagsbezogene Ueberschuldungspruefung der GmbH nach § 19 Abs. 2 InsO durch den Steuerberater. Zweistufige Pruefung — rechnerische Ueberschuldung (Aktiva vs. Passiva zu Liquidationswerten) und Fortbestehensprognose (24-Monats-Horizont nach SanInsKG; sonst zwoelf Monate). Maßstab BGH II ZR 233/18 sowie BGH II ZR 88/16 (Passiva II). IDW S 6 (Sanierungskonzepte) und IDW S 11 (Insolvenzeroeffnungsgruende). Ergibt Ampel-Bewertung und triggert Mandantenwarnschreiben bei roter Ampel (siehe stb-warnschreiben-krisensignale)."
+description: "Stichtagsbezogene Ueberschuldungspruefung der GmbH nach § 19 Abs. 2 InsO durch den Steuerberater. Zweistufige Pruefung — rechnerische Ueberschuldung (Aktiva vs. Passiva zu Liquidationswerten) und Fortbestehensprognose (24-Monats-Horizont nach SanInsKG; sonst zwoelf Monate). Massstab BGH II ZR 233/18 sowie BGH II ZR 88/16 (Passiva II). IDW S 6 (Sanierungskonzepte) und IDW S 11 (Insolvenzeroeffnungsgruende). Ergibt Ampel-Bewertung und triggert Mandantenwarnschreiben bei roter Ampel (siehe stb-warnschreiben-krisensignale)."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)
