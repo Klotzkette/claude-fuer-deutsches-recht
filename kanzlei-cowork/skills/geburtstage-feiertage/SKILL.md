@@ -31,7 +31,7 @@ description: Pflegt einen Mandanten- und Geschaeftspartner-Geburtstagsverteiler.
 
 - **Art. 6 Abs. 1 lit. f DSGVO** berechtigtes Interesse — Mandantenpflege ist allgemein zulässig.
 - **Widerspruchsrecht** beachten — auf Widerspruch hin Eintrag deaktivieren.
-- **Information bei Mandatsbeginn** (Datenschutzhinweis § 13 DSGVO) auf mögliche Glückwunschsendungen.
+- **Information bei Mandatsbeginn** (Datenschutzhinweis Art. 13 DSGVO) auf mögliche Glückwunschsendungen.
 - **Verarbeitungsverzeichnis** nach Art. 30 DSGVO ergänzen.
 
 ## Tagesbrief-Integration

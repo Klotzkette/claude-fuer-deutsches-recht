@@ -141,7 +141,7 @@ Bei jedem Kündigungs-, Aufhebungsvertrag- oder AGG-Mandat zusätzlich prüfen:
 3. Prüfen: Liegt objektives + subjektives Element für Missbrauchseinwand vor (EuGH C-526/24)?
 4. Falls Missbrauchseinwand nicht sicher: Auskunft erteilen oder begründet verzögern (max. zwei weitere Monate, Art. 12 Abs. 3 S. 2 DSGVO).
 5. Ausgleichsklausel im Aufhebungsvertrag: DSGVO-Ansprüche und Art.-82-Schadensersatz einbeziehen?
-6. Zuständigkeit: Auskunftsklage gehört vor das Landgericht (§ 44 DSGVO), nicht vor das Arbeitsgericht.
+6. Zuständigkeit: Auskunftsklage gehört vor das Landgericht (§ 44 BDSG i.V.m. Art. 79 DSGVO), nicht vor das Arbeitsgericht.
 
 Querverweis: `arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md` (Abschnitt DSGVO-Auskunftsersuchen als Druckmittel) und `arbeitsrecht/skills/aufhebungsvertrag/SKILL.md` (DSGVO-Auskunftsersuchen als Verhandlungshebel).
 

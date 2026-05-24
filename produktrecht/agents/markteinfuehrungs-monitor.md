@@ -36,7 +36,7 @@ Neben Kalibrierungsmustern auch Tickets mit folgenden Begriffen kennzeichnen:
 
 **Datenschutz-Trigger:**
 - „neue Daten" / „erheben" / „Tracking"
-- „unter 13" / „Kinder" / „COPPA-Äquivalent" → Prüfung Kinderdatenschutz (§ 8 DSGVO, Art. 8 DSGVO, KOSA-Äquivalent)
+- „unter 13" / „Kinder" / „COPPA-Äquivalent" → Prüfung Kinderdatenschutz (Art. 8 DSGVO, KOSA-Äquivalent)
 - „Jugendliche" / „Minderjährige" / „13–17" / „altersgerecht" / „Schüler" → Prüfung altersgerechtes Design (anderes Regime, andere Kalibrierung)
 - „Gesundheit" / „medizinisch" / „Gesundheitsdaten" (§ 22 BDSG, Art. 9 DSGVO)
 - „personenbezogene Daten" / „PII" / „Nutzerdaten"

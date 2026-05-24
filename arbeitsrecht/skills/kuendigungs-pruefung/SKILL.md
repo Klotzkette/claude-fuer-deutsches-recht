@@ -130,7 +130,7 @@ Hürden sind **hoch**: Das Auskunftsrecht ist ein Grundrecht (Art. 8 GRCh); Ausn
 **Praxishinweise für den Arbeitgeber:**
 - DSGVO-Auskunft fristgerecht innerhalb eines Monats beantworten (Art. 12 Abs. 3 DSGVO); unberechtigte Ablehnung kann eigenständigen Schadensersatzanspruch nach Art. 82 DSGVO auslösen.
 - Dokumentation für Missbrauchseinwand anlegen: Datum Kündigung, Datum Auskunftsantrag, Vorliegen von Legal-Tech-Vollmacht, Muster bei anderen Mitarbeitern.
-- Parallellauf Kündigungsschutzverfahren und DSGVO-Auskunftsstreit im Blick behalten: Zuständiges Gericht für Auskunftsklage ist nach § 44 DSGVO das Landgericht (nicht das Arbeitsgericht); Koordinierung der Prozesstaktik erforderlich.
+- Parallellauf Kündigungsschutzverfahren und DSGVO-Auskunftsstreit im Blick behalten: Zuständiges Gericht für Auskunftsklage ist nach Art. 79 DSGVO i.V.m. § 44 BDSG das Landgericht (nicht das Arbeitsgericht); Koordinierung der Prozesstaktik erforderlich.
 
 Querverweis: `datenschutzrecht/skills/dsgvo-auskunft/SKILL.md` (soweit im Plugin vorhanden).
 

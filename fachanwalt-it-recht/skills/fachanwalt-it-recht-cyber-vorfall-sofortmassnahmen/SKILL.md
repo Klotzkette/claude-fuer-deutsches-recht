@@ -78,7 +78,7 @@ Bei akutem Cyber-Vorfall (Ransomware, Datenleck, Hack): koordinierte rechtliche 
 
 - Forensik-Bericht-Zwischenstand
 - Schadens-Bewertung
-- Betroffene-Information § 34 DSGVO falls Pflicht
+- Betroffene-Information Art. 34 DSGVO falls Pflicht
 
 ### Tag 6-7
 
