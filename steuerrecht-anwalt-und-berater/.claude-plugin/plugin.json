@@ -1,0 +1,35 @@
+{
+  "name": "steuerrecht-anwalt-und-berater",
+  "version": "7.0.0",
+  "description": "Steuerberater und Fachanwalt fuer Steuerrecht: Bescheidanalyse Einspruch Klage Finanzgericht Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht. Steuerberater-Werkzeuge BWA SuSa Bilanzpruefung Krisenfrueherkennung. Praefixe anw- fa- stb-.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "steuerrecht",
+    "fachanwalt-steuerrecht",
+    "steuerberater",
+    "finanzgericht",
+    "abgabenordnung",
+    "ao",
+    "fgo",
+    "einspruch",
+    "klage-finanzgericht",
+    "aussetzung-vollziehung",
+    "aussenpruefung",
+    "betriebspruefung",
+    "selbstanzeige",
+    "verbindliche-auskunft",
+    "akteneinsicht-steuerakte",
+    "umsatzsteuer",
+    "einkommensteuer",
+    "koerperschaftsteuer",
+    "gewerbesteuer",
+    "bwa",
+    "susa",
+    "krisenfrueherkennung",
+    "fao-paragraf-9"
+  ]
+}
