@@ -1,6 +1,6 @@
 {
   "name": "mietrecht",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Mietrecht fuer Mieter und Vermieter mit ausschliesslich amtlichen Mietspiegel-Quellen pro Bundesland und fuer Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenpruefung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

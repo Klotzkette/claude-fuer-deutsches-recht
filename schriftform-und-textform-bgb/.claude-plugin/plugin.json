@@ -1,7 +1,7 @@
 {
   "name": "schriftform-und-textform-bgb",
   "displayName": "Schriftform und Textform im BGB",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB qES § 126a Textform § 126b Zugang § 130 BGB lernt aus BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 159/23 Mietkündigung Klauselgenerator Mandantenmemos.",
   "author": {
     "name": "Klotzkette"

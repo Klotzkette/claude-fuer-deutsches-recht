@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-transport-speditionsrecht",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff. Spedition CMR COTIF Montrealer Uebereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {

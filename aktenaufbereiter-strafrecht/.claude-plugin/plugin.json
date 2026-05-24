@@ -1,6 +1,6 @@
 {
   "name": "aktenaufbereiter-strafrecht",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Aktenaufbereiter fuer die Strafverteidigung. Sechs Excel-faehige Uebersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz fuer Aktenlektuere.",
   "license": "Apache-2.0 OR MIT",
   "author": {

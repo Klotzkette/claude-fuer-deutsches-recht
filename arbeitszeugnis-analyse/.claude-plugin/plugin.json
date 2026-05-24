@@ -1,7 +1,7 @@
 {
   "name": "arbeitszeugnis-analyse",
   "displayName": "Arbeitszeugnis-Analyse (Ampelsystem)",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "description": "Analyse deutscher Arbeitszeugnisse nach Ampelsystem (Rot/Orange/Gruen). Erkennt den Geheimcode der Zeugnissprache, identifiziert notenrelevante Saetze und klassifiziert sie mit Interpretation der versteckten Bewertung.",
   "author": {
     "name": "Klotzkette"
