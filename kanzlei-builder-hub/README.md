@@ -100,7 +100,7 @@ Bei Problemen nach der Installation: `/kanzlei-builder-hub:deaktivieren [skill]`
 | **uninstall** | Community-Skill deinstallieren (Erstanbieter-Plugin-Skills sind gesperrt) |
 | **disable** | Community-Skill ohne Dateilöschung deaktivieren; später wieder aktivierbar |
 | **skill-verwalter** | Referenz: Detaillierte Deinstallations-, Deaktivierungs- und Reaktivierungsworkflows |
-| **skills-qualitätsprüfung** | Skill gegen das Kanzlei-Skill-Design-Framework prüfen — Design, Fehlerquellen, Trust-Surface, Zitierweise, Methodik |
+| **skills-qualitaetspruefung** | Skill gegen das Kanzlei-Skill-Design-Framework prüfen — Design, Fehlerquellen, Trust-Surface, Zitierweise, Methodik |
 | **automatischer-aktualisierer** | Updates prüfen; Diff und Trust-Review anzeigen; Anwendung nur nach expliziter Genehmigung |
 | **verwandte-skills-vorschlag** | Verwandte Community-Skills nach einer Aufgabe empfehlen |
 | **anpassen** | Kanzleiprofil, Positivliste, Registry-Watchlist und Aktualisierungseinstellungen anpassen |

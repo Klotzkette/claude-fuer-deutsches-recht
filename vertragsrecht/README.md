@@ -59,9 +59,9 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 | Skill | Zweck |
 |---|---|
 | **ersteinrichtung** | Interview, das `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` schreibt |
-| **lieferantenvertrag-prüfung** | Vollständige Abweichungsanalyse gegen den Vorgehensleitfaden mit Klausel-Redlines (§§ 631, 611 BGB; LkSG) |
-| **nda-prüfung** | Schnelle GRÜN/GELB/ROT-Triage (§§ 17 ff. GeschGehG, § 241 II BGB) |
-| **saas-msa-prüfung** | SaaS-/MSA-spezifische Prüfung: AGB, Datenschutz Art. 28 DSGVO, Haftung, Preiseskalation |
+| **lieferantenvertrag-pruefung** | Vollständige Abweichungsanalyse gegen den Vorgehensleitfaden mit Klausel-Redlines (§§ 631, 611 BGB; LkSG) |
+| **nda-pruefung** | Schnelle GRÜN/GELB/ROT-Triage (§§ 17 ff. GeschGehG, § 241 II BGB) |
+| **saas-msa-pruefung** | SaaS-/MSA-spezifische Prüfung: AGB, Datenschutz Art. 28 DSGVO, Haftung, Preiseskalation |
 | **vertragsverlaengerungs-monitor** | Register der Kündigungsfristen; zeigt Fristen gemäß § 309 Nr. 9 BGB |
 | **eskalation** | Eskalationsmatrix aus dem Vorgehensleitfaden, Vorlage für Genehmigungsanfrage |
 | **stakeholder-zusammenfassung** | Zweisprachige Nicht-Juristen-Fassung eines Rechtsgutachtens |
@@ -137,9 +137,9 @@ vertragsrecht/
 │   ├── kaltstart-interview/    # → ersteinrichtung
 │   ├── vertragspruefung/                  # → prüfen
 │   ├── pruefungsvorschlaege/        # → klausel-vorschläge
-│   ├── lieferantenvertrag-pruefung/ # → lieferantenvertrag-prüfung
-│   ├── nda-pruefung/              # → nda-prüfung
-│   ├── saas-msa-pruefung/         # → saas-msa-prüfung
+│   ├── lieferantenvertrag-pruefung/
+│   ├── nda-pruefung/
+│   ├── saas-msa-pruefung/
 │   ├── vertragsverlaengerungs-monitor/         # → vertragsverlaengerungs-monitor
 │   │   └── references/renewal-register.yaml
 │   ├── eskalations-marker/      # → eskalation

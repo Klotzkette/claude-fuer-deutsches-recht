@@ -62,11 +62,11 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 |---|---|
 | **kaltstart-interview** | Schreibt CLAUDE.md aus Interview und Ausgangsdokumenten |
 | **anwendungsfall-triage** | DSFA-Pflicht? Verzeichnisaufnahme, Rechtsgrundlage Art. 6/9 DSGVO |
-| **avv-prüfung** | AVV-Prüfung bi-direktional (Verantwortlicher/Auftragsverarbeiter), Art. 28 DSGVO, Sub-AV, TIA, EU-SCC, DPF |
+| **avv-pruefung** | AVV-Prüfung bi-direktional (Verantwortlicher/Auftragsverarbeiter), Art. 28 DSGVO, Sub-AV, TIA, EU-SCC, DPF |
 | **dsgvo-auskunft** | Vollständiger Arbeitsablauf Auskunft Art. 15 DSGVO, Fristen, Ausnahmen § 34 BDSG, Rechtsmissbrauchsprüfung (EuGH C-526/24) |
 | **dsgvo-auskunft-antwort** | Identitätsprüfung → Systemabfrage → Ausnahmen → Antwortentwurf (Art. 15–22, Art. 12 Abs. 3 DSGVO) |
 | **dsfa-erstellung** | DSFA nach Art. 35 DSGVO, BfDI-Blacklist/-Whitelist, Schwellwertanalyse |
-| **drittlandstransfer-prüfung** | Drittlandstransfer Art. 44 ff. DSGVO: Angemessenheitsbeschlüsse, SCC 2021 Module 1–4, TIA nach Schrems II, BCR — **neu in v3.3.0** |
+| **drittlandstransfer-pruefung** | Drittlandstransfer Art. 44 ff. DSGVO: Angemessenheitsbeschlüsse, SCC 2021 Module 1–4, TIA nach Schrems II, BCR — **neu in v3.3.0** |
 | **regulierungs-luecken-analyse** | Neue Leitlinie/VO vs. Ist-Zustand; EDSA- und DSK-Leitlinien |
 | **richtlinien-monitor** | Drift-Monitoring Datenschutzerklärung; Entwurf von Aktualisierungen |
 | **mandats-arbeitsbereich** | Mandate anlegen, auflisten, wechseln und schließen für Mehrmandat-Kanzleien |
@@ -176,7 +176,7 @@ datenschutzrecht/
 - **Neuer Skill:** `drittlandstransfer-pruefung` — vollständige Prüfung nach Art. 44 ff. DSGVO inkl. EU-US Data Privacy Framework 2023, SCC 2021 Module 1–4, TIA nach EuGH C-311/18 Schrems II
 - **dsgvo-auskunft:** Neuer Abschnitt Rechtsmissbrauch nach EuGH C-526/24 (Brillen Rottler, 19.03.2026) mit zweistufigem Prüfschema; EuGH C-579/21 (Protokolldaten) ergänzt
 - **dsgvo-auskunft-antwort:** Neuer Abschnitt Ablehnung wegen Rechtsmissbrauch mit Formulierungsbausteinen; EuGH C-579/21 und C-487/21 ergänzt
-- **avv-prüfung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
+- **avv-pruefung:** EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher/Auftragsverarbeiter ergänzt
 - **datenpanne-meldung:** Quellen/Updates und Cross-Refs ergänzt (EuGH C-340/21 war bereits enthalten)
 - **mandantendaten-ki:** Querverweis auf geplantes Plugin `ki-richtlinie-kanzleien` (ab v3.3.0)
 - Alle 13 Skills: Abschnitt „Quellen / Updates" ergänzt; Cross-References zwischen verwandten Skills ausgebaut
