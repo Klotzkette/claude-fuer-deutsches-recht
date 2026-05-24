@@ -5,7 +5,7 @@ Alle wesentlichen Änderungen an diesem Repository werden hier dokumentiert. For
 ## v7.0.0 — 2026-05-24 — Reform-Stand 2026
 
 ### Major-Update
-- Versionsfelder repo-weit auf 7.0.0 vereinheitlicht: 99 plugin.json-Dateien plus 99 plugin-Einträge in `.claude-plugin/marketplace.json` (insgesamt 100 Versionsfelder; marketplace.json bündelt alle Plugins zentral).
+- Versionsfelder repo-weit auf 7.0.0 vereinheitlicht: 99 `plugin.json`-Dateien (je ein `version`-Feld) plus eine zentrale `.claude-plugin/marketplace.json`, die ihrerseits 99 Plugin-Einträge mit `version`-Feld enthält. Summe: 99 + 1 Manifest-Datei mit 99 internen Versions-Einträgen = 198 angefasste Versions-Stellen in 100 Dateien.
 
 ### Inhaltliche Aktualisierungen
 - **Wandeldarlehen-Plugin** auf Reform-Stand 05/2026 angehoben (DiRUG 2022/2023, SanInsFoG 1.1.2021, PostModG 1.1.2025, GesLV, Transparenzregister).
@@ -26,5 +26,5 @@ Alle wesentlichen Änderungen an diesem Repository werden hier dokumentiert. For
 - Testakten-Hinweis im Überblick prominent platziert.
 
 ### Tooling
-- `release-plugin-zips.yml` triggert automatisch auf Tag-Push; pro Release werden 99 Plugin-ZIPs (aus `.claude-plugin/marketplace.json`) plus 44 Testakten-ZIPs (mit `testakte-`-Prefix, separat verpackt) erzeugt — insgesamt 143 Release-Assets.
+- `release-plugin-zips.yml` triggert automatisch auf Tag-Push; pro Release werden 99 Plugin-ZIPs (aus `.claude-plugin/marketplace.json`) plus 43 Testakten-ZIPs (mit `testakte-`-Prefix, separat aus `testakten/*/` verpackt) plus `marketplace.json` als Manifest erzeugt — zusammen 143 Release-Assets.
 - Validator (`scripts/validate-plugin-structure.mjs`) bleibt grün.
