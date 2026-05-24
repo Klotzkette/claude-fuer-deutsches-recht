@@ -49,8 +49,11 @@ Anwaltliche Strafverteidigung in der Steuerstrafsache (Steuerhinterziehung § 37
 
 - **§ 147 StPO** Vollakteneinsicht — Reform 2017 erweitert (Akten und elektronische Daten).
 - **Steufa-Datenträger** anfordern: Bankendaten, Buchhaltungsdaten, ggf. Steuerdaten der Datev/SAP-Auszüge.
-- **§ 30 AO i.V.m. § 393 Abs. 2 AO** — Steuerdaten dürfen im Strafverfahren grundsätzlich nicht verwertet werden, **außer** bei willentlicher Mitteilung oder Selbstanzeige.
-- **Trennung Mandantenakte** Steuerrecht / Strafrecht: separates Aktenführungssystem, da § 393 AO unterschiedliche Auskunftspflichten begründet.
+- **§ 393 Abs. 2 AO** — **Verwendungsverbot nur für nichtsteuerliche Straftaten**: Tatsachen oder Beweismittel, die der Beschuldigte vor Einleitung des Strafverfahrens **dem Finanzamt im Besteuerungsverfahren** in Erfüllung steuerlicher Pflichten offenbart hat, dürfen gegen ihn in einem Strafverfahren wegen einer **steuerfremden** Tat (z.B. Betrug § 263 StGB, Untreue § 266 StGB) nicht verwendet werden. **Wichtige Klarstellung:** Für die hier in Rede stehende **Steuerstraftat selbst** (§§ 369 ff. AO) gilt das Verwendungsverbot **nicht** — Steuerakten, Steueranmeldungen, Steuererklärungen, USt-Voranmeldungen und Buchhaltungsdaten aus der Steuerakte sind im Steuerstrafverfahren grundsätzlich verwertbar (BGH, Urt. v. 12.1.2005 — 5 StR 191/04; Joecks/Jaeger/Randt, Steuerstrafrecht, 8. Aufl. 2015, § 393 Rn. 81 ff.). Eine "§ 393 Abs. 2 AO als Beweisverwertungsverbot für die Steuerstraftat" gibt es nicht und darf in der Verteidigung nicht behauptet werden.
+- **§ 30 AO** — Steuergeheimnis bindet das Finanzamt im Außenverhältnis, schafft im Strafverfahren gegen den Steuerpflichtigen **kein** Verwendungsverbot. Mitteilungen zwischen Steufa und Staatsanwaltschaft sind nach § 30 Abs. 4 Nr. 1 AO i.V.m. § 393 Abs. 3 AO zulässig.
+- **§ 136a StPO** — das übliche Beweisverwertungsverbot greift, wenn die Angaben durch verbotene Vernehmungsmethoden (Täuschung über den Beschuldigtenstatus, Verzicht auf Selbstbelastungsfreiheit) erlangt wurden. **Hier setzt die Verteidigungsstrategie an** — nicht in einem pauschalen § 393 Abs. 2 AO-Schild.
+- **§ 393 Abs. 1 S. 2 AO** — Schutz vor Selbstbelastung **im Besteuerungsverfahren**: Mitwirkungspflichten ruhen, sobald ein Strafverfahren wegen einer Steuerstraftat eingeleitet ist; Erzwingungsmittel § 328 AO sind unzulässig.
+- **Trennung Mandantenakte** Steuerrecht / Strafrecht: separates Aktenführungssystem, da § 393 AO unterschiedliche Auskunfts- und Verwendungsregeln begründet (Abs. 1 versus Abs. 2).
 
 ### Schritt 2 — Strategische Optionen
 
