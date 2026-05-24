@@ -74,7 +74,7 @@ Das Ergebnis wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewer
 | **erfindungsmeldung** (erfindungsmeldung-aufnahme) | Erstprüfung einer Erfindungsmeldung nach ArbnErfG |
 | **verletzungs-triage** (verletzungs-triage) | Verletzungssituation bewerten: Handlungsoptionen und Empfehlung |
 | **ip-klausel-review** | IP-Klauseln in MSA, WV, Lizenzverträgen, Contractor-Vereinbarungen prüfen |
-| **open-source-prüfung** | Open-Source-Lizenzen im Repository gegen die OSS-Richtlinie prüfen |
+| **open-source-pruefung** | Open-Source-Lizenzen im Repository gegen die OSS-Richtlinie prüfen |
 | **portfolio** | Schutzrechtsregister, Verlängerungsfristen, Status-Dashboard |
 | **markenanmeldung-dpma** | Markenanmeldung beim DPMA – Schritt für Schritt |
 | **abmahnung-urheberrecht** | Urheberrechtliche Abmahnung, insbesondere Filesharing, § 97a UrhG |

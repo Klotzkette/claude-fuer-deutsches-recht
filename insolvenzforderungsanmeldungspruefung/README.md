@@ -44,7 +44,7 @@ Das Plugin arbeitet verzeihend, aber nicht schlampig. Es akzeptiert unsaubere Gl
 | ifap-vbuh-pruefung | Prüft vbuH, Unterhalt und Steuerstraftat mit Tatsachenbasis. |
 | ifap-dubletten-serienforderungen | Erkennt Mehrfachanmeldungen, Serienrechnungen und Vertreterwechsel. |
 | ifap-nachforderung-maengelschreiben | Erstellt präzise Beleg- und Substanznachforderungen. |
-| ifap-prüfentscheidung | Erstellt Feststellungs-, Teilbestreitens- und Bestreitensvermerke. |
+| ifap-pruefentscheidung | Erstellt Feststellungs-, Teilbestreitens- und Bestreitensvermerke. |
 | ifap-tabellenimport-175 | Baut einen gerichtsfesten Tabellenimport nach § 175 InsO. |
 | ifap-pruefungstermin-176 | Bereitet Prüfungstermin oder schriftliches Verfahren vor. |
 | ifap-nachtraegliche-anmeldung-177 | Steuert verspätete und geänderte Anmeldungen. |
