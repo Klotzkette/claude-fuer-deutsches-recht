@@ -42,7 +42,7 @@ Vor der Verwirklichung eines noch nicht verwirklichten Sachverhalts (z. B. gepla
 ### 1. Rubrum
 
 - Antragsteller mit Steuernummer und Anschrift.
-- Vertretung (RA / StB mit ELSTER-Zugang als Bevollmaechtigter).
+- Vertretung (RA / StB mit ELSTER-Zugang als Bevollmächtigter).
 - Empfangsfinanzamt.
 
 ### 2. Antragsgegenstand
@@ -145,7 +145,7 @@ Präzise Fragen z. B.:
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt; alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulaessig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt; alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulässig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
 
 ## Anschluss
 

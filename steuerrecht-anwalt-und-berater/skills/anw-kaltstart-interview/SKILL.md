@@ -53,7 +53,7 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfr
 
 ### 6. Versandwege
 
-- **ELSTER / ERiC** Pflichtkanal **gegenueber Finanzbehoerden** seit JStG 2024 (§ 87a Abs. 1 S. 2 AO n.F., 6.12.2024) — Einspruch AdV-Antrag verbindliche Auskunft Selbstanzeige Akteneinsicht. beA an Finanzamt unzulaessig (Einspruch per beA formunwirksam, Nds. FG 12.2.2026 – 2 K 152/25).
+- **ELSTER / ERiC** Pflichtkanal **gegenueber Finanzbehoerden** seit JStG 2024 (§ 87a Abs. 1 S. 2 AO n.F., 6.12.2024) — Einspruch AdV-Antrag verbindliche Auskunft Selbstanzeige Akteneinsicht. beA an Finanzamt unzulässig (Einspruch per beA formunwirksam, Nds. FG 12.2.2026 – 2 K 152/25).
 - **beA** Pflicht **gegenueber Gerichten** (§ 52d FGO) — Klage Finanzgericht AdV-Antrag FG Revision BFH.
 - **EGVP** als Alternative zum beA gegenueber Gerichten.
 - **Briefpost / Telefax** weiterhin in alle Richtungen zulaessig (§ 87a AO bezieht sich nur auf elektronische Wege).

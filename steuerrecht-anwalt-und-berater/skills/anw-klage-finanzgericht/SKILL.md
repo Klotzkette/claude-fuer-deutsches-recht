@@ -31,7 +31,7 @@ description: Entwurf einer Klage zum Finanzgericht nach §§ 40 ff. FGO. Klagefr
 
 - Klagepartei mit Vertretung (RA mit beA-Adresse).
 - Beklagte: Finanzamt vertreten durch den Vorsteher.
-- Az der Einspruchsentscheidung und des urspruenglichen Bescheids.
+- Az der Einspruchsentscheidung und des ursprünglichen Bescheids.
 
 ### 2. Anträge
 
