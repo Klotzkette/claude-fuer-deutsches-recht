@@ -20,11 +20,12 @@ Dieser Skill erstellt die aktualisierte Gesellschafterliste nach der Kapitalerh�
 ## Rechtlicher Rahmen
 
 ### Primärnormen
-- § 40 Abs. 1 GmbHG (Geschäftsführerin reicht neue Gesellschafterliste bei Änderung ein)
+- § 40 Abs. 1 GmbHG (Geschäftsführerin reicht neue Gesellschafterliste bei Änderung ein; Pflichtinhalte durch DiRUG/Gesellschafterlistenverordnung erweitert: prozentuale Beteiligung am Stammkapital, ggf. Geburtsname, weitere Identifikatoren)
 - § 40 Abs. 2 GmbHG (Mitwirkung eines Notars: Notar reicht Liste ein, wenn er an Änderung mitgewirkt hat)
+- Gesellschafterlistenverordnung (GesLV, in Kraft 1.7.2018, modifiziert durch DiRUG) — Pflichtinhalte und Format
 - § 16 GmbHG (Gutglaubenswirkung der Gesellschafterliste: nur als Gesellschafter gilt, wer eingetragen ist)
 - § 15 GmbHG (Anteilsübertragung – Vollwirkung erst mit Eintragung)
-- § 19 GwG (Transparenzregister – wirtschaftlich Berechtigte nach Änderung melden)
+- § 19 GwG (Transparenzregister – wirtschaftlich Berechtigte nach Änderung melden; Vollregister seit August 2021)
 
 ### Rechtsprechung
 - BGH, Urt. v. 17. November 2008 – II ZR 244/07 (Gutglaubenswirkung § 16 GmbHG – nur eingetragene Gesellschafter)
@@ -33,12 +34,13 @@ Dieser Skill erstellt die aktualisierte Gesellschafterliste nach der Kapitalerh�
 ## Vorgehen
 
 ### 1. Listenentwurf erstellen
-Alle Gesellschafterinnen und neuer Lender mit vollständigen Angaben:
+Alle Gesellschafterinnen und neuer Lender mit vollständigen Angaben gemäß § 40 Abs. 1 GmbHG i.V.m. GesLV:
 - Laufende Nummer (fortlaufend, keine Lücken)
-- Gesellschaftername (Vor- und Nachname oder Firma)
+- Gesellschaftername (Vor- und Nachname oder Firma); bei natürlichen Personen ggf. Geburtsname, wenn abweichend
 - Geburtsdatum (natürliche Person) oder HRB + Amtsgericht (juristische Person)
 - Anschrift (Wohnanschrift oder Geschäftsanschrift Sitz)
 - Anzahl der Geschäftsanteile und Nennwert (in EUR)
+- Prozentuale Beteiligung am Stammkapital (Pflicht seit DiRUG)
 - Datum des Erwerbs (Beurkundungsdatum Kapitalerhöhung)
 
 ### 2. Vollständigkeitsprüfung

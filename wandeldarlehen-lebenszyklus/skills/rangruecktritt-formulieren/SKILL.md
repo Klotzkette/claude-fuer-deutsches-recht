@@ -23,9 +23,9 @@ Dieser Skill formuliert den qualifizierten Rangrücktritt für § 6 des Wandelda
 - § 19 Abs. 2 Satz 2 InsO (Qualifizierter Rangrücktritt im Überschuldungsstatus)
 - § 39 Abs. 1 Nr. 5 InsO (Nachrang eigenkapitalersetzender Gesellschafterdarlehen)
 - § 39 Abs. 2 InsO (Vereinbarter Nachrang)
-- § 15a InsO (Insolvenzantragspflicht – bleibt unberührt)
-- § 15b InsO (Zahlungsverbote nach Insolvenzreife – Schutzklausel)
-- § 17 InsO (Zahlungsunfähigkeit), § 19 InsO (Überschuldung)
+- § 15a InsO (Insolvenzantragspflicht – bleibt unberührt; nach SanInsFoG 2020/2021 erweitert auf alle juristischen Personen)
+- § 15b InsO (Zahlungsverbote nach Insolvenzreife — durch SanInsFoG eingefügt, hat den früheren § 64 GmbHG abgelöst; Schutzklausel zwingend, da Geschäftsführerhaftung jetzt allein über § 15b InsO greift)
+- § 17 InsO (Zahlungsunfähigkeit), § 19 InsO (Überschuldung; Prognosezeitraum modifiziert durch SanInsKG/SanInsFoG)
 - § 44 InsO (Unwirksamkeit von Lösungsklauseln)
 - § 328 BGB (Vertrag zugunsten Dritter – Aufhebungsverbot)
 
@@ -49,7 +49,7 @@ Ausdrückliche Klarstellung, dass es sich um einen qualifizierten Rangrücktritt
 Rangrücktritt als echter Vertrag zugunsten Dritter (§ 328 BGB) zugunsten aller Gläubiger i.S.d. §§ 38 / 39 Abs. 1 InsO. Aufhebung nur mit vorheriger schriftlicher Zustimmung der Gesellschaft und nur soweit keine Insolvenzreife entsteht.
 
 ### 5. § 15b InsO-Schutzklausel
-Gesellschaft und Geschäftsführerinnen sind nicht zur Rückzahlung verpflichtet, soweit dies persönliche Haftung nach § 15b InsO auslösen würde. Bei verbotswidriger Rückzahlung: Rückgewährpflicht auf erstes Anfordern.
+Gesellschaft und Geschäftsführerinnen sind nicht zur Rückzahlung verpflichtet, soweit dies persönliche Haftung nach § 15b InsO auslösen würde. Bei verbotswidriger Rückzahlung: Rückgewährpflicht auf erstes Anfordern. Hintergrund: § 15b InsO wurde durch das SanInsFoG (Inkrafttreten 1.1.2021) eingefügt und löste § 64 GmbHG a.F. (Massesicherungspflicht) ab; die GF-Haftung für „verbotswidrige Zahlungen nach Insolvenzreife" knüpft seit der Reform allein an die InsO an. Klausel daher zwingend, sonst GF-persönliches Risiko.
 
 ### 6. GIRA-Bestätigungstext vorbereiten
 Für den Wirtschaftsprüfer: kurze Bestätigungserklärung, dass qualifizierter Rangrücktritt vorliegt und Nachrangforderungen im Überschuldungsstatus nicht zu berücksichtigen sind (§ 19 Abs. 2 Satz 2 InsO; IDW S 11 Rn. 23 ff.).
@@ -83,4 +83,4 @@ zu verursachen droht (vgl. BGH, Urt. v. 5. März 2015 – IX ZR 133/14).
 
 ## Quellen und Updates
 
-Stand: 05/2026. BGH IX ZR 133/14 und IX ZR 191/15 als Leitentscheidungen. Bei Änderung InsO/IDW S 11 aktualisieren.
+Stand: 05/2026. BGH IX ZR 133/14 und IX ZR 191/15 als Leitentscheidungen. Stand SanInsFoG (1.1.2021, § 15b InsO statt § 64 GmbHG a.F.) und SanInsKG-Modifikationen am Überschuldungsprognosezeitraum berücksichtigt. Bei Änderung InsO/IDW S 11 aktualisieren.

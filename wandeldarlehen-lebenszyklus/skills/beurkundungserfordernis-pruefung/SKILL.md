@@ -24,6 +24,8 @@ Dieser Skill klärt, ob der Wandeldarlehensvertrag der notariellen Beurkundung b
 - § 15 Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung selbst)
 - § 55 Abs. 1 GmbHG (Kapitalerhöhungsbeschluss – notarielle Beurkundung gemäß § 53 Abs. 2 GmbHG)
 - § 53 Abs. 2 GmbHG (Satzungsänderung durch Kapitalerhöhung – notariell)
+- § 2 Abs. 3 GmbHG (Online-Beurkundung Gründung; durch DiRUG 2022 eingeführt, BeurkG § 16a)
+- § 53 Abs. 4 GmbHG analog / BeurkG § 16a (Online-Beurkundung Kapitalerhöhung seit 1.8.2023 zulässig)
 - § 311 Abs. 1 BGB (Schuldrechtliche Verpflichtung)
 
 ### Rechtsprechung
@@ -50,6 +52,9 @@ Schriftliches Memo: Beurkundungserfordernis ja/nein. Falls nein: Begründung (zw
 
 ### 6. Trennungsprinzip sicherstellen
 Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierungen im Wandeldarlehensvertrag, die einen Direkterwerb bestehender Anteile ohne Kapitalerhöhung vorsehen.
+
+### 7. Online-Beurkundung als Option prüfen (DiRUG)
+Seit DiRUG (1.8.2022) ist Online-Beurkundung der GmbH-Gründung möglich (§ 2 Abs. 3 GmbHG); seit 1.8.2023 erstreckt auf Kapitalerhöhungs- und Satzungsänderungsbeschlüsse (§ 53 Abs. 4 GmbHG analog, BeurkG § 16a). Mit Lender im Ausland: Online-Beurkundung kann Reise- und Apostille-Aufwand sparen. Voraussetzung: Notar mit Online-Verfahren der BNotK; elektronische Identifizierung via eID-Funktion oder Lichtbildausweis-Abgleich.
 
 ## Checkliste Beurkundungserfordernis
 
@@ -78,4 +83,4 @@ Verpflichtungs- und Verfügungsebene sauber getrennt halten. Keine Formulierunge
 
 ## Quellen und Updates
 
-Stand: 05/2026. Leitentscheidungen: OLG München 31 Wx 79/16, BGH II ZR 256/08. Bei Änderung GmbHG § 15 aktualisieren.
+Stand: 05/2026. Leitentscheidungen: OLG München 31 Wx 79/16, BGH II ZR 256/08. Stand DiRUG-Reform (2022) und Erweiterung auf Kapitalerhöhungen (1.8.2023) berücksichtigt. Bei Änderung GmbHG § 15 / § 2 III / BeurkG § 16a aktualisieren.

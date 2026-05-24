@@ -24,6 +24,7 @@ Dieser Skill strukturiert den Workflow nach Eingang der Wandlungserklärung des 
 - § 132 BGB (Zugang bei Verweigerung der Annahme)
 - § 4.4 Wandeldarlehensvertrag (Frist: ein Monat nach Zugang Wandlungsmitteilung)
 - § 286 BGB (Verzug bei Fristversäumnis der Gesellschaft)
+- Zugangsfiktion bei einfachem Brief: seit Postrechtsmodernisierungsgesetz (PostModG, 1.1.2025) gilt regelmäßig **vier-Tage-Frist** ab Aufgabe zur Post (zuvor drei Tage); maßgeblich bei Berechnung der Wandlungsfrist, wenn Wandlungserklärung oder Wandlungsmitteilung postalisch verschickt wird
 
 ### Rechtsprechung
 - BGH, Urt. v. 12. März 2009 – IX ZR 85/08 (Zugang von Erklärungen per E-Mail – Eingangszeitpunkt)
