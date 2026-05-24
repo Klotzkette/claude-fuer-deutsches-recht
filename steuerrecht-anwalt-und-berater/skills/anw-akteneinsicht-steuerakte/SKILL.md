@@ -80,7 +80,7 @@ Tabellarisch nach Datum mit:
 
 - Steuerakte enthält besonders sensible Daten (Vermögen Einkommen Familie Konten).
 - Verarbeitung nur in Tools mit AVV.
-- Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-kanzlei/mandate/<az>/`.
+- Mandantenakte unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/mandate/<az>/`.
 
 ## Ausgabe
 

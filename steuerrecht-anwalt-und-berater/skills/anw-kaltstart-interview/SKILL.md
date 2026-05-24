@@ -3,7 +3,7 @@ name: anw-kaltstart-interview
 description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfragt Schwerpunktbereiche (Einkommensteuer / Umsatzsteuer / Koerperschaftsteuer / Gewerbesteuer / Erbschaftsteuer / Steuerstrafrecht) typische Mandate (Einspruch Klage Aussetzung der Vollziehung Aussenpruefungs-Begleitung Selbstanzeige) zustaendige Finanzaemter und Finanzgerichte Schnittstelle zum Steuerberater des Mandanten Aktenstruktur Versandwege beA-Praxis und Eskalation. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md."
 ---
 
-# /steuerrecht-kanzlei:steuerrecht-kanzlei-kaltstart-interview
+# /steuerrecht-anwalt-und-berater:anw-kaltstart-interview
 
 ## Ablauf
 
@@ -66,9 +66,9 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfr
 
 Profil wird geschrieben. Nächste Skills:
 
-- `/steuerrecht-kanzlei:steuerbescheid-analyse` — bei eingegangenem Bescheid
-- `/steuerrecht-kanzlei:einspruch-finanzamt` — bei Bescheid und Einspruchsfrist
-- `/steuerrecht-kanzlei:fristenbuch-steuerrecht` — Fristen-Check
+- `/steuerrecht-anwalt-und-berater:anw-steuerbescheid-analyse` — bei eingegangenem Bescheid
+- `/steuerrecht-anwalt-und-berater:anw-einspruch-finanzamt` — bei Bescheid und Einspruchsfrist
+- `/steuerrecht-anwalt-und-berater:anw-fristenbuch-steuerrecht` — Fristen-Check
 
 ## Rechtlicher Rahmen
 

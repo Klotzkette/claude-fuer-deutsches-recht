@@ -63,7 +63,7 @@ description: Orientierung im Steuerrecht und Fachanwaltschaft nach FAO § 9. AO 
 
 ## Schnittstellen
 
-- **`steuerrecht-kanzlei`** für Mandatsführung, Mandantenkommunikation, Werkzeuge.
+- **`steuerrecht-anwalt-und-berater`** für Mandatsführung, Mandantenkommunikation, Werkzeuge.
 - **`kanzlei-cowork`** für Fristen, Versand, Aktenführung.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Tax-Aspekten der Unternehmensberatung.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Steuerforderungen in der Insolvenz.
