@@ -93,7 +93,7 @@ Der Erst-Skill jedes Energiemandats. Sortiert den Eingang nach Mandanten-Rolle u
 | Energieanlagen-Genehmigung BImSchG | `umweltrecht`, neu im `fachanwalt-verwaltungsrecht` |
 | Klima- und Naturschutz-Konflikte | `umweltrecht` |
 | Stromtrassen-Planfeststellung | `fachanwalt-verwaltungsrecht` plus neuer Skill `energieanlagen-planfeststellung-enlag-bbplg` |
-| Steuerliche Fragen Energiebesteuerung | `steuerrecht-kanzlei` |
+| Steuerliche Fragen Energiebesteuerung | `steuerrecht-anwalt-und-berater` |
 | Berufsrecht Anwalt bei Energieprojekt | `kanzlei-allgemein` |
 | ESG-Reporting CSRD Energie | `umweltrecht` Skill `esg-greenwashing-csrd` |
 | Beihilferecht EU | `europarecht-kompass` |

@@ -1,6 +1,6 @@
 # Liquiditätsplanung — Power-Plugin
 
-**Eigenständiges Power-Plugin** für wochenaktuelle Liquiditätsvorschauen nach deutschem Recht (§§ 17, 18, 19 InsO; § 1 StaRUG; BGH-Schema Passiva II). Funktioniert allein. Ergänzt sich optional mit `insolvenzrecht` und `steuerberater-werkzeuge`, hängt aber nicht von ihnen ab.
+**Eigenständiges Power-Plugin** für wochenaktuelle Liquiditätsvorschauen nach deutschem Recht (§§ 17, 18, 19 InsO; § 1 StaRUG; BGH-Schema Passiva II). Funktioniert allein. Ergänzt sich optional mit `insolvenzrecht` und `steuerrecht-anwalt-und-berater`, hängt aber nicht von ihnen ab.
 
 ---
 
@@ -10,7 +10,7 @@
 | --- | --- |
 | **Liquiditätsplanung** (`liquiditaetsplanung`, dieses Plugin) | [liquiditaetsplanung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
 | insolvenzrecht | [insolvenzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
-| steuerberater-werkzeuge | [steuerberater-werkzeuge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerberater-werkzeuge.zip) |
+| steuerrecht-anwalt-und-berater | [steuerrecht-anwalt-und-berater.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
 
 Die URLs sind **stabil** und zeigen immer auf die neueste Version. Alle weiteren Plugins (Vertragsrecht, Datenschutz, Arbeitsrecht, …) sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 

@@ -69,7 +69,7 @@ Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist
 
 ### Sozialgericht (SGG) — siehe Plugin `sozialrecht-kanzlei`
 
-### Finanzgericht (FGO) — siehe Plugin `steuerrecht-kanzlei`
+### Finanzgericht (FGO) — siehe Plugin `steuerrecht-anwalt-und-berater`
 
 ### Familiengericht (FamFG)
 

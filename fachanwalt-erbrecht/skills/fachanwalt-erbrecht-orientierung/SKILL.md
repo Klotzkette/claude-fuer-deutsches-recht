@@ -28,7 +28,7 @@ description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Ma
 - Erbauseinandersetzung
 - Testamentsanfechtung (§ 2078 BGB)
 - Schenkung und Pflichtteilsergänzungsanspruch (§ 2325 BGB)
-- Erbschaftsteuer-Bescheid (siehe steuerrecht-kanzlei)
+- Erbschaftsteuer-Bescheid (siehe steuerrecht-anwalt-und-berater)
 - Internationale Erbfälle und EU-ErbVO
 
 ## Fristen
@@ -62,5 +62,5 @@ description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Ma
 ## Schnittstellen
 
 - **kanzlei-cowork** Fristen Versand.
-- **steuerrecht-kanzlei** bei Erbschaftsteuer.
+- **steuerrecht-anwalt-und-berater** bei Erbschaftsteuer.
 - **gesellschaftsrecht** bei Unternehmensnachfolge.

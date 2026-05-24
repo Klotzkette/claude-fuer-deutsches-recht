@@ -198,7 +198,7 @@
     {
       "name": "fachanwalt-erbrecht",
       "source": "./fachanwalt-erbrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-kanzlei und gesellschaftsrecht.",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-anwalt-und-berater und gesellschaftsrecht.",
       "author": {
         "name": "Klotzkette"
       },
@@ -234,7 +234,7 @@
     {
       "name": "fachanwalt-insolvenz-sanierungsrecht",
       "source": "./fachanwalt-insolvenz-sanierungsrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Glaeubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-kanzlei.",
+      "description": "Light-Touch-Plugin Fachanwalt fuer Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Glaeubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.",
       "author": {
         "name": "Klotzkette"
       },
@@ -298,15 +298,6 @@
       "name": "fachanwalt-sportrecht",
       "source": "./fachanwalt-sportrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Sportrecht. Orientierung Verbandsrecht der Sportverbaende DFB FIFA UEFA IOC DOSB CAS Schiedsverfahren Spielervertraege Doping WADA-Code NADA Sponsoring Persoenlichkeitsrechte Sportler Veranstalterhaftung.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "7.0.0"
-    },
-    {
-      "name": "fachanwalt-steuerrecht",
-      "source": "./fachanwalt-steuerrecht",
-      "description": "Light-Touch-Plugin Fachanwalt fuer Steuerrecht nach FAO § 9. AO Einspruch Stundung Vollstreckungsaufschub. Aussenpruefung Schlussbesprechung. Steuerstrafrecht Selbstanzeige § 371 AO. Schnittstellen steuerrecht-kanzlei und kanzlei-cowork.",
       "author": {
         "name": "Klotzkette"
       },
@@ -610,7 +601,7 @@
     {
       "name": "liquiditaetsplanung",
       "source": "./liquiditaetsplanung",
-      "description": "Eigenständiges Power-Plugin Liquiditätsvorschau nach deutschem Recht. Wochenaktuelle 3-Wochen-Vorschau § 17 InsO und rollierende 13/26/52-Wochen-Planung, jeweils mit Excel-Vorlage (Freitag-Stichtag, KW-Spalten) und optionalem interaktivem HTML-Padlet oder Markdown-Artefakt. BGH-Schema strikt: Passiva II zwingend (BGHZ 217, 129), 10-%-Schwelle und 3-Wochen-Horizont (BGHZ 163, 134), Bugwellenrspr. (BGH II ZR 112/21), titulierte Forderungen mit Nennwert (BGH IX ZR 229/22), objektive Beurteilung (BGH II ZR 139/23). Banking optional (manuell, CAMT.053/MT940/CSV/DATEV-OPOS, Connector). Memo nur auf Anfrage. Funktioniert allein, ergänzt sich aber mit insolvenzrecht und steuerberater-werkzeuge.",
+      "description": "Eigenständiges Power-Plugin Liquiditätsvorschau nach deutschem Recht. Wochenaktuelle 3-Wochen-Vorschau § 17 InsO und rollierende 13/26/52-Wochen-Planung, jeweils mit Excel-Vorlage (Freitag-Stichtag, KW-Spalten) und optionalem interaktivem HTML-Padlet oder Markdown-Artefakt. BGH-Schema strikt: Passiva II zwingend (BGHZ 217, 129), 10-%-Schwelle und 3-Wochen-Horizont (BGHZ 163, 134), Bugwellenrspr. (BGH II ZR 112/21), titulierte Forderungen mit Nennwert (BGH IX ZR 229/22), objektive Beurteilung (BGH II ZR 139/23). Banking optional (manuell, CAMT.053/MT940/CSV/DATEV-OPOS, Connector). Memo nur auf Anfrage. Funktioniert allein, ergänzt sich aber mit insolvenzrecht und steuerrecht-anwalt-und-berater.",
       "author": {
         "name": "Klotzkette"
       },
@@ -761,18 +752,9 @@
       "version": "7.0.0"
     },
     {
-      "name": "steuerberater-werkzeuge",
-      "source": "./steuerberater-werkzeuge",
-      "description": "Werkzeugbox für Steuerberater und GmbH-Geschäftsleitung: BWA-/SuSa-/Bilanz-Krisenprüfung (§§ 17, 19 InsO, § 102 StaRUG-Hinweispflicht). Für die rollierende Liquiditätsplanung 13/26/52 Wochen siehe das eigene Plugin `liquiditaetsplanung`.",
-      "author": {
-        "name": "Klotzkette"
-      },
-      "version": "7.0.0"
-    },
-    {
-      "name": "steuerrecht-kanzlei",
-      "source": "./steuerrecht-kanzlei",
-      "description": "Vollassistenz fuer die steuerrechtsanwaltliche Kanzlei: Bescheidanalyse Einspruch nach AO Klage zum Finanzgericht Aussetzung der Vollziehung Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht Steuerakte. Nicht Steuererklaerung (DATEV Steuerberater) sondern anwaltlich-streitbezogene Folgebearbeitung.",
+      "name": "steuerrecht-anwalt-und-berater",
+      "source": "./steuerrecht-anwalt-und-berater",
+      "description": "Steuerberater und Fachanwalt fuer Steuerrecht: Bescheidanalyse Einspruch Klage Finanzgericht Aussenpruefung Selbstanzeige Verbindliche Auskunft Akteneinsicht. Steuerberater-Werkzeuge BWA SuSa Bilanzpruefung. Praefixe anw- fa- stb-.",
       "author": {
         "name": "Klotzkette"
       },

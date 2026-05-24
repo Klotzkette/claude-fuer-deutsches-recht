@@ -32,7 +32,7 @@ Die Übersichtsseite zeigt alle 24 Fachanwalts-Plugins als Karten mit:
 | [`fachanwalt-migrationsrecht`](../fachanwalt-migrationsrecht) | Migrationsrecht — AufenthG, AsylG, StAG |
 | [`fachanwalt-sozialrecht`](../fachanwalt-sozialrecht) | Sozialrecht — SGB I-XII, SGG, Bürgergeld |
 | [`fachanwalt-sportrecht`](../fachanwalt-sportrecht) | Sportrecht — Verbandsrecht, CAS, WADA, Sponsoring |
-| [`fachanwalt-steuerrecht`](../fachanwalt-steuerrecht) | Steuerrecht — AO, Außenprüfung, Selbstanzeige § 371 AO |
+| [`steuerrecht-anwalt-und-berater`](../steuerrecht-anwalt-und-berater) | Steuerrecht — AO, Außenprüfung, Selbstanzeige § 371 AO |
 | [`fachanwalt-strafrecht`](../fachanwalt-strafrecht) | Strafrecht — StPO, StGB, Revision |
 | [`fachanwalt-transport-speditionsrecht`](../fachanwalt-transport-speditionsrecht) | Transport- und Speditionsrecht — HGB, CMR, ADSp |
 | [`fachanwalt-urheber-medienrecht`](../fachanwalt-urheber-medienrecht) | Urheber- und Medienrecht — UrhG, KUG, Presserecht |

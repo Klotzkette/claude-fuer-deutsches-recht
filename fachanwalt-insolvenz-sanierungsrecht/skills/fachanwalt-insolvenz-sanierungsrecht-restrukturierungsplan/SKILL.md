@@ -120,5 +120,5 @@ Mit freundlichen Grüßen
 
 - Bei Scheitern des Plans Übergang in Insolvenzverfahren prüfen (Schutzschirmverfahren § 270d InsO oder Eigenverwaltung §§ 270 ff. InsO).
 - Steuerliche Implikationen Sanierungserträge § 3a EStG, § 7b GewStG mit Steuerberatung abstimmen.
-- Schnittstelle zum Plugin `insolvenzrecht` für allgemeine Insolvenzpraxis und zum Plugin `steuerrecht-kanzlei` für sanierungssteuerliche Fragen.
+- Schnittstelle zum Plugin `insolvenzrecht` für allgemeine Insolvenzpraxis und zum Plugin `steuerrecht-anwalt-und-berater` für sanierungssteuerliche Fragen.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie BGH vor AG, Pinpoint mit Rn.).

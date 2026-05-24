@@ -56,7 +56,7 @@ description: Orientierung im Miet- und Wohnungseigentumsrecht. FAO § 14e Voraus
 
 ## Übergabe
 
-- Bei steuerrechtlicher Fragestellung (Werbungskosten Vermietung, AfA) Schnittstelle zum Plugin `steuerrecht-kanzlei`.
+- Bei steuerrechtlicher Fragestellung (Werbungskosten Vermietung, AfA) Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
 - Bei familienrechtlichem Bezug (Ehewohnung) Schnittstelle zum Plugin `fachanwalt-familienrecht`.
 - Bei vereins- und gesellschaftsrechtlichem Bezug (WEG-Hausverwaltung als juristische Person) Schnittstelle zum Plugin `fachanwalt-handels-gesellschaftsrecht`.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie).

@@ -39,7 +39,7 @@ Fiktive Mandantsakte der Edelholz Manufaktur Berlin GmbH (Insolvenz-Schwelle) �
 
 ## Abgrenzung zu den Schwester-Plugins
 
-- Das Plugin [`steuerberater-werkzeuge`](../steuerberater-werkzeuge/) enthält `bwa-sus-bilanz-pruefung` — Prüfung BWA/SuSa/Bilanz auf Krisensignale, **Hinweispflicht des Steuerberaters** nach § 102 StaRUG (BGH-Vorläufer IX ZR 285/14).
+- Das Plugin [`steuerrecht-anwalt-und-berater`](../steuerrecht-anwalt-und-berater/) enthält `bwa-sus-bilanz-pruefung` — Prüfung BWA/SuSa/Bilanz auf Krisensignale, **Hinweispflicht des Steuerberaters** nach § 102 StaRUG (BGH-Vorläufer IX ZR 285/14).
 - Das Plugin [Liquiditätsplanung](../liquiditaetsplanung/) enthält die rollierenden Liquiditätsvorschauen 3 Wochen / 13 / 26 / 52 Wochen mit Ampel nach BGH BGHZ 163, 134 und Fortführungsprognose nach IDW S 6.
 
 Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es liefert die rechtlichen Subsumtionsbausteine und Beweismittel, wenn die Krise bereits eingetreten ist — Zeitpunkt der Zahlungsunfähigkeit, Überschuldungsstatus zum Stichtag, Antragspflichtfrist, Haftung Geschäftsleiter.

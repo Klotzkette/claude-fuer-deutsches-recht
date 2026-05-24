@@ -209,5 +209,5 @@ Die Beklagte befindet sich seit Ablauf der gesetzten Zahlungsfrist am
 
 - Bei Vertragshändlern und Franchisenehmern analoge Anwendung prüfen — Eingliederung in Absatzorganisation und Pflicht zur Kundenstammübertragung erforderlich.
 - Bei grenzüberschreitenden Sachverhalten Handelsvertreterrichtlinie 86/653/EWG und EuGH-Rechtsprechung (insbesondere Semen, Az. C-348/07) zwingend beachten — der EuGH lässt keine Kappung des Provisionsverlustes allein aus Billigkeit zu.
-- Steuerliche Behandlung: Ausgleichszahlung ist Einkunft aus Gewerbebetrieb, ermäßigter Steuersatz § 34 EStG bei Beendigung möglich — Schnittstelle zum Plugin `steuerrecht-kanzlei`.
+- Steuerliche Behandlung: Ausgleichszahlung ist Einkunft aus Gewerbebetrieb, ermäßigter Steuersatz § 34 EStG bei Beendigung möglich — Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie BVerfG → EuGH → BGH).

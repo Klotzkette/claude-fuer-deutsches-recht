@@ -58,7 +58,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `insolvenzforderungsanmeldungspruefung.zip` | Freistehende Forderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund/Betrag/Rang, Bestreiten, Feststellung, Tabelle, Prüfungstermin und § 189-Nachlauf |
 | `insolvenzplan-starug-planwerkstatt.zip` | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen/Klassen, Planentwurf, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Vollzug |
 | `fortbestehensprognose.zip`               | Fortbestehensprognose § 19 II InsO als Geschäftsführer-Selbstdokumentation                                                 |
-| `steuerberater-werkzeuge.zip`             | BWA-/SuSa-/Bilanzprüfung, Krisenfrüherkennung                                                                              |
+| `steuerrecht-anwalt-und-berater.zip`             | BWA-/SuSa-/Bilanzprüfung, Krisenfrüherkennung                                                                              |
 | `gesellschaftsrecht.zip`                  | M&A-DD, GmbH/AG-Beschlüsse, HRB-Anmeldung                                                                                  |
 
 ### Streitige Mandate
@@ -77,7 +77,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `arbeitsrecht.zip`                        | Kündigung (KSchG, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, BR-Anhörung                               |
 | `mietrecht.zip`                           | Mieterhöhung, Mietspiegel-Quellen, Eigenbedarf, Schönheitsreparaturen                                                      |
 | `sozialrecht-kanzlei.zip`                 | Bescheidanalyse, Widerspruch, Klage SGB II/III/V/VI/IX/XII                                                                 |
-| `steuerrecht-kanzlei.zip`                 | Bescheidanalyse, Einspruch, Klage FG/BFH                                                                                   |
+| `steuerrecht-anwalt-und-berater.zip`                 | Bescheidanalyse, Einspruch, Klage FG/BFH                                                                                   |
 | `verfassungsrecht.zip`                    | Verfassungsbeschwerde, GG-Auslegung, BVerfG-Verfahren                                                                      |
 | `betreuungsrecht.zip`                     | Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und verdächtige Verträge (BtOG, §§ 1814 ff. BGB)                                          |
 
@@ -116,7 +116,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 
 | Testakte                                                   | Passt zu Plugin                                              |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| `testakte-beispielakte-edelholz-berlin.zip`                | `liquiditaetsplanung` + `insolvenzrecht` + `steuerberater-werkzeuge` |
+| `testakte-beispielakte-edelholz-berlin.zip`                | `liquiditaetsplanung` + `insolvenzrecht` + `steuerrecht-anwalt-und-berater` |
 | `testakte-fluggastrechte-familie-braeutigam.zip`           | `fluggastrechte`                                             |
 | `testakte-betreuung-hildegard-sauer.zip`                   | `betreuungsrecht`                                            |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip`   | `betreuungsrecht`                                            |

@@ -57,5 +57,5 @@ description: Orientierung im gewerblichen Rechtsschutz. FAO § 14k Voraussetzung
 
 - Bei urheberrechtlichen Vorfragen Schnittstelle zum Plugin `urheberrecht`.
 - Bei kartellrechtlichen Bezügen (Lizenzkartell, Marktmissbrauch) Schnittstelle zum Plugin `kartellrecht-grundlagen`.
-- Bei steuerrechtlicher Bewertung von IP-Rechten Schnittstelle zum Plugin `steuerrecht-kanzlei`.
+- Bei steuerrechtlicher Bewertung von IP-Rechten Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH/EuGH-Pinpoint mit Rn., Hierarchie EuGH vor BGH vor OLG vor LG).

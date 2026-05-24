@@ -133,6 +133,6 @@ liegen.
 ## Übergabe
 
 - Bei Strafverfahren wegen Untreue § 266 StGB Schnittstelle zur Strafverteidigung.
-- Bei steuerlichen Auswirkungen der Anteilseinziehung (Veräußerungsgewinn § 17 EStG) Schnittstelle zum Plugin `steuerrecht-kanzlei`.
+- Bei steuerlichen Auswirkungen der Anteilseinziehung (Veräußerungsgewinn § 17 EStG) Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
 - Bei Personengesellschaften und MoPeG-eGbR Schnittstelle zum HRA-/GnR-Eintragungsverfahren.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie).

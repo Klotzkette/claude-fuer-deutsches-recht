@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-orientierung
-description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gruendung Satzungsaenderung Geschaeftsfuehrerwechsel Anteilskaufvertrag SPA Joint Venture Beschlussanfechtung Geschaeftsfuehrerhaftung Umwandlung. Standardliteratur Baumbach Hueck Lutter Roth Scholz Schmidt. Schnittstellen Plugin insolvenzrecht Plugin steuerrecht-kanzlei Plugin urheberrecht.
+description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gruendung Satzungsaenderung Geschaeftsfuehrerwechsel Anteilskaufvertrag SPA Joint Venture Beschlussanfechtung Geschaeftsfuehrerhaftung Umwandlung. Standardliteratur Baumbach Hueck Lutter Roth Scholz Schmidt. Schnittstellen Plugin insolvenzrecht Plugin steuerrecht-anwalt-und-berater Plugin urheberrecht.
 ---
 
 # Orientierung Handels- und Gesellschaftsrecht
@@ -61,6 +61,6 @@ description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetz
 ## Übergabe
 
 - Bei Krisenfällen Schnittstelle zum Plugin `insolvenzrecht` und zu `fachanwalt-insolvenz-sanierungsrecht`.
-- Bei steuerlichen Bezügen (Organschaft, Verschmelzung steuerneutral § 11 UmwStG) Schnittstelle zum Plugin `steuerrecht-kanzlei` und `fachanwalt-steuerrecht`.
+- Bei steuerlichen Bezügen (Organschaft, Verschmelzung steuerneutral § 11 UmwStG) Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater` und `steuerrecht-anwalt-und-berater`.
 - Bei IP-Beziehungen (Markenübertragung, Lizenz im Joint Venture) Schnittstelle zum Plugin `fachanwalt-gewerblicher-rechtsschutz`.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie BGH vor OLG vor LG).

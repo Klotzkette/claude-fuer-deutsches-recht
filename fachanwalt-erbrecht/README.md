@@ -1,6 +1,6 @@
 # Fachanwalt Erbrecht
 
-Light-Touch-Plugin Fachanwalt für Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-kanzlei und gesellschaftsrecht.
+Light-Touch-Plugin Fachanwalt für Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-anwalt-und-berater und gesellschaftsrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

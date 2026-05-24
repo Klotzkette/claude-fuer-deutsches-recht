@@ -133,5 +133,5 @@ II. Begründetheit
 
 - Bei Beschlussersetzung Schnittstelle zur Beschlussersetzungsklage § 44 Abs. 1 S. 2 WEG (gerichtliche Beschlussfassung).
 - Bei Verwalterhaftung Schnittstelle zur Haftungsklage gegen Verwalter §§ 280, 27 WEG iVm Verwaltervertrag.
-- Bei steuerrechtlicher Bilanzierung des Hausgeldes Schnittstelle zum Plugin `steuerrecht-kanzlei`.
+- Bei steuerrechtlicher Bilanzierung des Hausgeldes Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Pinpoint, Hierarchie).

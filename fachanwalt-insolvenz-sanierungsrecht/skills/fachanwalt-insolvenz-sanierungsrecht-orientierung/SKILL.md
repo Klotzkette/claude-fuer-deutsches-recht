@@ -72,6 +72,6 @@ description: Orientierung im Insolvenz- und Sanierungsrecht und Fachanwaltschaft
 ## Schnittstellen
 
 - **`insolvenzrecht`** für operative Mandatsführung.
-- **`steuerrecht-kanzlei`** für Steuerforderungen in der Insolvenz und § 75 AO.
+- **`steuerrecht-anwalt-und-berater`** für Steuerforderungen in der Insolvenz und § 75 AO.
 - **`fachanwalt-arbeitsrecht`** bei §§ 113, 125 ff. InsO und Insolvenzgeld.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Geschäftsführerhaftung § 15b InsO (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021).
