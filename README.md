@@ -30,6 +30,8 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | **Letzter Release** | [v6.3.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v6.3.0) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
+> 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+
 ### Inhaltliche Cluster
 
 - **Rechtsgebiete (materiell):** Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Verwaltungsrecht (mit Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung neu in v5.7.0), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht (massiv ausgebaut in v5.7.0).
