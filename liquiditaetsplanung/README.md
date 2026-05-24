@@ -24,14 +24,13 @@ Hinweis: Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`
 
 ### Lokale Voraussetzungen für Excel-Export
 
-Das Werkzeug `skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py` erzeugt die gerichtsfeste `.xlsx`-Datei mit Formeln und bedingter Formatierung. Es braucht zwei Python-Module:
+Das Werkzeug `skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py` erzeugt die gerichtsfeste `.xlsx`-Datei mit Formeln und bedingter Formatierung. **Es braucht kein `pip install`** — der XLSX-Schreiber ist in reiner Python-Standardbibliothek (`zipfile`, `xml.etree`) implementiert und läuft auf jedem Python 3.8+ direkt:
 
 ```bash
-pip install openpyxl   # zwingend für den Excel-Export
-pip install pyyaml     # optional, sonst Mini-YAML-Parser-Fallback
+python3 werkzeuge/build_liquiditaetsplan.py --eingabe mandant.yaml --ausgabe plan.xlsx
 ```
 
-Ohne `openpyxl` beendet sich das Skript mit klarem Hinweis statt einer ImportError-Stacktrace. Skills, die nur die Liquiditätsplanung als Markdown/HTML-Output produzieren, brauchen die Pakete nicht.
+PyYAML wird automatisch genutzt wenn vorhanden, sonst greift ein eingebauter Mini-YAML-Parser. JSON-Eingaben funktionieren ohnehin ohne Zusatzpaket.
 
 ### Zum Ausprobieren: Beispielakte (separat)
 

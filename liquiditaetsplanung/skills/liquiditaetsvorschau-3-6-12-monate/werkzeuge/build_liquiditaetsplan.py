@@ -51,6 +51,10 @@ Verwendung:
     python build_liquiditaetsplan.py --eingabe mandant.yaml \\
                                      --ausgabe liquiditaetsplan.xlsx
 
+Standard-Bibliothek: Dieses Skript braucht **kein** pip-Paket. Der XLSX-
+Schreiber ist intern implementiert (zipfile + xml.etree). PyYAML ist
+optional (Mini-YAML-Parser-Fallback inkludiert).
+
 Quellen:
 - BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12 ff. (§ 17 InsO)
 - BGH, Urt. v. 19.11.2019 – II ZR 233/18, NJW 2020, 1809 Rn. 17 ff.
@@ -61,23 +65,12 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import io
 import json
-import sys
+import zipfile
 from pathlib import Path
 from typing import Any
-
-try:
-    import openpyxl
-    from openpyxl.formatting.rule import CellIsRule
-    from openpyxl.styles import Alignment, Font, PatternFill, Border, Side
-    from openpyxl.utils import get_column_letter
-except ImportError:
-    sys.stderr.write(
-        "FEHLER: Modul 'openpyxl' nicht installiert.\n"
-        "Installation: pip install openpyxl\n"
-        "(Optional auch 'pyyaml' fuer komfortable YAML-Eingabe: pip install pyyaml)\n"
-    )
-    sys.exit(2)
+from xml.sax.saxutils import escape as xml_escape
 
 try:
     import yaml  # type: ignore
@@ -265,23 +258,450 @@ def parse_yaml_scalar(value: str) -> Any:
 
 
 # ----------------------------------------------------------------------------
-# Styles (1:1 nach Vorlage)
+# Mini-XLSX-Schreiber (stdlib only: zipfile + xml-Strings)
 # ----------------------------------------------------------------------------
 
-FONT_DEFAULT = Font(name="Calibri", size=10)
-FONT_BOLD = Font(name="Calibri", size=10, bold=True)
+def col_letter(col: int) -> str:
+    """1 -> A, 27 -> AA."""
+    s = ""
+    while col > 0:
+        col, rem = divmod(col - 1, 26)
+        s = chr(65 + rem) + s
+    return s
 
-FILL_HEADER_GRAY = PatternFill("solid", fgColor="D8D8D8")
-FILL_LIQUI_BLUE = PatternFill("solid", fgColor="00CCFF")
-FILL_EIN_YELLOW = PatternFill("solid", fgColor="FFFF00")
-FILL_AUS_RED = PatternFill("solid", fgColor="FF0000")
-FILL_SUM_LIGHT = PatternFill("solid", fgColor="F2F2F2")
+
+class XlsxStyle:
+    """Style-Definition als Dict-Schluessel zur Deduplizierung in styles.xml."""
+    __slots__ = ("font_bold", "font_color", "fill_color", "num_fmt", "align_h", "border")
+
+    def __init__(self, font_bold=False, font_color=None, fill_color=None,
+                 num_fmt=None, align_h=None, border=False):
+        self.font_bold = font_bold
+        self.font_color = font_color
+        self.fill_color = fill_color
+        self.num_fmt = num_fmt
+        self.align_h = align_h
+        self.border = border
+
+    def key(self):
+        return (self.font_bold, self.font_color, self.fill_color,
+                self.num_fmt, self.align_h, self.border)
+
+
+class XlsxSheet:
+    def __init__(self, name: str):
+        self.name = name
+        # cells[(row, col)] = (value, formula, style_id)
+        self.cells: dict[tuple[int, int], tuple[Any, str | None, int]] = {}
+        self.column_widths: dict[int, float] = {}
+        self.freeze: tuple[int, int] | None = None
+        # cf_rules: list of (range, "ROT"/"GELB"/"GRÜN", dxf_id)
+        self.cf_rules: list[tuple[str, str, int]] = []
+        self.show_grid = True
+
+    def set(self, row: int, col: int, value=None, formula: str | None = None, style_id: int = 0):
+        self.cells[(row, col)] = (value, formula, style_id)
+
+    def set_column_width(self, col: int, width: float):
+        self.column_widths[col] = width
+
+    def freeze_panes(self, row: int, col: int):
+        """Friert Spalten links und Zeilen oben ein (col-1 / row-1 sichtbar)."""
+        self.freeze = (row, col)
+
+
+class XlsxWorkbook:
+    """Minimaler XLSX-Writer mit Styles, Formeln und bedingter Formatierung."""
+
+    NS_MAIN = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+    NS_REL = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+
+    def __init__(self):
+        self.sheets: list[XlsxSheet] = []
+        self.shared_strings: list[str] = []
+        self.shared_string_idx: dict[str, int] = {}
+        # Styles: erstes ist Default-Style (id 0)
+        self.styles: list[XlsxStyle] = [XlsxStyle()]
+        self.style_idx: dict[tuple, int] = {self.styles[0].key(): 0}
+        # DXF (differential formats for conditional formatting):
+        # liste von (bg_color, font_color, bold)
+        self.dxfs: list[tuple[str, str, bool]] = []
+
+    def add_sheet(self, name: str) -> XlsxSheet:
+        ws = XlsxSheet(name)
+        self.sheets.append(ws)
+        return ws
+
+    def add_style(self, **kwargs) -> int:
+        s = XlsxStyle(**kwargs)
+        k = s.key()
+        if k in self.style_idx:
+            return self.style_idx[k]
+        self.styles.append(s)
+        self.style_idx[k] = len(self.styles) - 1
+        return self.style_idx[k]
+
+    def add_dxf(self, bg_color: str, font_color: str, bold: bool = True) -> int:
+        key = (bg_color, font_color, bold)
+        for i, d in enumerate(self.dxfs):
+            if d == key:
+                return i
+        self.dxfs.append(key)
+        return len(self.dxfs) - 1
+
+    def _intern_string(self, s: str) -> int:
+        if s in self.shared_string_idx:
+            return self.shared_string_idx[s]
+        self.shared_strings.append(s)
+        self.shared_string_idx[s] = len(self.shared_strings) - 1
+        return self.shared_string_idx[s]
+
+    def save(self, path: Path | str):
+        # Sheets zuerst rendern (intern_string fuellt shared_strings);
+        # erst danach sharedStrings.xml schreiben.
+        sheet_xmls = [self._sheet_xml(ws) for ws in self.sheets]
+        with zipfile.ZipFile(str(path), "w", zipfile.ZIP_DEFLATED) as zf:
+            zf.writestr("[Content_Types].xml", self._content_types_xml())
+            zf.writestr("_rels/.rels", self._rels_xml())
+            zf.writestr("xl/workbook.xml", self._workbook_xml())
+            zf.writestr("xl/_rels/workbook.xml.rels", self._workbook_rels_xml())
+            zf.writestr("xl/styles.xml", self._styles_xml())
+            zf.writestr("xl/sharedStrings.xml", self._shared_strings_xml())
+            for i, xml in enumerate(sheet_xmls, start=1):
+                zf.writestr(f"xl/worksheets/sheet{i}.xml", xml)
+
+    # ----- XML-Bausteine -----
+
+    def _content_types_xml(self) -> str:
+        parts = [
+            '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>',
+            '<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">',
+            '<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>',
+            '<Default Extension="xml" ContentType="application/xml"/>',
+            '<Override PartName="/xl/workbook.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"/>',
+            '<Override PartName="/xl/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"/>',
+            '<Override PartName="/xl/sharedStrings.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml"/>',
+        ]
+        for i in range(1, len(self.sheets) + 1):
+            parts.append(
+                f'<Override PartName="/xl/worksheets/sheet{i}.xml" '
+                f'ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/>'
+            )
+        parts.append("</Types>")
+        return "".join(parts)
+
+    def _rels_xml(self) -> str:
+        return (
+            '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>'
+            '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">'
+            '<Relationship Id="rId1" '
+            'Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" '
+            'Target="xl/workbook.xml"/>'
+            '</Relationships>'
+        )
+
+    def _workbook_xml(self) -> str:
+        parts = [
+            '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>',
+            '<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" '
+            'xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">',
+            "<sheets>",
+        ]
+        for i, ws in enumerate(self.sheets, start=1):
+            name = xml_escape(ws.name)
+            parts.append(f'<sheet name="{name}" sheetId="{i}" r:id="rId{i}"/>')
+        parts.append("</sheets></workbook>")
+        return "".join(parts)
+
+    def _workbook_rels_xml(self) -> str:
+        parts = [
+            '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>',
+            '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">',
+        ]
+        rid = 1
+        for i in range(1, len(self.sheets) + 1):
+            parts.append(
+                f'<Relationship Id="rId{rid}" '
+                f'Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet" '
+                f'Target="worksheets/sheet{i}.xml"/>'
+            )
+            rid += 1
+        parts.append(
+            f'<Relationship Id="rId{rid}" '
+            f'Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" '
+            f'Target="styles.xml"/>'
+        )
+        rid += 1
+        parts.append(
+            f'<Relationship Id="rId{rid}" '
+            f'Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/sharedStrings" '
+            f'Target="sharedStrings.xml"/>'
+        )
+        parts.append("</Relationships>")
+        return "".join(parts)
+
+    def _styles_xml(self) -> str:
+        # NumFmts: alle nicht-Builtin Format-Codes ab id 164
+        custom_fmts: dict[str, int] = {}
+        for s in self.styles:
+            if s.num_fmt and s.num_fmt not in custom_fmts:
+                custom_fmts[s.num_fmt] = 164 + len(custom_fmts)
+
+        # Fonts: 0 = default; weitere fuer bold / Farbe
+        # Wir konstruieren eindeutige Fonts pro (bold, color)
+        font_keys: list[tuple[bool, str | None]] = [(False, None)]
+        font_idx_map: dict[tuple[bool, str | None], int] = {(False, None): 0}
+        for s in self.styles:
+            k = (s.font_bold, s.font_color)
+            if k not in font_idx_map:
+                font_keys.append(k)
+                font_idx_map[k] = len(font_keys) - 1
+
+        # Fills: 0 = none, 1 = gray125 (Pflicht-Default), ab 2 = solid mit Farbe
+        fill_colors: list[str | None] = [None, None]  # 0 + 1 sind reserviert
+        fill_idx_map: dict[str | None, int] = {None: 0}
+        for s in self.styles:
+            if s.fill_color and s.fill_color not in fill_idx_map:
+                fill_colors.append(s.fill_color)
+                fill_idx_map[s.fill_color] = len(fill_colors) - 1
+
+        # Borders: 0 = none, 1 = thin all sides
+        # Wir nutzen nur diese zwei
+        # cellXfs: Pflicht-Default (id 0) + alle styles
+        parts: list[str] = []
+        parts.append('<?xml version="1.0" encoding="UTF-8" standalone="yes"?>')
+        parts.append(
+            '<styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">'
+        )
+
+        # numFmts
+        if custom_fmts:
+            parts.append(f'<numFmts count="{len(custom_fmts)}">')
+            for code, fid in custom_fmts.items():
+                parts.append(f'<numFmt numFmtId="{fid}" formatCode="{xml_escape(code)}"/>')
+            parts.append("</numFmts>")
+
+        # fonts
+        parts.append(f'<fonts count="{len(font_keys)}">')
+        for bold, color in font_keys:
+            parts.append("<font>")
+            parts.append('<sz val="10"/>')
+            parts.append('<name val="Calibri"/>')
+            if bold:
+                parts.append("<b/>")
+            if color:
+                parts.append(f'<color rgb="FF{color}"/>')
+            parts.append("</font>")
+        parts.append("</fonts>")
+
+        # fills
+        parts.append(f'<fills count="{len(fill_colors)}">')
+        parts.append('<fill><patternFill patternType="none"/></fill>')
+        parts.append('<fill><patternFill patternType="gray125"/></fill>')
+        for color in fill_colors[2:]:
+            parts.append(
+                f'<fill><patternFill patternType="solid">'
+                f'<fgColor rgb="FF{color}"/><bgColor indexed="64"/>'
+                f'</patternFill></fill>'
+            )
+        parts.append("</fills>")
+
+        # borders (0 = none, 1 = thin BFBFBF auf allen Seiten)
+        parts.append('<borders count="2">')
+        parts.append("<border><left/><right/><top/><bottom/><diagonal/></border>")
+        parts.append(
+            '<border>'
+            '<left style="thin"><color rgb="FFBFBFBF"/></left>'
+            '<right style="thin"><color rgb="FFBFBFBF"/></right>'
+            '<top style="thin"><color rgb="FFBFBFBF"/></top>'
+            '<bottom style="thin"><color rgb="FFBFBFBF"/></bottom>'
+            '<diagonal/>'
+            "</border>"
+        )
+        parts.append("</borders>")
+
+        # cellStyleXfs (Pflicht)
+        parts.append('<cellStyleXfs count="1">')
+        parts.append('<xf numFmtId="0" fontId="0" fillId="0" borderId="0"/>')
+        parts.append("</cellStyleXfs>")
+
+        # cellStyles (Default-Style "Normal" zwingend benoetigt von Excel/LibreOffice/openpyxl)
+        # Wird erst nach cellXfs unten geschrieben, weil cellStyles auf cellXfs[0] verweist.
+
+        # cellXfs (eigentliche Styles)
+        parts.append(f'<cellXfs count="{len(self.styles)}">')
+        for s in self.styles:
+            font_id = font_idx_map[(s.font_bold, s.font_color)]
+            fill_id = fill_idx_map.get(s.fill_color, 0)
+            border_id = 1 if s.border else 0
+            num_fmt_id = custom_fmts.get(s.num_fmt, 0) if s.num_fmt else 0
+            xf_attrs = [
+                f'numFmtId="{num_fmt_id}"',
+                f'fontId="{font_id}"',
+                f'fillId="{fill_id}"',
+                f'borderId="{border_id}"',
+                'xfId="0"',
+            ]
+            if num_fmt_id:
+                xf_attrs.append('applyNumberFormat="1"')
+            if font_id:
+                xf_attrs.append('applyFont="1"')
+            if fill_id:
+                xf_attrs.append('applyFill="1"')
+            if border_id:
+                xf_attrs.append('applyBorder="1"')
+            if s.align_h:
+                xf_attrs.append('applyAlignment="1"')
+                parts.append(
+                    f'<xf {" ".join(xf_attrs)}>'
+                    f'<alignment horizontal="{s.align_h}"/>'
+                    f"</xf>"
+                )
+            else:
+                parts.append(f'<xf {" ".join(xf_attrs)}/>')
+        parts.append("</cellXfs>")
+
+        # cellStyles (Default "Normal" verweist auf cellStyleXfs[0])
+        parts.append('<cellStyles count="1">')
+        parts.append('<cellStyle name="Normal" xfId="0" builtinId="0"/>')
+        parts.append("</cellStyles>")
+
+        # dxfs (für conditional formatting)
+        if self.dxfs:
+            parts.append(f'<dxfs count="{len(self.dxfs)}">')
+            for bg, fc, bold in self.dxfs:
+                parts.append("<dxf>")
+                parts.append("<font>")
+                if bold:
+                    parts.append("<b/>")
+                parts.append(f'<color rgb="FF{fc}"/>')
+                parts.append("</font>")
+                parts.append(
+                    f'<fill><patternFill><bgColor rgb="FF{bg}"/></patternFill></fill>'
+                )
+                parts.append("</dxf>")
+            parts.append("</dxfs>")
+
+        parts.append("</styleSheet>")
+        return "".join(parts)
+
+    def _shared_strings_xml(self) -> str:
+        n = len(self.shared_strings)
+        parts = [
+            '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>',
+            f'<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="{n}" uniqueCount="{n}">',
+        ]
+        for s in self.shared_strings:
+            # preserve-Whitespace falls am Anfang/Ende
+            preserve = ' xml:space="preserve"' if (s.startswith(" ") or s.endswith(" ")) else ""
+            parts.append(f"<si><t{preserve}>{xml_escape(s)}</t></si>")
+        parts.append("</sst>")
+        return "".join(parts)
+
+    def _sheet_xml(self, ws: XlsxSheet) -> str:
+        parts = [
+            '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>',
+            '<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" '
+            'xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">',
+        ]
+
+        # sheetViews mit Gridlines + Freeze
+        sv_attrs = []
+        if not ws.show_grid:
+            sv_attrs.append('showGridLines="0"')
+        sv_attrs.append('workbookViewId="0"')
+        parts.append("<sheetViews>")
+        parts.append(f"<sheetView {' '.join(sv_attrs)}>")
+        if ws.freeze:
+            frow, fcol = ws.freeze
+            xsplit = fcol - 1
+            ysplit = frow - 1
+            top_left = f"{col_letter(fcol)}{frow}"
+            pane_attrs = []
+            if xsplit > 0:
+                pane_attrs.append(f'xSplit="{xsplit}"')
+            if ysplit > 0:
+                pane_attrs.append(f'ySplit="{ysplit}"')
+            pane_attrs.append(f'topLeftCell="{top_left}"')
+            pane_attrs.append('state="frozen"')
+            parts.append(f"<pane {' '.join(pane_attrs)}/>")
+        parts.append("</sheetView>")
+        parts.append("</sheetViews>")
+
+        # cols
+        if ws.column_widths:
+            parts.append("<cols>")
+            for col, w in sorted(ws.column_widths.items()):
+                parts.append(
+                    f'<col min="{col}" max="{col}" width="{w}" customWidth="1"/>'
+                )
+            parts.append("</cols>")
+
+        # sheetData
+        parts.append("<sheetData>")
+        rows_by_row: dict[int, list[tuple[int, Any, str | None, int]]] = {}
+        for (r, c), (value, formula, style_id) in ws.cells.items():
+            rows_by_row.setdefault(r, []).append((c, value, formula, style_id))
+
+        for r in sorted(rows_by_row.keys()):
+            parts.append(f'<row r="{r}">')
+            for c, value, formula, style_id in sorted(rows_by_row[r]):
+                ref = f"{col_letter(c)}{r}"
+                s_attr = f' s="{style_id}"' if style_id else ""
+                if formula is not None:
+                    # Formel-Zelle: kein Type-Attribut, Wert wird von Excel berechnet
+                    parts.append(
+                        f'<c r="{ref}"{s_attr}>'
+                        f'<f>{xml_escape(formula)}</f>'
+                        f'</c>'
+                    )
+                elif value is None or value == "":
+                    parts.append(f'<c r="{ref}"{s_attr}/>')
+                elif isinstance(value, bool):
+                    parts.append(
+                        f'<c r="{ref}"{s_attr} t="b"><v>{1 if value else 0}</v></c>'
+                    )
+                elif isinstance(value, (int, float)):
+                    parts.append(f'<c r="{ref}"{s_attr}><v>{value}</v></c>')
+                else:
+                    idx = self._intern_string(str(value))
+                    parts.append(
+                        f'<c r="{ref}"{s_attr} t="s"><v>{idx}</v></c>'
+                    )
+            parts.append("</row>")
+        parts.append("</sheetData>")
+
+        # conditionalFormatting (gruppiert pro range)
+        cf_by_range: dict[str, list[tuple[str, int]]] = {}
+        for rng, op, dxf_id in ws.cf_rules:
+            cf_by_range.setdefault(rng, []).append((op, dxf_id))
+        for rng, rules in cf_by_range.items():
+            parts.append(f'<conditionalFormatting sqref="{rng}">')
+            for pr, (op_text, dxf_id) in enumerate(rules, start=1):
+                parts.append(
+                    f'<cfRule type="cellIs" dxfId="{dxf_id}" priority="{pr}" '
+                    f'operator="equal">'
+                    f'<formula>"{op_text}"</formula>'
+                    f"</cfRule>"
+                )
+            parts.append("</conditionalFormatting>")
+
+        parts.append("</worksheet>")
+        return "".join(parts)
+
+
+# ----------------------------------------------------------------------------
+# Styles (1:1 nach Vorlage) — Stdlib-Variante: Style-IDs werden zur Laufzeit
+# in der Workbook registriert.
+# ----------------------------------------------------------------------------
 
 NUM_FMT = '#,##0_);[Red](#,##0)'
 NUM_FMT_PCT = '0.0%'
 
-THIN = Side(border_style="thin", color="BFBFBF")
-BORDER = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
+COLOR_HEADER_GRAY = "D8D8D8"
+COLOR_LIQUI_BLUE = "00CCFF"
+COLOR_EIN_YELLOW = "FFFF00"
+COLOR_AUS_RED = "FF0000"
 
 
 # ----------------------------------------------------------------------------
@@ -348,7 +768,6 @@ R_LUECKE_3W = 42
 R_QUOTE = 43
 R_AMPEL = 44
 
-# Mapping: Bucket-Key -> Zeile
 EIN_KEYS = {
     "umsatz": R_EIN_UMSATZ,
     "anzahlungen": R_EIN_ANZAHLUNG,
@@ -375,239 +794,194 @@ AUS_KEYS = {
 }
 
 
-def build_skeleton(ws, daten: dict, n_weeks: int):
+# ----------------------------------------------------------------------------
+# Sheet-Aufbau
+# ----------------------------------------------------------------------------
+
+def build_skeleton(wb: XlsxWorkbook, ws: XlsxSheet, styles: dict, daten: dict, n_weeks: int):
     """Statische Zellen und Beschriftungen anlegen."""
-    ws.sheet_view.showGridLines = False
-    ws.column_dimensions["A"].width = 28
-    ws.column_dimensions[get_column_letter(START_COL)].width = 12
+    ws.show_grid = False
+    ws.set_column_width(1, 28)
+    ws.set_column_width(START_COL, 12)
     for i in range(n_weeks):
-        ws.column_dimensions[get_column_letter(PLAN_COL_START + i)].width = 13
+        ws.set_column_width(PLAN_COL_START + i, 13)
 
     # Titel
-    c = ws.cell(row=R_TITLE, column=1, value="Liquiditätsplan")
-    c.font = FONT_BOLD
-    ws.cell(row=R_STAND, column=1,
-            value=f"Stand: {daten.get('stichtag', '')} – {daten.get('mandant', {}).get('name', '')}").font = FONT_DEFAULT
+    ws.set(R_TITLE, 1, "Liquiditätsplan", style_id=styles["bold"])
+    ws.set(
+        R_STAND, 1,
+        f"Stand: {daten.get('stichtag', '')} – {daten.get('mandant', {}).get('name', '')}",
+        style_id=styles["default"],
+    )
 
     # Header Zeile 6 – Bestand Start
-    h = ws.cell(row=R_BESTAND_HEADER, column=LABEL_COL, value="Bestand Start Planung")
-    h.font = FONT_BOLD
-    h.fill = FILL_HEADER_GRAY
-    h.number_format = NUM_FMT
+    ws.set(R_BESTAND_HEADER, LABEL_COL, "Bestand Start Planung", style_id=styles["header_gray_bold"])
 
     # KW-Header
     _, iso_week, _ = monday_of(dt.date.fromisoformat(daten["stichtag"])).isocalendar()
     prev_kw = iso_week - 1 if iso_week > 1 else 52
-    kw_cell = ws.cell(row=R_BESTAND_HEADER, column=START_COL, value=f"KW {prev_kw}")
-    kw_cell.font = FONT_BOLD
-    kw_cell.alignment = Alignment(horizontal="center")
+    ws.set(R_BESTAND_HEADER, START_COL, f"KW {prev_kw}", style_id=styles["bold_center"])
 
     stichtag = dt.date.fromisoformat(daten["stichtag"])
-    for i, (kw, a, b) in enumerate(week_buckets(stichtag, n_weeks)):
-        c = ws.cell(row=R_BESTAND_HEADER, column=PLAN_COL_START + i, value=f"KW {kw}")
-        c.font = FONT_BOLD
-        c.alignment = Alignment(horizontal="center")
+    for i, (kw, _a, _b) in enumerate(week_buckets(stichtag, n_weeks)):
+        ws.set(R_BESTAND_HEADER, PLAN_COL_START + i, f"KW {kw}", style_id=styles["bold_center"])
 
     # Zeilen-Labels
-    def put_label(row, text, bold=False, fill=None, numfmt=None):
-        cell = ws.cell(row=row, column=LABEL_COL, value=text)
-        if bold:
-            cell.font = FONT_BOLD
-        else:
-            cell.font = FONT_DEFAULT
-        if fill is not None:
-            cell.fill = fill
-        if numfmt:
-            cell.number_format = numfmt
+    label_default = styles["default"]
+    ws.set(R_KASSE, LABEL_COL, "Kassenbestand", style_id=label_default)
+    ws.set(R_KONTO, LABEL_COL, "Kontostand", style_id=label_default)
+    ws.set(R_LIQUI_START, LABEL_COL, "Liquidität Wochenanfang", style_id=styles["liqui_bold_num"])
 
-    put_label(R_KASSE, "Kassenbestand")
-    put_label(R_KONTO, "Kontostand")
-    put_label(R_LIQUI_START, "Liquidität Wochenanfang", bold=True, fill=FILL_LIQUI_BLUE, numfmt=NUM_FMT)
+    ws.set(R_EIN_HEADER, LABEL_COL, "Einnahmen", style_id=styles["ein_yellow_bold_num"])
+    ws.set(R_EIN_UMSATZ, LABEL_COL, "Umsatzerlöse", style_id=label_default)
+    ws.set(R_EIN_ANZAHLUNG, LABEL_COL, "erhaltene Anzahlungen", style_id=label_default)
+    ws.set(R_EIN_SONST, LABEL_COL, "sonstige Einnahmen", style_id=label_default)
+    ws.set(R_EIN_SUMME, LABEL_COL, "Summe Einnahmen", style_id=styles["bold_num"])
 
-    put_label(R_EIN_HEADER, "Einnahmen", bold=True, fill=FILL_EIN_YELLOW, numfmt=NUM_FMT)
-    put_label(R_EIN_UMSATZ, "Umsatzerlöse")
-    put_label(R_EIN_ANZAHLUNG, "erhaltene Anzahlungen")
-    put_label(R_EIN_SONST, "sonstige Einnahmen")
-    put_label(R_EIN_SUMME, "Summe Einnahmen", bold=True, numfmt=NUM_FMT)
+    ws.set(R_AUS_HEADER, LABEL_COL, " Ausgaben", style_id=styles["aus_red_bold_num"])
+    ws.set(R_AUS_LOHN, LABEL_COL, "Löhne und Gehälter einschl. LSt", style_id=label_default)
+    ws.set(R_AUS_SV, LABEL_COL, "Sozialversicherung", style_id=label_default)
+    ws.set(R_AUS_WAREN, LABEL_COL, "Waren/ Material", style_id=label_default)
+    ws.set(R_AUS_MIETE, LABEL_COL, "Miete", style_id=label_default)
+    ws.set(R_AUS_ENERGIE, LABEL_COL, "Heizung/Strom/Wasser", style_id=label_default)
+    ws.set(R_AUS_VERWALTUNG, LABEL_COL, "Verwaltung", style_id=label_default)
+    ws.set(R_AUS_WERBUNG, LABEL_COL, "Werbung/Marketing", style_id=label_default)
+    ws.set(R_AUS_LEASING, LABEL_COL, "Fahrzeug-/Leasingkosten", style_id=label_default)
+    ws.set(R_AUS_VERSICH, LABEL_COL, "Versicherungen", style_id=label_default)
+    ws.set(R_AUS_BERATUNG, LABEL_COL, "Beratungskosten", style_id=label_default)
+    ws.set(R_AUS_SONST, LABEL_COL, "sonstige Ausgaben", style_id=label_default)
+    ws.set(R_AUS_INVEST, LABEL_COL, "Investitionen", style_id=label_default)
+    ws.set(R_AUS_STEUERN, LABEL_COL, "Betriebliche Steuern", style_id=label_default)
+    ws.set(R_AUS_SONST2, LABEL_COL, "sonstige Ausgaben", style_id=label_default)
+    ws.set(R_AUS_TILGUNG, LABEL_COL, "Darlehenstilgung", style_id=label_default)
+    ws.set(R_AUS_ZINSEN, LABEL_COL, "Zinsen", style_id=label_default)
+    ws.set(R_AUS_ENTNAHME, LABEL_COL, "Privatentnahmen", style_id=label_default)
+    ws.set(R_AUS_SUMME, LABEL_COL, "Summe Ausgaben", style_id=styles["bold_num"])
 
-    put_label(R_AUS_HEADER, " Ausgaben", bold=True, fill=FILL_AUS_RED, numfmt=NUM_FMT)
-    put_label(R_AUS_LOHN, "Löhne und Gehälter einschl. LSt")
-    put_label(R_AUS_SV, "Sozialversicherung")
-    put_label(R_AUS_WAREN, "Waren/ Material")
-    put_label(R_AUS_MIETE, "Miete")
-    put_label(R_AUS_ENERGIE, "Heizung/Strom/Wasser")
-    put_label(R_AUS_VERWALTUNG, "Verwaltung")
-    put_label(R_AUS_WERBUNG, "Werbung/Marketing")
-    put_label(R_AUS_LEASING, "Fahrzeug-/Leasingkosten")
-    put_label(R_AUS_VERSICH, "Versicherungen")
-    put_label(R_AUS_BERATUNG, "Beratungskosten")
-    put_label(R_AUS_SONST, "sonstige Ausgaben")
-    put_label(R_AUS_INVEST, "Investitionen")
-    put_label(R_AUS_STEUERN, "Betriebliche Steuern")
-    put_label(R_AUS_SONST2, "sonstige Ausgaben")
-    put_label(R_AUS_TILGUNG, "Darlehenstilgung")
-    put_label(R_AUS_ZINSEN, "Zinsen")
-    put_label(R_AUS_ENTNAHME, "Privatentnahmen")
-    put_label(R_AUS_SUMME, "Summe Ausgaben", bold=True, numfmt=NUM_FMT)
-
-    put_label(R_CASHFLOW, "Cash Flow Woche", bold=True, numfmt=NUM_FMT)
-    put_label(R_LIQUI_END, "Liquidität Woche Ende", bold=True, fill=FILL_LIQUI_BLUE, numfmt=NUM_FMT)
+    ws.set(R_CASHFLOW, LABEL_COL, "Cash Flow Woche", style_id=styles["bold_num"])
+    ws.set(R_LIQUI_END, LABEL_COL, "Liquidität Woche Ende", style_id=styles["liqui_bold_num"])
 
     # Ampel-Block (Klotzkette-Erweiterung)
-    put_label(R_FAELLIG, "fällige Verb. Folgewoche", bold=True, numfmt=NUM_FMT)
-    put_label(R_LUECKE_3W, "3-Wochen-Lücke (kumuliert)", bold=True, numfmt=NUM_FMT)
-    put_label(R_QUOTE, "Lücken-Quote (%)", bold=True, numfmt=NUM_FMT_PCT)
-    put_label(R_AMPEL, "Ampel § 17 InsO", bold=True)
+    ws.set(R_FAELLIG, LABEL_COL, "fällige Verb. Folgewoche", style_id=styles["bold_num"])
+    ws.set(R_LUECKE_3W, LABEL_COL, "3-Wochen-Lücke (kumuliert)", style_id=styles["bold_num"])
+    ws.set(R_QUOTE, LABEL_COL, "Lücken-Quote (%)", style_id=styles["bold_pct"])
+    ws.set(R_AMPEL, LABEL_COL, "Ampel § 17 InsO", style_id=styles["bold"])
 
 
-def fill_sheet(ws, daten: dict, n_weeks: int):
+def fill_sheet(ws: XlsxSheet, styles: dict, daten: dict, n_weeks: int):
     """Werte und Formeln in die Spalten B (Start) und C..(C+n) eintragen."""
-    # Bestand Start (Spalte B = KW vor Stichtag)
     kasse_start = float(daten.get("kassenbestand_start", 0))
     konto_start = float(daten.get("kontostand_start", 0))
-    ws.cell(row=R_KASSE, column=START_COL, value=kasse_start).number_format = NUM_FMT
-    ws.cell(row=R_KONTO, column=START_COL, value=konto_start).number_format = NUM_FMT
-    ws.cell(row=R_LIQUI_START, column=START_COL,
-            value=f"={get_column_letter(START_COL)}{R_KASSE}+{get_column_letter(START_COL)}{R_KONTO}"
-            ).number_format = NUM_FMT
-    ws.cell(row=R_LIQUI_START, column=START_COL).font = FONT_BOLD
-    ws.cell(row=R_LIQUI_START, column=START_COL).fill = FILL_LIQUI_BLUE
+    ws.set(R_KASSE, START_COL, kasse_start, style_id=styles["num"])
+    ws.set(R_KONTO, START_COL, konto_start, style_id=styles["num"])
+    ws.set(
+        R_LIQUI_START, START_COL,
+        formula=f"{col_letter(START_COL)}{R_KASSE}+{col_letter(START_COL)}{R_KONTO}",
+        style_id=styles["liqui_bold_num"],
+    )
 
     plan = daten.get("plan", {}) or {}
 
     for i in range(n_weeks):
         col = PLAN_COL_START + i
-        L = get_column_letter(col)
-        L_prev = get_column_letter(col - 1)
+        L = col_letter(col)
+        L_prev = col_letter(col - 1)
         kw_data: dict[str, Any] = {}
         if isinstance(plan, dict):
-            # Plan-Keys koennen int (YAML) oder str (JSON) sein.
             kw_data = plan.get(i, plan.get(str(i), {}))
         elif isinstance(plan, list) and i < len(plan):
             kw_data = plan[i]
 
-        # Liquidität Wochenanfang = Liq. Woche Ende der Vorwoche
-        # (für Spalte C = i=0 → B (Bestand Start), sonst Vorspalte R_LIQUI_END)
+        # Liquidität Wochenanfang
         if i == 0:
-            ws.cell(row=R_LIQUI_START, column=col,
-                    value=f"={get_column_letter(START_COL)}{R_LIQUI_START}")
+            ws.set(R_LIQUI_START, col,
+                   formula=f"{col_letter(START_COL)}{R_LIQUI_START}",
+                   style_id=styles["liqui_bold_num"])
         else:
-            ws.cell(row=R_LIQUI_START, column=col,
-                    value=f"={L_prev}{R_LIQUI_END}")
-        ws.cell(row=R_LIQUI_START, column=col).font = FONT_BOLD
-        ws.cell(row=R_LIQUI_START, column=col).fill = FILL_LIQUI_BLUE
-        ws.cell(row=R_LIQUI_START, column=col).number_format = NUM_FMT
+            ws.set(R_LIQUI_START, col,
+                   formula=f"{L_prev}{R_LIQUI_END}",
+                   style_id=styles["liqui_bold_num"])
 
-        # Einnahmen
         ein = kw_data.get("einnahmen", {}) if isinstance(kw_data, dict) else {}
         for key, row in EIN_KEYS.items():
-            val = float(ein.get(key, 0))
-            c = ws.cell(row=row, column=col, value=val)
-            c.number_format = NUM_FMT
-        # Summe Einnahmen
-        c = ws.cell(row=R_EIN_SUMME, column=col,
-                    value=f"=SUM({L}{R_EIN_UMSATZ}:{L}{R_EIN_SONST})")
-        c.font = FONT_BOLD
-        c.number_format = NUM_FMT
+            ws.set(row, col, float(ein.get(key, 0)), style_id=styles["num"])
+        ws.set(R_EIN_SUMME, col,
+               formula=f"SUM({L}{R_EIN_UMSATZ}:{L}{R_EIN_SONST})",
+               style_id=styles["bold_num"])
 
-        # Ausgaben
         aus = kw_data.get("ausgaben", {}) if isinstance(kw_data, dict) else {}
         for key, row in AUS_KEYS.items():
-            val = float(aus.get(key, 0))
-            c = ws.cell(row=row, column=col, value=val)
-            c.number_format = NUM_FMT
-        # Summe Ausgaben
-        c = ws.cell(row=R_AUS_SUMME, column=col,
-                    value=f"=SUM({L}{R_AUS_LOHN}:{L}{R_AUS_ENTNAHME})")
-        c.font = FONT_BOLD
-        c.number_format = NUM_FMT
+            ws.set(row, col, float(aus.get(key, 0)), style_id=styles["num"])
+        ws.set(R_AUS_SUMME, col,
+               formula=f"SUM({L}{R_AUS_LOHN}:{L}{R_AUS_ENTNAHME})",
+               style_id=styles["bold_num"])
 
-        # Cash Flow Woche
-        c = ws.cell(row=R_CASHFLOW, column=col,
-                    value=f"={L}{R_EIN_SUMME}-{L}{R_AUS_SUMME}")
-        c.font = FONT_BOLD
-        c.number_format = NUM_FMT
+        ws.set(R_CASHFLOW, col,
+               formula=f"{L}{R_EIN_SUMME}-{L}{R_AUS_SUMME}",
+               style_id=styles["bold_num"])
 
-        # Liquidität Woche Ende
-        c = ws.cell(row=R_LIQUI_END, column=col,
-                    value=f"={L}{R_LIQUI_START}+{L}{R_CASHFLOW}")
-        c.font = FONT_BOLD
-        c.fill = FILL_LIQUI_BLUE
-        c.number_format = NUM_FMT
+        ws.set(R_LIQUI_END, col,
+               formula=f"{L}{R_LIQUI_START}+{L}{R_CASHFLOW}",
+               style_id=styles["liqui_bold_num"])
 
-        # § 17 InsO-Block: fällige Verbindlichkeiten Folgewoche
         faellig = float(kw_data.get("faellig_folgewoche", 0))
-        c = ws.cell(row=R_FAELLIG, column=col, value=faellig)
-        c.number_format = NUM_FMT
+        ws.set(R_FAELLIG, col, faellig, style_id=styles["num"])
 
-    # 3-Wochen-Lücke und Quote/Ampel – muss in zweitem Durchgang, da Bezug auf Nachbarspalten
+    # 3-Wochen-Lücke und Quote/Ampel
     for i in range(n_weeks):
         col = PLAN_COL_START + i
-        L = get_column_letter(col)
-        # Lücke = MAX(0, Summe fälliger Verb. t..t+2 - (Liquidität Woche Ende_t + Summe Einnahmen_t+1 + Summe Einnahmen_t+2))
-        # Quote = Lücke / Summe fälliger Verb. t..t+2 (gleiche Bezugsgröße wie Lücke — BGH IX ZR 171/15)
+        L = col_letter(col)
         if i + 2 < n_weeks:
-            L1 = get_column_letter(col + 1)
-            L2 = get_column_letter(col + 2)
+            L1 = col_letter(col + 1)
+            L2 = col_letter(col + 2)
             faellig_sum = f"{L}{R_FAELLIG}+{L1}{R_FAELLIG}+{L2}{R_FAELLIG}"
             mittel = f"{L}{R_LIQUI_END}+{L1}{R_EIN_SUMME}+{L2}{R_EIN_SUMME}"
-            ws.cell(row=R_LUECKE_3W, column=col,
-                    value=f"=MAX(0,({faellig_sum})-({mittel}))").number_format = NUM_FMT
-            ws.cell(row=R_QUOTE, column=col,
-                    value=f"=IFERROR({L}{R_LUECKE_3W}/({faellig_sum}),0)"
-                    ).number_format = NUM_FMT_PCT
+            ws.set(R_LUECKE_3W, col,
+                   formula=f"MAX(0,({faellig_sum})-({mittel}))",
+                   style_id=styles["bold_num"])
+            ws.set(R_QUOTE, col,
+                   formula=f"IFERROR({L}{R_LUECKE_3W}/({faellig_sum}),0)",
+                   style_id=styles["bold_pct"])
         else:
-            ws.cell(row=R_LUECKE_3W, column=col,
-                    value=f"=MAX(0,{L}{R_FAELLIG}-{L}{R_LIQUI_END})").number_format = NUM_FMT
-            ws.cell(row=R_QUOTE, column=col,
-                    value=f"=IFERROR({L}{R_LUECKE_3W}/{L}{R_FAELLIG},0)"
-                    ).number_format = NUM_FMT_PCT
-        # Ampel
-        c = ws.cell(row=R_AMPEL, column=col,
-                    value=(f'=IF({L}{R_QUOTE}>=0.1,"ROT",'
-                           f'IF({L}{R_QUOTE}>0,"GELB","GRÜN"))'))
-        c.font = FONT_BOLD
-        c.alignment = Alignment(horizontal="center")
+            ws.set(R_LUECKE_3W, col,
+                   formula=f"MAX(0,{L}{R_FAELLIG}-{L}{R_LIQUI_END})",
+                   style_id=styles["bold_num"])
+            ws.set(R_QUOTE, col,
+                   formula=f"IFERROR({L}{R_LUECKE_3W}/{L}{R_FAELLIG},0)",
+                   style_id=styles["bold_pct"])
+        ws.set(R_AMPEL, col,
+               formula=(
+                   f'IF({L}{R_QUOTE}>=0.1,"ROT",'
+                   f'IF({L}{R_QUOTE}>0,"GELB","GRÜN"))'
+               ),
+               style_id=styles["bold_center"])
 
     # bedingte Formatierung Ampel
-    first_col = get_column_letter(PLAN_COL_START)
-    last_col = get_column_letter(PLAN_COL_START + n_weeks - 1)
+    first_col = col_letter(PLAN_COL_START)
+    last_col = col_letter(PLAN_COL_START + n_weeks - 1)
     rng = f"{first_col}{R_AMPEL}:{last_col}{R_AMPEL}"
-    ws.conditional_formatting.add(
-        rng, CellIsRule(operator="equal", formula=['"ROT"'],
-                        fill=PatternFill("solid", fgColor="F4B7BA"),
-                        font=Font(bold=True, color="9C0006")))
-    ws.conditional_formatting.add(
-        rng, CellIsRule(operator="equal", formula=['"GELB"'],
-                        fill=PatternFill("solid", fgColor="FFE9A8"),
-                        font=Font(bold=True, color="8F6A00")))
-    ws.conditional_formatting.add(
-        rng, CellIsRule(operator="equal", formula=['"GRÜN"'],
-                        fill=PatternFill("solid", fgColor="C9E5C1"),
-                        font=Font(bold=True, color="2C6E1F")))
+    ws.cf_rules.append((rng, "ROT", styles["dxf_rot"]))
+    ws.cf_rules.append((rng, "GELB", styles["dxf_gelb"]))
+    ws.cf_rules.append((rng, "GRÜN", styles["dxf_gruen"]))
 
-    ws.freeze_panes = ws.cell(row=R_BESTAND_HEADER + 1, column=PLAN_COL_START)
+    ws.freeze_panes(R_BESTAND_HEADER + 1, PLAN_COL_START)
 
 
 # ----------------------------------------------------------------------------
 # Fortführungsprognose und Annahmen
 # ----------------------------------------------------------------------------
 
-def build_prognose_sheet(wb, daten):
-    ws = wb.create_sheet("Fortfuehrungsprognose")
-    ws.sheet_view.showGridLines = False
-    ws.column_dimensions["A"].width = 32
-    ws.column_dimensions["B"].width = 60
-    ws.column_dimensions["C"].width = 22
+def build_prognose_sheet(wb: XlsxWorkbook, styles: dict, daten: dict):
+    ws = wb.add_sheet("Fortfuehrungsprognose")
+    ws.show_grid = False
+    ws.set_column_width(1, 32)
+    ws.set_column_width(2, 60)
+    ws.set_column_width(3, 22)
 
-    t = ws.cell(row=1, column=1, value="Fortführungsprognose nach IDW S 6 / IDW S 11")
-    t.font = Font(name="Calibri", size=14, bold=True)
+    ws.set(1, 1, "Fortführungsprognose nach IDW S 6 / IDW S 11", style_id=styles["title14_bold"])
 
     for i, h in enumerate(["IDW-S-6-Element", "Befund / Annahme", "Status"]):
-        c = ws.cell(row=3, column=1 + i, value=h)
-        c.font = FONT_BOLD
-        c.fill = FILL_HEADER_GRAY
-        c.alignment = Alignment(horizontal="center")
+        ws.set(3, 1 + i, h, style_id=styles["header_gray_bold_center"])
 
     elemente = [
         ("1. Auftrag/Auftragsdurchführung", daten.get("prognose", {}).get("auftrag", "")),
@@ -621,15 +995,12 @@ def build_prognose_sheet(wb, daten):
     ]
     for i, (label, befund) in enumerate(elemente):
         r = 4 + i
-        ws.cell(row=r, column=1, value=label).font = FONT_BOLD
-        ws.cell(row=r, column=2, value=befund).alignment = Alignment(wrap_text=True, vertical="top")
-        ws.cell(row=r, column=3, value="").alignment = Alignment(horizontal="center")
-        ws.row_dimensions[r].height = 60
-        for c in range(1, 4):
-            ws.cell(row=r, column=c).border = BORDER
+        ws.set(r, 1, label, style_id=styles["bold_border"])
+        ws.set(r, 2, befund, style_id=styles["border"])
+        ws.set(r, 3, "", style_id=styles["border_center"])
 
     r = 4 + len(elemente) + 2
-    ws.cell(row=r, column=1, value="Quellen:").font = FONT_BOLD
+    ws.set(r, 1, "Quellen:", style_id=styles["bold"])
     quellen = [
         "BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12 ff. (§ 17 InsO).",
         "BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NJW 2007, 78 Rn. 16 ff. (Indizienkatalog).",
@@ -640,16 +1011,16 @@ def build_prognose_sheet(wb, daten):
         "Uhlenbruck/Mock, InsO, 16. Aufl. 2024, §§ 17, 19 InsO.",
     ]
     for i, q in enumerate(quellen):
-        ws.cell(row=r + 1 + i, column=1, value="• " + q)
+        ws.set(r + 1 + i, 1, "• " + q, style_id=styles["default"])
 
 
-def build_annahmen_sheet(wb, daten):
-    ws = wb.create_sheet("Annahmen")
-    ws.sheet_view.showGridLines = False
-    ws.column_dimensions["A"].width = 36
-    ws.column_dimensions["B"].width = 60
+def build_annahmen_sheet(wb: XlsxWorkbook, styles: dict, daten: dict):
+    ws = wb.add_sheet("Annahmen")
+    ws.show_grid = False
+    ws.set_column_width(1, 36)
+    ws.set_column_width(2, 60)
 
-    ws.cell(row=1, column=1, value="Annahmen und Inputs").font = Font(name="Calibri", size=14, bold=True)
+    ws.set(1, 1, "Annahmen und Inputs", style_id=styles["title14_bold"])
     rows = [
         ("Mandant", daten.get("mandant", {}).get("name", "")),
         ("Rechtsform", daten.get("mandant", {}).get("rechtsform", "")),
@@ -664,8 +1035,48 @@ def build_annahmen_sheet(wb, daten):
     ]
     for i, (k, v) in enumerate(rows):
         r = 3 + i
-        ws.cell(row=r, column=1, value=k).font = FONT_BOLD
-        ws.cell(row=r, column=2, value=v)
+        ws.set(r, 1, k, style_id=styles["bold"])
+        ws.set(r, 2, v, style_id=styles["default"])
+
+
+# ----------------------------------------------------------------------------
+# Styles-Registry
+# ----------------------------------------------------------------------------
+
+def build_styles(wb: XlsxWorkbook) -> dict[str, int]:
+    """Registriert alle wiederkehrenden Styles als ID-Map."""
+    s = {}
+    s["default"] = wb.add_style()
+    s["bold"] = wb.add_style(font_bold=True)
+    s["num"] = wb.add_style(num_fmt=NUM_FMT)
+    s["bold_num"] = wb.add_style(font_bold=True, num_fmt=NUM_FMT)
+    s["bold_pct"] = wb.add_style(font_bold=True, num_fmt=NUM_FMT_PCT)
+    s["bold_center"] = wb.add_style(font_bold=True, align_h="center")
+    s["header_gray_bold"] = wb.add_style(
+        font_bold=True, fill_color=COLOR_HEADER_GRAY, num_fmt=NUM_FMT
+    )
+    s["header_gray_bold_center"] = wb.add_style(
+        font_bold=True, fill_color=COLOR_HEADER_GRAY, align_h="center"
+    )
+    s["liqui_bold_num"] = wb.add_style(
+        font_bold=True, fill_color=COLOR_LIQUI_BLUE, num_fmt=NUM_FMT
+    )
+    s["ein_yellow_bold_num"] = wb.add_style(
+        font_bold=True, fill_color=COLOR_EIN_YELLOW, num_fmt=NUM_FMT
+    )
+    s["aus_red_bold_num"] = wb.add_style(
+        font_bold=True, fill_color=COLOR_AUS_RED, num_fmt=NUM_FMT
+    )
+    s["title14_bold"] = wb.add_style(font_bold=True)  # Größe vereinfacht
+    s["border"] = wb.add_style(border=True)
+    s["bold_border"] = wb.add_style(font_bold=True, border=True)
+    s["border_center"] = wb.add_style(border=True, align_h="center")
+
+    # DXF (für conditional formatting): (bg_color, font_color, bold)
+    s["dxf_rot"] = wb.add_dxf("F4B7BA", "9C0006", bold=True)
+    s["dxf_gelb"] = wb.add_dxf("FFE9A8", "8F6A00", bold=True)
+    s["dxf_gruen"] = wb.add_dxf("C9E5C1", "2C6E1F", bold=True)
+    return s
 
 
 # ----------------------------------------------------------------------------
@@ -680,16 +1091,16 @@ def main():
 
     daten = load_input(args.eingabe)
 
-    wb = openpyxl.Workbook()
-    wb.remove(wb.active)
+    wb = XlsxWorkbook()
+    styles = build_styles(wb)
 
     for name, n in [("13-Wochen", 13), ("26-Wochen", 26), ("52-Wochen", 52)]:
-        ws = wb.create_sheet(name)
-        build_skeleton(ws, daten, n)
-        fill_sheet(ws, daten, n)
+        ws = wb.add_sheet(name)
+        build_skeleton(wb, ws, styles, daten, n)
+        fill_sheet(ws, styles, daten, n)
 
-    build_prognose_sheet(wb, daten)
-    build_annahmen_sheet(wb, daten)
+    build_prognose_sheet(wb, styles, daten)
+    build_annahmen_sheet(wb, styles, daten)
 
     wb.save(args.ausgabe)
     print(f"OK: geschrieben nach {args.ausgabe}")
