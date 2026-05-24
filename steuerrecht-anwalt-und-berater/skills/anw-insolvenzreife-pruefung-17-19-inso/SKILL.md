@@ -76,7 +76,7 @@ Im Gegensatz zum StB-Skill `stb-ueberschuldungspruefung-19-inso` (technische Ind
 | Sozialversicherungsabgaben — fällig (Drittelung Arbeitnehmer-/Arbeitgeber-Anteil dokumentieren) | … EUR |
 | Lohnsteuer und Solidaritätszuschlag — fällig nach § 41a EStG | … EUR |
 | Umsatzsteuer — fällig laut Voranmeldung | … EUR |
-| Sonstige Steuerverbindlichkeiten (ESt, KSt, GewSt) — fällig **abzüglich** schriftlich bewilligter Stundungen § 222 AO und AdV § 361 AO | … EUR |
+| Sonstige Steuerverbindlichkeiten (ESt, KSt, GewSt) — fällig **abzüglich** schriftlich bewilligter Stundungen § 222 AO (Stundungsbescheid muss Fälligkeit über den Stichtag hinaus verschieben). **AdV nach § 361 AO bleibt Passiva I** — sie hemmt nur die Vollziehung, lässt die Forderung materiell fällig (siehe Abschnitt "AdV nach § 361 AO und Insolvenzreife" unten). | … EUR |
 | Kreditraten und Zinsen — fällig | … EUR |
 | Sonstige fällige Verbindlichkeiten | … EUR |
 
