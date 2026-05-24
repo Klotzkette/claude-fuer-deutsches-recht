@@ -3,9 +3,9 @@
 > **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis** und am hohen Stellenwert von **Kommentaren und Aufsätzen**. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jede Nutzerin und jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
 ## Über dieses Repository
 
-Dieses Repository ist eine **experimentelle Skill-Sammlung für deutsches Recht** auf Basis der offenen „claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
+Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deutsches Recht** auf Basis der offenen „claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
 
-Ziel ist es, zu zeigen, wie sich Skills für Arbeitsrecht, Gesellschaftsrecht, Insolvenzrecht (inklusive Liquiditätsplanung und Fortbestehensprognose), Datenschutzrecht, Prozessrecht, gewerblichen Rechtsschutz, Produkt- und Regulierungsrecht u. a. so strukturieren lassen, dass sie sich an der in Deutschland üblichen Methodik (Anspruchsgrundlagen, Prüfungsaufbau, Kommentarliteratur, Rechtsprechungs-Zitate im BGH-/Beck-Stil) orientieren. Die Inhalte dienen ausschließlich als **Anregung für eigene Kanzlei- oder Inhouse-Skills**: Sie sollen zeigen, welche Prompts, Rollenbeschreibungen und Workflows in der Praxis hilfreich sein können – jede Nutzerin und jeder Nutzer passt sie an die eigenen Mandate, Branchen, Tools und Compliance-Vorgaben an.
+Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellschaftsrecht, Insolvenzrecht (inklusive Liquiditätsplanung und Fortbestehensprognose), Datenschutzrecht, Prozessrecht, gewerblichen Rechtsschutz, Produkt- und Regulierungsrecht u. a. so strukturieren lassen, dass sie sich an der in Deutschland üblichen Methodik (Anspruchsgrundlagen, Prüfungsaufbau, Kommentarliteratur, Rechtsprechungszitate im BGH-Stil) orientieren. Die Inhalte dienen ausschließlich als **Anregung für eigene Kanzlei- oder Inhouse-Plugins und -Skills**: Sie sollen zeigen, welche Prompts, Rollenbeschreibungen und Workflows in der Praxis hilfreich sein können – jede Nutzerin und jeder Nutzer passt sie an die eigenen Mandate, Branchen, Tools und Compliance-Vorgaben an.
 
 ### Bitte mit-testen und Feedback geben
 
@@ -39,7 +39,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
   - `urteilsbauer-relationsmacher` — Urteils- und Beschluss-Werkstatt für Amts-, Land- und Familienrichter plus Rechtspfleger. Vollrelation (Sachbericht/Zulässigkeit/Schlüssigkeit/Erheblichkeit/Replik/Beweis/Tenorierung/Nebenentscheidungen/Selbstkontrolle) **und** Kurzrelation Praxisstandard mit Wahlfrage am Anfang. Rendert Urteile, Versäumnisurteile und Beschlüsse als DOCX im offiziellen Gerichtslayout nach § 313 ZPO. Inkl. Schulungsakte „Solis Vision X Smartglasses" (CISG, kollidierende AGB CH/EU, Incoterm FOB Galway, DSGVO als Eingriffsnorm, Testkauf 1577 EUR).
   - `hausarbeitenmacher` (neu in v6.0.0) — didaktisches Plugin für juristische Hausarbeiten und Seminararbeiten im Jurastudium. Führt sokratisch durch Zivilrecht, Öffentliches Recht und Strafrecht mit Ausflügen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt eine Adressaten-Strategie **ohne Schleimerei**. Strikt lernfördernd: kein Copy-Paste-Output, sondern Fragen, Strukturen, Methodenhinweise, Zitierweise. 22 Skills von Aufgabenstellung-Erfassen über Gutachtenstil und Methodenlehre bis Selbstkontrolle vor Abgabe.
 - **Workflow-Pakete:** Wandeldarlehen-Lebenszyklus (Erstellung, Beurkundung, Wandlung, Cap-Table, Notar), Kündigungsschutzklage Selbsthilfe (Laie/Anwalt, Schriftsätze, Sprechzettel, Vergleich), Entfristungsklage TzBfG (Schriftform, elektronische Signatur), KI-Richtlinie für Kanzleien, Schriftform-/Textform-Organisator, Krisenfrüherkennung StaRUG, Liquiditätsplanung, Fortbestehensprognose.
-- **Querschnitt:** Aktenauszug Gerichtsverfahren, Mandantenanfragen-Assistent, Arbeitszeugnis-Analyse (Ampelsystem), Email-Umformulierer berufsrechtskonform, Zitierweise BGH-/Beck-Stil, Fachanwaltschafts-Übersicht.
+- **Querschnitt:** Aktenauszug Gerichtsverfahren, Mandantenanfragen-Assistent, Arbeitszeugnis-Analyse (Ampelsystem), Email-Umformulierer berufsrechtskonform, Zitierweise im BGH-Stil, Fachanwaltschafts-Übersicht.
 
 > ⚠️ **Vorsicht: hiermit bitte nicht mogeln im Studium.**
 > Die Vollrelation, der Urteilsentwurf, der Hausarbeits- und Seminararbeits-Output sowie alle Schulungsakten sind **Trainings-, Praxis- und Lernwerkzeuge** für Studierende, Referendare/-innen, Assessoren/-innen, Berufsrichter/-innen, Tutor/-innen und Lehrkräfte. Sie sind ausdrücklich **nicht** dafür gedacht, in Hausarbeiten, Seminararbeiten, Klausuren, Aktenvorträgen oder im juristischen Vorbereitungsdienst (Z-, S-, V-, A-Klausur, mündliche Prüfung) als eigene Leistung ausgegeben zu werden. Das wäre ein Täuschungsversuch im Sinne der jeweiligen universitären Prüfungsordnung bzw. § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder und kann zum Nichtbestehen, zur Aberkennung der Prüfung oder zu disziplinarrechtlichen Konsequenzen führen. Wer eine Relation, eine Hausarbeit oder ein Urteil üben will: zuerst selbst schreiben, danach mit dem Plugin abgleichen.
@@ -185,7 +185,7 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 > 🧭 **Querschnitts-Plugins zum Mitladen:** Zwei Plugins liefern die methodische Grundlage, die in den anderen Plugins vorausgesetzt wird. Sie gehören in jede Konfiguration mit hinein, weil sie den deutschen Stil tragen:
 >
 > - [`methodenlehre-buergerliches-recht`](./methodenlehre-buergerliches-recht) — Methodenlehre und Falllösung im deutschen bürgerlichen Recht aus Anwaltsperspektive. Gutachtenstil, Anspruchsgrundlagen-Reihenfolge, Auslegung Wortlaut/Systematik/Historie/Telos ohne starre Rangfolge (pragmatische BGH-Praxis), unions- und verfassungskonforme Auslegung, Rechtsfortbildung als reales Werkzeug. Breaking Change in v3.0: umbenannt von `methodenlehre-deutsches-recht`.
-> - [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Grüneberg/MüKo-Regel, BGH-/Beck-Stil, Typografiestandards. Pflicht-Checkliste vor jeder Ausgabe.
+> - [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) — Hauszitierweise mit Pinpoint-Randnummer, Grüneberg/MüKo-Regel, BGH-Stil, Typografiestandards. Pflicht-Checkliste vor jeder Ausgabe.
 >
 > Beide Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte diese beiden zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
@@ -392,7 +392,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Urteile sind nicht bindend; Ausnahme: § 31 BVerfGG.
 - Vorprozessuale Beweiserhebung ist auf eng begrenzte gesetzliche Instrumente beschränkt: §§ 142, 144 ZPO; § 810 BGB; § 242 BGB; Art. 15 DSGVO; Auskunfts- und Stufenklage (§ 254 ZPO).
 - Kommentare und Aufsätze sind argumentativ tragend – jeder Skill belegt mit Bearbeiter, Kommentar, Auflage, Norm, Rn.
-- Zitierweise: BGH-/Beck-Stil – verbindlich in [`references/zitierweise.md`](./references/zitierweise.md).
+- Zitierweise: BGH-Stil – verbindlich in [`references/zitierweise.md`](./references/zitierweise.md).
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
@@ -435,7 +435,7 @@ Jeder Skill verweist auf [`references/zitierweise.md`](./references/zitierweise.
 - **Urteile:** `BGH, Urt. v. 13.07.2022 – VIII ZR 317/21, NJW 2022, 2754 Rn. 21.`
 - **Beschlüsse:** `BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, BVerfGE 152, 152 Rn. 78 – "Recht auf Vergessen I".`
 - **Kommentare:** `Ernst, in: MüKoBGB, 9. Aufl. 2022, § 280 Rn. 154.`
-- **BeckOK:** `Sutschet, in: BeckOK BGB, 70. Ed. (Stand 01.02.2025), § 311 Rn. 45.`
+- **Online-Kommentare:** `Sutschet, in: Online-Kommentar BGB, 70. Ed. (Stand 01.02.2025), § 311 Rn. 45.`
 - **Aufsätze:** `Grigoleit, NJW 2020, 1873 (1876).`
 
 Pflicht: Datum + Aktenzeichen + Fundstelle + Randnummer bei Rspr.; Bearbeiter + Werk + Auflage + Norm + Rn. bei Kommentaren.
@@ -531,7 +531,7 @@ A: Ja. Alle Skills sind Open Source (Apache-2.0 OR MIT, nach Wahl der Nutzerin /
 A: Öffnen Sie einen Issue auf GitHub oder schauen Sie in die Skill-Datei – oft sind Abhängigkeiten oder Formate dokumentiert.
 
 **F: Wie zuverlässig sind die Rechtszitate?**
-A: **Nicht sehr**. LLMs erfinden oft Zitate. Die Skills sind so konzipiert, dass sie die korrekte BGH-Zitierweise verwenden, aber Sie müssen **jede Fundstelle** selbst prüfen (Beck-Online, juris etc.).
+A: **Nicht sehr**. LLMs erfinden oft Zitate. Die Skills sind so konzipiert, dass sie die korrekte BGH-Zitierweise verwenden, aber Sie müssen **jede Fundstelle** selbst prüfen (juris, einschlägige Datenbanken etc.).
 
 ## Hinweise zur Nutzung
 
