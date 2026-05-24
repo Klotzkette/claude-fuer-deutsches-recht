@@ -195,5 +195,5 @@ Operative Tochtergesellschaften
 ## Anschluss
 
 - `gesellschaftsgruender-gmbh-vorbereitung` — für Holding-Gründung
-- `fachanwalt-steuerrecht-selbstanzeige-371-ao` — bei steuerlichen Vorgängen
+- `fachanwalt-steuerrecht-selbstanzeige` — bei steuerlichen Vorgängen
 - `corporate-kanzlei` — bei Big-Law-Strukturierung

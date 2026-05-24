@@ -1,6 +1,6 @@
 ---
 name: sacheinlagebericht-werthaltigkeit
-description: "Werthaltigkeitspruefung der einzubringenden Forderung aus dem Wandeldarlehen: Bilanzielle Bewertung, IDW S 6 analog, Wertgutachten Steuerberater. Differenzhaftung bei Ueberbewertung nach § 9 GmbHG. Darstellung im Sacheinlagebericht fuer den Notar. Ausbuchung als Sacheinlage gemäß § 272 Abs. 2 Nr. 4 HGB."
+description: "Werthaltigkeitspruefung der einzubringenden Forderung aus dem Wandeldarlehen: Bilanzielle Bewertung, IDW S 6 analog, Wertgutachten Steuerberater. Differenzhaftung Gesellschafter § 9 GmbHG, GF-Haftung § 9a i.V.m. § 57 IV GmbHG bei falscher Versicherung in HR-Anmeldung nach § 57 II GmbHG. Darstellung im Sacheinlagebericht fuer den Notar. Ausbuchung als Sacheinlage gemäß § 272 Abs. 2 Nr. 4 HGB."
 ---
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung
@@ -22,10 +22,12 @@ Dieser Skill erstellt den Sacheinlagebericht und prüft die Werthaltigkeit der a
 
 ### Primärnormen
 - § 9 GmbHG (Differenzhaftung Gesellschafter bei Überbewertung der Sacheinlage)
-- § 19 Abs. 4 GmbHG (Werthaltigkeitsversicherung der Geschäftsführer in der Anmeldung — Falschangabe begründet GF-Haftung gegen die Gesellschaft, ergänzt zur Gesellschafter-Differenzhaftung des § 9 GmbHG)
+- § 57 Abs. 2 Satz 1 GmbHG i.V.m. § 8 Abs. 2 Satz 1 GmbHG (Versicherung der Geschäftsführer in der HR-Anmeldung der Kapitalerhöhung, dass die Einlagen ordnungsgemäß bewirkt und endgültig zur freien Verfügung der Geschäftsführer stehen)
+- § 9a GmbHG i.V.m. § 57 Abs. 4 GmbHG analog (Schadensersatzpflicht der Geschäftsführer gegenüber der Gesellschaft bei falschen Angaben oder verschwiegenen Tatsachen im Rahmen der Anmeldung)
+- § 57a GmbHG i.V.m. § 9c GmbHG (Prüfungsrecht des Registergerichts; Eintragung darf bei nicht unwesentlich überbewerteter Sacheinlage versagt werden)
 - § 56 GmbHG (Sacheinlage: Leistung muss vor Anmeldung erbracht/gesichert sein)
-- § 56a GmbHG (Sachgründungsbericht analog für Kapitalerhöhung gegen Sacheinlage)
-- § 82 GmbHG (Strafbarkeit falscher Angaben zur Werthaltigkeit in HR-Anmeldung)
+- § 56a GmbHG (Sacheinlagebericht analog Sachgründungsbericht § 5 Abs. 4 GmbHG bei Kapitalerhöhung gegen Sacheinlage)
+- § 82 GmbHG (Strafbarkeit falscher Angaben in HR-Anmeldung)
 - § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage)
 - IDW RS HFA 42 (Werthaltigkeit von Forderungen als Sacheinlage)
 
@@ -48,7 +50,7 @@ Hinweis: Der qualifizierte Rangrücktritt schränkt die Durchsetzbarkeit der For
 Inhalt: (a) Beschreibung der Sacheinlage (Art der Forderung, Betrag, Fälligkeit), (b) Bewertungsgrundlagen (Buchwert, Marktwert, Plausibilisierung), (c) Ergebnis der Werthaltigkeitsprüfung, (d) Unterschrift Geschäftsführerin und ggf. Steuerberater.
 
 ### 5. Differenzhaftungs- und Geschäftsführer-Haftungsrisiko
-Falls Forderung überbewertet eingebracht wird (z. B. Buchwert EUR 275694, tatsächlicher Wert EUR 200000 wegen Ausfallrisiko): Differenzhaftung der einbringenden Gesellschafterin / des Lenders i.H.d. Differenz (§ 9 GmbHG). Zusätzlich Geschäftsführer-Eigenhaftung aus § 19 Abs. 4 GmbHG, wenn die Werthaltigkeit in der HR-Anmeldung wahrheitswidrig versichert wird; strafrechtlich flankiert durch § 82 GmbHG (falsche Angaben). Gegenstrategie: konservative Bewertung, dokumentierte Bewertungsgrundlage (Bilanz, BWA, Liquiditätsstatus), externe Plausibilisierung durch Steuerberater oder Wirtschaftsprüfer.
+Falls Forderung überbewertet eingebracht wird (z. B. Buchwert EUR 275694, tatsächlicher Wert EUR 200000 wegen Ausfallrisiko): Differenzhaftung der einbringenden Gesellschafterin / des Lenders i.H.d. Differenz (§ 9 GmbHG). Zusätzlich Geschäftsführer-Eigenhaftung aus **§ 9a GmbHG i.V.m. § 57 Abs. 4 GmbHG** analog, wenn die in der HR-Anmeldung nach **§ 57 Abs. 2 i.V.m. § 8 Abs. 2 GmbHG** abzugebende Versicherung (Einlagen bewirkt und zur freien Verfügung der Geschäftsführung) wahrheitswidrig oder unter Verschweigung wesentlicher Umstände erfolgt; strafrechtlich flankiert durch § 82 GmbHG (falsche Angaben). Registergericht prüft Werthaltigkeit nach § 57a i.V.m. § 9c GmbHG. Gegenstrategie: konservative Bewertung, dokumentierte Bewertungsgrundlage (Bilanz, BWA, Liquiditätsstatus), externe Plausibilisierung durch Steuerberater oder Wirtschaftsprüfer.
 
 ### 6. Vorlage beim Notar
 Sacheinlagebericht wird dem Kapitalerhöhungsbeschluss als Anlage beigefügt und dem Handelsregister übermittelt.
@@ -81,7 +83,7 @@ entspricht ihrem Nennwert von EUR 275694. Eine Überbewertung liegt nicht vor.
 | Kein Sacheinlagebericht | HR-Eintragung scheitert | Bericht unvollständig | Vollständiger Bericht |
 | Rangrücktritt noch aktiv bei Einbringung | Werthaltigkeit strittig | Rangrücktritt wird zeitgleich aufgehoben | Klar aufgehoben |
 | Differenzhaftungsrisiko ignoriert | Persönliche Haftung Lender/Gesellschafterinnen | Risiko bekannt aber nicht quantifiziert | Konservative Bewertung |
-| GF-Versicherung Werthaltigkeit ohne Plausibilisierung | § 19 IV GmbHG-Haftung GF, § 82 GmbHG strafrechtlich | Versicherung dünn dokumentiert | Plausibilisierung durch StB/WP dokumentiert |
+| GF-Versicherung in HR-Anmeldung ohne Plausibilisierung | § 9a i.V.m. § 57 IV GmbHG-Haftung GF, § 82 GmbHG strafrechtlich | Versicherung dünn dokumentiert | Plausibilisierung durch StB/WP dokumentiert |
 
 ## Querverweise
 

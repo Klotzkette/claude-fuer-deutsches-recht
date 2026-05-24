@@ -146,6 +146,6 @@ Begleitung Außenprüfung beim Mandanten.
 
 ## Anschluss
 
-- `fachanwalt-steuerrecht-selbstanzeige-371-ao` — bei Strafverdacht
+- `fachanwalt-steuerrecht-selbstanzeige` — bei Strafverdacht
 - `fachanwalt-steuerrecht-verbindliche-auskunft` — vor Sachverhalt
 - `fachanwalt-strafrecht-orientierung` — bei Strafverdacht

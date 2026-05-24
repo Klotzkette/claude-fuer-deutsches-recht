@@ -44,6 +44,19 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - **Im Fall Steuerbefreiung** Hinweis auf Befreiungs-Vorschrift
 - **Bei Reverse-Charge** Hinweis "Steuerschuldnerschaft des Leistungs-Empfängers"
 
+### 4a. eRechnung-Pflicht ab 1.1.2025 (Wachstumschancengesetz)
+
+**B2B-eRechnung** durch Wachstumschancengesetz (WtcG, 27.3.2024) in § 14 UStG eingefuehrt — Pflicht seit **1.1.2025** mit gestaffelten Uebergangsfristen:
+
+- **Empfangs-Pflicht**: Seit 1.1.2025 muss jeder inländische Unternehmer für inländische B2B-Umsätze eRechnungen empfangen können.
+- **Ausstellungs-Pflicht** (gestaffelt):
+  - bis 31.12.2026: Papier-/PDF-Rechnung mit Zustimmung des Empfaengers weiterhin zulaessig (Übergang)
+  - bis 31.12.2027: nur fuer Unternehmer mit Vorjahresumsatz ≤ 800 000 EUR Papier-Erleichterung
+  - ab 1.1.2028: vollständige eRechnungspflicht für alle B2B-Inlands-Umsätze
+- **Format**: strukturiertes, maschinenlesbares Format nach EN 16931 (z. B. **XRechnung** oder **ZUGFeRD ab Profil EN-16931**); reines PDF ohne strukturierte XML-Daten ist KEINE eRechnung.
+- **Folge fehlerhafter Rechnung**: Vorsteuerabzug nach § 15 Abs. 1 UStG kann verweigert werden, wenn Rechnungspflicht eRechnung verletzt ist (BMF-Schreiben vom 15.10.2024 zur eRechnung).
+- **Ausnahmen**: Kleinbetragsrechnungen ≤ 250 EUR § 33 UStDV; Fahrausweise § 34 UStDV; Umsätze an Endverbraucher (B2C) bleiben außerhalb.
+
 ## Schritt 2 — Ausschluss § 15 Abs. 2 UStG
 
 ### Steuerfreie Umsätze mit Vorsteuerabzugs-Ausschluss

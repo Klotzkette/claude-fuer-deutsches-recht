@@ -21,9 +21,10 @@ Die Selbstanzeige ist ein **technisch hochgradig fehleranfälliger** Strafaufheb
 
 - **Selbstanzeige bei Steuerhinterziehung:** § 371 AO.
 - **Selbstanzeige bei leichtfertiger Steuerverkürzung:** § 378 Abs. 3 AO.
-- **Absehen von Verfolgung in besonderen Fällen:** § 398a AO (ab Hinterziehungsbetrag EUR 25 000 je Tat ist zusätzlich ein Geldbetrag von 10 % bis 20 % zu zahlen).
-- **Hinterziehungszinsen:** § 235 AO.
-- **Verjährung Steuerhinterziehung:** § 376 AO — fünfzehn Jahre seit der Beendigung.
+- **Absehen von Verfolgung in besonderen Fällen:** § 398a AO. **Gestaffelte Zuschlagshoehe** (seit 2015): bei Hinterziehungsbetrag > 25 000 EUR ein Zuschlag von **10 %**, > 100 000 EUR **15 %**, > 1 000 000 EUR **20 %** des hinterzogenen Betrags je Tat (zusaetzlich zu Steuer und Zinsen).
+- **Hinterziehungszinsen:** § 235 AO; verrechnet mit Zinsen nach § 233a AO (BVerfG 1 BvR 2237/14 zur Hoehe).
+- **Verjährung Steuerhinterziehung:** § 376 AO — fünfzehn Jahre seit der Beendigung; bei besonders schwerem Fall § 370 Abs. 3 AO ebenfalls fuenfzehn Jahre.
+- **Abgrenzung Berichtigungsanzeige § 153 AO:** Bei nachtraeglich erkannter Unrichtigkeit OHNE Hinterziehungsvorsatz greift die Berichtigungsanzeige nach § 153 AO; sie ist **keine** Selbstanzeige, wirkt aber strafbefreiend, wenn unverzueglich nach Kenntnisnahme erfolgt. Praxis-Risiko: Abgrenzung Vorsatz / leichtfertige Verkuerzung / einfache Unrichtigkeit. Bei Zweifel parallel Selbstanzeige § 371 AO erwaegen (BGH 1 StR 577/09).
 
 ## Wirksamkeitsvoraussetzungen § 371 Abs. 1 AO
 

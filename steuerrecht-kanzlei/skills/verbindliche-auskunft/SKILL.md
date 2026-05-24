@@ -71,12 +71,15 @@ Präzise Fragen z. B.:
 - Bewertungen
 - Konzeptpapiere
 
-## Gebühren (§ 89 Abs. 5 AO)
+## Gebühren (§ 89 Abs. 3-7 AO; Steuerauskunftsgebuehrenverordnung — SteuAuskV)
 
-- Gebuehr richtet sich nach dem Gegenstandswert (Steuerauswirkung).
-- Mindestgebuehr 300 EUR.
-- Höchstgebuehr begrenzt (steuerauskunftsgebuehrenverordnung).
-- Festgesetzt mit Bescheid.
+- Gebuehr richtet sich nach dem Gegenstandswert (Steuerauswirkung), berechnet wie Gerichtsgebuehren analog § 34 GKG.
+- **Gebuehrenfreiheit** unterhalb der Bagatell-Schwelle: Wenn der Gegenstandswert weniger als 10 000 EUR steuerliche Auswirkung hat, wird keine Gebuehr erhoben (§ 89 Abs. 5 Satz 2 AO; eingefuegt durch Wachstumschancengesetz vom 27.3.2024).
+- **Mindestgebuehr** seit WtcG angehoben (Stand-Pruefung in SteuAuskV).
+- **Hoechstgebuehr** typisch um 110 000 EUR.
+- **Zeitgebuehr** alternativ bei nicht bestimmbarem Gegenstandswert: 75 EUR pro angefangene halbe Stunde, mind. 150 EUR.
+- Vorauszahlungspflicht: Gebuehr ist Voraussetzung der Erteilung des Bescheids.
+- Festgesetzt mit gesondertem Verwaltungsakt; Rechtsbehelfe (§§ 347 ff. AO) zulaessig.
 
 ## Bindungswirkung
 

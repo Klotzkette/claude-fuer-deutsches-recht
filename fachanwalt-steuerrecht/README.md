@@ -25,7 +25,9 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 | `fachanwalt-steuerrecht-orientierung` | Orientierung im Steuerrecht — FAO-Voraussetzungen, Normen, typische Mandate, Fristen, Standardliteratur. |
 | `fachanwalt-steuerrecht-einspruch-finanzamt` | Einspruch gegen Steuerbescheid nach § 347 AO — Frist ein Monat, AdV-Antrag § 361 AO, Schreibvorlage. |
 | `fachanwalt-steuerrecht-betriebspruefung` | Begleitung der Außenprüfung (§§ 193 ff. AO) — Prüfungsanordnung, Mitwirkungspflichten, Schlussbesprechung. |
-| `fachanwalt-steuerrecht-selbstanzeige` | Selbstanzeige nach § 371 AO — Wirksamkeitsvoraussetzungen, Sperrwirkungen, Schreibvorlage. |
+| `fachanwalt-steuerrecht-selbstanzeige` | Selbstanzeige nach § 371 AO — Wirksamkeitsvoraussetzungen, Sperrwirkungen, § 153 AO-Abgrenzung, § 398a AO-Zuschlagsstaffel, Schreibvorlage. |
+| `fachanwalt-steuerrecht-aussenpruefung-strategien` | Strategische Begleitung der Außenprüfung (§ 194 AO) — Vorbereitungsphase, Mitwirkung gezielt steuern, Schlussbesprechung. |
+| `fachanwalt-steuerrecht-verbindliche-auskunft` | Verbindliche Auskunft § 89 Abs. 2 AO — Voraussetzungen, Gebühren nach SteuAuskV (WtcG 2024), Bindungswirkung, Antrag. |
 
 ## Lizenz
 
