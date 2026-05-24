@@ -1,6 +1,6 @@
 {
   "name": "hausarbeitenmacher",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "description": "Didaktisches Plugin fuer juristische Hausarbeiten und Seminararbeiten. Fuehrt sokratisch durch Zivilrecht oeffentliches Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Adressaten-Strategie ohne Schleimerei. Liefert keine fertigen Loesungen sondern fuehrt zur eigenen Subsumtion.",
   "license": "Apache-2.0 OR MIT",
   "author": {
