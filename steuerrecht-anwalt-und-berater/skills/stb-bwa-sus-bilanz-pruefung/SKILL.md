@@ -92,7 +92,7 @@ Das Modell benötigt strukturiert oder unstrukturiert:
 - Liquiditätsstatus: fällige Verbindlichkeiten (Stichtagsbezogen) vs. liquide Mittel + binnen 3 Wochen verfügbare Mittel.
 - Liquiditätslücke ≥ 10 % und nicht binnen 3 Wochen schließbar = Zahlungsunfähigkeit (BGH BGHZ 163, 134 Rn. 12 ff.).
 - Indizienkatalog (BGH NJW 2007, 78 Rn. 18): Stundungsanträge, Mahnungen, Vollstreckungsversuche, Lastschriftrückgaben, eingestellte Zahlungen an Sozialversicherung/Finanzamt.
-- Verweis an Schwester-Skill `liquiditaetsvorschau-3wochen` für die rollierende Wochenrechnung.
+- Verweis an Schwester-Skill `stb-liquiditaetsvorschau-3wochen` für die rollierende Wochenrechnung.
 
 **Schritt 6 – Hinweispflicht nach § 102 StaRUG bewerten**
 - Adressatenkreis: Berufsträger nach § 102 StaRUG mit Erstellungsauftrag Jahresabschluss.

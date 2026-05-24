@@ -1,6 +1,6 @@
 # Insolvenzreife-Checkliste für BWA-/SuSa-/Bilanz-Review
 
-> Dokumentationsfeste Indikatorenliste zur Anwendung neben dem Skill `bwa-sus-bilanz-pruefung`.
+> Dokumentationsfeste Indikatorenliste zur Anwendung neben dem Skill `stb-bwa-sus-bilanz-pruefung`.
 > Stand: 2026. Bei Gesetzesänderungen (insb. SanInsKG-Verlängerungen, StaRUG-Novellen) den aktuellen Rechtsstand verifizieren.
 
 ## A. Quantitative Indikatoren – Bilanz/SuSa

@@ -1,6 +1,6 @@
 # IDW S 6 – Kernelemente eines Sanierungskonzepts (Strukturmatrix)
 
-> Auszug, angepasst für die Anwendung im Skill `liquiditaetsvorschau-3-6-12-monate`. Maßgeblich ist der aktuelle Wortlaut der IDW-Verlautbarung. Zitierweise: „IDW S 6, Tz. ..."
+> Auszug, angepasst für die Anwendung im Skill `stb-liquiditaetsvorschau-3-6-12-monate`. Maßgeblich ist der aktuelle Wortlaut der IDW-Verlautbarung. Zitierweise: „IDW S 6, Tz. ..."
 
 ## 1. Auftrag und Auftragsdurchführung
 - Auftragsgegenstand, Auftraggeber, Stichtag, Berichtsadressaten.

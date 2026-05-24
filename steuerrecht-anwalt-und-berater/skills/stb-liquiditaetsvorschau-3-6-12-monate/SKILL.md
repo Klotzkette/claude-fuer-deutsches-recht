@@ -45,7 +45,7 @@ Strukturiert oder unstrukturiert; das Modell soll robust extrahieren:
 - **Geplante Investitionen/Desinvestitionen**: CapEx, Maschinenverkauf, Sale-and-Lease-back.
 - **Auftragsbestand**: zugesagte Aufträge mit Lieferzeitpunkt, voraussichtlichem Zahlungsziel, Abschlagszahlungen.
 - **Bankauszüge** der letzten 3–6 Monate (für saisonale Muster und Plausibilität).
-- **BWA und SuSa** (siehe Schwester-Skill `bwa-sus-bilanz-pruefung`).
+- **BWA und SuSa** (siehe Schwester-Skill `stb-bwa-sus-bilanz-pruefung`).
 
 Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanalysieren (Best/Base/Worst).
 
