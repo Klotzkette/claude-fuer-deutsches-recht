@@ -96,7 +96,7 @@ Die Selbstanzeige ist **gesperrt**, wenn:
 ### 1. Rubrum
 
 - Steuerpflichtiger mit Anschrift und Steuernummer.
-- Vertretung (RA mit beA-Adresse).
+- Vertretung (RA mit ELSTER-Zugang als Bevollmaechtigter).
 - Empfangsfinanzamt.
 
 ### 2. Erklärung
@@ -170,7 +170,7 @@ Mit freundlichen Grüßen
 1. **Schweigepflichtsentbindung** der Berater des Mandanten klären.
 2. **Vollständige Datenerhebung** in allen Steuerarten und Jahren — Vermögensaufstellung Depots ausländische Konten.
 3. **Doppelprüfung** durch zweiten qualifizierten Anwalt.
-4. **Selbstanzeige einreichen** über beA an Finanzamt.
+4. **Selbstanzeige einreichen** über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt. Alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulaessig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — eine Selbstanzeige per beA waere formunwirksam und wuerde die Sperrwirkung des § 371 Abs. 2 AO durch andere Wege moeglicherweise nicht durchbrechen koennen.
 5. **Nachzahlung leisten** innerhalb der gesetzten Frist.
 
 ## Übergabe

@@ -64,7 +64,8 @@ description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Dat
 ## Vorfristen
 
 - Standard fünf Werktage vor Hauptfrist.
-- Bei Klagefristen Vorfrist sieben Tage (Akteneinsicht beA-Versand Anlagen).
+- Bei Klagefristen zum Finanzgericht Vorfrist sieben Tage (Akteneinsicht beA-Versand Anlagen — zum Gericht weiterhin über beA, § 52d FGO).
+- Bei Einspruchs- und sonstigen Antragsfristen zum Finanzamt Vorfrist drei Werktage (Versand über ELSTER/ERiC, Brief oder Fax; **kein beA** an Finanzamt seit 6.12.2024, § 87a Abs. 1 S. 2 AO n.F.).
 - Eskalation bei Vorfrist an zuständigen Anwalt und Sekretariat.
 
 ## Sondere Fristen

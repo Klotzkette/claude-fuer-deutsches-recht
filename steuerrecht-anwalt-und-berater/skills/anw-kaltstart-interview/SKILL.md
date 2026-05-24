@@ -1,6 +1,6 @@
 ---
 name: anw-kaltstart-interview
-description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfragt Schwerpunktbereiche (Einkommensteuer / Umsatzsteuer / Koerperschaftsteuer / Gewerbesteuer / Erbschaftsteuer / Steuerstrafrecht) typische Mandate (Einspruch Klage Aussetzung der Vollziehung Aussenpruefungs-Begleitung Selbstanzeige) zustaendige Finanzaemter und Finanzgerichte Schnittstelle zum Steuerberater des Mandanten Aktenstruktur Versandwege beA-Praxis und Eskalation. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md."
+description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfragt Schwerpunktbereiche (Einkommensteuer / Umsatzsteuer / Koerperschaftsteuer / Gewerbesteuer / Erbschaftsteuer / Steuerstrafrecht) typische Mandate (Einspruch Klage Aussetzung der Vollziehung Aussenpruefungs-Begleitung Selbstanzeige) zustaendige Finanzaemter und Finanzgerichte Schnittstelle zum Steuerberater des Mandanten Aktenstruktur Versandwege ELSTER-Praxis fuer Finanzaemter und beA-Praxis fuer Finanzgerichte und Eskalation. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md."
 ---
 
 # /steuerrecht-anwalt-und-berater:anw-kaltstart-interview
@@ -41,8 +41,8 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfr
 
 ### 4. Zuständige Gerichte und Aemter
 
-- **Hauptfinanzaemter** mit beA-/EGVP-Postfach
-- **Finanzgericht** des Bundeslandes mit beA-Postfach
+- **Hauptfinanzaemter** — elektronische Kommunikation über **ELSTER** (Mein ELSTER) bzw. ERiC; kein beA seit 6.12.2024 (§ 87a Abs. 1 S. 2 AO n.F.)
+- **Finanzgericht** des Bundeslandes mit beA-Postfach (§ 52d FGO Pflicht)
 - **BFH München** (Revisionsinstanz)
 
 ### 5. Schnittstellen
@@ -53,9 +53,10 @@ description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfr
 
 ### 6. Versandwege
 
-- **beA** Pflicht für Rechtsanwälte gegenüber Behörden und Gerichten (§ 31a BRAO).
-- **ELSTER** bei Steuererklärungen und Steueranmeldungen (nur wenn Mandant das Plugin gleichzeitig für eigene Steuererklärungen nutzt — eher Steuerberater-Werkzeug).
-- **EGVP** Finanzgericht.
+- **ELSTER / ERiC** Pflichtkanal **gegenueber Finanzbehoerden** seit JStG 2024 (§ 87a Abs. 1 S. 2 AO n.F., 6.12.2024) — Einspruch AdV-Antrag verbindliche Auskunft Selbstanzeige Akteneinsicht. beA an Finanzamt unzulaessig (Einspruch per beA formunwirksam, Nds. FG 12.2.2026 – 2 K 152/25).
+- **beA** Pflicht **gegenueber Gerichten** (§ 52d FGO) — Klage Finanzgericht AdV-Antrag FG Revision BFH.
+- **EGVP** als Alternative zum beA gegenueber Gerichten.
+- **Briefpost / Telefax** weiterhin in alle Richtungen zulaessig (§ 87a AO bezieht sich nur auf elektronische Wege).
 
 ### 7. Standort und Eskalation
 
@@ -75,7 +76,9 @@ Profil wird geschrieben. Nächste Skills:
 - **AO** Abgabenordnung — Hauptverfahrensrecht.
 - **FGO** Finanzgerichtsordnung — Klageverfahren.
 - **EStG KStG GewStG UStG ErbStG GrStG** materielles Steuerrecht.
-- **BRAO** § 31a beA-Pflicht.
+- **BRAO** § 31a beA-Einrichtungspflicht.
+- **§ 87a Abs. 1 S. 2 AO n.F.** (JStG 2024, 6.12.2024) — ELSTER/ERiC-only fuer Finanzbehoerden; beA/beSt ausgeschlossen.
+- **§ 52d FGO** — beA-Pflicht gegenueber Finanzgerichten.
 - **StBerG** Abgrenzung Steuerberater / Rechtsanwalt.
 
 ## Hinweise

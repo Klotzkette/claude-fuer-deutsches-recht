@@ -32,7 +32,7 @@ einschließlich
 - Korrespondenz mit Dritten
 - Daten über Kontroll- und Überwachungsprüfungen
 
-bevorzugt durch elektronische Übersendung über beA.
+bevorzugt durch elektronische Übersendung über **Mein ELSTER** (Nachrichtenfunktion); alternativ in Papierform oder per Telefax. Eine Übersendung über beA ist seit 6.12.2024 unzulaessig (§ 87a Abs. 1 S. 2 AO n.F.).
 ```
 
 ### Im Klageverfahren

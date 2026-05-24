@@ -80,4 +80,4 @@ Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage ei
 
 ## Versand
 
-Über beA. Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+AdV-Antrag bei der **Finanzbehoerde** (§ 361 AO): über **ELSTER**/ERiC, Briefpost oder Telefax. **beA an Finanzamt unzulaessig** seit 6.12.2024 (§ 87a Abs. 1 S. 2 AO n.F.). AdV-Antrag beim **Finanzgericht** (§ 69 Abs. 3 FGO): über beA (§ 52d FGO). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
