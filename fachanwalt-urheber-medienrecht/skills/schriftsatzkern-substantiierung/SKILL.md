@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Unterlassungsklage Persoenlichkeitsrecht, Klage Urheberrechtsverletzung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Unterlassungsklage Persoenlichkeitsrecht, Klage Urheberrechtsverletzung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Urheber-, Presse- und Medienrecht

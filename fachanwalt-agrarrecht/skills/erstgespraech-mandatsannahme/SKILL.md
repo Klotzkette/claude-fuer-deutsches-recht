@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Agrar-, Forst- und Lebensmittelrecht

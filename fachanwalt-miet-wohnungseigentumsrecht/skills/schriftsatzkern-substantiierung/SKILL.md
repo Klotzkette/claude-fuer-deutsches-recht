@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Raeumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Raeumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Wohnraum-, Gewerberaum- und WEG-Recht

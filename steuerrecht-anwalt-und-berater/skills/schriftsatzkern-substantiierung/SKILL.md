@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Einspruch, Klage FG, Revision BFH, Stundungs-/Erlassantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Einspruch, Klage FG, Revision BFH, Stundungs-/Erlassantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Steuerrecht (Beratung und Prozess)

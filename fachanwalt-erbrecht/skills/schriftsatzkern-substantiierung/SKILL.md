@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Pflichtteilsklage, Erbschein-Antrag/Beschwerde, Erbenfeststellungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Pflichtteilsklage, Erbschein-Antrag/Beschwerde, Erbenfeststellungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht

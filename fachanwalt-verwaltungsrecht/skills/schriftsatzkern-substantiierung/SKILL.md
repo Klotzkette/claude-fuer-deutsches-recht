@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Widerspruch, Anfechtungsklage VG, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Widerspruch, Anfechtungsklage VG, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Allgemeines Verwaltungs- und Bauplanungsrecht

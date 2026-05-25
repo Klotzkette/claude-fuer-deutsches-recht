@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Arzthaftungs-, Berufs- und Vertragsarztrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Arzthaftungs-, Berufs- und Vertragsarztrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht

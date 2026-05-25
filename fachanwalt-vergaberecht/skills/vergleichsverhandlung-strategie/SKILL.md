@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht

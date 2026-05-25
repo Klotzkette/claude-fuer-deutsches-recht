@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Internationales Wirtschafts- und Schiedsrecht

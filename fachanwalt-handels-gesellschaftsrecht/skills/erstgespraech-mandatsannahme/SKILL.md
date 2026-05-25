@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Handels- und Gesellschaftsrecht

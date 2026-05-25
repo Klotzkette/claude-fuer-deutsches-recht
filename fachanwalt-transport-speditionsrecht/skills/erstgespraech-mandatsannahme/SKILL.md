@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Transport-, Speditions- und Logistikrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Transport-, Speditions- und Logistikrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Transport-, Speditions- und Logistikrecht

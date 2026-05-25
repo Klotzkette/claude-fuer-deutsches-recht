@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Arzthaftungsklage, Klage Sozialgericht (KV-/MDK-Streit), Berufsrechtsbeschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Arzthaftungsklage, Klage Sozialgericht (KV-/MDK-Streit), Berufsrechtsbeschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Arzthaftungs-, Berufs- und Vertragsarztrecht

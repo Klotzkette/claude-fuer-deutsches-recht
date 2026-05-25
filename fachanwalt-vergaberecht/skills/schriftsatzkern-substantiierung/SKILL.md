@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Nachpruefungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Nachpruefungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)

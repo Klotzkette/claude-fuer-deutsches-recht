@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Widerspruch + SG-Klage, Eilantrag § 86b SGG, Ueberpruefungsantrag § 44 SGB X: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Sozialrecht (SGB I-XIV)

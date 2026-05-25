@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht

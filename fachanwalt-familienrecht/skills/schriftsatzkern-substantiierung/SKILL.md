@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Familien-, Kindschafts- und Versorgungsausgleichsrecht

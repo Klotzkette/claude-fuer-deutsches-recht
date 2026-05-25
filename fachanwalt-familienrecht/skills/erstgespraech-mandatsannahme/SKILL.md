@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Familien-, Kindschafts- und Versorgungsausgleichsrecht
