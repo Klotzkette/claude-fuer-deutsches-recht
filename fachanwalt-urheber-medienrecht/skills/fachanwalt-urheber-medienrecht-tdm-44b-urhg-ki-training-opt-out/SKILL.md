@@ -140,7 +140,7 @@ Generative AI training prohibited.
 
 - `fachanwalt-urheber-medienrecht-orientierung` — Triage
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — bei nachträglicher Lizenz
-- `fachanwalt-gewerblicher-rechtsschutz-ki-vo-art-50-generative-ai-transparenz` — Output-Kennzeichnung
+- `fachanwalt-gewrechts-ki-vo-50-genai` — Output-Kennzeichnung
 - `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung` — bei KI-Anbieter
 
 ## Quellen und Updates
