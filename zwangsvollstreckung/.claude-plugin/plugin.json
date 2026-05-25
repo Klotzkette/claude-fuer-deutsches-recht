@@ -1,7 +1,7 @@
 {
   "name": "zwangsvollstreckung",
   "version": "9.0.0",
-  "description": "Freistehendes Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten: Mahn-/Vollstreckungsbescheid online, PfÜB Bank/Arbeitgeber, Kontensuche § 802l ZPO, Vermögensauskunft, Räumung, notarielle Urkunde § 800 ZPO, Insolvenztabelle § 201 InsO, ZVG-Antrag und Schuldnerschutz.",
+  "description": "Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -21,6 +21,10 @@
     "p-konto",
     "pfaendungstabelle",
     "zvollstrdigitg",
+    "eu-kontenpfaendung",
+    "eu-vo-655-2014",
+    "haertefall-765a",
+    "vollstreckungsschutz",
     "freistehend"
   ]
 }

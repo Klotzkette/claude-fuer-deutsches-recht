@@ -28,6 +28,8 @@ Verlässlich pfändbare Beträge berechnen. Falsche Pfändungsfreigrenzen sind d
 
 Die Bekanntmachung gilt vom **1.7.2025 bis 30.6.2026**. Die nächste Anpassung erfolgt zum 1.7.2026 (§ 850c Abs. 4 ZPO jährlich). Der Skill prüft bei jeder Berechnung das Tagesdatum – nach dem 30.6.2026 muss `werkzeuge/pfaendungsrechner.py` aktualisiert werden.
 
+> ⚠️ **Auto-Warnung ab 1.6.2026:** Wenn das System-Datum innerhalb von 30 Tagen vor Ablauf der Tabelle (≥ 1.6.2026) liegt, gibt der Skill und das Werkzeug einen Warntext aus, dass eine neue Pfändungsfreigrenzenbekanntmachung des BMJ veröffentlicht und in die Tabelle übernommen werden muss. Pflicht-Quellen: Pfändungsfreigrenzenbekanntmachung 2026 (BGBl. I); BMJ-Pressemitteilung; Konsultation in `juris`/`beck-online`. Verwendung der alten Eckwerte nach 30.6.2026 = Pfändungsfehler mit Aufhebungspotential.
+
 ## Eckwerte (aus Tabelle, dezimal mit Punkt)
 
 Aktuelle Eckdaten (Tabelle 1.7.2025):

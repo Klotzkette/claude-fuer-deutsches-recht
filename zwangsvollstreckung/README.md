@@ -51,7 +51,9 @@ Das Plugin arbeitet titelorientiert und drittschuldnerorientiert. Es prüft erst
 | zv-mobiliar-gv-auftrag | Erteilt Mobiliarvollstreckungs- und Sachpfändungsauftrag (auch Krypto-Hardware-Wallets). |
 | zv-raeumung-885 | Führt Räumungsvollstreckung § 885 ZPO inkl. Berliner Modell und Vollstreckungsschutz. |
 | zv-abwehr-schuldner | Erstellt Erinnerung § 766 ZPO, Vollstreckungsschutz § 765a ZPO und Drittwiderspruch § 771 ZPO. |
-| zv-pfaendungstabelle-2025 | Hält die Pfändungstabelle 1.7.2025 bis 30.6.2026 nach § 850c ZPO bereit. |
+| zv-vollstreckungsschutz-haertefall-765a | Vertiefter Härtefall-Schutz § 765a ZPO (Suizidgefahr, Schwangerschaft, Obdachlosigkeit, Trauerfall); Antragsformular mit Glaubhaftmachung. **NEU** |
+| zv-eu-kontenpfaendung-655-2014 | Europäische Kontenpfändung VO (EU) 655/2014 — grenzüberschreitende vorläufige Sicherung von Bankkonten in der EU (außer Dänemark). **NEU** |
+| zv-pfaendungstabelle-2025 | Hält die Pfändungstabelle 1.7.2025 bis 30.6.2026 nach § 850c ZPO bereit. Auto-Warnung des Rechners ab 1.6.2026. |
 | zv-elektronische-zustellung-2027 | Steuert sicheren Übermittlungsweg für Kreditinstitute ab 1.10.2027 (ZVollstrDigitG). |
 
 ## Werkzeug

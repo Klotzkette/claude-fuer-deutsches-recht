@@ -157,5 +157,5 @@ Mit freundlichen Grüßen
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (Nds. FG 12.2.2026 – 2 K 152/25). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
 Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie + Chronologie).

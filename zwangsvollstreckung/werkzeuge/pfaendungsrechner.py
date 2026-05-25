@@ -124,6 +124,29 @@ def _quantize(value: Decimal) -> Decimal:
     return value.quantize(Decimal("0.01"), rounding=ROUND_DOWN)
 
 
+def gueltigkeits_warnung(heute: _dt.date | None = None) -> str | None:
+    """Gibt eine Warnung zurueck, wenn die aktuelle Tabelle bald ablaeuft
+    oder bereits abgelaufen ist. Pflicht-Selbstcheck nach § 850c Abs. 4 ZPO
+    (jaehrliche Anpassung der Pfaendungsfreigrenzen)."""
+    today = heute if heute is not None else _dt.date.today()
+    if today > TABELLE_GUELTIG_BIS:
+        return (
+            f"WARNUNG: Pfaendungstabelle ist seit {TABELLE_GUELTIG_BIS.strftime('%d.%m.%Y')} "
+            f"abgelaufen. Aktuelles Tagesdatum {today.strftime('%d.%m.%Y')}. "
+            f"Die hier hinterlegten Eckwerte (Stand 1.7.2025) duerfen nicht mehr verwendet werden. "
+            f"Pflicht: Pfaendungsfreigrenzenbekanntmachung {today.year} (BGBl. I) abrufen "
+            f"und Modul aktualisieren. Verwendung alter Werte = Pfaendungsfehler mit Aufhebungsrisiko."
+        )
+    abstand = (TABELLE_GUELTIG_BIS - today).days
+    if 0 <= abstand <= 30:
+        return (
+            f"HINWEIS: Pfaendungstabelle laeuft am {TABELLE_GUELTIG_BIS.strftime('%d.%m.%Y')} ab "
+            f"(in {abstand} Tagen). Naechste Bekanntmachung des BMJ zu § 850c Abs. 4 ZPO "
+            f"vorbereiten und Modul aktualisieren."
+        )
+    return None
+
+
 def berechne(
     netto: Decimal | float | str,
     unterhaltspflichten: int = 0,
@@ -303,6 +326,14 @@ def _print_tabelle() -> None:
 def main(argv: list[str] | None = None) -> int:
     parser = _build_parser()
     ns = parser.parse_args(argv)
+
+    # Gueltigkeits-Pruefung vor jeder Ausgabe: Pflicht-Selbstcheck, damit
+    # nach Ablauf der Tabelle (30.6.2026) keine alten Werte unbemerkt
+    # weiterverwendet werden.
+    warn = gueltigkeits_warnung()
+    if warn:
+        import sys
+        print(warn, file=sys.stderr)
 
     if ns.tabelle:
         _print_tabelle()
