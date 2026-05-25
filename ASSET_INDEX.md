@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v7.0.0
+**Stand:** v7.1.0
 
 ## Asset-Typen
 
@@ -12,7 +12,7 @@
 | **fallakte** | `testakte-<aktenname>.zip` | **Kein Plugin.** Mandatsunterlagen für Testzwecke. In den Chat ziehen, nicht zum Plugin-Upload geben. |
 | **manifest** | `marketplace.json` | **Kein Plugin.** Marketplace-Manifest für `/plugin marketplace add` und zur manuellen Inspektion. |
 
-## Plugin-Assets (99 Stück)
+## Plugin-Assets (97 Stück)
 
 Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
