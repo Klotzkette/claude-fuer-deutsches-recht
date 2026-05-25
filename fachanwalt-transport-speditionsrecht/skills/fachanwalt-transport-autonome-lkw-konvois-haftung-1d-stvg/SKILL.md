@@ -118,7 +118,7 @@ Spezial-Mandat: LKW-Spedition setzt Platooning (autonome Konvois, mehrere LKW in
 
 - `fachanwalt-transport-speditionsrecht-orientierung` — Triage
 - `fachanwalt-transport-cmr-schadensregulierung` — CMR-Verfahren
-- `fachanwalt-verkehrsrecht-autonomes-fahren-1d-stvg-haftungskonzept` — PKW-Variante
+- `fachanwalt-verkehr-autonom-1d-stvg` — PKW-Variante
 - `fachanwalt-versicherungsrecht-orientierung` — Versicherer-Streit
 
 ## Quellen und Updates
