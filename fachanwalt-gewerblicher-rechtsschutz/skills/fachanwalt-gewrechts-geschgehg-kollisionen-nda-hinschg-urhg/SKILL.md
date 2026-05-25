@@ -26,10 +26,11 @@ description: Geschaeftsgeheimnisgesetz (GeschGehG) in der Praxis - Schutzvorauss
 - **§§ 6-8 GeschGehG** - zivilrechtliche Ansprueche (Unterlassung, Beseitigung, Vernichtung, Auskunft, Schadensersatz).
 - **§§ 9-14 GeschGehG** - prozessuale Sondervorschriften: Geheimhaltungsanordnung, beschraenkter Personenkreis, Geheimnisklage.
 - **§ 15-22 GeschGehG** - sachliche Zustaendigkeit Landgerichte, Konzentration, Strafvorschriften.
-- **§ 23 GeschGehG** - Strafbarkeit Geheimnisverrat (1-5 Jahre, bei Wirtschaftsspionage bis 5 J.).
+- **§ 23 GeschGehG** - Strafbarkeit Geheimnisverrat: Grundtatbestand Abs. 1 Geldstrafe oder Freiheitsstrafe bis zu drei Jahren; Abs. 2 (Verwertung/Offenlegung trotz Erlangungsverbot) Geldstrafe oder Freiheitsstrafe bis zu zwei Jahren; Abs. 4 (qualifizierte Faelle/Auslandsbezug/Wirtschaftsspionage) Freiheitsstrafe bis zu fuenf Jahren.
 - **HinSchG vom 31.5.2023** (BGBl. I Nr. 140) - Hinweisgeberschutz, Schutz vor Repressalien.
 - **§ 6 HinSchG** - Verhaeltnis zu anderen Vorschriften: GeschGehG-Schweigegebot tritt bei berechtigtem Hinweis nach §§ 32 ff. HinSchG zurueck.
-- **§ 32 HinSchG** - Inhaltlicher Anwendungsbereich, Verstoesse gegen Strafrecht, OWi, Wettbewerbsrecht u.a.
+- **§ 2 HinSchG** - sachlicher Anwendungsbereich, Verstoesse gegen Strafrecht, OWi-Recht, EU-Recht, Wettbewerbs-/Kartell-/Finanz-/Datenschutz-/Lebensmittel-/Produktrecht u.a.
+- **§ 32 HinSchG** - Offenlegung (Public Disclosure) als Ultima Ratio: zulaessig erst bei ausbleibender Reaktion, unmittelbarer Gefahr oder drohender Vertuschung.
 - **§ 5 Nr. 2 GeschGehG i.V.m. § 32 HinSchG** - das Whistleblower-Privileg innerhalb der GeschGehG-Ausnahmesystematik.
 - **§ 203 StGB** - Verletzung von Privatgeheimnissen (Berufsgeheimnistraeger).
 - **§ 17 UWG (alt) / GeschGehG** - GeschGehG hat § 17-19 UWG abgeloest (Stichtag 26.4.2019).
