@@ -180,10 +180,10 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
-| plugin | 99 | |
+| plugin | 97 | |
 | fallakte | 43 | |
 | manifest | 1 | |
-| **gesamt** | | **143** |
+| **gesamt** | | **141** |
 
 ## Verifikation eines Release
 
@@ -192,4 +192,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet: 143 Assets, davon 99 Plugin-ZIPs, 43 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet: 141 Assets, davon 97 Plugin-ZIPs, 43 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
