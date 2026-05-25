@@ -73,7 +73,7 @@ Nach Handelsregister-Eintragung sind zwei öffentlich-rechtliche Anmeldungen zwi
 
 - **Regelbesteuerung**: 19 % Standard, 7 % bei begünstigten Leistungen
 - **Kleinunternehmer-Regelung Paragraf 19 UStG**: keine USt, kein Vorsteuerabzug
-  - Voraussetzung: voraussichtlicher Umsatz im Gründungsjahr < 22.000 EUR, im Folgejahr < 50.000 EUR
+  - Voraussetzung (seit 1.1.2025, JStG 2024 / Wachstumschancengesetz): Vorjahresumsatz <= 25.000 EUR und voraussichtlicher Umsatz im laufenden Jahr <= 100.000 EUR (im Gründungsjahr: voraussichtlicher Gesamtumsatz <= 25.000 EUR, hochgerechnet auf 12 Monate)
   - Bei B2B-Geschäft oft **nicht** sinnvoll (Vorsteuer-Verlust)
 - **Wahlrecht** zur Regelbesteuerung trotz Kleinunternehmer-Voraussetzungen
 
