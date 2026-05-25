@@ -207,18 +207,28 @@ Dieser Skill liefert den vollständigen Mandanten-Workflow von "Hochrisiko-Diagn
 
 ### Schritt 11 — EU-Datenbank-Registrierung (Art. 49, 71 KI-VO)
 
-**Was:** **vor** Inverkehrbringen / Inbetriebnahme in EU-Datenbank registrieren.
+**Wer ist registrierungspflichtig?**
 
-**Daten:**
+| Konstellation | Pflicht zur EU-DB-Registrierung |
+|---|---|
+| Anbieter Hochrisiko **Anhang III** (außer Strafverfolgung/Migration/Asyl) | ja, Art. 49 Abs. 1 KI-VO |
+| Anbieter Hochrisiko **Anhang III** Strafverfolgung/Migration/Asyl | ja, aber gesonderter, nicht öffentlicher Teil der Datenbank (Art. 49 Abs. 4, Art. 71 Abs. 5 KI-VO) |
+| Anbieter Hochrisiko **Anhang I** (Sicherheitsbauteile) | **nein** — Konformität läuft über den sektoralen Rechtsakt (z.B. MDR, MaschinenVO); KI-VO-EU-Datenbank greift hier grundsätzlich nicht |
+| **Betreiber** als Behörde, EU-Organ oder im Auftrag öffentlicher Stelle | ja, vor Einsatz (Art. 49 Abs. 3 KI-VO) — gilt nur für Anhang-III-Systeme |
+| Anbieter, der sich auf Rückausnahme Art. 6 Abs. 3 beruft | gesonderte Registrierung der Selbsteinschätzung (Art. 49 Abs. 2 KI-VO) |
+
+**Faustregel:** Die EU-Datenbank nach Art. 71 KI-VO ist die **Anhang-III-Schiene**. Anbieter von Sicherheitsbauteilen nach Anhang I (MDR-Implantate, IVDR-Diagnostika, MaschinenVO-Komponenten etc.) erfüllen ihre Eintragungspflichten in den sektoralen Registern (EUDAMED, NANDO, etc.) und sind von Art. 49 KI-VO **nicht** erfasst.
+
+**Was wird registriert (Anhang VIII Abschnitt A KI-VO):**
 - Identität, Kontaktdaten Anbieter (ggf. Bevollmächtigter)
 - Handelsname und etwaige weitere eindeutige Kennung des KI-Systems
 - Anhang-III-Bereich
 - Status der Konformitätsbewertung
 - Kopie der EU-Konformitätserklärung
-- elektronische Gebrauchsanweisung (außer Strafverfolgung/Migration)
+- elektronische Gebrauchsanweisung (außer Strafverfolgung/Migration/Asyl)
 - URL für zusätzliche Informationen
 
-**Betreiber öffentlicher Stellen:** ebenfalls vor Einsatz registrierungspflichtig (Art. 49 Abs. 3 KI-VO).
+**Wann:** vor Inverkehrbringen / Inbetriebnahme.
 
 → Detail-Skill: `eu-datenbank-registrierung-art-49-und-71`
 
@@ -298,7 +308,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 | **Nationale Marktaufsichtsbehörde** | Aufsicht, Vorfallsmeldung | bei schwerwiegenden Vorfällen (Art. 73), Anfragen, Inspektionen |
 | **Notifizierungsbehörde** | Aufsicht über notifizierte Stellen | indirekt relevant |
 | **EU-KI-Büro** (AI Office, Kommission GD CONNECT) | GPAI-Modelle, Code of Practice | wenn auch GPAI-Anbieter |
-| **EU-KI-Datenbank** | Registrierung Hochrisiko-Systeme | vor Inverkehrbringen |
+| **EU-KI-Datenbank** (Art. 71 KI-VO) | Registrierung Hochrisiko-Systeme | vor Inverkehrbringen — Anhang III; bei Anhang I über sektorale Register (EUDAMED, NANDO etc.) |
 | **EDPB / nationale DSchB** | DSGVO-Schnittstelle | bei personenbezogenen Daten |
 | **Sektor-Regulatoren** (BaFin, BNetzA, BfArM, ...) | sektorale Aufsicht | je nach Anwendungsbereich |
 
@@ -318,7 +328,7 @@ Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken 
 - [ ] Konformitätsbewertungsverfahren durchlaufen
 - [ ] EU-Konformitätserklärung Anhang V erstellt
 - [ ] CE-Kennzeichnung angebracht
-- [ ] EU-Datenbank-Registrierung erfolgt
+- [ ] EU-Datenbank-Registrierung erfolgt (nur Anhang III; bei Anhang I über sektoralen Rechtsakt)
 - [ ] Post-Market-Monitoring-Plan aktiv
 - [ ] Vorfalls-Meldesystem etabliert
 - [ ] interne Verantwortlichkeiten zugewiesen

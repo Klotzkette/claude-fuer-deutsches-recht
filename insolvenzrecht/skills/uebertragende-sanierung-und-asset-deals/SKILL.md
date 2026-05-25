@@ -246,7 +246,7 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 | Daten Minderjähriger | Art. 8 DSGVO: Einwilligung der Erziehungsberechtigten erforderlich |
 | Bank-/Zahlungsdaten | aufsichtsrechtliche Sonderregeln (BaFin), ggf. KWG/ZAG |
 | Patientendaten | § 203 StGB Schweigepflicht; OLG-Rspr. zur Praxisveräußerung (z.B. BGH IX ZR 80/14) |
-| Telekommunikationsdaten | § 3 TTDSG, § 9 TKG |
+| Telekommunikationsdaten | § 3 TDDDG, § 9 TKG |
 | Bestandskunden vs. Interessenten | Interessenten ohne abgeschlossenen Vertrag i.d.R. nur mit Einwilligung übertragbar |
 
 **Aufsichtsbehörden-Kommunikation:**
@@ -261,7 +261,9 @@ Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfah
 >
 > Damit das möglich ist, müssen wir Ihre Kundendaten (Name, Anschrift, E-Mail, Bestellhistorie, Vertragsdaten) an die [Erwerberin] übertragen. Bitte teilen Sie uns mit, ob Sie damit einverstanden sind.
 >
-> [☐] Ja, ich bin damit einverstanden, dass meine Daten an die [Erwerberin] übertragen werden. Als Dankeschön erhalte ich [Goodie X — z.B. 15-EUR-Willkommensgutschein].
+> Als Dankeschön für Ihre Rückmeldung erhalten Sie unabhängig von Ihrer Entscheidung [Goodie X — z.B. 15-EUR-Willkommensgutschein]. Der Gutschein ist nicht an Ihre Einwilligung gekoppelt (Art. 7 Abs. 4 DSGVO — Kopplungsverbot).
+>
+> [☐] Ja, ich bin damit einverstanden, dass meine Daten an die [Erwerberin] übertragen werden.
 >
 > [☐] Nein, ich möchte keine Übertragung. Meine Daten werden gelöscht, soweit keine gesetzlichen Aufbewahrungspflichten bestehen.
 >
