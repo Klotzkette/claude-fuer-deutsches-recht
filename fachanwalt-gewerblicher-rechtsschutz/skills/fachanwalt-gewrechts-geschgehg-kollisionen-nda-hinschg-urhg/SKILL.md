@@ -26,7 +26,7 @@ description: Geschaeftsgeheimnisgesetz (GeschGehG) in der Praxis - Schutzvorauss
 - **§§ 6-8 GeschGehG** - zivilrechtliche Ansprueche (Unterlassung, Beseitigung, Vernichtung, Auskunft, Schadensersatz).
 - **§§ 9-14 GeschGehG** - prozessuale Sondervorschriften: Geheimhaltungsanordnung, beschraenkter Personenkreis, Geheimnisklage.
 - **§ 15-22 GeschGehG** - sachliche Zustaendigkeit Landgerichte, Konzentration, Strafvorschriften.
-- **§ 23 GeschGehG** - Strafbarkeit Geheimnisverrat: Grundtatbestand Abs. 1 Geldstrafe oder Freiheitsstrafe bis zu drei Jahren; Abs. 2 (Verwertung/Offenlegung trotz Erlangungsverbot) Geldstrafe oder Freiheitsstrafe bis zu zwei Jahren; Abs. 4 (qualifizierte Faelle/Auslandsbezug/Wirtschaftsspionage) Freiheitsstrafe bis zu fuenf Jahren.
+- **§ 23 GeschGehG** - Strafbarkeit Geheimnisverrat: Abs. 1 (Erlangung) Geldstrafe oder Freiheitsstrafe bis zu drei Jahren; Abs. 2 (Nutzung/Offenlegung) ebenfalls Geldstrafe oder Freiheitsstrafe bis zu drei Jahren; Abs. 3 (Konstellationen z.B. nach Beendigung Arbeitsverhaeltnis) Geldstrafe oder Freiheitsstrafe bis zu zwei Jahren; Abs. 4 (qualifizierte Faelle/Auslandsbezug/Wirtschaftsspionage) Freiheitsstrafe bis zu fuenf Jahren.
 - **HinSchG vom 31.5.2023** (BGBl. I Nr. 140) - Hinweisgeberschutz, Schutz vor Repressalien.
 - **§ 6 HinSchG** - Verhaeltnis zu anderen Vorschriften: GeschGehG-Schweigegebot tritt bei berechtigtem Hinweis nach §§ 32 ff. HinSchG zurueck.
 - **§ 2 HinSchG** - sachlicher Anwendungsbereich, Verstoesse gegen Strafrecht, OWi-Recht, EU-Recht, Wettbewerbs-/Kartell-/Finanz-/Datenschutz-/Lebensmittel-/Produktrecht u.a.

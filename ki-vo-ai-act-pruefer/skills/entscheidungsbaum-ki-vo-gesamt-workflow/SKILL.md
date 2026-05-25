@@ -115,7 +115,7 @@ Vor Beginn des Entscheidungsbaums: kurze Situationserfassung.
 | Antwort | Nächster Schritt |
 |---|---|
 | **JA** — Anhang-III-Bereich zutreffend | → Frage 7 (Rückausnahme?) |
-| **NEIN** — Kein Anhang-III-Bereich | → Frage 8 (begrenztes Risiko?) |
+| **NEIN** — Kein Anhang-III-Bereich | → Frage 8 (begrenztes Risiko?) und parallel `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` zur Dokumentation |
 
 ---
 
@@ -127,8 +127,8 @@ Vor Beginn des Entscheidungsbaums: kurze Situationserfassung.
 
 | Antwort | Nächster Schritt |
 |---|---|
-| **JA** — Rückausnahme greift | → Kein Hochrisiko. Weiter zu Frage 8 (begrenztes Risiko?). Dokumentationspflicht beachten. |
-| **NEIN** — Rückausnahme greift nicht | → **Hochrisiko bestätigt.** Weiter zu Fragen 9-10 und Pflichtenkatalog: Anbieter → Art. 9-15, 43-49; Betreiber → Art. 26, 27 KI-VO |
+| **JA** — Rückausnahme greift | → **Kein Hochrisiko.** → `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` (drei mögliche Wege und Restpflichten). Dokumentationspflicht Art. 6 Abs. 4 KI-VO beachten. Weiter zu Frage 8. |
+| **NEIN** — Rückausnahme greift nicht | → **Hochrisiko bestätigt.** → `hochrisiko-bestaetigt-end-to-end-roadmap` (zwölf-Schritte-Roadmap von Risikomanagement bis CE und EU-DB-Registrierung). Parallel: Frage 9-10 und Pflichten Anbieter Art. 9-15, 43-49; Betreiber Art. 26, 27 KI-VO |
 
 ---
 

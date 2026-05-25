@@ -43,15 +43,27 @@ Der KI-VO-Prüfer ist ein interaktives Mechanik-Plugin für die vollständige Pr
 7. Liegt ein GPAI-Modell vor? (Art. 3 Nr. 63 KI-VO)
 8. Welche Pflichten treffen mich?
 9. Konformitätsbewertung und Registrierung?
+10. Welche **End-to-End-Roadmap** brauche ich danach?
+
+Drei mögliche Diagnose-Ergebnisse, drei Workflows:
+
+- **Hochrisiko bestätigt** → `hochrisiko-bestaetigt-end-to-end-roadmap` führt durch zwölf Schritte von Risikomanagement (Art. 9) bis CE-Kennzeichnung, EU-DB-Registrierung und Marktbeobachtung.
+- **Hochrisiko verneint über Rückausnahme** (Art. 6 Abs. 3 KI-VO) → `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` dokumentiert Negativ-Diagnose und Restpflichten.
+- **Anhang I/III nicht zutreffend** → ebenfalls `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` mit Pflichten zu Art. 5 (Verbot), Art. 50 (Transparenz), Art. 4 (KI-Kompetenz), GPAI.
 
 ---
 
-## Skills (42 Stück)
+## Skills (44 Stück)
 
 ### Einstieg
 
 - **`entscheidungsbaum-ki-vo-gesamt-workflow`** — Master-Workflow: Start hier für vollständige Prüfung
 - **`triage-ki-vo-vorpruefung`** — Erfassung des Sachverhalts
+
+### End-to-End-Roadmaps nach Diagnose
+
+- **`hochrisiko-bestaetigt-end-to-end-roadmap`** — zwölf Schritte vom Risikomanagement bis zu CE-Kennzeichnung, EU-DB-Registrierung und Marktbeobachtung; mit Aufwandsschätzung, Akteur-Übersicht (notifizierte Stelle, Marktaufsicht, AI Office, Sektor-Regulatoren) und Markteintritts-Checkliste.
+- **`nicht-hochrisiko-bestaetigt-end-to-end-roadmap`** — drei Wege zur Negativ-Diagnose (Anhang nicht zutreffend / Rückausnahme Art. 6 Abs. 3 / kein KI-System), Restpflichten Art. 4, Art. 5, Art. 50, GPAI, sektoral, Dokumentationspflicht und Re-Evaluation-Trigger.
 
 ### A. KI-System-Definition
 
