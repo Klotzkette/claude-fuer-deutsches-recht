@@ -129,4 +129,4 @@ Abfindung = 0,5 Brutto-Monatsentgelte × Beschaeftigungsjahre
 
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — bei Klage statt Aufhebung
 - `fachanwalt-arbeitsrecht-bem-verfahren` — bei Krankheit
-- `kuendigungsschutzklage-weber` — Testakte
+- `testakten/kuendigungsschutzklage-weber-techlogix` — Testakte

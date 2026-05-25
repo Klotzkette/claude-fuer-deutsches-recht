@@ -103,7 +103,6 @@ Dr. von Sompeh-Ostermann entwickelt für Konzern-Mandanten eine Global Benefits 
 2. **Governance:** Genehmigungspflichten für neue Pläne / Planänderungen; Eskalations-Matrix
 3. **Finanzierungsziele:** Ziel-Funding Level (z.B. 100 % IAS 19 DBO); Trigger für De-Risking
 4. **Reporting:** Jährliches Global Pension Inventory; Quartalsupdates wesentlicher Pläne
-5. **M&A-Integration:** Standardverfahren bei Akquisitionen (→ Skill `post-merger-bav-integration-global`)
 6. **Datenschutz:** Globale Data Governance für Pensionsdaten (→ Skill `internationale-buyout-datenflows-und-datenschutz`)
 
 ### Schritt 4: Local-vs-Group Governance Matrix
@@ -172,4 +171,3 @@ JP    |   [X] |          [X] |      [X]% | Mittel      | DC-Reform
 - → `japan-bav-und-corporate-pension-iorp` — Japan-Vertiefung
 - → `country-by-country-benefits-matrix-konzern` — Detailmatrix je Land
 - → `expatriate-pensionsplanung-und-totalization` — Expat-Sonderfragen
-- → `post-merger-bav-integration-global` — M&A-Integration international

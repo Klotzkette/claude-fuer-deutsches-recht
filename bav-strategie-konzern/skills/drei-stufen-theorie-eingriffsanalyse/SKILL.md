@@ -202,7 +202,6 @@ Für Stufe-3-Eingriffe (sachliche Gründe):
 ## Querverweise zu anderen Skills
 
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Widerrufsvorbehalte, Änderungsklauseln
-- → `db-zu-dc-umstellung-mit-besitzstand` — praktische Anwendung Drei-Stufen bei DB-Schließung
 - → `harmonisierung-und-migration-rechtssicher` — Eingriffsanalyse bei Plan-Konsolidierung
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsrats-Mitbestimmung bei Eingriffen
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Sozialplan als Begleitmaßnahme

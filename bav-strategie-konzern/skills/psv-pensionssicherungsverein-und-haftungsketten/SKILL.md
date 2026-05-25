@@ -151,4 +151,3 @@ Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
 - → `cta-contractual-trust-arrangement-strukturierung` — CTA und PSV-Beitrag
 - → `buyout-im-ma-deal-asset-vs-share` — § 613a BGB und PSV-Haftung im Deal
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriffe und Schutzumfang PSV
-- → `db-zu-dc-umstellung-mit-besitzstand` — PSV-Änderung bei Planschließung

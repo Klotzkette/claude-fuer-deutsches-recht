@@ -149,4 +149,4 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 
 - `fachanwalt-migrationsrecht-orientierung` — Triage
 - `fachanwalt-migrationsrecht-aufenthaltstitel-antrag` — Alternativ-Titel
-- `fachanwalt-verwaltungsrecht-widerspruch-oder-klage-erstpruefung` — bei VG-Klage
+- `widerspruch-oder-klage-erstpruefung` — bei VG-Klage

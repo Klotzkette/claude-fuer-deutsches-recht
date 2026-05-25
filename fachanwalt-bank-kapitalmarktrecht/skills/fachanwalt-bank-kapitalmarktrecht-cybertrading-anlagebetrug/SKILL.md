@@ -129,6 +129,6 @@ Mandate von Opfern dubioser Online-Trading-Plattformen — Sofort-Maßnahmen, Be
 
 ## Anschluss
 
-- `fachanwalt-bank-kapitalmarktrecht-anlageberatungsfehler-pruefen` — bei klassischer Anlageberatung
+- `anlageberatungsfehler-pruefen` — bei klassischer Anlageberatung
 - `phishing-vorfall-pruefer` — bei Phishing-Konstellation
 - `geldwaeschepraevention-aml-kyc` — bei Bank-Compliance

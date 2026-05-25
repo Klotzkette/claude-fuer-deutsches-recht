@@ -158,4 +158,4 @@ EuGH, Urt. v. 27.1.2005 — C-188/03 (Junk): Konsultations-Verfahren muss **vor 
 
 - `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — bei Einzelklage
 - `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` — bei Insolvenz
-- `kuendigungsschutzklage-weber` — Testakte
+- `testakten/kuendigungsschutzklage-weber-techlogix` — Testakte

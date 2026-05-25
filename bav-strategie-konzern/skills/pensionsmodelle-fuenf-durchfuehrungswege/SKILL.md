@@ -248,5 +248,4 @@ Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
 - → `cta-contractual-trust-arrangement-strukturierung` — für Bilanzentlastung via Doppeltreuhand
 - → `governance-und-anpassungsmechanismen` — für Pension Committee und Trustee-Board-Governance
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Umstellung bestehender Zusagen
-- → `db-zu-dc-umstellung-mit-besitzstand` — bei Schließung Direktzusage und Wechsel DC-System
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — für VO/BV-Templates je Durchführungsweg
