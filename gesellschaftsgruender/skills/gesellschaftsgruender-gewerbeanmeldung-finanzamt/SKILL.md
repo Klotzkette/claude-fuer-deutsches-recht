@@ -75,7 +75,7 @@ Nach Handelsregister-Eintragung sind zwei öffentlich-rechtliche Anmeldungen zwi
 - **Kleinunternehmer-Regelung Paragraf 19 UStG n.F.** (seit 1.1.2025, JStG 2024 / Wachstumschancengesetz): keine USt, kein Vorsteuerabzug
   - Voraussetzungen (kumulativ): Vorjahresumsatz **tatsächlich** <= 25.000 EUR (Ist-Wert, kein Forecast) **UND** laufender Jahresumsatz tatsächlich <= 100.000 EUR
   - Die 100.000-EUR-Grenze ist eine **harte Ist-Grenze im laufenden Jahr** (nicht länger ein Prognose-Test wie vor 1.1.2025). Bei Überschreiten endet die Kleinunternehmer-Regelung **sofort** — der Umsatz, mit dem die Grenze überschritten wird, ist bereits regelbesteuert; bisherige Umsätze des laufenden Jahres bleiben steuerfrei.
-  - **Gründungsjahr**: nur die 25.000-EUR-Grenze ist relevant; maßgeblich ist der voraussichtliche Gesamtumsatz auf 12 Monate hochgerechnet (Sonderregel § 19 Abs. 1 Satz 2 UStG n.F.).
+  - **Gründungsjahr (Neugründung)**: Nach BMF-Schreiben vom 18.3.2025 gilt im Jahr der Aufnahme der unternehmerischen Tätigkeit **primär die 25.000-EUR-Grenze** (ohne Vorjahr); die 100.000-EUR-Grenze des laufenden Jahres findet nach BMF-Auffassung **im Erstjahr keine Anwendung**. Achtung: Bei Überschreiten der 25.000-EUR-Grenze im Erstjahr endet die Kleinunternehmer-Eigenschaft sofort — wer schnell wachsenden Umsatz erwartet (über 25k), sollte frühzeitig zur Regelbesteuerung optieren. Bei untervolliger Aufnahme (nicht ab 1.1.) ist umstritten, ob die 25k zeitanteilig hochgerechnet werden müssen — BMF äußert sich hierzu nicht ausdrücklich; im Zweifel restriktiv kalkulieren.
   - Bei B2B-Geschäft oft **nicht** sinnvoll (Vorsteuer-Verlust)
 - **Wahlrecht** zur Regelbesteuerung trotz Kleinunternehmer-Voraussetzungen
 
