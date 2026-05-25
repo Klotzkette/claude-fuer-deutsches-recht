@@ -129,12 +129,16 @@ def gueltigkeits_warnung(heute: _dt.date | None = None) -> str | None:
     oder bereits abgelaufen ist. Pflicht-Selbstcheck nach § 850c Abs. 4 ZPO
     (jaehrliche Anpassung der Pfaendungsfreigrenzen)."""
     today = heute if heute is not None else _dt.date.today()
+    # Die jaehrliche Bekanntmachung knuepft an den Tabellenstart an,
+    # nicht an das Kalenderjahr des Tagesdatums (sonst wird bei spaeter
+    # Aktualisierung auf das falsche Veroeffentlichungsjahr verwiesen).
+    fehlendes_jahr = TABELLE_GUELTIG_AB.year + 1
     if today > TABELLE_GUELTIG_BIS:
         return (
             f"WARNUNG: Pfaendungstabelle ist seit {TABELLE_GUELTIG_BIS.strftime('%d.%m.%Y')} "
             f"abgelaufen. Aktuelles Tagesdatum {today.strftime('%d.%m.%Y')}. "
             f"Die hier hinterlegten Eckwerte (Stand 1.7.2025) duerfen nicht mehr verwendet werden. "
-            f"Pflicht: Pfaendungsfreigrenzenbekanntmachung {today.year} (BGBl. I) abrufen "
+            f"Pflicht: Pfaendungsfreigrenzenbekanntmachung {fehlendes_jahr} (BGBl. I) abrufen "
             f"und Modul aktualisieren. Verwendung alter Werte = Pfaendungsfehler mit Aufhebungsrisiko."
         )
     abstand = (TABELLE_GUELTIG_BIS - today).days
