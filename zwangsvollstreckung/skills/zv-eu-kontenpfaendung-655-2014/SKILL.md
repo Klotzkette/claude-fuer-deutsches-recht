@@ -27,8 +27,11 @@ Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in ein
 - **Art. 7 EuKtPVO** — Beweismaß (glaubhaft + überwiegende Wahrscheinlichkeit).
 - **Art. 12 EuKtPVO** — Sicherheitsleistung.
 - **Art. 14 EuKtPVO** — Kontensuche durch Auskunftsbehörde (in DE: Bundesamt für Justiz nach § 948 ZPO; weitere Befugnis Gerichtsvollzieher analog § 802l ZPO).
-- **Art. 25 EuKtPVO** — Schutz des Schuldners (Streitschlichtung, Rechtsbehelf gegen Beschluss).
-- **Art. 34 EuKtPVO** — Schadensersatz bei unbegründeter Pfändung.
+- **Art. 25 EuKtPVO** — Erklärung des Drittschuldners (Bank) über die Vollziehung nach Erlass des Beschlusses.
+- **Art. 33 EuKtPVO** — Rechtsbehelf des Schuldners gegen den Beschluss (Aufhebung/Änderung im Ursprungsmitgliedstaat).
+- **Art. 34 EuKtPVO** — Rechtsbehelf des Schuldners gegen die Vollziehung im Vollstreckungsmitgliedstaat.
+- **Art. 35 EuKtPVO** — Sonstige Rechtsbehelfe für Schuldner und Gläubiger (Freigabe, Anpassung).
+- **Art. 13 EuKtPVO** — Schadensersatzhaftung des Gläubigers bei unbegründeter Pfändung.
 
 ## Anwendungsbereich (Art. 2 EuKtPVO)
 
@@ -113,8 +116,8 @@ Vorläufige grenzüberschreitende Sicherung von Bankkonten des Schuldners in ein
 
 ## Leitentscheidungen
 
-- EuGH, Urt. v. 7.11.2019 — **C-555/18** K. H. K. (EuKtPVO; verbundenes Verfahren)
-- EuGH, Urt. v. 11.4.2019 — **C-555/18** (Vorinstanzfrage; Sicherungsbedürfnis)
+- EuGH, Urt. v. 7.11.2019 — **C-555/18** K.H.K. ./. B.A.C., E.E.K. (EuKtPVO; Auslegung Art. 4 Nr. 10, vollstreckbare öffentliche Urkunde i.S.d. Verordnung)
+- Schlussanträge GA Szpunar v. 29.7.2019 in C-555/18
 - BGH, Beschl. v. 14.1.2021 — **IX ZB 26/20** (Zuständigkeit § 946 ZPO; Vollstreckungsgericht)
 - OLG Frankfurt, Beschl. v. 30.3.2021 — 26 W 5/21 (Antrag und Glaubhaftmachung)
 
