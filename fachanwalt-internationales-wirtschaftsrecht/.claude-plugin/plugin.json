@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-internationales-wirtschaftsrecht",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,6 +1,6 @@
 {
   "name": "legistik-werkstatt",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "Legistik-Werkstatt fuer Bundes- und Landesministerien. Erstellt Referentenentwuerfe Kabinettsentwuerfe Formulierungshilfen Rechtsverordnungen Satzungen mit Begruendung Synopse Lesefassung XML. Pruefung Verfassungsrecht Europarecht Folgenabschaetzung Goldplating. DOCX im offiziellen HdR-Layout.",
   "license": "Apache-2.0 OR MIT",
   "author": {

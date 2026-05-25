@@ -1,6 +1,6 @@
 {
   "name": "zwangsvollstreckung",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "Freistehendes Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten: Mahn-/Vollstreckungsbescheid online, PfÜB Bank/Arbeitgeber, Kontensuche § 802l ZPO, Vermögensauskunft, Räumung, notarielle Urkunde § 800 ZPO, Insolvenztabelle § 201 InsO, ZVG-Antrag und Schuldnerschutz.",
   "license": "Apache-2.0 OR MIT",
   "author": {

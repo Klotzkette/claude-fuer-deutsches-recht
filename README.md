@@ -23,11 +23,11 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 97 |
+| **Plugins** | 98 |
 | **Skills (SKILL.md)** | über 1600 |
 | **Testakten** | 43 |
 | **Fachanwalts-/-anwältinnen-Profile** | 23 |
-| **Letzter Release** | [v8.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v8.0.0) |
+| **Letzter Release** | [v9.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/v9.0.0) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).

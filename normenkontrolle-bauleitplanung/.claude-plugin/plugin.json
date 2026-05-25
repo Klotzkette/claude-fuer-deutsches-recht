@@ -1,6 +1,6 @@
 {
   "name": "normenkontrolle-bauleitplanung",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

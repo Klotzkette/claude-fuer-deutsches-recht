@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-versicherungsrecht",
-  "version": "8.0.0",
+  "version": "9.0.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Versicherungsrecht. VVG VAG Berufsunfaehigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {
