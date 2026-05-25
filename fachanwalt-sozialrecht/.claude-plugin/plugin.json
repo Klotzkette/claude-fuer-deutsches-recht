@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-sozialrecht",
-  "version": "7.1.0",
+  "version": "8.0.0",
   "description": "Light-Touch-Plugin Fachanwalt fuer Sozialrecht nach FAO § 11. SGB I bis XII Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Frist ein Monat. Klage Sozialgericht § 87 SGG. Erwerbsminderungsrente. SGB II Buergergeld Bescheid. Schnittstellen sozialrecht-kanzlei und kanzlei-cowork.",
   "license": "Apache-2.0 OR MIT",
   "author": {
