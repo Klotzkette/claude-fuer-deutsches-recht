@@ -151,6 +151,6 @@ Klage von Nachbarn / Verbänden gegen umweltrechtliche Genehmigungen.
 
 ## Anschluss
 
-- `umweltrecht-industrieanlage-genehmigung` — bei vertiefter Verteidigung
+- `testakten/umweltrecht-industrieanlage-genehmigung` — bei vertiefter Verteidigung
 - `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei Stallneubau-Bezug
 - `fachanwalt-verwaltungsrecht-orientierung` — Triage

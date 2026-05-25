@@ -212,5 +212,4 @@ EMPFEHLUNG:
 - → `historisch-gewachsene-altsysteme-due-diligence` — detaillierte PDD-Methodik
 - → `psv-pensionssicherungsverein-und-haftungsketten` — § 613a und PSV
 - → `pension-buyout-strukturierung-und-de-risking` — Buyout als Post-Closing-Maßnahme
-- → `post-merger-bav-integration-global` — Integration nach Closing
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde

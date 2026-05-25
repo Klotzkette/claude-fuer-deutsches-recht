@@ -107,4 +107,4 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 - `zv-pfueb-bank` – Hauptanwendungsfall
 - `zv-pfueb-arbeitsentgelt`, `zv-pfueb-mieter-finanzamt`
 - `zv-titel-klausel-zustellung`
-- Plugin `prozessrecht/skills/elektronischer-rechtsverkehr` (anderes Plugin) – ERV allgemein
+- Plugin `prozessrecht` (anderes Plugin) – allgemeiner Elektronischer Rechtsverkehr (§§ 130a, 130d ZPO; beA, eBO, EGVP)

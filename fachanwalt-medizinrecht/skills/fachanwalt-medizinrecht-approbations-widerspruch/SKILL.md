@@ -158,4 +158,4 @@ Verteidigung Arzt-Approbation gegen Widerruf, Ruhen-Anordnung, Versagung der Wie
 
 - `fachanwalt-medizinrecht-behandlungsvertrag-630a` — bei Behandlung
 - `fachanwalt-strafrecht-orientierung` — bei Strafverfahren
-- `fachanwalt-verwaltungsrecht-widerspruch-oder-klage-erstpruefung` — bei VG-Triage
+- `widerspruch-oder-klage-erstpruefung` — bei VG-Triage

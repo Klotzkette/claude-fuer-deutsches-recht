@@ -218,6 +218,5 @@ d) Sicherstellung der Insolvenzfestigkeit gem. BAG 3 AZR 18/12
 ## Querverweise zu anderen Skills
 
 - → `cta-contractual-trust-arrangement-strukturierung` — Treuhand und Trustee-Board
-- → `anpassungspruefung-paragraph-16-betravg` — detailliertes Prüfschema § 16 BetrAVG
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Anpassungsklauseln in VO
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Betriebsratsbeteiligung bei Anpassungsentscheidungen

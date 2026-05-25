@@ -130,5 +130,5 @@ BVerwG, Urt. v. 16.6.1994 — 4 C 20/93 zu Standortgebundenheit; BVerwG, Urt. v.
 ## Anschluss
 
 - `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` — bei verbundener Förderung
-- `umweltrecht-industrieanlage-genehmigung` — bei umfassender Anlage
-- `fachanwalt-verwaltungsrecht-widerspruch-oder-klage-erstpruefung` — bei Widerspruchs-Triage
+- `testakten/umweltrecht-industrieanlage-genehmigung` — bei umfassender Anlage
+- `widerspruch-oder-klage-erstpruefung` — bei Widerspruchs-Triage

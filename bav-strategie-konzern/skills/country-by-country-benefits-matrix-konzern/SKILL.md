@@ -185,4 +185,3 @@ J. Lokaler Rechtsberater-Kontakt: [...]
 - → `internationale-harmonisierung-konzern-bav` — Konzernweite Harmonisierung
 - → `expatriate-pensionsplanung-und-totalization` — Expatriate-Sonderfragen
 - → `japan-bav-und-corporate-pension-iorp` — Japan-Vertiefung
-- → `post-merger-bav-integration-global` — Integration nach M&A

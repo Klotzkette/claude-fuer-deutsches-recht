@@ -142,5 +142,5 @@ GmbH-Kreditkündigung 800.000 EUR, AG behauptet Bonitaets-Gefährdung:
 ## Anschluss
 
 - `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` — bei verbundener SCHUFA-Frage
-- `krisenfrueherkennung-starug-vier-varianten` — bei drohender Insolvenz
+- `testakten/krisenfrueherkennung-starug-vier-varianten` — bei drohender Insolvenz
 - `liquiditaetsplanung` — bei Sanierungs-Konzept

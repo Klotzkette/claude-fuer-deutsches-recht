@@ -147,4 +147,4 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 
 - `fachanwalt-migrationsrecht-asyl-folgeantrag-71` — bei Asylbezug
 - `fachanwalt-strafrecht-orientierung` — bei parallelem Strafverfahren
-- `fachanwalt-verwaltungsrecht-widerspruch-oder-klage-erstpruefung` — bei VG-Triage
+- `widerspruch-oder-klage-erstpruefung` — bei VG-Triage

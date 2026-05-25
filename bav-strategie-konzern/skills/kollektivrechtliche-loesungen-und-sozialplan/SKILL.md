@@ -181,5 +181,4 @@ behandeln:
 
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Einigungsstellenverfahren
 - → `harmonisierung-und-migration-rechtssicher` — Sozialplan bei Systemwechsel
-- → `db-zu-dc-umstellung-mit-besitzstand` — Sozialplan bei DB-Schließung
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriffsanalyse als Grundlage Sozialplan

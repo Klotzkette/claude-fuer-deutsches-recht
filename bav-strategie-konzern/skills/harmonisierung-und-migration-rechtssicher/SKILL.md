@@ -180,6 +180,5 @@ Mit freundlichen Grüßen
 
 - → `historisch-gewachsene-altsysteme-due-diligence` — Vorarbeit Inventory
 - → `drei-stufen-theorie-eingriffsanalyse` — Rechtfertigungsanalyse je Maßnahme
-- → `db-zu-dc-umstellung-mit-besitzstand` — spezifische DB→DC-Umstellung
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Mitbestimmungsverfahren
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Begleitmaßnahmen Sozialplan

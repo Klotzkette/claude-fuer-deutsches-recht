@@ -125,4 +125,4 @@ Schadensregulierung nach Verkehrsunfall mit Mitverschuldens-Bewertung.
 
 - `fachanwalt-verkehrsrecht-mpu-vorbereitung` — bei Fahrerlaubnis
 - `unfall-haftungsquote-berechnen` (Power-Tool) — Berechnung
-- `fachanwalt-versicherungsrecht-deckungsanfrage-pruefen` — bei Versicherer-Streit
+- `deckungsanfrage-pruefen` — bei Versicherer-Streit

@@ -166,7 +166,6 @@ Verbraucherpreisindex für Deutschland (Statistisches Bundesamt).
 BetrAVG, wenn die laufenden Renten jährlich um mindestens 1 % erhöht werden.
 (3) Die wirtschaftliche Lage des Unternehmens ist gem. § 16 Abs. 1 BetrAVG zu
 berücksichtigen. Eine Anpassung kann unterbleiben, soweit sie die wirtschaftliche
-Lage des Unternehmens überfordert (→ Skill `anpassungspruefung-paragraph-16-betravg`
 für Prüfungsschema).
 
 § 10 Widerrufsvorbehalte
@@ -299,5 +298,4 @@ Unternehmens vorbehalten.
 - → `pensionsmodelle-fuenf-durchfuehrungswege` — Auswahl Durchführungsweg
 - → `governance-und-anpassungsmechanismen` — Pension Committee, Trustee
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Änderungen der VO
-- → `anpassungspruefung-paragraph-16-betravg` — Prüfschema dreijährlicher Rhythmus
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Mitbestimmungsrechte bei BV-Änderungen
