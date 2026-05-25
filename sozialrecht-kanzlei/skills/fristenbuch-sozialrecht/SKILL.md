@@ -17,10 +17,10 @@ Pro Eintrag:
   vorgang: Bürgergeld-Bescheid 12.03.2026
   fristart: widerspruchsfrist
   rechtsgrundlage: "§ 84 Abs. 1 SGG"
-  fristbeginn: 2026-03-15  # Zugang nach Vier-Tages-Fiktion § 37 SGB X (PostModG, seit 1.1.2025)
-  hauptfrist: 2026-04-15
+  fristbeginn: 2026-03-16  # Zugang nach Vier-Tages-Fiktion § 37 Abs. 2 SGB X n.F. (PostModG, seit 1.1.2025): Aufgabe zur Post 12.03.2026 + 4 Tage = 16.03.2026
+  hauptfrist: 2026-04-16
   vorfrist-tage: 5
-  vorfrist: 2026-04-10
+  vorfrist: 2026-04-11
   zustaendig: RA Mueller
   status: offen
   bemerkung: Widerspruchsbegründung benoetigt Akteneinsicht

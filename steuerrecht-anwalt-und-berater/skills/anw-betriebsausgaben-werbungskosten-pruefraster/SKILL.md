@@ -85,7 +85,7 @@ Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ans
 
 ### Fahrtkosten
 
-- **Pendlerpauschale** § 9 Abs. 1 Nr. 4 EStG EUR 0.30 pro km bis 20 km — ab 21 km EUR 0.38 (befristet bis 2026)
+- **Pendlerpauschale** § 9 Abs. 1 Nr. 4 EStG — seit 1.1.2026: EUR 0,38 pro Kilometer ab dem 1. Kilometer, dauerhaft (Steueränderungsgesetz 2025); bis 31.12.2025 galt: EUR 0,30 bis 20 km, ab 21 km EUR 0,38. Höchstbetrag EUR 4.500 pro Jahr bei Nutzung anderer Verkehrsmittel als eigenes/zur Nutzung überlassenes Kfz.
 - Alternativ: tatsächliche Kosten (Bahn Flug)
 
 ### Verpflegungsmehraufwand

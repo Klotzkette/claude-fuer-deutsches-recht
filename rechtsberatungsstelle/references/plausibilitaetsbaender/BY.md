@@ -20,7 +20,7 @@ Diese Datei bietet studentischen Beraterinnen und Beratern der Rechtsberatungsst
 | Arbeitsrecht – Lohn | Mindestlohn unterschritten | Allgemeiner gesetzlicher Mindestlohn 2025: 12,82 EUR brutto/Stunde; Anspruch nicht verzichtbar (§ 3 MiLoG); Verjährung 3 Jahre (§ 195 BGB) | § 1 MiLoG; § 3 MiLoG |
 | Sozialrecht – SGB II | Leistungsberechnung Bürgergeld | Regelbedarf 2025 Alleinstehende: 563 EUR/Monat; Kosten der Unterkunft nach tatsächlichem Bedarf, soweit angemessen (§ 22 SGB II); für München gelten erhöhte Angemessenheitswerte nach BSG-Rspr. | § 20 SGB II; § 22 SGB II; BSG, Urt. v. 18.01.2011 – B 4 AS 90/10 R |
 | Sozialrecht – SGB II | Sanktion wegen Pflichtverletzung | BVerfG-Urteil v. 05.11.2019 – 1 BvL 7/16: Sanktionen nur noch bis 30 % des Regelbedarfs; darunter liegende Grundversorgung muss gesichert sein | BVerfG, Urt. v. 05.11.2019 – 1 BvL 7/16, BVerfGE 152, 68 |
-| Sozialrecht – Widerspruch | Frist für Widerspruch gegen Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugang am 3. Tag nach Aufgabe zur Post gilt als Bekanntgabe (§ 37 Abs. 2 SGB X) | § 84 SGG; § 37 SGB X |
+| Sozialrecht – Widerspruch | Frist für Widerspruch gegen Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugang am 4. Tag nach Aufgabe zur Post gilt als Bekanntgabe (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: 3. Tag a.F.) | § 84 SGG; § 37 SGB X |
 
 ---
 

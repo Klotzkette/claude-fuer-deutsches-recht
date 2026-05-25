@@ -23,7 +23,7 @@ NRW ist mit ca. 18 Mio. Einwohnern das bevölkerungsreichste Bundesland. Es umfa
 | Arbeitsrecht – Betriebsrat | Betriebsrat nicht angehört vor Kündigung | Fehler bei der Anhörung nach § 102 BetrVG führt zur Unwirksamkeit der Kündigung; Studentinnen prüfen Anhörungsschreiben auf Vollständigkeit | § 102 BetrVG; BAG, Urt. v. 23.10.2014 – 2 AZR 736/13 |
 | Sozialrecht – SGB II | Leistungsberechnung Bürgergeld | Regelbedarf 2025 Alleinstehende: 563 EUR/Monat; Kosten der Unterkunft tatsächlich, soweit angemessen (§ 22 SGB II); in Köln und Düsseldorf gelten kommunale Angemessenheitsgrenzen nach Kosten-der-Unterkunft-Richtlinien | § 20 SGB II; § 22 SGB II |
 | Sozialrecht – SGB II | Sanktion wegen Pflichtverletzung | BVerfG-Urteil v. 05.11.2019 – 1 BvL 7/16: max. 30 % des Regelbedarfs; Grundversorgung muss gesichert bleiben | BVerfG, Urt. v. 05.11.2019 – 1 BvL 7/16, BVerfGE 152, 68 |
-| Sozialrecht – Widerspruchsfrist | Widerspruch gegen SGB-II-Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugangsfiktion: 3 Tage nach Aufgabe zur Post (§ 37 Abs. 2 SGB X) | § 84 SGG; § 37 SGB X |
+| Sozialrecht – Widerspruchsfrist | Widerspruch gegen SGB-II-Bescheid | 1 Monat nach Bekanntgabe (§ 84 SGG); Zugangsfiktion: 4 Tage nach Aufgabe zur Post (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: 3 Tage a.F.) | § 84 SGG; § 37 SGB X |
 | Datenschutz – DSGVO/DSG NRW | Anfrage auf Auskunft aus Behördenakten | Auskunftsrecht Art. 15 DSGVO; Monatsfrist zur Beantwortung (Art. 12 Abs. 3 DSGVO); Datenschutzbeschwerden an LDI NRW | Art. 12, 15 DSGVO; § 5 DSG NRW |
 
 ---

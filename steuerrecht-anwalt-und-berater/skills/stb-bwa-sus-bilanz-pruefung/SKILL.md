@@ -10,7 +10,7 @@ description: "Prüft BWA (Betriebswirtschaftliche Auswertung), SuSa (Summen- und
 Der Skill begleitet Steuerberater und Geschäftsleitungen kleiner Kapitalgesellschaften (GmbH, UG, GmbH & Co. KG) bei drei verzahnten Aufgaben:
 
 1. **BWA-/SuSa-/Beleg-Plausibilisierung**: Erkennt buchhalterische Auffälligkeiten (Konteninkonsistenz, unübliche Salden, Periodenabgrenzungslücken, nicht aktivierte Posten, fehlerhafte Erlös-/Aufwandszuordnungen).
-2. **Bilanzbezogene Krisenprüfung**: Wertet aus, ob bei Erstellung einer Bilanz oder eines Bilanzentwurfs Indizien für eine **Überschuldung (§ 19 Abs. 2 InsO)** oder **Zahlungsunfähigkeit (§ 17 Abs. 2 InsO)** vorliegen, einschließlich Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (12-Monats-Horizont, seit SanInsKG mit Stand 2026 in Geltung gemäß letzter Verlängerung – aktuelle Fassung prüfen).
+2. **Bilanzbezogene Krisenprüfung**: Wertet aus, ob bei Erstellung einer Bilanz oder eines Bilanzentwurfs Indizien für eine **Überschuldung (§ 19 Abs. 2 InsO)** oder **Zahlungsunfähigkeit (§ 17 Abs. 2 InsO)** vorliegen, einschließlich Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (**24-Monats-Horizont** für Eröffnungsanträge bis 31.12.2026 nach SanInsKG; ab 1.1.2027 voraussichtlich Rückkehr auf 12 Monate — Stichtag prüfen).
 3. **Warn- und Hinweispflicht nach § 102 StaRUG**: Prüft, ob der Steuerberater (oder ein anderer mit Jahresabschluss befasster Berufsträger) bei Anzeichen einer drohenden Zahlungsunfähigkeit, Zahlungsunfähigkeit oder Überschuldung **hinweisen muss**, und liefert ein dokumentationsfestes Hinweisschreiben.
 
 Anwendungsfälle: Jahresabschlussvorbereitung, unterjährige BWA-Review, Mandantenkrise, ad-hoc Plausibilitätscheck, Vorbereitung Geschäftsführer-Pflichtenkreis (§ 15a InsO, § 15b InsO), Dokumentation der Hinweispflicht zur eigenen Haftungsvermeidung.
@@ -34,7 +34,7 @@ Das Modell benötigt strukturiert oder unstrukturiert:
 ### Primärnormen
 
 - **§ 17 InsO – Zahlungsunfähigkeit**: Liquiditätslücke ≥ 10 %, die nicht innerhalb von **drei Wochen** geschlossen werden kann (st. Rspr. BGH); Abgrenzung zur Zahlungsstockung.
-- **§ 19 InsO – Überschuldung**: Rechnerische Überschuldung (Vermögen deckt Verbindlichkeiten nicht), es sei denn, die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich (**Fortbestehensprognose**, Zeitraum gemäß SanInsKG/zeitlich abgestuft, seit 09.11.2022 grundsätzlich 12 Monate; aktuelle Fassung prüfen).
+- **§ 19 InsO – Überschuldung**: Rechnerische Überschuldung (Vermögen deckt Verbindlichkeiten nicht), es sei denn, die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich (**Fortbestehensprognose** nach § 19 Abs. 2 S. 1 InsO i.V.m. SanInsKG: **24 Monate** für Eröffnungsanträge bis 31.12.2026, ab 1.1.2027 voraussichtlich Rückkehr auf 12 Monate — Stichtag prüfen).
 - **§ 15a InsO – Insolvenzantragspflicht**: Drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung.
 - **§ 15b InsO – Zahlungsverbote nach Insolvenzreife**.
 - **§ 102 StaRUG – Hinweis- und Warnpflicht**: Verpflichtet Personen, die zur unabhängigen Ausübung eines rechts-, steuerberatenden oder wirtschaftsprüfenden Berufs befugt sind und Jahresabschlüsse erstellen, den Mandanten **auf das Vorliegen möglicher Insolvenzantragsgründe** und die sich daraus ergebenden Pflichten der Geschäftsleiter hinzuweisen, wenn entsprechende Anhaltspunkte offenkundig sind und ein Hinweis ohne weiteres erforderlich ist.

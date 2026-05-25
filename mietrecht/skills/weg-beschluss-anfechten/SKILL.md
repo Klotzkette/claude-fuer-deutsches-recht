@@ -52,9 +52,9 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 - Beschlussgegenstand klar bezeichnet
 - "Verschiedenes" als Sammelpunkt unzulässig für eigentliche Beschlüsse
 
-### Beschlussfähigkeit (§ 25 Abs. 1 WEG n.F.)
+### Beschlussfähigkeit (seit WEMoG 1.12.2020 nicht mehr im WEG geregelt)
 
-- **Seit WEMoG 1.12.2020 kein Quorum mehr** — § 25 Abs. 3 WEG a.F. (Beschlussfähigkeit nur bei > 50 % MEA) wurde gestrichen.
+- **Seit WEMoG 1.12.2020 kein Quorum mehr im WEG** — § 25 Abs. 3 WEG a.F. (Beschlussfähigkeit nur bei > 50 % MEA) wurde **ersatzlos gestrichen**. Es gibt seither keine eigene WEG-Norm zur Beschlussfähigkeit; jede ordnungsgemäß einberufene Versammlung ist beschlussfähig.
 - Jede Versammlung ist beschlussfähig, unabhängig von der Zahl der anwesenden / vertretenen Eigentümer; Wiederholungsversammlungen entfallen.
 - **Für Beschlüsse vor dem 1.12.2020**: alte Rechtslage § 25 Abs. 3 WEG a.F. (Quorum > 50 % MEA) noch maßgeblich.
 - Abweichende Quoren in der Gemeinschaftsordnung weiterhin zulässig (§ 10 Abs. 1 S. 2 WEG).

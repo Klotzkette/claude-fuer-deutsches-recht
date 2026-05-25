@@ -72,8 +72,10 @@ Nach Handelsregister-Eintragung sind zwei öffentlich-rechtliche Anmeldungen zwi
 #### Wahl der Umsatzsteuer
 
 - **Regelbesteuerung**: 19 % Standard, 7 % bei begünstigten Leistungen
-- **Kleinunternehmer-Regelung Paragraf 19 UStG**: keine USt, kein Vorsteuerabzug
-  - Voraussetzung (seit 1.1.2025, JStG 2024 / Wachstumschancengesetz): Vorjahresumsatz <= 25.000 EUR und voraussichtlicher Umsatz im laufenden Jahr <= 100.000 EUR (im Gründungsjahr: voraussichtlicher Gesamtumsatz <= 25.000 EUR, hochgerechnet auf 12 Monate)
+- **Kleinunternehmer-Regelung Paragraf 19 UStG n.F.** (seit 1.1.2025, JStG 2024 / Wachstumschancengesetz): keine USt, kein Vorsteuerabzug
+  - Voraussetzungen (kumulativ): Vorjahresumsatz **tatsächlich** <= 25.000 EUR (Ist-Wert, kein Forecast) **UND** laufender Jahresumsatz tatsächlich <= 100.000 EUR
+  - Die 100.000-EUR-Grenze ist eine **harte Ist-Grenze im laufenden Jahr** (nicht länger ein Prognose-Test wie vor 1.1.2025). Bei Überschreiten endet die Kleinunternehmer-Regelung **sofort** — der Umsatz, mit dem die Grenze überschritten wird, ist bereits regelbesteuert; bisherige Umsätze des laufenden Jahres bleiben steuerfrei.
+  - **Gründungsjahr**: nur die 25.000-EUR-Grenze ist relevant; maßgeblich ist der voraussichtliche Gesamtumsatz auf 12 Monate hochgerechnet (Sonderregel § 19 Abs. 1 Satz 2 UStG n.F.).
   - Bei B2B-Geschäft oft **nicht** sinnvoll (Vorsteuer-Verlust)
 - **Wahlrecht** zur Regelbesteuerung trotz Kleinunternehmer-Voraussetzungen
 

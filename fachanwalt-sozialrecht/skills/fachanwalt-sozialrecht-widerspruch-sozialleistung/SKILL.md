@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-widerspruch-sozialleistung
-description: Widerspruch gegen Sozialleistungsbescheid nach § 84 SGG. Frist ein Monat ab Bekanntgabe. Form schriftlich oder zur Niederschrift. Begruendung Tatsachen Rechtsgrundlagen. Aufschiebende Wirkung § 86a SGG; Antrag auf einstweiligen Rechtsschutz § 86b SGG bei Wegfall. Pruefe Bekanntgabe Drei-Tage-Fiktion § 37 Abs. 2 SGB X. Schreibvorlage.
+description: Widerspruch gegen Sozialleistungsbescheid nach § 84 SGG. Frist ein Monat ab Bekanntgabe. Form schriftlich oder zur Niederschrift. Begruendung Tatsachen Rechtsgrundlagen. Aufschiebende Wirkung § 86a SGG; Antrag auf einstweiligen Rechtsschutz § 86b SGG bei Wegfall. Pruefe Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Schreibvorlage.
 ---
 
 # Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)
@@ -17,7 +17,7 @@ description: Widerspruch gegen Sozialleistungsbescheid nach § 84 SGG. Frist ein
 
 - **Statthaftigkeit:** § 78 Abs. 1 SGG — Widerspruchsverfahren vor Klage; entbehrlich bei Bundesbehörden mit eigener Widerspruchsregelung.
 - **Frist:** § 84 Abs. 1 S. 1 SGG — ein Monat ab Bekanntgabe.
-- **Bekanntgabefiktion:** § 37 Abs. 2 SGB X — dritter Tag nach Aufgabe zur Post; bei Wochenende/Feiertag Verschiebung.
+- **Bekanntgabefiktion:** § 37 Abs. 2 SGB X n.F. — vierter Tag nach Aufgabe zur Post (seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: dritter Tag a.F.); bei Wochenende/Feiertag Verschiebung.
 - **Form:** § 84 Abs. 1 S. 1 SGG — schriftlich, elektronisch nach § 36a SGB I oder zur Niederschrift.
 - **Aufschiebende Wirkung:** § 86a Abs. 1 SGG — grundsätzlich aufschiebend; Ausnahmen § 86a Abs. 2 SGG (z. B. SGB II nach § 39 SGB II).
 - **Einstweiliger Rechtsschutz:** § 86b SGG — bei Wegfall der aufschiebenden Wirkung oder zur Sicherung.
@@ -37,7 +37,7 @@ description: Widerspruch gegen Sozialleistungsbescheid nach § 84 SGG. Frist ein
 1. Statthaftigkeit § 78 SGG.
 2. Form und Frist § 84 SGG
    - Schriftform / elektronisch / zur Niederschrift.
-   - Frist 1 Monat, Bekanntgabefiktion § 37 Abs. 2 SGB X.
+   - Frist 1 Monat, Bekanntgabefiktion § 37 Abs. 2 SGB X n.F. (Vier-Tage-Fiktion seit 1.1.2025 PostModG; davor drei Tage).
 3. Beschwer
    - Rechtsverletzung der Mandantschaft konkret darlegen.
 4. Begründung

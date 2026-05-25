@@ -17,7 +17,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/fortbestehensprognose-paragrafix-gmbh/` (oder ein eigener BWA-Ordner mit drei Monatsabschlüssen).
 
-**Schritt 1 — Kaltstart:** `/liquiditaetsplanung:liquiditaetsvorschau-3wochen` → liest BWAs/SuSa/Bankbelege, fragt nach Zielhorizont (13/26/52 Wochen) und Aggregations-Ebene.
+**Schritt 1 — Kaltstart:** `/liquiditaetsplanung:liquiditaetsvorschau-3-6-12-monate` → liest BWAs/SuSa/Bankbelege, fragt nach Zielhorizont (13/26/52 Wochen) und Aggregations-Ebene.
 
 **Schritt 2 — Plan bauen:** `/liquiditaetsplanung:liquiditaetsvorschau-3-6-12-monate` → ruft `werkzeuge/build_liquiditaetsplan.py` mit den extrahierten JSON-Plan-Keys.
 

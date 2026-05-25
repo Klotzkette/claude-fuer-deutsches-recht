@@ -1,6 +1,6 @@
 ---
 name: bescheid-frist-quick-check
-description: "60-Sekunden-Sofortpruefung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief drei Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X. Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill fuer alles weitere. Pruefung Wiedereinsetzung § 67 SGG bei roter Ampel. Pruefung § 44 SGB X Ueberpruefungsantrag wenn Wiedereinsetzung ausgeschlossen."
+description: "60-Sekunden-Sofortpruefung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill fuer alles weitere. Pruefung Wiedereinsetzung § 67 SGG bei roter Ampel. Pruefung § 44 SGB X Ueberpruefungsantrag wenn Wiedereinsetzung ausgeschlossen."
 ---
 
 # Frist-Quick-Check
@@ -21,7 +21,7 @@ Sofort-Eingangstür zu jedem Bescheid. Vor Bescheidanalyse, vor Widerspruchsentw
 | § 84 Abs. 1 SGG | Widerspruchsfrist ein Monat ab Bekanntgabe |
 | § 66 Abs. 1 SGG | Frist läuft nur bei korrekter Rechtsbehelfsbelehrung |
 | § 66 Abs. 2 SGG | Bei fehlender / unrichtiger Belehrung ein Jahr ab Bekanntgabe |
-| § 37 Abs. 2 SGB X | Bekanntgabe-Fiktion einfacher Brief — am dritten Tag nach Aufgabe zur Post |
+| § 37 Abs. 2 SGB X n.F. | Bekanntgabe-Fiktion einfacher Brief — am vierten Tag nach Aufgabe zur Post (seit 1.1.2025 PostModG; bei Aufgabe vor dem 1.1.2025: dritter Tag a.F.) |
 | § 87 SGG | Klagefrist ein Monat nach Zustellung Widerspruchsbescheid |
 | § 67 SGG | Wiedereinsetzung in den vorigen Stand bei unverschuldeter Versaeumung |
 | § 44 SGB X | Überprüfungsantrag — auch nach Bestandskraft |
@@ -57,7 +57,7 @@ Liefere immer diese genau drei Zeilen plus Aktion:
 ```
 FRIST-QUICK-CHECK [Mandant] — [Az]
 
-Bekanntgabe: [TT.MM.JJJJ] (Grundlage: [PZU / Brief plus drei Tage / Mandantenangabe])
+Bekanntgabe: [TT.MM.JJJJ] (Grundlage: [PZU / Brief plus vier Tage § 37 Abs. 2 SGB X n.F. / Mandantenangabe])
 Frist Widerspruch: [TT.MM.JJJJ] — verbleibend [N Tage]
 Belehrung: [korrekt / fehlt / unrichtig — Konsequenz: Frist Monat / Jahr]
 Ampel: [GRUEN / GELB / ROT / VERSTRICHEN / EILBEDARF]
