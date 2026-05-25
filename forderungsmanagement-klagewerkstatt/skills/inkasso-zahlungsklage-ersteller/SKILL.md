@@ -133,3 +133,10 @@ Das Werkzeug ersetzt keine Rechtsprüfung. Es ist ein formaler Gatekeeper: bezah
 ## Ausgabe-Ton
 
 Kurz, klar und prozessnah. Keine langen Gutachten, wenn ein Gate rot ist. Dann zuerst sagen: **Diese Position nicht einklagen** und den Grund nennen.
+
+## Übergabe an die Zwangsvollstreckung
+
+Nach Rechtskraft des Zahlungstitels oder Erlass des Vollstreckungsbescheids lädt das freistehende
+Plugin `zwangsvollstreckung` den passenden Folge-Skill: `zv-vollstreckungsbescheid-folge` für den
+Übergang aus dem Mahnverfahren, `zv-pfueb-bank` für Kontopfändung, `zv-pfueb-arbeitsentgelt` für
+Lohnpfändung mit Tabelle 1.7.2025, `zv-vermoegensauskunft-gv` für die Vorfeld-Recherche.

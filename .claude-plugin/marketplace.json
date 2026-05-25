@@ -883,6 +883,15 @@
         "name": "Klotzkette"
       },
       "version": "8.0.0"
+    },
+    {
+      "name": "zwangsvollstreckung",
+      "source": "./zwangsvollstreckung",
+      "description": "Freistehendes Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten: Mahn-/Vollstreckungsbescheid online, PfÜB Bank/Arbeitgeber, Kontensuche § 802l ZPO, Vermögensauskunft, Räumung, notarielle Urkunde § 800 ZPO, Insolvenztabelle § 201 InsO, ZVG-Antrag und Schuldnerschutz.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "8.0.0"
     }
   ],
   "version": "8.0.0"

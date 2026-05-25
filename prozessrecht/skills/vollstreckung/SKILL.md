@@ -5,6 +5,19 @@ description: "Unterstützt bei der Durchführung der Zwangsvollstreckung nach §
 
 # Zwangsvollstreckung – Überblick und Praxis
 
+## Verweis auf das freistehende Plugin `zwangsvollstreckung`
+
+Dieser Skill bleibt der prozessrechtliche Überblick. Für die operative Durchführung – Antragsformulare,
+Drittschuldnerwahl, P-Konto-Berechnung, ZVollstrDigitG-Übergänge 2026/2027, notarielle Urkunde § 800 ZPO,
+Tabellenauszug § 201 InsO, Räumung § 885 ZPO, Schuldnerschutz – lädt das freistehende Plugin
+`zwangsvollstreckung` mit 17 spezialisierten Skills (`zv-kommandocenter`, `zv-titel-klausel-zustellung`,
+`zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-pfueb-mieter-finanzamt`, `zv-vermoegensauskunft-gv`,
+`zv-kontensuche-drittschuldner`, `zv-notarielle-urkunde-grundschuld`, `zv-zvg-antrag-glaeubiger`,
+`zv-tabellenauszug-201-inso`, `zv-mobiliar-gv-auftrag`, `zv-raeumung-885`, `zv-abwehr-schuldner`,
+`zv-pfaendungstabelle-2025`, `zv-elektronische-zustellung-2027`, `zv-mahnbescheid-online`,
+`zv-vollstreckungsbescheid-folge`). Dieser Hub-Skill ist die richtige Adresse für die dogmatische
+Gesamtschau; das Plugin ist die richtige Adresse für die einzelne Vollstreckungsmaßnahme.
+
 ## Zweck
 
 Dieser Skill begleitet die Durchführung der Zwangsvollstreckung aus Urteilen, Beschlüssen,

@@ -5,6 +5,14 @@ description: "Unterstützt bei der Beantragung eines Mahnbescheids nach §§ 688
 
 # Mahnverfahren – §§ 688 ff. ZPO
 
+## Verweis auf das freistehende Plugin `zwangsvollstreckung`
+
+Für den operativen Mahnantrag (Barcode-Datensatz, zentrales Mahnportal, EGVP/beA-Übermittlung) und
+den Übergang zum Vollstreckungsbescheid samt Klausel und Zustellung lädt das freistehende Plugin
+`zwangsvollstreckung` die Skills `zv-mahnbescheid-online` und `zv-vollstreckungsbescheid-folge`.
+Dieser Skill liefert die dogmatische Grundlage und Strategie; das Plugin liefert das fertige
+Formularpaket.
+
 ## Zweck
 
 Dieser Skill begleitet das gerichtliche Mahnverfahren als kostengünstiges und schnelles
