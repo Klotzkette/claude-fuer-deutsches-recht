@@ -95,7 +95,7 @@ Strukturierte Eingangsabfrage beim Erstkontakt — verhindert falsche Spur, iden
 ## Sofort-Fristen-Check
 
 - Empfangsdatum letzter Beschluss notieren
-- Bei Beschluss eingegangen heute: Beschwerdefrist endet in vier Wochen Plus drei-Tage-Fiktion
+- Bei Beschluss eingegangen heute: Beschwerdefrist nach FamFG (§§ 63, 64 FamFG i.V.m. ZPO) — Zugang nach Vier-Tages-Fiktion (§ 270 ZPO n.F., seit 1.1.2025 PostModG; bis 31.12.2024 drei Tage), danach Lauf der Beschwerdefrist von einem Monat (§ 63 FamFG)
 - Eintrag in `fristenbuch.yaml` (Skill `kanzlei-cowork`)
 
 ## Eskalationspfad

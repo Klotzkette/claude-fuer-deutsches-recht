@@ -31,9 +31,9 @@ description: Postein- und Postausgangsbuch fuehren. Posteingang erfasst Empfangs
 3. **Fristerkennung** — bei Urteilen Beschlüssen Bescheiden sofort Frist ins Fristenbuch.
 4. **Anwalt informieren** — Zuständigen anwaltlich benachrichtigen.
 
-### Drei-Tages-Fiktionen
+### Vier-Tages-Fiktionen (PostModG, seit 1.1.2025)
 
-Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fiktion regelmäßig für den Fristbeginn. Bei nachweislich früherem Zugang gilt der tatsächliche Zugang. Dokumentation des Eingangsdatums daher entscheidend.
+Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Vier-Tages-Fiktion (§ 270 ZPO, § 122 Abs. 2 AO, § 41 Abs. 2 VwVfG, § 37 Abs. 2 SGB X, § 4 Abs. 2 VwZG — jeweils n.F. durch Postrechtsmodernisierungsgesetz, BGBl. 2024 I Nr. 236) für den Fristbeginn. Für Schriftstücke mit Aufgabe zur Post vor dem 1.1.2025 gilt weiterhin die alte Drei-Tages-Fiktion. Bei nachweislich früherem Zugang gilt der tatsächliche Zugang. Dokumentation des Eingangsdatums daher entscheidend.
 
 ## Postausgang
 

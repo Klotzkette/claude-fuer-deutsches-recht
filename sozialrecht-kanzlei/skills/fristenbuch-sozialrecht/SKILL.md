@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-sozialrecht
-description: Fristenbuch fuer sozialrechtliche Verfahren — pflegt zentrale Datei mit Hauptfristen und Vorfristen. Standardfristen SGG (§ 84 Widerspruch ein Monat / § 87 Klage ein Monat / § 173 Beschwerde ein Monat) SGB X (§ 84 Untaetigkeit nach drei Monaten / § 13 Abs. 3a SGB V drei Wochen Genehmigungsfiktion / § 18 SGB IX zwei Monate). Berechnet Fristbeginn nach § 37 SGB X (Drei-Tages-Fiktion Zustellung) und § 26 SGB X (Fristberechnung). Setzt Vorfristen (typisch drei bis fuenf Tage vor Hauptfrist).
+description: Fristenbuch fuer sozialrechtliche Verfahren — pflegt zentrale Datei mit Hauptfristen und Vorfristen. Standardfristen SGG (§ 84 Widerspruch ein Monat / § 87 Klage ein Monat / § 173 Beschwerde ein Monat) SGB X (§ 84 Untaetigkeit nach drei Monaten / § 13 Abs. 3a SGB V drei Wochen Genehmigungsfiktion / § 18 SGB IX zwei Monate). Berechnet Fristbeginn nach § 37 SGB X (Vier-Tages-Fiktion Zustellung seit 1.1.2025 PostModG) und § 26 SGB X (Fristberechnung). Setzt Vorfristen (typisch drei bis fuenf Tage vor Hauptfrist).
 ---
 
 # Fristenbuch Sozialrecht
@@ -17,7 +17,7 @@ Pro Eintrag:
   vorgang: Bürgergeld-Bescheid 12.03.2026
   fristart: widerspruchsfrist
   rechtsgrundlage: "§ 84 Abs. 1 SGG"
-  fristbeginn: 2026-03-15  # Zugang nach Drei-Tages-Fiktion § 37 SGB X
+  fristbeginn: 2026-03-15  # Zugang nach Vier-Tages-Fiktion § 37 SGB X (PostModG, seit 1.1.2025)
   hauptfrist: 2026-04-15
   vorfrist-tage: 5
   vorfrist: 2026-04-10
@@ -44,14 +44,14 @@ Pro Eintrag:
 
 | Frist | Norm | Bedeutung |
 |---|---|---|
-| Drei-Tages-Fiktion Zustellung | § 37 Abs. 2 SGB X | Bekanntgabe drei Tage nach Aufgabe zur Post |
+| Vier-Tages-Fiktion Zustellung (seit 1.1.2025) | § 37 Abs. 2 SGB X n.F. | Bekanntgabe vier Tage nach Aufgabe zur Post (PostModG; bis 31.12.2024: drei Tage) |
 | Genehmigungsfiktion Krankenkasse | § 13 Abs. 3a SGB V | drei Wochen (fünf Wochen bei MDK) |
 | Entscheidungsfrist Reha-Antrag | § 18 SGB IX | zwei Monate |
 | Überprüfungsantrag | § 44 SGB X | keine eigentliche Frist aber Wirkung nur für Vergangenheit |
 
 ## Berechnung Fristbeginn
 
-- **Postzustellung** drei Tage nach Aufgabe (§ 37 Abs. 2 SGB X). Wenn nachweislich früherer Zugang: Zugang maßgeblich.
+- **Postzustellung** vier Tage nach Aufgabe (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG). Wenn nachweislich früherer Zugang: Zugang maßgeblich. Für Verwaltungsakte mit Aufgabe zur Post vor dem 1.1.2025 gilt die alte Drei-Tages-Frist.
 - **EGVP / beA** Tag der erfolgreichen Übertragung.
 - **Bekanntgabe durch Aushaendigung** Tag der Aushaendigung.
 - **Fristberechnung** § 26 SGB X iVm §§ 187 ff. BGB — Beginn des Folgetages; Ende mit Ablauf des entsprechenden Tages des letzten Monats; bei Wochenende / Feiertag auf nächsten Werktag.

@@ -1,6 +1,6 @@
 ---
 name: anw-steuerbescheid-analyse
-description: Strukturierte Auswertung eines Steuerbescheids — Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Pruefungsbescheid. Erfasst Steuerart Veranlagungsjahr festgesetzte Steuer Vorauszahlungen Erstattung oder Nachforderung Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung (§ 164 AO) Aenderungsvorschriften (§§ 172 ff. AO) Rechtsbehelfsbelehrung. Prueft Bekanntgabe nach § 122 AO Drei-Tages-Fiktion. Identifiziert Angriffspunkte fuer Einspruch.
+description: Strukturierte Auswertung eines Steuerbescheids — Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Pruefungsbescheid. Erfasst Steuerart Veranlagungsjahr festgesetzte Steuer Vorauszahlungen Erstattung oder Nachforderung Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung (§ 164 AO) Aenderungsvorschriften (§§ 172 ff. AO) Rechtsbehelfsbelehrung. Prueft Bekanntgabe nach § 122 AO Vier-Tages-Fiktion (seit 1.1.2025 PostModG; bis 31.12.2024 drei Tage). Identifiziert Angriffspunkte fuer Einspruch.
 ---
 
 # Steuerbescheid-Analyse
@@ -23,7 +23,7 @@ Bescheid systematisch lesen vor dem Einspruch.
 - **Adressat** korrekt (bei Eheleuten Zusammenveranlagung beide; bei Personengesellschaft gesonderte und einheitliche Feststellung — separater Bescheid)?
 - **Steuerart** und **Veranlagungsjahr** klar?
 - **Tenor** mit Steuerbetrag eindeutig?
-- **Bekanntgabe** nach § 122 AO — Drei-Tages-Fiktion bei Postbescheiden (§ 122 Abs. 2 Nr. 1 AO).
+- **Bekanntgabe** nach § 122 AO — Vier-Tages-Fiktion bei Postbescheiden (§ 122 Abs. 2 Nr. 1 AO n.F., seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025: weiterhin Drei-Tages-Fiktion alter Fassung).
 - **Rechtsbehelfsbelehrung** vollständig?
 
 ### 2. Inhaltliche Prüfung

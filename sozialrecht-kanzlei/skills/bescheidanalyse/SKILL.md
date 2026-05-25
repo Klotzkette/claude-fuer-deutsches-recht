@@ -21,7 +21,7 @@ Vor dem Widerspruch steht die Analyse. Dieser Skill liest einen Bescheid systema
 
 - **Behörde** zuständig (sachlich oertlich)?
 - **Adressat** korrekt bezeichnet (Vor- und Nachname; bei Bedarfsgemeinschaft alle Mitglieder)?
-- **Bescheiddatum** und **Zugangsdatum** klar (Zugang nach § 37 SGB X — Drei-Tages-Fiktion bei Post)?
+- **Bescheiddatum** und **Zugangsdatum** klar (Zugang nach § 37 SGB X n.F. — Vier-Tages-Fiktion bei Post seit 1.1.2025 PostModG; bei Aufgabe zur Post vor dem 1.1.2025 weiterhin Drei-Tages-Fiktion alter Fassung)?
 - **Tenor** eindeutig?
 - **Begründung** nach § 35 SGB X mit wesentlichen tatsächlichen und rechtlichen Gründen vorhanden?
 - **Rechtsbehelfsbelehrung** vollständig (Behörde Frist Form Adressat)?

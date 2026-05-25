@@ -52,7 +52,7 @@ Fiktive Akte zur Familie Tannenberg in Kiel mit **vier disparaten Sozialrechtsve
 | `sozialrecht-fallaufnahme-routing` | Master-Entscheidungsbaum: in drei Schritten zur richtigen Skill-Reihenfolge. |
 | `sozialrecht-kanzlei-kaltstart-interview` | Kaltstart-Interview für die Kanzlei-Profilierung schreibt CLAUDE.md. |
 | `widerspruch-formulieren` | Entwirft einen begründeten Widerspruch gegen einen Sozialleistungsbescheid nach § 84 SGG (Widerspruchsfrist ein Monat ab Bekanntgabe — bei fehlender Rechtsbehelfsbelehrung ein Jahr nach § 66 Abs. 2 SGG). Aus der Besc… |
-| `widerspruchsfrist-und-zustellung-sgb` | Prüfraster Bekanntgabe Zustellung Drei-Tages-Fiktion Wiedereinsetzung Untätigkeitsklage. |
+| `widerspruchsfrist-und-zustellung-sgb` | Prüfraster Bekanntgabe Zustellung Vier-Tages-Fiktion (PostModG seit 1.1.2025) Wiedereinsetzung Untätigkeitsklage. |
 | `bescheid-frist-quick-check` | 60-Sekunden-Sofortprüfung der Frist eines Bescheids mit Ampel rot/gelb/grün. |
 | `erwerbsminderungsrente-pruefen` | DRV-Bescheid prüfen voll vs teilweise EM Wartezeit Arbeitsmarktrente sozialmedizinisches Gutachten. |
 | `eingliederungshilfe-schule` | Eingliederungshilfe SGB IX Teil 2 §§ 90 ff Schulbegleitung Integrationshelfer. |

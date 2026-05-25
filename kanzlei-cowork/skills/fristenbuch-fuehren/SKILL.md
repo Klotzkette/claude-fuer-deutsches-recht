@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-fuehren
-description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ueber alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Drei-Tages-Fiktionen bei Postzustellung. Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zustaendigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung.
+description: Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ueber alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zustaendigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung.
 ---
 
 # Zentrales Fristenbuch der Kanzlei
@@ -83,14 +83,17 @@ Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist
 - **Notfristen** (Versäumnis = Verlust): Berufung Revision Kündigungsschutzklage. Vorfrist sieben Werktage.
 - **Beobachtungsfristen** (z. B. Vorlauf zur Stellungnahme): Vorfrist drei bis fünf Werktage.
 
-## Drei-Tages-Fiktionen
+## Vier-Tages-Fiktionen (PostModG, seit 1.1.2025)
 
-- **§ 270 Satz 2 ZPO** Schriftsatzzustellung
-- **§ 122 Abs. 2 AO** Steuerbescheid
-- **§ 41 Abs. 2 VwVfG** Verwaltungsakt
-- **§ 37 Abs. 2 SGB X** Sozialleistungsbescheid
+Durch das Postrechtsmodernisierungsgesetz (BGBl. 2024 I Nr. 236) wurden alle Bekanntgabe-Fiktionen einheitlich von drei auf vier Tage verlängert:
 
-Beim Eintragen automatisch berücksichtigen — bei nachweislich früherem Zugang Zugang maßgeblich.
+- **§ 270 ZPO n.F.** Schriftsatzzustellung
+- **§ 122 Abs. 2 Nr. 1 AO n.F.** Steuerbescheid (auch § 122 Abs. 2a / § 122a Abs. 4 AO bei elektronischer Übermittlung)
+- **§ 41 Abs. 2 VwVfG n.F.** Verwaltungsakt
+- **§ 37 Abs. 2 SGB X n.F.** Sozialleistungsbescheid
+- **§ 4 Abs. 2 VwZG n.F.** Zustellung gegen Empfangsbekenntnis (Verwaltungszustellung)
+
+Beim Eintragen automatisch berücksichtigen — bei nachweislich früherem Zugang Zugang maßgeblich. Für Verwaltungsakte / Schriftstücke mit Aufgabe zur Post **vor dem 1.1.2025** gilt weiterhin die alte Drei-Tages-Fiktion.
 
 ## Vorfristen
 

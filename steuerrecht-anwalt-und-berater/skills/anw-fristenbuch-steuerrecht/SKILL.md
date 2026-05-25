@@ -1,6 +1,6 @@
 ---
 name: anw-fristenbuch-steuerrecht
-description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Datei mit Hauptfristen und Vorfristen. Standardfristen AO (§ 355 Einspruch ein Monat / § 356 ein Jahr bei fehlender Rechtsbehelfsbelehrung) FGO (§ 47 Klage ein Monat / § 116 Nichtzulassungsbeschwerde ein Monat / § 120 Revisionsbegruendung zwei Monate). Berechnet Fristbeginn nach § 122 Abs. 2 AO Drei-Tages-Fiktion und § 108 AO Fristberechnung. Vorfristen typisch fuenf Tage vor Hauptfrist.
+description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Datei mit Hauptfristen und Vorfristen. Standardfristen AO (§ 355 Einspruch ein Monat / § 356 ein Jahr bei fehlender Rechtsbehelfsbelehrung) FGO (§ 47 Klage ein Monat / § 116 Nichtzulassungsbeschwerde ein Monat / § 120 Revisionsbegruendung zwei Monate). Berechnet Fristbeginn nach § 122 Abs. 2 AO Vier-Tages-Fiktion (seit 1.1.2025 PostModG; bis 31.12.2024 Drei-Tages-Fiktion) und § 108 AO Fristberechnung. Vorfristen typisch fuenf Tage vor Hauptfrist.
 ---
 
 # Fristenbuch Steuerrecht
@@ -51,8 +51,9 @@ description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Dat
 
 ## Bekanntgabe (§ 122 AO)
 
-- **Schriftliche Bescheide per Post** drei Tage nach Aufgabe zur Post (§ 122 Abs. 2 Nr. 1 AO).
-- **Elektronische Bescheide** drei Tage nach Absendung (§ 122a AO).
+- **Schriftliche Bescheide per Post** vier Tage nach Aufgabe zur Post (§ 122 Abs. 2 Nr. 1 AO n.F., seit 1.1.2025; davor drei Tage).
+- **Elektronische Bescheide** vier Tage nach Absendung (§ 122 Abs. 2a / § 122a Abs. 4 AO n.F., seit 1.1.2025; davor drei Tage).
+- **Bekanntgabe von Verwaltungsakten mit Aufgabe zur Post vor dem 1.1.2025**: weiterhin Drei-Tages-Fiktion alter Fassung.
 - Beweispflicht der Behörde wenn Zugang bestritten.
 
 ## Fristberechnung § 108 AO
