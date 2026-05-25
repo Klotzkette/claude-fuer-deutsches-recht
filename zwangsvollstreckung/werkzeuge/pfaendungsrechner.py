@@ -13,11 +13,16 @@ Grundlagen:
 
 Quelle: NWB Datenbank, Finanztip, BGBl 2025 I Nr. 110.
 
-Eckwerte (Tabelle 1.7.2025):
-- Grundfreibetrag (0 Unterhaltspflichtige): 1.559,99 EUR / Monat
+Eckwerte (Tabelle 1.7.2025; BGBl 2025 I Nr. 110 vom 11.4.2025):
+- Grundfreibetrag (0 Unterhaltspflichtige): 1.555,00 EUR / Monat
 - Erhoehung 1. unterhaltsberechtigte Person: 585,23 EUR
-- Erhoehung je weitere Person: 326,04 EUR
+- Erhoehung je weitere Person (bis 5. Person): 326,04 EUR
 - Vollpfaendungsgrenze: 4.766,99 EUR (darueber alles pfaendbar)
+
+Die Berechnung folgt der Methode der amtlichen Tabelle: Netto wird auf den
+naechsten vollen 10-EUR-Schritt nach unten abgerundet (Paragraf 850c Abs. 5 ZPO);
+vom Ueberschuss ueber den nach Tabelle erhoehten Freibetrag wird der pfaendbare
+Anteil mit unterhaltsabhaengiger Quote berechnet.
 
 Benutzung:
     python3 pfaendungsrechner.py --netto 2500 --unterhalt 1
@@ -39,25 +44,33 @@ from decimal import Decimal, ROUND_DOWN
 TABELLE_GUELTIG_AB = _dt.date(2025, 7, 1)
 TABELLE_GUELTIG_BIS = _dt.date(2026, 6, 30)
 
-GRUNDFREIBETRAG = Decimal("1559.99")          # Paragraf 850c Abs. 1 ZPO
+GRUNDFREIBETRAG = Decimal("1555.00")          # Paragraf 850c Abs. 1 ZPO
 ERHOEHUNG_ERSTE_PERSON = Decimal("585.23")    # Paragraf 850c Abs. 2 Satz 1 ZPO
 ERHOEHUNG_WEITERE_PERSON = Decimal("326.04")  # Paragraf 850c Abs. 2 Satz 2 ZPO
 VOLLPFAENDUNGSGRENZE = Decimal("4766.99")     # Paragraf 850c Abs. 3 Satz 3 ZPO
 
-# Quoten gemaess Paragraf 850c Abs. 3 ZPO
-# 0   bis Freibetrag                  unpfaendbar
-# 1   3/10 des den Freibetrag uebersteigenden Teils gehen an den Schuldner
-# 2   weitere 2/10 fuer 1. Unterhaltspflichtigen
-# 3   weitere 1/10 fuer jede weitere Person (bis 5)
-# In der vereinfachten praktischen Berechnung des BMJ wird mit gestaffelten
-# Sockelbetraegen pro Unterhaltspflichtigem gearbeitet. Diese Implementierung
-# folgt der Tabellenmethode: Freibetrag = Sockel + n * Erhoehung, darueber
-# 7/10 pfaendbar (Schuldneranteil 3/10), ab Vollpfaendungsgrenze 100 % pfaendbar.
+# Quoten gemaess Paragraf 850c Abs. 3 ZPO (auf den den Grundfreibetrag
+# uebersteigenden Teil bis zur Vollpfaendungsgrenze):
+# - 0 Unterhaltspflichten:  3/10 unpfaendbar -> 7/10 pfaendbar
+# - 1 Unterhaltspflicht:    3/10 + 2/10 unpfaendbar -> 5/10 pfaendbar
+# - 2 Unterhaltspflichten:  6/10 unpfaendbar -> 4/10 pfaendbar
+# - 3 Unterhaltspflichten:  7/10 unpfaendbar -> 3/10 pfaendbar
+# - 4 Unterhaltspflichten:  8/10 unpfaendbar -> 2/10 pfaendbar
+# - 5 Unterhaltspflichten:  9/10 unpfaendbar -> 1/10 pfaendbar
+# Ab der 6. Person erfolgt keine automatische weitere Reduktion mehr;
+# Anpassung durch das Vollstreckungsgericht nach Paragraf 850f ZPO.
 
-QUOTE_SCHULDNER = Decimal("0.3")  # 3/10 bleiben Schuldner
-QUOTE_GLAEUBIGER = Decimal("0.7")  # 7/10 sind pfaendbar
+QUOTE_GLAEUBIGER_NACH_UP: dict[int, Decimal] = {
+    0: Decimal("0.7"),
+    1: Decimal("0.5"),
+    2: Decimal("0.4"),
+    3: Decimal("0.3"),
+    4: Decimal("0.2"),
+    5: Decimal("0.1"),
+}
 
-# P-Konto Sockel Paragraf 850k ZPO (AG SBV Bescheinigung Stand 1.7.2025)
+# P-Konto Sockel Paragraf 850k ZPO (AG SBV Bescheinigung Stand 1.7.2025).
+# Aufrundung des Grundfreibetrags auf naechsten vollen 10er.
 P_KONTO_SOCKEL = Decimal("1560.00")
 P_KONTO_ERHOEHUNG_ERSTE = Decimal("585.23")
 P_KONTO_ERHOEHUNG_WEITERE = Decimal("326.04")
@@ -141,6 +154,13 @@ def berechne(
 
     hinweise: list[str] = []
 
+    # Paragraf 850c Abs. 5 ZPO: Netto auf naechsten vollen 10-EUR-Schritt
+    # nach unten abrunden (Tabellenmethode). Nur fuer die regulaere
+    # Tabellenberechnung; Paragraf 850d ZPO laeuft separat.
+    netto_abger = (netto_d / Decimal("10")).to_integral_value(
+        rounding=ROUND_DOWN
+    ) * Decimal("10")
+
     if privileg_850d:
         selbst = Decimal(str(selbstbehalt)) if selbstbehalt is not None else SELBSTBEHALT_PRIVILEG
         freibetrag = selbst
@@ -163,35 +183,42 @@ def berechne(
         )
 
     # Regulaere Berechnung Paragraf 850c ZPO
+    # Freibetrag fuer die Anzeige (Sockel + Tabellen-Erhoehungen bis 5 Personen).
     freibetrag = GRUNDFREIBETRAG
     if unterhaltspflichten >= 1:
         freibetrag += ERHOEHUNG_ERSTE_PERSON
     if unterhaltspflichten >= 2:
-        freibetrag += ERHOEHUNG_WEITERE_PERSON * (unterhaltspflichten - 1)
+        bis_fuenf = min(unterhaltspflichten, 5) - 1
+        freibetrag += ERHOEHUNG_WEITERE_PERSON * bis_fuenf
 
-    ueber = max(netto_d - freibetrag, Decimal("0"))
+    if unterhaltspflichten > 5:
+        hinweise.append(
+            "Tabelle stuft bis 5 Unterhaltspflichtige; ab der 6. Person erfolgt "
+            "Anpassung durch das Vollstreckungsgericht (Paragraf 850f ZPO). "
+            "Werkzeug rechnet hier mit Tabellenwerten fuer 5 Personen."
+        )
 
-    if netto_d >= VOLLPFAENDUNGSGRENZE:
+    ueber = max(netto_abger - freibetrag, Decimal("0"))
+
+    # Pfaendbarkeitsquote im Tabellenbereich nach Unterhaltsstaffel
+    # Paragraf 850c Abs. 3 Saetze 1 und 2 ZPO.
+    quote_glaeubiger = QUOTE_GLAEUBIGER_NACH_UP[min(unterhaltspflichten, 5)]
+
+    if netto_abger >= VOLLPFAENDUNGSGRENZE:
         # alles oberhalb Vollpfaendungsgrenze ist 100 % pfaendbar,
-        # darunter quotal
+        # darunter quotal mit unterhaltsabhaengiger Quote
         teil_unter_grenze = max(VOLLPFAENDUNGSGRENZE - freibetrag, Decimal("0"))
-        teil_ueber_grenze = netto_d - VOLLPFAENDUNGSGRENZE
-        pfaendbar_quotal = teil_unter_grenze * QUOTE_GLAEUBIGER
+        teil_ueber_grenze = netto_abger - VOLLPFAENDUNGSGRENZE
+        pfaendbar_quotal = teil_unter_grenze * quote_glaeubiger
         pfaendbar = _quantize(pfaendbar_quotal + teil_ueber_grenze)
         hinweise.append(
             f"Netto liegt ueber der Vollpfaendungsgrenze {VOLLPFAENDUNGSGRENZE} EUR; "
             "darueber 100 Prozent pfaendbar."
         )
     else:
-        pfaendbar = _quantize(ueber * QUOTE_GLAEUBIGER)
+        pfaendbar = _quantize(ueber * quote_glaeubiger)
 
     schuldneranteil = _quantize(netto_d - pfaendbar)
-
-    if unterhaltspflichten > 5:
-        hinweise.append(
-            "Tabelle stuft bis 5 Unterhaltspflichtige; ab der 6. Person erfolgt "
-            "Anpassung durch das Vollstreckungsgericht (Paragraf 850f ZPO)."
-        )
 
     return Berechnungsergebnis(
         netto=_quantize(netto_d),
@@ -206,14 +233,16 @@ def berechne(
 
 
 def p_konto_freibetrag(unterhaltspflichten: int = 0) -> Decimal:
-    """Sockelbetrag Paragraf 850k ZPO inkl. Erhoehungen."""
+    """Sockelbetrag Paragraf 850k ZPO inkl. Erhoehungen (bis 5 Personen tabelliert;
+    ab der 6. Person Anpassung durch das Vollstreckungsgericht)."""
     if unterhaltspflichten < 0:
         raise ValueError("Unterhaltspflichten darf nicht negativ sein")
     betrag = P_KONTO_SOCKEL
     if unterhaltspflichten >= 1:
         betrag += P_KONTO_ERHOEHUNG_ERSTE
     if unterhaltspflichten >= 2:
-        betrag += P_KONTO_ERHOEHUNG_WEITERE * (unterhaltspflichten - 1)
+        bis_fuenf = min(unterhaltspflichten, 5) - 1
+        betrag += P_KONTO_ERHOEHUNG_WEITERE * bis_fuenf
     return _quantize(betrag)
 
 
@@ -252,7 +281,7 @@ def _build_parser() -> argparse.ArgumentParser:
     p.add_argument(
         "--tabelle",
         action="store_true",
-        help="Druckt eine kompakte Tabelle (0-4 Unterhaltspflichten, 1500-5000 EUR).",
+        help="Druckt eine kompakte Tabelle (0-5 Unterhaltspflichten / 1500-5000 EUR).",
     )
     return p
 
@@ -260,12 +289,12 @@ def _build_parser() -> argparse.ArgumentParser:
 def _print_tabelle() -> None:
     print("Pfaendungstabelle (Auszug) - Tabelle 1.7.2025")
     print()
-    kopf = ["Netto"] + [f"U={n}" for n in range(0, 5)]
+    kopf = ["Netto"] + [f"U={n}" for n in range(0, 6)]
     print(" | ".join(f"{c:>10}" for c in kopf))
     print("-" * (12 * len(kopf)))
     for netto in range(1500, 5001, 100):
         zeile = [f"{netto:>10}"]
-        for n in range(0, 5):
+        for n in range(0, 6):
             r = berechne(Decimal(netto), n)
             zeile.append(f"{r.pfaendbar:>10}")
         print(" | ".join(zeile))

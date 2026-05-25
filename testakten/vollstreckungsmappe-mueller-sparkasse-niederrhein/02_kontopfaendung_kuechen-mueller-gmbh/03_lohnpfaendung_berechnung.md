@@ -9,9 +9,10 @@ Berechnet mit `zwangsvollstreckung/werkzeuge/pfaendungsrechner.py`. Tabelle guel
 | Drittschuldner | Mueller Kuechen GmbH (AG Krefeld HRB 14 432) |
 | Nettogehalt | 4.200,00 EUR / Monat |
 | Unterhaltspflichten | 3 (Ehefrau Dorothea, Kinder Vincent und Leah) |
-| Freibetrag Paragraf 850c | 2.797,30 EUR |
-| Pfaendbar / Monat | 981,89 EUR |
-| Schuldneranteil | 3.218,11 EUR |
+| Freibetrag Paragraf 850c | 2.792,31 EUR |
+| Pfaendbarkeitsquote (Paragraf 850c Abs. 3 ZPO, 3 UP) | 3/10 |
+| Pfaendbar / Monat | 422,30 EUR |
+| Schuldneranteil | 3.777,70 EUR |
 
 Aufruf:
 
@@ -28,7 +29,7 @@ Anmerkung: Da Bernd Mueller zugleich Geschaeftsfuehrer und mittelbarer Gesellsch
 | Drittschuldnerin | Helios Klinik Krefeld GmbH |
 | Nettogehalt | 2.350,00 EUR / Monat (75 Prozent Stelle Krankenschwester) |
 | Unterhaltspflichten | 2 (Kinder Vincent und Leah) |
-| Freibetrag Paragraf 850c | 2.471,26 EUR |
+| Freibetrag Paragraf 850c | 2.466,27 EUR |
 | Pfaendbar / Monat | 0,00 EUR |
 | Schuldneranteil | 2.350,00 EUR |
 
@@ -54,9 +55,9 @@ Beide Schuldner benoetigen fuer den hoeheren Schutz eine Bescheinigung der Famil
 
 | Strang | Erwarteter Ertrag / Monat |
 | --- | --- |
-| Lohnpfaendung Bernd Mueller (GmbH) | 981,89 EUR |
+| Lohnpfaendung Bernd Mueller (GmbH) | 422,30 EUR |
 | Kontopfaendung Postbank (Eingaenge ueber Gehaltsauszahlung) | aufgehend in der Lohnpfaendung, keine doppelte Belastung |
 | Kontopfaendung DKB Dorothea | nur Spitzenwerte ueber 1.560 EUR P-Konto-Sockel; nach Familienkasse-Bescheinigung 2.471,27 EUR |
 | Lohnpfaendung Dorothea Mueller | 0 EUR - nicht durchfuehren |
 
-Tilgung allein aus Lohnpfaendung B. Mueller braucht 272 Monate fuer 267.569,33 EUR - die dingliche ZVG-Vollstreckung ist der wirtschaftlich entscheidende Strang.
+Tilgung allein aus Lohnpfaendung B. Mueller braucht ca. 634 Monate fuer 267.569,33 EUR (422,30 EUR/Monat). Die dingliche ZVG-Vollstreckung in das Grundstueck (Grundschuld 380.000 EUR) ist damit der wirtschaftlich entscheidende Strang, die Lohnpfaendung sichert nur die laufende Verzinsung ab.

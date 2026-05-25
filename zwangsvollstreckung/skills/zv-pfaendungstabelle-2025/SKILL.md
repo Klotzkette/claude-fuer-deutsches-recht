@@ -1,6 +1,6 @@
 ---
 name: zv-pfaendungstabelle-2025
-description: "Berechnet pfändbare Beträge nach Pfändungsfreigrenzenbekanntmachung 1.7.2025 (gültig bis 30.6.2027). Liefert Freibetrag nach § 850c ZPO inklusive Unterhaltsstaffel, Pfändungsstufen, P-Konto-Sockel § 850k ZPO und privilegierte Berechnung § 850d ZPO. Ruft das Python-Werkzeug werkzeuge/pfaendungsrechner.py auf. Lädt bei jeder Berechnung pfändbarer Bezüge."
+description: "Berechnet pfändbare Beträge nach Pfändungsfreigrenzenbekanntmachung 1.7.2025 (gültig bis 30.6.2026; danach jährliche Anpassung nach § 850c Abs. 4 ZPO). Liefert Freibetrag nach § 850c ZPO inklusive Unterhaltsstaffel, Pfändungsstufen, P-Konto-Sockel § 850k ZPO und privilegierte Berechnung § 850d ZPO. Ruft das Python-Werkzeug werkzeuge/pfaendungsrechner.py auf. Lädt bei jeder Berechnung pfändbarer Bezüge."
 ---
 
 # Pfändungstabelle 1.7.2025
@@ -32,12 +32,15 @@ Die Bekanntmachung gilt vom **1.7.2025 bis 30.6.2026**. Die nächste Anpassung e
 
 Aktuelle Eckdaten (Tabelle 1.7.2025):
 
-- Grundfreibetrag ohne Unterhaltspflichten: 1.559,99 EUR netto / Monat (§ 850c Abs. 1 ZPO i.V.m. Aufrundung Abs. 5).
-- Erhöhung erste unterhaltsberechtigte Person: 585,23 EUR.
-- Erhöhung jede weitere Person: 326,04 EUR.
-- Vollpfändungsgrenze: 4.766,99 EUR.
-- Pfändbar nur der den Freibetrag übersteigende Teil, stufenweise mit den Quoten 3/10, 5/10, 7/10 bis zur Kappungsgrenze (alle exakten Werte im `werkzeuge/pfaendungsrechner.py`).
+- Grundfreibetrag ohne Unterhaltspflichten: 1.555,00 EUR netto / Monat (§ 850c Abs. 1 Nr. 1 ZPO i.V.m. Pfändungsfreigrenzenbekanntmachung 2025).
+- Erhöhung erste unterhaltsberechtigte Person: 585,23 EUR (§ 850c Abs. 2 Satz 1 ZPO).
+- Erhöhung jede weitere Person (2. bis 5. Person): 326,04 EUR (§ 850c Abs. 2 Satz 2 ZPO).
+- Vollpfändungsgrenze: 4.766,99 EUR (§ 850c Abs. 3 Satz 3 ZPO).
+- Pfändbarkeitsquote im Tabellenbereich – unterhaltsabhängig nach § 850c Abs. 3 Sätze 1 und 2 ZPO: 0 Unterhaltspflichten 7/10; 1 UP 5/10; 2 UP 4/10; 3 UP 3/10; 4 UP 2/10; 5 UP 1/10. Ab der 6. Person Anpassung durch das Vollstreckungsgericht (§ 850f ZPO); das Werkzeug rechnet ab 6 UP mit den Tabellenwerten für 5 Personen und gibt einen Hinweis aus.
+- Netto wird vor Berechnung auf den nächsten vollen 10-EUR-Schritt abgerundet (§ 850c Abs. 5 ZPO).
 - P-Konto-Sockel § 850k ZPO: 1.560,00 EUR (AG SBV-Bescheinigung Stand 1.7.2025).
+- Pfändbarer Betrag wird nach unten gerundet (§ 850c Abs. 5 ZPO i.V.m. Tabellenmethode).
+- Alle exakten Werte im `werkzeuge/pfaendungsrechner.py` (Single Source of Truth).
 
 Die Werte sind dimensions- und kommageführt im Werkzeug Single-Source-of-Truth; dieses SKILL.md nennt sie zur Orientierung. Komma-Zahlen sind im Body erlaubt, nicht im Frontmatter `description`.
 
