@@ -120,8 +120,8 @@ Spezial-Mandat im gewerblichen Rechtsschutz: Mandant nutzt generative KI für Ma
 
 - `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage
 - `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` — bei Abmahnung
-- `fachanwalt-it-recht-ki-vo-hochrisiko-system-konformitaetsbewertung-art-16-29` — bei High-Risk-AI
-- `fachanwalt-urheber-medienrecht-text-data-mining-44b-urhg-ki-training-opt-out` — Training-Daten-Recht
+- `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung` — bei High-Risk-AI
+- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` — Training-Daten-Recht
 
 ## Quellen und Updates
 
