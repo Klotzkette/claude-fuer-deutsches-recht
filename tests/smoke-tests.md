@@ -17,7 +17,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/fortbestehensprognose-paragrafix-gmbh/` (oder ein eigener BWA-Ordner mit drei Monatsabschlüssen).
 
-**Schritt 1 — Kaltstart:** `/liquiditaetsplanung:liquiditaetsplanung-kaltstart-interview` → liest BWAs/SuSa/Bankbelege, fragt nach Zielhorizont (13/26/52 Wochen) und Aggregations-Ebene.
+**Schritt 1 — Kaltstart:** `/liquiditaetsplanung:liquiditaetsvorschau-3wochen` → liest BWAs/SuSa/Bankbelege, fragt nach Zielhorizont (13/26/52 Wochen) und Aggregations-Ebene.
 
 **Schritt 2 — Plan bauen:** `/liquiditaetsplanung:liquiditaetsvorschau-3-6-12-monate` → ruft `werkzeuge/build_liquiditaetsplan.py` mit den extrahierten JSON-Plan-Keys.
 
@@ -59,7 +59,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/sozialrecht-rollstuhl-tannenberg/`.
 
-**Schritt 1 — Kaltstart:** `/sozialrecht:sozialrecht-kaltstart-interview` → liest Bescheid, ärztliche Stellungnahmen, Versorgungsvorschläge.
+**Schritt 1 — Kaltstart:** `/sozialrecht-kanzlei:sozialrecht-kanzlei-kaltstart-interview` → liest Bescheid, ärztliche Stellungnahmen, Versorgungsvorschläge.
 
 **Schritt 2 — Widerspruch:** Widerspruchsschrift gegen Kostenträger.
 
@@ -123,7 +123,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** Ein Schriftsatz-Entwurf (PDF/DOCX) + Ordner mit 5–10 Anlagen in unterschiedlichen Formaten.
 
-**Schritt 1 — Kaltstart:** `/anlagen-zu-schriftsaetzen:anlagen-zu-schriftsaetzen-kaltstart-interview` → wählt Modus 1 (Auto-Benennung), 2 (Schriftsatz folgt) oder 3 (Prüfmodus).
+**Schritt 1 — Kaltstart:** `/anlagen-zu-schriftsaetzen:anlagen-zu-schriftsaetzen` → wählt Modus 1 (Auto-Benennung), 2 (Schriftsatz folgt) oder 3 (Prüfmodus).
 
 **Schritt 2 — Konvolut bauen:** `python3 werkzeuge/build_anlagenkonvolut.py --eingang <ordner> --ausgang <ziel> --praefix K`.
 
@@ -137,7 +137,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** Eigener Forderungsfall (Rechnung, Mahnungen, Korrespondenz) oder `testakten/inkasso-zahlungsklage-modefuchs/`.
 
-**Schritt 1 — Kaltstart:** `/forderungsmanagement-klagewerkstatt:forderungsmanagement-klagewerkstatt-kaltstart-interview` → erkennt Hauptforderung, Mahnverlauf, B2B/B2C-Konstellation.
+**Schritt 1 — Kaltstart:** `/forderungsmanagement-klagewerkstatt:klagevorlage-aus-eigenen-mustern` → erkennt Hauptforderung, Mahnverlauf, B2B/B2C-Konstellation.
 
 **Schritt 2 — Verzugszinsen:** `python3 werkzeuge/verzugszins_rechner.py --forderung <eur> --beginn <datum> --art b2b`.
 

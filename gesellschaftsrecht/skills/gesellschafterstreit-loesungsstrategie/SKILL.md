@@ -141,7 +141,7 @@ Bei Gesellschafter-Streit (Two-Tier-Konflikt Mehrheits-/Minderheits-Konflikt Ges
 
 ### Abfindungs-Anspruch
 
-- Nach Satzung oder § 738 BGB analog
+- Nach Satzung oder § 728 BGB n.F. analog (seit MoPeG 1.1.2024; vormals § 738 BGB a.F.)
 - **Verkehrswert** als Maßstab BGH II ZR 156/09 — nicht Buchwert
 - IDW S 1 Ertragswert-Bewertung Standard
 
