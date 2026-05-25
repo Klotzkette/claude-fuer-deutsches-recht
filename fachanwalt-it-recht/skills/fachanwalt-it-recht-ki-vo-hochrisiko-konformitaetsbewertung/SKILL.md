@@ -102,7 +102,7 @@ Spezial-Mandat: Mandant entwickelt/vertreibt KI-System, das nach **Anhang III KI
 ## Querverweise
 
 - `fachanwalt-it-recht-orientierung` — Triage
-- `fachanwalt-gewerblicher-rechtsschutz-ki-vo-art-50-generative-ai-transparenz` — bei generativer KI
+- `fachanwalt-gewrechts-ki-vo-50-genai` — bei generativer KI
 - `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` — bei Sicherheitsvorfall
 - `aussenwirtschaft-zoll-sanktionen` — bei Dual-Use-KI
 
