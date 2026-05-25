@@ -43,7 +43,7 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 
 ### Einberufung
 
-- **Frist § 24 Abs. 4 WEG** zwei Wochen vor Versammlung
+- **Frist § 24 Abs. 4 S. 2 WEG n.F.** drei Wochen vor Versammlung (seit WEMoG 1.12.2020; davor zwei Wochen)
 - **Form** schriftlich (Brief E-Mail mit Zustimmung)
 - **Inhalt** Tagesordnung Zeit Ort
 
@@ -52,23 +52,25 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 - Beschlussgegenstand klar bezeichnet
 - "Verschiedenes" als Sammelpunkt unzulässig für eigentliche Beschlüsse
 
-### Beschlussfähigkeit
+### Beschlussfähigkeit (§ 25 Abs. 1 WEG n.F.)
 
-- **§ 25 Abs. 4 WEG** Beschlussfähig wenn mehr als die Hälfte der Miteigentumsanteile (Standard wenn nichts anderes in Gemeinschaftsordnung)
-- Bei Beschlussunfähigkeit nicht beschlussfähige Versammlung — Wiederholungsversammlung
-- **Vorgehensweise** der Versammlung dokumentieren
+- **Seit WEMoG 1.12.2020 kein Quorum mehr** — § 25 Abs. 3 WEG a.F. (Beschlussfähigkeit nur bei > 50 % MEA) wurde gestrichen.
+- Jede Versammlung ist beschlussfähig, unabhängig von der Zahl der anwesenden / vertretenen Eigentümer; Wiederholungsversammlungen entfallen.
+- **Für Beschlüsse vor dem 1.12.2020**: alte Rechtslage § 25 Abs. 3 WEG a.F. (Quorum > 50 % MEA) noch maßgeblich.
+- Abweichende Quoren in der Gemeinschaftsordnung weiterhin zulässig (§ 10 Abs. 1 S. 2 WEG).
 
 ### Mehrheitserfordernisse
 
-- **Einfache Mehrheit** Standard
-- **Doppelt qualifizierte Mehrheit** bei baulichen Veränderungen § 20 WEG (Mehrheit nach Köpfen und nach Miteigentumsanteilen)
-- **Allstimmig** bei Änderung der Gemeinschaftsordnung
-- **Stimmrecht** ein Eigentümer eine Stimme — abweichend in Gemeinschaftsordnung möglich
+- **Einfache Mehrheit** der abgegebenen Stimmen Standard (§ 25 Abs. 1 WEG n.F.)
+- **Bauliche Veränderungen § 20 Abs. 1 WEG n.F.**: einfache Mehrheit ausreichend (Vereinfachung durch WEMoG).
+- **Doppelt qualifizierte Mehrheit** nur für Kostentragung durch alle Eigentümer bei baulichen Maßnahmen (§ 21 Abs. 2 Nr. 1 WEG n.F.): > 2/3 der abgegebenen Stimmen und > 50 % der Miteigentumsanteile.
+- **Allstimmig** bei Änderung der Gemeinschaftsordnung (Vereinbarung § 10 WEG).
+- **Stimmrecht** Kopfprinzip — jeder Eigentümer eine Stimme (§ 25 Abs. 2 WEG, unverändert durch WEMoG); abweichende Stimmprinzipien (Objekt-, Wertprinzip) in der Gemeinschaftsordnung zulässig.
 
-### Stimmrechtsausschluss
+### Stimmrechtsausschluss (§ 25 Abs. 4 WEG n.F.)
 
-- § 25 Abs. 5 WEG bei Beschlüssen, die ihn selbst betreffen — Geschäft mit ihm, Rechtsstreit
-- Bei Verletzung Beschluss anfechtbar
+- § 25 Abs. 4 WEG n.F. (entspricht § 25 Abs. 5 WEG a.F.) bei Beschlüssen, die ihn selbst betreffen — Rechtsgeschäft mit ihm, Rechtsstreit gegen ihn, rechtskräftige Verurteilung nach § 17 WEG.
+- Bei Verletzung Beschluss anfechtbar.
 
 ### Protokoll § 24 Abs. 6 WEG
 

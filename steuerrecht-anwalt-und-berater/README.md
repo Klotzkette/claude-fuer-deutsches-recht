@@ -84,15 +84,68 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ---
 
+## Skill-Workflows
+
+### A) Krisen-Workflow (Steuerberater → Anwalt)
+
+```
+  [stb-bwa-sus-bilanz-pruefung]
+            ↓  Krisensignal erkannt
+  [stb-ueberschuldungspruefung-19-inso] + [stb-liquiditaetsvorschau-3wochen]
+            ↓  gelbe / rote Ampel
+  [stb-warnschreiben-krisensignale]    — BGH IX ZR 285/14 / § 102 StaRUG
+            ↓  Mandantin sucht Anwalt auf
+  [anw-insolvenzreife-pruefung-17-19-inso]  — Diagnose
+            ↓
+  [anw-haftungswarn-15a-inso-mandant]      +  [anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern]
+  (§ 11 BORA-Belehrung)                       (§§ 34, 69 AO, § 266a StGB)
+            ↓  bei Vollmandat Sanierung / Antrag
+  Übergabe an Fachanwalt Insolvenz-/Sanierungsrecht (Plugin `insolvenzrecht`)
+```
+
+### B) Außenprüfung-Workflow
+
+```
+  [anw-aussenpruefung-strategien]
+            ↓  Prüfungsanordnung / Schlussbesprechung mit Mehrergebnis
+  [anw-einspruch-finanzamt]
+            ↓  Vollziehung droht
+  [anw-aussetzung-vollziehung]  (§ 361 AO / § 69 FGO)
+            ↓  Einspruch erfolglos
+  [anw-klage-finanzgericht]
+            ↓  parallel bei Strafverdacht (z. B. § 370 AO, § 26c UStG)
+  [anw-selbstanzeige-371]  (§ 393 Abs. 1 S. 2 AO, BGH 5 StR 191/04)
+```
+
+### C) M&A-Steuer-Workflow
+
+```
+  [anw-mandat-triage-steuerrecht]
+            ↓
+  [anw-verbindliche-auskunft]   — § 89 Abs. 2 AO, vor Strukturmaßnahme
+            ↓
+  [anw-organschaft-konzern-grundlagen]   — ertragst. / USt-/GewSt-Organschaft (§ 14 KStG, § 2 Abs. 2 UStG, § 2 Abs. 2 GewStG)
+            ↓  bei Immobilien im Organkreis / share-deal
+  [anw-grunderwerbsteuer-share-deal-90-prozent]   — § 1 Abs. 2a/3/3a GrEStG, Konzernklausel § 6a GrEStG
+            ↓  bei Konzern ≥ 750 Mio. EUR Konzernumsatz
+  [anw-minbestg-pillar2-konzernbesteuerung]   — Pillar 2 / MinBestG, GIR-Erstabgabe 18 Monate (§ 95 Abs. 1 MinStG)
+            ↓  bei grenzüberschreitenden Konstellationen
+  Plugin [`aussenwirtschaft-zoll-sanktionen`](../aussenwirtschaft-zoll-sanktionen/)   — DBA-Klauseln, APAs, Verrechnungspreise, Sanktionscompliance
+```
+
+---
+
 ## Testakten
 
 Drei fiktive Mandatsakten zum Ausprobieren der Skills:
 
 | Testakte | Inhalt | Passt besonders zu |
 |---|---|---|
-| [`beispielakte-edelholz-berlin`](../testakten/beispielakte-edelholz-berlin/) | Edelholz Manufaktur Berlin GmbH — BWA, SuSa, Liquiditätslage, Steuern/SV-Rückstände | `stb-bwa-sus-bilanz-pruefung`, `stb-liquiditaetsvorschau-3wochen` |
-| [`fortbestehensprognose-paragrafix-gmbh`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | Paragrafix GmbH — Legal-AI-Startup, § 102-StaRUG-Hinweis, BWA, SuSa, 13-Wochen-Liquiditätsplanung | `stb-bwa-sus-bilanz-pruefung`, `stb-liquiditaetsvorschau-3-6-12-monate` |
-| [`grosskanzlei-corporate-ma-datenraum`](../testakten/grosskanzlei-corporate-ma-datenraum/) | Projekt Silberfalke — Umwandlungs- und Steuerstruktur, verbindliche Auskunft, Außenprüfung im M&A-Kontext | `anw-verbindliche-auskunft`, `anw-aussenpruefung-strategien` |
+| [`beispielakte-edelholz-berlin`](../testakten/beispielakte-edelholz-berlin/) | Edelholz Manufaktur Berlin GmbH — BWA, SuSa, Liquiditätslage, Steuern/SV-Rückstände | `stb-bwa-sus-bilanz-pruefung`, `stb-liquiditaetsvorschau-3wochen`, `stb-ueberschuldungspruefung-19-inso`, `stb-drv-sozialversicherungspruefung`, `stb-warnschreiben-krisensignale`, `anw-insolvenzreife-pruefung-17-19-inso`, `anw-haftungswarn-15a-inso-mandant`, `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern` |
+| [`fortbestehensprognose-paragrafix-gmbh`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | Paragrafix GmbH — Legal-AI-Startup, § 102-StaRUG-Hinweis, BWA, SuSa, 13-Wochen-Liquiditätsplanung | `stb-bwa-sus-bilanz-pruefung`, `stb-liquiditaetsvorschau-3-6-12-monate`, `stb-ueberschuldungspruefung-19-inso`, `anw-insolvenzreife-pruefung-17-19-inso`, `anw-stundung-erlass-vollstreckungsaufschub`, `anw-organschaft-konzern-grundlagen` (Holding-Strukturierung), `anw-dac7-dac8-plattformen-krypto` (falls Plattform-/Krypto-Bezug) |
+| [`grosskanzlei-corporate-ma-datenraum`](../testakten/grosskanzlei-corporate-ma-datenraum/) | Projekt Silberfalke — Umwandlungs- und Steuerstruktur, verbindliche Auskunft, Außenprüfung im M&A-Kontext | `anw-verbindliche-auskunft`, `anw-aussenpruefung-strategien`, `anw-organschaft-konzern-grundlagen`, `anw-grunderwerbsteuer-share-deal-90-prozent`, `anw-minbestg-pillar2-konzernbesteuerung` (ab Konzernschwelle 750 Mio. EUR), `anw-einspruch-finanzamt`, `anw-klage-finanzgericht` |
+
+> **Hinweis zum Testakten-Mapping:** Die obenstehende Spalte ist nicht abschließend. Die drei Akten decken jeweils mehrere Phasen des Krisen-/Außenprüfungs-/M&A-Workflows ab — ein passender Skill ist meistens über das Stichwortverzeichnis („Mandatsanlass“) der jeweiligen Akte schnell zu finden. Skills, die nicht direkt zu einer Akte mappen (z. B. `anw-minbestg-pillar2-konzernbesteuerung` ohne 750 Mio. EUR-Konzern in der Akte), werden anhand ihrer eigenen Beispieldaten innerhalb des Skills demonstriert.
 
 ---
 
