@@ -257,12 +257,48 @@ function checkSuspiciousCharacters() {
   }
 }
 
+function checkTestaktenReadme() {
+  const testaktenDir = path.join(root, 'testakten');
+  if (!exists(testaktenDir)) return;
+  const readmePath = path.join(testaktenDir, 'README.md');
+  if (!exists(readmePath)) {
+    errors.push('testakten/README.md fehlt');
+    return;
+  }
+  const entries = fs.readdirSync(testaktenDir, { withFileTypes: true });
+  const folders = entries
+    .filter(e => e.isDirectory() && !e.name.startsWith('.'))
+    .map(e => e.name)
+    .sort();
+  const readme = read(readmePath);
+  const missing = [];
+  for (const folder of folders) {
+    const linkPattern = new RegExp('\\[`' + folder.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&') + '/`\\]');
+    if (!linkPattern.test(readme)) missing.push(folder);
+  }
+  if (missing.length) {
+    errors.push(`testakten/README.md: ${missing.length} Akten-Ordner fehlen in der Tabelle: ${missing.join(', ')}`);
+  }
+  const tableMatches = readme.match(/^\| \[`[a-z0-9][a-z0-9-]*\/`\]/gm) || [];
+  if (tableMatches.length !== folders.length) {
+    errors.push(`testakten/README.md: ${tableMatches.length} Tabellen-Zeilen vs. ${folders.length} Ordner auf dem Dateisystem (Drift)`);
+  }
+  const zipPattern = /testakte-([a-z0-9][a-z0-9-]*)\.zip/g;
+  const zipNames = new Set();
+  for (const m of readme.matchAll(zipPattern)) zipNames.add(m[1]);
+  const zipMissing = folders.filter(f => !zipNames.has(f));
+  if (zipMissing.length) {
+    errors.push(`testakten/README.md: ${zipMissing.length} Akten ohne ZIP-Download-Eintrag: ${zipMissing.join(', ')}`);
+  }
+}
+
 checkMarketplace();
 checkSkills();
 checkPluginManifests();
 checkManagedAgentReferences();
 checkMarkdownLinks();
 checkSuspiciousCharacters();
+checkTestaktenReadme();
 
 if (errors.length) {
   console.error(`validate-plugin-structure failed with ${errors.length} issue(s):`);
