@@ -1,16 +1,21 @@
 ---
-name: asset-deals-im-insolvenzplan-grundstuecke-marken-kundendaten
-description: "Uebertragungsklauseln im Insolvenzplan: aufschiebend bedingt versus aufloesend bedingt fuer Grundstuecke Marken und Kundendaten. Wann braucht es Glaeubigerzustimmung Mehrheiten 244 247 InsO und wann nicht. § 254a InsO als Auflassungsersatz. Kundendaten-Opt-in mit Goodie. Mit Mustertexten."
+name: uebertragende-sanierung-und-asset-deals
+description: "Uebertragende Sanierung und Asset Deals: Verkauf des Geschaeftsbetriebs durch Insolvenzverwalter im Regelverfahren mit Zustimmung Glaeubigerausschuss § 160 InsO oder ueber Insolvenzplan § 254a InsO. Grundstuecke Marken Kundendaten. Aufschiebend versus aufloesend bedingt. Mit Mustertexten."
 ---
 
-# Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung
+# Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans
 
 ## Zweck
 
-Im gestaltenden Teil eines Insolvenzplans (§ 221 InsO) oder StaRUG-Restrukturierungsplans werden regelmäßig Vermögenswerte des Schuldners übertragen — auf einen Erwerber, eine neu gegründete Auffanggesellschaft, einen Gläubiger als Sicherheit oder als Sacheinlage. Dabei stellen sich drei zusammenhängende Konstruktionsfragen:
+Die **übertragende Sanierung** ist in der Praxis der typische Weg, einen Betrieb aus der Insolvenz zu retten: der Insolvenzverwalter verkauft den Geschäftsbetrieb (oder Teile davon) an einen Erwerber oder eine Auffanggesellschaft. Sie kann auf zwei Wegen geschehen:
+
+- **Im Regelverfahren** durch den Insolvenzverwalter — mit Zustimmung des Gläubigerausschusses bzw. der Gläubigerversammlung (§§ 160-162 InsO).
+- **Über einen Insolvenzplan** — durch rechtsgestaltende Wirkung des bestätigten Plans (§§ 254, 254a InsO).
+
+Dieser Skill behandelt beide Varianten und zeigt die drei zentralen Konstruktionsfragen, die in jeder Übertragungsklausel zu beantworten sind:
 
 1. **Bedingungsfrage:** aufschiebend (§ 158 Abs. 1 BGB) oder auflösend (§ 158 Abs. 2 BGB) bedingt?
-2. **Zustimmungsfrage:** Braucht die Übertragung eine separate Einzelzustimmung der Gläubiger/Betroffenen — oder genügt die rechtsgestaltende Wirkung des bestätigten Plans (§ 254 InsO)?
+2. **Zustimmungsfrage:** Welche Zustimmungen sind nötig — Gläubigerausschuss (§ 160 InsO), Gläubigerversammlung (§ 162 InsO), Einzelzustimmung Sicherungsnehmer, datenschutzrechtliche Einwilligung Betroffener — oder genügt die rechtsgestaltende Wirkung des bestätigten Plans (§ 254 InsO)?
 3. **Vollzugsfrage:** Wie wirkt der bestätigte Plan auf das jeweilige Übertragungsregime (Grundbuch, Markenregister, datenschutzrechtliche Zweckbindung)?
 
 Dieser Skill liefert die Entscheidungsmatrix für drei typische Asset-Klassen: Grundstücke, gewerbliche Schutzrechte (insb. Marken), Kundendaten.
@@ -61,6 +66,41 @@ Dieser Skill liefert die Entscheidungsmatrix für drei typische Asset-Klassen: G
 
 ## Teil B — Zustimmung der Gläubiger
 
+### B.0 Übertragende Sanierung im Regelverfahren (außerhalb des Plans)
+
+Im **Regelverfahren** veräußert der Insolvenzverwalter den Geschäftsbetrieb durch privatrechtlichen Asset-Deal-Vertrag (Asset Purchase Agreement, APA) — meist mit einer Auffanggesellschaft. Die §§ 254, 254a InsO greifen **nicht**, weil kein Plan vorliegt. Stattdessen:
+
+| Vorgang | Norm | Wirkung |
+|---|---|---|
+| Veräußerung Betrieb oder wesentlicher Teile | § 160 Abs. 2 Nr. 1 InsO | Zustimmung Gläubigerausschuss zwingend |
+| Veräußerung an besonders Interessierte (z.B. Schuldner, Geschäftsleitung, naher Angehöriger, Gesellschafter mit > 20 %) | § 162 InsO | Zustimmung Gläubigerversammlung zusätzlich |
+| Veräußerung eines Lagers im Ganzen | § 160 Abs. 2 Nr. 2 InsO | Zustimmung Gläubigerausschuss |
+| Aufnahme Darlehen, das die Masse erheblich belastet | § 160 Abs. 2 Nr. 3 InsO | Zustimmung Gläubigerausschuss |
+| Klage- oder Prozessführung von erheblicher Bedeutung | § 160 Abs. 2 Nr. 4 InsO | Zustimmung Gläubigerausschuss |
+
+**Wichtig:** Das Fehlen der Zustimmung macht das Geschäft nach außen **nicht** unwirksam (§ 164 InsO) — der Verwalter haftet aber persönlich nach § 60 InsO. In der Praxis wird die Zustimmung daher immer eingeholt und im Sitzungsprotokoll des Gläubigerausschusses dokumentiert.
+
+**Unterschiede der beiden Wege:**
+
+| Aspekt | Regelverfahren (Asset Deal) | Insolvenzplan |
+|---|---|---|
+| Vehikel | privatrechtlicher Kaufvertrag | bestätigter Plan |
+| Zustimmungs-Mechanik | § 160-162 InsO (Ausschuss/Versammlung) | §§ 244, 245 InsO (Gruppen + Cramdown) |
+| Dingliche Wirkung | nur durch Erfüllungsgeschäft (Notar, Register) | § 254a InsO ersetzt Erklärungen |
+| Lastenfreistellung | Verhandlung mit jedem Sicherungsnehmer | im Plan integrierbar |
+| Geschwindigkeit | i.d.R. schneller (Wochen bis wenige Monate) | langsamer (mehrere Monate) |
+| Anfechtungsrisiko | §§ 129 ff. InsO bleiben | durch Plan-Wirkung reduziert |
+| Steuerliche Sanierungserleichterungen (§ 3a EStG) | nur eingeschränkt | umfassend bei Plan-Sanierung |
+| Arbeitsverhältnisse | § 613a BGB volle Wirkung | § 613a BGB volle Wirkung; Sonderkündigungsrecht § 113 InsO bleibt |
+| Restschuldbefreiung Inhaber | bleibt im Verfahren | über Plan möglich |
+
+**Entscheidungs-Faustregeln:**
+
+- **Asset Deal außerhalb Plan**, wenn: Zeitdruck, klare Erwerber-Konstellation, überschaubare Sicherheiten-Lage, einfache Strukturen.
+- **Insolvenzplan**, wenn: viele Sicherheiten, komplexe Lastenfreistellung, steuerliche Sanierungsklausel-Bedarf, Erhalt der Schuldner-Rechtsform gewünscht, Rangrücktritt großer Gläubiger sinnvoll.
+
+→ Skills im Plugin `insolvenzverwaltung`: `iv-massemehrung-asset-realisation`, `iv-sicherung-betriebsfortfuehrung`, `iv-eigenverwaltung-sachwaltung`.
+
 ### B.1 Grundsatz: Planbestätigung ersetzt Einzelzustimmung
 
 Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltenden Teil** vorgesehenen Wirkungen für und gegen alle Beteiligten ein (§ 254 Abs. 1 InsO). Das gilt auch dann, wenn der einzelne Gläubiger gegen den Plan gestimmt hat — die Mehrheits- und Cramdown-Mechanismen der §§ 244, 245 InsO ersetzen die Einzelzustimmung.
@@ -98,6 +138,8 @@ Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltende
 ---
 
 ## Teil C — Anwendung auf drei Asset-Klassen
+
+Die folgenden Klauseltypen lassen sich sowohl im Asset-Deal-Vertrag (Regelverfahren) als auch im gestaltenden Teil des Insolvenzplans verwenden. Wo § 254a InsO eingreift, ist das ausdrücklich vermerkt.
 
 ### C.1 Grundstücksübertragung
 
@@ -295,8 +337,10 @@ Für die volle Plan-Mechanik siehe Plugin `insolvenzplan-starug-planwerkstatt`:
 
 ---
 
-## Mini-Checkliste vor Einreichung des Plans
+## Mini-Checkliste vor Vollzug (Plan-Einreichung oder Asset-Deal-Signing)
 
+- [ ] Verfahrensweg gewählt (Regelverfahren-Asset-Deal vs. Insolvenzplan) und begründet
+- [ ] Bei Regelverfahren: Zustimmung Gläubigerausschuss § 160 InsO eingeholt; bei besonders Interessierten zusätzlich Gläubigerversammlung § 162 InsO
 - [ ] Asset-Inventar mit Zuordnung zu §-254a-fähig vs. nicht
 - [ ] Bedingungs-Konstruktion gewählt (aufschiebend/auflösend) und begründet
 - [ ] § 254a-Klauseln nach den drei Bestandteilen (Willenserklärung, Form, Register) durchformuliert
