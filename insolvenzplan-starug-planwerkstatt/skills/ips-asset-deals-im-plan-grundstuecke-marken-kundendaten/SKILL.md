@@ -1,5 +1,5 @@
 ---
-name: ips-uebertragungen-aufschiebend-vs-aufloesend-bedingt-glaeubigerzustimmung
+name: ips-asset-deals-im-plan-grundstuecke-marken-kundendaten
 description: "Uebertragungsklauseln im Insolvenzplan: aufschiebend bedingt versus aufloesend bedingt fuer Grundstuecke Marken und Kundendaten. Wann braucht es Glaeubigerzustimmung Mehrheiten 244 247 InsO und wann nicht. § 254a InsO als Auflassungsersatz. Kundendaten-Opt-in mit Goodie. Mit Mustertexten."
 ---
 
