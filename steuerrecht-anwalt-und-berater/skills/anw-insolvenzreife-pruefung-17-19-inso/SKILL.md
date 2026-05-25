@@ -11,6 +11,8 @@ Strukturiertes **anwaltliches Prüfgutachten** zur Insolvenzreife einer GmbH/UG,
 
 Im Gegensatz zum StB-Skill `stb-ueberschuldungspruefung-19-inso` (technische Indikation mit Ampel als Grundlage für den Mandantenhinweis) liefert dieser Skill die **vollständige rechtliche Beurteilung** mit Subsumtion, Beweiswürdigung und unmittelbarer Antragspflicht-Bewertung.
 
+> ℹ️ **Rollenabgrenzung zu `anw-haftungswarn-15a-inso-mandant`:** Dieser Skill ist **analytisch-diagnostisch** (Prüfgutachten Insolvenzreife). Das nachgelagerte **präventiv-belehrende** Warnschreiben an den GF (§ 11 BORA-Dokumentation der Belehrung über § 15a InsO-Antragspflicht und ihre Folgen) erstellt `anw-haftungswarn-15a-inso-mandant`. Standardablauf: erst dieser Skill (Diagnose Insolvenzreife), dann `anw-haftungswarn-15a-inso-mandant` (Mandantenbelehrung + Dokumentation).
+
 > ℹ️ **Abgrenzung Steueranwalt vs. Fachanwalt Insolvenzrecht:** Der Steueranwalt kann die Insolvenzreife rechtlich beurteilen und den Mandanten belehren (§ 3 BRAO, kein Vorbehalt für Fachanwalt). Für gerichtsfeste insolvenzrechtliche Sanierungsbegleitung, Schutzschirmverfahren (§ 270b InsO), StaRUG-Restrukturierungsplan oder Insolvenzantragstellung **Übergabe an Fachanwalt Insolvenz-/Sanierungsrecht** empfehlen. Das Power-Plugin `insolvenzrecht` (insbesondere `ueberschuldung-pruefung-19-inso`, `zahlungsunfaehigkeit-pruefung-17-inso`, `antragspflicht-15a-inso`) ist hier die fachliche Vertiefung.
 
 ## Kaltstart-Rückfragen

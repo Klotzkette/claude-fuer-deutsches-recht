@@ -141,6 +141,8 @@ Folgt grundsätzlich der KSt-Organschaft (Akzessorietät). Eigenständige Voraus
 - Rückwirkende Aberkennung-Risiko abklären.
 - Übergangsbesteuerung (Schlussbesteuerung Organgesellschaft).
 - USt-Voranmeldung wieder getrennt.
+- **GrESt-Trigger bei Immobilien im Organkreis:** Anteilsveräußerung / Anteilsübertragung an Organgesellschaften mit Grundbesitz kann § 1 Abs. 2a / Abs. 3 / Abs. 3a GrEStG auslösen — vor jeder Strukturmaßnahme Skill `anw-grunderwerbsteuer-share-deal-90-prozent` durchlaufen. Prüfung Konzernklausel § 6a GrEStG (5-Jahres-Vor-/Nachbehaltensfrist, 95-%-Schwelle).
+- **Asset-Deal in Organkreis:** Bei Übertragung von Grundstücken zwischen Organträger und Organgesellschaft GrESt-Pflicht nach § 1 Abs. 1 Nr. 1 GrEStG — ggf. § 6a GrEStG (Konzernklausel).
 
 ## Risiken und Red Flags
 

@@ -9,6 +9,8 @@ description: Anwaltliche Beratung und Warnschreiben an GmbH-Geschaeftsfuehrung b
 
 Anwaltliche Beratung und schriftliche Dokumentation gegenüber der Geschäftsführung einer GmbH/UG, wenn die Mandantin (häufig nach Hinweis des Steuerberaters via `stb-warnschreiben-krisensignale`) bei dem Anwalt vorspricht und sich Insolvenzreife verdichtet. Anders als der Steuerberater **darf und muss** der Anwalt die rechtliche Beurteilung der Antragspflicht treffen — und sich dabei selbst absichern.
 
+> ℹ️ **Rollenabgrenzung zu `anw-insolvenzreife-pruefung-17-19-inso`:** Dieser Skill ist **präventiv-belehrend** — erstellt das schriftliche Warn-/Belehrungsschreiben an den GF nach erfolgter Reife-Analyse. Die vorgeschaltete **analytische** Prüfung der Insolvenzreife (§§ 17, 19 InsO Subsumtion, Beweiswürdigung) leistet `anw-insolvenzreife-pruefung-17-19-inso`. Standardablauf: erst `anw-insolvenzreife-pruefung-17-19-inso` (Diagnose), dann dieser Skill (Mandantenbelehrung + Dokumentation).
+
 > Dieses Schreiben dokumentiert die Beratungsleistung. Es ist **kein** anwaltliches Mahn-/Warnschreiben gegen den Mandanten, sondern eine schriftliche **Belehrung über die Antragspflicht und ihre Folgen** mit Bestätigung der Beratung — Pflicht aus § 11 BORA und Selbstschutz vor späteren Regressansprüchen.
 
 ## Eingaben
