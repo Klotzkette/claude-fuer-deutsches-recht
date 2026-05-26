@@ -84,13 +84,8 @@ def plugin_json(slug: str, kanzlei: str) -> str:
         "version": "0.1.0",
         "description": (
             f"Hauseigenes Klage-Plugin der Kanzlei {kanzlei}. "
-            "Erzeugt aus der eigenen Standardvorlage und den extrahierten Hausregeln "
-            "durch die Klagewerkstatt (forderungsmanagement-klagewerkstatt). "
-            "Nimmt im Laufzeitbetrieb nur noch Sachverhalt und Beklagtenadresse entgegen, "
-            "prüft online die sachliche und örtliche Zuständigkeit "
-            "(justizadressen.nrw.de und justiz.de Gerichtssuche; "
-            "§§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG) und liefert die fertige "
-            "Klageschrift als DOCX und Markdown in der hauseigenen Formatvorlage."
+            "Hausvorlage befuellen, Zustaendigkeit online pruefen (justizadressen.nrw.de und justiz.de) "
+            "und Klageschrift als DOCX und Markdown ausgeben. Kein Lernlauf."
         ),
         "license": "Apache-2.0 OR MIT",
         "author": {"name": "Klotzkette"},
@@ -120,16 +115,7 @@ def skill_md(slug: str, kanzlei: str, regeln: dict) -> str:
     anlagensigel = regeln.get("stil", {}).get("anlagensigel", "K")
     return f"""---
 name: klage-erstellen
-description: Hauseigener Klage-Skill der Kanzlei {kanzlei}. Erzeugt Forderungsklagen direkt in der hauseigenen Standardvorlage. Nimmt nur Sachverhalt und Beklagtenadresse entgegen, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12, 13, 29, 29c ZPO; §§ 23, 71 GVG), füllt die hinterlegte Vorlage und liefert die Klageschrift als DOCX und Markdown. Keine Extraktion, kein Lernlauf.
-language: de
-license: Apache-2.0 OR MIT
-when_to_use: |
-  Trigger phrases and example requests:
-  - neue Klage in Hausvorlage {kanzlei}
-  - Forderungsklage erstellen
-  - Klage in unserer Standardvorlage
-  - Inkasso-Klage ohne Lernlauf
-  - {slug} klage
+description: Hauseigener Klage-Skill der Kanzlei {kanzlei}. Trigger u. a. "neue Klage in Hausvorlage {kanzlei}", "Forderungsklage erstellen", "Klage in unserer Standardvorlage", "Inkasso-Klage ohne Lernlauf", "{slug} klage". Nimmt Sachverhalt und Beklagtenadresse entgegen, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12/13/29/29c ZPO; §§ 23 und 71 GVG), füllt die hinterlegte Hausvorlage und liefert die Klageschrift als DOCX und Markdown. Keine Extraktion, kein Lernlauf.
 ---
 
 # Klage-Erstellen — {kanzlei}

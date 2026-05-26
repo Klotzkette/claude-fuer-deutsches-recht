@@ -1,3 +1,12 @@
+# v12.0.1 — Hotfix forderungsmanagement-klagewerkstatt Plugin-Generator
+
+## Fix
+- `scripts/plugin_aus_hausregeln.py` erzeugt jetzt validatorkonforme Mini-Plugins (`klagewerkstatt-<slug>`):
+  - plugin.json description gekuerzt auf 218 Zeichen (vorher 514, Marketplace-Limit 300)
+  - Zahl-Komma-Zahl-Sequenz `12, 13, 29, 29c` und `23, 71` ersetzt durch `12/13/29/29c` und `23 und 71` in plugin.json + SKILL.md description
+  - Frontmatter-Felder `language`, `license`, `when_to_use` aus erzeugter SKILL.md entfernt (Trigger-Phrasen in description integriert)
+- Erzeugte hauseigene Plugins lassen sich jetzt sofort in Claude Code installieren.
+
 ## v12.0.0 — 2026-05-26 — Strafrecht-Ausbau: Nebenklage, Zeugenbeistand, Adhaesion, Insolvenzantrag der StA + Codex-Fixes + Bug-Hunt
 
 ### Major-Feature: 4 neue Skills im Plugin `fachanwalt-strafrecht`
