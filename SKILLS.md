@@ -8,2197 +8,1706 @@ Thematisch sortierte Uebersicht aller **1823 Skills** in **98 Plugins**. Jeder S
 
 ## Inhaltsverzeichnis
 
-- [Arbeitsrecht & Arbeitszeugnis](#arbeitsrecht-arbeitszeugnis) — 4 Plugins, 142 Skills
-- [Steuerrecht & Buchhaltung](#steuerrecht-buchhaltung) — 1 Plugins, 35 Skills
-- [Strafrecht & Wirtschaftsstrafrecht](#strafrecht-wirtschaftsstrafrecht) — 4 Plugins, 60 Skills
-- [Familien- & Erbrecht](#familien--erbrecht) — 3 Plugins, 37 Skills
-- [Miet-, Wohnungs- & Immobilienrecht](#miet--wohnungs--immobilienrecht) — 6 Plugins, 92 Skills
+- [Arbeitsrecht & Arbeitszeugnis](#arbeitsrecht--arbeitszeugnis) — 4 Plugins, 142 Skills
+- [Steuerrecht & Buchhaltung](#steuerrecht--buchhaltung) — 1 Plugins, 35 Skills
+- [Strafrecht & Wirtschaftsstrafrecht](#strafrecht--wirtschaftsstrafrecht) — 4 Plugins, 60 Skills
+- [Familien- & Erbrecht](#familien---erbrecht) — 3 Plugins, 37 Skills
+- [Miet-, Wohnungs- & Immobilienrecht](#miet--wohnungs---immobilienrecht) — 6 Plugins, 92 Skills
 - [Sozialrecht](#sozialrecht) — 2 Plugins, 36 Skills
-- [Medizin- & Versicherungsrecht](#medizin--versicherungsrecht) — 2 Plugins, 30 Skills
-- [Verkehrs-, Transport- & Sportrecht](#verkehrs--transport--sportrecht) — 4 Plugins, 57 Skills
-- [Gewerblicher Rechtsschutz, Urheber- & Medienrecht](#gewerblicher-rechtsschutz-urheber--medienrecht) — 6 Plugins, 90 Skills
-- [IT-Recht, Datenschutz & Digitalregulierung](#it-recht-datenschutz-digitalregulierung) — 8 Plugins, 137 Skills
-- [Bank-, Kapitalmarkt- & Vergaberecht](#bank--kapitalmarkt--vergaberecht) — 2 Plugins, 30 Skills
-- [Insolvenz, Sanierung & Liquiditaet](#insolvenz-sanierung-liquiditaet) — 8 Plugins, 154 Skills
-- [Internationales- & Migrationsrecht](#internationales--migrationsrecht) — 5 Plugins, 85 Skills
-- [Verwaltungs-, Verfassungs-, Energie- & Umweltrecht](#verwaltungs--verfassungs--energie--umweltrecht) — 6 Plugins, 90 Skills
-- [Agrar-, Handels- & Gesellschaftsrecht](#agrar--handels--gesellschaftsrecht) — 3 Plugins, 59 Skills
-- [Corporate, M&A & Gruendung](#corporate-ma-gruendung) — 5 Plugins, 208 Skills
-- [Kartell-, Produkt- & Wettbewerbsrecht](#kartell--produkt--wettbewerbsrecht) — 2 Plugins, 33 Skills
-- [Verbraucher-, Internet- & Reiserecht](#verbraucher--internet--reiserecht) — 1 Plugins, 12 Skills
-- [Vertragsrecht, BGB & Bereicherung](#vertragsrecht-bgb-bereicherung) — 5 Plugins, 93 Skills
-- [Forderungsmanagement & Zwangsvollstreckung](#forderungsmanagement-zwangsvollstreckung) — 3 Plugins, 41 Skills
-- [Prozessrecht & Schriftsatzwerkstatt](#prozessrecht-schriftsatzwerkstatt) — 7 Plugins, 121 Skills
-- [Compliance, AML & ESG](#compliance-aml-esg) — 1 Plugins, 21 Skills
-- [Kanzleimanagement & Praxisorganisation](#kanzleimanagement-praxisorganisation) — 5 Plugins, 109 Skills
-- [Juristische Methodik & Ausbildung](#juristische-methodik-ausbildung) — 5 Plugins, 51 Skills
+- [Medizin- & Versicherungsrecht](#medizin---versicherungsrecht) — 2 Plugins, 30 Skills
+- [Verkehrs-, Transport- & Sportrecht](#verkehrs--transport---sportrecht) — 4 Plugins, 57 Skills
+- [Gewerblicher Rechtsschutz, Urheber- & Medienrecht](#gewerblicher-rechtsschutz-urheber---medienrecht) — 6 Plugins, 90 Skills
+- [IT-Recht, Datenschutz & Digitalregulierung](#it-recht-datenschutz--digitalregulierung) — 8 Plugins, 137 Skills
+- [Bank-, Kapitalmarkt- & Vergaberecht](#bank--kapitalmarkt---vergaberecht) — 2 Plugins, 30 Skills
+- [Insolvenz, Sanierung & Liquiditaet](#insolvenz-sanierung--liquiditaet) — 8 Plugins, 154 Skills
+- [Internationales- & Migrationsrecht](#internationales---migrationsrecht) — 5 Plugins, 85 Skills
+- [Verwaltungs-, Verfassungs-, Energie- & Umweltrecht](#verwaltungs--verfassungs--energie---umweltrecht) — 6 Plugins, 90 Skills
+- [Agrar-, Handels- & Gesellschaftsrecht](#agrar--handels---gesellschaftsrecht) — 3 Plugins, 59 Skills
+- [Corporate, M&A & Gruendung](#corporate-ma--gruendung) — 5 Plugins, 208 Skills
+- [Kartell-, Produkt- & Wettbewerbsrecht](#kartell--produkt---wettbewerbsrecht) — 2 Plugins, 33 Skills
+- [Verbraucher-, Internet- & Reiserecht](#verbraucher--internet---reiserecht) — 1 Plugins, 12 Skills
+- [Vertragsrecht, BGB & Bereicherung](#vertragsrecht-bgb--bereicherung) — 5 Plugins, 93 Skills
+- [Forderungsmanagement & Zwangsvollstreckung](#forderungsmanagement--zwangsvollstreckung) — 3 Plugins, 41 Skills
+- [Prozessrecht & Schriftsatzwerkstatt](#prozessrecht--schriftsatzwerkstatt) — 7 Plugins, 121 Skills
+- [Compliance, AML & ESG](#compliance-aml--esg) — 1 Plugins, 21 Skills
+- [Kanzleimanagement & Praxisorganisation](#kanzleimanagement--praxisorganisation) — 5 Plugins, 109 Skills
+- [Juristische Methodik & Ausbildung](#juristische-methodik--ausbildung) — 5 Plugins, 51 Skills
 
 ---
 
 ## Arbeitsrecht & Arbeitszeugnis
 
-### [arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht) (78 Skills)
+### [arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht) · 78 Skills
 
-- [`abmahnung-arbeitsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/abmahnung-arbeitsrecht)
-- [`agg-pruefung-bewerber-und-beschaeftigte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/agg-pruefung-bewerber-und-beschaeftigte)
-- [`arbeitnehmer-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitnehmer-status)
-- [`arbeitsrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitsrecht-anpassen)
-- [`arbeitsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitsrecht-kaltstart-interview)
-- [`arbeitsrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitsrecht-mandat-arbeitsbereich)
-- [`aufhebungsvertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/aufhebungsvertrag)
-- [`aufhebungsvertrag-sperrzeit-prognose`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/aufhebungsvertrag-sperrzeit-prognose)
-- [`bag-equal-pay-paarvergleich-8azr30024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/bag-equal-pay-paarvergleich-8azr30024)
-- [`bag-freistellungsklausel-unwirksam-5azr10825`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/bag-freistellungsklausel-unwirksam-5azr10825)
-- [`bag-mindesturlaub-kein-verzicht-9azr10424`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/bag-mindesturlaub-kein-verzicht-9azr10424)
-- [`betriebsrat-anhoerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsrat-anhoerung)
-- [`betriebsrat-beschluss-heilung-nachtraeglich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsrat-beschluss-heilung-nachtraeglich)
-- [`betriebsrat-ladung-und-ersatzmitglieder-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsrat-ladung-und-ersatzmitglieder-pruefen)
-- [`betriebsuebergang-613a-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsuebergang-613a-pruefen)
-- [`einstellungspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/einstellungspruefung)
-- [`entfristung-elektronische-signatur-vorsicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-elektronische-signatur-vorsicht)
-- [`entfristung-grundwarnung-drei-wochen-frist`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-grundwarnung-drei-wochen-frist)
-- [`entfristung-guetetermin-und-kammertermin-sprechzettel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-guetetermin-und-kammertermin-sprechzettel)
-- [`entfristung-klageschrift-anwalt-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-klageschrift-anwalt-baustein)
-- [`entfristung-klageschrift-laie-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-klageschrift-laie-baustein)
-- [`entfristung-laie-oder-anwalt-frage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-laie-oder-anwalt-frage)
-- [`entfristung-output-warnschriftsatz-laie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-output-warnschriftsatz-laie)
-- [`entfristung-rechtsfolge-16-tzbfg-unbefristet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-rechtsfolge-16-tzbfg-unbefristet)
-- [`entfristung-sachgrund-pruefen-14-abs-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1)
-- [`entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung)
-- [`entfristung-sachgrundlos-14-abs-2a-neugruendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrundlos-14-abs-2a-neugruendung)
-- [`entfristung-sachgrundlos-14-abs-3-aelter-52`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrundlos-14-abs-3-aelter-52)
-- [`entfristung-schriftform-14-abs-4-erkennen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-schriftform-14-abs-4-erkennen)
-- [`entfristung-triage-was-will-user`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-triage-was-will-user)
-- [`entfristung-vergleichsverhandlung-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-vergleichsverhandlung-checkliste)
-- [`expansion-aktualisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/expansion-aktualisierung)
-- [`expansion-auftakt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/expansion-auftakt)
-- [`fehlzeit-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/fehlzeit-erfassen)
-- [`fehlzeiten-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/fehlzeiten-register)
-- [`handbuch-aktualisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/handbuch-aktualisierung)
-- [`hinschg-whistleblower-antwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/hinschg-whistleblower-antwort)
-- [`internationale-expansion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/internationale-expansion)
-- [`interne-untersuchung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/interne-untersuchung)
-- [`kuendigungs-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kuendigungs-pruefung)
-- [`kuendigungsschutzklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kuendigungsschutzklage)
-- [`kueschk-abfindung-faustformel-und-spannweite`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-abfindung-faustformel-und-spannweite)
-- [`kueschk-allgemeiner-und-besonderer-feststellungsantrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-allgemeiner-und-besonderer-feststellungsantrag)
-- [`kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst)
-- [`kueschk-anwendbarkeit-kschg-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-anwendbarkeit-kschg-pruefen)
-- [`kueschk-aufloesungsantrag-arbeitnehmer-9-kschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-aufloesungsantrag-arbeitnehmer-9-kschg)
-- [`kueschk-berufung-und-revision-lag-bag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-berufung-und-revision-lag-bag)
-- [`kueschk-erwiderung-arbeitgeber-strategien-typisch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-erwiderung-arbeitgeber-strategien-typisch)
-- [`kueschk-formfehler-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-formfehler-pruefen)
-- [`kueschk-frist-und-zugang-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-frist-und-zugang-pruefen)
-- [`kueschk-grundwarnung-falsche-wiese-und-haftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-grundwarnung-falsche-wiese-und-haftung)
-- [`kueschk-guetetermin-strategie-und-sprechzettel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-guetetermin-strategie-und-sprechzettel)
-- [`kueschk-kammertermin-sprechzettel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-kammertermin-sprechzettel)
-- [`kueschk-klageschrift-anwalt-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-klageschrift-anwalt-baustein)
-- [`kueschk-klageschrift-laie-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-klageschrift-laie-baustein)
-- [`kueschk-kuendigungsgrund-personen-verhalten-betrieb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-kuendigungsgrund-personen-verhalten-betrieb)
-- [`kueschk-muendliche-verhandlung-praxistipps-laie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-muendliche-verhandlung-praxistipps-laie)
-- [`kueschk-output-warnschriftsatz-laie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-output-warnschriftsatz-laie)
-- [`kueschk-paragraph-12-kschg-neuer-job-einseitig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-paragraph-12-kschg-neuer-job-einseitig)
-- [`kueschk-replik-arbeitnehmer-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-replik-arbeitnehmer-baustein)
-- [`kueschk-sonderkuendigungsschutz-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-sonderkuendigungsschutz-checkliste)
-- [`kueschk-streitwert-kostenfolge-prozesskostenhilfe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-streitwert-kostenfolge-prozesskostenhilfe)
-- [`kueschk-stricken-anwalt-risiko-und-vergleichsdruck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-stricken-anwalt-risiko-und-vergleichsdruck)
-- [`kueschk-triage-laie-oder-anwalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-triage-laie-oder-anwalt)
-- [`kueschk-vergleichsverhandlung-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-vergleichsverhandlung-checkliste)
-- [`kueschk-weiterbeschaeftigungsantrag-grosser-senat`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-weiterbeschaeftigungsantrag-grosser-senat)
-- [`kueschk-zeugnisanspruch-und-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-zeugnisanspruch-und-vergleich)
-- [`lohn-arbeitszeit-fragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/lohn-arbeitszeit-fragen)
-- [`lohnsteuer-sozialversicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/lohnsteuer-sozialversicherung)
-- [`mandat-triage-arbeitsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/mandat-triage-arbeitsrecht)
-- [`massenentlassung-17-kschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/massenentlassung-17-kschg)
-- [`mindestlohn-arbeitszeit-erfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/mindestlohn-arbeitszeit-erfassung)
-- [`richtlinien-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/richtlinien-entwurf)
-- [`untersuchung-abfrage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchung-abfrage)
-- [`untersuchung-ergaenzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchung-ergaenzen)
-- [`untersuchung-eroeffnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchung-eroeffnen)
-- [`untersuchungs-memo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchungs-memo)
-- [`untersuchungs-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchungs-zusammenfassung)
+| Skill | Skill |
+|---|---|
+| [`abmahnung-arbeitsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/abmahnung-arbeitsrecht/SKILL.md) | [`kuendigungs-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md) |
+| [`agg-pruefung-bewerber-und-beschaeftigte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/agg-pruefung-bewerber-und-beschaeftigte/SKILL.md) | [`kuendigungsschutzklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kuendigungsschutzklage/SKILL.md) |
+| [`arbeitnehmer-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitnehmer-status/SKILL.md) | [`kueschk-abfindung-faustformel-und-spannweite`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-abfindung-faustformel-und-spannweite/SKILL.md) |
+| [`arbeitsrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitsrecht-anpassen/SKILL.md) | [`kueschk-allgemeiner-und-besonderer-feststellungsantrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-allgemeiner-und-besonderer-feststellungsantrag/SKILL.md) |
+| [`arbeitsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitsrecht-kaltstart-interview/SKILL.md) | [`kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst/SKILL.md) |
+| [`arbeitsrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/arbeitsrecht-mandat-arbeitsbereich/SKILL.md) | [`kueschk-anwendbarkeit-kschg-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-anwendbarkeit-kschg-pruefen/SKILL.md) |
+| [`aufhebungsvertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/aufhebungsvertrag/SKILL.md) | [`kueschk-aufloesungsantrag-arbeitnehmer-9-kschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-aufloesungsantrag-arbeitnehmer-9-kschg/SKILL.md) |
+| [`aufhebungsvertrag-sperrzeit-prognose`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/aufhebungsvertrag-sperrzeit-prognose/SKILL.md) | [`kueschk-berufung-und-revision-lag-bag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-berufung-und-revision-lag-bag/SKILL.md) |
+| [`bag-equal-pay-paarvergleich-8azr30024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/bag-equal-pay-paarvergleich-8azr30024/SKILL.md) | [`kueschk-erwiderung-arbeitgeber-strategien-typisch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-erwiderung-arbeitgeber-strategien-typisch/SKILL.md) |
+| [`bag-freistellungsklausel-unwirksam-5azr10825`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/bag-freistellungsklausel-unwirksam-5azr10825/SKILL.md) | [`kueschk-formfehler-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-formfehler-pruefen/SKILL.md) |
+| [`bag-mindesturlaub-kein-verzicht-9azr10424`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/bag-mindesturlaub-kein-verzicht-9azr10424/SKILL.md) | [`kueschk-frist-und-zugang-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-frist-und-zugang-pruefen/SKILL.md) |
+| [`betriebsrat-anhoerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsrat-anhoerung/SKILL.md) | [`kueschk-grundwarnung-falsche-wiese-und-haftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-grundwarnung-falsche-wiese-und-haftung/SKILL.md) |
+| [`betriebsrat-beschluss-heilung-nachtraeglich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsrat-beschluss-heilung-nachtraeglich/SKILL.md) | [`kueschk-guetetermin-strategie-und-sprechzettel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-guetetermin-strategie-und-sprechzettel/SKILL.md) |
+| [`betriebsrat-ladung-und-ersatzmitglieder-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsrat-ladung-und-ersatzmitglieder-pruefen/SKILL.md) | [`kueschk-kammertermin-sprechzettel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-kammertermin-sprechzettel/SKILL.md) |
+| [`betriebsuebergang-613a-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/betriebsuebergang-613a-pruefen/SKILL.md) | [`kueschk-klageschrift-anwalt-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-klageschrift-anwalt-baustein/SKILL.md) |
+| [`einstellungspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/einstellungspruefung/SKILL.md) | [`kueschk-klageschrift-laie-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-klageschrift-laie-baustein/SKILL.md) |
+| [`entfristung-elektronische-signatur-vorsicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-elektronische-signatur-vorsicht/SKILL.md) | [`kueschk-kuendigungsgrund-personen-verhalten-betrieb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-kuendigungsgrund-personen-verhalten-betrieb/SKILL.md) |
+| [`entfristung-grundwarnung-drei-wochen-frist`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-grundwarnung-drei-wochen-frist/SKILL.md) | [`kueschk-muendliche-verhandlung-praxistipps-laie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-muendliche-verhandlung-praxistipps-laie/SKILL.md) |
+| [`entfristung-guetetermin-und-kammertermin-sprechzettel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-guetetermin-und-kammertermin-sprechzettel/SKILL.md) | [`kueschk-output-warnschriftsatz-laie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-output-warnschriftsatz-laie/SKILL.md) |
+| [`entfristung-klageschrift-anwalt-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-klageschrift-anwalt-baustein/SKILL.md) | [`kueschk-paragraph-12-kschg-neuer-job-einseitig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-paragraph-12-kschg-neuer-job-einseitig/SKILL.md) |
+| [`entfristung-klageschrift-laie-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-klageschrift-laie-baustein/SKILL.md) | [`kueschk-replik-arbeitnehmer-baustein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-replik-arbeitnehmer-baustein/SKILL.md) |
+| [`entfristung-laie-oder-anwalt-frage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-laie-oder-anwalt-frage/SKILL.md) | [`kueschk-sonderkuendigungsschutz-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-sonderkuendigungsschutz-checkliste/SKILL.md) |
+| [`entfristung-output-warnschriftsatz-laie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-output-warnschriftsatz-laie/SKILL.md) | [`kueschk-streitwert-kostenfolge-prozesskostenhilfe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-streitwert-kostenfolge-prozesskostenhilfe/SKILL.md) |
+| [`entfristung-rechtsfolge-16-tzbfg-unbefristet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-rechtsfolge-16-tzbfg-unbefristet/SKILL.md) | [`kueschk-stricken-anwalt-risiko-und-vergleichsdruck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-stricken-anwalt-risiko-und-vergleichsdruck/SKILL.md) |
+| [`entfristung-sachgrund-pruefen-14-abs-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md) | [`kueschk-triage-laie-oder-anwalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-triage-laie-oder-anwalt/SKILL.md) |
+| [`entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung/SKILL.md) | [`kueschk-vergleichsverhandlung-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-vergleichsverhandlung-checkliste/SKILL.md) |
+| [`entfristung-sachgrundlos-14-abs-2a-neugruendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrundlos-14-abs-2a-neugruendung/SKILL.md) | [`kueschk-weiterbeschaeftigungsantrag-grosser-senat`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-weiterbeschaeftigungsantrag-grosser-senat/SKILL.md) |
+| [`entfristung-sachgrundlos-14-abs-3-aelter-52`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-sachgrundlos-14-abs-3-aelter-52/SKILL.md) | [`kueschk-zeugnisanspruch-und-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/kueschk-zeugnisanspruch-und-vergleich/SKILL.md) |
+| [`entfristung-schriftform-14-abs-4-erkennen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-schriftform-14-abs-4-erkennen/SKILL.md) | [`lohn-arbeitszeit-fragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/lohn-arbeitszeit-fragen/SKILL.md) |
+| [`entfristung-triage-was-will-user`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-triage-was-will-user/SKILL.md) | [`lohnsteuer-sozialversicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/lohnsteuer-sozialversicherung/SKILL.md) |
+| [`entfristung-vergleichsverhandlung-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/entfristung-vergleichsverhandlung-checkliste/SKILL.md) | [`mandat-triage-arbeitsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/mandat-triage-arbeitsrecht/SKILL.md) |
+| [`expansion-aktualisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/expansion-aktualisierung/SKILL.md) | [`massenentlassung-17-kschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/massenentlassung-17-kschg/SKILL.md) |
+| [`expansion-auftakt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/expansion-auftakt/SKILL.md) | [`mindestlohn-arbeitszeit-erfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/mindestlohn-arbeitszeit-erfassung/SKILL.md) |
+| [`fehlzeit-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/fehlzeit-erfassen/SKILL.md) | [`richtlinien-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/richtlinien-entwurf/SKILL.md) |
+| [`fehlzeiten-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/fehlzeiten-register/SKILL.md) | [`untersuchung-abfrage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchung-abfrage/SKILL.md) |
+| [`handbuch-aktualisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/handbuch-aktualisierung/SKILL.md) | [`untersuchung-ergaenzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchung-ergaenzen/SKILL.md) |
+| [`hinschg-whistleblower-antwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/hinschg-whistleblower-antwort/SKILL.md) | [`untersuchung-eroeffnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchung-eroeffnen/SKILL.md) |
+| [`internationale-expansion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/internationale-expansion/SKILL.md) | [`untersuchungs-memo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchungs-memo/SKILL.md) |
+| [`interne-untersuchung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/interne-untersuchung/SKILL.md) | [`untersuchungs-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitsrecht/skills/untersuchungs-zusammenfassung/SKILL.md) |
 
-### [fachanwalt-arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht) (16 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit)
-- [`fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich)
-- [`fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam)
-- [`fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht)
-- [`fachanwalt-arbeitsrecht-befristung-tzbfg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg)
-- [`fachanwalt-arbeitsrecht-bem-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren)
-- [`fachanwalt-arbeitsrecht-betriebsratsanhoerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-betriebsratsanhoerung)
-- [`fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung)
-- [`fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie)
-- [`fachanwalt-arbeitsrecht-kuendigungsschutzklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-kuendigungsschutzklage)
-- [`fachanwalt-arbeitsrecht-massenentlassung-17-kschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-massenentlassung-17-kschg)
-- [`fachanwalt-arbeitsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-orientierung)
-- [`fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-arbeitsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht) · 16 Skills
 
-### [arbeitszeugnis-analyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse) (31 Skills)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung/SKILL.md) |
+| [`fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit/SKILL.md) | [`fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie/SKILL.md) |
+| [`fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich/SKILL.md) | [`fachanwalt-arbeitsrecht-kuendigungsschutzklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-kuendigungsschutzklage/SKILL.md) |
+| [`fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam/SKILL.md) | [`fachanwalt-arbeitsrecht-massenentlassung-17-kschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-massenentlassung-17-kschg/SKILL.md) |
+| [`fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht/SKILL.md) | [`fachanwalt-arbeitsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-orientierung/SKILL.md) |
+| [`fachanwalt-arbeitsrecht-befristung-tzbfg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg/SKILL.md) | [`fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg/SKILL.md) |
+| [`fachanwalt-arbeitsrecht-bem-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-arbeitsrecht-betriebsratsanhoerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-betriebsratsanhoerung/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-arbeitsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
 
-- [`ampelsystem-tabellenausgabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/ampelsystem-tabellenausgabe)
-- [`aufforderungsschreiben-arbeitgeber`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/aufforderungsschreiben-arbeitgeber)
-- [`azubi-zeugnis-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/azubi-zeugnis-analyse)
-- [`bereichs-drift-detektor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/bereichs-drift-detektor)
-- [`branchen-spezifische-formulierungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/branchen-spezifische-formulierungen)
-- [`erstgespraech-und-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/erstgespraech-und-mandatsannahme)
-- [`geheimcode-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/geheimcode-katalog)
-- [`gesamtnoten-aggregation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/gesamtnoten-aggregation)
-- [`gruen-flaggen-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/gruen-flaggen-katalog)
-- [`klage-strategie-zeugnisberichtigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/klage-strategie-zeugnisberichtigung)
-- [`leistungsbeurteilung-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/leistungsbeurteilung-analyse)
-- [`leitende-positionen-zeugnisse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/leitende-positionen-zeugnisse)
-- [`mandantenbericht-zeugnisanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/mandantenbericht-zeugnisanalyse)
-- [`muster-arbeitszeugnis-gemischte-noten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/muster-arbeitszeugnis-gemischte-noten)
-- [`muster-arbeitszeugnis-mit-roten-flaggen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/muster-arbeitszeugnis-mit-roten-flaggen)
-- [`muster-arbeitszeugnis-note-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/muster-arbeitszeugnis-note-1)
-- [`negationen-und-auslassungen-erkennen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/negationen-und-auslassungen-erkennen)
-- [`negative-codeworte-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/negative-codeworte-katalog)
-- [`notenrelevante-saetze-identifizieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/notenrelevante-saetze-identifizieren)
-- [`orange-flaggen-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/orange-flaggen-katalog)
-- [`rechtliche-bewertung-bag-rechtsprechung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/rechtliche-bewertung-bag-rechtsprechung)
-- [`rote-flaggen-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/rote-flaggen-katalog)
-- [`satzweise-notenmatrix`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/satzweise-notenmatrix)
-- [`schlussformel-bewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/schlussformel-bewertung)
-- [`steigerungsadverbien-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/steigerungsadverbien-katalog)
-- [`verbesserungsvorschlaege-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/verbesserungsvorschlaege-formulieren)
-- [`verhaltensbeurteilung-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/verhaltensbeurteilung-analyse)
-- [`widerspruechliche-bewertungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/widerspruechliche-bewertungen)
-- [`zeugnis-ueberblick-extraktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/zeugnis-ueberblick-extraktion)
-- [`zeugnisart-erkennung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/zeugnisart-erkennung)
-- [`zufriedenheitsformel-decodierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/zufriedenheitsformel-decodierung)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [bav-strategie-konzern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern) (17 Skills)
+### [arbeitszeugnis-analyse](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse) · 31 Skills
 
-- [`buyout-im-ma-deal-asset-vs-share`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/buyout-im-ma-deal-asset-vs-share)
-- [`country-by-country-benefits-matrix-konzern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/country-by-country-benefits-matrix-konzern)
-- [`cta-contractual-trust-arrangement-strukturierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/cta-contractual-trust-arrangement-strukturierung)
-- [`drei-stufen-theorie-eingriffsanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/drei-stufen-theorie-eingriffsanalyse)
-- [`expatriate-pensionsplanung-und-totalization`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/expatriate-pensionsplanung-und-totalization)
-- [`governance-und-anpassungsmechanismen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/governance-und-anpassungsmechanismen)
-- [`harmonisierung-und-migration-rechtssicher`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/harmonisierung-und-migration-rechtssicher)
-- [`historisch-gewachsene-altsysteme-due-diligence`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/historisch-gewachsene-altsysteme-due-diligence)
-- [`internationale-buyout-datenflows-und-datenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/internationale-buyout-datenflows-und-datenschutz)
-- [`internationale-harmonisierung-konzern-bav`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/internationale-harmonisierung-konzern-bav)
-- [`japan-bav-und-corporate-pension-iorp`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/japan-bav-und-corporate-pension-iorp)
-- [`kollektivrechtliche-loesungen-und-sozialplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/kollektivrechtliche-loesungen-und-sozialplan)
-- [`mitbestimmung-betriebsrat-einigungsstelle-bav`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/mitbestimmung-betriebsrat-einigungsstelle-bav)
-- [`pension-buyout-strukturierung-und-de-risking`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/pension-buyout-strukturierung-und-de-risking)
-- [`pensionsmodelle-fuenf-durchfuehrungswege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/pensionsmodelle-fuenf-durchfuehrungswege)
-- [`psv-pensionssicherungsverein-und-haftungsketten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten)
-- [`versorgungsordnung-und-betriebsvereinbarung-drafting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting)
+| Skill | Skill |
+|---|---|
+| [`ampelsystem-tabellenausgabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/ampelsystem-tabellenausgabe/SKILL.md) | [`negationen-und-auslassungen-erkennen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/negationen-und-auslassungen-erkennen/SKILL.md) |
+| [`aufforderungsschreiben-arbeitgeber`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/aufforderungsschreiben-arbeitgeber/SKILL.md) | [`negative-codeworte-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/negative-codeworte-katalog/SKILL.md) |
+| [`azubi-zeugnis-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/azubi-zeugnis-analyse/SKILL.md) | [`notenrelevante-saetze-identifizieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/notenrelevante-saetze-identifizieren/SKILL.md) |
+| [`bereichs-drift-detektor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/bereichs-drift-detektor/SKILL.md) | [`orange-flaggen-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/orange-flaggen-katalog/SKILL.md) |
+| [`branchen-spezifische-formulierungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/branchen-spezifische-formulierungen/SKILL.md) | [`rechtliche-bewertung-bag-rechtsprechung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/rechtliche-bewertung-bag-rechtsprechung/SKILL.md) |
+| [`erstgespraech-und-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/erstgespraech-und-mandatsannahme/SKILL.md) | [`rote-flaggen-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/rote-flaggen-katalog/SKILL.md) |
+| [`geheimcode-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/geheimcode-katalog/SKILL.md) | [`satzweise-notenmatrix`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/satzweise-notenmatrix/SKILL.md) |
+| [`gesamtnoten-aggregation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/gesamtnoten-aggregation/SKILL.md) | [`schlussformel-bewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/schlussformel-bewertung/SKILL.md) |
+| [`gruen-flaggen-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/gruen-flaggen-katalog/SKILL.md) | [`steigerungsadverbien-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/steigerungsadverbien-katalog/SKILL.md) |
+| [`klage-strategie-zeugnisberichtigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/klage-strategie-zeugnisberichtigung/SKILL.md) | [`verbesserungsvorschlaege-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/verbesserungsvorschlaege-formulieren/SKILL.md) |
+| [`leistungsbeurteilung-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/leistungsbeurteilung-analyse/SKILL.md) | [`verhaltensbeurteilung-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/verhaltensbeurteilung-analyse/SKILL.md) |
+| [`leitende-positionen-zeugnisse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/leitende-positionen-zeugnisse/SKILL.md) | [`widerspruechliche-bewertungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/widerspruechliche-bewertungen/SKILL.md) |
+| [`mandantenbericht-zeugnisanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/mandantenbericht-zeugnisanalyse/SKILL.md) | [`zeugnis-ueberblick-extraktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/zeugnis-ueberblick-extraktion/SKILL.md) |
+| [`muster-arbeitszeugnis-gemischte-noten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/muster-arbeitszeugnis-gemischte-noten/SKILL.md) | [`zeugnisart-erkennung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/zeugnisart-erkennung/SKILL.md) |
+| [`muster-arbeitszeugnis-mit-roten-flaggen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/muster-arbeitszeugnis-mit-roten-flaggen/SKILL.md) | [`zufriedenheitsformel-decodierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/zufriedenheitsformel-decodierung/SKILL.md) |
+| [`muster-arbeitszeugnis-note-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/arbeitszeugnis-analyse/skills/muster-arbeitszeugnis-note-1/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [bav-strategie-konzern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern) · 17 Skills
+
+| Skill | Skill |
+|---|---|
+| [`buyout-im-ma-deal-asset-vs-share`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/buyout-im-ma-deal-asset-vs-share/SKILL.md) | [`internationale-harmonisierung-konzern-bav`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/internationale-harmonisierung-konzern-bav/SKILL.md) |
+| [`country-by-country-benefits-matrix-konzern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/country-by-country-benefits-matrix-konzern/SKILL.md) | [`japan-bav-und-corporate-pension-iorp`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/japan-bav-und-corporate-pension-iorp/SKILL.md) |
+| [`cta-contractual-trust-arrangement-strukturierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/cta-contractual-trust-arrangement-strukturierung/SKILL.md) | [`kollektivrechtliche-loesungen-und-sozialplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/kollektivrechtliche-loesungen-und-sozialplan/SKILL.md) |
+| [`drei-stufen-theorie-eingriffsanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/drei-stufen-theorie-eingriffsanalyse/SKILL.md) | [`mitbestimmung-betriebsrat-einigungsstelle-bav`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/mitbestimmung-betriebsrat-einigungsstelle-bav/SKILL.md) |
+| [`expatriate-pensionsplanung-und-totalization`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/expatriate-pensionsplanung-und-totalization/SKILL.md) | [`pension-buyout-strukturierung-und-de-risking`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/pension-buyout-strukturierung-und-de-risking/SKILL.md) |
+| [`governance-und-anpassungsmechanismen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/governance-und-anpassungsmechanismen/SKILL.md) | [`pensionsmodelle-fuenf-durchfuehrungswege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/pensionsmodelle-fuenf-durchfuehrungswege/SKILL.md) |
+| [`harmonisierung-und-migration-rechtssicher`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/harmonisierung-und-migration-rechtssicher/SKILL.md) | [`psv-pensionssicherungsverein-und-haftungsketten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/psv-pensionssicherungsverein-und-haftungsketten/SKILL.md) |
+| [`historisch-gewachsene-altsysteme-due-diligence`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/historisch-gewachsene-altsysteme-due-diligence/SKILL.md) | [`versorgungsordnung-und-betriebsvereinbarung-drafting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/SKILL.md) |
+| [`internationale-buyout-datenflows-und-datenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bav-strategie-konzern/skills/internationale-buyout-datenflows-und-datenschutz/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Steuerrecht & Buchhaltung
 
-### [steuerrecht-anwalt-und-berater](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater) (35 Skills)
+### [steuerrecht-anwalt-und-berater](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater) · 35 Skills
 
-- [`anw-akteneinsicht-steuerakte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-akteneinsicht-steuerakte)
-- [`anw-aussenpruefung-strategien`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-aussenpruefung-strategien)
-- [`anw-aussetzung-vollziehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-aussetzung-vollziehung)
-- [`anw-betriebsausgaben-werbungskosten-pruefraster`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-betriebsausgaben-werbungskosten-pruefraster)
-- [`anw-dac7-dac8-plattformen-krypto`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-dac7-dac8-plattformen-krypto)
-- [`anw-defi-lending-yield-farming-bmf-22-11-2024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-defi-lending-yield-farming-bmf-22-11-2024)
-- [`anw-einspruch-finanzamt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-einspruch-finanzamt)
-- [`anw-fristenbuch-steuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-fristenbuch-steuerrecht)
-- [`anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern)
-- [`anw-grunderwerbsteuer-share-deal-90-prozent`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-grunderwerbsteuer-share-deal-90-prozent)
-- [`anw-haftungswarn-15a-inso-mandant`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-haftungswarn-15a-inso-mandant)
-- [`anw-insolvenzreife-pruefung-17-19-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-insolvenzreife-pruefung-17-19-inso)
-- [`anw-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-kaltstart-interview)
-- [`anw-klage-finanzgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-klage-finanzgericht)
-- [`anw-mandat-triage-steuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-mandat-triage-steuerrecht)
-- [`anw-minbestg-pillar2-konzernbesteuerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-minbestg-pillar2-konzernbesteuerung)
-- [`anw-organschaft-konzern-grundlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-organschaft-konzern-grundlagen)
-- [`anw-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-orientierung)
-- [`anw-selbstanzeige-371`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-selbstanzeige-371)
-- [`anw-steuerbescheid-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-steuerbescheid-analyse)
-- [`anw-steuerstrafverteidigung-verstaendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-steuerstrafverteidigung-verstaendigung)
-- [`anw-stundung-erlass-vollstreckungsaufschub`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-stundung-erlass-vollstreckungsaufschub)
-- [`anw-tatsaechliche-verstaendigung-schlussbesprechung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-tatsaechliche-verstaendigung-schlussbesprechung)
-- [`anw-umsatzsteuer-vorsteuerabzug-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-umsatzsteuer-vorsteuerabzug-pruefen)
-- [`anw-verbindliche-auskunft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-verbindliche-auskunft)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/erstgespraech-mandatsannahme)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/schriftsatzkern-substantiierung)
-- [`stb-bwa-sus-bilanz-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-bwa-sus-bilanz-pruefung)
-- [`stb-drv-sozialversicherungspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-drv-sozialversicherungspruefung)
-- [`stb-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-kaltstart-interview)
-- [`stb-liquiditaetsvorschau-3-6-12-monate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3-6-12-monate)
-- [`stb-liquiditaetsvorschau-3wochen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3wochen)
-- [`stb-ueberschuldungspruefung-19-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-ueberschuldungspruefung-19-inso)
-- [`stb-warnschreiben-krisensignale`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-warnschreiben-krisensignale)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`anw-akteneinsicht-steuerakte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-akteneinsicht-steuerakte/SKILL.md) | [`anw-selbstanzeige-371`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-selbstanzeige-371/SKILL.md) |
+| [`anw-aussenpruefung-strategien`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-aussenpruefung-strategien/SKILL.md) | [`anw-steuerbescheid-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-steuerbescheid-analyse/SKILL.md) |
+| [`anw-aussetzung-vollziehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-aussetzung-vollziehung/SKILL.md) | [`anw-steuerstrafverteidigung-verstaendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-steuerstrafverteidigung-verstaendigung/SKILL.md) |
+| [`anw-betriebsausgaben-werbungskosten-pruefraster`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-betriebsausgaben-werbungskosten-pruefraster/SKILL.md) | [`anw-stundung-erlass-vollstreckungsaufschub`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-stundung-erlass-vollstreckungsaufschub/SKILL.md) |
+| [`anw-dac7-dac8-plattformen-krypto`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-dac7-dac8-plattformen-krypto/SKILL.md) | [`anw-tatsaechliche-verstaendigung-schlussbesprechung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-tatsaechliche-verstaendigung-schlussbesprechung/SKILL.md) |
+| [`anw-defi-lending-yield-farming-bmf-22-11-2024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-defi-lending-yield-farming-bmf-22-11-2024/SKILL.md) | [`anw-umsatzsteuer-vorsteuerabzug-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-umsatzsteuer-vorsteuerabzug-pruefen/SKILL.md) |
+| [`anw-einspruch-finanzamt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-einspruch-finanzamt/SKILL.md) | [`anw-verbindliche-auskunft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-verbindliche-auskunft/SKILL.md) |
+| [`anw-fristenbuch-steuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-fristenbuch-steuerrecht/SKILL.md) | [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/erstgespraech-mandatsannahme/SKILL.md) |
+| [`anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`anw-grunderwerbsteuer-share-deal-90-prozent`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-grunderwerbsteuer-share-deal-90-prozent/SKILL.md) | [`stb-bwa-sus-bilanz-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-bwa-sus-bilanz-pruefung/SKILL.md) |
+| [`anw-haftungswarn-15a-inso-mandant`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-haftungswarn-15a-inso-mandant/SKILL.md) | [`stb-drv-sozialversicherungspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-drv-sozialversicherungspruefung/SKILL.md) |
+| [`anw-insolvenzreife-pruefung-17-19-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-insolvenzreife-pruefung-17-19-inso/SKILL.md) | [`stb-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-kaltstart-interview/SKILL.md) |
+| [`anw-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-kaltstart-interview/SKILL.md) | [`stb-liquiditaetsvorschau-3-6-12-monate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3-6-12-monate/SKILL.md) |
+| [`anw-klage-finanzgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-klage-finanzgericht/SKILL.md) | [`stb-liquiditaetsvorschau-3wochen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3wochen/SKILL.md) |
+| [`anw-mandat-triage-steuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-mandat-triage-steuerrecht/SKILL.md) | [`stb-ueberschuldungspruefung-19-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-ueberschuldungspruefung-19-inso/SKILL.md) |
+| [`anw-minbestg-pillar2-konzernbesteuerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-minbestg-pillar2-konzernbesteuerung/SKILL.md) | [`stb-warnschreiben-krisensignale`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/stb-warnschreiben-krisensignale/SKILL.md) |
+| [`anw-organschaft-konzern-grundlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-organschaft-konzern-grundlagen/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`anw-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/steuerrecht-anwalt-und-berater/skills/anw-orientierung/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Strafrecht & Wirtschaftsstrafrecht
 
-### [fachanwalt-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht) (19 Skills)
+### [fachanwalt-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht) · 19 Skills
 
-- [`akteneinsicht-strafrecht-auswerten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/akteneinsicht-strafrecht-auswerten)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-strafrecht-adhaesionsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-adhaesionsverfahren)
-- [`fachanwalt-strafrecht-akteneinsicht-beantragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-akteneinsicht-beantragen)
-- [`fachanwalt-strafrecht-anklage-reaktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-anklage-reaktion)
-- [`fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo)
-- [`fachanwalt-strafrecht-einlassung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-einlassung-vorbereiten)
-- [`fachanwalt-strafrecht-hauptverhandlung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-hauptverhandlung-vorbereiten)
-- [`fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft)
-- [`fachanwalt-strafrecht-nebenklage-opfervertretung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-nebenklage-opfervertretung)
-- [`fachanwalt-strafrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-orientierung)
-- [`fachanwalt-strafrecht-untersuchungshaft-haftpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung)
-- [`fachanwalt-strafrecht-verstaendigung-257c-toa-46a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-verstaendigung-257c-toa-46a)
-- [`fachanwalt-strafrecht-wahlverteidiger-mandat`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-wahlverteidiger-mandat)
-- [`fachanwalt-strafrecht-zeugenbeistand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-zeugenbeistand)
-- [`mandat-triage-strafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/mandat-triage-strafrecht)
-- [`plaedoyer-vorbereitung-strafverteidigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/plaedoyer-vorbereitung-strafverteidigung)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`akteneinsicht-strafrecht-auswerten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/akteneinsicht-strafrecht-auswerten/SKILL.md) | [`fachanwalt-strafrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-orientierung/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-strafrecht-untersuchungshaft-haftpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung/SKILL.md) |
+| [`fachanwalt-strafrecht-adhaesionsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-adhaesionsverfahren/SKILL.md) | [`fachanwalt-strafrecht-verstaendigung-257c-toa-46a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-verstaendigung-257c-toa-46a/SKILL.md) |
+| [`fachanwalt-strafrecht-akteneinsicht-beantragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-akteneinsicht-beantragen/SKILL.md) | [`fachanwalt-strafrecht-wahlverteidiger-mandat`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-wahlverteidiger-mandat/SKILL.md) |
+| [`fachanwalt-strafrecht-anklage-reaktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-anklage-reaktion/SKILL.md) | [`fachanwalt-strafrecht-zeugenbeistand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-zeugenbeistand/SKILL.md) |
+| [`fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo/SKILL.md) | [`mandat-triage-strafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/mandat-triage-strafrecht/SKILL.md) |
+| [`fachanwalt-strafrecht-einlassung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-einlassung-vorbereiten/SKILL.md) | [`plaedoyer-vorbereitung-strafverteidigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/plaedoyer-vorbereitung-strafverteidigung/SKILL.md) |
+| [`fachanwalt-strafrecht-hauptverhandlung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-hauptverhandlung-vorbereiten/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-insolvenzantrag-staatsanwaltschaft/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-strafrecht-nebenklage-opfervertretung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-strafrecht/skills/fachanwalt-strafrecht-nebenklage-opfervertretung/SKILL.md) |  |
 
-### [aktenaufbereiter-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht) (1 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`aktenaufbereiter-strafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht/skills/aktenaufbereiter-strafrecht)
+### [aktenaufbereiter-strafrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht) · 1 Skills
 
-### [strafbefehl-verteidiger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger) (20 Skills)
+| Skill | Skill |
+|---|---|
+| [`aktenaufbereiter-strafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht/skills/aktenaufbereiter-strafrecht/SKILL.md) |  |
 
-- [`strafbefehl-abwesenheit-vertretung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-abwesenheit-vertretung)
-- [`strafbefehl-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-aktenanlage)
-- [`strafbefehl-akteneinsicht-147`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-akteneinsicht-147)
-- [`strafbefehl-beweis-und-einlassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-beweis-und-einlassung)
-- [`strafbefehl-deal-verstaendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-deal-verstaendigung)
-- [`strafbefehl-einspruch-beschraenkung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-einspruch-beschraenkung)
-- [`strafbefehl-einstellung-153-153a-170`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-einstellung-153-153a-170)
-- [`strafbefehl-fristen-einspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-fristen-einspruch)
-- [`strafbefehl-hauptverhandlung-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-hauptverhandlung-vorbereitung)
-- [`strafbefehl-inhalt-409-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-inhalt-409-pruefung)
-- [`strafbefehl-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-kommandocenter)
-- [`strafbefehl-nebenfolgen-fahrerlaubnis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-nebenfolgen-fahrerlaubnis)
-- [`strafbefehl-pflichtverteidiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-pflichtverteidiger)
-- [`strafbefehl-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-quality-gate)
-- [`strafbefehl-rechtsmittel-nach-urteil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-rechtsmittel-nach-urteil)
-- [`strafbefehl-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-rechtsprechungsrecherche)
-- [`strafbefehl-tagessaetze-geldstrafe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-tagessaetze-geldstrafe)
-- [`strafbefehl-wiedereinsetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-wiedereinsetzung)
-- [`strafbefehl-zeugen-befragungsstrategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-zeugen-befragungsstrategie)
-- [`strafbefehl-zulaessigkeit-407`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-zulaessigkeit-407)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [verkehrsowi-verteidiger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger) (20 Skills)
+### [strafbefehl-verteidiger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger) · 20 Skills
 
-- [`verkehrsowi-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-aktenanlage)
-- [`verkehrsowi-akteneinsicht-messakte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-akteneinsicht-messakte)
-- [`verkehrsowi-alkohol-drogen-24a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-alkohol-drogen-24a)
-- [`verkehrsowi-anhoerung-bussgeldbescheid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-anhoerung-bussgeldbescheid)
-- [`verkehrsowi-beweisverwertung-standardisiert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-beweisverwertung-standardisiert)
-- [`verkehrsowi-fahreridentifizierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-fahreridentifizierung)
-- [`verkehrsowi-fristen-einspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-fristen-einspruch)
-- [`verkehrsowi-haertefall-fahrverbot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-haertefall-fahrverbot)
-- [`verkehrsowi-hauptverhandlung-amtsgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-hauptverhandlung-amtsgericht)
-- [`verkehrsowi-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-kommandocenter)
-- [`verkehrsowi-mandantenkommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-mandantenkommunikation)
-- [`verkehrsowi-messverfahren-geschwindigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-messverfahren-geschwindigkeit)
-- [`verkehrsowi-punkte-fahrverbot-flensburg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-punkte-fahrverbot-flensburg)
-- [`verkehrsowi-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-quality-gate)
-- [`verkehrsowi-rechtsbeschwerde`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-rechtsbeschwerde)
-- [`verkehrsowi-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-rechtsprechungsrecherche)
-- [`verkehrsowi-rotlicht-abstand-handy`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-rotlicht-abstand-handy)
-- [`verkehrsowi-simulation-training`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-simulation-training)
-- [`verkehrsowi-verjaehrung-zustellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-verjaehrung-zustellung)
-- [`verkehrsowi-zeugen-polizei-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-zeugen-polizei-strategie)
+| Skill | Skill |
+|---|---|
+| [`strafbefehl-abwesenheit-vertretung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-abwesenheit-vertretung/SKILL.md) | [`strafbefehl-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-kommandocenter/SKILL.md) |
+| [`strafbefehl-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-aktenanlage/SKILL.md) | [`strafbefehl-nebenfolgen-fahrerlaubnis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-nebenfolgen-fahrerlaubnis/SKILL.md) |
+| [`strafbefehl-akteneinsicht-147`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-akteneinsicht-147/SKILL.md) | [`strafbefehl-pflichtverteidiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-pflichtverteidiger/SKILL.md) |
+| [`strafbefehl-beweis-und-einlassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-beweis-und-einlassung/SKILL.md) | [`strafbefehl-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-quality-gate/SKILL.md) |
+| [`strafbefehl-deal-verstaendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-deal-verstaendigung/SKILL.md) | [`strafbefehl-rechtsmittel-nach-urteil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-rechtsmittel-nach-urteil/SKILL.md) |
+| [`strafbefehl-einspruch-beschraenkung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-einspruch-beschraenkung/SKILL.md) | [`strafbefehl-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-rechtsprechungsrecherche/SKILL.md) |
+| [`strafbefehl-einstellung-153-153a-170`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-einstellung-153-153a-170/SKILL.md) | [`strafbefehl-tagessaetze-geldstrafe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-tagessaetze-geldstrafe/SKILL.md) |
+| [`strafbefehl-fristen-einspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-fristen-einspruch/SKILL.md) | [`strafbefehl-wiedereinsetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-wiedereinsetzung/SKILL.md) |
+| [`strafbefehl-hauptverhandlung-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-hauptverhandlung-vorbereitung/SKILL.md) | [`strafbefehl-zeugen-befragungsstrategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-zeugen-befragungsstrategie/SKILL.md) |
+| [`strafbefehl-inhalt-409-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-inhalt-409-pruefung/SKILL.md) | [`strafbefehl-zulaessigkeit-407`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/strafbefehl-verteidiger/skills/strafbefehl-zulaessigkeit-407/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [verkehrsowi-verteidiger](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger) · 20 Skills
+
+| Skill | Skill |
+|---|---|
+| [`verkehrsowi-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-aktenanlage/SKILL.md) | [`verkehrsowi-mandantenkommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-mandantenkommunikation/SKILL.md) |
+| [`verkehrsowi-akteneinsicht-messakte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-akteneinsicht-messakte/SKILL.md) | [`verkehrsowi-messverfahren-geschwindigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-messverfahren-geschwindigkeit/SKILL.md) |
+| [`verkehrsowi-alkohol-drogen-24a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-alkohol-drogen-24a/SKILL.md) | [`verkehrsowi-punkte-fahrverbot-flensburg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-punkte-fahrverbot-flensburg/SKILL.md) |
+| [`verkehrsowi-anhoerung-bussgeldbescheid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-anhoerung-bussgeldbescheid/SKILL.md) | [`verkehrsowi-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-quality-gate/SKILL.md) |
+| [`verkehrsowi-beweisverwertung-standardisiert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-beweisverwertung-standardisiert/SKILL.md) | [`verkehrsowi-rechtsbeschwerde`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-rechtsbeschwerde/SKILL.md) |
+| [`verkehrsowi-fahreridentifizierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-fahreridentifizierung/SKILL.md) | [`verkehrsowi-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-rechtsprechungsrecherche/SKILL.md) |
+| [`verkehrsowi-fristen-einspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-fristen-einspruch/SKILL.md) | [`verkehrsowi-rotlicht-abstand-handy`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-rotlicht-abstand-handy/SKILL.md) |
+| [`verkehrsowi-haertefall-fahrverbot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-haertefall-fahrverbot/SKILL.md) | [`verkehrsowi-simulation-training`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-simulation-training/SKILL.md) |
+| [`verkehrsowi-hauptverhandlung-amtsgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-hauptverhandlung-amtsgericht/SKILL.md) | [`verkehrsowi-verjaehrung-zustellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-verjaehrung-zustellung/SKILL.md) |
+| [`verkehrsowi-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-kommandocenter/SKILL.md) | [`verkehrsowi-zeugen-polizei-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehrsowi-verteidiger/skills/verkehrsowi-zeugen-polizei-strategie/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Familien- & Erbrecht
 
-### [fachanwalt-familienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht) (15 Skills)
+### [fachanwalt-familienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht) · 15 Skills
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt)
-- [`fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag)
-- [`fachanwalt-familienrecht-mediation-156-famfg-cochemer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-mediation-156-famfg-cochemer)
-- [`fachanwalt-familienrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-orientierung)
-- [`fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen)
-- [`fachanwalt-familienrecht-scheidungsantrag-stellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-scheidungsantrag-stellen)
-- [`fachanwalt-familienrecht-unterhaltsberechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-unterhaltsberechnung)
-- [`fachanwalt-familienrecht-versorgungsausgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-versorgungsausgleich)
-- [`fachanwalt-familienrecht-zugewinnausgleich-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-zugewinnausgleich-berechnen)
-- [`mandat-triage-familienrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/mandat-triage-familienrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/schriftsatzkern-substantiierung)
-- [`umgangsregelung-mustervorlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/umgangsregelung-mustervorlagen)
-- [`unterhalt-duesseldorfer-tabelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/unterhalt-duesseldorfer-tabelle)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-familienrecht-versorgungsausgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-versorgungsausgleich/SKILL.md) |
+| [`fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt/SKILL.md) | [`fachanwalt-familienrecht-zugewinnausgleich-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-zugewinnausgleich-berechnen/SKILL.md) |
+| [`fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag/SKILL.md) | [`mandat-triage-familienrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/mandat-triage-familienrecht/SKILL.md) |
+| [`fachanwalt-familienrecht-mediation-156-famfg-cochemer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-mediation-156-famfg-cochemer/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-familienrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-orientierung/SKILL.md) | [`umgangsregelung-mustervorlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/umgangsregelung-mustervorlagen/SKILL.md) |
+| [`fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen/SKILL.md) | [`unterhalt-duesseldorfer-tabelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/unterhalt-duesseldorfer-tabelle/SKILL.md) |
+| [`fachanwalt-familienrecht-scheidungsantrag-stellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-scheidungsantrag-stellen/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-familienrecht-unterhaltsberechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-familienrecht/skills/fachanwalt-familienrecht-unterhaltsberechnung/SKILL.md) |  |
 
-### [fachanwalt-erbrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-erbrecht-erbschaftsausschlagung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-erbschaftsausschlagung)
-- [`fachanwalt-erbrecht-erbschein-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-erbschein-antrag)
-- [`fachanwalt-erbrecht-krypto-wallet-nachlass-multisig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-krypto-wallet-nachlass-multisig)
-- [`fachanwalt-erbrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-orientierung)
-- [`fachanwalt-erbrecht-pflichtteilsberechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-pflichtteilsberechnung)
-- [`fachanwalt-erbrecht-pflichtteilsergaenzung-2325`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-pflichtteilsergaenzung-2325)
-- [`fachanwalt-erbrecht-testamentsentwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-testamentsentwurf)
-- [`fachanwalt-erbrecht-testamentsvollstreckung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-testamentsvollstreckung)
-- [`fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft)
-- [`mandat-triage-erbrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/mandat-triage-erbrecht)
-- [`nachlassinsolvenz-erbenhaftung-begrenzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/nachlassinsolvenz-erbenhaftung-begrenzen)
-- [`pflichtteil-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/pflichtteil-berechnen)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-erbrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht) · 15 Skills
 
-### [betreuungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht) (7 Skills)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-erbrecht-testamentsvollstreckung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-testamentsvollstreckung/SKILL.md) |
+| [`fachanwalt-erbrecht-erbschaftsausschlagung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-erbschaftsausschlagung/SKILL.md) | [`fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft/SKILL.md) |
+| [`fachanwalt-erbrecht-erbschein-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-erbschein-antrag/SKILL.md) | [`mandat-triage-erbrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/mandat-triage-erbrecht/SKILL.md) |
+| [`fachanwalt-erbrecht-krypto-wallet-nachlass-multisig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-krypto-wallet-nachlass-multisig/SKILL.md) | [`nachlassinsolvenz-erbenhaftung-begrenzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/nachlassinsolvenz-erbenhaftung-begrenzen/SKILL.md) |
+| [`fachanwalt-erbrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-orientierung/SKILL.md) | [`pflichtteil-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/pflichtteil-berechnen/SKILL.md) |
+| [`fachanwalt-erbrecht-pflichtteilsberechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-pflichtteilsberechnung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-erbrecht-pflichtteilsergaenzung-2325`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-pflichtteilsergaenzung-2325/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-erbrecht-testamentsentwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-erbrecht/skills/fachanwalt-erbrecht-testamentsentwurf/SKILL.md) |  |
 
-- [`betreuer-als-erbe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/betreuer-als-erbe)
-- [`betreuer-registrierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/betreuer-registrierung)
-- [`betreuungsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/betreuungsrecht-kaltstart-interview)
-- [`genehmigungspflicht-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/genehmigungspflicht-pruefung)
-- [`jahresbericht-betreuungsgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/jahresbericht-betreuungsgericht)
-- [`kontodaten-vertragsverdacht-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/kontodaten-vertragsverdacht-pruefung)
-- [`vermoegensverzeichnis-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/vermoegensverzeichnis-pruefung)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [betreuungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht) · 7 Skills
+
+| Skill | Skill |
+|---|---|
+| [`betreuer-als-erbe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/betreuer-als-erbe/SKILL.md) | [`jahresbericht-betreuungsgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/jahresbericht-betreuungsgericht/SKILL.md) |
+| [`betreuer-registrierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/betreuer-registrierung/SKILL.md) | [`kontodaten-vertragsverdacht-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/kontodaten-vertragsverdacht-pruefung/SKILL.md) |
+| [`betreuungsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/betreuungsrecht-kaltstart-interview/SKILL.md) | [`vermoegensverzeichnis-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/vermoegensverzeichnis-pruefung/SKILL.md) |
+| [`genehmigungspflicht-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betreuungsrecht/skills/genehmigungspflicht-pruefung/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Miet-, Wohnungs- & Immobilienrecht
 
-### [fachanwalt-miet-wohnungseigentumsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht) (12 Skills)
+### [fachanwalt-miet-wohnungseigentumsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht) · 12 Skills
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-miet-weg-mediation-mietverein-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-weg-mediation-mietverein-schlichtung)
-- [`fachanwalt-miet-weg-waermepumpe-geg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-weg-waermepumpe-geg)
-- [`fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung)
-- [`fachanwalt-miet-wohnungseigentumsrecht-kuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-kuendigung)
-- [`fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung)
-- [`fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel)
-- [`fachanwalt-miet-wohnungseigentumsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-orientierung)
-- [`fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44)
-- [`fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel/SKILL.md) |
+| [`fachanwalt-miet-weg-mediation-mietverein-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-weg-mediation-mietverein-schlichtung/SKILL.md) | [`fachanwalt-miet-wohnungseigentumsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-orientierung/SKILL.md) |
+| [`fachanwalt-miet-weg-waermepumpe-geg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-weg-waermepumpe-geg/SKILL.md) | [`fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44/SKILL.md) |
+| [`fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung/SKILL.md) | [`fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md) |
+| [`fachanwalt-miet-wohnungseigentumsrecht-kuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-kuendigung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
 
-### [fachanwalt-bau-architektenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt)
-- [`fachanwalt-bau-architektenrecht-abnahme-verweigerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-abnahme-verweigerung)
-- [`fachanwalt-bau-architektenrecht-bauablauf-vbg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bauablauf-vbg)
-- [`fachanwalt-bau-architektenrecht-bautraeger-insolvenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bautraeger-insolvenz)
-- [`fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze)
-- [`fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg)
-- [`fachanwalt-bau-architektenrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-orientierung)
-- [`fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung)
-- [`fachanwalt-bau-architektenrecht-werkmangel-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-werkmangel-pruefen)
-- [`mandat-triage-bau-architektenrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/mandat-triage-bau-architektenrecht)
-- [`nachtragsmanagement-650b`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/nachtragsmanagement-650b)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/vergleichsverhandlung-strategie)
-- [`werkmangel-vob-bgb-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/werkmangel-vob-bgb-pruefen)
+### [fachanwalt-bau-architektenrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht) · 15 Skills
 
-### [mietrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht) (14 Skills)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung/SKILL.md) |
+| [`fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt/SKILL.md) | [`fachanwalt-bau-architektenrecht-werkmangel-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-werkmangel-pruefen/SKILL.md) |
+| [`fachanwalt-bau-architektenrecht-abnahme-verweigerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-abnahme-verweigerung/SKILL.md) | [`mandat-triage-bau-architektenrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/mandat-triage-bau-architektenrecht/SKILL.md) |
+| [`fachanwalt-bau-architektenrecht-bauablauf-vbg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bauablauf-vbg/SKILL.md) | [`nachtragsmanagement-650b`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/nachtragsmanagement-650b/SKILL.md) |
+| [`fachanwalt-bau-architektenrecht-bautraeger-insolvenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-bautraeger-insolvenz/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg/SKILL.md) | [`werkmangel-vob-bgb-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/werkmangel-vob-bgb-pruefen/SKILL.md) |
+| [`fachanwalt-bau-architektenrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bau-architektenrecht/skills/fachanwalt-bau-architektenrecht-orientierung/SKILL.md) |  |
 
-- [`eigenbedarfskuendigung-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/eigenbedarfskuendigung-erstellen)
-- [`klageentwurf-amtsgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/klageentwurf-amtsgericht)
-- [`lage-und-ausstattung-erheben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/lage-und-ausstattung-erheben)
-- [`mahnung-zahlungsverzug-mieter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mahnung-zahlungsverzug-mieter)
-- [`mandat-triage-mietrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mandat-triage-mietrecht)
-- [`mieteranfragen-beantworten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mieteranfragen-beantworten)
-- [`mieterhoehung-pruefen-widersprechen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mieterhoehung-pruefen-widersprechen)
-- [`mieterhoehungsverlangen-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mieterhoehungsverlangen-erstellen)
-- [`mietkaution-rueckforderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mietkaution-rueckforderung)
-- [`mietsenkungsverlangen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mietsenkungsverlangen)
-- [`mietspiegel-quellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mietspiegel-quellen)
-- [`nebenkostenabrechnung-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/nebenkostenabrechnung-erstellen)
-- [`nebenkostenabrechnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/nebenkostenabrechnung-pruefen)
-- [`weg-beschluss-anfechten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/weg-beschluss-anfechten)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [immobilienrechtspraxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis) (7 Skills)
+### [mietrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht) · 14 Skills
 
-- [`case-management`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/case-management)
-- [`grundbuchanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/grundbuchanalyse)
-- [`mieteranfragen-bearbeitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/mieteranfragen-bearbeitung)
-- [`projekt-arbeitsweise`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/projekt-arbeitsweise)
-- [`sachverhaltsermittlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/sachverhaltsermittlung)
-- [`vertragserstellung-musterbasiert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/vertragserstellung-musterbasiert)
-- [`vertragspruefung-playbook`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/vertragspruefung-playbook)
+| Skill | Skill |
+|---|---|
+| [`eigenbedarfskuendigung-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/eigenbedarfskuendigung-erstellen/SKILL.md) | [`mieterhoehungsverlangen-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mieterhoehungsverlangen-erstellen/SKILL.md) |
+| [`klageentwurf-amtsgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/klageentwurf-amtsgericht/SKILL.md) | [`mietkaution-rueckforderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mietkaution-rueckforderung/SKILL.md) |
+| [`lage-und-ausstattung-erheben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/lage-und-ausstattung-erheben/SKILL.md) | [`mietsenkungsverlangen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mietsenkungsverlangen/SKILL.md) |
+| [`mahnung-zahlungsverzug-mieter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mahnung-zahlungsverzug-mieter/SKILL.md) | [`mietspiegel-quellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mietspiegel-quellen/SKILL.md) |
+| [`mandat-triage-mietrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mandat-triage-mietrecht/SKILL.md) | [`nebenkostenabrechnung-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/nebenkostenabrechnung-erstellen/SKILL.md) |
+| [`mieteranfragen-beantworten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mieteranfragen-beantworten/SKILL.md) | [`nebenkostenabrechnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/nebenkostenabrechnung-pruefen/SKILL.md) |
+| [`mieterhoehung-pruefen-widersprechen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/mieterhoehung-pruefen-widersprechen/SKILL.md) | [`weg-beschluss-anfechten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietrecht/skills/weg-beschluss-anfechten/SKILL.md) |
 
-### [normenkontrolle-bauleitplanung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung) (21 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`abwaegungsgebot-1-abs-7-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/abwaegungsgebot-1-abs-7-baugb)
-- [`anpassungsgebot-flaechennutzungsplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/anpassungsgebot-flaechennutzungsplan)
-- [`antragsbefugnis-eigentuemer-nachbar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/antragsbefugnis-eigentuemer-nachbar)
-- [`artenschutz-naturschutz-planung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/artenschutz-naturschutz-planung)
-- [`aufstellungsbeschluss-bekanntmachung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/aufstellungsbeschluss-bekanntmachung)
-- [`beteiligung-frueh-foermlich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/beteiligung-frueh-foermlich)
-- [`buergerversammlung-protokoll-audit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/buergerversammlung-protokoll-audit)
-- [`einstweilige-anordnung-47-abs-6-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/einstweilige-anordnung-47-abs-6-vwgo)
-- [`erforderlichkeit-1-abs-3-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/erforderlichkeit-1-abs-3-baugb)
-- [`festsetzungskatalog-9-baugb-baunvo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/festsetzungskatalog-9-baugb-baunvo)
-- [`immissionsschutz-laerm-bauleitplanung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/immissionsschutz-laerm-bauleitplanung)
-- [`jahresfrist-47-abs-2-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/jahresfrist-47-abs-2-vwgo)
-- [`mandat-erstgespraech-normenkontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/mandat-erstgespraech-normenkontrolle)
-- [`muendliche-verhandlung-vgh-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/muendliche-verhandlung-vgh-strategie)
-- [`normenkontrollantrag-schriftsatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/normenkontrollantrag-schriftsatz)
-- [`planerhaltung-214-215-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/planerhaltung-214-215-baugb)
-- [`statthaftigkeit-47-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/statthaftigkeit-47-vwgo)
-- [`stellplatzsatzung-bay-bauordnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/stellplatzsatzung-bay-bauordnung)
-- [`umweltbericht-umweltpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/umweltbericht-umweltpruefung)
-- [`veraenderungssperre-zurueckstellung-14-15-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/veraenderungssperre-zurueckstellung-14-15-baugb)
-- [`vorhabenbezogener-bebauungsplan-12-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/vorhabenbezogener-bebauungsplan-12-baugb)
+### [immobilienrechtspraxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis) · 7 Skills
 
-### [zwangsverwaltung-zvg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg) (23 Skills)
+| Skill | Skill |
+|---|---|
+| [`case-management`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/case-management/SKILL.md) | [`sachverhaltsermittlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/sachverhaltsermittlung/SKILL.md) |
+| [`grundbuchanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/grundbuchanalyse/SKILL.md) | [`vertragserstellung-musterbasiert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/vertragserstellung-musterbasiert/SKILL.md) |
+| [`mieteranfragen-bearbeitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/mieteranfragen-bearbeitung/SKILL.md) | [`vertragspruefung-playbook`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/vertragspruefung-playbook/SKILL.md) |
+| [`projekt-arbeitsweise`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis/skills/projekt-arbeitsweise/SKILL.md) |  |
 
-- [`zvg-aktenanlage-objektcockpit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-aktenanlage-objektcockpit)
-- [`zvg-berichtswesen-gericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-berichtswesen-gericht)
-- [`zvg-besitzuebernahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-besitzuebernahme)
-- [`zvg-bestellung-beschlagnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-bestellung-beschlagnahme)
-- [`zvg-betriebskosten-hausgeld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-betriebskosten-hausgeld)
-- [`zvg-bieterangebot-bewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-bieterangebot-bewertung)
-- [`zvg-glaeubiger-schuldner-kommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-glaeubiger-schuldner-kommunikation)
-- [`zvg-insolvenz-schnittstelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-insolvenz-schnittstelle)
-- [`zvg-instandhaltung-sicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-instandhaltung-sicherung)
-- [`zvg-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-kommandocenter)
-- [`zvg-konten-kassenfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-konten-kassenfuehrung)
-- [`zvg-miet-und-pachtverwaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-miet-und-pachtverwaltung)
-- [`zvg-mieteinzug-rueckstaende`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-mieteinzug-rueckstaende)
-- [`zvg-oeffentliche-lasten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-oeffentliche-lasten)
-- [`zvg-portal-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-portal-recherche)
-- [`zvg-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-quality-gate)
-- [`zvg-raeumung-kuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-raeumung-kuendigung)
-- [`zvg-rechnungslegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-rechnungslegung)
-- [`zvg-simulation-training`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-simulation-training)
-- [`zvg-verkauf-versteigerung-schnittstelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-verkauf-versteigerung-schnittstelle)
-- [`zvg-versicherungen-gefahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-versicherungen-gefahren)
-- [`zvg-versteigerungsteilnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-versteigerungsteilnahme)
-- [`zvg-verteilungsplan-155`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-verteilungsplan-155)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [normenkontrolle-bauleitplanung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung) · 21 Skills
+
+| Skill | Skill |
+|---|---|
+| [`abwaegungsgebot-1-abs-7-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/abwaegungsgebot-1-abs-7-baugb/SKILL.md) | [`jahresfrist-47-abs-2-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/jahresfrist-47-abs-2-vwgo/SKILL.md) |
+| [`anpassungsgebot-flaechennutzungsplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/anpassungsgebot-flaechennutzungsplan/SKILL.md) | [`mandat-erstgespraech-normenkontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/mandat-erstgespraech-normenkontrolle/SKILL.md) |
+| [`antragsbefugnis-eigentuemer-nachbar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/antragsbefugnis-eigentuemer-nachbar/SKILL.md) | [`muendliche-verhandlung-vgh-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/muendliche-verhandlung-vgh-strategie/SKILL.md) |
+| [`artenschutz-naturschutz-planung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/artenschutz-naturschutz-planung/SKILL.md) | [`normenkontrollantrag-schriftsatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/normenkontrollantrag-schriftsatz/SKILL.md) |
+| [`aufstellungsbeschluss-bekanntmachung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/aufstellungsbeschluss-bekanntmachung/SKILL.md) | [`planerhaltung-214-215-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/planerhaltung-214-215-baugb/SKILL.md) |
+| [`beteiligung-frueh-foermlich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/beteiligung-frueh-foermlich/SKILL.md) | [`statthaftigkeit-47-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/statthaftigkeit-47-vwgo/SKILL.md) |
+| [`buergerversammlung-protokoll-audit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/buergerversammlung-protokoll-audit/SKILL.md) | [`stellplatzsatzung-bay-bauordnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/stellplatzsatzung-bay-bauordnung/SKILL.md) |
+| [`einstweilige-anordnung-47-abs-6-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/einstweilige-anordnung-47-abs-6-vwgo/SKILL.md) | [`umweltbericht-umweltpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/umweltbericht-umweltpruefung/SKILL.md) |
+| [`erforderlichkeit-1-abs-3-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/erforderlichkeit-1-abs-3-baugb/SKILL.md) | [`veraenderungssperre-zurueckstellung-14-15-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/veraenderungssperre-zurueckstellung-14-15-baugb/SKILL.md) |
+| [`festsetzungskatalog-9-baugb-baunvo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/festsetzungskatalog-9-baugb-baunvo/SKILL.md) | [`vorhabenbezogener-bebauungsplan-12-baugb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/vorhabenbezogener-bebauungsplan-12-baugb/SKILL.md) |
+| [`immissionsschutz-laerm-bauleitplanung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/normenkontrolle-bauleitplanung/skills/immissionsschutz-laerm-bauleitplanung/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [zwangsverwaltung-zvg](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg) · 23 Skills
+
+| Skill | Skill |
+|---|---|
+| [`zvg-aktenanlage-objektcockpit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-aktenanlage-objektcockpit/SKILL.md) | [`zvg-mieteinzug-rueckstaende`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-mieteinzug-rueckstaende/SKILL.md) |
+| [`zvg-berichtswesen-gericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-berichtswesen-gericht/SKILL.md) | [`zvg-oeffentliche-lasten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-oeffentliche-lasten/SKILL.md) |
+| [`zvg-besitzuebernahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-besitzuebernahme/SKILL.md) | [`zvg-portal-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-portal-recherche/SKILL.md) |
+| [`zvg-bestellung-beschlagnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-bestellung-beschlagnahme/SKILL.md) | [`zvg-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-quality-gate/SKILL.md) |
+| [`zvg-betriebskosten-hausgeld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-betriebskosten-hausgeld/SKILL.md) | [`zvg-raeumung-kuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-raeumung-kuendigung/SKILL.md) |
+| [`zvg-bieterangebot-bewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-bieterangebot-bewertung/SKILL.md) | [`zvg-rechnungslegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-rechnungslegung/SKILL.md) |
+| [`zvg-glaeubiger-schuldner-kommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-glaeubiger-schuldner-kommunikation/SKILL.md) | [`zvg-simulation-training`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-simulation-training/SKILL.md) |
+| [`zvg-insolvenz-schnittstelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-insolvenz-schnittstelle/SKILL.md) | [`zvg-verkauf-versteigerung-schnittstelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-verkauf-versteigerung-schnittstelle/SKILL.md) |
+| [`zvg-instandhaltung-sicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-instandhaltung-sicherung/SKILL.md) | [`zvg-versicherungen-gefahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-versicherungen-gefahren/SKILL.md) |
+| [`zvg-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-kommandocenter/SKILL.md) | [`zvg-versteigerungsteilnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-versteigerungsteilnahme/SKILL.md) |
+| [`zvg-konten-kassenfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-konten-kassenfuehrung/SKILL.md) | [`zvg-verteilungsplan-155`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-verteilungsplan-155/SKILL.md) |
+| [`zvg-miet-und-pachtverwaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsverwaltung-zvg/skills/zvg-miet-und-pachtverwaltung/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Sozialrecht
 
-### [fachanwalt-sozialrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht) (12 Skills)
+### [fachanwalt-sozialrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht) · 12 Skills
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-sozialrecht-erwerbsminderungsrente`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente)
-- [`fachanwalt-sozialrecht-eu-rente-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-eu-rente-antrag)
-- [`fachanwalt-sozialrecht-gdb-schwerbehinderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-gdb-schwerbehinderung)
-- [`fachanwalt-sozialrecht-krankengeld-aussteuerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-krankengeld-aussteuerung)
-- [`fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg)
-- [`fachanwalt-sozialrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-orientierung)
-- [`fachanwalt-sozialrecht-sgb-ii-bescheid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-sgb-ii-bescheid)
-- [`fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung)
-- [`fachanwalt-sozialrecht-widerspruch-sozialleistung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-widerspruch-sozialleistung)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-sozialrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-orientierung/SKILL.md) |
+| [`fachanwalt-sozialrecht-erwerbsminderungsrente`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-erwerbsminderungsrente/SKILL.md) | [`fachanwalt-sozialrecht-sgb-ii-bescheid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-sgb-ii-bescheid/SKILL.md) |
+| [`fachanwalt-sozialrecht-eu-rente-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-eu-rente-antrag/SKILL.md) | [`fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung/SKILL.md) |
+| [`fachanwalt-sozialrecht-gdb-schwerbehinderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-gdb-schwerbehinderung/SKILL.md) | [`fachanwalt-sozialrecht-widerspruch-sozialleistung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-widerspruch-sozialleistung/SKILL.md) |
+| [`fachanwalt-sozialrecht-krankengeld-aussteuerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-krankengeld-aussteuerung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sozialrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
 
-### [sozialrecht-kanzlei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei) (24 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`akteneinsicht-anfordern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/akteneinsicht-anfordern)
-- [`akteneinsicht-auswerten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/akteneinsicht-auswerten)
-- [`anlagen-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/anlagen-erstellen)
-- [`bescheid-frist-quick-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/bescheid-frist-quick-check)
-- [`bescheidanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/bescheidanalyse)
-- [`buergergeld-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/buergergeld-pruefen)
-- [`eilantrag-sozialrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/eilantrag-sozialrecht)
-- [`eingliederungshilfe-schule`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/eingliederungshilfe-schule)
-- [`erwerbsminderungsrente-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/erwerbsminderungsrente-pruefen)
-- [`fristenbuch-sozialrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/fristenbuch-sozialrecht)
-- [`hilfsmittelantrag-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/hilfsmittelantrag-pruefen)
-- [`klage-sozialgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/klage-sozialgericht)
-- [`mandanten-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/mandanten-intake)
-- [`mandantenbrief-leichte-sprache`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/mandantenbrief-leichte-sprache)
-- [`mandat-triage-sozialrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/mandat-triage-sozialrecht)
-- [`pflegegrad-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/pflegegrad-widerspruch)
-- [`pkh-erfolgsaussicht-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/pkh-erfolgsaussicht-pruefen)
-- [`prozesskostenhilfe-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/prozesskostenhilfe-antrag)
-- [`schulung-fallbesprechung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/schulung-fallbesprechung)
-- [`schwerbehindertenausweis-gdb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/schwerbehindertenausweis-gdb)
-- [`sozialrecht-fallaufnahme-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/sozialrecht-fallaufnahme-routing)
-- [`sozialrecht-kanzlei-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/sozialrecht-kanzlei-kaltstart-interview)
-- [`widerspruch-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/widerspruch-formulieren)
-- [`widerspruchsfrist-und-zustellung-sgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/widerspruchsfrist-und-zustellung-sgb)
+### [sozialrecht-kanzlei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei) · 24 Skills
+
+| Skill | Skill |
+|---|---|
+| [`akteneinsicht-anfordern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/akteneinsicht-anfordern/SKILL.md) | [`mandanten-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/mandanten-intake/SKILL.md) |
+| [`akteneinsicht-auswerten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/akteneinsicht-auswerten/SKILL.md) | [`mandantenbrief-leichte-sprache`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/mandantenbrief-leichte-sprache/SKILL.md) |
+| [`anlagen-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/anlagen-erstellen/SKILL.md) | [`mandat-triage-sozialrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/mandat-triage-sozialrecht/SKILL.md) |
+| [`bescheid-frist-quick-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/bescheid-frist-quick-check/SKILL.md) | [`pflegegrad-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/pflegegrad-widerspruch/SKILL.md) |
+| [`bescheidanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/bescheidanalyse/SKILL.md) | [`pkh-erfolgsaussicht-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/pkh-erfolgsaussicht-pruefen/SKILL.md) |
+| [`buergergeld-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/buergergeld-pruefen/SKILL.md) | [`prozesskostenhilfe-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/prozesskostenhilfe-antrag/SKILL.md) |
+| [`eilantrag-sozialrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/eilantrag-sozialrecht/SKILL.md) | [`schulung-fallbesprechung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/schulung-fallbesprechung/SKILL.md) |
+| [`eingliederungshilfe-schule`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/eingliederungshilfe-schule/SKILL.md) | [`schwerbehindertenausweis-gdb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/schwerbehindertenausweis-gdb/SKILL.md) |
+| [`erwerbsminderungsrente-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/erwerbsminderungsrente-pruefen/SKILL.md) | [`sozialrecht-fallaufnahme-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/sozialrecht-fallaufnahme-routing/SKILL.md) |
+| [`fristenbuch-sozialrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/fristenbuch-sozialrecht/SKILL.md) | [`sozialrecht-kanzlei-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/sozialrecht-kanzlei-kaltstart-interview/SKILL.md) |
+| [`hilfsmittelantrag-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/hilfsmittelantrag-pruefen/SKILL.md) | [`widerspruch-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/widerspruch-formulieren/SKILL.md) |
+| [`klage-sozialgericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/klage-sozialgericht/SKILL.md) | [`widerspruchsfrist-und-zustellung-sgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sozialrecht-kanzlei/skills/widerspruchsfrist-und-zustellung-sgb/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Medizin- & Versicherungsrecht
 
-### [fachanwalt-medizinrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht) (15 Skills)
+### [fachanwalt-medizinrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht) · 15 Skills
 
-- [`aufklaerungsfehler-beweisstrategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie)
-- [`behandlungsfehler-anspruch-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-medizinrecht-approbations-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-approbations-widerspruch)
-- [`fachanwalt-medizinrecht-aufklaerungsfehler`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-aufklaerungsfehler)
-- [`fachanwalt-medizinrecht-behandlungsfehler-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-behandlungsfehler-pruefen)
-- [`fachanwalt-medizinrecht-behandlungsvertrag-630a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-behandlungsvertrag-630a)
-- [`fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung)
-- [`fachanwalt-medizinrecht-honorarvertrag-kv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-honorarvertrag-kv)
-- [`fachanwalt-medizinrecht-kassenarztrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-kassenarztrecht)
-- [`fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid)
-- [`fachanwalt-medizinrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-orientierung)
-- [`mandat-triage-medizinrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/mandat-triage-medizinrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`aufklaerungsfehler-beweisstrategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/SKILL.md) | [`fachanwalt-medizinrecht-honorarvertrag-kv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-honorarvertrag-kv/SKILL.md) |
+| [`behandlungsfehler-anspruch-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md) | [`fachanwalt-medizinrecht-kassenarztrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-kassenarztrecht/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid/SKILL.md) |
+| [`fachanwalt-medizinrecht-approbations-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-approbations-widerspruch/SKILL.md) | [`fachanwalt-medizinrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-orientierung/SKILL.md) |
+| [`fachanwalt-medizinrecht-aufklaerungsfehler`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-aufklaerungsfehler/SKILL.md) | [`mandat-triage-medizinrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/mandat-triage-medizinrecht/SKILL.md) |
+| [`fachanwalt-medizinrecht-behandlungsfehler-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-behandlungsfehler-pruefen/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-medizinrecht-behandlungsvertrag-630a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-behandlungsvertrag-630a/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-medizinrecht/skills/fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung/SKILL.md) |  |
 
-### [fachanwalt-versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`deckungsanfrage-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/deckungsanfrage-pruefen)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage)
-- [`fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht)
-- [`fachanwalt-versicherungsrecht-deckungsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-deckungsklage)
-- [`fachanwalt-versicherungsrecht-do-deckungsabwehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-do-deckungsabwehr)
-- [`fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf)
-- [`fachanwalt-versicherungsrecht-leistungsablehnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-leistungsablehnung-pruefen)
-- [`fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung)
-- [`fachanwalt-versicherungsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-orientierung)
-- [`fachanwalt-versicherungsrecht-regress-abwehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-regress-abwehr)
-- [`klage-versicherer-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/klage-versicherer-strategie)
-- [`mandat-triage-versicherungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/mandat-triage-versicherungsrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht) · 15 Skills
+
+| Skill | Skill |
+|---|---|
+| [`deckungsanfrage-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/deckungsanfrage-pruefen/SKILL.md) | [`fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-versicherungsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-orientierung/SKILL.md) |
+| [`fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-berufsunfaehigkeit-klage/SKILL.md) | [`fachanwalt-versicherungsrecht-regress-abwehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-regress-abwehr/SKILL.md) |
+| [`fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-cyber-loesegeld-sanktionsrecht/SKILL.md) | [`klage-versicherer-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/klage-versicherer-strategie/SKILL.md) |
+| [`fachanwalt-versicherungsrecht-deckungsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-deckungsklage/SKILL.md) | [`mandat-triage-versicherungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/mandat-triage-versicherungsrecht/SKILL.md) |
+| [`fachanwalt-versicherungsrecht-do-deckungsabwehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-do-deckungsabwehr/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-versicherungsrecht-leistungsablehnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht/skills/fachanwalt-versicherungsrecht-leistungsablehnung-pruefen/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Verkehrs-, Transport- & Sportrecht
 
-### [fachanwalt-verkehrsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht) (15 Skills)
+### [fachanwalt-verkehrsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht) · 15 Skills
 
-- [`bussgeld-einspruch-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/bussgeld-einspruch-pruefen)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-verkehr-autonom-1d-stvg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehr-autonom-1d-stvg)
-- [`fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen)
-- [`fachanwalt-verkehrsrecht-fahrerlaubnis-entzug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-fahrerlaubnis-entzug)
-- [`fachanwalt-verkehrsrecht-mpu-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-mpu-vorbereitung)
-- [`fachanwalt-verkehrsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-orientierung)
-- [`fachanwalt-verkehrsrecht-regulierungsanforderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-regulierungsanforderung)
-- [`fachanwalt-verkehrsrecht-tempo-messung-beweis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-tempo-messung-beweis)
-- [`fachanwalt-verkehrsrecht-unfallregulierung-quoten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-unfallregulierung-quoten)
-- [`fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich)
-- [`mandat-triage-verkehrsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/mandat-triage-verkehrsrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/schriftsatzkern-substantiierung)
-- [`unfall-haftungsquote-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/unfall-haftungsquote-berechnen)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`bussgeld-einspruch-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/bussgeld-einspruch-pruefen/SKILL.md) | [`fachanwalt-verkehrsrecht-tempo-messung-beweis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-tempo-messung-beweis/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-verkehrsrecht-unfallregulierung-quoten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-unfallregulierung-quoten/SKILL.md) |
+| [`fachanwalt-verkehr-autonom-1d-stvg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehr-autonom-1d-stvg/SKILL.md) | [`fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich/SKILL.md) |
+| [`fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen/SKILL.md) | [`mandat-triage-verkehrsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/mandat-triage-verkehrsrecht/SKILL.md) |
+| [`fachanwalt-verkehrsrecht-fahrerlaubnis-entzug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-fahrerlaubnis-entzug/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-verkehrsrecht-mpu-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-mpu-vorbereitung/SKILL.md) | [`unfall-haftungsquote-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/unfall-haftungsquote-berechnen/SKILL.md) |
+| [`fachanwalt-verkehrsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-orientierung/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-verkehrsrecht-regulierungsanforderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verkehrsrecht/skills/fachanwalt-verkehrsrecht-regulierungsanforderung/SKILL.md) |  |
 
-### [fachanwalt-transport-speditionsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-transport-adr-gefahrgut`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-adr-gefahrgut)
-- [`fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg)
-- [`fachanwalt-transport-cmr-schadensregulierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-cmr-schadensregulierung)
-- [`fachanwalt-transport-speditionshaftung-hgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionshaftung-hgb)
-- [`fachanwalt-transport-speditionsrecht-cmr-haftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-cmr-haftung)
-- [`fachanwalt-transport-speditionsrecht-ladungsschaden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-ladungsschaden)
-- [`fachanwalt-transport-speditionsrecht-lieferverzug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-lieferverzug)
-- [`fachanwalt-transport-speditionsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-orientierung)
-- [`fachanwalt-transport-tio-schiedsgericht-adsp-klauseln`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-tio-schiedsgericht-adsp-klauseln)
-- [`frachtfuehrerhaftung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/frachtfuehrerhaftung-pruefen)
-- [`mandat-triage-transport-speditionsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/mandat-triage-transport-speditionsrecht)
-- [`reklamationsschreiben-cmr-hgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/reklamationsschreiben-cmr-hgb)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-transport-speditionsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht) · 15 Skills
 
-### [fachanwalt-sportrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht) (15 Skills)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-transport-speditionsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-orientierung/SKILL.md) |
+| [`fachanwalt-transport-adr-gefahrgut`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-adr-gefahrgut/SKILL.md) | [`fachanwalt-transport-tio-schiedsgericht-adsp-klauseln`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-tio-schiedsgericht-adsp-klauseln/SKILL.md) |
+| [`fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg/SKILL.md) | [`frachtfuehrerhaftung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/frachtfuehrerhaftung-pruefen/SKILL.md) |
+| [`fachanwalt-transport-cmr-schadensregulierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-cmr-schadensregulierung/SKILL.md) | [`mandat-triage-transport-speditionsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/mandat-triage-transport-speditionsrecht/SKILL.md) |
+| [`fachanwalt-transport-speditionshaftung-hgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionshaftung-hgb/SKILL.md) | [`reklamationsschreiben-cmr-hgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/reklamationsschreiben-cmr-hgb/SKILL.md) |
+| [`fachanwalt-transport-speditionsrecht-cmr-haftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-cmr-haftung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-transport-speditionsrecht-ladungsschaden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-ladungsschaden/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-transport-speditionsrecht-lieferverzug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-lieferverzug/SKILL.md) |  |
 
-- [`cas-berufung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/cas-berufung-vorbereiten)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren)
-- [`fachanwalt-sportrecht-doping-cas-berufung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-doping-cas-berufung)
-- [`fachanwalt-sportrecht-doping-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-doping-verfahren)
-- [`fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung)
-- [`fachanwalt-sportrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-orientierung)
-- [`fachanwalt-sportrecht-spielervertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-spielervertrag)
-- [`fachanwalt-sportrecht-stadion-hausverbot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-stadion-hausverbot)
-- [`fachanwalt-sportrecht-transferklausel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-transferklausel)
-- [`fachanwalt-sportrecht-vereinsstrafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-vereinsstrafrecht)
-- [`mandat-triage-sportrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/mandat-triage-sportrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/schriftsatzkern-substantiierung)
-- [`verbandsstrafe-anfechten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/verbandsstrafe-anfechten)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/vergleichsverhandlung-strategie)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [verkehr-infrastrukturrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht) (12 Skills)
+### [fachanwalt-sportrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht) · 15 Skills
 
-- [`verkehr-infrastrukturrecht-foerderung-vergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-foerderung-vergabe)
-- [`verkehr-infrastrukturrecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-kommandocenter)
-- [`verkehr-infrastrukturrecht-ladeinfrastruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-ladeinfrastruktur)
-- [`verkehr-infrastrukturrecht-parkraumbewirtschaftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-parkraumbewirtschaftung)
-- [`verkehr-infrastrukturrecht-planfeststellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-planfeststellung)
-- [`verkehr-infrastrukturrecht-schulwegsicherheit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-schulwegsicherheit)
-- [`verkehr-infrastrukturrecht-sondernutzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-sondernutzung)
-- [`verkehr-infrastrukturrecht-strassenbahn`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-strassenbahn)
-- [`verkehr-infrastrukturrecht-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-verfahren)
-- [`verkehr-infrastrukturrecht-verkehrsplanung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-verkehrsplanung)
-- [`verkehr-infrastrukturrecht-verkehrswende`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-verkehrswende)
-- [`verkehr-infrastrukturrecht-wirtschaftsverkehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-wirtschaftsverkehr)
+| Skill | Skill |
+|---|---|
+| [`cas-berufung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/cas-berufung-vorbereiten/SKILL.md) | [`fachanwalt-sportrecht-stadion-hausverbot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-stadion-hausverbot/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-sportrecht-transferklausel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-transferklausel/SKILL.md) |
+| [`fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren/SKILL.md) | [`fachanwalt-sportrecht-vereinsstrafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-vereinsstrafrecht/SKILL.md) |
+| [`fachanwalt-sportrecht-doping-cas-berufung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-doping-cas-berufung/SKILL.md) | [`mandat-triage-sportrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/mandat-triage-sportrecht/SKILL.md) |
+| [`fachanwalt-sportrecht-doping-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-doping-verfahren/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung/SKILL.md) | [`verbandsstrafe-anfechten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/verbandsstrafe-anfechten/SKILL.md) |
+| [`fachanwalt-sportrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-orientierung/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-sportrecht-spielervertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-sportrecht/skills/fachanwalt-sportrecht-spielervertrag/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [verkehr-infrastrukturrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht) · 12 Skills
+
+| Skill | Skill |
+|---|---|
+| [`verkehr-infrastrukturrecht-foerderung-vergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-foerderung-vergabe/SKILL.md) | [`verkehr-infrastrukturrecht-sondernutzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-sondernutzung/SKILL.md) |
+| [`verkehr-infrastrukturrecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-kommandocenter/SKILL.md) | [`verkehr-infrastrukturrecht-strassenbahn`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-strassenbahn/SKILL.md) |
+| [`verkehr-infrastrukturrecht-ladeinfrastruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-ladeinfrastruktur/SKILL.md) | [`verkehr-infrastrukturrecht-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-verfahren/SKILL.md) |
+| [`verkehr-infrastrukturrecht-parkraumbewirtschaftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-parkraumbewirtschaftung/SKILL.md) | [`verkehr-infrastrukturrecht-verkehrsplanung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-verkehrsplanung/SKILL.md) |
+| [`verkehr-infrastrukturrecht-planfeststellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-planfeststellung/SKILL.md) | [`verkehr-infrastrukturrecht-verkehrswende`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-verkehrswende/SKILL.md) |
+| [`verkehr-infrastrukturrecht-schulwegsicherheit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-schulwegsicherheit/SKILL.md) | [`verkehr-infrastrukturrecht-wirtschaftsverkehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verkehr-infrastrukturrecht/skills/verkehr-infrastrukturrecht-wirtschaftsverkehr/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Gewerblicher Rechtsschutz, Urheber- & Medienrecht
 
-### [fachanwalt-gewerblicher-rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz) (13 Skills)
+### [fachanwalt-gewerblicher-rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz) · 13 Skills
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg)
-- [`fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo)
-- [`fachanwalt-gewerblicher-rechtsschutz-designverletzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-designverletzung)
-- [`fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch)
-- [`fachanwalt-gewerblicher-rechtsschutz-markenanmeldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-markenanmeldung)
-- [`fachanwalt-gewerblicher-rechtsschutz-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-orientierung)
-- [`fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage)
-- [`fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung)
-- [`fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg)
-- [`fachanwalt-gewrechts-ki-vo-50-genai`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewrechts-ki-vo-50-genai)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage/SKILL.md) |
+| [`fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg/SKILL.md) | [`fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung/SKILL.md) |
+| [`fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo/SKILL.md) | [`fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg/SKILL.md) |
+| [`fachanwalt-gewerblicher-rechtsschutz-designverletzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-designverletzung/SKILL.md) | [`fachanwalt-gewrechts-ki-vo-50-genai`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewrechts-ki-vo-50-genai/SKILL.md) |
+| [`fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-gewerblicher-rechtsschutz-markenanmeldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-markenanmeldung/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-gewerblicher-rechtsschutz-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-orientierung/SKILL.md) |  |
 
-### [fachanwalt-urheber-medienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-urheber-medienrecht-abmahnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-abmahnung-pruefen)
-- [`fachanwalt-urheber-medienrecht-filesharing-verteidigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-filesharing-verteidigung)
-- [`fachanwalt-urheber-medienrecht-gegendarstellung-presse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-gegendarstellung-presse)
-- [`fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung)
-- [`fachanwalt-urheber-medienrecht-mod-erklaerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-mod-erklaerung)
-- [`fachanwalt-urheber-medienrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-orientierung)
-- [`fachanwalt-urheber-medienrecht-presse-gegendarstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-presse-gegendarstellung)
-- [`fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg)
-- [`fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out)
-- [`gegendarstellung-presse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/gegendarstellung-presse)
-- [`mandat-triage-urheber-medienrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/mandat-triage-urheber-medienrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/schriftsatzkern-substantiierung)
-- [`urheber-abmahnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/urheber-abmahnung-pruefen)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-urheber-medienrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht) · 15 Skills
 
-### [gewerblicher-rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz) (17 Skills)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg/SKILL.md) |
+| [`fachanwalt-urheber-medienrecht-abmahnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-abmahnung-pruefen/SKILL.md) | [`fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out/SKILL.md) |
+| [`fachanwalt-urheber-medienrecht-filesharing-verteidigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-filesharing-verteidigung/SKILL.md) | [`gegendarstellung-presse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/gegendarstellung-presse/SKILL.md) |
+| [`fachanwalt-urheber-medienrecht-gegendarstellung-presse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-gegendarstellung-presse/SKILL.md) | [`mandat-triage-urheber-medienrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/mandat-triage-urheber-medienrecht/SKILL.md) |
+| [`fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-urheber-medienrecht-mod-erklaerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-mod-erklaerung/SKILL.md) | [`urheber-abmahnung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/urheber-abmahnung-pruefen/SKILL.md) |
+| [`fachanwalt-urheber-medienrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-orientierung/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-urheber-medienrecht-presse-gegendarstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-urheber-medienrecht/skills/fachanwalt-urheber-medienrecht-presse-gegendarstellung/SKILL.md) |  |
 
-- [`abmahnung-urheberrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/abmahnung-urheberrecht)
-- [`erfindungsmeldung-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/erfindungsmeldung-aufnahme)
-- [`fto-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/fto-triage)
-- [`gewerblicher-rechtsschutz-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/gewerblicher-rechtsschutz-anpassen)
-- [`gewerblicher-rechtsschutz-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/gewerblicher-rechtsschutz-kaltstart-interview)
-- [`gewerblicher-rechtsschutz-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/gewerblicher-rechtsschutz-mandat-arbeitsbereich)
-- [`ip-klausel-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/ip-klausel-pruefung)
-- [`mandat-triage-gewerblicher-rechtsschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/mandat-triage-gewerblicher-rechtsschutz)
-- [`markenanmeldung-dpma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/markenanmeldung-dpma)
-- [`markenrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/markenrecherche)
-- [`open-source-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/open-source-pruefung)
-- [`schutzrechts-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/schutzrechts-portfolio)
-- [`schutzschrift-eilverfuegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/schutzschrift-eilverfuegung)
-- [`streitwert-igr-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/streitwert-igr-berechnen)
-- [`takedown-anweisung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/takedown-anweisung)
-- [`unterlassungsverlangen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/unterlassungsverlangen)
-- [`verletzungs-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/verletzungs-triage)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [markenrecht-fashion-luxus](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus) (31 Skills)
+### [gewerblicher-rechtsschutz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz) · 17 Skills
 
-- [`abmahnung-markenrecht-uwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/abmahnung-markenrecht-uwg)
-- [`agb-haendlervertrag-luxus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/agb-haendlervertrag-luxus)
-- [`anmeldung-strategie-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/anmeldung-strategie-portfolio)
-- [`anti-ki-marke-und-kennzeichen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/anti-ki-marke-und-kennzeichen)
-- [`bildmarke-und-wort-bild`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/bildmarke-und-wort-bild)
-- [`discounter-und-graumarkt-brezelmann`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/discounter-und-graumarkt-brezelmann)
-- [`dpma-widerspruch-und-loeschung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/dpma-widerspruch-und-loeschung)
-- [`dreidimensionale-marke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/dreidimensionale-marke)
-- [`duftmarke-und-geschmacksmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/duftmarke-und-geschmacksmarke)
-- [`euipo-widerspruchsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/euipo-widerspruchsverfahren)
-- [`fashion-luxus-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/fashion-luxus-kaltstart-interview)
-- [`haptik-und-tastmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/haptik-und-tastmarke)
-- [`madrid-protokoll-und-internationale-registrierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/madrid-protokoll-und-internationale-registrierung)
-- [`markenmonitoring-und-watchlist`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/markenmonitoring-und-watchlist)
-- [`messe-verletzung-und-gv-einsatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/messe-verletzung-und-gv-einsatz)
-- [`nyc-korrespondenz-und-conflict-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/nyc-korrespondenz-und-conflict-check)
-- [`plattform-piraterie-donauzon`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/plattform-piraterie-donauzon)
-- [`positionsmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/positionsmarke)
-- [`produktpiraterie-und-zoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/produktpiraterie-und-zoll)
-- [`selektiver-vertrieb-coty`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/selektiver-vertrieb-coty)
-- [`slogan-marke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/slogan-marke)
-- [`soundmarke-und-bewegungsmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/soundmarke-und-bewegungsmarke)
-- [`ttab-opposition-und-cancellation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/ttab-opposition-und-cancellation)
-- [`unionsmarken-anmeldung-euipo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/unionsmarken-anmeldung-euipo)
-- [`us-counterfeit-und-customs-cbp`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/us-counterfeit-und-customs-cbp)
-- [`us-selektivvertrieb-und-mfp-tiffany-vs-costco`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/us-selektivvertrieb-und-mfp-tiffany-vs-costco)
-- [`us-trade-dress-und-secondary-meaning`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/us-trade-dress-und-secondary-meaning)
-- [`uspto-anmeldung-und-lanham-act`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/uspto-anmeldung-und-lanham-act)
-- [`uspto-office-actions-und-tess-tsdr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/uspto-office-actions-und-tess-tsdr)
-- [`vertikale-preisbindung-vbe-vo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/vertikale-preisbindung-vbe-vo)
-- [`wortmarke-anmeldung-dpma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/wortmarke-anmeldung-dpma)
+| Skill | Skill |
+|---|---|
+| [`abmahnung-urheberrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/abmahnung-urheberrecht/SKILL.md) | [`markenrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/markenrecherche/SKILL.md) |
+| [`erfindungsmeldung-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/erfindungsmeldung-aufnahme/SKILL.md) | [`open-source-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/open-source-pruefung/SKILL.md) |
+| [`fto-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/fto-triage/SKILL.md) | [`schutzrechts-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/schutzrechts-portfolio/SKILL.md) |
+| [`gewerblicher-rechtsschutz-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/gewerblicher-rechtsschutz-anpassen/SKILL.md) | [`schutzschrift-eilverfuegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/schutzschrift-eilverfuegung/SKILL.md) |
+| [`gewerblicher-rechtsschutz-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/gewerblicher-rechtsschutz-kaltstart-interview/SKILL.md) | [`streitwert-igr-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/streitwert-igr-berechnen/SKILL.md) |
+| [`gewerblicher-rechtsschutz-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/gewerblicher-rechtsschutz-mandat-arbeitsbereich/SKILL.md) | [`takedown-anweisung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/takedown-anweisung/SKILL.md) |
+| [`ip-klausel-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/ip-klausel-pruefung/SKILL.md) | [`unterlassungsverlangen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/unterlassungsverlangen/SKILL.md) |
+| [`mandat-triage-gewerblicher-rechtsschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/mandat-triage-gewerblicher-rechtsschutz/SKILL.md) | [`verletzungs-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/verletzungs-triage/SKILL.md) |
+| [`markenanmeldung-dpma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gewerblicher-rechtsschutz/skills/markenanmeldung-dpma/SKILL.md) |  |
 
-### [patentrecherche](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche) (13 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`agentische-datenbank-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/agentische-datenbank-recherche)
-- [`erfinderische-taetigkeit-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/erfinderische-taetigkeit-pruefen)
-- [`freedom-to-operate-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/freedom-to-operate-recherche)
-- [`klassifikation-cpc-ipc`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/klassifikation-cpc-ipc)
-- [`neuheit-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/neuheit-pruefen)
-- [`patentfamilien-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/patentfamilien-analyse)
-- [`patentrecherche-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/patentrecherche-kaltstart-interview)
-- [`pruefungsbescheid-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/pruefungsbescheid-vorbereiten)
-- [`recherchebericht-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/recherchebericht-erstellen)
-- [`rechtsstand-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/rechtsstand-pruefen)
-- [`rueckfragen-mandant`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/rueckfragen-mandant)
-- [`stand-der-technik-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/stand-der-technik-recherche)
-- [`ueberwachung-konkurrenten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/ueberwachung-konkurrenten)
+### [markenrecht-fashion-luxus](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus) · 31 Skills
 
-### [verlagsredaktion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsredaktion) (1 Skills)
+| Skill | Skill |
+|---|---|
+| [`abmahnung-markenrecht-uwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/abmahnung-markenrecht-uwg/SKILL.md) | [`plattform-piraterie-donauzon`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/plattform-piraterie-donauzon/SKILL.md) |
+| [`agb-haendlervertrag-luxus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/agb-haendlervertrag-luxus/SKILL.md) | [`positionsmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/positionsmarke/SKILL.md) |
+| [`anmeldung-strategie-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/anmeldung-strategie-portfolio/SKILL.md) | [`produktpiraterie-und-zoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/produktpiraterie-und-zoll/SKILL.md) |
+| [`anti-ki-marke-und-kennzeichen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/anti-ki-marke-und-kennzeichen/SKILL.md) | [`selektiver-vertrieb-coty`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/selektiver-vertrieb-coty/SKILL.md) |
+| [`bildmarke-und-wort-bild`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/bildmarke-und-wort-bild/SKILL.md) | [`slogan-marke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/slogan-marke/SKILL.md) |
+| [`discounter-und-graumarkt-brezelmann`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/discounter-und-graumarkt-brezelmann/SKILL.md) | [`soundmarke-und-bewegungsmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/soundmarke-und-bewegungsmarke/SKILL.md) |
+| [`dpma-widerspruch-und-loeschung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/dpma-widerspruch-und-loeschung/SKILL.md) | [`ttab-opposition-und-cancellation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/ttab-opposition-und-cancellation/SKILL.md) |
+| [`dreidimensionale-marke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/dreidimensionale-marke/SKILL.md) | [`unionsmarken-anmeldung-euipo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/unionsmarken-anmeldung-euipo/SKILL.md) |
+| [`duftmarke-und-geschmacksmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/duftmarke-und-geschmacksmarke/SKILL.md) | [`us-counterfeit-und-customs-cbp`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/us-counterfeit-und-customs-cbp/SKILL.md) |
+| [`euipo-widerspruchsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/euipo-widerspruchsverfahren/SKILL.md) | [`us-selektivvertrieb-und-mfp-tiffany-vs-costco`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/us-selektivvertrieb-und-mfp-tiffany-vs-costco/SKILL.md) |
+| [`fashion-luxus-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/fashion-luxus-kaltstart-interview/SKILL.md) | [`us-trade-dress-und-secondary-meaning`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/us-trade-dress-und-secondary-meaning/SKILL.md) |
+| [`haptik-und-tastmarke`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/haptik-und-tastmarke/SKILL.md) | [`uspto-anmeldung-und-lanham-act`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/uspto-anmeldung-und-lanham-act/SKILL.md) |
+| [`madrid-protokoll-und-internationale-registrierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/madrid-protokoll-und-internationale-registrierung/SKILL.md) | [`uspto-office-actions-und-tess-tsdr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/uspto-office-actions-und-tess-tsdr/SKILL.md) |
+| [`markenmonitoring-und-watchlist`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/markenmonitoring-und-watchlist/SKILL.md) | [`vertikale-preisbindung-vbe-vo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/vertikale-preisbindung-vbe-vo/SKILL.md) |
+| [`messe-verletzung-und-gv-einsatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/messe-verletzung-und-gv-einsatz/SKILL.md) | [`wortmarke-anmeldung-dpma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/wortmarke-anmeldung-dpma/SKILL.md) |
+| [`nyc-korrespondenz-und-conflict-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/markenrecht-fashion-luxus/skills/nyc-korrespondenz-und-conflict-check/SKILL.md) |  |
 
-- [`verlagsredaktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsredaktion/skills/verlagsredaktion)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [patentrecherche](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche) · 13 Skills
+
+| Skill | Skill |
+|---|---|
+| [`agentische-datenbank-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/agentische-datenbank-recherche/SKILL.md) | [`pruefungsbescheid-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/pruefungsbescheid-vorbereiten/SKILL.md) |
+| [`erfinderische-taetigkeit-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/erfinderische-taetigkeit-pruefen/SKILL.md) | [`recherchebericht-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/recherchebericht-erstellen/SKILL.md) |
+| [`freedom-to-operate-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/freedom-to-operate-recherche/SKILL.md) | [`rechtsstand-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/rechtsstand-pruefen/SKILL.md) |
+| [`klassifikation-cpc-ipc`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/klassifikation-cpc-ipc/SKILL.md) | [`rueckfragen-mandant`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/rueckfragen-mandant/SKILL.md) |
+| [`neuheit-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/neuheit-pruefen/SKILL.md) | [`stand-der-technik-recherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/stand-der-technik-recherche/SKILL.md) |
+| [`patentfamilien-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/patentfamilien-analyse/SKILL.md) | [`ueberwachung-konkurrenten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/ueberwachung-konkurrenten/SKILL.md) |
+| [`patentrecherche-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/patentrecherche/skills/patentrecherche-kaltstart-interview/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [verlagsredaktion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsredaktion) · 1 Skills
+
+| Skill | Skill |
+|---|---|
+| [`verlagsredaktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verlagsredaktion/skills/verlagsredaktion/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## IT-Recht, Datenschutz & Digitalregulierung
 
-### [fachanwalt-it-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht) (15 Skills)
+### [fachanwalt-it-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht) · 15 Skills
 
-- [`cyber-incident-response-72h`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/cyber-incident-response-72h)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen)
-- [`fachanwalt-it-recht-datenschutz-folgenabschaetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-datenschutz-folgenabschaetzung)
-- [`fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr)
-- [`fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung)
-- [`fachanwalt-it-recht-open-source-compliance-audit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-open-source-compliance-audit)
-- [`fachanwalt-it-recht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-orientierung)
-- [`fachanwalt-it-recht-saas-vertrag-verhandlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-saas-vertrag-verhandlung)
-- [`fachanwalt-it-recht-software-mangel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-software-mangel)
-- [`fachanwalt-it-recht-vertragsstrafe-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-vertragsstrafe-pruefen)
-- [`mandat-triage-it-recht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/mandat-triage-it-recht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/schriftsatzkern-substantiierung)
-- [`softwarefehler-mangelhaftung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/softwarefehler-mangelhaftung-pruefen)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`cyber-incident-response-72h`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/cyber-incident-response-72h/SKILL.md) | [`fachanwalt-it-recht-saas-vertrag-verhandlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-saas-vertrag-verhandlung/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-it-recht-software-mangel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-software-mangel/SKILL.md) |
+| [`fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen/SKILL.md) | [`fachanwalt-it-recht-vertragsstrafe-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-vertragsstrafe-pruefen/SKILL.md) |
+| [`fachanwalt-it-recht-datenschutz-folgenabschaetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-datenschutz-folgenabschaetzung/SKILL.md) | [`mandat-triage-it-recht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/mandat-triage-it-recht/SKILL.md) |
+| [`fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung/SKILL.md) | [`softwarefehler-mangelhaftung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/softwarefehler-mangelhaftung-pruefen/SKILL.md) |
+| [`fachanwalt-it-recht-open-source-compliance-audit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-open-source-compliance-audit/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-it-recht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-it-recht/skills/fachanwalt-it-recht-orientierung/SKILL.md) |  |
 
-### [datenschutzrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht) (17 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`anwendungsfall-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/anwendungsfall-triage)
-- [`avv-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/avv-pruefung)
-- [`datenpanne-meldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenpanne-meldung)
-- [`datenschutzrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenschutzrecht-anpassen)
-- [`datenschutzrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenschutzrecht-kaltstart-interview)
-- [`datenschutzrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenschutzrecht-mandat-arbeitsbereich)
-- [`drittlandstransfer-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/drittlandstransfer-pruefung)
-- [`dsb-bestellungspflicht-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsb-bestellungspflicht-pruefung)
-- [`dsfa-erstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsfa-erstellung)
-- [`dsgvo-auskunft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsgvo-auskunft)
-- [`dsgvo-auskunft-antwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsgvo-auskunft-antwort)
-- [`joint-controller-vereinbarung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/joint-controller-vereinbarung)
-- [`ki-verordnung-compliance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/ki-verordnung-compliance)
-- [`mandantendaten-ki`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/mandantendaten-ki)
-- [`regulierungs-luecken-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/regulierungs-luecken-analyse)
-- [`richtlinien-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/richtlinien-monitor)
-- [`verarbeitungsverzeichnis-vvt-generator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/verarbeitungsverzeichnis-vvt-generator)
+### [datenschutzrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht) · 17 Skills
 
-### [dsa-dma-digitalregulierung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung) (9 Skills)
+| Skill | Skill |
+|---|---|
+| [`anwendungsfall-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/anwendungsfall-triage/SKILL.md) | [`dsgvo-auskunft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsgvo-auskunft/SKILL.md) |
+| [`avv-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/avv-pruefung/SKILL.md) | [`dsgvo-auskunft-antwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsgvo-auskunft-antwort/SKILL.md) |
+| [`datenpanne-meldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenpanne-meldung/SKILL.md) | [`joint-controller-vereinbarung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/joint-controller-vereinbarung/SKILL.md) |
+| [`datenschutzrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenschutzrecht-anpassen/SKILL.md) | [`ki-verordnung-compliance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/ki-verordnung-compliance/SKILL.md) |
+| [`datenschutzrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenschutzrecht-kaltstart-interview/SKILL.md) | [`mandantendaten-ki`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/mandantendaten-ki/SKILL.md) |
+| [`datenschutzrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/datenschutzrecht-mandat-arbeitsbereich/SKILL.md) | [`regulierungs-luecken-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md) |
+| [`drittlandstransfer-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md) | [`richtlinien-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/richtlinien-monitor/SKILL.md) |
+| [`dsb-bestellungspflicht-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsb-bestellungspflicht-pruefung/SKILL.md) | [`verarbeitungsverzeichnis-vvt-generator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/verarbeitungsverzeichnis-vvt-generator/SKILL.md) |
+| [`dsfa-erstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht/skills/dsfa-erstellung/SKILL.md) |  |
 
-- [`account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa)
-- [`digitalregulierung-pyramide-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/digitalregulierung-pyramide-check)
-- [`digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb)
-- [`dma-gatekeeper-schwellen-und-kernplattformdienste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dma-gatekeeper-schwellen-und-kernplattformdienste)
-- [`dsa-art-34-systemische-risikobewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dsa-art-34-systemische-risikobewertung)
-- [`dsa-art-40-forschungsdatenzugang-algorithmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dsa-art-40-forschungsdatenzugang-algorithmen)
-- [`dsa-vlop-vlose-einordnung-und-pflichten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dsa-vlop-vlose-einordnung-und-pflichten)
-- [`klage-gegen-vlop-einordnung-art-263-aeuv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/klage-gegen-vlop-einordnung-art-263-aeuv)
-- [`zustellung-und-vertreter-art-13-dsa-art-37-dma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/zustellung-und-vertreter-art-13-dsa-art-37-dma)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [ki-vo-ai-act-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer) (46 Skills)
+### [dsa-dma-digitalregulierung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung) · 9 Skills
 
-- [`abgrenzung-konventionelle-software-vs-ki-system`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/abgrenzung-konventionelle-software-vs-ki-system)
-- [`anbieter-werden-art-25`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/anbieter-werden-art-25)
-- [`begrenztes-risiko-art-50-transparenzpflichten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/begrenztes-risiko-art-50-transparenzpflichten)
-- [`betreiber-deployer-pflichten-art-26`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/betreiber-deployer-pflichten-art-26)
-- [`bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25)
-- [`code-of-practice-und-harmonisierte-normen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/code-of-practice-und-harmonisierte-normen)
-- [`einfuehrer-importer-pflichten-art-23`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/einfuehrer-importer-pflichten-art-23)
-- [`entscheidungsbaum-ki-vo-gesamt-workflow`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/entscheidungsbaum-ki-vo-gesamt-workflow)
-- [`eu-datenbank-registrierung-art-49-und-71`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/eu-datenbank-registrierung-art-49-und-71)
-- [`falsche-wiese-warnung-ki-vo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/falsche-wiese-warnung-ki-vo)
-- [`governance-aufsichtsbehoerden-art-70`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/governance-aufsichtsbehoerden-art-70)
-- [`gpai-modelle-art-51-bis-55`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/gpai-modelle-art-51-bis-55)
-- [`gpai-systemisches-risiko-schwelle-10e25-flop`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/gpai-systemisches-risiko-schwelle-10e25-flop)
-- [`gpai-vorliegen-art-3-nr-63`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/gpai-vorliegen-art-3-nr-63)
-- [`haendler-distributor-pflichten-art-24`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/haendler-distributor-pflichten-art-24)
-- [`hochrisiko-art-6-abs-1-sicherheitsbauteil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-art-6-abs-1-sicherheitsbauteil)
-- [`hochrisiko-art-6-abs-2-anhang-iii`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-art-6-abs-2-anhang-iii)
-- [`hochrisiko-aufzeichnungspflichten-logging-art-12`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-aufzeichnungspflichten-logging-art-12)
-- [`hochrisiko-bestaetigt-end-to-end-roadmap`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-bestaetigt-end-to-end-roadmap)
-- [`hochrisiko-datenqualitaet-und-data-governance-art-10`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-datenqualitaet-und-data-governance-art-10)
-- [`hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15)
-- [`hochrisiko-konformitaetsbewertung-art-43-bis-49`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-konformitaetsbewertung-art-43-bis-49)
-- [`hochrisiko-menschliche-aufsicht-art-14`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-menschliche-aufsicht-art-14)
-- [`hochrisiko-risikomanagementsystem-art-9`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-risikomanagementsystem-art-9)
-- [`hochrisiko-technische-dokumentation-art-11-und-anhang-iv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-technische-dokumentation-art-11-und-anhang-iv)
-- [`hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13)
-- [`hochrisiko-zuordnung-art-6-und-anhang-i-iii`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-zuordnung-art-6-und-anhang-i-iii)
-- [`liegt-ki-system-vor-art-3-nr-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/liegt-ki-system-vor-art-3-nr-1)
-- [`mandatsabbruch-empfehlung-komplexe-faelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/mandatsabbruch-empfehlung-komplexe-faelle)
-- [`marktueberwachung-meldung-vorfaelle-art-72-bis-79`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/marktueberwachung-meldung-vorfaelle-art-72-bis-79)
-- [`nicht-hochrisiko-bestaetigt-end-to-end-roadmap`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/nicht-hochrisiko-bestaetigt-end-to-end-roadmap)
-- [`output-betreiber-checkliste-und-folgenabschaetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/output-betreiber-checkliste-und-folgenabschaetzung)
-- [`output-konformitaetserklaerung-eu-anhang-v`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/output-konformitaetserklaerung-eu-anhang-v)
-- [`output-pruefdokument-ki-vo-mit-warnhinweisen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/output-pruefdokument-ki-vo-mit-warnhinweisen)
-- [`persoenlicher-anwendungsbereich-rollen-art-3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/persoenlicher-anwendungsbereich-rollen-art-3)
-- [`risikoklassen-uebersicht-und-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/risikoklassen-uebersicht-und-triage)
-- [`rolle-anbieter-pruefen-art-3-nr-3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/rolle-anbieter-pruefen-art-3-nr-3)
-- [`rolle-betreiber-pruefen-art-3-nr-4`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/rolle-betreiber-pruefen-art-3-nr-4)
-- [`rueckausnahme-art-6-abs-3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/rueckausnahme-art-6-abs-3)
-- [`sachlicher-ausschluss-art-2-abs-3-bis-12`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/sachlicher-ausschluss-art-2-abs-3-bis-12)
-- [`sanktionen-art-99-bis-101`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/sanktionen-art-99-bis-101)
-- [`territorialer-anwendungsbereich-art-2`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/territorialer-anwendungsbereich-art-2)
-- [`triage-ki-vo-vorpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/triage-ki-vo-vorpruefung)
-- [`verbotene-praktiken-art-5`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/verbotene-praktiken-art-5)
-- [`verhaeltnis-zu-anderen-unionsrechtsakten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/verhaeltnis-zu-anderen-unionsrechtsakten)
-- [`zeitlicher-geltungsbereich-uebergangsfristen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/zeitlicher-geltungsbereich-uebergangsfristen)
+| Skill | Skill |
+|---|---|
+| [`account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa/SKILL.md) | [`dsa-art-40-forschungsdatenzugang-algorithmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dsa-art-40-forschungsdatenzugang-algorithmen/SKILL.md) |
+| [`digitalregulierung-pyramide-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/digitalregulierung-pyramide-check/SKILL.md) | [`dsa-vlop-vlose-einordnung-und-pflichten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dsa-vlop-vlose-einordnung-und-pflichten/SKILL.md) |
+| [`digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb/SKILL.md) | [`klage-gegen-vlop-einordnung-art-263-aeuv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/klage-gegen-vlop-einordnung-art-263-aeuv/SKILL.md) |
+| [`dma-gatekeeper-schwellen-und-kernplattformdienste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dma-gatekeeper-schwellen-und-kernplattformdienste/SKILL.md) | [`zustellung-und-vertreter-art-13-dsa-art-37-dma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/zustellung-und-vertreter-art-13-dsa-art-37-dma/SKILL.md) |
+| [`dsa-art-34-systemische-risikobewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/dsa-dma-digitalregulierung/skills/dsa-art-34-systemische-risikobewertung/SKILL.md) |  |
 
-### [ki-governance](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance) (10 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`anwendungsfall-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/anwendungsfall-triage)
-- [`ki-anbieter-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-anbieter-pruefung)
-- [`ki-folgenabschaetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-folgenabschaetzung)
-- [`ki-governance-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-governance-anpassen)
-- [`ki-governance-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-governance-kaltstart-interview)
-- [`ki-governance-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-governance-mandat-arbeitsbereich)
-- [`ki-inventar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-inventar)
-- [`regulierungs-luecken-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/regulierungs-luecken-analyse)
-- [`richtlinien-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/richtlinien-monitor)
-- [`richtlinien-vorlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/richtlinien-vorlage)
+### [ki-vo-ai-act-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer) · 46 Skills
 
-### [ki-richtlinie-kanzleien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien) (26 Skills)
+| Skill | Skill |
+|---|---|
+| [`abgrenzung-konventionelle-software-vs-ki-system`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/abgrenzung-konventionelle-software-vs-ki-system/SKILL.md) | [`hochrisiko-risikomanagementsystem-art-9`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-risikomanagementsystem-art-9/SKILL.md) |
+| [`anbieter-werden-art-25`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/anbieter-werden-art-25/SKILL.md) | [`hochrisiko-technische-dokumentation-art-11-und-anhang-iv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-technische-dokumentation-art-11-und-anhang-iv/SKILL.md) |
+| [`begrenztes-risiko-art-50-transparenzpflichten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/begrenztes-risiko-art-50-transparenzpflichten/SKILL.md) | [`hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13/SKILL.md) |
+| [`betreiber-deployer-pflichten-art-26`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/betreiber-deployer-pflichten-art-26/SKILL.md) | [`hochrisiko-zuordnung-art-6-und-anhang-i-iii`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-zuordnung-art-6-und-anhang-i-iii/SKILL.md) |
+| [`bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25/SKILL.md) | [`liegt-ki-system-vor-art-3-nr-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/liegt-ki-system-vor-art-3-nr-1/SKILL.md) |
+| [`code-of-practice-und-harmonisierte-normen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/code-of-practice-und-harmonisierte-normen/SKILL.md) | [`mandatsabbruch-empfehlung-komplexe-faelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/mandatsabbruch-empfehlung-komplexe-faelle/SKILL.md) |
+| [`einfuehrer-importer-pflichten-art-23`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/einfuehrer-importer-pflichten-art-23/SKILL.md) | [`marktueberwachung-meldung-vorfaelle-art-72-bis-79`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/marktueberwachung-meldung-vorfaelle-art-72-bis-79/SKILL.md) |
+| [`entscheidungsbaum-ki-vo-gesamt-workflow`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/entscheidungsbaum-ki-vo-gesamt-workflow/SKILL.md) | [`nicht-hochrisiko-bestaetigt-end-to-end-roadmap`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/nicht-hochrisiko-bestaetigt-end-to-end-roadmap/SKILL.md) |
+| [`eu-datenbank-registrierung-art-49-und-71`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/eu-datenbank-registrierung-art-49-und-71/SKILL.md) | [`output-betreiber-checkliste-und-folgenabschaetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/output-betreiber-checkliste-und-folgenabschaetzung/SKILL.md) |
+| [`falsche-wiese-warnung-ki-vo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/falsche-wiese-warnung-ki-vo/SKILL.md) | [`output-konformitaetserklaerung-eu-anhang-v`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/output-konformitaetserklaerung-eu-anhang-v/SKILL.md) |
+| [`governance-aufsichtsbehoerden-art-70`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/governance-aufsichtsbehoerden-art-70/SKILL.md) | [`output-pruefdokument-ki-vo-mit-warnhinweisen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/output-pruefdokument-ki-vo-mit-warnhinweisen/SKILL.md) |
+| [`gpai-modelle-art-51-bis-55`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/gpai-modelle-art-51-bis-55/SKILL.md) | [`persoenlicher-anwendungsbereich-rollen-art-3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/persoenlicher-anwendungsbereich-rollen-art-3/SKILL.md) |
+| [`gpai-systemisches-risiko-schwelle-10e25-flop`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/gpai-systemisches-risiko-schwelle-10e25-flop/SKILL.md) | [`risikoklassen-uebersicht-und-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/risikoklassen-uebersicht-und-triage/SKILL.md) |
+| [`gpai-vorliegen-art-3-nr-63`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/gpai-vorliegen-art-3-nr-63/SKILL.md) | [`rolle-anbieter-pruefen-art-3-nr-3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/rolle-anbieter-pruefen-art-3-nr-3/SKILL.md) |
+| [`haendler-distributor-pflichten-art-24`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/haendler-distributor-pflichten-art-24/SKILL.md) | [`rolle-betreiber-pruefen-art-3-nr-4`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/rolle-betreiber-pruefen-art-3-nr-4/SKILL.md) |
+| [`hochrisiko-art-6-abs-1-sicherheitsbauteil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-art-6-abs-1-sicherheitsbauteil/SKILL.md) | [`rueckausnahme-art-6-abs-3`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/rueckausnahme-art-6-abs-3/SKILL.md) |
+| [`hochrisiko-art-6-abs-2-anhang-iii`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-art-6-abs-2-anhang-iii/SKILL.md) | [`sachlicher-ausschluss-art-2-abs-3-bis-12`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/sachlicher-ausschluss-art-2-abs-3-bis-12/SKILL.md) |
+| [`hochrisiko-aufzeichnungspflichten-logging-art-12`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-aufzeichnungspflichten-logging-art-12/SKILL.md) | [`sanktionen-art-99-bis-101`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/sanktionen-art-99-bis-101/SKILL.md) |
+| [`hochrisiko-bestaetigt-end-to-end-roadmap`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-bestaetigt-end-to-end-roadmap/SKILL.md) | [`territorialer-anwendungsbereich-art-2`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/territorialer-anwendungsbereich-art-2/SKILL.md) |
+| [`hochrisiko-datenqualitaet-und-data-governance-art-10`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-datenqualitaet-und-data-governance-art-10/SKILL.md) | [`triage-ki-vo-vorpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/triage-ki-vo-vorpruefung/SKILL.md) |
+| [`hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15/SKILL.md) | [`verbotene-praktiken-art-5`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/verbotene-praktiken-art-5/SKILL.md) |
+| [`hochrisiko-konformitaetsbewertung-art-43-bis-49`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-konformitaetsbewertung-art-43-bis-49/SKILL.md) | [`verhaeltnis-zu-anderen-unionsrechtsakten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/verhaeltnis-zu-anderen-unionsrechtsakten/SKILL.md) |
+| [`hochrisiko-menschliche-aufsicht-art-14`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/hochrisiko-menschliche-aufsicht-art-14/SKILL.md) | [`zeitlicher-geltungsbereich-uebergangsfristen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-vo-ai-act-pruefer/skills/zeitlicher-geltungsbereich-uebergangsfristen/SKILL.md) |
 
-- [`anonymisierung-pseudonymisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/anonymisierung-pseudonymisierung)
-- [`auftragsverarbeitungsvertrag-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/auftragsverarbeitungsvertrag-pruefen)
-- [`automatisierte-entscheidungen-art-22-dsgvo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/automatisierte-entscheidungen-art-22-dsgvo)
-- [`berufsrecht-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/berufsrecht-bausteine)
-- [`bias-und-diskriminierung-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/bias-und-diskriminierung-pruefung)
-- [`compliance-regelsatz-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/compliance-regelsatz-erstellen)
-- [`dienstleister-due-diligence`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/dienstleister-due-diligence)
-- [`dokumentationspflichten-protokoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/dokumentationspflichten-protokoll)
-- [`dsgvo-compliance-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/dsgvo-compliance-bausteine)
-- [`executive-summary-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/executive-summary-bausteine)
-- [`geschgehg-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/geschgehg-bausteine)
-- [`halluzinations-handhabung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/halluzinations-handhabung)
-- [`kanzlei-kontext-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/kanzlei-kontext-analyse)
-- [`kennzeichnungspflichten-veroeffentlichungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/kennzeichnungspflichten-veroeffentlichungen)
-- [`ki-kompetenz-erwerb-plan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/ki-kompetenz-erwerb-plan)
-- [`ki-vo-betreiber-pflichten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/ki-vo-betreiber-pflichten)
-- [`ki-vo-hochrisiko-personalwesen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/ki-vo-hochrisiko-personalwesen)
-- [`literatur-und-quellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/literatur-und-quellen)
-- [`musterklauseln-it-vertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/musterklauseln-it-vertrag)
-- [`prompting-leitfaden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/prompting-leitfaden)
-- [`rdg-pruefung-chatbot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/rdg-pruefung-chatbot)
-- [`richtlinien-skelett-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/richtlinien-skelett-erzeugen)
-- [`richtlinien-update-zyklus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/richtlinien-update-zyklus)
-- [`schatten-ki-aufdeckung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/schatten-ki-aufdeckung)
-- [`transparenz-mandanten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/transparenz-mandanten)
-- [`urheberrecht-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/urheberrecht-bausteine)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [berufsrecht-ki-vertragspruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung) (13 Skills)
+### [ki-governance](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance) · 10 Skills
 
-- [`avv-grenzpruefung-datenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/avv-grenzpruefung-datenschutz)
-- [`berufsrecht-ki-vertragspruefung-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/berufsrecht-ki-vertragspruefung-kaltstart-interview)
-- [`cloud-act-und-drittstaat-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/cloud-act-und-drittstaat-pruefen)
-- [`erforderlichkeit-dokumentieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/erforderlichkeit-dokumentieren)
-- [`gutachten-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/gutachten-erstellen)
-- [`klauselvorschlaege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/klauselvorschlaege)
-- [`parallelnormen-andere-berufe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/parallelnormen-andere-berufe)
-- [`rueckfragebrief-an-anbieter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/rueckfragebrief-an-anbieter)
-- [`strafprozessuale-regelung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/strafprozessuale-regelung-pruefen)
-- [`strafrechtliche-belehrung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/strafrechtliche-belehrung-pruefen)
-- [`subunternehmer-regelung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/subunternehmer-regelung-pruefen)
-- [`tom-und-zertifizierungen-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/tom-und-zertifizierungen-pruefen)
-- [`verschwiegenheitsklausel-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/verschwiegenheitsklausel-pruefen)
+| Skill | Skill |
+|---|---|
+| [`anwendungsfall-triage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/anwendungsfall-triage/SKILL.md) | [`ki-governance-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-governance-mandat-arbeitsbereich/SKILL.md) |
+| [`ki-anbieter-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-anbieter-pruefung/SKILL.md) | [`ki-inventar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-inventar/SKILL.md) |
+| [`ki-folgenabschaetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-folgenabschaetzung/SKILL.md) | [`regulierungs-luecken-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/regulierungs-luecken-analyse/SKILL.md) |
+| [`ki-governance-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-governance-anpassen/SKILL.md) | [`richtlinien-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/richtlinien-monitor/SKILL.md) |
+| [`ki-governance-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/ki-governance-kaltstart-interview/SKILL.md) | [`richtlinien-vorlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance/skills/richtlinien-vorlage/SKILL.md) |
 
-### [phishing-vorfall-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/phishing-vorfall-pruefer) (1 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`phishing-vorfall-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/phishing-vorfall-pruefer/skills/phishing-vorfall-pruefen)
+### [ki-richtlinie-kanzleien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien) · 26 Skills
+
+| Skill | Skill |
+|---|---|
+| [`anonymisierung-pseudonymisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/anonymisierung-pseudonymisierung/SKILL.md) | [`kennzeichnungspflichten-veroeffentlichungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/kennzeichnungspflichten-veroeffentlichungen/SKILL.md) |
+| [`auftragsverarbeitungsvertrag-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/auftragsverarbeitungsvertrag-pruefen/SKILL.md) | [`ki-kompetenz-erwerb-plan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/ki-kompetenz-erwerb-plan/SKILL.md) |
+| [`automatisierte-entscheidungen-art-22-dsgvo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/automatisierte-entscheidungen-art-22-dsgvo/SKILL.md) | [`ki-vo-betreiber-pflichten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/ki-vo-betreiber-pflichten/SKILL.md) |
+| [`berufsrecht-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/berufsrecht-bausteine/SKILL.md) | [`ki-vo-hochrisiko-personalwesen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/ki-vo-hochrisiko-personalwesen/SKILL.md) |
+| [`bias-und-diskriminierung-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/bias-und-diskriminierung-pruefung/SKILL.md) | [`literatur-und-quellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/literatur-und-quellen/SKILL.md) |
+| [`compliance-regelsatz-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/compliance-regelsatz-erstellen/SKILL.md) | [`musterklauseln-it-vertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/musterklauseln-it-vertrag/SKILL.md) |
+| [`dienstleister-due-diligence`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/dienstleister-due-diligence/SKILL.md) | [`prompting-leitfaden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/prompting-leitfaden/SKILL.md) |
+| [`dokumentationspflichten-protokoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/dokumentationspflichten-protokoll/SKILL.md) | [`rdg-pruefung-chatbot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/rdg-pruefung-chatbot/SKILL.md) |
+| [`dsgvo-compliance-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/dsgvo-compliance-bausteine/SKILL.md) | [`richtlinien-skelett-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/richtlinien-skelett-erzeugen/SKILL.md) |
+| [`executive-summary-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/executive-summary-bausteine/SKILL.md) | [`richtlinien-update-zyklus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/richtlinien-update-zyklus/SKILL.md) |
+| [`geschgehg-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/geschgehg-bausteine/SKILL.md) | [`schatten-ki-aufdeckung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/schatten-ki-aufdeckung/SKILL.md) |
+| [`halluzinations-handhabung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/halluzinations-handhabung/SKILL.md) | [`transparenz-mandanten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/transparenz-mandanten/SKILL.md) |
+| [`kanzlei-kontext-analyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/kanzlei-kontext-analyse/SKILL.md) | [`urheberrecht-bausteine`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-richtlinie-kanzleien/skills/urheberrecht-bausteine/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [berufsrecht-ki-vertragspruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung) · 13 Skills
+
+| Skill | Skill |
+|---|---|
+| [`avv-grenzpruefung-datenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/avv-grenzpruefung-datenschutz/SKILL.md) | [`rueckfragebrief-an-anbieter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/rueckfragebrief-an-anbieter/SKILL.md) |
+| [`berufsrecht-ki-vertragspruefung-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/berufsrecht-ki-vertragspruefung-kaltstart-interview/SKILL.md) | [`strafprozessuale-regelung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/strafprozessuale-regelung-pruefen/SKILL.md) |
+| [`cloud-act-und-drittstaat-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/cloud-act-und-drittstaat-pruefen/SKILL.md) | [`strafrechtliche-belehrung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/strafrechtliche-belehrung-pruefen/SKILL.md) |
+| [`erforderlichkeit-dokumentieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/erforderlichkeit-dokumentieren/SKILL.md) | [`subunternehmer-regelung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/subunternehmer-regelung-pruefen/SKILL.md) |
+| [`gutachten-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/gutachten-erstellen/SKILL.md) | [`tom-und-zertifizierungen-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/tom-und-zertifizierungen-pruefen/SKILL.md) |
+| [`klauselvorschlaege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/klauselvorschlaege/SKILL.md) | [`verschwiegenheitsklausel-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/verschwiegenheitsklausel-pruefen/SKILL.md) |
+| [`parallelnormen-andere-berufe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berufsrecht-ki-vertragspruefung/skills/parallelnormen-andere-berufe/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [phishing-vorfall-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/phishing-vorfall-pruefer) · 1 Skills
+
+| Skill | Skill |
+|---|---|
+| [`phishing-vorfall-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/phishing-vorfall-pruefer/skills/phishing-vorfall-pruefen/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Bank-, Kapitalmarkt- & Vergaberecht
 
-### [fachanwalt-bank-kapitalmarktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht) (15 Skills)
+### [fachanwalt-bank-kapitalmarktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht) · 15 Skills
 
-- [`anlageberatungsfehler-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/anlageberatungsfehler-pruefen)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft)
-- [`fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug)
-- [`fachanwalt-bank-kapitalmarktrecht-kreditkuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-kreditkuendigung)
-- [`fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb)
-- [`fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin)
-- [`fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung)
-- [`fachanwalt-bank-kapitalmarktrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-orientierung)
-- [`fachanwalt-bank-kapitalmarktrecht-schufa-eintrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-schufa-eintrag)
-- [`fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch)
-- [`mandat-triage-bank-kapitalmarktrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/mandat-triage-bank-kapitalmarktrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/vergleichsverhandlung-strategie)
-- [`widerrufsjoker-immobiliendarlehen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/widerrufsjoker-immobiliendarlehen)
+| Skill | Skill |
+|---|---|
+| [`anlageberatungsfehler-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/anlageberatungsfehler-pruefen/SKILL.md) | [`fachanwalt-bank-kapitalmarktrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-orientierung/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-bank-kapitalmarktrecht-schufa-eintrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-schufa-eintrag/SKILL.md) |
+| [`fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft/SKILL.md) | [`fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch/SKILL.md) |
+| [`fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug/SKILL.md) | [`mandat-triage-bank-kapitalmarktrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/mandat-triage-bank-kapitalmarktrecht/SKILL.md) |
+| [`fachanwalt-bank-kapitalmarktrecht-kreditkuendigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-kreditkuendigung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin/SKILL.md) | [`widerrufsjoker-immobiliendarlehen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/widerrufsjoker-immobiliendarlehen/SKILL.md) |
+| [`fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-bank-kapitalmarktrecht/skills/fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung/SKILL.md) |  |
 
-### [fachanwalt-vergaberecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-vergaberecht-de-facto-vergabe-klage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-de-facto-vergabe-klage)
-- [`fachanwalt-vergaberecht-eignungspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-eignungspruefung)
-- [`fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2)
-- [`fachanwalt-vergaberecht-nachpruefungsantrag-vk`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-nachpruefungsantrag-vk)
-- [`fachanwalt-vergaberecht-nachpruefungsverfahren-vk`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-nachpruefungsverfahren-vk)
-- [`fachanwalt-vergaberecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-orientierung)
-- [`fachanwalt-vergaberecht-ruege-vor-zuschlag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-ruege-vor-zuschlag)
-- [`fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb)
-- [`fachanwalt-vergaberecht-vk-aufklaerung-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-vk-aufklaerung-vergleich)
-- [`mandat-triage-vergaberecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/mandat-triage-vergaberecht)
-- [`ruegeschriftsatz-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/ruegeschriftsatz-erstellen)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/schriftsatzkern-substantiierung)
-- [`vergabe-nachpruefung-aussicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/vergabe-nachpruefung-aussicht)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-vergaberecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht) · 15 Skills
+
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb/SKILL.md) |
+| [`fachanwalt-vergaberecht-de-facto-vergabe-klage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-de-facto-vergabe-klage/SKILL.md) | [`fachanwalt-vergaberecht-vk-aufklaerung-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-vk-aufklaerung-vergleich/SKILL.md) |
+| [`fachanwalt-vergaberecht-eignungspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-eignungspruefung/SKILL.md) | [`mandat-triage-vergaberecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/mandat-triage-vergaberecht/SKILL.md) |
+| [`fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2/SKILL.md) | [`ruegeschriftsatz-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/ruegeschriftsatz-erstellen/SKILL.md) |
+| [`fachanwalt-vergaberecht-nachpruefungsantrag-vk`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-nachpruefungsantrag-vk/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-vergaberecht-nachpruefungsverfahren-vk`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-nachpruefungsverfahren-vk/SKILL.md) | [`vergabe-nachpruefung-aussicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/vergabe-nachpruefung-aussicht/SKILL.md) |
+| [`fachanwalt-vergaberecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-orientierung/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-vergaberecht-ruege-vor-zuschlag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-ruege-vor-zuschlag/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Insolvenz, Sanierung & Liquiditaet
 
-### [fachanwalt-insolvenz-sanierungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht) (12 Skills)
+### [fachanwalt-insolvenz-sanierungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht) · 12 Skills
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-insolvenz-glaeubigerverhandlung-sanierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-glaeubigerverhandlung-sanierung)
-- [`fachanwalt-insolvenz-krypto-verwertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-krypto-verwertung)
-- [`fachanwalt-insolvenz-sanierung-starug-plan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierung-starug-plan)
-- [`fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter)
-- [`fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag)
-- [`fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung)
-- [`fachanwalt-insolvenz-sanierungsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-orientierung)
-- [`fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan)
-- [`fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung/SKILL.md) |
+| [`fachanwalt-insolvenz-glaeubigerverhandlung-sanierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-glaeubigerverhandlung-sanierung/SKILL.md) | [`fachanwalt-insolvenz-sanierungsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-orientierung/SKILL.md) |
+| [`fachanwalt-insolvenz-krypto-verwertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-krypto-verwertung/SKILL.md) | [`fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan/SKILL.md) |
+| [`fachanwalt-insolvenz-sanierung-starug-plan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierung-starug-plan/SKILL.md) | [`fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren/SKILL.md) |
+| [`fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-insolvenz-sanierungsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
 
-### [insolvenzrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`anfechtungsrechte-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/anfechtungsrechte-pruefen)
-- [`antragspflicht-15a-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/antragspflicht-15a-inso)
-- [`do-versicherung-manager-haftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/do-versicherung-manager-haftung)
-- [`forderungsanmeldung-glaeubiger-174-177-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/forderungsanmeldung-glaeubiger-174-177-inso)
-- [`glaeubigerantrag-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/glaeubigerantrag-pruefung)
-- [`glaeubigerausschuss-mitwirkung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/glaeubigerausschuss-mitwirkung)
-- [`insolvenzgeld-165-sgb-iii`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/insolvenzgeld-165-sgb-iii)
-- [`insolvenzrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/insolvenzrecht-kaltstart-interview)
-- [`konzerninsolvenz-koordination`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/konzerninsolvenz-koordination)
-- [`liquiditaetsvorschau-insolvenzrechtlich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich)
-- [`mandat-triage-insolvenzrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/mandat-triage-insolvenzrecht)
-- [`ueberschuldung-pruefung-19-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/ueberschuldung-pruefung-19-inso)
-- [`uebertragende-sanierung-und-asset-deals`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/uebertragende-sanierung-und-asset-deals)
-- [`vorsatzanfechtung-133-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/vorsatzanfechtung-133-inso)
-- [`zahlungsunfaehigkeit-pruefung-17-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso)
+### [insolvenzrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht) · 15 Skills
 
-### [insolvenzverwaltung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung) (44 Skills)
+| Skill | Skill |
+|---|---|
+| [`anfechtungsrechte-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/anfechtungsrechte-pruefen/SKILL.md) | [`konzerninsolvenz-koordination`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/konzerninsolvenz-koordination/SKILL.md) |
+| [`antragspflicht-15a-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/antragspflicht-15a-inso/SKILL.md) | [`liquiditaetsvorschau-insolvenzrechtlich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) |
+| [`do-versicherung-manager-haftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/do-versicherung-manager-haftung/SKILL.md) | [`mandat-triage-insolvenzrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/mandat-triage-insolvenzrecht/SKILL.md) |
+| [`forderungsanmeldung-glaeubiger-174-177-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/forderungsanmeldung-glaeubiger-174-177-inso/SKILL.md) | [`ueberschuldung-pruefung-19-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/ueberschuldung-pruefung-19-inso/SKILL.md) |
+| [`glaeubigerantrag-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/glaeubigerantrag-pruefung/SKILL.md) | [`uebertragende-sanierung-und-asset-deals`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/uebertragende-sanierung-und-asset-deals/SKILL.md) |
+| [`glaeubigerausschuss-mitwirkung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/glaeubigerausschuss-mitwirkung/SKILL.md) | [`vorsatzanfechtung-133-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/vorsatzanfechtung-133-inso/SKILL.md) |
+| [`insolvenzgeld-165-sgb-iii`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/insolvenzgeld-165-sgb-iii/SKILL.md) | [`zahlungsunfaehigkeit-pruefung-17-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso/SKILL.md) |
+| [`insolvenzrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzrecht/skills/insolvenzrecht-kaltstart-interview/SKILL.md) |  |
 
-- [`iv-aktenanlage-verfahrenscockpit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-aktenanlage-verfahrenscockpit)
-- [`iv-anfechtung-129ff`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-anfechtung-129ff)
-- [`iv-arbeitsrecht-insolvenzgeld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-arbeitsrecht-insolvenzgeld)
-- [`iv-berichte-gericht-glaeubiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-berichte-gericht-glaeubiger)
-- [`iv-eigenverwaltung-sachwaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-eigenverwaltung-sachwaltung)
-- [`iv-eroeffnungsgutachten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-eroeffnungsgutachten)
-- [`iv-forderungsanmeldung-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-forderungsanmeldung-pruefung)
-- [`iv-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-kommandocenter)
-- [`iv-masseeinsammlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-masseeinsammlung)
-- [`iv-massemehrung-asset-realisation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-massemehrung-asset-realisation)
-- [`iv-masseunzulaenglichkeit-208`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-masseunzulaenglichkeit-208)
-- [`iv-plan-abstimmung-mehrheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-abstimmung-mehrheiten)
-- [`iv-plan-anlagenpaket`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-anlagenpaket)
-- [`iv-plan-cramdown-obstruktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-cramdown-obstruktion)
-- [`iv-plan-darstellender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-darstellender-teil)
-- [`iv-plan-datenraum-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-datenraum-register)
-- [`iv-plan-gerichtliche-schritte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-gerichtliche-schritte)
-- [`iv-plan-gestaltender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-gestaltender-teil)
-- [`iv-plan-gruppen-klassenbildung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-gruppen-klassenbildung)
-- [`iv-plan-insolvenzplan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-insolvenzplan-architektur)
-- [`iv-plan-integrierte-planung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-integrierte-planung)
-- [`iv-plan-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-kaltstart-interview)
-- [`iv-plan-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-kommandocenter)
-- [`iv-plan-minderheitenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-minderheitenschutz)
-- [`iv-plan-planbetroffene-auswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-planbetroffene-auswahl)
-- [`iv-plan-planvollzug-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-planvollzug-monitoring)
-- [`iv-plan-redteam-qualitygate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-redteam-qualitygate)
-- [`iv-plan-sanierungskonzept`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-sanierungskonzept)
-- [`iv-plan-sicherheiten-drittsicherheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-sicherheiten-drittsicherheiten)
-- [`iv-plan-stabilisierung-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-stabilisierung-starug)
-- [`iv-plan-stakeholder-kommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-stakeholder-kommunikation)
-- [`iv-plan-starug-plan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-starug-plan-architektur)
-- [`iv-plan-steuern-bilanz-folgen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-steuern-bilanz-folgen)
-- [`iv-plan-verfahrenswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-verfahrenswahl)
-- [`iv-plan-vergleichsrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-vergleichsrechnung)
-- [`iv-qualitaets-und-plausibilitaetsgate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-qualitaets-und-plausibilitaetsgate)
-- [`iv-regelverfahren-eroeffnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-regelverfahren-eroeffnung)
-- [`iv-schutzschirm-270d`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-schutzschirm-270d)
-- [`iv-sicherung-betriebsfortfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-sicherung-betriebsfortfuehrung)
-- [`iv-steuern-sozialversicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-steuern-sozialversicherung)
-- [`iv-tabelle-pruefungstermin`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-tabelle-pruefungstermin)
-- [`iv-verteilung-schlussrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-verteilung-schlussrechnung)
-- [`iv-vorlaeufige-verwaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-vorlaeufige-verwaltung)
-- [`iv-zahlungsklagen-15b`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-zahlungsklagen-15b)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [insolvenzforderungsanmeldungspruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung) (20 Skills)
+### [insolvenzverwaltung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung) · 44 Skills
 
-- [`ifap-aktenanlage-batchregister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-aktenanlage-batchregister)
-- [`ifap-beleg-und-urkundencheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-beleg-und-urkundencheck)
-- [`ifap-dubletten-serienforderungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-dubletten-serienforderungen)
-- [`ifap-formalpruefung-174`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-formalpruefung-174)
-- [`ifap-grund-betrag-zinsen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-grund-betrag-zinsen)
-- [`ifap-intake-kanalcheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-intake-kanalcheck)
-- [`ifap-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-kommandocenter)
-- [`ifap-masseverbindlichkeit-abgrenzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-masseverbindlichkeit-abgrenzen)
-- [`ifap-nachforderung-maengelschreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-nachforderung-maengelschreiben)
-- [`ifap-nachtraegliche-anmeldung-177`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-nachtraegliche-anmeldung-177)
-- [`ifap-pruefentscheidung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-pruefentscheidung)
-- [`ifap-pruefungstermin-176`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-pruefungstermin-176)
-- [`ifap-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-quality-gate)
-- [`ifap-rang-nachrang-absonderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-rang-nachrang-absonderung)
-- [`ifap-schuldnerwiderspruch-184`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-schuldnerwiderspruch-184)
-- [`ifap-streitige-forderung-179-180`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-streitige-forderung-179-180)
-- [`ifap-tabellenauszug-178`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-tabellenauszug-178)
-- [`ifap-tabellenimport-175`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-tabellenimport-175)
-- [`ifap-vbuh-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-vbuh-pruefung)
-- [`ifap-verteilung-bestrittene-189`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-verteilung-bestrittene-189)
+| Skill | Skill |
+|---|---|
+| [`iv-aktenanlage-verfahrenscockpit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-aktenanlage-verfahrenscockpit/SKILL.md) | [`iv-plan-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-kommandocenter/SKILL.md) |
+| [`iv-anfechtung-129ff`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-anfechtung-129ff/SKILL.md) | [`iv-plan-minderheitenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-minderheitenschutz/SKILL.md) |
+| [`iv-arbeitsrecht-insolvenzgeld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-arbeitsrecht-insolvenzgeld/SKILL.md) | [`iv-plan-planbetroffene-auswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-planbetroffene-auswahl/SKILL.md) |
+| [`iv-berichte-gericht-glaeubiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-berichte-gericht-glaeubiger/SKILL.md) | [`iv-plan-planvollzug-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-planvollzug-monitoring/SKILL.md) |
+| [`iv-eigenverwaltung-sachwaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-eigenverwaltung-sachwaltung/SKILL.md) | [`iv-plan-redteam-qualitygate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-redteam-qualitygate/SKILL.md) |
+| [`iv-eroeffnungsgutachten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-eroeffnungsgutachten/SKILL.md) | [`iv-plan-sanierungskonzept`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-sanierungskonzept/SKILL.md) |
+| [`iv-forderungsanmeldung-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-forderungsanmeldung-pruefung/SKILL.md) | [`iv-plan-sicherheiten-drittsicherheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-sicherheiten-drittsicherheiten/SKILL.md) |
+| [`iv-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-kommandocenter/SKILL.md) | [`iv-plan-stabilisierung-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-stabilisierung-starug/SKILL.md) |
+| [`iv-masseeinsammlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-masseeinsammlung/SKILL.md) | [`iv-plan-stakeholder-kommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-stakeholder-kommunikation/SKILL.md) |
+| [`iv-massemehrung-asset-realisation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-massemehrung-asset-realisation/SKILL.md) | [`iv-plan-starug-plan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-starug-plan-architektur/SKILL.md) |
+| [`iv-masseunzulaenglichkeit-208`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-masseunzulaenglichkeit-208/SKILL.md) | [`iv-plan-steuern-bilanz-folgen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-steuern-bilanz-folgen/SKILL.md) |
+| [`iv-plan-abstimmung-mehrheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-abstimmung-mehrheiten/SKILL.md) | [`iv-plan-verfahrenswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-verfahrenswahl/SKILL.md) |
+| [`iv-plan-anlagenpaket`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-anlagenpaket/SKILL.md) | [`iv-plan-vergleichsrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-vergleichsrechnung/SKILL.md) |
+| [`iv-plan-cramdown-obstruktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-cramdown-obstruktion/SKILL.md) | [`iv-qualitaets-und-plausibilitaetsgate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-qualitaets-und-plausibilitaetsgate/SKILL.md) |
+| [`iv-plan-darstellender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-darstellender-teil/SKILL.md) | [`iv-regelverfahren-eroeffnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-regelverfahren-eroeffnung/SKILL.md) |
+| [`iv-plan-datenraum-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-datenraum-register/SKILL.md) | [`iv-schutzschirm-270d`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-schutzschirm-270d/SKILL.md) |
+| [`iv-plan-gerichtliche-schritte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-gerichtliche-schritte/SKILL.md) | [`iv-sicherung-betriebsfortfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-sicherung-betriebsfortfuehrung/SKILL.md) |
+| [`iv-plan-gestaltender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-gestaltender-teil/SKILL.md) | [`iv-steuern-sozialversicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-steuern-sozialversicherung/SKILL.md) |
+| [`iv-plan-gruppen-klassenbildung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-gruppen-klassenbildung/SKILL.md) | [`iv-tabelle-pruefungstermin`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-tabelle-pruefungstermin/SKILL.md) |
+| [`iv-plan-insolvenzplan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-insolvenzplan-architektur/SKILL.md) | [`iv-verteilung-schlussrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-verteilung-schlussrechnung/SKILL.md) |
+| [`iv-plan-integrierte-planung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-integrierte-planung/SKILL.md) | [`iv-vorlaeufige-verwaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-vorlaeufige-verwaltung/SKILL.md) |
+| [`iv-plan-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-plan-kaltstart-interview/SKILL.md) | [`iv-zahlungsklagen-15b`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzverwaltung/skills/iv-zahlungsklagen-15b/SKILL.md) |
 
-### [insolvenzplan-starug-planwerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt) (26 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`ips-abstimmung-mehrheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-abstimmung-mehrheiten)
-- [`ips-anlagenpaket`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-anlagenpaket)
-- [`ips-asset-deals-im-plan-grundstuecke-marken-kundendaten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-asset-deals-im-plan-grundstuecke-marken-kundendaten)
-- [`ips-cramdown-obstruktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-cramdown-obstruktion)
-- [`ips-darstellender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-darstellender-teil)
-- [`ips-datenraum-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-datenraum-register)
-- [`ips-gerichtliche-schritte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-gerichtliche-schritte)
-- [`ips-gestaltender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-gestaltender-teil)
-- [`ips-gruppen-klassenbildung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-gruppen-klassenbildung)
-- [`ips-insolvenzplan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-insolvenzplan-architektur)
-- [`ips-integrierte-planung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-integrierte-planung)
-- [`ips-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-kaltstart-interview)
-- [`ips-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-kommandocenter)
-- [`ips-minderheitenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-minderheitenschutz)
-- [`ips-planbetroffene-auswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-planbetroffene-auswahl)
-- [`ips-planvollzug-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-planvollzug-monitoring)
-- [`ips-redteam-qualitygate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-redteam-qualitygate)
-- [`ips-sanierungskonzept`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-sanierungskonzept)
-- [`ips-sicherheiten-drittsicherheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-sicherheiten-drittsicherheiten)
-- [`ips-stabilisierung-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-stabilisierung-starug)
-- [`ips-stakeholder-kommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-stakeholder-kommunikation)
-- [`ips-starug-plan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-starug-plan-architektur)
-- [`ips-steuern-bilanz-folgen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-steuern-bilanz-folgen)
-- [`ips-verfahrenswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-verfahrenswahl)
-- [`ips-vergleichsrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-vergleichsrechnung)
-- [`sanierungsmoderation-94-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/sanierungsmoderation-94-starug)
+### [insolvenzforderungsanmeldungspruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung) · 20 Skills
 
-### [krisenfrueherkennung-starug](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug) (19 Skills)
+| Skill | Skill |
+|---|---|
+| [`ifap-aktenanlage-batchregister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-aktenanlage-batchregister/SKILL.md) | [`ifap-pruefentscheidung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-pruefentscheidung/SKILL.md) |
+| [`ifap-beleg-und-urkundencheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-beleg-und-urkundencheck/SKILL.md) | [`ifap-pruefungstermin-176`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-pruefungstermin-176/SKILL.md) |
+| [`ifap-dubletten-serienforderungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-dubletten-serienforderungen/SKILL.md) | [`ifap-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-quality-gate/SKILL.md) |
+| [`ifap-formalpruefung-174`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-formalpruefung-174/SKILL.md) | [`ifap-rang-nachrang-absonderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-rang-nachrang-absonderung/SKILL.md) |
+| [`ifap-grund-betrag-zinsen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-grund-betrag-zinsen/SKILL.md) | [`ifap-schuldnerwiderspruch-184`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-schuldnerwiderspruch-184/SKILL.md) |
+| [`ifap-intake-kanalcheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-intake-kanalcheck/SKILL.md) | [`ifap-streitige-forderung-179-180`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-streitige-forderung-179-180/SKILL.md) |
+| [`ifap-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-kommandocenter/SKILL.md) | [`ifap-tabellenauszug-178`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-tabellenauszug-178/SKILL.md) |
+| [`ifap-masseverbindlichkeit-abgrenzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-masseverbindlichkeit-abgrenzen/SKILL.md) | [`ifap-tabellenimport-175`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-tabellenimport-175/SKILL.md) |
+| [`ifap-nachforderung-maengelschreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-nachforderung-maengelschreiben/SKILL.md) | [`ifap-vbuh-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-vbuh-pruefung/SKILL.md) |
+| [`ifap-nachtraegliche-anmeldung-177`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-nachtraegliche-anmeldung-177/SKILL.md) | [`ifap-verteilung-bestrittene-189`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzforderungsanmeldungspruefung/skills/ifap-verteilung-bestrittene-189/SKILL.md) |
 
-- [`cross-class-cram-down-und-absolute-priority`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/cross-class-cram-down-und-absolute-priority)
-- [`dokumentationspflicht-und-protokollierung-geschaeftsfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/dokumentationspflicht-und-protokollierung-geschaeftsfuehrung)
-- [`drohende-zahlungsunfaehigkeit-paragraph-18-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/drohende-zahlungsunfaehigkeit-paragraph-18-inso)
-- [`fortbestehensprognose-zweistufig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/fortbestehensprognose-zweistufig)
-- [`fruehwarnsystem-architektur-zwei-jahres-horizont`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/fruehwarnsystem-architektur-zwei-jahres-horizont)
-- [`gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg)
-- [`insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist)
-- [`integrierte-planung-guv-bilanz-cashflow`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/integrierte-planung-guv-bilanz-cashflow)
-- [`kennzahlenset-und-ampelsystem-starug-konform`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/kennzahlenset-und-ampelsystem-starug-konform)
-- [`krisenstadien-stakeholder-strategie-ergebnis-liquiditaet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/krisenstadien-stakeholder-strategie-ergebnis-liquiditaet)
-- [`mandantenbrief-warnung-paragraph-102-starug-template`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/mandantenbrief-warnung-paragraph-102-starug-template)
-- [`paragraph-1-starug-pflichten-und-24-monats-horizont`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/paragraph-1-starug-pflichten-und-24-monats-horizont)
-- [`paragraph-102-starug-warnpflicht-bei-rechtsberatern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/paragraph-102-starug-warnpflicht-bei-rechtsberatern)
-- [`pflichtenkollision-und-shift-of-fiduciary-duties`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/pflichtenkollision-und-shift-of-fiduciary-duties)
-- [`restructuring-lounge-impulsvortrag-toolkit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/restructuring-lounge-impulsvortrag-toolkit)
-- [`restrukturierungsbeauftragter-und-sachwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/restrukturierungsbeauftragter-und-sachwalter)
-- [`restrukturierungsplan-architektur-paragraph-7ff-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/restrukturierungsplan-architektur-paragraph-7ff-starug)
-- [`rollierende-liquiditaetsplanung-24-monate-template`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/rollierende-liquiditaetsplanung-24-monate-template)
-- [`stabilisierungsanordnung-und-vollstreckungssperre`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/stabilisierungsanordnung-und-vollstreckungssperre)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [liquiditaetsplanung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung) (3 Skills)
+### [insolvenzplan-starug-planwerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt) · 26 Skills
 
-- [`liquiditaetsvorschau-3-6-12-monate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate)
-- [`liquiditaetsvorschau-3wochen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen)
-- [`liquiditaetsvorschau-insolvenzrechtlich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich)
+| Skill | Skill |
+|---|---|
+| [`ips-abstimmung-mehrheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-abstimmung-mehrheiten/SKILL.md) | [`ips-minderheitenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-minderheitenschutz/SKILL.md) |
+| [`ips-anlagenpaket`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-anlagenpaket/SKILL.md) | [`ips-planbetroffene-auswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-planbetroffene-auswahl/SKILL.md) |
+| [`ips-asset-deals-im-plan-grundstuecke-marken-kundendaten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-asset-deals-im-plan-grundstuecke-marken-kundendaten/SKILL.md) | [`ips-planvollzug-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-planvollzug-monitoring/SKILL.md) |
+| [`ips-cramdown-obstruktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-cramdown-obstruktion/SKILL.md) | [`ips-redteam-qualitygate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-redteam-qualitygate/SKILL.md) |
+| [`ips-darstellender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-darstellender-teil/SKILL.md) | [`ips-sanierungskonzept`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-sanierungskonzept/SKILL.md) |
+| [`ips-datenraum-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-datenraum-register/SKILL.md) | [`ips-sicherheiten-drittsicherheiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-sicherheiten-drittsicherheiten/SKILL.md) |
+| [`ips-gerichtliche-schritte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-gerichtliche-schritte/SKILL.md) | [`ips-stabilisierung-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-stabilisierung-starug/SKILL.md) |
+| [`ips-gestaltender-teil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-gestaltender-teil/SKILL.md) | [`ips-stakeholder-kommunikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-stakeholder-kommunikation/SKILL.md) |
+| [`ips-gruppen-klassenbildung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-gruppen-klassenbildung/SKILL.md) | [`ips-starug-plan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-starug-plan-architektur/SKILL.md) |
+| [`ips-insolvenzplan-architektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-insolvenzplan-architektur/SKILL.md) | [`ips-steuern-bilanz-folgen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-steuern-bilanz-folgen/SKILL.md) |
+| [`ips-integrierte-planung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-integrierte-planung/SKILL.md) | [`ips-verfahrenswahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-verfahrenswahl/SKILL.md) |
+| [`ips-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-kaltstart-interview/SKILL.md) | [`ips-vergleichsrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-vergleichsrechnung/SKILL.md) |
+| [`ips-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/ips-kommandocenter/SKILL.md) | [`sanierungsmoderation-94-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/insolvenzplan-starug-planwerkstatt/skills/sanierungsmoderation-94-starug/SKILL.md) |
 
-### [fortbestehensprognose](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`annahmen-belastbarkeit-plausibilisieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/annahmen-belastbarkeit-plausibilisieren)
-- [`annahmen-sammeln-fortfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/annahmen-sammeln-fortfuehrung)
-- [`ausloesendes-ereignis-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/ausloesendes-ereignis-erfassen)
-- [`bilanzieller-status-aufnehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/bilanzieller-status-aufnehmen)
-- [`comfortletter-weich-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/comfortletter-weich-erzeugen)
-- [`forderungsverzicht-besserungsschein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/forderungsverzicht-besserungsschein)
-- [`fortbestehensprognose-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/fortbestehensprognose-kaltstart-interview)
-- [`fortbestehensprognose-zusammenfuehren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/fortbestehensprognose-zusammenfuehren)
-- [`gesellschafterdarlehen-rangruecktritt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/gesellschafterdarlehen-rangruecktritt)
-- [`liquiditaet-12-monate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/liquiditaet-12-monate)
-- [`patronatserklaerung-extern-hart-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/patronatserklaerung-extern-hart-erzeugen)
-- [`prognose-dokumentation-stichtag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/prognose-dokumentation-stichtag)
-- [`sanierungsbausteine-vorschlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/sanierungsbausteine-vorschlagen)
-- [`stundungsanfrage-glaeubiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/stundungsanfrage-glaeubiger)
-- [`wenn-prognose-negativ-naechste-schritte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/wenn-prognose-negativ-naechste-schritte)
+### [krisenfrueherkennung-starug](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug) · 19 Skills
+
+| Skill | Skill |
+|---|---|
+| [`cross-class-cram-down-und-absolute-priority`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/cross-class-cram-down-und-absolute-priority/SKILL.md) | [`mandantenbrief-warnung-paragraph-102-starug-template`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/mandantenbrief-warnung-paragraph-102-starug-template/SKILL.md) |
+| [`dokumentationspflicht-und-protokollierung-geschaeftsfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/dokumentationspflicht-und-protokollierung-geschaeftsfuehrung/SKILL.md) | [`paragraph-1-starug-pflichten-und-24-monats-horizont`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/paragraph-1-starug-pflichten-und-24-monats-horizont/SKILL.md) |
+| [`drohende-zahlungsunfaehigkeit-paragraph-18-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/drohende-zahlungsunfaehigkeit-paragraph-18-inso/SKILL.md) | [`paragraph-102-starug-warnpflicht-bei-rechtsberatern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/paragraph-102-starug-warnpflicht-bei-rechtsberatern/SKILL.md) |
+| [`fortbestehensprognose-zweistufig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/fortbestehensprognose-zweistufig/SKILL.md) | [`pflichtenkollision-und-shift-of-fiduciary-duties`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/pflichtenkollision-und-shift-of-fiduciary-duties/SKILL.md) |
+| [`fruehwarnsystem-architektur-zwei-jahres-horizont`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/fruehwarnsystem-architektur-zwei-jahres-horizont/SKILL.md) | [`restructuring-lounge-impulsvortrag-toolkit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/restructuring-lounge-impulsvortrag-toolkit/SKILL.md) |
+| [`gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg/SKILL.md) | [`restrukturierungsbeauftragter-und-sachwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/restrukturierungsbeauftragter-und-sachwalter/SKILL.md) |
+| [`insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist/SKILL.md) | [`restrukturierungsplan-architektur-paragraph-7ff-starug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/restrukturierungsplan-architektur-paragraph-7ff-starug/SKILL.md) |
+| [`integrierte-planung-guv-bilanz-cashflow`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/integrierte-planung-guv-bilanz-cashflow/SKILL.md) | [`rollierende-liquiditaetsplanung-24-monate-template`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/rollierende-liquiditaetsplanung-24-monate-template/SKILL.md) |
+| [`kennzahlenset-und-ampelsystem-starug-konform`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/kennzahlenset-und-ampelsystem-starug-konform/SKILL.md) | [`stabilisierungsanordnung-und-vollstreckungssperre`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/stabilisierungsanordnung-und-vollstreckungssperre/SKILL.md) |
+| [`krisenstadien-stakeholder-strategie-ergebnis-liquiditaet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/krisenfrueherkennung-starug/skills/krisenstadien-stakeholder-strategie-ergebnis-liquiditaet/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [liquiditaetsplanung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung) · 3 Skills
+
+| Skill | Skill |
+|---|---|
+| [`liquiditaetsvorschau-3-6-12-monate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md) | [`liquiditaetsvorschau-insolvenzrechtlich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md) |
+| [`liquiditaetsvorschau-3wochen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [fortbestehensprognose](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose) · 15 Skills
+
+| Skill | Skill |
+|---|---|
+| [`annahmen-belastbarkeit-plausibilisieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/annahmen-belastbarkeit-plausibilisieren/SKILL.md) | [`gesellschafterdarlehen-rangruecktritt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/gesellschafterdarlehen-rangruecktritt/SKILL.md) |
+| [`annahmen-sammeln-fortfuehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/annahmen-sammeln-fortfuehrung/SKILL.md) | [`liquiditaet-12-monate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/liquiditaet-12-monate/SKILL.md) |
+| [`ausloesendes-ereignis-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/ausloesendes-ereignis-erfassen/SKILL.md) | [`patronatserklaerung-extern-hart-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/patronatserklaerung-extern-hart-erzeugen/SKILL.md) |
+| [`bilanzieller-status-aufnehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/bilanzieller-status-aufnehmen/SKILL.md) | [`prognose-dokumentation-stichtag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/prognose-dokumentation-stichtag/SKILL.md) |
+| [`comfortletter-weich-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/comfortletter-weich-erzeugen/SKILL.md) | [`sanierungsbausteine-vorschlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/sanierungsbausteine-vorschlagen/SKILL.md) |
+| [`forderungsverzicht-besserungsschein`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/forderungsverzicht-besserungsschein/SKILL.md) | [`stundungsanfrage-glaeubiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/stundungsanfrage-glaeubiger/SKILL.md) |
+| [`fortbestehensprognose-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/fortbestehensprognose-kaltstart-interview/SKILL.md) | [`wenn-prognose-negativ-naechste-schritte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/wenn-prognose-negativ-naechste-schritte/SKILL.md) |
+| [`fortbestehensprognose-zusammenfuehren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fortbestehensprognose/skills/fortbestehensprognose-zusammenfuehren/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Internationales- & Migrationsrecht
 
-### [fachanwalt-internationales-wirtschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht) (15 Skills)
+### [fachanwalt-internationales-wirtschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht) · 15 Skills
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung)
-- [`fachanwalt-internationales-wirtschaftsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-orientierung)
-- [`fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit)
-- [`fachanwalt-internationales-wirtschaftsrecht-schiedsklausel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-schiedsklausel)
-- [`fachanwalt-iwr-brussels-ia-zustaendigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-brussels-ia-zustaendigkeit)
-- [`fachanwalt-iwr-cisg-anwendbarkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-cisg-anwendbarkeit)
-- [`fachanwalt-iwr-embargo-pruefung-russland`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-embargo-pruefung-russland)
-- [`fachanwalt-iwr-eu-us-dpf-data-privacy-framework`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-eu-us-dpf-data-privacy-framework)
-- [`fachanwalt-iwr-icc-uncitral-schiedsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-icc-uncitral-schiedsverfahren)
-- [`gerichtsstand-und-rechtswahl-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/gerichtsstand-und-rechtswahl-pruefen)
-- [`mandat-triage-iwr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/mandat-triage-iwr)
-- [`sanktions-compliance-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/sanktions-compliance-pruefung)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-iwr-eu-us-dpf-data-privacy-framework`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-eu-us-dpf-data-privacy-framework/SKILL.md) |
+| [`fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung/SKILL.md) | [`fachanwalt-iwr-icc-uncitral-schiedsverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-icc-uncitral-schiedsverfahren/SKILL.md) |
+| [`fachanwalt-internationales-wirtschaftsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-orientierung/SKILL.md) | [`gerichtsstand-und-rechtswahl-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/gerichtsstand-und-rechtswahl-pruefen/SKILL.md) |
+| [`fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit/SKILL.md) | [`mandat-triage-iwr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/mandat-triage-iwr/SKILL.md) |
+| [`fachanwalt-internationales-wirtschaftsrecht-schiedsklausel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-internationales-wirtschaftsrecht-schiedsklausel/SKILL.md) | [`sanktions-compliance-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/sanktions-compliance-pruefung/SKILL.md) |
+| [`fachanwalt-iwr-brussels-ia-zustaendigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-brussels-ia-zustaendigkeit/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-iwr-cisg-anwendbarkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-cisg-anwendbarkeit/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-iwr-embargo-pruefung-russland`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-internationales-wirtschaftsrecht/skills/fachanwalt-iwr-embargo-pruefung-russland/SKILL.md) |  |
 
-### [fachanwalt-migrationsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht) (15 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`asyl-anhoerung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/asyl-anhoerung-vorbereiten)
-- [`aufenthaltstitel-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/aufenthaltstitel-pruefung)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-migrationsrecht-abschiebungsabwehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-abschiebungsabwehr)
-- [`fachanwalt-migrationsrecht-asyl-folgeantrag-71`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-asyl-folgeantrag-71)
-- [`fachanwalt-migrationsrecht-aufenthaltstitel-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-aufenthaltstitel-antrag)
-- [`fachanwalt-migrationsrecht-ausweisung-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-ausweisung-widerspruch)
-- [`fachanwalt-migrationsrecht-bamf-anhoerung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-bamf-anhoerung-strategie)
-- [`fachanwalt-migrationsrecht-einbuergerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-einbuergerung)
-- [`fachanwalt-migrationsrecht-familiennachzug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-familiennachzug)
-- [`fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024)
-- [`fachanwalt-migrationsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-orientierung)
-- [`mandat-triage-migrationsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/mandat-triage-migrationsrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-migrationsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht) · 15 Skills
 
-### [common-law-kompass](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass) (18 Skills)
+| Skill | Skill |
+|---|---|
+| [`asyl-anhoerung-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/asyl-anhoerung-vorbereiten/SKILL.md) | [`fachanwalt-migrationsrecht-einbuergerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-einbuergerung/SKILL.md) |
+| [`aufenthaltstitel-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/aufenthaltstitel-pruefung/SKILL.md) | [`fachanwalt-migrationsrecht-familiennachzug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-familiennachzug/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024/SKILL.md) |
+| [`fachanwalt-migrationsrecht-abschiebungsabwehr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-abschiebungsabwehr/SKILL.md) | [`fachanwalt-migrationsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-orientierung/SKILL.md) |
+| [`fachanwalt-migrationsrecht-asyl-folgeantrag-71`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-asyl-folgeantrag-71/SKILL.md) | [`mandat-triage-migrationsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/mandat-triage-migrationsrecht/SKILL.md) |
+| [`fachanwalt-migrationsrecht-aufenthaltstitel-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-aufenthaltstitel-antrag/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-migrationsrecht-ausweisung-widerspruch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-ausweisung-widerspruch/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-migrationsrecht-bamf-anhoerung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-migrationsrecht/skills/fachanwalt-migrationsrecht-bamf-anhoerung-strategie/SKILL.md) |  |
 
-- [`common-law-begriffe-uebersetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-begriffe-uebersetzung)
-- [`common-law-bilingual-contract-review`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-bilingual-contract-review)
-- [`common-law-client-explainer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-client-explainer)
-- [`common-law-contract-formation-consideration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-contract-formation-consideration)
-- [`common-law-false-friends-scanner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-false-friends-scanner)
-- [`common-law-governing-law-jurisdiction`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-governing-law-jurisdiction)
-- [`common-law-humor-coach`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-humor-coach)
-- [`common-law-interpretation-precedent`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-interpretation-precedent)
-- [`common-law-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-kommandocenter)
-- [`common-law-litigation-discovery`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-litigation-discovery)
-- [`common-law-ma-commercial-drafting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-ma-commercial-drafting)
-- [`common-law-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-quality-gate)
-- [`common-law-remedies-damages-equity`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-remedies-damages-equity)
-- [`common-law-representations-warranties-covenants`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-representations-warranties-covenants)
-- [`common-law-simulation-negotiation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-simulation-negotiation)
-- [`common-law-surety-guarantee-indemnity`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-surety-guarantee-indemnity)
-- [`common-law-ucc-sales-goods`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-ucc-sales-goods)
-- [`common-law-us-vs-uk-drafting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-us-vs-uk-drafting)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [europarecht-kompass](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass) (18 Skills)
+### [common-law-kompass](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass) · 18 Skills
 
-- [`europarecht-beihilfen-vergaben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-beihilfen-vergaben)
-- [`europarecht-delegierte-durchfuehrungsakte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-delegierte-durchfuehrungsakte)
-- [`europarecht-deutscher-denkfehler-scanner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-deutscher-denkfehler-scanner)
-- [`europarecht-gesetzgebung-trilog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-gesetzgebung-trilog)
-- [`europarecht-grundfreiheiten-binnenmarkt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-grundfreiheiten-binnenmarkt)
-- [`europarecht-grundrechte-charta`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-grundrechte-charta)
-- [`europarecht-klagearten-eugh`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-klagearten-eugh)
-- [`europarecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-kommandocenter)
-- [`europarecht-mandantenmemo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-mandantenmemo)
-- [`europarecht-nationales-verfahren-effektivitaet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-nationales-verfahren-effektivitaet)
-- [`europarecht-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-quality-gate)
-- [`europarecht-richtlinie-umsetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-richtlinie-umsetzung)
-- [`europarecht-simulation-behoerde-gericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-simulation-behoerde-gericht)
-- [`europarecht-verordnung-beschluss-soft-law`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-verordnung-beschluss-soft-law)
-- [`europarecht-vertragsverletzung-durchsetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-vertragsverletzung-durchsetzung)
-- [`europarecht-vorlageverfahren-art-267`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-vorlageverfahren-art-267)
-- [`europarecht-vorrang-unmittelbare-wirkung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-vorrang-unmittelbare-wirkung)
-- [`europarecht-wettbewerb-kartell`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-wettbewerb-kartell)
+| Skill | Skill |
+|---|---|
+| [`common-law-begriffe-uebersetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-begriffe-uebersetzung/SKILL.md) | [`common-law-litigation-discovery`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-litigation-discovery/SKILL.md) |
+| [`common-law-bilingual-contract-review`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-bilingual-contract-review/SKILL.md) | [`common-law-ma-commercial-drafting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-ma-commercial-drafting/SKILL.md) |
+| [`common-law-client-explainer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-client-explainer/SKILL.md) | [`common-law-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-quality-gate/SKILL.md) |
+| [`common-law-contract-formation-consideration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-contract-formation-consideration/SKILL.md) | [`common-law-remedies-damages-equity`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-remedies-damages-equity/SKILL.md) |
+| [`common-law-false-friends-scanner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-false-friends-scanner/SKILL.md) | [`common-law-representations-warranties-covenants`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-representations-warranties-covenants/SKILL.md) |
+| [`common-law-governing-law-jurisdiction`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-governing-law-jurisdiction/SKILL.md) | [`common-law-simulation-negotiation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-simulation-negotiation/SKILL.md) |
+| [`common-law-humor-coach`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-humor-coach/SKILL.md) | [`common-law-surety-guarantee-indemnity`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-surety-guarantee-indemnity/SKILL.md) |
+| [`common-law-interpretation-precedent`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-interpretation-precedent/SKILL.md) | [`common-law-ucc-sales-goods`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-ucc-sales-goods/SKILL.md) |
+| [`common-law-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-kommandocenter/SKILL.md) | [`common-law-us-vs-uk-drafting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/common-law-kompass/skills/common-law-us-vs-uk-drafting/SKILL.md) |
 
-### [aussenwirtschaft-zoll-sanktionen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen) (19 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`aussenwirtschaft-aml-kyc-sanktionen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-aml-kyc-sanktionen)
-- [`aussenwirtschaft-antidumping-ausgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-antidumping-ausgleich)
-- [`aussenwirtschaft-awv-bundesbank`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-awv-bundesbank)
-- [`aussenwirtschaft-bafa-genehmigungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-bafa-genehmigungen)
-- [`aussenwirtschaft-cbam-co2-zoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-cbam-co2-zoll)
-- [`aussenwirtschaft-exportkontrolle-dual-use`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-exportkontrolle-dual-use)
-- [`aussenwirtschaft-gueterlisten-klassifizierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-gueterlisten-klassifizierung)
-- [`aussenwirtschaft-icp-kontrollsystem`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-icp-kontrollsystem)
-- [`aussenwirtschaft-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter)
-- [`aussenwirtschaft-presse-krise`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-presse-krise)
-- [`aussenwirtschaft-pruefung-ermittlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-pruefung-ermittlung)
-- [`aussenwirtschaft-sanktionen-embargos`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-sanktionen-embargos)
-- [`aussenwirtschaft-us-ear-itar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-us-ear-itar)
-- [`aussenwirtschaft-verbrauchsteuer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-verbrauchsteuer)
-- [`aussenwirtschaft-vub-einfuhr-ausfuhr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-vub-einfuhr-ausfuhr)
-- [`aussenwirtschaft-wto-handelspolitik`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-wto-handelspolitik)
-- [`aussenwirtschaft-zolltarif-vzta`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-zolltarif-vzta)
-- [`aussenwirtschaft-zollverfahren-bewilligungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-zollverfahren-bewilligungen)
-- [`aussenwirtschaft-zollwert-ursprung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-zollwert-ursprung)
+### [europarecht-kompass](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass) · 18 Skills
+
+| Skill | Skill |
+|---|---|
+| [`europarecht-beihilfen-vergaben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-beihilfen-vergaben/SKILL.md) | [`europarecht-nationales-verfahren-effektivitaet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-nationales-verfahren-effektivitaet/SKILL.md) |
+| [`europarecht-delegierte-durchfuehrungsakte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-delegierte-durchfuehrungsakte/SKILL.md) | [`europarecht-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-quality-gate/SKILL.md) |
+| [`europarecht-deutscher-denkfehler-scanner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-deutscher-denkfehler-scanner/SKILL.md) | [`europarecht-richtlinie-umsetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-richtlinie-umsetzung/SKILL.md) |
+| [`europarecht-gesetzgebung-trilog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-gesetzgebung-trilog/SKILL.md) | [`europarecht-simulation-behoerde-gericht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-simulation-behoerde-gericht/SKILL.md) |
+| [`europarecht-grundfreiheiten-binnenmarkt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-grundfreiheiten-binnenmarkt/SKILL.md) | [`europarecht-verordnung-beschluss-soft-law`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-verordnung-beschluss-soft-law/SKILL.md) |
+| [`europarecht-grundrechte-charta`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-grundrechte-charta/SKILL.md) | [`europarecht-vertragsverletzung-durchsetzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-vertragsverletzung-durchsetzung/SKILL.md) |
+| [`europarecht-klagearten-eugh`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-klagearten-eugh/SKILL.md) | [`europarecht-vorlageverfahren-art-267`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-vorlageverfahren-art-267/SKILL.md) |
+| [`europarecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-kommandocenter/SKILL.md) | [`europarecht-vorrang-unmittelbare-wirkung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-vorrang-unmittelbare-wirkung/SKILL.md) |
+| [`europarecht-mandantenmemo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-mandantenmemo/SKILL.md) | [`europarecht-wettbewerb-kartell`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/europarecht-kompass/skills/europarecht-wettbewerb-kartell/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [aussenwirtschaft-zoll-sanktionen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen) · 19 Skills
+
+| Skill | Skill |
+|---|---|
+| [`aussenwirtschaft-aml-kyc-sanktionen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-aml-kyc-sanktionen/SKILL.md) | [`aussenwirtschaft-pruefung-ermittlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-pruefung-ermittlung/SKILL.md) |
+| [`aussenwirtschaft-antidumping-ausgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-antidumping-ausgleich/SKILL.md) | [`aussenwirtschaft-sanktionen-embargos`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-sanktionen-embargos/SKILL.md) |
+| [`aussenwirtschaft-awv-bundesbank`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-awv-bundesbank/SKILL.md) | [`aussenwirtschaft-us-ear-itar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-us-ear-itar/SKILL.md) |
+| [`aussenwirtschaft-bafa-genehmigungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-bafa-genehmigungen/SKILL.md) | [`aussenwirtschaft-verbrauchsteuer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-verbrauchsteuer/SKILL.md) |
+| [`aussenwirtschaft-cbam-co2-zoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-cbam-co2-zoll/SKILL.md) | [`aussenwirtschaft-vub-einfuhr-ausfuhr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-vub-einfuhr-ausfuhr/SKILL.md) |
+| [`aussenwirtschaft-exportkontrolle-dual-use`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-exportkontrolle-dual-use/SKILL.md) | [`aussenwirtschaft-wto-handelspolitik`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-wto-handelspolitik/SKILL.md) |
+| [`aussenwirtschaft-gueterlisten-klassifizierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-gueterlisten-klassifizierung/SKILL.md) | [`aussenwirtschaft-zolltarif-vzta`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-zolltarif-vzta/SKILL.md) |
+| [`aussenwirtschaft-icp-kontrollsystem`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-icp-kontrollsystem/SKILL.md) | [`aussenwirtschaft-zollverfahren-bewilligungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-zollverfahren-bewilligungen/SKILL.md) |
+| [`aussenwirtschaft-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-kommandocenter/SKILL.md) | [`aussenwirtschaft-zollwert-ursprung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-zollwert-ursprung/SKILL.md) |
+| [`aussenwirtschaft-presse-krise`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-presse-krise/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Verwaltungs-, Verfassungs-, Energie- & Umweltrecht
 
-### [fachanwalt-verwaltungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht) (17 Skills)
+### [fachanwalt-verwaltungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht) · 17 Skills
 
-- [`eilantrag-80-abs-5-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/eilantrag-80-abs-5-vwgo)
-- [`energieanlagen-bimschg-genehmigung-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/energieanlagen-bimschg-genehmigung-verfahren)
-- [`energietrassen-planfeststellung-rechtsschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/energietrassen-planfeststellung-rechtsschutz)
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-verwaltungsrecht-anfechtungsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-anfechtungsklage)
-- [`fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren)
-- [`fachanwalt-verwaltungsrecht-drittanfechtung-umwelt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-drittanfechtung-umwelt)
-- [`fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz)
-- [`fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg)
-- [`fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo)
-- [`fachanwalt-verwaltungsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-orientierung)
-- [`fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde)
-- [`fachanwalt-verwaltungsrecht-widerspruchsschrift`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-widerspruchsschrift)
-- [`mandat-triage-verwaltungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/mandat-triage-verwaltungsrecht)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/vergleichsverhandlung-strategie)
-- [`widerspruch-oder-klage-erstpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/widerspruch-oder-klage-erstpruefung)
+| Skill | Skill |
+|---|---|
+| [`eilantrag-80-abs-5-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/eilantrag-80-abs-5-vwgo/SKILL.md) | [`fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo/SKILL.md) |
+| [`energieanlagen-bimschg-genehmigung-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/energieanlagen-bimschg-genehmigung-verfahren/SKILL.md) | [`fachanwalt-verwaltungsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-orientierung/SKILL.md) |
+| [`energietrassen-planfeststellung-rechtsschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/energietrassen-planfeststellung-rechtsschutz/SKILL.md) | [`fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde/SKILL.md) |
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-verwaltungsrecht-widerspruchsschrift`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-widerspruchsschrift/SKILL.md) |
+| [`fachanwalt-verwaltungsrecht-anfechtungsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-anfechtungsklage/SKILL.md) | [`mandat-triage-verwaltungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/mandat-triage-verwaltungsrecht/SKILL.md) |
+| [`fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-verwaltungsrecht-drittanfechtung-umwelt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-drittanfechtung-umwelt/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz/SKILL.md) | [`widerspruch-oder-klage-erstpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/widerspruch-oder-klage-erstpruefung/SKILL.md) |
+| [`fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-verwaltungsrecht/skills/fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg/SKILL.md) |  |
 
-### [verfassungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht) (8 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`bverfg-rechtsprechung-recherchieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/bverfg-rechtsprechung-recherchieren)
-- [`formelle-verfassungsmaessigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/formelle-verfassungsmaessigkeit)
-- [`gesetzentwurf-gg-konformitaet-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/gesetzentwurf-gg-konformitaet-pruefen)
-- [`gesetzgebungskompetenz-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/gesetzgebungskompetenz-pruefen)
-- [`grundrechtspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/grundrechtspruefung)
-- [`verfassungsbeschwerde-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/verfassungsbeschwerde-entwurf)
-- [`verfassungsrechtliche-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/verfassungsrechtliche-pruefung)
-- [`verhaeltnismaessigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/verhaeltnismaessigkeit)
+### [verfassungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht) · 8 Skills
 
-### [energierecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht) (13 Skills)
+| Skill | Skill |
+|---|---|
+| [`bverfg-rechtsprechung-recherchieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/bverfg-rechtsprechung-recherchieren/SKILL.md) | [`grundrechtspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/grundrechtspruefung/SKILL.md) |
+| [`formelle-verfassungsmaessigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/formelle-verfassungsmaessigkeit/SKILL.md) | [`verfassungsbeschwerde-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/verfassungsbeschwerde-entwurf/SKILL.md) |
+| [`gesetzentwurf-gg-konformitaet-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/gesetzentwurf-gg-konformitaet-pruefen/SKILL.md) | [`verfassungsrechtliche-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/verfassungsrechtliche-pruefung/SKILL.md) |
+| [`gesetzgebungskompetenz-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/gesetzgebungskompetenz-pruefen/SKILL.md) | [`verhaeltnismaessigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verfassungsrecht/skills/verhaeltnismaessigkeit/SKILL.md) |
 
-- [`energierecht-eeg-kwkg-erzeugung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-eeg-kwkg-erzeugung)
-- [`energierecht-emobility-wasserstoff`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-emobility-wasserstoff)
-- [`energierecht-energievertraege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-energievertraege)
-- [`energierecht-industriekunden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-industriekunden)
-- [`energierecht-infrastrukturprojekte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-infrastrukturprojekte)
-- [`energierecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-kommandocenter)
-- [`energierecht-netz-speicher-zugang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-netz-speicher-zugang)
-- [`energierecht-projektfinanzierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-projektfinanzierung)
-- [`energierecht-transaktionen-dd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-transaktionen-dd)
-- [`energierecht-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-verfahren)
-- [`energierecht-vertrieb-marktrollen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-vertrieb-marktrollen)
-- [`energierecht-waerme-quartier`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-waerme-quartier)
-- [`energierecht-wettbewerb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-wettbewerb)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [umweltrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht) (15 Skills)
+### [energierecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht) · 13 Skills
 
-- [`esg-greenwashing-csrd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/esg-greenwashing-csrd)
-- [`klimaklagen-verbandsklage-umwrg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/klimaklagen-verbandsklage-umwrg)
-- [`lksg-csddd-lieferkettensorgfalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/lksg-csddd-lieferkettensorgfalt)
-- [`umweltrecht-abfall-circular-economy`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-abfall-circular-economy)
-- [`umweltrecht-bussgeld-sanktionen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-bussgeld-sanktionen)
-- [`umweltrecht-compliance-schulung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-compliance-schulung)
-- [`umweltrecht-emissionshandel-tehg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-emissionshandel-tehg)
-- [`umweltrecht-immissionsschutz-bimschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-immissionsschutz-bimschg)
-- [`umweltrecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-kommandocenter)
-- [`umweltrecht-naturschutz-artenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-naturschutz-artenschutz)
-- [`umweltrecht-stoerfall-anlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-stoerfall-anlagen)
-- [`umweltrecht-transaktionen-dd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-transaktionen-dd)
-- [`umweltrecht-umweltinformation-uig-ifg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-umweltinformation-uig-ifg)
-- [`umweltrecht-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-verfahren)
-- [`umweltrecht-wasser-bodenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-wasser-bodenschutz)
+| Skill | Skill |
+|---|---|
+| [`energierecht-eeg-kwkg-erzeugung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-eeg-kwkg-erzeugung/SKILL.md) | [`energierecht-projektfinanzierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-projektfinanzierung/SKILL.md) |
+| [`energierecht-emobility-wasserstoff`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-emobility-wasserstoff/SKILL.md) | [`energierecht-transaktionen-dd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-transaktionen-dd/SKILL.md) |
+| [`energierecht-energievertraege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-energievertraege/SKILL.md) | [`energierecht-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-verfahren/SKILL.md) |
+| [`energierecht-industriekunden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-industriekunden/SKILL.md) | [`energierecht-vertrieb-marktrollen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-vertrieb-marktrollen/SKILL.md) |
+| [`energierecht-infrastrukturprojekte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-infrastrukturprojekte/SKILL.md) | [`energierecht-waerme-quartier`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-waerme-quartier/SKILL.md) |
+| [`energierecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-kommandocenter/SKILL.md) | [`energierecht-wettbewerb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-wettbewerb/SKILL.md) |
+| [`energierecht-netz-speicher-zugang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/energierecht/skills/energierecht-netz-speicher-zugang/SKILL.md) |  |
 
-### [regulatorisches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht) (12 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`aufsichts-feed-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/aufsichts-feed-monitor)
-- [`dora-ikt-vertragspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/dora-ikt-vertragspruefung)
-- [`inkasso-rdg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/inkasso-rdg)
-- [`luecken`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/luecken)
-- [`luecken-aufzeiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/luecken-aufzeiger)
-- [`regulatorisches-recht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/regulatorisches-recht-anpassen)
-- [`regulatorisches-recht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/regulatorisches-recht-kaltstart-interview)
-- [`regulatorisches-recht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/regulatorisches-recht-mandat-arbeitsbereich)
-- [`richtlinien-neufassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/richtlinien-neufassung)
-- [`richtlinien-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/richtlinien-vergleich)
-- [`stellungnahmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/stellungnahmen)
-- [`ustva`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/ustva)
+### [umweltrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht) · 15 Skills
 
-### [legistik-werkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt) (25 Skills)
+| Skill | Skill |
+|---|---|
+| [`esg-greenwashing-csrd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/esg-greenwashing-csrd/SKILL.md) | [`umweltrecht-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-kommandocenter/SKILL.md) |
+| [`klimaklagen-verbandsklage-umwrg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/klimaklagen-verbandsklage-umwrg/SKILL.md) | [`umweltrecht-naturschutz-artenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-naturschutz-artenschutz/SKILL.md) |
+| [`lksg-csddd-lieferkettensorgfalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/lksg-csddd-lieferkettensorgfalt/SKILL.md) | [`umweltrecht-stoerfall-anlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-stoerfall-anlagen/SKILL.md) |
+| [`umweltrecht-abfall-circular-economy`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-abfall-circular-economy/SKILL.md) | [`umweltrecht-transaktionen-dd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-transaktionen-dd/SKILL.md) |
+| [`umweltrecht-bussgeld-sanktionen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-bussgeld-sanktionen/SKILL.md) | [`umweltrecht-umweltinformation-uig-ifg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-umweltinformation-uig-ifg/SKILL.md) |
+| [`umweltrecht-compliance-schulung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-compliance-schulung/SKILL.md) | [`umweltrecht-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-verfahren/SKILL.md) |
+| [`umweltrecht-emissionshandel-tehg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-emissionshandel-tehg/SKILL.md) | [`umweltrecht-wasser-bodenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-wasser-bodenschutz/SKILL.md) |
+| [`umweltrecht-immissionsschutz-bimschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/umweltrecht/skills/umweltrecht-immissionsschutz-bimschg/SKILL.md) |  |
 
-- [`begruendung-allgemein-und-besonders`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/begruendung-allgemein-und-besonders)
-- [`dokumente-rendern-docx-pdf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/dokumente-rendern-docx-pdf)
-- [`europarechtskonformitaet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/europarechtskonformitaet)
-- [`folgenabschaetzung-erfuellungsaufwand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/folgenabschaetzung-erfuellungsaufwand)
-- [`folgenabschaetzung-nachhaltigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/folgenabschaetzung-nachhaltigkeit)
-- [`formulierungshilfe-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/formulierungshilfe-bauen)
-- [`gesetzesentwurf-kabinett`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/gesetzesentwurf-kabinett)
-- [`gesetzgebungskompetenz-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/gesetzgebungskompetenz-pruefen)
-- [`goldplating-vermeiden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/goldplating-vermeiden)
-- [`inkrafttreten-uebergangsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/inkrafttreten-uebergangsrecht)
-- [`legistik-auftragsaufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/legistik-auftragsaufnahme)
-- [`lesefassung-konsolidiert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/lesefassung-konsolidiert)
-- [`normenkartierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/normenkartierung)
-- [`normenkontrollrat-kmu-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/normenkontrollrat-kmu-check)
-- [`normhierarchie-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/normhierarchie-routing)
-- [`referentenentwurf-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/referentenentwurf-bauen)
-- [`satzungskompetenz-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/satzungskompetenz-pruefen)
-- [`schulung-legistik`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/schulung-legistik)
-- [`synopse-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/synopse-erstellen)
-- [`terminologie-konsistenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/terminologie-konsistenz)
-- [`verbaendeanhoerung-ressortabstimmung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/verbaendeanhoerung-ressortabstimmung)
-- [`verfassungsmaessigkeit-quercheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/verfassungsmaessigkeit-quercheck)
-- [`verordnungsermaechtigung-art80`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/verordnungsermaechtigung-art80)
-- [`xml-paralleldarstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/xml-paralleldarstellung)
-- [`zirkelschluss-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/zirkelschluss-pruefen)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [regulatorisches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht) · 12 Skills
+
+| Skill | Skill |
+|---|---|
+| [`aufsichts-feed-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/aufsichts-feed-monitor/SKILL.md) | [`regulatorisches-recht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/regulatorisches-recht-kaltstart-interview/SKILL.md) |
+| [`dora-ikt-vertragspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/dora-ikt-vertragspruefung/SKILL.md) | [`regulatorisches-recht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/regulatorisches-recht-mandat-arbeitsbereich/SKILL.md) |
+| [`inkasso-rdg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/inkasso-rdg/SKILL.md) | [`richtlinien-neufassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/richtlinien-neufassung/SKILL.md) |
+| [`luecken`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/luecken/SKILL.md) | [`richtlinien-vergleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/richtlinien-vergleich/SKILL.md) |
+| [`luecken-aufzeiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/luecken-aufzeiger/SKILL.md) | [`stellungnahmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/stellungnahmen/SKILL.md) |
+| [`regulatorisches-recht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/regulatorisches-recht-anpassen/SKILL.md) | [`ustva`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht/skills/ustva/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [legistik-werkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt) · 25 Skills
+
+| Skill | Skill |
+|---|---|
+| [`begruendung-allgemein-und-besonders`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/begruendung-allgemein-und-besonders/SKILL.md) | [`normenkontrollrat-kmu-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/normenkontrollrat-kmu-check/SKILL.md) |
+| [`dokumente-rendern-docx-pdf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/dokumente-rendern-docx-pdf/SKILL.md) | [`normhierarchie-routing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/normhierarchie-routing/SKILL.md) |
+| [`europarechtskonformitaet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/europarechtskonformitaet/SKILL.md) | [`referentenentwurf-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/referentenentwurf-bauen/SKILL.md) |
+| [`folgenabschaetzung-erfuellungsaufwand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/folgenabschaetzung-erfuellungsaufwand/SKILL.md) | [`satzungskompetenz-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/satzungskompetenz-pruefen/SKILL.md) |
+| [`folgenabschaetzung-nachhaltigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/folgenabschaetzung-nachhaltigkeit/SKILL.md) | [`schulung-legistik`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/schulung-legistik/SKILL.md) |
+| [`formulierungshilfe-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/formulierungshilfe-bauen/SKILL.md) | [`synopse-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/synopse-erstellen/SKILL.md) |
+| [`gesetzesentwurf-kabinett`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/gesetzesentwurf-kabinett/SKILL.md) | [`terminologie-konsistenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/terminologie-konsistenz/SKILL.md) |
+| [`gesetzgebungskompetenz-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/gesetzgebungskompetenz-pruefen/SKILL.md) | [`verbaendeanhoerung-ressortabstimmung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/verbaendeanhoerung-ressortabstimmung/SKILL.md) |
+| [`goldplating-vermeiden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/goldplating-vermeiden/SKILL.md) | [`verfassungsmaessigkeit-quercheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/verfassungsmaessigkeit-quercheck/SKILL.md) |
+| [`inkrafttreten-uebergangsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/inkrafttreten-uebergangsrecht/SKILL.md) | [`verordnungsermaechtigung-art80`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/verordnungsermaechtigung-art80/SKILL.md) |
+| [`legistik-auftragsaufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/legistik-auftragsaufnahme/SKILL.md) | [`xml-paralleldarstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/xml-paralleldarstellung/SKILL.md) |
+| [`lesefassung-konsolidiert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/lesefassung-konsolidiert/SKILL.md) | [`zirkelschluss-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/zirkelschluss-pruefen/SKILL.md) |
+| [`normenkartierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/legistik-werkstatt/skills/normenkartierung/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Agrar-, Handels- & Gesellschaftsrecht
 
-### [fachanwalt-agrarrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht) (15 Skills)
+### [fachanwalt-agrarrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht) · 15 Skills
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-duenge-ordnungswidrigkeit)
-- [`fachanwalt-agrarrecht-eu-agrarfoerderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-eu-agrarfoerderung)
-- [`fachanwalt-agrarrecht-gap-direktzahlungen-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-gap-direktzahlungen-antrag)
-- [`fachanwalt-agrarrecht-hoefe-uebergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-hoefe-uebergabe)
-- [`fachanwalt-agrarrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-orientierung)
-- [`fachanwalt-agrarrecht-pachtvertrag-streitig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-pachtvertrag-streitig)
-- [`fachanwalt-agrarrecht-tierhaltung-genehmigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung)
-- [`fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung)
-- [`fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg)
-- [`landpacht-und-hoferbfolge-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen)
-- [`mandat-triage-agrarrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/mandat-triage-agrarrecht)
-- [`sammelantrag-gap-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/sammelantrag-gap-checkliste)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/vergleichsverhandlung-strategie)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung/SKILL.md) |
+| [`fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-duenge-ordnungswidrigkeit/SKILL.md) | [`fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg/SKILL.md) |
+| [`fachanwalt-agrarrecht-eu-agrarfoerderung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-eu-agrarfoerderung/SKILL.md) | [`landpacht-und-hoferbfolge-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md) |
+| [`fachanwalt-agrarrecht-gap-direktzahlungen-antrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-gap-direktzahlungen-antrag/SKILL.md) | [`mandat-triage-agrarrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/mandat-triage-agrarrecht/SKILL.md) |
+| [`fachanwalt-agrarrecht-hoefe-uebergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-hoefe-uebergabe/SKILL.md) | [`sammelantrag-gap-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/sammelantrag-gap-checkliste/SKILL.md) |
+| [`fachanwalt-agrarrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-orientierung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-agrarrecht-pachtvertrag-streitig`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-pachtvertrag-streitig/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
+| [`fachanwalt-agrarrecht-tierhaltung-genehmigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-tierhaltung-genehmigung/SKILL.md) |  |
 
-### [fachanwalt-handels-gesellschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht) (12 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/erstgespraech-mandatsannahme)
-- [`fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung)
-- [`fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit)
-- [`fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich)
-- [`fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung)
-- [`fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings)
-- [`fachanwalt-handels-gesellschaftsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-orientierung)
-- [`fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren)
-- [`fachanwalt-hgr-dis-schiedsverfahren-streit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-hgr-dis-schiedsverfahren-streit)
-- [`fachanwalt-hgr-dlt-pilotregime-token`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-hgr-dlt-pilotregime-token)
-- [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/schriftsatzkern-substantiierung)
-- [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/vergleichsverhandlung-strategie)
+### [fachanwalt-handels-gesellschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht) · 12 Skills
 
-### [wandeldarlehen-lebenszyklus](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus) (32 Skills)
+| Skill | Skill |
+|---|---|
+| [`erstgespraech-mandatsannahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/erstgespraech-mandatsannahme/SKILL.md) | [`fachanwalt-handels-gesellschaftsrecht-orientierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-orientierung/SKILL.md) |
+| [`fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung/SKILL.md) | [`fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren/SKILL.md) |
+| [`fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit/SKILL.md) | [`fachanwalt-hgr-dis-schiedsverfahren-streit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-hgr-dis-schiedsverfahren-streit/SKILL.md) |
+| [`fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich/SKILL.md) | [`fachanwalt-hgr-dlt-pilotregime-token`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-hgr-dlt-pilotregime-token/SKILL.md) |
+| [`fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung/SKILL.md) | [`schriftsatzkern-substantiierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/schriftsatzkern-substantiierung/SKILL.md) |
+| [`fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings/SKILL.md) | [`vergleichsverhandlung-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-handels-gesellschaftsrecht/skills/vergleichsverhandlung-strategie/SKILL.md) |
 
-- [`beurkundungserfordernis-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/beurkundungserfordernis-pruefung)
-- [`bilinguale-vertragserstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/bilinguale-vertragserstellung)
-- [`cap-table-update-pre-post`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/cap-table-update-pre-post)
-- [`darlehenshoehe-konditionen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/darlehenshoehe-konditionen)
-- [`dokumenten-upload-extraktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/dokumenten-upload-extraktion)
-- [`einsprachige-vertragsfassung-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/einsprachige-vertragsfassung-de)
-- [`formfehler-heilungs-timeline`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/formfehler-heilungs-timeline)
-- [`gesellschafterbeschluss-kapitalerhoehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung)
-- [`gesellschafterbeschluss-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-vorbereiten)
-- [`gesellschafterliste-aktualisieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterliste-aktualisieren)
-- [`gesellschafterversammlung-einberufen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterversammlung-einberufen)
-- [`handelsregisteranmeldung-kapitalerhoehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/handelsregisteranmeldung-kapitalerhoehung)
-- [`kyc-aml-geldwaesche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/kyc-aml-geldwaesche)
-- [`mandat-triage-wandeldarlehen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/mandat-triage-wandeldarlehen)
-- [`mehrere-wandeldarlehen-parallel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/mehrere-wandeldarlehen-parallel)
-- [`notar-paket-uebermittlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung)
-- [`parteien-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/parteien-erfassen)
-- [`post-eintragung-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/post-eintragung-checkliste)
-- [`rangruecktritt-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/rangruecktritt-formulieren)
-- [`sacheinlagebericht-werthaltigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/sacheinlagebericht-werthaltigkeit)
-- [`textform-vs-schriftform-vs-notariell`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/textform-vs-schriftform-vs-notariell)
-- [`unterzeichnung-elektronisch-docusign`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/unterzeichnung-elektronisch-docusign)
-- [`vertraulichkeit-und-sprachklausel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/vertraulichkeit-und-sprachklausel)
-- [`wandelereignis-eingang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandelereignis-eingang)
-- [`wandelereignis-trigger-dispatcher`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandelereignis-trigger-dispatcher)
-- [`wandlung-kommunikation-paketverteilung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlung-kommunikation-paketverteilung)
-- [`wandlungsausschluss-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungsausschluss-pruefung)
-- [`wandlungsmechanik-konzipieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungsmechanik-konzipieren)
-- [`wandlungspreis-berechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspreis-berechnung)
-- [`wandlungspruefung-trigger-liquidation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-liquidation)
-- [`wandlungspruefung-trigger-maturity`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-maturity)
-- [`wandlungspruefung-trigger-qualified-financing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-qualified-financing)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [wandeldarlehen-lebenszyklus](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus) · 32 Skills
+
+| Skill | Skill |
+|---|---|
+| [`beurkundungserfordernis-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/beurkundungserfordernis-pruefung/SKILL.md) | [`parteien-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/parteien-erfassen/SKILL.md) |
+| [`bilinguale-vertragserstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/bilinguale-vertragserstellung/SKILL.md) | [`post-eintragung-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/post-eintragung-checkliste/SKILL.md) |
+| [`cap-table-update-pre-post`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/cap-table-update-pre-post/SKILL.md) | [`rangruecktritt-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/rangruecktritt-formulieren/SKILL.md) |
+| [`darlehenshoehe-konditionen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/darlehenshoehe-konditionen/SKILL.md) | [`sacheinlagebericht-werthaltigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/sacheinlagebericht-werthaltigkeit/SKILL.md) |
+| [`dokumenten-upload-extraktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/dokumenten-upload-extraktion/SKILL.md) | [`textform-vs-schriftform-vs-notariell`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/textform-vs-schriftform-vs-notariell/SKILL.md) |
+| [`einsprachige-vertragsfassung-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/einsprachige-vertragsfassung-de/SKILL.md) | [`unterzeichnung-elektronisch-docusign`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/unterzeichnung-elektronisch-docusign/SKILL.md) |
+| [`formfehler-heilungs-timeline`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/formfehler-heilungs-timeline/SKILL.md) | [`vertraulichkeit-und-sprachklausel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/vertraulichkeit-und-sprachklausel/SKILL.md) |
+| [`gesellschafterbeschluss-kapitalerhoehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-kapitalerhoehung/SKILL.md) | [`wandelereignis-eingang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandelereignis-eingang/SKILL.md) |
+| [`gesellschafterbeschluss-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterbeschluss-vorbereiten/SKILL.md) | [`wandelereignis-trigger-dispatcher`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandelereignis-trigger-dispatcher/SKILL.md) |
+| [`gesellschafterliste-aktualisieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterliste-aktualisieren/SKILL.md) | [`wandlung-kommunikation-paketverteilung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlung-kommunikation-paketverteilung/SKILL.md) |
+| [`gesellschafterversammlung-einberufen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/gesellschafterversammlung-einberufen/SKILL.md) | [`wandlungsausschluss-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungsausschluss-pruefung/SKILL.md) |
+| [`handelsregisteranmeldung-kapitalerhoehung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/handelsregisteranmeldung-kapitalerhoehung/SKILL.md) | [`wandlungsmechanik-konzipieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungsmechanik-konzipieren/SKILL.md) |
+| [`kyc-aml-geldwaesche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/kyc-aml-geldwaesche/SKILL.md) | [`wandlungspreis-berechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspreis-berechnung/SKILL.md) |
+| [`mandat-triage-wandeldarlehen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/mandat-triage-wandeldarlehen/SKILL.md) | [`wandlungspruefung-trigger-liquidation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-liquidation/SKILL.md) |
+| [`mehrere-wandeldarlehen-parallel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/mehrere-wandeldarlehen-parallel/SKILL.md) | [`wandlungspruefung-trigger-maturity`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-maturity/SKILL.md) |
+| [`notar-paket-uebermittlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/notar-paket-uebermittlung/SKILL.md) | [`wandlungspruefung-trigger-qualified-financing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-qualified-financing/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Corporate, M&A & Gruendung
 
-### [corporate-kanzlei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei) (46 Skills)
+### [corporate-kanzlei](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei) · 46 Skills
 
-- [`corporate-kanzlei-automation-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-automation-monitoring)
-- [`corporate-kanzlei-billing-narratives`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-billing-narratives)
-- [`corporate-kanzlei-board-paper-business-judgment`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-board-paper-business-judgment)
-- [`corporate-kanzlei-closing-bible-archiv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-closing-bible-archiv)
-- [`corporate-kanzlei-conflict-gwg-sanctions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-conflict-gwg-sanctions)
-- [`corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle)
-- [`corporate-kanzlei-datenraum-aufbau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-datenraum-aufbau)
-- [`corporate-kanzlei-datenraum-gap-clean-room`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-datenraum-gap-clean-room)
-- [`corporate-kanzlei-deal-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-deal-intake)
-- [`corporate-kanzlei-deal-team-staffing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-deal-team-staffing)
-- [`corporate-kanzlei-disclosure-schedules`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-disclosure-schedules)
-- [`corporate-kanzlei-distressed-ma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-distressed-ma)
-- [`corporate-kanzlei-due-diligence-commercial-contracts`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-due-diligence-commercial-contracts)
-- [`corporate-kanzlei-due-diligence-legal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-due-diligence-legal)
-- [`corporate-kanzlei-due-diligence-reporting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-due-diligence-reporting)
-- [`corporate-kanzlei-expert-calls-transkripte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-expert-calls-transkripte)
-- [`corporate-kanzlei-fair-disclosure-knowledge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-fair-disclosure-knowledge)
-- [`corporate-kanzlei-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-freundlicher-copilot)
-- [`corporate-kanzlei-gesellschaftsrecht-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-gesellschaftsrecht-register)
-- [`corporate-kanzlei-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-handelsregisterabruf)
-- [`corporate-kanzlei-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-kaltstart)
-- [`corporate-kanzlei-kg-personengesellschaften`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-kg-personengesellschaften)
-- [`corporate-kanzlei-ki-governance-berufsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-ki-governance-berufsrecht)
-- [`corporate-kanzlei-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-kommandocenter)
-- [`corporate-kanzlei-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-look-and-feel)
-- [`corporate-kanzlei-matter-file`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-matter-file)
-- [`corporate-kanzlei-output-versand-signing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-output-versand-signing)
-- [`corporate-kanzlei-outside-in-target-screening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-outside-in-target-screening)
-- [`corporate-kanzlei-post-closing-integration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-post-closing-integration)
-- [`corporate-kanzlei-public-ma-kapitalmarkt-mar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-public-ma-kapitalmarkt-mar)
-- [`corporate-kanzlei-qa-information-requests`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-qa-information-requests)
-- [`corporate-kanzlei-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-rechtsprechungsrecherche)
-- [`corporate-kanzlei-regulatory-fdi-merger-control`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-regulatory-fdi-merger-control)
-- [`corporate-kanzlei-restructuring-starug-insolvenzplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-restructuring-starug-insolvenzplan)
-- [`corporate-kanzlei-signing-closing-conditions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-signing-closing-conditions)
-- [`corporate-kanzlei-simulation-bidder-process`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-simulation-bidder-process)
-- [`corporate-kanzlei-spa-apa-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-spa-apa-entwurf)
-- [`corporate-kanzlei-steps-plan-pmo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-steps-plan-pmo)
-- [`corporate-kanzlei-tabellenreview-3d-datenraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-tabellenreview-3d-datenraum)
-- [`corporate-kanzlei-teaser-im-processdocs`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-teaser-im-processdocs)
-- [`corporate-kanzlei-transaktionsstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-transaktionsstruktur)
-- [`corporate-kanzlei-translations-multijurisdictional`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-translations-multijurisdictional)
-- [`corporate-kanzlei-umwandlungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-umwandlungsrecht)
-- [`corporate-kanzlei-umwandlungssteuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-umwandlungssteuerrecht)
-- [`corporate-kanzlei-vertragsmarkup-key-issues`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-vertragsmarkup-key-issues)
-- [`corporate-kanzlei-wi-insurance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-wi-insurance)
+| Skill | Skill |
+|---|---|
+| [`corporate-kanzlei-automation-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-automation-monitoring/SKILL.md) | [`corporate-kanzlei-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-kommandocenter/SKILL.md) |
+| [`corporate-kanzlei-billing-narratives`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-billing-narratives/SKILL.md) | [`corporate-kanzlei-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-look-and-feel/SKILL.md) |
+| [`corporate-kanzlei-board-paper-business-judgment`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-board-paper-business-judgment/SKILL.md) | [`corporate-kanzlei-matter-file`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-matter-file/SKILL.md) |
+| [`corporate-kanzlei-closing-bible-archiv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-closing-bible-archiv/SKILL.md) | [`corporate-kanzlei-output-versand-signing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-output-versand-signing/SKILL.md) |
+| [`corporate-kanzlei-conflict-gwg-sanctions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-conflict-gwg-sanctions/SKILL.md) | [`corporate-kanzlei-outside-in-target-screening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-outside-in-target-screening/SKILL.md) |
+| [`corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle/SKILL.md) | [`corporate-kanzlei-post-closing-integration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-post-closing-integration/SKILL.md) |
+| [`corporate-kanzlei-datenraum-aufbau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-datenraum-aufbau/SKILL.md) | [`corporate-kanzlei-public-ma-kapitalmarkt-mar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-public-ma-kapitalmarkt-mar/SKILL.md) |
+| [`corporate-kanzlei-datenraum-gap-clean-room`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-datenraum-gap-clean-room/SKILL.md) | [`corporate-kanzlei-qa-information-requests`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-qa-information-requests/SKILL.md) |
+| [`corporate-kanzlei-deal-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-deal-intake/SKILL.md) | [`corporate-kanzlei-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-rechtsprechungsrecherche/SKILL.md) |
+| [`corporate-kanzlei-deal-team-staffing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-deal-team-staffing/SKILL.md) | [`corporate-kanzlei-regulatory-fdi-merger-control`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-regulatory-fdi-merger-control/SKILL.md) |
+| [`corporate-kanzlei-disclosure-schedules`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-disclosure-schedules/SKILL.md) | [`corporate-kanzlei-restructuring-starug-insolvenzplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-restructuring-starug-insolvenzplan/SKILL.md) |
+| [`corporate-kanzlei-distressed-ma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-distressed-ma/SKILL.md) | [`corporate-kanzlei-signing-closing-conditions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-signing-closing-conditions/SKILL.md) |
+| [`corporate-kanzlei-due-diligence-commercial-contracts`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-due-diligence-commercial-contracts/SKILL.md) | [`corporate-kanzlei-simulation-bidder-process`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-simulation-bidder-process/SKILL.md) |
+| [`corporate-kanzlei-due-diligence-legal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-due-diligence-legal/SKILL.md) | [`corporate-kanzlei-spa-apa-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-spa-apa-entwurf/SKILL.md) |
+| [`corporate-kanzlei-due-diligence-reporting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-due-diligence-reporting/SKILL.md) | [`corporate-kanzlei-steps-plan-pmo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-steps-plan-pmo/SKILL.md) |
+| [`corporate-kanzlei-expert-calls-transkripte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-expert-calls-transkripte/SKILL.md) | [`corporate-kanzlei-tabellenreview-3d-datenraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-tabellenreview-3d-datenraum/SKILL.md) |
+| [`corporate-kanzlei-fair-disclosure-knowledge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-fair-disclosure-knowledge/SKILL.md) | [`corporate-kanzlei-teaser-im-processdocs`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-teaser-im-processdocs/SKILL.md) |
+| [`corporate-kanzlei-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-freundlicher-copilot/SKILL.md) | [`corporate-kanzlei-transaktionsstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-transaktionsstruktur/SKILL.md) |
+| [`corporate-kanzlei-gesellschaftsrecht-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-gesellschaftsrecht-register/SKILL.md) | [`corporate-kanzlei-translations-multijurisdictional`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-translations-multijurisdictional/SKILL.md) |
+| [`corporate-kanzlei-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-handelsregisterabruf/SKILL.md) | [`corporate-kanzlei-umwandlungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-umwandlungsrecht/SKILL.md) |
+| [`corporate-kanzlei-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-kaltstart/SKILL.md) | [`corporate-kanzlei-umwandlungssteuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-umwandlungssteuerrecht/SKILL.md) |
+| [`corporate-kanzlei-kg-personengesellschaften`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-kg-personengesellschaften/SKILL.md) | [`corporate-kanzlei-vertragsmarkup-key-issues`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-vertragsmarkup-key-issues/SKILL.md) |
+| [`corporate-kanzlei-ki-governance-berufsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-ki-governance-berufsrecht/SKILL.md) | [`corporate-kanzlei-wi-insurance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/corporate-kanzlei/skills/corporate-kanzlei-wi-insurance/SKILL.md) |
 
-### [grosskanzlei-corporate-ma](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma) (54 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`grosskanzlei-corporate-ma-automation-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-automation-monitoring)
-- [`grosskanzlei-corporate-ma-billing-narratives`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-billing-narratives)
-- [`grosskanzlei-corporate-ma-board-paper-business-judgment`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-board-paper-business-judgment)
-- [`grosskanzlei-corporate-ma-closing-bible-archiv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-closing-bible-archiv)
-- [`grosskanzlei-corporate-ma-conflict-gwg-sanctions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-conflict-gwg-sanctions)
-- [`grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle)
-- [`grosskanzlei-corporate-ma-datenraum-aufbau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-datenraum-aufbau)
-- [`grosskanzlei-corporate-ma-datenraum-gap-clean-room`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-datenraum-gap-clean-room)
-- [`grosskanzlei-corporate-ma-deal-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-deal-intake)
-- [`grosskanzlei-corporate-ma-deal-team-staffing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-deal-team-staffing)
-- [`grosskanzlei-corporate-ma-disclosure-schedules`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-disclosure-schedules)
-- [`grosskanzlei-corporate-ma-distressed-ma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-distressed-ma)
-- [`grosskanzlei-corporate-ma-due-diligence-commercial-contracts`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-due-diligence-commercial-contracts)
-- [`grosskanzlei-corporate-ma-due-diligence-legal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-due-diligence-legal)
-- [`grosskanzlei-corporate-ma-due-diligence-reporting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-due-diligence-reporting)
-- [`grosskanzlei-corporate-ma-expert-calls-transkripte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-expert-calls-transkripte)
-- [`grosskanzlei-corporate-ma-fair-disclosure-knowledge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-fair-disclosure-knowledge)
-- [`grosskanzlei-corporate-ma-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-freundlicher-copilot)
-- [`grosskanzlei-corporate-ma-gesellschaftsrecht-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-gesellschaftsrecht-register)
-- [`grosskanzlei-corporate-ma-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-handelsregisterabruf)
-- [`grosskanzlei-corporate-ma-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-kaltstart)
-- [`grosskanzlei-corporate-ma-kg-personengesellschaften`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-kg-personengesellschaften)
-- [`grosskanzlei-corporate-ma-ki-governance-berufsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-ki-governance-berufsrecht)
-- [`grosskanzlei-corporate-ma-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-kommandocenter)
-- [`grosskanzlei-corporate-ma-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-look-and-feel)
-- [`grosskanzlei-corporate-ma-matter-file`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-matter-file)
-- [`grosskanzlei-corporate-ma-output-versand-signing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-output-versand-signing)
-- [`grosskanzlei-corporate-ma-outside-in-target-screening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-outside-in-target-screening)
-- [`grosskanzlei-corporate-ma-post-closing-integration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-post-closing-integration)
-- [`grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar)
-- [`grosskanzlei-corporate-ma-qa-information-requests`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-qa-information-requests)
-- [`grosskanzlei-corporate-ma-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-rechtsprechungsrecherche)
-- [`grosskanzlei-corporate-ma-regulatory-fdi-merger-control`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-regulatory-fdi-merger-control)
-- [`grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan)
-- [`grosskanzlei-corporate-ma-signing-closing-conditions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-signing-closing-conditions)
-- [`grosskanzlei-corporate-ma-simulation-bidder-process`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-simulation-bidder-process)
-- [`grosskanzlei-corporate-ma-spa-apa-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-spa-apa-entwurf)
-- [`grosskanzlei-corporate-ma-steps-plan-pmo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-steps-plan-pmo)
-- [`grosskanzlei-corporate-ma-tabellenreview-3d-datenraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-tabellenreview-3d-datenraum)
-- [`grosskanzlei-corporate-ma-teaser-im-processdocs`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-teaser-im-processdocs)
-- [`grosskanzlei-corporate-ma-transaktionsstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-transaktionsstruktur)
-- [`grosskanzlei-corporate-ma-translations-multijurisdictional`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-translations-multijurisdictional)
-- [`grosskanzlei-corporate-ma-umwandlungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-umwandlungsrecht)
-- [`grosskanzlei-corporate-ma-umwandlungssteuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-umwandlungssteuerrecht)
-- [`grosskanzlei-corporate-ma-vertragsmarkup-key-issues`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-vertragsmarkup-key-issues)
-- [`grosskanzlei-corporate-ma-wi-insurance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-wi-insurance)
-- [`grosskanzlei-ma-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-aktenanlage)
-- [`grosskanzlei-ma-erechnung-gobd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-erechnung-gobd)
-- [`grosskanzlei-ma-fristen-cp-kalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-fristen-cp-kalender)
-- [`grosskanzlei-ma-insolvenzreife`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-insolvenzreife)
-- [`grosskanzlei-ma-liquiditaetsvorschau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-liquiditaetsvorschau)
-- [`grosskanzlei-ma-schreibcanvas`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-schreibcanvas)
-- [`grosskanzlei-ma-tabellenreview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-tabellenreview)
-- [`ki-einsatz-bei-gutachten-mandatsseite`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/ki-einsatz-bei-gutachten-mandatsseite)
+### [grosskanzlei-corporate-ma](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma) · 54 Skills
 
-### [mittelstand-corporate-ma](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma) (53 Skills)
+| Skill | Skill |
+|---|---|
+| [`grosskanzlei-corporate-ma-automation-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-automation-monitoring/SKILL.md) | [`grosskanzlei-corporate-ma-outside-in-target-screening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-outside-in-target-screening/SKILL.md) |
+| [`grosskanzlei-corporate-ma-billing-narratives`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-billing-narratives/SKILL.md) | [`grosskanzlei-corporate-ma-post-closing-integration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-post-closing-integration/SKILL.md) |
+| [`grosskanzlei-corporate-ma-board-paper-business-judgment`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-board-paper-business-judgment/SKILL.md) | [`grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar/SKILL.md) |
+| [`grosskanzlei-corporate-ma-closing-bible-archiv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-closing-bible-archiv/SKILL.md) | [`grosskanzlei-corporate-ma-qa-information-requests`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-qa-information-requests/SKILL.md) |
+| [`grosskanzlei-corporate-ma-conflict-gwg-sanctions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-conflict-gwg-sanctions/SKILL.md) | [`grosskanzlei-corporate-ma-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-rechtsprechungsrecherche/SKILL.md) |
+| [`grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle/SKILL.md) | [`grosskanzlei-corporate-ma-regulatory-fdi-merger-control`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-regulatory-fdi-merger-control/SKILL.md) |
+| [`grosskanzlei-corporate-ma-datenraum-aufbau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-datenraum-aufbau/SKILL.md) | [`grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan/SKILL.md) |
+| [`grosskanzlei-corporate-ma-datenraum-gap-clean-room`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-datenraum-gap-clean-room/SKILL.md) | [`grosskanzlei-corporate-ma-signing-closing-conditions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-signing-closing-conditions/SKILL.md) |
+| [`grosskanzlei-corporate-ma-deal-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-deal-intake/SKILL.md) | [`grosskanzlei-corporate-ma-simulation-bidder-process`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-simulation-bidder-process/SKILL.md) |
+| [`grosskanzlei-corporate-ma-deal-team-staffing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-deal-team-staffing/SKILL.md) | [`grosskanzlei-corporate-ma-spa-apa-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-spa-apa-entwurf/SKILL.md) |
+| [`grosskanzlei-corporate-ma-disclosure-schedules`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-disclosure-schedules/SKILL.md) | [`grosskanzlei-corporate-ma-steps-plan-pmo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-steps-plan-pmo/SKILL.md) |
+| [`grosskanzlei-corporate-ma-distressed-ma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-distressed-ma/SKILL.md) | [`grosskanzlei-corporate-ma-tabellenreview-3d-datenraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-tabellenreview-3d-datenraum/SKILL.md) |
+| [`grosskanzlei-corporate-ma-due-diligence-commercial-contracts`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-due-diligence-commercial-contracts/SKILL.md) | [`grosskanzlei-corporate-ma-teaser-im-processdocs`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-teaser-im-processdocs/SKILL.md) |
+| [`grosskanzlei-corporate-ma-due-diligence-legal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-due-diligence-legal/SKILL.md) | [`grosskanzlei-corporate-ma-transaktionsstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-transaktionsstruktur/SKILL.md) |
+| [`grosskanzlei-corporate-ma-due-diligence-reporting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-due-diligence-reporting/SKILL.md) | [`grosskanzlei-corporate-ma-translations-multijurisdictional`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-translations-multijurisdictional/SKILL.md) |
+| [`grosskanzlei-corporate-ma-expert-calls-transkripte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-expert-calls-transkripte/SKILL.md) | [`grosskanzlei-corporate-ma-umwandlungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-umwandlungsrecht/SKILL.md) |
+| [`grosskanzlei-corporate-ma-fair-disclosure-knowledge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-fair-disclosure-knowledge/SKILL.md) | [`grosskanzlei-corporate-ma-umwandlungssteuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-umwandlungssteuerrecht/SKILL.md) |
+| [`grosskanzlei-corporate-ma-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-freundlicher-copilot/SKILL.md) | [`grosskanzlei-corporate-ma-vertragsmarkup-key-issues`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-vertragsmarkup-key-issues/SKILL.md) |
+| [`grosskanzlei-corporate-ma-gesellschaftsrecht-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-gesellschaftsrecht-register/SKILL.md) | [`grosskanzlei-corporate-ma-wi-insurance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-wi-insurance/SKILL.md) |
+| [`grosskanzlei-corporate-ma-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-handelsregisterabruf/SKILL.md) | [`grosskanzlei-ma-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-aktenanlage/SKILL.md) |
+| [`grosskanzlei-corporate-ma-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-kaltstart/SKILL.md) | [`grosskanzlei-ma-erechnung-gobd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-erechnung-gobd/SKILL.md) |
+| [`grosskanzlei-corporate-ma-kg-personengesellschaften`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-kg-personengesellschaften/SKILL.md) | [`grosskanzlei-ma-fristen-cp-kalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-fristen-cp-kalender/SKILL.md) |
+| [`grosskanzlei-corporate-ma-ki-governance-berufsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-ki-governance-berufsrecht/SKILL.md) | [`grosskanzlei-ma-insolvenzreife`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-insolvenzreife/SKILL.md) |
+| [`grosskanzlei-corporate-ma-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-kommandocenter/SKILL.md) | [`grosskanzlei-ma-liquiditaetsvorschau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-liquiditaetsvorschau/SKILL.md) |
+| [`grosskanzlei-corporate-ma-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-look-and-feel/SKILL.md) | [`grosskanzlei-ma-schreibcanvas`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-schreibcanvas/SKILL.md) |
+| [`grosskanzlei-corporate-ma-matter-file`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-matter-file/SKILL.md) | [`grosskanzlei-ma-tabellenreview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-ma-tabellenreview/SKILL.md) |
+| [`grosskanzlei-corporate-ma-output-versand-signing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/grosskanzlei-corporate-ma-output-versand-signing/SKILL.md) | [`ki-einsatz-bei-gutachten-mandatsseite`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grosskanzlei-corporate-ma/skills/ki-einsatz-bei-gutachten-mandatsseite/SKILL.md) |
 
-- [`mittelstand-corporate-ma-automation-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-automation-monitoring)
-- [`mittelstand-corporate-ma-billing-narratives`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-billing-narratives)
-- [`mittelstand-corporate-ma-board-paper-business-judgment`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-board-paper-business-judgment)
-- [`mittelstand-corporate-ma-closing-bible-archiv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-closing-bible-archiv)
-- [`mittelstand-corporate-ma-conflict-gwg-sanctions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-conflict-gwg-sanctions)
-- [`mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle)
-- [`mittelstand-corporate-ma-datenraum-aufbau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-datenraum-aufbau)
-- [`mittelstand-corporate-ma-datenraum-gap-clean-room`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-datenraum-gap-clean-room)
-- [`mittelstand-corporate-ma-deal-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-deal-intake)
-- [`mittelstand-corporate-ma-deal-team-staffing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-deal-team-staffing)
-- [`mittelstand-corporate-ma-disclosure-schedules`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-disclosure-schedules)
-- [`mittelstand-corporate-ma-distressed-ma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-distressed-ma)
-- [`mittelstand-corporate-ma-due-diligence-commercial-contracts`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-due-diligence-commercial-contracts)
-- [`mittelstand-corporate-ma-due-diligence-legal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-due-diligence-legal)
-- [`mittelstand-corporate-ma-due-diligence-reporting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-due-diligence-reporting)
-- [`mittelstand-corporate-ma-expert-calls-transkripte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-expert-calls-transkripte)
-- [`mittelstand-corporate-ma-fair-disclosure-knowledge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-fair-disclosure-knowledge)
-- [`mittelstand-corporate-ma-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-freundlicher-copilot)
-- [`mittelstand-corporate-ma-gesellschaftsrecht-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-gesellschaftsrecht-register)
-- [`mittelstand-corporate-ma-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-handelsregisterabruf)
-- [`mittelstand-corporate-ma-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-kaltstart)
-- [`mittelstand-corporate-ma-kg-personengesellschaften`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-kg-personengesellschaften)
-- [`mittelstand-corporate-ma-ki-governance-berufsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-ki-governance-berufsrecht)
-- [`mittelstand-corporate-ma-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-kommandocenter)
-- [`mittelstand-corporate-ma-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-look-and-feel)
-- [`mittelstand-corporate-ma-matter-file`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-matter-file)
-- [`mittelstand-corporate-ma-output-versand-signing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-output-versand-signing)
-- [`mittelstand-corporate-ma-outside-in-target-screening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-outside-in-target-screening)
-- [`mittelstand-corporate-ma-post-closing-integration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-post-closing-integration)
-- [`mittelstand-corporate-ma-public-ma-kapitalmarkt-mar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-public-ma-kapitalmarkt-mar)
-- [`mittelstand-corporate-ma-qa-information-requests`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-qa-information-requests)
-- [`mittelstand-corporate-ma-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-rechtsprechungsrecherche)
-- [`mittelstand-corporate-ma-regulatory-fdi-merger-control`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-regulatory-fdi-merger-control)
-- [`mittelstand-corporate-ma-restructuring-starug-insolvenzplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-restructuring-starug-insolvenzplan)
-- [`mittelstand-corporate-ma-signing-closing-conditions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-signing-closing-conditions)
-- [`mittelstand-corporate-ma-simulation-bidder-process`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-simulation-bidder-process)
-- [`mittelstand-corporate-ma-spa-apa-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-spa-apa-entwurf)
-- [`mittelstand-corporate-ma-steps-plan-pmo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-steps-plan-pmo)
-- [`mittelstand-corporate-ma-tabellenreview-3d-datenraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-tabellenreview-3d-datenraum)
-- [`mittelstand-corporate-ma-teaser-im-processdocs`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-teaser-im-processdocs)
-- [`mittelstand-corporate-ma-transaktionsstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-transaktionsstruktur)
-- [`mittelstand-corporate-ma-translations-multijurisdictional`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-translations-multijurisdictional)
-- [`mittelstand-corporate-ma-umwandlungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-umwandlungsrecht)
-- [`mittelstand-corporate-ma-umwandlungssteuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-umwandlungssteuerrecht)
-- [`mittelstand-corporate-ma-vertragsmarkup-key-issues`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-vertragsmarkup-key-issues)
-- [`mittelstand-corporate-ma-wi-insurance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-wi-insurance)
-- [`mittelstand-ma-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-aktenanlage)
-- [`mittelstand-ma-erechnung-gobd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-erechnung-gobd)
-- [`mittelstand-ma-fristen-cp-kalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-fristen-cp-kalender)
-- [`mittelstand-ma-insolvenzreife`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-insolvenzreife)
-- [`mittelstand-ma-liquiditaetsvorschau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-liquiditaetsvorschau)
-- [`mittelstand-ma-schreibcanvas`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-schreibcanvas)
-- [`mittelstand-ma-tabellenreview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-tabellenreview)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [gesellschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht) (19 Skills)
+### [mittelstand-corporate-ma](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma) · 53 Skills
 
-- [`aufsichtsrat-protokoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/aufsichtsrat-protokoll)
-- [`dd-findings-extraktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/dd-findings-extraktion)
-- [`dealteam-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/dealteam-zusammenfassung)
-- [`geschaeftsfuehrer-haftung-43-gmbhg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/geschaeftsfuehrer-haftung-43-gmbhg)
-- [`gesellschafterbeschluss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschafterbeschluss)
-- [`gesellschafterstreit-loesungsstrategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschafterstreit-loesungsstrategie)
-- [`gesellschafts-compliance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschafts-compliance)
-- [`gesellschaftsrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschaftsrecht-anpassen)
-- [`gesellschaftsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschaftsrecht-kaltstart-interview)
-- [`gesellschaftsrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschaftsrecht-mandat-arbeitsbereich)
-- [`gmbh-gruendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gmbh-gruendung)
-- [`handelsregisteranmeldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/handelsregisteranmeldung)
-- [`integrations-management`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/integrations-management)
-- [`ki-werkzeug-uebergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/ki-werkzeug-uebergabe)
-- [`mandat-triage-gesellschaftsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/mandat-triage-gesellschaftsrecht)
-- [`schriftliche-beschlussfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/schriftliche-beschlussfassung)
-- [`tabellenpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/tabellenpruefung)
-- [`vollzugs-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/vollzugs-checkliste)
-- [`wesentliche-vertraege-anlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/wesentliche-vertraege-anlage)
+| Skill | Skill |
+|---|---|
+| [`mittelstand-corporate-ma-automation-monitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-automation-monitoring/SKILL.md) | [`mittelstand-corporate-ma-outside-in-target-screening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-outside-in-target-screening/SKILL.md) |
+| [`mittelstand-corporate-ma-billing-narratives`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-billing-narratives/SKILL.md) | [`mittelstand-corporate-ma-post-closing-integration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-post-closing-integration/SKILL.md) |
+| [`mittelstand-corporate-ma-board-paper-business-judgment`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-board-paper-business-judgment/SKILL.md) | [`mittelstand-corporate-ma-public-ma-kapitalmarkt-mar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-public-ma-kapitalmarkt-mar/SKILL.md) |
+| [`mittelstand-corporate-ma-closing-bible-archiv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-closing-bible-archiv/SKILL.md) | [`mittelstand-corporate-ma-qa-information-requests`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-qa-information-requests/SKILL.md) |
+| [`mittelstand-corporate-ma-conflict-gwg-sanctions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-conflict-gwg-sanctions/SKILL.md) | [`mittelstand-corporate-ma-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-rechtsprechungsrecherche/SKILL.md) |
+| [`mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle/SKILL.md) | [`mittelstand-corporate-ma-regulatory-fdi-merger-control`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-regulatory-fdi-merger-control/SKILL.md) |
+| [`mittelstand-corporate-ma-datenraum-aufbau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-datenraum-aufbau/SKILL.md) | [`mittelstand-corporate-ma-restructuring-starug-insolvenzplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-restructuring-starug-insolvenzplan/SKILL.md) |
+| [`mittelstand-corporate-ma-datenraum-gap-clean-room`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-datenraum-gap-clean-room/SKILL.md) | [`mittelstand-corporate-ma-signing-closing-conditions`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-signing-closing-conditions/SKILL.md) |
+| [`mittelstand-corporate-ma-deal-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-deal-intake/SKILL.md) | [`mittelstand-corporate-ma-simulation-bidder-process`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-simulation-bidder-process/SKILL.md) |
+| [`mittelstand-corporate-ma-deal-team-staffing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-deal-team-staffing/SKILL.md) | [`mittelstand-corporate-ma-spa-apa-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-spa-apa-entwurf/SKILL.md) |
+| [`mittelstand-corporate-ma-disclosure-schedules`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-disclosure-schedules/SKILL.md) | [`mittelstand-corporate-ma-steps-plan-pmo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-steps-plan-pmo/SKILL.md) |
+| [`mittelstand-corporate-ma-distressed-ma`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-distressed-ma/SKILL.md) | [`mittelstand-corporate-ma-tabellenreview-3d-datenraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-tabellenreview-3d-datenraum/SKILL.md) |
+| [`mittelstand-corporate-ma-due-diligence-commercial-contracts`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-due-diligence-commercial-contracts/SKILL.md) | [`mittelstand-corporate-ma-teaser-im-processdocs`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-teaser-im-processdocs/SKILL.md) |
+| [`mittelstand-corporate-ma-due-diligence-legal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-due-diligence-legal/SKILL.md) | [`mittelstand-corporate-ma-transaktionsstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-transaktionsstruktur/SKILL.md) |
+| [`mittelstand-corporate-ma-due-diligence-reporting`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-due-diligence-reporting/SKILL.md) | [`mittelstand-corporate-ma-translations-multijurisdictional`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-translations-multijurisdictional/SKILL.md) |
+| [`mittelstand-corporate-ma-expert-calls-transkripte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-expert-calls-transkripte/SKILL.md) | [`mittelstand-corporate-ma-umwandlungsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-umwandlungsrecht/SKILL.md) |
+| [`mittelstand-corporate-ma-fair-disclosure-knowledge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-fair-disclosure-knowledge/SKILL.md) | [`mittelstand-corporate-ma-umwandlungssteuerrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-umwandlungssteuerrecht/SKILL.md) |
+| [`mittelstand-corporate-ma-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-freundlicher-copilot/SKILL.md) | [`mittelstand-corporate-ma-vertragsmarkup-key-issues`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-vertragsmarkup-key-issues/SKILL.md) |
+| [`mittelstand-corporate-ma-gesellschaftsrecht-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-gesellschaftsrecht-register/SKILL.md) | [`mittelstand-corporate-ma-wi-insurance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-wi-insurance/SKILL.md) |
+| [`mittelstand-corporate-ma-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-handelsregisterabruf/SKILL.md) | [`mittelstand-ma-aktenanlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-aktenanlage/SKILL.md) |
+| [`mittelstand-corporate-ma-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-kaltstart/SKILL.md) | [`mittelstand-ma-erechnung-gobd`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-erechnung-gobd/SKILL.md) |
+| [`mittelstand-corporate-ma-kg-personengesellschaften`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-kg-personengesellschaften/SKILL.md) | [`mittelstand-ma-fristen-cp-kalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-fristen-cp-kalender/SKILL.md) |
+| [`mittelstand-corporate-ma-ki-governance-berufsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-ki-governance-berufsrecht/SKILL.md) | [`mittelstand-ma-insolvenzreife`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-insolvenzreife/SKILL.md) |
+| [`mittelstand-corporate-ma-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-kommandocenter/SKILL.md) | [`mittelstand-ma-liquiditaetsvorschau`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-liquiditaetsvorschau/SKILL.md) |
+| [`mittelstand-corporate-ma-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-look-and-feel/SKILL.md) | [`mittelstand-ma-schreibcanvas`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-schreibcanvas/SKILL.md) |
+| [`mittelstand-corporate-ma-matter-file`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-matter-file/SKILL.md) | [`mittelstand-ma-tabellenreview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-ma-tabellenreview/SKILL.md) |
+| [`mittelstand-corporate-ma-output-versand-signing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mittelstand-corporate-ma/skills/mittelstand-corporate-ma-output-versand-signing/SKILL.md) |  |
 
-### [gesellschaftsgruender](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender) (36 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`gesellschaftsgruender-beirat-advisory-board`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-beirat-advisory-board)
-- [`gesellschaftsgruender-bilinguale-dokumente`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-bilinguale-dokumente)
-- [`gesellschaftsgruender-cap-table`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-cap-table)
-- [`gesellschaftsgruender-egbr-mopeg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-egbr-mopeg)
-- [`gesellschaftsgruender-firmenname-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-firmenname-pruefung)
-- [`gesellschaftsgruender-genehmigtes-kapital`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-genehmigtes-kapital)
-- [`gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase)
-- [`gesellschaftsgruender-geschaeftsfuehrervertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-geschaeftsfuehrervertrag)
-- [`gesellschaftsgruender-geschaeftsordnung-gf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-geschaeftsordnung-gf)
-- [`gesellschaftsgruender-gesellschafterstreit-eilantraege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gesellschafterstreit-eilantraege)
-- [`gesellschaftsgruender-gesellschaftervereinbarung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gesellschaftervereinbarung)
-- [`gesellschaftsgruender-gesellschaftsvertrag-gmbh`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gesellschaftsvertrag-gmbh)
-- [`gesellschaftsgruender-gewerbeanmeldung-finanzamt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gewerbeanmeldung-finanzamt)
-- [`gesellschaftsgruender-gf-meeting-templates`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gf-meeting-templates)
-- [`gesellschaftsgruender-gf-sozialversicherungs-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gf-sozialversicherungs-status)
-- [`gesellschaftsgruender-gmbh-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gmbh-vorbereitung)
-- [`gesellschaftsgruender-golden-share-und-vetorechte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-golden-share-und-vetorechte)
-- [`gesellschaftsgruender-gruender-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gruender-intake)
-- [`gesellschaftsgruender-gv-einladung-tagesordnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gv-einladung-tagesordnung)
-- [`gesellschaftsgruender-gv-protokoll-und-versammlungsleiter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gv-protokoll-und-versammlungsleiter)
-- [`gesellschaftsgruender-handelsregister-anmeldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-handelsregister-anmeldung)
-- [`gesellschaftsgruender-ihk-und-berufsgenossenschaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-ihk-und-berufsgenossenschaft)
-- [`gesellschaftsgruender-intake-decision-tree`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-intake-decision-tree)
-- [`gesellschaftsgruender-kapitalerhoehung-bezugsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-kapitalerhoehung-bezugsrecht)
-- [`gesellschaftsgruender-kg-und-gmbhcokg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-kg-und-gmbhcokg)
-- [`gesellschaftsgruender-klauselkatalog-bilingual`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-klauselkatalog-bilingual)
-- [`gesellschaftsgruender-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-kommandocenter)
-- [`gesellschaftsgruender-notar-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-notar-vorbereitung)
-- [`gesellschaftsgruender-online-gruendung-dirug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-online-gruendung-dirug)
-- [`gesellschaftsgruender-rechtsformwahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-rechtsformwahl)
-- [`gesellschaftsgruender-sha-satzung-stimmverpflichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-sha-satzung-stimmverpflichtung)
-- [`gesellschaftsgruender-share-classes-a-b-c`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-share-classes-a-b-c)
-- [`gesellschaftsgruender-stammkapital-einzahlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-stammkapital-einzahlung)
-- [`gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg)
-- [`gesellschaftsgruender-transparenzregister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-transparenzregister)
-- [`gesellschaftsgruender-ug-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-ug-vorbereitung)
+### [gesellschaftsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht) · 19 Skills
+
+| Skill | Skill |
+|---|---|
+| [`aufsichtsrat-protokoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/aufsichtsrat-protokoll/SKILL.md) | [`gmbh-gruendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gmbh-gruendung/SKILL.md) |
+| [`dd-findings-extraktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/dd-findings-extraktion/SKILL.md) | [`handelsregisteranmeldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/handelsregisteranmeldung/SKILL.md) |
+| [`dealteam-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/dealteam-zusammenfassung/SKILL.md) | [`integrations-management`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/integrations-management/SKILL.md) |
+| [`geschaeftsfuehrer-haftung-43-gmbhg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/geschaeftsfuehrer-haftung-43-gmbhg/SKILL.md) | [`ki-werkzeug-uebergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/ki-werkzeug-uebergabe/SKILL.md) |
+| [`gesellschafterbeschluss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschafterbeschluss/SKILL.md) | [`mandat-triage-gesellschaftsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/mandat-triage-gesellschaftsrecht/SKILL.md) |
+| [`gesellschafterstreit-loesungsstrategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschafterstreit-loesungsstrategie/SKILL.md) | [`schriftliche-beschlussfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/schriftliche-beschlussfassung/SKILL.md) |
+| [`gesellschafts-compliance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschafts-compliance/SKILL.md) | [`tabellenpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/tabellenpruefung/SKILL.md) |
+| [`gesellschaftsrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschaftsrecht-anpassen/SKILL.md) | [`vollzugs-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/vollzugs-checkliste/SKILL.md) |
+| [`gesellschaftsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschaftsrecht-kaltstart-interview/SKILL.md) | [`wesentliche-vertraege-anlage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/wesentliche-vertraege-anlage/SKILL.md) |
+| [`gesellschaftsrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht/skills/gesellschaftsrecht-mandat-arbeitsbereich/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [gesellschaftsgruender](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender) · 36 Skills
+
+| Skill | Skill |
+|---|---|
+| [`gesellschaftsgruender-beirat-advisory-board`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-beirat-advisory-board/SKILL.md) | [`gesellschaftsgruender-gv-einladung-tagesordnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gv-einladung-tagesordnung/SKILL.md) |
+| [`gesellschaftsgruender-bilinguale-dokumente`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-bilinguale-dokumente/SKILL.md) | [`gesellschaftsgruender-gv-protokoll-und-versammlungsleiter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gv-protokoll-und-versammlungsleiter/SKILL.md) |
+| [`gesellschaftsgruender-cap-table`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-cap-table/SKILL.md) | [`gesellschaftsgruender-handelsregister-anmeldung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-handelsregister-anmeldung/SKILL.md) |
+| [`gesellschaftsgruender-egbr-mopeg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-egbr-mopeg/SKILL.md) | [`gesellschaftsgruender-ihk-und-berufsgenossenschaft`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-ihk-und-berufsgenossenschaft/SKILL.md) |
+| [`gesellschaftsgruender-firmenname-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-firmenname-pruefung/SKILL.md) | [`gesellschaftsgruender-intake-decision-tree`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-intake-decision-tree/SKILL.md) |
+| [`gesellschaftsgruender-genehmigtes-kapital`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-genehmigtes-kapital/SKILL.md) | [`gesellschaftsgruender-kapitalerhoehung-bezugsrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-kapitalerhoehung-bezugsrecht/SKILL.md) |
+| [`gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase/SKILL.md) | [`gesellschaftsgruender-kg-und-gmbhcokg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-kg-und-gmbhcokg/SKILL.md) |
+| [`gesellschaftsgruender-geschaeftsfuehrervertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-geschaeftsfuehrervertrag/SKILL.md) | [`gesellschaftsgruender-klauselkatalog-bilingual`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-klauselkatalog-bilingual/SKILL.md) |
+| [`gesellschaftsgruender-geschaeftsordnung-gf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-geschaeftsordnung-gf/SKILL.md) | [`gesellschaftsgruender-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-kommandocenter/SKILL.md) |
+| [`gesellschaftsgruender-gesellschafterstreit-eilantraege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gesellschafterstreit-eilantraege/SKILL.md) | [`gesellschaftsgruender-notar-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-notar-vorbereitung/SKILL.md) |
+| [`gesellschaftsgruender-gesellschaftervereinbarung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gesellschaftervereinbarung/SKILL.md) | [`gesellschaftsgruender-online-gruendung-dirug`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-online-gruendung-dirug/SKILL.md) |
+| [`gesellschaftsgruender-gesellschaftsvertrag-gmbh`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gesellschaftsvertrag-gmbh/SKILL.md) | [`gesellschaftsgruender-rechtsformwahl`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-rechtsformwahl/SKILL.md) |
+| [`gesellschaftsgruender-gewerbeanmeldung-finanzamt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gewerbeanmeldung-finanzamt/SKILL.md) | [`gesellschaftsgruender-sha-satzung-stimmverpflichtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-sha-satzung-stimmverpflichtung/SKILL.md) |
+| [`gesellschaftsgruender-gf-meeting-templates`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gf-meeting-templates/SKILL.md) | [`gesellschaftsgruender-share-classes-a-b-c`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-share-classes-a-b-c/SKILL.md) |
+| [`gesellschaftsgruender-gf-sozialversicherungs-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gf-sozialversicherungs-status/SKILL.md) | [`gesellschaftsgruender-stammkapital-einzahlung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-stammkapital-einzahlung/SKILL.md) |
+| [`gesellschaftsgruender-gmbh-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gmbh-vorbereitung/SKILL.md) | [`gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg/SKILL.md) |
+| [`gesellschaftsgruender-golden-share-und-vetorechte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-golden-share-und-vetorechte/SKILL.md) | [`gesellschaftsgruender-transparenzregister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-transparenzregister/SKILL.md) |
+| [`gesellschaftsgruender-gruender-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-gruender-intake/SKILL.md) | [`gesellschaftsgruender-ug-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsgruender/skills/gesellschaftsgruender-ug-vorbereitung/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Kartell-, Produkt- & Wettbewerbsrecht
 
-### [kartellrecht-marktabgrenzung-pruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung) (24 Skills)
+### [kartellrecht-marktabgrenzung-pruefung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung) · 24 Skills
 
-- [`alternative-marktdefinition-eng`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/alternative-marktdefinition-eng)
-- [`alternative-marktdefinition-weit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/alternative-marktdefinition-weit)
-- [`auswirkungen-marktanteile-marktbeherrschung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/auswirkungen-marktanteile-marktbeherrschung)
-- [`cluster-und-systemmaerkte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/cluster-und-systemmaerkte)
-- [`dma-und-gatekeeper-markt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/dma-und-gatekeeper-markt)
-- [`elastizitaeten-diversion-ratios`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/elastizitaeten-diversion-ratios)
-- [`eu-bekanntmachung-marktdefinition-2024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/eu-bekanntmachung-marktdefinition-2024)
-- [`eugh-rechtsprechung-leitentscheidungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/eugh-rechtsprechung-leitentscheidungen)
-- [`evidenz-qualitaet-bewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/evidenz-qualitaet-bewertung)
-- [`fusionskontrolle-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/fusionskontrolle-modus)
-- [`gesamtbewertung-tragfaehigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/gesamtbewertung-tragfaehigkeit)
-- [`innovations-und-technologiemaerkte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/innovations-und-technologiemaerkte)
-- [`kartellverbot-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/kartellverbot-modus)
-- [`konsistenzpruefung-marktdefinition`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/konsistenzpruefung-marktdefinition)
-- [`marktabgrenzung-kontextanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/marktabgrenzung-kontextanalyse)
-- [`mehrseitige-maerkte-plattformen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/mehrseitige-maerkte-plattformen)
-- [`missbrauchsverbot-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/missbrauchsverbot-modus)
-- [`paragraf-18-gwb-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/paragraf-18-gwb-pruefung)
-- [`potenzieller-wettbewerb-marktzutritt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/potenzieller-wettbewerb-marktzutritt)
-- [`produktmarkt-angebotsumstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/produktmarkt-angebotsumstellung)
-- [`produktmarkt-nachfragesubstitution`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/produktmarkt-nachfragesubstitution)
-- [`raeumlicher-markt-abgrenzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/raeumlicher-markt-abgrenzung)
-- [`red-flags-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/red-flags-checkliste)
-- [`ssnip-test-anwendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/ssnip-test-anwendung)
+| Skill | Skill |
+|---|---|
+| [`alternative-marktdefinition-eng`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/alternative-marktdefinition-eng/SKILL.md) | [`kartellverbot-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/kartellverbot-modus/SKILL.md) |
+| [`alternative-marktdefinition-weit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/alternative-marktdefinition-weit/SKILL.md) | [`konsistenzpruefung-marktdefinition`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/konsistenzpruefung-marktdefinition/SKILL.md) |
+| [`auswirkungen-marktanteile-marktbeherrschung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/auswirkungen-marktanteile-marktbeherrschung/SKILL.md) | [`marktabgrenzung-kontextanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/marktabgrenzung-kontextanalyse/SKILL.md) |
+| [`cluster-und-systemmaerkte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/cluster-und-systemmaerkte/SKILL.md) | [`mehrseitige-maerkte-plattformen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/mehrseitige-maerkte-plattformen/SKILL.md) |
+| [`dma-und-gatekeeper-markt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/dma-und-gatekeeper-markt/SKILL.md) | [`missbrauchsverbot-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/missbrauchsverbot-modus/SKILL.md) |
+| [`elastizitaeten-diversion-ratios`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/elastizitaeten-diversion-ratios/SKILL.md) | [`paragraf-18-gwb-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/paragraf-18-gwb-pruefung/SKILL.md) |
+| [`eu-bekanntmachung-marktdefinition-2024`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/eu-bekanntmachung-marktdefinition-2024/SKILL.md) | [`potenzieller-wettbewerb-marktzutritt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/potenzieller-wettbewerb-marktzutritt/SKILL.md) |
+| [`eugh-rechtsprechung-leitentscheidungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/eugh-rechtsprechung-leitentscheidungen/SKILL.md) | [`produktmarkt-angebotsumstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/produktmarkt-angebotsumstellung/SKILL.md) |
+| [`evidenz-qualitaet-bewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/evidenz-qualitaet-bewertung/SKILL.md) | [`produktmarkt-nachfragesubstitution`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/produktmarkt-nachfragesubstitution/SKILL.md) |
+| [`fusionskontrolle-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/fusionskontrolle-modus/SKILL.md) | [`raeumlicher-markt-abgrenzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/raeumlicher-markt-abgrenzung/SKILL.md) |
+| [`gesamtbewertung-tragfaehigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/gesamtbewertung-tragfaehigkeit/SKILL.md) | [`red-flags-checkliste`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/red-flags-checkliste/SKILL.md) |
+| [`innovations-und-technologiemaerkte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/innovations-und-technologiemaerkte/SKILL.md) | [`ssnip-test-anwendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kartellrecht-marktabgrenzung-pruefung/skills/ssnip-test-anwendung/SKILL.md) |
 
-### [produktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht) (9 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`feature-risikobewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/feature-risikobewertung)
-- [`impressum-pflicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/impressum-pflicht)
-- [`ist-das-ein-problem`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/ist-das-ein-problem)
-- [`launch-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/launch-pruefung)
-- [`preisangaben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/preisangaben)
-- [`produktrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/produktrecht-anpassen)
-- [`produktrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/produktrecht-kaltstart-interview)
-- [`produktrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/produktrecht-mandat-arbeitsbereich)
-- [`werbeaussagen-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/werbeaussagen-pruefung)
+### [produktrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht) · 9 Skills
+
+| Skill | Skill |
+|---|---|
+| [`feature-risikobewertung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/feature-risikobewertung/SKILL.md) | [`produktrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/produktrecht-anpassen/SKILL.md) |
+| [`impressum-pflicht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/impressum-pflicht/SKILL.md) | [`produktrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/produktrecht-kaltstart-interview/SKILL.md) |
+| [`ist-das-ein-problem`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/ist-das-ein-problem/SKILL.md) | [`produktrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/produktrecht-mandat-arbeitsbereich/SKILL.md) |
+| [`launch-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/launch-pruefung/SKILL.md) | [`werbeaussagen-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/werbeaussagen-pruefung/SKILL.md) |
+| [`preisangaben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/produktrecht/skills/preisangaben/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Verbraucher-, Internet- & Reiserecht
 
-### [fluggastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte) (12 Skills)
+### [fluggastrechte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte) · 12 Skills
 
-- [`airline-standardausreden-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/airline-standardausreden-pruefen)
-- [`annullierung-oder-verspaetung-einordnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/annullierung-oder-verspaetung-einordnen)
-- [`anschlussflug-und-reiseplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/anschlussflug-und-reiseplan)
-- [`ausnahmen-aussergewoehnliche-umstaende-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/ausnahmen-aussergewoehnliche-umstaende-pruefen)
-- [`distanz-und-ausgleich-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/distanz-und-ausgleich-berechnen)
-- [`fluggastrechte-anlagen-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/fluggastrechte-anlagen-bauen)
-- [`fluggastrechte-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/fluggastrechte-kaltstart-interview)
-- [`forderungsschreiben-erste-stufe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/forderungsschreiben-erste-stufe)
-- [`forderungsschreiben-mahnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/forderungsschreiben-mahnung)
-- [`klage-amtsgericht-fluggast`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/klage-amtsgericht-fluggast)
-- [`ticket-und-fluginformationen-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/ticket-und-fluginformationen-erfassen)
-- [`vollmacht-familienmitglieder`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/vollmacht-familienmitglieder)
+| Skill | Skill |
+|---|---|
+| [`airline-standardausreden-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/airline-standardausreden-pruefen/SKILL.md) | [`fluggastrechte-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/fluggastrechte-kaltstart-interview/SKILL.md) |
+| [`annullierung-oder-verspaetung-einordnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/annullierung-oder-verspaetung-einordnen/SKILL.md) | [`forderungsschreiben-erste-stufe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/forderungsschreiben-erste-stufe/SKILL.md) |
+| [`anschlussflug-und-reiseplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/anschlussflug-und-reiseplan/SKILL.md) | [`forderungsschreiben-mahnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/forderungsschreiben-mahnung/SKILL.md) |
+| [`ausnahmen-aussergewoehnliche-umstaende-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/ausnahmen-aussergewoehnliche-umstaende-pruefen/SKILL.md) | [`klage-amtsgericht-fluggast`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/klage-amtsgericht-fluggast/SKILL.md) |
+| [`distanz-und-ausgleich-berechnen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/distanz-und-ausgleich-berechnen/SKILL.md) | [`ticket-und-fluginformationen-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/ticket-und-fluginformationen-erfassen/SKILL.md) |
+| [`fluggastrechte-anlagen-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/fluggastrechte-anlagen-bauen/SKILL.md) | [`vollmacht-familienmitglieder`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fluggastrechte/skills/vollmacht-familienmitglieder/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Vertragsrecht, BGB & Bereicherung
 
-### [vertragsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht) (16 Skills)
+### [vertragsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht) · 16 Skills
 
-- [`abmahnung-uwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/abmahnung-uwg)
-- [`aenderungs-historie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/aenderungs-historie)
-- [`agb-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/agb-pruefung)
-- [`eskalations-marker`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/eskalations-marker)
-- [`lieferantenvertrag-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/lieferantenvertrag-pruefung)
-- [`nda-durchsetzer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/nda-durchsetzer)
-- [`nda-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/nda-pruefung)
-- [`pruefungsvorschlaege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/pruefungsvorschlaege)
-- [`saas-msa-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/saas-msa-pruefung)
-- [`stakeholder-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/stakeholder-zusammenfassung)
-- [`vertragspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragspruefung)
-- [`vertragsrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsrecht-anpassen)
-- [`vertragsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsrecht-kaltstart-interview)
-- [`vertragsrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsrecht-mandat-arbeitsbereich)
-- [`vertragsverlaengerungs-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsverlaengerungs-monitor)
-- [`widerruf-fernabsatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/widerruf-fernabsatz)
+| Skill | Skill |
+|---|---|
+| [`abmahnung-uwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/abmahnung-uwg/SKILL.md) | [`saas-msa-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/saas-msa-pruefung/SKILL.md) |
+| [`aenderungs-historie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/aenderungs-historie/SKILL.md) | [`stakeholder-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/stakeholder-zusammenfassung/SKILL.md) |
+| [`agb-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/agb-pruefung/SKILL.md) | [`vertragspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragspruefung/SKILL.md) |
+| [`eskalations-marker`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/eskalations-marker/SKILL.md) | [`vertragsrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsrecht-anpassen/SKILL.md) |
+| [`lieferantenvertrag-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/lieferantenvertrag-pruefung/SKILL.md) | [`vertragsrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsrecht-kaltstart-interview/SKILL.md) |
+| [`nda-durchsetzer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/nda-durchsetzer/SKILL.md) | [`vertragsrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsrecht-mandat-arbeitsbereich/SKILL.md) |
+| [`nda-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/nda-pruefung/SKILL.md) | [`vertragsverlaengerungs-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/vertragsverlaengerungs-monitor/SKILL.md) |
+| [`pruefungsvorschlaege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/pruefungsvorschlaege/SKILL.md) | [`widerruf-fernabsatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht/skills/widerruf-fernabsatz/SKILL.md) |
 
-### [vertragsausfueller](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller) (14 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`vaf-altvertrag-nachziehen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-altvertrag-nachziehen)
-- [`vaf-bsag-mietvertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-bsag-mietvertrag)
-- [`vaf-clean-output`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-clean-output)
-- [`vaf-docx-stripper`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-docx-stripper)
-- [`vaf-feldinventar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-feldinventar)
-- [`vaf-klauselentscheidung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-klauselentscheidung)
-- [`vaf-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-kommandocenter)
-- [`vaf-plausibilitaetscheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-plausibilitaetscheck)
-- [`vaf-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-quality-gate)
-- [`vaf-redline-qa`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-redline-qa)
-- [`vaf-rueckfrageninterview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-rueckfrageninterview)
-- [`vaf-template-erkennung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-template-erkennung)
-- [`vaf-termsheet-mapping`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-termsheet-mapping)
-- [`vaf-track-changes-nur-nach-frage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-track-changes-nur-nach-frage)
+### [vertragsausfueller](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller) · 14 Skills
 
-### [nda-abgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich) (1 Skills)
+| Skill | Skill |
+|---|---|
+| [`vaf-altvertrag-nachziehen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-altvertrag-nachziehen/SKILL.md) | [`vaf-plausibilitaetscheck`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-plausibilitaetscheck/SKILL.md) |
+| [`vaf-bsag-mietvertrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-bsag-mietvertrag/SKILL.md) | [`vaf-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-quality-gate/SKILL.md) |
+| [`vaf-clean-output`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-clean-output/SKILL.md) | [`vaf-redline-qa`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-redline-qa/SKILL.md) |
+| [`vaf-docx-stripper`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-docx-stripper/SKILL.md) | [`vaf-rueckfrageninterview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-rueckfrageninterview/SKILL.md) |
+| [`vaf-feldinventar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-feldinventar/SKILL.md) | [`vaf-template-erkennung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-template-erkennung/SKILL.md) |
+| [`vaf-klauselentscheidung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-klauselentscheidung/SKILL.md) | [`vaf-termsheet-mapping`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-termsheet-mapping/SKILL.md) |
+| [`vaf-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-kommandocenter/SKILL.md) | [`vaf-track-changes-nur-nach-frage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsausfueller/skills/vaf-track-changes-nur-nach-frage/SKILL.md) |
 
-- [`nda-abgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich/skills/nda-abgleich)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [schriftform-und-textform-bgb](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb) (22 Skills)
+### [nda-abgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich) · 1 Skills
 
-- [`anspruchsformulierungen-bei-formverstoss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/anspruchsformulierungen-bei-formverstoss)
-- [`arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb)
-- [`befristungsabrede-qes-rechtsprechung-stand-2026`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/befristungsabrede-qes-rechtsprechung-stand-2026)
-- [`buergschaft-verbraucherdarlehen-und-andere-strenge-formen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/buergschaft-verbraucherdarlehen-und-andere-strenge-formen)
-- [`dokumentations-und-beweisarchitektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/dokumentations-und-beweisarchitektur)
-- [`elektronische-form-paragraph-126a-bgb-qes`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/elektronische-form-paragraph-126a-bgb-qes)
-- [`form-checker-fuer-vertrag-oder-willenserklaerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/form-checker-fuer-vertrag-oder-willenserklaerung)
-- [`formerfordernisse-im-bgb-ueberblick`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/formerfordernisse-im-bgb-ueberblick)
-- [`gewerberaummiete-paragraph-550-bgb-langzeitform`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/gewerberaummiete-paragraph-550-bgb-langzeitform)
-- [`klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/klauselgenerator-formvorbehalt-und-aenderungsvorbehalt)
-- [`kuendigung-per-schriftsatz-zustellung-formfragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/kuendigung-per-schriftsatz-zustellung-formfragen)
-- [`maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25)
-- [`mandantenkorrespondenz-form-und-zugang-templates`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/mandantenkorrespondenz-form-und-zugang-templates)
-- [`mandantenwarnung-qes-per-email-whatsapp-und-zugang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/mandantenwarnung-qes-per-email-whatsapp-und-zugang)
-- [`notarielle-beurkundung-und-oeffentliche-beglaubigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/notarielle-beurkundung-und-oeffentliche-beglaubigung)
-- [`prozessablauf-papier-vs-elektronisch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/prozessablauf-papier-vs-elektronisch)
-- [`schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/schriftform-paragraph-126-bgb-eigenhaendige-unterschrift)
-- [`textform-paragraph-126b-bgb-dauerhafter-datentraeger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/textform-paragraph-126b-bgb-dauerhafter-datentraeger)
-- [`verteidigungsstrategie-bei-formangriff`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/verteidigungsstrategie-bei-formangriff)
-- [`wohnraummiete-kuendigung-paragraph-568-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/wohnraummiete-kuendigung-paragraph-568-bgb)
-- [`zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb)
-- [`zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/zugang-formgerechter-erklaerung-bgh-viii-zr-159-23)
+| Skill | Skill |
+|---|---|
+| [`nda-abgleich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nda-abgleich/skills/nda-abgleich/SKILL.md) |  |
 
-### [bereicherungs-und-anfechtungsrecht-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer) (40 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`anfg-anfechtungsklage-prozessuales`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-anfechtungsklage-prozessuales)
-- [`anfg-einreden-und-verteidigung-anfechtungsgegner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-einreden-und-verteidigung-anfechtungsgegner)
-- [`anfg-fristen-und-anfechtungszeitraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-fristen-und-anfechtungszeitraum)
-- [`anfg-grundtatbestand-und-anfechtungsberechtigte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-grundtatbestand-und-anfechtungsberechtigte)
-- [`anfg-mittelbare-benachteiligung-und-kongruenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-mittelbare-benachteiligung-und-kongruenz)
-- [`anfg-rechtsfolge-rueckgewaehr-11`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-rechtsfolge-rueckgewaehr-11)
-- [`anfg-unentgeltliche-leistung-4`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-unentgeltliche-leistung-4)
-- [`anfg-vorsatzanfechtung-3-i`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-vorsatzanfechtung-3-i)
-- [`ausschluss-814-bgb-kenntnis-der-nichtschuld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/ausschluss-814-bgb-kenntnis-der-nichtschuld)
-- [`ausschluss-817-bgb-gesetzes-und-sittenverstoss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/ausschluss-817-bgb-gesetzes-und-sittenverstoss)
-- [`bereicherung-eines-dritten-822-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/bereicherung-eines-dritten-822-bgb)
-- [`condictio-indebiti-813-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/condictio-indebiti-813-bgb)
-- [`eingriffskondiktion-zuweisungsgehalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/eingriffskondiktion-zuweisungsgehalt)
-- [`falsche-wiese-warnung-bereicherung-anfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/falsche-wiese-warnung-bereicherung-anfechtung)
-- [`inso-bargeschaeft-142`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-bargeschaeft-142)
-- [`inso-grundtatbestand-129-glaeubigerbenachteiligung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-grundtatbestand-129-glaeubigerbenachteiligung)
-- [`inso-inkongruente-deckung-131`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-inkongruente-deckung-131)
-- [`inso-kongruente-deckung-130`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-kongruente-deckung-130)
-- [`inso-rechtsfolge-rueckgewaehr-143-bis-147`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-rechtsfolge-rueckgewaehr-143-bis-147)
-- [`inso-unentgeltliche-leistung-134`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-unentgeltliche-leistung-134)
-- [`inso-unmittelbar-nachteilige-rechtshandlungen-132`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-unmittelbar-nachteilige-rechtshandlungen-132)
-- [`inso-vorsatzanfechtung-133`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-vorsatzanfechtung-133)
-- [`konkurrenz-bereicherung-anfechtung-und-vindikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/konkurrenz-bereicherung-anfechtung-und-vindikation)
-- [`konkurrenz-bereicherung-vertraglich-deliktisch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/konkurrenz-bereicherung-vertraglich-deliktisch)
-- [`leistungsbegriff-bewusste-zweckgerichtete-mehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/leistungsbegriff-bewusste-zweckgerichtete-mehrung)
-- [`leistungskondiktion-grundtatbestand-812-i-1-alt-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/leistungskondiktion-grundtatbestand-812-i-1-alt-1)
-- [`mandatsabbruch-empfehlung-an-fachanwalt-insolvenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/mandatsabbruch-empfehlung-an-fachanwalt-insolvenz)
-- [`mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion)
-- [`nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2)
-- [`output-anfechtungsanzeige-insolvenzverwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-anfechtungsanzeige-insolvenzverwalter)
-- [`output-anfechtungsklage-anfg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-anfechtungsklage-anfg)
-- [`output-klageschrift-bereicherungsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-klageschrift-bereicherungsklage)
-- [`output-warnhinweis-und-pruefungsdokument`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-warnhinweis-und-pruefungsdokument)
-- [`parallel-und-konkurrenz-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/parallel-und-konkurrenz-pruefung)
-- [`triage-vermoegensverschiebung-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/triage-vermoegensverschiebung-erfassen)
-- [`umfang-der-herausgabe-818-bgb-und-entreicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/umfang-der-herausgabe-818-bgb-und-entreicherung)
-- [`verfuegung-eines-nichtberechtigten-816-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/verfuegung-eines-nichtberechtigten-816-bgb)
-- [`verjaehrung-bereicherung-anfechtung-fristen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/verjaehrung-bereicherung-anfechtung-fristen)
-- [`verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit)
-- [`weichenstellung-bereicherung-oder-anfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/weichenstellung-bereicherung-oder-anfechtung)
+### [schriftform-und-textform-bgb](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb) · 22 Skills
+
+| Skill | Skill |
+|---|---|
+| [`anspruchsformulierungen-bei-formverstoss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/anspruchsformulierungen-bei-formverstoss/SKILL.md) | [`maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25/SKILL.md) |
+| [`arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb/SKILL.md) | [`mandantenkorrespondenz-form-und-zugang-templates`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/mandantenkorrespondenz-form-und-zugang-templates/SKILL.md) |
+| [`befristungsabrede-qes-rechtsprechung-stand-2026`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/befristungsabrede-qes-rechtsprechung-stand-2026/SKILL.md) | [`mandantenwarnung-qes-per-email-whatsapp-und-zugang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/mandantenwarnung-qes-per-email-whatsapp-und-zugang/SKILL.md) |
+| [`buergschaft-verbraucherdarlehen-und-andere-strenge-formen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/buergschaft-verbraucherdarlehen-und-andere-strenge-formen/SKILL.md) | [`notarielle-beurkundung-und-oeffentliche-beglaubigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/notarielle-beurkundung-und-oeffentliche-beglaubigung/SKILL.md) |
+| [`dokumentations-und-beweisarchitektur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/dokumentations-und-beweisarchitektur/SKILL.md) | [`prozessablauf-papier-vs-elektronisch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/prozessablauf-papier-vs-elektronisch/SKILL.md) |
+| [`elektronische-form-paragraph-126a-bgb-qes`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/elektronische-form-paragraph-126a-bgb-qes/SKILL.md) | [`schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/schriftform-paragraph-126-bgb-eigenhaendige-unterschrift/SKILL.md) |
+| [`form-checker-fuer-vertrag-oder-willenserklaerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/form-checker-fuer-vertrag-oder-willenserklaerung/SKILL.md) | [`textform-paragraph-126b-bgb-dauerhafter-datentraeger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/textform-paragraph-126b-bgb-dauerhafter-datentraeger/SKILL.md) |
+| [`formerfordernisse-im-bgb-ueberblick`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/formerfordernisse-im-bgb-ueberblick/SKILL.md) | [`verteidigungsstrategie-bei-formangriff`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/verteidigungsstrategie-bei-formangriff/SKILL.md) |
+| [`gewerberaummiete-paragraph-550-bgb-langzeitform`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/gewerberaummiete-paragraph-550-bgb-langzeitform/SKILL.md) | [`wohnraummiete-kuendigung-paragraph-568-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/wohnraummiete-kuendigung-paragraph-568-bgb/SKILL.md) |
+| [`klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/klauselgenerator-formvorbehalt-und-aenderungsvorbehalt/SKILL.md) | [`zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb/SKILL.md) |
+| [`kuendigung-per-schriftsatz-zustellung-formfragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/kuendigung-per-schriftsatz-zustellung-formfragen/SKILL.md) | [`zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schriftform-und-textform-bgb/skills/zugang-formgerechter-erklaerung-bgh-viii-zr-159-23/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [bereicherungs-und-anfechtungsrecht-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer) · 40 Skills
+
+| Skill | Skill |
+|---|---|
+| [`anfg-anfechtungsklage-prozessuales`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-anfechtungsklage-prozessuales/SKILL.md) | [`inso-unmittelbar-nachteilige-rechtshandlungen-132`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-unmittelbar-nachteilige-rechtshandlungen-132/SKILL.md) |
+| [`anfg-einreden-und-verteidigung-anfechtungsgegner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-einreden-und-verteidigung-anfechtungsgegner/SKILL.md) | [`inso-vorsatzanfechtung-133`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-vorsatzanfechtung-133/SKILL.md) |
+| [`anfg-fristen-und-anfechtungszeitraum`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-fristen-und-anfechtungszeitraum/SKILL.md) | [`konkurrenz-bereicherung-anfechtung-und-vindikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/konkurrenz-bereicherung-anfechtung-und-vindikation/SKILL.md) |
+| [`anfg-grundtatbestand-und-anfechtungsberechtigte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-grundtatbestand-und-anfechtungsberechtigte/SKILL.md) | [`konkurrenz-bereicherung-vertraglich-deliktisch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/konkurrenz-bereicherung-vertraglich-deliktisch/SKILL.md) |
+| [`anfg-mittelbare-benachteiligung-und-kongruenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-mittelbare-benachteiligung-und-kongruenz/SKILL.md) | [`leistungsbegriff-bewusste-zweckgerichtete-mehrung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/leistungsbegriff-bewusste-zweckgerichtete-mehrung/SKILL.md) |
+| [`anfg-rechtsfolge-rueckgewaehr-11`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-rechtsfolge-rueckgewaehr-11/SKILL.md) | [`leistungskondiktion-grundtatbestand-812-i-1-alt-1`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/leistungskondiktion-grundtatbestand-812-i-1-alt-1/SKILL.md) |
+| [`anfg-unentgeltliche-leistung-4`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-unentgeltliche-leistung-4/SKILL.md) | [`mandatsabbruch-empfehlung-an-fachanwalt-insolvenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/mandatsabbruch-empfehlung-an-fachanwalt-insolvenz/SKILL.md) |
+| [`anfg-vorsatzanfechtung-3-i`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/anfg-vorsatzanfechtung-3-i/SKILL.md) | [`mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion/SKILL.md) |
+| [`ausschluss-814-bgb-kenntnis-der-nichtschuld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/ausschluss-814-bgb-kenntnis-der-nichtschuld/SKILL.md) | [`nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2/SKILL.md) |
+| [`ausschluss-817-bgb-gesetzes-und-sittenverstoss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/ausschluss-817-bgb-gesetzes-und-sittenverstoss/SKILL.md) | [`output-anfechtungsanzeige-insolvenzverwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-anfechtungsanzeige-insolvenzverwalter/SKILL.md) |
+| [`bereicherung-eines-dritten-822-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/bereicherung-eines-dritten-822-bgb/SKILL.md) | [`output-anfechtungsklage-anfg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-anfechtungsklage-anfg/SKILL.md) |
+| [`condictio-indebiti-813-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/condictio-indebiti-813-bgb/SKILL.md) | [`output-klageschrift-bereicherungsklage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-klageschrift-bereicherungsklage/SKILL.md) |
+| [`eingriffskondiktion-zuweisungsgehalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/eingriffskondiktion-zuweisungsgehalt/SKILL.md) | [`output-warnhinweis-und-pruefungsdokument`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/output-warnhinweis-und-pruefungsdokument/SKILL.md) |
+| [`falsche-wiese-warnung-bereicherung-anfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/falsche-wiese-warnung-bereicherung-anfechtung/SKILL.md) | [`parallel-und-konkurrenz-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/parallel-und-konkurrenz-pruefung/SKILL.md) |
+| [`inso-bargeschaeft-142`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-bargeschaeft-142/SKILL.md) | [`triage-vermoegensverschiebung-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/triage-vermoegensverschiebung-erfassen/SKILL.md) |
+| [`inso-grundtatbestand-129-glaeubigerbenachteiligung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-grundtatbestand-129-glaeubigerbenachteiligung/SKILL.md) | [`umfang-der-herausgabe-818-bgb-und-entreicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/umfang-der-herausgabe-818-bgb-und-entreicherung/SKILL.md) |
+| [`inso-inkongruente-deckung-131`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-inkongruente-deckung-131/SKILL.md) | [`verfuegung-eines-nichtberechtigten-816-bgb`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/verfuegung-eines-nichtberechtigten-816-bgb/SKILL.md) |
+| [`inso-kongruente-deckung-130`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-kongruente-deckung-130/SKILL.md) | [`verjaehrung-bereicherung-anfechtung-fristen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/verjaehrung-bereicherung-anfechtung-fristen/SKILL.md) |
+| [`inso-rechtsfolge-rueckgewaehr-143-bis-147`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-rechtsfolge-rueckgewaehr-143-bis-147/SKILL.md) | [`verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit/SKILL.md) |
+| [`inso-unentgeltliche-leistung-134`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/inso-unentgeltliche-leistung-134/SKILL.md) | [`weichenstellung-bereicherung-oder-anfechtung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/bereicherungs-und-anfechtungsrecht-pruefer/skills/weichenstellung-bereicherung-oder-anfechtung/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Forderungsmanagement & Zwangsvollstreckung
 
-### [forderungsmanagement-klagewerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt) (3 Skills)
+### [forderungsmanagement-klagewerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt) · 3 Skills
 
-- [`inkasso-zahlungsklage-ersteller`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt/skills/inkasso-zahlungsklage-ersteller)
-- [`klage-aus-eigenem-skill`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt/skills/klage-aus-eigenem-skill)
-- [`klagevorlage-aus-eigenen-mustern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt/skills/klagevorlage-aus-eigenen-mustern)
+| Skill | Skill |
+|---|---|
+| [`inkasso-zahlungsklage-ersteller`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt/skills/inkasso-zahlungsklage-ersteller/SKILL.md) | [`klagevorlage-aus-eigenen-mustern`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt/skills/klagevorlage-aus-eigenen-mustern/SKILL.md) |
+| [`klage-aus-eigenem-skill`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/forderungsmanagement-klagewerkstatt/skills/klage-aus-eigenem-skill/SKILL.md) |  |
 
-### [zwangsvollstreckung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung) (19 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`zv-abwehr-schuldner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-abwehr-schuldner)
-- [`zv-elektronische-zustellung-2027`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-elektronische-zustellung-2027)
-- [`zv-eu-kontenpfaendung-655-2014`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-eu-kontenpfaendung-655-2014)
-- [`zv-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-kommandocenter)
-- [`zv-kontensuche-drittschuldner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-kontensuche-drittschuldner)
-- [`zv-mahnbescheid-online`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-mahnbescheid-online)
-- [`zv-mobiliar-gv-auftrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-mobiliar-gv-auftrag)
-- [`zv-notarielle-urkunde-grundschuld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-notarielle-urkunde-grundschuld)
-- [`zv-pfaendungstabelle-2025`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfaendungstabelle-2025)
-- [`zv-pfueb-arbeitsentgelt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfueb-arbeitsentgelt)
-- [`zv-pfueb-bank`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfueb-bank)
-- [`zv-pfueb-mieter-finanzamt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfueb-mieter-finanzamt)
-- [`zv-raeumung-885`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-raeumung-885)
-- [`zv-tabellenauszug-201-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-tabellenauszug-201-inso)
-- [`zv-titel-klausel-zustellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-titel-klausel-zustellung)
-- [`zv-vermoegensauskunft-gv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-vermoegensauskunft-gv)
-- [`zv-vollstreckungsbescheid-folge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-vollstreckungsbescheid-folge)
-- [`zv-vollstreckungsschutz-haertefall-765a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-vollstreckungsschutz-haertefall-765a)
-- [`zv-zvg-antrag-glaeubiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-zvg-antrag-glaeubiger)
+### [zwangsvollstreckung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung) · 19 Skills
 
-### [jveg-kostenpruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer) (19 Skills)
+| Skill | Skill |
+|---|---|
+| [`zv-abwehr-schuldner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-abwehr-schuldner/SKILL.md) | [`zv-pfueb-bank`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfueb-bank/SKILL.md) |
+| [`zv-elektronische-zustellung-2027`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-elektronische-zustellung-2027/SKILL.md) | [`zv-pfueb-mieter-finanzamt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfueb-mieter-finanzamt/SKILL.md) |
+| [`zv-eu-kontenpfaendung-655-2014`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-eu-kontenpfaendung-655-2014/SKILL.md) | [`zv-raeumung-885`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-raeumung-885/SKILL.md) |
+| [`zv-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-kommandocenter/SKILL.md) | [`zv-tabellenauszug-201-inso`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-tabellenauszug-201-inso/SKILL.md) |
+| [`zv-kontensuche-drittschuldner`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-kontensuche-drittschuldner/SKILL.md) | [`zv-titel-klausel-zustellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-titel-klausel-zustellung/SKILL.md) |
+| [`zv-mahnbescheid-online`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-mahnbescheid-online/SKILL.md) | [`zv-vermoegensauskunft-gv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-vermoegensauskunft-gv/SKILL.md) |
+| [`zv-mobiliar-gv-auftrag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-mobiliar-gv-auftrag/SKILL.md) | [`zv-vollstreckungsbescheid-folge`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-vollstreckungsbescheid-folge/SKILL.md) |
+| [`zv-notarielle-urkunde-grundschuld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-notarielle-urkunde-grundschuld/SKILL.md) | [`zv-vollstreckungsschutz-haertefall-765a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-vollstreckungsschutz-haertefall-765a/SKILL.md) |
+| [`zv-pfaendungstabelle-2025`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfaendungstabelle-2025/SKILL.md) | [`zv-zvg-antrag-glaeubiger`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-zvg-antrag-glaeubiger/SKILL.md) |
+| [`zv-pfueb-arbeitsentgelt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zwangsvollstreckung/skills/zv-pfueb-arbeitsentgelt/SKILL.md) |  |
 
-- [`jveg-aktenstripper`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-aktenstripper)
-- [`jveg-anspruchsberechtigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-anspruchsberechtigung)
-- [`jveg-antragsgenerator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-antragsgenerator)
-- [`jveg-dolmetscher-uebersetzer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-dolmetscher-uebersetzer)
-- [`jveg-fahrtkosten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-fahrtkosten)
-- [`jveg-festsetzung-beschwerde`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-festsetzung-beschwerde)
-- [`jveg-fristen-erloeschen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-fristen-erloeschen)
-- [`jveg-gerichtsschreiben-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-gerichtsschreiben-pruefung)
-- [`jveg-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-kommandocenter)
-- [`jveg-kuerzung-wegfall-8a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-kuerzung-wegfall-8a)
-- [`jveg-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-quality-gate)
-- [`jveg-rechenblatt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-rechenblatt)
-- [`jveg-sachverstaendigenrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-sachverstaendigenrechnung)
-- [`jveg-sonstige-aufwendungen-belege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-sonstige-aufwendungen-belege)
-- [`jveg-uebernachtung-aufwand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-uebernachtung-aufwand)
-- [`jveg-verdienstausfall-haushalt-zeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-verdienstausfall-haushalt-zeit)
-- [`jveg-vorschuss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-vorschuss)
-- [`jveg-zeugenentschaedigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-zeugenentschaedigung)
-- [`pruefung-sachverstaendigengutachten-ki-deklaration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/pruefung-sachverstaendigengutachten-ki-deklaration)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [jveg-kostenpruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer) · 19 Skills
+
+| Skill | Skill |
+|---|---|
+| [`jveg-aktenstripper`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-aktenstripper/SKILL.md) | [`jveg-quality-gate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-quality-gate/SKILL.md) |
+| [`jveg-anspruchsberechtigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-anspruchsberechtigung/SKILL.md) | [`jveg-rechenblatt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-rechenblatt/SKILL.md) |
+| [`jveg-antragsgenerator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-antragsgenerator/SKILL.md) | [`jveg-sachverstaendigenrechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-sachverstaendigenrechnung/SKILL.md) |
+| [`jveg-dolmetscher-uebersetzer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-dolmetscher-uebersetzer/SKILL.md) | [`jveg-sonstige-aufwendungen-belege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-sonstige-aufwendungen-belege/SKILL.md) |
+| [`jveg-fahrtkosten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-fahrtkosten/SKILL.md) | [`jveg-uebernachtung-aufwand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-uebernachtung-aufwand/SKILL.md) |
+| [`jveg-festsetzung-beschwerde`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-festsetzung-beschwerde/SKILL.md) | [`jveg-verdienstausfall-haushalt-zeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-verdienstausfall-haushalt-zeit/SKILL.md) |
+| [`jveg-fristen-erloeschen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-fristen-erloeschen/SKILL.md) | [`jveg-vorschuss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-vorschuss/SKILL.md) |
+| [`jveg-gerichtsschreiben-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-gerichtsschreiben-pruefung/SKILL.md) | [`jveg-zeugenentschaedigung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-zeugenentschaedigung/SKILL.md) |
+| [`jveg-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-kommandocenter/SKILL.md) | [`pruefung-sachverstaendigengutachten-ki-deklaration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/pruefung-sachverstaendigengutachten-ki-deklaration/SKILL.md) |
+| [`jveg-kuerzung-wegfall-8a`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jveg-kostenpruefer/skills/jveg-kuerzung-wegfall-8a/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Prozessrecht & Schriftsatzwerkstatt
 
-### [prozessrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht) (25 Skills)
+### [prozessrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht) · 25 Skills
 
-- [`anspruchstabelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/anspruchstabelle)
-- [`anwaltsgeheimnis-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/anwaltsgeheimnis-pruefung)
-- [`beweissicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/beweissicherung)
-- [`chronologie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/chronologie)
-- [`einstweilige-verfuegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/einstweilige-verfuegung)
-- [`gegenseite-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/gegenseite-status)
-- [`mahnbescheid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnbescheid)
-- [`mahnschreiben-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnschreiben-aufnahme)
-- [`mahnschreiben-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnschreiben-entwurf)
-- [`mahnschreiben-erhalten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnschreiben-erhalten)
-- [`mandat-aktualisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-aktualisierung)
-- [`mandat-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-aufnahme)
-- [`mandat-briefing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-briefing)
-- [`mandat-schliessen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-schliessen)
-- [`portfolio-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/portfolio-status)
-- [`prozessrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/prozessrecht-anpassen)
-- [`prozessrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/prozessrecht-kaltstart-interview)
-- [`prozessrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/prozessrecht-mandat-arbeitsbereich)
-- [`schriftsatz-abschnitt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/schriftsatz-abschnitt)
-- [`strafverteidigung-ersttermin`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/strafverteidigung-ersttermin)
-- [`streitwert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/streitwert)
-- [`verkehrsunfall`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/verkehrsunfall)
-- [`vollstreckung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/vollstreckung)
-- [`vorlageanordnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/vorlageanordnung)
-- [`zeuge-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/zeuge-vorbereitung)
+| Skill | Skill |
+|---|---|
+| [`anspruchstabelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/anspruchstabelle/SKILL.md) | [`mandat-schliessen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-schliessen/SKILL.md) |
+| [`anwaltsgeheimnis-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/anwaltsgeheimnis-pruefung/SKILL.md) | [`portfolio-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/portfolio-status/SKILL.md) |
+| [`beweissicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/beweissicherung/SKILL.md) | [`prozessrecht-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/prozessrecht-anpassen/SKILL.md) |
+| [`chronologie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/chronologie/SKILL.md) | [`prozessrecht-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/prozessrecht-kaltstart-interview/SKILL.md) |
+| [`einstweilige-verfuegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/einstweilige-verfuegung/SKILL.md) | [`prozessrecht-mandat-arbeitsbereich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/prozessrecht-mandat-arbeitsbereich/SKILL.md) |
+| [`gegenseite-status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/gegenseite-status/SKILL.md) | [`schriftsatz-abschnitt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/schriftsatz-abschnitt/SKILL.md) |
+| [`mahnbescheid`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnbescheid/SKILL.md) | [`strafverteidigung-ersttermin`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/strafverteidigung-ersttermin/SKILL.md) |
+| [`mahnschreiben-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnschreiben-aufnahme/SKILL.md) | [`streitwert`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/streitwert/SKILL.md) |
+| [`mahnschreiben-entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnschreiben-entwurf/SKILL.md) | [`verkehrsunfall`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/verkehrsunfall/SKILL.md) |
+| [`mahnschreiben-erhalten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mahnschreiben-erhalten/SKILL.md) | [`vollstreckung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/vollstreckung/SKILL.md) |
+| [`mandat-aktualisierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-aktualisierung/SKILL.md) | [`vorlageanordnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/vorlageanordnung/SKILL.md) |
+| [`mandat-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-aufnahme/SKILL.md) | [`zeuge-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/zeuge-vorbereitung/SKILL.md) |
+| [`mandat-briefing`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/prozessrecht/skills/mandat-briefing/SKILL.md) |  |
 
-### [anlagen-zu-schriftsaetzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anlagen-zu-schriftsaetzen) (1 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`anlagen-zu-schriftsaetzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anlagen-zu-schriftsaetzen/skills/anlagen-zu-schriftsaetzen)
+### [anlagen-zu-schriftsaetzen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anlagen-zu-schriftsaetzen) · 1 Skills
 
-### [aktenauszug-gerichtsverfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren) (20 Skills)
+| Skill | Skill |
+|---|---|
+| [`anlagen-zu-schriftsaetzen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/anlagen-zu-schriftsaetzen/skills/anlagen-zu-schriftsaetzen/SKILL.md) |  |
 
-- [`aktenauszug-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/aktenauszug-erstellen)
-- [`aktenauszug-strukturpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/aktenauszug-strukturpruefung)
-- [`anlagenverzeichnis-extrakt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/anlagenverzeichnis-extrakt)
-- [`anwaltsschriftsatz-stilrichtlinie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/anwaltsschriftsatz-stilrichtlinie)
-- [`arbeitsgerichtsverfahren-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/arbeitsgerichtsverfahren-modus)
-- [`beweismittel-gegenueberstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/beweismittel-gegenueberstellung)
-- [`einleitungssatz-generator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/einleitungssatz-generator)
-- [`fristen-und-terminkalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/fristen-und-terminkalender)
-- [`neutralitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/neutralitaetspruefung)
-- [`parteivortrag-gegenueberstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/parteivortrag-gegenueberstellung)
-- [`rechtsargumente-gegenueberstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/rechtsargumente-gegenueberstellung)
-- [`sachverhaltschronologie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/sachverhaltschronologie)
-- [`schwerpunktthemen-identifikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/schwerpunktthemen-identifikation)
-- [`sozialgerichtsverfahren-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/sozialgerichtsverfahren-modus)
-- [`strafprozess-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/strafprozess-modus)
-- [`verfahrenschronologie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verfahrenschronologie)
-- [`verfahrensidentifikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verfahrensidentifikation)
-- [`verfahrenszusammenfassung-absatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verfahrenszusammenfassung-absatz)
-- [`verwaltungsprozess-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verwaltungsprozess-modus)
-- [`zivilprozess-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/zivilprozess-modus)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [urteilsbauer-relationsmacher](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher) (24 Skills)
+### [aktenauszug-gerichtsverfahren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren) · 20 Skills
 
-- [`aktenintake-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/aktenintake-zivil)
-- [`anspruchsgrundlagen-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/anspruchsgrundlagen-pruefen)
-- [`berufungsfest-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/berufungsfest-pruefen)
-- [`beschluss-bauen-zpo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/beschluss-bauen-zpo)
-- [`beweisbeschluss-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/beweisbeschluss-vorbereiten)
-- [`beweiswuerdigung-mit-richter-input`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/beweiswuerdigung-mit-richter-input)
-- [`cisg-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/cisg-pruefen)
-- [`dokumente-rendern-urteil-docx`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/dokumente-rendern-urteil-docx)
-- [`dsgvo-rechtswidriges-produkt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/dsgvo-rechtswidriges-produkt)
-- [`entscheidungsgruende-zivil-schreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/entscheidungsgruende-zivil-schreiben)
-- [`familienrichter-spezifika`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/familienrichter-spezifika)
-- [`incoterms-und-gefahruebergang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/incoterms-und-gefahruebergang)
-- [`internationales-privatrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/internationales-privatrecht)
-- [`kollidierende-agb-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/kollidierende-agb-pruefen)
-- [`kostenentscheidung-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/kostenentscheidung-bauen)
-- [`rechtsmittelbelehrung-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/rechtsmittelbelehrung-zivil)
-- [`relation-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/relation-zivil)
-- [`revisionsfest-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/revisionsfest-pruefen)
-- [`schulung-urteilsbauer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/schulung-urteilsbauer)
-- [`tatbestand-zivil-schreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/tatbestand-zivil-schreiben)
-- [`tenor-bauen-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/tenor-bauen-zivil)
-- [`vollrelation-langfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/vollrelation-langfassung)
-- [`vorlaeufige-vollstreckbarkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/vorlaeufige-vollstreckbarkeit)
-- [`zulaessigkeit-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/zulaessigkeit-pruefen)
+| Skill | Skill |
+|---|---|
+| [`aktenauszug-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/aktenauszug-erstellen/SKILL.md) | [`rechtsargumente-gegenueberstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/rechtsargumente-gegenueberstellung/SKILL.md) |
+| [`aktenauszug-strukturpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/aktenauszug-strukturpruefung/SKILL.md) | [`sachverhaltschronologie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/sachverhaltschronologie/SKILL.md) |
+| [`anlagenverzeichnis-extrakt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/anlagenverzeichnis-extrakt/SKILL.md) | [`schwerpunktthemen-identifikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/schwerpunktthemen-identifikation/SKILL.md) |
+| [`anwaltsschriftsatz-stilrichtlinie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/anwaltsschriftsatz-stilrichtlinie/SKILL.md) | [`sozialgerichtsverfahren-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/sozialgerichtsverfahren-modus/SKILL.md) |
+| [`arbeitsgerichtsverfahren-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/arbeitsgerichtsverfahren-modus/SKILL.md) | [`strafprozess-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/strafprozess-modus/SKILL.md) |
+| [`beweismittel-gegenueberstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/beweismittel-gegenueberstellung/SKILL.md) | [`verfahrenschronologie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verfahrenschronologie/SKILL.md) |
+| [`einleitungssatz-generator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/einleitungssatz-generator/SKILL.md) | [`verfahrensidentifikation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verfahrensidentifikation/SKILL.md) |
+| [`fristen-und-terminkalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/fristen-und-terminkalender/SKILL.md) | [`verfahrenszusammenfassung-absatz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verfahrenszusammenfassung-absatz/SKILL.md) |
+| [`neutralitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/neutralitaetspruefung/SKILL.md) | [`verwaltungsprozess-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/verwaltungsprozess-modus/SKILL.md) |
+| [`parteivortrag-gegenueberstellung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/parteivortrag-gegenueberstellung/SKILL.md) | [`zivilprozess-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenauszug-gerichtsverfahren/skills/zivilprozess-modus/SKILL.md) |
 
-### [subsumtions-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer) (30 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`beweisbedarf-und-belege-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/beweisbedarf-und-belege-erfassen)
-- [`darlegungs-und-beweislast-verteilen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/darlegungs-und-beweislast-verteilen)
-- [`de-eu-recht-abgrenzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/de-eu-recht-abgrenzung)
-- [`einschlaegige-normen-vorschlagen-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/einschlaegige-normen-vorschlagen-de)
-- [`einschlaegige-normen-vorschlagen-eu`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/einschlaegige-normen-vorschlagen-eu)
-- [`eu-vorabentscheidung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/eu-vorabentscheidung-pruefen)
-- [`falsche-wiese-warnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/falsche-wiese-warnung)
-- [`gegen-tbm-und-einreden-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/gegen-tbm-und-einreden-pruefen)
-- [`generalklauseln-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/generalklauseln-pruefen)
-- [`grundrechte-pruefung-de-und-grch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/grundrechte-pruefung-de-und-grch)
-- [`kommentar-und-literatur-hinweis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/kommentar-und-literatur-hinweis)
-- [`konkurrenzen-anspruchsgrundlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/konkurrenzen-anspruchsgrundlagen)
-- [`mandatsabbruch-empfehlung-an-fachanwalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/mandatsabbruch-empfehlung-an-fachanwalt)
-- [`norm-historie-und-aenderungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/norm-historie-und-aenderungen)
-- [`norm-zerlegen-in-tatbestandsmerkmale`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/norm-zerlegen-in-tatbestandsmerkmale)
-- [`output-alltagssprache-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-alltagssprache-de)
-- [`output-antrag-beschwerde-klageschrift`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-antrag-beschwerde-klageschrift)
-- [`output-fremdsprachig-en-fr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-fremdsprachig-en-fr)
-- [`output-juristisch-gestochen-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-juristisch-gestochen-de)
-- [`output-memo-und-mandantenbrief`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-memo-und-mandantenbrief)
-- [`output-pruefungsdokument-mit-warnhinweisen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-pruefungsdokument-mit-warnhinweisen)
-- [`rechtsfolge-bestimmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/rechtsfolge-bestimmen)
-- [`rechtsprechung-recherche-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/rechtsprechung-recherche-strategie)
-- [`subsumtion-obersatz-definition-untersatz-ergebnis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/subsumtion-obersatz-definition-untersatz-ergebnis)
-- [`triage-rechtsfrage-oder-norm`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/triage-rechtsfrage-oder-norm)
-- [`unbestimmte-rechtsbegriffe-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/unbestimmte-rechtsbegriffe-pruefen)
-- [`ungeschriebene-merkmale-judikatur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/ungeschriebene-merkmale-judikatur)
-- [`verfahrensart-bestimmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/verfahrensart-bestimmen)
-- [`verjaehrung-fristen-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/verjaehrung-fristen-pruefen)
-- [`ziel-und-rechtsweg-bestimmung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/ziel-und-rechtsweg-bestimmung)
+### [urteilsbauer-relationsmacher](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher) · 24 Skills
 
-### [tabellenreview-3d](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d) (20 Skills)
+| Skill | Skill |
+|---|---|
+| [`aktenintake-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/aktenintake-zivil/SKILL.md) | [`internationales-privatrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/internationales-privatrecht/SKILL.md) |
+| [`anspruchsgrundlagen-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/anspruchsgrundlagen-pruefen/SKILL.md) | [`kollidierende-agb-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/kollidierende-agb-pruefen/SKILL.md) |
+| [`berufungsfest-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/berufungsfest-pruefen/SKILL.md) | [`kostenentscheidung-bauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/kostenentscheidung-bauen/SKILL.md) |
+| [`beschluss-bauen-zpo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/beschluss-bauen-zpo/SKILL.md) | [`rechtsmittelbelehrung-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/rechtsmittelbelehrung-zivil/SKILL.md) |
+| [`beweisbeschluss-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/beweisbeschluss-vorbereiten/SKILL.md) | [`relation-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/relation-zivil/SKILL.md) |
+| [`beweiswuerdigung-mit-richter-input`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/beweiswuerdigung-mit-richter-input/SKILL.md) | [`revisionsfest-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/revisionsfest-pruefen/SKILL.md) |
+| [`cisg-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/cisg-pruefen/SKILL.md) | [`schulung-urteilsbauer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/schulung-urteilsbauer/SKILL.md) |
+| [`dokumente-rendern-urteil-docx`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/dokumente-rendern-urteil-docx/SKILL.md) | [`tatbestand-zivil-schreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/tatbestand-zivil-schreiben/SKILL.md) |
+| [`dsgvo-rechtswidriges-produkt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/dsgvo-rechtswidriges-produkt/SKILL.md) | [`tenor-bauen-zivil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/tenor-bauen-zivil/SKILL.md) |
+| [`entscheidungsgruende-zivil-schreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/entscheidungsgruende-zivil-schreiben/SKILL.md) | [`vollrelation-langfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/vollrelation-langfassung/SKILL.md) |
+| [`familienrichter-spezifika`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/familienrichter-spezifika/SKILL.md) | [`vorlaeufige-vollstreckbarkeit`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/vorlaeufige-vollstreckbarkeit/SKILL.md) |
+| [`incoterms-und-gefahruebergang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/incoterms-und-gefahruebergang/SKILL.md) | [`zulaessigkeit-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/urteilsbauer-relationsmacher/skills/zulaessigkeit-pruefen/SKILL.md) |
 
-- [`arbeitsblatt-perspektiven-definieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/arbeitsblatt-perspektiven-definieren)
-- [`audit-trail-protokoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/audit-trail-protokoll)
-- [`belegkette-rueckverfolgung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/belegkette-rueckverfolgung)
-- [`caching-und-teil-rerun`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/caching-und-teil-rerun)
-- [`dokumentstapel-aufnehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/dokumentstapel-aufnehmen)
-- [`excel-multi-sheet-export`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/excel-multi-sheet-export)
-- [`kreuzblatt-konsistenzpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/kreuzblatt-konsistenzpruefung)
-- [`pdf-bericht-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/pdf-bericht-erzeugen)
-- [`prompt-versionierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/prompt-versionierung)
-- [`pruefer-uebergabe-paket`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/pruefer-uebergabe-paket)
-- [`review-durchfuehren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/review-durchfuehren)
-- [`risikoampel-aggregation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/risikoampel-aggregation)
-- [`spaltenprompts-definieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/spaltenprompts-definieren)
-- [`tabellenreview-3d-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/tabellenreview-3d-kaltstart-interview)
-- [`vorlage-arbeitsvertrag-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-arbeitsvertrag-portfolio)
-- [`vorlage-immobilien-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-immobilien-portfolio)
-- [`vorlage-ma-due-diligence`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-ma-due-diligence)
-- [`vorlage-vendor-onboarding-3d`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-vendor-onboarding-3d)
-- [`wuerfel-aufbauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/wuerfel-aufbauen)
-- [`zeilenprompts-definieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/zeilenprompts-definieren)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [memorandums-ersteller](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller) (1 Skills)
+### [subsumtions-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer) · 30 Skills
 
-- [`memorandums-ersteller`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller/skills/memorandums-ersteller)
+| Skill | Skill |
+|---|---|
+| [`beweisbedarf-und-belege-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/beweisbedarf-und-belege-erfassen/SKILL.md) | [`output-alltagssprache-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-alltagssprache-de/SKILL.md) |
+| [`darlegungs-und-beweislast-verteilen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/darlegungs-und-beweislast-verteilen/SKILL.md) | [`output-antrag-beschwerde-klageschrift`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-antrag-beschwerde-klageschrift/SKILL.md) |
+| [`de-eu-recht-abgrenzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/de-eu-recht-abgrenzung/SKILL.md) | [`output-fremdsprachig-en-fr`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-fremdsprachig-en-fr/SKILL.md) |
+| [`einschlaegige-normen-vorschlagen-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/einschlaegige-normen-vorschlagen-de/SKILL.md) | [`output-juristisch-gestochen-de`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-juristisch-gestochen-de/SKILL.md) |
+| [`einschlaegige-normen-vorschlagen-eu`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/einschlaegige-normen-vorschlagen-eu/SKILL.md) | [`output-memo-und-mandantenbrief`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-memo-und-mandantenbrief/SKILL.md) |
+| [`eu-vorabentscheidung-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/eu-vorabentscheidung-pruefen/SKILL.md) | [`output-pruefungsdokument-mit-warnhinweisen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/output-pruefungsdokument-mit-warnhinweisen/SKILL.md) |
+| [`falsche-wiese-warnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/falsche-wiese-warnung/SKILL.md) | [`rechtsfolge-bestimmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/rechtsfolge-bestimmen/SKILL.md) |
+| [`gegen-tbm-und-einreden-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/gegen-tbm-und-einreden-pruefen/SKILL.md) | [`rechtsprechung-recherche-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/rechtsprechung-recherche-strategie/SKILL.md) |
+| [`generalklauseln-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/generalklauseln-pruefen/SKILL.md) | [`subsumtion-obersatz-definition-untersatz-ergebnis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/subsumtion-obersatz-definition-untersatz-ergebnis/SKILL.md) |
+| [`grundrechte-pruefung-de-und-grch`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/grundrechte-pruefung-de-und-grch/SKILL.md) | [`triage-rechtsfrage-oder-norm`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/triage-rechtsfrage-oder-norm/SKILL.md) |
+| [`kommentar-und-literatur-hinweis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/kommentar-und-literatur-hinweis/SKILL.md) | [`unbestimmte-rechtsbegriffe-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/unbestimmte-rechtsbegriffe-pruefen/SKILL.md) |
+| [`konkurrenzen-anspruchsgrundlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/konkurrenzen-anspruchsgrundlagen/SKILL.md) | [`ungeschriebene-merkmale-judikatur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/ungeschriebene-merkmale-judikatur/SKILL.md) |
+| [`mandatsabbruch-empfehlung-an-fachanwalt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/mandatsabbruch-empfehlung-an-fachanwalt/SKILL.md) | [`verfahrensart-bestimmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/verfahrensart-bestimmen/SKILL.md) |
+| [`norm-historie-und-aenderungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/norm-historie-und-aenderungen/SKILL.md) | [`verjaehrung-fristen-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/verjaehrung-fristen-pruefen/SKILL.md) |
+| [`norm-zerlegen-in-tatbestandsmerkmale`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/norm-zerlegen-in-tatbestandsmerkmale/SKILL.md) | [`ziel-und-rechtsweg-bestimmung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/subsumtions-pruefer/skills/ziel-und-rechtsweg-bestimmung/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [tabellenreview-3d](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d) · 20 Skills
+
+| Skill | Skill |
+|---|---|
+| [`arbeitsblatt-perspektiven-definieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/arbeitsblatt-perspektiven-definieren/SKILL.md) | [`review-durchfuehren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/review-durchfuehren/SKILL.md) |
+| [`audit-trail-protokoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/audit-trail-protokoll/SKILL.md) | [`risikoampel-aggregation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/risikoampel-aggregation/SKILL.md) |
+| [`belegkette-rueckverfolgung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/belegkette-rueckverfolgung/SKILL.md) | [`spaltenprompts-definieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/spaltenprompts-definieren/SKILL.md) |
+| [`caching-und-teil-rerun`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/caching-und-teil-rerun/SKILL.md) | [`tabellenreview-3d-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/tabellenreview-3d-kaltstart-interview/SKILL.md) |
+| [`dokumentstapel-aufnehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/dokumentstapel-aufnehmen/SKILL.md) | [`vorlage-arbeitsvertrag-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-arbeitsvertrag-portfolio/SKILL.md) |
+| [`excel-multi-sheet-export`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/excel-multi-sheet-export/SKILL.md) | [`vorlage-immobilien-portfolio`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-immobilien-portfolio/SKILL.md) |
+| [`kreuzblatt-konsistenzpruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/kreuzblatt-konsistenzpruefung/SKILL.md) | [`vorlage-ma-due-diligence`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-ma-due-diligence/SKILL.md) |
+| [`pdf-bericht-erzeugen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/pdf-bericht-erzeugen/SKILL.md) | [`vorlage-vendor-onboarding-3d`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/vorlage-vendor-onboarding-3d/SKILL.md) |
+| [`prompt-versionierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/prompt-versionierung/SKILL.md) | [`wuerfel-aufbauen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/wuerfel-aufbauen/SKILL.md) |
+| [`pruefer-uebergabe-paket`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/pruefer-uebergabe-paket/SKILL.md) | [`zeilenprompts-definieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/tabellenreview-3d/skills/zeilenprompts-definieren/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [memorandums-ersteller](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller) · 1 Skills
+
+| Skill | Skill |
+|---|---|
+| [`memorandums-ersteller`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller/skills/memorandums-ersteller/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Compliance, AML & ESG
 
-### [geldwaeschepraevention-aml-kyc](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc) (21 Skills)
+### [geldwaeschepraevention-aml-kyc](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc) · 21 Skills
 
-- [`geldwaesche-audit-internal-revision`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-audit-internal-revision)
-- [`geldwaesche-behoerdenverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-behoerdenverfahren)
-- [`geldwaesche-bussgeld-reputation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-bussgeld-reputation)
-- [`geldwaesche-datenqualitaet-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-datenqualitaet-register)
-- [`geldwaesche-gruppenweite-compliance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-gruppenweite-compliance)
-- [`geldwaesche-immobilien-gueterhaendler`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-immobilien-gueterhaendler)
-- [`geldwaesche-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-kommandocenter)
-- [`geldwaesche-krypto-zahlungsdienstleister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-krypto-zahlungsdienstleister)
-- [`geldwaesche-kyc-onboarding`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-kyc-onboarding)
-- [`geldwaesche-pep-hochrisikoland`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-pep-hochrisikoland)
-- [`geldwaesche-risikoanalyse-unternehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-risikoanalyse-unternehmen)
-- [`geldwaesche-sanktionsscreening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-sanktionsscreening)
-- [`geldwaesche-schulung-awareness`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-schulung-awareness)
-- [`geldwaesche-sicherungsmassnahmen-icp`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-sicherungsmassnahmen-icp)
-- [`geldwaesche-simulation-testlauf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-simulation-testlauf)
-- [`geldwaesche-transaktionsmonitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-transaktionsmonitoring)
-- [`geldwaesche-transaktionsstopp-freeze`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-transaktionsstopp-freeze)
-- [`geldwaesche-transparenzregister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-transparenzregister)
-- [`geldwaesche-ubo-wirtschaftlich-berechtigte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-ubo-wirtschaftlich-berechtigte)
-- [`geldwaesche-verdachtsmeldung-fiu-goaml`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-verdachtsmeldung-fiu-goaml)
-- [`geldwaesche-verpflichteten-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-verpflichteten-check)
+| Skill | Skill |
+|---|---|
+| [`geldwaesche-audit-internal-revision`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-audit-internal-revision/SKILL.md) | [`geldwaesche-sanktionsscreening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-sanktionsscreening/SKILL.md) |
+| [`geldwaesche-behoerdenverfahren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-behoerdenverfahren/SKILL.md) | [`geldwaesche-schulung-awareness`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-schulung-awareness/SKILL.md) |
+| [`geldwaesche-bussgeld-reputation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-bussgeld-reputation/SKILL.md) | [`geldwaesche-sicherungsmassnahmen-icp`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-sicherungsmassnahmen-icp/SKILL.md) |
+| [`geldwaesche-datenqualitaet-register`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-datenqualitaet-register/SKILL.md) | [`geldwaesche-simulation-testlauf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-simulation-testlauf/SKILL.md) |
+| [`geldwaesche-gruppenweite-compliance`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-gruppenweite-compliance/SKILL.md) | [`geldwaesche-transaktionsmonitoring`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-transaktionsmonitoring/SKILL.md) |
+| [`geldwaesche-immobilien-gueterhaendler`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-immobilien-gueterhaendler/SKILL.md) | [`geldwaesche-transaktionsstopp-freeze`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-transaktionsstopp-freeze/SKILL.md) |
+| [`geldwaesche-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-kommandocenter/SKILL.md) | [`geldwaesche-transparenzregister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-transparenzregister/SKILL.md) |
+| [`geldwaesche-krypto-zahlungsdienstleister`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-krypto-zahlungsdienstleister/SKILL.md) | [`geldwaesche-ubo-wirtschaftlich-berechtigte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-ubo-wirtschaftlich-berechtigte/SKILL.md) |
+| [`geldwaesche-kyc-onboarding`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-kyc-onboarding/SKILL.md) | [`geldwaesche-verdachtsmeldung-fiu-goaml`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-verdachtsmeldung-fiu-goaml/SKILL.md) |
+| [`geldwaesche-pep-hochrisikoland`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-pep-hochrisikoland/SKILL.md) | [`geldwaesche-verpflichteten-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-verpflichteten-check/SKILL.md) |
+| [`geldwaesche-risikoanalyse-unternehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/geldwaeschepraevention-aml-kyc/skills/geldwaesche-risikoanalyse-unternehmen/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Kanzleimanagement & Praxisorganisation
 
-### [kanzlei-allgemein](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein) (47 Skills)
+### [kanzlei-allgemein](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein) · 47 Skills
 
-- [`aktenbestand-pflege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/aktenbestand-pflege)
-- [`bea-versand-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/bea-versand-pruefen)
-- [`fristenbuch-fuehren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/fristenbuch-fuehren)
-- [`geburtstage-feiertage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/geburtstage-feiertage)
-- [`kanzlei-allgemein-abwesenheiten-urlaub`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-abwesenheiten-urlaub)
-- [`kanzlei-allgemein-akte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-akte)
-- [`kanzlei-allgemein-aktenzeichen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-aktenzeichen)
-- [`kanzlei-allgemein-automationen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-automationen)
-- [`kanzlei-allgemein-bea-journal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-bea-journal)
-- [`kanzlei-allgemein-buchhaltung-konten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-buchhaltung-konten)
-- [`kanzlei-allgemein-erechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-erechnung)
-- [`kanzlei-allgemein-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-freundlicher-copilot)
-- [`kanzlei-allgemein-fristen-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-fristen-monitor)
-- [`kanzlei-allgemein-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-handelsregisterabruf)
-- [`kanzlei-allgemein-hr-personal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-hr-personal)
-- [`kanzlei-allgemein-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-intake)
-- [`kanzlei-allgemein-integrationen-simulation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-integrationen-simulation)
-- [`kanzlei-allgemein-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kaltstart)
-- [`kanzlei-allgemein-kanzleikalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kanzleikalender)
-- [`kanzlei-allgemein-kanzleitag-simulation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kanzleitag-simulation)
-- [`kanzlei-allgemein-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kommandocenter)
-- [`kanzlei-allgemein-lohn-sv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-lohn-sv)
-- [`kanzlei-allgemein-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-look-and-feel)
-- [`kanzlei-allgemein-mandatsannahme-gwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-mandatsannahme-gwg)
-- [`kanzlei-allgemein-mandatsvereinbarung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-mandatsvereinbarung)
-- [`kanzlei-allgemein-output-versand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-output-versand)
-- [`kanzlei-allgemein-postlauf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-postlauf)
-- [`kanzlei-allgemein-qualitaetsgate-hardening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-qualitaetsgate-hardening)
-- [`kanzlei-allgemein-rechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-rechnung)
-- [`kanzlei-allgemein-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-rechtsprechungsrecherche)
-- [`kanzlei-allgemein-schreibcanvas`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-schreibcanvas)
-- [`kanzlei-allgemein-schriftsatz-turbo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-schriftsatz-turbo)
-- [`kanzlei-allgemein-ustva-buchhaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-ustva-buchhaltung)
-- [`kanzlei-allgemein-ustva-simulation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-ustva-simulation)
-- [`kanzlei-allgemein-vertragsentwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-vertragsentwurf)
-- [`kanzlei-allgemein-zeitnarrative`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-zeitnarrative)
-- [`kanzlei-cowork-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-cowork-kaltstart-interview)
-- [`mahnwesen-honorar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/mahnwesen-honorar)
-- [`mandantenakte-anlegen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/mandantenakte-anlegen)
-- [`mandantenbrief-vorlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/mandantenbrief-vorlagen)
-- [`posteingang-ausgang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/posteingang-ausgang)
-- [`rechnungserstellung-rvg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/rechnungserstellung-rvg)
-- [`sekretariats-tagesbrief`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/sekretariats-tagesbrief)
-- [`timesheet-aktenzeitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/timesheet-aktenzeitung)
-- [`umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten)
-- [`versand-vor-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/versand-vor-check)
-- [`weihnachtskarten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/weihnachtskarten)
+| Skill | Skill |
+|---|---|
+| [`aktenbestand-pflege`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/aktenbestand-pflege/SKILL.md) | [`kanzlei-allgemein-mandatsvereinbarung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-mandatsvereinbarung/SKILL.md) |
+| [`bea-versand-pruefen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/bea-versand-pruefen/SKILL.md) | [`kanzlei-allgemein-output-versand`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-output-versand/SKILL.md) |
+| [`fristenbuch-fuehren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/fristenbuch-fuehren/SKILL.md) | [`kanzlei-allgemein-postlauf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-postlauf/SKILL.md) |
+| [`geburtstage-feiertage`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/geburtstage-feiertage/SKILL.md) | [`kanzlei-allgemein-qualitaetsgate-hardening`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-qualitaetsgate-hardening/SKILL.md) |
+| [`kanzlei-allgemein-abwesenheiten-urlaub`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-abwesenheiten-urlaub/SKILL.md) | [`kanzlei-allgemein-rechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-rechnung/SKILL.md) |
+| [`kanzlei-allgemein-akte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-akte/SKILL.md) | [`kanzlei-allgemein-rechtsprechungsrecherche`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-rechtsprechungsrecherche/SKILL.md) |
+| [`kanzlei-allgemein-aktenzeichen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-aktenzeichen/SKILL.md) | [`kanzlei-allgemein-schreibcanvas`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-schreibcanvas/SKILL.md) |
+| [`kanzlei-allgemein-automationen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-automationen/SKILL.md) | [`kanzlei-allgemein-schriftsatz-turbo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-schriftsatz-turbo/SKILL.md) |
+| [`kanzlei-allgemein-bea-journal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-bea-journal/SKILL.md) | [`kanzlei-allgemein-ustva-buchhaltung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-ustva-buchhaltung/SKILL.md) |
+| [`kanzlei-allgemein-buchhaltung-konten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-buchhaltung-konten/SKILL.md) | [`kanzlei-allgemein-ustva-simulation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-ustva-simulation/SKILL.md) |
+| [`kanzlei-allgemein-erechnung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-erechnung/SKILL.md) | [`kanzlei-allgemein-vertragsentwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-vertragsentwurf/SKILL.md) |
+| [`kanzlei-allgemein-freundlicher-copilot`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-freundlicher-copilot/SKILL.md) | [`kanzlei-allgemein-zeitnarrative`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-zeitnarrative/SKILL.md) |
+| [`kanzlei-allgemein-fristen-monitor`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-fristen-monitor/SKILL.md) | [`kanzlei-cowork-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-cowork-kaltstart-interview/SKILL.md) |
+| [`kanzlei-allgemein-handelsregisterabruf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-handelsregisterabruf/SKILL.md) | [`mahnwesen-honorar`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/mahnwesen-honorar/SKILL.md) |
+| [`kanzlei-allgemein-hr-personal`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-hr-personal/SKILL.md) | [`mandantenakte-anlegen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/mandantenakte-anlegen/SKILL.md) |
+| [`kanzlei-allgemein-intake`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-intake/SKILL.md) | [`mandantenbrief-vorlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/mandantenbrief-vorlagen/SKILL.md) |
+| [`kanzlei-allgemein-integrationen-simulation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-integrationen-simulation/SKILL.md) | [`posteingang-ausgang`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/posteingang-ausgang/SKILL.md) |
+| [`kanzlei-allgemein-kaltstart`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kaltstart/SKILL.md) | [`rechnungserstellung-rvg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/rechnungserstellung-rvg/SKILL.md) |
+| [`kanzlei-allgemein-kanzleikalender`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kanzleikalender/SKILL.md) | [`sekretariats-tagesbrief`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/sekretariats-tagesbrief/SKILL.md) |
+| [`kanzlei-allgemein-kanzleitag-simulation`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kanzleitag-simulation/SKILL.md) | [`timesheet-aktenzeitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/timesheet-aktenzeitung/SKILL.md) |
+| [`kanzlei-allgemein-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-kommandocenter/SKILL.md) | [`umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten/SKILL.md) |
+| [`kanzlei-allgemein-lohn-sv`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-lohn-sv/SKILL.md) | [`versand-vor-check`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/versand-vor-check/SKILL.md) |
+| [`kanzlei-allgemein-look-and-feel`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-look-and-feel/SKILL.md) | [`weihnachtskarten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/weihnachtskarten/SKILL.md) |
+| [`kanzlei-allgemein-mandatsannahme-gwg`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-allgemein/skills/kanzlei-allgemein-mandatsannahme-gwg/SKILL.md) |  |
 
-### [kanzlei-builder-hub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub) (12 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`automatischer-aktualisierer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/automatischer-aktualisierer)
-- [`deaktivieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/deaktivieren)
-- [`deinstallieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/deinstallieren)
-- [`fundstellenglattzieher`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/fundstellenglattzieher)
-- [`kanzlei-builder-hub-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/kanzlei-builder-hub-anpassen)
-- [`kanzlei-builder-hub-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/kanzlei-builder-hub-kaltstart-interview)
-- [`playbook-aus-eigenen-daten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/playbook-aus-eigenen-daten)
-- [`skill-installierer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/skill-installierer)
-- [`skill-verwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/skill-verwalter)
-- [`skills-qualitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/skills-qualitaetspruefung)
-- [`verwandte-skills-vorschlag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/verwandte-skills-vorschlag)
-- [`verzeichnis-durchsuchen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/verzeichnis-durchsuchen)
+### [kanzlei-builder-hub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub) · 12 Skills
 
-### [mandantenanfragen-assistent](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent) (14 Skills)
+| Skill | Skill |
+|---|---|
+| [`automatischer-aktualisierer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/automatischer-aktualisierer/SKILL.md) | [`playbook-aus-eigenen-daten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/playbook-aus-eigenen-daten/SKILL.md) |
+| [`deaktivieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/deaktivieren/SKILL.md) | [`skill-installierer`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/skill-installierer/SKILL.md) |
+| [`deinstallieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/deinstallieren/SKILL.md) | [`skill-verwalter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/skill-verwalter/SKILL.md) |
+| [`fundstellenglattzieher`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/fundstellenglattzieher/SKILL.md) | [`skills-qualitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/skills-qualitaetspruefung/SKILL.md) |
+| [`kanzlei-builder-hub-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/kanzlei-builder-hub-anpassen/SKILL.md) | [`verwandte-skills-vorschlag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/verwandte-skills-vorschlag/SKILL.md) |
+| [`kanzlei-builder-hub-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/kanzlei-builder-hub-kaltstart-interview/SKILL.md) | [`verzeichnis-durchsuchen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kanzlei-builder-hub/skills/verzeichnis-durchsuchen/SKILL.md) |
 
-- [`anfrage-eingang-parser`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/anfrage-eingang-parser)
-- [`anrede-uebernehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/anrede-uebernehmen)
-- [`dringlichkeitsmarker`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/dringlichkeitsmarker)
-- [`einwilligung-hinweis-datenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/einwilligung-hinweis-datenschutz)
-- [`erstantwort-generator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/erstantwort-generator)
-- [`folgekorrespondenz-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/folgekorrespondenz-vorbereiten)
-- [`konfliktcheck-vorab`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/konfliktcheck-vorab)
-- [`mandatsverhaeltnis-hinweis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/mandatsverhaeltnis-hinweis)
-- [`mehrsprachige-antwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/mehrsprachige-antwort)
-- [`muster-erstantwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/muster-erstantwort)
-- [`spam-und-massen-anfrage-filter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/spam-und-massen-anfrage-filter)
-- [`telefon-konfiguration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/telefon-konfiguration)
-- [`transkriptionsdienst-erklaerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/transkriptionsdienst-erklaerung)
-- [`vertraulichkeit-erinnerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/vertraulichkeit-erinnerung)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [email-umformulierer-berufsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht) (20 Skills)
+### [mandantenanfragen-assistent](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent) · 14 Skills
 
-- [`allgemeine-berufliche-korrespondenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/allgemeine-berufliche-korrespondenz)
-- [`anrede-und-grussformeln`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/anrede-und-grussformeln)
-- [`bora-konformitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/bora-konformitaetspruefung)
-- [`brao-konformitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/brao-konformitaetspruefung)
-- [`email-eingangsanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/email-eingangsanalyse)
-- [`emotionale-trigger-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/emotionale-trigger-katalog)
-- [`frist-und-mahnung-hoeflich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/frist-und-mahnung-hoeflich)
-- [`ironie-und-sarkasmus-eliminieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/ironie-und-sarkasmus-eliminieren)
-- [`klare-bitte-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/klare-bitte-formulieren)
-- [`kollegialitaetsgebot-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/kollegialitaetsgebot-pruefung)
-- [`kompetenz-zweifel-respektvoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/kompetenz-zweifel-respektvoll)
-- [`konfliktdeeskalation-formulierungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/konfliktdeeskalation-formulierungen)
-- [`kooperativer-abschluss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/kooperativer-abschluss)
-- [`mehrsprachige-umformulierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/mehrsprachige-umformulierung)
-- [`notare-bnotk-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/notare-bnotk-modus)
-- [`persoenlichen-angriff-entschaerfen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/persoenlichen-angriff-entschaerfen)
-- [`sachlichkeitsgebot-anwendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/sachlichkeitsgebot-anwendung)
-- [`sachverhalt-neutral-darstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/sachverhalt-neutral-darstellen)
-- [`steuerberater-stberg-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/steuerberater-stberg-modus)
-- [`vorher-nachher-tabelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/vorher-nachher-tabelle)
+| Skill | Skill |
+|---|---|
+| [`anfrage-eingang-parser`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/anfrage-eingang-parser/SKILL.md) | [`mandatsverhaeltnis-hinweis`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/mandatsverhaeltnis-hinweis/SKILL.md) |
+| [`anrede-uebernehmen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/anrede-uebernehmen/SKILL.md) | [`mehrsprachige-antwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/mehrsprachige-antwort/SKILL.md) |
+| [`dringlichkeitsmarker`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/dringlichkeitsmarker/SKILL.md) | [`muster-erstantwort`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/muster-erstantwort/SKILL.md) |
+| [`einwilligung-hinweis-datenschutz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/einwilligung-hinweis-datenschutz/SKILL.md) | [`spam-und-massen-anfrage-filter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/spam-und-massen-anfrage-filter/SKILL.md) |
+| [`erstantwort-generator`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/erstantwort-generator/SKILL.md) | [`telefon-konfiguration`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/telefon-konfiguration/SKILL.md) |
+| [`folgekorrespondenz-vorbereiten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/folgekorrespondenz-vorbereiten/SKILL.md) | [`transkriptionsdienst-erklaerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/transkriptionsdienst-erklaerung/SKILL.md) |
+| [`konfliktcheck-vorab`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/konfliktcheck-vorab/SKILL.md) | [`vertraulichkeit-erinnerung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mandantenanfragen-assistent/skills/vertraulichkeit-erinnerung/SKILL.md) |
 
-### [rechtsberatungsstelle](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle) (16 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`anleiter-pruefwarteschlange`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/anleiter-pruefwarteschlange)
-- [`einarbeitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/einarbeitung)
-- [`einfache-sprache-briefe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/einfache-sprache-briefe)
-- [`entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/entwurf)
-- [`formular-erzeugung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/formular-erzeugung)
-- [`fristen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/fristen)
-- [`leitfaden-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/leitfaden-erstellen)
-- [`mandant-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/mandant-aufnahme)
-- [`mandanten-kommunikations-log`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/mandanten-kommunikations-log)
-- [`mandantenbrief`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/mandantenbrief)
-- [`memo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/memo)
-- [`recherche-start`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/recherche-start)
-- [`rechtsberatungsstelle-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/rechtsberatungsstelle-anpassen)
-- [`rechtsberatungsstelle-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/rechtsberatungsstelle-kaltstart-interview)
-- [`semester-uebergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/semester-uebergabe)
-- [`status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/status)
+### [email-umformulierer-berufsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht) · 20 Skills
+
+| Skill | Skill |
+|---|---|
+| [`allgemeine-berufliche-korrespondenz`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/allgemeine-berufliche-korrespondenz/SKILL.md) | [`kompetenz-zweifel-respektvoll`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/kompetenz-zweifel-respektvoll/SKILL.md) |
+| [`anrede-und-grussformeln`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/anrede-und-grussformeln/SKILL.md) | [`konfliktdeeskalation-formulierungen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/konfliktdeeskalation-formulierungen/SKILL.md) |
+| [`bora-konformitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/bora-konformitaetspruefung/SKILL.md) | [`kooperativer-abschluss`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/kooperativer-abschluss/SKILL.md) |
+| [`brao-konformitaetspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/brao-konformitaetspruefung/SKILL.md) | [`mehrsprachige-umformulierung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/mehrsprachige-umformulierung/SKILL.md) |
+| [`email-eingangsanalyse`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/email-eingangsanalyse/SKILL.md) | [`notare-bnotk-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/notare-bnotk-modus/SKILL.md) |
+| [`emotionale-trigger-katalog`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/emotionale-trigger-katalog/SKILL.md) | [`persoenlichen-angriff-entschaerfen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/persoenlichen-angriff-entschaerfen/SKILL.md) |
+| [`frist-und-mahnung-hoeflich`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/frist-und-mahnung-hoeflich/SKILL.md) | [`sachlichkeitsgebot-anwendung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/sachlichkeitsgebot-anwendung/SKILL.md) |
+| [`ironie-und-sarkasmus-eliminieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/ironie-und-sarkasmus-eliminieren/SKILL.md) | [`sachverhalt-neutral-darstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/sachverhalt-neutral-darstellen/SKILL.md) |
+| [`klare-bitte-formulieren`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/klare-bitte-formulieren/SKILL.md) | [`steuerberater-stberg-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/steuerberater-stberg-modus/SKILL.md) |
+| [`kollegialitaetsgebot-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/kollegialitaetsgebot-pruefung/SKILL.md) | [`vorher-nachher-tabelle`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/email-umformulierer-berufsrecht/skills/vorher-nachher-tabelle/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [rechtsberatungsstelle](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle) · 16 Skills
+
+| Skill | Skill |
+|---|---|
+| [`anleiter-pruefwarteschlange`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/anleiter-pruefwarteschlange/SKILL.md) | [`mandanten-kommunikations-log`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/mandanten-kommunikations-log/SKILL.md) |
+| [`einarbeitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/einarbeitung/SKILL.md) | [`mandantenbrief`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/mandantenbrief/SKILL.md) |
+| [`einfache-sprache-briefe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/einfache-sprache-briefe/SKILL.md) | [`memo`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/memo/SKILL.md) |
+| [`entwurf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/entwurf/SKILL.md) | [`recherche-start`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/recherche-start/SKILL.md) |
+| [`formular-erzeugung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/formular-erzeugung/SKILL.md) | [`rechtsberatungsstelle-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/rechtsberatungsstelle-anpassen/SKILL.md) |
+| [`fristen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/fristen/SKILL.md) | [`rechtsberatungsstelle-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/rechtsberatungsstelle-kaltstart-interview/SKILL.md) |
+| [`leitfaden-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/leitfaden-erstellen/SKILL.md) | [`semester-uebergabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/semester-uebergabe/SKILL.md) |
+| [`mandant-aufnahme`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/mandant-aufnahme/SKILL.md) | [`status`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/rechtsberatungsstelle/skills/status/SKILL.md) |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Juristische Methodik & Ausbildung
 
-### [jurastudium](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium) (22 Skills)
+### [jurastudium](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium) · 22 Skills
 
-- [`ag-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/ag-vorbereitung)
-- [`examens-prognose`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/examens-prognose)
-- [`examensvorbereitung-fragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/examensvorbereitung-fragen)
-- [`fall-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/fall-zusammenfassung)
-- [`gliederungs-baukasten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/gliederungs-baukasten)
-- [`gutachten-uebung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/gutachten-uebung)
-- [`jurastudium-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/jurastudium-anpassen)
-- [`jurastudium-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/jurastudium-kaltstart-interview)
-- [`juristisches-schreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/juristisches-schreiben)
-- [`karteikarten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/karteikarten)
-- [`lernplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/lernplan)
-- [`lernsitzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/lernsitzung)
-- [`lernstrategien`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/lernstrategien)
-- [`loesungsschemata`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/loesungsschemata)
-- [`methodenlehre-grundlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-grundlagen)
-- [`methodenlehre-oeffentliches-recht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-oeffentliches-recht)
-- [`methodenlehre-strafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-strafrecht)
-- [`methodenlehre-zivilrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-zivilrecht)
-- [`pruefungsgespraech-ag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/pruefungsgespraech-ag)
-- [`rechtsgeschichte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/rechtsgeschichte)
-- [`subsumtionslehre`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/subsumtionslehre)
-- [`tatbestaende-lernen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/tatbestaende-lernen)
+| Skill | Skill |
+|---|---|
+| [`ag-vorbereitung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/ag-vorbereitung/SKILL.md) | [`lernsitzung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/lernsitzung/SKILL.md) |
+| [`examens-prognose`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/examens-prognose/SKILL.md) | [`lernstrategien`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/lernstrategien/SKILL.md) |
+| [`examensvorbereitung-fragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/examensvorbereitung-fragen/SKILL.md) | [`loesungsschemata`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/loesungsschemata/SKILL.md) |
+| [`fall-zusammenfassung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/fall-zusammenfassung/SKILL.md) | [`methodenlehre-grundlagen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-grundlagen/SKILL.md) |
+| [`gliederungs-baukasten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/gliederungs-baukasten/SKILL.md) | [`methodenlehre-oeffentliches-recht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-oeffentliches-recht/SKILL.md) |
+| [`gutachten-uebung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/gutachten-uebung/SKILL.md) | [`methodenlehre-strafrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-strafrecht/SKILL.md) |
+| [`jurastudium-anpassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/jurastudium-anpassen/SKILL.md) | [`methodenlehre-zivilrecht`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/methodenlehre-zivilrecht/SKILL.md) |
+| [`jurastudium-kaltstart-interview`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/jurastudium-kaltstart-interview/SKILL.md) | [`pruefungsgespraech-ag`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/pruefungsgespraech-ag/SKILL.md) |
+| [`juristisches-schreiben`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/juristisches-schreiben/SKILL.md) | [`rechtsgeschichte`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/rechtsgeschichte/SKILL.md) |
+| [`karteikarten`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/karteikarten/SKILL.md) | [`subsumtionslehre`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/subsumtionslehre/SKILL.md) |
+| [`lernplan`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/lernplan/SKILL.md) | [`tatbestaende-lernen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium/skills/tatbestaende-lernen/SKILL.md) |
 
-### [hausarbeitenmacher](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher) (22 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`aufgabenstellung-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/aufgabenstellung-erfassen)
-- [`bearbeitungsplan-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/bearbeitungsplan-erstellen)
-- [`behutsame-frech-wertschaetzende-rueckfragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/behutsame-frech-wertschaetzende-rueckfragen)
-- [`europarecht-anwendbarkeit-vorrang-vorabentscheidung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/europarecht-anwendbarkeit-vorrang-vorabentscheidung)
-- [`fachgebiet-routing-zivil-oeffentlich-straf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/fachgebiet-routing-zivil-oeffentlich-straf)
-- [`gliederung-mit-tiefenstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/gliederung-mit-tiefenstruktur)
-- [`gutachtenstil-vs-urteilsstil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/gutachtenstil-vs-urteilsstil)
-- [`haeufige-fehler-vermeiden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/haeufige-fehler-vermeiden)
-- [`hausarbeit-workflow-start`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/hausarbeit-workflow-start)
-- [`meinungsstreit-darstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/meinungsstreit-darstellen)
-- [`methodenlehre-auslegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/methodenlehre-auslegung)
-- [`oeffentliches-recht-statthaft-zulaessig-begruendet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/oeffentliches-recht-statthaft-zulaessig-begruendet)
-- [`professor-erkennen-und-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/professor-erkennen-und-strategie)
-- [`quellenrecherche-rechtsprechung-literatur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/quellenrecherche-rechtsprechung-literatur)
-- [`rechtstheorie-rechtsphilosophie-anbindung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/rechtstheorie-rechtsphilosophie-anbindung)
-- [`selbstkontrolle-vor-abgabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/selbstkontrolle-vor-abgabe)
-- [`seminararbeit-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/seminararbeit-modus)
-- [`strafrecht-tatbestand-rechtswidrigkeit-schuld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/strafrecht-tatbestand-rechtswidrigkeit-schuld)
-- [`subsumtion-schritt-fuer-schritt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/subsumtion-schritt-fuer-schritt)
-- [`verfassungsrecht-grundrechtspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/verfassungsrecht-grundrechtspruefung)
-- [`zitierweise-jura-fundstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/zitierweise-jura-fundstellen)
-- [`zivilrecht-anspruchsgrundlagen-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/zivilrecht-anspruchsgrundlagen-pruefung)
+### [hausarbeitenmacher](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher) · 22 Skills
 
-### [methodenlehre-buergerliches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/methodenlehre-buergerliches-recht) (1 Skills)
+| Skill | Skill |
+|---|---|
+| [`aufgabenstellung-erfassen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/aufgabenstellung-erfassen/SKILL.md) | [`oeffentliches-recht-statthaft-zulaessig-begruendet`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/oeffentliches-recht-statthaft-zulaessig-begruendet/SKILL.md) |
+| [`bearbeitungsplan-erstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/bearbeitungsplan-erstellen/SKILL.md) | [`professor-erkennen-und-strategie`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/professor-erkennen-und-strategie/SKILL.md) |
+| [`behutsame-frech-wertschaetzende-rueckfragen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/behutsame-frech-wertschaetzende-rueckfragen/SKILL.md) | [`quellenrecherche-rechtsprechung-literatur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/quellenrecherche-rechtsprechung-literatur/SKILL.md) |
+| [`europarecht-anwendbarkeit-vorrang-vorabentscheidung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/europarecht-anwendbarkeit-vorrang-vorabentscheidung/SKILL.md) | [`rechtstheorie-rechtsphilosophie-anbindung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/rechtstheorie-rechtsphilosophie-anbindung/SKILL.md) |
+| [`fachgebiet-routing-zivil-oeffentlich-straf`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/fachgebiet-routing-zivil-oeffentlich-straf/SKILL.md) | [`selbstkontrolle-vor-abgabe`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/selbstkontrolle-vor-abgabe/SKILL.md) |
+| [`gliederung-mit-tiefenstruktur`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/gliederung-mit-tiefenstruktur/SKILL.md) | [`seminararbeit-modus`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/seminararbeit-modus/SKILL.md) |
+| [`gutachtenstil-vs-urteilsstil`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/gutachtenstil-vs-urteilsstil/SKILL.md) | [`strafrecht-tatbestand-rechtswidrigkeit-schuld`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/strafrecht-tatbestand-rechtswidrigkeit-schuld/SKILL.md) |
+| [`haeufige-fehler-vermeiden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/haeufige-fehler-vermeiden/SKILL.md) | [`subsumtion-schritt-fuer-schritt`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/subsumtion-schritt-fuer-schritt/SKILL.md) |
+| [`hausarbeit-workflow-start`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/hausarbeit-workflow-start/SKILL.md) | [`verfassungsrecht-grundrechtspruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/verfassungsrecht-grundrechtspruefung/SKILL.md) |
+| [`meinungsstreit-darstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/meinungsstreit-darstellen/SKILL.md) | [`zitierweise-jura-fundstellen`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/zitierweise-jura-fundstellen/SKILL.md) |
+| [`methodenlehre-auslegung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/methodenlehre-auslegung/SKILL.md) | [`zivilrecht-anspruchsgrundlagen-pruefung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hausarbeitenmacher/skills/zivilrecht-anspruchsgrundlagen-pruefung/SKILL.md) |
 
-- [`methodenlehre-anwenden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/methodenlehre-buergerliches-recht/skills/methodenlehre-anwenden)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-### [zitierweise-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zitierweise-deutsches-recht) (1 Skills)
+### [methodenlehre-buergerliches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/methodenlehre-buergerliches-recht) · 1 Skills
 
-- [`zitierweise-anwenden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zitierweise-deutsches-recht/skills/zitierweise-anwenden)
+| Skill | Skill |
+|---|---|
+| [`methodenlehre-anwenden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/methodenlehre-buergerliches-recht/skills/methodenlehre-anwenden/SKILL.md) |  |
 
-### [einfache-leichte-sprache-jura](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura) (5 Skills)
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-- [`elsj-einfache-sprache`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-einfache-sprache)
-- [`elsj-juristische-sicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-juristische-sicherung)
-- [`elsj-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-kommandocenter)
-- [`elsj-leichte-sprache`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-leichte-sprache)
-- [`elsj-qualitaetsgate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-qualitaetsgate)
+### [zitierweise-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zitierweise-deutsches-recht) · 1 Skills
+
+| Skill | Skill |
+|---|---|
+| [`zitierweise-anwenden`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/zitierweise-deutsches-recht/skills/zitierweise-anwenden/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+### [einfache-leichte-sprache-jura](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura) · 5 Skills
+
+| Skill | Skill |
+|---|---|
+| [`elsj-einfache-sprache`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-einfache-sprache/SKILL.md) | [`elsj-leichte-sprache`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-leichte-sprache/SKILL.md) |
+| [`elsj-juristische-sicherung`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-juristische-sicherung/SKILL.md) | [`elsj-qualitaetsgate`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-qualitaetsgate/SKILL.md) |
+| [`elsj-kommandocenter`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/einfache-leichte-sprache-jura/skills/elsj-kommandocenter/SKILL.md) |  |
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ---
 
