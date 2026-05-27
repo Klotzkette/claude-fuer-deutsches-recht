@@ -44,7 +44,6 @@ description: "Krypto-Assets in der Insolvenz Massezugehoerigkeit Aussonderung un
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Massezugehörigkeit: Krypto-Assets des Schuldners zur Masse? Immer ja sofern im Eigentum | § 35 InsO | Masse; Verwalter erhält Verfügungsbefugnis § 80 InsO |
@@ -152,7 +151,6 @@ IV. Steuerliche Folgen:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-
 ## Beweislast
 
 | Frage | Beweislast |
@@ -229,7 +227,6 @@ Erzwingungshaft-Verfahren: Gerichtsgebühren gering (ca. 150–300 EUR); Hauptko
 - US Bankruptcy Court SDNY, In re FTX Trading Ltd., 22-11068 (2022/2023)
 - Uhlenbruck/Sinz, InsO, 15. Aufl., § 35 Rn. 30 ff. (Digitale Assets)
 - Chainalysis Blockchain Analytics Platform (forensische Wallet-Analyse)
-
 
 ## Triage — Krypto-Insolvenzeinsatz
 

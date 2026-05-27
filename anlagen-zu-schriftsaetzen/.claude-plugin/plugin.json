@@ -1,6 +1,6 @@
 {
   "name": "anlagen-zu-schriftsaetzen",
-  "version": "17.5.0",
+  "version": "17.5.1",
   "description": "Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik; konvertiert alles nach PDF; benennt beA-konform; stempelt oben rechts Anlage K1/B1/A1 in Arial 12; baut Anlagenkonvolut; Prüfmodus für bereits zugeordnete Anlagen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

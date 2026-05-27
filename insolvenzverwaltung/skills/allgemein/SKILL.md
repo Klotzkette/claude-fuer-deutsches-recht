@@ -129,7 +129,5 @@ Besonderer Schwerpunkt liegt auf dem mehrstufigen Insolvenzplan: Das Plugin enth
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
-- InsO in der durch das SanInsFoG geaenderten Fassung
+- InsO in der geltenden Fassung; bei Anfechtung zusätzlich Reform 2017 und Übergangsrecht prüfen
 - StaRUG (Gesetz zur Fortentwicklung des Sanierungs- und Insolvenzrechts)
-
-<!-- AUDIT 27.05.2026 | welle 5a | neuer allgemein-Skill (Pattern: selbstvertreter-orientierung) -->

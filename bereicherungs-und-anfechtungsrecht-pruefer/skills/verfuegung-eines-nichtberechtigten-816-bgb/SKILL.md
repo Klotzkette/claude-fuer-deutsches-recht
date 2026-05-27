@@ -84,18 +84,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
----
-
-<!-- AUDIT 27.05.2026 -->
-## Audit-Hinweise (27.05.2026)
-
-**Halluzinations-Reparatur task_040 durchgeführt.**
-
-| AZ (original) | Befund | Maßnahme |
-|---|---|---|
-| BGH XI ZR 159/94 | WRONG\_TOPIC: Echtes Thema Inhaberverrechnungsscheck (NJW 1995, 3315), nicht § 816 Abs. 1 S. 2 BGB. Kein geeigneter Ersatzfall auf dejure.org verifiziert. | Ersatzlos gelöscht |
-| BGH XI ZR 488/14 | WRONG\_TOPIC: Echtes Thema SchVG/SolarWorld (NJW 2016, 1175), nicht Bereicherungsanspruch § 816 BGB. In dieser Datei nicht gefunden (ggf. nie eingetragen). | Kein Eintrag in Datei vorgefunden; keine Änderung erforderlich |
-| BGH IX ZR 31/11 | Nicht existent: dejure.org meldet "Nichts gefunden" für BGH IX ZR 31/11 vom 18.11.2011. | Gelöscht; ersetzt durch BGH IX ZR 171/14 (22.10.2015, NJW 2016, 405) — verifiziert auf dejure.org, betrifft § 816 Abs. 2 BGB (Sicherungszession/Doppelabtretung) |
-
-Prüfmethode: dejure.org-Abfrage per URL für jedes Aktenzeichen. Ersatzfall durch dejure.org-Rechtsprechungsliste zu § 816 BGB ermittelt und bestätigt.

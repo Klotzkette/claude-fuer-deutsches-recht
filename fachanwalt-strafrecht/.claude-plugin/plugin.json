@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-strafrecht",
-  "version": "17.5.0",
+  "version": "17.5.1",
   "description": "Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {

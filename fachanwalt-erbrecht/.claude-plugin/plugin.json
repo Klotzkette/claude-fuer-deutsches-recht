@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-erbrecht",
-  "version": "17.5.0",
+  "version": "17.5.1",
   "description": "Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -94,7 +94,6 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
 5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
 
-
 ## Verhandlungs-Skripte
 
 ### Skript 1: Eroeffnung mit Ankerwert
@@ -156,12 +155,11 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
-
 ## Aktuelle Leitentscheidungen — Vergleich im Insolvenz-Kontext
 
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungsvergleich schliiesst Vorsatzanfechtung aus wenn ex ante schlueissiges Sanierungskonzept (IDW S 6 Qualitaet) vorliegt und ernsthafter Sanierungsversuch unternommen wurde.
-- BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Ratenzahlungsvereinbarung mit Glaeubiger in der Krise = Kenntnis-Indiz fuer § 130 InsO; Vergleich loest kein Bargeschaeft aus (kein zeitgleicher Leistungsaustausch).
-- BGH, Urt. v. 03.03.2022 — IX ZR 254/20, NZI 2022, 444 — Bargeschaeft § 142 InsO bei Ratenzahlung ausgeschlossen; max. 30-Tage-Frist Leistung/Gegenleistung streng; Vergleichszahlung nur Bargeschaeft wenn Gegenwert sofort fliesist.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20 — § 133 InsO verlangt eine einzelfallbezogene Gesamtwürdigung; erkannte Zahlungsunfähigkeit allein trägt die subjektiven Voraussetzungen nicht schematisch.
+- BGH, Urt. v. 03.03.2022 — IX ZR 78/20 — Ein Sanierungsversuch kann gegen Benachteiligungsvorsatz sprechen; der Verwalter muss Untauglichkeit und entsprechende Kenntnis darlegen und beweisen.
+- Vergleichsregel: Raten- oder Stundungsvergleiche in der Krise sind anfechtungsanfällig und regelmäßig kein Bargeschäft ohne unmittelbare gleichwertige neue Gegenleistung; § 142 InsO nicht mit einer starren 30-Tage-Regel anwenden.
 
 ## Paragrafenkette Vergleich
 
@@ -173,13 +171,3 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 2. **Vollstreckungsrisiko?** Gegenseite in der Krise → Sofort-Zahlung bevor Insolvenzverfahren eroeffnet wird.
 3. **Steuerliche Behandlung?** Vergleich ueber Lohnforderungen → Lohnsteuer + SV-Abzug bleibt bestehen; Schadensersatz-Vergleich keine USt.
 4. **Mandantenfreigabe?** Schriftliche Freigabe des Mandanten vor Unterzeichnung (Vollmachtsumfang § 83 ZPO).
-
-<!-- AUDIT 27.05.2026 | Bundle 022 | Task 5
-AZ: BGH IX ZR 105/08
-Status: WRONG_TOPIC
-Befund: Laut dejure.org (dejure.org/2010,12704) betrifft IX ZR 105/08 vom 18.03.2010
-Steuerberater-/Anwaltshaftung (Beratungspflichten, Aufklärungspflicht, Beweislast
-beim Berater) – nicht Prozessvergleich § 794 ZPO / Widerrufsvorbehalt.
-NJW 2010, 2277 ist ebenfalls nicht dieser Entscheidung zuzuordnen.
-Maßnahme: Zeile aus Abschnitt "Aktuelle Leitentscheidungen" gelöscht.
--->

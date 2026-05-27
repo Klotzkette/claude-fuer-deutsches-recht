@@ -1,85 +1,113 @@
 ---
 name: iv-anfechtung-129ff
-description: "Insolvenzanfechtungsansprüche nach §§ 129 ff. InsO prüfen und verfolgen wenn Zahlungen oder Sicherheiten vor Insolvenzantrag verdaechtig sind. §§ 130 131 133 135 InsO Deckungsanfechtung Vorsatzanfechtung Bargeschäft. Prüfraster: Tatbestand Frist Empfaengerkenntnis Gegenleistung Anspruchshoehe Vergleichspotenzial. Output: Anfechtungsschreiben Klageentwurf Vergleichsrechnung. Abgrenzung: nicht für § 15b-Haftungsklagen (iv-zahlungsklagen-15b) oder allgemeine Forderungsprüfung."
+description: "Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146 und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen."
 ---
 
 # Insolvenzanfechtung §§ 129 ff. InsO
 
 ## Aufgabe
 
-Prüft und verfolgt Insolvenzanfechtungsansprüche strukturiert aus Verwaltersicht.
-
-Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Material fehlt, fragt er gezielt nach oder erzeugt einen klar markierten Simulations- bzw. Platzhalterstand.
+Dieser Skill prüft und verfolgt Insolvenzanfechtungsansprüche aus Sicht des Insolvenzverwalters. Er kann Schuldnerakten KI-gestützt vorsortieren, ersetzt aber keine fachliche Endprüfung bei wertenden Fragen.
 
 ## Startet bei
 
-- Zahlungen oder Sicherheiten vor Antrag verdächtig sind
-- Anfechtungsschreiben oder Klage vorbereitet wird
-- Vergleichsverhandlungen mit Anfechtungsgegnern laufen
+- Zahlungen, Sicherheiten oder Verrechnungen vor Insolvenzantrag auffällig sind.
+- Kontoauszüge, OPOS, E-Mails und Schuldnerakten auf Anfechtungskandidaten durchsucht werden sollen.
+- Anfechtungsschreiben, Klage, Vergleich oder Gläubigerausschuss-Vorlage vorbereitet wird.
 
 ## Eingaben
 
-- Zahlungsjournal, OPOS, Kontoauszüge
-- Kommunikation, Mahnungen, Ratenvereinbarungen
-- Insolvenzreife-Zeitpunkt und Gläubigerkenntnis
+- Antragsdatum, Eröffnungsbeschluss und Verwalterbestellung.
+- Kontoauszüge, Zahlungsjournal, OPOS, Kreditoren-/Debitorenkonten.
+- Verträge, Sicherheiten, Ratenzahlungsvereinbarungen, Mahnungen, Vollstreckungen.
+- Unterlagen zu Zahlungsunfähigkeit, Sanierung, Liquiditätsstatus und Gesellschafterfinanzierung.
 
 ## Workflow
 
-1. **Sachverhalt clustern** - Zahlung, Rechtshandlung, Datum, Gegenleistung, Kenntnisindizien und Empfänger erfassen.
-2. **Tatbestand wählen** - §§ 130 bis 135 InsO, § 133 InsO und Bargeschäft sauber trennen.
-3. **Anspruch rechnen** - Hauptforderung, Zinsen, Gegenrechte, Durchsetzbarkeit und Vergleichsanker berechnen.
-4. **Output** - Anfechtungsschreiben, Klagegerüst oder Vergleichsvorlage erstellen.
+### 1. KI-Screening nur beleggebunden
+
+Erstelle eine Kandidatenliste aus der Akte. Jede Tatsache braucht eine Quelle.
+
+| ID | Datum | Empfänger | Betrag | Vorgang | Quelle | Erstnorm |
+|---|---:|---|---:|---|---|---|
+| IA-001 | [...] | [...] | [...] EUR | Zahlung | Kontoauszug [...] | § 130 InsO |
+
+KI darf Kandidaten markieren und Belege sortieren. KI darf insbesondere bei § 133 InsO keinen Benachteiligungsvorsatz als bewiesen behaupten, sondern nur Indizien und Gegenindizien ausgeben.
+
+### 2. Tatbestandsrouting
+
+| Sachverhalt | Norm |
+|---|---|
+| geschuldete Sicherung oder Befriedigung | § 130 InsO |
+| nicht geschuldete, nicht so geschuldete oder vorzeitige Deckung | § 131 InsO |
+| unmittelbar nachteilige Nicht-Deckungshandlung | § 132 InsO |
+| Benachteiligungsvorsatz und Kenntnis | § 133 InsO |
+| objektiv unentgeltliche Leistung | § 134 InsO |
+| Gesellschafterdarlehen oder gleichgestellte Forderung | § 135 InsO |
+| gleichwertiger unmittelbarer Austausch | § 142 InsO als Verteidigung |
+| Rückgewähr, Gegenleistung, Rechtsnachfolger, Verjährung | §§ 143-147 InsO |
+
+### 3. § 133 Human Review
+
+Bei § 133 InsO zwingend getrennt ausgeben:
+
+- belegte Zahlungsunfähigkeit oder drohende Zahlungsunfähigkeit.
+- Kenntnis des Empfängers.
+- Sanierungs- oder Vollbefriedigungsperspektive.
+- Zahlungsvereinbarung und § 133 Abs. 3 S. 2 InsO.
+- Bargeschäft und erkannte Unlauterkeit nach § 142 InsO.
+
+BGH, Urt. v. 06.05.2021 — IX ZR 72/20: keine schematische Herleitung der subjektiven Voraussetzungen allein aus erkannter Zahlungsunfähigkeit.
+
+BGH, Urt. v. 03.03.2022 — IX ZR 78/20: Bei Sanierungsversuchen muss der Verwalter Untauglichkeit und entsprechende Erkenntnis des Schuldners darlegen und beweisen.
+
+BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Ein außenstehender Dritter muss einen nicht näher belegten Liquiditätsstatus nicht ohne Weiteres im Einzelnen bestreiten.
+
+### 4. Dreiecksverhältnisse markieren
+
+Human Review ist zwingend bei:
+
+- Drittzahlungen, Cash-Pooling, Zentralregulierung.
+- Factoring, Globalzession, Kontokorrent, Aufrechnung.
+- Drittdarlehen mit Gesellschaftersicherheit.
+- Treuhand, Anderkonto, Sicherheitenpool.
+
+Die Ausgabe muss dann Beteiligte, Forderungswege, Vermögensabfluss und offene Rechtsfragen getrennt darstellen.
+
+### 5. Anspruch und Wirtschaftlichkeit
+
+Rechne nicht nur den Nominalbetrag. Prüfe:
+
+- Rückgewährbetrag nach § 143 InsO.
+- Zinsen nur bei Verzug oder nach § 291 BGB.
+- Gegenleistung und Wiederaufleben nach § 144 InsO.
+- Verjährung nach § 146 InsO in Verbindung mit BGB.
+- Prozesskosten, Beweisrisiko und Vergleichskorridor.
+
+BGH, Urt. v. 27.07.2023 — IX ZR 138/21: Grob fahrlässige Unkenntnis des Verwalters setzt eine besonders schwere Vernachlässigung seiner Ermittlungspflichten voraus.
 
 ## Ausgabe
 
-- Anfechtungsmatrix
-- Anspruchsberechnung
-- Schreiben oder Klagegerüst
+- Anfechtungsmatrix.
+- Beleg- und Lückenliste.
+- Anspruchsberechnung.
+- Entwurf Anfechtungsschreiben oder Klagegerüst.
+- Human-Review-Liste für § 133 und komplexe Strukturen.
 
 ## Qualitätsgates
 
-- kein Tatbestand ohne Zeitraum
-- Kenntnisindizien belegbasiert
-- Bargeschäft gesondert geprüft
-
-## Rote Schwellen
-
-- drohende Verjährung
-- unvollständige Kontoauszüge
-- wirtschaftlich sinnloser Prozess
+- kein Tatbestand ohne Rechtshandlungsdatum.
+- keine § 130-Prüfung ohne Kenntnisblock.
+- keine § 133-Bewertung ohne Indizien- und Gegenindizienmatrix.
+- kein Bargeschäft ohne Gegenleistung und Unmittelbarkeit.
+- keine Zinsen ohne Verzug oder Rechtshängigkeit.
+- keine finale KI-Bewertung bei Dreiecksverhältnis.
 
 ## Interne Vorlagen
 
-- assets/templates/anfechtungsmatrix-129ff.md
-- assets/templates/anfechtungsschreiben.md
+- `assets/templates/anfechtungsmatrix-129ff.md`
+- `assets/templates/anfechtungsschreiben.md`
 
-## Amtliche Erstquellen
+---
 
-- §§ 129 bis 147 InsO
-- § 146 InsO
-
-
-## Rechtliche Grundlagen und BGH-Leitentscheidungen
-
-- BGH, Urt. v. 19.02.2009 — IX ZR 2/08, NZI 2009, 389 — Verwalterhaftung § 60 InsO: IV haftet persoenlich fuer schuldhafte Pflichtverletzungen; Massstab ordentlicher und gewissenhafter Insolvenzverwalter; Glaeubigerausschuss muss informiert werden.
-- BGH, Urt. v. 22.09.2005 — IX ZB 55/04 — Verwalterpflichten Betriebsfortfuehrung: IV haftet fuer Verluste aus pflichtwidrig fortgefuehrtem Betrieb; Massebeeintraechtigung verboten; Fortfuehrungsentscheidung muss dokumentiert sein.
-- BGH, Urt. v. 08.10.2009 — IX ZR 178/08, NZI 2010, 51 — Zusammenarbeit mit Glaeubigerausschuss: IV muss § 69 InsO-Berichte zeitgerecht erstatten; Zustimmung § 160 InsO bei bedeutsamen Massnahmen einholen; Pflichtverletzung = Haftung § 60.
-- BGH, Urt. v. 25.09.2014 — IX ZR 252/13, NZI 2015, 31 — Dokumentationspflichten: IV muss alle Verwaltungshandlungen dokumentieren; nachtraegliche Rekonstruktion heilt Luecken nicht; Schlussrechnung § 66 InsO muss vollstaendig und richtig sein.
-
-## Paragrafenkette Insolvenzverwaltung
-
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persoenliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Massnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
-
-## Triage — Verfahrensstand
-
-Bevor losgelegt wird, klaere:
-1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
-2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Glaeubigerausschuss oder -versammlung einbeziehen.
-4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
-
-## Kommentarliteratur
-
-- MüKo InsO/Ganter §§ 56-66 InsO — Insolvenzverwalter-Recht.
-- Uhlenbruck/Zipperer §§ 60-61 InsO — Verwalterhaftung im Detail.
-- Jaeger/Gerhardt § 66 InsO — Rechnungslegung und Schlussrechnung.
+Hinweis: Keine Rechtsberatung. Die KI kann Anfechtungsrisiken aus Akten sichtbar machen; die rechtliche Endentscheidung bleibt Fachprüfung.

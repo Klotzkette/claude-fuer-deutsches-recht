@@ -95,13 +95,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 78/86 (als Urt. v. 17.03.1987 zitiert) geloescht: WRONG_TOPIC + falsche
-Fundstelle. Echtes Urteil (11.12.1986) behandelt Anfechtbarkeit der Vorausabtretung
-von Arbeitseinkommen (AnfG § 3, KO § 30/31) — kein Bezug zu § 813 BGB oder
-Verjaehrungseinrede. Zudem ist die Verjaehrungseinrede nach §§ 813 Abs. 1 S. 2,
-214 Abs. 2 BGB ausdruecklich ausgeschlossen (Kondiktionssperre). Falsche Rechtsaussage
-im Skill. NJW 1987, 1758 nicht verifizierbar; echtes Urteil hat NJW 1987, 1268.
-Verifiziert via dejure.org. Kein Ersatz ergaenzt.
--->

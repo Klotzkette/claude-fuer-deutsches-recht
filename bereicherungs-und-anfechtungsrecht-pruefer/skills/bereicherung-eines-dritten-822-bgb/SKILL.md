@@ -89,8 +89,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
----
-
-<!-- AUDIT 27.05.2026 -->
-> **Audit-Hinweis (27.05.2026):** BGH VI ZR 246/76 (NJW 1978, 1374) entfernt. Tatsaechliches Thema dieses Urteils: Klage auf Unterlassung/Widerruf schaedigender Aeusserungen, Zivilrechtsweg vs. Verwaltungsrechtsweg bei behoerdlichen Pressemitteilungen (NJW 1978, 1860) — kein Bezug zu § 822 BGB. Quelle: dejure.org/1978,533.

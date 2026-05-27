@@ -76,7 +76,6 @@ description: "Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fa
 - **`fachanwalt-arbeitsrecht`** bei §§ 113, 125 ff. InsO und Insolvenzgeld.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Geschäftsführerhaftung § 15b InsO (§ 64 GmbHG aufgehoben durch SanInsFoG zum 01.01.2021).
 
-
 ## Triage — Erste Einordnung des Mandats
 
 Bevor losgelegt wird, klaere:
@@ -91,7 +90,7 @@ Bevor losgelegt wird, klaere:
 
 - BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 Rn. 14 ff. — Zahlungsunfaehigkeit § 17 InsO: 10%-Liquiditaetslueeke indiziert ZU wenn keine Beseitigung innerhab von 3 Wochen absehbar; Stundungsvereinbarungen und ernsthaft angebotene Darlehen heilen ZU.
 - BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 S. 1 InsO: modifizierter zweistufiger Ueberschuldungsbegriff; erste Stufe Reinvermoegen negativ, zweite Stufe positive Prognose heilt Ueberschuldung; Prognosehorizont mindestens 12 Monate.
-- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vorsatzanfechtung § 133 InsO nach SanInsFoG-Reform 01.01.2021: blosse Kenntnis drohender Zahlungsunfaehigkeit kein Beweisanzeichen fuer Benachteiligungsvorsatz mehr; konkrete Bedrohungslage im Zeitpunkt der Rechtshandlung erforderlich.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20 — Vorsatzanfechtung § 133 InsO nach der Anfechtungsreform 2017 und der neueren BGH-Linie: subjektive Voraussetzungen nicht schematisch allein aus erkannter Zahlungsunfähigkeit ableiten; Gesamtwürdigung mit Gegenindizien erforderlich.
 
 ## Kommentarliteratur (Primaerquellen Insolvenzrecht)
 

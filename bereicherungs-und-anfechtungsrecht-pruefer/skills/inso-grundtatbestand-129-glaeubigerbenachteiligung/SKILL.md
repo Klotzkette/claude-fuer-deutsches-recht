@@ -12,6 +12,7 @@ description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klae
 3. Liegt eine Rechtshandlung (rechtlich wirksames Handeln/Unterlassen) oder ein bloßer Tatsachenakt vor?
 4. Sind die Befriedigungsaussichten der Insolvenzgläubiger durch die Handlung tatsächlich verschlechtert worden?
 5. Handelt es sich um unmittelbare oder mittelbare Benachteiligung?
+6. Sind alle Tatsachen aus der Akte belegt, oder handelt es sich um KI-Inferenz?
 
 ## Zentrale Normen
 
@@ -63,9 +64,13 @@ Die Rechtshandlung muss vor Eröffnung des Insolvenzverfahrens vorgenommen worde
 
 Die Rechtshandlung muss kausal für die Benachteiligung sein: Wären die Gläubiger ohne die Handlung besser gestellt?
 
+## KI-Auswertung von Schuldnerakten
+
+Bei KI-gestützter Aktenauswertung darf § 129 InsO nur als Kandidat markiert werden, wenn Rechtshandlung, Zeitpunkt, Vermögensabfluss und Gläubigerbenachteiligung jeweils mit einer Quelle belegt sind. Nicht belegte Plausibilitäten werden als Lücke ausgegeben, nicht als Tatsache.
+
 ## Anfechtungsberechtigte
 
-Nur der Insolvenzverwalter, der Sachwalter (§ 270b InsO) oder der starke vorläufige Insolvenzverwalter (§ 21 Abs. 2 S. 1 Nr. 1 InsO).
+Regelmäßig macht der Insolvenzverwalter die Anfechtung geltend. In Eigenverwaltung ist § 280 InsO zu beachten; dort kann der Sachwalter Rechtshandlungen nach §§ 129 bis 147 InsO anfechten. Bei vorläufiger Verwaltung ist die konkrete gerichtliche Anordnung zu prüfen.
 
 ## Prüfschema
 
@@ -95,12 +100,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 239/04 (als Urt. v. 16.11.2006 zitiert) geloescht: WRONG_TOPIC.
-Echtes Urteil existiert auf dejure.org (16.11.2006) und behandelt Anwendbarkeit
-der Verjaehrungsfrist § 146 InsO auf Altfaelle — kein Urteil zur Glaeubigerbenachteiligung
-als Tatbestandsmerkmal des § 129 InsO. NJW 2007, 1129 ist auf dejure.org nicht
-verzeichnet (dejure zeigt NJW 2007, 436). Falsche Fundstelle und WRONG_TOPIC.
-Verifiziert via dejure.org. Kein Ersatz ergaenzt.
--->

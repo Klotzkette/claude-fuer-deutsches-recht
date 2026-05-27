@@ -1,93 +1,84 @@
 ---
 name: inso-kongruente-deckung-130
-description: "Kongruente Deckungsanfechtung nach § 130 InsO prüfen: Sicherung oder Befriedigung in den letzten drei Monaten. Normen: § 130 InsO. Prüfraster: Zahlungsunfähigkeit, Kenntnis des Anfechtungsgegners, Drei-Monats-Frist. Output: Prüfergebnis Anfechtbarkeit kongruente Deckung mit Kenntnisnachweisen. Abgrenzung: nicht § 131 InsO (inkongruente Deckung)."
+description: "Kongruente Deckungsanfechtung nach § 130 InsO prüfen: geschuldete Sicherung oder Befriedigung, Drei-Monats-Zeitraum vor Insolvenzantrag oder Handlung nach Antrag, Zahlungsunfähigkeit, Kenntnis oder zwingende Kenntnisumstände, Margensicherheiten-Ausnahme, Abgrenzung zu § 131 und § 142 InsO. Output: beleggestützte Anspruchsmatrix."
 ---
 
 # Kongruente Deckung — § 130 InsO
 
 ## Triage — kläre vor der Prüfung
 
-1. Konnte der Anfechtungsgegner die erlangte Sicherung oder Befriedigung in dieser Art und zu diesem Zeitpunkt beanspruchen (kongruent = kein § 131 InsO)?
-2. In welchem Zeitraum vor dem Insolvenzantrag wurde die Handlung vorgenommen — letzter Monat oder 2.–3. Monat?
-3. Lag Zahlungsunfähigkeit des Schuldners (§ 17 InsO) objektiv vor?
-4. Kannte der Anfechtungsgegner die Zahlungsunfähigkeit (bei 2.–3. Monat zwingend)?
-5. Kommt § 131 InsO (inkongruente Deckung) als schärfere Norm in Betracht?
+1. Konnte der Gläubiger die Sicherung oder Befriedigung **in dieser Art und zu dieser Zeit** beanspruchen?
+2. Wurde die Handlung in den letzten drei Monaten vor dem Eröffnungsantrag oder nach dem Antrag vorgenommen?
+3. War der Schuldner zum Zeitpunkt der Handlung zahlungsunfähig?
+4. Kannte der Gläubiger die Zahlungsunfähigkeit oder den Eröffnungsantrag?
+5. Kann die Kenntnis aus Umständen abgeleitet werden, die zwingend auf Zahlungsunfähigkeit oder Antrag schließen lassen?
+6. Greift die Margensicherheiten-Ausnahme in § 130 Abs. 1 S. 2 InsO?
+7. Ist § 142 InsO als Bargeschäftsverteidigung zu prüfen?
 
 ## Zentrale Normen
 
-§ 130 InsO (kongruente Deckung) — § 129 InsO (Grundtatbestand) — § 131 InsO (inkongruente Deckung, schärfer) — § 142 InsO (Bargeschäftsprivileg) — § 143 InsO (Rückgewähr) — § 17 InsO (Zahlungsunfähigkeit) — § 133 InsO (Vorsatzanfechtung)
+§ 130 InsO — § 129 InsO — § 131 InsO — § 138 InsO — § 140 InsO — § 142 InsO — § 143 InsO — § 17 InsO.
 
-## Rechtsprechung
+## Gesetzliche Struktur
 
-BGH, Urt. v. 25.02.2016 – IX ZR 109/15, NJW 2016, 1379 — § 130 InsO setzt für die erste Fallgruppe (letzter Monat) nur die objektive Zahlungsunfähigkeit voraus; die Kenntnis des Anfechtungsgegners ist für Nr. 1 nicht erforderlich.
+§ 130 Abs. 1 InsO betrifft kongruente Deckungen: Der Gläubiger erhält eine Sicherung oder Befriedigung, die er beanspruchen konnte.
 
-BGH, Urt. v. 07.05.2015 – IX ZR 95/14, NJW 2015, 2181 — Im zweiten und dritten Monat vor Insolvenzantrag ist nach § 130 Abs. 1 Nr. 2 InsO positive Kenntnis des Anfechtungsgegners von der Zahlungsunfähigkeit oder von Umständen erforderlich, die zwingend auf die Zahlungsunfähigkeit schließen lassen.
+| Fall | Zeitraum | Zusatzvoraussetzung |
+|---|---|---|
+| § 130 Abs. 1 S. 1 Nr. 1 InsO | letzte drei Monate vor Eröffnungsantrag | Schuldner zahlungsunfähig und Gläubiger kannte Zahlungsunfähigkeit |
+| § 130 Abs. 1 S. 1 Nr. 2 InsO | nach Eröffnungsantrag | Gläubiger kannte Zahlungsunfähigkeit oder Eröffnungsantrag |
+| § 130 Abs. 2 InsO | Kenntnisersatz | Kenntnis zwingender Umstände genügt |
+| § 130 Abs. 3 InsO | nahestehende Person | Kenntnis wird vermutet |
 
-BGH, Urt. v. 14.07.2016 – IX ZR 188/15, NJW-RR 2017, 231 — Einstellung der Zahlungen i.S.d. § 17 Abs. 2 S. 2 InsO begründet die Vermutung der Zahlungsunfähigkeit; der Schuldner und Anfechtungsgegner tragen die Darlegungs- und Beweislast für das Gegenteil.
+Alte Merksätze, nach denen im letzten Monat keine Kenntnis erforderlich sei, gehören zu § 131 InsO und dürfen nicht auf § 130 InsO übertragen werden.
 
-## Kommentarliteratur
+## Abgrenzung
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 130 Rn. 1–65 (Kongruenz, Fristen, Kenntnis).
-Gehrlein in: Uhlenbruck, InsO, 15. Aufl. 2023, § 130 Rn. 1–50 (Zahlungsunfähigkeit, Abgrenzung § 131).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, § 130 Rn. 55–70 (Bargeschäftsausnahme).
+| Frage | Wenn ja | Wenn nein |
+|---|---|---|
+| Leistung war geschuldet und fällig? | § 130 InsO möglich | § 131 InsO prüfen |
+| Sicherung war vertraglich vorab vereinbart? | eher § 130 InsO | nachträgliche Sicherheit oft § 131 InsO |
+| Austausch gleichwertig und unmittelbar? | § 142 InsO prüfen | Deckungsanfechtung bleibt offen |
+| längerer Zeitraum oder Vorsatzindizien? | § 133 InsO zusätzlich prüfen | bei drei Monaten bleiben §§ 130/131 Hauptpfad |
 
-## Obersatz
+## Kenntnisprüfung
 
-Anfechtbar sind nach § 130 Abs. 1 InsO Rechtshandlungen, die einem Insolvenzgläubiger eine Sicherung oder Befriedigung gewährt oder ermöglicht haben, die dieser beanspruchen konnte (kongruente Deckung), wenn die zeitlichen und subjektiven Voraussetzungen erfüllt sind.
+Die Kenntnis darf nicht behauptet werden. Sie braucht konkrete Belege:
 
-## Tatbestandsmerkmale
+- Mahnungen mit offener Zahlungsstockung.
+- Rücklastschriften, Pfändungen, Vollstreckungsversuche.
+- Zahlungsvereinbarungen und Stundungsbitten.
+- interne Vermerke des Gläubigers über Krise oder drohenden Forderungsausfall.
+- öffentliche Insolvenzantragsinformationen, soweit wirklich bekannt.
 
-### 1. Kongruente Deckung
-
-Der Gläubiger erhält genau das, was ihm in dieser Art und zu diesem Zeitpunkt zustand. Kein Fall von § 131 InsO.
-
-### 2. Zeitlicher Rahmen
-
-**Letzter Monat vor Antrag (§ 130 Abs. 1 Nr. 1):** Zahlungsunfähigkeit muss objektiv vorgelegen haben.
-
-**Zweiter und dritter Monat (§ 130 Abs. 1 Nr. 2):** Zusätzlich Kenntnis des Anfechtungsgegners von der Zahlungsunfähigkeit.
-
-### 3. Zahlungsunfähigkeit (§ 17 InsO)
-
-Schuldner kann fällige Zahlungspflichten nicht erfüllen; Vermutung bei Zahlungseinstellung.
-
-### 4. Kenntnis (bei Nr. 2)
-
-Positive Kenntnis oder Kenntnis von zwingend darauf schließen lassenden Umständen.
+Keine automatische Kenntnis folgt aus normalem Zahlungsverzug, einzelnen Mahnungen oder bloßer Branchenkenntnis.
 
 ## Prüfschema
 
-1. Kongruenz festgestellt (kein § 131)?
-2. Frist: letzter Monat (Nr. 1) oder 2.–3. Monat (Nr. 2)?
-3. Zahlungsunfähigkeit objektiv nachgewiesen?
-4. Bei Nr. 2: Kenntnis des Anfechtungsgegners?
-5. Bargeschäftsprivileg (§ 142 InsO) ausschließen?
+1. Rechtshandlung und Zeitpunkt nach § 140 InsO bestimmen.
+2. Kongruenz feststellen.
+3. Zeitraum: letzte drei Monate vor Antrag oder nach Antrag.
+4. Zahlungsunfähigkeit zum Zeitpunkt der Handlung belegen.
+5. Kenntnis oder zwingende Umstände beim Gläubiger belegen.
+6. Nahestehende Person und Vermutung nach § 130 Abs. 3 InsO prüfen.
+7. § 142 InsO und § 133 InsO als Gegen- oder Zusatzprüfung markieren.
 
 ## Output-Template
 
 **Prüfung § 130 InsO — Kongruente Deckung**
 
-Sachverhalt (kurz): [...]
+| Merkmal | Ergebnis | Beleg |
+|---|---|---|
+| Rechtshandlung | [...] | [...] |
+| Zeitpunkt nach § 140 InsO | [...] | [...] |
+| Kongruente Sicherung/Befriedigung | ja/nein | [...] |
+| Zeitraum | vor Antrag/nach Antrag | [...] |
+| Zahlungsunfähigkeit | ja/nein/offen | [...] |
+| Kenntnis oder zwingende Umstände | ja/nein/offen | [...] |
+| § 142 InsO | greift/greift nicht/offen | [...] |
 
-| Merkmal | Ergebnis |
-|---|---|
-| Kongruenz bestätigt (kein § 131 InsO) | ja / nein |
-| Zeitraum vor Insolvenzantrag | letzter Monat (Nr. 1) / 2.–3. Monat (Nr. 2) |
-| Zahlungsunfähigkeit § 17 InsO | ja: [Indizien] / nein |
-| Kenntnis Anfechtungsgegner (Nr. 2) | ja / nein / entbehrlich (Nr. 1) |
-| Bargeschäftsprivileg § 142 | nein → Anfechtung möglich |
-
-**Ergebnis:** Anfechtung nach § 130 Abs. 1 Nr. [...] InsO [begründet / unbegründet].
+**Ergebnis:** § 130 InsO [naheliegend / nicht naheliegend / offen wegen Beleglücke].
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 208/15 (als Urt. v. 22.09.2016 zitiert) geloescht: WRONG_TOPIC.
-Echtes Urteil IX ZR 208/15 mit Datum 12.05.2016 behandelt Formerfordernisse des
-§ 3a RVG (anwaeltliche Verguetungsvereinbarung) — kein Bezug zu Bargeschaeftsprivileg
-oder § 130 InsO. Datum 22.09.2016 + IX ZR 208/15 laut dejure.org nicht vorhanden.
-NJW 2017, 250 gehoert zu BGH VI ZR 536/15 (Fondshaftung § 826 BGB).
-Verifiziert via dejure.org. Kein Ersatz ergaenzt.
--->
+Hinweis: Keine Rechtsberatung. § 130 InsO nie ohne Kenntnisprüfung bejahen; die Kenntnis gehört zum Tatbestand.

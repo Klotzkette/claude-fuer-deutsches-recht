@@ -89,7 +89,6 @@ Drei Weichen am Ende des Erstgespraechs:
 - [ ] Mandatsbogen vollstaendig
 - [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
 
-
 ## Konkrete Praxis-Konstellationen
 
 ### Konstellation A: Eilbeduerftigkeit
@@ -151,7 +150,6 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
-
 
 ## Aktuelle Leitentscheidungen — Insolvenz-Erstmandat
 

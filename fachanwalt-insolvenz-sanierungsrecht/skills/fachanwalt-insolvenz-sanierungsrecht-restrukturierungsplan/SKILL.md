@@ -73,7 +73,6 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zu
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-
 ## Schriftsatz-Bausteine
 
 ### Anzeige der Restrukturierungssache § 29 StaRUG
@@ -208,7 +207,6 @@ Restrukturierungsbeauftragter § 73 StaRUG: Vergütung nach § 80 StaRUG analog 
 - Braun, StaRUG-Kommentar, 1. Aufl. 2021
 - Morgen/Heise, StaRUG, 2. Aufl. 2022
 - Flöther, Sanierungsrecht, 2. Aufl. 2021
-
 
 ## Triage — Restrukturierungsplan
 

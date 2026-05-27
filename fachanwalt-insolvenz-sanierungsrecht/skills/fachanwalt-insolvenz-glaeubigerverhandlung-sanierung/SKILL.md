@@ -117,7 +117,6 @@ Insolvenz-Sanierungs-Verhandlungen sind im Wesentlichen **Gläubiger-Management*
 
 Stand: 05/2026. StaRUG 1.1.2021. IDW S 6 / S 11. INSOL-Standards. Bei SanInsKG-Verlängerung 31.12.2026 aktualisieren.
 
-
 ## Triage — Verhandlungs-Einstieg
 
 Bevor losgelegt wird, klaere:

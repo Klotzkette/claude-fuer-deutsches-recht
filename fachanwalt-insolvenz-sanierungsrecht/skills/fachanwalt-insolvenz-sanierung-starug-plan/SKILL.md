@@ -164,7 +164,6 @@ Vorinsolvenzliches Sanierungs-Instrument bei drohender Zahlungsunfähigkeit. Kei
 - `insolvenzplan-starug-planwerkstatt` — bei Plan-Aufstellung
 - `krisenfrueherkennung-starug` — bei Vorbereitung
 
-
 ## Triage — StaRUG-Plan oder Insolvenz?
 
 Bevor losgelegt wird, klaere:

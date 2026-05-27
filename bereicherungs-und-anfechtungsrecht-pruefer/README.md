@@ -48,12 +48,13 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ---
 
-## Skills (40)
+## Skills (44)
 
-### A. Triage / Weichenstellung (5)
+### A. Triage / Weichenstellung (6)
 
 | Skill | Inhalt |
 |---|---|
+| `allgemein` | Einstieg, Routing und Überblick über Bereicherung, AnfG, InsO-Anfechtung und KI-Screening |
 | `triage-vermoegensverschiebung-erfassen` | Strukturierte Erfassung: Wer hat was an wen geleistet, Belege, Zeitpunkt |
 | `weichenstellung-bereicherung-oder-anfechtung` | Entscheidungsknoten: Rechtsgrund, Insolvenz, Vollstreckungstitel |
 | `falsche-wiese-warnung-bereicherung-anfechtung` | Typische Falschverortungen und Systemfehler |
@@ -95,7 +96,7 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `anfg-anfechtungsklage-prozessuales` | Zuständigkeit, Klageantrag, Streitwert, Vollstreckung |
 | `anfg-einreden-und-verteidigung-anfechtungsgegner` | Gegenwehr des Anfechtungsgegners |
 
-### E. Insolvenzanfechtung §§ 129–147 InsO (8)
+### E. Insolvenzanfechtung §§ 129–147 InsO (11)
 
 | Skill | Inhalt |
 |---|---|
@@ -103,10 +104,13 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 | `inso-kongruente-deckung-130` | Drei Monate, Zahlungsunfähigkeit, Kenntnis |
 | `inso-inkongruente-deckung-131` | Nicht beanspruchbare Leistung, Fristen |
 | `inso-unmittelbar-nachteilige-rechtshandlungen-132` | § 132 InsO, drei Monate, unmittelbare Nachteiligkeit |
-| `inso-vorsatzanfechtung-133` | Benachteiligungsvorsatz, Reform 2017, zehn und vier Jahre |
+| `inso-vorsatzanfechtung-133` | Benachteiligungsvorsatz, Reform 2017, zehn Jahre, vier Jahre bei Deckung, zwei Jahre § 133 Abs. 4 |
 | `inso-unentgeltliche-leistung-134` | Vier Jahre, keine Verschuldenserfordernis |
-| `inso-bargeschaeft-142` | Bargeschäftsprivileg, Reform 2017, Ausschluss |
+| `inso-gesellschafterdarlehen-135` | Gesellschafterdarlehen, Drittdarlehen mit Gesellschaftersicherheit, § 135 InsO |
+| `inso-bargeschaeft-142` | Bargeschäft, unmittelbarer gleichwertiger Austausch, § 133-Unlauterkeit |
 | `inso-rechtsfolge-rueckgewaehr-143-bis-147` | Rückgewähr zur Masse, Wertersatz, Gegenleistung, Verjährung |
+| `inso-ki-anfechtungsansprueche-schuldnerakten` | KI-Screening von Schuldnerakten auf Anfechtungskandidaten mit Human-Review-Grenzen |
+| `inso-verteidigung-anfechtungsgegner` | Verteidigung gegen Insolvenzanfechtung aus Sicht des Anfechtungsgegners |
 
 ### F. Konkurrenzen und Verjährung (3)
 

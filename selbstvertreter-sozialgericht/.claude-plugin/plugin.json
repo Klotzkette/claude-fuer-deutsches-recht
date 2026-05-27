@@ -1,6 +1,6 @@
 {
   "name": "selbstvertreter-sozialgericht",
-  "version": "17.5.0",
+  "version": "17.5.1",
   "description": "Plugin für Buerger ohne Anwalt vor dem Sozialgericht. Widerspruch Klage Eilantrag bei Pflegegrad Krankenkasse Buergergeld EM-Rente und GdB. Einfache Sprache. Kostenfrei für Versicherte nach § 183 SGG. Workflow-Plugin ohne inhaltliche Rechtsprüfung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

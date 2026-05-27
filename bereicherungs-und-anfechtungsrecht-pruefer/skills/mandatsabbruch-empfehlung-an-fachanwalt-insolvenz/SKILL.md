@@ -88,11 +88,3 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 016 – Halluzinations-Reparatur
-Problem: BGH XI ZR 338/08 – WRONG_TOPIC und falsches Datum (Skill behauptete 27.04.2010, real: 27.10.2009).
-Realthema laut dejure.org: Anlageberatung, Pflicht der Bank zur Prospektprüfung mit banküblichem kritischem Sachverstand, Kick-backs/Innenprovisionen, kein Bereicherungsrecht/Prospekthaftungsüberlagerung wie behauptet (ZIP 2009, 2380; WM 2009, 2306).
-Massnahme: Eintrag vollständig gelöscht (falsches Thema, falsches Datum, falsche NJW-Fundstelle).
-Quelle: https://dejure.org/2009,27
--->

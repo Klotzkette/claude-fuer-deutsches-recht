@@ -58,7 +58,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - § 174 InsO
 - § 175 InsO
 
-
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 
 - BGH, Urt. v. 19.02.2009 — IX ZR 2/08, NZI 2009, 389 — Verwalterhaftung § 60 InsO: IV haftet persoenlich fuer schuldhafte Pflichtverletzungen; Massstab ordentlicher und gewissenhafter Insolvenzverwalter; Glaeubigerausschuss muss informiert werden.

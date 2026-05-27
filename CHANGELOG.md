@@ -1,3 +1,38 @@
+# v17.5.1 — Insolvenzanfechtung-Audit, KI-Screening und Verteidigung
+
+Version 17.5.1 ist ein gezielter Nachlauf nur für Insolvenzanfechtungsrecht. Der Schwerpunkt liegt auf den fehleranfälligen Normgruppen §§ 129, 130/131, 133, 134, 135, 142 und §§ 143-147 InsO, dem Reformstand nach der Anfechtungsreform 2017, den Fristen, dem Bargeschäft, Gesellschafterdarlehen und der Verteidigung des Anfechtungsgegners.
+
+## Korrigiert und gehärtet
+
+- **§§ 130/131 InsO:** kongruente und inkongruente Deckung wurden sauber getrennt; § 130 verlangt Kenntnis, während § 131 die objektive Monats-/Antragsnähe und die subjektiven Alternativen für den zweiten und dritten Monat abbildet.
+- **§ 133 InsO:** Vorsatzanfechtung arbeitet nun mit Zehnjahresgrundtatbestand, Vierjahresfenster für Deckungshandlungen, Zahlungsvereinbarungsregel und der Zweijahresvariante für entgeltliche Verträge mit nahestehenden Personen.
+- **§ 142 InsO:** Bargeschäft ist nicht mehr als starre 30-Tage-Regel beschrieben; die Skills prüfen unmittelbaren Leistungsaustausch nach Verkehrsauffassung, das Drei-Monats-Fenster für Arbeitsentgelt und die Sondergrenze bei § 133 InsO.
+- **§ 135 InsO:** neuer eigener Skill für Gesellschafterdarlehen, Gesellschaftersicherheiten, Rückzahlungen, Besicherungen, Kleinbeteiligungs-/Sanierungsprivileg und Drittfinanzierungsvarianten.
+- **§§ 143-147 InsO:** Rechtsfolgen, § 144 InsO, Rechtsnachfolge, Verjährung und Handlungen nach Verfahrenseröffnung wurden neu geordnet; Zinsen werden an § 143 Abs. 1 Satz 3 InsO, Verzug und § 291 BGB angebunden.
+- **Verteidigung des Anfechtungsgegners:** neuer eigener Skill mit defensiver Matrix zu Normauswahl, Gläubigerbenachteiligung, Kenntnis, Bargeschäft, Entreicherung, § 144 InsO, Verjährung und Vergleich.
+
+## KI-Anfechtungsworkflow
+
+- Neuer Skill `inso-ki-anfechtungsansprueche-schuldnerakten` für die Auswertung von Schuldnerakten mit Quellenankern, Zahlungschronologie, Anfechtungskandidaten-Matrix, Human-Review-Markierungen und Evidenzlücken.
+- Das System darf Anfechtungskandidaten identifizieren und strukturiert vorprüfen, ersetzt aber keine anwaltliche Wertung bei § 133 InsO, Gläubigerbenachteiligungsvorsatz, Kenntnisindizien, Sanierungsversuchen, Bargeschäftsverteidigung und komplexen Dreiecksverhältnissen.
+- Insolvenzverwaltung und Fachanwalt-Insolvenz/Sanierung wurden mit demselben Prüfungsmaßstab synchronisiert, damit Verwalterseite, Klagevorbereitung und Verteidigung nicht auseinanderlaufen.
+
+## Release-Stand
+
+- 100 Plugins
+- 2244 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `17.5.1`
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- gezielte Suche nach alten Fehlmustern zu SanInsFoG/Reform 2017, § 130/§ 131, § 133, § 142, § 146 und § 135 InsO
+- lokaler Build und Validierung aller Plugin-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
 # v17.5.0 — Text-/Quellenaudit, README-Gateway-Anleitung und Lobbyregister-API-Härtung
 
 Version 17.5 finalisiert den nachgezogenen Hauptstand nach v17 und zieht die Repository-Dokumentation, Plugin-Versionen und Release-Artefakte auf einen einheitlichen Zwischenrelease. Schwerpunkt ist ein konservativer Qualitätsschnitt: weniger erfundene Fundstellen, bessere deutsche Beschreibungstexte, klarere README-Anleitung für alternative Claude-kompatible API-Endpunkte und ein belastbareres Lobbyregister-Plugin.

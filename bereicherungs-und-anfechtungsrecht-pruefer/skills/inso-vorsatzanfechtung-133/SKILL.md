@@ -1,104 +1,91 @@
 ---
 name: inso-vorsatzanfechtung-133
-description: "Vorsatzanfechtung in der Insolvenz nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis des Anfechtungsgegners. Normen: § 133 InsO Fassung seit 5. April 2017. Prüfraster: Vorsatz-Indizien, Kenntnisvermutungen, zehn bzw. vier Jahre Fristen. Output: Prüfergebnis Anfechtbarkeit mit Beweislastverteilung. Abgrenzung: nicht § 3 AnfG (außerinsolvenzlich)."
+description: "Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Review-Pflicht."
 ---
 
 # Vorsatzanfechtung — § 133 InsO
 
 ## Triage — kläre vor der Prüfung
 
-1. Handelte der Schuldner mit Vorsatz zur Gläubigerbenachteiligung — ist dieser durch Indizien (Zahlungsunfähigkeit, Inkongruenz, nahestehende Person) nachweisbar?
-2. Kannte der Anfechtungsgegner den Benachteiligungsvorsatz, oder greift die Vermutungsregel des § 133 Abs. 1 S. 2 InsO?
-3. Liegt die Handlung innerhalb der Zehn-Jahres-Frist (§ 133 Abs. 1) oder der Vier-Jahres-Frist (§ 133 Abs. 2 bei nahestehenden Personen)?
-4. Handelt es sich um eine kongruente Deckung (§ 133 Abs. 3 InsO — Einschränkung seit AnfRefG 2017)?
-5. Greift das Bargeschäftsprivileg nach § 142 InsO i.V.m. § 133 Abs. 3 InsO?
+1. Welche Rechtshandlung soll angefochten werden, und wann wurde sie nach § 140 InsO vorgenommen?
+2. Handelt es sich um eine Deckungshandlung, also Sicherung oder Befriedigung eines Anspruchs?
+3. Welche Tatsachen belegen den Benachteiligungsvorsatz des Schuldners?
+4. Welche Tatsachen belegen die Kenntnis des Anfechtungsgegners?
+5. Greift die Vermutung des § 133 Abs. 1 S. 2 InsO?
+6. Greift bei kongruenter Deckung § 133 Abs. 3 InsO?
+7. Wurde eine Zahlungsvereinbarung oder Zahlungserleichterung gewährt?
+8. Liegt ein Bargeschäft nach § 142 InsO vor und hat der andere Teil unlauteres Handeln erkannt?
 
 ## Zentrale Normen
 
-§ 133 InsO (Vorsatzanfechtung) — § 129 InsO (Grundtatbestand) — § 130 InsO (kongruente Deckung) — § 131 InsO (inkongruente Deckung) — § 138 InsO (nahestehende Personen) — § 142 InsO (Bargeschäftsprivileg) — § 143 InsO (Rückgewähr) — § 17 InsO (Zahlungsunfähigkeit) — Art. 1 AnfRefG 2017
+§ 133 InsO — § 129 InsO — § 130 InsO — § 131 InsO — § 138 InsO — § 140 InsO — § 142 InsO — § 143 InsO — § 17 InsO — § 18 InsO.
 
-## Rechtsprechung
+## Gesetzliche Struktur
 
-BGH, Urt. v. 13.04.2006 – IX ZR 158/05, NJW 2006, 2701 — Inkongruente Deckungshandlungen sind starke Indizien für den Benachteiligungsvorsatz des Schuldners und für die Kenntnis des Anfechtungsgegners; der Anfechtungsgegner trägt die Beweislast für das Fehlen des Vorsatzes.
+| Norm | Inhalt | Zeitraum |
+|---|---|---|
+| § 133 Abs. 1 InsO | vorsätzliche Benachteiligung mit Kenntnis des anderen Teils | zehn Jahre vor Antrag oder nach Antrag |
+| § 133 Abs. 2 InsO | Sicherung oder Befriedigung des anderen Teils | vier Jahre statt zehn Jahre |
+| § 133 Abs. 3 S. 1 InsO | bei kongruenter Deckung tritt eingetretene Zahlungsunfähigkeit an die Stelle drohender Zahlungsunfähigkeit | nur bei Deckung |
+| § 133 Abs. 3 S. 2 InsO | Zahlungsvereinbarung oder Zahlungserleichterung begründet Vermutung gegen Kenntnis der Zahlungsunfähigkeit | entlastender Anknüpfungspunkt |
+| § 133 Abs. 4 InsO | entgeltlicher Vertrag mit nahestehender Person bei unmittelbarer Benachteiligung | ausgeschlossen, wenn früher als zwei Jahre vor Antrag |
 
-BGH, Urt. v. 06.05.2021 – IX ZR 72/20, NJW 2021, 2188 — Nach der Reform durch das AnfRefG 2017 beschränkt § 133 Abs. 3 InsO die Vorsatzanfechtung bei kongruenten Deckungen: Kannte der Anfechtungsgegner den Benachteiligungsvorsatz nicht, ist die Anfechtung ausgeschlossen.
+Wichtig: Die Vier-Jahres-Frist des § 133 Abs. 2 InsO gilt für Deckungshandlungen, nicht nur für nahestehende Personen. Nahestehende Personen sind in § 133 Abs. 4 InsO gesondert geregelt.
 
-BGH, Urt. v. 18.11.2021 – IX ZR 133/20, NJW 2022, 621 — Die Vermutungsregel des § 133 Abs. 1 S. 2 InsO setzt voraus, dass der Anfechtungsgegner die drohende Zahlungsunfähigkeit des Schuldners kannte und wusste, dass die Handlung Gläubiger benachteiligen würde; beide Elemente müssen positiv festgestellt sein.
+## Rechtsprechungsleitlinien
 
-## Kommentarliteratur
+BGH, Urt. v. 06.05.2021 — IX ZR 72/20: Die subjektiven Voraussetzungen der Vorsatzanfechtung dürfen nicht schematisch allein aus erkannter Zahlungsunfähigkeit abgeleitet werden. Es braucht eine einzelfallbezogene Gesamtwürdigung.
 
-Kayser in: MüKoInsO, 4. Aufl. 2023, § 133 Rn. 1–100 (Benachteiligungsvorsatz, Kenntnis, AnfRefG 2017).
-Gehrlein in: Uhlenbruck, InsO, 15. Aufl. 2023, § 133 Rn. 1–80 (Vorsatzbegriff, Vermutungsregel, § 133 Abs. 3).
-Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, § 133 Rn. 85–110 (Bargeschäft, nahestehende Personen).
+BGH, Urt. v. 03.03.2022 — IX ZR 78/20: Bei Sanierungsversuchen muss der Verwalter für den Benachteiligungsvorsatz darlegen und beweisen, dass der Sanierungsversuch untauglich war und der Schuldner dies erkannt oder billigend in Kauf genommen hat.
 
-## Obersatz
+BGH, Entsch. v. 26.10.2023 — IX ZR 112/22: Die Vermutung der Kenntnis nach § 133 Abs. 1 S. 2 InsO kann widerlegt werden, erfordert aber eine tragfähige Tatsachengrundlage für die Annahme vollständiger Befriedigung der übrigen Gläubiger.
 
-Anfechtbar sind nach § 133 Abs. 1 InsO Rechtshandlungen des Schuldners, die dieser mit dem Vorsatz vorgenommen hat, seine Gläubiger zu benachteiligen, wenn der Anfechtungsgegner zum Zeitpunkt der Handlung den Vorsatz kannte.
+BGH, Urt. v. 18.04.2024 — IX ZR 129/22: Ein nicht näher belegter Liquiditätsstatus des Verwalters muss von einem außenstehenden Dritten nicht ohne Weiteres im Einzelnen konkret bestritten werden.
 
-## Reform 2017 — Wesentliche Änderungen
+## § 133 als Human-Review-Norm
 
-Das AnfRefG vom 5. April 2017 hat § 133 InsO grundlegend geändert:
+§ 133 InsO enthält innere Tatsachen und Gesamtwürdigung. Die KI darf hier eine Indizienmatrix bauen, aber nicht ohne fachliche Prüfung „Vorsatz bewiesen“ schreiben.
 
-**Neue Fristen:**
-- § 133 Abs. 1 InsO (allgemein): zehn Jahre vor Antrag.
-- § 133 Abs. 2 InsO (nahestehende Personen, entgeltliche Verträge): vier Jahre vor Antrag.
+| Indiz | Belastet | Entlastet |
+|---|---|---|
+| erkannte Zahlungsunfähigkeit | kann Vorsatz und Kenntnis stützen | genügt nach neuerer BGH-Linie nicht schematisch allein |
+| inkongruente Deckung | starkes Indiz | Einzelfall und Gegenindizien prüfen |
+| Zahlungsvereinbarung | kann Krise zeigen | § 133 Abs. 3 S. 2 InsO vermutet fehlende Kenntnis der Zahlungsunfähigkeit |
+| Sanierungsversuch | nur belastend, wenn erkennbar untauglich | tragfähiges Konzept kann Vorsatz entkräften |
+| Vollbefriedigungsperspektive | entlastend | nur mit belastbaren Informationen |
 
-**Einschränkung bei kongruenten Deckungen:**
-§ 133 Abs. 3 InsO: Kannte der Anfechtungsgegner weder die Zahlungsunfähigkeit noch den Benachteiligungsvorsatz, entfällt die Anfechtung.
+## Bargeschäft bei § 133
 
-## Tatbestandsmerkmale § 133 Abs. 1 InsO
-
-### 1. Benachteiligungsvorsatz des Schuldners
-
-Bedingter Vorsatz (dolus eventualis) genügt. **Indizien:**
-- Kenntnis der eigenen Zahlungsunfähigkeit oder drohenden Zahlungsunfähigkeit.
-- Inkongruente Leistung (starkes Indiz).
-- Handeln zugunsten von nahestehenden Personen.
-
-### 2. Kenntnis des Anfechtungsgegners
-
-**Vermutungsregel § 133 Abs. 1 S. 2 InsO:** Kenntnis wird vermutet, wenn der Anfechtungsgegner wusste, dass die Zahlungsunfähigkeit drohte und die Handlung Gläubiger benachteiligte.
-
-### 3. Zehn-Jahres-Frist
-
-Rechtshandlung innerhalb von zehn Jahren vor Insolvenzantrag.
-
-## § 133 Abs. 2 InsO — Nahestehende Personen
-
-Entgeltliche Verträge mit nahestehenden Personen (§ 138 InsO) innerhalb von vier Jahren: anfechtbar bei Benachteiligungsvorsatz.
+§ 142 Abs. 1 InsO lässt ein Bargeschäft nur anfechten, wenn die Voraussetzungen des § 133 Abs. 1 bis 3 InsO vorliegen **und** der andere Teil erkannt hat, dass der Schuldner unlauter handelte. Deshalb muss bei Bargeschäften ein eigener Unlauterkeits- und Kenntnisblock ausgefüllt werden.
 
 ## Prüfschema
 
-1. Benachteiligungsvorsatz nachweisbar (direkt oder Indizien)?
-2. Kenntnis des Anfechtungsgegners (Vermutung § 133 Abs. 1 S. 2)?
-3. Frist (10 Jahre / 4 Jahre bei nahestehenden)?
-4. § 133 Abs. 3 InsO (kongruente Deckung, Einschränkung)?
-5. Bargeschäftsprivileg § 142 InsO?
+1. § 129 InsO: Rechtshandlung, Gläubigerbenachteiligung, Anfechtungsbefugnis.
+2. § 133 Abs. 1: Benachteiligungsvorsatz des Schuldners.
+3. Kenntnis des anderen Teils oder Vermutung nach § 133 Abs. 1 S. 2.
+4. Bei Deckung: Zeitraum auf vier Jahre begrenzen.
+5. Bei kongruenter Deckung: § 133 Abs. 3 prüfen.
+6. Zahlungserleichterung: Vermutung fehlender Kenntnis der Zahlungsunfähigkeit prüfen.
+7. Nahestehende Person und § 133 Abs. 4 gesondert prüfen.
+8. Bargeschäft und Unlauterkeit nach § 142 InsO prüfen.
 
 ## Output-Template
 
 **Prüfung § 133 InsO — Vorsatzanfechtung**
 
-Sachverhalt (kurz): [...]
+| Merkmal | Ergebnis | Beleg |
+|---|---|---|
+| Rechtshandlung und Zeitpunkt | [...] | [...] |
+| Deckungshandlung | ja/nein | [...] |
+| maßgeblicher Zeitraum | zehn Jahre/vier Jahre/zwei Jahre | [...] |
+| Benachteiligungsvorsatz | belegt/offen/nicht belegt | [...] |
+| Kenntnis des anderen Teils | belegt/vermutet/widerlegt/offen | [...] |
+| § 133 Abs. 3 | greift/greift nicht | [...] |
+| Zahlungsvereinbarung | ja/nein | [...] |
+| Bargeschäft und Unlauterkeit | ja/nein/offen | [...] |
 
-| Merkmal | Ergebnis |
-|---|---|
-| Benachteiligungsvorsatz (direkt/Indizien) | ja: [...] / nein |
-| Kenntnis des Anfechtungsgegners | ja / Vermutung § 133 Abs. 1 S. 2 |
-| Zeitraum | [...] Jahre → ≤10 Jahre? ja / ≤4 Jahre (nahestehend)? |
-| § 133 Abs. 3 InsO (kongruente Deckung) | greift / greift nicht |
-| Bargeschäftsprivileg § 142 InsO | ja / nein |
-
-**Ergebnis:** Vorsatzanfechtung nach § 133 Abs. [...] InsO [begründet / unbegründet].
+**Ergebnis:** § 133 InsO [nicht tragfähig / nur Prüfspur / tragfähig nach Human Review].
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-Task: Bundle 016 – Halluzinations-Reparatur
-Problem: BGH IX ZR 195/03 – WRONG_TOPIC und falsches Datum (Skill behauptete 29.04.2004, real: 29.06.2004).
-Realthema laut dejure.org: Insolvenz eines Handelsvertreters, Aufrechnung gegen Provisionsansprüche (§§ 94, 95, 96 InsO; BGHZ 159, 388; NJW 2004, 3118) – kein § 133-Benachteiligungsvorsatz.
-Massnahme: Eintrag vollständig gelöscht (falsches Thema für diesen Skill und falsches Datum).
-Quelle: https://dejure.org/2004,151
--->
+Hinweis: Keine Rechtsberatung. § 133 InsO ist keine reine Mustererkennung; jede KI-Ausgabe muss die Indizien und Gegenindizien sichtbar machen.

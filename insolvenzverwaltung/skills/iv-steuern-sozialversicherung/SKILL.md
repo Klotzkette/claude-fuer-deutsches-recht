@@ -58,7 +58,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - § 15b Abs. 8 InsO
 - AO und SGB als zu prüfende Schnittstelle
 
-
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 
 - BGH, Urt. v. 19.02.2009 — IX ZR 2/08, NZI 2009, 389 — Verwalterhaftung § 60 InsO: IV haftet persoenlich fuer schuldhafte Pflichtverletzungen; Massstab ordentlicher und gewissenhafter Insolvenzverwalter; Glaeubigerausschuss muss informiert werden.

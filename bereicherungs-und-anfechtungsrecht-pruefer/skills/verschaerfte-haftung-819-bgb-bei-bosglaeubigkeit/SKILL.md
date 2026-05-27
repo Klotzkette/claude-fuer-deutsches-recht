@@ -63,7 +63,6 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 1. Wann Kenntnis vom Mangel des Rechtsgrundes (§ 819 Abs. 1)?
 2. Gesetz-/Sittenverstoß beim Empfänger (§ 819 Abs. 2)?
 3. Wann Zustellung Klageschrift (Rechtshängigkeit § 818 Abs. 4)?
@@ -100,7 +99,6 @@ Sachverhalt (kurz): [...]
 **Ergebnis:** Verschärfte Haftung nach § 819 BGB ab [...]. Anspruch in Höhe von [...] EUR.
 
 ---
-
 
 --- vor Versand klaeren ---
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]

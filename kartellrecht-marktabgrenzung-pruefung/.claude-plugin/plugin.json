@@ -1,6 +1,6 @@
 {
   "name": "kartellrecht-marktabgrenzung-pruefung",
-  "version": "17.5.0",
+  "version": "17.5.1",
   "description": "Kritische kartellrechtliche Prüfinstanz für vorgelegte Marktabgrenzungen nach Paragraf 18 GWB und Art 101 und 102 AEUV. SSNIP-Test Nachfrage- und Angebotsumstellung räumlicher Markt Evidenzbasierung Konsistenzcheck EuGH-Leitentscheidungen Red Flags alternative Marktdefinitionen Marktbeherrschung.",
   "author": {
     "name": "Klotzkette"

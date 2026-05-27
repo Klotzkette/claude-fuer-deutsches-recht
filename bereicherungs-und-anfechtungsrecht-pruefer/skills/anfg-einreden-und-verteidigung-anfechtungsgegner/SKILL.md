@@ -69,11 +69,3 @@ Hat der Anfechtungsgegner für das Empfangene eine Gegenleistung erbracht, kann 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
-
-<!-- AUDIT 27.05.2026
-BGH IX ZR 98/11 (als Urt. v. 27.09.2012 zitiert) geloescht: WRONG_TOPIC.
-Echtes Urteil (28.06.2012) behandelt Insolvenzanfechtung gegen Rechtsnachfolger
-(§ 145 InsO) — kein Bezug zu Bargeschaeftsprivileg oder AnfG-Analogie.
-Verifiziert via dejure.org. Kein Ersatz ergaenzt (kein verifizierbares
-BGH-Urteil zu § 142 InsO analog im AnfG gefunden).
--->

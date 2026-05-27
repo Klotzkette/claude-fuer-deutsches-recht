@@ -99,7 +99,6 @@ Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
 5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-
 ## Beispiel-Anspruchsgrundlagen im Insolvenz- und Restrukturierungsrecht
 
 Drei haeufig gebrauchte Anspruchsgrundlagen aus InsO, StaRUG, AnfG, EuInsVO, COVInsAG-Nachwirkungen und ihre Substantiierungs-Anforderungen:
@@ -193,7 +192,6 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
-
 
 ## Aktuelle Leitentscheidungen fuer Schriftsaetze im Insolvenzrecht
 

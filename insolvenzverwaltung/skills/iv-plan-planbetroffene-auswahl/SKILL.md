@@ -49,7 +49,6 @@ Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum e
 
 Diese integrierte Fassung ist für Insolvenzverwalter, Sachwalter und vorläufige Verwaltung zugeschnitten. Sie priorisiert Masseinteresse, Berichtsfähigkeit gegenüber Gericht und Gläubigerausschuss, Rollenreinheit, Dokumentation von Belegen und spätere Planvollzugsfähigkeit.
 
-
 ## Rechtliche Grundlagen und BGH-Leitentscheidungen
 
 - BGH, Urt. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Planbestaetigung § 248 InsO: Gericht prueft von Amts wegen; formelle und materielle Anforderungen kumulativ; Planwirkung § 254 InsO mit Bestaetigung.

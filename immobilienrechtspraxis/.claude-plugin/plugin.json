@@ -1,6 +1,6 @@
 {
   "name": "immobilienrechtspraxis",
-  "version": "17.5.0",
+  "version": "17.5.1",
   "description": "Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz; Vertragsprüfung gegen Playbook; Grundbuchanalyse; Sachverhaltsermittlung; Mieteranfragen mit BGH-Verankerung; Case Management; projektbasierte Arbeitsweise mit AVV-Prüfung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

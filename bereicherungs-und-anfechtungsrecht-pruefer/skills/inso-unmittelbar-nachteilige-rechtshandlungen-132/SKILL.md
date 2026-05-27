@@ -10,22 +10,16 @@ description: "Anfechtung unmittelbar nachteiliger Rechtshandlungen nach § 132 I
 1. Handelt es sich um eine Deckungshandlung zugunsten eines Insolvenzgläubigers (→ §§ 130, 131 InsO vorrangig), oder um eine eigenständig benachteiligende Rechtshandlung?
 2. Wurde die Rechtshandlung in den letzten drei Monaten vor Insolvenzantrag vorgenommen?
 3. War der Schuldner zu diesem Zeitpunkt bereits zahlungsunfähig (§ 17 InsO)?
-4. Kannte der andere Teil die Benachteiligung (§ 132 Abs. 1 Nr. 2 InsO)?
+4. Kannte der andere Teil die Zahlungsunfähigkeit oder den Eröffnungsantrag?
 5. Liegt eine besonders günstige Gegenleistung vor, die § 132 InsO ausschließt (marktgerechter Preis)?
 
 ## Zentrale Normen
 
-§ 132 InsO (unmittelbar nachteilige Rechtshandlung) — § 129 InsO (Grundtatbestand) — § 130 InsO (kongruente Deckung) — § 131 InsO (inkongruente Deckung) — § 133 InsO (Vorsatzanfechtung) — § 17 InsO (Zahlungsunfähigkeit) — § 143 InsO (Rückgewähr)
+§ 132 InsO (unmittelbar nachteilige Rechtshandlung) — § 129 InsO (Grundtatbestand) — § 130 InsO (Kenntnisregeln entsprechend) — § 131 InsO (inkongruente Deckung) — § 133 InsO (Vorsatzanfechtung) — § 17 InsO (Zahlungsunfähigkeit) — § 143 InsO (Rückgewähr)
 
 ## Rechtsprechung
 
-BGH, Urt. v. 08.12.2005 – IX ZR 182/01, NJW 2006, 508 — § 132 InsO ist gegenüber §§ 130, 131, 133 InsO subsidiär; er kommt nur zur Anwendung, wenn keine Deckungshandlung vorliegt und die unmittelbare Vermögensminderung auf die Rechtshandlung selbst zurückgeht.
-
-BGH, Urt. v. 22.03.2001 – IX ZR 373/98, NJW 2001, 1940 — Unmittelbar nachteilig i.S.d. § 132 InsO ist eine Rechtshandlung, wenn die Schädigung des Gläubigervermögens ohne weitere Zwischenschritte aus der Rechtshandlung selbst folgt; mittelbare Benachteiligung genügt für § 132 InsO nicht.
-
-BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NJW-RR 2007, 557 — Der Verkauf von Vermögensgegenständen unter dem Verkehrswert kann als unmittelbar nachteilige Rechtshandlung nach § 132 InsO anfechtbar sein, wenn der Preisunterschied erheblich und die Zahlungsunfähigkeit bestand.
-
-BGH, Urt. v. 13.02.2003 – IX ZR 76/99, NJW 2003, 1447 — § 132 Abs. 1 Nr. 2 InsO setzt positive Kenntnis des anderen Teils von der Benachteiligung der Gläubiger voraus; bloßes Kennenmüssen oder Fahrlässigkeit genügt nicht.
+Hinweis für diesen Auditstand: § 132 InsO wird hier bewusst am Gesetzestext geführt. Unsichere Altzitate wurden nicht als tragende Arbeitsregel übernommen.
 
 ## Kommentarliteratur
 
@@ -35,7 +29,7 @@ Brinkmann in: Uhlenbruck, InsO, 15. Aufl. 2023, § 129 Rn. 80–95 (Abgrenzung z
 
 ## Obersatz
 
-Anfechtbar sind nach § 132 Abs. 1 InsO Rechtshandlungen, die unmittelbar nachteilig für die Insolvenzgläubiger sind, wenn sie in den letzten drei Monaten vor Insolvenzantrag vorgenommen wurden und der Schuldner zahlungsunfähig war.
+Anfechtbar ist nach § 132 Abs. 1 InsO ein Rechtsgeschäft des Schuldners, das die Insolvenzgläubiger unmittelbar benachteiligt, wenn es entweder in den letzten drei Monaten vor dem Eröffnungsantrag bei Zahlungsunfähigkeit und Kenntnis des anderen Teils vorgenommen wurde oder nach dem Eröffnungsantrag bei Kenntnis der Zahlungsunfähigkeit oder des Antrags.
 
 ## Abgrenzung zu §§ 130, 131 InsO
 
@@ -52,17 +46,17 @@ Die Rechtshandlung selbst (ohne Zwischenschritte) muss das Schuldnervermögen zu
 - Aufnahme eines Kredits mit überhöhten Zinsen kurz vor Insolvenz.
 - Abschluss langfristiger Verträge zu unausgewogenen Bedingungen.
 
-### 2. Dreimonatsfrist vor Insolvenzantrag
+### 2. Zeitraum
 
-Die Rechtshandlung muss in den letzten drei Monaten vor Antrag vorgenommen worden sein.
+Entweder letzte drei Monate vor Antrag oder Handlung nach Eröffnungsantrag.
 
 ### 3. Zahlungsunfähigkeit (§ 17 InsO)
 
 Der Schuldner war zum Zeitpunkt der Handlung bereits zahlungsunfähig.
 
-### 4. Kenntnis bei § 132 Abs. 1 Nr. 2 InsO
+### 4. Kenntnis
 
-Bei fehlender Zahlungsunfähigkeit: positive Kenntnis des anderen Teils von der Benachteiligung.
+§ 132 Abs. 3 InsO verweist auf § 130 Abs. 2 und 3 InsO. Kenntnis zwingender Umstände und die Vermutung bei nahestehenden Personen sind mitzudenken.
 
 ## Praktische Bedeutung
 
@@ -73,8 +67,8 @@ Bei fehlender Zahlungsunfähigkeit: positive Kenntnis des anderen Teils von der 
 1. Deckungshandlung ausschließen (kein § 130/131 InsO)?
 2. Unmittelbare Nachteiligkeit festgestellt?
 3. Dreimonatsfrist?
-4. Zahlungsunfähigkeit nachgewiesen?
-5. Kenntnis des anderen Teils (falls Nr. 2)?
+4. Zahlungsunfähigkeit und Kenntnis nachgewiesen?
+5. Nach Antrag: Kenntnis von Zahlungsunfähigkeit oder Antrag?
 
 ## Output-Template
 
@@ -88,7 +82,7 @@ Sachverhalt (kurz): [...]
 | Unmittelbare Nachteiligkeit | ja: [...] / nein |
 | Zeitraum vor Insolvenzantrag | [...] Monate → ≤3 Monate? ja / nein |
 | Zahlungsunfähigkeit § 17 InsO | ja / nein |
-| Kenntnis des anderen Teils | ja / nein / entbehrlich |
+| Kenntnis des anderen Teils | ja / nein / offen |
 
 **Ergebnis:** Anfechtung nach § 132 Abs. 1 Nr. [...] InsO [begründet / unbegründet].
 

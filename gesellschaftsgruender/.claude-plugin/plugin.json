@@ -1,6 +1,6 @@
 {
   "name": "gesellschaftsgruender",
-  "version": "17.5.0",
+  "version": "17.5.1",
   "description": "Gründungsassistent deutsche Gesellschaften (GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH). Von Rechtsformwahl über Gesellschaftsvertrag und Geschäftsführervertrag bis Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister. MoPeG DiRUG GwG. Kein Ersatz für Anwaltsberatung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,7 +1,7 @@
 {
   "name": "bereicherungs-und-anfechtungsrecht-pruefer",
-  "version": "17.5.0",
-  "description": "Mechanisches Durchprüfen von Bereicherungsrecht SS 812 ff. BGB sowie Anfechtung nach AnfG und SS 129-147 InsO. Weichenstellung Rechtsgrund, Insolvenz, Vollstreckungstitel. Keine Rechtsberatung.",
+  "version": "17.5.1",
+  "description": "Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

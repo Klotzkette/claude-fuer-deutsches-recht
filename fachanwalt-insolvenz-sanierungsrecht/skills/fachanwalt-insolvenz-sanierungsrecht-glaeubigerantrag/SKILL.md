@@ -46,7 +46,6 @@ description: "Gläubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Fo
 
 **Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-
 | Schritt | Prüfpunkt | Norm | Rechtsfolge |
 |---------|-----------|------|-------------|
 | 1 | Antragsberechtigung: jeder Insolvenzgläubiger; Forderung gegen Schuldner | § 14 Abs. 1 InsO | Fehlt Gläubigerstellung → Antrag unzulässig |
@@ -163,7 +162,6 @@ Das Gericht möge den Eröffnungsantrag zurückweisen.
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
 
 ## Beweislast
 

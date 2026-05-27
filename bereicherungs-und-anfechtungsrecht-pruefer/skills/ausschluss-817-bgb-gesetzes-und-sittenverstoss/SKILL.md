@@ -95,4 +95,3 @@ Sachverhalt (kurz): [...]
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
 
 ---
-<!-- AUDIT 27.05.2026: BGH VII ZR 336/89 (NJW 1990, 2542) auf dejure.org verifiziert — Aktenzeichen und Thema (Schwarzarbeit II, § 817 S. 2 BGB) sind korrekt. Kein Aenderungsbedarf. -->

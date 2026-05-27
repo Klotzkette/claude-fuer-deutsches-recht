@@ -159,7 +159,6 @@ Sanierungs-Vehikel: Schuldner behaelt Verfügungsbefugnis, Sachwalter überwacht
 - `insolvenzplan-starug-planwerkstatt` — bei Plan-Aufstellung
 - `fortbestehensprognose` — bei Prüfung Sanierung
 
-
 ## Triage — Schutzschirm oder Regelinsolvenz?
 
 Bevor losgelegt wird, klaere:
