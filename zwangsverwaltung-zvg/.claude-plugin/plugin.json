@@ -1,6 +1,6 @@
 {
   "name": "zwangsverwaltung-zvg",
-  "version": "14.1.0",
+  "version": "14.2.0",
   "description": "Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme.",
   "license": "Apache-2.0 OR MIT",
   "author": {

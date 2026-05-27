@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-migrationsrecht",
-  "version": "14.1.0",
+  "version": "14.2.0",
   "description": "Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.",
   "license": "Apache-2.0 OR MIT",
   "author": {

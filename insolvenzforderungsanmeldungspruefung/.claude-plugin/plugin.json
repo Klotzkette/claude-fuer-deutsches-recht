@@ -1,6 +1,6 @@
 {
   "name": "insolvenzforderungsanmeldungspruefung",
-  "version": "14.1.0",
+  "version": "14.2.0",
   "description": "Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

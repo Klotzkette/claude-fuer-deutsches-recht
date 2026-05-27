@@ -1,3 +1,74 @@
+# v14.2.0 — Vollumfaenglicher Wissensboost ueber alle 1800+ Skills
+
+Inhaltlicher Tiefenboost ueber alle 97 Plugins und ueber 1800 Skills. Jeder bearbeitete Skill bekommt eine konkrete Triage zum Mandatseinstieg, eine vollstaendige Paragrafenkette mit Wortlaut der zentralen Tatbestandsmerkmale, zwei bis vier aktuelle Leitsatz-Zitate aus BVerfG BGH BAG BFH BSG BVerwG EuGH oder OLG mit Aktenzeichen und Fundstelle, Hinweise auf die zentrale Kommentarliteratur des Rechtsgebiets, einen Schritt-fuer-Schritt-Workflow und ein passendes Output-Template fuer Schriftsatz Bescheid Beschluss oder Mandantenbrief. Strukturelle Bereinigung Plugin sozialrecht-kanzlei vollstaendig nach fachanwalt-sozialrecht uebernommen und alte Light-Touch-Selbstbezeichnung entfernt.
+
+## Was sich pro geboostetem Skill geaendert hat
+
+- **Triage zum Einstieg** — fuenf bis sieben konkrete Vorabfragen mit Begruendung warum sie zu klaeren sind
+- **Zentrale Normen mit Wortlaut** — Paragrafenkette mit kursivem Tatbestandsmerkmal nicht nur Paragrafennummer
+- **Aktuelle Rechtsprechung** — zwei bis vier Leitsaetze BVerfG BGH BAG BFH BSG BVerwG EuGH OLG mit Aktenzeichen Fundstelle Randnummer Paraphrase
+- **Kommentarliteratur** — die ein bis drei einschlaegigen Standardkommentare fuer das Rechtsgebiet
+- **Workflow in Schritten** — von Aktenanlage ueber Substantiierung bis Versand
+- **Output-Template mit Platzhaltern** — Schriftsatz Bescheid Beschluss Klage Mandantenbrief
+- **Rote Schwellen und Eskalationskriterien** — wann Fall an Fachanwalt oder Notar abgegeben gehoert
+- **Verzicht auf Boilerplate** — keine generischen Phrasen mehr keine Wiederholungen
+
+## Welleneinteilung
+
+Der Boost erfolgte in 12 Wellen mit jeweils 90 bis 250 Skills.
+
+| Welle | Cluster | Skills |
+| --- | --- | --- |
+| 1 | Arbeitsrecht inkl. Arbeitszeugnis | 201 |
+| 2 | Steuerrecht Familienrecht Erbrecht Sozialrecht | 108 |
+| 3 | Strafrecht Verkehrsrecht | 117 |
+| 4 | Miet- Bau- und Immobilienrecht | 92 |
+| 5 | Medizinrecht Versicherungsrecht Sport- und Transportrecht | 89 |
+| 6 | Gewerblicher Rechtsschutz Urheber- und Medienrecht | 90 |
+| 7 | IT-Recht Datenschutz KI-Verordnung DSA NIS-2 | 137 |
+| 8 | Insolvenz- und Sanierungsrecht | 154 |
+| 9 | Corporate M und A Gesellschaftsrecht Gruendung | 208 |
+| 10 | Bank- und Kapitalmarktrecht Vergabe International Migration | 114 |
+| 11 | Verwaltungs- Verfassungs- Energie- Umwelt- Kartell- Verbraucherrecht | 135 |
+| 12 | Prozessrecht Vertragsrecht Forderungsmanagement Compliance Kanzlei-Methodik Jurastudium | 308 |
+
+## Wichtigste Kommentarliteratur die jetzt zitiert wird
+
+- **Zivilrecht** — Gruenneberg MuenKo BGB BeckOK BGB Erman BGB
+- **Arbeitsrecht** — ErfK Schaub HWK
+- **Handels- und Gesellschaftsrecht** — MuenKo HGB MuenKo GmbHG MuenKo AktG Baumbach Hueck Scholz Hueffer Koch
+- **Strafrecht** — Schoenke Schroeder MuenKo StGB NK-StGB Fischer
+- **Insolvenz** — MuenKo InsO Uhlenbruck Jaeger K. Schmidt Uhlenbruck
+- **Familienrecht** — MuenKoBGB Band 9 und 10 Wendl Dose
+- **Mietrecht** — Schmidt-Futterer Staudinger BeckOK Mietrecht
+- **Steuerrecht** — Tipke Lang MuenKo AO BeckOK Steuerrecht
+- **Verwaltungsrecht** — Maurer Waldhoff Kopp Schenke Stelkens Bonk Sachs
+- **Verfassungsrecht** — Maunz Duerig Jarass Pieroth Sachs GG
+- **IT- und Datenschutzrecht** — Sydow Marsch Kuehling Buchner Paal Pauly Wendehorst Grinzinger
+- **Bank- und Kapitalmarktrecht** — Schimansky Bunte Lwowski Hopt KapMarktR
+- **Berufsrecht** — Henssler Pruetting Feuerich Weyland
+
+## Strukturelle Bereinigung
+
+- **Plugin sozialrecht-kanzlei** wurde vollstaendig in **fachanwalt-sozialrecht** ueberfuehrt. 20 Skills wurden verschoben vier doppelt vorhandene Themen wurden gemergt. Das Fachanwalt-Plugin enthaelt jetzt sowohl die Fachanwalt-Rechtsprechungstiefe als auch die volle Kanzleioperative — Bescheidanalyse Akteneinsicht Anlagen Eilantrag Hilfsmittel Pflegegrad Fristenbuch und PKH.
+- **Light-Touch-Selbstbezeichnung entfernt** in 51 Files. Plugins fuer Fachanwaltschaft sind nicht laenger Light-Touch sondern vollumfaenglich.
+- **SKILLS.md** mit funktionierenden GitHub-Anker-Links und Zwei-Spalten-Tabelle pro Plugin direkt verlinkt zur SKILL.md.
+
+## Qualitaetssicherung
+
+- Validator `node scripts/validate-plugin-structure.mjs` final OK
+- Komma-Sweep in plugin.json und SKILL.md Frontmatter `description:` ueberall ohne Komma zwischen Ziffern
+- Cyrillic-Confusables-Sweep ueber alle bearbeiteten Files clean
+- Keine verbotenen Frontmatter-Felder (triggers when_to_use language rechtsgebiet license argument-hint user-invocable allowed_tools tools model adapted_from)
+- Keine XML-Brackets in description-Feldern
+- YAML-Quoting bei descriptions mit Doppelpunkt-Konstrukten korrekt
+
+## Versionsstand nach v14.2.0
+
+- 97 Plugins
+- Ueber 1800 boostfaehige Skills bearbeitet (44 Skills waren bereits auf v14.1-Niveau und wurden ohne weitere Aenderung uebernommen)
+- alle plugin.json und marketplace.json auf version `14.2.0`
+
 # v14.1.0 — Grosser Inhalts-Boost (145 Top-Skills auf dreifache Tiefe)
 
 Inhaltliche Verdreifachung der 145 fachlich wichtigsten Skills in allen 24 Fachanwalt-Plugins sowie in `steuerrecht-anwalt-und-berater` und den fuenf Corporate-Plugins (`corporate-kanzlei`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `gesellschaftsrecht`, `gesellschaftsgruender`). Generische Boilerplate-Skills (Erstgespraech, Vergleichsverhandlung, Mandantenkommunikation) sind aus dem Boost ausgenommen — der Fokus liegt auf der fachlichen Substanz.

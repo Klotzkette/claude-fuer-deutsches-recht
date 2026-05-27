@@ -1,6 +1,6 @@
 {
   "name": "mandantenanfragen-assistent",
-  "version": "14.1.0",
+  "version": "14.2.0",
   "description": "Assistent fuer Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt foermlich uebernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an.",
   "license": "Apache-2.0 OR MIT",
   "author": {
