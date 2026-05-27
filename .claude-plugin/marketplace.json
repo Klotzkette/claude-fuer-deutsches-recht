@@ -773,11 +773,11 @@
     {
       "name": "steuerrecht-anwalt-und-berater",
       "source": "./steuerrecht-anwalt-und-berater",
-      "description": "Steuerrecht fuer Anwaltschaft (anw- inkl. Fachanwaltschaft FAO § 9) und Steuerberatung (stb-): Bescheidanalyse Einspruch Klage FG Aussenpruefung Selbstanzeige Strafverteidigung. StB-Tools BWA SuSa Bilanz Ueberschuldungspruefung Liquiditaet Krisenfrueherkennung. Ersetzt fachanwalt-steuerrecht.",
+      "description": "Steuerrecht fuer Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenpruefung Selbstanzeige. StB-Tools BWA SuSa Lohnbuchhaltung Jahresabschluss Mandantenkommunikation Software-Bedienung. DBA Europa Tuerkei Israel USA Kanada.",
       "author": {
         "name": "Klotzkette"
       },
-      "version": "14.2.0"
+      "version": "14.3.0"
     },
     {
       "name": "strafbefehl-verteidiger",
