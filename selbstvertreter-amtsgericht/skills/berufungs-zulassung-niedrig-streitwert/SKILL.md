@@ -9,13 +9,15 @@ description: "Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertg
 
 Wenn Ihre Beschwer **1.000 EUR oder weniger** betraegt, ist Berufung grundsaetzlich **nicht** statthaft (§ 511 II Nr. 1 ZPO, Fassung seit 01.01.2026). Eine Berufung ist in dieser Konstellation nur moeglich, wenn das **Amtsgericht selbst die Berufung in seinem Urteil ausdruecklich zugelassen hat** (§ 511 II Nr. 2 ZPO i.V.m. § 511 IV ZPO).
 
+**Achtung Uebergangsfaelle (§ 47 EGZPO):** Fuer Verfahren, in denen die anzufechtende Entscheidung **bis einschliesslich 31.12.2025** verkuendet bzw. der Geschaeftsstelle uebergeben wurde — oder die muendliche Verhandlung bis dahin geschlossen war — gilt **weiterhin die alte Wertgrenze 600 EUR**. In solchen Faellen ist Berufung ohne Zulassung schon ab einer Beschwer von mehr als 600 EUR moeglich. Pruefen Sie zuerst, in welche Phase Ihr Verfahren faellt.
+
 **Wichtig:** Die Zulassung erfolgt **nur durch das erstinstanzliche Gericht (AG)**. Wenn das AG nicht zugelassen hat, gibt es **keinen separaten Rechtsbehelf zum LG** — keine "Zulassungs-Beschwerde", keine "Nichtzulassungsbeschwerde" wie etwa in der Revision (§ 544 ZPO). Das AG-Urteil ist dann endgueltig.
 
 Eine sehr enge Ausnahme bietet die **Anhoerungsruege § 321a ZPO** bei Verletzung des rechtlichen Gehoers — keine Vollkontrolle, sondern Korrektur eines Verfahrensfehlers durch das AG selbst.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ihre Beschwer ist 1.000 EUR oder weniger.
+- Ihre Beschwer ist 1.000 EUR oder weniger (bzw. 600 EUR oder weniger im Uebergangsfall nach § 47 EGZPO).
 - Sie meinen, Ihre Sache hat grundsaetzliche Bedeutung.
 - Sie wollen wissen, ob Sie das Urteil noch angreifen koennen, wenn das AG nicht zugelassen hat.
 
@@ -30,6 +32,7 @@ Eine sehr enge Ausnahme bietet die **Anhoerungsruege § 321a ZPO** bei Verletzun
 
 - **§ 511 II Nr. 2 ZPO** — Berufungs-Zulassung als Voraussetzung der Berufung bei geringer Beschwer.
 - **§ 511 IV ZPO** — Voraussetzungen der Zulassung. Zulassung erfolgt **durch das Gericht erster Instanz** (= AG).
+- **§ 47 EGZPO** — Uebergangsvorschrift Justizstandort-Staerkungsgesetz: alte Wertgrenze 600 EUR gilt fort fuer Altverfahren mit Stichtag 31.12.2025.
 - **§ 321a ZPO** — Anhoerungsruege bei Gehoersverletzung (enge Ausnahme).
 - **§ 522 ZPO** — Verwerfung unstatthafter Berufung durch LG.
 
@@ -68,6 +71,8 @@ Wenn das AG die Berufung nicht zugelassen hat und Ihre Beschwer 1.000 EUR oder w
 
 Versuche, dennoch eine Berufung einzulegen, werden vom LG nach § 522 I ZPO als unzulaessig verworfen — mit Kostenfolge fuer Sie.
 
+**Uebergangsfall pruefen:** Wenn Ihre Beschwer zwischen 600 und 1.000 EUR liegt, kontrollieren Sie: Wurde das AG-Urteil bis 31.12.2025 verkuendet oder die muendliche Verhandlung bis dahin geschlossen? Dann gilt nach § 47 EGZPO die alte Wertgrenze 600 EUR — Berufung ist ohne Zulassung statthaft.
+
 ### Schritt 5 — Enge Ausnahme: Anhoerungsruege § 321a ZPO
 
 Wenn das AG **Ihr rechtliches Gehoer verletzt** hat (z.B. einen entscheidungserheblichen Vortrag vollstaendig ignoriert), koennen Sie binnen 2 Wochen ab Kenntnis Anhoerungsruege erheben — beim **AG selbst** (nicht beim LG). Voraussetzungen sind eng:
@@ -92,13 +97,15 @@ Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat 
 - **Keine separate Zulassungs-Beschwerde** zum LG. Wer trotzdem versucht, zahlt drauf.
 - **Anhoerungsruege § 321a ZPO** ist die einzige Notfall-Option bei Gehoersverletzung — kein Allzweck-Rechtsmittel.
 - **Wertgrenze 1.000 EUR** (Stand 2026; frueher 600 EUR).
+- **Uebergangsfaelle § 47 EGZPO**: Alte 600-EUR-Grenze gilt fort, wenn Urteil bis 31.12.2025 verkuendet oder muendliche Verhandlung bis dahin geschlossen wurde.
 
 ## Typische Fehler
 
 - "Mein Fall ist grundsaetzlich, ich bekomme Zulassung." → Praxis sehr restriktiv; ohne Anregung im AG-Verfahren so gut wie nie.
 - "Wenn AG nicht zulaesst, lege ich Beschwerde beim LG ein." → Existiert nicht. Eine Zulassungs-Beschwerde gibt es in § 511 ZPO **nicht**.
 - "Anhoerungsruege bedeutet zweite Chance auf alles." → Falsch. Nur bei konkreter, entscheidungserheblicher Gehoersverletzung.
-- "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
+- "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR — ausser in Uebergangsfaellen nach § 47 EGZPO.
+- "Mein altes Urteil ist nicht mehr berufungsfaehig, weil ich nur 800 EUR Beschwer habe." → Falsch, wenn das Urteil bis 31.12.2025 verkuendet wurde: dort gilt noch 600 EUR (§ 47 EGZPO).
 
 ## Querverweise
 
@@ -109,4 +116,4 @@ Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026. Zulassung erfolgt ausschliesslich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.
+Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Uebergangsregel § 47 EGZPO: Alte Wertgrenze 600 EUR gilt fort fuer Verfahren mit anzufechtender Entscheidung bis 31.12.2025 bzw. mit bis dahin geschlossener muendlicher Verhandlung. Zulassung erfolgt ausschliesslich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.
