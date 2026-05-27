@@ -28,7 +28,7 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | **Beratungsmandat** | RA Dr. Franziska Heller, Kanzlei Heller & Schönfeld, Frankfurt |
 | **Risikokundenprofil** | Danube Trade Solutions SRL, Bukarest (Hochrisiko) |
 | **UBO (fraglich)** | Blue Harbor Holdings Ltd., Nikosia, Zypern |
-| **Drittza hler** | Adriatic Commerce Ltd., Valletta, Malta |
+| **Drittzahler** | Adriatic Commerce Ltd., Valletta, Malta |
 | **Screening-Treffer** | Andrei Moldovan (GF) / Namensähnlichkeit PEP |
 | **Transaktionsbetrag (Alert)** | 187.500 EUR (Erstpayment, Drittzahler) |
 | **Verdachtsmeldung-Nr.** | VM-MH-2026-0041 |
@@ -84,23 +84,44 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | Datei | Inhalt |
 |---|---|
 | [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Zeitachse, Dateitabelle, Lernziel, Disclaimer |
+| [Fall_Uebersicht_Onepager.pdf](Fall_Uebersicht_Onepager.pdf) | One-Pager mit Stammdaten, Eckdaten und Beteiligten (Druckversion) |
+| [Fall_Uebersicht_Onepager.png](Fall_Uebersicht_Onepager.png) | One-Pager als PNG (Bildschirmversion) |
+| [Fall_Zeitstrahl_AML_Musterholding.pdf](Fall_Zeitstrahl_AML_Musterholding.pdf) | Zeitstrahl der Ereignisse 07.04.–28.05.2026 (Druckversion) |
+| [Fall_Zeitstrahl_AML_Musterholding.png](Fall_Zeitstrahl_AML_Musterholding.png) | Zeitstrahl als PNG (Bildschirmversion) |
 | [01_intake/email_compliance_leitung.txt](01_intake/email_compliance_leitung.txt) | Eskalations-E-Mail Compliance-Abteilung an GF |
+| [01_intake/email_compliance_eskalation_v2.txt](01_intake/email_compliance_eskalation_v2.txt) | Nachfass-E-Mail Compliance an GF (zweite Eskalationsstufe) |
+| [01_intake/email_vertrieb_eskalation.txt](01_intake/email_vertrieb_eskalation.txt) | Erstmeldung Vertrieb an Compliance zum Neukunden Danube |
+| [01_intake/email_bank_rueckfrage.txt](01_intake/email_bank_rueckfrage.txt) | E-Mail der Hausbank zur Drittzahlung Adriatic Commerce |
+| [01_intake/email_vorstand_klarstellung.txt](01_intake/email_vorstand_klarstellung.txt) | Interne Anfrage Geschäftsführung an Compliance |
 | [01_intake/mandatsnotiz_eingangsgespraech.md](01_intake/mandatsnotiz_eingangsgespraech.md) | Mandatsnotiz zum Eingangs­gespräch bei RA Dr. Heller (05.05.2026) |
+| [01_intake/mandatsvollmacht.pdf](01_intake/mandatsvollmacht.pdf) | Mandatsvollmacht zugunsten Kanzlei Heller & Schönfeld (PDF) |
+| [01_intake/sachverhaltsmemo.pdf](01_intake/sachverhaltsmemo.pdf) | Sachverhaltsmemo Kanzlei: chronologische Darstellung des Mandats |
 | [02_verpflichtetenstatus/branchenprofil.md](02_verpflichtetenstatus/branchenprofil.md) | Vermerk: Verpflichtetenstatus nach § 2 GwG, Sicherungspflichten |
 | [03_risikoanalyse/risikoanalyse_alt_2024.md](03_risikoanalyse/risikoanalyse_alt_2024.md) | Aktualisierte Risikoanalyse 2026 mit Risikomatrix |
 | [04_kyc/kunde_onboarding_rohdaten.md](04_kyc/kunde_onboarding_rohdaten.md) | KYC-Prüfformular Danube Trade Solutions SRL (ausgefüllt) |
-| [05_ubo/struktur_chart_placeholder.txt](05_ubo/struktur_chart_placeholder.txt) | Platzhalter Strukturdiagramm |
+| [04_kyc/kyc_checkliste_danube_trade_solutions.xlsx](04_kyc/kyc_checkliste_danube_trade_solutions.xlsx) | XLSX: KYC-Checkliste mit Prüfschritten, Verantwortlichen und Status |
+| [04_kyc/passport_scan_petr_novotny.pdf](04_kyc/passport_scan_petr_novotny.pdf) | Faksimile eines Reisepass-Scans (Identifikationsnachweis UBO-Kandidat) |
+| [04_kyc/handelsregister_auszug_danube.pdf](04_kyc/handelsregister_auszug_danube.pdf) | Handelsregisterauszug Danube Trade Solutions SRL (RO-Register-Auszug) |
 | [05_ubo/ubo_dokumentation.md](05_ubo/ubo_dokumentation.md) | UBO-Dokumentation und Analyse Blue Harbor Holdings Ltd. |
+| [05_ubo/ubo_stammbaum_datentafel.xlsx](05_ubo/ubo_stammbaum_datentafel.xlsx) | XLSX: UBO-Stammbaum mit Beteiligungsketten und Quellen |
+| [05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.pdf](05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.pdf) | Strukturchart Danube → Blue Harbor → Adriatic (Druckversion) |
+| [05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.png](05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.png) | Strukturchart als PNG (Bildschirmversion) |
 | [06_pep_sanktionen/screening_treffer.md](06_pep_sanktionen/screening_treffer.md) | PEP/Sanktionslisten-Trefferbewertung Andrei Moldovan & Blue Harbor |
+| [06_pep_sanktionen/screening_log_2026.xlsx](06_pep_sanktionen/screening_log_2026.xlsx) | XLSX: Screening-Log 2026 (Treffer, Bewertung, Vier-Augen-Freigabe) |
 | [07_transaktionen/ungewoehnliche_zahlung.csv](07_transaktionen/ungewoehnliche_zahlung.csv) | Rohdaten Zahlungseingang Drittzahler |
 | [07_transaktionen/transaktionsmonitoring_alert.md](07_transaktionen/transaktionsmonitoring_alert.md) | Transaktionsmonitoring-Alert-Bericht (Drittzahlung 187.500 EUR) |
+| [07_transaktionen/transaktionshistorie_12monate_danube.xlsx](07_transaktionen/transaktionshistorie_12monate_danube.xlsx) | XLSX: 12-Monats-Transaktionshistorie Danube mit Anomalie-Flags |
 | [08_mittelherkunft/source_of_funds_antwort.txt](08_mittelherkunft/source_of_funds_antwort.txt) | Rohdaten Mittelherkunftsantwort |
 | [08_mittelherkunft/mittelherkunftsnachweis_anforderung.md](08_mittelherkunft/mittelherkunftsnachweis_anforderung.md) | Schreiben: Anforderung Mittelherkunftsnachweis an Danube Trade |
+| [08_mittelherkunft/email_an_adriatic_commerce.txt](08_mittelherkunft/email_an_adriatic_commerce.txt) | E-Mail an Adriatic Commerce Ltd. zur Klärung der Drittzahlung |
 | [09_verdachtsmeldung/goaml_entwurfsnotiz.md](09_verdachtsmeldung/goaml_entwurfsnotiz.md) | Vollständige Verdachtsmeldung (SAR) an FIU, VM-MH-2026-0041 |
+| [09_verdachtsmeldung/email_fiu_eingangsbestaetigung.txt](09_verdachtsmeldung/email_fiu_eingangsbestaetigung.txt) | Eingangsbestätigung FIU zur Verdachtsmeldung VM-MH-2026-0041 |
 | [10_transparenzregister/unstimmigkeit_register.md](10_transparenzregister/unstimmigkeit_register.md) | Unstimmigkeitsmeldung Transparenzregister Immobilien-Tochter |
 | [11_behoerde/auskunftsersuchen_landesaufsicht.md](11_behoerde/auskunftsersuchen_landesaufsicht.md) | Antwortschreiben an RP Darmstadt (Aufsichtsbehörde) |
+| [11_behoerde/email_kanzlei_update_mandant.txt](11_behoerde/email_kanzlei_update_mandant.txt) | Kanzlei-Update an Mandant zum Stand des Behördenverfahrens |
 | [12_schulung/schulungsstand.csv](12_schulung/schulungsstand.csv) | Schulungsstand-Übersicht Mitarbeiter |
 | [12_schulung/schulungsunterlage_aml_kyc.md](12_schulung/schulungsunterlage_aml_kyc.md) | Schulungsunterlage Geldwäscheprävention für Mitarbeiter |
+| [12_schulung/schulungstracking_2025_2026.xlsx](12_schulung/schulungstracking_2025_2026.xlsx) | XLSX: Schulungstracking 2025/2026 mit Quoten und Auffrischungsfristen |
 | [13_audit/internal_audit_findings.md](13_audit/internal_audit_findings.md) | Internes Audit-Memo AML-Compliance |
 | [14_presse/presseanfrage.txt](14_presse/presseanfrage.txt) | Eingehende Presseanfrage |
 | [14_presse/krisenkommunikation_entwurf.md](14_presse/krisenkommunikation_entwurf.md) | Entwurf Krisenkommunikation / Pressemitteilung |

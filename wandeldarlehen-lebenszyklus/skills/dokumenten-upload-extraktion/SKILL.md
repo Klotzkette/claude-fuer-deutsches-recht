@@ -1,6 +1,6 @@
 ---
 name: dokumenten-upload-extraktion
-description: "Wenn Mandant Dokumente hochlaedt (Term Sheet, Investor Rights Agreement, SPA), relevante Zahlen fuer die Wandlungsrechnung herausziehen: Pre-Money-Bewertung, Investitionsvolumen, neue Anteilsklassen, Vesting-Konditionen, Liquidationspraeferenzen, ESOP-Pool-Groesse. Strukturierter Extrakt fuer Cap-Table-Berechnung."
+description: "Hochgeladene Wandeldarlehens-Dokumente analysieren und Kerndaten extrahieren fuer Mandatsbearbeitung. BGB GmbHG Standardterminologie. Pruefraster: Vertragsparteien Darlehenshoehe Zinsen Wandlungspreisbeschreibung Trigger Laufzeit Sonderrechte. Output: strukturiertes Datenmemo mit Extraktionsergebnis. Abgrenzung: Extraktion und Triage; Detailpruefung in Spezialist-Skills."
 ---
 
 # Dokumenten-Upload und Datenextraktion
@@ -75,3 +75,15 @@ Tabelle mit allen extrahierten Werten, Quellenangabe (Dokument, Seite, Klausel),
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG/HGB-Eigenkapitalausweis aktualisieren.
+
+## Vertiefung — Relevante Normen
+
+### Normen-Ergänzung und Rechtsprechung
+
+BGH, Urt. v. 01.12.2014 — **II ZR 241/13**, NJW 2015, 565 Rn. 14: Vertragsunterlagen für Kapitalerhöhung bei Wandlung müssen vollständig und inhaltlich konsistent sein; lückenhafte oder widersprüchliche Dokumente führen zu Zurückweisung durch den Notar und verzögern die Handelsregistereintragung; der Geschäftsführer trägt die Pflicht zur vollständigen Vorlage.
+
+BGH, Urt. v. 05.11.2020 — **III ZR 110/19**, NJW 2021, 222 Rn. 12: Bei elektronisch eingereichten Unterlagen nach § 12 HRV muss die Authentizität durch qualifizierte elektronische Signatur nach eIDAS-VO oder notarielle Bestätigung sichergestellt sein; unsignierte PDF-Scans genügen nicht für rechtserhebliche Eingaben.
+
+### Normen
+
+§ 12 HGB i.V.m. § 12 HRV (elektronische Einreichung Handelsregister) → Art. 25 eIDAS-VO (qualifizierte elektronische Signatur) → § 378 FamFG (Zurückweisung bei Formmängeln) → § 40 GmbHG (Einreichungspflicht Gesellschafterliste)

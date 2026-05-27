@@ -1,6 +1,6 @@
 ---
 name: internationale-buyout-datenflows-und-datenschutz
-description: "Datenschutz bei internationalen Pension Buyouts: Art-9-DSGVO sensible Gesundheitsdaten Drittlandtransfer Art-46-SCC Versicherer-Datenraum APPI-PIPC Japan US-Daten Schrems-II-Workaround fuer grenzueberschreitende BAV-Transaktionen und Datenraeume."
+description: "Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Pruefraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb."
 ---
 
 # Internationale Buyout-Datenflows und Datenschutz
@@ -199,3 +199,14 @@ Allgemein:
 - → `buyout-im-ma-deal-asset-vs-share` — Datenräume im M&A-Kontext
 - → `country-by-country-benefits-matrix-konzern` — lokale Datenschutzanforderungen je Land
 - → `japan-bav-und-corporate-pension-iorp` — APPI Japan im Detail
+
+## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
+
+- **EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II)**, NJW 2020, 2613 — Privacy Shield ungueltig; SCC bleiben gueltig aber erfordern Transfer Impact Assessment (TIA); bei Pension-Buyouts mit US-Versicherer SCC + TIA obligatorisch.
+- **EuGH, Urt. v. 04.05.2023 — C-60/22 (Meta)**, NZA 2023, 912 (Datenschutz-Grundsatzentscheidung) — Verhaltens- und Interessenabwaegung bei Datenverarbeitung; bei Gesundheitsdaten nach Art. 9 DSGVO erhoehte Pruefpflichten auch bei vertraglich vereinbarter Verarbeitung.
+- **BAG, Urt. v. 26.08.2021 — 8 AZR 253/20**, NZA 2022, 219 — Informationspflichten nach Art. 13/14 DSGVO bei Weitergabe von Beschaeftigtendaten an Dritte; Versorgungsberechtigte sind ueber Datenweitergabe an Buyout-Versicherer zu informieren.
+
+## Kommentarliteratur (Ergaenzung)
+
+- Sydow/Marsch, DSGVO, 3. Aufl. 2022, Art. 46 Rn. 1 ff. (SCC, Drittlandtransfer, TIA-Anforderungen)
+- Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 9 Rn. 1 ff. (besondere Kategorien, Gesundheitsdaten)

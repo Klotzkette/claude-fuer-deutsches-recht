@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Arzthaftungs-, Berufs- und Vertragsarztrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Erstgespraeach und Mandatsannahme im Arzthaftungs- Berufs- und Vertragsarztrecht: Anwendungsfall Patient oder Arzt meldet sich mit unstrukturiertem Sachverhalt zu Behandlungsfehler Approbationsproblem oder KV-Streit. § 630a BGB Behandlungsvertrag, § 43a BRAO Interessenkonflikte, § 3a RVG Honorar. Pruefraster Konstellation einordnen Arzthaftung Berufsrecht oder Vertragsarztrecht, Interessenkonflikt-Check, Vollmacht einholen, Streitwert und Gebührenvereinbarung, Fristen-Erstprognose. Output Mandats-Aufnahmeprotokoll mit Einordnung Sofortmassnahmen und Handlungsweichen. Abgrenzung zu Mandat-Triage-Medizinrecht und zu Erstgespraeach-Strafrecht."
 ---
 
 # Erstgespraech und Mandatsannahme im Arzthaftungs-, Berufs- und Vertragsarztrecht
@@ -151,3 +151,22 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+## Vertiefung — Normenkette und Rechtsprechung Erstgespräch Medizinrecht
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 14.01.2014 — **VI ZR 340/13**, NJW 2014, 1367 Rn. 11: Im Arzthaftungsprozess besteht ein Einsichtsrecht des Patienten in seine vollständige Patientenakte (§ 630g BGB); der Arzt oder die Klinik hat die Akte binnen angemessener Frist vorzulegen; die Weigerung begründet nach § 630h Abs. 3 BGB die Vermutung, dass die nicht vorgelegten Unterlagen fehlen.
+
+BVerwG, Urt. v. 12.12.2013 — **3 C 26.12**, BVerwGE 148, 365 Rn. 22: Die Pflicht zur Identifizierung nach § 10 GwG gilt für Rechtsanwälte, wenn sie für Mandanten Transaktionen durchführen oder rechtliche Dienstleistungen erbringen; auch bei Arzthaftungsmandaten mit Vergleichszahlungen ist die GwG-Identifizierung obligatorisch.
+
+OLG München, Urt. v. 25.02.2021 — **1 U 2350/20**, MedR 2021, 486 Rn. 14: Honorarvereinbarung in Arzthaftungssachen ist wirksam, wenn die Anforderungen des § 3a RVG eingehalten werden; Stundenhonorar bei Arzthaftungsmandat ist zulässig, bedarf aber der schriftlichen Vereinbarung vor Mandatsbeginn und des gesetzlichen Hinweises.
+
+### Normenkette Erstgespräch / Mandatsannahme
+
+§ 630g BGB (Einsichtsrecht Patientenakte) → §§ 10, 11 GwG (Identifizierungspflicht RA-Mandat) → §§ 43a, 45 BRAO (Interessenkonflikt, Verschwiegenheit) → §§ 3, 3a RVG (Vergütungsvereinbarung, Stundenhonorar) → § 9 RVG (Vorschuss) → §§ 195, 199 BGB (Verjährung im Mandat sichern) → § 204 BGB (Hemmung: Klage, Mahnbescheid, Schlichtungsantrag § 278 BGB analog)
+
+### Kommentarliteratur
+
+- MüKoBGB/Wagner, 9. Aufl. 2024, § 630g Rn. 1 ff.: Umfang und Durchsetzung des Akteneinsichtsrechts; Kopiekosten und Fristen.
+- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, § 13 (Mandatsaufnahme): Vollständige Checkliste für Erstgespräch im Arzthaftungs- und Vertragsarztrecht.

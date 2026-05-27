@@ -1,9 +1,19 @@
 ---
 name: fachanwalt-sozialrecht-orientierung
-description: Orientierung im Sozialrecht und Fachanwaltschaft nach FAO § 11. SGB I Allgemeiner Teil SGB II Buergergeld SGB III Arbeitsfoerderung SGB IV bis VII Sozialversicherung SGB VIII Kinder- und Jugendhilfe SGB IX Rehabilitation SGB X Verwaltungsverfahren SGB XI Pflegeversicherung SGB XII Sozialhilfe. Verfahren SGG Sozialgerichtsbarkeit drei Instanzen SG LSG BSG. Standardliteratur Hauck/Noftz Kasseler Kommentar.
+description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Ueberblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. Standardliteratur Hauck/Noftz Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing)."
 ---
 
 # Fachanwalt für Sozialrecht — Orientierung
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 03.09.2014 - B 10 ÜG 12/13 R, SozR 4-1720 Art. 23 Nr. 2 Rn. 14 — Drei-Instanzenzug der Sozialgerichtsbarkeit (SG, LSG, BSG) ist als solcher verfassungsgemäss; Revisionsrecht des BSG (§ 160 SGG) ist auf Rechtsfehler beschränkt; Tatsachenfeststellung endet beim LSG.
+- BSG, Beschl. v. 17.07.2013 - B 14 AS 83/12 B, BeckRS 2013, 71285 Rn. 11 — Nichtzulassungsbeschwerde (§ 160a SGG): nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel; hohe Hürde für Zulassung; reine Tatsachenfehler des LSG genügen nicht.
+- BVerfG, Beschl. v. 25.09.1992 - 2 BvL 5/91, BVerfGE 87, 153 Rn. 16 — Verfassungsmässigkeit der Sozialversicherungspflicht: Zwangsmitgliedschaft in der gesetzlichen Kranken- und Rentenversicherung grundsätzlich mit Art. 2 Abs. 1 GG vereinbar; Solidaritätsprinzip rechtfertigt Einschränkung.
+- BSG, Urt. v. 06.04.2011 - B 4 AS 119/10 R, SozR 4-1500 § 54 Nr. 23 Rn. 18 — Klageart im Sozialrecht: kombinierte Anfechtungs- und Leistungsklage (§ 54 Abs. 4 SGG) ist die Regelklageart bei Ablehnung einer Sozialleistung; Feststellungsklage nur bei Subsidiaritätsproblem zulässig.
+
+## Kommentarliteratur
+- Kasseler Kommentar Sozialversicherungsrecht (Hrsg. Rolfs/Giesen/Kreikebohm) — Standard-Referenzwerk zu SGB I-XII
+- Hauck/Noftz SGB X §§ 39-48 (Aufhebung und Rücknahme von Verwaltungsakten)
 
 ## FAO-Voraussetzungen (§ 11 FAO)
 
@@ -76,6 +86,6 @@ description: Orientierung im Sozialrecht und Fachanwaltschaft nach FAO § 11. SG
 ## Schnittstellen
 
 - **`sozialrecht-kanzlei`** für operative Mandatsführung.
-- **`kanzlei-cowork`** für Fristen und Versand.
+- **`kanzlei-allgemein`** für Fristen und Versand.
 - **`fachanwalt-arbeitsrecht`** bei Sperrzeit Arbeitslosengeld und Schwerbehinderung im Arbeitsverhältnis.
 - **`fachanwalt-medizinrecht`** bei medizinischer Begutachtung.

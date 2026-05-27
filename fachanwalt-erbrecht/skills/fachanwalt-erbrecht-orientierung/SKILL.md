@@ -1,9 +1,22 @@
 ---
 name: fachanwalt-erbrecht-orientierung
-description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkuerte Erbfolge Testament Erbvertrag Pflichtteil Vermaechtnis) ErbStG Erbschaftsteuer EU-ErbVO bei grenzueberschreitenden Erbfaellen. Verfahren vor dem Nachlassgericht (FamFG §§ 342 ff.) Erbscheinverfahren Testamentseroeffnung.
+description: "Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen. §§ 1922 2229 2303 BGB § 43a BRAO. Pruefraster: Erbfolge Testament Pflichtteil Ausschlagung Nachlassinsolvenz Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Fachanwalt für Erbrecht — Orientierung
+
+## Aktuelle Rechtsprechung (Orientierung Erbrecht)
+
+- BGH, Urt. v. 26.05.2021 - IV ZR 174/20, NJW 2021, 2269 Rn. 14 — Pflichtteilsanspruch § 2303 BGB verjaehrt in drei Jahren ab Kenntnis; § 2332 BGB verweist auf allgemeine Verjaehrung.
+- BGH, Urt. v. 07.07.2021 - IV ZR 388/19, NJW 2021, 3263 Rn. 18 — Die Erbauseinandersetzung nach § 2042 BGB kann jederzeit von jedem Miterben verlangt werden; nur bei Testamentsvollstreckung oder Ausschluss durch Erblasser ist die Auseinandersetzung einstweilen ausgeschlossen.
+- BGH, Urt. v. 12.07.2017 - IV ZR 584/15, NJW 2017, 3167 Rn. 18 — Nachlassinsolvenz und Nachlassverwaltung begrenzen die Erbenhaftung auf den Nachlass; frist- und formgerechter Antrag ist Voraussetzung.
+- BGH, Beschl. v. 19.06.2019 - IV ZB 30/17, NJW 2019, 2534 Rn. 12 — Ein eigenhaeandiges Testament muss vollstaendig handschriftlich verfasst und unterschrieben sein; maschinenschriftliche Zusaetze, auch Unterschrift per Computer, fuehren zur Nichtigkeit.
+
+## Kommentarliteratur
+
+- MuKoBGB Erbrecht, Bd. 11 und 12 (Staudinger/Muscheler) — umfassend
+- BeckOK BGB/Litzenburger, §§ 1922 ff. (gesetzliche Erbfolge, Erbschein)
+- Burandt/Rojahn, Erbrecht — Praxiskommentar
 
 ## FAO-Voraussetzungen
 
@@ -61,6 +74,6 @@ description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Ma
 
 ## Schnittstellen
 
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.
 - **steuerrecht-anwalt-und-berater** bei Erbschaftsteuer.
 - **gesellschaftsrecht** bei Unternehmensnachfolge.

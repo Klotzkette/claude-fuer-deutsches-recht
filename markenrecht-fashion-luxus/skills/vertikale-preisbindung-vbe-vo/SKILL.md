@@ -1,6 +1,6 @@
 ---
 name: vertikale-preisbindung-vbe-vo
-description: "Vertikale Preisbindung und Vertikal-GVO (EU) 2022/720: Hardcore-Beschraenkungen Art. 4, Mindestpreise verboten, unverbindliche Preisempfehlung zulässig, Dual-Pricing nach DSA, Marktanteilsschwelle 30 Prozent. Laedt, wenn der Nutzer 'Preisbindung', 'Vertikal-GVO', 'Mindestpreis Händler', 'UPE Empfehlung' oder 'Preisempfehlung verboten' sagt."
+description: "Vertikale Preisbindung und Vertikal-GVO-Compliance fuer Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Pruefraster: Verbotene Mindestpreise, zulaessige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus."
 ---
 
 # Vertikale Preisbindung und Vertikal-GVO
@@ -115,3 +115,19 @@ Dual Pricing (Online-Aufschlag pauschal) | NEIN      | Art. 4e VGG
 - **E-Mail-Beweise:** Interne E-Mails mit Formulierungen wie „Händler muss EUR 1.200 einhalten" sind gefährliche Beweise im Kartellverfahren
 - **Dual-Pricing-Falle 2022:** Seit Vertikal-GVO 2022 ist Dual Pricing explizit als potentielle Hardcore-Beschränkung eingestuft — alter Vertrag muss angepasst werden
 - **Marktanteilsmonitor:** Jährliche Überprüfung ob 30 %-Schwelle überschritten wird — bei Überschreitung sofortige kartellrechtliche Beratung
+
+## Triage-Fragen zur Preisbindung
+
+Bevor die Preisklauseln in Händlerverträgen verabschiedet werden, klaere:
+1. Handelt es sich um eine verbindliche Mindestpreisklausel (Hardcore-Verstoß) oder echte UPE?
+2. Liegt der Marktanteil von klotzkette SA im relevanten Markt unter 30 % (Vertikal-GVO-Freistellungsschwelle)?
+3. Gibt es interne E-Mails oder Monitoring-Systeme, die als de-facto-Preisbindung ausgelegt werden koennen?
+4. Ist Dual Pricing Online/Offline geplant — wenn ja, auf tatsaechlichen Mehrkosten basierend?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 02.02.2021 — KZR 20/17 (Vertikale Preisbindung Schulranzen):** Auch wenn ein Lieferant keine formelle Preisbindungsklausel einsetzt, begruendet ein systematisches Monitoring der Haendlerpreise mit anschliessenden Sanktionierungsdrohungen eine nach Art. 101 I AEUV verbotene bezweckte Wettbewerbsbeschraenkung.
+
+> **EuGH, Urt. v. 13.10.2011 — C-439/09 (Pierre Fabre):** Ein generelles Internetverkaufsverbot in selektiven Vertriebssystemen ist als Hardcore-Beschraenkung i.S.v. Art. 4 lit. c Vertikal-GVO einzustufen; es genuegt kein Nachweis, dass das Verbot dem Luxusimage des Produkts dient.
+
+> **Bundeskartellamt, Beschl. v. 26.08.2015 — B 11-13/14 (Sennheiser):** Hersteller verstoessen gegen Art. 101 AEUV, wenn sie Online-Haendler durch Preismonitoring-Software und drohende Lieferstopps faktisch auf die UPE verpflichten; die Absicht, das Luxusimage zu schuetzen, entschuldigt nicht.

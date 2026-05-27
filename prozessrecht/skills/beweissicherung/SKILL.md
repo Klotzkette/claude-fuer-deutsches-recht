@@ -1,6 +1,6 @@
 ---
 name: beweissicherung
-description: "Anordnung, Aktualisierung, Aufhebung oder Statusbericht zu Aufbewahrungspflichten und Beweissicherungsmaßnahmen nach deutschem Recht – § 257 HGB, § 147 AO, §§ 286 und 444 ZPO (Beweisvereitelung), §§ 485 ff. ZPO (Selbständiges Beweisverfahren). Verwenden, wenn der Nutzer sagt „Aufbewahrungspflicht prüfen\", „Beweissicherung anordnen\", „Legal Hold einrichten\" oder Statusbericht über Sicherungsmaßnahmen anfordert."
+description: "Beweissicherungsantrag im selbstaendigen Beweisverfahren vorbereiten: Sachverstaendigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Pruefraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf. Output: Antrag auf selbstaendiges Beweisverfahren. Abgrenzung: nicht einstweilige Verfuegung."
 ---
 
 # Aufbewahrungspflicht und Beweissicherung

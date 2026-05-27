@@ -1,6 +1,6 @@
 ---
 name: zv-zvg-antrag-glaeubiger
-description: "Antrag auf Zwangsversteigerung oder Zwangsverwaltung aus Gläubigersicht nach ZVG. Bereitet Anordnung §§ 15 ff. ZVG, Beitritt § 27 ZVG, geringstes Gebot, Bargebot und Verteilungstermin vor. Setzt eingetragenes Recht (Hypothek, Grundschuld) oder persönlichen Titel mit Eintragung Zwangshypothek § 866 ZPO voraus. Lädt bei Immobiliarvollstreckung."
+description: "Glaeubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Pruefraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Glaeubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht."
 ---
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)

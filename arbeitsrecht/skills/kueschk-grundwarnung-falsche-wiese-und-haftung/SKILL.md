@@ -31,6 +31,36 @@ Die Frist beginnt mit dem Tag des **Zugangs** der Kündigung (nicht dem Datum au
 
 ---
 
+## Triage zu Beginn — kläre vor Einbettung des Warnbausteins
+
+1. Handelt es sich um einen Laien-Output (nicht anwaltlicher Nutzer)?
+2. Wurde der KSchG-Anwendbarkeitscheck bereits durchgeführt (`kueschk-anwendbarkeit-kschg-pruefen`)?
+3. Ist die Drei-Wochen-Frist bereits einkalkuliert (Zugangsdatum bekannt)?
+
+Nur wenn Frage 1 = ja: Warnbaustein zwingend einbetten. Bei Anwält:innen entfällt der Pflicht-Disclaimer-Kopf.
+
+## Zentrale Normen
+
+- **§ 4 KSchG** — Klagefrist drei Wochen ab Zugang der schriftlichen Kündigung
+- **§ 5 KSchG** — Nachträgliche Zulassung der Klage bei unverschuldeter Fristversäumung (Antragsfrist: zwei Wochen nach Wegfall des Hindernisses)
+- **§ 7 KSchG** — Fiktion der Wirksamkeit bei Fristversäumung
+- **§ 23 KSchG** — Betrieblicher Geltungsbereich KSchG (Schwellenwert > 10 Arbeitnehmer)
+- **§ 1 Abs. 1 KSchG** — Wartezeit sechs Monate
+- **§ 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 26.06.2008 – 2 AZR 264/07, NZA 2008, 1182 — Die Drei-Wochen-Frist des § 4 KSchG ist eine materiell-rechtliche Ausschlussfrist; ihre Versäumung lässt sich nur über § 5 KSchG heilen, nicht durch allgemeine Wiedereinsetzungsregeln.
+- BAG, Urt. v. 22.03.2012 – 2 AZR 224/11, NZA 2012, 1101 — Eine Kündigung gilt nach § 7 KSchG als von Anfang an wirksam, wenn der Arbeitnehmer die Klagefrist versäumt; nachträgliche Kenntnis vom Unwirksamkeitsgrund ändert daran nichts.
+- BAG, Urt. v. 23.02.2012 – 2 AZR 773/10, NZA 2012, 858 — Der Zugang einer schriftlichen Kündigung richtet sich nach §§ 130 ff. BGB; maßgeblich ist der Zeitpunkt, in dem die Willenserklärung in den Machtbereich des Empfängers gelangt und mit Kenntnisnahme zu rechnen ist.
+- BAG, Urt. v. 28.06.2012 – 6 AZR 682/10, NZA 2012, 1090 — § 5 KSchG setzt unverschuldete Verhinderung voraus; grobe Fahrlässigkeit des Arbeitnehmers schließt die nachträgliche Zulassung aus.
+
+## Kommentarliteratur
+
+- ErfK/Kiel, 24. Aufl. 2024, § 4 KSchG Rn. 1-15 — (Klagefrist und Zugang)
+- KR/Friedrich, 13. Aufl. 2022, § 4 KSchG Rn. 20 ff. — (Fristbeginn, Ausschlussfrist)
+- APS/Dörner/Linck, 6. Aufl. 2022, § 4 KSchG Rn. 5 ff. — (Fiktion § 7 KSchG)
+
 ## Wo dieser Baustein erscheint
 
 - Vor jedem Klageschrift-Entwurf (Skill `kueschk-klageschrift-laie-baustein`)

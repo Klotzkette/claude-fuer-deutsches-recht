@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-eigentuemer-nachbar
-description: Pruefung der Antragsbefugnis nach Paragraf 47 Abs. 2 S. 1 VwGO im Normenkontrollverfahren gegen Bebauungsplan. Moeglichkeitstheorie als Massstab. Eigentuemer im Plangebiet stets antragsbefugt wegen Eigentumsgarantie Art. 14 GG. Eigentuemer ausserhalb des Plangebiets nur bei abwaegungserheblichem Belang. Nachbarn Mieter Pachter Erbbauberechtigte je nach Schutzbereich der Norm. Beachtung BVerwG Beschluss vom 31.1.2017 4 BN 28.16 zur Schwelle abwaegungserheblicher Belang. Verbandsklage durch anerkannte Naturschutzvereinigungen Paragraf 64 BNatSchG und Paragraf 2 UmwRG. Gemeinde gegen FNP Paragraf 8 Abs. 2 BauGB. Subjektives Recht muss moeglich erscheinen reine Drittinteressen reichen nicht. Reine Wertminderung problematisch wenn nicht auf abwaegungserheblichem Belang beruht.
+description: "Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Pruefraster: Moeglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist)."
 ---
 
 # Antragsbefugnis § 47 Abs. 2 VwGO
@@ -131,3 +131,13 @@ Zweite Säule der Zulässigkeit. Die Antragsbefugnis filtert nicht selbst betrof
 - BVerwG, Beschluss vom 9.2.1995 – 4 NB 17.94 (Wertminderung)
 - BVerwG, Beschluss vom 8.6.2011 – 4 BN 42.10 (Nachbar abwägungserheblich)
 - BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Maßstab Möglichkeitstheorie)
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 24.09.1998 - 4 CN 2.98, BVerwGE 107, 215 Rn. 10 — Antragsbefugnis von Eigentümern im Plangebiet: ausreichend ist die mehr als geringfügige Beeinträchtigung einer eigentumsrechtlich geschützten Position; Planung muss sich unmittelbar auf das Grundstück auswirken.
+- BVerwG, Beschl. v. 31.01.2017 - 4 BN 28.16, ZfBR 2017, 366 — Nachbarantragsbefugnis setzt voraus, dass Belange geltend gemacht werden können, die die Bauleitplanung zu berücksichtigen hat; bloßes Nachbarschaftsverhältnis genügt ohne abwägungserheblichen Belang nicht.
+
+## Kommentarliteratur
+
+- Kopp/Schenke VwGO 29. Aufl., § 47 Rn. 50-75 (Antragsbefugnis Normenkontrolle)
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., Vor § 1 Rn. 15-30 (Rechtsschutz Normenkontrolle)

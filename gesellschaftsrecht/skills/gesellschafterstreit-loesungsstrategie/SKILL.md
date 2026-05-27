@@ -1,268 +1,135 @@
 ---
 name: gesellschafterstreit-loesungsstrategie
-description: Strategie bei Gesellschafterstreit insbesondere GmbH-Two-Tier-Konflikten. Mediation Gespraechskonzept Beschluss-Anfechtungs-Klage § 246 AktG analog Auflage- und Abberufungs-Klage Geschaeftsfuehrer Hinauskuendigungs-Verfahren Anteilseinziehung § 34 GmbHG Verkaufs- und Vorkaufs-Recht Buy-Sell-Klausel Russian-Roulette Texas-Shootout Ausschluss-Klage § 140 HGB analog. Praxis-orientierte Verhandlungs-Strategie Wertbestimmungs-Verfahren Abfindungsberechnung BGH IX ZR Verkehrswert nicht Buchwert. Schiedsklausel-Pruefung Schiedsgerichtsbarkeit § 1029 ZPO DIS-Schiedsgerichtsordnung.
+description: "Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kuendigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschaeftsfuehrer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 GmbHG Gesellschafterversammlung. Pruefraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss fuer Beschlussfassung mandat-triage fuer Erst-Abfrage."
 ---
 
 # Gesellschafterstreit — Lösungsstrategie
 
-## Zweck
+## Triage zu Beginn
 
-Bei Gesellschafter-Streit (Two-Tier-Konflikt Mehrheits-/Minderheits-Konflikt Geschäftsführer-Gesellschafter-Konflikt) Lösungs-Strategien systematisch durchgehen.
+Vor dem Start der strategischen Analyse folgende Fragen klären:
 
-## Schritt 1 — Konflikt-Diagnose
+1. **Mandantenrolle:** Mehrheitsgesellschafter, Minderheitsgesellschafter, GF als Beklagter oder Erbe?
+2. **Konflikttypus:** Two-Tier-50/50, Mehrheit gegen Minderheit, GF-Konflikt oder Familiengesellschaft?
+3. **Eskalationsstufe:** Frühphase (persönlich, lösbar) oder fortgeschrittene Eskalation (Klage droht/läuft)?
+4. **Existenzgefahr:** Ist die Gesellschaft durch den Streit in ihrer Existenz bedroht?
+5. **Schiedsklausel:** Gibt es eine wirksame Schiedsklausel in der Satzung? (Ordentlicher Rechtsweg ggf. gesperrt)
+6. **Anfechtungsfrist:** Falls Beschlussfehler relevant — läuft die 1-Monat-Frist analog § 246 AktG?
+7. **Abfindungsrelevanz:** Gibt es bereits konkrete Wertvorstellungen oder Satzungsklauseln zur Abfindung?
 
-### Typische Konflikt-Konstellationen
+## Zentrale Normen
 
-- **Two-Tier-Konflikt** zwei Gesellschafter gegen einander 50/50
-- **Mehrheit gegen Minderheit** strukturelles Stimm-Übergewicht
-- **Geschäftsführer gegen Gesellschafter** mit Abberufung-Drohung
-- **Familiengesellschaft** mit Erb-Konflikten
-- **Konfliktsplittung** strategisch / persönlich / wirtschaftlich
+§ 38 GmbHG (Abberufung GF; jederzeit möglich) — § 34 GmbHG (Einziehung von Geschäftsanteilen; Satzungserfordernis) — § 47 GmbHG (Abstimmung; Stimmrechtsausschluss) — § 46 Nr. 8 GmbHG (Gesellschafterbeschluss über Klage gegen GF) — § 140 HGB analog (Ausschlusskiage; auf GmbH analog angewendet) — § 626 BGB (außerordentliche Kündigung; auch GF-Anstellungsvertrag) — §§ 241, 243, 246 AktG analog für GmbH (Beschlussmängelrecht) — §§ 935, 940 ZPO (einstweilige Verfügung) — § 1029 ZPO (Schiedsvereinbarung) — § 313 BGB (Störung der Geschäftsgrundlage)
 
-### Konflikt-Ursachen
+## Aktuelle Rechtsprechung
 
-- Strategie-Differenzen
-- Vergütungs-/Gewinnverteilung
-- Compliance-Verstöße
-- Persönliche Konflikte
-- Erbschafts-Konflikte
-- Wirtschaftliche Schieflage
+- BGH, Urt. v. 19.09.2005 – II ZR 173/04, NJW 2005, 3569 — Ausschluss eines GmbH-Gesellschafters aus wichtigem Grund analog § 140 HGB; Voraussetzung ist ein schwerwiegender Grund, der die Fortsetzung der Gesellschaft mit dem betreffenden Gesellschafter unzumutbar macht.
+- BGH, Urt. v. 07.02.1983 – II ZR 25/82, BGHZ 86, 177 — Abfindungs-Beschränkung auf Buchwert; sittenwidrig nach § 138 BGB, wenn die Klausel zu einer Enteignung des ausscheidenden Gesellschafters führt; Verkehrswert als Untergrenze.
+- BGH, Urt. v. 20.09.2011 – II ZR 234/09, NJW 2011, 3441 — Business Combination: Vinkulierungsklausel in GmbH-Satzung; Verweigerung der Zustimmung zur Anteilsübertragung muss sachlich gerechtfertigt sein; treuwidrige Verweigerung führt zu Schadensersatz.
+- BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine) — GmbH-Beschlussmängelklage analog §§ 243 ff. AktG; 1-Monat-Frist analog § 246 AktG auch bei GmbH.
 
-### Mandantenrolle
+## Kommentarliteratur
 
-- Mehrheits-Gesellschafter
-- Minderheits-Gesellschafter
-- Geschäftsführer als Beklagter Abberufung
-- Familienangehöriger als Erbe Anteil
+- Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff. (Einziehung von Geschäftsanteilen; Voraussetzungen; Abfindung).
+- Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 38 Rn. 1 ff. (Abberufung des Geschäftsführers; wichtiger Grund).
+- Roth/Altmeppen, GmbHG, 11. Aufl. 2023, Einl. Rn. 20 ff. (Gesellschafterstreit; Mediationsvorrang; Klagestrategie).
 
-## Schritt 2 — Bestandsaufnahme
+## Prüfschema: Gesellschafterstreit-Strategie
 
-### Gesellschafts-Recht
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Konflikt-Diagnose | Konflikttypus und Eskalationsstufe bestimmen | Strategierahmen festgelegt |
+| 2 | Schiedsklausel | Satzungs-Schiedsklausel vorhanden und wirksam? | Ordentlicher Rechtsweg gesperrt → Schiedsgericht |
+| 3 | Fristenlage | Beschluss-Anfechtungsfrist (1 Monat analog § 246 AktG); Abberufungsfrist | Sofortige Fristnotiz |
+| 4 | Mediation | Mittlere Eskalation oder Unternehmensexistenz bedroht → Mediation prüfen | Mediationsvorrang oder sofortige Eskalation |
+| 5 | Beschluss-Anfechtung | Formfehler? Stimmrechtsausschluss verletzt? Treuepflicht-Verstoß? | Anfechtungsklage analog § 246 AktG |
+| 6 | GF-Abberufung | § 38 GmbHG: jederzeit möglich; wichtiger Grund bei § 38 Abs. 2 GmbHG; Anstellungsvertrag separat kündigen | Beschluss GV + Kündigung |
+| 7 | Einziehung § 34 GmbHG | Satzungsklausel vorhanden? Einziehungsgrund? Beschluss der GV; Abfindung Verkehrswert | Einziehungsklage vorbereiten |
+| 8 | Ausschlussklage | § 140 HGB analog: wichtiger Grund unzumutbar; Klage der Gesellschaft; Abfindung | Klageentwurf |
+| 9 | Abfindungsberechnung | Verkehrswert (IDW S 1 Ertragswert) vs. Buchwert-Klausel; Satzungsklausel prüfen auf Sittenwidrigkeit | Wertgutachten beauftragen |
+| 10 | Einstweiliger Rechtsschutz | § 935 ZPO: Verfügungsanspruch (Beschlussfehler) und Verfügungsgrund (Eilbedürftigkeit) | Einstweilige Verfügung vorbereiten |
+| 11 | BATNA / ZOPA | BATNA beider Seiten; ZOPA ermitteln; wirtschaftliche Folgen ohne Einigung | Verhandlungsrahmen abstecken |
+| 12 | Buy-Sell-Klauseln | Russian Roulette / Texas Shootout vorhanden? Aktivierung sinnvoll? | Klausel analysieren und Ablauf simulieren |
 
-- Satzung GmbH-Vertrag aktuelle Fassung
-- Gesellschafterliste aktuell
-- Geschäftsführer-Anstellungs-Verträge
-- Bisherige Beschluss-Protokolle
-- Wirtschafts-Status (Bilanz GuV)
+## Schritt-fuer-Schritt-Workflow
 
-### Schiedsklausel?
+1. **Sachverhalt aufnehmen:** Satzung, Gesellschafterliste, Beschlussprotokoll, Anstellungsvertrag GF, Wirtschaftsstatus.
+2. **Schiedsklausel prüfen:** DIS/ICC/Ad-hoc; bei wirksamer Klausel Schiedsgericht statt ordentliches Gericht.
+3. **Fristen sichern:** Anfechtungsfrist 1 Monat analog § 246 AktG sofort kalendarisch sichern.
+4. **Mandantenrolle analysieren:** Welche Instrumente stehen dem Mandanten zur Verfügung?
+5. **Mediation erwägen:** Bei mittlerer Eskalation und Unternehmensinteresse immer als Erstweg anbieten.
+6. **Optionen-Matrix erstellen:** Alle rechtlichen Instrumente mit Vor-/Nachteilen, Zeitrahmen, Kosten gegenüberstellen.
+7. **Strategie festlegen:** Welche Kombination von Instrumenten (Anfechtung + einstweilige Verfügung, Einziehung + Abberufung)?
+8. **Abfindungsrahmen abstecken:** IDW S 1-Gutachten beauftragen; Buchwert-Klausel auf Sittenwidrigkeit prüfen.
+9. **Verhandlungsposition aufbauen:** BATNA beider Seiten; Verhandlungsziele und Roten Linien festlegen.
+10. **Klage oder Vergleich:** Wenn Mediation scheitert: Klageentwurf; Vergleichsangebot parallel vorbereiten.
 
-- In Satzung?
-- DIS / ICC / Ad-hoc?
-- Bei wirksamer Schiedsklausel ordentlicher Rechtsweg gesperrt
+## Output-Template
 
-## Schritt 3 — Mediation als Erstweg
-
-### Vorteile
-
-- Beziehung erhaltend
-- Vertraulichkeit
-- Schneller
-- Kostengünstiger als Klage
-
-### Nachteile
-
-- Voraussetzt Bereitschaft beider Parteien
-- Kann Strategie offenbaren
-
-### Empfehlung
-
-- Bei mittlerer Eskalation immer erwägen
-- Bei drohendem Existenz-Risiko des Unternehmens vorrangig
-
-## Schritt 4 — Beschluss-Anfechtungs-Klage
-
-### Bei GmbH analog § 246 AktG
-
-- **Ein Monat** Frist analog § 246 AktG
-- Im Streit Frist-Beginn ab Beschluss-Mitteilung
-- BGH II ZR 156/09 — Ein-Monats-Frist analog
-
-### Klage-Antrag
+**Adressat:** Mandant / Kanzlei intern — **Tonfall:** sachlich-strategisch
 
 ```
-1. Der Beschluss der Gesellschafterversammlung der
-   [Gesellschaft] vom [Datum] zu TOP [N] mit dem Inhalt
-   "[Wortlaut]" wird für nichtig erklärt.
+# Gesellschafterstreit-Strategie
+Gesellschaft: [FIRMA / HRB-NUMMER]
+Mandant: [NAME + ROLLE]
+Bearbeitungsstand: [DATUM]
 
-2. Hilfsweise: Es wird festgestellt, dass der Beschluss
-   nichtig ist.
+## Konflikt-Diagnose
+Konflikttypus: [Two-Tier / Mehrheit-Minderheit / GF-Konflikt / Familie]
+Eskalationsstufe: [Früh / Mittel / Hoch / Existenzgefährdend]
+Schiedsklausel: [ja/nein; wenn ja: Ordnung + Ort]
+
+## Fristen (KRITISCH)
+Anfechtungsfrist: Beschluss v. [DATUM] → Ablauf [DATUM + 1 Monat]
+Weitere Fristen: [AUFLISTUNG]
+
+## Optionen-Matrix
+
+| Option | Instrument | Zeitrahmen | Kosten | Risiko |
+|---|---|---|---|---|
+| Mediation | Neutral | 4-8 Wochen | mittel | Ergebnisoffen |
+| Beschluss-Anfechtung | § 246 AktG analog | 6-18 Monate | mittel-hoch | Kausalität |
+| GF-Abberufung | § 38 GmbHG + § 626 BGB | 2-4 Wochen | mittel | Anstellungsvertrag |
+| Einziehung | § 34 GmbHG | 3-6 Monate | hoch | Abfindungsstreit |
+| Ausschlussklage | § 140 HGB analog | 12-24 Monate | hoch | Beweislast |
+| Buy-Sell | Satzungsklausel | 30-90 Tage | abhängig | Liquidität |
+
+## Empfohlene Strategie
+[Primärempfehlung + Begründung + Zeitplan]
+
+## Abfindungsrahmen
+Buchwert (Satzungsklausel): [X EUR]
+Verkehrswert (IDW S 1 Schätzung): [Y EUR]
+Sittenwidrigkeitsprüfung: [ja/nein]
+
+## Nächste Schritte
+1. [MASSNAHME] bis [DATUM]
+2. [MASSNAHME] bis [DATUM]
 ```
 
-### Anfechtungs-Gründe
+## Rote Schwellen
 
-- Form-Mängel (Einladung Tagesordnung Beschlussfähigkeit)
-- Stimmrechts-Ausschluss-Verletzung
-- Treuepflicht-Verstoß
-- Sittenwidrig § 138 BGB
+- Anfechtungsfrist 1 Monat analog § 246 AktG läuft → sofortige Klage oder bewusstes Abstehen dokumentieren
+- Gesellschaft zahlungsunfähig während des Konflikts → § 15a InsO; sofort Insolvenzrecht einbeziehen
+- Existenzgefährdung durch Pattsituation → einstweilige Verfügung § 935 ZPO prüfen
+- Abfindungsklausel Buchwert und Differenz zum Verkehrswert mehr als 50 % → Sittenwidrigkeit § 138 BGB prüfen
 
-### Nichtigkeits-Gründe
+## Quellen und Vertiefung
 
-- **Wesentliche Gesetz-Verstöße** § 241 AktG analog
-- Beschluss-Inhalt sittenwidrig
-
-## Schritt 5 — Geschäftsführer-Abberufung
-
-### § 38 GmbHG
-
-- Abberufung jederzeit möglich
-- Bei Anstellungs-Vertrag separat zu kündigen
-- Bei freier Hand der Gesellschafterversammlung
-
-### Aus wichtigem Grund § 38 Abs. 2 GmbHG
-
-- Vorzeitige Abberufung
-- Gründe: Pflicht-Verletzung Konflikt zu anderen Gesellschaftern Auseinanderlebung
-
-### Anstellungs-Vertrag-Kündigung
-
-- Außerordentlich aus wichtigem Grund § 626 BGB
-- Ordentlich nach Vertrag
-
-### Verteidigung Geschäftsführer
-
-- Sozialer-Vergleich Status quo
-- D&O-Versicherung
-- Verteidigung gegen Pflicht-Verletzung-Vorwurf
-
-## Schritt 6 — Einziehung Anteil § 34 GmbHG
-
-### Voraussetzung
-
-- **Satzungs-Klausel** zwingend
-- Konkreter Einziehungs-Grund (z. B. Pflichtverletzung)
-- Beschluss Gesellschafter-Versammlung
-- Ggf. außerhalb-Stehende Person Vermögensschwund
-
-### Wirkung
-
-- Anteil erlischt
-- Gesellschafter scheidet aus
-
-### Abfindungs-Anspruch
-
-- Nach Satzung oder § 728 BGB n.F. analog (seit MoPeG 1.1.2024; vormals § 738 BGB a.F.)
-- **Verkehrswert** als Maßstab BGH II ZR 156/09 — nicht Buchwert
-- IDW S 1 Ertragswert-Bewertung Standard
-
-## Schritt 7 — Hinauskündigungs-Klage
-
-### § 140 HGB analog für GmbH
-
-- Klage Gesellschaft gegen Gesellschafter
-- Bei wichtigem Grund
-- Abfindung erforderlich
-- BGH II ZR 76/01 Hinauskündigungs-Klage
-
-### Voraussetzungen
-
-- Wichtiger Grund
-- Treuepflicht-Verstoß
-- Persönliche Unzumutbarkeit
-
-## Schritt 8 — Abfindungs-Berechnung
-
-### Verkehrswert vs. Buchwert
-
-- **Verkehrswert** als Verfassungs-Maßstab BVerfGE 100, 289
-- IDW S 1 Bewertungs-Standard
-- Ertragswert-Methode
-- Diskontierungs-Satz
-- Bewertungs-Abschläge bei Minderheits-Anteil
-- Bewertungs-Aufschläge bei Pflicht-Beitrag
-
-### Bei Satzungs-Abfindung
-
-- Buchwert-Klausel BGH IX ZB Wirksamkeits-Limit
-- Bei mehr als 50 Prozent Differenz zu Verkehrswert problematisch
-- BGH II ZR 8/93 — Sittenwidrigkeit bei extrem niedrig
-
-### Abfindungs-Modalität
-
-- Ratenzahlung möglich
-- Verzinsung
-- Sicherheits-Leistung
-
-## Schritt 9 — Buy-Sell-Klauseln
-
-### Russian-Roulette
-
-- Ein Gesellschafter macht Angebot zum Kauf
-- Anderer kann annehmen oder zum selben Preis verkaufen
-
-### Texas-Shootout
-
-- Verdeckte Höchst-Gebote
-- Höher Bietender erwirbt zum eigenen Gebot
-
-### Wartezeit / Cooling-Off
-
-- Trial Period vor Aktivierung
-
-## Schritt 10 — Strategische Verhandlungs-Aspekte
-
-### BATNA-Bestimmung
-
-- **Best Alternative To a Negotiated Agreement**
-- Was passiert ohne Einigung?
-- Wirtschaftliche Folgen
-
-### ZOPA-Ermittlung
-
-- **Zone Of Possible Agreement**
-- Reservations-Preise beider Seiten
-
-### Mediations-Vorlauf
-
-- Strukturierte Gesprächs-Vorbereitung
-- Sachebene Beziehungs-Ebene Interessens-Ebene
-
-## Schritt 11 — Wirtschaftliches Sicherheits-Netz
-
-### Vorläufige Maßnahmen
-
-- **Einstweilige Verfügung** § 935 ZPO
-- Beschlusssperre
-- Geschäftsführer-Sperre
-
-### Bei Existenz-Bedrohung
-
-- **Schutzschirm § 270d InsO** möglich
-- **StaRUG**
-
-## Schritt 12 — Bei Schiedsklausel
-
-- Schieds-Gerichts-Klage
-- DIS-Schiedsgerichts-Ordnung Anwendung
-- Verfahrens-Sprache
-- Anzahl Schiedsrichter
-
-## Schritt 13 — Familiengesellschaft-Sonderfall
-
-- Erbrecht-Bezug
-- Pflichtteil-Bezug
-- Steuerliche Aspekte Schenkung/Erbschaftsteuer
-- Mediation prioritär
-
-## Ausgabe
-
-- `gesellschafterstreit-strategie-{az}.md`
-- Konflikt-Diagnose
-- Optionen-Matrix mit Bewertung
-- Mediations-Vorbereitung
-- Klage-Erstentwurf bei Eskalation
-- Frist im Fristenbuch (Beschluss-Anfechtungs-Frist ein Monat)
-- Abfindungs-Berechnungs-Vorbereitung
-
-## Quellen
-
-- GmbHG §§ 34 38 39
+- GmbHG §§ 34, 38, 39, 46, 47
 - HGB § 140
-- BGB §§ 138 626 738
-- AktG §§ 241 246
-- ZPO §§ 935 1029
-- StaRUG
-- BGH II. Zivilsenat
-- BVerfGE 100, 289
-- Scholz GmbHG
-- Lutter/Hommelhoff GmbHG
+- BGB §§ 138, 626, 738
+- AktG §§ 241, 246
+- ZPO §§ 935, 1029
+- BGH, Urt. v. 19.09.2005 – II ZR 173/04, NJW 2005, 3569 (Ausschlussklage analog § 140 HGB).
+- BGH, Urt. v. 07.02.1983 – II ZR 25/82, BGHZ 86, 177 (Abfindungs-Buchwertklausel; Sittenwidrigkeit).
+- BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine; GmbH-Beschlussmängelklage).
+- Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff.
+- Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 38 Rn. 1 ff.
+
+## Uebergabe an andere Skills
+
+- `gesellschaftsrecht:gesellschafterbeschluss` — Beschlussanfechtung und Nichtigkeitsklage
+- `gesellschaftsrecht:geschaeftsfuehrer-haftung-43-gmbhg` — wenn GF-Haftungsvorwürfe Teil des Konflikts
+- `gesellschaftsrecht:aufsichtsrat-protokoll` — wenn AR-Gremium in Konflikt involviert
+- `gesellschaftsrecht:mandat-triage-gesellschaftsrecht` — Mandatsaufnahme bei neuem Streit

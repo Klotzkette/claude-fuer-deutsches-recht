@@ -5,6 +5,21 @@ description: "Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnun
 
 # Entfristung: Laie oder Anwalt?
 
+## Zentrale Normen
+
+- § 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz vor dem Arbeitsgericht
+- § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende (absolute Ausschlussfrist)
+- § 7 KSchG (analog) — Fiktionswirkung: Befristung gilt bei Fristversäumnis als wirksam
+- § 5 KSchG (analog) — Nachträgliche Zulassung bei unverschuldeter Fristversäumnis
+- § 14 Abs. 4 TzBfG — Schriftformerfordernis (häufig übersehener Unwirksamkeitsgrund)
+- § 12a ArbGG — kein Kostenerstattungsanspruch für gegnerischen Anwalt in erster Instanz
+
+## Warum anwaltliche Beratung besonders wichtig ist
+
+- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Die 3-Wochen-Frist des § 17 TzBfG ist materiell-rechtliche Ausschlussfrist; nach Ablauf ist kein Angriff auf die Befristung mehr möglich, selbst bei evidentem Formfehler.
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Schriftformfehler (elektronische Signatur) macht die Befristung automatisch unwirksam — aber nur wenn rechtzeitig Klage erhoben wird; ohne Klage tritt Fiktionswirkung ein.
+- BAG, Urt. v. 19.02.2008 – 9 AZR 70/07, NZA 2008, 1004 — Fehlende Rechtskenntnis des Arbeitnehmers ist kein Entschuldigungsgrund für nachträgliche Zulassung; die Frist läuft unabhängig von Kenntnis oder Unkenntnis.
+
 ## Zweck
 
 Wie im KüSchK-Bündel muss auch im Entfristungs-Workflow zunächst geklärt werden, wer den Skill nutzt. Die Warnstufe und die Art der Ausgaben richten sich danach.

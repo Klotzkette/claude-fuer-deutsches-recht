@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwenden
-description: Wende deutsche Methodenlehre und Rechtsanwendung im buergerlichen Recht aus Anwaltsperspektive an. Gutachtenstil als Standard Urteilsstil auf Anforderung. Pruefe Anspruchsgrundlagen in der Reihenfolge Vertrag c.i.c. GoA Dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung Wortlaut System Historie Telos pragmatisch ohne starren Vorrang. Verfassungs- und unionsrechtskonforme Auslegung. Lueckenfuellung Analogie teleologische Reduktion. Generalklauseln als Auffang. Belege jede Aussage mit Fundstelle. Beruecksichtige Verjaehrung Beweislast prozessuale Fristen.
+description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Pruefraster Gutachtenstil Anspruchsgrundlagen Verjaehrung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Pruefungsaufbau. Abgrenzung zu subsumtions-pruefer (mechanische Pruefung) und hausarbeitenmacher (akademisch)."
 ---
 
 # Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)

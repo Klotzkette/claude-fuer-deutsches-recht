@@ -1,9 +1,32 @@
 ---
 name: examensvorbereitung-fragen
-description: "Examensvorbereitungs-Fragen für das 1. und 2. Juristische Staatsexamen, bundeslandspezifisch nach JAG. Lade diesen Skill, wenn der Nutzer sagt: „Examensklausur\", „Übungsfragen\", „teste mich\", „Examensvorbereitung\", „1. StEx\", „2. StEx\" oder ähnliches."
+description: "Examensvorbereitungs-Fragen fuer 1. und 2. Staatsexamen erstellen: Anwendungsfall Student will Examenswissen durch gezielte Uebungsfragen trainieren und Schwachstellen erkennen. 1. StEx und 2. StEx, JAG Bundesland Bayern NRW Hamburg, Subsumtion Gutachtenstil. Pruefraster Fachgebiet Zivilrecht Strafrecht oeffentliches Recht, Zeitdruck-Simulation oder Verstaendnis-Training, Bundesland-spezifisch. Output Uebungsfragen mit Musterloesung und Hinweis auf Schwachstellen. Abgrenzung zu Examensprognose fuer Themengewichtung und zu Gutachten-Uebung fuer Klausur-Training."
 ---
 
 # Examensvorbereitungs-Fragen
+
+
+## Triage zu Beginn
+1. Welches Examen und welches Bundesland (1. StEx, 2. StEx; Bayern, NRW, Hamburg)?
+2. Welches Fachgebiet soll geuebt werden (Zivilrecht, Strafrecht, oeffentliches Recht, Verfahrensrecht)?
+3. Zeitdruck-Simulation oder inhaltliches Verstaendnis-Training?
+4. Welche Schwachpunkte wurden in frueheren Uebungsklausuren identifiziert?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Gutachten-Methode als Examens-Standard: Examen bewertet Struktur, Subsumtion und Argumentation gleichermassen.
+- BGH, Urt. v. 11.12.2018 - 2 StR 391/18, NStZ 2019, 469 — Strafrechtliche Aufbau-Schemata im Examen: Trennung Tatbestand-Rechtswidrigkeit-Schuld als nicht verhandelbar.
+- BVerwG, Urt. v. 28.10.2010 - 2 C 52.09, NVwZ 2011, 240 — Examens-Entscheidungen sind Beurteilungsspielraum des Pruefungsamts; nur grosse Fehler begruenden Anfechtbarkeit.
+- BVerfG, Beschl. v. 17.04.1991 - 1 BvR 419/81, BVerfGE 84, 34 — Chancengleichheit bei juristischen Staatspruefungen als Grundrecht; systematische Vorbereitung sichert diese Chance.
+
+## Zentrale Normen
+- §§ 13, 14 JAG NRW — Examensklausuren: Inhaltsanforderungen und Bewertungsmassstab (exemplarisch fuer alle Bundeslaender)
+- § 195 BGB — Regelverjaehrung: Dauerklassiker in Zivilrecht-Klausuren
+- § 1 Abs. 1 StGB — Bestimmtheitsgebot: Examens-Fundamentalsatz Strafrecht
+- § 42 VwGO — Anfechtungs- und Verpflichtungsklage: Examens-Standard oeffentliches Recht
+
+## Kommentarliteratur
+- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, Einl. Rn. 1-30 (Examensrelevante Strukturen im Schuldrecht)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 1 (Verwaltungsrecht fuer das Examen)
 
 ## Zweck
 

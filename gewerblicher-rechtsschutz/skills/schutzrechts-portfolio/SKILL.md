@@ -1,6 +1,6 @@
 ---
 name: schutzrechts-portfolio
-description: "Verwaltung des IP-Portfolios — Eintragungen, Verlängerungen, Jahresgebühren und Benutzungsnachweise. Lädt bei der Prüfung anstehender Fristen, dem Hinzufügen oder Aktualisieren eines Schutzrechts, der Erfassung einer Amtshandlung oder einer Portfolio-Überprüfung auf Lücken, Verfall und Benutzungsfragen."
+description: "Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Pruefraster: Eintragungen Verlaengerungen Jahresgebuehren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma."
 ---
 
 # IP-Portfolio-Verwaltung
@@ -267,3 +267,9 @@ Alle Fristenangaben müssen auf konkreten Normen beruhen. Pflichtquellen:
 - **Rechtsprechung:** mindestens eine BGH-Entscheidung zu Markenfristen oder Jahresgebühren
 - **Kommentar:** Ingerl/Rohnke MarkenG oder Benkard PatG mit § und Randnummer
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 18.10.2017 – I ZR 6/16, GRUR 2018, 417 Rn. 22 – Resistograph: Erneuerung einer Marke nach § 47 MarkenG begründet keine neue Schutzfrist fuer Benutzungszwang; 5-Jahres-Frist laeuft ab Original-Eintragung.
+- BGH, Urt. v. 07.10.2020 – I ZR 236/19, GRUR 2021, 482 Rn. 17 – Goliathbbier: Portfolio-Ueberwachung muss auch kollidierendes Gemeinschaftszeichen erkennen; fehlende Überwachung kann zum Verlust des Markenstatus fuehren.
+- BGH, Urt. v. 20.12.2011 – X ZR 33/09, GRUR 2012, 380 Rn. 35 – Beschlagfreie Scheibe: Jahresgebühren-Säumnis fuehrt zu Erloschen des Patents; keine Wiedereinsetzung nach Ablauf der Schonfrist möglich (Art. 86 EPUe; § 17 PatG).

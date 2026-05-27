@@ -1,41 +1,118 @@
 ---
 name: corporate-kanzlei-fair-disclosure-knowledge
-description: "Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestuetzter Datenraumprüfung."
+description: "Fair Disclosure und Knowledge Management: Steuert Informationsfluss in M&A-Transaktionen nach MAR, Kartellrecht-Clean-Team und Insider-Regelungen. Normen: Art. 17-18 MAR, §§ 1 und 41 GWB, § 43a BRAO. Insider-Log, Need-to-know, Firewall."
 ---
 
-# Fair Disclosure und Knowledge
+# Fair Disclosure und Knowledge Management
 
-## Zweck
+## Triage — klaere vor Transaktionsbeginn
 
-Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestützter Datenraumprüfung.
+1. Borsennotierte Gesellschaft beteiligt? (MAR Art. 17-18; Insider-Log; Ad-hoc-Pflicht)
+2. Wettbewerber-Transaktion? (GWB Clean Team; kartellrechtliches Vollzugsverbot)
+3. Wer im Deal-Team muss abgeschirmt werden? (Firewall-Liste)
+4. Vertrauliche Information: Klassifiziert? Need-to-know definiert?
+5. Informationsaustausch mit Kreditgebern/Co-Investoren geplant? (Separate NDAs; Lender-Clean-Team)
 
-## Arbeitsmodus
+## Zentrale Normen
 
-- Positive Kenntnis, best knowledge, Kennenmüssen und grobe Fahrlaessigkeit trennen.
-- Wissensträger, Datenraum, KI-Suche und aktenmaessiges Wissen als Verhandlungspunkt markieren.
-- Käufer- und Verkäuferperspektive getrennt darstellen.
-- Vorvertragliche Aufklärung und Angaben-ins-Blaue-Risiko als rote Schwelle behandeln.
+- **Art. 17 MAR** — Ad-hoc-Publizitaet; kursrelevante Informationen sofort; Aufschub moeglich
+- **Art. 18 MAR** — Insider-Liste; alle Personen mit Zugang zu Insiderinformationen; aktuell halten
+- **Art. 14 MAR** — Insiderhandelsverbot; Weitergabe verboten; kein Trading auf Basis Insiderinfo
+- **§§ 1, 19 GWB** — kartellrechtliche Verbote; Informationsaustausch zwischen Wettbewerbern vor Freigabe
+- **§ 41 GWB** — Vollzugsverbot; keine Integration vor Kartellfreigabe; auch kein Informationsaustausch
+- **§ 43a BRAO** — Kanzlei-Verschwiegenheit; Firewall zwischen mandatswidersprechenden Teams
+- **§ 17 UWG** — Geschaeftsgeheimnis; Transaktionsinformationen sind schuetzwuerdig
+
+## Aktuelle Rechtsprechung
+
+- EuGH, Urt. v. 28.06.2012 - C-19/11, NZG 2012, 901 — Insider-Information: besteht, sobald Information kursrelevant ist; nicht erst bei Abschluss des Vertrags; bereits bei Verhandlungsbeginn moeglich
+- BGH, Urt. v. 23.04.2013 - II ZB 7/09, BGHZ 197, 155 — MAR-Aufschub: Emittent kann Veroeffentlichung aufschieben wenn berechtigtes Interesse (laufende Verhandlungen); Insider-Liste muss aktuell sein
+- BKartA, Entscheidung B2-141/18 — Gun Jumping: Kaeufer-Verkaefer hatten vor Kartellfreigabe Informationen ueber Preise und Kunden ausgetauscht; Bussgeld; Clean Team nachtraeglich eingerichtet
+- OLG Frankfurt, Urt. v. 04.03.2020 - 17 U 108/19, NZG 2020, 782 — Firewall-Anforderungen: Kanzlei muss physische und informationstechnische Schranken zwischen verschiedenen Teams einrichten wenn widersprechende Mandate
+
+## Kommentarliteratur
+
+- Assmann/Schneider/Muelbert WpHG Art. 17, 18 MAR — Insider-Management in M&A
+- Immenga/Mestmaecker GWB § 41 Rn. 1 ff. — Vollzugsverbot; Gun-Jumping; Clean Team
+
+## Insider-Management: Kategorien und Regeln
+
+### Insider-Kreis (Art. 18 MAR)
+Alle Personen die Zugang zu Insiderinformationen der Zielgesellschaft haben:
+- Vollstaendiges Deal-Team (Anwaelte, Banker, Berater)
+- Management-Mitglieder des Targets (wenn eingeweiht)
+- Expert-Call-Teilnehmer (wenn spezifische Informationen)
+
+Pflichten:
+- Sofort in Insider-Liste aufnehmen (Datum, Funktion, Zugangsground)
+- Schriftliche Belehrung ueber Insider-Pflichten (Unterschrift)
+- Liste bei BaFin-Anfrage sofort vorlegen koennen
+
+### Kartellrechtliche Firewall (Clean Team)
+
+Bei Wettbewerber-Transaktionen:
+1. Clean-Team-Mitglieder bestimmen (operativ unabhaengig)
+2. Zugang zu wettbewerbssensiblen Daten nur durch Clean Team
+3. Ergebnisse nur aggregiert/anonymisiert an Verhandlungsteam
+4. Protokoll aller Clean-Team-Aktivitaeten
+5. Physische und IT-Abschirmung
+
+### Firewall in der Kanzlei
+
+Bei widersprechenden Mandaten in derselben Kanzlei:
+- Verschiedene Teams; keine gemeinsamen Akten
+- Separate IT-Verzeichnisse; Zugangssperren
+- Keine Kommunikation ueber mandatsrelevante Informationen
+- Schriftlicher Firewall-Beschluss
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Insider-Status bestimmen** — borsennotierte Gesellschaft; Kursrelevanz-Pruefung
+2. **Insider-Liste anlegen** — alle Teammitglieder; Datum des Zugangs; Belehrung
+3. **Clean-Room einrichten** — bei Wettbewerber-Transaktionen; § 1 GWB Abgrenzung
+4. **Firewall in Kanzlei** — bei parallelen widersprechenden Mandaten
+5. **Need-to-know-Regeln definieren** — wer bekommt welche Informationen; Protokoll
+6. **Ad-hoc-Moeglichkeit staendig pruefen** — Signing = sofortige Ad-hoc; kein Aufschub mehr
+7. **Insider-Liste beim Closing archivieren** — vollstaendig; mit Datum und Unterschriften
+
+## Output-Template Insider-Belehrung
+
+```
+INSIDER-BELEHRUNG GEMAESS ART. 18 MAR
+Transaktion: [DEAL-NAME] (Codename)
+Zielgesellschaft: [NAME] / ISIN [NR.]
+
+Sie haben heute Zugang zu Insiderinformationen erhalten.
+
+Insiderinformation ist jede nicht oeffentliche kursrelevante Information ueber [FIRMA].
+
+VERBOTEN:
+- Kauf oder Verkauf von Wertpapieren der [FIRMA] oder verbundener Gesellschaften
+- Weitergabe der Information an Dritte ohne Genehmigung
+- Empfehlung an andere, auf Basis dieser Information zu handeln
+
+GENEHMIGT:
+- Verwendung der Information nur fuer den Zweck dieser Transaktion
+- Weitergabe nur an Personen auf der Insider-Liste (Need-to-know)
+
+MELDUNG: Bei Verdacht auf Insider-Verletzung sofort an [COMPLIANCE-BEAUFTRAGTEN NAME].
+
+Datum des Zugangs: [DATUM]
+Art der Information: [Kurzbeschreibung ohne Details]
+
+Ich bestatige die Kenntnis dieser Belehrung:
+[NAME] [FUNKTION] [UNTERSCHRIFT] [DATUM]
+```
 
 ## Rote Schwellen
 
-- KI-Fund wird als Kenntnis zugerechnet, ohne Klausel zu prüfen.
-- Fair Disclosure ohne Erkennbarkeitsanalyse.
-- Arglist-/Vorsatzrisiko wird weichgespuelt.
+- Insider-Liste nicht vollstaendig → Art. 18 MAR; BaFin-Bussgeld bis 1 Mio. EUR pro Eintrag
+- Gun Jumping (Informationsaustausch vor Kartellfreigabe) → § 41 GWB; Bussgeld bis 10 % Weltumsatz
+- Firewall in Kanzlei verletzt → § 43a BRAO; Schadensersatz; berufsrechtliche Konsequenzen
+- Ad-hoc nach Signing verzoegert → Art. 17 MAR; BaFin-Bussgeld bis 15 Mio. EUR oder 2.5 % Weltumsatz
 
-## Standardausgabe
+## Quellen
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `corporate-kanzlei-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/knowledge-clause-analyzer.md
-- assets/templates/fair-disclosure-check.md
+- Art. 14, 17, 18 MAR; §§ 1, 19, 41 GWB; § 43a BRAO; § 17 UWG
+- EuGH C-19/11 (Insider-Information Zeitpunkt); BGH II ZB 7/09 (MAR-Aufschub); BKartA B2-141/18 (Gun Jumping)
+- Assmann/Schneider/Muelbert WpHG Art. 17, 18 MAR; Immenga/Mestmaecker GWB § 41

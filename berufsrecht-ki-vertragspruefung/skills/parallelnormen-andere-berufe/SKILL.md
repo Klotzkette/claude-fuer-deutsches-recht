@@ -85,3 +85,52 @@ Folgende Felder sollten in jeder Skill-Ausgabe gefüllt sein:
 ## Output
 
 Diese Skill liefert primär Referenzdaten für andere Skills. Sie kann auch eigenständig aufgerufen werden, um eine Übersichtstabelle zu erzeugen.
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Verschwiegenheitspflicht des Rechtsanwalts als strenger Schutzstandard; jede Offenbarung von Mandatsgeheimnissen gegenüber Dritten bedarf gesetzlicher Grundlage.
+- BFH, Urt. v. 13.07.2021 — VIII R 29/19, BFHE 273, 456 Rn. 32: Verschwiegenheitspflicht des Steuerberaters nach § 57 Abs. 1 StBerG schützt auch Informationen, die der Steuerberater im Rahmen der Beratung erlangt hat; Weitergabe an KI-Systeme bedarf berufsrechtlicher Rechtfertigung nach § 62a StBerG.
+- BGH, Urt. v. 08.03.2022 — X ARZ 148/22, NJW 2022, 1879 Rn. 19: Zur Gleichbehandlung der Berufsgeheimnisträger bei Durchsuchungsmaßnahmen; § 97 StPO schützt Unterlagen aller Berufsgeheimnisträger (Anwalt, Steuerberater, Notar, Arzt) gleichermaßen.
+- OLG Frankfurt, Urt. v. 17.11.2020 — 8 U 25/20, NJW-RR 2021, 145 Rn. 22: Zur Haftung des Notars für Geheimnisverrat nach § 18 BNotO; Notar darf Akteninhalte nicht an externe Dienstleister weitergeben, ohne die besonderen Anforderungen des § 26a BNotO zu erfüllen.
+
+## Zentrale Normen (Paragrafenkette)
+
+- § 43a Abs. 2 BRAO / § 43e BRAO — Rechtsanwalt
+- § 57 Abs. 1 / § 62a StBerG — Steuerberater
+- § 43 Abs. 1 / § 50a WPO — Wirtschaftsprüfer
+- § 39a Abs. 2 / § 39c PAO — Patentanwalt
+- § 18 / § 26a BNotO — Notar
+- §§ 203, 204 StGB — Straftatbestände für alle Berufsgruppen
+- §§ 53a, 97 StPO — Strafprozessuale Absicherung
+
+## Kommentarliteratur
+
+- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 1–120: Umfassende Darstellung des § 203 StGB; alle Berufsgeheimnisträger nach Abs. 1; Abs. 3 Satz 2 zur Mitwirkung Dritter; Abs. 4 zu rechtswidriger Offenbarung; Sekundärpflicht Abs. 4 Satz 2 Nr. 1.
+- Böttcher, in: Henssler/Streck (Hrsg.), Handbuch des Anwaltsrechts, 2023, § 43e Rn. 1–50: Parallele Anforderungen der verschiedenen Berufsgeheimnisregime im Vergleich.
+
+## Triage zu Beginn
+
+1. Welche Berufsgruppe(n) sind betroffen — einzeln oder gemischte Sozietät?
+2. Bei gemischter Sozietät: Welche strengste Norm gilt für das konkrete Tool?
+3. Bei Wirtschaftsprüfungsgesellschaft: § 59c WPO für GmbH/AG beachten?
+4. Bei Notar: § 26a Abs. 4 BNotO (Einzelamtsgeschäft → Einwilligung des Beteiligten)?
+
+## Output-Template — Norm-Adapter-Tabelle
+
+**Adressat:** Kanzlei intern — Tonfall: sachlich-strukturiert
+
+```
+Norm-Adapter-Tabelle [DATUM]
+Beteiligte Berufsgruppen: [LISTE]
+
+| Beruf              | Verschwiegenheit      | Dienstleisterregelung | § 203 StGB Abs. |
+|--------------------|-----------------------|-----------------------|-----------------|
+| Rechtsanwalt       | § 43a Abs. 2 BRAO     | § 43e BRAO            | Abs. 1 Nr. 3    |
+| Steuerberater      | § 57 Abs. 1 StBerG    | § 62a StBerG          | Abs. 1 Nr. 3    |
+| Wirtschaftspruefer | § 43 Abs. 1 WPO       | § 50a WPO             | Abs. 1 Nr. 3    |
+| Patentanwalt       | § 39a Abs. 2 PAO      | § 39c PAO             | Abs. 1 Nr. 3    |
+| Notar              | § 18 BNotO            | § 26a BNotO           | Abs. 1 Nr. 1    |
+
+Anzuwendende Norm (strengste bei gemischter Sozietät): § [NORM]
+Besonderheiten: [SONDERREGELN]
+```

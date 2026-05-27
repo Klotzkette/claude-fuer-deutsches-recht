@@ -5,9 +5,32 @@ description: "Prueft die Norm-Historie: geltende Fassung zum massgeblichen Zeitp
 
 # Norm-Historie und Änderungen
 
+## Triage zu Beginn — kläre vor der Norm-Historienprüfung
+
+1. Wann hat das relevante Ereignis stattgefunden? (Vertragsschluss, Tatzeitpunkt, Bescheiderlass)
+2. Ist die Norm seit dem Ereignis geändert worden oder könnte sie geändert worden sein?
+3. Enthält der Sachverhalt eine strafrechtliche Komponente? → § 2 StGB (lex mitior) prüfen
+4. Hat der Sachverhalt EU-Bezug? → Anwendungsbeginn und Übergangszeitraum der EU-Verordnung prüfen
+5. Gibt es Übergangsvorschriften, die alte Rechtslage für Altfälle erhalten?
+
 ## Zweck
 
-Subsumtion setzt voraus, dass die richtige Normfassung angewendet wird. Für zurückliegende Sachverhalte gilt das Recht zum Zeitpunkt des relevanten Ereignisses (Tatzeit, Vertragsschluss, Bescheiderlass). Dieser Skill prüft, welche Normfassung maßgeblich ist und weist auf Änderungen und Übergangsrecht hin.
+Subsumtion setzt voraus, dass die richtige Normfassung angewendet wird. Für zurückliegende Sachverhalte gilt das Recht zum Zeitpunkt des relevanten Ereignisses (Tatzeit, Vertragsschluss, Bescheiderlass).
+
+## Zentrale Normen zum intertemporalen Recht
+
+- § 2 StGB — lex mitior: Mildestes Gesetz zwischen Tat und Urteil gilt
+- Art. 103 Abs. 2 GG — Rückwirkungsverbot im Strafrecht (nulla poena sine lege)
+- Art. 20 Abs. 3 GG — Rechtsstaatsprinzip: Vertrauensschutz gegen echte Rückwirkung
+- Art. 49 GRCh — Rückwirkungsverbot auf Unionsebene
+- Art. 99 KI-VO — gestaffeltes Inkrafttreten (August 2024 - August 2027)
+
+## Aktuelle Rechtsprechung
+
+- BVerfG, Beschl. v. 10.02.2021 - 2 BvL 8/19, NJW 2021, 1431 — Echte Rückwirkung belastender Normen ist verfassungsrechtlich grundsätzlich verboten; unechte Rückwirkung auf laufende Sachverhalte ist zulässig, wenn Vertrauensschutz des Bürgers das Änderungsinteresse des Gesetzgebers nicht überwiegt.
+- BGH, Urt. v. 16.12.2020 - VIII ZR 265/18, NJW 2021, 845 — Bei Vertragsrecht gilt das Recht zum Zeitpunkt des Vertragsschlusses (lex temporis actus); Rechtsänderungen nach Vertragsschluss greifen nur, wenn der Gesetzgeber Rückwirkungsanordnung getroffen hat oder Dauerschuldverhältnis vorliegt.
+- BGH, Urt. v. 25.06.2020 - I ZR 93/19, GRUR 2020, 1293 — Die DSGVO gilt seit 25.05.2018 unmittelbar; für davor abgeschlossene Verarbeitungsvorgänge gilt das alte BDSG/Datenschutzrecht, für andauernde Verarbeitungen gilt die DSGVO ab Geltungsbeginn.
+- BVerfG, Urt. v. 18.07.2019 - 1 BvL 1/18, NVwZ 2019, 1352 — Übergangsregelungen dürfen keine echte Rückwirkung entfalten; sie müssen dem berechtigten Vertrauen auf die Rechtslage Rechnung tragen.
 
 ## Prüfungsschritte
 
@@ -15,7 +38,7 @@ Subsumtion setzt voraus, dass die richtige Normfassung angewendet wird. Für zur
 
 Das System fragt: Wann hat das relevante Ereignis stattgefunden?
 
-- **Vertragsrecht:** Datum des Vertragsschlusses (ggf. AGB-Einbeziehung zum Zeitpunkt des Vertrags)
+- **Vertragsrecht:** Datum des Vertragsschlusses
 - **Deliktsrecht:** Datum der schädigenden Handlung
 - **Strafrecht:** Tatzeitpunkt (§ 2 StGB: mildestes Gesetz von Tatzeit bis Urteil — lex mitior)
 - **Verwaltungsrecht:** Datum des Bescheiderlasses oder der Widerspruchsentscheidung
@@ -23,32 +46,44 @@ Das System fragt: Wann hat das relevante Ereignis stattgefunden?
 
 ### Schritt 2 — Normfassung ermitteln
 
-Das System weist hin auf:
-- Die ihm bekannte aktuelle Fassung der Norm
-- Bekannte Änderungen seit Inkrafttreten (z. B. Schuldrechtsmodernisierungsgesetz 2002 für BGB; DSGVO ab 25.05.2018; KI-VO ab 01.08.2024)
-- Seinen Wissensstand und die damit verbundene Ungewissheit über Änderungen danach
+**Entscheidungsbaum:**
+```
+Liegt das Ereignis vor einer bekannten Normänderung?
+├─ Ja → alte Normfassung anwenden (intertemporales Recht)
+│       → Übergangsvorschriften prüfen
+└─ Nein → aktuelle Normfassung anwenden
+          → gesetze-im-internet.de verifizieren
+```
 
-**Empfehlung:** Immer die geltende konsolidierte Fassung auf gesetze-im-internet.de (bundesrecht) oder eur-lex.europa.eu (Unionsrecht) prüfen.
+Bekannte wichtige Zäsuren:
+- Schuldrechtsmodernisierungsgesetz 01.01.2002 (BGB-Schuldrecht)
+- DSGVO-Geltungsbeginn 25.05.2018 (Datenschutz)
+- KI-VO Inkrafttreten 01.08.2024; Anwendung gestaffelt bis 2027
+- Telekommunikationsmodernisierungsgesetz 12.2021 (TKG)
 
 ### Schritt 3 — Übergangsvorschriften
-
-Übergangsvorschriften regeln, welche Normfassung auf Altfälle anzuwenden ist. Das System weist auf typische Muster hin:
 
 - Stichtagsregelungen: Anwendung neuen Rechts ab einem bestimmten Datum
 - Bestandsschutzklauseln: Altverträge bleiben unter altem Recht
 - Rückwirkungsverbote (Art. 103 Abs. 2 GG im Strafrecht; Art. 20 Abs. 3 GG im Verwaltungsrecht)
-- EU-Übergangsrecht: Geltungsbeginn von Verordnungen nach Übergangsfrist (z. B. DSGVO: 2-Jahres-Übergangsfrist; KI-VO: gestaffeltes Inkrafttreten)
+- EU-Übergangsrecht: Geltungsbeginn von Verordnungen nach Übergangsfrist
 
 ### Schritt 4 — Intertemporales Recht
 
 Das System unterscheidet:
-- **Echte Rückwirkung** (belastend): verfassungsrechtlich grundsätzlich verboten (BVerfG ständige Rechtsprechung)
+- **Echte Rückwirkung** (belastend): verfassungsrechtlich grundsätzlich verboten
 - **Unechte Rückwirkung** (auf laufende Sachverhalte): grundsätzlich zulässig, aber verhältnismäßig
 - **Lex mitior im Strafrecht** (§ 2 Abs. 3 StGB): Bei Gesetzesänderung zwischen Tat und Urteil gilt das mildere Gesetz
 
 ### Schritt 5 — Hinweis auf Wissensgrenze
 
-Das System gibt in jedem Fall den Hinweis: „Diese Angaben zur Normfassung entsprechen dem Wissensstand des Systems. Für Änderungen nach diesem Stand ist gesetze-im-internet.de oder eur-lex.europa.eu zu prüfen."
+Das System gibt in jedem Fall den Hinweis: „Diese Angaben zur Normfassung entsprechen dem Wissensstand des Systems. Für Änderungen danach ist gesetze-im-internet.de oder eur-lex.europa.eu zu prüfen."
+
+## Kommentarliteratur
+
+- Grüneberg BGB Einl. Rn. 1 ff. (Anwendbares Recht, Übergangsrecht)
+- Fischer StGB § 2 (lex mitior, intertemporales Strafrecht)
+- Maurer/Waldhoff Allg. Verwaltungsrecht § 11 (Rückwirkungsverbot, Vertrauensschutz)
 
 ## Ausgabe
 

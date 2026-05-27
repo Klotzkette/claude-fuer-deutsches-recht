@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-abwesenheiten-urlaub
-description: "Verwaltet Urlaub Krankmeldungen Fehlzeiten Vertretung Kalenderabstimmung Resturlaub Teamabdeckung. Mit Ablauf fuer Urlaubsantrag Krankmeldung Elternzeit Pflegezeit. Pruefliste Fristen beA Postlauf Mandantenkommunikation Vertretungsregelung. Datenschutz bei Diagnose-Daten. Abwesenheitsregister-Template Eskalation bei Konflikten. Schnittstelle Lohn-SV."
+description: "Verwaltung von Abwesenheiten in der Kanzlei — Urlaub Krankmeldung Elternzeit Pflegezeit Fortbildung. Anwendungsfall Anwalt oder Mitarbeiter meldet Urlaub oder Krankheit und Kanzlei muss Vertretung fuer Fristen beA Postlauf Mandantenkommunikation sicherstellen. Normen § 7 BUrlG Resturlaub § 16 BEEG Elternzeit § 3 PflegeZG Kurzpflegezeit Art. 6 DSGVO Diagnosedaten. Pruefraster Ueberschneidungen Fristencheck beA-Abdeckung Postlauf-Vertretung Teamkonflikt. Output Urlaubsplan Vertretungsregelung Abwesenheitsregister Eskalationsprotokoll Schnittstelle Lohn-SV. Abgrenzung zu Lohn-SV-Skill und Kanzleikalender."
 ---
 
 # Abwesenheiten, Urlaub, Krankheit

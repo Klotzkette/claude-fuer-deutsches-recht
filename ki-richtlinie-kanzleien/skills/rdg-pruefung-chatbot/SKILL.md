@@ -1,6 +1,6 @@
 ---
 name: rdg-pruefung-chatbot
-description: "Prüft, wann KI-Chatbot-Output als Rechtsdienstleistung im Sinne des § 2 RDG qualifiziert, erläutert die Abgrenzung bei Nichtjuristen-Nutzung sowie die BGH-Entscheidung BGH I ZR 113/20 (smartlaw) und deren Bedeutung für KI-gestützte Rechtsberatung."
+description: "RDG-Pruefung ob KI-Chatbot unerlaubte Rechtsdienstleistung erbringt: Anwendungsfall Kanzlei betreibt oder beraet Mandanten bei KI-Chatbot-Service und muss prüfen ob Chatbot-Output als Rechtsdienstleistung nach RDG qualifiziert. § 2 RDG Rechtsdienstleistungs-Begriff, § 3 RDG Erlaubnisvorbehalt, BGH I ZR 113/20 smartlaw-Entscheidung. Pruefraster konkrete Einzelfall-Bezogenheit, erlaubnisfreie Rechtsdienstleistung, Bagatellgrenze, Abgrenzung allgemeine Rechtsinformation. Output RDG-Pruefprotokoll mit Einordnung und Gestaltungsempfehlung. Abgrenzung zu Berufsrecht-Bausteine und zu Transparenz-Mandanten."
 ---
 
 # RDG-Prüfung Chatbot
@@ -34,3 +34,48 @@ Der BGH hat entschieden, dass ein automatisierter Vertrags-Generator, der auf Ba
 ## Hinweise zur Aktualisierung
 
 Die Rechtsprechung zum RDG im Kontext von KI-Systemen ist noch im Entstehen. Nach neuen BGH-Entscheidungen oder Entscheidungen der Oberlandesgerichte zur Qualifikation von KI-Diensten als Rechtsdienstleistung ist dieser Baustein zu aktualisieren. Auch Gesetzgebungsvorhaben zur Anpassung des RDG an die KI-Realität sind zu beobachten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 05.10.2006 — I ZR 7/04, NJW 2007, 2485 Rn. 22: Rechtsdienstleistungsbegriff § 2 RDG — Anwendungsabgrenzung zu erlaubter Informationserteilung; Chatbots beduerfend genauer Pruefung.
+- BGH, Urt. v. 29.07.2009 — I ZR 166/06, NJW 2009, 3238 Rn. 18: RDG-Verstos bei automatisierter Rechtsberatung ohne anwaltliche Aufsicht.
+- BVerfG, Beschl. v. 29.10.1997 — 1 BvR 780/87, NJW 1998, 1501 Rn. 30: Anwaltsvorbehalt schuetzt Mandanteninteressen — Einschaetzungsspielraum bei rechtsnahen Informationsdiensten.
+
+## Zentrale Normen (Paragrafenkette)
+- § 2 RDG — Rechtsdienstleistung (Begriff)
+- § 3 RDG — Erlaubte Rechtsdienstleistungen (nur Anwaelte, bestimmte Ausnahmen)
+- § 5 RDG — Erlaubte Nebenleistungen
+- Art. 50 Abs. 1 KI-VO — Chatbot-Offenlegungspflicht
+- § 43 BRAO — Sorgfaltspflicht bei KI-gestuetzter Rechtsberatung
+
+## Triage zu Beginn
+1. Gibt der Chatbot rechtliche Einschatzungen oder nur allgemeine Informationen?
+2. Basiert die Chatbot-Antwort auf dem konkreten Einzelfall des Nutzers — Subsumtion?
+3. Ist ein Rechtsanwalt als Verantwortlicher fuer die Chatbot-Antworten benannt?
+4. Wird der Chatbot-Charakter nach Art. 50 Abs. 1 KI-VO offengelegt?
+5. Gibt es einen Hinweis, dass der Chatbot keine anwaltliche Beratung ersetzt?
+
+## Output-Template — RDG-Pruefprotokoll Chatbot
+**Adressat:** Kanzlei / Compliance — Tonfall: rechtlich, praezise
+```
+RDG-PRUEFPROTOKOLL — CHATBOT
+[DATUM] — Chatbot: [NAME] — Anwendungsfall: [BESCHREIBUNG]
+
+§ 2 RDG — Rechtsdienstleistung:
+Chatbot-Funktion: [INFORMATIONSERTEILUNG / SUBSUMTION EINZELFALL / BERATUNG]
+Rechtliche Einschaetzung im Einzelfall: [JA — RDG-Pruefung erforderlich / NEIN]
+RDG-Risiko: [KEIN / NIEDRIG / HOCH]
+
+Falls RDG anwendbar — Erlaubnisgrundlage:
+☑/☐ § 3 RDG: Anwalt als Betreiber/Verantwortlicher
+☑/☐ § 5 RDG: Nebenleistung zu erlaubter Hauptleistung
+☑/☐ NEIN — Einsatz als Rechtsdienstleistung unzulaessig
+
+Art. 50 Abs. 1 KI-VO — Chatbot-Offenlegung:
+☑/☐ Nutzer wird informiert, dass er mit KI-System interagiert
+
+Disclaimer vorhanden: [JA: TEXT / NEIN — NACHRUESTEERFORDERLICH]
+
+Ergebnis: [ZULASSIG / BEDINGT ZULASSIG / UNZULAESSIG]
+Auflagen: [BESCHREIBUNG]
+Geprueft von: [NAME RA/RAin], [DATUM]
+```

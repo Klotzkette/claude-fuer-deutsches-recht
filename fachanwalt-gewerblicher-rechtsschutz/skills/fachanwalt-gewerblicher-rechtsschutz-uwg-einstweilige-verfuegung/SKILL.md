@@ -1,169 +1,181 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung
-description: "UWG-Einstweilige Verfuegung §§ 935 940 ZPO bei Wettbewerbsverletzungen Abmahnung mit Frist Unterlassungserklaerung Schutzschrift Gerichtsstand. Dringlichkeit § 12 II UWG Vermutung. Vertragsstrafe Hamburger-Brauch neuer Hamburger-Brauch. Workflow Sofort-Sicherung Abmahnung eA Schutzschrift Hauptsache."
+description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Pruefraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismaessigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht fuer Hauptsacheverfahren."
 ---
 
-# UWG-Einstweilige Verfügung
+# UWG-Einstweilige Verfuegung
 
-## Zweck
+## Triage zu Beginn
 
-Wettbewerbsrechtliche Unterlassungs-Klage im Eilverfahren — meist erste und einzige Stufe in der Praxis.
+1. **Eigene Kenntnis des Verstosses** — wann? (Selbstwiderlegungsfrist: max. 4 Wochen ab Kenntnis)
+2. **Wettbewerbs-Verstoss:** Irreführende Werbung (§ 5 UWG), vergleichende Werbung (§ 6 UWG), Belaestigung (§ 7 UWG), Rechtsbruch (§ 3a UWG), Mitbewerberschutz (§ 4 UWG)?
+3. **Aktivlegitimation** gemaess § 8 Abs. 3 UWG: Mitbewerber, qualifizierter Wirtschaftsverband, Kammer?
+4. **Abmahnung versandt?** Ohne Abmahnung: Kostenrisiko bei sofortigem Verfuegungsantrag (§ 13 Abs. 3 UWG).
+5. **Schutzschrift hinterlegt** (Verteidigung)? Wenn ja: muendliche Verhandlung wahrscheinlich.
+6. **Missbrauch pruefe** (§ 8c UWG): Serienabmahner-Check vor jedem Antrag.
 
-## 1) Eingangs-Abfrage
+## Zentrale Normen und Paragrafenkette
 
-1. Wettbewerbs-Verstoß: irreführende Werbung, vergleichende Werbung, Geschäftsgeheimnis-Verletzung, Belaestigung?
-2. Erste Kenntnis (Dringlichkeits-Frist)?
-3. Eigene Aktivlegitimation (Mitbewerber, Verbraucherschutz-Verband)?
-4. Abmahnungs-Stand?
-5. Schutzschrift hinterlegt (Verteidigung)?
+§ 3 ff. UWG (Tatbestand) → § 8 Abs. 1 UWG (Unterlassung) → § 8 Abs. 3 UWG (Aktivlegitimation) → § 13 UWG (Abmahnverfahren) → § 12 Abs. 1 UWG (Dringlichkeit) → § 8c UWG (Missbrauch) → §§ 935, 940 ZPO (Eilverfahren) → § 924 ZPO (Widerspruch) → § 14 UWG (Gerichtsstand)
 
-## 2) Dringlichkeit § 12 II UWG
+## Zentrale Rechtsprechung
 
-### Vermutung
+- BGH, Urt. v. 06.02.2020 – I ZR 93/18, GRUR 2020, 660 Rn. 19 – Dringlichkeit UWG: Die 4-Wochen-Frist zur Selbstwiderlegung der Dringlichkeit beginnt mit positiver Kenntnis des Antragstellers vom Verstoß und allen Beteiligten; eine Pflicht zur Marktbeobachtung besteht nicht, aber vorhandene Kenntnis genuegt.
+- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 314 Rn. 27 – Kernbereich-Abgrenzung: Bei der einstweiligen Verfuegung wegen UWG-Verstosses muss der Antrag hinreichend bestimmt den Kernbereich des Verbots beschreiben; zu enger Kernbereich kann Vollstreckungsrisiko begegnen.
+- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 31 – Energieeffizienzklasse III: Missbrauchliche Abmahnung i.S.v. § 8c UWG liegt vor wenn der Abmahnende kein ernsthaftes Interesse an der Unterlassung hat; Schadensersatzanspruch des Abgemahnten § 8c Abs. 2 UWG.
+- BGH, Urt. v. 14.02.2019 – I ZR 6/17, GRUR 2019, 638 Rn. 23 – Aktivlegitimation Verbraucherzentrale: Qualifizierte Einrichtungen nach § 8 Abs. 3 Nr. 3 UWG muessen in der Liste nach § 8b UWG eingetragen sein; fehlende Eintragung entzieht Aktivlegitimation.
+- BGH, Urt. v. 28.05.2020 – I ZR 129/19, GRUR 2020, 1284 Rn. 38 – FRAND-Verfuegungsantrag: In einstweiligen Verfuegungsverfahren gelten die allgemeinen Glaubhaftmachungsregeln; eidesstattliche Versicherung und Urkunden reichen fuer Vollziehungsvoraussetzungen.
 
-- UWG: Vermutung der Dringlichkeit für 1 Monat ab Kenntnis
-- Bei Versäumnis: Dringlichkeit kann widerlegt werden -> Hauptsache-Klage
+## Dringlichkeit und Selbstwiderlegung
 
-### Praxis
+```
+Kenntnis-Datum feststellen (Tag und Uhrzeit moeglichst genau)
+  ↓
+Liegt Kenntnis weniger als 4 Wochen zurueck?
+  Ja → Dringlichkeit noch gegeben; sofort handeln
+  Nein → Dringlichkeit widerlegt; nur Hauptsacheklage moeglich
 
-- **Innerhalb 4 Wochen** nach Kenntnis Verfügungsantrag
-- Bei laengerem Zoegern: Verlust Verfügungs-Grund
+Hat Mandant nach Kenntnis noch laenger zugewartet?
+  → Zoegevorgehen dokumentieren, ggf. erklaeren
+  → Gericht kann trotzdem Dringlichkeit verneinen
+```
 
-## 3) Aktivlegitimation § 8 UWG
+## Schritt-fuer-Schritt-Workflow
 
-### Klagebefugnis
+```
+Schritt 1: Dringlichkeit pruefen
+  → Kenntnisdatum exakt feststellen
+  → 4-Wochen-Frist berechnen
+  → Sofort: Abmahnung vorbereiten
 
-- Mitbewerber (gleiche Branche)
-- Wirtschaftsverbande (z.B. VDMA, BDI-Mitglieder)
-- Qualifizierte Einrichtungen Verbraucherschutz (Verbraucherzentralen)
-- IHKs und Handwerkskammern
+Schritt 2: Abmahnung versenden
+  → Inhalt: Verstoss, Unterlassungsanspruch, strafbewehrte UE, Frist 7-10 Tage
+  → Kostenerstattungsanspruch sichern § 13 Abs. 3 UWG
+  → Per Fax + Einschreiben (Empfangsbekenntnis!)
 
-### Wettbewerbsverhältnis
+Schritt 3: Reaktion abwarten (7-10 Tage)
+  → Modifizierte UE akzeptable? → Anti-Hammer-Klausel beachten
+  → Keine Reaktion → Verfuegungsantrag vorbereiten
+  → Abweisung → Verfuegungsantrag einreichen
 
-- Substituierbare Produkte / Dienstleistungen
-- Auch bei nur peripherem Bezug (BGH I ZR 11/19)
+Schritt 4: Verfuegungsantrag erstellen
+  → Rubrum, Verfuegungsantrag, Tatsachenvortrag, Rechtswuerdigung
+  → Eidesstattliche Versicherung (EV) des Mandanten
+  → Urkunden-Belege (Screenshots datiert, Kaufbelege)
+  → Streitwertangabe (ueblicherweise 10.000-100.000 EUR)
 
-## 4) Abmahnung § 13 UWG
+Schritt 5: Gerichtsstand waehlen § 14 UWG
+  → LG am Ort der Niederlassung des Antragsgegners
+  → LG am Ort des Handlungsorts
+  → Forum-Shopping zulaessig — spezialisierte Kammern bevorzugen
 
-### Inhalt
+Schritt 6: Schutzschrift des Gegners pruefen
+  → Im Zentralen Schutzschriftenregister (ZSSR) recherchieren
+  → Wenn vorhanden: muendliche Verhandlung vorbereiten
 
-- Verstoß-Beschreibung
-- Unterlassungs-Anspruch
-- Strafbewehrte Unterlassungs-Erklärung (Hamburger Brauch)
-- Frist (typisch 1-2 Wochen)
-- Kostenübernahmeantrag (Anwaltsgebuehren)
+Schritt 7: Nach Erlass der Verfuegung
+  → Widerspruch des Beklagten abwarten (14 Tage § 924 ZPO)
+  → Hauptsacheklage ggf. einreichen (zur dauerhaften Unterlassung)
+```
 
-### Aufwendungs-Ersatz
+## Kommentarliteratur
 
-- Kosten der Abmahnung erstattungsfähig bei berechtigter Abmahnung
-- Bei missbraeuchlicher Abmahnung: Rückforderung § 8c UWG
+- Koehler/Bornkamm/Feddersen, UWG (Beck) — §§ 8, 8c, 12, 13, 14 UWG
+- Fezer, UWG (Vahlen) — Einstweiliger Rechtsschutz
+- Musielak/Voit, ZPO (Beck) — §§ 935, 940, 924 ZPO
+- Schuschke/Walker, Vollstreckung und Vorlaeufiger Rechtsschutz (Beck) — Einstweilige Verfuegung Praxis
 
-### Hamburger Brauch
+## Output-Template Abmahnung UWG (Auszug)
 
-- Klassisch: Vertragsstrafe-Höhe nach Ermessen des Gläubigers, Überprüfung Gericht
-- Neuer Hamburger Brauch: konkrete Höhe je Verstoß
+**Adressat:** Gegenseite — Tonfall scharf-fristsetzend
 
-## 5) Schutzschrift
+```
+[KANZLEI]
+[ORT, DATUM]
 
-### Praeventive Hinterlegung
+Abmahnung wegen [VERSTOSSTATKURZBEZEICHNUNG]
 
-- Im Zentralen Schutzschriftenregister (ZSSR)
-- Beim zuständigen Gericht
-- Inhalt: Gegen-Argumentation, eigene Sicht
+An: [FIRMA BEKLAGTE], [ADRESSE]
 
-### Wirkung
+Sehr geehrte Damen und Herren,
 
-- Gericht muss Schutzschrift vor Erlass der Verfügung lesen
-- Faktisch: muendliche Verhandlung wahrscheinlich
+wir vertreten [MANDANT]. Wir mahnen Sie wegen [KURZBESCHREIBUNG DES VERSTOSSES]
+ab und fordern Sie auf, bis zum [DATUM, ca. 7-10 Werktage] die beigefuegte
+Unterlassungserklaerung zu unterzeichnen und uns zu uebersenden.
 
-### Gebuehr ZSSR
+Verstosskurzdarstellung:
+[DETAILLIERTE BESCHREIBUNG: Werbeanzeige/Website/Email vom TT.MM.JJJJ, Inhalt,
+Verstoß gegen § [X] UWG]
 
-- ca. 80 EUR
+Belege: Anlage A1 (Screenshot vom TT.MM.JJJJ)
 
-## 6) Verfügungsantrag
+Im Unterlassungsfall werden wir ohne weitere Ankuendigung Antrag auf Erlass einer
+einstweiligen Verfuegung stellen.
 
-### Inhalt
+Unsere Aufwendungen fuer diese Abmahnung betragen [BETRAG] EUR (berechnet auf
+Basis Streitwert [BETRAG] EUR).
 
-- Tatbestands-Beschreibung
-- Verstoß-Norm (z.B. § 5 UWG Irreführung)
-- Eidesstattliche Versicherung
-- Glaubhaftmachung (eA + Klage-Vortrag)
-- Anlage Schutzschrift falls bekannt
+Mit freundlichen Gruessen
+[KANZLEI / NAME]
+```
 
-### Gerichtsstand § 14 UWG
+## Output-Template Verfuegungsantrag (Grundgeruest)
 
-- Mehrere mögliche Gerichtsstaende
-- Kläger wählt — „Forum-Shopping"
-- Spezialisierte Kammern oft (LG Frankfurt, LG Hamburg, LG Muenchen)
+**Adressat:** LG [ORT], [Kammer fuer UWG] — Tonfall sachlich-juristisch
 
-## 7) Anhörung vs. Verfügung ohne muendliche Verhandlung
+```
+An das Landgericht [ORT]
+[Kammer fuer Handelssachen / UWG-Kammer]
 
-### Ohne muendliche Verhandlung
+ANTRAG AUF ERLASS EINER EINSTWEILIGEN VERFUEGUNG
 
-- Bei eindeutigem Verstoß + Eilbedürftigkeit
-- Standard bis ca. 2010
-- Heute seltener wegen Schutzschriften-Pflicht
+des/der [ANTRAGSTELLER], [ADRESSE]
+— Antragsteller/in —
+Prozessbevollmaechtigte: [KANZLEI]
 
-### Mit muendlicher Verhandlung
+gegen
 
-- Bei strittigem Sachverhalt
-- Bei vorliegender Schutzschrift typisch
-- Termine binnen 1-3 Wochen
+[ANTRAGSGEGNER], [ADRESSE]
+— Antragsgegner/in —
 
-## 8) Widerspruch / Berufung
+I. ANTRAG
 
-### Widerspruch § 924 ZPO
+Der Antragsgegnerin wird bei Meidung eines Ordnungsgeldes bis EUR 250.000,
+ersatzweise Ordnungshaft, untersagt, im geschaeftlichen Verkehr [GENAUE BESCHREIBUNG
+DER UNTERSAGTEN HANDLUNG].
 
-- Innerhalb 14 Tagen ab Zustellung
-- Führt zu muendlicher Verhandlung
-- Kosten-Risiko für Beklagten
+II. BEGRUENDUNG
 
-### Berufung OLG
+A. Tatsachen
+[CHRONOLOGISCH, MIT DATUM UND BELEGEN — Screenshot K1, Kaufbeleg K2 etc.]
 
-- Nach Endurteil im Hauptsacheverfahren
-- Streitwerte oft hoch
+B. Dringlichkeit
+Erstmalige Kenntnis des Antragstellers am [DATUM]. Seitdem sind [X] Tage vergangen.
+Die 4-Wochen-Frist des § 12 Abs. 1 UWG ist gewahrt.
 
-## 9) Hauptsache-Klage
+C. Anspruchsgrundlage
+§ 8 Abs. 1 i.V.m. § [X] UWG
 
-### Wenn eA gewonnen
+III. GLAUBHAFTMACHUNG
+Eidesstattliche Versicherung des Antragstellers als Anlage K [X].
 
-- Hauptsache-Klage zur Klarstellung (Unterlassung dauerhaft)
-- Schadensersatz-Anspruch im Hauptverfahren
+Streitwert: [BETRAG] EUR
 
-### Wenn eA verloren
+[ORT, DATUM, UNTERSCHRIFT]
+ANLAGEN: K1 [Screenshot], K2 [Kaufbeleg], K3 [Eidesstattliche Versicherung]
+```
 
-- Klage zur endgültigen Klärung
-- Bei vorliegender Schutzschrift: gute Aussichten
+## Vertiefung: Vertragsstrafe bei UWG-Verstoss
 
-## 10) Vertragsstrafe
+| Verstosstypus | Uebliche Hoehe | Grundlage |
+|---------------|---------------|---------|
+| Spam-Email B2C | 3.000-5.000 EUR je Verstoß | § 7 UWG, BGH I ZR 93/17 |
+| Irreführende Werbung klein | 5.001-10.000 EUR | Hamburger Brauch |
+| Irreführende Werbung gross | 15.000-30.000 EUR | Bekanntheitsgrad |
+| Wiederholungsverstoß | mind. Verdoppelung | § 339 BGB Angemessenheit |
 
-### Höhe
+## Cross-Refs
 
-- Beim ersten Verstoß: typisch 5.001-10.000 EUR
-- Bei Wiederholung: höhere Sätze
-- Bei Verbraucher-relevanter Werbung: 30.000 EUR oder mehr
-
-### Gerichtliche Kontrolle § 339 BGB
-
-- Reduzierung auf angemessene Höhe möglich
-- Bei extrem hohen Strafen Kontrolle
-
-## 11) Typische Fehler
-
-1. **Frist Dringlichkeit verpasst** — Hauptsache statt eA
-2. **Abmahnung unterbleibt** — Kostenrisiko bei sofortiger eA
-3. **Schutzschrift nicht hinterlegt** — Verfügung ohne Anhörung
-4. **Forum-Shopping zu aggressiv** — Beklagten-Sympathie verschlechtert
-5. **Schadensersatz vergessen** — Hauptsache-Klage erforderlich
-
-## 12) BGH-Linien
-
-- BGH, Urt. v. 31.5.2012 — I ZR 9/11 (Dringlichkeits-Frist)
-- BGH, Urt. v. 11.10.2017 — I ZR 78/16 (Hamburger Brauch)
-- BGH, Urt. v. 14.2.2019 — I ZR 6/17 (Aktivlegitimation Verbraucherzentrale)
-
-## Anschluss
-
-- `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage
-- `gewerblicher-rechtsschutz/skills/takedown-anweisung` — bei Online-Plattform-Verstoß
-- `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` — bei Marken-Streit
+- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — vollstaendige UWG-Abmahnung
+- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` — Vergleichsstrategie nach Abmahnung
+- `gewerblicher-rechtsschutz/schutzschrift-eilverfuegung` — Schutzschrift auf Gegenseite

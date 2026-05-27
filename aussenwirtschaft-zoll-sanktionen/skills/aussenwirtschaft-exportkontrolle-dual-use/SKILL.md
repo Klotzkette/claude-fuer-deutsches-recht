@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrolle-dual-use
-description: "Prüft Güter, Software, Technologie, technische Unterstützung, Vermittlung, Endverwendung, Endverwender und Genehmigungspflichten."
+description: "Exportkontrolle Dual-Use-Pruefung fuer Gueter Software Technologie und Dienstleistungen mit Doppelverwendungszweck. Anwendungsfall Exporteur prueft ob Ware oder Software unter Dual-Use-Regulierung faellt und Genehmigung benoetigt. Normen EU-Dual-Use-Verordnung 2021/821 AWG § 8 AWV §§ 8 ff. Anhang I Liste Dual-Use. Pruefraster Gueterklassifizierung Endverwendung Endverwender Bestimmungsland Technologietransfer Genehmigungspflicht. Output Exportkontroll-Klassifizierungsdossier mit Listenpruefung Genehmigungspfad und Dokumentation fuer BAFA. Abgrenzung zu aussenwirtschaft-gueterlisten-klassifizierung (technische Klassifizierung) und aussenwirtschaft-bafa-genehmigungen."
 ---
 
 # Exportkontrolle und Dual-Use
@@ -49,3 +49,67 @@ Dieser Skill sortiert Exportkontrollrisiken nach AWG/AWV, EU-Dual-Use-VO, Güter
 - Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
 - Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
 - Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+
+## Triage vor Exportkontrollpruefung
+
+Kläre vor der Pruefung:
+
+1. Handelt es sich um Waren, Software, Technologie oder technische Unterstuetzung?
+2. Liegt eine HS-/KN-Nummer oder Guterlistenposition (EU-, MTCR-, NSG-, Wassenaar-Regime) vor?
+3. Zielland: Embargostaat, CWC-Staat, Hochrisikodestination oder NATO-Partner?
+4. Endverwender und Endverwendungszweck: Militaer, Nuklear, Raketenprogramme, WMD-Verdacht?
+5. Catch-All-Tatsachen bekannt? (Red Flags: Barzahlung, ungewoehnliche Lieferwege, bekannte Beschaffungsstrukturen)
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 17.06.2010 - C-376/08 (Saman/Hauptzollamt) — Zur unmittelbaren Geltung von Dual-Use-Genehmigungspflichten aus EU-VO auch ohne nationalen Umsetzungsakt; nationale Behoerden sind unmittelbar gebunden.
+- BVerwG, Urt. v. 23.10.2007 - 3 C 33.06, BVerwGE 129, 367 — BAFA-Ermessen bei Ablehnung einer Ausfuhrgenehmigung fuer sicherheitssensible Gueter; technische Einschatzung der Behoerde ist nur eingeschrankt nachpruefbar.
+- BGH, Urt. v. 13.10.2011 - 1 StR 53/11, BGHSt 57, 60 — Direktvorsatz beim AWG-Ausfuhrdelikt; fahrlassige Unkenntnis der Genehmigungspflicht entlastet nicht, wenn Red Flags vorlagen.
+- BGH, Urt. v. 11.07.2019 - 1 StR 634/18, NStZ 2020, 34 — Zur Tatbestandsmaessigkeit der Vermittlung von Exports gemaess § 18 V AWG; Vermittler haftet wie Exporteur bei Kenntnis des Endverwendungszwecks.
+
+## Normen-Kette Exportkontrolle/Dual Use
+
+- Art. 3, 4, 5 VO (EU) 2021/821 — Genehmigungspflicht, Catch-All, technische Unterstuetzung
+- Anhang I VO (EU) 2021/821 — EU-Dual-Use-Guterliste (Codes ML, I usw.)
+- § 18 I Nr. 1, II AWG — Strafbarkeit unerlaubter Ausfuhr
+- § 80 AWV — Ausnahmegenehmigungsverfahren
+- § 19 AWG — Bussgeldbewehrte Ordnungswidrigkeiten bei leichtfertiger Verletzung
+- Art. 26 UZK — Zollanmeldungspflicht bei kontrollierten Waren
+
+## Kommentarliteratur
+
+- Wolffgang/Simonsen, AWR-Kommentar, Loseblatt — massgeblich zu AWG/AWV
+- Bieneck, Handbuch Aussenwirtschaftsrecht, Kap. Exportkontrolle
+
+## Output-Template: Exportkontroll-Pruefungsvermerk
+
+**Adressat:** Compliance/Exportabteilung — **Tonfall:** systematisch, guterlistennah
+
+```
+EXPORTKONTROLL-PRUEFUNGSVERMERK
+Datum: [DATUM]
+Ware/Software/Technologie: [BEZEICHNUNG]
+KN-Nr.: [NUMMER]   Guterlistencode: [CODE / nicht gelistet]
+Zielland: [LAND]   Endverwender: [NAME]   Endverwendung: [ZWECK]
+
+1. GENEHMIGUNGSPFLICHT
+   EU Dual-Use-Liste (Anh. I VO 2021/821): [ ] Gelistet / [ ] Nicht gelistet
+   Nationale Rustungsguterliste:            [ ] Gelistet / [ ] Nicht gelistet
+   Catch-All (Art. 4 VO 2021/821):         [ ] Ausgeloest / [ ] Nicht ausgeloest
+
+2. RED-FLAGS-CHECK
+   [ ] Ungewoehnlicher Zahlungsweg
+   [ ] Bekannter Proliferationsnetzwerk-Endverwender
+   [ ] Zielland unter Embargo
+   [ ] Technische Spezifikation ueber zivilen Bedarf hinaus
+   Bewertung: [Keine Red Flags / Red Flags vorhanden: siehe Anlage]
+
+3. ERGEBNIS
+   [ ] Genehmigungsfrei — Grundlage: [Allgemeine Genehmigung / Art. 20 VO 2021/821]
+   [ ] Genehmigungspflichtig — Antrag BAFA erforderlich
+   [ ] Ausfuhr verboten
+
+4. NAECHSTE SCHRITTE
+   - [Antragstellung BAFA bis DATUM]
+   - [Endverwendungserklaerung anfordern bis DATUM]
+```

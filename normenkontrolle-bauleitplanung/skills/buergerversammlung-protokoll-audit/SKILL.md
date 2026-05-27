@@ -1,6 +1,6 @@
 ---
 name: buergerversammlung-protokoll-audit
-description: Pruefung der Buergerversammlung und des Eroerterungstermins im Rahmen der fruehzeitigen Beteiligung Paragraf 3 Abs. 1 BauGB. Ablauf Einladung Tagesordnung Sitzungsleitung Aussprache Wortmeldungen Niederschrift. Audit ueber Niederschrift auf systematische Missachtung Wortbeitraege Stimmungsbild Vorfestlegungs-Anzeichen. Abgrenzung zur reinen Informationsveranstaltung. Bedeutung fuer Mandantenchronologie und Mandanten-Einwendungen. Kein Wortlautprotokoll Pflicht aber sinngemaesse Wiedergabe der eingeworfenen Belange. Auswertung im Hinblick auf Abwaegungsdokumentation und Erkenntnis-Missing. Praxis Eigenmitschrift des Mandanten beschaffen Eidesstattliche Versicherung bei abweichendem Sachverhalt.
+description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollstaendigkeit pruefen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Pruefraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemaesse Niederschrift Vorfestlegungs-Anzeichen Auswertung fuer Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz."
 ---
 
 # Bürgerversammlung — Protokoll-Audit
@@ -139,3 +139,14 @@ Die Bürgerversammlung ist der zentrale Erörterungsort der frühzeitigen Beteil
 - BayGO Art. 18 (Bürgerversammlung allgemein)
 - BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall-Linie)
 - BVerwG, Urteil vom 12.12.1969 – 4 C 105.66 (Abwägungsgebot Grundlagen)
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BVerwG, Urt. v. 05.07.1974 — 4 C 50.72, BVerwGE 45, 309 Rn. 12: Vorfestlegung im Planverfahren kann als Abwaegungsausfall gewertet werden; erkennbare Bindung an Investoreninteressen vor Abwaegung macht Beschluss angreifbar.
+- BVerwG, Urt. v. 12.12.1969 — 4 C 105.66, BVerwGE 34, 301 Rn. 8: Abwaegung muss erkennbar stattgefunden haben; rein protokollarische Wiedergabe ohne inhaltliche Auseinandersetzung ist Abwaegungsdefizit.
+- OVG NW, Urt. v. 19.11.2015 — 2 D 57/13, NVwZ-RR 2016, 340 Rn. 18: Fehlerhafte oder lueckenhafte Protokollierung der Buergerversammlung kann als Indiz fuer Vorfestlegung gewertet werden, wenn Wortbeitraege systematisch fehlen.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — § 3 Abs. 1 Rn. 1 ff. fruehzeitige Beteiligung
+- Ernst/Zinkahn, BauGB — § 3 Rn. 1 ff.

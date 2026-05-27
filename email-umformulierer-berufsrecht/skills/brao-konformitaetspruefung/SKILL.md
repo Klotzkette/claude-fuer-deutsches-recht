@@ -1,6 +1,6 @@
 ---
 name: brao-konformitaetspruefung
-description: "Prueft E-Mails und Schreiben auf Konformitaet mit den Berufspflichten der BRAO: Sachlichkeitsgebot (§ 43a Abs. 3 BRAO), Werberegeln (§ 43b BRAO) und allgemeine Berufspflichten. Erkennt unzulaessige Herabsetzungen, Polemik und Behauptungen ins Blaue."
+description: "E-Mail auf BRAO-Konformitaet pruefen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Pruefraster: Verschwiegenheitspflicht Interessenkonflikt unabhaengige Berufsausuebung Werbegrenzen Mandatsbeziehung. Output: BRAO-Pruefprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht fuer BORA-Detailpruefung (bora-konformitaetspruefung)."
 ---
 
 # BRAO-Konformitätsprüfung

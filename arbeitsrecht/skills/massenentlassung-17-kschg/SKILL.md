@@ -1,6 +1,6 @@
 ---
 name: massenentlassung-17-kschg
-description: Pruefraster fuer Massenentlassungs-Anzeige nach § 17 KSchG. Schwellenwerte abhaengig von Betriebsgroesse mehr als zwanzig Arbeitnehmer mit gestaffelter Schwelle. Konsultation Betriebsrat zwei Wochen Frist § 17 Abs. 2 KSchG. Anzeige Agentur fuer Arbeit § 17 Abs. 1 KSchG mit Pflichtangaben Sperrfrist ein Monat vor Wirksamkeit. Folge bei Verstoss Unwirksamkeit der Kuendigungen BAG GS 1/12 und Folgerechtsprechung EuGH C-188/03 Junk. Strafbarkeit § 17 KSchG keine direkt aber Unwirksamkeit zivilrechtlich verheerend. Bezug Sozialplan und Interessenausgleich § 111 BetrVG bei Betriebsaenderung.
+description: "Arbeitgeber plant Entlassung mehrerer Arbeitnehmer und fragt ob Massenentlassungsanzeige erforderlich ist oder Gewerkschaft und Betriebsrat anfechten. Pruefraster § 17 KSchG Schwellenwerte abhaengig von Betriebsgroesse. Konsultation Betriebsrat § 17 Abs. 2 KSchG mit Zwei-Wochen-Frist. Anzeige bei Agentur fuer Arbeit § 17 Abs. 1 KSchG mit Pflichtangaben Sperrfrist ein Monat. EuGH C-188/03 Junk: Anzeige muss vor Ausspruch der Kuendigung erfolgen. Folge bei Verstoss Unwirksamkeit aller Kuendigungen. Output Pruef-Memo Anzeige-Entwurf Betriebsrats-Konsultationsprotokoll. Abgrenzung: Interessenausgleich und Sozialplan § 111 BetrVG bei Betriebsaenderung."
 ---
 
 # Massenentlassung § 17 KSchG

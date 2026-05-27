@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-pruefen
-description: "Vertiefte Pruefung der Gesetzgebungskompetenz nach Art. 70 bis 74 GG bzw. nach Landesverfassung. Ausschliessliche Bundeskompetenz Art. 71 iVm 73 GG. Konkurrierende Kompetenz Art. 72 iVm 74 GG mit Erforderlichkeitsklausel und Abweichungskompetenz Laender. Auffangkompetenz Laender Art. 70 GG. Pruefung Sperrwirkung von Bundesrecht. Pruefung Annexkompetenz und Kompetenz kraft Sachzusammenhangs BVerfGE 3 / 407. Bei Landesgesetzen Pruefung Landesverfassung. Endet mit Gutachten ein bis zwei Seiten plus Empfehlung ob Vorhaben kompetenzrechtlich tragfaehig."
+description: "Gesetzgebungskompetenz nach Art. 70 bis 74 GG pruefen bevor Entwurf aufgesetzt wird. Anwendungsfall Referent oder Verband fragt ob Bund oder Land regelungsbefogt ist. Ausschliessliche Bundeskompetenz Art. 71 i.V.m. 73 GG. Konkurrierende Kompetenz Art. 72 i.V.m. 74 GG Erforderlichkeitsklausel Abweichung Laender. Auffangkompetenz Laender Art. 70 GG Sperrwirkung Bundesrecht. Annexkompetenz Kompetenz kraft Sachzusammenhangs BVerfGE 3/407. Bei Landesgesetzen zusaetzlich Landesverfassung. Output Gutachten ein bis zwei Seiten Empfehlung Tragfaehigkeit. Abgrenzung zu normhierarchie-routing Normebenenwahl."
 ---
 
 # Gesetzgebungskompetenz prüfen
@@ -38,6 +38,22 @@ Hat der Bund von seiner konkurrierenden Kompetenz Gebrauch gemacht? Dann Sperrwi
 ## Pruefstation 6 - Landesverfassung
 
 Wenn Landesgesetz: Prüfung der Landesverfassung. Hat das Land Selbstverwaltung der Kommunen zu wahren (Art. 28 Abs. 2 GG analog Landesverfassungen)? Greift das Gesetz in ein landesverfassungsrechtliches Grundrecht ein (z.B. Bayerische Verfassung Art. 101 Wohnungswesen)?
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 27.07.2005 — 1 BvR 668/04, BVerfGE 113, 348 Rn. 55 — Gesetzgebungskompetenz Bund fuer sog. Praevention; Einreihung einer Materie in Art. 74 GG erfordert Qualifikation anhand Kern der Regelung, nicht bloss Randaspekte
+- BVerfG, Urt. v. 09.07.2007 — 2 BvF 1/04, BVerfGE 119, 59 Rn. 80 — Erforderlichkeits-Klausel Art. 72 Abs. 2 GG; Bundesgesetzgeber muss Erforderlichkeit konkret darlegen; pauschale Behauptung bundeseinheitlicher Regelungsbedarf genuegt nicht
+- BVerfG, Urt. v. 26.03.2019 — 1 BvR 673/17, BVerfGE 151, 101 Rn. 40 — Kompetenz kraft Sachzusammenhangs (BVerfGE 3/407) ist eng auszulegen; Zusatzregelung muss funktional zwingend sein, nicht bloss sinnvoll
+- BVerfG, Beschl. v. 14.03.2017 — 2 BvL 6/13, BVerfGE 145, 20 Rn. 60 — Abweichungskompetenz Art. 72 Abs. 3 GG der Laender; Bundesrecht hat Vorrrang nur soweit Bund ausdruecklich Abweichung ausschliesst; Schweigen ermoeglicht Laender-Abweichung
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 70 GG (Auffangkompetenz Laender) — Art. 71-73 GG (ausschliessliche Bundeskompetenz) — Art. 72-74 GG (konkurrierende Kompetenz, Erforderlichkeit) — Art. 72 Abs. 3 GG (Abweichungskompetenz) — Art. 80 GG (Verordnungsermaechtigung)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 70 Rn. 1 ff. (Kompetenzabgrenzung) und Art. 72 Rn. 1 ff. (konkurrierende Kompetenz, Erforderlichkeit)
+- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 70 Rn. 1 ff. und Art. 74 Rn. 1 ff. (Kompetenzkatalog)
 
 ## Ausgabe
 

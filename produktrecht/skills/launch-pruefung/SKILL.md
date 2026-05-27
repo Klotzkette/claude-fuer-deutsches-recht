@@ -1,6 +1,6 @@
 ---
 name: launch-pruefung
-description: "Vollständige rechtliche Freigabeprüfung eines Produkt-Launches gegen das konfigurierte Prüfrahmenwerk und die betriebliche Risikokalibrierung. Lädt, wenn der Nutzer „Produkt-Launch prüfen\", „CE-Konformität prüfen\", „Markteinführung freigeben\", „produktrechtliche Prüfung\" oder eine Produkt-Launch-Checkliste bzw. ein PRD mit Freigabebedarf nennt."
+description: "Produktmanager oder Rechtsabteilung will vor dem Launch pruefen ob das Produkt oder Feature produktrechtlich freigegeben werden kann. Vollstaendige rechtliche Freigabeprufung gegen konfiguriertes Pruefrahmenwerk und Risikokalibrierung. Normen ProdSG Produktsicherheitsgesetz MarktueberwG CE-Konformitaet EU-Produktsicherheits-VO 2023/988. Pruefraster KI-VO-Anforderungen UWG-Verstoessrisiken DSGVO DSA Verbraucherschutz BGB. Output Launch-Freigabe-Checkliste mit Ampel-Status offenen Punkten und Eskalations-Empfehlung. Abgrenzung: feature-risikobewertung fuer vertiefte Einzel-Risiko-Analyse."
 ---
 
 # Produkt-Launch-Freigabeprüfung

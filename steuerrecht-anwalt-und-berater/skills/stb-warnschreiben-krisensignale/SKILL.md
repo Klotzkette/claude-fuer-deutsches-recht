@@ -1,179 +1,316 @@
 ---
 name: stb-warnschreiben-krisensignale
-description: Schreibvorlage Steuerberater an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Pflichthinweis nach BGH IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 IX ZR 70/07 (Steuerberater-Hinweispflicht bei erkennbarer Krise) zur eigenen Haftungsvermeidung. Steuerberater ist regelmaessig externer Bestandteil des Krisenfrueherkennungssystems der Mandantin nach § 102 StaRUG — ohne seinen Hinweis kann die Geschaeftsleitung ihrer eigenen Pflicht nicht nachkommen. Bezug § 15a InsO Antragspflicht (drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung). Empfehlung anwaltlicher Beratung. Keine eigene Rechtsberatung (§ 5 RDG). Eingangsbestaetigung dokumentiert.
+description: "Schreibvorlage Steuerberater-Warnschreiben an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Anwendungsfall Steuerberater erkennt Krisensignale und muss Hinweispflicht nach § 102 StaRUG und BGH-Rechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 IX ZR 70/07 erfuellen um eigene Haftung zu vermeiden. Bezug Antragspflicht § 15a InsO drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung. Empfehlung anwaltlicher Beratung keine eigene Rechtsberatung § 5 RDG. Output Warnschreiben mit Belehrung und Eingangsbestaetigung. Abgrenzung zu anw-haftungswarn-15a-inso-mandant anwaltliche Folgeberatung."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen
 
-## Zweck
+## Kernsachverhalt
 
-Dieser Skill erstellt das **schriftliche Warnschreiben** des Steuerberaters an die Geschäftsführung einer GmbH/UG, wenn aus der laufenden Buchhaltungsbetreuung Krisensignale erkennbar werden — typisch im Anschluss an `stb-bwa-sus-bilanz-pruefung`, `stb-ueberschuldungspruefung-19-inso` oder `stb-liquiditaetsvorschau-3wochen` mit gelber oder roter Ampel.
+Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Krisensignale aus BWA, SuSa, Bilanz und Liquiditätsvorschau erkennt. Die ständige BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18, IX ZR 70/07) verpflichtet ihn, ausdrücklich und schriftlich zu warnen. § 102 StaRUG hat diese Pflicht seit 1.1.2021 gesetzlich verankert. Wer warnt, schützt seine Berufshaftpflicht. Wer schweigt, haftet für Verschleppungsschäden.
 
-> Der Hinweis ist **keine Rechtsberatung** (§ 5 RDG). Er erfüllt die **Sorgfaltspflicht des Steuerberaters** nach BGH IX ZR 285/14 und IX ZR 64/12 — wer Krisensignale erkennt und nicht hinweist, haftet für die Verschleppungsschäden.
+## Kaltstart-Rückfragen
 
-### Warum gerade der Steuerberater
-
-Der Steuerberater ist in der Mandatsbetreuung in der Regel **derjenige Berater, der laufend über die wirtschaftlichen Verhältnisse der Mandantin informiert ist** — durch monatliche BWA, SuSa-Auswertungen, Lohnsteuer- und Umsatzsteuer-Voranmeldungen, Bilanzaufstellung und ggf. Liquiditätsplanung. Damit ist er **strukturell der erste**, der Krisensignale erkennt — oft Wochen oder Monate vor dem anwaltlichen Berater.
-
-Die Geschäftsleitung haftungsbeschränkter Gesellschaften ist nach **§ 102 StaRUG** verpflichtet, bestandsgefährdende Entwicklungen früh zu erkennen und Gegenmaßnahmen einzuleiten. Der Steuerberater ist regelmäßig der zentrale **externe Informationsgeber** dieses Krisenfrüherkennungssystems — ohne seinen Hinweis kann die GF ihrer eigenen § 102 StaRUG-Pflicht oft nicht nachkommen. Aus dieser tatsächlichen Schlüsselstellung folgt nach ständiger BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18) die **eigene Hinweispflicht** des Steuerberaters bei erkennbaren Krisensignalen. Ihr Verletzen führt zu eigener Haftung für Verschleppungsschäden.
-
-## Eingaben
-
-- Mandant (Firma, HRB, Vertretungsverhältnisse)
-- Ermittlungsstichtag (typisch: Stichtag der ausgewerteten BWA/Bilanz/SuSa)
-- Identifizierte Krisensignale aus vorgelagertem Skill (mit Belegen)
-- Vorherige Hinweise dokumentiert? (Wenn ja: dieser ist ein nachgehender Hinweis)
-- Mandantenkommunikationskanal (Brief mit Einschreiben/Rückschein, beA an Mandantenvertretung, persönliche Übergabe)
-- Datum der Versendung und gewählter Zustellweg
+1. Welche Krisensignale wurden im vorgelagerten Skill (BWA-Prüfung, SuSa, Liquiditätsvorschau) identifiziert — mit Bezifferung?
+2. Wurde der Geschäftsführer bereits früher mündlich oder schriftlich hingewiesen? Wenn ja: Datum und Inhalt?
+3. Welcher Kommunikationskanal — Einschreiben mit Rückschein, beA an Mandantenanwalt, persönliche Übergabe?
+4. Besteht neben dem StB auch ein Steueranwalt im Mandat? Wenn ja: Koordination empfohlen.
+5. Gibt es konkrete Sanierungsmaßnahmen die der GF bereits eingeleitet hat — Bankgespräch, Gesellschafterdarlehen, Restrukturierungsplan?
+6. Ist ein Fachanwalt für Insolvenzrecht bereits eingebunden oder soll der StB dies im Schreiben ausdrücklich empfehlen?
+7. Hat die GmbH ein internes § 102 StaRUG-Krisenfrüherkennungssystem — wenn nein, soll das Warnschreiben auch auf diese Pflicht hinweisen?
+8. Ist das Mandatsverhältnis gefährdet — Reaktion des Mandanten auf bisherige Hinweise?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
 ### Primärnormen
 
-- **§ 1 Abs. 2 i.V.m. § 33 StBerG** — Steuerberater hat im Rahmen seines Auftrags umfassend zu beraten und vor Schäden zu warnen.
-- **§ 5 RDG** — Nebenleistungspflicht: rechtliche Hinweise sind zulässig, soweit sie zur Erfüllung der steuerberatenden Hauptleistung gehören. **Keine eigene Rechtsberatung** zur Insolvenzantragspflicht — Empfehlung anwaltlicher Beratung ist Pflichtbestandteil.
-- **§ 15a Abs. 1 InsO** — Insolvenzantragspflicht der GmbH-Geschäftsführung: bei Zahlungsunfähigkeit **drei Wochen**, bei Überschuldung **sechs Wochen** ab Eintritt.
-- **§ 15b InsO** — Zahlungsverbote nach Insolvenzreife (löste § 64 GmbHG a.F. ab; SanInsFoG, 1.1.2021).
-- **§ 102 StaRUG** — Krisenfrüherkennungspflicht der Geschäftsleitung haftungsbeschränkter Gesellschaften; ergänzt § 91 Abs. 2 AktG analog. Der Steuerberater ist als laufender Buchhaltungs- und Bilanzbetreuer regelmäßig **wesentlicher externer Bestandteil** des Krisenfrüherkennungssystems. Versäumt er einen rechtzeitigen Hinweis, bricht das System praktisch zusammen — daraus folgt die eigene Hinweispflicht (siehe BGH IX ZR 285/14).
-- **§ 627 BGB** — Vertrauensstellung Steuerberatungsvertrag; Hinweis-/Aufklärungspflicht als Hauptpflicht.
+**§ 1 Abs. 2 i.V.m. § 33 StBerG** — Steuerberater hat im Rahmen seines Auftrags umfassend zu beraten und vor Schäden zu warnen.
+
+**§ 5 RDG** — Steuerberatende Hinweise zur Insolvenzantragspflicht sind als Nebenleistung zulässig; eigenständige Rechtsberatung über § 15a InsO ist dem Anwalt vorbehalten.
+
+**§ 15a Abs. 1 InsO** — Antragspflicht GF: bei Zahlungsunfähigkeit 3 Wochen, bei Überschuldung 6 Wochen ab Eintritt.
+
+**§ 15b InsO** — Zahlungsverbote nach Insolvenzreife.
+
+**§ 102 StaRUG** — Gesetzliche Hinweispflicht des Steuerberaters bei Erstellung des Jahresabschlusses und offenkundigen Krisensignalen; seit 1.1.2021 in Kraft.
+
+**§ 627 BGB** — Vertrauensstellung Steuerberatungsvertrag; Aufklärungspflicht als Hauptpflicht.
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 26.1.2017 — **IX ZR 285/14** ("Steuerberater-Haftung wegen unterlassener Krisenwarnung"): Steuerberater haftet für Insolvenzverschleppungsschäden, wenn er aus der Buchhaltung Krisensignale erkennt und nicht hinweist. Maßstab: erkennbarer rechnerischer Überschuldungsstatus oder anhaltende Zahlungsstockung.
-- BGH, Urt. v. 7.3.2013 — **IX ZR 64/12** (Hinweispflicht bei drohender Insolvenzreife): Bereits **drohende** Insolvenzreife begründet die Hinweispflicht — nicht erst die manifeste Antragspflicht.
-- BGH, Urt. v. 6.6.2019 — **IX ZR 104/18** (Maßstab der erkennbaren Krisensignale; Substantiierungslast Steuerberater bei späterer Streitlage zur Hinweiserteilung).
-- BGH, Urt. v. 14.10.2010 — **IX ZR 153/09** (Steuerberater muss auf Schäden aus Geschäftsführerhaftung hinweisen).
-- BGH, Urt. v. 18.2.2010 — **IX ZR 70/07** (Inhalt und Maßstab der Hinweispflicht; ausdrückliche Warnung erforderlich, allgemeine Andeutungen genügen nicht).
+| Gericht | Aktenzeichen | Datum | Leitsatz |
+|---|---|---|---|
+| BGH IX ZR 285/14 | NJW 2017, 1611 | 26.01.2017 | StB haftet für Insolvenzverschleppungsschäden bei unterlassenem Hinweis auf Krisensignale aus Buchhaltung |
+| BGH IX ZR 64/12 | NJW 2013, 1672 | 07.03.2013 | Hinweispflicht bereits bei drohender Insolvenzreife — nicht erst bei eingetretener Antragspflicht |
+| BGH IX ZR 104/18 | NJW 2019, 2770 | 06.06.2019 | Substantiierungslast StB bei späterer Streitlage; Dokumentation der Hinweiserteilung erforderlich |
+| BGH IX ZR 70/07 | NJW 2010, 2345 | 18.02.2010 | Ausdrückliche Warnung erforderlich; allgemeine Andeutungen genügen nicht |
+| BGH IX ZR 153/09 | NJW 2011, 218 | 14.10.2010 | StB muss auf Schäden aus GF-Haftung hinweisen |
 
-### § 102 StaRUG als Auslöser der StB-Hinweispflicht
+## Prüfschema Warnschreiben-Erstellung
 
-§ 102 StaRUG verpflichtet die Geschäftsleitung haftungsbeschränkter Gesellschaften zur fortlaufenden Krisenfrüherkennung und zum Ergreifen geeigneter Gegenmaßnahmen. In der Praxis stützt sich die GF auf die laufende Datenversorgung durch den Steuerberater. Daraus folgt:
 
-1. **Datenpflicht des Steuerberaters** — BWA, SuSa, Liquiditätsvorschau müssen so aufbereitet sein, dass Krisensignale für die GF erkennbar sind.
-2. **Aktive Hinweispflicht** — Erkennt der Steuerberater Krisensignale, muss er sie **ausdrücklich benennen**; bloße Übersendung der Zahlen genügt nicht (BGH IX ZR 70/07).
-3. **Empfehlung zum Aufbau des Krisenfrüherkennungssystems** — Wenn die Mandantin noch kein § 102 StaRUG-System hat, soll der Steuerberater auf die Pflicht zur Einrichtung hinweisen und die eigene Datenlieferung als Baustein anbieten.
-4. **Dokumentation** — Jedes Warnschreiben dient zugleich als Nachweis, dass die § 102 StaRUG-Pflicht der GF durch den Berater ordnungsgemäß unterstützt wurde.
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-## Vorgehen
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Krisensignale identifizieren | Aus BWA/SuSa/Bilanz/Liquiditätsvorschau; mit Bezifferung | Liste der Signale |
+| 2 | Intensitätsgrad bewerten | Drohend / eingetreten; IDW S 6 Krisenstadium | Priorität des Handelns |
+| 3 | § 102 StaRUG-Schwelle prüfen | Erstellungsauftrag + offenkundig? | Hinweispflicht ausgelöst? |
+| 4 | Frühere Hinweise prüfen | Mündlich, schriftlich, Aktenvermerk? | Ersthinweis vs. Wiederholung |
+| 5 | Form des Schreibens | Schriftlich/textförmlich; Einschreiben mit Rückschein oder äquivalent | Zustellnachweis |
+| 6 | Krisensignale beziffern | EUR-Beträge, Quoten, Zeiträume — nicht allgemein | Konkrete Tatbestandsbelege |
+| 7 | Rechtliche Normen benennen | § 15a InsO, §§ 17, 19 InsO, § 102 StaRUG, § 15b InsO | Ohne eigene Subsumtion |
+| 8 | Empfehlung mit Frist | Anwalt binnen 1 Woche; Sanierungskonzept; Liquiditätsplanung | Handlungsauffordung |
+| 9 | Eigene Haftungsabsicherung | Kein ELSTER; Eingangsbestätigung; Wiedervorlage bei Schweigen | Dokumentationsroutine |
+| 10 | Mandatskündigung prüfen | Bei Verweigerung jeglicher Reaktion; § 627 BGB | Ultima ratio |
+| 11 | Krisenfrüherkennungssystem | Hinweis auf § 102 StaRUG-Pflicht des GF selbst; Aufforderung zur Einrichtung | Compliance |
+| 12 | Anschluss anwaltliche Prüfung | Übergabe an Steueranwalt für § 15a InsO-Gutachten | Koordination |
+| 13 | Reaktion dokumentieren | Eingangsbestätigung, Gesprächsnotiz, Wiedervorlage | BGH IX ZR 104/18 |
+| 14 | Wiederholung bei Ausbleiben | Erinnerungsschreiben nach 14 Tagen | Eskalationsstufe |
+| 15 | Abschluss Mandatskündigung | Bei manifester Aussichtslosigkeit und weiterer Verschleppung | § 627 BGB |
 
-### 1. Krisensignale benennen — § 102 StaRUG-tauglich
+## Beweislast
 
-Auflisten, **welche konkreten Befunde** der Steuerberater ermittelt hat. Die Aufstellung soll so beziffert sein, dass die GF sie unmittelbar in das eigene § 102 StaRUG-System übernehmen kann. Beispiele:
+| Beweisthema | Beweislastträger | Beweismittel |
+|---|---|---|
+| Hinweis erteilt | StB (Abwehrseite in Haftungsklage) | Schriftliches Warnschreiben; Eingangsbestätigung; Aktenvermerk |
+| Krisensignale erkennbar waren | Haftungskläger (Insolvenzverwalter, Gläubiger) | BWA, SuSa, Kontoauszüge zum Erkenntniszeitpunkt |
+| Fristbeginn § 15a InsO | Haftungskläger | Liquiditätsstatus; Bescheide; SV-Rückstands-Belege |
+| Mandant hat Hinweis erhalten und ignoriert | StB | Einschreiben-Rückschein; persönliche Übergabe-Quittung |
+| Weitere Verschleppung nach Hinweis | Haftungskläger | Buchführungsunterlagen; Kontoauszüge nach Hinweisdatum |
 
-- Negatives Eigenkapital seit Stichtag XX.XX.XXXX (Aktiva EUR …, Passiva EUR …, Differenz EUR …).
-- Anhaltende Unterdeckung Lohnsteuer-/Sozialversicherungsbeiträge.
-- Wiederholte Stundungsanträge Finanzamt / Sozialversicherung in letzten n Monaten.
-- 3-Wochen-Liquidität nach BGH-Passiva-II-Schema (`stb-liquiditaetsvorschau-3wochen`): Lückenquote ≥ 10 %.
-- Fortbestehensprognose `stb-ueberschuldungspruefung-19-inso`: negativ wegen fehlendem Sanierungskonzept.
-- Krise nach IDW S 6 — Strategiekrise / Ertragskrise / Liquiditätskrise.
+## Fristen und Dokumentations-Checkliste
 
-### 2. Rechtliche Einordnung — bewusst zurückhaltend
+| Aktion | Frist | Nachweis |
+|---|---|---|
+| Erstschreiben nach Erkenntnis der Krisensignale | Unverzüglich; spätestens 5 Werktage nach Auswertung | Versanddatum; Einschreiben-Nr. |
+| Eingangsbestätigung anfordern | Binnen 7 Tagen nach Versand | Quittung; Email-Bestätigung |
+| Erinnerungsschreiben bei Schweigen | 14 Tage nach Erstschreiben | Zweites Einschreiben |
+| Aktenvermerk Mandantengespräch | Unmittelbar nach Gespräch | Datierter Aktenvermerk |
+| Wiedervorlage Überwachung | 4 Wochen nach Erstschreiben | Fristenbuch |
+| Mandatskündigung | Bei dauerhafter Verweigerung jeder Reaktion | Kündigung § 627 BGB schriftlich |
 
-Steuerberater **nennt** § 15a InsO, § 102 StaRUG und § 15b InsO als anwendbare Normen, **beurteilt sie aber nicht eigenständig**. Die anwaltliche Beratungsempfehlung ist Pflichtbestandteil. Zusätzlich wird die GF auf ihre eigene § 102 StaRUG-Dokumentationspflicht hingewiesen und gebeten, das vorliegende Warnschreiben in das interne Krisenfrüherkennungssystem aufzunehmen.
+## Typische Gegenargumente
 
-### 3. Empfehlung mit Frist
+| Gegenargument des GF / Haftungsklägers | Erwiderung |
+|---|---|
+| "Krisensignal war nicht offenkundig" | BGH IX ZR 64/12: drohende Insolvenzreife reicht; SV-Rückstände, negatives EK als Standardsignale |
+| "Mündlicher Hinweis wurde erteilt" | BGH IX ZR 70/07: ausdrückliche Warnung erforderlich; Mündliches ist nicht beweisbar; Schriftform Pflicht |
+| "StB ist für Buchhaltung, nicht für Insolvenzrecht zuständig" | BGH IX ZR 285/14: aus der Buchhaltungsbetreuung folgt Hinweispflicht strukturell; unabhängig vom Vertragsgegenstand |
+| "Mandant wusste von der Krise selbst" | BGH IX ZR 104/18: eigenständige StB-Pflicht; Eigenkenntnis des Mandanten befreit StB nicht |
+| "Hinweis erfolgte zu spät — schon InsO-reif" | Dokumentation wann Erkenntnis eingetreten ist; Warnschreiben-Datum gegen Indizienbeweis stellen |
 
-- **Anwaltliche Beratung** (Fachanwalt für Insolvenz-/Sanierungsrecht oder Fachanwalt für Steuerrecht mit Sanierungserfahrung) **binnen einer Woche** terminieren.
-- **Sanierungskonzept nach IDW S 6** bei anhaltender Krise erstellen lassen.
-- **Liquiditätsplanung** auf rollierender 13-Wochen-Basis (`stb-liquiditaetsvorschau-3wochen` oder Power-Plugin `liquiditaetsplanung`) wöchentlich aktualisieren.
-- **Eigene Dokumentation** des GF (§ 102 StaRUG verlangt nachweisbare Krisenfrüherkennung).
+## Strategische Optionen (vor dem Template entscheiden)
 
-### 4. Eigene Haftungsabsicherung
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-- **Schriftlich** versenden (Einschreiben/Rückschein, beA an Mandantenanwalt oder vergleichbar nachweisbarer Zustellweg).
-- **Eingangsbestätigung** anfordern und in Mandatsakte ablegen.
-- **Kein ELSTER-Versand** (ELSTER ist Kommunikationskanal zur Finanzbehörde, nicht zum Mandanten).
-- **Bei ausbleibender Reaktion** binnen zwei Wochen: erneutes Schreiben mit explizitem Hinweis auf eigene Berufshaftpflicht-Pflichten. Dokumentation Wiedervorlage.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Warnschreiben bei Krisensignalen erstellen | Warnschreiben nach Schema; Template unten |
+| Variante A — Krisensignale noch schwach praevention moeglich | Fruehwarnung-Schreiben statt Krisenwarnung; milderen Ton waehlen |
+| Variante B — Insolvenzreife bereits eingetreten | Warnschreiben mit Hinweis auf § 15a InsO; Insolvenz-Skill parallel |
+| Variante C — Mandant will kein Warnschreiben Dokumentation intern | Internes Vermerk statt ausgehendem Schreiben; Haftungsschutz trotzdem |
 
-### 5. Mandatskündigung als ultima ratio
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-Wenn der Mandant trotz mehrfacher schriftlicher Hinweise keine anwaltliche Beratung einholt und der Steuerberater die Aussichten als manifest insolvenzverschleppend einschätzt: **Mandatsniederlegung** prüfen (§ 627 BGB; gestaffelt). Dokumentation zwingend.
 
-## Muster-Warnschreiben (verkürzt)
+## Schriftsatzbausteine
+
+### Baustein 1: Vollständiges Warnschreiben (Ersthinweis)
 
 ```
-[Steuerberater-Briefkopf]                                       [Datum]
+[Steuerberater-Briefkopf]
+[Kanzlei, Anschrift]
+[Datum]
 
 PERSÖNLICH / VERTRAULICH
+Vorab per Telefax [Fax-Nr.], dann per Einschreiben mit Rückschein
 
-[Mandant — GmbH, vertreten durch Geschäftsführer/in Name]
+[Mandant — [Firma] GmbH, vertreten durch GF Name]
 [Anschrift]
 
-Vorab per Telefax / Einschreiben mit Rückschein
+Unsere Mandats-Nr.: [Nr.]
+Betreff: Hinweis auf erkennbare Krisensituation Ihrer Gesellschaft
+         — § 102 StaRUG, BGH IX ZR 285/14
 
-Hinweis zur erkennbaren Krisensituation Ihrer Gesellschaft
+Sehr geehrte/r Herr / Frau [GF-Name],
 
-Sehr geehrte/r Frau / Herr [Name],
+aus der von uns geführten laufenden Finanzbuchhaltung und der von uns
+aufgestellten betriebswirtschaftlichen Auswertung zum Stichtag [Datum]
+ergeben sich folgende konkrete Krisensignale:
 
-aus der von uns für Sie geführten laufenden Finanzbuchhaltung und der von
-uns aufgestellten betriebswirtschaftlichen Auswertung zum Stichtag [Datum]
-ergeben sich folgende Krisensignale:
+1. Eigenkapital negativ — Bilanzentwurf zum [Datum] weist ein
+   Eigenkapital von EUR −[Betrag] aus (Vorjahr: EUR −[Betrag]).
 
-1. [Konkretes Signal 1 mit Bezifferung — z. B. negatives Eigenkapital
-   EUR XXX zum Stichtag XX.XX.XXXX].
-2. [Konkretes Signal 2 — z. B. anhaltende Unterdeckung Lohnsteuer/SV].
-3. [Konkretes Signal 3 — z. B. Liquiditaetsluecke 3-Wochen-Schema XX %].
+2. Sozialversicherungsbeiträge für [Monat 1], [Monat 2], [Monat 3]
+   nicht abgeführt: Rückstand EUR [Betrag]. Dies begründet ein Risiko
+   nach § 266a StGB und dokumentiert mögliche Zahlungsunfähigkeit.
 
-Diese Signale begruenden den Verdacht einer Krise nach IDW S 6 und
-gegebenenfalls einer Insolvenzreife im Sinne von §§ 17 oder 19 InsO. Sie
-sind als Geschaeftsfuehrer/in nach § 15a Abs. 1 InsO verpflichtet, bei
-Zahlungsunfaehigkeit innerhalb von drei Wochen, bei Ueberschuldung
-innerhalb von sechs Wochen Insolvenzantrag zu stellen. Zudem trifft Sie
-nach § 102 StaRUG die Pflicht zur Krisenfrueherkennung und zum Ergreifen
-geeigneter Gegenmassnahmen — wir empfehlen Ihnen, dieses Schreiben
-unmittelbar in Ihr internes Krisenfrueherkennungssystem aufzunehmen und
-den Eingang sowie die ergriffenen Massnahmen schriftlich zu dokumentieren.
+3. Liquiditätslücke nach 3-Wochen-Vorschau (§ 17 InsO):
+   Fällige Verbindlichkeiten EUR [P], verfügbare Mittel EUR [A],
+   Unterdeckung EUR [L] (Quote [X] %). Diese Lücke ist nach
+   derzeitigem Kenntnisstand nicht binnen 3 Wochen schließbar.
 
-Wir leisten Ihnen mit diesem Schreiben den uns als Steuerberater nach
-staendiger Rechtsprechung des Bundesgerichtshofs obliegenden Hinweis
-(BGH IX ZR 285/14, IX ZR 64/12, IX ZR 104/18, IX ZR 70/07). Als Ihr
-laufender Steuerberater sind wir in tatsaechlicher Hinsicht regelmaessig
-derjenige Berater, der wirtschaftliche Schieflagen zuerst erkennt, und
-damit wesentlicher Bestandteil Ihres Krisenfrueherkennungssystems nach
-§ 102 StaRUG. Eine rechtliche Beurteilung der Insolvenzantragspflicht
-ist uns als Steuerberater nach § 5 RDG nicht erlaubt.
+4. Steuerrückstände beim Finanzamt [FA-Name] über EUR [Betrag]:
+   davon EUR [y] seit über 3 Monaten überfällig.
 
-Wir empfehlen Ihnen mit Nachdruck, **binnen einer Woche**:
+Diese Signale begründen den begründeten Verdacht einer Krise nach IDW S 6
+und möglicher Insolvenzreife im Sinne von §§ 17, 19 InsO.
 
-- eine/n Fachanwaltin/Fachanwalt fuer Insolvenz- und Sanierungsrecht
-  oder fuer Steuerrecht mit Sanierungserfahrung zu konsultieren;
-- ein Sanierungskonzept nach IDW S 6 erstellen zu lassen, soweit eine
-  Fortfuehrungsperspektive besteht;
-- eine rollierende 13-Wochen-Liquiditaetsplanung einzurichten, sofern
-  noch nicht vorhanden, und uns wochentlich uebermitteln zu lassen;
-- saemtliche Krisenfrueherkennungs-Massnahmen nach § 102 StaRUG schriftlich
-  zu dokumentieren.
+Als Geschäftsführer sind Sie nach § 15a Abs. 1 InsO verpflichtet:
+— bei Zahlungsunfähigkeit: Insolvenzantrag binnen 3 Wochen;
+— bei Überschuldung: Insolvenzantrag binnen 6 Wochen.
 
-Bitte bestaetigen Sie uns den Eingang dieses Schreibens innerhalb von
-sieben Tagen schriftlich. Bei Ausbleiben der Reaktion behalten wir uns
-weitere Schritte vor.
+Zahlungen nach Eintritt der Insolvenzreife sind nach § 15b InsO
+grundsätzlich verboten und begründen persönliche Haftung.
 
-Mit freundlichen Gruessen
+Gemäß § 102 StaRUG sind Sie zudem verpflichtet, ein
+Krisenfrüherkennungssystem einzurichten und bestandsgefährdende
+Entwicklungen zu überwachen. Wir empfehlen, dieses Schreiben
+unmittelbar in Ihre interne Dokumentation aufzunehmen.
 
-[Unterschrift]
-[Steuerberater/in]
+Wir leisten mit diesem Schreiben den nach ständiger BGH-Rechtsprechung
+obliegenden ausdrücklichen Hinweis (BGH IX ZR 285/14, IX ZR 64/12,
+IX ZR 104/18, IX ZR 70/07). Eine Beurteilung der Insolvenzantragspflicht
+steht uns als Steuerberater nach § 5 RDG nicht zu.
+
+Wir empfehlen Ihnen dringend, **binnen einer Woche**:
+
+a) einen Fachanwalt für Insolvenz-/Sanierungsrecht oder einen
+   Steueranwalt mit Sanierungserfahrung zu konsultieren;
+b) eine integrierte Liquiditätsvorschau und ein Sanierungskonzept
+   nach IDW S 6 erstellen zu lassen;
+c) die SV-Beiträge vorrangig nachzuzahlen (§ 266a StGB-Risiko);
+d) keine weiteren Zahlungen ohne anwaltlichen Rat zu leisten,
+   die die Insolvenzmasse schmälern könnten.
+
+Bitte bestätigen Sie den Eingang dieses Schreibens und die ergriffenen
+Maßnahmen innerhalb von 7 Tagen schriftlich. Bei Ausbleiben der Reaktion
+behalten wir uns vor, das Mandat zu überdenken.
+
+Mit freundlichen Grüßen
+
+[Steuerberater/in, Kanzlei]
 [Berufsbezeichnung, Kammer]
+
+Anlage: BWA zum [Datum]; Liquiditätsvorschau [Datum]
 ```
 
-## Eingangsbestätigung / Wiedervorlage
+### Baustein 2: Erinnerungsschreiben bei Ausbleiben der Reaktion
 
-| Datum | Aktion | Empfangsbeleg | Reaktion Mandant |
-|---|---|---|---|
-| TT.MM.JJJJ | Erstes Warnschreiben | Einschreiben/Rückschein Nr. … | … |
-| TT.MM.JJJJ | Erinnerung (bei Ausbleiben) | … | … |
-| TT.MM.JJJJ | Telefonat dokumentiert | … | … |
-| TT.MM.JJJJ | Ggf. Mandatsniederlegung | … | — |
+```
+[StB-Briefkopf]
+[Datum — 14 Tage nach Erstschreiben]
 
-## Querverweise
+EINSCHREIBEN MIT RÜCKSCHEIN
 
-- `stb-bwa-sus-bilanz-pruefung` — Eingangs-Auswertung
-- `stb-ueberschuldungspruefung-19-inso` — Pflichtprüfung vor Warnschreiben
-- `stb-liquiditaetsvorschau-3wochen` — Liquiditätsdaten als Beleg
-- `liquiditaetsplanung` (separates Power-Plugin) — gerichtsfeste insolvenzrechtliche Liquiditätsbilanz
-- `anw-haftungswarn-15a-inso-mandant` — anwaltliche Spiegelvariante (typisch nachgelagert, wenn Mandant anwaltlich vertreten ist)
-- `anw-insolvenzreife-pruefung-17-19-inso` — anwaltliche Beurteilung der Insolvenzreife (steuerspezifischer Schwerpunkt)
-- `krisenfrueherkennung-starug` (separates Power-Plugin) — vertiefte § 102 StaRUG-Pflicht und Aufbau des Krisenfrüherkennungssystems
+[GF]
 
-## Quellen und Updates
+Betreff: Erinnerung — Pflichthinweis vom [Datum] ohne Rückmeldung
 
-Stand: 05/2026. BGH-Hinweispflichtrechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18) zentral. SanInsFoG-Reform berücksichtigt (§ 15b InsO statt § 64 GmbHG a.F.). § 102 StaRUG seit 1.1.2021 in Kraft. Bei Änderung StBerG/RDG oder Verschärfung der Hinweispflicht aktualisieren.
+Sehr geehrte/r Herr / Frau [GF-Name],
+
+mit Schreiben vom [Datum] (Einschreiben-Nr. [Nr.]) haben wir Sie auf
+konkrete Krisensignale in den Buchführungsunterlagen Ihrer Gesellschaft
+hingewiesen und um Rückmeldung binnen 7 Tagen gebeten.
+
+Eine Reaktion Ihrerseits ist bis heute nicht erfolgt. Wir wiederholen
+daher unseren ausdrücklichen Hinweis:
+
+[Kurzfassung der Krisensignale aus Baustein 1]
+
+Die Antragsfrist nach § 15a InsO läuft — falls Zahlungsunfähigkeit
+bereits eingetreten ist — unabhängig von unseren Schreiben. Jeder Tag
+ohne rechtliche Prüfung erhöht das Risiko einer Strafbarkeit nach
+§ 15a Abs. 4 InsO und der persönlichen Haftung nach § 15b InsO.
+
+Wir fordern Sie auf, uns bis zum [Datum + 7 Tage] schriftlich zu
+bestätigen, dass Sie anwaltlichen Rat eingeholt haben.
+
+Sollte bis zu diesem Termin keine Reaktion erfolgen, werden wir
+die Fortführung des Mandatsverhältnisses prüfen.
+
+Mit freundlichen Grüßen
+[StB]
+```
+
+### Baustein 3: Aktenvermerk Mandantengespräch über Krisenlage
+
+```
+AKTENVERMERK — VERTRAULICH
+Datum: [Datum]
+Teilnehmer: StB [Name], GF [Firma GmbH, Name], ggf. RA [Name]
+
+1. Gesprächsanlass: Erörterung Krisensignale gemäß BWA-Auswertung
+   und Hinweisschreiben vom [Datum].
+
+2. Präsentierte Daten: Liquiditätsvorschau KW [x]–[y]; Krisenmatrix;
+   Ampelstatus KW [z]: ROT.
+
+3. Reaktion GF: [dokumentieren: Zur Kenntnis genommen / bestritten /
+   eigene Maßnahmen angekündigt / kein Kommentar].
+
+4. Beschlossene Maßnahmen: [z.B. Bankgespräch bis [Datum]; RA [Name]
+   beauftragt für anwaltliche Insolvenzreife-Prüfung].
+
+5. Nächster Besprechungstermin: [Datum].
+
+6. Eigene Haftungsabsicherung StB: Dieses Gespräch ist dokumentiert.
+   Warnschreiben vom [Datum] und Erinnerungsschreiben vom [Datum]
+   liegen in der Mandatsakte.
+
+Unterschrift StB: _________________
+Datum: ___________________________
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Streitwert und Kosten
+
+| Position | Berechnung | Hinweis |
+|---|---|---|
+| StB-Haftung ungeteilte Verschleppung | Differenz Insolvenzmasse mit/ohne Verschleppung; kann EUR 100.000–500.000+ betragen | BGH IX ZR 285/14 |
+| Anwaltliche Begleitung StB-Haftungsverteidigung | Stundensatz; ggf. gesonderte Vergütungsvereinbarung | RVG bei Schadensstreit |
+| Kosten Warnschreiben-Erstellung | 1–2 Stunden StB-Zeit; Zeithonorar | Eigenleistung zur Haftungsvermeidung |
+| Folgekosten Mandatskündigung | Regelungs-/Beratungsgebühren; Akteneinsicht durch neuen Berater | Keine Gebühr für Kündigung selbst |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Ersthinweis noch nie erteilt | Sofort schriftlich; Inhalt dieser Vorlage; kein Aufschub |
+| GF reagiert kooperativ | Sanierungsoptionen gemeinsam besprechen; Anwalt koordinieren |
+| GF schweigt auf mehrere Hinweise | Mandatskündigung § 627 BGB ernsthaft erwägen; Dokumentation Kündigungsgründe |
+| GF bestreitet Krisensignale | Eigene Berechnungen und Belege in die Mandatsakte; BGH-Rspr. als Maßstab darlegen |
+| Insolvenzverwalter klagt später gegen StB | Dokumentationssatz (Schreiben + Aktenvermerk + Eingangsbestätigung) als Entlastungsbeweis |
+
+## Anschluss-Skills
+
+- `stb-bwa-sus-bilanz-pruefung` — Eingangs-Auswertung; liefert Krisensignale
+- `stb-liquiditaetsvorschau-3-6-12-monate` — Liquiditätsdaten als Bezifferungsgrundlage
+- `anw-insolvenzreife-pruefung-17-19-inso` — anwaltliche Insolvenzreife-Prüfung nach Warnschreiben
+
+## Quellen
+
+- InsO §§ 15a, 15b, 17, 19
+- StaRUG §§ 1, 102
+- StBerG §§ 1, 33; RDG § 5; BGB § 627
+- BGH IX ZR 285/14 = NJW 2017, 1611
+- BGH IX ZR 64/12 = NJW 2013, 1672
+- BGH IX ZR 104/18 = NJW 2019, 2770
+- BGH IX ZR 70/07 = NJW 2010, 2345
+- BGH IX ZR 153/09 = NJW 2011, 218
+- IDW S 6 (Krisenstadien-Schema)
+- Pape/Schaltke, StaRUG § 102 Rn. 8–35
+- BeckOK StaRUG/Skauradszun, § 102 Rn. 10–22

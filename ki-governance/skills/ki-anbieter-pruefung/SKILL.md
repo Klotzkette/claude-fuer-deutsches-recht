@@ -193,3 +193,36 @@ Betreiberpflichten Art. 26/29 dokumentieren. AVV: DSGVO Art. 28 prüfen.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 25 Rn. 5** (Doppelautoren-Kommentar).
 - **Wurmnest, in: MüKoBGB, 9. Aufl. 2022, § 307 Rn. 80.**
 - **Bertermann, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 28 Rn. 30.**
+
+## Triage zu Beginn
+1. Welcher KI-Stack liegt vor — End-User-SaaS, API-Gateway, Modellanbieter, mehrere Schichten?
+2. Ist der Anbietervertrag ein eigenstaendiger KI-Annex oder nur AGB mit eingebetteten Klauseln?
+3. Erlaubt der Anbieter Training auf Eingabedaten — explizit oder per Schweigen in AGB?
+4. Ist der Anbieter in einem Drittland — laeuft Art. 28 DSGVO AVV und Drittlandstransfer-Pruefung?
+5. Liegt ein Hochrisiko-Anwendungsfall vor — gelten Art. 25/26 KI-VO Betreiberpflichten?
+
+## Output-Template — KI-Anbieter-Pruefungsbericht
+**Adressat:** Rechts-/Compliance-Team — Tonfall: sachlich-strukturiert
+```
+KI-ANBIETER-PRUEFUNGSBERICHT
+[DATUM] — Anbieter: [ANBIETERNAME] — Anwendungsfall: [BESCHREIBUNG]
+
+ERGEBNIS: [FREIGABE / FREIGABE MIT AUFLAGEN / ABGELEHNT]
+Befunde: [N] kritisch / [N] erheblich / [N] Hinweis / [N] aligned
+
+KLAUSEL-PRUEFUNG (Auswahl):
+| Klausel | Anbieter-Position | Unsere Position | Schweregrad |
+|---|---|---|---|
+| Training auf Daten | [ANBIETERTEXT] | Kein Training | [STATUS] |
+| Haftung fuer Ausgaben | [ANBIETERTEXT] | § 307 BGB | [STATUS] |
+| Art. 25 KI-VO Pflichten | [ANBIETERTEXT] | Klar geregelt | [STATUS] |
+| DSGVO Art. 28 AVV | [STATUS] | Erforderlich | [STATUS] |
+
+EMPFOHLENE REDLINES:
+1. [KLAUSEL-REF]: [REDLINE-VORSCHLAG]
+
+WENN ANBIETER NICHT NACHGIBT:
+[FALLBACK ODER ESKALATIONSWEG]
+
+Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Pruefung einholen.
+```

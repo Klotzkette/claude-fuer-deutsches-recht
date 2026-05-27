@@ -20,6 +20,16 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 > **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
 
+### Zum Ausprobieren: Testakten (separat)
+
+Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **Vogt ./. Stadtwerke (Befristungskontrollklage)** | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
+| **Weber ./. TechLogix (Kuendigungsschutzklage)** | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+
+
 
 ## Für wen ist das Plugin
 
@@ -74,6 +84,14 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | `/arbeitsrecht:richtlinien-entwurf [Thema]` | BetrVG-konforme Richtlinie entwerfen, BR-Anhörung planen |
 | `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
 | `/arbeitsrecht:arbeitsrecht-anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
+
+### Aktuelle BAG-Rechtsprechung 2025/2026
+
+| Skill | Funktion |
+|---|---|
+| `/arbeitsrecht:bag-equal-pay-paarvergleich-8azr30024` | BAG 23.10.2025 – 8 AZR 300/24: Ein Paarvergleich genügt für die Vermutung des § 22 AGG |
+| `/arbeitsrecht:bag-mindesturlaub-kein-verzicht-9azr10424` | BAG 03.06.2025 – 9 AZR 104/24: Kein Verzicht auf gesetzlichen Mindesturlaub im laufenden Arbeitsverhältnis, auch nicht im Vergleich |
+| `/arbeitsrecht:bag-freistellungsklausel-unwirksam-5azr10825` | BAG 25.03.2026 – 5 AZR 108/25: Pauschale formularmäßige Freistellungsklausel nach Kündigung unwirksam § 307 BGB |
 
 ## Interaktive Skills vs. geplante Agenten
 

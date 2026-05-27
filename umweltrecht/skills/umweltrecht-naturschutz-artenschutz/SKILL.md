@@ -1,48 +1,117 @@
 ---
 name: umweltrecht-naturschutz-artenschutz
-description: "Prüft Eingriffe, FFH, Artenschutz, Kompensation, Anhörung, Umweltverbände und gerichtliche Risiken."
+description: "Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL. Pruefraster Eingriffs-Ausgleichs-Regelung saP-Gutachten FFH-Vertraeglichkeit Verbandsklagebefugnis. Output Artenschutz-Pruefung Kompensationskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-verfahren (Klage)."
 ---
 
 # Naturschutz und Artenschutz
 
-## Zweck
+## Triage — klaere vor Eingriffs-Beurteilung
 
-Dieser Skill führt Vorhaben durch naturschutzrechtliche Prüfungen und Einwendungsmanagement.
+1. Liegt ein Eingriff in Natur und Landschaft vor (§ 14 BNatSchG)?
+2. Befindet sich das Vorhaben im oder in der Naehe eines FFH-/Vogelschutz-Gebiets?
+3. Koennen besonders/streng geschuetzte Arten betroffen sein (§ 44 BNatSchG)?
+4. Ist ein naturschutzrechtlicher Fachbeitrag (saP, FFH-VS) erforderlich?
+5. Wer ist Mandant — Vorhabentraeger oder klagender Umweltverband?
+6. Liegt bestandskraeftige Genehmigung vor oder laeuft Verfahren?
 
-## Wann verwenden
+## Zentrale Normen und Paragrafenkette
 
-- wenn ein neuer Fall im Bereich Umweltrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 14 BNatSchG** — Eingriffsbegriff (Veraenderung Gestalt/Nutzung Grundflaeche)
+- **§ 15 BNatSchG** — Eingriffs-Ausgleichs-Regelung (Vermeidung, Ausgleich, Ersatz, Ausnahme)
+- **§ 34 BNatSchG** — FFH-Vertraeglichkeitspruefung (erhebliche Beeintraechtigung Schutzzweck)
+- **§ 36 BNatSchG** — Ausnahme FFH (zwingende Gruende oeffentliches Interesse, Ausgleichsmasnnahmen)
+- **§ 44 Abs. 1 BNatSchG** — Verbotstatbestaende Artenschutz (Toeten, Stoeren, Entnahme, Zerstoerung Fortpflanzungsstaetten)
+- **§ 45 BNatSchG** — Befreiung und Ausnahme Artenschutz
+- **§ 69 BNatSchG** — Ordnungswidrigkeiten (Bussgeld bis 50.000 EUR)
+- **§ 1 UmwRG** — Klagebefugnis anerkannter Umweltvereinigungen
+- **§ 2 UmwRG** — Verbandsklage ohne Selbstbetroffenheit
+- **Art. 12 FFH-Richtlinie 92/43/EWG** — Europaeischer Artenschutz strenge Verbote
 
-## Arbeitsweise
+## Leitentscheidungen
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BVerwG, Urt. v. 25.11.2021 — 4 A 4.20, BVerwGE 174, 274 — FFH-Vertraeglichkeit Windpark; Erheblichkeitsschwelle zu Schutzzweck; Kumulationsbetrachtung mehrerer Projekte zwingend.
+- BVerwG, Urt. v. 12.06.2019 — 9 A 2.18, NVwZ 2019, 1615 — Artenschutz Stromleitungs-Planfeststellung; § 44 BNatSchG; Vermeidungsmasfnahmen im Urteil bindend; saP muss aktuell sein.
+- EuGH, Urt. v. 02.03.2023 — C-278/21 (Balambio) — Art. 12 FFH-RL; strenger Artenschutz ohne Ermessen; Mitgliedstaaten muessen wirksame Verbotsmechanismen sicherstellen.
+- OVG Lueneburg, Urt. v. 16.12.2022 — 12 KN 277/19 — Windenergie-Raumordnungsplan; Artenschutz-Belange als Tabuzone; Vorsorgeprinzip auch bei unsicherer Datenlage.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Kloepfer Umweltrecht § 11 Rn. 80-200 (Naturschutzrecht)
+- Gassner/Bendomir-Kahlo/Schmidt-Raentsch BNatSchG §§ 34-36, 44, 45 (Kommentar)
+- Louis BNatSchG §§ 14-15 Rn. 1-80 (Eingriffs-Ausgleichs-Regelung)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### A) Vorhabentraeger: Artenschutzpruefung und FFH-VS
 
-## Typische Fehler vermeiden
+1. **Screening**: Lage in FFH-/VS-Gebiet oder signifikante Naehe? LANA-Hinweise zur Erheblichkeit.
+2. **saP in Auftrag geben**: Spezieller artenschutzrechtlicher Fachbeitrag; Begehungen Fruehling und Herbst; Zielarten (Feldvogel, Fledermaus, Reptilien) kartieren.
+3. **FFH-Vertraeglichkeitspruefung**: Screening-Stufe (erhebliche Beeintraechtigung moeglich?) → Hauptpruefung (alle Wirkpfade; Mafsnahmen zur Schadensbegrenzung).
+4. **Ausnahme § 45 BNatSchG beantragen** (wenn Verbotstatbestand nicht vermeidbar): Oeffentliches Interesse, keine Alternativen, Ausgleich durch vorgezogene Ausgleichsmafsnahmen (CEF-Mafsnahmen).
+5. **Eingriffsregelung § 15 BNatSchG**: Gruenplan mit Ausgleichsflaechen; Verhaeltnis Eingriff/Ausgleich 1:1 bis 1:3.
+6. **Dokumentation**: Bestandteil des Genehmigungsantrags; Aktualisierung bei laenger als 2 Jahre zurueckliegenden Kartierungen.
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### B) Umweltverband: Verbandsklage
+
+1. **Klagebefugnis pruefen**: UmwRG-Anerkennung BUND, NABU, DUH; § 2 UmwRG kein Selbstbetroffenheitserfordernis.
+2. **Ruege im Verwaltungsverfahren**: Pflicht zur Beteiligung; Unterlassen fuehrt zu Praeklusion im Klageverfahren (§ 5 UmwRG).
+3. **Angriffspunkte**: Fehlerhafte saP, unzureichende FFH-VS, Artenschutz-Ausnahme nicht gerechtfertigt.
+4. **Eilantrag § 80a VwGO**: Bei vollziehbarer Genehmigung sofort stellen.
+
+### Entscheidungsbaum
+
+```
+Ist streng geschuetzte Art betroffen (§ 44 Abs. 1 BNatSchG)?
+  JA → Vermeidung technisch moeglich?
+         JA → Vermeidungsmafsnahme festlegen und dokumentieren
+         NEIN → Ausnahme § 45 BNatSchG:
+                   Oeffentliches Interesse? JA → CEF-Mafsnahmen + Behoerdenentscheidung
+                   NEIN → Vorhaben in dieser Form nicht genehmigungsfaehig
+  NEIN → Eingriffs-Ausgleichs-Regelung § 15 BNatSchG genuegt
+```
+
+## Output-Template: Einwendung im Genehmigungsverfahren (Verband)
+
+**Adressat:** Genehmigungsbehoerde — Tonfall: sachlich-juristisch
+
+```
+An die [GENEHMIGUNGSBEHOERDE]
+
+Einwendung des [VERBAND] gemaess § 10 Abs. 3 BImSchG / § 73 Abs. 4 VwVfG
+
+Vorhabentraeger: [NAME]
+Vorhaben: [BESCHREIBUNG]
+Auslegung vom [DATUM] bis [DATUM]
+
+I. Grundlage
+[VERBAND] ist anerkannte Vereinigung i.S.d. § 3 UmwRG (Anerkennungsbescheid Anlage).
+
+II. Artenschutz § 44 BNatSchG
+Die saP vom [DATUM] genuegt nicht den Anforderungen:
+1. Kartierung Fledermaeuse: Nur [X] Begehungen, keine Auswertung Horchboxen.
+2. Brutvoegel: Brutvogel-Kartierung fehlt fuer Bereich [X] vollstaendig.
+3. Stoerungsverbot § 44 Abs. 1 Nr. 2 BNatSchG: Laermimmission waehrend Brutzeit
+   nicht bewertet.
+
+III. FFH-Vertraeglichkeit § 34 BNatSchG
+Das FFH-Gebiet [NAME] liegt [X] m entfernt. Eine FFH-VS liegt nicht vor,
+obwohl erhebliche Beeintraechtigung des Schutzzwecks [ZIELART] nicht
+ausgeschlossen werden kann (BVerwG 4 A 4.20).
+
+IV. Antrag
+Die Genehmigung darf erst erteilt werden, wenn aktuelle saP und FFH-VS
+vorgelegt und ausgelegt werden.
+```
+
+## Vertiefung: CEF-Mafsnahmen
+
+- CEF = Continuous Ecological Functionality; muessen vor Eingriff wirksam sein.
+- Typische CEF: Nisthilfen, alternative Bruthabitate, Amphibien-Leitwaende.
+- Monitoring-Pflicht: Regelmaessige Kontrolle Wirksamkeit; bei Versagen: Anordnung Nachbesserung.
+
+## Anschluss-Skills
+
+- `umweltrecht-verfahren` — Klageverfahren Naturschutz
+- `klimaklagen-verbandsklage-umwrg` — Verbandsklage Klimaschutz
+- `energieanlagen-bimschg-genehmigung-verfahren` — Artenschutz bei Energieanlagen
+- `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` — Drittanfechtung Naturschutz

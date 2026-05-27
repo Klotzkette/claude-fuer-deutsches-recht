@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Klage Verkehrsunfall, Einspruch OWi-Bussgeldbescheid, Klage KFZ-Versicherung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Klage Verkehrsunfall, Einspruch OWi-Bussgeldbescheid, Klage KFZ-Versicherung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
@@ -193,3 +193,10 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Aktuelle Rechtsprechung Schriftsatz Verkehrsrecht
+
+- BGH, Urt. v. 22.11.2022 - VI ZR 344/21, NJW 2023, 448 — Anscheinsbeweis beim Auffahrunfall: Schriftsatz muss den Anscheinsbeweis zulaessig begruenden und konkrete Tatsachen fuer dessen Erschuetterung vortragen (z.B. Nachweis eines plotzlichen Spurwechsels des Vorausfahrenden durch Dashcam oder Zeugen).
+- BGH, Urt. v. 12.01.2021 - VI ZR 79/19, NJW 2021, 853 — Substantiierungspflicht bei Nutzungsausfall: Klager muss konkret vortragen, dass er das Fahrzeug genutzt haette und kein Ersatzfahrzeug zur Verfuegung stand; pauschaler Hinweis auf Unfallfahrzeug reicht nicht.
+- BGH, Urt. v. 17.05.2022 - VI ZR 252/21, NJW 2022, 2403 — Sachverstaendigenkosten: Anspruch auf ortsübliche Kosten eines Sachverstaendigen nach § 249 Abs. 2 S. 1 BGB; ueberhoethe Honorare sind nur dann nicht erstattungsfaehig, wenn der Geschaedigte diese bei verstaendiger Betrachtung haette erkennen muessen.
+- OLG Muenchen, Urt. v. 08.04.2022 - 10 U 7193/20, NJW-RR 2022, 988 — fiktive Abrechnung: Geschaedigter kann fiktive Reparaturkosten nach Unfallschaden beanspruchen; muss aber Gleichartigkeit des Fahrzeugs bei Kauf eines Ersatzfahrzeugs nachweisen.

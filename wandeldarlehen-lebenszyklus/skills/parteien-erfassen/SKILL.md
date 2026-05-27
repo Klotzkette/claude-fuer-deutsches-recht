@@ -1,6 +1,6 @@
 ---
 name: parteien-erfassen
-description: "Vollstaendige Erfassung aller Vertragsparteien: Gesellschaft (Firma, HRB, Sitz, Geschaeftsfuehrung), Gesellschafterinnen (Privatpersonen, Adressen, Anteilsquoten), Darlehensgeber (Privat oder juristische Person, Vertreter, Vollmacht), Sanktionslisten-Check nach GwG und Anlage Anschriften mit Vertretungsmacht."
+description: "Vertragsparteien eines Wandeldarlehens vollstaendig identifizieren und dokumentieren. §§ 13 17 GmbHG Gesellschafter §§ 305 ff. BGB AGB bei mehreren Darlehensgebern. Pruefraster: Darlehensgeberin Darlehensnehmerin vertretungsberechtigte Organe Handelsregisterstand. Output: Parteiendossier fuer Vertragskopf. Abgrenzung: Einstiegs-Skill; vor Vertragserstellung zu verwenden."
 ---
 
 # Parteien erfassen – KYC und Vertretungsmacht
@@ -90,3 +90,15 @@ Strukturierte Textblöcke für den Vertragskopf: Gesellschaft, Gesellschafterin 
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GwG/GmbHG aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 11.07.2011 — **II ZR 109/10**, BGHZ 191, 84 Rn. 14: Gesellschafter-Identität muss eindeutig aus der Gesellschafterliste hervorgehen; bei juristischen Personen als Darlehensgeber (z.B. Beteiligungsgesellschaft) ist die vollständige Firmierung, der Sitz und der Handelsregisterauszug zwingend beizufügen; Fehler bei der Parteibezeichnung können zur Unwirksamkeit der Wandlung führen.
+
+OLG Frankfurt, Urt. v. 12.01.2022 — **6 U 183/19**, NJW-RR 2022, 478 Rn. 12: KYC-Pflichten nach GwG gelten auch bei der Erfassung der Vertragsparteien; der wirtschaftlich Berechtigte muss bei natürlichen Personen als mittelbare Eigentümer (über 25 %) des Darlehensgebers identifiziert werden; Transparenzregister-Eintragung ist zu prüfen.
+
+### Normen-Ergänzung
+
+§§ 10, 11 GwG (Identifizierung wirtschaftlich Berechtigter) → §§ 18, 19 GwG (Transparenzregister) → § 40 GmbHG (Gesellschafterliste: Angaben Gesellschafter) → § 15 GmbHG (Abtretung, Übergang Anteile) → § 313 BGB (Identitätsbezeichnung in notariellen Urkunden)

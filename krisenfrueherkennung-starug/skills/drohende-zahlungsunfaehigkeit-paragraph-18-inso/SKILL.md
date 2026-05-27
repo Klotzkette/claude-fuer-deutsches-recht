@@ -1,6 +1,6 @@
 ---
 name: drohende-zahlungsunfaehigkeit-paragraph-18-inso
-description: "§ 18 InsO drohende Zahlungsunfähigkeit: Prognosezeitraum 24 Monate, Wahrscheinlichkeitsmaßstab überwiegend wahrscheinlich, Abgrenzung zu § 17 InsO und § 19 InsO, Bedeutung als StaRUG-Zugangstor und Haftungsgrenze."
+description: "Drohende Zahlungsunfaehigkeit nach § 18 InsO feststellen: Berater oder GF prueft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Ueberschuldung), § 1 StaRUG (Zugangsberechtigung). Pruefraster: Prognosezeitraum 24 Monate, Wahrscheinlichkeitsmassstab ueberwiegend wahrscheinlich, Abgrenzung zu § 17 InsO. Output Pruef-Memo drohende ZU, StaRUG-Zugangsberechtigung-Nachweis. Abgrenzung: Fortbestehensprognose (§ 19 InsO) siehe fortbestehensprognose-zweistufig; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Drohende Zahlungsunfähigkeit — § 18 InsO
@@ -176,3 +176,12 @@ Hinweis: Dieser Prüfvermerk ersetzt keine rechtliche Beratung.
 - → `kennzahlenset-und-ampelsystem-starug-konform` — Liquiditätsreichweite als Schlüssel-KPI
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Triggerlogik § 15a InsO
 - → `restrukturierungsplan-architektur-paragraph-7ff-starug` — StaRUG nach § 18 InsO
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

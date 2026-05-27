@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-hauptverhandlung-vorbereiten
-description: "Vorbereitung der Hauptverhandlung StPO Beweisantraege § 244 StPO Praeklusion § 244 Abs. 6 StPO Ablehnung Beweisanregung. Verstaendigung § 257c StPO Voraussetzungen Bindung Belehrung § 257c Abs. 4. Befangenheitsantrag § 24 StPO Ablehnungsgrund Glaubhaftmachung. Ablauf § 243 § 244 Vernehmung Beweisaufnahme Schlussvortraege § 258. Strafzumessung §§ 46-49 StGB Verteidigungsplaedoyer."
+description: "Hauptverhandlung im Strafverfahren vorbereiten: Anwendungsfall Strafverteidiger muss Hauptverhandlung strukturiert vorbereiten mit Einlassung Beweisantraegen und Verfahrenstaktik. § 136 StPO Schweigerecht, § 244 StPO Beweisantraege, § 258 StPO Schlusspledoyer, § 261 StPO freie Beweiswuerdigung. Pruefraster Einlassung erarbeiten, Beweisantrag-Liste erstellen, Zeugenliste prüfen, Sachverstaendigen-Einwendungen vorbereiten, Plaedoyer-Gliederung. Output Vorbereitungschecklist fuer Hauptverhandlung mit Skript und Reaktionsplan. Abgrenzung zu Plaedoyer-Vorbereitung fuer spezifisches Schlusspledoyer und zu Einlassung-Vorbereiten."
 ---
 
 # Hauptverhandlung vorbereiten
@@ -77,3 +77,18 @@ Mit kollegialen Gruessen
 - Bei Verfahrensverstößen Revisionsgründe § 338 StPO (absolute) und § 337 StPO (relative) sichern durch Sitzungsprotokoll-Beobachtung und Beanstandungen § 273 StPO.
 - Bei Verständigungsversuch ergebnisoffen — Dokumentation der Belehrung.
 - Anschluss: Skill `fachanwalt-strafrecht-akteneinsicht-beantragen` ggf. nochmals für ergänzende Aktenbestandteile.
+
+## Zentrale Rechtsprechung Hauptverhandlung
+
+- BGH, Beschl. v. 25.11.2016 - GSSt 1/16, BGHSt 62, 1 — Belehrungspflicht nach § 257c Abs. 4 und 5 StPO bei Verstaendigung; unterbliebene oder fehlerhafte Belehrung macht Gestaendnis grundsaetzlich unverwertbar; revisionsrechtliche Ruege nach § 338 StPO moeglich.
+- BGH, Urt. v. 04.12.2013 - 4 StR 271/13, NStZ 2014, 170 — Beweisantrag nach § 244 Abs. 3 StPO: Konnexitaet zwischen Beweismittel und Beweisthema zwingend; fehlt sie, ist Antrag als Beweisermittlungsantrag zulassig aber nicht nach dem strengen Ablehnungsregime zu behandeln.
+- BVerfG, Beschl. v. 08.10.1974 - 2 BvR 747/73, BVerfGE 38, 105 — Recht auf den gesetzlichen Richter (Art. 101 I 2 GG) bei Spruchkoerperwechsel; Besetzungsfehler ist absoluter Revisionsgrund (§ 338 Nr. 1 StPO).
+- BGH, Urt. v. 22.09.2016 - 4 StR 117/16, NStZ 2017, 54 — praekludierter Beweisantrag (§ 244 VI 2 StPO): spaetes Stellen erst kurz vor Schluss der Beweisaufnahme rechtfertigt Zurueckweisung, wenn kein vertretbarer Grund fuer die Verspaetung vorliegt.
+
+## Triage-Fragen vor Hauptverhandlung
+
+1. Gericht und Besetzung: Strafrichter (§ 25 GVG), Schoeffengericht (§ 28 GVG) oder Strafkammer (§ 74 GVG)?
+2. Liegt Verstaendigung in Betracht? Falls ja: Vorgespraech nach § 257b StPO und Protokollierung sicherstellen.
+3. Beweisantraege: Welche Entlastungszeugen, Sachverstaendige, Urkunden — Konnexitaet geprueft?
+4. Befangenheitsantrag noetig? Vorgehensweise: Ablehnungsgesuch schriftlich vor Beginn der Vernehmung.
+5. Einlassung oder Schweigen: Letzte Entscheidung mit Mandant vor HV-Beginn abklaeren.

@@ -1,6 +1,6 @@
 ---
 name: ki-verordnung-compliance
-description: KI-Verordnung (VO EU 2024/1689) Compliance-Pruefung. Anwendungsbereich Risiko-Klassifikation Verbotene Praktiken Art. 5 Hochrisiko-Systeme Anhang III Transparenz-Pflichten Art. 50 General Purpose AI Models Art. 51 ff. Konformitaetserklaerung CE-Kennzeichnung Marktueberwachung. Pruefung ob Mandant Anbieter Betreiber Importeur Haendler Bevollmaechtigter. Geltungsbeginn gestaffelt 2.2.2025 verbotene Praktiken 2.8.2025 GPAI-Modelle 2.8.2026 Hochrisiko 2.8.2027 Anhang I. Schnittstelle DSGVO Art. 22 Art. 35 DSFA bei KI-DPIA. Sanktionen bis 7 Prozent Konzernumsatz. Aufsicht BNetzA fuer Marktueberwachung Bundesbeauftragter Datenschutz fuer Hochrisiko-Bereiche.
+description: "KI-Systeme auf Anforderungen der KI-VO und Datenschutz pruefen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Pruefraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-Compliance-Pruefmemo Massnahmenliste. Abgrenzung: nicht fuer allgemeine KI-Governance ohne Datenschutzbezug."
 ---
 
 # KI-Verordnung — Compliance-Prüfung
@@ -268,3 +268,46 @@ Verbote (Auswahl):
 - EDSA Empfehlungen zu KI und Datenschutz
 - EU-Kommission KI-Leitlinien
 - Lambrecht/Stürner KI-Verordnung
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring (Bonität, Kreditwürdigkeit) durch eine Auskunftei kann eine automatisierte Entscheidung im Sinne von Art. 22 DSGVO darstellen, wenn der Kredit-Score der bestimmende Faktor für die Entscheidung des Dritten (Bank) ist; DSGVO-Compliance muss auch für KI-Scoring-Systeme geprüft werden; Schnittstelle AI Act.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Verarbeitungen, die auf der SCHUFA-Entscheidungslinie liegen (automatisiert, schwerwiegende Folgen), erfordern auch AI Act-Risikoklassifikation nach Anhang III (Hochrisiko: Kreditbewilligung Nr. 5 lit. b).
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht nach Art. 35 DSGVO für KI-Entscheidungssysteme; neue KI-Technologien lösen nach EDSA-Leitlinien regelmäßig DSFA-Pflicht aus; parallel dazu FRIA nach Art. 27 KI-VO.
+
+## Triage zu Beginn
+
+1. Ist das System ein KI-System im Sinne von Art. 3 Nr. 1 KI-VO?
+2. Welche Risikoklasse liegt vor? (Verboten Art. 5 / Hochrisiko Art. 6 iVm Anhang III / Begrenzt Art. 50 / Minimal)
+3. Wer ist der Mandant: Anbieter / Betreiber / Importeur / Händler?
+4. Geltungsbereich: Übergangsfrist beachten (Verbotene Praktiken ab 02.02.2025; Hochrisiko ab 02.08.2026)?
+
+## Output-Template — KI-VO-Compliance-Check
+
+**Adressat:** Compliance-Abteilung / Management — Tonfall: sachlich-juristisch
+
+```
+KI-VO Compliance-Check [DATUM]
+System: [SYSTEMNAME]
+Mandant-Rolle: Anbieter / Betreiber / Importeur / Haendler
+
+Einstufung:
+Ist KI-System (Art. 3 Nr. 1 KI-VO): ja / nein
+Risikoklasse: Verboten / Hochrisiko / Begrenzt / Minimal
+Rechtsgrundlage: Art. [X] KI-VO [Anhang I/III/...Nr. X]
+
+Anwendbarer Zeitplan:
+Erste Pflichten ab: [DATUM]
+
+Kernpflichten:
+| Pflicht                        | Norm        | Status     |
+|-------------------------------|-------------|------------|
+| Konformitaetsbewertung        | Art. 43 ff. |            |
+| Technische Dokumentation      | Art. 11     |            |
+| Menschliche Aufsicht          | Art. 14     |            |
+| Transparenz gegenueber Nutzern| Art. 13/50  |            |
+| DSGVO/DSFA (Schnittstelle)    | Art. 35 DSGVO|           |
+
+Ergebnis: Konform / Anpassungsbedarf (bis [DATUM]) / Verboten
+```

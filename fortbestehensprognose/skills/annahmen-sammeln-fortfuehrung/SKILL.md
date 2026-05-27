@@ -1,6 +1,6 @@
 ---
 name: annahmen-sammeln-fortfuehrung
-description: Sammelt die Annahmen die der Geschaeftsfuehrer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate`.
+description: "Sammelt die Annahmen die der Geschaeftsfuehrer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate`."
 ---
 
 # Annahmen sammeln (Fortführung)
@@ -156,3 +156,27 @@ annahmen:
 - Hinweis auf Skill `annahmen-belastbarkeit-plausibilisieren` als nächsten Schritt.
 - Liste fehlender Belege als Prüfer-Flag.
 - Empfehlung: bei einer Annahme die als unbelegt markiert ist *nicht* in die Liquidität übernehmen — oder explizit als „Modellannahme ohne Beleg" markieren.
+
+
+## Aktuelle Leitentscheidungen — Annahmen-Sammlung Fortbestehensprognose
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose: konkrete, nachvollziehbare Annahmen fuer den 12-Monats-Prognosehorizont erforderlich; pauschale Annahmen oder blosse Hoffnungen genuegen nicht; Geschaeftsfuehrer traegt Verantwortung fuer Annahmen-Qualitaet.
+- BGH, Urt. v. 06.06.2013 — IX ZR 204/12, NZI 2013, 793 — Umsatz-Prognose als Fortbestehensprognose-Kernannahme: Auftragsbestand und Kundenvertraege als belastbarste Grundlage; Annahmen ohne konkreten Auftragsbestand sind kritisch zu wuerdigen.
+- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Sanierungskonzept-Qualitaet: Annahmen muessen auf konkreten betriebswirtschaftlichen Daten basieren; externe Markt-Analyse ersetzbarer fuer neue Maerkte, nicht fuer Stammageschaeft.
+
+## Triage — Annahmen-Vollstaendigkeit
+
+1. **Einnahmen-Seite vollstaendig?** Auftragsbestand, Rahmenvertraege, Neukundenpipeline — alle konkret belegbar?
+2. **Kosten-Seite vollstaendig?** Personal (inkl. SV), Material/Wareneinsatz, Fixkosten, Miete, Finanzierungskosten — alle als Einzelpositionen?
+3. **Working Capital?** Debitorenlaufzeit, Kreditorenlaufzeit, Lagerbestand — als Cashflow-Auswirkung erfasst?
+4. **Ausserordentliche Ereignisse?** Investitionen, Tilgungen, FA-Stundungen ablaufend, Avale faellig werdend?
+
+## Paragrafenkette
+
+§ 19 Abs. 2 InsO (Fortbestehensprognose) → IDW S 11 Rn. 30-65 (Annahmen-Basis) → § 43 GmbHG (Sorgfaltspflicht GF bei Prognose)
+
+## Kommentarliteratur
+
+- IDW S 11, Stand 11/2022 Rn. 30-65 — Annahmen-Sammlung und Dokumentation.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 50 ff. — Prognose-Annahmen und Prognosehorizont.
+- K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 5 Rn. 5.10 — Fortbestehensprognose in der Praxis.

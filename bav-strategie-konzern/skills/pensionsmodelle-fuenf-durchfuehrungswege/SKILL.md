@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-fuenf-durchfuehrungswege
-description: "Vergleich und Auswahl der fuenf Durchfuehrungswege der betrieblichen Altersversorgung (Direktzusage Unterstuetzungskasse Pensionskasse Pensionsfonds Direktversicherung) mit Entscheidungsmatrix Bilanz- und Risiko-Tradeoffs sowie Auswirkungen auf IFRS/HGB fuer Konzerne im Stil von Treuenfels Yamamoto."
+description: "Fuenf Durchfuehrungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Pruefraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchfuehrungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG."
 ---
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
@@ -25,6 +25,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - HGB § 246 Abs. 2 S. 2 (Saldierungsgebot bei CTA-Deckungsvermögen)
 - BAG 17.6.2008 — 3 AZR 800/06 (Grundsatzentscheidung zu Versorgungszusagen)
 - BAG 28.6.2011 — 3 AZR 282/09 (Pensionskassen-Leistungskürzungen)
+- BAG 19.06.2018 — 3 AZR 124/17 (Direktversicherung mit widerruflichem Bezugsrecht: Widerruf durch AG kurz vor Insolvenz führt zu PSV-Eintritt; Widerruf des Bezugsrechts macht Direktversicherungs-Kapital nicht zu freiem Vermögen des AG)
+- EuGH C-396/22 (Generali) — 14.03.2024 (Unionsrechtliche Portabilitätsanforderungen bei Direktversicherung: Mitgliedstaaten müssen sicherstellen, dass Arbeitnehmer bei Arbeitgeberwechsel Kapital übertragen können; zu enge nationale Einschränkungen sind richtlinienwidrig)
+
+### Kommentarliteratur
+
+- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, Einleitung Rn. 1 ff. und § 1 Rn. 1 ff. (fünf Durchführungswege, Systematik)
+- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, §§ 1–7 (Direktzusage, UK, PK, PF, DV und Insolvenzsicherung)
 
 ---
 

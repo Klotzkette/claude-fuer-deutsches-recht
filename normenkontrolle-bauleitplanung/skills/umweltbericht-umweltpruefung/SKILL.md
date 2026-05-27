@@ -1,6 +1,6 @@
 ---
 name: umweltbericht-umweltpruefung
-description: Pruefung der Umweltpruefung Paragraf 2 Abs. 4 BauGB und des Umweltberichts Paragraf 2a BauGB als integralen Bestandteil der Begruendung des Bebauungsplans. Scoping Festlegung Untersuchungsrahmen mit Behoerden. Schutzgueter Mensch Tiere Pflanzen Biologische Vielfalt Boden Wasser Luft Klima Landschaft Kultur- und Sachgueter sowie Wechselwirkungen Paragraf 2 Abs. 4 S. 1 BauGB. Anhang 1 BauGB festlegt Inhalt Umweltbericht. Pruefung Alternativen Nullvariante. Eingriffsregelung Paragraf 1a Abs. 3 BauGB. FFH-Vertraeglichkeitspruefung Paragraf 1a Abs. 4 BauGB i.V.m. Paragraf 34 BNatSchG. Verzahnung UVP UVPG. Beschleunigtes Verfahren Paragraf 13a BauGB ohne Umweltpruefung. Audit auf systematische Luecken methodische Fehler unzureichende Ermittlung Schwellenwerte ignoriert.
+description: "Mandant greift Bebauungsplan wegen unzureichender Umweltpruefung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Pruefraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltpruefung. Output: Umweltpruefungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich."
 ---
 
 # Umweltbericht und Umweltprüfung
@@ -167,3 +167,16 @@ Der Umweltbericht ist nach dem Abwägungsgebot eines der wichtigsten Prüffelder
 - UVPG (BGBl. I 2017 S. 2808 zuletzt geändert)
 - BVerwG, Urteil vom 24.3.2010 – 4 CN 3.09 (Umweltbericht)
 - BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (saP B-Plan)
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BVerwG, Urt. v. 24.03.2010 — 4 CN 3.09, BVerwGE 136, 211 Rn. 18: Der Umweltbericht ist zwingende Begruendungsanlage des Bebauungsplans; sein Fehlen oder eine wesentliche Unvollstaendigkeit macht den Plan unwirksam.
+- BVerwG, Urt. v. 09.04.2008 — 4 CN 1.07, BVerwGE 131, 100 Rn. 25: Artenschutzrechtliche saP muss auf tatsaechlich betroffene Arten bezogen und methodisch stichhaltig sein; generelle Verweise auf Gebietscharakter genuegen nicht.
+- BVerwG, Urt. v. 27.06.2019 — 4 CN 3.18, BVerwGE 165, 399 Rn. 22: Umweltbericht erfordert ernsthafte Alternativenbehandlung einschliesslich der Nullvariante; Formular-Alternative ohne inhaltliche Analyse ist unzureichend.
+- EuGH, Urt. v. 10.09.2015 — C-473/14 (Dimos Kropias Attikis), NVwZ 2015, 1595: FFH-Vertraeglichkeitspruefung nach Art. 6 FFH-RL erfordert vollstaendige Untersuchung aller Auswirkungen auf Erhaltungsziele; Vorsorge-Ergebnis-Grundsatz gilt streng.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — §§ 2 Abs. 4, 2a Rn. 1 ff.
+- Ernst/Zinkahn, BauGB — Umweltbericht und Umweltpruefung
+- Louis/von Staudinger, BNatSchG — §§ 34, 44 Rn. 1 ff. Artenschutz

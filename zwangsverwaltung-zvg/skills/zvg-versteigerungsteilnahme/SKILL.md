@@ -1,6 +1,6 @@
 ---
 name: zvg-versteigerungsteilnahme
-description: "Bereitet die Teilnahme am Zwangsversteigerungstermin vor: Ausweis, Vertretung, Sicherheitsleistung, geringstes Gebot, Bietstrategie, Zuschlagsgrenzen, Protokoll und Nachbereitung."
+description: "Vorbereitung der Teilnahme am Zwangsversteigerungstermin fuer Glaeubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollstaendige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung § 85a ZVG Zuschlagsversagung. Pruefraster Ausweis Vertretung Sicherheitsleistung geringstes Gebot Bietstrategie Zuschlagsgrenzen Protokoll Nachbereitung. Output Teilnahme-Checkliste mit Bietlimit Sicherheitsleistungsnachweis und Nachbereitungsprotokoll. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-portal-recherche."
 ---
 
 # Teilnahme am Versteigerungstermin
@@ -56,3 +56,34 @@ Führt Bieter oder Berater durch die Vorbereitung, Teilnahme und Nachbereitung e
 ## Interne Vorlage
 
 - `assets/templates/versteigerungsteilnahme-checkliste.md`
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 18.11.2004 - IX ZB 110/03, NZI 2005, 109 Rn. 15 — Der Zwangsverwalter ist grundsätzlich nicht zur Teilnahme am Versteigerungstermin verpflichtet; er kann aber vom Vollstreckungsgericht aufgefordert werden, Auskunft über den Objektzustand und die Mietverhältnisse zu erteilen.
+- BGH, Beschl. v. 05.11.2004 - IX ZB 183/03, NZI 2005, 108 Rn. 12 — Der Zwangsverwalter hat dem Verfahrensgericht auf Verlangen alle für die Versteigerung relevanten Unterlagen vorzulegen; eine Verweigerung begründet Pflichtwidrigkeit.
+
+## Paragrafenkette Versteigerungsteilnahme
+
+§ 66 ZVG (Versteigerungstermin) → § 71 ZVG (Bekanntmachungen) → § 82 ZVG (Bieter-Erklärungen) → § 87 ZVG (Zuschlag Bedingungen) → §§ 152-153 ZVG (Verwalterpflichten bis Zuschlag) → §§ 56-57a ZVG (Rechtsfolgen Zuschlag)
+
+## Kommentarliteratur
+
+- Stöber ZVG 22. Aufl., §§ 66-90 Rn. 1-50 (Versteigerungsverfahren)
+- Böttcher ZVG 6. Aufl., § 66 Rn. 5-25 (Termin und Ablauf)
+
+## Triage Versteigerungsteilnahme
+
+1. Hat das Gericht die Anwesenheit oder Auskunftserteilung angefordert?
+2. Liegen aktuelle Unterlagen vor? (Mieterliste Zustands-Bericht Kontostand)
+3. Was geschieht mit laufenden Mieteinnahmen bis zum Zuschlag?
+4. Sind alle Mieter über den bevorstehenden Eigentümerwechsel informiert?
+
+## Workflow Versteigerungstermin-Vorbereitung
+
+1. Versteigerungsdatum aus Gerichtspost festhalten
+2. Aktuellen Mieterliste-Ausdruck vorbereiten (Einheit Mieter Miethöhe Rückstände)
+3. Zustands-Dokumentation (Fotos Protokolle) zusammenstellen
+4. Kautionsbestandsliste erstellen (Betrag je Mieter)
+5. Kontostand Treuhandkonto per Stichtag Versteigerung ermitteln
+6. Vollstreckungsgericht über Bereitschaft zur Auskunft informieren
+7. Nach Zuschlag: Übergabe der Unterlagen an Ersteher dokumentieren

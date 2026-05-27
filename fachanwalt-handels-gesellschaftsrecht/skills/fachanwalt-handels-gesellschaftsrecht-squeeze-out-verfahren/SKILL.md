@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren
-description: "Squeeze-out Verfahren §§ 327a ff. AktG bei AG. 95-Prozent-Schwelle Hauptaktionaer. Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out 95 Prozent nach UEbernahmeangebot. Verschmelzungs-Squeeze-out § 62 V UmwG. Spruchverfahren SpruchG. Workflow Vorbereitung Beschluss Anfechtung Spruchverfahren."
+description: "Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Pruefraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Uebernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit."
 ---
 
 # Squeeze-out Verfahren
@@ -182,3 +182,32 @@ Bei AG: Ausschluss Minderheits-Aktionaere durch Hauptaktionaer mit > 95 % der An
 - `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings` — bei verbundener M&A
 - `corporate-kanzlei` — bei voll-Big-Law-Mandat
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Verfahrens-Streit
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BVerfG, Beschl. v. 27.04.1999 — **1 BvR 1613/94**, BVerfGE 100, 289 Rn. 55: Aktienrechtlicher Squeeze-out (§§ 327a ff. AktG) ist verfassungsrechtlich mit Art. 14 GG (Eigentumsgarantie) vereinbar, sofern die Barabfindung den vollen wirtschaftlichen Wert der Aktien abdeckt; eine Abfindung unterhalb des Börsenkurses ist nicht zulässig.
+
+BGH, Beschl. v. 21.07.2003 — **II ZB 17/01**, BGHZ 156, 57 Rn. 24: Im Spruchverfahren nach SpruchG überprüft das Gericht die Angemessenheit der Barabfindung; Bewertungsansatz ist der Unternehmenswert nach IDW S 1 (Ertragswertmethode); dem Hauptaktionär steht ein Bewertungsspielraum zu, der gerichtlich nur auf Vertretbarkeit überprüft wird.
+
+OLG Frankfurt, Beschl. v. 29.01.2016 — **21 W 70/15**, AG 2016, 329 Rn. 18: Bei Spruchverfahren nach Squeeze-out kann die Abfindung durch das Gericht erhöht werden; Maßstab für die Angemessenheit der Barabfindung ist der höhere Wert aus Börsenkurs (3-Monats-Durchschnitt vor Ankündigung) und Ertragswert nach IDW S 1.
+
+BGH, Urt. v. 22.03.2011 — **II ZB 4/10**, BGHZ 188, 253 Rn. 16: Anfechtungsklage gegen Squeeze-out-Hauptversammlungsbeschluss ist statthaft nach § 246 AktG (1-Monat-Frist); sie hat jedoch keine aufschiebende Wirkung auf die Handelsregistereintragung; Beschleunigungsinteresse des Hauptaktionärs kann durch Freigabeverfahren § 246a AktG durchgesetzt werden.
+
+### Paragrafenkette
+
+§§ 327a-f AktG (Squeeze-out Verfahren) → §§ 39a-c WpUG (WpUG-Squeeze-out) → § 62 Abs. 5 UmwG (Verschmelzungs-Squeeze-out) → SpruchG (Spruchverfahren Barabfindung) → § 246 AktG (Anfechtungsklage 1-Monat-Frist) → § 246a AktG (Freigabeverfahren) → IDW S 1 (Bewertungsstandard Ertragswert) → Art. 14 GG (Eigentumsgarantie, verfassungskonforme Barabfindung)
+
+### Kommentarliteratur
+
+- Hüffer/Koch, AktG, 16. Aufl. 2024, §§ 327a-f AktG: Vollständige Kommentierung Squeeze-out; Verfahrensablauf, Spruchverfahren, Freigabe.
+- Lutter/Hommelhoff (Hrsg.), UmwG, 6. Aufl. 2019, § 62: Verschmelzungs-Squeeze-out; Vergleich mit §§ 327a ff. AktG.
+
+## Triage — Sofortprüfung Squeeze-out
+
+1. **Beteiligungsschwelle prüfen:** > 95 % (§ 327a AktG oder WpUG § 39a) oder > 90 % (UmwG § 62)?
+2. **Rolle des Mandanten:** Hauptaktionär (Verfahren einleiten) oder Minderheitsaktionär (Anfechtung + Spruchverfahren)?
+3. **Anfechtungsklage (Minderheitsaktionär):** 1-Monat-Frist § 246 AktG ab Beschlussfassung; Freigabeverfahren § 246a AktG durch Hauptaktionär?
+4. **Spruchverfahren:** Angemessenheit der Barabfindung; Börsenkurs vs. Ertragswert IDW S 1; Gutachter im Verfahren.
+5. **Freigabeverfahren:** Interessenabwägung; Vollziehungsinteresse des Hauptaktionärs vs. Verlustrisiko Minderheitsaktionäre.

@@ -348,3 +348,11 @@ Verwandte Plugins:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Forderungsanmeldung im Insolvenzverfahren. Konkrete Anmeldung im Einzelfall mit Fachanwalt für Insolvenzrecht abstimmen.
+
+
+## Weitere Leitentscheidungen — Forderungsanmeldung
+
+- BGH, Urt. v. 25.01.2007 — IX ZR 120/04, NZI 2007, 281 — Bestreiten durch IV: begruendetes Bestreiten erforderlich; pauschales Bestreiten zur Verzoegerung unwirksam; IV haftet wenn Bestreiten ohne Grundlage.
+- BGH, Urt. v. 14.07.2016 — IX ZR 188/15, NZI 2016, 857 — Feststellungsklage § 180 InsO: Klagefrist laeuft ab Bestreiten im Pruefungstermin; bei fehlendem Titel muss Glaeubiger klagen; Verjaehrung gehemmt solange Pruefungstermin nicht abgehalten.
+- BGH, Urt. v. 22.09.2005 — IX ZB 55/04 — Tabellenwirkung § 178 InsO: Eintragung in Tabelle hat Rechtskraft-Wirkung wie Urteil fuer den Betrag und Rang; Berichtigung nur durch Feststellungsklage § 183 InsO moeglich.
+- BGH, Urt. v. 27.01.2011 — IX ZR 196/10, NZI 2011, 229 — Nachtraegliche Forderungsanmeldung § 177 InsO: moeglich bis Schlussverteilung; Kosten des verspaeteten Prufungstermins traegt Spaet-Glaeubiger; kein Fristversaeumnis-Nachteil ausser Kosten.

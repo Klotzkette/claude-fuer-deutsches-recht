@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-presse-gegendarstellung
-description: "Gegendarstellung nach Landespressegesetzen z.B. § 11 BlnPrG § 10 PresseG NRW. Voraussetzung Tatsachenbehauptung berechtigtes Interesse Unverzueglichkeit Schriftform Unterschrift Beschraenkung auf Tatsachenbehauptung kein Werturteil keine Strafbarkeit. Abdruckpflicht gleichwertig Platzierung Aufmachung. Einstweilige Verfuegung § 935 § 940 ZPO Sache hat Eilcharakter. Rundfunkstaatsvertrag analog § 9 MStV."
+description: "Gegendarstellungsanspruch in der Presse pruefen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Pruefraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht fuer Widerruf oder Unterlassung von Tatsachenbehauptungen."
 ---
 
 # Presse-Gegendarstellung
@@ -88,6 +88,14 @@ Mit freundlichen Gruessen
 [Anwalt]
 in Vollmacht des Betroffenen
 ```
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 07.12.2010 – VI ZR 30/09, NJW 2011, 745 Rn. 14: Gegendarstellungsanspruch bei Online-Medien; massgeblicher Zeitpunkt fuer Fristbeginn ist Kenntnisnahme vom Beitrag; Online-Abrufbarkeit verlaengert Frist nicht unbegrenzt.
+- BGH, Urt. v. 23.06.2009 – VI ZR 196/08, NJW 2009, 3576 Rn. 19: Gegendarstellung darf keine Wertungen enthalten; Ablehnung durch Redaktion bei Schmaehinhalt zulässig; reine Tatsachengegendarstellung ist Pflicht.
+- BVerfG, Beschl. v. 14.01.1998 – 1 BvR 850/82, NJW 1998, 1381 Rn. 21: Verfassungskonformitaet des presserechtlichen Gegendarstellungsanspruchs; Gegendarstellung als Ausfluss des Persoenlichkeitsrechts Art. 2 Abs. 1 GG.
+- OLG Hamburg, Urt. v. 18.01.2022 – 7 U 126/21, NJW-RR 2022, 554 Rn. 33: Gegendarstellungspflicht gilt fuer Online-Ausgaben gleichermassen; Platzierungspflicht auch im Digitalteil bei vergleichbarer Prominenz.
+- OLG Muenchen, Urt. v. 12.11.2020 – 18 U 2929/20, GRUR-RS 2020, 36941: Unterlassungsanspruch bei wiederholter unwahren Tatsachenbehauptung; Wiederholungsgefahr nach erstmaliger Verletzung vermutet; strafbewehrte Erklaerung erforderlich.
 
 ## Übergabe
 

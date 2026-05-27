@@ -1,6 +1,6 @@
 ---
 name: anpassungsgebot-flaechennutzungsplan
-description: Pruefung des Anpassungsgebots Paragraf 8 Abs. 2 BauGB. Bebauungsplaene sind aus dem Flaechennutzungsplan zu entwickeln. Entwicklungsgebot als zentrale Wirksamkeitsbedingung. Paragraf 8 Abs. 3 BauGB Aufstellung Bebauungsplan vor Flaechennutzungsplan in Ausnahmefaellen. Paragraf 8 Abs. 4 BauGB selbstaendige Bebauungsplaene. Paragraf 13a Abs. 2 BauGB Berichtigungsmoeglichkeit ohne foermliche Aenderung FNP bei B-Plan der Innenentwicklung. Parallelverfahren Paragraf 8 Abs. 3 S. 1 BauGB beide Plaene gleichzeitig. Pruefung Entwicklungssaussage des FNP bezogen auf das Plangebiet. Konflikt zwischen FNP-Darstellung und B-Plan-Festsetzung als beachtlicher Verfahrensfehler. Audit auf konsistente Darstellung Wohnbauflaeche Mischgebiet Gewerbeflaeche.
+description: "Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Pruefraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Parallelverfahren § 13a Abs. 2 BauGB. Output: Entwicklungsgebot-Pruefprotokoll und Angriffspunkt fuer Normenkontrollantrag. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und planerhaltung-214-215-baugb."
 ---
 
 # Anpassungsgebot — Flächennutzungsplan
@@ -149,3 +149,14 @@ Das Entwicklungsgebot bindet den B-Plan an den FNP. Verletzung ist beachtlicher 
 - BVerwG, Urteil vom 26.2.1999 – 4 CN 6.98 (Parallelverfahren)
 - BVerwG, Urteil vom 27.10.1999 – 11 A 31.98 (Entwidmung Bahnfläche)
 - BayVGH, Urteil vom 5.10.2017 – 15 N 16.1652 (Berichtigung)
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BVerwG, Urt. v. 28.02.1975 — 4 C 30.72, BVerwGE 48, 70 Rn. 12: Entwicklungsgebot des § 8 Abs. 2 BauGB erfordert, dass der Bebauungsplan die Darstellungen des FNP nicht kontraerklaert; geringfuegige Abweichungen sind nach Planerhaltungsrecht zu behandeln.
+- BVerwG, Urt. v. 26.02.1999 — 4 CN 6.98, NVwZ 1999, 1001 Rn. 18: Parallelverfahren nach § 8 Abs. 3 BauGB ist zulaessig; der FNP muss aber mit Bekanntmachung des B-Plans in Einklang gebracht werden, sonst Unwirksamkeit des B-Plans.
+- BayVGH, Urt. v. 05.10.2017 — 15 N 16.1652, NVwZ-RR 2018, 349 Rn. 22: Berichtigung nach § 13a Abs. 2 BauGB setzt voraus, dass der B-Plan der Innenentwicklung dient und der FNP lediglich redaktionell berichtigt werden muss.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — § 8 Rn. 1 ff.
+- Ernst/Zinkahn, BauGB — § 8 BauGB Entwicklungsgebot

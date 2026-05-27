@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-orientierung
-description: Orientierung im Transport- und Speditionsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung des Frachtfuehrers §§ 453 ff. Speditionsvertrag §§ 467 ff. Lagervertrag. Internationales Transportrecht CMR (Strassenverkehr) COTIF (Eisenbahn) Montrealer Uebereinkommen (Luftverkehr) Haager Visby Regeln (Seehandel). ADSp Allgemeine Deutsche Spediteurbedingungen.
+description: "Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 407 ff. HGB, CMR, ADSP. Pruefraster: Vertragsart Fracht vs. Spedition, national vs. international, Schadenstyp. Output: Skillauswahl-Empfehlung Transport-Speditionsrecht. Abgrenzung: kein inhaltlicher Pruef-Skill."
 ---
 
 # Fachanwalt für Transport- und Speditionsrecht — Orientierung
@@ -70,4 +70,4 @@ description: Orientierung im Transport- und Speditionsrecht — FAO Voraussetzun
 - **gesellschaftsrecht** bei Spediteur-Gesellschaft.
 - **fachanwalt-internationales-wirtschaftsrecht** bei grenzüberschreitenden Transporten.
 - **fachanwalt-versicherungsrecht** bei Transportversicherung.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.

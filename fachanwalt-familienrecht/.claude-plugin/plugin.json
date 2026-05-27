@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-familienrecht",
-  "version": "9.0.0",
-  "description": "Light-Touch-Plugin Fachanwalt fuer Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-cowork.",
+  "version": "14.2.0",
+  "description": "Plugin Fachanwalt fuer Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

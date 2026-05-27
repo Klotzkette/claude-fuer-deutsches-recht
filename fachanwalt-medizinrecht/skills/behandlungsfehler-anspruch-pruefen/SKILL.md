@@ -1,152 +1,251 @@
 ---
 name: behandlungsfehler-anspruch-pruefen
-description: Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Erfasst Behandlungsvertrag Aufklaerungspflicht § 630e BGB Wirtschaftliche Aufklaerung Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB ermessen sowohl Patient (Klage) als auch Arzt (Verteidigung). Verweist auf Schlichtungsstelle der Aerztekammer Sachverstaendigenbestellung Verjaehrung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB Personenschaden.
+description: "Strukturierte Pruefung von Anspruechen wegen Behandlungsfehler nach §§ 630a ff. BGB iVm § 823 BGB. Behandlungsvertrag Aufklaerungspflicht § 630e BGB Dokumentationspflicht § 630f BGB Beweislastregeln § 630h BGB grober Behandlungsfehler Beweislastumkehr voll beherrschbares Risiko Anfaengerstandard Schmerzensgeld § 253 BGB. Schlichtungsstelle Aerztekammer MDK-Gutachten. Verjaehrung drei Jahre § 195 BGB Hoechstfrist dreissig Jahre § 199 Abs. 2 BGB."
 ---
 
 # Behandlungsfehler-Anspruch prüfen
 
-## Zweck
+## Kaltstart-Rückfragen
 
-Bei Patientenmandaten klären: liegt Behandlungsfehler vor, welche Beweislast, welche Ansprüche? Bei Arztmandaten umgekehrt verteidigen.
+1. Welche Behandlung — Diagnose, Therapie, Operation, Pflege — und welcher Behandler (Vertragsarzt, Krankenhausarzt, Pflegepersonal)? Datum, Klinik, behandelnde Personen?
+2. Welche gesundheitlichen Folgen — Primärschaden, Folgeschäden, dauerhafte Beeinträchtigung, Tod?
+3. Wurde die Behandlungsdokumentation angefordert (§ 630g BGB) und liegt sie vollständig vor?
+4. Gibt es bereits ein MDK-Gutachten, ein Schlichtungsverfahren bei der Ärztekammer oder ein Privatgutachten?
+5. Wann hat der Patient bzw. seine Erben Kenntnis vom möglichen Behandlungsfehler erlangt — Verjährungsbeginn § 199 Abs. 1 BGB?
+6. Besteht Rechtsschutzversicherung — Deckungsanfrage für Arzthaftungsmandat?
+7. Gibt es GKV — Regress-Interesse der Krankenkasse § 116 SGB X?
+8. Liegt strafrechtlicher Aspekt vor (Körperverletzung § 229 StGB fahrlässig, Tötung § 222 StGB)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Eingaben
+## Rechtsgrundlagen
 
-- Behandlungsverlauf (Anamnese)
-- Patientenakte vollständig (mit Bildgebung Laborwerten Pflegedokumentation)
-- Aufklärungsbögen und Aufklärungsgespräche
-- Operationsberichte / Befundberichte
-- Folgebehandlungs-Dokumentation
-- Bei späterer Behandlung andere Klinik / Praxis: Berichte
-- Mandanten-Schilderung Verlauf
-- Eventuell vorab Gutachten Schlichtungsstelle / MDK
+### Behandlungsvertrag und Pflichtverletzung
 
-## Schritt 1 — Behandlungsvertrag § 630a BGB
+- **§ 630a Abs. 1 BGB** — Dienstvertrag besonderer Art; Pflicht zur Behandlung.
+- **§ 630a Abs. 2 BGB** — Behandlung nach den zum Zeitpunkt der Behandlung bestehenden allgemein anerkannten fachlichen Standards; maßgeblich ist der sogenannte Standard zum Behandlungszeitpunkt (ex ante).
+- **§ 630f BGB** — Dokumentationspflicht: Abs. 1 sorgfältige Dokumentation in Patientenakte; Abs. 2 Dokumentation unverzüglich; Abs. 3 zehn Jahre Aufbewahrungspflicht.
+- **§ 630g BGB** — Einsichtsrecht in Patientenakte; vollständig und unverzüglich.
+- **§ 823 Abs. 1 BGB** — Deliktische Haftung (Körper, Gesundheit, Leben); kumulativ neben § 630a BGB.
+- **§ 253 Abs. 2 BGB** — Schmerzensgeld bei Körper- und Gesundheitsverletzung.
+- **§ 280 Abs. 1 BGB** — Schadensersatz wegen Pflichtverletzung aus Behandlungsvertrag.
 
-- Vertragspartner Patient — Behandler
-- Bei Krankenhaus Krankenhaus-/Wahlleistungs-Vertrag
-- Bei niedergelassenem Arzt Behandlungsvertrag
-- Schuldverhältnis Dienstleistung höherer Art § 627 BGB
+### Beweislastregeln § 630h BGB
 
-## Schritt 2 — Pflichtverletzung
+- **§ 630h Abs. 1 BGB** — Voll beherrschbares Risiko (Hygiene, Geräte, Lagerung, steril): bei Schadenseintritt Vermutung des Behandlungsfehlers.
+- **§ 630h Abs. 2 BGB** — Aufklärung: Behandelnder muss Aufklärung ordnungsgemäß und wirksame Einwilligung beweisen.
+- **§ 630h Abs. 3 BGB** — Dokumentationsmangel: fehlende Dokumentation pflichtgemäßer Maßnahmen = Vermutung des Nichtdurchführens.
+- **§ 630h Abs. 4 BGB** — Anfängerfehler: fehlendes Können oder mangelnde Erfahrung — Vermutung des Behandlungsfehlers.
+- **§ 630h Abs. 5 Satz 1 BGB** — Grober Behandlungsfehler: bei grobem Fehler Beweislastumkehr für Kausalität zum Primärschaden.
+- **§ 630h Abs. 5 Satz 2 BGB** — Befunderhebungsfehler: bei hinreichend wahrscheinlichem reaktionspflichtigem Befund Beweislastumkehr.
 
-### Behandlungsfehler
+### BGH-Rechtsprechung
 
-- Diagnostischer Fehler (Befund falsch erhoben Befund falsch gedeutet)
-- Therapeutischer Fehler (Indikation Methode Durchführung)
-- Übernahme- und Organisationsfehler
-- Anfängerfehler — Maßstab des Facharzt-Standards (BGH VI ZR 99/89)
-- Voll beherrschbares Risiko (Hygiene Implantat OP-Lagerung)
-- Befunderhebungsfehler (BGH VI ZR 158/06)
+- BGH, Urt. v. 07.07.1987 — **VI ZR 99/86**: Anfänger-Operateur — medizinischer Standard ist der eines erfahrenen Facharztes.
+- BGH, Urt. v. 14.11.1995 — **VI ZR 158/94**: grober Behandlungsfehler bei eindeutigem Verstoß gegen medizinisches Handlungsgebot (Unverständlichkeitstest).
+- BGH, Urt. v. 13.02.2001 — **VI ZR 272/99**: Befunderhebungsfehler — Beweislastumkehr bei wahrscheinlichem reaktionspflichtigem Befund.
+- BGH, Urt. v. 14.09.1999 — **VI ZR 8/98**: Dokumentationsmangel — § 630h Abs. 3 BGB.
+- BGH, Urt. v. 20.09.2011 — **VI ZR 55/09**: Sekundärschäden beim groben Behandlungsfehler von Beweislastumkehr umfasst.
+- BGH, Urt. v. 07.02.2012 — **VI ZR 63/11**: GKV § 116 SGB X — Regressvoraussetzungen.
+- BGH, Urt. v. 19.10.2010 — **VI ZR 241/09**: Schmerzensgeld-Bemessung; Erhöhung bei besonders schwerwiegendem Verschulden.
 
-### Aufklärungsfehler § 630e BGB
+### Verjährung
 
-- **Risiken** typische und seltene aber gravierende
-- **Verlauf der Behandlung**
-- **Folgen**
-- **Behandlungs-Alternativen**
-- **Diagnose und Prognose**
-- **Wirtschaftliche Aufklärung** § 630c Abs. 3 BGB
-- **Zeitpunkt** so rechtzeitig dass Patient noch frei entscheiden kann (BGH VI ZR 131/02 v. 25.03.2003 — bei stationärem Eingriff Aufklärung im Verlaufe des Vortages grundsätzlich genügend; BGH VI ZR 178/93 v. 14.06.1994 — bei ambulanten Eingriffen Aufklärung am Tag des Eingriffs grundsätzlich ausreichend; BGH VI ZR 375/21 v. 20.12.2022 — keine zwingende Sperrfrist zwischen Aufklärung und Einwilligung)
-- **Form** mündlich plus schriftliche Unterlagen
-- **Beweislast** für ordnungsgemäße Aufklärung beim Arzt § 630h Abs. 2 BGB
+- **§ 195 BGB** — Regelverjährung 3 Jahre ab Schluss des Jahres der Kenntnis (§ 199 Abs. 1 BGB).
+- **§ 199 Abs. 2 BGB** — absolute Höchstfrist 30 Jahre bei Verletzung Körper, Gesundheit, Leben, Freiheit.
+- **§ 204 BGB** — Hemmung durch Klageerhebung, Schlichtungsverfahren, Verhandlungen.
+- **§ 203 BGB** — Hemmung während Verhandlungen.
 
-### Dokumentationspflicht § 630f BGB
+## Prüfschema
 
-- Sorgfältige Dokumentation Pflicht
-- Bei Mangel der Dokumentation Beweiserleichterung
-- **Beweislastumkehr** § 630h Abs. 3 BGB
+| Nr. | Prüfschritt | Norm | Kernfrage |
+|---|---|---|---|
+| 1 | Behandlungsvertrag | § 630a BGB | Partnerinnen, Vertragsgegenstand, Standardpflicht |
+| 2 | Behandlungsfehler | § 630a Abs. 2 BGB | Abweichung vom Standard zum Behandlungszeitpunkt? |
+| 3 | Voll beherrschbares Risiko | § 630h Abs. 1 BGB | Hygiene, Geräte, Lagerung — Vermutung greift? |
+| 4 | Dokumentationsmangel | § 630h Abs. 3 BGB | Fehlende Dokumentation = Vermutung Nichtdurchführung? |
+| 5 | Anfänger-Fehler | § 630h Abs. 4 BGB | Fehlende Qualifikation belegt? |
+| 6 | Grober Behandlungsfehler | § 630h Abs. 5 Satz 1 BGB | Unverständlicher Verstoß gegen medizinisches Grundprinzip? |
+| 7 | Befunderhebungsfehler | § 630h Abs. 5 Satz 2 BGB | Unterlassene Diagnose + wahrscheinlicher reaktionspflichtiger Befund? |
+| 8 | Kausalität | §§ 286, 287 ZPO | Primärschaden; Folgeschäden abgesenkt § 287 ZPO |
+| 9 | Aufklärungsfehler | § 630e, § 630h Abs. 2 BGB | Zusätzlicher Anspruchsgrund? |
+| 10 | Schaden | §§ 249–253, 843, 844 BGB | Schmerzensgeld, Verdienstausfall, Haushaltsschaden, Rente? |
+| 11 | Mitverschulden | § 254 BGB | Compliance-Verletzung durch Patient? |
+| 12 | Verjährung | §§ 195, 199, 203, 204 BGB | Frist gewahrt? Hemmung? |
 
-## Schritt 3 — Kausalität
+## Strategische Optionen (vor dem Template entscheiden)
 
-- Pflichtverletzung kausal für Gesundheitsschaden
-- **Erstkausalität** schwierig nachzuweisen — Beweislast Patient
-- **Grober Behandlungsfehler** § 630h Abs. 5 BGB — Beweislastumkehr für Kausalität
-- **Befunderhebungsfehler** mit reaktionspflichtigem Ergebnis — Beweiserleichterung (BGH VI ZR 158/06)
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Schritt 4 — Beweislast § 630h BGB
-
-| Sachverhalt | Beweislast |
+| Konstellation | Empfohlener Weg |
 |---|---|
-| Pflichtverletzung Behandler | Patient |
-| Aufklärungsmangel | Arzt für ordnungsgemäße Aufklärung |
-| Voll beherrschbares Risiko | Arzt für fehlerfreie Behandlung |
-| Mangelhafte Dokumentation | Arzt — Beweislastumkehr |
-| Grober Behandlungsfehler | Arzt für fehlende Kausalität |
-| Befunderhebungsfehler mit reaktionspflichtigem Ergebnis | Arzt für fehlende Reaktionspflicht |
-| Anfängerfehler | Arzt für Facharzt-Standard |
+| Standard — Behandlungsfehler Anspruch pruefen | Haftungspruefung und Klage; Template unten |
+| Variante A — Mandant will aussergerichtliche Loesung | Gutachterkommission AEK einschalten; Skill aek-schlichtung |
+| Variante B — Unklare Faktenlage | Sachverstaendigenbeauftragung vor Klage; Kostenrisiko beachten |
+| Variante C — Versicherungsmandat der Gegenseite | Direktverhandlung mit Haftpflichtversicherer pruefen |
 
-## Schritt 5 — Hypothetische Einwilligung
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-- Arzt kann einwenden Patient hätte auch bei richtiger Aufklärung eingewilligt
-- Patient kann durch substantiierten Entscheidungskonflikt entkräften (BGH VI ZR 260/93 v. 14.06.1994)
 
-## Schritt 6 — Schadenspositionen
+## Schriftsatzbausteine
 
-### Vermögensschaden
+### Anforderung Patientenakte § 630g BGB
 
-- Heilbehandlungskosten (über GKV hinaus)
-- Verdienstausfall (Selbstständige Lohnausfall Arbeitnehmer)
-- Vermehrte Bedürfnisse § 843 BGB (Pflege Umbau)
-- Haushaltsführungs-Schaden
-- Erwerbsausfall künftig (Renten-Kapitalisierung)
+```
+An [Klinik / Arztpraxis]
 
-### Schmerzensgeld § 253 BGB
+Sehr geehrte Damen und Herren,
 
-- Hacks/Wellner/Häcker Schmerzensgeld-Tabelle
-- Beck-OK Schmerzensgeld
-- Schwere Verletzungsfolgen erhöhen Betrag
-- Pflichtwidriges Verhalten der Behandler kann Schmerzensgeld erhöhen (BGH VI ZR 314/00)
+namens und in Vollmacht der Patientin / des Patienten
+[Name, Geburtsdatum], behandelt bei Ihnen vom [Datum bis Datum],
+fordern wir hiermit auf:
 
-### Beerdigungskosten § 844 BGB bei tödlichem Ausgang
+Innerhalb von 14 Tagen vollstaendig die Behandlungs-
+dokumentation gemaess § 630g BGB zu uebersenden, insbesondere:
+- Aufnahme- und Entlassungsberichte
+- Operationsberichte mit Anaesthesieprotokoll
+- Pflegedokumentation
+- Befundberichte aller diagnostischen Massnahmen
+- Bildgebung (Roentgen CT MRT) mit Originaldaten (DICOM)
+- Laborwerte vollstaendig
+- Medikationsplaene
+- Aufklaerungsboegen
+- Konsilberichte
+- Ambulanz- und Notaufnahmeprotokolle
 
-### Unterhaltsansprüche § 844 Abs. 2 BGB für Hinterbliebene
+Die Unterlagen sind vollstaendig und in lesbarer Form als Kopie
+zu uebermitteln. Die Kosten hierfuer werden gemaess § 630g
+Abs. 2 Satz 2 BGB uebernommen (Kopierkosten angemessen).
 
-## Schritt 7 — Mitverschulden § 254 BGB
+Sollten Teile der Dokumentation fehlen, bitten wir um
+schriftliche Auflistung der fehlenden Unterlagen und Begruendung
+gemaess § 630g Abs. 2 Satz 1 BGB.
 
-- Versäumte Nachbehandlung
-- Nichteinhaltung ärztlicher Anordnungen
-- Selbstgefährdendes Verhalten
+[Unterschrift, Vollmacht in Anlage]
+```
 
-## Schritt 8 — Verjährung
+### Außergerichtliche Anspruchsanmeldung
 
-- **Drei Jahre** ab Kenntnis Schaden und Person § 195 199 BGB
-- **Höchstfrist** dreißig Jahre bei Personenschaden § 199 Abs. 2 BGB
-- **Hemmung** durch Schlichtungsverfahren § 204 BGB
+```
+An die [Haftpflichtversicherung / Haftpflichtstelle Klinik]
 
-## Schritt 9 — Schlichtungsstelle der Ärztekammern
+Schadensanmeldung — Behandlungsfehler / Aufklaerungsfehler
 
-- Kostenfrei für Patienten
-- Nicht bindend aber häufig vergleichsfördernd
-- Hemmungswirkung Verjährung
-- Sachverständigen-Gutachten kann Beweismittel im Folgeprozess sein
+Unser Zeichen: [Az]
+Ihr Zeichen: [Az]
 
-## Schritt 10 — MDK-Gutachten Gesetzliche Krankenversicherung
+I. Sachverhalt
+Unsere Mandantin / unser Mandant [Name, Geburtsdatum] wurde
+in Ihrer Einrichtung vom [Datum bis Datum] behandelt.
+[Diagnose, Behandlungsanlass, Verlauf, Komplikation]
 
-- Bei vermutetem Behandlungsfehler Krankenkassen-Antrag § 66 SGB V
-- MDK-Gutachten Beweismittel
-- Krankenkasse hat Regress-Interesse § 116 SGB X
+II. Behandlungsfehler
+1. [Spezifischer Fehler]: Verstoss gegen medizinischen Standard
+   gemaess § 630a Abs. 2 BGB, naemlich [konkrete Handlung /
+   Unterlassung]. Massgeblicher Standard zum Behandlungs-
+   zeitpunkt ergibt sich aus [Leitlinie, Sachverstaendigen-
+   einschaetzung, Literatur].
 
-## Schritt 11 — Sachverständigen-Strategie
+2. Voll beherrschbares Risiko § 630h Abs. 1 BGB: [Hygiene-
+   mangel / Geraetedefekt] — Vermutung des Behandlungsfehlers.
 
-- Beschaffung Patientenakte vollständig (Recht § 630g BGB)
-- Mandantengespräch zu Verlauf und subjektiver Wahrnehmung
-- Sachverständigen-Auftrag fachspezifisch — bei OP Chirurgen-SV
-- Kostenrisiko Sachverständigen-Gutachten erheblich
-- Rechtsschutz / Prozesskostenhilfe prüfen
+3. Befunderhebungsfehler § 630h Abs. 5 Satz 2 BGB: Unterlassen
+   der Untersuchung [X]; ein positiver Befund war hinreichend
+   wahrscheinlich; Beweislastumkehr fuer Kausalitaet.
 
-## Ausgabe
+III. Schaeden
+- Schmerzensgeld EUR ____ (Begr.: [Tabellen-Referenz])
+- Heilbehandlungskosten EUR ____
+- Verdienstausfall EUR ____ (Bescheinigung in Anlage)
+- Haushaltsfuehrungsschaden EUR ____ / Monat
+- Vermehrte Beduerfnisse § 843 BGB EUR ____ / Monat
+- Beerdigungskosten § 844 Abs. 1 BGB EUR ____ (bei Tod)
+- Unterhaltsschaden § 844 Abs. 2 BGB EUR ____ / Monat (bei Tod)
 
-- `behandlungsfehler-analyse.md` mit Schritten
-- Beweislast-Tabelle pro Sachfrage
-- Anspruchsschreiben gegen Behandler / Haftpflichtversicherer als Entwurf
-- Schlichtungsstellen-Antrag als alternativer Erstweg
-- Frist im Fristenbuch (Verjährung drei oder dreißig Jahre)
-- Streitwert-Abschätzung mit Schmerzensgeld
+IV. Forderung
+Wir fordern Anerkennung des Haftpflichtgrundes bis [Datum]
+sowie Zahlung eines Vorschusses von EUR ____.
+
+V. Verjaehrung
+Zur Hemmung der Verjaehrung bitten wir um eine
+Verjaehrungsverzichtserklaerung bis [Datum + 12 Monate].
+
+Anlagen:
+- Behandlungsdokumentation
+- Privatgutachten / MDK-Gutachten (falls vorhanden)
+- Aerzliche Atteste Folgeschaeden
+- Vollmacht
+
+[Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Beweislast und Darlegungslast
+
+| Anspruchsmerkmal | Grundsatz | Beweislastumkehr § 630h BGB |
+|---|---|---|
+| Behandlungsfehler | Patient | Vermutung § 630h Abs. 1 (voll beherrschb.) und Abs. 4 (Anfänger) |
+| Dokumentationsrecht | Patient | § 630h Abs. 3 — Fehlende Doku = Nichtdurchführen |
+| Kausalität Primärschaden | Patient | Umkehr bei grobem Fehler § 630h Abs. 5 S. 1 |
+| Kausalität Befunderhebungsfehler | Patient | Umkehr bei wahrscheinlichem Befund § 630h Abs. 5 S. 2 |
+| Folgeschäden | Patient; § 287 ZPO — abgesenktes Beweismaß | — |
+| Aufklärungsmangel | Behandelnder muss Aufklärung beweisen | § 630h Abs. 2 |
+
+## Fristen und Verjährung
+
+| Frist | Dauer | Norm |
+|---|---|---|
+| Regelverjährung | 3 Jahre ab Jahresende der Kenntnis | §§ 195, 199 Abs. 1 BGB |
+| Absolute Höchstfrist | 30 Jahre ab Verletzungshandlung | § 199 Abs. 2 BGB |
+| Hemmung Schlichtungsverfahren | Während Laufzeit | § 204 Abs. 1 Nr. 4 BGB |
+| Hemmung Verhandlungen | Während laufender Verhandlungen | § 203 BGB |
+| GKV-Regressanspruch | 3 Jahre ab Kenntnis | § 116 SGB X i. V. m. § 195 BGB |
+| Strafanzeige § 229 StGB | Keine Frist für Anzeige; Strafverfolgungsverjährung 5 Jahre | § 78 StGB |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand | Reaktion |
+|---|---|
+| Schaden liegt im allgemeinen Behandlungsrisiko | Abgrenzung Behandlungsrisiko — Fehler durch Sachverständigen; Standard-Frage ex ante |
+| Kein Kausalzusammenhang | Bei grobem Fehler: Beweislastumkehr § 630h Abs. 5; bei Befunderhebungsfehler: ebenfalls |
+| Dokumentation vorhanden — deckt alles ab | Prüfen ob inhaltlich korrekt oder nur formal; nachträgliche Änderungen? |
+| Patient hat Mitverschulden | § 254 BGB — Compliance, aber Arzt trägt Hauptlast bei groben Fehlern |
+| Sachverständiger widerspricht | Obergutachten beantragen; Sachverständigen-Qualifikation hinterfragen |
+
+## Streitwert und Kosten
+
+- Schmerzensgeld: nach Hacks/Wellner/Häcker-Tabellen; bei dauerhafter Invalidität 50.000–250.000 EUR; bei Tod 20.000–40.000 EUR für Angehörige.
+- Verdienstausfall: netto-Verdienst × Monate; bei dauerhafter Berufsunfähigkeit Rentenkapitalisierung.
+- LG-Kosten bei 100.000 EUR: ca. 3.696 EUR Gerichtskosten.
+- RVG Anwalt: 1,3-fache VG + 1,2-fache TG; ca. 6.500 EUR netto bei 100.000 EUR.
+- Sachverständiger: 5.000–30.000 EUR; bei komplexen OP-Fehler bis 50.000 EUR.
+- Schlichtungsverfahren: kostenfrei für Patienten; 3–12 Monate Dauer.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Grobes Verschulden eindeutig | Klage direkt; Beweislastumkehr § 630h Abs. 5 als zentrales Argument |
+| Ungeklärter Sachverhalt | Schlichtungsverfahren zuerst (kostenfrei, Sachverständigen-Gutachten) |
+| GKV-Patient | GKV über Behandlungsfehler-Verdacht informieren (§ 66 SGB V); MDK-Gutachten beantragen |
+| Verjährung droht | Sofort Hemmung durch Klage oder Güteantrag; Verjährungsverzicht verhandeln |
+| Tod des Patienten | Erben-Klage (Schmerzensgeld vererbt § 253 BGB); Beerdigungskosten; Unterhaltsschaden |
+
+## Anschluss-Skills
+
+- `aufklaerungsfehler-beweisstrategie` — bei Aufklärungsfehler-Ansprüchen
+- `fachanwalt-medizinrecht-aufklaerungsfehler` — ergänzendes Schema
+- `fachanwalt-medizinrecht-behandlungsfehler-pruefen` — strukturierter Workflow
 
 ## Quellen
 
-- BGB §§ 195 199 253 254 630a–630h 823 843 844
-- SGB X § 116
-- BGH VI. Zivilsenat
-- Geiß/Greiner Arzthaftpflichtrecht
-- Spickhoff Medizinrecht-Kommentar
+- BGB §§ 195, 199, 249–253, 280, 630a–630h, 823, 843, 844
+- ZPO §§ 286, 287, 448
+- SGB V § 66; SGB X § 116
+- BGH VI ZR 99/86; VI ZR 158/94; VI ZR 272/99; VI ZR 8/98; VI ZR 55/09; VI ZR 63/11; VI ZR 241/09
+- Geiß/Greiner Arzthaftpflichtrecht, 8. Aufl.
+- Spickhoff Medizinrecht, 3. Aufl.
+- Hacks/Wellner/Häcker Schmerzensgeld-Beträge, aktuellste Aufl.

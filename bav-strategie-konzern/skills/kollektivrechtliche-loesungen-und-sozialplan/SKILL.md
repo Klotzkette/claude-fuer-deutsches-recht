@@ -1,6 +1,6 @@
 ---
 name: kollektivrechtliche-loesungen-und-sozialplan
-description: "Kollektivrechtliche Loesungen bei BAV-Restrukturierungen: Paragraph-112-BetrVG-Sozialplan pensionsspezifische Sozialplanbestandteile Abfindungsmodelle vs Versorgungserhalt Interessenausgleich bei Betriebsaenderungen mit Auswirkungen auf betriebliche Altersversorgung."
+description: "Kollektivrechtliche Loesungen fuer bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Pruefraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung."
 ---
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen
@@ -26,6 +26,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - BAG 3.12.1991 — 1 AZR 282/91 (Sozialplan-Einigungsstellenspruch zu BAV)
 - BAG 21.3.2017 — 3 AZR 540/15 (Versorgungswerk-Schließung im Rahmen Betriebsänderung)
 - KSchG §§ 17–22 (Massenentlassung — Verknüpfung mit Sozialplan-Pflicht)
+- BAG 08.12.2020 — 1 AZR 366/19 (Sozialplan-Dotierung: Einigungsstellenspruch kann nur auf Null reduziert werden wenn wirtschaftliche Belastungsgrenze des Arbeitgebers nachweislich überschritten; Darlegungslast beim Arbeitgeber)
+- BAG 09.12.2014 — 1 AZR 729/13 (Gleichbehandlung im Sozialplan: Differenzierung nach Alter und Betriebszugehörigkeit zulässig wenn BAV-Einbußen sachlich korrellieren; reine Altersgruppenbildung ohne BAV-Bezug AGG-widrig)
+
+### Kommentarliteratur
+
+- Fitting, BetrVG, 32. Aufl. 2024, §§ 111–113 Rn. 1 ff. (Betriebsaenderung, Interessenausgleich, Sozialplan, Nachteilsausgleich)
+- Schaub/Koch, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 142 Rn. 1 ff. (Sozialplan mit BAV-Komponenten)
 
 ---
 

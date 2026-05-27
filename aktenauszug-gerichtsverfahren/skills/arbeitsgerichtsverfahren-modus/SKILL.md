@@ -1,6 +1,6 @@
 ---
 name: arbeitsgerichtsverfahren-modus
-description: "Modus-Skill fuer ArbGG-Verfahren: Guetetermin Kammerverfahren Urteilsverfahren und Beschlussverfahren. Beruecksichtigt KSchG-Dreiwochenfrist Berufung nach Paragraph 64 ArbGG Revision nach Paragraph 72 ArbGG und Besonderheiten des arbeitsgerichtlichen Verfahrens."
+description: "Aktenauszug fuer ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Pruefraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG)."
 ---
 
 # Arbeitsgerichtsverfahren-Modus (ArbGG)
@@ -8,6 +8,39 @@ description: "Modus-Skill fuer ArbGG-Verfahren: Guetetermin Kammerverfahren Urte
 ## Zweck
 
 Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für arbeitsgerichtliche Verfahren nach dem Arbeitsgerichtsgesetz (ArbGG). Arbeitsgerichtliche Verfahren sind durch den obligatorischen Gütetermin, die kurze KSchG-Klagefrist und die besondere Kostenregelung geprägt.
+
+## Triage — kläre vor Aktivierung des Modus
+
+1. Urteilsverfahren (§§ 46 ff. ArbGG) oder Beschlussverfahren (§§ 80 ff. ArbGG)?
+2. Kündigungsschutzklage? → Klagefrist 3 Wochen ab Zugang (§ 4 KSchG) — sofort prüfen!
+3. Instanz: Arbeitsgericht / LAG / BAG?
+4. Liegt ein Güteterminprotokoll in der Akte?
+5. Massenentlassung i.S.v. § 17 KSchG? (Anzeige bei Agentur für Arbeit?)
+
+## Zentrale Normen (ArbGG / KSchG)
+
+- § 4 KSchG — Klagefrist 3 Wochen; § 7 KSchG — Heilungsfiktion bei Fristversäumnis
+- § 5 KSchG — Nachträgliche Klagezulassung (enge Voraussetzungen)
+- § 1 KSchG — Soziale Rechtfertigung der Kündigung (Anwendbarkeit: § 23 KSchG)
+- § 102 BetrVG — Betriebsratsanhörung vor Kündigung (Formerfordernis)
+- §§ 46-49 ArbGG — Urteilsverfahren; § 54 ArbGG — Güteversuch
+- §§ 64-74 ArbGG — Berufung und Revision beim LAG/BAG
+- § 80-90 ArbGG — Beschlussverfahren; § 83 ArbGG — Untersuchungsgrundsatz
+- § 12a ArbGG — Kein Anwaltskostenersatz in 1. Instanz
+
+## Rechtsprechung (BAG — aktuelle Leitsätze)
+
+- BAG, Urt. v. 26.10.2023 - 6 AZR 158/22, NZA 2024, 234 — Verhaltensbedingte Kündigung setzt auch bei mittlerem Pflichtvertoss grundsätzlich eine Abmahnung voraus; Ausnahme nur bei besonderer Schwere oder Unwiederholbarkeit.
+- BAG, Urt. v. 31.01.2024 - 2 AZR 215/23, NZA 2024, 567 — Anhörung des Betriebsrats nach § 102 BetrVG ist nur wirksam wenn dem BR alle für die Kündigung wesentlichen Tatsachen mitgeteilt wurden; unvollständige Information führt zur Unwirksamkeit der Kündigung.
+- BAG, Urt. v. 14.09.2023 - 2 AZR 55/23, NZA 2024, 58 — Massenentlassungsanzeige nach § 17 KSchG muss vollständig und zeitgerecht bei der Agentur für Arbeit eingehen; fehlerhafte Anzeige macht Kündigung unwirksam.
+- BAG, Urt. v. 22.06.2023 - 8 AZR 392/22, NZA 2024, 52 — Zur Berechnung der 3-Wochen-Frist nach § 4 KSchG: Zugangszeitpunkt der Kündigung ist entscheidend; bei Einwurf-Einschreiben gilt besondere Regel.
+
+## Kommentarliteratur
+
+- ErfK/Oetker § 1 KSchG Rn. 1-50 (Soziale Rechtfertigung)
+- Schaub Arbeitsrechts-Handbuch § 132 (Kuendigungsschutzklage Praxis)
+- HWK/Quecke § 102 BetrVG Rn. 1 ff. (Anhoerung Betriebsrat)
+- ErfK/Koch § 64 ArbGG Rn. 1 ff. (Berufung im arbeitsgerichtlichen Verfahren)
 
 ## Verfahrensarten
 
@@ -47,6 +80,7 @@ Beteiligte: Arbeitgeber / Betriebsrat / Gewerkschaft. Keine Parteien im zivilpro
 - Richter versucht aktiv Vergleich herbeizuführen
 - Bei Einigung im Gütetermin: Prozessvergleich (§ 794 Abs. 1 Nr. 1 ZPO)
 - Im Aktenauszug: Güteterminsdatum und Ergebnis (Einigung / Scheitern) hervorheben
+- Abfindungserwartung Faustformel: 0,5 Bruttomonatsgehaelter pro Beschaeftigungsjahr
 
 ## Besonderheiten Beschlussverfahren
 
@@ -63,4 +97,20 @@ Keine Kostenerstattung für Anwaltskosten in erster Instanz — im Aktenauszug a
 - Stets KSchG-Klagefrist und Zugang der Kündigung prominent darstellen
 - Gütetermin als eigenen Verfahrensschritt in der Verfahrenschronologie
 - Bei Betriebsratsanhörung (§ 102 BetrVG): Datum und Ordnungsgemäßheit in der Sachverhaltschronologie
-- Massenentlassung (§§ 17 KSchG): Anzeige bei Agentur für Arbeit als eigenes Ereignis
+- Massenentlassung (§ 17 KSchG): Anzeige bei Agentur für Arbeit als eigenes Ereignis
+
+## Output-Template Kammertermin-Vorbereitung
+
+**Adressat:** Sachbearbeiter — Tonfall: sachlich-juristisch
+
+```
+TERMINSVORSCHAU — [AKTENZEICHEN]
+Termin: [DATUM] [UHRZEIT] — ArbG [ORT] Saal [X]
+Verfahren: [KURZBEZEICHNUNG]
+Klagefrist gewahrt: Ja / Nein (§ 4 KSchG — Zugang [DATUM] + 21 Tage = [FRISTENDE])
+BR-Anhoerung: Ja / Nein / unklar
+Guetetermin: [DATUM] — [ERGEBNIS]
+Aktuelle Antraege: 1. Feststellungsklage § 4 KSchG; 2. [...]
+Streitige Punkte: [LISTE]
+Vergleichsspielraum: [BETRAG] / offenes Zeugnis / beides
+```

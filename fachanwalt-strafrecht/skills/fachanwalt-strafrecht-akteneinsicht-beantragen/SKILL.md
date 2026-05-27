@@ -75,3 +75,20 @@ Mit kollegialen Gruessen
 - Bei Versagung: Antrag auf gerichtliche Entscheidung nach § 147 Abs. 5 Satz 2 StPO bei dem nach § 162 StPO zuständigen Ermittlungsrichter.
 - Anschluss-Skill nach Aktenkenntnis: `fachanwalt-strafrecht-einlassung-vorbereiten` — Entscheidung Schweigen oder Einlassung mit Mandant abstimmen.
 - Bei Untersuchungshaft zusätzlich Haftprüfungsantrag (§ 117 StPO) und Haftbeschwerde (§ 304 StPO) prüfen.
+
+## Aktuelle Rechtsprechung Akteneinsicht
+
+- BVerfG, Beschl. v. 19.01.2006 - 2 BvR 1075/05, NJW 2006, 1048 — Akteneinsicht bei Untersuchungshaft: haftrelevante Unterlagen muessen dem Verteidiger vor dem Haftpruefungstermin vollstaendig zugaenglich gemacht werden; pauschale Versagung wegen laufender Ermittlungen verletzt Art. 2 I GG i.V.m. Art. 104 GG.
+- BVerfG, Beschl. v. 11.07.1994 - 2 BvR 777/94, NStZ 1994, 551 — Beschlagnahme schutzt nicht vor Akteneinsichtsrecht; Verteidiger muss Einblick in Belastungsbeweise erhalten, um effektive Verteidigung zu ermoglichen.
+- OLG Muenchen, Beschl. v. 29.04.2019 - 2 Ws 367/19, StraFo 2019, 325 — Versagung einzelner Aktenteile (§ 147 Abs. 2 StPO) ist eng auszulegen; Behoerde muss konkret darlegen, welche Ermittlungshandlung durch Einsicht gefaehrdet wuerde.
+- OLG Frankfurt, Beschl. v. 12.02.2020 - 1 Ws 9/20, NStZ 2020, 311 — Elektronische Akteneinsicht nach § 32f StPO: Anwalt hat Anspruch auf vollstaendige Kopie aller digitalisierten Akten; keine selektive Bereitstellung ohne tragfaehige Begruendung.
+
+## Normen Akteneinsicht
+
+- § 147 Abs. 1 StPO — umfassendes Akteneinsichtsrecht des Verteidigers
+- § 147 Abs. 2 StPO — Versagungsground: Gefaehrdung des Untersuchungszwecks
+- § 147 Abs. 2 S. 2 StPO — Ausnahme bei Untersuchungshaft: haftrelevante Teile immer zugaenglich
+- § 147 Abs. 4 StPO — eigenes Akteneinsichtsrecht des nicht verteidigten Beschuldigten
+- § 147 Abs. 5 StPO — Rechtsbehelf: Antrag auf gerichtliche Entscheidung
+- § 32f StPO — elektronische Akten; digitale Bereitstellung
+- § 406e StPO — Akteneinsicht fuer Verletzte / Nebenklaeger (beschraenkt)

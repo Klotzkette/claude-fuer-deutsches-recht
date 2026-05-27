@@ -1,6 +1,6 @@
 ---
 name: dreidimensionale-marke
-description: "3D-Formmarken fuer Flakons und Schuhformen: § 3 II MarkenG technische Funktion, EuGH Louboutin C-163/16 (roter Sohlen-Absatz), EuG T-508/08 Lego (technisch bedingte Form). Unterscheidungskraft 3D-Zeichen, Verkehrsdurchsetzung Flakons. Laedt, wenn der Nutzer 'Formmarke', '3D-Marke', 'Flakon Marke', 'Schuhform Marke' oder 'dreidimensionale Marke' sagt."
+description: "Dreidimensionale Marke (Formmarke) fuer Flacons und Schuhformen anmelden: Parfuemhaus oder Schuhhersteller will Produktform schuetzen. Normen: § 3 Abs. 2 MarkenG (technische Funktion Ausschluss), Art. 7 Abs. 1 lit. e UMV, EuGH C-163/16 Louboutin (roter Sohlen-Absatz), EuG T-508/08 Lego. Pruefraster: technisch bedingte Form, Unterscheidungskraft 3D-Zeichen, Verkehrsdurchsetzung fuer Flacons. Output Anmelde-Strategie 3D-Marke, Darstellungsanforderungen, Verkehrsdurchsetzungs-Nachweis-Konzept. Abgrenzung: Positionsmarke siehe positionsmarke; 2D-Logo siehe bildmarke-und-wort-bild."
 ---
 
 # Dreidimensionale Marken (3D-Formmarken)
@@ -109,3 +109,19 @@ Farbanspruch wird nicht geltend gemacht.
 - **Darstellungsqualität:** Unscharfe 3D-Ansichten führen zu formalen Beanstandungen; professionelles 3D-Rendering beauftragen
 - **Parallelschutz Design:** Musteranmeldung parallel ist fast immer sinnvoll — niedrigere Hürden, 25 Jahre Schutz
 - **Nachahmungsnachweis:** Für 3D-Verletzungsklagen ist Beurteilung des Gesamteindrucks entscheidend (§ 14 II Nr. 2); leichte Abweichungen genügen dem Verletzer oft als Schutzbehauptung
+
+## Triage-Fragen vor 3D-Marken-Anmeldung
+
+Bevor die dreidimensionale Marke eingereicht wird, klaere:
+1. Ist die Form technisch bedingt (§ 3 II Nr. 2 MarkenG — dann absoluter Ausschluss) oder ästhetisch eigenstaendig?
+2. Hat die Form eine eigenstaendige Unterscheidungskraft oder ist Verkehrsdurchsetzung der einzige Weg?
+3. Sind Schutzalternativen (Geschmacksmuster, Ausstattungsschutz) verfolgt?
+4. Gibt es aeltere 3D-Marken in aehnlichem Bereich, die kollidieren koennten?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 08.04.2003 — C-53/01 (Linde):** Dreidimensionale Marken, die aus der Form der Ware selbst bestehen, unterliegen besonders strengen Anforderungen an die Unterscheidungskraft; nur eine Form, die erheblich von der branchenüblichen Norm abweicht, kann ohne Nachweis von Verkehrsdurchsetzung eingetragen werden.
+
+> **BGH, Beschl. v. 09.07.2009 — I ZB 88/07 (Baelz):** Die Unterscheidungskraft einer Warenform beurteilt sich ausschliesslich nach dem Gesamteindruck; einzelne schutzfaehige Elemente koennen nicht isoliert fuer die Gesamtbewertung herangezogen werden, wenn das Gesamtbild banal oder Warenformueblich bleibt.
+
+> **EuGH, Urt. v. 14.09.2010 — C-48/09 P (Lego Ziegel):** Die technische Bedingtheit einer Form (§ 3 II Nr. 2 MarkenG) setzt voraus, dass die wesentlichen Merkmale der Form durch die technische Funktion bedingt sind; es genuegt nicht, dass nur einige Merkmale technisch notwendig sind, wenn Gestaltungsalternativen bestehen.

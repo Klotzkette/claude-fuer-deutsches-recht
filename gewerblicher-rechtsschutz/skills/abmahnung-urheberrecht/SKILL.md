@@ -1,6 +1,6 @@
 ---
 name: abmahnung-urheberrecht
-description: "Prüfung und Erstellung urheberrechtlicher Abmahnungen nach § 97a UrhG; modifizierte Unterlassungserklärung; Deckelung der Abmahnkosten im privaten Bereich (§ 97a Abs. 3 UrhG); Filesharing-Praxis; Lizenzanalogie-Schadensersatz (§ 97 Abs. 2 UrhG). Lädt bei urheberrechtlichen Abmahnungen, Unterlassungs- erklärungen, Filesharing-Fällen oder Schadensersatzforderungen nach UrhG."
+description: "Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Pruefraster: modifizierte Unterlassungserklaerung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung)."
 ---
 
 # Urheberrechtliche Abmahnung – § 97a UrhG
@@ -209,3 +209,19 @@ Darlegungslast ist dynamisch; neuere Entscheidungen (insb. BGH seit 2018) immer
 auch auf veränderte Rechtslage (Haftungsprivileg § 8 TMG a. F. → § 7 ff. DDG)
 hin prüfen. Bei Streit über Deckelungsvoraussetzungen h. M. und Gegenauffassung
 kenntlich machen.
+
+## Triage-Fragen vor Urheberrechts-Abmahnung
+
+Bevor die Abmahnung versandt wird, klaere:
+1. Ist das urheberrechtlich geschuetzte Werk klar identifiziert und der Schutzbestand unstreitig (§ 2 I UrhG — Schoepfungshoehe)?
+2. Handelt es sich um eine Privatperson (§ 97a III UrhG — Deckelung EUR 1.000) oder einen gewerblichen Verletzer?
+3. Ist der Rechteinhaber eindeutig der Mandant (Werkvertrag, Arbeitsvertrag, Rechteabtretung)?
+4. Ist die Verletzungshandlung noch andauernd oder bereits beendet (Wiederholungsgefahr vs. Erstbegehungsgefahr)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 12.05.2016 — I ZR 1/15 (Tauschboerse III):** Der angemessene Lizenzschaden fuer das offentliche Zugaenglichmachen eines Musikalbums im Filesharing-Kontext kann nach Lizenzanalogie berechnet werden; der Verletzer muss das zahlen, was verstaendige Parteien als Verguetung vereinbart haetten.
+
+> **BGH, Urt. v. 30.03.2017 — I ZR 124/16 (Loud):** Bei der Abmahnung wegen Filesharings durch einen Rechtsanwalt ist der Gegenstandswert auf EUR 1.000 begrenzt (§ 97a III UrhG), wenn der Verletzer eine Privatperson ist und die Verletzung keine gewerbliche Dimension hat; die Deckelung gilt nicht, wenn die Verletzung massenhaft oder gewerblich erfolgt.
+
+> **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Die sekundaere Darlegungslast des Anschlussinhabers erfordert, dass er substantiiert vortraegt, welche anderen Familienangehoerigen oder Mitbewohner Zugang zum Internetanschluss hatten und wer als Taeter in Betracht kommt; blosse Behauptung moeglicher Dritter genuegt nicht.

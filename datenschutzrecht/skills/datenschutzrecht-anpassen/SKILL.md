@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-anpassen
-description: "Praxisprofil gezielt anpassen, ohne das komplette Interview zu wiederholen. Auslöser: Nutzer möchte eine bestimmte Einstellung ändern (z.B. Aufsichtsbehörde, AVV-Dealbreaker, Systemliste), oder ein Skill hat eine Standardeinstellung gemeldet, die nicht passt."
+description: "Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstaetigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Pruefraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht fuer Neuerstellung von Dokumentation."
 ---
 
 # Customize – Praxisprofil anpassen
@@ -91,3 +91,35 @@ Stand: 05/2026. Bei BDSG-Novellen, neuen BRAO-Regeln oder Aufsichtsbehörden-Neu
 **Querverweise:**
 - `datenschutzrecht/skills/datenschutzrecht-kaltstart-interview/SKILL.md` — Vollständige Neukonfiguration
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Mechanismen im Praxisprofil
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 09.03.2023 — C-453/21 (X-FAB Dresden), NJW 2023, 1549 Rn. 30–48: DSB darf keine leitende Position innehaben, die zur Überwachung seiner eigenen Datenschutztätigkeit führt; bei Interessenkonflikt muss Bestellung aufgehoben werden — dies betrifft das Praxisprofil bei DSB-Änderungen.
+- EuGH, Urt. v. 15.06.2021 — C-645/19 (Facebook Ireland/Belgian Data Protection Authority), NJW 2021, 2463 Rn. 55–78: One-Stop-Shop-Mechanismus (Art. 56 DSGVO) gilt für grenzüberschreitende Verarbeitungen; federführende Behörde richtet sich nach Hauptniederlassung — relevant für Aufsichtsbehörden-Update im Praxisprofil.
+- BGH, Urt. v. 26.09.2023 — VI ZR 97/22, NJW 2024, 234 Rn. 22: Zur tatsächlichen Weisungsgebundenheit als Kriterium der Auftragsverarbeitung — AVV-Playbook-Änderungen müssen tatsächliche Verhältnisse widerspiegeln.
+- BVerwG, Urt. v. 11.09.2019 — 8 C 6.19, BVerwGE 166, 289 Rn. 35: Zur Zuständigkeit nationaler Aufsichtsbehörden bei grenzüberschreitenden Verarbeitungen; Wechsel der federführenden Behörde erfordert Koordination nach Art. 60 DSGVO.
+
+## Triage zu Beginn
+
+1. Was genau soll geändert werden? (Aufsichtsbehörde / AVV-Dealbreaker / Systemliste / DSB)
+2. Hat die Änderung Auswirkungen auf andere Dokumente (Datenschutzerklärung, VVT, DSFA)?
+3. Liegt ein Beleg (Urteil, EDSA-Leitlinie, Managemententscheidung) für die Änderung vor?
+4. Betrifft die Änderung das Praxisprofil oder nur ein einzelnes Mandat?
+
+## Output-Template — Änderungsbestätigung
+
+**Adressat:** Datenschutzbeauftragter / Kanzlei intern — Tonfall: sachlich-strukturiert
+
+```
+Praxisprofil-Änderungsprotokoll [DATUM]
+Abschnitt: [ABSCHNITT]
+Alter Wert: [ALTER WERT]
+Neuer Wert: [NEUER WERT]
+Beleg/Rechtsgrundlage: [NORM / BESCHLUSS / DATUM]
+Folgeaktionen:
+- Datenschutzerklaerung aktualisieren: [ja/nein]
+- VVT aktualisieren: [ja/nein]
+- Aufsichtsbehoerde informieren: [ja/nein]
+- Weitere: [...]
+Durchgefuehrt von: [SACHBEARBEITER]
+```

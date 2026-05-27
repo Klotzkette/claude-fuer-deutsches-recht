@@ -1,6 +1,6 @@
 ---
 name: quellenrecherche-rechtsprechung-literatur
-description: Suchstrategien fuer juristische Quellen Beck-Online juris dejure openJur EUR-Lex Bibliotheks-Bestand. Konkrete Hinweise wo welche Quelle. Frei verfuegbare Alternativen wenn kein Beck-Online-Zugang. Strategien gegen Quellen-Verlust nicht-zugaengliche Aufsaetze.
+description: "Student sucht juristische Quellen fuer Hausarbeit: Beck-Online juris dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Pruefraster Quellen-Vollstaendigkeit Aktualitaet Zugaenglichkeit Alternativ-Strategien. Output Quellen-Liste Recherche-Strategie Fundstellen-Tipps. Abgrenzung zu zitierweise-jura-fundstellen (Zitierformat) und kommentar-und-literatur-hinweis im subsumtions-pruefer."
 ---
 
 # Quellen-Recherche — Rechtsprechung und Literatur

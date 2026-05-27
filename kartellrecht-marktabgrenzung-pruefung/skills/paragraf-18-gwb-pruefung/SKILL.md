@@ -65,3 +65,15 @@ Praxis: Häufig bei Lebensmitteleinzelhandel (Marktmacht gegenüber Lieferanten)
 6. Relative Marktmacht § 20: [prüfen / nicht relevant]
 7. Ergebnis Marktbeherrschung: [ja / nein / zweifelhaft]
 ```
+
+## Leitentscheidungen § 18 GWB
+
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19 (Funke Medien), NZKart 2020, 557 — § 18 Abs. 3a GWB Plattformmacht; Netzwerkeffekte; Zugang zu Daten als Marktmacht-Faktor.
+- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Marktbeherrschungsvermutung § 18 Abs. 4 GWB; Widerlegung durch Nachweis wesentlichen Wettbewerbs; Beweiswuerdigung des BGH.
+- BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — § 18 Abs. 3a GWB; ueberragende marktuebergreifende Bedeutung; Datenverarbeitung als marktrelevanter Faktor.
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Marktbeherrschung Art. 102 AEUV; Faktoren Marktanteil plus fehlender Wettbewerb; Vermutungsregel bei hohem Anteil.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB §§ 18-20 Rn. 1-100 (Marktbeherrschung, Oligopol, relative Marktmacht)
+- Immenga/Mestmaecker GWB § 18 Rn. 1-150 (Kommentar)

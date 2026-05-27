@@ -1,11 +1,34 @@
 ---
 name: mehrsprachige-antwort
-description: "Modus fuer Anfragen auf Englisch, Franzoesisch oder Italienisch: uebernimmt die Sprache der Anfrage in der Erstantwort. Deutsche Anfragen erhalten deutschsprachige Antwort. Anredekonventionen Schlussformeln und Datenschutzhinweise in der jeweiligen Sprache. Laedt wenn der Nutzer 'Antwort auf Englisch', 'repondre en francais', 'risposta in italiano', 'mehrsprachige Erstantwort' oder 'Sprache der Anfrage erkennen' sagt."
+description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Pruefraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede)."
 ---
 
 # Mehrsprachige-Antwort
 
 Dieser Skill erkennt die Sprache der eingehenden Mandantenanfrage und schaltet die Erstantwort in die entsprechende Sprache um. Die Sprachauswahl folgt der Sprache der Anfrage — nicht der Sprache der Kanzlei-Oberfläche.
+
+
+## Triage zu Beginn
+1. Welche Sprache wurde in der Anfrage verwendet und welche Sprache soll fuer die Antwort verwendet werden?
+2. Gibt es landesspezifische Anredekonventionen (EN, FR, IT) die abweichen von deutschen Regeln?
+3. Muss der Datenschutzhinweis (Art. 13 DSGVO) und der Kein-Mandat-Disclaimer ebenfalls in der Fremdsprache formuliert werden?
+4. Ist die Anfrage moeglicherweise automatisch uebersetzt worden (Qualitaet der Sprache pruefen)?
+
+## Aktuelle Rechtsprechung
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Informationspflichten nach Art. 13 DSGVO muessen in einer fuer die betroffene Person verstaendlichen Sprache erteilt werden; Datenschutzhinweis auf Deutsch bei fremdsprachiger Anfrage genuegt nicht.
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Mandantenkommunikation muss fuer den Mandanten verstaendlich sein; Sprachbarrieren erhoehen Haftungsrisiko bei Beratungsfehlern.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kostenbelehrung nach § 49b Abs. 5 BRAO muss fuer den Mandanten verstaendlich sein; fremdsprachiger Mandant hat Anspruch auf Belehrung in verstaendlicher Sprache.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtswahrnehmung erfordert verstaendliche Kommunikation; Sprachbarriere bei Mandantenanfragen muss durch Kanzlei ueberwunden werden.
+
+## Zentrale Normen
+- Art. 13 DSGVO — Informationspflicht in verstaendlicher Sprache: gilt bei Fremdsprachler uneingeschraenkt
+- Art. 12 DSGVO — Transparenz: klar und in einfacher Sprache; Fremdsprachler haben Anspruch auf verstaendliche Information
+- § 49b Abs. 5 BRAO — Kostenbelehrung: muss fuer Mandanten verstaendlich sein (Sprache relevant)
+- § 43 BRAO — Sorgfaltspflicht: Sprachbarriere als organisatorisches Risiko in der Kanzlei
+
+## Kommentarliteratur
+- Kühling/Buchner DSGVO Art. 12, 13 Rn. 1-20 (Verstaendliche Sprache als Transparenzanforderung)
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Sorgfaltspflicht: Umgang mit fremdsprachigen Mandanten)
 
 ## Sprach-Erkennung
 

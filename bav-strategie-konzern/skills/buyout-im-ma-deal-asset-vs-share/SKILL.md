@@ -1,6 +1,6 @@
 ---
 name: buyout-im-ma-deal-asset-vs-share
-description: "Pension Liabilities in M&A-Transaktionen: Asset Deal vs Share Deal Paragraph-613a-BGB-Haftungsuebergang ABC-Klauseln in SPAs Garantien Freistellungen Indemnities W-und-I-Versicherung Pension-Due-Diligence und Carve-out-Pensionsstrukturen fuer Konzern-Transaktionen."
+description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Pruefraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung."
 ---
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal
@@ -213,3 +213,8 @@ EMPFEHLUNG:
 - → `psv-pensionssicherungsverein-und-haftungsketten` — § 613a und PSV
 - → `pension-buyout-strukturierung-und-de-risking` — Buyout als Post-Closing-Maßnahme
 - → `drei-stufen-theorie-eingriffsanalyse` — historische Eingriffe als DD-Befunde
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 17.11.2021 — 10 AZR 174/20**, NZA 2022, 263 — Haftungsuebergang bei Betriebsuebergang nach § 613a BGB; bisheriger Arbeitgeber haftet neben Erwerber gesamtschuldnerisch fuer vor Uebergang entstandene Versorgungsansprueche.
+- **BAG, Urt. v. 10.09.2019 — 3 AZR 401/17**, NZA 2020, 91 — Versorgungsordnung als kollektive Regelung; beim Asset Deal gehen Betriebsvereinbarungen als solche nicht ueber, aber ihre Inhalte werden individualvertraglich fortgefuehrt (§ 613a Abs. 1 S. 2 BGB); Sperrfrist ein Jahr.

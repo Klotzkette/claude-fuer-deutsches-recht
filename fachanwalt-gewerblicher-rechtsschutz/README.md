@@ -1,6 +1,6 @@
 # Fachanwalt Gewerblicher Rechtsschutz
 
-Light-Touch-Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG, DesignG, UWG, PatG/GebrMG, UrhG-Bezüge. Markenanmeldung DPMA und EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung, Verletzungsklage, lizenzanaloger Schadensersatz.
+Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG, DesignG, UWG, PatG/GebrMG, UrhG-Bezüge. Markenanmeldung DPMA und EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung, Verletzungsklage, lizenzanaloger Schadensersatz.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

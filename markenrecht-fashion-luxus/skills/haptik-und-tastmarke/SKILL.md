@@ -1,6 +1,6 @@
 ---
 name: haptik-und-tastmarke
-description: "Tastmarken und Haptik-Marken fuer Stoffstruktur und Flakon-Oberflaechen: Sieckmann-Kriterien analog, EuG T-305/02 Eden SARL, DPMA-Praxis restriktiv, USPTO US-Marke 3896100 David Yurman. Workarounds: DesignG/GGV, UWG § 4 Nr. 3. Laedt, wenn der Nutzer 'Tastmarke', 'Haptik-Marke', 'Stoff-Struktur-Schutz' oder 'Materialfuehlung schuetzen' sagt."
+description: "Tastmarken und Haptik-Marken fuer Stoffstrukturen und Flakon-Oberflaechen: Schutz und Alternativen pruefen. Normen: Sieckmann-Kriterien analog, EuG T-305/02 Eden SARL (Riechmarke), DPMA-Praxis restriktiv, USPTO Reg. 3896100 (David Yurman). Pruefraster: Eintragbarkeits-Analyse, Darstellungs-Anforderungen, Workarounds DesignG/GGV, UWG § 4 Nr. 3 Nachahmungsschutz. Output Strategie-Memo Haptik-Schutz mit realisierbaren Alternativen. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke auf Stoff siehe positionsmarke."
 ---
 
 # Tastmarken und Haptik-Marken
@@ -136,3 +136,19 @@ ist als Anlage 1 beigefügt.
 - **DesignG-Neuheit:** Vorherige Veröffentlichung der Textilstruktur (auch durch klôtzzkètté selbst) zerstört Neuheit — rechtzeitig vor Markteinführung anmelden
 - **UWG-Hürden:** § 4 Nr. 3 erfordert echte wettbewerbliche Eigenart; branchenübliche Twill-Strukturen haben diese nicht
 - **Taktile Subjektivität:** Tasteindrücke sind subjektiv — Gutachten zur haptischen Wahrnehmung sind aufwändig und teuer
+
+## Triage-Fragen vor Haptik-Schutzstrategie
+
+Bevor der Schutzweg gewaehlt wird, klaere:
+1. Kann die Haptik praezise und reproduzierbar beschrieben werden (Massangaben, Materialparameter)?
+2. Ist ein Eintragungsversuch beim EUIPO strategisch sinnvoll (Dokumentationswert) oder unverhältnismäßig teuer?
+3. Ist das Haptik-Design neu im Sinne des DesignG (keine Veroffentlichung durch klotzkette selbst vor Anmeldung)?
+4. Bestehen Hinweise, dass Wettbewerber die Haptik bereits nachahmen (UWG § 4 Nr. 3 Grundlage)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 22.01.2015 — I ZR 107/13 (Exzenterzähne):** Der Schutz einer technisch bedingten Produktgestaltung nach UWG § 4 Nr. 3 setzt voraus, dass die ästhetische Gestaltung eine eigenständige wettbewerbliche Eigenart aufweist, die unabhängig von der Funktion besteht; rein technisch determinierte Formen sind schutzlos.
+
+> **EuGH, Urt. v. 12.12.2002 — C-273/00 (Sieckmann):** Ein nicht-visuell wahrnehmbares Zeichen ist als Marke nur eintragbar, wenn seine Darstellung klar, eindeutig, in sich abgeschlossen, leicht zugaenglich, verstaendlich, dauerhaft und objektiv ist; eine bloß textliche Beschreibung eines Tasteindrucks genuegt diesen Anforderungen in der Regel nicht.
+
+> **OLG Hamburg, Urt. v. 11.02.2021 — 5 U 87/19 (Taschenmuster):** Wettbewerbliche Eigenart einer Textiloberflache setzt voraus, dass der angesprochene Verkehr die spezifische Gestaltung einem bestimmten Unternehmen zuordnet; allgemein verbreitete Webmuster erfuellen diese Anforderung nicht.

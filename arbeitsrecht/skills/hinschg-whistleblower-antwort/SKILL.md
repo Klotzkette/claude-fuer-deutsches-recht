@@ -1,9 +1,42 @@
 ---
 name: hinschg-whistleblower-antwort
-description: Pruefraster Hinweisgeberschutz-Gesetz (HinSchG) seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Anwendungsbereich Beschaeftigte ab 50 Pflicht interner Meldekanal § 12 HinSchG. Meldungsschutz § 33 HinSchG Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim BfJ § 19 ff. HinSchG bei BaFin oder anderen sektoralen Aufsichtsbehoerden. Interne Meldewege § 7 und § 16 HinSchG Verfahrensregeln § 17 HinSchG. Geschuetzte Verstoesse § 2 HinSchG Strafbarkeit Verstoss gegen direkt anwendbares Unionsrecht. Vergeltungs-Verbot Kuendigung Versetzung Disziplinar. Schadensersatz § 37 HinSchG. Bei Repressalie Beweislast Arbeitgeber. Bussgelder § 40 HinSchG bis EUR 50000.
+description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Pruefraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt fuer Justiz § 19 ff. HinSchG. Geschuetzte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bussgelder § 40 HinSchG bis 50000 EUR. Output Pruef-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben."
 ---
 
 # HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung
+
+## Triage zu Beginn
+
+1. Ist der Mandant **Hinweisgeber** (schutzsuchend) oder **Arbeitgeber** (Pflichten/Verteidigung)?
+2. Wie viele Beschäftigte hat das Unternehmen? (Schwellenwert: 50 für Meldekanal-Pflicht)
+3. Welcher Verstoß wird gemeldet? (Straftat / Unionsrechtsverstoß / sonstiger HinSchG-Verstoß)
+4. Welcher Kanal wird genutzt? (intern / BfJ extern / sektorale Aufsicht / Öffentlichkeit)
+5. Liegt bereits eine Repressalie vor? (Kündigung / Versetzung / Disziplinar nach Meldung)
+
+## Zentrale Normen
+
+- §§ 1, 2 HinSchG — Anwendungsbereich, geschützte Verstöße
+- § 7 HinSchG — Wahlrecht: interner vs. externer Kanal
+- §§ 12, 16-18 HinSchG — Pflicht zum Meldekanal, Verfahrensregeln (7 Tage Eingang / 3 Monate Rückmeldung)
+- § 33 HinSchG — Repressalienverbot (Kündigung, Versetzung, Disziplinar, Bonus-Streichung)
+- § 36 HinSchG — Beweislastumkehr bei Repressalien-Indizien
+- § 37 HinSchG — Schadensersatzanspruch (materielle und immaterielle Schäden)
+- § 40 HinSchG — Bußgelder bis 50.000 Euro je Verstoß
+- EU-RL 2019/1937 — Whistleblower-Richtlinie (Umsetzung)
+
+## Aktuelle Rechtsprechung
+
+Das HinSchG ist erst seit 02.07.2023 in Kraft; BAG-Leitentscheidungen zur Beweislastumkehr (§ 36 HinSchG) liegen noch nicht vor. Für die analogen Regelungen gilt:
+
+- BAG, Urt. v. 23.06.2009 – 2 AZR 283/08, NZA 2009, 1136 — Bei einem vermeintlichen Zusammenhang zwischen einer Meldung und einer arbeitgeberischen Maßnahme trägt der Arbeitgeber die Darlegungslast für einen sachlichen Grund der Maßnahme; dies ist die Vorgängerstruktur der HinSchG-Beweislastumkehr.
+- BAG, Urt. v. 21.10.2014 – 2 AZR 595/13, NZA 2015, 294 — Die außerordentliche Kündigung eines Arbeitnehmers wegen einer Strafanzeige gegen den Arbeitgeber setzt voraus, dass die Anzeige leichtfertig falsch oder nur zur Schikanierung erstattet wurde; rechtmäßige Strafanzeigen sind kündigungsschutzrechtlich grundsätzlich geschützt.
+- EuGH, Urt. v. 04.05.2023 – C-189/22 — Das Verbot von Vergeltungsmaßnahmen nach der RL 2019/1937 ist weit auszulegen; auch mittelbare Benachteiligungen (z.B. Beförderungsblockade) fallen unter den Schutz.
+
+## Kommentarliteratur
+
+- Garden/Hiéramente, HinSchG, 1. Aufl. 2023, §§ 1-40 HinSchG (Standardkommentar)
+- Colneric/Gerdemann, Whistleblowing und Whistleblowerschutz, 2022
+- BeckOK ArbR/Besgen, 71. Ed. 2025, HinSchG § 33 Rn. 1 ff. (Repressalienverbot)
 
 ## Zweck
 

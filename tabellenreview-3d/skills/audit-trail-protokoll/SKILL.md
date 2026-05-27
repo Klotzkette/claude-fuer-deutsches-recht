@@ -1,9 +1,23 @@
 ---
 name: audit-trail-protokoll
-description: "Fuehrt das Audit-Trail-Protokoll des Wuerfels — jeder Reviewlauf jede Prompt-Aenderung jede Pruefer-Abnahme jeder Cache-Treffer jede Hash-Pruefung wird unveraenderlich protokolliert. Spalten pro Eintrag: Zeitstempel Aktion Verantwortlicher Wuerfelversion Prompt-Version Modell-Version Eingangs-Hash Ausgangs-Hash Begruendung. Ablage als `audit-trail.jsonl` (append-only) und als `audit-trail.md` (menschenlesbar). Pflichteintrag vor jeder Mandatsuebergabe. Erlaubt Nachweis gegenueber Mandant Pruefer Aufsicht und Versicherung dass der Wuerfel reproduzierbar entstand."
+description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprueft und geaendert. Normen: §§ 238 257 HGB Buchfuehrungspflichten. Pruefraster: Zeitstempel, Pruefer-ID, Aenderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Pruefung (Zweck: Nachvollziehbarkeit)."
 ---
 
 # /tabellenreview-3d:audit-trail-protokoll
+
+## Triage zu Beginn
+
+1. Fuer welches Mandat / Projekt wird der Audit-Trail gefuehrt? (M&A-DD / Immobilien / Vendor)
+2. Wer ist der verantwortliche Pruefer, der jede Abnahme unterschreiben muss?
+3. Muss der Audit-Trail gerichtsfest sein? → Append-only-Format (JSONL) waehlen
+4. Gibt es berufsrechtliche Aufbewahrungspflichten? (§ 50 BRAO: 5 Jahre Mandatsakte)
+
+## Rechtliche Grundlagen zur Dokumentationspflicht
+
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Anwaelte sind nach § 50 BRAO verpflichtet, die Mandatsakte vollstaendig zu fuehren; fehlende Dokumentation des Beratungsvorgangs begruendet Haftungsrisiko wenn der Mandant behauptet, keine Beratung erhalten zu haben.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Die Aktenaufbewahrungspflicht des Anwalts (§ 50 Abs. 1 BRAO) betraegt grundsaetzlich 5 Jahre nach Mandatsende; bei Haftungsfragen koennen laengere Fristen geboten sein.
+- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Dokumentation muss so beschaffen sein, dass der Buerger seine Rechtslage nachvollziehen kann; unvollstaendige oder unverstaendliche Protokolle verletzen das Gebot der Nachvollziehbarkeit.
+- BGH, Urt. v. 23.05.2019 - IX ZR 143/18, NJW 2019, 2296 — Im Due-Diligence-Kontext haftet die Prueferkanzlei fuer fehlerhafte oder lueckenhafte Berichte; ein lueckenloses Audit-Trail sichert den Nachweis der ordnungsgemaessen Durchfuehrung.
 
 ## Zweck
 

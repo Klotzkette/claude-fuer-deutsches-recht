@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-1-abs-3-baugb
-description: Pruefung der staedtebaulichen Erforderlichkeit Paragraf 1 Abs. 3 S. 1 BauGB als materielle Wirksamkeitsvoraussetzung des Bebauungsplans. Bauleitplaene sind aufzustellen sobald und soweit es fuer die staedtebauliche Entwicklung und Ordnung erforderlich ist. Planrechtfertigung verlangt nachvollziehbares staedtebauliches Konzept. Gefaelligkeitsplanung zugunsten eines Privaten ist regelmaessig unzulaessig. Vorhabenbezogener B-Plan Paragraf 12 BauGB nicht automatisch Gefaelligkeitsplanung aber Vorfestlegungsindiz pruefen. Negativplanung als Verhinderungsplanung problematisch wenn ohne positives Konzept. Reine Investorinitiative ohne Aufnahme in gemeindliches Konzept Gefahr. Massstab BVerwG seit Urteil vom 11.3.1988 4 C 56.84. Strenge Pruefung gegenueber Abwaegungsfehlern Erforderlichkeit ist stets beachtlich und nicht ruegepflichtig nach Paragraf 215 BauGB.
+description: "Mandant greift Bebauungsplan als Gefaelligkeitsplanung oder Verhinderungsplanung an. § 1 Abs. 3 S. 1 BauGB Erforderlichkeit Planrechtfertigung. Pruefraster: nachvollziehbares staedtebauliches Konzept erforderlich Gefaelligkeitsplanung zugunsten Privater unzulaessig Vorhabenbezogener B-Plan Gefahr Negativplanung Verhinderungsplanung. Massstab BVerwG 4 C 56.84. Immer beachtlich nicht ruegepflichtig § 215 BauGB. Output: Erforderlichkeits-Pruefung und Angriffspunkt Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb."
 ---
 
 # Erforderlichkeit § 1 Abs. 3 BauGB
@@ -143,3 +143,13 @@ Die Erforderlichkeit ist die strengste materielle Hürde und kein Abwägungselem
 - BVerwG, Urteil vom 18.12.1990 – 4 C 16.88 (Negativplanung)
 - BVerwG, Urteil vom 27.3.2013 – 4 CN 7.11 (Vorhabenbezogener B-Plan)
 - BVerwG, Urteil vom 26.3.2009 – 4 C 21.07 (Erforderlichkeitsmaßstab)
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 17.12.2002 - 4 C 15.01, BVerwGE 117, 287 Rn. 18 — Eine Negativplanung (Verhinderungsplanung) ist unzulässig wenn kein positives Planungskonzept erkennbar ist und die Planung ausschließlich darauf abzielt, ein bestimmtes Vorhaben zu verhindern; maßgeblich ist die Gesamtschau aus Planentstehungsgeschichte und Begründung.
+- BVerwG, Urt. v. 27.03.2013 - 4 CN 7.11, BVerwGE 146, 170 Rn. 11 — Beim vorhabenbezogenen Bebauungsplan § 12 BauGB ist die städtebauliche Rechtfertigung auch dann gegeben wenn die Initiative vom Vorhabenträger ausging; entscheidend ist das planerische Eigeninteresse der Gemeinde.
+
+## Kommentarliteratur
+
+- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 1 Abs. 3 Rn. 25-60 (Erforderlichkeit systematisch)
+- Hoppe/Bönker/Grotefels Öffentliches Baurecht 5. Aufl., § 4 Rn. 60-90 (Planrechtfertigung)

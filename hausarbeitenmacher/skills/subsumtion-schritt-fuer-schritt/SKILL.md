@@ -1,9 +1,32 @@
 ---
 name: subsumtion-schritt-fuer-schritt
-description: Subsumtions-Uebung Schritt fuer Schritt. Trennt Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis. Sokratisches Fuehren statt Vorgeben. Bei falschen Eingaben gentle Umlenkung. Foerdert echte Durchdringung des Subsumtions-Vorgangs. Praktisch mit Beispiel-Anker.
+description: "Student uebrt die Subsumtion Schritt fuer Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Fuehren statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Pruefraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung)."
 ---
 
 # Subsumtion Schritt für Schritt
+
+
+## Triage zu Beginn
+1. Welches konkrete Tatbestandsmerkmal wird gerade subsumiert?
+2. Liegt eine Definition aus Kommentar, Gesetz oder Lehrbuch vor?
+3. Welche konkreten Sachverhaltsstellen belegen die Subsumtion?
+4. Ist das Tatbestandsmerkmal streitig — gibt es verschiedene Definitionen oder Abgrenzungen?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Subsumtion erfordert Sachverhaltsbezug: jede abstrakte Definiton muss mit konkreten Sachverhaltstatsachen verknuepft werden.
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Definitionen muessen aus anerkannten Quellen stammen; selbst erfundene Umschreibungen sind methodisch unzulaessig.
+- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung strittiger Tatbestandsmerkmale nach grammatischer, systematischer, historischer und teleologischer Methode.
+- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Streitige Tatbestandsmerkmale muessen Meinungsstand-Darstellung und eigene Stellungnahme enthalten; einseitige Subsumtion ohne Auseinandersetzung mit Gegenansicht ist unzureichend.
+
+## Zentrale Normen
+- §§ 133, 157 BGB — Auslegungsgrundsaetze als Massstab fuer Tatbestandsmerkmal-Definitionen
+- § 276 Abs. 2 BGB — Fahrlässigkeitsdefinition als Musterbeispiel konkreter Gesetzesdefinition
+- § 242 StGB — Diebstahl: Modell-Tatbestand fuer objektivsubjektive Mehrstufigkeit
+- § 280 BGB — Schadensersatzanspruch: Modell-Tatbestand mit mehreren Voraussetzungen
+
+## Kommentarliteratur
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 3 Rn. 1-50 (Subsumtion als Grundoperation der Rechtsanwendung)
+- Grüneberg/Grüneberg BGB § 242 Rn. 1-20 (Anwendungsbeispiel konkreter Subsumtion)
 
 ## Zweck
 

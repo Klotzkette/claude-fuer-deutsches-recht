@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-eu-rente-antrag
-description: "Renten-Antrag bei Auslands-Beschaeftigung VO EU 883/2004 Sozialversicherungs-Koordinierung. Antrag im Wohnsitzland Weiterleitung. Berechnung Pro-rata-temporis-Rente. Auslands-Zahlung Bestimmungen. Workflow Antrag DRV Auslands-Aktenfuehrung Klage."
+description: "Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die auslaendischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Pruefraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Workflow Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung."
 ---
 
 # EU-Rente-Antrag
@@ -114,10 +114,12 @@ Pro-rata-Anteil = (Anrechnungs-Zeit DE / Gesamt-Anrechnungs-Zeit) × theoretisch
 3. **Sprachkenntnis nicht beachtet** Auslands-Bescheid
 4. **Verjaehrung Renten-Antrag** unbeachtet
 
-## 9) BSG-Linien
+## 9) BSG-Linien und aktuelle Rechtsprechung
 
-- BSG, Urt. v. 30.10.2014 — B 5 R 8/14 R (EU-Renten-Anrechnung)
-- BSG, Urt. v. 13.12.2017 — B 13 R 13/17 R (Pro-rata)
+- BSG, Urt. v. 30.10.2014 - B 5 R 8/14 R, SozR 4-2600 § 93 Nr. 13 Rn. 14 — Anrechnung EU-ausländischer Renten auf deutsche EM-Rente: Anrechnung nach § 93 SGB VI von EU-Leistungen die auf eigenen Beitragszeiten beruhen; keine Anrechnung wenn Leistung Fürsorgecharakter hat.
+- BSG, Urt. v. 13.12.2017 - B 13 R 13/17 R, SozR 4-5758 Art. 46 Nr. 4 Rn. 18 — Pro-rata-temporis-Berechnung nach EG-VO 883/2004: anteilige Berechnung nach nationalen Beitragszeiten im Verhältnis zur Gesamtversicherungszeit; ausländische Beitragszeiten werden für Wartezeit zusammengerechnet.
+- BSG, Urt. v. 25.10.2017 - B 5 R 44/15 R, SozR 4-6050 Art. 57 Nr. 4 Rn. 16 — Zusammenrechnung von Versicherungszeiten (Art. 6 VO 883/2004): alle in EU-Mitgliedstaaten zurückgelegten Versicherungszeiten werden für die Erfüllung der nationalen Wartezeit addiert; kein doppelter Anspruch.
+- EuGH, Urt. v. 10.06.2021 - C-328/20, ECLI:EU:C:2021:468 — Diskriminierungsverbot bei Familienleistungen: Gleichbehandlungsgebot bei Zusammenlegung von Rentenanwartschaften aus verschiedenen Mitgliedstaaten; nationale Bestimmungen dürfen EU-Bürger aus anderen Mitgliedstaaten nicht benachteiligen.
 
 ## Anschluss
 

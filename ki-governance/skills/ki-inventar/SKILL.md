@@ -265,3 +265,50 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - **Art. 99 KI-VO unterschätzen.** Bußgeldrahmen von bis zu 35 Mio. EUR oder 7 % des
   weltweiten Jahresumsatzes nicht als theoretisch behandeln – im Kontext jeder Klassifizierung
   erwähnen. `[Modellwissen – prüfen]`
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Scoring-System als Hochrisiko-KI nach Anhang III KI-VO — Inventar muss Risikoklasse je System korrekt erfassen.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — erfordert vollstaendige Inventarisierung aller eingesetzten algorithmischen Systeme.
+- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Haftung bei automatisierten Systemen setzt Organisationspflicht voraus — Inventar als Basis der Haftungsdokumentation.
+- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Dokumentation algorithmischer Verwaltungsentscheidungen — Inventarisierungspflicht fuer oeffentliche Stellen aus Transparenzgebot.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation (Nr. 1-8)
+- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber Definitionen
+- Art. 16 ff. KI-VO — Anbieterpflichten (technische Dokumentation, Konformitaetsbewertung)
+- Art. 26 KI-VO — Betreiberpflichten (menschliche Aufsicht, Protokollierung)
+- Art. 99 KI-VO — Bussgeld bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz
+
+## Kommentarliteratur
+- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 3 ff.: Hochrisiko-Klassifikation im KI-Inventar.
+- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 35 Rn. 5: DSFA-Ausloesung bei Hochrisiko-Systemen im Inventar.
+
+## Triage zu Beginn
+1. Ist das Inventar bereits vorhanden oder wird es neu angelegt?
+2. Welche Systeme sind bereits produktiv — und wurden diese nach KI-VO klassifiziert?
+3. Hat das Unternehmen EU-Nexus fuer jedes System (Betreiber/Anbieter in der EU)?
+4. Sind Hochrisiko-Systeme (Anhang III Nr. 1-8) im Inventar — welche Betreiberpflichten (Art. 26 KI-VO) greifen?
+5. Ist fuer jedes System ein Systemeigentuemer benannt?
+
+## Output-Template — KI-System-Inventar
+**Adressat:** KI-Governance-Verantwortlicher — Tonfall: strukturiert-tabellarisch
+```
+KI-SYSTEM-INVENTAR
+[UNTERNEHMEN / NAME MANDANT] — Stand: [DATUM]
+
+| ID | System | Eigentuemer | Status | EU-Nexus | Rolle | Risikoklasse | Naechste Pruefung |
+|---|---|---|---|---|---|---|---|
+| sys-001 | [SYSTEM] | [NAME] | in_produktion | ja | Betreiber | [KLASSE] | [DATUM] |
+| sys-002 | [SYSTEM] | [NAME] | pilotbetrieb | nein | Anbieter | [KLASSE] | [DATUM] |
+
+ZUSAMMENFASSUNG:
+- Hochrisiko (Art. 6 i.V.m. Anhang III): [ANZAHL] Systeme
+- Begrenzt riskant: [ANZAHL] Systeme
+- Minimal riskant: [ANZAHL] Systeme
+- Systeme zur Pruefung in 30 Tagen: [ANZAHL]
+
+AUSSTEHENDE PFLICHTEN:
+- [SYSTEM-ID]: [PFLICHT — Art. X KI-VO — Frist: DATUM]
+
+Stand: [DATUM] — Naechste Vollpruefung: [DATUM]
+```

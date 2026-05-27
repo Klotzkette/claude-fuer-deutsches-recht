@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-abschnitt
-description: "Entwurf eines Schriftsatzabschnitts im Kanzleistil, konsistent mit der Mandatstheorie – jede Tatsache belegt, jede Norm geprüft, jedes Argument an der Theorie verankert. Verwenden, wenn der Nutzer sagt „Entwurf [Abschnitt]\", „schreib den Klagevortrag\", „Berufungsbegründung zu [Punkt]\" oder einen Ersterst-Entwurf eines Schriftsatzabschnitts benötigt."
+description: "Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begruendung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Pruefraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt fuer Einbau in Klageschrift oder Erwiderung. Abgrenzung: nicht vollstaendige Klageschrift."
 ---
 
 # Schriftsatzabschnitt-Entwurf

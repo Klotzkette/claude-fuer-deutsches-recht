@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-orientierung
-description: Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TDDDG (vormals TTDSG) TKG NIS2-Umsetzungsgesetz BSIG n.F. DDG (vormals TMG) DSA Digital Services Act DMA Digital Markets Act EU-KI-VO Verordnung 2024/1689. Open-Source-Compliance. Schnittstelle Plugin datenschutzrecht ki-governance vertragsrecht.
+description: "Orientierung im IT-Recht fuer Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Pruefraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie Standardliteratur und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme."
 ---
 
 # Fachanwalt für Informationstechnologierecht — Orientierung
@@ -68,4 +68,37 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 - **ki-governance** für KI-VO und AIA.
 - **gewerblicher-rechtsschutz** bei Markenrecht IT-Branding.
 - **vertragsrecht** bei SaaS-/Cloud-AGB-Prüfung.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Kontrolle von IT-Verträgen; § 307/309 BGB als zentrale Prüfmaßstäbe für SaaS- und Cloud-Verträge.
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: Drittlandsübermittlungen im IT-Bereich; TIA nach Schrems II ist Standard für alle US-Cloud-Dienstleister.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding), NJW 2024, 248 Rn. 55: KI-VO und DSGVO-Parallelpflichten bei automatisierten Entscheidungssystemen — IT-Recht muss KI-VO-Anforderungen ab 2025 ff. integrieren.
+
+## Triage zu Beginn
+
+1. Welches IT-Rechtsgebiet ist primär einschlägig?
+2. Liegt ein akuter Handlungsbedarf vor (Cyber-Vorfall, laufende Frist)?
+3. Welche anderen Plugins sind einzubeziehen? (datenschutzrecht / ki-governance / fachanwalt-strafrecht)
+4. Fachanwalt IT-Recht: FAO-Pflichtfächer (§ 14b FAO) alle abgedeckt?
+
+## Output-Template — Orientierungs-Übersicht
+
+**Adressat:** Mandant / Kanzlei intern — Tonfall: verständlich-erklärend
+
+```
+IT-Recht Orientierungs-Übersicht [DATUM]
+Sachgebiet: [BEZEICHNUNG]
+Primär einschlägig: [RECHTSGEBIET]
+Sekundär: [QUERVERWEISE]
+
+Wichtige Normen:
+- [NORM] — [KURZBESCHREIBUNG]
+
+Fristen im Blick:
+- [FRIST] bis [DATUM] — [BEZEICHNUNG]
+
+Anschlusskills: [LISTE WEITERFÜHRENDER SKILLS]
+```

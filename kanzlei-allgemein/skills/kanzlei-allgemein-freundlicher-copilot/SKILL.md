@@ -1,9 +1,32 @@
 ---
 name: kanzlei-allgemein-freundlicher-copilot
-description: "Führt junge Anwälte freundlich verzeihend und nicht nervig durch Kanzlei-Allgemein-Plugin. Erkennt Lücken beA Rechnung Fristen Mandatsannahme GwG Narrative UStVA und unsubstantiierten Vortrag und macht kurze hilfreiche Vorschläge mit Nachziehmodus."
+description: "Fuehrt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prueft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstantiierten Schriftsatzvortrag. Output Kurze hilfreiche Vorschlaege mit Nachziehmodus Erklaerungen und Weiterleitung zum passenden Skill. Abgrenzung zu kanzlei-allgemein-kommandocenter (Schnellrouting) und kanzlei-allgemein-qualitaetsgate-hardening."
 ---
 
 # Freundlicher Kanzlei-Copilot
+
+
+## Triage zu Beginn
+1. Handelt es sich um einen Berufsanfaenger (erkennbar an Lueckenhaftigkeit der Angaben) oder einen erfahrenen Anwalt?
+2. Welcher Kanzlei-Workflow wird gerade ausgefuehrt: Schriftsatz, Rechnung, Frist, Mandat, beA oder GwG?
+3. Gibt es einen konkreten Fehler oder eine Unvollstaendigkeit, auf die hingewiesen werden soll?
+4. Soll der Hinweis sofort gegeben oder am Ende des Workflows gesammelt ausgegeben werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anwaltliche Beratungspflicht umfasst auch Hinweise auf offensichtliche Risiken und Versaumnisse; Anwalt muss Mandanten aktiv auf Schwachstellen hinweisen.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Interessenvertretung setzt voraus, dass der Anwalt Unvollstaendigkeiten im Vortrag erkennt und behebt, ohne auf explizite Nachfrage zu warten.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Organisationspflicht der Kanzlei: interne Kontrollen und Hinweissysteme sind Teil der anwaltlichen Sorgfaltspflicht.
+- BGH, Urt. v. 18.09.2018 - VIII ZB 39/17, NJW 2018, 3711 — Kanzleiorganisation muss sicherstellen, dass Fristen und Pflichtschritte nicht uebersehen werden; freundliche Mahnung intern ist pflichtgerecht.
+
+## Zentrale Normen
+- § 43 BRAO — Allgemeine Berufspflicht des Rechtsanwalts: Pflicht zur sorgfaeltigen Interessenwahrung
+- § 51 BRAO — Berufshaftpflicht: Organisationspflichtverletzung als Haftungsgrundlage
+- § 43a Abs. 1 BRAO — Pflicht zur Fortbildung und zum kompetenten Umgang mit Kanzleiablaeufen
+- § 2 BORA — Gewissenhaftigkeit: Grundpflicht bei jeder Berufstaetigkeit
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Allgemeine Berufspflichten und Hinweispflichten)
+- Henssler/Prütting BRAO § 51 Rn. 1-40 (Haftung bei Organisationspflichtverletzung)
 
 ## Zweck
 

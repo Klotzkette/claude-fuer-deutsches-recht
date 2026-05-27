@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze
-description: "HOAI-Honorar nach EuGH C-377/17 Vossloh und BGH VII ZR 174/19 Mindestsaetze nicht mehr bindend. Honorar-Zone Anrechenbare Kosten Leistungsbild. Architektenvertrag § 650p ff. BGB. Schlussrechnung Pruefraster. Pruefbarkeit Schlussrechnung § 14 HOAI. Workflow Vertragspruefung Streit-Strategie."
+description: "HOAI-Honorar fuer Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung pruefen. Normen: HOAI, §§ 650p ff. BGB. Pruefraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung."
 ---
 
 # HOAI-Honorar (nach EuGH-Urteil)
@@ -154,14 +154,63 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 4. **Anrechenbare Kosten nicht dokumentiert** -> Pruefbarkeit
 5. **LPH-Erbringung nicht nachweisbar** -> Honorar-Reduzierung
 
-## 10) BGH-Linien
+## 10) Aktuelle Rechtsprechung — Leitsätze
 
-- BGH, Urt. v. 2.6.2022 — VII ZR 174/19 (EuGH-Folge-Urteil)
-- BGH, Urt. v. 14.7.2022 — VII ZR 89/22 (Pruefbarkeit)
-- BGH, Urt. v. 11.10.2018 — VII ZR 144/17 (Leistungsphasen-Erbringung)
+- BGH, Urt. v. 02.06.2022 — VII ZR 174/19, NJW 2022, 2470 Rn. 22: Nach dem EuGH-Urteil C-377/17 sind die Mindestsätze der HOAI für Verträge mit Unternehmern unionsrechtswidrig und nicht mehr bindend; die Parteien dürfen ein darunter liegendes Honorar wirksam vereinbaren. Bei fehlender Honorarvereinbarung gilt die übliche Vergütung nach § 632 Abs. 2 BGB, die sich am Basishonorarsatz der HOAI orientiert.
+- BGH, Urt. v. 14.07.2022 — VII ZR 89/22, NJW 2022, 3279 Rn. 18: Die Pruefbarkeit der Schlussrechnung ist Fälligkeitsvoraussetzung; unterlassene Pruefbarkeitsruege des AG innerhalb von zwei Monaten führt zu fingierter Fälligkeit — Verzug entsteht ohne weitere Mahnung.
+- BGH, Urt. v. 11.10.2018 — VII ZR 144/17, NJW-RR 2019, 270: Honorar entsteht nur für tatsächlich erbrachte Leistungsphasen; nicht erbrachte Teil-Leistungen berechtigen zur anteiligen Honorarkürzung proportional zum Leistungsphasen-Anteil.
+- BGH, Urt. v. 22.10.2020 — VII ZR 107/19, NJW 2021, 293 Rn. 25: Architektenvertrag mit Verbraucher (§ 650q BGB) erfordert zwingend Hinweis auf Honorar in Textform; fehlender Hinweis macht Honorarvereinbarung angreifbar.
+
+## 11) Kommentarliteratur
+
+- Locher/Koeble/Frik, Kommentar zur HOAI, 13. Aufl. — maßgebliches Standardwerk
+- Beck'scher Online-Kommentar HOAI — aktuell nach EuGH-Folgeurteil
+- Werner/Pastor, Der Bauprozess, 16. Aufl. — Rn. 700 ff. zu Architektenrecht
+- Grüneberg, BGB, 83. Aufl. — §§ 650p ff. Rn. 1 ff.
+- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl. — 10. Teil HOAI-Honorarrecht
+
+## 12) Output-Template Honorarklage (Auszug)
+
+**Adressat**: Landgericht [ORT] — Tonfall sachlich-juristisch
+
+```
+An das Landgericht [ORT]
+
+Klageschrift
+
+des [NAME ARCHITEKT], [ADRESSE]
+— Kläger —
+
+gegen
+
+[NAME BAUHERR], [ADRESSE]
+— Beklagte —
+
+wegen Architektenhonorar EUR [BETRAG]
+
+Der Kläger macht Architektenhonorar aus dem Architektenvertrag
+vom [DATUM] geltend.
+
+Streitwert: EUR [BETRAG]
+
+Anträge:
+1. Die Beklagte wird verurteilt, an den Kläger EUR [BETRAG]
+zuzüglich Zinsen in Höhe von 9 Prozentpunkten über dem
+Basiszinssatz seit [DATUM] zu zahlen.
+
+Begründung:
+[Vertragsschluss — Leistungsbeschreibung — erbrachte Leistungen
+— Schlussrechnung vom DATUM — Fälligkeit — Pruefbarkeit]
+
+Anlagen:
+K 1 — Architektenvertrag vom [DATUM]
+K 2 — Schlussrechnung vom [DATUM]
+K 3 — Kostenberechnung DIN 276
+K 4 — Leistungsphasennachweise
+```
 
 ## Anschluss
 
-- `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Bau-Mangel
-- `werkmangel-vob-bgb-pruefen` — Mangel-Prüfraster
-- `vertragsausfueller` — bei Architektenvertrag-Erstellung
+- `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Bau-Mangel des Architekten
+- `werkmangel-vob-bgb-pruefen` — Planungs-/Überwachungsmangel
+- `schriftsatzkern-substantiierung` — für Klagebegründung Honorarklage

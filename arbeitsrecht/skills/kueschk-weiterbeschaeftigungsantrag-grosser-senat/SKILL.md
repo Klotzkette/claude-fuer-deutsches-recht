@@ -26,6 +26,35 @@ Das Interesse des Arbeitnehmers an tatsächlicher Beschäftigung überwiegt in d
 
 **Wichtig:** Der Weiterbeschäftigungsanspruch entsteht erst **nach erstinstanzlichem Obsiegen**. Vor der Entscheidung des Arbeitsgerichts besteht er grundsätzlich nicht.
 
+## Triage zu Beginn — kläre vor Beratung zum Weiterbeschaeftigungsantrag
+
+1. Hat das Arbeitsgericht die Kündigung bereits erstinstanzlich für unwirksam erklärt?
+2. Besteht ein Betriebsrat, der der Kündigung ordnungsgemäß widersprochen hat (§ 102 Abs. 5 BetrVG)?
+3. Will der Arbeitnehmer tatsächlich in den Betrieb zurück (keine Stricken-Situation)?
+4. Ist eine tatsächliche Beschäftigungsmöglichkeit noch vorhanden (Stelle nicht abgebaut)?
+
+**Entscheidungsbaum Weiterbeschaeftigungsantrag:**
+```
+BR-Widerspruch vorhanden? → § 102 Abs. 5 BetrVG (sofort ab Klage, ohne Ersturteil)
+Erstinstanzlich gewonnen? → BAG GS 1/84 (allgemeiner WBA nach § 611 BGB i.V.m. § 242 BGB)
+Rueckkehr nicht gewünscht? → Kein WBA stellen; § 12 KSchG oder Vergleich prüfen
+Arbeitgeber kann überwiegende Gegeninteressen darlegen? → Antrag abweisbar
+```
+
+## Aktuelle Rechtsprechung
+
+- BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Der Große Senat des BAG anerkennt den allgemeinen Weiterbeschaeftigungsanspruch aus §§ 611, 242 BGB i.V.m. Art. 1, 2 GG; er entsteht nach erstinstanzlichem Obsiegen und erlischt, wenn der Arbeitgeber überwiegende schutzwürdige Interessen darlegt.
+- BAG, Urt. v. 25.10.2012 – 2 AZR 700/11, NZA 2013, 733 — Der Weiterbeschaeftigungsanspruch nach BAG GS 1/84 besteht nicht automatisch; der Arbeitnehmer muss konkrete Umstände vortragen, die das Beschaeftigungsinteresse begründen.
+- BAG, Urt. v. 14.08.2007 – 9 AZR 18/07, NZA 2008, 55 — § 102 Abs. 5 BetrVG gibt dem Arbeitnehmer nach ordnungsgemäßem BR-Widerspruch einen gesetzlichen Weiterbeschaeftigungsanspruch schon ab Klageerhebung; dieser besteht unabhängig vom Ausgang des Verfahrens.
+- BAG, Urt. v. 28.09.2016 – 7 AZR 143/15, NZA 2017, 103 — Vollstreckung des Weiterbeschaeftigungsanspruchs nach § 888 ZPO ist möglich; Zwangsgeld und Zwangshaft können angeordnet werden, wenn der Arbeitgeber die Beschaeftigung ohne berechtigten Grund verweigert.
+
+## Kommentarliteratur
+
+- ErfK/Kiel, 24. Aufl. 2024, § 611 BGB/§ 242 BGB Rn. 5 ff. — (Weiterbeschaeftigungsanspruch, BAG GS 1/84)
+- Fitting, BetrVG, 31. Aufl. 2022, § 102 Rn. 90-110 — (§ 102 Abs. 5 BetrVG, Widerspruch, gesetzlicher WBA)
+- KR/Friedrich, 13. Aufl. 2022, § 611 BGB Rn. 1 ff. — (Allgemeiner WBA, Überblick Rechtsprechung nach 1985)
+- Schaub/Linck, ArbeitsR-HdB, 20. Aufl. 2023, § 140 Rn. 1 ff. — (Weiterbeschaeftigung, Vollstreckung)
+
 ## Unterschied: § 102 Abs. 5 BetrVG
 
 Besteht ein Betriebsrat und hat er der Kündigung ordnungsgemäß widersprochen, hat der Arbeitnehmer nach § 102 Abs. 5 BetrVG einen gesetzlichen Weiterbeschäftigungsanspruch — **sofort ab Klageerhebung**, ohne dass er erstinstanzlich obsiegen müsste.

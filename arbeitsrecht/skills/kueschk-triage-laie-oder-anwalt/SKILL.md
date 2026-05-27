@@ -58,6 +58,29 @@ Du bist dabei, rechtliche Schritte einzuleiten, ohne Anwalt zu sein. Das ist ges
 | Klageschrift Laie | `kueschk-klageschrift-laie-baustein` |
 | Klageschrift Anwalt | `kueschk-klageschrift-anwalt-baustein` |
 
+## Zentrale Normen
+
+- **§ 11 Abs. 1 ArbGG** — Kein Anwaltszwang vor dem Arbeitsgericht erste Instanz
+- **§ 11 Abs. 4 ArbGG** — Anwaltszwang ab Berufung vor dem LAG
+- **§ 4 KSchG** — Drei-Wochen-Klagefrist (absolute Ausschlussfrist)
+- **§ 23 KSchG** — Geltungsbereich KSchG (über 10 Arbeitnehmer)
+- **§ 1 Abs. 1 KSchG** — Wartezeit sechs Monate
+- **§ 43a BRAO** — Dokumentationspflichten für Anwälte (Beratung über Risiken)
+- **§ 626 BGB** — Fristlose Kündigung aus wichtigem Grund (besondere Triage: andere Fristen)
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 22.03.2012 – 2 AZR 224/11, NZA 2012, 1101 — Verpasst der Laie die Drei-Wochen-Frist, gilt die Kündigung nach § 7 KSchG als wirksam; auch wenn die Kündigung tatsächlich rechtswidrig war, ist sie heilbar unwirksam, aber öffentlich-rechtlich als wirksam zu behandeln.
+- BAG, Urt. v. 26.06.2008 – 2 AZR 264/07, NZA 2008, 1182 — Die Fristwahrung des § 4 KSchG erfordert den Eingang der Klageschrift beim Arbeitsgericht, nicht nur deren Absendung; Postlaufzeiten gehen zu Lasten des Klägers.
+- BAG, Urt. v. 19.04.2012 – 2 AZR 469/11, NZA 2013, 154 — Das Gericht hat gem. § 139 ZPO i.V.m. § 46 Abs. 2 ArbGG auf einen auch ohne Anwalt vollständigen Sachvortrag hinzuwirken; dies kann aber das fehlende Rechtswissen des Laien nicht vollständig ausgleichen.
+- BAG, Urt. v. 26.09.2013 – 2 AZR 682/12, NZA 2014, 289 — Auch im Laienverfahren trifft den Arbeitnehmer die Obliegenheit, die Klagefrist selbst zu überwachen; ein Anwaltsfehler kann nur dann zu Wiedereinsetzung führen, wenn ein Mandatsverhältnis bestand.
+
+## Kommentarliteratur
+
+- ErfK/Koch, 24. Aufl. 2024, § 11 ArbGG Rn. 1-10 — (Parteifähigkeit, Vertretung, kein Anwaltszwang)
+- GMP/Germelmann, 9. Aufl. 2017, § 11 ArbGG Rn. 5 ff. — (Parteifähigkeit Laie, Überblick)
+- Schaub/Linck, ArbeitsR-HdB, 20. Aufl. 2023, § 176 Rn. 1 ff. — (Kündigungsschutzklage, Triage-Fragen in der Mandatsannahme)
+
 ## Keine Vorwegnahme des Ergebnisses
 
 Der Skill liefert noch keine inhaltliche Prüfung der Kündigung. Er stellt ausschließlich die Weichenfrage, welche den gesamten nachfolgenden Workflow prägt.

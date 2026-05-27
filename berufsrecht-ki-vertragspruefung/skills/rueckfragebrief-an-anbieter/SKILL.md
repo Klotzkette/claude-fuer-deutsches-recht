@@ -92,3 +92,72 @@ Vollständiger Briefentwurf im Markdown. PDF-Export möglich.
 ## Disclaimer im Brief
 
 Der Brief ist eine berufsrechtliche und strafrechtliche Anfrage, keine zivilrechtliche Geltendmachung. Eine zivilrechtliche oder gar strafrechtliche Geltendmachung ist im Streitfall einem spezialisierten Rechtsanwalt vorbehalten.
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: Vertragsklauseln, die den Anbieter nicht eindeutig an berufsrechtliche Anforderungen binden, sind im Zweifel eng auszulegen — daher müssen Klauseln im Vertragstext stehen, nicht nur in FAQs oder Trust-Center-Versprechen.
+- BGH, Urt. v. 19.03.2019 — XI ZR 9/18, NJW 2019, 2080 Rn. 45: Textformklausel nach § 126b BGB; schriftliche Rückfrageantworten des Anbieters erfüllen Textform und können als vertragliche Zusicherungen gewertet werden.
+- OLG Köln, Urt. v. 14.01.2020 — 19 U 93/19, NJW-RR 2020, 678 Rn. 22: Zur Haftung für unrichtige vorvertragliche Angaben; Anbieterauskünfte im Rückfrageverfahren können vorvertragliche Aufklärungspflichten nach §§ 241 Abs. 2, 311 Abs. 2 BGB begründen.
+- BGH, Urt. v. 08.10.2020 — III ZR 1/20, NJW 2021, 156 Rn. 38: Zum Vorrang verhandelter Individualklauseln (§ 305b BGB) gegenüber AGB; Rückfrageantworten können zu Individualvereinbarungen werden, wenn sie konkret und für den Vertrag bindend sind.
+
+## Zentrale Normen (Paragrafenkette)
+
+- §§ 241 Abs. 2, 311 Abs. 2 BGB — Vorvertragliche Aufklärungspflichten
+- § 305b BGB — Vorrang der Individualabrede
+- § 126b BGB — Textform
+- § 43e Abs. 3 BRAO, § 62a Abs. 3 StBerG etc. — Vertragsinhalt der Dienstleisterregelung
+
+## Kommentarliteratur
+
+- Grüneberg/Grüneberg BGB, 83. Aufl. 2024, § 305b Rn. 1–15: Zum Vorrang von Individualabreden; wie Rückfrageantworten Vertragsbestandteil werden.
+- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 30–45: Pflichtinhalte des Dienstleistervertrags; was schriftlich (Textform) festgehalten werden muss.
+
+## Triage zu Beginn
+
+1. Welche Lücken hat die bisherige Vertragsprüfung ergeben (Ampel: gelb/rot)?
+2. Welche Fragen sind klärungsbedürftig (Subunternehmer, Training, Drittstaat)?
+3. Ist ein Fristdruck vorhanden (laufende Pilotprojekte, Vertragsbeginn)?
+4. Soll die Antwort des Anbieters als vertragliche Zusicherung eingestuft werden?
+
+## Output-Template — Rückfragebrief
+
+**Adressat:** KI-Anbieter — Tonfall: sachlich-präzise, fristsetzend
+
+```
+[KANZLEINAME]
+[ANSCHRIFT]
+[DATUM]
+
+An: [ANBIETER, RECHTSABTEILUNG / DATENSCHUTZTEAM]
+Betr.: Rückfrageverfahren berufsrechtliche Compliance — [PRODUKTNAME]
+Unser Aktenzeichen: [AZ]
+
+Sehr geehrte Damen und Herren,
+
+wir pruefen den Einsatz von [PRODUKT] in unserer Kanzlei im Hinblick auf die 
+berufsrechtlichen Anforderungen nach § [NORM] [GESETZ] sowie §§ 203, 204 StGB.
+Dazu bitten wir um Beantwortung der folgenden Fragen bis zum [FRIST + 14 TAGE]:
+
+Frageblock 1 — Verschwiegenheit
+F1: Sind Ihre Mitarbeiter und alle Subunternehmer in Textform zur Verschwiegenheit 
+    ueber alle von uns eingegebenen Daten verpflichtet?
+F2: Gilt diese Verpflichtung auch nach Vertragsende zeitlich unbegrenzt?
+
+Frageblock 2 — Subunternehmer
+F3: Welche Subunternehmer (Modellanbieter, Hoster, Support-Dienstleister) haben 
+    Zugriff auf von uns eingegebene Daten?
+    Bitte vollstaendige Liste: Name, Sitz, Funktion, Verarbeitungsstandort.
+F4: Werden wir vor Wechsel oder Hinzunahme von Subunternehmern vorab in Textform 
+    informiert?
+
+Frageblock 3 — Training und Drittstaat
+F5: Werden von uns eingegebene Daten zu Trainingszwecken genutzt? 
+    (Auch aggregiert oder anonymisiert?)
+F6: Wo werden unsere Daten verarbeitet und gespeichert? 
+    Werden US-Server oder US-Subunternehmer eingesetzt (CLOUD-Act-Risiko)?
+
+Wir bitten um Beantwortung in Textform.
+
+Mit freundlichen Gruessen
+[UNTERSCHRIFT]
+```

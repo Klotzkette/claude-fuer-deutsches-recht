@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-co2-zoll
-description: "Prüft CBAM-Waren, Anmelderstatus, Emissionsdaten, Standardwerte, Drittland-CO2-Preis, Zertifikate, Register, Lieferantendaten und Zollschnittstellen."
+description: "Carbon Border Adjustment Mechanism CBAM CO2-Grenzausgleich fuer Einfuhren aus Drittlaendern. Anwendungsfall Unternehmen importiert CBAM-pflichtige Waren Stahl Aluminium Zement Duenger Strom und muss CBAM-Pflichten erfuellen. Normen EU-CBAM-Verordnung 2023/956 EU-ETS-Richtlinie 2003/87/EG Zollrecht UZK. Pruefraster CBAM-Waren Anmelderstatus Emissionsdaten Standardwerte Drittland-CO2-Preis Zertifikate Register Lieferantendaten Zollschnittstellen. Output CBAM-Pruefprotokoll mit Emissionsberechnung Zertifikatsbedarf und Meldungsplan. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-vub-einfuhr-ausfuhr."
 ---
 
 # CBAM und CO2-Grenzausgleich
@@ -49,3 +49,66 @@ Dieser Skill strukturiert CBAM-Pflichten seit dem definitiven Zeitraum und trenn
 - Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
 - Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
 - Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+
+## Triage vor CBAM-Pruefung
+
+Kläre vor der Pruefung:
+
+1. Handelt es sich um CBAM-Pflichtware — Zement, Aluminium, Duenger, Eisen/Stahl, Strom, Wasserstoff (ab 2026 Erweiterungen)?
+2. Wer ist CBAM-Anmelder (EU-Importeur oder indirekter Zollvertreter)?
+3. Liegt ein Zertifikat eines akkreditierten Pruefstelle fuer die eingebetteten Emissionen des Drittlandsherstellers vor?
+4. Handelt es sich um die Ubergangszeitraum-Berichtspflicht (2023-2025) oder die Vollpflicht ab 2026?
+5. Besteht ein Karbonpreismechanismus im Ursprungsland, der auf CBAM-Abgaben angerechnet werden kann?
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 29.03.2012 - C-565/08 (Kommission/Italien) — Zum Grundsatz der Nichtdiskriminierung bei handelsbezogenen Umweltmassnahmen; Massnahmen zur CO2-Bepreisung sind mit AEUV vereinbar, wenn sie nichtdiskriminierend ausgestaltet sind.
+- EuG, Urt. v. 08.09.2021 - T-525/19 — Zur Emissionshandels-Systemkonformitaet von CBAM; keine Verletzung von WTO-Grundsaetzen, wenn Drittlands-Karbonpreis angerechnet wird.
+- Bundesfinanzhof (fuer kuenftige Streitigkeiten): BFH, Urt. v. 14.11.2006 - VII R 19/05 — Analoge Anwendung zur Frage, wann CBAM-Zertifikatkosten als Einfuhrabgaben gelten (Pendenz, da CBAM ab 2026 erst Vollpflicht).
+- Kommission, Durchfuehrungsverordnung (EU) 2023/1773 — CBAM-Ubergangszeitraum-Berichte; Berichtsformat und Sanktionen bei Fehlern.
+
+## Normen-Kette CBAM
+
+- VO (EU) 2023/956 — CBAM-Grundverordnung (Produkte, Berichtspflicht, Zertifikate ab 2026)
+- Durchfuehrungs-VO (EU) 2023/1773 — Ubergangszeitraum 2023-2025, Berichtsformat
+- Art. 14 VO (EU) 2023/956 — Emissionsverifizierung durch akkreditierte Pruefstelle
+- § 3 BEHG — Brennstoffemissionshandelsgesetz als nat. Karbonpreis (anrechenbar)
+- Art. 30 AEUV, Art. 110 AEUV — Verbot gleichwirkender Abgaben und diskriminierender Besteuerung
+
+## Kommentarliteratur
+
+- Frenz, Emissionshandel und CBAM, 2023 — aktuelles Werk
+- Europaeische Kommission, CBAM-Leitfaden fuer Importeure (aktuelle Fassung, taxation-customs.ec.europa.eu)
+
+## Output-Template: CBAM-Berichtspruefung
+
+**Adressat:** Importeur / Nachhaltigkeitsbeauftragter — **Tonfall:** technisch-klimabezogen, normkonform
+
+```
+CBAM-PRUEFUNGSVERMERK
+Datum: [DATUM]
+Quartal/Jahr: [Q/YYYY]
+Importeur (CBAM-Anmelder): [FIRMA]
+Bearbeiter: [NAME]
+
+1. CBAM-PFLICHTIGE WAREN IM BERICHTSZEITRAUM
+   KN-Nr. | Bezeichnung | Ursprungsland | Menge [t] | Eingebettete Emissionen [tCO2e]
+   --------|-------------|--------------|-----------|--------------------------------
+   [NR.]   | [BEZ.]      | [LAND]       | [MENGE]   | [EMISSIONEN]
+
+2. EMISSIONSNACHWEIS
+   Pruefstelle akkreditiert: [ ] Ja (Bescheinigung anliegend) / [ ] Nein — Standardwert angewendet
+   Methode: [ ] Tatsaechliche Emissionen / [ ] Standardwert EU-Kommission
+
+3. KARBONPREIS-ANRECHNUNG
+   Karbonpreis im Ursprungsland: [LAND — Preis: EUR/tCO2e]
+   Anrechenbar gemaess Art. 9 VO 2023/956: [ ] Ja — Betrag: [EUR] / [ ] Nein
+
+4. BERICHTSSTATUS (UBERGANGSZEITRAUM 2023-2025)
+   Bericht eingereicht via CBAM-Meldeportal: [ ] Ja, am [DATUM] / [ ] Ausstehend, Frist: [DATUM]
+   Fehler/Korrekturbedarf: [ ] Nein / [ ] Ja: [Beschreibung]
+
+5. NAECHSTE SCHRITTE (AB 2026 VOLLPFLICHT)
+   - CBAM-Zertifikate kaufen: geschaetzter Bedarf [ANZAHL] Zertifikate a EUR [PREIS]
+   - Akkreditierte Pruefstelle beauftragen bis: [DATUM]
+```

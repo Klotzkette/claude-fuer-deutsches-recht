@@ -1,6 +1,6 @@
 ---
 name: anfechtungsrechte-pruefen
-description: Pruefraster fuer Insolvenzanfechtungs-Rechte §§ 129 ff. InsO. Strukturierte Pruefung der einzelnen Anfechtungstatbestaende kongruente Deckung § 130 inkongruente Deckung § 131 unmittelbar nachteilige Rechtshandlung § 132 vorsaetzliche Benachteiligung § 133 unentgeltliche Leistung § 134 Gesellschafterdarlehen-Rueckgewaehr § 135. Pruefung Anfechtungs-Frist drei Monate / zehn Jahre Ausschluss bei Bargeschaeft § 142 InsO Mantelmindergebote. Berechnet Anfechtungs-Ansprueche gegen Anfechtungs-Gegner Folge-Beweislast bei Insolvenzverwalter Folge Hin- und Herwirkung Forderungsanmeldung.
+description: "Insolvenzverwalter klagt auf Rueckgewaehr einer Zahlung vor Insolvenz oder Glaeubiger muss Insolvenzanfechtung abwehren. Pruefraster §§ 129 ff. InsO kongruente Deckung § 130 inkongruente Deckung § 131 vorsaetzliche Benachteiligung § 133 unentgeltliche Leistung § 134 Gesellschafterdarlehen § 135. Anfechtungsfrist drei Monate bis zehn Jahre Bargeschaefts-Privileg § 142 InsO. Berechnung Anfechtungsansprueche Beweislast Hin- und Herwirkung Forderungsanmeldung. Output Anfechtungs-Pruef-Memo mit Tatbestands-Checkliste Betrag und Verteidigungslinien. Abgrenzung: vorsatzanfechtung-133-inso fuer vertiefte § 133-Pruefung."
 ---
 
 # Insolvenzanfechtungsrechte prüfen
@@ -189,3 +189,19 @@ Das wichtigste Werkzeug des Insolvenzverwalters zur Massevermehrung. Bei Mandant
 - Uhlenbruck InsO
 - Münchener Kommentar InsO (Schmidt/K. Schmidt)
 - HK-InsO
+
+
+## Triage — Anfechtungs-Erstcheck
+
+Bevor losgelegt wird, klaere:
+
+1. **ZU-Datum?** Tag der Zahlungsunfaehigkeit exakt festlegen (BGH IX ZR 123/04 10%-Schwelle).
+2. **Verjährung § 146 InsO?** 3 Jahre ab Kenntnis des IV, max. 10 Jahre ab Rechtshandlung — Frist sofort prufen!
+3. **Nahestehende Person § 138 InsO?** Gesellschafter >25%, GF, Ehegatte → Beweislastumkehr zugunsten IV.
+4. **Bargeschaeft § 142 InsO?** Gleichwertige Gegenleistung zeitgleich (max. 30 Tage)? BGH IX ZR 3/12.
+5. **Vorsatz § 133 InsO?** Nach SanInsFoG-Reform: konkrete Bedrohungslage, nicht bloss drohende ZU.
+
+## Weitere Leitentscheidungen
+
+- BGH, Urt. v. 06.04.2006 — IX ZR 185/04, NZI 2006, 416 — kongruente Deckung § 130 InsO: Gesamtbild wirtschaftliche Verhaeltnisse; Zahlungseinstellung als ZU-Indiz.
+- BGH, Urt. v. 24.09.2009 — IX ZR 62/09, NZI 2010, 30 — Kenntnis ZU § 130: GF der Schuldnerin muss ZU-Schluss gezogen haben; allg. finanzielle Schwierigkeiten reichen nicht.

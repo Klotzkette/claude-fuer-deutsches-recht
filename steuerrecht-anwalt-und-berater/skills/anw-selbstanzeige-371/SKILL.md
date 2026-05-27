@@ -1,6 +1,6 @@
 ---
 name: anw-selbstanzeige-371
-description: Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung. Pruefraster Vollstaendigkeit aller unverjaehrten Steuerstraftaten binnen zehn Jahren (§ 376 AO ggf. 15 Jahre). Sperrgruende § 371 Abs. 2 AO. Nachentrichtung § 371 Abs. 3 AO mit Zinsen § 235 AO und gestaffeltem Zuschlag § 398a AO. Abgrenzung § 153 AO (Berichtigungspflicht — KEINE Strafbefreiung) zu § 371 AO (Vorsatz) und § 378 Abs. 3 AO (Leichtfertigkeit). Erzeugt Berichtigungserklaerung. Hoechstrisikobereich — Pflichtpruefung mehrere Anwaelte.
+description: "Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollstaendigkeit aller unverjaehrten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 Jahre Sperrgruende § 371 Abs. 2 AO Nachentrichtung § 371 Abs. 3 AO Zinsen § 235 AO Zuschlag § 398a AO gestaffelt. Abgrenzung § 153 AO Berichtigungspflicht ohne Strafbefreiung zu § 371 AO Vorsatz und § 378 Abs. 3 AO Leichtfertigkeit. Output Berichtigungserklaerung. Pflichtpruefung Hoechstrisikobereich mehrere Anwaelte."
 ---
 
 # Selbstanzeige nach § 371 AO

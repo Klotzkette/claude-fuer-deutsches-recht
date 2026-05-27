@@ -87,3 +87,19 @@ Familientabelle als strukturiertes YAML/JSON an `freedom-to-operate-recherche` o
 ## Disclaimer
 
 > **Hinweis zur Familienanalyse.** Diese Patentfamilien-Analyse beruht auf INPADOC-Daten und ist eine KI-gestützte Vorrecherche. Datenlücken sind insbesondere bei JP- CN- KR- und einzelnen weiteren Aemtern möglich. Continuation- und Teilanmeldungen können anhängig sein, ohne dass sie schon veröffentlicht sind. Die Familie kann durch Anmelderwechsel verschoben sein. Die finale Familie- und Rechtsstandsbewertung muss durch direkte Recherche in den nationalen Registern abgesichert werden.
+
+## Triage-Fragen vor Patentfamilien-Analyse
+
+Bevor die Familienanalyse begonnen wird, klaere:
+1. Ist das Ausgangsdokument (Stammanmeldung oder Hauptpatent) korrekt identifiziert?
+2. Sind Continuation-, Divisional- und CIP-Anmeldungen (US) oder Teilanmeldungen (EP) beruecksichtigt?
+3. Wurden JP, CN, KR-Familienmitglieder direkt in den nationalen Registern nachgeprueft (INPADOC-Luecken)?
+4. Gibt es ein Einheitliches Patent (UP) unter dem EP-Patent — wenn ja, welche Staaten sind abgedeckt?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 04.04.2006 — X ZR 155/03 (Ruckwirkung Prioritaet):** Die Prioritaet einer Erstanmeldung wirkt auf das Anmelde- und Prioritaetsdatum der Stammanmeldung zurueck; alle Familienmitglieder teilen dieses frueheste Prioritaetsdatum, was fuer die Neuheitspruefung von Wettbewerber-Rechten relevant ist.
+
+> **EPA, Erweiterte Beschwerdekammer, G 2/10 (Teilanmeldung):** Eine EP-Teilanmeldung kann nur Gegenstande umfassen, die in der Stammanmeldung zum Zeitpunkt der Einreichung der Teilanmeldung offenbart waren; neue Merkmale koennen nicht nachtraeglich in eine Teilanmeldung eingefuehrt werden.
+
+> **BGH, Urt. v. 15.02.2010 — X ZR 76/08 (PCT-Phase):** Ein PCT-Patent erhält erst nach nationaler/regionaler Phaseneintritts-Erteilung Verbietungswirkung; waehrend der internationalen Phase nach PCT besteht kein unmittelbares Schutzrecht, sondern nur ein Anwartschaftsrecht.

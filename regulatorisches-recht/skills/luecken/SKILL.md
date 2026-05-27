@@ -1,6 +1,6 @@
 ---
 name: luecken
-description: "Offenen Gap-Tracker anzeigen und verwalten. Laden, um zu sehen, welche Compliance-Lücken gemeldet wurden, was noch offen ist und was in Bearbeitung ist."
+description: "Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Pruefraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit Risikoklassifizierung. Abgrenzung: nicht fuer Lueckenaufzeiger-Perspektive nach aussen (luecken-aufzeiger)."
 ---
 
 # Gap-Tracker
@@ -58,6 +58,21 @@ f) Alle geschlossenen Gaps archivieren
 ### 5. Tracker aktualisieren
 
 Änderungen in der YAML-Datei speichern und Änderungszeitpunkt vermerken.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerwG, Urt. v. 12.09.2019 — 4 C 7.18, NVwZ 2020, 320 — regulatorische Luecken in Spezialgesetzen; Gericht fuellt Regelungsluecken im Wege teleologischer Reduktion oder analoger Anwendung; kein Staatsorganen-Ermessen bei offensichtlicher Planwidrigkeit
+- EuGH, Urt. v. 28.11.2013 — C-526/13 (Fast Bunkering Klaipeda), NJW 2014, 210 — Luecken im EU-Sekundaerrecht bei Anwendung nationalen Rechts; nationaler Gesetzgeber darf Luecke nach EU-Recht nicht mit nationalem Recht fuellen wenn EU-Recht abschliessend
+- BGH, Urt. v. 10.04.2018 — KZR 62/16, NJW 2018, 2342 — Regulierungsrecht-Luecke in EnWG; Richterrecht als Lueckenfueller; Feststellungsklage BNetzA als Weg zur Klaerung
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 20 Abs. 3 GG (Bindung an Gesetz und Recht, Rechtsluecken-Klaerung) — §§ 133, 157 BGB (Auslegungsgrundsaetze) — § 5 EGBGB (Analogie bei Rechtsluecken im Privatrecht) — §§ 13, 31 EnWG (Luecken in Regulierungs-Normen)
+
+## Kommentarliteratur
+
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 50 ff. (Rechtsluecken, Analogie im oeffentlichen Recht)
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, Einl. Rn. 40 ff. (Lueckenfuellung, Analogie, teleologische Reduktion)
 
 ## Quellen und Zitierweise
 

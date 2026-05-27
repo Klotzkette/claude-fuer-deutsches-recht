@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Raeumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Raeumungsklage, Mietminderungsklage, WEG-Anfechtungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Wohnraum-, Gewerberaum- und WEG-Recht
@@ -193,3 +193,86 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Aktuelle Rechtsprechung Miet-/WEG-Schriftsatz
+
+- BGH, Urt. v. 29.03.2017 - VIII ZR 45/16, NJW 2017, 1890 Rn. 18 — Der Vermieter muss in der Räumungsklage substantiiert darlegen, wann und wie die Kündigung zugegangen ist; bloße Behauptung "per Post am [Datum]" ohne Zugangsnachweis ist unzureichend; Einschreiben-Rückschein oder Boten-Protokoll sind vorzulegen.
+- BGH, Urt. v. 16.02.2005 - VIII ZR 6/04, NJW 2005, 1186 Rn. 11 — Bei der Mietminderungsklage muss der Mieter den Mangel so konkret beschreiben, dass das Gericht ohne Sachverständigen erkennen kann, ob ein erheblicher Mangel vorliegen könnte; pauschale Rügen wie "Schimmelpilzbefall" ohne Angabe von Lage Ausmaß Zeitraum reichen nicht aus.
+- BGH, Urt. v. 28.05.2008 - VIII ZR 261/07, NJW 2008, 2422 Rn. 23 — Die WEG-Beschlussanfechtungsklage muss den angefochtenen Beschluss mit Datum Versammlung und Abstimmungsergebnis konkret bezeichnen; fehlt die genaue Bezeichnung, ist die Klage unzulässig.
+- BGH, Urt. v. 03.12.2021 - V ZR 96/20, NJW 2022, 925 Rn. 15 — Im WEG-Anfechtungsverfahren nach § 44 WEG n.F. sind Beschlüsse aller Art in einer einheitlichen Beschlussanfechtungsklage gegen die Gemeinschaft der Wohnungseigentümer zu richten.
+
+## Paragrafenkette Schriftsatz Miet-/WEG
+
+§ 543 BGB (außerordentliche Kündigung) → § 546 BGB (Räumungsanspruch) → § 535 BGB (Gebrauchsgewährung) → § 536 BGB (Mietminderung) → § 44 WEG (Beschlussanfechtungsklage) → § 23 WEG (Beschlussfassung) → §§ 130 131 ZPO (Schriftsatz-Anforderungen) → § 259 ZPO (Klage auf künftige Leistung Miete)
+
+## Kommentarliteratur
+
+- Schmidt-Futterer Mietrecht 15. Aufl., § 543 BGB Rn. 100-140 (Substantiierung Räumungsklage)
+- Baermann WEG 15. Aufl., § 44 Rn. 30-70 (Beschlussanfechtungsklage prozessual)
+- Lützenkirchen Mietrecht 3. Aufl., § 536 Rn. 80-100 (Substantiierung Mietminderungsklage)
+
+## Triage vor Schriftsatzerstellung
+
+Kläre vor Beginn:
+1. Räumungsklage oder Mietminderungsklage? (Unterschiedliche Anspruchsgrundlagen und Substantiierungsanforderungen)
+2. Kündigung zugegangen und wie dokumentiert? (Zugangsnachweis als Pflichtanlage K1)
+3. WEG-Sache: Klagegegner ist Gemeinschaft der Wohnungseigentümer (§ 44 Abs. 2 WEG n.F.)?
+4. Liegt Mängelprotokoll oder Zustandsbeschreibung vor?
+5. Streitwert: bei Räumung Jahresmiete; bei Mietminderung Jahresbetrag der Minderung
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — WEG/Miet Schriftsatz verfassen | Schriftsatz-Template; Template unten |
+| Variante A — Eilverfahren (Raeumung / Verfuegung) | Verkuerzter Schriftsatz; Dringlichkeit begruenden |
+| Variante B — WEG-Verfahren nach § 44 WEG | Besondere WEG-Verfahrensregeln beachten |
+| Variante C — Berufung zum LG | Anpassung auf Berufungsbegruendung statt Klageschrift |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template Räumungsklage (Auszug)
+
+**Adressat:** Amtsgericht — Tonfall sachlich-juristisch
+
+```
+An das Amtsgericht [ORT]
+Wohnungssachen
+
+Klage
+des [VERMIETER], [ADRESSE]
+- Kläger -
+gegen
+[MIETER], [ADRESSE]
+- Beklagte -
+wegen Räumung und Herausgabe
+
+Anträge:
+1. Die Beklagte wird verurteilt, die Wohnung [ANSCHRIFT, LAGE, QM] zu räumen
+   und geräumt an den Kläger herauszugeben.
+2. Hilfsweise: Feststellung des Endes des Mietverhältnisses zum [DATUM].
+
+Begründung:
+I. Mietverhältnis
+Der Kläger hat an die Beklagte die Wohnung [BEZEICHNUNG] durch Mietvertrag
+vom [DATUM] (Anlage K1) vermietet. Monatlicher Mietzins: [BETRAG] EUR.
+
+II. Kündigung
+Mit Schreiben vom [DATUM] (Anlage K2, Einschreiben-Rückschein Anlage K3)
+hat der Kläger das Mietverhältnis aus wichtigem Grund nach § 543 Abs. 2 Nr. 3 BGB
+gekündigt. Zugang: [DATUM] (belegt durch Anlage K3).
+
+III. Zahlungsrückstand
+[MONAT/BETRAG-TABELLE].
+
+Beweis: Kontoauszüge Anlage K4; Zeuge [NAME] zum Beweisthema Nicht-Zahlung.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

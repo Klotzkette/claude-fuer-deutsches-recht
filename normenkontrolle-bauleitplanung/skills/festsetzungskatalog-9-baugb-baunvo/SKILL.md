@@ -1,6 +1,6 @@
 ---
 name: festsetzungskatalog-9-baugb-baunvo
-description: Pruefraster fuer Festsetzungen § 9 BauGB iVm BauNVO. § 9 BauGB ist abschliessender Katalog der zulaessigen Festsetzungs-Inhalte im qualifizierten Bebauungsplan. Festsetzungen ausserhalb des Katalogs sind unwirksam. BauNVO regelt Art und Mass der baulichen Nutzung. Festsetzungsgrade ZG-Verhaeltnis Bebauungstiefe Vollgeschoss-Definition. Hoechstgrenzen § 17 BauNVO und ihre Ueberschreitungs-Voraussetzungen § 17 Abs. 2 BauNVO. Festsetzung zu Stellplaetzen § 9 Abs. 1 Nr. 4 oder 11 BauGB iVm Art. 81 BayBO. Festsetzungen zu Schallschutz § 9 Abs. 1 Nr. 24 BauGB. Hinweise und Kennzeichnungen § 9 Abs. 5 6 7 BauGB.
+description: "Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschliessender Festsetzungskatalog BauNVO. Pruefraster: Festsetzungen ausserhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Vollgeschosse Hoechstgrenzen § 17 BauNVO Stellplaetze § 9 Abs. 1 Nr. 4 BauGB Schallschutz § 9 Abs. 1 Nr. 24 BauGB. Output: Festsetzungs-Pruefprotokoll und Teilunwirksamkeitsbegruendung. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegung) und vorhabenbezogener-bebauungsplan-12-baugb."
 ---
 
 # Festsetzungs-Katalog § 9 BauGB iVm BauNVO

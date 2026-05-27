@@ -80,3 +80,19 @@ Tabelle aller Entgegenhaltungen mit Bewertungsspalte:
 ## Disclaimer
 
 > **Hinweis zur Prüfung.** Diese Neuheitsprüfung ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Die Bewertung als „neu" oder „nicht neu" ist eine Einschätzung anhand der Recherche-Treffer; die amtliche Prüfung kann zu anderen Ergebnissen kommen, weil weitere oder andere Entgegenhaltungen gefunden werden oder die Auslegung des Anspruchs anders ausfällt.
+
+## Triage-Fragen vor Neuheitspruefung
+
+Bevor die Neuheitspruefung beginnt, klaere:
+1. Ist der Prioritaetszeitpunkt klar (Anmeldetag oder Prioritaetsdatum aus frueherer Anmeldung)?
+2. Sind geheime aeltere Anmeldungen (§ 3 II PatG / Art. 54 III EPU) beruecksichtigt?
+3. Wurden alle relevanten CPC/IPC-Klassen fuer die Recherche eingesetzt?
+4. Handelt es sich um einen Hauptanspruch oder einen abhaengigen Anspruch (abhaengige Ansprueche koennen weniger Merkmale enthalten = leichter angreifbar)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 26.10.2004 — X ZR 94/01 (Keks-Form):** Fuer die Neuheitspruefung nach § 3 PatG muessen alle Merkmale des beanspruchten Gegenstands in einer einzigen Entgegenhaltung unmittelbar und eindeutig offenbart sein; eine Mosaik-Argumentation aus mehreren Entgegenhaltungen ist bei der Neuheitspruefung verboten (anders als bei der erfinderischen Taetigkeit).
+
+> **EPA, Technische Beschwerdekammer, T 153/85:** Bei der Neuheitspruefung ist jede Entgegenhaltung einzeln zu betrachten; eine neuheitsschaedliche Wirkung kann nur aus einer einzigen Schrift hergeleitet werden, nicht durch Kombination mehrerer Dokumente.
+
+> **BGH, Urt. v. 15.11.2012 — X ZR 5/11 (Dreifingergreifer):** Eine offenbarte Obergrenze eines Zahlbereichs (z.B. „maximal 10") nimmt auch Werte oberhalb dieses Bereichs nicht vorweg; eine Entgegenhaltung mit dem Bereich „5 bis 10" nimmt einen beanspruchten Wert von „11" nicht vorweg — wichtig fuer die Abgrenzungsstrategie durch Zahlbereichsmerkmale.

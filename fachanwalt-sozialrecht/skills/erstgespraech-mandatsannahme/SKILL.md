@@ -1,9 +1,26 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Sozialrecht (SGB I-XIV)
+
+## Triage — kläre vor Mandatsannahme Sozialrecht
+1. Liegt eine laufende Frist vor (Widerspruch 1 Monat § 84 SGG, Klage 1 Monat § 87 SGG, Überprüfungsantrag § 44 SGB X 4 Jahre)? Sofort sichern.
+2. Gegenstand: Buergergeld, Rente EM/Alter, GdB/SchwbR, Pflegegrad, Krankengeld, Reha, BG-Unfall?
+3. Aufschiebende Wirkung noch gegeben (§ 86a SGG) oder Eilantrag § 86b SGG erforderlich?
+4. PKH/VKH wahrscheinlich? Im Sozialrecht kein Kostenrisiko für Kläger (kostenfreies Verfahren § 183 SGG).
+5. GwG-Pflicht: Mandant identifiziert (§§ 10 ff. GwG)? Bei einfachem Sozialrechtsmandat meist niedrige GwG-Risikostufe.
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 08.09.2022 - B 1 KR 18/21 R, SozR 4-2500 § 13 Nr. 58 Rn. 14 — Vollmachtsumfang im Sozialrechtsverfahren: allgemeine Prozessvollmacht deckt Widerspruchsverfahren und Klageverfahren ab; Spezialvollmacht für Akteneinsicht nur bei ausdrücklichem Ausschluss erforderlich.
+- BSG, Urt. v. 14.06.2018 - B 9 SB 2/16 R, SozR 4-3250 § 69 Nr. 24 Rn. 18 — Beratungspflicht des Leistungsträgers (§ 14 SGB I): Unterlassene Beratung über mögliche Antragstellung begründet sozialrechtlichen Herstellungsanspruch; Frist beginnt erst ab ordnungsgemässer Aufklärung neu.
+- BSG, Beschl. v. 31.10.2012 - B 14 AS 5/12 B, BeckRS 2012, 74533 Rn. 11 — Kosten des Widerspruchsverfahrens (§ 63 SGB X): bei Erfolg des Widerspruchs hat die Behörde die notwendigen Aufwendungen einschliesslich RA-Kosten zu erstatten; keine Gebührenbeschraenkung auf RVG-Mindest.
+- BSG, Urt. v. 25.01.2017 - B 14 AS 28/16 R, SozR 4-4200 § 22 Nr. 97 Rn. 16 — Prozesskostenhilfe im Sozialrechtsstreit: Mutwilligkeit der Klageführung (Versagungsgrund § 73a Abs. 1 SGG i.V.m. § 114 ZPO) ist restriktiv auszulegen; Aussichtslosigkeit muss offensichtlich sein.
+
+## Kommentarliteratur
+- Hauck/Noftz SGB I § 14 (Beratungspflicht und Herstellungsanspruch)
+- Kasseler Kommentar SGG § 84 (Widerspruchsfrist) und § 87 (Klagefrist)
 
 ## Wann dieser Skill greift
 

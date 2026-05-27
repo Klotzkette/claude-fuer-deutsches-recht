@@ -1,6 +1,6 @@
 ---
 name: anw-grunderwerbsteuer-share-deal-90-prozent
-description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften. 90-Prozent-Schwelle ab 1.7.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG mittelbare Anteilsuebertragung Personengesellschaft. § 1 Abs. 2b GrEStG mittelbare Anteilsuebertragung Kapitalgesellschaft. § 1 Abs. 3 unmittelbare Vereinigung 90 Prozent. § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist. RETT-Blocker-Strukturen. Anzeigepflicht § 19 GrEStG."
+description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht GrESt-Pflicht. 90-Prozent-Schwelle ab 01.07.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG Personengesellschaft § 1 Abs. 2b GrEStG Kapitalgesellschaft § 1 Abs. 3 AO unmittelbare Vereinigung § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist RETT-Blocker-Strukturen Anzeigepflicht § 19 GrEStG. Output GrESt-Pruefprotokoll Strukturierungs-Empfehlung Anzeige-Vorlage."
 ---
 
 # Grunderwerbsteuer bei Share Deals — 90-%-Schwelle, Anzeigepflicht, Gestaltung
@@ -31,7 +31,7 @@ Anwaltliche Beratung bei Erwerb von Anteilen an Gesellschaften mit inländischem
 - **§ 5 / § 6 GrEStG** — Befreiungen bei Anteilsübertragungen zwischen Gesamthand/PersGes-Gesellschaftern (eingeschränkt).
 - **§ 6a GrEStG** — **Konzernklausel** (Steuervergünstigung bei Umstrukturierungen im Konzern): Befreiung für Erwerbsvorgänge nach § 1 Abs. 1 Nr. 3, Abs. 2, 2a, 2b, 3 oder 3a GrEStG aufgrund einer Umwandlung (§ 1 Abs. 1 Nr. 1-3 UmwG) oder Einbringung im Konzern. Voraussetzungen: **herrschendes Unternehmen** hält am abhängigen Unternehmen mindestens **95 %** ununterbrochen während der **Vor- und Nachbehaltensfrist von je 5 Jahren**. § 7 GrEStG regelt dagegen die Steuermessung beim Übergang von Gesamthandsvermögen in Bruchteilseigentum, nicht Konzernsachverhalte.
 - **§ 8 GrEStG** — Bemessungsgrundlage: **Grundbesitzwert** § 138 BewG (nicht Kaufpreis Anteile; Sonderbewertung).
-- **§ 11 GrEStG** — Steuersatz: Ländersteuer, **zwischen 3,5 % und 6,5 %** je Bundesland.
+- **§ 11 GrEStG** — Steuersatz: Ländersteuer, **zwischen 3.5 % und 6.5 %** je Bundesland.
 - **§ 19 GrEStG** — Anzeigepflicht: **2 Wochen** ab Tatbestandsverwirklichung; Verstoß bewehrt mit Säumniszuschlägen und ggf. Strafverfahren.
 
 ### Leitentscheidungen
@@ -46,7 +46,7 @@ Anwaltliche Beratung bei Erwerb von Anteilen an Gesellschaften mit inländischem
 
 ### Tatbestand A — Asset Deal (§ 1 Abs. 1 GrEStG)
 
-Klassischer Grundstückskauf — voller Steuersatz (3,5 %–6,5 %) auf Kaufpreis. **Kein Share Deal**, daher hier nur Bezugsmarke.
+Klassischer Grundstückskauf — voller Steuersatz (3.5 %–6.5 %) auf Kaufpreis. **Kein Share Deal**, daher hier nur Bezugsmarke.
 
 ### Tatbestand B — Wechsel Gesellschafterbestand PersGes (§ 1 Abs. 2a GrEStG)
 
@@ -93,7 +93,7 @@ und wird zusätzlich zum Kaufpreis fällig.
 
 ### Option 1 — Unter 90 %-Schwelle bleiben
 
-- Erwerb von z. B. 89,9 % der Anteile durch Erwerberin
+- Erwerb von z. B. 89.9 % der Anteile durch Erwerberin
 - Restanteil bleibt bei Verkäufer oder bei externem Investor
 - **Risiko**: bei späterer Aufstockung greift § 1 Abs. 3 GrEStG; **Vorbeteiligungs-Anrechnung** über 10 Jahre
 
@@ -171,4 +171,4 @@ und wird zusätzlich zum Kaufpreis fällig.
 
 ## Quellen und Updates
 
-Stand: 05/2026. StAGeRefG (Reform 1.7.2021): 95→90 %, 5→10 Jahre. BMF-Schreiben 10.5.2022 angewendet. Bundesland-Steuersätze 3,5 %–6,5 % aktuell. Bei Verschärfung RETT-Blocker oder weiterer Schwellenabsenkung aktualisieren.
+Stand: 05/2026. StAGeRefG (Reform 1.7.2021): 95→90 %, 5→10 Jahre. BMF-Schreiben 10.5.2022 angewendet. Bundesland-Steuersätze 3.5 %–6.5 % aktuell. Bei Verschärfung RETT-Blocker oder weiterer Schwellenabsenkung aktualisieren.

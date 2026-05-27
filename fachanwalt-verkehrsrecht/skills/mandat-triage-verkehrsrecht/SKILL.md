@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-verkehrsrecht
-description: Strukturierte Eingangs-Abfrage fuer verkehrsrechtliche Mandate. Klaert Verfahrensart (Zivilrecht Schadensregulierung OWi-Bussgeldverfahren Strafrecht Verkehrsstraftaten Fahrerlaubnis MPU Versicherungsstreit) Unfallart (Personenschaden Sachschaden beidseitige Betriebsgefahr) Fristen-Sofort-Check (Einspruch Bussgeldbescheid zwei Wochen § 67 OWiG Verjaehrung drei Jahre § 195 BGB) Versicherungslage (Haftpflicht Kasko Rechtsschutz) und Eilbeduerftigkeit (vorlaeufige Entziehung Fahrerlaubnis § 111a StPO Fahrtenbuch-Auflage Strafanzeige). Routing zu unfall-haftungsquote-berechnen oder zu Bussgeld-Skill.
+description: "Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen pruefen. Eingangs-Triage Verkehrsrecht. Pruefraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjaehrung 3 Jahre § 195 BGB) Versicherungslage Eilbeduerftigkeit vorlaeufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bussgeld-einspruch-pruefen."
 ---
 
 # Mandat-Triage Verkehrsrecht
@@ -114,3 +114,10 @@ Bei Fahrerlaubnis-vorläufig-entzogen § 111a StPO:
 - OWiG § 67 (Einspruch)
 - VVG §§ 28 86 115
 - BGH VI. Zivilsenat 4. Strafsenat
+
+## Aktuelle Rechtsprechung Triage
+
+- OLG Hamm, Beschl. v. 24.01.2019 - 4 RBs 1/19, NZV 2019, 254 — Einspruchsfrist im OWi-Verfahren (§ 67 OWiG): Frist beginnt mit Zustellung des Bussgeldbescheids; bei Zustellungsmangel beginnt Frist nicht zu laufen; Verteidiger muss Zustellungsdatum sofort pruefen.
+- BVerfG, Beschl. v. 06.08.2002 - 2 BvR 2357/00, NJW 2003, 58 — vorlaeufige Entziehung der Fahrerlaubnis nach § 111a StPO: gerichtliche Kontrolle muss effektiv sein; bei Berufstaetigkeits-Beeintraechtigung verstaerkte Pruefungspflicht; Beschwerde nach § 304 StPO unverzueglich.
+- BGH, Urt. v. 25.05.2021 - VI ZR 1/21, NJW 2021, 2473 — Verjaehrungsbeginn bei Personenschaden: § 199 Abs. 1 BGB; Verjaehrung beginnt mit Kenntniserlangung von Schaden und Person des Schaedigers; bei Spaetfolgen kann Verjaehrung hinausgeschoben werden.
+- OLG Koeln, Urt. v. 13.02.2018 - 15 U 73/17, NJW-RR 2018, 1055 — Rechtsschutzversicherung: Deckungsschutzpflicht entsteht nach Geltendmachung; Anwalt muss Deckungsanfrage stellen und Ergebnis bestaetigen lassen.

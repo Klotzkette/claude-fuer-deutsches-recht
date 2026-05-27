@@ -1,6 +1,6 @@
 ---
 name: bverfg-rechtsprechung-recherchieren
-description: "Recherchiere Rechtsprechung des Bundesverfassungsgerichts verbindlich live auf bundesverfassungsgericht.de und ergaenzend aus dem Kanon-Verzeichnis dieses Plugins. Jede verfassungsrechtliche Aussage benoetigt eine Pinpoint-Quelle mit Aktenzeichen Randnummer und URL. Dieser Skill ist der zwingende Einstiegspunkt jeder verfassungsrechtlichen Pruefung in diesem Plugin."
+description: "BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und fuer Schriftsatz aufbereiten. BVerfGG Art. 93 GG BVerfG-Judikatur. Pruefraster: Leitsaetze Tragsaetze obiter dicta Randnummern-Suche Weiterfuehrung durch Folge-Rspr. Output: Rechtsprechungsueberblick Zitatliste Leitentscheidungen. Abgrenzung: nicht fuer Verfassungsbeschwerde-Entwurf (verfassungsbeschwerde-entwurf)."
 ---
 
 # BVerfG-Rechtsprechung recherchieren

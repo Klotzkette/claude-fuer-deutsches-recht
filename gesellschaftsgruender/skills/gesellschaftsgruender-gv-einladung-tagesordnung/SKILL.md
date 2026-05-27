@@ -1,240 +1,169 @@
 ---
 name: gesellschaftsgruender-gv-einladung-tagesordnung
-description: "Einladung zur Gesellschafterversammlung GmbH UG. Frist und Form Paragraf 51 GmbHG einberufungsberechtigte Personen Tagesordnungspunkte. Ordentliche Versammlung Paragraf 42a GmbHG jaehrlich. Ausserordentliche Versammlung. Mit Tagesordnungsvorschlag Templates Beispiel-Beschlussvorlagen Bilingualitaet DE EN."
+description: "Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Pruefraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfaehigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll."
 ---
 
 # Einladung zur Gesellschafterversammlung
 
-## Zweck
+## Triage zu Beginn
 
-Vorlagen und Prüfliste für die Einladung zur **Gesellschafterversammlung** der GmbH/UG nach Paragraf 51 GmbHG. Falsche Einladung führt zu Anfechtbarkeit der Beschlüsse.
+Klaere vor Erstellung der Einladung:
 
-## 1) Rechtsgrundlagen
+1. **Ordentliche oder ausserordentliche GV?** Ordentliche: jaehrliche Pflichtversammlung (§ 42a GmbHG); ausserordentliche: anlassbezogen.
+2. **Wer ist einberufungsberechtigt?** GF (§ 49 I GmbHG); Gesellschafter mit ≥ 10 % (§ 50 GmbHG); sonst: Amtsgericht anrufen.
+3. **Welche Fristen gelten?** Gesetzlich: 1 Woche (§ 51 I GmbHG); Satzungsverlaengerung pruefen.
+4. **Elektronischer Versand zugelassen?** Nur wenn Satzung das vorsieht (§ 51 II GmbHG).
+5. **Streitige Versammlung erwartet?** Notar hinzuziehen; eingeschriebener Brief mit Rueckschein.
+6. **Auslaendische Gesellschafter?** Bilinguale Einladung; § 5 BeurkG fuer Beurkundungen.
 
-- **Paragraf 49 I GmbHG**: Einberufung durch Geschäftsführer
-- **Paragraf 49 II GmbHG**: Pflichtversammlung bei Verlust der Hälfte des Stammkapitals → `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg`
-- **Paragraf 50 GmbHG**: Einberufungsrecht der Gesellschafter mit mind. 10 % Anteilen
-- **Paragraf 51 GmbHG**: Form und Frist der Einberufung
-- **Paragraf 51a GmbHG**: Berichtspflicht der Geschäftsführer
+## Zentrale Normen
 
-## 2) Form und Frist Paragraf 51 GmbHG
+- **§ 49 I GmbHG** — Einberufung durch Geschaeftsfuehrer
+- **§ 49 II GmbHG** — Pflichtversammlung bei Verlust der Haelfte des Stammkapitals
+- **§ 50 GmbHG** — Einberufungsrecht von Gesellschaftern mit mindestens 10 % der Anteile
+- **§ 51 I GmbHG** — Form und Frist: schriftlich, mindestens 1 Woche Vorlauf
+- **§ 51 II GmbHG** — Elektronische Form nur bei Satzungs-Ermaechtigung
+- **§ 51 III GmbHG** — Heilung von Einberufungsmaengeln durch Vollversammlung (alle Gesellschafter einverstanden)
+- **§ 42a GmbHG** — Vorlage Jahresabschluss; Feststellung durch Gesellschafter
+- **§§ 246, 248 AktG analog** — Anfechtungs- und Nichtigkeitsklage bei Beschlussmangel
 
-### Form
+## Aktuelle Rechtsprechung
 
-- **Schriftform** (Brief, Fax, E-Mail soweit Satzung zulaesst)
-- **Eingeschriebener Brief** in Praxis üblich (Beweis der Zustellung)
-- **Bei elektronischer Form**: Satzung muss dies vorsehen (Paragraf 51 II GmbHG)
+- **BGH, Urt. v. 11.02.2008 – II ZR 187/06, NJW 2008, 1680** — Beschluesse der GmbH koennen analog § 241 Nr. 1 AktG nichtig sein, wenn die Einberufung nicht an alle Gesellschafter ergangen ist; fehlende Einladung eines Gesellschafters fuehrt grundsaetzlich zur Nichtigkeit der gefassten Beschluesse.
+- **BGH, Urt. v. 07.06.1993 – II ZR 81/92, BGHZ 123, 15** — Eine zu kurze Einberufungsfrist (weniger als 1 Woche) fuehrt zur Anfechtbarkeit der Beschluesse; Heilung nach § 51 III GmbHG setzt Einverstaendnis aller Gesellschafter voraus.
+- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; ein Tagesordnungspunkt „Personalfragen" als Grundlage fuer eine Abberufungs-Abstimmung ist nicht ausreichend.
+- **BGH, Urt. v. 24.11.2008 – II ZR 116/08, NZG 2009, 183** — Heilung einer fehlerhaften Einberufung durch Vollversammlung (§ 51 III GmbHG) erfordert, dass sich alle Gesellschafter in der Versammlung mit der Beschlussfassung einverstanden erklaeren; Schweigen eines Gesellschafters genuegt nicht.
 
-### Frist
+## Kommentarliteratur
 
-- **Mindestens eine Woche** vor dem Termin (Paragraf 51 I GmbHG)
-- **Satzungs-Verlängerung** möglich (typisch 2-4 Wochen)
-- **Zustellungs-Wirkung**: bei Brief gilt die Einladung am 3. Tag nach Aufgabe als zugegangen (Paragraf 130 BGB)
+- Scholz/Seibt, GmbHG, 13. Aufl., § 51 Rn. 1-80 (Form und Frist; Einberufungsmaengel; Heilung)
+- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 49 Rn. 1-40 (Einberufungspflicht; Pflichtversammlung)
+- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 50 Rn. 1-30 (Einberufungsrecht Gesellschafter)
 
-### Inhalt
+## Prüfschema: Einladungs-Rechtmaessigkeit
 
-- Ort und Zeit der Versammlung
-- **Tagesordnung** mit allen zu beratenden Punkten
-- **Beschluss-Vorlagen** soweit möglich
-- **Beifuegungs-Dokumente** (Jahresabschluss, Berichte, Satzungsaenderungs-Entwurf)
+| Schritt | Pruefpunkt | Norm | Ergebnis |
+|---|---|---|---|
+| 1 | Alle Gesellschafter eingeladen? | § 51 GmbHG | Nein: Nichtigkeit der Beschluesse |
+| 2 | Frist eingehalten? (≥ 1 Woche; Satzung beachten) | § 51 I GmbHG | Nein: Anfechtbarkeit |
+| 3 | Tagesordnung konkret genug? | BGH NZG 2009; OLG Muenchen 2022 | Vage Punkte: Anfechtbarkeit |
+| 4 | Elektronischer Versand satzungskonform? | § 51 II GmbHG | Nein: Anfechtbarkeit |
+| 5 | Beschlussvorlagen beigefuegt? | Satzung (haeufig) | Fehlen kann Anfechtungsrisiko erhoehen |
+| 6 | Jahresabschluss bei ordentl. GV beigefuegt? | § 42a GmbHG | Fehlende Unterlage = Anfechtbarkeit |
 
-## 3) Standard-Einladung — Ordentliche Versammlung
+## Schritt-fuer-Schritt-Workflow
+
+1. **Termin festlegen:** Raeumliche und zeitliche Kapazitaet; Mindestfrist (≥ 1 Woche + 3 Tage Poststlaufzeit) rueckwaerts rechnen.
+2. **Tagesordnung entwerfen:** Jeden Beschluss konkret benennen; keine Generalklauseln.
+3. **Beschluss-Vorlagen formulieren:** Klarer Beschlusstext; bei Satzungsaenderung: neuer Wortlaut als Anlage.
+4. **Anlagen zusammenstellen:** Jahresabschluss (ordentliche GV), Satzungsaenderungs-Entwurf, Berichte.
+5. **Versand:** Einschreiben mit Rueckschein an alle Gesellschafter; bei elektronischem Versand: Satzung pruefen.
+6. **Frist-Dokumentation:** Versanddatum notieren; Zustellungsfiktion (3. Tag nach Aufgabe) rechnen.
+7. **Vor der Versammlung:** Beschlussfaehigkeit pruefen; Quorum in Satzung nachschlagen.
+8. **Waehrend der Versammlung:** Versammlungsleiter waehlen; Beschlussfaehigkeit protokollieren; Beschluesse klar formulieren.
+
+## Output-Template: Ordentliche GV-Einladung
+
+**Adressat:** Gesellschafter der GmbH — Tonfall sachlich-foermlich
 
 ```
-[Briefkopf der Gesellschaft]
+[BRIEFKOPF DER GESELLSCHAFT]
+[ORT], [DATUM]
 
-An die Gesellschafter der [Firma] GmbH
+An die Gesellschafter der [FIRMA] GmbH
 
-Einladung zur ordentlichen Gesellschafterversammlung
+EINLADUNG ZUR ORDENTLICHEN GESELLSCHAFTERVERSAMMLUNG
 
 Sehr geehrte Damen und Herren,
 
-hiermit lade ich Sie gemaess Paragraf 49 I GmbHG
-und Paragraf [X] der Satzung der Gesellschaft zur
+hiermit lade ich Sie gemaess § 49 Abs. 1 GmbHG und
+§ [X] der Satzung zur ordentlichen Gesellschafter-
+versammlung ein:
 
-ordentlichen Gesellschafterversammlung am
+Datum: [WOCHENTAG], [DATUM]
+Uhrzeit: [UHRZEIT] Uhr
+Ort: [ADRESSE / VIDEO-LINK falls Satzung erlaubt]
 
-[Tag, Datum], [Uhrzeit] Uhr,
-[Ort]
+TAGESORDNUNG:
 
-ein.
+TOP 1: Eroefffnung, Feststellung der Beschlussfaehigkeit
+       und Wahl des Versammlungsleiters
 
-Tagesordnung:
+TOP 2: Feststellung des Jahresabschlusses zum
+       [DATUM JAHRESENDE]
+       Beschlussvorlage: "Der Jahresabschluss wird
+       festgestellt."
 
-1. Begruessung, Feststellung der Beschlussfaehigkeit
-   und Wahl des Versammlungsleiters
+TOP 3: Beschluss ueber Gewinnverwendung
+       Beschlussvorlage: "Der Jahresueberschuss von
+       [BETRAG] EUR wird [thesauriert / ausgeschuettet]."
 
-2. Feststellung des Jahresabschlusses zum [Datum]
-   und Beratung ueber die Gewinnverwendung
-   (Paragraf 42a GmbHG)
+TOP 4: Entlastung der Geschaeftsfuehrung fuer das
+       Geschaeftsjahr [JAHR]
+       Beschlussvorlage: "Den Geschaeftsfuehrern wird
+       Entlastung erteilt."
 
-3. Entlastung der Geschaeftsfuehrer fuer das
-   Geschaeftsjahr [Jahr]
+TOP 5: Sonstiges
 
-4. Sonstiges
-
-Beifuegung:
-- Jahresabschluss zum [Datum]
-- Lagebericht der Geschaeftsfuehrung
-- Vorschlag zur Gewinnverwendung
+Anlagen:
+- Jahresabschluss zum [DATUM]
+- Lagebericht [JAHR]
+- Gewinnverwendungsvorschlag
 
 Mit freundlichen Gruessen
 
-[Geschaeftsfuehrer]
-[Datum]
+[UNTERSCHRIFT GESCHAEFTSFUEHRER]
+[NAME, Stellung]
 ```
 
-## 4) Außergewoehnliche Versammlung
+## Output-Template: Ausserordentliche GV-Einladung
+
+**Adressat:** Gesellschafter — Tonfall sachlich-praezise
 
 ```
-[Briefkopf]
+[BRIEFKOPF]
+[ORT], [DATUM]
 
-Einladung zur ausserordentlichen Gesellschafterversammlung
+An die Gesellschafter der [FIRMA] GmbH
+
+EINLADUNG ZUR AUSSERORDENTLICHEN
+GESELLSCHAFTERVERSAMMLUNG
 
 Sehr geehrte Damen und Herren,
 
-aus dringendem Anlass lade ich Sie zur
-ausserordentlichen Gesellschafterversammlung am
+aus dringendem Anlass lade ich Sie zur ausserordentlichen
+Gesellschafterversammlung ein:
 
-[Tag, Datum], [Uhrzeit] Uhr,
-[Ort],
+Datum: [DATUM] | Uhrzeit: [UHRZEIT] | Ort: [ADRESSE]
 
-ein.
+Anlass: [KONKRETER ANLASS: z.B. Bestellung eines weiteren GF]
 
-Anlass: [konkrete Begruendung — z.B. Investor-Eintritt,
-Geschaeftsfuehrer-Bestellung, Satzungsaenderung]
+TAGESORDNUNG:
 
-Tagesordnung:
+TOP 1: Feststellung Beschlussfaehigkeit; Versammlungsleiter
+TOP 2: [KONKRETER BESCHLUSSPUNKT]
+       Beschlussvorlage: "[GENAUE FORMULIERUNG]"
+TOP 3: Sonstiges
 
-1. Begruessung, Feststellung der Beschlussfaehigkeit
-   und Wahl des Versammlungsleiters
-2. [konkreter Beschluss-Vorschlag]
-3. Sonstiges
+Anlage: [RELEVANTE DOKUMENTE]
 
-Beschluss-Vorschlag zu TOP 2:
-
-[Konkrete Beschluss-Formulierung — wichtig fuer
-Anfechtungs-Sicherheit; ueberfluessige Generalitaet
-vermeiden]
-
-Beifuegung:
-- [konkrete Dokumente]
-
-Mit freundlichen Gruessen
-
-[Geschaeftsfuehrer]
+[UNTERSCHRIFT]
 ```
 
-## 5) Tagesordnungs-Punkte korrekt formulieren
+## Rote Schwellen
 
-### Allgemein-Punkte
+- Fehlende Einladung eines Gesellschafters: Nichtigkeit aller Beschluesse (BGH NJW 2008, 1680)
+- Frist unter 1 Woche ohne Einverstaendnis aller: Anfechtbarkeit (BGH BGHZ 123, 15)
+- Vage Tagesordnung fuer wichtige Beschluesse: Anfechtbarkeit (OLG Muenchen 2022)
+- Elektronischer Versand ohne Satzungs-Ermaechtigung: Anfechtbarkeit (§ 51 II GmbHG)
 
-- „Sonstiges" oder „Verschiedenes" — gestattet, aber **nicht** beschlussfähig für wesentliche Themen
-- Wesentliche Beschlüsse müssen **konkret** in der Tagesordnung benannt sein (BGH NJW 2003, 3198)
+## Quellen und Vertiefung
 
-### Konkretes Formulieren
+- §§ 49, 50, 51, 51a, 42a GmbHG; §§ 241 ff. AktG analog
+- BGH NJW 2008, 1680; BGH BGHZ 123, 15 (1993); OLG Muenchen GmbHR 2022, 764; BGH NZG 2009, 183
+- Scholz/Seibt § 51; Lutter/Hommelhoff § 49; Baumbach/Hueck § 50
 
-❌ „Beschlüsse zu Personal" — zu vage
-
-✅ „Beschluss über Bestellung von Herrn Frank Schmidt zum weiteren Geschäftsführer mit Wirkung zum [Datum]"
-
-### Bei Satzungsaenderung
-
-- **Wortlaut der Änderung** muss in Tagesordnung erkennbar sein
-- Bei umfangreicher Änderung: Entwurf als Anlage
-- Beschluss-Vorlage konkret
-
-## 6) Pflicht-Beratungs-Themen — Ordentliche GV (Paragrafen 42a GmbHG)
-
-### Pflicht-Inhalt der ordentlichen GV
-
-- Feststellung des Jahresabschlusses
-- Beschluss über Gewinnverwendung
-- Entlastung der Geschäftsführer (typisch)
-
-### Frist
-
-- Innerhalb der Frist Paragraf 264 HGB (Aufstellung 3 / Veröffentlichung 12 Monate nach Geschäftsjahresende)
-- Praktisch: Ordentliche GV typisch im 1. Halbjahr nach Jahresende
-
-## 7) Einladungs-Rechtsfehler
-
-| Fehler | Konsequenz |
-|---|---|
-| Frist nicht gewahrt | Anfechtbarkeit der Beschlüsse |
-| Nicht alle Gesellschafter eingeladen | Beschlüsse nichtig |
-| Tagesordnung unklar | Anfechtbarkeit |
-| Falscher Versammlungsort | bei Erschwerung Anfechtbarkeit |
-| Einberufung durch Unberechtigten | Beschlüsse nichtig |
-
-### Heilung
-
-- **Vollversammlung** mit allen Gesellschaftern: heilt Form-Mängel (Paragraf 51 III GmbHG)
-- **Genehmigung** durch alle Gesellschafter nachtraeglich
-
-## 8) Bilinguale Einladung DE/EN
-
-Bei internationalen Investoren / Gesellschaftern aus Sprachgründen bilingual:
-
-```
-[Header]
-
-Einladung zur Gesellschafterversammlung
-Invitation to the Shareholders' Meeting
-
-Sehr geehrte Damen und Herren,
-Dear Shareholders,
-
-[deutsch]
-[english]
-
-Bei Inkonsistenzen zwischen der deutschen und der
-englischen Fassung geht die deutsche Fassung vor
-(Paragraf 1 II Satzung).
-
-In case of inconsistencies between the German and
-the English version, the German version shall
-prevail (§ 1 II of the Articles of Association).
-
-Tagesordnung / Agenda:
-[bilingual]
-```
-
-→ `gesellschaftsgruender-bilinguale-dokumente`
-
-## 9) Bei Streit: Sicherungs-Vorkehrungen
-
-### Beweis-Sicherung
-
-- **Einschreiben mit Rueckschein** an alle Gesellschafter
-- **Tracking-Nummer** des Versandes dokumentiert
-- **E-Mail-Versand** mit Read Receipt (falls Satzung das zulaesst)
-- **Frist mit Puffer** (z.B. 14 Tage statt 7)
-
-### Bei Mitteilung an Auslandsgesellschafter
-
-- Apostille / Beglaubigung der Ausweisdokumente bei späterer Notar-Anfechtung
-- Notarielle Zustellungs-Bestätigung (Paragraf 132 BGB)
-
-### Bei strittiger Versammlung
-
-- Zweite Einladung durch anderen einberufungsberechtigten Gesellschafter (Paragraf 50 GmbHG) als Sicherung
-- Notar-Anwesenheit bei der Versammlung (vorbeurkundete Beschlüsse)
-- Videoaufzeichnung mit Einverständnis aller (Datenschutz beachten)
-
-→ `gesellschaftsgruender-gesellschafterstreit-eilantraege`
-
-## 10) Typische Einladungs-Fehler
-
-1. **Frist nur 5 Tage**. Gesetzliche Mindestfrist 1 Woche; Satzungs-Frist beachten.
-2. **„Sonstiges" als Überschrift für wesentlichen Beschluss**. Anfechtbar.
-3. **Falscher Versammlungsleiter-Vorschlag**. Wahl muss durch GV erfolgen.
-4. **Nicht alle Gesellschafter eingeladen**. Beschlüsse nichtig.
-5. **Tagesordnung nicht beigefügt**, sondern nur „Anlassbericht erhalten Sie später". Pflichtgemäß in der Einladung.
-6. **Nach Einberufung Tagesordnung erweitert** ohne 1-Woche-Frist. Anfechtbar.
-7. **Bei elektronischem Versand** nicht der Satzung entsprechend. Anfechtbar.
-
-## Anschluss
+## Uebergabe an andere Skills
 
 - `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — Protokoll der GV
 - `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung

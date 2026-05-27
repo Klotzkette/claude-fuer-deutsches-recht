@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-ruege-vor-zuschlag
-description: "Vergaberechtliche Ruege § 160 Abs. 3 GWB vor Zuschlag erheben. Fristen: erkennbare Verstoesse aus Bekanntmachung bis Angebotsabgabe; aus Vergabeunterlagen bis Angebotsabgabe; sonstige Verstoesse 10 Kalendertage ab Kenntnis. Ruege als Praeklusionsvoraussetzung fuer Nachpruefungsantrag. Inhaltliche Anforderungen Konkretheit Begruendung Beweismittel. Reaktionsrecht Auftraggeber abhilfe oder Zurueckweisung."
+description: "Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Pruefraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurueckweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachpruefungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen."
 ---
 
 # Rüge vor Zuschlag
@@ -97,3 +97,49 @@ Mit freundlichen Gruessen
 - Bei Abhilfe: Dokumentation der Korrektur, Verfahrensbeobachtung.
 - Bei Zurückweisung: 15-Tage-Frist § 160 Abs. 3 Nr. 4 GWB notieren; Übergang in `fachanwalt-vergaberecht-nachpruefungsantrag-vk`.
 - Bei Schweigen mehr als 10 Tage: Nachprüfungsantrag prüfen.
+
+## Vertiefung: Leitsaetze Ruegerecht und Entscheidungsbaum
+
+### Ergaenzende Leitsaetze Ruege § 160 GWB
+
+- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 Rn. 41 — Praeklusion durch verspaetete Ruege tritt ein bei mehr als 10 Tagen Zuwarten ohne triftigen Grund; Bieter muss Ruege unverzueglich erheben.
+- OLG Dusseldorf, Beschl. v. 29.06.2022 - Verg 18/22, NZBau 2022, 511 — Erkennbarkeit des Verstosses setzt voraus, dass ein sachkundiger Bieter den Verstoss bei sorgfaeltiger Durchsicht der Vergabeunterlagen erkennen konnte; Erkennbarkeit nicht gleich Kenntnis.
+- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 Rn. 28 — § 160 Abs. 3 Nr. 4 GWB: 15-Tage-Antragsfrist beginnt mit Mitteilung der Vergabestelle, dass Ruege nicht abgeholfen wird; Schweigen der Vergabestelle loest keine Frist aus.
+- EuGH, Urt. v. 15.09.2022 - C-669/20, NZBau 2022, 722 — EU-Rechtsmittelrichtlinie RL 2007/66/EU verlangt effektiven Rechtsschutz; nationales Ruegeerfordernis als Zulaessigkeitsvoraussetzung ist unionsrechtskonform wenn Frist angemessen.
+
+### Entscheidungsbaum Ruege § 160 GWB
+
+```
+Schritt 1: Liegt Mandat ueber EU-Schwellenwert? (§ 106 GWB)
+  → NEIN: UVgO-Bereich; keine § 160-Pflicht; aber Ruege dennoch empfohlen
+  → JA: weiter zu Schritt 2
+
+Schritt 2: Wann Kenntnis vom Verstoss?
+  → Aus Bekanntmachung/Vergabeunterlagen: Ruege bis Angebotsabgabe
+  → Sonstige: 10 Tage ab Kenntnis (§ 160 Abs. 3 Nr. 1 GWB)
+
+Schritt 3: Frist noch offen?
+  → JA: Ruege sofort erheben
+  → NEIN: Praeklusionsrisiko; Nachpruefungsantrag unzulaessig; Schadensersatz § 181 GWB pruefen
+
+Schritt 4: Ruege erhoben — Reaktion Auftraggeber?
+  → Abhilfe: Verfahren beobachten; keine weiteren Schritte noetig
+  → Zurueckweisung: 15-Tage-Frist Nachpruefungsantrag § 160 Abs. 3 Nr. 4 GWB
+  → Schweigen > 10 Tage: Nachpruefungsantrag pruefen
+
+Schritt 5: Zuschlag erteilt?
+  → Vor Zuschlag: Nachpruefungsantrag + Antrag Vorabentscheidung § 169 GWB
+  → Nach Zuschlag: § 135 GWB Unwirksamkeit oder § 181 GWB Schadensersatz
+```
+
+### Normen-Kette Ruegeverfahren
+- § 160 Abs. 3 GWB — Ruegefristen
+- § 134 GWB — Informationspflicht/Stillhaltefrist
+- § 135 GWB — Unwirksamkeit Zuschlag
+- § 169 GWB — Vorabentscheidung / einstweilige Massnahmen
+- § 181 GWB — Schadensersatz
+
+### Kommentarliteratur Vergaberecht
+- Ziekow/Voellink, Vergaberecht 4. Aufl. § 160 GWB (Ruege)
+- Burgi Vergaberecht § 28 (Nachpruefungsverfahren)
+- Beck Vergaberechtskommentar § 160 GWB (Praeklusion)

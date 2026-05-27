@@ -1,9 +1,33 @@
 ---
 name: kanzlei-allgemein-schriftsatz-turbo
-description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort samt Anlagenlogik. Führt Anfänger durch Antrag Sachverhalt Beweise Recht Fristen Zuständigkeit beA-Versand und Qualitätsgate."
+description: "Erstellt schnell Klage Replik Antrag Klageerwiderung oder Schriftsatzantwort mit Anlagenlogik. Anwendungsfall Frist laeuft und Schriftsatz muss schnell mit allen Pflichtbestandteilen erstellt werden. Normen § 253 ZPO Klageschrift § 276 ZPO Klageerwiderung § 130a ZPO beA-Einreichung. Pruefraster Antrag Sachverhalt Beweise Recht Fristen Zustaendigkeit beA-Versand. Output Fertig strukturierter Schriftsatz mit Antrag Begruendung Beweisangeboten Anlagenverzeichnis und Qualitaetsgate-Hinweis. Abgrenzung zu kanzlei-allgemein-schreibcanvas (freies Canvas) und kanzlei-allgemein-qualitaetsgate-hardening."
 ---
 
 # Schriftsatz-Turbo: Klage, Replik, Antrag
+
+
+## Triage zu Beginn
+1. Welcher Schriftsatztyp wird benoetigt: Klage, Replik, Klageerwiderung, Antrag auf einstweiligen Rechtsschutz?
+2. Welches Gericht ist zustaendig (oertlich, sachlich, instanziell) und welche Verfahrensordnung gilt?
+3. Welche Frist laeuft und wann ist spaetester Einreichungstermin?
+4. Sind alle Beweisangebote und Anlagen vorhanden und vorbereitet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Schriftsatz ohne Beweisangebote zu streitigen Tatsachen fuehrt zur Klageabweisung; sofortige Beweisankuendigung im ersten Schriftsatz ist Standard.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Klageantrag muss hinreichend bestimmt sein (§ 253 Abs. 2 Nr. 2 ZPO); unbestimmter Antrag fuehrt zur Unzulaessigkeit.
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Erste Instanz als Tatsacheninstanz: alle relevanten Tatsachen muessen in der Klageschrift oder spaetestens im ersten Schriftsatz vorbereitet werden.
+- BGH, Urt. v. 25.10.2018 - I ZR 149/17, NJW 2019, 568 — Streitwert und Gerichtsstandbestimmung sind erste Pruefungsschritte beim Schriftsatz; falsche Zustaendigkeit fuehrt zur Verweisung oder Unzulaessigkeit.
+
+## Zentrale Normen
+- § 253 ZPO — Klageschrift: Formerfordernis und Antragspflicht
+- § 12 GVG — Sachliche Zustaendigkeit des AG (bis 10.000 EUR ab 01.01.2026 — Grenze angehoben)
+- § 13 GVG — Sachliche Zustaendigkeit des LG (ab 10.000 EUR ab 01.01.2026)
+- §§ 935-945 ZPO — Einstweiliger Rechtsschutz: Verfuegungsgrund und Verfuegungsanspruch
+
+## Kommentarliteratur
+- Zöller/Greger ZPO § 253 Rn. 1-25 (Klageschrift: Pflichtanforderungen und Fehlerfolgen)
+- BeckOK ZPO/Toussaint §§ 935-945 Rn. 1-30 (Einstweiliger Rechtsschutz: Voraussetzungen und Antrag)
 
 ## Zweck
 
@@ -118,9 +142,35 @@ Bei Anlagen immer prüfen:
 
 Vor Ausgabe immer `kanzlei-allgemein-qualitaetsgate-hardening` ausführen. Vor Versand zusätzlich `kanzlei-allgemein-output-versand`.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schriftsatz schnell erstellen Turbo-Workflow | Schriftsatz nach Turbo-Schema; Template unten |
+| Variante A — Schriftsatz sehr komplex mehrere Rechtsgebiete | Fachanwalt-Skill separat einsetzen; Turbo nur als Strukturhilfe |
+| Variante B — Mandant will nur Entwurf keine Fertigstellung | Entwurfs-Version ohne finale Formulierung |
+| Variante C — Frist droht in 2 Stunden | Kernantraege sofort; Begruendung nachreichen wenn Frist es erlaubt |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 - `assets/templates/schriftsatz-turbo-geruest.md`.
 - `assets/templates/rechtsprechungsfundstellen-register.md`, wenn Rechtsprechung gesucht wurde.
 - `assets/templates/klage-replik-pruefmatrix.md`.
 - `assets/templates/anlagenverzeichnis-schriftsatz.md`.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

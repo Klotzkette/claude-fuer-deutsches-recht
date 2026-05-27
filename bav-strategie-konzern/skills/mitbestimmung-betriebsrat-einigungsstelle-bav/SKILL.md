@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-betriebsrat-einigungsstelle-bav
-description: "Mitbestimmungsrechte des Betriebsrats bei betrieblicher Altersversorgung: Paragraph-87-Abs-1-Nr-8-und-10-BetrVG Initiativrecht Einigungsstellenverfahren Spruch-Templates Betriebsratsverhandlung und Einigungsstellenordnung fuer BAV-Restrukturierungen im Konzernkontext."
+description: "Betriebsratsbeteiligung bei bAV-Einfuehrung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Pruefraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher Sozialplan."
 ---
 
 # Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV
@@ -214,3 +214,8 @@ in Kraft und ersetzt insoweit die bisherige [Versorgungsordnung/BV].
 - → `harmonisierung-und-migration-rechtssicher` — Mitbestimmungsphase der Harmonisierung
 - → `kollektivrechtliche-loesungen-und-sozialplan` — Sozialplan parallel zur BV
 - → `versorgungsordnung-und-betriebsvereinbarung-drafting` — Ergebnisdokumentation in BV
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 10.03.2020 — 3 AZR 288/18**, NZA 2020, 1024 — Einigungsstellen-Spruch zur BAV-Versorgungsordnung; Ermessengrenzen der Einigungsstelle; Spruch darf nicht gegen BetrAVG-Grundsaetze oder Drei-Stufen-Theorie verstossen.
+- **BAG, Urt. v. 25.01.2022 — 1 AZR 146/20**, NZA 2022, 581 — Mitbestimmungsrecht des Betriebsrats bei Durchfuehrungs-Wechsel (z.B. Direktzusage auf Direktversicherung); Betriebsrat muss zustimmen, wenn der Wechsel die Versorgungsinteressen der Belegschaft beeinflusst.

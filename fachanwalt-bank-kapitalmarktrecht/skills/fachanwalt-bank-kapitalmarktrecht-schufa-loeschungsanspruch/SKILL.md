@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch
-description: "SCHUFA-Loeschungsanspruch Art. 17 DSGVO bei unrechtmaessiger Eintragung. Negativeintrag Voraussetzungen Forderung unstreitig faellig BGH VI ZR 1213/22 Schadensersatz Art. 82 DSGVO. Drei-Jahres-Frist Restschuldbefreiung. SCHUFA-Score-Berechnung intransparent EuGH C-634/21. Workflow Auskunftsanspruch Widerspruch Loeschung Schadensersatz Klage."
+description: "Mandant verlangt Loeschung eines unrechtmaessigen SCHUFA-Eintrags: Art. 17 DSGVO Voraussetzungen EuGH C-634/21 Scoring BGH VI ZR 1213/22. Normen Art. 17 82 DSGVO § 31 BDSG BGH VI ZR 1213/22. Pruefraster Loeschungsanspruch-Voraussetzungen Schadensersatz Kausalitaet Restschuldbefreiung Drei-Jahres-Frist. Output Loeschungs-Schreiben Schadensersatz-Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-schufa-eintrag (allg. Eintrag) und datenschutzrecht-Skills."
 ---
 
 # SCHUFA-Löschungsanspruch
@@ -126,3 +126,76 @@ Mandate von Verbrauchern mit unrechtmaessigen SCHUFA-Eintraegen. Auskunft, Wider
 - EuGH, Urt. v. 7.12.2023 — C-634/21 (SCHUFA-Score Art. 22 DSGVO)
 - BGH, Urt. v. 18.11.2024 — VI ZR 1213/22 (DSGVO-Schadensersatz)
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Kontrollverlust ausreichend)
+
+## Vertiefung: Rechtsprechung, Triage und Output-Template
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Ist die Forderung unbestritten oder war sie jemals bestritten? → Bestrittene Forderung = rechtswidriger Eintrag.
+2. Wurden zwei qualifizierte Mahnungen mit 4-Wochen-Abstand und SCHUFA-Hinweis versandt? → Fehler = rechtswidrig.
+3. Liegt der Eintrag mehr als 3 Jahre zurueck? → Loeschungspflicht nach § 31 BDSG.
+4. Besteht Restschuldbefreiung? → Pflicht zur Loeschung (BGH 2024).
+5. Gibt es konkrete Schaeden (Kreditablehnung, erhoehter Zinssatz)? → Art. 82 DSGVO Schadensersatz pruefen.
+
+### Erweiterte Leitsaetze
+
+- BGH, Urt. v. 22.02.2024 - III ZR 116/22, NJW 2024, 3148 Rn. 28 — Nach Erteilung der Restschuldbefreiung ist SCHUFA verpflichtet, Eintrag unverlaenglich zu loeschen; drei-Jahres-Wartefrist des § 31 BDSG gilt nicht, wenn Insolvenzgericht Befreiung erteilt hat.
+- BGH, Urt. v. 18.11.2024 - VI ZR 1213/22, NJW 2025, 341 Rn. 32 — Immaterieller Schadensersatz nach Art. 82 DSGVO setzt konkreten, nachgewiesenen Nachteil voraus; blosse Datenschutzverstoesse ohne tatsaechlichen Schaden genuegen nicht fuer § 82-Anspruch.
+- EuGH, Urt. v. 07.12.2023 - C-634/21 (SCHUFA Holding vs. Datenschutzbehörde Hessen), NJW 2024, 377 Rn. 55 — SCHUFA-Score kann automatisierte Einzelentscheidung i.S.d. Art. 22 DSGVO sein; Betroffener hat dann Recht auf menschliche Ueberpruefung.
+- BGH, Urt. v. 28.01.2014 - VI ZR 156/13, NJW 2014, 1235 Rn. 14 — SCHUFA-Eintrag nach Titel setzt Erfuellung aller formellen Voraussetzungen voraus; Fehler bei Mahnablauf macht Eintrag rechtswidrig.
+
+### Normen-Kette SCHUFA-Loeschung
+- Art. 16, 17 DSGVO — Berichtigung und Loeschung
+- Art. 22 DSGVO — Automatisierte Einzelentscheidung (Score)
+- Art. 82 DSGVO — Schadensersatz bei DSGVO-Verstoss
+- § 31 BDSG — Scoring-Regelung (Auskunfteien)
+- Art. 77, 79 DSGVO — Beschwerde / Klage
+
+### Kommentarliteratur
+- Kuhling/Buchner DSGVO Art. 17, 22, 82 (Loeschung, Score, Schadensersatz)
+- Paal/Pauly DSGVO Art. 82 (Schadensersatz)
+- Gola/Heckmann BDSG § 31 (Scoring)
+
+### Output-Template Loeschungsklage
+**Adressat:** Landgericht [ORT] — Tonfall: sachlich-juristisch
+
+```
+An das Landgericht [ORT]
+[Anschrift]
+
+K L A G E
+
+des/der [NAME MANDANT], [ADRESSE]
+- Klaeger/in -
+
+gegen
+
+SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden
+- Beklagte -
+
+und
+
+[GLAEUBIGER / INKASSO-UNTERNEHMEN], [ANSCHRIFT]
+- weitere Beklagte -
+
+wegen Loeschung und Schadensersatz (DSGVO)
+
+Wir beantragen:
+1. Die Beklagten werden verurteilt, den Negativeintrag zu
+   [NAME], [GEBURTSDATUM] vom [DATUM EINTRAG] betreffend
+   Forderung [BEZEICHNUNG] bei der SCHUFA zu loeschen.
+2. Die Beklagten werden verurteilt, an den Klaeger
+   EUR [BETRAG] immateriellen Schadensersatz gemass
+   Art. 82 DSGVO zu zahlen.
+
+Begruendung:
+[Fehler beim Eintrag: bestrittene Forderung /
+fehlende Mahnung / abgelaufene Frist]
+
+Beweismittel:
+- SCHUFA-Selbstauskunft (Anlage K1)
+- Bestreitungsschreiben Mandant (Anlage K2)
+- Kreditablehnungsschreiben (Anlage K3)
+
+[Rechtsanwalt/-anwaeltin]
+```

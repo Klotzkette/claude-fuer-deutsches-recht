@@ -1,9 +1,39 @@
 ---
 name: zv-kontensuche-drittschuldner
-description: "Konten und Drittschuldner des Schuldners finden, wenn Bank, Arbeitgeber oder Forderungsschuldner unbekannt sind. Nutzt § 802l ZPO Drittauskünfte (Rentenversicherung Bund, Bundeszentralamt für Steuern Kontenabruf, Kraftfahrt-Bundesamt) sowie Schuldnerverzeichnis § 882b ZPO. Lädt vor jeder PfÜB-Pfändung ohne bekannten Drittschuldner."
+description: "Glaeubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Pruefraster: Rentenversicherung Bund Bundeszentralamt fuer Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermoegensauskunft-gv (Glaeubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung)."
 ---
 
 # Kontensuche und Drittschuldnerermittlung
+
+
+## Triage zu Beginn
+
+1. Liegt ein vollstreckbarer Titel vor und ist die Forderung mindestens 500 EUR (§ 802l Abs. 1 ZPO)?
+2. War eine Vermögensauskunft des Schuldners bereits unergiebig oder ist der Aufenthalt unbekannt?
+3. Sollen alle drei Auskunftsstellen abgefragt werden (DRV, BZSt, KBA) oder nur eine?
+4. Ist der Schuldner ein Unternehmen — dann Handelsregistereintrag als Informationsquelle?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 22.10.2015 - I ZB 70/14, NJW 2016, 466 — § 802l ZPO: Drittauskünfte sind subsidiär gegenüber der Vermögensauskunft; aber bei unbekanntem Aufenthalt sofort zulässig.
+- BGH, Beschl. v. 26.01.2017 - I ZB 38/16, NJW 2017, 1540 — § 802l ZPO: Gläubiger kann alle drei Auskunftsquellen gleichzeitig beantragen; Reihenfolge steht in seinem Ermessen.
+- BGH, Beschl. v. 20.04.2017 - I ZB 88/16, NJW 2017, 1897 — Kontenabruf über BZSt auch nach bereits erfolgter Vermögensauskunft zulässig, wenn neue Erkenntnisse erwartet werden.
+- BGH, Beschl. v. 15.07.2021 - VII ZB 14/20, NJW 2021, 3046 — § 802c ZPO: Schuldner muss in der Vermögensauskunft alle Konten und Forderungen vollständig angeben; Verschweigen kann Strafverfolgung auslösen.
+
+## Zentrale Normen
+
+- § 802l ZPO — Drittauskünfte (DRV Bund, BZSt/§ 24c KWG, KBA)
+- § 802c ZPO — Vermögensauskunft (primäre Quelle)
+- § 802d ZPO — Sperrfrist 2 Jahre für erneute Vermögensauskunft
+- § 882b ZPO — Schuldnerverzeichnis
+- § 93 Abs. 7 AO — Kontenabrufverfahren BZSt
+- § 24c KWG — Kontenevidenzzentrale BaFin/BZSt
+
+## Kommentarliteratur
+
+- Zöller/Herget, ZPO, 35. Aufl. 2024, § 802l Rn. 1-20 (Drittauskünfte Voraussetzungen)
+- MüKo-ZPO/Gruber, 6. Aufl. 2022, § 802c Rn. 1-30 (Vermögensauskunft)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 882b Rn. 1-10 (Schuldnerverzeichnis)
 
 ## Aufgabe
 

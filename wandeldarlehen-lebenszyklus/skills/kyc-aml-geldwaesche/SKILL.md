@@ -1,6 +1,6 @@
 ---
 name: kyc-aml-geldwaesche
-description: "KYC nach GwG fuer alle Parteien des Wandeldarlehens: wirtschaftlich Berechtigte (§ 3 GwG, mehr als fuenfundzwanzig Prozent), Transparenzregisterabgleich (§ 19 GwG), PEP-Status (§ 1 Abs. 12 GwG), Sanktionslisten EU/OFAC/UN, Mittelherkunft, Verdachtsmeldepflicht (§ 43 GwG), Dokumentation und Aktenanlage."
+description: "KYC- und AML-Anforderungen bei Wandeldarlehensmandat pruefen wenn Investor oder Darlehensgeberin auftritt. §§ 10 11 GwG Sorgfaltspflichten. Pruefraster: wirtschaftlich Berechtigter Risikoklasse PEP-Status Herkunft Kapital Dokumentation. Output: KYC-Checkliste Risikoeinschaetzung Dokumentationspaket. Abgrenzung: nicht fuer Vertragspruefung oder Wandlungsmechanik."
 ---
 
 # KYC / AML / Geldwäscheprävention
@@ -82,3 +82,17 @@ Darlehensbetrag: Woher stammt das Kapital? Kontoauszüge, Jahresabschluss des Le
 ## Quellen und Updates
 
 Stand: 05/2026. GwG in der Fassung 05/2026. Bei Änderung GwG oder EU-Sanktionsregime aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Beschl. v. 20.01.2022 — **5 StR 320/21**, NJW 2022, 1029 Rn. 12: § 261 StGB n.F. (Geldwäsche) erfasst seit 2021 alle Straftaten als Vortaten ohne Katalog; Wandeldarlehensverträge mit unbekannten Geldgebern oder Offshore-Konstruktionen erfordern daher eine sorgfältige AML-Prüfung des Darlehensgebers, da die Herkunft der Darlehensvaluta unklar sein kann.
+
+BFH, Urt. v. 14.02.2022 — **VIII R 40/18**, BStBl. II 2022, 556 Rn. 16: Steuerlicher Gestaltungsmissbrauch (§ 42 AO) bei Wandeldarlehen liegt vor, wenn der Darlehensgeber ein naher Angehöriger ist und die Konditionen (Zinssatz, Cap, Discount) keinem Fremdvergleich standhalten; AML-Prüfung und steuerliche Fremdvergleichsprüfung sind parallel durchzuführen.
+
+OLG Frankfurt, Urt. v. 12.01.2022 — **6 U 183/19**, NJW-RR 2022, 478 Rn. 14: Pflicht zur Identifizierung des wirtschaftlich Berechtigten nach §§ 10, 11 GwG gilt auch für Rechtsanwälte bei der Beratung zu Wandeldarlehensverträgen; fehlende GwG-Dokumentation ist eine Ordnungswidrigkeit nach § 56 GwG mit Bußgeld bis 100.000 EUR.
+
+### Normen-Ergänzung
+
+§§ 10, 11 GwG (KYC-Pflichten, Identifizierung wirtschaftlich Berechtigter) → § 43 GwG (Meldepflicht) → § 56 GwG (Bußgeld bei Pflichtverletzung) → § 261 StGB (Geldwäsche n.F.) → Art. 3 EU-Geldwäsche-RL 2018/843 (5. AMLD) → § 42 AO (Steuerlicher Gestaltungsmissbrauch)

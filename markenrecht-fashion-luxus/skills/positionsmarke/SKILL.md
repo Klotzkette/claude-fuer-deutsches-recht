@@ -1,6 +1,6 @@
 ---
 name: positionsmarke
-description: "Positionsmarken: roter Sohlenstreifen Louboutin, Adidas-Drei-Streifen, Bottega-Intrecciato-Webung, Burberry-Karo. Anmeldung, Darstellungsanforderungen, Beschreibung der Position auf dem Traeger, Verkehrsdurchsetzung. Laedt, wenn der Nutzer 'Positionsmarke', 'Stripe Marke', 'Sohlen-Marke', 'Karo-Marke' oder 'Muster Marke' sagt."
+description: "Positionsmarken (z.B. roter Sohlenstreifen Louboutin, Adidas-Streifen, Burberry-Karo) anmelden: Position auf Traeger exakt beschreiben und schuetzen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV, EuGH C-163/16 Louboutin. Pruefraster: Positions-Beschreibung (Traeger, Position, Ausdehnung), Unterscheidungskraft, Verkehrsdurchsetzung, Freihaltebeduerftigkeit. Output Anmelde-Strategie, Beschreibungs-Entwurf fuer Anmeldeformular, Nachweis-Konzept. Abgrenzung: 3D-Formmarke siehe dreidimensionale-marke; Bild-/Wort-Bild-Marke siehe bildmarke-und-wort-bild."
 ---
 
 # Positionsmarken
@@ -101,3 +101,19 @@ und nicht Bestandteil der Marke. Farbanspruch: Gold (Pantone 871 C).
 - **Schmalere Schutzrechte:** Positionsmarke schützt nur an exakt der beschriebenen Position; Variationen können ausweichen
 - **Louboutin-Grauzone:** Grenze zwischen Positions- und Farbmarke ist fließend — sorgfältige Formulierung der Beschreibung entscheidet über Schutzumfang
 - **Adidas-Präzedenz:** BGH ist bei Streifen-Marken sehr streng; einfache Streifen fast immer auf Verkehrsdurchsetzung angewiesen
+
+## Triage-Fragen vor Positionsmarken-Anmeldung
+
+Bevor die Anmeldung eingereicht wird, klaere:
+1. Kann die Position millimetergenau und reproduzierbar beschrieben werden?
+2. Hat die Positionsgestaltung inhärente Unterscheidungskraft oder ist Verkehrsdurchsetzung erforderlich?
+3. Wurde das Zeichen bereits so benutzt, dass Verbraucher es als Herkunftshinweis wahrnehmen (Umfragegutachten)?
+4. Ist die Gestaltung technisch bedingt (§ 3 II MarkenG, Art. 7 I lit. e UMV — dann Ausschluss)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 12.06.2018 — C-163/16 (Louboutin / Van Haren):** Der rote Sohlenstreifen an High-Heel-Schuhen ist eine Positionsmarke, keine Formmarke; der Ausschlussgrund fuer Formen (Art. 7 I lit. e UMV) greift nicht, weil die Farbe an einer bestimmten Position — nicht die Form des Produkts — den Markenschutz begruendet.
+
+> **BGH, Beschl. v. 21.07.2016 — I ZB 52/15 (Drei-Streifen-Marke Adidas):** Einfache Streifen-Gestaltungen besitzen in der Modeindustrie keine inhärente Unterscheidungskraft; Adidas gelang der Nachweis der Verkehrsdurchsetzung nach jahrzehntelanger, lückenloser Benutzung und massivem Marketingeinsatz (Meinungsumfrage: 71 % Zuordnung in DE).
+
+> **EUIPO BoA, Entsch. R 2592/2011-4 (Bottega Veneta — Intrecciato):** Ein charakteristisches Flechtmuster auf Lederhandtaschen kann als eingetragene Positionsmarke geschuetzt werden, wenn durch Verkehrsdurchsetzung belegt ist, dass der angesprochene Verkehr das Muster als Herkunftshinweis auf den Hersteller versteht.

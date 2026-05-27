@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Arzthaftungsklage, Klage Sozialgericht (KV-/MDK-Streit), Berufsrechtsbeschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr, § 106 SGB V Wirtschaftlichkeitspruefung. Pruefraster Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette § 630a bis h BGB, Beweisangebote Sachverstaendigen-Gutachten, Hilfsantraege Replik-Vorausschau. Output vollstaendiger Schriftsatz mit Antrag Begruendung Beweis und Prozesskostenausblick. Abgrenzung zu Vergleichsverhandlung und zu Gutachterkommission."
 ---
 
 # Schriftsatzkern und Substantiierung im Arzthaftungs-, Berufs- und Vertragsarztrecht
@@ -193,3 +193,24 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Vertiefung — Rechtsprechung und Besonderheiten Arzthaftungsschriftsatz
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 20.09.2011 — **VI ZR 55/09**, NJW 2012, 227 Rn. 20: Im Arzthaftungsprozess hat der Kläger (Patient) grundsätzlich den vollen Beweis für den Behandlungsfehler, dessen Kausalität und den Schaden zu führen; bei einem groben Behandlungsfehler dreht sich die Beweislast zur Kausalität gemäß § 630h Abs. 5 BGB um — der Arzt muss beweisen, dass der grobe Fehler für den Schaden nicht ursächlich war.
+
+BGH, Urt. v. 24.03.2015 — **VI ZR 228/14**, NJW 2015, 2101 Rn. 25: Beim vollständigen Befunderhebungsversäumnis (einfacher Fehler) führt das Unterbleiben einer gebotenen Befunderhebung zu einer Beweislastumkehr, wenn das Ergebnis der unterlassenen Befunderhebung mit hinreichender Wahrscheinlichkeit reaktionspflichtig gewesen wäre und eine Verkennung des Befundes als grob fehlerhaft anzusehen ist.
+
+BVerfG, Beschl. v. 08.11.2006 — **1 BvR 2378/05**, NJW 2007, 663 Rn. 12: Aus dem Grundsatz des fairen Verfahrens (Art. 20 Abs. 3, Art. 2 Abs. 1 GG) folgt, dass Sachverständigenbeweis im Arzthaftungsverfahren für den Patienten zugänglich sein muss; Gericht darf Privatgutachten des Klägers nicht ohne sachlichen Grund ignorieren.
+
+BSG, Urt. v. 23.06.2015 — **B 1 KR 26/14 R**, BSGE 119, 196 Rn. 18: Im sozialgerichtlichen Klageverfahren gegen Krankenkassen-Regress-Bescheid trägt der Vertragsarzt die Beweislast für das Vorliegen von Praxisbesonderheiten; Tatsachenvortrag muss konkret, quartalsbezogen und diagnosespezifisch sein.
+
+### Ergänzung Paragrafenkette Arzthaftungsklage
+
+§ 630h BGB (Beweislastverteilung) → §§ 630a, 630e BGB (Behandlungs- und Aufklärungspflicht) → § 823 Abs. 1, § 253 BGB (deliktische Ansprüche, Schmerzensgeld) → § 286 ZPO (freie Beweiswürdigung) → § 287 ZPO (Schadensschätzung Arzthaftung) → § 402 ZPO (Sachverständigenbeweis) → §§ 249 ff. BGB (Schadensumfang, Heilbehandlungskosten, Haushaltsführungsschaden)
+
+### Kommentarliteratur
+
+- Geiß/Greiner, Arzthaftpflichtrecht, 7. Aufl. 2021, B I-III: Substanziierungsanforderungen, Beweislastverteilung und Sachverständigenbeweis im Arzthaftungsprozess.
+- MüKoBGB/Wagner, 9. Aufl. 2024, § 630h Rn. 1 ff.: Beweislastregeln §§ 630a–h BGB; Vertiefung Vollbeweislast vs. Umkehr bei grobem Fehler.

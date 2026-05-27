@@ -1,6 +1,6 @@
 ---
 name: markenrecherche
-description: "Erste Markenrechercheprüfung für eine geplante Kennzeichnung: Identitäts- und Ähnlichkeitsprüfung in DPMAregister, EUIPO eSearch+ und WIPO Global Brand DB. Verwenden vor Markenanmeldung, Produkteinführung oder Rebranding. Kein Freigabegutachten – Ergebnis ist Recherchepaket für anwaltliche Entscheidung."
+description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Pruefraster: Identitaets- und Aehnlichkeitspruefung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket fuer anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage."
 ---
 
 # Markenrecherche (Clearance)
@@ -143,3 +143,11 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Benutzungsschonfrist ignorieren:** Ältere Marken, die nicht ernsthaft benutzt werden (§ 26 MarkenG), können auf Löschungsantrag angegriffen werden; eingetragene, aber nichtbenutzte Marken sind kein absolutes Hindernis.
 - **Unregistrierte Rechte übersehen:** Firmennamen (§ 5 Abs. 2 MarkenG), Werktitel (§ 5 Abs. 3 MarkenG), bekannte Marken (§ 4 Nr. 3 MarkenG) schützen auch ohne Eintragung.
 - **Dieses Ergebnis ist kein Freigabegutachten:** Die Bewertung ist eine Erste-Triage. Eine abschließende Freigabeentscheidung erfordert anwaltliche Prüfung; für wichtige Marken kommt ein formelles Gutachten in Betracht.
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 25.04.2019 — I ZR 29/18 (Goldbaeren):** Bei Doppelidentitaet von Zeichen und Waren (§ 14 II Nr. 1 MarkenG) bedarf es keiner gesonderten Verwechslungsgefahr-Pruefung; das Vorliegen der Identitaetsvoraussetzungen begruendet den Verletzungstatbestand automatisch — daher ist die Recherche auf identische Zeichen das Erstprioritaet.
+
+> **BGH, Urt. v. 06.10.2011 — I ZR 117/10 (ICE COFFEE):** Fur die Verwechslungsgefahr bei einer reinen Wortmarke ist der phonetische Eindruck von besonderer Bedeutung; eine lautliche Aehnlichkeit kann auch dann bestehen, wenn Schriftbild und Bedeutung voneinander abweichen.
+
+> **EuGH, Urt. v. 22.09.2011 — C-323/09 (Interflora / Marks & Spencer):** Bei Suchwortmarketing (AdWords) verletzt der Mitbewerber die Marke, wenn ein normaler Internetnutzer aufgrund der Anzeige glauben kann, die beworbenen Waren stammten vom Markeninhaber; Recherche auf Keyword-Benutzung ist deshalb Teil einer umfassenden Markenrecherche.

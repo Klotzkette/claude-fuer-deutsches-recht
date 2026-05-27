@@ -1,11 +1,34 @@
 ---
 name: kompetenz-zweifel-respektvoll
-description: "Formuliert Zweifel an der fachlichen Leistung oder Kompetenz des Adressaten in respektvoller, sachlicher Form. Trennung von Sachkritik und Personenangriff. Verweis auf Rechtsprechung statt auf persoenliches Versagen."
+description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Pruefraster: sachliche Kritik ohne Abwertung Begruendung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklaerung. Abgrenzung: nicht fuer direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen)."
 ---
 
 # Kompetenz-Zweifel respektvoll formulieren
 
 Dieser Skill hilft dabei, fachliche Kritik oder Zweifel an der Kompetenz eines Adressaten so zu formulieren, dass der sachliche Kern erhalten bleibt, die Person aber nicht angegriffen wird. Diese Unterscheidung ist im Berufsrecht zentral: Sachkritik ist erlaubt, Personenabwertung ist es nicht.
+
+
+## Triage zu Beginn
+1. Bezieht sich die Fachkritik auf ein konkretes Dokument/Ergebnis (Sachkritik) oder auf die Person (Personenabwertung)?
+2. Wer ist der Adressat: Kollege direkt, eigener Mandant ueber den Kollegen oder Gericht?
+3. Gibt es einschlaeige Rechtsprechung oder Normen, auf die die Sachkritik gestuetzt werden kann?
+4. Ist die Aeusserung notwendig fuer den Inhalt des Schreibens oder kann sie weggelassen werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 07.07.2014 - AnwZ (Brfg) 6/14, NJW 2014, 3168 — Sachliche, normstuetzende Fachkritik an Schriftsatz des Kollegen ist berufsrechtlich zulaessig; persoenliche Qualifikationsabsprache ist es nicht.
+- BVerfG, Beschl. v. 02.07.2013 - 1 BvR 1751/12, NJW 2013, 3153 — Scharfe, auch zugespitzte Sachkritik ist von der Meinungsfreiheit (Art. 5 Abs. 1 GG) geschuetzt; Schmahkritik dagegen nicht.
+- OLG Frankfurt, Urt. v. 20.02.2015 - 2-06 O 310/14 — Fachliche Kritik muss mit nachprüfbaren Fakten belegt sein; reine Wertung "Ihr Anwalt ist ueberbuerdet" ohne Sachverhalt verletzt § 25 BORA.
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Unwahre Kompetenzabsprachen loesen Ansprueche nach § 824 BGB aus; Tatsachenbehauptungen muessen der Wahrheit entsprechen.
+
+## Zentrale Normen
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Sachkritik erlaubt, Personenabwertung verboten
+- § 25 BORA — Kollegialitaetsgebot: respektvoller Umgang auch bei Fachkritik
+- Art. 5 GG — Meinungsfreiheit: Schutz sachlicher Kritik
+- § 824 BGB — Kreditgefaehrdung: unwahre Kompetenzabsprachen loesen Haftung aus
+
+## Kommentarliteratur
+- Hartung/Scharmer, BORA § 25 Rn. 20-40 (Sachkritik vs. Personenabwertung)
+- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 85-105 (Fachkritik an Kollegen: Massstab)
 
 ## Der Unterschied: Sachkritik vs. Personenabwertung
 

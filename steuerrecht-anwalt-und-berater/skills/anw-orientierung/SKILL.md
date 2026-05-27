@@ -1,11 +1,24 @@
 ---
 name: anw-orientierung
-description: Orientierung Anwalt im Steuerrecht. AO Abgabenordnung EStG KStG UStG GewStG ErbStG GrEStG. Einspruch § 347 AO Frist ein Monat AdV § 361 AO. Aussenpruefung §§ 193 ff. AO Schlussbesprechung. Finanzgerichtsverfahren FGO Klage beim FG dann Revision BFH. Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. Standardliteratur Tipke/Kruse HHSp L. Schmidt EStG. Anhang FAO § 9 Voraussetzungen Fachanwaltschaft.
+description: "Orientierungs-Skill fuer Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Ueberblick ueber verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenpruefung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. Standardliteratur Tipke/Kruse HHSp L. Schmidt EStG. Output Ueberblick verfuegbare Skills und Routing zu Spezial-Skills. FAO § 9 Fachanwaltsvoraussetzungen als Anhang."
 ---
 
 # Anwalt im Steuerrecht — Orientierung
 
 Dieser Skill ist die Einstiegs-Orientierung fuer **alle Anwaeltinnen und Anwaelte im Steuerrecht** — unabhaengig davon, ob der Fachanwaltstitel angestrebt oder bereits gefuehrt wird. Die FAO-§-9-Voraussetzungen sind als Anhang aufgenommen, weil sie nur fuer den Erwerbsweg relevant sind und das Mandat als solches nicht beeinflussen.
+
+## Aktuelle Rechtsprechung (Orientierung)
+
+- BFH, Urt. v. 15.05.2018 - IX R 26/17, BStBl II 2018, 587 Rn. 19 — Grundsatz der Abschnittsbesteuerung: Einkommensteuer wird für jeden Veranlagungszeitraum gesondert festgesetzt; über das Ergebnis früherer Jahre kann grundsätzlich nicht mehr geändert werden.
+- BFH, Urt. v. 28.08.2012 - VIII R 16/09, BStBl II 2012, 860 Rn. 14 — Bei strafbewehrter Steuerhinterziehung (§ 370 AO) beträgt die Festsetzungsverjährungsfrist zehn Jahre (§ 169 Abs. 2 Satz 2 AO); der Lauf beginnt mit Ablauf des Jahres, in dem die Steuer entstanden ist.
+- BFH, Urt. v. 23.08.2017 - I R 52/14, BStBl II 2018, 232 Rn. 22 — Im Steuerstrafverfahren sind die Finanzgerichte für die Frage der Steuerschuld zuständig; die Strafgerichte sind an die steuerrechtliche Beurteilung des Finanzgerichts nicht gebunden.
+- BFH, Urt. v. 09.05.2017 - VIII R 51/14, BStBl II 2017, 1069 Rn. 16 — Die Selbstanzeige nach § 371 AO setzt Vollständigkeit voraus; eine Teilselbstanzeige führt nicht zur Straffreiheit.
+
+## Kommentarliteratur
+
+- Tipke/Kruse, AO/FGO (Großkommentar, Loseblatt) — Standardwerk im AO-Verfahrensrecht
+- Joecks/Jäger/Randt, Steuerstrafrecht — für §§ 369 ff. AO, Selbstanzeige § 371 AO
+- L. Schmidt, EStG (Beck'scher Einzelkommentar, jährlich aktualisiert)
 
 ## Wichtige Normen
 
@@ -62,7 +75,7 @@ Dieser Skill ist die Einstiegs-Orientierung fuer **alle Anwaeltinnen und Anwaelt
 ## Schnittstellen
 
 - **`stb-`-Skills im selben Plugin** fuer Steuerberater-spezifische Workflows (BWA-/SuSa-/Bilanzpruefung, Liquiditaetsvorschau).
-- **`kanzlei-cowork`** für Fristen, Versand, Aktenführung.
+- **`kanzlei-allgemein`** für Fristen, Versand, Aktenführung.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Tax-Aspekten der Unternehmensberatung.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Steuerforderungen in der Insolvenz.
 

@@ -1,6 +1,6 @@
 ---
 name: grundrechtspruefung
-description: "Pruefe Grundrechte nach dem Dreischritt Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung. Klassifikation der Schranken (einfacher und qualifizierter Vorbehalt verfassungsimmanente Schranken). Drei-Stufen-Theorie nach Apothekenurteil. Wechselwirkungslehre nach Lueth. Schranken-Schranken Wesensgehalt Zitiergebot Wechselwirkung Verhaeltnismaessigkeit. Vor jeder Aussage Skill bverfg-rechtsprechung-recherchieren aufrufen."
+description: "Grundrechtspruefung nach dem Drei-Stufen-Schema durchfuehren wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhaeltnismaessigkeit. Pruefraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtliche Schranken Wesensgehalt Art. 19 Abs. 2 GG Verhaeltnismaessigkeit. Output: Grundrechtspruefschema Pruefergebnis. Abgrenzung: nicht fuer formelle Verfassungsmaessigkeit (formelle-verfassungsmaessigkeit)."
 ---
 
 # Grundrechtsprüfung

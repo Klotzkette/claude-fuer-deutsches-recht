@@ -1,137 +1,227 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung
-description: Beschlussanfechtungsklage nach § 44 WEG. Klagefrist einen Monat ab Beschlussfassung Klage Begruendung weitere zwei Monate. Aktivlegitimation Wohnungseigentuemer Passivlegitimation Gemeinschaft der Wohnungseigentuemer. Anfechtungsgruende ordnungsmaessige Verwaltung Nichteinhaltung WEG-Vorschriften. Abgrenzung Nichtigkeitsklage. Streitwert § 49 GKG. Schreibvorlagen.
+description: "Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Pruefraster Monatsfrist Anfechtungsgruende ordnungsmaessige Verwaltung Nichtigkeitsvariante Streitwert § 49 GKG. Output Klageschrift § 44 WEG Beschlusstext-Analyse. Abgrenzung zu WEG-Anfechtungsklage-44 (Ueberschneidung) und miet-weg-mediation (aussergerichtlich)."
 ---
 
 # WEG-Beschlussanfechtung (§ 44 WEG)
 
 ## Kaltstart-Rückfragen
 
-1. Wann fand die Wohnungseigentümerversammlung statt? Wann wurde der Beschluss gefasst?
-2. Wer hat die Versammlung einberufen, mit welcher Ladung und Tagesordnung?
-3. Welcher konkrete Beschluss soll angefochten werden (Wortlaut, TOP-Nr.)?
-4. Wird Anfechtbarkeit (Verstoß ordnungsmäßiger Verwaltung) oder Nichtigkeit (zwingendes Recht, Ungesetzlichkeit) geltend gemacht?
-5. Ist die Klagefrist von einem Monat seit Beschlussfassung gewahrt (§ 45 WEG)? Frist für Klagebegründung weitere zwei Monate?
-6. Welche Mitwirkungsrechte wurden verletzt (Ladung, Quorum, Mehrheiten, Vertretungsregelung)?
+1. Wann fand die Wohnungseigentümerversammlung statt — Datum, Uhrzeit, Ort? Begründung: Einmonatsfrist § 45 WEG läuft ab Beschlussfassung, nicht ab Protokollzugang.
+2. Wer hat die Versammlung einberufen — Verwalter ordnungsgemäß § 24 WEG? Frist zwei Wochen § 24 Abs. 4 WEG? Tagesordnung vollständig angekündigt?
+3. Welcher konkrete Beschluss soll angefochten werden — Wortlaut, TOP-Nr., Stimmenmehrheit?
+4. Anfechtbarkeit (Verstoß gegen ordnungsmäßige Verwaltung) oder Nichtigkeit (fehlende Beschlusskompetenz, Verstoß gegen zwingendes Recht)?
+5. Ist die Klagefrist einen Monat ab Beschlussfassung gewahrt (§ 45 Satz 1 WEG)? Klagebegründung: weitere zwei Monate (§ 45 Satz 2 WEG)?
+6. Was konkret verletzt ordnungsgemäße Verwaltung § 19 WEG — Ladungsmangel, Quorum, falsche Mehrheit, inhaltliche Unverhältnismäßigkeit?
+7. Soll neben Anfechtung eine Beschlussersetzungsklage erhoben werden (§ 44 Abs. 1 Satz 2 WEG bei Pflicht zur Beschlussfassung)?
+8. Liegt ein wirtschaftliches Interesse des Klägers vor — Streitwert nach § 49 GKG?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **Beschlussfassung:** §§ 23, 25 WEG — Mehrheit der abgegebenen Stimmen § 25 Abs. 1 WEG; gesetzlicher Regelfall ist das Kopfstimmrecht § 25 Abs. 2 WEG (jeder Wohnungseigentuemer eine Stimme); abweichende Stimmrechtsmodelle (Wert- oder Objektprinzip) erfordern eine Vereinbarung der Wohnungseigentuemer nach § 10 Abs. 1 S. 2 WEG (typischerweise in der Teilungserklärung, aber auch durch spätere Vereinbarung möglich; für Wirkung gegen Sondernachfolger Grundbucheintragung § 10 Abs. 3 WEG).
-- **Anfechtungsklage:** § 44 WEG seit Reform 01.12.2020 — Klage gegen die Gemeinschaft der Wohnungseigentümer; vorher Klage gegen alle übrigen Eigentümer.
-- **Frist § 45 WEG:** Klage binnen eines Monats ab Beschlussfassung; Klagebegründung binnen weiterer zwei Monate.
-- **Anfechtungsgründe:** Verstoß gegen ordnungsmässige Verwaltung § 19 WEG, gegen das Gesetz (WEG und sonstiges zwingendes Recht, insb. BGB und einschlaegiges öffentliches Recht mit Beschlussbezug) oder gegen Vereinbarungen § 10 Abs. 1 S. 2 WEG.
-- **Nichtigkeit:** Beschluss ohne Beschlusskompetenz, Verstoß gegen zwingendes Recht (§§ 134, 138 BGB analog), grobe Unbestimmtheit.
-- **Aktivlegitimation:** Jeder Wohnungseigentümer, der Eigentümer im Zeitpunkt der Beschlussfassung war (§ 44 Abs. 1 WEG).
-- **Passivlegitimation:** Gemeinschaft der Wohnungseigentümer als Beklagte, vertreten durch Verwalter § 9b WEG.
-- **Streitwert:** § 49 GKG WEG — gesamtes Interesse aller Wohnungseigentümer am Beschluss, gedeckelt auf das Fünffache des klägerischen Interesses.
+### Materielles Recht (WEG seit Reform 01.12.2020)
 
-## Maßgebliche Rechtsprechung
+- **§ 23 WEG** — Beschlussfassung; Abs. 4: Beschluss gegen zwingendes Gesetzesrecht oder Vereinbarung = nichtig.
+- **§ 24 WEG** — Einberufung: Abs. 1 durch Verwalter; Abs. 2 auf Verlangen eines Viertels der Eigentümer; Abs. 4 zwei Wochen Ladungsfrist mit Tagesordnung.
+- **§ 25 WEG** — Stimmrecht: Abs. 1 einfache Mehrheit abgegebener Stimmen; Abs. 2 Kopfprinzip (jeder Eigentümer eine Stimme) als gesetzlicher Regelfall; abweichende Stimmrechtsmodelle erfordern Vereinbarung i. S. v. § 10 Abs. 1 Satz 2 WEG (in der Teilungserklärung oder nachträglich; Wirkung gegen Sondernachfolger nur mit Grundbucheintragung § 10 Abs. 3 WEG).
+- **§ 44 WEG** — Anfechtungsklage: Abs. 1 Satz 1 Klage gegen Gemeinschaft der Wohnungseigentümer; Abs. 1 Satz 2 Beschlussersetzungsklage; Abs. 2 aufschiebende Wirkung in bestimmten Fällen.
+- **§ 45 WEG** — Fristen: Satz 1 Klage binnen eines Monats; Satz 2 Begründung binnen weiterer zwei Monate; nach h. M. Ausschlussfristen.
+- **§ 9a WEG** — Gemeinschaft der Wohnungseigentümer als rechtsfähiger Verband.
+- **§ 9b WEG** — Vertretung durch Verwalter; bei fehlendem Verwalter durch einen vom Gericht bestellten Vertreter.
+- **§ 19 WEG** — Ordnungsmäßige Verwaltung als inhaltlicher Prüfmaßstab; Abs. 2 Aufzählung von Pflichtmaßnahmen.
+- **§ 49 GKG** — Streitwert WEG: Summe der Interessen aller Wohnungseigentümer; gedeckelt auf das Fünffache des Klägerinteresses.
 
-- BGH, Urt. v. 16.09.2022 – Az. V ZR 69/21, BGHZ 234, 252 Rn. 13 — Beschlussanfechtung nach reformiertem WEG.
-- BGH, Urt. v. 09.07.2010 – Az. V ZR 202/09, NJW 2010, 2802 Rn. 19 — Ordnungsmäßige Verwaltung als Maßstab.
-- BGH, Urt. v. 13.07.2012 – Az. V ZR 254/11, NJW 2012, 3372 Rn. 8 — Anforderungen Klagebegründungsfrist.
-- BGH, Urt. v. 23.08.2019 – Az. V ZR 195/17, NJW 2019, 3299 Rn. 24 — Beschlusskompetenz und Nichtigkeit.
-- BGH, Beschl. v. 17.01.2019 – Az. V ZB 121/18, NJW-RR 2019, 333 Rn. 7 — Streitwert WEG-Beschlussanfechtung.
+### BGH-Rechtsprechung
+
+- BGH, Urt. v. 16.09.2022 — **V ZR 69/21** (BGHZ 234, 252): Beschlussanfechtung nach reformiertem WEG (WEMoG); Klage gegen GdWE.
+- BGH, Urt. v. 09.07.2010 — **V ZR 202/09**: ordnungsmäßige Verwaltung als Anfechtungsmaßstab.
+- BGH, Urt. v. 13.07.2012 — **V ZR 254/11**: Klagebegründungsfrist § 45 Satz 2 WEG — Ausschlussfrist; Verlängerung nur in eng begrenzten Ausnahmen.
+- BGH, Urt. v. 23.08.2019 — **V ZR 195/17**: fehlende Beschlusskompetenz = Nichtigkeit.
+- BGH, Beschl. v. 17.01.2019 — **V ZB 121/18**: Streitwert § 49 GKG.
+- BGH, Urt. v. 27.10.2023 — **V ZR 79/22**: WEG-Reform-Anwendung; aktuelle Klagerichtung.
 
 ## Prüfschema
 
-```
-1. Statthaftigkeit
-   - Beschluss der Wohnungseigentümerversammlung § 23 WEG
-   - Kein Negativbeschluss ohne Beschwer (außer Wahlrecht zur Beschlussersetzungsklage § 44 Abs. 1 S. 2 WEG)
-2. Anfechtungs- oder Nichtigkeitsklage
-   - Anfechtbarkeit § 44 WEG bei Verstoß gegen ordnungsmäßige Verwaltung
-   - Nichtigkeit bei fehlender Beschlusskompetenz oder Verstoß gegen zwingendes Recht
-3. Aktivlegitimation
-   - Kläger war im Zeitpunkt der Beschlussfassung Wohnungseigentümer
-4. Passivlegitimation
-   - Gemeinschaft der Wohnungseigentümer § 9a WEG, vertreten durch Verwalter § 9b WEG
-5. Fristen § 45 WEG
-   - Klage binnen 1 Monat ab Beschlussfassung
-   - Klagebegründung binnen weiterer 2 Monate
-   - Verlängerung gemäß § 224 ZPO grundsätzlich nicht möglich (Ausschlussfrist)
-6. Anfechtungsgrund
-   - Ladungsmangel § 24 WEG
-   - Verstoß gegen Geschäftsordnung oder Vereinbarungen
-   - Inhaltliche Unzweckmäßigkeit / Unbestimmtheit
-   - Verstoß gegen ordnungsmäßige Verwaltung § 19 WEG
-7. Streitwert § 49 GKG
-   - Gesamtinteresse aller Wohnungseigentümer
-   - Höchstens das Fünffache des klägerischen Interesses
-```
+| Nr. | Prüfschritt | Norm | Kernfrage |
+|---|---|---|---|
+| 1 | Statthaftigkeit | § 44 WEG | Beschluss der WEV; kein Negativbeschluss ohne Beschwer (außer Beschlussersetzung) |
+| 2 | Aktivlegitimation | § 44 Abs. 1 WEG | Kläger war bei Beschlussfassung Wohnungseigentümer? |
+| 3 | Passivlegitimation | §§ 9a, 9b WEG | GdWE als Beklagte, vertreten durch Verwalter |
+| 4 | Klageerhebungsfrist | § 45 Satz 1 WEG | 1 Monat ab Beschlussfassung — Ausschlussfrist! |
+| 5 | Klagebegründungsfrist | § 45 Satz 2 WEG | Weitere 2 Monate ab Beschlussfassung |
+| 6 | Anfechtbar oder nichtig? | §§ 23 Abs. 4, 44 WEG | Verstoß ordnungsmäßige Verwaltung (anfechtbar) oder zwingendes Recht (nichtig) |
+| 7 | Verfahrensmängel | § 24 WEG | Ladung, Frist, Tagesordnung, Quorum |
+| 8 | Inhaltlicher Mangel | § 19 WEG | Unverhältnismäßig? Unzweckmäßig? Unbestimmt? |
+| 9 | Beschlusskompetenz | § 23 WEG | Eingriff in Sondereigentum? Vereinbarungsebene verletzt? |
+| 10 | Stimmrechtsmissbrauch | § 25 WEG | Stimmverbot § 25 Abs. 4 WEG? Stimmrechtsmissbrauch? |
+| 11 | Beschlussersetzungsklage | § 44 Abs. 1 Satz 2 WEG | Pflichtige Maßnahme wurde abgelehnt? |
+| 12 | Streitwert | § 49 GKG | Gesamtinteresse; max. Fünffaches Klägerinteresse |
 
-## Schreibvorlage Anfechtungsklage
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — WEG-Beschlussanfechtung allgemein | Anfechtungsklage; Template unten |
+| Variante A — Umlaufbeschluss | Formerfordernisse § 23 Abs. 3 WEG; schriftliche Zustimmung aller |
+| Variante B — Vollzug des Beschlusses droht | Eilantrag auf Vollzugsstopp; einstweilige Verfuegung |
+| Variante C — Dauerhafter Streit in WEG | Mediation erwaegen; sonst Eskalation durch weitere Anfechtungen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Anfechtungsklage § 44 WEG (Vorlage)
 
 ```
-An das Amtsgericht [Ort der gelegenen Sache]
-- WEG-Sache -                                                      [Ort, Datum]
+An das Amtsgericht [Ort der belegenen Sache]
+— WEG-Sache —                                         [Ort, Datum]
 
 Klage
 
 der [Klägerin/Kläger, Anschrift]
-                                                            - Klägerin -
+                                                    — Klägerin —
 
 gegen
 
 die Gemeinschaft der Wohnungseigentümer der Liegenschaft
 [Anschrift], vertreten durch den Verwalter [Name, Anschrift]
-                                                            - Beklagte -
+                                                    — Beklagte —
 
 wegen Beschlussanfechtung § 44 WEG
 
-Es wird beantragt:
+Namens und in Vollmacht der Klägerin / des Klägers erheben wir
+Klage und beantragen:
 
-1. Der in der Wohnungseigentümerversammlung der Beklagten vom [Datum] zu
-   Tagesordnungspunkt [Nr.] gefasste Beschluss mit folgendem Wortlaut:
-   "[Wortlaut]"
+1. Der in der Wohnungseigentümerversammlung der Beklagten
+   vom [Datum] zu Tagesordnungspunkt [Nr.] gefasste Beschluss
+   mit folgendem Wortlaut:
+   "[Wortlaut des Beschlusses vollständig]"
    wird für ungültig erklärt.
 
 2. Die Beklagte trägt die Kosten des Rechtsstreits.
 
-3. Hilfsweise wird die Feststellung der Nichtigkeit des Beschlusses beantragt.
+3. Hilfsweise wird die Feststellung der Nichtigkeit des
+   Beschlusses nach § 23 Abs. 4 WEG beantragt.
 
-Begründung folgt fristgerecht binnen zwei Monaten gemäß § 45 S. 2 WEG.
+Begründung folgt fristgerecht binnen zwei Monaten gemäß
+§ 45 Satz 2 WEG.
 
-Streitwert: gemäß § 49 GKG vorläufig EUR [Betrag].
+Streitwert: vorläufig EUR [Betrag] gemäß § 49 GKG.
 
-[Anwalt, Fachanwalt für Miet- und Wohnungseigentumsrecht]
+[Unterschrift, Anwalt, Fachanwalt für Miet- und WEG-Recht]
 ```
 
-## Schreibvorlage Klagebegründung
+### Klagebegründung
 
 ```
-Klagebegründung gemäß § 45 S. 2 WEG zum Az. [Az.]
+Klagebegründung gemäß § 45 Satz 2 WEG — Az. [Az.]
 
 I. Zulässigkeit
+
 1. Aktivlegitimation
-   Die Klägerin war zum Zeitpunkt der Beschlussfassung am [Datum] eingetragene
-   Wohnungseigentümerin (Grundbuchauszug Anlage K 1).
+   Die Klägerin war am [Datum der Beschlussfassung] als Wohnungs-
+   eigentümerin im Grundbuch eingetragen (Anlage K 1: Grundbuchauszug).
+
 2. Passivlegitimation
-   Die Beklagte ist die Gemeinschaft der Wohnungseigentümer § 9a WEG.
-3. Fristen
-   Beschluss wurde am [Datum] gefasst, Klage am [Datum] eingereicht (innerhalb
-   eines Monats § 45 S. 1 WEG); Begründung erfolgt fristgemäß innerhalb von zwei
-   Monaten ab Beschlussfassung.
+   Die Beklagte ist die GdWE § 9a WEG, vertreten durch Verwalter
+   [Name] gemäß § 9b WEG.
+
+3. Fristwahrung § 45 WEG
+   Beschluss am [Datum] gefasst; Klage eingereicht am [Datum] —
+   innerhalb eines Monats. Begründung folgt innerhalb zwei Monate
+   ab Beschlussfassung.
 
 II. Begründetheit
-1. Verfahrensmängel
-   - Ladung verspätet zugegangen § 24 Abs. 4 WEG (Anlage K 2).
-   - Tagesordnung nicht ordnungsgemäß angekündigt.
-2. Materielle Mängel
-   - Beschluss widerspricht den Grundsätzen ordnungsmäßiger Verwaltung § 19 WEG
-     [konkret begründen].
-   - Beschluss greift in Sondereigentum ein und überschreitet damit
-     Beschlusskompetenz.
-3. Rechtsfolge
-   Der Beschluss ist daher für ungültig zu erklären; hilfsweise als nichtig
-   festzustellen.
 
-[Anwalt, Fachanwalt für Miet- und Wohnungseigentumsrecht]
+1. Verfahrensmangel — Ladungsfehler § 24 Abs. 4 WEG
+   Die Ladung datiert vom [Datum] und ging der Klägerin erst am
+   [Datum] zu — die Zweiwochenfrist des § 24 Abs. 4 WEG war
+   damit nicht gewahrt (Anlage K 2: Ladungsschreiben + Zugangsbeleg).
+   
+   Alternative: Tagesordnungspunkt [Nr.] war in der Einladung
+   vom [Datum] nicht angekündigt.
+
+2. Materieller Mangel — Verstoß gegen ordnungsmäßige Verwaltung
+   § 19 WEG
+   [Konkrete Begründung: wirtschaftlich unverhältnismäßig;
+   Beschluss unbestimmt; gesetzliche Pflichtmaßnahme unterlassen;
+   sachfremde Erwägungen der Mehrheit]
+
+3. Nichtigkeit (hilfsweise)
+   Der Beschluss greift in das Sondereigentum der Klägerin ein
+   (§ 20 Abs. 4 WEG) und überschreitet die Beschlusskompetenz —
+   daher nichtig gemäß § 23 Abs. 4 WEG.
+
+III. Rechtsfolge
+Der Beschluss ist für ungültig zu erklären; hilfsweise als
+nichtig festzustellen.
+
+[Unterschrift]
 ```
 
-## Übergabe
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- Bei Beschlussersetzung Schnittstelle zur Beschlussersetzungsklage § 44 Abs. 1 S. 2 WEG (gerichtliche Beschlussfassung).
-- Bei Verwalterhaftung Schnittstelle zur Haftungsklage gegen Verwalter §§ 280, 27 WEG iVm Verwaltervertrag.
-- Bei steuerrechtlicher Bilanzierung des Hausgeldes Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Pinpoint, Hierarchie).
+## Beweislast und Darlegungslast
+
+| Frage | Last | Beweismittel |
+|---|---|---|
+| Beschlussfassung und Inhalt | Kläger (schlüssig) | Versammlungsprotokoll |
+| Fristwahrung Klage und Begründung | Kläger | Klagestempel; Begründungsschriftsatz |
+| Verfahrensmangel (Ladung) | Kläger | Ladungsschreiben; Zugangsbeleg; Protokoll |
+| Ordnungsgemäße Verwaltung | GdWE — muss Beschluss als ordnungsgemäß verteidigen | Wirtschaftsplan; Gutachten; Beschlussgründe |
+| Nichtigkeit wegen Verstoß zwingendes Recht | Gericht von Amts wegen | Teilungserklärung; Grundbuch; Gesetz |
+
+## Fristen und Verjährung
+
+| Frist | Dauer | Norm | Hinweis |
+|---|---|---|---|
+| Klageerhebung | 1 Monat ab Beschlussfassung | § 45 Satz 1 WEG | Ausschlussfrist — keine Verlängerung |
+| Klagebegründung | Weitere 2 Monate ab Beschlussfassung | § 45 Satz 2 WEG | Ausschlussfrist; Begründung muss Hauptanfechtungsgrund enthalten |
+| Nichtigkeitsklage | Keine Frist | § 23 Abs. 4 WEG analog | Jederzeit möglich; Feststellungsklage |
+| Vollstreckung Beschlussersetzungsurteil | Richtet sich nach allg. ZPO-Vollstreckungsrecht | § 890 ZPO analog | — |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand | Reaktion |
+|---|---|
+| Ladung per E-Mail ohne Vereinbarung | § 24 Abs. 4 WEG — schriftliche Einladung; E-Mail nur wenn alle Eigentümer zugestimmt haben oder Teilungserklärung erlaubt |
+| Kläger war bei Beschlussfassung anwesend und hat nicht widersprochen | Verzicht auf Anfechtung durch Schweigen streitig; BGH-Rspr.: keine generelle Verwirkung, aber Indiz |
+| Beschluss inzwischen vollzogen | Anfechtungsklage bleibt statthaft; Vollzug kann Folgeschäden begründen |
+| Mehrheit hat ordnungsgemäß entschieden — Ermessen | Ordnungsmäßige Verwaltung als Rechtsbegriff; Ermessen nur bei echter Einschätzungsprärogative |
+| Streitwert zu hoch | § 49 GKG: Gesamtinteresse aller Eigentümer berechnen + Kappung Fünffaches |
+
+## Streitwert und Kosten
+
+- **§ 49 GKG**: Streitwert = Summe der Interessen aller Eigentümer am Beschluss; gedeckelt auf das Fünffache des Interesses des Klägers.
+- Beispiel: Beschluss über Dachreparatur 100.000 EUR — Klägeranteil 10 % = 10.000 EUR × 5 = max. 50.000 EUR Streitwert.
+- AG-Kosten bei 15.000 EUR: ca. 492 EUR; bei 30.000 EUR: ca. 960 EUR.
+- RVG Anwalt: 1,3-fache VG + 1,2-fache TG; bei 15.000 EUR ca. 1.500 EUR netto.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Ladungsmangel eindeutig | Anfechtung mit Verfahrensmangel als Hauptargument; einfacher zu beweisen |
+| Inhaltlicher Streit über Wirtschaftlichkeit | Außergerichtliche Verhandlung vor Klage; Mehrheitsmeinung akzeptieren wenn vertretbar |
+| Pflichtmaßnahme abgelehnt | Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG neben Anfechtung |
+| Verwalter handelt pflichtwidrig | Haftungsklage gegen Verwalter §§ 280, 27 WEG zusätzlich |
+| Frist droht abzulaufen | Schutzschrift-ähnliche Klage ohne Begründung einreichen; Begründung folgt fristgerecht |
+
+## Anschluss-Skills
+
+- `fachanwalt-miet-wohnungseigentumsrecht-weg-anfechtungsklage-44` — ergänzend
+- `fachanwalt-miet-weg-waermepumpe-geg` — bei Beschluss über Heizungstausch
+
+## Quellen
+
+- WEG §§ 9a, 9b, 10, 19, 23–25, 44, 45
+- GKG § 49
+- BGH V ZR 69/21; V ZR 202/09; V ZR 254/11; V ZR 195/17; V ZB 121/18; V ZR 79/22
+- Bärmann WEG-Kommentar, aktuelle Aufl.
+- Hügel/Elzer WEG, aktuelle Aufl.

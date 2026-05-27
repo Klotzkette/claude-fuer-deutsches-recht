@@ -1,6 +1,6 @@
 ---
 name: vorsatzanfechtung-133-inso
-description: Pruefraster Vorsatzanfechtung § 133 InsO mit aktueller BGH-Linie nach Reform 2017 und Bestaetigungs-Rechtsprechung IX ZR 250/15 IX ZR 65/14 IX ZR 233/19. Tatbestand vorsaetzliche Glaeubiger-Benachteiligung Kenntnis Glaeubiger des Vorsatzes. Anfechtungs-Frist zehn Jahre seit 2017 vier Jahre. Indizien-Beweis Kenntnis bei Bargeschaeft drohende Zahlungs-Unfaehigkeit deklarierter Sanierungs-Bezug. Bargeschaefts-Privileg § 142 InsO unmittelbarer Leistungs-Austausch innerhalb 30 Tage gleichwertige Gegenleistung. Verteidigungs-Linien Sanierungs-Bemuehung Treuhand Sicherheits-Konstellation. Beweislast Insolvenz-Verwalter. Schnittstelle Inkongruenz-Anfechtung § 131 InsO und Kongruenz-Anfechtung § 130 InsO.
+description: "Insolvenzverwalter will Zahlungen nach § 133 InsO anfechten oder Glaeubiger muss Vorsatzanfechtung abwehren. Pruefraster vorsaetzliche Glaeubiger-Benachteiligung Kenntnis Glaeubiger des Benachteiligungsvorsatzes. BGH-Linie nach Reform 2017 IX ZR 250/15 IX ZR 65/14 IX ZR 233/19 Anfechtungsfrist zehn Jahre bis 2017 vier Jahre. Indizien-Beweis drohende Zahlungsunfaehigkeit deklarierter Sanierungs-Bezug. Bargeschaefts-Privileg § 142 InsO unmittelbarer Leistungs-Austausch innerhalb 30 Tage gleichwertige Gegenleistung. Verteidigungslinien Sanierungs-Bemuehung Treuhand Sicherheits-Konstellation Beweislast Insolvenzverwalter. Output Anfechtungs-Pruef-Memo mit Betrag und Verteidigungsstrategie. Abgrenzung: anfechtungsrechte-pruefen fuer Uebersicht aller Anfechtungstatbestaende."
 ---
 
 # Vorsatzanfechtung § 133 InsO
@@ -16,8 +16,12 @@ Die Vorsatzanfechtung ist die häufigste und längste Anfechtungs-Art. Mandanten
 - Zeit-Punkt Insolvenz-Ereignis
 - Kenntnisstand Vertragspartner zum Tatzeitpunkt
 - Sanierungs-Bezug der Transaktion
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Schritt 1 — Tatbestand § 133 Abs. 1 InsO
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### Voraussetzungen
 
@@ -317,6 +321,20 @@ Schuldner zahlt sofort bei Lieferung.
 - `liquiditaetsvorschau-insolvenzrechtlich` — Zahlungs-Unfähigkeits-Prüfung
 - `konzerninsolvenz-koordination` — Inter-Company-Anfechtung
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vorsatzanfechtung § 133 InsO pruefen und Anfechtungsschreiben erstellen | Anfechtungsschreiben nach Pruefschema; Template unten |
+| Variante A — Anfechtungsfrist 10 Jahre abgelaufen | Andere Anfechtungsgrundlagen pruefen §§ 129 ff InsO |
+| Variante B — Anfektungsgegner zahlungsunfaehig | Wirtschaftlichkeitspruefung der Anfechtung; ggf. verzichten |
+| Variante C — Glaeubigeranfechtung nach AnfG ausserhalb Insolvenz | AnfG als Alternative wenn Insolvenz noch nicht eroeffnet |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 - `vorsatzanfechtung-{az}.md` mit Sachverhalts-Klassifikation Tatbestands-Prüfung Verteidigungs-Strategie
@@ -325,6 +343,7 @@ Schuldner zahlt sofort bei Lieferung.
 - Vergleichs-Strategie
 - Klage-/Antwort-Schriftsatz
 - Frist im Fristenbuch (Verjährung drei Jahre)
+
 
 ## Quellen
 
@@ -337,3 +356,60 @@ Schuldner zahlt sofort bei Lieferung.
 - IDW S 6
 - Uhlenbruck/Hirte InsO
 - MüKo InsO
+
+
+## Output-Template Anfechtungsschreiben § 133 InsO
+
+**Adressat:** Anfechtungsgegner — Tonfall: scharf-fristsetzend
+
+```
+[KANZLEI]    [DATUM]
+
+Insolvenzverfahren [FIRMA]
+Amtsgericht [ORT], Az. [XX IN YY/ZZ]
+
+Insolvenzanfechtung nach § 133 Abs. 1 InsO
+
+Sehr geehrte Damen und Herren,
+
+ich bin als Insolvenzverwalter im obengenannten Verfahren bestellt.
+
+Hiermit fechte ich folgende Zahlungen nach § 133 Abs. 1 InsO an:
+
+Datum          Betrag          Verwendungszweck
+[DATUM]        EUR [BETRAG]    [ZWECK]
+[...]
+
+Begruendung Benachteiligungsvorsatz:
+Die Schuldnerin war zum Zeitpunkt der Zahlungen zahlungsunfaehig. Dies ergibt sich aus:
+[Konkrete Bedrohungslage: Ratenzahlungsangebote, Mahnungen, Vollstreckungen, Zahlungseinstellungen]
+
+Begruendung Kenntnis des Anfechtungsgegners:
+[Indizien: Stundungsanfragen, Mahnstufen, Kenntnis ZU-Anzeichen]
+
+Ich fordere Sie auf, den Gesamtbetrag von EUR [BETRAG] zzgl. Zinsen
+(§ 143 Abs. 1 i.V.m. § 819 BGB) bis zum [DATUM, 14 Tage] auf das
+Massekonto [IBAN] zurueckzuueberweisen.
+
+Nach fruchtlosem Ablauf dieser Frist werde ich Klage erheben.
+
+[UNTERSCHRIFT INSOLVENZVERWALTER]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+
+## Kommentarliteratur (Ergaenzung)
+
+- Jaeger/Henckel § 133 InsO Rn. 1 ff. — Vorsatzanfechtung Detailkommentierung.
+- MüKo InsO/Kirchhof § 133 InsO Rn. 1 ff. — Reform SanInsFoG und neue Anforderungen.

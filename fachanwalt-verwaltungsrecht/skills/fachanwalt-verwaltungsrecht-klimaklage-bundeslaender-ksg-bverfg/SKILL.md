@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg
-description: "Klimaklage gegen Bundeslaender nach Klimaschutzgesetz KSG i.V.m. BVerfG 1 BvR 2656/18 (Klimaschluss 24.3.2021). Verfassungsbeschwerde und VG-Klage gegen unzureichende Klimaschutzmassnahmen. Antragsbefugnis § 42 II VwGO. EuGH C-411/22 Verein KlimaSeniorinnen Schweiz. Reichweite generationsuebergreifender Freiheits-Schutz. Workflow Klage Konkretisierung Beweisaufnahme."
+description: "Klimaklage gegen Bundeslaender oder Bund nach KSG und BVerfG-Klimabeschluss: Mandant will unzureichende Klimaschutzmassnahmen angreifen. Normen: Klimaschutzgesetz KSG, BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021), § 42 Abs. 2 VwGO (Klagebefugnis). Pruefraster: Verfassungsbeschwerde vs. VG-Klage, Klagebefugnis generationsuebergreifend, EuGH C-411/22 Klimaseniorinnen. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; UmwRG-Verbandsklage siehe fachanwalt-verwaltungsrecht-drittanfechtung-umwelt."
 ---
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021

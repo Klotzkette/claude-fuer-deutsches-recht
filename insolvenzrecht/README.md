@@ -18,6 +18,15 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 > **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
 
+### Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **LUMEN Studios (Insolvenz + Wirtschaftsstrafverfahren)** | [testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip) |
+
+
 ### Zum Ausprobieren: Beispielakte (separat)
 
 Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:

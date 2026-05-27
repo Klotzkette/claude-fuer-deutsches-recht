@@ -22,6 +22,15 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 > **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json` und `skills/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus „Code → Download ZIP" verwenden.
 
+### Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **Edelholz Manufaktur Berlin (Liquiditaet/Steuer/Insolvenz)** | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+
+
 ---
 
 ## Für die Anwaltschaft im Steuerrecht (anw-...)

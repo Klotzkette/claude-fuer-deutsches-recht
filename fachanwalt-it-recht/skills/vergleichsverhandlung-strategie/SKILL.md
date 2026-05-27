@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer IT-, Datenschutz- und Telemedienrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer IT-, Datenschutz- und Telemedienrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im IT-, Datenschutz- und Telemedienrecht
@@ -155,3 +155,70 @@ Klassische Stolperfalle in IT-, Datenschutz- und Telemedienrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 22.01.2019 — II ZR 279/17, NJW 2019, 988 Rn. 17: Prozessvergleich § 794 Abs. 1 Nr. 1 ZPO — Vollstreckungstitel bei Protokollierung; Widerrufsvorbehalt mit Frist schraenkt Bindungswirkung ein.
+- BGH, Urt. v. 11.11.2010 — VII ZR 167/09, NJW 2011, 594 Rn. 22: Abgeltungsklausel im Bauvertrag-Vergleich erfasst auch unbekannte Ansprueche, sofern Parteiwille erkennbar; Auslegung nach §§ 133 157 BGB.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 77: DSGVO-Schadensersatz — bei Datenpanne kein Nachweis konkreten Schadens fuer immateriellen Anspruch erforderlich; Vergleich sollte Schadensersatzpotenzial vollstaendig abdekken.
+- OLG Frankfurt, Urt. v. 14.03.2023 — 11 U 125/22, NJW-RR 2023, 1011 Rn. 30: Anwaltsvergleich § 796a ZPO — wirksam wenn beide Anwaelte mit Prozessvertretung betraut und schriftlich beurkundet; kein Notar erforderlich.
+
+## Zentrale Normen (Paragrafenkette)
+- § 779 BGB — Vergleich (Einigkeit ueber streitiges Rechtsverhaltnis)
+- § 794 Abs. 1 Nr. 1 ZPO — Protokollvergleich als Vollstreckungstitel
+- § 796a ZPO — Anwaltsvergleich mit Vollstreckungsklausel
+- § 133 BGB — Auslegung nach Parteiwillen
+- § 157 BGB — Auslegung nach Treu und Glauben
+
+## Kommentarliteratur
+- Zöller, ZPO, 35. Aufl. 2024, § 779 BGB Rn. 1 ff.: Vergleichsrecht Grundsaetze.
+- Musielak/Voit, ZPO, 21. Aufl. 2024, § 794 Rn. 3 ff.: Vollstreckungstitel Prozessvergleich.
+- Schneider, IT-Recht, 5. Aufl. 2021, Kap. 14 Rn. 90 ff.: Vergleich im IT-Projektstreit.
+
+## Triage zu Beginn
+1. Wie hoch ist die BATNA der eigenen Partei — Prozesskostenrisiko, Erfolgsaussichten, Vollstreckungsrisiko?
+2. Hat die Gegenseite ein Interesse an Vertraulichkeit oder Reputationsschutz (Hebel)?
+3. Soll der Vergleich vollstreckbar sein — Anwaltsvergleich § 796a ZPO oder notarielle Beurkundung noetig?
+4. Ist die Abgeltungsklausel eng oder weit — koennten eigene unbekannte Ansprueche versehentlich abgegolten werden?
+5. Liegt eine USt- oder ESt-Relevanz der Vergleichszahlung vor — Steuerberater einbeziehen?
+
+## Output-Template — Vergleichsentwurf IT-Recht
+**Adressat:** Gegenseite / Gericht — Tonfall: sachlich-juristisch
+```
+VERGLEICH
+zwischen
+[NAME MANDANT] (nachfolgend: Partei A)
+und
+[GEGNER] (nachfolgend: Partei B)
+
+Az.: [AKTENZEICHEN]
+Datum: [DATUM]
+
+Praeambel
+Die Parteien streiten ueber [STREITGEGENSTAND]. Ohne Anerkennung einer
+Rechtspflicht einigen sie sich wie folgt:
+
+§ 1 — Hauptregelung
+Partei B zahlt an Partei A EUR [BETRAG] ([BETRAG IN WORTEN] Euro)
+bis spaetestens [DATUM FAELLIGKEIT] auf IBAN [IBAN].
+
+§ 2 — Abgeltung
+Mit Erhaelt der Zahlung sind alle wechselseitigen Ansprueche aus
+[SACHVERHALT / AZ.] abgegolten.
+
+§ 3 — Kosten
+[Kosten werden gegeneinander aufgehoben / Partei X traegt Kosten Quote].
+
+§ 4 — Vertraulichkeit
+[Optional: Parteien verpflichten sich zur Verschwiegenheit ueber Inhalt
+und Zustandekommen dieses Vergleichs.]
+
+§ 5 — Vollstreckbarkeit
+[Anwaltsvergleich gemaess § 796a ZPO / Protokollvergleich § 794 ZPO].
+
+§ 6 — Salvatorische Klausel
+[Standardklausel]
+
+[ORT], [DATUM]
+[NAME MANDANT]                    [GEGNER]
+vertreten durch RA [NAME]         vertreten durch RA [NAME]
+```

@@ -1,157 +1,159 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Urheber-, Presse- und Medienrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf BATNA-Analyse. Abgrenzung: nicht fuer Schiedsstellenverfahren (fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg)."
 ---
 
-# Vergleichsverhandlung und Einigung im Urheber-, Presse- und Medienrecht
+# Vergleichsverhandlung und Einigung im Urheber- und Medienrecht
 
-## Wann dieser Skill greift
+## Triage zu Beginn
 
-- Sachverhalte aus dem Bereich Urheber-, Presse- und Medienrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
-- Typische Konstellationen: Gegendarstellung, Lizenzvergleich, Filesharing-Abmahnung.
-- Sowohl in der aussergerichtlichen Phase (vor Klage) als auch im laufenden Prozess (Gueteverhandlung, Hauptverhandlung).
+1. Sind Vergleichsverhandlungen **taktisch opportun**? Kosten-Nutzen: Prozesskosten vs. Vergleichszahlung + Unterlassung.
+2. Was ist die **BATNA** beider Seiten? BGH-konforme Lizenz als Ausgangspunkt.
+3. Welche **Interessen** hat die Gegenseite? (Reputationsschutz, Vertraulichkeit, Fortnutzung gegen Lizenz)
+4. Liegt ein **laufendes Verfahren** vor? Dann: Gueteverhandlung nach § 278 ZPO nutzen.
+5. Besteht ein **Vollstreckungstitel-Beduerfnis**? Anwaltsvergleich § 796a ZPO.
+
+## Zentrale Normen und Paragrafenkette
+
+- § 97 Abs. 2 UrhG — Schadensersatz (Lizenzanalogie, Verletzergewinn, konkreter Schaden)
+- § 97a UrhG — Abmahnkosten als Verhandlungsgegenstand
+- §§ 22, 23 KUG i.V.m. § 823 BGB — Schadensersatz Bildrechtsverletzung
+- §§ 253, 847 BGB — immaterieller Schadensersatz bei Persoenlichkeitsrechtsverletzung
+- §§ 339-345 BGB — Vertragsstrafe
+- § 794 Abs. 1 Nr. 1 ZPO — Prozessvergleich als Vollstreckungstitel
+- § 796a ZPO — Anwaltsvergleich als Vollstreckungstitel
+
+## Zentrale Rechtsprechung
+
+- BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 22 – Poster-Lounge: Lizenzanaloger Schadensersatz orientiert sich an MFM-Empfehlungen; im Vergleich koennen Parteien Pauschale vereinbaren, die unterhalb der MFM-Werte liegt wenn Verletzung gering oder fahrlaeessig.
+- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 36 – Wagenfeld-Leuchte: Verdoppelung der Lizenzgebuehr bei fehlender Urhebernennung ist Schadensersatz-Position; im Vergleich verhandelbar wenn Urhebernennung nachgeholt wird.
+- BGH, Urt. v. 28.07.2015 – VI ZR 340/14, NJW 2015, 3153 Rn. 22: Immaterieller Schadensersatz bei Persoenlichkeitsrechtsverletzung durch Berichterstattung; 15.000-50.000 EUR bei schwerwiegender Verletzung; im Vergleich oft auf 10.000-20.000 EUR reduzierbar gegen Gegendarstellung.
+- BGH, Urt. v. 22.03.2018 – I ZR 137/16, GRUR 2018, 1161 Rn. 24 – Industriell gefertigte Moebelteile: Unterlassungserklaerung mit Vertragsstrafe als Kernbestandteil des Vergleichs; Anti-Hammer-Klausel zulässig.
 
 ## Vorbereitung der Verhandlung
 
-### 1. BATNA und ZOPA bestimmen
+### 1. BATNA und ZOPA
 
-- **BATNA** (Best Alternative to Negotiated Agreement): Was passiert, wenn wir uns nicht einigen? Kosten- und Zeit-Prognose Prozess, Erfolgsaussichten-Quote, Vollstreckungsrisiko.
-- **WATNA** (Worst Alternative): schlimmster denkbarer Verlauf bei Klage/Klageabweisung.
-- **Reservation Price** auf eigener Seite: untere Grenze der Akzeptanz.
-- **ZOPA** (Zone of Possible Agreement): geschaetzte Schnittmenge zwischen eigener Reservation und der vermuteten Reservation der Gegenseite.
+- **BATNA:** Was passiert bei Klage? Erfolgsprognose, Kosten, Dauer (1-2 Jahre bis BGH).
+- **Reservation Price:** MFM-Lizenzwert als Mindestvergleich; Anwaltskosten als Untergrenze.
+- **ZOPA:** Gegenseite wuenscht oft: Vertraulichkeit, keine Unterlassungserklaerung mit hoher Vertragsstrafe, Zahlung in Raten.
 
-### 2. Interessen vs. Positionen
+### 2. Verhandlungs-Positionen und Interessen
 
-Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sondern Interessen ("Ich brauche bis Jahresende Liquiditaet"). In Urheber-, Presse- und Medienrecht typische Interessen-Cluster:
+| Position | Darunter liegendes Interesse |
+|----------|------------------------------|
+| "Wir zahlen nur 200 EUR" | Privatperson mit wenig Einkommen; § 97a Abs. 3 UrhG-Deckel als Argument |
+| "Nur geringe Nutzung" | Fahrlaessigkeit; kein Vorsatz; Argument gegen Verdoppelung |
+| "Kein Wiederverwenden" | Zukunftssicherheit; Fokus auf Unterlassung statt Schadensersatz |
+| "Veroeffentlichung aufheben" | Reputationsinteresse; Gegendarstellung als Mittel |
 
-- Liquiditaet (Sofort-Zahlung vs. Ratenzahlung)
-- Reputation (Gegnerin will keinen Prozess mit Pressewirkung)
-- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschaeftspartner)
-- Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung, USt-Frage)
-- Vertraulichkeit (NDA im Vergleich)
+## Schritt-fuer-Schritt-Workflow
 
-### 3. Druckmittel und Hebel
+```
+Schritt 1: Schadensposition berechnen
+  → MFM-Lizenzwert als Ausgangspunkt
+  → Ggf. Verdoppelung wegen fehlender Urheberbenennung
+  → Anwaltskosten aus Streitwert
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
-- Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
-- Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
-- Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
+Schritt 2: Vergleichsrahmen bestimmen
+  → Untere Grenze: MFM ohne Verdoppelung
+  → Ziel: MFM + Verdoppelung + Anwaltskosten
+  → Anker: volle Klageforderung
 
-## Ablauf der Verhandlung
+Schritt 3: Angebot unterbreiten
+  → Schriftlich "ohne Praejudiz und unter Widerrufsvorbehalt"
+  → Antwortfrist setzen (5-7 Werktage)
 
-### Eroeffnung
+Schritt 4: Gegenentwurf verhandeln
+  → Anti-Hammer-Klausel pruefen
+  → Abgeltungsklausel-Reichweite abstimmen
 
-- Anker setzen: erste Zahl/Position deutlich hoeher als Reservation, aber begruendbar.
-- Begruendung mit konkreten Positionen aus UrhG, KUG, GG Art. 5, RStV/MStV, TDDDG, BGB verknuepfen.
+Schritt 5: Vergleichsvertrag abschliessen
+  → Anwaltsvergleich § 796a ZPO
+  → Mandantenfreigabe vor Unterzeichnung
+```
 
-### Konzessionsphase
+## Kommentarliteratur
 
-- In kleinen, begruendeten Schritten nachgeben.
-- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann koennen wir Y").
-- Konzessionsmuster nicht linear (sonst extrapolierbar) sondern abnehmend.
+- Schricker/Loewenheim, Urheberrecht (Beck) — §§ 97, 97a UrhG Schadensersatz
+- Dreier/Schulze, UrhG (Beck) — Lizenzanalogie und Schadensberechnung
+- Musielak/Voit, ZPO (Beck) — §§ 794, 796a ZPO Vollstreckungstitel
+- Wenzel, Recht der Wort- und Bildberichterstattung — immaterieller Schadensersatz
 
-### Endspiel
+## Output-Template Vergleichsangebot
 
-- Abschluss aktiv herbeifuehren ("Sind wir bei 47.500 dann durch?").
-- Schweige-Pausen aushalten.
-- Nachverhandlungs-Versuche der Gegenseite ("ein letztes Detail noch") freundlich, aber bestimmt zurueckweisen, wenn Substanz steht.
+**Adressat:** Verletzende Partei — Tonfall sachlich-verhandelnd
 
-## Vergleichsentwurf - Pflichtbestandteile
+```
+[KANZLEI], [ORT, DATUM]
 
-### Bei aussergerichtlichem Vergleich
+VERGLEICHSANGEBOT — ohne Praejudiz und unter Widerrufsvorbehalt
 
-1. **Praeambel** mit kurzem Sachstand und Streitthema.
-2. **Hauptregelung** (Zahlung, Leistung, Unterlassung, Rueckabwicklung).
-3. **Faelligkeit** und Verzinsung.
-4. **Sicherheiten** (Buergschaft, Hinterlegung, Sicherungsabtretung).
-5. **Erfuellung gegen Erledigung:** keine Aufrechnung, Ratenausfall = Sofortfaelligkeit.
-6. **Abgeltungs-/Vorbehaltsklausel:** "Mit diesem Vergleich sind alle wechselseitigen Anspruche aus dem zugrundeliegenden Sachverhalt abgegolten."
-7. **Verschwiegenheit** (wenn von einer Partei gewuenscht).
-8. **Steuerliche Behandlung** ggf. ausdruecklich, sonst Hinweis auf Steuerberatung.
-9. **Salvatorische Klausel und Schriftform.**
-10. **Vollstreckungstitel-Ersatz:** notarielle Beurkundung, Anwaltsvergleich nach § 796a ZPO, oder Schiedsvergleich.
+Ihre Reaktion auf unsere Abmahnung vom [DATUM], Az. [AKTENZEICHEN]
 
-### Bei Prozessvergleich
+Sehr geehrte Damen und Herren,
 
-- Protokollvergleich nach § 794 Abs. 1 Nr. 1 ZPO (Vollstreckungstitel kraft Protokollierung).
-- Widerrufsvorbehalt mit klarer Frist.
-- Kostenregelung: ueblich Kostenaufhebung, ggf. Quote.
-- Beteiligung der Streithelfer/Nebenintervenienten beachten.
+zur guetlichen Beilegung des Streitwerts unterbreiten wir folgendes Angebot:
 
-## Risiken und Stolpersteine im Urheber-, Presse- und Medienrecht
+1. Zahlung eines Pauschalbetrags von [BETRAG] EUR zur Abgeltung aller
+   Schadensersatz- und Kostenerstattungsansprueche aus der Verletzung des
+   Werks [BESCHREIBUNG].
 
-- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> UrhG und ESt-/USt-Regeln pruefen.
-- Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
-- Vollstreckbarkeit: aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Vollstreckungstitel.
-- Verzicht zu weit gefasst: pauschale Abgeltungsklausel kann eigene Ansprueche unbeabsichtigt mit erfassen.
-- Mandanten-Erwartung: Vergleich ist oft Kompromiss - Erwartungsmanagement vor Verhandlung.
+2. Unterzeichnung der beigefuegten strafbewehrten Unterlassungserklaerung
+   mit einer Vertragsstrafe von [BETRAG] EUR je Verstoß.
 
-## Pflicht-Output
+3. Mit Zahlung und UE-Abgabe sind alle gegenseitigen Ansprueche aus dem
+   Sachverhalt abgegolten.
 
-1. **Verhandlungs-Memo** mit BATNA/WATNA, ZOPA-Schaetzung, Strategie.
-2. **Vergleichsentwurf** (anwaltsvertraglich oder Protokollvergleich-Skript).
-3. **Mandantenfreigabe** vor Unterzeichnung schriftlich.
-4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
-5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
+Dieses Angebot gilt bis [DATUM].
 
+[KANZLEI / NAME]
+```
 
-## Verhandlungs-Skripte
+## Output-Template Vergleichsvertrag
 
-### Skript 1: Eroeffnung mit Ankerwert
+**Adressat:** beide Parteien — sachlich-vertragstechnisch
 
-> "Wir haben die Sache durchgerechnet. Auf Basis von UrhG und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, ueber eine Pauschalsumme zu sprechen, die die Sache abschliesst."
+```
+ANWALTSVERGLEICH gemaess § 796a ZPO
 
-### Skript 2: Begruendete Konzession
+zwischen [PARTEI A] und [PARTEI B]
 
-> "Wir koennen Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
+§ 1 Veranlassung
+[Sachverhalt Kurzbeschreibung; Streit ueber Urheberrechtsverletzung/Persoenlichkeitsrechtsverletzung]
 
-### Skript 3: Abschluss-Frage
+§ 2 Zahlung
+[PARTEI A] zahlt an [PARTEI B] [BETRAG] EUR als Pauschalabgeltung
+aller Schadensersatz- und Kostenerstattungsansprueche bis [DATUM].
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+§ 3 Unterlassung
+[PARTEI A] gibt die beigefuegte Unterlassungserklaerung ab.
+Vertragsstrafe: [BETRAG] EUR je Verstoß (Anti-Hammer-Klausel: nur
+bei schuldhafter Zuwiderhandlung nach rechtskraeftiger Feststellung).
 
-### Skript 4: Walk-Away-Signal
+§ 4 Abgeltung
+Mit Erfuellung dieses Vergleichs sind saemtliche Ansprueche
+der Parteien aus dem in § 1 beschriebenen Sachverhalt erledigt.
 
-> "Wir haben hier eine klare Linie. Wenn Sie nicht ueber die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
+§ 5 Kosten
+Jede Partei traegt ihre eigenen Kosten.
 
-## Stoerfeuer und Antwort-Bausteine
+§ 6 Vollstreckbarkeit
+Die Parteien beantragen gemeinsam Vollstreckbarerklaerung nach § 796a ZPO.
 
-- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
-- **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
+[UNTERSCHRIFTEN, DATUM, KANZLEIEN BEIDER PARTEIEN]
+```
 
-## Steuerliche Behandlung des Vergleichs
+## Fallstricke
 
-Im Bereich Urheber-, Presse- und Medienrecht oft uebersehen:
-
-- Vergleichszahlung als Schadensersatz (in der Regel keine USt, EStG je nach Art).
-- Vergleich ueber Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug pruefen.
-- Vergleichszahlung als Anwaltshonorar -> ggf. USt.
-- Erbrechtliche Abfindung -> ggf. ErbStG.
-- Hinweis im Vergleich: "Die steuerliche Behandlung ist nicht Gegenstand dieser Vereinbarung und obliegt der eigenen Steuerberatung der Parteien."
-
-## Mediation als Alternative
-
-- Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
-- Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
-- Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
-
-## Vollstreckbarkeit
-
-- **Anwaltsvergleich nach § 796a ZPO:** anwaltlich beurkundeter Vergleich, mit Vollstreckungsklausel des Gerichts = Vollstreckungstitel.
-- **Notarieller Vergleich:** als Schuldanerkenntnis mit Vollstreckungsunterwerfung.
-- **Prozessvergleich:** § 794 Abs. 1 Nr. 1 ZPO, sofort vollstreckbar.
-- **Schiedsvergleich:** Vollstreckbarerklaerung nach §§ 1054, 1060 ZPO.
-
-## Vergleichs-Reichweite und Abgeltungsklausel
-
-Klassische Stolperfalle in Urheber-, Presse- und Medienrecht:
-
-- **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
-- **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **MFM-Tabellen nicht geprueft:** Schadensposition falsch kalkuliert.
+- **Verdoppelung vergessen:** fehlende Urhebernennung erhoht Lizenz um 100 %.
+- **Abgeltungsklausel zu weit:** koennte kuenftige Verletzungen miterfassen.
+- **Keine Vollstreckbarkeit:** aussergerichtlicher Vergleich ohne Anwaltsvergleich ist kein Titel.
+- **Persoenlichkeitsrecht:** immaterieller Schadensersatz nicht vergessen (§§ 253, 847 BGB).
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `urheber-abmahnung-pruefen` — Abmahnung-Grundlage
+- `schriftsatzkern-substantiierung` — wenn Vergleich scheitert, Klage noetig
+- `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — Zukunftslizenz nach Vergleich

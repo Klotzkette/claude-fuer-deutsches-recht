@@ -1,6 +1,6 @@
 ---
 name: fachgebiet-routing-zivil-oeffentlich-straf
-description: Routing in das passende Fachgebiet Zivilrecht oeffentliches Recht Strafrecht. Erfasst Mix-Konstellationen Steuerrecht ist oeffentliches Recht Arbeitsrecht zivilrechtlich BGB plus arbeitsgerichtlich Mietrecht zivilrechtlich plus ggf Verwaltungs-Aspekte. Reihenfolge bei Mix typisch Anspruchsgrundlagen-orientiert. Hinweise auf typische Indikatoren fuer das jeweilige Fachgebiet.
+description: "Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht oeffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Pruefraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ. Output Fachgebiet-Zuordnung Routing-Empfehlung Erlaeuterung. Abgrenzung zu oeffentliches-recht-statthaft (Schema) strafrecht-tatbestand (Schema) zivilrecht-anspruchsgrundlagen (Schema)."
 ---
 
 # Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht

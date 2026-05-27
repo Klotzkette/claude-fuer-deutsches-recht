@@ -1,6 +1,6 @@
 ---
 name: us-counterfeit-und-customs-cbp
-description: "US-Counterfeit-Enforcement: Trademark Counterfeiting Act 18 U.S.C. § 2320, CBP Recordation 19 C.F.R. § 133, IPR e-Recordation, Lanham Act § 34 Injunctive Relief, § 35 Treble Damages und Statutory Damages, Attorney Fees Octane Fitness 572 U.S. 545. Laedt, wenn der Nutzer 'US Counterfeit', 'CBP Recordation', 'Lanham Act enforcement' oder 'US Produktpiraterie' sagt."
+description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Pruefraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # US Counterfeit Enforcement und CBP Recordation
@@ -148,3 +148,40 @@ Organisierter Fälschungsring (multiple shipments, estimated USD 5M in counterfe
 - **Statutory Damages Strategie vs. Actual Damages:** Bei hohem tatsächlichen Schaden kann Actual Damages + Treble vorteilhafter sein; frühzeitig kalkulieren
 - **CBP-Recordation-Aktualisierung:** Neue Designs/Marken müssen nachgemeldet werden; CBP nimmt nur eingetragene US-Marken
 - **Criminal vs. Civil Coordination:** Parallelverfahren können sich gegenseitig beeinflussen; enge Abstimmung mit DOJ/FBI-Kooperationsregeln
+
+## Triage-Fragen bei US-Produktpiraterie
+
+Bevor CBP-Massnahmen oder die ex-parte-Seizure beantragt wird, klaere:
+1. Ist die US-Marke bei CBP recordiert (aktuelles Recordation mit korrektem E.P. Code und gueltigem Registrierungsdatum)?
+2. Liegen Beweise fuer eine unmittelbar bevorstehende Piraterie-Sendung vor (Zoll-Tip, Labortest, Lieferschein)?
+3. Handelt es sich um strafrechtlich relevante Counterfeit Goods (18 U.S.C. § 2320 — Federal Crime) oder nur zivilrechtliche Verletzung?
+4. Ist die ex-parte-Seizure gerechtfertigt (droht Beweisvernichtung) oder genuegt eine TRO/PI?
+
+## Aktuelle Rechtsprechung (US)
+
+> **Tiffany (NJ) Inc. v. eBay Inc., 600 F.3d 93 (2d Cir. 2010):** Online-Marktplaetze sind nicht schlechthin fuer Counterfeit-Listings ihrer Seller haftbar; Haftung setzt voraus, dass der Marktplatz spezifische Kenntnis von bestimmten verletzenden Angeboten hatte und trotzdem nicht gehandelt hat (specific knowledge rule).
+
+> **Louis Vuitton Malletier S.A. v. Akanoc Solutions Inc., 658 F.3d 936 (9th Cir. 2011):** Hosting-Provider koennen als Contributory Infringer haften, wenn sie direkte Kontrolle ueber und direkten Nutzen aus verletzenden Inhalten ziehen und trotz Kenntnis der Verletzung nichts unternehmen.
+
+> **Gucci America, Inc. v. Guess?, Inc., 868 F. Supp. 2d 207 (S.D.N.Y. 2012):** Bei Verletzung bekannter Luxusmarken durch Counterfeit-Produkte koennen Statutory Damages bis USD 2.000.000 pro Verletzungshandlung zugesprochen werden; fuer willful infringement erhoehen sich die Maxima auf das Dreifache nach § 35(b) Lanham Act.
+
+## Output-Template: CBP Recordation Update
+
+```
+CBP RECORDATION — ANNUAL UPDATE
+klotzkette SA — Trademark Portfolio
+
+1. REGISTERED US TRADEMARKS (current):
+   Reg. No. [xxxx] — KLOTZKETTE wordmark — Cl. 25 — Rec. date [xx/xx/xxxx]
+   Reg. No. [xxxx] — Doppel-K device — Cl. 14/18 — Rec. date [xx/xx/xxxx]
+
+2. KNOWN COUNTERFEIT FEATURES (attach images):
+   - Stitching quality differences
+   - Hologram location/color deviations
+   - QR code format variations
+   - Packaging typography errors
+
+3. POINTS OF ORIGIN: CN (Guangzhou), TR, IN
+4. CONTACT: Eleanor M. Quintero, Esq., Whitman Brennan Forsythe LLP
+            Tel: +1 212 xxx xxxx / equintero@wbf.law
+```

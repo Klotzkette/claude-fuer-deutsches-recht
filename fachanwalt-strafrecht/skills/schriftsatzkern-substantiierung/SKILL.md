@@ -1,195 +1,216 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Einspruch gegen Strafbefehl, Revisionsbegruendung, Klageerzwingung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Strafverfahren Einspruch und Revision: Anwendungsfall Strafverteidiger muss Einspruch gegen Strafbefehl Revisionsbegruendung oder Klageerzwingungsantrag verfassen. §§ 410 ff. StPO Einspruch Strafbefehl, § 344 StPO Revisionsbegruendung, § 172 Abs. 2 bis 3 StPO Klageerzwingungsantrag, § 147 StPO Akteneinsicht. Pruefraster Tatsachenvortrag-Geruest, Beweisantrag-Liste, Verfahrenshindernisse, Sachrügen und Verfahrensrügen, Strafmass-Hilfsantrag. Output vollstaendiger Verteidigungs-Schriftsatz mit Antrag Begruendung und Beweisangebot. Abgrenzung zu Plaedoyer-Vorbereitung und zu Hauptverhandlung."
 ---
 
 # Schriftsatzkern und Substantiierung im Allgemeines und Wirtschaftsstrafrecht
 
 ## Wann dieser Skill greift
 
-- Es soll ein vollwertiger Schriftsatz im Bereich Allgemeines und Wirtschaftsstrafrecht erstellt werden, typischerweise: Einspruch gegen Strafbefehl, Revisionsbegruendung, Klageerzwingung.
-- Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.
-- Klage-, Widerspruchs-, Einspruchs-, Rechtsmittel-Frist ist bekannt und im Kalender eingetragen.
+- Es soll ein vollwertiger Verteidigungs- oder Antragsschriftsatz im Strafverfahren erstellt werden, typischerweise: Einspruch gegen Strafbefehl (§§ 410 ff. StPO), Revisionsbegruendung (§ 344 StPO), Klageerzwingungsantrag (§ 172 Abs. 2-3 StPO), Beschwerde, Antrag auf gerichtliche Entscheidung (§ 23 EGGVG), Adhaesionsantrag-Erwiderung (§§ 403 ff. StPO).
+- Mandatsannahme und ggf. Verstaendigung sind abgeschlossen oder gescheitert.
+- Einspruchs-, Revisions-, Beschwerde- oder Klageerzwingungsfrist ist bekannt und im Kalender eingetragen.
 
 ## Aufbauschema
 
 ### A. Rubrum
 
-- Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
-- Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
+- Beschuldigte/Angeklagte/Verurteilte (Name, Geburtsdatum, ladungsfaehige Anschrift) - exakte Schreibweise wie in Strafbefehl/Anklage/Urteil.
+- Verteidigerin/Verteidiger mit Beiordnung-/Wahlvermerk (Pflicht-/Wahlverteidigung).
+- Gericht/Staatsanwaltschaft (Zustaendigkeit pruefen; bei Revision zustaendiges Revisionsgericht).
 - Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
-- Streitwert/Gegenstandswert.
+- Bezeichnung der angefochtenen Entscheidung mit Datum.
 
 ### B. Antraege
 
-Klassischer Antrag-Block; je nach Verfahrenstyp:
+Strafprozessual passende Antraege je nach Verfahrenstyp:
 
-- Leistungsantrag (zu zahlen, zu unterlassen, zu beseitigen, herauszugeben).
-- Feststellungsantrag (Feststellungsinteresse darlegen).
-- Gestaltungsantrag (Aufhebung, Anfechtung, Scheidung).
-- Hilfsantraege staffeln (von eng nach weit oder von hoch nach niedrig).
+- **Einspruch gegen Strafbefehl:** Antrag auf Aufhebung des Strafbefehls und Freispruch, hilfsweise Einstellung (§§ 153, 153a, 154, 170 Abs. 2 StPO entsprechend), hilfsweise milderes Strafmass.
+- **Revisionsbegruendung:** Antrag auf Aufhebung des Urteils und Zurueckverweisung, hilfsweise eigene Sachentscheidung (§ 354 StPO), bei reinem Strafausspruch ggf. nur Aufhebung des Rechtsfolgenausspruchs.
+- **Klageerzwingung:** Antrag auf Anordnung der Anklageerhebung gegen Beschuldigte/n (§ 175 StPO).
+- **Beschwerde gegen Haftbefehl:** Aufhebung des Haftbefehls, hilfsweise Aussetzung des Vollzugs gegen Auflagen (§ 116 StPO).
+- **Beweisantraege** gem. § 244 Abs. 3-6 StPO als gesonderter Block; Connexitaet, Konnex zum Tatvorwurf und konkrete Beweistatsache.
 
-### C. Tatsachenvortrag
+### C. Tatsachenvortrag (Verteidigungs-Sachverhalt)
 
-Der Substantiierungs-Kern; pro Anspruchsgrundlage in StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG eine eigene Tatsachen-Sequenz:
+Der Substantiierungs-Kern; pro Tatvorwurf bzw. Tatbestand eine eigene Tatsachen-Sequenz:
 
-1. **Sachverhalts-Chronologie** mit konkreten Daten (Tag, Uhrzeit, Ort, Personen).
-2. **Mandantenseitige Tatsachenbehauptungen** mit Beweisangeboten.
-3. **Gegnerisches Verhalten** mit Belegen (Schreiben, Aussage, Verhalten).
-4. **Schaden/Folgen** bezifferbar (Hauptforderung, Nebenforderung, Zinsen, Folgekosten).
+1. **Sachverhalts-Chronologie** mit konkreten Daten (Tag, Uhrzeit, Ort, Personen) - eigene Version der Verteidigung.
+2. **Bestrittene Tatsachen der Anklage** explizit benennen; pauschales Bestreiten reicht in der Revision nicht.
+3. **Entlastende Tatsachen** mit Beweismitteln (Zeugen, Urkunden, Sachverstaendige, Augenschein).
+4. **Verfahrensgeschichte** (Beschuldigtenvernehmung, Akteneinsicht, Haftgrund, Belehrungen § 136 StPO).
 
 ### D. Rechtliche Wuerdigung
 
-Anspruchsaufbau klassisch:
+Strafrechtlicher Pruefungsaufbau:
 
-1. **Anspruchsgrundlage** nennen (z.B. § X iVm § Y).
-2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
-3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
-4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Allgemeines und Wirtschaftsstrafrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
-5. **Subsumtion-Ergebnis** klar formulieren.
+1. **Tatbestand** des StGB/Nebenstrafrechts (BtMG, AO §§ 369 ff., StVG, WaffG) nennen.
+2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal gegen den eigenen Tatsachenvortrag spiegeln (objektive und subjektive Seite; Vorsatz/Fahrlaessigkeit).
+3. **Rechtfertigungsgruende** (§§ 32, 34 StGB) und **Entschuldigungsgruende** (§§ 33, 35 StGB) pruefen.
+4. **Verfahrenshindernisse:** Verjaehrung (§ 78 StGB), Strafklageverbrauch (Art. 103 III GG, ne bis in idem), fehlender Strafantrag (§ 77 StGB), Immunitaet, Verfolgungsverjaehrung im Steuerstrafrecht (§ 376 AO).
+5. **Beweiswuerdigung-Kritik:** Indizienkette, Aussage-gegen-Aussage-Konstellation, Glaubwuerdigkeitsanalyse.
+6. **Rechtsprechungs-Verweise:** BGH-Strafsenate, BVerfG (Art. 103 GG, Schuldprinzip), EGMR (Art. 6 EMRK).
+7. **Subsumtions-Ergebnis** klar formulieren (Freispruch, Einstellung, Strafmilderung).
 
-### E. Beweisangebote
+### E. Beweisantraege (§ 244 StPO)
 
 Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
-- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort § X Abs. Y, Anlage K1".
-- Zeugenbeweis: Name, ladungsfaehige Anschrift, Beweisthema in einem Satz.
-- Sachverstaendigenbeweis: ggf. Privatgutachten mit anfuegen, gerichtliches Gutachten beantragen.
-- Parteivernehmung als letzte Stufe, mit Antrag § 448 ZPO und Indiziengeruest.
-- Inaugenscheinnahme: bei Sache vor Ort (Mietraum, Baustelle, Fahrzeug, Hardware).
+- **Zeugenbeweis:** Name, ladungsfaehige Anschrift, Beweistatsache in einem Satz, Konnexitaet (Wieso kennt Zeugin die Tatsache?).
+- **Sachverstaendigenbeweis:** Beweistatsache, vorgeschlagene Sachgebietsbezeichnung; bei DNA, Blutalkohol, IT-Forensik, Brandursache, Schussspurenanalyse.
+- **Urkundenbeweis:** konkrete Aktenfundstelle, Inhalt mit Bezug zur Beweistatsache (Verlesung gem. § 249 StPO).
+- **Augenscheinsbeweis:** Tatort, Tatwaffe, Lichtbild, Videoaufnahme.
+- **Praesente Beweismittel** in der Hauptverhandlung (§ 245 StPO).
+- Abgrenzung Beweisantrag / Beweisermittlungsantrag - Beweisantrag braucht bestimmte Tatsache + bestimmtes Beweismittel.
 
 ### F. Anlagenverzeichnis
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
-- Bei Beklagten B1, B2 ...
-- Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
-- Pflicht-Erwaehnung im Tatsachenvortrag.
+- Anlagen mit Datum, Aussteller, Inhaltsbeschreibung in einem Satz.
+- Erwaehnung im Tatsachenvortrag mit Aktenfundstelle (Bl. ... d.A.).
+- Bei Revision: keine neuen Tatsachen, sondern Verweis auf Aktenstellen.
 
-## Substantiierungs-Fallen im Allgemeines und Wirtschaftsstrafrecht
+## Substantiierungs-Fallen im Strafverfahren
 
-- **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig", "in mehreren Faellen") werden vom Gericht uebergangen.
-- **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
-- **Selbst-widersprueche** zwischen Schriftsatz und Anlage ("Im Vertrag steht doch was anderes").
-- **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
-- **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
+- **Pauschales Bestreiten** in der Revision (§ 344 Abs. 2 StPO verlangt bei Verfahrensruege bestimmte Tatsachen, die den Verfahrensmangel ergeben).
+- **Verfahrensruege ohne Tatsachenvortrag** zum Verfahrensgeschehen (Schweigegrund § 261 StPO, abgelehnter Beweisantrag, Verletzung § 244 StPO).
+- **Sachruege** zu allgemein ("Beweiswuerdigung sei luckenhaft") - notwendig: konkret welche Lueke und warum sie ergebnisrelevant ist.
+- **Beweisantrag zur falschen Tatsache** - Beweistatsache deckt nur Teilaussage ab; Gericht lehnt mit § 244 Abs. 3 StPO ab.
+- **Konkurrenzen** (Tateinheit/Tatmehrheit, §§ 52, 53 StGB) nicht ausgearbeitet.
 
 ## Pruefkette vor Versand
 
-1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
-2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
-3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zustaendigkeit positiv festgestellt?
-5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
-6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
-7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
-8. Vier-Augen-Pruefung durch Sozius oder Senior-Anwaeltin?
+1. Antragsformulierung strafprozessual passend (Freispruch, Einstellung, Aufhebung, Zurueckverweisung)?
+2. Jede Tatbestandsmerkmals-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
+3. Frist eingehalten (Einspruchsfrist 2 Wochen § 410 StPO; Revisionseinlegung 1 Woche § 341 StPO, Revisionsbegruendung 1 Monat § 345 StPO; Klageerzwingung 1 Monat § 172 Abs. 2 StPO)?
+4. Verfahrenshindernisse von Amts wegen geprueft (Verjaehrung, Strafantrag)?
+5. Beweisantraege bestimmt formuliert (Tatsache + Mittel + Konnexitaet)?
+6. Anlagenverzeichnis vollstaendig?
+7. beA-Konformitaet (PDF/A, ERVV, qeS bzw. sicherer Uebermittlungsweg)?
+8. Vier-Augen-Pruefung durch Sozius oder Senior-Verteidigerin?
 
 ## Rechtsprechungs-Werkzeugkasten
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Allgemeines und Wirtschaftsstrafrecht.
-- StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG sowie Verordnungen/Richtlinien dazu.
-- Aktuelle Reform- und Gesetzgebungslage einbeziehen.
+- BVerfG (Art. 103 GG, Schuldprinzip, faires Verfahren), BGH-Strafsenate, OLG-Linien, EGMR (Art. 6 EMRK).
+- StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG sowie Nebenstrafrecht (StVG, WaffG, KCanG, AWG).
+- Aktuelle Reform- und Gesetzgebungslage einbeziehen (z.B. KCanG-Folgeanpassungen, RAusBeitrG).
 
 ## Pflicht-Output
 
-1. **Schriftsatz** mit Rubrum, Antraegen, Tatsachenvortrag, Rechtsausfuehrung, Beweisangeboten, Anlagenverzeichnis.
+1. **Schriftsatz** mit Rubrum, Antraegen, Tatsachenvortrag, Rechtsausfuehrung, Beweisantraegen, Anlagenverzeichnis.
 2. **Anlagen-Konvolut** numerisch geordnet, jede Anlage einzeln benannt.
-3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
-4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
-5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
+3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht).
+4. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger, Aktenstudium).
 
+## Beispiel-Tatbestaende im Wirtschaftsstrafrecht
 
-## Beispiel-Anspruchsgrundlagen im Allgemeines und Wirtschaftsstrafrecht
+Drei haeufige Tatbestaende und ihre Substantiierungs-Anforderungen:
 
-Drei haeufig gebrauchte Anspruchsgrundlagen aus StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG und ihre Substantiierungs-Anforderungen:
+### Tatbestand 1: Steuerhinterziehung (§ 370 AO)
 
-### Grundlage 1
+- Steueranspruch nach Steuergesetz: konkrete Steuerart, Veranlagungszeitraum, Bemessungsgrundlage.
+- Unrichtige/unvollstaendige Angabe oder pflichtwidriges Unterlassen: konkrete Erklaerung, konkretes Feld.
+- Steuerverkuerzung in bestimmter Hoehe: Differenz aus Steueranspruch und Festsetzung.
+- Vorsatz: Wissen und Wollen, bedingter Vorsatz reicht (BGH-Linie).
+- Strafzumessung: § 370 Abs. 3 AO (besonders schwerer Fall), Selbstanzeige § 371 AO.
 
-- Tatbestandsmerkmal 1: konkrete Tatsache + Beweis.
-- Tatbestandsmerkmal 2: konkrete Tatsache + Beweis.
-- Tatbestandsmerkmal 3: konkrete Tatsache + Beweis.
-- Rechtsfolge: konkreter Antrag.
+### Tatbestand 2: Betrug (§ 263 StGB)
 
-### Grundlage 2
+- Taeuschung ueber Tatsachen: konkrete Aeusserung oder konkludentes Verhalten.
+- Irrtum: Vorstellung des Getaeuschten; Indizien.
+- Vermoegensverfuegung: konkrete Verfuegung mit Schadensrelevanz.
+- Vermoegensschaden: Saldo; bei Eingehungsbetrug auch Gefaehrdungsschaden (BVerfG-Konkretisierungsgebot).
+- Bereicherungsabsicht und Stoffgleichheit.
 
-Analog - jede Tatsache braucht ein Beweisangebot.
+### Tatbestand 3: Untreue (§ 266 StGB)
 
-### Grundlage 3 (Auffanggrundlage / Sekundaeranspruch)
-
-Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
+- Vermoegensbetreuungspflicht: Rechtsgrund (Anstellungsvertrag, gesetzliche Pflicht, Geschaeftsfuehrer).
+- Pflichtverletzung: konkrete Handlung gegen das Innenverhaeltnis.
+- Vermoegensnachteil: bezifferbar, bei Risikogeschaeft Gefaehrdungsschaden mit Konkretisierungsgebot (BVerfG 2 BvR 2559/08).
+- Vorsatz auch hinsichtlich Pflichtwidrigkeit.
 
 ## Antrags-Muster nach Verfahrenstyp
 
-Typische Antraege in Allgemeines und Wirtschaftsstrafrecht (Einspruch gegen Strafbefehl, Revisionsbegruendung, Klageerzwingung):
+### Einspruch gegen Strafbefehl
 
-- Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
-- Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
-- Streitwert-Antrag (falls Streitwert streitig).
+- "Es wird beantragt, den Strafbefehl des AG ... vom ... (Az. ...) aufzuheben und die Angeklagte/den Angeklagten freizusprechen."
+- Hilfsweise: "... das Verfahren gemaess § 153 Abs. 2 StPO (alternativ § 153a StPO mit konkreter Auflage) einzustellen."
+- Hilfsweise: "... auf eine Geldstrafe von hoechstens X Tagessaetzen zu erkennen."
+
+### Revisionsbegruendung
+
+- "Es wird beantragt, das Urteil des LG ... vom ... mit den ihm zugrundeliegenden Feststellungen aufzuheben und die Sache zur erneuten Verhandlung und Entscheidung an eine andere Strafkammer des LG ... zurueckzuverweisen."
+- Bei reinem Rechtsfolgenangriff: "... das Urteil im Rechtsfolgenausspruch aufzuheben."
+
+### Klageerzwingung
+
+- "Es wird beantragt, die Staatsanwaltschaft ... anzuweisen, oeffentliche Klage gegen die Beschuldigte/n ... wegen ... zu erheben."
+
+### Annex-Antraege
+
+- Pflichtverteidigerbestellung (§ 140 StPO).
+- Akteneinsicht (§ 147 StPO).
+- Haftaussetzung (§ 116 StPO) oder -aufhebung.
+- Wiedereinsetzung in den vorigen Stand (§§ 44 ff. StPO).
 
 ## Beweisaufnahme - was das Gericht sehen will
 
-### Urkundenbeweis
-
-- Anlage K1: Bezeichnung, Datum, kurze Inhaltsbeschreibung.
-- Im Tatsachenvortrag: "Diese Behauptung beruht auf dem als Anlage K1 vorgelegten Schreiben der Beklagten vom TT.MM.JJJJ, dort Seite Y, Absatz Z."
-
 ### Zeugenbeweis
 
-- Form: "Beweis: Aussage der Zeugin Name, ladungsfaehige Anschrift, zum Beweisthema (konkret in einem Satz)."
-- Mehrere Zeuginnen zum gleichen Thema: Indiziengeruest staerken.
-- Keine Beweisermittlung ueber Zeugnis - das Beweisthema muss konkret sein.
+- Form: "Beweis: Vernehmung der Zeugin Name, ladungsfaehige Anschrift, zum Beweis der Tatsache, dass ...; Konnexitaet: Die Zeugin war anwesend / hat das Gespraech selber gefuehrt / hat den Vorgang dokumentiert."
+- Keine Beweisermittlung ueber Zeugnis - Beweistatsache muss bestimmt sein.
 
 ### Sachverstaendigenbeweis
 
-- Bei Allgemeines und Wirtschaftsstrafrecht-typischen Streitfaellen oft notwendig (Bauwerk, IT-System, Anlagebewertung, medizinische Frage).
-- Privatgutachten als Anlage K vorlegen + zugleich gerichtliches Gutachten beantragen.
-- Verfahrensoekonomie: Sachverstaendigen-Kosten frueh mit Mandantin besprechen.
+- Beweistatsache: konkret (z.B. Blutalkoholwert zum Tatzeitpunkt, Programmierfehler im Buchungssystem, Brandursache).
+- Sachgebiet benennen, Notwendigkeit gegenueber anderen Beweismitteln darlegen.
+- Bei Gegengutachten: Privatgutachten beilegen und gerichtlich neues Sachverstaendigengutachten beantragen.
 
-### Parteivernehmung (§ 448 ZPO)
+### Urkundenbeweis
 
-- Letzte Stufe, nur wenn andere Beweismittel ausgeschoepft.
-- Indiziengeruest vortragen, das eine gewisse Wahrscheinlichkeit der Behauptung tragt.
+- Aktenstelle: Bl. ... d.A. mit konkretem Inhalt.
+- Verlesung gem. § 249 StPO oder Selbstleseverfahren gem. § 249 Abs. 2 StPO beantragen.
 
-## Replik-/Duplik-Vorausschau
+### Augenschein
 
-Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
+- Tatort, Tatwaffe, Aufnahme - Antrag auf Inaugenscheinnahme in der Hauptverhandlung.
 
-- Verjaehrung -> Hemmungstatbestand vortragen.
-- Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
-- Formmangel -> Heilung/Schutz-Argument bereit halten.
-- Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
+## Verfahrens- und Sachruege in der Revision
 
-## Elektronische Einreichung (beA, EGVP, EBO, ELSTER)
+Schon im Schriftsatz die Trennung sauber durchziehen:
+
+- **Verfahrensruegen:** § 244 StPO (Ablehnung Beweisantrag), § 261 StPO (Wuerdigungs-Lueke aus Inbegriff der Hauptverhandlung), § 338 StPO (absolute Revisionsgruende), § 136 StPO (Belehrungsverstoss); jede Ruege braucht Tatsachenvortrag, der den Mangel ergibt (§ 344 Abs. 2 S. 2 StPO).
+- **Sachruegen:** Subsumtions-, Konkurrenz-, Strafzumessungs-, Schuldfahigkeits-Fehler; Bezug auf die Urteilsgruende, nicht auf das Akteninhalt.
+
+## Elektronische Einreichung (beA, EGVP, EBO)
 
 - PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
 - Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
 - Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand ueber beA (sicherer Uebermittlungsweg).
 - Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Allgemeines und Wirtschaftsstrafrecht ggf. spezifische ERV-Pflichten beachten.
+- Spezifika im Strafverfahren: Strafverteidiger reichen Schriftsaetze regelmaessig ueber beA an Strafkammer/Staatsanwaltschaft ein; Postausgang nach § 32a StPO.
 
 ## Schriftsatz-Stil
 
 - Aktiv, kurze Saetze, klare Subsumtion.
-- Keine Floskeln ("Die Klage ist zulaessig und begruendet" als Ueberschrift, aber dann substantiieren).
-- Mandanten- und Beweismittel-Zitate woertlich, in Anfuehrungszeichen, mit Anlage-Verweis.
-- Keine Gefuehlsausbrueche - sachlich auch bei provokanter Gegenseite.
+- Keine Floskeln; Beweismittel-Zitate woertlich mit Aktenfundstelle.
+- Sachlich auch bei provokanter Anklage.
+- Bei Revision: keine Tatsachenwertung jenseits der Urteilsgruende.
 
 ## Vier-Augen-Check
 
 Vor Versand:
 
-- [ ] Antrag tenorierungsfaehig
-- [ ] Frist gewahrt mit Reserve
-- [ ] Jede Tatsache hat Beweis
-- [ ] Anlagen vollstaendig und nummeriert
-- [ ] Rechtsprechungs-Zitat aktuell
-- [ ] Streitwert plausibel
-- [ ] beA/EGVP-konform
+- [ ] Antrag strafprozessual passend (Freispruch/Einstellung/Aufhebung/Zurueckverweisung)
+- [ ] Frist gewahrt mit Reserve (Einspruch 2 Wochen, Revisionseinlegung 1 Woche, Revisionsbegruendung 1 Monat)
+- [ ] Jede Tatsache hat Beweisantrag oder Aktenfundstelle
+- [ ] Verfahrenshindernisse von Amts wegen geprueft
+- [ ] Sachruege/Verfahrensruege sauber getrennt
+- [ ] Rechtsprechungs-Zitat aktuell (BGH/BVerfG/EGMR)
+- [ ] beA-konform mit qeS oder sicherem Uebermittlungsweg
 - [ ] Senior-/Sozius-Freigabe
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Mandatsannahme und Erstprognose.
+- `vergleichsverhandlung-strategie` (im selben Plugin) fuer Verstaendigung § 257c StPO, Einstellung § 153a StPO und Adhaesion.
+- `fachanwalt-strafrecht-hauptverhandlung-vorbereiten` fuer Beweisantraege in der Hauptverhandlung.

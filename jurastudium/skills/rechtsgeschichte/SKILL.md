@@ -5,6 +5,29 @@ description: "Übt deutsche und europäische Rechtsgeschichte für Studierende �
 
 # Rechtsgeschichte für Juristen
 
+
+## Triage zu Beginn
+1. Welche Epoche oder welches Thema steht im Fokus: roemisches Recht, BGB-Entstehung, NS-Recht, SED-Unrecht, GG-Genese, EU-Entwicklung?
+2. Dient die Rechtsgeschichte als Examensvorbereitung oder als Verstaendnis-Vertiefung?
+3. Welche historischen Bezuege sind fuer den aktuellen Lerninhalt relevant?
+4. Gibt es Verbindungslinien zwischen Rechtsgeschichte und geltendem Recht?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 26.07.2004 - II ZR 373/00, BGHZ 160, 149 — Radbruchsche Formel: BGH wendet Grundsatz an, dass extremes Unrecht kein Recht ist; relevant fuer Aufarbeitung von NS-Urteilen.
+- BGH, Urt. v. 03.11.1992 - 5 StR 370/92, BGHSt 39, 1 — Mauerschuetzenprozesse: Strafbarkeit trotz DDR-Recht (Befehlsnotstand) aufgrund ueberpositivem Recht; Radbruchsche Formel als Grundlage.
+- BVerfG, Beschl. v. 14.02.1968 - 2 BvR 557/62, BVerfGE 23, 98 — Rechtsgueltigkeit von NS-Gesetzen: BVerfG verneint Gueltigkeit bestimmter NS-Enteignungsgesetze aufgrund des Prinzips elementarer Gerechtigkeit.
+- BVerfG, Urt. v. 25.02.1975 - 2 BvF 1/74, BVerfGE 39, 1 — Grundgesetz als Reaktion auf NS-Unrecht: Art. 1 GG (Menschenwuerde) als unveraeusserhcher Kern des GG aus historischer Perspektive.
+
+## Zentrale Normen
+- Art. 1 GG — Menschenwuerde: historisch aus NS-Reaktion entstanden
+- Art. 3 GG — Gleichheitssatz: historisch aus Ueberwindung NS-Rassegesetze
+- Art. 79 Abs. 3 GG — Ewigkeitsklausel: historisch gesicherter Kern des GG
+- Art. 1 EUV — Unionsvertrag: Grundstein der EU-Entwicklung seit Roemischen Vertraegen 1957
+
+## Kommentarliteratur
+- Maunz/Duerig GG Art. 1 Rn. 1-40 (Entstehungsgeschichte der Menschenwuerde-Garantie)
+- Jarass/Pieroth GG Einl. Rn. 1-30 (Entstehungsgeschichte des Grundgesetzes)
+
 ## Zweck
 
 Rechtsgeschichte ist im Studium oft Pflichtmodul ohne Examensrelevanz — und wird daher unterschätzt. **Das ist ein Fehler.** Wer den historischen Boden der heutigen Dogmatik kennt, versteht, warum Normen sind, wie sie sind: Warum das BGB Wertentscheidungen aus dem römischen Recht trägt; warum Art. 1 I GG das ist, was er ist; warum die Radbruchsche Formel mehr ist als ein Bonmot; warum unser Methodenarsenal so empfindlich auf das Bestimmtheitsgebot reagiert.

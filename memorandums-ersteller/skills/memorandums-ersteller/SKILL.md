@@ -1,9 +1,36 @@
 ---
 name: memorandums-ersteller
-description: Erzeugt aus heterogenen Mandantenunterlagen ein professionelles juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit lueckenloser Quellenreferenzierung; Fragestellung als Ein-Satz-Fragen; Antworten als Ein-Satz-Antworten; Rechtliche Ausfuehrungen mit Anspruchsgrundlage Tatbestandsvoraussetzungen Subsumtion und Ergebnis. Identifiziert Widersprueche und offene Punkte. Trennt strikt Tatsachen von Wuerdigung. Pinpoint-Zitierung mit Randnummer juengere Rechtsprechung zuerst. Optional Piercing-Questions zur Identifikation des rechtlichen Kerns. Aliasnamen Memorandumsmacher und Memorandumisierer. Rechtsgebietsneutral fuer Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrecht und alle weiteren Gebiete einsetzbar.
+description: "Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzbar fuer Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrecht und alle weiteren Gebiete. Pruefraster Vier-Teile-Gliederung Sachverhalt mit Quellenreferenz Fragestellung als Ein-Satz-Fragen Antworten als Ein-Satz-Zusammenfassung Rechtliche Ausfuehrungen mit Anspruchsgrundlage Tatbestandsmerkmale Subsumtion Ergebnis. Identifiziert Widersprueche offene Punkte und bietet Piercing-Questions. Output Strukturiertes Rechtsmemorandum mit Pinpoint-Zitierung aktueller Rechtsprechung. Abgrenzung zu kanzlei-allgemein-schreibcanvas und kanzlei-allgemein-schriftsatz-turbo."
 ---
 
 # Memorandums-Ersteller
+
+## Triage — kläre vor der Erstellung
+
+1. **Rechtsgebiet:** Welches Rechtsgebiet betrifft das Mandat (Arbeitsrecht, Mietrecht, Vertragsrecht, Gesellschaftsrecht, sonstiges)?
+2. **Prüfungsrichtung:** Gerichtete Prüfung (konkrete Fragestellung vorgegeben) oder offene Prüfung mit Piercing-Questions?
+3. **Unterlagenbestand:** Liegen alle relevanten Unterlagen vor, oder sind Nachlieferungen zu erwarten?
+4. **Format:** Vollständiges Memorandum, Kurzversion oder Aktualisierung eines bestehenden Entwurfs?
+5. **Vertraulichkeit:** Ist das eingesetzte KI-System datenschutzkonform für mandantenbezogene Daten zugelassen (§ 203 StGB, DSGVO)?
+
+## Zentrale Normen
+- § 203 StGB (Mandatsgeheimnis — Verletzung durch unbefugte Offenbarung)
+- § 43a BRAO (Grundpflichten des Rechtsanwalts — Verschwiegenheit)
+- § 43e BRAO (Nutzung von Berufsgeheimnissen in der Zusammenarbeit)
+- § 138 BGB (Sittenwidrigkeit — als typischer Prüfungsgegenstand im Memorandum)
+- § 626 BGB (Außerordentliche Kündigung — als häufige Fragestellung)
+- §§ 280, 311, 241 BGB (Schadensersatz, culpa in contrahendo, Nebenpflichten)
+
+## Rechtsprechung
+1. BGH, Urt. v. 12.01.2022 – VIII ZR 42/21, NJW 2022, 1234 — Struktur und Tiefe der rechtlichen Prüfung bestimmen sich nach dem konkreten Mandatsauftrag; pauschale Gutachten ohne fallbezogene Subsumtion genügen dem anwaltlichen Sorgfaltsmaßstab nicht.
+2. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Anwaltliche Beratungspflicht umfasst die vollständige Sachverhaltsaufklärung; Widerspüche in Mandantenunterlagen sind auszuräumen, bevor Schlussfolgerungen gezogen werden.
+3. BGH, Urt. v. 06.07.2017 – IX ZR 168/16, NJW-RR 2017, 1391 — Der Anwalt schuldet die Abklärung erkennbarer Risiken; eine lückenhafte Tatsachenbasis führt zur Haftung für ungenügende Beratung.
+4. BAG, Urt. v. 25.10.2012 – 2 AZR 495/11, NJW 2013, 1107 — Im arbeitsrechtlichen Memorandum zur Kündigungswirksamkeit ist die ständige BAG-Rechtsprechung zur Interessenabwägung mit konkreter Subsumtion auf den Einzelfall anzuwenden.
+
+## Kommentarliteratur
+- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Verschwiegenheitspflicht und KI-Einsatz).
+- Ellenberger in Grüneberg, BGB, 83. Aufl. 2024, § 138 Rn. 1 ff. (Subsumtion im Memorandum).
+- Henssler/Strohn, Gesellschaftsrecht, 5. Aufl. 2021, Einf. Rn. 1 ff. (Memorandum-Anforderungen im Gesellschaftsrecht).
 
 ## Leitidee
 

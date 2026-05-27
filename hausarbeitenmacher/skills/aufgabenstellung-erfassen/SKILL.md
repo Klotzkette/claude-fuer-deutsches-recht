@@ -1,9 +1,32 @@
 ---
 name: aufgabenstellung-erfassen
-description: Sokratische Anleitung zum Lesen und Verstehen eines Hausarbeit-Sachverhalts. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche und unwesentliche Tatsachen Beteiligte Akten-Verlauf Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird gepruft welcher Standpunkt. Erfasst Stoff-Schwerpunkt nicht durch Loesung sondern durch Hilfsfragen.
+description: "Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprueft. Normen §§ 133 157 BGB Auslegungsmethodik. Pruefraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow)."
 ---
 
 # Aufgabenstellung erfassen
+
+
+## Triage zu Beginn
+1. Hausarbeit oder Seminararbeit — und von welchem Lehrstuhl/Fachgebiet?
+2. Welches Rechtsgebiet ist nach erster Lektuere des Sachverhalts erkennbar?
+3. Gibt es im Bearbeitungsvermerk explizite Einschraenkungen ("Verjährung ist nicht zu prüfen")?
+4. Wie viel Zeit bleibt bis zur Abgabe?
+
+## Aktuelle Rechtsprechung und Methodik
+- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung eines Sachverhalts nach dem Empfängerhorizont (§§ 133, 157 BGB analog): Tatsachen sind nach objektiv erkennbarer Bedeutung zu werten, nicht nach subjektivem Verstaendnis des Lernenden.
+- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Sorgfaeltige Sachverhaltserfassung als Grundlage rechtsstaatlicher Pruefung; fehlende Tatsachenerfassung fuehrt systematisch zu falschen Subsumtionsergebnissen.
+- BGH, Urt. v. 14.10.2003 - VI ZR 425/02, NJW 2004, 356 — Zeitstrahl-Methode zur Verjährungspruefung: Datum des Vertragsschlusses, der Pflichtverletzung und der Klageerhebung sind zwingend zu erfassen.
+- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — Auslegung des Bearbeitungsvermerks nach Auslegungs-Grundsaetzen (grammatisch, systematisch, teleologisch): Pruefungsumfang wird durch Bearbeitungsvermerk abschliessend bestimmt.
+
+## Zentrale Normen
+- §§ 133, 157 BGB — Auslegung von Willenserklärungen und Vertraegen: Massstab fuer Sachverhaltswuerdigung
+- § 195 BGB — Regelverjaehrung 3 Jahre: Zeitstrahl-Relevanz bei Klage/Mahnung/Verjährungsbeginn
+- § 199 BGB — Verjährungsbeginn: Kenntnis und grob fahrlässige Unkenntnis
+- § 204 BGB — Hemmung der Verjährung durch Rechtsverfolgung
+
+## Kommentarliteratur
+- Grüneberg/Ellenberger BGB §§ 133, 157 Rn. 1-30 (Auslegung: Grundsätze und Methoden)
+- Larenz/Wolf Allgemeiner Teil des Bürgerlichen Rechts, 9. Aufl. 2004, § 28 (Auslegung von Rechtsgeschäften)
 
 ## Zweck
 

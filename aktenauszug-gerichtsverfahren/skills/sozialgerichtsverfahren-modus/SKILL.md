@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsverfahren-modus
-description: "Modus-Skill fuer SGG-Verfahren: Klage Berufung nach Paragraph 143 ff. SGG und Eilantrag nach Paragraph 86b SGG. Beruecksichtigt Vorverfahren Widerspruchsfrist Klagefrist Besonderheiten des sozialgerichtlichen Amtsermittlungsgrundsatzes und Leistungsarten der Sozialversicherung."
+description: "Aktenauszug fuer SGG-Verfahren erstellen: Klage Berufung §§ 143 ff. SGG Eilantrag § 86b SGG Widerspruchsverfahren. Amtsermittlungsgrundsatz Sozialversicherungs-Leistungsarten. Normen SGG §§ 51 77 86b 143. Pruefraster SGG-spezifische Fristen Vorverfahrens-Pruefung Leistungsarten. Output SGG-spezifischer Aktenauszug. Abgrenzung zu verwaltungsprozess-modus (VwGO) und arbeitsgerichtsverfahren-modus (ArbGG)."
 ---
 
 # Sozialgerichtsverfahren-Modus (SGG)
@@ -8,6 +8,36 @@ description: "Modus-Skill fuer SGG-Verfahren: Klage Berufung nach Paragraph 143 
 ## Zweck
 
 Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für sozialgerichtliche Verfahren nach dem Sozialgerichtsgesetz (SGG). Sozialgerichtsverfahren betreffen Streitigkeiten im Bereich der Sozialversicherung (GKV, GRV, Arbeitslosenversicherung, Pflegeversicherung, Unfallversicherung) sowie der Grundsicherung.
+
+## Triage — kläre vor Aktivierung des Modus
+
+1. Widerspruch eingelegt? Liegt Widerspruchsbescheid vor? (Klagefrist läuft ab Zustellung!)
+2. Eilrechtsschutz erforderlich? (§ 86b SGG — einstweilige Anordnung oder aufschiebende Wirkung)
+3. Welches SGB-Kapitel ist betroffen? (SGB II, V, VI, VII, IX, XI, XII)
+4. Eigene Beweiserhebung des Gerichts (§ 103 SGG) — wurden Sachverständige oder Aktenbeiziehung angeordnet?
+
+## Zentrale Normen (SGG / SGB)
+
+- § 84 SGG — Widerspruchsfrist 1 Monat ab Bekanntgabe
+- § 87 SGG — Klagefrist 1 Monat ab Zustellung Widerspruchsbescheid
+- § 86b SGG — Eilrechtsschutz (Abs. 1: aufschiebende Wirkung; Abs. 2: einstweilige Anordnung)
+- § 103 SGG — Amtsermittlungsgrundsatz (Untersuchungsgrundsatz)
+- § 151 SGG — Berufungsfrist 1 Monat; § 164 SGG — Revisionsfrist 1 Monat
+- § 183 SGG — Keine Gerichtskosten für Versicherte (Kostenprivileg)
+- § 66 Abs. 2 SGG — Jahresfrist bei fehlerhafter Rechtsbehelfsbelehrung
+
+## Rechtsprechung (BSG / BVerfG — Leitsätze)
+
+- BSG, Urt. v. 26.05.2020 - B 4 AS 27/19 R, BSGE 130, 210 — Zur einstweiligen Anordnung nach § 86b Abs. 2 SGG: Anordnungsanspruch und Anordnungsgrund müssen glaubhaft gemacht werden; besondere Eilbedürftigkeit bei Grundsicherungsleistungen.
+- BSG, Urt. v. 14.03.2019 - B 14 AS 51/18 R, SozR 4-4200 § 22 Nr. 103 — Zur Berücksichtigung tatsächlicher Unterkunftskosten nach § 22 SGB II; Angemessenheitsgrenze muss konkret und transparent berechnet werden.
+- BSG, Urt. v. 28.06.2018 - B 3 KR 12/17 R, BSGE 126, 149 — Zur Leistungspflicht der GKV bei neuen Behandlungsmethoden; Nutzen-Risiko-Abwägung nach § 2 Abs. 1 SGB V.
+- BVerfG, Beschl. v. 12.05.2005 - 1 BvR 569/05, BVerfGK 5, 237 — Verfassungswidrige Leistungsversagung verletzt Menschenwürde (Art. 1 Abs. 1 GG) wenn dadurch Existenzminimum nicht gesichert; Eilrechtsschutz ist zu gewähren.
+
+## Kommentarliteratur
+
+- Keller in: Meyer-Ladewig/Keller/Leitherer SGG § 86b Rn. 1 ff. (Eilrechtsschutz)
+- Littmann/Biesel SGB II § 7 Rn. 1 ff. (Leistungsberechtigte in der Grundsicherung)
+- Hauck/Noftz SGB V § 27 Rn. 1 ff. (Krankenbehandlung)
 
 ## Sachgebiete der Sozialgerichtsbarkeit
 

@@ -5,6 +5,20 @@ description: "Vollstaendige Klageschrift Entfristungsklage mit Pflicht-Disclaime
 
 # Ausgabe: Vollständige Klageschrift Entfristungsklage mit Pflicht-Disclaimer (Laie)
 
+## Zentrale Normen
+
+- § 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende
+- §§ 14 Abs. 4, 16 Satz 1 TzBfG — Schriftformerfordernis und Unbefristetheit als Rechtsfolge
+- § 7 KSchG (analog) — Fiktionswirkung bei Fristversäumnis
+- § 11 Abs. 1 ArbGG — kein Anwaltszwang in 1. Instanz
+- § 42 Abs. 2 GKG — Streitwert (3 Monatsverdienste)
+
+## Rechtsprechungshinweise
+
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Begründungsbaustein Schriftformmangel: § 14 Abs. 4 TzBfG verlangt eigenhändige Unterschrift auf Originalurkunde vor Arbeitsaufnahme; digitale Signatur ist ausdrücklich ausgeschlossen.
+- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Einheitlichkeit der Urkunde: Beide Parteien müssen dieselbe körperliche Urkunde unterzeichnen.
+- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot zeitlich unbegrenzt; bei Verstoß gegen § 14 Abs. 2 Satz 2 TzBfG gilt Vertrag als unbefristet.
+
 ## Vollständige Klageschrift
 
 ---

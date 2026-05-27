@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-tio-schiedsgericht-adsp-klauseln
-description: "TIO Transport Industry Tribunal CMR-Vergleich. ADSp-Schiedsklauseln 2017/2025 § 21 ADSp. DGI-Branchen-Schlichtungsstelle. Internationale Spediteur-Streit ICC. Vorgerichtliche Korrespondenz Schadensregulierung SZR-Cap-Kalkulation. Workflow Schadensanzeige Vergleich Schiedsverfahren."
+description: "TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht pruefen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Pruefraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselpruefung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren."
 ---
 
 # Transport-Recht — TIO / ADSp-Schiedsklauseln

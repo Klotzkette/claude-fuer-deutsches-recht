@@ -1,6 +1,6 @@
 # Fachanwalt Strafrecht
 
-Light-Touch-Plugin Fachanwalt für Strafrecht. Orientierung Normen Notfristen Standardliteratur. StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergänzend zum Plugin aktenaufbereiter-strafrecht.
+Plugin Fachanwalt für Strafrecht. Orientierung Normen Notfristen Standardliteratur. StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergänzend zum Plugin aktenaufbereiter-strafrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-strafrecht-orientierung` | Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. Light-Touch-Plugin für schnelle Verortung. Strafverteidigung im Ermittlungsverfahren (Akteneinsicht § 147 StPO) H… |
+| `fachanwalt-strafrecht-orientierung` | Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. Plugin für schnelle Verortung. Strafverteidigung im Ermittlungsverfahren (Akteneinsicht § 147 StPO) H… |
 
 ## Lizenz
 

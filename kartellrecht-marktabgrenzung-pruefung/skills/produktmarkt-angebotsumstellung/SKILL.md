@@ -59,3 +59,13 @@ Anbieter X (Produkt Y):
 ## Zwischenergebnis
 
 Supply-Side Substitution **bestätigt / widerlegt / offen** mit Hauptbegründung.
+
+## Leitentscheidungen Angebotsumstellung
+
+- EuGH, Urt. v. 09.11.1983 — Rs. 322/81 (Michelin I), Slg. 1983, 3461 — Angebotsseitige Umstellung Reifenproduktion; kurzfristig moegliche Umstellungen grenzen Markt aus.
+- EK, Marktdefinitionsbekanntmachung 2024 Rn. 40-60 — Supply-Side Substitution als eigenstaendiges Kriterium neben Nachfragesubstitution; Zeitraum 1 Jahr.
+- BGH, Urt. v. 06.11.2018 — KZR 54/17, WuW 2019, 87 — Angebotsumstellung als Einschlusskritierium; technische und wirtschaftliche Moeglichkeit massgeblich.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 10-25 (Angebotsumstellung, Supply-Side Substitution)

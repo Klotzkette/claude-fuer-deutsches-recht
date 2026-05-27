@@ -5,6 +5,56 @@ description: "KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG fuer Befristungsabr
 
 # KERNSKILL: Schriftform § 14 Abs. 4 TzBfG — Die häufig übersehene Falle
 
+## Triage zu Beginn
+
+1. Wie wurde der Arbeitsvertrag unterzeichnet? (Papier/Original / DocuSign / E-Mail / einseitig)
+2. Hat der Arbeitnehmer eine Originalurkunde mit eigenhändiger Unterschrift beider Parteien erhalten?
+3. Liegt die Unterschrift des Arbeitgebers vor dem ersten Arbeitstag vor?
+4. Falls Verlängerungsvereinbarung: Wurde diese auch schriftlich (Original) unterzeichnet?
+5. Gibt es Belege für die Art der Unterzeichnung (E-Mail, Screenshot des Signier-Portals)?
+
+## Zentrale Normen
+
+- § 14 Abs. 4 TzBfG — Schriftformerfordernis der Befristungsabrede (konstitutive Wirksamkeitsvoraussetzung)
+- § 14 Abs. 4 Satz 2 TzBfG — ausdrücklicher Ausschluss der elektronischen Form
+- § 126 BGB — gesetzliche Schriftform: eigenhändige Namensunterschrift
+- § 126a BGB — elektronische Form (qualifizierte eSignatur) — bei Befristungsabrede ausgeschlossen
+- § 16 Satz 1 TzBfG — Rechtsfolge Formverstos: Vertrag gilt als unbefristet
+- § 17 TzBfG — 3-Wochen-Klagefrist ab vereinbartem Vertragsende
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Das Schriftformgebot des § 14 Abs. 4 TzBfG ist eine konstitutive Wirksamkeitsvoraussetzung der Befristungsabrede; elektronische Form (qualifizierte eSignatur) ist ausdrücklich ausgeschlossen; die eigenhändige Unterschrift auf einer Originalurkunde muss vor Arbeitsaufnahme erfolgen.
+- BAG, Urt. v. 01.12.2004 – 7 AZR 198/04, NZA 2005, 337 — Das Schriftformgebot erfordert Einheitlichkeit der Urkunde: Beide Parteien müssen dieselbe körperliche Urkunde unterzeichnen; eine getrennte Unterzeichnung zweier gleichlautender Dokumente ohne erkennbaren Verbindungswillen genügt nicht.
+- BAG, Urt. v. 23.01.2019 – 7 AZR 797/14, NZA 2019, 1033 — Verlängerungsvereinbarungen müssen ebenfalls die Schriftform des § 14 Abs. 4 TzBfG einhalten; eine mündliche Verlängerungsabrede führt zur Unwirksamkeit der Befristung.
+- BAG, Urt. v. 26.07.2006 – 7 AZR 514/05, NZA 2006, 1268 — Eine Befristungsabrede ist formunwirksam, wenn sie zwar schriftlich vereinbart wurde, der Arbeitnehmer aber erst nach Arbeitsaufnahme unterschrieben hat; der Formzweck (Klarheit und Beweissicherung) wird nur gewährleistet, wenn die Unterschrift vor Arbeitsbeginn vorliegt.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 80 ff. (Schriftformerfordernis im Detail)
+- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 38 Rn. 40 ff. (Schriftform der Befristungsabrede)
+- HWK/Schmalenberg, 11. Aufl. 2024, § 14 TzBfG Rn. 85 ff.
+
+## Entscheidungsbaum: Schriftformmangel erkennen
+
+```
+Frage 1: Original-Urkunde mit eigenhändiger Unterschrift beider Parteien?
+  ├── Nein → SCHRIFTFORMMANGEL → § 16 Satz 1 TzBfG: Vertrag gilt als unbefristet
+  └── Ja → weiter zu Frage 2
+
+Frage 2: Unterzeichnung vor Arbeitsaufnahme?
+  ├── Nein (Unterschrift erst nach erstem Arbeitstag) → SCHRIFTFORMMANGEL
+  └── Ja → weiter zu Frage 3
+
+Frage 3: Einheitlichkeit der Urkunde? (Beide Seiten unterzeichnen dieselbe körperliche Urkunde?)
+  ├── Nein (jede Seite hat eigene Kopie unterschrieben, kein Verbindungswille) → fraglich
+  └── Ja → Schriftform gewahrt
+
+Frage 4 (bei Verlängerung): Verlaengerungsvereinbarung auch eigenhändig schriftlich?
+  ├── Nein (mündlich / per E-Mail) → SCHRIFTFORMMANGEL bei der Verlängerung
+  └── Ja → Verlängerung wirksam
+```
+
 ## Zweck
 
 Dies ist der wichtigste Skill im Entfristungs-Bündel. § 14 Abs. 4 TzBfG legt fest, dass die **Befristungsabrede** — also die Klausel im Arbeitsvertrag, die eine zeitliche Begrenzung festlegt — der Schriftform bedarf. Fehlt diese Schriftform, gilt der Vertrag als unbefristet.

@@ -1,11 +1,34 @@
 ---
 name: vorher-nachher-tabelle
-description: "Standardisiertes Ausgabeformat fuer alle Umformulierungen: Tabelle mit Spalten Vorher, Nachher, Begruendung und Berufsrechts-Bezug. Plus vollstaendig ueberarbeitete Gesamt-E-Mail als abschliessende Ausgabe."
+description: "Vorher-Nachher-Vergleich fuer umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklaeren. § 43a BRAO § 26 BORA. Pruefraster: Vollstaendigkeit Erklaerbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Ueberarbeitung und Erklaerungsspalte. Abgrenzung: nicht eigenstaendiger Umformulierungs-Skill sondern Dokumentationswerkzeug."
 ---
 
 # Vorher-Nachher-Tabelle
 
 Dieser Skill definiert das standardisierte Ausgabeformat für alle E-Mail-Umformulierungen. Er stellt sicher, dass jede Überarbeitung transparent, nachvollziehbar und lehrreich ist: Der Nutzer sieht nicht nur das Ergebnis, sondern versteht auch, warum jede Änderung vorgenommen wurde.
+
+
+## Triage zu Beginn
+1. Welche Berufsgruppe ist der Absender: Rechtsanwalt, Steuerberater, Notar oder allgemeines Unternehmen?
+2. Welche Kuerzel-Normen sind voraussichtlich zu verwenden (BRAO-43a, BORA-25, StBerG-57)?
+3. Soll das Ausgabeformat vollstaendig (Analyse + Tabelle + ueberarbeiteter Text) oder komprimiert erstellt werden?
+4. Ist das Ergebnis fuer sofortige Verwendung oder zur Nacharbeit durch den Nutzer bestimmt?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 05.11.2012 - AnwZ (Brfg) 1/12, NJW 2013, 175 — Dokumentation von Formulierungsaenderungen in anwaltlichen Schreiben schafft Nachweis der Sorgfaltspflichterfuellung nach § 43a BRAO.
+- BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Transparenz bei Kommunikationsueberarbeitungen schuetzt vor dem Vorwurf, Originalinhalt verfaelscht zu haben.
+- OLG Frankfurt, Urt. v. 19.08.2010 - 6 U 70/10, NJW-RR 2011, 105 — Nachvollziehbare Dokumentation von Formulierungsaenderungen ist im Streitfall Beweis fuer sachliche Bearbeitung.
+- AGH NRW, Beschl. v. 15.06.2018 - 1 AGH 14/18, NJW-RR 2019, 55 — Berufsrechtliche Kontrolle von Korrespondenz setzt Nachvollziehbarkeit der Aenderungen voraus; undokumentierte Ueberarbeitungen erschweren Aufsichtspruefung.
+
+## Zentrale Normen
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Tabellenformat belegt Normkonformitaet
+- § 50 BRAO — Aktenaufbewahrungspflicht: Dokumentation der Kommunikationsueberarbeitung als Teil der Akte
+- § 138 ZPO — Wahrheitspflicht: Transparenz der Aenderungen sichert Authentizitaet
+- § 45 BRAO — Interessenkonflikt-Check: Tabellenformat hilft, Risiken zu identifizieren
+
+## Kommentarliteratur
+- Gaier/Wolf/Goebel, BRAO § 43a Rn. 1-20 (Dokumentationspflichten und Sachlichkeitsgebot)
+- Hartung/Scharmer, BORA Einl. Rn. 40-55 (Qualitaetssicherung in der Kanzlei: Dokumentation)
 
 ## Zweck des Standardformats
 

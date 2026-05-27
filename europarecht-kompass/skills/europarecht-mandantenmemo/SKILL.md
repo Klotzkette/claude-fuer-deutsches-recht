@@ -1,6 +1,6 @@
 ---
 name: europarecht-mandantenmemo
-description: "Erstellt verständliche EU-Rechtsmemos mit Rechtsquellen, Ampel, Umsetzungsplan, Risiken und Management-Entscheidungen."
+description: "Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Pruefraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht fuer interne Vermerke oder Schriftsaetze."
 ---
 
 # Mandantenmemo und Executive Briefing
@@ -47,3 +47,47 @@ Business-taugliche EU-Memos liefern Rechtsquellenstatus, Risikoampel, Maßnahmen
 ## Ton
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 19.06.1990 - C-213/89 (Factortame), EuGHE 1990 I-2433 — nationales Gericht muss EU-Recht-Anspruch vorrang gegenueber nationalem Recht geben; vorlaeufiger Rechtsschutz EU-Recht-Basis.
+- EuGH, Urt. v. 15.06.2000 - C-365/98 (Brinkmann), EuZW 2000, 556 — Staatshaftung: Hinweis in Mandantenmemo: EU-Recht-Verstoß und Schaden reichen nicht; qualifizierter Verstoß (hinreichend qualifiziert) erforderlich.
+
+## Triage vor Mandantenmemo
+
+Bevor losgelegt wird, klaere:
+1. Adressat — Mandant direkt (verstaendlich) oder Gericht (juristisch praezise)?
+2. Dringlich — Frist EU-Recht (Art. 263 AEUV 2 Monate) oder Zeit vorhanden?
+3. Niveau — Kurzmemo (1 Seite) oder vollstaendige Rechtslage (5 Seiten)?
+
+## Output-Template: Mandantenmemo EU-Recht
+
+**Adressat:** Mandant
+**Tonfall:** Verstaendlich-erklaerend; Rechtslage klar ohne Jargon
+
+```
+MANDANTENMEMO EU-RECHT
+Kanzlei: [KANZLEI] — Datum: [DATUM]
+Mandant: [NAME]
+Betreff: [THEMA IN EINEM SATZ]
+
+I. SACHVERHALT IN KURZE
+[3-5 Saetze]
+
+II. RECHTLICHE EINORDNUNG
+Die Frage betrifft [EU-Recht — Art. X AEUV / VO / RL].
+Fuer Sie bedeutet das: [klare Aussage ohne Jargon].
+
+III. RISIKEN UND CHANCEN
+Risiko: [...]
+Chance: [z.B. Schadensersatz nach Francovich-Doktrin]
+
+IV. EMPFEHLUNG
+Wir empfehlen: [Klage / Vorlage / Beschwerde Kommission / Abwarten]
+Frist: [DATUM]
+Kosten: [Schaetzung]
+
+V. NAECHSTE SCHRITTE
+1. [Schritt — Owner — Frist]
+2. [Schritt]
+```

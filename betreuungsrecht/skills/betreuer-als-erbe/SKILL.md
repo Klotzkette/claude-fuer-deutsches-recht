@@ -11,6 +11,16 @@ Immer dann, wenn die Frage steht, ob ein **Berufsbetreuer** im Sinne des § 19 A
 
 Der Skill greift nicht, wenn der Bedachte **ehrenamtlicher** Betreuer im Sinne der §§ 21, 22 BtOG ist — für diese gilt § 30 BtOG nicht. Hierzu siehe Skill `betreuer-registrierung` zur Abgrenzung.
 
+## Aktuelle Rechtsprechung
+- OLG Nürnberg, Beschl. v. 19.07.2023 - 15 Wx 988/23, NJW-RR 2023, 1307 Rn. 14 — Verstoß gegen § 30 Abs. 1 BtOG durch Annahme einer Erbschaft führt nicht zur Nichtigkeit nach § 134 BGB; das Testament und der Vermögensübergang nach § 1922 BGB bleiben wirksam; Testierfreiheit des Erblassers hat Vorrang.
+- BGH, Beschl. v. 26.10.2011 - IV ZB 33/10, BGHZ 191, 224 Rn. 22 — Testament zugunsten Heimleiter nach § 14 HeimG a.F. nichtig nach § 134 BGB; BtOG-Regelung § 30 enthielt bewusst kein entsprechendes Verbotsgesetz und unterscheidet sich damit wesentlich von der Heimbewohnerschutznorm.
+- OLG Nürnberg, Urt. v. 07.01.2021 - 6 U 22/20, NJW-RR 2021, 890 Rn. 18 — Sittenwidrigkeit einer letztwilligen Verfügung nach § 138 BGB bei gezielter Ausnutzung der Vertrauensstellung; Betreuer, der Testamentserrichtung initiiert und Erblasser von Familie isoliert, handelt sittenwidrig.
+- OLG Hamm, Urt. v. 02.03.2017 - 10 U 9/16, FamRZ 2017, 1420 Rn. 14 — Auskunfts- und Rechnungslegungspflicht des Betreuer-Miterben gegenüber Miterben nach §§ 1872, 666 BGB; Konfusion beseitigt nur den Herausgabeanspruch gegenüber sich selbst, nicht die Pflicht zur Rechenschaft.
+
+## Kommentarliteratur
+- Jurgeleit BtOG § 30 (Zuwendungsverbot) und § 27 (Registrierungswiderruf)
+- Staudinger/Gülzow BGB § 1922 Rn. 18 ff. (Gesamtrechtsnachfolge und Betreuervermächtnis)
+
 ## Pflichtbestandteile der Antwort
 
 Eine vollständige Antwort enthält mindestens:

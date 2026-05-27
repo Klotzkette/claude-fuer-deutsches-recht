@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollverfahren-bewilligungen
-description: "Prüft Versand, Zolllager, aktive Veredelung, Endverwendung, AEO, vereinfachte Anmeldung, Bürgschaft und Bewilligungsrisiken."
+description: "Zollverfahren und Bewilligungen im Union-Zollkodex fuer AEO vereinfachte Anmeldung und besondere Verfahren. Anwendungsfall Unternehmen will Versandverfahren Zolllager aktive Veredelung oder AEO-Zertifizierung nutzen. Normen UZK Art. 77 ff. Anmeldung Art. 210 ff. besondere Verfahren Art. 38 ff. AEO Delegierte VO 2015/2446. Pruefraster Versandverfahren Zolllager aktive Veredelung Endverwendung AEO-Antrag vereinfachte Anmeldung Buergschaft Bewilligungsrisiken. Output Verfahrenskonzept mit Bewilligungsantrag Buergschaftsplan und Compliance-Checkliste fuer Zollabteilung. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-cbam-co2-zoll."
 ---
 
 # Zollverfahren, Bewilligungen und Vereinfachungen
@@ -49,3 +49,68 @@ Dieser Skill führt Unternehmen durch besondere Zollverfahren und Bewilligungsma
 - Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
 - Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
 - Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+
+## Triage vor Zollverfahrenspruefung
+
+Kläre vor der Pruefung:
+
+1. Welches Zollverfahren ist beantragt oder fehlerhaft angewendet worden (Ueberfuehrung in den freien Verkehr, Versand, Lagerung, aktive/passive Veredelung, voruebergehende Verwendung, Ausfuhr)?
+2. Liegt eine Zollbewilligung (AEO, Vereinfachung, Zugelassener Ausf.) vor oder wird sie beantragt?
+3. Gibt es einen Abgabenbescheid, eine Nacherhebung oder eine Pruefungsanordnung?
+4. Handelt es sich um Versandabgaben, Einfuhr-USt, Antidumping oder Praeferenzrecht?
+5. Ist die 3-Jahres-Festsetzungsfrist (Art. 103 UZK) oder die 10-Jahres-Frist bei Hinterziehung relevant?
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 23.02.2006 - C-201/04 (Molenbergnatie) — Zur Bindungswirkung einer Zollbewilligung; Widerruf nur nach den Verfahrensgrundsaetzen der VO (EWG) 2913/92 (jetzt Art. 28 ff. UZK), Vertrauensschutz des Inhabers ist zu beachten.
+- BFH, Urt. v. 22.05.2012 - VII R 61/11, BFH/NV 2012, 1876 — Zum Verschulden bei der Inanspruchnahme des Zollschuldners gemaess Art. 204 ZK (jetzt Art. 79 UZK); leichte Fahrlassigkeit des Vertreters wird dem Einfu-herer zugerechnet.
+- EuGH, Urt. v. 11.11.1999 - C-48/98 (Soex/Hauptzollamt Hamburg-Jonas) — Korrekte Zollanmeldung als Voraussetzung fuer das Entstehen der Zollschuld gemaess Art. 201 ZK; unrichtige Tarifierung loest Nacherhebung aus.
+- BFH, Urt. v. 16.10.2018 - VII R 3/18, BFHE 263, 47 — Zur Festsetzungsverjaehrung im Zollrecht; die 3-Jahres-Frist des Art. 103 UZK beginnt mit dem Entstehen der Zollschuld, nicht mit Bekanntgabe.
+
+## Normen-Kette Zollverfahren
+
+- Art. 77-112 UZK (VO (EU) 952/2013) — Entstehung Zollschuld, Nacherhebung, Verjaehrung
+- Art. 162-236 UZK — Besondere Zollverfahren (Lagerung, Veredelung, Versand)
+- Art. 38-41 UZK — AEO-Status (Zugelassener Wirtschaftsbeteiligter)
+- § 21 UStG i.V.m. Art. 201 UZK — Einfuhrumsatzsteuer
+- §§ 370, 378 AO — Steuerhinterziehung / leichtfertige Steuerverk�rzung bei Zollabgaben
+
+## Kommentarliteratur
+
+- Witte/Henke, Zollkodex-Kommentar, 7. Aufl. — massgeblich zum UZK
+- Dorsch, Zollrecht, Loseblatt — praxisorientiert zu Verfahren und Bewilligungen
+
+## Output-Template: Zollverfahrenspruefung
+
+**Adressat:** Zollbeauftragter / Steuerabteilung — **Tonfall:** verfahrenstechnisch, fristen-bewusst
+
+```
+ZOLLVERFAHRENS-PRUEFUNGSVERMERK
+Datum: [DATUM]
+Ware: [BEZEICHNUNG]  KN-Nr.: [NUMMER]
+Verfahren: [BEZEICHNUNG — z.B. aktive Veredelung Art. 256 UZK]
+Bearbeiter: [NAME]
+
+1. BEWILLIGUNGSSTATUS
+   AEO-Zertifikat: [ ] Vorhanden (Nr. [NUMMER]) / [ ] Nicht vorhanden
+   Relevante Bewilligung: [Art und Nummer]
+   Gueltigkeit bis: [DATUM]
+
+2. VERFAHRENS-COMPLIANCE
+   Fristerledigung Verfahren: [ ] Eingehalten / [ ] Ueberschritten
+   Ursprungsnachweise vollstaendig: [ ] Ja / [ ] Nein
+   Warenbeschreibung Anmeldung korrekt: [ ] Ja / [ ] Korrektur erforderlich
+
+3. ABGABENBERECHNUNG
+   Zollwert (Art. 70 UZK): [BETRAG EUR]
+   Zollsatz TARIC: [%]
+   Einfuhr-USt (§ 21 UStG): [BETRAG EUR]
+   Ggf. Antidumping/Ausgleichszoll: [BETRAG EUR]
+   Gesamt Abgaben: [BETRAG EUR]
+
+4. OFFENE RISIKEN / NACHERHEBUNG
+   [Beschreibung] — Rechtsgrundlage: [ART. UZK] — Betrag ca.: [EUR]
+
+5. NAECHSTE SCHRITTE
+   - [Schritt mit Frist]
+```

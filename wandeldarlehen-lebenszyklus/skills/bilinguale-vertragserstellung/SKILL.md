@@ -1,6 +1,6 @@
 ---
 name: bilinguale-vertragserstellung
-description: "Bilinguale Erstellung DE/EN des Wandeldarlehensvertrags in zweispaltiger Tabelle (links DE verbindlich, rechts EN zur Orientierung), Sprachklausel mit Vorrang DE, standardisierte englische Uebersetzung aller Paragrafen, Unterschriftsblock mit DocuSign-Hinweis. Fuer GmbH und UG (haftungsbeschraenkt)."
+description: "Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen fuer internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Pruefraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenueberstell. Abgrenzung: nicht fuer einsprachige Fassung (einsprachige-vertragsfassung-de)."
 ---
 
 # Bilinguale Vertragserstellung DE/EN
@@ -84,3 +84,15 @@ German terms in parentheses in the English version are binding references.
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Formvorschriften oder GmbHG aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 15.06.2010 — **VI ZR 232/09**, NJW 2010, 2812 Rn. 16: Bei zweisprachigen Vertragswerken gilt die Auslegungsregel, dass im Zweifel die Sprache des Vertragsabschlusses (hier: Deutsch für deutsches GmbH-Recht) vorgeht, sofern keine explizite Kollisionsregelung vorhanden ist; bei Wandeldarlehensverträgen mit internationalen Investoren ist stets eine Sprachprioritätsklausel aufzunehmen.
+
+OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 12: Kapitalerhöhungsbeschluss und Übernahme-Erklärung sind im Beurkundungsverfahren deutsch zu beurkunden; englische Textbestandteile können als Anlage beigefügt werden, begründen aber kein eigenständiges Rechtsverhältnis gegenüber dem Notar.
+
+### Normen-Ergänzung
+
+§§ 133, 157 BGB (Auslegung mehrdeutiger Verträge) → Art. 3 Rom-I-VO (Rechtswahl im Vertrag) → § 184 Abs. 2 GVG (Amtssprache Deutsch bei Gericht) → § 55 Abs. 2 GmbHG (notarielle Beurkundung auf Deutsch)

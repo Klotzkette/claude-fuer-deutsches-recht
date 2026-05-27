@@ -1,6 +1,6 @@
 ---
 name: abwaegungsgebot-1-abs-7-baugb
-description: Pruefung des Abwaegungsgebots Paragraf 1 Abs. 7 BauGB als zentrale materielle Anforderung an den Bebauungsplan. Bei der Aufstellung sind die oeffentlichen und privaten Belange gerecht gegeneinander und untereinander abzuwaegen. Vier Stufen der Abwaegungsfehler nach BVerwG seit Urteil vom 12.12.1969 4 C 105.66. Abwaegungsausfall keine Abwaegung. Abwaegungsdefizit relevante Belange nicht eingestellt. Abwaegungsfehleinschaetzung Belange falsch gewichtet. Abwaegungsdisproportionalitaet Ergebnis sprengt Spielraum. Paragraf 214 Abs. 3 BauGB filtert nur Vorgangsfehler nicht Ergebnisfehler. Vorfestlegung als Abwaegungsausfall. Formelhafte Abwaegungsdokumentation als Abwaegungsdefizit. Abwaegungsmaterial muss vollstaendig ermittelt sein.
+description: "Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Pruefraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung Abwaegungsdisproportionalitaet. § 214 Abs. 3 BauGB filtert nur Vorgangsfehler nicht Ergebnisfehler. Vorfestlegung und formelhafte Abwaegungsdokumentation als Angriffspunkte. Output: Abwaegungsfehler-Analyse und Bausteine fuer Normenkontrollantrag. Abgrenzung zu planerhaltung-214-215-baugb (Fehlererheblichkeit) und normenkontrollantrag-schriftsatz."
 ---
 
 # Abwägungsgebot § 1 Abs. 7 BauGB
@@ -152,3 +152,13 @@ Das Abwägungsgebot ist das Herzstück der materiellen Plan-Prüfung. Vier Stufe
 - BVerwG, Urteil vom 5.7.1974 – 4 C 50.72 (Abwägungsausfall)
 - BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (Ermittlungspflicht § 2 Abs. 3)
 - BVerwG, Urteil vom 22.9.2010 – 4 CN 2.10 (Offensichtlichkeit)
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 05.07.1974 - IV C 50.72, BVerwGE 45, 309 Rn. 45 — Grundlegendes Urteil zum Abwägungsgebot: die vier Stufen Abwägungsausfall, Abwägungsdefizit, Fehleinschätzung und Disproportionalität als Prüfungsrahmen.
+- BVerwG, Urt. v. 22.09.2010 - 4 CN 2.10, NVwZ 2011, 429 Rn. 15 — Ergebnisfehler im Sinne der Abwägungsdisproportionalität sind stets beachtlich und nicht über § 214 Abs. 3 BauGB heilbar; strategisch vorrangig zu prüfen.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 1 Rn. 85-130 (Abwägungsgebot systematisch)
+- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 1 Rn. 185-240 (Abwägungsfehler-Lehre)

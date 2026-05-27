@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-fristen-cp-kalender
-description: "Freistehender Deal-Fristen- und CP-Kalender: führt Signing-, Closing-, Q&A-, Regulatory-, Register-, Board-, Ordinary-Course- und Restrukturierungsfristen im M&A-Mandat."
+description: "Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender fuer M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Pruefraster CP-Vollstaendigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan)."
 ---
 
 # Freistehender Deal-Fristen- und CP-Kalender
@@ -38,3 +38,39 @@ Dieser Skill führt die Transaktionsfristen im Plugin selbst. Er bündelt Q&A-De
 - assets/templates/cp-register.md
 - assets/templates/ordinary-course-covenant-monitor.md
 - assets/templates/signing-closing-steps-plan.md
+
+## Triage
+
+1. Welche Fristen laufen gerade — Signing, Closing, CP-Deadlines, Regulatory-Fristen, Q&A-Fristen?
+2. Gibt es Longstop Dates — ab wann ist Ruecktrittsrecht klar definiert?
+3. Welche gesetzlichen Fristen sind zu beachten — Kartellfreigabe (1-4 Monate), Transparenzregister (2 Wochen), Gesellschafterliste (1 Monat)?
+
+## Zentrale Rechtsgrundlagen
+
+- §§ 187-193 BGB — Fristenberechnung: Beginn, Ende, Praevigorierungsregeln; Fristberechnung bei Monatsfristen und Wochenfristen
+- § 41 GWB / Art. 7 FKVO — Fusionskontrolle: Vollzugsverbot bis zur Freigabe; Phase I 25 Arbeitstage (EU) bzw. 1 Monat (GWB)
+- § 40 GmbHG — Gesellschafterliste: Einreichung innerhalb 1 Monat nach Anteilsuebertragung
+- § 20 TranspRG — Transparenzregister: Meldung wirtschaftlich Berechtigte innerhalb 2 Wochen nach Aenderung
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 15.05.2012 - VI ZR 157/11, NJW 2012, 2178 — Fristenversaeumnis: Anwalt haftet fuer schuldhaft versaeumte Fristen; Wiedervorlage und Fristenkalender sind Kernpflicht der Mandatsfuehrung; systematisches Fristenmanagement ist Standard
+- BGH, Urt. v. 07.07.2021 - VIII ZR 54/20, NJW 2021, 3172 — Longstop Date: bei Ablauf des Longstop Date ohne CP-Erfullung entsteht Ruecktrittsrecht kraft Vertrags; keine erneute Fristsetzung erforderlich
+
+## Kommentarliteratur
+
+- Picot, Unternehmenskauf, Kapitel 5 (CP-Kalender, Signing, Closing), 5. Auflage
+- MueKo BGB/Grothe, §§ 187-193 Rn. 1-60 (Fristenrecht)
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Fristenregister anlegen:** alle Fristen aus SPA, Regulatorik und Gesetz extrahieren
+2. **Kalendereintraege setzen:** Signing, Longstop Date, Regulatory-Fristen, Register-Fristen, Garantiefristen
+3. **Wiedervorlagen:** 1 Woche vor Ablauf jeder kritischen Frist; Senior-Eskalation bei Risiko
+4. **CP-Status-Update:** taeglicher Update in Closing-Phase
+
+## Rote Schwellen
+
+- Frist versaeumt ohne Wiedervorlage: Haftung nach § 280 BGB
+- Longstop Date uebersehen: automatisches Ruecktrittsrecht entsteht
+- Gesellschafterliste nicht fristgerecht: Stimmrechte fraglich

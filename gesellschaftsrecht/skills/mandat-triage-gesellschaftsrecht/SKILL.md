@@ -1,15 +1,49 @@
 ---
 name: mandat-triage-gesellschaftsrecht
-description: Strukturierte Eingangs-Abfrage fuer gesellschaftsrechtliche Mandate (anders als mandat-arbeitsbereich Workspace). Klaert Mandantenrolle (Gesellschafter Geschaeftsfuehrer Aufsichtsrat Beirat Investor Kaeufer Verkaeufer Erwerber Zielgesellschaft) Rechtsform (GmbH AG UG GmbH&CoKG OHG KG GbR eG Stiftung Verein) Vorgang (Gruendung Beschluss Kapitalmassnahme Geschaeftsfuehrer-Anstellung-/Abberufung Gesellschafter-Streit Umwandlung M&A Joint Venture). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat Closing-Termin Fristen Vertragsfristen. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Routing zu geschaeftsfuehrer-haftung-43-gmbhg und Plugin-Skills.
+description: "Eingangs-Abfrage fuer gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gruendung Gesellschafterbeschluss Kapitalerhöhung Geschaeftsfuehrer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschaeftsfuehrer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gruendung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung)."
 ---
 
 # Mandat-Triage Gesellschaftsrecht
+
+## Triage zu Beginn
+
+Diese acht Fragen sind in der angegebenen Reihenfolge zu klaeren — Fragen 1 bis 4 bestimmen das Routing, Fragen 5 bis 8 die Mandatsstrategie:
+
+1. **Eilbeduerftigkeit zuerst:** Laeuft eine der folgenden Fristen? — Insolvenzantragspflicht § 15a InsO (3 Wochen); Beschluss-Anfechtungsfrist § 246 AktG (1 Monat); Closing-Termin heute; HV morgen. Falls ja: direkt zu Eskalation.
+2. **Mandantenrolle:** Wer ist der Mandant? (Gesellschafter / Geschaeftsfuehrer / Aufsichtsrat / Investor / Kaeufer / Verkaeufer / Zielgesellschaft / Glaeubiger)
+3. **Rechtsform der betroffenen Gesellschaft:** GmbH / UG / AG / SE / GmbH & Co. KG / OHG / GbR / Stiftung / Verein
+4. **Vorgang:** Was soll rechtlich geschehen oder was ist passiert?
+5. **Stand des Verfahrens:** Beratung im Vorfeld / Vertrag in Verhandlung / Streit / Klage
+6. **Wirtschaftliche Verhaeltnisse:** Gesellschaftsgroesse (Umsatz, Mitarbeiter, Bilanz)
+7. **Fristen ausserhalb der akuten Eilbeduerftigkeit:** Verjaehrung Geschaeftsfuehrer-Haftung 5 Jahre (§ 43 Abs. 4 GmbHG)
+8. **Interessenkonflikt-Check:** Vertritt die Kanzlei bereits eine andere Partei derselben Transaktion?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen
+
+§ 15a InsO (Insolvenzantragspflicht; 3 Wochen ab Ueberschuldung/Zahlungsunfaehigkeit) — § 43 GmbHG (Geschaeftsfuehrer-Haftung; Verjaehrung 5 Jahre) — § 93 AktG (Vorstandshaftung) — § 246 AktG (Anfechtungsklage; 1 Monat ab Beschlussfassung) — § 14 UmwG (Klagefrist Umwandlung; 1 Monat) — §§ 35 ff. GWB (Fusionskontrolle; Vollzugsverbot bis Freigabe) — § 43a Abs. 4 BRAO (Verbot widersteitender Interessen) — §§ 1 ff. GwG (Identifizierungspflicht vor Mandatsannahme)
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 25.06.2015 – IX ZR 199/14, NJW 2015, 3239 Rn. 18 — Anwaltliche Verschwiegenheitspflicht und Interessenkonflikt: Das Verbot des § 43a Abs. 4 BRAO gilt auch bei aufeinanderfolgenden Mandaten, wenn schutzwuerdige Informationen des frueheren Mandanten betroffen sind.
+- BGH, Urt. v. 09.10.2018 – II ZR 123/17, NZG 2019, 228 Rn. 14 — Insolvenzantragspflicht des Geschaeftsfuehrers: Die Dreiwochenfrist beginnt ab Feststellung der Zahlungsunfaehigkeit oder Ueberschuldung; Verschleppung fuehrt zur persoenlichen Haftung nach § 823 Abs. 2 BGB i.V.m. § 15a InsO.
+- BGH, Urt. v. 14.07.2008 – II ZR 202/07, BGHZ 177, 295 Rn. 10 — Anfechtungsklage GmbH analog § 246 AktG: Die Monatsfrist beginnt mit der Beschlussfassung; spaetere Kenntnis des Gesellschafters verlaengert die Frist nicht.
+- BGH, Urt. v. 07.02.2012 – II ZR 230/09, NZG 2012, 427 Rn. 12 — Protokollpflicht bei Aufsichtsratsbeschluessen: Fehlendes Protokoll begruendet keine Nichtigkeit, erschwert aber Beweisfuehrung erheblich.
+
+## Kommentarliteratur
+
+- Hueffer/Koch, AktG, 16. Aufl. 2024, § 246 Rn. 5 ff. (Anfechtungsklage; Frist; Klageziele).
+- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 43 Rn. 1 ff. (Geschaeftsfuehrer-Haftung; Verjaehrung).
+- Lutter/Hommelhoff/Bayer, GmbHG, 21. Aufl. 2023, § 64 Rn. 5 ff. (Insolvenzantragspflicht; Dreiwochenfrist).
 
 ## Zweck
 
 Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-Closing. Triage stellt die richtige Rechtsform und den richtigen Vorgang sicher.
 
 ## Ablauf — acht Fragen
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### Frage 1 — Mandantenrolle?
 
@@ -141,6 +175,93 @@ Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-
 - **Heute** Insolvenz-Antrag-Vorbereitung Sondersitzung
 - **Diese Woche** Vertragsentwurf DD-Bericht
 
+## Schritt-fuer-Schritt-Workflow
+
+1. **Eilbeduerftigkeit pruefen (30 Sekunden):** Laeuft eine der oben genannten Fristen? Falls ja: sofortige Eskalation — nicht weiter triagieren.
+2. **Acht Triage-Fragen stellen** (in der Reihenfolge oben): Rolle, Rechtsform, Vorgang, Eilbeduerftigkeit, Stand, Wirtschaft, Frist, Konflikt.
+3. **Routing-Matrix anwenden:** Folge-Skill aus der Matrix auswaehlen und direkt starten.
+4. **Fristenbuch befuellen:** Alle identifizierten Fristen sofort im Kanzlei-Fristenbuch mit Wiedervorlage eintragen.
+5. **Mandatsanlage:** Mandat-Slug generieren, `mandat.md` anlegen (→ `gesellschaftsrecht-mandat-arbeitsbereich`).
+6. **GwG-Identifizierung:** Bei neuem Mandanten Identifizierungspflicht (§§ 10 ff. GwG) vor Beratungsbeginn abarbeiten.
+7. **Interessenkonflikt-Check:** Kanzlei-internes System pruefen; bei Zweifeln Mandat ablehnen oder aufteilen (§ 43a Abs. 4 BRAO).
+8. **Ausgabe erzeugen:** Triage-Protokoll + Folge-Skill-Empfehlung.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Gesellschaftsrechtliches Mandat triagieren | Triage nach acht Fragen-Schema; Output unten |
+| Variante A — Mandant beschreibt Problem unklar Beratung zuerst | Erstberatung und Sachverhaltsaufklaerung vor Triage |
+| Variante B — Mehrere Gesellschaften betroffen | Triage fuer jede Gesellschaft separat durchfuehren |
+| Variante C — Nur Dokumentencheck keine Mandatierung gewuenscht | Kurzgutachten statt Vollmandat |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template
+
+**Adressat:** Bearbeitender Anwalt / Kanzlei-intern — Tonfall: sachlich-strukturiert, fristen-orientiert
+
+```
+TRIAGE-PROTOKOLL GESELLSCHAFTSRECHT
+Mandat: [SLUG]
+Datum: [TT.MM.JJJJ]
+Bearbeitender Anwalt: [NAME]
+
+--- EILSTATUS ---
+Akute Frist: [JA — BESCHREIBUNG / NEIN]
+Eskalationsstufe: [SOFORT-TELEFON / HEUTE / DIESE WOCHE / KEIN HANDLUNGSBEDARF]
+
+--- MANDANT ---
+Rolle: [GESELLSCHAFTER / GESCHAEFTSFUEHRER / KAEUFER / VERKAEUFER / etc.]
+Name / Firma: [NAME]
+Rechtsform der Gesellschaft: [GmbH / AG / etc.]
+Gesellschaft: [FIRMA, HRB, REGISTERGERICHT]
+
+--- VORGANG ---
+[BESCHREIBUNG DES VORGANGS — ein bis zwei Saetze]
+Rechtliche Einordnung: [§§ NORMEN]
+
+--- FRISTEN (KRITISCHE PFADE) ---
+| Frist | Norm | Ablauf | Wiedervorlage | Im Fristenbuch |
+|---|---|---|---|---|
+| [FRISTBEZEICHNUNG] | [§ NORM] | [TT.MM.JJJJ] | [TT.MM.JJJJ] | [JA / NEIN] |
+
+--- FOLGE-SKILL ---
+Empfehlung: [SKILL-NAME]
+Begruendung: [EIN SATZ]
+
+--- MANDATSANLAGE ---
+Slug: [SLUG]
+GwG-Identifizierung: [ABGESCHLOSSEN / AUSSTEHEND]
+Interessenkonflikt geprueft: [JA / NEIN — ERGEBNIS]
+
+--- NAECHSTE SCHRITTE ---
+1. [AKTION] — Frist: [DATUM]
+2. [AKTION] — Frist: [DATUM]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Rote Schwellen
+
+- **Insolvenzantragspflicht § 15a InsO bereits ausgeloest** — 3-Wochen-Frist laeuft; Geschaeftsfuehrer persoenlich haftbar; sofortige Eskalation an Insolvenzrechts-Spezialisten.
+- **Beschluss-Anfechtungsfrist § 246 AktG < 5 Tage** — Klage sofort vorbereiten; Fristversaeumung fuehrt zur Bestandskraft auch fehlerhafter Beschluesse.
+- **Interessenkonflikt erkannt** — Mandat nicht annehmen oder aufteilen; § 43a Abs. 4 BRAO.
+- **GwG-Identifizierung nicht abgeschlossen** — keine Beratungsleistung vor Identifizierung; Bussgeldhaftung bei Verstoss.
+
 ## Ausgabe
 
 - `triage-protokoll-gesellschaftsrecht.md`
@@ -155,6 +276,6 @@ Gesellschaftsrechts-Mandate sind heterogen — vom Beschluss-Streit bis zum M&A-
 - InsO § 15a
 - BGB
 - BGH II. Zivilsenat
-- MüKo GmbHG / AktG
-- Hüffer/Koch AktG
+- MueKo GmbHG / AktG
+- Hueffer/Koch AktG
 - Scholz GmbHG

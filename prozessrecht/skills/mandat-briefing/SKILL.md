@@ -1,6 +1,6 @@
 ---
 name: mandat-briefing
-description: "Tiefenbriefing zu einem einzelnen Mandat – aktueller Verfahrensstand, Entwicklungen seit dem letzten Update, nächste Frist, offene Fragen und Risikoneueinschätzung, bereit für ein Mandantengespräch, Justiziarsbesprechung oder Außenanwaltsgespräch. Verwenden, wenn der Nutzer sagt „brief mich zu [Mandat]\", „wo stehen wir bei [Mandat]\" oder ein aktuelles Bild zu einem einzelnen Mandat benötigt."
+description: "Mandantenbriefing fuer Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: §§ 373 ff. ZPO. Pruefraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument fuer Mandanten vor Termin. Abgrenzung: nicht Zeugenvorbereitung (eigener Skill)."
 ---
 
 # Mandat-Briefing

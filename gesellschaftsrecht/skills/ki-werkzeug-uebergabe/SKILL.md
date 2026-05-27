@@ -5,6 +5,34 @@ description: "KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder 
 
 # KI-Tool-Übergabe (Luminance / Kira)
 
+## Triage zu Beginn
+
+Vor der Tool-Ubergabe klaeren:
+
+1. **Volumen:** Wie viele Dokumente sind im Datenraum? (< 50: manuelle Prüfung effizienter; 50-200: bedingt sinnvoll; > 200: KI-Tool empfohlen)
+2. **Tool vorhanden?** Ist Luminance, Kira oder ein vergleichbares Tool bereits im Praxisprofil konfiguriert? Welches Vertrauensniveau ist eingestellt?
+3. **Kategorien:** Sind die Verträge bereits grob kategorisiert (Lieferanten, Kunden, IP, Miet-, Arbeitsverträge)?
+4. **AVV geklaert?** Liegt ein Auftragsverarbeitungsvertrag (Art. 28 DSGVO) mit dem Tool-Anbieter vor? Hat der Mandant der Weitergabe zugestimmt?
+5. **Rechtsordnung:** Werden auch Verträge nach auslaendischem Recht gepüft? (gesondertes Profil erforderlich)
+6. **QA-Ressourcen:** Wer fuehrt die Stichproben-QA durch? Wie viel Zeit steht zur Verfuegung?
+
+## Zentrale Normen
+
+§ 398 BGB (Forderungsabtretung) — § 399 BGB (Abtretungsverbot) — § 354a HGB (Abtretungsverbot unter Kaufleuten; ggf. unwirksam) — §§ 305 ff. BGB (AGB-Kontrolle) — § 307 BGB (unangemessene Benachteiligung) — § 613a BGB (Betriebsubergang; Vertragsuebergang) — §§ 69b, 43 UrhG (Arbeitnehmererfindung) — Art. 28 DSGVO (Auftragsverarbeitungsvertrag bei Datenweitergabe) — § 130 OWiG (Aufsichtspflichtverletzung bei Compliance-Verstoss)
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 25.03.2015 – VIII ZR 38/14, NJW 2015, 1871 Rn. 16 — AGB-Kontrolle von Change-of-Control-Klauseln im B2B-Bereich: Auch Kaufleute koennen sich auf § 307 BGB berufen; Klauseln sind an den Grundsaetzen von Treu und Glauben zu messen.
+- BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 — Auslegung einer CoC-Klausel: Massgeblich ist der Vertragswortlaut; ein mittelbarer Kontrollwechsel genuegt, wenn die Klausel nicht auf einen unmittelbaren Kontrollwechsel beschraenkt ist.
+- BGH, Urt. v. 15.11.2006 – XII ZR 120/04, NJW 2007, 1279 Rn. 14 — Abtretungsverbote (§ 399 BGB) sind bei kaufmaennischen Vertraegen nach § 354a HGB haeufig unwirksam; Klausel-Extraktion muss diesen Schritt beinhalten.
+- BGH, Urt. v. 20.11.2018 – II ZR 12/17, NJW 2019, 297 Rn. 22 — Vertragsubernahme erfordert dreiseitiges Einvernehmen; ohne Zustimmung der Gegenpartei ist die Uebertragung unwirksam.
+
+## Kommentarliteratur
+
+- Wurmnest, in: MuKoBGB, 9. Aufl. 2022, § 307 Rn. 45 (AGB-Kontrolle bei Individualvereinbarungen und Kaufleuten).
+- Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1 (Wirksamkeit von Abtretungsverboten unter Kaufleuten).
+- Altmeppen, in: Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 15 Rn. 5 ff. (Abtretung von GmbH-Anteilen; Zustimmungserfordernisse).
+
 ## Zweck
 
 In M&A-Mandaten mit Datenräumen von 100+ Verträgen übersteigt manuelle Einzelprüfung das verfügbare Zeitbudget. Dieser Skill strukturiert die Übergabe an ein KI-Prüftool (Luminance, Kira oder vergleichbar), legt das Extraktionsprofil fest, QA-checkt die Ausgabe und steuert die Rückübernahme in den DD-Issue-Extraktion-Ablauf.
@@ -162,6 +190,69 @@ Kommentarliteratur:
 1. **Übergabe-Paket** (Markdown-Tabelle + YAML-Extraktionsprofil)
 2. **QA-Bericht** (Markdown, nach Stichproben-QA)
 3. **Rückgabe-Datensatz** (YAML/XLSX, für dd-findings-extraktion)
+
+## Output-Template
+
+**Adressat:** Tool-Administrator / DD-Team-intern — Tonfall: strukturiert, technisch-praezise
+
+```
+KI-TOOL-ÜBERGABE-PAKET
+Mandat: [MANDATSCODE]
+Deal-Code: [DEAL-CODE]
+Datum: [TT.MM.JJJJ]
+Tool: [LUMINANCE / KIRA / ANDERES]
+Erstellt von: [NAME], [KANZLEI]
+
+> Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO.
+> Weitergabe an Tool-Anbieter nur nach AVV gem. Art. 28 DSGVO und Mandantenzustimmung.
+
+--- CHARGE-BESCHREIBUNG ---
+Dokumente gesamt: [N]
+Kategorien:
+  - [KATEGORIE 1]: [N] Dokumente — Eignung: [HOCH / BEDINGT / NIEDRIG]
+  - [KATEGORIE 2]: [N] Dokumente — Eignung: [HOCH / BEDINGT / NIEDRIG]
+Ausgeschlossen (manuell zu prüfen): [N] Dokumente (Gesellschaftsvertraege, Side Letters)
+
+--- EXTRAKTIONSPROFIL ---
+Version: [v1.0]
+Rechtsordnung: [Deutsches Recht / Englisches Recht / Gemischt]
+Klauseln im Profil:
+  1. change_of_control — [§ Vertrag; CoC-Recht]
+  2. abtretungsverbot — [§ 399 BGB; § 354a HGB]
+  3. haftungsbegrenzung — [§§ 305 ff. BGB]
+  4. wettbewerbsverbot — [§ 138 BGB]
+  5. kuendigungsfristen — [§§ 314, 615 BGB]
+  [weitere nach Profil]
+
+--- PRIORISIERUNG ---
+Top-[N] nach [Vertragswert / Relevanz]: [LISTE]
+Vollstaendige Prufung: [JA / NEIN]
+
+--- QA-PLAN ---
+Stichprobe: [N] % = [N] Dokumente
+Vertrauensniveau Praxisprofil: [ERGEBNIS UEBERNEHMEN / 10-PROZENT-STICHPROBE / VOLLPRÜFUNG]
+QA-Verantwortlich: [NAME]
+QA-Frist: [TT.MM.JJJJ]
+
+--- ERWARTETER ABLAUF ---
+Uebergabe an Tool: [TT.MM.JJJJ]
+Erwartete Lieferung: [TT.MM.JJJJ]
+Rueckgabeformat: [XLSX / CSV / YAML]
+
+--- QA-BERICHT (nach Lieferung auszufuellen) ---
+Geprüfte Dokumente: [N] von [M] ([%])
+Fehlerrate: [N] Fehler
+Haeufige Fehlertypen: [BESCHREIBUNG]
+Gesamtbewertung Vertrauensniveau: [HOCH / MITTEL / NIEDRIG]
+Empfehlung: [ERGEBNIS DIREKT UEBERNEHMEN / NACHPRUEFUNG ERFORDERLICH FUER ROT-FINDINGS]
+```
+
+## Rote Schwellen
+
+- **Kein AVV (Art. 28 DSGVO) vor Datenweitergabe** — Bussgeldhaftung; Weitergabe sofort stoppen bis AVV vorliegt.
+- **KI-Vertrauensniveau „vollstaendige Neuprüfung“ und kein QA-Budget** — KI-Tool liefert nur Screening; alle Findings sind manuell zu verifizieren bevor Garantien abgegeben werden.
+- **Gesellschaftsvertraege / Side Letters in Batch** — ungeeignet fuer Bulk-Extraktion; sofort aus Charge herausnehmen und manuell prüfen.
+- **Abtretungsverbote nicht klassifiziert** — Haftungsrisiko bei Garantien; § 354a HGB-Prüfung fuer Kaufleute-Vertraege immer separat durchfuehren.
 
 ## Beispiel
 

@@ -179,11 +179,11 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 ---
 
-## kanzlei-cowork (rechnungserstellung-rvg)
+## kanzlei-allgemein (rechnungserstellung-rvg)
 
 **Eingang:** Mandatsdatenraum mit Streitwert, Tätigkeitsbeschreibung, Auslagen.
 
-**Schritt 1 — Kaltstart:** `/kanzlei-cowork:kanzlei-cowork-kaltstart-interview`.
+**Schritt 1 — Kaltstart:** `/kanzlei-allgemein:kanzlei-cowork-kaltstart-interview`.
 
 **Schritt 2 — Rechnung & Plausibilisieren:** `python3 werkzeuge/rvg_gebuehrenrechner.py --wert 25000 --faktor 1.3` zum schnellen Quercheck.
 

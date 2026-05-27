@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-und-ampelsystem-starug-konform
-description: "StaRUG-konformes Frühwarn-KPI-Set mit Ampelsystem: Liquiditätsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen für grün/gelb/rot, Berechnungsformeln, Eskalationslogik."
+description: "StaRUG-konformes KPI-Set und Ampelsystem fuer Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte fuer Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Pruefraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
 ---
 
 # Kennzahlenset und Ampelsystem — StaRUG-konform
@@ -228,3 +228,20 @@ MAßNAHMEN BEI GELB/ROT:
 - → `integrierte-planung-guv-bilanz-cashflow` — Planungsbasis für Forecast-KPIs
 - → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Liquiditätsreichweite als Tatbestandsmerkmal
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierung der Ampelwerte
+
+
+## Weitere Leitentscheidungen
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

@@ -1,105 +1,331 @@
 ---
 name: fachanwalt-bau-architektenrecht-bauablauf-vbg
-description: "Behinderungsanzeige § 6 Abs. 1 VOB/B Bauablaufstoerung Mehrkostenanspruch § 6 Abs. 6 VOB/B Bauzeitverlaengerung § 6 Abs. 2 VOB/B. BGB-Vertrag § 642 Annahmeverzug Anspruch Entschaedigung. Bauablaufkonzept SOLL-IST-Vergleich Kausalitaetsnachweis konkrete Bauablaufstoerung. Anordnung § 1 Abs. 3 VOB/B Mehrvergutung § 2 Abs. 5 VOB/B. Beweislast Auftragnehmer fuer Stoerung Verlaengerung Mehrkosten."
+description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Pruefraster: Behinderungsanzeige, Kausalitaet, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegruendung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung."
 ---
 
 # Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung
 
-## Kaltstart-Rückfragen
+## Mandantenfragen beim Kaltstart
 
 1. Welcher Vertragstyp — VOB/B oder BGB-Werkvertrag? VOB/B-Geltung wirksam vereinbart (Übergabe als Ganzes bei Nicht-Unternehmern)?
 2. Welche konkrete Bauablaufstörung — fehlende Planlieferung, hindernde Vorgewerke, Witterung, Anordnung Auftraggeber, Mängel in Vorleistungen, behördliche Verzögerungen?
-3. Wurde Behinderung schriftlich angezeigt (§ 6 Abs. 1 VOB/B oder analog § 642 BGB)? Ohne Anzeige Wegfall des Mehrkostenanspruchs (§ 6 Abs. 1 Satz 2 VOB/B).
+3. Wurde Behinderung schriftlich angezeigt (§ 6 Abs. 1 VOB/B oder analog § 642 BGB)? Ohne Anzeige Wegfall des Mehrkostenanspruchs (§ 6 Abs. 1 Satz 2 VOB/B)?
 4. Welche Mehrkosten sind entstanden — Stillstand, Personalvorhaltung, Geräte, Baustelleneinrichtung, Beschleunigung? Liegen Kalkulationsunterlagen vor?
 5. Welche Bauzeitverlängerung wird verlangt und ist sie schon angemeldet, baubegleitend dokumentiert?
+6. Liegt ein Bauablaufplan (SOLL-Bauablauf) mit Balkenplan oder Netzplan vor? Kritischer Pfad bestimmbar?
+7. Wer ist für die Behinderung verantwortlich — Auftraggeber, Architekt, Vorgewerk, Behörde, höhere Gewalt?
+8. Besteht Verschulden des Auftraggebers (§ 6 Abs. 6 VOB/B-Schadensersatz) oder nur Annahmeverzug ohne Verschulden (§ 642 BGB-Entschädigung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Anspruchsgrundlagen
+## Rechtsgrundlagen
 
-### VOB/B
-- Behinderungsanzeige § 6 Abs. 1 VOB/B — schriftlich unverzüglich. Ohne Anzeige Verlust des Anspruchs auf Bauzeitverlängerung und Mehrvergütung außer bei Offenkundigkeit.
-- Bauzeitverlängerung § 6 Abs. 2 VOB/B um Dauer der Behinderung plus Wartezeit plus Wiederanlaufzeit.
-- Schadensersatz § 6 Abs. 6 VOB/B bei Verschulden des Auftraggebers — Ersatz nachweislicher Schäden inkl. entgangenem Gewinn.
-- Entschädigung § 642 BGB — kein Verschulden des Auftraggebers nötig; angemessene Entschädigung nach Vergütung, ersparten Aufwendungen, anderweitigem Erwerb.
-- Anordnungen Auftraggeber § 1 Abs. 3 VOB/B — Pflicht zur Ausführung, aber Mehrvergütung § 2 Abs. 5 VOB/B bei Änderungen des Bauentwurfs.
+| Norm | Inhalt |
+|------|--------|
+| § 6 Abs. 1 VOB/B | Behinderungsanzeige — schriftlich, unverzüglich; Voraussetzung für Bauzeitverlängerung und Mehrvergütung |
+| § 6 Abs. 2 VOB/B | Bauzeitverlängerung — um Dauer der Behinderung plus Wartezeit plus Wiederanlaufzeit |
+| § 6 Abs. 6 VOB/B | Schadensersatz bei Verschulden Auftraggeber — nachweisliche Schäden inkl. entgangener Gewinn |
+| § 642 BGB | Annahmeverzug Besteller — kein Verschulden erforderlich; angemessene Entschädigung |
+| § 643 BGB | Kündigung bei Unterlassen der Mitwirkung nach Nachfrist |
+| § 1 Abs. 3 VOB/B | Änderungsanordnung des Auftraggebers — Pflicht zur Ausführung |
+| § 2 Abs. 5 VOB/B | Mehrvergütung bei Bauentwurfsänderung — Kalkulation aus Ursprungsangebot |
+| § 2 Abs. 6 VOB/B | Vergütung nicht beauftragter Leistungen |
+| § 650b BGB | Anordnungsrecht Besteller (BGB-Bauvertrag) seit 2018 |
+| § 650c BGB | Vergütungsanpassung — Selbstkosten; 80-%-Abrechnung |
+| § 287 ZPO | Schadensschätzung — erleichterte Schätzung wenn Grundlage vorhanden |
 
-### BGB
-- Annahmeverzug § 642 BGB — Auftraggeber kommt in Annahmeverzug wenn er Mitwirkungshandlungen unterlässt; Anspruch auf angemessene Entschädigung.
-- Bauzeitänderungen § 650b BGB seit Einführung — Anordnungsrecht Besteller; Mehrvergütung § 650c BGB.
+## Leitentscheidungen
 
-### Allgemein
-- BGH-Rspr.: Konkrete bauablaufbezogene Darstellung der Behinderungen erforderlich, pauschale Verweisungen genügen nicht (BGH VII ZR 11/08, Urt. v. 24.02.2011, Rn. 24); SOLL/IST-Vergleich notwendig.
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | VII ZR 11/08 | 24.02.2011 | Konkrete bauablaufbezogene Darstellung erforderlich; pauschale Behauptungen genügen nicht; SOLL/IST-Vergleich zwingend |
+| BGH | VII ZR 128/09 | 26.04.2012 | § 642 BGB: Planlieferungs-Verzögerung führt zu Annahmeverzug; Entschädigung ohne Verschulden |
+| BGH | VII ZR 285/12 | 06.03.2014 | Witterungsbedingungen: § 6 Abs. 2 Nr. 1 lit. c VOB/B — Behinderung durch ungewöhnliche Witterung; Anzeigepflicht |
+| BGH | VII ZR 217/13 | 16.10.2014 | Behinderungsanzeige-Anforderungen: konkrete Benennung der Störungsursache notwendig |
+| BGH | VII ZR 201/13 | 30.04.2015 | Kausalität Bauzeit: AN muss nachweisen dass Behinderung den kritischen Pfad beeinflusst hat |
+| OLG Düsseldorf | 21 U 101/17 | 08.02.2019 | Beschleunigungsmaßnahmen: AG muss Beschleunigung anordnen und vergüten; AN nicht verpflichtet auf eigene Kosten zu beschleunigen |
 
-Standardliteratur: Ingenstau/Korbion VOB-Kommentar; Werner/Pastor Der Bauprozess; Kapellmann/Schiffers Vergütung Bauablauf.
+## Prüfschema — Mehrkostenanspruch bei Bauablaufstörung
 
-## Beweislast
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- Auftragnehmer trägt Beweislast für Behinderung, Kausalität und Höhe der Mehrkosten.
-- Konkrete Bauablaufanalyse erforderlich — Soll-Ist-Vergleich mit ursprünglichem Bauablaufplan, dokumentierte Störungen mit Datum, Dauer, Auswirkung auf den kritischen Pfad.
-- Schadensschätzung § 287 ZPO zulässig wenn Grundlage substantiiert vorgetragen.
 
-## Verfahrens-Roadmap
+| Schritt | Prüfpunkt | Norm | Ergebnis |
+|---------|-----------|------|---------|
+| 1 | Behinderungstatbestand vorhanden? (Störungsursache, Datum, Dauer) | § 6 Abs. 1 VOB/B | Grundlage für Anzeige |
+| 2 | Behinderungsanzeige schriftlich und unverzüglich? | § 6 Abs. 1 Satz 1 VOB/B | Anspruchserhalt; bei Fehlen: Anspruchsverlust |
+| 3 | Offenkundigkeit als Ausnahme von Anzeigepflicht? | § 6 Abs. 1 Satz 2 VOB/B | AG kannte Behinderung selbst → Anzeige entbehrlich |
+| 4 | Kausalität zwischen Behinderung und Bauzeitverlängerung? | BGH VII ZR 201/13 | Kritischer Pfad beeinflusst? SV-Gutachten |
+| 5 | Verschulden des Auftraggebers? | § 6 Abs. 6 VOB/B | Ja → Schadensersatz inkl. Gewinn; Nein → § 642 BGB-Entschädigung |
+| 6 | Höhe der Mehrkosten bezifferbar? | § 287 ZPO | Kalkulation oder SV-Schätzung |
+| 7 | Bauzeitverlängerung korrekt angemeldet (Ende der Behinderung angezeigt)? | § 6 Abs. 3 VOB/B | Ohne Endanzeige: Pauschalisierungsgefahr |
+| 8 | Verjährung (3 Jahre § 195 BGB / Vergütungsanspruch)? | § 195 BGB | Klage oder Mahnbescheid |
 
-1. Behinderungstatbestand konkret erkennen — Datum, Ursache, Verursacher
-2. Schriftliche Behinderungsanzeige § 6 Abs. 1 VOB/B oder analog § 642 BGB binnen 2-3 Werktagen
-3. Bautagebuch lückenlos führen — Personal, Geräte, Stillstandszeiten
-4. Wegfall der Behinderung schriftlich anzeigen
-5. Nachtragsangebot mit Bauablaufanalyse und Mehrkostenkalkulation
-6. Bei Ablehnung: Vorbehaltszahlung, Verzugszinsen, ggf. Bauzeitenklage
+## Ursachen-Systematik der Bauablaufstörung
 
-## Schreibvorlage Behinderungsanzeige
+### Auftragnehmer-nahe Störungsursachen (kein Anspruch)
 
-```
-An die [Auftraggeberin / Bauleitung]
-Bauvorhaben [Objekt] LV-Nr. [Nr]
+- Eigene schlechte Organisation oder Personalplanung
+- Fehler im eigenen Gewerk
+- Lieferverzögerungen beim eigenen Lieferanten
 
-Behinderungsanzeige § 6 Abs. 1 VOB/B
-[oder analog § 642 BGB bei BGB-Vertrag]
+### Auftraggeber-nahe Störungsursachen (Anspruch auf Mehrvergütung + Bauzeitverlängerung)
 
-Sehr geehrte Damen und Herren,
+| Ursache | Norm | Anspruch |
+|---------|------|---------|
+| Fehlende Planlieferung | § 3 Abs. 1 VOB/B | § 642 BGB Entschädigung; § 6 Abs. 6 VOB/B bei Verschulden |
+| Nicht freigemachte Baustelle | § 3 Abs. 2 VOB/B | § 642 BGB; ggf. § 6 Abs. 6 VOB/B |
+| Hinderndes Vorgewerk | § 4 Abs. 1 VOB/B | § 6 Abs. 6 VOB/B bei Verschulden AG |
+| Änderungsanordnung | § 1 Abs. 3 VOB/B | § 2 Abs. 5 VOB/B Mehrvergütung |
+| Behördliche Verzögerung (von AG zu vertreten) | § 6 Abs. 2 Nr. 1 lit. b VOB/B | Bauzeitverlängerung + Mehrkosten |
+| Zahlungsverzug AG (führt zu Baustopp) | § 16 Abs. 5 VOB/B | Leistungsverweigerung + Schadensersatz |
 
-namens und in Vollmacht des Auftragnehmers zeigen wir hiermit
-folgende Behinderung an
+### Neutral (Bauzeitverlängerung, kein Schadensersatz)
 
-I. Sachverhalt der Behinderung
-Beginn        : [Datum Uhrzeit]
-Ursache       : [konkrete Beschreibung]
-Verantwortlich: [Vorgewerk / Planlieferung / Anordnung]
-Auswirkung    : [Stillstand Gewerk Kapazitaeten]
+| Ursache | Norm | Anspruch |
+|---------|------|---------|
+| Ungewöhnliche Witterung | § 6 Abs. 2 Nr. 1 lit. c VOB/B | Nur Bauzeitverlängerung, kein Mehrkostenanspruch |
+| Höhere Gewalt | § 6 Abs. 2 Nr. 1 lit. c VOB/B | Nur Bauzeitverlängerung |
 
-II. Folgen
-1. Bauzeitverlaengerung um voraussichtlich [Tage] § 6 Abs. 2 VOB/B
-2. Mehrkosten in nachfolgender Hoehe (gesondert mit Nachtragsangebot
-   gemaess § 6 Abs. 6 VOB/B bzw. § 2 Abs. 5 VOB/B)
-3. Notwendige Beschleunigungsmassnahmen werden gesondert kalkuliert
+## Bauablaufanalyse — Anforderungen BGH VII ZR 11/08
 
-III. Bitte um Mitwirkung
-Wir bitten um umgehende Klaerung und Beseitigung der Behinderungs-
-ursache. Wir behalten uns Mehrkostenforderung und Schadensersatz
-§ 6 Abs. 6 VOB/B / § 642 BGB ausdruecklich vor.
+Der BGH verlangt für Mehrkostenansprüche bei Bauablaufstörungen:
 
-Anlagen
-- Bautagebuchauszug
-- Bauablaufplan SOLL/IST
-- Lichtbilder
+**1. Ursprünglicher Bauablaufplan (SOLL)**
+- Balkenplan oder Netzplan mit konkreten Ausführungszeiten je Gewerk
+- Kritischer Pfad erkennbar
+- Vor Baubeginn oder kurz nach Auftragserteilung erstellt
 
-Mit kollegialen Gruessen
-```
+**2. Ist-Bauablauf**
+- Dokumentation tatsächlicher Ausführungszeiten
+- Quelle: Bautagebücher, Lieferscheine, Stundenzettel
+
+**3. SOLL/IST-Vergleich**
+- Gegenüberstellung der Positionen
+- Nachweis: Welche Behinderung hat welche Verzögerung verursacht?
+- Einfluss auf kritischen Pfad nachgewiesen?
+
+**4. Kausalität der Störung**
+- Nicht jede Störung führt zu Bauzeitverlängerung (nur kritischer Pfad)
+- Parallele Störungen: Gesamtwirkung zu bewerten
+
+**Praxis-Hinweis:** Ohne qualifiziertes SV-Gutachten bei komplexen Bauablaufstörungen kaum gerichtlich durchsetzbar. Baurechts-SV frühzeitig einschalten.
 
 ## Mehrkostenkalkulation (Schema)
 
 ```
-1. Vorhaltekosten Personal (Stillstand-Tage × Tagessatz)
-2. Vorhaltekosten Geraete (Mietsaetze / AfA + Reparatur)
-3. Baustelleneinrichtung-Mehrvorhaltung
-4. Materialpreisindexierung bei Verzoegerung > 6 Monate
-5. Allg. Geschaeftskosten anteilig
-6. Wagnis und Gewinn (bei § 6 Abs. 6 VOB/B Verschulden)
-7. Bauleitungs-Mehrkosten
+MEHRKOSTENKALKULATION — Bauablaufstörung
+
+Störungszeitraum: [Datum von] bis [Datum bis]
+Behinderungsursache: [Beschreibung]
+Betroffenes Gewerk: [Bezeichnung]
+
+A. STILLSTANDSKOSTEN PERSONAL
+   [X] Facharbeiter × [Y] Tage × EUR [Z] Tagessatz = EUR [Summe]
+   [X] Geräteführer × [Y] Tage × EUR [Z] Tagessatz = EUR [Summe]
+   Vorarbeiter [X] × [Y] × EUR [Z]                 = EUR [Summe]
+   GESAMT PERSONAL:                                   EUR [A]
+
+B. VORHALTEKOSTEN GERÄTE
+   Gerät 1 [Beschreibung]: [X] Tage × EUR [Tagesmiete/AfA] = EUR [Summe]
+   Gerät 2 [Beschreibung]: [X] Tage × EUR [Tagesmiete/AfA] = EUR [Summe]
+   GESAMT GERÄTE:                                           EUR [B]
+
+C. BAUSTELLENEINRICHTUNG-MEHRVORHALTUNG
+   [Kran/Containeranlage/Zäune]: [X] Tage × EUR [Y] = EUR [Summe]
+   GESAMT BE:                                          EUR [C]
+
+D. MATERIALPREISINDEXIERUNG
+   Anwendbar wenn Verzögerung > 6 Monate
+   Preisindex [Quelle: Statistisches Bundesamt/Baupreisindex]
+   Delta: [X] % × Materialkostenbasis EUR [Y] = EUR [Summe]
+   GESAMT MATERIAL:                             EUR [D]
+
+E. ALLGEMEINE GESCHÄFTSKOSTEN (AGK)
+   Prozentsatz aus Ursprungsangebot: [X] %
+   Basis A+B+C+D: EUR [Y] × [X]% = EUR [Summe]
+
+F. WAGNIS UND GEWINN (nur bei § 6 Abs. 6 VOB/B-Verschulden)
+   [X]% aus Ursprungsangebot × Basis EUR [Y] = EUR [Summe]
+
+G. BAULEITUNGS-MEHRKOSTEN
+   Polier/Bauleiter: [X] Tage × EUR [Tagessatz] = EUR [Summe]
+
+GESAMTMEHRKOSTEN NETTO: EUR [Summe A+B+C+D+E+F+G]
+USt 19%:                EUR [Summe]
+GESAMTMEHRKOSTEN BRUTTO: EUR [Summe]
+
+Bauzeitverlängerung: [Anzahl] Werktage
+Angepasster Fertigstellungstermin: [Datum]
 ```
 
-## Übergabe
+## Strategische Optionen (vor dem Template entscheiden)
 
-- Bei Streit über Mehrkosten: Klageweg vor Land- oder Amtsgericht je nach Streitwert; ggf. Schiedsgutachten oder Schlichtung.
-- Bei drohender Insolvenz Auftraggeber: Sicherungsabtretungen, Bauhandwerkersicherungshypothek § 650e BGB beantragen — eigener Workflow.
-- Anschluss bei Abnahme: Skill `fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt`.
-- Bei Streit über Werkmängel: Skill `fachanwalt-bau-architektenrecht-werkmangel-pruefen`.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Bauablaufstoerung und Mehrkostenanspruch geltend machen | Behinderungsanzeige und Mehrkostenforderung nach Bausteinen unten |
+| Variante A — Stoerung durch Auftragnehmer selbst verursacht | Kein Mehrkostensanspruch; defensiv argumentieren |
+| Variante B — Auftraggeber teilweise mitverantwortlich | Mitverschuldens-Quote bestimmen; Vergleich auf halber Strecke |
+| Variante C — laufendes Bauvorhaben mit weiteren Stoerungen | Laufende Dokumentation sichern; Behinderungsanzeige zeitnah stellen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatz-Bausteine
+
+### Behinderungsanzeige § 6 Abs. 1 VOB/B
+
+```
+An die [Auftraggeberin / Bauleitung]
+Bauvorhaben [Objekt] Vertragsnummer [Nr.]
+
+Behinderungsanzeige gemäß § 6 Abs. 1 VOB/B
+[Ort], [Datum]
+
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht der Firma [Auftragnehmer] zeigen wir
+hiermit folgende Behinderung der Bauausführung an:
+
+I. Sachverhalt der Behinderung
+Beginn der Behinderung:  [Datum, Uhrzeit]
+Ursache:                 [konkrete Beschreibung —
+                          z.B.: Ausführungsplan Pos. [Nr.]
+                          wurde trotz Anforderung vom [Datum]
+                          nicht geliefert / Vorgewerk [Gewerk]
+                          ist am [Datum] nicht abgeschlossen /
+                          Anordnung des AG vom [Datum]]
+Verantwortlicher:        [Auftraggeber / Architekt / Vorgewerk]
+Auswirkung:              [Gewerk] kann nicht ausgeführt werden.
+
+II. Folgen der Behinderung
+1. Bauzeitverlängerung voraussichtlich [Anzahl] Werktage (§ 6 Abs. 2 VOB/B)
+2. Stillstandskosten Personal [Anzahl] Arbeitnehmer
+3. Vorhaltekosten Geräte [Bezeichnung]
+4. Ggf. Beschleunigungskosten nach Beseitigung der Behinderung
+
+III. Anforderungen
+Wir fordern Sie auf, die Behinderungsursache bis zum [Datum]
+zu beseitigen und die Ausführungsplanung zu übermitteln.
+
+Wir behalten uns ausdrücklich vor:
+— Bauzeitverlängerung nach § 6 Abs. 2 VOB/B
+— Mehrkostenforderung nach § 6 Abs. 6 VOB/B / § 642 BGB
+
+Das Nachtragsangebot zur Mehrkostenforderung wird gesondert
+übermittelt.
+
+Anlagen:
+— Bautagebuchauszug vom [Datum]
+— Bauablaufplan SOLL mit kritischem Pfad
+— Schriftverkehr Planlieferungs-Anforderung vom [Datum]
+```
+
+### Mehrkostenforderungsschreiben nach Beseitigung der Behinderung
+
+```
+An die [Auftraggeberin]
+Bauvorhaben [Objekt]
+
+Mehrkostenforderung gemäß § 6 Abs. 6 VOB/B / § 642 BGB
+
+Sehr geehrte Damen und Herren,
+
+mit Behinderungsanzeige vom [Datum] haben wir die Behinderung
+der Bauausführung durch [Ursache] angezeigt.
+
+Die Behinderung bestand vom [Datum von] bis [Datum bis]
+([Anzahl] Werktage). Wir machen folgende Mehrkosten geltend:
+
+Mehrkosten gemäß anliegender Kalkulation:   EUR [Summe] netto
+Umsatzsteuer 19 %:                          EUR [Summe]
+Mehrkosten gesamt brutto:                   EUR [Summe]
+
+Bauzeitverlängerung:                        [Anzahl] Werktage
+Neuer Fertigstellungstermin:                [Datum]
+
+Wir fordern Sie auf, den Nettobetrag von EUR [Summe] bis
+[Zahlungsziel, 21 Tage] auf unser Konto zu überweisen.
+
+Nach Fristablauf werden wir gerichtliche Schritte einleiten.
+
+Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Beweislast
+
+| Partei | Beweislastgegenstand | Beweismittel |
+|--------|---------------------|--------------|
+| Auftragnehmer | Behinderung eingetreten, konkreter Zeitpunkt | Bautagebuch, Behinderungsanzeige, E-Mail-Korrespondenz |
+| Auftragnehmer | Verantwortlichkeit des Auftraggebers | Planlieferungsliste, Besprechungsprotokoll |
+| Auftragnehmer | Behinderung auf kritischem Pfad | Bauablaufplan SOLL, SV-Bauablaufgutachten |
+| Auftragnehmer | Höhe der Mehrkosten | Stundenzettel, Gerätelisten, Kalkulation |
+| Auftragnehmer | Bei § 6 Abs. 6 VOB/B: Verschulden des AG | Nachweisliche Pflichtverletzung des AG |
+| Auftraggeber | Offenkundigkeit (Entlastung von Anzeigepflicht) | Eigene Kenntnis der Behinderung |
+| Auftraggeber | Keine Kausalität (Behinderung nicht auf kritischem Pfad) | Eigene Bauablaufanalyse |
+
+## Fristen
+
+| Frist | Auslöser | Dauer | Folge |
+|-------|---------|-------|-------|
+| Behinderungsanzeige | Erkennen Behinderung | Unverzüglich (max. 48–72 h) | Verlust Bauzeitverlängerung und Mehrkostenrecht |
+| Anzeige Ende Behinderung | Wegfall Behinderungsursache | Unverzüglich § 6 Abs. 3 VOB/B | Genauer Fristbeginn Bauzeitverlängerung |
+| Mehrkostenforderung | Abnahme / Schlussrechnung | Vor Schlussrechnung | Vergütungsanspruch abgeschnitten wenn in Schlussrechnung nicht enthalten (§ 16 Abs. 3 Nr. 2 VOB/B) |
+| Verjährung Vergütungsanspruch | Fälligkeit Schlussrechnung | 3 Jahre § 195 BGB | Anspruchsverlust |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument Auftraggeber | Reaktion |
+|---------------------------|---------|
+| „Behinderungsanzeige fehlte oder zu spät" | Offenkundigkeit als Ausnahme; subsidiär: Kausalität fehlende Anzeige und Schaden nachweisen |
+| „Behinderung lag nicht auf kritischem Pfad" | Eigene Bauablaufanalyse mit SV; BGH VII ZR 201/13 verlangt Kritischer-Pfad-Nachweis |
+| „Mehrkosten überhöht" | Detaillierte Kalkulation nach Gerätelisten, Stundenzettel; § 287 ZPO-Schätzung |
+| „Kein Verschulden (§ 6 Abs. 6 VOB/B)" | Subsidiär § 642 BGB-Entschädigung ohne Verschulden; nur Gewinnkomponente entfällt |
+| „AN hat mitverschuldet" | § 254 BGB: Mitverschuldensquote prüfen; AN muss Schaden minimieren (z.B. Ressourcen umleiten) |
+| „Witterung ist allgemeines Risiko" | § 6 Abs. 2 Nr. 1 lit. c VOB/B: nur ungewöhnliche Witterung berechtigt zur Verlängerung; statistischer Nachweis |
+
+## Streitwert und Kosten
+
+**Typische Streitwerte:**
+- Kleinbauvorhaben EUR 10.000–50.000
+- Mittelgroße Projekte EUR 50.000–500.000
+- Großprojekte und Infrastruktur EUR 500.000–5 Mio.
+
+**SV-Gutachten Bauablauf:** EUR 5.000–30.000 je Komplexität
+
+**Gerichtsgebühren** bei EUR 100.000: ca. EUR 2.571 (3,0 Gebühr LG)
+
+## Strategische Empfehlung
+
+| Strategie | Empfehlung | Begründung |
+|-----------|-----------|------------|
+| Bautagebuch | Täglich führen, von Bauleitung beider Seiten gegenzeichnen lassen | Entscheidender Beweis; nachträgliche Rekonstruktion kaum möglich |
+| SOLL-Bauablaufplan | Zu Baubeginn erstellen und übergeben | BGH VII ZR 11/08: SOLL-Basis notwendig für Vergleich |
+| Behinderungsanzeige | Schriftlich binnen 48 h nach Erkennen; Einschreiben + E-Mail | Doppelsicherung Zugang |
+| Frühzeitige SV-Einschaltung | Ab erkennbarer Bauzeitverlängerung > 10 Tage | BGH-Anforderungen ohne SV kaum erfüllbar |
+| Beschleunigung | Nur auf ausdrückliche Anweisung und Vergütungsvereinbarung mit AG | Sonst eigenes Kostenrisiko |
+| Schlussrechnung | Alle Mehrkosten vollständig in Schlussrechnung aufnehmen | § 16 Abs. 3 Nr. 2 VOB/B: nicht aufgenommene Ansprüche verloren |
+
+## Anschluss-Skills
+
+- `nachtragsmanagement-650b` — bei Nachtragsforderung nach § 650b/c BGB
+- `fachanwalt-bau-architektenrecht-werkmangel-vob-bgb-pruefen` — bei parallelen Mangelansprüchen
+- `fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt` — Abnahmephase nach Bauzeitverlängerung
+
+## Quellen
+
+- VOB/B §§ 1, 2, 6, 16
+- BGB §§ 642, 643, 650b, 650c
+- BGH VII ZR 11/08 (24.02.2011) — Leitentscheidung Bauablaufanalyse
+- BGH VII ZR 128/09 (26.04.2012) — § 642 BGB Entschädigung
+- BGH VII ZR 201/13 (30.04.2015) — Kausalität kritischer Pfad
+- Ingenstau/Korbion, VOB-Kommentar, 22. Aufl.
+- Kapellmann/Schiffers, Vergütung und Bauablauf, 7. Aufl.
+- Werner/Pastor, Der Bauprozess, 16. Aufl.
+- Stand: 05/2026

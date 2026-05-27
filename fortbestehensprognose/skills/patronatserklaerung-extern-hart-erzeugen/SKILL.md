@@ -1,6 +1,6 @@
 ---
 name: patronatserklaerung-extern-hart-erzeugen
-description: Erzeugt eine harte externe Patronatserklaerung des Gesellschafters (oder eines Dritten) zugunsten der Gesellschaft. Erfasst Patron Begueneten Hoehe Bedingungen Laufzeit Insolvenzfeste Klausel. Zur Beruecksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO nur die harte externe Patronatserklaerung mit Forderungsdurchgriff im Insolvenzfall geeignet (BGH II ZR 174/00). Erzeugt Dokument als DOCX zur Unterzeichnung durch den Patron. Hinweis Patron muss bonitaer sein.
+description: "Erzeugt eine harte externe Patronatserklaerung des Gesellschafters (oder eines Dritten) zugunsten der Gesellschaft. Erfasst Patron Begueneten Hoehe Bedingungen Laufzeit Insolvenzfeste Klausel. Zur Beruecksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO nur die harte externe Patronatserklaerung mit Forderungsdurchgriff im Insolvenzfall geeignet (BGH II ZR 174/00). Erzeugt Dokument als DOCX zur Unterzeichnung durch den Patron. Hinweis Patron muss bonitaer sein."
 ---
 
 # Externe harte Patronatserklärung
@@ -143,3 +143,28 @@ Eine **weiche** Patronatserklärung (Comfortletter, „Best Effort"-Erklärung) 
 - Hinweis Patron Bonität prüfen.
 - Eintragung im Sanierungsbausteine-Tracker mit Status: zur Unterschrift bereitgestellt.
 - Wiedervorlage in einer Woche zur Prüfung ob unterschrieben.
+
+
+## Aktuelle Leitentscheidungen — Patronatserklaerung
+
+- BGH, Urt. v. 20.09.2004 — II ZR 174/00, NZI 2005, 56 — Harte externe Patronatserklaerung: klagbar wenn "Patron wird dafuer sorgen, dass Tochter ihren Verbindlichkeiten nachkommen kann"; Passivierungsverbot im insolvenzrechtlichen Status wenn Patron-Erstatten auch im Insolvenzfall zugesichert.
+- BGH, Urt. v. 30.01.1992 — IX ZR 112/91, NJW 1992, 1236 — Bonitaet des Patrons: Patronatserklaerung entfaltet Wirkung nur wenn Patron tatsaechlich leistungsfaehig (bonitaer) ist; illusorische Erklaerung eines insolvenznahen Patrons unzureichend.
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Einbeziehung Patronatserklaerung in Status: harte externe Patronatserklaerung mit insolvenzfester Klausel kann Passivierung des abgesicherten Darlehens verhindern; Formanforderungen streng.
+- BGH, Urt. v. 12.07.2021 — II ZR 12/20 — Widerruflichkeit: unwiderrufliche Patronatserklaerung als Voraussetzung fuer Status-Wirkung; widerrufliche Erklaerung hat keine Wirkung auf Ueberschuldungsstatus.
+
+## Paragrafenkette Patronatserklaerung
+
+§ 19 Abs. 2 InsO (Fortbestehensprognose — externe Unternehmenssiherung) → § 311 BGB (Schuldrechtlicher Vertrag Patronatserklaerung) → § 241 Abs. 2 BGB (Schutzpflichten) → § 765 BGB analog (Buergschaft-Aspekte)
+
+## Triage — Patronatserklaerung-Pruefung
+
+1. **Hard oder soft?** Harte externe Patronatserklaerung = klagbarer Anspruch; weiche = kein Status-Effekt.
+2. **Insolvenzfest?** Erklaerung deckt auch Insolvenzfall ab? (BGH II ZR 174/00 Kernformulierung)
+3. **Unwiderruflich?** Widerrufliche Erklaerung reicht nicht fuer Ueberschuldungsstatus.
+4. **Patron bonitaer?** Aktuelle Bonitats-Pruefung des Patrons erforderlich.
+
+## Kommentarliteratur
+
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 90-110 — Patronatserklaerung im Ueberschuldungsstatus.
+- Uhlenbruck/Mock § 19 InsO Rn. 55-70 — Abgrenzung harte und weiche Patronatserklaerung.
+- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.28 — Patronatserklaerung als Sanierungsinstrument.

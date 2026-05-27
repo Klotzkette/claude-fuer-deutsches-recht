@@ -1,9 +1,39 @@
 ---
 name: aktenintake-zivil
-description: "Strukturiert eine eingehende Zivilakte vor der ersten Pruefung: Klagschrift mit Antraegen Streitwert Sachvortrag Beweisangeboten Anlagen Zustellnachweis Klageerwiderung Replik Duplik Schriftsatznachreichungen Beweisbeschluss Protokolle muendliche Verhandlung Sachverstaendigengutachten Zeugenaussagen. Erstellt Aktenuebersicht mit Datum Verfasser Inhalt Bezugnahmen Bewertung. Mit Tabellen-Template Pruefliste fuer Hinweispflichten Schnittstelle zur Relation."
+description: "Eingehende Zivilakte vor erster Pruefung strukturieren: Richter oder Referendar erhalt neue Akte und muss Ueberblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswuerdigung), § 139 ZPO (richterliche Hinweispflicht). Pruefraster: Klagschrift mit Antraegen, Streitwert, Sachvortrag, Beweisangebote, Anlagen, Zustellung, Klageerwiderung, Replik, Beweisbeschluss, Protokolle, Gutachten. Output Aktenuebersicht-Tabelle, Pruefliste Hinweispflichten, Schnittstelle zur Relation. Abgrenzung: Detailpruefung Zulaessigkeit siehe zulaessigkeit-pruefen; Relationserstattung siehe relation-zivil."
 ---
 
 # Aktenintake Zivilprozess
+
+
+## Triage zu Beginn
+
+1. Welche Schriftsätze liegen vor — Klagschrift, Klageerwiderung, Replik, Duplik, Nachreichungen?
+2. Ist der Streitwert plausibel (Paragraf 3 ZPO, Anlage 1 GKG)? Sachliche Zuständigkeit AG oder LG?
+3. Gibt es Beweisbeschlüsse oder Protokolle früherer Verhandlungen?
+4. Liegen Sachverständigengutachten oder Zeugenaussagen vor, die auszuwerten sind?
+5. Sind Erledigungserklärungen, Widerklagen oder Aufrechnung im Akt?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 12.12.2019 - III ZR 198/18, NJW 2020, 755 — Gericht muss auf rechtliche Gesichtspunkte hinweisen, die erkennbar übersehen wurden; Verletzung Paragraf 139 ZPO führt zu Revisionszulassung.
+- BGH, Urt. v. 21.02.2017 - XI ZR 185/16, NJW 2017, 1823 — Zur Hinweispflicht bei Unschlüssigkeit der Klage; Gericht darf Klage nicht ohne Vorankündigung abweisen.
+- BGH, Urt. v. 25.01.2018 - III ZR 432/16, NJW 2018, 1093 — Präklusion nach Paragraf 296 ZPO setzt schuldhafte Säumnis voraus; Gericht hat Ermessen.
+- BVerfG, Beschl. v. 05.05.1987 - 1 BvR 903/85, NJW 1987, 2667 — Anspruch auf rechtliches Gehör Art. 103 Abs. 1 GG verlangt echte Auseinandersetzung mit Parteivorbringen.
+
+## Zentrale Normen
+
+- § 139 ZPO — richterliche Hinweis- und Aufklärungspflicht
+- § 296 ZPO — Zurückweisung verspäteten Vorbringens
+- § 313 ZPO — Form und Inhalt des Urteils
+- § 358 ff. ZPO — Beweisbeschluss und Beweisaufnahme
+- § 286 ZPO — freie Beweiswürdigung
+
+## Kommentarliteratur
+
+- Zöller/Greger, ZPO, 35. Aufl. 2024, § 139 Rn. 1-25 (Hinweispflicht Inhalt und Grenzen)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 296 Rn. 1-30 (Präklusion)
+- MüKo-ZPO/Fritsche, 6. Aufl. 2022, § 139 Rn. 1-40
 
 ## Zweck
 

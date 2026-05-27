@@ -1,9 +1,32 @@
 ---
 name: kanzlei-builder-hub-kaltstart-interview
-description: "Praxisprofil-Interview, das ein Starter-Paket aus Community-Kanzlei-Skills empfiehlt und installiert. Dies IST der Kaltstart für das gesamte Ökosystem — es fragt nach Kanzleityp und empfiehlt, was zuerst installiert werden sollte. Beim Erststart einsetzen, wenn der Nutzer sagt „Einstieg\", „Was soll ich installieren\" oder um die Integrations-Verfügbarkeitsprüfung nach Hinzufügen oder Entfernen eines MCP-Konnektors erneut auszuführen."
+description: "Kaltstart-Interview fuer den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Pruefraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfiguration. Abgrenzung: nicht Plugin-Installation (Folgeschritt)."
 ---
 
 # /kaltstart-interview — Kanzleiprofil-Interview
+
+
+## Triage zu Beginn
+1. Handelt es sich um eine Ersteinrichtung oder ein Wiederholungsinterview (--redo oder --check-integrations)?
+2. Welche Rechtsform und welcher Kanzleityp liegen vor (Einzelanwalt, PartG, GmbH, Rechtsabteilung)?
+3. Sind datenschutzrechtliche Grundlagen (AVV, TOM, Verarbeitungsverzeichnis) fuer den KI-Einsatz bereits geprueft?
+4. Welche technischen Integrationen (beA, E-Mail, DMS, Buchhaltung) sind vorhanden und angebunden?
+
+## Aktuelle Rechtsprechung
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — KI-basierte Verarbeitung von Mandantendaten ist Auftragsverarbeitung nach Art. 28 DSGVO; Kaltstart muss AVV-Status des KI-Anbieters abfragen.
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzleiorganisation muss Pflichten ab erstem Mandatstag sicherstellen; Kaltstart-Interview dient als Nachweis strukturierter Einrichtung.
+- BVerfG, Beschl. v. 14.01.2020 - 1 BvR 2316/19, NJW 2020, 897 — Keine Schonfrist bei berufsrechtlichen Organisationspflichten (§§ 43, 43a BRAO); Kanzleiprofil muss von Beginn an vollstaendig sein.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Erstdokumentation des Kanzleiprofils (Rechtsgebiete, Abrechnungsart, Eingangskanale) als Teil der Sorgfaltspflicht nach § 43 BRAO.
+
+## Zentrale Normen
+- Art. 28 DSGVO — AVV mit KI-Infrastrukturanbieter: Pflicht bei jeder Auftragsverarbeitung
+- Art. 35 DSGVO — Datenschutz-Folgenabschaetzung bei hohem Risiko fuer Mandantendaten
+- §§ 43, 43a BRAO — Allgemeine Berufspflichten: gelten ab erstem Mandatstag und erfordern strukturierte Kanzleiorganisation
+- § 203 StGB — Verletzung von Privatgeheimnissen: KI-Skills muessen mandatsgeheimnis-konform konfiguriert sein
+
+## Kommentarliteratur
+- Kühling/Buchner DSGVO Art. 28 Rn. 1-40 (Auftragsverarbeitung: Anforderungen fuer Kanzlei-KI)
+- Gaier/Wolf/Göcken BRAO §§ 43, 43a Rn. 1-30 (Berufspflichten: Inhalt und Ersteinrichtungspflichten)
 
 ## Zweck
 

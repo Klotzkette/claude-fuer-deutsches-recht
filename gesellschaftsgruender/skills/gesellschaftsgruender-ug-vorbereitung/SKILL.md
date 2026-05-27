@@ -1,138 +1,133 @@
 ---
 name: gesellschaftsgruender-ug-vorbereitung
-description: "UG-Gruendung haftungsbeschraenkt. Mini-GmbH mit Mindestkapital 1 EUR Thesaurierungspflicht Paragraf 5a III GmbHG 25 Prozent Jahresgewinn. Notarpflicht Musterprotokoll. Umwandlung in GmbH bei 25000 EUR. Sozialversicherung GF Sonderfragen. Vor- und Nachteile gegenueber GmbH. Typische Fehler beim Mini-Kapital."
+description: "UG haftungsbeschraenkt gruenden: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Pruefraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Ruecklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gruendungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gruendung ab 25000 Euro."
 ---
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)
 
-## Zweck
+## Triage — kläre vor der Entscheidung UG vs. GmbH
 
-Die UG ist eine GmbH-Sondervariante (Paragraf 5a GmbHG) mit Mindestkapital 1 EUR — beliebt für Startups mit wenig Startkapital. Sie ist **keine** eigene Rechtsform, sondern eine GmbH mit Sondervorschriften. Dieser Skill geht die Spezifika gegenüber der „normalen" GmbH durch.
+1. Verfügbares Startkapital: Unter 5.000 EUR → UG sinnvoll. Über 10.000 EUR → GmbH prüfen.
+2. Ist Investoren-Aufnahme in den nächsten 24 Monaten wahrscheinlich? Manche Investoren und Förderprogramme verlangen GmbH als Voraussetzung.
+3. Soll eine Sacheinlage eingebracht werden? Bei UG ausgeschlossen (§ 5a Abs. 2 S. 1 GmbHG).
+4. Ist die Gesellschaft B2B-Auftritte gegenüber Großunternehmen oder Banken geplant? UG hat oft Kreditnachteile und Reputationsrisiken.
+5. Wieviele Gesellschafter und Geschäftsführer? Bis zu 3 Gesellschafter + 1 GF: Musterprotokoll möglich.
+6. Ist Thesaurierungspflicht (25 % Jahresgewinn) finanziell tragbar bis zum Erreichen von 25.000 EUR Stammkapital?
 
-## 1) Stammkapital
+## Zentrale Normen
 
-- **Mindesthöhe**: 1 EUR
-- **In Praxis sinnvoll**: 500-5.000 EUR (genug für Notar, erste Anlaufkosten)
-- **Bareinlage zwingend**, Sacheinlage **ausgeschlossen** (Paragraf 5a II 1 GmbHG)
-- **Vollständige Einzahlung vor Anmeldung** (Paragraf 7 II GmbHG)
+- **§ 5a GmbHG** — UG als GmbH-Sondervariante; Mindestkapital 1 EUR; Bareinlage zwingend; Sacheinlage ausgeschlossen.
+- **§ 5a Abs. 3 GmbHG** — Thesaurierungspflicht: 25 % des Jahresergebnisses in gesetzliche Rücklage bis 25.000 EUR Stammkapital.
+- **§ 5a Abs. 5 GmbHG** — Umfirmierung zur GmbH nach Erreichen von 25.000 EUR.
+- **§ 7 GmbHG** — Einzahlungspflicht vor Anmeldung: vollständige Bareinlage.
+- **§ 7a SGB IV** — Statusfeststellungsverfahren für GF (Sozialversicherungspflicht).
+- **§§ 2, 2a GmbHG** — Musterprotokoll bei Standardgründung.
 
-### Praktische Höhen
+## Aktuelle Rechtsprechung
 
-| Stammkapital | Bewertung |
-|---|---|
-| 1 EUR | mediale Aufmerksamkeit, aber kaufmaennisch heikel |
-| 100-500 EUR | symbolisch, riskant für Anlaufkosten |
-| 500-2.500 EUR | typischer Solo-Gründer mit knappem Budget |
-| 2.500-10.000 EUR | empfohlene Höhe für realistische Anlauf-Liquidität |
-| 25.000 EUR | dann lieber gleich „normale" GmbH gründen |
+- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 10 — Vorbelastungshaftung gilt auch für UG; Gesellschafter haften für Verbindlichkeiten zwischen Beurkundung und Eintragung anteilig nach Stammkapitalquote.
+- BSG, Urt. v. 29.08.2012 - B 12 KR 25/10 R, BSGE 111, 257 — GmbH-GF mit Mehrheitsbeteiligung ist regelmäßig sozialversicherungsfrei; Minderheits-GF ohne maßgeblichen Einfluss ist sozialversicherungspflichtig.
+- BGH, Urt. v. 24.10.2005 - II ZR 129/04, BGHZ 164, 336 — Haftung des Strohmann-GF: wer formell eingetragen ist, haftet nach § 43 GmbHG auch wenn er nur auf Weisung handelt.
+- OLG Frankfurt, Beschl. v. 14.06.2012 - 20 W 235/12, GmbHR 2012, 989 — Firmenbildung UG: Firmenzusatz "UG (haftungsbeschränkt)" zwingend; "GmbH" vor Umfirmierung unzulässig.
 
-## 2) Thesaurierungspflicht Paragraf 5a III GmbHG
+## Kommentarliteratur
 
-- **25 % des Jahresgewinns** müssen in eine **gesetzliche Ruecklage** eingestellt werden
-- Diese Ruecklage darf nur verwendet werden für:
-  - Verlustausgleich
-  - Kapitalerhöhung aus Gesellschaftsmitteln
-- Pflicht besteht **bis das Stammkapital 25.000 EUR erreicht**
+- Scholz/Emmerich, GmbHG, § 5a Rn. 1-40 (UG-Sondervorschriften, Thesaurierung, Umfirmierung)
+- Baumbach/Hueck, GmbHG, § 5a Rn. 1-25 (Vor- und Nachteile, Praxishinweise)
+- Lutter/Hommelhoff, GmbHG, § 5a Rn. 1-20 (UG-Besonderheiten)
 
-### Konsequenz
+## UG vs. GmbH Vergleichsmatrix
 
-- Solange die UG „klein" ist, fliesst ein Viertel des Gewinns in die Ruecklage
-- Erst bei vollständiger Kapitalauffuellung kann zur GmbH umfirmiert werden (Paragraf 5a V GmbHG)
-- Umfirmierung GmbH-UG bzw. UG-GmbH erfordert **Satzungsaenderung** und **Notar-Beurkundung**
-
-## 3) Firma Paragraf 5a I GmbHG
-
-- Zwingender Rechtsformzusatz „**Unternehmergesellschaft (haftungsbeschränkt)**" oder „**UG (haftungsbeschränkt)**"
-- „GmbH"-Zusatz **unzulaessig** vor der Umfirmierung
-- Bei späterer Umfirmierung -> Firmierung mit „GmbH" zulaessig
-
-## 4) Musterprotokoll vs. individuelle Satzung
-
-Wie bei der GmbH:
-
-- **Musterprotokoll** Paragraf 2 Ia GmbHG: einfach, billig, bis 3 Gesellschafter und ein GF
-- **Individuelle Satzung**: bei komplexerer Struktur, Investoren-Vorbereitung
-
-### Empfehlung
-
-- UG mit Musterprotokoll: **passend für typische Solo-Gründer** mit kleinem Startbudget
-- UG mit individueller Satzung: **selten sinnvoll** — wer komplexere Strukturen plant, sollte gleich GmbH gründen
-
-## 5) Vor- und Nachteile
-
-### Vorteile UG vs. GmbH
-
-| Aspekt | UG | GmbH |
+| Merkmal | UG (haftungsbeschränkt) | GmbH |
 |---|---|---|
-| Mindestkapital | 1 EUR | 25.000 EUR (12.500 EUR Einzahlung) |
-| Notarkosten | ca. 250-450 EUR (Musterprotokoll) | ca. 400-600 EUR (Musterprotokoll) |
-| Sacheinlage | ausgeschlossen | möglich |
-| Thesaurierungspflicht | 25 % des Jahresgewinns | keine |
-| Firma | „UG (haftungsbeschränkt)" | „GmbH" |
-| Reputation | „Mini-GmbH"-Konnotation | etablierte GmbH |
-| Investoren | maessig akzeptiert | Standard |
+| Mindestkapital | 1 EUR | 25.000 EUR |
+| Mindesteinzahlung vor Anmeldung | Vollständig (§ 7 GmbHG) | 12.500 EUR (§ 7 Abs. 2 GmbHG) |
+| Sacheinlage | Ausgeschlossen (§ 5a Abs. 2) | Möglich (mit Sachgründungsbericht) |
+| Thesaurierungspflicht | 25 % Jahresgewinn bis 25.000 EUR | Keine |
+| Firmenzusatz | "UG (haftungsbeschränkt)" zwingend | "GmbH" |
+| Notarkosten (Musterprotokoll) | ca. 250-450 EUR | ca. 400-600 EUR |
+| Investoren-Akzeptanz | Eingeschränkt | Standard |
+| Bankkredit | Erschwerter Zugang | Normal |
+| Umwandlung | In GmbH ab 25.000 EUR möglich | — |
+| Reputation | "Mini-GmbH"-Konnotation | Etabliert |
 
-### Nachteile
+## Thesaurierungspflicht Rechenbeispiel
 
-- **Mediale Konnotation**: „Mini-GmbH" wirkt weniger seriös
-- **Banken** sind bei UG vorsichtiger (Kredit, Geschäftskonto)
-- **Lieferanten** verlangen oft Vorkasse bei kleiner UG
-- **Investoren** fragen oft Umfirmierung als Vorbedingung
+| Jahresgewinn | Thesaurierung 25 % | Entnahmefähig | Kumulierte Rücklage |
+|---|---|---|---|
+| Jahr 1: 10.000 EUR | 2.500 EUR | 7.500 EUR | 2.500 EUR |
+| Jahr 2: 20.000 EUR | 5.000 EUR | 15.000 EUR | 7.500 EUR |
+| Jahr 3: 30.000 EUR | 7.500 EUR | 22.500 EUR | 15.000 EUR |
+| Jahr 4: 40.000 EUR | 10.000 EUR | 30.000 EUR | 25.000 EUR → Umfirmierung möglich |
 
-## 6) Umwandlung UG -> GmbH
+## Schritt-für-Schritt-Workflow
 
-### Voraussetzungen
+1. **UG vs. GmbH-Entscheidung** — Triage-Fragen beantworten; Vergleichsmatrix prüfen.
+2. **Stammkapital festlegen** — Mindestens ausreichend für Gründungskosten (Notar ca. 300-500 EUR); Empfehlung: 500-2.500 EUR.
+3. **Firmenname** — IHK-Vorprüfung; HR-Recherche; Firmenzusatz "UG (haftungsbeschränkt)" zwingend.
+4. **Gesellschafterstruktur** — Quoten; max. 3 Gesellschafter für Musterprotokoll.
+5. **Musterprotokoll oder individuelle Satzung** — bei UG meist Musterprotokoll ausreichend.
+6. **Notartermin** — alle Gesellschafter und GF anwesend oder bevollmächtigt.
+7. **Einzahlung** — vollständige Bareinlage vor Anmeldung auf UG-Bankkonto.
+8. **HR-Anmeldung** — Notar reicht ein; ca. 2-4 Wochen bis Eintragung.
+9. **Folgeakte** — Gewerbeanmeldung; Steuererfassungsbogen; Transparenzregister; GF-Anstellungsvertrag.
+10. **Thesaurierungs-Monitoring** — Jahresabschluss: 25 % Pflichteinstellung überwachen.
+11. **Umfirmierungs-Planung** — bei Erreichen von 25.000 EUR Rücklage: Satzungsänderung, Notar, HR-Anmeldung.
 
-- Stammkapital erreicht **25.000 EUR** (durch Kapitalerhöhung aus Ruecklage oder Bareinzahlung)
-- Satzungsaenderung mit 75 %-Mehrheit
-- Notar-Beurkundung der Änderung
-- Handelsregister-Anmeldung
+## Output-Template Checkliste UG-Gründung
 
-### Praxis
+**Adressat:** Gründer / Mandant — Tonfall verständlich-erklärend
+```
+CHECKLISTE UG-GRÜNDUNG
+Mandant: [Name(n) der Gründer]
+Firma (geplant): [Firmenname] UG (haftungsbeschränkt)
+Notartermin: [Datum, Uhrzeit, Ort]
+Stammkapital: [EUR]
 
-- Wird typisch durchgeführt, wenn Investor einsteigt oder das Wachstum es erlaubt
-- Notarkosten für Umfirmierung: ca. 500-1.000 EUR
-- Die UG bleibt **dieselbe Rechtspersönlichkeit** — keine steuerliche Verschmelzung, keine Bilanz-Eröffnung
+VOR DEM TERMIN
+[ ] Personalausweis / Reisepass — alle Gesellschafter + GF
+[ ] Firmenvorprüfung abgeschlossen (IHK oder eigene Recherche)
+[ ] Bankverbindung für UG-Konto: [Bank], Konto wird nach Beurkundung eröffnet
+[ ] Stammkapital bereit für sofortige Einzahlung: [EUR]
+[ ] Gesellschafterstruktur final: [Gesellschafter 1] [%], [Gesellschafter 2] [%]
+[ ] GF-Name und Vertretungsart festgelegt
 
-## 7) Sozialversicherungsrechtliche Fragen
+NACH BEURKUNDUNG
+[ ] Bareinlage vollständig einzahlen bis: [Datum]
+[ ] Einzahlungsbeleg an Notar bis: [Datum]
+[ ] HR-Eintragung abwarten (ca. 2-4 Wochen)
+[ ] Gewerbeanmeldung: [zuständiges Amt]
+[ ] Steuererfassungsbogen: Finanzamt [ORT]
+[ ] Transparenzregister: wirtschaftlich Berechtigte eintragen
+[ ] GF-Anstellungsvertrag abschließen
 
-Wie bei GmbH:
+THESAURIERUNGS-PLAN
+Jahresabschluss: 25 % des Jahresgewinns in gesetzliche Rücklage einzustellen
+Zielkapital für Umfirmierung: 25.000 EUR
+Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
+```
 
-- Solo-Gesellschafter-GF mit Mehrheit: meist sozialversicherungsfrei (BSG-Linie)
-- Minderheits-GF: meist sozialversicherungspflichtig
-- Prüfung im Einzelfall mit Statusfeststellungsantrag Paragraf 7a SGB IV
+## Rote Schwellen
 
-## 8) Geldwäsche- und Transparenzregister
+- Sacheinlage bei UG geplant → nicht zulässig (§ 5a Abs. 2 GmbHG); Bargründung zwingend.
+- Stammkapital von 1 EUR — Gründungskosten überschreiten sofort das Kapital → Überschuldung ab Beurkundung; Mindestens 300-500 EUR einplanen.
+- Firmenzusatz "GmbH" vor Umfirmierung verwendet → irreführend; unzulässig; ggf. abmahnungsfähig.
+- Einzahlung nicht vollständig vor Anmeldung → Anmeldevoraussetzung nicht erfüllt; persönliche GF-Haftung.
+- Investor fordert GmbH als Voraussetzung → Umfirmierung einplanen; Kosten und Zeitaufwand berücksichtigen.
 
-Identisch zur GmbH:
+## Quellen und Vertiefung
 
-- TraFinG-Meldung der wirtschaftlich Berechtigten an Transparenzregister
-- GwG-Identifikation bei Geschäftskonto-Eröffnung
+- §§ 5a, 7, 53 GmbHG (UG-Sondervorschriften)
+- § 7a SGB IV (Statusfeststellungsverfahren)
+- BGH II ZR 171/06, NJW 2008, 1589 (Vorbelastungshaftung)
+- BSG B 12 KR 25/10 R, BSGE 111, 257 (SV-Status GF)
+- Scholz/Emmerich, GmbHG, § 5a Rn. 1-40
 
-## 9) Typische Fehler bei UG-Gründung
+## Übergabe an andere Skills
 
-1. **Stammkapital zu niedrig.** 1 EUR ist mathematisch zulaessig, aber kaufmaennisch riskant. Notarkosten allein liegen bei 250+ EUR — die UG ist nach der Beurkundung sofort überschuldet.
-2. **Sacheinlage versucht.** Bei UG ausgeschlossen Paragraf 5a II GmbHG. Notar wird abweisen.
-3. **Thesaurierung unterschaetzt.** Erste Gewinnjahre koennen sich „arm" anfuehlen, weil 25 % in der Ruecklage gebunden sind.
-4. **GmbH-Firmierung verwendet.** „UG (haftungsbeschränkt)" ist zwingend. Werbeauftritt nur als „GmbH" ist irreführend.
-5. **Investor-Aufnahme ohne Umfirmierung versucht.** Manche Investoren / Banken / Förderprogramme verlangen GmbH als Voraussetzung — Umfirmierung dann nachzuholen.
-6. **Buchhaltungs-Unterschätzung.** Wie bei GmbH doppelte Buchführung, Pflicht-Jahresabschluss, Veröffentlichung im Bundesanzeiger.
-
-## 10) Empfehlung
-
-**UG passt für**:
-- Solo-Gründer mit < 5.000 EUR Startkapital
-- Startup-Idee, die erstmal getestet werden soll
-- Risikoarme Geschäftsmodelle (z.B. reine Beratung)
-
-**UG passt nicht für**:
-- Investoren-Vorbereitung
-- Hochrisiko-Geschäft (Produkthaftung, Maschinenbau)
-- Strukturen mit mehreren Gründern und Vesting (lieber GmbH mit individueller Satzung)
-
-## Anschluss
-
-- `gesellschaftsgruender-notar-vorbereitung` — Notarsitzung
-- `gesellschaftsgruender-online-gruendung-dirug` — Online-Gründung (UG zulaessig)
-- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragung
-- `gesellschaftsgruender-stammkapital-einzahlung` — Bareinzahlung vollständig
+- `gesellschaftsgruender-notar-vorbereitung` — Notarsitzung vorbereiten
+- `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlungsnachweis
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragungsablauf
+- `gesellschaftsgruender-online-gruendung-dirug` — DiRUG-Online-Gründung (UG zulässig)
+- `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status des GF prüfen
+- `gesellschaftsgruender-gmbh-vorbereitung` — bei Umfirmierung zur GmbH

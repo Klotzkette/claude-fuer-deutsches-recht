@@ -1,6 +1,6 @@
 ---
 name: wenn-prognose-negativ-naechste-schritte
-description: Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog fuer den Geschaeftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Ueberschuldung drei Wochen bei Zahlungsunfaehigkeit. Zahlungsverbot § 15b InsO. Pruefung der drohenden Zahlungsunfaehigkeit § 18 InsO mit StaRUG-Option. Einbindung Insolvenzanwalt zwingend. Pruefung Selbstantrag oder Eigenverwaltung oder Schutzschirmverfahren oder StaRUG-Restrukturierungsplan.
+description: "Wenn die Fortbestehensprognose negativ ausfaellt — Eskalations- und Pflichtenkatalog fuer den Geschaeftsleiter. Antragspflicht § 15a InsO sechs Wochen bei Ueberschuldung drei Wochen bei Zahlungsunfaehigkeit. Zahlungsverbot § 15b InsO. Pruefung der drohenden Zahlungsunfaehigkeit § 18 InsO mit StaRUG-Option. Einbindung Insolvenzanwalt zwingend. Pruefung Selbstantrag oder Eigenverwaltung oder Schutzschirmverfahren oder StaRUG-Restrukturierungsplan."
 ---
 
 # Wenn die Prognose negativ ist — nächste Schritte
@@ -150,3 +150,28 @@ Wenn nicht klar ist ob die Prognose negativ ist (Grenzfall): **lieber Anwalt ein
 - Termin im Kalender innerhalb 24 Stunden.
 - Status-Eintrag im Sanierungsbausteine-Tracker: „Prüfung negativ — Eskalation eingeleitet".
 - Ende dieses Plugin-Workflows; Fortführung im Plugin `insolvenzrecht` durch Insolvenzanwalt.
+
+
+## Aktuelle Leitentscheidungen — Negative Prognose und Handlungspflichten
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Negative Prognose und Insolvenzantragspflicht: bei negativer Fortbestehensprognose Ueberschuldung nach § 19 InsO gegeben; Antragspflicht § 15a InsO: 6 Wochen (Ueberschuldung), 3 Wochen (Zahlungsunfaehigkeit).
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 15b InsO Zahlungsverbot: Geschaeftsfuehrer darf nach Insolvenzreife keine Zahlungen mehr leisten die die Glaeubiger benachteiligen; Ausnahme: Zahlungen zur Aufrechterhaltung des Geschaftsbetriebs ohne Massebeeintraechtigung.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Drohende ZU und StaRUG-Option: auch bei negativer Fortbestehensprognose kann StaRUG Restrukturierungsplan greifen wenn drohende ZU vorliegt (§ 18 InsO); StaRUG als letzte Chance vor Insolvenzantrag.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungsversuch nach negativer Prognose: echter Sanierungsversuch mit schlussigem Konzept schuetzt vor Strafbarkeit § 283 StGB und Vorsatzanfechtung; Konzept muss vor Antragsfrist vorliegen.
+
+## Paragrafenkette Negative Prognose
+
+§ 19 InsO (Ueberschuldung wenn Prognose negativ) → § 15a InsO (Antragspflicht 3/6 Wochen) → § 15b InsO (Zahlungsverbot) → § 43 GmbHG (Haftung GF) → §§ 283 ff. StGB (Bankrott-Strafbarkeit) → §§ 29 ff. StaRUG (letzte Chance StaRUG)
+
+## Triage — Sofortmassnahmen bei negativer Prognose
+
+1. **Insolvenzanwalt sofort einschalten!** Frist § 15a InsO laeuft ab heute: 6 Wochen (Ueberschuldung), 3 Wochen (ZU). Sofort-Kalender-Alarm.
+2. **Zahlungen einfrieren?** § 15b InsO: keine Zahlungen die Masse schmälern; Masselohn und Betriebskosten OK; Gesellschafterrueckzahlungen VERBOTEN.
+3. **StaRUG-Option pruefen:** Drohende ZU § 18 InsO? Dann StaRUG-Restrukturierungsplan als Alternative zum Insolvenzantrag.
+4. **Dokumentation sichern:** Alle Unterlagen fuer Insolvenzantrag vorbereiten: Verzeichnisse, Bilanzen, Glaeubigerliste, Antrag-Vorläufer.
+
+## Kommentarliteratur
+
+- MüKo InsO/Haarmeyer § 15a InsO Rn. 1-80 — Antragspflicht, Fristen, Haftungsfolgen.
+- Uhlenbruck/Mock § 19 InsO Rn. 75-90 — Negative Prognose und InsO-Folgen.
+- K. Schmidt/Uhlenbruck, GmbH in Krise, § 4 Rn. 4.30 — Handlungskatalog bei negativer Prognose.

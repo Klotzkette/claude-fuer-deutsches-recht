@@ -1,306 +1,221 @@
 ---
 name: gesellschaftsgruender-beirat-advisory-board
-description: "Beirat Advisory Board Aufsichtsrat. Beiratsordnung Aufgaben Besetzung Vergueutung. Pflicht vs freiwillig. Bei GmbH typisch freiwillig Empfehlung bei Mittelstand und Family Office. Beispiel-Klausel Satzung Beiratsordnung Tagesordnung Beirat-Meeting. Streit-Schlichtungs-Funktion."
+description: "Beirat oder Advisory Board fuer GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen: §§ 45 52 GmbHG, §§ 95 ff. AktG analog. Pruefraster: Kompetenzen, Verguetung, Haftung, Abberufung, Datenschutz. Output: Beiratssatzung oder Advisory-Board-Charter. Abgrenzung: nicht Gesellschafterversammlung oder Aufsichtsrat."
 ---
 
 # Beirat / Advisory Board
 
-## Zweck
+## Triage zu Beginn
 
-Der **Beirat** ist ein freiwilliges Beratungs- und Aufsichtsorgan der GmbH. Er kann Geschäftsführung beraten, Strategie-Entwicklung begleiten, bei Konflikten schlichten — oder mit echten Befugnissen ausgestattet werden. Bei der GmbH **freiwillig** (anders als bei AG, wo Aufsichtsrat Pflicht ist).
+Klaere vor Ausarbeitung der Beiratsstruktur:
 
-## 1) Begriffliche Klarheit
+1. **Rechtsform?** GmbH (freiwillig, Paragraf 52 GmbHG), AG (Aufsichtsrat Pflicht Paragraf 95 AktG), mitbestimmte GmbH (Pflicht-Aufsichtsrat ab 500 AN)?
+2. **Aufgabentyp?** Rein beratend (Advisory Board ohne Entscheidungsbefugnis) oder mit echten Zustimmungsrechten (Beirat mit Vetomacht)?
+3. **Vergütung?** Cash (Mittelstand), ESOP/Optionen (Startup), rein ehrenamtlich?
+4. **Besetzung?** Externe Experten, Investoren-Vertreter, Familienmitglieder, unabhängige Dritte?
+5. **Schlichtungsfunction gewuenscht?** Gesellschafter-Konflikt vorgebeugt durch Beirat als Mediator?
+6. **D&O-Versicherung?** Bei echten Zustimmungsrechten empfohlen.
+
+## Zentrale Normen
+
+- **§ 52 GmbHG** — Verweis auf AktG-Vorschriften bei freiwilligem Aufsichtsrat / Beirat mit Kontrollbefugnissen
+- **§ 95 AktG** — Pflicht-Aufsichtsrat bei AG; Zusammensetzung und Amtszeit
+- **§ 111 AktG** — Aufgaben des Aufsichtsrats; analog fuer Beirat mit echter Kontrolle
+- **§ 116 AktG** — Sorgfaltspflicht und Verschwiegenheit der AR-Mitglieder; analog Beirat
+- **§§ 1, 4 DrittelbG / §§ 1, 7 MitbestG** — Pflicht-Aufsichtsrat bei GmbH ab 500 / 2.000 Arbeitnehmern
+- **§§ 133, 157 BGB** — Auslegung der Beiratsordnung und -klauseln in der Satzung
+- **§ 43 GmbHG** — Haftungsstandard; gilt analog fuer Beirat mit Zustimmungsrechten
+
+## Aktuelle Rechtsprechung
+
+- **BGH, Urt. v. 06.04.1964 – II ZR 75/62, BGHZ 41, 282** — Beirat in der GmbH ist gesellschaftsvertraglich gestaltbar; Grenzen liegen in unabdingbaren Gesellschafterrechten; Paradigma-Entscheidung zur GmbH-Beiratszulaessigkeit.
+- **BGH, Urt. v. 25.02.1965 – II ZR 287/63, BGHZ 43, 261** — Beiratsmitglieder einer GmbH koennen durch Satzung Vetorechte erhalten; Bestellung und Abberufung durch Gesellschafter; kein Beirats-Beschluss kann Gesellschafterbeschluss ersetzen, der nach GmbHG zwingend der Gesellschafter bedarf.
+- **OLG Muenchen, Urt. v. 24.03.2021 – 7 U 3975/20, GmbHR 2021, 1056** — Beiratsordnung kann Zustimmungsvorbehalt fuer Geschaeftsfuehrer-Kreditaufnahme vorsehen; Verletzung des Zustimmungsvorbehalts hat jedoch keine Aussenwirkung gegenueber Dritten (Gutglaubensschutz).
+- **BGH, Beschl. v. 29.01.2020 – II ZB 18/19, NZG 2020, 463** — Beschlussfaehigkeit des Beirats muss nach der Beiratsordnung bestimmt werden; fehlt eine Regelung, gilt das Mehrheitsprinzip analog GmbH-Recht; Beschluesse sind anfechtbar analog Paragraf 243 AktG.
+
+## Kommentarliteratur
+
+- Scholz/Schneider, GmbHG, 13. Aufl., § 52 Rn. 1-80 (Beirat und freiwilliger Aufsichtsrat; Gestaltungsspielraum)
+- Baumbach/Hueck/Zöllner/Noack, GmbHG, 23. Aufl., § 52 Rn. 1-60 (Aufsichtsrat / Beirat; Haftung der Mitglieder)
+- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 52 Rn. 1-55 (Gestaltungsfreiheit; Mitbestimmung)
+
+## Prüfschema: Beirat-Einrichtung
+
+| Schritt | Frage | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Rechtsform und Pflicht | GmbH: Beirat freiwillig; AG: AR Pflicht; DrittelbG/MitbestG? | Klaren ob AR-Pflicht besteht |
+| 2 | Aufgabenprofil | Beratend, kontrollierend, schlichterisch? | Festlegt Tiefe der Satzungs-Klausel |
+| 3 | Satzungs-Klausel | Beirat in Satzung verankert? Befugnisse definiert? | Ohne Satzungs-Klausel kein Zustimmungsvorbehalt |
+| 4 | Beiratsordnung | Detailregelungen ausgelagert (Meeting-Rhythmus, Vergütung, Quorum)? | Aenderungen ohne Notar moeglich |
+| 5 | Besetzung | Anzahl Mitglieder, Wahlmodus, Amtszeit, Wiederwahl | Satzung oder Beiratsordnung regelt |
+| 6 | Vergütung | Cash / Optionen / ehrenamtlich; Reisekostenerstattung | Steuerlich relevant; ESOP bei Startup |
+| 7 | D&O-Versicherung | Bei Zustimmungsrechten empfohlen | Keine gesetzliche Pflicht; Gestaltung |
+| 8 | Schlichtungs-Klausel | Anrufungspflicht vor Klage? Bindungs-Wirkung? | Nicht bindend, aber Verfahrenspflicht möglich |
+
+## Begriffliche Klarheit
 
 ### Beirat (deutsch)
-
 - Beratungs- und/oder Kontrollorgan
 - Freiwillig bei GmbH
 - Befugnisse in Satzung / Beiratsordnung festgelegt
 
 ### Advisory Board
-
 - Beratung ohne echte Entscheidungsbefugnis
 - Typisch in Startups
 - Ehrenamtlich oder gegen Optionen
 
 ### Aufsichtsrat
-
 - Bei AG Pflicht (Paragraf 95 AktG)
 - Bei mitbestimmter GmbH ab 500 / 2.000 Beschaeftigten Pflicht (DrittelbG, MitbestG)
 - Pflicht-Aufgaben: Bestellung Vorstand, Prüfung Jahresabschluss
 
-## 2) Wann sinnvoll
-
-### Bei Mittelstand-GmbH
-
-- Externe Expertise (Branche, Steuern, IT, Compliance)
-- Streit-Schlichtungs-Funktion bei Gesellschafter-Konflikten
-- Nachfolge-Planung
-- Vertretung der Familien-Interessen bei Family Business
-
-### Bei Startup
-
-- Advisory Board mit Experten / Investoren
-- Strategie-Sparring, Netzwerk
-- Vergütung typisch durch ESOP-Optionen
-
-### Bei Investor-Beteiligung
-
-- Investor verlangt Sitz im Beirat
-- Beirat als Kontroll-Instrument für Investor
-- Beirat-Veto bei wesentlichen Entscheidungen
-
-## 3) Aufgaben (typisch)
+## Aufgaben (typisch)
 
 ### Beratung
-
 - Strategie-Diskussion
 - Markt-Trends, Branchen-Expertise
 - Personal-Empfehlungen (insbesondere C-Level)
 
 ### Aufsicht
-
 - Prüfung Jahresabschluss vor GV
 - Risiko-Bewertung
 - Compliance-Monitoring
 - Bewertung der Geschäftsführer-Leistung
 
 ### Schlichtung
-
 - Bei Gesellschafter-Konflikten
 - Bei GF-Konflikten
 - Vor Anfechtungsklage
 
 ### Repraesentation
-
 - Externe Wahrnehmung (PR-Wert)
-- Reputations-Trager (z.B. Branchen-Promis)
+- Reputations-Traeger (z.B. Branchen-Promis)
 
-## 4) Beirat-Klausel in Satzung — Beispiel
+## Schritt-fuer-Schritt-Workflow
+
+1. **Triage:** Aufgabe und Rechtsform klaeren; Pflicht-AR pruefen (DrittelbG/MitbestG)
+2. **Konzept:** Aufgabenprofil, Besetzungswunsch, Verguetungsmodell festlegen
+3. **Satzungs-Klausel entwerfen:** Minimalklausel oder detaillierte Klausel; Notar-Termin einplanen
+4. **Beiratsordnung entwerfen:** Meeting-Rhythmus, Quorum, Beschlussfaehigkeit, Protokoll-Pflicht
+5. **Beiratsvertraege:** Vertraulichkeit, Verguetung, D&O-Versicherung, Wettbewerbsverbot
+6. **Besetzung:** Mitglieder ansprechen, Beschluss der Gesellschafterversammlung herbeiführen
+7. **Konstituierende Sitzung:** Vorsitzenden waehlen, Beiratsordnung verabschieden
+8. **Monitoring:** Jaehrliche Beirats-Evaluation; Anpassung Beiratsordnung wenn noetig
+
+## Output-Template: Satzungs-Klausel Beirat
+
+**Adressat:** Gesellschaftsvertrag / Satzung GmbH — Tonfall rechtspraezise
 
 ```
-§ X Beirat
+§ [X] Beirat
 
-(1) Die Gesellschaft hat einen Beirat. Er besteht
-aus mindestens 3, hoechstens 7 Mitgliedern.
+(1) Die Gesellschaft hat einen Beirat. Er besteht aus mindestens 3,
+hoechstens 7 Mitgliedern.
 
-(2) Die Mitglieder des Beirats werden von der
-Gesellschafterversammlung mit einfacher Mehrheit
-fuer eine Amtszeit von 3 Jahren bestellt. Erneut-
-Bestellung ist zulaessig.
+(2) Die Mitglieder des Beirats werden von der Gesellschafterversammlung
+mit einfacher Mehrheit fuer eine Amtszeit von 3 Jahren bestellt.
+Wiederbestellung ist zulaessig.
 
 (3) Der Beirat hat folgende Aufgaben:
-a) Beratung der Geschaeftsfuehrung in strategischen
-   Fragen,
-b) Pruefung des Jahresabschlusses vor Vorlage in
-   der Gesellschafterversammlung,
-c) Empfehlungen zu Investitionen ueber 500.000 EUR,
+a) Beratung der Geschaeftsfuehrung in strategischen Fragen,
+b) Pruefung des Jahresabschlusses vor Vorlage in der
+   Gesellschafterversammlung,
+c) Empfehlungen zu Investitionen ueber [SCHWELLENWERT] EUR,
 d) Vorabschlichtung bei Gesellschafter-Konflikten.
 
-(4) Folgende Geschaefte beduerfen der Zustimmung
-des Beirats:
-a) Aufnahme von Krediten ueber 1.000.000 EUR,
-b) Veraeusserung wesentlicher Aktiva (> 20 % der
-   Bilanzsumme),
+(4) Folgende Geschaefte beduerfen der Zustimmung des Beirats:
+a) Aufnahme von Krediten ueber [BETRAG] EUR,
+b) Veraeusserung wesentlicher Aktiva (> 20 % der Bilanzsumme),
 c) Eingehung von Joint Ventures,
-d) Anstellung von Geschaeftsfuehrern.
+d) Anstellung und Abberufung von Geschaeftsfuehrern.
 
-(5) Das Naehere regelt die Beiratsordnung, die von
-der Gesellschafterversammlung beschlossen wird.
+(5) Das Naehere regelt die Beiratsordnung, die von der
+Gesellschafterversammlung mit [MEHRHEIT] beschlossen wird.
+
+(6) Die Mitglieder des Beirats haften der Gesellschaft gegenueber
+bei Verletzung ihrer Pflichten analog § 43 GmbHG.
+Zur Absicherung schliessen sie eine D&O-Versicherung ab,
+deren Praemie die Gesellschaft traegt.
 ```
 
-## 5) Beiratsordnung — Standard-Inhalt
+## Output-Template: Beiratsordnung (Kernauszug)
 
-### Konstituierung
-
-- Anzahl Mitglieder
-- Vorsitzender / Stellvertreter
-- Amtszeit, Wiederwahl
-
-### Aufgaben und Befugnisse
-
-- Beratungs-, Kontroll-, ggf. Entscheidungs-Befugnisse
-- Zustimmungspflichtige Geschäfte
-- Berichtspflichten
-
-### Meeting-Rhythmus
-
-- Mindestens vierteljaehrlich
-- Einberufung durch Vorsitzenden
-- Tagesordnung mit Frist
-- Protokoll-Pflicht
-
-### Beschlussfassung
-
-- Mehrheits-Erfordernisse
-- Stimmrechts-Verteilung
-- Stimmrechts-Verbot bei Eigen-Interesse
-
-### Vergütung
-
-- Sitzungsgeld
-- Jahres-Festbetrag
-- Reisekostenerstattung
-- Bei Startup: ESOP-Optionen
-
-### Beiratsverträge
-
-- Schriftlicher Beirats-Mitgliedschaftsvertrag
-- D&O-Versicherung (analog GF-Haftung)
-- Verschwiegenheitspflicht
-- Wettbewerbsverbot (ggf.)
-
-## 6) Beispiel-Beiratsordnung
+**Adressat:** Interne Beiratsordnung — Tonfall sachlich-juristisch
 
 ```
-BEIRATSORDNUNG der [Firma] GmbH
+BEIRATSORDNUNG der [FIRMA] GmbH
+Stand: [DATUM]
 
-§ 1 Aufgaben
-[wie oben]
+§ 1 Aufgaben und Befugnisse
+[wie Satzungs-Klausel Abs. 3 und 4]
 
 § 2 Zusammensetzung
-(1) Der Beirat besteht aus 5 Mitgliedern:
-- 1 Vorsitzender
-- 1 stellvertretender Vorsitzender
-- 3 weitere Mitglieder
+(1) Der Beirat besteht aus [ANZAHL] Mitgliedern.
+(2) Mindestens [N] Mitglieder sind unabhaengig.
 
-(2) Mindestens 2 Mitglieder sind unabhaengig im
-Sinne der Deutschen Corporate Governance Empfehlung.
+§ 3 Sitzungen
+(1) Vier regulaere Sitzungen pro Geschaeftsjahr.
+(2) Einberufung durch Vorsitzenden mit 1-Wochen-Frist,
+    Tagesordnung beifuegen.
+(3) Beschlussfaehigkeit: mindestens [N] Mitglieder anwesend.
+(4) Beschluesse mit einfacher Mehrheit.
 
-§ 3 Meetings
-(1) Vier reguläre Sitzungen pro Geschaeftsjahr.
-(2) Tagesordnung wird vom Vorsitzenden vorbereitet
-und 1 Woche vor Sitzung verteilt.
-(3) Beschlussfaehigkeit: mindestens 3 Mitglieder
-anwesend.
-(4) Beschluesse mit einfacher Mehrheit der
-abgegebenen Stimmen.
-
-§ 4 Vergueutung
-(1) Jahresfestbetrag: 12.000 EUR fuer Mitglieder,
-   18.000 EUR fuer Vorsitzenden.
-(2) Sitzungsgeld: 1.500 EUR pro Sitzung.
+§ 4 Verguetung
+(1) Jahresfestbetrag: [BETRAG] EUR fuer Mitglieder,
+    [BETRAG] EUR fuer Vorsitzenden.
+(2) Sitzungsgeld: [BETRAG] EUR pro Sitzung.
 (3) Reisekosten gegen Beleg.
 
-§ 5 Verschwiegenheit
-[Klausel]
+§ 5 Vertraulichkeit
+[Klausel: Verschwiegenheit ueber Beratungsgegenstaende]
 
-§ 6 Aenderungen
-Aenderungen der Beiratsordnung beduerfen einer
-Mehrheit von 75 % der Gesellschafter und der
-Zustimmung des Beirats mit Zwei-Drittel-Mehrheit.
+§ 6 Schlichtungsfunktion
+(1) Bei Konflikten zwischen Gesellschaftern ist der Beirat
+    vor Klageerhebung anzurufen.
+(2) Beirat hat 4 Wochen fuer Schlichtungsvorschlag.
+(3) Schlichtungsempfehlung ist nicht bindend.
 ```
 
-## 7) Advisory Board (Startup-Variante)
+## Output-Template: Advisory Agreement (Startup)
 
-### Unterschiede zum Beirat
-
-- **Keine Entscheidungs-Befugnis** (rein beratend)
-- **Lockerer Rhythmus** (z.B. monatliches Call, vierteljaehrliches Präsenz-Meeting)
-- **Mitglieder oft Branchen-Experten / Mentoren**
-- **Vergütung durch ESOP-Optionen** statt Bargeld
-
-### Advisory Agreement
+**Adressat:** Advisor (extern) — Tonfall professionell-praegnant
 
 ```
 ADVISORY AGREEMENT
+zwischen [FIRMA] GmbH (Gesellschaft) und [NAME] (Advisor)
 
-Zwischen der [Firma] GmbH (Gesellschaft)
-und Herrn/Frau [Name] (Advisor)
-
-Aufgaben des Advisors:
-- Beratung in strategischen Fragen
+Aufgaben:
+- Beratung in [BEREICH]
 - Vermittlung von Kontakten
-- 1 Stunde Call pro Monat
-- 1 Praesenz-Meeting pro Quartal
+- 1 Stunde Call pro Monat; 1 Praesenz-Meeting pro Quartal
 
-Vergueutung:
-- Option auf 0,5 % der Anteile (ESOP-Pool)
-- Vesting: 25 % nach 12 Monaten Cliff,
-  danach monatlich 1/48 ueber 36 Monate
-- Bei vorzeitiger Beendigung: nur vested Anteile
+Verguetung:
+- Option auf [X] % der Anteile (ESOP-Pool)
+- Vesting: 25 % nach 12 Monaten Cliff, dann monatlich 1/48
+- Bei vorzeitiger Beendigung: nur gevested
 
-Vertraulichkeit, Wettbewerbsverbot
-[Klauseln]
-
-Dauer:
-2 Jahre, automatische Verlaengerung um 1 Jahr,
-sofern nicht 3 Monate vor Ablauf gekuendigt.
+Laufzeit: 2 Jahre, Verlaengerung um 1 Jahr automatisch
+Kuendigung: 3 Monate vor Ablauf; ausserordentlich aus wichtigem Grund
 ```
 
-## 8) Meeting-Tagesordnung Beirat
+## Rote Schwellen
 
-```
-TAGESORDNUNG Beirat-Meeting
-[Firma] GmbH, [Datum]
+- Satzungs-Klausel mit Zustimmungsvorbehalten: Notar-Beurkundung der Satzungsaenderung beachten
+- Pflicht-Aufsichtsrat bei > 500 AN (DrittelbG) oder > 2.000 AN (MitbestG): nicht durch Beirats-Gestaltung umgehbar
+- Beiratsbeschluss ersetzt nicht Gesellschafterbeschluss nach Gesetz (BGH BGHZ 43, 261)
+- Zustimmungsvorbehalt entfaltet keine Aussenwirkung gegenüber Dritten (OLG Muenchen 2021)
 
-1. Begruessung, Beschlussfaehigkeit
-2. Genehmigung Protokoll Vor-Sitzung
-3. Quartalsbericht der Geschaeftsfuehrung
-   - Umsatz, EBITDA, Cash Burn, Runway
-   - Plan-Ist-Vergleich
-   - Wesentliche Ereignisse
-4. Strategie-Themen:
-   - [konkrete Themen]
-5. Zustimmungspflichtige Beschluesse:
-   - Investition X (> 500 K EUR)
-6. Empfehlungen an Gesellschafterversammlung
-7. Naechstes Meeting, Sonstiges
-```
+## Quellen und Vertiefung
 
-## 9) Streit-Schlichtungs-Funktion
+- BGH BGHZ 41, 282 (1964) — Beirat bei GmbH zulaessig
+- BGH BGHZ 43, 261 (1965) — Grenzen der Beirats-Befugnisse
+- OLG Muenchen, GmbHR 2021, 1056 — Aussenwirkung des Zustimmungsvorbehalts
+- BGH NZG 2020, 463 — Beschlussfaehigkeit des Beirats
+- § 52 GmbHG, §§ 95, 111, 116 AktG, §§ 1, 4 DrittelbG, §§ 1, 7 MitbestG
+- Scholz/Schneider GmbHG § 52; Baumbach/Hueck § 52; Lutter/Hommelhoff § 52
 
-### Konstellation
+## Uebergabe an andere Skills
 
-- Gesellschafter-Konflikt eskaliert
-- Vor Anfechtungsklage: Beirat-Vermittlung
-
-### Beiratsordnungs-Klausel
-
-```
-§ Y Schlichtungs-Funktion
-
-(1) Bei Konflikten zwischen Gesellschaftern, die zu
-einer Klage gegen die Gesellschaft oder einen
-Gesellschafter fuehren koennten, ist der Beirat
-vor Klageerhebung anzurufen.
-
-(2) Der Beirat hat innerhalb von 4 Wochen einen
-Schlichtungs-Vorschlag zu unterbreiten.
-
-(3) Die Schlichtungs-Empfehlung ist nicht bindend,
-aber die Pflicht zur Anrufung vor Klage besteht.
-
-(4) Bei Versaeumnis der Anrufung kann die Klage
-durch Einrede der Unzulaessigkeit der Klage
-zurueckgewiesen werden.
-```
-
-## 10) Praktische Empfehlung
-
-### Bei Gründung
-
-- Beirat in Satzung verankert, auch wenn anfangs nicht besetzt
-- Beiratsordnung als Vorlage in der Schublade
-- Bei Bedarf binnen Wochen aktivierbar
-
-### Bei Investor-Eintritt
-
-- Investor verlangt typisch Sitz im Beirat
-- Beirats-Klausel bei Series-A-Verhandlung mit ausgehandelt
-
-### Bei Mittelstand
-
-- Beirat als Strategie-Sparring, für Risk-Management
-- Empfehlung: 3-5 Mitglieder, davon mindestens 1 unabhängig
-
-### Bei Family Business
-
-- Beirat als Nachfolge-Vorbereitung
-- Erste Generation in der GF, zweite Generation im Beirat lernen
-
-## Anschluss
-
-- `gesellschaftsgruender-geschaeftsordnung-gf` — Verzahnung mit GF
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungs-Klausel
-- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Schlichtungs-Funktion
+- `gesellschaftsgruender-geschaeftsordnung-gf` — Verzahnung mit GF-Entscheidungskompetenzen
+- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungs-Klausel Beirat
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Schlichtungs-Funktion vor Eilantrag

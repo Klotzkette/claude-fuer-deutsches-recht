@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft
-description: "Fehlerhafte Anlageberatung der Bank pruefen. Bond-Urteil-Pflichten anleger- und anlagegerecht. Aufklaerung ueber Risikoklassen Provisionen Rueckvergueterung Innenprovision Kick-backs. Vermutung aufklaerungsrichtigen Verhaltens BGH XI ZR. Schadensersatz §§ 280 311 BGB i.V.m. Beratungsvertrag bzw. § 826 BGB. Verjaehrung § 195 BGB drei Jahre ab Kenntnis ggf. § 199 Abs. 3 BGB Hoechstfrist zehn Jahre."
+description: "Bank hat Kapitalanlage fehlerhaft beraten: Bond-Urteil-Pflichten Provisionen Kick-backs Risikoklassen-Aufklaerung. Vermutung aufklaerungsrichtigen Verhaltens BGH XI ZR. Normen §§ 280 311 826 BGB WpHG §§ 63 64 MiFID-II. Pruefraster Beratungspflicht-Inhalt Pflicht-Verletzung Kausalitaetsvermutung Schadenshoehe Verjaehrung §§ 195 199 Abs. 3 BGB. Output Schadensersatz-Klageschrift Verjaehrungs-Pruefung. Abgrenzung zu anlageberatungsfehler-pruefen (allg. Raster) und widerrufsjoker (Widerruf)."
 ---
 
 # Anlageberatung fehlerhaft
@@ -12,6 +12,7 @@ description: "Fehlerhafte Anlageberatung der Bank pruefen. Bond-Urteil-Pflichten
 3. Welche Risikoklasse hat der Mandant in seinem WpHG-Bogen angegeben? Wurde Risikobereitschaft und Anlageziel erfragt?
 4. Hat die Bank über Rückvergütungen (Kick-backs) oder Innenprovisionen aufgeklärt?
 5. Wie hoch ist der eingetretene Schaden (Erwerbsschaden, entgangener Gewinn)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Anspruchsgrundlagen
 
@@ -32,6 +33,9 @@ description: "Fehlerhafte Anlageberatung der Bank pruefen. Bond-Urteil-Pflichten
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 ```
 1. Beratungssituation (Beratungsvertrag konkludent?)
 2. Pflicht zu anleger- und anlagegerechter Beratung
@@ -46,6 +50,19 @@ description: "Fehlerhafte Anlageberatung der Bank pruefen. Bond-Urteil-Pflichten
 ```
 
 Standardliteratur: Grüneberg BGB § 280; Ellenberger/Schäfer Anlegerschutz; Assmann/Schneider WpHG-Kommentar.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — fehlerhafte Anlageberatung ruegen und Schadensersatz fordern | Anspruchsschreiben nach Schreibvorlage unten |
+| Variante A — Verjährung droht | Verjährungshemmung (Klage/Verhandlungsaufnahme) sofort; keine Aussergerichts-Zeit |
+| Variante B — Bank zeigt Einigungsbereitschaft | Aussergerichtliche Einigung bevorzugen; schnellere Auszahlung |
+| Variante C — Schadenshoehe unklar | Stufenklage oder Feststellungsklage als Alternative |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Schreibvorlage Anspruchsschreiben
 
@@ -76,8 +93,39 @@ Andernfalls werden wir Klage erheben.
 Mit freundlichen Gruessen
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
 ## Übergabe
 
 - Bei Ablehnung: Klage am Sitz der Bank bzw. Wohnsitz des Anlegers § 32b ZPO bei kapitalanlegerrechtlichem Musterverfahren prüfen.
 - Verjährungsfrist im Aktenkalender notieren — Hemmung durch Verhandlungen § 203 BGB sichern.
 - Bei Vergleichsverhandlungen Hemmungsschriftverkehr dokumentieren.
+
+## Vertiefung: Leitsaetze und Workflow-Ergaenzung
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Wann fand die Beratung statt? → Verjaebrung 3 Jahre ab Kenntnis + max. 10 Jahre absolut.
+2. Liegt Beratungsprotokoll (§ 83 WpHG / § 34 WpHG aF) oder Geeignetheitserklaerung (§ 64 WpHG) vor? → Fehlende Dokumentation = Beweisschwaeche Bank.
+3. Erhielt die Bank Rueckverguetungen / Innenprovisionen? → Aufklaerungspflicht nach BGH XI ZR 56/05.
+4. Wurde das Anlageprodukt anlegegerecht empfohlen (Risikoprofil vs. Produkt-Risikoklasse)? → Bond-Urteil BGH XI ZR 12/93.
+5. Schadenshoehe: Differenzhypothese oder negatives Interesse berechnen?
+
+### Ergaenzende Leitsaetze
+- BGH, Urt. v. 17.09.2013 - XI ZR 332/12, NJW 2013, 3573 Rn. 22 — Fehlende WpHG-Dokumentation begruendet Vermutung, dass Beratung nicht anlegergerecht war; Bank muss diese Vermutung erschuettern.
+- BGH, Urt. v. 27.09.2011 - XI ZR 178/10, NJW 2012, 66 Rn. 28 — Lehman-Zertifikate: Emittentenrisiko aufklaerungs-pflichtig; Investment-Grade-Rating allein genuegt nicht zur Entbindung von Aufklaerungspflicht.
+- BGH, Urt. v. 22.03.2011 - XI ZR 33/10, NJW 2011, 1949 Rn. 33 — CMS Spread Ladder Swap: Aufklaerungspflicht ueber anfaenglichen negativen Marktwert; Eigeninteresse der Bank offenzulegen.
+- BGH, Beschl. v. 20.01.2009 - XI ZR 510/07, NJW 2009, 1416 Rn. 12 — Kick-back III: Rueckverguetungen auch bei verdeckten Vertriebsprovisionen aufklaerungspflichtig; kein Ermessen der Bank.
+
+### Schritt-fuer-Schritt-Workflow Anlageberatungsfehler
+1. **Mandantengespräch:** Produkt, Datum Beratung, Risikoprofil, Verlusthoehe dokumentieren.
+2. **Beratungsprotokoll anfordern** (§ 83 WpHG, § 64 Abs. 4 WpHG): 3-Tage-Frist auf Herausgabe.
+3. **Pruefung Kickbacks:** Bank-interne Vertriebsprovision vom Emittenten = aufklaerungspflichtig.
+4. **Schadensberechnung:** Eingesetztes Kapital minus aktueller Wert + entgangene 4 %-Verzinsung.
+5. **Ausforderungsschreiben** an Bank mit 4-Wochen-Frist, Schadensaufstellung, Klageandrohung.
+6. **Ombudsmann** einschalten (hemmt Verjaebrung § 204 BGB).
+7. **Klage** bei Ablehnung: LG (§ 23 GVG Streitwert ab EUR 5.000).

@@ -1,6 +1,6 @@
 ---
 name: cap-table-update-pre-post
-description: "Erstellung Pre-Money-Cap-Table und Post-Money-Cap-Table inkl. Wandlung. Verwaesserung der Altgesellschafterinnen quantifizieren. Tabelle mit Anteilsklassen, Anzahl Geschaeftsanteile, Nennwert und Prozentanteil. Aufnahme neuer Seed-Investoren und Lender nach Wandlung."
+description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Pruefraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Cap-Table Update – Pre-Money und Post-Money
@@ -92,3 +92,15 @@ Verwässerung Schöneck: 40 % → 29.63 % = −10.37 Prozentpunkte
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG § 40 aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 17.07.2012 — **II ZR 244/07**, BGHZ 194, 132 Rn. 22: Die Gesellschafterliste nach § 40 GmbHG ist unverzüglich nach Abtretung/Wandlung vom Notar oder Geschäftsführer beim Handelsregister einzureichen; bis zur Einreichung der neuen Liste gilt der bisherige Gesellschafter als legitimiert — Wandelnder erlangt erst mit Listeneintragung die formelle Gesellschafterstellung.
+
+BGH, Urt. v. 20.09.2011 — **II ZR 234/09**, NJW 2012, 301 Rn. 16: Verwässerungsschutzklauseln (Anti-Dilution) in Wandeldarlehensverträgen sind im Kapital-Erhöhungsbeschluss zu berücksichtigen; Cap Table muss vor und nach Wandlung die vollständig verwässerten Anteile (Fully Diluted) einschließlich aller Wandelrechte abbilden.
+
+### Normen-Ergänzung
+
+§ 40 GmbHG (Gesellschafterliste, unverzügliche Aktualisierung nach Wandlung) → § 15 GmbHG (Abtretung Anteile) → § 17 GmbHG (Mehrfachabtretung) → § 16 GmbHG (Gesellschafterstellung, Legitimationswirkung Liste) → § 55 GmbHG (Kapitalerhöhungsbeschluss, neue Anteile)

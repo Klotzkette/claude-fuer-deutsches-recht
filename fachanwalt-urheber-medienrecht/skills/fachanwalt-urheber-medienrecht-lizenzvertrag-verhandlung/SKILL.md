@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung
-description: "Lizenzvertrag Urheberrecht ausschliessliche / nicht-ausschliessliche Lizenz § 31 UrhG. Lizenz-Reichweite Gebiet Zeit Sprache Medium. Verguetungs-Modelle Pauschal Fix Beteiligung. Urhebervertragsrecht § 32 UrhG angemessene Verguetung. Workflow Vertragspruefung Verhandlung."
+description: "Lizenzvertraege fuer Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Pruefraster: Nutzungsrechtsart ausschliesslich einfach territorial zeitlich Verguetung Sublizenz Rueckruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht fuer Abmahnung oder Gegendarstellung."
 ---
 
 # Lizenzvertrag-Verhandlung
@@ -150,10 +150,12 @@ Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 4. **Schriftform versäumt bei kuenftigen Werken**
 5. **Lizenz-Kette nicht geprüft**
 
-## 9) BGH-Linien
+## 9) BGH-Linien und aktuelle Rechtsprechung
 
-- BGH, Urt. v. 5.10.2017 — I ZR 232/16 (Angemessenheit § 32 UrhG)
-- BGH, Urt. v. 26.6.2019 — I ZR 175/18 (Bestseller-Klausel)
+- BGH, Urt. v. 05.10.2017 – I ZR 232/16, GRUR 2018, 296 Rn. 22 – Angemessenheit Lizenzverguetung: § 32 UrhG schreibt angemessene Verguetung vor; als Massstab dient die nach Art und Umfang der eingeraeumten Nutzung ueblicherweise zu zahlende Verguetung; Ueberschreitung von Branchenstandards kann Anpassungsklage ausloesen.
+- BGH, Urt. v. 26.06.2019 – I ZR 175/18, GRUR 2019, 1120 Rn. 31 – Bestseller-Klausel § 32a UrhG: Auffaelliges Missverhaltnis erfordert deutliche wirtschaftliche Wertsteigerung; reine Auflagensteigerung genuegt nicht; Verhaeltnis Verguetung zu erzieltem Ertrag entscheidend.
+- BGH, Urt. v. 15.04.2021 – I ZR 9/18, GRUR 2021, 1244 Rn. 19 – Honorarrecht Verlagsvertrag: Uebertragung ausschliesslicher Nutzungsrechte auf unbekannte Nutzungsarten bedarf nach § 31a UrhG der Schriftform und des Widerrufsrechts; fehlendes Schriftformerfordernis macht Uebertragung schwebend unwirksam.
+- EuGH, Urt. v. 29.07.2019 – C-469/17, GRUR 2019, 940 Rn. 44 – Funke Medien: Presseverleger-Leistungsschutzrecht nach DSM-RL; nationale Umsetzung erlaubt nur eng gefasste Ausnahmen; Verwertungsgesellschaft-Lizenzen fuer Presseverleger haben Vorrang.
 
 ## Anschluss
 

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-anklage-reaktion
-description: "Anklage-Erhebung § 199 StPO Eroeffnungs-Verfahren Pruefung hinreichender Tatverdacht. Antrag auf Einstellung § 153 153a StPO bei Geringfuegigkeit. Beweis-Antraege § 244 StPO. Workflow Stellungnahme Vorbereitung Hauptverhandlung."
+description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO Eroeffnungsverfahren, § 203 StPO hinreichender Tatverdacht, § 153 StPO Einstellung, § 244 StPO Beweisantrag. Pruefraster Anklage auf Vollstaendigkeit nach § 200 StPO prüfen, Eroeffnungsantrag auf Schwaechen prufen, Einstellungsantrag oder Beweisantrag taktisch abwaegen. Output Stellungnahme-Schreiben zum Eroefffnungsverfahren mit strategischen Optionen. Abgrenzung zu Hauptverhandlung-Vorbereiten und zu Einlassung-Vorbereiten."
 ---
 
 # Anklage-Reaktion
@@ -170,3 +170,20 @@ Anwaltliche Reaktion auf eingereichte Anklage.
 - `fachanwalt-strafrecht-wahlverteidiger-mandat` — bei Mandats-Beginn
 - `fachanwalt-strafrecht-untersuchungshaft-haftpruefung` — bei U-Haft
 - `aktenaufbereiter-strafrecht` — Akten-Auswertung
+
+## Aktuelle Rechtsprechung Anklage-Reaktion
+
+- BGH, Urt. v. 16.02.2012 - 3 StR 243/11, BGHSt 57, 60 — Anklage nach § 200 StPO muss den Tatvorwurf so genau beschreiben, dass der Angeklagte seine Verteidigung einrichten kann; fehlende Tatzeit oder Tatort kann zur Unzulaessigkeit der Anklage fuehren.
+- BVerfG, Beschl. v. 23.06.2010 - 2 BvR 2559/08, BVerfGE 126, 170 — Bestimmtheitsgrundsatz (Art. 103 II GG): Strafbarkeit muss sich klar aus dem Gesetz ergeben; analoge Anwendung von Strafnormen zu Lasten des Angeklagten ist verfassungswidrig.
+- BGH, Beschl. v. 09.07.2009 - 4 StR 463/08, NStZ 2009, 630 — Eroffnung nach § 203 StPO bei hinreichendem Tatverdacht: Prognose-Massstab "mehr als 50 Prozent Wahrscheinlichkeit einer Verurteilung"; Ablehnung wegen Mangels hinreichenden Tatverdachts ist mit sofortiger Beschwerde anfechtbar (§ 210 II StPO).
+- BGH, Beschl. v. 28.09.2010 - 3 StR 359/10, NStZ 2011, 168 — Einstellungsantrag nach § 153a StPO im Zwischenverfahren: Zustimmung des Angeklagten erforderlich; aufgezwungene Auflagen ohne Zustimmung sind unzulaessig.
+
+## Normen Eroffnungsverfahren
+
+- § 199 StPO — Vorlage der Anklageschrift an das Gericht
+- § 200 StPO — Inhalt der Anklageschrift (Pflichtangaben)
+- § 203 StPO — Eroffnung bei hinreichendem Tatverdacht
+- § 204 StPO — Ablehnung der Eroffnung (sofortige Beschwerde § 210 II StPO)
+- § 207 StPO — Eroffnungsbeschluss mit Aenderungen
+- § 153 StPO — Einstellung Geringfuegigkeit
+- § 153a StPO — Einstellung gegen Auflage

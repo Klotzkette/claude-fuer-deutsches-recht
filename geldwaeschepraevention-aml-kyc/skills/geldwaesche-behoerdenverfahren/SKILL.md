@@ -1,9 +1,31 @@
 ---
 name: geldwaesche-behoerdenverfahren
-description: "Begleitet Auskunftsersuchen, Vor-Ort-Prüfung, BaFin-/Landesaufsicht, FIU-Nachfragen, Maßnahmenbescheide und Widerspruch."
+description: "Begleitung von Behoerdenverfahren BaFin-Pruefungen FIU-Nachfragen und Massnahmenbescheiden. Anwendungsfall Aufsichtsbehoerde hat Auskunftsersuchen gestellt oder Vor-Ort-Pruefung angekuendigt. Normen § 51 GwG Aufsichtsrecht § 52 GwG Bussgelder § 43 GwG Verdachtsmeldepflicht BaFin-Merkblatt. Pruefraster Auskunftsersuchen Vor-Ort-Pruefung BaFin-Nachfragen FIU-Anfragen Massnahmenbescheid Widerspruchsfrist. Output Behoerdenverfahrens-Begleitprotokoll mit Antwortschreiben Widerspruchsbegruendung und Remediation-Nachweis. Abgrenzung zu geldwaesche-audit-internal-revision und geldwaesche-bussgeld-reputation."
 ---
 
 # Aufsicht, Prüfung und Behördenverfahren
+
+## Triage zu Beginn
+1. Welche Behoerde hat sich gemeldet: BaFin, FIU, Staatsanwaltschaft, Landesaufsicht oder Zoll?
+2. Welche Art von Verfahren: Auskunftsersuchen, Vor-Ort-Pruefung, Massnahmenbescheid oder Strafverfahren?
+3. Gibt es bereits gesetzte Fristen und welches ist die naechste Handlungsfrist?
+4. Welche internen Dokumente muessen fuer die Behoerdenantwort gesichert werden?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin kann im Rahmen der GwG-Aufsicht Auskunfts- und Vorlagepflichten gegenueber Verpflichteten per Verwaltungsakt durchsetzen.
+- BGH, Urt. v. 29.04.2014 - 1 StR 53/14, BGHSt 59, 165 — Selbstanzeigeaehnliche Mitwirkung im Behoerdenverfahren kann strafmildernd wirken; vollstaendige Kooperation ist auszuwaehlende Verteidigungsstrategie.
+- OVG Muenster, Beschl. v. 28.05.2018 - 4 B 533/18, NVwZ-RR 2019, 89 — Auflagenbescheid nach § 51 GwG durch BaFin ist sofort vollziehbar; aufschiebende Wirkung nur bei ernstlichen Zweifeln an Rechtmaessigkeit.
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Kooperationspflicht mit nationalen FIUs nach 4. EU-GeldwaescheRL umfasst vollstaendige Auskunft zu verdaechtigen Transaktionen.
+
+## Zentrale Normen
+- § 51 GwG — Massnahmen der Aufsichtsbehoerden (BaFin und Laenderbehoerden)
+- § 44 GwG — Kooperationspflicht mit FIU; Auskunftspflichten
+- § 56 GwG — Bußgeldtatbestaende
+- §§ 68, 69 VwGO — Widerspruchsverfahren und Anfechtungsklage bei Massnahmenbescheiden
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 51 Rn. 1-40 (Aufsichtsbefugnisse und Verfahren)
+- Kopp/Schenke VwGO § 68 Rn. 15-35 (Widerspruchsverfahren im Regulierungsrecht)
 
 ## Zweck
 

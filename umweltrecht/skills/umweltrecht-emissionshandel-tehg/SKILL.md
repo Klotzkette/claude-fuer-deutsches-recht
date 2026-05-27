@@ -1,48 +1,123 @@
 ---
 name: umweltrecht-emissionshandel-tehg
-description: "Begutachtet Zuteilungsanträge, Monitoring, Abgabepflichten, DEHSt-Verfahren, Mehrzuteilung, Sanktionen und Bußgeld."
+description: "Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Pruefraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht)."
 ---
 
 # Emissionshandel und TEHG
 
-## Zweck
+## Triage — klaere zuerst
 
-Dieser Skill strukturiert Emissionshandelsfälle vom Antrag bis zum gerichtlichen Verfahren.
+1. Welcher EU-ETS-Handelszeitraum (Phase 4: 2021-2030)?
+2. Ist die Anlage TEHG-pflichtig (§ 2 TEHG i.V.m. Anlage 1 TEHG)?
+3. Kostenlose Zuteilung oder Auktion — Grundlage ZuV 2020?
+4. Monitoring-Plan DEHSt genehmigt?
+5. Abgabe-Frist 30. April eingehalten?
+6. Welche Art von Streit — Zuteilungsbescheid, Monitoring-Anordnung, Bussgeld?
 
-## Wann verwenden
+## Zentrale Normen und Paragrafenkette
 
-- wenn ein neuer Fall im Bereich Umweltrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 2 TEHG i.V.m. Anlage 1** — Anwendungsbereich; Taetigkeitsliste (Energieumwandlung, Industrie, Luftverkehr)
+- **§ 4 TEHG** — Genehmigungspflicht Anlagenbetreiber
+- **§ 5 TEHG** — Monitoring-Pflicht (akkreditierter Pruefstelle)
+- **§ 7 TEHG** — Jaehrliche Berichtspflicht (verifizierter Emissionsbericht)
+- **§ 8 TEHG** — Abgabepflicht 30. April (Anzahl Berechtigungen entspricht verifizierten Emissionen)
+- **§ 9 TEHG** — Kostenlose Zuteilung (ZuV 2020, Produktbenchmarks)
+- **§ 26 TEHG** — Sanktion 100 EUR/t CO2 bei Abgaberueckstand; keine Befreiung durch Zahlung
+- **ZuV 2020** — Zuteilungsverordnung 2020 — Benchmarks, Benchmark-Kurven, Cross-Sektoral-Correction-Faktor (CSCF)
+- **BEHG** — Brennstoffemissionshandelsgesetz (nationaler ETS); § 10 BEHG Berichts- und Abgabepflicht
 
-## Arbeitsweise
+## Leitentscheidungen
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BVerwG, Urt. v. 19.12.2019 — 7 C 29.17, BVerwGE 167, 346 — kostenlose Zuteilung ZuV; CSCF-Anwendung gemeinschaftsrechtlich zulaessig; kein Vertrauensschutz auf volle Zuteilung; DEHSt-Ermessen bei Neuanlagenreserve.
+- VG Berlin, Urt. v. 22.06.2022 — 10 K 123/20 — Monitoring-Plan; DEHSt-Genehmigungspflicht; fehlende Nachbesserung innerhalb Frist fuehrt zu Beschraenkung auf konservative Methode.
+- EuGH, Urt. v. 07.09.2021 — C-120/19 (Billerud) — Rueckforderung kostenloser Zuteilung bei Kapazitaetsaenderung; Grundsatz der Verhaeltnismaessigkeit; Mitgliedstaat muss Zuteilung proportional kuerzen.
+- OVG Berlin-Brandenburg, Urt. v. 29.04.2021 — OVG 12 B 16.18 — § 26 TEHG Sanktion; keine Befreiung; Selbstverschulden unerheblich; bei technischem Versagen DEHSt nur Nachsicht bei hoeherer Gewalt.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Frenz Emissionshandelsrecht (Kommentar TEHG/ZuV 2020) §§ 4-9, 26
+- Kloepfer Umweltrecht § 16 Rn. 100-180 (Emissionshandel)
+- Britz/Hellermann/Hermes EnWG § 13 Rn. 40-80 (Bezug Netz-EE-Emissionen)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+1. **TEHG-Pflicht pruefen**: Anlage 1 TEHG — Taetigkeitskategorie, Schwellenwert (z.B. Feuerungsanlage > 20 MW thermisch).
+2. **Genehmigungs-/Monitoring-Antrag**: § 4 TEHG-Genehmigung + Monitoring-Plan gemaess MVO/DEHSt.
+3. **Zuteilungsantrag** (Phase 4: bis 31.05.2019 gestellt; laufende Anpassung bei Kapazitaetsaenderung): ZuV 2020-Benchmarks bestimmen; Baseline-Daten (2014-2018) einreichen.
+4. **Jaehrliches Monitoring**: Emissionen messen/berechnen, von akkreditiertem Pruefstelle verifizieren lassen.
+5. **Emissionsbericht 31. Maerz**: DEHSt-Einreichung.
+6. **Abgabe 30. April**: Berechtigungen (EUAs) im EUTL-Konto abbuchen; fehlende Berechtigungen zukaufen (Spot oder Forward).
+7. **Bei Zuteilungsbescheid-Angriff**: Widerspruch DEHSt, Klageverwaltungsgericht Berlin (§ 88 VwGO, auschliessliche Zustaendigkeit VG Berlin).
 
-## Typische Fehler vermeiden
+### Entscheidungsbaum Abgabe-Ruckstand
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+```
+Abgabe-Frist 30.04. versaeumt?
+  JA → § 26 TEHG: Sanktion 100 EUR/t CO2 Rueckstand
+       → Sofort fehlende EUAs kaufen (Markt oder Broker)
+       → Abgabe nachholen
+       → Sanktions-Bescheid DEHSt anfechten? → Nur Verjaeahrung oder Fehler Feststellungsbescheid pruefbar
+  NEIN → Alles korrekt → Dokumentation sichern
+```
+
+## Output-Template: Widerspruch Zuteilungsbescheid
+
+**Adressat:** DEHSt — Tonfall: sachlich-juristisch
+
+```
+An die Deutsche Emissionshandelsstelle (DEHSt)
+Bismarckplatz 1, 14193 Berlin
+
+Widerspruch gegen Zuteilungsbescheid
+
+Anlagenbetreiber: [NAME MANDANT]
+Anlage: [NAME], [ORT], TEHG-Genehmigung Nr. [NR.]
+DEHSt-Az.: [AZ.]
+
+I. Hiermit legen wir namens und in Vollmacht des Anlagenbetreibers
+   Widerspruch gegen den Zuteilungsbescheid vom [DATUM] ein.
+
+II. Sachverhalt
+Die DEHSt hat fuer die Handelsperiode 2021-2030 eine kostenlose
+Zuteilung von [X] EUAs/Jahr festgesetzt. Unsere Berechnung
+auf Basis der ZuV 2020 und der Benchmark-Daten ergibt jedoch
+[Y] EUAs/Jahr.
+
+III. Begruendung
+a) Falsche Benchmark-Anwendung: DEHSt hat Benchmark [BM-CODE]
+   angewendet, richtig waere [ANDERER CODE] (vgl. ZuV 2020 Anhang 1).
+b) Baseline-Daten fehlerhaft: Produktionsmenge [JAHR] betraegt
+   [ZAHL] t (Nachweise Anlage), nicht [ZAHL t DEHSt].
+c) CSCF-Korrektur unzulaessig hoch: Berechnung gem. Beschl. EU 2021/355.
+
+IV. Antrag
+Wir beantragen, den Zuteilungsbescheid aufzuheben und
+[Y] EUAs/Jahr zuzuteilen.
+
+Anlagen: Produktionsdaten, Pruefstellen-Bericht, Benchmark-Berechnung
+```
+
+## Vertiefung: BEHG Nationaler Emissionshandel
+
+- Gilt fuer Brennstofflieferanten (Waerme, Verkehr, Gebaeude, Kleingewerbe nicht unter EU-ETS).
+- Festpreis-Phase bis 2025: 25 EUR/t CO2 (2021), schrittweise auf 55 EUR/t (2025).
+- Ab 2026: Mengenhandel im Preiskorridor 55-65 EUR/t.
+- Abgabe-Pflicht: Berechtigungszertifikate (nEHS-Zertifikate) bis 31. Juli des Folgejahres.
+- DEHSt fuer nEHS-Registerueberwachung zustaendig.
+
+## Fristen-Ueberblick
+
+| Schritt | Frist | Grundlage |
+|---|---|---|
+| Zuteilungsantrag Phase 4 (laufend) | Bei Neuanlage: 12 Monate vor Betrieb | ZuV 2020 § 4 |
+| Emissionsbericht einreichen | 31. Maerz Folgejahr | § 7 TEHG |
+| Abgabe Emissionsberechtigungen | 30. April Folgejahr | § 8 TEHG |
+| Widerspruch Zuteilungsbescheid | 1 Monat | § 70 VwGO |
+| Klage VG Berlin | 1 Monat nach Widerspruchsbescheid | § 74 VwGO |
+
+## Anschluss-Skills
+
+- `umweltrecht-verfahren` — Klageverfahren VG Berlin
+- `esg-greenwashing-csrd` — CSRD-Berichtspflicht ETS-Kosten
+- `energierecht-industriekunden` — Befreiung BES-Regelung CO2-Kompensation
+- `umweltrecht-kommandocenter` — Mandat-Intake

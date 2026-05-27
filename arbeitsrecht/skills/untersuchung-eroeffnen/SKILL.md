@@ -182,3 +182,16 @@ Protokolldateiformate befinden sich in der Referenz-Skill
 `interne-untersuchung` — diese vor inhaltlicher Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Ergänzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 31.01.2019 — 2 AZR 426/18**, NZA 2019, 893 — Anforderungen an die Anhörung der beschuldigten Person vor Verdachtskündigung; die Anhörung muss so konkret sein, dass der Beschuldigte substantiiert antworten und sich verteidigen kann; pauschale Vorwürfe ohne Tatzeit und Tatbeschreibung genügen nicht.
+- **BAG, Urt. v. 14.12.2017 — 2 AZR 86/17**, NJW 2018, 1258 — Repressalienschutz bei internen Meldungen (Vorläufer HinSchG); Arbeitgeber, der einen Arbeitnehmer wegen einer Beschwerde benachteiligt, kann nach § 612a BGB schadensersatzpflichtig sein.
+
+## Triage — vor der Eröffnung klären
+
+1. Ist die Untersuchung anwaltsgeleitet? (→ legal privilege, Schutzstatus klären)
+2. Handelt es sich um einen HinSchG-Sachverhalt? (→ § 8 HinSchG Vertraulichkeit)
+3. Liegt ein Betriebsratsmitglied als Beschuldigte/r vor? (→ § 103 BetrVG beachten)
+4. Schwerbehindert? Werdende Mutter? (→ besonderer Kündigungsschutz)
+5. § 626 Abs. 2 BGB-Uhr: Datum/Uhrzeit der Eröffnung festhalten

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-verwaltungsrecht
-description: Strukturierte Eingangs-Abfrage fuer verwaltungsrechtliche Mandate. Klaert Sachgebiet (Bauen Gewerbe Polizei Beamtenrecht Schule Hochschule Subventionen Sozialleistungen Auslaender Asyl Steuerrecht) Behoerdenebene (Bund Land Kommune) Stand des Verfahrens (Antrag Anhoerung Bescheid Widerspruch Klage Eilantrag) Frist-Sofort-Check (Widerspruch ein Monat § 70 VwGO Klage ein Monat § 74 VwGO Untaetigkeitsklage drei Monate § 75 VwGO). Eskalation Telefon-Sofort bei sofortiger Vollziehung drohendem Vollzug. Routing zu widerspruch-oder-klage-erstpruefung.
+description: "Eingangs-Triage fuer verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untaetigkeitsklage 3 Monate). Pruefraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht, Schule, Subventionen, Auslaender), Behoerdenebene, Verfahrensstand, Frist-Sofort-Check, Eskalation bei drohendem Vollzug. Output Triage-Protokoll mit Fristen-Ampel, Routing-Empfehlung. Abgrenzung: Detailpruefung siehe widerspruch-oder-klage-erstpruefung; Schriftsatz siehe schriftsatzkern-substantiierung."
 ---
 
 # Mandat-Triage Verwaltungsrecht
@@ -86,7 +86,7 @@ Verwaltungsrecht ist hochheterogen — vom Bauantrag bis zur Asylklage. Triage o
 | Schule Versetzung Zulassung | `widerspruch-oder-klage-erstpruefung` |
 | Asyl Ausländerrecht | weiter an `mandat-triage-migrationsrecht` |
 | Sozialleistung | weiter an `mandat-triage-sozialrecht` |
-| Steuerrecht | weiter an `mandat-triage-steuerrecht` |
+| Steuerrecht | weiter an `anw-mandat-triage-steuerrecht` |
 | Polizei-Maßnahme | (Skill polizei-feststellungs-klage — perspektivisch) |
 | Versammlungs-Verbot | `widerspruch-oder-klage-erstpruefung` plus § 80 Abs. 5 VwGO |
 
@@ -114,6 +114,19 @@ Bei sofortiger Vollziehung oder akutem Vollzug:
 - Bei Eilmodus: Eilantrag-Entwurf im Anhang
 - Mandatsvereinbarung mit Streitwertabschätzung § 52 GKG
 - Empfehlung Folge-Skill
+
+## Leitentscheidungen Mandat-Triage
+
+- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, NVwZ 2023, 710 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG; ab 01.01.2025 vier Tage (PostModG); Versaeumnis Klagefrist bei fehlerhafter Bekanntgabe; Ein-Jahres-Frist § 58 Abs. 2 VwGO.
+- BVerwG, Urt. v. 23.02.2023 — 9 C 6.21, BVerwGE 177, 198 — Klagebefugnis Dritter; § 42 Abs. 2 VwGO; Moeglich-Theorie; Schutznormlehre; bloss reflexartige Beguenstigung genuegt nicht.
+- BVerwG, Urt. v. 19.05.2021 — 10 C 2.20, NVwZ 2021, 1345 — Prozesskostenhilfe § 166 VwGO i.V.m. §§ 114 ff. ZPO; Bewilligungsvoraussetzungen; hinreichende Erfolgsaussichten auch bei summarischer Pruefung.
+- BVerfG, Beschl. v. 08.06.2021 — 2 BvR 1999/17, NJW 2021, 2460 — Effektiver Rechtsschutz Art. 19 Abs. 4 GG; Gericht muss bei drohender Vollziehung vor rechtskraeftigem Abschluss des Hauptverfahrens schuetzen.
+
+## Kommentarliteratur
+
+- Kopp/Schenke VwGO §§ 42, 68, 70, 74, 75, 80, 123 (Klagezulaessigkeit, Fristen, Eilrechtsschutz)
+- Stelkens/Bonk/Sachs VwVfG § 41 Rn. 1-80 (Bekanntgabe, PostModG-Neuregelung)
+- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 9 (Verwaltungsakt, Typen) und § 18 (Aufhebung)
 
 ## Quellen
 

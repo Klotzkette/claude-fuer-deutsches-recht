@@ -1,157 +1,141 @@
 ---
 name: gesellschaftsgruender-gmbh-vorbereitung
-description: "Vorbereitung einer GmbH-Gruendung. Stammkapital Bareinlage Sacheinlage Sachgruendungsbericht Werthaltigkeit Differenzhaftung Paragraf 9 GmbHG. Firmenname IHK-Vorpruefung Paragraf 30 HGB Verwechslungsgefahr. Sitz und Geschaeftsgegenstand Konkretisierung. Musterprotokoll vs individuelle Satzung. Gesellschafterstruktur."
+description: "GmbH-Gruendung vorbereiten: Gruenderpruefung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Pruefraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschaeftsfuehrereignung. Output: Vorbereitungscheckliste GmbH-Gruendung. Abgrenzung: nicht UG-Gruendung (eigener Skill)."
 ---
 
 # GmbH-Vorbereitung
 
-## Zweck
+## Triage — kläre vor der Notarsitzung
 
-Vor der Notar-Beurkundung der GmbH-Gründung sind sieben Bausteine festzulegen: Firma, Sitz, Gegenstand, Stammkapital, Gesellschafter, Geschäftsführer, Satzungswahl. Dieser Skill geht jeden Baustein durch — mit den typischen Fallstricken.
+1. Wie viele Gesellschafter — Solo, Paar oder Team? Bei bis zu 3 Gesellschaftern und einem GF: Musterprotokoll möglich.
+2. Stammkapital: Bargründung oder Sachgründung? Sacheinlage erfordert Sachgründungsbericht (§ 5 Abs. 4 GmbHG) und löst Differenzhaftung (§ 9 GmbHG) aus.
+3. Ist eine Holding-Struktur sinnvoll (Gesellschafter hält über UG/GmbH Holding statt direkt)?
+4. Ist Investoren-Aufnahme in den nächsten 12-24 Monaten geplant — dann individuelle Satzung, nicht Musterprotokoll.
+5. Liegt ein genehmigungspflichtiger Unternehmensgegenstand vor (Bank, Versicherung, Spielhalle, Apotheke)?
+6. Sind alle Gesellschafter und Geschäftsführer persönlich anwesend oder werden Vollmachten benötigt?
 
-## Bausteine vor Notar
+## Zentrale Normen
 
-### Baustein 1 — Firma (Paragrafen 17 ff. HGB)
+- **§ 5 GmbHG** — Stammkapital mindestens 25.000 EUR; Mindestbetrag je Anteil 1 EUR; Sachgründung erfordert Sachgründungsbericht.
+- **§ 5a GmbHG** — UG-Sondervariante (Mindestkapital 1 EUR; Thesaurierungspflicht 25 %).
+- **§ 7 GmbHG** — Anmeldevoraussetzungen: Einzahlung mindestens 12.500 EUR (Bargründung) bzw. volle Sacheinlage.
+- **§ 9 GmbHG** — Differenzhaftung: Gesellschafter haftet für den Wertunterschied, wenn Sacheinlage unter angemeldeten Wert liegt.
+- **§§ 17 ff. HGB / § 30 HGB** — Firmenbildung: Kennzeichnungskraft, keine Irreführung, keine Verwechslungsgefahr.
+- **§ 53 Abs. 2 GmbHG** — Satzungsänderung erfordert 75 %-Mehrheit.
+- **§§ 2, 2a GmbHG** — Beurkundungsform; Musterprotokoll bei einfachen Gründungen.
 
-#### Anforderungen
+## Aktuelle Rechtsprechung
 
-- **Kennzeichnungskraft**: ausreichend unterscheidbar (Paragraf 18 I HGB)
-- **Keine Irreführung**: Branchenbezeichnungen müssen zutreffen (Paragraf 18 II HGB)
-- **Rechtsform-Zusatz**: „GmbH", „Gesellschaft mit beschraenkter Haftung" oder „Ges. mit beschr. Haftung"
-- **Verwechslungsgefahr**: keine Verwechslungsgefahr mit anderen am Sitz (Paragraf 30 HGB)
+- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 10 — Vorbelastungshaftung: Gesellschafter haften für Verbindlichkeiten, die zwischen notarieller Beurkundung und Eintragung entstehen, anteilig nach Stammkapitalquoten.
+- BGH, Urt. v. 27.01.1997 - II ZR 123/94, BGHZ 134, 333 — Einmann-GmbH: Selbstkontrahieren nach § 181 BGB zulässig, wenn Satzung Befreiung erteilt; ohne Befreiung schwebend unwirksam.
+- BGH, Urt. v. 04.03.1996 - II ZR 89/95, NJW 1996, 1476 — Differenzhaftung (§ 9 GmbHG): bei Sacheinlage trägt Gesellschafter das Werthaltigkeitsrisiko bis zur Einzahlungspflicht.
+- OLG München, Beschl. v. 20.04.2017 - 31 Wx 134/17, NZG 2017, 826 — Firmenbildung: Handelsregister darf Eintragung verweigern, wenn Firma keine ausreichende Unterscheidungskraft aufweist (§ 18 Abs. 1 HGB).
 
-#### Praxis
+## Kommentarliteratur
 
-- **IHK-Firmenvorprüfung** (kostenlos oder gering, freiwillig aber empfohlen)
-- Prüfung im Handelsregister (kostenpflichtig, über Notar oder common register search)
-- Prüfung Markenregister DPMA (kostenlos online)
-- Prüfung Domain-Verfügbarkeit
-- Prüfung Social-Media-Handles
+- Scholz/Emmerich, GmbHG, § 5 Rn. 1-50 (Stammkapital, Sacheinlage, Differenzhaftung)
+- Lutter/Hommelhoff, GmbHG, § 7 Rn. 1-30 (Anmeldevoraussetzungen)
+- Baumbach/Hueck, GmbHG, § 9 Rn. 1-20 (Differenzhaftung Praxis)
 
-#### Beispiele
+## Sieben-Bausteine-Prüfschema
 
-- ✅ „Mueller IT-Beratung GmbH"
-- ✅ „Hanseatische Vermögensverwaltung GmbH"
-- ❌ „Globaler Marktführer GmbH" (irreführend)
-- ❌ „Deutsche Bank GmbH" (verwechslungsfähig)
+| Baustein | Kernfrage | Fallstrick | Ergebnis |
+|---|---|---|---|
+| 1 Firma | IHK-Vorprüfung, Verwechslungsgefahr (§ 30 HGB), DPMA-Markencheck | Ähnliche Firma im HR-Bezirk → Eintragungsversagung | Firma freigegeben |
+| 2 Sitz | Satzungssitz Inland; ladungsfähige Geschäftsadresse | Briefkasten-Sitz unzulässig; tatsächliche Erreichbarkeit | Sitz bestätigt |
+| 3 Gegenstand | § 3 Abs. 1 Nr. 2 GmbHG: konkret genug, weit genug | Zu eng: Pivot erfordert Satzungsänderung; zu veit: HR-Beanstandung | Gegenstand formuliert |
+| 4 Stammkapital | Bar oder Sach? 25.000 EUR Minimum; Einzahlung 12.500 EUR vor Anmeldung | Sacheinlage: Differenzhaftung § 9 GmbHG | Kapitalstruktur festgelegt |
+| 5 Gesellschafter | Quoten; Mehrheit; 75-%-Schwelle für Satzungsänderung; Holding-Überlegung | Falsche Quotenplanung vor Investoren-Runde | Gesellschafterstruktur fixiert |
+| 6 Geschäftsführer | Einzel- oder Gesamtvertretung; § 181 BGB Befreiung; Anstellungsvertrag | GF ohne Anstellungsvertrag = unklares SV-Verhältnis | GF-Parameter festgelegt |
+| 7 Satzungswahl | Musterprotokoll (§ 2a GmbHG, max. 3 Gesellschafter) oder individuelle Satzung | Musterprotokoll bei Investoren-Plan: teure Nachänderung | Satzungstyp gewählt |
 
-### Baustein 2 — Sitz und Geschäftsadresse
+## Schritt-für-Schritt-Workflow
 
-- **Satzungssitz**: Inland-Stadt (Pflichtangabe Paragraf 4a GmbHG)
-- **Geschäftsadresse**: ladungsfähige Anschrift in Deutschland (kann vom Satzungssitz abweichen, muss aber im Handelsregister eingetragen werden)
-- **Briefkasten-Sitz** unzulaessig; tatsächliche Erreichbarkeit erforderlich
+1. **Triage** — 6 Triage-Fragen oben beantworten; Gründungs-Typ bestimmen.
+2. **Firmencheck** — IHK-Vorprüfung; HR-Recherche; DPMA-Markenrecherche; Domain-Check.
+3. **Kapitalstruktur** — Bar oder Sach? Einzahlungsplan; Konto eröffnen; bei Sacheinlage Sachgründungsbericht beauftragen.
+4. **Gesellschafterstruktur** — Quoten festlegen; Holding-Frage klären; Vesting/Vorkaufsrecht in individuelle Satzung.
+5. **Satzungsentwurf** — Musterprotokoll oder individuelle Satzung; GF-Parameter (Vertretung, § 181 BGB).
+6. **Notartermin** — Unterlagen-Checkliste abarbeiten (siehe unten); alle Anwesenden mit Personalausweis.
+7. **Einzahlung** — nach Beurkundung: Stammkapital auf Gesellschaftskonto; Einzahlungsbeleg an Notar.
+8. **HR-Anmeldung** — Notar meldet beim Handelsregister an; bei genehmigungspflichtigem Gegenstand: Genehmigung vorlegen.
+9. **Folgeakte** — Gewerbeanmeldung, Finanzamt-Fragebogen, IHK-Mitgliedschaft, Transparenzregister (sofern nicht bereits eingetragen).
 
-### Baustein 3 — Geschäftsgegenstand (Paragraf 3 I Nr. 2 GmbHG)
+## Output-Template Notarcheckliste
 
-#### Konkretheit
+**Adressat:** Gründer und Mandant — Tonfall verständlich-erklärend
+```
+NOTARCHECKLISTE GMBH-GRÜNDUNG
+Mandant: [Name(n) der Gründer]
+Firma (geplant): [Firmenname] GmbH
+Notartermin: [Datum, Uhrzeit, Ort]
+Erstellt: [Datum]
 
-- **Konkret genug**, damit Dritte das Geschäftsfeld erkennen
-- **Weit genug**, dass Pivots ohne Satzungsaenderung möglich sind
-- Beispiel: „Beratung von Unternehmen in den Bereichen Digitalisierung, Software-Entwicklung und IT-Sicherheit sowie der An- und Verkauf von Software-Lizenzen und damit zusammenhängende Dienstleistungen"
+VOR DEM TERMIN — bitte mitbringen
+[ ] Gültiger Personalausweis / Reisepass — alle Gesellschafter + GF
+[ ] Bei GmbH als Gesellschafterin: Handelsregisterauszug (max. 3 Monate alt) + Vollmacht GF
+[ ] Nachweis Firmennamen-Vorprüfung (IHK-Bescheinigung, sofern eingeholt)
+[ ] Formulierte Satzung / Musterprotokoll-Variante (vom Anwalt vorbereitet)
+[ ] Gegenstand des Unternehmens — exakter Wortlaut
+[ ] Gesellschafterliste mit Quoten und Adresse
+[ ] Anschrift des Geschäftssitzes (ladungsfähig)
+[ ] Bei Sachgründung: Sachgründungsbericht, Sachwertgutachten
+[ ] Genehmigungsunterlagen (sofern genehmigungspflichtiger Gegenstand)
 
-#### Genehmigungspflicht
+NACH DER BEURKUNDUNG — nächste Schritte
+[ ] Stammkapital auf neu eröffnetes GmbH-Konto einzahlen ([BETRAG] EUR)
+[ ] Einzahlungsbeleg an Notar schicken bis [Datum]
+[ ] Handelsregisteranmeldung — Notar veranlasst
+[ ] Geschäftskonto-Eröffnung (Firmenname + HR-Nummer nach Eintragung)
+[ ] Gewerbeanmeldung — zuständige Behörde: [Ordnungsamt/Gewerbeamt ORTS]
+[ ] Fragebogen zur steuerlichen Erfassung — Finanzamt [Finanzamt ORT]
+[ ] Transparenzregister — wirtschaftlich Berechtigte eintragen (TraFinG)
+[ ] GF-Anstellungsvertrag abschließen (separat)
 
-Bei genehmigungspflichtigem Gegenstand (z.B. Bank, Versicherung, Spielhallen) muss die Genehmigung vor Eintragung vorliegen.
+GESELLSCHAFTERSTRUKTUR
+| Gesellschafter | Quote | Anteil-EUR | Einzahlung | Bareinlage/Sacheinlage |
+|---------------|-------|-----------|-----------|----------------------|
+| [Name 1]      | [%]   | [EUR]     | [Datum]   | Bar                  |
+| [Name 2]      | [%]   | [EUR]     | [Datum]   | Bar                  |
 
-### Baustein 4 — Stammkapital
+GESCHÄFTSFÜHRER
+Name: [GF-Name]
+Vertretung: [Einzelvertretung / Gesamtvertretung]
+§ 181 BGB Befreiung: [Ja / Nein]
+Anstellungsvertrag: [vorhanden / noch abzuschließen]
+```
 
-#### Mindesthöhe
+## Rote Schwellen
 
-- **25.000 EUR** Stammkapital Paragraf 5 I GmbHG
-- Bei Bargründung: **mindestens 12.500 EUR** vor Anmeldung einzuzahlen (Paragraf 7 II 2 GmbHG)
-- Bei Sachgründung: **vollständig** zur freien Verfügung des Geschäftsführers (Paragraf 7 III GmbHG)
+- Sacheinlage ohne Sachgründungsbericht → HR verweigert Eintragung; persönliche Differenzhaftung (§ 9 GmbHG).
+- Firma nicht vorab geprüft → Eintragungsversagung durch Handelsregister; Verzögerung 4-8 Wochen.
+- Musterprotokoll bei geplantem Investoren-Einstieg → spätere Satzungsänderung kostet mehr als initiale individuelle Satzung.
+- Stammkapital nicht vollständig eingezahlt vor Anmeldung → Anmeldevoraussetzung fehlt; persönliche Haftung GF.
+- Genehmigungspflichtiger Gegenstand ohne Genehmigung → Eintragung verzögert oder verweigert.
 
-#### Geschäftsanteile
+## Typische Gründungsfehler
 
-- Mindesthöhe 1 EUR pro Anteil (Paragraf 5 II GmbHG)
-- Jeder Gesellschafter kann mehrere Anteile übernehmen
-- Bei Mehr-Gesellschafter-Gründung: Anteilshöhen reflektieren wirtschaftliche Quoten
+1. Firmenname nicht geprüft → Marken- oder HR-Konflikt nach Eintragung.
+2. Geschäftsgegenstand zu eng → Pivot erfordert 75-%-Satzungsänderung.
+3. Musterprotokoll bei Investoren-Plänen → Nachänderung teuer.
+4. GF-Anstellungsvertrag vergessen → unklares Sozialversicherungsverhältnis.
+5. Holding-Frage zu spät → spätere Umstrukturierung teuer (Grunderwerbsteuer, GrESt-Klausel).
+6. § 181 BGB-Befreiung vergessen → In-sich-Geschäfte des GF schwebend unwirksam.
 
-#### Bargründung vs. Sachgründung
+## Quellen und Vertiefung
 
-Bargründung ist deutlich einfacher; Sachgründung verlangt:
-- Sachgründungsbericht der Gesellschafter (Paragraf 5 IV GmbHG)
-- Werthaltigkeit der Sacheinlage objektiv begründet
-- Bei Differenz: Differenzhaftung Paragraf 9 GmbHG
+- §§ 2, 5, 7, 9, 53 GmbHG (Gründung, Stammkapital, Differenzhaftung, Satzungsänderung)
+- §§ 17-18, 30 HGB (Firmenrecht, Verwechslungsgefahr)
+- BGH II ZR 171/06, NJW 2008, 1589 (Vorbelastungshaftung)
+- BGH II ZR 123/94, BGHZ 134, 333 (§ 181 BGB Befreiung)
+- Scholz/Emmerich, GmbHG, § 5 Rn. 1-50
+- Baumbach/Hueck, GmbHG, § 9 Rn. 1-20
 
-#### Bei Differenz-Risiko
+## Übergabe an andere Skills
 
-Wenn Sacheinlage möglicherweise nicht werthaltig: lieber Bargründung wählen und Sachen später durch die Gesellschaft kaufen lassen.
-
-### Baustein 5 — Gesellschafterstruktur
-
-#### Fragen
-
-- **Wieviele Gesellschafter**? Solo, Paar, Gründer-Team mit 3-5 Koepfen, oder Beteiligungs-Konstrukt?
-- **Quoten**: Strategisch wichtig. 51 % zur einfachen Mehrheit, 75 % für Satzungsaenderungen Paragraf 53 II GmbHG.
-- **Holding-Strukturen**: Soll Gründer persönlich oder über Holding-GmbH halten? (Steuer-Frage)
-- **Vesting / Cliff**: Bei mehreren Gründern Vesting-Klauseln in Gesellschaftervereinbarung
-- **Drag-Along / Tag-Along**: Bei Investoren-Vorbereitung wichtig
-- **Vorkaufsrechte**: Standardklausel in Satzung oder Gesellschaftervereinbarung
-
-#### Mehrheits-/Minderheits-Schutz
-
-- 75 %-Mehrheit für Satzungsaenderung Paragraf 53 II GmbHG
-- Einstimmigkeit für Änderungen, die einzelne Gesellschafter besonders treffen
-- Sonder-Stimmrechte / Vetorechte in Satzung
-- Bei kapitalmaerktlichen Investoren: Liquidation-Preference, Anti-Dilution
-
-### Baustein 6 — Geschäftsführer
-
-- **Anzahl**: ein oder mehrere
-- **Vertretungsbefugnis**: Einzel- oder Gesamtvertretung
-- **Befreiung Paragraf 181 BGB** (In-sich-Geschäft): meist erteilt, bei klarer Trennung Geschäfte/Privat
-- **Anstellungsverhältnis**: Anstellungsvertrag separat (siehe Skill `gesellschaftsgruender-geschaeftsfuehrervertrag`)
-- **Sozialversicherung**: Solo-GF mit Mehrheit -> meist frei; Minderheit -> ggf. pflichtig (Prüfung erforderlich)
-- **Wohnsitz-Pflicht**: nein, aber faktische Geschäftsausübung in Deutschland gewuenscht
-
-### Baustein 7 — Satzungswahl
-
-#### Variante A: Musterprotokoll (Paragraf 2 Ia GmbHG)
-
-- Nur für **Standardgründung** mit max. 3 Gesellschaftern und einem Geschäftsführer
-- Stark verkürzte Satzung
-- Notarkosten reduziert
-- Bei Pivots oder Investoren-Aufnahme: aufwendige Satzungsaenderung erforderlich
-- **Empfohlen** für einfache Solo-/Paar-Gründungen
-
-#### Variante B: Individuelle Satzung
-
-- Volle Gestaltungsfreiheit
-- Vesting, Vorkaufsrechte, Sondergesellschafter-Rechte einbettbar
-- Notarkosten etwas höher
-- **Empfohlen** für Multi-Gesellschafter, Investoren-Vorbereitung, komplexere Strukturen
-
-→ Skill `gesellschaftsgruender-gesellschaftsvertrag-gmbh`
-
-## Vorbereitende Dokumente
-
-Vor der Notarsitzung sind bereitzuhalten:
-
-- [ ] Personalausweise / Reisepaesse aller Gesellschafter und Geschäftsführer
-- [ ] Bei Gesellschafter-Gesellschaft: Handelsregister-Auszug, Geschäftsführer-Vollmacht, Gesellschafterliste
-- [ ] Firmen-Vorprüfung-Bescheinigung (IHK / Handelsregister)
-- [ ] Liste der Gesellschafter mit Quoten
-- [ ] Gegenstand des Unternehmens (Formulierung)
-- [ ] Satzungsentwurf (bei individueller Satzung)
-- [ ] Bestätigung Bankkonto-Eröffnung (für Stammkapital-Einzahlung)
-- [ ] Bei Sachgründung: Sachgründungsbericht, Sachwertgutachten
-- [ ] Falls relevant: Genehmigungs-Unterlagen für den Geschäftsgegenstand
-
-## Typische Vorbereitungs-Fehler
-
-1. **Firmenname nicht geprüft**. Folgekonflikte, Markenkonflikte, IHK-Beanstandung.
-2. **Geschäftsgegenstand zu konkret**. Pivots erfordern Satzungsaenderung mit 75-%-Mehrheit.
-3. **Geschäftsgegenstand zu vage**. Handelsregister verlangt Konkretisierung.
-4. **Bargründung mit Sacheinlage gemischt**. Komplex, oft Werthaltigkeits-Prüfung erforderlich.
-5. **Musterprotokoll bei späterer Investoren-Aufnahme**. Spätere Satzungsaenderung kostet mehr als initiale individuelle Satzung.
-6. **Geschäftsführer-Anstellungsvertrag vergessen**. Loehne ohne Vertrag sind sozialversicherungs- und steuerproblematisch.
-7. **Holding-Frage zu spaet**. Wer die Holding nicht vor der operativen GmbH gründet, hat später teure Umstrukturierungen.
-
-## Anschluss
-
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — bei individueller Satzung
-- `gesellschaftsgruender-gesellschaftervereinbarung` — bei Mehr-Gesellschafter
-- `gesellschaftsgruender-geschaeftsfuehrervertrag` — GF-Anstellung
-- `gesellschaftsgruender-notar-vorbereitung` — Notarsitzung
-- `gesellschaftsgruender-online-gruendung-dirug` — bei Online-Gründung
+- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — individuelle Satzung ausarbeiten
+- `gesellschaftsgruender-geschaeftsfuehrervertrag` — GF-Anstellungsvertrag
+- `gesellschaftsgruender-notar-vorbereitung` — Notarsitzung vorbereiten
+- `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlungsnachweis
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragungsablauf
+- `gesellschaftsgruender-online-gruendung-dirug` — DiRUG-Online-Gründung

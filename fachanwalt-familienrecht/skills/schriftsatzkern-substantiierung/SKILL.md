@@ -1,9 +1,22 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Familien-, Kindschafts- und Versorgungsausgleichsrecht
+
+## Aktuelle Rechtsprechung (Schriftsatz-Substantiierung Familienrecht)
+
+- BGH, Beschl. v. 07.09.2011 - XII ZB 12/11, NJW 2011, 3715 Rn. 18 — Im FamFG-Verfahren gilt zwar Amtsermittlung (§ 26 FamFG), aber der anwaltliche Schriftsatz muss dennoch konkrete Tatsachen benennen; pauschal gehaltener Vortrag genuegt nicht.
+- BGH, Beschl. v. 15.04.2015 - XII ZB 124/14, NJW 2015, 2258 Rn. 22 — Bei Eilantraegen zum Schutz des Kindeswohls reicht es aus, den Gefahrenzustand glaubhaft zu machen (§ 51 Abs. 1 Satz 2 FamFG); eidesstattliche Versicherung als Glaubhaftmachungsmittel ist zulässig.
+- BGH, Beschl. v. 11.04.2018 - XII ZB 575/17, FamRZ 2018, 930 Rn. 16 — Die Beschwerde gegen Familiengerichtsbeschluesse (§ 63 Abs. 1 FamFG) muss form- und fristgemaess eingereicht werden; die Begruendung kann nachgereicht werden, muss aber innerhalb der Begruendungsfrist beim OLG eingehen.
+- BGH, Beschl. v. 26.10.2011 - XII ZB 465/11, NJW 2012, 523 Rn. 14 — Im Verbundverfahren koennen Scheidung und saemtliche Folgesachen gleichzeitig anhangig gemacht werden; begruendeter Schriftsatz muss fuer jede Folgesache eigene Antrage und Tatsachen enthalten.
+
+## Kommentarliteratur
+
+- BeckOK FamFG/Schael, § 26 Rn. 1-30 (Amtsermittlung, Substantiierungspflicht)
+- MuKoBGB/Maier, § 1610 Rn. 1-30 (Substantiierung Unterhaltsbedarf)
+- Gruenteich BGB Familienrecht — Anspruchsgrundlagen-Kette im Familienrecht
 
 ## Wann dieser Skill greift
 

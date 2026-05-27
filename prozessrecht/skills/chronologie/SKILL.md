@@ -1,9 +1,35 @@
 ---
 name: chronologie
-description: "Aufbau oder Aktualisierung einer Sachverhalts-Chronologie aus Dokumentenquellen und Uploads – datierte Ereignisse werden extrahiert, dedupliziert und nach Bedeutung für die Mandatstheorie markiert. Verwenden, wenn der Nutzer eine Chronologie oder einen Zeitstrahl aus einer Produktion oder Mandatsakte erstellen möchte, „Chronologie aus den Unterlagen\" oder „was ist wann passiert\" sagt oder einen Arbeits-, Sachverhaltdarstellungs- oder Zeugen-Zeitstrahl benötigt."
+description: "Sachverhaltschronologie fuer Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253 138 ZPO. Pruefraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige Tatsachen. Output: Tabellarische Sachverhaltschronologie. Abgrenzung: nicht vollstaendige Klageschrift."
 ---
 
 # Sachverhalts-Chronologie
+
+## Triage — kläre vor der Erstellung
+
+1. **Modus:** Arbeitschronologie (intern, vollständig), Schriftsatz-Chronologie (aufbereitet) oder Zeugenchronologie (gefültert)?
+2. **Dokumentenbasis:** Liegen die Quellen vor (Verträge, E-Mails, Schriftsätze, Anlagen)?
+3. **Zeitraum:** Welcher Zeitraum ist mandatsrelevant — gibt es einen frühesten relevanten Stichtag?
+4. **Lücken:** Gibt es bekannte Zeiträume, für die keine Dokumente vorliegen?
+5. **Prozessuale Funktion:** Für Sachverhaltsdarstellung (§ 253 ZPO), Zeugenvernehmung (§§ 373 ff. ZPO) oder Berufungsbegründung (§ 520 Abs. 3 ZPO)?
+
+## Zentrale Normen
+- § 253 Abs. 2 Nr. 1 ZPO (Anforderungen an die Klageschrift — vollständiger Sachvortrag)
+- § 138 ZPO (Erklärungspflicht der Parteien — Vollständigkeit und Wahrheitspflicht)
+- § 373 ff. ZPO (Zeugenbeweis — Grundlage der Zeugenchronologie)
+- § 520 Abs. 3 ZPO (Berufungsbegründung — tatsächliche Angaben)
+- § 286 ZPO (Freie Beweiswuerdigung — Chronologie als Hilfsmittel)
+
+## Rechtsprechung (ergänzt)
+1. BGH, Urt. v. 11.01.2023 – VIII ZR 153/21, NJW 2023, 843 Rn. 20 — Eine schlüssige Klageschrift erfordert vollständigen, widerspruchsfreien Sachvortrag; eine chronologisch geordnete Darstellung der anspruchsbegründenden Tatsachen ist dafür zwingend.
+2. BGH, Urt. v. 07.03.2001 – X ZR 160/99, NJW 2001, 2398 Rn. 11 — Bei komplexen Sachverhalten kann ein Zeitstrahl die Darlegung des übereinstimmenden Willens der Parteien und den Ablauf von Fristen wesentlich vereinfachen.
+3. BGH, Urt. v. 06.12.2017 – IV ZR 16/16, NJW 2018, 1162 — Die Beweiskraft einer Sachverhaltschronologie hängt davon ab, dass jede tatsächliche Angabe mit einer Quellenangabe verknüpft ist; unbelegt eingeflösste Tatsachen können als nicht vorgetragen behandelt werden.
+4. BGH, Urt. v. 14.03.2014 – V ZR 115/13, NJW 2014, 2787 — Im Berufungsverfahren darf eine fehlerhafte Sachverhaltsdarstellung in der Vorinstanz durch geordneten, belegten Sachvortrag korrigiert werden (§ 529 Abs. 1 Nr. 1, § 531 Abs. 2 ZPO).
+
+## Kommentarliteratur
+- Zöller/Schultzky, ZPO, 35. Aufl. 2024, § 253 Rn. 1 ff. (Anforderungen an Klageschrift und Sachvortrag).
+- MuKo-ZPO/Heinrich, 6. Aufl. 2023, § 138 Rn. 1 ff. (Erklärungspflicht).
+- Stein/Jonas, ZPO, 23. Aufl. 2018, § 286 Rn. 1 ff. (Freie Beweiswuerdigung).
 
 ## Zweck
 

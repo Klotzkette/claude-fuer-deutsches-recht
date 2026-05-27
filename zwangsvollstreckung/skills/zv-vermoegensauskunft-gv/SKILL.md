@@ -1,6 +1,6 @@
 ---
 name: zv-vermoegensauskunft-gv
-description: "Auftrag zur Abnahme der Vermögensauskunft (§ 802c ZPO) durch den Gerichtsvollzieher und Auswertung des Vermögensverzeichnisses. Beachtet Sperrfrist § 802d ZPO (zwei Jahre), Eintragung in das Schuldnerverzeichnis § 882b ZPO, Erzwingungshaft § 802g ZPO. Lädt, wenn keine konkreten Vermögenswerte des Schuldners bekannt sind."
+description: "Glaeubiger weiss nichts ueber Vermoegen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Pruefraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung)."
 ---
 
 # Vermögensauskunft

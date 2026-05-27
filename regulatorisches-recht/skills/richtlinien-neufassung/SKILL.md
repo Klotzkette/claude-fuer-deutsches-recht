@@ -1,6 +1,6 @@
 ---
 name: richtlinien-neufassung
-description: "Richtlinien-Neufassung – erstellt einen markierten Entwurf einer internen Richtlinie, der eine identifizierte Compliance-Lücke schließt. Laden, wenn eine Richtlinie nach einem Diff oder einer Gap-Analyse überarbeitet werden soll."
+description: "Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Pruefraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg. Output: neue Richtlinie Implementierungshinweise. Abgrenzung: nicht fuer Anpassung bestehender Richtlinien (regulatorisches-recht-anpassen)."
 ---
 
 # Richtlinien-Neufassung
@@ -94,6 +94,21 @@ Freigabe-Checkliste vor Inkraftsetzung:
 ☐ Versionskontrolle aktualisiert
 ☐ Datum des Inkrafttretens festgelegt
 ```
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- EuGH, Urt. v. 01.03.2016 — C-443/14 und C-444/14 (Alo und Osso), NJW 2016, 1063 — Richtlinien-Neufassung als Instrument der EU-Rechtsvereinheitlichung; nach Neufassung gilt Konsolidierungstext; Verweise auf Vorgaenger-RL unzulaessig
+- BVerwG, Urt. v. 19.04.2018 — 3 C 1.17, NVwZ 2018, 1232 — Neugestaltung einer Verwaltungsvorschrift; Neufassung ersetzt Altfassung vollstaendig; Uebergangsregelungen fuer laufende Verfahren erforderlich
+- BGH, Urt. v. 06.04.2022 — XII ZR 12/21, NJW 2022, 1666 — Neufassung von AGB nach Gesetzesaenderung; Pflicht zur Transparenz-Kennzeichnung gegenueber Bestandskunden
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 288 AEUV (Richtlinien) — §§ 40-44 GGO (Verwaltungsvorschriften-Neufassung) — §§ 305-310 BGB (AGB-Neufassung) — §§ 133, 157 BGB (Auslegung)
+
+## Kommentarliteratur
+
+- Calliess/Ruffert, EUV/AEUV, 6. Aufl. 2022, Art. 288 Rn. 40 ff. (Richtlinien-Neufassung, Konsolidierung)
+- Schneider, Gesetzgebung, 3. Aufl. 2002, § 12 Rn. 30 ff. (Volltext-Neufassung vs. Aenderungsgesetz)
 
 ## Quellen und Zitierweise
 

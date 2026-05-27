@@ -1,6 +1,6 @@
 ---
 name: bildmarke-und-wort-bild
-description: "Bildmarke und Wort-Bild-Marke fuer Couture-Logos: Anmeldung beim DPMA und EUIPO, Farbansprueche (RGB/Pantone/HKS), EUIPO-Bilddatenbank Vienna Classification, Schutzumfang des Bildbestandteils. Laedt, wenn der Nutzer 'Bildmarke', 'Wort-Bild-Marke', 'Logo-Marke', 'Farbanspruch', 'Vienna Classification' oder 'Couture-Logo' sagt."
+description: "Bildmarke und Wort-Bild-Marke fuer Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schuetzen einschliesslich Farbanspruechen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). Pruefraster: Bildbestandteil-Schutzumfang, Farbansprueche RGB/Pantone/HKS, Unterscheidungskraft des Logos, Kollisions-Vorrecherche. Output Anmelde-Strategie fuer Bild-/Wort-Bild-Marke, Farbanspruch-Formulierung, Vienna-Class-Empfehlung. Abgrenzung: Wort-Element siehe wortmarke-anmeldung-dpma; 3D-Marke siehe dreidimensionale-marke."
 ---
 
 # Bildmarke und Wort-Bild-Marke für Couture-Logos
@@ -99,3 +99,19 @@ und Graphit (Pantone 432 C; RGB 84/96/105) beansprucht.
 - **Vienna Classification Fehler:** Falsche Kategorisierung kann Ähnlichkeitsrecherchen beeinträchtigen
 - **Bildqualität:** Pixelige Uploads werden vom EUIPO zurückgewiesen — Vektordatei bereithalten
 - **Schutz des Designs:** Markenrecht schützt die Herkunftsfunktion; das ästhetische Design ist über das Geschmacksmuster (GGM/eingetragenes deutsches Muster) separat zu schützen
+
+## Triage-Fragen vor Bildmarken-Anmeldung
+
+Bevor die Bildmarke eingereicht wird, klaere:
+1. Wird die Marke in Farbe oder schwarzweiss angemeldet (Farbschutz = enger, s/w = breiter Schutz)?
+2. Sind alle Bildelemente eigenstaendig unterscheidungskraeftig oder nur in Kombination?
+3. Ist die Vienna-Classification-Einordnung geprueft (relevant fuer spaetere Aehnlichkeitsrecherchen)?
+4. Sind die Bilddateien in Vektorqualitaet vorhanden (JPG/PNG min. 800x800 px reicht fuer DPMA, aber Vektor ist besser)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 06.05.2003 — C-104/01 (Libertel):** Einzelne Farben koennen Markenschutz erlangen, wenn sie durch Benutzung Unterscheidungskraft erworben haben; fuer Bildmarken mit Farbanspruch gilt dasselbe; eine Farbmarke schraenkt die Nutzungsfreiheit der Mitbewerber erheblich ein, weshalb Anforderungen an die Unterscheidungskraft hoch sind.
+
+> **BGH, Urt. v. 05.04.2001 — I ZR 168/98 (Drei-Streifen-Marke):** Der Schutzumfang einer Bildmarke bestimmt sich nach der Eigenart des Zeichens im Ganzen; Schutzbestandteile sind nur dann isoliert heranzuziehen, wenn sie dem Gesamteindruck praegende Kraft verleihen.
+
+> **EuGH, Urt. v. 22.09.2011 — C-482/09 (Budejovicky Budvar / Anheuser-Busch):** Blosse Koexistenz von aehnlichen Zeichen ohne aktive Duldung begruendet keinen Verwirkungseinwand; erst wenn der Rechteinhaber ueber fuenf Jahre die Benutzung der juengeren Marke kennt und duldet, tritt Verwirkung nach Art. 61 UMV ein.

@@ -1,6 +1,6 @@
 {
   "name": "steuerrecht-anwalt-und-berater",
-  "version": "9.0.0",
+  "version": "14.2.0",
   "description": "Steuerrecht fuer Anwaltschaft (anw- inkl. Fachanwaltschaft FAO § 9) und Steuerberatung (stb-): Bescheidanalyse Einspruch Klage FG Aussenpruefung Selbstanzeige Strafverteidigung. StB-Tools BWA SuSa Bilanz Ueberschuldungspruefung Liquiditaet Krisenfrueherkennung. Ersetzt fachanwalt-steuerrecht.",
   "license": "Apache-2.0 OR MIT",
   "author": {

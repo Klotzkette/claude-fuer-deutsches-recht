@@ -5,6 +5,34 @@ description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und w
 
 # Gütetermin: Strategie und Sprechzettel
 
+## Triage zu Beginn — kläre vor dem Gütetermin
+
+1. Ist der Gütetermin der erste Verhandlungstermin? (Regel: § 54 ArbGG)
+2. Ist der Arbeitgeber anwaltlich vertreten? (Beeinflusst Vergleichsstrategie)
+3. Was ist das Vergleichsziel des Mandanten? (Abfindung / Weiterbeschäftigung / Zeugniskorrektur?)
+4. Wurde die Drei-Wochen-Frist § 4 KSchG gewahrt?
+5. Hat die Gegenseite bereits eine Klageerwiderung eingereicht?
+
+## Zentrale Normen
+
+- § 54 ArbGG — Güteverhandlung als erster Verhandlungstermin; vor dem Vorsitzenden allein
+- § 55 ArbGG — Vergleich im Gütetermin: rechtsverbindlich und vollstreckbar
+- § 11 Abs. 1 ArbGG — kein Anwaltszwang in erster Instanz (Ausnahme: Sprungrevision)
+- § 57 ArbGG — Kammertermin nach erfolglosem Gütetermin
+- § 9 KSchG — Auflösungsantrag des Arbeitnehmers (bei Misserfolg im Gütetermin prüfen)
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 25.04.2018 – 2 AZR 6/18, NZA 2018, 1071 — Ein im Gütetermin geschlossener Vergleich ist ein Prozessvergleich nach § 794 Abs. 1 Nr. 1 ZPO; er ist unmittelbar vollstreckbar und kann nur bei einem Willensmangel (Irrtum, arglistige Täuschung) nach §§ 119, 123 BGB angefochten werden; eine bloße Reue genügt nicht.
+- BAG, Urt. v. 12.05.2010 – 2 AZR 544/08, NZA 2010, 1278 — Zum Vergleich unter Zeitdruck: Ein Vergleich ist wirksam, auch wenn er unter dem Druck einer laufenden Frist oder eines Gerichtstermins geschlossen wird; nachträgliche Reue oder veränderte Einschätzungen begründen kein Anfechtungsrecht.
+- BAG, Urt. v. 28.06.2012 – 6 AZR 780/10, NZA 2012, 1029 — Widerrufsvorbehalt im Vergleich: Haben die Parteien einen Widerrufsvorbehalt vereinbart, muss der Widerruf innerhalb der vereinbarten Frist zugehen; nach Ablauf der Widerrufsfrist ist der Vergleich bindend.
+
+## Kommentarliteratur
+
+- Germelmann/Matthes/Prütting, ArbGG, 10. Aufl. 2023, § 54 Rn. 1–25 (Güteverhandlung; Ablauf; Prozessvergleich)
+- ErfK/Koch, 24. Aufl. 2024, § 54 ArbGG Rn. 1–15 (Gütetermin; keine Anwaltspflicht; Protokoll)
+- Schaub/Koch, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 152 Rn. 10–30 (Vergleich im Gütetermin; Anfechtung; Vollstreckung)
+
 ## Zweck
 
 Der Gütetermin nach § 54 ArbGG ist der erste Verhandlungstermin vor dem Arbeitsgericht. Er findet in der Regel wenige Wochen nach Klageerhebung statt. In der Praxis werden viele Kündigungsschutzstreitigkeiten im Gütetermin durch Vergleich erledigt. Dieser Skill bereitet auf diesen Termin vor.

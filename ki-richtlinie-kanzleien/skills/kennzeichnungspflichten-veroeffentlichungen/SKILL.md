@@ -1,6 +1,6 @@
 ---
 name: kennzeichnungspflichten-veroeffentlichungen
-description: "Art. 50 Abs. 4 KI-VO und Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Blogs, Pressemitteilungen und Schriftsätzen: redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise für transparente Kommunikation."
+description: "Kennzeichnungspflichten fuer KI-generierte Inhalte in Kanzlei-Veroeffentlichungen prüfen: Anwendungsfall Kanzlei veroeffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Art. 50 Abs. 4 KI-VO Kennzeichnungspflicht, § 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht KI-Content. Pruefraster Anwendungsbereich Art. 50 Abs. 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation. Output Kennzeichnungs-Leitfaden fuer unterschiedliche Content-Typen. Abgrenzung zu Urheberrecht-Bausteine und zu Transparenz-Mandanten."
 ---
 
 # Kennzeichnungspflichten für Veröffentlichungen
@@ -13,12 +13,29 @@ Art. 50 Abs. 4 Unterabs. 2 Satz 1 KI-VO: Betreiber eines KI-Systems, das Text zu
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Schriftsätze an Gerichte**: Keine Kennzeichnungspflicht nach KI-VO — nicht öffentlich und anwaltliche redaktionelle Verantwortung durch Unterschrift.
 2. **Kanzlei-Blog und Website-Inhalte**: Wenn KI-generierte Texte ohne inhaltliche menschliche Überarbeitung veröffentlicht werden, ist eine Kennzeichnung geboten. Bei menschlicher Endkontrolle greift die Ausnahme.
 3. **Pressemitteilungen**: Individuelle Kennzeichnung empfehlenswert als Best Practice, auch wenn rechtlich nicht stets geboten.
 4. **Social-Media-Inhalte**: Bei vollständig KI-generierten Posts zu rechtlich relevanten Themen ist Kennzeichnung rechtlich geboten und auch aus Reputationsgründen empfehlenswert.
 5. **Mandanten-Newsletter**: Bei KI-unterstützten Beiträgen mit menschlicher Redaktion: keine zwingende Kennzeichnung nach KI-VO; Transparenz gegenüber Mandanten ist gleichwohl empfehlenswert.
 6. **Interne Best-Practice-Regel festlegen**: Empfohlen wird, KI-Beteiligung grundsätzlich im redaktionellen Prozess intern zu dokumentieren, auch wenn eine externe Kennzeichnung nicht zwingend ist.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Kennzeichnungsbaustein fuer KI-generierte Publikation | Kennzeichnung nach Schema; Template unten |
+| Variante A — Interne Nutzung kein Veroeffentlichungszweck | Keine Pflicht-Kennzeichnung; interne Notiz genuegt |
+| Variante B — Gericht will Herkunft aller Teile wissen | Erweiterte Offenlegung mit Werkzeug-Benennung |
+| Variante C — Gemischtes Dokument KI und Mensch | Hybride Kennzeichnung; nur KI-Teile markieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -31,6 +48,67 @@ Anwaltliche Schriftsätze, die unter Nutzung von KI-Assistenzsystemen erstellt w
 **Baustein Interne Dokumentation:**
 Unabhängig von der externen Kennzeichnungspflicht dokumentiert die Kanzlei intern, bei welchen Veröffentlichungen KI-Systeme in welchem Umfang eingesetzt wurden. Diese Dokumentation dient der Qualitätssicherung und der Nachweisbarkeit bei etwaigen späteren Anfragen.
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Die Auslegung des Art. 50 Abs. 4 KI-VO durch Datenschutzbehörden, das Europäische KI-Büro oder Gerichte ist zu beobachten. Ebenso entwickeln Berufsverbände (z.B. Presserats-Äquivalente für juristische Veröffentlichungen) möglicherweise eigene Standards zur Kennzeichnung.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 12.07.2018 — I ZR 69/17, GRUR 2018, 1234 Rn. 22: Irreführungsverbot nach UWG bei nicht gekennzeichneten automatisiert erstellten Inhalten.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Offenlegungs- und Transparenzpflicht bei algorithmischen Entscheidungen.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Haftung bei mangelhafter Transparenz ueber die Grundlage einer Beratung.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 50 Abs. 1 KI-VO — Kennzeichnungspflicht bei KI-Interaktionen (Chatbot-Offenlegung)
+- Art. 50 Abs. 4 KI-VO — Kennzeichnung synthetischer Inhalte (Deepfake)
+- § 5 UWG — Verbot irreführender Geschaeftspraktiken
+- § 43b BRAO — Werbeverbot fuer Anwaelte (Irreführungsschutz)
+- § 1 UrhG — Urheberrecht an KI-generierten Inhalten (kein Schutz ohne menschliche Schaepfungshoehe)
+
+## Triage zu Beginn
+1. Werden KI-generierte Texte in Veroeffentlichungen, Mandantenschreiben oder Schriftsaetzen verwendet?
+2. Ist Art. 50 KI-VO anwendbar — handelt es sich um einen Chatbot oder synthetischen Inhalt?
+3. Besteht ein berufsrechtliches Risiko nach § 43b BRAO bei fehlender Kennzeichnung?
+4. Sind Mandanten oder Gerichte ueber KI-Unterstuetzung zu informieren?
+5. Hat die Kanzlei ein einheitliches Kennzeichnungsschema fuer verschiedene Veroeffentlichungsarten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template — Kennzeichnungs-Baustein
+**Adressat:** Kanzlei-Mitarbeiter / Redaktion — Tonfall: klar, praktisch
+```
+KENNZEICHNUNGS-LEITFADEN KI-GENERIERTE INHALTE
+[KANZLEI] — Stand: [DATUM]
+
+1. SCHRIFTSAETZE UND RECHTLICHE STELLUNGNAHMEN:
+   Interne Kennzeichnung in Arbeitsexemplar genuegt; externe Kennzeichnung
+   gegenueber Gericht nur bei Anfrage oder wenn inhaltlich relevant.
+   Formulierung: "Dieser Abschnitt wurde mit KI-Unterstuetzung erstellt
+   und menschlich geprueft."
+
+2. MANDANTENSCHREIBEN:
+   Keine zwingende externe Kennzeichnung (ausser wenn Mandant fragt oder
+   Richtlinie es verlangt).
+
+3. VEROEFFENTLICHUNGEN (Fachaufsaetze, Blog, LinkedIn):
+   Kennzeichnung empfohlen: "Erstellt mit KI-Unterstuetzung, redaktionell
+   geprueft und verantwortet."
+
+4. CHATBOT-EINSATZ (Art. 50 Abs. 1 KI-VO):
+   Pflicht zur Offenlegung gegenueber Nutzern dass sie mit KI interagieren.
+
+5. DEEPFAKES / SYNTHETISCHE MEDIEN (Art. 50 Abs. 4 KI-VO):
+   Pflicht zur Kennzeichnung als KI-generiert.
+
+Internes Kennzeichnungs-Symbol: [SYMBOL / TAG z.B. [KI-draft]]
+```

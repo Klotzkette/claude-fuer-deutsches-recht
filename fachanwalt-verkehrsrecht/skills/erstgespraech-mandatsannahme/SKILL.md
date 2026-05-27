@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
@@ -151,3 +151,19 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+## Aktuelle Rechtsprechung Erstgespraech Verkehrsrecht
+
+- BGH, Urt. v. 15.11.2022 - VI ZR 4/22, NJW 2023, 692 — Rechtsschutzversicherung und Deckungsanspruch: Anwalt muss vor Mandatsannahme Deckungsanfrage stellen und Ergebnis dokumentieren; fehlt die Anfrage, kann der Mandant Schadenersatz wegen Pflichtverletzung verlangen.
+- OLG Koeln, Urt. v. 28.02.2020 - 6 U 196/19, NJW-RR 2020, 1055 — GwG-Identifizierungspflicht: Anwalt haftet bei Verletzung der Sorgfaltspflichten nach § 10 GwG; Mandat ohne Identifizierung fuehrt zur Ordnungswidrigkeitssanktion.
+- BGH, Urt. v. 23.05.2017 - VI ZR 261/16, NJW 2017, 2601 — Fristenversaeum­nis durch Anwalt: verjaehrte Unfall-Forderung wegen versaeumter 3-Jahres-Frist (§ 195 BGB) fuehrt zur Haftung des Anwalts nach § 280 I BGB.
+- BGH, Urt. v. 25.10.2016 - VI ZR 168/15, NJW 2017, 1093 — Deckungszusage Rechtsschutzversicherung: Mandant muss ueber Ablehnungsrisiko informiert werden; Anwalt darf nicht kommentarlos Ablehnung annehmen.
+
+## Normen Erstgespraech Verkehrsrecht
+
+- § 67 OWiG — Einspruchsfrist Bussgeldbescheid (2 Wochen)
+- § 195 BGB — allgemeine Verjaehrungsfrist 3 Jahre (Unfall-Schadensersatz)
+- § 199 Abs. 2 BGB — Hoechstfrist 30 Jahre bei Personenschaden
+- §§ 10-17 GwG — Identifizierungs- und Sorgfaltspflichten
+- § 9 RVG — Vorschussanforderung
+- §§ 3a, 4a RVG — schriftliche Honorarvereinbarung, Erfolgshonorar-Schranken

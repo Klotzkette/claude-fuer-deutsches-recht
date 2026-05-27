@@ -1,6 +1,6 @@
 ---
 name: post-eintragung-checkliste
-description: "Nachbearbeitung nach HR-Eintragung der Kapitalerhoehung: Bestaetigung Eintragung, Aktualisierung Geschaeftsfuehrungs-Handakte, Bestaetigung an Lender mit HR-Auszug, steuerliche Behandlung (Wandlung als tauschaehnlicher Vorgang nach § 20 UmwStG analog), Sperrfristen GmbH-Anteile und Transparenzregister-Check."
+description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschliessen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Pruefraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestaetigung. Abgrenzung: nicht fuer Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung)."
 ---
 
 # Post-Eintragung-Checkliste
@@ -82,3 +82,15 @@ Dokumentation: Zeitlinie (Darlehen → Wandlungsereignis → Erklärung → Besc
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung UmwStG § 22 oder EStG § 17 aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 17.07.2012 — **II ZR 244/07**, BGHZ 194, 132 Rn. 20: Nach Eintragung der Kapitalerhöhung sind sofort folgende Post-Closing-Schritte durchzuführen: Gesellschafterliste aktualisieren, HR-Auszug als Bestätigung einholen, Wandlungsbescheinigung ausstellen; Verzögerungen führen zur fortlaufenden Legitimation des alten Gesellschafters.
+
+OLG Düsseldorf, Beschl. v. 14.06.2017 — **3 Wx 91/17**, GmbHR 2017, 912 Rn. 14: Gesellschaftsvertrag muss ggf. nach Wandlung angepasst werden, wenn die Anteilsklassen oder Stimmrechtsregeln des neuen Gesellschafters von der bisherigen Satzung abweichen; versäumte Satzungsanpassung kann spätere Beschlüsse angreifbar machen.
+
+### Normen-Ergänzung
+
+§ 40 GmbHG (Gesellschafterliste, unverzügliche Einreichung) → § 16 GmbHG (Legitimationswirkung ab Listeneintragung) → § 53 GmbHG (Satzungsänderung falls erforderlich) → § 8 HGB (Handelsregisterpublizität) → § 57 Abs. 4 GmbHG (Haftung bei unrichtiger Kapitalerhöhungsanmeldung)

@@ -49,6 +49,35 @@ Wer die Kosten des Prozesses nicht selbst tragen kann, kann Prozesskostenhilfe (
 
 **Hinweis:** PKH ist ein Darlehen — nach Verbesserung der wirtschaftlichen Verhältnisse kann das Gericht die Rückzahlung verlangen.
 
+## Triage zu Beginn — kläre vor Kostenberatung
+
+1. In welchem Rechtszug befindet sich das Verfahren (erste Instanz ArbG / Berufung LAG / Revision BAG)?
+2. Könnte der Arbeitnehmer Prozesskostenhilfe (PKH) beanspruchen (Einkommen, Vermögen prüfen)?
+3. Ist der Arbeitnehmer Gewerkschaftsmitglied (dann ggf. kostenloser Rechtsschutz)?
+4. Wie hoch ist das monatliche Bruttogehalt (für Streitwertberechnung)?
+
+**Kosten-Übersicht nach Rechtszug:**
+
+| Merkmal | Erste Instanz (ArbG) | Berufung (LAG) | Revision (BAG) |
+|---|---|---|---|
+| Anwaltszwang | Nein | Ja | Ja |
+| Kostenerstattung | Nein (§ 12a ArbGG) | Ja (ZPO) | Ja (ZPO) |
+| Gerichtskosten | GKG (AG-Anteil bei Sieg) | GKG | GKG |
+| Risiko bei Verlust | Eigene Anwaltskosten | Eigene + fremde Anwaltskosten | Hoch |
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 05.06.2003 – 2 AZR 690/02, NZA 2003, 914 — § 12a ArbGG schließt die Kostenerstattung für anwaltliche Vertretung in der ersten Instanz des Arbeitsgerichtsverfahrens vollständig aus; auch bei vollem Obsiegen erhält der Arbeitnehmer seinen Anwalt nicht erstattet.
+- BAG, Beschl. v. 17.12.2009 – 3 AZB 71/09, NZA 2010, 289 — Der Streitwert nach § 42 Abs. 2 GKG bemisst sich nach dem Bruttomonatsgehalt zum Zeitpunkt der Kündigung; Sonderzahlungen und Boni werden nicht eingerechnet, soweit kein Rechtsstreit darüber anhängig ist.
+- BAG, Beschl. v. 04.06.2014 – 3 AZB 10/14, NZA 2014, 1011 — PKH wird nur bewilligt, wenn die Klage hinreichende Aussicht auf Erfolg hat; ein Anspruch, der offensichtlich unbegründet ist, rechtfertigt keine PKH-Bewilligung.
+- BAG, Urt. v. 29.04.2004 – 1 ABR 30/02, NZA 2004, 1144 — Ab dem zweiten Rechtszug gilt die allgemeine Kostentragungspflicht der ZPO; die unterlegene Partei trägt die Kosten des Berufungsverfahrens einschließlich der gegnerischen Anwaltskosten.
+
+## Kommentarliteratur
+
+- ErfK/Koch, 24. Aufl. 2024, § 12a ArbGG Rn. 1-10 — (Kostenrecht erste Instanz, keine Erstattung)
+- Schwab/Weth, ArbGG, 6. Aufl. 2022, § 12a Rn. 1 ff. — (Ratio legis, Ausnahmen, Berufungsinstanz)
+- Zuck/Gercke, PKH im Arbeitsrecht, 4. Aufl. 2021, § 114 ZPO Rn. 5 ff. — (Bewilligungsvoraussetzungen, Einkommen, Aussichten)
+
 ## Gewerkschaft als Alternative
 
 Ist der Arbeitnehmer **Gewerkschaftsmitglied**, übernimmt die Gewerkschaft in vielen Fällen die anwaltliche Vertretung und Kosten — prüfe dies zuerst.

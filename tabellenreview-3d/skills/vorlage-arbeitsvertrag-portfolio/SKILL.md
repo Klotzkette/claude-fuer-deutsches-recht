@@ -1,6 +1,6 @@
 ---
 name: vorlage-arbeitsvertrag-portfolio
-description: "Wuerfelvorlage fuer Massenpruefung von Arbeitsvertraegen — 15 Spalten (Vertragsdatum Probezeit Befristung-mit-oder-ohne-Sachgrund Wochenarbeitszeit Kuendigungsfrist Tarifbindung Bruttogehalt Sonderzahlung Verschwiegenheit Wettbewerbsverbot Karenzentschaedigung Urlaub Vorbehaltsklauseln Ueberstundenklausel Verfallklauseln) x N Vertraege x 3 Arbeitsblaetter (Arbeitsrecht / DSGVO-Beschaeftigtendatenschutz / Sozialversicherung). Verankert in BGB (Paragraph 305 ff. / Paragraph 622) TzBfG NachwG ArbZG MuSchG BEEG sowie BAG-Rechtsprechung. Geeignet fuer DD beim Erwerb personalintensiver Unternehmen Compliance-Audit Tarifumstellung."
+description: "Vorlagetabelle fuer Portfolio-Review von Arbeitsvertraegen im 3D-Format: Forderung/Pruefung/Stellung. Normen: BGB, KSchG, ArbZG. Pruefraster: Vertragsbedingungen, Klauselgueltigkeit, HR-Compliance. Output: Arbeitsvertrag-Portfolio-Tabelle. Abgrenzung: nicht allgemeine 3D-Review-Konfiguration."
 ---
 
 # /tabellenreview-3d:vorlage-arbeitsvertrag-portfolio

@@ -1,6 +1,6 @@
 ---
 name: energierecht-transaktionen-dd
-description: Energie-Transaktionen Asset Deals Share Deals MA bei Erzeugungs-Anlagen Wind Solar Hydro KWK Wärmenetze Stromvertrieb-Portfolios. Due Diligence Energie-spezifisch EEG-Verguetungs-Anspruch MaStR-Eintrag Pruefung BImSchG-Genehmigung Erweiterung Repowering-Potenzial Anschluss-Punkt Wechsel. Wartungs-Vertrage PPA-Bestand. Beihilfen-Pruefung De-minimis. Strompreiskompensation-Rueckforderungs-Risiko. Vor-Insolvenz-Verkauf Distressed-Energy-Asset. Bewertungs-Methodik DCF mit anzulegendem Wert Marktpreis-Forecast LCOE-Vergleich.
+description: "Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen. Normen: §§ 453 ff. BGB, EnWG, EEG, KWKG. Pruefraster: Genehmigungs-Status, Netzvertrag, EEG-Verguetungsrecht, Umweltrisiken. Output: Due-Diligence-Bericht Energietransaktion. Abgrenzung: nicht Projektfinanzierung."
 ---
 
 # Energie-Transaktionen und Due Diligence
@@ -262,6 +262,22 @@ Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erze
 2. Bei mehreren Anlagen Plattform-Strategie
 3. Skalen-Vorteile (Wartung, Vermarktung)
 4. Exit-Strategie 5-7 Jahre
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 14.04.2021 — VIII ZR 8/20, NJW 2021, 2356 — Due-Diligence-Offenbarungs-Pflicht des Verkaeufers bei EEG-Anlage; verschwiegene Unregelmässigkeit im MaStR-Eintrag begruendet Maengelhaftung nach § 453 BGB i.V.m. § 437 BGB
+- OLG Hamburg, Urt. v. 23.06.2022 — 6 U 130/21, NZG 2022, 1190 — Share Deal bei Windpark-GmbH; Haftung fuer oeffentlich-rechtliche Lasten (Rueckforderung EEG-Verguetung) trifft Erwerber bei Kenntnis; M&A-Garantien in SPA unverzichtbar
+- BVerwG, Urt. v. 15.06.2023 — 7 C 15.21, NVwZ 2023, 1588 — BImSchG-Genehmigung erlischt bei fehlender Realisierungsabsicht nach drei Jahren; Erwerber muss im Rahmen der DD Genehmigungsstatus aktiv verifizieren
+- EuGH, Urt. v. 28.04.2022 — C-444/20, NVwZ 2022, 969 — Beihilfen-Rueckforderungsrisiko bei EE-Foerderung; Erwerber einer Anlage kann Rueckforderungs-Bescheid erhalten wenn Beihilfe nicht mit dem Binnenmarkt vereinbar war; kein gutglaeubiger Erwerb bei oeffentlichen Foerderungen
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 453, 437, 434 BGB (Rechtskauf, Maengelhaftung, Beschaffenheitsvereinbarung) — §§ 75 ff. UmwG (Spaltung, Umstrukturierung Energiegesellschaft) — §§ 48, 49 VwVfG (Widerruf Foerderbescheid) — § 33 EEG (MaStR-Eintrag) — Art. 107, 108 AEUV (Beihilfen-Rueckforderung)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 19-33 EEG Rn. 1 ff. (EEG-Verguetung als Due-Diligence-Gegenstand)
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, § 453 Rn. 1 ff. (Rechtskauf EEG-Anlage, Maengelhaftung SPA)
 
 ## Verzahnung
 

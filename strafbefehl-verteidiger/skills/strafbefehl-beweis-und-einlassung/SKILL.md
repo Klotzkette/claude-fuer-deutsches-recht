@@ -1,45 +1,104 @@
 ---
 name: strafbefehl-beweis-und-einlassung
-description: "Entwickelt Beweis- und Einlassungsstrategien zwischen Schweigen, Teileinlassung und Bestreiten."
+description: "Beweispruefung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisantraege § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO."
 ---
 
-# Beweis und Einlassung
+# Beweis und Einlassung im Strafbefehlsverfahren
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill gehört zum freistehenden Plugin **Strafbefehl-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Was bestreitet der Mandant?** — Tathandlung, Fahrereigenschaft, Vorsatz, Schuld? Klare Abgrenzung der streitigen Punkte.
+2. **Aktenlage:** Welche Beweismittel hat die Staatsanwaltschaft — Zeugen, Messgeraet, Video, Gestaendnis im Anhoerungsbogen?
+3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhoerungsverfahren oder Vernehmung koennen belastend sein.
+4. **Anhoerungsbogen ausgefuellt oder unterschrieben?** — Nur schriftliche Bekanntgabe, kein Gestaendnis; Unterschrift kann als Einraeuming der Fahrereigenschaft ausgelegt werden.
+5. **Dauer der Hauptverhandlung und Ressourcen des Mandanten** — Einlassung mit Kostenpruefung abstimmen.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 136 StPO** — Schweigrecht; Belehrung vor jeder Vernehmung
+- **§ 136a StPO** — Verbotene Vernehmungsmethoden; Verstoss = absolutes Beweisverwertungsverbot
+- **§ 163a StPO** — Vernehmung des Beschuldigten durch die Polizei; Belehrungspflicht
+- **§ 244 StPO** — Beweisantragsrecht; Gericht muss jeden Beweisantrag bescheiden
+- **§ 257c StPO** — Verstaendigung (Deal); auch im vereinfachten Verfahren moeglich
+- **§ 46 StGB** — Strafzumessung; Gestaendnis als Milderungsgrund
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Aktenlage, Zeugen, Urkunden, Video, Chat, DNA, Blut, Foto und Polizeivermerk auswerten.
-2. Einlassung nur formulieren, wenn sie beweisfest, mandantentreu und prozessual sinnvoll ist.
-3. Alternativen: Schweigen, Teileinlassung, Schutzbehauptungsrisiko, Wiedergutmachung, Entschuldigung.
-4. Ausgabe: Einlassungsoptionen mit Risiko.
+- BGH, Beschl. v. 25.01.2022 - 1 StR 431/21, NStZ 2022, 318 — Schweigen des Beschuldigten darf nicht zu seinem Nachteil verwertet werden; keine Schlussfolgerungen aus dem Schweigen auf Schuldbewusstsein.
+- BGH, Urt. v. 09.02.2021 - 6 StR 411/20, NJW 2021, 1156 — Beweisverwertungsverbot nach § 136a StPO setzt qualifizierte Rechtsverletzung voraus; Taeusching durch Polizeibeamten genuegt; Verbot gilt unabhaengig von der Revisionsbeschraenkung.
+- BGH, Beschl. v. 15.06.2021 - 3 StR 112/21, NStZ 2022, 46 — Gestaendnis das auf Falschbelehrung beruht unterliegt Verwertungsverbot nach § 136a StPO Abs. 3; nicht heilbar durch spaetere ordnungsgemaesse Belehrung wenn erster Aussageentschluss unter Taeuscheeinfluss stand.
+- BVerfG, Beschl. v. 07.12.2011 - 2 BvR 2500/09, NJW 2012, 907 — Recht auf ein faires Verfahren (Art. 6 EMRK, Art. 2 Abs. 1 GG) schliesst das Recht ein, die Belastungszeugen zu befragen; Verletzung wenn Hauptbelastungszeuge einzige Beweisgrundlage ist und nicht befragt werden kann.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- Meyer-Gossner/Schmitt StPO § 136 Rn. 1-30 (Schweigerecht, Belehrung)
+- Meyer-Gossner/Schmitt StPO § 136a Rn. 1-25 (Verbotene Vernehmungsmethoden)
+- Fischer StGB § 46 Rn. 30-45 (Gestaendnis als Strafzumessungsfaktor)
+- Schoenke/Schroeder/Kinzig StGB § 46 Rn. 20-40 (Schuld und Strafzumessung)
 
-## Ausgabeformat
+## Entscheidungsbaum Einlassungsstrategie
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+```
+Mandant bestreitet Tat?
+├─ Ja, substantiiert (Alibi, Messversagen, Fahreridentitaet)
+│   ├─ Schweigen bis Hauptverhandlung empfehlen
+│   ├─ Beweisantraege vorbereiten (§ 244 StPO)
+│   └─ Einlassung in HV formulieren
+├─ Nein, Tat anerkannt, nur Strafmass angreifbar
+│   ├─ Gestaendnis-Strategie: frueh und glaubhaft (§ 46 Abs. 2 StGB)
+│   ├─ Wiedergutmachung als Milderungsgrund (§ 46a StGB)
+│   └─ § 153a-Antrag bei Staatsanwaltschaft pruefen
+└─ Fahrereigenschaft bestreitbar
+    ├─ Lichtbildabgleich anfordern
+    ├─ Keine Aussagen zur Fahreridentifikation
+    └─ Beweisantrag auf Sachverstaendigen fuer Lichtbild-Identifikation
+
+Anhoerungsbogen ausgefuellt?
+├─ Nein → gut; Schweigen weiter empfehlen bis Akteneinsicht
+├─ Ja, Tat zugegeben → Gestaendnis-Wert pruefen fuer § 153a oder Strafmassreduzierung
+└─ Ja, Einwaende gemacht → auf diese aufbauen, widerspruchsfrei vertiefen
+```
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Akteneinsicht anfordern** (§ 147 StPO) — Basis fuer jede Einlassungsstrategie.
+2. **Beweislage analysieren:** Welche Beweismittel hat die Anklage? Sind sie verwertbar (Belehrungsfehler, § 136a-Verstoss)?
+3. **Mandantengespraech: Sachverhaltsschilderung vollstaendig aufnehmen** — ohne Bewertung, nur erfassen.
+4. **Strategie festlegen** (s. Entscheidungsbaum) — schriftlich dokumentieren, Mandant ueber Risiken aufklaeren.
+5. **Einlassung formulieren oder Schweigen anordnen** — bei Schweigen Mandanten anweisen, keine Angaben gegenueber Polizei/Staatsanwaltschaft zu machen.
+6. **Beweisantraege formulieren** (§ 244 StPO) — konkret: Beweisthema und Beweismittel benennen.
+7. **Wenn Gestaendnis:** Timing und Umfang mit Mandant absprechen; Gestaendnis in HV fruehzeitig abgeben fuer optimalen Strafzumessungseffekt.
+
+## Output-Template Einlassungsschreiben
+
+**Adressat:** Gericht — Tonfall: sachlich-juristisch
+
+```
+In der Strafsache gegen [NAME MANDANT]
+Az.: [AKTENZEICHEN]
+
+Einlassung zur Sache
+
+Namens und im Auftrag des Angeklagten erklaere ich wie folgt:
+
+[Variante A — Bestreiten:]
+Der Angeklagte bestreitet die ihm zur Last gelegte Tat.
+[Sachverhaltsschilderung aus Mandantenperspektive]
+
+[Variante B — Gestaendnis:]
+Der Angeklagte gibt zu, [Sachverhalt] getan zu haben.
+Er bedauert dies aufrichtig und hat [Wiedergutmachungshandlung]
+vorgenommen.
+
+Strafmildernd ist zu beruecksichtigen:
+- Ersttatveraechtigter / kein Vorregister
+- [Weitere Umstaende]
+```
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Keine Einlassung vor vollstaendiger Akteneinsicht.
+- Schweigrecht nach § 136 StPO ausueben bis Aktenlage klar ist.
+- Gestaendnis nur nach Mandantenruecksprache und Aufklaerung ueber Tragweite.
+- Beweisverwertungsverbote aktiv pruefen — Fehler der Ermittlungsbehoerden nicht verschenken.
+- Anwaltliche Endkontrolle bei jedem Schritt.

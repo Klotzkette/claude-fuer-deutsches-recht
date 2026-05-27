@@ -1,6 +1,6 @@
 ---
 name: common-law-surety-guarantee-indemnity
-description: "Unterscheidet Bürgschaft, Garantie, suretyship, guarantee, indemnity, primary obligation und accessory liability sauber."
+description: "Anwalt prueft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Pruefraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfehlung. Abgrenzung zu common-law-representations-warranties-covenants (Vertragsklauseln) und common-law-remedies-damages-equity (Rechtsfolgen)."
 ---
 
 # Surety, Guarantee und Indemnity
@@ -47,3 +47,53 @@ Akzessorische Sicherheit, selbständige Zahlungspflicht, indemnity und support l
 ## Ton
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Triage
+
+Before proceeding, clarify:
+1. Is it a guarantee (secondary obligation — only liability if principal fails) or indemnity (primary, independent obligation)?
+2. UK or US context — different rules on writing requirements and discharge?
+3. Is the guarantee being altered/discharged by variation of principal debt?
+
+## Key Case Law
+
+- **Holme v Brunskill** (1878) 3 QBD 495 (CA) — Guarantee discharge by material variation: any variation in principal contract without guarantor's consent discharges guarantor unless variation is evidently insubstantial or beneficial.
+- **Moschi v Lep Air Services** [1973] AC 331 (HL) — Distinction guarantee/indemnity: indemnor is primarily liable independent of principal; guarantor liable only if principal defaults; indemnity survives variation of principal contract.
+- **Trafalgar House v General Surety** [1996] AC 199 (HL) — Demand guarantee: on-demand bonds are payable on demand without proof of default; court will not inquire into underlying dispute.
+- **Marubeni Hong Kong v Mongolian Government** [2005] 1 WLR 2497 (CA) — State guarantee interpretation: same principles as commercial; clear words needed to override Holme v Brunskill rule for state guarantees.
+
+## Normen und Quellen
+
+- **UK:** Statute of Frauds 1677 s 4 (guarantee in writing); Misrepresentation Act 1967
+- **US:** UCC § 3-419 (accommodation party); Restatement (Third) Suretyship and Guaranty (1996)
+- Andrews & Millett, Law of Guarantees (8th ed. 2020)
+
+## Output Template: Guarantee / Indemnity Classification
+
+```
+GUARANTEE / INDEMNITY REVIEW
+Date: [DATE] — Instrument: [DESCRIPTION]
+Jurisdiction: [England/Wales / New York]
+
+1. CLASSIFICATION
+   [ ] Guarantee: secondary liability; principal must default first
+   [ ] On-demand bond: payable on demand; no proof of default required
+   [ ] Indemnity: primary independent liability; variation does not discharge
+
+2. FORMAL REQUIREMENTS
+   UK: Writing under Statute of Frauds 1677 s 4: [YES — signed / NO — invalid]
+   US: Statute of Frauds applicable state: [YES / NO]
+
+3. DISCHARGE RISKS (Holme v Brunskill)
+   Material variation without consent: [YES — RISK / NO]
+   Extension of time to principal: [YES — RISK if no reservation of rights / NO]
+   Release of co-guarantor: [YES — RISK / NO]
+   Reservation of rights clause present: [YES / NO — ADD]
+
+4. DEMAND REQUIREMENTS
+   Notice required: [YES — [X] business days / NO — on demand]
+   Conforming demand: [documentary requirements met?]
+
+5. RECOMMENDED ACTION
+[...]
+```

@@ -182,3 +182,14 @@ befinden sich in der Referenz-Skill `interne-untersuchung` — diese vor
 inhaltlicher Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Ergänzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 22.09.2016 — 2 AZR 848/15**, NZA 2017, 112 — Verwertbarkeit von Erkenntnissen aus interner Untersuchung im Kündigungsschutzprozess; Beweisverwertungsverbot greift nicht, wenn die Erkenntnisgewinnung verhältnismäßig war und datenschutzkonform erfolgte.
+- **BAG, Urt. v. 20.10.2016 — 2 AZR 395/15**, NZA 2017, 443 — Abgrenzung dringender Tatverdacht von bloßem Anfangsverdacht; für die Verdachtskündigung ist eine belastbare Indizienkette erforderlich, nicht nur eine bloße Möglichkeit der Täterschaft; Protokollabfragen müssen diesen Schwellenwert dokumentieren.
+
+## Triage — vor der Protokollabfrage klären
+
+1. Welche Art der Abfrage ist gewünscht (Sachverhalts-, Widerspruchs-, Deckungsabfrage oder Stärkeabfrage)?
+2. Ist eine Kündigung in der Schwebe? → Dann Reife-Abfrage nach § 626 BGB-Schwellenwert
+3. Liegt ein AGG-relevanter Sachverhalt vor? → Besondere Sorgfalt bei § 22 AGG-Beweislast

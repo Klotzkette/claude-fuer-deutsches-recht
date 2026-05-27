@@ -1,6 +1,6 @@
 ---
 name: beschluss-bauen-zpo
-description: "Erstellt Beschluesse fuer das Zivilverfahren: PKH-Beschluss Streitwertbeschluss Beweisbeschluss Hinweisbeschluss Paragraf 139 ZPO Kostenfestsetzungsbeschluss Saeumnisbeschluss Erledigungsbeschluss Vergleichsfeststellung. Unterschied zum Urteil. Form Tenor knappe Begruendung Rechtsmittelbelehrung. Mit Tenor-Bausteinen Beispielsformulierungen typischen Fehlern."
+description: "Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Pruefraster: Unterschied Beschluss/Urteil (Begruendungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begruendung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgruende-zivil-schreiben; Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit."
 ---
 
 # Beschluss bauen — Zivilprozess

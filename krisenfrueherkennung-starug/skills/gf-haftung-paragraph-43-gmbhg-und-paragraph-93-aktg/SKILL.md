@@ -1,6 +1,6 @@
 ---
 name: gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg
-description: "Persönliche Geschäftsführerhaftung bei Krisenversagen: § 43 GmbHG, § 93 AktG, Business Judgment Rule in der Krise, Beweislastumkehr nach § 93 Abs. 2 S. 2 AktG, Subsidiarität StaRUG/InsO, Enthaftungsstrategien."
+description: "Geschaeftsfuehrerhaftung bei Krisenversagen pruefe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Pruefraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschaeftsfuehrung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Geschäftsführerhaftung — § 43 GmbHG und § 93 AktG in der Krise
@@ -17,7 +17,7 @@ Die persönliche Haftung des Geschäftsführers ist kein theoretisches Konstrukt
 - § 15a InsO (Insolvenzantragspflicht)
 - § 15b InsO (Zahlungsverbote nach Insolvenzreife)
 - § 1 StaRUG (Krisenfrüherkennungspflicht)
-- BGH II ZR 88/13 (GmbH-Geschäftsführerhaftung, Zahlungen nach Insolvenzreife)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (GmbH-Geschäftsführerhaftung, Zahlungen nach Insolvenzreife)
 - BGH II ZR 234/17 (Haftung bei Verletzung der Überwachungspflicht)
 - BGH IX ZR 285/14 (Sorgfaltspflicht, Sanierungsberatung)
 - IDW S 6 (Sanierungskonzepte)
@@ -52,7 +52,7 @@ Die Business Judgment Rule (§ 93 Abs. 1 S. 2 AktG, GmbH analog) schützt den Ge
 
 § 93 Abs. 2 S. 2 AktG enthält eine der empfindlichsten Regelungen des deutschen Gesellschaftsrechts: **Im Haftungsprozess muss das Vorstandsmitglied beweisen, dass es die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters angewendet hat.**
 
-Diese Beweislastumkehr gilt analog für GmbH-Geschäftsführer (BGH II ZR 88/13) und hat praktische Konsequenzen von erheblichem Gewicht:
+Diese Beweislastumkehr gilt analog für GmbH-Geschäftsführer (BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264)) und hat praktische Konsequenzen von erheblichem Gewicht:
 
 - Wer keine Protokolle führt, kann seine Pflichterfüllung nicht beweisen.
 - Wer keine Liquiditätsplanung vorhält, kann nicht nachweisen, dass er § 1 StaRUG erfüllt hat.
@@ -194,3 +194,12 @@ Unterschriften aller Gesellschafter: _______________________
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — § 15a InsO
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierungspflichten
 - → `fortbestehensprognose-zweistufig` — IDW S 11 als Enthaftungsanker
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

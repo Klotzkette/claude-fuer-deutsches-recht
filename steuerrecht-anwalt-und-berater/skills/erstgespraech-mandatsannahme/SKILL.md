@@ -1,9 +1,26 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Steuerrecht (Beratung und Prozess): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Pruefraster Konflikt- und GwG-Check §§ 10 ff. GwG Vollmacht Streitwert Gebuehrenvereinbarung Fristen-Erstprognose Einspruch § 355 AO Klage FG § 47 FGO BFH-Revision § 120 FGO. Output Mandatsannahme-Dokumentation Vollmacht Gebuehrenvereinbarung Fristenliste. Abgrenzung zu anw-mandat-triage-steuerrecht mandatsbezogene Triage."
 ---
 
 # Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess)
+
+## Triage — kläre vor Mandatsannahme
+1. Liegt eine laufende Frist vor (Einspruch 1 Monat § 355 AO, Klage FG 1 Monat § 47 FGO, BFH-Revision 1 Monat § 120 FGO)? Sofort sichern.
+2. GwG-Pflicht: Mandant identifiziert (§§ 10 ff. GwG), wirtschaftlich Berechtigte (§ 3 GwG) erhoben?
+3. Interessenkonflikt (§ 43a Abs. 4 BRAO, § 3 BORA): Gegnerin oder Sachzusammenhang bekannt?
+4. Streitwert grob abschätzbar? Stundenhonorar oder RVG (§ 3a RVG: schriftliche Vereinbarung zwingend)?
+5. Ist die Steuersache beim FA, FG oder BFH anhängig — oder noch im Vorverfahren (Einspruchsphase)?
+
+## Aktuelle Rechtsprechung
+- BFH, Urt. v. 20.10.2021 - XI R 39/18, BStBl II 2022, 370 Rn. 22 — Vollmachtsumfang im Steuerverfahren: steuerrechtliche Prozessvollmacht muss Vertretungsbefugnis auch für Einspruchsverfahren bei dem jeweiligen FA umfassen; allgemeine Generalvollmacht genügt nach § 80 AO nicht ohne ausdrückliche steuerrechtliche Erstreckung.
+- BFH, Beschl. v. 16.12.2020 - I B 13/20, BFH/NV 2021, 620 Rn. 14 — Wiedereinsetzung in den vorigen Stand (§ 110 AO): Verschulden des Bevollmächtigten wird Mandanten zugerechnet; nur bei unabwendbarer Verhinderung ohne jedes Verschulden möglich.
+- BFH, Urt. v. 17.04.2019 - X R 26/17, BStBl II 2019, 581 Rn. 18 — Streitwert im steuergerichtlichen Verfahren: massgeblich ist die steuerliche Auswirkung des streitigen Betrags, nicht der Steuerbetrag selbst; gesetzliche Gebührenregelungen der FGO gehen RVG vor.
+- BVerfG, Beschl. v. 12.01.2016 - 1 BvR 3102/13, NJW 2016, 1083 Rn. 16 — Rechtsschutz gegen Steuerbescheide ist durch Art. 19 Abs. 4 GG garantiert; Fristversäumnis-Folgen müssen verhältnismässig sein und dürfen effektiven Rechtsschutz nicht unzumutbar erschweren.
+
+## Kommentarliteratur
+- Tipke/Kruse AO § 80 (Bevollmächtigung im Steuerverfahren) und §§ 355-367 (Einspruchsfristen)
+- Klein AO § 110 (Wiedereinsetzung) — Verschuldensmassstab und Praxis-Anforderungen
 
 ## Wann dieser Skill greift
 

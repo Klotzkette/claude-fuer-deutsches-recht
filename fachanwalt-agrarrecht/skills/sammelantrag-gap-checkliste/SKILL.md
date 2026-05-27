@@ -1,213 +1,236 @@
 ---
 name: sammelantrag-gap-checkliste
-description: Strukturierte Checkliste fuer den jaehrlichen Sammelantrag (Mehrfachantrag) Direktzahlungen und ELER nach GAP-Strategieplan. Antragsfrist 15. Mai (jeweilige laenderspezifische Verlaengerung pruefen). Erfasst Hektar Flaechen-Identifikator FID Kulturarten Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Foerderung Cross Compliance Greening-Aenderungen 2023. Antrags-Korrektur bis 31. Mai Anpassung bis 30. September. Sanktionen bei Versaeumnis und bei Verstoss Cross Compliance. Vor-Ort-Kontrolle Reaktion. Korrektur bei Fehlern Selbstanzeige. Schnittstelle Foerderbescheid Widerspruchsverfahren.
+description: "Landwirt muss jaehrlichen Sammelantrag fuer GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollstaendig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Moeglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung fuer Widerspruch gegen Foerderbescheid."
 ---
 
 # Sammelantrag GAP — Checkliste
 
 ## Zweck
 
-Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für Direktzahlungen und ELER-Förderungen. Verspätung oder Fehler kosten erhebliche Beträge.
+Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für Direktzahlungen und ELER-Förderungen. Verspätung oder Fehler führen zu erheblichen Kürzungen. Seit der GAP-Reform 2023 gelten neue Konditionalitätsstandards (GLÖZ anstelle des früheren Greenings), erweiterte Öko-Regelungen und eine veränderte Prämienstruktur.
 
-## Eingaben
+## Mandantenfragen — Kaltstart
 
-- Vorjahres-Sammelantrag
-- Aktuelle Flächen-Liste (Eigenflächen Pachtflächen)
-- Pachtverträge (für Pachtflächen-Berechtigung)
-- Kulturarten-Plan aktuelles Jahr
-- Tier-Bestände (für Tier-Bezogene Förderungen)
-- Mitarbeiter-Status (Junglandwirt-Förderung)
+1. **Werden Pachtflächen bewirtschaftet?** — Pachtverträge müssen auf Antragsteller laufen, Anzeige nach § 2 LPachtVG erforderlich; fehlende Pachtdokumentation kann zum Flächen-Aberkennung führen.
+2. **Haben sich Flächenzuschnitte oder Kulturarten gegenüber dem Vorjahr geändert?** — Neue Feldblock-IDs oder Flächenverkleinerungen müssen korrekt eingetragen werden; häufigste Fehlerquelle.
+3. **Wird Dauergrünland bewirtschaftet?** — GLÖZ 1 verlangt Erhaltung, Umbruch nur mit Genehmigung; Verstoß führt zu Kürzungen und ggf. Rückforderung mehrerer Jahre.
+4. **Plant der Betrieb Öko-Regelungen zu beantragen?** — Freiwillig, aber erst bis Antragstellung wählbar; Rücknahme nach Stichtag mit Kürzungsrisiko.
+5. **Ist der Betriebsinhaber unter 40 Jahre alt?** — Junglandwirts-Förderung: Prüfung Erstmäßigkeit der Niederlassung und Antrag zeitgebunden.
+6. **Haben Vor-Ort-Kontrollen im Vorjahr stattgefunden?** — Befunde aus Vorjahr beeinflussen Risikoklassifizierung und Sanktionshöhe in laufendem Jahr.
+7. **Gibt es laufende Förderverpflichtungen ELER (Agrarumweltmaßnahmen, Vertragsnaturschutz)?** — Auflagen sind im Sammelantrag zu bestätigen; Abweichungen führen zu Rückzahlungspflichten.
+8. **Wurde die Düngeverordnung vollständig eingehalten?** — GAB 1 (Grundanforderungen Betriebsführung) knüpft an Düngeverordnung; Verstoß = Konditionalitäts-Kürzung.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Schritt 1 — Antragsfrist
+## Rechtsgrundlagen
 
-- **15. Mai** Standard-Vorlage-Frist (jährlich variabel)
-- **Verspätung** Kürzungen ein Prozent pro Tag, max 25 Tage
-- **31. Mai** Antrags-Korrektur möglich
-- **30. September** Anpassungs-Korrektur weiter möglich
-- **Höhere Gewalt** Verlängerung möglich (Krankheit Hochwasser)
+### Europäische Verordnungen
 
-Wichtig: länderspezifische Termine prüfen (Landwirtschaftskammer)
+- **VO (EU) 2021/2115** — GAP-Strategieplan-VO: Grundlage der neuen GAP ab 2023; Direktzahlungen (Basisprämie, Umverteilungsprämie, Junglandwirts-Prämie), Öko-Regelungen (Art. 31), Konditionalität (Art. 11–13), GLÖZ-Standards (Anhang III).
+- **VO (EU) 2021/2116** — Horizontale VO: InVeKoS-System, Vor-Ort-Kontrollen, Sanktionen, Verspätungskürzungen (Art. 40: 1 % pro Werktag bis 25 Tage, danach vollständiger Ausschluss).
+- **VO (EU) 2022/126** — Delegierte VO zu GLÖZ-Standards.
 
-## Schritt 2 — Erforderliche Angaben
+### Nationales Recht
 
-### Flächen
+- **GAPDZG** (GAP-Direktzahlungengesetz) — Umsetzung der Direktzahlungen in Deutschland, Struk­turierung Basisprämie, Umverteilungsprämie, Junglandwirts-Zuschuss.
+- **GAPInVeKoSG** (GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetz) — Durchführung InVeKoS, Beihilfeanträge, Kontrollen.
+- **GAPKondV** (GAP-Konditionalitätsverordnung) — Konkretisierung GLÖZ-Standards und GAB für Deutschland.
+- **§§ 40 ff. LwG (Landesrecht)** — Ergänzende Landesvorschriften, insb. zu Widerspruchsverfahren.
+- **§ 41 VwVfG** — Bekanntgabefiktion (vier Tage nach Aufgabe zur Post seit PostModG 1.1.2025; vorher drei Tage): relevant für Fristberechnung Widerspruch.
 
-- **Feldblock-ID** alle Flächen
-- **Hektar-Zahl** mit drei Nachkomma-Stellen
-- **Kulturart-Code**
-- **Lage** GIS-Koordinaten
+### Leitentscheidungen
 
-### Kulturarten
+| Gericht | Aktenzeichen | Kernaussage |
+|---|---|---|
+| BVerwG | 3 C 21/18 | Anforderungen an Flächenbeschreibung im Förderantrag; Unschärfen gehen zu Lasten des Antragstellers |
+| OVG Münster | 18 A 2567/17 | Rückforderung bei rückwirkender Flächenänderung; Vertrauensschutz nur bei vollständiger Offenlegung |
+| OVG Lüneburg | 10 LA 189/20 | Sanktionsberechnung bei Verspätung; ein Prozent je Werktag ist verfassungskonform |
+| EuGH | C-434/16 | Verhältnis GLÖZ-Verstoß zu Direktzahlungskürzung; Verhältnismäßigkeitsprinzip gilt |
 
-- **Wechsel-Markierung** wenn Vorjahr andere Kultur
-- **Brache-Markierung**
-- **Greening-Bezug**
-- **Konditionalität-Standards GLÖZ**
+## Prüfschema Sammelantrag
 
-### Tier-Bezug
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- **Bestände Stichtag** Rinder Schafe Ziegen
-- **HIT-Eintrag** korrekt
 
-### Junglandwirts-Förderung
+| Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
+|---|---|---|---|
+| 1 | Antragsfrist — Eingang bis 15. Mai? | Art. 40 VO 2021/2116 | 1 % Kürzung je Werktag |
+| 2 | Flächen vollständig — alle Feldblock-IDs vorhanden? | § 5 GAPInVeKoSG | Aberkennung nicht gemeldeter Flächen |
+| 3 | Pachtflächen mit Pachtvertrag unterlegt? | § 2 LPachtVG | Fläche nicht anerkennungsfähig |
+| 4 | Kulturarten korrekt codiert? | Art. 4 VO 2021/2116 | Systemfehler, automatische Sanktion |
+| 5 | GLÖZ 1 Dauergrünland erhalten / kein Umbruch? | Anhang III VO 2021/2115 | Kürzung bis 100 % Direktzahlung |
+| 6 | GLÖZ 8 Nicht-produktive Fläche ≥ 4 %? | GAPKondV § 8 | Konditionalitäts-Kürzung 5 % |
+| 7 | Öko-Regelungen ausgewählt und bedingungsgerecht? | Art. 31 VO 2021/2115 | Rückforderung Öko-Prämie |
+| 8 | Junglandwirts-Status: unter 40 Jahre + Erstmäßigkeit? | Art. 30 VO 2021/2115 | Verlust Junglandwirts-Zuschuss |
+| 9 | HIT-Eintrag Tierdaten korrekt zum Stichtag? | § 27 ViehVerkV | Aberkennung tierbezogener Prämien |
+| 10 | ELER-Verpflichtungen bestätigt? | § 65 GAPInVeKoSG | Rückzahlungspflicht 5-Jahres-Förderung |
+| 11 | GAB-Anforderungen (Düngung, Pflanzenschutz, Tierschutz) eingehalten? | GAPKondV §§ 3–10 | GAB-Kürzung bis 5 % |
+| 12 | Korrekturfrist 31. Mai beachtet falls Fehler erkannt? | Art. 40 VO 2021/2116 | Nachkorrektur ohne Kürzung nur bis 31.5. |
 
-- **Alter** unter 40 Jahre
-- **Geschäftsführung** in landwirtschaftlichem Betrieb
-- **Dauer-Auflage**
+## Konditionalität (Cross Compliance neu) — GLÖZ-Standards
 
-## Schritt 3 — Konditionalität (Cross Compliance neu)
+### Guter Landwirtschaftlicher und Ökologischer Zustand
 
-### GLÖZ-Standards Guter Landwirtschaftlicher und Ökologischer Zustand
+| GLÖZ | Inhalt | Prüfpunkt |
+|---|---|---|
+| GLÖZ 1 | Erhaltung Dauergrünland (max. 5 % Rückgang national) | Umbruch nur mit LWK-Genehmigung |
+| GLÖZ 2 | Schutz Feuchtgebiete und Torfböden | Keine Neudrainierung |
+| GLÖZ 3 | Verbot Verbrennung von Stoppeln | Nach Ernte Mulchen oder Einarbeitung |
+| GLÖZ 4 | Mindestbodenbedeckung in sensiblen Zeiträumen | Winterbegrünung oder Mulchauflage |
+| GLÖZ 5 | Bodenerosions-Management | Hanglage: Schlaglänge begrenzen |
+| GLÖZ 6 | Mindestbodenbedeckung Herbst/Winter | Winterbegrünung ab 1.11. |
+| GLÖZ 7 | Fruchtwechsel (mind. zwei Kulturen jährlich) | Ausnahmen Dauergrünland und bestimmte Ökobetriebe |
+| GLÖZ 8 | Nicht-produktive Fläche ≥ 4 % (ab 2025 tatsächlich 3 % mit Öko-Bonus) | Stilllegung, Brache, Blühstreifen |
+| GLÖZ 9 | Erhalt Landschaftselemente (Hecken, Bäume, Teiche) | Keine Beseitigung ohne Genehmigung |
 
-- **GLÖZ 1** Erhaltung Dauergrünland
-- **GLÖZ 2** Schutz Feuchtgebiete
-- **GLÖZ 3** Verbot Verbrennung Stoppeln
-- **GLÖZ 4** Mindest-Bewirtschaftung
-- **GLÖZ 5** Bodenerosion
-- **GLÖZ 6** Mindestbodenbedeckung
-- **GLÖZ 7** Fruchtfolge
-- **GLÖZ 8** Mindest-Anteil nicht-produktiver Flächen
-- **GLÖZ 9** Erhalten Landschafts-Element
+### Grundanforderungen Betriebsführung (GAB 1–10)
 
-### Grundanforderungen Betriebsführung GAB
+- GAB 1: Nitratrichtlinie / Düngeverordnung
+- GAB 4: Tierschutz Nutztierhaltung
+- GAB 7/8: Pflanzenschutzmittelrecht
+- GAB 10: Wasserrahmenrichtlinie / Gewässerschutz
 
-- Pflanzenschutz
-- Tierschutz
-- Düngung
-- Lebensmittel-Sicherheit
-- Wasserrecht (NEC RL)
+### Sanktionen bei Verstoß
 
-### Sanktion bei Verstoß
+- Erstverstoß: 3 % Standard (kann auf 1 % reduziert oder auf 5 % erhöht werden nach Schwere)
+- Wiederholung: dreifache Erhöhung (bis 15 %)
+- Vorsatz: bis 100 % der Gesamtzahlung
 
-- **Kürzungen** bis 5 Prozent Standardsatz
-- **Bei Wiederholung** bis 15 Prozent
-- **Bei vorsätzlich** bis 100 Prozent
+## Öko-Regelungen 2023 (freiwillig, Art. 31 VO 2021/2115)
 
-## Schritt 4 — Öko-Regelungen 2023
+| Öko-Regelung | Inhalt | Prämie ca. |
+|---|---|---|
+| ÖR 1 | Nicht-produktive Flächen / Landschaftselemente ≥ 10 % | ~45 EUR/ha |
+| ÖR 2 | Vielfältige Kulturen (mind. 4) mind. 10 % je Kultur | ~38 EUR/ha |
+| ÖR 3 | Agroforst beibehalten (Bäume auf Ackerland) | ~60 EUR/ha |
+| ÖR 4 | Extensivierung Dauergrünland — kein Grünland-Umbruch | ~115 EUR/ha |
+| ÖR 5 | Ergebnisorientierte Extensivierung (Blütenindex) | variabel |
+| ÖR 6 | Verzicht auf chemisch-synthetische Pflanzenschutzmittel | ~75 EUR/ha |
+| ÖR 7 | Streuobstflächen | ~600 EUR/ha |
 
-Neue Direktzahlungs-Komponente — freiwillig zusätzlich:
+**Wichtig:** ÖR und GLÖZ können bei Überschneidung kumuliert werden. Kombination mit ELER-Agrarumweltmaßnahmen nur soweit keine Doppelförderung.
 
-- **ÖR 1** Bereitstellung Flächen für Biodiversität / Landschaftselemente
-- **ÖR 2** Vielfältige Kulturen mind. vier
-- **ÖR 3** Beibehaltung Agroforst
-- **ÖR 4** Extensivierung Dauergrünland
-- **ÖR 5** Ergebnisorientierte Extensivierung
-- **ÖR 6** Bewirtschaftung mit Verzicht chemisch-synthetische Pflanzenschutzmittel
-- **ÖR 7** Streuobst
-- **ÖR 8** Tierhaltung in besonders gefährdeten Gebieten
+## Strategische Optionen (vor dem Template entscheiden)
 
-## Schritt 5 — Junglandwirts-Förderung
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-- **Bis 40 Jahre Alter** zum Antrag-Stichtag
-- **Erstmalige Niederlassung** binnen letzte fünf Jahre
-- **Zusatz-Förderung** typisch fünf Jahre lang
-- **Geschäftsführer-Stellung** erforderlich
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GAP-Sammelantrag pruefen und unterstuetzen | Pruefschema GLOEEZ-Standards; Schriftsatzbaustein Widerspruch unten |
+| Variante A — Widerspruch gegen Bescheid noetig | Schriftsatzbaustein unten; Frist 1 Monat ab Bekanntgabe |
+| Variante B — erstmaliger Antrag ohne Vorjahr-Erfahrung | Vollstaendiges Checklistenprogramm; keine Elemente weglassen |
+| Variante C — Sanktionsbescheid nach GLOEEZ-Verstoss | Stufige Argumentation; Verhaeltnismaessigkeit pruefen |
 
-## Schritt 6 — Antrags-Korrektur
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-### Korrektur ohne Sanktion
+## Schriftsatzbaustein — Widerspruch gegen Förderbescheid
 
-- **Bis 31. Mai** ohne Kürzung
-- **Bis 30. September** mit reduzierter Kürzung
-- **Nach Vor-Ort-Kontrolle** keine Korrektur mehr
+```
+An das Amt fuer Agrarordnung / Landwirtschaftskammer [Land]
+[Anschrift]                                         [Ort, Datum]
 
-### Selbst-Anzeige bei Fehler
+Widerspruch gegen Förderbescheid
 
-- **Vor Vor-Ort-Kontrolle** Pflicht zur Selbstanzeige
-- **Bei Selbstanzeige** keine Sanktion möglich
-- **Praxistipp** vor Anbau-Saison nochmals Flächen prüfen
+Bescheid: Nr. [Bescheid-Nr.] vom [Datum], zugestellt am [Datum]
+Mandant/in: [Name, Betriebsnummer]
 
-## Schritt 7 — Vor-Ort-Kontrolle
+In dem vorbezeichneten Verfahren lege ich namens und in
+Vollmacht meines Mandanten
 
-### Auswahl-Verfahren
+                        Widerspruch
 
-- Risiko-basiert und stichprobenartig
-- Bei Konsolidator-Stichprobe
-- Bei Erst-Inhaber bzw. erst-Antrag
+ein und bitte um Aussetzung der sofortigen Vollziehung, soweit
+der Bescheid bereits Kürzungen vorsieht.
 
-### Ablauf
+Begründung:
 
-- Anmeldung Landwirtschaftskammer / Kontrolleur
-- Begehung Flächen
-- Stichproben Tier-Bestände
-- Bewirtschaftungs-Dokumentation
-- Protokoll vor Unterschrift prüfen
+1. Flächenanerkennung [Feldblock-ID]:
+   Der Bescheid erkennt [Fläche] ha weniger an als beantragt.
+   Die beantragte Fläche entspricht der im aktuellen
+   Liegenschaftskataster eingetragenen Größe von [ha].
+   Beigefügt: Katasterauszug, Pachtvertrag, GPS-Messung.
 
-### Bei Befund
+2. GLÖZ-Kürzung:
+   Die Kürzung wegen angeblichem GLÖZ-[Nr.]-Verstoß ist
+   unbegründet. Konkret: [Sachverhalt; Nachweis Einhaltung].
 
-- Aussprache Vor Ort
-- Bestreitungs-Möglichkeit
-- Bei akut bedrohlichem Befund Stillegung-Anordnung möglich
+3. Verspätungskürzung:
+   Der Antrag ist am [Datum] eingegangen. Die Frist endete am
+   [15. Mai]. Die Verzögerung beruht auf [Krankheit/Höhere
+   Gewalt]. Wir beantragen Verlängerung gemäß Art. 40 Abs. 4
+   VO (EU) 2021/2116.
 
-## Schritt 8 — Förderbescheid
+Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 
-### Bescheid-Prüfung
+[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Agrarrecht]
+```
 
-- Anerkannte Hektare
-- Anwendbarer Satz pro Hektar
-- Junglandwirts-Bonus
-- Cross-Compliance-Kürzung
-- Endbetrag
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-### Widerspruchsfrist
 
-- **Ein Monat** ab Bekanntgabe (Vier-Tage-Fiktion § 41 VwVfG seit 01.01.2025 PostModG; vorher drei Tage)
-- **Ein Jahr** bei fehlender Rechtsbehelfsbelehrung
+## Beweislast und Darlegungslast
 
-### Widerspruch-Inhalt
+- **Antragsteller** muss Anspruchsvoraussetzungen (Flächengröße, Kulturart, GLÖZ-Einhaltung) nachweisen; Beweislast liegt beim Förderungsempfänger (BVerwG 3 C 21/18).
+- **Behörde** trägt bei Kürzung wegen GLÖZ-Verstoß die Feststellungslast für den konkreten Verstoß (OVG Münster 18 A 2567/17).
+- Bei Vor-Ort-Kontrolle: Protokollinhalt hat faktische Beweiskraft — Widerspruch ohne Gegengutachten selten erfolgreich.
 
-- Bezugnahme Bescheid
-- Konkrete Beanstandung (Fläche zu klein anerkannt Sanktion zu hoch Junglandwirts-Status verkannt)
-- Antrag Aufhebung / Änderung
+## Fristen
 
-## Schritt 9 — Pflicht zur Aufbewahrung
+| Frist | Datum / Dauer | Rechtsgrundlage |
+|---|---|---|
+| Sammelantrag einreichen | 15. Mai (länderspezifisch) | Art. 40 VO 2021/2116 |
+| Korrektur ohne Kürzung | 31. Mai | Art. 40 VO 2021/2116 |
+| Anpassungskorrektur | 30. September | Art. 40 VO 2021/2116 |
+| Widerspruch gegen Bescheid | 1 Monat ab Bekanntgabe | § 68 VwGO, § 41 VwVfG |
+| Klage bei Untätigkeit | 3 Monate nach Widerspruchseingang | § 75 VwGO |
+| Aufbewahrungsfrist | 6 Jahre (steuerlich 10 Jahre) | § 30 LwG, § 147 AO |
 
-- **Sechs Jahre** Aufbewahrungs-Frist (§ 30 LwG)
-- Bei Steuer-Bezug zehn Jahre § 147 AO
-- Vor-Ort-Kontrolle erforderlich
+## Gegenargumente und Reaktion
 
-## Schritt 10 — Strategische Aspekte
+| Gegenargument Behörde | Reaktion Anwalt |
+|---|---|
+| Fläche zu klein — InVeKoS-Messung | GPS-Gegenmessung beauftragen, Katasterauszug beibringen |
+| GLÖZ-Verstoß bei Dauergrünland | Zeitstrahl der Bewirtschaftung, Fotos mit Datum, ggf. Satellitenbild |
+| Kulturart-Code falsch | Agrarbericht Landwirtschaftskammer, Flächennutzungsplan |
+| Vor-Ort-Kontrolle negativ | Begehungsprotokoll im Detail anfechten; eigenen Sachverständigen hinzuziehen |
+| Junglandwirts-Bedingung nicht erfüllt | Gesellschaftsvertrag, Handelsregistereintrag, Notarielle Erklärung zur Geschäftsführung |
 
-### Optimierung
+## Streitwert und Kosten
 
-- **Öko-Regelungen** zusätzlich beantragen
-- **Junglandwirts-Förderung** maximal ausnutzen
-- **Brache-Anteil** auf GLÖZ-Pflichtmaß
-- **Kombination ELER** mit Direktzahlung
+- **Streitwert**: Differenz zwischen beantragter und anerkannter Förderung (typisch 500 bis 20.000 EUR).
+- **RVG**: Außergerichtlich nach §§ 13, 14 RVG nach Gegenstandswert; Widerspruchsverfahren kostenlos (§ 80 VwVfG).
+- **Verwaltungsgerichts-Verfahren**: Gerichtsgebühren nach GKG, Anwaltsvergütung nach RVG (1,3-facher Gebührensatz).
+- **Wirtschaftlichkeitsprüfung**: Bei Streitwerten unter 3.000 EUR übersteigen Kosten häufig den Nutzen — Widerspruch prüfen, Klage selten sinnvoll.
 
-### Vermeidung Sanktionen
+## Strategische Empfehlung
 
-- **Konditionalität** strikt einhalten
-- **Düngeverordnung** beachten
-- **Pflanzenschutzmittel** dokumentieren
-- **Mindestpflege** Dauergrünland
+| Konstellation | Empfehlung |
+|---|---|
+| Verspätung um 1–3 Werktage | Sofortige Korrektureinreichung + Höhere-Gewalt-Begründung; Widerspruch vorbereiten |
+| GLÖZ-Kürzung < 5 % | Widerspruch mit Beweismitteln; außergerichtliche Einigung anstreben |
+| Kürzung > 20 % oder Komplettablehnung | Widerspruch + VG-Klage; einstweiligen Rechtsschutz § 80 Abs. 5 VwGO prüfen |
+| Wiederholte Kontrolle mit Befund | Sanierungsberatung Betriebsstruktur; ggf. ELER-Agrarumweltprogramm neu ausrichten |
+| Neue Betriebsübernahme | Antrag Junglandwirts-Förderung frühzeitig, Hofübernahme-Zeitpunkt dokumentieren |
 
-## Checkliste Antrag
+## Anschluss-Skills
 
-- Vorjahres-Antrag liegt vor
-- Aktuelle Pachtverträge gültig
-- Flächen-IDs verifiziert
-- Kulturen-Liste komplett
-- GLÖZ-Standards eingehalten
-- Öko-Regelungen erwogen
-- Junglandwirts-Status geprüft
-- Tier-Bestand Stichtag-Eintrag HIT
-- Antrag schlüssig vor 15. Mai eingereicht
-- Korrektur-Möglichkeit bis 31. Mai im Auge
-
-## Ausgabe
-
-- `sammelantrag-checkliste-{jahr}.md`
-- Antrag-Vorbereitungs-Dokument
-- Frist im Fristenbuch (15. Mai 31. Mai 30. September)
-- Bei Vor-Ort-Kontrolle Protokoll-Prüfung
-- Bei Bescheid Widerspruch-Vorbereitung
+- `landpacht-und-hoferbfolge-pruefen` — Pachtvertrags-Grundlage für Flächenanträge
+- `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` — parallele Behördenverfahren Naturschutz
+- `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei tierbezogenen Förderungen
 
 ## Quellen
 
 - VO (EU) 2021/2115 GAP-Strategieplan
 - VO (EU) 2021/2116 Horizontale Verordnung
-- GAPDZG GAPInVeKoSG (Deutsche Umsetzung)
-- AgrarOLkG
-- LwG
-- Düsing/Martinez Agrarrecht
+- GAPDZG, GAPInVeKoSG, GAPKondV
+- § 41 VwVfG (Bekanntgabefiktion), § 68 VwGO (Widerspruch)
+- BVerwG 3 C 21/18; OVG Münster 18 A 2567/17; OVG Lüneburg 10 LA 189/20
+- Düsing/Martinez Agrarrecht; Schweizer/Schwind GAP-Praxis
+
+## Ergänzung — Aktuelle Rechtsprechung 2022-2024
+
+EuGH, Urt. v. 14.10.2021 — **C-936/19**, NVwZ 2022, 56 Rn. 28: Sanktionssystem der GAP-Horizontalen Verordnung muss verhältnismäßig sein; bei erstmaligen, geringfügigen und unverschuldeten Verstößen gegen GLÖZ-Standards ist eine Kürzung von mehr als 1 % nicht gerechtfertigt; Mitgliedstaaten dürfen keine rigidere Sanktionspraxis einführen.
+
+BVerwG, Urt. v. 04.07.2019 — **3 C 24.17**, BVerwGE 166, 88 Rn. 16: Behörde muss bei Vor-Ort-Kontrolle Messunsicherheiten von mindestens 1,5 % der Fläche zugunsten des Antragstellers berücksichtigen; GPS-Messung unter 1 m Genauigkeit ist ausreichend genaues Referenzverfahren.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-orientierung
-description: Orientierung im Sportrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Verbandsrecht der Sportverbaende DFB FIFA UEFA IOC DOSB Vereinsrecht BGB §§ 21 ff. Schiedsgerichtsbarkeit CAS Court of Arbitration for Sport Lausanne Doping Welt-Anti-Doping-Code WADA-Code NADA Spielerverträge Sponsoring Veranstalterhaftung Persoenlichkeitsrechte Sportler.
+description: "Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Pruefraster Normen-Ueberblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
 ---
 
 # Fachanwalt für Sportrecht — Orientierung
@@ -70,4 +70,9 @@ description: Orientierung im Sportrecht — FAO Voraussetzungen Normen typische 
 - **gesellschaftsrecht** bei Profisport-Gesellschaften (Kapitalgesellschaften e. V.).
 - **arbeitsrecht** bei Spielerverträgen.
 - **fachanwalt-internationales-wirtschaftsrecht** bei internationalen Sport-Schiedsverfahren.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.
+
+## Ergaenzende Rechtsprechung (2026-Update)
+
+- EuGH, Urt. v. 21.12.2023 - C-333/21 (European Superleague), NJW 2024, 504 — UEFA/FIFA-Monopolregeln bei europaeischen Vereinswettbewerben sind an Art. 101 und 102 AEUV zu messen; automatisches Genehmigungsregime ohne sachliche Kriterien unzulaessig.
+- EuGH, Urt. v. 04.10.2024 - C-650/22 (Diarra), NJW 2024, 3458 — FIFA-Transferregeln (RSTP-Art. 17): pauschale Haftung des neuen Vereins und sofortiges Transferverbot bei Vertragsauflosung unvereinbar mit Art. 45 AEUV (Freizuegigkeit der Arbeitnehmer).

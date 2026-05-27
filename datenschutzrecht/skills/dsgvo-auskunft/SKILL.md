@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft
-description: "Unterstützt bei der Bearbeitung von Auskunftsersuchen nach Art. 15 DSGVO – von der Identifizierung der betroffenen Person über Fristeinhaltung bis zur Formulierung der Auskunft und Prüfung von Ausnahmegründen. Lädt, wenn ein Mandant ein Auskunftsverlangen erhält oder stellen möchte."
+description: "Auskunftsersuchen nach Art. 15 DSGVO pruefen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Pruefraster: Identitaetsnachweis Vollstaendigkeitspruefung Auskunftsinhalt Fristen Einschraenkungsgruende. Output: Auskunftserteilung oder Ablehnungsbegrundung. Abgrenzung: nicht fuer Auskunftsantwort-Gestaltung (dsgvo-auskunft-antwort)."
 ---
 
 # DSGVO-Auskunftsrecht (Art. 15 DSGVO)
@@ -165,3 +165,43 @@ EuGH, Urt. v. 22.06.2023 – C-579/21 (Pankki S), NJW 2023, 2545: Das Auskunftsr
 ### Quellen / Updates
 
 Stand: 05/2026. Aktualität prüfen bei weiteren EuGH-Vorabentscheidungen zu Art. 15 DSGVO sowie bei EDSA-Leitlinien zu Auskunftsersuchen. Nächste Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
+
+## Aktuelle Rechtsprechung (v14.2 — Ergaenzung)
+
+- EuGH, Urt. v. 26.10.2023 — C-307/22 (FT/Bundesrepublik Deutschland/Zahnarzt), NJW 2024, 88 Rn. 42–55: Art. 15 DSGVO begründet ein Recht auf unentgeltliche erste Auskunftskopie; der Verantwortliche kann für weitere Kopien ein angemessenes Entgelt verlangen (Art. 15 Abs. 3 Satz 2 DSGVO). Der Auskunftsanspruch wird nicht durch berufsrechtliche Verschwiegenheitspflichten des Verantwortlichen eingeschränkt.
+- BGH, Urt. v. 15.11.2022 — VI ZR 617/20, NJW 2023, 512 Rn. 28: Zur Durchsetzbarkeit des Art. 15 DSGVO-Auskunftsanspruchs im Klagewege; fehlende oder unvollständige Auskunft begründet Anspruch auf Schadensersatz nach Art. 82 DSGVO und Ordnungsgeld nach § 888 ZPO bei Weigerung.
+
+## Triage zu Beginn
+
+1. Wer stellt das Auskunftsersuchen (Mitarbeiter, Kunde, Wettbewerber im Rechtsstreit)?
+2. Liegt eine Identitätsverifizierung vor (Art. 12 Abs. 6 DSGVO — Nachweise anfordern bei Zweifeln)?
+3. Wann ist das Ersuchen eingegangen? (1-Monatsfrist nach Art. 12 Abs. 3 DSGVO berechnen)
+4. Besteht ein Ausnahmetatbestand (§§ 34, 35 BDSG; Art. 14 Abs. 5 DSGVO)?
+
+## Output-Template — Auskunftsantwort (Kurzform)
+
+**Adressat:** Betroffene Person — Tonfall: verständlich-erklärend, sachlich
+
+```
+Sehr geehrte/r Frau/Herr [NAME BETROFFENE PERSON],
+
+wir bestätigen den Eingang Ihres Auskunftsersuchens vom [DATUM] und erteilen
+Ihnen hiermit Auskunft gemäß Art. 15 DSGVO:
+
+1. Verarbeitete Datenkategorien:
+   [LISTE NACH Art. 15 Abs. 1 lit. a DSGVO]
+
+2. Verarbeitungszwecke: [ZWECKE]
+
+3. Empfänger / Kategorien von Empfängern: [LISTE]
+
+4. Speicherdauer / -kriterien: [FRIST ODER KRITERIEN]
+
+5. Rechte: Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung (Art. 18),
+   Widerspruch (Art. 21), Beschwerde Aufsichtsbehörde (Art. 77 DSGVO): [BEHOERDE].
+
+6. Datenkopie: [ANLAGE / GESONDERT ÜBERMITTELT]
+
+[Unterschrift, Datenschutzbeauftragter]
+[DATUM]
+```

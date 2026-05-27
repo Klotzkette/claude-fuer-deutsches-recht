@@ -1,6 +1,6 @@
 ---
 name: dsfa-erstellung
-description: "Datenschutz-Folgenabschätzung (DSFA) nach Art. 35 DSGVO erstellen: Schwellwertanalyse, BfDI-Blacklist-/Whitelist-Abgleich, strukturierte DSFA im eigenen Hausformat. Auslöser: Neues Verarbeitungsvorhaben, Systemeinführung, oder Ergebnis aus anwendungsfall-triage."
+description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchfuehren wenn hohes Risiko fuer Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Pruefraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhaeltnismaessigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht fuer regulaere Verarbeitungen ohne hohes Risiko."
 ---
 
 # DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO
@@ -101,6 +101,19 @@ Verbindlich nach `../../references/zitierweise.md`.
 - Klabunde, in: Simitis/Hornung/Spiecker, Datenschutzrecht, 1. Aufl. 2019, Art. 35 Rn. 1 ff.
 - Schulze, in: BeckOK DSGVO, 16. Ed. (Stand 01.11.2024), Art. 35 Rn. 1 ff.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — DSFA fuer neue Verarbeitung durchfuehren | Schwellenwertanalyse und vollstaendige DSFA nach Template unten |
+| Variante A — Verarbeitung schon laeuft ohne DSFA | Nachtraegliche DSFA; Massnahmen-Umsetzungsplan erstellen |
+| Variante B — Ergebnis der DSFA negativ (hohes Restrisiko) | Verarbeitung anpassen oder Aufsichtsbehoerde konsultieren |
+| Variante C — DSFA fuer mehrere aehnliche Verarbeitungen | Muster-DSFA-Dokument erstellen; individuell anpassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Ausgabeformat
 
 DSFA im Hausformat (aus Referenz-DSFA in `CLAUDE.md`) oder, falls nicht verfügbar, folgendes Standardformat:
@@ -144,3 +157,55 @@ Stand: 05/2026. Aktualität prüfen bei EDSA-Aktualisierungen der Leitlinien 09/
 - `datenschutzrecht/skills/anwendungsfall-triage/SKILL.md` — Vorgelagerte DSFA-Pflichtprüfung
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — TIA als Bestandteil der DSFA bei Drittlandbezug
 - `datenschutzrecht/skills/datenpanne-meldung/SKILL.md` — Vorab-Konsultation Art. 36 DSGVO nach negativer DSFA
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44–55: Für Art. 82 DSGVO-Schadensersatz ist konkreter Schaden erforderlich; eine unzureichende DSFA (oder fehlende DSFA) begründet jedoch einen eigenständigen Verstoß nach Art. 83 Abs. 4 DSGVO.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55–79: Risikobewertung muss tatsächlich und konkret sein; pauschalierte DSFA ohne Einzelfallbewertung genügt Art. 35 DSGVO nicht; EDSA-Leitlinien 09/2022 sind verbindliche Auslegungshilfe.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: Zur DSFA-Pflicht bei KI-gestützten Entscheidungssystemen; neue Technologien nach Art. 35 Abs. 1 DSGVO iVm EDSA-Kriterien lösen regelmäßig DSFA-Pflicht aus.
+
+## Triage zu Beginn
+
+1. Liegt bereits ein Ergebnis aus `anwendungsfall-triage` vor (DSFA PFLICHT)?
+2. Welche EDSA-Kriterien sind erfüllt? (Mindestens 2 für DSFA-Pflicht)
+3. Ist die Verarbeitung auf der BfDI-Blacklist?
+4. Gibt es ein Hausformat in CLAUDE.md?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template — DSFA-Zusammenfassung
+
+**Adressat:** DSB / Geschäftsführung / Aufsichtsbehörde — Tonfall: sachlich-juristisch
+
+```
+DSFA-Zusammenfassung [DATUM]
+Verarbeitungsvorgang: [BEZEICHNUNG]
+Verantwortlicher: [NAME]
+
+Schwellwertanalyse: DSFA erforderlich: JA / NEIN
+EDSA-Kriterien erfüllt: [X] von 9 ([LISTE])
+BfDI-Blacklist: ja / nein
+
+Rechtsgrundlage: Art. [X] DSGVO [§ BDSG]
+Datenkategorien: [LISTE]
+Betroffene: [GRUPPEN]
+
+Risikobewertung (Vor Massnahmen):
+- Wahrscheinlichkeit: hoch / mittel / gering
+- Schwere: hoch / mittel / gering
+- Gesamtrisiko: HOCH / MITTEL / GERING
+
+Vorgesehene Massnahmen: [LISTE]
+
+Restrisiko (Nach Massnahmen): AKZEPTABEL / NICHT AKZEPTABEL
+
+Entscheidung: Freigabe / Vorab-Konsultation Art. 36 DSGVO erforderlich
+Genehmigende Person: [NAME, FUNKTION]
+Datum: [DATUM]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

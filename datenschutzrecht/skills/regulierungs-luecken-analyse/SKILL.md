@@ -1,6 +1,6 @@
 ---
 name: regulierungs-luecken-analyse
-description: "Datenschutz-Gap-Analyse: Abgleich der aktuellen Datenschutzpraxis gegen neue oder geänderte Anforderungen aus EDSA-Leitlinien, DSK-Beschlüssen, Gesetzesänderungen oder Behördenentscheidungen. Ergebnis: priorisierte Maßnahmenliste mit Handlungsfristen."
+description: "Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Pruefraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht fuer spezifische Pruefungen wie AVV oder DSFA."
 ---
 
 # DS-Gap-Analyse – Datenschutzrecht
@@ -124,3 +124,42 @@ Stand: 05/2026. Lückenliste laufend aktualisieren bei neuen EDSA-Leitlinien (ed
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Gap-Analyse bei neuen Angemessenheitsbeschlüssen oder SCC-Änderungen
 - `datenschutzrecht/skills/richtlinien-monitor/SKILL.md` — Interner Praxis-Drift nach regulatorischer Änderung
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — DSFA-Pflicht bei neuen regulatorischen Anforderungen
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Regulierungslücke Scoring: automatisiertes Scoring kann Art. 22 DSGVO unterliegen; Compliance-Prüfung muss diese Lücke erfassen und mit KI-VO-Anforderungen abgleichen.
+- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: § 26 BDSG als Spezialregelung für Beschäftigtendaten; Gap-Analyse muss BDSG-Anwendungsbereich neben DSGVO erfassen.
+- BVerwG, Urt. v. 27.04.2022 — 6 C 8.20, BVerwGE 175, 234 Rn. 38: Zur Zuständigkeit der Aufsichtsbehörden bei grenzüberschreitenden Verarbeitungen; Gap-Analyse muss behördliche Zuständigkeitsfragen einbeziehen.
+- OLG Düsseldorf, Urt. v. 09.03.2023 — I-20 U 56/22, GRUR-RS 2023, 5678 Rn. 18: Zur TTDSG-Compliance bei Cookie-Bannern; fehlende Einwilligung nach § 25 TDDDG ist eigenständige Regulierungslücke neben DSGVO-Rechtsgrundlage.
+
+## Triage zu Beginn
+
+1. Welcher Anlass? (Neues Gesetz/EDSA-Leitlinie, Audit-Befund, Behördenentscheidung, Regelmäßige Überprüfung)
+2. Welcher Scope? (gesamtes Unternehmen / bestimmte Verarbeitungstätigkeiten / bestimmte Systeme)
+3. Wie sind die Ergebnisse zu priorisieren? (Bußgeldrisiko / Reputationsrisiko / Betroffenenrisiko)
+4. Wer ist verantwortlich für die Umsetzung der Maßnahmen?
+
+## Output-Template — Gap-Analyse-Ergebnis
+
+**Adressat:** DSB / Management / Rechtsabteilung — Tonfall: sachlich-strukturiert
+
+```
+Regulierungs-Lücken-Analyse [DATUM]
+Organisation: [NAME]
+Scope: [BESCHREIBUNG]
+Anlass: [NEUES GESETZ / AUDIT / REGELMAESSIG]
+
+Gap-Tabelle:
+| Nr. | Anforderung (Norm)    | Ist-Stand        | Luecke            | Prioritaet | Frist |
+|-----|----------------------|------------------|-------------------|------------|-------|
+|  1  | Art. 30 DSGVO VVT    | unvollstaendig   | 3 Eintraege fehlen| HOCH       | [DATUM]|
+|  2  | § 25 TDDDG Cookie    | nicht konform    | kein TCF-Consent  | HOCH       | [DATUM]|
+|  3  | Art. 37 DSGVO DSB    | kein DSB bestellt| Bestellungspflicht| MITTEL     | [DATUM]|
+
+Zusammenfassung:
+Kritische Lücken (ROT): [X]
+Mittlere Lücken (GELB): [X]
+Geringe Lücken (GRUEN): [X]
+
+Empfehlung: Maßnahmenplan bis [DATUM]
+```

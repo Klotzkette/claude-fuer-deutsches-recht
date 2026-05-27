@@ -1,62 +1,85 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Marken-, Patent-, Design- und Wettbewerbsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Streit im gewerblichen Rechtsschutz durch Vergleich loesen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht fuer WIPO-Schiedsverfahren."
 ---
 
 # Vergleichsverhandlung und Einigung im Marken-, Patent-, Design- und Wettbewerbsrecht
 
-## Wann dieser Skill greift
+## Triage zu Beginn
 
-- Sachverhalte aus dem Bereich Marken-, Patent-, Design- und Wettbewerbsrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
-- Typische Konstellationen: Abschlusserklaerung, Lizenzvereinbarung, Koexistenzvereinbarung.
-- Sowohl in der aussergerichtlichen Phase (vor Klage) als auch im laufenden Prozess (Gueteverhandlung, Hauptverhandlung).
+1. Sind Vergleichsverhandlungen **taktisch opportun**? Kosten-Nutzen-Analyse: Prozesskosten vs. Vergleichszahlung.
+2. Was ist die **BATNA** beider Seiten? Welchen Ausgang haette ein streitiges Verfahren?
+3. Welche **Interessen** hat die Gegenseite jenseits der rechtlichen Position? (Liquiditaet, Reputation, Vertraulichkeit)
+4. Liegt ein **laufendes Verfahren** vor? Dann: Gueteverhandlung, Hauptverhandlung oder aussergerichtlich?
+5. Besteht ein **Vollstreckungstitel-Beduerfnis**? Anwaltsvergleich § 796a ZPO oder Prozessvergleich § 794 ZPO.
+
+## Zentrale Normen und Paragrafenkette
+
+- § 794 Abs. 1 Nr. 1 ZPO — Prozessvergleich als Vollstreckungstitel
+- § 796a ZPO — Anwaltsvergleich als Vollstreckungstitel
+- §§ 339-345 BGB — Vertragsstrafe
+- § 14 Abs. 6 MarkenG — Schadensersatz (Lizenzanalogie, Verletzergewinn, konkreter Schaden)
+- § 97 Abs. 2 UrhG — Schadensersatz lizenzanalog
+- § 9 UWG — Schadensersatz bei UWG-Verstoß
+- § 242 BGB — Treuwidrigkeitspruefu ng bei Abgeltungsklausel
+
+## Zentrale Rechtsprechung
+
+- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 35 – Goldbaerenbarren: Lizenzanaloger Schadensersatz bei Markenverletzung richtet sich nach dem, was verstaendige Parteien als Verguetung vereinbart haetten; bei Markenabmahnung Referenzlizenzrate verhandeln.
+- BGH, Urt. v. 14.01.2016 – I ZR 65/14, GRUR 2016, 399 Rn. 23: Lizenzanalogie bei Markenverletzung erfordert konkrete Feststellung der ueblichen Lizenzrate; Parteien koennen im Vergleich eine Pauschalzahlung als Abgeltung vereinbaren.
+- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 44 – Energieeffizienzklasse III: Missbrauchliche Abmahnung nach § 8c UWG schuetzt Abgemahnten; bei begrundetem Missbrauchsverdacht kann Vergleich zu deutlich reduzierten Konditionen angestrebt werden.
+- OLG Hamburg, Urt. v. 09.06.2022 – 5 U 4/21, GRUR-RS 2022, 17892 Rn. 44: Anti-Hammer-Klausel in der Unterlassungserklaerung — Vertragsstrafe nur bei rechtskraeftiger Feststellung der Pflichtverletzung — ist wirksam und branchenublich.
+- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 22 – Wagenfeld-Leuchte: Lizenzanaloger Schadensersatz bei Urheberverletzung erfordert Schaetzung nach § 287 ZPO; typischerweise 100-300 % Aufschlag auf uebliche Lizenz bei bewusster Verletzung.
 
 ## Vorbereitung der Verhandlung
 
 ### 1. BATNA und ZOPA bestimmen
 
-- **BATNA** (Best Alternative to Negotiated Agreement): Was passiert, wenn wir uns nicht einigen? Kosten- und Zeit-Prognose Prozess, Erfolgsaussichten-Quote, Vollstreckungsrisiko.
+- **BATNA** (Best Alternative to Negotiated Agreement): Was passiert wenn wir uns nicht einigen? Kosten- und Zeit-Prognose Prozess, Erfolgsaussichten-Quote, Vollstreckungsrisiko.
 - **WATNA** (Worst Alternative): schlimmster denkbarer Verlauf bei Klage/Klageabweisung.
 - **Reservation Price** auf eigener Seite: untere Grenze der Akzeptanz.
 - **ZOPA** (Zone of Possible Agreement): geschaetzte Schnittmenge zwischen eigener Reservation und der vermuteten Reservation der Gegenseite.
 
 ### 2. Interessen vs. Positionen
 
-Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sondern Interessen ("Ich brauche bis Jahresende Liquiditaet"). In Marken-, Patent-, Design- und Wettbewerbsrecht typische Interessen-Cluster:
+In Marken-, Patent-, Design- und Wettbewerbsrecht typische Interessen-Cluster:
 
 - Liquiditaet (Sofort-Zahlung vs. Ratenzahlung)
-- Reputation (Gegnerin will keinen Prozess mit Pressewirkung)
-- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschaeftspartner)
-- Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung, USt-Frage)
+- Reputation (Gegenseite will keinen Prozess mit Pressewirkung)
+- Zukunfts-Beziehung (Distributionspartner, Lizenzgeber)
+- Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung)
 - Vertraulichkeit (NDA im Vergleich)
 
-### 3. Druckmittel und Hebel
+## Schritt-fuer-Schritt-Workflow
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
-- Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
-- Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
-- Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
+```
+Schritt 1: Analyse BATNA und ZOPA
+  → Prozessprognose erstellen (Erfolgswahrscheinlichkeit, Kosten, Dauer)
+  → Vergleichszahlung gegen Prozesskostenprognose stellen
 
-## Ablauf der Verhandlung
+Schritt 2: Verhandlungs-Einstieg
+  → Anker setzen: erste Position hoeher als Zielwert, aber begruendbar
+  → Mit konkreten Normen verknuepfen (BGH-Leitentscheidungen nennen)
 
-### Eroeffnung
+Schritt 3: Konzessionsphase
+  → Kleine, begruendete Schritte nachgeben
+  → Jede Konzession an Gegenleistung knuepfen
+  → Konzessionen abnehmend (nicht linear)
 
-- Anker setzen: erste Zahl/Position deutlich hoeher als Reservation, aber begruendbar.
-- Begruendung mit konkreten Positionen aus MarkenG, UWG, PatG, GeschmMG, DesignG, UrhG, GeschGehG, GMV/UMV verknuepfen.
+Schritt 4: Modifizierte UE oder Vergleichssumme
+  → Anti-Hammer-Klausel einbauen
+  → Abgeltungsklausel-Reichweite klaeren (eng / mittel / weit)
 
-### Konzessionsphase
+Schritt 5: Vergleichsvertrag entwerfen
+  → Praeambel, Hauptregelung, Faelligkeit, Sicherheiten
+  → Vollstreckungstitel-Ersatz vereinbaren (§ 796a ZPO)
 
-- In kleinen, begruendeten Schritten nachgeben.
-- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann koennen wir Y").
-- Konzessionsmuster nicht linear (sonst extrapolierbar) sondern abnehmend.
+Schritt 6: Mandantenfreigabe vor Unterzeichnung
+  → Schriftliche Zustimmung Mandant
+  → Steuer- und Vollstreckungs-Memo beifuegen
+```
 
-### Endspiel
-
-- Abschluss aktiv herbeifuehren ("Sind wir bei 47.500 dann durch?").
-- Schweige-Pausen aushalten.
-- Nachverhandlungs-Versuche der Gegenseite ("ein letztes Detail noch") freundlich, aber bestimmt zurueckweisen, wenn Substanz steht.
-
-## Vergleichsentwurf - Pflichtbestandteile
+## Vergleichsentwurf — Pflichtbestandteile
 
 ### Bei aussergerichtlichem Vergleich
 
@@ -65,93 +88,104 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 3. **Faelligkeit** und Verzinsung.
 4. **Sicherheiten** (Buergschaft, Hinterlegung, Sicherungsabtretung).
 5. **Erfuellung gegen Erledigung:** keine Aufrechnung, Ratenausfall = Sofortfaelligkeit.
-6. **Abgeltungs-/Vorbehaltsklausel:** "Mit diesem Vergleich sind alle wechselseitigen Anspruche aus dem zugrundeliegenden Sachverhalt abgegolten."
+6. **Abgeltungsklausel:** "Mit diesem Vergleich sind alle wechselseitigen Ansprueche aus dem zugrundeliegenden Sachverhalt abgegolten." (Reichweite beachten!)
 7. **Verschwiegenheit** (wenn von einer Partei gewuenscht).
 8. **Steuerliche Behandlung** ggf. ausdruecklich, sonst Hinweis auf Steuerberatung.
 9. **Salvatorische Klausel und Schriftform.**
-10. **Vollstreckungstitel-Ersatz:** notarielle Beurkundung, Anwaltsvergleich nach § 796a ZPO, oder Schiedsvergleich.
+10. **Vollstreckungstitel-Ersatz:** Anwaltsvergleich § 796a ZPO oder Protokollvergleich.
 
 ### Bei Prozessvergleich
 
 - Protokollvergleich nach § 794 Abs. 1 Nr. 1 ZPO (Vollstreckungstitel kraft Protokollierung).
 - Widerrufsvorbehalt mit klarer Frist.
-- Kostenregelung: ueblich Kostenaufhebung, ggf. Quote.
-- Beteiligung der Streithelfer/Nebenintervenienten beachten.
+- Kostenregelung: ueblicherweise Kostenaufhebung, ggf. Quote.
 
-## Risiken und Stolpersteine im Marken-, Patent-, Design- und Wettbewerbsrecht
+## Kommentarliteratur
 
-- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> MarkenG und ESt-/USt-Regeln pruefen.
-- Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
-- Vollstreckbarkeit: aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Vollstreckungstitel.
-- Verzicht zu weit gefasst: pauschale Abgeltungsklausel kann eigene Ansprueche unbeabsichtigt mit erfassen.
-- Mandanten-Erwartung: Vergleich ist oft Kompromiss - Erwartungsmanagement vor Verhandlung.
+- Koehler/Bornkamm/Feddersen, UWG (Beck) — §§ 8c, 9, 13 UWG (Schadensersatz und Abgeltung)
+- Ingerl/Rohnke, Markengesetz (Beck) — § 14 MarkenG Schadensersatz-Methoden
+- Musielak/Voit, ZPO (Beck) — §§ 794, 796a ZPO (Vollstreckungstitel)
+- Herberger/Martinek/Ruessmann, juris PK BGB (juris) — §§ 339-345 BGB (Vertragsstrafe)
 
-## Pflicht-Output
+## Output-Template Vergleichsvertrag
 
-1. **Verhandlungs-Memo** mit BATNA/WATNA, ZOPA-Schaetzung, Strategie.
-2. **Vergleichsentwurf** (anwaltsvertraglich oder Protokollvergleich-Skript).
-3. **Mandantenfreigabe** vor Unterzeichnung schriftlich.
-4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
-5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
+**Adressat:** beide Parteien — Tonfall sachlich-vertragstechnisch
 
+```
+VERGLEICHSVERTRAG
+(Anwaltsvergleich nach § 796a ZPO)
+
+zwischen:
+[NAME PARTEI A], [ADRESSE]
+— im Folgenden "Partei A" —
+anwaltlich vertreten durch [KANZLEI A]
+
+und:
+
+[NAME PARTEI B], [ADRESSE]
+— im Folgenden "Partei B" —
+anwaltlich vertreten durch [KANZLEI B]
+
+PRAEAMBEL
+Die Parteien streiten ueber [SACHVERHALTS-KURZBESCHREIBUNG]. Zur guetlichen
+Beilegung dieses Streits schliessen die Parteien folgenden Vergleich:
+
+§ 1 Zahlung
+Partei A zahlt an Partei B einen Betrag von [BETRAG] EUR bis spaetestens [DATUM].
+Bei Zahlungsverzug ist der Betrag mit 5 % p.a. ueber dem Basiszinssatz zu verzinsen.
+
+§ 2 Unterlassung
+[Wenn vereinbart: Formulierung der Unterlassungspflicht mit Vertragsstrafe-Klausel]
+Fuer jeden Fall schuldhafter Zuwiderhandlung zahlt Partei A eine Vertragsstrafe
+von [BETRAG] EUR. Anti-Hammer-Klausel: Die Vertragsstrafe ist nur faellig, wenn
+die Pflichtverletzung rechtskraeftig festgestellt ist.
+
+§ 3 Abgeltung
+Mit Erfuellung dieses Vergleichs sind saemtliche wechselseitigen Ansprueche der
+Parteien aus dem in der Praeambel beschriebenen Sachverhalt erledigt.
+
+§ 4 Vertraulichkeit
+[Ggf.: Die Parteien verpflichten sich, ueber den Inhalt dieses Vergleichs
+gegenueber Dritten Stillschweigen zu bewahren.]
+
+§ 5 Kosten
+Jede Partei traegt ihre eigenen Kosten.
+
+§ 6 Vollstreckbarkeit
+Die Parteien beantragen gemeinsam die Bestaetigung der Vollstreckbarkeit
+dieses Anwaltsvergleichs nach § 796a ZPO durch das [GERICHT].
+
+§ 7 Schriftform und Salvatorische Klausel
+[...]
+
+[ORT, DATUM]
+[UNTERSCHRIFTEN BEIDER PARTEIEN]
+[UNTERSCHRIFTEN BEIDER ANWAELTE]
+```
 
 ## Verhandlungs-Skripte
 
-### Skript 1: Eroeffnung mit Ankerwert
+### Eroeffnung mit Ankerwert
 
-> "Wir haben die Sache durchgerechnet. Auf Basis von MarkenG und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, ueber eine Pauschalsumme zu sprechen, die die Sache abschliesst."
+> "Wir haben die Sache durchgerechnet. Auf Basis der BGH-Rechtsprechung zur Lizenzanalogie kommen wir auf [BETRAG] EUR. Wir sind bereit, ueber eine Pauschalsumme zu sprechen."
 
-### Skript 2: Begruendete Konzession
+### Konzession mit Gegenleistung
 
-> "Wir koennen Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
+> "Wir koennen [BETRAG] nachgeben, wenn Sie im Gegenzug die Anti-Hammer-Klausel akzeptieren und die Vertragsstrafe auf [BETRAG] reduzieren."
 
-### Skript 3: Abschluss-Frage
+### Walk-Away-Signal
 
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
+> "Wenn wir uns nicht einigen, reichen wir Klage beim LG [ORT] — Markenkammer — ein. Die Erfolgsaussichten schaetzen wir auf [%]."
 
-### Skript 4: Walk-Away-Signal
+## Fallstricke
 
-> "Wir haben hier eine klare Linie. Wenn Sie nicht ueber die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
-
-## Stoerfeuer und Antwort-Bausteine
-
-- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
-- **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
-
-## Steuerliche Behandlung des Vergleichs
-
-Im Bereich Marken-, Patent-, Design- und Wettbewerbsrecht oft uebersehen:
-
-- Vergleichszahlung als Schadensersatz (in der Regel keine USt, EStG je nach Art).
-- Vergleich ueber Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug pruefen.
-- Vergleichszahlung als Anwaltshonorar -> ggf. USt.
-- Erbrechtliche Abfindung -> ggf. ErbStG.
-- Hinweis im Vergleich: "Die steuerliche Behandlung ist nicht Gegenstand dieser Vereinbarung und obliegt der eigenen Steuerberatung der Parteien."
-
-## Mediation als Alternative
-
-- Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
-- Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
-- Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
-
-## Vollstreckbarkeit
-
-- **Anwaltsvergleich nach § 796a ZPO:** anwaltlich beurkundeter Vergleich, mit Vollstreckungsklausel des Gerichts = Vollstreckungstitel.
-- **Notarieller Vergleich:** als Schuldanerkenntnis mit Vollstreckungsunterwerfung.
-- **Prozessvergleich:** § 794 Abs. 1 Nr. 1 ZPO, sofort vollstreckbar.
-- **Schiedsvergleich:** Vollstreckbarerklaerung nach §§ 1054, 1060 ZPO.
-
-## Vergleichs-Reichweite und Abgeltungsklausel
-
-Klassische Stolperfalle in Marken-, Patent-, Design- und Wettbewerbsrecht:
-
-- **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
-- **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- **Abgeltungsklausel zu weit:** pauschale Erledigung "aller Ansprueche" kann eigene Ansprueche unbeabsichtigt miterfassen.
+- **Keine Vollstreckbarkeit:** aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Titel.
+- **Mandantenzustimmung fehlt:** Vergleich ohne schriftliche Zustimmung ist anwaltliches Risiko.
+- **Steuer uebersehen:** Vergleichszahlung ggf. USt-pflichtig oder lohnsteuerpflichtig je nach Charakter.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` — Erstaufnahme und Streitwertgrundlage
+- `schriftsatzkern-substantiierung` — wenn Vergleich scheitert und Klage noetig
+- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` — WIPO-Mediation bei internationalem Bezug

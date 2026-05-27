@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag
-description: "Kindeswohlgefaehrdung § 1666 BGB Eingriff Sorgerecht durch Familiengericht. Eilanordnung § 49 FamFG einstweilige Anordnung. Jugendamt-Meldung § 8a SGB VIII. Inobhutnahme § 42 SGB VIII. Sorgerecht Teilentzug Aufenthaltsbestimmungsrecht Personensorge. Workflow Beratung Eltern Jugendamt Klage Verteidigung."
+description: "Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Pruefraster: Gefaehrdungsgrad, Eilbeduerftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmaessiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen."
 ---
 
 # Kindeswohlgefährdung — Eilanordnung

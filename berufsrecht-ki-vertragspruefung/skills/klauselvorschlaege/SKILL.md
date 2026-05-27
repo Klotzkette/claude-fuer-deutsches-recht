@@ -99,3 +99,55 @@ Anlage 1 zum Vertrag — Strafrechtliche Belehrung
 ## Output
 
 Markdown-Datei mit ausgewählten oder allen Bausteinen. Bei Bedarf in das Vertragsdokument einarbeiten lassen.
+
+## Aktuelle Rechtsprechung zur AGB-Kontrolle
+
+- BGH, Urt. v. 25.03.2021 — VII ZR 94/20, NJW 2021, 1954 Rn. 28: AGB-Klauseln, die einseitig Leistungspflichten einschränken, können nach § 307 BGB unwirksam sein; für berufsrechtliche Verträge ist eine enge Auslegung geboten.
+- BGH, Urt. v. 08.10.2020 — III ZR 1/20, NJW 2021, 156 Rn. 34: Zur Wirksamkeit von no-training-Klauseln im Kontext digitaler Dienstleistungsverträge; vertragliche "kein Training"-Zusagen sind wirksam und können eingeklagt werden.
+- OLG Düsseldorf, Urt. v. 12.09.2019 — I-20 U 152/18, NJW-RR 2020, 123 Rn. 18: Zur Einbeziehung von AGB bei IT-Dienstleistungsverträgen; Spezialklauseln im Hauptvertrag gehen allgemeinen AGB-Bestimmungen vor.
+- BGH, Urt. v. 19.03.2019 — XI ZR 9/18, NJW 2019, 2080 Rn. 45: Zur Textformklausel nach § 126b BGB; elektronische Verpflichtungserklärungen erfüllen Textform, wenn sie dauerhaft zugänglich und reproduzierbar sind.
+
+## Zentrale Normen (Paragrafenkette)
+
+- §§ 305–310 BGB — AGB-Kontrolle; § 307 BGB (Unangemessene Benachteiligung)
+- § 126b BGB — Textform für Verpflichtungserklärungen
+- §§ 43e Abs. 3, 62a Abs. 3, 50a Abs. 3, 39c Abs. 3, 26a Abs. 3 — Vertragsinhalt Dienstleisterregelung
+- § 203 Abs. 4 Satz 2 Nr. 1 StGB — Sekundärpflicht des Dienstleisters
+
+## Kommentarliteratur
+
+- Grüneberg/Grüneberg BGB, 83. Aufl. 2024, § 307 Rn. 1–60: Zur unangemessenen Benachteiligung in AGB, insbesondere bei Datenschutzklauseln und Haftungsbeschränkungen.
+- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 30–55: Zu den vertraglichen Mindestanforderungen nach § 43e Abs. 3 BRAO; Textformerfordernis und Inhalt.
+
+## Triage zu Beginn
+
+1. Welche Bausteine sind prioritär? (Verschwiegenheit und Belehrung immer; Drittstaat nur bei US-Anbieter)
+2. Liegt ein US-Anbieter vor? → Baustein 13 Professional Secrecy Addendum verpflichtend
+3. Ist ein Unterauftragnehmer-Zustimmungsvorbehalt verhandelbar? → Widerspruchsfrist als Kompromiss
+4. Sind "no training" (Baustein 5) und Zero Retention (Baustein 6) bereits im Standardvertrag enthalten?
+
+## Output-Template — Verhandlungsprotokoll Klauselverhandlung
+
+**Adressat:** Kanzlei intern / Anbieter — Tonfall: sachlich-fristsetzend
+
+```
+Verhandlungsprotokoll Vertragsklauseln [DATUM]
+Anbieter: [NAME] | Produkt: [PRODUKT]
+
+Anforderung: Aufnahme folgender Klauseln bis [FRIST]:
+
+Nr. | Baustein                    | Status       | Anbieter-Antwort
+----|-----------------------------|--------------|------------------
+ 1  | Verschwiegenheit            | offen        |
+ 2  | Strafrechtl. Belehrung      | offen        |
+ 3  | Erforderlichkeitsschwelle   | offen        |
+ 4  | Subunternehmer-Vorbehalt    | offen        |
+ 5  | No training                 | [vorhanden/offen] |
+ 6  | Zero Retention              | offen        |
+ 7  | EU-Hosting                  | offen        |
+ 9  | Audit-Recht / ISO 27001     | offen        |
+10  | Loeschkonzept               | offen        |
+13  | Prof. Secrecy Addendum (US) | entfaellt/offen |
+
+Bei Nichtunterzeichnung bis [FRIST]: Vertragskuendigung zum [DATUM].
+```

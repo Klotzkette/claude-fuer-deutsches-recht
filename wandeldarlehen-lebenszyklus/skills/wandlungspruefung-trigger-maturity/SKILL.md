@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-maturity
-description: "Pruefung ob Ablauf der Festen Laufzeit (Maturity) als Wandlungsausloeser eingetreten ist und kein qualifying event zuvor eingetreten ist. Wandlung auf Basis Fall-back-Bewertung. Default-Bewertung falls keine vereinbart. Wahlrecht Lender zwischen Wandlung und Faelligstellung bei vorangegangenem Liquidationsereignis."
+description: "Wandlung bei Laufzeitablauf des Wandeldarlehens pruefen wenn kein qualifiziertes Finanzierungsereignis eingetreten ist. §§ 488 ff. BGB Faelligkeit. Pruefraster: Laufzeitenddatum Wandlungsrecht Wandlungspflicht Rueckzahlungsalternative Preisbestimmung. Output: Pruefprotokoll Handlungsempfehlung. Abgrenzung: nicht fuer Qualified-Financing-Trigger (wandlungspruefung-trigger-qualified-financing)."
 ---
 
 # Wandlungsprüfung – Trigger Maturity (Laufzeitablauf)
@@ -84,3 +84,15 @@ Nach Wandlungserklärung: Gesellschaft beruft Gesellschafterversammlung ein (§ 
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 29.01.2015 — **IX ZR 279/13**, NJW 2015, 1181 Rn. 18: Fälligkeit bei Maturity des Wandeldarlehens tritt mit Ablauf der Laufzeit ein; der Darlehensgeber kann zwischen Rückzahlung und Wandlung wählen; entscheidet er sich für Wandlung und die Gesellschaft ist insolvent, wandelt sich sein Anspruch in eine nachrangige Forderung (§ 39 InsO).
+
+BGH, Urt. v. 07.03.2013 — **IX ZR 7/12**, BGHZ 196, 363 Rn. 20: Rückzahlung bei Maturity innerhalb des Anfechtungszeitraums (1 Jahr § 135 Abs. 1 InsO bei Gesellschafterdarlehen) ist anfechtbar; Wandlung bei Maturity ist vorzuziehen, da sie keine Rückzahlung darstellt und damit nicht der Insolvenzanfechtung nach § 135 InsO unterliegt.
+
+### Normen-Ergänzung
+
+§§ 488 ff. BGB (Fälligkeit bei Maturity) → §§ 135, 143 InsO (Anfechtung Rückzahlung Gesellschafterdarlehen) → § 39 InsO (Nachrang bei Wandlung nach Insolvenz) → § 315 BGB (Wahlrecht des Darlehensgebers bei Maturity) → §§ 55, 56 GmbHG (Kapitalerhöhung nach Wandlungsausübung)

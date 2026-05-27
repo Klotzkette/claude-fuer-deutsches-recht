@@ -1,6 +1,6 @@
 ---
 name: messe-verletzung-und-gv-einsatz
-description: "Markenverletzung auf Messen (Pitti Uomo/Berlin Fashion Week): Eilantrag §§ 935/940 ZPO, einstweilige Verfuegung, Schutzschrift, Gerichtsvollzieher-Sicherstellung, Auskunftsanspruch § 19 MarkenG, Vernichtungsanspruch § 18 MarkenG. Laedt, wenn der Nutzer 'Messe Verletzung', 'GV Sicherstellung', 'einstweilige Verfuegung Marke', 'Schutzschrift' oder 'Pitti Uomo Abmahnung' sagt."
+description: "Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Pruefraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Aussergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon."
 ---
 
 # Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz
@@ -136,3 +136,20 @@ IV.  GLAUBHAFTMACHUNG
 - **Schutzschrift des Gegners:** Donauzon könnte vorab Schutzschrift hinterlegt haben → ZSSR prüfen
 - **GV-Zugang Messestand:** Gerichtsvollzieher braucht Zugang; Messe-Direktion vorab einbinden
 - **Internationale Aussteller:** EuGVVO-Zuständigkeit bei EU-Ausländern; außerhalb EU: Haager Zustellungsübereinkommen beachten
+
+## Triage-Fragen bei Messeverletzung
+
+Bevor der Eilantrag gestellt wird, klaere:
+1. Ist die Beweissicherung vollstaendig (Fotos mit Zeitstempel, Testkauf, Ausstellerdaten)?
+2. Ist das Gericht des Messeorts zustaendig (LG Berlin/Frankfurt/Duesseldorf/Muenchen I)?
+3. Wann endet die Messe — genuegt die Zeit fuer Antrag und Erlass noch am Messtag?
+4. Hat der Verletzer moglicherweise bereits eine Schutzschrift im ZSSR hinterlegt?
+5. Handelt es sich um Produktpiraterie (direkte einstweilige Verfuegung) oder Zeichenaehnlichkeit (zuerst Abmahnung pruefe)?
+
+## Aktuelle Rechtsprechung
+
+> **OLG Frankfurt, Beschl. v. 25.06.2015 — 6 W 60/15:** Die Dringlichkeit einer Messeabmahnung entfaellt nicht, weil der Rechteinhaber am Messtag zunachst mit dem Aussteller spricht; die 4-Wochen-Dringlichkeitsfrist laeuft erst ab dem Zeitpunkt, an dem feststeht, dass eine einvernehmliche Loesung nicht moeglich ist.
+
+> **BGH, Urt. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser):** Einstweiliger Rechtsschutz setzt voraus, dass die Verletzungshandlung noch andauert oder deren Wiederholung unmittelbar droht; bei Messeende und endgueltigem Abzug der verletzenden Ware fehlt der Verfuegungsgrund fuer kuenftige Unterlassung.
+
+> **BGH, Urt. v. 11.06.2015 — I ZR 19/14 (Goldbaerenbarren):** Gewerbliche Schutzrechtsverletzungen, die oeffentlich und mit kommerziellem Vorteil begangen werden — wie an einem Messestand — begruenden eine starke tatsaechliche Vermutung fuer die Vorsatz-Voraussetzung des § 14 VI 2 MarkenG.

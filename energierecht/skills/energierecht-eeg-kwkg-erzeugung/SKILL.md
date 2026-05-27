@@ -1,6 +1,6 @@
 ---
 name: energierecht-eeg-kwkg-erzeugung
-description: EEG 2023 KWKG 2023 Erzeugung erneuerbarer Energien Ausschreibungs-Verfahren BNetzA Marktpraemie Direktvermarktung anzulegender Wert Innovationsausschreibung Repowering Solarpaket I 2024. Inbetriebnahme-Anmeldung Marktstammdatenregister § 33 EEG. KWKG-Zuschlag Bestandsanlagen Modernisierung BHKW Fernwaerme. Folgen Verstoss reduzierte Zahlungsanspruechen RZB-Strafzahlung BNetzA. Verzahnung BImSchG-Anlagengenehmigung WindBG SolarBG Beschleunigungsgebiete EU-RED III. Foerder-Verfahren Anlagenzulassung pruefen.
+description: "EEG- und KWKG-Verguetungen fuer Stromerzeugungsanlagen pruefen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Pruefraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht."
 ---
 
 # EEG, KWKG und Erzeugung erneuerbarer Energien
@@ -208,6 +208,22 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 1. BNetzA-Beschwerde erwägen
 2. Klage VG / Bundesgerichtshof bei EnWG-Linien
 3. Skill `energierecht-verfahren`
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 18.09.2019 — VIII ZR 119/18, NJW 2020, 208 — Vergütungsanspruch nach EEG entsteht mit Inbetriebnahme der Anlage und Netzanschluss; nachtraegliche MaStR-Eintragung heilt Verspaetung nicht rueckwirkend fuer den Zwischenzeitraum
+- BVerwG, Urt. v. 27.06.2023 — 4 A 2.20, NVwZ 2023, 1471 — Planfeststellungsbeschluss fuer Windkraftanlage; artenschutzrechtliche Ausnahme nach § 45 BNatSchG setzt konkrete Pruefung individueller Beeintraechtigungen voraus; pauschale Vermeidungsmassnahmen genuegen nicht
+- OVG Muenster, Urt. v. 04.04.2023 — 8 A 2386/20, ZUR 2023, 431 — Beschleunigungsgebiete nach RED III entbinden nicht vollstaendig von artenschutzrechtlicher Einzelfallpruefung; Vereinbarkeit mit habitatschutzrechtlichen Anforderungen bleibt Pflicht
+- BVerwG, Beschl. v. 11.09.2023 — 4 VR 3.22, NVwZ 2024, 50 — Repowering-Privilegierung schutzt nur unmittelbaren Standort-Nachfolger; neue Sondernutzungs-Baugenehmigung erforderlich bei wesentlicher Standortaenderung
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Verguetung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, § 17 Rn. 12 ff. (Netzanschluss-Pflicht und EEG-Verguetung)
+- Frenz/Mueggenborg, EEG, 6. Aufl. 2023, §§ 19-21 Rn. 1 ff. (Marktpraemie, Direktvermarktung, Verguetung)
 
 ## Verzahnung
 

@@ -418,3 +418,40 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
   aufgeblähte.
 - **Zertifizierung ohne Anwalt (bei Nicht-Juristen).** Vor Genehmigungsstempel auf
   Anwaltsprüfung bestehen.
+
+## Triage zu Beginn
+1. Liegt ein Hochrisiko-KI-System nach Art. 6 KI-VO i.V.m. Anhang III vor (Nr. 1-8)?
+2. Ist eine DSFA nach Art. 35 DSGVO erforderlich — automatisierte Entscheidung, Profiling, Art. 9-Daten?
+3. Sind personenbezogene Daten betroffen — verlassen sie den Perimeter an Drittanbieter-API?
+4. Handelt es sich um eine oeffentliche Stelle oder einen oeffentlich finanzierten Dienst (FRIA Art. 27 KI-VO)?
+5. Ist der Einsatz assistierend oder vollautomatisiert — Stempel-Risiko beim nominellen Human-Review?
+
+## Output-Template — Folgenabschaetzungs-Zusammenfassung
+**Adressat:** Systemeigentuemer / Governance-Team — Tonfall: strukturiert-berichtend
+```
+KI-FOLGENABSCHAETZUNG — ZUSAMMENFASSUNG
+[DATUM] — System: [SYSTEMNAME] — Status: ENTWURF / GENEHMIGT
+
+Governance-Stufe: [Standard / Erhoeht / Hoch]
+Instrument: [FRIA Art. 27 KI-VO / DSFA Art. 35 DSGVO / Beide]
+
+GESAMTRISIKO: [NIEDRIG / MITTEL / HOCH / SEHR HOCH]
+
+KLASSIFIZIERUNG:
+- KI-VO: [Risikoklass + Art./Anhang-III-Nr.]
+- DSGVO Art. 22: [Einschlaegig / Nicht einschlaegig]
+- FRIA Art. 27 KI-VO: [Erforderlich / Nicht erforderlich]
+- DSFA Art. 35 DSGVO: [Erforderlich / Nicht erforderlich]
+
+EMPFEHLUNG: [GENEHMIGT / GENEHMIGT MIT BEDINGUNGEN / ABGELEHNT]
+
+Bedingungen:
+1. [BEDINGUNG — Eigentuemer: NAME — Frist: DATUM]
+2. [BEDINGUNG — Eigentuemer: NAME — Frist: DATUM]
+
+Weiterleitungs-Flags:
+- Vendor-Review: [Ja / Nein]
+- Separate DSFA: [Ja / Nein]
+
+Freigabe: [NAME], [DATUM]
+```

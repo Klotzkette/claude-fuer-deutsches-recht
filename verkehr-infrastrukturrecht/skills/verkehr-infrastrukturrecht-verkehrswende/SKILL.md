@@ -1,48 +1,112 @@
 ---
 name: verkehr-infrastrukturrecht-verkehrswende
-description: "Entwickelt Maßnahmen für Fußgängerzonen, Tempo, Schulumfeld, Radverkehr, Lieferverkehr und Beteiligung."
+description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Pruefraster: Rechtsgrundlage Verkehrsanordnung, Verhaeltnismaessigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begruendungsbausteine fuer Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
 ---
 
-# Verkehrswende und Verkehrsberuhigung
+# Verkehrswende und Verkehrsberuhigung — Rechtliche Umsetzung
 
-## Zweck
+## Triage zu Beginn — klaere zuerst
 
-Dieser Skill übersetzt politische Ziele in rechtlich prüffähige Maßnahmenpakete.
+1. Welche Massnahme steht im Fokus: Tempo 30, Fussgaengerzone, Radstreifen, Lieferzone, Einbahnstrasse?
+2. Wer ist Mandant: Gemeinde/Strassenverkehrsbehoerde, Anlieger, Gewerbetreibender, Verband?
+3. Gibt es einen anfechtenden Dritten (z.B. Anlieger gegen Tempo-30)?
+4. Ist die Massnahme verkehrsrechtlich (StVO) oder planerisch (B-Plan, Widmungsaenderung)?
+5. Welche wirtschaftlichen Interessen sind betroffen (Erreichbarkeit, Lieferfrequenz)?
+6. Bestehen laermschutzrechtliche oder behindertenrechtliche Anforderungen?
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn ein neuer Fall im Bereich Verkehrs- und Infrastrukturrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- § 45 I StVO — allgemeine Anordnungsbefugnis der Strassenverkehrsbehoerde
+- § 45 I b Nr. 5 StVO — Tempo-30-Zone aus Gruenden des Laermschutzes
+- § 45 I b Nr. 6 StVO — Tempo-30 vor Schulen, Kindergaerten, Senioreneinrichtungen
+- § 45 I c StVO — Laermaktionsplan der Gemeinde als Grundlage
+- Zeichen 250, 253, 260, 325, 326 StVO-Anlagen — Verkehrsverbote und Sondernutzung
+- VwV-StVO zu § 45 — Ermessensrichtlinien, Anordnungsvoraussetzungen
+- § 8 StVO — Vorfahrtregelung bei Verkehrsberuhigung
+- STVO-Bussgeldkatalog — Sanktionen bei Verstoss
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BVerwG, Urt. v. 05.04.2001 - 3 C 23.00, BVerwGE 114, 160 — Anordnung einer Tempo-30-Zone setzt konkrete Laerm- oder Unfallgefahren voraus; rein fiskalische oder klimapolitische Ziele reichen als alleinige Begruendung nicht aus.
+- OVG Berlin-Brandenburg, Urt. v. 30.11.2022 - OVG 1 A 10.18 — Ausweitung einer Fussgaengerzone: Verhaeltnismaessigkeit erfordert Abwaegung der Erreichbarkeit fuer Anlieger und Gewerbetreibende; vollstaendige Sperrung ohne Ausnahme unverhaltsnismaessig.
+- VGH Bayern, Beschl. v. 15.03.2021 - 11 CS 20.3185, BayVBl 2021, 450 — Lieferzonenmangement: Gemeinde darf Ladezonen zeitlich beschraenken (§ 45 I StVO); Anlieger haben keinen Anspruch auf unbeschraenkte Haltemoglichkeit.
+- OVG NRW, Urt. v. 19.09.2019 - 8 A 2004/18, DVBl 2020, 120 — Radstreifen auf Fahrbahn: verkehrsrechtliche Anordnung nach § 45 I StVO genuegt; kein Planfeststellungsverfahren erforderlich, wenn keine wesentliche Strassenumgestaltung vorliegt.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Hentschel/Koenig/Dauer, Strassenverkehrsrecht, 47. Aufl. 2023, § 45 StVO Rn. 1-120 (Anordnungsbefugnis, Ermessen)
+- Janker, Strassenverkehrsrecht, 25. Aufl. 2022, VwV-StVO zu § 45 (Tempo-30, Fussgaengerzonen)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 8 Rn. 1-30 (Ermessen und Verhaeltnismaessigkeit)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+1. **Massnahme qualifizieren:** reine Verkehrszeichen-Anordnung (§ 45 StVO) oder Strassenplanung (BauGB/StrWG)?
+2. **Rechtsgrundlage bestimmen:** welche Ziffer des § 45 I, I b oder I c StVO greift?
+3. **Begruendung dokumentieren:** Laermgutachten, Unfallstatistik, Schulwegplaene, Laermaktionsplan
+4. **Verhaeltnismaessigkeit pruefen:** milderes Mittel vorhanden (Geschwindigkeitsdaempfer statt Vollsperrung)?
+5. **Betroffene Belange erfassen:** Anlieger, Gewerbe, OEPNV, Lieferverkehr, Feuerwehr/Rettungsdienste
+6. **Sondernutzungsregelung treffen:** Lieferzeitfenster, Ausnahmegenehmigungen (§ 46 StVO)
+7. **Beschilderung konzipieren:** VwV-StVO Zeichen- und Aufstellungsanforderungen
+8. **Evaluation planen:** Verkehrszaehlung vor/nach, Laermmessung, Beschwerdemanagement
+9. **Anfechtungsrisiko einschaetzen:** Widerspruch durch Anlieger oder Gewerbetreibende wahrscheinlich?
 
-## Typische Fehler vermeiden
+## Entscheidungsbaum Massnahmentyp
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+```
+Verkehrsberuhigung geplant
+        |
+Flaeche: oeffentliche Strasse?
+  Nein ──→ privatrechtliche Regelung (Grundstueckseigentuemer)
+  Ja ──→ weiter
+        |
+Anordnung per Verkehrszeichen (§ 45 StVO)?
+  Ja ──→ Strassenverkehrsbehoerde; keine Planfeststellung
+  Nein (Umbau Fahrbahn) ──→ ggf. StrWG-Widmungsaenderung oder B-Plan
+        |
+Begruendung ausreichend?
+  Laerm/Unfall nachgewiesen ──→ Anordnung tragfaehig
+  Nur politisches Ziel ──→ erweitertes Gutachten erforderlich (BVerwG 3 C 23.00)
+        |
+Ausnahmen noetig?
+  Lieferverkehr ──→ zeitliche Freigabe + Zeichen 1026-37
+  Anlieger ──→ Sondergenehmigung § 46 StVO
+```
+
+## Output-Template Anordnung / Bescheid
+
+**Adressat:** Strassenverkehrsbehoerde intern oder an Anlieger — Tonfall: behoerdlich-begruendend
+
+```
+[BEHOERDE]
+[ADRESSE]
+
+Verkehrsrechtliche Anordnung nach § 45 I b Nr. 5 StVO
+
+Aktenzeichen: [AZ]
+
+Betreff: Einrichtung Tempo-30-Zone [STRASSENBEZEICHNUNG]
+
+Aufgrund § 45 I b Nr. 5 StVO wird fuer den Streckenabschnitt [VON] bis [BIS]
+eine Tempo-30-Zone (Zeichen 274.1 StVO) angeordnet.
+
+Begruendung:
+Gemaess dem Laermaktionsplan der Stadt [ORT] vom [DATUM] werden an dem genannten
+Streckenabschnitt Laermwerte von [X] dB(A) tags gemessen, die den Richtwert der
+16. BImSchV von 59 dB(A) tags uebersteigen. Die Anordnung ist das mildeste Mittel
+zur nachhaltigen Laermreduzierung.
+
+Ausnahme (§ 46 StVO): Lieferverkehr werktags 06:00-10:00 Uhr gestattet.
+
+Rechtsbehelfsbelehrung: Gegen diese Anordnung kann binnen eines Monats nach
+Bekanntgabe Widerspruch eingelegt werden.
+
+[UNTERSCHRIFT BEHOERDE]
+```
+
+## Harte Leitplanken
+
+- Tempo-30 braucht konkrete Begruendung (Laerm/Unfall) — politischer Wille allein reicht nicht
+- Verhaeltnismaessigkeit: stets pruefen ob milderes Mittel ausreicht
+- Lieferverkehr nie vollstaendig ausschliessen — wirtschaftliche Grundversorgung sichern
+- Ausnahmegenehmigungen (§ 46 StVO) fuer Anlieger mit Behinderung / Gewerbe einplanen
+- Anfechtungsrecht der Anlieger bei Vollsperrungen: Eilrechtsschutz § 80 V VwGO wahrscheinlich

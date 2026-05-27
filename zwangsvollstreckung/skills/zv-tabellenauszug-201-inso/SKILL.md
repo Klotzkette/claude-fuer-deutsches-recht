@@ -1,6 +1,6 @@
 ---
 name: zv-tabellenauszug-201-inso
-description: "Vollstreckung aus dem Tabellenauszug nach § 201 Abs. 2 InsO nach Aufhebung oder Beendigung des Insolvenzverfahrens. Klärt Voraussetzungen (festgestellt, nicht vom Schuldner bestritten, kein Restschuldbefreiungs-Versagungsgrund), Klausel- und Zustellungsformalia, 30-Jahres-Verjährung § 197 BGB und Schranken bei Restschuldbefreiung § 301 InsO. Lädt, sobald ein Tabellenauszug als Titel vorliegt."
+description: "Glaeubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Pruefraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter."
 ---
 
 # Vollstreckung aus Tabellenauszug § 201 InsO

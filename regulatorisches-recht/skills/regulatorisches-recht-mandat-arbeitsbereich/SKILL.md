@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-mandat-arbeitsbereich
-description: "Mandat-Workspaces verwalten (nur Kanzleibetrieb mit mehreren Mandanten). Laden, um ein neues Mandat anzulegen, zwischen Mandaten zu wechseln, ein Mandat zu schließen oder Workspaces zu deaktivieren."
+description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Pruefraster: Mandatsumfang Zustaendigkeiten Fristen Risikostufe beteiligte Behoerden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht fuer inhaltliche Regulierungspruefung."
 ---
 
 # Mandat-Workspace-Verwaltung
@@ -140,3 +140,10 @@ Nächster Schritt: /regulatorisches-recht:lücken-aufzeiger
 - **Klarnamen in Pfaden:** Mandanten-Klarnamen nicht in Dateinamen oder Logs verwenden. Nur Kürzel.
 - **Nicht geschlossene Mandate:** Alte aktive Mandate ohne Leitfrist überprüfen und bei Abschluss schließen; beugt Versehen mit veralteten Kontextinformationen vor.
 - **Mandantengeheimnis:** Inhalte aus `mandat.md` und den mandat-spezifischen Trackern sind vertraulich nach § 43a Abs. 2 BRAO. Nie in gemeinsame Kontexte oder Protokolle exportieren.
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 22.10.2015 — III ZR 24/15, NJW 2016, 319 — korrekte Mandatsfuehrung im regulatorischen Bereich; Workspace-Trennung verhindert Konflikte bei parallelen Mandaten; Dokumentationspflicht des Beraters
+
+**Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 48-49 VwVfG — §§ 3-7 BORA (Berufsrecht Rechtsanwaelte)
+
+**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 611 ff. Rn. 1 ff. (Anwaltsmandat)

@@ -70,3 +70,13 @@ Hauptmangel: [...]
 Triangulation: [gegeben / fehlend]
 Selektivitätsrisiko: [niedrig / mittel / hoch]
 ```
+
+## Leitentscheidungen Evidenzqualitaet
+
+- EuGH, Urt. v. 10.07.2008 — C-413/06 P (Bertelsmann/Sony), Slg. 2008, I-4951 — Oekonomische Gutachten vor EuGH; Beweiswuerdigung; Sachverstaendige EK und Parteien; Gesamtschau.
+- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Qualitaetsanforderungen an Marktdefinitions-Begruendung der EK; nicht nur kumulative Behauptungen.
+- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Deutsche Rezeption; oekonomische Sachverstaendige als Beweismittel; Gericht prueft selbst nach § 86 VwGO-Pendant.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 1-30 (Beweislast, Beweismittel, Sachverstaendige)

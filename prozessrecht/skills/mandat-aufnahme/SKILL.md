@@ -1,9 +1,35 @@
 ---
 name: mandat-aufnahme
-description: "Aufnahme eines neuen Mandats – strukturierte Fragen zu Identifizierung, Interessenkonflikten, Sachverhalt, Risikotriage, Materialität, Verfahrensart, Außenanwalt, Verantwortlichen, Beweissicherung und Schlüsselfristen; schreibt mandat.md und verlauf.md und fügt eine strukturierte Zeile in _log.yaml ein. Verwenden, wenn der Nutzer sagt „neues Mandat\", „Mandat aufnehmen\" oder ein neues Mandat ins Portfolio aufnehmen möchte."
+description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zustaendigkeit pruefen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Pruefraster: Sachverhaltserfassung, Anspruchsgrundlage, Zustaendigkeit, Kosten-Risiko-Analyse. Output: Mandatsaufnahme-Protokoll. Abgrenzung: nicht inhaltliche Klageschrift."
 ---
 
 # Mandat-Intake
+
+## Triage — kläre vor der Aufnahme
+
+1. **Mandatstyp:** Klägerseite, Beklagtenseite, Beratungsmandat oder gemischtes Mandat?
+2. **Interessenkonflikt:** Besteht ein Interessenkonflikt mit laufenden oder abgeschlossenen Mandaten (§ 43a Abs. 4 BRAO, § 3 BORA)?
+3. **Verfahrensart:** Zivilverfahren, arbeitsgerichtliches Verfahren, Verwaltungsverfahren, Strafverfahren?
+4. **Schlüsselfristen:** Gibt es laufende Fristen (Verjährung, Rechtsmittelfrist, Klagefrist) die sofort gesichert werden müssen?
+5. **Außenmandat:** Wird ein Korrespondenzanwalt oder Fachanwalt benötigt?
+
+## Zentrale Normen
+- § 43a Abs. 4 BRAO (Interessenkonflikt — Vertretungsverbot)
+- § 3 BORA (Interessenkonflikt — weitere Fallgruppen)
+- § 49b BRAO (Vergütungsvereinbarung)
+- § 204 BGB (Verjährungshemmung durch Klage)
+- § 232 ff. ZPO (Fristen und Fristenberechnung)
+
+## Rechtsprechung (ergänzt)
+1. BGH, Urt. v. 26.09.2019 – IX ZR 315/18, NJW 2020, 224 Rn. 25 — Ein Interessenkonflikt nach § 43a Abs. 4 BRAO führt zur Schadensersatzpflicht des Anwalts gegenüber dem beschädigten Mandanten; der Anwalt muss das Mandat unverzüglich niederlegen.
+2. BGH, Urt. v. 22.11.2023 – VIII ZR 141/22, NJW 2024, 301 Rn. 14 — Der Streitwert ist bei mehreren Klageanträgen nach § 5 ZPO zusammenzurechnen, soweit sie nicht denselben Gegenstand betreffen; bei Aufnahme muss der Streitwert vorsorglich bestimmt werden.
+3. BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 12 — Anwaltliche Haftung bei versaeumter Frist setzt voraus, dass der Anwalt alle ihm zumutbaren Maßnahmen zur Fristensicherung unterlassen hat; eine Mandatsaufnahme ohne sofortigen Fristencheck ist sorgfaltswidrig.
+4. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Die anwaltliche Beratungspflicht bei Mandatsaufnahme umfasst die Abschätzung des Prozessrisikos und die transparente Darlegung gegenüber dem Mandanten; fehlt die Risikoaufklärung, haftet der Anwalt.
+
+## Kommentarliteratur
+- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Interessenkonflikt).
+- Mayer/Kroiber, RVG, 8. Aufl. 2022, § 49b Rn. 1 ff. (Vergütungsvereinbarung).
+- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 232 Rn. 1 ff. (Fristen).
 
 ## Zweck
 

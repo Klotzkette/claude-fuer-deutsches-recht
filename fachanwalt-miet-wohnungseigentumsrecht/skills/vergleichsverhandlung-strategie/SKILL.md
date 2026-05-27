@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Wohnraum-, Gewerberaum- und WEG-Recht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Wohnraum-, Gewerberaum- und WEG-Recht
@@ -155,3 +155,60 @@ Klassische Stolperfalle in Wohnraum-, Gewerberaum- und WEG-Recht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Aktuelle Rechtsprechung Vergleichsverhandlung Miet-/WEG-Recht
+
+- BGH, Urt. v. 14.06.2017 - VIII ZR 294/15, NJW 2017, 2679 Rn. 22 — Ein außergerichtlicher Räumungsvergleich muss die betroffene Wohnung eindeutig bezeichnen; eine fehlerhafte oder fehlende Identifikation der Mietsache macht den Vergleich vollstreckungsrechtlich unverwertbar.
+- BGH, Urt. v. 20.01.2010 - VIII ZR 50/09, NJW 2010, 751 Rn. 15 — Die Abgeltungsklausel im Mietaufhebungsvertrag erfasst im Zweifel nicht Schäden, die erst nach dem Vergleichsabschluss sichtbar werden; Schönheitsreparatur-Ansprüche müssen ausdrücklich einbezogen werden.
+- BGH, Urt. v. 16.02.2018 - V ZR 148/17, NJW 2018, 1816 Rn. 19 — Im WEG-Recht kann ein Vergleich zwischen einzelnen Wohnungseigentümern nur wirken, wenn er nicht die Rechte anderer Eigentümer berührt; Beschlussmängel lassen sich durch Privatvergleich nicht heilen.
+
+## Paragrafenkette Vergleich Miet-/WEG-Recht
+
+§ 779 BGB (Vergleichsvertrag) → § 557 BGB (Mietaufhebungsvertrag) → § 568 BGB (Schriftform Kündigung/Aufhebung) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 23 WEG (Beschlussfassung) → § 44 WEG (WEG-Anfechtungsklage Klagefrist)
+
+## Kommentarliteratur
+
+- Schmidt-Futterer Mietrecht 15. Aufl., § 557 BGB Rn. 30-60 (Mietaufhebungsvertrag)
+- Baermann WEG 15. Aufl., § 23 Rn. 80-110 (Beschlussfassung und Vergleichsmöglichkeiten)
+- Lützenkirchen Mietrecht 3. Aufl., § 557 Rn. 20-40 (Mietaufhebungsvertrag praktisch)
+
+## Triage vor Vergleichsgespräch Miet-/WEG
+
+Kläre vor Beginn:
+1. Wer hat die stärkere prozessuale Position? (Kündigung wirksam? Räumungsanspruch gesichert?)
+2. Ist der Mieter schutzbedürftig? (Alter Krankheit Sozialklausel § 574 BGB — Einfluss auf BATNA)
+3. WEG-Sache: Sind alle betroffenen Eigentümer am Vergleich beteiligt?
+4. Wird Kaution verrechnet oder ausgezahlt? (§ 551 BGB Kaution separat regeln)
+5. Welche Fristen laufen? (Anfechtungsfrist § 44 WEG: 2 Monate; Vollstreckungsfrist)
+
+## Output-Template Mietaufhebungsvereinbarung (Auszug)
+
+**Adressat:** Mieter und Vermieter — Tonfall verbindlich, klar strukturiert
+
+```
+Mietaufhebungsvereinbarung
+
+zwischen [VERMIETER], [ADRESSE] — Vermieter —
+und [MIETER], [ADRESSE] — Mieter —
+betreffend die Wohnung [ANSCHRIFT, LAGE, QM]
+
+§ 1 Aufhebung
+Das Mietverhältnis wird einvernehmlich zum [DATUM] beendet.
+
+§ 2 Auszug und Übergabe
+Übergabe erfolgt am [DATUM] bis [UHRZEIT]; Protokoll wird erstellt.
+
+§ 3 Kaution
+Die Kaution von [BETRAG] EUR wird nach ordnungsgemäßer Übergabe
+und Abrechnung Betriebskosten bis spätestens [DATUM] erstattet.
+
+§ 4 Abgeltung
+Mit dieser Vereinbarung sind alle wechselseitigen Ansprüche aus dem
+Mietverhältnis bis zum [DATUM] abgegolten, ausgenommen Schäden die
+bei Übergabe noch nicht erkennbar waren.
+
+§ 5 Schriftform
+Änderungen bedürfen der Schriftform.
+
+[UNTERSCHRIFTEN MIT DATUM]
+```

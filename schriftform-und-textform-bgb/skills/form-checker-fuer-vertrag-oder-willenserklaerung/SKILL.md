@@ -1,9 +1,36 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Form-Checker für Verträge und Willenserklärungen: Entscheidungsbaum — welche Form ist gesetzlich oder vertraglich vorgeschrieben, Konsequenzen bei Verstoß, empfohlene Formwahl, praktischer Workflow inkl. Klausel-Vorschlag für die Kanzleipraxis."
+description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Pruefraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung
+
+## Triage — kläre vor dem Check
+
+1. **Rechtsgeschäftstyp:** Welches Rechtsgeschäft soll geprüft werden (Kaufvertrag, Mietvertrag, Kündigung, Bürgschaft, Grundstückskauf)?
+2. **Gesetzliches oder vertragliches Formerfordernis:** Ist die Form gesetzlich vorgeschrieben oder nur vertraglich vereinbart (§ 127 BGB)?
+3. **Sanktion:** Was ist die Rechtsfolge bei Formverstoß — Nichtigkeit (§ 125 S. 1 BGB) oder Anfechtbarkeit?
+4. **Heilungsmöglichkeit:** Ist der Formfehler heilbar (Grundstück: § 311b Abs. 1 S. 2 BGB, Bürgschaft: § 766 S. 3 BGB)?
+5. **Elektronische Form:** Kann qES (§ 126a BGB) die Schriftform ersetzen, oder ist die Papierform zwingend?
+
+## Zentrale Normen (ergänzend)
+- § 125 BGB (Nichtigkeit bei Formmangel — gesetzlich und vertraglich)
+- § 127 BGB (Vertragliche Formvorschriften — im Zweifel schwächer als gesetzliche)
+- § 139 BGB (Teilnichtigkeit)
+- § 140 BGB (Umdeutung)
+- § 311b BGB (Grundstück — Heilung)
+- § 623 BGB (Kündigungsschutz Arbeitsrecht — Schriftformzwang)
+
+## Rechtsprechung
+1. BGH, Urt. v. 06.11.2015 – V ZR 78/14, NJW 2016, 523 — Das gesetzliche Schriftformerfordernis des § 550 BGB (Langzeitmietvertrag) führt bei Verstoß zur Kündbarkeit des Vertrages, nicht zur Nichtigkeit; die Parteien sind an einen unbefristeten Vertrag gebunden.
+2. BGH, Urt. v. 22.04.2015 – XII ZR 55/14, NJW 2015, 2034 — Bei vertraglich vereinbarter Schriftform (§ 127 BGB) genügt im Zweifel E-Mail, wenn sich aus der Vereinbarung nichts anderes ergibt.
+3. BGH, Urt. v. 25.03.2015 – IV ZR 29/14, NJW 2015, 1963 — Eine Schriftformheilungsklausel (Klausel, die nachträgliche mündliche Änderungen trotz Schriftformvorbehalt erlaubt) ist wegen § 305 ff. BGB in AGB in engen Grenzen zulässig.
+4. BAG, Urt. v. 16.09.2021 – 2 AZR 781/20, NJW 2021, 3545 — Der Schriftformzwang des § 623 BGB für Beendigungserklärungen von Arbeitsverhältnissen ist absolut; eine WhatsApp-Kündigung erfüllt ihn nicht.
+
+## Kommentarliteratur
+- Grüneberg, BGB, 83. Aufl. 2024, § 125 Rn. 1 ff. (Formmangel und Nichtigkeit).
+- MuKo-BGB/Einsele, 9. Aufl. 2023, § 125 Rn. 1 ff.
+- Palandt, BGB, 82. Aufl. 2023, § 127 Rn. 1 ff. (Vertragliche Formvorschriften).
 
 ## Rechtsgrundlagen
 

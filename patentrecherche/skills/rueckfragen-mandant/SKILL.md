@@ -122,3 +122,19 @@ Mit freundlichen Grüßen
 ## Disclaimer
 
 > **Hinweis zur Rückfrage.** Diese Rückfrageliste ist eine KI-gestützte Vorbereitung. Die Mandantenkommunikation verantwortet die Patentanwältin / der Patentanwalt — Inhalt, Sprache und Versandweg müssen vor Absendung kanzleiintern geprüft werden. Die Frageliste ersetzt nicht die individuelle Mandatsführung.
+
+## Triage-Fragen vor Mandanten-Rueckfragen
+
+Bevor die Rueckfrageliste erstellt wird, klaere:
+1. Welches Rechercheprodukt benoetigt die Informationen — Neuheitspruefung, FTO, Pruefungsbescheid-Antwort oder Valorisierung?
+2. Hat der Mandant bereits Unterlagen eingereicht (Anspruchsentwurf, Produktbeschreibung, Skizze)?
+3. Besteht ein zeitlicher Druck (Patent-Frist, Messe-Neuheitsfrist, Vertragsverhandlung)?
+4. Ist der Mandant technischer Fachmann oder berufslaie (Fragebogen-Sprachstil anpassen)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 12.09.2013 — X ZR 140/09 (Patentanwalts-Belehrungspflicht):** Ein Patentanwalt ist verpflichtet, den Mandanten vor und waehrend des Anmeldeverfahrens auf moegliche neuheitsschaedliche Vorveröffentlichungen hinzuweisen und alle relevanten Informationen zur Vorveroeffentlichungs-Frage zu erfragen; eine unvollstaendige Mandanten-Befragung kann Haftungsansprueche begruenden.
+
+> **BPatG, Beschl. v. 29.11.2016 — 20 W (pat) 33/14 (Mandatsbegruendung):** Die Beauftragung des Patentanwalts kann konkludent erfolgen; bereits die Einreichung einer Erfindungsmeldung und Aufforderung zur Bewertung stellt ein Angebots-Annahme-Verhaeltnis begruendet, das den Patentanwalt zur sorgfaeltigen Bearbeitung verpflichtet.
+
+> **BGH, Urt. v. 21.06.2007 — IX ZR 39/04 (Kommunikationspflicht Anwalt):** Der Anwalt ist verpflichtet, den Mandanten umgehend ueber das Ergebnis seiner Pruefung und ueber etwaige Risiken zu informieren; eine unzureichende oder verspaetete Rueckfrage kann das Mandat gefaehrden und Schadensersatzansprueche ausloesen.

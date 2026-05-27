@@ -1,45 +1,91 @@
 ---
 name: strafbefehl-deal-verstaendigung
-description: "Bereitet rechtlich saubere Verständigungsgespräche und informelle Lösungen ohne falsche Versprechen vor."
+description: "Verstaendigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB."
 ---
 
-# Gesprächsstrategie mit Gericht und Staatsanwaltschaft
+# Verstaendigung im Strafbefehlsverfahren — § 257c StPO
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill gehört zum freistehenden Plugin **Strafbefehl-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Ist eine Verstaendigung im Strafbefehlsverfahren sinnvoll?** — Strafbefehlsverfahren ist ungeeignet fuer komplexe Deals; einfacher: § 153a-Antrag oder direkter Strafmass-Einspruch mit Gestaendnis.
+2. **Liegt Gestaendnisbereitschaft des Mandanten vor?** — Verstaendigung setzt nach BGH ein Gestaendnis voraus (§ 257c Abs. 2 StPO).
+3. **Was ist das Ziel?** — Geldstrafe statt Bewaehrungsstrafe? Fahrverbot-Vermeidung? Einstellung nach § 153a? Klares Ziel formulieren.
+4. **Ist die Staatsanwaltschaft kontaktierbar?** — Fruehzeitige informelle Sondierung vor foermlicher Verstaendigungsanfrage ist zulaessig.
+5. **Sind Mitbeschuldigte betroffen?** — Verstaendigung darf nur das eigene Verfahren betreffen.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 257c StPO** — Verstaendigung: Voraussetzungen, Inhalt, Bindung, Belehrung
+- **§ 257c Abs. 1 StPO** — Verstaendigung nur mit Zustimmung aller Verfahrensbeteiligter (Gericht, StA, Verteidiger/Angeklagter)
+- **§ 257c Abs. 2 StPO** — Gegenstand: Rechtsfolgen, prozessuale Handlungen; NICHT: Schuldspruch
+- **§ 257c Abs. 4 StPO** — Bindungswirkung entfaellt bei veraenderter Sachlage
+- **§ 257c Abs. 5 StPO** — Belehrungspflicht vor Verstaendigung
+- **§ 153 StPO** — Einstellung bei Geringfuegigkeit (ohne Auflage)
+- **§ 153a StPO** — Einstellung gegen Auflage (Praxis-Alternative zur Verstaendigung)
+- **§ 46a StGB** — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Vor Anruf oder Termin: Ziel, Minimum, Belege, Vorbelastungen und Mandantenfreigabe festlegen.
-2. Keine unzulässigen Zusagen, keine Druckkommunikation, keine falschen Tatsachen.
-3. Nach jedem Gespräch Aktenvermerk mit Inhalt, Ergebnis und nächstem Schritt erstellen.
-4. Ausgabe: Gesprächsleitfaden und Vermerk.
+- BVerfG, Urt. v. 19.03.2013 - 2 BvR 2628/10 u.a., NJW 2013, 1058 — Verstaendigung nach § 257c StPO ist verfassungsrechtlich zulaessig aber nur unter strikter Einhaltung der gesetzlichen Vorgaben; informelle Absprachen ausserhalb des Gerichtssaals verstoessen gegen Art. 2 Abs. 1 GG i.V.m. dem Rechtsstaatsprinzip.
+- BGH, Urt. v. 28.07.2016 - 3 StR 153/16, NStZ 2017, 48 — Belehrungsfehler nach § 257c Abs. 5 StPO fuehrt bei kausalem Gestaendnis zu Revisionserfolg; Beschuldigter muss wissen, dass Verstaendigung nicht bindend ist wenn sich Sachlage aendert.
+- BGH, Beschl. v. 20.09.2016 - 3 StR 326/16, NJW 2017, 98 — § 257c StPO ist abschliessende Regelung; zusaetzliche informelle Zusagen ueber Rechtsfolgen ausserhalb des foermlichen Verfahrens sind unwirksam und koennen Revisionsgrund sein.
+- BGH, Urt. v. 10.07.2013 - 2 StR 195/12, NJW 2013, 3256 — Taeter-Opfer-Ausgleich nach § 46a StGB setzt ernsthafte und erfolgreich abgeschlossene Bemuehungen um Wiedergutmachung voraus; finanzielle Zahlung allein genuegt nicht.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- Meyer-Gossner/Schmitt StPO § 257c Rn. 1-45 (vollstaendige Kommentierung)
+- SK-StPO / Velten § 257c (kritische Wuerdigung nach BVerfG)
+- Fischer StGB § 46a Rn. 1-25 (TOA Voraussetzungen und Wirkung)
+- MueKo StGB / Maier § 46a Rn. 1-30 (Taeter-Opfer-Ausgleich in der Praxis)
 
-## Ausgabeformat
+## Abgrenzung: Wann welches Instrument?
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+| Instrument | Geeignet wenn | Vorteil |
+|-----------|--------------|---------|
+| § 153 StPO | Bagatelldelikt, keine Vorstrafe, geringer Schaden | Keine Auflage, kein Eintrag |
+| § 153a StPO | Mittelgraes Delikt, Zahlungsbereitschaft | Kein Strafregister (Tilgung), flexibel |
+| § 257c StPO | Schweres Delikt, Hauptverhandlung notwendig | Strafmass-Sicherheit, Verfahrensabkuerzung |
+| § 46a StGB + Gestaendnis | Geschaedigter vorhanden, Wiedergutmachung moeglich | Erhebliche Strafmilderung, kann Bewaehrung ermoeglichen |
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Zieldefinition mit Mandant:** Was soll das Ergebnis sein? (Strafmass, Fahrverbot, Eintrag)
+2. **Informelle Sondierung:** Staatsanwalt telefonisch kontaktieren — Einstellungsbereitschaft testen.
+3. **§ 153a-Antrag formulieren** wenn Einstellungsbereitschaft vorhanden — einfacher als foermliche Verstaendigung.
+4. **Wenn § 257c notwendig:** Schriftlichen Verstaendigungsvorschlag formulieren mit exakten Rechtsfolgen-Grenzen.
+5. **Hauptverhandlung:** Gericht macht Verstaendigungsvorschlag; alle Beteiligten stimmen zu; Belehrung nach § 257c Abs. 5 StPO protokollieren lassen.
+6. **Gestaendnis:** Konkret, glaubhaft, auf Beweislage abgestimmt.
+7. **Protokollkontrolle:** Verstaendigungsinhalt korrekt protokolliert? Belehrung dokumentiert?
+
+## Output-Template § 153a-Antrag
+
+**Adressat:** Staatsanwaltschaft — Tonfall: sachlich-kooperativ
+
+```
+In der Strafsache gegen [NAME]
+Az.: [AKTENZEICHEN]
+
+Antrag auf Einstellung nach § 153a StPO
+
+Sehr geehrte Damen und Herren,
+
+ich rege an, das Verfahren gegen [NAME] gegen Zahlung einer
+Geldbusse von [BETRAG] EUR an [EINRICHTUNG] nach § 153a Abs. 1
+StPO einzustellen.
+
+Mein Mandant ist ersttaetig, zeigt Reue und hat [Wiedergutmachung]
+geleistet. Der Tatvorwurf betrifft [kurze Tat-Charakterisierung].
+Publik-Interesse an Strafverfolgung steht in keinem Verhaeltnis
+zum Aufwand.
+
+[NAME] erklaert seine Zustimmung zur Einstellung.
+
+Mit freundlichen Gruessen [KANZLEI]
+```
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Verstaendigung NIEMALS ohne Belehrung nach § 257c Abs. 5 StPO — Revisionsrisiko.
+- Informelle Zusagen nicht vertrauen — nur foermliche Verstaendigung im Protokoll ist bindend.
+- Bindungswirkung entfaellt bei neuen Erkenntnissen (§ 257c Abs. 4 StPO) — Mandant darauf hinweisen.
+- Anwaltliche Endkontrolle bei Gestaendnisformulierung und Protokoll.

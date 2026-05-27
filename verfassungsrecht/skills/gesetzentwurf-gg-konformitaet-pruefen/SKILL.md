@@ -1,6 +1,6 @@
 ---
 name: gesetzentwurf-gg-konformitaet-pruefen
-description: "Gesetzgebersicht. Pruefe einen Gesetzentwurf der Bundes- oder Landesregierung oder eines Ministeriums vor Einbringung auf GG-Konformitaet. Gesetzgebungskompetenz formelle Verfassungsmaessigkeit materielle Vereinbarkeit mit Grundrechten und Staatsstrukturprinzipien. Empfehlungen fuer die Begruendung des Entwurfs. Vor jeder Aussage Skill bverfg-rechtsprechung-recherchieren aufrufen."
+description: "Gesetzentwurf auf Grundgesetz-Konformitaet pruefen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Pruefraster: formelle Verfassungsmaessigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhaeltnismaessigkeit EU-Recht-Konformitaet. Output: Verfassungspruefmemo Risikobewertung. Abgrenzung: nicht fuer laufende Normenkontrolle (normenkontrolle ist separates Plugin)."
 ---
 
 # Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)

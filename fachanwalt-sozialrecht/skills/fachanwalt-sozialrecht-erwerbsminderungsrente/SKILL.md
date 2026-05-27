@@ -1,107 +1,331 @@
 ---
 name: fachanwalt-sozialrecht-erwerbsminderungsrente
-description: Erwerbsminderungsrente nach §§ 43 240 SGB VI. Volle Erwerbsminderung weniger als drei Stunden taeglich teilweise weniger als sechs Stunden. Versicherungsrechtliche Voraussetzungen Wartezeit fuenf Jahre § 50 SGB VI und drei Jahre Pflichtbeitraege in fuenf Jahren vor Eintritt § 43 Abs. 1 Nr. 2. Berufsschutz § 240 SGB VI fuer Geburtsjahrgaenge vor 1961. Gutachten medizinische Befundlage. Schreibvorlage.
+description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Pruefraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Uebergang)."
 ---
 
 # Erwerbsminderungsrente (§§ 43, 240 SGB VI)
 
+## Triage — kläre vor EM-Renten-Bearbeitung
+1. Leistungsvermögen: Unter 3 Stunden/Tag (volle EM, § 43 Abs. 2 SGB VI) oder 3-6 Stunden (teilweise EM, § 43 Abs. 1 SGB VI)?
+2. Versicherungsrechtliche Voraussetzungen: 5 Jahre Wartezeit (§ 50 SGB VI) und 3 Jahre Pflichtbeiträge in den letzten 5 Jahren (§ 43 Abs. 1 Nr. 2 SGB VI)?
+3. Geburtsjahrgang vor 02.01.1961? Dann Berufsschutz § 240 SGB VI prüfen.
+4. Bereits Reha (§ 15 SGB VI) ohne Erfolg? Reha vor Rente-Prinzip beachten.
+5. Ablehnungsbescheid vorhanden? Widerspruchsfrist 1 Monat (§ 84 SGG) gesichert?
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 19.10.2011 - B 13 R 79/11 R, SozR 4-2600 § 43 Nr. 16 Rn. 14 — Volle Erwerbsminderung: quantitatives Leistungsvermögen unter 3 Stunden/Tag auf dem allgemeinen Arbeitsmarkt reicht für volle EM-Rente aus; es kommt auf den allgemeinen Arbeitsmarkt an, nicht auf den konkreten bisherigen Beruf.
+- BSG, Urt. v. 11.12.2019 - B 13 R 7/18 R, SozR 4-2600 § 43 Nr. 22 Rn. 18 — Teilweise Erwerbsminderung bei verschlossenem Arbeitsmarkt (§ 43 Abs. 3 SGB VI): wenn kein Arbeitsplatz für 3-6 Stunden/Tag auf dem allgemeinen Arbeitsmarkt realistisch vorhanden ist, gilt Vollrente; Nachweis durch Statistik und gutachterliche Einschätzung.
+- BSG, Urt. v. 17.08.2017 - B 5 R 16/16 R, SozR 4-2600 § 240 Nr. 5 Rn. 16 — Berufsschutz § 240 SGB VI (Jahrgaenge vor 1961): Vergleichbarkeit des Verweisungsberufs; qualitative und quantitative Zumutbarkeit; Verweisung auf un- oder angelernte Tätigkeit beim Facharbeiter unzulässig.
+- BSG, Urt. v. 30.03.2011 - B 12 KR 16/10 R, SozR 4-2600 § 5 Nr. 6 Rn. 12 — Versicherungsrechtliche Voraussetzungen § 43 SGB VI: Pflichtbeitragszeiten im 5-Jahres-Zeitraum müssen als Pflichtbeiträge (nicht freiwillige Beiträge) erbracht sein; Unterbrechungen durch Krankengeld, ALG zählen.
+
+## Kommentarliteratur
+- Kasseler Kommentar SGB VI §§ 43, 50, 240 (Erwerbsminderungsrente, Wartezeit, Berufsschutz)
+- Hauck/Noftz SGB VI § 15 (Medizinische Rehabilitation vor Rente)
+
 ## Kaltstart-Rückfragen
 
-1. Welche Erkrankungen liegen vor (somatisch, psychisch, beides)?
-2. Ist die Mandantschaft bereits in laufender Behandlung (Hausarzt, Facharzt, Klinik)?
-3. Aktuelles tägliches Leistungsvermögen (Stunden auf dem allgemeinen Arbeitsmarkt)?
-4. Geburtsjahrgang vor 1961 → § 240 SGB VI Berufsschutz prüfen.
-5. Versicherungsrechtliche Voraussetzungen — Wartezeit fünf Jahre erfüllt? Drei Jahre Pflichtbeiträge in den letzten fünf Jahren vor Eintritt?
+1. Welche Erkrankungen liegen vor (somatisch, psychisch, Kombination) — und welche Fachärzte sind behandelnd?
+2. Wie viele Stunden täglich kann der Mandant noch auf dem allgemeinen Arbeitsmarkt tätig sein (Selbsteinschätzung und ärztliche Einschätzung)?
+3. Ist die Mandantschaft bereits in stationärer Rehabilitation (§ 15 SGB VI) gewesen — mit welchem Entlassungsbefund?
+4. Geburtsjahrgang vor dem 02.01.1961? → Berufsschutz § 240 SGB VI prüfen.
+5. Versicherungsrechtliche Voraussetzungen: Fünf Jahre Wartezeit (§ 50 SGB VI) und drei Jahre Pflichtbeiträge in den letzten fünf Jahren erfüllt?
+6. Liegt bereits ein Ablehnungsbescheid der Deutschen Rentenversicherung vor — mit welcher Begründung?
+7. Wurde ein rentenversicherungsinternes Gutachten erstattet — wurde Akteneinsicht beantragt?
+8. Sind Hinzuverdienstgrenzen relevant (§ 96a SGB VI — Mandant geringfügig beschäftigt)?
+
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **Volle Erwerbsminderungsrente:** § 43 Abs. 2 SGB VI — Leistungsvermögen weniger als drei Stunden täglich auf dem allgemeinen Arbeitsmarkt.
-- **Teilweise Erwerbsminderungsrente:** § 43 Abs. 1 SGB VI — Leistungsvermögen drei bis unter sechs Stunden täglich.
-- **Versicherungsrechtliche Voraussetzungen:** § 43 Abs. 1 S. 1 Nr. 2 SGB VI — drei Jahre Pflichtbeiträge in den letzten fünf Jahren vor Eintritt der Erwerbsminderung; § 43 Abs. 1 S. 1 Nr. 3 — fünf Jahre allgemeine Wartezeit (§ 50 SGB VI).
-- **Berufsschutz § 240 SGB VI:** nur für Versicherte mit Geburtsjahrgang vor dem 02.01.1961 — Berufsunfähigkeit bei Leistungsvermögen unter sechs Stunden im bisherigen Beruf oder zumutbarer Verweisungstätigkeit.
-- **Befristung § 102 Abs. 2 SGB VI:** Renten wegen Erwerbsminderung werden auf Zeit gewährt, höchstens drei Jahre, Verlängerung möglich.
-- **Verschlossener Teilzeitarbeitsmarkt:** BSG-Rechtsprechung — bei Leistungsvermögen drei bis sechs Stunden gilt der Arbeitsmarkt als verschlossen, sodass volle Erwerbsminderungsrente in Betracht kommt (BSG, Beschl. v. 19.12.1996 – Az. GS 2/95, BSGE 80, 24 = SozR 3-2600 § 44 Nr. 8).
-- **Gutachten:** § 109 SGG — Antrag auf Gutachten nach Vertrauensarzt.
-- **Anhörung:** § 24 SGB X.
-- **Frist Erwerbsminderung:** Antrag wirkt grundsätzlich ab Antragstellung; Rückwirkung nur über § 99 SGB VI.
+| Norm | Inhalt |
+|---|---|
+| § 43 Abs. 1 SGB VI | Teilweise Erwerbsminderungsrente: Leistungsvermögen 3 bis unter 6 Stunden täglich |
+| § 43 Abs. 2 SGB VI | Volle Erwerbsminderungsrente: Leistungsvermögen unter 3 Stunden täglich |
+| § 43 Abs. 3 SGB VI | Arbeitsmarktrente (verschlossener Teilzeitmarkt bei 3–6 Stunden) |
+| § 50 SGB VI | Allgemeine Wartezeit: fünf Jahre Beitragszeiten |
+| § 43 Abs. 1 S. 1 Nr. 2 SGB VI | Drei Jahre Pflichtbeiträge in den letzten fünf Jahren vor EM-Eintritt |
+| § 53 SGB VI | Ausnahmen von der versicherungsrechtlichen Voraussetzung (z.B. BU vor Wartezeit) |
+| § 96a SGB VI | Hinzuverdienstgrenzen bei teilweiser EM-Rente |
+| § 99 SGB VI | Beginn der Rente (frühestens Rentenantrag; Rückwirkung ausgeschlossen) |
+| § 102 Abs. 2 SGB VI | Befristung auf drei Jahre; Verlängerung bis Regelaltersgrenze möglich |
+| § 109 SGG | Gutachten durch Arzt des Vertrauens im Klageverfahren auf Antrag |
+| § 240 SGB VI | Berufsschutz (Rente wegen Berufsunfähigkeit) für Geburtsjahrgänge vor 02.01.1961 |
+| § 15 SGB VI | Medizinische Rehabilitation als vorrangige Leistung |
 
-## Maßgebliche Rechtsprechung
+### Leitentscheidungen
 
-- BSG, Beschl. v. 19.12.1996 – Az. GS 2/95, BSGE 80, 24 — verschlossener Teilzeitarbeitsmarkt.
-- BSG, Urt. v. 10.12.2003 – Az. B 5 RJ 64/02 R, SozR 4-2600 § 43 Nr. 1 Rn. 19 — Erwerbsminderung bei Mehrfacherkrankungen.
-- BSG, Urt. v. 23.10.2003 – Az. B 4 RA 32/03 R, SozR 4-2600 § 43 Nr. 3 — Anforderungen an die Begutachtung.
-- BSG, Urt. v. 11.05.2011 – Az. B 5 R 8/10 R, SozR 4-2600 § 43 Nr. 16 — Pflichtbeitragszeiten in den letzten fünf Jahren.
+| Aktenzeichen | Gericht/Datum | Leitsatz |
+|---|---|---|
+| GS 2/95 | BSG, 19.12.1996, BSGE 80, 24 | Verschlossener Teilzeitarbeitsmarkt bei 3–6 Stunden Leistungsvermögen |
+| B 5 RJ 64/02 R | BSG, 10.12.2003 | Erwerbsminderung bei Mehrfacherkrankungen; Summierung von Einschränkungen |
+| B 4 RA 32/03 R | BSG, 23.10.2003 | Anforderungen an sozialmedizinisches Gutachten |
+| B 5 R 8/10 R | BSG, 11.05.2011 | Pflichtbeitragszeiten in den letzten fünf Jahren; Lückenberechnung |
+| B 5 RE 8/14 R | BSG, 05.08.2015 | Berufsschutz § 240 SGB VI; Verweisungstätigkeit; soziale Zumutbarkeit |
+| B 13 R 278/05 R | BSG, 09.05.2006 | Beginn der Erwerbsminderungsrente; § 99 SGB VI |
 
-## Prüfschema
+---
+
+## Prüfschema (14 Schritte)
+
+| Schritt | Inhalt | Norm |
+|---|---|---|
+| 1 | Versicherungsrechtliche Voraussetzungen prüfen | § 43 Abs. 1 S. 1 Nr. 2, 3 SGB VI |
+| 2 | Wartezeit fünf Jahre ermitteln (inkl. Anrechnungszeiten § 58 SGB VI) | § 50 SGB VI |
+| 3 | Pflichtbeiträge drei Jahre in letzten fünf Jahren vor EM-Eintritt | § 43 Abs. 1 S. 1 Nr. 2 SGB VI |
+| 4 | Ausnahmen von versicherungsrechtlichen Voraussetzungen prüfen | § 53 SGB VI |
+| 5 | Leistungsvermögen medizinisch quantifizieren (Stunden täglich) | § 43 Abs. 1, 2 SGB VI |
+| 6 | Mehrfacherkrankungen kumulieren (BSG B 5 RJ 64/02 R) | § 43 Abs. 2 SGB VI |
+| 7 | Berufsschutz § 240 SGB VI bei Jahrgang vor 02.01.1961 | § 240 SGB VI |
+| 8 | Verschlossener Teilzeitarbeitsmarkt bei 3–6 Stunden prüfen | BSG GS 2/95 |
+| 9 | Befristung § 102 Abs. 2 SGB VI beachten | § 102 SGB VI |
+| 10 | Beginn der Rente (§ 99 SGB VI — Antragsdatum) | § 99 SGB VI |
+| 11 | Hinzuverdienstgrenze § 96a SGB VI klären | § 96a SGB VI |
+| 12 | Sozialmedizinisches Gutachten der DRV analysieren | § 109 SGG |
+| 13 | Eigenes Gutachten § 109 SGG beantragen (Vertrauensarzt) | § 109 SGG |
+| 14 | Widerspruch § 84 SGG (1 Monat), Klage § 87 SGG (1 Monat) | §§ 84, 87 SGG |
+
+---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erwerbsminderungsrente Widerspruch | Widerspruchsschriftsatz; Template unten |
+| Variante A — Volle statt teilweise EM-Rente angestrebt | Gutachterliche Stellungnahme zur Leistungsfaehigkeit kleiner als 3h |
+| Variante B — Rentenanpassung statt Neuantrag | § 48 SGB X Wesentliche Aenderung; guenstigerer Weg |
+| Variante C — Berufsunfaehigkeit Privatversicherung parallel | BU-Versicherungs-Leistungsklage koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1 — Vollständige Widerspruchsbegründung
 
 ```
-1. Versicherungsrechtliche Voraussetzungen
-   - Wartezeit § 50 SGB VI (5 Jahre).
-   - 3 Jahre Pflichtbeiträge in den letzten 5 Jahren vor Eintritt § 43 Abs. 1 S. 1 Nr. 2 SGB VI; ggf. Ausnahmen § 53 SGB VI.
-2. Medizinische Voraussetzungen
-   - Stundenweises Leistungsvermögen auf dem allgemeinen Arbeitsmarkt.
-   - Mehrfacherkrankungen kumulieren.
-   - Belastungserprobung dokumentieren.
-3. Berufsschutz § 240 SGB VI nur bei Jahrgang vor 02.01.1961.
-4. Verschlossener Teilzeitarbeitsmarkt
-   - Bei Leistungsvermögen 3 bis unter 6 Stunden auf abstrakter Ebene Teilzeit-Stellen ./. konkret verschlossener Markt.
-5. Befristung § 102 SGB VI prüfen.
-6. Beginn § 99 SGB VI.
-7. Hinzuverdienst § 96a SGB VI.
-8. Bei Ablehnung: Widerspruch § 84 SGG (1 Monat), ggf. eigenes Gutachten § 109 SGG.
-```
-
-## Schreibvorlage (Widerspruch)
-
-```
-[Briefkopf]
-
-Deutsche Rentenversicherung [Träger]
-[Anschrift]                                                          [Ort, Datum]
+An die Deutsche Rentenversicherung [Träger]
+Widerspruchsstelle
+[Anschrift]
 
 Versicherungsnummer: [VsNr]
 betr. [Name, Geburtsdatum]
 
-Widerspruch gegen den Rentenbescheid vom [Datum], zugegangen am [Datum]
+Widerspruch gegen den Bescheid vom [Datum],
+zugegangen am [Datum]
 
 Sehr geehrte Damen und Herren,
 
-namens und in Vollmacht der Mandantschaft legen wir gegen den oben bezeichneten Bescheid
+namens und in Vollmacht unserer Mandantschaft legen wir gegen
+den oben bezeichneten Bescheid
 
-                                Widerspruch
+                       W i d e r s p r u c h
 
-ein.
+ein und begründen diesen wie folgt:
 
-Begründung (vorläufig, ausführliche Begründung folgt nach Akteneinsicht):
+I. Sachverhalt
 
-1. Versicherungsrechtliche Voraussetzungen
-   Die Voraussetzungen des § 43 Abs. 1 S. 1 Nr. 2 SGB VI sind erfüllt (3 Jahre Pflichtbeiträge in den letzten 5 Jahren vor Eintritt der Erwerbsminderung).
+Unsere Mandantschaft [Name, Geburtsdatum] leidet seit [Datum]
+an folgenden Erkrankungen:
+- [Diagnose 1, ICD, behandelnder Arzt]
+- [Diagnose 2, ICD, behandelnder Arzt]
+- [Diagnose 3, ICD, behandelnder Arzt]
 
-2. Medizinische Voraussetzungen
-   Die Mandantschaft leidet an [Diagnosen]. Auf Grundlage der vorliegenden ärztlichen Befundberichte ist ein quantitatives Leistungsvermögen von [Stunden] täglich nicht zumutbar.
-   - Hausarzt Dr. [Name], Bericht v. [Datum]
-   - Facharzt Dr. [Name], Bericht v. [Datum]
-   - Reha-Entlassungsbericht Klinik [Name], v. [Datum]
+Die letzte berufliche Tätigkeit als [Beruf] wurde am [Datum]
+aus gesundheitlichen Gründen aufgegeben. Seitdem besteht
+volle Arbeitsunfähigkeit.
 
-3. Verschlossener Teilzeitarbeitsmarkt
-   Sollte die Beklagte ein Leistungsvermögen von 3 bis unter 6 Stunden annehmen, ist der Teilzeitarbeitsmarkt für die Mandantschaft verschlossen, weil [Argumente] (BSG, Beschl. v. 19.12.1996 – Az. GS 2/95, BSGE 80, 24).
+II. Versicherungsrechtliche Voraussetzungen sind erfüllt
 
-4. Berufsschutz (sofern Geburtsjahrgang vor 02.01.1961)
-   Berufsschutz nach § 240 SGB VI besteht, weil die Mandantschaft im bisherigen Beruf als [Beruf] nicht mehr 6 Stunden täglich tätig sein kann.
+Die allgemeine Wartezeit von fünf Jahren (§ 50 SGB VI) ist
+erfüllt (Beitragszeiten von [Datum] bis [Datum], insgesamt
+[X] Monate).
 
-Wir bitten um Akteneinsicht (§ 25 SGB X) und um Übersendung des sozialmedizinischen Gutachtens, sofern noch nicht erfolgt.
+Die besonderen versicherungsrechtlichen Voraussetzungen des
+§ 43 Abs. 1 S. 1 Nr. 2 SGB VI sind erfüllt: In den letzten
+fünf Jahren vor Eintritt der Erwerbsminderung ([Zeitraum])
+liegen mindestens 36 Monate Pflichtbeitragszeiten vor
+(Anlage W1: Versicherungsverlauf).
 
-Anlagen:
-- Vollmacht
-- Befundberichte
-- ggf. Aufstellung der Versicherungszeiten
+III. Medizinische Voraussetzungen
+
+Das Leistungsvermögen ist auf unter drei Stunden täglich
+gesunken (volle Erwerbsminderung § 43 Abs. 2 SGB VI).
+Belegt durch:
+- Hausarzt Dr. [Name], Attest vom [Datum] (Anlage W2)
+- Facharzt [Fachrichtung] Dr. [Name], Bericht vom [Datum]
+  (Anlage W3)
+- Reha-Entlassungsbericht [Klinik] vom [Datum] (Anlage W4)
+
+Die Erkrankungen sind in ihrer Gesamtwirkung zu beurteilen
+(BSG B 5 RJ 64/02 R, 10.12.2003: Summierungseffekt).
+
+[Falls 3–6 Stunden angenommen wird:]
+IV. Verschlossener Teilzeitarbeitsmarkt
+
+Sollte die Beklagte lediglich ein quantitatives Leistungs-
+vermögen von 3 bis unter 6 Stunden täglich annehmen, ist
+die Rente wegen voller Erwerbsminderung dennoch zu gewähren.
+Der Teilzeitarbeitsmarkt ist für Personen mit dem Profil
+unserer Mandantschaft faktisch verschlossen (BSG, Beschl.
+v. 19.12.1996, GS 2/95, BSGE 80, 24). Konkrete verfügbare
+Stellen in dem in Betracht kommenden Bereich sind nicht
+benannt worden.
+
+[Falls Jahrgang vor 02.01.1961:]
+V. Berufsschutz § 240 SGB VI
+
+Unsere Mandantschaft hat Geburtsjahrgang [Jahr] und fällt
+damit in den Anwendungsbereich des § 240 SGB VI. Sie ist
+als [Beruf] im bisherigen Beruf nicht mehr zu sechs Stunden
+täglich einsetzbar. Eine sozial und gesundheitlich zumutbare
+Verweisungstätigkeit (BSG B 5 RE 8/14 R) ist nicht benannt
+worden.
+
+Wir beantragen:
+1. Den ablehnenden Bescheid aufzuheben.
+2. Unserer Mandantschaft ab [Datum] eine Rente wegen voller
+   Erwerbsminderung nach § 43 Abs. 2 SGB VI zu gewähren.
+3. Akteneinsicht in die vollständige Verwaltungsakte
+   (§ 25 SGB X), insbesondere das sozialmedizinische
+   Gutachten.
 
 Mit freundlichen Grüßen
-[Anwalt, Fachanwalt für Sozialrecht]
+[Fachanwalt/-anwältin für Sozialrecht]
 ```
 
-## Übergabe
+### Baustein 2 — Antrag auf Gutachten nach § 109 SGG
 
-- Bei Ablehnung sozialmedizinisches Gutachten kritisch prüfen; ggf. eigenes Gutachten nach § 109 SGG im SG-Verfahren beantragen.
-- Bei laufender Erwerbsminderung: Krankengeld-Anschluss (§ 48 SGB V) und Übergang Bürgergeld (SGB II) sicherstellen.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0.
+```
+An das Sozialgericht [Ort]
+
+Az. S [X] R [Az]
+
+In dem Rechtsstreit [Name] ./. Deutsche Rentenversicherung [Träger]
+
+beantragen wir:
+
+Gemäß § 109 SGG wird ein Gutachten über die Arbeitsfähigkeit
+der Klägerin / des Klägers durch folgende Gutachterin / folgenden
+Gutachter eingeholt:
+
+[Name des Gutachters]
+[Facharzt für Neurologie/Psychiatrie/Innere Medizin]
+[Praxisadresse]
+
+Beweisfrage:
+1. An welchen Erkrankungen leidet die Klägerin / der Kläger?
+2. Welches quantitative Leistungsvermögen auf dem allgemeinen
+   Arbeitsmarkt besteht in zeitlicher Hinsicht täglich?
+3. Welche qualitativen Einschränkungen bestehen?
+
+Die Auslagen des Gutachters trägt die Klägerin / der Kläger
+vorläufig.
+
+Mit freundlichen Grüßen
+[Fachanwalt/-anwältin]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Position | Träger | Beweismittel |
+|---|---|---|
+| Versicherungsrechtliche Voraussetzungen | Kläger | Versicherungsverlauf DRV, Beitragsnachweise |
+| Quantitatives Leistungsvermögen (< 3 h) | Kläger | Ärztliche Berichte, Gutachten, Entlassungsberichte |
+| Summierungseffekt Mehrfacherkrankungen | Kläger | BSG B 5 RJ 64/02 R; interdisziplinäres Gutachten |
+| Verschlossener Teilzeitarbeitsmarkt | DRV muss konkrete Stellen benennen | BSG GS 2/95; BA-Auskunft |
+| Berufsschutz § 240 (bisheriger Beruf) | Kläger | Arbeitsvertrag, Tätigkeitsbeschreibung |
+| Verweisungstätigkeit zumutbar | DRV | BSG B 5 RE 8/14 R; konkrete Benennung erforderlich |
+| Befristung sachlich gerechtfertigt | DRV | Gutachten, Prognose |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Grundlage | Inhalt |
+|---|---|---|
+| Ein Monat | § 84 Abs. 1 SGG | Widerspruchsfrist nach Bekanntgabe Bescheid |
+| Ein Monat | § 87 Abs. 1 SGG | Klagefrist nach Widerspruchsbescheid |
+| Ab Antragsdatum | § 99 SGB VI | Rentenbeginn; Rückwirkung auf Antragsdatum |
+| Drei Monate | § 88 Abs. 1 SGG | Untätigkeitsklage wenn kein Widerspruchsbescheid |
+| Vier Jahre | § 44 SGB X | Rücknahme rechtswidriger Ablehnungen |
+
+---
+
+## Typische Gegenargumente der Rentenversicherung
+
+| DRV-Argument | Rechtliche Gegenstrategie |
+|---|---|
+| "Leistungsvermögen noch 3–6 Stunden" | Verschlossener Teilzeitarbeitsmarkt BSG GS 2/95; keine konkreten Stellen benannt |
+| "Erkrankungen einzeln nicht ausreichend" | Summierungseffekt BSG B 5 RJ 64/02 R; Gesamtbewertung aller Erkrankungen |
+| "Versicherungsrechtliche Voraussetzungen fehlen" | Beitragszeiten exakt nachweisen; Ausnahmen § 53 SGB VI prüfen |
+| "Eigenes Gutachten widerspricht" | § 109 SGG: Antrag auf Gegengutachten; Widersprüche im Gutachten angreifen |
+| "Rehabilitation vorrangig" | § 15 SGB VI: Reha bereits durchgeführt und ohne Erfolg; DRV muss konkrete Maßnahmen benennen |
+| "Befristung auf 3 Jahre korrekt" | Bei dauerhafter Erkrankung Verlängerung beantragen; Unbefristung ab Regelaltersgrenze-Nähe |
+| "Hinzuverdienst zu hoch" | § 96a SGB VI: Grenzwerte exakt berechnen; Differenzierung Brutto/Netto |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Richtwert |
+|---|---|
+| Streitwert EM-Rente (Vollrente) | 13-facher monatlicher Rentenwert (§ 42 GKG i.V.m. § 9 ZPO analog) |
+| Gerichtskosten SG | Kostenfrei § 183 SGG |
+| Anwaltskosten | PKH/LSG prüfen; sonst ca. EUR 1200 bis 2000 (erste Instanz) |
+| § 109-Gutachten | EUR 800 bis 3000; Vorschuss Kläger, Erstattung bei Erfolg |
+| LSG-Berufung | Streitwert > EUR 750 (§ 144 Abs. 1 SGG) |
+
+---
+
+## Strategische Empfehlung
+
+| Fallkonstellation | Empfehlung |
+|---|---|
+| DRV-Ablehnung, Gutachten intern ungünstig | § 109 SGG-Antrag eigener Gutachter; inhaltliche Fehler des internen Gutachtens angreifen |
+| Mehrfacherkrankungen | Kumulationsargumentation BSG B 5 RJ 64/02 R; fachübergreifendes Gutachten |
+| 3–6 Stunden Leistungsvermögen | Verschlossener Teilzeitmarkt BSG GS 2/95 geltend machen |
+| Berufsschutz § 240 | Bisherigen Beruf und Verweisungstätigkeiten präzise definieren |
+| Versicherungszeiten-Lücke | § 53 SGB VI-Ausnahmen prüfen; Anrechnungszeiten nachweisen |
+| Klage anhängig | Parallele Leistungssicherung (Bürgergeld, Krankengeld) sicherstellen |
+
+---
+
+## Häufige Schwachstellen im DRV-Bescheid
+
+1. Sozialmedizinisches Gutachten allein nach Aktenlage, kein persönlicher Vorstellungstermin
+2. Psychiatrische Diagnosen nicht vollständig erfasst
+3. Schmerzsyndrome im Belastbarkeitsprofil unterbewertet
+4. Wegefähigkeit nicht geprüft
+5. Summierung ungewöhnlicher Leistungseinschränkungen nicht thematisiert
+6. Falsche Anwendung Drei-Stunden-Sechs-Stunden-Grenze
+7. Leistungsfall zu spät angesetzt → Drei-aus-Fünf-Regel scheitert
+
+## Beweisanträge
+
+- Beiziehung der DRV-Verwaltungsakte vollständig
+- Sachverständigengutachten Fachgebiet [Innere Medizin / Orthopädie / Psychiatrie]
+- Vernehmung der behandelnden Ärzte als Zeugen / sachverständige Zeugen
+- Beiziehung Berentungsgutachten DGUV (wenn berufsgenossenschaftliche Vorgeschichte)
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-sozialrecht-widerspruch-sozialleistung` — allgemeiner Widerspruchsprozess
+- `fachanwalt-sozialrecht-sgb-ii-bescheid` — Bürgergeld während des Verfahrens
+- `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` — bei Long-COVID als Auslöser
+- `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` — Vergleichsstrategie SG
+
+## Quellen
+
+Stand: 05/2026. SGB VI §§ 43, 50, 53, 96a, 99, 102, 240. SGG §§ 84, 87, 88, 109. BSG GS 2/95 (19.12.1996, BSGE 80, 24). BSG B 5 RJ 64/02 R (10.12.2003). BSG B 4 RA 32/03 R (23.10.2003). BSG B 5 R 8/10 R (11.05.2011). BSG B 5 RE 8/14 R (05.08.2015). BSG B 13 R 278/05 R (09.05.2006). § 44 SGB X. SGB X §§ 24, 25.

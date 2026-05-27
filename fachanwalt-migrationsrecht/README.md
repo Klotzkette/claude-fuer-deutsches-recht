@@ -1,6 +1,6 @@
 # Fachanwalt Migrationsrecht
 
-Light-Touch-Plugin Fachanwalt für Migrationsrecht. Orientierung AufenthG AsylG GFK Dublin-VO EU-Verfahrensrichtlinie Qualifikations-RL StAG Einbürgerung Aufenthaltsverfestigung Familiennachzug. Notfrist § 36 AsylG (eine Woche).
+Plugin Fachanwalt für Migrationsrecht. Orientierung AufenthG AsylG GFK Dublin-VO EU-Verfahrensrichtlinie Qualifikations-RL StAG Einbürgerung Aufenthaltsverfestigung Familiennachzug. Notfrist § 36 AsylG (eine Woche).
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

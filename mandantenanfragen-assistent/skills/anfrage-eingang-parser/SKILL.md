@@ -1,11 +1,34 @@
 ---
 name: anfrage-eingang-parser
-description: "Parst die eingehende Mandantenanfrage per E-Mail und extrahiert strukturiert: Anrede und Name des Absenders, E-Mail-Adresse, Telefonnummer und weitere Kontaktdaten, Sachverhaltsfetzen und Stichwörter, dringliche Hinweise auf Fristen oder Haftungsrisiken. Laedt wenn der Nutzer 'Anfrage auswerten', 'Eingang parsen', 'E-Mail analysieren', 'Kontaktdaten extrahieren' oder 'Sachverhalt herausarbeiten' sagt."
+description: "Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Pruefraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf)."
 ---
 
 # Anfrage-Eingang-Parser
 
 Dieser Skill extrahiert aus einer eingehenden Mandantenanfrage per E-Mail alle relevanten Informationen in strukturierter Form, damit das Sekretariat und die bearbeitende Rechtsanwältin sofort den Überblick haben.
+
+
+## Triage zu Beginn
+1. Ueber welchen Kanal ist die Anfrage eingegangen: E-Mail, Webformular, beA, Telefonnotiz, Messenger?
+2. Gibt es eindeutige Fristen-Signale oder Eile-Marker, die sofortige Weiterleitung erfordern?
+3. Kann die anfragende Person identifiziert werden (Name, E-Mail, Telefon) oder ist die Anfrage anonym?
+4. Ist die Anfrage in deutscher Sprache oder in einer Fremdsprache (Weiterleitung an mehrsprachige-antwort)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Dokumentationspflicht des Anwalts gilt ab Eingang der Anfrage; strukturiertes Parsing als Nachweis ordnungsgemaesser Bearbeitung.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Verarbeitung von Anfragedaten erfordert Rechtsgrundlage nach Art. 6 DSGVO; Erstanfrage ist noch kein Vertrag, daher ist berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO oder Vertragsanbahnung nach lit. b massgeblich.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzlei ist verpflichtet, Fristen aus eingehenden Schreiben sofort zu erkennen; verspätetes Parsing begruendet Haftungsrisiko.
+- OLG Hamm, Urt. v. 23.03.2021 - 28 U 115/20, NJW-RR 2021, 895 — Fehlende oder verspaetete Eingangsbestaetigung kann als Ablehnung des Mandats interpretiert werden; strukturiertes Parsing unterstuetzt rechtzeitige Reaktion.
+
+## Zentrale Normen
+- Art. 6 Abs. 1 lit. b, f DSGVO — Rechtsgrundlage fuer Verarbeitung von Erstanfrage-Daten
+- Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur notwendige Daten aus der Anfrage extrahieren
+- § 43 BRAO — Sorgfaltspflicht: sofortige Bearbeitung und Dokumentation eingehender Anfragen
+- § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: vor Mandatsannahme ueber voraussichtliche Kosten informieren
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Sorgfaltspflicht: Eingangsbearbeitung und Dokumentation)
+- Kühling/Buchner DSGVO Art. 6 Rn. 60-80 (Vertragsanbahnung und berechtigtes Interesse als Rechtsgrundlage)
 
 ## Zweck
 

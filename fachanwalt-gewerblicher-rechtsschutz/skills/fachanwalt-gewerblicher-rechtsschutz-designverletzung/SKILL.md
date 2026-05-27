@@ -1,97 +1,115 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-designverletzung
-description: Designverletzungsklage §§ 38 ff. DesignG. Eingetragenes Design und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Schutzvoraussetzungen Neuheit Eigenart §§ 2 ff. Schutzumfang Gesamteindruck informierter Benutzer § 38 Abs. 2 DesignG. Anspruechseite Unterlassung Auskunft Vernichtung Rueckruf Schadensersatz lizenzanalog Verletzergewinn. Einstweilige Verfuegung Dringlichkeit. Schreibvorlagen.
+description: "Geschmacksmuster- oder Designverletzung pruefen und Ansprueche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprueche EU-Geschmacksmuster-VO. Pruefraster: Schutzfaehigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprueche. Output: Verletzungspruefmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht fuer Marken- oder Urheberrechtsverletzungen."
 ---
 
-# Designverletzungsklage (§§ 38 ff. DesignG)
+## Mandantenfragen beim Kaltstart
 
-## Kaltstart-Rückfragen
-
-1. Welcher Schutztitel besteht (eingetragenes deutsches Design beim DPMA, eingetragenes Gemeinschaftsgeschmacksmuster EUIPO, nicht eingetragenes Gemeinschaftsgeschmacksmuster nach GGV Art. 11)?
-2. Anmeldetag und Schutzdauer (DE und EU jeweils max. 25 Jahre, alle fünf Jahre Verlängerung)?
-3. Wie sieht das vermeintlich verletzende Produkt aus (Foto, Maße, Vertriebsweg)?
-4. Liegt eine Voroffenbarung iSv § 5 DesignG vor (Neuheitsschonfrist 12 Monate)?
-5. Wann erlangte die Mandantenseite Kenntnis vom Verletzungsprodukt (Dringlichkeit einstweilige Verfügung)?
-6. Welches Ziel: schnelle Unterlassung (einstweilige Verfügung) oder Hauptsacheklage mit Schadensersatz?
+1. Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Art. 11, 3 Jahre ab Erstoffenbarung)?
+2. Was ist der Anmeldetag und wie viele Verlängerungsperioden wurden bereits gebucht (max. 25 Jahre, alle 5 Jahre, § 47 DesignG)?
+3. Wie sieht das mutmaßliche Verletzungsmuster konkret aus — Fotos, Maße, Vertriebskanal, Amazon-ASIN, URL?
+4. Liegt eine Voroffenbarung des Klagedesigns vor (§ 5 DesignG: Neuheitsschonfrist 12 Monate)?
+5. Wann erlangte die Mandantschaft Kenntnis vom Verletzungsprodukt — wichtig für Dringlichkeit der einstweiligen Verfügung (Selbstwiderlegung ab ca. 4 Wochen)?
+6. Welcher Gestaltungsfreiraum besteht im Marktsegment (§ 38 Abs. 2 S. 2 DesignG) — enge technische Vorgaben oder breite Gestaltungsfreiheit?
+7. Welche Schadenshöhe ist realistisch — Verkaufszahlen Verletzungsprodukt schätzbar?
+8. Liegt Anspruchskonkurrenz vor — ist das Design auch markenrechtlich, urheberrechtlich oder als Lauterkeitsrecht-Nachahmungsschutz (§ 4 Nr. 3 UWG) schützbar?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **DesignG:** Schutzgegenstand § 1 Nr. 1 DesignG; Schutzvoraussetzungen Neuheit § 2 Abs. 2, Eigenart § 2 Abs. 3 DesignG; Schutzumfang § 38 Abs. 2 (Gesamteindruck informierter Benutzer); Ansprüche §§ 38, 42 ff. DesignG.
-- **GGV (EG 6/2002):** Eingetragenes Gemeinschaftsgeschmacksmuster Art. 35 ff.; nicht eingetragenes Gemeinschaftsgeschmacksmuster Art. 11 (Schutzdauer drei Jahre ab erster Offenbarung in der Union).
-- **Anspruchsinhalte:**
-  - Unterlassung § 42 Abs. 1 DesignG.
-  - Beseitigung, Vernichtung, Rückruf § 43 DesignG.
-  - Auskunft § 46 DesignG; Anspruch gegen Dritte § 46 Abs. 2 DesignG.
-  - Schadensersatz § 42 Abs. 2 DesignG; Berechnung dreigleisig: konkreter Schaden, lizenzanaloger Schadensersatz, Verletzergewinn.
-- **Erschöpfung:** § 48 DesignG.
-- **Verjährung:** §§ 195, 199 BGB iVm § 49 DesignG (für Ersatz von Aufwendungen § 13 Abs. 3 UWG keine Anwendung).
-- **Einstweilige Verfügung:** §§ 935, 940 ZPO; Dringlichkeit als ungeschriebenes Tatbestandsmerkmal (Selbstwiderlegung bei längerem Zuwarten typisch ab vier Wochen).
+| Norm | Inhalt |
+|------|--------|
+| § 1 Nr. 1 DesignG | Schutzgegenstand: zweidimensionale und dreidimensionale Erscheinungsform eines Erzeugnisses |
+| § 2 Abs. 2 DesignG | Schutzvoraussetzung Neuheit: kein identisches Design vor Anmeldung offenbart |
+| § 2 Abs. 3 DesignG | Schutzvoraussetzung Eigenart: anderer Gesamteindruck beim informierten Benutzer |
+| § 5 DesignG | Neuheitsschonfrist 12 Monate für Eigenveröffentlichung durch den Entwerfer |
+| § 38 Abs. 2 DesignG | Schutzumfang: jedes Design, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt; Gestaltungsfreiheit des Entwerfers berücksichtigen |
+| § 42 Abs. 1 DesignG | Unterlassungsanspruch |
+| § 42 Abs. 2 DesignG | Schadensersatz bei Verschulden (Vorsatz oder Fahrlässigkeit); drei Berechnungsmethoden |
+| § 43 DesignG | Beseitigung, Vernichtung, Rückruf |
+| § 46 DesignG | Auskunftsanspruch; Drittauskunft § 46 Abs. 2 |
+| § 47 f. DesignG | Schutzdauer 5 Jahre ab Anmeldung; max. 25 Jahre durch Verlängerung |
+| § 48 DesignG | Erschöpfung |
+| § 49 DesignG | Verjährung iVm §§ 195, 199 BGB |
+| Art. 11 GGV (EG 6/2002) | Nicht eingetragenes Gemeinschaftsgeschmacksmuster: 3 Jahre ab erster Offenbarung in der EU; nur bei nachgewiesener Kopie |
+| Art. 35 ff. GGV | Eingetragenes Gemeinschaftsgeschmacksmuster EUIPO |
+| §§ 935, 940 ZPO | Einstweilige Verfügung; Dringlichkeit ungeschriebenes Tatbestandsmerkmal |
+| Art. 16 DSA | Notice-and-Action bei Online-Plattformen (seit 17.2.2024 voll anwendbar) |
 
-## Maßgebliche Rechtsprechung
+## Leitentscheidungen
 
-- BGH, Urt. v. 28.09.2011 – Az. I ZR 23/10, GRUR 2012, 512 Rn. 23 – Kinderwagen II — Gesamteindruck informierter Benutzer.
-- BGH, Urt. v. 24.03.2011 – Az. I ZR 211/08, GRUR 2011, 1112 Rn. 32 – Schreibgeräte — Schutzumfang Geschmacksmuster.
-- EuGH, Urt. v. 20.10.2011 – Az. C-281/10, Slg. 2011, I-10153 Rn. 53 – PepsiCo/Grupo Promer — Maßstab des informierten Benutzers.
-- BGH, Urt. v. 24.07.2017 – Az. X ZR 142/15, BGHZ 215, 214 Rn. 19 — Verletzergewinn als Berechnungsmethode (übertragbar auf DesignG).
-- OLG Düsseldorf, Urt. v. 17.03.2022 – Az. I-20 U 261/20, GRUR-RS 2022, 9521 Rn. 28 — Designverletzung im Online-Handel.
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | I ZR 23/10 | 28.09.2011 | Kinderwagen II: Maßstab „informierter Benutzer" beim Gesamteindrucksvergleich; kein Durchschnittskunde |
+| BGH | I ZR 211/08 | 24.03.2011 | Schreibgeräte: Schutzumfang Geschmacksmuster abhängig vom Grad der Eigenart |
+| EuGH | C-281/10 | 20.10.2011 | PepsiCo/Grupo Promer: Informierter Benutzer nimmt Designs nacheinander wahr; kein direkter Vergleich nötig |
+| BGH | X ZR 142/15 | 24.07.2017 | Verletzergewinn als selbstständige Berechnungsmethode auch im Designrecht anerkannt |
+| OLG Düsseldorf | I-20 U 261/20 | 17.03.2022 | Designverletzung im Online-Handel: Produktbild auf Amazon-Plattform als öffentliches Anbieten i. S. § 38 DesignG |
+| OLG Frankfurt | 6 U 111/19 | 28.11.2019 | Nicht eingetragenes Gemeinschaftsgeschmacksmuster setzt bei Verletzungsklage Nachweis der Kopie voraus |
+| BGH | I ZR 120/16 | 23.11.2017 | Selbstwiderlegung Dringlichkeit: 4 Wochen als Faustregel; Einzelfall entscheidend |
 
-## Prüfschema
+## Prüfschema Designverletzung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
+| Schritt | Prüfpunkt | Norm | Rechtsfolge |
+|---------|-----------|------|-------------|
+| 1 | Schutzrecht vorhanden und eingetragen? | § 41 DesignG; Art. 35 GGV | DPMA-/EUIPO-Registerauszug als Anlage |
+| 2 | Schutzdauer nicht abgelaufen? | § 47 DesignG | Verlängerung prüfen |
+| 3 | Neuheit gegeben? | § 2 Abs. 2 DesignG | Vorveröffentlichungs-Recherche; Schonfrist § 5 DesignG (12 Monate) |
+| 4 | Eigenart gegeben (Gesamteindruck informierter Benutzer)? | § 2 Abs. 3 DesignG | Sachverständigengutachten ggf. erforderlich |
+| 5 | Verletzungsmuster verglichen: gleicher Gesamteindruck? | § 38 Abs. 2 DesignG | Gestaltungsfreiheit des Segments berücksichtigen |
+| 6 | Passivlegitimation: Hersteller, Importeur, Händler? | § 42 Abs. 1 DesignG | Klage gegen gesamte Lieferkette möglich |
+| 7 | Kein Rechtfertigungsgrund (Erschöpfung, Privatnutzung, Test)? | §§ 40, 48 DesignG | Ausnahmen eng auslegen |
+| 8 | Verschulden für Schadensersatz? | § 42 Abs. 2 DesignG | Fahrlässigkeit bei Internet-Händler regelmäßig (+) |
+| 9 | Dringlichkeit bei einstweiliger Verfügung? | §§ 935, 940 ZPO | Kenntnis-Datum dokumentieren; Antrag binnen 4 Wochen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Designverletzung geltend machen | Klageschrift-Antragsskizze und eAVV unten |
+| Variante A — Mandant will erst aussergerichtlich | Abmahnung mit Unterlassungserklaerung; Klage als Backup |
+| Variante B — Online-Plattform als Verletzungsort | Notice-and-Action Art. 16 DSA; schneller Weg |
+| Variante C — Gegenseite bestreitet Schutzbereich des Designs | Nichtigkeitsantrag beim DPMA pruefen; Verteidigung vorbereiten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatz-Bausteine
+
+### Verletzungsklage (vollständige Antragsskizze)
 
 ```
-1. Schutzrecht
-   - Eingetragenes Design DE (DPMA) oder EU (EUIPO)
-   - Nicht eingetragenes Gemeinschaftsgeschmacksmuster GGV Art. 11
-2. Schutzvoraussetzungen
-   - Neuheit § 2 Abs. 2 DesignG (kein identisches vorbekanntes Design)
-   - Eigenart § 2 Abs. 3 DesignG (anderer Gesamteindruck für informierten Benutzer)
-3. Verletzung § 38 DesignG
-   - Gegenüberstellung Klagedesign und Verletzungsmuster
-   - Gestaltungsfreiraum berücksichtigen § 38 Abs. 2 S. 2 DesignG
-4. Passivlegitimation
-   - Hersteller, Importeur, Händler (Klage gegen jeden in Lieferkette möglich)
-5. Anspruchsumfang
-   - Unterlassung § 42 Abs. 1
-   - Auskunft § 46
-   - Vernichtung, Rückruf § 43
-   - Schadensersatz § 42 Abs. 2 (Methodenwahl Klageantrag offen halten)
-6. Dringlichkeit
-   - Bei eV Antragstellung typisch binnen 4 Wochen ab Kenntnis
-7. Streitwert
-   - Typischer Wert EUR 50 000 bis EUR 250 000 je nach Marktbedeutung
-```
-
-## Schreibvorlage Verletzungsklage
-
-```
-An das Landgericht [Ort der gewerblichen Niederlassung der Beklagten]
-- Kammer für Designstreitsachen § 52 DesignG -                     [Ort, Datum]
+An das Landgericht [Ort] – Kammer für Designstreitsachen § 52 DesignG –
 
 Klage
 
-der [Designinhaberin, Anschrift]                                    - Klägerin -
+der [Designinhaberin], [Anschrift]  – Klägerin –
 gegen
-die [Verletzerin, Anschrift]                                        - Beklagte -
+die [Verletzerin], [Anschrift]      – Beklagte –
 
-wegen Designverletzung
+wegen Verletzung des eingetragenen Designs Nr. [DE/EM-Nr.]
 
 Anträge:
 
-1. Die Beklagte wird verurteilt, es bei Meidung eines vom Gericht für jeden
-   Fall der Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu EUR 250 000,
-   ersatzweise Ordnungshaft, im geschäftlichen Verkehr zu unterlassen, Produkte
-   gemäß Anlage K 3 (Verletzungsmuster) anzubieten, in Verkehr zu bringen oder
+1. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der
+   Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu EUR 250.000,
+   ersatzweise Ordnungshaft bis zu 6 Monaten, zu unterlassen, Produkte
+   gemäß Anlage K 3 (Verletzungsmuster) anzubieten, zu vertreiben oder
    zu bewerben.
 
-2. Die Beklagte wird verurteilt, der Klägerin Auskunft zu erteilen über
-   Herkunft und Vertriebsweg der Verletzungsmuster gemäß § 46 DesignG, und zwar
-   namentlich
-   a) Lieferanten, Hersteller, Vorbesitzer,
-   b) gewerbliche Abnehmer,
-   c) Mengen, Preise, Umsatzerlöse.
+2. Die Beklagte wird verurteilt, der Klägerin Auskunft zu erteilen
+   (§ 46 DesignG):
+   a) Lieferanten, Hersteller, Vorbesitzer;
+   b) gewerbliche Abnehmer mit Anschriften und Bestellmengen;
+   c) Umsatzerlöse und Einkaufspreise je Verletzungseinheit.
 
-3. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin alle
-   Schäden zu ersetzen, die ihr durch Handlungen gemäß Nr. 1 entstanden sind
-   oder noch entstehen werden.
+3. Es wird festgestellt, dass die Beklagte verpflichtet ist, der Klägerin
+   alle durch die Handlungen gemäß Nr. 1 entstandenen und künftigen Schäden
+   zu ersetzen (§ 42 Abs. 2 DesignG).
 
 4. Die Beklagte wird verurteilt, die in ihrem Besitz befindlichen
    Verletzungsmuster zu vernichten und aus den Vertriebskanälen zurückzurufen
@@ -104,59 +122,188 @@ Streitwert: EUR [Betrag].
 Begründung:
 
 I. Aktivlegitimation
-Die Klägerin ist Inhaberin des eingetragenen Designs Nr. [DE/EM-Nr.] (Anlage
-K 1, Registerauszug), angemeldet am [Datum], eingetragen am [Datum], Klasse
-Locarno [Nr.]. Schutz wird in der Wiedergabe gemäß Anlage K 2 beansprucht.
+Die Klägerin ist Inhaberin des eingetragenen Designs Nr. [Reg.-Nr.], angemeldet
+am [Datum] beim [DPMA/EUIPO], Locarno-Klasse [Nr.] (Anlage K 1, Registerauszug).
+Die Schutzwiedergaben sind in Anlage K 2 enthalten.
 
 II. Sachverhalt
-Die Beklagte vertreibt unter der Bezeichnung [...] das in Anlage K 3
-abgebildete Produkt über [Vertriebskanal, URL].
+Die Beklagte vertreibt seit [Datum] das in Anlage K 3 abgebildete Produkt
+[Bezeichnung] über [Vertriebskanal / URL / Amazon ASIN]. Ein Testkauf
+erfolgte am [Datum] (Anlage K 4, Kassenbon / Bestellbestätigung).
 
-III. Designverletzung § 38 DesignG
-Das Verletzungsmuster ruft beim informierten Benutzer denselben Gesamteindruck
-hervor wie das Klagedesign. Sämtliche prägenden Gestaltungsmerkmale sind
-übernommen: [Aufzählung Gestaltungsmerkmale]. Der Gestaltungsfreiraum im
-einschlägigen Marktsegment ist [groß/klein] (§ 38 Abs. 2 S. 2 DesignG).
+III. Neuheit und Eigenart
+Das Klagedesign ist neu i. S. § 2 Abs. 2 DesignG; der Stand des Designs
+weist kein identisches vorbekanntes Design auf. Es besitzt Eigenart nach
+§ 2 Abs. 3 DesignG, da der informierte Benutzer im Vergleich zu vorbekannten
+Designs einen anderen Gesamteindruck erhält: [Ausführung der prägenden Merkmale].
 
-IV. Ansprüche
-Aus § 42 Abs. 1 DesignG folgt der Unterlassungsanspruch; aus § 46 DesignG der
-Auskunftsanspruch; aus § 42 Abs. 2 DesignG iVm § 256 ZPO das
-Feststellungsinteresse für Schadensersatz; aus § 43 DesignG Vernichtung und
-Rückruf.
+IV. Designverletzung § 38 DesignG
+Das Verletzungsmuster ruft beim informierten Benutzer (BGH I ZR 23/10 –
+Kinderwagen II) denselben Gesamteindruck hervor wie das Klagedesign.
+Folgende prägende Gestaltungsmerkmale sind vollständig übernommen:
+[tabellarische Gegenüberstellung Klagedesign vs. Verletzungsmuster].
+Der Gestaltungsfreiraum im Segment [Warenbereich] ist [groß/gering],
+was zu einem [weiten/engen] Schutzumfang führt (§ 38 Abs. 2 S. 2 DesignG).
 
-[Anwalt, Fachanwalt für gewerblichen Rechtsschutz]
+V. Schadensersatz
+Die Beklagte handelte zumindest fahrlässig. Die Klägerin behält sich die
+Wahl der Schadensberechnungsmethode (konkreter Schaden / Verletzergewinn /
+fiktive Lizenzgebühr) bis nach Auskunftserteilung vor (§ 42 Abs. 2 DesignG).
+
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name], Fachanwalt/Fachanwältin für
+gewerblichen Rechtsschutz
 ```
 
-## Schreibvorlage Antrag einstweilige Verfügung
+### Antrag einstweilige Verfügung
 
 ```
-Antrag auf Erlass einer einstweiligen Verfügung
+An das Landgericht [Ort]
+
+ANTRAG AUF ERLASS EINER EINSTWEILIGEN VERFÜGUNG
 gemäß §§ 935, 940 ZPO iVm § 42 DesignG
 
 Verfügungsklägerin: [Designinhaberin]
 Verfügungsbeklagte: [Verletzerin]
 
-Es wird beantragt, der Verfügungsbeklagten unter Androhung der Ordnungsmittel
-des § 890 ZPO bei Meidung eines für jeden Fall der Zuwiderhandlung festzu-
-setzenden Ordnungsgeldes bis zu EUR 250 000 zu untersagen, das in Anlage AS 3
-abgebildete Produkt im geschäftlichen Verkehr anzubieten, in Verkehr zu bringen
-oder zu bewerben.
+Es wird beantragt:
+Der Verfügungsbeklagten wird es bei Meidung eines Ordnungsgeldes bis zu
+EUR 250.000, ersatzweise Ordnungshaft bis zu 6 Monaten, untersagt, das in
+Anlage AS 3 abgebildete Produkt im geschäftlichen Verkehr anzubieten, zu
+vertreiben oder zu bewerben.
 
 Dringlichkeit:
-Die Verfügungsklägerin erlangte erst am [Datum] Kenntnis von der Verletzung
-durch [Testkauf, Hinweis Dritter]. Sie reicht den Antrag binnen [Tage seit
-Kenntnis] ein; eine Selbstwiderlegung liegt nicht vor.
+Kenntnis am [Datum] durch [Testkauf / Hinweis]. Antrag nach [X] Tagen;
+keine Selbstwiderlegung (BGH I ZR 120/16).
 
 Glaubhaftmachung:
-Eidesstattliche Versicherung [Name], Registerauszüge (Anlagen AS 1, AS 2),
-Testkaufunterlagen (Anlage AS 3).
+Anlage EV 1: Eidesstattliche Versicherung [Name];
+Anlage EV 2: Registerauszug DPMA/EUIPO;
+Anlage EV 3: Testkauf-Unterlagen / Screenshot.
 
-[Anwalt, Fachanwalt für gewerblichen Rechtsschutz]
+[Ort, Datum]
+[Anwalt/Anwältin]
 ```
 
-## Übergabe
+### Notice-and-Action gegen Online-Plattform (Art. 16 DSA)
 
-- Bei mehreren Schutzrechten (Design plus Marke plus UWG plus UrhG) Anspruchskonkurrenz prüfen; Klagehäufung möglich.
-- Bei Verletzungen im Online-Handel Schnittstelle zu Plattformbetreibern (§§ 7-10 DDG seit 14.5.2024 vormals § 7 TMG aF iVm Art. 16 DSA Notice-and-Action).
-- Bei Auslandsbezug Schnittstelle zur Brüssel-Ia-VO (Zuständigkeit) und Rom-II-VO Art. 8 (anwendbares Recht).
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, EuGH/BGH-Pinpoint mit Rn., Hierarchie EuGH vor BGH vor OLG).
+```
+An [Plattformbetreiber – IP-Beschwerdestelle] per [E-Mail/Portal]
+
+Meldung einer Rechtsverletzung gemäß Art. 16 DSA
+
+Rechteinhaber: [Unternehmensname], Inhaber des eingetragenen Designs Nr. [Reg.-Nr.]
+
+Verletzende Inhalte (URLs / ASINs):
+[Liste der URLs]
+
+Begründung:
+Die oben bezeichneten Angebote verletzen das eingetragene Design Nr. [Reg.-Nr.]
+(Registerauszug in Anlage). Wir beantragen die unverzügliche Entfernung der
+Angebote gemäß Art. 16 DSA.
+
+Ich erkläre in gutem Glauben, dass die gemeldeten Informationen nicht von
+den Rechteinhabern autorisiert sind.
+
+[Kontaktdaten, Datum, Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Beweislast
+
+| Beweisthema | Beweislast | Beweismittel |
+|------------|-----------|--------------|
+| Schutzrecht, Inhaberschaft | Klägerin | DPMA-/EUIPO-Registerauszug; Prioritätsurkunde |
+| Neuheit (§ 2 Abs. 2 DesignG) | Beklagte (Einwand Nichtigkeitsgegenklage) | Vorveröffentlichungs-Nachweise |
+| Eigenart — Gesamteindruck | Klägerin (primär); Beklagte bei Einwand fehlender Eigenart | Sachverständigengutachten; Designvergleichs-Tabellen |
+| Verletzung: gleicher Gesamteindruck | Klägerin | Gegenüberstellung; ggf. Sachverständiger |
+| Verschulden für Schadensersatz | Klägerin | Abmahnschreiben + Zuwiderhandlung = Indiz Vorsatz |
+| Schadenshöhe | Klägerin (nach Auskunft) | Betriebliche Unterlagen Beklagter; Marktpreisanalysen |
+| Erschöpfung (§ 48 DesignG) | Beklagte | Nachweis Erstinverkehrbringen durch Rechteinhaber |
+
+## Fristen
+
+| Frist | Inhalt | Norm |
+|-------|--------|------|
+| 4 Wochen | Faustregel Dringlichkeit einstweilige Verfügung ab Kenntnis | BGH I ZR 120/16 |
+| 3 Monate | Widerspruch Eintragung bei DPMA | § 42 DesignG |
+| 5 Jahre | Verlängerungsperiode Schutzdauer; max. 25 Jahre | § 47 DesignG |
+| 3 Jahre | Schadensersatzanspruch-Verjährung ab Kenntnis | §§ 195, 199 BGB iVm § 49 DesignG |
+| 12 Monate | Neuheitsschonfrist bei Eigenveröffentlichung | § 5 DesignG |
+| 3 Jahre | Schutz nicht eingetragenes Gemeinschaftsgeschmacksmuster ab erster Offenbarung | Art. 11 GGV |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument | Herkunft | Reaktion |
+|--------------|---------|----------|
+| „Design fehlt Eigenart" | Beklagte | Sachverständigengutachten einholen; Designvergleich mit Stand der Technik aufbereiten; hohe Hürde für Nichtigkeitsgegenklage |
+| „Kein gleicher Gesamteindruck" | Beklagte | BGH Kinderwagen II: Gesamteindruck, nicht Detailvergleich; prägende Merkmale herausarbeiten |
+| „Vorveröffentlichung durch Klägerin beseitigt Neuheit" | Beklagte | Neuheitsschonfrist § 5 DesignG (12 Monate) bei Eigenoffenbarung; Datum der Erstveröffentlichung prüfen |
+| „Erschöpfung § 48 DesignG" | Beklagte | War Erstinverkehrbringen durch Rechteinhaber autorisiert? Nachweis der Lieferkette |
+| „Antrag nicht dringlich — zu lange gewartet" | Beklagte | Genaues Kenntnis-Datum dokumentieren; subjektive Dringlichkeit (ab tatsächlicher Kenntnis, nicht Erkennbarkeitszeitpunkt) |
+| „Verletzungsmuster ist anderes Produkt" | Beklagte | Detaillierter Vergleich Gestaltungsmerkmale; ggf. Gerichtstermin mit Originals und Mustern |
+
+## Streitwert und Kosten
+
+**Streitwert Unterlassung:** Typisch EUR 50.000–250.000 je nach Marktbedeutung, Umsatz des Verletzungsprodukts und Marktposition des Klägers.  
+Beispiel: 5.000 Stück verkauft à EUR 30 Verkaufspreis = EUR 150.000 Streitwert realistisch.
+
+**Einstweilige Verfügung:** Streitwert i. d. R. Hauptsachestreitwert voll oder Abschlag bis 1/2.
+
+**Gerichtsgebühren (GKG):**  
+Aus EUR 100.000: Gebühr 3.0 (Klageverfahren) ca. EUR 2.604.  
+Einstweilige Verfügung: Gebühr 1.5 ca. EUR 1.302.
+
+**Anwaltsgebühren (RVG, Beispiel EUR 100.000 Streitwert):**  
+Verfahrensgebühr 1.3 VV RVG ca. EUR 2.018; Terminsgebühr 1.2 VV RVG ca. EUR 1.863; Einigungsgebühr 1.5 VV RVG ca. EUR 2.018; zzgl. Auslagen, 19 % MwSt.
+
+**Schadensberechnung:**
+- Fiktive Lizenzgebühr: branchenüblich 3–10 % des Verletzter-Umsatzes.
+- Verletzergewinn: vollständige Abschöpfung.
+- Konkreter Schaden: entgangener Gewinn + Marktverwirrung.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung | Begründung |
+|-----------|------------|-----------|
+| Verletzung Online-Handel festgestellt | Sofort Notice-and-Action Art. 16 DSA + parallele einstweilige Verfügung gegen Verkäufer | Schnelle Marktbereinigung; Beweissicherung durch Testkauf vor Antragstellung |
+| Hoher Umsatz des Verletzungsprodukts | Hauptsacheklage auf Verletzergewinn + Vernichtung | Maximale Schadensabschöpfung |
+| Schutz noch nicht eingetragen | Nicht eingetragenes GGM Art. 11 GGV nutzen (3 Jahre); keine Kopie nachweisbar? → sofort DPMA-Anmeldung nachholen | Eingetragenes Design hat deutlich besseren Schutzumfang |
+| Anspruchskonkurrenz (Design + Marke + UWG) | Klagehäufung; Hauptanspruch Design; Hilfsanspruch UWG § 4 Nr. 3 | Erhöhter Schutzumfang durch parallele Ansprüche |
+
+## Anschluss-Skills
+
+- `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` — Markenschutz ergänzend zum Designschutz
+- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG § 4 Nr. 3 (Nachahmungsschutz) parallel zum Designrecht
+- `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` — Urheberrecht parallel zum Designschutz
+- `gerichtsstand-und-rechtswahl-pruefen` — Internationale Designverletzung (Brüssel Ia-VO, Rom II Art. 8)
+
+## Quellen
+
+- DesignG: https://www.gesetze-im-internet.de/geschmmg_2004/
+- GGV (EG 6/2002): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32002R0006
+- BGH I ZR 23/10 (Kinderwagen II): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%2023/10
+- EuGH C-281/10 (PepsiCo): https://curia.europa.eu/juris/liste.jsf?num=C-281/10
+- EUIPO eFiling: https://euipo.europa.eu/eSearch/
+- DSA Art. 16: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
+
+## Triage-Fragen bei Designverletzungs-Mandat
+
+Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
+1. Ist das Design eingetragen (DesignG/GGV) oder handelt es sich um ein nicht-eingetragenes GGM (3-Jahres-Schutz)?
+2. Weicht der Gesamteindruck des verletzenden Designs von dem des geschuetzten Designs ab (informierter Benutzer nach Art. 10 GGV)?
+3. Liegen Neuheit und Eigencharakter des geschuetzten Designs unstreitig vor — oder droht eine Nichtigkeit-Widerklage?
+4. Gibt es Beweise fuer absichtliche Kopie (Marktstudie, Online-Produktfotos, Zeitstrahl)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 20.10.2011 — C-281/10 P (PepsiCo / Grupo Promer):** Der informierte Benutzer nach Art. 10 GGV ist weder ein Durchschnittsverbraucher noch ein Fachmann; er kennt das Formschatz-Umfeld und beurteilt den Gesamteindruck unter Beruecksichtigung der Gestaltungsfreiheit des Entwerfers; groessere Gestaltungsfreiheit fuehrt zu groesseren Schutzumfang.
+
+> **BGH, Urt. v. 28.01.2016 — I ZR 40/14 (Armbanduhr):** Ein eingetragenes Geschmacksmuster ist nichtig, wenn zum Anmeldezeitpunkt ein identisches Muster im Formenschatz der Oeffentlichkeit zugaenglich war; ein nicht zugaengliches Vorlaeufer-Design des Herstellers selbst zerstoert die Neuheit nicht (keine neuheitsschaedliche Eigenoffenbarung vor Schonfrist).
+
+> **OLG Duesseldorf, Urt. v. 10.07.2018 — I-20 U 180/16 (Kinderwagen-Design):** Bei der Beurteilung der Designverletzung ist nicht das einzelne Merkmal, sondern der Gesamteindruck massgeblich; selbst eine starke Aehnlichkeit in Einzelmerkmalen fuehrt nicht zur Verletzung, wenn der Gesamteindruck erheblich verschieden ist.

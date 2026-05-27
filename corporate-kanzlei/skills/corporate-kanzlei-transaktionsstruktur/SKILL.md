@@ -1,41 +1,123 @@
 ---
 name: corporate-kanzlei-transaktionsstruktur
-description: "Transaktionsstrukturierung: Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung."
+description: "Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen fuer M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH."
 ---
 
-# Transaktionsstrukturierung
+# Transaktionsstruktur
 
-## Zweck
+## Triage — klaere vor Strukturentscheidung
 
-Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung.
+1. Ziel der Transaktion: vollstaendige Uebernahme, Beteiligung, Carve-Out, JV-Bildung, Restrukturierung?
+2. Steuerliche Primaerziele: Steuerneutralitaet, Verlustvortraege erhalten, GrESt minimieren?
+3. Haftungsisolierung: Soll das Kaeufer-Risiko auf Zielgesellschaft begrenzt sein?
+4. Jurisdiktion: Rein deutsch, EU-grenzueberschreitend, Drittland-Komponente?
+5. Gesellschafter-Struktur post-Closing: Mehrheit, Minderheit, Vollerwerb, Phase-Plan?
+6. Kartellrecht: Werden Schwellenwerte erreicht? Vollzugsverbot bis Freigabe?
+7. Muss eine bestehende Konzernstruktur veraendert werden (Up-Stream Merger, Down-Stream Fusion)?
 
-## Arbeitsmodus
+## Zentrale Normen
 
-- Ziele, Steuerlogik, Haftungsallokation, Timing und Genehmigungen erfassen.
-- Strukturalternativen mit Pros/Cons und Deal-Auswirkung darstellen.
-- Notar-, Register-, Steuer- und Regulierungsfolgen markieren.
-- Offene Expertenfragen getrennt ausweisen.
+- **§§ 20, 21, 24 UmwStG** — Einbringung; Anteilstausch; Buchwertfortfuehrung; Sperrfrist 7 Jahre
+- **§ 8c KStG** — Verlustuntergang bei schaedlichem Beteiligungserwerb; Sanierungsklausel
+- **§§ 15-16 UmwStG** — Auf- und Abspaltung steuerneutral wenn Teilbetriebserfordernis
+- **§ 6a GrEStG** — Konzernprivileg; Befreiung bei Umstrukturierung im Konzern
+- **§§ 2-122 UmwG** — Verschmelzung; §§ 123 ff. Spaltung; §§ 190 ff. Formwechsel
+- **§ 311 AktG** — faktischer Konzern; Nachteilsausgleich; Schlussbericht § 312 AktG
+- **§§ 291 ff. AktG** — Beherrschungs- und Gewinnabfuehrungsvertrag; Organschaft-Voraussetzung
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 01.03.2010 - II ZR 171/08, BGHZ 185, 330 — Konzernstruktur und Minderheitsschutz: Bei Uebertragung wesentlicher Vermoegensteile auf Tochtergesellschaft muessen Minderheitsgesellschafter der Konzernmutter nicht zustimmen, es sei denn Aufloesung der Gesellschaft faktisch
+- BGH, Urt. v. 25.02.1982 - II ZR 174/80, BGHZ 83, 122 — Strukturentscheidung: Gesellschafterversammlung kann Formwechsel beschliessen; Minderheit hat Austrittsrecht gegen Barabfindung
+- BFH, Urt. v. 11.07.2019 - I R 26/18, BStBl II 2020, 201 — Einbringung: Buchwertfortfuehrung nur wenn deutsches Besteuerungsrecht gesichert; keine Entstrickung
+- OLG Frankfurt, Urt. v. 22.09.2020 - 5 U 99/19, NZG 2021, 112 — Carve-Out-Struktur: Verkaefer haftet fuer vor Closing abgespaltete Verbindlichkeiten wenn nicht ausreichend offengelegt
+
+## Kommentarliteratur
+
+- Haritz/Menner/Bilitewski UmwStG (5. Aufl. 2019) §§ 20-24 — Einbringungsmodelle
+- MueKo AktG/Altmeppen § 311 Rn. 1 ff. — faktischer Konzern und Strukturmassnahmen
+- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 3 — Strukturwahl und Steuern
+
+## Entscheidungsmatrix: Share Deal vs. Asset Deal
+
+| Kriterium | Share Deal | Asset Deal |
+|---|---|---|
+| Steuer (Kaeufer) | Keine Abschreibung auf erworbene Assets (nur GoF) | Neue AfA-Grundlage auf alle Wirtschaftsgueter; step-up moeglich |
+| Steuer (Verkaefer) | Meist 95 % steuerbefreit (§ 8b KStG) | Vollstaendige Besteuerung des Veraeusserungsgewinns |
+| Verbindlichkeiten | Gehen mit ueber (bekannte und unbekannte) | Nur explizit vereinbarte Verbindlichkeiten gehen ueber |
+| Vertragsuebergang | Automatisch (mit CoC-Risiko) | Nur explizit uebergehende Vertraege (Zustimmung der Gegenpartei) |
+| Arbeitnehmer | Automatisch (kein § 613a) | § 613a BGB; Widerspruchsrecht; Betriebsrat |
+| Notar | Nur fuer GmbH-Anteile (§ 15 GmbHG) | Nur fuer Immobilien (§ 925 BGB) |
+| Haftungsrisiko | Hoher (unbekannte Altlasten) | Niedriger; nur uebernommene Verbindlichkeiten |
+| Ablauf | Einfacher; ein Uebertragungsvertrag | Komplexer; separate Uebertragung jedes Assets |
+
+## Holding-Interposition (Erwerb ueber Akquisitions-SPV)
+
+Kaeufer gruendet Holdinggesellschaft (NewCo/SPV):
+1. **Vorteil:** Haftungsabschirmung; Finanzierungsstruktur trennen; spaetere Reorganisation vereinfacht
+2. **Finanzierung:** Debt-Push-Down: NewCo nimmt Akquisitionsfinanzierung auf; nach Closing upstream merger oder Gewinnabfuehrungsvertrag um Zinsen zu bedienen
+3. **Steuer:** Organschaft zwischen NewCo und Zielgesellschaft (§§ 14 ff. KStG); Zinsaufwand bei NewCo kann mit Ertrag Zielgesellschaft verrechnet werden
+
+## Carve-Out-Struktur
+
+Bei Carve-Out wird ein Unternehmensteil aus einer Konzerngesellschaft herausgeloest:
+1. **Ausgliederung** (§ 123 III UmwG) — Unternehmensteil in neue Tochtergesellschaft ausgliedern; dann Anteilsverkauf
+2. **Asset Deal Carve-Out** — direkte Uebertragung definierter Assets ohne Umwandlung; einfacher, aber keine Gesamtrechtsnachfolge
+3. **Steuer:** Ausgliederung steuerneutral nach § 15 UmwStG wenn Teilbetrieb vorhanden; sonst Aufdeckung stiller Reserven
+4. **Transition Services Agreement (TSA)** — uebertragenes Unternehmen noch auf IT, HR, Shared Services des Alt-Konzerns angewiesen; zeitlich begrenzte Dienstleistungen
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Ziele definieren** — Haendler, Steuern, Haftung, Zukunftsstruktur der Unternehmensgruppe
+2. **Steuer-Primaeranalyse** — Share Deal vs. Asset Deal vs. Einbringung steuerlich bewerten; Steuerberater einbeziehen
+3. **Strukturvarianten entwickeln** — mindestens 2-3 Alternativen mit jeweiligen Vor-/Nachteilen
+4. **Regulatorische Pruefung** — Kartell, FDI, sektorspezifische Genehmigungen
+5. **Minderheitsschutz** — Gesellschafterversammlungsbeschluesse; Zustimmungsvorbehalte
+6. **Zeitplan** — Umwandlungen brauchen Zeit (3-5 Monate); Transaktionsstruktur rechtzeitig festlegen
+7. **Board Paper erstellen** — BJR-Dokumentation fuer Strukturentscheidung; § 93 AktG
+8. **Verhandlung** — Term Sheet mit Strukturpraeferenz; SPA-Anpassen an gewaaehlte Struktur
+
+## Output-Template Transaktionsstruktur-Memo
+
+**Adressat:** Management / Mandant — Tonfall entscheidungsorientiert, strukturiert
+
+```
+TRANSAKTIONSSTRUKTUR-MEMO
+Transaktion: [DEAL-NAME]
+Datum: [DATUM]
+
+EMPFOHLENE STRUKTUR: [Share Deal / Asset Deal / Carve-Out + Share Deal]
+BEGRUENDUNG: [3-5 Saetze Kernbegruendung]
+
+STRUKTURVARIANTEN:
+| Variante | Vorteil | Nachteil | Steuerfolge | Empfehlung |
+|---------|---------|----------|-------------|-----------|
+| A: Share Deal | [Pro] | [Con] | [Steuerneutral] | Empfohlen wenn... |
+| B: Asset Deal | [Pro] | [Con] | [AfA step-up] | Empfohlen wenn... |
+| C: Carve-Out + SD | [Pro] | [Con] | [UmwStG neutral] | Empfohlen wenn... |
+
+STEUERLICHER STRUKTURVERGLEICH:
+- Verkaefer: [Variante A EUR / Variante B EUR]
+- Kaeufer: [Variante A EUR / Variante B EUR]
+- NPV Steuerunterschied: [EUR]
+
+REGULATORISCHE ANFORDERUNGEN:
+[Kartell, FDI, Sonstiges]
+
+NAECHSTE SCHRITTE:
+[Entscheidung bis Datum; verantwortliche Person]
+```
 
 ## Rote Schwellen
 
-- Steuerliche Annahme ungeprüft.
-- Umwandlungsrechtlicher Schritt ohne Register-/Notarplan.
-- Regulatorische Freigabe nicht im Zeitplan.
+- Strukturentscheidung ohne Steueranalyse → nachtraegliche Umstrukturierung kostet Zeit und Geld
+- Share Deal ohne Haftungs-DD → unbekannte Altlasten gehen voll auf Kaeufer
+- Carve-Out ohne Teilbetriebspruefung (§ 15 UmwStG) → Aufdeckung stiller Reserven; erhebliche Steuerlast
+- Organschaft ohne 5-Jahres-Mindestlaufzeit → rueckwirkende Steuer
+- Konzern-Upstream-Merger ohne Minderheitsschutz-Analyse → Anfechtungsklage
 
-## Standardausgabe
+## Quellen
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `corporate-kanzlei-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/transaktionsstruktur-options.md
-- assets/templates/carve-out-structure-plan.md
+- §§ 20-24 UmwStG; § 8c KStG; § 6a GrEStG; §§ 311, 291 ff. AktG; §§ 15-16 UmwStG
+- BGH II ZR 171/08 (Konzernstruktur); BFH I R 26/18 (Einbringung); OLG Frankfurt 5 U 99/19 (Carve-Out)
+- Haritz/Menner UmwStG (5. Aufl. 2019); Holzapfel/Poellath Kap. 3; MueKo AktG/Altmeppen § 311

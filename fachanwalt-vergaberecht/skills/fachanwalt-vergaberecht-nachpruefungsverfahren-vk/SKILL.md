@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-nachpruefungsverfahren-vk
-description: "Nachpruefungsverfahren VK Vergabekammer § 160 ff GWB. Antragsfrist 15 Werktage nach Ruegen-Ablehnung. Aufschiebende Wirkung Zuschlag verboten § 169 GWB. Sofortbeschwerde OLG. Workflow Antrag VK-Verfahren OLG."
+description: "Nachpruefungsverfahren bei der Vergabekammer durchfuehren: Laufendes VK-Verfahren oder Beschluss der VK liegt vor. Normen: §§ 160 ff. GWB, § 169 GWB (Suspensiveffekt Zuschlagsverbot), § 171 GWB (Sofortige Beschwerde OLG). Pruefraster: Antragsfrist 15 Werktage nach Ruegen-Ablehnung, VK-Verfahren (muendliche Verhandlung, Aufklaerung), Sofortbeschwerde OLG-Vergabesenat. Output VK-Schriftsatz, OLG-Beschwerde-Entwurf. Abgrenzung: Erstantrag VK siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; VK-Vergleich siehe fachanwalt-vergaberecht-vk-aufklaerung-vergleich."
 ---
 
 # Nachprüfungsverfahren VK
@@ -22,6 +22,7 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 - Bei Bund: Bundeskartellamt (VK Bund)
 - Bei Land: Landeskartellbehoerde
 - Bei Kommune: meist Bezirksregierung VK
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## 2) Antragsfristen § 160 III GWB
 
@@ -132,3 +133,48 @@ Klage gegen Vergabe-Entscheidungen vor Vergabekammer (VK).
 - `fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb` — vor Antrag
 - `fachanwalt-vergaberecht-de-facto-vergabe-klage` — bei De-facto-Vergabe
 - `fachanwalt-vergaberecht-orientierung` — Triage
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nachpruefungsverfahren VK fuehren | Verfahrensprotokoll; Template unten |
+| Variante A — Auftraggeber bietet Abhilfe | Abhilfezusage formell sichern; NPA zuruecknehmen |
+| Variante B — VK entscheidet zuungunsten | OLG-Sofortbeschwerde § 171 GWB; Suspensiveffekt |
+| Variante C — Aufhebung des Verfahrens durch AG | Rechtmaessigkeit Aufhebung § 63 VgV pruefen; Schadensersatz |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Vertiefung: Output-Template VK-Verfahren
+
+### Output-Template Antrag Zuschlagssperre § 169 GWB
+**Adressat:** Vergabekammer — Tonfall: sachlich-juristisch, eilig
+
+```
+An die Vergabekammer [NAME]
+
+Antrag auf Untersagung des Zuschlags (§ 169 Abs. 2 GWB)
+Az. Verfahren: [AZ.]
+
+Sehr geehrte Damen und Herren,
+
+im Nachpruefungsverfahren beantragen wir zugleich,
+der Antragsgegnerin zu untersagen, den Zuschlag zu erteilen,
+bis ueber den Nachpruefungsantrag entschieden wurde.
+
+Begruendung: § 169 Abs. 1 GWB gilt die Zuschlagssperre
+automatisch bis zur Entscheidung der Vergabekammer.
+Eine ausnahmsweise sofortige Zuschlagserteilung (§ 169 Abs. 2)
+waere hier nicht gerechtfertigt, weil:
+[Begruendung: kein ueberragendes Interesse an sofortigem Zuschlag]
+
+[Rechtsanwalt/-anwaeltin]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

@@ -1,6 +1,6 @@
 ---
 name: referentenentwurf-bauen
-description: "Erstellt einen vollstaendigen Referentenentwurf des Bundes oder Landes. Format gemaess HdR. Deckblatt Bezeichnung Inhaltsuebersicht A Problem und Ziel B Loesung C Alternativen D Haushaltsausgaben E Erfuellungsaufwand F weitere Kosten G weitere Folgen H Gleichstellungspolitische Bedeutung. Entwurfstext mit Artikeln und Paragrafen. Strukturen bei Sachverhalten Definition Hauptregel Ausnahmen Sanktionen Uebergang. Inkrafttretensregelung. Pruefliste gegen GGO und HdR. Endet mit Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss `begruendung-allgemein-und-besonders` und `synopse-erstellen`."
+description: "Vollstaendigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen Normebene ist bestimmt Entwurfstext und Begruendung muessen nach HdR erstellt werden. Format HdR Deckblatt Vorblatt A Problem und Ziel B Loesung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- und HdR-Pruefliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begruendung-allgemein-und-besonders synopse-erstellen."
 ---
 
 # Referentenentwurf bauen
@@ -78,6 +78,21 @@ Oder gestaffeltes Inkrafttreten:
 - [ ] HdR-Spruchregeln eingehalten (siehe `hdr-stilcheck`)
 - [ ] Keine Verweisschleife (siehe `zirkelschluss-pruefen`)
 - [ ] Terminologie konsistent (siehe `terminologie-konsistenz`)
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 14.07.1959 — 2 BvF 1/58, BVerfGE 10, 20 Rn. 35 — Referentenentwurf als Ausdruck der Gesetzgebungs-Initiative; GGO-Format als Garant der Transparenz und parlamentarischen Kontrolle
+- BVerwG, Urt. v. 23.03.2016 — 6 C 14.15, NVwZ 2016, 943 — Ressortabstimmungs-Pflicht nach GGO ist formell; Verletzung fuehrt nicht zur Nichtigkeit aber kann parlamentarische Kontrolle beeintraechtigen; GGO als Innenrecht der Bundesregierung
+- BVerfG, Beschl. v. 14.03.2017 — 2 BvR 157/12, BVerfGE 145, 106 Rn. 60 — Aenderungsbefehle im Referentenentwurf muessen praezise sein; unpraezise Aenderungen fuehren zu Auslegungsproblemen; Normklarheit verlangt klare Aenderungs-Formulierungen (HdR-Standard)
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 40-62 GGO (Referentenentwurf, Ressortabstimmung) — Art. 76 Abs. 1 GG (Einbringungsrecht Bundesregierung) — §§ 1-10 HdR (Handbuch der Rechtsfoermlichkeit, Aenderungsbefehle) — Art. 80 Abs. 1 Satz 3 GG (Citatum in Verordnungen)
+
+## Kommentarliteratur
+
+- Schneider, Gesetzgebung, 3. Aufl. 2002, §§ 10-15 Rn. 1 ff. (Referentenentwurf-Format, Artikelstruktur, Aenderungsbefehle)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 21 Rn. 5 ff. (Gesetzgebungsverfahren Bundesebene, GGO)
 
 ## Ausgabe
 

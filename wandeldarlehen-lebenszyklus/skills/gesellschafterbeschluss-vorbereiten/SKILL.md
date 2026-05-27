@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss-vorbereiten
-description: "Gesellschafterbeschluss-Entwurf zur Bestaetigung der Vertragsunterzeichnung und zur grundsaetzlichen Bereitschaft der Kapitalerhoehung im Wandlungsfall. Einberufungsmodalitaeten, Ladungsfristen nach § 51 GmbHG (mindestens eine Woche) und Verzichtsmoeglichkeit nach § 51 Abs. 3 GmbHG fuer einstimmige Beschlussfassung."
+description: "Gesellschafterbeschluss fuer Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Pruefraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht fuer Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung)."
 ---
 
 # Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)
@@ -89,3 +89,15 @@ Abstimmung: einstimmig angenommen.
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 46 ff. aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 13.11.2018 — **II ZR 161/17**, NJW 2019, 449 Rn. 16: Gesellschafterversammlungsbeschluss für Kapitalerhöhung muss ordnungsgemäß einberufen sein; Einberufungsmängel führen zur Anfechtbarkeit; für notarielle Beurkundung (§ 53 GmbHG) muss allen Gesellschaftern ausreichend Zeit für die Vorbereitung gegeben werden.
+
+BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 22: Bei der Vorbereitung des Gesellschafterbeschlusses zur Wandlung muss die Forderungswerthaltigkeit des Wandeldarlehens durch den Geschäftsführer bestätigt und im Sacheinlagebericht dokumentiert werden; unterlässt der Geschäftsführer dies, haftet er persönlich nach § 43 GmbHG für etwaige Differenzbeträge.
+
+### Normen-Ergänzung
+
+§ 51 GmbHG (Einberufung Gesellschafterversammlung, Ladungsfrist eine Woche) → § 47 GmbHG (Beschlussfassung, Mehrheitserfordernisse) → § 53 GmbHG (Satzungsänderung, notarielle Form) → § 43 GmbHG (Geschäftsführerhaftung bei Pflichtverletzung) → § 56 Abs. 2 GmbHG (Sacheinlagebericht, Werthaltigkeit)

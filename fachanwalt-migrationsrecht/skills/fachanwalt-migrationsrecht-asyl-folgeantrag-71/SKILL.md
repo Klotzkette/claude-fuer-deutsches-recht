@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-asyl-folgeantrag-71
-description: "Asyl-Folgeantrag § 71 AsylG Voraussetzungen nach erst ablehnung Wiederaufgreifensgruende Aenderung Sachlage neue Beweismittel. Frist 3 Monate nach Kenntnis. Folge-Folgeantrag. Ueberstellungs-Sperre Dublin-III. Workflow Pruefung Antrag Klage."
+description: "Asylantrag wurde abgelehnt und Mandant will neuen Antrag stellen oder hat neue Beweise oder Lage hat sich geaendert. Pruefraster § 71 AsylG Folgeantrag Voraussetzungen Wiederaufgreifensgruende Aenderung Sachlage neue Beweismittel. Frist drei Monate ab Kenntnis der neuen Umstaende Folge-Folgeantrag Dublin-III-Ueberstellungs-Sperre. Output Folgeantrag-Entwurf mit Begruendung neuer Umstaende und Sperr-Argument fuer Dublin-Ueberstellung. Abgrenzung: asyl-anhoerung-vorbereiten fuer Erst-Anhoerung fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Gefahr."
 ---
 
 # Asyl-Folgeantrag § 71 AsylG
@@ -150,3 +150,80 @@ Antrag nach Ablehnung des Erstantrags — nur unter strengen Voraussetzungen.
 - `fachanwalt-migrationsrecht-orientierung` — Triage
 - `fachanwalt-migrationsrecht-aufenthaltstitel-antrag` — Alternativ-Titel
 - `widerspruch-oder-klage-erstpruefung` — bei VG-Klage
+
+## Vertiefung: Aktuelle Rechtsprechung
+
+- BVerwG, Urt. v. 27.04.2010 - 10 C 4.09, BVerwGE 136, 360 — Voraussetzungen § 71 AsylG iVm § 51 VwVfG: Wiederaufgreifensgrund muss pruefbar und substantiiert sein; blosses erneutes Vorbringen ohne neues Element genuegt nicht; BAMF entscheidet zunaechst ueber Zulaessigkeit.
+- BVerwG, Urt. v. 19.04.2018 - 1 C 29.17, BVerwGE 162, 62 — Konversion zum Christentum als neuer Wiederaufgreifensgrund: innere Uberzeugung muss glaubhaft und stabil sein; BAMF hat eigene Pruefungskompetenz; Beilagen zu Taufe und kirchlichen Aktivitaeten erforderlich.
+- BVerwG, Urt. v. 20.11.2018 - 1 C 23.17, BVerwGE 163, 380 — Coming-out LGBTQ nach Erstantrag: neue persoenliche Verfolgungssituation kann Wiederaufgreifensgrund nach § 51 Abs. 1 Nr. 1 VwVfG sein; Befragung zu intimen Einzelheiten durch BAMF unzulaessig (EuGH C-148/13).
+- OVG Berlin-Brandenburg, Beschl. v. 17.03.2022 - OVG 3 S 12/22, BeckRS 2022, 7811 — Eilrechtsschutz bei Folgeantrag: Unterbindung der Abschiebung bis zur Entscheidung BAMF ueber Zulaessigkeit moeglich wenn Folgeantrag bei BAMF bereits gestellt und Bescheidung noch aussteht.
+
+## Normen-Kette Folgeantrag
+
+- **§ 71 Abs. 1 AsylG** iVm **§ 51 Abs. 1-3 VwVfG** — Wiederaufgreifensvoraussetzungen, Frist 3 Monate
+- **§ 71 Abs. 5 AsylG** — Abschiebungsandrohung bei Unzulaessigkeit des Folgeantrags
+- **§ 51 Abs. 2 VwVfG** — Frist ab Kenntnis des Wiederaufgreifensgrundes
+- **§ 36 AsylG** — Klagefrist eine Woche wenn Folgeantrag als unzulaessig beschieden
+- **§ 74 Abs. 1 AsylG** — Klagefrist zwei Wochen bei Sachabweisung des Folgeantrags
+- **Art. 40 Verfahrens-RL 2013/32** — Folgeantraege; Mitgliedstaat kann Folgeantrag nur ablehnen wenn keine neuen Elemente
+
+## Kommentarliteratur
+
+- Marx, AsylG § 71 Rn. 1-80 — umfassend zum Folgeantrag
+- Funke-Kaiser/Goebel-Zimmermann, GK-AsylG, § 71 Rn. 1-50
+
+## Output-Template: Folgeantrag BAMF
+
+**Adressat:** BAMF, Abteilung Wiederaufnahme / Folgeantrag
+**Tonfall:** Sachlich-juristisch; Substantiierung der neuen Wiederaufgreifensgruende
+
+```
+[KANZLEI]
+[ADRESSE]
+
+Bundesamt fuer Migration und Fluechtlinge
+[AUSSENSTELLE]
+[ADRESSE]
+
+Re: Asyl-Folgeantrag gemaess § 71 AsylG
+    Antragsteller: [NAME, geb. DATUM, Staatsang.]
+    BAMF-Aktenzeichen (Erstantrag): [AZ]
+
+Sehr geehrte Damen und Herren,
+
+in Vertretung des o.g. Antragstellers stellen wir hiermit Folgeantrag
+gemaess § 71 AsylG und § 51 VwVfG.
+
+I. BISHERIGER VERFAHRENSSTAND
+Erstantrag abgelehnt am [DATUM], Bescheid Az. [AZ].
+Klage [wurde erhoben / nicht erhoben].
+
+II. WIEDERAUFGREIFENSGRUENDE (§ 51 Abs. 1 Nr. [X] VwVfG)
+[Variante A — Aenderung Sachlage:]
+Seit der Ablehnung des Erstantrags hat sich die Lage im Herkunftsland
+[LAND] wesentlich veraendert: [KONKRETE SCHILDERUNG MIT DATUM].
+Belege: UNHCR-Laenderbericht [DATUM] Anlage 1, AA-Bericht [DATUM] Anlage 2.
+
+[Variante B — Neue Beweismittel:]
+Es liegen neue Beweismittel vor, die bei der Erstentscheidung nicht
+verfuegbar waren: [ATTEST / DOKUMENT / ZEUGNIS]. Anlage 3.
+
+[Variante C — Konversion / LGBTQ / persoenliche Aenderung:]
+Der Antragsteller ist am [DATUM] zum [Christentum / Islam / ...] konvertiert.
+Bescheinigung beigefuegt Anlage 4. Die innere Uberzeugung ist echt und stabil
+(BVerwG 1 C 29.17).
+
+III. FRIST § 51 ABS. 2 VWVFG
+Der Antragsteller hat von dem o.g. Wiederaufgreifensgrund am [DATUM]
+Kenntnis erlangt. Die 3-Monats-Frist laeuft bis [DATUM]; dieser Antrag
+wird fristgerecht gestellt.
+
+IV. SICHERUNGSMASSNAHMEN
+Bei drohender Abschiebung bitten wir um unverzuegliche Bestaetigung
+des Folgeantragseingangs (§ 71 Abs. 4 AsylG).
+
+Anlagen: K1 bis K[X]
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```

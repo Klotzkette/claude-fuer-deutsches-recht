@@ -1,159 +1,239 @@
 ---
 name: stb-bwa-sus-bilanz-pruefung
-description: "Prüft BWA (Betriebswirtschaftliche Auswertung), SuSa (Summen- und Saldenliste), Einzelbelege und Bilanzentwürfe einer GmbH/UG auf insolvenzrechtliche Krisensignale. Bewertet, ob bereits eine Überschuldung im Sinne des § 19 InsO oder eine Zahlungsunfähigkeit im Sinne des § 17 InsO vorliegt und ob die Warn- bzw. Hinweispflicht nach § 102 StaRUG ausgelöst ist. Lädt bei Bilanzerstellung, Jahresabschluss, BWA-Review, Krisenfrüherkennung, Fortbestehensprognose, Insolvenzreife-Indizien."
+description: "BWA SuSa Summen- und Saldenliste und Bilanzentwurf einer GmbH oder UG auf insolvenzrechtliche Krisensignale pruefen. Anwendungsfall Steuerberater erstellt Jahresabschluss BWA-Review oder Krisenfrueherkennung und muss Hinweispflicht nach § 102 StaRUG beurteilen. Pruefung Zahlungsunfaehigkeit § 17 InsO Ueberschuldung § 19 InsO Fortbestehensprognose Warn- und Hinweispflicht § 102 StaRUG. BGH-Haftungsrechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18. Output Krisensignal-Protokoll Ampel-Bewertung ggf. Pflichthinweis Uebergang zu stb-ueberschuldungspruefung-19-inso."
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)
 
-## Zweck
+## Kernsachverhalt
 
-Der Skill begleitet Steuerberater und Geschäftsleitungen kleiner Kapitalgesellschaften (GmbH, UG, GmbH & Co. KG) bei drei verzahnten Aufgaben:
+Der Steuerberater erstellt regelmäßig BWA, SuSa-Auswertungen und Jahresabschlüsse für GmbH/UG-Mandanten. Dabei ist er strukturell der erste externe Berater, der Krisensignale erkennt. Die BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18) und § 102 StaRUG verpflichten ihn, bei offenkundigen Krisensignalen ausdrücklich zu warnen. Unterlässt er dies, haftet er persönlich für Verschleppungsschäden. Dieser Skill führt die Prüfung systematisch durch und generiert ggf. einen Pflichthinweis.
 
-1. **BWA-/SuSa-/Beleg-Plausibilisierung**: Erkennt buchhalterische Auffälligkeiten (Konteninkonsistenz, unübliche Salden, Periodenabgrenzungslücken, nicht aktivierte Posten, fehlerhafte Erlös-/Aufwandszuordnungen).
-2. **Bilanzbezogene Krisenprüfung**: Wertet aus, ob bei Erstellung einer Bilanz oder eines Bilanzentwurfs Indizien für eine **Überschuldung (§ 19 Abs. 2 InsO)** oder **Zahlungsunfähigkeit (§ 17 Abs. 2 InsO)** vorliegen, einschließlich Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (**24-Monats-Horizont** für Eröffnungsanträge bis 31.12.2026 nach SanInsKG; ab 1.1.2027 voraussichtlich Rückkehr auf 12 Monate — Stichtag prüfen).
-3. **Warn- und Hinweispflicht nach § 102 StaRUG**: Prüft, ob der Steuerberater (oder ein anderer mit Jahresabschluss befasster Berufsträger) bei Anzeichen einer drohenden Zahlungsunfähigkeit, Zahlungsunfähigkeit oder Überschuldung **hinweisen muss**, und liefert ein dokumentationsfestes Hinweisschreiben.
+## Kaltstart-Rückfragen
 
-Anwendungsfälle: Jahresabschlussvorbereitung, unterjährige BWA-Review, Mandantenkrise, ad-hoc Plausibilitätscheck, Vorbereitung Geschäftsführer-Pflichtenkreis (§ 15a InsO, § 15b InsO), Dokumentation der Hinweispflicht zur eigenen Haftungsvermeidung.
-
-## Eingaben
-
-Das Modell benötigt strukturiert oder unstrukturiert:
-
-- **Rechtsform und Größenklasse** (UG/GmbH/AG/KGaA/GmbH & Co. KG; Größenklasse § 267 HGB).
-- **BWA** (Standard-BWA, Bewegungs-BWA, kumulierte BWA) für den aktuellen Zeitraum, idealerweise mit Vorjahresvergleich und Plan-/Ist-Abweichung.
-- **SuSa** (Summen- und Saldenliste) mit allen Sachkonten, Anfangsbestand, Bewegungen, Saldenwert.
-- **Bilanzentwurf** (Aktiva, Passiva, mit Vorjahreswerten); optional Anlagenspiegel, Rückstellungsspiegel, Verbindlichkeitenspiegel (§ 268 Abs. 5 HGB).
-- **Liquiditätsdaten**: kurzfristig fällige Verbindlichkeiten (≤ 3 Wochen), verfügbare Zahlungsmittel, zugesagte Kreditlinien.
-- **Stille Lasten/Reserven**: Hinweise auf nicht aktivierte Vermögensgegenstände, drohende Verluste, Eventualverbindlichkeiten.
-- **Rangrücktritte/Patronatserklärungen**: Texte oder mindestens Kerninhalt (qualifizierter Rangrücktritt im Sinne § 39 Abs. 2 InsO).
-- **Belege bei Stichproben**: Eingangs-/Ausgangsrechnungen, Buchungsbelege, Kontoauszüge zu identifizierten Positionen.
-- **Auftragsumfang**: Erstellung mit oder ohne umfassende Plausibilitätsbeurteilung? Vereinbarkeit mit der jeweiligen Verlautbarung (z.B. IDW S 7).
+1. Welche Rechtsform und Größenklasse (§ 267 HGB) — UG, GmbH, AG, GmbH & Co. KG?
+2. Welche Unterlagen liegen vor — BWA (Standard, Bewegungs-, kumuliert), SuSa, Bilanzentwurf, Anlagenspiegel?
+3. Welcher Auswertungsstichtag — Monats-BWA, Quartal, Jahresabschluss?
+4. Liegen Liquiditätsdaten vor — kurzfristig fällige Verbindlichkeiten (≤ 3 Wochen), verfügbare Zahlungsmittel, Kreditlinien?
+5. Sind Rangrücktritte oder Patronatserklärungen vorhanden? Liegen die Klauseltexte vor?
+6. Existieren Steuer- oder SV-Rückstände — Finanzamt, Krankenkassen, Berufsgenossenschaft?
+7. Wurde bereits eine Fortbestehensprognose oder ein Sanierungskonzept IDW S 6 erstellt?
+8. Ist der Steuerberater mit der Erstellung des Jahresabschlusses beauftragt (§ 102 StaRUG-Auslöser)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
 ### Primärnormen
 
-- **§ 17 InsO – Zahlungsunfähigkeit**: Liquiditätslücke ≥ 10 %, die nicht innerhalb von **drei Wochen** geschlossen werden kann (st. Rspr. BGH); Abgrenzung zur Zahlungsstockung.
-- **§ 19 InsO – Überschuldung**: Rechnerische Überschuldung (Vermögen deckt Verbindlichkeiten nicht), es sei denn, die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich (**Fortbestehensprognose** nach § 19 Abs. 2 S. 1 InsO i.V.m. SanInsKG: **24 Monate** für Eröffnungsanträge bis 31.12.2026, ab 1.1.2027 voraussichtlich Rückkehr auf 12 Monate — Stichtag prüfen).
-- **§ 15a InsO – Insolvenzantragspflicht**: Drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung.
-- **§ 15b InsO – Zahlungsverbote nach Insolvenzreife**.
-- **§ 102 StaRUG – Hinweis- und Warnpflicht**: Verpflichtet Personen, die zur unabhängigen Ausübung eines rechts-, steuerberatenden oder wirtschaftsprüfenden Berufs befugt sind und Jahresabschlüsse erstellen, den Mandanten **auf das Vorliegen möglicher Insolvenzantragsgründe** und die sich daraus ergebenden Pflichten der Geschäftsleiter hinzuweisen, wenn entsprechende Anhaltspunkte offenkundig sind und ein Hinweis ohne weiteres erforderlich ist.
-- **§ 1 StaRUG – Krisenfrüherkennung**: Pflicht der Geschäftsleitung zur fortlaufenden Überwachung bestandsgefährdender Entwicklungen.
-- **§§ 252, 264 Abs. 2, 268 HGB**: Bilanzansatz- und Bewertungsgrundsätze, going concern.
-- **§ 252 Abs. 1 Nr. 2 HGB**: Going-concern-Vermutung, soweit dem nicht tatsächliche oder rechtliche Gegebenheiten entgegenstehen.
-- **§ 39 Abs. 2 InsO**: Qualifizierter Rangrücktritt – Verbindlichkeiten dahinter werden im Überschuldungsstatus nicht passiviert.
+**§ 17 InsO** — Zahlungsunfähigkeit: Liquiditätslücke ≥ 10 %, nicht beseitigbar binnen 3 Wochen (BGH BGHZ 163, 134).
+
+**§ 19 InsO** — Überschuldung: Vermögen deckt Verbindlichkeiten nicht, es sei denn positive Fortbestehensprognose. Prognosezeitraum 24 Monate (SanInsKG, gültig bis 31.12.2026).
+
+**§ 15a InsO** — Insolvenzantragspflicht: 3 Wochen (Zahlungsunfähigkeit), 6 Wochen (Überschuldung).
+
+**§ 15b InsO** — Zahlungsverbote nach Insolvenzreife.
+
+**§ 102 StaRUG** — Hinweis- und Warnpflicht des Steuerberaters bei Erstellung des Jahresabschlusses, wenn offenkundige Anhaltspunkte für Insolvenzgründe vorliegen.
+
+**§ 1 StaRUG** — Krisenfrüherkennung durch Geschäftsleitung haftungsbeschränkter Gesellschaften.
+
+**§§ 252, 264 Abs. 2 HGB** — Going-concern; Grundsatz bei Fortführungsannahme; muss hinterfragt werden wenn Krise erkennbar.
+
+**§ 39 Abs. 2 InsO** — Qualifizierter Rangrücktritt: Verbindlichkeiten im Überschuldungsstatus nicht passiviert.
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12–19: Definition der Zahlungsunfähigkeit; Liquiditätslücke ≥ 10 % und Drei-Wochen-Frist; Abgrenzung zur Zahlungsstockung. Bis heute Leitentscheidung für § 17 InsO.
+| Gericht | Aktenzeichen | Datum | Leitsatz |
+|---|---|---|---|
+| BGH IX ZR 123/04 | BGHZ 163, 134 | 24.05.2005 | Zahlungsunfähigkeit: 10-%-Lücke und 3-Wochen-Frist; Abgrenzung zur Zahlungsstockung |
+| BGH IX ZR 228/03 | NJW 2007, 78 | 12.10.2006 | Beweisanzeichen: Stundungsanträge, Nichtzahlung SV-Abgaben, Rücklastschriften |
+| BGH II ZR 233/18 | NJW 2020, 1809 | 19.11.2019 | Fortbestehensprognose: tragfähiges Konzept + Finanzplan; überwiegende Wahrscheinlichkeit |
+| BGH IX ZR 285/14 | NJW 2017, 1611 | 26.01.2017 | StB-Haftung: Hinweispflicht bei Krisensignalen aus Buchhaltung; Vorläufer § 102 StaRUG |
+| BGH II ZR 298/11 | BGHZ 195, 42 | 09.10.2012 | Insolvenzrechtliche ≠ handelsbilanzielle Überschuldung; Fortführungs-/Liquidationswerte |
 
-2. BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NJW 2007, 78 Rn. 16–22: Beweisanzeichen für Zahlungsunfähigkeit; Stundungsersuchen, Nichtzahlung gewerblicher Daueraufwendungen, Rücklastschriften.
+## Prüfschema BWA/SuSa/Bilanz
 
-3. BGH, Urt. v. 19.11.2019 – II ZR 233/18, NJW 2020, 1809 Rn. 17 ff.: Zur Fortbestehensprognose nach § 19 Abs. 2 InsO – tragfähiges Unternehmenskonzept und Finanzplan; Beurteilungsmaßstab überwiegende Wahrscheinlichkeit.
 
-4. BGH, Urt. v. 26.01.2017 – IX ZR 285/14, BGHZ 213, 374 Rn. 26 ff.: Haftung des Steuerberaters bei Erstellung des Jahresabschlusses; Pflicht, auf Indizien einer Insolvenzreife hinzuweisen (Vorläufer der heutigen § 102 StaRUG-Pflicht; weiterhin maßgeblich für Vertragspflichten).
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-### Kommentarliteratur
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Datenaufnahme und Konsistenzcheck | BWA-Schlusssalden = SuSa-Salden = Bilanzposten; Periodenabgrenzung RAP, Rückstellungen | Konsistenz bestätigt oder Abweichung benannt |
+| 2 | SuSa-Auffälligkeiten | Ungewöhnliche Sollsalden Erlöskonten; Habensalden Aufwandskonten; hohe Verrechnungskonten 1590/1599 | Anomalien für Belegstichprobe vormerken |
+| 3 | Belegstichprobe | Top-10-Eingangs-/Ausgangsrechnungen; Cut-off-Test kurz vor Stichtag; Kasse (§ 146 AO) | Buchungsgenauigkeit geprüft |
+| 4 | Bilanzielle Überschuldungsindizien | Eigenkapital negativ? HGB-Bilanzwerte ≠ Überschuldungsstatus; Liquidationswerte erforderlich | Rechnerische Unterdeckung? |
+| 5 | Stille Lasten | Drohende Verluste, Bürgschaften, Garantien, anhängige Prozesse | Rückstellungsbedarf quantifizieren |
+| 6 | Stille Reserven | Selbstgeschaffene immaterielle WG; Sachanlagen-Marktwert vs. Buchwert; Forderungsabtretung | Aktivierungsoptionen prüfen |
+| 7 | Rangrücktritte | Qualifizierter Rangrücktritt § 39 Abs. 2 InsO → passivseitig herausnehmen; einfacher bleibt | Klauseltext prüfen |
+| 8 | Fortbestehensprognose § 19 Abs. 2 InsO | Integrierte Planung 24 Monate (SanInsKG); tragfähiges Konzept; IDW S 6-Elemente | Positiv/Negativ |
+| 9 | Zahlungsunfähigkeitsprüfung § 17 InsO | Liquiditätsstatus: fällige Verbindlichkeiten vs. Aktiva I; Quote ≥ 10 %? | Ampel Rot/Gelb/Grün |
+| 10 | Steuer- und SV-Rückstände | Finanzamt, Krankenkassen, BG; Stundung § 222 AO vs. AdV § 361 AO | Passiva I korrekt eingestellt |
+| 11 | Going concern § 252 HGB | Fortführungsannahme haltbar? Abweichende Annahme bei negativer Prognose | Abweichende Angabe im Abschluss |
+| 12 | § 102 StaRUG — Hinweispflicht ausgelöst? | Erstellungsauftrag Jahresabschluss + offenkundige Anhaltspunkte? | Warnschreiben erforderlich |
+| 13 | Indizienkatalog § 17 Abs. 2 InsO | SV-Rückstände, Stundungsanträge, Mahnungen, Rücklastschriften, eingestellte Lieferantenzahlungen | Zahlungseinstellung ohne Rechnung möglich |
+| 14 | Abschluss und Dokumentation | Befund-Tabelle; Krisenmatrix; ggf. § 102 StaRUG-Hinweisschreiben; Empfehlungen | Ergebnis mit Zeitstempel und Unterschrift |
+| 15 | Querverweise andere Skills | Schwere Krise → anwaltliche Prüfung; Liquiditätsvorschau; Warnschreiben | Übergabe und Anschluss |
 
-1. K. Schmidt/Herchen, in: K. Schmidt, Insolvenzordnung, 20. Aufl. 2023, § 17 InsO Rn. 5–35 und § 19 InsO Rn. 30–90: Systematische Darstellung der Insolvenzgründe; Liquiditätsbilanz nach BGH-Konzept; zweistufige Überschuldungsprüfung mit Fortbestehensprognose; Wirkung qualifizierter Rangrücktritte.
+## Beweislast
 
-2. Uhlenbruck/Mock, Insolvenzordnung, 16. Aufl. 2024, § 17 InsO Rn. 9–28 und § 19 InsO Rn. 47–95: Detaillierte Darlegung der Liquiditätsbilanz; Behandlung von Passiva-Streckung, Stundungen, Kreditlinien; Berechnung der 10-%-Lücke; Fortbestehensprognose anhand integrierter Planung.
+| Beweisthema | Beweislastträger | Beweismittel |
+|---|---|---|
+| Krisensignale erkennbar waren | Steuerberater (muss dokumentieren, dass er gewarnt hat) | Warnschreiben, Aktenvermerk, Eingangsbestätigung |
+| Qualifizierter Rangrücktritt | Gesellschafter | Klauseltext; § 39 Abs. 2 InsO-Kriterien |
+| Fortbestehensprognose positiv | GF / Sachverständiger | Integrierter Finanzplan IDW S 6/S 11 |
+| Stille Reserven und Lasten | GF / Gutachter | Bewertungsgutachten; Wertermittlung |
+| § 102 StaRUG-Schwelle offenkundig | Steuerberater (Abwehrseite) / Haftungskläger | BWA-Befunde, SuSa-Daten, Zeitpunkt der Erkennbarkeit |
 
-3. Pape/Schaltke, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 102 StaRUG Rn. 8–35: Anwendungsbereich der Hinweispflicht; Adressatenkreis; Anhaltspunkte; Form, Dokumentation und Haftungsfolgen unterlassener Hinweise.
+## Typische Gegenargumente
 
-4. Skauradszun, in: BeckOK StaRUG, 8. Ed. (Stand 04.2025), § 102 StaRUG Rn. 10–22: Auslegung des Tatbestandsmerkmals „offenkundig"; Verhältnis zur vertraglichen Hinweispflicht aus BGH NJW 2017, 1611; praktische Anforderungen an die Dokumentation.
+| Gegenargument | Gegenstrategie |
+|---|---|
+| "Negatives Eigenkapital ist nur buchhalterisch — Stille Reserven gleichen aus" | Stille Reserven konkret quantifizieren; Nachweis durch Sachverständige erforderlich; bloße Behauptung genügt nicht |
+| "Going concern rechtfertigt Fortführungsannahme" | § 252 Abs. 1 Nr. 2 HGB: nur solange keine entgegenstehenden Anhaltspunkte; bei Krisensignalen schriftliche Begründung Pflicht |
+| "Gesellschafterdarlehen ist nachrangig" | Qualifizierter Rangrücktritt nach § 39 Abs. 2 InsO prüfen; einfacher Rangrücktritt lässt Verbindlichkeit im Status |
+| "§ 102 StaRUG-Schwelle nicht erreicht — keine offenkundigen Signale" | BGH NJW 2017, 1611: bereits bei erkennbaren Krisensignalen; nicht erst manifeste Insolvenzreife |
+| "StB haftet nicht — er erstellt nur Buchhaltung" | BGH IX ZR 285/14: auch laufende Buchhaltungsbetreuung begründet Hinweispflicht |
 
-5. IDW S 11 (IDW, Beurteilung des Vorliegens von Insolvenzeröffnungsgründen, Stand 22.08.2016 zzgl. Aktualisierungen): Berufsständische Verlautbarung zu Prüfungstiefe, Liquiditätsstatus, Fortbestehensprognose und Dokumentation (kein Kommentar, aber für Berufsausübung maßgeblich; zu zitieren als „IDW S 11, Rn. ...").
+## Strategische Optionen (vor dem Template entscheiden)
 
-## Ablauf
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-**Schritt 1 – Datenaufnahme und Konsistenzcheck**
-- BWA, SuSa und Bilanzentwurf gegeneinander abgleichen (Schlusssalden SuSa = Bilanzposten; BWA-Erlös-/Aufwandskonten = G+V-Posten).
-- Periodenabgrenzung prüfen (aktive/passive RAP, Rückstellungen).
-- Auffälligkeiten in der SuSa identifizieren: ungewöhnliche Sollsalden auf Erlöskonten, Habensalden auf Aufwandskonten, hohe Verrechnungskonten („1590/1599"), nicht gebuchte Eingangsrechnungen (Erfahrungswert mit Vorjahres-WE-Quote).
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — BWA SuSa und Bilanz pruefend | Pruefung nach Schema; Schriftsatz unten |
+| Variante A — Nur BWA vorhanden keine Bilanz | BWA-Teilpruefung; Bilanzanforderung nachfragen |
+| Variante B — Krisensignale erkennbar Warnschreiben noetig | Warnschreiben-Skill parallel einsetzen |
+| Variante C — Pruefung nur zur Jahresabschlusspruefung | Teilpruefung; Jahresabschluss-Fokus setzen |
 
-**Schritt 2 – Belegstichprobe (risikoorientiert)**
-- Bei Auffälligkeiten Stichprobe: Top-10-Eingangsrechnungen, Top-10-Ausgangsrechnungen, alle bargeldnahen Buchungen, Buchungen kurz vor Bilanzstichtag (Cut-off-Test).
-- Plausibilität Kassenführung (§ 146 AO, § 158 AO – ordnungsgemäße Buchführung).
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-**Schritt 3 – Bilanzielle Krisenindikatoren auswerten**
-- **Rechnerische Überschuldung**: Eigenkapital negativ? Wert nicht 1:1 maßgeblich – Liquidationswerte/Fortführungswerte sind in einem **Überschuldungsstatus** (gesonderte Aufstellung) zu ermitteln, nicht aus der Handelsbilanz.
-- **Stille Lasten**: drohende Verluste aus schwebenden Geschäften, Bürgschaften, Garantien, anhängige Prozesse mit unsicherem Ausgang.
-- **Stille Reserven**: nicht bilanzierte Vermögensgegenstände (selbstgeschaffene immaterielle WG, GuV-stille Reserven Sachanlagen).
-- **Rangrücktritte**: qualifizierte Rangrücktritte (§ 39 Abs. 2 InsO) → Verbindlichkeit im Überschuldungsstatus passivseitig auszublenden.
 
-**Schritt 4 – Fortbestehensprognose nach § 19 Abs. 2 InsO**
-- Zeitraum: aktuell **12 Monate**, ggf. nach SanInsKG verlängert/verkürzt – aktuelle Gesetzesfassung prüfen.
-- Grundlage: integrierte Unternehmensplanung (Ertrags-, Bilanz-, Liquiditätsplanung) auf Basis dokumentierter Annahmen.
-- Maßstab: **überwiegende Wahrscheinlichkeit** der Fortführungsfähigkeit (BGH NJW 2020, 1809 Rn. 18).
-- Ergebnis: positive Prognose → keine Überschuldung trotz rechnerischer Unterdeckung; negative Prognose → § 19 InsO bejaht.
+## Schriftsatzbausteine
 
-**Schritt 5 – Zahlungsunfähigkeitsprüfung nach § 17 InsO**
-- Liquiditätsstatus: fällige Verbindlichkeiten (Stichtagsbezogen) vs. liquide Mittel + binnen 3 Wochen verfügbare Mittel.
-- Liquiditätslücke ≥ 10 % und nicht binnen 3 Wochen schließbar = Zahlungsunfähigkeit (BGH BGHZ 163, 134 Rn. 12 ff.).
-- Indizienkatalog (BGH NJW 2007, 78 Rn. 18): Stundungsanträge, Mahnungen, Vollstreckungsversuche, Lastschriftrückgaben, eingestellte Zahlungen an Sozialversicherung/Finanzamt.
-- Verweis an Schwester-Skill `stb-liquiditaetsvorschau-3wochen` für die rollierende Wochenrechnung.
+### Baustein 1: Befund-Tabelle BWA/SuSa
 
-**Schritt 6 – Hinweispflicht nach § 102 StaRUG bewerten**
-- Adressatenkreis: Berufsträger nach § 102 StaRUG mit Erstellungsauftrag Jahresabschluss.
-- Tatbestand: **offenkundige Anhaltspunkte** für (drohende) Zahlungsunfähigkeit, Zahlungsunfähigkeit oder Überschuldung.
-- Inhalt des Hinweises: (i) konkreter Anhaltspunkt, (ii) Hinweis auf Pflichten der Geschäftsleitung (§§ 15a, 15b InsO, § 1 StaRUG), (iii) Empfehlung Rechtsrat einzuholen.
-- Form: schriftlich oder textförmlich, dokumentationsfest, mit Mandantenquittung.
-- Rechtsfolge bei unterlassenem Hinweis: zivilrechtliche Haftung gegenüber Mandant und ggf. Insolvenzgläubigern (BGH NJW 2017, 1611 zu Vorgänger-Konstellation; § 102 StaRUG konkretisiert seit 2021).
+```
+BEFUND-TABELLE BWA/SuSa — Stichtag [Datum]
+Mandant: [Firma] GmbH
 
-**Schritt 7 – Dokumentation und Ausgabe**
-- Auswertungs-Memo mit Befunden BWA/SuSa/Bilanz.
-- Tabellarische Krisenmatrix (siehe Ausgabeformat).
-- Vorlage Hinweisschreiben § 102 StaRUG, falls Tatbestand erfüllt.
-- Empfehlungen für den Mandanten (Sanierungsberatung, Restrukturierungsbeauftragter, Insolvenzantrag).
+| Konto / Bereich | Auffälligkeit | Mögliche Ursache | Empfehlung |
+|---|---|---|---|
+| 1590 Verrechnungskonto GF | Saldo EUR [x] | Privatentnahmen ohne Verbuchung | Klärung und Buchung |
+| SV-Abgaben-Konto | Kein Buchungsbeleg 3 Monate | SV-Beiträge nicht abgeführt | Sofort zahlen; § 266a StGB |
+| Erlöskonten Soll-Saldo | Gutschriften offen | Rückgaben/Stornos nicht verbucht | Beleg anfordern |
+| RAP passiv fehlt | Vorauszahlung Miete nicht abgegrenzt | Periodenabgrenzung fehlt | Buchung nachholen |
+```
 
-## Ausgabeformat
+### Baustein 2: Krisenmatrix
 
-1. **Befund-Tabelle BWA/SuSa** (Spalten: Konto/Bereich – Auffälligkeit – mögliche Ursache – empfohlene Korrektur).
-2. **Krisenmatrix** (Spalten: Indikator – Ist-Wert – Schwellenwert/Norm – Bewertung – Rechtsfolge):
-   - rechnerische Überschuldung HGB
-   - Eigenkapitalquote
-   - Liquidität 1. Grades
-   - Stundungen/Mahnungen
-   - Lieferantenzahlungsverhalten (Tage)
-   - Sozialversicherungsabführung
-   - Steuerrückstände
-   - § 17 InsO (Zahlungsunfähigkeit)
-   - § 19 InsO (Überschuldung + Prognose)
-   - § 102 StaRUG (Hinweispflicht ausgelöst?)
-3. **Gutachtliche Würdigung im Gutachtenstil** (Obersatz – Definition – Subsumtion – Ergebnis) für § 17 InsO, § 19 InsO und § 102 StaRUG.
-4. **Hinweisschreiben § 102 StaRUG** (Mustertext mit Platzhaltern) bei positivem Befund.
-5. **Empfehlungsteil**: konkrete nächste Schritte mit Frist (Insolvenzantrag binnen 3/6 Wochen § 15a InsO; Beauftragung Sanierungsberater; Erstellung integrierter Planung; StaRUG-Restrukturierungsverfahren prüfen).
+```
+KRISENMATRIX — [Firma] GmbH — Stichtag [Datum]
 
-## Beispiel
+| Indikator | Ist-Wert | Schwellenwert | Bewertung | Rechtsfolge |
+|---|---|---|---|---|
+| Eigenkapital | EUR −[x] | > 0 | KRITISCH | Überschuldungsrisiko |
+| Liquidität 1. Grades | [X] % | > 100 % | KRITISCH | § 17 InsO-Risiko |
+| SV-Rückstände | EUR [x] | 0 | KRITISCH | § 266a StGB; Passiva I |
+| Steuerrückstände | EUR [y] | 0 | ERHÖHT | § 69 AO GF-Haftung |
+| Stundungsanträge | [n] in 3 Mon. | 0 | KRITISCH | Indiz Zahlungseinstellung |
+| Lieferantenzahlungstage | [x] Tage | ≤ 45 Tage | ERHÖHT | Zahlungsstockung |
+| § 17 InsO (Zahlungsunfähigkeit) | Quote [X] % | < 10 % | ROT | Antragsfrist 3 Wochen |
+| § 19 InsO (Überschuldung) | EK negativ, keine Prognose | — | ROT | Antragsfrist 6 Wochen |
+| § 102 StaRUG (Hinweispflicht) | offenkundig | ausgelöst | JA | Warnschreiben sofort |
+```
 
-**Sachverhalt**: Steuerberater S erstellt den Jahresabschluss 2025 der „Holzwerk Müller GmbH". Eigenkapital nach Bilanzentwurf: −82.000 EUR. SuSa zeigt Verbindlichkeiten aus Lieferungen und Leistungen 410.000 EUR (Vorjahr 180.000 EUR), durchschnittliches Zahlungsziel von 18 auf 67 Tage gestiegen. Sozialversicherungsbeiträge der letzten drei Monate offen (45.000 EUR). Kontokorrent ausgeschöpft, keine zugesagte Linienerhöhung. Gesellschafterdarlehen 120.000 EUR ohne Rangrücktritt.
+### Baustein 3: Hinweisschreiben § 102 StaRUG
 
-**Gutachtenstil**:
+```
+[StB-Briefkopf]                                  [Datum]
 
-*Zahlungsunfähigkeit (§ 17 InsO)*: Fällige Verbindlichkeiten (LuL + SV-Beiträge fällig) ca. 220.000 EUR. Liquide Mittel und binnen 3 Wochen erzielbare Mittel ca. 150.000 EUR (Forderungseingänge laut DA-Liste). Lücke = 70.000 EUR / 220.000 EUR = **31,8 %** > 10 %. Indizien (eingestellte Sozialabgaben, gestrecktes Zahlungsverhalten) sprechen für nicht-vorübergehende Lücke (BGH NJW 2007, 78 Rn. 18). **Zahlungsunfähigkeit liegt vor**.
+PERSÖNLICH / VERTRAULICH
 
-*Überschuldung (§ 19 InsO)*: Negatives EK lässt rechnerische Unterdeckung vermuten. Stille Reserven Maschinenpark werden geprüft, ein qualifizierter Rangrücktritt für das Gesellschafterdarlehen fehlt (§ 39 Abs. 2 InsO). Fortbestehensprognose: keine integrierte 12-Monats-Planung mit überwiegender Wahrscheinlichkeit darstellbar (BGH NJW 2020, 1809 Rn. 18). **Überschuldung indiziert**, abschließend nach Überschuldungsstatus zu bewerten.
+[GmbH, vertreten durch GF Name]
 
-*Hinweispflicht § 102 StaRUG*: S erstellt den Jahresabschluss als steuerberatender Berufsträger; offenkundige Anhaltspunkte (negatives EK + erkennbare Liquiditätskrise + SV-Rückstände) lösen die Hinweispflicht aus (Pape/Schaltke, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 102 StaRUG Rn. 19 ff.). **Hinweispflicht besteht**; schriftlicher Hinweis mit Empfehlung anwaltlicher Beratung und Hinweis auf §§ 15a, 15b InsO ist zu erteilen.
+Betreff: Hinweis auf erkennbare Krisensituation — § 102 StaRUG
 
-*Empfehlung*: Geschäftsführer hat Antragspflicht (3 Wochen bei § 17 InsO, 6 Wochen bei § 19 InsO, ab Eintritt). Parallel ggf. StaRUG-Restrukturierungsverfahren prüfen, wenn nur **drohende** Zahlungsunfähigkeit (§ 18 InsO) vorläge – hier bereits erfüllt.
+Sehr geehrte/r Herr / Frau [GF-Name],
 
-## Risiken und typische Fehler
+aus der von uns geführten laufenden Finanzbuchhaltung und der
+betriebswirtschaftlichen Auswertung zum Stichtag [Datum] ergeben sich
+folgende Krisensignale, auf die wir Sie hiermit ausdrücklich hinweisen:
 
-- **Handelsbilanz = Überschuldungsstatus verwechseln**: HGB-Bilanzwerte sind nicht 1:1 maßgeblich; Überschuldungsstatus separat (Fortführungs- oder Liquidationswerte je nach Prognose).
-- **Going-concern unbesehen ansetzen**: § 252 Abs. 1 Nr. 2 HGB nur, soweit nichts entgegensteht; bei Krise schriftliche Begründung notwendig.
-- **Rangrücktritt unkritisch akzeptieren**: Nur **qualifizierte** Rangrücktritte mit Bezug auf § 39 Abs. 2 InsO und Verzicht auf Geltendmachung im Insolvenzfall haben passivseitige Wirkung.
-- **§ 102 StaRUG nicht dokumentiert**: Mündlicher Hinweis genügt rechtlich, ist aber praktisch nicht beweisbar – immer Textform mit Eingangsbestätigung.
-- **„Drohende" mit „eingetretener" Zahlungsunfähigkeit verwechseln**: § 18 InsO (24-Monats-Horizont) ≠ § 17 InsO (Stichtag).
-- **Drei-Wochen-Frist falsch berechnet**: Ab Eintritt der Insolvenzreife, nicht ab Erkenntnis durch Steuerberater (§ 15a InsO).
-- **Indizienkatalog ignoriert**: Stundungen, SV-Rückstände, Lastschriftrückläufer sind keine Bagatellen, sondern starke Indizien (BGH NJW 2007, 78 Rn. 18).
-- **SanInsKG-Übergangsregelung übersehen**: Der Prognosezeitraum nach § 19 Abs. 2 InsO wurde temporär verkürzt; aktuelle Fassung jeweils zum Bewertungsstichtag prüfen.
+1. Eigenkapital negativ — EUR [x] zum Stichtag [Datum].
+2. Sozialversicherungsbeiträge für [Monat/Monate] nicht abgeführt:
+   EUR [y] (Indiz für Zahlungseinstellung; § 266a StGB-Risiko).
+3. Liquiditätslücke von EUR [z] (Quote [X] %) im 3-Wochen-Horizont.
 
-## Quellenpflicht
+Diese Befunde begründen den begründeten Verdacht einer Krise im Sinne
+von § 102 StaRUG und möglicher Insolvenzgründe nach §§ 17, 19 InsO.
 
-Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (BGHZ 163, 134; BGH NJW 2007, 78; BGH NJW 2020, 1809; BGHZ 213, 374) und zwei Kommentarbelege im Bearbeiter-Stil (K. Schmidt/Herchen; Uhlenbruck/Mock; Pape/Schaltke; BeckOK StaRUG/Skauradszun). Berufsständische Verlautbarungen (IDW S 11) sind als solche zu kennzeichnen. Bei laufender Gesetzgebung (SanInsKG-Verlängerungen, StaRUG-Reformen) ist die jeweils aktuell geltende Fassung zu zitieren und auf den Stichtag der Beurteilung zu beziehen.
+Als Geschäftsführer sind Sie verpflichtet, eine rechtliche Prüfung
+der Antragspflicht nach § 15a InsO einzuholen. Wir empfehlen
+dringend die unverzügliche Konsultation eines Fachanwalts für
+Insolvenz-/Sanierungsrecht oder Steuerrecht.
 
-Siehe ergänzend:
-- `references/insolvenzreife-checkliste.md` – tabellarische Indikatorenliste
-- `references/hinweisschreiben-102-starug.md` – Mustertext für den Pflichthinweis
+Als Ihr Steuerberater leisten wir mit diesem Schreiben den nach
+BGH IX ZR 285/14, IX ZR 64/12, IX ZR 104/18 obliegenden Hinweis.
+Eine rechtliche Beurteilung der Antragspflicht ist uns nach § 5 RDG
+nicht erlaubt.
+
+Bitte bestätigen Sie den Eingang dieses Schreibens binnen sieben Tagen.
+
+Mit freundlichen Grüßen
+[StB]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Streitwert und Kosten
+
+| Position | Berechnung | Hinweis |
+|---|---|---|
+| StB-Haftung bei unterlassenem Hinweis | Verschleppungsschaden = Differenz Insolvenzmasse mit/ohne Verschleppung | BGH IX ZR 285/14; kann erheblich sein |
+| Kosten Krisenprüfung | Steuerberater-Gebühren nach StBVV; ggf. Zeithonorar | Auftrag klar vereinbaren |
+| Kosten Sachverständigengutachten stille Reserven | EUR 1.500–8.000 je nach Umfang | Lohnt bei größeren Gesellschaften |
+| Kosten Sanierungskonzept IDW S 6 | EUR 10.000–50.000+ je nach Komplexität | WP/StB-Kanzlei mit Sanierungserfahrung |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Alle Krisenampeln grün | Dokumentieren; Wiedervorlage 3 Monate; § 102 StaRUG-Pflicht erfüllt |
+| Gelbe Ampeln ohne sofortige Insolvenzreife | Warnschreiben § 102 StaRUG; Liquiditätsvorschau beauftragen; Sanierungsoptionen besprechen |
+| Rote Ampeln — § 17 oder § 19 InsO indiziert | Warnschreiben sofort; Übergabe an Anwalt für Insolvenzreife-Prüfung; keine Abschlusserstellung ohne Warnung |
+| Mandant reagiert nicht auf Warnung | Wiederholung schriftlich; ggf. Mandatsniederlegung § 627 BGB |
+| Rangrücktritt möglich | Qualifizierten Rangrücktritt empfehlen; anwaltliche Klauselfassung notwendig |
+
+## Anschluss-Skills
+
+- `anw-insolvenzreife-pruefung-17-19-inso` — anwaltliche Insolvenzreife-Prüfung
+- `stb-warnschreiben-krisensignale` — vertieftes Warnschreiben-Skill
+- `stb-liquiditaetsvorschau-3-6-12-monate` — Liquiditätsvorschau für § 17 InsO-Prüfung
+
+## Quellen
+
+- InsO §§ 17, 18, 19, 15a, 15b, 39
+- HGB §§ 252, 264, 267, 268
+- StaRUG §§ 1, 102
+- StBerG §§ 1, 33
+- RDG § 5
+- BGH IX ZR 123/04 = BGHZ 163, 134
+- BGH IX ZR 228/03 = NJW 2007, 78
+- BGH II ZR 233/18 = NJW 2020, 1809
+- BGH IX ZR 285/14 = NJW 2017, 1611
+- BGH IX ZR 64/12 (drohende Insolvenzreife)
+- BGH IX ZR 104/18 (Substantiierungslast StB)
+- BGH II ZR 298/11 = BGHZ 195, 42
+- IDW S 6 (Sanierungskonzept) / IDW S 11 (Insolvenzeröffnungsgründe)
+- K. Schmidt/Herchen, InsO § 17 Rn. 5–35
+- Pape/Schaltke, StaRUG § 102 Rn. 8–35

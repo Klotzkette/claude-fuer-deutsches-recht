@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-ausweisung-widerspruch
-description: "Ausweisung § 53 AufenthG nach Reform 2016 Drei-Stufen-Pruefung Ausweisungs-Interesse Bleibe-Interesse Abwaegung. Schwerwiegendes Ausweisungs-Interesse §§ 54 55 AufenthG. Aufenthaltstitel-Widerruf. Familien-Mitglieder Schutz EuGH-Linie. Workflow Widerspruch Klage Eilantrag."
+description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Pruefraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Pruefung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung."
 ---
 
 # Ausweisung-Widerspruch § 53 AufenthG
@@ -17,6 +17,7 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 4. Wohndauer Deutschland?
 5. Heimatland-Bezüge?
 6. Strafverfahren parallel?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## 2) Drei-Stufen-Prüfung § 53 AufenthG (seit 2016)
 
@@ -148,3 +149,101 @@ Verteidigung gegen Ausweisungs-Verfügung Ausländerbehoerde.
 - `fachanwalt-migrationsrecht-asyl-folgeantrag-71` — bei Asylbezug
 - `fachanwalt-strafrecht-orientierung` — bei parallelem Strafverfahren
 - `widerspruch-oder-klage-erstpruefung` — bei VG-Triage
+
+## Vertiefung: Aktuelle Rechtsprechung
+
+- BVerwG, Urt. v. 22.02.2017 - 1 C 27.16, BVerwGE 157, 356 — Drei-Stufen-Test § 53 AufenthG: Ausweisungs- und Bleibeinteressen sind gleichrangig abzuwaegen; keine schematische Pruefreihenfolge; Art. 6 GG und Art. 8 EMRK sind unmittelbar in die Abwaegung einzustellen.
+- BVerwG, Urt. v. 25.07.2017 - 1 C 12.16, NVwZ 2018, 350 — Befristung Einreise- und Aufenthaltsverbot § 11 AufenthG: Befreiung von EAV nach Aufenthaltsbeendigung — Ermessen der Auslaenderbehoerde; hohes Gewicht bei familiären Bindungen in Deutschland.
+- EGMR, Urt. v. 18.10.2006 - 46410/99 (Uner v. Niederlande), NVwZ 2007, 1279 — Art. 8 EMRK Ausweisungsabwaegung: 10 Kriterien (Üner-Kriterien) fuer Verhältnismaessigkeitspruefung; Dauer Aufenthalt, Kindeswohl, Bindungen im Herkunftsland zwingend zu beruecksichtigen.
+- EuGH, Urt. v. 08.05.2018 - C-82/16 (K.A. und andere), NVwZ 2018, 1279 — Einreiseverbot bei Ruckkehrentscheidung: Wiedereinreisegesuch muss auf neue Umstaende gepruefen werden; EU-Buerger-Familienangehoerige koennen sich auf Art. 20 AEUV berufen um EAV entgegenzutreten.
+- OVG NRW, Urt. v. 22.03.2017 - 18 A 1908/14, BeckRS 2017, 107841 — Ausweisung nach Straftat: Gewichtung der Schwere der Straftat und Wiederholungsgefahr; Sozialprognose entscheidend; einzelfallbezogene Abwaegung Bleibeinteressen Familie.
+
+## Normen-Kette Ausweisung
+
+- **§ 53 AufenthG** — Ausweisungsabwaegung; Verhältnismaessigkeit
+- **§ 54 AufenthG** — Ausweisungsinteressen besonders schwerwiegend (Abs. 1) und schwerwiegend (Abs. 2)
+- **§ 55 AufenthG** — Bleibeinteressen; Familie, langer Aufenthalt, NE, Minderjährige
+- **§ 11 AufenthG** — Einreise- und Aufenthaltsverbot; Befristung auf Antrag
+- **§ 51 Abs. 1 Nr. 5 AufenthG** — Erlöschen Aufenthaltstitel durch Ausweisung
+- **Art. 6 GG / Art. 8 EMRK** — Familienschutz in der Abwaegung zwingend
+- **§ 80 Abs. 5 VwGO** — Eilrechtsschutz gegen sofortigen Vollzug
+
+## Kommentarliteratur
+
+- Bergmann/Dienelt, AufenthG §§ 53-55 Rn. 1-100 — Ausweisungsrecht systematisch
+- Kluth/Heusch, BeckOK AufenthG § 53 Rn. 1-50
+- Marx, Auslaenderrecht, Kap. VII Ausweisung und Einreiseverbot
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Ausweisung Widerspruch | Widerspruchsschreiben; Template unten |
+| Variante A — Ausweisung sofort vollziehbar | Eilantrag § 80 Abs. 5 VwGO; Abschiebestopp pruefen |
+| Variante B — EU-Buerger ausgewiesen | FreizuegG/EU Schutz Art. 28 FreizuegRL; hoehere Huerden |
+| Variante C — Straftatbestand als Ausweisungsgrund | Proportionalitaet EMRK Art. 8 pruefen; EGMR-Rechtsprechung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template: Widerspruch gegen Ausweisungsverfuegung
+
+**Adressat:** Auslaenderbehoerde [ORT] / Widerspruchsbehoerde
+**Tonfall:** Sachlich-juristisch; Verhältnismaessigkeit und Familienschutz betonend
+
+```
+[KANZLEI]
+[ADRESSE]
+
+[Auslaenderbehoerde ORT]
+[ADRESSE]
+
+W I D E R S P R U C H
+
+gegen den Bescheid vom [DATUM], Az. [AZ], betreffend die Ausweisung
+des Mandanten [NAME, geb. DATUM, Staatsang.]
+
+Sehr geehrte Damen und Herren,
+
+in Vertretung des o.g. Mandanten (Vollmacht Anlage 1) legen wir hiermit
+fristgerecht Widerspruch ein und begründen diesen wie folgt:
+
+I. SACHVERHALT
+[Kurzdarstellung: Ausweisung begruendet auf [STRAFURTEIL / SICHERHEIT /
+SOZIALLEISTUNGEN]; Aufenthalt seit [DATUM]; Familienkonstellation: ...]
+
+II. RECHTLICHE WUERDIGUNG
+
+1. Ausweisungsinteresse gering zu gewichten (§ 54 AufenthG):
+   [Analyse ob Ausweisungsinteresse wirklich schwerwiegend i.S.d. § 54 I
+   oder II AufenthG; Strafmass; Wiederholungsgefahr Sozialprognose]
+
+2. Schwerwiegende Bleibeinteressen (§ 55 AufenthG):
+   - Aufenthalt seit [X] Jahren — Niederlassungserlaubnis vorhanden
+   - Familienleben Art. 6 GG, Art. 8 EMRK: [KINDER / EHEGATTE DETAILS]
+   - Kindeswohl: [KINDER DETAILS, Alter, dt. Staatsang.]
+   - Üner-Kriterien EGMR (EGMR 46410/99): Bindungen im Herkunftsland
+     minimal nach [X] Jahren Abwesenheit.
+
+3. Abwaegung § 53 AufenthG ergibt Ueberwiegen Bleibeinteressen:
+   [Subsumtion; Verhältnismaessigkeit; milderes Mittel Verwarnungsschreiben?]
+
+III. HILFSANTRAG: BEFRISTUNG EINREISEVERBOT § 11 AufenthG
+Fuer den Fall der Aufrechterhaltung der Ausweisungsverfuegung wird beantragt,
+das Einreise- und Aufenthaltsverbot unverzueglich auf [1 Jahr] zu befristen
+(§ 11 Abs. 2 Satz 5 AufenthG; BVerwG 1 C 27.16).
+
+IV. EILRECHTSSCHUTZ
+Fuer den Fall der Aufrechterhaltung des Sofortvollzugs wird parallel
+Eilantrag nach § 80 Abs. 5 VwGO beim VG [ORT] eingereicht.
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

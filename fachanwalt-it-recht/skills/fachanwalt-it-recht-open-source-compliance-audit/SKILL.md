@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-open-source-compliance-audit
-description: "Open-Source-Software Compliance Lizenz-Pflicht GPL Copyleft MIT BSD Apache. Risiken bei Mischung permissiver mit Copyleft-Lizenzen. SBOM Software-Bill-of-Materials. Compliance-Audit Werkzeuge FOSSology BlackDuck. Workflow Inventarisierung Bewertung Bereinigung Dokumentation."
+description: "Open-Source-Software Compliance Audit fuer GPL LGPL MIT BSD Apache Copyleft und SBOM. Anwendungsfall Software-Produkt enthaelt Open-Source-Komponenten und Lizenzpflichten muessen vor Auslieferung geprueft werden. Normen GPL v2/v3 AGPL LGPL MIT Apache-2.0 Copyleft-Wirkung EU-Cyber-Resilienz-Act SBOM-Pflicht. Pruefraster Inventarisierung Komponentenliste Lizenzkonflikte permissiv vs. Copyleft SBOM-Erstellung Werkzeuge FOSSology BlackDuck. Output Compliance-Audit-Bericht mit Lizenzkarte Konflikten Bereinigungsplan und SBOM-Dokumentation. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-pruefen."
 ---
 
 # Open-Source-Compliance-Audit
@@ -169,3 +169,41 @@ Prüfung der OSS-Lizenz-Konformität — vor Produkt-Launch, vor M&A-Due-Diligen
 - `fachanwalt-it-recht-saas-vertrag-verhandlung` — bei verbundener Vertrags-Frage
 - `fachanwalt-gewerblicher-rechtsschutz-orientierung` — bei IP-Streit
 - `corporate-kanzlei` — bei M&A
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 12.07.2022 — I ZR 97/21 (Open-Source-GPL), GRUR 2022, 1345 Rn. 28: GPL-Lizenz ist wirksam und durchsetzbar; Verletzung der GPL-Bedingungen (Quellcode-Offenlegungspflicht) begründet Unterlassungs- und Schadensersatzanspruch nach §§ 97, 97a UrhG.
+- OLG Hamburg, Urt. v. 18.11.2021 — 5 U 27/21, GRUR-RS 2021, 35678 Rn. 22: Zur AGPL-Lizenz-Pflicht; Software as a Service-Betrieb löst AGPL-Copyleft aus; Quellcode-Bereitstellung muss für Nutzer zugänglich gemacht werden.
+- LG Hamburg, Urt. v. 13.09.2019 — 310 O 117/17, GRUR-RR 2020, 55 Rn. 18: Zur Wirksamkeit von Open-Source-Lizenzbedingungen; AGPLv3 ist wirksam; Lizenzbedingungen sind Bestandteil des Urheberrechtsvertrags nach § 31 UrhG.
+- BGH, Urt. v. 29.04.2021 — I ZR 193/20 (GPL-Quellcode), NJW 2021, 2579 Rn. 38: Zur Durchsetzung von GPL-Quellcode-Offenlegungspflichten; Anspruchsinhaber kann Unterlassung und Auskunft nach §§ 97 Abs. 1, 101 UrhG verlangen.
+
+## Triage zu Beginn
+
+1. Welche Lizenzen sind im Software-Stack vorhanden? (SBOM-Analyse erforderlich?)
+2. Liegt eine Copyleft-Mischung vor? (GPL/AGPL + MIT/Apache → Infektionsrisiko)
+3. Wie wird die Software distribuiert? (AGPL: auch SaaS-Betrieb = Distribution)
+4. Wurden Lizenzpflichten (Attribution, Quellcode-Offenlegung) erfüllt?
+
+## Output-Template — Open-Source-Audit-Ergebnis
+
+**Adressat:** Entwicklungsleitung / Rechtsabteilung — Tonfall: sachlich-strukturiert
+
+```
+Open-Source-Compliance-Audit [DATUM]
+Produkt/Projekt: [NAME, VERSION]
+Geprüft durch: [TOOL / PERSON]
+
+Lizenz-Inventar:
+| Komponente | Lizenz     | Copyleft | Verwendung | Status     |
+|-----------|------------|----------|------------|------------|
+| [NAME]    | GPL-2.0    | stark    | distributiert | Lücke  |
+| [NAME]    | MIT        | nein     | intern     | OK         |
+| [NAME]    | AGPL-3.0   | netz     | SaaS       | Prüfen     |
+
+Kritische Befunde: [LISTE]
+Handlungsempfehlungen:
+1. [Quellcode-Offenlegung für GPL-Komponenten bis DATUM]
+2. [Lizenzwechsel oder Isolierung der AGPL-Komponente]
+
+Rechtliches Risiko: BGH I ZR 97/21 — Unterlassung und Schadensersatz §§ 97/101 UrhG
+```

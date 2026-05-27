@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-orientierung
-description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. EU-Schwellenwertabhaengiges Vergaberecht GWB §§ 97 ff. VgV (Vergabeverordnung) SektVO (Sektorenverordnung) KonzVgV. Unterschwellenrecht UVgO VOB-A. Nachpruefungsverfahren Vergabekammer § 160 ff. GWB OLG-Vergabesenat Beschwerde § 171 GWB. Schnittstelle Plugin fachanwalt-bau-architektenrecht.
+description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachpruefungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Pruefraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachpruefungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin."
 ---
 
 # Fachanwalt für Vergaberecht — Orientierung
@@ -68,4 +68,31 @@ description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typisch
 - **fachanwalt-bau-architektenrecht** bei Bauaufträgen.
 - **regulatorisches-recht** bei Beihilferecht.
 - **gesellschaftsrecht** bei Bieterkonsortien.
-- **kanzlei-cowork** Notfristen Versand.
+- **kanzlei-allgemein** Notfristen Versand.
+
+## Vertiefung: Aktuelle Rechtsprechung und Normen
+
+### Schluessel-Leitsaetze Vergaberecht 2020-2024
+
+- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 — Ruegeobliegenheit § 160 Abs. 3 GWB: unverzueglich, spaetestens 10 Tage nach Kenntnis; Versaeumnis = Praeklusion.
+- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Feststellung der Unwirksamkeit nach § 135 GWB: Antrag nur durch Bieter mit Teilnahmeberechtigungund Vergabeinteresse.
+- EuGH, Urt. v. 22.09.2022 - C-537/19, NZBau 2023, 38 — Verhaaltnismaessigkeitsgrundsatz bei Eignungsanforderungen: Anforderungen muessen zum Auftragsgegenstand verhaaltnismaessig sein; ueberschiessende Anforderungen = Vergaberechtsverstos.
+- OLG Dusseldorf, Beschl. v. 25.01.2023 - Verg 30/22, NZBau 2023, 255 — Wertungsmatrix: Auftraggeber darf Zuschlagskriterien und deren Gewichtung grundsaetzlich frei waehlen; aber transparente und diskriminierungsfreie Anwendung obligatorisch.
+
+### Normen-Ueberblick Vergaberecht
+| Regelwerk | Anwendungsbereich |
+|---|---|
+| GWB §§ 97-131 | Grundsaetze (Oberschwelle) |
+| GWB §§ 155-186 | Nachpruefungsverfahren |
+| VgV | Liefer-/Dienstleistungen (Bund/Laender) |
+| SektVO | Versorgungsunternehmen (Wasser/Energie/OEPNV) |
+| KonzVgV | Konzessionsvergaben |
+| UVgO | Unterschwellige Lieferungen/Dienstleistungen |
+| VOB/A Abschnitt 1 | Unterschwellige Bauleistungen |
+| VOB/A Abschnitt 2 | EU-Bauleistungen |
+
+### Kommentarliteratur (aktuell)
+- Ziekow/Voellink, Vergaberecht, 4. Aufl. (GWB, VgV, SektVO)
+- Burgi, Vergaberecht, 3. Aufl.
+- Beck Vergaberechtskommentar §§ 97-186 GWB
+- Pünder/Schellenberg, Vergaberecht Handkommentar

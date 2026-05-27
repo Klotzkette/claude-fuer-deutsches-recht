@@ -1,243 +1,139 @@
 ---
 name: gesellschaftsgruender-gf-sozialversicherungs-status
-description: "Sozialversicherungs-Status des Geschaeftsfuehrers. Fremd-GF sozialversicherungspflichtig. Gesellschafter-GF Mehrheits-Beteiligung typisch frei Minderheits-Beteiligung typisch pflichtig. Sperrminoritaet ueber Sondervetorecht. Statusfeststellung Paragraf 7a SGB IV. BSG-Linie zur Weisungsfreiheit. Konsequenzen rueckwirkende Beitragsforderung."
+description: "Sozialversicherungsrechtlichen Status des GmbH-Geschaeftsfuehrers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Pruefraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte."
 ---
 
 # Sozialversicherungs-Status des Geschäftsführers
 
-## Zweck
+## Triage — kläre bei jedem neuen GF
 
-Bei jedem Geschäftsführer ist zu klären, ob er **sozialversicherungspflichtig** ist (Renten-, Arbeitslosen-, Kranken-, Pflegeversicherung). Bei falscher Annahme drohen rueckwirkende Beitragsforderungen über 4 Jahre (Paragraf 25 SGB IV) — für Gesellschaft und Geschäftsführer empfindlich.
+1. Ist der GF Gesellschafter oder Fremd-GF (kein Gesellschafter)?
+2. Bei Gesellschafter-GF: wie hoch ist die Beteiligungsquote (> 50 %, = 50 %, < 50 %)?
+3. Existiert eine Sperrminorität durch Sondervetorecht in Satzung oder SHA?
+4. Wurde der Gesellschafter-Anstellungsvertrag vor Beginn der Tätigkeit abgeschlossen?
+5. Wurde ein Statusfeststellungsantrag (§ 7a SGB IV) beantragt?
+6. Droht rückwirkende Beitragspflicht — hat der GF bereits ohne Statusklärung angefangen?
 
-## 1) Grundsatz
+## Zentrale Normen
 
-### Sozialversicherungspflicht
+- **§ 7 SGB IV** — Abhängige Beschäftigung: weisungsgebunden, in fremde Betriebsorganisation eingegliedert, kein unternehmerisches Risiko.
+- **§ 7a SGB IV** — Statusfeststellungsverfahren: bindende Feststellung durch Clearingstelle der DRV Bund.
+- **§ 25 SGB IV** — Verjährung der Beitragspflicht: 4 Jahre; bei vorsätzlicher Vorenthaltung: 30 Jahre.
+- **§§ 28a, 28d SGB IV** — Meldepflichten des Arbeitgebers; bei pflichtiger Beschäftigung: An- und Abmeldung.
+- **§ 14 SGB IV** — Arbeitsentgelt; Sachbezüge; Grundlage der Beitragsberechnung.
 
-- Pflicht entsteht bei **abhängiger Beschaeftigung** (Paragraf 7 SGB IV)
-- Wesentliche Merkmale:
-  - Weisungsabhängigkeit
-  - Eingliederung in fremde Betriebsorganisation
-  - Kein wesentliches unternehmerisches Risiko
-  - Kein eigenes Kapital im Spiel
+## Aktuelle Rechtsprechung (BSG-Linie)
 
-### Sozialversicherungsfrei
+- BSG, Urt. v. 29.08.2012 - B 12 KR 25/10 R, BSGE 111, 257 — Gesellschafter-GF mit Mehrheitsbeteiligung (> 50 %): regelmäßig sozialversicherungsfrei, da kein Beschäftigungsverhältnis; er kann sich selbst keine Weisungen erteilen.
+- BSG, Urt. v. 11.11.2015 - B 12 KR 10/14 R, SozR 4-2400 § 7 Nr. 28 — Gesellschafter-GF mit Sperrminorität: auch Minderheitsbeteiligung kann sozialversicherungsfreiheit begründen, wenn GF aufgrund Satzung oder SHA alle ihn betreffenden Beschlüsse verhindern kann.
+- BSG, Urt. v. 14.03.2018 - B 12 KR 13/17 R, NZS 2018, 612 — Fremd-GF: immer sozialversicherungspflichtig; keine Ausnahmen bei fehlender Beteiligung, auch bei weitgehender Vertragsfreiheit.
+- BSG, Urt. v. 12.05.2020 - B 12 R 11/19 R, BSGE 130, 160 — Rückwirkende Beitragsforderung: bei Versäumnis des Statusfeststellungsantrags gilt die 4-Jahres-Frist; bei vorsätzlichem Vorenthalten 30 Jahre; Geschäftsführer und Gesellschaft haften gesamtschuldnerisch.
 
-- **Selbstständige Tätigkeit**
-- Wesentliche Merkmale:
-  - Weisungsfreiheit
-  - Eigenes unternehmerisches Risiko
-  - Eigenes Kapital eingebracht
-  - Selbständige Geschäftsausübung
+## Kommentarliteratur
 
-## 2) BSG-Linie
+- Schlegel/Voelzke, SGB IV, § 7 Rn. 80-120 (Gesellschafter-GF, Abgrenzung selbständig / abhängig)
+- Krasney/Udsching, Handbuch des sozialgerichtlichen Verfahrens, Kap. IV Rn. 50 ff. (Statusfeststellung)
+- ErfK/Rolfs, SGB IV § 7 Rn. 1-50 (Beschäftigungsverhältnis GF)
 
-### Bei Solo-Gesellschafter-GF (100 %)
+## BSG-Statusmatrix Geschäftsführer
 
-- **Sozialversicherungsfrei**
-- Klare Eigenverantwortung, kein Fremd-Weisungsrecht
+| GF-Typ | Quote | Vetorecht | SV-Status | Empfehlung |
+|---|---|---|---|---|
+| Solo-GF (100 %) | 100 % | Ja (allein) | Frei | Statusfeststellung optional |
+| Mehrheits-GF | > 50 % | In der Regel | Frei | Statusfeststellung empfohlen |
+| Hälfte-GF | = 50 % | Unklar | Strittig | Statusfeststellung zwingend |
+| Minderheits-GF mit Sperrminorität | < 50 % | Ja (vertraglich) | Frei (wenn umfassend) | Statusfeststellung zwingend |
+| Minderheits-GF ohne Veto | < 50 % | Nein | Pflichtig | Anmeldung sofort |
+| Fremd-GF | 0 % | — | Pflichtig | Anmeldung sofort |
 
-### Bei Mehrheits-Gesellschafter-GF (> 50 %)
+## Statusfeststellungsantrag § 7a SGB IV
 
-- **Meist sozialversicherungsfrei**
-- BSG NJW 2012, 2310 / BSG SGb 2018, 612
-- Voraussetzung: Mehrheit beschluesst Geschäftsführer-Anweisungen — Mehrheits-GF kann sich nicht selbst weisen
+### Was ist das?
 
-### Bei 50 %-Gesellschafter-GF
+Formelle, **bindende Feststellung** des Sozialversicherungsstatus durch die Clearingstelle der Deutschen Rentenversicherung Bund. Bindet alle Sozialversicherungsträger.
 
-- **Strittig**
-- Bei zuständigem Sondervetorecht über Beschlüsse: meist sozialversicherungsfrei
-- Sonst: sozialversicherungspflichtig
-- BSG NJW 2017, 1056
+### Wann beantragen?
 
-### Bei Minderheits-Gesellschafter-GF (< 50 %)
+- Vor Aufnahme der GF-Tätigkeit (rückwirkende Freistellung bei rechtzeitigem Antrag möglich).
+- Bei Änderung der Beteiligungsquote oder Vetorechte.
+- Bei Zweifelsfällen (50 %-GF, Minderheits-GF mit Vetorecht).
 
-- **Meist sozialversicherungspflichtig**
-- Ausnahme: **Sperrminorität über Sondervetorecht** oder **gesellschaftsvertragliche Vereinbarung der Weisungsfreiheit**
+### Unterlagen
 
-### Bei Fremd-GF (kein Gesellschafter)
-
-- **Sozialversicherungspflichtig** (regelmäßig)
-- Status-Feststellung dennoch sinnvoll, da im Einzelfall Abweichungen möglich
-
-## 3) Statusfeststellung Paragraf 7a SGB IV
-
-### Was ist das
-
-- **Optionale, formelle Feststellung** des Status durch die Clearingstelle der Deutschen Rentenversicherung Bund
-- Bindend für alle Sozialversicherungsträger (Krankenkasse, RV, AV, PV)
-
-### Wann beantragen
-
-- **Vor** Aufnahme der Tätigkeit empfohlen
-- Bei jedem neuen GF
-- Bei Änderung der Anteilshöhe
-- Bei Änderung der Vetorechte / Stimmrechts-Struktur
-
-### Antrag
-
-- Online über Deutsche Rentenversicherung Bund
-- Formular V0027 (oder spezieller Antrag für GF)
-- Beilagen:
-  - Gesellschaftsvertrag
-  - Geschäftsführer-Anstellungsvertrag
-  - Beschluss zur Bestellung
-  - Aktueller HR-Auszug
-  - Gesellschafterliste
+- Formular V0027 (DRV Bund).
+- Gesellschaftsvertrag / Satzung.
+- Geschäftsführer-Anstellungsvertrag.
+- Gesellschafterliste.
+- Nachweis über Sondervetorecht (ggf. SHA).
 
 ### Dauer
 
-- Typisch 2-6 Monate
-- Bei komplexen Konstellationen laenger
+- Bearbeitungszeit: 3-6 Monate (DRV Bund ist oft ausgelastet).
+- In der Zwischenzeit: Einzug von Beiträgen zur Sicherheit empfohlen.
 
-### Ergebnis
+## Schritt-für-Schritt-Workflow
 
-- Schriftlicher Bescheid
-- Bindend gegenüber Sozialversicherungsträgern
-- Anfechtbar bei Ablehnung (Widerspruch -> Sozialgericht)
+1. **Triage** — 6 Triage-Fragen beantworten; GF-Typ und Beteiligungsquote feststellen.
+2. **Statusmatrix** — in Tabelle oben einsortieren; vorläufigen Status bestimmen.
+3. **Sperrminorität prüfen** — Satzung und SHA auf umfassende Vetorechte prüfen; BSG B 12 KR 10/14 R Kriterien.
+4. **Statusfeststellungsantrag** — bei Zweifelsfällen und Mehrheits-GF: Antrag stellen; Formular V0027.
+5. **Bis Bescheid** — SV-Beiträge sicherheitshalber einziehen (rückwirkende Gutschrift möglich).
+6. **Bei Pflichtstatus** — Anmeldung bei Krankenkasse; GKV oder PKV-Wahl des GF.
+7. **Lohnabrechnung einrichten** — bei Fremd-GF: Lohnbuchhaltung mit SV-Beitragsabzug.
+8. **Folgeprüfung bei Strukturänderung** — Beteiligungsänderung → neuer Statusfeststellungsantrag.
 
-## 4) Kriterien-Katalog
+## Output-Template Status-Dokumentation
 
-| Kriterium | spricht FUER Sozialversicherungspflicht | spricht GEGEN |
-|---|---|---|
-| Anteil < 25 % | + | - |
-| Anteil 25-50 % | + (eher) | - (bei Sperrminorität) |
-| Anteil > 50 % | - | + |
-| Sondervetorecht | - | + |
-| Weisungs-Pflicht im Anstellungsvertrag | + | - |
-| Eigene Kapital-Risiko-Beteiligung | - | + |
-| Persönliche Bürgschaft für Verbindlichkeiten | - | + |
-| Familienangehöriger im Mehrheitsbesitz | + | - |
-
-### Faustregel
-
-- **Anteil + Vetorechte = "echte Mitbestimmung"** -> SV-frei
-- **Lediglich Anteil ohne Veto + Familien-Verflechtung** -> oft SV-pflichtig
-
-## 5) Konsequenzen bei falscher Annahme
-
-### Bei rueckwirkender Pflichtigerklärung
-
-- **Beitragsforderung** bis 4 Jahre rueckwirkend (Paragraf 25 I SGB IV)
-- Bei vorsätzlicher Hinterziehung: 30 Jahre (Paragraf 25 I 2 SGB IV)
-- **Saeumniszuschlag** 1 % pro Monat (Paragraf 24 SGB IV)
-
-### Beispielrechnung
-
+**Adressat:** Gesellschaft / Steuerberater intern — Tonfall sachlich-präzise
 ```
-GF-Gehalt: 100.000 EUR jaehrlich (Brutto)
-SV-Pflichtteil: 20.000-22.000 EUR jaehrlich
-4 Jahre rueckwirkend: 80.000-88.000 EUR
-Plus Saeumniszuschlaege: ca. 20 % zusaetzlich
-Gesamt: ca. 100.000 EUR
-```
+SV-STATUS DOKUMENTATION GESCHÄFTSFÜHRER
+Gesellschaft: [Firmenname] GmbH
+GF-Name: [Name]
+Beginn der GF-Tätigkeit: [Datum]
+Erstellt: [Datum]
 
-### Strafbarkeit
+BETEILIGUNGSSTRUKTUR
+Beteiligungsquote: [%]
+Stimmrechtsquote: [%]
+Sondervetorecht in Satzung: [ ] Ja (§ [X] GV) / [ ] Nein
+Sondervetorecht in SHA: [ ] Ja (§ [X] SHA) / [ ] Nein
 
-- **Paragraf 266a StGB**: Vorenthalten und Veruntreuen von Arbeitsentgelt (Beitragshinterziehung) — Freiheitsstrafe bis 5 Jahre
+VORLÄUFIGER STATUS (BSG-Matrix)
+Status: [ ] Sozialversicherungsfrei / [ ] Sozialversicherungspflichtig / [ ] Unklar
+Begründung: [kurze Erläuterung]
 
-## 6) Sondervetorecht — Beispiel
+STATUSFESTSTELLUNG § 7a SGB IV
+Antrag gestellt: [ ] Ja am [Datum] / [ ] Nein / [ ] Nicht erforderlich
+Bescheid erhalten: [ ] ausstehend / [Datum, Ergebnis]
 
-### Gestaltungs-Variante
+BEI SV-PFLICHT
+Zuständige Krankenkasse: [Name]
+Anmeldedatum: [Datum]
+Beitragssatz gesamt: ca. 40 % des Bruttogehalts (AN + AG je ca. 20 %)
 
-```
-Gesellschafter A haelt 35 % der Anteile und ist
-Geschaeftsfuehrer.
-
-Im Gesellschaftsvertrag wird Folgendes festgelegt:
-- Beschluesse mit weniger als 75 % Mehrheit sind
-  unwirksam (qualifizierte Mehrheit).
-- Damit kann A mit 35 % jeden Beschluss verhindern,
-  da Mehrheit > 75 % erforderlich ist und A allein
-  > 25 % haelt -> Sperrminoritaet.
-- Im Anstellungsvertrag ist die Weisungsfreiheit
-  ausdruecklich verankert.
+RÜCKWIRKUNGS-RISIKO
+Zeitraum ohne Statusklärung: [Monate]
+Nachzahlungsrisiko (4 Jahre): [geschätzt EUR]
 ```
 
-### BSG-Linie
+## Rote Schwellen
 
-BSG NJW 2016, 1990 / BSG B 12 R 19/14: Eine Sperrminorität von 50 % oder mehr bei Mehrheitserfordernis schafft echte Mitbestimmung -> SV-frei. Bei einfacher Mehrheit aber Sperrminorität > 25 % alleine reicht nicht.
+- GF beginnt Tätigkeit ohne Statusklärung → rückwirkende Beitragspflicht bis 4 Jahre (§ 25 SGB IV).
+- Falscher Status angenommen (frei statt pflichtig) → GF und Gesellschaft haften gesamtschuldnerisch.
+- Sperrminorität in SHA, nicht in Satzung → BSG erkennt SHA-Vetorecht an, wenn umfassend; sorgfältige Formulierung nötig.
+- Änderung der Beteiligungsquote ohne neue Statusprüfung → Status kann sich rückwirkend ändern.
+- Vorsätzliche Vorenthaltung der SV-Beiträge → 30-jährige Verjährung; Strafbarkeit § 266a StGB.
 
-## 7) Vermeidung haeufiger Fehler
+## Quellen und Vertiefung
 
-### Familien-GmbH
+- §§ 7, 7a, 25, 28a SGB IV (Beschäftigungsbegriff, Statusfeststellung, Verjährung)
+- BSG B 12 KR 25/10 R, BSGE 111, 257 (Mehrheits-GF frei)
+- BSG B 12 KR 10/14 R, SozR 4-2400 § 7 Nr. 28 (Sperrminorität)
+- BSG B 12 KR 13/17 R, NZS 2018, 612 (Fremd-GF pflichtig)
+- ErfK/Rolfs, SGB IV § 7 Rn. 1-50
 
-- Sehr haeufig: Vater Mehrheits-Gesellschafter, Sohn Minderheits-GF (25-49 %)
-- Sohn als GF aus dem Familien-Umfeld weisungsabhängig
-- **Empfehlung**: explizite Weisungsfreiheits-Klausel im Anstellungsvertrag, Sondervetorechte in Satzung
+## Übergabe an andere Skills
 
-### Investor-Konstellation
-
-- Investor haelt 30 %, Gründer 70 %
-- Gründer ist GF — meist SV-frei
-- Bei späterer Verwässerung auf < 50 %: SV-Status neu prüfen
-
-### Sole-Gesellschafter-GF
-
-- 100 % Anteile, GF — eindeutig SV-frei
-
-### Co-GF mit gleichen Anteilen
-
-- 50/50-Konstellation
-- Sondervetorechte vereinbart -> meist SV-frei
-- Ohne Vetorechte: strittig, Statusfeststellung dringend
-
-## 8) Kosten der Sozialversicherung
-
-### Arbeitgeber-Anteil
-
-- Renten: 9,3 %
-- Arbeitslosen: 1,3 %
-- Kranken: ca. 7,3 %
-- Pflege: ca. 1,7 %
-- BG-Umlage: 0,5-2,5 % je Gefahrentarif
-- **Gesamt: ca. 20-22 % auf Brutto**
-
-### Arbeitnehmer-Anteil
-
-- Aequivalent (ca. 20-22 %)
-- Wird vom Brutto-Gehalt abgezogen
-
-### Bei SV-Pflichtigkeit
-
-- 100.000 EUR Brutto -> ca. 122.000 EUR Lohnkosten Gesellschaft
-- GF erhaelt ca. 60.000 EUR Netto (je nach Steuerklasse)
-
-### Bei SV-Freiheit
-
-- 100.000 EUR Brutto -> ca. 100.000 EUR Lohnkosten Gesellschaft
-- GF erhaelt ca. 70.000 EUR Netto
-- Privatversicherung erforderlich (Kranken, Renten, ggf. AV freiwillig)
-
-## 9) Privatversicherung bei SV-Freiheit
-
-### Krankenversicherung
-
-- Pflicht zur Krankenversicherung (Paragraf 193 III VVG)
-- PKV oder freiwillige GKV
-- Aufnahme-Voraussetzungen prüfen (Gesundheitsprüfung)
-
-### Rentenversicherung
-
-- Freiwillige Versicherung in der DRV möglich
-- Alternativ: privater Aufbau (Riester, Ruerup, betriebliche Altersversorgung)
-
-### Arbeitslosen-Versicherung
-
-- Freiwillig möglich (Paragraf 28a SGB III)
-- Bei Existenzgründern empfohlen
-- Antrag bei Bundesagentur für Arbeit binnen 3 Monaten nach Aufnahme
-
-## 10) Praktische Empfehlung
-
-- **Statusfeststellung Paragraf 7a SGB IV** bei jedem neuen GF — auch wenn „klar" SV-frei
-- **Wenn SV-Status erst später geklärt wird**: rueckwirkende Forderung droht
-- **Bei strukturellen Änderungen** (Anteilswechsel, neue Vetorechte): erneute Prüfung
-- **Anstellungsvertrag** klar formulieren: Weisungsfreiheit, eigene Verantwortung
-- **D&O-Versicherung** ungeachtet SV-Status
-
-## Anschluss
-
-- `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag
-- `gesellschaftsgruender-share-classes-a-b-c` — Stimmrechts-Klassen
-- `gesellschaftsgruender-golden-share-und-vetorechte` — Vetorechte für SV-Status
-- `kanzlei-allgemein-lohn-sv` — laufende SV-Abwicklung
+- `gesellschaftsgruender-geschaeftsfuehrervertrag` — GF-Anstellungsvertrag; Gehaltsgestaltung
+- `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — GF-Pflichten nach Eintragung
+- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung und Vetorecht-Klauseln

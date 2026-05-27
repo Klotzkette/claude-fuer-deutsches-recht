@@ -1,6 +1,6 @@
 ---
 name: widerspruch-oder-klage-erstpruefung
-description: Entscheidungsraster Widerspruchsverfahren vs. direkte Klage. Prueft Statthaftigkeit Anfechtungs- Verpflichtungs- Leistungs- oder Feststellungsklage Vorverfahrenspflicht § 68 VwGO landesrechtliche Abschaffung (in mehreren Bundeslaendern entfallen) Klagebefugnis § 42 Abs. 2 VwGO Klagefrist ein Monat § 74 VwGO Vorlaeufige Rechtsschutz § 80 § 80a § 123 VwGO aufschiebende Wirkung sofortige Vollziehung. Erstellt Vorabbewertung Erfolgsaussicht Streitwert nach § 52 GKG. Verweist auf richtigen Antragstyp und Folge-Skill.
+description: "Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Pruefraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Widerspruch oder Klage — Erstprüfung
@@ -119,6 +119,19 @@ Wenn nein — Realakt informelle Maßnahme — andere Klagearten Feststellungs- 
 - Frist im Fristenbuch (Hauptfrist Vorfrist)
 - Streitwert-Anzeige zur Kostenabschätzung
 - Mandatsvereinbarung Vorlage
+
+## Aktuelle Leitentscheidungen
+
+- BVerwG, Urt. v. 23.02.2023 — 9 C 6.21, BVerwGE 177, 198 — Klagebefugnis § 42 Abs. 2 VwGO; Schutznorm-Theorie; bloss allgemeine Interessen oder Reflexwirkungen genuegen nicht; subjektives Recht muss dem Klaeger zugeordnet sein.
+- BVerwG, Urt. v. 26.01.2023 — 7 C 5.21, DVBl 2023, 710 — Bekanntgabe-Fiktion § 41 Abs. 2 VwVfG; seit 01.01.2025 vier Tage (PostModG); Beginn Klagefrist mit Ablauf Fiktion auch bei tatsaechlich spaeterem Zugang.
+- BVerwG, Beschl. v. 15.06.2022 — 6 B 14.21, DVBl 2022, 1110 — Wiedereinsetzung § 60 VwGO; unverschuldete Fristversaeumnis; Darlegungslast beim Antragsteller; zwei-Wochen-Frist ab Wegfall Hindernis.
+- BVerfG, Beschl. v. 08.06.2021 — 2 BvR 1999/17, NJW 2021, 2460 — Art. 19 Abs. 4 GG; Eilrechtsschutz muss effektiv sein; Gericht darf nicht pauschal auf Erfolgsaussichten verweisen ohne Abwaegung.
+
+## Kommentarliteratur
+
+- Kopp/Schenke VwGO § 42 Rn. 1-60 (Klagebefugnis), § 58 Rn. 1-30 (Rechtsbehelfsbelehrung), § 74 Rn. 1-20 (Klagefrist)
+- Stelkens/Bonk/Sachs VwVfG § 41 Rn. 1-80 (Bekanntgabe, PostModG)
+- Eyermann VwGO § 113 Rn. 1-50 (Aufhebung, Verpflichtung)
 
 ## Quellen
 

@@ -1,42 +1,63 @@
 ---
 name: jveg-anspruchsberechtigung
-description: "Kläert, ob Zeuge, Dritter, Sachverständiger, Dolmetscher, Übersetzer, Protokollperson oder ehrenamtlicher Richter betroffen ist."
+description: "Anspruchsberechtigung nach JVEG pruefen: Sachverstaendiger, Zeuge, Dolmetscher, Anwalt. Normen: §§ 1 2 JVEG. Pruefraster: Personenkategorie, Beauftragung durch Gericht, Verfahrensart. Output: Pruefergebnis Anspruchsberechtigung JVEG. Abgrenzung: nicht Verguetungsberechnung."
 ---
 
-# JVEG Anspruchsberechtigung
+# JVEG-Anspruchsberechtigung
 
 ## Aufgabe
+Kläre, welche Person nach § 2 JVEG anspruchsberechtigt ist, und ordne die Vergütungsgrundlage (Sachverständiger, Zeuge, Dolmetscher usw.) der richtigen Normengruppe zu.
 
-Kläert, ob Zeuge, Dritter, Sachverständiger, Dolmetscher, Übersetzer, Protokollperson oder ehrenamtlicher Richter betroffen ist. Der Skill arbeitet vollständig innerhalb des JVEG-Kostenprüfer-Plugins und setzt keine anderen Plugins voraus.
+## Triage — kläre vor der Prüfung
+
+1. **Rolle der Person:** Sachverständiger, Zeuge, Dritter, Dolmetscher, Übersetzer, Protokollperson oder ehrenamtlicher Richter?
+2. **Beauftragung:** Liegt eine gerichtliche Beauftragung oder Ladung vor (§ 1 JVEG)?
+3. **Verfahrensart:** Zivilverfahren, Strafverfahren, Verwaltungsverfahren?
+4. **Mehrfachrollen:** Hat die Person mehrere Funktionen in einem Verfahren (z.B. Sachverständiger und Zeuge)?
+5. **Dritterstattung:** Soll eine Dritte Person (§ 2 Abs. 2 JVEG) geltend machen?
+
+## Zentrale Normen
+- § 1 JVEG (Anwendungsbereich)
+- § 2 JVEG (Anspruchsberechtigte: Sachverständige, Dolmetscher, Übersetzer, Protokollpersonen, ehrenamtliche Richter, Zeugen, Dritte)
+- § 19 JVEG (Zeugenfahrtkosten)
+- § 22 JVEG (Zeitversäumnis des Zeugen)
+- § 13 JVEG (Dolmetscher)
+- § 8 JVEG (Sachverständigenvergütung)
+
+## Rechtsprechung
+1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die Eigenschaft als Sachverständiger i.S.d. JVEG setzt eine gerichtliche Bestellung voraus; privatgutachterliche Tätigkeit unterfällt dem JVEG nicht.
+2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Dreimonatsfrist des § 23 JVEG gilt für alle Anspruchsberechtigten des § 2 JVEG gleichermaßen.
+3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Auch Zeugen können Fahrtkosten nur im Rahmen der Wirtschaftlichkeit geltend machen (§ 19 i.V.m. § 5 JVEG).
+4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Ehrenamtliche Richter haben keinen Anspruch auf Sachverständigenvergütung; die Rollenzuordnung nach § 2 JVEG ist abschließend.
+
+## Kommentarliteratur
+- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 2 Rn. 1 ff.
+- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG § 2 Rn. 1 ff.
+- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 2 Rn. 1 ff.
 
 ## Startet bei
-
-- Zeugenladung, Gerichtsschreiben, Vorschussantrag, Kostenantrag oder JVEG-Rechnung
-- Prüfung von Fahrtkosten, Übernachtung, Tagegeld, Verdienstausfall, Haushaltsführung, Zeitversäumnis oder sonstigen Auslagen
-- Sachverständigen-, Dolmetscher- oder Übersetzerkosten
-- Ablehnung, Kürzung, Nachforderung, Festsetzungsantrag oder Beschwerdeüberlegung
+Eingang eines JVEG-Antrags oder einer Rechnung, wenn die Rolle der anspruchsberechtigten Person unklar ist.
 
 ## Arbeitsweise
+1. Ladungs- oder Bestellungsdokument auswerten.
+2. Rolle nach § 2 JVEG zuordnen.
+3. Bei Mehrfachrolle: Abgrenzung prüfen, keine Doppelerstattung.
+4. Zutreffende Normenkette für nachgelagerte Prüfung benennen.
 
-1. Rolle und Anspruchsgrundlage sauber bestimmen.
-2. Gesetzesstand und Normbasis offenlegen; bei Unsicherheit den amtlichen Text neu prüfen.
-3. Eingabedaten aus Akte, Antrag und Belegen trennen.
-4. Jede Position mit Norm, Rechenweg, Belegstatus und Risikoampel versehen.
-5. Beträge nie frei erfinden; fehlende Werte als Rückfrage oder Annahme markieren.
-6. Doppelerfassungen verhindern, insbesondere Verdienstausfall gegen Zeitversäumnis und Haushaltsführung.
-7. Ergebnis so formulieren, dass Gericht, Kostenbeamter und Mandant den Rechenweg nachvollziehen können.
+## Output-Template
+
+| Kriterium | Befund |
+|---|---|
+| Person | [Name/Bezeichnung] |
+| Rolle nach § 2 JVEG | [Sachverständiger / Zeuge / Dolmetscher / …] |
+| Beauftragungsdokument | [Aktenzeichen, Datum] |
+| Maßgebliche Normen | [§§ …] |
+| Mehrfachrolle | [Ja / Nein — Begründung] |
+| Ergebnis | [Anspruchsberechtigung bejaht / verneint] |
 
 ## Ausgabe
-
-- kurze Einordnung, ob der Antrag dem Grunde nach trägt
-- Rechenblatt mit Einzelpositionen und Summe
-- Belegmatrix und Rückfragenliste
-- Entwurf für Vorschuss-, Festsetzungs- oder Ergänzungsschreiben
-- Risikoampel für Frist, Beleg, Norm, Kappung, Ermessensfrage und Prozessstrategie
+Rollenzuordnung mit Normenbegründung; Weiterleitung an spezifische Vergütungsprüf-Skills.
 
 ## Leitplanken
-
-- Originalunterlagen bleiben unverändert.
-- Keine pauschale Rechtsbehauptung ohne Normbezug.
-- Keine verdeckte Umrechnung netto/brutto; Verdienstausfall nach § 22 JVEG gesondert markieren.
-- Bei Auslandsanreise immer Zumutbarkeit, Alternativen, Belegbarkeit und Verhältnismäßigkeit getrennt prüfen.
+- Rollenzuordnung ist abschließend nach § 2 JVEG; keine analoge Ausweitung.
+- Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.

@@ -1,6 +1,6 @@
 ---
 name: anmeldung-strategie-portfolio
-description: "Strategische Markenportfolio-Planung fuer Luxus-Modehaeuser: DE/EU/Madrid-Protokoll, Nizza-Klassen (Kl. 3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade und Kostenoptimierung. Laedt, wenn der Nutzer 'Markenstrategie', 'Anmeldestrategie', 'Portfolio', 'Nizza-Klassen', 'Madrid-Protokoll' oder 'Markenschutz international' sagt."
+description: "Strategische Markenportfolio-Planung fuer Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schuetzen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Pruefraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung."
 ---
 
 # Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
@@ -105,3 +105,20 @@ Brezelmann Discount KG (Bad Mergentheim) hat „KLÖTZ-KETTE" in Klasse 25 beim 
 - **Sonderzeichen:** Prüfen, ob das DPMA-System ô/è korrekt kodiert (UTF-8); im Zweifel auch vereinfachte ASCII-Schreibweise parallel anmelden
 - **Madrid-Transformation:** Bei Angriff auf die Basismarke innerhalb von 5 Jahren droht Transformation aller abhängigen internationalen Registrierungen (zentrale Angriffsfläche!)
 - **Klassenerweiterung unmöglich:** DPMA lässt keine nachträgliche Klassenerweiterung zu — zu enge Erstanmeldung ist kaum heilbar
+
+## Triage-Fragen vor Anmeldestrategie
+
+Bevor die Anmeldekaskade gestartet wird, kläre:
+1. Ist das Zeichen bereits irgendwo angemeldet oder benutzt (unregistrierte Marke, §§ 4 Nr. 2/3 MarkenG)?
+2. Welche Märkte sind innerhalb der nächsten 3 Jahre kommerziell realistisch?
+3. Bestehen bekannte Kollisionsrisiken durch Drittmarken in Zielklassen?
+4. Wurde die 5-Jahres-Benutzungspflicht für bestehende Eintragungen beachtet?
+5. Ist eine Madrid-IR-Basismarke bereits konsolidiert und Central-Attack-resistent?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 12.11.2015 — I ZR 167/14 (Durchgerostetes Fahrzeug):** Maßgeblich für die Verwechslungsgefahr zwischen älteren und jüngeren Marken ist der Gesamteindruck; selbst gering unterscheidungskräftige ältere Marken können Schutz gegenüber jüngeren Anmeldungen beanspruchen, wenn die Ähnlichkeit der Zeichen und Waren hoch ist.
+
+> **EuGH, Urt. v. 19.06.2012 — C-307/10 (IP Translator):** Klassenüberschriften der Nizza-Klassifikation dürfen nicht pauschal für alle enthaltenen Waren/Dienstleistungen beansprucht werden; das Warenverzeichnis muss hinreichend klar und präzise sein. Übergangsfristenregelung für vor 2012 eingetragene Marken beachten.
+
+> **EuGH, Urt. v. 29.01.2020 — C-371/18 (Sky / SkyKick):** Ein zu unklares oder zu weitgefasstes Warenverzeichnis kann zwar nicht allein wegen Bösgläubigkeit nach Art. 59 I lit. b UMV angefochten werden, macht die Marke aber für Löschungsangriffe anfälliger. Präzise Warenverzeichnisse sind daher strategisch überlegen.

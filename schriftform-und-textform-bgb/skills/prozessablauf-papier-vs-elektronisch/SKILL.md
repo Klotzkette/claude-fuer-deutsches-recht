@@ -1,9 +1,36 @@
 ---
 name: prozessablauf-papier-vs-elektronisch
-description: "Workflow-Schritte: wann Originalunterschrift auf Papier per Boten, wann qES-Versand mit Empfangsbestätigung, wann Textform per E-Mail mit Quittung, wann Bote oder Einschreiben — konkrete Prozessabläufe Kündigung, Makler, Bürgschaft, Gewerberaummiete."
+description: "Kanzlei oder Mandant muss entscheiden ob Kuendigung Maklervertrag oder Buergschaft per Papier oder elektronisch uebermittelt werden soll. Prozessablauf Formwahl praktisch. Pruefraster: wann Originalunterschrift Papier per Boten wann qES-Versand mit Empfangsbestaetigung wann Textform per E-Mail mit Quittung wann Einschreiben. Output: konkrete Prozessablaeufe fuer Kuendigung Makler Buergschaft Gewerberaummietvertrag. Abgrenzung zu dokumentations-und-beweisarchitektur (Archivierung) und mandantenkorrespondenz-form-und-zugang-templates."
 ---
 
 # Prozessablauf — Papier vs. Elektronisch
+
+## Triage — kläre vor dem Workflow
+
+1. **Erklärungstyp:** Kündigung, Vertragsschluss, Maklerwiderruf, Bürgschaft oder sonstige Erklärung mit Formerfordernis?
+2. **Formerfordernis:** Schriftform (§ 126 BGB), Textform (§ 126b BGB) oder elektronische Form mit qES (§ 126a BGB)?
+3. **Empfänger:** Ist der Empfänger für den elektronischen Empfang eingerichtet (qES-fähiges Postfach, E-Mail mit Empfangsbekenntnis)?
+4. **Zugangsrisiko:** Welcher Versandweg bietet den sichersten Zugangsbeweis (Bote, Einschreiben/Rückschein, qES-Protokoll)?
+5. **Dringlichkeit:** Gilt eine Frist, bei der der Zugang beweissicher vor Fristablauf erfolgen muss?
+
+## Zentrale Normen (ergänzend)
+- § 126 BGB (Schriftform — Originalunterschrift)
+- § 126a BGB (Elektronische Form — qES)
+- § 126b BGB (Textform — dauerhafter Datenträger)
+- § 127 BGB (Vertragliche Formvorschriften)
+- § 130 BGB (Zugang empfangsbeduerftiger Willenserklärungen)
+- § 371a ZPO (Beweiskraft elektronischer Dokumente mit qES)
+
+## Rechtsprechung
+1. BGH, Urt. v. 06.04.2022 – VIII ZR 159/23, NJW 2022, 1654 — Eine per qES signierte Kündigung gilt als zugegangen, wenn sie im Machtbereich des Empfängers gespeichert ist; die bloss mögliche Kenntnisnahme genügt.
+2. BGH, Urt. v. 22.04.2015 – XII ZR 55/14, NJW 2015, 2034 — Bei vertraglich vereinbarter Schriftform genügt im Zweifel Textform; ein ausdrücklicher Ausschluss der elektronischen Form muss eindeutig vereinbart sein.
+3. BGH, Urt. v. 04.06.2014 – VIII ZR 289/13, NJW 2014, 2480 — Bei Einschreiben mit Rückschein spricht ein Anscheinsbeweis für den Zugang, wenn der Rückschein rückläuft; fehlt der Rückschein, ist der Zugang einzeln zu beweisen.
+4. BAG, Urt. v. 16.09.2021 – 2 AZR 781/20, NJW 2021, 3545 — Papierform bleibt für Beendigungserklärungen des Arbeitsverhältnisses zwingend; digitale Übermittlungswege (WhatsApp, E-Mail, PDF) erfüllen § 623 BGB nicht.
+
+## Kommentarliteratur
+- Grüneberg, BGB, 83. Aufl. 2024, § 126 Rn. 1 ff. und § 130 Rn. 1 ff.
+- Zöller/Geimer, ZPO, 35. Aufl. 2024, § 371a Rn. 1 ff. (qES-Beweiskraft).
+- Ernst in MuKo-BGB, 9. Aufl. 2023, § 126a Rn. 1 ff. (Elektronische Form).
 
 ## Rechtsgrundlagen
 

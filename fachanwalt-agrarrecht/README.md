@@ -1,6 +1,6 @@
 # Fachanwalt Agrarrecht
 
-Light-Touch-Plugin Fachanwalt für Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.
+Plugin Fachanwalt für Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

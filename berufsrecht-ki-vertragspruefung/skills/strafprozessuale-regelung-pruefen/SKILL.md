@@ -66,3 +66,55 @@ Bei US-Anbietern oder US-Töchtern greift der US-CLOUD Act und kann § 97 StPO f
 ## Output
 
 Tabellarische Bewertung. Defizite fließen in den Rückfragebrief und in die Klauselvorschläge.
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14–28: § 53a StPO erstreckt das Zeugnisverweigerungsrecht auf Berufshelfer; Voraussetzung ist, dass die Person bei der Berufstätigkeit mitwirkt; KI-Dienstleister kann unter diese Norm fallen, wenn er zur Berufsausübung des Anwalts mitwirkt.
+- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 55–70: Beschlagnahmeschutz nach § 97 StPO gilt für Unterlagen, die dem Anwalt zur Ausübung seines Mandats übergeben wurden; der Schutz erfordert, dass das Dokument tatsächlich in der Anwaltssphäre liegt; Serverspeicherung beim Dienstleister kann den Schutz gefährden.
+- BGH, Beschl. v. 05.04.2017 — StB 6/17, BGHSt 62, 74 Rn. 22: Zur Reichweite des § 97 StPO; der Beschlagnahmeschutz gilt nur für Unterlagen, die sich im Gewahrsam des Verteidigers befinden — bei Cloud-Speicherung ist Gewahrsam des Dienstleisters zu klären.
+- OLG Frankfurt, Beschl. v. 20.12.2018 — 1 Ws 110/18, NJW 2019, 712 Rn. 15: Zur Frage der Beschlagnahme von E-Mails beim Provider; Beschlagnahmeschutz nach § 97 StPO greift auch bei Provider-Speicherung, wenn Provider als Berufshelfer i.S.d. § 53a StPO anzusehen ist.
+
+## Zentrale Normen (Paragrafenkette)
+
+- §§ 53, 53a StPO — Zeugnisverweigerungsrecht und dessen Erstreckung auf Berufshelfer
+- §§ 94–98 StPO — Beschlagnahme; § 97 StPO Beschlagnahmeverbot für Mandatsunterlagen
+- § 203 Abs. 4 StGB — Pflicht des Berufsgeheimnisträgers, den Dienstleister auf §§ 203/204 StGB hinzuweisen
+- §§ 43e Abs. 3, 62a Abs. 3 StBerG etc. — Vertragsinhalt
+
+## Kommentarliteratur
+
+- Löwe/Rosenberg StPO, 27. Aufl. 2022, § 97 Rn. 1–80: Ausführlich zum Beschlagnahmeverbot; sachlicher und persönlicher Schutzbereich; Unterlagen bei Dritten.
+- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 70–80: Zur Sekundärpflicht nach § 203 Abs. 4 Satz 2 Nr. 1 StGB; der Berufsgeheimnisträger muss den Dienstleister zur Verschwiegenheit und zur Widerstandspflicht gegenüber behördlichen Zugriffen anhalten.
+
+## Triage zu Beginn
+
+1. Ist im Vertrag geregelt, wie der Dienstleister mit behördlichen Auskunftsersuchen umgeht?
+2. Enthält der Vertrag eine Widerstandspflicht (Pflicht zur Rechtsbehelfseinlegung)?
+3. Ist eine Vorab-Informationspflicht gegenüber der Kanzlei geregelt?
+4. Bei US-Anbietern: CLOUD Act Addendum vorhanden?
+
+## Output-Template — Strafprozessuale Prüfvermerk
+
+**Adressat:** Kanzlei intern — Tonfall: sachlich-juristisch
+
+```
+Strafprozessuale Prüfvermerk [DATUM]
+Anbieter: [NAME] | Vertrag: [DOKUMENT, VERSION]
+
+Prüfpunkt 1: Zeugnisverweigerungsrecht (§ 53a StPO)
+Vertrag regelt Mitwirkung als Berufshelfer: ja / nein / unklar
+Fundstelle: [KLAUSEL]
+
+Prüfpunkt 2: Widerstandspflicht bei behördlichen Auskunftsersuchen
+Klausel vorhanden: ja / nein
+Inhalt: [BESCHREIBUNG]
+Fundstelle: [KLAUSEL]
+
+Prüfpunkt 3: Vorab-Informationspflicht der Kanzlei
+Geregelt: ja / nein
+Fundstelle: [KLAUSEL]
+
+Ergebnis
+Ampel strafprozessuale Absicherung: GRUEN / GELB / ROT
+Handlungsbedarf: [...]
+```

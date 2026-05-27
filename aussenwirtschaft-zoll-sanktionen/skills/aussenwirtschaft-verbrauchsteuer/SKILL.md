@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-verbrauchsteuer
-description: "Prüft Energieerzeugnisse, Strom, Tabak, Alkohol, Bier, Schaumwein, Kaffee, Steuerlager, Steueraussetzung, EMCS, Entlastung und Steuerentstehung."
+description: "Verbrauchsteuerrecht fuer Energieerzeugnisse Strom Tabak Alkohol Bier Schaumwein und Kaffee. Anwendungsfall Hersteller oder Haendler prueft Steuerlager Steueraussetzungsverfahren oder Entlastungsantrag. Normen EnergieStG StromStG TabakStG BierStG §§ 1-39 Steuerlager EMCS-Verfahren UZK Art. 189 ff. Pruefraster Energieerzeugnisse Strom Tabak Alkohol Steuerlager Steueraussetzung EMCS Entlastung Steuerentstehung. Output Verbrauchsteuer-Pruefprotokoll mit Steuerlagerkonzept EMCS-Begleitung und Entlastungsantrag. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # Verbrauchsteuer
@@ -49,3 +49,67 @@ Dieser Skill minimiert ungewollte Verbrauchsteuerentstehung und dokumentiert Bew
 - Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
 - Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
 - Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+
+## Triage vor Verbrauchsteuer-Pruefung
+
+Kläre vor der Pruefung:
+
+1. Welche Verbrauchsteuer ist betroffen — Energiesteuer, Alkoholsteuer, Tabaksteuer, Kaffeesteuer, oder Stromsteuer?
+2. Handelt es sich um eine Einfuhr aus Drittland (Verbindung Zoll/EVSt) oder um innergemeinschaftlichen Erwerb?
+3. Liegt eine Steueraussetzung (Verfahren unter Steueraussetzung), eine Steuerlagererlaubnis oder eine Versandverfahren-Genehmigung vor?
+4. Besteht eine Erstattungs- oder Verguetungsmoglichkeit (energiesteuerrechtliche Beginstigung, Steuererlass § 65 EnergieStG)?
+5. Liegt ein Hauptzollamt-Bescheid (Nacherhebung, Widerruf einer Erlaubnis) vor, gegen den Einspruch eingelegt werden soll?
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 05.04.2001 - C-325/99 (Van de Water) — Entstehung der Verbrauchsteuerpflicht bei unregelmaessiger Entnahme aus dem Steueraussetzungsverfahren; schon das Verlassen des zugelassenen Verfahrens loest Steuerpflicht aus.
+- BFH, Urt. v. 11.05.2010 - VII R 36/09, BFHE 230, 186 — Haftung des Lagerhalters fuer Energiesteuerschulden; Sorgfaltspflicht bei Warenannahme und Dokumentation der Steueraussetzung.
+- EuGH, Urt. v. 17.10.2019 - C-579/18 (Amorim) — Zum Verbrauchsteuer-Entstehungstatbestand bei Tabakwaren; unregelmaessige Einfuhr erzeugt Verbrauchsteuer unabhaengig von Zollschuld-Entstehungszeitpunkt.
+- BFH, Urt. v. 20.10.2015 - VII R 32/14, BFHE 252, 229 — Zur Auslegung des Begriffs der "gewerblichen Verwendung" im Energiesteuerrecht; Vergutungsanspruch setzt eindeutige Zweckwidmung voraus.
+
+## Normen-Kette Verbrauchsteuer
+
+- §§ 1 ff. EnergieStG — Energiesteuer (Mineral-/Erdgas, Strom, Kohle)
+- §§ 1 ff. TabStG — Tabaksteuer
+- §§ 1 ff. AlkStG — Alkoholsteuer (ab 2018)
+- §§ 1 ff. StromStG — Stromsteuer
+- Art. 7, 9, 10 Systemrichtlinie RL 2020/262/EU — Harmonisierte Verbrauchsteuerregeln EU
+- §§ 21-23 UStG i.V.m. Art. 201 UZK — Einfuhrumsatzsteuer-Entstehung
+
+## Kommentarliteratur
+
+- Dorsch, Verbrauchsteuerrecht, Loseblatt — praxisorientiert
+- Moench, Energiesteuer- und Stromsteuerrecht, 2. Aufl.
+
+## Output-Template: Verbrauchsteuer-Pruefungsvermerk
+
+**Adressat:** Steuerabteilung / Zollbeauftragter — **Tonfall:** abgabenrechtlich-praezise
+
+```
+VERBRAUCHSTEUER-PRUEFUNGSVERMERK
+Datum: [DATUM]
+Steuerart: [ENERGIESTEUER / TABAKSTEUER / ALKOHOLSTEUER / STROMSTEUER]
+Ware/Energietraeger: [BEZEICHNUNG]  Menge: [MENGE + EINHEIT]
+Bearbeiter: [NAME]
+
+1. STEUERENTSTEHUNG
+   Tatbestand: [§ [GESETZ] Abs. [ABSATZ] — Beschreibung]
+   Zeitpunkt: [DATUM DES AUSLOESENDEM EREIGNIS]
+   Schuldner: [LAGERHALTER / EINFU-HRER / ERWERBER]
+
+2. STEUERAUSSETZUNG
+   Verfahren unter Steueraussetzung: [ ] Ja — Erlaubnis Nr.: [NR.] / [ ] Nein
+   Regelmaessige Beendigung: [ ] Ja / [ ] Nein — Risiko: [BESCHREIBUNG]
+
+3. STEUERBERECHNUNG
+   Steuersatz: [EUR/EINHEIT gemaess § [GESETZ]]
+   Steuerbetrag: [EUR]
+   Erlass/Verguetung moeglich: [ ] Ja — Grundlage: § [NORM] — Betrag: [EUR]
+
+4. RECHTSMITTEL
+   Einspruch gegen Bescheid: [ ] Eingereicht am [DATUM] / [ ] Zu erwaegen
+   Frist: [DATUM] (1 Monat ab Bekanntgabe § 355 AO)
+
+5. NAECHSTE SCHRITTE
+   - [Schritt mit Frist]
+```

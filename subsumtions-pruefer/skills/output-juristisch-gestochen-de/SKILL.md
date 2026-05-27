@@ -5,6 +5,20 @@ description: "Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antr
 
 # Output: Juristisch gestochen (Deutsch)
 
+## Triage zu Beginn
+
+1. Für welches Gericht / welche Behörde ist der Schriftsatz bestimmt?
+2. Besteht Anwaltszwang? (LG, OLG, BGH: § 78 ZPO)
+3. Welche Klageart ist einschlägig? (Leistungs- / Feststellungs- / Gestaltungsklage)
+4. Sind Beweisangebote bereits vorhanden oder noch zu beschaffen?
+
+## Aktuelle Rechtsprechung zum Schriftsatzstil
+
+- BGH, Beschl. v. 23.06.2020 - II ZB 14/19, NJW 2020, 2567 — Ein Schriftsatz muss einen bestimmten Antrag enthalten (§ 253 Abs. 2 Nr. 2 ZPO); ein zu unbestimmter Antrag führt zur Unzulässigkeit der Klage und ist nicht heilbar nach mündlicher Verhandlung.
+- BGH, Beschl. v. 12.03.2020 - I ZR 48/17, NJW 2020, 1750 — Die Begründung eines Unterlassungsantrags muss die konkret verletzte Handlung so präzise beschreiben, dass der Tenor vollstreckungsfähig ist; eine pauschale Beschreibung genügt nicht.
+- BGH, Urt. v. 16.09.2021 - III ZR 76/20, NJW 2021, 3457 — Beweisangebote müssen unmittelbar nach der bestrittenen Tatsachenbehauptung im Schriftsatz genannt werden; spätere Vorlage im Laufe des Verfahrens ist ggf. präkludiert (§ 296 ZPO).
+- BGH, Beschl. v. 19.11.2019 - II ZR 233/18, NJW 2020, 398 — Das Zitiergebot im Schriftsatz erfordert Volltextangabe des Gerichts, Datum, Aktenzeichen und Fundstelle (NJW o.ä.); Kurzformen wie BGH GRUR 2019, 123 sind ohne vollständiges Aktenzeichen unvollständig.
+
 ## Zweck
 
 Dieser Skill formatiert das Subsumtionsergebnis als juristisch-formalen Text im deutschen Schriftsatzstil. Er dient als Grundlage für Schriftsätze, Klageschriften, Widersprüche, Beschwerden und anwaltliche Stellungnahmen. Der erzeugte Text ist ein Entwurf — er muss von einem Rechtsanwalt geprüft, ergänzt und verantwortet werden.

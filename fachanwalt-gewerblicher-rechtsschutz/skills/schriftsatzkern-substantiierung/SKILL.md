@@ -1,38 +1,47 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Abmahnung, Antrag eV, Unterlassungsklage, Loeschungsklage Marke: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Pruefraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht fuer aussergerichtliche Abmahnungen."
 ---
 
 # Schriftsatzkern und Substantiierung im Marken-, Patent-, Design- und Wettbewerbsrecht
 
-## Wann dieser Skill greift
+## Triage zu Beginn
 
-- Es soll ein vollwertiger Schriftsatz im Bereich Marken-, Patent-, Design- und Wettbewerbsrecht erstellt werden, typischerweise: Abmahnung, Antrag eV, Unterlassungsklage, Loeschungsklage Marke.
-- Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.
-- Klage-, Widerspruchs-, Einspruchs-, Rechtsmittel-Frist ist bekannt und im Kalender eingetragen.
+1. **Schriftsatztyp:** Abmahnung, einstweiliger Verfuegungsantrag, Unterlassungsklage, Loeschungsklage Marke oder Schadensersatzklage?
+2. **Anspruchsgrundlage:** §§ 14, 18, 19 MarkenG? §§ 38 ff. DesignG? §§ 3 ff. UWG? §§ 97 ff. UrhG? §§ 139 ff. PatG?
+3. **Zustaendigkeit:** LG (Markenkammern) oder Spezialgerichte? OLG als Beschwerdegericht?
+4. **Fristen:** Klage-/Widerspruchs-/Einspruchs-/Beschwerdefrist eingehalten und notiert?
+5. **Beweislage:** Welche Urkunden, Zeugen, Sachverstaendige stehen zur Verfuegung?
+6. **Gegnerische Einwaende vorausschauen:** Was wird die Gegenseite entgegenhalten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Aufbauschema
+## Zentrale Normen und Paragrafenkette
+
+Markenrecht:
+§ 14 Abs. 2 MarkenG (Verletzung) → § 14 Abs. 5 MarkenG (Unterlassung) → § 14 Abs. 6 MarkenG (Schadensersatz) → § 18 MarkenG (Vernichtung/Rueckruf) → § 19 MarkenG (Auskunft) → §§ 195, 199 BGB (Verjaehrung 3 Jahre)
+
+UWG:
+§ 3 UWG (Generalklausel) → § 3a/§ 5/§ 7 UWG (Tatbestand) → § 8 Abs. 1 UWG (Unterlassung) → § 8 Abs. 3 UWG (Aktivlegitimation) → § 9 UWG (Schadensersatz) → § 13 Abs. 3 UWG (Abmahnkosten) → § 8c UWG (Missbrauch)
+
+DesignG:
+§ 38 Abs. 1 DesignG (Unterlassung) → § 42 DesignG (Schadensersatz) → § 43 DesignG (Auskunft) → §§ 195, 199 BGB (Verjaehrung)
+
+## Aufbauschema Schriftsatz
 
 ### A. Rubrum
 
 - Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
 - Zustellungsanschrift Bevollmaechtigte.
 - Gericht/Behoerde (Zustaendigkeit pruefen und im Schriftsatz darstellen, wenn streitig).
-- Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
-- Streitwert/Gegenstandswert.
+- Aktenzeichen; Streitwert.
 
 ### B. Antraege
 
-Klassischer Antrag-Block; je nach Verfahrenstyp:
-
 - Leistungsantrag (zu zahlen, zu unterlassen, zu beseitigen, herauszugeben).
 - Feststellungsantrag (Feststellungsinteresse darlegen).
-- Gestaltungsantrag (Aufhebung, Anfechtung, Scheidung).
 - Hilfsantraege staffeln (von eng nach weit oder von hoch nach niedrig).
 
 ### C. Tatsachenvortrag
-
-Der Substantiierungs-Kern; pro Anspruchsgrundlage in MarkenG, UWG, PatG, GeschmMG, DesignG, UrhG, GeschGehG, GMV/UMV eine eigene Tatsachen-Sequenz:
 
 1. **Sachverhalts-Chronologie** mit konkreten Daten (Tag, Uhrzeit, Ort, Personen).
 2. **Mandantenseitige Tatsachenbehauptungen** mit Beweisangeboten.
@@ -41,155 +50,144 @@ Der Substantiierungs-Kern; pro Anspruchsgrundlage in MarkenG, UWG, PatG, GeschmM
 
 ### D. Rechtliche Wuerdigung
 
-Anspruchsaufbau klassisch:
-
-1. **Anspruchsgrundlage** nennen (z.B. § X iVm § Y).
+1. **Anspruchsgrundlage** nennen (z.B. § 14 Abs. 2 Nr. 2 MarkenG i.V.m. § 14 Abs. 5 MarkenG).
 2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
 3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
-4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Marken-, Patent-, Design- und Wettbewerbsrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
-5. **Subsumtion-Ergebnis** klar formulieren.
+4. **Rechtsprechungsverweise:** Leitsaetze mit Az. und Rn. konkret zitieren.
+5. **Subsumtions-Ergebnis** klar formulieren.
 
 ### E. Beweisangebote
 
-Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
-
-- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort § X Abs. Y, Anlage K1".
+- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt genau beschreiben.
 - Zeugenbeweis: Name, ladungsfaehige Anschrift, Beweisthema in einem Satz.
-- Sachverstaendigenbeweis: ggf. Privatgutachten mit anfuegen, gerichtliches Gutachten beantragen.
-- Parteivernehmung als letzte Stufe, mit Antrag § 448 ZPO und Indiziengeruest.
-- Inaugenscheinnahme: bei Sache vor Ort (Mietraum, Baustelle, Fahrzeug, Hardware).
+- Sachverstaendigenbeweis: ggf. Privatgutachten beifuegen, gerichtliches Gutachten beantragen.
+- Parteivernehmung als letzte Stufe mit Antrag § 448 ZPO und Indiziengeruest.
 
 ### F. Anlagenverzeichnis
 
 - K1, K2 ... durchnummeriert (Antragstellerin/Klaegerin).
 - Bei Beklagten B1, B2 ...
 - Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
-- Pflicht-Erwaehnung im Tatsachenvortrag.
 
-## Substantiierungs-Fallen im Marken-, Patent-, Design- und Wettbewerbsrecht
+## Zentrale Rechtsprechung fuer Substantiierung
 
-- **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig", "in mehreren Faellen") werden vom Gericht uebergangen.
-- **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
-- **Selbst-widersprueche** zwischen Schriftsatz und Anlage ("Im Vertrag steht doch was anderes").
-- **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
-- **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
+- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 35 – Goldbaerenbarren: Schadensersatz bei Markenverletzung kann nach Lizenzanalogie, Verletzergewinn oder konkretem Schaden berechnet werden; Klaeger muss eine Berechnungsmethode waehlen und konkreten Sachvortrag leisten.
+- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 42 – Wagenfeld-Leuchte: Für Unterlassungsanspruch nach § 97 Abs. 1 UrhG ist Wiederholungsgefahr zu vermuten wenn Verletzung feststeht; Unterlassungserklaerung muss hinreichend konkret formuliert sein, um Wiederholungsgefahr zu beseitigen.
+- BGH, Urt. v. 22.03.2018 – I ZR 137/16, GRUR 2018, 1161 Rn. 21 – Industriell gefertigte Moebelteile: Fuer DesignG-Verletzung ist zu pruefen ob Design Neuheit und Eigenart besitzt; Schriftsatz muss Stand des Designs zum Anmeldezeitpunkt konkret darlegen.
+- BGH, Urt. v. 28.03.2019 – I ZR 122/17, GRUR 2019, 1005 Rn. 29 – Bettina Zimmermann: Schadensersatz wegen Verletzung des Rechts am eigenen Bild nach §§ 22, 23 KUG i.V.m. § 97 Abs. 2 UrhG; Lizenzanalogie nach ueblicherweise gezahlter Lizenzvergutung.
+- OLG Muenchen, Urt. v. 05.03.2020 – 6 U 5709/19, GRUR-RS 2020, 9183 Rn. 18: Bei einstweiliger Verfuegung im Markenrecht muss Glaubhaftmachung durch eidesstattliche Versicherung erfolgen; Urkunden allein genuegen in der Regel nicht fuer Dringlichkeit.
+
+## Kommentarliteratur
+
+- Koehler/Bornkamm/Feddersen, UWG (Beck) — §§ 8, 9, 13 UWG
+- Ingerl/Rohnke, Markengesetz (Beck) — §§ 14, 18, 19 MarkenG
+- Stroeble/Hacker/Thiering, MarkenG (Heymanns) — Verletzungsansprueche
+- Benkard, Patentgesetz (Beck) — §§ 139, 140a PatG
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schriftsatz im gewerblichen Rechtsschutz substantiieren | Output-Template Markenverletzung als Grundlage; Pruefkette unten |
+| Variante A — Patentrecht statt Marken-/Urheberrecht | Technische Sachverhaltsbeschreibung verstaerken; Patentzeichnungen als Anlage |
+| Variante B — einstweilige Verfuegung | Kurze Substantiierung; Dringlichkeit und Verfuegungsanspruch im Vordergrund |
+| Variante C — Gegenseite hat starke Gegenrechte | Praeventivargumentation aufbauen; Defensivpositionen einbeziehen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template Klageschrift Markenverletzung (Auszug)
+
+**Adressat:** LG [ORT] — [Markenkammer] — Tonfall sachlich-juristisch
+
+```
+An das Landgericht [ORT]
+[Anschrift]
+
+KLAGE
+
+der [NAME MANDANT], [ADRESSE]
+— Klaegetin —
+Prozessbevollmaechtigte: [KANZLEI, ADRESSE]
+
+gegen
+
+[BEKLAGTE], [ADRESSE]
+— Beklagte —
+
+wegen Markenverletzung und Schadensersatz
+
+Streitwert: [BETRAG] EUR
+
+Wir zeigen die anwaltliche Vertretung der Klaegerin an und erheben Klage
+mit den folgenden Antraegen:
+
+I. ANTRAEGE
+
+1. Die Beklagte wird verurteilt, es bei Meidung eines fuer jeden Fall der
+   Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu 250.000 EUR, ersatzweise
+   Ordnungshaft, zu unterlassen, im geschaeftlichen Verkehr das Zeichen [ZEICHEN]
+   fuer Waren/Dienstleistungen der Klasse [X] zu benutzen.
+
+2. Die Beklagte wird verurteilt, der Klaegerin Auskunft zu erteilen ueber
+   [UMFANG AUSKUNFTSANSPRUCH § 19 MarkenG].
+
+3. Die Beklagte wird verurteilt, an die Klaegerin Schadensersatz in Hoehe
+   von [BETRAG] EUR nebst Zinsen zu zahlen (hilfsweise: Schadensersatz nach
+   Lizenzanalogie in einer durch das Gericht nach § 287 ZPO zu schaetzenden Hoehe).
+
+II. BEGRUENDUNG
+
+A. Sachverhalt
+
+[CHRONOLOGISCHE SACHVERHALTSDARSTELLUNG mit konkreten Daten, Orten, Personen]
+
+Beweis: [ANLAGE K1 — Registrierungsnachweis Marke]
+        [ANLAGE K2 — Verwendungsbeispiel der Beklagten vom TT.MM.JJJJ]
+        [ANLAGE K3 — Eidesstattliche Versicherung]
+
+B. Rechtliche Wuerdigung
+
+1. Verwechslungsgefahr § 9 Abs. 1 Nr. 2 i.V.m. § 14 Abs. 2 Nr. 2 MarkenG
+   [...]
+
+[ORT, DATUM]
+[KANZLEI / NAME, UNTERSCHRIFT]
+
+ANLAGENVERZEICHNIS
+K1: Registerauszug Marke [DPMA-AZ] vom [DATUM]
+K2: Screenshot/Produkt-Aufnahme Beklagte vom [DATUM]
+K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 
 ## Pruefkette vor Versand
 
-1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
+1. Antrag tenoriert (urteilstauglich, vollstreckbar)?
 2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
 3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
 4. Zustaendigkeit positiv festgestellt?
-5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
+5. Streitwert plausibel, ggf. Anlage Streitwert-Berechnung?
 6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
-7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
+7. beA-/EGVP-Konformitaet (PDF/A, ERVV-Signatur)?
 8. Vier-Augen-Pruefung durch Sozius oder Senior-Anwaeltin?
 
-## Rechtsprechungs-Werkzeugkasten
+## Substantiierungs-Fallen im gewerblichen Rechtsschutz
 
-- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate fuer Marken-, Patent-, Design- und Wettbewerbsrecht.
-- MarkenG, UWG, PatG, GeschmMG, DesignG, UrhG, GeschGehG, GMV/UMV sowie Verordnungen/Richtlinien dazu.
-- Aktuelle Reform- und Gesetzgebungslage einbeziehen.
-
-## Pflicht-Output
-
-1. **Schriftsatz** mit Rubrum, Antraegen, Tatsachenvortrag, Rechtsausfuehrung, Beweisangeboten, Anlagenverzeichnis.
-2. **Anlagen-Konvolut** numerisch geordnet, jede Anlage einzeln benannt.
-3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
-4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
-5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
-
-
-## Beispiel-Anspruchsgrundlagen im Marken-, Patent-, Design- und Wettbewerbsrecht
-
-Drei haeufig gebrauchte Anspruchsgrundlagen aus MarkenG, UWG, PatG, GeschmMG, DesignG, UrhG, GeschGehG, GMV/UMV und ihre Substantiierungs-Anforderungen:
-
-### Grundlage 1
-
-- Tatbestandsmerkmal 1: konkrete Tatsache + Beweis.
-- Tatbestandsmerkmal 2: konkrete Tatsache + Beweis.
-- Tatbestandsmerkmal 3: konkrete Tatsache + Beweis.
-- Rechtsfolge: konkreter Antrag.
-
-### Grundlage 2
-
-Analog - jede Tatsache braucht ein Beweisangebot.
-
-### Grundlage 3 (Auffanggrundlage / Sekundaeranspruch)
-
-Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
-
-## Antrags-Muster nach Verfahrenstyp
-
-Typische Antraege in Marken-, Patent-, Design- und Wettbewerbsrecht (Abmahnung, Antrag eV, Unterlassungsklage, Loeschungsklage Marke):
-
-- Hauptantrag (Leistung/Feststellung/Gestaltung).
-- Hilfsantrag (z.B. fuer den Fall, dass Hauptforderung verjaehrt ist).
-- Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
-- Streitwert-Antrag (falls Streitwert streitig).
-
-## Beweisaufnahme - was das Gericht sehen will
-
-### Urkundenbeweis
-
-- Anlage K1: Bezeichnung, Datum, kurze Inhaltsbeschreibung.
-- Im Tatsachenvortrag: "Diese Behauptung beruht auf dem als Anlage K1 vorgelegten Schreiben der Beklagten vom TT.MM.JJJJ, dort Seite Y, Absatz Z."
-
-### Zeugenbeweis
-
-- Form: "Beweis: Aussage der Zeugin Name, ladungsfaehige Anschrift, zum Beweisthema (konkret in einem Satz)."
-- Mehrere Zeuginnen zum gleichen Thema: Indiziengeruest staerken.
-- Keine Beweisermittlung ueber Zeugnis - das Beweisthema muss konkret sein.
-
-### Sachverstaendigenbeweis
-
-- Bei Marken-, Patent-, Design- und Wettbewerbsrecht-typischen Streitfaellen oft notwendig (Bauwerk, IT-System, Anlagebewertung, medizinische Frage).
-- Privatgutachten als Anlage K vorlegen + zugleich gerichtliches Gutachten beantragen.
-- Verfahrensoekonomie: Sachverstaendigen-Kosten frueh mit Mandantin besprechen.
-
-### Parteivernehmung (§ 448 ZPO)
-
-- Letzte Stufe, nur wenn andere Beweismittel ausgeschoepft.
-- Indiziengeruest vortragen, das eine gewisse Wahrscheinlichkeit der Behauptung tragt.
-
-## Replik-/Duplik-Vorausschau
-
-Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
-
-- Verjaehrung -> Hemmungstatbestand vortragen.
-- Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
-- Formmangel -> Heilung/Schutz-Argument bereit halten.
-- Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
-
-## Elektronische Einreichung (beA, EGVP, EBO, ELSTER)
-
-- PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
-- Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
-- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand ueber beA (sicherer Uebermittlungsweg).
-- Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
-- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Aenderungen im Vollstreckungsbereich; in Marken-, Patent-, Design- und Wettbewerbsrecht ggf. spezifische ERV-Pflichten beachten.
-
-## Schriftsatz-Stil
-
-- Aktiv, kurze Saetze, klare Subsumtion.
-- Keine Floskeln ("Die Klage ist zulaessig und begruendet" als Ueberschrift, aber dann substantiieren).
-- Mandanten- und Beweismittel-Zitate woertlich, in Anfuehrungszeichen, mit Anlage-Verweis.
-- Keine Gefuehlsausbrueche - sachlich auch bei provokanter Gegenseite.
-
-## Vier-Augen-Check
-
-Vor Versand:
-
-- [ ] Antrag tenorierungsfaehig
-- [ ] Frist gewahrt mit Reserve
-- [ ] Jede Tatsache hat Beweis
-- [ ] Anlagen vollstaendig und nummeriert
-- [ ] Rechtsprechungs-Zitat aktuell
-- [ ] Streitwert plausibel
-- [ ] beA/EGVP-konform
-- [ ] Senior-/Sozius-Freigabe
+- **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig") werden vom Gericht uebergangen.
+- **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
+- **Verspaeteter Vortrag** § 296 ZPO: Ruegepflicht-Fristen beachten.
+- **Anspruchskonkurrenz** nicht vollstaendig ausgeschoepft: MarkenG + UWG + UrhG koennen kumulieren.
+- **Verwechslungs-Analyse zu kurz**: alle drei Dimensionen (klanglich, schriftbildlich, begrifflich) bearbeiten.
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+- `erstgespraech-mandatsannahme` — Tatsachen-Grundlage und Streitwertskizze
+- `vergleichsverhandlung-strategie` — paralleler Vergleichsversuch
+- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-spezifische Bausteine

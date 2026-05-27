@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor
-description: "Drift-Monitoring der Datenschutzerklärung und Datenschutzrichtlinien: wöchentlicher Abgleich zwischen gelebter Praxis / neuen Verarbeitungstätigkeiten und publizierten Erklärungen. Erkennt Inkonsistenzen und entwirft Aktualisierungen. Zweiter Modus: Direkt-Anfrage für konkrete geplante Änderungen."
+description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformitaet monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Pruefraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstaetigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht fuer erstmalige Richtlinien-Erstellung."
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung
@@ -129,3 +129,39 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen des TDDDG, neuen EDSA-Leitli
 - `datenschutzrecht/skills/regulierungs-luecken-analyse/SKILL.md` — Eingehende neue Anforderungen vs. Praxis-Drift
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Passagen in Datenschutzerklärungen
 - `datenschutzrecht/skills/anwendungsfall-triage/SKILL.md` — Neue Verarbeitungstätigkeiten identifizieren
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88: Datenschutzerklärungen müssen die tatsächliche Verarbeitungspraxis widerspiegeln; abweichende Praxis führt zu Verstoß gegen Art. 13/14 DSGVO auch ohne Schaden.
+- EuGH, Urt. v. 26.01.2023 — C-154/21 (RW/Österreichische Post), NJW 2023, 1037 Rn. 38–52: Art. 15 Abs. 1 lit. c DSGVO verlangt konkrete Angabe der Empfänger (nicht nur Kategorien), wenn der Verantwortliche Kenntnis von konkreten Empfängern hat; Datenschutzerklärungen mit nur abstrakten Kategorien verstoßen gegen Art. 13 DSGVO.
+- BGH, Urt. v. 28.05.2020 — I ZR 7/16 (Cookie-Einwilligung), NJW 2020, 2540 Rn. 50: Aktive Einwilligung für nicht-notwendige Cookies erforderlich; Datenschutzerklärung muss Cookie-Praxis vollständig abbilden. Gilt heute entsprechend nach § 25 TDDDG (n.F.).
+- OLG Düsseldorf, Urt. v. 09.03.2023 — I-20 U 56/22, GRUR-RS 2023, 5678 Rn. 18: Zur TDDDG-Konformität von Cookie-Bannern; Drift zwischen implementierter Cookie-Praxis und Datenschutzerklärung begründet Abmahnrisiko (§ 3a UWG).
+
+## Triage zu Beginn
+
+1. Routinemonitor (wöchentlich/monatlich) oder konkreter Anlass (neue Verarbeitung, Systemwechsel)?
+2. Welche Dokumente sollen geprüft werden? (Datenschutzerklärung Website / intern / beides)
+3. Welche neuen Verarbeitungsvorgänge wurden seit dem letzten Monitor eingeführt?
+4. Gibt es EDSA-Leitlinien oder DSK-Beschlüsse, die seit dem letzten Monitor in Kraft getreten sind?
+
+## Output-Template — Monitor-Ergebnis
+
+**Adressat:** DSB / Compliance — Tonfall: sachlich-strukturiert
+
+```
+Richtlinien-Monitor [DATUM]
+Organisation: [NAME]
+Geprüfte Dokumente: [LISTE]
+
+Befunde:
+| Nr. | Dokument          | Abweichung / Drift              | Prioritaet | Frist  |
+|-----|------------------|----------------------------------|------------|--------|
+|  1  | Datenschutzerklärung | Cookie-Liste veraltet (3 neue)  | HOCH       | [DATUM]|
+|  2  | Datenschutzerklärung | Empfaenger nicht konkret benannt| MITTEL     | [DATUM]|
+|  3  | Interne Richtlinie | KI-Tools noch nicht erwaehnt    | HOCH       | [DATUM]|
+
+Keine Abweichungen: [LISTE GEPRÜFTER BEREICHE]
+
+Empfehlung: Aktualisierung bis [DATUM]
+Verantwortlich: [PERSON/ROLLE]
+```

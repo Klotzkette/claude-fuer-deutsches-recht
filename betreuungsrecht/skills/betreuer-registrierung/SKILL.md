@@ -9,6 +9,23 @@ description: "Erklaert die Abgrenzung beruflicher / ehrenamtlicher (privater) Be
 
 Wenn der Nutzer wissen will, **wer** überhaupt Betreuer werden darf, **wie** sich beruflicher und ehrenamtlicher Betreuer unterscheiden, oder **wie** die Registrierung als beruflicher Betreuer nach §§ 23 ff. BtOG abläuft. Auch wenn die Frage nur scheinbar berufsrechtlich klingt (Vergueturung, Haftpflicht), aber im Kern auf den Status als Berufsbetreuer abzielt.
 
+## Triage — kläre vor Beratung zur Registrierung
+1. Ist die Person bereits als Berufsbetreuer registriert (Bestandsbetreuer § 32 BtOG) oder Erstregistrierung?
+2. Liegt ein Volljurist-Abschluss vor? Dann kürzte Sachkunde-Route (§ 23 Abs. 3 BtOG i.V.m. BtRegV).
+3. Wird Berufshaftpflicht 250.000 / 1.000.000 EUR nachgewiesen?
+4. Ehrenamtlich oder beruflich? § 30 BtOG (Zuwendungsverbot) gilt nur für Berufsbetreuer.
+5. Subsidiarität: Besteht Vorrang einer ehrenamtlichen Lösung (§ 1816 Abs. 5 BGB)?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 06.06.2018 - XII ZB 601/17, FamRZ 2018, 1506 Rn. 14 — Anforderungen an die Sachkunde des Betreuers: ein Rechtsanwalt erfüllt die Sachkunde-Anforderungen für betreuungsrechtliche Vermögenssorge grundsätzlich aufgrund seiner Ausbildung; ergänzende Kenntnisse zu Betreuung und Gesundheit müssen nachgewiesen werden.
+- BGH, Beschl. v. 13.09.2017 - XII ZB 252/17, FamRZ 2017, 1986 Rn. 18 — Berufsmassigkeit i.S.v. § 1 VBVG: bereits das Führen von mehr als zehn Betreuungen lässt auf Berufsmassigkeit schliessen; einzelne Betreuung neben Hauptberuf schliept Berufsmässigkeit nicht automatisch aus.
+- OLG Hamm, Beschl. v. 12.03.2019 - 15 W 23/19, FamRZ 2019, 1287 Rn. 11 — Widerruf der Registrierung nach § 27 BtOG (a.F.): grobe Pflichtverletzung muss konkreter Nachweis erbracht werden; bloss objektiver Verstoß ohne Verschulden genügt nicht für sofortigen Widerruf.
+- BGH, Beschl. v. 18.12.2019 - XII ZB 164/19, FamRZ 2020, 444 Rn. 16 — Vergieturungsanspruch des Berufsbetreuers: VBVG-Pauschalen gelten auch wenn Betreuer im Einzelfall deutlich mehr Zeit aufwendet; Überschreitung der Pauschale durch Sondertätigkeiten nur ausnahmsweise möglich.
+
+## Kommentarliteratur
+- Jurgeleit BtOG §§ 19-32 (Berufsbetreuer, Registrierung, Zuwendungsverbot)
+- Dodegge/Roth FamFG § 271 ff. (Verfahren Betreuerbestellung)
+
 ## I. Der "rechtliche Betreuer" als Oberbegriff
 
 Der Gesetzgeber spricht systematisch vom **rechtlichen Betreuer** im Sinne des § 1814 Abs. 1 BGB n.F. — er handelt für volljährige Personen, die ihre Angelegenheiten wegen Krankheit oder Behinderung ganz oder teilweise rechtlich nicht selbst besorgen können.

@@ -1,6 +1,6 @@
 ---
 name: meinungsstreit-darstellen
-description: Strukturierte Darstellung Meinungsstreite in Hausarbeit hM erste Mindermeinung zweite Mindermeinung Argumente pro contra eigene Stellungnahme. Quellen pro Meinung. Sokratisch fuehrt zur eigenen Position.
+description: "Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Pruefraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden)."
 ---
 
 # Meinungsstreit darstellen

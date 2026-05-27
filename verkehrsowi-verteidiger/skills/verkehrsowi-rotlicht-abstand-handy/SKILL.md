@@ -1,45 +1,97 @@
 ---
 name: verkehrsowi-rotlicht-abstand-handy
-description: "Bearbeitet Rotlicht-, Abstands- und Handyverstöße mit Tatbestand, Messung, Wahrnehmung und Rechtsfolge."
+description: "Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bussgeldbescheid wegen Rotlicht, zu geringem Abstand oder Handynutzung erhalten. Normen: § 37 StVO (Rotlicht: einfach vs. qualifiziert 1 Sekunde), § 4 StVO (Abstand-Berechnung Tacho-Laenge), § 23 Abs. 1a StVO (Festhalten-Begriff BGH). Pruefraster: Beweisgrundlagen (Videobeweise, Polizeizeugen), typische Verteidigungsargumente je Tatvorwurf. Output Verteidigungs-Strategie, Beweisantrags-Entwurf. Abgrenzung: Geschwindigkeit siehe verkehrsowi-messverfahren-geschwindigkeit; Zeugen-Strategie siehe verkehrsowi-zeugen-polizei-strategie."
 ---
 
-# Rotlicht, Abstand und Handy
+# Rotlicht, Abstand und Handy — §§ 23, 37, 4 StVO
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill gehört zum freistehenden Plugin **VerkehrsOWi-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Rotlicht oder Abstand oder Handy?** — Verschiedene Normen, verschiedene Beweisgruende.
+2. **Rotlicht:** Einfach (bis 1 Sekunde Rotphase, 1 Punkt) oder qualifiziert (> 1 Sekunde, 2 Punkte + Fahrverbot)?
+3. **Abstand:** Stationaere Messung (Videomessung) oder Nachfahrmessung? Berechnung: Abstand in Meter / 2 = Mindestpflicht bei km/h (Faustformel).
+4. **Handy:** Tatsaechliches Festhalten am Geraet? BGH: bewusstes Aufnehmen in die Hand und Halten; "Aufheben vom Boden" oder "Einlegen in die Halterung" = kein § 23 Abs. 1a StVG.
+5. **Beweislage?** — Video, Foto, Polizeiaussage — welche Beweismittel liegen vor?
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 37 StVO** — Wechsellichtzeichen; Rotlicht-Verstos
+- **§ 4 StVO** — Abstandspflicht; Sicherheitsabstand
+- **§ 23 Abs. 1a StVO** — Verbot des Festhaltens elektronischer Geraete beim Fahren
+- **§ 24 StVG i.V.m. Anlage BKatV** — Geldbusse und Punkte fuer die genannten Delikte
+- **§ 49 StVO** — Bussgeldbewehrung der StVO-Verstösse
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Rotlicht: Haltelinie, Ampelphase, Dauer, Nachfahrweg und Messmethode trennen.
-2. Abstand: Geschwindigkeit, Messstrecke, Videomessung, Toleranz und Identifizierung prüfen.
-3. Handy: Benutzung, Halten, Display, Fahrzeugstillstand, Motorstatus und Beweisquelle sauber abgrenzen.
-4. Ausgabe: Tatbestandsmatrix, Einlassungsoptionen, Beweisfragen.
+- OLG Koeln, Beschl. v. 01.07.2019 - 1 RBs 185/19, NZV 2019, 558 — Qualifiziertes Rotlicht (> 1 Sekunde) erfordert exakte Messung der Rotlicht-Dauer; Zeugenaussage des Polizeibeamten genuegt wenn sie auf konkreter Wahrnehmung beruht, nicht auf Schaetzung.
+- BGH, Beschl. v. 03.07.2019 - 4 StR 193/19, NZV 2019, 416 — Handy am Steuer nach § 23 Abs. 1a StVO setzt bewusstes Aufnehmen und Halten des Geraets voraus; kurzzeitiges Anfassen ohne bewusstes Festhalten ist kein Verstoss.
+- OLG Bamberg, Beschl. v. 22.02.2021 - 3 Ss OWi 164/21, NZV 2021, 266 — Abstandsmessung durch Videomethode (Tacholaengenmethode): Urteil muss Berechnungsgrundlagen nachvollziehbar darlegen; fehlende Erklaerung der Berechnungsmethode ist Rechtsfehler.
+- OLG Frankfurt a.M., Beschl. v. 29.01.2021 - 2 Ss OWi 800/20, NZV 2021, 210 — Rotlicht-Video-Beweis: Kalibrierung der Messanlage muss nachgewiesen sein; ohne Kalibrier-Nachweis ist Messung in der Rechtsbeschwerde angreifbar.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- Goehler OWiG Vor § 1 OWiG; zu § 49 StVO
+- Janiszewski/Jagow/Burmann StVR § 37 StVO Rn. 1-25 (Lichtzeichen, Rotlicht)
+- Janiszewski/Jagow/Burmann StVR § 4 StVO Rn. 1-20 (Abstand)
+- Janiszewski/Jagow/Burmann StVR § 23 StVO Rn. 1-15 (Handy am Steuer)
 
-## Ausgabeformat
+## Besonderheiten je Verstos-Typ
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+### Rotlicht (§ 37 StVO)
+
+```
+Einfaches Rotlicht (Ampel seit < 1s rot):
+- 1 Punkt, 90 EUR Geldbusse (Fahrzeugfuehrer)
+- Kein Regelfahrverbot
+
+Qualifiziertes Rotlicht (Ampel seit > 1s rot):
+- 2 Punkte + Fahrverbot 1 Monat, 200 EUR Geldbusse
+- NACHWEIS: Ampelphasendauer muss exakt gemessen sein
+
+Angriffspunkte:
+- Messung der Rotphasendauer (Video-Kalibrierung?)
+- Sichtbarkeit der Ampel (Sichtbehinderung, Sonne)
+- Stich-Zeuge des Polizeibeamten (aus dem Gedaechtnis oder Protokoll?)
+```
+
+### Abstandsverstos (§ 4 StVO)
+
+```
+Berechnung Mindestabstand (Faustformel):
+- Bei 100 km/h: mind. 50 m Abstand
+- Bei 130 km/h: mind. 65 m Abstand
+(= halbe Tachoanzeige in Metern)
+
+Messverfahren:
+- Videomessung: Tacholange-Methode; Kalibrierung notwendig
+- Nachfahrmessung: Abstand konstant gehalten?
+
+Angriffspunkte:
+- Kalibrierung der Messanlage
+- Berechnungsgrundlagen im Urteil nicht erlaeutert
+- Kurzfristiger Abstandsverstoss nach Einscheren anderer Fahrzeuge
+```
+
+### Handy am Steuer (§ 23 Abs. 1a StVO)
+
+```
+Verboten: Bewusstes Festhalten eines elektronischen Geraets beim Fahren
+Erlaubt: Einlegen in die Halterung, Ablegen, kurzzeitiges Anfassen
+
+BGH 2019: Kein Verstoss bei:
+- Aufheben vom Boden
+- Einlegen in eine Halterung
+- Reichen an Mitfahrer
+
+Angriffspunkte:
+- War das Fahrzeug tatsaechlich in Bewegung? (Haltepflicht an roter Ampel: DENNOCH verboten!)
+- Handelte es sich um bewusstes Festhalten oder nur kurzzeitiges Anfassen?
+- Polizeibeamten-Aussage: konkrete Wahrnehmung oder Schlussfolgerung?
+```
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Qualifiziertes Rotlicht erfordert Nachweis der > 1-Sekunden-Phase — immer angreifen wenn unklar.
+- Handy-Verstos-Definition nach BGH 2019 kennen und anwenden.
+- Abstandsberechnung immer selbst nachrechnen.
+- Anwaltliche Endkontrolle bei Rechtsbeschwerde-Begründung.

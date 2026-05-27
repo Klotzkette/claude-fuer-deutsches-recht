@@ -1,55 +1,95 @@
 ---
 name: gesellschaftsgruender-klauselkatalog-bilingual
-description: "Volltextliche Standardklauseln Deutsch und Englisch fuer GmbH-Satzung und SHA. Stimmbindungs-Vorrangklausel Golden-Share-StaRUG-Veto Sperrminoritaets-Klausel BSG-fest Drag- und Tag-Along Liquidation Preference Anti-Dilution Vesting Bad-Leaver Koppelungsklausel nachvertragliches Wettbewerbsverbot Karenzentschaedigung. Mit Sprachvorrang-Klausel und BGH-/BSG-Belegen."
+description: "Klauselkatalog fuer GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln fuer internationale Investoren. Normen: GmbHG, BGB. Pruefraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollstaendiger Gesellschaftsvertrag."
 ---
 
 # Klauselkatalog bilingual DE/EN
 
-## Zweck
+## Kernsachverhalt
 
-Volltext-Klauseln im Original-Wortlaut, in **deutscher und englischer** Fassung parallel, mit zwingender **Sprachvorrang-Klausel** zugunsten der deutschen Fassung. Jede Klausel mit Rechtsprechungs-Beleg und Praxis-Hinweis.
+Die Qualität der Klauseln in Satzung und Gesellschaftervereinbarung (SHA) bestimmt den Rechtsschutz der Gesellschafter über Jahre — oft Jahrzehnte. Schlecht formulierte Drag-Along-Klauseln werden im Exit-Fall zu Kostenfallen; fehlende Bad-Leaver-Definitionen lassen ausscheidende Gründer mit vollen Anteilen ohne operative Mitarbeit; eine Sperrminorität, die nur im SHA steht (nicht in der Satzung), versagt beim BSG-Statusfeststellungsverfahren.
 
-Die Klauseln sind als Bausteine konzipiert: Bei Verwendung an die konkrete Konstellation anpassen, nicht blind kopieren.
+Dieser Skill stellt Volltext-Klauseln im Original-Wortlaut bereit — in **deutscher und englischer Fassung parallel** — mit zwingender **Sprachvorrang-Klausel** zugunsten der deutschen Fassung, Rechtsprechungs-Belegen und Praxis-Hinweisen. Die Klauseln sind als Bausteine konzipiert: anpassen, nicht blind kopieren.
 
----
+## Kaltstart-Rückfragen
 
-## 0) Sprachvorrang-Klausel
+1. **Welche Klausel?** Alle 13 Klauseln ausgeben oder einzelne?
+2. **Dokumenttyp:** Satzung, SHA, GF-Anstellungsvertrag oder Beiratsordnung?
+3. **Anteilsklassen:** Standard (Common + Class B) oder Multi-Class?
+4. **Investorentyp:** VC (aggressive Liquidation Preference, Anti-Dilution) oder Family-Office (einfacher)?
+5. **Gerichtsstand / Schiedsort:** Schiedsklausel DIS Berlin oder staatliches Gericht?
+6. **GF-Verhältnis:** Gesellschafter-GF (Koppelungs-Klausel, Wettbewerbsverbot relevant)?
+7. **Mitbestimmung:** Beirat gewünscht (Schlichtungs-Pflicht, Anrufung vor Klage)?
+8. **Bilinguale Ausgabe:** Deutsch/Englisch parallel oder nur eine Sprache?
 
-### DE
+## Rechtlicher Rahmen
 
+### Kernnormen
+
+| Klausel | Norm | BGH / BSG |
+|---|---|---|
+| Sprachvorrang | § 184 GVG; § 5 BeurkG | BGH II ZR 75/14 |
+| Stimmbindung | § 47 GmbHG | BGH II ZR 105/66; BGH II ZR 243/81 |
+| Golden Share / StaRUG-Veto | §§ 15a InsO; 32 StaRUG; 37 GmbHG | Bitter, ZIP 2021, 321; Thole, ZIP 2020, 1985 |
+| Sperrminorität / SV | § 7 Abs. 1 SGB IV; § 7a SGB IV | BSG B 12 R 25/18 R; BSG B 12 KR 13/14 R |
+| Drag-Along | § 53 Abs. 2 GmbHG analog | BGH II ZR 173/04 |
+| Tag-Along | §§ 15, 47 GmbHG | allg. Vertragsfreiheit |
+| Liquidation Preference | §§ 72, 53 GmbHG | allg. Vertragsfreiheit |
+| Anti-Dilution | §§ 55, 53 GmbHG | allg. Vertragsfreiheit |
+| Vesting / Bad-Leaver | §§ 34, 15 GmbHG | BGH II ZR 173/04 (Hinauskündigung) |
+| Koppelungsklausel | § 38 GmbHG; § 611 BGB | BGH II ZR 220/88 |
+| Wettbewerbsverbot | §§ 74, 74a HGB | BGH II ZR 77/00; § 138 BGB |
+| Schlichtungspflicht | §§ 1025 ff. ZPO analog | allg. Vertragsfreiheit |
+| Schiedsklausel DIS | §§ 1029 ff. ZPO; DIS-SchO 2021 | BGH III ZB 99/09 |
+
+## Prüfschema: Klausel-Auswahl
+
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Investorenstruktur | Gibt es Investoren-Class (Class B)? Wenn ja: Liquidation Preference + Anti-Dilution | Class-B-Klauseln aktivieren |
+| 2 | Gründer-Schutz | Multi-Gründer-Setup? | Vesting + Bad-Leaver + Drag/Tag aktivieren |
+| 3 | GF-Verhältnis | GF ist Gesellschafter? | Koppelungsklausel + Wettbewerbsverbot aktivieren |
+| 4 | SV-Schutz | Minderheits-GF ohne 50 %? | Sperrminoritäts-Klausel in Satzung (nicht nur SHA) |
+| 5 | Insolvenz-Szenario | Golden Share gewünscht? | Golden-Share-StaRUG-Veto aktivieren; Klarstellung zur Insolvenzantragspflicht einbauen |
+| 6 | Streit-Vorsorge | Schiedsklausel oder staatliches Gericht? Beirat? | Schiedsklausel DIS + Schlichtungspflicht aktivieren |
+| 7 | Dokumenttyp | Klausel in Satzung oder SHA? | Anwendungs-Matrix konsultieren |
+| 8 | Bilinguale Ausgabe | Internationale Beteiligung? | Sprachvorrang-Klausel immer; englische Fassung parallel |
+
+## Klauselinventar
+
+### Klausel 0: Sprachvorrang-Klausel
+
+**DE:**
 > § X Sprache
 >
 > Diese Urkunde ist in deutscher und englischer Sprache abgefasst. Bei Widersprüchen oder Auslegungszweifeln geht der deutsche Text vor. Soweit eine notarielle Beurkundung nach § 2 GmbHG erforderlich ist, ist allein die deutsche Fassung Beurkundungsgrundlage; die englische Fassung dient lediglich als „Convenience Translation".
 
-### EN
-
+**EN:**
 > § X Language
 >
-> This deed is executed in German and English language. In case of any discrepancies or doubts of interpretation, the German version shall prevail. Where notarial recording pursuant to § 2 GmbHG is required, only the German version shall constitute the basis of the notarial deed; the English version shall serve as a convenience translation only.
+> This deed is executed in German and English language. In case of any discrepancies or doubts of interpretation, the German version shall prevail. Where notarial recording pursuant to § 2 GmbHG is required, only the German version shall constitute the basis of the notarial deed; the English version serves as a convenience translation only.
 
-**Hinweis**: § 5 BeurkG, § 184 GVG. *Limmer*, in: Limmer/Hertel/Frenz/Mayer, Wuerzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
+**Belege:** § 5 BeurkG; § 184 GVG. Limmer, in: Würzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
 
 ---
 
-## 1) Stimmbindungs-Vorrangklausel (SHA-Satzung)
+### Klausel 1: Stimmbindungs-Vorrangklausel (SHA)
 
-### DE
-
+**DE:**
 > § X Stimmbindung und Innenverhältnis
 >
-> (1) Die Gesellschafter verpflichten sich, ihr Stimmrecht in der Gesellschafterversammlung der Gesellschaft so auszuueben, dass die Bestimmungen dieser Gesellschaftervereinbarung umgesetzt werden. Diese Stimmbindung ist im Wege der einstweiligen Verfügung nach §§ 935, 940 ZPO durchsetzbar; entsprechend dem Klagantrag wird das Gericht ersucht, dem verpflichteten Gesellschafter die Abgabe einer bestimmten Stimme aufzugeben.
+> (1) Die Gesellschafter verpflichten sich, ihr Stimmrecht in der Gesellschafterversammlung so auszuüben, dass die Bestimmungen dieser Gesellschaftervereinbarung umgesetzt werden. Diese Stimmbindung ist im Wege der einstweiligen Verfügung nach §§ 935, 940 ZPO durchsetzbar; entsprechend dem Klageantrag wird das Gericht ersucht, dem verpflichteten Gesellschafter die Abgabe einer bestimmten Stimme aufzugeben.
 >
 > (2) Im Innenverhältnis der Parteien dieser Vereinbarung gehen die Bestimmungen dieser Gesellschaftervereinbarung dem Wortlaut der Satzung vor. Im Außenverhältnis und gegenüber der Gesellschaft, ihren Organen und Dritten gilt die Satzung.
 >
-> (3) Bei Verstoß gegen die Stimmverpflichtungen schuldet der verstoßende Gesellschafter den anderen Gesellschaftern eine Vertragsstrafe in Höhe von 500.000 EUR pro Einzelfall. Daneben bleibt der Anspruch auf weitergehenden Schadensersatz unberuehrt.
+> (3) Bei Verstoß gegen die Stimmverpflichtungen schuldet der verstoßende Gesellschafter den anderen Gesellschaftern eine Vertragsstrafe in Höhe von 500.000 EUR pro Einzelfall. Der Anspruch auf weitergehenden Schadensersatz bleibt unberührt.
 >
-> (4) Diese Stimmverpflichtung gilt für jeden gegenwaertigen und jeden zukuenftigen Gesellschafter (Joinder-Pflicht).
+> (4) Diese Stimmverpflichtung gilt für jeden gegenwärtigen und jeden zukünftigen Gesellschafter (Joinder-Pflicht).
 
-### EN
-
+**EN:**
 > § X Voting Undertaking and Internal Relationship
 >
-> (1) The Shareholders undertake to exercise their voting rights at the Shareholders' Meetings of the Company in such a way that the provisions of this Shareholders' Agreement are implemented. This voting undertaking shall be enforceable by way of preliminary injunction pursuant to §§ 935, 940 ZPO; the court shall be requested to order the obligated Shareholder to cast a specific vote.
+> (1) The Shareholders undertake to exercise their voting rights at the Shareholders' Meetings in such a way that the provisions of this Shareholders' Agreement are implemented. This voting undertaking shall be enforceable by way of preliminary injunction pursuant to §§ 935, 940 ZPO; the court shall be requested to order the obligated Shareholder to cast a specific vote.
 >
 > (2) In the internal relationship between the parties of this Agreement, the provisions of this Shareholders' Agreement shall prevail over the wording of the Articles of Association. In the external relationship vis-à-vis the Company, its corporate bodies and third parties, the Articles of Association shall apply.
 >
@@ -57,400 +97,407 @@ Die Klauseln sind als Bausteine konzipiert: Bei Verwendung an die konkrete Konst
 >
 > (4) This voting undertaking shall apply to any present and future Shareholder (Joinder Obligation).
 
-**Belege**: BGH, Urt. v. 29.5.1967 – II ZR 105/66, BGHZ 48, 163 (Stimmbindung wirksam, aber nur schuldrechtlich); BGH, Urt. v. 20.1.1983 – II ZR 243/81, BGHZ 86, 348 (Ausnahme: vollumfassende Stimmbindung aller Gesellschafter -> Beschluss anfechtbar); OLG Muenchen, Urt. v. 9.8.2018 – 23 U 1669/17 (Durchsetzbarkeit per einstweiliger Verfügung). Vgl. *Drescher*, in: MueKoGmbHG, 4. Aufl. 2023, § 47 Rn. 240 ff.
+**Belege:** BGH, Urt. v. 29.05.1967 – II ZR 105/66, BGHZ 48, 163 (Stimmbindung wirksam, aber nur schuldrechtlich); BGH, Urt. v. 20.01.1983 – II ZR 243/81, BGHZ 86, 348; OLG München, Urt. v. 09.08.2018 – 23 U 1669/17 (Durchsetzbarkeit einstweilige Verfügung).
+
+**ACHTUNG:** SHA-Stimmbindung ist sozialversicherungsrechtlich irrelevant (BSG B 12 KR 13/14 R). Für SV-Freiheit des Gesellschafter-GF muss die Sperrminorität in der Satzung stehen — nicht nur im SHA.
 
 ---
 
-## 2) Golden-Share-StaRUG-Veto-Klausel
+### Klausel 2: Golden-Share-StaRUG-Veto
 
-### DE
-
+**DE:**
 > § X Golden Share — Sondervetorecht in Restrukturierungs- und Insolvenz-Konstellationen
 >
-> (1) Die Inhaberin des Geschäftsanteils der Klasse „Golden Share", Anna Mueller, geboren am [Datum], wohnhaft [Anschrift], hat zusätzlich zu den allgemeinen Stimmrechten ein Sondervetorecht. Folgende Maßnahmen der Geschäftsführung sowie folgende Beschlüsse der Gesellschafterversammlung bedürfen ihrer ausdrücklichen Zustimmung:
+> (1) Die Inhaberin des Geschäftsanteils der Klasse „Golden Share", [Name], geboren am [Datum], wohnhaft [Anschrift], hat zusätzlich zu den allgemeinen Stimmrechten ein Sondervetorecht. Folgende Maßnahmen der Geschäftsführung sowie folgende Beschlüsse der Gesellschafterversammlung bedürfen ihrer ausdrücklichen Zustimmung:
 >
 > a) Stellung eines Antrags auf Bestätigung eines Restrukturierungsplans nach § 60 StaRUG,
 > b) Inanspruchnahme einer Stabilisierungsanordnung nach §§ 49 ff. StaRUG,
-> c) Veraeusserung wesentlicher Betriebsteile (Schwelle: 25 % der Bilanzsumme),
+> c) Veräußerung wesentlicher Betriebsteile (Schwelle: 25 % der Bilanzsumme),
 > d) Aufnahme weiterer Investoren mit gleichwertigen oder bevorzugten Rechten,
 > e) Änderung des Geschäftsgegenstands gemäß § 2 der Satzung,
 > f) Auflösung der Gesellschaft.
 >
-> (2) **Klarstellung zur Insolvenzantragspflicht**: Soweit die Geschäftsführung nach § 15a InsO zur Stellung eines Insolvenzantrags **gesetzlich verpflichtet** ist (Zahlungsunfähigkeit nach § 17 InsO, Überschuldung nach § 19 InsO), entfaellt das Sondervetorecht nach Absatz 1 lit. a). Die Antragspflicht der Geschäftsführer bleibt unberuehrt und kann durch kein gesellschaftsrechtliches Vetorecht aufgehoben werden.
+> (2) Klarstellung zur Insolvenzantragspflicht: Soweit die Geschäftsführung nach § 15a InsO zur Stellung eines Insolvenzantrags gesetzlich verpflichtet ist (Zahlungsunfähigkeit nach § 17 InsO, Überschuldung nach § 19 InsO), entfällt das Sondervetorecht nach Absatz 1 lit. a). Die Antragspflicht der Geschäftsführer bleibt unberührt und kann durch kein gesellschaftsrechtliches Vetorecht aufgehoben werden.
 >
-> (3) Verstoesst die Geschäftsführung im Innenverhältnis gegen die Vetorechte, bleibt die externe Vertretungsmacht nach § 37 Abs. 2 GmbHG unberuehrt. Die Geschäftsführung haftet jedoch gegenüber der Gesellschaft nach § 43 Abs. 2 GmbHG.
+> (3) Verstößt die Geschäftsführung im Innenverhältnis gegen die Vetorechte, bleibt die externe Vertretungsmacht nach § 37 Abs. 2 GmbHG unberührt. Die Geschäftsführung haftet jedoch gegenüber der Gesellschaft nach § 43 Abs. 2 GmbHG.
 >
 > (4) Der Golden Share kann nur an direkte Nachkommen erster Ordnung oder die Familienstiftung [Name] übertragen werden; bei jeder anderen Übertragung wandelt sich der Anteil automatisch in einen Stammanteil ohne Vetorecht.
 
-### EN
-
+**EN:**
 > § X Golden Share — Special Veto Right in Restructuring and Insolvency Scenarios
 >
-> (1) The holder of the Share of class „Golden Share", Anna Mueller, born on [date], residing at [address], shall have a Special Veto Right in addition to general voting rights. The following management measures and the following shareholders' resolutions shall require her express consent:
+> (1) The holder of the Share of class „Golden Share", [Name], born on [date], residing at [address], shall have a Special Veto Right in addition to general voting rights. The following management measures and the following shareholders' resolutions shall require her express consent: [a-f as above in English].
 >
-> a) Application for confirmation of a restructuring plan pursuant to § 60 StaRUG,
-> b) Use of a stabilization order pursuant to §§ 49 et seq. StaRUG,
-> c) Sale of substantial business divisions (threshold: 25 % of balance sheet total),
-> d) Admission of further investors with equivalent or preferred rights,
-> e) Amendment of the corporate purpose pursuant to § 2 of the Articles,
-> f) Dissolution of the Company.
+> (2) Clarification regarding the Insolvency Filing Obligation: To the extent that the Management is legally obligated to file for insolvency pursuant to § 15a InsO, the Special Veto Right under paragraph (1) lit. a) shall not apply. The filing obligation of the Managing Directors shall remain unaffected and cannot be overridden by any corporate veto right.
 >
-> (2) **Clarification regarding the Insolvency Filing Obligation**: To the extent that the Management is **legally obligated** to file for insolvency pursuant to § 15a InsO (illiquidity pursuant to § 17 InsO, over-indebtedness pursuant to § 19 InsO), the Special Veto Right under paragraph (1) lit. a) shall not apply. The filing obligation of the Managing Directors shall remain unaffected and cannot be overridden by any corporate veto right.
->
-> (3) If the Management acts in the internal relationship in violation of the veto rights, the external power of representation pursuant to § 37(2) GmbHG shall remain unaffected. However, the Management shall be liable to the Company pursuant to § 43(2) GmbHG.
+> (3) If the Management acts in violation of the veto rights, the external power of representation pursuant to § 37(2) GmbHG shall remain unaffected. However, the Management shall be liable to the Company pursuant to § 43(2) GmbHG.
 >
 > (4) The Golden Share may only be transferred to direct descendants of first order or to the family foundation [name]; in case of any other transfer, the share shall automatically convert into a common share without veto right.
 
-**Belege**: § 15a InsO (Insolvenzantragspflicht — nicht abdingbar, Strafbarkeit § 15a IV InsO); § 32 StaRUG (Pflichten der Geschäftsführer bei Krisen); § 37 GmbHG (Beschraenkungen im Innenverhältnis); § 43 II GmbHG (Geschäftsführer-Haftung). Vgl. *Bitter*, ZIP 2021, 321; *Thole*, ZIP 2020, 1985.
+**Belege:** § 15a InsO (Insolvenzantragspflicht — nicht abdingbar, Strafbarkeit § 15a IV InsO); § 32 StaRUG; § 37 GmbHG. Bitter, ZIP 2021, 321; Thole, ZIP 2020, 1985.
 
 ---
 
-## 3) Sperrminoritäts-Klausel — BSG-fest für SV-Freiheit
+### Klausel 3: Sperrminoritäts-Klausel (BSG-fest)
 
-### DE
+**DE:**
+> § X Sperrminorität und qualifizierte Mehrheitserfordernisse
+>
+> (1) Folgende Beschlüsse der Gesellschafterversammlung bedürfen einer qualifizierten Mehrheit von 80 % der abgegebenen Stimmen:
+>
+> a) Änderung der Satzung,  b) Änderung des Geschäftsgegenstands,  c) Auflösung der Gesellschaft,  d) Bestellung und Abberufung von Geschäftsführern,  e) Anstellung, Änderung und Kündigung von Anstellungsverträgen mit Geschäftsführern (insbesondere des Gesellschafter-Geschäftsführers [Name]),  f) Weisungen an die Geschäftsführung,  g) Änderung der Geschäftsordnung der Geschäftsführung,  h) Investitionen und Verpflichtungen über 100.000 EUR im Einzelfall.
+>
+> (2) Aufgrund der Anteilshöhe der Gesellschafterin [Name] in Höhe von 25 % (und damit über der Sperrschwelle von 20 % bei einer 80 %-Mehrheit) besteht eine echte gesellschaftsvertragliche Sperrminorität. Beschlüsse zu den vorgenannten Themen können ohne ihre Zustimmung nicht gefasst werden.
+>
+> (3) Diese Sperrminorität ist umfassend und satzungsmäßig verankert. Sie kann nicht durch schuldrechtliche Vereinbarung der übrigen Gesellschafter ausgehebelt werden.
 
-> § X Sperrminorität und Stimmrechtsverbote (Sozialversicherungs-relevant)
+**EN:**
+> § X Blocking Minority and Qualified Majority Requirements
 >
-> (1) Folgende Beschlüsse der Gesellschafterversammlung bedürfen einer **qualifizierten Mehrheit von 80 % der abgegebenen Stimmen**:
+> (1) The following shareholders' resolutions shall require a qualified majority of 80 % of the votes cast: [a-h as above in English].
 >
-> a) Änderung der Satzung,
-> b) Änderung des Geschäftsgegenstands,
-> c) Auflösung der Gesellschaft,
-> d) Bestellung und Abberufung von Geschäftsführern,
-> e) Anstellung, Änderung und Kündigung von Anstellungsverträgen mit Geschäftsführern (insbesondere des Gesellschafter-Geschäftsführers [Name]),
-> f) Weisungen an die Geschäftsführung,
-> g) Änderung der Geschäftsordnung der Geschäftsführung,
-> h) Investitionen und Verpflichtungen über 100.000 EUR im Einzelfall.
+> (2) Due to the shareholding of [name] in the amount of 25 % (above the blocking threshold of 20 % at 80 % majority), there is a genuine corporate blocking minority. Resolutions on the above matters cannot be passed without her consent.
 >
-> (2) Aufgrund der Anteilshöhe der Gesellschafterin [Name] in Höhe von 25 % der Geschäftsanteile (und damit über der Sperrschwelle von 20 % bei einer 80 %-Mehrheit) besteht eine **echte gesellschaftsvertragliche Sperrminorität**. Beschlüsse zu den vorgenannten Themen koennen ohne ihre Zustimmung nicht gefasst werden.
->
-> (3) Diese Sperrminorität ist umfassend und satzungsmaessig verankert. Sie kann nicht durch schuldrechtliche Vereinbarung der uebrigen Gesellschafter ausgehebelt werden.
+> (3) This blocking minority is comprehensive and anchored in the Articles of Association. It cannot be circumvented by separate agreement between the other shareholders.
 
-### EN
+**Belege:** BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R (echte satzungsmäßige Sperrminorität → SV-frei); BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R (schuldrechtliche SHA-Stimmbindungen SV-rechtlich irrelevant); § 7 SGB IV; § 7a SGB IV; § 25 SGB IV.
 
-> § X Blocking Minority and Voting Restrictions (Social Security Relevant)
->
-> (1) The following shareholders' resolutions shall require a **qualified majority of 80 % of the votes cast**:
->
-> a) Amendment of the Articles of Association,
-> b) Amendment of the corporate purpose,
-> c) Dissolution of the Company,
-> d) Appointment and removal of Managing Directors,
-> e) Conclusion, amendment and termination of service agreements with Managing Directors (in particular with the shareholder-Managing Director [name]),
-> f) Instructions to the Management,
-> g) Amendment of the Management Rules of Procedure,
-> h) Investments and obligations exceeding EUR 100,000 in a single case.
->
-> (2) Due to the shareholding of [name] in the amount of 25 % of the share capital (and thus above the blocking threshold of 20 % at an 80 % majority), there is a **genuine corporate blocking minority**. Resolutions on the above matters cannot be passed without her consent.
->
-> (3) This blocking minority is comprehensive and anchored in the Articles of Association. It cannot be circumvented by separate contractual agreement between the other shareholders.
-
-**Belege für SV-Freiheit**: BSG, Urt. v. 19.9.2019 – B 12 R 25/18 R (echte satzungsmaessige Sperrminorität -> SV-frei); BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R (schuldrechtliche Stimmbindungen außerhalb der Satzung sind SV-rechtlich **irrelevant** — daher muss die Sperrminorität zwingend in der Satzung stehen); BSG, Urt. v. 14.3.2018 – B 12 KR 13/17 R (Aufgabe der „Kopf-und-Seele"-Rspr.). Vgl. § 7 SGB IV, § 25 SGB IV (Verjaehrung 4 Jahre / 30 Jahre bei Vorsatz).
-
-**Praxis-Hinweis**: Stets zusätzlich **Statusfeststellungsverfahren nach § 7a SGB IV** bei der Clearingstelle der DRV Bund einleiten. Das Tool soll dies bei jeder GF-Einstellung als Pflichtschritt im Workflow ausspielen.
+**Praxis-Hinweis:** Stets zusätzlich Statusfeststellungsverfahren nach § 7a SGB IV bei der Clearingstelle der DRV Bund beantragen. Nicht nur auf die Satzungsklausel verlassen.
 
 ---
 
-## 4) Drag-Along-Klausel mit qualifizierter Mehrheit
+### Klausel 4: Drag-Along (qualifizierte Mehrheit)
 
-### DE
-
+**DE:**
 > § X Mitziehverpflichtung (Drag-Along)
 >
-> (1) Stimmen Gesellschafter, die zusammen mindestens **75 % der Geschäftsanteile** halten („Drag-Along-Initiatoren"), einem Verkauf sämtlicher Geschäftsanteile an der Gesellschaft an einen Dritten („Drag-Erwerber") zu, koennen sie die uebrigen Gesellschafter („Mitzieh-Pflichtige") verpflichten, ihre Anteile zu denselben Bedingungen mitzuveraeussern.
+> (1) Stimmen Gesellschafter, die zusammen mindestens 75 % der Geschäftsanteile halten („Drag-Along-Initiatoren"), einem Verkauf sämtlicher Geschäftsanteile an einen Dritten zu, können sie die übrigen Gesellschafter verpflichten, ihre Anteile zu denselben Bedingungen mitzuveräußern.
 >
-> (2) Die Drag-Along-Verpflichtung gilt nur, wenn:
+> (2) Die Drag-Along-Verpflichtung gilt nur, wenn: a) der Verkaufspreis pro Anteil für alle Anteilsklassen gleich ist und unter Berücksichtigung von Liquidation Preferences fair berechnet wird; b) der Drag-Erwerber ein unabhängiger Dritter (kein verbundenes Unternehmen eines Initiators) ist; c) keine der Gegenleistungen disproportional zugunsten einzelner Initiatoren ist.
 >
-> a) der Verkaufspreis pro Anteil **für alle Anteilsklassen gleich** ist und unter Berücksichtigung von Liquidation Preferences fair berechnet wird (vgl. § Y Liquidation-Waterfall);
-> b) der Drag-Erwerber ein unabhängiger Dritter (kein verbundenes Unternehmen eines Initiators) ist;
-> c) keine der Gegenleistungen disproportional zugunsten einzelner Initiatoren ist.
+> (3) Mitzieh-pflichtige Gesellschafter sind schriftlich mit einer Frist von mindestens 30 Tagen zu informieren. Sie sind verpflichtet, alle zur Durchführung erforderlichen Willenserklärungen (Anteilsübertragung, Garantien, Freistellungen) abzugeben, soweit branchenüblich.
 >
-> (3) Mitzieh-Pflichtige Gesellschafter sind über das Drag-Verlangen schriftlich (Textform genuegt) mit einer Frist von mindestens 30 Tagen zu informieren. Sie sind verpflichtet, alle zur Durchführung der Drag-Transaktion erforderlichen Willenserklärungen (Anteilsübertragung, Garantien, Freistellungen) abzugeben, soweit diese branchenüblich sind.
->
-> (4) Die Drag-Along-Verpflichtung ist im Wege der einstweiligen Verfügung nach §§ 935, 940 ZPO und in der Hauptsache durch Klage auf Abgabe der erforderlichen Erklärungen (§ 894 ZPO) durchsetzbar.
+> (4) Die Drag-Along-Verpflichtung ist im Wege der einstweiligen Verfügung nach §§ 935, 940 ZPO und durch Klage auf Abgabe der erforderlichen Erklärungen (§ 894 ZPO) durchsetzbar.
 
-### EN
-
+**EN:**
 > § X Drag-Along Obligation
 >
-> (1) If Shareholders holding together at least **75 % of the share capital** („Drag-Along Initiators") agree to sell all shares in the Company to a third party („Drag-Purchaser"), they may oblige the remaining Shareholders („Drag-Bound Shareholders") to co-sell their shares on the same terms.
+> (1) If Shareholders holding at least 75 % of the share capital agree to sell all shares to a third party, they may oblige the remaining Shareholders to co-sell on the same terms.
 >
-> (2) The drag-along obligation shall only apply if:
+> (2) The drag-along obligation shall only apply if: a) the sales price per share is the same for all share classes and is fairly calculated taking into account Liquidation Preferences; b) the Drag-Purchaser is an independent third party; c) no consideration is disproportionately in favor of individual Initiators.
 >
-> a) the sales price per share is **the same for all share classes** and is fairly calculated taking into account Liquidation Preferences (cf. § Y Liquidation Waterfall);
-> b) the Drag-Purchaser is an independent third party (not an affiliated company of any Initiator);
-> c) none of the consideration is disproportionately in favor of individual Initiators.
+> (3) Drag-Bound Shareholders shall be notified in writing with at least 30 days' notice. They shall be obligated to make all declarations necessary for the drag transaction.
 >
-> (3) Drag-Bound Shareholders shall be notified of the drag request in writing (text form sufficient) with a notice period of at least 30 days. They shall be obligated to make all declarations necessary for the execution of the drag transaction (share transfer, warranties, indemnifications), provided these are customary for the industry.
->
-> (4) The drag-along obligation shall be enforceable by way of preliminary injunction pursuant to §§ 935, 940 ZPO and in the main proceedings by action for the issuance of the required declarations (§ 894 ZPO).
+> (4) The drag-along obligation is enforceable by way of preliminary injunction pursuant to §§ 935, 940 ZPO and by action for the required declarations (§ 894 ZPO).
 
-**Belege**: BGH, Urt. v. 19.9.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungs-Grenze; sachliche Rechtfertigung erforderlich); § 53 II GmbHG analog für Mehrheits-Erfordernis bei Drag.
+**Belege:** BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungs-Grenze; sachliche Rechtfertigung erforderlich).
 
 ---
 
-## 5) Tag-Along-Klausel
+### Klausel 5: Tag-Along
 
-### DE
-
-> § X Mitveraeusserungsrecht (Tag-Along)
+**DE:**
+> § X Mitveräußerungsrecht (Tag-Along)
 >
-> (1) Bei beabsichtigter Veraeusserung von Geschäftsanteilen, durch die ein Erwerber direkt oder indirekt mehr als 50 % der Geschäftsanteile an der Gesellschaft erwirbt, haben die uebrigen Gesellschafter ein Mitveraeusserungsrecht zu denselben Bedingungen.
+> (1) Bei beabsichtigter Veräußerung von Geschäftsanteilen, durch die ein Erwerber direkt oder indirekt mehr als 50 % der Geschäftsanteile erwirbt, haben die übrigen Gesellschafter ein Mitveräußerungsrecht zu denselben Bedingungen.
 >
-> (2) Der veraeusserungswillige Gesellschafter hat das Mitveraeusserungsrecht spaetestens 30 Tage vor Vollzug der Transaktion schriftlich anzuzeigen. Die uebrigen Gesellschafter koennen binnen 14 Tagen nach Erhalt der Anzeige ihr Mitveraeusserungsrecht ausueben.
+> (2) Der veräußerungswillige Gesellschafter hat das Mitveräußerungsrecht spätestens 30 Tage vor Vollzug schriftlich anzuzeigen. Die übrigen Gesellschafter können binnen 14 Tagen nach Erhalt ihr Mitveräußerungsrecht ausüben.
 >
-> (3) Bei mehreren Mitveraeusserern erfolgt die Aufteilung **pro rata** nach Anteilshöhe.
+> (3) Bei mehreren Mitveräußerern erfolgt die Aufteilung pro rata nach Anteilshöhe.
 
-### EN
-
+**EN:**
 > § X Co-Sale Right (Tag-Along)
 >
-> (1) In the event of an intended sale of shares by which a purchaser directly or indirectly acquires more than 50 % of the shares in the Company, the remaining Shareholders shall have a Co-Sale Right on the same terms.
+> (1) In the event of an intended sale of shares by which a purchaser directly or indirectly acquires more than 50 % of the shares, the remaining Shareholders shall have a Co-Sale Right on the same terms.
 >
-> (2) The selling Shareholder shall notify the Co-Sale Right in writing at least 30 days prior to closing of the transaction. The remaining Shareholders may exercise their Co-Sale Right within 14 days after receipt of the notice.
+> (2) The selling Shareholder shall notify the Co-Sale Right in writing at least 30 days prior to closing. The remaining Shareholders may exercise their Co-Sale Right within 14 days after receipt of the notice.
 >
-> (3) In the case of multiple Co-Sellers, the allocation shall be **pro rata** according to shareholdings.
+> (3) In case of multiple Co-Sellers, the allocation shall be pro rata according to shareholdings.
 
 ---
 
-## 6) Liquidation Preference 1x non-participating
+### Klausel 6: Liquidation Preference (1x non-participating)
 
-### DE
-
+**DE:**
 > § X Liquidationsvorrang (Liquidation Preference)
 >
-> (1) Bei Auflösung der Gesellschaft oder bei einem Liquidations-Ereignis (Trade Sale, Asset Sale, IPO, Verschmelzung, vollständige Abtretung sämtlicher Geschäftsanteile) erhalten die Inhaber der Geschäftsanteile der Klasse B ihre tatsächlich an die Gesellschaft geleistete Einlage einschließlich Aufgeld (zusammen „Investmentbetrag") als bevorrechtigte Auszahlung vor den uebrigen Gesellschaftern (1x non-participating Liquidation Preference).
+> (1) Bei Auflösung der Gesellschaft oder bei einem Liquidations-Ereignis (Trade Sale, Asset Sale, IPO, Verschmelzung, vollständige Abtretung sämtlicher Geschäftsanteile) erhalten die Inhaber der Class-B-Geschäftsanteile ihre tatsächlich an die Gesellschaft geleistete Einlage einschließlich Aufgeld (zusammen „Investmentbetrag") als bevorrechtigte Auszahlung vor den übrigen Gesellschaftern (1x non-participating Liquidation Preference).
 >
-> (2) Nach Bedienung der Liquidation Preference wird der verbleibende Betrag **anteilig** auf alle Geschäftsanteile (Class Common, Class B) nach deren Anteilshöhe verteilt.
+> (2) Nach Bedienung der Liquidation Preference wird der verbleibende Betrag anteilig auf alle Geschäftsanteile (Class Common, Class B) nach deren Anteilshöhe verteilt.
 >
-> (3) Die Class B Gesellschafter haben das Wahlrecht („Conversion-Right"), entweder die Liquidation Preference nach Absatz (1) zu beanspruchen oder auf die Preference zu verzichten und sich rein anteilig zu beteiligen. Das Wahlrecht ist binnen 14 Tagen nach Bekanntgabe des Liquidations-Ereignisses auszuueben.
+> (3) Die Class-B-Gesellschafter haben das Wahlrecht, entweder die Liquidation Preference nach Absatz (1) zu beanspruchen oder auf die Preference zu verzichten und sich rein anteilig zu beteiligen. Das Wahlrecht ist binnen 14 Tagen nach Bekanntgabe des Liquidations-Ereignisses auszuüben.
 
-### EN
-
+**EN:**
 > § X Liquidation Preference
 >
-> (1) In case of dissolution of the Company or a Liquidation Event (Trade Sale, Asset Sale, IPO, merger, complete assignment of all shares), the holders of class B shares shall receive their actual contribution to the Company including any share premium (together the „Investment Amount") as a preferred payment before the other Shareholders (1x non-participating Liquidation Preference).
+> (1) In case of dissolution or a Liquidation Event (Trade Sale, Asset Sale, IPO, merger, complete assignment of all shares), the holders of Class B shares shall receive their actual contribution including share premium (the „Investment Amount") as a preferred payment before the other Shareholders (1x non-participating Liquidation Preference).
 >
-> (2) After payment of the Liquidation Preference, the remaining amount shall be distributed **pro rata** among all shares (Class Common, Class B) according to their shareholding.
+> (2) After payment of the Liquidation Preference, the remaining amount shall be distributed pro rata among all shares.
 >
-> (3) The Class B Shareholders shall have the right to elect („Conversion Right"), either to claim the Liquidation Preference under paragraph (1) or to waive the Preference and participate purely pro rata. The election right shall be exercised within 14 days after notification of the Liquidation Event.
+> (3) The Class B Shareholders shall have the election right to either claim the Liquidation Preference or waive it and participate purely pro rata. The election right shall be exercised within 14 days after notification of the Liquidation Event.
 
 ---
 
-## 7) Anti-Dilution (weighted average broad-based)
+### Klausel 7: Anti-Dilution (Weighted Average Broad-Based)
 
-### DE
-
+**DE:**
 > § X Verwässerungsschutz (Anti-Dilution)
 >
-> (1) Bei einer kuenftigen Kapitalerhöhung, bei welcher der Ausgabepreis je neuem Geschäftsanteil **unter** dem Ausgabepreis je Class-B-Anteil (von 10,00 EUR) liegt („Down Round"), werden den Inhabern der Class B Anteile zusätzliche Geschäftsanteile nach der **Weighted-Average-Broad-Based-Methode** kostenfrei zugeteilt. Die Berechnungsformel lautet:
+> (1) Bei einer künftigen Kapitalerhöhung, bei welcher der Ausgabepreis je neuem Geschäftsanteil unter dem Ausgabepreis je Class-B-Anteil (von [X] EUR) liegt („Down Round"), werden den Inhabern der Class-B-Anteile zusätzliche Geschäftsanteile nach der Weighted-Average-Broad-Based-Methode kostenfrei zugeteilt. Die Berechnungsformel lautet:
 >
 > CP2 = CP1 × (A + B) / (A + C)
 >
-> wobei:
-> - CP1 = bisheriger Ausgabepreis Class B
-> - CP2 = angepasster Ausgabepreis Class B
-> - A = gesamte ausgegebene Anteile vor Down Round
-> - B = Anteilzahl, die zum CP1 für das neue Investment ausgegeben worden waere
-> - C = tatsächlich zum niedrigeren Preis ausgegebene Anteile
+> Dabei gilt: CP1 = bisheriger Ausgabepreis Class B; CP2 = angepasster Ausgabepreis; A = gesamte ausgegebene Anteile vor Down Round; B = Anteilzahl, die zum CP1 für das neue Investment ausgegeben worden wäre; C = tatsächlich zum niedrigeren Preis ausgegebene Anteile.
 >
-> (2) Die Anpassung erfolgt automatisch mit Eintragung der Down Round im Handelsregister. Sie ist durch die Geschäftsführung im Wege der Ausgabe zusätzlicher Anteile aus dem genehmigten Kapital (§ 4 der Satzung) umzusetzen.
+> (2) Die Anpassung erfolgt automatisch mit Eintragung der Down Round im Handelsregister.
 >
-> (3) Ausnahmen von der Anti-Dilution-Klausel:
->
-> a) Ausgabe von Anteilen an Mitarbeiter im Rahmen eines Mitarbeiter-Beteiligungsprogramms (ESOP/VSOP) bis zu 10 % des Stammkapitals,
-> b) Ausgabe von Anteilen an strategische Partner mit Zustimmung der Class-B-Mehrheit.
+> (3) Ausnahmen: a) Ausgabe von Anteilen an Mitarbeiter im Rahmen eines ESOP/VSOP bis zu 10 % des Stammkapitals; b) Ausgabe von Anteilen an strategische Partner mit Zustimmung der Class-B-Mehrheit.
 
-### EN
-
+**EN:**
 > § X Anti-Dilution Protection
 >
-> (1) In the event of a future capital increase in which the issue price per new share is **below** the issue price per Class B share (EUR 10.00) („Down Round"), the holders of Class B shares shall be allocated additional shares free of charge according to the **Weighted Average Broad Based Method**. The calculation formula is:
+> (1) In the event of a future capital increase in which the issue price per new share is below the Class B issue price of EUR [X] ("Down Round"), the holders of Class B shares shall receive additional shares free of charge according to the Weighted Average Broad Based Method: CP2 = CP1 × (A + B) / (A + C). CP1 = previous Class B issue price; CP2 = adjusted issue price; A = total outstanding shares pre-Down Round; B = shares that would have been issued at CP1 for the new investment; C = shares actually issued at the lower price.
 >
-> CP2 = CP1 × (A + B) / (A + C)
+> (2) The adjustment shall be automatic upon registration of the Down Round in the Commercial Register.
 >
-> where:
-> - CP1 = previous issue price Class B
-> - CP2 = adjusted issue price Class B
-> - A = total shares outstanding before Down Round
-> - B = number of shares that would have been issued at CP1 for the new investment
-> - C = shares actually issued at the lower price
->
-> (2) The adjustment shall be automatic upon registration of the Down Round in the commercial register. It shall be implemented by the Management by way of issuing additional shares from the authorized capital (§ 4 of the Articles).
->
-> (3) Exceptions to the Anti-Dilution Clause:
->
-> a) Issuance of shares to employees under an employee participation program (ESOP/VSOP) up to 10 % of the share capital,
-> b) Issuance of shares to strategic partners with the consent of the Class B majority.
+> (3) Exceptions: a) Issuance of shares to employees under an ESOP/VSOP up to 10 % of share capital; b) Issuance to strategic partners with Class B majority consent.
 
 ---
 
-## 8) Vesting und Bad-Leaver-Klausel
+### Klausel 8: Vesting und Bad-Leaver
 
-### DE
-
+**DE:**
 > § X Vesting der Gründer-Anteile
 >
-> (1) Die Anteile der Gründer Anna Mueller, Bert Schmid und Christine Linnenbach („Gründer") unterliegen einem Vesting. Die Vesting-Periode betraegt **48 Monate ab dem [Datum der Gründung]**.
+> (1) Die Anteile der Gründer [Name A], [Name B] und [Name C] unterliegen einem Vesting. Die Vesting-Periode beträgt 48 Monate ab dem [Datum der Gründung].
 >
-> (2) Cliff-Periode: Bis zum Ablauf von 12 Monaten ab Beginn des Vesting („Cliff") vesten 0 Anteile. Nach Ablauf des Cliff vesten **25 %** der Gründer-Anteile auf einen Schlag. Danach vesten monatlich jeweils **1/48** der Gründer-Anteile zusätzlich, bis nach 48 Monaten 100 % gevested sind.
+> (2) Cliff-Periode: Bis zum Ablauf von 12 Monaten vesten 0 Anteile. Nach Ablauf des Cliff vesten 25 % der Gründer-Anteile auf einen Schlag. Danach vesten monatlich jeweils 1/48 der Gründer-Anteile zusätzlich.
 >
-> (3) Bei Ausscheiden eines Gründers aus der operativen Mitarbeit in der Gesellschaft erfolgt eine Rückkaufs-Andienung wie folgt:
+> (3) Bei Ausscheiden aus der operativen Mitarbeit:
 >
-> a) **Good Leaver** (Tod, Erwerbsunfähigkeit, Aufhebungsvertrag im Einvernehmen, Kündigung der Gesellschaft ohne wichtigen Grund): Der ausscheidende Gründer behaelt die bis dahin vested Anteile. Die noch nicht vested Anteile sind zum **Verkehrswert** an die Gesellschaft oder einen von ihr benannten Dritten anzudienen.
+> a) Good Leaver (Tod, Erwerbsunfähigkeit, Aufhebungsvertrag im Einvernehmen, Kündigung der Gesellschaft ohne wichtigen Grund): Gründer behält vested Anteile. Nicht-vested Anteile sind zum Verkehrswert anzudienen.
 >
-> b) **Bad Leaver** (Eigene Kündigung ohne wichtigen Grund vor Ablauf der Vesting-Periode, schwere und wiederholte Pflichtverletzung trotz Abmahnung, Verstoß gegen Wettbewerbsverbot, Veraeusserung von Anteilen ohne Zustimmung): Der ausscheidende Gründer verliert die noch nicht vested Anteile zum **Nennwert**. Die bereits vested Anteile sind zu **75 % des Verkehrswerts** anzudienen.
+> b) Bad Leaver (eigene Kündigung ohne wichtigen Grund vor Ablauf der Vesting-Periode, schwere und wiederholte Pflichtverletzung trotz Abmahnung, Verstoß gegen Wettbewerbsverbot, Veräußerung von Anteilen ohne Zustimmung): Gründer verliert unvested Anteile zum Nennwert. Vested Anteile sind zu 75 % des Verkehrswerts anzudienen.
 >
-> (4) Die Rückkaufs-Andienung erfolgt durch Einziehung gemäß § X der Satzung oder durch Anteilsübertragung mit notarieller Beurkundung gemäß § 15 Abs. 4 GmbHG.
+> (4) Die Rückkaufs-Andienung erfolgt durch Einziehung gemäß § [X] der Satzung oder durch Anteilsübertragung mit notarieller Beurkundung gemäß § 15 Abs. 4 GmbHG.
 
-### EN
-
+**EN:**
 > § X Vesting of Founder Shares
 >
-> (1) The shares held by the founders Anna Mueller, Bert Schmid and Christine Linnenbach („Founders") shall be subject to vesting. The vesting period is **48 months from [date of incorporation]**.
+> (1) The shares held by the founders [Name A], [Name B] and [Name C] are subject to vesting. The vesting period is 48 months from [date of incorporation].
 >
-> (2) Cliff Period: Until expiry of 12 months from the start of vesting („Cliff"), 0 shares shall vest. After expiry of the Cliff, **25 %** of the Founder Shares shall vest at once. Thereafter, **1/48** of the Founder Shares shall vest each month until 100 % is vested after 48 months.
+> (2) Cliff Period: Until expiry of 12 months, 0 shares vest. After the Cliff, 25 % vest at once. Thereafter 1/48 per month until 100 % after 48 months.
 >
-> (3) Upon departure of a Founder from operational engagement in the Company, repurchase shall be offered as follows:
+> (3) Upon departure from operational engagement: a) Good Leaver: departing founder retains vested shares; unvested shares at fair market value. b) Bad Leaver (own termination without cause before end of vesting, serious and repeated breach despite warning, non-compete violation, unauthorized transfer): unvested shares at nominal value; vested shares at 75 % of fair market value.
 >
-> a) **Good Leaver** (death, incapacity, termination by mutual consent, termination by the Company without cause): The departing Founder retains the previously vested shares. The not yet vested shares shall be offered to the Company or a third party designated by the Company at **fair market value**.
->
-> b) **Bad Leaver** (own termination without cause before expiry of the vesting period, serious and repeated breach of duty despite warning, violation of non-compete obligation, transfer of shares without consent): The departing Founder loses the not yet vested shares at **nominal value**. The already vested shares shall be offered at **75 % of fair market value**.
->
-> (4) The repurchase offer shall be effected by way of redemption pursuant to § X of the Articles or by share transfer with notarial recording pursuant to § 15(4) GmbHG.
+> (4) Repurchase by redemption pursuant to § [X] of the Articles or share transfer with notarial recording pursuant to § 15(4) GmbHG.
 
-**Belege**: BGH, Urt. v. 19.9.2005 – II ZR 173/04, BGHZ 164, 107 — Hinauskündigungs-Grenze; sachlich gerechtfertigte Bad-Leaver-Klauseln zulaessig; *Cziupka*, in: Scholz, GmbHG, 13. Aufl. 2024, § 34 Rn. 60 ff.
+**Belege:** BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungs-Grenze; sachlich gerechtfertigte Bad-Leaver-Klauseln zulässig).
 
 ---
 
-## 9) Geschäftsführer-Koppelungsklausel
+### Klausel 9: Geschäftsführer-Koppelungsklausel
 
-### DE
-
+**DE:**
 > § X Koppelung von Anstellungsvertrag und Organstellung
 >
-> (1) Mit der wirksamen Beendigung des Anstellungsvertrags des Geschäftsführers ist dieser unverzueglich von seinem Amt abzuberufen. Der Geschäftsführer verzichtet hiermit auf jeglichen Anspruch auf Fortbestand der Organstellung nach Ende des Anstellungsvertrags.
+> (1) Mit der wirksamen Beendigung des Anstellungsvertrags des Geschäftsführers ist dieser unverzüglich von seinem Amt abzuberufen. Der Geschäftsführer verzichtet hiermit auf jeden Anspruch auf Fortbestand der Organstellung nach Ende des Anstellungsvertrags.
 >
-> (2) Eine Abberufung als Geschäftsführer (durch Gesellschafterbeschluss nach § 38 GmbHG) führt **nicht** automatisch zur Beendigung des Anstellungsvertrags. Die Kündigung des Anstellungsvertrags erfolgt nach den dort geregelten Bestimmungen.
+> (2) Eine Abberufung als Geschäftsführer (durch Gesellschafterbeschluss nach § 38 GmbHG) führt nicht automatisch zur Beendigung des Anstellungsvertrags. Die Kündigung des Anstellungsvertrags erfolgt nach den dort geregelten Bestimmungen.
 
-### EN
-
+**EN:**
 > § X Coupling of Service Agreement and Office
 >
-> (1) Upon effective termination of the service agreement of the Managing Director, he shall be removed from office without delay. The Managing Director hereby waives any claim to continued office after termination of the service agreement.
+> (1) Upon effective termination of the service agreement, the Managing Director shall be removed from office without delay. The Managing Director hereby waives any claim to continued office after termination of the service agreement.
 >
-> (2) Removal as Managing Director (by shareholders' resolution pursuant to § 38 GmbHG) shall **not** automatically result in termination of the service agreement. Termination of the service agreement shall be governed by the provisions set forth therein.
+> (2) Removal as Managing Director (by shareholders' resolution pursuant to § 38 GmbHG) shall not automatically result in termination of the service agreement. Termination of the service agreement shall be governed by its provisions.
 
-**Belege**: BGH, Urt. v. 29.5.1989 – II ZR 220/88, BGHZ 107, 351 (Koppelungs-Klausel zulaessig).
+**Belege:** BGH, Urt. v. 29.05.1989 – II ZR 220/88, BGHZ 107, 351.
 
 ---
 
-## 10) Nachvertragliches Wettbewerbsverbot mit Karenzentschädigung
+### Klausel 10: Nachvertragliches Wettbewerbsverbot mit Karenzentschädigung
 
-### DE
-
+**DE:**
 > § X Nachvertragliches Wettbewerbsverbot
 >
-> (1) Der Geschäftsführer verpflichtet sich, für einen Zeitraum von **12 Monaten** nach Beendigung des Anstellungsvertrags weder selbständig noch unselbständig in der Branche „[konkrete Branche]" innerhalb des Gebiets [konkretes Gebiet] taetig zu sein.
+> (1) Der Geschäftsführer verpflichtet sich, für einen Zeitraum von 12 Monaten nach Beendigung des Anstellungsvertrags weder selbständig noch unselbständig in der Branche „[konkrete Branche]" innerhalb des Gebiets [konkretes Gebiet] tätig zu sein.
 >
-> (2) Die Gesellschaft zahlt für die Dauer des Wettbewerbsverbots eine **Karenzentschädigung in Höhe von 50 %** der zuletzt bezogenen vertragsmaessigen Bezüge (Fixum, Tantieme, Sachleistungen). Anderweitiges Erwerbseinkommen ist gemäß § 74c HGB anzurechnen.
+> (2) Die Gesellschaft zahlt eine Karenzentschädigung in Höhe von 50 % der zuletzt bezogenen vertragsgemäßen Bezüge. Anderweitiges Erwerbseinkommen ist gemäß § 74c HGB anzurechnen.
 >
-> (3) Die Gesellschaft kann auf das Wettbewerbsverbot ganz oder teilweise verzichten. Der Verzicht ist binnen einem Monat ab Ende des Anstellungsverhältnisses schriftlich zu erklären. Ab dem Zeitpunkt des Verzichts entfaellt die Karenzentschädigung.
+> (3) Die Gesellschaft kann auf das Wettbewerbsverbot ganz oder teilweise verzichten (schriftlich, binnen einem Monat ab Ende des Anstellungsverhältnisses). Ab Verzicht entfällt die Karenzentschädigung.
 >
-> (4) Bei Verstoß gegen das Wettbewerbsverbot schuldet der Geschäftsführer eine Vertragsstrafe in Höhe von **3 Brutto-Monatsgehaeltern pro Verstoß**, daneben Schadensersatz.
+> (4) Bei Verstoß schuldet der Geschäftsführer eine Vertragsstrafe in Höhe von 3 Brutto-Monatsgehältern pro Verstoß, daneben Schadensersatz.
 
-### EN
-
+**EN:**
 > § X Post-Contractual Non-Compete
 >
-> (1) The Managing Director undertakes, for a period of **12 months** after termination of the service agreement, not to be active, either self-employed or as an employee, in the industry „[specific industry]" within the territory [specific territory].
+> (1) The Managing Director undertakes not to be active, either self-employed or as an employee, in the industry „[specific industry]" within the territory [specific territory] for 12 months after termination of the service agreement.
 >
-> (2) For the duration of the non-compete, the Company shall pay **liquidated compensation in the amount of 50 %** of the most recently received contractual remuneration (fixed salary, bonus, benefits in kind). Other employment income shall be credited pursuant to § 74c HGB.
+> (2) For the duration of the non-compete, the Company shall pay compensation of 50 % of the most recently received contractual remuneration. Other employment income shall be credited pursuant to § 74c HGB.
 >
-> (3) The Company may waive the non-compete in whole or in part. The waiver shall be declared in writing within one month after termination of the service agreement. From the time of waiver, the liquidated compensation shall cease to apply.
+> (3) The Company may waive the non-compete in writing within one month after termination. From the time of waiver, the compensation shall cease.
 >
-> (4) In case of breach of the non-compete, the Managing Director shall owe liquidated damages in the amount of **3 groß monthly salaries per breach**, in addition to damages.
+> (4) In case of breach, liquidated damages of 3 gross monthly salaries per breach plus damages.
 
-**Belege**: BGH, Urt. v. 4.3.2002 – II ZR 77/00, NJW 2002, 1875 (Karenzentschädigung 50 % analog § 74 II HGB empfohlen); §§ 74, 74a, 74c HGB; § 138 BGB (sachliche/raeumliche/zeitliche Begrenzung). Max. 2 Jahre, sonst Sittenwidrigkeit.
+**Belege:** BGH, Urt. v. 04.03.2002 – II ZR 77/00, NJW 2002, 1875 (Karenzentschädigung 50 % analog § 74 Abs. 2 HGB empfohlen); §§ 74, 74a, 74c HGB; § 138 BGB (max. 2 Jahre; sonst Sittenwidrigkeit).
 
 ---
 
-## 11) Pflicht zur Anrufung des Beirats vor Klage
+### Klausel 11: Schlichtungspflicht vor Klage
 
-### DE
-
+**DE:**
 > § X Schlichtungs-Pflicht vor Klageerhebung
 >
-> (1) Vor Erhebung einer Klage zwischen Gesellschaftern in Angelegenheiten der Gesellschaft oder zwischen einem Gesellschafter und der Gesellschaft ist der Beirat (siehe § X der Satzung) anzurufen.
+> (1) Vor Erhebung einer Klage zwischen Gesellschaftern oder zwischen einem Gesellschafter und der Gesellschaft ist der Beirat anzurufen.
 >
-> (2) Der Beirat hat innerhalb von **4 Wochen** nach Anrufung einen schriftlichen Schlichtungs-Vorschlag zu unterbreiten. Die Vorschläge sind nicht bindend.
+> (2) Der Beirat hat innerhalb von 4 Wochen nach Anrufung einen schriftlichen Schlichtungs-Vorschlag zu unterbreiten. Die Vorschläge sind nicht bindend.
 >
-> (3) Bei Versäumnis der Anrufung kann die später erhobene Klage durch den Klagegegner mit Einrede der Unzulaessigkeit zurueckgewiesen werden.
+> (3) Bei Versäumnis der Anrufung kann die später erhobene Klage durch den Klagegegner mit Einrede der Unzulässigkeit zurückgewiesen werden.
 >
-> (4) Eile-Anträge (einstweilige Verfügung, Anmeldungs-Sperre) sind von der Anrufungspflicht **ausgenommen**, sofern die Eilbedürftigkeit glaubhaft gemacht wird.
+> (4) Eilanträge (einstweilige Verfügung, Anmeldungs-Sperre) sind von der Anrufungspflicht ausgenommen, sofern die Eilbedürftigkeit glaubhaft gemacht wird.
 
-### EN
-
+**EN:**
 > § X Mediation Requirement Prior to Litigation
 >
-> (1) Prior to commencing litigation between Shareholders in matters of the Company or between a Shareholder and the Company, the Advisory Board (cf. § X of the Articles) shall be invoked.
+> (1) Prior to commencing litigation between Shareholders or between a Shareholder and the Company, the Advisory Board shall be invoked.
 >
-> (2) The Advisory Board shall submit a written mediation proposal within **4 weeks** after invocation. The proposals shall not be binding.
+> (2) The Advisory Board shall submit a written mediation proposal within 4 weeks after invocation. The proposals shall not be binding.
 >
 > (3) In case of failure to invoke, the action subsequently filed may be dismissed by the defending party with the objection of inadmissibility.
 >
-> (4) Emergency motions (preliminary injunction, registration block) shall be **exempt** from the invocation requirement, provided the urgency is substantiated.
+> (4) Emergency motions (preliminary injunction, registration block) shall be exempt from the invocation requirement, provided the urgency is substantiated.
 
 ---
 
-## 12) Schiedsklausel (DIS)
+### Klausel 12: Schiedsklausel DIS
 
-### DE
-
+**DE:**
 > § X Schiedsgerichtsklausel
 >
 > (1) Alle Streitigkeiten, die sich aus oder im Zusammenhang mit dieser Vereinbarung (einschließlich ihrer Auslegung, ihrer Verletzung, ihrer Beendigung oder ihrer Wirksamkeit) ergeben, werden nach der Schiedsgerichtsordnung der Deutschen Institution für Schiedsgerichtsbarkeit (DIS) unter Ausschluss des ordentlichen Rechtsweges endgültig entschieden.
 >
-> (2) Schiedsort ist **Berlin**. Schiedssprache ist **Deutsch**. Das Schiedsgericht besteht aus **drei** Schiedsrichtern, sofern die Parteien sich nicht einvernehmlich auf einen Einzel-Schiedsrichter einigen.
+> (2) Schiedsort ist Berlin. Schiedssprache ist Deutsch. Das Schiedsgericht besteht aus drei Schiedsrichtern, sofern die Parteien sich nicht einvernehmlich auf einen Einzel-Schiedsrichter einigen.
 >
-> (3) Die Schiedsklausel gilt nicht für einstweilige Verfügungen und Anmeldungs-Sperren bei staatlichen Gerichten, insoweit ist staatlicher Rechtsschutz unberuehrt.
+> (3) Die Schiedsklausel gilt nicht für einstweilige Verfügungen und Anmeldungs-Sperren bei staatlichen Gerichten; insoweit ist staatlicher Rechtsschutz unberührt.
 
-### EN
-
+**EN:**
 > § X Arbitration Clause
 >
-> (1) All disputes arising out of or in connection with this Agreement (including its interpretation, breach, termination, or validity) shall be finally settled in accordance with the Arbitration Rules of the German Arbitration Institute (DIS) without recourse to the ordinary courts.
+> (1) All disputes arising out of or in connection with this Agreement shall be finally settled in accordance with the DIS Arbitration Rules without recourse to the ordinary courts.
 >
-> (2) The seat of arbitration shall be **Berlin**. The language of arbitration shall be **German**. The arbitration tribunal shall consist of **three** arbitrators, unless the parties mutually agree on a sole arbitrator.
+> (2) The seat of arbitration shall be Berlin. The language of arbitration shall be German. The arbitration tribunal shall consist of three arbitrators, unless the parties mutually agree on a sole arbitrator.
 >
 > (3) The arbitration clause shall not apply to preliminary injunctions and registration blocks before state courts; recourse to state courts shall be unaffected in these matters.
 
 ---
 
-## 13) Klausel-Anwendungs-Matrix
+## Klausel-Anwendungsmatrix
 
-| Klausel | Satzung | SHA | Geschäftsführervertrag | Beiratsordnung |
+| Klausel | Satzung | SHA | GF-Vertrag | Beiratsordnung |
 |---|---|---|---|---|
-| Sprachvorrang | + | + | + | + |
-| Stimmbindung + Vorrang | - | + | - | - |
-| Golden Share / StaRUG-Veto | + | + (zusätzlich) | - | - |
-| Sperrminorität BSG-fest | + | (nur als Spiegel) | - | - |
-| Drag-Along | + | + (Detail) | - | - |
-| Tag-Along | + | + (Detail) | - | - |
-| Liquidation Preference | + | + (Detail) | - | - |
-| Anti-Dilution | + | + (Detail) | - | - |
-| Vesting / Bad-Leaver | - | + | (Erwaehnung) | - |
-| Koppelungs-Klausel | - | - | + | - |
-| Nachvertragliches Wettbewerbsverbot | - | - | + | (analog Beirat) |
-| Schlichtungs-Pflicht Beirat | + | + | - | + |
-| Schiedsklausel DIS | + | + | (separat) | + |
+| 0 Sprachvorrang | + | + | + | + |
+| 1 Stimmbindung + Vorrang | – | + | – | – |
+| 2 Golden Share / StaRUG-Veto | + | + (zusätzlich) | – | – |
+| 3 Sperrminorität BSG-fest | **+ (zwingend)** | (nur als Spiegel) | – | – |
+| 4 Drag-Along | + | + (Detail) | – | – |
+| 5 Tag-Along | + | + (Detail) | – | – |
+| 6 Liquidation Preference | + | + (Detail) | – | – |
+| 7 Anti-Dilution | + | + (Detail) | – | – |
+| 8 Vesting / Bad-Leaver | – | + | (Erwähnung) | – |
+| 9 Koppelungsklausel | – | – | + | – |
+| 10 Wettbewerbsverbot | – | – | + | (analog Beirat) |
+| 11 Schlichtungspflicht Beirat | + | + | – | + |
+| 12 Schiedsklausel DIS | + | + | (separat) | + |
 
----
+**WICHTIG zu Klausel 3:** Für SV-Freiheit muss die Sperrminorität zwingend in der Satzung stehen (Spalte Satzung = `+` fett). SHA-Stimmbindung (Klausel 1) erzeugt keine SV-Freiheit (BSG B 12 KR 13/14 R).
 
-## Anschluss
+## Typische Kombinationen
 
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Klausel-Einbettung in Satzung
-- `gesellschaftsgruender-gesellschaftervereinbarung` — Klausel-Einbettung in SHA
-- `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag-Klauseln
-- `gesellschaftsgruender-bilinguale-dokumente` — Format-Konventionen
-- `gesellschaftsgruender-intake-decision-tree` — Workflow-Visualisierung
+| Konstellation | Klauseln |
+|---|---|
+| Solo-Gründer GmbH, kein Investor | 0, 9, 10 |
+| 2–3 Gründer, Investor geplant | 0, 1, 3, 4, 5, 6, 7, 8, 11, 12 |
+| Familienunternehmen, Nachfolge | 0, 2 (Golden Share), 3, 11 |
+| VC-Investment, internationale Beteiligung | 0 (bilingual), 4, 5, 6, 7, 8, 12 |
+| GF-Gesellschafter, SV-Risiko | 0, 3 (Satzung!), 9, 10 |
+
+## Fristen und Verjährung
+
+| Klausel | Frist | Norm | Risiko |
+|---|---|---|---|
+| Wettbewerbsverbot | max. 2 Jahre; Karenzentschädigung bei Verzicht: binnen 1 Monat | §§ 74, 74a HGB; § 138 BGB | > 2 Jahre: sittenwidrig und nichtig |
+| Schlichtungspflicht | 4 Wochen nach Anrufung | Gesellschaftsvertrag | Fristversäumnis: Schlichtungsvorschlag entfällt |
+| Drag-Along-Anzeige | mind. 30 Tage vor Vollzug | Gesellschaftsvertrag | Kein wirksamer Drag ohne Fristwahrung |
+| Tag-Along-Ausübung | 14 Tage nach Anzeige | Gesellschaftsvertrag | Fristversäumnis: Mitveräußerungsrecht erlischt |
+| Liquidation-Preference-Wahlrecht | 14 Tage nach Liquidations-Ereignis-Bekanntgabe | Gesellschaftsvertrag | Versäumnis: Preference-Wahlrecht erlischt |
+| Anfechtungsfrist Gesellschafterbeschluss | 1 Monat ab Beschluss | § 246 AktG analog | Beschluss unanfechtbar nach Fristablauf |
+| SV-Beiträge rückwirkend | 4 Jahre (§ 25 SGB IV); 30 Jahre bei Vorsatz | § 25 SGB IV | Massives Nachzahlungsrisiko |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Sperrminorität gewünscht, aber GmbH-Gründung ohne Anwalt | Satzung durch Anwalt erstellen lassen; Musterprotokoll enthält keine Sperrminorität; SHA-Stimmbindung allein reicht für SV-Freiheit nicht |
+| Investor besteht auf Full-Ratchet Anti-Dilution | Gegenargument: Weighted Average Broad-Based ist Marktstandard; Full Ratchet ist bei Down-Round extrem verwässernd für Gründer; Kompromiss: Weighted Average Narrow-Based |
+| Bad-Leaver-Definition unklar | Klausel 8 Abs. 3 lit. b) präzise definieren; insbes. Wettbewerbsverstoß als Bad-Leaver-Tatbestand und dessen Nachweis |
+| Drag-Along-Streit im Exit | Bereits in der Klausel Schiedsgericht als Weg für Drag-Along-Streitigkeiten vorsehen; Drag-Along-Einrede im Schiedsverfahren ist schneller als LG-Hauptverfahren |
+
+## Anschluss-Skills
+
+- `gesellschaftsgruender-bilinguale-dokumente` — Format-Konventionen für bilinguale Ausgabe
+- `gesellschaftsgruender-intake-decision-tree` — Welche Klauseln für welche Konstellation
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Durchsetzung von Klauseln im Streitfall
+- `gesellschaftsrecht:aufsichtsrat-protokoll` — Beirats-Sitzungsprotokoll für Schlichtungspflicht
+
+## Quellen und Zitierweise
+
+- § 47 GmbHG (Stimmrecht, Stimmverbot)
+- § 34 GmbHG (Einziehung von Geschäftsanteilen)
+- § 15 Abs. 3, 4 GmbHG (Abtretungsform)
+- §§ 74, 74a, 74c HGB (Wettbewerbsverbot, Karenzentschädigung)
+- § 7 Abs. 1 SGB IV; § 7a SGB IV (Sozialversicherungsstatus)
+- § 25 SGB IV (Verjährung SV-Beiträge)
+- § 15a InsO (Insolvenzantragspflicht)
+- §§ 60, 49 ff. StaRUG (Restrukturierungsplan, Stabilisierungsanordnung)
+- §§ 1029 ff. ZPO (Schiedsverfahren)
+
+Zitierweise nach `../../references/zitierweise.md`.
+
+Kommentarliteratur:
+- Scholz, GmbHG, 13. Aufl. 2024, § 47 Rn. 240 ff. (Stimmbindung); § 34 Rn. 60 ff. (Einziehung / Bad-Leaver).
+- Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 15 Rn. 90 ff. (Abtretungsform).
+- BGH, Urt. v. 29.05.1967 – II ZR 105/66, BGHZ 48, 163 (Stimmbindung).
+- BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 (Hinauskündigungsgrenze).
+- BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität SV-Freiheit).
+- BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R, NZA 2016, 444 (SHA-Stimmbindung SV-irrelevant).
+
+## Output-Template: Klausel-Pruefprotokoll
+
+**Adressat:** Anwaltsakte / Qualitaetskontrolle — Tonfall sachlich
+
+```
+KLAUSEL-PRUEFPROTOKOLL
+Mandat: [MANDANT] | Dokument: [SHA / Satzung] | Datum: [DATUM]
+
+GEPRUEFTE KLAUSELN:
+
+| Klausel                | Vorhanden | Fassung | Kommentar |
+|------------------------|-----------|---------|-----------|
+| Sprachvorrang-Klausel  | Ja / Nein | DE/EN   |           |
+| Drag-Along             | Ja / Nein | [%]     | Schwelle  |
+| Tag-Along              | Ja / Nein |         |           |
+| Liquidation Preference | Ja / Nein | 1x / 2x |           |
+| Anti-Dilution          | Ja / Nein | WA-BB   |           |
+| Vesting-Klausel        | Ja / Nein | 48M/12C |           |
+| Bad-Leaver / Good-Leaver| Ja / Nein|         |           |
+| Sperrminoritaet        | Ja / Nein | [%]     | SV-Schutz |
+| Wettbewerbsverbot      | Ja / Nein | [M]     | Karenz?   |
+| Schiedsklausel         | Ja / Nein | DIS     | Sprache   |
+
+OFFENE PUNKTE:
+  [ ] [KLAUSEL] fehlt noch; Entwurf bis [DATUM]
+  [ ] [KLAUSEL] muss an Satzung angepasst werden
+
+FREIGABE: [NAME / DATUM]
+```

@@ -285,3 +285,39 @@ Jedes auf diesem Skill basierende Gutachten muss mindestens folgende Quellen aus
 ---
 
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — ZU-Pruefung § 17 InsO
+
+Bevor losgelegt wird, klaere:
+
+1. **Liquiditaetsstatus erstellen?** Faellige und nicht zahlbare Verbindlichkeiten vs. liquide Mittel (Direct-Method).
+2. **10%-Schwelle berechnen?** BGH IX ZR 123/04: ZU wenn Luecke >= 10% der faelligen Verbindlichkeiten und keine Beseitigung innerhalb 3 Wochen absehbar.
+3. **Zahlungsstockung oder ZU?** Zahlungsstockung: voruibergehend, Beseitigung absehbar. ZU: strukturell, keine Beseitigung ohne Aussenfinanzierung.
+4. **Datum festlegen?** Tag-genaue Bestimmung fuer Anfechtungsfristen §§ 130-133 InsO.
+5. **Antragspflicht?** § 15a InsO Frist 3 Wochen ab ZU-Eintritt.
+
+## Output-Template ZU-Memo (Liquiditaetsstatus)
+
+**Adressat:** Intern / Gericht — Tonfall: sachlich-betriebswirtschaftlich
+
+```
+LIQUIDITAETSSTATUS (§ 17 InsO-Pruefung)
+Gesellschaft: [FIRMA]    Stichtag: [DATUM]
+
+FAELLIGE VERBINDLICHKEITEN:
+- Lieferantenverbindlichkeiten: EUR [BETRAG]
+- Steuern und SV: EUR [BETRAG]
+- Bankdarlehen (faellig): EUR [BETRAG]
+- Sonstige: EUR [BETRAG]
+GESAMT FAELLIG: EUR [SUMME]
+
+LIQUIDE MITTEL:
+- Kassabetrag: EUR [BETRAG]
+- Bankguthaben: EUR [BETRAG]
+- Innerhalb 3 Wochen eingehende Zahlungen: EUR [BETRAG]
+GESAMT LIQUIDE: EUR [SUMME]
+
+LIQUIDITAETSLUECKE: EUR [SUMME] = [X%] der faelligen Verbindlichkeiten
+ERGEBNIS: [Zahlungsunfaehigkeit i.S.d. § 17 InsO: JA / NEIN / ZAHLUNGSSTOCKUNG]
+```

@@ -1,6 +1,6 @@
 ---
 name: abmahnung-arbeitsrecht
-description: "Entwirft und bewertet arbeitsrechtliche Abmahnungen. Lädt, wenn eine Abmahnung erstellt, inhaltlich geprüft oder deren Wirksamkeitsvoraussetzungen (Warnfunktion, Bestimmtheit, Dokumentation) beurteilt werden sollen – sowohl aus Arbeitgeber- als auch aus Arbeitnehmerperspektive."
+description: "Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Pruefraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismaessigkeit. Pruefung ob Abmahnung entbehrlich (verhaltensbedingte Kuendigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Loeschungsantrag. Abgrenzung: Kuendigungspruefung bei kueschk-skills; BR-Anhoerung bei betriebsrat-anhoerung."
 ---
 
 # Abmahnung im Arbeitsrecht

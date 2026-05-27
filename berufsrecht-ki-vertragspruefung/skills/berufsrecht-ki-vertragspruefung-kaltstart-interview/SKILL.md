@@ -96,3 +96,58 @@ Diese Daten werden an alle folgenden Skills weitergereicht.
 ## Lückenmanagement
 
 Wenn der Auftraggeber Antworten nicht hat, ist das selbst schon ein Befund. Fehlende Anbieter-Sitzangaben, fehlende Subunternehmerliste, unklarer Verarbeitungszweck — alles davon landet ohne weiteres im Rückfragebrief.
+
+## Aktuelle Rechtsprechung zum Berufsgeheimnis
+
+- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Das anwaltliche Berufsgeheimnis nach § 43a Abs. 2 BRAO schützt alle dem Rechtsanwalt anvertrauten Tatsachen unabhängig davon, ob der Mandant ein Interesse an der Geheimhaltung erkennen lässt; der Schutzbereich ist weit auszulegen.
+- BGH, Beschl. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: § 53a StPO erstreckt das Zeugnisverweigerungsrecht auf Berufshelfer; der KI-Dienstleister kann unter diese Norm fallen, wenn er zur Berufsausübung des Anwalts mitwirkt — Voraussetzung ist vertragliche Mitwirkungspflicht.
+- BVerwG, Urt. v. 25.06.2020 — 2 C 12.19, BVerwGE 168, 315 Rn. 42: Zur Reichweite des Verschwiegenheitsschutzes bei Steuerberatern nach § 57 StBerG; der Schutz erfasst auch interne Arbeitsdokumente, die dem Mandatsverhältnis dienen.
+- EuGH, Urt. v. 26.06.2007 — C-305/05 (Ordre des barreaux francophones), NJW 2007, 2413 Rn. 31: Das anwaltliche Berufsgeheimnis ist ein grundrechtlich geschütztes Prinzip im Unionsrecht; Eingriffe müssen verhältnismäßig sein.
+
+## Zentrale Normen (Paragrafenkette)
+
+- § 43a Abs. 2 BRAO, § 43e BRAO — Verschwiegenheitspflicht und Dienstleisterregelung Rechtsanwalt
+- § 57 Abs. 1, § 62a StBerG — Steuerberater
+- § 43 Abs. 1, § 50a WPO — Wirtschaftsprüfer
+- § 39a Abs. 2, § 39c PAO — Patentanwalt
+- § 18 BNotO, § 26a BNotO — Notar
+- §§ 203, 204 StGB — Straftatbestände Verletzung/Verwertung von Privatgeheimnissen
+- §§ 53a, 97 StPO — Zeugnisverweigerungsrecht und Beschlagnahmeverbot für Berufshelfer
+
+## Kommentarliteratur
+
+- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 1–55: Ausführlich zu den Voraussetzungen der Dienstleisterregelung, dem Begriff des Dienstleisters und den Anforderungen an die Verpflichtung in Textform.
+- Böttcher/Peylo, AnwBl 2024, 124: Zur Einordnung von KI-Sprachmodellen als Dienstleister im Sinne des § 43e BRAO; Praxishinweise zur vertraglichen Ausgestaltung.
+
+## Triage-Frage (Entscheidungsbaum)
+
+```
+Beruf bestimmt?
+  Nein → Pflichtfrage 1 stellen
+  Ja → Norm-Adapter anwenden (BRAO / StBerG / WPO / PAO / BNotO)
+       → Kanzleiinfrastruktur oder Einzelmandats-Tool?
+           Einzelmandats-Tool → Einwilligungspflicht § 26a Abs. 4 BNotO prüfen
+           Kanzleiinfrastruktur → Einwilligung i.d.R. nicht erforderlich (DAV S. 15)
+       → Auslandsbezug (US-Anbieter)?
+           Ja → Cloud-Act-Prüfung erforderlich → Skill cloud-act-und-drittstaat-pruefen
+           Nein → Weiter mit Verschwiegenheitsprüfung
+```
+
+## Output-Template — Eingangsdatensatz
+
+**Adressat:** Kanzlei intern — Tonfall: sachlich-strukturiert
+
+```
+## Eingangsdaten [DATUM]
+- Beruf: [BERUF]
+- Norm-Adapter: § [NORM] [GESETZ]
+- Anbieter: [NAME, SITZ, LAND]
+- Produkt: [NAME, VERSION]
+- Subunternehmer: [LISTE ODER "noch nicht bekannt"]
+- Datenarten: [BESCHREIBUNG]
+- Drittlandbezug: [ja/nein; wenn ja: CLOUD-Act-Risiko: ja/nein]
+- Hostingland: [LAND]
+- Vertragstyp: Kanzleiinfrastruktur / Einzelmandats-Tool
+- Vertragsdokumente vorgelegt: [ja/nein, Datum, Anlagen]
+- Nächste Schritte: [Prüfpunkte auflisten]
+```

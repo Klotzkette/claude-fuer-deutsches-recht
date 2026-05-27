@@ -169,3 +169,37 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 - **EuGH C-634/21 (Schufa-Score)** bei Scoring-/Profiling-Lücken.
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 17.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 5 Rn. 62 ff.**
+
+## Triage zu Beginn
+1. Sweep-Modus oder Direktanfrage — neue Praxis oder regelmaessiger Policy-Abgleich?
+2. Wann war der letzte Sweep — sind neue Anwendungsfaelle oder Folgenabschaetzungen seit dann dazugekommen?
+3. Gibt es bereits bekannte Richtlinien-Praxis-Kluft (z.B. Anwendungsfall ohne Richtlinien-Deckung)?
+4. Betrifft die neue Praxis einen Hochrisiko-Bereich (Art. 9 KI-VO Qualitaetsmanagement)?
+5. Ist eine Betriebsrats-Beteiligung nach § 87 Abs. 1 Nr. 6 BetrVG relevant?
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Richtlinie ohne Adressierung von KI-Scoring schafft materielle DSGVO-Luecke; maßgeblich fuer Sweep-Priorisierung.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Interne Richtlinien muessen verstaendliche Erlaeuterung der Algorithmus-Logik fuer Betroffene vorsehen.
+- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Organisationspflichten bei technischen Systemen — Richtlinie und gelebte Praxis muessen uebereinstimmen.
+- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten bei algorithmischen Systemen; Transparenzgebot beim KI-Einsatz in der Richtlinie verankern.
+
+## Output-Template — Richtlinien-Monitor-Bericht
+**Adressat:** KI-Governance-Verantwortlicher — Tonfall: sachlich-strukturiert
+```
+RICHTLINIEN-MONITOR-BERICHT
+[DATUM] — Modus: [SWEEP / DIREKTANFRAGE] — Zeitraum: [DATUM BIS DATUM]
+
+BEFUNDE:
+| Nr. | Thema | Richtlinien-Position | Gelebte Praxis | Status | Empfehlung |
+|---|---|---|---|---|---|
+| 1 | [THEMA] | [RICHTLINIENTEXT] | [PRAXIS] | ERFORDERLICH/EMPFOHLEN | [FORMULIERUNGSVORSCHLAG] |
+
+ZUSAMMENFASSUNG: [N] ERFORDERLICH / [N] EMPFOHLEN / [N] konform
+
+NAECHSTE SCHRITTE:
+1. Richtlinienaktualisierung: [ABSCHNITT] — Verantwortlicher: [NAME] — bis: [DATUM]
+2. [WEITERE MASSNAHME]
+
+Naechster Sweep: [DATUM]
+Erstellt: [NAME], [DATUM]
+```

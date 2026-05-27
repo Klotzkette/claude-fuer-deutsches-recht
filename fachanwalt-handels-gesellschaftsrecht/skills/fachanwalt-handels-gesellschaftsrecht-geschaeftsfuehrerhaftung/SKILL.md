@@ -1,123 +1,281 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung
-description: Geschaeftsfuehrerhaftung § 43 GmbHG und Vorstandshaftung § 93 AktG. Innenhaftung gegenueber Gesellschaft. Business Judgement Rule § 93 Abs. 1 S. 2 AktG analog GmbH. Beweislastumkehr § 93 Abs. 2 S. 2 AktG. Haftungsausloeser Buchfuehrung Steuern Sozialversicherung verspaeteter Insolvenzantrag § 15a InsO. Verjaehrung § 43 Abs. 4 GmbHG fuenf Jahre. Innenregress. Schreibvorlagen.
+description: "Geschäftsführerhaftung § 43 GmbHG und Vorstandshaftung § 93 AktG: Innenhaftung gegenüber Gesellschaft, Business Judgement Rule § 93 Abs. 1 S. 2 AktG (analog GmbH), Beweislastumkehr § 93 Abs. 2 S. 2 AktG. Haftungsauslöser: Buchhaltungspflichten, Steuern § 69 AO, Sozialversicherung § 266a StGB, verspäteter Insolvenzantrag § 15a InsO, Zahlungsverbot § 15b InsO. Verjährung 5 Jahre § 43 Abs. 4 GmbHG (börsennotierte AG 10 Jahre). D&O-Versicherung Selbstbehalt 10 %. Schriftsatzvorlagen Klage, Gesellschafterbeschluss § 46 Nr. 8 GmbHG."
 ---
 
-# Geschäftsführer- und Vorstandshaftung (§§ 43 GmbHG, 93 AktG)
+## Mandantenfragen beim Kaltstart
 
-## Kaltstart-Rückfragen
-
-1. Welche Rechtsform (GmbH § 43 GmbHG, AG § 93 AktG, GmbH Co. KG analog)?
-2. Wer wird in Anspruch genommen (Mandant als Organ in Haftung oder Mandant als Gesellschaft mit Anspruch)?
-3. Sachverhalt: konkrete Pflichtverletzung, Datum, kausaler Schaden?
-4. Lag im Zeitpunkt der Entscheidung eine unternehmerische Ermessensentscheidung mit angemessener Informationsgrundlage vor (Business Judgement Rule)?
-5. D&O-Versicherung vorhanden? Selbstbehalt § 93 Abs. 2 S. 3 AktG (Vorstand AG zwingend 10 %)?
-6. Verjährungsstand (§ 43 Abs. 4 GmbHG bzw. § 93 Abs. 6 AktG: fünf Jahre, börsennotierte AG zehn Jahre)?
+1. Welche Rechtsform ist betroffen — GmbH (§ 43 GmbHG), AG (§ 93 AktG), GmbH & Co. KG (§ 43 GmbHG analog)?
+2. Handelt es sich um einen Innenhaftungsanspruch der Gesellschaft gegen den Geschäftsführer/Vorstand, oder um eine Außenhaftung gegenüber Dritten?
+3. Welche konkrete Pflichtverletzung liegt vor — Zahlung trotz Insolvenzreife, verbotene Kapitalrückzahlung, Steuerschulden, Verstöße gegen Legalitätspflicht?
+4. Ist die Business Judgement Rule anwendbar — handelt es sich um eine unternehmerische Ermessensentscheidung auf angemessener Informationsgrundlage?
+5. Besteht eine D&O-Versicherung — bei AG-Vorstand zwingender Selbstbehalt 10 % bis 1,5-faches Festvergütung (§ 93 Abs. 2 S. 3 AktG)?
+6. Wie ist der Verjährungsstand — 5 Jahre § 43 Abs. 4 GmbHG; börsennotierte AG 10 Jahre § 93 Abs. 6 AktG?
+7. Wurde ein Gesellschafterbeschluss zur Geltendmachung nach § 46 Nr. 8 GmbHG gefasst?
+8. Besteht Strafbarkeit — Untreue § 266 StGB, Vorenthalten Sozialversicherung § 266a StGB?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **GmbH:** § 43 Abs. 1 GmbHG Sorgfalt eines ordentlichen Geschäftsmanns; § 43 Abs. 2 GmbHG Schadensersatzpflicht bei Pflichtverletzung; § 43 Abs. 3 GmbHG verschärfte Haftung bei verbotener Auszahlung des Stammkapitals; § 43 Abs. 4 GmbHG Verjährung fünf Jahre.
-- **AG:** § 93 Abs. 1 S. 1 AktG Sorgfaltspflicht; § 93 Abs. 1 S. 2 AktG Business Judgement Rule; § 93 Abs. 2 S. 1 AktG Schadensersatzpflicht; § 93 Abs. 2 S. 2 AktG Beweislastumkehr für Pflichterfüllung und schuldhaftes Handeln; § 93 Abs. 6 AktG Verjährung (fünf Jahre, börsennotierte AG zehn Jahre).
-- **Verbotene Rückzahlung:** § 30 GmbHG iVm § 43 Abs. 3 GmbHG; § 57 AktG.
-- **Insolvenzrechtliche Haftung:** § 15a InsO Antragspflicht; § 15b InsO Zahlungsverbot ab Insolvenzreife (§ 64 GmbHG und § 92 Abs. 2 AktG aF aufgehoben durch SanInsFoG zum 01.01.2021, ersetzt durch § 15b InsO als rechtsformneutrale Regelung).
-- **Steuern und Sozialversicherung:** § 69 AO Haftung für hinterzogene Steuern; § 266a StGB Vorenthalten von Sozialversicherungsbeiträgen mit zivilrechtlicher Haftung § 823 Abs. 2 BGB.
-- **Aktionärsklage:** Klagezulassungsverfahren § 148 AktG (Quorum 1 % oder EUR 100 000 anteilige Beteiligung).
-- **Verfolgungspflicht Aufsichtsrat:** § 111 AktG, BGH ARAG/Garmenbeck.
-- **D&O-Versicherung:** § 93 Abs. 2 S. 3 AktG zwingender Selbstbehalt 10 % bis 1,5-faches der Festvergütung beim Vorstand.
+| Norm | Inhalt |
+|------|--------|
+| § 43 Abs. 1 GmbHG | Sorgfaltspflicht: Sorgfalt eines ordentlichen Geschäftsmanns |
+| § 43 Abs. 2 GmbHG | Schadensersatzpflicht bei Pflichtverletzung: Innenhaftung gegenüber Gesellschaft |
+| § 43 Abs. 3 GmbHG | Verschärfte Haftung bei verbotener Auszahlung des Stammkapitals (§ 30 GmbHG) |
+| § 43 Abs. 4 GmbHG | Verjährung: 5 Jahre ab Entstehung des Anspruchs |
+| § 93 Abs. 1 S. 1 AktG | Vorstandssorgfalt: Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters |
+| § 93 Abs. 1 S. 2 AktG | Business Judgement Rule: kein Verstoß, wenn vernünftigerweise annehmen durfte, zum Wohle der Gesellschaft auf Grundlage angemessener Information zu handeln |
+| § 93 Abs. 2 S. 2 AktG | Beweislastumkehr: Vorstand / Geschäftsführer muss Pflichterfüllung und fehlendes Verschulden darlegen |
+| § 93 Abs. 2 S. 3 AktG | D&O-Selbstbehalt: zwingend 10 % des Schadens, mindestens bis 1,5-faches der Festvergütung |
+| § 93 Abs. 3 AktG | Qualifizierte Sonderhaftungstatbestände: verbotene Kapitalrückzahlung, Bezahlung eigener Aktien, verbotene Kreditgewährung |
+| § 93 Abs. 6 AktG | Verjährung: 5 Jahre; börsennotierte AG 10 Jahre |
+| § 46 Nr. 8 GmbHG | Gesellschafterbeschluss zur Geltendmachung von Schadensersatz gegen Geschäftsführer |
+| § 15a InsO | Insolvenzantragspflicht: spätestens 6 Wochen nach Zahlungsunfähigkeit; 8 Wochen nach Überschuldung |
+| § 15b InsO | Zahlungsverbot bei Insolvenzreife (seit 1.1.2021 rechtsformneutral; ersetzt § 64 GmbHG und § 92 Abs. 2 AktG aF) |
+| § 30 GmbHG | Kapitalerhaltung: Verbot der Auszahlung von Stammkapital |
+| § 69 AO | Haftung des Vertreters für Steuerschulden der Gesellschaft; vorsätzliche oder grob fahrlässige Pflichtverletzung |
+| § 266a StGB | Vorenthalten von Sozialversicherungsbeiträgen; zivilrechtliche Haftung § 823 Abs. 2 BGB |
+| § 266 StGB | Untreue; strafrechtliche Pflicht zur Rückerstattung |
+| § 148 AktG | Klagezulassung Aktionärsklage: Quorum 1 % oder EUR 100.000 anteiliger Beteiligung |
 
-## Maßgebliche Rechtsprechung
+## Leitentscheidungen
 
-- BGH, Urt. v. 21.04.1997 – Az. II ZR 175/95, BGHZ 135, 244 Rn. 17 – ARAG/Garmenbeck — unternehmerisches Ermessen (Vorläufer Business Judgement Rule).
-- BGH, Urt. v. 22.02.2011 – Az. II ZR 146/09, BGHZ 188, 326 Rn. 15 — Anforderungen Business Judgement Rule.
-- BGH, Urt. v. 04.11.2002 – Az. II ZR 224/00, BGHZ 152, 280 Rn. 8 ff. — Darlegungs- und Beweislast bei Schadensersatzansprüchen gegen GmbH-Geschäftsführer (§ 93 Abs. 2 S. 2 AktG analog); Beweismaß § 287 ZPO.
-- BGH, Urt. v. 16.03.2009 – Az. II ZR 280/07, BGHZ 180, 105 Rn. 17 — Haftung wegen verspäteter Insolvenzantragstellung.
-- BGH, Urt. v. 14.07.2008 – Az. II ZR 202/07, BGHZ 177, 235 Rn. 28 — Innenausgleich bei Mehrgliederhaftung.
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | II ZR 175/95 | 21.04.1997 | ARAG/Garmenbeck: Aufsichtsrat hat Verfolgungspflicht bei klaren Pflichtverstößen des Vorstands; Ermessen sehr eng |
+| BGH | II ZR 146/09 | 22.02.2011 | Business Judgement Rule: vier Voraussetzungen kumulativ — unternehmerische Entscheidung, angemessene Information, Wohl der Gesellschaft, keine Eigeninteressen |
+| BGH | II ZR 224/00 | 04.11.2002 | Beweislastumkehr § 43 GmbHG/§ 93 AktG: Gesellschaft muss Pflichtverletzung und Schaden beweisen; GF/Vorstand muss pflichtgemäßes Handeln darlegen |
+| BGH | II ZR 280/07 | 16.03.2009 | Insolvenzverschleppungshaftung: Schaden = Massedifferenz zwischen rechtzeitigem und verspätetem Antrag |
+| BGH | II ZR 202/07 | 14.07.2008 | Innenausgleich bei Mehrgliederhaftung: Gesamtschuld zwischen GF nach Verursachungsanteilen |
+| BGH | 5 StR 516/08 | 17.12.2008 | Strafbarkeit Insolvenzantragsverzögerung § 15a InsO als Bestandteil der Organpflichten |
+| OLG Düsseldorf | I-6 U 44/20 | 09.12.2021 | D&O-Deckung: Versicherungsfall ist Anspruchserhebung (Claims-made-Prinzip); Anzeige unverzüglich |
 
-## Prüfschema
+## Prüfschema Geschäftsführerhaftung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
+| Schritt | Prüfpunkt | Norm | Rechtsfolge |
+|---------|-----------|------|-------------|
+| 1 | Organstellung im Haftungszeitraum? | § 6 GmbHG; § 84 AktG | Nur Amtsinhaber haften; faktischer GF bei Außensteuerung |
+| 2 | Pflichtverletzung: organschaftliche oder Anstellungsvertragspflicht verletzt? | § 43 Abs. 1 GmbHG | Legalitätspflicht immer; Ermessen bei unternehmerischen Entscheidungen |
+| 3 | Business Judgement Rule anwendbar? | § 93 Abs. 1 S. 2 AktG analog | Vier Kriterien kumulativ; bei Legalitätsverstößen nie anwendbar |
+| 4 | Schaden vorhanden? | Differenzhypothese | Vermögensstand mit vs. ohne Pflichtverletzung |
+| 5 | Kausalität? | Conditio-sine-qua-non | Würde pflichtgemäßes Handeln Schaden verhindert haben? |
+| 6 | Verschulden? | Beweislastumkehr § 93 Abs. 2 S. 2 AktG | GF/Vorstand muss exculpieren |
+| 7 | Sonderhaftungstatbestände? | § 43 Abs. 3 GmbHG; § 15a, § 15b InsO; § 69 AO; § 266a StGB | Verschärfte Haftung ohne Business Judgement Rule |
+| 8 | Verjährung? | § 43 Abs. 4 GmbHG; § 93 Abs. 6 AktG | 5 Jahre; börsennotierte AG 10 Jahre |
+| 9 | Gesellschafterbeschluss zur Klage gefasst? (GmbH) | § 46 Nr. 8 GmbHG | Ohne Beschluss: GF kann einwenden, Klage ohne Befugnis |
+
+## Sonderhaftungstatbestände im Detail
+
+### § 15a InsO — Insolvenzantragspflicht
+
+| Tatbestand | Frist | Sanktion |
+|-----------|-------|---------|
+| Zahlungsunfähigkeit | Spätestens 6 Wochen nach Eintritt | § 15a InsO: Strafbarkeit; Schadensersatz (Massedifferenzschaden) |
+| Überschuldung (§ 19 InsO) | Spätestens 8 Wochen nach Eintritt | Gleiches wie Zahlungsunfähigkeit |
+| Zahlungen nach Insolvenzreife | Verboten nach § 15b InsO | Erstattungspflicht: jede Zahlung, die Insolvenzmasse mindert (Ausnahme: zur Aufrechterhaltung des Geschäftsbetriebs erforderlich) |
+
+### § 69 AO — Steuerhaftung
 
 ```
-1. Pflichtverletzung
-   - Verstoß gegen organschaftliche oder Anstellungsvertrag-Pflichten
-   - Verletzung Legalitätspflicht (zwingendes Recht stets einzuhalten)
-2. Schaden
-   - Differenzhypothese: Vermögensstand mit und ohne Pflichtverletzung
-3. Kausalität (haftungsbegründend und haftungsausfüllend)
-4. Verschulden
-   - § 93 Abs. 2 S. 2 AktG / § 43 Abs. 2 GmbHG: Beweislastumkehr — Organ muss
-     Pflichterfüllung und fehlendes Verschulden darlegen
-5. Business Judgement Rule § 93 Abs. 1 S. 2 AktG (analog GmbH)
-   - Unternehmerische Entscheidung (nicht: Pflichtverletzung bei zwingendem Recht)
-   - Auf Grundlage angemessener Information
-   - Zum Wohle der Gesellschaft
-   - Frei von Eigeninteressen
-6. Sonderhaftungstatbestände
-   - § 43 Abs. 3 GmbHG / § 93 Abs. 3 AktG: Stammkapitalverletzung
-   - § 15a InsO / § 15b InsO: Insolvenzverschleppung, Zahlungsverbot
-   - § 69 AO Steuerhaftung; § 266a StGB Sozialversicherung
-7. Verjährung
-   - § 43 Abs. 4 GmbHG: 5 Jahre
-   - § 93 Abs. 6 AktG: 5 Jahre, börsennotiert 10 Jahre
-8. Verfolgung
-   - GmbH: Gesellschafterbeschluss § 46 Nr. 8 GmbHG
-   - AG: Aufsichtsrat § 111 AktG, Klagezulassung § 148 AktG
-9. D&O-Versicherung
-   - Deckungsanfrage rechtzeitig
-   - Anzeige Versicherungsfall
+Voraussetzungen § 69 AO:
+1. GF ist steuerlicher Vertreter (§ 34 AO) der Gesellschaft
+2. Steuerverbindlichkeit der Gesellschaft entstanden
+3. GF hat vorsätzlich oder grob fahrlässig:
+   - Steuern nicht rechtzeitig abgeführt (Lohnsteuer, USt, KSt)
+   - oder die Steuer hinterzogen (§ 370 AO)
+4. Kausalität: bei pflichtgemäßem Handeln wäre Steuer abgeführt worden
+5. Schaden = nicht beglichene Steuerschuld
+
+Haftungsumfang: Gesamtschuldhaftung mit der Gesellschaft;
+kein Subsidiaritätsprinzip; FA kann GF direkt in Anspruch nehmen.
 ```
 
-## Schreibvorlage Innenanspruch GmbH gegen Geschäftsführer
+### § 266a StGB — Sozialversicherung
 
 ```
+Haftungslage:
+- Strafbarkeit: Vorenthalten von Arbeitnehmeranteilen zur SV
+- Zivilhaftung: § 823 Abs. 2 BGB iVm § 266a StGB
+- Persönliche Haftung des GF auch nach Insolvenzantrag
+- Priorität der SV-Beiträge: § 55 InsO (Masseforderung) greift nicht
+  für Vergangenheitsansprüche; GF haftet persönlich
+```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GF-Haftung pruefen und Klage vorbereiten | Pruefschema; Schriftsatzbausteine unten |
+| Variante A — Innenhaftung GmbH gegen GF | Klage-Baustein Innenhaftung unten; Entlastungsbeschluss pruefen |
+| Variante B — Aussenhaeftung Glaeubiger gegen GF | § 64 GmbHG analog; unmittelbare Klage des Glaeeubigers |
+| Variante C — Steuerhaftung § 69 AO | Finanzbehorde parallel; privatrechtliche Klage koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatz-Bausteine
+
+### Klage Innenhaftung GmbH gegen Geschäftsführer
+
+```
+An das Landgericht [Sitz der GmbH]                          [Ort, Datum]
+
 Klage
 
 der [GmbH], gesetzlich vertreten durch [Liquidator / Insolvenzverwalter /
-neuer Geschäftsführer]                                              - Klägerin -
+neuer Geschäftsführer], [Anschrift]              – Klägerin –
 
 gegen
 
-den [ehemaligen Geschäftsführer]                                    - Beklagter -
+den [ehemaligen Geschäftsführer], [Anschrift]    – Beklagter –
 
 wegen Schadensersatz § 43 Abs. 2 GmbHG
 
 Anträge:
-1. Der Beklagte wird verurteilt, an die Klägerin EUR [Betrag] nebst Zinsen in
-   Höhe von fünf Prozentpunkten über dem Basiszinssatz seit [Datum
-   Verzugseintritt] zu zahlen.
+
+1. Der Beklagte wird verurteilt, an die Klägerin EUR [Betrag] nebst Zinsen
+   in Höhe von fünf Prozentpunkten über dem Basiszinssatz ab [Datum] zu zahlen.
 2. Der Beklagte trägt die Kosten des Rechtsstreits.
 
 Streitwert: EUR [Betrag].
 
 Begründung:
+
 I. Aktivlegitimation
-Die Klägerin ist die Gesellschaft, der Anspruch besteht aus § 43 Abs. 2 GmbHG.
-Der Gesellschafterbeschluss zur Geltendmachung § 46 Nr. 8 GmbHG wurde am
-[Datum] gefasst (Anlage K 1).
+Die Klägerin ist die Gesellschaft. Der Gesellschafterbeschluss zur
+Geltendmachung gemäß § 46 Nr. 8 GmbHG wurde am [Datum] mit [Mehrheit]
+gefasst (Anlage K 1, Protokoll der Gesellschafterversammlung).
 
-II. Pflichtverletzung
-Der Beklagte hat am [Datum] folgende Handlung vorgenommen: [konkrete Schilderung
-Pflichtverletzung]. Damit hat er die Sorgfalt eines ordentlichen Geschäftsmanns
-verletzt. Die Business Judgement Rule schützt ihn nicht, weil [keine
-unternehmerische Ermessensentscheidung / keine angemessene Information /
-Eigeninteresse].
+II. Organstellung
+Der Beklagte war von [Datum] bis [Datum] Geschäftsführer der Klägerin
+(Anlage K 2, HReg-Auszug).
 
-III. Schaden und Kausalität
-Aufgrund der Pflichtverletzung ist der Klägerin ein Schaden in Höhe von
-EUR [Betrag] entstanden. Schadenshergang: [konkrete Berechnung].
+III. Pflichtverletzung
+Der Beklagte hat am [Datum] folgende Handlung vorgenommen:
+[Konkrete Schilderung: z. B. Zahlung an nahestehende Person ohne Gegenleistung
+in Höhe von EUR X; Fortführung der Zahlungen nach Insolvenzreife; Nichtabführung
+von Lohnsteuer].
 
-IV. Verschulden
-Wegen § 43 Abs. 2 GmbHG iVm der Beweislastumkehr ist Sache des Beklagten,
-Pflichterfüllung und mangelndes Verschulden darzulegen.
+Damit hat er die Sorgfalt eines ordentlichen Geschäftsmanns (§ 43 Abs. 1 GmbHG)
+verletzt. Die Business Judgement Rule ist nicht anwendbar, weil:
+[keine unternehmerische Ermessensentscheidung / keine angemessene Informationsgrundlage /
+Eigeninteresse des Beklagten / Legalitätsverletzung].
 
-V. Verjährung
-Die Pflichtverletzung erfolgte am [Datum]; Verjährung tritt frühestens am
-[Datum + 5 Jahre] ein (§ 43 Abs. 4 GmbHG).
+IV. Schaden und Kausalität
+Der Klägerin ist ein Schaden in Höhe von EUR [Betrag] entstanden
+[Schadensberechnung]. Hätte der Beklagte pflichtgemäß gehandelt, wäre der
+Schaden nicht entstanden.
 
-[Anwalt, Fachanwalt für Handels- und Gesellschaftsrecht]
+V. Beweislastumkehr
+Gemäß § 43 Abs. 2 GmbHG iVm der Beweislastumkehr (BGH II ZR 224/00) hat
+der Beklagte seine Pflichterfüllung und fehlendes Verschulden darzulegen.
+
+VI. Verjährung
+Pflichtverletzung am [Datum]; Verjährung frühestens am [Datum + 5 Jahre]
+(§ 43 Abs. 4 GmbHG).
+
+[Kanzlei, Fachanwalt/Fachanwältin für Handels- und Gesellschaftsrecht]
 ```
 
-## Übergabe
+### Gesellschafterbeschluss § 46 Nr. 8 GmbHG (Muster)
 
-- Bei Insolvenzbezug Schnittstelle zum Plugin `fachanwalt-insolvenz-sanierungsrecht` (Insolvenzverwaltung führt Innenhaftung als Masseanspruch).
-- Bei strafrechtlichem Verdacht (Untreue § 266 StGB, Vorenthalten von Sozialbeiträgen § 266a StGB) Schnittstelle zur Strafverteidigung.
-- D&O-Deckungsschutz parallel zur Verteidigung des Mandanten prüfen; auf Selbstbehalt § 93 Abs. 2 S. 3 AktG achten.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie).
+```
+Gesellschafterversammlung [GmbH]
+Beschlussprotokoll vom [Datum]
+
+TOP [X]: Geltendmachung von Schadensersatzansprüchen gegen
+ehemaligen Geschäftsführer [Name] gemäß § 46 Nr. 8 GmbHG
+
+Die Gesellschafterversammlung beschließt mit [Stimmen für/gegen]:
+
+1. Die [GmbH] macht Schadensersatzansprüche gemäß § 43 Abs. 2 GmbHG
+   gegen den ehemaligen Geschäftsführer [Name] geltend.
+
+2. [Neuer Geschäftsführer / Bevollmächtigte/r] wird ermächtigt, die
+   Ansprüche außergerichtlich und gerichtlich geltend zu machen, einen
+   Rechtsanwalt zu beauftragen und Prozesskostenhilfe zu beantragen.
+
+3. Streitgegenstand: [Kurzbeschreibung der Pflichtverletzung und Schadenshöhe].
+
+[Unterschriften Gesellschafter]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Beweislast
+
+| Beweisthema | Beweislast | Beweismittel |
+|------------|-----------|--------------|
+| Pflichtverletzung und Schaden | Gesellschaft (Kläger) | Rechnungsunterlagen; Kontenauszüge; Gutachten; interne E-Mails |
+| Pflichterfüllung und fehlendes Verschulden | Geschäftsführer / Vorstand (Beweislastumkehr) | Protokolle; Rechtsrat-Einholung; Informationsgrundlage dokumentiert |
+| Business Judgement Rule | Geschäftsführer | Dokumentation der Entscheidungsgrundlage; Protokolle Geschäftsleitungssitzungen |
+| Insolvenzreife (§ 15a InsO) | Insolvenzverwalter / Gesellschaft | Buchhaltungsunterlagen; Bilanzpositionen; Zahlungsunfähigkeits-Prüfung |
+| Steuerentrichtung (§ 69 AO) | Finanzamt (im Haftungsbescheid) | Steuerbescheide; Kontodaten; Erklärungspflichten |
+| Kausalität Schaden durch Insolvenzantragsverzögerung | Insolvenzverwalter | Massedifferenzgutachten (früher vs. tatsächlicher Antrag) |
+
+## Fristen
+
+| Frist | Inhalt | Norm |
+|-------|--------|------|
+| 5 Jahre | Verjährung Innenhaftung GmbH-Geschäftsführer | § 43 Abs. 4 GmbHG |
+| 5 / 10 Jahre | Verjährung Vorstandshaftung AG (10 Jahre bei börsennotierter AG) | § 93 Abs. 6 AktG |
+| 6 Wochen | Insolvenzantragspflicht nach Zahlungsunfähigkeit | § 15a Abs. 1 InsO |
+| 8 Wochen | Insolvenzantragspflicht nach Überschuldung | § 15a Abs. 1 InsO |
+| 3 Monate | Berichtspflicht D&O-Versicherung nach Kenntnis des Versicherungsfalls | D&O-Vertrag (Claims-made) |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument | Herkunft | Reaktion |
+|--------------|---------|----------|
+| „Business Judgement Rule schützt mich" | Geschäftsführer | Vier Kriterien kumulativ prüfen: unternehmerische Entscheidung? Angemessene Information? Wohl der Gesellschaft? Kein Eigeninteresse? |
+| „Gesellschaftereinverständnis befreit von Haftung" | Geschäftsführer | § 43 Abs. 3 S. 3 GmbHG: nur wenn alle Gesellschafter einverstanden und Stammkapital nicht berührt; Insolvenzreife ausgeschlossen |
+| „Schaden nicht kausal durch meine Handlung" | Geschäftsführer | Beweislastumkehr: GF muss mangelnde Kausalität darlegen; BGH II ZR 224/00 |
+| „D&O-Versicherung zahlt" | Partei | Anzeige unverzüglich; Claims-made-Prinzip beachten; Ausschlüsse (vorsätzliche Pflichtverletzung) prüfen |
+| „Verjährung abgelaufen" | Geschäftsführer | Verjährungsbeginn: nicht Handlungszeitpunkt, sondern Schadensentstehung; § 199 BGB; Hemmung bei laufendem Insolvenzverfahren |
+| „Insolvenzantrag war nicht verzögert — Zahlungsunfähigkeit bestand nicht" | Geschäftsführer | Buchhaltungsanalyse durch Sachverständigen; FCF-Prüfung; Überschuldungsbilanz |
+
+## Streitwert und Kosten
+
+**Streitwert:** Konkrete Schadenshöhe.  
+Beispiel: Zahlungen nach Insolvenzreife EUR 200.000.
+
+**Gerichtsgebühren (3.0 LG aus EUR 200.000):** ca. EUR 5.238.  
+**Anwaltsgebühren (1.3 VV RVG aus EUR 200.000):** ca. EUR 3.816 netto je Seite.
+
+**D&O-Versicherung:**
+- Selbstbehalt AG-Vorstand: 10 % des Schadens bis 1,5-faches Festvergütung (§ 93 Abs. 2 S. 3 AktG).
+- GmbH-Geschäftsführer: kein gesetzlicher Selbstbehalt; vertraglich vereinbar.
+
+**Steuerhaftung § 69 AO:** Kein fixer Betrag; Haftungsumfang = nicht beglichene Steuerschulden; Finanzamt erlässt Haftungsbescheid nach § 191 AO.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung | Begründung |
+|-----------|------------|-----------|
+| Gesellschaft gegen Ex-GF | Gesellschafterbeschluss § 46 Nr. 8 GmbHG zuerst; dann Klage mit Beweislastumkehr | Ohne Beschluss: prozessuale Mängelrüge des Beklagten möglich |
+| GF-Verteidigung | Dokumentation der Entscheidungsgrundlage; D&O-Versicherung anzeigen | Business Judgement Rule nur mit Nachweis angemessener Information verteidigbar |
+| Insolvenzbezug | Insolvenzverwalter führt Haftungsklage; GF muss Zahlungen rechtfertigen | § 15b InsO: Erstattungspflicht für alle verbotenen Zahlungen |
+| Steuerhaftung § 69 AO | Frühzeitige Selbstanzeige prüfen; Haftungsbescheid anfechten | Finanzamt hat eigene Festsetzungsfrist; Einspruch § 347 AO innerhalb 1 Monat |
+
+## Anschluss-Skills
+
+- `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` — Abberufung GF im Gesellschafterstreit
+- `fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag` — Innenhaftung bei Insolvenzverfahren
+- `fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung` — Anfechtung von Zahlungen nach § 15b InsO
+
+## Quellen
+
+- § 43 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__43.html
+- § 93 AktG: https://www.gesetze-im-internet.de/aktg/__93.html
+- § 15a InsO: https://www.gesetze-im-internet.de/inso/__15a.html
+- § 15b InsO: https://www.gesetze-im-internet.de/inso/__15b.html
+- BGH II ZR 146/09: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=II%20ZR%20146/09
+- BGH II ZR 175/95 (ARAG): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=II%20ZR%20175/95

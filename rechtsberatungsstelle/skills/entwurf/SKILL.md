@@ -38,7 +38,7 @@ Beachte: Rechtliche Beratungsleistungen an Einzelpersonen durch Studierende erfo
 - BGH, Urt. v. 16.07.2015 – IX ZR 197/14, NJW 2015, 3087 Rn. 20 — Anwaltliche Sorgfaltspflicht bei der Erstellung von Schriftsätzen; sinngemäß auf Beratungsstellen unter Aufsicht übertragbar.
 - BAG, Urt. v. 27.02.2020 – 2 AZR 570/19, NZA 2020, 901 Rn. 12 — Formvoraussetzungen und Klarheit eines Beendigungsschreibens im Arbeitsrecht; Schriftformgebot des § 623 BGB.
 - BVerwG, Urt. v. 20.02.2019 – 6 C 1/18, NVwZ 2019, 735 Rn. 8 — Formwirksamkeit des Widerspruchs im Verwaltungsverfahren; Anforderungen an Bestimmtheit und Begründung.
-- BGH, Urt. v. 06.07.2021 – VI ZR 40/20, NJW 2021, 3055 Rn. 18 — Inhaltliche Anforderungen an Mahnschreiben und Forderungsbriefe; keine Irreführung nach §§ 3, 5 UWG.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 
 ### Kommentarliteratur
 

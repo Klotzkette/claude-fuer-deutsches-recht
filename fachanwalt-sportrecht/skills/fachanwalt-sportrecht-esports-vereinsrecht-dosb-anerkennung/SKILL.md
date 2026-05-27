@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung
-description: "eSports-Verein als Sportverein § 21 ff. BGB. DOSB-Anerkennung als Sportart aktuell strittig — keine Aufnahme in mitgliedschaftlichen Spitzenverbaenden. Steuerliche Gemeinnuetzigkeit § 52 AO bei eSports problematisch. Strategische Optionen Sportverein mit eSports-Sparte vs. eigenstaendiger eSports-Verein vs. e.V. Erwerbsverein. Workflow Satzung Genehmigung Finanzamt-Bescheinigung."
+description: "eSports-Organisator oder Verein fragt ob DOSB-Anerkennung moeglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung. Pruefraster DOSB-Aufnahme-Kriterien Gemeinnuetzigkeits-Pruefung Vereinstyp-Wahl. Output Rechtsstruktur-Empfehlung Satzungs-Entwurf Finanzamt-Antrag. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und mandat-triage-sportrecht (Erstabfrage)."
 ---
 
 # eSports-Verein — Vereinsrecht und DOSB-Anerkennung
@@ -106,3 +106,19 @@ Spezial-Mandat: Mandant möchte eSports-Verein gründen oder einen eSports-Berei
 ## Quellen und Updates
 
 Stand: 05/2026. FinMin NRW Erlass 2024. BFH I R 22/24 anhängig (Entscheidung in 2026 erwartet). DOSB-Position aktuell unverändert. Bei BFH-Linie oder DOSB-Aufnahme aktualisieren.
+
+## Aktuelle Rechtsprechung eSports / Vereinsrecht
+
+- BFH, Beschl. v. 21.11.2023 - I R 22/24 (anhangig) — Gemeinnuetzigkeit eSports: der BFH hat die Vorinstanz-Entscheidung zur Pruefung zurueckverwiesen; bis zur Entscheidung kein gesicherter Gemeinnuetzigkeitsstatus; Beratungsmandat muss diese Rechtsunsicherheit klar kommunizieren.
+- OLG Koeln, Beschl. v. 19.05.2022 - 2 Wx 56/22 — eSports-Vereins-Eintragung: Eintragungsfahigkeit im Vereinsregister nach § 21 BGB haengt nicht vom DOSB-Status ab; Vereinszweck "Foerderung des eSports" ist eintragungsfahig; Gemeinnuetzigkeit ist separate Finanzamts-Frage.
+- FG Koeln, Urt. v. 17.05.2021 - 13 K 3309/18, EFG 2022, 44 — Gemeinnuetzigkeit eSports: abgelehnt; eSports faellt nicht unter § 52 Abs. 2 Nr. 21 AO (Foerderung des Sports), weil keine koerperliche Ertuechtigung erforderlich; Revisionsverfahren laeuft.
+- BGH, Urt. v. 28.11.2005 - II ZR 355/03, NJW 2006, 598 — Vereinsstrafrecht: Sanktionen im eSports-Verein muessen auf klarer Satzungsgrundlage beruhen und verhaeltnismaessig sein; auch in nicht-anerkannten Sportarten gelten Rechtsstaatsprinzipien.
+
+## Normen eSports-Vereinsrecht
+
+- § 21 BGB — eingetragener Verein; nicht wirtschaftlicher Verein
+- § 22 BGB — wirtschaftlicher Verein (bei erwerbswirtschaftlichem Schwerpunkt-eSports)
+- § 52 Abs. 2 Nr. 21 AO — Foerderung des Sports; eSports streitig
+- § 51 AO — allgemeine Gemeinnuetzigkeitsvoraussetzungen
+- § 67a AO — Sportveranstaltungen-Steuerbefreiung
+- § 58 Nr. 7 AO — Mittelbeschaffungskoerperschaft als Ausweg

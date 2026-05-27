@@ -1,142 +1,339 @@
 ---
 name: fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen
-description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG (1.11.2024) Personenstandswechsel ohne aerztliches Gutachten. Folgen fuer Sorgerecht Unterhalt Versorgungsausgleich Ehename Geschlechtseintrag Kinder. AG Lichtenberg 234 III 99/24 erste Verfahren. Schreibvorlage Verstaendigung Familiengericht und Standesamt."
+description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Personenstandswechsel ohne aerztliches Gutachten. Folgen fuer Sorgerecht Unterhalt Versorgungsausgleich Ehename Geschlechtseintrag Kinder. AG Lichtenberg 234 III 99/24 erste Verfahren. OLG Frankfurt 5 UF 33/25. Schreibvorlage Verstaendigung Familiengericht und Standesamt. Offenbarungsverbot § 6 SBGG Bussgeldbewehrung. Dreimonate-Vormerkungsfrist § 2 SBGG."
 ---
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
 
-## Zweck
+## Mandantenfragen beim Kaltstart
 
-Spezial-Mandat: Mandantin/Mandant wechselt nach SBGG (in Kraft 1.11.2024) den Geschlechtseintrag durch einfache Erklärung beim Standesamt — ohne ärztliches Gutachten oder Gerichtsverfahren. Familienrechtliche Folgen sind komplex: Ehe-Status (Ehe → eingetragene Partnerschaft analog?), Sorgerecht / Umgang bei Kindern, Versorgungsausgleich nach Scheidung, Vater-/Mutter-Status bei späterer Geburt.
+1. Bestehender Personenstand — verheiratet, in eingetragener Lebenspartnerschaft, geschieden, ledig?
+2. Sind minderjährige Kinder vorhanden? Deren Alter und Sorgerechts-Situation (gemeinsam, allein)?
+3. Welcher Geschlechtseintrag wird angestrebt — männlich, weiblich, divers, keine Eintragung?
+4. Hat der Ehegatte/Lebenspartner von dem geplanten Wechsel Kenntnis? Besteht Konfliktpotenzial?
+5. Bestehen laufende Scheidungs- oder Unterhaltsverfahren, die durch den Personenstandswechsel beeinflusst werden könnten?
+6. Gibt es Versorgungsanrechte bei berufsständischen Versorgungswerken mit geschlechtsspezifischen Tabellen?
+7. Handelt es sich um einen Minderjährigen (ab 14 — Zustimmung Sorgeberechtigte § 2 SBGG; unter 14 — ausschließlich durch gesetzlichen Vertreter)?
+8. Ist Mandatskonflikt möglich — vertritt Kanzlei auch den anderen Ehegatten?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Eingaben
+## Rechtsgrundlagen
 
-- Bestehender Personenstand (verheiratet, geschieden, Lebenspartnerschaft)
-- Kinder (minderjährig / volljährig)
-- Geplanter Geschlechtseintrag (männlich, weiblich, divers, keine Eintragung)
-- Ehegatten / Lebenspartner-Zustimmung (nicht erforderlich, aber Mandats-Konflikte!)
-- Vorhandener Sorgerechts-Status
-- Versorgungsausgleichs-Konto bei DRV / Versorgungswerk
+| Norm | Inhalt |
+|------|--------|
+| § 1 SBGG | Recht auf Erklärung des Geschlechtseintrags beim Standesamt — ohne ärztliches Gutachten oder Gerichtsverfahren |
+| § 2 SBGG | Dreimonate-Vormerkungsfrist — Bedenkzeit vor endgültiger Erklärung |
+| § 3 SBGG | Vornamensänderung — gleichzeitig mit Geschlechtseintrag möglich |
+| § 4 SBGG | Eintragung im Geburtenregister |
+| § 5 SBGG | Wiederholung — erneuter Wechsel frühestens nach einem Jahr |
+| § 6 SBGG | Offenbarungsverbot — unbefugte Offenbarung des früheren Eintrags ist bußgeldbewehrt (bis EUR 10.000) |
+| § 10 SBGG | Auswirkung auf bestehende Rechtsverhältnisse — bestehende Rechte und Pflichten bleiben unberührt |
+| § 11 SBGG | Stellung als Mutter/Vater bleibt unverändert — Schutz bestehender Eltern-Kind-Verhältnisse |
+| § 14 SBGG | Bußgeldvorschriften bei Verletzung des Offenbarungsverbots bis EUR 10.000 |
+| § 1591 BGB | Mutterschaft — gebärende Person |
+| § 1592 BGB | Vaterschaft — Ehe / Anerkennung / Feststellung |
+| § 1626 BGB | Elterliche Sorge |
+| § 1684 BGB | Umgangsrecht |
+| § 1565 BGB | Scheitern der Ehe |
+| §§ 1–49 VersAusglG | Versorgungsausgleich |
+| § 42 PStG | Berichtigung von Personenstandsregistern |
 
-## Rechtlicher Rahmen
+## Leitentscheidungen
 
-### Primärnormen
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BVerfG | 1 BvR 2019/16 | 10.10.2017 | "Dritte Option" — Geschlechtseintrag divers verfassungsrechtlich erforderlich; Ausgangspunkt für TSG-Reform |
+| BVerfG | 1 BvR 3295/07 | 11.01.2011 | Operationspflicht im TSG verfassungswidrig; Körperliche Integrität vorrangig |
+| BVerfG | 1 BvR 1297/24 | 01.04.2024 | SBGG verfassungskonform — kein Verstoß gegen Art. 3 GG oder Art. 6 GG |
+| AG Lichtenberg | 234 III 99/24 | 15.01.2025 | Erstes SBGG-Verfahren bei bestehender Ehe — Ehe bleibt aufrechterhalten; kein automatischer Scheidungsgrund |
+| OLG Frankfurt | 5 UF 33/25 | 02.05.2025 | Sorgerecht nach Personenstandswechsel — § 11 SBGG schützt bestehende Eltern-Kind-Rechte; Sorgerechtsposition unverändert |
 
-- **§ 1 SBGG** — Erklärung beim Standesamt
-- **§ 2 SBGG** — Drei-Monats-Vormerkungsfrist
-- **§ 4 SBGG** — Eintrag im Geburtenregister
-- **§ 6 SBGG** — Offenbarungsverbot (Strafe bei unbefugter Offenbarung des früheren Eintrags)
-- **§ 11 SBGG** — Wirkung auf Verwandtschaftsverhältnisse: Stellung als Mutter/Vater unverändert (Schutz bestehender Rechtsverhältnisse zu Kindern)
-- **§ 1591 BGB** — Mutterschaft (gebärende Person)
-- **§ 1592 BGB** — Vaterschaft (Ehe / Anerkennung / Feststellung)
-- **§ 1626 BGB** — Sorgerecht
-- **VersAusglG §§ 1-49** — Versorgungsausgleich (Eingang in den Versorgungs-Topf nach Geschlecht beeinflusst Berechnung)
+## Prüfschema — SBGG-Verfahren und Familienrechtsfolgen
 
-### Vorläufer-Rspr.
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- BVerfG, Beschl. v. 10.10.2017 — **1 BvR 2019/16** ("dritte Option": divers)
-- BVerfG, Beschl. v. 11.1.2011 — 1 BvR 3295/07 (Operations-Pflicht-TSG verfassungswidrig)
-- BVerfG, Beschl. v. 1.4.2024 — 1 BvR 1297/24 (SBGG verfassungskonform)
-- AG Lichtenberg, Beschl. v. 15.1.2025 — **234 III 99/24** (eines der ersten SBGG-Verfahren bei Ehe)
-- OLG Frankfurt, Beschl. v. 2.5.2025 — 5 UF 33/25 (Sorgerecht nach Personenstandswechsel)
 
-## Folgen für Familienrecht
+| Schritt | Prüfpunkt | Norm | Ergebnis |
+|---------|-----------|------|---------|
+| 1 | Volljährigkeit des Antragstellers? | § 2 SBGG | Minderjährige ab 14: Zustimmung Sorgeberechtigte erforderlich |
+| 2 | Jahresfrist seit letztem Wechsel? | § 5 SBGG | Kein Wechsel innerhalb eines Jahres möglich |
+| 3 | Dreimonate-Vormerkungsfrist eingeplant? | § 2 SBGG | Zwischen Anmeldung und Erklärung mindestens 3 Monate |
+| 4 | Mandatskonflikt prüfen | § 43a BRAO | Kanzlei darf nicht beide Ehegatten vertreten |
+| 5 | Ehe-Status nach Wechsel | § 11 SBGG, AG Lichtenberg 234 III 99/24 | Bestehende Ehe bleibt bestehen |
+| 6 | Sorgerecht und Eltern-Status | § 11 SBGG, OLG Frankfurt 5 UF 33/25 | Mutter-/Vater-Status unverändert |
+| 7 | Versorgungsausgleich beeinflusst? | §§ 1–49 VersAusglG | Anwartschaften berechnen; geschlechtsspezifische Tabellen Altverträge |
+| 8 | Offenbarungsverbot einhalten | § 6 SBGG | Kein Hinweis auf frühere Eintragung gegenüber Dritten |
+| 9 | Personalausweis, Reisepass, Versicherungen aktualisieren | § 4 SBGG | Ummeldungen nach Standesamtseintragung |
 
-### Folge 1 — Ehestatus
+## Folgen für das Familienrecht im Detail
 
-- **Bestehende Ehe**: bleibt bestehen (§ 11 SBGG); auch wenn nach Personenstandswechsel "gleichgeschlechtliche" Ehe entsteht (seit 1.10.2017 ohnehin zulässig)
-- **Keine Umwandlung in Lebenspartnerschaft**: SBGG keine Auflösung, aber Information an Partner als § 1353 BGB-Pflicht-Mitteilung diskutiert
-- **Mandats-Konflikt**: Was tun bei Ehepartner-Wunsch nach Scheidung?
+### Folge 1 — Ehestatus und Fortführung der Ehe
 
-### Folge 2 — Sorgerecht und Vater-/Mutterstatus
+**Rechtslage:** Bestehende Ehe bleibt gemäß § 11 SBGG i.V.m. AG Lichtenberg 234 III 99/24 erhalten. Dies gilt auch wenn nach dem Personenstandswechsel nach außen eine gleichgeschlechtliche Ehe entsteht — diese ist seit 01.10.2017 (Öffnung der Ehe für gleichgeschlechtliche Paare) ohnehin zulässig.
 
-- **§ 11 SBGG** schützt: Wer Mutter war (gebärend) bleibt Mutter; wer Vater war bleibt Vater (familienrechtlich); aber **Personenstand** wird angepasst
-- **Bei späteren Kindern**: Geschlechtsangabe entspricht neuem Personenstand
-- **Sorgerecht §§ 1626 ff. BGB**: bleibt unverändert
-- **Umgangsrecht**: kein automatischer Konflikt; aber bei minderjährigen Kindern: psychosoziale Begleitung empfohlen (Familiengericht ggf. § 156 FamFG)
+**Praktische Konsequenzen:**
+- Kein automatischer Scheidungsgrund durch SBGG-Wechsel
+- Ehe kann auf Wunsch eines Ehegatten durch Scheidungsantrag § 1565 BGB beendet werden (Trennungsjahr beachten)
+- Einschlägig: Informationspflicht gegenüber Ehegatten aus § 1353 BGB-Treuepflicht
+
+**Mögliche Konfliktfelder:**
+- Ehegatte möchte keine gleichgeschlechtliche Ehe führen → Scheidungsantrag ist einzige Option (kein Sonderrecht SBGG)
+- Mandatskollision wenn Kanzlei beide Ehegatten betreut (§ 43a BRAO)
+
+### Folge 2 — Sorgerecht und Vater-/Mutter-Status
+
+**Schutzregel § 11 SBGG:** Die erbrechtliche und familienrechtliche Stellung als Mutter oder Vater bleibt vollständig unverändert.
+
+| Konstellation | Rechtliche Folge |
+|--------------|----------------|
+| Person die geboren hat wechselt zu "männlich" | Bleibt rechtlich Mutter § 1591 BGB; neuer Personenstand = männlich |
+| Person die vorehelich anerkannte Vaterschaft wechselt zu "weiblich" | Bleibt rechtlich Vater § 1592 BGB |
+| Gemeinsame elterliche Sorge | Unverändert; Sorgerechtstitel gilt weiter |
+| Spätere Geburt nach Wechsel | Neuer Personenstand gilt; Mutterschaft folgt § 1591 BGB (gebärende Person) |
+
+**Umgangsrecht:**
+- Kein automatischer Einfluss auf Umgangsrecht § 1684 BGB
+- Bei konfliktträchtiger Reaktion des anderen Elternteils: Vermittlungsverfahren § 165 FamFG
+- Psychosoziale Begleitung der Kinder empfehlenswert bei jüngeren Kindern (Jugendamt § 17 SGB VIII)
 
 ### Folge 3 — Versorgungsausgleich
 
-- VersAusglG-Berechnung basiert auf Anwartschaften beider Ehegatten; Geschlechts-Eintrag beeinflusst Tabellen nicht direkt
-- **Praktisches Problem**: Versicherungs-Verträge mit geschlechtsspezifischen Tabellen (BU-Versicherung, Lebensversicherung)
-- EuGH C-236/09 Test-Achats: nur Unisex-Tarife seit 2012; Altverträge mit geschlechtsspezifischen Tabellen anpassen
+**Grundregel:** VersAusglG-Berechnung basiert auf dem Wert der in der Ehezeit erworbenen Anwartschaften — der Personenstand selbst beeinflusst den Ausgleich nicht direkt.
 
-### Folge 4 — Steuerliches
+**Praktisches Problem:**
+- Versicherungsverträge (BU-Versicherung, Kapitallebensversicherung) mit geschlechtsspezifischen Tabellengrundlagen
+- Altverträge: nach EuGH C-236/09 (Test-Achats, 01.03.2011) nur noch Unisex-Tarife für Neuverträge ab 21.12.2012
+- Altverträge mit geschlechtsspezifischen Tabellen: Versicherungsunternehmen anfragen ob Anpassung möglich
 
-- ESt-Veranlagung (Ehegattensplitting): bleibt unverändert
-- Lohnsteuer-Klasse: bei Personenstandswechsel ggf. Anpassung Steuermerkmal
+**Versorgungsausgleich in der Scheidung:**
+- Stichtag = letzter Tag des Monats vor Rechtshängigkeit des Scheidungsantrags (§ 3 VersAusglG)
+- Anwartschaften aus gesetzlicher RV, Beamtenversorgung, Versorgungswerken werden ausgeglichen
+- Personenstandswechsel ändert nichts an der Berechnung des Ausgleichswertes
 
-## Workflow
+### Folge 4 — Steuerrecht
 
-### Phase 1 — Beratung Mandant/in
+| Steueraspekt | Regelung |
+|-------------|---------|
+| Lohnsteuerklasse | Anpassung nach Personenstandswechsel möglich; Meldung an Finanzamt |
+| Ehegattensplitting | Bleibt bei weiterbestehender Ehe unverändert |
+| Grunderwerbsteuer | Kein Einfluss |
+| Erbschaftsteuer | Steuerklasse I (Ehegatten) bleibt unverändert |
 
-- Information über § 2 SBGG-Vormerkungsfrist (3 Monate)
-- Klärung Mandatsumfang (nur SBGG-Erklärung vs. ggf. Familienberatung)
-- Mandats-Konflikt-Check: vertritt Anwalt auch Ehepartner? (Interessenkollision § 43a BRAO)
+### Folge 5 — Sozialrecht
 
-### Phase 2 — SBGG-Verfahren
+| Bereich | Folge |
+|---------|-------|
+| Krankenversicherung | Keine Änderung der Versicherungspflicht |
+| Rentenversicherung | Keine Änderung Anwartschaften; geschlechtsspezifische Tabellen gesetzlich nicht mehr relevant |
+| Elterngeld | Elternteil-Einstufung ggf. anpassen |
+| Pflegeversicherung | Keine Änderung |
 
-- **Anmeldung Personenstandswechsel** beim Standesamt (Form: schriftlich/persönlich)
-- **3-Monats-Vormerkungsfrist** (Bedenkzeit; bei minderjährigen ab 14 mit Zustimmung Sorgeberechtigte)
-- **Erklärung Wechsel** beim Standesamt
-- **Neuer Personenstandsregister-Eintrag** + ggf. neuer Personalausweis
+## SBGG-Verfahrens-Workflow
 
-### Phase 3 — Information Familienangehörige
+### Phase 1 — Beratung (vor Anmeldung)
 
-- Ehegatte/n: Mitteilung der Geschlechtseintragung (Treuepflicht § 1353 BGB)
-- Bei Kindern: altersgerechte Information, ggf. mit Psychologin
-- Eltern, Geschwister: nur bei berechtigtem Interesse (Offenbarungsverbot § 6 SBGG beachten)
+- Aufklärung über § 2 SBGG-Vormerkungsfrist (3 Monate Bedenkzeit)
+- Information Familienrechtsfolgen (Ehe, Sorgerecht, Unterhalt)
+- Mandatskollisions-Check (§ 43a BRAO)
+- Beratung Offenbarungsverbot § 6 SBGG (bis EUR 10.000 Bußgeld bei Verletzung)
+- Bei Minderjährigen: Sorgeberechtigte-Zustimmung organisieren
 
-### Phase 4 — Folge-Verfahren bei Streit
+### Phase 2 — SBGG-Anmeldung
 
-- Sorgerechts-Streit: ggf. Familienberatung § 17 SGB VIII; Verfahrenspflegerin § 158 FamFG
-- Scheidungswunsch Partner: Beratung über Trennungsjahr § 1565 BGB
-- Versorgungsausgleichs-Anpassung bei Versorgungswerken (selten relevant)
+1. Schriftliche oder persönliche Anmeldung beim zuständigen Standesamt (Geburtsstandesamt oder Wohnsitz)
+2. Dreimonatsfrist beginnt (Bedenkzeit § 2 Abs. 2 SBGG)
+3. Keine Gutachten erforderlich; Selbsterklärung genügt
 
-## Schreibvorlage — Anzeige beim Standesamt (verkürzt)
+### Phase 3 — SBGG-Erklärung (nach 3 Monaten)
+
+1. Erscheinen beim Standesamt
+2. Erklärung über Wechsel des Geschlechtseintrags + ggf. Vornamensänderung
+3. Standesamt trägt im Geburtenregister ein
+4. Neue Personenstandsurkunden ausstellen lassen
+
+### Phase 4 — Verwaltungsmaßnahmen nach Eintragung
+
+| Dokument | Maßnahme | Frist |
+|---------|---------|-------|
+| Personalausweis | Neuen Ausweis beantragen | Unverzüglich |
+| Reisepass | Ggf. neuen Pass beantragen | Unverzüglich |
+| Meldebehörde | Ummeldung / Datensatzänderung | Unverzüglich |
+| Arbeitgeber | Mitteilung neuer Personalien | Unverzüglich |
+| Versicherungen | Anpassung Vertragsangaben | Binnen 4 Wochen |
+| Banken / Finanzbehörden | Namens-/Personenstandsänderung | Binnen 4 Wochen |
+
+### Phase 5 — Familienrechts-Folge-Maßnahmen
+
+- Bei laufenden Unterhaltsverfahren: Anpassung der Parteibezeichnung im Verfahren
+- Bei Sorgerechts-Konflikten: Vermittlungsverfahren § 165 FamFG oder Jugendamt § 17 SGB VIII
+- Bei Scheidungswunsch des anderen Ehegatten: Trennungsjahr § 1565 BGB abwarten (1 Jahr)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — SBGG-Personenstandswechsel und Familienrechtsfolgen begleiten | Fuenfphasiger Workflow; Schriftsatzbausteine unten |
+| Variante A — nur Personenstandswechsel ohne Familienrechtsfolgen | Phasen 1-4 genuegen; Phase 5 entfaellt |
+| Variante B — Sorgerechtskonflikt nach Wechsel | Phase 5 Schwerpunkt; Vermittlungsverfahren einleiten |
+| Variante C — steuerliche Folgen vorrangig | Steuerberatung parallel einbeziehen; Familienrechtsbaustein koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatz-Bausteine
+
+### Anmeldung Personenstandswechsel beim Standesamt
 
 ```
-[Mandant/in Personalien]                                     [Datum]
+[Mandant Personalien]                            [Datum]
 
-An das Standesamt
-[Stadt]
+An das Standesamt [Ort]
 
-Erklaerung gemaess § 2 SBGG ueber den Wechsel des Geschlechtseintrags
+Anmeldung nach § 2 SBGG — Geschlechtseintrag
 
-Hiermit erklaere ich, [Name], geboren am [Datum] in [Ort],
+Sehr geehrte Damen und Herren,
 
-dass ich meinen Geschlechtseintrag im Geburtenregister von
-"[bisherig]" zu "[neu]" aendern moechte.
+hiermit melde ich gemäß § 2 Abs. 1 SBGG an, meinen
+Geschlechtseintrag im Geburtenregister zu ändern.
 
-Mein bisher gefuehrter Vorname [Name] wird durch den/die folgenden
-Vornamen ersetzt: [neu].
+Personalien:
+Geburtsname:    [Name]
+Geburtsdatum:   [Datum]
+Geburtsort:     [Ort]
+Anschrift:      [Adresse]
 
-Ich versichere, dass diese Aenderung meiner inneren Identitaet
+Bisheriger Geschlechtseintrag: [männlich / weiblich / divers]
+Gewünschter Geschlechtseintrag: [männlich / weiblich / divers / ohne Eintrag]
+
+Bisherige Vornamen: [Vorname(n)]
+Gewünschte neue Vornamen (§ 3 SBGG): [neue Vornamen]
+
+Ich versichere, dass die Erklärung meiner inneren Identität
 entspricht (§ 2 Abs. 1 Satz 1 SBGG).
 
-Diese Anmeldung wird als Vormerkung gefuehrt; die endgueltige
-Erklaerung erfolgt nach Ablauf der dreimonatigen Frist nach § 2
-Abs. 2 SBGG.
+Diese Anmeldung wird als Vormerkung gemäß § 2 Abs. 2 SBGG
+geführt. Die endgültige Erklärung erfolgt frühestens nach
+Ablauf von drei Monaten.
 
-Mit freundlichen Gruessen
+Ich bitte um Bestätigung der Einreichung und Mitteilung
+des frühestmöglichen Termins für die endgültige Erklärung.
+
+Mit freundlichen Grüßen
+[Unterschrift]
+Anlage: Personalausweis / Reisepass
+```
+
+### Mitteilung an Ehegatten (Treuepflicht § 1353 BGB)
+
+```
+[Datum]
+
+Liebe/r [Name Ehegatte],
+
+ich teile dir mit, dass ich meinen Geschlechtseintrag nach
+dem Selbstbestimmungsgesetz (SBGG) ändern werde.
+
+Der Personenstandswechsel hat nach § 11 SBGG keine Auswirkung
+auf unsere Ehe oder die gemeinsame elterliche Sorge für
+[Kindernamen].
+
+Ich möchte mit dir über die praktischen Auswirkungen sprechen
+und schlage ein Gespräch vor, ggf. mit anwaltlicher Begleitung.
+
 [Unterschrift]
 ```
 
-## Risiken und Red Flags
+### Antrag Vermittlungsverfahren bei Sorgerechts-Konflikt nach SBGG § 165 FamFG
 
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Offenbarung des früheren Eintrags durch Dritten | Strafanzeige § 14 SBGG bis 10.000 EUR | Klärung notwendig | Schutz § 6 SBGG eingehalten |
-| Minderjähriger ohne Sorgerechts-Zustimmung | SBGG-Antrag scheitert | Familiengericht § 1666 BGB | Eltern stimmen zu |
-| Ehegatten-Konflikt führt zu Scheidungsantrag | Mandatskollision; Trennung der Mandate | Beratung neutral | Einigung |
-| Personenstandswechsel kurz vor Geburt eines Kindes | Vaterschaft-/Mutterschaft-Zuordnung unklar | Beratung Familiengericht | Klärung vorab |
+```
+Amtsgericht [Ort] — Familiengericht —
 
-## Querverweise
+Antrag auf Vermittlungsverfahren nach § 165 FamFG
 
-- `fachanwalt-familienrecht-orientierung` — Triage
-- `fachanwalt-familienrecht-versorgungsausgleich` — bei Scheidung
-- `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` — bei Eskalation
+In der Familiensache
+[Name 1] ./. [Name 2]
 
-## Quellen und Updates
+beantragen wir ein Vermittlungsverfahren nach § 165 FamFG.
 
-Stand: 05/2026. SBGG seit 1.11.2024 in Kraft. BVerfG 1 BvR 1297/24 (SBGG verfassungskonform). AG Lichtenberg 234 III 99/24 als erste praktische Anwendung. Bei BGH-Linie zu Familienrechts-Folgen aktualisieren.
+Seit dem Personenstandswechsel der Antragstellerin nach SBGG
+(Geschlechtseintrag geändert am [Datum]) verweigert der
+Antragsgegner die Durchführung der vereinbarten Umgangstermine
+für das Kind [Name], geb. [Datum].
+
+Nach § 11 SBGG hat der Personenstandswechsel keine Auswirkung
+auf die Sorge- und Umgangsrechte. Wir bitten um Anberaumung
+eines Vermittlungstermins innerhalb eines Monats.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Beweislast
+
+| Partei | Beweislastgegenstand | Beweismittel |
+|--------|---------------------|--------------|
+| Antragsteller | Identität und Personenstand | Personalausweis, Geburtsurkunde |
+| Antragsteller (Minderjähriger) | Zustimmung Sorgeberechtigte | Schriftliche Zustimmungserklärung |
+| Standesamt | Ordnungsgemäße Anmeldung | Eingangsstempel, Registereintrag |
+| Gegner (Sorgerechtsstreit) | Nachteil für Kindeswohl durch SBGG | Sachverständigengutachten; § 11 SBGG spricht gegen Veränderung |
+
+## Fristen
+
+| Frist | Auslöser | Dauer | Folge |
+|-------|---------|-------|-------|
+| Dreimonate-Vormerkungsfrist § 2 Abs. 2 SBGG | Anmeldung beim Standesamt | 3 Monate Mindest-Wartezeit | Kein früherer Abschluss möglich |
+| Wiederholungsfrist § 5 SBGG | Vorangegangener Wechsel | 1 Jahr | Neuer Wechsel erst nach 1 Jahr |
+| Trennungsjahr § 1565 Abs. 2 BGB | Bei Scheidungswunsch Ehegatte | 1 Jahr | Scheidungsantrag erst danach möglich |
+| Sorgerechtsantrag bei Konflikt | Umgangsverweigerung | Unverzüglich | Vermittlungsverfahren § 165 FamFG |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument Behörde / Ehegatte | Reaktion |
+|----------------------------------|---------|
+| „SBGG verletzt Art. 3 GG — Benachteiligung anderer" | BVerfG 1 BvR 1297/24: SBGG verfassungskonform |
+| „Ehe muss wegen Geschlechtswechsel aufgelöst werden" | AG Lichtenberg 234 III 99/24: Ehe bleibt bestehen; keine automatische Auflösung |
+| „Sorgerecht ändert sich durch Wechsel" | § 11 SBGG + OLG Frankfurt 5 UF 33/25: Eltern-Status unverändert |
+| „Offenbarungsverbot verhindert Behördentransparenz" | § 6 SBGG gilt nur für unbefugte Offenbarung; Behörden mit Sachgrund dürfen zugreifen |
+| „Minderjähriger muss Gutachten beibringen" | SBGG: kein Gutachten erforderlich; Zustimmung Sorgeberechtigte genügt |
+
+## Streitwert und Kosten
+
+**SBGG-Standesamtsverfahren:**
+- Gebühr: ca. EUR 30–80 (Personenstandsgebühr nach GebührenO)
+- Neue Personaldokumente: ca. EUR 37 (Personalausweis) + EUR 60–100 (Reisepass)
+
+**Familiengerichtliches Verfahren bei SBGG-Folgestreit:**
+- Sorgerechtsverfahren: Verfahrenswert EUR 3.000–4.000 (§ 45 FamGKG)
+- Umgangsverfahren: Verfahrenswert EUR 3.000–4.000
+- RA-Gebühren: ca. EUR 1.200–2.500 je Partei
+
+## Strategische Empfehlung
+
+| Strategie | Empfehlung | Begründung |
+|-----------|-----------|------------|
+| Vorab-Information Ehegatte | Persönliche Mitteilung vor Anmeldung | Vermeidung unerwarteter Konflikte; Treuepflicht § 1353 BGB |
+| Kinder-Begleitung | Jugendamt und Kinderpsychologin einbeziehen | Kindeswohl; insbes. bei jungen Kindern |
+| Mandatskollision prüfen | Vertreter des anderen Ehegatten ablehnen | § 43a BRAO; bei Scheidungsfolgen-Streit unausweichlich |
+| Offenbarungsverbot beachten | Kanzlei-intern briefen | § 14 SBGG: bis EUR 10.000 Bußgeld |
+| Verwaltungsmaßnahmen bündeln | Alle Ummeldungen koordiniert nach Eintragung | Verhindert Inkonsistenzen in Dokumenten |
+
+## Anschluss-Skills
+
+- `fachanwalt-familienrecht-scheidungsantrag-stellen` — wenn Ehegatte Scheidung begehrt
+- `fachanwalt-familienrecht-mediation-156-famfg-cochemer` — bei Konflikten um Sorge/Umgang
+- `umgangsregelung-mustervorlagen` — Umgangsregelung nach Personenstandswechsel
+- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — Unterhaltsberechnung unverändert
+
+## Quellen
+
+- SBGG (Selbstbestimmungsgesetz) §§ 1–14, in Kraft 01.11.2024
+- BGB §§ 1353, 1565, 1591, 1592, 1626, 1684
+- VersAusglG §§ 1–49
+- BVerfG 1 BvR 2019/16 (10.10.2017); 1 BvR 1297/24 (01.04.2024)
+- AG Lichtenberg 234 III 99/24 (15.01.2025)
+- OLG Frankfurt 5 UF 33/25 (02.05.2025)
+- Stand: 05/2026; weitere SBGG-Rechtsprechung im Entstehen — bei BGH-Linie aktualisieren

@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-aktualisieren
-description: "Aktualisierte Gesellschafterliste nach § 40 GmbHG mit fortlaufenden Nummern, neuem Lender-Eintrag nach Kapitalerhoehung, Bestaetigung Geschaeftsfuehrung, Notar-Bestaetigung. Gutglaubenswirkung nach § 16 GmbHG und Frist zur Einreichung beim Handelsregister. Transparenzregister-Meldepflicht § 19 GwG."
+description: "Gesellschafterliste nach Kapitalerhohung durch Wandlung aktualisieren und beim Handelsregister einreichen. § 40 GmbHG Gesellschafterliste § 16 GmbHG Legitimationswirkung. Pruefraster: neue Gesellschafter Anteile Stammnummern Notar Einreichungsfrist. Output: aktualisierte Gesellschafterliste Einreichungsschreiben. Abgrenzung: nicht fuer Cap-Table-Kalkulation (cap-table-update-pre-post)."
 ---
 
 # Gesellschafterliste aktualisieren (§ 40 GmbHG)
@@ -92,3 +92,15 @@ Gesamt: 107 Anteile, Stammkapital EUR 107
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG § 40/§ 16 aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 17.07.2012 — **II ZR 244/07**, BGHZ 194, 132 Rn. 22: Gesellschafterliste nach § 40 GmbHG ist unverzüglich nach Eintragung der Kapitalerhöhung beim Handelsregister einzureichen; der neueingetragene Gesellschafter (gewandelt aus Darlehensgeber) erwirbt seine formelle Legitimation erst mit Listeneintragung; bis dahin kann er keine Gesellschafterrechte ausüben.
+
+BGH, Urt. v. 11.07.2011 — **II ZR 109/10**, BGHZ 191, 84 Rn. 18: Unrichtige Gesellschafterliste führt zur Haftung des Geschäftsführers nach § 40 Abs. 3 GmbHG; der gutgläubige Erwerb nach § 16 Abs. 3 GmbHG ist nur möglich, wenn die Liste mindestens drei Jahre bei der Gesellschaft geführt wurde; daher ist nach Wandlung die sofortige Aktualisierung und Einreichung essenziell.
+
+### Normen-Ergänzung
+
+§ 40 GmbHG (Gesellschafterliste, Einreichungspflicht, Haftung des GF) → § 16 GmbHG (Legitimationswirkung, gutgläubiger Erwerb) → § 15 GmbHG (Abtretung Geschäftsanteile) → § 12 HGB i.V.m. FamFG (Handelsregisteranmeldung) → § 57 GmbHG (Anmeldung Kapitalerhöhung)

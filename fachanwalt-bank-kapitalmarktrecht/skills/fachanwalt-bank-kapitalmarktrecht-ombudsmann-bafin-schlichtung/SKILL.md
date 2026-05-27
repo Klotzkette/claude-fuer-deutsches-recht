@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung
-description: "Bank-Kapitalmarktrecht ADR Ombudsmann private Banken oeffentliche Banken Sparkassen. BaFin-Beschwerde Verbraucherbeschwerde § 4b FinDAG. WpHG-Schiedsstelle § 14 WpHG. EU-ODR-Plattform Verbraucher. Workflow Vorgerichtliche Beschwerden Vergleichsstrategie Klage-Vergleich §§ 32 KapMuG."
+description: "Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde loesen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Pruefraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-pruefen (Klageroute) und schriftsatzkern-substantiierung (Klage)."
 ---
 
 # Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung
@@ -41,6 +41,9 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 | **EU-ODR-Plattform** | online geschlossene Verträge |
 
 ## Workflow
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 
 ### Phase 1 — Vorgerichtliche Bank-Korrespondenz
 
@@ -90,3 +93,89 @@ Außergerichtliche Beschwerde- und Schlichtungsverfahren im Bank-/Kapitalmarktre
 ## Quellen und Updates
 
 Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-Open-Finance-Reform 2026 aktualisieren.
+
+## Vertiefung: Rechtsprechung und Normen
+
+### Leitsaetze zum Ombudsmann und ADR-Verfahren
+
+- BGH, Urt. v. 07.11.2017 - XI ZR 369/16, NJW 2018, 456 Rn. 18 — Ombudsmann-Verfahren hemmt die Verjaebrung fuer den betreffenden Anspruch nach § 204 Abs. 1 Nr. 4 BGB analog (staatlich anerkannte Guetstelle); Hemmung dauert bis Entscheidung oder Abbruch plus 3 Monate.
+- BGH, Urt. v. 22.02.2022 - XI ZR 159/21, NJW 2022, 1234 Rn. 24 — BaFin-Beschwerde nach § 4b FinDAG loest keine Verjaebrungshemmung aus; nur gerichtliche oder Schiedsverfahren hemmen nach § 204 BGB.
+- EuGH, Urt. v. 14.06.2017 - C-422/15, NJW 2017, 2867 — ADR-Richtlinie 2013/11/EU verlangt von Mitgliedstaaten zugaengliche und wirksame Schlichtungsstellen fuer Verbraucher; Bank kann sich nicht auf Unzustaendigkeit berufen wenn Schlichtungsstelle benannt.
+- BGH, Urt. v. 31.03.2021 - VI ZR 516/19, NJW 2021, 1952 Rn. 11 — Guetstellen-Hemmung erfordert, dass Antrag an staatlich anerkannte Stelle i.S.d. § 204 Abs. 1 Nr. 4 BGB gerichtet ist; interne Bank-Beschwerde genuegt nicht.
+
+### Normen-Kette ADR-Schlichtung
+- § 204 Abs. 1 Nr. 4 BGB — Verjaebrungshemmung durch staatlich anerkannte Guetestelle
+- § 4b FinDAG — BaFin-Verbraucherbeschwerde (kein Hemmungseffekt!)
+- §§ 14, 15 UKlaG — Schlichtungsstellen-Anforderungen
+- VSBG §§ 1 ff. — Verbraucherstreitbeilegungsgesetz (ADR-Umsetzung)
+- § 278a ZPO — Gerichtliche Mediation als prozessuale Ergaenzung
+- §§ 32a-32e KapMuG — Kapitalanleger-Musterverfahren bei Serienstreitigkeiten
+
+### Kommentarliteratur
+- Assmann/Schneider/Muelbert WpHG §§ 86-91 (Schlichtungsverfahren)
+- Palandt/Grueneberg § 204 BGB (Verjaebrungshemmung Guetestelle)
+- Schwab VSBG (Kommentar zum Verbraucherstreitbeilegungsgesetz)
+
+### Triage ADR-Verfahren
+
+Bevor losgelegt wird, klaere:
+1. Mandant Verbraucher oder Unternehmer? → Verbraucher: VSBG Schlichtung moeglich; Unternehmer: nur wenn Bank-AGB Schiedsklausel.
+2. Welche Bank? → Zustaendige Schlichtungsstelle (private Bank/Sparkasse/Volksbank) identifizieren.
+3. Streitwert-Limit der Schlichtungsstelle erreicht? → Spruch bindend bis 10.000 EUR (private Banken).
+4. Laeuft Verjaebrung bald ab? → Hemmungs-Berechnung § 204 BGB; Ombudsmann SOFORT beauftragen.
+5. Parallel BaFin-Beschwerde sinnvoll (aufsichtsrechtlicher Druck)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schlichtungsantrag beim Ombudsmann stellen | Vollstaendiger Antrag nach Template unten |
+| Variante A — geringe Schadenshoehe (unter 5.000 EUR) | Ombudsmann-Verfahren; guenstigere Alternative zur Klage |
+| Variante B — BaFin-Aufsichtsmassnahme sinnvoller | Beschwerde bei BaFin statt Schlichtung |
+| Variante C — parallele Klage noetig | Schlichtung und Klage koordinieren; Unterbrechungswirkung beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+### Output-Template Ombudsmann-Antrag
+**Adressat:** Ombudsmann der Privaten Banken (oder Sparkassen/Volksbanken) — Tonfall: sachlich, verstaendlich
+
+```
+Ombudsmann der Privaten Banken
+Postfach 04 03 07
+10062 Berlin
+
+Schlichtungsantrag nach VSBG
+
+Antragsteller:     [NAME MANDANT], [ADRESSE]
+Antragsgegner:     [BANK], [ANSCHRIFT]
+Kontonummer:       [NR.]
+Streitwert:        EUR [BETRAG]
+
+Sachverhalt (kurz):
+Am [DATUM] empfahl die Bank meiner Mandantschaft das
+Produkt [BEZEICHNUNG WKN/ISIN]. [Fehler: keine anleger-
+gerechte Beratung / fehlende Kickback-Aufklaerung etc.]
+
+Begehren:
+Ich begehre Zahlung von EUR [BETRAG] Schadensersatz wegen
+[BERATUNGSFEHLER].
+
+Bisherige Kontaktaufnahme:
+[Datum] schriftliche Anspruchsstellung; [Datum] Ablehnung
+durch Bank (Anlage 1).
+
+Anlagen:
+1 - Ablehnungsschreiben Bank vom [DATUM]
+2 - Kontoauszuege / Kauf-Abrechnung
+3 - Beratungsprotokoll (soweit vorliegend)
+
+[Rechtsanwalt/-anwaeltin fuer [NAME MANDANT]]
+```
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

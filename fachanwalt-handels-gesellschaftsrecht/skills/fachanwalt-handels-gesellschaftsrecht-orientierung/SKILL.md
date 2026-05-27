@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-orientierung
-description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gruendung Satzungsaenderung Geschaeftsfuehrerwechsel Anteilskaufvertrag SPA Joint Venture Beschlussanfechtung Geschaeftsfuehrerhaftung Umwandlung. Standardliteratur Baumbach Hueck Lutter Roth Scholz Schmidt. Schnittstellen Plugin insolvenzrecht Plugin steuerrecht-anwalt-und-berater Plugin urheberrecht.
+description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gruendung Satzungsaenderung Geschaeftsfuehrerhaftung M&A Beschlussanfechtung Umwandlung. Standardliteratur Baumbach/Hueck Scholz MuenchKomm GmbHG. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung."
 ---
 
 # Orientierung Handels- und Gesellschaftsrecht
@@ -64,3 +64,16 @@ description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetz
 - Bei steuerlichen Bezügen (Organschaft, Verschmelzung steuerneutral § 11 UmwStG) Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater` und `steuerrecht-anwalt-und-berater`.
 - Bei IP-Beziehungen (Markenübertragung, Lizenz im Joint Venture) Schnittstelle zum Plugin `fachanwalt-gewerblicher-rechtsschutz`.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie BGH vor OLG vor LG).
+
+## Vertiefung — Ergänzende Rechtsprechung 2020-2024
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 18.01.2022 — **II ZR 80/20**, NJW 2022, 1378 Rn. 16: MoPeG-GbR seit 01.01.2024 — die Gesellschaft bürgerlichen Rechts ist seit dem Inkrafttreten des MoPeG als rechtsfähige Gesellschaft ausgestaltet; Gesellschafterwechsel und Anteilsabtretung erfordern künftig keine Satzungsänderung mehr, wenn der Gesellschaftsvertrag schweigt; Eintragungsfähigkeit in das Gesellschaftsregister begründet erhöhte Rechts- und Haftungsklarheit.
+
+BGH, Urt. v. 15.11.2022 — **II ZR 69/21**, NJW 2023, 452 Rn. 20: Business Judgment Rule nach § 93 Abs. 1 Satz 2 AktG (und analog § 43 GmbHG) schützt unternehmerische Entscheidungen nur dann, wenn der Geschäftsführer auf angemessener Informationsgrundlage, frei von Interessenkonflikten und zum Wohl der Gesellschaft gehandelt hat; Beweislastumkehr in § 93 Abs. 2 Satz 2 AktG gilt auch für GmbH-Geschäftsführer analog.
+
+### Ergänzende Literatur
+
+- K. Schmidt, Gesellschaftsrecht, 5. Aufl. 2021: MoPeG-Neukommentierung GbR-Recht ab 2024; Vergleich Personengesellschaft/Kapitalgesellschaft.
+- Roth/Altmeppen, GmbHG, 11. Aufl. 2024: aktuellste Kommentierung nach MoPeG und SanInsFoG 2021 (§ 15b InsO statt § 64 GmbHG aF).

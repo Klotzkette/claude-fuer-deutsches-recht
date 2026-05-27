@@ -1,6 +1,6 @@
 ---
 name: glaeubigerausschuss-mitwirkung
-description: Mitwirkung im Glaeubigerausschuss nach §§ 67 ff. InsO und vorlaeufigen Glaeubigerausschuss § 22a InsO. Aufgaben Ueberwachung Insolvenzverwalter Berichtspflichten Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungspruefung Glaeubigerinteressen. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Pruefung. Pflichten Pflichten gewissenhafte Aufgabenwahrnehmung Haftung § 71 InsO. Vorlaeufiger Glaeubigerausschuss § 22a InsO Bestellung schon im Eroeffnungsverfahren bei pflichtigem Unternehmen § 22a Abs. 1 InsO Schwellenwerte. Schutzschirm StaRUG Sonderrolle.
+description: "Mandant ist Mitglied des Glaeubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Pruefraster §§ 67 ff. InsO Glaeubigerausschuss vorlaeufiger Glaeubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Ueberwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungspruefung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Pruefung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: glaeubigerantrag-pruefung fuer Eroefffnungsantrag des Glaeubiger."
 ---
 
 # Gläubigerausschuss-Mitwirkung
@@ -210,3 +210,29 @@ Der Gläubigerausschuss ist das wichtigste Mitwirkungs-Organ der Gläubiger im I
 - Uhlenbruck InsO
 - MüKo InsO
 - HK-InsO
+
+
+## Aktuelle Leitentscheidungen — Glaeubigerausschuss
+
+- BGH, Urt. v. 09.10.2014 — IX ZR 188/13, NZI 2014, 1004 — Glaeubigerausschuss-Haftung: Ausschussmitglieder haften persoenlich nach § 71 InsO wenn sie Pflichten vorsaetzlich oder grob fahrlaeissig verletzen; Verwertungszustimmung ohne Kenntnisnahme des Gutachtens ist grob fahrlaeissig.
+- BGH, Urt. v. 08.10.2009 — IX ZR 178/08, NZI 2010, 51 — Mitwirkungspflichten § 69 InsO: Ausschuss hat Recht und Pflicht auf Information durch IV; IV muss zeitgerecht berichten; bei wichtigen Einzelgeschaeften Zustimmung erforderlich.
+- BGH, Urt. v. 05.07.2007 — IX ZB 197/06 — Bestellung § 67 InsO: Glaeubigerversammlung kann jederzeit neuen Ausschuss waehlen; Abberufung eines Mitglieds aus wichtigem Grund durch Gericht moeglich (§ 70 InsO).
+- BGH, Urt. v. 12.09.2018 — IX ZB 72/16 — Verguetung § 73 InsO: Ausschussmitglieder haben Anspruch auf angemessene Verguetung aus Insolvenzmasse; Festsetzung durch Gericht; Hoehe richten nach Umfang und Schwierigkeit.
+
+## Paragrafenkette Glaeubigerausschuss
+
+§ 67 InsO (Einsetzung) → § 68 InsO (Mitglieder) → § 69 InsO (Pflichten und Rechte) → § 70 InsO (Entlassung) → § 71 InsO (Haftung) → § 72 InsO (Verguetung) → § 73 InsO (Verguetung) → § 160 InsO (besonders bedeutsame Rechtshandlungen)
+
+## Triage — Glaeubigerausschuss
+
+Bevor losgelegt wird, klaere:
+1. **Ausschuss obligatorisch?** § 67 Abs. 2 InsO: bei grossen Verfahren (>250 AN, >6 Mio. EUR Bilanzsumme oder >12 Mio. EUR Umsatz) ist vorlaeufiger Ausschuss zwingend.
+2. **Zustimmungspflicht § 160 InsO?** Welche Geschaefte benoetigen Ausschuss-Zustimmung (Betriebsveraesserung, ungewoehnlich hohe Verbindlichkeiten, Rechtsstreitigkeiten ueber EUR 10.000)?
+3. **Interessenkonflikt?** Ausschussmitglied ist gleichzeitig Glaeubiger und Bieter in Verwertung → § 71 InsO Haftungsrisiko.
+4. **Informations-Hol-Pflicht?** Mitglieder muessen aktiv Informationen vom IV anfordern; passives Warten genuegt nicht.
+
+## Kommentarliteratur
+
+- MüKo InsO/Schmid-Burgk §§ 67-73 InsO Rn. 1 ff. — Glaeubigerausschuss umfassend.
+- Uhlenbruck/Zipperer §§ 67-73 InsO Rn. 1 ff. — Ausschuss-Pflichten und Haftung.
+- Jaeger/Gerhardt § 69 InsO — Informationsrechte und Zustimmungspflichten.

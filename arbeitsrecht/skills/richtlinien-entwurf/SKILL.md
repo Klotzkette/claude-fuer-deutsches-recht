@@ -302,3 +302,8 @@ Anpassungsbedarf.
 - Regelungen kommunizieren — Mitarbeiterinformation ist HR-Aufgabe.
 - Alle denkbaren Jurisdiktionen abdecken — nur den konfigurierten Fußabdruck.
   Bei Erweiterung des Fußabdrucks neu prüfen.
+
+## Ergänzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 16.12.2021 — 7 AZR 432/20**, NZA 2022, 589 — Betriebliche Übung durch drei gleichförmige Gewährungen einer Leistung; einseitige Verschlechterung erfordert Änderungskündigung oder individualvertragliche Vereinbarung; pauschale Disclaimer-Klausel im Handbuch schließt betriebliche Übung nur aus, wenn sie klar und deutlich formuliert ist.
+- **BAG, Urt. v. 24.03.2021 — 10 AZR 16/20**, NZA 2021, 842 — Transparenzgebot § 307 Abs. 1 S. 2 BGB bei vorformulierten Arbeitsrichtlinien; unklare Klauseln über Geltungsbereich oder Ausnahmen gehen zu Lasten des Verwenders.

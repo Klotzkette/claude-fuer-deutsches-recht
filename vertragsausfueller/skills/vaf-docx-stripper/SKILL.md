@@ -1,9 +1,35 @@
 ---
 name: vaf-docx-stripper
-description: "Strippt DOCX-Vorlagen und Altverträge in Text, Absätze, Tabellen, Platzhalter, Klauseln, Anlagen und Signaturblöcke ohne die Originaldatei zu überschreiben."
+description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-Vertragsdokument muss in Absätze, Tabellen, Klauseln, Platzhalter, Anlagen und Signaturblöcke zerlegt werden ohne Originaldatei zu überschreiben. §§ 305 ff. BGB Klauselstruktur, Schriftform-Erfordernisse. Pruefraster DOCX-Zustand prüfen passwortgeschützt oder beschädigt, Track-Changes sichtbar machen, Platzhalter-Typen erkennen, Tabellenstruktur extrahieren. Output strukturiertes Dokumentinventar mit Klausel-Index und Platzhalter-Liste. Abgrenzung zu Template-Erkennung fuer Vertragstyp-Erkennung und zu Feldinventar."
 ---
 
 # DOCX-Stripper
+
+
+## Triage zu Beginn
+
+1. Ist das DOCX vollständig abrufbar oder beschädigt/passwortgeschützt?
+2. Enthält das Dokument Track-Changes-Markierungen die berücksichtigt werden müssen?
+3. Gibt es strukturierte Platzhalter (eckige Klammern, XXX, TBD) oder nur unstrukturierte Freitextfelder?
+4. Sind Tabellen vorhanden die als Feldinventar extrahiert werden sollen?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 15.11.2006 - VIII ZR 166/06, NJW 2007, 674 — Vertragsinhalt bestimmt sich nach dem Wortlaut der schriftlichen Urkunde; bei Widersprüchen zwischen Text und Anlagen gilt der Haupttext.
+- BGH, Urt. v. 14.01.2010 - VII ZR 213/07, NJW 2010, 1283 — Urkunde ist auszulegen nach ihrem objektiven Erklärungsinhalt; späteres Verhalten der Parteien als Auslegungshilfe.
+- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1706 — Vertragsauslegung bei widersprüchlichen AGB-Klauseln: Spezialklausel geht Generalklausel vor.
+- BGH, Urt. v. 05.12.2019 - IX ZR 189/18, NJW 2020, 673 — Integrationsklausel ("dieser Vertrag enthält alle Vereinbarungen") schließt Einbeziehung vorvertraglicher E-Mails aus.
+
+## Zentrale Normen
+
+- §§ 133, 157 BGB — Vertragsauslegung (Auslegung nach Treu und Glauben)
+- § 305c Abs. 2 BGB — Unklarheitenregel (gilt für Platzhalter-Auslegung)
+- § 416 ZPO — Beweiskraft von Privaturkunden
+
+## Kommentarliteratur
+
+- Grüneberg, BGB, 83. Aufl. 2024, § 133 Rn. 1-30 (Auslegung)
+- MüKo-BGB/Busche, 9. Aufl. 2022, § 157 Rn. 1-40 (Vertragsauslegung)
 
 ## Aufgabe
 

@@ -1,127 +1,149 @@
 ---
 name: gesellschaftsgruender-kommandocenter
-description: "Master-Workflow fuer die Gesellschaftsgruendung. Fuehrt von der Rechtsformwahl ueber Gesellschaftsvertrag Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister bis zu den ersten Geschaeftsfuehrer-Pflichten. Synchronisiert Fristen Beteiligte Dokumente. Liefert Checkliste und Ablaufplan fuer GmbH UG GbR OHG KG GmbH und Co KG PartG mbB gGmbH eK."
+description: "Navigationszentrum fuer alle Gruendungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Pruefraster: aktueller Gruendungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gruendungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gruendungs-Skill."
 ---
 
 # Kommandocenter Gesellschaftsgründung
 
-## Zweck
+## Triage — kläre beim Erstgespräch
 
-Master-Workflow für die Begleitung einer Gesellschaftsgründung von der ersten Beratung bis zur betriebsbereiten Gesellschaft. Verbindet die spezifischen Skills zu einem Ablauf und synchronisiert Fristen, Beteiligte, Dokumente.
+1. Welche Rechtsform ist geplant oder noch offen — GmbH, UG, GbR (eGbR), KG, GmbH & Co. KG, PartGmbB, gGmbH?
+2. Wie viele Gründer und ist Investoren-Aufnahme in den nächsten 24 Monaten wahrscheinlich?
+3. Zeitrahmen — wann soll die Gesellschaft operativ tätig sein? Ist ein Notartermin bereits gebucht?
+4. Liegt eine Sacheinlage vor (Werthaltigkeit prüfen, Sachgründungsbericht)?
+5. Genehmigungspflichtiger Unternehmensgegenstand (Bank, Versicherung, Spielhalle)?
+6. Internationale Gesellschafter oder grenzüberschreitende Tätigkeit (Sanktionsrecht, FDI)?
 
-## Phasen
+## Zentrale Normen
 
-### Phase 0 — Rechtsformwahl (Woche 1)
+- **§§ 2, 5, 7 GmbHG** — Beurkundung, Stammkapital, Anmeldevoraussetzungen.
+- **§ 5a GmbHG** — UG-Sondervariante; Thesaurierungspflicht 25 %.
+- **§§ 15 ff. HGB / § 8 HGB** — Handelsregisterpflicht und Wirkung der Eintragung.
+- **§ 19 GwG** — Transparenzregistermeldepflicht; wirtschaftlich Berechtigte.
+- **§§ 14-15 GewO** — Gewerbeanmeldungspflicht; sofort nach Geschäftsaufnahme.
+- **§ 138 AO** — Steuerliche Erfassung beim Finanzamt innerhalb eines Monats.
+- **§ 15a InsO** — Insolvenzantragspflicht ab Gründung; GF-Pflicht kennen.
 
-Vor allem anderen: Welche Rechtsform passt? Haftung, Steuern, Kosten, Komplexitaet, Struktur, Reputation, Investorenfähigkeit.
+## Aktuelle Rechtsprechung
 
-→ `gesellschaftsgruender-rechtsformwahl`
+- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 12 — Vorbelastungshaftung: zwischen Beurkundung und Handelsregistereintragung bestehende Verbindlichkeiten treffen Gesellschafter persönlich anteilig nach Stammkapitalquote.
+- BGH, Urt. v. 27.01.1997 - II ZR 123/94, BGHZ 134, 333 — Vorgesellschaft ist rechtsfähig; GF haftet persönlich für eigenmächtig eingegangene Verbindlichkeiten, die nicht von Gesellschaftern genehmigt werden.
+- BGH, Urt. v. 05.02.2007 - II ZR 84/05, NJW 2007, 1529 — Handelndenhaftung entfällt nach wirksamer Eintragung der GmbH; kein Durchgriff auf Gesellschafter.
+- BFH, Urt. v. 14.03.2012 - I R 13/11, BStBl. II 2012, 819 — Steuerliche Erfassung: Beginn der Steuerpflicht mit Gründung der Vorgesellschaft (Beurkundung), nicht erst mit HR-Eintragung.
 
-### Phase A — Vorbereitung (Woche 2-3)
+## Kommentarliteratur
 
-- Gesellschafterstruktur klären (Stimmrechte, Gewinnverteilung, Mehrheits-/Minderheits-Schutz)
-- Firmenname prüfen (IHK-Vorprüfung, Verwechslungsfrage Paragraf 30 HGB, Domain)
-- Sitz und Gegenstand des Unternehmens festlegen
-- Stammkapital und Sacheinlagen klären (Werthaltigkeit, Sachgründungsbericht)
+- Scholz/Emmerich, GmbHG, § 11 Rn. 1-40 (Vorgesellschaft, Handelndenhaftung, Vorbelastungshaftung)
+- Lutter/Hommelhoff, GmbHG, § 7 Rn. 1-30 (Anmeldung Handelsregister)
+- Baumbach/Hueck, GmbHG, § 2 Rn. 1-20 (Beurkundungsform, Musterprotokoll)
 
-### Phase B — Verträge (Woche 3-4)
+## Gründungsphasen-Übersicht
 
-- Gesellschaftsvertrag / Satzung
-- Gesellschaftervereinbarung (Shareholder Agreement)
-- Geschäftsführeranstellungsvertrag
-- Bei KG: Beirat / Aufsichtsrat optional
+| Phase | Inhalt | Dauer (ca.) | Spezialskill |
+|---|---|---|---|
+| 0 — Rechtsformwahl | GmbH, UG, GbR, KG, GmbH & Co. KG, PartGmbB, gGmbH abwägen | Woche 1 | `gesellschaftsgruender-rechtsformwahl` |
+| A — Vorbereitung | Firmencheck, Sitz, Gegenstand, Stammkapital, Gesellschafterstruktur | Woche 2-3 | `gesellschaftsgruender-gmbh-vorbereitung` |
+| B — Verträge | Satzung/GV, Gesellschaftervereinbarung, GF-Anstellungsvertrag | Woche 3-4 | `gesellschaftsgruender-gesellschaftsvertrag-gmbh` |
+| C — Notar | Beurkundung; alternativ Online-Gründung (DiRUG) | Woche 4-5 | `gesellschaftsgruender-notar-vorbereitung` |
+| D — Behörden | HR, Gewerbe, Finanzamt, Transparenzregister, IHK, BG | Woche 5-6 | `gesellschaftsgruender-handelsregister-anmeldung` |
+| E — Operativer Start | Geschäftskonto, Stammkapital einzahlen, Buchhaltung, GF-Pflichten | Woche 6-8 | `gesellschaftsgruender-stammkapital-einzahlung` |
 
-→ `gesellschaftsgruender-gesellschaftsvertrag-gmbh`
-→ `gesellschaftsgruender-gesellschaftervereinbarung`
-→ `gesellschaftsgruender-geschaeftsfuehrervertrag`
+## Fristen-Matrix
 
-### Phase C — Notar (Woche 4-5)
+| Pflicht | Frist | Konsequenz bei Versäumnis | Norm |
+|---|---|---|---|
+| Gewerbeanmeldung | unverzüglich nach Geschäftsaufnahme | Bußgeld bis 1.000 EUR | § 14 GewO |
+| Steuerliche Erfassung (FA) | innerhalb 1 Monat | Schätzung; Säumniszuschläge | § 138 AO |
+| Berufsgenossenschaft | binnen 1 Woche | Bußgeld | § 192 SGB VII |
+| Transparenzregister | unverzüglich (sobald wirtschaftlich Berechtigter feststeht) | bis 150.000 EUR | § 56 GwG |
+| Insolvenzantragspflicht GF | 6 Wochen (Überschuldung) / 3 Wochen (ZU) | persönliche Haftung § 15b InsO | § 15a InsO |
+| Erste Umsatzsteuervoranmeldung | bis Ende des Folgemonats | Säumnis | § 18 UStG |
 
-GmbH / UG / AG: Beurkundung erforderlich. Vorbereitung der Notarsitzung, Prüfung von Vertretungen, Sacheinlage-Belegen, Gesellschafterliste.
+## Kostentabelle nach Rechtsform
 
-Alternative seit DiRUG 2022: Online-Gründung per Videokonferenz beim Notar (nur Bargründung).
-
-→ `gesellschaftsgruender-notar-vorbereitung`
-→ `gesellschaftsgruender-online-gruendung-dirug`
-
-### Phase D — Handelsregister und Behörden (Woche 5-6)
-
-- Anmeldung Handelsregister durch Notar
-- Gewerbeanmeldung (lokales Gewerbeamt)
-- Fragebogen zur steuerlichen Erfassung (Finanzamt, elektronisch über ELSTER)
-- Transparenzregister (TraFinG, Pflicht Paragraf 19 GwG)
-- IHK-Mitgliedschaft (Pflicht, mit Beitrag)
-- Berufsgenossenschaft (Pflicht binnen einer Woche)
-
-→ `gesellschaftsgruender-handelsregister-anmeldung`
-→ `gesellschaftsgruender-gewerbeanmeldung-finanzamt`
-→ `gesellschaftsgruender-transparenzregister`
-→ `gesellschaftsgruender-ihk-und-berufsgenossenschaft`
-
-### Phase E — Operativer Start (Woche 6-8)
-
-- Geschäftskonto eröffnen (GwG-Identifikation, gegebenenfalls Online-Banking)
-- Stammkapital einzahlen (Mindesthöhen pro Rechtsform)
-- Buchhaltung aufsetzen (Kontenrahmen SKR03/SKR04)
-- Rechnungslegung beginnen
-- Steuer-Vorauszahlungen anmelden
-
-→ `gesellschaftsgruender-stammkapital-einzahlung`
-→ `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase`
-
-## Beteiligte
-
-- **Gründer**: Treffen die wesentlichen Entscheidungen, unterzeichnen
-- **Notar**: Beurkundet GmbH/AG, meldet beim Handelsregister an
-- **Steuerberater**: ELSTER-Anmeldung, laufende Buchhaltung
-- **Bank**: Geschäftskonto, GwG-Identifikation
-- **Anwalt** (oft erste Gründer-Beratung, dieses Plugin)
-- **IHK** (Vor-Prüfung Firmenname, Mitgliedschaft)
-- **Gewerbeamt** (lokale Anmeldung)
-- **Finanzamt** (Erfassung, Steuernummer)
-- **Berufsgenossenschaft** (BG-Mitgliedschaft)
-
-## Fristen-Übersicht
-
-| Aktion | Frist | Konsequenz |
-|---|---|---|
-| Gewerbeanmeldung | unverzueglich nach Geschäftsaufnahme | Bußgeld Paragraf 146 GewO |
-| Fragebogen Finanzamt | innerhalb eines Monats nach Aufnahme | Schätzung, Saeumniszuschlag |
-| Anmeldung Berufsgenossenschaft | binnen einer Woche | Bußgeld |
-| Transparenzregister-Meldung | unverzueglich bei wirtschaftlich Berechtigtem | bis 150.000 EUR Bußgeld Paragraf 56 GwG |
-| Handelsregister-Anmeldung (GmbH) | nach Beurkundung | Verzug schadet Geschäftsführerhaftung |
-| IHK-Anmeldung | mit der Gewerbeanmeldung (automatisch) | - |
-| Erste Lohnabrechnung | bei Beschaeftigung Lohnsteuer-Anmeldung | Saeumnis Paragraf 240 AO |
-
-## Kosten-Rahmen (Stand 2026)
-
-| Rechtsform | Notar | Handelsregister | Sonstige | Gesamt |
+| Rechtsform | Notar | Handelsregister | Sonstige | Gesamt ca. |
 |---|---|---|---|---|
-| eK | - | ca. 70 EUR | - | < 200 EUR |
-| GbR (eGbR seit MoPeG) | nur bei Wahl der Eintragung | ca. 80-150 EUR | ggf. IHK | < 300 EUR |
-| UG | ca. 250-450 EUR (Musterprotokoll) | ca. 150 EUR | IHK | < 800 EUR |
-| GmbH (Musterprotokoll) | ca. 400-600 EUR | ca. 150 EUR | IHK | ca. 800-1.000 EUR |
-| GmbH (individuelle Satzung) | ca. 800-1.500 EUR | ca. 150 EUR | IHK + Steuerberater | 1.500-3.000 EUR |
-| GmbH und Co KG | ca. 1.500-3.000 EUR (zwei Gesellschaften) | ca. 300 EUR | IHK + Steuerberater | 3.000-5.000 EUR |
-| AG | ca. 3.000-8.000 EUR | ca. 300 EUR | Hauptversammlung-Vorbereitung | > 10.000 EUR |
+| eK | — | 70 EUR | IHK | < 200 EUR |
+| eGbR (MoPeG) | nur bei Wahl | 80-150 EUR | — | < 300 EUR |
+| UG (Musterprotokoll) | 250-450 EUR | 150 EUR | IHK | < 800 EUR |
+| GmbH (Musterprotokoll) | 400-600 EUR | 150 EUR | IHK | ca. 800-1.000 EUR |
+| GmbH (individuelle Satzung) | 800-1.500 EUR | 150 EUR | IHK+StB | 1.500-3.000 EUR |
+| GmbH & Co. KG | 1.500-3.000 EUR | 300 EUR | IHK+StB | 3.000-5.000 EUR |
+| AG | 3.000-8.000 EUR | 300 EUR | HV-Vorbereitung | > 10.000 EUR |
 
-## Stoppschilder — Wann Anwalt zwingend
+## Schritt-für-Schritt-Workflow
 
-- Bei Sacheinlagen (Werthaltigkeit Paragraf 7 III GmbHG, Differenzhaftung Paragraf 9 GmbHG)
-- Bei Beteiligung von Gesellschaftern aus Drittstaaten (Sanktionsrecht, ggf. Investitionsprüfung)
-- Bei gemeinnützigen Zwecken (gGmbH, Voraussetzungen Paragraf 52 AO)
-- Bei Konzernstrukturen (Beherrschungs-/Gewinnabführungsvertrag)
-- Bei Family-Office-Strukturen
-- Bei Holding-Strukturen (steuerliche Vorprüfung)
-- Bei Family-Buy-In / Buy-Out
+1. **Triage** — 6 Triage-Fragen oben beantworten; Rechtsform provisorisch festlegen.
+2. **Intake** — strukturierte Eingangsabfrage aller Gründungsdaten → `gesellschaftsgruender-gruender-intake`.
+3. **Rechtsformwahl** — finale Entscheidung mit Abwägungsdokumentation → `gesellschaftsgruender-rechtsformwahl`.
+4. **Vorbereitung** — Firmencheck, Stammkapital, Gesellschafterstruktur, Holding-Frage.
+5. **Verträge** — Satzung/GV, SHA, GF-Anstellungsvertrag parallel vorbereiten.
+6. **Notartermin** — Unterlagen-Checkliste abarbeiten; Stammpkapital bereitstellen.
+7. **HR-Anmeldung** — Notar reicht ein; Eintragung abwarten (2-4 Wochen).
+8. **Behörden** — Gewerbeamt, Finanzamt, Transparenzregister, IHK, BG parallel anmelden.
+9. **Operativer Start** — Geschäftskonto, Stammkapital einzahlen, GF-Pflichten aufnehmen.
+10. **Nachsorge** — erstes GF-Meeting protokollieren; Buchführung starten; SV-Status klären.
 
-## Plugin-Eigeneinschraenkung
+## Output-Template Gründungs-Ablaufplan
 
-Dieses Plugin ist Begleiter, nicht Ersatz für Notar oder Anwalt. Beurkundungen erfolgen ausschließlich beim Notar. Steuerliche Strukturberatung gehört zum Steuerberater. Bei zweifelhaften Konstellationen: anwaltliche Prüfung anstrahlen.
+**Adressat:** Mandant/Gründer — Tonfall verständlich-erklärend
+```
+GRÜNDUNGS-ABLAUFPLAN
+Mandant: [Name(n) der Gründer]
+Rechtsform: [GmbH / UG / KG / etc.]
+Firma: [Firmenname]
+Stammkapital: [EUR]
+Erstellt: [Datum]
 
-## Anschluss
+MEILENSTEINE
+| Meilenstein | Geplantes Datum | Owner | Status |
+|------------|----------------|-------|--------|
+| Firmencheck abgeschlossen | [Datum] | [Name] | offen |
+| Satzungsentwurf fertig | [Datum] | [Name] | offen |
+| Notartermin | [Datum] | [Name] | offen |
+| Stammkapital eingezahlt | [Datum] | [Name] | offen |
+| Handelsregister-Eintragung | [Datum] | [Name] | offen |
+| Gewerbeanmeldung | [Datum] | [Name] | offen |
+| Finanzamt-Erfassung | [Datum] | [Name] | offen |
+| Transparenzregister | [Datum] | [Name] | offen |
+| Operativer Start | [Datum] | [Name] | offen |
 
-- `gesellschaftsgruender-rechtsformwahl` — wenn Rechtsform noch offen
-- `gesellschaftsrecht` — für laufende Mandate nach Gründung
-- `fachanwalt-handels-gesellschaftsrecht` — für fachanwaltschaftliche Vertiefung
-- `kanzlei-allgemein-mandatsannahme-gwg` — bei eigener Mandatsannahme
+FRISTEN-ALARM
+[ ] Gewerbeanmeldung bis: [Datum]
+[ ] Finanzamt-Fragebogen bis: [Datum]
+[ ] Berufsgenossenschaft bis: [Datum]
+[ ] Transparenzregister bis: [Datum]
+
+BETEILIGTE
+Notar: [Name, Ort]
+Steuerberater: [Name]
+Gesellschafter: [Namen]
+Geschäftsführer: [Namen]
+```
+
+## Rote Schwellen
+
+- Sacheinlage ohne Sachgründungsbericht → HR verweigert Eintragung; persönliche Differenzhaftung (§ 9 GmbHG).
+- Geschäfte vor HR-Eintragung ohne Gesellschafter-Genehmigung → GF-Handelndenhaftung (§ 11 GmbHG).
+- Genehmigungspflichtiger Gegenstand ohne Genehmigung → Eintragung gesperrt.
+- Insolvenzantragspflicht (§ 15a InsO) schon in Gründungsphase ausgelöst (z.B. Überschuldung durch Vorbelastung) → sofortige anwaltliche Beratung.
+- Transparenzregister-Meldung vergessen → Bußgeld bis 150.000 EUR (§ 56 GwG).
+
+## Quellen und Vertiefung
+
+- §§ 2, 5, 7, 9, 11 GmbHG (Gründung, Vorgesellschaft, Anmeldung)
+- §§ 14-15 GewO (Gewerbeanmeldung)
+- § 138 AO (Steuerliche Erfassung)
+- §§ 19, 56 GwG (Transparenzregister)
+- § 15a InsO (Insolvenzantragspflicht)
+- BGH II ZR 171/06, NJW 2008, 1589 (Vorbelastungshaftung)
+- Scholz/Emmerich, GmbHG, § 11 Rn. 1-40
+
+## Übergabe an andere Skills
+
+- `gesellschaftsgruender-rechtsformwahl` — Rechtsformwahl-Entscheidung
+- `gesellschaftsgruender-gruender-intake` — strukturierte Eingangsabfrage
+- `gesellschaftsgruender-gmbh-vorbereitung` — GmbH-Vorbereitung
+- `gesellschaftsgruender-notar-vorbereitung` — Notarsitzung
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragung
+- `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — GF-Pflichten ab Tag 1

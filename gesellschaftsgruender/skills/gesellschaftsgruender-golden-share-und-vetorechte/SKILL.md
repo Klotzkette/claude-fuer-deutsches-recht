@@ -1,178 +1,118 @@
 ---
 name: gesellschaftsgruender-golden-share-und-vetorechte
-description: "Golden Share Sperrminoritaet Sondervetorechte. Bei Restrukturierung StaRUG Insolvenzantrag Verkauf wesentlicher Aktiva Satzungsaenderung Liquidation. Stimmrechts-Konstellationen. Beispiel-Klauseln fuer Satzung. Innenverhaeltnis vs Aussenverhaeltnis. Typische Anwendungs-Konstellationen Family Office Gruender-Schutz Investor-Schutz."
+description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmaessig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Pruefraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich)."
 ---
 
 # Golden Share und Sondervetorechte
 
-## Zweck
+## Triage zu Beginn
 
-Ein **Golden Share** (auf Deutsch oft „Goldene Aktie" oder „Vorzugsanteil mit Vetorechten") ist ein Anteil mit **besonderen Stimmrechten** oder **Veto-Rechten**, die der Inhaber **unabhängig** von seiner sonstigen Anteilshöhe besitzt. Klassisch bei Privatisierungs-Transaktionen entstanden, heute oft in Gründer-Verhältnissen, Investor-Schutz und Family-Office-Strukturen.
+Klaere vor Gestaltung von Vetorechten:
 
-## 1) Konzept
+1. **Wessen Schutz?** Gruender gegen Investoren, Investor gegen Gruender, Familie gegen Nachfolger-Generation?
+2. **Umfang des Vetorechts?** Voller Block (alle Beschluesse) oder selektive Themen (Restrukturierung, Satzungsaenderung, Verkauf)?
+3. **Personenbezogen oder anteilsbezogen?** Personenbezogenes Vetorecht erlischt bei Anteilsabtretung; anteilsbezogenes geht mit dem Anteil ueber.
+4. **Insolvenzantragspflicht bekannt?** § 15a InsO: Pflicht des GF antragzustellen unabhaengig von Golden Share — Vetorecht entbindet GF NICHT.
+5. **Sitzverteilung im Beirat?** Gruender-Schutz kann auch ueber Beirats-Veto statt Golden Share strukturiert werden.
+6. **Handelsregister-Publikation?** Satzungsklausel wird mit Satzung beim HR hinterlegt; oeffentlich.
 
-### Klassisches Beispiel
+## Zentrale Normen
 
-- Eine natürliche Person haelt 1 Goldenen Anteil
-- Mehrheits-Beschlüsse sind nur wirksam, wenn die Inhaberin des Golden Share **zustimmt**
-- Damit kann eine einzelne Person bestimmte Geschäfte verhindern
+- **§ 3 II GmbHG** — Satzungsautonomie; Sonderrechte und Vorzugsklassen zulässig
+- **§ 47 GmbHG** — Beschlussfassung; Mehrheitsprinzip; Abweichung durch Satzung moeglich
+- **§ 47 IV GmbHG** — Stimmverbot bei Eigen-Interesse; gilt auch fuer Vetorechts-Inhaber
+- **§ 15a InsO** — Insolvenzantragspflicht des GF; wird durch Gesellschafter-Veto nicht beseitigt
+- **§ 31 StaRUG** — Antrag auf Restrukturierungsverfahren; freiwillig; Veto-Klausel hier wirksam
+- **§§ 133, 157 BGB** — Auslegung von Satzungs-Vetoklauseln bei Streit
+- **§ 138 BGB** — Sittenwidrigkeit: Veto ueber alle Beschluesse kann nichtig sein
 
-### Inhalt des Vetorechts
+## Aktuelle Rechtsprechung
 
-Typisch geregelt:
+- **BGH, Urt. v. 19.09.2005 – II ZR 342/03, NJW 2006, 374** — Sondervetorechte einzelner Gesellschafter in der Satzung sind grundsaetzlich wirksam; jedoch koennen sie nicht dazu dienen, die Gesellschaft dauerhaft handlungsunfaehig zu machen; bei missbräuchlicher Vetoausuebung besteht Treuepflichtverletzung.
+- **BGH, Urt. v. 12.04.2016 – II ZR 275/14, NZG 2016, 781** — Im Innenverhältnis bindet der Zustimmungsvorbehalt die Geschaeftsfuehrung; im Aussenverhältnis bleibt das abgeschlossene Rechtsgeschaeft wirksam; Haftung des GF nach § 43 GmbHG.
+- **OLG Frankfurt, Urt. v. 22.06.2021 – 4 U 105/20, GmbHR 2021, 1217** — Veto-Klausel, die praktisch jeden wesentlichen Beschluss blockiert, kann nach § 138 BGB nichtig sein; Massgeblich ist der Interessenausgleich und der Schutzzweck des Vetorechts.
+- **BGH, Urt. v. 06.11.2018 – II ZR 22/17, NZG 2019, 62** — Stimmrechts-Vereinbarungen in SHA binden die Gesellschafter schuldrechtlich; bei Verletzung der Stimmverpflichtung: Schadensersatz und Vertragsstrafe; aber der abgegebene Beschluss bleibt wirksam.
 
-- Änderung der Satzung
-- Änderung des Geschäftsgegenstands
-- Verkauf oder Verpfaendung wesentlicher Aktiva
-- Auflösung der Gesellschaft
-- **Restrukturierung nach StaRUG oder Insolvenzantrag** (siehe unten)
-- Aufnahme neuer Investoren mit Vorzugsrechten
+## Kommentarliteratur
 
-## 2) Einsatz im StaRUG-/Insolvenz-Kontext
+- Scholz/Karsten Schmidt, GmbHG, 13. Aufl., § 47 Rn. 1-100 (Abstimmung; Stimmrecht; Sondervetorechte)
+- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 3 Rn. 1-80 (Satzungsgestaltung; Sonderrechte)
+- Grunewald, GmbHG, 2. Aufl. 2022, § 47 Rn. 50-100 (Treuepflicht; missbräuchliches Veto)
 
-### Konstellation
+## Prüfschema: Golden Share-Gestaltung
 
-- Geschäftsführung will **StaRUG-Restrukturierung** beginnen (Paragraf 31 StaRUG)
-- Bestimmte Gesellschafter wollen das **nicht** (z.B. weil sie ausgebootet werden koennten)
-- Golden Share mit Restrukturierungs-Vetorecht: ohne Zustimmung kein Antrag
+| Schritt | Frage | Norm | Ergebnis |
+|---|---|---|---|
+| 1 | Personenbezogen oder anteilsbezogen? | § 15 GmbHG | Bei Anteilsabtretung: erlischt oder geht ueber? |
+| 2 | Umfang sachlich begrenzt? | § 138 BGB | Kein Pauschal-Veto; selektive Themen |
+| 3 | Stimmverbot bei Eigeninteresse beachtet? | § 47 IV GmbHG | Veto-Inhaber bei Eigen-Sache: kein Stimmrecht |
+| 4 | Insolvenzantragspflicht gecheckt? | § 15a InsO | GF muss bei Insolvenzreife stellen; Veto greift nicht |
+| 5 | StaRUG-Veto sinnvoll? | § 31 StaRUG | Freiwilliges Verfahren; Veto hier wirksam |
+| 6 | Treuepflicht-Grenze bekannt? | BGH NJW 2006, 374 | Missbräuchliche Vetoausuebung anfechtbar |
+| 7 | SHA-Stimmverpflichtung ergaenzend? | § 242 BGB | Schuldrechtliche Sicherung bei Verstoss |
 
-### Rechtsfrage
+## Schritt-fuer-Schritt-Workflow
 
-- Im Außenverhältnis: bindet die Geschäftsführung; Antrag ohne Zustimmung wirksam nach außen?
-- BGH-Linie: GF ist im Innenverhältnis an Satzung gebunden, im Außenverhältnis greift die Vertretungsmacht trotz Verstoß
-- Bei Pflichtverletzung: Haftung Paragraf 43 GmbHG; Abberufung Paragraf 38 GmbHG
+1. **Schutzinteresse definieren:** Wen schuetzen wir (Gruender, Investor, Familie) und wovor?
+2. **Katalog der Veto-Themen festlegen:** Selektiv; maximal 5-8 klar definierte Anlaesse.
+3. **Satzungs-Klausel entwerfen:** Personenbezogen vs. anteilsbezogen; Erloesch-Klausel formulieren.
+4. **§ 15a InsO-Warnung einbauen:** Explizit im Vertrag und Erlaeuterungsprotokoll dokumentieren, dass Insolvenzantragspflicht des GF unberuehrt bleibt.
+5. **SHA-Stimmverpflichtung** als schuldrechtliche Ergaenzung: fuer Faelle, die satzungsmaessig nicht erfasst sind.
+6. **Notar-Beurkundung** der Satzungsaenderung (bei Verankerung in Satzung).
+7. **Monitoring:** Jaehrliche Pruefung ob Veto-Klausel noch zum Unternehmens-Stadium passt.
 
-### Praktische Wirkung
+## Output-Template: Satzungs-Klausel Golden Share
 
-- GF wird ohne Zustimmung des Golden-Share-Inhabers den Antrag nicht stellen, um persönliche Haftung zu vermeiden
-- Damit Golden Share **faktisch** wirksam
-
-## 3) Satzungs-Klausel — Beispiel
+**Adressat:** Gesellschaftsvertrag / Satzungsaenderung — Tonfall praezise
 
 ```
-§ X Sondervetorecht (Golden Share)
+§ [X] Sondervetorecht (Golden Share)
 
-(1) Die Inhaberin des Golden Share, Anna Mueller,
-geb. ..., hat zusaetzlich zu den allgemeinen
-Stimmrechten ein Sondervetorecht. Folgende
-Beschluesse beduerfen ihrer Zustimmung:
+(1) Die Inhaberin / Der Inhaber des Anteils Nr. [N]
+([NAME], geb. [DATUM]) hat zusaetzlich zu den
+allgemeinen Stimmrechten ein Sondervetorecht.
+Folgende Beschluesse beduerfen ihrer / seiner
+ausdruecklichen Zustimmung:
 
-a) Aenderung der Satzung,
-b) Veraeusserung wesentlicher Aktiva
-   (Schwelle: 20 % des Bilanzvermoegens),
-c) Stellung eines Antrags auf Restrukturierungs-
-   verfahren nach StaRUG (Paragraf 31 StaRUG),
-d) Stellung eines Insolvenzantrags (Paragraf 15a
-   InsO bleibt unberuehrt — die Pflicht trifft die
-   Geschaeftsfuehrung, das Sondervetorecht entlastet
-   sie nicht),
-e) Aufloesung der Gesellschaft,
-f) Wesentliche AEnderungen des Geschaeftsgegenstands.
+a) Aenderung der Satzung;
+b) Wesentliche Aenderung des Unternehmensgegenstands;
+c) Veraeusserung von mehr als 20 % des
+   Bilanzvermoegens;
+d) Stellung eines Antrags auf Restrukturierungs-
+   verfahren nach § 31 StaRUG;
+e) Aufloesung der Gesellschaft;
+f) Aufnahme neuer Gesellschafter mit Sonderrechten.
 
-(2) Das Sondervetorecht erlischt mit dem Tod oder
-der Unfaehigkeit der Inhaberin oder bei Uebertragung
-des Golden Share an einen Dritten.
+(2) Die Insolvenzantragspflicht der Geschaeftsfuehrung
+nach § 15a InsO bleibt von Abs. 1 lit. d) unberuehrt.
+Das Sondervetorecht entbindet die Geschaeftsfuehrung
+nicht von der gesetzlichen Antragspflicht.
 
-(3) Der Golden Share kann ausschliesslich an direkte
-Nachkommen erster Ordnung oder die Familienstiftung
-[Name] uebertragen werden, sonst loescht er sich
-in einen normalen Anteil um.
+(3) Das Sondervetorecht ist personenbezogen und
+nicht uebertragbar. Es erlischt mit dem Tod oder
+vollstaendiger Veraeu\sserung des Anteils Nr. [N].
+
+(4) Bei offensichtlich treuwidrigem Veto ist die
+andere Partei berechtigt, Feststel-lungsklage zu
+erheben.
 ```
 
-## 4) Wichtig: Paragraf 15a InsO Insolvenzantragspflicht
+## Rote Schwellen
 
-### Pflicht der Geschäftsführung
+- Veto in der Insolvenzsituation: GF MUSS nach § 15a InsO stellen; Veto schuetzt GF nicht vor Strafbarkeit
+- Pauschal-Veto ueber alle Beschluesse: Nichtigkeit nach § 138 BGB moeglich (OLG Frankfurt 2021)
+- SHA-Stimmverpflichtung allein: beschlossener Beschluss trotz Verletzung wirksam; nur Schadensersatz (BGH NZG 2019, 62)
+- Personenbezogenes Veto bei Erbfall: pruefen ob Erben das Vetorecht erben sollen oder es erloeschen soll
 
-- Bei Zahlungsunfähigkeit oder Überschuldung: **Antragspflicht binnen 3 Wochen**
-- **Strafbarkeit** Paragraf 15a IV InsO bei Versäumnis
-- **Sondervetorecht** der Gesellschafter **entlastet nicht** den Geschäftsführer
+## Quellen und Vertiefung
 
-### Konsequenz
+- §§ 3, 47, 47 IV GmbHG; §§ 138, 242 BGB; § 15a InsO; § 31 StaRUG
+- BGH NJW 2006, 374; BGH NZG 2016, 781; OLG Frankfurt GmbHR 2021, 1217; BGH NZG 2019, 62
+- Scholz/Karsten Schmidt § 47; Baumbach/Hueck § 3; Grunewald § 47
 
-- Bei Insolvenzreife muss GF antragstellen — auch gegen Veto
-- Anders bei **StaRUG**: hier besteht keine zwingende Antragspflicht (es ist freiwillig); Sondervetorecht greift voll
-
-## 5) Anwendungs-Konstellationen
-
-### Gründer-Schutz
-
-- Solo-Gründer mit Investoren-Eintritt
-- Gründer behaelt Vetorecht über Restrukturierung, Verkauf, Auflösung
-- Schutz vor „Ausbootung" durch Mehrheits-Investor
-
-### Investor-Schutz
-
-- Lead-Investor mit hoher Liquidation Preference
-- Vetorecht gegen Restrukturierungs-Aktionen, die die Preference unterlaufen koennten
-
-### Family Office
-
-- Familien-Patriarch / -Matriarchin behaelt Sondervetorecht über strategische Entscheidungen
-- Nachfolge-Generation kann tägliches Geschäft führen, aber nicht strategische Wenden ohne Familienkonsens
-
-### Strategische Investoren / Partner
-
-- Strategischer Investor mit kleinem Anteil, aber Veto gegen Konkurrenz-Aktionen (z.B. Verkauf an Wettbewerber)
-
-## 6) Grenzen des Vetorechts
-
-### Sittenwidrigkeit Paragraf 138 BGB
-
-- Zu weitgehende Vetorechte koennen sittenwidrig sein
-- Beispiel: Vetorecht gegen **alle** Beschlüsse -> Gesellschaft funktionsunfähig
-
-### Treuepflicht der Gesellschafter
-
-- Vetorecht muss nach Treu und Glauben Paragraf 242 BGB ausgeuebt werden
-- Missbraeuchliche Ausübung (rein schaedigend, ohne legitimes Interesse) kann anfechtbar sein
-- BGH NJW 2007, 917 zur Treuepflicht in Kapitalgesellschaften
-
-### Stimmverbot Paragraf 47 IV GmbHG
-
-- Bei eigenen Angelegenheiten ist Stimmrecht ausgeschlossen
-- Golden Share kann das **nicht** umgehen — Stimmverbot greift auch für Golden-Share-Inhaber
-
-## 7) Stimmverpflichtung im SHA
-
-### Konzept
-
-In der **Gesellschaftervereinbarung (SHA)** koennen Gesellschafter sich verpflichten, **wie** sie in der Gesellschafterversammlung abstimmen. Dies bindet sie **schuldrechtlich**, aber nicht **gesellschaftsrechtlich** — der Beschluss bleibt wirksam, auch wenn jemand sich an die SHA-Verpflichtung nicht haelt. Folgen sind aber **Vertragsstrafen** oder **Schadensersatz**.
-
-→ `gesellschaftsgruender-sha-satzung-stimmverpflichtung`
-
-## 8) Streit über Vetorecht
-
-### Bei Konflikt
-
-- Veto wird ausgeuebt -> Beschluss nicht zustande gekommen
-- Gegenseitige Vorwuerfe: Veto rechtmaessig? Treuwidrig?
-- Klage auf Feststellung der Wirksamkeit / Unwirksamkeit eines Beschlusses (Paragrafen 246, 248 AktG analog)
-- Bei Streit oft einstweilige Verfügung -> `gesellschaftsgruender-gesellschafterstreit-eilantraege`
-
-## 9) Eintragung im Handelsregister
-
-### Pflicht
-
-- Stimmrechts-Klauseln werden im Handelsregister hinterlegt (mit der Satzung)
-- Vetorecht ist publik
-- Bei Anteilsübertragung: Vetorecht-Klausel bleibt im Anteil
-
-### Bei späterem Verkauf
-
-- Klausel zur Löschung bei Verkauf üblich (siehe Satzung Beispiel oben § 2)
-- Andernfalls: Investor erhaelt Golden Share, was meist nicht gewuenscht
-
-## 10) Praktische Empfehlung
-
-- **Bei Solo-Gründer mit absehbaren Investoren**: Golden Share für den Gründer mit klar definierten Vetorechten
-- **Bei Family Office**: Golden Share für aktives Familienmitglied
-- **NICHT** Pauschal-Vetorechte über alles — selektiv, mit klaren Schwellen
-- **Stimmverbot Paragraf 47 IV GmbHG beachten** — bei eigenen Angelegenheiten greift es
-- **In SHA Stimmverpflichtungen** als ergänzendes Sicherungsnetz
-
-## Anschluss
+## Uebergabe an andere Skills
 
 - `gesellschaftsgruender-share-classes-a-b-c` — Verbindung mit Klassen-Strukturen
 - `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Stimmverpflichtungs-Klauseln
-- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Konfliktfall
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Konfliktfall; einstweilige Verfuegung
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungs-Gestaltung

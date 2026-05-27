@@ -162,3 +162,35 @@ Human-in-the-Loop dokumentieren, bis 01.08.2026.
 - **DSGVO Art. 35** bei Folgenabschätzungspflicht.
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5.**
 - **Hoffmann-Riem (Hrsg.), Big Data, KI und das Recht, 2021, S. 115.**
+
+## Triage zu Beginn
+1. Welches Regulierungsregime ist Gegenstand — KI-VO, DSGVO Art. 22, DSA, DMA, ProdHaft-RL?
+2. Ist das Regime bereits in Kraft oder nur angekuendigt — welches Anwendungsdatum?
+3. Betrifft das Regime die Rolle als Anbieter oder Betreiber (Art. 3 KI-VO-Unterscheidung)?
+4. Welche Anwendungsfaelle aus dem Register sind potenziell lueckenhaft?
+5. Gibt es bereits Massnahmen oder laufende Compliance-Projekte — Delta zum Status quo ermitteln?
+
+## Output-Template — Lueckenanalyse KI-Regulierung
+**Adressat:** Compliance- / Rechts-Team — Tonfall: sachlich, priorisiert
+```
+LUECKENANALYSE KI-REGULIERUNG
+[DATUM] — Regime: [REGULIERUNGSNAME] — Anwendungsbereich: [JA/NEIN/TEILWEISE]
+
+ANWENDBARES REGIME: [BEGRUENDUNG IN 1-2 SAETZEN]
+Inkrafttreten: [DATUM] — Durchsetzung ab: [DATUM]
+
+LUECKENTABELLE:
+| Nr. | Anforderung | Fundstelle | Status | Luecke | Prioritaet | Verantwortlicher | Frist |
+|---|---|---|---|---|---|---|---|
+| 1 | [ANFORDERUNG] | Art. X KI-VO | [BESTEHT/FEHLT/LUECKE] | [BESCHREIBUNG] | HOCH/MITTEL/NIEDRIG | [PERSON] | [DATUM] |
+
+GESAMTBEWERTUNG: [N] kritische Luecken / [N] material / [N] gering
+
+NICHT-ANWENDBAR-POSTEN:
+- [ANFORDERUNG]: nicht anwendbar wegen [BEGRUENDUNG]
+
+NAECHSTE SCHRITTE:
+1. [MASSNAHME — Verantwortlicher: NAME — bis: DATUM]
+
+Erstellt: [NAME], [DATUM]
+```

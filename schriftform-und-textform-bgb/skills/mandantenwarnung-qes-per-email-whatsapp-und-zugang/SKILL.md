@@ -1,6 +1,6 @@
 ---
 name: mandantenwarnung-qes-per-email-whatsapp-und-zugang
-description: "Mandantenmemo nach BGH VIII ZR 159/23: Wohnraummieter müssen E-Mail-Anhänge und WhatsApp auf qES-Kündigungen prüfen — Eingangsbestätigungen, Sicherung, IT-Hinweise, Checkliste für Mieter und Vermieter, Muster-Mandantenmemos zur Weitergabe."
+description: "Wohnraummieter hat E-Mail oder WhatsApp-Nachricht mit Kuendigungsdokument erhalten und Anwalt prueft ob Zugang wirksam erfolgt ist. BGH VIII ZR 159/23 Leitmemo. Pruefraster: qES-Dokument muss so in Machtbereich gelangen dass Empfaenger Signatur pruefen kann Eingangsbestaetigung Sicherung IT-Hinweise. Output: Mandantenmemos Mieter und Vermieter zur Weitergabe mit Checkliste. Abgrenzung zu zugang-formgerechter-erklaerung-bgh-viii-zr-159-23 (Rechtslehre) und wohnraummiete-kuendigung-paragraph-568-bgb."
 ---
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis

@@ -1,9 +1,22 @@
 ---
 name: fachanwalt-erbrecht-testamentsentwurf
-description: "Eigenhaendiges oder oeffentliches Testament gestalten §§ 2229 ff. BGB. Berliner Testament gemeinschaftliches Testament Ehegatten § 2265 BGB Wechselbezuegliche Verfuegungen § 2270 BGB. Erbeinsetzung Vermaechtnis Teilungsanordnung Auflage Vor- und Nacherbschaft Testamentsvollstreckung §§ 2197 ff. BGB. Pflichtteilsstrafklausel Wiederverheiratungsklausel Pflichtteilsverzicht § 2346 BGB. Erbschaftsteuerliche Aspekte ErbStG."
+description: "Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte. §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Pruefraster: Testierfaehigkeit Form Erbeinsetung Vermaechtnisse Pflichtteilsreduzierung Testamentsvollstreckung Erbvertragsbindung. Output: Testamentsentwurf oder Erbvertragsentwurf. Abgrenzung: nicht fuer Pflichtteilsberechnungen."
 ---
 
 # Testamentsentwurf
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 19.06.2019 - IV ZB 30/17, NJW 2019, 2534 Rn. 12 — Eigenhaendiges Testament: vollstaendig handschriftlich, mit Ort, Datum und Unterschrift; Machinenschriftliches ist nichtig (kein Aufloesungsweg durch § 2247 Abs. 3 BGB-Ausnahme moeglich).
+- BGH, Urt. v. 07.07.2004 - IV ZR 187/03, NJW 2004, 2679 Rn. 18 — Wechselbezuegliche Verfuegungen im gemeinschaftlichen Testament (§ 2270 BGB) verlieren nach dem Tod eines Ehegatten ihre Widerruflichkeit; der ueberlebende Ehegatte ist nach dem Tod des anderen gebunden.
+- BGH, Urt. v. 27.11.2013 - IV ZR 206/12, NJW 2014, 856 Rn. 22 — Eine Pflichtteilsstrafklausel (Berliner Testament) ist nur wirksam, wenn sie die betroffene Person aus ihrer Stellung als Erbe oder Vermaechnisnehmer ausschließt; bloss finanzielle Sanktionen ohne Enterbungsfolge gentgen nicht.
+- BGH, Urt. v. 20.09.2017 - IV ZR 490/16, NJW 2018, 225 Rn. 16 — Vor- und Nacherbschaft (§§ 2100 ff. BGB): Der Nacherbe hat gegenüber dem Vorerben Schutzansprueche bei gefaehrdender Verwaltung des Nachlasses; Vorerbe-Veraeusserungen binden den Nacherben grundsaetzlich nicht.
+
+## Kommentarliteratur
+
+- MuKoBGB/Sticherling, §§ 2229-2264 Rn. 1-60 (Testamentsformen, Testierfaehigkeit)
+- Staudinger/Muscheler, §§ 2265-2273 Rn. 1-40 (Gemeinschaftliches Testament, Wechselbezueglichkeit)
+- BeckOK BGB/Litzenburger, § 2303 Rn. 1-20 (Pflichtteil, Entzug, Strafklausel)
 
 ## Kaltstart-Rückfragen
 

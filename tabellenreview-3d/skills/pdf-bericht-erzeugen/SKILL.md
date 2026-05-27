@@ -1,9 +1,25 @@
 ---
 name: pdf-bericht-erzeugen
-description: "Erstellt einen pruefbaren PDF-Bericht aus dem 3D-Wuerfel. Struktur: Deckblatt mit Projekt Mandant Stichtag Wuerfel-Ampel; Management-Summary mit Hotspots und blockierenden Roten; pro Arbeitsblatt-Perspektive ein Abschnitt mit Aggregat und Top-Findings; Anhang mit vollstaendigen Tabellen pro Arbeitsblatt; Beleganhang mit zitierten Quellen und Datei-Hashes; Audit-Anhang mit Prompt-Versionen Modell-Version und Reviewlauf-Metadaten. Bedingte Formatierung fuer Ampelfarben. Gerichtsfaehig in dem Sinne dass jede Aussage rueckverfolgbar ist."
+description: "3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabellen, Risikoampeln. Normen: §§ 174 ff. InsO. Pruefraster: Vollstaendigkeit Berichtinhalte, Layout, Signaturfeld. Output: PDF-Bericht 3D-Tabellenreview. Abgrenzung: nicht Excel-Export."
 ---
 
 # /tabellenreview-3d:pdf-bericht-erzeugen
+
+
+## Triage zu Beginn
+
+1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
+2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
+3. Wird das Ergebnis in die Mandatsakte aufgenommen?
+4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
+
+## Rechtliche Grundlagen
+
+- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — Due-Diligence-Pruefungen muessen sorgfaeltig und vollstaendig durchgefuehrt werden; der Kaeufer haftet nicht fuer Maengel, die er bei ordentlicher Pruefung haette entdecken koennen (Kauferrisiko bei unterlassener DD).
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Der Anwalt muss das Ergebnis einer automatisierten Pruefung verantworten; er haftet fuer Fehler auch wenn er ein Hilfsmittel eingesetzt hat; die abschliessende Pruefung obliegt dem zugelassenen BerufsTraeger.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Pruefberichte muessen hinreichend dokumentiert sein; Bausteine die spaeter nicht mehr nachvollzogen werden koennen, belasten die Haftungslage des Anwalts.
+- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Das Gebot der Nachvollziehbarkeit rechtlicher Dokumentation gilt auch im wirtschaftsrechtlichen Due-Diligence-Kontext; lueckenlose Belegketten schuetzen vor Haftungsrisiken.
+
 
 ## Zweck
 

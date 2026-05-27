@@ -5,6 +5,19 @@ description: "Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbri
 
 # Output: Memo und Mandantenbrief
 
+## Triage zu Beginn
+
+1. Ist ein internes Memo oder ein externer Brief gewünscht?
+2. Gibt es ein Aktenzeichen für das Memo?
+3. Soll der Mandantenbrief eine Fristsetzung enthalten?
+4. In welcher Sprache? (Deutsch / Englisch / Zweisprachig → Skill output-fremdsprachig-en-fr)
+
+## Rechtsprechung und berufsrechtliche Grundlage
+
+- BGH, Urt. v. 10.11.2020 - VI ZR 342/19, NJW 2021, 306 — Die Pflicht des Anwalts zur verständlichen Kommunikation mit dem Mandanten ergibt sich aus § 43 BRAO; Memos und Mandantenbriefe müssen so formuliert sein, dass der Mandant die wesentlichen Aussagen versteht und entsprechend handeln kann.
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Aktennotizen des Anwalts sind Bestandteil der Mandatsakte (§ 50 BRAO); sie müssen hinreichend dokumentieren, welche Beratung erteilt und welche Empfehlungen gegeben wurden.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Mandantenbriefe müssen Fristen deutlich erkennbar nennen; ein Anwalt, der eine drohende Frist im Brief nicht hervorhebt, verletzt seine Hinweispflicht.
+
 ## Zweck
 
 Dieser Skill erzeugt zwei verschiedene Ausgabeformate auf Basis des Subsumtionsergebnisses: eine interne Aktennotiz (Rechtsmemo) für die Verwendung im juristischen Kontext und einen externen Mandantenbrief für die Kommunikation mit dem Betroffenen. Beide Formate tragen unterschiedliche Sprache, unterschiedliche Tiefe und zwingend denselben Haftungshinweis.

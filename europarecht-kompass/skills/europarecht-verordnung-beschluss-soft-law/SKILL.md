@@ -1,6 +1,6 @@
 ---
 name: europarecht-verordnung-beschluss-soft-law
-description: "Unterscheidet EU-Verordnung, Richtlinie, Beschluss, Empfehlung, Leitlinie, Mitteilung und behördliche Praxiswirkung."
+description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit pruefen. Art. 288 AEUV EU-Rechtsquellen. Pruefraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht fuer Richtlinien (europarecht-richtlinie-umsetzung)."
 ---
 
 # Verordnung, Beschluss und Soft Law
@@ -47,3 +47,31 @@ Bindungswirkung, Adressat, Durchführungsrecht und Soft-Law-Wirkung werden saube
 ## Ton
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Vertiefung: Abgrenzung und Leitsaetze
+
+- EuGH, Urt. v. 31.03.1971 - 22/70 (AETR/Kommission), EuGHE 1971, 263 — AETR-Grundsatz: Kommissions-Empfehlungen und -Mitteilungen koennen rechtliche Wirkungen entfalten wenn sie Aussenwirkung haben; Bindungswirkung trotz fehlender Verbindlichkeit.
+- EuGH, Urt. v. 13.12.1989 - C-322/88 (Grimaldi), EuGHE 1989, 4407 — Empfehlungen: kein Klagerecht aber nationales Gericht muss bei Auslegung nationalen Rechts Empfehlungen beruecksichtigen.
+
+## Triage Rechtsakt-Klassifikation
+
+Bevor losgelegt wird, klaere:
+1. Verordnung (unmittelbar anwendbar), Richtlinie (Umsetzung), Beschluss (individuell adressiert) oder Soft Law?
+2. Ist Soft Law (Leitlinie, Mitteilung, Empfehlung) fuer den Mandanten faktisch bindend?
+3. Koennte Soft Law anfechtbar sein (faktische Rechtswirkung)?
+
+## Normen-Kette
+
+- **Art. 288 AEUV** — Verordnung (allg. verbindl.), Richtlinie, Beschluss, Empfehlung, Stellungnahme
+- **Art. 263 Abs. 1 AEUV** — Anfechtbarkeit von Beschluessen und Akten mit Rechtswirkung
+
+## Output-Template: Rechtsakt-Einordnung
+
+```
+RECHTSAKT-EINORDNUNG
+Rechtsakt: [CELEX-Nr. / Titel]
+Kategorie: [ ] VO  [ ] RL  [ ] Beschluss  [ ] Empfehlung  [ ] Mitteilung
+Verbindlichkeit: [allgemein / adressatenbezogen / keine]
+Unmittelbare Anwendung: [JA / nein — Umsetzung bis DATUM]
+Anfechtbarkeit Art. 263: [JA — faktische Rechtswirkung / NEIN]
+```

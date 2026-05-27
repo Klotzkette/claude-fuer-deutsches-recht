@@ -1,11 +1,34 @@
 ---
 name: einwilligung-hinweis-datenschutz
-description: "Formuliert die DSGVO-konforme Einwilligungsklausel fuer die Sprachaufnahme im Transkriptionsservice: Rechtsgrundlage Art. 6 Abs. 1 lit. a DSGVO, Informationspflicht Art. 13 DSGVO, Hinweis auf fehlendes Mandatsverhaeltnis, Widerrufsrecht. Laedt wenn der Nutzer 'DSGVO Einwilligung formulieren', 'Datenschutz Transkription', 'Art. 6 DSGVO Einwilligung', 'Datenschutzhinweis Anruf' oder 'DSGVO Erstanfrage' sagt."
+description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Pruefraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhaeltnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel fuer Transkriptionsservice. Abgrenzung zu mandatsverhaeltnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung."
 ---
 
 # Einwilligung-Hinweis-Datenschutz
 
 Dieser Skill formuliert die datenschutzrechtlich erforderliche Einwilligungsklausel für die Verarbeitung von Sprachdaten im Rahmen des Transkriptionsservices. Da zum Zeitpunkt der Erstanfrage noch kein Mandatsverhältnis besteht, ist die Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO die maßgebliche Rechtsgrundlage.
+
+
+## Triage zu Beginn
+1. Liegt die Anfrage vor Mandatsannahme (Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO noetig) oder nach Mandatserstellung (Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage)?
+2. Enthaelt die Anfrage besondere Kategorien personenbezogener Daten (Gesundheit, Strafrecht — Art. 9 DSGVO)?
+3. Soll der Hinweis in die Erstantwort-Mail eingebettet oder als separater Datenschutzhinweis gesandt werden?
+4. Welcher Transkriptionsdienstleister wird eingesetzt — liegt ein AVV nach Art. 28 DSGVO vor?
+
+## Aktuelle Rechtsprechung
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO muss freiwillig, informiert und unmissverstaendlich erteilt werden; vorformulierte Klauseln in AGB genügen in der Regel nicht.
+- EuGH, Urt. v. 11.11.2020 - C-61/19, NJW 2021, 141 — Widerrufsrecht nach Art. 7 Abs. 3 DSGVO darf keine Nachteile haben; Mandant muss Einwilligung jederzeit ohne Konsequenzen widerrufen koennen.
+- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Informationspflicht nach Art. 13 DSGVO muss klar und verstaendlich erfuellt werden; Datenschutzhinweis mit juristischem Fachjargon ohne Erklaerung genuegt nicht.
+- OLG Koeln, Urt. v. 11.03.2021 - 15 U 137/20, ZD 2021, 391 — Fehlende Datenschutzinformation nach Art. 13 DSGVO begruendet Schadensersatzanspruch nach Art. 82 DSGVO; Kanzlei muss Erstinformation vollstaendig erteilen.
+
+## Zentrale Normen
+- Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage fuer Sprachdaten-Verarbeitung vor Mandatsannahme
+- Art. 9 Abs. 2 lit. a DSGVO — Ausdrückliche Einwilligung fuer besondere Kategorien (Gesundheit, Strafrecht)
+- Art. 13 DSGVO — Informationspflicht bei Ersterhebung: vollstaendige Transparenzpflicht
+- Art. 7 Abs. 3 DSGVO — Widerrufsrecht: jederzeit ohne Nachteile
+
+## Kommentarliteratur
+- Kühling/Buchner DSGVO Art. 6 Rn. 10-40 (Einwilligung: Anforderungen und Wirksamkeit)
+- Sydow/Marsch DSGVO Art. 13 Rn. 1-30 (Informationspflicht: Inhalt und Umfang bei Ersterhebung)
 
 ## Rechtlicher Hintergrund
 

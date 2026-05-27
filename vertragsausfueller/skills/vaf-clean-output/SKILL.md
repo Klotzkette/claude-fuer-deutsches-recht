@@ -1,9 +1,36 @@
 ---
 name: vaf-clean-output
-description: "Erstellt einen sauberen Vertragsentwurf mit Ausfüllprotokoll, Annahmenregister, offenen Punkten und Anlagenliste."
+description: "Sauberen finalen Vertragsentwurf mit Ausfüllprotokoll erstellen: Anwendungsfall alle Felder sind ausgefüllt und Quality Gate hat grüne Ampel ergeben; nun wird bereinigte Clean-Version für Unterschrift oder Versand erstellt. §§ 125 ff. BGB Schriftform, § 550 BGB bei Mietverträgen. Pruefraster alle Platzhalter aufgelöst, Anlagenverzeichnis vollstaendig, Format-Konsistenz geprueft, Track Changes entfernt. Output Clean-Entwurf mit Ausfüllprotokoll, Annahmenregister und offener-Punkte-Liste. Abgrenzung zu Quality-Gate fuer Vorabpruefung und zu Track-Changes-Skill."
 ---
 
 # Clean-Output
+
+
+## Triage zu Beginn
+
+1. Sind alle Pflichtfelder gefüllt und alle Platzhalter aufgelöst?
+2. Hat das Quality Gate (vaf-quality-gate) eine grüne Ampel ergeben?
+3. Ist das Ausgabeformat bestimmt — Word (.docx), PDF oder beides?
+4. Wird Track Changes / Redline gewünscht — wenn ja: ausdrückliche Bestätigung eingeholt?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 07.03.2005 - II ZR 194/03, NJW 2005, 2061 — Vertragstext muss aus sich heraus vollstreckbar und verständlich sein; Verweise auf externe Dokumente ohne Übergabe sind unwirksam (§ 305c BGB).
+- BGH, Urt. v. 27.04.2016 - VIII ZR 61/15, NJW 2016, 1881 — AGB-Klauseln in Muster verträgen sind nach ihrem objektivierten Verständnis auszulegen; Unklarheiten gehen zu Lasten des Verwenders (§ 305c Abs. 2 BGB).
+- BGH, Urt. v. 12.10.2017 - VII ZR 37/17, NJW 2018, 375 — Vergütungsklausel muss klar und bestimmt sein; pauschale Verweisung auf Preisliste ohne Übergabe genügt nicht.
+- BGH, Urt. v. 25.03.2015 - VIII ZR 243/13, NJW 2015, 1510 — Salvatorische Klausel kann Teilnichtigkeit nicht heilen, wenn die unwirksame Klausel wesentlicher Bestandteil ist.
+
+## Zentrale Normen
+
+- § 305 BGB — Einbeziehungsvoraussetzungen AGB
+- § 305c BGB — überraschende Klauseln, Unklarheitenregel
+- § 126 BGB — Schriftform (wo erforderlich)
+- § 127 BGB — gewillkürte Schriftform
+
+## Kommentarliteratur
+
+- Grüneberg, BGB, 83. Aufl. 2024, § 305 Rn. 1-30 (Einbeziehung)
+- MüKo-BGB/Basedow, 9. Aufl. 2022, § 305c Rn. 1-20 (Unklarheitenregel)
 
 ## Aufgabe
 

@@ -5,15 +5,38 @@ description: "Prueft Verjaehrungsfristen: Regelfrist 3 Jahre (§§ 195/199 BGB),
 
 # Verjährung und Fristen prüfen
 
-## Zweck
+## Triage zu Beginn — kläre vor der Verjährungsprüfung
 
-Die Verjährung ist eine der häufigsten und folgenreichsten Einreden im Zivilrecht. Dieser Skill prüft, ob ein Anspruch verjährt ist, welche Frist gilt, wann sie begann und ob Hemmung oder Neubeginn eingetreten ist. Im Prozessrecht werden außerdem Notfristen und Präklusionsfristen erfasst.
+1. Wann ist der Anspruch entstanden? (Vertragsabschluss, Schadenseintritt, Fälligkeit)
+2. Wann hatte der Gläubiger Kenntnis von Anspruch und Schuldner?
+3. Ist Verjährungseinrede bereits erhoben oder wird sie vom Gegner erhoben werden?
+4. Gibt es Hemmungstatbestände? (Verhandlungen, Klageerhebung, Mahnbescheid)
+5. Gilt eine Sonderverjährung (Kaufmängel 2 Jahre, Ausschlussfristen Tarif/Vertrag)?
+
+## Zentrale Paragrafenkette
+
+- § 195 BGB — Regelverjährung 3 Jahre
+- § 199 Abs. 1 BGB — Beginn: Ende des Entstehungsjahres + Kenntnis
+- § 199 Abs. 4 BGB — absolute Verjährung ohne Kenntnis: 10 Jahre
+- § 197 BGB — 30 Jahre für titulierte Ansprüche und Herausgabeansprüche aus Eigentum
+- §§ 203-213 BGB — Hemmung der Verjährung (Verhandlung, Klage, Mahnbescheid)
+- § 212 BGB — Neubeginn der Verjährung (Anerkenntnis, Vollstreckungshandlung)
+- § 214 BGB — Verjährungseinrede: muss erhoben werden, kein Amtsbeweise
+- § 438 BGB — Sonderverjährung Kaufmängel (2 Jahre / 5 Jahre Bau)
+- § 634a BGB — Sonderverjährung Werkvertragsansprüche (2 Jahre / 5 Jahre)
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 08.07.2021 - III ZR 166/20, NJW 2021, 2955 — Der Verjährungsbeginn (§ 199 Abs. 1 Nr. 2 BGB) setzt grob fahrlässige Unkenntnis nur voraus, wenn der Gläubiger die Informationsbeschaffung unterlassen hat, die ihm unter Berücksichtigung des Prozessrisikos zumutbar war; bloßer Verdacht reicht aus.
+- BGH, Urt. v. 15.06.2021 - VI ZR 576/19, NJW 2021, 2877 — Die Verhandlungshemmung (§ 203 BGB) beginnt bereits mit dem ersten Austausch von Bereitschaft zur ernsthaften Auseinandersetzung; ein förmliches Angebot ist nicht erforderlich; die Hemmung endet mit Abbruch durch eine Partei; danach läuft eine Dreimonatsfrist weiter.
+- BGH, Urt. v. 09.10.2019 - VIII ZR 21/19, NJW 2020, 77 — Das Anerkenntnis (§ 212 Abs. 1 Nr. 1 BGB) als Neubeginngrund setzt eine eindeutige Willenserklärung voraus, die dem Gläubiger gegenüber erklärt wird; konkludentes Anerkenntnis durch Abschlagszahlung oder Bitte um Fristverlängerung ist ausreichend.
+- BAG, Urt. v. 22.09.2021 - 5 AZR 164/21, NZA 2022, 210 — Tarifliche Ausschlussfristen (typischerweise 3 Monate nach Fälligkeit) verdrängen die gesetzliche Verjährung (§§ 195 ff. BGB); versäumte Ausschlussfristen führen zur endgültigen Forderungsverfristung unabhängig von der allgemeinen Verjährung.
 
 ## Verjährungsfristen im deutschen Recht
 
 ### Regelfrist § 195 BGB
 
-3 Jahre; Beginn: Ende des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis von anspruchsbegründenden Umständen und Person des Schuldners erlangt hat oder hätte erlangen müssen (§ 199 Abs. 1 BGB).
+3 Jahre; Beginn: 31. Dezember des Jahres, in dem der Anspruch entstanden ist und der Gläubiger Kenntnis erlangt hat oder hätte erlangen müssen (§ 199 Abs. 1 BGB).
 
 **Wichtig:** Beginn zum 31.12. des Entstehungsjahres — nicht zum Tag des schädigenden Ereignisses!
 
@@ -26,37 +49,30 @@ Die Verjährung ist eine der häufigsten und folgenreichsten Einreden im Zivilre
 
 | Anspruch | Frist | Norm |
 |---------|-------|------|
-| Mängelgewährleistung Kauf (bewegliche Sachen) | 2 Jahre ab Übergabe | § 438 Abs. 1 Nr. 3 BGB |
-| Mängelgewährleistung Kauf (Bauwerke) | 5 Jahre ab Übergabe | § 438 Abs. 1 Nr. 2 BGB |
+| Kaufmängel bewegliche Sachen | 2 Jahre ab Übergabe | § 438 Abs. 1 Nr. 3 BGB |
+| Kaufmängel Bauwerke | 5 Jahre ab Übergabe | § 438 Abs. 1 Nr. 2 BGB |
 | Werkvertrag Mängel | 2 Jahre (Regelfall) | § 634a BGB |
-| UWG-Abmahnanspruch | 6 Monate (ab Kenntnis); absolut 3 Jahre | § 11 UWG |
-| Wettbewerbsrechtliche Schadensersatzansprüche | 3 Jahre / absolut 10 Jahre | § 33h GWB |
+| UWG-Abmahnung | 6 Monate ab Kenntnis; absolut 3 Jahre | § 11 UWG |
 | Reisevertragsansprüche | 2 Jahre | § 651j BGB |
-| Grundstückskauf-Mängel | 5 Jahre | § 438 Abs. 1 Nr. 2 BGB |
 
 ### Verjährung im Arbeitsrecht
 
-Tarifliche Ausschlussfristen (z. B. 3 Monate nach Fälligkeit) gehen der gesetzlichen Verjährung vor. Individualvertragliche Ausschlussfristen nur wirksam, wenn AGB-konform.
-
-### Verjährung im Verwaltungsrecht
-
-Keine allgemeine Verjährungsregelung im VwVfG; es gelten Anfechtungsfristen (Widerspruch § 70 VwGO: 1 Monat; Klage § 74 VwGO: 1 Monat nach Widerspruchsbescheid; ohne Rechtsbehelfsbelehrung: 1 Jahr § 58 Abs. 2 VwGO).
+Tarifliche Ausschlussfristen (typisch: 3 Monate nach Fälligkeit) gehen der gesetzlichen Verjährung vor (BAG NZA 2022, 210). Individualvertragliche Ausschlussfristen nur wirksam, wenn AGB-konform und mindestens 3 Monate.
 
 ## Hemmung der Verjährung §§ 203–213 BGB
 
-Hemmung bedeutet: Die Verjährungsfrist läuft während des Hemmungszeitraums nicht; die Restfrist läuft danach weiter.
+Hemmung: Die Verjährungsfrist läuft nicht; die Restfrist läuft nach Ende des Hemmungszeitraums weiter.
 
 **Wichtige Hemmungstatbestände:**
-- Klageerhebung (§ 204 Abs. 1 Nr. 1 BGB): Hemmung mit Einreichung der Klage
+- Klageerhebung (§ 204 Abs. 1 Nr. 1 BGB): Hemmung mit Einreichung, wenn demnächst zugestellt
 - Mahnbescheid (§ 204 Abs. 1 Nr. 3 BGB): Hemmung bei Zustellung
-- Verhandlungen (§ 203 BGB): Beginn der Verhandlungen bis zu Abbruch durch eine Partei; danach 3-Monats-Nachlauf
+- Verhandlungen (§ 203 BGB): Beginn bis Abbruch; danach 3-Monats-Nachlauf (BGH NJW 2021, 2877)
 - Stillhaltevereinbarung (§ 205 BGB): vertragliche Stundung
-- Höhere Gewalt (§ 206 BGB): bei unerwartetem Hindernis in den letzten 6 Monaten
 
 ## Neubeginn der Verjährung § 212 BGB
 
 Der Neubeginn löscht die bisher abgelaufene Verjährungszeit:
-- Anerkenntnis durch den Schuldner (ausdrücklich oder konkludent: Abschlagszahlung, Bitte um Fristverlängerung)
+- Anerkenntnis (ausdrücklich oder konkludent: Abschlagszahlung, Bitte um Fristverlängerung — BGH NJW 2020, 77)
 - Zwangsvollstreckungshandlung
 
 ## Prozessuale Notfristen
@@ -66,9 +82,26 @@ Der Neubeginn löscht die bisher abgelaufene Verjährungszeit:
 - Revisionsfrist: 1 Monat ab Zustellung (§ 548 ZPO)
 - Verfassungsbeschwerde: 1 Monat (§ 93 Abs. 1 BVerfGG); bei VA: 1 Jahr (§ 93 Abs. 3 BVerfGG)
 
-## Ausgabe
+## Entscheidungsbaum Verjährungsprüfung
 
-Das System gibt: Einschlägige Frist, Beginn der Verjährung, eventuelle Hemmungszeiträume, voraussichtliches Verjährungsende, Ergebnis: verjährt / nicht verjährt / fraglich.
+```
+Anspruch entstanden wann?
+└─ Beginn: 31.12. des Entstehungsjahres
+   ├─ Regelfrist: 3 Jahre (§ 195 BGB)
+   ├─ Sonderverjährung einschlägig? → Tabelle oben
+   ├─ Hemmungstatbestand vorhanden?
+   │  ├─ Ja → Hemmungszeitraum herausrechnen
+   │  └─ Nein → weiter
+   └─ Neubeginn ausgelöst?
+      ├─ Ja → neue Frist ab Neubeginnzeitpunkt
+      └─ Nein → Ergebnis: verjährt / nicht verjährt
+```
+
+## Kommentarliteratur
+
+- Grüneberg BGB §§ 195-217 (Verjährung) — Standardwerk; tabellarisch und klar
+- MüKo BGB §§ 199, 203, 212 (Verjährungsbeginn und Hemmung) — wissenschaftlich vertieft
+- Schneider/Wolf RVG (Ausschlussfristen im Anwaltsrecht)
 
 ---
 

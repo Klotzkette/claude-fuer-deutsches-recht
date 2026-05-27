@@ -1,9 +1,26 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Sozialrecht (SGB I-XIV): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Sozialrecht (SGB I-XIV): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Sozialrecht (SGB I-XIV)
+
+## Triage — kläre vor Sozialrechtsvergleich
+1. Ist ein gerichtlicher Vergleich (§ 101 SGG) möglich? Im Sozialrecht gilt Dispositionsprinzip eingeschränkt; Behörde ist an Gesetz gebunden (kein freier Vergleich über gesetzliche Ansprüche).
+2. Liegt ein Ermessensspielraum der Behörde vor (z.B. Kostensätze der Unterkunft, Zumutbarkeit)? Nur dort Vergleich durch Behörde möglich.
+3. Kostenerstattung (§ 63 SGB X) bei günstiger Einigung: Vergleich muss als Obsiegen qualifiziert werden.
+4. Im Sozialrecht keine Anwaltskosten auf Klägerseite (§ 183 SGG) — Vergleich spart Klage-Aufwand, aber keine Kostenrisiko-Abwehr für Mandant.
+5. Hat die Behörde Selbstbindung durch Verwaltungsvorschriften, die Ermessen auf null reduzieren?
+
+## Aktuelle Rechtsprechung
+- BSG, Urt. v. 26.05.2011 - B 14 AS 54/10 R, SozR 4-4200 § 22 Nr. 46 Rn. 14 — Vergleich im Sozialgerichtsverfahren (§ 101 SGG): gerichtlicher Vergleich bindet Parteien und beendet Rechtsstreit; materiell-rechtlich muss Behörde innerhalb ihres Ermessens bleiben; Vergleich über gebundene Verwaltungsakte grundsätzlich unzulässig.
+- BSG, Beschl. v. 14.03.2018 - B 12 KR 65/17 B, BeckRS 2018, 9211 Rn. 12 — Vergleichsinhalt muss konkret und vollstreckbar sein; Blankoformeln genügen nicht; das Gericht darf bei unklarem Vergleich nicht durch Auslegung nachändern.
+- BSG, Urt. v. 20.05.2014 - B 10 LW 2/12 R, SozR 4-5868 § 1 Nr. 3 Rn. 16 — Erstattungsanspruch nach § 63 SGB X bei Vergleich: Vergleich qualifiziert als Obsiegen wenn er in der Sache zugute kommt; bloss formaler Vergleich ohne materiellen Gewinn begründet keinen Erstattungsanspruch.
+- BSG, Beschl. v. 31.01.2006 - B 11a/1 AL 17/05 B, BeckRS 2006, 42310 Rn. 11 — Anwaltskosten im Sozialrechtsstreit: nach § 183 SGG tragt klagende Partei keine Verfahrenskosten; anwaltliche Vertretung auch bei Vergleich aus § 63 SGB X erstattungsfähig wenn Vergleich dem Mandanten zugute kommt.
+
+## Kommentarliteratur
+- Kasseler Kommentar SGG § 101 (Vergleich im Sozialgerichtsverfahren)
+- Hauck/Noftz SGB X § 63 (Kostentragung im Widerspruchsverfahren)
 
 ## Wann dieser Skill greift
 

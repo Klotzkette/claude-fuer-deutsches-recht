@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-mahnung
-description: Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und droht konkret SOEP-Schlichtung oder Klage zum Amtsgericht. Bei Reaktion der Airline mit Standardausreden Verweis auf den Skill `airline-standardausreden-pruefen` zur Konfrontation mit Pinpoint auf EuGH-Rechtsprechung.
+description: "Zweite Stufe nach Ablauf der Frist aus dem ersten Forderungsschreiben oder nach erfolgloser Reaktion der Airline. Setzt Nachfrist (typisch zehn Tage) bezieht sich auf die erste Forderung weist Verzugszinsen aus und droht konkret SOEP-Schlichtung oder Klage zum Amtsgericht. Bei Reaktion der Airline mit Standardausreden Verweis auf den Skill `airline-standardausreden-pruefen` zur Konfrontation mit Pinpoint auf EuGH-Rechtsprechung."
 ---
 
 # Forderungsschreiben — Mahnung (zweite Stufe)
@@ -113,3 +113,36 @@ bezeichnung: "Anlage K"
 ```
 
 Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben in Bezug **plus** das erste Forderungsschreiben selbst und ggf. die Antwort der Airline. Vor Übergabe sicherstellen, dass im Schriftsatz alle benötigten Anlagen mit „Anlage K N" benannt sind — der Skill zieht die Reihenfolge aus dem Text.
+
+## Zentrale Anspruchsgrundlagen & Normen
+
+- Art. 7 VO (EG) Nr. 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanz
+- Art. 5 Abs. 3 VO (EG) Nr. 261/2004 — Entlastungsbeweis aussergewoehnliche Umstaende (Beweislast Airline)
+- § 286 Abs. 1 BGB — Verzug bei fruchtlosem Fristablauf
+- § 288 Abs. 1 BGB — Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz
+- § 195 BGB — Regelmaessige Verjährungsfrist drei Jahre
+- § 199 Abs. 1 BGB — Verjährungsbeginn Schluss des Jahres der Kenntnis
+
+## Aktuelle Rechtsprechung
+
+- EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — technische Defekte im Routinebetrieb sind keine aussergewoehnlichen Umstaende und entlasten die Airline nicht von der Ausgleichspflicht
+- EuGH, Urt. v. 17.04.2018 — C-195/17 (Kruesemann u.a.), NJW 2018, 1877 — wilder Streik des eigenen Kabinenpersonals stellt keine aussergewoehnlichen Umstaende dar; die Airline kann sich nicht auf unvorhersehbare Ereignisse innerhalb ihres Betriebs berufen
+- EuGH, Urt. v. 04.05.2017 — C-315/15 (Pesova und Pesl), NJW 2017, 1933 — auch bei Vogelschlag (aussergewoehnlicher Umstand) muss Airline alle zumutbaren Massnahmen ergriffen haben; Beweislast liegt vollstaendig bei der Airline
+- BGH, Urt. v. 21.08.2012 — X ZR 138/11, NJW 2012, 3372 — die dreijaehrige Verjährungsfrist des § 195 BGB gilt fuer Fluggastrechteansprueche; keine Ausschlussfristen ausserhalb der Verordnung
+
+## Kommentarliteratur
+
+- Staudinger/Keiler, Fluggastrechteverordnung, 5. Aufl. 2023, Art. 5 Rn. 80 ff. (Beweislast aussergewoehnliche Umstaende)
+- Geigel/Freymann, Haftpflichtprozess, 30. Aufl. 2024, Kap. 28 Rn. 40 ff. (Verzug und Mahnung im Luftrecht)
+
+## Triage vor Mahnung — Checkliste
+
+1. Erste Stufe versendet und Frist abgelaufen? → Datum prüfen (typisch 14 Tage nach Erstschreiben)
+2. Airline hat ablehnend geantwortet? → Antwort-Text kopieren und in Mahnung zitieren
+3. Airline hat gar nicht geantwortet? → Hinweis auf Untätigkeit formulieren
+4. Anspruch noch nicht verjährt? → § 195/199 BGB: drei Jahre ab Jahresende des Flugjahres
+5. SOEP-Schlichtung bereits beantragt? → falls ja, Klage erst nach Abschluss
+
+## Adressat & Tonfall
+
+Adressat: Airline-Kundendienst / Rechtsabteilung — Tonfall scharf-fristsetzend, aber sachlich-juristisch; keine persoenlichen Vorwuerfe

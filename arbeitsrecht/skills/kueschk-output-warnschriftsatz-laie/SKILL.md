@@ -106,6 +106,49 @@ ____________________________
 
 ---
 
+## Triage zu Beginn — kläre vor Ausgabe der vollständigen Klageschrift
+
+1. Wurden alle vorgelagerten Prüfschritte abgearbeitet?
+   - KSchG-Anwendbarkeit (§ 23 KSchG, § 1 Abs. 1 KSchG) ✓/✗
+   - Frist und Zugang (§ 4 KSchG) ✓/✗
+   - Formfehler (§§ 623, 174 BGB) ✓/✗
+   - Sonderkündigungsschutz ✓/✗
+2. Liegt der Kündigungsgrund (betriebsbedingt/verhaltensbedingt/personenbedingt) fest?
+3. Wurde der Laien-Disclaimer-Kopf (`kueschk-grundwarnung-falsche-wiese-und-haftung`) bereits ausgegeben?
+4. Sind alle Platzhalter [NAME], [DATUM], [BETRAG] durch echte Angaben des Nutzers befüllt?
+
+**Schrittfolge Klageschrift-Ausgabe:**
+```
+Step 1: Disclaimer-Kopf ausgeben (immer)
+Step 2: Rubrum (Gericht, Kläger, Beklagter) ausfüllen
+Step 3: Streitwert berechnen (3 × Bruttomonatsgehalt)
+Step 4: Anträge formulieren (allgemeiner + besonderer Feststellungsantrag)
+Step 5: Begründung nach Sachverhalt (Option A/B/C/D)
+Step 6: Beweisangebote einsetzen
+Step 7: Einreichungshinweise ausgeben
+```
+
+## Zentrale Normen
+
+- **§ 4 KSchG** — Klagefrist drei Wochen (absolute Ausschlussfrist)
+- **§ 256 ZPO** — Feststellungsklage, Feststellungsinteresse
+- **§ 42 Abs. 2 GKG** — Streitwert drei Bruttomonatsgehalt bei Kündigungsschutz
+- **§ 46 Abs. 2 ArbGG i.V.m. §§ 495, 495a ZPO** — Verfahrensvorschriften Arbeitsgericht
+- **§ 11 Abs. 1 ArbGG** — Kein Anwaltszwang erste Instanz
+- **§ 46 Abs. 2 ArbGG i.V.m. § 496 ZPO** — Klage kann zu Protokoll der Geschäftsstelle erklärt werden
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 28.06.2007 – 6 AZR 750/06, NZA 2007, 1098 — Allgemeiner Feststellungsantrag in der Kündigungsschutzklage genügt den Anforderungen des § 256 ZPO; der Kläger muss lediglich die konkrete Kündigung bezeichnen und das Datum des Zugangs angeben.
+- BAG, Urt. v. 26.06.2008 – 2 AZR 264/07, NZA 2008, 1182 — Die Klageschrift muss innerhalb von drei Wochen beim Arbeitsgericht eingegangen sein; eine Aufgabe zur Post innerhalb der Frist reicht nicht aus, wenn das Schreiben erst danach ankommt.
+- BAG, Urt. v. 14.03.2013 – 6 AZR 782/11, NZA 2013, 857 — Bei Klage zu Protokoll der Geschäftsstelle ist die Frist gewahrt, sobald das Protokoll aufgenommen ist; Fehler im Protokoll gehen nicht zu Lasten des Klägers.
+
+## Kommentarliteratur
+
+- ErfK/Kiel, 24. Aufl. 2024, § 4 KSchG Rn. 16-30 — (Form der Klage, Klagefrist, Zu-Protokoll-Erklärung)
+- KR/Friedrich, 13. Aufl. 2022, § 4 KSchG Rn. 50 ff. — (Streitwert, Anträge)
+- Schwab/Weth, ArbGG, 6. Aufl. 2022, § 46 Rn. 10 ff. — (Klageerhebung, Protokoll der Geschäftsstelle)
+
 ## Einreichungshinweise
 
 1. **Frist:** Die Klageschrift muss innerhalb von **drei Wochen** nach Zugang der Kündigung beim Arbeitsgericht eingehen.

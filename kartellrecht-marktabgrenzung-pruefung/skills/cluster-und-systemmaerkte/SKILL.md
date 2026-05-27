@@ -1,6 +1,6 @@
 ---
 name: cluster-und-systemmaerkte
-description: Prueft Cluster-Maerkte (Buendelung nicht substitutiver Produkte zu einem Markt wegen gemeinsamer Nachfragemuster) und Systemmaerkte (Primaermarkt plus Aftermarkt). Behandelt Pelikan-Doktrin Kyocera-Doktrin und Bedingungen fuer eigenstaendigen Aftermarkt nach EuGH-Rechtsprechung und EU-Kommissions-Praxis.
+description: "Behoerde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prueft Cluster-Maerkte Buendelung nicht-substitutiver Produkte und Systemmaerkte Primaermarkt plus Aftermarkt. Normen Art. 102 AEUV § 18 GWB § 19 GWB EuGH-Rspr zu Aftermarkt. Pruefraster Pelikan-Doktrin Kyocera-Doktrin eigenstaendiger Aftermarkt Nachfragesteuerung Wechselkosten. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko. Abgrenzung: mehrseitige-maerkte-plattformen fuer Plattform-Spezifika."
 ---
 
 # Cluster- und Systemmärkte
@@ -60,3 +60,13 @@ Wenn Käufer die Lifecycle-Kosten einkalkulieren (Primär + After), dann diszipl
 ## 4. Fazit
 
 Liegt ein Cluster- oder Systemmarkt vor? Begründung und Auswirkung auf Marktanteile.
+
+## Leitentscheidungen Cluster- und Systemmaerkte
+
+- EK, Entsch. v. 22.07.2009 — COMP/M.5529 (Oracle/Sun Microsystems) — Systemmarkt Hardware/Software; Buendelungsstrategien als wettbewerbsrelevante Faktoren; After-Sales-Markt separat zu betrachten.
+- EuGH, Urt. v. 22.01.2013 — C-283/11 (Sky Oesterreich), NJW 2013, 1205 — Systemprodukte und Nutzerbindung; Wechselkosten als Marktmacht-Indikator.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Plattform-Oekosystem als Systemmarkt; Netzwerkeffekte zwischen Marktseiten.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 15-35 (Systemmaerkte, mehrseitige Maerkte, Netzwerkeffekte)

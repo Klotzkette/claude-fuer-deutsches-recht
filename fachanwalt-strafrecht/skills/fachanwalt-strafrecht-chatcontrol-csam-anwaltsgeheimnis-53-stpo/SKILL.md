@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo
-description: "ChatControl 2.0 EU-CSAM-Verordnung Vorschlag COM(2022) 209 Anwendung auf Anwaltskommunikation. Konflikt mit § 53 StPO Zeugnisverweigerungsrecht § 53a § 97 StPO Beschlagnahmeverboten § 160a StPO Akteneinsicht. Anwaltsgeheimnis bei verschluesselter Kommunikation. Strategien Mandantenkommunikation Verteidigungsstrategien."
+description: "Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prueft ob Chat-Control-Massnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten. § 53 StPO Zeugnisverweigerungsrecht, § 97 StPO Beschlagnahmeverbot, BRAO Anwaltsgeheimnis, EU-Chat-Control-VO-Entwurf. Pruefraster Anwaltsgeheimnis-Schutz, Beschlagnahmeschutz, EU-Regulierungsrisiken, Mandatskommunikation-Sicherheit. Output Rechtsgutachten zu Chat-Control-Risiken fuer Anwaltsgeheimnis. Abgrenzung zu KI-Governance-Berufsrecht und zu Akteneinsicht."
 ---
 
 # ChatControl / EU-CSAM und Anwaltsgeheimnis § 53 StPO

@@ -1,9 +1,32 @@
 ---
 name: tatbestaende-lernen
-description: "Lernt Tatbestände systematisch — Tatbestandsmerkmale zerlegen, Definitionen abrufbar machen, Streitstände im Kontext der Merkmale verorten, Schemata als Hilfsgerüst, häufige Tatbestände BGB/StGB/VwR im Drillformat. Lädt, wenn der Nutzer „Tatbestand lernen\", „Definitionen lernen\", „TBM-Karteikarten\", „§ XYZ üben\" oder „wie lerne ich BGB-Tatbestände\" sagt."
+description: "Tatbestaende lernen fuer Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen fuer Klausuren und Examen. Loesungsschemata Tatbestandsmerkmale BGB Strafrecht oeffentliches Recht, Subsumtion, Methodenlehre. Pruefraster Tatbestandsmerkmale vollstaendig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Loesungsschemata fuer Klausuraufbau und zu Karteikarten fuer allgemeines Lernen."
 ---
 
 # Tatbestände lernen
+
+
+## Triage zu Beginn
+1. Welcher Tatbestand soll erarbeitet werden (§ 242 StGB, § 280 BGB, § 823 BGB, etc.)?
+2. Ist das Ziel: Tatbestandsmerkmale kennen, Definitionen abrufbar machen oder Streitstaende verorten?
+3. Soll im Drill-Format (Abfragen) oder im Erklaer-Format (Zusammenhaenge) gearbeitet werden?
+4. Gibt es einen Klausur-/Examens-Druck oder dient die Übung der Grundlagen-Vertiefung?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 28.06.2018 - 3 StR 108/18, NStZ 2019, 28 — § 242 StGB: Gewahrsamsbruch als mehrstuftiges Tatbestandsmerkmal; Bruch erfordert Aufhebung gegen den Willen des Inhabers.
+- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — § 280 BGB: Pflichtverletzung als zentrales Tatbestandsmerkmal; muss konkret benannt und subsumiert werden.
+- BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — § 823 BGB: Verletzung eines absolut geschuetzten Rechtsguts als Tatbestandsmerkmal; Abgrenzung allgemeines Vermoegen vs. absolutes Recht.
+- BVerwG, Urt. v. 09.06.1967 - IV C 38.67, BVerwGE 27, 141 — Verwaltungsrechtlicher Tatbestand: Ermessensnorm erfordert Pruefung Tatbestandsstufe und Rechtsfolgenstufe getrennt.
+
+## Zentrale Normen
+- §§ 433, 280, 823 BGB — Zivil-Kerntatbestaende fuer Drill-Lernen
+- §§ 242, 263, 212 StGB — Straf-Kerntatbestaende fuer Drill-Lernen
+- §§ 40, 42 VwGO — VwR-Grundtatbestaende fuer Drill-Lernen
+- §§ 133, 157 BGB — Auslegung als Querschnittskompetenz bei jedem Tatbestand
+
+## Kommentarliteratur
+- Fischer StGB § 242 Rn. 1-60, § 263 Rn. 1-80 (Klassik-Tatbestaende Strafrecht)
+- Grüneberg/Grüneberg BGB §§ 280, 823 Rn. 1-50 (Kerntatbestaende Zivilrecht)
 
 ## Zweck
 

@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Individual- und kollektives Arbeitsrecht
@@ -151,3 +151,30 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 11.12.2019 — 7 AZR 620/17**, NZA 2020, 449 — Sorgfaltspflichten des Rechtsanwalts bei Fristversäumnis im Arbeitsrecht; Wiedereinsetzung nach § 233 ZPO nur bei fehlendem Verschulden; sofortige Fristenerfassung im Erstgespräch ist anwaltliche Pflicht.
+- **BAG, Urt. v. 15.09.2021 — 9 AZR 217/20**, NZA 2021, 1556 — Beratungspflicht des Anwalts über Sperrzeit-Risiken beim Aufhebungsvertrag; fehlende Aufklärung kann Schadensersatzpflicht des Anwalts begründen.
+- **BGH, Urt. v. 17.11.2016 — IX ZR 145/15**, NJW 2017, 558 — Anwaltliche Pflicht zur vollständigen Interessenwahrnehm ung im Erstgespräch; alle bekannten Fristen müssen sofort im Kalender eingetragen werden.
+
+## Paragrafenkette Fristen Arbeitsrecht
+
+- **§ 4 KSchG** — Klage auf Kündigungsschutz: drei Wochen ab Zugang der schriftlichen Kündigung
+- **§ 17 TzBfG** — Befristungskontrollklage: drei Wochen ab vereinbartem Ende
+- **§ 15 Abs. 4 AGG** — Geltendmachung AGG-Entschädigung schriftlich innerhalb zwei Monate
+- **§ 61b ArbGG** — Klage auf AGG-Entschädigung: drei Monate ab schriftlicher Geltendmachung
+- **§ 102 Abs. 2 BetrVG** — Betriebsratsanhörung: eine Woche ordentlich, drei Tage außerordentlich
+
+## Kommentarliteratur
+
+- ErfK/Reinhard, 25. Aufl. 2025, ArbGG § 4 Rn. 1 ff. (Klagefrist, Zugang, Wahrung)
+- HWK/Thüsing, 11. Aufl. 2024, KSchG § 4 Rn. 1 ff. (Fristberechnung, Zugangsnachweis)
+
+## Triage — Erstgespräch-Einstieg
+
+1. Liegt eine sofortige Klagefrist vor? (Kündigung → § 4 KSchG, Befristungsende → § 17 TzBfG)
+2. GwG-Identifizierung abgeschlossen? (Lichtbildausweis, bei juristischer Person Handelsregister)
+3. Interessenkonflikt geprüft? (§ 43a Abs. 4 BRAO)
+4. Honorarvereinbarung: RVG oder Stundensatz? Vorschuss anfordern!
+5. Welche weiteren Fristen sind aus den vorgelegten Unterlagen erkennbar?

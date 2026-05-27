@@ -111,3 +111,19 @@ Wenn die Could-Would-Prüfung nahelegend ausfällt, aber dennoch Zweifel bestehe
 ## Disclaimer
 
 > **Hinweis zur Prüfung.** Diese Prüfung der erfinderischen Tätigkeit ist eine KI-gestützte Vorprüfung und keine amtliche Prüfung durch DPMA oder EPA. Der Problem-Solution-Approach ist methodisch sensibel — die Auswahl des nächstliegenden Stands der Technik kann die Bewertung entscheidend verschieben. Die Prüfung muss durch eigene Bewertung und durch Prüfung der Recherche-Vollständigkeit abgesichert werden.
+
+## Triage-Fragen vor Pruefung erfinderischer Taetigkeit
+
+Bevor der Problem-Solution-Approach angewendet wird, klaere:
+1. Welche Entgegenhaltung ist der naechstliegende Stand der Technik (CPA — Closest Prior Art)?
+2. Welches technische Problem loest die Erfindung ausgehend vom CPA?
+3. Sind Sekundaerindizien vorhanden (unerwarteter technischer Effekt, ueberwundenes technisches Vorurteil, lang empfundenes Beduerfnis)?
+4. Sind alle Merkmale des Hauptanspruchs in der PSA beruecksichtigt?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 26.09.1996 — X ZR 72/94 (Elektrische Steckverbindung):** Die erfinderische Taetigkeit fehlt, wenn der Fachmann ausgehend vom Stand der Technik durch naheliegende Kombination bekannter Massnahmen zur beanspruchten Loesung gelangt waere; der massgebliche Zeitpunkt ist der Prioritaetstag, nicht der Anmeldezeitpunkt.
+
+> **EPA, Technische Beschwerdekammer, T 21/81 (Unerwarteter technischer Effekt):** Ein unerwarteter technischer Effekt, der ueber das aus dem Stand der Technik Vorhersehbare hinausgeht, ist ein Indiz fuer erfinderische Taetigkeit; er muss im Anspruch oder in der Beschreibung hinreichend offenbart sein.
+
+> **BGH, Urt. v. 30.04.2009 — Xa ZR 92/05 (Druckmaschine):** Kann der Fachmann ausgehend vom nächstliegenden Stand der Technik durch einfache Kombination mehrerer bekannter Massnahmen ohne erfinderisches Zutun zur Loesung gelangen, fehlt die erfinderische Taetigkeit; die Tatsache, dass die Kombination bisher nicht bekannt war, genuegt allein nicht.

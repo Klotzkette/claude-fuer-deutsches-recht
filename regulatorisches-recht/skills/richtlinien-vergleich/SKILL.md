@@ -1,6 +1,6 @@
 ---
 name: richtlinien-vergleich
-description: "Richtlinien-Diff – vergleicht eine neue Aufsichtsnorm oder -verlautbarung gegen eine bestehende interne Richtlinie. Laden, wenn eine konkrete Norm oder Verlautbarung gegen ein Bestandsdokument verglichen werden soll."
+description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Pruefraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht fuer Lueckenanalyse (luecken)."
 ---
 
 # Richtlinien-Diff
@@ -132,3 +132,11 @@ Kommentarliteratur:
 - **Verlautbarungsversion:** MaRisk und BAIT werden novelliert; stets Version und Datum der verwendeten Norm angeben und prüfen, ob aktuell.
 - **Best-Practice vs. verbindlich:** EBA-Leitlinien sind nach Art. 16 EBA-VO „comply or explain" – nicht 1:1 verbindlich. Status klar kennzeichnen.
 - **Proportionalitätsgrundsatz:** Nicht jede Norm gilt für jede Institutsgröße gleich (§ 25a Abs. 1 S. 3 KWG). Adressatenkreis prüfen und im Diff ausweisen.
+## Aktuelle Rechtsprechung & Leitsätze
+
+- EuGH, Urt. v. 03.12.2020 — C-62/19, NJW 2021, 540 — Richtlinien-Vergleich bei Umsetzungsrecht; nationales Recht muss mit konsolidierter Richtlinien-Fassung verglichen werden; Verweis auf veraltete Richtlinien-Fassung ist Fehler
+- BVerwG, Urt. v. 22.09.2021 — 9 C 3.20, NVwZ 2022, 86 — Richtlinien-Vergleich als Grundlage fuer EU-Normenprüfung; Abweichungen zwischen nationaler Umsetzung und RL-Anforderung muessen begruendet werden
+
+**Kernnormen:** Art. 288 AEUV — §§ 133, 157 BGB — § 47 GGO (Ressortabstimmung Richtlinien-Vergleich)
+
+**Kommentarliteratur:** Calliess/Ruffert, EUV/AEUV, 6. Aufl. 2022, Art. 288 Rn. 1 ff. (Richtlinien-Systematik)

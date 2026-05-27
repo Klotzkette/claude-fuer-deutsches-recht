@@ -1,147 +1,226 @@
 ---
 name: anlageberatungsfehler-pruefen
-description: Pruefraster fuer Anlageberatungsfehler und Schadensersatz-Ansprueche gegen Banken und Vermoegensverwalter. Anwendung BGH XI ZR 12/93 Bond-Urteil — anleger- und anlagegerechte Beratung. Pflichten zur Aufklaerung ueber Funktionsweise Risiken Kostenstruktur Vertriebsverguetungen Kickbacks (BGH XI ZR 56/05 — Aufklaerungspflicht ueber Rueckverguetungen). MiFID-II WpHG Anlegerschutz Geeignetheits- und Angemessenheits-Pruefung Beratungsprotokoll. Schadensberechnung negatives Interesse oder Differenzhypothese. Verjaehrung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist zehn Jahre nach Beratung § 199 Abs. 3 BGB.
+description: "Mandant hat Verlust aus Kapitalanlage und prueft ob Bank oder Vermoegensverwalter fehlerhaft beraten hat. Bond-Urteil BGH XI ZR 12/93 anleger- und anlagegerechte Beratung Kickbacks BGH XI ZR 56/05. Normen §§ 280 311 BGB WpHG MiFID-II §§ 63 ff. Pruefraster Beratungsprotokoll Geeignetheitspruefung Aufklaerungspflicht-Inhalt Kausalitaet Schadensberechnung Verjaehrung. Output Schadensersatz-Klageschrift Rueckabwicklungs-Berechnung. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft (Schwerpunkt-Skill) und widerrufsjoker (Widerruf)."
 ---
 
 # Anlageberatungsfehler prüfen
 
 ## Zweck
 
-Schadensersatz-Ansprüche eines Anlegers gegen seine Bank wegen falscher Anlageberatung — das praxis-typische Mandat im Bankrecht.
+Schadensersatzansprüche eines Anlegers gegen seine Bank oder einen Vermögensverwalter wegen falscher Anlageberatung. Das praxistypische Mandat im Bankrecht: geschlossene Fonds, Zertifikate, Swaps, Schiffsfonds, Lehman-Papiere oder aktuelle Krypto-Anleihen.
 
-## Eingaben
+## Mandantenfragen — Kaltstart
 
-- Anlage-Produkt (Wertpapier Fonds Zertifikat Anleihe geschlossener Fonds)
-- Vertragsunterlagen Beratungsprotokoll Risikoprofil
-- Marketingmaterial Prospekt
-- Aufzeichnungen Beratungsgespräch (MiFID-II Sprachaufzeichnung)
-- Schadensverlauf (Wertentwicklung Verlust-Realisierung)
-- Korrespondenz Bank
+1. **Wann fand das Beratungsgespräch statt?** — Verjährung 3 Jahre ab Kenntnis (§ 199 Abs. 1 BGB) + max. 10 Jahre § 199 Abs. 3 BGB; Verjährung ist häufigster Ablehnungsgrund.
+2. **Welches Produkt wurde empfohlen?** — Fondsanteile, Zertifikate, geschlossener Fonds, Swap, ETF; bestimmt Haftungsgrundlage.
+3. **Liegt ein Beratungsprotokoll vor?** — MiFID-II Pflicht seit 2018 (§ 83 WpHG); fehlende Protokoll-Übersendung = Beweisschwäche Bank.
+4. **Welches Risikoprofil wurde erhoben?** — Anlegergerechte Beratung verlangt Abgleich Risikoprofil mit Produkteinstufung.
+5. **Hat die Bank Rückvergütungen (Kickbacks) erhalten?** — Emittent → Bank = Pflicht zur Aufklärung nach BGH XI ZR 56/05.
+6. **Wie hoch ist der tatsächliche Verlust?** — Eingesetztes Kapital minus aktueller Wert; Differenzhypothese oder negatives Interesse.
+7. **Liegt die Schaden-Realisierung erst in jüngster Zeit vor?** — Verjährungsfrist beginnt mit grober Kenntnis, nicht mit objektivem Eintritt.
+8. **Hat die Bank eine Stellungnahme oder Kulanz-Angebot gemacht?** — Verhandlungsposition einschätzen; Verjährungshemmung bei Verhandlungen § 203 BGB.
 
-## Schritt 1 — Beratungsvertrag
+## Rechtlicher Rahmen
 
-- **Konkludenter Beratungsvertrag** durch Beratung des Kunden BGH XI ZR 12/93 Bond
-- **Schriftlicher Beratungsvertrag** wenn vorhanden
-- **Vermögensverwaltungs-Vertrag** wenn Discretionary Management
-- Bei reinem Order-Execution-Only kein Beratungsvertrag aber Aufklärungspflicht WpHG
+### Primärnormen
 
-## Schritt 2 — Anleger- und Anlagegerechte Beratung BGH Bond
+| Norm | Inhalt |
+|---|---|
+| § 280 Abs. 1 BGB | Schadensersatz aus Pflichtverletzung des Beratungsvertrags |
+| § 311 Abs. 2 BGB | c.i.c.: Pflichten aus vorvertraglichem Verhältnis |
+| § 241 Abs. 2 BGB | Rücksichtnahmepflichten |
+| § 249 BGB | Differenzhypothese: Schaden = Differenz hypothetischer Verlauf ohne Pflichtverletzung |
+| § 254 BGB | Mitverschulden: Eigenverantwortung des Anlegers |
+| §§ 195, 199 BGB | Verjährung: 3 Jahre ab Kenntnis / 10 Jahre absolut |
+| § 63 WpHG | Angemessenheitsprüfung (execution only) |
+| § 64 WpHG | Geeignetheitsprüfung (Beratung): Kunde, Anlageziele, finanzielle Situation, Kenntnisse |
+| § 83 WpHG | Beratungsprotokoll-Pflicht |
 
-### Anlegergerecht
+### Bond-Urteil (BGH XI ZR 12/93, 06.07.1993)
 
-- **Wissensstand** (Erfahrungen)
-- **Risikobereitschaft** (Risikoklasse)
-- **Anlageziele** (Vermögensaufbau Altersvorsorge Sicherheit Liquidität)
-- **Finanzielle Verhältnisse** (Vermögen Verbindlichkeiten Einkommen)
+Das Fundament aller Beratungshaftungs-Fälle:
 
-### Anlagegerecht
+**Anlegergerecht** bedeutet:
+- Wissensstand (Erfahrungen mit Finanzprodukten)
+- Risikobereitschaft (Risikoklasse)
+- Anlageziele (Altersvorsorge, Kapitalerhalt, Rendite, Liquidität)
+- Finanzielle Verhältnisse (Vermögen, Verbindlichkeiten, Einkommen)
 
-- **Funktionsweise** des Produkts
-- **Risiken** Kapitalverlust Renditerisiko Wechselkurs Marktliquidität Emittentenrisiko Insolvenzrisiko
-- **Kostenstruktur** Ausgabeaufschlag laufende Kosten Management-Fee Performance-Fee
-- **Steuerliche Wirkung**
+**Anlagegerecht** bedeutet:
+- Funktionsweise des Produkts
+- Risiken (Kapitalverlust, Rendite, Wechselkurs, Liquidität, Emittent)
+- Kostenstruktur (Ausgabeaufschlag, laufende Kosten, Performance-Fee)
+- Steuerliche Wirkung
 
-## Schritt 3 — Aufklärungspflicht Rückvergütungen (Kickbacks)
+### Kickback-Linie (BGH XI ZR 56/05, 19.12.2006 u.a.)
 
-BGH XI ZR 56/05 XI ZR 191/10 und Folgerechtsprechung:
+- Bank muss über **alle Vertriebsvergütungen** aufklären, die sie vom Emittenten/Produktanbieter erhält
+- Aufklärung muss vor Investition erfolgen
+- Innenprovisionen (versteckt im Produkt): ab 15 % Aufklärungspflicht (BGH XI ZR 56/05)
+- Eigeninteresse der Bank begründet Interessenkonflikt → aufklärungsbedürftig
 
-- Bank muss über Vertriebsvergütungen (Rückvergütungen) durch Emittent / Fondsanbieter aufklären
-- Bei Verletzung Schadensersatz
-- Eigeninteresse der Bank Aufklärungsbedürftig
-- Anwendungsbereich: alle vermittelten Anlageprodukte mit Kickbacks
-- Innenprovisionen: weiter aufzuklären ab fünfzehn Prozent BGH XI ZR 56/05
+### Leitentscheidungen
 
-## Schritt 4 — WpHG / MiFID-II
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---|---|---|---|
+| BGH | XI ZR 12/93 | 06.07.1993 | Bond-Urteil: anleger- und anlagegerechte Beratung |
+| BGH | XI ZR 56/05 | 19.12.2006 | Aufklärung über Rückvergütungen |
+| BGH | XI ZR 320/04 | 12.05.2009 | Vermutung aufklärungsrichtigen Verhaltens |
+| BGH | XI ZR 178/10 | 27.09.2011 | Lehman-Zertifikate: Emittentenrisiko-Aufklärung |
+| BGH | XI ZR 33/10 | 22.03.2011 | CMS Spread Ladder Swap: anfänglicher negativer Marktwert aufklärungspflichtig |
+| BGH | XI ZR 158/11 | 27.09.2011 | Entgangene Verzinsung: 4 % als pauschalierter Vergleichsmaßstab |
+| BGH | XI ZR 109/13 | 17.10.2013 | Vorschuss-Anspruch bei Architekten/Beraterhaftung |
 
-- **Geeignetheitsprüfung** § 64 Abs. 3 WpHG
-- **Angemessenheitsprüfung** § 63 Abs. 10 WpHG
-- **Beratungsprotokoll** seit MiFID-II Pflicht
-- **Sprachaufzeichnung** Pflicht bei Wertpapiergeschäften (MiFID-II Art. 16)
-- Ausnahme bei Privatkunden auf nachgefragten Geschäften
+## Prüfschema Anlageberatungsfehler
 
-## Schritt 5 — Spezialthemen
+| Schritt | Prüfpunkt | Norm | Risiko bei Fehler |
+|---|---|---|---|
+| 1 | Beratungsvertrag (konkludent oder schriftlich)? | § 280 BGB | Ohne Vertrag nur c.i.c. |
+| 2 | Risikoprofil erhoben und dokumentiert? | § 64 WpHG | Bank-Gegenbeweis möglich |
+| 3 | Anlegergerechte Beratung: Profil ≠ Produkt? | BGH XI ZR 12/93 | Pflichtverletzung |
+| 4 | Anlagegerecht: Produktrisiken aufgeklärt? | BGH XI ZR 12/93 | Pflichtverletzung |
+| 5 | Kickbacks offengelegt? | BGH XI ZR 56/05 | Schwerer Verstoß |
+| 6 | Beratungsprotokoll erstellt und übergeben? | § 83 WpHG | Beweisschwäche Bank |
+| 7 | Kausalität: hätte ohne Fehler nicht investiert? | BGH XI ZR 320/04 | Vermutung gilt; Bank muss widerlegen |
+| 8 | Schadenshöhe berechnet? | § 249 BGB | Klageinhalt |
+| 9 | Mitverschulden § 254 BGB? | § 254 BGB | Quotelung des Schadensersatzes |
+| 10 | Verjährung geprüft? | §§ 195, 199 BGB | Klage abgewiesen bei Verjährung |
 
-### Geschlossene Fonds
+## Beweislast und Darlegungslast
 
-- Prospekthaftung im engeren Sinne § 9 VermAnlG / § 21 WpPG
-- Prospekthaftung im weiteren Sinne nach BGB
-- Pflicht zur Plausibilitäts-Prüfung der Bank
+| Thema | Beweislast |
+|---|---|
+| Inhalt des Beratungsgesprächs | Bank (MiFID-II Protokoll; bei fehlendem Protokoll: Vermutung zu Lasten Bank) |
+| Risikoprofil-Erhebung | Bank |
+| Aufklärung über Kickbacks | Bank |
+| Kausalität (hätte nicht investiert) | Vermutung aufklärungsrichtigen Verhaltens (BGH XI ZR 320/04): Bank muss Vermutung widerlegen |
+| Schadenshöhe | Anleger (§ 287 ZPO: Schätzung zulässig) |
+| Mitverschulden | Bank |
+| Verjährung | Bank |
 
-### Lehman-Zertifikate
+## Schadensberechnung
 
-- Aufklärungs-Pflicht über Emittenten-Risiko (BGH XI ZR 178/10 XI ZR 182/10 — Lehman v. 27.09.2011)
-- Verteilung Beratung Bank vs. Aufklärung Emittent
+### Methode 1 — Differenzhypothese (§ 249 BGB)
 
-### Swap-Geschäfte / CMS Spread Ladder Swap
+```
+Schaden = Vermögenslage mit Pflichtverletzung
+        ./. Vermögenslage ohne Pflichtverletzung
 
-- BGH XI ZR 33/10 Ille (anfänglicher negativer Marktwert v. 22.03.2011)
-- Aufklärung über strukturierte Komplexität
+Konkret:
+Eingesetztes Kapital inkl. Ausgabeaufschlag:  EUR [Betrag]
+Aktueller Rücknahme-/Verkaufswert:       ./. EUR [Betrag]
+Entgangene Alternativrendite:             ./. EUR [4% × Betrag × Jahre]
+Gezahlter Ausgabeaufschlag / Kosten:       + EUR [Betrag]
+Schadensumme:                              EUR [Netto]
+```
 
-### Schiffsfonds Filmfonds
+### Methode 2 — Negatives Interesse (Rückabwicklung)
 
-- Spezifische Risikoaufklärung zur Anlageklasse
-- Prospekt-Plausibilitäts-Prüfung Bank
+```
+Anleger gibt Anlage-Gegenstand zurück
+und erhält:
+- Eingesetztes Kapital zurück
+- Entgangene Verzinsung 4 % p.a. (BGH XI ZR 158/11)
+- Anwaltskosten aus Verzug
+```
 
-## Schritt 6 — Kausalität
+### Typische Schadenspositionen
 
-- **Vermutung aufklärungsrichtigen Verhaltens** BGH XI ZR 320/04 BGH XI ZR 12/93
-- Bank muss Vermutung widerlegen
-- Anleger hätte bei richtiger Aufklärung nicht oder anders investiert
+| Position | Berechnungsgrundlage |
+|---|---|
+| Kursverlust | Kaufkurs ./. aktueller Kurs × Stückzahl |
+| Ausgabeaufschlag | Direkt aus Abrechnung |
+| Entgangene Alternativrendite | 4 % p.a. (BGH XI ZR 158/11) oder konkrete Alternative |
+| Wertpapierkredit-Zinsen | Wenn kreditfinanziert + Zinsbelastung |
+| Anwaltskosten | § 249 BGB als Verzugsschaden |
 
-## Schritt 7 — Schaden
+## Spezialthemen
 
-### Berechnungsmethoden
+### Geschlossene Fonds (Schiffsfonds, Filmfonds, Windkraftfonds)
 
-- **Differenzhypothese** § 249 BGB — Anleger wäre stehengeblieben oder hätte alternativ angelegt
-- **Negatives Interesse** Rückabwicklung — Anleger so stellen wie ohne Beratungsvertrag
+- Prospekthaftung im engeren Sinne: §§ 9 VermAnlG, 21 WpPG
+- Prospekthaftung im weiteren Sinne nach BGB: Verletzung von Aufklärungspflichten
+- Pflicht der Bank zur Plausibilitätsprüfung des Prospekts (BGH XI ZR 130/12)
 
-### Schadensposten
+### Lehman-Zertifikate (BGH XI ZR 178/10, 27.09.2011)
 
-- Erworbenes Investment Zug-um-Zug zurückgeben
-- Anschaffungskosten erhalten
-- Entgangene alternative Verzinsung (BGH XI ZR 158/11 — vier Prozent typische Verzinsung als pauschalierter Vergleichswert)
-- Anwaltskosten Verzug
-- Wertpapierkredit-Zinsen wenn Anschaffung kreditfinanziert
+- Aufklärungspflicht über Emittentenrisiko war obligatorisch
+- Rating allein genügte nicht
+- "Investment-Grade" schließt Aufklärungspflicht nicht aus
 
-## Schritt 8 — Mitverschulden § 254 BGB
+### CMS Spread Ladder Swap (BGH XI ZR 33/10, 22.03.2011)
 
-- Wenn Anleger sehr erfahren / spezielle Vorkenntnis
-- Wenn Prospekt selbst gelesen aber Risiken ignoriert
-- Wenn weitere Beratung eingeholt
+- Aufklärungspflicht über anfänglichen negativen Marktwert (strukturierter Nachteil für Kunden)
+- Eigeninteresse der Bank offenzulegen
+- Wert der Information für Anleger: erheblich
 
-## Schritt 9 — Verjährung
+## Außergerichtliche Vorgehensweise
 
-- **Drei Jahre** § 195 BGB ab Kenntnis und Person § 199 Abs. 1 BGB
-- **Höchstfrist** zehn Jahre § 199 Abs. 3 BGB ab Beratung
-- **Achtjahres-Frist alte WpHG** entfallen seit Reform — § 37a WpHG-alt nur für Altfälle
+### Schritt 1 — Außergerichtliches Schreiben
 
-## Schritt 10 — Ansprüche auch gegen Vermittler
+```
+[Kanzlei]                                            [Ort, Datum]
 
-- Anlagevermittler ohne Bank-Anbindung
-- Versicherungsmakler — Berufshaftpflicht VVG-AbschnittspolKonzeptVorlage
-- Berater Haftung
-- Vermögensverwaltungs-Vertrag
+[Bank / Vermögensverwalter]
+[Anschrift]
 
-## Verhältnis zur Ombudsstelle
+Anlageberatungsfehler — Schadensersatz gemäss § 280 BGB
 
-- Ombudsstellen der Banken kostenfrei
-- Hemmungswirkung Verjährung
-- Nicht bindend aber Mediationswirkung
+Sehr geehrte Damen und Herren,
 
-## Ausgabe
+namens und in Vollmacht meiner Mandantschaft mache ich
+Schadensersatzansprüche wegen Verletzung von Beratungs-
+pflichten aus dem Beratungsgespräch vom [Datum] geltend.
 
-- `anlageberatung-analyse.md` strukturiert
-- Schadensberechnung pro Investment
-- Klageschrift-Erstentwurf bei LG (Streitwert über EUR 10000 typisch)
-- Frist im Fristenbuch (drei Jahre Kenntnis zehn Jahre Beratung)
-- Verzugsschreiben mit Anwaltskosten
-- Empfehlung Ombudsstelle oder direkt Klage
+Beratungsfehler:
+1. [Keine anlegergerechte Beratung: Risikoprofil
+   konservativ, empfohlenes Produkt hochriskant]
+2. [Keine Aufklärung über Rückvergütungen in Höhe von
+   EUR [Betrag] (ca. [x] % des Anlagevolumens)]
+3. [Unzureichende Risikoaufklärung bzgl. Totalverlust]
+
+Schadenshöhe:
+Investiertes Kapital:    EUR [Betrag]
+Aktueller Wert:     ./. EUR [Betrag]
+Entgangene Rendite:  ./. EUR [4% × Betrag × Jahre]
+Gesamtschaden:           EUR [Summe]
+
+Ich fordere Sie auf, den Schaden bis zum [Datum + 4 Wochen]
+zu erstatten. Anderenfalls erhebe ich Klage.
+
+[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Bank- und
+Kapitalmarktrecht]
+```
+
+## Verjährung
+
+| Fristtyp | Dauer | Beginn | Rechtsgrundlage |
+|---|---|---|---|
+| Regelfrist | 3 Jahre | 31.12. des Jahres der Kenntnis | §§ 195, 199 Abs. 1 BGB |
+| Absolute Höchstfrist | 10 Jahre | Beratungszeitpunkt | § 199 Abs. 3 Nr. 1 BGB |
+| Hemmung durch Verhandlungen | Bis Ende der Verhandlungen | Beginn Verhandlung | § 203 BGB |
+| Hemmung durch Klage | Bis Rechtskraft | Klageeingang | § 204 BGB |
+
+**Kenntnis**: grobe Kenntnis der anspruchsbegründenden Umstände; bei Spezialwissen der Bank: späterer Fristbeginn möglich.
+
+## Streitwert und Kosten
+
+- **Streitwert**: Schadensumme + entgangene Zinsen = klageweiser Gesamtanspruch.
+- **LG-Zuständigkeit**: ab 5.000 EUR Streitwert § 23 GVG; Bankrecht-Fälle fast immer LG.
+- **Kostenrisiko**: Bei 100.000 EUR Streitwert: ca. 7.000 EUR Gerichtsgebühren (3 Instanzen); Anwalt nach RVG.
+- **Ombudsstelle**: kostenfrei, hemmt Verjährung; Empfehlung als erste Stufe wenn Bank ggf. verhandlungsbereit.
+
+## Anschluss-Skills
+
+- `widerrufsjoker-immobiliendarlehen` — bei kombinierten Darlehens- und Beratungsfehlern
+- `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` — bei betrügerischen Plattformen
+- `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb` — bei Kreditkündigung nach Verlust
 
 ## Quellen
 
-- BGB §§ 195 199 249 254 280 311
-- WpHG §§ 63 64
-- BGH XI. Zivilsenat — Bond Lehman Ille Kickback-Linie
+- BGB §§ 195, 199, 249, 254, 280, 311
+- WpHG §§ 63, 64, 83
+- VermAnlG § 9; WpPG § 21
+- BGH XI ZR 12/93; XI ZR 56/05; XI ZR 320/04; XI ZR 178/10; XI ZR 33/10; XI ZR 158/11
 - MiFID-II Richtlinie 2014/65/EU
-- VermAnlG WpPG
-- Ellenberger/Schäfer/Clouth Praktikerhandbuch
+- Ellenberger/Schäfer/Clouth Praktikerhandbuch Wertpapier- und Derivategeschäft

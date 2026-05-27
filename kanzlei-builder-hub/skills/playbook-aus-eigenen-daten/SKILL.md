@@ -1,6 +1,6 @@
 ---
 name: playbook-aus-eigenen-daten
-description: "Erzeugt aus eigenen Daten (E-Mails, Schriftsätzen, Aktenexporten, Notizen, Sprachprotokollen) ein wiederverwendbares Vorgehens-Spielbuch (Playbook) für wiederkehrende anwaltliche Arbeitsabläufe. Extrahiert Muster, typische Klauseln, Standardfragen, Eskalationsstufen und Fristen aus tatsächlicher Bearbeitungspraxis."
+description: "Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorlagen automatisch erstellen. Normen: technisch/intern, BRAO. Pruefraster: Dokumentenqualitaet, Kategorisierung, Normverankerung. Output: Kanzlei-Playbook aus eigenen Daten. Abgrenzung: nicht Standardvorlagen aus Plugin-Bibliothek."
 ---
 
 # Skill: Playbook aus eigenen Daten

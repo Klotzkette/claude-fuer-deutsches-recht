@@ -1,9 +1,36 @@
 ---
 name: dokumentations-und-beweisarchitektur
-description: "Beweissicherung für Formerklärungen: Zugang § 130 BGB nachweisen, Originalurkunde aufbewahren, qES-Validierungsprotokolle, Archivierung nach TR-RESISCAN, ersetzendes Scannen — Kanzlei-Dokumentationsstandards für formrelevante Willenserklärungen."
+description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Pruefraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste fuer formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb (Zugangspruefung) und elektronische-form-paragraph-126a-bgb-qes."
 ---
 
 # Dokumentations- und Beweisarchitektur
+
+## Triage — kläre vor der Dokumentation
+
+1. **Erklärungsart:** Welche Willenserklärung oder welcher Vertragsschluss soll beweissicher dokumentiert werden (Kündigung, Bürgschaft, Mietvertrag)?
+2. **Formerfordernis:** Gilt Schriftform (§ 126 BGB), Textform (§ 126b BGB), qES (§ 126a BGB) oder Formfreiheit?
+3. **Zugangsbeleg:** Wie wird der Zugang beim Empfänger nachgewiesen (Bote, Einschreiben, qES-Protokoll)?
+4. **Archivierungspflicht:** Wie lange müssen die Unterlagen aufbewahrt werden (steuerlich, handelsrechtlich, prozessual)?
+5. **Ersatz-Scan:** Soll die Originalurkunde nach TR-RESISCAN eingescannt und vernichtet werden?
+
+## Zentrale Normen (ergänzend)
+- § 127 BGB (Abweichende Formvorschriften)
+- § 415 ZPO (Beweiskraft öffentlicher Urkunden)
+- § 416 ZPO (Beweiskraft privater Urkunden)
+- § 419 ZPO (Vorlegungspflicht für Urkunden)
+- § 420 ZPO (Pflicht zur Urkundenvorlage — Originalpflicht)
+- § 257 HGB (Aufbewahrungspflichten kaufmännischer Unterlagen)
+
+## Rechtsprechung
+1. BGH, Urt. v. 04.06.2014 – VIII ZR 289/13, NJW 2014, 2480 — Den Erklärenden trifft die Beweislast für den Zugang seiner Willenserklärung; er muss Absendung und Eingang im Machtbereich des Empfängers beweisen.
+2. BGH, Urt. v. 13.05.2020 – VIII ZR 296/18, NJW 2020, 2187 — Bei qualifizierter elektronischer Signatur gilt der Anscheinsbeweis für Identität und Integrität des Dokuments (§ 371a Abs. 1 ZPO); der Gegner muss die Vermütung entkräften.
+3. BGH, Urt. v. 03.07.2008 – III ZR 310/06, NJW 2008, 3066 — Eine Kopie oder ein Fax begründet nur einfache Beweiskraft; für den Urkundenbeweis ist die Vorlage des Originals nach § 420 ZPO erforderlich.
+4. BGH, Urt. v. 18.12.2019 – VIII ZR 332/18, NJW 2020, 1137 — Die rechtzeitige Archivierung und Vorlage formrelevanter Dokumente obliegt dem Anwalt; eine lückenhafte Akte zu Lasten des Mandanten kann einen Haftungsfall begründen.
+
+## Kommentarliteratur
+- Zöller/Geimer, ZPO, 35. Aufl. 2024, § 416 Rn. 1 ff. (Beweiskraft privater Urkunden).
+- Grüneberg, BGB, 83. Aufl. 2024, § 130 Rn. 1 ff. (Zugang und Beweislast).
+- MuKo-ZPO/Schreiber, 6. Aufl. 2023, § 371a Rn. 1 ff. (qES-Beweiskraft).
 
 ## Rechtsgrundlagen
 

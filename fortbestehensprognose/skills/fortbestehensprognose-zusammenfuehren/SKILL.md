@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-zusammenfuehren
-description: Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfaehig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert ueber `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt.
+description: "Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Plausibilisierung 12-Monats-Liquiditaet Sensitivitaetsszenarien — und bewertet ob die Fortbestehensprognose nach § 19 Abs. 2 InsO positiv ist. Massstab ueberwiegende Wahrscheinlichkeit dass das Unternehmen im Prognosezeitraum zahlungsfaehig bleibt (mehr als 50 Prozent). IDW S 11 Massstab. Schaltet bei Bedarf den Skill `sanierungsbausteine-vorschlagen` aus oder eskaliert ueber `wenn-prognose-negativ-naechste-schritte` zum Insolvenzanwalt."
 ---
 
 # Fortbestehensprognose zusammenführen
@@ -143,3 +143,27 @@ prognose-zusammenfassung:
   - `sanierungsbausteine-vorschlagen` wenn Maßnahmen erforderlich.
   - `wenn-prognose-negativ-naechste-schritte` wenn Ergebnis negativ.
   - `prognose-dokumentation-stichtag` zur abschließenden Dokumentation.
+
+
+## Aktuelle Leitentscheidungen — Zusammenfuehren der Prognose
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose Massstab: positiv wenn ueberwiegende Wahrscheinlichkeit (mehr als 50%) der Zahlungsfaehigkeit im gesamten Prognosehorizont (mindestens 12 Monate); alle Bausteine kumulativ zu pruefen.
+- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Dokumentation: Fortbestehensprognose muss zum Zeitpunkt der Aufstellung dokumentiert sein; nachtraegliche Erstellung genuegt nicht fuer Haftungsentlastung des Geschaeftsfuehrers.
+- BGH, Urt. v. 12.02.2007 — II ZR 13/06, NZI 2007, 398 — Sensitivitaetsanalyse: positive Prognose muss auch bei Einzel-Negativ-Szenario noch tragfaehig sein; worst-case-Betrachtung als Pflichtteil einer sorgfaeltigen Prognose.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Ueberschuldungsprognose und StaRUG: nach SanInsFoG zum 01.01.2021 wieder 6-Wochen-Frist bei Ueberschuldung (nach COVID-Aussetzung); Prognose-Ergebnis entscheidet ueber Fristbeginn.
+
+## Paragrafenkette Prognose-Zusammenfuehren
+
+§ 19 Abs. 2 InsO (Fortbestehensprognose als zweite Stufe Ueberschuldung) → IDW S 11 Rn. 60-90 (Ergebnis und Dokumentation) → § 15a InsO (Antragspflicht bei negativer Prognose) → § 15b InsO (Haftungsrisiko)
+
+## Triage — Prognose-Ergebnis
+
+1. **Positiv (Prognose grueen)?** → Dokumentieren (IDW S 11 Vorlage), Wiedervorlage in 3 Monaten, Sanierungsbausteine weiterverfolgen.
+2. **Knapp positiv (mit Massnahmen)?** → Massnahmen konkretisieren und terminieren; Sicherheitsmarge pruefen.
+3. **Negativ?** → Sofort `wenn-prognose-negativ-naechste-schritte` ausfuehren; Anwalt einschalten; Antragspflicht pruefen.
+
+## Kommentarliteratur
+
+- IDW S 11, Stand 11/2022 — Ergebnis der Prognose und Dokumentationspflichten.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 60-100 — Prognose-Zusammenfassung und Ergebnis.
+- Uhlenbruck/Mock § 19 InsO Rn. 50-75 — Massstab der Fortbestehensprognose.

@@ -1,6 +1,6 @@
 ---
 name: missbrauchsverbot-modus
-description: Prueft Marktabgrenzung und Missbrauch nach Art 102 AEUV und Paragraf 19 GWB. Behinderungsmissbrauch (Kampfpreise Margin Squeeze Refusal to Deal Selbstbeguenstigung) und Ausbeutungsmissbrauch (ueberhoeahte Preise). Marktbeherrschung als Voraussetzung und Kausalitaet zwischen Stellung und Missbrauch.
+description: "Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprueft werden oder Wettbewerber klagt auf Missbrauch. Prueft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GWB. Pruefraster Behinderungsmissbrauch (Kampfpreise Margin Squeeze Refusal to Deal Selbstbeguenstigung) Ausbeutungsmissbrauch (ueberhoeahte Preise). Marktbeherrschung als Voraussetzung Kausalitaet Stellung und Missbrauch. Output Marktstellungs-Missbrauchs-Pruef-Memo mit Risikoampel und Verfahrensstrategie. Abgrenzung: paragraf-18-gwb-pruefung fuer isolierte Marktbeherrschungs-Pruefung."
 ---
 
 # Missbrauchsverbot — Modus
@@ -59,6 +59,18 @@ Marktanteils-Indizien:
 ### Schritt 3: Auswirkung auf Handelsbeziehungen
 
 Zwischenstaatlichkeitsklausel: Spürbare Beeinträchtigung des Handels zwischen Mitgliedstaaten.
+
+## Leitentscheidungen Missbrauchsverbot
+
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Treuerabatte als Missbrauch Art. 102 AEUV; marktbeherrschendes Unternehmen darf nicht Kundenbindung durch wettbewerbsfremde Mittel erzwingen.
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Unzumutbare Handelsbedingungen als Missbrauchsform; Ermessen der EK bei Marktdefinition.
+- EuGH, Urt. v. 19.04.2012 — C-549/10 P (Tomra), Slg. 2012, I-221 — Abschottungsabsicht bei Treuerabatten; Hinweis auf subjektive Ausschlussabsicht unzureichend ohne objektive Marktauswirkung.
+- BGH, Urt. v. 23.03.2021 — KZR 6/19, NZKart 2021, 342 — § 19 GWB Missbrauch; excessive pricing; Vergleichsmarkt-Methode; Beweiswuerdigung BGH.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 19 Rn. 1-100 (Missbrauchsverbote, Typen, Beweislast)
+- Immenga/Mestmaecker EU-Wettbewerbsrecht Art. 102 AEUV Rn. 1-200 (Kommentar)
 
 ## Prüfprotokoll Missbrauch
 

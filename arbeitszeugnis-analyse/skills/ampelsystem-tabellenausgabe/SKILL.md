@@ -1,6 +1,6 @@
 ---
 name: ampelsystem-tabellenausgabe
-description: "Erstellt die standardisierte Ampel-Ausgabetabelle für analysierte Arbeitszeugnisse. Spalten: Satz, Ampel, Bewertung, Notentendenz, Begründung. Vereinheitlicht die Ausgabe aller Analyse-Skills in einem lesbaren Gesamtformat."
+description: "Erstellt die standardisierte Ampel-Ausgabetabelle fuer analysierte Arbeitszeugnisse. Anwendungsfall Zeugnisanalyse ist abgeschlossen und Ergebnis soll in einheitlicher Tabelle mit Satz Ampel Bewertung Notentendenz und Begruendung dargestellt werden. Vereinheitlicht Output aller Analyse-Skills fuer Mandantenbericht und Klagebegruendung. Output strukturierte Ampeltabelle als Grundlage fuer mandantenbericht-zeugnisanalyse und klage-strategie-zeugnisberichtigung."
 ---
 
 # Ampelsystem-Tabellenausgabe
@@ -49,3 +49,26 @@ Die Gesamtbewertung am Ende der Tabelle fasst die Ampelverteilung zusammen: Anza
 ## Ausgabeformat
 
 Die Ausgabe umfasst: (1) Übersichtstabelle aller Sätze mit Ampelzuordnung, (2) separate Tabelle der Auslassungen, (3) Ampel-Zusammenfassung (Anzahl je Farbe), (4) Gesamtnoten-Spanne, (5) Handlungsempfehlung (Zeugnis akzeptieren / Nachverhandlung empfehlen / Klage prüfen).
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes Zeugnis; Wohlwollensgebot und Wahrheitspflicht
+- **§ 109 Abs. 2 GewO** — Zeugnis muss klar und verständlich formuliert sein; Codierungen, die Fortkommen erschweren, verstoßen gegen Wohlwollensgebot
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Bei Streit über eine Note schlechter als befriedigend (Note 3) trägt der Arbeitgeber die Beweislast; bei Begehren einer besseren Note liegt die Beweislast beim Arbeitnehmer; das Ampelsystem dient als Entscheidungsmatrix für die Klage-Erfolgsprognose.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Zeugnis ausstellen, das Fortkommen nicht unnötig erschwert; auch wahre Aussagen können gegen Wohlwollensgebot verstoßen, wenn sie kodiert Negatives signalisieren.
+- **LAG Hamm, Urt. v. 13.03.2009 — 10 Sa 1782/08** — Streitwert der Zeugnisberichtigungsklage entspricht einem Monatsbruttogehalt; Ampel-Gesamtbewertung ist Ausgangspunkt für die Klageantrag-Konkretisierung.
+- **BAG, Urt. v. 06.06.2000 — 9 AZR 246/99**, BAGE 95, 48 — Vollständigkeit der Schlussformel (Bedauern, Dank, Wunsch) ist kein eigenständiger Anspruch auf die Note 1; aber das vollständige Fehlen belegt eine schlechtere Gesamtnote.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 1 ff. (Anspruch, Wohlwollensgebot, Wahrheitspflicht)
+- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 (Zeugnisrecht, Berichtigungsanspruch)
+
+## Triage — vor der Tabellenausgabe klären
+
+1. Welche Analyse-Skills wurden bereits ausgeführt? (Leistungsbeurteilung, Verhaltensbeurteilung, Schlussformel)
+2. Liegt ein vollständiges Zeugnisdokument vor oder nur Auszüge?
+3. Ist das Ziel: Mandantenbericht, Klageantrag-Vorbereitung oder interne Einschätzung?

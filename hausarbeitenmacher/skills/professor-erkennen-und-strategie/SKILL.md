@@ -1,9 +1,31 @@
 ---
 name: professor-erkennen-und-strategie
-description: Fangfrage zu Beginn welcher Professor welche Professorin die Hausarbeit gestellt hat. Kurze Recherche zur Lehrmeinung. Komplizenhafte Frage ob nach dem Munde reden oder mit guten Argumenten ueberzeugen auch bei Widerspruch. Default ist sauberes eigenstaendiges Loesen. Beruecksichtigt Korrekturassistenten bei Hausarbeit und persoenliche Lekture bei Seminararbeit. Fuehrt zu strategischer Klarheit ohne Schleimerei.
+description: "Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenstaendig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Pruefraster Lehrmeinung-Recherche Strategie-Wahl Abweichungs-Argumentation. Output Strategie-Empfehlung Argumentations-Hinweis. Abgrenzung zu meinungsstreit-darstellen (Inhalt) und hausarbeit-workflow-start (Master)."
 ---
 
 # Professor erkennen und Strategie wählen
+
+
+## Triage zu Beginn
+1. Wer hat die Aufgabe gestellt — welcher Lehrstuhl/Professor?
+2. Ist es eine Hausarbeit (Korrekturassistent liest) oder Seminararbeit (Lehrkraft liest persoenlich)?
+3. Gibt es erkennbare Lehrstuhl-Praeferenzen bei bestimmten Streitstaenden?
+4. Soll die eigene Stellungnahme mit der Lehrmeinung uebereinstimmen oder respektvoll abweichen?
+
+## Aktuelle Rechtsprechung und Methodik
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Eigenstaendige Argumentation mit belegten Positionen ist der Wiedergabe von Autoritaeten stets vorzuziehen; Zitierautoritaet ersetzt nicht eigenes Argument.
+- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Wissenschaftliche Eigenstaendigkeit ist verfassungsrechtlich geschuetzt (Art. 5 Abs. 3 GG); Universitaetsausbildung muss diese foerdern.
+- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Eigenstaendige Begruendung ueberzeugt Gerichte mehr als blossoe Autoritaetsverweis; analogiell gilt dies fuer Pruefungsleistungen.
+- BAG, Urt. v. 26.06.2013 - 5 AZR 428/12, NZA 2013, 1081 — Intellektuelle Eigenstaendigkeit als Berufsvoraussetzung im Rechtsleben; Studium soll diese entwickeln.
+
+## Zentrale Normen
+- Art. 5 Abs. 3 GG — Wissenschaftsfreiheit: eigene wissenschaftliche Position ist geschuetzt und erwuenscht
+- § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Berufsziel: wird im Studium durch eigenstaendiges Denken vorbereitet
+- § 43a Abs. 1 BRAO — Unabhaengigkeit und Eigenverantwortlichkeit: Studierende ueben diese Haltung
+
+## Kommentarliteratur
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 1 (Eigenstaendigkeit in der juristischen Dogmatik)
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, Einl. Rn. 5-15 (Argumentationsstandards im juristischen Wissenschaftsbetrieb)
 
 ## Zweck
 

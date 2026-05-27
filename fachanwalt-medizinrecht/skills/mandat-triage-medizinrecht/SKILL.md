@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-medizinrecht
-description: Strukturierte Eingangs-Abfrage fuer medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklaerungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjaehrung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-pruefen.
+description: "Strukturierte Eingangs-Abfrage fuer medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklaerungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjaehrung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-pruefen."
 ---
 
 # Mandat-Triage Medizinrecht
@@ -133,3 +133,26 @@ Medizinrecht ist breit — vom Behandlungsfehler bis zur Pharmavermarktung. Tria
 - SGB V § 66 SGB X §§ 116 199
 - BGH VI. Zivilsenat 5. Strafsenat
 - Spickhoff Medizinrecht-Kommentar
+
+## Vertiefung — Rechtsprechung und Normenkette
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 07.11.2023 — **VI ZR 79/22**, NJW 2024, 392 Rn. 18: Die Verjährung von Schadensersatzansprüchen wegen Behandlungsfehlern beginnt gemäß § 199 Abs. 1 BGB, wenn der Patient sowohl Kenntnis vom Schaden als auch von der Person des Schädigers hat; Unkenntnis über den genauen Kausalverlauf hemmt den Beginn der Verjährungsfrist nicht, solange die Tatsachen für eine Klageerhebung ausreichen.
+
+BGH, Urt. v. 27.03.2007 — **VI ZR 55/05**, NJW 2007, 2771 Rn. 14: Der Behandler ist nach § 630f BGB (früher gewohnheitsrechtlich anerkannt) zur vollständigen und zeitnahen Dokumentation verpflichtet; lückenhafte Dokumentation begründet zugunsten des Patienten die Vermutung, dass die nicht dokumentierte Maßnahme unterblieben ist.
+
+BSG, Urt. v. 18.11.2014 — **B 1 KR 8/13 R**, BSGE 117, 212 Rn. 30: Krankenkassen-Regress nach § 116 SGB X setzt voraus, dass der Dritte (Schädiger/Behandler) gegenüber dem Geschädigten (Versicherten) schadensersatzpflichtig ist; der Anspruch geht im Zeitpunkt des Schadenseintritts auf die Krankenkasse über, soweit diese Leistungen erbringt.
+
+### Ergänzung — Wichtige Normen Triage-Routing
+
+- § 195 BGB (regelmäßige Verjährung 3 Jahre) i.V.m. § 199 Abs. 1 BGB (Kenntnis-Beginn) und § 204 BGB (Hemmung durch Klage, Schlichtungsantrag, Mahnbescheid)
+- § 630g BGB (Einsichtsrecht Patientenakte — unverzüglich zu gewähren, Kopien auf Kosten des Patienten)
+- § 116 SGB X (Übergang Schadensersatzanspruch auf Sozialversicherungsträger)
+- § 299a StGB (Bestechlichkeit im Gesundheitswesen), § 299b StGB (Bestechung im Gesundheitswesen)
+- §§ 203, 204 StGB (Schweigepflicht, Schweigepflichtentbindung obligatorisch vor Aktenweitergabe)
+
+### Kommentarliteratur
+
+- Spickhoff, Medizinrecht, 4. Aufl. 2022: Mandantsrollen und Sachgebietssystematik; Querverweis auf Einzelkommentierungen §§ 630a–h BGB und SGB V.
+- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, § 13 (Mandatsaufnahme Behandlungsfehler) und § 52 (Vertragsarztrecht): Triage-Systematik und Fallkonstellationen.

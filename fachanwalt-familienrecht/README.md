@@ -1,6 +1,6 @@
 # Fachanwalt Familienrecht
 
-Light-Touch-Plugin Fachanwalt für Familienrecht. Orientierung Normen typische Mandate Fristen Standardliteratur. Familiengericht FamFG Scheidung Sorgerecht Umgangsrecht Unterhalt Zugewinn Ehevertrag. Tiefe Bearbeitung erfordert weiterhin Fachanwaltsexpertise.
+Plugin Fachanwalt für Familienrecht. Orientierung Normen typische Mandate Fristen Standardliteratur. Familiengericht FamFG Scheidung Sorgerecht Umgangsrecht Unterhalt Zugewinn Ehevertrag. Tiefe Bearbeitung erfordert weiterhin Fachanwaltsexpertise.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-familienrecht-orientierung` | Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbezeichnung Normen typische Mandate Fristen Standardliteratur. Light-Touch-Plugin für schnelle Verortung. Tiefe Bearbeitung erfordert weiterhin Fachanwal… |
+| `fachanwalt-familienrecht-orientierung` | Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbezeichnung Normen typische Mandate Fristen Standardliteratur. Plugin für schnelle Verortung. Tiefe Bearbeitung erfordert weiterhin Fachanwal… |
 
 ## Lizenz
 

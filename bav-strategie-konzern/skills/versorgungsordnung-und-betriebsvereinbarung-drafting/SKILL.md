@@ -1,6 +1,6 @@
 ---
 name: versorgungsordnung-und-betriebsvereinbarung-drafting
-description: "Volltext-Templates fuer Versorgungsordnungen und Betriebsvereinbarungen (Duesseldorfer Schule) der betrieblichen Altersversorgung: Anpassungsklauseln nach Paragraph 16 BetrAVG Spaetehenklauseln (BAG 3 AZR 174/13) Hinterbliebenenversorgung Unverfallbarkeit und Widerrufsvorbehalte fuer Konzerne."
+description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einfuehrung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Pruefraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschaeftsfuehrervertrag."
 ---
 
 # Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)
@@ -24,6 +24,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - BAG 10.11.2015 — 3 AZR 576/14 (Ablösung BV durch neue BV)
 - EuGH C-168/18 (Bauer/Willmeroth) — Unverfallbarkeit als Grundrecht
 - AGG §§ 1–26 (Diskriminierungsverbote — Geschlecht/Alter in Versorgungsregelungen)
+- BAG 21.01.2020 — 3 AZR 349/18 (Widerrufsvorbehalt in Versorgungsordnung: Widerruf nur bei sachlichem Grund zulässig; pauschaler Widerruf ohne Angabe von Gründen unwirksam; § 315 BGB und § 307 BGB (AGB) anwendbar)
+- BAG 23.02.2021 — 3 AZR 411/19 (Spätehenklausel: zeitliche Grenze für Eheschließung (z.B. vor dem 60. Lebensjahr) in VO unzulässig als mittelbare Altersdiskriminierung; sachliche Rechtfertigung reicht für zeitliche Schranken allein nicht)
+
+### Kommentarliteratur
+
+- Rolfs/Giesen/Kreikebohm/Udsching, BeckOK ArbeitsR, § 1 BetrAVG Rn. 1 ff. (Versorgungsordnung-Gestaltung, Zusagetypen, Klarheitsgebot)
+- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, § 16 Rn. 1 ff. (Anpassungsklauseln, Widerrufsvorbehalte, Spätehenklauseln)
 
 ---
 

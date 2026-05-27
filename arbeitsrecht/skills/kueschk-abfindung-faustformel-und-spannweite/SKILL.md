@@ -1,13 +1,39 @@
 ---
 name: kueschk-abfindung-faustformel-und-spannweite
-description: "Abfindung Kuendigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt je Beschaeftigungsjahr; Steuer- und Sozialversicherungsbehandlung; Fuenftel-Regelung nach § 34 EStG; keine gesetzliche Abfindungspflicht."
+description: "Abfindung Kuendigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung § 34 EStG; keine gesetzliche Abfindungspflicht ausser §§ 1a und 9 KSchG."
 ---
 
 # Abfindung: Faustformel und Spannweite
 
-## Zweck
+## Triage zu Beginn — kläre vor der Abfindungsberechnung
 
-Es gibt im deutschen Arbeitsrecht **keinen gesetzlichen Anspruch auf Abfindung** bei einer Kündigung — jedenfalls nicht automatisch. Eine Abfindung entsteht nur durch Vergleich, Aufhebungsvertrag oder in seltenen Fällen durch Auflösungsurteil nach § 9 KSchG. Dieser Skill erklärt die übliche Faustformel und die Steuerbehandlung.
+1. Besteht ein gesetzlicher Abfindungsanspruch? (nur § 1a KSchG bei Verzicht auf Klage; § 9 KSchG bei Auflösungsantrag — selten)
+2. Wie stark ist die Rechtsposition des Arbeitnehmers? (Fehler bei BR-Anhörung / Sozialauswahl / Sonderkündigungsschutz?)
+3. Wie viele volle Beschäftigungsjahre liegen vor? (Halbjahre werden aufgerundet bei § 10 Abs. 3 KSchG)
+4. Wie hoch ist das monatliche Bruttogehalt? (inklusive regelmäßiger Zulagen)
+5. Sperrzeit-Risiko: Auf wessen Veranlassung wird das AV beendet? (§ 159 SGB III)
+
+## Zentrale Normen
+
+- § 9 KSchG — Auflösungsantrag mit Abfindung (Arbeitnehmer oder Arbeitgeber; selten praktiziert)
+- § 10 KSchG — Abfindungshöhe: max. 12 Monatsverdienste (18 bei > 50 Jahren + > 15 Jahren; 15 bei > 55 Jahren + > 20 Jahren)
+- § 1a KSchG — Abfindungsangebot bei Verzicht auf Klage: 0.5 Monatsverdienste × Beschäftigungsjahre
+- § 34 EStG — Fünftel-Regelung für außerordentliche Einkünfte (Abfindungen)
+- § 158 SGB III — Ruhenszeitraum bei Abfindung und vorzeitiger Beendigung (Sperrzeit-ähnlicher Effekt)
+- § 159 SGB III — Sperrzeit bei Eigenkündigung oder Aufhebungsvertrag auf eigene Veranlassung
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 10.02.2005 – 2 AZR 584/03, NZA 2005, 875 — Für den Auflösungsantrag des Arbeitgebers nach § 9 KSchG reicht der pauschale Hinweis auf zerrüttetes Betriebsklima nicht; es müssen konkrete Umstände vorgetragen werden, die eine den Betriebszwecken dienliche weitere Zusammenarbeit nicht mehr erwarten lassen.
+- BAG, Urt. v. 23.02.2010 – 2 AZR 554/08, NZA 2010, 688 — Die Abfindungsberechnung nach § 10 KSchG ist von der vergleichsweise vereinbarten Abfindung zu unterscheiden; bei Vergleichsabfindungen haben die Parteien Vertragsfreiheit und sind nicht an die gesetzliche Höchstgrenze des § 10 KSchG gebunden.
+- BAG, Urt. v. 15.11.2012 – 8 AZR 683/11, NZA 2013, 396 — Bei der Berechnung des Monatsverdiensts nach § 10 KSchG sind alle regelmäßigen Entgeltbestandteile einzubeziehen, nicht nur das Grundgehalt; Jahressonderzahlungen sind auf Monatsbasis umzurechnen.
+- BAG, Urt. v. 19.02.2014 – 5 AZR 851/12, NZA 2014, 765 — Für den Sperrzeit-Anspruch nach § 158 SGB III kommt es darauf an, ob die Abfindung eine vorzeitige Beendigung „begünstigt"; Arbeitnehmer sollten auf Sperrzeit-Risiko beim Aufhebungsvertrag hingewiesen werden.
+
+## Kommentarliteratur
+
+- ErfK/Kiel, 25. Aufl. 2025, § 9 KSchG Rn. 1 ff. (Auflösungsantrag) und § 10 KSchG Rn. 1 ff. (Abfindungshöhe)
+- Schaub Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 140 Rn. 1 ff. (Abfindung in der Praxis)
+- HWK/Quecke, 11. Aufl. 2024, § 9 KSchG Rn. 1 ff.
 
 ## Die Faustformel
 
@@ -17,51 +43,71 @@ Die in der Praxis häufig verwendete Faustformel lautet:
 
 **Beispiel:**
 - Beschäftigungszeit: 8 Jahre
-- Bruttomonatsgehalt: 3500 EUR
-- Faustformel-Abfindung: 8 × 0,5 × 3500 = **14000 EUR brutto**
+- Bruttomonatsgehalt: 3500 Euro
+- Faustformel-Abfindung: 8 × 0.5 × 3500 = **14000 Euro brutto**
 
 **Was zählt als Bruttomonatsgehalt?**
-Das regelmäßige monatliche Arbeitsentgelt inklusive regelmäßiger Zulagen, aber ohne einmalige Sonderzahlungen (sofern nicht vertraglich vereinbart).
+Alle regelmäßigen Entgeltbestandteile: Grundgehalt + Zulagen + 1/12 Jahressonderzahlungen (soweit regelmäßig).
 
 ## Spannweite in der Praxis
 
-Die Faustformel ist kein Gesetz — sie ist ein Verhandlungsausgangspunkt. In der Praxis variieren Abfindungen erheblich:
+Die Faustformel ist kein Gesetz — sie ist ein Verhandlungsausgangspunkt:
 
 | Situation | Typische Spannweite pro Beschäftigungsjahr |
 |---|---|
-| Starke Arbeitgeberposition (KSchG kaum anwendbar) | 0,25 bis 0,5 Bruttomonatsgehälter |
-| Ausgewogene Situation (Kündigung angreifbar) | 0,5 bis 0,75 Bruttomonatsgehälter |
-| Starke Arbeitnehmerposition (klare Fehler) | 0,75 bis 1,0 Bruttomonatsgehälter |
-| Sonderkündigungsschutz-Fälle | Kann deutlich höher liegen |
+| Starke Arbeitgeberposition (KSchG kaum anwendbar) | 0.25 bis 0.5 Bruttomonatsgehälter |
+| Ausgewogene Situation (Kündigung angreifbar) | 0.5 bis 0.75 Bruttomonatsgehälter |
+| Starke Arbeitnehmerposition (klare Fehler, Sonderschutz) | 0.75 bis 1.0 Bruttomonatsgehälter |
+| Sonderkündigungsschutz-Fälle (§ 15 KSchG, MuSchG, SGB IX) | Kann deutlich über 1.0 liegen |
 
 **Einflussfaktoren auf die Abfindungshöhe:**
 - Stärke der rechtlichen Position (je klarer die Unwirksamkeit, desto höher)
-- Dauer der Betriebszugehörigkeit
-- Lebensalter (höheres Alter = schwierigere Jobmarkt-Situation)
+- Dauer der Betriebszugehörigkeit und Lebensalter
 - Sonderkündigungsschutz
-- Vermögenslage des Arbeitgebers
-- Aktuelle Arbeitsmarktlage
+- Annahmeverzugslohn-Risiko für den Arbeitgeber (je länger Prozess, desto höher)
+- Arbeitsmarktlage und Vermögenslage des Arbeitgebers
 
 ## Steuerbehandlung der Abfindung
 
 ### Einkommensteuer
 
-Abfindungen sind grundsätzlich **steuerpflichtig** (kein allgemeiner Steuerfreibetrag mehr seit 2006). Sie werden als außerordentliche Einkünfte behandelt.
+Abfindungen sind grundsätzlich **steuerpflichtig** (kein Steuerfreibetrag mehr seit 2006).
 
 **Fünftel-Regelung § 34 EStG:**
-Um die Progressionswirkung abzumildern, kann die Abfindung nach der sogenannten Fünftel-Regelung besteuert werden: Die Abfindung wird fiktiv auf fünf Jahre verteilt und nur die Mehrsteuer auf ein Fünftel davon wird fünffach berechnet. Dies führt in der Praxis oft zu einer spürbaren Steuerersparnis.
+Die Abfindung wird als außerordentliche Einkunft behandelt: Steuerlast berechnet sich so, als wäre die Abfindung auf 5 Jahre verteilt (fiktive Verteilung). In der Praxis führt dies oft zu spürbarer Steuerersparnis.
 
-**Hinweis:** Die Fünftel-Regelung muss beim Finanzamt beantragt werden (in der Einkommensteuererklärung). Vorab mit Steuerberater klären.
+> Wichtig: Fünftel-Regelung gilt nur wenn Abfindung als Entschädigung für entgangene Einnahmen geleistet wird (§ 24 Nr. 1 EStG i.V.m. § 34 EStG). Steuerberater einbinden!
 
 ### Sozialversicherung
 
-Abfindungen sind grundsätzlich **nicht sozialversicherungspflichtig** (kein Beitrag zur Kranken-, Pflege-, Renten- und Arbeitslosenversicherung) — sofern sie als Entschädigungsleistung für den Verlust des Arbeitsplatzes gezahlt werden.
+Abfindungen sind grundsätzlich **nicht sozialversicherungspflichtig** — sofern sie als Entschädigungsleistung für Arbeitsplatzverlust gezahlt werden.
 
-**Achtung bei Freistellung:** Wenn während einer unwiderruflichen Freistellung Sozialversicherungsschutz fortbesteht, kann das die Ruhezeit beim Arbeitslosengeld beeinflussen (§ 158 SGB III — Ruhenszeitraum bei Abfindung und vorzeitiger Beendigung).
+**Achtung § 158 SGB III (Ruhenszeitraum):** Bei Zahlung einer Abfindung und Beendigung des AV vor Ablauf der Kündigungsfrist kann das ALG-I ruhen. Mandant über Sperrzeit-Risiko informieren.
 
-## Kein Anspruch auf Abfindung
+## Output-Template — Abfindungsberechnung
 
-Wichtige Klarstellung: Es gibt keinen gesetzlichen Anspruch auf Abfindung. Der Arbeitgeber ist nicht verpflichtet, eine Abfindung zu zahlen, wenn er vergleichsbereit ist. Er kann stattdessen auch anbieten, den Arbeitnehmer weiterzubeschäftigen.
+**Adressat:** Mandant — Tonfall: erklärend, konkret
+
+```
+ABFINDUNGSBERECHNUNG (Schätzung)
+Mandant: [NAME]
+Beschäftigungsbeginn: [DATUM]
+Kündigungsdatum: [DATUM]
+Beschäftigungsjahre: [ZAHL] (volle Jahre)
+Bruttomonatsgehalt: [BETRAG] Euro (inkl. regelmäßiger Zulagen)
+
+Faustformel (0.5 × Monatslohn × Dienstjahre):
+[ZAHL] × 0.5 × [BETRAG] = [ERGEBNIS] Euro brutto
+
+Empfohlene Verhandlungsspanne:
+  Untere Grenze (0.25): [BETRAG] Euro brutto
+  Faustformel (0.50): [BETRAG] Euro brutto
+  Obere Grenze (0.75): [BETRAG] Euro brutto
+  (falls starke Rechtsposition: bis [BETRAG] Euro brutto)
+
+Steuerhinweis: Fünftel-Regelung § 34 EStG prüfen (Steuerberater einbinden)
+Sperrzeit-Hinweis: § 158-159 SGB III prüfen (Agentur für Arbeit informieren)
+```
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: unionsmarken-anmeldung-euipo
-description: "Unionsmarken-Anmeldung beim EUIPO Alicante nach UMV (EU) 2017/1001: e-Filing, Vertretungszwang Art. 119 UMV, Formvoraussetzungen, absolute Schutzhindernisse, Beobachtungszeitraum, Eintragungsverfahren. Laedt, wenn der Nutzer 'Unionsmarke', 'EUIPO Anmeldung', 'EU-Marke anmelden', 'Gemeinschaftsmarke' oder 'EUTM' sagt."
+description: "Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Pruefraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung."
 ---
 
 # Unionsmarken-Anmeldung beim EUIPO
@@ -111,3 +111,19 @@ Frist für Prioritätsanspruch (6 Monate nach DPMA-Anmeldung) um 3 Tage versäum
 - **Keine amtliche Prüfung relativer Hindernisse:** Ältere eingetragene Marken werden nicht automatisch gefunden und dem Anmelder mitgeteilt (anders als beim DPMA, das einen Hinweis gibt)
 - **Widerspruchskosten:** Bei Widerspruchsverfahren entstehen schnell EUR 5.000–15.000 Anwaltskosten pro Seite
 - **2. Sprache:** Falsche Wahl der 2. Sprache (muss eine der 5 offiziellen EUIPO-Sprachen sein) führt zu Beanstandung
+
+## Triage-Fragen vor EUIPO-Anmeldung
+
+Bevor das e-Filing startet, klaere:
+1. Wurde eine eSearch-Vorrecherche auf identische und aehnliche aeltere Marken durchgefuehrt?
+2. Ist das Warenverzeichnis hinreichend praezise (IP Translator — keine pauschalen Klassenüberschriften)?
+3. Soll Prioritaet auf eine DPMA-Anmeldung beansprucht werden — ist die 6-Monats-Frist noch offen?
+4. Gibt es bekannte aeltere Inhaber, die widerspruchsberechtigt sein koennen?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 22.06.2006 — C-24/05 P (Storck / OHIM):** Einfache geometrische oder allgemein dekorative Formen besitzen keine inhärente Unterscheidungskraft nach Art. 7 I lit. b UMV; Luxuslabel-Bildmarken muessen genuine Eigenart aufweisen, die ueber rein ornamentale Merkmale hinausgeht.
+
+> **EuGH, Urt. v. 18.06.2002 — C-299/99 (Philips):** Eine Marke, die aus einer technisch notwendigen Form besteht, kann nicht durch Verkehrsdurchsetzung errettete werden; Art. 7 I lit. e UMV schützt die technische Freiheit des Mitbewerbers absolut — auch Luxuslabel unterliegen diesem Grundsatz.
+
+> **BGH, Beschl. v. 01.03.2001 — I ZB 54/98 (marktfrisch):** Wortmarken, die ausschliesslich aus beschreibenden oder anpreisenden Angaben bestehen, koennen keine Unterscheidungskraft erlangen; bei Luxus-Slogans ist daher stets Wort-Bild-Kombination oder Secondary-Meaning-Nachweis zu bevorzugen.

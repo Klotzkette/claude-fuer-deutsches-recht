@@ -5,6 +5,32 @@ description: "Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 A
 
 # Sachgrundlose Befristung bei Neugründung — § 14 Abs. 2a TzBfG
 
+## Triage zu Beginn
+
+1. Handelt es sich um eine echte Erstgründung oder um Umstrukturierung / Ausgliederung?
+2. Wann genau wurde das Unternehmen gegründet? (Datum der Ersteintragung ins Handelsregister)
+3. Liegt das Vertragsschluss-Datum innerhalb von 4 Jahren nach Gründung?
+4. Wie lange soll die Befristung dauern? (max. 4 Jahre Gesamtdauer)
+5. Gab es eine Vorbeschäftigung des Arbeitnehmers beim selben Arbeitgeber?
+
+## Zentrale Normen
+
+- § 14 Abs. 2a TzBfG — Neugründungsprivileg (4 Jahre Gesamtdauer, mehrfache Verlängerung)
+- § 14 Abs. 2 Satz 2 TzBfG — Vorbeschäftigungsverbot gilt auch bei § 14 Abs. 2a TzBfG
+- § 16 Satz 1 TzBfG — Rechtsfolge bei Verstoß: Vertrag gilt als unbefristet
+- § 17 TzBfG — 3-Wochen-Klagefrist
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 15.08.2012 – 7 AZR 184/11, NZA 2013, 40 — Eine Neugründung i.S.d. § 14 Abs. 2a TzBfG liegt nur vor, wenn das Unternehmen erstmals eine wirtschaftliche Tätigkeit aufnimmt; bloße Umstrukturierungen, Rechtsformwechsel und Ausgliederungen aus einem Unternehmensverbund erfüllen die Voraussetzungen nicht.
+- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG gilt für alle Varianten sachgrundloser Befristung einschließlich § 14 Abs. 2a TzBfG; eine frühere Beschäftigung beim selben Arbeitgeber schließt das Neugründungsprivileg aus.
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Das Schriftformerfordernis des § 14 Abs. 4 TzBfG gilt auch für Befristungen nach § 14 Abs. 2a TzBfG; die Befristungsabrede muss vor Arbeitsaufnahme in eigenhändiger Schriftform vorliegen.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 14 TzBfG Rn. 125 ff. (Neugründungsprivileg)
+- HWK/Schmalenberg, 11. Aufl. 2024, § 14 TzBfG Rn. 70 ff.
+
 ## Das Neugründungsprivileg
 
 § 14 Abs. 2a TzBfG gewährt neugegründeten Unternehmen ein erweitertes Recht zur sachgrundlosen Befristung:

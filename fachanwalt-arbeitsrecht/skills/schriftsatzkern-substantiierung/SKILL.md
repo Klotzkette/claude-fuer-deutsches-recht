@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Kuendigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Kuendigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Individual- und kollektives Arbeitsrecht
@@ -193,3 +193,22 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+
+- **BAG, Urt. v. 24.09.2020 — 2 AZR 468/19**, NZA 2021, 114 — Anforderungen an die Substantiierung im Kündigungsschutzprozess: pauschale Darlegung des Kündigungsgrundes genügt nicht; Tatsachen müssen so konkret vorgetragen werden, dass der Gegner substanziell erwidern kann.
+- **BAG, Urt. v. 17.09.2020 — 8 AZR 408/19**, NZA 2021, 266 — Darlegungslast bei AGG-Klage: Indiziengerust muss Vermutung einer Benachteiligung begründen; konkrete Tatsachen erforderlich, nicht nur allgemeine Behauptungen; Parallelität zum § 22 AGG.
+- **BGH, Urt. v. 25.01.2018 — IX ZR 65/17**, NJW 2018, 1240 — Anwaltspflicht zur ordnungsgemäßen Schriftsatzeinreichung; beA-Pflicht ab 01.01.2022 für zugelassene Rechtsanwälte; § 130a ZPO, § 46c ArbGG.
+
+## Paragrafenkette Schriftsatz-Grundlagen
+
+- § 130 ZPO — Inhalt vorbereitender Schriftsätze
+- § 130a ZPO i.V.m. § 46c ArbGG — Elektronisches Dokument, beA-Einreichung
+- § 138 ZPO — Wahrheitspflicht und vollständige Tatsachenangabe
+- § 296 ZPO — Verspäteter Vortrag (mit Präklusion)
+- § 86 Abs. 2 ArbGG — Präklusion im Arbeitsgerichtsverfahren
+
+## Kommentarliteratur
+
+- ErfK/Koch, 25. Aufl. 2025, ArbGG § 46 Rn. 1 ff. (Verfahren, Darlegungslast, beA-Pflicht)
+- HWK/Kalb, 11. Aufl. 2024, ArbGG § 46c Rn. 1 ff. (Elektronisches Dokument, Formvorschriften)

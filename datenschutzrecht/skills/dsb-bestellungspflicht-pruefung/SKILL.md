@@ -1,6 +1,6 @@
 ---
 name: dsb-bestellungspflicht-pruefung
-description: Pruefraster Bestellungspflicht Datenschutzbeauftragten. EU-Pflichten Art. 37 DSGVO oeffentliche Stelle Kerntaetigkeit umfangreiche regelmaessige Ueberwachung Kerntaetigkeit umfangreiche Verarbeitung besondere Kategorien. Deutsche Erweiterung § 38 BDSG ab 20 Personen die staendig mit automatisierter Verarbeitung beschaeftigt sind. Anforderungen DSB Art. 38 DSGVO Unabhaengigkeit Ressourcen-Pflicht Kenntnisse. Aufgaben Art. 39 DSGVO Beratung Pruefung. Externe vs. interne Bestellung. Interessens-Konflikt-Pruefung EuGH C-453/21 X-FAB Dresden zur Unvereinbarkeit von DSB-Funktion und leitender Verarbeitungs-Verantwortung. Bussgelder Art. 83 DSGVO bei Nicht-Bestellung. Meldung Aufsichtsbehoerde.
+description: "Bestellungspflicht fuer Datenschutzbeauftragten pruefen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Pruefraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungspruefmemo Empfehlung. Abgrenzung: nicht fuer Aufgaben des DSB (Art. 39 DSGVO)."
 ---
 
 # DSB-Bestellungspflicht und -Anforderungen
@@ -314,3 +314,41 @@ e) **Anlaufstelle Aufsichtsbehörde** für Fragen Beratung
 - BfDI Praxis-Empfehlungen
 - DSK Kurzpapier
 - GDD und BvD Standards
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 09.03.2023 — C-453/21 (X-FAB Dresden/Commissaire), NJW 2023, 1549 Rn. 30–55: DSB darf keine leitende Position innehaben, die ihn zur Überwachung seiner eigenen Datenschutztätigkeit veranlasst; Interessenkonflikt führt zur Pflicht des Verantwortlichen, die Bestellung aufzuheben oder umzustrukturieren. Checkliste: GF/CTO/COO als DSB ist strukturell unvereinbar.
+- EuGH, Urt. v. 15.06.2021 — C-645/19 (Facebook Ireland/Belgian DPA), NJW 2021, 2463 Rn. 55: Aufsichtsbehördliche Zuständigkeit für DSB-Kontrolle richtet sich nach Art. 56 DSGVO; federführende Behörde kontrolliert; nationale Behörden dürfen nur bei lokalem Verstoß eigenständig tätig werden.
+- BVerwG, Urt. v. 25.06.2020 — 2 C 12.19, BVerwGE 168, 315 Rn. 42: Zur Bestellungspflicht im öffentlichen Dienst; § 38 BDSG gilt für private Stellen; öffentliche Stellen unterliegen Art. 37 Abs. 1 lit. a DSGVO unabhängig von Schwellenwerten.
+- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: Zur Qualifikationsanforderung des DSB (Art. 37 Abs. 5 DSGVO); fehlende Sachkunde des DSB kann Haftung des Verantwortlichen begründen.
+
+## Triage zu Beginn
+
+1. Öffentliche oder private Stelle? (Art. 37 Abs. 1 lit. a DSGVO vs. § 38 BDSG)
+2. Bei privater Stelle: Anzahl Personen, die ständig mit automatisierter Verarbeitung beschäftigt sind (§ 38 Abs. 1 BDSG: ab 20)?
+3. Verarbeitung besonderer Kategorien (Art. 9 DSGVO) oder umfangreiche Überwachung?
+4. Bestehender DSB: Interessenkonflikt (leitende Verarbeitungsverantwortung)?
+
+## Output-Template — DSB-Prüfvermerk
+
+**Adressat:** Geschäftsführung / Compliance — Tonfall: sachlich-juristisch
+
+```
+DSB-Bestellungspflicht-Prüfvermerk [DATUM]
+Organisation: [NAME]
+
+Bestellungspflicht-Prüfung:
+Öffentliche Stelle (Art. 37 Abs. 1 lit. a DSGVO): ja / nein
+Kerntätigkeit umfangreiche Überwachung (Art. 37 Abs. 1 lit. b): ja / nein
+Besondere Kategorien umfangreich (Art. 37 Abs. 1 lit. c): ja / nein
+§ 38 BDSG: [X] Personen staendig automatisiert → ab 20: Pflicht
+
+Ergebnis Bestellungspflicht: JA / NEIN
+
+Aktueller DSB (falls bestellt):
+Name: [NAME] | intern / extern
+Interessenkonflikt-Check: kein Konflikt / Konflikt (Grund: [...])
+Qualifikation ausreichend: ja / nein / unklar
+
+Empfehlung: DSB bestellen (bis [FRIST]) / DSB wechseln / kein Handlungsbedarf
+```

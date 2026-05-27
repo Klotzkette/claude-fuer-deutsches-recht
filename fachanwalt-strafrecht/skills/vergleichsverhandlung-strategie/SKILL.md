@@ -1,157 +1,168 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Allgemeines und Wirtschaftsstrafrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich fuer prozessuale Einigung und Strafverteidiger will Verstaendigung Einstellung oder TOA vorbereiten. § 257c StPO Verstaendigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Pruefraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verstaendigung-257c-TOA-46a und zu Plaedoyer."
 ---
 
-# Vergleichsverhandlung und Einigung im Allgemeines und Wirtschaftsstrafrecht
+# Verhandlungs- und Einigungsstrategie im Strafverfahren
 
 ## Wann dieser Skill greift
 
-- Sachverhalte aus dem Bereich Allgemeines und Wirtschaftsstrafrecht, in denen eine aussergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint.
-- Typische Konstellationen: Verstaendigung § 257c StPO, Einstellung § 153a, Adhaesionsverfahren.
-- Sowohl in der aussergerichtlichen Phase (vor Klage) als auch im laufenden Prozess (Gueteverhandlung, Hauptverhandlung).
+- Sachverhalte aus dem Bereich Allgemeines und Wirtschaftsstrafrecht, in denen eine prozessuale Einigung sinnvoll erscheint.
+- Typische Konstellationen: Verstaendigung gemaess § 257c StPO, Einstellung gemaess § 153 oder § 153a StPO, Adhaesionsvergleich (§§ 403 bis 406c StPO), Taeter-Opfer-Ausgleich (§ 46a StGB), Schadenswiedergutmachung als Strafzumessungsfaktor.
+- Sowohl im Ermittlungsverfahren (Einstellung gegen Auflage durch StA) als auch im Zwischen- und Hauptverfahren (Verstaendigung mit Gericht und Staatsanwaltschaft).
 
 ## Vorbereitung der Verhandlung
 
-### 1. BATNA und ZOPA bestimmen
+### 1. BATNA und WATNA strafrechtlich bestimmen
 
-- **BATNA** (Best Alternative to Negotiated Agreement): Was passiert, wenn wir uns nicht einigen? Kosten- und Zeit-Prognose Prozess, Erfolgsaussichten-Quote, Vollstreckungsrisiko.
-- **WATNA** (Worst Alternative): schlimmster denkbarer Verlauf bei Klage/Klageabweisung.
-- **Reservation Price** auf eigener Seite: untere Grenze der Akzeptanz.
-- **ZOPA** (Zone of Possible Agreement): geschaetzte Schnittmenge zwischen eigener Reservation und der vermuteten Reservation der Gegenseite.
+- **BATNA** (beste Alternative): Was passiert, wenn wir uns nicht verstaendigen? Streitig durchverhandeltes Urteil mit Beweisaufnahme, Strafmass-Prognose nach Strafzumessungskommentar, Revisionsaussichten.
+- **WATNA** (schlimmste Alternative): hoechstmoegliche zu erwartende Strafe bei voller Verurteilung, Nebenfolgen (Berufsverbot, Einziehung, Eintrag), Untersuchungshaft.
+- **Eigene Reservation:** untere Grenze (Tagessatzanzahl, Bewaehrung, Einstellungssumme), unterhalb derer eine Einigung nicht akzeptabel ist.
+- **Verhandlungskorridor:** geschaetzte Schnittmenge mit Vorstellungen von Gericht und Staatsanwaltschaft (Vorgespraech § 257b StPO, informelles Rechtsgespraech).
 
 ### 2. Interessen vs. Positionen
 
-Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sondern Interessen ("Ich brauche bis Jahresende Liquiditaet"). In Allgemeines und Wirtschaftsstrafrecht typische Interessen-Cluster:
+Strafrechtsspezifische Interessen-Cluster:
 
-- Liquiditaet (Sofort-Zahlung vs. Ratenzahlung)
-- Reputation (Gegnerin will keinen Prozess mit Pressewirkung)
-- Zukunfts-Beziehung (Mieter und Vermieter, Arbeitgeberin und ehem. Arbeitnehmer, Geschaeftspartner)
-- Steuerliche Optimierung (Vergleich vs. Klage: ertragsteuerliche Behandlung, USt-Frage)
-- Vertraulichkeit (NDA im Vergleich)
+- Strafmass und Bewaehrung (Eintrag im Bundeszentralregister, BZRG-Tilgung, BAFOEG, Beamtenstatus, Approbation).
+- Vermoegensabschoepfung und Einziehung (§§ 73 ff. StGB) - Verhaeltnis zur Strafe.
+- Berufliche Folgen (Berufsverbot, gewerberechtliche Folgen, Approbationsentzug, Anwaltszulassung).
+- Verfahrensdauer (Haftgrund, U-Haft-Vollzug, Beschleunigungsgebot).
+- Adhaesionsverfahren (zivilrechtliche Anspruche des Verletzten im Strafprozess).
+- Oeffentlichkeit (oeffentliche Hauptverhandlung vs. Einstellung im Ermittlungsverfahren).
+- Schadenswiedergutmachung gegenueber Verletzten als Strafmilderungsgrund (§ 46 Abs. 2 StGB, § 46a StGB).
 
-### 3. Druckmittel und Hebel
+### 3. Hebel und Grenzen im Strafverfahren
 
-- Frist (Klage-/Verjaehrungsfrist als Druckmittel der Gegenseite kennen und eigene Frist gezielt einsetzen).
-- Eskalationsstufen ankuendigen ohne sie zu uebertreiben.
-- Hinweis auf Beweismittel, ohne diese vollstaendig offen zu legen.
-- Reputationsdruck (Presse, Branche, Berufsregeln) sehr massvoll, nur wenn ethisch vertretbar.
+- Gestaendnis als zentraler Hebel der Verstaendigung (BVerfG 2 BvR 2628/10 - Gestaendnis darf nicht erkauft werden, aber bleibt zentrale Bedingung).
+- Schadenswiedergutmachung / Zahlung an Verletzte oder gemeinnuetzige Einrichtung als Auflage bei § 153a StPO.
+- Beweisantraege als verfahrensoekonomischer Hebel (Erkenntnis: lange Beweisaufnahme oder Abkuerzung mit Strafmilderung).
+- Keine Druckdrohung mit Klage einreichen - das ist im Strafverfahren strukturell unzutreffend; die Anklage ist Sache der Staatsanwaltschaft, nicht des Verteidigers.
+- Strenge Grenzen aus § 257c StPO: keine Verstaendigung ueber Schuldspruch, keine punktgenaue Strafe sondern Strafrahmen, Belehrung gemaess § 257c Abs. 5 StPO.
 
-## Ablauf der Verhandlung
+## Ablauf einer Verstaendigung gemaess § 257c StPO
 
-### Eroeffnung
+### Vorbereitung
 
-- Anker setzen: erste Zahl/Position deutlich hoeher als Reservation, aber begruendbar.
-- Begruendung mit konkreten Positionen aus StGB, StPO, BtMG, AO (§§ 369 ff.), OWiG, JGG verknuepfen.
+- Vorgespraech mit Gericht und Staatsanwaltschaft (§ 257b StPO) - bereits Inhalt und Verlauf werden in Hauptverhandlung mitgeteilt (§ 243 Abs. 4 StPO).
+- Protokoll- und Mitteilungspflicht beachten - sonst Verfahrensruege gemaess § 273 Abs. 1a StPO.
+- Mandantin oder Mandant umfassend belehren: Bindungswirkung, Wegfall der Bindung (§ 257c Abs. 4 StPO), Rechtsmittelverzicht ausgeschlossen (§ 302 Abs. 1 S. 2 StPO).
 
-### Konzessionsphase
+### Kernpunkte des Verstaendigungs-Vorschlags
 
-- In kleinen, begruendeten Schritten nachgeben.
-- Jede Konzession an Gegenleistung knuepfen ("Wenn Sie X, dann koennen wir Y").
-- Konzessionsmuster nicht linear (sonst extrapolierbar) sondern abnehmend.
+1. Geplanter Strafrahmen (Ober- und Untergrenze - keine Punktstrafe).
+2. Geplantes Gestaendnis (Inhalt und Reichweite, nicht erkaufbar).
+3. Sonstige Verfahrensschritte (Einstellung weiterer Tatvorwuerfe gemaess § 154 oder § 154a StPO, Beweisanregungen).
+4. Nebenfolgen (Einziehung, Berufsverbot, Fuehrerschein) - sind nicht primaer Gegenstand, koennen aber besprochen werden.
+5. Rechtsfolgenausspruch: Bewaehrung, Geldstrafe, Tagessatzhoehe.
 
 ### Endspiel
 
-- Abschluss aktiv herbeifuehren ("Sind wir bei 47.500 dann durch?").
-- Schweige-Pausen aushalten.
-- Nachverhandlungs-Versuche der Gegenseite ("ein letztes Detail noch") freundlich, aber bestimmt zurueckweisen, wenn Substanz steht.
+- Hauptverhandlung: Mitteilung der Vorgespraeche (§ 243 Abs. 4 StPO).
+- Vorschlag des Gerichts (§ 257c Abs. 3 StPO), Zustimmung Angeklagte/r + StA.
+- Belehrung gemaess § 257c Abs. 5 StPO durch Vorsitzende/n.
+- Gestaendnis, Beweisaufnahme im verbleibenden Umfang.
+- Urteil im verstaendigten Strafrahmen.
 
-## Vergleichsentwurf - Pflichtbestandteile
+## Einstellung gemaess § 153a StPO
 
-### Bei aussergerichtlichem Vergleich
+### Auflagen-Katalog (§ 153a Abs. 1 S. 2 StPO)
 
-1. **Praeambel** mit kurzem Sachstand und Streitthema.
-2. **Hauptregelung** (Zahlung, Leistung, Unterlassung, Rueckabwicklung).
-3. **Faelligkeit** und Verzinsung.
-4. **Sicherheiten** (Buergschaft, Hinterlegung, Sicherungsabtretung).
-5. **Erfuellung gegen Erledigung:** keine Aufrechnung, Ratenausfall = Sofortfaelligkeit.
-6. **Abgeltungs-/Vorbehaltsklausel:** "Mit diesem Vergleich sind alle wechselseitigen Anspruche aus dem zugrundeliegenden Sachverhalt abgegolten."
-7. **Verschwiegenheit** (wenn von einer Partei gewuenscht).
-8. **Steuerliche Behandlung** ggf. ausdruecklich, sonst Hinweis auf Steuerberatung.
-9. **Salvatorische Klausel und Schriftform.**
-10. **Vollstreckungstitel-Ersatz:** notarielle Beurkundung, Anwaltsvergleich nach § 796a ZPO, oder Schiedsvergleich.
+- Zahlung an gemeinnuetzige Einrichtung oder Staatskasse.
+- Schadenswiedergutmachung an Verletzte.
+- Gemeinnuetzige Leistungen.
+- Unterhaltspflichten erfuellen.
+- Teilnahme an sozialem Trainingskurs / Aufbauseminar / Verkehrsunterricht.
+- Bemuehung um TOA gemaess § 46a StGB.
 
-### Bei Prozessvergleich
+### Praxis
 
-- Protokollvergleich nach § 794 Abs. 1 Nr. 1 ZPO (Vollstreckungstitel kraft Protokollierung).
-- Widerrufsvorbehalt mit klarer Frist.
-- Kostenregelung: ueblich Kostenaufhebung, ggf. Quote.
-- Beteiligung der Streithelfer/Nebenintervenienten beachten.
+- Verhandlung mit Staatsanwaltschaft im Ermittlungsverfahren oder mit Gericht im Hauptverfahren.
+- Auflagenhoehe an wirtschaftliche Leistungsfaehigkeit anpassen.
+- Frist zur Erfuellung in Wochen statt Monaten ist guenstig fuer Mandantin oder Mandanten.
+- Nach Erfuellung: Verfahrenseinstellung, keine Eintragung im BZR (aber Mitteilung an zentrale staatsanwaltliche Verfahrensregister).
 
-## Risiken und Stolpersteine im Allgemeines und Wirtschaftsstrafrecht
+## Adhaesionsvergleich (§§ 403 bis 406c StPO)
 
-- Steuerliche Fehlbehandlung: Vergleichszahlung als Schadensersatz vs. Lohn vs. USt-pflichtige Leistung -> StGB und ESt-/USt-Regeln pruefen.
-- Vollmacht: Mandantin muss zustimmen, anwaltliche Vergleichsbefugnis muss in Vollmacht expliziert sein.
-- Vollstreckbarkeit: aussergerichtlicher Vergleich ohne notarielle Form/Anwaltsvergleich ist kein Vollstreckungstitel.
-- Verzicht zu weit gefasst: pauschale Abgeltungsklausel kann eigene Ansprueche unbeabsichtigt mit erfassen.
-- Mandanten-Erwartung: Vergleich ist oft Kompromiss - Erwartungsmanagement vor Verhandlung.
+- Verletzte/r macht zivilrechtlichen Anspruch im Strafverfahren geltend.
+- Vergleichsmoeglichkeit nach § 405 StPO: Gericht protokolliert Vergleich, der Vollstreckungstitel ist.
+- Vorteil fuer Angeklagte/n: Schadenswiedergutmachung wirkt strafmildernd; einheitliches Verfahren statt parallele Zivilklage.
+- Vorteil fuer Verletzte: Vollstreckungstitel ohne Zivilkostenrisiko.
+- Cross-Ref: `fachanwalt-strafrecht-adhaesionsverfahren`.
 
-## Pflicht-Output
+## Verhandlungs-Skripte (strafrechtsspezifisch)
 
-1. **Verhandlungs-Memo** mit BATNA/WATNA, ZOPA-Schaetzung, Strategie.
-2. **Vergleichsentwurf** (anwaltsvertraglich oder Protokollvergleich-Skript).
-3. **Mandantenfreigabe** vor Unterzeichnung schriftlich.
-4. **Steuer- und Vollstreckungs-Memo** zum Vergleich.
-5. **Abschluss-Schreiben** an Gegenseite mit Kopien und Erfuellungsplan.
+### Skript 1: Eroeffnung Verstaendigungs-Vorgespraech (§ 257b StPO)
 
+> Frau Vorsitzende, wir regen ein Vorgespraech gemaess § 257b StPO an. Mandantschaft waere bereit, ein qualifiziertes Gestaendnis zum Tatvorwurf gemaess § X StGB abzulegen. Aus unserer Sicht waere ein Strafrahmen zwischen Y und Z Tagessaetzen zu 30 Euro mit Bewaehrung sachgerecht. Wie sieht das Gericht den Strafrahmen?
 
-## Verhandlungs-Skripte
+### Skript 2: § 153a-Anregung im Ermittlungsverfahren
 
-### Skript 1: Eroeffnung mit Ankerwert
+> Sehr geehrte Frau Staatsanwaltschaft, mit Blick auf die geringe Schuld und das einmalige Versagen meiner Mandantschaft regen wir eine Einstellung gemaess § 153a Abs. 1 StPO gegen Zahlung von X Euro an die Staatskasse und Y Euro Schadenswiedergutmachung an die Verletzte an. Mandantschaft bestaetigt die Tat im Innenverhaeltnis, hat den Schaden vollstaendig kompensiert und besucht freiwillig einen Aufbauseminar.
 
-> "Wir haben die Sache durchgerechnet. Auf Basis von StGB und der aktuellen Rechtsprechung kommen wir auf eine Hauptforderung von X Euro plus Y Euro Nebenforderungen. Wir sind bereit, ueber eine Pauschalsumme zu sprechen, die die Sache abschliesst."
+### Skript 3: Adhaesions-Vergleichsvorschlag
 
-### Skript 2: Begruendete Konzession
+> Wir bieten der Nebenklage eine Schmerzensgeldzahlung in Hoehe von X Euro an, zahlbar in vier Monatsraten ab Rechtskraft, im Gegenzug zur Zustimmung zur Verstaendigung gemaess § 257c StPO. Wir regen die Protokollierung als Vergleich gemaess § 405 StPO an.
 
-> "Wir koennen Z Euro nachgeben, wenn Sie im Gegenzug die Klausel A streichen und einer Vertraulichkeitsvereinbarung zustimmen. Andernfalls bleiben wir bei der urspruenglichen Position."
+### Skript 4: Ablehnungs-Signal bei unangemessenem Vorschlag
 
-### Skript 3: Abschluss-Frage
-
-> "Wenn wir uns auf 47.500 Euro einigen und das Geld bis zum 30. dieses Monats fliesst, ist die Sache fuer Sie dann erledigt?"
-
-### Skript 4: Walk-Away-Signal
-
-> "Wir haben hier eine klare Linie. Wenn Sie nicht ueber die 35.000 Euro hinauskommen, werden wir Klage einreichen und sehen, wie das Gericht entscheidet."
+> Wir koennen dem vorgeschlagenen Strafrahmen nicht zustimmen. Mandantschaft wird in der Hauptverhandlung Beweisantraege gemaess § 244 Abs. 3 StPO stellen, insbesondere zur Glaubhaftigkeit der Belastungszeugin und zur Schuldfaehigkeit. Wir gehen davon aus, dass das Gericht im Anschluss zu einer milderen Bewertung kommt.
 
 ## Stoerfeuer und Antwort-Bausteine
 
-- **"Wir haben rechtsschutzversichert, uns ist der Prozess egal":** "Die Versicherung pruft Erfolgsaussichten. Wir koennen Ihnen gerne unser BVerfG-/BGH-Zitat zur Klage-Quote in diesen Faellen schicken."
-- **"Wir warten erstmal das Urteil im Verfahren XY ab":** "Verjaehrung laeuft uns weg. Wir lassen den Schiedsspruch im Hintergrund mitlaufen."
-- **"Ihre Mandantin hat sich rechtsmissbraeuchlich verhalten":** "Bitte praezisieren Sie - dann nehmen wir das ggf. in den Vergleich auf."
+- Mandantschaft kann nicht zahlen - § 153a-Auflage: Auflagenhoehe in Tagessaetzen oder in gemeinnuetzigen Stunden statt Eurobetrag verhandeln.
+- StA besteht auf Punktstrafe - hinweisen, dass § 257c Abs. 3 StPO nur Strafrahmen erlaubt.
+- Vorsitzende/r umgeht § 243 Abs. 4 StPO Mitteilung - notfalls eigene Erklaerung zu Protokoll, Verfahrensruege vorbehalten.
+- Gestaendnis-Druck - hinweisen auf BVerfG-Linie, kein Gestaendnis erkauft.
 
-## Steuerliche Behandlung des Vergleichs
+## Grenzen der Absprache
 
-Im Bereich Allgemeines und Wirtschaftsstrafrecht oft uebersehen:
+- Keine Verstaendigung ueber Schuldspruch (§ 257c Abs. 2 S. 3 StPO).
+- Keine Punktstrafe (§ 257c Abs. 3 StPO - nur Strafrahmen).
+- Kein Rechtsmittelverzicht durch Verstaendigung (§ 302 Abs. 1 S. 2 StPO).
+- Wegfall der Bindung bei Aenderung der Sach- oder Rechtslage (§ 257c Abs. 4 StPO).
+- Verstaendigung ausgeschlossen bei Schwurgerichtssachen mit lebenslanger Freiheitsstrafe in der Praxis problematisch.
+- Mitteilungs- und Protokollierungspflichten (§§ 243 Abs. 4, 273 Abs. 1a StPO) - Verstoss begruendet absoluten Revisionsgrund.
 
-- Vergleichszahlung als Schadensersatz (in der Regel keine USt, EStG je nach Art).
-- Vergleich ueber Lohn-/Gehaltsanspruch -> Lohnsteuer- und SV-Abzug pruefen.
-- Vergleichszahlung als Anwaltshonorar -> ggf. USt.
-- Erbrechtliche Abfindung -> ggf. ErbStG.
-- Hinweis im Vergleich: "Die steuerliche Behandlung ist nicht Gegenstand dieser Vereinbarung und obliegt der eigenen Steuerberatung der Parteien."
+## Pflicht-Output
 
-## Mediation als Alternative
+1. **Verhandlungs-Memo** mit BATNA / WATNA, Verhandlungskorridor, Strategie.
+2. **Vorschlag-Entwurf** (Verstaendigungs-Skizze gemaess § 257c StPO oder § 153a-Anregung an StA).
+3. **Mandanten-Belehrung schriftlich** ueber Bindungswirkung, Wegfall und Rechtsmittelverzicht.
+4. **Adhaesions-Memo** falls Nebenklage / Verletzte/r Anspruch geltend macht.
+5. **Auflagen-Erfuellungsplan** bei § 153a-Einstellung.
 
-- Wenn Beziehung erhalten bleiben soll (Familie, Geschaeftspartner, Mieter und Vermieter).
-- Mediator unparteiisch, kein Entscheidungstraeger - braucht Vertraulichkeitsvereinbarung.
-- Mediations-Vergleich kann durch Notar oder Anwaltsvergleich vollstreckbar gemacht werden.
-- Foerderung MediationsG; in einigen Bundeslaendern Kostenuebernahme bei Familiensachen.
+## Pruefkette vor dem Vorgespraech
 
-## Vollstreckbarkeit
-
-- **Anwaltsvergleich nach § 796a ZPO:** anwaltlich beurkundeter Vergleich, mit Vollstreckungsklausel des Gerichts = Vollstreckungstitel.
-- **Notarieller Vergleich:** als Schuldanerkenntnis mit Vollstreckungsunterwerfung.
-- **Prozessvergleich:** § 794 Abs. 1 Nr. 1 ZPO, sofort vollstreckbar.
-- **Schiedsvergleich:** Vollstreckbarerklaerung nach §§ 1054, 1060 ZPO.
-
-## Vergleichs-Reichweite und Abgeltungsklausel
-
-Klassische Stolperfalle in Allgemeines und Wirtschaftsstrafrecht:
-
-- **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
-- **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
-- **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+- [ ] Akteneinsicht abgeschlossen
+- [ ] Beweismittel der Anklage durchgearbeitet
+- [ ] Mandantschaft hat ueber Verstaendigung und Folgen schriftlich belehrt
+- [ ] BATNA und WATNA stehen
+- [ ] Strafzumessungs-Recherche (BGH-Linie, Strafzumessungs-Kommentar) gemacht
+- [ ] Adhaesion / Nebenklage geprueft
+- [ ] Mitteilungs- und Protokollierungspflichten klargestellt
 
 ## Cross-Refs
 
-- `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+- `erstgespraech-mandatsannahme` (im selben Plugin) fuer Mandatsannahme und Erstprognose.
+- `schriftsatzkern-substantiierung` (im selben Plugin) fuer Schriftsaetze, wenn Verstaendigung scheitert.
+- `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` (im selben Plugin) fuer die formale Verstaendigung.
+- `fachanwalt-strafrecht-adhaesionsverfahren` (im selben Plugin) fuer Adhaesion und Vergleich gemaess § 405 StPO.
+- `fachanwalt-strafrecht-nebenklage-opfervertretung` (im selben Plugin) fuer Verhandlungen mit Nebenklage.
+
+## Aktuelle Rechtsprechung Verstaendigung / Einigung
+
+- BVerfG, Beschl. v. 19.03.2013 - 2 BvR 2628/10, BVerfGE 133, 168 — Verstaendigungsgesetz 2009 ist verfassungskonform, aber strenge Transparenz- und Protokollierungspflichten; Gestaendnis muss inhaltlich ueberprueft werden; Verfahren ohne Protokollierung (§ 273 I a StPO) ist revisibel.
+- BGH, Beschl. v. 25.11.2016 - GSSt 1/16, BGHSt 62, 1 — Belehrungspflicht nach § 257c Abs. 5 StPO zwingend vor Gestaendnis; fehlt sie, ist Gestaendnis grundsaetzlich unverwertbar (widerlegliche Vermutung des Kausalzusammenhangs).
+- BGH, Urt. v. 18.09.2012 - 2 StR 92/12, NJW 2013, 247 — Mitteilungspflicht nach § 243 Abs. 4 StPO: jedes Vorgespraech mit Gericht oder StA muss in der Hauptverhandlung mitgeteilt werden; Verstoß ist absoluter Revisionsgrund, wenn Urteil darauf beruht.
+- BGH, Beschl. v. 28.09.2010 - 3 StR 359/10, NStZ 2011, 168 — TOA nach § 46a StGB setzt echte freiwillige Wiedergutmachungsleistung voraus; symbolische Zahlung ohne Kontakt zum Opfer genuegt nicht fuer vollen Strafmilderungseffekt.
+
+## Normen Verstaendigung
+
+- § 153 StPO — Einstellung bei Geringfuegigkeit (ohne Auflage)
+- § 153a StPO — Einstellung gegen Auflage (Zahlung, gemeinnuetzige Arbeit)
+- § 154 StPO — Teileinstellung (Mitsachen)
+- § 257b StPO — Eroerrung des Verfahrensstands (Vorgespraech)
+- § 257c StPO — Verstaendigung (Inhalt, Bindungswirkung, Widerruf)
+- § 46a StGB — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
+- § 302 StPO — Rechtsmittelverzicht nach Verstaendigung verboten (§ 302 I 2 StPO)

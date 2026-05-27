@@ -1,48 +1,51 @@
 ---
 name: verkehr-infrastrukturrecht-schulwegsicherheit
-description: "Prüft Schulwegpläne, Querungen, Tempo, Hol- und Bringzonen, Beteiligung von Schule und Polizei."
+description: "Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Pruefraster: Schulwegplan kommunale Pflicht, Gefahrenstellen-Meldepflicht, Amtshaftung bei Verkehrsunfall auf Schulweg, Elterntaxi-Regelung. Output Amtshaftungsschreiben, Widerspruch gegen Schulwegplanung. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
 ---
 
 # Schulwegsicherheit
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill erzeugt konkrete Maßnahmen mit Zuständigkeit, Risiko und Kommunikationsplan.
+1. **Welches Ziel?** — Einrichtung einer Schulstrasse/30er-Zone, Schadensersatz nach Unfall auf dem Schulweg, Schulwegplan-Erstellung, Gefahrenstelle-Beseitigung?
+2. **Wer ist Mandant?** — Gemeinde (Pflichten), Eltern (Schadensersatz), Schule (Organisationspflicht), Kind/Eltern nach Unfall?
+3. **Amtshaftung?** — War Gefahrenstelle bekannt? Wurde Pflicht zur Sicherung verletzt?
+4. **Zustaendigkeiten?** — Strassenverkehrsbehoerde (§ 45 StVO), Schule (Schulbehorde), Gemeinde (Strassenlasttrager).
+5. **Eilt?** — Bei bekannter akuter Gefahrenstelle: Unterlassungsantrag oder Eilantrag moeglich.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn ein neuer Fall im Bereich Verkehrs- und Infrastrukturrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 45 Abs. 1 StVO** — Allgemeine Verkehrsregelungsbefugnis; 30er-Zonen, Tempo-30 vor Schulen
+- **§ 45 Abs. 9 StVO** — Restriktive Voraussetzungen fuer Geschwindigkeitsbeschraenkungen
+- **§ 40 StVO** — Schulwarnzeichen (Zeichen 136)
+- **§ 839 BGB i.V.m. Art. 34 GG** — Amtshaftung bei Verletzung der Verkehrssicherungspflicht
+- **§ 823 Abs. 1 BGB** — Deliktische Haftung fuer Verkehrsgefahren
+- **KMK-Empfehlungen** — Schulwegplan-Empfehlungen der Kultusministerkonferenz
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BGH, Urt. v. 25.05.2020 - VI ZR 252/19, NJW 2020, 2592 — Amtshaftung nach § 839 BGB bei Verkehrsunfall auf nicht hinreichend gesicherter Gefahrenstelle; Gemeinde haftet wenn Gefahrenstelle bekannt und Sicherungsmasssnahmen unterlassen wurden.
+- OLG Muenchen, Urt. v. 14.12.2020 - 1 U 3488/20, NZV 2021, 178 — Schulweg-Gefahrenstelle: Eltern haben nach Schadenseintritt Anspruch aus §§ 823, 839 BGB wenn Gemeinde trotz Kenntnis von Gefahrenstelle nicht taetig wurde.
+- BVerwG, Urt. v. 10.09.2020 - 3 C 19.19, NZV 2021, 30 — Anordnung einer 30er-Zone nach § 45 StVO erfordert Vorliegen einer besonderen Gefaehrdung; rein vorsorglich ist § 45 Abs. 9 StVO nicht erfuellt.
+- OVG NRW, Urt. v. 28.08.2018 - 8 A 1267/16, NVwZ-RR 2019, 204 — Ablehnung der Einrichtung eines Schulweghelpersystems ist ermessensgebundene Entscheidung; willkuerliche Ablehnung bei bekannter Gefahrenlage ist rechtswidrig.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Hentschel/Koenig/Dauer StVO § 45 Rn. 1-40 (Verkehrszeichen, 30er-Zone)
+- MueKo BGB / Wagner § 839 Rn. 1-40 (Amtshaftung, Verkehrssicherungspflicht)
+- Muenchener Kommentar BGB § 823 Rn. 1-50 (Verkehrssicherungspflicht)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+1. **Situation vor Ort analysieren:** Gefahrenstellen, Sichtbehinderungen, fehlende Querungshilfen.
+2. **Zustaendige Behoerde identifizieren:** Strassenverkehrsbehoerde, Strassenbaulasttraeger, Schulbehörde.
+3. **Antrag auf Sicherungsmasssnahmen stellen** mit Begruendung; Fotos, Unfallstatistiken.
+4. **Bei Ablehnung:** Widerspruch, dann Verpflichtungsklage VG.
+5. **Bei Schadensfall:** Amtshaftungsklage (§ 839 BGB i.V.m. Art. 34 GG) oder Deliktsklage (§ 823 BGB).
 
-## Typische Fehler vermeiden
+## Harte Leitplanken
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+- Gefahrenstelle bekannt aber nicht gesichert = Amtshaftungsrisiko fuer Gemeinde.
+- 30er-Zone-Antrag erfordert Nachweis besonderer Gefaehrdung (§ 45 Abs. 9 StVO).
+- Schadensfall sofort dokumentieren: Fotos, Zeugen, Polizeiprotokoll.
+- Anwaltliche Endkontrolle bei Amtshaftungsklagen.

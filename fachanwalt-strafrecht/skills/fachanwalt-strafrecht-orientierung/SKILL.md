@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-orientierung
-description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische Mandate Notfristen Standardliteratur. Light-Touch-Plugin fuer schnelle Verortung. Strafverteidigung im Ermittlungsverfahren (Akteneinsicht § 147 StPO) Hauptverhandlung (§§ 213 ff. StPO) Berufung (§ 314 StPO) Revision (§ 341 StPO) Verfassungsbeschwerde. Aktenaufbereitung im Plugin aktenaufbereiter-strafrecht.
+description: "Orientierung im Strafrecht-Mandat und Workflow-Routing: Anwendungsfall Strafverteidiger erhaelt neue Anfrage und muss Strafrechts-Konstellation einordnen und richtigen Spezial-Skill finden. § 136 StPO Belehrung, § 137 StPO Verteidigerrecht, StGB Straftatbestaende. Pruefraster Deliktstyp allgemeines oder Wirtschaftsstrafrecht, Verfahrensstand Ermittlung Anklage Hauptverhandlung, Mandantenrolle Beschuldigter Zeuge Nebenklaeger. Output Mandat-Einordnung mit Weiterleitung zum richtigen Workflow-Skill. Abgrenzung zu Mandat-Triage-Strafrecht fuer ausfuehrliche Erstaufnahme."
 ---
 
 # Fachanwalt für Strafrecht — Orientierung
@@ -68,8 +68,33 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 ## Schnittstellen
 
 - **aktenaufbereiter-strafrecht** für Aktenaufbereitung.
-- **kanzlei-cowork** für Fristenbuch und Versand.
+- **kanzlei-allgemein** für Fristenbuch und Versand.
 
 ## Hinweis
 
-Light-Touch-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
+Plugin fuer Fachanwaltschaft-Orientierung. Tiefe Verteidigung erfordert die Erfahrung des Fachanwalts; insbesondere bei Schwurgerichts- und Wirtschaftsstrafrecht.
+
+## Zentrale Strafrecht-Normen im Ueberblick
+
+- §§ 1-2 StGB — Gesetzlichkeitsprinzip; keine Strafe ohne Gesetz (nullum crimen)
+- §§ 13-16 StGB — Begehungs-/Unterlassungsdelikt, Vorsatz, Irrtum
+- §§ 20-21 StGB — Schuldunfaehigkeit, verminderte Schuldfaehigkeit
+- §§ 46-49 StGB — Strafzumessung, besonderer Milderungsgrund
+- § 78 StGB — Verjaehrungsfristen (z.B. 30 Jahre bei Mord)
+- §§ 112-130 StPO — Untersuchungshaft, Haftbefehl, Haftgruende, Haftpruefung
+- §§ 136-136a StPO — Beschuldigtenbelehrung, Aussageverweigerungsrecht, Beweisverwertungsverbote
+- §§ 140-142 StPO — notwendige Verteidigung, Pflichtverteidiger
+
+## Aktuelle Leitentscheidungen
+
+- BVerfG, Beschl. v. 11.07.1994 - 2 BvR 777/94, NStZ 1994, 551 — Akteneinsicht im Haftpruefungsverfahren muss dem Verteidiger die haftrelevanten Informationen uneingeschraenkt zugaenglich machen; Versagung verletzt Art. 2 I i.V.m. Art. 104 GG.
+- BGH, Beschl. v. 25.11.2016 - GSSt 1/16, BGHSt 62, 1 — Verstaendigung nach § 257c StPO: Belehrungspflicht ist unabdingbar; unterbliebene Belehrung fuehrt zur Unverwertbarkeit des Gestaendnisses, wenn nicht ausgeschlossen werden kann, dass ohne den Fehler dasselbe Gestaendnis abgelegt worden waere.
+- BVerfG, Beschl. v. 19.03.2013 - 2 BvR 2628/10, BVerfGE 133, 168 — Verstaendigungsgesetz verfassungskonform; Pflicht zur Protokollierung und Transparenz im Verfahren; Gestaendnis darf nicht losgeloest von richterlicher Wuerdigung hingenommen werden.
+- BGH, Urt. v. 28.01.2014 - 1 StR 494/13, BGHSt 59, 130 — Nachtraegliche Sicherungsverwahrung: strenge Anforderungen an Fahrlaessigkeit; Vollzugslockerungen kein Ablehnungsgrund.
+
+## Kommentarliteratur
+
+- Schoenke/Schroeder, StGB, 30. Aufl. 2019 (Grundlagenkommentar Allg. und Bes. Teil)
+- Meyer-Gossner/Schmitt, StPO, 67. Aufl. 2024 (Praxisstandard)
+- Fischer, StGB, 71. Aufl. 2024 (kompakter Einzel-Kommentar)
+- MuKo StGB, 4. Aufl. 2020-2022, Bde. 1-8 (wissenschaftlicher Grundkommentar)

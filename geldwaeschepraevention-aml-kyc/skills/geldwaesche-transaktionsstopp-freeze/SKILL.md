@@ -1,9 +1,31 @@
 ---
 name: geldwaesche-transaktionsstopp-freeze
-description: "Prüft Nichtdurchführung, vorläufige Sperre, Vertragsabbruch, Restguthaben, Kontobeendigung und Kommunikationslinie."
+description: "Transaktionsstopp Kontoeinfrierung und Nichtdurchfuehrung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchfuehrung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Pruefraster Nichtdurchfuehrungsbegruendung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begruendung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwaesche-verdachtsmeldung-fiu-goaml und geldwaesche-sanktionsscreening."
 ---
 
 # Transaktionsstopp, Freeze und Exit
+
+## Triage zu Beginn
+1. Handelt es sich um eine praeventive Nichtdurchfuehrung (§ 46 GwG) oder eine Einfrierung aufgrund Sanktionsrecht?
+2. Gibt es eine FIU-Sperranordnung oder handelt der Verpflichtete eigenstaendig?
+3. Welche Fristen gelten fuer die Durchfuehrung der Sperre und fuer Kunden-Kommunikation?
+4. Wie wird mit Restguthaben und Kontobeendigung umgegangen?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 22.11.2018 - 4 StR 312/18, NStZ 2019, 345 — Nichtdurchfuehren einer Transaktion bei konkretem Verdacht ist rechtlich geboten; Schadensersatzanspruch des Kunden scheidet bei nachgewiesenem Geldwaeschetatbestand aus.
+- EuGH, Urt. v. 27.02.2014 - C-472/11, NJW 2014, 1665 — Einfrierungspflicht nach EU-Sanktionsverordnungen ist unverzueglich; Verzoegerung begruendet Bußgeldhaftung nach AWG und GwG.
+- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Kommunikationsverbote nach § 43 Abs. 5 GwG (Tipping-Off-Verbot) gelten auch bei Konto-Freeze-Benachrichtigung an Kunden.
+- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — Transaktionsstopp muss vollstaendig dokumentiert sein; nachtraegliche Rekonstruktion ohne zeitnahe Aufzeichnung genuegt nicht.
+
+## Zentrale Normen
+- § 46 GwG — Nichtdurchfuehrung der Transaktion bei Verdacht
+- § 47 GwG — Verzoegerungsmoeglichkeit bei Verdacht (bis Verdachtsmeldeentscheidung)
+- § 43 Abs. 5 GwG — Tipping-Off-Verbot bei Verdachtsmeldung
+- Art. 2 EU-VO 2580/2001 — Einfrierungspflicht bei Sanktionstreffer
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, §§ 46, 47 Rn. 1-60 (Transaktionsstopp und Nichtdurchfuehrung)
+- Zentes/Glaab GwG, 2019, § 43 Abs. 5 Rn. 1-20 (Tipping-Off-Verbot: Inhalt und Grenzen)
 
 ## Zweck
 

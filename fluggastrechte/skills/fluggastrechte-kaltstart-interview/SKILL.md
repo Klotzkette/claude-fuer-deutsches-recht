@@ -56,6 +56,11 @@ Profil wird geschrieben. Empfohlene nächste Skills:
 - **§§ 12 13 ZPO** Gerichtsstand allgemein, **EuGH C-204/08 Rehder** Wahlrecht Abflug- oder Zielort für EU-Fluege.
 - **Verjährung** drei Jahre § 195 BGB (Ende Kalenderjahr Kenntnis § 199 Abs. 1 BGB).
 
+## Leitentscheidungen Kaltstart / Eingangsinterview
+
+- EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — Massgebliche Anspruchsvoraussetzungen VO 261/2004; Verspaetung, Annullierung oder Nichtbefoerderung als Anknuepfungspunkte.
+- BGH, Urt. v. 26.09.2023 — X ZR 109/22, NJW 2023, 3654 — Erstgespreaech-relevante Informationen: PNR, Flugdaten, Ankunftszeit; ohne vollstaendige Daten keine Anspruchsbewertung moeglich.
+
 ## Hinweise
 
 Auch nach der Brexit-Anpassung gilt die VO 261/2004 in der EU. Fluege ab Drittstaat zu einem EU-Flughafen mit Nicht-EU-Airline fallen **nicht** unter die VO; Fluege ab EU mit Nicht-EU-Airline schon. Prüfkriterium: Art. 3 VO 261/2004.

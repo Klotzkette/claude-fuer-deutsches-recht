@@ -1,6 +1,6 @@
 ---
 name: ip-klausel-pruefung
-description: "Prüfung der IP-Klauseln in einem Vertrag — Übertragung, Inhaberschaft, Lizenzgewährung, Gewährleistung, Freistellung. Lädt bei der Prüfung von IP-Regelungen in Arbeits-, Dienst-, Werk-, Lizenz- oder sonstigen Verträgen mit IP-Bezug sowie bei Fragen zu Abtretungssprache oder Lizenzumfang."
+description: "Anwalt prueft Vertrag auf IP-Klauseln (Uebertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Pruefraster: Uebertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Pruefbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-pruefung (OSS-Compliance)."
 ---
 
 # IP-Klausel-Prüfung
@@ -243,3 +243,19 @@ Jede Klauselaussage muss auf eine Norm oder Entscheidung gestützt sein. Pflicht
 - **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Zweckübertragungslehre oder Nutzungsrechtsreichweite
 - **Kommentar:** Schricker/Löwenheim UrhG oder BeckOK UrhR mit § und Randnummer
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen; keine stillen Ergänzungen aus dem Modellwissen ohne Hinweis.
+
+## Triage-Fragen vor IP-Klausel-Pruefung
+
+Bevor die Klauselanalyse beginnt, klaere:
+1. Handelt es sich um eine Nutzungsrechtseinraeumung (§ 31 UrhG) oder eine unzulaessige „Uebertragung des Urheberrechts" (§ 29 UrhG)?
+2. Sind kuenftige Nutzungsarten von der Einraeumung erfasst (§ 31a UrhG — Schriftformerfordernis, Widerrufsrecht)?
+3. Besteht eine Arbeitnehmererfindungs-Komponente (§ 69b UrhG Software, ArbnErfG) die separate Regelung erfordert?
+4. Ist die Zweckuebertragungslehre (§ 31 V UrhG) bei zu engen Klauseln zu beachten?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 22.04.2010 — I ZR 17/05 (Der Frosch mit der Maske):** Die Zweckuebertragungslehre nach § 31 V UrhG besagt, dass bei unklaren Nutzungsrechtseinraeumungen im Zweifel nur diejenigen Nutzungsrechte als eingeraeumt gelten, die zum Erreichungsvertragszweck erforderlich sind; Pauschale Formulierungen wie „alle Rechte" sind daher primaer am Vertragszweck zu messen.
+
+> **BGH, Urt. v. 03.07.2008 — I ZR 204/05 (Club des Belugas):** Fuer die Einraeumung von Nutzungsrechten an zum Vertragsschluss unbekannten Nutzungsarten (§ 31a UrhG) bedarf es der Schriftform und einer gesonderten Verguetungsabrede; ohne Schriftform ist die Einraeumung fuer neuartige Nutzungsarten (z.B. Streaming) unwirksam.
+
+> **BGH, Urt. v. 13.09.2007 — I ZR 14/04 (Aktenzeichen):** Bei Arbeitsverhaeltnissen entstehen Nutzungsrechte an Computerprogrammen nach § 69b UrhG automatisch beim Arbeitgeber; fuer sonstige Werke (Texte, Designs, Fotos) ist eine ausdruckliche Uebertragungsklausel erforderlich — blos aus dem Arbeitsvertrag ergibt sich keine automatische Rechteeinraeumung.

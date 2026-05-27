@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-abnahme-verweigerung
-description: "Abnahme-Verweigerung wegen Maengeln § 640 BGB. Wesentliche Maengel als Verweigerungsrecht unwesentliche fuehren nur zu Maengelrechten. Foermliche Abnahme Konkludente Abnahme Fiktion § 640 II BGB. Werkmangel Beweislastumkehr nach Abnahme. Workflow Maengelliste Frist Selbstvornahme Klage."
+description: "Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begruendungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Pruefraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt."
 ---
 
 # Abnahme-Verweigerung wegen Mängeln

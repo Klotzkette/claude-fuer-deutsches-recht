@@ -129,3 +129,9 @@ Der Skill stoppt mit einer klaren Frage zurück an den Mandanten / die Sekretari
 ## Übergabe
 
 Die Schreiben-Skills (`forderungsschreiben-erste-stufe`, `forderungsschreiben-mahnung`, `klage-amtsgericht-fluggast`) rufen diesen Skill **automatisch** am Ende ihrer Arbeit auf, sobald ein Belege-Ordner im Mandatsverzeichnis vorhanden ist. Der Nutzer kann das mit der Option „Anlagen separat lassen" abwählen.
+
+## Leitentscheidungen Anlagen / Schriftsatz
+
+- BGH, Urt. v. 26.09.2023 — X ZR 109/22, NJW 2023, 3654 — Klage auf Ausgleichszahlung; Anlagen muessen Buchungsbestaetigung, Bordkarte und Nachweis der Verspaetung enthalten; Gericht kann Vorlage verlangen.
+- BGH, Urt. v. 12.11.2019 — X ZR 117/18, NJW 2020, 464 — Klage vor Amtsgericht; Streitwert pro Passagier bis 600 EUR; Anwaltsbeistand nicht notwendig; einfache Form genuegt.
+- EuGH, Urt. v. 17.02.2016 — C-429/14 (Air Baltic), NJW 2016, 961 — Kombination VO 261/2004 und MUe; Ausgleichszahlung nach VO 261/2004 unabdingbar; keine Verrechnung mit Schadensersatz nach MUe.

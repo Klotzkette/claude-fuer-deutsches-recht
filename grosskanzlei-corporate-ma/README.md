@@ -22,6 +22,15 @@ Dies ist das freistehende Großkanzlei-Corporate/M&A-Plugin für den gesamten Tr
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` enthalten.
 
+### Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **Grosskanzlei Corporate M&A Datenraum** | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
+
+
 ## Freistehende Kernmodule
 
 | Modul | Enthaltene Funktion |

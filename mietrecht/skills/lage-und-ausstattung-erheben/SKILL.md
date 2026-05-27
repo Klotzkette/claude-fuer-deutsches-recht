@@ -67,3 +67,20 @@ Diese Erhebung ersetzt keine Rechtsberatung. Sie ist ein Vorbereitungsschritt f�
 ## Ausgabe
 
 Protokoll als Markdown mit den oben genannten Abschnitten plus Quellenangabe (woher stammt jede Information: Mietvertrag, Augenschein, Energieausweis, Straßenverzeichnis). Dieses Protokoll ist Input für alle weiteren Skills.
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 Rn. 28: Ein qualifizierter Mietspiegel ist Sachverstaendigenzeugnis im Sinne von § 558a BGB; das Gericht darf ihn nicht ohne nachvollziehbare Begruendung beiseitelassen.
+- BGH, Urt. v. 21.09.2022 — VIII ZR 188/21, NJW 2022, 3580 Rn. 18: Wohnlage ist nach dem jeweils geltenden Mietspiegel zu bestimmen; fehlerhafte Einordnung durch den Vermieter macht das Mieterhoehungsverlangen formell unwirksam, wenn die Wohnlage unrichtig angegeben ist.
+- BGH, Urt. v. 19.04.2023 — VIII ZR 201/22, NJW 2023, 2059 Rn. 22: Modernes Bad bedeutet im Mietspiegel-Kontext: Wannenbad oder Dusche mit Fliesenboden; fehlende Fliesen koennen zu Wohnwertabzug fuehren.
+
+## Paragrafenkette
+
+- Ortsueblliche Vergleichsmiete: § 558 BGB
+- Begruendungsmittel: § 558a BGB
+- Kappungsgrenze: § 558 Abs. 3 BGB
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — § 558a BGB Rn. 1 ff. Mietspiegel
+- BeckOK Mietrecht — § 558 BGB Mietspiegelrecht

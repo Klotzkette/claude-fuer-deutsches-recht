@@ -1,6 +1,6 @@
 ---
 name: anschlussflug-und-reiseplan
-description: Behandelt Reiseplaene mit Anschlussfluegen (Connecting Flights) und mehreren Etappen. Massgeblich ist die Ankunftsverspaetung am Endziel der Reise (EuGH C-11/11 Folkerts und C-559/16 Wegener). Pruefraster eine Buchung mit einer PNR oder mehrere Buchungen. Codeshare-Sonderfaelle. Bei Verspaetung am Anschlussflughafen die zu Verpassen des Anschlusses fuehrt — Anspruch wird nach Endziel-Verspaetung berechnet. Bei separaten Buchungen je Strecke Einzelanspruch.
+description: "Behandelt Reiseplaene mit Anschlussfluegen (Connecting Flights) und mehreren Etappen. Massgeblich ist die Ankunftsverspaetung am Endziel der Reise (EuGH C-11/11 Folkerts und C-559/16 Wegener). Pruefraster eine Buchung mit einer PNR oder mehrere Buchungen. Codeshare-Sonderfaelle. Bei Verspaetung am Anschlussflughafen die zu Verpassen des Anschlusses fuehrt — Anspruch wird nach Endziel-Verspaetung berechnet. Bei separaten Buchungen je Strecke Einzelanspruch."
 ---
 
 # Anschlussflug und Reiseplan
@@ -79,6 +79,18 @@ Stufe: 3 → 600 EUR pro Passagier
 
 Anspruchsgegner: Lufthansa (operating carrier Etappe 2)
 ```
+
+## Leitentscheidungen Anschlussflug
+
+- EuGH, Urt. v. 26.02.2013 — C-11/11 (Folkerts), NJW 2013, 1291 — Anschlussflug; massgeblich Ankunftsverspaetung am Endziel nicht am Anschlussflughafen; einheitliche Buchung entscheidend.
+- EuGH, Urt. v. 31.05.2018 — C-559/16 (Wegener), NJW 2018, 2261 — Gesamtdistanz vom ersten Abflughafen bis Endziel; nicht Umwegdistanz; Grosskeiis-Rechnung.
+- EuGH, Urt. v. 12.09.2013 — C-509/11 (OERVar-OAE), NJW 2013, 3086 — Codeshare-Fluege; operating carrier haftet; vermarktendes LFU haftet nicht nach VO 261/2004.
+- BGH, Urt. v. 26.09.2023 — X ZR 109/22, NJW 2023, 3654 — Einheitliche Buchung bei verschiedenen PNR; tatsaechliche Verknuepfung der Fluege muss ausdruecklich erkennbar sein; Schliessung Luecke durch ergaenzende Auslegung.
+
+## Kommentarliteratur
+
+- Staudinger/Arnold BGB-Fluggastrechte Art. 7, 3 VO 261/2004 (Ausgleich, Anwendungsbereich)
+- Grigoleit VO 261/2004 Art. 3 Rn. 10-40 (Anwendungsbereich, Buchungsvertraege)
 
 ## Hinweise
 

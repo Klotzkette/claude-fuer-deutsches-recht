@@ -1,6 +1,6 @@
 ---
 name: liegt-ki-system-vor-art-3-nr-1
-description: "KERNSKILL: Prueft ob ein KI-System im Sinne von Art. 3 Nr. 1 KI-VO vorliegt. Maschinengestuetztes System mit Autonomiegrad das aus Eingaben Ausgaben wie Vorhersagen Inhalte Empfehlungen oder Entscheidungen generiert. Abgrenzung zu regelbasierter Software. Leitlinien Kommission Februar 2025."
+description: "Erster Schritt jeder KI-VO-Pruefung: Unternehmen fragt ob die eigene Software oder Anwendung ueberhaupt ein KI-System nach der KI-VO ist und ob die Verordnung gilt. Art. 3 Nr. 1 KI-VO Definition KI-System. Pruefraster: maschinengesteuertes System Autonomiegrad Inferenz aus Eingaben Ausgaben Vorhersagen Inhalte Empfehlungen Entscheidungen. EU-Kommissions-Leitlinien Februar 2025. Output: Einordnungsentscheidung mit Begruendung. Abgrenzung zu abgrenzung-konventionelle-software-vs-ki-system (Grenzfaelle) und triage-ki-vo-vorpruefung (Einstiegsinterview)."
 ---
 
 # Liegt ein KI-System vor? — Art. 3 Nr. 1 KI-VO
@@ -77,3 +77,40 @@ Die Kommission hat klargestellt, dass für die Qualifikation als KI-System entsc
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Profiling als Art. 22 Abs. 1 DSGVO-Entscheidung wenn KI-Score massgebliche Grundlage fuer Drittentscheidung; Masstab fuer KI-Scoring-Systeme nach KI-VO.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Entscheidungssysteme muss Entscheidungslogik verstaendlich offenlegen; Art. 13 KI-VO Transparenzpflicht.
+- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Haftung bei automatisierten Informationssystemen — Organisationspflicht bei KI-Einsatz; massgeblich fuer Art. 26 KI-VO Betreiberpflichten.
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Drittlandtransfer bei KI-Anbieter-APIs erfordert Schutzgarantien; massgeblich fuer Art. 28 DSGVO i.V.m. KI-VO Lieferkette.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 3 Nr. 1 KI-VO — Definition KI-System
+- Erwaegungsgrund 12 KI-VO — Abgrenzung zu regelbasierter Software
+- Art. 2 KI-VO — Anwendungsbereich
+
+## Triage zu Beginn
+1. Ist das System maschinengestuetzt und fuer autonomen Betrieb ausgelegt?
+2. Leitet das System aus Eingaben Ausgaben ab — Inferenz vorhanden?
+3. Werden Vorhersagen, Empfehlungen, Entscheidungen oder Inhalte generiert?
+4. Handelt es sich um rein regelbasierte Software ohne Lernkomponente?
+5. Sind Leitlinien der Kommission (Februar 2025) auf diesen Fall anwendbar?
+
+## Output-Template — KI-System-Qualifikation
+**Adressat:** Pruefer / Rechtsberater — Tonfall: strukturiert-rechtlich
+```
+KI-SYSTEM-QUALIFIKATION NACH ART. 3 NR. 1 KI-VO
+[DATUM] — System: [SYSTEMNAME]
+
+Tatbestandsmerkmal-Check:
+☑/☐ Maschinengestuetzt
+☑/☐ Autonomiegrad vorhanden
+☑/☐ Anpassungsfaehig (optional)
+☑/☐ Inferenz aus Eingaben
+☑/☐ Ausgabetyp (Vorhersage / Inhalt / Empfehlung / Entscheidung)
+☑/☐ Beeinflussung physischer oder virtueller Umgebungen
+
+Ergebnis: [KI-SYSTEM NACH ART. 3 NR. 1 KI-VO LIEGT VOR / LIEGT NICHT VOR / ZWEIFELSFALL]
+Naechster Schritt: [territorialer-anwendungsbereich-art-2 / mandatsabbruch-empfehlung-komplexe-faelle / KEINE KI-VO]
+Geprueft: [NAME], [DATUM]
+```

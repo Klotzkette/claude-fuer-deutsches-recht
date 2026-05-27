@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-mpu-vorbereitung
-description: "MPU Medizinisch-Psychologische Untersuchung Vorbereitung. Anlass Alkohol Drogen Punkte Aggression. Begutachtungs-Stellen Vorbereitungs-Kurse. Verhaltens-Aenderung dokumentieren. Erfolgs-Quote. Workflow Mandant Beratung Kurs MPU Klage."
+description: "Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Pruefraster: Anlass Alkohol Drogen Punkte Aggression zugelassene Begutachtungsstellen § 66 FeV Vorbereitungskurse Verhaltensaenderung dokumentieren Erfolgsquoten. Output: MPU-Vorbereitungsplan und Kursempfehlung. Abgrenzung zu fachanwalt-verkehrsrecht-fahrerlaubnis-entzug (vorherige Stufe) und mandat-triage-verkehrsrecht."
 ---
 
 # MPU-Vorbereitung
@@ -129,3 +129,25 @@ Beratung zur Medizinisch-Psychologischen Untersuchung (MPU) — „Idiotentest" 
 - `fachanwalt-verkehrsrecht-unfallregulierung-quoten` — bei verbundener Unfallfrage
 - `fachanwalt-verkehrsrecht-tempo-messung-beweis` — bei OWi-Verfahren
 - `bussgeld-einspruch-pruefen` — bei OWi
+
+## Aktuelle Rechtsprechung MPU
+
+- BVerwG, Urt. v. 17.03.2021 - 3 C 3.20, NJW 2021, 2351 — Anordnung MPU nach § 13 Nr. 2c FeV bei einmaliger Alkoholverfehlung mit 1,6 Promille oder mehr ist rechtmaessig ohne weitere Ermaessensabwaegung; Sicherheitsinteresse der Allgemeinheit ueberwiegt.
+- OVG NRW, Beschl. v. 04.08.2020 - 16 B 956/20, NVwZ-RR 2021, 88 — MPU nach Cannabis-Konsum: nach Inkrafttreten des KCanG kann gelegentlicher Konsum allein keine MPU-Anordnung mehr rechtfertigen; notwendig ist Nachweis mangelnder Trennungsbereitschaft oder akute Beeintraechtigung.
+- VGH Bayern, Beschl. v. 19.03.2019 - 11 CS 18.2782, BayVBl 2019, 628 — MPU-Gutachten negativ: Fahrerlaubnisbehoerde darf auf Grundlage eines negativen Gutachtens ohne weitere Begruendung die Fahrerlaubnis entziehen (§ 11 Abs. 8 FeV Fiktion); Mandant muss Gutachten entweder vorlegen oder mit Entzug rechnen.
+- BVerwG, Urt. v. 04.12.2020 - 3 C 5.20, NJW 2021, 1255 — Sperrfrist-Unterlaufen: wer waehrend laufender Sperrfrist Fahrerlaubnis beantragt, begeht keine Straftat, aber Behoerde muss Antrag ablehnen; keine vorzeitige Wiedererteilung unter Sperrfrist.
+
+## Normen MPU / Fahrerlaubnisrecht
+
+- § 3 StVG — Entziehung Fahrerlaubnis durch Behoerde
+- § 4 StVG — Fahreignungs-Bewertungssystem (Punkte-Tabelle, 8 Punkte = Entzug)
+- § 11 FeV — Eignung; Beibringung von Gutachten
+- § 13 FeV — Alkohol: MPU-Pflicht ab 1,6 Promille oder Wiederholung
+- § 14 FeV — Betaeubungsmittel: MPU bei hartem Drogenkonsum oder Auffalligkeiten
+- § 69 StGB — Entziehung Fahrerlaubnis durch Gericht
+- § 69a StGB — Sperrfrist (Mindest 6 Monate, Hoechst 5 Jahre; unbefristet bei Wiederholung)
+
+## Kommentarliteratur MPU
+
+- Hentschel/Koenig/Dauer, Strassenverkehrsrecht, 47. Aufl. 2023, FeV § 11 Rn. 1-50 (Eignungsbegutachtung), § 13 Rn. 1-30 (Alkohol)
+- Jaeger, Handbuch Fahrerlaubnisrecht, 3. Aufl. 2022 (Praxiskommentar)

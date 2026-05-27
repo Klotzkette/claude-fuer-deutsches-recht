@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-betreuungsgericht
-description: "Erstellt aus einer Sammlung von Ereignissen, E-Mails, Aktenvermerken, Arztbriefen, Heimrechnungen und Vermerken über persönliche Kontakte einen strukturierten Jahresbericht des rechtlichen Betreuers an das Betreuungsgericht nach § 1863 BGB. Lädt, wenn Schlagwörter wie „Jahresbericht\", „Betreuungsbericht\", „§ 1863 BGB\", „Betreuungsgericht\", „Berufsbetreuer\" oder „Lebenssituation\" auftreten."
+description: "Jahresbericht fuer Betreuungsgericht nach § 1840 BGB erstellen: Anwendungsfall Betreuer muss jaehrlichen Rechenschaftsbericht ueber persoenliche und wirtschaftliche Verhaeltnisse der betreuten Person beim Betreuungsgericht einreichen. § 1840 BGB Berichtspflicht, § 1841 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung. Pruefraster persoenliche Lage Gesundheit Wohnsituation, wirtschaftliche Verhaeltnisse Einnahmen Ausgaben Vermoegen, Betreueraktivitaeten, Genehmigungs-Status. Output vollstaendiger Jahresbericht mit Anlagen fuer Betreuungsgericht. Abgrenzung zu Vermögensverzeichnis-Pruefung fuer Ersterfassung und zu Genehmigungspflicht-Pruefung."
 ---
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)
@@ -250,7 +250,7 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 - Arztbriefe: Kardiologie Vivantes Spandau v. 12.09.2025 (Vorhofflimmern,
   Antikoagulation eingeleitet); Allgemeinmedizin Petersen v. 02.03.2026
 - Heimrechnung: Pflegegrad 4, Eigenanteil 2.341 EUR/Monat, Sozialhilfe ergänzt
-- Kontoauszüge: Anfangsbestand 18.342,12 EUR, Endbestand 16.108,77 EUR
+- Kontoauszüge: Anfangsbestand 18342.12 EUR, Endbestand 16108.77 EUR
 - Wunschäußerung Frau K. (Vermerk v. 24.11.2025): „Möchte am Heiligabend
   bei Tochter Susanne in Potsdam sein" — umgesetzt durch Abholfahrt am
   24.12.2025

@@ -1,11 +1,34 @@
 ---
 name: mandatsverhaeltnis-hinweis
-description: "Formuliert den expliziten Hinweis dass noch kein Mandatsverhaeltnis besteht: Die Beantwortung der Anfrage stellt keine Rechtsberatung dar und begruendet keine Pflichten der Kanzlei. Kurz- und Langform fuer Antwortmail und Fusszeile. Laedt wenn der Nutzer 'Mandatsverhaeltnis Hinweis', 'kein Mandat', 'Disclaimer Erstanfrage', 'keine Rechtsberatung Hinweis' oder 'Haftungsausschluss Erstanfrage' sagt."
+description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Pruefraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begruendung. Kurz- und Langform fuer Antwortmail und Fusszeile. Output: Disclaimer-Texte fuer E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator."
 ---
 
 # Mandatsverhältnis-Hinweis
 
 Dieser Skill formuliert den rechtlich erforderlichen Hinweis, dass mit der Beantwortung einer Erstanfrage noch kein Mandatsverhältnis begründet wird und die Antwort keine Rechtsberatung darstellt.
+
+
+## Triage zu Beginn
+1. Enthaelt die Erstantwort inhaltliche rechtliche Hinweise, die als konkludente Rechtsberatung ausgelegt werden koennten?
+2. Soll die Kurz- oder die Langform des Disclaimers verwendet werden?
+3. Ist der Mandant Verbraucher (§ 13 BGB) — dann auch Widerrufsrecht und Fernkommunikationspflichten beachten?
+4. Muss zusaetzlich auf die Kostenpflicht hingewiesen werden (§ 49b Abs. 5 BRAO)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Konkludente Mandatsbegrundung durch inhaltliche Erstauskunft moeglich; Disclaimer schutzt Kanzlei vor unkontrollierter Mandat-Entstehung.
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Beratungsvertrag kommt durch Einigung ueber Gegenstand und Verguetung zustande (§§ 611, 675 BGB); eindeutiger Hinweis auf fehlendes Mandat verhindert konkludente Einigung.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Honoraranspruch entsteht erst mit Mandatsertueilung; vor Mandatsannahme kein Verguetungsanspruch nach RVG.
+- OLG Hamm, Urt. v. 23.03.2021 - 28 U 115/20, NJW-RR 2021, 895 — Erstantwort ohne Mandat-Disclaimer kann bei spaeterem Streit als Zugestaendnis einer Beratungspflicht gewertet werden; klarer Hinweis ist Haftungsschutz.
+
+## Zentrale Normen
+- §§ 611, 675 BGB — Anwaltsvertrag: kommt durch Angebot und Annahme zustande; konkludente Entstehung moeglich
+- § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: Hinweis auf voraussichtliche Kosten vor Mandatsannahme
+- § 13 BGB — Verbraucher: erhoehtere Informationspflichten und Widerrufsrecht (§§ 355 ff. BGB) bei Fernkommunikation
+- § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch gegenueber potenziellem Mandanten, der noch kein Mandat erteilt hat
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 49b Rn. 80-100 (Kostenbelehrung: Zeitpunkt und Inhalt)
+- MüKoBGB/Schaefer §§ 611, 675 Rn. 1-30 (Anwaltsvertrag: Entstehung und Disclaimer)
 
 ## Rechtlicher Hintergrund
 

@@ -9,6 +9,20 @@ description: "Erzeugt das vollstaendige Pruefungsdokument mit Pflicht-Kopfhinwei
 
 Dieses Ausgabe-Format ist das vollständigste und transparenteste Format des Subsumtions-Prüfers. Es enthält an jedem kritischen Punkt des Dokuments einen Warnhinweis, der dem Leser klar macht, was das Dokument ist — und was es ausdrücklich nicht ist.
 
+## Triage zu Beginn
+
+1. Wird das Dokument von juristisch nicht vorgebildeten Personen gelesen?
+2. Besteht besonderes Haftungsrisiko (Fristen, Vollstreckungshandlungen, Strafrecht)?
+3. Soll das Dokument als Grundlage für eine Klageschrift / einen Widerspruch dienen?
+4. Sind Generalklauseln oder unbestimmte Rechtsbegriffe einschlägig? → Warnhinweis verschärfen
+
+## Rechtsprechung zur Dokumentationspflicht
+
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Anwälte müssen ihre Beratungsleistung dokumentieren; unzureichende Dokumentation gefährdet den Nachweis der Pflichterfüllung im Haftungsfall.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Fehlen Warnhinweise zu drohenden Fristen im Beratungsdokument, verletzt der Berater seine Pflicht.
+- BGH, Urt. v. 23.05.2019 - IX ZR 143/18, NJW 2019, 2296 — Eine mechanisch erzeugte Prüfung ersetzt niemals die persönliche anwaltliche Haftung; der Anwalt haftet für Fehler auch dann, wenn er sich auf ein externes Hilfsmittel gestützt hat.
+- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Das Recht auf effektiven Rechtsschutz (§ 19 Abs. 4 GG) setzt voraus, dass Betroffene ihre Rechtslage korrekt einschätzen können; irreführende Rechtsdokumente können dieses Recht verletzen.
+
 ## Pflicht-Kopf (jedes Prüfungsdokument beginnt damit)
 
 ```

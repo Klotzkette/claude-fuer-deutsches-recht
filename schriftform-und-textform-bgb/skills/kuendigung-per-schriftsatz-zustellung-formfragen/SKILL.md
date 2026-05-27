@@ -1,6 +1,6 @@
 ---
 name: kuendigung-per-schriftsatz-zustellung-formfragen
-description: "Kündigung per Anwaltsschriftsatz und Zustellung: Beglaubigung durch Rechtsanwalt § 169 Abs. 2 ZPO, Schriftform-Erstreckung, Abgrenzung Geschäftsstellen-Beglaubigung, elektronisches Dokument § 130e ZPO, Formfragen vor und nach ERVV-Reform — Praxiswissen Kanzlei."
+description: "Anwalt versendet oder empfaengt eine Kuendigung per Schriftsatz und fragt nach Formwirksamkeit. Schriftform Kuendigung Zustellung beA. Pruefraster: Beglaubigung § 169 Abs. 2 ZPO Schriftform-Erstreckung Abgrenzung Geschaeftsstellen-Beglaubigung elektronisches Dokument § 130e ZPO ERVV. Output: Formwirksamkeits-Pruefung Kuendigung und Empfehlung Zustellungsweg. Abgrenzung zu wohnraummiete-kuendigung-paragraph-568-bgb (Wohnraum-Kuendigung) und zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb."
 ---
 
 # Kündigung per Schriftsatz — Zustellung und Formfragen

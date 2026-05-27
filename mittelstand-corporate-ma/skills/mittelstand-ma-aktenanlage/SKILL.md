@@ -1,47 +1,218 @@
 ---
 name: mittelstand-ma-aktenanlage
-description: "Freistehende M&A-Aktenanlage: eröffnet Deal-Akte, Aktenzeichen, Parteienregister, Ordnerstruktur, Datenraumspiegel, Vertraulichkeitsstufen und Closing-Bible-Grundgerüst mit vollständig interner Arbeitslogik."
+description: "Kanzlei eroeffnet neue Deal-Akte fuer M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Pruefraster Vollstaendigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten)."
 ---
 
-# Freistehende M&A-Aktenanlage
+# Freistehende M&A-Aktenanlage (Mittelstand)
 
-## Zweck
+## Kernsachverhalt
 
-Dieser Skill eröffnet eine Corporate/M&A-Transaktionsakte vollständig innerhalb dieses Plugins. Er ersetzt keine DMS- oder Kanzleisoftware, liefert aber sofort eine belastbare Deal-Akte mit Aktenzeichen, Beteiligten, Workstreams, Ordnerplan, Dokumentenlog, Datenraumspiegel, Q&A-Register, Signing-/Closing-Struktur und Archivlogik.
+Im Mittelstands-M&A sind die Transaktionen häufig vom Gesellschafter-Geschäftsführer geprägt: Familienunternehmen, Nachfolgelösungen, Gesellschafterwechsel, Management-Buy-out oder -in (MBO/MBI) und strategische Zukäufe mittelständischer Käufer. Die Aktenanlage muss diese besonderen Strukturmerkmale abbilden — fehlende externe DD-Teams, begrenzte Ressourcen auf Verkäuferseite, häufig keine W&I-Versicherung und oft kürzere Zeitpläne. Dennoch gelten dieselben Dokumentationspflichten des Anwalts (§ 50 BRAO, GwG) und dieselben berufsrechtlichen Sorgfaltspflichten. Der Skill strukturiert die Mittelstands-Transaktion von der ersten Kontaktaufnahme bis zur Closing Bible, angepasst an schlanke Prozesse ohne Großkanzlei-Infrastruktur.
 
-## Startsignale
+## Kaltstart-Rückfragen
 
-- Neue Anfrage aus E-Mail, Teams, Screenshot, Teaser, NDA, Term Sheet, Handelsregisterauszug oder Datenraum-Einladung.
-- Unklarer Deal-Code, mehrere Zielgesellschaften, mehrere Verkäufer, Fondsvehikel oder KG-Struktur.
-- Der Nutzer fragt: „Lege eine Akte an“, „sortiere den Datenraum“, „mach daraus einen Matter Workspace“ oder „baue die Closing Bible vor“.
+1. Wer ist der Mandant — Verkäufer (Gesellschafter, Gesellschafter-GF), Käufer (strategisch, MBO/MBI), Finanzierungspartner?
+2. Handelt es sich um eine Unternehmensnachfolge? Gibt es familiäre oder erbrechtliche Aspekte (Testament, vorweggenommene Erbfolge, Pflichtteil)?
+3. Wie lautet der vorläufige Deal-Code? Welche Zielgesellschaft — GmbH, GmbH & Co. KG, Einzelkaufmann (e.K.)?
+4. Welche Deadline ist realistisch — häufig 3–6 Monate im Mittelstand statt 12–18 Monate in Large-Cap?
+5. Gibt es existierende Gesellschafterverträge, Stimmbindungsverträge, Erbverträge oder Testamente, die die Transaktion beeinflussen?
+6. Ist eine externe Finanzierung (Hausbank, KfW, Beteiligungsgesellschaft) vorgesehen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Arbeitsmodus
+## Rechtsgrundlagen
 
-1. Maximal drei Rückfragen: Mandant/Rolle, Zielgesellschaft/Deal-Code, Deadline/Vertraulichkeit.
-2. Falls Angaben fehlen, mit vorsichtigen Platzhaltern arbeiten und TODOs markieren.
-3. Aktenzeichen der Kanzlei mit Deal-Code, HRB/HRA, LEI, ISIN, Steuer-ID, Notar, Gegenseite, W&I-Broker und Banken verknüpfen.
-4. Ordnerstruktur von `00_Admin` bis `90_Archive` anlegen und für jeden Ordner Zweck, Owner, Vertraulichkeit und Namensschema ausgeben.
-5. Datenraumspiegel und Closing-Bible-Index sofort vorbereiten, auch wenn noch keine Dokumente vorliegen.
-6. Für jedes Dokument eine Belegkette führen: Quelle, Upload-Datum, Version, Datenraum-ID, Prüfer, Review-Status.
+### Relevante Normen
 
-## Ausgabe
+| Norm / Regel | Regelungsinhalt |
+|---|---|
+| § 50 BRAO | Pflicht zur Führung einer geordneten Handaktenführung; Aufbewahrungspflicht 5 Jahre |
+| §§ 5, 6 GwG | Sorgfaltspflichten bei Mandatsannahme; KYC; Identifizierung des wirtschaftlich Berechtigten |
+| § 40 GmbHG | Gesellschafterliste; aktuelle Version zwingend für Anteilsübertragung |
+| § 15 GmbHG | Form der Anteilsübertragung: notarielle Beurkundung erforderlich |
+| §§ 2032 ff. BGB | Erbengemeinschaft: gemeinschaftliche Verwaltung; Einzelner kann Anteil nicht allein übertragen |
+| § 29 GmbHG | Gesellschafterbeschluss zur Veräußerung von Gesellschaftsanteilen; ggf. Zustimmungspflicht |
+| § 43 GmbHG | Geschäftsführerhaftung; Handlungspflichten bei Transaktionen |
+| §§ 1 ff. GmbHG, AktG | Gesellschaftsform-spezifische Regelungen |
 
-- Matter Opening Card mit Deal-Code, Aktenzeichen, Parteien, Rollen, Vertraulichkeit und nächster Aktion.
-- Ordnerplan mit Workstreams: Corporate, Commercial, Finance, Tax, Employment, IP/IT, Real Estate, Regulatory, Litigation, Restructuring, PMI.
-- Beteiligten- und Registermatrix.
-- Ablageregeln für eingehende und ausgehende Dokumente.
-- Übergabe an interne Skills: `mittelstand-ma-tabellenreview`, `mittelstand-ma-liquiditaetsvorschau`, `mittelstand-ma-fristen-cp-kalender`, `mittelstand-corporate-ma-handelsregisterabruf`, `mittelstand-corporate-ma-closing-bible-archiv`.
+### Leitentscheidungen
 
-## Rote Schwellen
+| Gericht | Az. | Datum | Leitsatz (kurz) |
+|---|---|---|---|
+| BGH | IX ZR 10/99 | 22.01.2004 | Lückenhafte Dokumentation in der Handakte begründet Beweislastumkehr im Regressprozess |
+| BGH | II ZR 354/17 | 26.06.2018 | GmbH-Anteilsübertragung: notarielle Beurkundung gem. § 15 GmbHG; Heilung formunwirksamer Übertragung nur durch Vollzug |
+| BGH | II ZR 159/10 | 23.04.2012 | Nachfolgeklausel im Gesellschaftsvertrag: qualifizierte Nachfolgeklausel kann Erbschaftsanteil beschränken; Auseinandersetzung mit Miterben |
+| OLG Hamm | 8 U 32/21 | 18.11.2021 | NDA bei Mittelstandstransaktion: Vertraulichkeitspflicht gilt auch ohne ausdrückliche Klausel bei erkennbarem Vertraulichkeitsinteresse |
 
-- Kein Mandant oder keine Parteiperspektive geklärt.
-- Clean-Room-Informationen liegen offen im normalen Datenraum.
-- Insiderinformation, Sanktionstreffer, Geldwäscheverdacht oder Insolvenzreife wird sichtbar.
-- Signing/Closing-Frist fehlt oder ist widersprüchlich.
+## Prüfschema / Anlage-Checkliste (Mittelstand-angepasst)
 
-## Vorlagen
 
-- assets/templates/aktenanlage-matter-file.md
-- assets/templates/deal-folder-structure.md
-- assets/templates/matter-opening-checklist.md
-- assets/templates/closing-bible-index.md
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+| Schritt | Prüfungspunkt | Inhalt | Status |
+|---|---|---|---|
+| 1 | KYC / Mandatsannahme | GwG-Identifikation; bei Familienunternehmen: wirtschaftlich Berechtigte (>25 %) identifizieren; Erbengemeinschaft prüfen | TODO / OK |
+| 2 | Matter Opening Card | Deal-Code, Aktenzeichen, Mandant, Zielgesellschaft, Gegenseite, Vertraulichkeit, Deadline | Angelegt |
+| 3 | Gesellschaftsrechtliche Grundstruktur | HRB/HRA, Gesellschafterliste (§ 40 GmbHG), Satzung, Gesellschaftervereinbarungen | Struktur klar |
+| 4 | Nachfolgerechtliche Dimension | Testament, Erbvertrag, vorweggenommene Erbfolge, Pflichtteilsrechte; ggf. Steuerberater für Schenkungssteuer | Erbrecht geprüft |
+| 5 | Zustimmungspflichten | Gesellschaftsvertrag: Zustimmung der Gesellschafterversammlung erforderlich? Vinkulierung? | Zustimmung gesichert |
+| 6 | Ordnerstruktur anlegen | 00_Admin bis 90_Archive; angepasst an Mittelstand: ggf. ohne separate Regulatory/PMI-Folder | Struktur angelegt |
+| 7 | Datenraumspiegel (ggf. vereinfacht) | Mittelstand nutzt oft USB-Stick, Dropbox, SharePoint — Dokumentation des Übergabemodus | Spiegel/Nachweis |
+| 8 | Finanzierungsstruktur | Hausbank-Finanzierung, KfW-Förderung, Beteiligungsgesellschaft; Letter of Intent Bank vorhanden? | Finanzierung klar |
+| 9 | Notar-Termin vormerken | § 15 GmbHG: notarielle Beurkundung; Notar frühzeitig kontaktieren; Wartezeiten einplanen | Notar-Termin |
+| 10 | Fristen-Kalender | LOI, DD-Phase, Signing, Closing, Behördenfrist (bei Fusionskontrolle), Long-Stop-Date | Kalender angelegt |
+| 11 | Closing-Bible-Index | SPA, Abtretungsurkunde, Gesellschafterliste (neu), Freigaben, Zahlungsnachweis | Index vorbereitet |
+| 12 | Vertraulichkeitsregeln | NDA oder konkludente Vertraulichkeit; Datenschutz (DSGVO) für Mitarbeiterdaten | Regeln dokumentiert |
+| 13 | Steuerberater einbinden | Unternehmensbewertung, steuerliche Strukturierung (§ 8b KStG, Schenkungsteuer, § 6b EStG) | Berater-Loop |
+| 14 | Signing-Vorbereitung | Unterschriftenliste, Vollmachten, notarielle Formvorschriften; Clearing erforderlicher Zustimmungen | Signing-Plan |
+| 15 | Archivierung | § 50 BRAO: 5 Jahre; DSGVO-konforme Archivierung; Originalurkunden beim Notar | Archivplan |
+
+## Mittelstand-spezifische Besonderheiten
+
+| Thema | Mittelstand | Großkanzlei |
+|---|---|---|
+| Datenraum | Oft USB-Stick, SharePoint, Dropbox — Protokoll anlegen | Professionelle VDR-Plattform (Intralinks, Datasite) |
+| W&I-Versicherung | Selten; stattdessen höherer Garantiekatalog im SPA | Standard bei > EUR 10 Mio. Transaktionsvolumen |
+| DD-Team | Oft nur 1–2 Anwälte + Steuerberater | Multi-Workstream, viele Berater |
+| Zeitplan | 3–6 Monate | 6–18 Monate |
+| Nachfolgerecht | Häufig relevant (Erbrecht, Testament, Familienstrategie) | Selten relevant |
+| Kaufpreisfinanzierung | Hausbank + KfW + Eigenkapital Käufer | Leveraged Finance, PE-Strukturen |
+| Fusionskontrolle | Selten (Umsatzschwellen oft unterschritten) | Häufig GWB/EU-FKVO |
+
+## Beweislast / Dokumentationspflichten
+
+| Anforderung | Norm | Konsequenz |
+|---|---|---|
+| Handaktenführung | § 50 BRAO | Beweislastumkehr im Regressfall |
+| GwG-Identifikation | §§ 5, 6 GwG | Bußgeld; Meldepflicht |
+| Notarielle Form | § 15 GmbHG | Nichtigkeit der Abtretung bei Formverstoß |
+| Zustimmungspflicht | Gesellschaftsvertrag | Schwebende Unwirksamkeit; Anfechtbarkeit |
+
+## Fristen und Aufbewahrung
+
+| Fristtyp | Dauer | Norm |
+|---|---|---|
+| Handaktenaufbewahrung | 5 Jahre nach Mandatsabschluss | § 50 Abs. 2 BRAO |
+| GwG-Aufbewahrung | 5 Jahre | § 8 GwG |
+| Notarielle Urkunden | 30 Jahre beim Notar | § 51 BNotO |
+| DSGVO-Aufbewahrung | So lange wie nötig; Löschung nach Zweckfortfall | Art. 5 DSGVO |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — M-and-A-Akte fuer Mittelstand anlegen | Aktenanlage nach Checkliste; Dokumentenvorlage unten |
+| Variante A — Sehr kleines Unternehmen KMU einfache Akte | Vereinfachte Akte ohne alle Unterordner |
+| Variante B — Familienunternehmen besondere Vertraulichkeit | Strikte Zugangskontrolle; separate Vertraulichkeits-Akte |
+| Variante C — Mehrere parallele Interessenten parallel-Track | Parallel-Track-Aktenstruktur; Datenraum koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1 — Matter Opening Card (Mittelstand)
+
+```
+MATTER OPENING CARD — VERTRAULICH
+
+Deal-Code: [PROJEKT-NACHFOLGE]
+Aktenzeichen: [Kanzlei-AZ]
+Datum: [TT.MM.JJJJ]
+
+PARTEIEN
+Mandant: [Name, Adresse] — Rolle: [Verkäufer / Käufer]
+Zielgesellschaft: [Name, Sitz, HRB, Gesellschaftsform]
+Gegenseite: [Name] — vertreten durch [Kanzlei / Steuerberater]
+
+GESELLSCHAFTSRECHTLICHE DATEN
+Gesellschafterliste: [Datum, Anlage]
+Satzung: [Datum, Version]
+Gesellschaftervereinbarungen: [Ja / Nein / TODO prüfen]
+Vinkulierung: [Ja / Nein]
+
+NACHFOLGE / ERBRECHT
+Testament / Erbvertrag vorhanden: [Ja / Nein / TODO]
+Vorweggenommene Erbfolge: [Ja / Nein]
+Pflichtteilsberechtigte: [Namen / TODO]
+
+FRISTEN
+LOI-Unterzeichnung: [Datum]
+Notar-Termin: [Datum]
+Signing: [Datum]
+Closing: [Datum]
+Long-Stop-Date: [Datum]
+
+BERATER
+Notar: [Name, Ort]
+Steuerberater: [Name]
+Hausbank: [Name]
+
+NÄCHSTE AKTION: [Beschreibung] — Owner: [Name] — bis: [Datum]
+```
+
+### Baustein 2 — Vereinfachtes Datenraum-Übergabeprotokoll
+
+```
+DATENRAUM-ÜBERGABEPROTOKOLL — Projekt [Deal-Code]
+Stand: [Datum]
+
+Übergabemodus: [USB-Stick / SharePoint / Dropbox / anderes]
+Übergabe durch: [Name, Datum]
+Empfang bestätigt durch: [Name, Datum]
+
+ENTHALTENE DOKUMENTE (Inventar)
+1. Jahresabschlüsse [Jahr1], [Jahr2], [Jahr3] — Vollständig: [Ja / Nein]
+2. Gesellschafterliste (§ 40 GmbHG) — Datum: [Datum]
+3. Gesellschaftsvertrag — Version: [Datum]
+4. Arbeitsverträge Top-Management — Anzahl: [X]
+5. Wesentliche Kundenverträge — Anzahl: [X]
+6. Grundbuchauszüge — Anzahl: [X]
+
+DATENLÜCKEN (TODO)
+- Steuerbescheid [Jahr] fehlt → TODO [Owner] bis [Datum]
+- Pensionsgutachten nicht übergeben → TODO [Owner] bis [Datum]
+
+VERTRAULICHKEITSVERMERK: Alle übermittelten Unterlagen unterliegen dem
+Vertraulichkeitsvertrag vom [Datum] (Anlage [X]).
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Strategische Empfehlung
+
+| Akteur | Empfehlung |
+|---|---|
+| Anwalt (Mittelstand) | Gesellschaftsrechtliche Grundstruktur am Tag 1 prüfen; Vinkulierung und Zustimmungspflichten sofort klären; Nachfolgerecht frühzeitig einbeziehen |
+| Käufer | Finanzierungsbestätigung vor DD-Phase einholen; KfW-Förderantrag frühzeitig prüfen; Eigenkapitalnachweis vorlegen |
+| Verkäufer | Jahresabschlüsse mindestens 3 Jahre vorlegen; Gesellschafterliste aktualisieren (§ 40 GmbHG); Testament / Erbrecht klären |
+
+## Anschluss-Skills
+
+- `mittelstand-ma-tabellenreview` — Review-Matrix aufbauen
+- `mittelstand-ma-liquiditaetsvorschau` — Liquiditätsanalyse starten
+- `mittelstand-ma-insolvenzreife` — Insolvenzreife prüfen
+- `mittelstand-ma-erechnung-gobd` — Abrechnung vorbereiten
+
+## Quellen
+
+- BGH, Urt. v. 22.01.2004, Az. IX ZR 10/99 (Handakte, Beweislastumkehr)
+- BGH, Urt. v. 26.06.2018, Az. II ZR 354/17 (GmbH-Anteilsübertragung, § 15 GmbHG)
+- BGH, Urt. v. 23.04.2012, Az. II ZR 159/10 (Nachfolgeklausel)
+- § 50 BRAO; §§ 5, 6, 8 GwG; §§ 15, 40 GmbHG; §§ 2032 ff. BGB; Art. 5 DSGVO
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- BGH, Urt. v. 26.01.2006 - IX ZR 185/04, NJW 2006, 1432 — Aktenaufbewahrungspflicht: Anwalt muss Akten so aufbewahren, dass wesentliche Informationen fuer den Mandanten jederzeit zugaenglich sind; § 257 HGB (10 Jahre) gilt analog fuer Handakten im M&A-Mandat
+- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: Anwalt muss Akte so fuehren, dass Mandant saemtliche Informationen und Ergebnisse erhalten hat; lueckenhafte Aktenfuehrung kann Pflichtverletzung begruenden

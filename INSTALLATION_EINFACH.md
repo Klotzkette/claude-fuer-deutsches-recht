@@ -31,7 +31,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| `kanzlei-cowork.zip`                      | Fristenbuch, Timesheet, Rechnung, Mandantenakte, Korrespondenz                                                             |
+| `kanzlei-allgemein.zip`                      | Fristenbuch, Timesheet, Rechnung, Mandantenakte, Korrespondenz                                                             |
 | `kanzlei-allgemein.zip`                 | Kanzlei-Allgemein-Plugin: edles Kommandocenter, GwG, Klage/Replik, Vertrag, Rechtsprechung, beA, Rechnung, UStVA             |
 | `grosskanzlei-corporate-ma.zip`           | Freistehend: Big-Law-Corporate/M&A mit Aktenanlage, Datenraum, DD, internem Tabellenreview, Liquiditätsvorschau, Insolvenzreife, CP-Kalender, E-Rechnung/GoBD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, PMI |
 | `kanzlei-builder-hub.zip`                 | Werkzeuge zum Bauen eigener kanzleiinterner Skills, Security-Review                                                        |
@@ -102,7 +102,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `jveg-kostenpruefer.zip` | JVEG-Kostenprüfung: Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Fristen, Festsetzung und Beschwerde |
 | `jurastudium.zip`                         | Karteikarten, Gutachten-Coaching, Examensvorbereitung                                                                      |
 
-### Fachanwalt-Light-Touch (22 Stück)
+### Fachanwalt-Plugin fuer Fachanwaltschaft (22 Stück)
 
 Kein Vollassistent, sondern Orientierung in Normen, Notfristen, typischen Mandanten und Schriftsatzbausteinen.
 

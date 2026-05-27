@@ -1,11 +1,34 @@
 ---
 name: email-eingangsanalyse
-description: "Liest den Eingangstext einer E-Mail und identifiziert emotionale Trigger wie Schimpfwoerter, Grossbuchstaben, Ausrufezeichen-Ketten, persoenliche Angriffe, Sarkasmus und Drohgesten. Bewertet den Konfliktgrad als gering, mittel oder hoch."
+description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Pruefraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht fuer die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz)."
 ---
 
 # E-Mail-Eingangsanalyse
 
 Dieser Skill analysiert einen eingegangenen E-Mail-Text systematisch auf emotionale Belastung, unsachliche Formulierungen und potenzielle berufsrechtliche Risiken. Er bildet die Grundlage für alle nachfolgenden Umformulierungsschritte.
+
+
+## Triage zu Beginn
+1. Von wem stammt die E-Mail: Mandant, Gegner, gegnerischer Anwalt, Gericht, Behoerde oder Unbekannter?
+2. Was ist der sachliche Kern der E-Mail — unabhaengig vom Tonfall?
+3. Enthalt die E-Mail strafrechtlich relevante Aeusserungen (Beleidigung § 185 StGB, Bedrohung § 241 StGB)?
+4. Soll die E-Mail beantwortet, weitergeleitet oder dokumentiert werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — Ehrverletzende Aeusserungen in E-Mails loesen Unterlassungs- und Schadensersatzansprueche aus § 823 Abs. 1 BGB aus.
+- BAG, Urt. v. 27.09.2012 - 2 AZR 646/11, NZA 2013, 334 — Beleidigende Inhalte in elektronischer Korrespondenz koennen ausserordentliche Kuendigung rechtfertigen.
+- OLG Koeln, Urt. v. 06.12.2016 - 15 U 57/16 — Sarkasmus und Ironie in schriftlicher Kommunikation koennen als herabsetzende Aeusserung i.S.v. § 43a Abs. 3 BRAO gewertet werden.
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Geschaeftliche Korrespondenz mit kreditschaedigenden Aeusserungen erfullt Tatbestand des § 824 BGB.
+
+## Zentrale Normen
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: verhindert Uebernahme aggressiven Tons aus Eingangskorrespondenz
+- § 185 StGB — Beleidigung: ggf. bei strafrechtlich relevantem Inhalt Eingangs-E-Mail dokumentieren
+- § 241 StGB — Bedrohung: bei Drohungen Dokumentationspflicht und ggf. Strafanzeige erwaegen
+- § 823 Abs. 1 BGB — Persoenlichkeitsrecht: Gegenschreiben darf keine neuen Verletzungen setzen
+
+## Kommentarliteratur
+- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 1-40 (Sachlichkeitsgebot: Analyse unsachlicher Eingaben)
+- Fischer, StGB § 185 Rn. 1-30 (Beleidigung in schriftlicher Kommunikation)
 
 ## Analyseebenen
 

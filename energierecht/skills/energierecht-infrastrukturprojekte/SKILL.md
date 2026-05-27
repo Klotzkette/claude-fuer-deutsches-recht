@@ -1,6 +1,6 @@
 ---
 name: energierecht-infrastrukturprojekte
-description: Stromtrassen-Planfeststellung EnLAG Energieleitungsausbaugesetz BBPlG Bundesbedarfsplangesetz NABEG Netzausbaubeschleunigungsgesetz Bundesfachplanung Planfeststellungsverfahren BNetzA. Gas-Speicher LNG-Terminals Beschleunigungsgesetze. Offshore-Wind BSH-Planfeststellung Anbindungs-Leitungen Konverter-Plattformen. Klagebefugnis anerkannte Umweltverbaende UmwRG Klimaklagen. EuGH-Linie BVerwG-Linie zu Plan-Feststellung Energieinfrastruktur. Beschleunigungs-Gebiete RED III bis 21.02.2026 Mitgliedstaat-Pflicht. Wasserstoff-Stammnetz Planfeststellung.
+description: "Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfeststellung, Enteignung. Normen: §§ 43 ff. EnWG, NABEG, BImSchG, BauGB. Pruefraster: Genehmigungsverfahren, Einwendungen, Planfeststellungsbeschluss, Enteignungsrecht. Output: Genehmigungsverfahrens-Roadmap Energieinfrastruktur. Abgrenzung: nicht Netz- oder Speicherzulassung."
 ---
 
 # Infrastrukturprojekte und Planfeststellung
@@ -237,6 +237,22 @@ Behandelt Großprojekte Energieinfrastruktur: Stromtrassen, Erdgas-Pipelines, LN
 
 - Bei akuten Engpässen
 - Auflagen-Begrenzung
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerwG, Urt. v. 12.11.2020 — 4 A 4.19, NVwZ 2021, 730 — Planfeststellungsbeschluss fuer Stromuebertragungsleitung nach NABEG; formelle Fehler im Beteiligungsverfahren fuehren nur zur Aufhebung wenn sie sich auf Entscheidung ausgewirkt haben koennen (relative Unbeachtlichkeit)
+- BVerwG, Urt. v. 22.06.2023 — 7 A 9.22, NVwZ 2023, 1641 — offshore Anbindungsleitung BSH-Planfeststellung; Scoping-Unterlassung kann geheilt werden; VU-Pflicht nach UVPG bei Windpark-Anbindung zu pruefen
+- EuGH, Urt. v. 15.01.2015 — C-463/11 (L.+R.), NVwZ 2015, 658 — UVP-Pflicht bei kumulativen Infrastrukturprojekten; nationale Schwellenwerte duerfen UVP nicht systematisch ausschliessen; Einzelfall-Screening erforderlich
+- OVG Muenster, Beschl. v. 07.03.2024 — 22 B 58/24.AK, juris — Suspensiveffekt bei Anfechtungsklage gegen Planfeststellungsbeschluss Energietrasse nur bei ernstlichen Zweifeln an Rechtmaessigkeit; oeffentliches Interesse Energiesicherheit ueberwiegt regelmaessig
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 1 ff. NABEG (Bundesfachplanung) — §§ 1 ff. BBPlG (Bundesbedarfsplan) — §§ 1 ff. EnLAG (Energieleitungsausbau) — §§ 72 ff. VwVfG (Planfeststellung) — §§ 3a, 3b UVPG (UVP-Pflicht) — § 2 UmwRG (Verbandsklagebefugnis)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 43 ff. Rn. 1 ff. (Planfeststellung Energieanlagen)
+- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, §§ 72-78 Rn. 1 ff. (Planfeststellungsverfahren)
 
 ## Verzahnung
 

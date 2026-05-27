@@ -1,9 +1,22 @@
 ---
 name: fachanwalt-familienrecht-zugewinnausgleich-berechnen
-description: "Zugewinnausgleich §§ 1372-1390 BGB im gesetzlichen Gueterstand der Zugewinngemeinschaft § 1363 BGB berechnen. Anfangsvermoegen Endvermoegen Bewertungsstichtag § 1376 BGB. Privilegierungen § 1374 Abs. 2 BGB Erbschaft Schenkung. Auskunftsanspruch § 1379 BGB Stufenklage § 254 ZPO. Negatives Anfangsvermoegen seit 2009 (§ 1374 Abs. 3 BGB) Verfuegungsbeschraenkungen § 1365 BGB. Verjaehrung drei Jahre § 195 BGB."
+description: "Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermoegen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermoegen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermoegen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Pruefraster: Anfangsvermoegen/Endvermoegen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermoegen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjaehrung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen."
 ---
 
 # Zugewinnausgleich berechnen
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 07.02.2018 - XII ZB 338/17, NJW 2018, 1250 Rn. 22 — Der Zugewinnausgleich berechnet sich nach dem Endvermoegen zum Stichtag der Rechtshaengigkeit des Scheidungsantrags (§ 1384 BGB); spaeterne Vermoegensveraenderungen sind grundsätzlich nicht mehr zu beruecksichtigen.
+- BGH, Urt. v. 14.11.1979 - IVb ZR 75/79, FamRZ 1980, 129 Rn. 14 — Das Anfangsvermoegen ist mit dem Verbraucherpreisindex auf den Stichtag des Endvermoegens zu indexieren, um Geldwertveraenderungen waehrend der Ehedauer auszugleichen.
+- BGH, Beschl. v. 02.06.2010 - XII ZR 170/08, FamRZ 2010, 1310 Rn. 18 — Illoyale Vermoegensminderungen nach § 1375 Abs. 2 BGB werden dem Endvermoegen des Schuldners hinzugerechnet; dazu zaehlren unentgeltliche Verfuegungen ohne Zustimmung des Ehegatten nach § 1365 BGB.
+- BGH, Urt. v. 25.06.2003 - XII ZR 161/01, FamRZ 2003, 1455 Rn. 16 — Die Verpflichtung zur Auskunft nach § 1379 BGB umfasst saemtliche Aktiva und Passiva zum Stichtag; die Pflicht kann durch einstweilige Anordnung gesichert werden, wenn Verdacht auf Vermoegensverschiebung besteht.
+
+## Kommentarliteratur
+
+- MuKoBGB/Koch, §§ 1372-1390 Rn. 1-80 (Zugewinnausgleich, Indexierung, Auskunft)
+- Gruenteich BGB, § 1375 Rn. 1-30 (Illoyale Vermoegensminderungen)
+- BeckOK BGB/Schnitzler, § 1379 Rn. 1-25 (Auskunftsanspruch Stufenklage)
 
 ## Kaltstart-Rückfragen
 

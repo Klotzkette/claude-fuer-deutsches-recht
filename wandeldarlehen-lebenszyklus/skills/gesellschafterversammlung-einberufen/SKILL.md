@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlung-einberufen
-description: "Einberufung der ausserordentlichen Gesellschafterversammlung mit Tagesordnung Kapitalerhoehung gegen Sacheinlage (Wandlung Wandeldarlehen). Ladungsfristen nach § 51 GmbHG (mindestens eine Woche), Moeglichkeit des Ladungsfristverzichts nach § 51 Abs. 3 GmbHG, Tagesordnungspflichten, Vollmachtsregelung."
+description: "Gesellschafterversammlung fuer Wandeldarlehensmandat einberufen und Tagesordnung aufstellen. §§ 49 51 GmbHG Ladungspflichten. Pruefraster: Ladungsfrist Form Tagesordnung Quorum Vollmachten Protokollpflicht. Output: Einberufungsschreiben Tagesordnung Vollmachtsformular. Abgrenzung: nicht fuer spezifische Beschlussvorbereitung (gesellschafterbeschluss-vorbereiten)."
 ---
 
 # Gesellschafterversammlung einberufen (Kapitalerhöhung)
@@ -91,3 +91,15 @@ Hinweis: Die Beschlussfassung zu TOP 1 bis 3 erfordert notarielle Beurkundung.
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 49 ff. aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 14.05.2019 — **II ZR 299/17**, NJW 2019, 2169 Rn. 14: Gesellschafterversammlung muss für Kapitalerhöhungsbeschluss nach § 51 GmbHG mindestens eine Woche vor der Versammlung einberufen werden; kürzere Fristen sind nur mit Zustimmung aller Gesellschafter zulässig; mündliche Einberufung (Vollversammlung nach § 51 Abs. 3 GmbHG) ist nur möglich, wenn alle Gesellschafter anwesend oder vertreten sind.
+
+OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 10: Bei notariell zu beurkundenden Beschlüssen (§ 53 GmbHG) muss die Einladung den genauen Beschlussgegenstand enthalten; allgemeiner Hinweis auf "Kapitalerhöhung" ohne Nennung des Betrags und der Einlage reicht nicht aus.
+
+### Normen-Ergänzung
+
+§ 51 GmbHG (Einberufung Gesellschafterversammlung, Frist 1 Woche) → § 51 Abs. 3 GmbHG (Vollversammlung mit Zustimmung) → § 53 GmbHG (notarielle Beurkundung, vollständige Beschlussangaben) → § 47 Abs. 1 GmbHG (Stimmrecht, Mehrheitserfordernisse)

@@ -1,6 +1,6 @@
 ---
 name: zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb
-description: "Zugang empfangsbedürftiger Willenserklärungen § 130 BGB: Machtbereichslehre, Möglichkeit der Kenntnisnahme, Zugangsvereitelung, Annahmeverweigerung, Briefkasten-Grundsätze, Abgrenzung zu nicht-empfangsbedürftigen Erklärungen — Grundlagen für die Praxis."
+description: "Mandant fragt: Wann gilt Kuendigung Mahnung oder sonstige Erklaerung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Pruefraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Pruefprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklaerung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kuendigung-paragraph-568-bgb."
 ---
 
 # Zugang empfangsbedürftiger Willenserklärungen § 130 BGB

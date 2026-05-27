@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-insolvenzrecht
-description: Strukturierte Eingangs-Abfrage fuer insolvenzrechtliche Mandate (anders als kaltstart-interview welches Plugin-Profil befuellt). Klaert Mandantenrolle (Schuldner Geschaeftsfuehrer Gesellschafter Glaeubiger Insolvenzverwalter Sachwalter Arbeitnehmer Eigenverwaltung) Vorgang (Antragspflicht-Pruefung Glaeubigerantrag Eigenantrag Eigenverwaltung Schutzschirm StaRUG Restschuldbefreiung) Verfahrensstadium Eroeffnungsverfahren laufendes Verfahren Schlussverteilung. Sofort-Fristen Antragspflicht § 15a InsO drei Wochen Anmeldefristen Tabellenanmeldung Insolvenzgeld § 165 SGB III. Eskalation Telefon-Sofort bei Antragspflicht-Verletzung Geschaeftsfuehrer-Haftung. Routing zu anfechtungsrechte-pruefen und Plugin-Skills.
+description: "Eingangs-Abfrage fuer insolvenzrechtliche Mandate — Mandant ist Geschaeftsfuehrer mit Antragspflicht Glaeubiger der Forderung anmelden will oder Arbeitnehmer der Insolvenzgeld beantragt. Klaert Mandantenrolle und Vorgang (Eroeffnungsantrag Eigenverwaltung Schutzschirm StaRUG Restschuldbefreiung). Sofort-Fristen Antragspflicht § 15a InsO drei Wochen Anmeldefristen Insolvenzgeld § 165 SGB III zwei Monate. Normen §§ 13 17 18 19 InsO Eroeffnungsantrag Insolvenzgruende. Eskalation Telefon-Sofort bei Antragspflicht-Verletzung Geschaeftsfuehrer-Haftung. Output Triage-Memo Fristen-Ampel Routing zu anfechtungsrechte-pruefen und anderen Skills. Abgrenzung zu insolvenzrecht-kaltstart-interview (Plugin-Profil-Befuellung)."
 ---
 
 # Mandat-Triage Insolvenzrecht
@@ -150,3 +150,11 @@ Insolvenz-Mandate sind hochzeitkritisch — die Drei-Wochen-Frist § 15a InsO is
 - BGH IX. Zivilsenat
 - Uhlenbruck InsO
 - MüKo InsO
+
+
+## Weitere Leitentscheidungen — Mandats-Triage
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose in der Triage: erste Frage bei jedem Mandat ob Ueberschuldung vorliegt (zweistufig); positive Prognose heilt; negative Prognose loest Antragspflicht aus.
+- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 — ZU-Schnellcheck in Triage: 10%-Luecken-Test; Zahlungsstockung 3-Wochen-Fenster; rasches Screening ermoeglichen.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Mandats-Triage Anfechtungsrisiko: fruehere Anwaltstatigkeit des Mandatsanwalts in der Krise kann selbst Anfechtung ausloesen wenn Zahlungen an Kanzlei in letzten 3 Jahren; Konflikt-Check zwingend.
+- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — Plan-Mandat Erstpruefung: bei Plan-Mandat als erste Massnahme Vergleichsrechnung (Liquidationswert) erstellen; Mandant muss wissen ob Plan besser als Liquidation.

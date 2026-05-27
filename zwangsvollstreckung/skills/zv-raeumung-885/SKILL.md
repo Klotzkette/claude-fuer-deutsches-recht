@@ -1,6 +1,6 @@
 ---
 name: zv-raeumung-885
-description: "Räumungsvollstreckung nach § 885 ZPO und beschränkter Räumungsauftrag mit Vermieterpfandrecht nach § 885a ZPO (Berliner Modell). Klärt Räumungstitel, Klausel, Zustellung, Mitbewohner-Problematik (Kinder, Untermieter, Lebensgefährten), Drittwiderspruch § 771 ZPO und Vollstreckungsschutz § 765a ZPO. Lädt bei Räumung von Wohn- oder Gewerberäumen."
+description: "Vermieter hat Raeumungsurteil und will Wohnung oder Gewerberaum raeumen lassen. § 885 ZPO Raeumungsvollstreckung. Pruefraster: Raeumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Raeumungsauftrag. Output: Raeumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar)."
 ---
 
 # Räumung § 885 ZPO / Berliner Räumung § 885a ZPO

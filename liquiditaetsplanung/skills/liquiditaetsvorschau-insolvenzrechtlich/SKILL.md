@@ -101,7 +101,7 @@ Die Beurteilung erfolgt **allein anhand objektiver Umstände**; auf die innere V
 5. BGH, Urt. v. 11.03.2025 – II ZR 139/23 Rn. 12 ff. — Objektivität der Beurteilung.
 6. BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12 ff. — Grundsatzentscheidung.
 7. BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 Rn. 36 ff. — Indizienkatalog.
-8. BGH, Urt. v. 14.07.2006 – IX ZR 92/04, BGHZ 168, 158 Rn. 21 ff. — echte vs. erzwungene Stundung.
+8. BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36echte vs. erzwungene Stundung.
 
 ### Kommentarliteratur (Bearbeiter-Stil)
 
@@ -126,7 +126,7 @@ Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manu
 
 ## Typische Fehler
 
-- **Stundungen fälschlich aus Passiva I herausnehmen**: nur echte, beiderseits vereinbarte und dokumentierte Stundungen — BGH IX ZR 92/04.
+- **Stundungen fälschlich aus Passiva I herausnehmen**: nur echte, beiderseits vereinbarte und dokumentierte Stundungen — BGH IX ZR 228/03.
 - **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
 - **SV-Beiträge oder Lohnsteuer übersehen**: gesetzlich sofort fällig, zugleich Indizien.
 - **Künftige Verträge / hypothetische Verwertungserlöse einbeziehen**: nicht zulässig in Aktiva I/II.
@@ -140,3 +140,36 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 ## Übergabe
 
 Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).
+
+
+## Triage — Liquiditaetsvorschau Einordnung
+
+Bevor losgelegt wird, klaere:
+
+1. **Zweck der Vorschau?** ZU-Pruefung § 17 InsO (3-Wochen-Fenster) → insolvenzrechtliche Vorschau; Fortbestehensprognose § 19 InsO (12 Monate); Glaeubigernachweis (13-Wochen-Vorschau); Bankverhandlung (24 Monate)?
+2. **Methode?** Direkte Methode (Cash-In / Cash-Out) fuer insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) fuer langfristige Unternehmensplanung.
+3. **Datenbasis?** OPOS (offene Posten), Kontoauszuege, Steuer- und SV-Verbindlichkeiten — alle aktuell?
+4. **Stichtag?** Fuer InsO-Beurteilung tag-genau festlegen; fuer Prognose ab aktuellem Tag.
+5. **Sanierungsmassnahmen einbeziehen?** Stundungen, Zuschuss, neue Kreditlinie — nur wenn verbindlich zugesagt.
+
+## Output-Template 13-Wochen-Liquiditaetsvorschau
+
+**Adressat:** Insolvenzgericht / Glaeubigerausschuss / Bank — Tonfall: sachlich-betriebswirtschaftlich
+
+```
+13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
+Gesellschaft: [FIRMA]    Erstellt: [DATUM]    Ersteller: [NAME]
+
+Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
+  1   |   EUR [XXX]    |  EUR [YYY]   |  EUR [ZZZ]   |  EUR [AAA] |  EUR [BBB]  |  EUR [CCC]
+  2   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+ 13   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+
+AMPEL-STATUS:
+Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]
+Wochen 5-9 (mittelfristig): [...]
+Wochen 10-13 (langfristig): [...]
+
+ENGPAESSE: [Beschreibung kritischer Wochen und Gegenmassnahmen]
+ANNAHMEN: [Auflistung der Schluesselannahmen]
+```

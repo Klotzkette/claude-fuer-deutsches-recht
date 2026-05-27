@@ -107,6 +107,15 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 `Aktives Mandat:` in der Kanzlei-CLAUDE.md auf `keine — nur Kanzleikontext` setzen. Dem Nutzer bestätigen.
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 22.10.2015 — III ZR 24/15, NJW 2016, 319 — Mandatsaufnahme und Mandatsfuehrung; korrekte Auftragsaufnahme und -abgrenzung verhindert Schadensersatzansprueche wegen unvollstaendiger Leistungserbringung
+- BGH, Urt. v. 10.01.2019 — III ZR 109/17, NJW 2019, 1312 — Mandatsgrenzen bei Produktrecht-Beratung; Berater muss aktiv auf Grenzen des Mandats hinweisen; unaufgefordertes Ergaenzen von offensichtlichen Luecken als Sekundaerpflicht
+
+**Kernnormen:** §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — §§ 1-4 ProdHaftG — §§ 3, 3a UWG
+
+**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 611 ff. Rn. 1 ff. (Dienstvertrag, Anwalts-Mandatsrecht)
+
 ## Ausgabeformat
 
 ### `mandat.md`-Vorlage

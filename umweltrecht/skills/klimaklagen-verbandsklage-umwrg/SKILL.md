@@ -1,6 +1,6 @@
 ---
 name: klimaklagen-verbandsklage-umwrg
-description: Strukturierte Bearbeitung Klimaklagen Verbandsklagen nach UmwRG und Klimaschutzgesetz. BVerfG 1 BvR 2656/18 Klimaschluss zur intertemporalen Freiheits-Sicherung. Klagefaehigkeit anerkannter Umweltverbaende § 2 UmwRG iVm § 1 Abs. 1 UmwRG. Klagebefugnis Drittschutz Umweltrecht plus Vereinigungs-Klagebefugnis ohne eigene Rechtsverletzungs-Voraussetzung. Klage-Gegenstand Verwaltungsakte Plaene UVP-Pflicht-Entscheidung. Untersuchungs-Grundsatz aber Mitwirkung. Schnittstelle BImSchG-Genehmigung WHG-Erlaubnis FFH-Vertraeglichkeit § 34 BNatSchG UVPG Verfahren. EuGH-Linie Aarhus-Konvention C-664/15 Slovenske Komorne C-243/15 Brown Bear. Verfassungsbeschwerde individuelle Klagefuehrung.
+description: "Umweltverband oder Buerger klagt gegen Genehmigung oder Klimaschutz-Versaeumnis. BVerfG 1 BvR 2656/18 Klimabeschluss UmwRG §§ 1 2 Verbandsklagebefugnis KSG. Normen UmwRG § 2 BImSchG WHG UVPG EuGH Aarhus-Konvention C-664/15. Pruefraster Klagebefugnis Klagegegenstand Aarhus-Anforderungen FFH-Vertraeglichkeit § 34 BNatSchG. Output Klageschrift-Entwurf Klagebefugnis-Pruefung Strategie-Memo. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (BImSchG-Genehmigung)."
 ---
 
 # Klimaklagen und Verbandsklagen nach UmwRG

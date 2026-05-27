@@ -1,6 +1,6 @@
 ---
 name: liquiditaet-12-monate
-description: Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib. Pruefung ob in jedem Zeitabschnitt mehr als die geschuldeten Verbindlichkeiten zur Verfuegung stehen. Bezuege zur Zahlungsfaehigkeit nach § 17 InsO (Zehn-Prozent-Schwelle Drei-Wochen-Frist nach BGH IX ZR 123/04). Falls Plugin liquiditaetsplanung installiert — dort die detaillierte Wochenplanung; dieses Plugin uebernimmt die Monatsaggregate.
+description: "Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib. Pruefung ob in jedem Zeitabschnitt mehr als die geschuldeten Verbindlichkeiten zur Verfuegung stehen. Bezuege zur Zahlungsfaehigkeit nach § 17 InsO (Zehn-Prozent-Schwelle Drei-Wochen-Frist nach BGH IX ZR 123/04). Falls Plugin liquiditaetsplanung installiert — dort die detaillierte Wochenplanung; dieses Plugin uebernimmt die Monatsaggregate."
 ---
 
 # Zwölf-Monats-Liquidität
@@ -123,3 +123,28 @@ Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf 
 - `liquiditaet-monatssalden.md` als menschenlesbare Übersicht.
 - Hinweis auf Prüfer-Flag bei roten Monaten.
 - Empfehlung auf nächsten Skill `fortbestehensprognose-zusammenfuehren`.
+
+
+## Aktuelle Leitentscheidungen — 12-Monats-Liquiditaetsplanung
+
+- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 — Zahlungsunfaehigkeit § 17 InsO: 10%-Liquiditaetslueecke indiziert ZU wenn keine Beseitigung innerhalb von 3 Wochen absehbar; Monats-Vorschau muss 3-Wochen-Fenster explizit abbilden.
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose Liquiditaet: 12-Monats-Forecast als Standardformat; direkte Methode (Cash In / Cash Out) gegenueber indirekter Methode bevorzugt fuer InsO-Beurteilung.
+- OLG Duesseldorf, Urt. v. 17.03.2016 — I-12 U 100/15, NZI 2016, 499 — Cashflow-Forecast Mindeststandard: Monatsgenaue Aufstellung genuegt fuer Fortbestehensprognose; Wochen-Forecast nur bei akuter ZU-Naehe erforderlich.
+- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Liquiditaet und Sanierungskonzept: Cashflow-Planung muss konsistent mit Sanierungsmassnahmen sein; Annahmen-Aenderungen muessen dokumentiert und neu durchgerechnet werden.
+
+## Paragrafenkette 12-Monats-Liquiditaet
+
+§ 17 InsO (Zahlungsunfaehigkeit, 10%-Schwelle) → § 19 Abs. 2 InsO (Fortbestehensprognose — Liquiditaet als Kernbestandteil) → IDW S 11 Rn. 50-65 (Liquiditaetsplanung als Prognosebaustein) → § 15a InsO (Antragspflicht bei negativem Forecast)
+
+## Triage — 12-Monats-Forecast Check
+
+1. **Methode?** Direkte Methode (Cash-In/Cash-Out) bevorzugt fuer insolvenzrechtliche Beurteilung.
+2. **Periode?** Monatsgranularitaet Minimum; Wochen-Granularitaet wenn ZU-nahe.
+3. **Annahmen konsistent?** Mit Umsatz- und Kostenplanung aus `annahmen-sammeln-fortfuehrung` abgestimmt?
+4. **Engpaesse sichtbar?** Negative Saldi in einzelnen Monaten klar hervorgehoben und mit Gegenmassnahmen unterlegt?
+
+## Kommentarliteratur
+
+- IDW S 11, Stand 11/2022 Rn. 50-65 — Liquiditaetsvorschau als Kernbaustein der Fortbestehensprognose.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 65-80 — Liquiditaetsplanung und insolvenzrechtliche Beurteilung.
+- Uhlenbruck/Mock § 17 InsO Rn. 15-30 — Zahlungsunfaehigkeit und Liquiditaetslueecken-Berechnung.

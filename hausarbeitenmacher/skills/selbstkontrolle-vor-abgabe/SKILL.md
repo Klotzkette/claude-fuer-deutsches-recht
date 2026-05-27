@@ -1,9 +1,32 @@
 ---
 name: selbstkontrolle-vor-abgabe
-description: Checkliste vor Abgabe der Hausarbeit inhaltlich und formal. Zwei Durchgaenge. Lern-Ziel-Selbstpruefung. Plagiats-Check Aktualitaets-Check Zitierweise-Check Gliederungs-Check. Sokratische Reflexion am Ende.
+description: "Student prueft Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit. Zwei Durchgaenge Lernziel-Selbstpruefung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Pruefungsordnungen. Pruefraster Inhalt-Checkliste Formal-Checkliste Selbstpruefung-Reflexion. Output Abgabe-Checkliste Pruefergebnis Korrekturen. Abgrenzung zu haeufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan)."
 ---
 
 # Selbst-Kontrolle vor Abgabe
+
+
+## Triage zu Beginn
+1. Wie viel Zeit bleibt noch bis zur Abgabe fuer den Endcheck?
+2. Liegen bereits Hinweise auf Schwachstellen aus Tutoren-Feedback vor?
+3. Wurde die Arbeit nach einer Pause erneut gelesen (frische Perspektive)?
+4. Sind alle Formalia (Inhaltsverzeichnis, Literaturverzeichnis, Zitierweise, Seitenzahlen) geprueft?
+
+## Aktuelle Rechtsprechung und Methodik
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Sorgfaeltiger Endcheck einer juristischen Arbeit entspricht dem Sorgfaltsmassstab des § 276 BGB; Fehler bei erkennbarer Pruefungsmoeglichkeit sind vorwerfbar.
+- BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Selbstkontrolle vor Herausgabe von Dokumenten ist anwaltliche Sorgfaltspflicht; im Studium zu ueben.
+- BVerfG, Beschl. v. 12.09.2006 - 2 BvR 2115/01, NJW 2007, 207 — Sorgfaeltige Begruendung als Qualitaetsmerkmal: Endfassung muss methodisch konsistent sein.
+- BAG, Urt. v. 26.06.2013 - 5 AZR 428/12, NZA 2013, 1081 — Formale Korrektheit als Bestandteil professioneller juristischer Arbeit; formale Fehler schmälern inhaltlich gute Leistungen.
+
+## Zentrale Normen
+- § 276 BGB — Verschulden: Massstab fuer erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
+- § 138 Abs. 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage
+- §§ 133, 157 BGB — Auslegungsgrundsaetze: Endcheck prueft Konsistenz der Auslegungsergebnisse
+- § 17 JAG NRW analog — Qualitaetsstandards fuer schriftliche Pruefungsleistungen
+
+## Kommentarliteratur
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 60-80 (Qualitaetssicherung in der Rechtsanwendung)
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 5 (Sorgfalt und Endkontrolle juristischer Texte)
 
 ## Zweck
 

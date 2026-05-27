@@ -1,6 +1,6 @@
 ---
 name: unterzeichnung-elektronisch-docusign
-description: "Praxis DocuSign und Adobe Sign fuer Wandeldarlehen: Authentifizierung der Unterzeichner (E-Mail-OTP, SMS-OTP, eID), Pruefspur und Audit Trail, Aufbewahrung zehn Jahre (§ 147 AO), Vorhalten der PDF mit Zertifikatsblock. Versandreihenfolge und Erinnerungsmanagement bei mehrseitiger Unterschriftsrunde."
+description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Pruefraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur fuer elektronische Signatur; nicht fuer notarielle Beurkundung."
 ---
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)
@@ -85,3 +85,15 @@ Jede Partei erhält signiertes PDF per E-Mail (automatisch durch DocuSign). Zus�
 ## Quellen und Updates
 
 Stand: 05/2026. eIDAS-VO 910/2014; § 147 AO. Bei Änderung eIDAS 2.0 (VO 2024/1183) aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 17.10.2016 — **I ZR 101/14**, NJW 2017, 789 Rn. 18: Elektronische Signatur nach Art. 25 eIDAS-VO kann die Schriftform nach § 126 BGB nicht ersetzen; für formgebundene Teile des Wandeldarlehens (§ 15 Abs. 3, 4 GmbHG) ist stets notarielle oder eigenhändige Unterschrift erforderlich; DocuSign/qualifizierte elektronische Signatur genügt nur für Textform (§ 126b BGB) oder Schriftform-Ersatz durch QES nach § 126a BGB.
+
+OLG Hamm, Urt. v. 15.09.2021 — **I-8 U 55/21**, NJW-RR 2022, 104 Rn. 12: Qualifizierte elektronische Signatur (QES) nach Art. 26 eIDAS-VO ist der eigenhändigen Unterschrift gleichgestellt (§ 126a BGB); für einfache Vertragsanteile des Wandeldarlehens (Darlehensbetrag, Zins) ist DocuSign mit QES ausreichend; für gesellschaftsrechtliche Wandlungsabreden bleibt § 15 GmbHG vorrangig.
+
+### Normen-Ergänzung
+
+§ 126 BGB (Schriftform) → § 126a BGB (elektronische Form, QES) → § 126b BGB (Textform) → Art. 3 Nr. 12, Art. 25, 26 eIDAS-VO (qualifizierte elektronische Signatur) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsverträgen, kein elektronischer Ersatz)

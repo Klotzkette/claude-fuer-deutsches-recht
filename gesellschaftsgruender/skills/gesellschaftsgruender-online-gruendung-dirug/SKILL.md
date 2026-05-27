@@ -1,145 +1,136 @@
 ---
 name: gesellschaftsgruender-online-gruendung-dirug
-description: "Online-Gruendung GmbH UG nach DiRUG Digitalisierungsrichtlinie-Umsetzungsgesetz seit Juli 2022. Beurkundung per Videokonferenz beim Notar. Voraussetzungen Bargruendung kein AG keine Sacheinlage. Identifikation per Personalausweis-eID oder Reisepass. Vorteile Nachteile praktische Stolpersteine. Internationale Gesellschafter."
+description: "Online-Gruendung der GmbH nach DiRUG ohne persoenlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Pruefraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gruendung mit Verfahrensschritten. Abgrenzung: nicht individuelle Satzung (erfordert Praesenz)."
 ---
 
 # Online-Gründung nach DiRUG
 
-## Zweck
+## Triage — kläre vor der Online-Gründung
 
-Seit dem Inkrafttreten des **Gesetzes zur Umsetzung der Digitalisierungsrichtlinie (DiRUG)** am 1.8.2022 ist die Online-Gründung von GmbH und UG durch Beurkundung per Videokonferenz beim Notar möglich. Dieser Skill behandelt Voraussetzungen, Ablauf und praktische Stolpersteine.
+1. Ist es eine Bargründung — keine Sacheinlage? (Online-Gründung setzt Bareinlage voraus, § 2 Abs. 3 GmbHG.)
+2. Sind alle Gesellschafter und GF mit Personalausweis (aktiviertes eID) oder kompatiblem Reisepass identifizierbar?
+3. Handelt es sich um eine GmbH oder UG — keine AG?
+4. Haben alle Teilnehmer stabile Internetverbindung, Kamera und Mikrofon?
+5. Ist ein Test-Termin mit dem Notar vereinbart (empfohlen: 30 Min. vor Haupttermin)?
+6. Sind ausländische Gründer beteiligt, deren Identifikation unklar ist?
 
-## 1) Rechtsgrundlagen
+## Zentrale Normen
 
-- **Paragraf 2 III GmbHG**: Online-Beurkundung von GmbH-/UG-Gründung zulaessig
-- **Paragraf 16a-d BeurkG**: Verfahrensregeln zur Online-Beurkundung
-- **Paragraf 40 BeurkG**: Online-Beglaubigungen (z.B. Handelsregister-Anmeldungen, Anteilsübertragungen)
+- **§ 2 Abs. 3 GmbHG** — Online-Beurkundung: zulässig für GmbH- und UG-Gründungen; nur Bargründung.
+- **§§ 16a-d BeurkG** — Online-Beurkundungsverfahren: technische Standards, qualifizierte elektronische Signatur, Identifikationsanforderungen.
+- **§ 17 BeurkG** — Belehrungspflicht des Notars: gilt auch bei Online-Beurkundung; Notar muss Urkunde vorlesen und erläutern.
+- **§ 40 BeurkG** — Online-Beglaubigungen: HR-Anmeldungen, Anteilsübertragungen auch online möglich.
+- **§ 7 GmbHG** — Einzahlungspflicht: Stammkapital vollständig eingezahlt vor HR-Anmeldung.
 
-## 2) Was geht — was nicht
+## Aktuelle Rechtsprechung
 
-### Online möglich
+- BayObLG, Beschl. v. 18.11.2020 - 101 AR 175/20 — Notar-Identifikation bei Videokonferenz: Notar muss Identität aller Beteiligten eigenständig sicherstellen; eID-Chip und standardisiertes Video-Verfahren reichen aus.
+- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 12 — Vorbelastungshaftung gilt auch bei Online-gegründeter Vor-GmbH; zwischen Beurkundung und Eintragung entstehende Verbindlichkeiten treffen Gesellschafter persönlich.
+- OLG Frankfurt, Beschl. v. 14.06.2012 - 20 W 235/12, GmbHR 2012, 989 — Vollmacht muss in Beurkundungsform erteilt sein; bei Online-Gründung: Notar muss sicherstellen, dass Vollmacht formgerecht und aktuell ist.
+- BGH, Urt. v. 05.02.2007 - II ZR 84/05, NJW 2007, 1529 — Handelndenhaftung entfällt mit wirksamer HR-Eintragung; gilt auch nach Online-Gründung.
 
-- GmbH-Gründung mit **Bareinlage**
-- UG-Gründung mit Bareinlage
-- Handelsregister-Anmeldungen (Beglaubigung Online)
-- Änderung von Geschäftsanteilsübertragungen (Beglaubigung Online)
-- Bestellung und Abberufung von Geschäftsführern
+## Kommentarliteratur
 
-### Online **nicht** möglich
+- Scholz/Emmerich, GmbHG, § 2 Rn. 25-40 (Online-Beurkundung, DiRUG, Voraussetzungen)
+- Baumbach/Hueck, GmbHG, § 2 Rn. 15-20 (Online-Gründung, Identifikation, Verfahrensablauf)
+- Keidel/Zimmermann, FamFG, § 167 Rn. 1-10 (elektronische Einreichung Handelsregister)
 
-- **Sachgründung** (zwingend physisch)
-- **AG-Gründung**
-- Satzungsaenderungen (nicht klar geregelt; in Praxis weiterhin physisch üblich)
-- Grundstücks-bezogene Beurkundungen
-- Erbsachen
+## Online vs. Präsenz — Entscheidungsmatrix
 
-## 3) Voraussetzungen
+| Kriterium | Online (DiRUG) | Präsenz |
+|---|---|---|
+| Gründungstyp | Nur Bargründung | Bar und Sachgründung |
+| Gesellschaftsform | GmbH, UG | GmbH, UG, AG, GmbH & Co. KG |
+| Identifikation | eID oder Reisepass-Online | Personalausweis im Original |
+| Ortsunabhängig | Ja | Nein (Notar-Büro) |
+| Ausländische Gründer | Oft Probleme | Apostille + Übersetzung |
+| Komplexe Satzung | Eingeschränkter Diskussionsraum | Volle Beratung vor Ort |
+| Kosten | Identisch (GNotKG) | Identisch (GNotKG) |
+| Dauer Termin | 30-90 Minuten | 60-120 Minuten |
 
-### Identifikations-Mittel
+## Online-Gründungs-Ablauf
 
-Notar muss die Identität aller Beteiligten **sicher** feststellen koennen — mit einem der folgenden Mittel:
+### Schritt 1: Notar auswählen und Termin buchen
+- Notar muss Online-Gründung anbieten (nicht alle noch aktiviert).
+- Termin 1-2 Wochen vorab; Notar übersendet Zugang zu Online-System.
 
-1. **Personalausweis mit eID-Funktion** (deutsche Personalausweise seit 2010, online-fhg)
-2. **Reisepass-Online-Identifikation** über Notar-Identifizierungs-System
-3. **Notarspezifisches Notar.de-Identifizierungs-Verfahren**
+### Schritt 2: Satzungsentwurf
+- Wie bei physischer Gründung; Notar übersendet Vorabentwurf ca. 1 Woche vorher.
 
-Bei Ausländern oft Komplikationen: Online-Identifikation nicht überall möglich; ggf. physische Beurkundung erforderlich.
+### Schritt 3: Test-Termin (empfohlen)
+- Ca. 30 Min. vor Haupttermin: Technik-Check, Identifikationstest, eID-Test.
 
-### Hardware/Software
+### Schritt 4: Haupttermin
+- Notar im Büro; alle Gründer per Videokonferenz.
+- Identifikation jedes Beteiligten per eID oder Reisepass-Online.
+- Verlesen der Urkunde; Erläuterung; Rückfragen.
+- Unterzeichnung per qualifizierter elektronischer Signatur (qeS).
 
-- **Stabile Internetverbindung** auf Notar- und Gründerseite
-- **Kamera und Mikrofon** beim Gründer
-- **PC oder Laptop** (Mobilgerät meist nicht ausreichend)
-- **Notarspezifische Software** (Notar stellt Zugangsdaten zur Verfügung)
+### Schritt 5: HR-Anmeldung
+- Notar reicht elektronisch an HR-Gericht ein; Beglaubigung online möglich.
 
-### Software-Standards
+### Schritt 6: Stammkapital einzahlen
+- Nach Beurkundung: Einzahlung auf GmbH-Konto; Bankbestätigung an Notar.
 
-- Bundesnotarkammer betreibt das zentrale Online-System
-- Notar-Software erfüllt die technischen Anforderungen Paragraf 16b BeurkG
+## Schritt-für-Schritt-Workflow
 
-## 4) Ablauf
+1. **Triage** — 6 Triage-Fragen oben beantworten; Online vs. Präsenz entscheiden.
+2. **Notar suchen** — gesellschaftsrechtlich erfahren + Online-Gründung anbieten.
+3. **Satzungsentwurf** — Vorabentwurf vom Notar einholen; sorgfältig prüfen.
+4. **eID vorbereiten** — Personalausweis mit aktiviertem eID; Aktivierung im Bürgeramt (bis 2 Wochen warten).
+5. **Test-Termin** — Technik, Identifikation, Kamera/Mikrofon testen.
+6. **Haupttermin** — Satzung wird verlesen; qeS unterzeichnen.
+7. **Stammkapital einzahlen** — Bankbestätigung an Notar schicken.
+8. **HR-Eintragung abwarten** — ca. 2-4 Wochen; Gewerbeanmeldung + Finanzamt danach.
 
-### Schritt 1: Termin vereinbaren
+## Output-Template Checkliste Online-Gründung
 
-- Notar buchen (typisch 1-2 Wochen Vorlauf)
-- Notar prüft im Vorfeld die Voraussetzungen (Bargründung, Identifikation möglich)
-- Notar übermittelt **Login-Daten** und **Test-Termin**
+**Adressat:** Gründer — Tonfall anleitend-verständlich
+```
+CHECKLISTE ONLINE-GRÜNDUNG (DiRUG)
+Gesellschaft (geplant): [Firmenname] GmbH / UG
+Online-Termin: [Datum, Uhrzeit]
+Notar: [Name, Online-System-URL]
 
-### Schritt 2: Vorabentwurf der Urkunde
+VORAUSSETZUNGEN PRÜFEN
+[ ] Bargründung (keine Sacheinlage) — Ja
+[ ] GmbH oder UG (kein AG) — Ja
+[ ] Personalausweis mit eID aktiviert — alle Gesellschafter + GF: [ ] Ja
+[ ] eID-Test im Bürgeramt: [ ] erledigt / [ ] ausstehend bis [Datum]
+[ ] Stabile Internetverbindung (mind. 10 Mbit/s Upload): [ ] Ja
+[ ] Kamera und Mikrofon funktionsfähig: [ ] Ja
+[ ] Satzungsentwurf erhalten und geprüft am: [Datum]
 
-- Wie bei physischer Beurkundung
-- Notar übermittelt Entwurf zur Vorab-Prüfung
+AUSLÄNDISCHE BETEILIGTE
+[ ] Ausländische Gesellschafter vorhanden: [ ] Nein / [ ] Ja → Identifikation klären
+[ ] Identifikation per Reisepass-Online beim Notar möglich: [ ] Ja / [ ] Unklar
 
-### Schritt 3: Test-Termin (optional, empfohlen)
+NACH BEURKUNDUNG
+[ ] Stammkapital eingezahlt: [EUR] bis [Datum]
+[ ] Bankbestätigung an Notar geschickt bis: [Datum]
+[ ] HR-Eintragung erwartet: ca. [Datum + 2-4 Wochen]
+[ ] Gewerbeanmeldung + Finanzamt nach HR-Eintragung
+```
 
-- 15-30 Minuten vor Haupttermin
-- Technik-Check (Verbindung, Kamera, Mikrofon)
-- Identifikations-Funktion testen
+## Rote Schwellen
 
-### Schritt 4: Haupt-Termin
+- Sacheinlage bei Online-Gründung → unzulässig; Bargründung zwingend.
+- eID nicht aktiviert → Termin scheitert; Aktivierung rechtzeitig veranlassen (bis 2 Wochen).
+- Internetverbindung bricht ab → Termin wird abgebrochen; neuer Termin erforderlich.
+- Ausländischer Gründer ohne kompatibles Identifikationsdokument → Präsenz-Gründung nötig.
+- AG-Gründung geplant → Online-Gründung nicht möglich.
 
-- Notar im Notar-Buero
-- Alle Gründer per Videokonferenz zugeschaltet (koennen sich an verschiedenen Orten befinden)
-- Identifikations-Vorgang für alle Beteiligten
-- Verlesen, Erläutern, Rückfragen, Signieren
+## Quellen und Vertiefung
 
-### Schritt 5: Elektronische Signatur
+- §§ 2 Abs. 3, 7 GmbHG (Online-Beurkundung, Bareinzahlungspflicht)
+- §§ 16a-d, 17, 40 BeurkG (Online-Beurkundungsverfahren, qeS)
+- DiRUG vom 05.07.2021 (BGBl. I S. 3338)
+- BayObLG 101 AR 175/20 (Identifikation Online)
+- Scholz/Emmerich, GmbHG, § 2 Rn. 25-40
 
-- Beteiligte unterschreiben mit **qualifizierter elektronischer Signatur (qeS)** oder per Notar-System
-- Notar setzt eigene qeS
+## Übergabe an andere Skills
 
-### Schritt 6: Anmeldung Handelsregister
-
-- Notar reicht elektronisch ein
-- Online-Beglaubigung der Anmeldung in derselben Sitzung möglich
-
-## 5) Vorteile
-
-- **Ortsunabhängig**: Gründer koennen aus dem Heimbuero, dem Ausland (mit Identifikations-Möglichkeit), aus dem Urlaub teilnehmen
-- **Schneller**: kein Anreiseweg zum Notar
-- **Gleicher Effekt** wie physische Beurkundung — vollwertige Gesellschaft
-- **Geeignet** für verteilte Gründer-Teams
-
-## 6) Nachteile / Stolpersteine
-
-1. **Technik-Versagen**: Verbindung bricht ab -> Termin abgebrochen, neuer Termin
-2. **Identifikations-Probleme**: Personalausweis mit eID nicht aktiviert, Reisepass nicht kompatibel
-3. **Ausländische Gründer**: oft keine eID-Funktion, Identifikation per Reisepass-Online nicht überall verfügbar
-4. **Kein Vorabgespräch** möglich: Notar erläutert online, weniger Raum für Diskussion
-5. **Sacheinlage nicht möglich**: Beschraenkung auf Bargründung
-6. **AG ausgeschlossen**
-7. **Manche Notare bieten Online noch nicht an** (Schulungs-/Investitions-Stand variiert)
-
-## 7) Kosten
-
-- **Identisch** zur physischen Beurkundung nach GNotKG
-- Notargebuehren regulieren keine Online-Praemie oder Rabatte
-
-## 8) Praktische Empfehlung
-
-### Wann Online sinnvoll
-
-- **Verteilte Gründer-Teams** (Gründer wohnen in verschiedenen Städten)
-- **Schnelle Gründung** unter Zeitdruck
-- **Einfach gestaltete GmbH/UG** ohne Sondervereinbarungen
-
-### Wann physisch besser
-
-- **Komplexe Satzung** mit Diskussionsbedarf
-- **Sachgründung** (ohnehin Pflicht)
-- **AG-Gründung**
-- **Ausländische Gründer** mit Identifikations-Schwierigkeiten
-
-## 9) Typische Fehler
-
-1. **Personalausweis-eID nicht aktiviert.** Aktivierung im Bürgerbuero kostet bis zu 2 Wochen.
-2. **Veraltete Notar-Software.** Manche Notare arbeiten noch mit alten Plattformen — vorab anfragen.
-3. **Mehrere Auslandsgesellschafter.** Eine fehlende Identifikations-Möglichkeit blockt den ganzen Termin.
-4. **Internetverbindung im Hotel/Cafe.** Bei abbrechender Verbindung muss neu identifiziert werden.
-5. **Test-Termin übersprungen.** Erst beim Haupttermin merkt man, dass Kamera/Mikro nicht funktionieren.
-
-## Anschluss
-
-- `gesellschaftsgruender-notar-vorbereitung` — wenn doch physisch erforderlich
-- `gesellschaftsgruender-handelsregister-anmeldung` — Online-Anmeldung
-- `gesellschaftsgruender-stammkapital-einzahlung` — Bareinlage Pflicht
+- `gesellschaftsgruender-notar-vorbereitung` — Präsenz-Alternative
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Anmeldung nach Beurkundung
+- `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlung nach Online-Gründung
+- `gesellschaftsgruender-gmbh-vorbereitung` — Vorbereitung vor Notartermin

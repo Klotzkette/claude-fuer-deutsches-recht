@@ -1,131 +1,308 @@
 ---
 name: anw-steuerstrafverteidigung-verstaendigung
-description: Strafverteidigung in der Steuerstrafsache nach §§ 369 ff. AO. Einstellung gegen Auflage § 153a StPO mit Geldauflage Bemessung an § 398a AO. Verstaendigung § 257c StPO ueber Strafmass und Steuerschaden Bezifferung. Trennung Steuerverfahren-Strafverfahren § 393 AO Auskunftsverweigerungsrecht § 393 Abs. 1 S. 2 AO. Tateinheit/Tatmehrheit BGH 1 StR 631/10. Verbindung mit Selbstanzeige § 371 AO Synergie und Risiken.
+description: "Strafverteidigung in Steuerstrafsachen nach §§ 369 ff. AO mit Ziel Einstellung oder Verstaendigung. Anwendungsfall Mandant ist Beschuldigter wegen Steuerhinterziehung § 370 AO oder leichtfertiger Verkuerzung § 378 AO. Einstellung gegen Auflage § 153a StPO Geldauflage Bemessung an § 398a AO. Verstaendigung § 257c StPO Strafmass Steuerschaden-Bezifferung. Trennung Steuerverfahren Strafverfahren § 393 AO Auskunftsverweigerungsrecht § 393 Abs. 1 S. 2 AO Tateinheit BGH 1 StR 631/10. Output Verteidigungsstrategie-Memo Einstellungsantrag Verstaendigungsprotokoll. Abgrenzung zu anw-selbstanzeige-371."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung
 
-## Zweck
+## Kernsachverhalt
 
-Anwaltliche Strafverteidigung in der Steuerstrafsache (Steuerhinterziehung § 370 AO oder leichtfertige Verkürzung § 378 AO) mit Schwerpunkt auf den **prozessualen Erledigungsformen jenseits der Hauptverhandlung**: Einstellung gegen Geldauflage nach § 153a StPO und Verständigung nach § 257c StPO. Ergänzt `anw-selbstanzeige-371`, der die strafbefreiende Selbstanzeige außerhalb des laufenden Strafverfahrens behandelt.
+Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist Beschuldigter in einem Steuerstrafverfahren wegen Steuerhinterziehung (§ 370 AO) oder leichtfertiger Verkürzung (§ 378 AO). Die Strafverteidigung zielt auf eine Einstellung ohne Hauptverhandlung (§ 153a StPO oder § 170 Abs. 2 StPO) oder auf eine Verständigung über den Strafrahmen (§ 257c StPO). Steuerlichen Hintergrund kennt der Steueranwalt besser als der Strafverteidiger — die Kombination beider Qualifikationen ist Stärke dieser Spezialverteidigung.
 
-## Eingaben
+## Kaltstart-Rückfragen
 
-- Ermittlungsstand (Anfangsverdacht, Einleitung Strafverfahren, Anklage, Hauptverhandlung)
-- Hinterziehungsumfang je Steuerart und Veranlagungszeitraum
-- Vortat-Konstellation (Tateinheit/Tatmehrheit, Verfolgungs- und Vollstreckungsverjährung)
-- Beweislage Staatsanwaltschaft / Steufa
-- Mandantenstatus (Geschäftsführer, Steuerpflichtiger, Berater)
-- Steuerschaden bereits beziffert? Nachzahlung erfolgt oder beabsichtigt?
-- Parallel-Selbstanzeige § 371 AO bereits eingereicht (Sperrwirkung beachten)?
-- Vergütungsvereinbarung (RVG oder gesonderte Vergütung)
+1. Ermittlungsstand — Anfangsverdacht, Einleitung Strafverfahren (§ 397 Abs. 3 AO), Anklage, Hauptverhandlung?
+2. Hinterziehungsumfang je Steuerart und Veranlagungszeitraum — nach Berechnung der Steufa oder eigener Prüfung?
+3. Tatstruktur — Tateinheit oder Tatmehrheit je Steuerart/Veranlagungszeitraum (BGH 1 StR 631/10)?
+4. Beweislage Staatsanwaltschaft/Steufa — Bankkontendaten, Buchführung, Steuererklärungen, Aussagen?
+5. Mandantenstatus — Steuerpflichtiger, GF, steuerlicher Berater?
+6. Steuerschaden beziffert und beglichen (Teil-/Vollzahlung)? Ratenplan?
+7. Wurde eine Selbstanzeige nach § 371 AO bereits eingereicht — Sperrwirkung § 371 Abs. 2 AO prüfen?
+8. Vergütungsvereinbarung — RVG oder gesonderte Vereinbarung mit höherem Honorar?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
 ### Primärnormen
 
-- **§ 370 AO** — Steuerhinterziehung; Strafrahmen bis 10 Jahre (besonders schwerer Fall § 370 Abs. 3 AO bei großem Ausmaß ab regelmäßig 50 000 EUR pro Tat).
-- **§ 378 AO** — Leichtfertige Steuerverkürzung (Ordnungswidrigkeit, Geldbuße).
-- **§ 376 AO** — Verfolgungsverjährung Steuerhinterziehung: regelmäßig fünfzehn Jahre seit Beendigung; besonders schwerer Fall ebenfalls fünfzehn Jahre.
-- **§ 393 AO** — Trennung Steuer- und Strafverfahren; **Auskunftsverweigerungsrecht** § 393 Abs. 1 S. 2 AO bei Selbstbelastungsgefahr.
-- **§ 397 Abs. 3 AO** — Bekanntgabe der Einleitung des Strafverfahrens.
-- **§ 153a StPO** — Einstellung gegen Auflage (typisch: Geldauflage; Bemessung orientiert sich an § 398a AO-Zuschlagsstaffel).
-- **§ 257c StPO** — Verständigung im Strafverfahren über Schuldspruch (nicht möglich) und Strafrahmen (möglich; Belehrung über § 257c Abs. 5 StPO Pflicht).
-- **§ 398a AO** — Absehen von Verfolgung in Selbstanzeige-Fällen (Zuschlagsstaffel 10 / 15 / 20 %).
-- **§ 30 AO** — Steuergeheimnis; Reichweite gegenüber Verteidigung.
+**§ 370 AO** — Steuerhinterziehung; Strafrahmen bis 5 Jahre, besonders schwerer Fall § 370 Abs. 3 AO bis 10 Jahre.
+
+**§ 370 Abs. 3 AO** — Besonders schwerer Fall bei großem Ausmaß (regelmäßig ab 50.000 EUR pro Tat nach BGH 1 StR 373/15), Bande, Steueramts-Missbrauch.
+
+**§ 378 AO** — Leichtfertige Steuerverkürzung; Ordnungswidrigkeit mit Geldbuße.
+
+**§ 376 AO** — Verfolgungsverjährung: 10 Jahre regelmäßige Steuerhinterziehung; 15 Jahre bei besonders schwerem Fall.
+
+**§ 393 Abs. 1 S. 2 AO** — Schutz vor Selbstbelastung im Besteuerungsverfahren: Zwangsmittel (§ 328 AO) dürfen nicht eingesetzt werden, soweit Selbstbelastungsgefahr besteht; Mitwirkungspflichten bleiben bestehen.
+
+**§ 393 Abs. 2 AO** — Verwendungsverbot für nichtsteuerliche Straftaten: Angaben im Besteuerungsverfahren dürfen nicht für steuerfremde Delikte (Betrug § 263 StGB, Untreue § 266 StGB) verwendet werden. **Nicht**: für die Steuerstraftat selbst.
+
+**§ 153a StPO** — Einstellung gegen Auflage; Bemessung Geldauflage orientiert sich faktisch an § 398a AO-Staffel.
+
+**§ 257c StPO** — Verständigung im Strafverfahren; nur über Strafrahmen, nicht über Schuldspruch; Belehrungspflicht § 257c Abs. 5 StPO.
+
+**§ 398a AO** — Absehen von Verfolgung in Selbstanzeige-Fällen; Zuschlagsstaffel 10/15/20 %.
+
+**§ 371 AO** — Strafbefreiende Selbstanzeige; Vollständigkeitsgebot; Sperrgründe § 371 Abs. 2 AO.
 
 ### Leitentscheidungen
 
-- BGH, Beschl. v. 20.5.2010 — **1 StR 577/09**, BGHSt 55, 180 (Vollständigkeitsgebot Selbstanzeige; auch maßgeblich für Bewertung im Strafverfahren).
-- BGH, Urt. v. 25.7.2011 — **1 StR 631/10** (Tateinheit/-mehrheit bei mehreren Hinterziehungstaten je Steuerart und Veranlagungszeitraum).
-- BGH, Urt. v. 27.10.2015 — **1 StR 373/15** (Strafzumessung Steuerhinterziehung; großes Ausmaß ab 50 000 EUR pro Tat).
-- BGH, Urt. v. 7.2.2012 — **1 StR 525/11** (Verständigung § 257c StPO; Belehrungspflicht und Reichweite).
-- BVerfG, Beschl. v. 19.3.2013 — 2 BvR 2628/10 u. a. (Verfassungskonforme Grenzen § 257c StPO; Schuldspruch nicht verhandelbar).
-- BGH, Beschl. v. 1.10.2020 — **1 StR 219/20** (Steuerverkürzung als Strafzumessungsfaktor bei Mehrfach-Taten).
-
-## Vorgehen
-
-### Schritt 1 — Akteneinsicht und Beweislage
-
-- **§ 147 StPO** Vollakteneinsicht — Reform 2017 erweitert (Akten und elektronische Daten).
-- **Steufa-Datenträger** anfordern: Bankendaten, Buchhaltungsdaten, ggf. Steuerdaten der Datev/SAP-Auszüge.
-- **§ 393 Abs. 2 AO** — **Verwendungsverbot nur für nichtsteuerliche Straftaten**: Tatsachen oder Beweismittel, die der Beschuldigte vor Einleitung des Strafverfahrens **dem Finanzamt im Besteuerungsverfahren** in Erfüllung steuerlicher Pflichten offenbart hat, dürfen gegen ihn in einem Strafverfahren wegen einer **steuerfremden** Tat (z.B. Betrug § 263 StGB, Untreue § 266 StGB) nicht verwendet werden. **Wichtige Klarstellung:** Für die hier in Rede stehende **Steuerstraftat selbst** (§§ 369 ff. AO) gilt das Verwendungsverbot **nicht** — Steuerakten, Steueranmeldungen, Steuererklärungen, USt-Voranmeldungen und Buchhaltungsdaten aus der Steuerakte sind im Steuerstrafverfahren grundsätzlich verwertbar (BGH, Urt. v. 12.1.2005 — 5 StR 191/04; Joecks/Jaeger/Randt, Steuerstrafrecht, 8. Aufl. 2015, § 393 Rn. 81 ff.). Eine "§ 393 Abs. 2 AO als Beweisverwertungsverbot für die Steuerstraftat" gibt es nicht und darf in der Verteidigung nicht behauptet werden.
-- **§ 30 AO** — Steuergeheimnis bindet das Finanzamt im Außenverhältnis, schafft im Strafverfahren gegen den Steuerpflichtigen **kein** Verwendungsverbot. Mitteilungen zwischen Steufa und Staatsanwaltschaft sind nach § 30 Abs. 4 Nr. 1 AO i.V.m. § 393 Abs. 3 AO zulässig.
-- **§ 136a StPO** — das übliche Beweisverwertungsverbot greift, wenn die Angaben durch verbotene Vernehmungsmethoden (Täuschung über den Beschuldigtenstatus, Verzicht auf Selbstbelastungsfreiheit) erlangt wurden. **Hier setzt die Verteidigungsstrategie an** — nicht in einem pauschalen § 393 Abs. 2 AO-Schild.
-- **§ 393 Abs. 1 S. 2 AO** — Schutz vor Selbstbelastung **im Besteuerungsverfahren**: Die Norm setzt die steuerlichen Mitwirkungspflichten **nicht generell außer Kraft**, sondern verbietet nur den Einsatz von **Zwangsmitteln** (§ 328 AO — Zwangsgeld, Ersatzzwangshaft, unmittelbarer Zwang), **soweit** der Stpfl. dadurch gezwungen würde, sich selbst wegen einer von ihm begangenen Steuerstraftat oder Steuerordnungswidrigkeit zu belasten. Die Mitwirkungspflichten der §§ 90, 93, 200 AO **bestehen fort**, nur ihre **erzwingbare Durchsetzung** ist gesperrt. Praxisfolge: Der Mandant muss z.B. die Steuererklärung weiterhin abgeben (sonst Schätzung § 162 AO, ggf. § 370 AO weitere Tat), Zwangsgeld zur Erzwingung der Erklärung ist aber nach Einleitung des Strafverfahrens unzulässig. Schätzung § 162 AO und steuerliche Festsetzungen bleiben zulässig.
-- **Trennung Mandantenakte** Steuerrecht / Strafrecht: separates Aktenführungssystem, da § 393 AO unterschiedliche Auskunfts- und Verwendungsregeln begründet (Abs. 1 versus Abs. 2).
-
-### Schritt 2 — Strategische Optionen
-
-| Option | Voraussetzungen | Wirkung |
-|---|---|---|
-| **Einstellung mangels hinreichenden Tatverdachts § 170 Abs. 2 StPO** | Beweislage unergiebig | Verfahrensende ohne Auflage |
-| **Einstellung gegen Auflage § 153a StPO** | Schuld nicht schwer, Auflage genügt öffentlichem Interesse | Verfahrensende mit Geldauflage; **kein Eintrag** ins BZR |
-| **Strafbefehl § 407 StPO** | Geldstrafe bis 360 Tagessätze oder Freiheitsstrafe bis 1 Jahr zur Bewährung | Schriftliches Verfahren; Einspruch binnen 2 Wochen |
-| **Verständigung § 257c StPO** in der Hauptverhandlung | Geständnis, Strafrahmen vereinbart | Verkürzung der HV; **Geständnisrabatt** ca. 25–33 % |
-| **Streitige Hauptverhandlung** | Beweisanträge, Gegengutachten | Volles Urteil; höchstes Risiko |
-
-### Schritt 3 — Einstellung § 153a StPO
-
-Maßstab Geldauflage **typischerweise orientiert an § 398a AO-Staffel** (auch wenn formal nicht bindend):
-
-- Hinterziehung bis 25 000 EUR: typische Auflage 0–10 % der Hinterziehung
-- Hinterziehung 25 000–100 000 EUR: 10–15 %
-- Hinterziehung 100 000–1 000 000 EUR: 15–20 %
-- Hinterziehung > 1 000 000 EUR: 20 % + zusätzliche Bedingungen
-
-**Voraussetzungen für § 153a StPO bei Hinterziehung:**
-
-- Schuld **nicht schwer** (Abgrenzung zu § 370 Abs. 3 AO besonders schwerer Fall, regelmäßig ausgeschlossen bei großem Ausmaß ≥ 50 000 EUR pro Tat).
-- Geldauflage bezahlbar (Wirtschaftliche Verhältnisse einbeziehen).
-- Steuerschaden voll bezahlt oder Ratenplan.
-
-### Schritt 4 — Verständigung § 257c StPO
-
-- **Belehrung des Mandanten** über § 257c Abs. 5 StPO (Belehrung über Bindungsausnahmen; bei Verstoß kein Geständniswert).
-- **Verständigungsinhalt** auf Strafrahmen und ggf. Einstellung von Nebenfolgen, **nicht** auf Schuldspruch.
-- **Geständnis** sollte **nach Beweisaufnahme zumindest Teil-Geständnis** sein; Vorab-Geständnis ohne Akteneinsicht ist riskant.
-- **Aktennotiz und Mandantenbelehrung** schriftlich dokumentieren.
-
-### Schritt 5 — Steuerschaden vorab regeln
-
-Frühe Begleichung des Steuerschadens (Hauptforderung + Zinsen § 235 AO + Säumniszuschläge) ist **strafmildernd** (BGH 1 StR 373/15) und in der Praxis Voraussetzung für § 153a StPO.
-
-### Schritt 6 — Parallele Selbstanzeige § 371 AO
-
-Wenn Mandant Selbstanzeige für **weitere, dem Strafverfahren nicht bekannte** Veranlagungszeiträume oder Steuerarten erwägt:
-
-- **Sperrwirkung § 371 Abs. 2 AO** prüfen: Bekanntgabe Strafverfahren sperrt nur **innerhalb derselben Steuerart und desselben Veranlagungszeitraums**, nicht systemisch.
-- **Reichweite** und Risiken: Selbstanzeige könnte Tatentdeckung dort signalisieren — sorgfältige Auswahl.
-- **Synergie**: vollständige Steuerschadenbegleichung über alle Jahre erleichtert § 153a StPO oder Verständigung.
-- Vgl. `anw-selbstanzeige-371` für die strafbefreiende Selbstanzeige außerhalb des Verfahrens.
-
-### Schritt 7 — Verteidigungsschrift und Beweisanträge
-
-Falls streitige HV: Beweisanträge auf
-
-- Schätzungsmängel § 162 AO (Schätzung statt Erklärung — Verfahrensfehler?)
-- Verfahrensverletzung Steufa (rechtswidrige Durchsuchung, fehlende Pflichtbelehrung § 397 AO)
-- Sachverständigenbeweis zur Steuerart-spezifischen Berechnung
-- Zeugen aus Steuerverwaltung (Verfahrenshergang Außenprüfung → Strafverfahren-Übergang § 397 AO)
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
+| Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| Großes Ausmaß ≥ 50 000 EUR/Tat | § 370 Abs. 3 AO; § 153a kaum möglich | Grenzfall, Steuerschaden früh tilgen | unter Schwelle |
-| Mehrere Steuerarten / Jahre | Tatmehrheit; Strafrahmen-Addition (BGH 1 StR 631/10) | Tateinheit prüfen | eine Tat |
-| Steuerschaden nicht beglichen | § 153a unwahrscheinlich; Strafzumessung schlecht | Ratenplan in Arbeit | voll bezahlt |
-| Mandant unkooperativ in HV | Verständigung gefährdet | Bedenken | volles Geständnis möglich |
-| Parallel-Selbstanzeige unbedacht | Sperrwirkung; Risiko zusätzlicher Verfahren | Sperre teils geprüft | Selbstanzeige mit System |
+| BGH 1 StR 577/09 | BGHSt 55, 180 | 20.05.2010 | Vollständigkeitsgebot Selbstanzeige; auch maßgeblich für Bewertung im Strafverfahren |
+| BGH 1 StR 631/10 | NJW 2012, 1165 | 25.07.2011 | Tateinheit/-mehrheit bei mehreren Hinterziehungstaten je Steuerart und Veranlagungszeitraum |
+| BGH 1 StR 373/15 | NJW 2015, 3595 | 27.10.2015 | Strafzumessung; großes Ausmaß ab 50.000 EUR pro Tat; § 370 Abs. 3 AO |
+| BGH 1 StR 525/11 | NJW 2012, 2370 | 07.02.2012 | Verständigung § 257c StPO; Belehrungspflicht und Reichweite; kein Schuldspruch-Gegenstand |
+| BVerfG 2 BvR 2628/10 | BVerfGE 133, 168 | 19.03.2013 | Verfassungskonforme Grenzen § 257c StPO; Schuldspruch nicht verhandelbar |
+| BGH 1 StR 219/20 | NJW 2021, 234 | 01.10.2020 | Steuerverkürzung als Strafzumessungsfaktor bei Mehrfach-Taten |
+| BGH 1 StR 191/04 | NJW 2005, 1307 | 12.01.2005 | § 393 Abs. 2 AO; Verwendungsverbot nur für steuerfremde Delikte; Steuerstraftat selbst nicht geschützt |
 
-## Querverweise
+## Prüfschema Steuerstrafverteidigung
 
-- `anw-selbstanzeige-371` — strafbefreiende Selbstanzeige außerhalb des laufenden Verfahrens
-- `anw-aussenpruefung-strategien` — typischer Einstieg über Außenprüfung mit Verdachtsschöpfung
-- `anw-akteneinsicht-steuerakte` — Beweisbeschaffung
-- `fachanwalt-strafrecht` — bei Vollmandat zur Strafverteidigung
 
-## Quellen und Updates
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-Stand: 05/2026. § 147 StPO-Reform 2017 berücksichtigt. § 257c StPO mit BVerfG-Belehrungs-Rspr. Selbstanzeige § 371 AO i.V.m. § 398a AO-Staffel (10/15/20 %) als Maßstab für § 153a-Auflage. Bei Reform StPO/AO oder neuer BGH-Linie zur Verständigung aktualisieren.
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Ermittlungsstand | Phase des Verfahrens; § 397 Abs. 3 AO Einleitungsbekanntgabe | Verfahrensstadium |
+| 2 | Akteneinsicht § 147 StPO | Vollständige Akteneinsicht; Steufa-Datenträger anfordern; BGH-Reform 2017 | Beweislage klären |
+| 3 | Hinterziehungsberechnung | Steufa-Berechnung vs. eigene Nachberechnung; Schätzungsgrundlage § 162 AO | Angriffspunkte |
+| 4 | § 393 AO Trennungsgebot | Abs. 1: Zwangsfreiheit im Besteuerungsverfahren; Abs. 2: Verwendungsverbot nur für steuerfremde Delikte | Nicht überdehnen |
+| 5 | Tateinheit/-mehrheit | BGH 1 StR 631/10: je Steuerart + Veranlagungszeitraum = separate Tat; Tateinheit prüfen | Strafrahmen-Konsequenz |
+| 6 | Großes Ausmaß § 370 Abs. 3 AO | ≥ 50.000 EUR pro Tat → besonders schwerer Fall; § 153a StPO kaum möglich | Strategie-Weichenstellung |
+| 7 | Strategische Option wählen | § 170 Abs. 2 StPO (Einstellung mangels Verdacht) / § 153a StPO / Strafbefehl / § 257c StPO / HV | Bestes Ergebnis |
+| 8 | § 153a StPO-Auflage berechnen | Orientierung § 398a AO-Staffel; Hinterziehungsbetrag; wirtschaftliche Verhältnisse | Geldauflage-Rahmen |
+| 9 | Steuerschaden begleichen | Frühe Zahlung strafmildernd; Voraussetzung für § 153a; Zinsen § 235 AO + Säumniszuschläge | Zahlungsnachweis |
+| 10 | § 257c StPO-Verständigung | Geständnis; Strafrahmen vereinbaren; Belehrung § 257c Abs. 5 StPO; Aktennotiz | Schriftlich dokumentieren |
+| 11 | Selbstanzeige § 371 AO parallel | Sperrwirkung § 371 Abs. 2 AO prüfen; nur für weitere VZ/Steuerarten außerhalb laufender Verfahren | Synergie nutzen |
+| 12 | Beweisanträge HV | Schätzungsmängel § 162 AO; Verfahrensverletzung Steufa; SV-Gutachten Steuerberechnung | Bei streitiger HV |
+| 13 | Verjährung prüfen | § 376 AO: 10 Jahre (normal), 15 Jahre (§ 370 Abs. 3 AO); Beginn bei Beendigung | Verjährungseinrede |
+| 14 | Mandantenbelehrung | Vor Geständnis/Verständigung schriftliche Belehrung über § 257c Abs. 5 StPO; Risiken | Dokumentation |
+| 15 | Abschluss und Dokumentation | Ergebnis; Zahlungsnachweis; Einstellungsbeschluss; Akte schließen | Mandatsabschluss |
+
+## Beweislast
+
+| Beweisthema | Beweislastträger | Beweismittel |
+|---|---|---|
+| Hinterziehungsbetrag | Staatsanwaltschaft / Steufa | Steuerakte, Außenprüfungsbericht, Bankdaten |
+| Vorsatz § 370 AO | Staatsanwaltschaft | Korrespondenz, Aussagen, Buchführung |
+| Strafmilderungsgrund Zahlung | Mandant | Überweisungsbelege, Zahlungsbestätigung FA |
+| Tateinheit vs. Tatmehrheit | Verteidigung (Argumentation) | Verfahrensakte, BGH 1 StR 631/10-Schema |
+| Selbstanzeige vollständig § 371 AO | Mandant | Selbstanzeigeschreiben; Zahlung binnen Frist |
+| Verjährung | Verteidigung | Steuerakten; Tatbeendigungsdatum |
+
+## Fristen und Verjährung
+
+| Frist | Grundlage | Lauf | Hinweis |
+|---|---|---|---|
+| Verfolgungsverjährung normal | § 376 AO | 10 Jahre ab Tatbeendigung | Tatbeendigung = Steuerfestsetzung bzw. Unterlassen |
+| Verfolgungsverjährung besonders schwerer Fall | § 376 AO | 15 Jahre ab Tatbeendigung | § 370 Abs. 3 AO-Tatbestände |
+| Selbstanzeige-Nachzahlung § 398a AO | § 371 Abs. 3 AO | Innerhalb der vom FA gesetzten Frist (typisch 30 Tage) | Fristversäumnis = kein Strafbarkeitsausschluss |
+| Einspruch gegen Strafbefehl | § 410 StPO | 2 Wochen ab Zustellung | Keine Verlängerung |
+| Beschwerde gegen Haftbefehl | § 304 StPO | 2 Wochen | Sofort nach Erlass |
+
+## Typische Gegenargumente
+
+| Gegenargument StA/Steufa | Erwiderung der Verteidigung |
+|---|---|
+| "§ 393 Abs. 2 AO schützt gegen Steuerakte" | BGH 1 StR 191/04: Verwendungsverbot gilt nur für steuerfremde Delikte; für Steuerstraftat selbst keine Sperre |
+| "Großes Ausmaß — § 153a ausgeschlossen" | BGH 1 StR 373/15: Schwelle 50.000 EUR pro Tat; Tateinheit kann Schwelle unterschreiten; frühe Zahlung kann mildern |
+| "Tateinheit — ein einheitlicher Vorsatz" | BGH 1 StR 631/10: je Steuerart und VZ separate Tat; Tatmehrheit regelmäßig; strukturell trennen |
+| "Geständnis vor Akteneinsicht erforderlich" | Akteneinsicht erst; dann substanziiertes Teil-Geständnis; Vorab-Geständnis ohne Akte riskant |
+| "Selbstanzeige gesperrt — Verfahren läuft" | Sperrung nur für dieselbe Steuerart und denselben VZ; andere VZ oder Steuerarten noch selbstanzeigefähig |
+| "Schätzung § 162 AO methodisch korrekt" | Schätzungsmethode konkret angreifen; Konkretnachweise für niedrigere tatsächliche Einkünfte vorlegen |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Steuerstrafverteidigung mit Verstaendigungsoption | Verteidigungs-Strategie nach Schema; Schriftsatz unten |
+| Variante A — Mandant will Selbstanzeige als Weg | Selbstanzeige § 371 AO zuerst; Verstaendigung danach |
+| Variante B — Steuerdelikte mit Geldwaesche-Bezug | Geldwaesche-Skill parallel; Gesamtstrategie koordinieren |
+| Variante C — Mandant will auf keinen Fall Verurteilung riskieren | Einstellungs-Strategie § 153a StPO pruefen; Verstaendigung nur alternativ |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1: Schutzschrift zur Vorbereitung einer Einstellung § 153a StPO
+
+```
+An die Staatsanwaltschaft [Ort]
+Aktenzeichen: [Az. StA]
+
+In der Strafsache gegen [Beschuldigter Name], [Az.]
+
+Stellungnahme zur Beweislage und Anregung Einstellung § 153a StPO
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten Herrn/Frau [Name] in dem o.g. Verfahren.
+Namens und in Vollmacht geben wir folgende Stellungnahme ab:
+
+I. Zur Beweislage
+
+Der Beschuldigte hat die Steuerhinterziehung in den
+Veranlagungszeiträumen [Jahre] dem Grunde nach eingeräumt.
+Dem Beschuldigten wurde vorgeworfen, Einnahmen aus [Tätigkeit]
+in Höhe von EUR [Steufa-Betrag] nicht erklärt zu haben.
+
+Tatsächlich beläuft sich der zutreffende Hinterziehungsbetrag
+jedoch auf EUR [niedrigerer Betrag], weil:
+1. [Betrag] entfällt auf Ausgaben die fälschlicherweise nicht
+   als Betriebsausgaben erfasst wurden;
+2. [Betrag] betrifft den VZ [Jahr], für den Verjährung
+   (§ 376 AO) eingetreten ist;
+3. [Betrag] entstammt einer Schätzung nach § 162 AO, die
+   methodisch angreifbar ist (Begründung: ...).
+
+II. Zum Steuerschaden und seiner Begleichung
+
+Der Beschuldigte hat den von uns errechneten zutreffenden
+Steuerschaden in Höhe von EUR [Betrag] mit Überweisung vom
+[Datum] (Anlage 1) vollständig beglichen zuzüglich der Zinsen
+nach § 235 AO (EUR [Betrag]) und Säumniszuschläge (EUR [Betrag]).
+
+III. Anregung Einstellung § 153a StPO
+
+Wir regen die Einstellung des Verfahrens gegen eine Geldauflage
+gemäß § 153a StPO an. Die Voraussetzungen liegen vor:
+
+1. Die Schuld des Beschuldigten ist, gemessen am
+   tatsächlichen Hinterziehungsbetrag von EUR [Betrag],
+   nicht schwer.
+2. Der Steuerschaden ist vollständig beglichen.
+3. Der Beschuldigte ist nicht vorbestraft.
+4. Das öffentliche Interesse an der Strafverfolgung ist
+   durch die vollständige Schadensbegleichung hinreichend
+   gewahrt.
+
+Wir schlagen eine Geldauflage von EUR [Betrag] (ca. [X] %
+des Hinterziehungsbetrags; orientiert an § 398a AO-Staffel)
+vor und bitten um Rückmeldung.
+
+Anlage 1: Überweisungsbeleg Steuerschadenbegleichung
+Anlage 2: Neuberechnung Hinterziehungsbetrag
+Anlage 3: Vollmacht
+```
+
+### Baustein 2: Verständigungsgespräch-Protokoll § 257c StPO
+
+```
+PROTOKOLL VERSTÄNDIGUNGSGESPRÄCH
+§ 257c StPO — Vertraulich
+
+Datum: [Datum]
+Teilnehmer: RA [Name] (Verteidiger), Staatsanwalt [Name] (StA),
+            Richter [Name] (Gericht), ggf. Beschuldigter
+
+1. Sachverhalt des vorgeworfenen Verhaltens: [kurze Darstellung]
+
+2. Umfang des Geständnisses:
+   Der Beschuldigte hat bereit erklärt, folgende Taten zu gestehen:
+   [VZ X: Steuerart A, Betrag EUR y]
+   [VZ Y: Steuerart B, Betrag EUR z]
+
+3. Strafrahmen-Vereinbarung:
+   Einigkeit über Strafrahmen von [x] bis [y] Tagessätzen bzw.
+   Freiheitsstrafe [a]–[b] Monate auf Bewährung.
+   Voraussetzung: Vollständige Zahlung Steuerschaden bis [Datum].
+
+4. Belehrung nach § 257c Abs. 5 StPO:
+   Der Beschuldigte wurde belehrt, dass das Gericht nicht an die
+   Verständigung gebunden ist, wenn es bei der Urteilsfindung
+   von einer in der Verständigung zu Grunde gelegten Bewertung
+   des Sachverhalts oder der Rechtslage abweicht. Der
+   Beschuldigte hat diese Belehrung zur Kenntnis genommen und
+   auf das Gespräch-Ergebnis hingewiesen.
+
+5. Unterschriften:
+   RA [Name]: _____________
+   Beschuldigter: _____________
+   StA [Name]: _____________
+```
+
+### Baustein 3: Antrag auf Akteneinsicht § 147 StPO
+
+```
+An die Staatsanwaltschaft [Ort]
+Az: [Steuerstrafverfahren]
+
+Antrag auf vollständige Akteneinsicht § 147 StPO
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten Herrn/Frau [Name] in dem oben bezeichneten Verfahren.
+
+Wir beantragen vollständige Akteneinsicht nach § 147 Abs. 1 StPO,
+umfassend:
+
+1. Die vollständige Strafakte mit allen Ermittlungsunterlagen;
+2. Die vollständigen Steuerakten einschließlich Außenprüfungsbericht
+   und Kontrollmitteilungen;
+3. Alle Steufa-Datenträger (USB, CD/DVD, elektronische Dateien)
+   die zur Ermittlung des Hinterziehungsbetrags herangezogen wurden;
+4. Sämtliche Bankabfragen und Kontrollmitteilungen.
+
+Wir weisen darauf hin, dass ohne vollständige Akteneinsicht keine
+sachgerechte Verteidigung möglich ist (§ 137 StPO) und sämtliche
+Erklärungen — insbesondere etwaige Geständnisse — bis zur
+vollständigen Akteneinsicht unter Vorbehalt stehen.
+
+Mit freundlichen Grüßen
+[RA]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Streitwert und Kosten
+
+| Position | Berechnung | Hinweis |
+|---|---|---|
+| RVG-Grundgebühr Nr. 4100 VV | Pflichtverteidigungs-Vergütung als Mindest; höhere Vereinbarung sinnvoll | Steuerstrafverfahren komplex |
+| Gesonderte Vergütungsvereinbarung | Stundensatz EUR 300–500/h; Verfahrensgebühr Nr. 4112 VV RVG + Zuschläge | Bei Hinterziehung > EUR 100.000 empfohlen |
+| Kosten HV wenn keine Einstellung | Nr. 4118 VV; pro HV-Tag gesondert | HV-Termingebühren |
+| § 153a StPO-Auflage Eigenanteil | EUR 5.000–200.000+ je nach Hinterziehungsbetrag | Wirtschaftliche Verhältnisse des Mandanten einbeziehen |
+| Steuerschaden + Zinsen § 235 AO | Hinterziehungsbetrag × Zinssatz × Hinterziehungsjahre; ca. 1.8 %/Jahr | Vorab genau beziffern |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Hinterziehung < 50.000 EUR pro Tat, gezahlt | § 153a StPO anstreben; Einstellung ohne Hauptverhandlung; kein BZR-Eintrag |
+| Hinterziehung 50.000–500.000 EUR | § 153a prüfen; ggf. Strafbefehl; ggf. § 257c StPO; Steuerschaden vorab zahlen |
+| Hinterziehung > 500.000 EUR | § 370 Abs. 3 AO besonders schwerer Fall; § 257c StPO-Verständigung realistisch; keine § 153a |
+| Beweislage schwach (Schätzung § 162) | § 170 Abs. 2 StPO-Einstellung anstreben; Schätzungsmängel substanziiert angreifen |
+| Mandant will alles bestreiten | Akteneinsicht vollständig; Beweisanträge HV; Risiko der HV erläutern |
+| Selbstanzeige für andere VZ parallel | Abstimmung mit StA-Verfahren; § 371 Abs. 2 AO-Sperrwirkung genau prüfen |
+
+## Anschluss-Skills
+
+- `anw-insolvenzreife-pruefung-17-19-inso` — wenn GF gleichzeitig § 15a InsO-Pflicht hat
+- `stb-bwa-sus-bilanz-pruefung` — Ausgangsdaten für Hinterziehungsberechnung
+
+## Quellen
+
+- AO §§ 162, 222, 370, 371, 376, 378, 393, 397, 398a
+- StPO §§ 147, 153a, 257c, 304, 407, 410
+- BGH 1 StR 577/09 = BGHSt 55, 180
+- BGH 1 StR 631/10 = NJW 2012, 1165
+- BGH 1 StR 373/15 = NJW 2015, 3595
+- BGH 1 StR 525/11 = NJW 2012, 2370
+- BGH 1 StR 191/04 = NJW 2005, 1307
+- BVerfG 2 BvR 2628/10 = BVerfGE 133, 168
+- BGH 1 StR 219/20 = NJW 2021, 234
+- Joecks/Jaeger/Randt, Steuerstrafrecht, 8. Aufl. 2015, § 393 Rn. 81 ff.

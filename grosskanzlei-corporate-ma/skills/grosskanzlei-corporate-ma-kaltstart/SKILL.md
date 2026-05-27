@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-kaltstart
-description: "Deal-Kaltstart: Nimmt Kanzlei- und Mandantenpraeferenzen für Corporate/M&A auf: Dealtypen, Playbooks, Materiality, Reporting, Abrechnung, KI-Governance und Sicherheitsregeln."
+description: "Kanzlei- und Mandantenpraeferenzen fuer Corporate/M&A erfassen: Anwendungsfall bei erstem Einsatz des Plugins konfiguriert Anwalt oder Kanzlei Deal-Playbooks, Materiality-Schwellen, Reporting-Standards, Abrechnungsmodell und KI-Governance. § 3a RVG Honorarvereinbarung, BRAO Berufsrecht. Pruefraster Dealtypen-Profil, Buy-side/Sell-side-Praeferenz, Standardschwellen, Datenraum-Praeferenzen, Berichtsformate, Sicherheitsregeln. Output konfiguriertes Kanzlei-Profil mit Playbook-Grundeinstellungen. Abgrenzung zu Deal-Intake fuer konkrete neue Mandate und zu KI-Governance-Berufsrecht."
 ---
 
 # Deal-Kaltstart
@@ -39,3 +39,24 @@ Nimmt Kanzlei- und Mandantenpräferenzen für Corporate/M&A auf: Dealtypen, Play
 
 - assets/templates/deal-kaltstart-profil.md
 - assets/templates/authority-matrix.md
+
+## Rechtliche Einbettung und Praxiswissen
+
+### Normen und Quellen im M&A-Kontext
+- § 43a BRAO — anwaltliche Sorgfaltspflichten: vollstaendige Mandatsfuehrung; Unterlassen kann Haftung ausloesen
+- §§ 675, 280 BGB — Beratungsvertrag und Schadensersatz: Anwalt haftet bei Pflichtverletzung; gilt auch fuer Organisation und Kommunikation
+- § 2 GmbHG; § 15 GmbHG — gesellschaftsrechtliche Grundlagen GmbH: relevant fuer alle Corporate-Mandate
+- §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen ueber eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
+
+### Leitsaetze aus der Rechtsprechung
+- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — anwaltliche Haftung: vollstaendige Information des Mandanten ueber alle wesentlichen Risiken ist Kernpflicht; auch bei Zeitdruck
+- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — DD-Ergebnis muss vollstaendig in Beratungsleistung einfliessen; Luecken begruenden Schadensersatz
+
+### Kommentarliteratur
+- Schramm/Alexander, BRAO, § 43a Rn. 1-50 (anwaltliche Sorgfaltspflicht)
+- Picot, Unternehmenskauf, Kapitel 1 (Transaktionsmanagement, Mandatsfuehrung), 5. Auflage
+
+### Qualitaetssicherung
+- Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
+- Senior Review vor Weiterleitung an Mandant oder Gegenseite
+- Dokumentation: Datum, Bearbeiter, Version, Freigabe

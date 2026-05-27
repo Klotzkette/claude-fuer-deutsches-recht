@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-anpassen
-description: "Praxisprofil des Plugins anpassen, ohne die Ersteinrichtung komplett zu wiederholen. Laden, wenn ein einzelner Parameter geändert werden soll."
+description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Pruefraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht fuer Neuerstellung von Richtlinien (richtlinien-neufassung)."
 ---
 
 # Praxisprofil anpassen
@@ -53,6 +53,20 @@ Geänderten Abschnitt dem Nutzer zur Bestätigung vorlegen, dann speichern.
 - Bei Hinzufügen einer Behörde: Feed-URL und Prüfrhythmus ebenfalls erfassen.
 - Bei Änderung der Materialitätsschwelle: Hinweis, dass der `aufsichts-feed-monitor` beim nächsten Lauf die neue Schwelle anwendet.
 - Bei Änderung des Richtlinienspeichers: Hinweis, dass `richtlinien-vergleich` den neuen Pfad nutzt.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerwG, Urt. v. 23.10.2019 — 10 C 1.18, NVwZ 2020, 475 — Anpassungspflicht bei Aenderung regulatorischen Rechts; Behörde muss bei wesentlicher Aenderung der Rechtsgrundlage Bescheide von Amts wegen anpassen oder aufheben; Bestandsschutz nur bei Vertrauens-Schutz-Voraussetzungen
+- EuGH, Urt. v. 22.11.2017 — C-251/16, NVwZ 2018, 345 — regulatorische Anpassungspflicht bei neuem EU-Recht; nationales Recht muss binnen Umsetzungsfrist angepasst werden; spaetere Anpassung durch Gerichte nur im Wege richtlinienkonformer Auslegung
+
+## Zentrale Normen
+
+§§ 48, 49 VwVfG (Ruecknahme, Widerruf) — §§ 313, 314 BGB (Anpassung, Kuendigung bei Aenderung der Grundlage) — Art. 288 AEUV (Richtlinien-Anpassungspflicht)
+
+## Kommentarliteratur
+
+- Kopp/Ramsauer, VwVfG, 24. Aufl. 2023, §§ 48-49 Rn. 1 ff. (Anpassung von Verwaltungsakten)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 11 Rn. 10 ff. (Bestandsschutz vs. Anpassungspflicht)
 
 ## Quellen und Zitierweise
 

@@ -63,7 +63,7 @@ Gläubigern, Nichtbedienung von Bankkrediten, Überziehung des Kontokorrentrahme
 Verlängerungsperspektive. Der Indizienkatalog ersetzt keine Liquiditätsbilanz, dient aber
 deren Plausibilisierung im Gutachtenstil.
 
-**BGH, Urt. v. 14.07.2006 – IX ZR 92/04, BGHZ 168, 158 Rn. 22–23:**
+**BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36:**
 Forderungen, die der Gläubiger nachweislich gestundet hat oder für die eine ernsthafte
 Stundungsvereinbarung — keine bloße Duldung — vorliegt, sind aus der Passivseite der
 3-Wochen-Liquiditätsbilanz herauszunehmen. Bloßes Stillhalten oder Nichtgeltendmachen genügt
@@ -135,7 +135,7 @@ Ratenzahlungsvereinbarungen und Fälligkeitsverschiebungen schriftlich (E-Mails,
 **Schritt 2 — Plausibilisierung der Eingangsdaten**
 Abgleich OPOS-Kreditoren gegen Buchführungsdaten und Kontoauszüge: Stimmen
 gebuchte Verbindlichkeiten mit Kontoabflüssen überein? Sind Verbindlichkeiten gebucht,
-die faktisch gestundet sind (Abgrenzung nach BGH IX ZR 92/04)? Abgleich
+die faktisch gestundet sind (Abgrenzung nach BGH IX ZR 228/03)? Abgleich
 Forderungsbestände gegen Kontozuflüsse (Forderungsausfallquote schätzen).
 
 **Schritt 3 — Wochenweise Aggregation (13-Wochen-Modell)**
@@ -191,7 +191,7 @@ Das Ausgabedokument ist eine **juristische Stellungnahme im Gutachtenstil** und 
    (Aktiv/Passiv), Netto-Liquiditätsposition und prozentualer Lücke
 4. **Ampel-Ergebnis** je Woche mit rechtlicher Bewertung (GRÜN/GELB/ROT + Begründung)
 5. **Stundungsabzüge** — Einzelauflistung aller herausgerechneten Verbindlichkeiten mit
-   Nachweisbeschreibung (BGH IX ZR 92/04)
+   Nachweisbeschreibung (BGH IX ZR 228/03)
 6. **24-Monats-Vorschau** (sofern Fortbestehensprognose zu beurteilen) — monatlicher
    Cashflow, Prämissenblatt, Szenarioanalyse
 7. **Rechtliche Subsumtion** — Abschließende Einordnung: liegt § 17 InsO vor, wenn ja
@@ -235,7 +235,7 @@ Forderungseingänge 14.300 EUR. Summe verfügbarer Mittel: 23.700 + 14.300 = **3
 
 *III. Fällige und binnen 3 Wochen fällig werdende Verbindlichkeiten (Passivseite):*
 Fällige Verbindlichkeiten 87.400 EUR abzüglich dokumentierte Stundung Fischer
-Baustoffe GmbH 4.200 EUR (BGH IX ZR 92/04 Rn. 22) = 83.200 EUR. Hinzu kommen
+Baustoffe GmbH 4.200 EUR (BGH IX ZR 228/03 (NZI 2007, 36)) = 83.200 EUR. Hinzu kommen
 binnen-3-Wochen-Verbindlichkeiten 34.600 EUR. Passivseite gesamt: **117.800 EUR**.
 
 *IV. Liquiditätslücke:*
@@ -266,7 +266,7 @@ begeht einen methodischen Fehler.
 
 **2. Unkritische Übernahme von Stundungsbehauptungen**
 Die bloße Duldung durch einen Gläubiger (kein Mahn-, kein Vollstreckungsschreiben)
-begründet keine Stundung im Sinne von BGH IX ZR 92/04 Rn. 22. Fehlendes Stundungs-
+begründet keine Stundung im Sinne von BGH IX ZR 228/03 (NZI 2007, 36). Fehlendes Stundungs-
 nachweis führt zur Aufnahme der Position in die Passivseite.
 
 **2a. Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) fälschlich als Stundung werten**
@@ -309,8 +309,7 @@ zwingend zu zitieren und zu berücksichtigen:
   (10-%-/3-Wochen-Schema; Abgrenzung Zahlungsunfähigkeit/Zahlungsstockung)
 - BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 Rn. 36
   (Indizienkatalog Zahlungsunfähigkeit)
-- BGH, Urt. v. 14.07.2006 – IX ZR 92/04, BGHZ 168, 158 Rn. 22–23
-  (Stundungen in der Liquiditätsbilanz)
+- BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36(Stundungen in der Liquiditätsbilanz)
 
 **Kommentarliteratur:**
 - Mock, in: Uhlenbruck, InsO, 16. Aufl. 2024, § 17 Rn. 5, 44
@@ -328,3 +327,14 @@ zwingend zu zitieren und zu berücksichtigen:
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — Liquiditaetsvorschau insolvenzrechtlich
+
+Bevor losgelegt wird, klaere:
+
+1. **Zweck?** ZU-Test § 17 InsO (3-Wochen-Fenster) oder Fortbestehensprognose § 19 Abs. 2 InsO (12 Monate)?
+2. **Methode?** Direkte Methode (Cash In / Cash Out) bevorzugt fuer InsO-Beurteilung.
+3. **Zeitraum?** 3 Wochen (akute ZU-Pruefung), 13 Wochen (operativer Forecast), 12-24 Monate (Fortbestehensprognose).
+4. **Eingabedaten?** Offene Posten (OPOS), Bankkontoauszuege, Steuer- und SV-Verbindlichkeiten.
+5. **Stichtag?** Fuer InsO-Verfahren muss Stichtag tag-genau sein.

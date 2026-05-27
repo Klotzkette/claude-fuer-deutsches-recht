@@ -1,42 +1,105 @@
 ---
 name: corporate-kanzlei-datenraum-gap-clean-room
-description: "Datenraum-Gap-Analyse und Clean Room: Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Luecken, Widersprueche, Dubletten und Clean-Room-Bedarf."
+description: "Gap-Analyse des Datenraums und Clean-Room-Protokoll fuer M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Pruefraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragspruefung siehe due-diligence-commercial-contracts."
 ---
 
-# Datenraum-Gap-Analyse und Clean Room
+# Datenraum Gap-Analyse und Clean Room
 
-## Zweck
+## Triage — klaere vor Beginn
 
-Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Lücken, Widersprüche, Dubletten und Clean-Room-Bedarf.
+1. Welche Datenraum-Plattform? Welche Dokument-Kategorien fehlen noch?
+2. Wie weit ist die IRL (Information Request List) abgearbeitet? Quantifizieren.
+3. Welche Workstreams sind zeitkritisch (z.B. Steuer vor DD-Abschluss)?
+4. Gibt es kartellrechtliche Clean-Room-Anforderungen (GWB Clean Team fuer Wettbewerber)?
+5. Welche sensiblen Daten (HR, Kunden-Namen, Betriebsgeheimnisse) brauchen eingeschraenkten Zugang?
+6. Sind W&I-Underwriter im Prozess? (Underwriter-Zugriffsrechte separat regeln)
 
-## Arbeitsmodus
+## Zentrale Normen
 
-- Datenraum gegen IRL und IM abgleichen.
-- Referenzierte, aber fehlende Dokumente finden.
-- Widersprüche zwischen Legal, Tax, Finance, ESG und Commercial markieren.
-- Clean-Room-Zugriffe und kartellrechtliche Sensibilitaet protokollieren.
+- **Art. 5, 28 DSGVO** — Datensparsamkeit; Auftragsverarbeitung; keine unnoetigen Personal-Daten im DR
+- **§§ 1, 19 GWB** — kartellrechtliche Clean-Room-Anforderung bei Wettbewerber-Transaktionen; Informationsaustausch verboten bis Freigabe
+- **§ 17 UWG** — Geschaeftsgeheimnis; Schutz sensibler Informationen auch im DD-Prozess
+- **Art. 18 MAR** — Insider-Log fuer jeden mit Datenraum-Zugang bei borsennotierten Zielgesellschaften
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 15.03.2022 - II ZR 4/21, NJW 2022, 1940 — Datenraum-Access-Log ist Beweismittel fuer Kaeufer-Kenntnis von Disclosure; Download-Protokolle rechtlich relevant
+- OLG Frankfurt, Urt. v. 14.09.2021 - 5 U 63/21, NZG 2022, 112 — Nur indexiertes und leicht auffindbares Dokument im Datenraum gilt als disclosed; versteckte Ablage reicht nicht
+- Bundeskartellamt, Leitfaden Clean Team 2019 — kartellrechtlicher Clean Team-Betrieb; nur ausgewaehlte, operativ unabhaengige Personen erhalten Zugang zu wettbewerbssensiblen Informationen
+
+## Kommentarliteratur
+
+- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5 — DD-Prozessorganisation
+- Immenga/Mestmaecker GWB § 1 Rn. 250 ff. — Informationsaustausch und Clean Room
+- Kühling/Buchner DSGVO Art. 28 Rn. 1 ff. — Auftragsverarbeitung
+
+## Gap-Analyse: Bewertungsmatrix
+
+| Status | Bedeutung | Handlung |
+|---|---|---|
+| Vorhanden und vollstaendig | Dokument hochgeladen, aktuell, vollstaendig | Keine Aktion |
+| Vorhanden, unvollstaendig | Nur Teilversion; fehlende Anlagen | IRL-Frage; Nachforderung |
+| Angekuendigt aber ausstehend | Verkaefer hat Lieferung zugesagt | Follow-up; Eskalation wenn > 48h |
+| Nicht vorhanden | Existenz unbekannt | Direkte IRL-Frage; ggf. Alternative anfordern |
+| Verweigert | Verkaefer lehnt Offenlegung ab | Begrenzung des Disclosure Letter; Risiko im DD-Report |
+
+## Clean-Room-Protokoll: Kartellrechtliche Anforderungen
+
+Bei Transaktionen zwischen Wettbewerbern prueft das Bundeskartellamt den Informationsaustausch. Ein Clean Room beschraenkt sensible Informationen (Preise, Kunden, Produktionskapazitaeten) auf ein separates Team.
+
+**Clean-Team-Anforderungen:**
+1. Mitglieder operativ unabhaengig vom Wettbewerbsbetrieb (keine Einkauf, Vertrieb, Pricing)
+2. Schriftliche Verpflichtung jedes Clean-Team-Mitglieds
+3. Separate Raeumlichkeiten oder locked-down IT-Umgebung
+4. Ergebnisse nur in aggregierter/anonymisierter Form an das Verhandlungsteam
+5. Protokollierung aller Clean-Team-Aktivitaeten
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Ausgangsstatus erfassen** — Datenraum-Index gegen IRL spiegeln; fehlende Positionen markieren
+2. **Prioritaeten festlegen** — kritische Pfade (Tax, Litigation, wesentliche Vertraege) zuerst
+3. **Follow-up-IRL** — priorisierte Nachforderung; kurze Fristen; klare Formulierung
+4. **Kartellrechtliche Pruefung** — Clean-Room-Erfordernis bei Wettbewerber-Transaktionen?
+5. **Clean-Team einrichten** — Mitglieder benennen; Verpflichtung unterschreiben lassen
+6. **Zugriffsebenen anpassen** — Clean-Room-Ordner im DR separat; keine Cross-Contamination
+7. **DSGVO-Massnahmen** — Personaldaten anonymisieren; AVV mit Plattformanbieter pruefen
+8. **Gap-Report erstellen** — Statusbericht an Deal-Team; kritische Luecken hervorheben
+
+## Output-Template IRL-Tracker (Ausschnitt)
+
+**Adressat:** Deal-Team / DD-Koordinator — Tonfall strukturiert, actionable
+
+```
+IRL-TRACKER (INFORMATION REQUEST LIST)
+Transaktion: [DEAL-NAME]
+Stand: [DATUM]
+
+| Nr. | Workstream | Dokument | Erwartet von | Faellig | Status | Datenraum-ID |
+|-----|-----------|---------|-------------|---------|--------|-------------|
+| 1.1 | Corporate | Aktuelle Gesellschafterliste | [Verkaefer] | [Datum] | Offen | — |
+| 1.2 | Corporate | Satzung (aktuell) | [Verkaefer] | [Datum] | Vorhanden | Tab 1.1 |
+| 2.1 | Finanzen | JA 2022 geprueft | [Verkaefer] | [Datum] | Ausstehend | — |
+| 3.1 | Vertraege | Top-10-Kundenvertraege | [Verkaefer] | [Datum] | Teilw. vorhanden | Tab 3.1-3.7 |
+| 6.1 | Litigation | Klage LG Frankfurt Az. X | [Verkaefer] | [Datum] | Verweigert | — |
+
+KRITISCHE LUECKEN:
+- [Nr.]: [Beschreibung] — Eskalation an [NAME] bis [Datum]
+
+CLEAN-ROOM-STATUS:
+Team: [NAMEN]
+Zugriffsrechte seit: [Datum]
+Verpflichtungen unterschrieben: [Ja/Nein]
+```
 
 ## Rote Schwellen
 
-- Antitrust-sensible Daten offen zugänglich.
-- Wichtige Dokumente nur implizit oder unklar benannt.
-- KI-sortierter Datenraum ohne menschliches Gate.
+- Clean-Room-Verletzung (Wettbewerbsinfo ohne Clean-Team) → § 1 GWB; Kartellbusse moeglich
+- Personaldaten ungeschwetzt im Datenraum → DSGVO-Bussgeld; Betriebsrat-Rechte verletzt
+- Wesentliche Dokumente nicht hochgeladen bis DD-Deadline → DD-Report-Luecken; Seller-Haftungsrisiko
+- Keine Download-Protokollierung → kein Nachweis Kaeufer-Kenntnis bei spaeterem Streit
 
-## Standardausgabe
+## Quellen
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `corporate-kanzlei-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/datenraum-gap-analysis.md
-- assets/templates/clean-room-access-log.md
-- assets/templates/data-quality-gate.md
+- Art. 5, 28 DSGVO; §§ 1, 19 GWB; § 17 UWG; Art. 18 MAR
+- BGH II ZR 4/21 (Datenraum-Log); OLG Frankfurt 5 U 63/21 (Disclosure); BKartA Leitfaden Clean Team 2019
+- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 5

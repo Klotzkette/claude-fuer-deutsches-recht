@@ -149,8 +149,7 @@ Zitierweise: Pinpoint mit Randnummer; Reihenfolge BGH-Datum (jüngere zuerst), k
 ## Typische Fehler
 
 - **Voll ausgeschöpften Kontokorrent als Liquidität ansetzen**: Nur ungenutzter, zugesagter und ziehungsfähiger Teil zählt.
-- **Faktische Duldung des Zahlungsverzugs als Stundung werten**: Beseitigt die Fälligkeit nicht — BGH, Urt. v. 14.07.2006 – IX ZR 92/04, BGHZ 168, 158 Rn. 21 ff.
-- **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung, lässt die Fälligkeit der Steuerforderung unberührt. AdV-Beträge bleiben **Passiva I**, soweit nicht zusätzlich eine schriftliche Stundung nach § 222 AO mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
+- **Faktische Duldung des Zahlungsverzugs als Stundung werten**: Beseitigt die Fälligkeit nicht — BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36**Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung, lässt die Fälligkeit der Steuerforderung unberührt. AdV-Beträge bleiben **Passiva I**, soweit nicht zusätzlich eine schriftliche Stundung nach § 222 AO mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
 - **Großeingänge zu 100 % ansetzen**: Realistische Ausfall- und Skontoquote, im Zweifel Worst Case.
 - **3-Wochen-Frist statisch ab Planerstellung rechnen**: Sie läuft ab Eintritt der Zahlungsunfähigkeit.
 - **SV- und Lohnsteuer-Rückstände kleinreden**: Starke Indizien und persönlich haftungsauslösend.
@@ -170,3 +169,36 @@ Bei 🔴 sofort:
 - `liquiditaetsvorschau-insolvenzrechtlich` (dieses Plugin) — Liquiditätsbilanz als Beweismittel mit IDW-S-11-Würdigung.
 
 Für die mittel- und langfristige Sicht: Schwester-Skill `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin).
+
+
+## Triage — Liquiditaetsvorschau Einordnung
+
+Bevor losgelegt wird, klaere:
+
+1. **Zweck der Vorschau?** ZU-Pruefung § 17 InsO (3-Wochen-Fenster) → insolvenzrechtliche Vorschau; Fortbestehensprognose § 19 InsO (12 Monate); Glaeubigernachweis (13-Wochen-Vorschau); Bankverhandlung (24 Monate)?
+2. **Methode?** Direkte Methode (Cash-In / Cash-Out) fuer insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) fuer langfristige Unternehmensplanung.
+3. **Datenbasis?** OPOS (offene Posten), Kontoauszuege, Steuer- und SV-Verbindlichkeiten — alle aktuell?
+4. **Stichtag?** Fuer InsO-Beurteilung tag-genau festlegen; fuer Prognose ab aktuellem Tag.
+5. **Sanierungsmassnahmen einbeziehen?** Stundungen, Zuschuss, neue Kreditlinie — nur wenn verbindlich zugesagt.
+
+## Output-Template 13-Wochen-Liquiditaetsvorschau
+
+**Adressat:** Insolvenzgericht / Glaeubigerausschuss / Bank — Tonfall: sachlich-betriebswirtschaftlich
+
+```
+13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
+Gesellschaft: [FIRMA]    Erstellt: [DATUM]    Ersteller: [NAME]
+
+Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
+  1   |   EUR [XXX]    |  EUR [YYY]   |  EUR [ZZZ]   |  EUR [AAA] |  EUR [BBB]  |  EUR [CCC]
+  2   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+ 13   |   ...          |  ...         |  ...         |  ...       |  ...        |  ...
+
+AMPEL-STATUS:
+Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]
+Wochen 5-9 (mittelfristig): [...]
+Wochen 10-13 (langfristig): [...]
+
+ENGPAESSE: [Beschreibung kritischer Wochen und Gegenmassnahmen]
+ANNAHMEN: [Auflistung der Schluesselannahmen]
+```

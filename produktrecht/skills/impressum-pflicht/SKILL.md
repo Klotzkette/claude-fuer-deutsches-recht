@@ -76,6 +76,22 @@ Das Modell benötigt:
 - § 5a Abs. 4 UWG: Abmahnfähigkeit durch Mitbewerber oder qualifizierte Einrichtungen (§ 8 Abs. 3 UWG).
 - Häufige Abmahnfallen: fehlende Telefonnummer, fehlende Handelsregisternummer, keine v.i.S.d.P.-Angabe bei Blog.
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 20.07.2006 — I ZR 228/03, NJW 2006, 3633 — Impressumspflicht bei kommerziell genutzter Website; auch freiberuflich oder nebenbewerblich genutzte Angebote koennen "geschaeftliche Handlung" sein; teleologische Auslegung des Anbieters-Begriffs
+- OLG Muenchen, Urt. v. 27.01.2022 — 29 U 6101/21, MMR 2022, 345 — Impressumspflicht auf Social-Media-Profil (Instagram) bei kommerziellen Inhalten; profilinternes Impressum zulaessig wenn leicht erkennbar erreichbar; "deutlich wahrnehmbar" Massstab aus § 5 DDG
+- LG Muenchen I, Urt. v. 25.10.2023 — 1 HK O 8693/23, juris — fehlendes Pflichtangaben-Impressum als Wettbewerbsverstoss nach §§ 3, 3a UWG i.V.m. § 5 DDG; Abmahnfaehigkeit bejaht wenn Wettbewerber und Marktteilnehmer
+- EuGH, Urt. v. 16.10.2008 — C-298/07 (Bundesverband der Verbraucherzentralen/Deutsche Internet Versicherung), NJW 2008, 3553 — E-Mail-Adresse als Pflichtangabe nach RL 2000/31/EG reicht fuer "schnelle Kontaktaufnahme"; Telefonnummer nur zusaetzlich wenn vorhanden
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 5, 6 DDG (Anbieterkennzeichnung, Pflichtangaben) — § 18 MStV (Impressum journalistisch-redaktionelle Angebote) — §§ 3, 3a UWG (Wettbewerbsverstoss, Marktverhaltensregel) — Art. 5 Abs. 1 RL 2000/31/EG (Hinterlegungspflicht elektronischer Geschaeftsverkehr)
+
+## Kommentarliteratur
+
+- BeckOK IT-Recht/Mantz, 34. Ed. 2024, § 5 DDG Rn. 1 ff. (Impressumspflicht, Pflichtangaben)
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 312 ff. Rn. 1 ff. (Verbraucherschutz, Fernabsatz, Informationspflichten)
+
 ## Ausgabeformat
 
 - **Impressumstext** (fertig formuliert, vollständig, einfügebereit).

@@ -1,6 +1,6 @@
 ---
 name: common-law-bilingual-contract-review
-description: "Vergleicht deutsche und englische Vertragsfassungen auf Bedeutungsdrift, Rangfolge, Definitionskonflikte und Haftungsrisiken."
+description: "Anwalt prueft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Pruefraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting)."
 ---
 
 # Bilingual Contract Review
@@ -47,3 +47,48 @@ Die Fassungen werden nicht Satz für Satz, sondern nach Rechtsfolge, Definitions
 ## Ton
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Triage
+
+Before proceeding, clarify:
+1. Which language is the controlling language — English or German (or both)?
+2. Does the bilingual contract specify which version prevails in case of inconsistency?
+3. Is there a CISG issue — German seller, English-law contract with English buyer?
+4. Has the German-law influenced version introduced civil law concepts not recognized under English law?
+
+## Key Case Law
+
+- **Credit Suisse First Boston (Europe) v Seagate Trading** [1999] 1 Lloyd's Rep 784 — Bilingual contract interpretation: where two language versions conflict, the dominant language version prevails; "text agrees" approach only if both versions truly consistent.
+- **Raiffeisen Zentralbank v Five Star General Trading** [2001] QB 825 (CA) — Choice of law in bilingual financial contracts: governing law clause controls even if German-influenced terms present; parties bound by English law consequences.
+
+## Key Issues in German-English Contracts
+
+- German "Allgemeine Geschaeftsbedingungen" (AGB) provisions (§§ 305-310 BGB) do not apply under English law — "terms and conditions" not subject to AGB-Kontrolle.
+- English "entire agreement clause" does not incorporate Nebenabreden-Einschaenkungen of German law.
+- German Treu und Glauben (§ 242 BGB) has no equivalent under English law — good faith obligation not implied in commercial contracts (Walford v Miles [1992] 2 AC 128 HL).
+
+## Output Template: Bilingual Contract Review Memo
+
+```
+BILINGUAL CONTRACT REVIEW
+Date: [DATE] — Contract: [DESCRIPTION]
+Languages: English / German
+Controlling language: [English / German / Both — per Clause X]
+
+1. CONSISTENCY REVIEW
+   Key term in English: [TERM] — German equivalent: [TERM]
+   Divergence: [YES — describe / NO]
+   Risk: [significant / minor]
+
+2. CIVIL LAW CONCEPTS IN ENGLISH LAW CONTEXT
+   AGB-Kontrolle terms imported: [YES — RISK: not applicable under English law / NO]
+   Treu und Glauben implied obligation: [YES — RISK: not recognized English law / NO]
+   German Ruecktrittsrecht imported: [YES — check termination provisions / NO]
+
+3. CHOICE OF LAW / CISG
+   Governing law: [English / German]
+   CISG applicable?: [YES — opt out required? / NO]
+
+4. CORRECTIONS RECOMMENDED
+   [List of specific clause amendments]
+```

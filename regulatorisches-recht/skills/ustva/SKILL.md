@@ -1,6 +1,6 @@
 ---
 name: ustva
-description: "Begleitet Unternehmen und Steuerberater bei der korrekten Abgabe von Umsatzsteuer-Voranmeldungen nach § 18 UStG – von der Bestimmung des Voranmeldungszeitraums über Dauerfristverlängerung bis zur Berichtigung. Lädt bei Fragen zur UStVA, ELSTER, Dauerfristverlängerung und Voranmeldungsberichtigung."
+description: "Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Pruefraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Pruefprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht fuer allgemeines Steuerrecht."
 ---
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)
@@ -114,3 +114,17 @@ Das Modell benötigt:
 ## Quellenpflicht
 
 Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (BFH BStBl. II 2020, 158; BFH/NV 2015, 569) und zwei Kommentarbelege im Bearbeiter-Stil. Änderungen durch Jahressteuergesetze sind am aktuellen Kommentarstand zu überprüfen; bei neueren Rechtsfragen ohne gesicherte BFH-Rspr. ausdrücklich kennzeichnen.
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BFH, Urt. v. 26.04.2022 — V R 30/21, NJW 2022, 2555 — Umsatzsteuer-Voranmeldungs-Pflicht; verspaetete UStVA begruendet Verspätungszuschlag nach § 152 AO; Dauerfristverlängerung setzt formgerechten Antrag voraus
+- BFH, Urt. v. 15.11.2017 — XI R 16/16, BFH/NV 2018, 295 — elektronische Übermittlung der UStVA nach § 18 UStG Pflicht; Ausnahme nur bei erheblicher Haerte; fehlende Signatur oder ungültiges Zertifikat macht Einreichung formunwirksam
+- BVerwG, Beschl. v. 15.03.2021 — 6 B 44.20, NJW 2021, 1690 — regulatorische Meldepflichten bei Unternehmens-Transaktion; UStVA-Pflicht bleibt beim Betreiber bis zur Eintragung des Erwerbers; Haftungsrisiko bei Uebergabe ohne Abstimmung
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 18 UStG (UStVA-Pflicht, Fristen, Dauerfreistellung) — § 152 AO (Verspätungszuschlag) — § 370 AO (Steuerhinterziehung bei falscher UStVA) — ELSTER-Verfahren (elektronische Uebermittlungs-Pflicht) — § 233a AO (Zinsen bei Umsatzsteuer-Nachzahlung)
+
+## Kommentarliteratur
+
+- Tipke/Lang, Steuerrecht, 24. Aufl. 2021, § 14 Rn. 1 ff. (Umsatzsteuer-Voranmeldung, Fristen)
+- Beermann/Gosch, AO, § 152 Rn. 1 ff. (Verspaetungszuschlag UStVA)

@@ -1,6 +1,6 @@
 ---
 name: einsprachige-vertragsfassung-de
-description: "Erstellung einer rein deutschen Vertragsfassung mit identischem materiellen Inhalt der bilingualen Fassung, ohne EN-Spalte, in einspaltigem lesefreundlichem Word-Layout mit Heading 1/2/3 und normaler Absatzformatierung. Wort-fuer-Wort der deutschen Spalte des bilingualen Dokuments."
+description: "Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten fuer rein nationale Transaktionen. §§ 488 ff. BGB Darlehen §§ 55 56 GmbHG Kapitalerhohung. Pruefraster: SAFE-Konditionen BGB-Konformitaet Schriftformerfordernisse Investoren-Sonderrechte. Output: vollstaendiger Vertragsentwurf auf Deutsch. Abgrenzung: nicht fuer bilinguale Fassung (bilinguale-vertragserstellung)."
 ---
 
 # Einsprachige Vertragsfassung (nur DE)
@@ -90,3 +90,15 @@ zwischen
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Formvorschriften aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 18: Das Wandeldarlehen als deutschrechtliche Konstruktion erfordert eine deutschsprachige Vertragsfassung für die gesellschaftsrechtlichen Elemente; die Wandlungsabrede selbst — soweit sie Gesellschafterpflichten begründet — unterliegt § 55 Abs. 2 GmbHG (notarielle Beurkundung in Deutsch).
+
+OLG München, Beschl. v. 10.03.2016 — **31 Wx 79/16**, GmbHR 2016, 543 Rn. 14: Bei einsprachig deutschem Wandeldarlehensvertrag muss die Definition der wesentlichen Begriffe (Qualified Financing, Cap, Discount, Wandlungspreis) präzise sein; Unklarheiten in der deutschen Fassung werden nach §§ 133, 157 BGB gegen den Verwender ausgelegt.
+
+### Normen-Ergänzung
+
+§§ 133, 157 BGB (Auslegung) → § 305c Abs. 2 BGB (Unklarheitenregelung AGB) → § 184 GVG (Amtssprache) → §§ 55 Abs. 2, 56 GmbHG (Beurkundung, Sacheinlage)

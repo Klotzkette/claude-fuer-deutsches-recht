@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-verpflichteten-check
-description: "Prüft, ob und in welcher Rolle ein Unternehmen oder Berufsträger Verpflichteter nach GwG ist und welche Pflichten daraus folgen."
+description: "Prueft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwaesche-Definition. Pruefraster Taetigkeitsbereich Kataloggeschaeft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwaesche-kyc-onboarding und geldwaesche-risikoanalyse-unternehmen."
 ---
 
 # Verpflichtetenstatus nach GwG

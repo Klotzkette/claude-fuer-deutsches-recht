@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-qualified-financing
-description: "Pruefung ob qualifizierte Finanzierungsrunde im Sinne des Wandeldarlehensvertrags eingetreten ist: Mindest-Bewertungsschwelle (Pre-Money EUR 4 Mio), Mindest-Investitionsvolumen (EUR 500000), Berechnung Wandlungspreis nach Discount oder Valuation Cap (MIN-Methode), Anteilsauswahl guenstigere Methode."
+description: "Wandlung bei qualifizierter Finanzierungsrunde pruefen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Pruefprotokoll Wandlungsberechnung. Abgrenzung: nicht fuer Maturity-Trigger (wandlungspruefung-trigger-maturity)."
 ---
 
 # Wandlungsprüfung – Trigger Qualified Financing
@@ -87,3 +87,15 @@ Lender erklärt Wandlung per Textform innerhalb eines Monats nach Wandlungsmitte
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 24: Qualified Financing als Wandlungstrigger setzt voraus, dass die Mindestbewertung und das Mindestinvestitionsvolumen exakt eingehalten werden; Unterschreitung eines der Schwellenwerte schließt das Qualified Financing aus und aktiviert stattdessen den Maturity-Trigger oder ein Verhandlungsrecht; dies muss im Vertrag klar definiert sein.
+
+BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 18: Die Berechnung, ob ein Qualified Financing vorliegt, muss auf der Basis der vollverwässerten Anteile vor der Runde erfolgen; der Darlehensgeber hat Anspruch auf vollständige Information über die Konditionen der neuen Runde, um sein Wandlungsrecht ausüben zu können.
+
+### Normen-Ergänzung
+
+§ 55 GmbHG (Kapitalerhöhung durch neue Einlagen) → §§ 241, 242 BGB (Treu und Glauben, Information des Darlehensgebers) → § 280 BGB (Schadensersatz bei Verweigerung der Information) → § 5 Abs. 1 GmbHG (Mindest-Nennbetrag, Aufrundung) → §§ 195, 199 BGB (Verjährung Wandlungsrecht)

@@ -58,3 +58,14 @@ Dieser Skill liefert Textbausteine und rechtliche Hinweise. Bei substanziellen S
 - Lösungsschritt mit Termin oder Frist.
 - Höflichkeitsformel zum Schluss.
 - **Disclaimer am Ende** der Antwort, falls rechtlich strittig: Hinweis, dass Mieter sich beraten lassen kann (Mieterverein, Anwalt).
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 05.04.2023 — VIII ZR 26/22, NJW 2023, 2113: Schimmelbefall — Vermieter tragt Beweislast fuer mangelurursaechendes Nutzerverhalten; nur konkreter Nachweis entlastet.
+- BGH, Urt. v. 26.10.2022 — VIII ZR 328/21, NJW 2023, 296: Eigenbedarfskuendigung mit nicht-konkreter Begruendung ist formell unwirksam.
+- BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756: Belegeinsichtsrecht des Mieters ist durchsetzbar; Verweigerung berechtigt zur Einwendung gegen Betriebskostennachzahlung.
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — Mieter-Vermieter-Kommunikation
+- BeckOK Mietrecht — §§ 535 ff. BGB

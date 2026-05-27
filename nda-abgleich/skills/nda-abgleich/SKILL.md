@@ -1,9 +1,37 @@
 ---
 name: nda-abgleich
-description: "NDA-Verhandlungshilfe fuer die empfangende Seite. Zwei Modi: (A) Standard-Destillation aus 1 bis n eigenen NDAs und frei beschreibbarer Erfahrung in einen konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN; (B) Redlining-Lauf, der einen Entwurf der Gegenseite gegen genau diesen Standard chirurgisch mit echten Word-Tracked-Changes umarbeitet (w:ins und w:del als Geschwister auf Laufebene, mit author und date). Keine Absatzloeschungen, keine kompletten Klausel-Neufassungen, jede Aenderung minimalinvasiv. Verwenden bei Formulierungen wie 'aus unseren NDAs einen Standard ableiten', 'Haltelinien aus mehreren Vertraegen destillieren', 'NDA der Gegenseite anpassen', 'NDA Redlining', 'Standard durchsetzen', 'NDA Tracked Changes', 'NDA chirurgisch redigieren'."
+description: "Empfangende Seite soll NDA der Gegenseite pruefen und verhandeln oder Kanzlei will aus mehreren NDAs einen eigenen Standard destillieren. NDA-Verhandlungshilfe. Modus A Destillation: 1 bis n eigene NDAs in konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN. Modus B Redlining: Gegenseiten-Entwurf gegen Standard chirurgisch mit echten Word-Tracked-Changes (w:ins und w:del Laufebene) ueberarbeiten — minimalinvasiv keine Absatzloeschungen. Output: Standard-NDA-Haltelinien oder redigiertes DOCX mit Tracked Changes. Abgrenzung zu ip-klausel-pruefung (IP-Klauseln) und vertragsrecht-plugin allgemein."
 ---
 
 # NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen
+
+## Triage — kläre vor dem Start
+
+1. **Modus:** Modus A (Standard destillieren aus eigenen NDAs) oder Modus B (Redlining eines Gegenseite-Entwurfs) oder beides?
+2. **Unterlagenbasis:** Wie viele eigene NDAs / Entwuerfe liegen vor? Liegt ein Haltelinien-Standard aus früherem Modus A bereits vor?
+3. **Rolle:** Empfangende Seite oder offenbarende Seite — einseits oder gegenseitiger NDA?
+4. **Nicht verhandelbare Punkte (ROT):** Welche Klauseln sind absolut gesetzt (Recht, Gerichtsstand, Nachwirkungsfrist)?
+5. **Datenschutz:** Dürfen die eingereichten NDAs in das eingesetzte KI-System geladen werden (§ 203 StGB, GeschGehG)?
+
+## Zentrale Normen
+- § 2 GeschGehG (Definition Geschäftsgeheimnis — Schutzvoraussetzungen für NDA-Schutzgegenstand)
+- § 4 GeschGehG (Handlungsverbote bei Geheimnisverrat)
+- § 6 GeschGehG (Unterlassungs- und Beseitigungsansprüche)
+- § 9 GeschGehG (Schadensersatz)
+- §§ 305 ff. BGB (AGB-Kontrolle — bei vorformulierten NDA-Klauseln)
+- § 125 BGB (Schriftformerfordernis — doppelte Schriftformklausel)
+- § 203 StGB (Mandatsgeheimnis)
+
+## Rechtsprechung
+1. BGH, Urt. v. 26.02.2020 – I ZR 178/17, NJW 2020, 1513 — Ein Geschäftsgeheimnis i.S.d. GeschGehG setzt neben dem objektiven Geheimhaltungsinteresse die Ergreifung angemessener Geheimhaltungsmaßnahmen voraus; ein NDA ist eine solche Maßnahme.
+2. BGH, Urt. v. 23.02.2012 – I ZR 21/11, NJW 2012, 2108 — Nachvertragliche Geheimhaltungsklauseln müssen zeitlich und sachlich bestimmt sein; unbegrenzte Nachwirkungsfristen können bei Arbeitnehmern gegen § 74a HGB verstossen.
+3. BGH, Urt. v. 29.04.2010 – I ZR 68/08, GRUR 2010, 1090 — Vertragsstrafen in NDA-Klauseln unterliegen der gerichtlichen Herabsetzung nach § 343 BGB; eine Überhöhung begründet Anpassungsrecht.
+4. OLG München, Urt. v. 25.01.2018 – 29 U 2799/17, GRUR-RR 2018, 276 — Die Klärung der Frage, ob bestimmte Informationen dem NDA-Schutzbereich unterfallen, richtet sich nach dem objektivierten Empfängerhorizont bei Vertragsschluss.
+
+## Kommentarliteratur
+- Fuhlrott/Hierlemann, GeschGehG, 2. Aufl. 2022, § 2 Rn. 1 ff. (Geschäftsgeheimnis und NDA als Schutzmaßnahme).
+- Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 4 GeschGehG Rn. 1 ff.
+- Grüneberg, BGB, 83. Aufl. 2024, § 305 Rn. 1 ff. (AGB-Kontrolle bei NDA-Klauseln).
 
 ## Wann diesen Skill aufrufen
 

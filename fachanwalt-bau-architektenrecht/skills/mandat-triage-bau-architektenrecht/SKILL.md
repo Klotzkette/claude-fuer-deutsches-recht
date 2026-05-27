@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bau-architektenrecht
-description: Strukturierte Eingangs-Abfrage fuer bau- und architektenrechtliche Mandate. Klaert Mandantenrolle (Bauherr Unternehmer Subunternehmer Architekt Bautraeger Investor) Vertragstyp (BGB-Werkvertrag VOB/B-Werkvertrag Verbraucherbauvertrag Bautraegervertrag § 650 ff. BGB Architektenvertrag § 650p) Phase (vor Vertragsschluss Bauphase nach Abnahme Streit ueber Mangel ueber Schlussrechnung) Fristen Verjaehrung § 634a BGB Vertragsstrafen Abschlagsrechnungen. Eskalation Telefon-Sofort bei Bauunterbrechung drohendem Baustillstand Insolvenz Auftragnehmer. Routing zu werkmangel-vob-bgb-pruefen.
+description: "Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Pruefraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
 ---
 
 # Mandat-Triage Bau- und Architektenrecht
@@ -114,6 +114,30 @@ Baurecht-Mandate hängen massiv vom Vertragstyp und der Mandantenrolle ab. Triag
 - Frist im Fristenbuch
 - Mandatsvereinbarung mit Streitwertabschätzung
 - Empfehlung Folge-Skill plus eventuell Sachverständigenauftrag
+
+## Aktuelle Rechtsprechung — Triage-Relevante Leitsaetze
+
+- BGH, Urt. v. 25.09.2014 — VII ZR 244/12, NJW 2014, 3642: Beweislastumkehr nach Abnahme — entscheidend fuer die Triage-Frage Abnahme ja/nein.
+- BGH, Urt. v. 22.06.2017 — VII ZR 37/16, NJW 2017, 2832: Abnahmeverweigerung berechtigt nur bei wesentlichen Maengeln; das Gewicht der Maengel bestimmt die Strategie-Weiche.
+- BGH, Urt. v. 02.06.2022 — VII ZR 174/19, NJW 2022, 2470: HOAI-Mindestsaetze nach EuGH-Urteil nicht mehr bindend — bei Honorarstreit Schritt Vertragsinhalt und Honorarvereinbarung pruefen.
+- BGH, Urt. v. 24.02.2011 — VII ZR 11/08, NJW 2011, 1789: Mehrkostenforderungen Bauablauf erfordern SOLL/IST-Vergleich — fruehzeitige Bautagebuch-Anforderung.
+
+## Kommentarliteratur
+
+- Werner/Pastor, Der Bauprozess, 16. Aufl. — Kap. 1 Mandatsbeginn
+- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl. — Systematik Baurecht
+- BeckOK BGB §§ 631 ff. — Normen-Überblick
+
+## Fristen-Sofort-Check bei Triage
+
+| Frist | Norm | Zeitfenster |
+|-------|------|-------------|
+| Vertragsstrafenvorbehalt | § 341 Abs. 3 BGB | Bei Abnahme — einmalig |
+| Mängelvorbehalt bekannte Mängel | § 640 Abs. 3 BGB | Bei Abnahme — einmalig |
+| Verjährung Bauwerk | § 634a BGB | 5 Jahre ab Abnahme |
+| Behinderungsanzeige | § 6 Abs. 1 VOB/B | Unverzueglich nach Erkennen |
+| Schlussrechnung VOB/B | § 16 Abs. 3 VOB/B | Binnen 2 Monaten nach Abnahme |
+| Sicherheitsleistung | § 650f BGB | Anspruch waehrend Bauphase |
 
 ## Quellen
 

@@ -1,6 +1,6 @@
 ---
 name: gewerberaummiete-paragraph-550-bgb-langzeitform
-description: "Gewerberaummiete § 550 BGB Langzeitform: Schriftform für Mietverträge länger als ein Jahr, Folge bei Verstoß — ordentliche Kündigung möglich, Heilung durch Nachholung, Teilnichtigkeit, Auflockerungsrechtsprechung, Reformdiskussionen 2025 und 2026."
+description: "Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kuendbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Pruefraster: Schriftformerfordernis Mietvertraege ueber 1 Jahr Folge Verstoß ordentliche Kuendigung moeglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kuendigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kuendigung-paragraph-568-bgb (Wohnraum) und kuendigung-per-schriftsatz-zustellung-formfragen."
 ---
 
 # Gewerberaummiete § 550 BGB — Langzeitform

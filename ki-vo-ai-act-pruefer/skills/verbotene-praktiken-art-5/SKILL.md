@@ -1,6 +1,6 @@
 ---
 name: verbotene-praktiken-art-5
-description: "Entscheidungsbaum durch alle acht verbotenen Praktiken nach Art. 5 KI-VO: subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing Untargeted Scraping Emotionserkennung Arbeitsplatz biometrische Kategorisierung Echtzeit-RBI oeffentlicher Raum."
+description: "Unternehmen prueft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Pruefraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing biometrisches Categorisierung Echtzeit-RBI oeffentlicher Raum Emotionserkennung Arbeitsplatz Untargeted Scraping Gesichtsdatenbanken. Output: Entscheidungsbaum je Verbotspraktik mit Begruendung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (Hochrisiko nicht verboten aber reguliert) und sachlicher-ausschluss-art-2-abs-3-bis-12."
 ---
 
 # Verbotene Praktiken — Art. 5 KI-VO (Entscheidungsbaum)
@@ -91,3 +91,48 @@ Art. 5 KI-VO enthält einen abschließenden Katalog von acht verbotenen KI-Prakt
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: KI-Scoring als Art. 22 DSGVO-Entscheidung — bei manipulativer Ausgestaltung fallen Scoring-Systeme auch unter Art. 5 KI-VO.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Offenlegungspflicht bei algorithmischen Systemen — Umkehrschluss: Verschleierung als subliminale Technik nach Art. 5 Abs. 1 lit. a KI-VO.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- EuGH, Urt. v. 11.07.2002 — C-60/00 (Carpenter), NJW 2002, 3545 Rn. 30: Grundrechtsbindung und Verbot manipulativer staatlicher Systeme — Vorgaenger-Masstab fuer Art. 5 Abs. 1 lit. c Social-Scoring-Verbot.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 5 Abs. 1 lit. a KI-VO — subliminale und manipulative Techniken
+- Art. 5 Abs. 1 lit. b KI-VO — Ausnutzung von Vulnerabilitaeten
+- Art. 5 Abs. 1 lit. c KI-VO — Social Scoring
+- Art. 5 Abs. 1 lit. d KI-VO — Predictive Policing
+- Art. 5 Abs. 1 lit. e KI-VO — Untargeted Scraping biometrischer Daten
+- Art. 5 Abs. 1 lit. f KI-VO — Emotionserkennung am Arbeitsplatz / Bildung
+- Art. 5 Abs. 1 lit. g KI-VO — biometrische Kategorisierung nach geschuetzten Merkmalen
+- Art. 5 Abs. 1 lit. h KI-VO — Echtzeit-Biometrie-Fernidentifizierung oeffentlicher Raum
+- Art. 99 Abs. 3 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % weltweiter Jahresumsatz
+
+## Triage zu Beginn
+1. Welche der acht verbotenen Praktiken (lit. a-h) koennte potentiell einschlaegig sein?
+2. Sind staatliche oder private Akteure beteiligt (Social Scoring lit. c gilt fuer beide)?
+3. Richten sich Techniken an besonders schutzbeduertige Personen (Vulnerabilitaet lit. b)?
+4. Sind biometrische Daten oder Emotionserkennung beteiligt (lit. f, g, h)?
+5. Gibt es Ausnahmen nach Art. 5 Abs. 2-8 KI-VO (Echtzeit-RBI in Ausnahmefaellen)?
+
+## Output-Template — Verbotene-Praktiken-Pruefung
+**Adressat:** Pruefer / Rechtsberater — Tonfall: entscheidungsbaum-strukturiert
+```
+VERBOTENE-PRAKTIKEN-PRUEFUNG ART. 5 KI-VO
+[DATUM] — System: [SYSTEMNAME]
+
+Geprueft (lit. a-h):
+☑/☐ lit. a — subliminale / manipulative Technik: [JA — VERBOTEN / NEIN]
+☑/☐ lit. b — Vulnerabilitaetsausnutzung: [JA — VERBOTEN / NEIN]
+☑/☐ lit. c — Social Scoring: [JA — VERBOTEN / NEIN]
+☑/☐ lit. d — Predictive Policing: [JA — VERBOTEN / NEIN]
+☑/☐ lit. e — Untargeted Scraping Biometrie: [JA — VERBOTEN / NEIN]
+☑/☐ lit. f — Emotionserkennung Arbeitsplatz/Bildung: [JA — VERBOTEN / NEIN]
+☑/☐ lit. g — biometrische Kategorisierung: [JA — VERBOTEN / NEIN]
+☑/☐ lit. h — Echtzeit-RBI oeffentlicher Raum: [JA — VERBOTEN / Ausnahme: BESCHREIBUNG]
+
+Ergebnis: [KEIN VERBOT / VERBOT: lit. X — Sanktion bis 35 Mio. EUR Art. 99 Abs. 3 KI-VO]
+Naechster Schritt: [EINSTELLUNG DES BETRIEBS / sachlicher-ausschluss-art-2 / Weiter-Pruefung]
+Geprueft: [NAME], [DATUM]
+```

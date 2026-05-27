@@ -1,6 +1,6 @@
 ---
 name: europarecht-kommandocenter
-description: "Startet EU-Rechtsmandate mit Kompetenzcheck, Rechtsquellenhierarchie, Denkfehler-Scan, Verfahrensweg und Arbeitsprodukt."
+description: "Einstiegspunkt fuer Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Pruefraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Europarecht-Kommandocenter
@@ -47,3 +47,38 @@ Einstieg für jedes Mandat, in dem deutsches Recht, Unionsrecht, Behördenpraxis
 ## Ton
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Vertiefung: Kernentscheidungen EU-Recht
+
+- EuGH, Urt. v. 05.02.1963 - 26/62 (Van Gend en Loos) — unmittelbare Wirkung EU-Recht
+- EuGH, Urt. v. 15.07.1964 - 6/64 (Costa/ENEL) — Vorranggrundsatz
+- EuGH, Urt. v. 19.11.1991 - C-6/90 (Francovich) — Staatshaftung bei Nichtumsetzung RL
+- EuGH, Urt. v. 15.07.1963 - 25/62 (Plaumann) — Klagebefugnis Privater Art. 263 AEUV
+
+## Triage Kommandocenter
+
+Bevor losgelegt wird, klaere:
+1. Welches EU-Rechtsgebiet — Beihilfe, Grundfreiheiten, Kartell, Richtlinie, GRCh, Schiedsrecht?
+2. Welches Output-Ziel — Memo, Schriftsatz, Compliance-Check, Vorabentscheidungsantrag?
+3. Zeitdruck — Frist Art. 263 AEUV 2 Monate, Eilantrag, Vorlage?
+
+## Normen-Kern EU-Recht
+
+- **Art. 101-109 AEUV** — Wettbewerbsrecht; Beihilfen
+- **Art. 263, 267-268 AEUV** — Klagen; Vorabentscheidung; Haftung
+- **Art. 288-291 AEUV** — Handlungsformen; delegierte Akte
+- **GRCh Art. 47, 51** — Rechtsschutz; Anwendungsbereich
+
+## Output-Template: Aktionsplan EU-Recht
+
+```
+EU-RECHT AKTIONSPLAN
+Datum: [DATUM] — Mandant: [NAME]
+
+1. Rechtsgebiet: [BEIHILFE / KARTELL / GRUNDFREIHEITEN / RICHTLINIE / GRCh]
+2. Klaerbedarf: [unmittelbare Wirkung / Vorrang / Klagebefugnis / Freistellung]
+3. Frist: [Art. 263 AEUV 2 Monate ab [DATUM] / sonstige Frist: [DATUM]]
+4. Zustaendiges Gericht: [LG / VG / EuG / EuGH]
+5. Rechtsmittel: [Klage / Vorlageanregung / Beschwerde Kommission / Staatshaftung]
+6. Naechste Schritte: [...]
+```

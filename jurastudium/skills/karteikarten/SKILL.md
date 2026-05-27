@@ -1,6 +1,6 @@
 ---
 name: karteikarten
-description: "Erstellt oder übt Karteikarten für die Gedächtnisleistung im Jurastudium — Leitner-System, fachspezifische Definitionen (§-genaue Formulierungen), Drill-Modus mit Selbsteinschätzung. Lädt, wenn der Nutzer „Karteikarten erstellen\", „Definition üben\", „Wiederholung starten\" oder „Anki-Karten für [Rechtsgebiet]\" sagt."
+description: "Karteikarten fuer Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Loesungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht oeffentliches Recht. Pruefraster Karteikarten-Format Vorderseite Begriff/Norm Rueckseite Definition/Schema, Schwierigkeitsgrad einordnen, pruefungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert fuer Spaced-Repetition. Abgrenzung zu Lernplan fuer Zeitmanagement und zu Tatbestaende-Lernen."
 ---
 
 # Karteikarten-Drill

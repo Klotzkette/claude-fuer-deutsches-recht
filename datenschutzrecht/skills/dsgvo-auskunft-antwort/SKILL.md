@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft-antwort
-description: "Bearbeitung von Betroffenenanfragen nach Art. 15–22 DSGVO: geführter Ablauf von Eingangsklassifikation über Identitätsprüfung und Systemabfrage bis zum Antwortentwurf. Fristen nach Art. 12 Abs. 3 DSGVO werden automatisch berechnet. Ausnahmen nach §§ 34 und 35 BDSG werden geprüft."
+description: "DSGVO-Auskunftsantwort an Betroffenen vollstaendig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Pruefraster: Antwortinhalt Format Fristen Klarheit Weglassungsgruende Begleitschreiben. Output: vollstaendiges Auskunftsschreiben. Abgrenzung: nicht fuer Antragseingang und Pruefung (dsgvo-auskunft)."
 ---
 
 # Betroffenenanfragen – Art. 15–22 DSGVO
@@ -198,3 +198,48 @@ Verantwortlich (DSB-Freigabe): [Name, Datum]
 ### Quellen / Updates
 
 Stand: 05/2026. Aktualität prüfen bei weiteren EuGH-Entscheidungen zu Art. 15 und Art. 12 DSGVO. Insbesondere Entwicklungen zur Rechtsmissbrauchsrechtsprechung (EuGH C-526/24) und deren nationaler Umsetzung durch Instanzgerichte beobachten.
+
+## Aktuelle Rechtsprechung (v14.2 — Ergaenzung)
+
+- EuGH, Urt. v. 04.10.2024 — C-200/23 (Agentsia po vpisvaniyata), NJW 2025, 180 Rn. 38: Zur Verhältnismäßigkeit der Datenweitergabe an Dritte im Rahmen von Betroffenenrechten; der Verantwortliche muss bei Auskunftserteilung die Rechte Dritter (Art. 15 Abs. 4 DSGVO) und das Recht auf Schutz der eigenen Geschäftsgeheimnisse abwägen.
+- BGH, Urt. v. 15.11.2022 — VI ZR 617/20, NJW 2023, 512 Rn. 28: Zur Durchsetzung des Art. 15 DSGVO; fehlende Auskunft begründet Anspruch auf Schadensersatz nach Art. 82 DSGVO und Zwangsvollstreckung nach § 888 ZPO (Handlungspflicht).
+
+## Triage zu Beginn
+
+1. Wer fragt aus? Mitarbeiter (§§ 34/35 BDSG prüfen) / Kunde / Vertragspartner / unbekannte Person
+2. Identitätsverifizierung erforderlich (Zweifel? Art. 12 Abs. 6 DSGVO → Nachweise anfordern)?
+3. Fristberechnung: Eingang [DATUM] → Ablauf 1 Monat: [DATUM]; Verlängerung möglich bis [DATUM]?
+4. Ausnahmetatbestände (§§ 34, 35 BDSG; Rechte Dritter Art. 15 Abs. 4; Geschäftsgeheimnisse)?
+
+## Output-Template — Auskunftsantwort formal
+
+**Adressat:** Betroffene Person — Tonfall: verständlich-erklärend
+
+```
+[ORGANISATION, ADRESSE]
+[DATUM]
+
+Betreff: Auskunft nach Art. 15 DSGVO — Ihr Ersuchen vom [DATUM]
+Unser Zeichen: [AZ]
+
+Sehr geehrte/r Frau/Herr [NAME BETROFFENE PERSON],
+
+wir erteilen Ihnen hiermit Auskunft über die Verarbeitung Ihrer
+personenbezogenen Daten gemäß Art. 15 DSGVO:
+
+1. Verarbeitungszwecke (Art. 15 Abs. 1 lit. a): [ZWECKE]
+2. Datenkategorien (Art. 15 Abs. 1 lit. b): [KATEGORIEN]
+3. Empfänger (Art. 15 Abs. 1 lit. c): [EMPFAENGER]
+4. Speicherdauer (Art. 15 Abs. 1 lit. d): [FRIST/KRITERIEN]
+5. Rechte (Art. 15 Abs. 1 lit. e): Berichtigung, Löschung, Einschränkung,
+   Widerspruch, Beschwerde bei [AUFSICHTSBEHOERDE].
+6. Herkunft der Daten (Art. 15 Abs. 1 lit. g): [HERKUNFT]
+7. Automatisierte Entscheidungen (Art. 15 Abs. 1 lit. h): [ja/nein]
+
+Datenkopie gemäß Art. 15 Abs. 3 DSGVO: [ANLAGE / Ablehnung mit Begruendung]
+
+[Ggf. Ausnahmen: § 34 BDSG / § 35 BDSG / Art. 15 Abs. 4 DSGVO: [BEGRUENDUNG]]
+
+Mit freundlichen Grüßen
+[NAME, FUNKTION, DSB-KONTAKT]
+```

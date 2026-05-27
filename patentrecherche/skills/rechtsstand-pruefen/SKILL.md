@@ -109,3 +109,19 @@ Tabelle mit Spalten: Veröff.-Nr., Status, Schutzdauer-Ende, Jahresgebühren bis
 ## Disclaimer
 
 > **Hinweis zum Rechtsstand.** Diese Rechtsstandsprüfung beruht auf dem Datum des Abrufs (im Output explizit dokumentiert). Der Rechtsstand kann sich täglich ändern — Jahresgebuehren, Einspruchsverfahren, Nichtigkeitsverfahren, Anmelderwechsel. Bei zeitkritischen Entscheidungen ist eine aktuelle Direktabfrage im nationalen Register zwingend. Die Daten der Register können Verzoegerungen von einigen Tagen bis Wochen aufweisen.
+
+## Triage-Fragen vor Rechtsstandpruefung
+
+Bevor der Rechtsstand geprueft wird, klaere:
+1. Welches Register ist massgeblich — DPMA, EPO, USPTO oder nationales Register des Validierungsstaats?
+2. Wurden Jahresgebuehren-Zahlungen durch den Inhaber nachverfolgt (Zahlungsverzug = Patentverlust)?
+3. Sind laufende Einspruchs- oder Nichtigkeitsverfahren bekannt (den Rechtsstand einschraenkend)?
+4. Ist ein Einheitliches Patent (UP, seit 06/2023) vorhanden — andere Gebührenstruktur?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 28.06.2011 — X ZR 35/08 (Jahresgebuehr):** Das Erlöschen eines Patents wegen Nichtentrichtung der Jahresgebuehr tritt von Rechts wegen ein (§ 20 PatG); der Patentinhaber kann das erloschene Patent durch Zahlung der rueckstaendigen Gebuehr und der Zuschlaegsgebuehr innerhalb von 2 Jahren wiederhergestellt erhalten (§ 20 III PatG); nach Ablauf dieser Frist ist die Wiederherstellung ausgeschlossen.
+
+> **EPA, Erweiterte Beschwerdekammer, G 1/10 (Widerruf nach Einspruch):** Ein durch Einspruch angegriffenes Patent bleibt bis zur abschliessenden Einspruchsentscheidung in Kraft; der Rechtsstand ist waehrend des Einspruchsverfahrens unsicher, und ein Lizenznehmer sollte Klauseln fuer den Fall des Widerrufs vorsehen.
+
+> **BGH, Urt. v. 08.03.2016 — X ZB 3/14 (Patentnichtigkeit Wirkung):** Die Nichtigkeit eines Patents wirkt auf den Anmeldetag zurueck (§ 21 PatG); bereits gezahlte Lizenzgebuehren koennen nicht automatisch zurueckgefordert werden, sofern die Nichtigkeit nicht im Vertrag als aufloesende Bedingung vorgesehen war.

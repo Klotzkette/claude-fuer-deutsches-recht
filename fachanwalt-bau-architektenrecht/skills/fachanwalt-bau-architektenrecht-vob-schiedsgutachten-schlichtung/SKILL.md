@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung
-description: "VOB-Schiedsgericht § 18 VOB B SOBau-Verfahren Sachstaendigen-Schiedsgutachten § 4 SOBau. Schlichtungsstelle Bauhandwerker. Adjudikation nach FIDIC Vorbild. Mediation am Bau. Vergleichsverhandlung Werklohn-Maengelhaftungs-Streit. Workflow Beweissicherungsverfahren § 485 ZPO vorgerichtliche Klage SOBau-Antrag."
+description: "VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Pruefraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgutachten-Antrag VOB/B. Abgrenzung: nicht staatliches Klageverfahren."
 ---
 
 # VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht

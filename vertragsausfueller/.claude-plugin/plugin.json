@@ -1,6 +1,6 @@
 {
   "name": "vertragsausfueller",
-  "version": "9.0.0",
+  "version": "14.2.0",
   "description": "Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausdrücklicher Nachfrage vorbereiten.",
   "license": "Apache-2.0 OR MIT",
   "author": {

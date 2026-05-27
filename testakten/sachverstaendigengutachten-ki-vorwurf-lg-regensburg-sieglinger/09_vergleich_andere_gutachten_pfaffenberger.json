@@ -1,0 +1,18 @@
+{
+  "_kommentar": "FRAGMENT - interne Recherche, ob im Kollegenkreis aehnliche Gutachten von Pfaffenberger bekannt sind. Datenbasis sehr klein, nicht repraesentativ.",
+  "_status": "unvollstaendig",
+  "vergleichsgutachten": [
+    {
+      "az": "LG Passau 2 O 412/24",
+      "auftrag": "PV-Anlage Mangel",
+      "auffaelligkeiten": ["Wiederholung Satzanfaenge", "pauschale Schaetzung"],
+      "ausgang": "unbekannt - Kollege Sperling angefragt"
+    },
+    {
+      "az": "LG Landshut 5 O 88/23",
+      "auftrag": "Hausanschluss PV Mangel",
+      "auffaelligkeiten": ["???"],
+      "_hinweis": "Hier sind die Detail-Informationen noch nicht eingepflegt - Anfrage laeuft"
+    }
+  ]
+}

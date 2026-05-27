@@ -1,6 +1,6 @@
 ---
 name: artenschutz-naturschutz-planung
-description: Pruefung der artenschutzrechtlichen und naturschutzrechtlichen Anforderungen im Bebauungsplan. Paragraf 44 BNatSchG Zugriffsverbote fuer besonders geschuetzte Arten. Tötungsverbot Stoerungsverbot Lebensstaettenschutzverbot. Spezielle artenschutzrechtliche Pruefung saP als methodische Grundlage. Erhebung Anforderungen Begehungs-Zeitraeume. CEF-Massnahmen vorgezogene Ausgleichsmassnahmen. Ausnahme Paragraf 45 Abs. 7 BNatSchG bei zwingenden Gruenden Befreiung. Eingriffsregelung Paragraf 1a Abs. 3 BauGB Vermeidung Minimierung Ausgleich. FFH-Vertraeglichkeitspruefung Paragraf 34 BNatSchG bei FFH- oder Vogelschutzgebieten. Stadtbezogene Arten Mauersegler Schwalben Spatzen Fledermaeuse Eidechsen. Audit auf Vollstaendigkeit der Untersuchung Begehungs-Zeitpunkt Gutachter-Qualifikation Methodik.
+description: "Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzpruefung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Pruefraster: spezielle artenschutzrechtliche Pruefung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Pruefprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltpruefung (UVPG) und abwaegungsgebot-1-abs-7-baugb."
 ---
 
 # Artenschutz und Naturschutz in der Bauleitplanung
@@ -10,6 +10,9 @@ description: Pruefung der artenschutzrechtlichen und naturschutzrechtlichen Anfo
 Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Veränderungen vorsieht. Lücken in der speziellen artenschutzrechtlichen Prüfung (saP) sind häufiger Treffer.
 
 ## Schritt 1 — Zugriffsverbote § 44 BNatSchG
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### Drei Verbote
 - **Tötungsverbot** § 44 Abs. 1 Nr. 1 BNatSchG: Verbot, wildlebenden Tieren der besonders geschützten Arten nachzustellen, sie zu fangen, zu verletzen oder zu töten
@@ -171,3 +174,78 @@ Artenschutz ist materieller Pflichtprogramm-Punkt jedes B-Plans, der bauliche Ve
 - BVerwG, Urteil vom 6.11.2013 – 9 A 14.12 (FCS)
 - BVerwG, Urteil vom 23.4.2014 – 9 A 25.12 (Tötungsverbot)
 - BayVGH, Urteil vom 30.3.2017 – 14 N 16.1112 (Stadtarten)
+
+## Aktuelle Rechtsprechung
+
+- BVerwG, Urt. v. 06.11.2013 - 9 A 14.12, BVerwGE 148, 373 Rn. 119 — FCS-Nachweis muss zum Zeitpunkt der Genehmigung sichergestellt sein; eine bloß prognostisch günstige Entwicklung der Lokalpopulation genügt nicht.
+- BVerwG, Urt. v. 23.04.2014 - 9 A 25.12, NVwZ 2014, 1405 Rn. 79 — Das signifikant erhöhte Tötungsrisiko nach § 44 Abs. 1 Nr. 1 BNatSchG ist individuenbezogen zu prüfen; Populationsbetrachtungen können Einzelverbotstatbestand nicht ersetzen.
+- BVerwG, Urt. v. 12.03.2008 - 9 A 3.06, BVerwGE 130, 299 Rn. 234 — Methodische Standards der saP sind vom Gericht nur eingeschränkt überprüfbar; offensichtliche Fehler in Begehungszeiten und Kartierungsumfang sind aber revisibel.
+- BayVGH, Urt. v. 30.03.2017 - 14 N 16.1112, BayVBl. 2017, 733 — Bei Stadtarten (Mauersegler Hausspatz Mehlschwalbe) muss die saP alle erreichbaren Brutplätze am Gebäudebestand kartieren; pauschale Verneinung ohne Begehung ist methodisch unvertretbar.
+
+## Paragrafenkette Artenschutz/Naturschutz
+
+§ 44 Abs. 1 Nr. 1-3 BNatSchG (Zugriffsverbote) → § 44 Abs. 5 BNatSchG (Legalausnahme Planung) → § 45 Abs. 7 BNatSchG (Ausnahme) → § 67 BNatSchG (Befreiung) → § 34 BNatSchG (FFH-Verträglichkeit) → § 1a Abs. 3 BauGB (Eingriffsregelung) → § 2 Abs. 3 BauGB (Ermittlungspflicht) → § 1 Abs. 7 BauGB (Abwägungsgebot)
+
+## Kommentarliteratur
+
+- Gellermann in Landmann/Rohmer Umweltrecht, § 44 BNatSchG Rn. 20-55 (Zugriffsverbote Planung)
+- Lütkes/Ewer BNatSchG, § 45 Rn. 15-30 (Ausnahme öffentliches Interesse FCS)
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., § 1a Rn. 45-70 (Eingriffsregelung im Bebauungsplan)
+
+## Triage vor Bearbeitung
+
+Kläre vor Beginn der saP-Prüfung:
+1. Ist das Plangebiet ein Neubau- oder Umnutzungsgebiet? (Brachflächen haben höheres Artenpotenzial)
+2. Liegen Altgebäude im Plan-Umgriff? (Gebäudebrüter-Pflichterfassung)
+3. Ist die saP älter als 5 Jahre? (Neuerhebung erforderlich)
+4. Welches Bundesland? (Landesrechtliche Ergänzungen zu § 44 BNatSchG beachten)
+5. Gibt es Hinweise auf Vorkommen streng geschützter Arten aus regionalem Artenkataster?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Artenschutzrechtliche Ruege im Planungsverfahren | Artenschutz-Ruegeschriftsatz nach Schema; Template unten |
+| Variante A — Artenschutz klar verletzt Behoerde kooperativ | Informelle Einwendung zuerst; Klage nur bei Ablehnung |
+| Variante B — Saison-Schutz Bruetzeit laeuft noch | Sofortige Einwendung mit Fristsetzung; Vollzugsstopp beantragen |
+| Variante C — Ausnahme nach § 45 BNatSchG moeglich | Ausnahme-Antrag statt Klage; Kompensationsmassnahmen anbieten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template Artenschutz-Rüge im Schriftsatz
+
+**Adressat:** OVG/VGH — Tonfall sachlich-wissenschaftlich-juristisch
+
+```
+III. Verstoß gegen § 44 Abs. 1 Nr. 3 BNatSchG — Lebensstättenschutz [NAME ART]
+
+1. Bestandsaufnahme methodisch unzureichend (§ 2 Abs. 3 BauGB)
+   Die saP der [BUERO] vom [DATUM] enthält zur Art [NAME] lediglich [SATZ AUS GUTACHTEN].
+   Dies genügt nicht den Anforderungen an eine vollständige Bestandserfassung (BVerwG 9 A 14.12).
+   Insbesondere wurde die [KONKRETER MANGEL: Begehung im Maerz statt im Hochsommer / Kartierung nur Kerngebiet ohne Puffer].
+
+2. CEF-Maßnahme nicht verbindlich festgesetzt
+   Die Maßnahme [BEZEICHNUNG] ist nur in Begründung Seite X erwähnt, aber nicht in den textlichen
+   Festsetzungen Nr. Y verankert. Damit fehlt die Verbindlichkeit (BVerwG 9 A 25.12 Rn. 79).
+
+3. FCS-Nachweis fehlt
+   Der Erhaltungszustand der Lokalpopulation von [ART] wird nicht bewertet.
+   Ohne diesen Nachweis ist die Ausnahme nach § 45 Abs. 7 BNatSchG nicht erfüllt
+   (BVerwG 9 A 14.12 Rn. 119).
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

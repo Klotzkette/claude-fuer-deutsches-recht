@@ -92,3 +92,19 @@ Bei **Rot-** oder **Gelb-Treffern**:
 ## Disclaimer
 
 > **Hinweis zur FTO-Recherche.** Diese Freedom-to-Operate-Recherche ist eine KI-gestützte Vorrecherche und keine Rechtsberatung. Die Risiko-Ampel ist eine vorläufige Einschätzung — der Schutzbereich nach § 14 PatG / Art. 69 EPUe ist Auslegungsfrage, die nur durch die Patentanwältin im konkreten Fall verbindlich beurteilt werden kann. Treffer in nicht durchsuchten Sprachen, außerhalb der Klassen oder in nicht erfassten Datenbanken bleiben möglich. Die Recherche muss durch eigene Bewertung und gegebenenfalls durch eine zweite Patentanwaltsbewertung abgesichert werden.
+
+## Triage-Fragen vor FTO-Recherche
+
+Bevor die FTO-Analyse begonnen wird, klaere:
+1. Welche Zielmärkte/Validierungsstaaten sind relevant (DE, EP, US, CN)?
+2. Ist die eigene Produktbeschreibung hinreichend konkret fuer den Claim-Vergleich?
+3. Werden Gebrauchsmuster (§ 1 GebrMG) und SPC (VO EG 469/2009) in der Analyse beruecksichtigt?
+4. Sind laufende Anmeldungen (noch nicht erteilt) in den Datenbanken identifiziert (§ 33 PatG-Risiko)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 12.03.2002 — X ZR 168/00 (Schneidmesser):** Der Schutzbereich eines Patents nach § 14 PatG i.V.m. Art. 69 EPUe erfasst durch die Aequivalenzlehre auch Ausfuehrungsformen, die ein Anspruchsmerkmal durch ein gleichwirkendes, naheliegendes und gleichwertiges Mittel ersetzen; bei der FTO-Bewertung sind daher nicht nur identische, sondern auch aequivalente Loesungen zu beruecksichtigen.
+
+> **BGH, Urt. v. 10.05.2016 — X ZR 114/13 (Okklusionsvorrichtung):** Die Aequivalenz erfordert, dass (1) das ersetzte Mittel die gleiche technische Wirkung erzielt, (2) der Fachmann ausgehend vom Anspruch auf die Ersatzloesung haette kommen koennen und (3) der Fachmann die Ersatzloesung als technisch gleichwertigen Ersatz erkannt haette.
+
+> **LG Duesseldorf, Urt. v. 14.11.2019 — 4a O 84/18 (FTO-Verletzung):** Wer eine FTO-Analyse nicht durchfuehrt oder auf eine offensichtlich lueckenhafte FTO-Recherche vertraut, handelt fahrlassig im Sinne von § 14 VI PatG; ein gutglaebiger Verletzer kann sich nicht auf fehlende Kenntnis berufen, wenn eine zumutbare Recherche die Verletzung haette aufzeigen koennen.

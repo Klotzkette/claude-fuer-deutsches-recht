@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-sperrzeit-prognose
-description: Beratungs-Tool fuer Aufhebungsvertrag mit Sperrzeit-Prognose nach § 159 SGB III. Wichtiger Grund-Pruefung bei Verschulden Arbeitnehmer fuer Beendigung. Abfindungs-Schutz vor Sperrzeit Faustformel 0.25 bis 0.5 Brutto-Monatsgehalt pro Jahr fuer Vermeidung Sperrzeit BAG 2 AZR 254/12. Soziale Gruende des Arbeitnehmers familiaer gesundheitlich krankheitsbedingt. Konkurrenz Sperrzeit § 159 SGB III mit Ruhenszeit § 158 SGB III Abfindungs-Anrechnung. Beratungs-Pflicht Anwalt schadensrisiko bei fehler. BSG-Linie zur Sperrzeit-Vermeidung. Schnittstelle Kuendigungsschutzklage als Alternative wenn aussichtsreicher.
+description: "Mandant hat Aufhebungsvertrag erhalten und fragt ob er Sperrzeit beim Arbeitslosengeld riskiert. Pruefraster wichtiger Grund § 159 SGB III Selbst-Kuendigungsaequivalenz. Faustformel Abfindungsschutz 0.25 bis 0.5 Bruttomonatsgehalt pro Jahr nach BAG 2 AZR 254/12. Konkurrenz Ruhenszeit § 158 SGB III bei Abfindungs-Anrechnung. Soziale Gruende familiär gesundheitlich krankheitsbedingt als Ausnahme. Output Prognose-Memo mit Sperrzeit-Risiko-Ampel und Empfehlung Abfindungshoehe. Abgrenzung: Kuendigungsschutzklage als Alternative wenn KSchG anwendbar."
 ---
 
 # Aufhebungsvertrag — Sperrzeit-Prognose

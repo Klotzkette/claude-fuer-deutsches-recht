@@ -1,6 +1,6 @@
 ---
 name: bias-und-diskriminierung-pruefung
-description: "Bias-Quellen in KI-Systemen, AGG-Relevanz bei der Bewerberauswahl in Kanzleien, Prüfverfahren für diskriminierende KI-Outputs und Schulungsanforderungen für Mitarbeitende im Umgang mit vorurteilsbehafteten KI-Ergebnissen."
+description: "Bias und Diskriminierung in KI-Outputs fuer Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Pruefraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Pruefprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
 ---
 
 # Bias und Diskriminierung Prüfung
@@ -34,3 +34,45 @@ Stellt eine Mitarbeiterin oder ein Mitarbeiter fest, dass KI-generierter Output 
 ## Hinweise zur Aktualisierung
 
 Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse zur Bias-Anfälligkeit bestimmter KI-Systeme sollten in Schulungen aufgenommen werden. BAG-Entscheidungen zum AGG im Kontext von KI-Personalauswahl sowie Leitlinien der EU-Kommission zur Gleichbehandlung beim KI-Einsatz sind zu beobachten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 23.04.2020 — C-507/18 (NH), NJW 2020, 1999 Rn. 31: AGG — auch hypothetische Diskriminierungstests begrunden Beweislastumkehr; gilt fuer KI-Auswahlsysteme.
+- BAG, Urt. v. 19.12.2019 — 8 AZR 2/19, NJW 2020, 1612 Rn. 22: Mittelbare Diskriminierung im Bewerbungsverfahren — neutrales Auswahlkriterium mit diskriminierender Wirkung genuegt.
+- BGH, Urt. v. 26.03.2019 — VI ZR 273/16, NJW 2019, 2385 Rn. 14: Produkthaftung fuer fehlerhafte Algorithmen; Hersteller haftet fuer systematische Fehlerquellen in Entscheidungssystemen.
+- BVerfG, Beschl. v. 16.07.2012 — 1 BvR 2983/10, NJW 2012, 2856 Rn. 18: Diskriminierungsschutz Art. 3 GG als Masstab auch bei mittelbar wirkenden technischen Systemen.
+
+## Zentrale Normen (Paragrafenkette)
+- § 1 AGG — Schutz vor Diskriminierung (Rasse, Geschlecht, Alter, Behinderung, Herkunft)
+- § 15 AGG — Schadensersatz und Entschaedigung bei Diskriminierung
+- Art. 22 DSGVO — Automatisierte Entscheidungen mit moeglichem Diskriminierungspotenzial
+- Art. 5 Abs. 1 lit. c KI-VO — Verbot biometrischer Kategorisierung nach geschuetzten Merkmalen
+- Anhang III Nr. 2 KI-VO — Hochrisiko bei Bewerbungs-Screening und Leistungsbewertung
+
+## Triage zu Beginn
+1. Fuer welchen Zweck wird das KI-System eingesetzt — Bewerberauswahl, Mandatszuordnung, Leistungsbewertung?
+2. Koennen Trainingsdaten historische Diskriminierungsmuster enthalten?
+3. Sind schutzbeduerfte Gruppen nach AGG unverhältnismaessig betroffen?
+4. Wurde ein Bias-Test durchgefuehrt — und sind die Ergebnisse dokumentiert?
+5. Gibt es einen Widerspruchsmechanismus fuer Betroffene (Art. 22 Abs. 3 DSGVO)?
+
+## Output-Template — Bias-Pruefprotokoll
+**Adressat:** HR / Compliance — Tonfall: strukturiert, sachlich
+```
+BIAS-PRUEFPROTOKOLL
+[DATUM] — System: [SYSTEMNAME] — Anwendungsfall: [BESCHREIBUNG]
+
+Geschuetzte Merkmale (§ 1 AGG) — Analyse:
+| Merkmal | Risiko | Nachweis | Massnahme |
+|---|---|---|---|
+| Geschlecht | [NIEDRIG/MITTEL/HOCH] | [TESTERGEBNIS] | [MASSNAHME] |
+| Alter | [NIEDRIG/MITTEL/HOCH] | [TESTERGEBNIS] | [MASSNAHME] |
+| Herkunft / Nationalitaet | [NIEDRIG/MITTEL/HOCH] | [TESTERGEBNIS] | [MASSNAHME] |
+| Behinderung | [NIEDRIG/MITTEL/HOCH] | [TESTERGEBNIS] | [MASSNAHME] |
+
+KI-VO Art. 5 Abs. 1 lit. c: Biometrische Kategorisierung: [NICHT VORHANDEN / PRUEFUNG ERFORDERLICH]
+Anhang III Nr. 2 KI-VO: Hochrisiko: [JA / NEIN]
+
+Bias-Test durchgefuehrt: [JA — Methode: BESCHREIBUNG / NEIN — ERFORDERLICH]
+Gesamtbewertung: [KEIN MATERIALLES BIAS / BIAS GEFUNDEN — MASSNAHMEN ERFORDERLICH]
+Geprueft von: [NAME], [DATUM]
+```

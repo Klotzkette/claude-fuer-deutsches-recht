@@ -1,48 +1,60 @@
 ---
 name: verkehr-infrastrukturrecht-kommandocenter
-description: "Führt Verkehrs- und Infrastrukturmandate mit Projektkarte, Fristen, Stakeholdern, Rechtsrahmen und nächstem Arbeitsprodukt."
+description: "Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet). Pruefraster: Sachgebiet (Planfeststellung, Sondernutzung, Ladeinfrastruktur, OEPNV, Schulwegsicherheit, Parkraum, Foerderung, Verkehrswende), Mandantenrolle, Verfahrensstand. Output Deal-Karte Verkehrsinfrastruktur mit Ampel und Routing-Empfehlung. Abgrenzung: Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz."
 ---
 
-# Verkehrs- und Infrastruktur-Kommandocenter
+# Verkehrs- und Infrastrukturrecht — Kommandocenter
 
 ## Zweck
 
-Nutze diesen Skill als Eingang für jedes Verkehrs- oder Infrastrukturprojekt: Kommune, Vorhabenträger, Ministerium, Verband, Unternehmen oder Privatperson.
+Einstiegspunkt fuer alle Mandate im Verkehrs- und Infrastrukturrecht (oeffentliches Recht, Planungsrecht, Strassenrecht). Erfasst Kontext, bewertet Dringlichkeit und routet.
 
-## Wann verwenden
+## Mandatsaufnahme-Triage
 
-- wenn ein neuer Fall im Bereich Verkehrs- und Infrastrukturrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+**Klaeren Sie zuerst:**
 
-## Arbeitsweise
+1. **Mandantentyp:** Gemeinde/Stadt, Vorhabentraeger (DB, Strassenbauverwaltung), privater Betroffener (Anlieger, Eigentuemer), Verband, Unternehmen?
+2. **Rechtsgebiet:** Strassenplanung (FStrG, LStrG), OEPNV/Schiene (AEG, PBefG), Privatstrassenrecht, Kommunales Strassenrecht?
+3. **Verfahrensstadium:** Vorabstimmung, Planfeststellung, Genehmigung, Oeffentlichkeitsbeteiligung, Widerspruch, Verwaltungsklage?
+4. **Kritische Frist:** Einwendungsfrist (6 Wochen nach § 73 VwVfG), Widerspruchsfrist (1 Monat § 70 VwGO), Klagefrist (1 Monat § 74 VwGO)?
+5. **Sofortmassnahme notwendig?** — Einstweiliger Rechtsschutz (§ 80 VwGO) oder Eilklage?
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+## Routing-Matrix
 
-## Rückfragen, wenn unklar
+| Aufgabe | Subskill |
+|---------|---------|
+| Planfeststellung / Plangenehmigung | `verkehr-infrastrukturrecht-planfeststellung` |
+| Sondernutzungserlaubnis | `verkehr-infrastrukturrecht-sondernutzung` |
+| Ladeinfrastruktur | `verkehr-infrastrukturrecht-ladeinfrastruktur` |
+| Strassenbahn / OEPNV | `verkehr-infrastrukturrecht-strassenbahn` |
+| Schulwegsicherheit | `verkehr-infrastrukturrecht-schulwegsicherheit` |
+| Parkraumbewirtschaftung | `verkehr-infrastrukturrecht-parkraumbewirtschaftung` |
+| Foerderung / Vergabe | `verkehr-infrastrukturrecht-foerderung-vergabe` |
+| Verkehrsplanung | `verkehr-infrastrukturrecht-verkehrsplanung` |
+| Verkehrswende | `verkehr-infrastrukturrecht-verkehrswende` |
+| Wirtschaftsverkehr | `verkehr-infrastrukturrecht-wirtschaftsverkehr` |
+| Verfahrensfragen allgemein | `verkehr-infrastrukturrecht-verfahren` |
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+## Zentrale Normen im Ueberblick
 
-## Ausgabeformat
+- **§ 17 FStrG** — Planfeststellung Bundesfernstrassen
+- **§ 18 AEG** — Planfeststellung Schiene
+- **§ 28 PBefG** — Planfeststellung Strassenbahn
+- **§§ 73, 74, 75 VwVfG** — Planfeststellungsverfahren
+- **§§ 6 ff. FStrG** — Einschluss, Nutzung, Sondernutzung
+- **§§ 42, 47 VwGO** — Anfechtungsklage, Normenkontrolle
+- **§§ 80, 123 VwGO** — Einstweiliger Rechtsschutz
+- **Art. 14, 28 GG** — Eigentumsschutz, Gemeindeautonomie
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+## Querschnitts-Rechtsprechung
 
-## Typische Fehler vermeiden
+- BVerwG NVwZ 2022, 558 — Praeklusion Einwendung nach Planfeststellung
+- BVerwG NVwZ 2023, 246 — Abwaegungsfehler als Aufhebungsgrund
+- BVerfG NVwZ 2014, 584 — Art. 14 GG bei Planfeststellungseingriff
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+## Harte Leitplanken
+
+- Verfahrensfristen im Planungsrecht sind praelusiv — nie versaeumen.
+- Mandantenrolle bestimmt Rechte und Pflichten grundlegend.
+- Einstweiliger Rechtsschutz (§ 80 VwGO) bei drohenden Vollzugshandlungen sofort pruefen.
+- Anwaltliche Endkontrolle bei Einwendungen, Klagen und Antraegen.

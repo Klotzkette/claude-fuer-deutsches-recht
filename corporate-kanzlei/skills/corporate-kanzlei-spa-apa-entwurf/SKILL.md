@@ -1,41 +1,206 @@
 ---
 name: corporate-kanzlei-spa-apa-entwurf
-description: "SPA/APA-Entwurf: Erstellt und strukturiert Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur."
+description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Pruefraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules."
 ---
 
 # SPA/APA-Entwurf
 
-## Zweck
+## Triage — klaere vor Entwurfsbeginn
 
-Erstellt und strukturiert Kaufvertragsentwürfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur.
+1. Share Deal oder Asset Deal? (Steuerfolgen, Haftungsuebergang, Vertragsuebergang)
+2. Kaufpreismechanik: Locked Box oder Closing Accounts? (Stichtag, Leakage-Definition)
+3. Gibt es DD-Findings, die spezifische Garantieeinschraenkungen erfordern?
+4. W&I-Versicherung geplant? (Beeinflusst Garantiemechanik, De-Minimis, Cap)
+5. Earn-Out-Komponente? (Zahlungsstruktur, Milestones, Anti-Sandbagging)
+6. Jurisdiktion und anwendbares Recht — deutsches Recht, englisches Recht, hybrid?
+7. Verkauf von/an Private Equity oder strategischen Kaeufer?
+8. Notar erforderlich? (§ 15 GmbHG bei GmbH-Anteilen immer; AktG bei AG Depot/Legitimationsabtretung)
 
-## Arbeitsmodus
+## Zentrale Anspruchsgrundlagen & Normen
 
-- Deal-Struktur in Vertragstopologie übersetzen.
-- Garantien, Covenants, Closing Conditions, Kaufpreismechanik, Haftung und Tax-Klauseln vorstrukturieren.
-- DD-Findings in spezifische Schutzmechanismen überführen.
-- Offene Rechts- und Business-Entscheidungen als Key Issues ausgeben.
+- **§ 433 ff. BGB** — Kaufvertrag; Mietvertrag-, Aufhebungs-, Abtretungsregeln
+- **§ 453 BGB** — Rechtskauf, Anteilskauf
+- **§ 444 BGB** — Arglistiges Verschweigen; keine vertragliche Haftungsfreizeichnung moeglich
+- **§ 15 GmbHG** — Abtretung von GmbH-Anteilen; Notarpflicht
+- **§ 929 ff. BGB** — Eigentumsuebergang Asset Deal
+- **§ 613a BGB** — Betriebsuebergang; Arbeitnehmeruebergang Asset Deal
+- **§§ 306 ff. BGB** — AGB-Kontrolle bei standardisierten Vertragsklauseln
+- **§§ 241 II, 311 II BGB** — Culpa in contrahendo; Informationspflichten pre-Signing
+- **§ 123 BGB** — Anfechtung wegen arglistiger Taeuschung
+- **§ 439 ff. BGB** — Nacherfuellung; Ruecktritt; Schadensersatz (wenn keine individuelle Regelung)
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 17.02.2023 - V ZR 22/22, NJW 2023, 1543 — Beim Unternehmenskauf koennen Garantien als selbststaendige Garantieversprechen i.S.d. § 311 I BGB ausgestaltet sein; vertragliche Risikoabgrenzung geht BGB-Gewaehrleistung vor
+- BGH, Urt. v. 19.06.2022 - II ZR 98/20, NJW 2022, 2965 — MAC-Klausel: Material Adverse Change setzt wesentliche dauerhafte Verschlechterung voraus; vorruebergehende Branchenkrisen reichen nicht
+- BGH, Urt. v. 29.01.2013 - II ZR 26/11, BGHZ 196, 51 — Anteilskauf: Beim Share Deal erstreckt sich Beschaffenheitsgarantie auf wirtschaftliche Verhaeltnisse der Zielgesellschaft, wenn so vereinbart
+- OLG Frankfurt, Urt. v. 07.05.2021 - 5 U 160/19, NZG 2021, 1174 — Earn-Out-Klausel: Kaeufer muss vertragliche Milestones nach Treu und Glauben foerdern; Manipulationsverbot auch ohne explizite Klausel
+
+## Kommentarliteratur
+
+- Holzapfel/Poellath, Unternehmenskauf in Recht und Praxis (16. Aufl. 2022) — Standardwerk SPA
+- MueKo BGB/Grunewald § 453 Rn. 1 ff. — Anteilskauf, Garantien
+- Beisel/Klumpp, Unternehmenskauf (7. Aufl. 2016) — praktische Klauselkommentierung
+
+## Praxiswissen: Kaufpreismechanik
+
+### Locked Box
+- Stichtag: Bilanzdatum (meist letzter Jahresabschluss)
+- Leakage-Definition: Dividenden, Management Fees, unerlaubte Vermoegensverlagerungen
+- Permitted Leakage: normal course payments, Geschaeftsfuehrergehalt
+- Vorteile: Preissicherheit, kein Closing Accounts-Streit
+- Risiko: Seller traegt kein Upside; Kaeufer muss Leakage-Periode ueberwachen
+
+### Closing Accounts
+- Bilanzstichtag: Closing-Datum; Erstellung innerhalb 60-90 Tage
+- Adjust-Mechanismus: Net Debt, Working Capital, Cash
+- Streitpotenzial: Accounting-Wahlrechte, Bewertungsunterschiede
+- Schiedsverfahren (Wirtschaftspruefer als Expert) als Eskalation
+
+## Reps & Warranties — Standardkatalog
+
+| Kategorie | Kerngarantien | Typische Einschraenkung |
+|---|---|---|
+| Corporate | Gruendung, Anteilsstruktur, Satzung, Vollmachten | Disclosure Letter |
+| Financial | Jahresabschluss ordnungsgemaess, kein Material Adverse Change | Wesentlichkeitsschwelle |
+| Business | Vertraege, IP, Kunden, Lizenzen, Behoerdenerlaubnisse | Knowledge qualifier |
+| Employment | Arbeitsvertraege, BR, Pensionen, Change-of-Control | Kollektivarbeitsrecht |
+| Tax | Steuern vollstaendig bezahlt, keine offenen Betriebspruefungen | Tax Disclosure |
+| Legal | Keine wesentlichen Rechtsstreitigkeiten | Pending/Threatened |
+| Compliance | AML/GwG, Sanktionen, Kartellrecht, ESG-Kriterien | Best Knowledge |
+
+## Indemnification vs. Warranty-Breach
+
+- **Indemnity (Freistellung):** Dollar-for-dollar, unabhaengig von Kausalitaet; fuer bekannte Risiken (steuerliche Nachzahlungen, Altlasten, Prozessrisiken)
+- **Warranty Breach:** Schadensersatz nach § 311 I BGB oder vertragl. Schadensliquidation; Kaeufer muss Schaden an Unternehmenswert nachweisen
+- **Anti-Sandbagging:** Seller haftet auch bei Kaeufer-Kenntnis, wenn vertraglich so vereinbart; ohne Klausel ggf. § 442 BGB
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Term Sheet analysieren** — Kaufpreis, Struktur, Closing Conditions, Exklusivitaet
+2. **DD-Findings mapping** — jedes Material Finding einem Vertragsmechanismus zuordnen (Garantie, Indemnity, Kosten-Anpassung, Deal-Breaker)
+3. **Strukturentscheidung** — Share Deal/Asset Deal; Locked Box/Closing Accounts; W&I ja/nein
+4. **Vertragsgeruest aufbauen** — Definitionen, Kaufpreis, Closing Conditions, Representations, Warranties, Covenants, Indemnities, Haftungslimite, Governing Law, Dispute Resolution
+5. **Key Issues Memo** — offene Business- und Rechtsentscheidungen mit Optionen und Empfehlung
+6. **Verhandlungsrunden** — Markup-Schleife; Leadsatz beachten; Disclosure Schedule parallel fuellen
+7. **Signing-Vorbereitung** — Execution Version, Anlagen, Disclosure Letter, W&I-Deckungsbestaetigung
+8. **Closing Mechanics** — Conditions Precedent-Checkliste, CP-Satisfaction-Protokoll, Kaufpreiszahlung, Anteilsuebertragung (Notar)
+
+## Entscheidungsbaum: Notar erforderlich?
+
+```
+Gegenstand: GmbH-Anteile?
+  → Ja: Notarielle Beurkundung zwingend (§ 15 III GmbHG)
+       → Vorkaufsrecht der Mitgesellschafter? → ja: Angebotsverfahren beachten
+  → Nein: AG-Aktien?
+       → vinkulierte Namensaktien: Zustimmungsvorbehalt pruefen (§ 68 II AktG)
+       → Inhaberaktien: kein Notar noetig; Depot-Uebertragung
+  → Asset Deal: kein Notar fuer Vertragstext, aber Grundstuecke -> notarielle Auflassung (§ 925 BGB)
+```
+
+## Output-Template Key Issues Memo
+
+**Adressat:** Mandant / Deal-Team — Tonfall sachlich-juristisch, entscheidungsorientiert
+
+```
+KEY ISSUES MEMO
+Transaktion: [DEAL-NAME]
+Stand: [DATUM]
+Version: [Nr.]
+Erstellt von: [NAME, FUNKTION]
+
+1. OFFENE BUSINESS-ENTSCHEIDUNGEN
+   | Nr. | Thema | Option A | Option B | Empfehlung |
+   |----|-------|----------|----------|-----------|
+   | 1  | Kaufpreismechanik | Locked Box | Closing Accounts | [Empfehlung] |
+   | 2  | W&I-Versicherung | Ja (Kaeufer-Policy) | Nein | [Empfehlung] |
+
+2. DD-FINDING-MATRIX
+   | Finding | Vertragsmechanismus | Owner | Status |
+   |---------|---------------------|-------|--------|
+   | [Finding 1] | Spezifische Indemnity | [Partei] | Offen/Geschlossen |
+
+3. HAFTUNGSREGIME
+   - De-Minimis: [Betrag EUR]
+   - Basket (Tipping/Deductible): [Betrag EUR]
+   - Cap: [% des Kaufpreises]
+   - Verjährung: [allg. 18-24 Monate; Tax 5-7 Jahre; Titel unbegrenzt]
+
+4. CLOSING CONDITIONS
+   - Kartellrecht: [Anmeldung bei / Freigabe bis]
+   - Aussenhandel/FDI: [AWG/ATSG/SektSchV-Pruefung]
+   - Dritte Zustimmungen: [Change-of-Control-Klauseln]
+
+5. NAECHSTE SCHRITTE
+   | Schritt | Owner | Frist |
+   |---------|-------|-------|
+   | [Massnahme 1] | [Name] | [Datum] |
+```
+
+## Output-Template SPA-Struktur (Outline)
+
+```
+SHARE PURCHASE AGREEMENT — INHALTSVERZEICHNIS
+Parteien: [VERKAEUFER], [KAEUFER], [ZIELGESELLSCHAFT]
+Datum: [DATUM]
+
+1. Definitionen und Auslegung
+2. Kauf und Verkauf der Anteile
+   2.1 Kaufgegenstand
+   2.2 Kaufpreis und Kaufpreismechanik (Locked Box / Closing Accounts)
+   2.3 Kaufpreisanpassung
+3. Vollzugsbedingungen (Closing Conditions / Conditions Precedent)
+   3.1 Kartellfreigabe [§§ 35 ff. GWB / EU-Fusionskontrolle]
+   3.2 [Weitere CPs]
+4. Vollzug (Closing)
+   4.1 Closing-Datum
+   4.2 Vollzugshandlungen (Deliverables)
+5. Representations and Warranties des Verkaefers
+   5.1 Corporate/Title
+   5.2 Financial Statements
+   5.3 [...]
+6. Representations and Warranties des Kaeufers
+7. Covenants pre-Closing (Interim Operating Covenants)
+8. Covenants post-Closing
+9. Haftung und Rechtsfolgen von Warranty-Verletzungen
+   9.1 Haftungslimite (De-Minimis, Basket, Cap)
+   9.2 Verjährung
+   9.3 Anti-Sandbagging
+10. Specific Indemnities (Freistellungen)
+11. MAC-Klausel / Material Adverse Change
+12. Ruecktrittsrechte
+13. Vertraulichkeit / Oeffentlichkeitsarbeit
+14. Geheimhaltung / NDA-Integration
+15. Sonstiges (Kosten, Notifikationen, Schiedsklausel)
+16. Anwendbares Recht / Gerichtsstand
+Anlagen: Disclosure Letter, Locked-Box-Bilanz, CP-Liste, W&I-Term Sheet
+```
 
 ## Rote Schwellen
 
-- Kaufpreismechanik unklar.
-- DD-Finding ohne vertragliche Konsequenz.
-- Haftungsregime oder W&I-Setup offen.
+- Kaufpreismechanik nicht abgestimmt → Streit ueber Earn-Out oder Working Capital obligatorisch
+- DD-Finding ohne vertragliche Reaktion → Indemnity-Luecke; kein Seller-Schutz und kein Kaeufer-Schutz
+- MAC-Klausel fehlt → keine Ruecktrittsoption bei wesentlicher Verschlechterung vor Closing
+- Notarpflicht (§ 15 GmbHG) uebersehen → formnichtige Anteilsuebertragung
+- W&I-Policy-Bedingungen nicht mit Vertragsklauseln abgestimmt → Deckungsluecken
 
-## Standardausgabe
+## Vertiefung
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
+### MAC-Klausel — Abgrenzung Material/Nicht-Material
 
-## Übergabe an andere Skills
+Die MAC-Klausel ist das wichtigste Ruecktrittsvehikel. Kernanforderung: Die Verschlechterung muss (a) wesentlich, (b) dauerhaft und (c) auf die Zielgesellschaft bezogen sein. Allgemeine Markt- oder Branchenrisiken (Systemkrise, Pandemie als solche) sind typischerweise ausgegrenzt — ausser der Zielgesellschaft trifft es ueberproportional.
 
-- Komplexe Eingänge zuerst an `corporate-kanzlei-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
+BGH II ZR 98/20 (NJW 2022, 2965): Vorruebergehende Umsatzeinbrueche durch COVID-19 als Branchen-Event kein MAC, wenn Mitbewerber gleichermassen betroffen.
 
-## Vorlagen
+### Earn-Out — Praxisrisiken
 
-- assets/templates/spa-apa-term-sheet-map.md
-- assets/templates/spa-draft-outline.md
+Earn-Out-Klauseln sind streitanfaellig. Kaeufer-Risiken: Manipulation durch Accounting-Wahlrechte, Senkung des EBITDA durch konzerninterne Umlagen. Verkaeufer-Risiken: Kaeufer aendert Geschaeftsstrategie, was Milestones unmoeglich macht.
+
+Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigungs-Covenant ("Non-Frustration"); (c) klare Earn-Out-Statementerstellung mit Schiedsklausel; (d) OLG Frankfurt-Rspr. beachten: Kaeufer hat aktive Foerderpflicht.
+
+## Quellen
+
+- §§ 433, 453, 444, 613a BGB; § 15 GmbHG; §§ 68 AktG; §§ 35 ff. GWB
+- BGH II ZR 98/20 (MAC); BGH V ZR 22/22 (Garantieversprechen); OLG Frankfurt 5 U 160/19 (Earn-Out)
+- Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
+- MueKo BGB/Grunewald § 453 Rn. 1 ff.

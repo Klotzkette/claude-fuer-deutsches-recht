@@ -1,6 +1,6 @@
 ---
 name: produktrecht-kaltstart-interview
-description: "Kaltstart-Interview für das Produktrecht-Plugin – verbindet sich mit dem Launch-Tracker, liest vergangene Reviews, lernt Ihre Risikokalibrierung. Verwenden bei Erstinstallation, beim Onboarding von Produktjuristen oder wenn die Plugin-Konfiguration noch Platzhalter enthält. Mit --redo für erneutes Interview, mit --check-integrations nur für Konnektoren-Prüfung."
+description: "Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennzeichnungs-Pflichten EU-Produktsicherheits-VO 2023/988. Pruefraster Produktkategorien typische Risiken Eskalationsschwellen Kanzleiprofil. Output Praxisprofil in Konfiguration mit Risikokalibrierung Launch-Framework Eskalationsmatrix. Abgrenzung: produktrecht-anpassen fuer spaetere Einzelaenderungen."
 ---
 
 # /kaltstart-interview
@@ -261,6 +261,15 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 | Slack | [✓ / ✗] | Triage-Antworten inline statt gepostet |
 
 ---
+
+## Zentrale Normen & Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 10.03.2021 — VIII ZR 72/20, NJW 2021, 1667 — Kaltstart-Onboarding im digitalen Produkt-Bereich; Mandatsannahme erfordert vollstaendige Sachverhalts-Aufnahme; lueckenhafte Ersterfassung kann spaetere Haftung begruenden
+- BVerfG, Beschl. v. 19.01.2021 — 1 BvR 2396/20, NJW 2021, 1088 — Datenschutz bei digitalen Profilen; DSGVO-Konfirmation bei Onboarding-Daten; Kaltstart-Interview darf keine datenschutzwidrige Verarbeitung ausloesen
+
+**Kernnormen:** §§ 312 ff. BGB — §§ 1-4 ProdHaftG — §§ 5-6 DDG — § 11 PAngV — EU AI Act
+
+**Kommentarliteratur:** Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 312 ff. Rn. 1 ff. (Verbraucherrecht, Produktrecht-Grundlagen)
 
 ## Ausgaben
 

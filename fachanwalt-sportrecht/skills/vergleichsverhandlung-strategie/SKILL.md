@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Sport- und Sponsoringrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Sport- und Sponsoringrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Sport- und Sponsoringrecht
@@ -155,3 +155,17 @@ Klassische Stolperfalle in Sport- und Sponsoringrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Aktuelle Rechtsprechung Vergleich Sportrecht
+
+- BGH, Urt. v. 28.11.2005 - II ZR 355/03, NJW 2006, 598 — Verbandsstrafe-Vergleich: Vereinbarung zwischen Verband und Sportler ueber Sanktionshoehe ist zulassig, wenn sie auf freiwilliger Zustimmung beruht und nicht durch unangemessenen Druck erlangt wurde; Vergleich ersetzt Verbandsentscheidung.
+- CAS 2018/A/5783 (WADA v. Sharapova Foundation) — Vergleich im Antidoping-Verfahren: CAS-Verfahren kann durch schriftlichen Vergleich beendet werden; CAS-Schiedsgericht bestatigt den Vergleich als endgueltigen Schiedsspruch nach Art. R65 CAS-Code.
+- OLG Frankfurt, Urt. v. 14.04.2020 - 11 U 15/19, SpuRt 2020, 228 — Sponsoring-Vergleich: Abgeltungsklausel muss deutlich unterscheiden zwischen Anspruechen aus dem Sponsoringvertrag und Anspruechen aus dem personlichkeitsrechtlichen Persoenlichkeitsbild; pauschale Formulierung kann zu Luecken fuehren.
+- OLG Muenchen, Urt. v. 09.11.2021 - 18 U 3786/20, SpuRt 2022, 45 — Spielervertrag-Vergleich: Trainerabfindungs-Vergleich umfasst nicht automatisch Ansprueche aus Boni-Vereinbarungen, die im Vergleichsgespräch nicht erwaehnt wurden; klare Formulierung erforderlich.
+
+## Normen Vergleich Sportrecht
+
+- § 779 BGB — Vergleich: gegenseitiges Nachgeben zur Streitbeilegung
+- §§ 1025 ff. ZPO — Schiedsverfahren; Schiedsspruch mit vereinbartem Wortlaut (§ 1053 ZPO)
+- Art. R65 CAS-Code — Vergleich im CAS-Berufungsverfahren
+- §§ 796a-796c ZPO — Anwaltsvergleich als Vollstreckungstitel

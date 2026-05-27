@@ -1,6 +1,6 @@
 ---
 name: relation-zivil
-description: "Erstellt eine vollstaendige deutsche Relation nach klassischer Relationstechnik der Referendar/-innen-Ausbildung: Sachbericht Auslegung des Streitgegenstands Zulaessigkeitsstation Schluessigkeitsstation Klaegerstation Erheblichkeitsstation Beklagtenstation Replikstation Beweisstation Tenorierungsstation Nebenentscheidungen. Fragt zu Beginn ab ob Vollrelation Schulstandard oder Kurzfassung Praxis gewuenscht ist. Liefert die komplette Entscheidungsstruktur vor der Urteilsabfassung."
+description: "Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Pruefraster: Sachbericht, Streitgegenstand, Zulaessigkeitsstation, Schluessigkeitsstation, Klaeger-/Beklagten-/Replikstation, Beweisstation, Tenorierungsstation, Nebenentscheidungen. Output Vollrelation (Schulstandard) oder Kurzfassung (Praxis). Abgrenzung: Vollstaendige Langfassung siehe vollrelation-langfassung; Familienrichter-Spezifika siehe familienrichter-spezifika."
 ---
 
 # Relation Zivilprozess - Vollrelation nach deutschem Standard

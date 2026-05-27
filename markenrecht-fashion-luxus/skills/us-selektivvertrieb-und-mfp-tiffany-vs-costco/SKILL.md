@@ -1,6 +1,6 @@
 ---
 name: us-selektivvertrieb-und-mfp-tiffany-vs-costco
-description: "US-Vertriebsrecht fuer Luxus: Resale Price Maintenance nach Leegin 551 U.S. 877 (Rule of Reason), MAP-Policies, Unilateral Colgate Doctrine, Tiffany v. Costco Trademark-Dilution. Laedt, wenn der Nutzer 'US Resale Price Maintenance', 'MAP Policy', 'Tiffany Costco' oder 'Leegin Entscheidung' sagt."
+description: "US-Vertriebsrecht fuer Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Pruefraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo."
 ---
 
 # US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies
@@ -132,3 +132,19 @@ J. Halston Whitman III, Esq. (legal review confirmed)
 - **State Law:** New York Donnelly Act und California Cartwright Act können strenger sein als Sherman Act; separate State-Analysis vor US-Launch
 - **Colgate-Purity:** Jede Kommunikation über RPM-Erwartungen mit Händlern gefährdet die Colgate-Doktrin; internen E-Mail-Verkehr sorgfältig überwachen
 - **Robinson-Patman Documentation:** Alle Rabatt-Begründungen schriftlich dokumentieren; unstrukturierte Preislisten sind Klageeinladungen
+
+## Triage-Fragen zum US-Selektivvertrieb
+
+Bevor das MAP/RPM-System in den USA eingerichtet wird, klaere:
+1. Handelt es sich um eine unilaterale MAP-Policy (Colgate-Doktrin — zulaessig) oder eine bilateral vereinbarte Preisbindung (§ 1 Sherman Act-Risiko)?
+2. Werden retailer-spezifische Preisabsprachen in E-Mails oder Meetings dokumentiert (Colgate-Gefahr)?
+3. Sind staatliche Antitrust-Gesetze (New York Donnelly Act, California Cartwright Act) gesondert geprueft?
+4. Ist die Marktmacht von klotzkette Inc. im relevanten US-Markt so gross, dass Rule-of-Reason-Pruefung zum Nachteil ausgeht?
+
+## Aktuelle Rechtsprechung (US)
+
+> **Leegin Creative Leather Products v. PSKS, 551 U.S. 877 (2007):** Der U.S. Supreme Court hat die per-se-Illegalitaet von Resale Price Maintenance aufgegeben und durch den Rule-of-Reason-Standard ersetzt; RPM kann durch procompetitive Effekte gerechtfertigt sein, insbesondere wenn es die Servicequalitaet des Haendlers sichert.
+
+> **Tiffany (NJ) Inc. v. Costco Wholesale Corp., 971 F.3d 74 (2d Cir. 2020):** Der Verkauf von Diamantringen mit dem Schildchen „Tiffany" ohne Genehmigung von Tiffany begründet Likelihood of Confusion und False Designation of Origin nach § 43(a) Lanham Act; unberechtigte Nutzung einer Luxusmarke durch Discounter begründet Marken- und Trade-Dress-Ansprueche.
+
+> **United States v. Colgate & Co., 250 U.S. 300 (1919) (Colgate-Doktrin):** Ein Hersteller hat das Recht, einseitig zu entscheiden, an wen er seine Produkte verkauft und zu welchen Bedingungen; eine unilaterale MAP-Policy ohne Absprache mit Haendlern ist nach der Colgate-Doktrin zulaessig.

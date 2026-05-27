@@ -111,7 +111,7 @@ Alle in diesem Plugin verwendeten Personen, Kanzleinamen und Mandantennamen sind
 - § 43 GmbHG
 - § 93 AktG
 - BGH IX ZR 285/14 (Sanierungsberater-Haftung)
-- BGH II ZR 88/13
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264)
 - BGH II ZR 234/17
 - EuGH C-594/14 Kornhaas
 - IDW S 6 (Sanierungskonzepte)

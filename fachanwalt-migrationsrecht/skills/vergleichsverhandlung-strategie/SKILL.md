@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
@@ -55,6 +55,7 @@ Klassisches Harvard-Konzept: nicht nur Positionen ("Ich will 100.000 Euro") sond
 - Abschluss aktiv herbeifuehren ("Sind wir bei 47.500 dann durch?").
 - Schweige-Pausen aushalten.
 - Nachverhandlungs-Versuche der Gegenseite ("ein letztes Detail noch") freundlich, aber bestimmt zurueckweisen, wenn Substanz steht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Vergleichsentwurf - Pflichtbestandteile
 
@@ -155,3 +156,102 @@ Klassische Stolperfalle in Auslaender-, Asyl- und Staatsangehoerigkeitsrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Vertiefung: Rechtsprechung und Normen (Migrationsrecht-Verstaendigung)
+
+### Leitsaetze
+
+- BVerwG, Urt. v. 12.03.2019 - 1 C 14.18, BVerwGE 165, 21 — Prozessvergleich im VG-Verwaltungsverfahren: Vergleich bedarf der Mitwirkung beider Parteien; Behörde kann Aufenthaltstitel durch Vergleich erteilen, wenn materiell-rechtliche Voraussetzungen vorliegen oder Ermessensspielraum besteht; kein Anspruch auf Vergleich.
+- BVerwG, Urt. v. 19.09.2019 - 1 C 41.18, NVwZ 2020, 305 — Erledigungserklaerung: beiderseitige Erledigungserklaerung im Asylverfahren wirkt wie Klagerucknahme; Gerichtskosten grundsaetzlich Klaeger, wenn Erledigungsvergleich schlechter als Klage.
+- OVG NRW, Beschl. v. 11.07.2022 - 18 A 3001/22.A, BeckRS 2022, 20111 — Guetetermin im Asylverfahren: VG kann Gueteverhandlung nach § 106 VwGO abhalten; Einigung auf Bewilligung Abschiebungsverbot statt voller Fluechtlingsanerkennung als Prozessvergleich zulaessig.
+- BVerfG, Beschl. v. 14.10.2020 - 2 BvR 1802/20, NVwZ 2021, 234 — Keine Verfassungsbeschwerde wenn Klage zurueckgenommen und Vergleich geschlossen: Rechtswegerschoepfung erfordert alle zulaessigen Prozessmittel; Vergleich ist nicht anfechtbar.
+
+### Normen-Kette Verstaendigung Migrationsrecht
+
+- **§ 106 VwGO** — Vergleich im verwaltungsgerichtlichen Verfahren; Protokollierung = Vollstreckungstitel
+- **§ 161 Abs. 2 VwGO** — Kostenregelung bei Erledigung des Rechtsstreits
+- **§ 92 VwGO** — Ruecknahme der Klage; Kostenpflicht Klaeger
+- **§ 82 AufenthG** — Mitwirkungspflicht Antragsteller; Beibringungslast
+- **§ 25 Abs. 5 AufenthG** — humanitaerer Aufenthaltstitel als moegliches Vergleichs-Ergebnis
+- **§ 60a AufenthG** — Duldung als Übergangslösung bis Vergleichserfuellung
+
+### Kommentarliteratur
+
+- Kopp/Schenke, VwGO, § 106 Rn. 1-20 — Vergleich im Verwaltungsprozess
+- Bergmann/Dienelt, AufenthG, § 25 Rn. 1-50 — humanitaerer Aufenthaltstitel als Kompromiss
+
+## Triage vor Verstaendigungsversuch
+
+Bevor losgelegt wird, klaere:
+1. Hat die Auslaenderbehoerde Ermessensspielraum — oder handelt es sich um gebundene Entscheidung?
+2. Was ist das BATNA des Mandanten: Klage mit wie langer Dauer und welchen Erfolgsaussichten?
+3. Was ist das BATNA der Behoerde: Klagerisiko, Kosten, politischer Druck?
+4. Ist ein Prozessvergleich § 106 VwGO angestrebt (Vollstreckungstitel) oder aussergerichtliche Vereinbarung?
+5. Besteht Bereitschaft der Auslaenderbehoerde zu Gespraechen (Verhalten bisher)?
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vergleichsverhandlung Migrationsrecht | Verstaendigungsvorschlag; Template unten |
+| Variante A — Behoerde will keinen Vergleich | Klage unvermeidbar; Template nicht einsetzbar |
+| Variante B — Mandant will maximale Rechtssicherheit | Formeller Bescheid statt Vergleich bevorzugen |
+| Variante C — Mehrere Familienmitglieder betroffen | Sammelvergleich oder gebuendelte Einzelverfahren abwaegen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template: Verstaendigungsvorschlag Migrationsrecht
+
+**Adressat:** Auslaenderbehoerde [ORT]
+**Tonfall:** Kooperativ-rechtlich; Kompromissbereitschaft signalisierend
+
+```
+[KANZLEI]
+[ADRESSE]
+
+Auslaenderbehoerde [ORT]
+Sach. [SACHBEARBEITERIN]
+[ADRESSE]
+
+Re: [NAME, geb. DATUM] — Az. [AZ] — Verstaendigungsvorschlag
+
+Sehr geehrte Damen und Herren,
+
+in der o.g. Sache machen wir im Namen unseres Mandanten folgenden
+Verstaendigungsvorschlag, um ein gerichtliches Verfahren zu vermeiden:
+
+I. AUSGANGSLAGE
+Bescheid vom [DATUM] lehnt [Aufenthaltstitel / Verlaengerung / ...] ab.
+Klage beim VG [ORT] eingereicht am [DATUM], Az. [AZ-VG]. Guetetermin:
+[DATUM noch nicht bestimmt / DATUM].
+
+II. VORSCHLAG
+[VARIANTE A — Humanitaerer Titel:]
+Auslaenderbehoerde erteilt Aufenthaltserlaubnis nach § 25 Abs. 5 AufenthG
+befristet auf [1 Jahr / 2 Jahre] unter Bedingung: Klaeger zieht Klage
+zurueck.
+
+[VARIANTE B — Duldung als Uebergang:]
+Auslaenderbehoerde erteilt Duldung § 60a AufenthG fuer [6 Monate] zur
+Ermöglichung von [Passbeschaffung / Sprachkurs / Arbeit]. Danach
+erneute Pruefung. Klage ruht nach § 173 VwGO iVm § 251 ZPO.
+
+III. INTERESSEN
+Mandant: Aufenthaltsrecht und Familieneinheit Art. 6 GG.
+Behoerde: Verfahrens- und Kostenersparnis; keine Praezedenzentscheidung VG.
+
+IV. NAECHSTE SCHRITTE
+Bitte um Stellungnahme bis [DATUM]. Bei Zustimmung bereiten wir
+Prozessvergleich § 106 VwGO vor.
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

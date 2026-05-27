@@ -1,11 +1,70 @@
 ---
 name: tenor-bauen-zivil
-description: "Konstruiert den Tenor eines Zivilurteils: Hauptsache (genau bezifferter Zahlungsantrag mit Zinsen ab) Kosten Paragraf 91 ff ZPO vorlaeufige Vollstreckbarkeit Paragraf 708 ff ZPO Streitwert Beruefungszulassung Paragraf 511 ZPO Tenorierung beim Kostenfestsetzungsverfahren. Beachtet Bestimmtheitsgebot und Vollstreckbarkeit."
+description: "Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Pruefraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollstaendig und vollstreckbar. Abgrenzung: Entscheidungsgruende siehe entscheidungsgruende-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen."
 ---
 
 # Tenor bauen Zivilurteil
 
 Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
+
+
+## Triage zu Beginn
+
+1. Welche Anträge wurden gestellt — Hauptantrag, Hilfsantrag, Widerklage?
+2. Ist der Kläger voll, teilweise oder gar nicht erfolgreich?
+3. Welcher Zinssatz gilt — 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB) oder 9 Prozentpunkte (§ 288 Abs. 2 BGB, B2B)?
+4. Ist vorläufige Vollstreckbarkeit mit oder ohne Sicherheitsleistung anzuordnen (§ 708 Nr. 11 oder § 709 ZPO)?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 07.07.2011 - VII ZR 213/10, NJW 2011, 2885 — Tenor muss vollstreckbar und bestimmt sein; Bezugnahmen auf den Tatbestand im Tenor sind unzulässig.
+- BGH, Urt. v. 19.07.2011 - II ZR 300/10, NJW 2011, 3510 — Kostenquote muss mit dem Streitwert und dem tatsächlichen Obsiegen übereinstimmen; fehlerhafte Quoten sind per Berichtigung nach § 319 ZPO korrigierbar.
+- BGH, Urt. v. 17.09.2019 - II ZR 167/18, NJW 2020, 234 — Zinsbeginn "seit Rechtshängigkeit" ist § 291 BGB; Verzugszinsen ab Mahnung nach § 286 BGB — beides kann nebeneinander ausgesprochen werden.
+- BGH, Beschl. v. 05.12.2012 - III ZB 47/12, NJW 2013, 1232 — Vollstreckbarkeit ohne Sicherheitsleistung (§ 713 ZPO) setzt voraus, dass Berufung mangels Beschwer nicht statthaft ist.
+
+## Zentrale Normen
+
+- § 253 Abs. 2 Nr. 2 ZPO — Bestimmtheitsgebot für den Antrag (gilt spiegelbildlich für Tenor)
+- § 288 Abs. 1 BGB — Verzugszinssatz (5 Prozentpunkte über Basiszinssatz)
+- § 288 Abs. 2 BGB — Verzugszinssatz im B2B-Bereich (9 Prozentpunkte über Basiszinssatz)
+- § 291 BGB — Rechtshängigkeitszinsen (ab Klageerhebung)
+- § 708 Nr. 11 ZPO — Vollstreckbarkeit ohne Sicherheit bis 1.500 EUR
+- § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent
+- § 713 ZPO — Vollstreckbarkeit ohne Sicherheit bei fehlendem Rechtsmittel
+
+## Kommentarliteratur
+
+- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 709 Rn. 1-20 (vorläufige Vollstreckbarkeit)
+- Grüneberg, BGB, 83. Aufl. 2024, § 288 Rn. 1-15 (Verzugszinsen Höhe und Beginn)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 313 Rn. 20-30 (Tenor Form und Bestimmtheit)
+
+## Schritt-für-Schritt-Workflow
+
+1. **Hauptsacheantrag prüfen:** Zahlungsbetrag, Zinssatz, Zinsbeginn — konkret und vollstreckbar formulieren.
+2. **Hilfsanträge/Widerklage:** Reihenfolge wie im Klageantrag; Hilfsantrag mit "hilfsweise:" kennzeichnen.
+3. **Kostenentscheidung:** § 91 ZPO (voller Sieg) oder § 92 ZPO (Quotelung).
+4. **Vorläufige Vollstreckbarkeit:** Passende Norm wählen (§ 708, 709 oder 713 ZPO).
+5. **Streitwertbeschluss:** Im Tenor oder separat (§ 63 GKG).
+
+## Output-Template
+
+**Adressat:** Urteil → Tenor — Tonfall: formal-amtlich
+
+```
+## Tenor
+
+1. Die Beklagte wird verurteilt, an den Kläger [BETRAG] EUR nebst Zinsen in Höhe von
+   fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem [DATUM] zu zahlen.
+   [Im Übrigen wird die Klage abgewiesen.]
+
+2. Die [Beklagte / Kosten werden gequotelt: Kläger X von Hundert, Beklagte Y von Hundert]
+   trägt die Kosten des Rechtsstreits.
+
+3. Das Urteil ist vorläufig vollstreckbar [gegen Sicherheitsleistung in Höhe von
+   einhundertzehn Prozent des jeweils zu vollstreckenden Betrages].
+
+4. Der Streitwert wird auf [BETRAG] EUR festgesetzt.
+```
 
 ## Aufbau
 

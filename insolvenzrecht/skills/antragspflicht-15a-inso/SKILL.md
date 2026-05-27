@@ -145,6 +145,9 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 
 ## Ablauf
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Feststellung des Eröffnungsgrundes**
    Zunächst ist zu klären, ob Zahlungsunfähigkeit (§ 17 InsO — s. Schwester-
    Skill) oder Überschuldung (§ 19 InsO — s. Schwester-Skill) vorliegt.
@@ -182,6 +185,20 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
    Ablauf festhalten. Bestehende D&O-Versicherungspolice prüfen (Coverage,
    Selbstbehalt, Ausschlussklauseln für wissentliche Pflichtverletzungen).
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Antragspflicht § 15a InsO pruefend und Beratungsschreiben erstellen | Beratungsschreiben nach Pruefschema; Template unten |
+| Variante A — Insolvenzreife strittig Gutachten noetig | Sachverstaendigen-Gutachten zuerst; Beratungsschreiben nach Klaerunm |
+| Variante B — Sanierung noch moeglich StaRUG als Alternative | StaRUG-Option parallel pruefen; Antrag nicht zwingend sofort |
+| Variante C — Gesellschafter kennen Lage bereits Haftungsrisiko | Haftungs-Beratung separat; Antragspflicht und Haftung unterscheiden |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabeformat
 
 Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
@@ -198,6 +215,7 @@ Ausgabe in strukturierter Prosa oder tabellarischer Form, jeweils bestehend aus:
   D&O-Deckungsprüfung.
 - **Belege:** Mindestens zwei BGH-Entscheidungen mit Randnummer, relevante
   Kommentar­stellen, IDW S 11.
+
 
 ## Beispiel
 
@@ -288,3 +306,59 @@ Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben:
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — Antragspflicht § 15a InsO
+
+Bevor losgelegt wird, klaere:
+
+1. **Rechtsform?** § 15a InsO gilt fuer GmbH, AG, UG, GmbH & Co. KG; natuerliche Personen: keine Antragspflicht, nur Antragsrecht.
+2. **Eröffnungsgrund?** ZU § 17 InsO: Frist 3 Wochen. Ueberschuldung § 19 InsO: Frist 6 Wochen. Frist-Uhr laeuft ab erstem Kenntnistag.
+3. **Wer ist verpflichtet?** Jeder Geschaeftsfuehrer/Vorstand individuell; Delegation an Mitgeschaeftsfuehrer unwirksam (BGH II ZR 119/14).
+4. **Sanierungsversuch?** Antragspflicht wird durch echten Sanierungsversuch NICHT beseitigt; Frist laeuft weiter; Eigenantrag sichert Sanierungszeit.
+5. **Zahlungen nach Insolvenzreife?** § 15b InsO: Zahlungen nach Insolvenzreife von GF persoenlich erstattten; Ausnahme nur Betriebskostenentgeltsatz ohne Massebeeintraechtigung.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template Beratungsschreiben Antragspflicht
+
+**Adressat:** Geschaeftsfuehrung [FIRMA] — Tonfall: klar-warnend mit Handlungsempfehlung
+
+```
+VERTRAULICH — ANWALTLICHES SCHREIBEN
+[KANZLEI]
+[DATUM]
+
+Betreff: Dringende Hinweis — Insolvenzantragspflicht § 15a InsO
+
+Sehr geehrte/r Frau/Herr [NAME],
+
+nach unserer heutigen Beratung weise ich Sie ausdruecklich darauf hin:
+
+Es besteht [Zahlungsunfaehigkeit § 17 InsO / Ueberschuldung § 19 InsO].
+Die Antragsfrist des § 15a Abs. 1 InsO laeuft am [DATUM] ab.
+
+Bei Ueberschreitung dieser Frist drohen:
+- Strafbarkeit nach § 15a Abs. 4 InsO (Freiheitsstrafe bis 3 Jahre)
+- Persoenliche Haftung nach § 15b InsO fuer alle Zahlungen nach Insolvenzreife
+- Schadensersatzhaftung gegenueber Glaeubigern
+
+Ich empfehle die sofortige Stellung des Insolvenzantrags, idealerweise mit Antrag auf
+[Eigenverwaltung / Schutzschirm / Regelverfahren].
+
+Bitte bestaetigen Sie schriftlich, dass Sie diesen Hinweis erhalten haben.
+
+[UNTERSCHRIFT ANWALT]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+

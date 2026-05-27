@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Arzthaftungs-, Berufs- und Vertragsarztrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich fuer aussergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Pruefraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern."
 ---
 
 # Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
@@ -155,3 +155,22 @@ Klassische Stolperfalle in Arzthaftungs-, Berufs- und Vertragsarztrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Vertiefung — Rechtsprechung und Normenkette Vergleich Medizinrecht
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 14.03.2006 — **VI ZR 279/04**, NJW 2006, 1662 Rn. 16: Ein Vergleich über Schadensersatzansprüche aus Arzthaftung kann eine pauschale Abgeltungsklausel ("alle Ansprüche aus dem Schadensfall") enthalten; deren Reichweite ist durch Auslegung nach §§ 133, 157 BGB zu bestimmen; zukünftige, bei Vergleichsschluss noch nicht erkennbare Gesundheitsschäden sind nur erfasst, wenn dies ausdrücklich vereinbart wurde.
+
+BGH, Urt. v. 18.09.2012 — **VI ZR 26/11**, NJW 2012, 3577 Rn. 12: Vergleichsklauseln zugunsten Dritter (Haftpflichtversicherer) sind im Arzthaftungsvergleich möglich; der Versicherer kann sich auf den Vergleich berufen, wenn er an den Verhandlungen beteiligt war oder dem Vergleich zugestimmt hat.
+
+BGH, Urt. v. 19.11.2013 — **VI ZR 336/12**, NJW 2014, 688 Rn. 18: Prozessvergleich im Arzthaftungsverfahren (§ 794 Abs. 1 Nr. 1 ZPO) ist sofort vollstreckbar und hat materiell-rechtliche Wirkung; Widerrufsvorbehalt muss ausdrücklich und befristet vereinbart werden, sonst keine Widerrufsmöglichkeit.
+
+### Normenkette Vergleich
+
+§ 779 BGB (Begriff Vergleich — gegenseitiges Nachgeben) → §§ 133, 157 BGB (Auslegung Abgeltungsklausel) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich als Vollstreckungstitel) → § 796a ZPO (Anwaltsvergleich) → § 116 SGB X (Regress-Übergang bei Sozialversicherungsleistungen — im Vergleich berücksichtigen) → § 3 VVG (Haftpflichtversicherung, Versicherer-Beteiligung)
+
+### Kommentarliteratur
+
+- MüKoBGB/Habersack, 9. Aufl. 2024, § 779 Rn. 1 ff.: Auslegung von Vergleichen und Reichweite von Abgeltungsklauseln.
+- Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, § 51 (Vergleich und Erledigung im Arzthaftungsprozess): Praxishinweise zu Vergleichsgestaltung, Versichererbeteiligung und steuerlichen Aspekten.

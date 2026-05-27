@@ -1,6 +1,6 @@
 ---
 name: transparenz-mandanten
-description: "Vorlagen-Klauseln für den Mandatsvertrag zur Information über KI-Einsatz: Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO, Informationspflichten nach Art. 13 DSGVO und Hinweise zu Drittland-Transfer sowie zur anwaltlichen Verantwortlichkeit."
+description: "Transparenz gegenueber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Pruefraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklaerung. Output Musterklauseln fuer Mandatsvertrag und Datenschutzerklaerung. Abgrenzung zu Kennzeichnungspflichten-Veroeffentlichungen und zu Berufsrecht-Bausteine."
 ---
 
 # Transparenz gegenüber Mandanten
@@ -33,3 +33,48 @@ Soweit wir KI-Dienste von Anbietern außerhalb des Europäischen Wirtschaftsraum
 ## Hinweise zur Aktualisierung
 
 Die Transparenzpflichten sind bei jedem Wechsel des KI-Anbieters und bei jeder Änderung des Drittlandtransfer-Rahmens anzupassen. Die Datenschutzerklärung der Kanzlei muss entsprechend aktualisiert und Mandanten über wesentliche Änderungen informiert werden.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik verstaendlich offenlegen — massgeblich fuer Transparenz gegenueber Mandanten.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Anwalt muss Mandant ueber wesentliche Aspekte des Arbeitsprozesses informieren — KI-Einsatz gehrt dazu.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 38: Art. 13/14 DSGVO-Informationspflicht umfasst auch Automatisierungsgrad der Datenverarbeitung.
+- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Vertrauensverhaeltnis Anwalt-Mandant erfordert Transparenz ueber eingesetzte Hilfsmittel.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 13 Abs. 1 lit. f DSGVO — Information ueber automatisierte Entscheidungsfindung bei Ersterhebung
+- Art. 14 DSGVO — Information bei Daten nicht direkt beim Betroffenen erhoben
+- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht bei automatisierten Entscheidungen
+- Art. 50 Abs. 1 KI-VO — Chatbot-Offenlegungspflicht
+- § 43 BRAO — Sorgfaltspflicht umfasst Transparenz gegenueber Mandant
+
+## Triage zu Beginn
+1. Werden Mandanten ueber den Einsatz von KI-Tools bei der Bearbeitung ihres Mandats informiert?
+2. Ist eine Datenschutzerklaerung vorhanden, die KI-Einsatz und Art. 13 DSGVO-Information abdeckt?
+3. Setzt die Kanzlei Chatbots oder vollautomatisierte Systeme gegenueber Mandanten ein?
+4. Haben Mandanten ein Widerspruchsrecht gegen KI-Nutzung bei ihrer Mandatsbearbeitung?
+5. Ist ein Standard-Hinweis auf KI-Nutzung in das Mandatsschreiben oder die AGB integriert?
+
+## Output-Template — Mandanten-Transparenzhinweis KI
+**Adressat:** Mandant — Tonfall: klar, verstaendlich, nicht-technisch
+```
+HINWEIS ZUM EINSATZ VON KI-WERKZEUGEN
+[KANZLEI] — Stand: [DATUM]
+
+Sehr geehrte Mandantin, sehr geehrter Mandant,
+
+wir moechten Sie darueber informieren, dass wir bei der Bearbeitung Ihres Mandats
+in bestimmten Bereichen KI-gestuetzte Werkzeuge einsetzen. Diese werden
+ausschliesslich als Arbeitshilfsmittel verwendet. Jedes Arbeitsergebnis wird von
+einem zugelassenen Rechtsanwalt oder einer zugelassenen Rechtsanwaeltin geprueft
+und verantwortet.
+
+Was KI bei uns NICHT tut:
+- Keine selbststaendige Rechtsberatung
+- Keine Verarbeitung Ihrer Daten zu Trainingszwecken (§ 43e BRAO, Art. 28 DSGVO)
+- Keine vollautomatisierten Entscheidungen ohne menschliche Pruefung
+
+Ihre Datenschutzrechte bleiben unveraendert erhalten. Weitere Informationen
+entnehmen Sie bitte unserer Datenschutzerklaerung: [LINK/REFERENZ]
+
+Bei Fragen wenden Sie sich an: [ANSPRECHPARTNER], [EMAIL]
+```

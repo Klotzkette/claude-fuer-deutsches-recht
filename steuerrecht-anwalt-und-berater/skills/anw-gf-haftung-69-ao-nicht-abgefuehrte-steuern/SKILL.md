@@ -1,6 +1,6 @@
 ---
 name: anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern
-description: "Verteidigung gegen Haftungsbescheid nach § 69 AO bei nicht abgefuehrter Lohnsteuer oder Umsatzsteuer der GmbH/UG. Persoenliche Haftung der Geschaeftsfuehrung fuer vorsaetzlich oder grob fahrlaessig verletzte Pflichten. Abgrenzung zu § 42d EStG (AG-Haftung) und § 266a StGB (Beitragsvorenthaltung). Haftungsausschluss bei unverschuldeter Liquiditaetskrise Grundsatz anteilige Tilgung. Verschulden Kausalitaet Mitverschulden FA Verwirkung. Schreibvorlagen Einspruch und Klage."
+description: "Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgefuehrter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschaeftsfuehrer erhaelt persoenlichen Haftungsbescheid des Finanzamts fuer Steuerschulden der Gesellschaft in der Krise. Pruefung vorsaetzliche oder grob fahrlaessige Pflichtverletzung Kausalitaet Mitverschulden FA Verwirkung Grundsatz anteilige Tilgung bei Liquiditaetskrise. Abgrenzung zu § 42d EStG Arbeitgeber-Haftung und § 266a StGB Beitragsvorenthaltung. Output Einspruch und Klage gegen Haftungsbescheid Beratungsmemo Haftungsausschluss-Argumente."
 ---
 
 # GF-Haftung § 69 AO für nicht abgeführte Lohn-/Umsatzsteuer

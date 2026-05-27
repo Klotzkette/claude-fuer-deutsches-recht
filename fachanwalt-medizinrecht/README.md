@@ -1,6 +1,6 @@
 # Fachanwalt Medizinrecht
 
-Light-Touch-Plugin Fachanwalt für Medizinrecht. Orientierung Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte und Heilberufe SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen sozialrecht-kanzlei.
+Plugin Fachanwalt für Medizinrecht. Orientierung Arzthaftung §§ 630a ff. BGB Patientenrechte Vertragsarztrecht Berufsrecht Ärzte und Heilberufe SGB V Krankenversicherung MPDG Apothekenrecht. Schnittstellen sozialrecht-kanzlei.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

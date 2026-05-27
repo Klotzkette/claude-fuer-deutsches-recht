@@ -1,191 +1,202 @@
 ---
 name: betriebsuebergang-613a-pruefen
-description: Strukturierte Pruefung Betriebsuebergang § 613a BGB. Erfasst Identitaetswahrung des Betriebs nach EuGH-Spaeh-Christel-Schmidt-Rechtsprechung wirtschaftliche Einheit Inventar materielle und immaterielle Aktiva Personal Kundenbeziehungen Standorte Eigentumsuebergang vs. blosse Funktionsnachfolge. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB einen Monat ab Unterrichtung Haftungsregeln § 613a Abs. 2 BGB Veraeusserer haftet ein Jahr Erwerber tritt ein in Rechte und Pflichten. Pruefung Kuendigungsverbot wegen Uebergangs § 613a Abs. 4 BGB.
+description: "Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber ueber und Arbeitnehmer fragen nach Rechten oder Kuendigungsschutz. Pruefraster Identitaetswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollstaendig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kuendigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Pruef-Memo Uebergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan."
 ---
 
 # Betriebsübergang § 613a BGB prüfen
 
-## Zweck
+## Triage-Frage — vor der Prüfung klären
 
-Bei einer Transaktion (Asset Deal Carve-Out Outsourcing Insourcing) prüfen, ob § 613a BGB greift, welche Pflichten daraus folgen und welche Risiken bestehen.
+Bevor losgelegt wird, kläre:
+1. Handelt es sich um einen Asset Deal, Share Deal oder Outsourcing?
+2. Wird Personal mitübernommen oder nur Funktionen?
+3. Besteht ein Betriebsrat (Mitbestimmung § 111 BetrVG)?
+4. Sind Tarifverträge anwendbar, die auf den Erwerber übergehen sollen?
+5. Welche Schlüsselpersonen könnten widersprechen?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Eingaben
 
 - Vertragsentwurf der Transaktion (APA / SPA / Outsourcing-Vertrag)
-- Beschreibung des übergehenden Bereichs (Produktion Dienstleistung Funktion)
-- Personalliste (alle betroffenen Mitarbeiter mit Eintrittsdatum Funktion)
-- Inventarliste (Maschinen Software Räume)
+- Beschreibung des übergehenden Bereichs (Produktion, Dienstleistung, Funktion)
+- Personalliste (alle betroffenen Mitarbeiter mit Eintrittsdatum, Funktion)
+- Inventarliste (Maschinen, Software, Räume)
 - Kundenbeziehungen und Verträge
 - Zeitplan der Transaktion
-- Eventueller Betriebsrats-Status (Betriebsrat vorhanden?)
-- Tarifverträge anwendbare
+- Betriebsrats-Status (Betriebsrat vorhanden?)
+- Anwendbare Tarifverträge
 
-## Schritt 1 — Tatbestand: Identitätswahrung
+## Zentrale Anspruchsgrundlagen & Normen
 
-### Wirtschaftliche Einheit
+- **§ 613a Abs. 1 BGB** — Eintrittswirkung des Erwerbers in Rechte und Pflichten
+- **§ 613a Abs. 2 BGB** — gesamtschuldnerische Haftung Erwerber/Veräußerer (Veräußerer haftet 1 Jahr für vorher fällig gewordene Ansprüche)
+- **§ 613a Abs. 4 BGB** — Kündigungsverbot wegen Betriebsübergangs (beidseitig)
+- **§ 613a Abs. 5 BGB** — Pflicht zur schriftlichen Unterrichtung der Arbeitnehmer
+- **§ 613a Abs. 6 BGB** — Widerspruchsrecht; Frist: 1 Monat ab Zugang der Unterrichtung
+- **§§ 111, 112, 113 BetrVG** — Unterrichtung und Beratung Betriebsrat; Interessenausgleich; Sozialplan; Nachteilsausgleich bei Verletzung
+- **§§ 322 ff., 324 UmwG** — Umwandlungsrecht; § 613a entsprechend anwendbar bei Spaltung und Verschmelzung
+- **§ 125 InsO** — erleichterte Kündigung im Insolvenzverfahren; § 613a BGB gilt auch in Insolvenz
 
-Nach EuGH C-13/95 Süzen und Folgerechtsprechung:
+## Aktuelle Rechtsprechung
 
-- **Wirtschaftliche Einheit** muss übergehen unter Wahrung ihrer Identität
-- Mehrwertige Würdigung aller Umstände
+- **BAG, Urt. v. 25.09.2014 – 8 AZR 635/13, NZA 2015, 235** — Identitätswahrung bei Outsourcing: Das BAG stellt klar, dass bei überwiegend personalintensiven Branchen (z. B. Gebäudereinigung) die Übernahme eines nach Zahl und Sachkunde wesentlichen Teils des Personals entscheidend für die Annahme eines Betriebsübergangs sein kann; bloße Funktionsnachfolge reicht dagegen nicht.
+- **BAG, Urt. v. 23.05.2013 – 8 AZR 207/12, NZA 2013, 1292 Rn. 28** — Unterrichtungspflicht § 613a Abs. 5 BGB: Eine Unterrichtung, die wesentliche Informationen über die wirtschaftlichen und sozialen Folgen des Übergangs auslässt, ist fehlerhaft; die Widerspruchsfrist beginnt nicht zu laufen — der Widerspruch kann auch noch Jahre nach dem Übergang erklärt werden.
+- **EuGH, Urt. v. 11.03.1997 – C-13/95, Süzen, NZA 1997, 433** — Grundlage der Sieben-Punkte-Prüfung: Der EuGH verneinte einen Betriebsübergang bei bloßem Wechsel des Reinigungsdienstleisters ohne Übernahme von Personal oder Betriebsmitteln; erst die kumulative Würdigung aller Umstände ergibt das Bild.
+- **EuGH, Urt. v. 20.11.2003 – C-340/01, Abler, NZA 2004, 89** — Krankenhausverpflegung: In personalintensiven Branchen ist die Übernahme des Personals das entscheidende Merkmal für die Identitätswahrung der wirtschaftlichen Einheit.
 
-### Sieben-Punkte-Prüfung BAG / EuGH
+## Kommentarliteratur
 
-1. **Art des Betriebs / Betriebsteils**
-2. **Übergang materieller Aktiva** (Gebäude Inventar Maschinen)
-3. **Wert der immateriellen Aktiva** (Software Know-how Kundenstamm Marken)
-4. **Übernahme des Personals** (Hauptbelegschaft Schlüsselpersonen)
-5. **Übergang der Kundschaft / Auftragsbestand**
-6. **Ähnlichkeit der vorausgegangenen und nachfolgenden Tätigkeit**
-7. **Dauer der eventuellen Unterbrechung der Tätigkeit**
+- Preis, in: ErfK, 25. Aufl. 2025, § 613a BGB Rn. 1 ff. (Identitätswahrung, Sieben-Punkte-Prüfung, Unterrichtungspflicht, Widerspruchsrecht)
+- Müller-Glöge, in: MüKoBGB, 9. Aufl. 2024, § 613a BGB Rn. 1 ff. (Tatbestand, Rechtsfolgen, Tarifvertragsfortwirkung)
+- Lembke, in: HWK, 11. Aufl. 2024, § 613a BGB Rn. 1 ff. (Outsourcing, Insourcing, Insolvenzfall)
 
-### Fallgruppen
+## Ablauf
 
-- **Asset Deal Maschinenbau** typisch Betriebsübergang — Maschinen Räume Personal Kundenstamm
-- **Outsourcing IT-Dienstleistung** je nach Konstellation — bei reiner Funktionsnachfolge ohne Personal kein § 613a
-- **Reinigungsfirma-Wechsel** häufig kein § 613a (Personal wird in Regel nicht übernommen — Functional Succession reicht nicht)
-- **Aber: ICT / Software / KnowHow-zentral** häufig § 613a auch ohne Maschinen-Übergang
+### Schritt 1 — Tatbestand: Identitätswahrung
 
-### Identitätswahrung verneinen
+Nach EuGH C-13/95 Süzen und Folgerechtsprechung muss eine **wirtschaftliche Einheit** unter Wahrung ihrer **Identität** übergehen.
 
-- Wenn nur **Funktion / Aufgabe** übergeht ohne wirtschaftliche Einheit
-- Wenn übergehender Bereich grundlegend umstrukturiert wird
-- Wenn keine personelle Kontinuität
+**Sieben-Punkte-Prüfung BAG / EuGH:**
 
-## Schritt 2 — Folgen: Eintritt Erwerber § 613a Abs. 1 BGB
+1. Art des Betriebs / Betriebsteils
+2. Übergang materieller Aktiva (Gebäude, Inventar, Maschinen)
+3. Wert der immateriellen Aktiva (Software, Know-how, Kundenstamm, Marken)
+4. Übernahme des Personals (Hauptbelegschaft, Schlüsselpersonen)
+5. Übergang der Kundschaft / Auftragsbestand
+6. Ähnlichkeit der vorausgegangenen und nachfolgenden Tätigkeit
+7. Dauer der eventuellen Unterbrechung der Tätigkeit
 
-### Eintrittswirkung
+**Entscheidungsbaum:**
+- Werden Maschinen, Räume und wesentliches Personal übertragen? → Ja: Betriebsübergang wahrscheinlich → weiter zu Schritt 2
+- Geht nur die Funktion über, ohne Personal und Betriebsmittel? → Nein: bloße Funktionsnachfolge, kein § 613a BGB
+- Personalintensive Dienstleistung (Reinigung, Bewachung, Pflege)? → Übernahme des wesentlichen Personals entscheidend (EuGH, Süzen)
 
-- Erwerber tritt in **Rechte und Pflichten** der Arbeitsverhältnisse ein
-- Arbeitsvertrag unverändert
-- Tarifvertrag — bei Mitgliedschaft Erwerber im Verband / sonst statisch nach § 613a Abs. 1 Satz 2 BGB
-- Betriebsvereinbarungen — statisch ein Jahr lang
+**Fallgruppen:**
+- **Asset Deal / Maschinenbau** — typisch Betriebsübergang: Maschinen, Räume, Personal, Kundenstamm
+- **IT-Outsourcing** — je nach Konstellation; bei reiner Funktionsnachfolge ohne Personal kein § 613a
+- **Reinigungsfirma-Wechsel** — häufig kein § 613a (Personal wird nicht übernommen)
+- **ICT / Software / Know-how-zentral** — häufig § 613a auch ohne Maschinen-Übergang
 
-### Kontinuität
+### Schritt 2 — Folgen: Eintrittswirkung § 613a Abs. 1 BGB
 
-- Betriebszugehörigkeitsdauer
-- Urlaubsanspruch
-- Lohn- und Gehaltsbestandteile
-- Sozialversicherung
+- Erwerber tritt in **Rechte und Pflichten** der Arbeitsverhältnisse ein (Kontinuität von Lohn, Urlaub, Betriebszugehörigkeit)
+- Tarifvertrag — bei Verbandsmitgliedschaft Erwerber: dynamische Weitergeltung; sonst: statische Weitergeltung nach § 613a Abs. 1 S. 2 BGB für 1 Jahr
+- Betriebsvereinbarungen — statische Weitergeltung 1 Jahr nach § 613a Abs. 1 S. 2 BGB
 
-## Schritt 3 — Unterrichtungs-Pflicht § 613a Abs. 5 BGB
+### Schritt 3 — Unterrichtungspflicht § 613a Abs. 5 BGB
 
-### Form und Inhalt
-
-- **Schriftlich** (auch Mail wenn unterschrieben)
-- **An die betroffenen Arbeitnehmer**
-- Vor dem Übergang
-- Inhalt:
-  - Zeitpunkt / geplanter Zeitpunkt
+**Form und Inhalt — Mindestanforderungen:**
+- Schriftlich; an jeden betroffenen Arbeitnehmer persönlich
+- Vor dem Übergang (rechtzeitig, nicht am Tag des Vollzugs)
+- Pflichtangaben:
+  - Zeitpunkt / geplanter Zeitpunkt des Übergangs
   - Grund des Übergangs
-  - Rechtliche wirtschaftliche soziale Folgen für die Arbeitnehmer
+  - Rechtliche, wirtschaftliche und soziale Folgen für die Arbeitnehmer
   - Vorgesehene Maßnahmen
-  - Möglichkeit Widerspruch
+  - Widerspruchsrecht mit Frist (§ 613a Abs. 6 BGB)
 
-### Folge fehlerhafter Unterrichtung
+**Folge fehlerhafter Unterrichtung:**
+- Widerspruchsfrist beginnt nicht — Widerspruch auch noch Jahre später möglich (BAG, Urt. v. 23.05.2013 – 8 AZR 207/12, NZA 2013, 1292 Rn. 28)
+- Schadensersatz bei schuldhafter Verletzung
 
-- **Widerspruchsfrist beginnt nicht** zu laufen — auch noch Jahre später möglich
-- **Schadensersatz** wegen Verletzung
-- BAG 8 AZR 124/06 — Unterrichtung mit allen wesentlichen Informationen
+### Schritt 4 — Widerspruchsrecht § 613a Abs. 6 BGB
 
-## Schritt 4 — Widerspruchsrecht § 613a Abs. 6 BGB
+- Frist: **1 Monat** ab Zugang der ordnungsgemäßen Unterrichtung
+- Bei fehlerhafter Unterrichtung: Frist läuft nicht
+- Wirkung des Widerspruchs: Arbeitsverhältnis verbleibt beim Veräußerer
+- Veräußerer kann bei fehlender Beschäftigungsmöglichkeit betriebsbedingt kündigen
+- Strategisches Risiko: Schlüsselpersonen können widersprechen → Kommunikationsstrategie vor Vollzug wichtig
 
-### Frist
+### Schritt 5 — Kündigungsverbot § 613a Abs. 4 BGB
 
-- **Ein Monat** ab Zugang der Unterrichtung
-- Bei fehlerhafter Unterrichtung läuft Frist nicht — Widerspruch noch Jahre später möglich
+- Kündigung **wegen** des Betriebsübergangs ist unwirksam — beidseitig (Veräußerer und Erwerber)
+- Kündigungen aus anderen Gründen (personenbedingt, verhaltensbedingt, betriebsbedingt aus anderen Gründen) bleiben möglich
+- Beweislast: Arbeitgeber muss nachweisen, dass die Kündigung nicht wegen des Übergangs ausgesprochen wurde
 
-### Wirkung
+### Schritt 6 — Haftung § 613a Abs. 2 BGB
 
-- Arbeitsverhältnis bleibt beim Veräußerer
-- Veräußerer kann betriebsbedingt kündigen wenn Beschäftigung nicht mehr möglich
-- Bei Kündigung sozialer Schutz (Sozialauswahl Massenentlassung)
+- Erwerber haftet für alle nach Übergang fälligen Ansprüche
+- Veräußerer haftet **1 Jahr** gesamtschuldnerisch für **vor** Übergang fällig gewordene Ansprüche
+- Erwerber haftet auch für vorher fällig gewordene Ansprüche nach der Eintrittstheorie
 
-### Strategische Bedeutung
+### Schritt 7 — Betriebsrat-Information § 111 BetrVG
 
-- Schlüsselpersonen können widersprechen — gefährdet die Transaktion
-- Kommunikationsstrategie wichtig
+- Bei Betriebsänderung (> 20 Arbeitnehmer betroffen): Unterrichtungs- und Beratungspflicht
+- Interessenausgleich (§ 112 BetrVG): Verhandlungspflicht, kein Einigungszwang
+- Sozialplan (§ 112 BetrVG): Einigungszwang über Leistungen an betroffene Arbeitnehmer; erzwingbar über Einigungsstelle
+- Nachteilsausgleich nach § 113 BetrVG bei Verletzung der Interessenausgleichspflicht
 
-## Schritt 5 — Kündigungsverbot § 613a Abs. 4 BGB
-
-- **Verbot der Kündigung wegen Betriebsübergang**
-- Beidseitig — Veräußerer und Erwerber
-- Bei Verstoß Kündigung unwirksam
-- **Kündigungen aus anderen Gründen** (krankheitsbedingt verhaltensbedingt betriebsbedingt aus anderen Gründen) bleiben möglich
-- Beweislast und Indizien
-
-## Schritt 6 — Haftung § 613a Abs. 2 BGB
-
-- **Erwerber** haftet für nach Übergang fällige Ansprüche
-- **Veräußerer** haftet ein Jahr gesamtschuldnerisch für vor Übergang fällige Ansprüche
-- **Erwerber** haftet auch für vor Übergang fällig gewordene Forderungen (Eintrittstheorie)
-
-## Schritt 7 — Betriebsrat-Information § 111 BetrVG
-
-- Bei Betriebsänderung Unterrichtungs- und Beratungs-Pflicht
-- Interessenausgleich
-- Sozialplan
-- Bei Mitbestimmungs-Verletzung Nachteilsausgleich § 113 BetrVG
-
-## Schritt 8 — Tarifvertrag-Geltung
-
-### Erwerber tarifgebunden
-
-- Eintritt in Tarifvertrag — wenn Erwerber Mitglied desselben Verbandes
-- Andere Tarifgeltung — Geltung der Erwerber-Tarife
-
-### Erwerber nicht tarifgebunden
-
-- **Statische Weitergeltung** § 613a Abs. 1 Satz 2 BGB
-- Tarifvertrag wirkt nach wie individualrechtlich
-- Erst nach einem Jahr Änderung möglich
-
-## Schritt 9 — Sonderfälle
-
-### Insolvenz-Plan und Übertragende Sanierung
-
-- Bei Insolvenz besondere Regeln § 613a Abs. 1 BGB grundsätzlich auch in Insolvenz
-- § 125 InsO Sonderkündigungsrecht Insolvenzverwalter
-- Erleichterungen in der Praxis
-
-### Konzernumstrukturierung
-
-- Verschmelzung — § 324 UmwG Anwendung § 613a entsprechend
-- Spaltung — § 613a entsprechend
-- Carve-Out per Asset Deal — § 613a direkt
-
-### Outsourcing
-
-- Häufig strittig — Identitätswahrung?
-- Beispiele EuGH: C-13/95 Süzen, C-242/09 Albron, C-466/07 Klarenberg
-
-## Schritt 10 — Praktische Schritte
+### Schritt 8 — Praktische Schritte
 
 | Schritt | Verantwortlich | Frist |
 |---|---|---|
-| Identifikation übergehender Bereich | Berater Mandant | Vor Vertragsunterzeichnung |
+| Identifikation übergehender Bereich | Berater, Mandant | Vor Vertragsunterzeichnung |
 | Personalliste fertigen | HR Veräußerer | Mehrere Wochen vor Closing |
-| Unterrichtungs-Entwurf § 613a Abs. 5 | Berater | Drei bis vier Wochen vor Closing |
+| Unterrichtungs-Entwurf § 613a Abs. 5 | Berater | 3–4 Wochen vor Closing |
 | Unterrichtung versenden | Veräußerer / Erwerber | Vor Closing |
-| Widerspruchsfrist abwarten | — | Ein Monat ab Unterrichtung |
+| Widerspruchsfrist abwarten | — | 1 Monat ab Unterrichtung |
 | Betriebsrat-Information § 111 BetrVG | Veräußerer | Rechtzeitig vor Vollzug |
 
-## Ausgabe
+## Strategische Optionen (vor dem Template entscheiden)
 
-- `betriebsuebergang-analyse.md` mit Identitätsprüfung
-- Unterrichtungs-Schreiben § 613a Abs. 5 BGB als Entwurf
-- Risiko-Matrix Widerspruch Schlüsselpersonen
-- Frist im Fristenbuch (Widerspruchsfrist Verjährungs-Standard drei Jahre)
-- Betriebsrats-Kommunikation
-- Bei Kündigung Erwerber: Verteidigungs-Strategie § 613a Abs. 4 BGB
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Quellen
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Arbeitnehmer will Betriebsuebergang anfechten | Widerspruchserklaerung nach § 613a Abs. 6 BGB; Template unten |
+| Variante A — Arbeitnehmer will beim neuen Betriebsinhaber bleiben | Uebergang hinnehmen; nur Konditionen-Pruefung sicherstellen |
+| Variante B — Betriebsuebergang rechtlich zweifelhaft | Feststellungsklage vorbereiten; Uebergang bestreiten |
+| Variante C — Insolvenz des alten Inhabers | § 613a Abs. 1 S. 4 BGB Sonderregelung pruefen; kurzfristige Handlung empfohlen |
 
-- BGB § 613a
-- BetrVG §§ 111 112 113
-- UmwG §§ 322 ff. 324
-- InsO § 125
-- EuGH-Rspr. Spähn / Christel Schmidt / Süzen / Albron / Klarenberg
-- BAG 8. Senat
-- ErfK Preis BGB
-- ErfK (begr. Müller-Glöge/Preis/Schmidt), 25. Aufl. 2025 — fortgeführt durch Preis/Sittard/Kiel
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template Betriebsübergangsanalyse
+
+**Adressat:** Mandant (Erwerber oder Veräußerer) — Tonfall: sachlich-juristisch
+
+```
+BETRIEBSÜBERGANGSANALYSE – [Transaktion] – [Datum]
+VERTRAULICH – § 43a Abs. 2 BRAO
+
+Ergebnis: [§ 613a BGB anwendbar / nicht anwendbar / Grenzfall]
+
+I.   Tatbestand Identitätswahrung
+     Sieben-Punkte-Ergebnis: [Übersicht]
+     Gesamtbewertung: [Betriebsübergang ja/nein/wahrscheinlich]
+
+II.  Unterrichtungspflicht § 613a Abs. 5 BGB
+     Entwurf: [angehängt / zu erstellen]
+     Fristablauf Widerspruch: [Datum]
+
+III. Widerspruchsrisiko
+     Identifizierte Schlüsselpersonen: [Liste]
+     Empfehlung Kommunikationsstrategie: [konkret]
+
+IV.  Haftungsabgrenzung § 613a Abs. 2 BGB
+     Risiken Veräußerer: [Forderungen aus Zeitraum vor Übergang]
+     Risiken Erwerber: [Eintrittstheorie, Summe]
+
+V.   Betriebsrat-Mitbestimmung
+     Betriebsrat vorhanden: [ja / nein]
+     Interessenausgleich erforderlich: [ja / nein]
+     Sozialplan: [Schätzung Volumen]
+
+Handlungsempfehlungen:
+  1. ...
+  2. ...
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Quellen und Zitierweise
+
+Zitierstandard: `../references/zitierweise.md`.
+
+- § 613a BGB; §§ 111–113 BetrVG; §§ 322 ff. UmwG; § 125 InsO
+- EuGH, Urt. v. 11.03.1997 – C-13/95, Süzen
+- BAG, Urt. v. 23.05.2013 – 8 AZR 207/12, NZA 2013, 1292
+- Preis, in: ErfK, 25. Aufl. 2025, § 613a BGB Rn. 1 ff.

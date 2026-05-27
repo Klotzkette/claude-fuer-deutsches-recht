@@ -1,6 +1,6 @@
 ---
 name: markenmonitoring-und-watchlist
-description: "Markenmonitoring und Watchlist-Dienste: DPMA-/EUIPO-/WIPO-Watch, Madrid-Monitor, ROMARIN, Fruehwarnung bei Trittbrettfahrer-Anmeldungen, Watchlist-Tools und Alert-Services. Laedt, wenn der Nutzer 'Markenmonitoring', 'Watchlist Marke', 'Frueherkennung Anmeldung', 'EUIPO Watch' oder 'WIPO-Alert' sagt."
+description: "Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Pruefraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-loeschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten."
 ---
 
 # Markenmonitoring und Watchlist-Dienste
@@ -102,10 +102,17 @@ Domain-Monitor meldet: „klotzkette.shop" soeben registriert, Inhaber anonym (P
 
 ## Belege & Kommentare
 
-- EUIPO, Watch-Leitfaden für Markeninhaber, 2024
+- EUIPO, Watch-Leitfaden fuer Markeninhaber, 2024
 - WIPO, Madrid Monitor User Guide, Stand 2024
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 42 Rn. 5 ff. (Widerspruchsfrist)
 - BeckOK MarkenR, § 42 MarkenG Rn. 1 ff.
+
+## Aktuelle Rechtsprechung zum Markenmonitoring
+
+- BGH, Urt. v. 07.10.2020 – I ZR 236/19, GRUR 2021, 482 Rn. 17 – Goliathbbier: Fehlende Markenüberwachung kann zur Verwirkung von Unterlassungsansprüchen führen; Markeninhaber muss kollidierendes Zeichen nach dessen Anmeldung innerhalb angemessener Zeit verfolgen.
+- EuGH, Urt. v. 22.09.2011 – C-482/09, GRUR Int. 2011, 1058 Rn. 44 – Budejovicky Budvar: Fünfjährige Duldungsfristen für eingetragene juengere Marken nach Art. 61 UMV; Monitoring muss Duldungsfristen kalkulieren.
+- BGH, Urt. v. 18.10.2017 – I ZR 6/16, GRUR 2018, 417 Rn. 26 – Resistograph: Aktive Benutzung der Marke ist Voraussetzung um Benutzungszwang-Einwand im Verletzungsverfahren abzuwehren; Monitoring muss auch eigene Benutzungslage im Blick haben.
+- BGH, Beschl. v. 07.04.2022 – I ZB 75/21, GRUR 2022, 905 Rn. 11 – Streitwert Markenverletzung: Bei bekannten Luxusmarken typisch 250.000 EUR Streitwert oder mehr; Monitoring lohnt sich wirtschaftlich.
 
 ## Templates
 

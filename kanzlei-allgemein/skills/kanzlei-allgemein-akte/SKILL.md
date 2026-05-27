@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-akte
-description: "Legt eine neue Kanzleiakte an oder ordnet Eingänge einer bestehenden Akte zu. Führt Konfliktcheck Mandatsumfang Datenschutz GwG Honorar Vollmacht Aktenstruktur und Mandatsblatt. Verweigert Mandatsannahme nicht automatisch sondern markiert Risiken und Rückfragen."
+description: "Anlage oder Zuordnung einer Kanzleiakte bei neuer Mandatsanfrage oder eingehendem Schriftstueck. Anwendungsfall Mandant erteilt neuen Auftrag oder Eingang ist keiner Akte zugeordnet. Normen § 43a Abs. 4 BRAO Konfliktcheck § 3 BORA Art. 13 DSGVO Datenschutzhinweis §§ 10 11 GwG Identifizierung. Pruefraster Mandatsart Beteiligte Konfliktcheck Mandatsumfang GwG-Anwendbarkeit Honorar Vollmacht. Output Mandatsblatt Konfliktcheck-Vermerk GwG-Vermerk Aktenstruktur Uebergabeliste Fristen. Abgrenzung zu mandatsannahme-gwg (ausfuehrliche GwG-Ausfuehrung) und kanzlei-allgemein-aktenzeichen."
 ---
 
 # Akte, Konfliktcheck und Mandatsanlage

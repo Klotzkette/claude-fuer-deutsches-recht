@@ -1,186 +1,370 @@
 ---
 name: fachanwalt-erbrecht-testamentsvollstreckung
-description: "Testamentsvollstreckung §§ 2197 ff. BGB. Abwicklungs-TV § 2203 BGB Verwaltungs-TV § 2209 BGB Dauer-TV. Annahme der TV § 2202 BGB Bestaetigung Nachlassgericht. Pflichten gegenueber Erben Auskunft Rechnungslegung § 2218 BGB. Vergueutung § 2221 BGB Hamburger-Tabelle. Workflow TV-Annahme Verwaltungsablauf Entlastung."
+description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Pruefraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht fuer allgemeine Nachlassabwicklung."
 ---
 
 # Testamentsvollstreckung
 
-## Zweck
+## Mandantenfragen beim Kaltstart
 
-Mandate als Testamentsvollstrecker (TV) oder Erben gegenüber TV — Annahme, Verwaltung, Auskunft, Vergütung, Entlastung.
+1. Art der TV: Abwicklungs-TV (§ 2203 BGB), Verwaltungs-TV (§ 2209 BGB) oder Dauer-TV (§ 2210 BGB)?
+2. Wer ist Testamentsvollstrecker — Privatperson, Rechtsanwalt, Notar, Bank?
+3. Welche Aufgaben und Befugnisse ordnet das Testament an? Vergütungsregelung vorhanden?
+4. Anzahl und Identität der Erben; pflichtteilsberechtigte Personen vorhanden?
+5. Nachlassgröße (Aktiva) und Art der Vermögensgegenstände (Immobilien, Unternehmen, Krypto)?
+6. Bestehen Konflikte zwischen Erben, zwischen Erben und TV oder mit Pflichtteilsberechtigten?
+7. Hat der TV das Amt bereits angenommen oder wird Beratung vor der Annahme-Entscheidung begehrt?
+8. Liegt Pflichtverletzung des TV vor — Grundlage Entlassungsantrag § 2227 BGB?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## 1) Eingangs-Abfrage
+## Rechtsgrundlagen
 
-1. Art der TV: Abwicklungs-, Verwaltungs- oder Dauer-TV?
-2. Wer ist TV (Privat-Person, Anwalt, Notar, Bank)?
-3. Erblasser-Anordnungen (Aufgaben, Befugnisse, Vergütung)?
-4. Anzahl Erben und Pflichtteils-Berechtigte?
-5. Nachlassvolumen?
-6. Bestehende Konflikte?
+| Norm | Inhalt |
+|------|--------|
+| § 2197 BGB | Ernennung des Testamentsvollstreckers durch Erblasser — im Testament oder Erbvertrag |
+| § 2198 BGB | Bestimmung des TV durch Dritte — z.B. IHK, Nachlassgericht |
+| § 2200 BGB | Ernennung durch das Nachlassgericht wenn TV ausgefallen |
+| § 2202 BGB | Annahme des Amts — gegenüber Nachlassgericht; unverzüglich |
+| § 2203 BGB | Abwicklungs-TV — Auseinandersetzung und Abwicklung des Nachlasses |
+| § 2204 BGB | Auseinandersetzungspflicht — bei Abwicklungs-TV zügige Verteilung |
+| § 2205 BGB | Verwaltungsbefugnis TV — Besitz und Verwaltung der Nachlassgegenstände |
+| § 2209 BGB | Verwaltungs-TV — laufende Verwaltung des Nachlasses über Abwicklung hinaus |
+| § 2210 BGB | Dauer-TV — maximale Dauer 30 Jahre nach Erbfall |
+| § 2215 BGB | Verzeichnispflicht — bei Amtsantritt vollständiges Nachlassverzeichnis |
+| § 2216 BGB | Sorgfaltspflicht — ordentliche Verwaltung; Haftungsmaßstab |
+| § 2218 BGB | Auskunftspflicht — jederzeit gegenüber Erben; mind. jährliche Rechnungslegung |
+| § 2219 BGB | Haftung des TV — Schadensersatz bei schuldhafter Pflichtverletzung |
+| § 2221 BGB | Vergütung — angemessen; Hamburger Tabelle als Orientierung |
+| § 2227 BGB | Entlassung — wichtiger Grund; Entscheidung Nachlassgericht |
+| § 31 V ErbStG | Erbschaftsteuer-Erklärung durch TV |
 
-## 2) TV-Arten
+## Leitentscheidungen
+
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | IVa ZR 261/84 | 26.03.1986 | Hamburger Tabelle — Grundsatzentscheidung zur angemessenen TV-Vergütung; Prozentsatz nach Nachlassgröße |
+| BGH | IV ZR 137/14 | 08.10.2014 | Pflichtverletzung TV — eigenmächtige Entnahmen führen zur Haftung § 2219 BGB; kein Ermessen bei Interessenkonflikt |
+| BGH | IV ZB 14/17 | 21.06.2017 | Entlassung TV § 2227 BGB — grobe Pflichtverletzung; Interessenkonflikt als wichtiger Grund ausreichend |
+| BGH | IV ZR 30/16 | 29.03.2017 | Dauervollstreckung § 2210 BGB — Erblasser kann TV-Dauer im Testament auf 30 Jahre bestimmen |
+| OLG Düsseldorf | 3 Wx 103/18 | 14.01.2019 | Rechnungslegungspflicht § 2218 BGB — jährlich auch ohne Verlangen; Abschluss-Rechnungslegung zwingend |
+| OLG München | 31 Wx 209/14 | 21.07.2015 | TV-Vergütung Unternehmensnachlass — erhöhter Prozentsatz bei Unternehmensführung; 1 % bis 3 % Jahresvergütung |
+
+## Prüfschema — TV-Amtsführung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
+| Schritt | Prüfpunkt | Norm | Ergebnis |
+|---------|-----------|------|---------|
+| 1 | TV-Ernennung wirksam im Testament? | § 2197 BGB | Formvoraussetzungen Testament |
+| 2 | Art der TV bestimmt? | §§ 2203, 2209, 2210 BGB | Umfang der Befugnisse |
+| 3 | Annahme fristgerecht erklärt? | § 2202 BGB | Unverzüglich nach Kenntnis |
+| 4 | TV-Zeugnis vom Nachlassgericht beantragt? | § 2368 BGB | Legitimation gegenüber Banken, Grundbuch |
+| 5 | Nachlassverzeichnis erstellt und übergeben? | § 2215 BGB | Binnen 4 Wochen nach Amtsannahme |
+| 6 | Nachlassgegenstände gesichert? | § 2216 BGB | Konten, Immobilien, Versicherungen |
+| 7 | Erbschaftsteuer-Erklärung eingereicht? | § 31 V ErbStG | Frist: auf Aufforderung Finanzamt |
+| 8 | Gläubiger befriedigt? Pflichtteil ausgezahlt? | §§ 2204, 2046 BGB | Pflichtteile zuerst; dann Verteilung |
+| 9 | Rechnungslegung regelmäßig? | § 2218 Abs. 2 BGB | Jährlich; Abschluss-Rechnungslegung |
+| 10 | Entlastung durch Erben erteilt? | Keine gesetzliche Norm | Schutz vor nachträglichen Haftungsansprüchen |
+
+## TV-Arten im Detail
 
 ### Abwicklungs-TV § 2203 BGB
 
-- Standardform
-- Überführung Nachlass in Erbengemeinschafts-Vermögen
-- Dauer: bis zur Auseinandersetzung
-- Erben sind nicht verfügungsbefugt
+**Inhalt:** Überführung des Nachlasses in die Erbengemeinschaft; zügige Auseinandersetzung.
+
+**Aufgaben:**
+- Nachlassgegenstände sichern und inventarisieren
+- Schulden und Verbindlichkeiten befriedigen
+- Pflichtteilsansprüche auszahlen
+- Vermögen nach Erbquoten auf Erben verteilen
+- Erbschaftsteuer-Erklärung abgeben
+
+**Dauer:** Bis zur vollständigen Auseinandersetzung; typisch 6–18 Monate
+
+**Erben während Abwicklungs-TV:**
+- Nicht unmittelbar verfügungsbefugt (§ 2205 BGB TV-Besitz)
+- Können Auskunft verlangen § 2218 BGB
+- Können TV bei Pflichtverletzung auf Schadensersatz § 2219 BGB in Anspruch nehmen
 
 ### Verwaltungs-TV § 2209 BGB
 
-- Laufende Verwaltung (Mietshaus, Unternehmen)
-- Erben erhalten Ertraege
-- Dauer beim Verwaltungs-Auftrag
+**Inhalt:** Laufende Verwaltung des Nachlasses (z.B. Mietshaus, Unternehmen) — auch nach Abwicklung.
 
-### Dauer-TV
+**Typische Anwendung:**
+- Verwaltung einer Immobilie für minderjährige Erben
+- Führung eines Unternehmens bis zur Übertragung
+- Verwaltung Wertpapierdepot
 
-- Bis zu **30 Jahre** nach Erbfall § 2210 BGB
-- Bei minderjaehrigen Erben sinnvoll
-- Bei verschwendungsanfaelligen Erben Schutz
+**Erträge:** Erben erhalten laufende Erträge (Mieten, Dividenden), nicht Substanz
 
-## 3) Annahme der TV § 2202 BGB
+**Besonderheit TV-Verwaltung bei Unternehmen:**
+- Handelsregistereintragung wenn Unternehmen weitergeführt
+- Persönliche Haftung TV ausschließbar durch Hinweis-Publizität
+- Erhöhte Vergütung 1–3 % p.a. des verwalteten Unternehmenswerts (OLG München 31 Wx 209/14)
 
-### Frist
+### Dauer-TV § 2210 BGB
 
-- Unverzueglich nach Kenntnis (BGH: typisch 2-4 Wochen)
-- Form: Erklärung gegenüber Nachlassgericht
+**Inhalt:** Befugnis des Erblassers, TV auf bis zu 30 Jahre nach Erbfall anzuordnen.
 
-### Bestätigung Nachlassgericht
+**Anwendungsfälle:**
+- Minderjährige Erben (Schutz bis Volljährigkeit + Reifephase)
+- Verschwendungsanfällige Erben
+- Erben mit Suchtproblemen
+- Komplexe Vermögensstrukturen (Familienstiftung-Vorstufe)
 
-- TV-Bestätigung ist Legitimation gegenüber Banken, Grundbuch etc.
-- Antragsgebuehr nach GNotKG (Streitwert nach Nachlassvolumen)
+**Begrenzung:** Erbe kann nach 30 Jahren die TV beenden; vorher nur bei wichtigem Grund § 2227 BGB
 
-### Ablehnung
+## Vergütung des TV § 2221 BGB
 
-- TV kann ablehnen — Nachlassgericht ernennt Ersatz nach § 2200 BGB
-- Erblasser kann Ersatz benannt haben
+### Hamburger Tabelle (BGH IVa ZR 261/84)
 
-## 4) Pflichten des TV
+| Nachlasswert | Vergütungssatz | Mindesthonorar |
+|-------------|---------------|----------------|
+| Bis EUR 250.000 | 4 % | EUR 1.000 |
+| EUR 250.001–500.000 | 3 % | — |
+| EUR 500.001–2.500.000 | 2 % | — |
+| Über EUR 2.500.000 | 1 % | — |
+
+**Zuschläge für besondere Tätigkeiten:**
+- Unternehmensnachlass: + 0.5–2 % p.a.
+- Auslandsvermögen: + 0.5–1 %
+- Steuerrechtlich komplexer Nachlass: + 0.5–1 %
+- Streitiger Nachlass: + 1–2 %
+
+**Anwalt als TV:**
+- Bei anwaltlichem TV: RVG-Anwendung alternativ möglich
+- RVG-Gebühren oft höher als Hamburger Tabelle bei kleinen Nachlässen
+- Einigkeit über RVG-Abrechnung im Voraus empfehlenswert
+
+**Steuerliche Behandlung:**
+- TV-Vergütung beim TV: Einnahmen aus selbstständiger Tätigkeit § 18 EStG
+- Beim Nachlass: abzugsfähige Nachlassverbindlichkeit § 10 Abs. 5 Nr. 3 ErbStG
+
+## Pflichten des TV im Detail
+
+### Verzeichnispflicht § 2215 BGB
+
+- Bei Amtsantritt vollständiges Verzeichnis aller Nachlassgegenstände und Schulden
+- Übergabe an Erben in Abschrift
+- Basis für alle weiteren Entscheidungen (Vergütung, Verteilung, Steuer)
+
+**Inhalt des Verzeichnisses:**
+- Alle Bankkonten mit Salden zum Todestag
+- Immobilien mit Grundstücksbezeichnung und vorläufigem Wert
+- Wertpapiere und Beteiligungen
+- Krypto-Assets und sonstige digitale Vermögenswerte
+- Alle Verbindlichkeiten (Kreditinstitut, Steuerbehörden, Private)
+- Schenkungen letzter 10 Jahre (relevant für Pflichtteil § 2325 BGB)
 
 ### Auskunftspflicht § 2218 BGB
 
-- Gegenüber Erben jederzeit
-- Mindestens **jaehrliche Rechnungslegung** § 2218 II BGB
+- TV muss Erben jederzeit auf Anfrage Auskunft erteilen
+- Mindestens **jährliche Rechnungslegung** § 2218 Abs. 2 BGB (auch ohne Verlangen)
+- Abschluss-Rechnungslegung nach Beendigung der TV
 
-### Verzeichnis § 2215 BGB
+**Inhalt Rechnungslegung:**
+- Einnahmen und Ausgaben seit letzter Rechnungslegung
+- Aktuelle Vermögenssituation
+- Bearbeitungsstand offener Positionen
+- Vergütungsabrechnung
 
-- Bei Amtsantritt: vollständiges Nachlass-Verzeichnis
-- Den Erben in Abschrift mitteilen
+### Haftung § 2219 BGB
 
-### Pflicht zur Auseinandersetzung § 2204 BGB
+TV haftet für schuldhafte Pflichtverletzung nach §§ 276, 278 BGB (Verschuldensmaßstab).
 
-- Bei Abwicklungs-TV: zuegige Auflösung des Nachlasses
-- Bei Streit: Verteilung nach Erbquoten
+**Typische Haftungsfälle:**
+- Entnahmen aus Nachlass für eigene Zwecke
+- Unvorteilhafte Investitionen ohne Rücksprache mit Erben
+- Versäumte Fristen (Steuererklärung, Schlussabrechnung)
+- Fehlende Rechnungslegung
+- Interessenkonflikt (eigene Beteiligung an Nachlassgeschäften)
 
-### Sorgfaltspflichten § 2216 BGB
+## Entlassung § 2227 BGB
 
-- Ordentliche Verwaltung wie ein „Treuhaender"
-- Bei Pflichtverletzung: Haftung § 2219 BGB
+### Voraussetzung: Wichtiger Grund
 
-## 5) Vergütung § 2221 BGB
+| Wichtiger Grund | Beispiele |
+|----------------|---------|
+| Grobe Pflichtverletzung | Entnahmen, fehlende Rechnungslegung, Interessenkonflikt (BGH IV ZB 14/17) |
+| Unfähigkeit | Krankheit, Inkompetenz, Überforderung |
+| Vermögensverfall | Insolvenz des TV; Sicherungsbedarf |
+| Dauerhafter Streit | Destruktiver Konflikt mit allen Erben der Amtsführung entgegenstehend |
 
-### Erblasser-Anordnung
+### Verfahren Entlassung
 
-- Erblasser kann Vergütung anordnen
-- Bei Schweigen: angemessene Vergütung
+1. Antrag beim Nachlassgericht (Amtsgericht)
+2. Anhörung des TV
+3. Beschluss des Gerichts
+4. Ggf. Ernennung Ersatz-TV § 2200 BGB
+5. Beschwerde möglich § 58 FamFG
 
-### Hamburger Tabelle (Standard)
+## Strategische Optionen (vor dem Template entscheiden)
 
-- 4 % Pauschale bei Standardabwicklung
-- Bei komplexem Nachlass (Unternehmen, Auslandsbezug): 1,5-3 %-Aufschlag
-- Bei umfangreichen Aufgaben: Stundensatz nach RVG
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-### Praxis
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Testamentsvollstreckung begleiten oder anfechten | TV-Arten und Schriftsatzbausteine unten |
+| Variante A — TV fuehrt Amt pflichtwidrig | Entlassungsantrag § 2227 BGB; Rechnungslegungsklage |
+| Variante B — Erbe will TV loswerden | Wichtiger Grund pruefen; Entlassungsantrag Nachlassgericht |
+| Variante C — TV-Verguetung streitig | Hamburger Tabelle als Massstab; ggf. Abweichung begruenden |
 
-- Anwalt als TV: oft RVG-Anwendung
-- Bei Privatpersonen: Hamburger Tabelle
-- Bei Streit: Festsetzung durch Nachlassgericht § 2221 BGB
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## 6) Erben-Strategie gegenüber TV
+## Schriftsatz-Bausteine
 
-### Bei Verzoegerung
+### TV-Annahmeerklärung
 
-- Schriftliche Aufforderung zur Auseinandersetzung
-- Klage auf Auskunft / Rechnungslegung
-- Anfechtung der TV bei Pflichtverletzung § 2227 BGB
+```
+An das Nachlassgericht [Amtsgericht]
+Betreff: Annahme des Testamentsvollstreckeramts
 
-### Bei Vergütungs-Streit
+Erblasser: [Name], verstorben [Datum]
+Testament vom [Datum], Errichtung [Form]
 
-- Antrag auf Festsetzung beim Nachlassgericht
-- Hamburger Tabelle als Orientierung
+Hiermit nehme ich das mir im Testament vom [Datum] übertragene
+Amt des Testamentsvollstreckers für den Nachlass nach
+[Name Erblasser] an.
 
-### Entlassung des TV § 2227 BGB
+Ich beantrage die Ausstellung eines Testamentsvollstrecker-
+Zeugnisses gemäß § 2368 BGB.
 
-- Wichtiger Grund: grobe Pflichtverletzung, Unfähigkeit
-- Beschluss Nachlassgericht
-- Ernennung Ersatz-TV
+[Datum, Unterschrift, Notar-Beglaubigung falls erforderlich]
+```
 
-## 7) Workflow TV-Annahme
+### Rechnungslegung Vorlage
 
-### Schritt 1 — Nachlass-Sichtung
+```
+TESTAMENTSVOLLSTRECKUNG [Name Erblasser]
+Rechnungslegung für den Zeitraum [Datum] bis [Datum]
 
-- Testament lesen, Auftrag verstehen
-- Vermögens-Verzeichnis (Bank, Grundbuch, Versicherungen)
-- Schulden ermitteln
+I. EINNAHMEN
+   Mieteinnahmen [Objekt]:           EUR [Summe]
+   Kapitalerträge Wertpapierdepot:   EUR [Summe]
+   Sonstige Einnahmen:               EUR [Summe]
+   GESAMT EINNAHMEN:                 EUR [A]
 
-### Schritt 2 — Annahme-Erklärung
+II. AUSGABEN
+   Verwaltungskosten [Objekt]:       EUR [Summe]
+   Steuervorauszahlungen:            EUR [Summe]
+   Anwalt/Steuerberater:             EUR [Summe]
+   TV-Vergütung:                     EUR [Summe]
+   Sonstige Ausgaben:                EUR [Summe]
+   GESAMT AUSGABEN:                  EUR [B]
 
-- Notar-Beurkundung
-- Beim Nachlassgericht
-- TV-Zeugnis beantragen
+III. ERGEBNIS
+   Überschuss / Unterdeckung:        EUR [A-B]
 
-### Schritt 3 — Vermögens-Sicherung
+IV. VERMÖGENSSTATUS
+   Bankguthaben:                     EUR [Summe]
+   Immobilienwert (Schätzung):       EUR [Summe]
+   Wertpapierdepot:                  EUR [Summe]
+   Offene Forderungen:               EUR [Summe]
+   Verbindlichkeiten:                EUR [Summe]
+   REINVERMÖGEN:                     EUR [Summe]
 
-- Konten-Sperrung bzw. Umstellung
-- Grundbuch-Sperre
-- Versicherungs-Anpassungen
+V. OFFENE POSITIONEN
+   [Beschreibung laufender Angelegenheiten]
+```
 
-### Schritt 4 — Verzeichnis und Erstmitteilung
+### Entlassungsantrag § 2227 BGB
 
-- Vollständiges Nachlass-Verzeichnis (binnen 4 Wochen)
-- Erben informieren
+```
+Nachlassgericht [Amtsgericht]
+Betreff: Antrag auf Entlassung des TV nach § 2227 BGB
 
-### Schritt 5 — Verwertung / Verteilung
+Antragsteller: [Name] als Miterbe im Nachlass [Erblasser]
 
-- Abwicklung Forderungen, Verbindlichkeiten
-- Pflichtteils-Auszahlung
-- Erbschaftssteuer-Erklärung (TV-Pflicht)
+Wir beantragen, den Testamentsvollstrecker [Name]
+aus wichtigem Grund zu entlassen.
 
-### Schritt 6 — Auseinandersetzung
+Wichtiger Grund:
+Der TV hat folgende schwere Pflichtverletzungen begangen:
+1. [Beschreibung konkrete Verletzung mit Datum]
+2. [Beschreibung konkrete Verletzung mit Datum]
 
-- Verteilungs-Plan
-- Erben-Zustimmung (bei Schenkungs-Anrechnung)
-- Vollständige Auflösung
+Die Erben haben dem TV mit Schreiben vom [Datum] Gelegenheit
+zur Abhilfe gegeben. Der TV hat die Pflichtverletzungen
+nicht abgestellt.
 
-### Schritt 7 — Entlastung
+Wir beantragen zugleich die Ernennung eines Ersatz-TV
+nach § 2200 BGB, hilfsweise die Ernennung durch die
+[Notarkammer / IHK].
 
-- Abschluss-Rechnungslegung
-- Erben-Genehmigung
-- Löschung TV im Erbschein
+Anlagen: Beweise für Pflichtverletzungen
+```
 
-## 8) Steuer
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- Erbschaftssteuer-Erklärung durch TV (§ 31 V ErbStG)
-- TV-Vergütung beim TV als Einnahme (selbstständige Tätigkeit)
-- Bei Erben: Vergütung als Nachlass-Verbindlichkeit abzugsfähig
 
-## 9) Typische Fehler
+## Beweislast
 
-1. **Verzeichnis nicht binnen Frist** -> Erbenklage
-2. **Rechnungslegung versäumt** -> Pflichtverletzung
-3. **Vergütung ohne Hamburger Tabelle** -> Streit
-4. **Verfügungs-Mangel** bei Verwaltungs-TV -> Erbenklage
-5. **TV-Annahme unter Bedingung** -> Unwirksam
+| Partei | Beweislastgegenstand | Beweismittel |
+|--------|---------------------|--------------|
+| TV | Ordentliche Amtsführung | Rechnungslegungen, Verzeichnis, Nachweise |
+| Erbe (Haftungsklage) | Pflichtverletzung TV | Rechnungslegungs-Lücken, eigenmächtige Entnahmen |
+| TV (Vergütungsstreit) | Angemessenheit der Vergütung | Hamburger Tabelle + Tätigkeitsnachweis |
+| Antragsteller (Entlassung) | Wichtiger Grund § 2227 BGB | Beweise für Pflichtverletzung |
 
-## 10) BGH-/OLG-Linien
+## Fristen
 
-- BGH, Urt. v. 26.3.1986 — IVa ZR 261/84 (Hamburger Tabelle)
-- BGH, Urt. v. 8.10.2014 — IV ZR 137/14 (Pflichtverletzung Haftung)
-- BGH, Beschl. v. 21.6.2017 — IV ZB 14/17 (Entlassung TV)
+| Frist | Auslöser | Dauer | Folge |
+|-------|---------|-------|-------|
+| Annahme TV-Amt | Kenntnis der Berufung | Unverzüglich (typisch 2–4 Wochen) | Bei Verzögerung: Nachlassgericht kann TV als abgelehnt behandeln |
+| Verzeichnis § 2215 BGB | Amtsannahme | Binnen 4 Wochen | Erbenanspruch auf Vorlage |
+| Rechnungslegung § 2218 BGB | Jährlich (auch ohne Verlangen) | Jährlich | Pflichtverletzung; ggf. Entlassungsgrund |
+| Erbschaftsteuer-Erklärung | FA-Aufforderung | 3 Monate | § 31 ErbStG; persönliche Haftung TV |
+| Entlassungsantrag | Kenntnis Pflichtverletzung | Keine Ausschlussfrist; aber Verwirkung bei längerem Zuwarten möglich | — |
 
-## Anschluss
+## Gegenargumente und Reaktion
 
-- `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` — bei Pflichtteils-TV-Konstellation
-- `fachanwalt-erbrecht-erbschaftsausschlagung` — bei TV-Annahme-Ablehnung
-- `fachanwalt-erbrecht-testamentsentwurf` — bei TV-Vorbereitung
+| Gegenargument | Reaktion |
+|--------------|---------|
+| „TV-Vergütung nach Hamburger Tabelle zu hoch" | Nachlassgericht-Festsetzung § 2221 BGB; besondere Schwierigkeiten und Umfang der Tätigkeit beachten |
+| „TV-Annahme zu spät" | BGH: Aufgabe des Amts = Nichtannahme wenn unverhältnismäßig lange Untätigkeit; Nachlassgericht ernennt Ersatz § 2200 BGB |
+| „Kein wichtiger Grund für Entlassung" | BGH IV ZB 14/17: Interessenkonflikt reicht; keine Notwendigkeit strafrechtlicher Verurteilung |
+| „Rechnungslegung erfolgte mündlich" | § 2218 BGB verlangt nachvollziehbare Rechnungslegung; mündlich regelmäßig nicht ausreichend |
+| „Erben haben Entlastung erteilt" | Formlose Entlastung schließt Haftung für unbekannte Pflichtverletzungen nicht aus |
+
+## Streitwert und Kosten
+
+**TV-Vergütung Beispiel:**
+- Nachlass EUR 1.000.000
+- Hamburger Tabelle: EUR 250.000 × 4 % + EUR 250.000 × 3 % + EUR 500.000 × 2 % = EUR 10.000 + EUR 7.500 + EUR 10.000 = EUR 27.500 Grundvergütung
+- Zuschlag Unternehmen 1 %: EUR 10.000/Jahr
+
+**Gerichtsgebühren Entlassungsverfahren:**
+- Nachlassgericht: GNotKG-Gebühren nach Nachlasswert
+- LG-Beschwerde: Streitwert TV-Vergütung × GKG
+
+## Strategische Empfehlung
+
+| Strategie | Empfehlung | Begründung |
+|-----------|-----------|------------|
+| TV-Auswahl | Qualifizierten Anwalt oder Notar als TV bestimmen | Professionelle Haftung; Kenntnisse Erbrecht + Steuer |
+| Vergütungsregelung | Im Testament konkrete Vergütung oder Verweis auf Hamburger Tabelle | Vermeidet Streit; Klarheit für alle Beteiligten |
+| Verzeichnis | Binnen 4 Wochen nach Amtsannahme Verzeichnis erstellen | Grundlage aller weiteren Tätigkeiten |
+| Rechnungslegung | Jährlich auch ohne Verlangen; digitale Dokumentation | Schutz vor Haftungsansprüchen nach TV-Ende |
+| Entlastung | Nach Abschluss schriftliche Entlastungserklärung der Erben einholen | Schutz TV vor späteren Ansprüchen |
+| Konflikt-Prävention | Bei Multi-Erben-Situation früh Kommunikation strukturieren | Hauptursache TV-Entlassungsanträge ist mangelnde Kommunikation |
+
+## Anschluss-Skills
+
+- `pflichtteil-berechnen` — bei Pflichtteilsansprüchen während der TV
+- `nachlassinsolvenz-erbenhaftung-begrenzen` — bei überschuldetem Nachlass unter TV
+- `fachanwalt-erbrecht-pflichtteilsberechnung` — Auskunftspflicht TV gegenüber Pflichtteilsberechtigten
+
+## Quellen
+
+- BGB §§ 2197–2228, 2215–2219, 2221, 2227, 2368
+- ErbStG § 31
+- GNotKG
+- BGH IVa ZR 261/84 (26.03.1986) — Hamburger Tabelle
+- BGH IV ZR 137/14 (08.10.2014) — Pflichtverletzung
+- BGH IV ZB 14/17 (21.06.2017) — Entlassung
+- OLG München 31 Wx 209/14 (21.07.2015) — Unternehmensnachlass
+- Stand: 05/2026

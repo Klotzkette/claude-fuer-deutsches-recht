@@ -1,6 +1,6 @@
 ---
 name: vorlage-ma-due-diligence
-description: "Fertige Wuerfelvorlage fuer M&A-Due-Diligence — 18 Spalten (Vertragsart Laufzeit Kuendigungsfrist Change-of-Control MAC-Klausel Abtretungsverbot Haftungsbegrenzung Garantien Vertragsstrafe SLA Datenschutz Geheimhaltung Verguetung Preisanpassung Schriftform Gerichtsstand Schiedsklausel anwendbares Recht) x N Vertraege aus dem Datenraum x 4 Arbeitsblaetter (Recht / Steuer / Wirtschaft / Datenschutz). Mit BGB-Verankerung (Paragraph 307 ff. / Paragraph 311 / Paragraph 399 / Paragraph 444) HGB-Verankerung (Paragraph 354a) AktG (Paragraph 311 Konzernrecht) und BGH-Leitsaetzen. Startbar mit einem Klick — kein eigener Wuerfel-Aufbau noetig."
+description: "Vorlagetabelle fuer M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Pruefraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle fuer M-und-A-Transaktionen. Abgrenzung: nicht allgemeines M-und-A-Skill."
 ---
 
 # /tabellenreview-3d:vorlage-ma-due-diligence

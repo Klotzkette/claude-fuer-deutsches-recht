@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-bearbeitung
-description: Bearbeitet eingehende mietrechtliche Anfragen — Mietmaengelanzeigen Kuendigungen Mieterhoehungsverlangen Widersprueche nach § 574 BGB Betriebskosten-Einwendungen Untervermietungsanfragen — und erstellt fundierte Antwortschreiben mit BGH-Verankerung. Jede Anfrage wird klassifiziert dem passenden Antwortmuster zugeordnet und mit Pinpoint-Zitierung versehen (juengere Rechtsprechung zuerst Randnummer angefuegt). Output ist .docx auf Kanzlei- oder Abteilungsbriefkopf mit zweiter Datei Aktenvermerk. Geeignet fuer Wohnraum und Gewerberaum. Bei nicht-standardisierbaren Konstellationen weist der Skill auf manuelle Pruefung hin.
+description: "Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung. Normen: §§ 535 536 556 573 BGB, WEG. Pruefraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output: Bearbeitungsprotokoll Mieteranfrage. Abgrenzung: nicht WEG-Verwaltungsrecht."
 ---
 
 # Mieteranfragen Bearbeitung
@@ -76,3 +76,24 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
   Linie schlagen wir vor?"
 - "Mietkautionsrückforderung mit Abrechnung anbei. Prüfe und
   antworte."
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 05.04.2023 — VIII ZR 26/22, NJW 2023, 2113 Rn. 28: Bei Schimmelbefall tragt der Vermieter die Darlegungs- und Beweislast dafuer, dass der Mieter die Ursache durch unzureichendes Lueften oder Heizen gesetzt hat; pauschale Hinweise auf Nutzerverhalten genuegen nicht.
+- BGH, Urt. v. 29.09.2021 — VIII ZR 226/20, NJW 2021, 3593 Rn. 22: Die Mietpreisbremse-Ruege muss qualifiziert sein (§ 556g Abs. 2 BGB); erst nach der Ruege entsteht der Rueckzahlungsanspruch; ein Antwortschreiben des Vermieters muss die Sachverhaltsdarstellung aufgreifen.
+- BGH, Urt. v. 19.01.2022 — VIII ZR 123/21, NJW 2022, 945 Rn. 20: Der Widerspruch des Mieters nach § 574 BGB gegen die Eigenbedarfskuendigung muss die Haertegrunde konkret benennen; allgemeine Haertevorbehalterklaerungen genuegen nicht.
+- BGH, Urt. v. 09.02.2022 — VIII ZR 228/20, NJW 2022, 1380 Rn. 25: Mietkautionsrueckgabe kann der Vermieter bis zu sechs Monate nach Auszug zurueckhalten, wenn Betriebskostennachforderung moeglich; danach faellt Kaution mit Zinsen vollstaendig zurueck.
+
+## Paragrafenkette
+
+- Schimmel/Mangel: §§ 536, 536a BGB, § 538 BGB
+- Kuendigung/Widerspruch: §§ 543, 573, 574 ff. BGB
+- Kaution: § 551 BGB
+- Mietpreisbremse: §§ 556d ff. BGB
+- Betriebskosten: § 556 Abs. 3 BGB, BetrKV
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 536 ff. Rn. 1 ff. Mangelrechte
+- BeckOK Mietrecht — §§ 556d ff. Mietpreisbremse
+- Staudinger, BGB §§ 535–580a — vertiefende Dogmatik

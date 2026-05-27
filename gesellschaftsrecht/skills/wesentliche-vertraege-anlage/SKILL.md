@@ -5,6 +5,17 @@ description: "Erstellt das Verzeichnis wesentlicher Verträge (Material Contract
 
 # Material-Vertragsverzeichnis (Disclosure Schedule)
 
+## Triage zu Beginn
+
+Vor der Anhangs-Erstellung klaeren:
+
+1. **SPA-Definition vorhanden?** Ist die SPA-Definition des Begriffs "wesentlicher Vertrag" (Material Contract) aus dem Vertragstext extrahiert? Falls nicht: SPA zuerst lesen; CLAUDE.md-Schwellenwerte sind nur Fallback.
+2. **Transaktionsstruktur:** Share Deal (Gesellschaft mit Vertraegen geht ueber) oder Asset Deal (§ 415 BGB: Zustimmung der Gegenpartei bei Schulduebernahme)? Bei Asset Deal: Zustimmungserfordernisse weitaus umfangreicher.
+3. **Due-Diligence-Daten verfuegbar?** Vertragsbestand aus Datenraum oder Disclosure Schedule extrahiert? Falls nicht: DD-Ergebnisse zuerst importieren (Skill `dd-findings-extraktion` oder `tabellenpruefung`).
+4. **Anhangformat bekannt?** Gibt es andere Anhaenge im SPA-Entwurf als Formatvorlage? Nummerierte Liste oder Tabelle?
+5. **Over-Disclosure-Risiko beachten?** Der Anhang ist eine Gewaehrleistung, kein Datendump. Nur Vertraege aufnehmen, die ein SPA-Kriterium erfuellen.
+6. **Regulierte Branche?** Energieversorgung, Finanzdienstleistungen, Gesundheitswesen, oeffentliche Auftraege — behoerdliche Zustimmungspflichten zusätzlich pruefen.
+
 ## Zweck
 
 Der Unternehmenskaufvertrag (SPA/Anteilskaufvertrag) enthält eine Gewährleistung: „Anhang [X] listet alle wesentlichen Verträge der Gesellschaft." Dieser Skill erstellt diesen Anhang aus den Due-Diligence-Erkenntnissen — welche Verträge sind wesentlich im Sinne der SPA-Definition, in dem Format, das der SPA vorschreibt.
@@ -136,9 +147,76 @@ Vor Übergabe:
 
 ## Ausgabeformat
 
-- Anhang im SPA-konformen Format (Markdown, übertragbar in Word/PDF)
-- Internes Zustimmungs-Overlay als Tabelle (für Abschluss-Checkliste)
-- Flaggenliste mit Grenzfällen zur menschlichen Entscheidung
+- Anhang im SPA-konformen Format (Markdown, uebertragbar in Word/PDF)
+- Internes Zustimmungs-Overlay als Tabelle (fuer Abschluss-Checkliste)
+- Flaggenliste mit Grenzfaellen zur menschlichen Entscheidung
+
+## Output-Template
+
+**Adressat:** Transaktionsteam / SPA-Verhandlung — Tonfall: praezise-strukturiert, SPA-konform
+
+```
+## Anhang [X.X] — Wesentliche Vertraege (Material Contracts)
+
+> INTERN: Dieser Anhang-Entwurf ist ein privilegiertes Arbeitsdokument.
+> Interne Annotationen ([INTERN: ...]) vor Lieferung als SPA-Anlage entfernen.
+> Vertraulichkeit: Mandatsgeheimnis § 43a Abs. 2 BRAO.
+
+Die folgenden Vertraege sind wesentliche Vertraege im Sinne der Definition
+in § [N] des Kaufvertrages vom [DATUM] ([KURZBEZEICHNUNG SPA]):
+
+### (a) Kundenvertraege
+
+1. [VERTRAGSBEZEICHNUNG], datiert [TT.MM.JJJJ], zwischen [ZIELGESELLSCHAFT GmbH]
+   und [GEGENPARTEI].
+   [KURZBESCHREIBUNG, falls SPA-Format eine solche vorschreibt.]
+   Erfuelltes SPA-Kriterium: [JAHRESWERT > EUR / CoC-Klausel / etc.]
+   [INTERN: Datenraum-Referenz: VDR/[PFAD]/[DATEINAME]]
+   [INTERN: Zustimmungserfordernis: [JA / NEIN]; Status: [ANGEFRAGT / ERHALTEN / VERWEIGERT]]
+
+2. [Weitere Eintraege analog]
+
+### (b) Lieferantenvertraege
+
+[Analog zu (a)]
+
+### (c) Grundstuecksnutzungsvertraege
+
+[Analog zu (a)]
+
+### (d) IP-Lizenzvertraege (in- und outbound)
+
+[Analog zu (a)]
+
+### (e) Konzerninterneliche Vertraege (Related-Party-Agreements)
+
+[Analog zu (a)]
+
+[Weitere Unterkategorien gemaess SPA-Definitionsstruktur]
+
+---
+
+## Internes Zustimmungs-Overlay (nicht im finalen Anhang)
+
+| Anhang-Nr. | Vertragsbezeichnung | Gegenpartei | Zustimmung erforderlich | Status | Verantwortlich | Frist |
+|---|---|---|---|---|---|---|
+| X.X.a.1 | [NAME] | [GEGENPARTEI] | [JA — CoC § 12.2 / NEIN] | [ANGEFRAGT / ERHALTEN] | [PERSON] | [DATUM] |
+
+## Flaggenliste — Grenzfaelle (menschliche Entscheidung erforderlich)
+
+1. **[VERTRAGSNAME]**: Jahreswert [BETRAG EUR] — knapp unter SPA-Schwelle, aber geschaeftlich bedeutsam.
+   Empfehlung: [AUFNEHMEN / WEGLASSEN] — Entscheidung erbeten bis: [DATUM]
+2. **[VERTRAGSNAME]**: Erfuellt Kriterium, wird aber beendet zum [DATUM].
+   Empfehlung: [MIT HINWEIS AUF BEENDIGUNG AUFNEHMEN / WEGLASSEN]
+```
+
+## Rote Schwellen
+
+- **SPA-Definition nicht gelesen, CLAUDE.md-Schwellenwerte verwendet** — Anhang kann unvollstaendig sein oder Over-Disclosure enthalten; SPA-Definition zwingend vorher lesen.
+- **Over-Disclosure: nicht-wesentliche Vertraege im Anhang** — jeder Eintrag begruendet eine Verkaeufer-Gewaehrleistung; Fehler oder Luecken im Anhang koennen Schadenersatzansprueche ausloesen.
+- **Datenraum-Referenz fehlt** — Kaeuferberater kann Ursprungsdokument nicht finden; Closing-Prozess verzoegert sich; jeder Eintrag braucht VDR-Referenz.
+- **Interne Annotationen in finalem Anhang belassen** — Anwaltsarbeit wird sichtbar; vor Lieferung alle [INTERN: ...]-Kommentare entfernen.
+- **Anhang-Konsistenz nicht geprueft** — ein Vertrag in Anhang [X] (wesentliche Vertraege) und in Anhang [Y] (Pfandrechte) muessen konsistent sein; Querverweisung vor Lieferung pruefen.
 
 ## Beispiel
 

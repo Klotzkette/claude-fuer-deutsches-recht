@@ -91,3 +91,94 @@ Am Ende jedes Gutachtens steht:
 ## Output-Format
 
 Markdown, ca. 5 bis 10 Seiten. PDF-Export optional via Plugin `office`.
+
+## Aktuelle Rechtsprechung
+
+- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44–55: Anwaltliches Berufsgeheimnis als verfassungsrechtlich geschütztes Gut; Kanzleien tragen eigenständige Verantwortung für die Einhaltung der Verschwiegenheitspflicht gegenüber Dritten.
+- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Verschwiegenheitspflicht gilt für alle anvertrauten oder bekanntgewordenen Tatsachen; Verstoß kann zu berufsrechtlichen Sanktionen (Rüge, Geldbuße, Verbot) führen.
+- BGH, Urt. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Berufshelfer nach § 53a StPO muss zur Berufsausübung mitwirken; nur dann greift das Zeugnisverweigerungsrecht und Beschlagnahmeschutz.
+- EuGH, Urt. v. 26.06.2007 — C-305/05 (Ordre des barreaux francophones), NJW 2007, 2413 Rn. 31: Anwaltliches Berufsgeheimnis als fundamentales Prinzip; Eingriffe durch Auskunftspflichten bedürfen europarechtlicher Rechtfertigung.
+
+## Zentrale Normen (Paragrafenkette)
+
+- §§ 43a Abs. 2, 43e BRAO; §§ 57, 62a StBerG; §§ 43, 50a WPO; §§ 39a, 39c PAO; §§ 18, 26a BNotO
+- §§ 203, 204 StGB — Straftatbestände
+- §§ 53a, 97 StPO — Strafprozessuale Absicherung
+- Art. 28, 32 DSGVO — Datenschutzrechtliche Parallelprüfung
+
+## Kommentarliteratur
+
+- Henssler/Prütting BRAO, 5. Aufl. 2023, § 43e Rn. 1–80: Gesamtdarstellung der Dienstleisterregelung mit Anforderungsprofil.
+- Fischer StGB, 71. Aufl. 2024, § 203 Rn. 50–80: Zur Strafbarkeit nach § 203 StGB bei Einschaltung von IT-Dienstleistern; Abgrenzung von § 203 Abs. 3 Satz 2 StGB (Berufshelfer) und § 203 Abs. 4 StGB (bei Offenlegung ohne Rechtfertigung).
+
+## Triage zu Beginn
+
+1. Wurden alle Einzelprüfungen aus den Teilskills (Verschwiegenheit, Belehrung, Subunternehmer, Strafprozess, TOM, Drittstaat) durchgeführt?
+2. Liegen alle Vertragsdokumente vor (Hauptvertrag, AGB, AVV, Subunternehmerliste, TOM-Anlage)?
+3. Sind offene Punkte aus dem Rückfragebrief beantwortet?
+4. Welches Ergebnis soll das Gutachten haben (Freigabe / Nachverhandlung / Ablehnung)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — datenschutzrechtliches Gutachten erstellen | Vollgutachten-Format nach Template unten |
+| Variante A — nur kurze Stellungnahme noetig | Kurzgutachten-Format; Normenkette komprimieren |
+| Variante B — politisch heikle Einschaetzung fuer Mandanten | Ergebnis-offen formulieren; Risiken deutlich benennen |
+| Variante C — internes Compliance-Memo ohne externe Wirkung | Schlankeres Format; auf Vollzitierung teilweise verzichten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template — Forprüfungs-Gutachten (Auszug)
+
+**Adressat:** Kanzlei intern (ggf. auszugsweise für Anbieter) — Tonfall: sachlich-juristisch
+
+```
+Forpruefungs-Gutachten KI-Anbietervertrag
+Datum: [DATUM] | Verfasser: [SACHBEARBEITER]
+Anbieter: [NAME] | Produkt: [PRODUKT]
+Beruf: [BERUF] | Norm-Adapter: § [NORM]
+
+I. Eingangsdaten
+[Aus Kaltstart-Interview]
+
+II. Normrahmen
+Berufsrecht: § [NORM] [GESETZ]
+Strafrecht: §§ 203, 204 StGB
+Datenschutz: Art. 28, 32 DSGVO
+Strafprozess: §§ 53a, 97 StPO
+
+III. Einzelprüfungen (Ampeltabelle)
+| Pruefpunkt              | Ampel | Begruendung |
+|-------------------------|-------|-------------|
+| Erforderlichkeit        |       |             |
+| Verschwiegenheitsklausel|       |             |
+| Belehrung §§ 203/204    |       |             |
+| Subunternehmer          |       |             |
+| Strafprozess §§ 53a/97  |       |             |
+| TOM / Zertifizierungen  |       |             |
+| Drittstaat / CLOUD Act  |       |             |
+| AVV Art. 28 DSGVO       |       |             |
+
+IV. Gesamtergebnis
+[GRUEN / GELB / ROT]
+
+V. Handlungsempfehlung
+[Annehmbar / Nachverhandelbar / Nicht annehmbar]
+[Konkrete naechste Schritte]
+
+VI. Disclaimer
+Dieses Forpruefungs-Gutachten ist keine Rechtsberatung. Es ist strukturierte
+Argumentationshilfe. Abschliessende Beurteilung bleibt der inhabilen Kanzlei
+beziehungsweise einer beauftragten Spezialkanzlei vorbehalten.
+Quellen: DAV-Stellungnahme Nr. 32/2025; BRAO, StBerG, WPO, PAO, BNotO; StGB; StPO; DSGVO.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

@@ -62,3 +62,14 @@ In Schriftsätzen und Stellungnahmen:
 ### Verhältnis zur nationalen Praxis
 
 Das BKartA orientiert sich an der Kommissions-Bekanntmachung, wendet aber § 18 GWB an. Für rein nationale Fälle (keine Zwischenstaatlichkeit) gilt die Bekanntmachung nicht unmittelbar, wird aber als Orientierungsmaßstab herangezogen.
+
+## Leitentscheidungen EU-Bekanntmachung 2024
+
+- EK, Marktdefinitionsbekanntmachung v. 08.02.2024, ABl. C 2024/27 — Abloesung der Bekanntmachung 1997; erweiterte Methoden; Digitalmärkte; Supply-Side Substitution; Preisdaten-Analyse.
+- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Methodenkritik; EK muss Sachverstaendige begruenden; blosse Behauptung Marktdefinition unzureichend.
+- BGH, Beschl. v. 07.11.2023 — KZR 67/21, WuW 2024, 90 — Rezeption EK-Bekanntmachung durch BGH; konsistente Methodenstandards; Abweichung begruendungspflichtig.
+
+## Kommentarliteratur
+
+- EU-Bekanntmachung Marktdefinition 2024 Rn. 1-120 (primaere Quelle, Self-Contained)
+- Bechtold/Bosch GWB § 18 Rn. 5-30 (Methodenkanon)

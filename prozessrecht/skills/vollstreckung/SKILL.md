@@ -1,6 +1,6 @@
 ---
 name: vollstreckung
-description: "Unterstützt bei der Durchführung der Zwangsvollstreckung nach §§ 704 ff. ZPO: Mobiliarvoll- streckung, Forderungspfändung, Immobiliarvollstreckung, Vermögensauskunft, Räumung und Herausgabe. Lädt, wenn ein Mandat die Einleitung, Durchführung oder Abwehr von Vollstreckungs- maßnahmen betrifft."
+description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Pruefraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung."
 ---
 
 # Zwangsvollstreckung – Überblick und Praxis

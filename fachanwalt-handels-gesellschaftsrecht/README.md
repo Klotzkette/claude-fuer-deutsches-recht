@@ -1,6 +1,6 @@
 # Fachanwalt Handels- und Gesellschaftsrecht
 
-Light-Touch-Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB, AktG, GmbHG, PartGG, UmwG, MoPeG (GbR seit 2024). Geschäftsführerhaftung §§ 43 GmbHG, 93 AktG. Gesellschafterstreit und Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB.
+Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB, AktG, GmbHG, PartGG, UmwG, MoPeG (GbR seit 2024). Geschäftsführerhaftung §§ 43 GmbHG, 93 AktG. Gesellschafterstreit und Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

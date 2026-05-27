@@ -1,6 +1,6 @@
 ---
 name: mandanten-kommunikations-log
-description: "Erstellt und pflegt ein strukturiertes Kommunikationslogbuch für ein Mandat. Protokolliert jede Kontaktaufnahme mit dem Mandanten, dem Jobcenter, dem BAMF, Gerichten oder anderen Stellen – mit Datum, Inhalt, nächsten Schritten und Verschwiegenheitshinweisen. Aufrufen bei jeder neuen Kommunikation oder zur Erstellung des Semesterübergabe-Protokolls."
+description: "Mandantenkommunikation dokumentieren und Kommunikations-Log fuehren: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollstaendig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Pruefraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Uebergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Uebergabe fuer Mandats-Uebergabe und zu Status-Skill."
 ---
 
 # /mandanten-kommunikations-log

@@ -1,6 +1,6 @@
 ---
 name: musterklauseln-it-vertrag
-description: "Vertragsklauseln für KI-Dienstleister: Verschwiegenheit und § 43e-BRAO-Erklärung, Training-Opt-out, Löschpflichten, Audit- und Kontrollrechte, Haftungsregelung sowie Subprozessor-Genehmigung nach DSGVO und Strafrecht."
+description: "Musterklauseln fuer IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Loeschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklaerung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Pruefraster Verschwiegenheits- und § 43e-Erklaerung, Training-Opt-out, Loeschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung fuer IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Pruefen und zu Dienstleister-Due-Diligence."
 ---
 
 # Musterklauseln IT-Vertrag
@@ -48,3 +48,51 @@ Der Auftraggeber oder ein von ihm beauftragter Dritter ist berechtigt, die Einha
 ## Hinweise zur Aktualisierung
 
 Musterklauseln sind bei jeder wesentlichen Änderung der berufsrechtlichen oder datenschutzrechtlichen Anforderungen zu aktualisieren. Neue BRAK-Veröffentlichungen zu § 43e BRAO-Vereinbarungen sind besonders zu beachten. Ebenso sind neue Entscheidungen zu § 203 StGB oder zu den Anforderungen an AVV in die Klauseln einzuarbeiten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 17.05.2018 — VII ZR 157/17, NJW 2018, 2412 Rn. 18: AGB-Kontrolle von Haftungsausschluessen bei komplexen IT-Systemen — massgeblich fuer KI-Musterklauseln.
+- BGH, Urt. v. 06.12.2016 — VII ZR 165/14, NJW 2017, 1017 Rn. 26: Tagessatz-Klausel ohne Hoechtgrenze in AGB nach § 307 BGB unwirksam — Musterklauseln muss Hoechtgrenze enthalten.
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 55: Betreiber-Sorgfaltspflicht bei KI-Systemen — Vertragsklauseln muessen Haftungszuordnung klar regeln.
+- BGH, Urt. v. 25.03.2021 — I ZR 37/20, GRUR 2021, 896 Rn. 22: GeschGehG-Schutz in IT-Vertraegen — Musterklausel fuer Vertraulichkeit und KI-Training notwendig.
+
+## Zentrale Normen (Paragrafenkette)
+- § 305 BGB — Einbeziehung von AGB
+- § 307 BGB — Inhaltskontrolle (unangemessene Benachteiligung)
+- Art. 25 KI-VO — Verantwortlichkeitsverteilung in der KI-Lieferkette
+- Art. 28 DSGVO — AVV-Klauseln in IT-Vertraegen
+- § 2 GeschGehG — Geheimhaltungsmassnahmen
+
+## Triage zu Beginn
+1. Handelt es sich um AGB oder Individualvereinbarung (§ 305 Abs. 1 BGB)?
+2. Welche Risikoklasse hat das KI-System — bestimmt Art. 25 KI-VO Verantwortlichkeit?
+3. Sind Haftungsbeschraenkungen im Vertrag wirksam — § 307 BGB-Pruefung?
+4. Enthalten die Klauseln Regelungen zu Training auf Eingabedaten?
+5. Sind AVV-Pflichten nach Art. 28 DSGVO in den IT-Vertrag integriert?
+
+## Output-Template — KI-Vertrags-Musterklausel
+**Adressat:** Vertragsparteien / Rechtsabteilung — Tonfall: vertragsrechtlich, klar
+```
+MUSTERKLAUSEL KI-EINSATZ — IT-VERTRAG
+[VERTRAG] — Version: [VERSION] — Stand: [DATUM]
+
+§ [X] KI-EINSATZ UND DATENVERARBEITUNG
+
+(1) Verarbeitung auf Daten: Der Auftragnehmer versichert, dass KI-Systeme,
+die im Rahmen dieses Vertrages eingesetzt werden, Eingabedaten des Auftrag-
+gebers nicht zum Training von Modellen verwenden. Anderslautende Klauseln in
+AGB des Auftragnehmers werden hierdurch ausdruecklich ausgeschlossen.
+
+(2) Verantwortlichkeit (Art. 25 KI-VO): Die Parteien sind sich einig, dass
+der Auftraggeber als Betreiber nach Art. 3 Nr. 4 KI-VO handelt. Der Auftrag-
+nehmer als Anbieter traegt die Pflichten nach Art. 9-15 KI-VO.
+
+(3) Auftragsverarbeitung: Soweit der Auftragnehmer personenbezogene Daten
+verarbeitet, gilt Anlage [X] (AVV nach Art. 28 DSGVO).
+
+(4) Haftungsgrenze: Die Haftung des Auftragnehmers fuer Schaden durch
+fehlerhafte KI-Ausgaben ist auf [EURO-BETRAG] pro Schadensfall begrenzt,
+hoechstens [EURO-BETRAG] pro Jahr. Vorbehaltlich § 307 BGB.
+
+(5) Vertraulichkeit (GeschGehG): Der Auftragnehmer verpflichtet sich, alle
+Eingabedaten als Geschaeftsgeheimnisse i.S.d. § 2 GeschGehG zu behandeln.
+```

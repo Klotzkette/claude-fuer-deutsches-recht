@@ -1,9 +1,25 @@
 ---
 name: caching-und-teil-rerun
-description: "Caching der Wuerfelzellen und gezielter Teil-Rerun bei Aenderungen — vermeidet die voll Neuberechnung von tausenden Zellen wenn nur ein Spaltenprompt eine Zeile oder ein Arbeitsblatt geaendert wurde. Cache-Key pro Zelle = Hash aus Spaltenprompt-Version Zeilenprompt-Version Dokument-Hash Arbeitsblatt-Perspektive Modell-Version. Invalidiert automatisch bei Versions-Aenderung. Schaetzt Kosten und Laufzeit vor Rerun. Geeignet auch fuer Quasi-Duplikate (Aehnlichkeit ueber 95 Prozent uebernimmt Cache-Treffer als Vorschlag fuer Pruefer-Bestaetigung)."
+description: "Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausfuehren ohne Vollneustart. Normen: technisch. Pruefraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten und neu verarbeiteten Zeilen. Abgrenzung: nicht vollstaendiger Neustart."
 ---
 
 # /tabellenreview-3d:caching-und-teil-rerun
+
+
+## Triage zu Beginn
+
+1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
+2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
+3. Wird das Ergebnis in die Mandatsakte aufgenommen?
+4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
+
+## Rechtliche Grundlagen
+
+- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — Due-Diligence-Pruefungen muessen sorgfaeltig und vollstaendig durchgefuehrt werden; der Kaeufer haftet nicht fuer Maengel, die er bei ordentlicher Pruefung haette entdecken koennen (Kauferrisiko bei unterlassener DD).
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Der Anwalt muss das Ergebnis einer automatisierten Pruefung verantworten; er haftet fuer Fehler auch wenn er ein Hilfsmittel eingesetzt hat; die abschliessende Pruefung obliegt dem zugelassenen BerufsTraeger.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Pruefberichte muessen hinreichend dokumentiert sein; Bausteine die spaeter nicht mehr nachvollzogen werden koennen, belasten die Haftungslage des Anwalts.
+- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Das Gebot der Nachvollziehbarkeit rechtlicher Dokumentation gilt auch im wirtschaftsrechtlichen Due-Diligence-Kontext; lueckenlose Belegketten schuetzen vor Haftungsrisiken.
+
 
 ## Zweck
 

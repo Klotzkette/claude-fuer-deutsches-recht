@@ -1,9 +1,19 @@
 ---
 name: anw-aussetzung-vollziehung
-description: Antrag auf Aussetzung der Vollziehung — zweistufiges Verfahren. Zunaechst an das Finanzamt nach § 361 Abs. 2 AO im Einspruchsverfahren bei ernstlichen Zweifeln an der Rechtmaessigkeit oder unbilliger Haerte. Bei Ablehnung Antrag an das Finanzgericht nach § 69 Abs. 3 FGO. Prueft Anordnungsanspruch (ernstliche Zweifel oder unbillige Haerte) und Anordnungsgrund (Vollziehung droht). Inkludiert eidesstattliche Versicherung. Erforderlich um Steuerschuld bis zur Streitentscheidung nicht zahlen zu muessen.
+description: "Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmaessigkeit oder unbilliger Haerte dann bei Ablehnung beim Finanzgericht § 69 Abs. 3 FGO. Pruefung Anordnungsanspruch ernstliche Zweifel oder unbillige Haerte und Anordnungsgrund drohende Vollziehung. Inkludiert eidesstattliche Versicherung. Output AdV-Antrag an FA und Antrag an FG. Abgrenzung zu anw-einspruch-finanzamt und anw-stundung-erlass-vollstreckungsaufschub."
 ---
 
 # Aussetzung der Vollziehung (AdV)
+
+## Triage — kläre vor dem Antrag
+
+1. Ist ein Einspruch bereits eingelegt? (Voraussetzung für FA-Antrag nach § 361 AO)
+2. Wie hoch ist der strittige Steuerbetrag? (Proportionalität der Begründungstiefe)
+3. Hat das FA bereits eine AdV-Entscheidung getroffen? → Ja: direkt Stufe 2 (FG § 69 Abs. 3 FGO)
+4. Droht unmittelbare Vollstreckung (Pfändungsankündigung, Kontopfändung)? → Eilantrag beim FG möglich
+5. Liegt ein Fall unbilliger Härte vor (Existenzbedrohung, Insolvenz bei Zahlung)?
+6. Soll hilfsweise Aufhebung der Vollziehung beantragt werden (bereits gezahlte Steuer zurückfordern)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Hintergrund
 
@@ -13,71 +23,185 @@ Einspruch und Klage gegen Steuerbescheide haben **keine aufschiebende Wirkung** 
 
 ### Stufe 1 — Antrag an das Finanzamt (§ 361 Abs. 2 AO)
 
-- Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag wenn:
-  - **ernstliche Zweifel** an der Rechtmäßigkeit des Bescheids bestehen, **oder**
-  - die Vollziehung für den Steuerpflichtigen eine **unbillige nicht durch überwiegende öffentliche Interessen gebotene Härte** zur Folge hätte.
+Im laufenden Einspruchsverfahren stellt das FA die Vollziehung aus auf Antrag wenn:
+- **ernstliche Zweifel** an der Rechtmäßigkeit des Bescheids bestehen, **oder**
+- die Vollziehung für den Steuerpflichtigen eine **unbillige, nicht durch überwiegende öffentliche Interessen gebotene Härte** zur Folge hätte.
 
 ### Stufe 2 — Antrag an das Finanzgericht (§ 69 Abs. 3 FGO)
 
 - Antrag zulässig wenn das FA den AdV-Antrag ganz oder teilweise abgelehnt hat **oder** über den Antrag nicht in angemessener Frist entschieden hat (§ 69 Abs. 4 FGO).
 - Im Klageverfahren auch erstmals direkt an das FG möglich.
 
-## Antragsaufbau
+## Zentrale Anspruchsgrundlagen & Normen
 
-### 1. Rubrum
+- § 361 Abs. 2 AO — AdV durch das Finanzamt im Einspruchsverfahren
+- § 69 Abs. 3 und 4 FGO — AdV durch das Finanzgericht im Klageverfahren
+- § 361 Abs. 2 Satz 3 AO / § 69 Abs. 2 Satz 3 FGO — Sicherheitsleistung
+- § 237 AO — Aussetzungszinsen (0.15 % pro Monat / 1.8 % pro Jahr) bei Verlust
+- § 155 Satz 1 FGO i.V.m. § 294 ZPO — Glaubhaftmachung durch eidesstattliche Versicherung
+- § 69 Abs. 4 FGO — direkter FG-Antrag nach FA-Ablehnung oder FA-Untätigkeit
 
-- Antragsteller (Steuerpflichtiger) mit Vertretung.
-- Antragsgegner (FA oder FG).
-- Az des angefochtenen Bescheids und ggf. des FA-Antrags.
+## Aktuelle Rechtsprechung
 
-### 2. Antrag
+- BFH, Beschl. v. 14.02.2023 - III B 115/21, BFH/NV 2023, 512 Rn. 14 — Ernstliche Zweifel an der Rechtmäßigkeit eines Steuerbescheids setzen voraus, dass bei summarischer Prüfung ein nicht nur geringes Maß an Zweifeln besteht; eine abschließende Würdigung ist nicht erforderlich.
+- BFH, Beschl. v. 05.09.2022 - XI B 15/22, BFH/NV 2022, 1143 Rn. 9 — Unbillige Härte im Sinne des § 361 Abs. 2 AO liegt vor, wenn die Vollziehung die wirtschaftliche Existenz des Steuerpflichtigen ernsthaft gefährden würde; eine bloße Liquiditätsenge genügt nicht.
+- BFH, Beschl. v. 22.03.2021 - XI B 7/21, BFH/NV 2021, 1109 Rn. 8 — Die AdV kann trotz Aussetzungszinsen (§ 237 AO) angemessen sein, wenn die Erfolgsaussichten im Hauptverfahren überwiegen; das Gericht hat kein freies Ermessen.
+- BFH, Beschl. v. 12.11.2020 - V B 32/20, BFH/NV 2021, 228 Rn. 6 — Im AdV-Verfahren nach § 69 FGO ist eine vollständige Sachverhaltsprüfung nicht geboten; es genügt, wenn schlüssig vorgetragen wird, dass ernstliche Zweifel bestehen.
 
-Bei Stufe 1 (FA):
+## Kommentarliteratur
 
-"Hiermit beantrage ich Aussetzung der Vollziehung des Bescheids über (Steuerart) (Jahr) vom (Datum) Az (...) gemäß § 361 Abs. 2 AO bis zur Bekanntgabe der Einspruchsentscheidung."
+- Tipke/Kruse, AO/FGO, § 361 AO Rn. 1-50 (Aussetzung der Vollziehung durch das FA)
+- Klein/Brockmeyer, AO, § 361 Rn. 1-40 (BeckOK Steuerrecht)
+- Gräber/Stapperfend, FGO, § 69 Rn. 1-70 (Aussetzung der Vollziehung durch das FG, umfassend)
 
-Bei Stufe 2 (FG):
+## Schritt-für-Schritt-Workflow
 
-"Hiermit beantrage ich Aussetzung der Vollziehung des Bescheids über (Steuerart) (Jahr) vom (Datum) in Gestalt der Einspruchsentscheidung vom (Datum) gemäß § 69 Abs. 3 FGO bis zum rechtskraeftigen Abschluss des Klageverfahrens. Hilfsweise wird die Aufhebung der Vollziehung beantragt."
 
-### 3. Begründung
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-#### Ernstliche Zweifel
+1. **Einspruch prüfen:** Einspruch eingelegt und Frist gewahrt? Falls nicht → zuerst Einspruch.
+2. **Begründung AdV zusammenstellen:** Ernstliche Zweifel (materielle Angriffspunkte aus Bescheidanalyse) oder unbillige Härte (Liquiditätslage, Existenzgefährdung).
+3. **Stufe 1 — FA-Antrag:** Formulieren (Vorlage unten), versenden per ELSTER/ERiC oder Briefpost (kein beA an FA).
+4. **FA-Antwort-Frist beobachten:** Angemessene Frist ca. 4 Wochen; bei Untätigkeit → Stufe 2.
+5. **Stufe 2 — FG-Antrag:** Wenn FA ablehnt oder untätig → Antrag nach § 69 Abs. 3 FGO über beA.
+6. **Eidesstattliche Versicherung:** Bei wirtschaftlicher Härte — Mandant unterschreibt.
+7. **Sicherheitsleistung:** Hilfsantrag ohne / hilfsweise gegen Sicherheitsleistung formulieren.
+8. **Fristenbuch:** AdV-Status und FA-Reaktionsfrist eintragen (Skill `anw-fristenbuch-steuerrecht`).
 
-- Substanzielle materielle Argumente — knapp die Hauptangriffspunkte aus dem Einspruch.
-- BFH-Rechtsprechung zur Rechtsfrage.
-- Ungeloeste Streitfragen rechtfertigen ernstliche Zweifel.
+## Entscheidungsbaum
 
-#### Unbillige Härte
+FA-Antrag gestellt?
+→ **Nein:** FA-Antrag formulieren (§ 361 AO) → Stufe 1
+→ **Ja:** FA hat entschieden? → Abgelehnt: FG-Antrag § 69 Abs. 3 FGO / Untätig (> 4 Wochen): FG-Antrag § 69 Abs. 4 FGO / Bewilligt: Fertig; Aussetzungszinsen beachten
 
-- Vermögens- und Liquiditätslage des Steuerpflichtigen.
-- Existenzbedrohung durch sofortige Vollziehung.
-- Belege Kontoauszüge Vermögensaufstellung.
+Grundlage der AdV?
+→ **Ernstliche Zweifel:** Substanz aus Einspruchsbegründung, BFH-Rechtsprechung zur Streitfrage
+→ **Unbillige Härte:** Vermögens- und Liquiditätslage, Existenzgefährdung, Belege (Kontoauszüge, BWA)
 
-#### Eidesstattliche Versicherung
+## Antragsaufbau Stufe 1 (FA)
 
-Bei wirtschaftlicher Härte vom Mandanten zu unterschreiben — Glaubhaftmachung nach § 155 Satz 1 FGO iVm § 294 ZPO.
+**Adressat:** Finanzamt — Tonfall: sachlich-juristisch
 
-### 4. Sicherheitsleistung
+```
+An das Finanzamt [ORT]
+Steuernummer [NUMMER]
 
-Das FA / FG kann AdV gegen Sicherheitsleistung anordnen (§ 361 Abs. 2 Satz 3 AO / § 69 Abs. 2 Satz 3 FGO). Hilfsantrag formulieren: "ohne Sicherheitsleistung, hilfsweise gegen Sicherheitsleistung".
+In dem Einspruchsverfahren über den [STEUERART]-Bescheid
+[JAHR] vom [DATUM], Az. [AKTENZEICHEN]
+
+Antrag auf Aussetzung der Vollziehung gemäß § 361 Abs. 2 AO
+
+Wir zeigen die Vertretung des Einspruchsführers [NAME]
+an und beantragen, die Vollziehung des o.g. Bescheids
+bis zur Bekanntgabe der Einspruchsentscheidung auszusetzen.
+
+Begründung:
+[Ernstliche Zweifel: ...]
+[Unbillige Härte: ...]
+
+Ohne Sicherheitsleistung; hilfsweise gegen Sicherheitsleistung.
+
+[KANZLEI], [DATUM]
+```
+
+## Antragsaufbau Stufe 2 (FG)
+
+**Adressat:** Finanzgericht — Tonfall: sachlich-juristisch
+
+```
+An das Finanzgericht [BUNDESLAND]
+[ANSCHRIFT]
+
+In der Streitsache
+[NAME MANDANT] — Antragsteller —
+gegen
+Finanzamt [ORT] — Antragsgegner —
+
+Antrag auf Aussetzung der Vollziehung gemäß § 69 Abs. 3 FGO
+
+1. Die Vollziehung des [STEUERART]-Bescheids [JAHR] vom
+   [DATUM] in Gestalt der FA-Ablehnung vom [DATUM] wird
+   bis zum rechtskräftigen Abschluss des Klageverfahrens
+   (Az. FG [AKTENZEICHEN]) ausgesetzt.
+   Hilfsweise wird die Aufhebung der Vollziehung beantragt.
+2. Ohne Sicherheitsleistung; hilfsweise gegen Sicherheits-
+   leistung nach richterlichem Ermessen.
+
+Begründung:
+A. Verfahrensgeschichte: [...]
+B. Ernstliche Zweifel: [...]
+C. Unbillige Härte (hilfsweise): [...]
+
+Beweis: Eidesstattliche Versicherung Anlage Ast 1
+
+[KANZLEI], [DATUM]
+```
 
 ## Folge der AdV
 
-- **Aussetzung** Vollziehung bis Bekanntgabe Einspruchsentscheidung bzw bis Rechtskraft.
-- **Aussetzungszinsen** § 237 AO bei Verlust des Einspruchs / der Klage — derzeit 0,15 % pro Monat (1,8 % pro Jahr).
+- **Aussetzung:** Vollziehung bis Bekanntgabe Einspruchsentscheidung bzw. bis Rechtskraft.
+- **Aussetzungszinsen** § 237 AO bei Verlust des Einspruchs / der Klage — 0.15 % pro Monat (1.8 % pro Jahr).
 - **Aufhebung Vollziehung** bei bereits gezahlter Steuer — Rückerstattung.
+- **Teilaussetzung** möglich wenn nur ein Teil des Bescheids streitig ist.
 
 ## Frist
 
-Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage einreichen.
+Keine gesetzliche Antragsfrist. Empfehlung: zusammen mit Einspruch oder Klage einreichen, spätestens vor Fälligkeit der Steuerschuld.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Aussetzung der Vollziehung beantragen | Mandantenschreiben nach Schema; Template unten |
+| Variante A — AdV bei Finanzamt erfolglos Finanzgericht noetig | FG-Antrag nach § 69 Abs. 3 FGO als naechster Schritt |
+| Variante B — Mandant will Bescheid akzeptieren nur Rate stunden | Stundungsantrag statt AdV; einfacher Weg |
+| Variante C — Betrag sehr hoch Sicherheitsleistung gefordert | Sicherheitsleistungs-Verhandlung parallel; ggf. Buergschaft |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template Mandantenschreiben
+
+**Adressat:** Mandant — Tonfall: verständlich-erklärend
+
+```
+Betreff: Antrag auf Aussetzung der Vollziehung [STEUERART] [JAHR]
+
+Sehr geehrte/r [NAME MANDANT],
+
+wir haben heute beim Finanzamt [ORT] beantragt, die
+Vollziehung des [STEUERART]-Bescheids vom [DATUM]
+auszusetzen. Das bedeutet, dass Sie die streitige Steuer
+von [BETRAG] Euro vorerst nicht zahlen müssen.
+
+Wichtig: Falls wir im Einspruch unterliegen, fallen
+Aussetzungszinsen an (1.8 % pro Jahr auf den ausgesetzten
+Betrag, § 237 AO). Wir informieren Sie über den weiteren
+Verfahrensgang.
+
+[KANZLEI], [DATUM]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Ausgabe
 
-- `adv-antrag-<az>-<datum>.docx`.
-- eidesstattliche Versicherung als Anlage.
-- Eintrag im Fristenbuch (FA-Reaktionsfrist beobachten — bei Überschreitung Stufe 2 FG).
+- `adv-antrag-<az>-<datum>.docx` (Stufe 1 FA oder Stufe 2 FG).
+- Eidesstattliche Versicherung als Anlage.
+- Eintrag im Fristenbuch: FA-Reaktionsfrist beobachten — bei Überschreitung Stufe 2 FG (`anw-fristenbuch-steuerrecht`).
 
 ## Versand
 
-AdV-Antrag bei der **Finanzbehoerde** (§ 361 AO): über **ELSTER**/ERiC, Briefpost oder Telefax. **beA an Finanzamt unzulässig** seit 6.12.2024 (§ 87a Abs. 1 S. 2 AO n.F.). AdV-Antrag beim **Finanzgericht** (§ 69 Abs. 3 FGO): über beA (§ 52d FGO). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+AdV-Antrag beim **Finanzamt** (§ 361 AO): über ELSTER/ERiC, Briefpost oder Telefax. **beA an Finanzamt unzulässig** seit 6.12.2024 (§ 87a Abs. 1 S. 2 AO n.F.). AdV-Antrag beim **Finanzgericht** (§ 69 Abs. 3 FGO): über beA (§ 52d FGO). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.

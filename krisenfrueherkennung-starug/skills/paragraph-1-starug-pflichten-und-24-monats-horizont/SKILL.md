@@ -1,6 +1,6 @@
 ---
 name: paragraph-1-starug-pflichten-und-24-monats-horizont
-description: "§ 1 StaRUG: gesetzliche Krisenfrüherkennungspflicht, 24-Monats-Planungshorizont als bindender Standard, Adressatenkreis nach Rechtsform, Abgrenzung zu § 18 InsO drohende Zahlungsunfähigkeit, Haftungsfolgen bei Pflichtverletzung."
+description: "§ 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklaeren und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Pruefraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # § 1 StaRUG — Krisenfrüherkennungspflicht und 24-Monats-Horizont
@@ -164,3 +164,11 @@ Unterschriften: _________________ / _________________
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — Haftungsfolgen
 - → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Abgrenzung § 18 InsO
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollführung
+
+
+## Weitere Leitentscheidungen
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.

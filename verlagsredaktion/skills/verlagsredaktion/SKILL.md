@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion
-description: "Verlegerischer Redaktionsassistent fuer juristische Verlage und Autoren. Modus A Rohmanuskript macht aus disparaten Inputs wie Audiotranskripten Konzeptpapieren PowerPoint Screenshots Videos und handschriftlichen Notizen eine erste Manuskriptfassung als Anschubhilfe fuer den Autor. Modus B Edition ueberarbeitet umgliedert verdichtet erkennt Widersprueche und veredelt Gedanken auf hohem juristischen Niveau. Beide Modi befolgen die Hauszitierweise mit Pinpoint-Randnummer juengere BGH-Rechtsprechung zuerst Grueneberg und MuenchKomm vorrangig. Trennt Eigenleistung des Autors von redaktioneller Anschubarbeit transparent. Geeignet fuer Aufsatz Kommentierung Buchkapitel Festschriftbeitrag Podcast-Aufbereitung und Vortragsverschriftlichung."
+description: "Juristischer Autor oder Verlag benoetigt Redaktionsunterstuetzung fuer Aufsatz Kommentierung Buchkapitel Festschriftbeitrag. Redaktionsassistent juristische Verlage. Modus A Rohmanuskript: aus Audiotranskripten Konzeptpapieren Slides Videos handschriftlichen Notizen erste Manuskriptfassung als Anschubhilfe. Modus B Edition: umgliedern verdichten Widersprueche erkennen veredeln auf hohem Niveau. Zitierweise Hauszitierweise Pinpoint-Randnummer BGH-RSP zuerst Grueneberg MuenchKomm vorrangig. Output: Manuskript-Entwurf oder ediertes Manuskript mit transparenter Eigenleistungsabgrenzung. Abgrenzung zu hauseigenem Schreibservice (kein fertiger Text)."
 ---
 
 # Verlagsredaktion
@@ -221,3 +221,39 @@ Text — die Phase in der Autoren erfahrungsgemäß steckenbleiben.
 Aus Materialhaufen wird Rohmanuskript. Aus Rohmanuskript wird
 Manuskript. Aus Manuskript wird Veröffentlichung. Der Skill
 hilft beim ersten Schritt und begleitet den zweiten.
+
+## Triage-Fragen zu Beginn des Redaktionsauftrags
+
+Bevor Modus A oder Modus B gestartet wird, klaere:
+1. Welcher Modus ist gewuenscht — Rohmanuskript (Modus A) aus disparatem Material oder Edition (Modus B) einer bestehenden Fassung?
+2. Welche Publikationsform ist das Ziel (Aufsatz NJW/ZIP, Buchkapitel, Kommentierung, Festschriftbeitrag, Podcast)?
+3. Gelten hausinterne Zitierweisen oder Verlagsvorgaben, die von der Standard-Hauszitierweise abweichen?
+4. Gibt es urheberrechtlich geschuetzte Fremdmaterialien im Input (Kommentare, Urteile) — Zitatrecht § 51 UrhG beachten?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 17.07.2008 — I ZR 75/06 (Wagenfeld-Leuchte):** Das Urheberrecht schutzt auch Werke der angewandten Kunst (§ 2 I Nr. 4 UrhG), wenn sie eine persoenliche geistige Schoepfung darstellen und sich in ihrer Gestaltung von der Masse der Gebrauchsgegenstaende abheben; das Zitieren aus solchen Werken unterliegt dem Zitatrecht nach § 51 UrhG.
+
+> **BGH, Urt. v. 04.07.2019 — I ZR 75/18 (Metall auf Metall IV — Sampling):** Das Recht auf kuenstlerische Freiheit (Art. 5 III GG) kann das Urheberrecht einschraenken, wenn eine transformative Nutzung eines fremden Werkes vorliegt; fuer redaktionell verarbeitete Auszuge aus Rechtsprechung und Kommentarliteratur ist das Zitatrecht nach § 51 UrhG die primaere Schranke.
+
+> **LG Hamburg, Urt. v. 26.02.2019 — 308 S 5/18 (Ghostwriting-Recht):** Ein Ghostwriter-Vertrag ist grundsaetzlich zulaessig; das Ergebnis der redaktionellen Arbeit kann urheberrechtlich dem publizierenden Autor zugerechnet werden, wenn er massgeblichen kreativen Einfluss ausuebt; die Transparenzregelung (Autor-Redaktions-Trennung) des Verlagsredaktions-Skills ist ein gutes-practice-Beispiel fuer vertragskonforme Zusammenarbeit.
+
+## Output-Template: Materialinventar-Einstieg Modus A
+
+```
+MATERIALINVENTAR — Auftrag [Titel/Thema]
+Erstellt: [Datum]
+
+Nr.  | Typ          | Beschreibung                    | Datum       | Umfang
+-----|-------------|--------------------------------|-------------|-------
+1    | Transkript  | Diktat Abschnitt Schriftform    | 12.03.2026  | 23 Min.
+2    | PPT         | Vortrag IPRax Tagung Koeln      | 15.02.2026  | 18 Folien
+3    | Konzeptpap. | Email-Draft Co-Autor            | 28.01.2026  | 4 Seiten
+4    | Screenshot  | Whiteboard Gliederung           | 01.03.2026  | 1 Bild
+
+Vorgeschlagene Gliederung:
+I.   Einleitung — [Material 1, 3]
+II.  Rechtsprechungsueberblick — [Material 1, Rn. 5-12]
+III. Normanalyse — [Material 2, Folien 8-14]
+IV.  Fazit — [LUECKE: Autor bitte ergaenzen]
+```

@@ -1,0 +1,8 @@
+Posten;Beschreibung;Aufwand_Stunden;Stundensatz_EUR;Summe_EUR
+Vor_Ort_Termin;Ortsbegehung mit Vermessung und Wechselrichter-Oeffnung;6;145;870
+Messung_Anlagenleistung;Mess-Equipment plus Datenauswertung;8;160;1280
+Gutachten_Erstellung;Schriftliche Ausarbeitung;28;180;5040
+;;FEHLT - weitere Posten nicht eingepflegt;;
+GESAMT_VORLAEUFIG;;;;
+;;;;
+_HINWEIS;Diese CSV ist absichtlich unvollstaendig - in echter Akte wuerden weitere Posten folgen;;;

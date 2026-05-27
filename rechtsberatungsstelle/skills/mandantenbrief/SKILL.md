@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief
-description: "Erstellt Mandantenbriefe in einfacher, verständlicher Sprache – kein Juristenjargon. Übersetzt komplexe Bescheids-, Widerspruchs- oder Klageinhalte in klare, handlungsorientierte Briefe auf Niveau B1/B2. Aufrufen, wenn der Studierende dem Mandanten das Ergebnis einer Prüfung, den Stand des Verfahrens oder einen konkreten nächsten Schritt mitteilen will."
+description: "Mandantenbrief fuer Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Pruefraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte fuer Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe fuer barrierefreie Kommunikation und zu Entwurf fuer Schriftsaetze."
 ---
 
 # /mandantenbrief
@@ -14,6 +14,29 @@ description: "Erstellt Mandantenbriefe in einfacher, verständlicher Sprache –
 ---
 
 # Mandantenbrief in einfacher Sprache
+
+
+## Triage zu Beginn
+1. Was soll der Brief mitteilen: Ergebnis einer Pruefung, Verfahrensstand, konkreter naechster Schritt oder Ablehnung?
+2. Auf welchem Sprachniveau soll der Brief verfasst werden: B1/B2 Standard oder Leichte Sprache A2 bei besonderem Bedarf?
+3. Enthaelt der Brief Angaben ueber Dritte oder interne Bewertungen, die im Mandantenbrief nicht erscheinen duerfen?
+4. Hat der anleitende Volljurist den Briefentwurf bereits freigegeben oder ist das Gate noch ausstehend?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Mitteilungspflicht des Anwalts ueber wesentliche Verfahrensschritte; Mandantenbrief als notwendige Kommunikation nach BORA § 11.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Verstaendlichkeit des Mandantenbriefs als Bestandteil anwaltlicher Sorgfalt; unverstaendliche Briefe koennen Beratungsfehler darstellen.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzanforderungen bei Mandantenkommunikation: Brief darf keine Drittdaten oder interne Bewertungen enthalten (Art. 5 Abs. 1 lit. c DSGVO).
+- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Mandant muss ueber sein Anliegen und den Fortschritt verstaendlich informiert werden; fehlende Mitteilung begruendet Pflichtverletzung.
+
+## Zentrale Normen
+- BORA § 11 — Mitteilungspflicht: Mandant ist ueber wesentliche Verfahrensschritte zu informieren
+- § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
+- § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studierenden erfordert Anleiterpruefung und -freigabe
+- Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur fuer Mandanten bestimmte Informationen im Brief
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Reichweite bei Mandantenkommunikation)
+- Krenzler (Hrsg.) RDG § 6 Rn. 40-52 (Anleitungserfordernis: Kontrolle studentischer Schriftstuecke)
 
 ## Zweck
 

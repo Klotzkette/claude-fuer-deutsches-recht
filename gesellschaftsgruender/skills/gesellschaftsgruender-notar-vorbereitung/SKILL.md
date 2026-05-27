@@ -1,197 +1,131 @@
 ---
 name: gesellschaftsgruender-notar-vorbereitung
-description: "Vorbereitung der Notarsitzung fuer GmbH UG AG Beurkundung. Notar finden Beurkundungs-Termin Ablauf der Beurkundung Vorbereitung der Unterlagen Vorpruefung Sacheinlage. Kosten-Aufstellung Notargebuehren nach GNotKG. Vertretungs-Pruefung bei juristischen Personen als Gesellschafter. Beglaubigung vs Beurkundung. Online-Gruendung Hinweise."
+description: "Notartermin fuer GmbH-Gruendung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Pruefraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung."
 ---
 
 # Notar-Vorbereitung
 
-## Zweck
+## Triage — kläre vor dem Notartermin
 
-Die Beurkundung beim Notar ist der zentrale rechtsbegründende Akt der GmbH-/UG-/AG-Gründung (Paragraf 2 I 1 GmbHG, Paragraf 23 III AktG). Eine gute Vorbereitung spart Zeit, Geld und Aerger.
+1. Ist es eine Bargründung oder Sachgründung? Bei Sacheinlage: Sachgründungsbericht zwingend.
+2. Sind alle Gesellschafter persönlich erscheinen oder sind Vollmachten erforderlich (notariell beglaubigt)?
+3. Sind alle Gesellschafter deutsche oder EU-Staatsangehörige mit eID — oder sind Ausländer mit Apostille und beglaubigter Übersetzung erforderlich?
+4. Ist eine Online-Gründung nach DiRUG (seit 01.08.2022) möglich und gewünscht?
+5. Liegt die Bank-Bestätigung über die Stammkapital-Einzahlung vor (vor HR-Anmeldung, nicht zwingend vor Beurkundung)?
+6. Ist der Firmenname vorab bei der IHK oder dem HR geprüft worden?
 
-## 1) Notar auswählen
+## Zentrale Normen
 
-### Auswahl-Kriterien
+- **§ 2 GmbHG** — Beurkundungspflicht: GmbH-Gründung muss notariell beurkundet werden; Musterprotokoll möglich (§ 2a GmbHG).
+- **§ 17 BeurkG** — Belehrungspflicht des Notars: Notar muss Inhalt vollständig vorlesen und erläutern; Beteiligten Zeit zu Rückfragen geben.
+- **§§ 16a-d BeurkG** — Online-Beurkundung nach DiRUG: Videokonferenz-Verfahren; nur Bargründung.
+- **§ 5 Abs. 4 GmbHG** — Sachgründungsbericht: bei Sacheinlage Werthaltigkeit dokumentieren.
+- **§ 9 GmbHG** — Differenzhaftung: Gesellschafter haftet für Wertunterschied wenn Sacheinlage unter angemeldeten Wert fällt.
+- **§ 23 AktG** — AG-Satzung: notarielle Beurkundung; höhere Anforderungen als GmbH.
 
-- **Erfahrung** mit Gesellschaftsrecht (nicht jeder Notar ist gesellschaftsrechtlich versiert)
-- **Verfügbarkeit** (Termin binnen 1-3 Wochen?)
-- **Sitz**: in der Naehe des Mandanten / Sitz der Gesellschaft
-- **Kosten**: durch GNotKG geregelt, keine Verhandlung — also egal
-- **Empfehlung**: lokaler Anwalt, lokale IHK, persönliche Empfehlung
+## Aktuelle Rechtsprechung
 
-### Online-Gründung
+- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 12 — Vor-GmbH ist rechtsfähig; GF haftet für Verbindlichkeiten zwischen Beurkundung und Eintragung, die er ohne Gesellschafter-Deckung eingeht.
+- BGH, Urt. v. 04.03.1996 - II ZR 89/95, NJW 1996, 1476 — Sacheinlage Differenzhaftung: Gesellschafter trägt Werthaltigkeitsrisiko seiner Sacheinlage bis zur Einzahlungspflicht; gutgläubige Falscheinschätzung schützt nicht.
+- OLG Frankfurt, Beschl. v. 14.06.2012 - 20 W 235/12, GmbHR 2012, 989 — Beurkundung durch Notar: persönliche Anwesenheit oder wirksame Vollmacht erforderlich; Vollmacht muss in Beurkundungsform erteilt sein bei Gründungsakten.
+- BayObLG, Beschl. v. 18.11.2020 - 101 AR 175/20 — Notar-Identifikation bei Online-Beurkundung: eID-Chip und Video-Identifikation reichen aus; Notar muss aber eigenständig Identität sicherstellen können.
 
-Seit DiRUG (Juli 2022) ist Online-Gründung von GmbH und UG möglich (siehe `gesellschaftsgruender-online-gruendung-dirug`). Nur Bargründung, kein AG.
+## Kommentarliteratur
 
-## 2) Notarkosten
+- Scholz/Emmerich, GmbHG, § 2 Rn. 1-30 (Beurkundung, Musterprotokoll, Online-Gründung)
+- Lutter/Hommelhoff, GmbHG, § 5 Rn. 50-70 (Sachgründung, Sachgründungsbericht, Differenzhaftung)
+- Baumbach/Hueck, GmbHG, § 2a Rn. 1-15 (Musterprotokoll, Vereinfachungsvoraussetzungen)
 
-### Grundlage: GNotKG
+## Kosten-Überblick (GNotKG 2026)
 
-Notargebuehren sind durch das **Gerichts- und Notarkostengesetz** geregelt — kein Spielraum, kein Verhandeln.
+| Gründungsart | Stammkapital | Notar ca. | HR ca. | Gesamt ca. |
+|---|---|---|---|---|
+| UG Musterprotokoll | 1-5.000 EUR | 250-400 EUR | 150 EUR | 400-600 EUR |
+| GmbH Musterprotokoll | 25.000 EUR | 400-600 EUR | 150 EUR | 600-800 EUR |
+| GmbH individuelle Satzung | 25.000 EUR | 700-1.200 EUR | 150 EUR | 900-1.400 EUR |
+| GmbH individuelle Satzung | 100.000 EUR | 1.200-2.000 EUR | 200 EUR | 1.500-2.500 EUR |
+| AG-Gründung | 50.000 EUR | 2.000-5.000 EUR | 300 EUR | 3.000-6.000 EUR |
+| Anteilsübertragung | Verkehrswert | 500-3.000 EUR | 100 EUR | 600-3.200 EUR |
 
-### Kosten-Rahmen (Stand 2026)
+## Musterprotokoll vs. Individuelle Satzung
 
-| Aktion | Gegenstandswert | Notarkosten ca. |
+| Kriterium | Musterprotokoll (§ 2a GmbHG) | Individuelle Satzung |
 |---|---|---|
-| GmbH-Gründung Musterprotokoll | Stammkapital 25.000 EUR | 350-450 EUR |
-| GmbH-Gründung individuelle Satzung | Stammkapital 25.000 EUR | 500-700 EUR |
-| UG-Gründung Musterprotokoll | Stammkapital 1.000 EUR | 250-350 EUR |
-| AG-Gründung | Grundkapital 50.000 EUR | 1.500-3.000 EUR |
-| Geschäftsanteils-Übertragung | Verkehrswert Anteil | je nach Wert |
-| Anmeldung Handelsregister | Eintragungskosten | 70-150 EUR Handelsregister + Notar |
+| Gesellschafter | Max. 3 | Unbegrenzt |
+| Geschäftsführer | Max. 1 | Mehrere |
+| Gestaltungsfreiheit | Keine | Voll |
+| Investoren-Tauglichkeit | Eingeschränkt | Standard |
+| Vesting / Klassen | Nicht möglich | Möglich |
+| Notarkosten | Günstiger | Teurer |
+| Geeignet für | Solo-Gründer, einfache Paar-Gründung | Mehrgründer, Investor-Vorbereitung |
 
-### Mehrgesellschafter-Zuschlag
+## Schritt-für-Schritt-Workflow
 
-- Bei mehr als zwei Gesellschaftern: Zuschlag pro weiterer Gesellschafter
-- Bei Sacheinlage: Bewertungsgebuehr
+1. **Triage** — 6 Triage-Fragen beantworten; Gründungstyp festlegen.
+2. **Notar auswählen** — gesellschaftsrechtlich erfahrenen Notar; Termin 1-2 Wochen vorab buchen.
+3. **Online oder Präsenz?** — DiRUG-Online-Gründung prüfen (nur Bargründung, kein AG).
+4. **Satzungsentwurf** — Notar übersendet Vorabentwurf ca. 1 Woche vorher; sorgfältig prüfen.
+5. **Unterlagen-Checkliste** — alle Dokumente gemäß Template unten zusammenstellen.
+6. **Test bei Online-Gründung** — technischen Test-Termin ca. 30 Min. vor Haupttermin.
+7. **Beurkundungstermin** — Identität prüfen; Urkunde vorlesen; Rückfragen stellen; unterschreiben.
+8. **Nach Beurkundung** — Stammkapital einzahlen; Einzahlungsbeleg an Notar; Notar meldet beim HR an.
 
-### Praxis-Beispiel
+## Output-Template Unterlagen-Checkliste Notartermin
 
-GmbH-Gründung mit drei Gesellschaftern, Bareinzahlung 25.000 EUR, individuelle Satzung:
+**Adressat:** Gründer / Mandant — Tonfall anleitend-verständlich
+```
+UNTERLAGEN-CHECKLISTE NOTARTERMIN
+Gesellschaft (geplant): [Firmenname] GmbH
+Notartermin: [Datum, Uhrzeit, Ort / Video-Link]
+Notar: [Name, Anschrift]
+Erstellt: [Datum]
 
-- Beurkundung Satzung: ca. 500 EUR
-- Anmeldung Handelsregister durch Notar: ca. 150 EUR
-- Handelsregister-Eintragungskosten: ca. 150 EUR
-- **Gesamt**: ca. 800 EUR
+ALLE BETEILIGTEN MITBRINGEN
+[ ] Gültiger Personalausweis oder Reisepass (alle Gesellschafter + GF)
+[ ] Bei GmbH als Gesellschafterin: HR-Auszug (max. 4 Wochen alt) + Vollmacht
+[ ] Bei Ausländern: Apostille + beglaubigte Übersetzung Gesellschaftsnachweis
 
-## 3) Vorbereitung der Unterlagen
+BEREITS VOM NOTAR / ANWALT VORBEREITET
+[ ] Satzungsentwurf — Version [Nr.], geprüft am [Datum]
+[ ] Gesellschafterliste — alle Gesellschafter mit Quote und Adresse
+[ ] Musterprotokoll-Variante (falls gewählt)
 
-### Pflicht-Unterlagen für den Notar
+ZU ORGANISIEREN VOR TERMIN
+[ ] IHK-Firmenvorprüfung Ergebnis: [ ] Freigegeben / [ ] Ausstehend
+[ ] Stammkapital auf GmbH-Konto überwiesen: [ ] [EUR] am [Datum]
+[ ] Bankbestätigung über Einzahlung: [ ] Vorhanden / [ ] Wird nachgereicht
+[ ] Bei Sachgründung: Sachgründungsbericht + Werthaltigkeitsnachweis
 
-#### Persönlich
+ZEITPLAN
+T-14: Notar gebucht
+T-7:  Satzungsentwurf finalisiert
+T-3:  Vorabentwurf Notar geprüft
+T-2:  Stammkapital überwiesen
+T-0:  Beurkundung
+T+1:  Notar meldet beim HR an (Einzahlungsbeleg vorab senden)
+T+14: HR-Eintragung erwartet (Gesellschaft entsteht)
+T+14: Gewerbeanmeldung + Finanzamt-Fragebogen
+```
 
-- **Personalausweis oder Reisepass** aller Gesellschafter, Geschäftsführer
-- **Aktuelle Anschrift** (max. 3 Monate alt)
-- Bei Eheleuten in Sondervermögen / Beteiligungs-Eheabkommen: Zustimmung Ehegatte
+## Rote Schwellen
 
-#### Bei juristischer Person als Gesellschafter
+- Personalausweis abgelaufen → Beurkundung scheitert; Ausweisdokumente vorab prüfen.
+- Vertretungsnachweis bei Gesellschafterin unvollständig → Termin muss verschoben werden.
+- Sachgründungsbericht fehlt → HR-Gericht verweigert Eintragung; persönliche Differenzhaftung.
+- Stampkapital noch nicht eingezahlt bei HR-Anmeldung → Anmeldevoraussetzung nicht erfüllt.
+- Falscher Firmenname bei Beurkundung → spätere Firmenänderung kostet Notar + HR-Gebühren.
 
-- **Handelsregister-Auszug** (max. 4 Wochen alt)
-- **Gesellschafterliste** (max. 4 Wochen alt)
-- **Vollmacht** für den Vertreter (notariell beglaubigt, falls nicht GF mit Einzelvertretung)
-- **Beglaubigte Kopie des Gesellschaftsvertrags** (falls Sondervollmacht aus Satzung folgt)
+## Quellen und Vertiefung
 
-#### Bei ausländischen Gesellschaftern
+- §§ 2, 2a, 5, 7, 9 GmbHG (Beurkundung, Musterprotokoll, Sachgründung)
+- §§ 16a-d, 17, 40 BeurkG (Online-Beurkundung, Belehrungspflicht)
+- BGH II ZR 171/06, NJW 2008, 1589 (Vor-GmbH)
+- BGH II ZR 89/95, NJW 1996, 1476 (Differenzhaftung)
+- Scholz/Emmerich, GmbHG, § 2 Rn. 1-30
 
-- **Apostille** auf dem Handelsregister-Auszug oder vergleichbarer Nachweis
-- **Beglaubigte Übersetzung** ins Deutsche
-- **Identitätsprüfung** auch bei Auslandsbesuch besonders aufwendig
+## Übergabe an andere Skills
 
-#### Gesellschaftsbezogen
-
-- **Firmen-Vorprüfung-Bescheinigung** (IHK oder Notar)
-- **Liste der Gesellschafter mit Quoten**
-- **Satzungsentwurf** (bei individueller Satzung)
-- **Sachgründungsbericht** (bei Sacheinlage)
-- **Sachwertgutachten** (bei wesentlicher Sacheinlage)
-- **Bestätigung der Bank** über das Geschäftskonto (für Einzahlung Stammkapital)
-- **Genehmigung** bei genehmigungspflichtigem Geschäftsgegenstand
-
-## 4) Ablauf der Notarsitzung
-
-### Vorbereitung durch Notar
-
-Notar bereitet Urkunden-Entwurf vor (typisch 1-2 Tage vor Termin), schickt zur Vorab-Prüfung an alle Beteiligten.
-
-### In der Sitzung
-
-1. **Identifikation** aller Beteiligten (Ausweis-Prüfung)
-2. **Vorlesung** der Urkunde (bei GmbH-Gründung: gesamter Satzungstext)
-3. **Erläuterung** der wesentlichen Klauseln durch Notar
-4. **Rückfragen** der Beteiligten
-5. **Unterzeichnung** durch alle Beteiligten und Notar
-6. **Aushaendigung** beglaubigter Abschriften
-
-### Dauer
-
-- GmbH-Musterprotokoll: 30-60 Minuten
-- GmbH individuelle Satzung: 60-120 Minuten
-- AG-Gründung mit Hauptversammlung-Vorbereitung: 2-4 Stunden
-
-## 5) Nach der Notarsitzung
-
-### Notar übernimmt typisch
-
-- Anmeldung beim Handelsregister
-- Veröffentlichungs-Pflichten (in Praxis über Bundesanzeiger)
-- Mitteilung an Transparenzregister (Paragraf 8 IV GwG iVm Paragraf 23 GwG)
-
-### Gründer haben zu erledigen
-
-- Stammkapital-Einzahlung **vollständig** vor Anmeldung (Paragraf 7 II 2 GmbHG: Bargründung mind. 12.500 EUR; Paragraf 7 III GmbHG: Sachgründung vollständig)
-- Anmeldung beim Gewerbeamt
-- Fragebogen zur steuerlichen Erfassung
-- Berufsgenossenschaft-Anmeldung
-
-## 6) Beglaubigung vs. Beurkundung
-
-### Beurkundung
-
-- Notar verliest und beraet (Paragraf 17 BeurkG)
-- Beurkundungs-Pflicht: GmbH-Gründung, Anteilsübertragung, Satzungsaenderung
-- Vollständiger Text wird Bestandteil der Urkunde
-
-### Beglaubigung
-
-- Notar prüft Identität und Unterschrift
-- Kein Verlesen, keine Beratung
-- Beglaubigungs-Pflicht: Anmeldung zum Handelsregister, Gesellschafterliste
-- Schneller und billiger als Beurkundung
-
-## 7) Sacheinlage-Vorbereitung
-
-### Was ist Sacheinlage
-
-Vermögenswerte, die statt Geld eingebracht werden — z.B. Maschinen, Software-Code, Patente, Forderungen, Grundstücke.
-
-### Voraussetzungen Paragraf 5 IV GmbHG
-
-- **Werthaltigkeit** objektiv festzustellen
-- **Sachgründungsbericht** der Gesellschafter mit konkreter Beschreibung und Wertangaben
-- **Vor Anmeldung** vollständig erbracht
-
-### Praktische Probleme
-
-- Bewertung schwankt bei manchen Assets (Software, Patente)
-- Bei Differenz: Differenzhaftung Paragraf 9 GmbHG (Gesellschafter haftet auf den Unterschied)
-- Empfehlung: bei Zweifel **Bargründung** wählen und Sachen später durch die GmbH kaufen lassen
-
-## 8) Vertretungs-Prüfung bei juristischen Personen
-
-### Bei deutscher GmbH als Gesellschafter
-
-- HR-Auszug prüfen (max. 4 Wochen alt)
-- Vertretungsbefugnis prüfen (Einzel- vs. Gesamt)
-- Bei Gesamtvertretung: zweite Person erforderlich oder Sondervollmacht
-
-### Bei ausländischer Gesellschaft
-
-- Aequivalent zum HR-Auszug (z.B. UK Companies House Certificate)
-- Apostille oder Beglaubigung
-- Beglaubigte Übersetzung
-
-## 9) Typische Vorbereitungs-Fehler
-
-1. **Personalausweis abgelaufen.** Notar verweigert Beurkundung.
-2. **HR-Auszug zu alt** (> 4 Wochen). Neuanforderung kostet 1-2 Tage Verzug.
-3. **Falsche Vertretungs-Konstellation.** GF mit Gesamtvertretung allein erscheint -> Notar nimmt nicht ab.
-4. **Stammkapital nicht eingezahlt.** Anmeldung Handelsregister scheitert, Beurkundung jedoch durchgeführt -> teure Wartezeit.
-5. **Firmen-Vorprüfung versäumt.** IHK / Handelsregister beanstandet nachtraeglich.
-6. **Sachgründungsbericht zu duenn.** Handelsregister verlangt Nachbesserung.
-7. **Auslandsgesellschafter ohne Apostille.** Termin muss verschoben werden.
-
-## 10) Zeitplan vor Termin
-
-- **Tag T-14**: Notar buchen, Unterlagen bereitstellen
-- **Tag T-7**: Satzungsentwurf finalisieren
-- **Tag T-3**: Notar-Vorabentwurf der Urkunde prüfen
-- **Tag T-2**: Stammkapital überweisen (Bank-Bestätigung)
-- **Tag T**: Beurkundung
-- **Tag T+1**: Notar reicht Handelsregister-Anmeldung ein
-- **Tag T+5 bis T+14**: Handelsregister-Eintragung (Gesellschaft entsteht juristisch)
-
-## Anschluss
-
-- `gesellschaftsgruender-handelsregister-anmeldung` — nach Beurkundung
-- `gesellschaftsgruender-stammkapital-einzahlung` — vor Anmeldung
-- `gesellschaftsgruender-online-gruendung-dirug` — Alternative zur physischen Beurkundung
+- `gesellschaftsgruender-gmbh-vorbereitung` — Vorbereitung vor Notartermin
+- `gesellschaftsgruender-online-gruendung-dirug` — DiRUG-Online-Alternative
+- `gesellschaftsgruender-stammkapital-einzahlung` — Einzahlung und Bankbestätigung
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Anmeldung nach Beurkundung

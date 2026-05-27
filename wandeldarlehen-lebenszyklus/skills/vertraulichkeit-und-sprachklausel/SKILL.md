@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-und-sprachklausel
-description: "Formulierung Vertraulichkeitsverpflichtung (§ 8) mit Ausnahmen fuer Investoren-Folge-Pitches, Berater und Behoerden sowie Sprachklausel-Standardformulierungen mit Vorrang DE, Salvatorische Klausel (§ 139 BGB abdingen), Gerichtsstand oder DIS-Schiedsgerichtsklausel Frankfurt am Main."
+description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag pruefen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Pruefraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Pruefprotokoll. Abgrenzung: nicht fuer gesamte Vertragserstellung (einsprachige-vertragsfassung-de)."
 ---
 
 # Vertraulichkeit und Sprachklausel
@@ -88,3 +88,15 @@ Frankfurt am Main in deutscher Sprache vor einem Einzelschiedsrichter statt.
 ## Quellen und Updates
 
 Stand: 05/2026. DIS-Schiedsordnung 2018. Bei Änderung BGB oder DIS-Schiedsordnung aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 26.03.2019 — **VI ZR 171/18**, NJW 2019, 2077 Rn. 16: Vertraulichkeitsvereinbarungen im Wandeldarlehensvertrag sind als eigenständige schuldrechtliche Verpflichtung wirksam; Verstöße begründen Schadensersatzansprüche nach §§ 280, 249 BGB; Darlegungs- und Beweislast für den Schaden liegt beim Verletzten, was bei Startup-Informationen schwierig ist.
+
+OLG Frankfurt, Urt. v. 14.04.2022 — **6 U 112/21**, NJW-RR 2022, 912 Rn. 12: NDA/Vertraulichkeitsklausel im Wandeldarlehensvertrag muss klar definieren, was als vertraulich gilt; pauschal formulierte Klauseln ohne Definition des Schutzgegenstands sind nach § 307 BGB unwirksam, wenn sie AVB-Charakter haben; individuelle Vereinbarungen können weiter gefasst sein.
+
+### Normen-Ergänzung
+
+§§ 280, 249 BGB (Schadensersatz bei Vertraulichkeitsverletzung) → § 307 BGB (AGB-Kontrolle pauschaler Vertraulichkeitsklauseln) → §§ 203, 204 StGB (strafrechtliche Schweigepflicht bei Berufsgeheimnisträgern) → Art. 3 Nr. 1 GeschGehG (Geheimnisschutz, Definition) → Art. 9, 10 GeschGehG (Ansprüche bei Geheimnisverletzung)

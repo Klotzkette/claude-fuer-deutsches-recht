@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit
-description: "Pruefe die Verhaeltnismaessigkeit eines Grundrechtseingriffs in der Vier-Stufen-Pruefung legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit. Stufenverhaeltnis (kein Springen). Praktische Konkordanz bei kollidierendem Verfassungsrecht. Beruecksichtigung der Eingriffstiefe. Vor jeder Aussage Skill bverfg-rechtsprechung-recherchieren aufrufen."
+description: "Verhaeltnismaessigkeitspruefung fuer staatliche Massnahmen oder Gesetze durchfuehren. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Pruefraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenpruefung Abwaegung. Output: Verhaeltnismaessigkeitspruefschema Ergebnis Argumentationshilfe. Abgrenzung: nicht fuer Grundrechtspruefung insgesamt (grundrechtspruefung) sondern Baustein."
 ---
 
 # Verhältnismäßigkeit (Vier-Stufen-Prüfung)

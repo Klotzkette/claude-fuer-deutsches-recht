@@ -1,6 +1,6 @@
 ---
 name: zv-pfueb-bank
-description: "Pfändungs- und Überweisungsbeschluss (PfÜB) gegen Bankkonten des Schuldners nach §§ 829 und 835 ZPO. Erzeugt Antrag mit Drittschuldner-Bank, beachtet P-Konto-Schutz § 850k ZPO, Sockelbetrag, kindergeldspezifische Erhöhungen und das ZVollstrDigitG: ab 1.10.2026 XML-Antrag nach § 829 Abs. 5 ZPO n.F., ab 1.10.2027 zwingende elektronische Zustellung an Banken über sicheren Übermittlungsweg (§ 173 Abs. 2 Nr. 1 ZPO n.F.). Lädt bei jeder Kontopfändung."
+description: "Glaeubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Pruefraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto)."
 ---
 
 # PfÜB Bankkonto

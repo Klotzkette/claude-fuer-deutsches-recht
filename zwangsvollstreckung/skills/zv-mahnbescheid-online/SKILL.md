@@ -1,9 +1,40 @@
 ---
 name: zv-mahnbescheid-online
-description: "Begleitet den Antrag auf Mahnbescheid nach §§ 688 ff. ZPO über das Online-Mahnportal der Länder www.online-mahnantrag.de Schritt für Schritt: Schlüssigkeitsprüfung, Antragstyp, Gerichtsstandwahl, Hauptforderung, Nebenforderungen, Zinsen, Kostenfestsetzung, Übermittlung per beA, EGVP oder Druckanzeige. Klärt Anhängigkeit und Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Lädt, wenn Mandat einen Mahnantrag stellen oder verteidigen will."
+description: "Glaeubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Pruefraster: Schlüssigkeitspruefung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt fuer Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter."
 ---
 
 # Mahnbescheid online
+
+
+## Triage zu Beginn
+
+1. Ist die Forderung eine Geldforderung aus Vertrag und nicht von Gegenleistung abhängig (§ 688 ZPO)?
+2. Droht Verjährung — wenn ja, bis wann muss der Mahnbescheid eingereicht sein (§ 204 Abs. 1 Nr. 3 BGB)?
+3. Hat der Schuldner einen Wohnsitz in Deutschland — Auslandszustellung schwierig?
+4. Ist der Antragsgegner Verbraucher oder Kaufmann — B2C erfordert strengere Prüfung?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 21.10.2008 - XI ZR 466/07, NJW 2009, 56 — Anspruchsbezeichnung im Mahnantrag muss den Anspruch individualisieren; ohne ausreichende Bezeichnung entsteht keine Verjährungshemmung (§ 204 Abs. 1 Nr. 3 BGB).
+- BGH, Urt. v. 23.06.2015 - XI ZR 536/14, NJW 2015, 2584 — Verjährungshemmung erfordert, dass Anspruch im Mahnbescheid eindeutig bezeichnet ist; Fehler in der Antragsnummer schaden nicht, wenn Vertrag erkennbar.
+- BGH, Urt. v. 17.07.2019 - VIII ZR 224/18, NJW 2019, 2994 — "Demnächst"-Zustellung § 167 ZPO: Rückwirkung tritt ein, wenn Verzögerung nicht dem Antragsteller zuzurechnen ist; Fristversäumnis durch Gericht schadet nicht.
+- BGH, Urt. v. 06.05.2014 - XI ZR 217/12, NJW 2014, 2806 — Verjährungshemmung § 204 Abs. 2 BGB endet 6 Monate nach Erlass des VB, wenn das Verfahren nicht weiter betrieben wird.
+
+## Zentrale Normen
+
+- § 688 ZPO — Statthaftigkeit des Mahnverfahrens
+- § 689 ZPO — Zuständigkeit (zentrales Mahngericht im jeweiligen Bundesland)
+- § 690 ZPO — Antragsinhalt (Individualisierung der Forderung)
+- § 692 ZPO — Erlass des Mahnbescheids; Zustellung von Amts wegen
+- § 694 ZPO — Widerspruchsfrist (2 Wochen ab Zustellung)
+- § 204 Abs. 1 Nr. 3 BGB — Verjährungshemmung durch Zustellung des Mahnbescheids
+- § 167 ZPO — Rückwirkung der Zustellung bei "demnächst"-Zustellung
+
+## Kommentarliteratur
+
+- Zöller/Vollkommer, ZPO, 35. Aufl. 2024, § 688 Rn. 1-20 (Mahnverfahren Überblick)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 690 Rn. 1-15 (Antragsinhalt Individualisierung)
+- Grüneberg, BGB, 83. Aufl. 2024, § 204 Rn. 30-50 (Verjährungshemmung Mahnbescheid)
 
 ## Aufgabe
 

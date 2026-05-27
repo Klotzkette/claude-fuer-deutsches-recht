@@ -1,6 +1,6 @@
 ---
 name: klagevorlage-aus-eigenen-mustern
-description: "Lernlauf der Klagewerkstatt für Forderungsmanagement-Klagen. Frisst eigene Klagemuster, Urteile, Kommentare, Aufsätze und Formatvorlagen des Nutzers (DOCX, PDF, MD, TXT), destilliert daraus eine hauseigene generische Standardklage-Vorlage mit Platzhaltern, sammelt den Sachverhalt im Dialog oder aus weiteren Dokumenten, prüft online die sachliche und örtliche Zuständigkeit (justizadressen.nrw.de und justiz.de Gerichtssuche; §§ 12/13/29/29c ZPO; §§ 23 und 71 GVG) und liefert die fertige Klageschrift als DOCX und Markdown. Erzeugt zusätzlich ein eigenes Mini-Plugin als ZIP, das in Claude Code direkt installierbar ist und die nächste Klage ohne erneute Extraktion in der hauseigenen Vorlage produziert. Memo nur auf Anfrage."
+description: "Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Pruefraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zustaendigkeitspruefung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP fuer naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller."
 ---
 
 # Klagewerkstatt — Lernlauf aus eigenen Mustern

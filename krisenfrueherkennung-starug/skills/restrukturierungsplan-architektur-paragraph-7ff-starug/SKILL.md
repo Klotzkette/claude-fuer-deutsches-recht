@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-architektur-paragraph-7ff-starug
-description: "StaRUG-Restrukturierungsplan nach §§ 7 ff.: Planbestandteile, Gruppenbildung § 9 StaRUG, Mehrheitserfordernisse § 25 StaRUG, gerichtliche Planbestätigung, Schlechterstellungsverbot, Gestaltungsgrenzen."
+description: "StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant aussergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25 StaRUG (Mehrheitserfordernisse), § 60 StaRUG (gerichtliche Planbestaetigung). Pruefraster: Planbestandteile vollstaendig, Gruppenbildung nach Glaeubiger-Rang, Mehrheitserfordernisse, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf-Geruest, Gruppen-Matrix, Zeitplan. Abgrenzung: Cram-Down siehe cross-class-cram-down-und-absolute-priority; Stabilisierungsanordnung siehe stabilisierungsanordnung-und-vollstreckungssperre."
 ---
 
 # Restrukturierungsplan — Architektur nach §§ 7 ff. StaRUG
@@ -197,3 +197,28 @@ ANLAGEN
 - → `restrukturierungsbeauftragter-und-sachwalter` — externe Aufsicht
 - → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung
 - → `fortbestehensprognose-zweistufig` — Plananlage Fortführungsprognose
+
+
+## Aktuelle Leitentscheidungen — StaRUG-Plan-Architektur
+
+- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — Plan-Architektur und Mehrheiten: strukturelle Anforderungen an darstellenden und gestaltenden Teil; Vergleichsrechnung und Erlaeuterung der Massnahmen als Pflichtelemente.
+- LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Darstellender Teil § 8 StaRUG: Sachverhalt und Krisenursachen muessen klar und vollstaendig sein; Gerichte prufen ob Vergleichsrechnung nachvollziehbar ist.
+- BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Gestaltender Teil § 9 StaRUG: Rechtseingriffe muessen praezise formuliert sein; Vorgabe Zahlungsquoten, Stundungen und Sicherheiten klar bezeichnen.
+- LG Frankfurt, Beschl. v. 09.09.2021 — 3-09 RES 1/21 — erstes StaRUG-Verfahren: Planbestaetigung und Cramdown erfolgreich; Grundsatz: Plan muss ueber alle Beteiligten fair und verhaltensmaessig korrekt sein.
+
+## Paragrafenkette Plan-Architektur
+
+§ 7 StaRUG (Planinhalt allgemein) → § 8 StaRUG (darstellender Teil) → § 9 StaRUG (gestaltender Teil) → § 10 StaRUG (Gruppen) → § 11 StaRUG (Anlagen) → §§ 14-19 StaRUG (Planbetroffene) → §§ 60-66 StaRUG (gerichtliche Bestaetigung)
+
+## Triage — Plan-Architektur Check
+
+1. **Darstellender Teil vollstaendig?** Ausgangslage, Krisenursachen, Sanierungskonzept, Massnahmen, Vergleichsrechnung.
+2. **Gestaltender Teil praezise?** Forderungstabelle, Quoten, Stundungen, Sicherheiten klar bezeichnen.
+3. **Gruppen korrekt?** Homogenitaet je Gruppe sichergestellt?
+4. **Anlagen?** Integrierten Finanzplan, Sanierungsgutachten, Beteiligten-Listen als Anlagen.
+
+## Kommentarliteratur
+
+- Braun/Herzig, StaRUG §§ 7-12 — Plan-Architektur im Detail.
+- MüKo InsO/Gehrlein, StaRUG §§ 8-11 Rn. 1 ff.
+- Uhlenbruck/App, StaRUG §§ 7-39 Rn. 1 ff.

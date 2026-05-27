@@ -1,9 +1,31 @@
 ---
 name: geldwaesche-audit-internal-revision
-description: "Prüft AML/KYC-Kontrollen, Stichproben, Fallakten, Screeningqualität, Monitoring, Verdachtsmeldungen und Remediation."
+description: "Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Pruefer will AML-Kontrollsystem auf Wirksamkeit pruefen. Normen § 4 GwG interne Sicherungsmassnahmen § 6 GwG Risikomanagement FATF-Empfehlungen BaFin-Rundschreiben. Pruefraster AML-Kontrollen Stichproben Fallakten Screeningqualitaet Monitoring Verdachtsmeldungen Remediation. Output Revisionsbericht mit Befunden Massnahmenplan Priorisierung und Abschluss-Freigabe. Abgrenzung zu geldwaesche-sicherungsmassnahmen-icp (Aufbau) und geldwaesche-behoerdenverfahren (externe Pruefung)."
 ---
 
 # Audit und interne Revision
+
+## Triage zu Beginn
+1. Welcher Audit-Bereich ist betroffen: KYC-Qualitaet, Transaktionsmonitoring, Verdachtsmeldungen oder Sanktionsscreening?
+2. Handelt es sich um eine anlassbezogene Sonderrevision oder eine regulaere Revisionspruefung?
+3. Welche Aufsichtsbehoerde und welche Berichtspflichten bestehen (BaFin, Staatsanwaltschaft, AMLA)?
+4. Welcher Zeitraum und welche Stichprobenmenge sollen erfasst werden?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 18.12.2019 - 1 StR 597/18, NJW 2020, 1462 — Interne Revision muss AML-Kontrollmaengel unverzueglich an Geschaeftsleitungsebene eskalieren; Unterlassen begruendet Aufsichtspflichtverletzung.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — BaFin kann Revisionsmaengel in AML-Kontrollen selbstaendig feststellen und Massnahmenbescheide erlassen.
+- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Geschaeftsleiterhaftung bei Systemversagen der AML-Kontrollen: subjektiver Vorsatz bei Kenntnis von Kontrollmaengeln.
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Risikobasierter Audit-Ansatz nach 4. EU-GeldwaescheRL verpflichtet zur dokumentierten Pruefung aller risikorelevanten Kundenkategorien.
+
+## Zentrale Normen
+- § 4 GwG — Interne Sicherungsmaßnahmen: Pflicht zur internen Revision
+- § 7 GwG — Geldwäschebeauftragter und Berichtspflichten an Geschäftsleitung
+- § 9 GwG — Gruppenweite Pflichten und Revisionsstandards
+- § 56 GwG — Bußgeldtatbestaende bei Kontrollversagen
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 4 Rn. 1-50 (Interne Sicherungsmaßnahmen und Revision)
+- Bülte in: Schimansky/Bunte/Lwowski Bankrechts-Handbuch, § 145 Rn. 30-60 (AML-Revision in Kreditinstituten)
 
 ## Zweck
 

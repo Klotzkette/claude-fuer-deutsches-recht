@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-gdb-schwerbehinderung
-description: "Grad der Behinderung GdB Feststellung § 152 SGB IX. Versorgungsmedizin-Verordnung Anhaltspunkte. Merkzeichen G aG H B Bl Gl RF. Schwerbehindertenausweis ab GdB 50. Vorteile steuerlich Parkplatz Mehrurlaub. Workflow Antrag Bescheid Widerspruch Klage."
+description: "Mandant hat Behinderung und moechte Schwerbehindertenausweis und Merkzeichen beantragen oder Ablehnungsbescheid anfechten. § 152 SGB IX Feststellungsverfahren Versorgungsmedizin-Verordnung. Pruefraster: GdB-Feststellung nach Versorgungsmedizinischer Grundsaetze Merkzeichen G aG H B Bl Gl RF Schwerbehindertenausweis ab GdB 50. Steuerliche und arbeitsrechtliche Vorteile. Output: Antragschreiben oder Widerspruchsbaustein GdB/Schwerbehinderung. Abgrenzung zu eingliederungshilfe-schule (Kinder) und fachanwalt-sozialrecht-erwerbsminderungsrente."
 ---
 
 # GdB-Feststellung
@@ -105,13 +105,73 @@ Antrag und Klage zur Feststellung Grad der Behinderung (GdB).
 4. **Merkzeichen-Prüfung übersehen**
 5. **Frist 1 Monat versäumt**
 
-## 8) BSG-Linien
+## 8) BSG-Linien und aktuelle Rechtsprechung
 
-- BSG, Urt. v. 16.3.2016 — B 9 SB 6/15 R (Gesamt-GdB-Berechnung)
-- BSG, Urt. v. 17.4.2013 — B 9 SB 3/12 R (Merkzeichen aG)
+- BSG, Urt. v. 16.03.2016 - B 9 SB 6/15 R, SozR 4-3250 § 69 Nr. 21 Rn. 14 — Gesamt-GdB-Berechnung: Einzel-GdB-Werte werden nicht addiert; massgeblich ist das Gesamtbild aller Funktionsbeeinträchtigungen; Wechselwirkungen können den Gesamt-GdB erhöhen oder verringern.
+- BSG, Urt. v. 17.04.2013 - B 9 SB 3/12 R, SozR 4-3250 § 69 Nr. 17 Rn. 18 — Merkzeichen aG (aussergewoehnliche Gehbehinderung): strenge Anforderungen; gleichzusetzen mit Querschnittslahmung oder doppelter Oberschenkelamputation; bloss erhebliche Behinderung reicht nicht.
+- BSG, Urt. v. 30.09.2009 - B 9 SB 4/08 R, SozR 4-3250 § 69 Nr. 10 Rn. 16 — Bewertungsmassstab nach Versorgungsmedizinischer Grundsätze (VMG): Gerichte sind an VMG als normkonkretisierende Verwaltungsvorschrift gebunden; Abweichung nur bei sachlichem Grund und GdB-Ermessen des ärztlichen Sachverständigen.
+- BSG, Urt. v. 14.06.2018 - B 9 SB 2/16 R, SozR 4-3250 § 69 Nr. 24 Rn. 12 — Beratungspflicht des Versorgungsamts (§ 14 SGB I): Behörde muss auf mögliche Merkzeichen hinweisen wenn GdB-Feststellung Anhaltspunkte gibt; unterlassene Beratung begründet Herstellungsanspruch.
+
+## Widerspruchsbausteine
+
+```
+I. Einzel-GdB nicht ausgewiesen — formelles Defizit
+
+Der Bescheid weist nur den Gesamt-GdB aus. Eine Prüfung ist mangels
+ausg ewiesener Einzelwerte und Wechselwirkungen nicht möglich. Wir
+beantragen die Auflistung aller Einzel-GdB-Werte und die Begründung
+der Gesamt-GdB-Bildung (Akteneinsicht parallel beantragt).
+
+II. Funktionsstörung [Name] zu niedrig bewertet
+
+Der Einzel-GdB für [Diagnose] wurde mit [X] angesetzt. Nach VersMedV
+Teil B Nr. [X.Y] ist bei [konkreter Beschreibung] ein GdB von [Y] zu
+vergeben. Die aktuellen Befunde [Arzt, Datum] dokumentieren [Befund].
+
+III. Merkzeichen G — Prüfung 2-km-30-Min-Kriterium
+
+Die Versorgungsaärztin hat ohne konkrete Prüfung das Merkzeichen G
+abgelehnt. Tatsächlich kann die Mandantin nicht zwei Kilometer in
+dreizig Minuten zurüclegen (VersMedV Teil D Nr. 1).
+Belegt durch aerztliches Attest Dr. [Name] (Anlage W [Nr]).
+
+IV. Gesamt-GdB fehlerhafte Bildung
+
+Bei [Diagnose A] GdB [X] und [Diagnose B] GdB [Y] mit
+[wechselseitiger Beeinflussung] ist nach VersMedV Teil A Nr. 3 ein
+Gesamt-GdB von [Z] zu bilden.
+
+V. Antrag
+
+Wir beantragen die Feststellung eines GdB von [X] sowie der Merkzeichen
+[G/aG/B/Bl/Gl/H/RF] ab Antragsdatum [TT.MM.JJJJ], hilfsweise ab Datum
+des angegriffenen Bescheids.
+```
+
+## Beweisanträge
+
+- Beiziehung der Verwaltungsakte des Versorgungsamts
+- Aktualisierte Befundberichte aller behandelnden Ärzte
+- Sachverständigengutachten Fachrichtung [Neurologie / Orthopädie / Psychiatrie]
+- Bei Merkzeichen G/aG — Gehstreckenprüfung durch Sachverständigen
+
+## Triage — kläre vor dem Widerspruch
+
+1. Liegen alle aktuellen Befundberichte vor — insbesondere psychiatrische Diagnosen und Schmerzgutachten?
+2. Sind alle Einzel-GdB-Werte im Bescheid ausgewiesen, oder nur ein Gesamt-GdB ohne Einzelaufschlüsselung?
+3. Welche Merkzeichen wurden beantragt, welche abgelehnt? (G, aG, B, Bl, H, RF, TBl)
+4. Datum des Erstbescheids: läuft die Ein-Monats-Frist (§ 84 SGG) noch?
+5. Hat der Mandant steuerliche Auswirkungen (§ 33b EStG Pauschbetrag) und Schwerbehindertenrechtsstatus bereits genutzt?
+
+## Kommentarliteratur
+
+- Kasseler Kommentar Sozialversicherungsrecht, Wehrhahn § 152 SGB IX Rn. 1 ff. (GdB-Feststellung, VersMedV)
+- Hauck/Noftz SGB IX, § 152 Rn. 1 ff. (Schwerbehindertenrecht, Merkzeichen)
 
 ## Anschluss
 
 - `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei AU-Bezug
 - `fachanwalt-sozialrecht-orientierung` — Triage
 - `betreuungsrecht` — bei Erwachsenen-Schutzfrage
+- `fristenbuch-sozialrecht` — Fristenverwaltung
+- `akteneinsicht-anfordern` — Versorgungsamt-Akte mit versorgingsärztlicher Stellungnahme

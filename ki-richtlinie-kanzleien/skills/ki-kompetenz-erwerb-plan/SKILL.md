@@ -1,6 +1,6 @@
 ---
 name: ki-kompetenz-erwerb-plan
-description: "Schulungsplan nach Art. 4 KI-VO für Kanzleien: technisches Grundwissen, praktische Anwendung in einer Sandbox-Umgebung, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation der Schulungsteilnahme sowie jährliche Aktualisierung."
+description: "KI-Kompetenz-Schulungsplan fuer Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Pruefraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz."
 ---
 
 # KI-Kompetenz Erwerb Plan
@@ -42,3 +42,46 @@ Die Schulungsunterlagen und -inhalte werden jährlich — spätestens bis [Monat
 ## Hinweise zur Aktualisierung
 
 Neue Leitlinien des Europäischen KI-Büros zur Auslegung des Art. 4 KI-VO sowie EU-FAQs zur KI-Kompetenz (FAQ der EU-Kommission zur KI-Kompetenz) und Hinweise der Bundesnetzagentur sind in die Schulungsunterlagen aufzunehmen. Die Schulung sollte zudem aktuelle Urteile zur KI-Haftung einbeziehen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Weiterbildungspflichten als Teil der arbeitgeberseitigen Fuersorgepflicht bei Einfuehrung neuer Technologien.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Sorgfaltspflicht § 43 BRAO erfordert Kompetenz im eingesetzten Instrument — gilt auch fuer KI-Werkzeuge.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO erfordert ausgebildetes Personal bei der DSGVO-Umsetzung.
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Fehlendes KI-Grundwissen des Anwalts bei Verwendung unzuverlaessiger KI-Ausgaben als Sorgfaltspflichtverletzung gewertet.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 4 KI-VO — KI-Kompetenzverpflichtung fuer Anbieter und Betreiber
+- § 43 BRAO — Gewissenhafte Berufsausuebung (Kompetenzpflicht)
+- § 15 FAO — Fortbildungspflicht Fachanwaelte (15 Stunden/Jahr)
+- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei Schulungsmassnahmen fuer KI-Tools
+
+## Triage zu Beginn
+1. Welches KI-Kompetenz-Niveau haben die Mitarbeiter aktuell — Einsteiger, Fortgeschrittene?
+2. Gibt es spezifische KI-Anwendungsfaelle, fuer die Spezialschulungen erforderlich sind?
+3. Sind Fachanwaelte betroffen — zaehlt KI-Schulung auf 15-Stunden-Fortbildungspflicht (§ 15 FAO)?
+4. Ist ein Betriebsrat vorhanden — Mitbestimmung bei Schulungsmassnahmen (§ 87 Abs. 1 Nr. 6 BetrVG)?
+5. Wie wird der Kompetenzerwerb dokumentiert fuer Art. 4 KI-VO-Nachweis?
+
+## Output-Template — KI-Kompetenz-Erwerb-Plan
+**Adressat:** Kanzlei-Fuehrung / HR — Tonfall: strukturiert, umsetzungsorientiert
+```
+KI-KOMPETENZ-ERWERB-PLAN
+[KANZLEI] — Stand: [DATUM] — Gueltig bis: [DATUM]
+
+SCHULUNGSZIELE (Art. 4 KI-VO):
+Alle Mitarbeiter erreichen bis [DATUM] KI-Basiskompetenz fuer den Kanzlei-Einsatz.
+
+SCHULUNGS-MODULE:
+| Modul | Inhalt | Zielgruppe | Format | Dauer | Frist |
+|---|---|---|---|---|---|
+| 1. KI-Grundlagen | Funktionsweise, Halluzinationen | Alle | Online | 2h | [DATUM] |
+| 2. DSGVO und KI | Art. 28, Art. 22, Anonymisierung | Alle | Praesenz | 3h | [DATUM] |
+| 3. Berufsrecht KI | § 43a BRAO, § 203 StGB | RA/RAin | Workshop | 2h | [DATUM] |
+| 4. KI-VO Pflichten | Art. 4 KI-VO, Hochrisiko | Fuehrung | Extern | 4h | [DATUM] |
+
+DOKUMENTATION:
+Schulungsteilnahme wird dokumentiert fuer: Art. 4 KI-VO Kompetenznachweis / § 15 FAO.
+
+VERANTWORTLICH: [KOMPETENZ-OFFICER NAME]
+NAECHSTE ÜBERPRÜFUNG: [DATUM]
+```

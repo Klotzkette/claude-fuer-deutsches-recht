@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflichten-protokoll
-description: "Beweissichere Protokollierung von KI-Inputs und KI-Outputs in Kanzleien: Pruefprotokoll, Versionsstand, Pruefer und Freigabe sowie Aufbewahrungsfristen für die Compliance-Dokumentation."
+description: "Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren fuer Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art. 13 DSGVO Informationspflichten, § 43a BRAO Pflicht zur Aktenführung. Pruefraster Pruefprotokoll-Standard, Versionsstand, Pruefer und Freigabe, Aufbewahrungsfristen. Output Protokollvorlage fuer KI-Einsatz mit Pflichtfeldern und Aufbewahrungsplan. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Richtlinien-Update-Zyklus."
 ---
 
 # Dokumentationspflichten Protokoll
@@ -13,12 +13,29 @@ Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht — die Kanzlei muss die Einhaltung de
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Verarbeitungsverzeichnis aktualisieren**: Jedes KI-System, das personenbezogene Daten verarbeitet, ist im Verarbeitungsverzeichnis nach Art. 30 DSGVO zu dokumentieren.
 2. **Prüfprotokoll für wichtige Outputs**: Für Schriftsätze, Gutachten und Beratungsunterlagen, die wesentlich unter KI-Mitwirkung entstanden sind, ein standardisiertes Prüfprotokoll anlegen.
 3. **Prompt-Dokumentation**: Bei rechtlich bedeutsamen Vorgängen sollten wesentliche Prompts und die erhaltenen Outputs in der Handakte dokumentiert werden.
 4. **Versionsstand des KI-Systems festhalten**: Welches KI-System (Anbieter, ggf. Modell-Version) wurde zu welchem Zeitpunkt eingesetzt? Relevant, weil KI-Systeme sich ohne Nutzer-Ankündigung ändern können.
 5. **Aufbewahrungsfristen festlegen**: Prüfprotokolle mindestens so lange aufbewahren wie die Handakte (§ 50 Abs. 2 BRAO: 5 Jahre nach Mandatsende). Bei Hochrisiko-Systemen gilt Art. 26 Abs. 6 KI-VO (6 Monate Protokollaufbewahrung).
 6. **Regelmäßige Überprüfung**: Dokumentationsqualität mindestens quartalsweise stichprobenartig prüfen.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-Nutzungsprotokoll fuer Kanzlei erstellen | Protokoll nach Schema; Template unten |
+| Variante A — Nur bestimmte KI-Tools zu protokollieren | Selektive Protokollierung; nicht alle Tools erfassen |
+| Variante B — Retrospektive Dokumentation vergangener Nutzung | Nacherfassung mit Schatzwerten; Vollstaendigkeit vermerken |
+| Variante C — Automatisierte Protokollierung per Tool | Tool-gestuetztes Protokoll; manuelle Felder minimieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -34,6 +51,61 @@ Verarbeitungstätigkeit: Unterstützung bei der Erstellung juristischer Texte du
 **Baustein Handakten-Dokumentation:**
 Wird in einem Mandat ein KI-System für die Erstellung wesentlicher Dokumente eingesetzt, ist in der Handakte zu vermerken: (1) welches KI-System wann eingesetzt wurde, (2) welche Aufgaben damit erledigt wurden, (3) welche Prüfschritte durchgeführt wurden und (4) wer die abschließende Freigabe erteilt hat.
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Anforderungen an die Dokumentation können sich durch neue DSGVO-Leitlinien des Europäischen Datenschutzausschusses (EDSA) oder durch berufsrechtliche Konkretisierungen der BRAK weiterentwickeln. Ebenso ist zu beobachten, ob Gerichte in Haftungsfällen konkrete Dokumentationsanforderungen an die KI-Nutzung stellen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO erfordert nachweisbare Dokumentation — bei fehlendem Protokoll keine Exkulpation.
+- BGH, Urt. v. 17.03.2022 — III ZR 79/21, NJW 2022, 2024 Rn. 19: Dokumentationspflicht gilt auch im IT-Bereich — verspaetetes oder fehlendes Protokoll kann Beweislast umkehren.
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Anwaltshaftung — fehlende Dokumentation des Pruefvorgangs bei KI-Ausgaben kann Fahrlässigkeit begruenden.
+- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Sorgfaltspflicht bei Verwendung automatisierter Systeme erfordert Prozess-Dokumentation.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 5 Abs. 2 DSGVO — Rechenschaftspflicht (Nachweisbarkeit)
+- Art. 30 DSGVO — Verzeichnis von Verarbeitungstaetigkeiten
+- Art. 26 Abs. 1 KI-VO — Betreiberpflicht zur Protokollierung bei Hochrisiko-KI
+- § 50 BRAO — Aktenaufbewahrung (fuenf Jahre)
+- § 43 BRAO — Gewissenhafte Berufsausuebung und Dokumentationsstandards
+
+## Triage zu Beginn
+1. Welche KI-Eingaben und Ausgaben sind fuer den Mandatsvorgang relevant?
+2. Wie lange muessen die Protokolle aufbewahrt werden (§ 50 BRAO: fuenf Jahre)?
+3. Liegt ein Hochrisiko-KI-System vor — ist Protokollierung nach Art. 26 Abs. 1 KI-VO verpflichtend?
+4. Ist der Pruefvorgang (Verifikation der KI-Ausgabe) dokumentiert und datiert?
+5. Ist eine Versionskontrolle fuer das KI-System vorhanden (Modell-Version, Datum)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template — KI-Nutzungsprotokoll
+**Adressat:** Kanzlei intern (Akte) — Tonfall: kurz, dokumentierend
+```
+KI-NUTZUNGSPROTOKOLL
+[DATUM UHRZEIT] — [AKTENZEICHEN] — Sachbearbeiter: [NAME]
+
+KI-System: [SYSTEMNAME] — Version: [MODELL/VERSION]
+Anwendungsfall: [BESCHREIBUNG z.B. Schriftsatz-Entwurf, Recherche]
+
+Eingabe: [KURZBEZEICHNUNG — anonymisiert: JA/NEIN]
+Ausgabe: [KURZBEZEICHNUNG]
+
+Pruefung der Ausgabe:
+Geprueft von: [NAME]
+Datum: [DATUM]
+Ergebnis: [FEHLERFREI / KORREKTUREN VORGENOMMEN — BESCHREIBUNG]
+KI-Fundstellen verifiziert: [JA / NICHT ZUTREFFEND]
+
+Kennzeichnung im Schriftsatz: [JA — Fundstelle: / NEIN — Begruendung:]
+Aufbewahrung bis: [DATUM gemaess § 50 BRAO]
+```

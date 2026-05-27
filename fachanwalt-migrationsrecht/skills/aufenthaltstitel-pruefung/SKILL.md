@@ -1,160 +1,365 @@
 ---
 name: aufenthaltstitel-pruefung
-description: Pruefraster fuer Aufenthaltstitel nach AufenthG — Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Forschungsaufenthalt § 18d Niederlassungserlaubnis § 9 ff. Erlaubnis zum Daueraufenthalt-EU § 9a Familiennachzug §§ 27 ff. AufenthG Asyl § 25 humanitaere Aufenthaltstitel § 25b § 25a § 23a. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Sicherung Lebensunterhalt Sprachnachweis A1 B1 Identitaetsfeststellung Visumserfordernis § 5 Abs. 2. Versagungsgruende § 11 Einreise- und Aufenthaltsverbot.
+description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Pruefraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identitaet. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Pruef-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag fuer den Antrag selbst."
 ---
 
 # Aufenthaltstitel-Prüfung
 
-## Zweck
+## Kaltstart-Rückfragen
 
-Bei jedem migrationsrechtlichen Mandat ist erste Frage: welcher Aufenthaltstitel ist passend und welche Voraussetzungen muss der Mandant erfüllen? Dieses Skill bietet das Raster.
+1. Was ist die Staatsangehörigkeit des Mandanten, wie alt ist er, und welcher Aufenthaltsstatus besteht aktuell (Datum, Ablauf)?
+2. Was ist der Aufenthaltszweck — Erwerbstätigkeit, Studium, Forschung, Familiennachzug, Asyl oder humanitärer Aufenthalt?
+3. Ist der Lebensunterhalt ohne öffentliche Mittel gesichert (Nettoeinkommen, SGB-II-Regelbedarf im Vergleich)?
+4. Bestehen Vorstrafen, laufende Ermittlungsverfahren, oder ein Einreise- und Aufenthaltsverbot nach § 11 AufenthG?
+5. Liegt ein gültiger Pass vor (§ 3 AufenthG), und ist die Identität im Sinne von § 5 Abs. 1 Nr. 1a AufenthG geklärt?
+6. Mit welchem Visum / zu welchem Zweck ist der Mandant eingereist — Visumserfordernis nach § 5 Abs. 2 AufenthG erfüllt?
+7. Sind Sprachnachweise vorhanden (A1 für Ehegattennachzug § 30, B1 für Niederlassungserlaubnis § 9)?
+8. Bei humanitärem Aufenthalt: Welche Schutzanerkennung liegt vor (GFK, subsidiär, national § 60 AufenthG)?
 
-## Eingaben
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-- Personalien (Staatsangehörigkeit Alter Geschlecht)
-- Familienstand und Familie in Deutschland
-- Aktueller Aufenthalts-Status
-- Aufenthaltszweck (Arbeit Familie Studium Forschung Asyl Humanitär)
-- Lebenslauf Ausbildung
-- Sprachkenntnisse
-- Einkommen Beschäftigung
-- Lebensunterhalt-Nachweis
-- Wohnraum
-- Kranken-Versicherung
-- Identitäts-Dokumente
+## Rechtlicher Rahmen
 
-## Schritt 1 — Aufenthaltszweck identifizieren
+### Titel-Übersicht
 
-| Zweck | Titel | Norm |
+| Aufenthaltszweck | Titel | Norm |
 |---|---|---|
-| Visum kurz | Schengen-Visum (max neunzig Tage) | § 6 Abs. 1 AufenthG |
-| Visum nationaler Aufenthalt | nationales Visum (über neunzig Tage) | § 6 Abs. 3 AufenthG |
-| Ausbildung | AE zum Zweck Ausbildung | § 16a AufenthG |
+| Schengen-Visum (max. 90 Tage) | Visum Typ C | § 6 Abs. 1 AufenthG |
+| Nationales Visum (über 90 Tage) | Visum Typ D | § 6 Abs. 3 AufenthG |
+| Berufsausbildung | AE Ausbildung | § 16a AufenthG |
 | Studium | AE Studium | § 16b AufenthG |
-| Erwerbstaetigkeit qualifizierte | AE Beschäftigung Fachkräfte | § 18a § 18b AufenthG |
-| Blaue Karte EU | Blaue Karte | § 18b AufenthG |
-| Selbstständige Tätigkeit | AE Selbstständige | § 21 AufenthG |
+| Fachkräfte-Beschäftigung | AE Beschäftigung | § 18a AufenthG |
+| Hochqualifizierte / Blaue Karte EU | Blaue Karte EU | § 18b AufenthG |
 | Forschung | AE Forschung | § 18d AufenthG |
-| ICT-Karte | Intra-Corporate-Transferee | § 19 AufenthG |
-| Familiennachzug Ehegatte | AE Ehegattennachzug | § 30 AufenthG |
-| Familiennachzug Kinder | AE Kindernachzug | §§ 32 ff. AufenthG |
-| Asyl | AE asylberechtigt | § 25 Abs. 1 AufenthG |
-| Flüchtlings-Anerkennung | AE GFK-Flüchtling | § 25 Abs. 2 AufenthG |
-| Subsidiärer Schutz | AE subsidiär | § 25 Abs. 2 AufenthG |
-| Humanitärer Aufenthalt | AE humanitär | § 25 Abs. 5 AufenthG |
-| Gut integriert nachhaltig | AE nachhaltige Integration | § 25b AufenthG |
-| Gut integrierte Jugendliche / Heranwachsende | AE Jugendliche | § 25a AufenthG |
-| Resettlement Härtefall | AE Härtefall | § 23a AufenthG |
-| Niederlassungserlaubnis | NE | §§ 9 9a AufenthG |
+| Intra-Corporate-Transfer | ICT-Karte | § 19 AufenthG |
+| Selbständigkeit | AE Selbständige | § 21 AufenthG |
+| Familiennachzug zu Deutschen | AE | § 28 AufenthG |
+| Ehegattennachzug zu Drittstaatsangehörigen | AE Ehe | § 30 AufenthG |
+| Kindernachzug | AE Kind | §§ 32–34 AufenthG |
+| Asylberechtigt | AE § 25 Abs. 1 | § 25 Abs. 1 AufenthG |
+| GFK-Flüchtling | AE § 25 Abs. 2 Alt. 1 | § 25 Abs. 2 AufenthG |
+| Subsidiärer Schutz | AE § 25 Abs. 2 Alt. 2 | § 25 Abs. 2 AufenthG |
+| Humanitärer Aufenthalt | AE § 25 Abs. 5 | § 25 Abs. 5 AufenthG |
+| Nachhaltige Integration | AE | § 25b AufenthG |
+| Gut integrierte Jugendliche | AE | § 25a AufenthG |
+| Härtefall | AE | § 23a AufenthG |
+| Niederlassungserlaubnis | NE | § 9 AufenthG |
 | Daueraufenthalt-EU | DA-EU | § 9a AufenthG |
 
-## Schritt 2 — Allgemeine Erteilungsvoraussetzungen § 5 AufenthG
+### Allgemeine Erteilungsvoraussetzungen § 5 AufenthG
 
-### Soll-Voraussetzungen § 5 Abs. 1
+| Voraussetzung | Inhalt | Ausnahmen |
+|---|---|---|
+| § 5 Abs. 1 Nr. 1 | Lebensunterhalt gesichert ohne öffentliche Mittel | § 28 Abs. 1 Satz 3 (Familienangehörige Deutscher) |
+| § 5 Abs. 1 Nr. 1a | Identität und Staatsangehörigkeit geklärt | Asyl: Sonderregelungen |
+| § 5 Abs. 1 Nr. 2 | Kein Ausweisungsinteresse § 54 AufenthG | Ermessensprüfung § 53 AufenthG |
+| § 5 Abs. 1 Nr. 4 | Pass- und Passersatzpflicht erfüllt | Ausnahmen AufenthV |
+| § 5 Abs. 2 | Mit dem erforderlichen Visum eingereist | § 39 AufenthV-Ausnahmen |
 
-- **Lebensunterhalt** ohne öffentliche Leistungen gesichert
-- **Identität und Staatsangehörigkeit** geklärt
-- **Pass-/Passersatzpflicht** erfüllt
-- **Wohnsitz im Bundesgebiet** ggf. nach Vorgabe
-- **Visumserfordernis** § 5 Abs. 2 erfüllt — Einreise mit Visum für den entsprechenden Zweck
+### Leitentscheidungen
 
-### Ist-Voraussetzungen § 5 Abs. 2
+| Aktenzeichen | Gericht/Datum | Inhalt |
+|---|---|---|
+| BVerwG 1 C 32.09 | BVerwG, 16.11.2010 | Lebensunterhaltssicherung: Nettoeinkommen vs. SGB-II-Regelbedarf |
+| BVerwG 1 C 1.10 | BVerwG, 30.03.2010 | A1-Sprachnachweis Ehegattennachzug; Verhältnismäßigkeit |
+| BVerwG 1 C 22.14 | BVerwG, 12.07.2016 | Fiktionswirkung § 81 Abs. 4; Rechtsfolgen |
+| BVerwG 1 C 16.17 | BVerwG, 12.06.2018 | § 25b AufenthG nachhaltige Integration; Voraussetzungen |
+| BVerwGE 162, 130 | BVerwG, 09.09.2021 | Ausweisungsinteresse; Ermessensabwägung; Bleibeinteressen |
 
-- Mit dem erforderlichen Visum eingereist
-- Wesentliche Angaben für Erteilung bereits im Visumverfahren erbracht
+---
 
-### Ausnahmen
+## Prüfschema (15 Schritte)
 
-- Bei subsidiärem Schutz Asyl in der Regel keine Visumserfordernis
-- Bei Ehegatten von Deutschen ggf. Erleichterungen § 39 AufenthV
+| Schritt | Prüfpunkt | Grundlage |
+|---|---|---|
+| 1 | Aufenthaltszweck identifizieren und Spezialnorm auswählen | §§ 16–26 AufenthG |
+| 2 | Allgemeine Erteilungsvoraussetzungen § 5 AufenthG vollständig prüfen | § 5 Abs. 1, 2 |
+| 3 | Lebensunterhalt quantifizieren: Nettoeinkommen vs. SGB-II-Regelbedarf aller Familienmitglieder | BVerwG 1 C 32.09 |
+| 4 | Identität und Pass prüfen | § 3, § 5 Abs. 1 Nr. 1a AufenthG |
+| 5 | Ausweisungsinteresse § 54 prüfen (Strafregister, Ermittlungsverfahren) | §§ 53–55 AufenthG |
+| 6 | Visumserfordernis: richtiges Visum bei Einreise? | § 5 Abs. 2, § 39 AufenthV |
+| 7 | Zustimmungserfordernis BA § 39 AufenthG; BeschV-Ausnahmen | §§ 18 ff. AufenthG, BeschV |
+| 8 | Sprachnachweis erforderlich? (A1, B1) | § 30, § 9 AufenthG |
+| 9 | Einreise- und Aufenthaltsverbot § 11 vorhanden? | § 11 AufenthG |
+| 10 | Spezifische Voraussetzungen der Spezialnorm prüfen | Jeweilige Norm |
+| 11 | Frist Fiktionswirkung § 81 Abs. 4 sichern | § 81 Abs. 4 AufenthG |
+| 12 | Wohnraum und Krankenversicherung | § 5, § 2 Abs. 3 AufenthG |
+| 13 | Einbürgerungsperspektive prüfen (StARModG 2024) | § 10 StAG |
+| 14 | Unterlagen-Liste erstellen (Checkliste nach Zweck) | § 82 AufenthG |
+| 15 | Antrag stellen; Fiktionsbescheinigung beantragen | § 81 Abs. 5 AufenthG |
 
-## Schritt 3 — Spezifische Erteilungsvoraussetzungen
+---
 
-### Beispielhaft Familiennachzug Ehegatte § 30
+## Strategische Optionen (vor dem Template entscheiden)
 
-- Beide Ehepartner mindestens achtzehn Jahre
-- Sprachkenntnisse Ehegatten in der Regel A1 (Ausnahmen)
-- Lebensunterhalt gesichert (Ausnahmen u. a. § 28 Abs. 1 Satz 3)
-- Wohnraum vorhanden
-- Sicherung Lebensunterhalt grundsätzlich erforderlich
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-### Beispielhaft Blaue Karte EU § 18b Abs. 2
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Aufenthaltstitel-Pruefung | Pruef-Protokoll; Template unten |
+| Variante A — Aufenthalts-Aenderung durch Familienstand | Abgeleitetes Aufenthaltsrecht pruefen; Familiennachzug |
+| Variante B — Niederlassungserlaubnis angestrebt | § 9 AufenthG Voraussetzungen pruefen; Sprachkenntnisse |
+| Variante C — Aufenthaltsrecht durch EU-Freizuegigkeit | FreizuegG/EU statt AufenthG; andere Rechtslage |
 
-- Hochschulabschluss oder fünf Jahre vergleichbare Berufserfahrung
-- Konkretes Arbeitsplatzangebot
-- Mindestgehalt EU-Schwellenwert (für 2024 EUR 45300, Mangelberuf EUR 41041 — aktuelle Werte prüfen)
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-### Beispielhaft Niederlassungserlaubnis § 9
 
-- Fünf Jahre AE-Besitz
-- Sicherung Lebensunterhalt
-- Sechzig Monate Rentenbeiträge oder vergleichbar
-- B1 Deutsch (Sprachzertifikat)
-- Wohnraum
-- Erlaubte Erwerbstätigkeit
-- Grundkenntnisse Rechts- und Gesellschaftsordnung
+## Schriftsatzbausteine
 
-## Schritt 4 — Sprachnachweise
+### Baustein 1 — Anschreiben Antrag auf Aufenthaltserlaubnis § 25b AufenthG (nachhaltige Integration)
 
-- A1 für Ehegattennachzug § 30 Abs. 1 Nr. 2
-- B1 für Niederlassungserlaubnis § 9
-- C1 / C2 für bestimmte Beschäftigungs-Konstellationen
+```
+An die Ausländerbehörde [Ort]
 
-## Schritt 5 — Versagungsgründe
+Betreff: Antrag auf Aufenthaltserlaubnis nach § 25b AufenthG
+         (nachhaltige Integration) für [Name, Geburtsdatum]
 
-- **§ 5 Abs. 1 Nr. 2 AufenthG** Ausweisungsinteresse — vorhandenes Ausweisungsinteresse § 54 AufenthG steht entgegen
-- **§ 11 AufenthG** Einreise- und Aufenthaltsverbot
-- **§ 53 AufenthG** Ausweisung wegen schwerwiegender Verstöße
-- Lebensunterhalt nicht gesichert
+Sehr geehrte Damen und Herren,
 
-## Schritt 6 — Familiennachzug-Sonderprüfung
+namens und in Vollmacht beantragen wir die Erteilung einer
+Aufenthaltserlaubnis nach § 25b AufenthG.
 
-- Ehe formal wirksam (Beglaubigung Apostille Anerkennung Auslandsehe)
-- Bei Scheinehe Versagung
-- Lebensunterhalt einschließlich Wohnraum für nachzuziehende Familie
-- Sprachzertifikat A1 vor Einreise (mit Ausnahmen)
+Voraussetzungen nach § 25b Abs. 1 AufenthG sind erfüllt:
 
-## Schritt 7 — Asylverfahren-Schnittstelle
+1. Mindestaufenthalt: Ununterbrochener rechtmäßiger oder geduldeter
+   Aufenthalt seit [Datum] — mindestens acht Jahre
+   (sechs Jahre bei Kindern/Alleinerziehenden). Belegt durch
+   Anlage A1 (Ausländerbehördennachweis).
 
-- Asylantrag bei BAMF
-- Sechs Monate Bearbeitungszeit-Sollvorgabe BAMF
-- Anhörung
-- Klage gegen ablehnenden Bescheid vor VG
-- Eilantrag § 80 Abs. 5 VwGO bei sofortiger Vollziehung
-- Verfahrensbedingte Ausreisepflicht / Duldung
+2. Lebensunterhaltssicherung: Monatliches Nettoeinkommen
+   EUR [Betrag] aus Beschäftigung bei [Arbeitgeber]. Überschreitet
+   SGB-II-Regelbedarf für [Personen] (EUR [Betrag]) deutlich.
+   Anlage A2: Lohnabrechnungen.
 
-## Schritt 8 — Bürgerschafts-/Naturalisations-Perspektive
+3. Mündliche Deutschkenntnisse A2: [Sprachzertifikat, Datum]
+   Anlage A3.
 
-- Einbürgerung § 10 StAG
-- Voraussetzungen fünf Jahre rechtmäßiger Aufenthalt (Regelfall seit StARModG 27.06.2024 — vorher acht Jahre)
-- Frühere Verkürzung auf drei Jahre bei besonderen Integrationsleistungen (§ 10 Abs. 3 StAG a.F.) durch das Sechste Gesetz zur Änderung des StAG zum 30.10.2025 ersatzlos gestrichen — keine Übergangsregelung für Altanträge; auf alle nach diesem Datum noch nicht beschiedenen Anträge findet die neue Rechtslage Anwendung
-- Deutsch B1
-- Einbürgerungstest
-- Lebensunterhalt eigenständig (§ 10 Abs. 1 Satz 1 Nr. 3 StAG)
-- Bekenntnis zur freiheitlich-demokratischen Grundordnung
+4. Kein Bezug von SGB-II-/SGB-XII-Leistungen seit [Datum]:
+   Bescheinigung Jobcenter Anlage A4.
 
-## Schritt 9 — Praktische Schritte
+5. Keine Ausweisungsinteressen § 54 AufenthG: Führungszeugnis
+   ohne Eintrag Anlage A5.
 
-- Aufenthaltsstatus aktuell präzise erfassen
-- Pass und Visumsspur prüfen
-- Ablauf-Termin nicht verpassen
-- Antrag rechtzeitig vor Ablauf stellen (§ 81 Abs. 4 AufenthG fiktive Aufenthaltsfortbestehen)
+Wir bitten um Ausstellung einer Fiktionsbescheinigung und
+Terminbestätigung.
 
-## Ausgabe
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
 
-- `aufenthalt-pruefung-{mandant}.md` strukturiert
-- Empfehlung welche Titel passen mit Erfolgsaussicht
-- Voraussetzungs-Tabelle mit Ist/Soll
-- Antrag-Vorbereitung mit Belegliste
-- Frist im Fristenbuch (Ablauf aktueller Titel Antrag-Frist)
-- Bei Asyl Verweis auf Skill mandat-triage-migrationsrecht für Eilfall
+### Baustein 2 — Widerspruch gegen Versagung wegen Lebensunterhalt
+
+```
+An die Ausländerbehörde [Ort]
+
+Widerspruch gegen Ablehnungsbescheid vom [Datum], Az. [...]
+
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht erheben wir Widerspruch.
+
+Begründung:
+
+Die Behörde hat den Lebensunterhalt als nicht gesichert abgelehnt.
+Diese Einschätzung ist unzutreffend.
+
+Nach BVerwG 1 C 32.09 (16.11.2010) ist die Lebensunterhaltssicherung
+gegeben, wenn das Nettoeinkommen den nach SGB II maßgeblichen Bedarf
+aller Familienmitglieder übersteigt. Maßgeblich sind:
+
+Regelbedarf nach SGB II für [Personen]: EUR [Betrag]
+Kosten der Unterkunft (angemessen): EUR [Betrag]
+Krankenversicherungsbeiträge: EUR [Betrag]
+Gesamtbedarf: EUR [Betrag]
+
+Demgegenüber steht das monatliche Nettoeinkommen von EUR [Betrag]
+(Anlage W1: Lohnabrechnungen). Der Überschuss beträgt EUR [Betrag].
+
+Die Behörde hat [Unterhaltspflichten / Abzüge] fehlerhaft berechnet.
+Korrekte Berechnung: [Darstellung].
+
+Wir beantragen: Aufhebung des Ablehnungsbescheides und Erteilung
+des Aufenthaltstitels.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
+
+### Baustein 3 — Blaue Karte EU § 18b Abs. 2 AufenthG
+
+```
+An die Ausländerbehörde [Ort]
+
+Antrag auf Erteilung der Blauen Karte EU § 18b Abs. 2 AufenthG
+
+Sehr geehrte Damen und Herren,
+
+namens und in Vollmacht beantragen wir die Erteilung der Blauen
+Karte EU nach § 18b Abs. 2 AufenthG.
+
+Voraussetzungen sind erfüllt:
+
+1. Hochschulabschluss: [Universität, Land, Jahr, Fach].
+   Abschluss-Zeugnis mit Übersetzung: Anlage B1.
+   Anabin-Datenbank-Prüfung: Anlage B2 (Gleichwertigkeitsnachweis).
+
+2. Konkreter Arbeitsplatz: Arbeitsvertrag mit [Arbeitgeber] vom
+   [Datum] (Anlage B3). Bruttojahresgehalt EUR [Betrag].
+   Aktueller Schwellenwert 2025 (§ 18b Abs. 2 Satz 1 Nr. 2 AufenthG):
+   EUR 45300 (Regelberuf) / EUR 41041 (Mangelberuf) —
+   bitte aktuellen Wert aus BMAS-Bekanntmachung prüfen.
+
+3. Zustimmungsfreiheit: Blaue Karte EU ist nach § 2 Abs. 1 Nr. 2
+   BeschV zustimmungsfrei.
+
+4. Allgemeine Voraussetzungen § 5 AufenthG: Pass Anlage B4,
+   Krankenversicherung Anlage B5, Führungszeugnis Anlage B6.
+
+Mit freundlichen Grüßen
+[Rechtsanwalt/-anwältin]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Position | Träger | Beweismittel |
+|---|---|---|
+| Lebensunterhaltssicherung | Antragsteller (§ 82 AufenthG) | Lohnabrechnungen, Kontoauszüge, Steuerbescheid |
+| Identität und Staatsangehörigkeit | Antragsteller | Pass, Geburtsurkunde, Heimatstaatsdokumente |
+| Kein Ausweisungsinteresse | Antragsteller (negativ) | Führungszeugnis, Behördenauskunft |
+| Fiktionswirkung Rechtzeitigkeit | Antragsteller | Eingangsbestätigung, Postnachweis, Faxbericht |
+| Versagungsgrundlage § 11 | Behörde | Aktenlage, Verwaltungsakte |
+| Hochschulabschluss Gleichwertigkeit | Antragsteller | Anabin-Nachweis, KMK-Bescheid, ENIC-Dokument |
+| Ermessen bei Ausweisungsinteresse | Behörde muss abwägen | Begründungspflicht § 39 VwVfG |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Grundlage | Inhalt |
+|---|---|---|
+| Vor Ablauf AE | § 81 Abs. 4 AufenthG | Verlängerungsantrag für Fiktionswirkung |
+| Vier Wochen | § 74 Abs. 1 VwGO | Klagefrist gegen Ablehnungsbescheid |
+| Fünf Jahre | § 9 Abs. 2 AufenthG | Mindestaufenthalt für Niederlassungserlaubnis |
+| Acht Jahre | § 10 Abs. 1 StAG | Regelaufenthalt für Einbürgerung (seit StARModG 2024) |
+| Fünf Jahre | § 10 Abs. 1 StAG | Einbürgerung bei besonderen Integrationsleistungen |
+| 60 Monate | § 9 Abs. 2 Nr. 3 AufenthG | Rentenversicherungsbeiträge für Niederlassungserlaubnis |
+
+---
+
+## Typische Gegenargumente
+
+| Behörden-Argument | Rechtliche Gegenstrategie |
+|---|---|
+| "Lebensunterhalt nicht gesichert" | BVerwG 1 C 32.09: genaue Bedarfsberechnung; Unterhaltspflichten korrekt einrechnen |
+| "Visumserfordernis nicht erfüllt" | § 39 AufenthV-Ausnahmen: Nr. 1 (Familienangehörige Deutscher), Nr. 3 (humanitäre Gründe), Nr. 5 |
+| "Ausweisungsinteresse § 54 vorhanden" | Abwägung § 53 Abs. 1 AufenthG; Bleibeinteressen § 55 qualifiziert prüfen |
+| "Sprachnachweis fehlt" | Ausnahmen § 30 Abs. 1 Satz 3 AufenthG (Integrationskurs möglich, Krankheit, Alter); BVerwG 1 C 1.10 |
+| "Hochschulabschluss nicht anerkannt" | KMK-Bescheid beantragen; anabin-Datenbank; ENIC-NARIC-Netzwerk |
+| "§ 11 Einreise-/Aufenthaltsverbot" | Befristungsantrag nach § 11 Abs. 4 AufenthG; humanitäre Ausnahme |
+| "§ 25b — Lebensunterhalt nicht eigenständig" | § 25b Abs. 1 Nr. 3 AufenthG: Stufenmodell; Ausnahme bei unverschuldeter Hilfsbedürftigkeit |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Richtwert |
+|---|---|
+| Streitwert Klage AE | EUR 5000 (pauschal, NW-VGH-Streitwertliste) |
+| Streitwert Klage NE | EUR 10000 (NE = höherwertiger Titel) |
+| Verwaltungsgebühr AE-Erteilung | EUR 100 (§ 45 AufenthV) |
+| Verwaltungsgebühr NE | EUR 113 (§ 45 AufenthV) |
+| Blaue Karte EU | EUR 100 (§ 45 AufenthV) |
+| Gerichtskosten VG | Nach GKG; ca. EUR 300 bis 600 erster Instanz |
+| Anwaltskosten | Nach RVG, Streitwert EUR 5000; ca. EUR 800 bis 1200 netto |
+| PKH/VKH | § 114 ZPO i.V.m. § 166 VwGO; bei geringem Einkommen bewilligbar |
+
+---
+
+## Strategische Empfehlung
+
+| Fallkonstellation | Empfehlung |
+|---|---|
+| NE-Antrag (§ 9 AufenthG) fast erreichbar | Fehlende Rentenbeiträge freiwillig nachzahlen; B1-Kurs abschließen; Termin rechtzeitig buchen |
+| Visumserfordernis nicht erfüllt | § 39 AufenthV-Ausnahmen prüfen; sonst Ausreise und Visumantrag Deutschen Botschaft |
+| § 25b-Antrag | Lückenlose Aufenthaltshistorie dokumentieren; Integrationsnachweise sammeln |
+| Einbürgerungsperspektive | StARModG 2024: Regelaufenthalt 5 Jahre (statt 8); doppelte Staatsangehörigkeit möglich |
+| Antrag kurz vor Ablauf | Sofortiger Antrag + Fiktionsbescheinigung; Arbeitgeber informieren |
+| Ausweisungsinteresse vorhanden | Frühzeitig Ermessensabwägung anstoßen; Bleibeinteressen dokumentieren |
+
+---
+
+## Einbürgerungsperspektive (StARModG 2024)
+
+Das Staatsangehörigkeitsreformgesetz (StARModG) vom 27.06.2024 hat die Einbürgerungsvoraussetzungen erheblich geändert:
+
+| Merkmal | Alte Regelung | Neue Regelung (ab 27.06.2024) |
+|---|---|---|
+| Regelaufenthalt | 8 Jahre | 5 Jahre (§ 10 Abs. 1 StAG) |
+| Besondere Integration | 6 Jahre | 3 Jahre (§ 10 Abs. 3 StAG) |
+| Doppelte Staatsangehörigkeit | Grundsätzlich nicht | Zulässig (§ 10 Abs. 6 StAG) |
+| Sprachnachweis | B1 | B1 (unverändert) |
+| Lebensunterhalt eigenständig | Ja | Ja (§ 10 Abs. 1 Satz 1 Nr. 3 StAG) |
+
+Hinweis: Die frühere Verkürzung auf drei Jahre bei besonderen Integrationsleistungen wurde durch das Sechste Gesetz zur Änderung des StAG (30.10.2025) ohne Übergangsregelung gestrichen — auf alle nach diesem Datum noch nicht beschiedenen Anträge findet die neue Rechtslage Anwendung.
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-migrationsrecht-aufenthaltstitel-antrag` — konkreter Antragsprozess
+- `fachanwalt-migrationsrecht-einbuergerung` — Einbürgerungsmandat
+- `asyl-anhoerung-vorbereiten` — bei Asylverfahren als Ausgangslage
+- `fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024` — bei Grenzverfahren
 
 ## Quellen
 
-- AufenthG §§ 5 6 7 9 9a 16a 16b 18a 18b 18d 19 21 23a 25 25a 25b 27 28 30 32 53 54 81
-- AufenthV
-- AsylG §§ 13 ff.
-- StAG § 10
-- BVerwGE Std.Spruch
-- Hailbronner AuslR
-- Bergmann/Dienelt AusländerR
+Stand: 05/2026. AufenthG §§ 3, 5, 6, 7, 9, 9a, 11, 16a, 16b, 18a, 18b, 18d, 19, 21, 23a, 25, 25a, 25b, 27–36, 39, 53–55, 60a, 81, 82. BeschV. AufenthV §§ 39, 45. StAG § 10 (StARModG 27.06.2024). BVerwG 1 C 32.09 (16.11.2010). BVerwG 1 C 1.10 (30.03.2010). BVerwG 1 C 22.14 (12.07.2016). BVerwG 1 C 16.17 (12.06.2018). Bergmann/Dienelt Ausländerrecht. Hailbronner AuslR.
+
+## Output-Template: Aufenthaltstitel-Pruefungsmemo
+
+**Adressat:** Mandant oder Kanzlei-intern
+**Tonfall:** Sachlich-beratend, klare Handlungsempfehlung
+
+```
+AUFENTHALTSTITEL-PRUEFUNGSMEMO
+Kanzlei: [KANZLEI]
+Mandant: [NAME, geb. DATUM, Staatsang.]
+Datum: [DATUM]
+Aktenzeichen Auslaenderbehoerde: [AZ falls vorhanden]
+
+I. AKTUELLER STATUS
+Vorhandener Titel: [§ X AufenthG, gueltig bis DATUM]
+Ablauf: [DATUM — Antrag rechtzeitig gestellt? Fiktionswirkung § 81 Abs. 4: ja/nein]
+
+II. BEANTRAGTER / ANGESTREBTER TITEL
+Angestrebter Titel: [§ X AufenthG]
+Begründung Zweck: [BESCHAEFTIGUNG / STUDIUM / FAMILIENNACHZUG / HUMAN.]
+
+III. ALLGEMEINE ERTEILUNGSVORAUSSETZUNGEN § 5 AufenthG
+a) Lebensunterhalt: Netto [BETRAG EUR] vs. Bedarf [BETRAG] — [GESICHERT / NICHT GESICHERT]
+b) Identitaet: [GEKLARERT — Pass gueltig bis DATUM / NICHT GEKLARERT]
+c) Ausweisungsinteresse: [KEINES / Vorstrafen: DETAILS]
+d) Visumserfordernis: [ERFUELLT — mit Visum Typ X eingereist / PROBLEM: ...]
+e) Sprachnachweis: [A1 / B1 vorhanden: Anlage X / FEHLT]
+
+IV. PRUEFUNG SPEZIALNORM
+[§ X AufenthG: Voraussetzungen 1, 2, 3 — gegeben / nicht gegeben]
+
+V. ERGEBNIS
+[ ] Titel erteilbar — Antrag stellen bis [DATUM]
+[ ] Titel erteilbar mit folgenden Massnahmen: [...]
+[ ] Titel nicht erteilbar — Widerspruch / Klage VG pruefen
+
+VI. NAECHSTE SCHRITTE
+1. [Schritt mit Frist und Verantwortlichen]
+2. Antrag bei Auslaenderbehoerde: [TERMIN]
+3. PKH/Beratungshilfe: [ja / nein — Antrag gestellt?]
+```

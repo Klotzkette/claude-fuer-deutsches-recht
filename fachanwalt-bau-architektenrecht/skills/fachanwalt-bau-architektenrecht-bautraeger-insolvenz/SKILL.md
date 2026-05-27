@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bautraeger-insolvenz
-description: "Bautraeger-Insolvenz Schutz Bautraeger MaBV-Sicherheiten § 7 MaBV Buergschaft 5 Prozent. Auflassungs-Anwartschaft Eintragung Vormerkung § 883 BGB. Insolvenzantrag-Massnahmen Erwerber-Strategie. § 103 InsO Verwalter-Wahl Erfuellung Ablehnung. Workflow Erwerber-Sofortmassnahmen Sicherheiten Klage."
+description: "Insolvenz des Bautraegers: Ansprueche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Pruefraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkuendigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung."
 ---
 
 # Bauträger-Insolvenz — Erwerber-Schutz
@@ -142,8 +142,39 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 - Klage: nach Streitwert (Restkaufpreis + Bürgschafts-Höhe)
 - Forderungs-Anmeldung Insolvenz: separat nach § 22 RVG
 
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 07.04.2005 — IX ZR 109/04, NJW 2005, 2231 Rn. 18: Die Auflassungsvormerkung nach § 883 BGB schuetzt den Erwerber in der Insolvenz des Bautraegers — der Eigentuemsverschaffungsanspruch bleibt als Aussonderungsrecht erhalten.
+- BGH, Urt. v. 25.04.2013 — IX ZR 235/12, NJW 2013, 2756 Rn. 24: Der Insolvenzverwalter kann nach § 103 InsO den Bautraegervertrag erfuellen oder ablehnen; bei Ablehnung wandelt sich der Eigentumsanspruch in Schadensersatz um, der zur Insolvenztabelle anzumelden ist.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14, NJW 2017, 1599 Rn. 31: Die MaBV-Buerschaft sichert den Erwerber bei Nichtfertigstellung; mehrere Erwerber koennen die Buerschaft im Rahmen ihrer jeweiligen Vertragsbetraege unabhaengig voneinander geltend machen.
+- BGH, Urt. v. 14.11.2019 — VII ZR 141/18, NJW 2020, 598 Rn. 20: Der Erwerber kann Abnahme der Teilerwerke § 640 Abs. 1 Satz 2 BGB erklaeren, auch wenn das Gesamtwerk nicht fertiggestellt ist — separate Verjaehrungslauf-Folge.
+
+## Kommentarliteratur
+
+- Stoeber, ZVG, 22. Aufl. — §§ 146 ff. ZVG zur Stellung von Erwerber-Glaeubigern
+- Uhlenbruck/Brinkmann, InsO, 15. Aufl. — § 103 InsO Rn. 1 ff. Wahlrecht Verwalter
+- Kniffka/Koeble, Kompendium Baurecht, 5. Aufl. — 12. Teil Bautraegerrecht
+- Werner/Pastor, Der Bauprozess, 16. Aufl. — Rn. 900 ff. Bautraegerrecht
+
+## Fristen-Sofort-Check bei Bautraeger-Insolvenz
+
+| Frist | Norm | Zeitfenster |
+|-------|------|-------------|
+| Forderungsanmeldung Insolvenztabelle | § 174 InsO | Bis Anmeldefrist laut Insolvenzbekanntmachung |
+| Anmeldung Aussonderungsrecht Vormerkung | § 47 InsO | Unverzueglich nach Verfahrensoeffnung |
+| Aufforderung Verwalter-Wahlrecht § 103 InsO | § 103 Abs. 2 InsO | Angemessene Frist setzen (4-6 Wochen) |
+| Buerschaft ziehen | MaBV | Sofort bei Feststellung Insolvenz |
+| Mängelverjährung Bauwerk | § 634a BGB | 5 Jahre ab Abnahme |
+
+## Adressat und Tonfall
+
+- **Erwerber-Mandant**: verstaendlich-erklaerend, Risiken klar benennen, Handlungsoptionen priorisieren
+- **Insolvenzverwalter**: sachlich-juristisch, Rechte aus MaBV und Vormerkung benennen
+- **Buerge/Bank**: scharf-fristsetzend mit konkreter Bezifferung
+- **Insolvenzgericht**: formal, nach InsO-Vorschriften
+
 ## Anschluss
 
 - `insolvenzforderungsanmeldungspruefung` — bei Tabellenanmeldung
-- `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage` — bei InsO-Anfechtung
+- `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter` — bei InsO-Anfechtung
 - `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Mangel-Konstellation

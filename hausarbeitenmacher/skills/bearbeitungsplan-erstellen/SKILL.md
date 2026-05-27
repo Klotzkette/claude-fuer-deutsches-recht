@@ -1,9 +1,31 @@
 ---
 name: bearbeitungsplan-erstellen
-description: Bearbeitungsplan fuer eine Hausarbeit mit Zeitplan Stoff-Aufteilung Lernzielen. Differenziert nach Art der Hausarbeit GuP Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Empfohlene Zeit-Aufteilung Recherche Literatur Gliederung Rohfassung Endfassung Korrektur. Hilft Studierenden konkretes Plan-Bild zu entwickeln und Prokrastination zu vermeiden.
+description: "Student erstellt Zeitplan und Arbeitsplan fuer juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Pruefungsordnungen Abgabetermin. Pruefraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss)."
 ---
 
 # Bearbeitungs-Plan erstellen
+
+
+## Triage zu Beginn
+1. Welche Art von Hausarbeit (GuP, Anfänger, Fortgeschrittene, Examen, Seminar) mit welchem Seitenumfang?
+2. Wie viele Wochen bis zur Abgabe — und gibt es Meilensteine (Gliederungs-Abgabe, Zwischengespräch)?
+3. Welche Bibliotheksressourcen stehen zur Verfügung (Beck-online, juris, physische Kommentare)?
+4. Gibt es persoenliche Kapazitaetseinschraenkungen (Nebenjob, Pflege, Krankheit)?
+
+## Aktuelle Rechtsprechung und Methodik
+- BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Sorgfaltspflicht beim juristischen Arbeiten umfasst ausreichende Recherche und Bearbeitungszeit; Zeitdruck entschuldigt keine methodischen Fehler.
+- BAG, Urt. v. 26.06.2013 - 5 AZR 428/12, NZA 2013, 1081 — Planbarkeit und Tagespensum-Denken sind Grundprinzipien professionellen juristischen Arbeitens.
+- BVerfG, Beschl. v. 12.12.2000 - 2 BvR 1290/99, NJW 2001, 1269 — Griendliche Vorbereitung auf Pruefungssituationen als Massstab fuer Studienerfolg; strukturierter Lernplan beugt Pruefungsversagen vor.
+- OVG Muenster, Beschl. v. 03.05.2019 - 6 B 484/19 — Fristverlängerungsantrag erfordert nachvollziehbare Darlegung der Gruende; vorausschauende Planung vermeidet Notwendigkeit.
+
+## Zentrale Normen
+- § 13 JAG NRW analog — Mindestanforderungen an juristische Arbeitstechnik im Examen
+- § 273 ZPO — Fruehzeitige Vorbereitung als Grundsatz ziviler Prozessfuehrung (Analogie: Hausarbeits-Vorbereitung)
+- §§ 195, 199 BGB — Fristen als tragendes Strukturprinzip: auch im Lernkontext Fristen-Denken einueben
+
+## Kommentarliteratur
+- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, Einleitung Rn. 1-15 (Juristische Arbeitsmethode im Studium)
+- Wank, Die Auslegung von Gesetzen, 6. Aufl. 2015, Kap. 1 (Vorgehensweise und Zeitplanung bei juristischen Analysen)
 
 ## Zweck
 

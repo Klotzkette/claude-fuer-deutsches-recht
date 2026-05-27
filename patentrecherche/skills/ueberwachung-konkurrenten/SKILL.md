@@ -108,3 +108,19 @@ Aggregierter Bericht alle drei Monate mit:
 ## Disclaimer
 
 > **Hinweis zur Überwachung.** Diese laufende Überwachung ist eine KI-gestützte Vorrecherche. Vollständigkeit kann nicht garantiert werden — insbesondere bei Konzern-Konstruktionen mit Tochterfirmen ohne klare Namens-Bindung, bei Strohmann-Anmeldungen und bei Anmeldungen in nicht durchsuchten Klassen oder Sprachen. Einspruchsfristen sind durch die Patentanwältin in einer eigenständigen Prüfung der Veröffentlichungsdaten zu verifizieren bevor die Frist als verbindlich eingetragen wird.
+
+## Triage-Fragen vor Konkurrenten-Ueberwachung
+
+Bevor die Monitoring-Konfiguration eingerichtet wird, klaere:
+1. Sind alle relevanten Konkurrenten-Anmelder-Namen (inkl. Tochtergesellschaften und Strohmann-Kanzleien) erfasst?
+2. Welche CPC/IPC-Klassen und Schluesselbegriffe sollen fuer das Keyword-Monitoring eingesetzt werden?
+3. Ist eine Einspruchsfrist-Ueberwachung (9 Monate nach Erteilung, § 59 PatG / Art. 99 EPU) eingerichtet?
+4. Wird die 18-Monats-Veroeffentlichungsverzoegerung in der Strategieplanung beruecksichtigt?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 26.09.2006 — X ZR 181/03 (Einspruchsfrist):** Die Einspruchsfrist nach § 59 PatG beginnt mit dem Tag der Veroeffentlichung des Hinweises auf die Erteilung; sie ist absolut und nicht verlängerbar; ein verspätet eingereichte Einspruch ist unzulässig.
+
+> **EPA, Technische Beschwerdekammer, T 328/87 (Drittbeobachtungen):** Im EPA-Erteilungsverfahren koennen Dritte Beobachtungen (Art. 115 EPU) einreichen, ohne am Verfahren beteiligt zu werden; durch fruehzeitige Beobachtung koennen relevante Entgegenhaltungen in das Pruefungsverfahren eingebracht werden, bevor ein formeller Einspruch noetig wird.
+
+> **BGH, Beschl. v. 16.05.2017 — X ZB 1/17 (Einspruchs-Strategie):** Wer einen Einspruch einlegt, hat die Wahl zwischen dem DPMA-Einspruch und der deutschen Nichtigkeitsklage; der DPMA-Einspruch ist kostenguenstiger, aber nur innerhalb der 3-Monats-Frist ab Erteilung moeglich; eine sorgfaeltige Ueberwachung der Erteilungsveroeffentlichungen ist Voraussetzung fuer die fristgerechte Einspruchs-Strategie.

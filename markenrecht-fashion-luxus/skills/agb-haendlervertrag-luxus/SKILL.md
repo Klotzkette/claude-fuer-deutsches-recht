@@ -1,6 +1,6 @@
 ---
 name: agb-haendlervertrag-luxus
-description: "AGB im Selektivvertrieb: AGB-Kontrolle §§ 305 ff. BGB im B2B, BGH-Klauselverbote, Verbots- und Konditionsklauseln, MFN-Klauseln nach Coty II, Vertragsstrafe-Bemessung. Laedt, wenn der Nutzer 'AGB Händler', 'Händlervertrag Luxus', 'MFN-Klausel', 'AGB-Kontrolle B2B' oder 'Vertriebsvertrag AGB' sagt."
+description: "AGB-Kontrolle im Selektivvertrieb Luxus/Fashion: Haendlervertrag mit Konditionsklauseln, MFN-Klauseln und Vertragsstrafe-Bemessung pruefen oder entwerfen. Normen: §§ 305 ff. BGB (AGB-Kontrolle B2B), Art. 5 Vertikal-GVO (EU) 2022/720, EuGH C-230/16 Coty (selektiver Vertrieb Plattformverbot). Pruefraster: BGH-Klauselverbote, MFN-Zulassigkeit nach Coty II, kartellrechtliche Compliance. Output AGB-Review mit Aenderungsvorschlaegen oder Haendlervertrags-Entwurf. Abgrenzung: Kartellrecht Preisbindung siehe vertikale-preisbindung-vbe-vo; Selektiv-Vertrieb allgemein siehe selektiver-vertrieb-coty."
 ---
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb
@@ -121,3 +121,19 @@ Nach Abmahnung wegen Plattformverkauf unterzeichnet Händler Unterlassungserklä
 - **Individuelle Absprachen:** Jede individuelle Händlerverhandlung, die von den AGB abweicht, muss schriftlich festgehalten werden (§ 305b BGB)
 - **MFN-Monitoring:** Bundeskartellamt überwacht MFN-Klauseln aktiv; Rechtsabteilung muss informiert bleiben
 - **Automatische Verlängerung:** Bei Jahresumsätzen < EUR 200.000 des Händlers: Verlängerungsklausel mit max. 1 Jahr; darüber: 3 Jahre mit 6-monatiger Kündigung
+
+## Triage-Fragen vor AGB-Vertragsgestaltung
+
+Bevor die Haendler-AGB finalisiert werden, klaere:
+1. Gibt es individuelle Haendlervertraege, die den AGB widersprechen (§ 305b BGB: Individualabrede geht vor)?
+2. Enthaelt die Plattformverbots-Klausel eine kartellrechtlich zulaessige Begruendung (Qualitaets-Schutz, kein pauschales Internetverbot)?
+3. Werden alle Marktanteile der Haendler geprueft — Freistellungsschwelle 30 % pro Haendler (Art. 2 Vertikal-GVO)?
+4. Ist die Vertragsstrafe-Kaskade verhaeltnismaessig (BGH-Pruefung § 343 BGB: Herabsetzung auf angemessenen Betrag)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 05.02.2020 — VIII ZR 95/18 (AGB-Klausel Vertragsstrafe):** Eine AGB-Vertragsstrafe fuer Lieferanten muss verhaeltnismaessig sein; bei automatischer Kumulierung von Einzelstrafen ohne Obergrenze liegt eine unangemessene Benachteiligung i.S.v. § 307 BGB vor.
+
+> **EuGH, Urt. v. 06.12.2017 — C-230/16 (Coty Germany / Parfuemerie Akzente):** Ein selektives Vertriebssystem fuer Luxuswaren ist kartellrechtlich zulaessig, wenn die qualitativen Selektionskriterien einheitlich, nichtdiskriminierend und verhältnismaessig angewendet werden; der Ausschluss von Drittmarktplattformen ist zulässig, wenn die Luxusnatur des Produkts dies erfordert.
+
+> **BGH, Urt. v. 12.12.2018 — KZR 3/17 (Asics Laufschuhe):** Das generelle Verbot des Verkaufs ueber Preissuchmaschinen ist eine kartellrechtswidrige Hardcore-Beschraenkung, wenn es Haendlern jede selbstaendige Preisgestaltung im Internet unmoeglich macht; dagegen ist das qualitative Verbot bestimmter Plattformen (zB Auktionsportale) zulässig.

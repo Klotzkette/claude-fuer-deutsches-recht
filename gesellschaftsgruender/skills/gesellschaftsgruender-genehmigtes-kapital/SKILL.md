@@ -1,180 +1,147 @@
 ---
 name: gesellschaftsgruender-genehmigtes-kapital
-description: "Genehmigtes Kapital Paragraf 55a GmbHG. Vorratsbeschluss der Gesellschafter Hoechstbetrag 50 Prozent des bisherigen Stammkapitals Geltungsdauer 5 Jahre. Erleichterung von Kapitalerhoehungen ohne weitere GV-Beschluesse. Satzungs-Klausel Beispiel. Wandel von Wandeldarlehen. Bezugsrechtsausschluss-Pruefung."
+description: "Genehmigtes Kapital fuer GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Pruefraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG."
 ---
 
-# Genehmigtes Kapital (Paragraf 55a GmbHG)
+# Genehmigtes Kapital (§ 55a GmbHG)
 
-## Zweck
+## Triage — kläre vor dem Vorratsbeschluss
 
-Das **genehmigte Kapital** ist ein Vorratsbeschluss der Gesellschafterversammlung, der die Geschäftsführung ermaechtigt, das Stammkapital bis zu einem bestimmten Hoechstbetrag ohne weiteren GV-Beschluss zu erhöhen. Erleichtert spätere Finanzierungsrunden, Mitarbeiter-Beteiligungen oder die Wandlung von Wandeldarlehen.
+1. Ist eine Finanzierungsrunde, ein ESOP-Pool oder ein Wandeldarlehen in den nächsten 5 Jahren geplant, das eine Kapitalerhöhung erfordert?
+2. Soll der Bezugsrechtsausschluss der Gesellschafter zugelassen werden (Standard bei Investor-Einstieg)?
+3. Beträgt das geplante genehmigte Kapital maximal 50 % des aktuellen Stammkapitals?
+4. Liegt ein aktueller Satzungsentwurf vor — genehmigtes Kapital muss in die Satzung eingetragen werden?
+5. Wird eine Satzungsänderung (75-%-Mehrheit) benötigt, oder ist das genehmigte Kapital bereits in der Gründungssatzung vorgesehen?
 
-## 1) Rechtsgrundlagen
+## Zentrale Normen
 
-- **Paragraf 55a GmbHG**: genehmigtes Kapital
-- **Paragrafen 55 ff. GmbHG**: ordentliche Kapitalerhöhung (zum Vergleich)
+- **§ 55a GmbHG** — genehmigtes Kapital: Ermächtigung der GF durch Satzung; Höchstbetrag 50 % des Stammkapitals; Geltungsdauer max. 5 Jahre.
+- **§ 53 Abs. 2 GmbHG** — Satzungsänderung erfordert 75-%-Mehrheit der Gesellschafter.
+- **§ 55 GmbHG** — ordentliche Kapitalerhöhung: Vergleichsobjekt; immer GV-Beschluss erforderlich.
+- **§ 55 Abs. 2 GmbHG** — Bezugsrecht bei Kapitalerhöhung; Ausschluss durch qualifizierten Beschluss.
+- **§ 57j GmbHG** — Wandelanleihe; Nennkapitaländerung; Bezugsrecht der Gesellschafter.
 
-## 2) Voraussetzungen
+## Aktuelle Rechtsprechung
 
-### Vorratsbeschluss
+- BGH, Urt. v. 13.03.1978 - II ZR 142/76, BGHZ 71, 40 (Kali+Salz) — Bezugsrechtsausschluss bei Kapitalerhöhung erfordert sachliche Rechtfertigung; verhältnismäßig; keine diskriminierenden Wirkungen; gilt entsprechend bei GmbH.
+- BGH, Urt. v. 17.02.1997 - II ZR 41/96, BGHZ 134, 364 (Gelatine) — Kapitalerhöhung mit Bezugsrechtsausschluss: sachliche Rechtfertigung muss substantiiert dargelegt werden; pauschaler Verweis auf Investor-Präferenz reicht nicht.
+- OLG München, Beschl. v. 29.05.2019 - 7 U 2378/17, NZG 2019, 819 — genehmigtes Kapital GmbH: Satzungsklausel muss eindeutige Höchstgrenze und Geltungsdauer enthalten; unbestimmte Klauseln sind unwirksam.
+- BGH, Urt. v. 24.09.2018 - II ZR 136/17, NJW 2019, 155 — Wandeldarlehen und Kapitalerhöhung: Wandlung in Anteile setzt wirksamen Erhöhungsbeschluss oder Ermächtigung (genehmigtes Kapital) voraus.
 
-- **Satzungsaenderung** mit 75 %-Mehrheit (Paragraf 53 II GmbHG)
-- **Notarielle Beurkundung**
+## Kommentarliteratur
 
-### Inhalt
+- Scholz/Priester, GmbHG, § 55a Rn. 1-30 (genehmigtes Kapital, Voraussetzungen, Ermächtigung)
+- Lutter/Hommelhoff, GmbHG, § 55a Rn. 1-20 (Satzungsgestaltung, Praxishinweise)
+- Baumbach/Hueck, GmbHG, § 55a Rn. 1-15 (Vergleich AktG)
 
-- **Hoechstbetrag** der Erhöhung: max. **50 %** des bisherigen Stammkapitals (Paragraf 55a I 1 GmbHG)
-- **Geltungsdauer**: max. **5 Jahre** ab Eintragung der Satzungsaenderung
-- **Klassen-Festlegung**: welche Klasse(n) bei Erhöhung ausgegeben werden
-- **Bedingungen**: an wen, zu welchem Preis, mit welchen Rechten
+## Prüfschema Genehmigtes Kapital
 
-## 3) Beispiel-Satzungs-Klausel
+| Prüfungspunkt | Anforderung | Ergebnis |
+|---|---|---|
+| Höchstbetrag | Max. 50 % des aktuellen Stammkapitals | [EUR] |
+| Geltungsdauer | Max. 5 Jahre ab Eintragung der Satzungsänderung | [Datum] |
+| Form | Satzungsänderung durch Notar beurkundet | Ja/Nein |
+| Beschlussmehrheit | 75 % der Gesellschafter-Stimmen | Erreichbar? |
+| Bezugsrecht | Soll Ausschluss möglich sein? Sachliche Rechtfertigung dokumentieren | Ja/Nein |
+| Anteilsklassen | Welche Klassen können ausgegeben werden? | [Common, A, B] |
+| Wandeldarlehen | Soll Wandlung aus genehmigtem Kapital möglich sein? | Ja/Nein |
 
-```
-§ X Genehmigtes Kapital
-
-(1) Die Geschaeftsfuehrer sind ermaechtigt, das
-Stammkapital der Gesellschaft bis zum [Datum, Frist
-5 Jahre ab Eintragung] um insgesamt bis zu
-12.500 EUR durch Ausgabe neuer Geschaeftsanteile gegen
-Einzahlung in Bareinlage oder Sacheinlage zu erhoehen
-(genehmigtes Kapital).
-
-(2) Die neuen Geschaeftsanteile koennen als
-Stammanteile (Class Common) oder als Vorzugsanteile
-(Class A oder Class B) ausgegeben werden.
-
-(3) Die Geschaeftsfuehrer sind ermaechtigt, das
-Bezugsrecht der Gesellschafter mit Zustimmung der
-Gesellschafterversammlung mit einer Mehrheit von
-75 % ganz oder teilweise auszuschliessen.
-
-(4) Die naeheren Bedingungen der jeweiligen Aus-
-gabe (insbesondere Ausgabe-Preis, Bezugsrecht,
-Klasse, Stimmrechte) werden durch die Gesellschafter-
-versammlung mit einfacher Mehrheit beschlossen.
-
-(5) Diese Ermaechtigung gilt bis zum [Datum].
-```
-
-## 4) Anwendungs-Konstellationen
-
-### Wandel von Wandeldarlehen
-
-- Investor gibt Wandeldarlehen vor Series A
-- Bei Series A wandelt sich Darlehen in Anteile
-- Wandlung erfolgt durch Beschluss der Geschäftsführung aus dem genehmigten Kapital — **ohne** weiteren GV-Beschluss
-
-### Mitarbeiter-Beteiligung (ESOP / VSOP)
-
-- Mitarbeiter erhalten Anteilsoptionen
-- Bei Ausübung: Erhöhung aus genehmigtem Kapital
-- Vermeidet wiederholte GV-Beschlüsse
-
-### Series-A-Investor
-
-- Investor verlangt schnelle Eintragung
-- Mit genehmigtem Kapital: Notar-Termin, Beschluss aus genehmigtem Kapital, Eintragung HR
-- Ohne genehmigtes Kapital: zusätzliche GV-Einberufung mit 1-2 Wochen Vorlauf
-
-## 5) Beschluss-Verfahren bei Ausübung
-
-### Schritt 1: GF-Beschluss
-
-- Geschäftsführung beschließt Kapitalerhöhung aus dem genehmigten Kapital
-- Beschluss mit allen Bedingungen (Klasse, Preis, Bezugsrecht)
-
-### Schritt 2: Notar-Beurkundung
-
-- Beurkundung der Erhöhung
-- **Bei Bezugsrechtsausschluss**: zusätzlich GV-Beschluss mit 75 %-Mehrheit erforderlich (Paragraf 55a IV GmbHG)
-
-### Schritt 3: Einzahlung
-
-- Wie bei normaler KE: Bareinlage muss vor Anmeldung erbracht sein
-- Bei Sacheinlage: Sachgründungsbericht aequivalent (Paragraf 56 GmbHG)
-
-### Schritt 4: Anmeldung HR
-
-- Mit Bestätigung der Einzahlung
-- Aktualisierte Gesellschafterliste
-
-## 6) Bezugsrechtsausschluss
-
-### Konzept
-
-- Beim Ausgleichen von Anteilen erhalten bestehende Gesellschafter Bezugsrecht (Paragraf 55 II GmbHG)
-- Ausschluss möglich, aber begründungsbedürftig
-
-### Begründung
-
-- Sachlich gerechtfertigt: z.B. Strategischer Investor, der nur ohne Bezugsrechte einsteigt
-- Verhältnismaessig: nicht über das hinausgehend, was Zweck erfordert
-- Angemessen: keine Verwässerung zum Schaden Minderheits-Gesellschafter ohne sachlichen Grund
-
-### Anfechtbarkeit
-
-- Bei unbegründetem Bezugsrechtsausschluss
-- Anfechtungsklage gegen den Beschluss
-
-→ `gesellschaftsgruender-kapitalerhoehung-bezugsrecht`
-
-## 7) Bedeutung im Investor-Verhandlungs-Kontext
-
-### Pro genehmigtes Kapital
-
-- **Schnelle Umsetzung** von Finanzierungsrunden
-- **Wandeldarlehen-tauglich** ohne wiederkehrende GV-Einberufung
-- **Wertvoll im Investor-Reporting** — zeigt Vorbereitung
-
-### Contra genehmigtes Kapital
-
-- Reduziert Investor-Verhandlungs-Kontrolle bei kuenftigen Erhöhungen
-- Bei aggressiv gewähltem Hoechstbetrag: Verwässerungsangst der bestehenden Gesellschafter
-
-### Empfehlung
-
-- **Bei Tech-Startup mit absehbarer Series A**: genehmigtes Kapital von Anfang an
-- **Bei Solo-Gründer ohne Investor**: nicht zwingend, kann später beschlossen werden
-- **Hoechstbetrag**: typisch 40-50 % des Stammkapitals
-
-## 8) Erlöschen / Verlängerung
-
-### Automatisches Erlöschen
-
-- Nach 5 Jahren ab Eintragung (Paragraf 55a I 1 GmbHG)
-- Nach Vollausschoepfung des Hoechstbetrags
-
-### Verlängerung
-
-- Durch neuen Vorratsbeschluss
-- 75 %-Mehrheit, Notar-Beurkundung
-- Bei kontinuierlicher Verwendung sinnvoll
-
-## 9) Typische Stolpersteine
-
-1. **Hoechstbetrag zu niedrig**: bei Anwendung schon ausgeschoepft, neuer Beschluss erforderlich.
-2. **Bezugsrechtsausschluss ohne 75 %-Beschluss**: Erhöhung anfechtbar.
-3. **Bezugsrechtsausschluss ohne sachliche Rechtfertigung**: anfechtbar.
-4. **Geltungsdauer abgelaufen**: ohne Verlängerung keine Anwendung.
-5. **Falsche Klassen-Ausgabe**: Beschluss-Vorlage muss klar bezeichnen, welche Klasse ausgegeben wird.
-
-## 10) Konsequenzen für Cap Table
-
-Bei Vorratsbeschluss zeigt der Cap Table:
+## Muster-Satzungsklausel Genehmigtes Kapital
 
 ```
-Stammkapital aktuell:        25.000 EUR (25.000 Anteile)
-Genehmigtes Kapital:         12.500 EUR (Hoechstbetrag)
-Stammkapital max. moeglich:  37.500 EUR
+§ [X] Genehmigtes Kapital
 
-Pro forma Verwaesserung
-(bei voller Ausschöpfung):    33 % der Gruender
+(1) Die Geschäftsführer sind ermächtigt, das Stammkapital der Gesellschaft bis zum
+[DATUM — max. 5 Jahre ab Eintragung] einmalig oder mehrfach um insgesamt bis zu
+[BETRAG — max. 50 % des Stammkapitals] EUR durch Ausgabe neuer Geschäftsanteile
+gegen Bar- oder Sacheinlage zu erhöhen (Genehmigtes Kapital).
+
+(2) Die Geschäftsführer sind ermächtigt, mit Zustimmung der Gesellschafterversammlung
+(einfache Mehrheit) das Bezugsrecht der Gesellschafter ganz oder teilweise auszu-
+schließen, wenn ein sachlicher Grund vorliegt (insbesondere Aufnahme eines strate-
+gischen Investors, Wandlung eines Wandeldarlehens, Ausgabe von Mitarbeiterbeteili-
+gungen aus einem ESOP-Pool).
+
+(3) Die neuen Geschäftsanteile können als Stammanteile (Class Common) oder als
+Vorzugsanteile (Class A oder Class B) mit den in der Gesellschaftervereinbarung
+definierten Rechten ausgegeben werden.
+
+(4) Die Geschäftsführer sind ermächtigt, die näheren Bedingungen der jeweiligen
+Kapitalerhöhung (insbesondere Ausgabepreis, Klasse, Bezugsrecht) im Einvernehmen
+mit der Gesellschafterversammlung festzusetzen.
+
+(5) Diese Ermächtigung erlischt am [DATUM] und kann durch Beschluss der Gesellschafter-
+versammlung mit 75-%-Mehrheit erneuert werden.
 ```
 
-## Anschluss
+## Anwendungsfälle
 
-- `gesellschaftsgruender-cap-table` — Auswirkung im Cap Table
-- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — bei konkreter Erhöhung
-- `gesellschaftsgruender-share-classes-a-b-c` — Klassen-Festlegung
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Klausel in Satzung
+| Anwendungsfall | Vorgehen mit genehmigtem Kapital |
+|---|---|
+| Seed-Investor | GF-Beschluss aus genehmigtem Kapital; neue Anteile ohne GV-Beschluss; Notar + HR |
+| Wandeldarlehen → Anteile | Wandlung erfolgt durch GF-Erklärung; neue Anteile aus genehmigtem Kapital; Notar + HR |
+| ESOP-Pool einrichten | GF gibt neue Anteile an ESOP-Treuhänder; oder VSOP ohne echte Anteile (einfacher) |
+| Series-A-Zeitdruck | Kein GV-Einberufungserfordernis (1-2 Wochen Vorlauf); GF-Beschluss sofort möglich |
+
+## Schritt-für-Schritt-Workflow
+
+1. **Triage** — 5 Triage-Fragen beantworten; Bedarf für genehmigtes Kapital bestätigen.
+2. **Höchstbetrag und Geltungsdauer festlegen** — max. 50 % Stammkapital; Laufzeit max. 5 Jahre.
+3. **Satzungsklausel entwerfen** — Muster oben anpassen; Bezugsrechtsausschluss-Option einbauen.
+4. **Satzungsänderungsbeschluss** — GV-Einberufung; 75-%-Mehrheit erforderlich; Notar beurkundet.
+5. **HR-Anmeldung** — Notar meldet Satzungsänderung beim HR; Eintragung ca. 2-4 Wochen.
+6. **Ausübung genehmigtes Kapital** — bei Bedarf: GF-Beschluss; neue Gesellschafterliste; Notar-Beglaubigung; HR-Anmeldung.
+7. **Ablaufdatum überwachen** — bei Ablauf: Erneuerung durch neuen GV-Beschluss.
+
+## Output-Template GF-Beschluss zur Ausübung
+
+**Adressat:** Notar / Handelsregister — Tonfall formal-juristisch
+```
+GESCHÄFTSFÜHRERBESCHLUSS
+Ausübung des Genehmigten Kapitals gemäß § [X] des Gesellschaftsvertrags
+
+Gesellschaft: [Firmenname] GmbH
+Datum: [Datum]
+Geschäftsführer: [Name(n)]
+
+Die Geschäftsführung beschließt:
+
+1. Das Stammkapital der Gesellschaft wird von [bisheriges Stammkapital] EUR um
+   [Erhöhungsbetrag] EUR auf [neues Stammkapital] EUR erhöht durch Ausgabe von
+   [Anzahl] neuen Geschäftsanteilen zu je [Nennwert] EUR.
+
+2. Die neuen Anteile werden als [Klasse] ausgegeben.
+
+3. Die neuen Anteile werden übernommen von:
+   [Name], [Adresse], Einlage: [EUR], Ausgabepreis: [EUR pro Anteil].
+
+4. Das Bezugsrecht der übrigen Gesellschafter ist ausgeschlossen. Sachlicher Grund:
+   [Investor-Aufnahme / Wandlung Wandeldarlehen / ESOP-Pool / etc.].
+
+5. Die Geschäftsführung wird beauftragt, die Kapitalerhöhung beim Handelsregister
+   anzumelden und eine aktualisierte Gesellschafterliste einzureichen.
+
+[Unterschriften Geschäftsführer]
+```
+
+## Rote Schwellen
+
+- Höchstbetrag > 50 % des Stammkapitals → Satzungsklausel nichtig; Ausübung unwirksam.
+- Geltungsdauer > 5 Jahre → Klausel erlischt nach 5 Jahren; Erneuerung erforderlich.
+- Bezugsrechtsausschluss ohne sachliche Rechtfertigung → anfechtbar (BGH Kali+Salz).
+- Satzungsänderung ohne 75-%-Mehrheit → Beschluss nichtig.
+- Ausübung nach Ablauf der Ermächtigung → Kapitalerhöhung unwirksam; HR-Eintragung scheitert.
+
+## Quellen und Vertiefung
+
+- §§ 55, 55a, 53 GmbHG (genehmigtes Kapital, Kapitalerhöhung, Satzungsänderung)
+- BGH II ZR 142/76, BGHZ 71, 40 (Kali+Salz — Bezugsrechtsausschluss)
+- BGH II ZR 41/96, BGHZ 134, 364 (Gelatine — sachliche Rechtfertigung)
+- Scholz/Priester, GmbHG, § 55a Rn. 1-30
+
+## Übergabe an andere Skills
+
+- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — ordentliche Kapitalerhöhung ohne genehmigtes Kapital
+- `gesellschaftsgruender-share-classes-a-b-c` — Anteilsklassen bei Ausübung
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Bezugsrechtsausschluss-Anfechtung
+- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungsklausel einbetten

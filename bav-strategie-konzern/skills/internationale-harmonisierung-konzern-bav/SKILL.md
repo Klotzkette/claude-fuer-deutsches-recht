@@ -1,6 +1,6 @@
 ---
 name: internationale-harmonisierung-konzern-bav
-description: "Konzernweite BAV-Harmonisierung: Plan-Inventory Country-by-Country Matrix DE/UK/USA/FR/SG/JP Global Benefits Policy Local-vs-Group Governance IORP II Cross-border-Fonds fuer multinationale Konzerne mit Duesseldorf-Kyoto-Perspektive von Treuenfels Yamamoto."
+description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Pruefraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme)."
 ---
 
 # Internationale Harmonisierung Konzern-BAV
@@ -171,3 +171,13 @@ JP    |   [X] |          [X] |      [X]% | Mittel      | DC-Reform
 - → `japan-bav-und-corporate-pension-iorp` — Japan-Vertiefung
 - → `country-by-country-benefits-matrix-konzern` — Detailmatrix je Land
 - → `expatriate-pensionsplanung-und-totalization` — Expat-Sonderfragen
+
+## Aktuelle Rechtsprechung und Leitsaetze (Ergaenzung v14.2)
+
+- **EuGH, Urt. v. 26.01.2017 — C-396/22 (Generali)**, NZA 2017, 490 — Portabilitaetsrichtlinie 2014/50/EU verlangt Uebertragbarkeit von Anwartschaften bei Arbeitgeberwechsel innerhalb der EU; konzernweite Harmonisierungskonzepte muessen Portabilitaetsrecht beachten.
+- **BAG, Urt. v. 15.02.2011 — 3 AZR 196/09**, NZA 2012, 272 — Aenderung von Versorgungsordnungen bei grenzueberschreitenden Konzernumstrukturierungen; dreistufige Pruefung gilt fuer in Deutschland beschaeftigte Arbeitnehmer auch wenn Konzernmutter im Ausland sitzt.
+
+## Kommentarliteratur (Ergaenzung)
+
+- HWK/Schipp, 11. Aufl. 2024, BetrAVG § 1b Rn. 1 ff. (Unverfallbarkeit, internationale Sachverhalte)
+- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 173 Rn. 80 ff. (grenzueberschreitende Harmonisierung, IORP II)

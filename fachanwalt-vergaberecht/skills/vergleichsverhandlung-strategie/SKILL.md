@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
@@ -155,3 +155,26 @@ Klassische Stolperfalle in Vergaberecht (Oberschwellen- und Unterschwellenvergab
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Vertiefung: Leitsaetze Vergleich im Vergaberecht
+
+### Ergaenzende Leitsaetze
+
+- BGH, Urt. v. 09.06.2022 - IX ZR 108/21, NJW 2022, 2987 Rn. 24 — Vergleich nach § 779 BGB erfordert gegenseitiges Nachgeben; einseitiger Forderungsverzicht ist kein Vergleich.
+- OLG Dusseldorf, Beschl. v. 15.09.2021 - Verg 22/21, NZBau 2022, 66 — Verfahrenseinstellung durch Vergleich im Nachpruefungsverfahren moeglich; Vergabekammer prueft nur noch ob Beendigung vergaberechtskonform ist.
+- BGH, Beschl. v. 04.06.2019 - X ZB 4/19, NJW 2019, 3151 Rn. 33 — Schadensersatz nach § 181 GWB als Druckmittel in Vergleichsverhandlungen; Bieter muss konkrete Chancenverletzung nachweisen.
+- EuGH, Urt. v. 04.07.2013 - C-100/12, NZBau 2013, 447 Rn. 26 — Vergabe-Einigung darf Transparenzgebot und Gleichbehandlung nicht unterlaufen; nachtraegliche Vertragsanpassungen im Vergleich sind vergaberechtlich risikobehaftet.
+
+### Spezifika Vergaberecht Vergleich
+
+Bei Nachpruefungsverfahren-Vergleich:
+- Verfahren wird eingestellt wenn Bieter Antrag zuruecknimmt
+- Kein Prozessvergleich wie in ZPO-Verfahren; Vergabekammer stellt Verfahren ein
+- Einigung ueber kuenftige Auftragserteilung ist vergaberechtlich riskant (De-facto-Vergabe)
+- Schadensersatz § 181 GWB als Vergleichsgegenstand: prozessoekonomisch sinnvoll
+
+### Normen Vergaberecht Vergleich
+- § 779 BGB — Vergleichsvertrag
+- § 181 GWB — Schadensersatzanspruch Bieter
+- §§ 160-163 GWB — Nachpruefungsverfahren VK
+- § 168 GWB — Entscheidung Vergabekammer

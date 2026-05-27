@@ -1,6 +1,6 @@
 ---
 name: anwendungsfall-triage
-description: "Prüft einen neuen Verarbeitungsvorgang datenschutzrechtlich und klassifiziert ihn als FREIGABE, DSA ERFORDERLICH, DSFA PFLICHT oder STOPP — mit Rechtsgrundlagenprüfung, Datenschutzrichtlinien-Abgleich und Weiterleitung an den nächsten Schritt. Lädt, wenn der Nutzer eine neue Verarbeitung, ein Produktfeature oder eine Auftragsverarbeitung beschreibt und fragt, ob eine Datenschutz-Folgenabschätzung nötig ist."
+description: "Datenschutzrechtlichen Sachverhalt einordnen und Bearbeitungsroute bestimmen. Art. 2 3 DSGVO Anwendungsbereich § 1 BDSG. Pruefraster: Anwendungsbereich personenbezogene Daten Verantwortlicher Auftragsverarbeiter Drittland. Output: Triage-Memo Bearbeitungsroute Normenmap. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Datenschutz-Triage neuer Verarbeitungsvorgänge
@@ -204,3 +204,32 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen der DSK-Blacklist/Whitelist 
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — vollständige DSFA bei positiver Triage
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Drittlandbezug in der Triage
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` — bei Auftragsverarbeitung als Verarbeitungsbestandteil
+
+## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+
+- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Gemeinsame Verantwortlichkeit nach Art. 26 DSGVO liegt vor, wenn Plattformbetreiber und Webseitenbetreiber (über Social Plugins) gemeinsam über Zwecke und Mittel der Verarbeitung entscheiden; Triage: Einstufung als Art. 26 oder Art. 28 DSGVO ist Vorfrage jeder Verarbeitungsanalyse.
+- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: Zur Rechtsgrundlage für die Verarbeitung von Beschäftigtendaten; § 26 BDSG als lex specialis gegenüber Art. 6 Abs. 1 lit. b DSGVO — Triage muss bei Beschäftigungsdaten immer § 26 BDSG prüfen.
+
+## Output-Template — Triage-Ergebnis
+
+**Adressat:** Datenschutzbeauftragter / Prozessverantwortlicher — Tonfall: sachlich-strukturiert
+
+```
+Datenschutz-Triage-Ergebnis [DATUM]
+Verarbeitungsvorgang: [BEZEICHNUNG]
+Beschreibung: [KURZBESCHREIBUNG]
+
+Einstufung: FREIGABE / DSA ERFORDERLICH / DSFA PFLICHT / STOPP
+
+Rechtsgrundlage: Art. [X] DSGVO [§ BDSG optional]
+Verantwortlichkeit: Art. 24 (allein) / Art. 26 (gemeinsam) / Art. 28 (Auftragsverarbeitung)
+Drittlandbezug: ja (→ Drittlandprüfung) / nein
+DSFA-Pflicht: ja (Grund: [...]) / nein (Begründung: [...])
+
+Naechste Schritte:
+1. [AKTION]
+2. [AKTION]
+
+Frist: [DATUM]
+Verantwortlich: [PERSON / ROLLE]
+```

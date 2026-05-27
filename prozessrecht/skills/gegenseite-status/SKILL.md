@@ -1,6 +1,6 @@
 ---
 name: gegenseite-status
-description: "Erstellt wöchentliche Statusanfrage-E-Mail-Entwürfe an externe Bevollmächtigte (Sozietät/Korrespondenzanwalt) für alle aktiven Prozessmandate im Portfolio — Markdown-Entwurf je Mandat, optional Outlook-Entwurf bei verfügbarer MCP-Integration. Lädt, wenn der Nutzer Statusanfragen an externe Bevollmächtigte erstellen, wöchentliche Rückfragen bei der Außensozietät generieren oder mandatsbezogene Anfragen-E-Mails aus dem Portfolio-Protokoll heraus entwerfen möchte."
+description: "Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: §§ 78 85 ZPO. Pruefraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz, Sicherheitsleistung. Output: Statusbericht Gegenseite. Abgrenzung: nicht Streitwert oder Anspruchstabelle."
 ---
 
 # Statusabfrage Externe Bevollmächtigte

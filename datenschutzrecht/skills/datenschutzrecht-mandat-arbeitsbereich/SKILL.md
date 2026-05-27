@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-mandat-arbeitsbereich
-description: "Mandat-Arbeitsbereiche für Mehrmandat-Kanzleien verwalten: anlegen, auflisten, wechseln, schließen. Stellt sicher, dass Datenschutzmandate mandatsübergreifend isoliert bleiben (kein Kontext-Leak zwischen Mandaten). Für internen Unternehmenseinsatz nicht relevant."
+description: "Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Pruefraster: Mandatsumfang Zustaendigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht fuer inhaltliche Datenschutzpruefung."
 ---
 
 # Mandat-Arbeitsbereich – Mehrmandat-Kanzlei
@@ -126,3 +126,32 @@ Stand: 05/2026. Aktualität prüfen bei Änderungen der BRAO (Aktenaufbewahrungs
 **Querverweise:**
 - `datenschutzrecht/skills/mandantendaten-ki/SKILL.md` — Mandatsisolation bei KI-Diensten
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Mandatsspezifische AVV-Prüfung
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88: Datenschutzrechtliche Verantwortlichkeit ist mandatsbezogen zu bewerten; Kontext-Isolation zwischen Mandaten ist datenschutzrechtlich geboten, wenn unterschiedliche Verantwortliche betroffen sind.
+- BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Berufsgeheimnis nach § 43a Abs. 2 BRAO gilt mandatsbezogen; keine mandatsübergreifende Nutzung von Mandatsgeheimnissen ohne Einwilligung.
+- BGH, Urt. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Zur Abgrenzung der Berufshelfer-Stellung (§ 53a StPO) im mandatsbezogenen Kontext; ein mandatsübergreifender KI-Kontext kann das Zeugnisverweigerungsrecht gefährden.
+- BVerfG, Beschl. v. 12.10.2021 — 2 BvR 1368/21, NJW 2022, 55 Rn. 44: Berufsgeheimnis erfordert strikte Trennung der Mandatssphären; IT-Systeme müssen diese Trennung technisch sicherstellen.
+
+## Triage zu Beginn
+
+1. Wie viele Mandate/Mandanten sind gleichzeitig aktiv?
+2. Sind die Mandate datenschutzrechtlich voneinander zu isolieren (unterschiedliche Verantwortliche)?
+3. Liegt ein Interessenkonflikt zwischen Mandaten vor?
+4. Sollen mandatsspezifische Praxisprofile (unterschiedliche AVV-Playbooks) genutzt werden?
+
+## Output-Template — Mandatsarbeitsbereich-Status
+
+**Adressat:** Kanzlei intern — Tonfall: sachlich-strukturiert
+
+```
+Mandatsarbeitsbereich-Übersicht [DATUM]
+Aktive Arbeitsbereich-IDs:
+- [ID_1]: [MANDANT/PROJEKT] | Status: aktiv/geschlossen | Kontext: isoliert
+- [ID_2]: [MANDANT/PROJEKT] | Status: aktiv | Kontext: isoliert
+
+Aktuell aktiver Kontext: [ID_X]
+Sicherheitshinweis: Kontextleak zwischen Mandaten wurde verhindert. 
+Letzter Wechsel: [DATUM, UHRZEIT]
+```

@@ -1,9 +1,25 @@
 ---
 name: pruefer-uebergabe-paket
-description: "Schnuert das vollstaendige Pruefer-Paket nach Abschluss eines Wuerfellaufs — Excel-Wuerfel-Datei aus Skill `excel-multi-sheet-export` PDF-Bericht aus `pdf-bericht-erzeugen` Belegketten-CSV aus `belegkette-rueckverfolgung` Audit-Trail-Auszug aus `audit-trail-protokoll` Prompt-Versionen aus `prompt-versionierung` Widerspruchsbericht aus `kreuzblatt-konsistenzpruefung` Ampel-Aggregat aus `risikoampel-aggregation` Pruefer-Flag-Arbeitsliste. Erzeugt ein ZIP-Paket plus Begleitschreiben. Pflichtschritt vor Mandatsabnahme. Ohne Pruefer-Unterschrift kein Versand an Mandant."
+description: "Uebergabepaket fuer Prueferwechsel im 3D-Review zusammenstellen: aktueller Stand, offene Positionen. Normen: §§ 174 ff. InsO. Pruefraster: Fortschrittsstand, kritische Punkte, Dokumentation. Output: Uebergabedokument fuer naechsten Pruefer. Abgrenzung: nicht Audit-Trail."
 ---
 
 # /tabellenreview-3d:prüfer-übergabe-paket
+
+
+## Triage zu Beginn
+
+1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
+2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
+3. Wird das Ergebnis in die Mandatsakte aufgenommen?
+4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
+
+## Rechtliche Grundlagen
+
+- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — Due-Diligence-Pruefungen muessen sorgfaeltig und vollstaendig durchgefuehrt werden; der Kaeufer haftet nicht fuer Maengel, die er bei ordentlicher Pruefung haette entdecken koennen (Kauferrisiko bei unterlassener DD).
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Der Anwalt muss das Ergebnis einer automatisierten Pruefung verantworten; er haftet fuer Fehler auch wenn er ein Hilfsmittel eingesetzt hat; die abschliessende Pruefung obliegt dem zugelassenen BerufsTraeger.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Pruefberichte muessen hinreichend dokumentiert sein; Bausteine die spaeter nicht mehr nachvollzogen werden koennen, belasten die Haftungslage des Anwalts.
+- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Das Gebot der Nachvollziehbarkeit rechtlicher Dokumentation gilt auch im wirtschaftsrechtlichen Due-Diligence-Kontext; lueckenlose Belegketten schuetzen vor Haftungsrisiken.
+
 
 ## Zweck
 

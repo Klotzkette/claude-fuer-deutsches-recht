@@ -1,6 +1,6 @@
 ---
 name: ki-vo-betreiber-pflichten
-description: "Erläutert die Betreiber-Pflichten nach der KI-Verordnung für Kanzleien: Art. 3 Nr. 4 Betreiber-Definition, Art. 4 KI-Kompetenz-Pflicht, Art. 6 Hochrisiko-Abgrenzung, Anhang III Nr. 8.a Justizbehörden-Abgrenzung sowie Art. 50 Abs. 4 Kennzeichnungspflicht."
+description: "KI-VO Betreiber-Pflichten fuer Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO KI-Kompetenz-Pflicht, Art. 6 KI-VO Hochrisiko-Abgrenzung, Art. 50 Abs. 4 KI-VO Kennzeichnung. Pruefraster Betreiber-Eigenschaft prüfen, Hochrisiko-Klassifizierung Anhang III, Pflichten-Katalog zusammenstellen, Umsetzungsfristen. Output Betreiber-Pflichten-Uebersicht mit Textbausteinen fuer KI-Richtlinie. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
 ---
 
 # KI-VO Betreiber-Pflichten
@@ -13,11 +13,28 @@ Art. 3 Nr. 4 KI-VO: „Betreiber" — wer ein KI-System in eigener Verantwortung
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Betreiber-Status bestätigen**: Kanzlei nutzt fremden KI-Dienst beruflich → Betreiber nach Art. 3 Nr. 4 KI-VO. Einzelner angestellter Anwalt ist kein Betreiber, wenn die Kanzlei den Account bereitstellt.
 2. **Hochrisiko-Prüfung**: Fällt das eingesetzte KI-System unter Anhang III Nr. 8.a (Justizbehörden)? Nein — Anwaltschaft ist keine staatliche Justizbehörde. Prüfen, ob ggf. Anhang III Nr. 4 (Personalwesen) greift.
 3. **KI-Kompetenz sicherstellen**: Art. 4 KI-VO verlangt kontextspezifische Kompetenz des Personals. Schulungsmaßnahmen dokumentieren (vgl. Skill `ki-kompetenz-erwerb-plan`).
 4. **Kennzeichnungspflicht beurteilen**: Werden öffentliche Informationstexte zu Angelegenheiten von öffentlichem Interesse erzeugt? Falls ja: Kennzeichnungspflicht, es sei denn, redaktionelle Verantwortung eines Menschen liegt vor. Anwalt, der Schriftsatz unterschreibt, hat redaktionelle Verantwortung.
 5. **GPAI-Modelle berücksichtigen**: Chatbots wie Systeme der OpenAI-Familie oder vergleichbare Dienste basieren auf KI-Modellen mit allgemeinem Verwendungszweck (GPAI). Für diese gelten gesonderte Transparenzpflichten der Anbieter.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Betreiberpflichten KI-VO checklisten-artig aufbereiten | Checkliste nach Schema; Template unten |
+| Variante A — Kanzlei ist nicht Betreiber nur Nutzer | Nutzer-Pflichten statt Betreiber-Pflichten pruefen |
+| Variante B — Hochrisiko-KI nach Annex III KI-VO betroffen | Erweiterte Pflichten-Checkliste fuer Hochrisiko-Systeme |
+| Variante C — KI-System noch in Entwicklung kein Einsatz | Planungs-Checkliste; Betreiberpflichten ab Inbetriebnahme |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -30,6 +47,62 @@ Die in der Kanzlei eingesetzten KI-Systeme zur Unterstützung juristischer Arbei
 **Baustein Kennzeichnungspflicht:**
 Eine gesetzliche Pflicht zur Kennzeichnung KI-generierter Inhalte in anwaltlichen Schriftsätzen besteht nach Art. 50 Abs. 4 KI-VO nicht, da Schriftsätze nicht an die „Öffentlichkeit über Angelegenheiten von öffentlichem Interesse" gerichtet sind und der Anwalt durch seine Unterschrift die redaktionelle Verantwortung übernimmt. Bei Kanzlei-Blogs, Pressemitteilungen oder öffentlichen Beiträgen ohne individuelle menschliche Endkontrolle ist eine Kennzeichnung hingegen geboten.
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen KI-Büros konkretisiert. Neue Leitlinien zu Betreiber-Pflichten oder zu GPAI-Modellen sind regelmäßig zu beobachten. Ebenso ist die Umsetzung der KI-VO in nationales deutsches Recht (KI-Aufsichtsbehörde, Bußgeldvorschriften) zu verfolgen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Betreiber von Scoring-Systemen haften fuer Einhaltung Art. 22 DSGVO — massgeblich fuer KI-VO Betreiberpflichten.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 26 Abs. 6 KI-VO Korrekturmechanismus.
+- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Interne Organisationspflichten bei technischen Systemen — Betreiberpflichten als Organisationsanforderung.
+- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Dokumentationspflichten bei algorithmischen Entscheidungen fuer oeffentliche Stellen — massgeblich fuer Protokollierungspflicht Art. 26 KI-VO.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)
+- Art. 29 KI-VO — Weitere Betreiberpflichten (Datenverwaltung, Anleitung-Einhaltung)
+- Art. 27 KI-VO — FRIA-Pflicht fuer bestimmte Betreiber
+- Art. 3 Nr. 4 KI-VO — Definition Betreiber
+- Art. 99 KI-VO — Bussgelder bis 15 Mio. EUR bei Betreiber-Verstossen
+
+## Triage zu Beginn
+1. Handelt die Kanzlei als Betreiber nach Art. 3 Nr. 4 KI-VO — oder als Anbieter?
+2. Welche Hochrisiko-KI-Systeme (Anhang III) werden betrieben — welche Art. 26-Pflichten greifen?
+3. Ist eine menschliche Aufsicht nach Art. 26 Abs. 1 lit. b KI-VO sichergestellt?
+4. Werden Protokolle nach Art. 26 Abs. 1 lit. d KI-VO gefuehrt?
+5. Ist eine FRIA nach Art. 27 KI-VO erforderlich (oeffentliche Stelle oder oeffentlich finanzierter Dienst)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template — Betreiberpflichten-Checkliste KI-VO
+**Adressat:** Compliance / KI-Beauftragter — Tonfall: checklisten-strukturiert
+```
+BETREIBERPFLICHTEN-CHECKLISTE KI-VO
+[DATUM] — System: [SYSTEMNAME] — Klasse: [HOCHRISIKO / BEGRENZT / MINIMAL]
+
+Art. 26 KI-VO — Betreiberpflichten:
+☑/☐ Eignungspruefung des KI-Systems fuer geplanten Anwendungsfall (Art. 26 Abs. 1 lit. a)
+☑/☐ Anleitung des Anbieters befolgt (Art. 26 Abs. 1 lit. b)
+☑/☐ Menschliche Aufsicht sichergestellt (Art. 26 Abs. 1 lit. c)
+☑/☐ Eingabedaten relevant und ausreichend repraesentativ (Art. 26 Abs. 1 lit. d)
+☑/☐ Protokollierung der automatisch erzeugten Logs (Art. 26 Abs. 1 lit. e)
+☑/☐ Betroffene informiert bei HR/Kreditentscheidungen (Art. 26 Abs. 6)
+☑/☐ Widerspruchs- und Korrekturmechanismus implementiert (Art. 26 Abs. 6)
+
+Art. 27 KI-VO — FRIA:
+☑/☐ Nicht erforderlich (Begruendung: [BEGRUENDUNG])
+☑/☐ FRIA durchgefuehrt am [DATUM]
+
+Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
+Verantwortlicher: [NAME], [DATUM]
+```

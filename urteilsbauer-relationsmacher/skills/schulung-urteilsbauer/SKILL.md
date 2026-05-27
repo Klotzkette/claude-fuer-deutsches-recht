@@ -1,11 +1,66 @@
 ---
 name: schulung-urteilsbauer
-description: "Trainerleitfaden fuer Schulungen zum Plugin urteilsbauer-relationsmacher. Lernziele Stundenplan eine Tagesschulung und zwei Tage Praktische Uebungen anhand der Schulungsakte. Adressaten Proberichter/-innen Assessoren/-innen Rechtspfleger/-innen."
+description: "Schulungs-Trainerleitfaden fuer Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag fuer Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Pruefraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Uebungen anhand Schulungsakte, Musterloesung. Output Seminarplan, Uebungsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Pruefungsvorbereitung siehe vollrelation-langfassung."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer
 
 Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
+
+
+## Triage zu Beginn (für Trainer)
+
+1. Wie groß ist die Gruppe und welche Vorkenntnisse haben die Teilnehmenden (Proberichter, Assessoren, Rechtspfleger)?
+2. Wird die Schulungsakte `testakten/solis-vision-x-smartglasses/` verwendet oder eine andere Testakte?
+3. Wird ein-tägig oder zwei-tägig geschult — welche Themenblöcke können gestrichen werden?
+4. Sollen DOCX-Rendern und PDF-Export live vorgeführt werden (technische Voraussetzungen prüfen)?
+
+## Aktuelle Rechtsprechung (für Schulungsunterlagen)
+
+- BGH, Urt. v. 04.07.2017 - XI ZR 562/15, NJW 2017, 2986 — Entscheidungsgründe müssen nachvollziehbar sein; pauschalisierende Formulierungen verletzen Begründungsgebot (→ für Schulungsblock "Entscheidungsgründe schreiben" verwenden).
+- BGH, Urt. v. 21.02.2017 - XI ZR 185/16, NJW 2017, 1823 — § 139 ZPO Hinweispflicht; Gericht darf Klage nicht ohne Vorankündigung abweisen (→ für Schulungsblock "Aktenintake und Hinweispflicht" verwenden).
+- BAG, Urt. v. 20.04.2023 - 6 AZR 265/22, NZA 2023, 1050 — Verständlichkeitsgebot in Urteilen; auch Arbeitsgerichte müssen Entscheidungen für Parteien nachvollziehbar begründen (→ für Verständlichkeitsdiskussion).
+- BVerfG, Beschl. v. 19.01.2021 - 1 BvR 2681/19, NJW 2021, 1431 — Art. 103 Abs. 1 GG: Gericht muss wesentliche Argumentation im Urteil berücksichtigen (→ für Schulungsblock "Verfassungsrechtliche Grundlagen").
+
+## Zentrale Normen (für Schulungsunterlagen)
+
+- § 139 ZPO — Hinweis- und Aufklärungspflicht
+- § 313 ZPO — Inhalt und Form des Urteils (Tatbestand + Entscheidungsgründe)
+- § 286 ZPO — Beweiswürdigung
+- § 358, 359 ZPO — Beweisbeschluss
+- § 38 FamFG — Beschluss (bei Familiensachen)
+- §§ 708, 709 ZPO — vorläufige Vollstreckbarkeit
+
+## Kommentarliteratur (für Literaturliste der Schulung)
+
+- Zöller, ZPO, 35. Aufl. 2024 (Standardkommentar für alle Schulungsblöcke)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024 (Kurzkommentar für schnelle Nachschläge)
+- Musielak/Voit, ZPO, 21. Aufl. 2024 (vertiefend)
+
+## Erweiterter Stundenplan Zweitagesschulung
+
+### Tag 1
+
+| Block | Dauer | Skills | Lernziel |
+|---|---|---|---|
+| Aktenintake | 90 Min | `aktenintake-zivil` | Akte strukturieren, Tabellen-Template ausfüllen |
+| Relation | 90 Min | `relation-zivil`, `vollrelation-langfassung` | Vollrelation vs. Kurzrelation |
+| Zulässigkeit + AG | 60 Min | `zulaessigkeit-pruefen`, `anspruchsgrundlagen-pruefen` | Prüfschema sicher anwenden |
+| International | 60 Min | `internationales-privatrecht`, `cisg-pruefen` | CISG-Anwendbarkeit, Knock-out |
+| Beweis | 60 Min | `beweisbeschluss-vorbereiten`, `beweiswuerdigung-mit-richter-input` | Beweiswürdigung schreiben |
+
+### Tag 2
+
+| Block | Dauer | Skills | Lernziel |
+|---|---|---|---|
+| Urteil schreiben | 90 Min | `tenor-bauen-zivil`, `tatbestand-zivil-schreiben`, `entscheidungsgruende-zivil-schreiben` | Vollständiges Urteil im Urteilsstil |
+| Nebenentscheidungen | 60 Min | `kostenentscheidung-bauen`, `vorlaeufige-vollstreckbarkeit`, `rechtsmittelbelehrung-zivil` | Tenor-Ziff. 2-4 korrekt |
+| Selbstkontrolle | 45 Min | `berufungsfest-pruefen`, `revisionsfest-pruefen` | Fehler selbst erkennen |
+| Render | 45 Min | `dokumente-rendern-urteil-docx` | DOCX live erstellen |
+
+## Hinweis zur Prüfungstäuschung
+
+Am Beginn jeder Schulung: **Ausgegebene Relationen und Urteilsentwürfe dürfen nicht in Klausuren des Vorbereitungsdienstes als eigene Arbeit eingereicht werden.** Eigenleistung der Teilnehmenden ist nicht verzichtbar.
 
 ## Lernziele
 

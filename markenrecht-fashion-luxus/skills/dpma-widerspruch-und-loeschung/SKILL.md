@@ -1,6 +1,6 @@
 ---
 name: dpma-widerspruch-und-loeschung
-description: "DPMA-Widerspruch §§ 42 ff. MarkenG, Loeschung wegen Verfalls § 49 MarkenG, Nichtigkeit § 50 MarkenG, Beschwerde zum BPatG § 66 MarkenG, Rechtsbeschwerde zum BGH. Laedt, wenn der Nutzer 'DPMA Widerspruch', 'Marke loeschen', 'Verfall Marke', 'BPatG Beschwerde' oder 'Nichtigkeitsantrag Marke' sagt."
+description: "DPMA-Widerspruch und Loeschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Loesung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nichtigkeit), § 66 MarkenG (BPatG-Beschwerde). Pruefraster: Widerspruchsgrund, Benutzungsnachweis, Verwechslungsgefahr-Pruefung, Frist 3 Monate ab Eintragung. Output Widerspruchsschrift oder Loeschungsantrag mit Begruendung. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; Verletzungsabmahnung siehe abmahnung-markenrecht-uwg."
 ---
 
 # DPMA-Widerspruch und Löschungsverfahren
@@ -127,3 +127,19 @@ Begründung folgt gesondert.
 - **Nichtbenutzungseinrede § 43:** Wenn klôtzzkètté selbst länger als 5 Jahre eine DPMA-Marke nicht benutzt, kann der Widerspruch scheitern — Benutzungsbelege sammeln
 - **Erinnerungsfrist § 64:** Nur 1 Monat ab Widerspruchsbeschluss — Fristverfolgung im Kanzlei-System
 - **Kostenentscheidung:** Im DPMA-Widerspruchsverfahren grundsätzlich keine Kostenerstattung (anders als vor Gericht) — jede Partei trägt eigene Kosten
+
+## Triage-Fragen vor DPMA-Widerspruch
+
+Bevor der Widerspruch eingelegt wird, klaere:
+1. Ist die Widerspruchsfrist (3 Monate ab Veroeffentlichung, § 42 I MarkenG) noch nicht abgelaufen?
+2. Wird eine eingetragene aeltere Marke als Widerspruchsmarke eingesetzt oder eine benutzungsgeschützte Marke (§ 4 Nr. 2 MarkenG)?
+3. Liegen alle Tatsachen fuer den Benutzungsnachweis der Widerspruchsmarke vor (falls die juengere Marke Benutzungseinrede erhebt, §§ 43/26 MarkenG)?
+4. Ist Loeschung statt Widerspruch sinnvoller (§§ 49/50/54 MarkenG — nach Ablauf der Widerspruchsfrist)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Beschl. v. 06.07.2006 — I ZB 13/04 (BOSS-Club):** Im Widerspruchsverfahren bestimmt sich die Verwechslungsgefahr nach Identitaet oder Aehnlichkeit der Waren/Dienstleistungen, Aehnlichkeit der Zeichen und Kennzeichnungskraft der aelteren Marke; eine bekannte Marke geniesst erhoehten Schutz auch bei verringerter Warenaehnlichkeit.
+
+> **BGH, Beschl. v. 29.07.2021 — I ZB 14/20 (MICRO COTTON):** Fuer den Benutzungsnachweis nach § 26 MarkenG genuegt keine symbolische Benutzung; ernsthafte wirtschaftliche Verwendung im relevanten Klassen-Segment ist nachzuweisen, wobei der Widerspruchsinhaber die Darlegungslast traegt.
+
+> **EuGH, Urt. v. 10.06.2010 — C-487/07 (L'Oreal / Bellure):** Benutzung einer bekannten Marke ohne sachlichen Grund, die die Unterscheidungskraft oder den Ruf der aelteren Marke beeintraechtige, ist nach Art. 9 I lit. c UMV unzulaessig, auch wenn keine Verwechslungsgefahr besteht.

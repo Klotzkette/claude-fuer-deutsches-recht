@@ -1,6 +1,6 @@
 ---
 name: geheimcode-katalog
-description: "Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Sortiert nach Themen: Leistung, Verhalten, Engagement, Belastbarkeit, Teamarbeit, Führung und Schlussformel."
+description: "Zentraler Referenzkatalog aller Standardformulierungen im deutschen Arbeitszeugnis mit Ampelzuordnung. Anwendungsfall Anwalt oder Arbeitnehmer will eine Zeugnisformulierung einordnen und weiss nicht ob sie positiv neutral oder negativ kodiert ist. Normen § 109 GewO Wahrheits- und Wohlwollenspflicht BAG-Rechtsprechung Zeugnissprache. Themen Leistung Verhalten Engagement Belastbarkeit Teamarbeit Fuehrung Schlussformel. Output Ampeltabelle mit Notentendenzen Erlaeuterungen und Alternativformulierungen fuer Berichtigungsverlangen. Abgrenzung zu rote-flaggen-katalog orange-flaggen-katalog und gruen-flaggen-katalog (spezialisierte Teilkataloge)."
 ---
 
 # Geheimcode-Katalog der Zeugnissprache
@@ -64,3 +64,18 @@ Die hier gelisteten Formulierungen sind nach Themenfeldern geordnet. Die Ampelfa
 ## Ausgabeformat
 
 Der Skill liefert bei Eingabe eines Zeugnis-Auszugs eine vollständige Tabelle aller erkannten Formulierungen mit Ampelfarbe und Notentendenz. Er kann auch im Nachschlagemodus betrieben werden: Eingabe einer konkreten Formulierung → Ausgabe der Ampelzuordnung.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Wohlwollensgebot; auch wahre kodierte Aussagen sind berichtigungspflichtig, wenn sie Fortkommen unnötig erschweren
+- **§ 109 Abs. 2 GewO** — Klarheitspflicht; versteckter Code, der nur Eingeweihten verständlich ist, verletzt Transparenzanforderung
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot verpflichtet Arbeitgeber zu förderlicher Formulierung; Geheimcodeformulierungen, die trotz wahrer Aussage das Fortkommen erschweren, sind berichtigungspflichtig.
+- **BAG, Urt. v. 21.06.2005 — 9 AZR 352/04**, NZA 2006, 104 — Berichtigungsanspruch bei Formulierungen, die für einschlägige Fachkreise (Personalleiter) eine negative Botschaft tragen, für den Arbeitnehmer selbst aber unklar sind; Schutz des Arbeitnehmers hat Vorrang.
+- **LAG Hamm, Urt. v. 15.06.2010 — 14 Sa 1727/09** — Expliziter Ehrlichkeitshinweis in einem Zeugnis ohne Vertrauensstellung ist ein unzulässiges Negativ-Signal; der Arbeitnehmer kann Streichung verlangen ohne die Wahrheit zu bestreiten.
+
+## Kommentarliteratur
+
+- ErfK/Müller-Glöge, 25. Aufl. 2025, § 109 GewO Rn. 20 ff. (Codierungsproblematik, Wohlwollensverstoß durch Geheimcode)

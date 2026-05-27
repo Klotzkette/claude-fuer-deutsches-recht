@@ -1,161 +1,311 @@
 ---
 name: urheber-abmahnung-pruefen
-description: Strukturierte Pruefung urheberrechtlicher Abmahnungen nach § 97a UrhG. Pruefraster Werkqualitaet (kleine Muenze Lichtbild Sprachwerk Lichtbildwerk § 2 UrhG) Aktivlegitimation (Urheber Inhaber ausschliesslicher Lizenz Verwertungsgesellschaft) Verletzungshandlung (Vervielfaeltigung Verbreitung oeffentliche Zugaenglichmachung § 19a UrhG) Schadensberechnung Lizenzanalogie Schadenersatz konkret entgangener Gewinn Beauskunftung Folgenbeseitigung. Pruefung der formellen Anforderungen an Abmahnung § 97a Abs. 2 UrhG Kostendeckelung § 97a Abs. 3 UrhG Verbraucher. Erstreckt auf presserechtliche und persoenlichkeitsrechtliche Aspekte.
+description: "Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie pruefen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Pruefraster: Schutzfaehigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnpruefmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht fuer Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung)."
 ---
 
 # Urheber-Abmahnung prüfen
 
-## Zweck
+## Kernsachverhalt & Mandantenfragen
 
-Prüft eine erhaltene Abmahnung nach UrhG — typischer Fall: Filesharing Foto-Nutzung Logo-Nutzung Internet-Verstoß. Auf Mandantenseite Patentlich (Verteidiger) oder als Anspruchsteller (Urheber).
+Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empfänger – unbedachte Anerkenntnis, vorbehaltlose Unterlassungserklärung, überhöhter Streitwert – kosten oft mehr als eine sofortige anwaltliche Reaktion. Gleichzeitig ist die Abmahnung für den Abmahner das strategische Instrument, um Wiederholungsgefahr zu dokumentieren und einen Vollstreckungstitel zu schaffen.
 
-## Eingaben
+**8 Kaltstart-Rückfragen:**
 
-- Abmahnschreiben mit Unterlassungserklärungs-Entwurf
-- Behauptete Verletzungshandlung mit Datum URL Screenshot
-- Identifikation des angeblichen Werks
-- Mandanten-Vortrag zur Sache
-- Nachweise Rechtsinhaberschaft (bei Anspruchstellermandat)
-- IP-Adressen-Auskunfts-Beschluss (bei Filesharing)
+1. Was ist der genaue Vorwurf? Welches Werk soll verletzt worden sein (Foto, Text, Musik, Software)? Wie lautet die Verletzungshandlung?
+2. Wann wurde die Abmahnung erhalten und welche Frist zur Unterlassungserklärung ist gesetzt?
+3. Ist der Mandant Verbraucher oder Unternehmer? Bei Verbraucher-Abmahnung: § 97a Abs. 3 UrhG (Streitwertbegrenzung EUR 1.000) prüfen.
+4. Welche Beweise legt der Abmahner für die Rechtsverletzung vor (Screenshot, Logfile, IP-Adressen-Auskunft)?
+5. Hat der Mandant die Verletzungshandlung begangen oder könnte ein Dritter (Familie, Untermieter, Gäste im WLAN) verantwortlich sein?
+6. Wurde bereits eine Reaktion abgegeben oder etwas anerkannt, das Ansprüche auslösen könnte?
+7. Hat der Abmahner die Aktivlegitimation belegt (Lizenzkette, Originalurheber, VG-Auftrag)?
+8. Liegt eine „massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
 
-## Schritt 1 — Werk-Qualität § 2 UrhG
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-### Werktypen
+## Rechtsgrundlagen
 
-- Sprachwerk § 2 Abs. 1 Nr. 1 (Texte Software über Werkschwelle)
-- Musikwerk § 2 Abs. 1 Nr. 2
-- Pantomimisches Werk
-- Werk der bildenden Kunst Lichtbildwerk § 2 Abs. 1 Nr. 4 5
-- Filmwerk
-- Darstellung wissenschaftlicher Art
-
-### Schöpfungshöhe
-
-- Persönliche geistige Schöpfung § 2 Abs. 2 UrhG
-- Mindestmaß an Individualität
-- "Kleine Münze" — selbst geringe Individualität reicht (BGH I ZR 137/85)
-- Foto: Lichtbild § 72 UrhG geringere Schutzdauer (fünfzig Jahre) oder Lichtbildwerk
-- Software: § 69a UrhG eigene Regelung — niedrige Schwelle (eigene geistige Schöpfung)
-
-## Schritt 2 — Aktivlegitimation
-
-- **Urheber** § 7 UrhG natürliche Person der Schöpfung
-- **Miturheber** § 8 UrhG gemeinschaftlich
-- **Verwerter** ausschließliche Lizenz § 31 UrhG
-- **Verwertungsgesellschaften** GEMA VG WORT VG Bild-Kunst (Aktivlegitimation in Wahrnehmungsbereich)
-- **Erwerb von Tochtergesellschaft** Lizenzkette nachweisen
-
-**Prüfung:** Belegt der Abmahnende die Aktivlegitimation? Urheberrechts-Vermerk allein reicht nicht.
-
-## Schritt 3 — Verletzungshandlung § 15 16 17 19a UrhG
-
-- **Vervielfältigung** § 16 (Download Kopie Aufnahme)
-- **Verbreitung** § 17 (Inverkehrbringen körperlicher Werkstücke)
-- **Öffentliche Zugänglichmachung** § 19a (Hochladen ins Internet)
-- **Senderecht** § 20
-
-**Bei Filesharing** Tatbestand öffentliche Zugänglichmachung — § 19a UrhG durch Bereitstellung im P2P-Netzwerk.
-
-## Schritt 4 — Passivlegitimation
-
-- **Täterschaftliche Verletzung**
-- **Störerhaftung** (Anschlussinhaber-Haftung — eng nach BGH I ZR 121/08 Sommer unseres Lebens)
-- **Sekundäre Darlegungslast Anschlussinhaber** (BGH I ZR 75/14 Tauschbörse III Urt. v. 11.06.2015): Anschlussinhaber muss vortragen wer Anschluss nutzte
-- **Eltern-Haftung minderjähriger Kinder** Belehrung nötig (BGH I ZR 74/12 Morpheus)
-- **WLAN-Anschluss Hotel-Betreiber-Privilegierung** Art. 4 DSA (VO (EU) 2022/2065) i.V.m. § 7 DDG (seit 14.05.2024 abgelöst § 8 Abs. 3 TMG durch Digitale-Dienste-Gesetz BGBl 2024 I Nr. 149) — § 8 DDG regelt nur noch Sperransprüche/Kostentragung, nicht die Access-Provider-Privilegierung
-
-## Schritt 5 — Schranken und Erlaubnistatbestände
-
-- Zitatrecht § 51 UrhG (mit Beleg- und Erkennbarkeits-Pflicht)
-- Privatkopie § 53 UrhG (nicht aus rechtswidriger Quelle)
-- Vorübergehende Vervielfältigung § 44a UrhG (Browser-Cache)
-- Berichterstattung über Tagesereignisse § 50 UrhG
-- Karikatur Parodie Pastiche § 51a UrhG seit 2021
-- Bilder-Suchmaschinen — BGH I ZR 69/08 Vorschaubilder
-- Panoramafreiheit § 59 UrhG
-
-## Schritt 6 — Schadensberechnung
-
-### Lizenzanalogie
-
-- Üblicher Lizenzbetrag wie bei rechtmäßigem Erwerb
-- Mit Verletzeraufschlag (typisch hundert Prozent — bestritten)
-- Bei Foto MFM-Tarif (häufig zu hoch — BGH I ZR 187/12 Restwert 60 Prozent für gängiges Foto)
-- Bei GEMA-Werk GEMA-Tarif
-
-### Konkreter Schaden
-
-- Entgangener Gewinn
-- Schadensersatz statt der Leistung
-- **Wahlrecht** § 97 Abs. 2 UrhG Lizenzanalogie oder konkreter Schaden oder Verletzergewinn
-
-### Schadensbemessung Filesharing
-
-- Pro Titel typisch zwischen EUR 200 und EUR 2500 — BGH I ZR 7/14 Tauschbörse III stützt EUR 200 pro Werk
-- Bei aktuellem Werk und großer Verbreitung deutlich höher
-
-## Schritt 7 — Formelle Abmahnungs-Pflicht § 97a UrhG
-
-### § 97a Abs. 2 UrhG Inhalt
-
-- Name oder Firma des Verletzten
-- Genaue Bezeichnung Rechtsverletzung
-- Geltendmachung der Ansprüche
-- Falls Anwalt: Vollmacht
-
-Bei Fehler unbegründete Abmahnung — Gegenanspruch § 97a Abs. 4 UrhG.
-
-### § 97a Abs. 3 UrhG Kostendeckelung Verbraucher
-
-- Streitwert für Anwaltskosten der Unterlassung gegenüber Verbraucher max. EUR 1000
-- Ausnahme bei gewerblichem Handeln des Verbrauchers
-
-## Schritt 8 — Unterlassungserklärung
-
-- Strafbewehrt erforderlich (Hamburger Brauch oder feste Vertragsstrafe)
-- **Modifizieren** auf erforderlichen Umfang
-- Anerkenntnis ohne Verzicht auf Verteidigungsrechte vermeiden
-- "Ohne Anerkennung einer Rechtspflicht" als Formel
-
-## Schritt 9 — Reaktionsstrategie
-
-| Konstellation | Empfehlung |
+| Norm | Inhalt |
 |---|---|
-| Verletzung klar Werkqualität klar | Modifizierte Unterlassungserklärung Vergleichsangebot |
-| Verletzung bestritten | Vollständige Zurückweisung — Vorsicht: Folge-Klage |
-| Werkqualität zweifelhaft | Werkqualität bestreiten Sachverständigen-Vorbereitung |
-| Aktivlegitimation unklar | Auskunfts-Verlangen Lizenzkette |
-| Anschlussinhaber-Haftung Filesharing | Sekundäre Darlegungslast bedienen |
-| Schadenshöhe überzogen | Reduktionsangebot mit Begründung |
-| Abmahnung gegen Verbraucher | § 97a Abs. 3 UrhG Streitwert |
+| § 2 UrhG | Werkarten und Schöpfungshöhe; persönliche geistige Schöpfung |
+| § 2 Abs. 2 UrhG | Werkdefinition: Individualität als Mindestschwelle |
+| § 7 UrhG | Urheber: stets natürliche Person der Schöpfung |
+| § 15 UrhG | Ausschließliche Verwertungsrechte: Übersicht |
+| § 16 UrhG | Vervielfältigungsrecht |
+| § 17 UrhG | Verbreitungsrecht |
+| § 19a UrhG | Recht der öffentlichen Zugänglichmachung (Internet, Filesharing) |
+| § 31 UrhG | Nutzungsrechte; ausschließliche Lizenz = Aktivlegitimation |
+| § 51 UrhG | Zitatrecht; Voraussetzungen: Beleg, Erkennbarkeit |
+| § 51a UrhG | Karikatur, Parodie, Pastiche (seit 2021) |
+| § 53 UrhG | Privatkopie; nicht aus rechtswidriger Quelle |
+| § 59 UrhG | Panoramafreiheit |
+| § 69a UrhG | Software-Schutz; niedrige Schöpfungsschwelle |
+| § 72 UrhG | Lichtbilder (einfache Fotos): 50 Jahre Schutzfrist |
+| § 97 Abs. 1 UrhG | Unterlassungsanspruch |
+| § 97 Abs. 2 UrhG | Schadensersatz: drei Berechnungsalternativen |
+| § 97a UrhG | Abmahnung: Form, Inhalt, Kostendeckelung |
+| § 97a Abs. 3 UrhG | Streitwertbegrenzung EUR 1.000 bei Verbraucher-Abmahnung |
+| § 97a Abs. 4 UrhG | Kostenerstattung bei unberechtigter Abmahnung |
+| § 101 UrhG | Auskunftsanspruch gegen Verletzer und Dritte |
+| § 102 UrhG | Verjährung: 3 Jahre / 10 Jahre Restschadensersatz |
 
-## Schritt 10 — Verjährung
+---
 
-- **Drei Jahre** § 195 BGB ab Kenntnis von der Verletzung und der Person
-- **Bei rechtsgrundloser Bereicherung** zehn Jahre § 102 UrhG Restschadenersatz
+## Leitentscheidungen
 
-## Presserechtliche und persönlichkeitsrechtliche Aspekte
+| Aktenzeichen | Gericht / Datum | Leitsatz |
+|---|---|---|
+| BGH I ZR 137/85 | BGH, 10.10.1991 | Kleine Münze: Selbst geringe Individualität begründet Urheberrechtschutz; keine überhöhte Kreativitätsschwelle |
+| BGH I ZR 69/08 | BGH, 29.04.2010 | Vorschaubilder: Bildersuchmaschinen-Thumbnails; Einwilligung durch öffentliche Bereitstellung |
+| BGH I ZR 121/08 | BGH, 12.05.2010 | Sommer unseres Lebens: WLAN-Störerhaftung eingeschränkt; offenes WLAN begründet keine Täterhaftung des Betreibers |
+| BGH I ZR 74/12 | BGH, 15.11.2012 | Morpheus: Elternhaftung bei Filesharing minderjähriger Kinder nur bei Pflichtverletzung (fehlende Belehrung) |
+| BGH I ZR 75/14 | BGH, 11.06.2015 | Tauschbörse III: Sekundäre Darlegungslast des Anschlussinhabers; muss zumutbar Alternativtäter benennen |
+| BGH I ZR 187/12 | BGH, 13.09.2018 | Lizenzbetrag für einfaches Foto: MFM-Tarife sind Ausgangspunkt, aber Gesamtumstände entscheidend; übertrieben hohe Forderungen werden reduziert |
 
-- §§ 22 23 KUG Recht am eigenen Bild
-- Gegendarstellungs-Anspruch nach Landespressegesetz
-- Unterlassung ehrverletzender Behauptungen §§ 823 1004 BGB iVm GG Art. 1 Art. 2
-- BGH VI. Zivilsenat zu Caroline-Rechtsprechung
+---
 
-## Ausgabe
+## Prüfschema Urheber-Abmahnung
 
-- `urheber-abmahnung-analyse.md`
-- Tabelle pro Vorwurf mit Bewertung
-- Modifizierte Unterlassungserklärung (Entwurf wenn empfohlen)
-- Antwortschreiben an Abmahnenden
-- Frist im Fristenbuch (zumeist gesetzte Frist plus Verjährung)
-- Bei Mandatsannahme Anspruchsteller: Klage- Mahnbescheidsvorbereitung
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Werkqualität: Werkart prüfen (§ 2 UrhG); persönliche geistige Schöpfung vorhanden? Kleine Münze ausreichend | § 2 UrhG |
+| 2 | Aktivlegitimation: Ist Abmahner Urheber, Inhaber ausschließlicher Lizenz oder VG-Wahrnehmungsberechtigter? Lizenzkette dokumentiert? | §§ 7, 31 UrhG |
+| 3 | Verletzungshandlung: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Zeitpunkt und Umfang der Handlung? | §§ 16, 17, 19a UrhG |
+| 4 | Passivlegitimation: Hat Mandant die Handlung begangen? Sekundäre Darlegungslast bei Filesharing (BGH I ZR 75/14) | § 97 Abs. 1 UrhG |
+| 5 | Schranken prüfen: Zitatrecht § 51, Parodie § 51a, Privatkopie § 53, Panoramafreiheit § 59? | §§ 51, 51a, 53, 59 UrhG |
+| 6 | Formelle Abmahnprüfung: § 97a Abs. 2 UrhG – Werk benannt, Verletzung konkret, Frist gesetzt, Vollmacht vorgelegt? | § 97a Abs. 2 UrhG |
+| 7 | Verbraucher-Abmahnung: § 97a Abs. 3 UrhG – Streitwert begrenzt auf EUR 1.000 bei einfach gelagerter Verletzung | § 97a Abs. 3 UrhG |
+| 8 | Schadenshöhe prüfen: Lizenzanalogie (MFM-Tarife, GEMA-Tarife); Berechtigung des Verletzeraufschlags; BGH I ZR 187/12 | § 97 Abs. 2 UrhG |
+| 9 | Unterlassungserklärung prüfen: Ist die vorformulierte Erklärung zu weit gefasst? Modifizierung nötig? | § 97a UrhG |
+| 10 | Verjährung prüfen: 3 Jahre ab Kenntnis (§ 102 UrhG i.V.m. § 195 BGB); Restschadensersatz 10 Jahre | § 102 UrhG |
+| 11 | Strategie festlegen: modifizierte UE, Zurückweisung, Vergleich, negative Feststellungsklage | § 256 ZPO |
+| 12 | Unberechtigte Abmahnung: Gegenanspruch § 97a Abs. 4 UrhG prüfen | § 97a Abs. 4 UrhG |
+
+---
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Abmahnung Urheberrecht pruefen und reagieren | Gegendarstellung / UE; Template unten |
+| Variante A — Abmahnung berechtigt | Modifizierte UE mit Kostenvorbehalt; Vergleich anstreben |
+| Variante B — Abmahnung unberechtigte Schutzrechtsverwarnung | Schadensersatz gegen Abmahner pruefen § 97a Abs. 4 UrhG |
+| Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1 – Modifizierte Unterlassungserklärung (Hamburger Brauch)
+
+```
+[Name des Mandanten, Anschrift]
+
+An [Abmahnkanzlei]
+Aktenzeichen Abmahner: [...]
+
+Modifizierte strafbewehrte Unterlassungserklärung
+(ohne Anerkennung einer Rechtspflicht)
+
+Hiermit verpflichtet sich [Name des Mandanten],
+
+es unter Vermeidung einer für jeden Fall der schuldhaften
+Zuwiderhandlung zu zahlenden Vertragsstrafe, deren Höhe
+von der Gläubigerseite nach billigem Ermessen (§ 315 BGB)
+zu bestimmen und im Streitfall durch das zuständige Gericht
+zu überprüfen ist,
+
+zu unterlassen,
+
+das Werk [genaue Bezeichnung: z.B. Lichtbild mit Beschreibung,
+Datum der Aufnahme / Erstveröffentlichung]
+
+ohne Einwilligung der Rechteinhaberin zu vervielfältigen
+(§ 16 UrhG) oder öffentlich zugänglich zu machen (§ 19a UrhG).
+
+Diese Erklärung:
+1. gilt ausschließlich für die benannte konkrete Verletzungsform
+   und kerngleiche Handlungen
+2. enthält kein Anerkenntnis bzgl. Schadensersatz, Auskunft
+   oder Kostenforderungen
+3. begrenzt die Kostenforderung auf § 97a Abs. 3 UrhG soweit
+   der Mandant als Verbraucher ohne gewerbliche Tätigkeit gehandelt hat
+
+[Datum]
+[Unterschrift Mandant]
+[Begleitschreiben: kein Anerkenntnis]
+```
+
+### Baustein 2 – Antwortschreiben: Zurückweisung mangels Aktivlegitimation
+
+```
+An [Abmahnkanzlei]
+Aktenzeichen: [...]
+
+Ihre Abmahnung vom [Datum]
+
+Sehr geehrte Damen und Herren,
+
+wir zeigen die anwaltliche Vertretung des/der [Mandant/in] an.
+
+Ihre Abmahnung wird aus folgenden Gründen zurückgewiesen:
+
+I. Fehlende Aktivlegitimation
+
+Sie haben bislang nicht belegt, dass Ihre Mandantschaft Inhaber
+ausschließlicher Nutzungsrechte an dem in Rede stehenden Werk ist.
+
+Insbesondere fehlt:
+– Nachweis der Urheberschaft (Name des Urhebers, Zeitpunkt der Schöpfung)
+– Lizenzkette (Übertragungsvertrag mit Nachweis der ausschließlichen Lizenz)
+– Bei VG: Wahrnehmungsvertrag für den in Frage stehenden Nutzungsbereich
+
+Wir fordern Sie auf, die Aktivlegitimation innerhalb von [7] Tagen vollständig zu belegen.
+
+II. Bestreiten der Verletzungshandlung
+
+[ggf.: Der Internet-Anschluss des Mandanten wurde zum behaupteten
+Zeitpunkt auch von [Dritten] genutzt. Sekundäre Darlegungslast
+gemäß BGH I ZR 75/14 wird hiermit erfüllt: Als alternative Täter
+kommen [Familienangehörige, Gäste] in Betracht.]
+
+III. Streitwertbegrenzung § 97a Abs. 3 UrhG
+
+Der Mandant ist Verbraucher. Die einfach gelagerte Verletzung
+außerhalb gewerblicher Tätigkeit begrenzt den Streitwert für die
+Berechnung der Abmahnkosten auf EUR 1.000 (§ 97a Abs. 3 UrhG).
+
+[Ort, Datum]
+[Unterschrift Kanzlei]
+```
+
+### Baustein 3 – Negative Feststellungsklage (bei unberechtigter Abmahnung)
+
+```
+AN DAS LANDGERICHT [...]
+
+Kläger: [Mandant, Anschrift]
+Beklagte: [Abmahner, Anschrift]
+
+Streitwert: [nach Abmahnforderung]
+
+KLAGEBEGRÜNDUNG – NEGATIVE FESTSTELLUNGSKLAGE
+
+Die Klage richtet sich gegen unberechtigte Inanspruchnahme
+durch die beklagte Partei.
+
+Es wird beantragt festzustellen, dass dem Beklagten gegenüber
+dem Kläger aus der Nutzung des Werks [Bezeichnung] keinerlei
+urheberrechtliche Ansprüche – insbesondere nicht auf Unterlassung,
+Schadensersatz oder Auskunft – zustehen.
+
+Begründung:
+[Werkqualität verneint: Das verwendete Bild/Text ist gemeinfrei
+/ unterschreitet die Schöpfungshöhe § 2 Abs. 2 UrhG / ist ein
+Lichtbild § 72 UrhG mit abgelaufener Schutzfrist]
+ODER
+[Aktivlegitimation fehlt: Beklagte hat Rechtekette nicht belegt]
+ODER
+[Erlaubnissachverhalt: Nutzung war durch § 51 UrhG Zitatrecht /
+§ 51a UrhG Parodie gerechtfertigt]
+
+[Ort, Datum, Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+---
+
+## Beweislast
+
+| Konstellation | Beweislast |
+|---|---|
+| Werkqualität | Abmahner trägt Schutzwürdigkeit; bei bekanntem Werktyp (Foto, Text) vermutet; bei sehr kurzem Text: bestreiten möglich |
+| Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig |
+| Verletzungshandlung (Filesharing) | Abmahner trägt IP-Adressen-Zuordnung und Zeitpunkt; Anschlussinhaber bedient sekundäre Darlegungslast |
+| Sekundäre Darlegungslast | Anschlussinhaber muss zumutbar nachforschen und alternative Täter benennen (BGH I ZR 75/14) |
+| Schranke (Zitatrecht, Parodie) | Nutzer/Beklagte trägt Voraussetzungen der Schranke |
+
+---
+
+## Fristen und Verjährung
+
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Gesetzte Frist (typisch 5–14 Tage) | Frist zur Abgabe der Unterlassungserklärung; bei Überschreitung droht einstweilige Verfügung | § 97a UrhG |
+| 3 Jahre | Regelverjährung Schadensersatz; ab Kenntnis von Verletzung und Person | § 102 UrhG, § 195 BGB |
+| 10 Jahre | Restschadensersatz ohne Kenntnis | § 102 UrhG |
+| Sofort | Negative Feststellungsklage: nach Erhalt der Abmahnung möglich; schafft günstigen Gerichtsstand | § 256 ZPO |
+
+---
+
+## Typische Gegenargumente
+
+| Gegenargument | Erwiderung |
+|---|---|
+| „Foto ist ohne Quelle verwendet und damit urheberrechtlich verletzt" | Werkqualität nach § 72 UrhG (Lichtbild) prüfen; Schöpfungshöhe für Lichtbildwerk höher; Quellenangabe allein heilt Verletzung nicht, zeigt aber fehlenden Vorsatz |
+| „Streitwert EUR 10.000 ist angemessen" | § 97a Abs. 3 UrhG: bei Verbraucher EUR 1.000 Limit; BGH I ZR 187/12: Schadenshöhe ist einzelfallbezogen |
+| „Vorformulierte Unterlassungserklärung muss so unterschrieben werden" | Nein; modifizierte Erklärung ist zulässig und beseitigt ebenfalls die Wiederholungsgefahr wenn Hamburger Brauch eingehalten |
+| „Anschlussinhaber haftet für Filesharing aus eigenem Anschluss" | BGH I ZR 75/14: sekundäre Darlegungslast; Anschlussinhaber muss alternative Täter nicht beweisen, aber benennen |
+| „Eltern haften für Kinder unbegrenzt" | BGH I ZR 74/12 Morpheus: Elternhaftung setzt Pflichtverletzung voraus; bei erteilter Belehrung und Verbotbeachtung keine Haftung |
+
+---
+
+## Streitwert / Kosten
+
+| Position | Berechnung |
+|---|---|
+| Abmahnkosten (Verbraucher, einfach gelagert) | § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 → ca. EUR 124 Anwaltsgebühr (VV-RVG 2300, 1,3) |
+| Abmahnkosten (Unternehmen, gewerblich) | Streitwert EUR 6.000–50.000 je nach Werk und Reichweite; EUR 500–2.000 Anwaltskosten |
+| Schadensersatz Foto (einfaches Lichtbild) | MFM-Tarife als Ausgangspunkt; BGH I ZR 187/12: Reduzierung möglich; typisch EUR 50–500 |
+| Verletzeraufschlag | Umstritten; BGH lässt bis 100 % zu; in der Praxis oft 50–100 % |
+| Unberechtigte Abmahnung | § 97a Abs. 4 UrhG: Kostenerstattung; Streitwert = Abmahnforderung |
+
+---
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Berechtigte Verletzung, Verbraucher | Modifizierte UE abgeben; Kosten auf § 97a Abs. 3 UrhG begrenzen; Schadensersatz verhandeln |
+| Filesharing, unklare Täterschaft | Sekundäre Darlegungslast bedienen; Alternativtäter benennen; keine UE-Abgabe ohne Prüfung |
+| Gewerbliche Bildnutzung ohne Lizenz | Unterlassungserklärung modifiziert; Lizenzanalogie verhandeln; keine Wildwest-Zahlung |
+| Seriell wirkende Massenabmahnung | § 97a Abs. 4 UrhG prüfen; Anzeige beim zuständigen Gericht; Schutzschrift |
+| Verjährung droht auszulaufen | Negative Feststellungsklage vor Ablauf der Verjährung des Abmahners |
+
+---
+
+## Anschluss-Skills
+
+- `fachanwalt-urheber-medienrecht-abmahnung-pruefen` – ergänzende Tiefenprüfung
+- `fachanwalt-urheber-medienrecht-mod-erklaerung` – modifizierte Unterlassungserklärung
+- `gegendarstellung-presse` – bei persönlichkeitsrechtlichen Aspekten
+- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` – bei KI-Training-Themen
+
+---
 
 ## Quellen
 
-- UrhG §§ 2 7 8 15 16 17 19a 31 51 51a 53 59 69a 72 97 97a 102
-- KUG §§ 22 23
-- DSA Art. 4 (VO (EU) 2022/2065) Access-Provider-Privilegierung
-- DDG §§ 7 8 (seit 14.05.2024 ersetzt TMG; § 8 = Sperranspruch)
-- BGH I. Zivilsenat VI. Zivilsenat
-- Schricker/Löwenheim UrhG
-- Dreier/Schulze UrhG
+UrhG §§ 2, 7, 15–17, 19a, 31, 51–53, 59, 69a, 72, 97, 97a, 101, 102. BGH I ZR 137/85 (kleine Münze). BGH I ZR 69/08 (Vorschaubilder). BGH I ZR 121/08 (WLAN Störerhaftung). BGH I ZR 74/12 (Morpheus). BGH I ZR 75/14 (Tauschbörse III). BGH I ZR 187/12 (Lizenzbetrag Foto). KUG §§ 22, 23. Dreier/Schulze UrhG, aktuelle Auflage. Schricker/Löwenheim UrhG. Stand: 05/2026.
+
+## Triage-Fragen bei Urheber-Abmahnungs-Pruefung
+
+Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
+1. Besteht Werkqualitaet (§ 2 II UrhG — persoenlich-geistige Schoepfung, Schoeupfungshoehe)?
+2. Ist der Abmahnende tatsaechlich der Rechteinhaber oder ein autorisierter Lizenznehmer (Aktivlegitimation)?
+3. Greift eine gesetzliche Schranke — Zitat, Parodie, Unterrichtsgebrauch, TDM?
+4. Wurde die Frist zur Reaktion auf die Abmahnung korrekt berechnet (regelmaeßig 7-14 Tage, Fristbeginn = Zugang)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 03.09.2014 — C-201/13 (Deckmyn):** Eine Parodie muss einerseits an ein bestehendes Werk erinnern, andererseits ihm gegenueber wahrnehmbare Unterschiede aufweisen und einen Ausdruck von Humor oder Verspottung darstellen; eine blosse Nachahmung ohne eigenen kuenstlerischen Beitrag ist keine Parodie. Die Schranke § 51a UrhG (Parodie, Karikatur, Pastiche) ist im Lichte dieser Leitentscheidung auszulegen.
+
+> **BGH, Urt. v. 29.04.2010 — I ZR 69/08 (Vorschaubilder I):** Wer ein urheberrechtlich geschuetztes Bild im Internet fuer Suchmaschinen zugaenglich macht, erklaert konkludent die Einwilligung in die technische Verarbeitung durch Suchmaschinen; diese Einwilligung gilt aber nicht fuer eine eigenhaendige Weiternutzung des Bildes durch Dritte.
+
+> **BGH, Urt. v. 17.12.2020 — I ZR 228/19 (Teppichboden):** Das Zitatrecht nach § 51 UrhG setzt voraus, dass das Zitat als Beleg oder zur Auseinandersetzung mit dem Original dient; ein dekoratives oder bloess ornamentales Zitat ohne inhaltlichen Zusammenhang faellt nicht unter § 51 UrhG.

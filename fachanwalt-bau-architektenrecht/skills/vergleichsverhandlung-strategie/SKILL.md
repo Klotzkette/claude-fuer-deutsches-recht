@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Privates Baurecht, Architekten- und Ingenieurrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Pruefraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten."
 ---
 
 # Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht
@@ -155,3 +155,54 @@ Klassische Stolperfalle in Privates Baurecht, Architekten- und Ingenieurrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Aktuelle Rechtsprechung Vergleichsverhandlung Baurecht
+
+- BGH, Urt. v. 16.12.2004 - VII ZR 257/03, BGHZ 161, 241 Rn. 17 — Ein Prozessvergleich nach § 794 Abs. 1 Nr. 1 ZPO ist nach allgemeinem Vertragsrecht zu beurteilen; er kann wegen arglistiger Täuschung nach § 123 BGB angefochten werden, was im Baurecht bei verschwiegenen Mängeln praxisrelevant ist.
+- BGH, Urt. v. 13.11.1997 - VII ZR 100/97, BGHZ 137, 153 Rn. 14 — Der Auftragnehmer kann im Vergleich auf Nacherfüllungsansprüche verzichten; der Verzicht muss aber klar und eindeutig formuliert sein; bloße Schweige-Abgeltungsklauseln wirken im Zweifel nur für bekannte Mängel.
+- BGH, Urt. v. 25.09.2008 - VII ZR 35/07, NJW 2009, 289 Rn. 22 — Eine im Vergleich aufgenommene Abgeltungsklausel für "alle Ansprüche aus dem Bauvorhaben" erfasst auch spätere Mangelfolgeschäden, sofern diese bei Vergleichsschluss vorhersehbar waren.
+
+## Paragrafenkette Vergleich Baurecht
+
+§ 779 BGB (Vergleichsvertrag) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 123 BGB (Anfechtung arglistige Täuschung) → §§ 631 641 BGB (Werkvertragliche Grundlagen) → § 650r BGB (Kündigungsrecht Architekt) → § 15 HOAI (Pauschalhonorar)
+
+## Kommentarliteratur
+
+- Werner/Pastor Der Bauprozess 16. Aufl., Kap. 11 Rn. 2800-2840 (Vergleich im Bauprozess)
+- Kniffka/Koeble Kompendium des Baurechts 5. Aufl., 1. Teil Rn. 200-230 (außergerichtliche Einigung)
+- BeckOK BGB/Schulte-Nölke § 779 Rn. 20-45 (Vergleichsvertrag Streitbeilegung)
+
+## Triage vor Vergleichsgespräch
+
+Kläre vor Beginn der Verhandlung:
+1. Wie ist die Beweislage? (Sachverständigengutachten vorhanden? Ergebnis günstig oder ungünstig?)
+2. Welcher Streitwert und welche Prozesskostenrisiken bestehen?
+3. Hat die Gegenseite Insolvenzrisiko? (Sofortige Zahlung im Vergleich vs. Titel der vollstreckbar werden muss)
+4. Sind Dritte beteiligt (Nachunternehmer, Versicherungen, Bürgschaftsgläubiger)?
+5. Sollen künftige Gewährleistungsansprüche ebenfalls abgegolten werden?
+
+## Output-Template Vergleichsentwurf Baurecht (Auszug)
+
+**Adressat:** Gegenseite/Gericht — Tonfall sachlich, verbindlich
+
+```
+Vergleichsvereinbarung
+
+zwischen [AUFTRAGGEBER] (nachfolgend "AG") und [AUFTRAGNEHMER] (nachfolgend "AN")
+betreffend das Bauvorhaben [BEZEICHNUNG], Baustelle [ADRESSE]
+
+§ 1 Streitbeilegung
+AN zahlt an AG einen Betrag von [BETRAG] EUR bis zum [DATUM] auf das Konto [IBAN].
+
+§ 2 Abgeltung
+Mit Zahlung nach § 1 sind alle wechselseitigen Ansprüche aus dem Bauvertrag vom [DATUM]
+betreffend folgende Mängel abgegolten: [KONKRETE BENENNUNG].
+Künftige, derzeit noch nicht erkennbare Folgeschäden an Gewerk [XY] sind ausdrücklich
+nicht von dieser Abgeltung erfasst.
+
+§ 3 Vollstreckbarkeit
+Dieser Vergleich wird als Anwaltsvergleich nach § 796a ZPO beurkundet.
+
+§ 4 Kosten
+Die Kosten des Verfahrens werden gegeneinander aufgehoben.
+```

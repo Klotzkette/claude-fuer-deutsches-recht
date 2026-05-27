@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: Klageentwurf zum Amtsgericht in Fluggastrechtsangelegenheiten. Sachliche Zustaendigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i. d. F. seit 01.01.2026). Oertlich wahlweise Abflughafen oder Zielflughafen nach EuGH C-204/08 (Rehder) oder Sitz / Niederlassung der Airline § 13 ZPO. Kein Anwaltszwang vor dem Amtsgericht. Erzeugt Klageschrift Sachverhalt Antrag Begruendung mit Pinpoint EuGH-Rspr. Anlagen Beweismittel Streitwert Kostenantrag.
+description: "Klageentwurf zum Amtsgericht in Fluggastrechtsangelegenheiten. Sachliche Zustaendigkeit § 23 Nr. 1 GVG bei Streitwert bis zehntausend Euro (i. d. F. seit 01.01.2026). Oertlich wahlweise Abflughafen oder Zielflughafen nach EuGH C-204/08 (Rehder) oder Sitz / Niederlassung der Airline § 13 ZPO. Kein Anwaltszwang vor dem Amtsgericht. Erzeugt Klageschrift Sachverhalt Antrag Begruendung mit Pinpoint EuGH-Rspr. Anlagen Beweismittel Streitwert Kostenantrag."
 ---
 
 # Klage zum Amtsgericht (Fluggastrechte)
@@ -247,3 +247,42 @@ beA-Konvention:
 
 - Vor Klage bei kleineren Anspruechen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich.
 - Bei Erfolg keine Verjährungshemmung allein durch SOEP-Verfahren — Verjährungsprüfung beachten (drei Jahre § 195 BGB).
+
+## Zentrale Anspruchsgrundlagen & Normen
+
+- Art. 7 VO (EG) Nr. 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanzklasse
+- Art. 5 Abs. 1 lit. c VO (EG) Nr. 261/2004 — Annullierung; Art. 6 VO — Verspaetung
+- Art. 5 Abs. 3 VO (EG) Nr. 261/2004 — Befreiung nur bei aussergewoehnlichen Umstaenden (Beweislast Airline)
+- § 23 Nr. 1 GVG (i.d.F. seit 01.01.2026) — sachliche Zustaendigkeit Amtsgericht bis 10.000 EUR
+- §§ 12, 13, 17 ZPO — oertliche Zustaendigkeit allgemein
+- § 253 ZPO — Klageerhebung Schriftform, Mindestinhalt Klageschrift
+- § 60 ZPO — Streitgenossenschaft mehrerer Passagiere
+- §§ 286, 288 BGB — Verzug und Verzugszinsen
+- § 195, § 199 Abs. 1 BGB — Verjährung drei Jahre
+
+## Aktuelle Rechtsprechung
+
+- EuGH, Urt. v. 09.07.2009 — C-204/08 (Rehder), NJW 2009, 2697 — oertliche Zustaendigkeit wahlweise am Abflug- oder Zielflughafen; Art. 33 Montrealuer Uebereinkommen gilt nicht fuer VO 261/2004
+- EuGH, Urt. v. 19.11.2009 — C-402/07 und C-432/07 (Sturgeon), NJW 2010, 43 — Verspaetung von drei Stunden oder mehr am Endziel begruendet Ausgleichsanspruch wie Annullierung; Gleichbehandlungsgebot
+- EuGH, Urt. v. 26.02.2013 — C-11/11 (Folkerts), NJW 2013, 1291 — bei Anschlussflug massgeblich ist Verspaetung am Endziel; auch wenn einzelne Teilstrecken puenktlich
+- EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — technische Maengel kein aussergewoehnlicher Umstand; Airline traegt vollstaendige Beweislast fuer alle zumutbaren Massnahmen
+- BGH, Urt. v. 21.08.2012 — X ZR 138/11, NJW 2012, 3372 — Verjährung richtet sich nach § 195 BGB drei Jahre; keine kuerzen Sonderfristen
+
+## Kommentarliteratur
+
+- Staudinger/Keiler, Fluggastrechteverordnung, 5. Aufl. 2023, Art. 7 Rn. 1 ff. (Ausgleichszahlung) und Art. 5 Rn. 80 ff. (aussergewoehnliche Umstaende)
+- Greger/Zwickel, Haftungsrecht des Strassenverkehrs, 6. Aufl. 2021 — Vergleich Beweislastverteilung Transportrecht
+- Zöller/Schultzky, ZPO, 35. Aufl. 2024, § 60 Rn. 8 (Streitgenossenschaft Klage mehrerer Passagiere)
+
+## Triage vor Klageerhebung
+
+1. Schlichtung versucht? → SOEP-Verfahren erst ausschoepfen (kostenfrei); danach Klage
+2. Verjährung geprueft? → drei Jahre ab Jahresende des Flugjahres (§ 195 i.V.m. § 199 BGB)
+3. Streitwert berechnet? → bei > 10.000 EUR Landgericht (§ 71 GVG) + Anwaltszwang § 78 ZPO
+4. Beweismittel vollstaendig? → Boardingpaesse, Buchungsbestaetigung, Stoerungsbestaetigung, Mahnschreiben
+5. Richtige Beklagte? → ausfuehrendes Luftfahrtunternehmen (nicht Reiseveranstalter), Art. 2 lit. b VO 261/2004
+6. Gerichtswahl getroffen? → Abflughafen / Zielflughafen nach EuGH C-204/08 (Rehder)
+
+## Adressat & Tonfall
+
+Adressat: Amtsgericht am gewaehlten Gerichtsstand — Tonfall sachlich-juristisch; Schriftsatz ohne Anwaltszwang trotzdem klar strukturiert nach § 253 ZPO-Mindestinhalt (Parteien, Antrag, Begruendung, Beweisangebote)

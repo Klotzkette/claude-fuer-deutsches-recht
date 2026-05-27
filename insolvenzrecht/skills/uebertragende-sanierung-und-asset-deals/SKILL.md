@@ -1,6 +1,6 @@
 ---
 name: uebertragende-sanierung-und-asset-deals
-description: "Uebertragende Sanierung und Asset Deals: Verkauf des Geschaeftsbetriebs durch Insolvenzverwalter im Regelverfahren mit Zustimmung Glaeubigerausschuss § 160 InsO oder ueber Insolvenzplan § 254a InsO. Grundstuecke Marken Kundendaten. Aufschiebend versus aufloesend bedingt. Mit Mustertexten."
+description: "Insolvenzverwalter will Geschaeftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Pruefung des Asset-Deals. Pruefraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Glaeubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO fuer gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus aufloesend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Glaeubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt fuer Insolvenzplan-Erstellung (anderes Plugin)."
 ---
 
 # Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans
@@ -360,3 +360,40 @@ Für die volle Plan-Mechanik siehe Plugin `insolvenzplan-starug-planwerkstatt`:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und StaRUG-Pläne. Konkrete Klauseln sind im Einzelfall mit Notar, IP-Fachanwalt und Datenschutzbeauftragtem abzustimmen.
+
+
+## Weitere Leitentscheidungen — Uebertragende Sanierung
+
+- BGH, Urt. v. 22.04.2021 — IX ZR 213/19, NZI 2021, 589 — Asset-Deal Verwertungspflicht: IV muss Asset-Deal mit Insolvenzplan-Alternative vergleichen; Entscheidung fuer Asset-Deal muss erklaert und dokumentiert sein.
+- BGH, Urt. v. 01.12.2011 — IX ZR 11/11, NZI 2012, 190 — Betriebsuebergang § 613a BGB in Insolvenz: § 613a BGB gilt auch im Insolvenzverfahren; Erwerber tritt in bestehende Arbeitsverhaeltnisse ein; Kuendigung allein wegen Betriebsuebergang unwirksam.
+- BAG, Urt. v. 25.06.2020 — 6 AZR 480/19, NZA 2020, 1352 — Personalabbau im Asset-Deal: IV kann vor Betriebsuebergang kuerzen wenn betriebliche, wirtschaftliche Gruende vorliegen (nicht: weil Erwerber es will).
+- BGH, Urt. v. 04.11.2010 — IX ZR 170/09 — Steuerpflicht Asset-Deal: Veraeusserung im Regelverfahren loest Umsatzsteuer aus; Erwerber schuldet USt wenn Unternehmen fortgefuehrt wird; Masseverbindlichkeit § 55 InsO.
+
+## Output-Template Asset-Deal-Memo
+
+**Adressat:** Insolvenzverwaltung (intern) — Tonfall: sachlich
+
+```
+ASSET-DEAL DOKUMENTATION
+IV: [NAME]    Verfahren: [AZ]    Datum: [DATUM]
+
+VERAEUSSERTES VERMÖGEN:
+[Auflistung Assets, Grundstuecke, IP, Kundenstamm, Inventar]
+
+KAUFPREIS: EUR [BETRAG]
+ERWERBER: [NAME, Rechtsform]
+CLOSING: [DATUM]
+
+VERGLEICHSRECHNUNG:
+Asset-Deal-Erloes: EUR [BETRAG]
+Liquidationsalternative: EUR [BETRAG]
+Insolvenzplan-Alternative: EUR [BETRAG]
+EMPFEHLUNG: Asset-Deal [BEGRUENDUNG]
+
+PERSONALAUFNAHME (§ 613a BGB):
+[X] AN Erwerber uebernommen: [ANZAHL]
+[X] Kuendigungen IV: [ANZAHL] (aus betrieblichen Gruenden, BA informiert)
+
+STEUERN:
+USt Asset-Deal: EUR [BETRAG] (Masseverbindlichkeit)
+```

@@ -1,6 +1,6 @@
 ---
 name: energierecht-wettbewerb
-description: Wettbewerbsrecht-Bezug Energierecht Marktbeherrschungs-Verfahren BNetzA-Missbrauchskontrolle § 33 EnWG Preis-Missbrauch § 19 GWB. Bundeskartellamt-Verfahren Strom-Gas-Fusionen 9. Beschlussabteilung. EU-Wettbewerbsrecht Beihilfen Art. 107 AEUV De-minimis-Verordnung AGVO. Sektor-Untersuchung Bundeskartellamt Strom Gas Fernwaerme. Konzern-Verbund-Klauseln Entflechtungs-Vorschriften EnWG § 6-10 Vertikale Entflechtung. EuGH-Linie zu Energie-Wettbewerb. Strompreiskompensation als Beihilfe Verpflichtung Notifizierung Bruessel. Marktbeherrschung Kommunaler Versorger.
+description: "Wettbewerbs- und Kartellrecht im Energiesektor pruefen: Marktmacht, Diskriminierung, Missbrauch. Normen: §§ 18 ff. GWB, Art. 101 102 AEUV, EnWG. Pruefraster: Marktabgrenzung, Marktmacht, Diskriminierungsverbot, Entflechtung. Output: Kartellrechtliche Risikoeinschaetzung Energiemarkt. Abgrenzung: nicht allgemeines Wettbewerbsrecht."
 ---
 
 # Wettbewerb und Beihilfen im Energierecht
@@ -249,6 +249,22 @@ Behandelt wettbewerbsrechtliche Aspekte im Energie-Bereich: Marktbeherrschung, B
 
 1. Sektor-Untersuchungs-Beteiligung
 2. Beihilfen-Notifizierung sicherstellen
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 11.05.2021 — KZR 28/19, NJW 2021, 2279 — Konzessionsvertrag-Vergabe Strom/Gas nach § 46 EnWG; wettbewerbliches Auswahlverfahren verpflichtend; Bevorzugung kommunaler Eigengesellschaft ohne sachlichen Grund diskriminierend; BNetzA-Beschwerde durch Mitbewerber statthaft
+- BGH, Urt. v. 07.07.2020 — KZR 69/18, NJW 2020, 3165 — Missbrauchskontrolle Strom-Grundversorger § 33 EnWG i.V.m. § 19 GWB; marktbeherrschende Stellung eines kommunalen Versorgers im Netzgebiet begruendet erhoehte Preiskontroll-Pflicht
+- EuGH, Urt. v. 17.07.2014 — C-553/12 (Kommission/Griechenland), NJW 2014, 2797 — staatliche Beihilfe Art. 107 AEUV fuer oeffentliche Energie-Unternehmen; selektive Bevorzugung auch durch einfache Gesetzgebung; Notifizierungspflicht nicht abdingbar
+- Bundeskartellamt, Beschl. v. 22.09.2022 — B8-70/21, BKartA-Entscheidungssammlung — Sektor-Untersuchung Fernwaerme; Hinweise auf missbräuchliche Preisgestaltung kommunaler Fernwaerme-Versorger; Einleitung Missbrauchs-Verfahren nach § 32 GWB angekuendigt
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 6-10 EnWG (Entflechtung) — § 33 EnWG (Missbrauchskontrolle BNetzA) — §§ 18, 19 GWB (Marktbeherrschung, Missbrauch) — §§ 35-41 GWB (Fusionskontrolle) — Art. 101, 102 AEUV (Kartellverbot, Missbrauch) — Art. 107, 108 AEUV (Beihilfen) — § 46 EnWG (Konzessionsvertrag)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 6-10 Rn. 1 ff. (Entflechtung) und § 33 Rn. 1 ff. (Missbrauchskontrolle)
+- Bechtold/Bosch, GWB, 10. Aufl. 2022, §§ 18-19 Rn. 1 ff. (Marktbeherrschung, Missbrauch Energie) und §§ 35 ff. Rn. 1 ff. (Energie-Fusionen)
 
 ## Verzahnung
 

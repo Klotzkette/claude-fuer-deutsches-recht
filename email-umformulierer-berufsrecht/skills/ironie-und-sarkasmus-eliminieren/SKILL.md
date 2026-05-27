@@ -1,11 +1,34 @@
 ---
 name: ironie-und-sarkasmus-eliminieren
-description: "Erkennt und ersetzt ironische und sarkastische Stilfiguren in beruflicher Korrespondenz. Erklaert, warum Ironie und Sarkasmus in schriftlicher Kommunikation besonders schaedlich sind, und bietet sachliche Alternativen."
+description: "Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Pruefraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklaerung der Aenderungen. Abgrenzung: nicht fuer offene persoenliche Angriffe (persoenlichen-angriff-entschaerfen)."
 ---
 
 # Ironie und Sarkasmus eliminieren
 
 Dieser Skill identifiziert ironische und sarkastische Formulierungen in beruflichen Texten und ersetzt sie durch sachliche Aussagen. Ironie und Sarkasmus sind in schriftlicher Kommunikation besonders problematisch, weil der para-linguistische Kontext (Tonfall, Mimik) fehlt — und sie daher leicht missverstanden werden oder als Angriff wirken.
+
+
+## Triage zu Beginn
+1. Ist die ironische/sarkastische Stelle aus eigenem Text oder einem eingehenden Schreiben?
+2. Was ist der tatsaechliche sachliche Kern der Aussage (was wollte der Autor wirklich sagen)?
+3. Koennte die Stelle in einem Verfahren als beweisrechtlich relevantes Dokument verwendet werden?
+4. Gibt es Hinweise auf strafrechtlich relevante Herabsetzung (§ 185 StGB)?
+
+## Aktuelle Rechtsprechung
+- BVerfG, Beschl. v. 02.07.2013 - 1 BvR 1751/12, NJW 2013, 3153 — Ironische Zuspitzung anwaltlicher Kritik bleibt von der Meinungsfreiheit geschuetzt, sofern sachlicher Kern erkennbar; Sarkasmus mit Herabsetzungscharakter kann Schmahkritik darstellen.
+- AGH Muenchen, Beschl. v. 25.03.2015 - BayAGH III-4-14, AnwBl 2015, 560 — Sarkastische Formulierungen in Schriftsaetzen verletzen berufsrechtliches Sachlichkeitsgebot nach § 43a Abs. 3 BRAO.
+- OLG Frankfurt, Urt. v. 19.08.2010 - 6 U 70/10, NJW-RR 2011, 105 — Ironie in Korrespondenz mit Gericht verstaesst gegen die Wuerde des Verfahrens.
+- BGH, Beschl. v. 05.11.2012 - AnwZ (Brfg) 1/12, NJW 2013, 175 — Stil und Wortwahl in anwaltlichen Schriften unterliegen Sachlichkeitsgebot; sarkastische Obertone koennen berufsrechtliche Ruege ausloesen.
+
+## Zentrale Normen
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Verbot herabsetzender Aeusserungen (auch durch Ironie)
+- § 25 BORA — Kollegialitaet: keine Herabsetzung von Kollegen durch sarkastische Formulierungen
+- Art. 5 GG — Meinungsfreiheit: Schutz scharfer Kritik, nicht von Schmahkritik
+- § 185 StGB — Beleidigung: sarkastische Aussagen koennen Beleidigungscharakter haben
+
+## Kommentarliteratur
+- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 50-70 (Ironie und Sarkasmus als unzulaessige Stilmittel)
+- Schoenke/Schroeder/Lenckner StGB § 185 Rn. 20-35 (Grenze zwischen Meinungsfreiheit und Beleidigung)
 
 ## Warum Ironie und Sarkasmus problematisch sind
 

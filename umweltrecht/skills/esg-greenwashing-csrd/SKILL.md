@@ -1,6 +1,6 @@
 ---
 name: esg-greenwashing-csrd
-description: ESG-Compliance und Greenwashing-Verteidigung. Anwendungsbereich CSRD (Corporate Sustainability Reporting Directive 2022/2464) gestaffelt seit 2024. Inhalte Nachhaltigkeits-Bericht ESRS-Standards Doppelte Wesentlichkeit. EU-Taxonomie-Verordnung (VO 2020/852) Klassifikation nachhaltiger Wirtschaftsaktivitaeten. SFDR (Sustainable Finance Disclosure Regulation) Finanzprodukt-Offenlegung. Greenwashing-Verbote BGH I ZR 252/22 klimaneutral DOSB-Linie Bundeskartellamt-Verfahren. UWG § 5 Irrefuehrung. Werbe-Aussagen mit Substantiierungs-Pflicht. EU-Green-Claims-Richtlinie 2024 Vorbereitung. Schnittstelle CSDDD LkSG Klimaberichts-Pflicht.
+description: "Unternehmen muss ESG-Bericht erstellen oder verteidigt Greenwashing-Vorwurf. CSRD VO 2022/2464 gestaffelt seit 2024 ESRS-Standards Doppelte Wesentlichkeit EU-Taxonomie VO 2020/852 SFDR. Normen UWG § 5 Irrefuehrung BGH I ZR 252/22 klimaneutral EU-Green-Claims-Richtlinie 2024. Pruefraster Nachhaltigkeitsbericht-Pflicht Wesentlichkeitsanalyse Greenwashing-Risiko-Check. Output ESG-Bericht-Struktur Greenwashing-Verteidigung Werbe-Substantiierung. Abgrenzung zu lksg-csddd-lieferkettensorgfalt (Lieferkette) und umweltrecht-transaktionen-dd (M&A)."
 ---
 
 # ESG, CSRD und Greenwashing-Verteidigung

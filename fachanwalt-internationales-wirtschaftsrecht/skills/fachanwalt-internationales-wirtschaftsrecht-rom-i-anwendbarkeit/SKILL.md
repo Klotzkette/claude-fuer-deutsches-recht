@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit
-description: "Anwendbares Recht bei grenzueberschreitenden Vertraegen nach Rom-I-VO Nr. 593/2008 bestimmen. Rechtswahl Art. 3 Rom I. Mangels Rechtswahl objektive Anknuepfung Art. 4 Rom I — charakteristische Leistung. Sondervorschriften Verbrauchervertraege Art. 6 Beforderungsvertraege Art. 5 Versicherung Art. 7 Arbeitsvertraege Art. 8 Rom I. International zwingende Eingriffsnormen Art. 9 Rom I. ordre public Art. 21 Rom I."
+description: "Vertragsparteien aus verschiedenen Laendern streiten ueber Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Pruefraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zustaendigkeit (gerichtliche Zustaendigkeit) und gerichtsstand-und-rechtswahl-pruefen."
 ---
 
 # Rom-I-Anwendbarkeit
@@ -12,6 +12,7 @@ description: "Anwendbares Recht bei grenzueberschreitenden Vertraegen nach Rom-I
 3. Liegt eine ausdrückliche oder konkludente Rechtswahl vor und welche Form hat sie?
 4. Wo hat der Erbringer der charakteristischen Leistung seinen gewöhnlichen Aufenthalt?
 5. Liegen Eingriffsnormen (Embargo, Sanktionen, Devisenrecht) am Erfüllungsort vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -52,6 +53,20 @@ description: "Anwendbares Recht bei grenzueberschreitenden Vertraegen nach Rom-I
 
 Standardliteratur: MüKo-BGB / Martiny Rom I; Rauscher EuZPR/EuIPR; Calliess Rome Regulations.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Rechtswahl und Gerichtsstand pruefen | Gutachten Rom I / Bruessel Ia; Template unten |
+| Variante A — Mandant will EU-Gericht vermeiden | Schiedsklausel als Alternative; Skill fachanwalt-internationales-wirtschaftsrecht-schiedsklausel |
+| Variante B — Verbraucher oder Arbeitnehmer beteiligt | Schutzgerichtsstand Art. 17-22 Bruessel Ia zwingend beachten |
+| Variante C — Drittstaaten-Sitz einer Partei | Hague Convention / HAVÜ 2019 pruefen statt Bruessel Ia |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schreibvorlage Stellungnahme zur Rechtswahl
 
 ```
@@ -78,8 +93,61 @@ anwendbaren Recht Stellung:
 Mit freundlichen Gruessen
 ```
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 ## Übergabe
 
 - Bei Streitigkeit über Rechtswahl: Gerichtsstandsprüfung nach Brüssel-Ia-VO Nr. 1215/2012 vorlegen.
 - Bei Verbrauchervertrag: Anwendbarkeit nationalem Verbraucherschutzrecht parallel mitprüfen.
 - Bei Eingriffsnormen-Konflikt: Memorandum für Mandantschaft mit Compliance-Bewertung.
+
+## Vertiefung: Leitsaetze und Triage Rom I
+
+### Ergaenzende Leitsaetze Rom I
+
+- EuGH, Urt. v. 17.10.2013 - C-184/12 (Unamar), NJW 2014, 529 Rn. 46 — Eingriffsnormen Art. 9 Rom I: nationale zwingende Vorschrift (hier belgisches Handelsvertreterrecht) kann auch bei gewaehltem auslaendischen Recht angewandt werden wenn sie besonders wichtige staatliche Interessen schuetzt.
+- EuGH, Urt. v. 25.02.2021 - C-695/19 (Markt24/YD), NJW 2021, 1584 Rn. 38 — Ausrichtungskriterium Art. 6 Abs. 1 lit. b Rom I fuer Verbrauchervertraege: Internetpraesenz allein nicht ausreichend; aktive Werbung im Wohnsitzstaat des Verbrauchers erforderlich.
+- BGH, Urt. v. 25.02.2021 - I ZR 205/19, NJW 2021, 2284 Rn. 24 — Rechtswahl in AGB: wirksam wenn nicht ueberraschend und klar verstaendlich; Verbraucher-Schutzvorschriften des Aufenthaltsstaates bleiben trotz Rechtswahl anwendbar (Art. 6 Abs. 2 Rom I).
+- BGH, Urt. v. 27.11.2018 - XI ZR 545/17, NJW 2019, 999 — Konkludente Rechtswahl: Bezugnahme auf nationales Recht in AGB genuegt als Hinweis; aber kein vollstaendiger Ausschluss des objektiv anwendbaren Rechts.
+
+### Normen-Kette Rom I
+- Art. 1-3 Rom I — Anwendungsbereich, Rechtswahl
+- Art. 4 Rom I — Objektive Anknuepfung
+- Art. 6 Rom I — Verbrauchervertraege
+- Art. 8 Rom I — Arbeitsvertraege
+- Art. 9 Rom I — Eingriffsnormen
+- Art. 21 Rom I — Ordre public
+
+### Triage Rom I
+Bevor losgelegt wird, klaere:
+1. Liegt Rechtswahl vor (Art. 3 Rom I)? → Ausdrücklich oder konkludent (Gerichtsstandsklausel?)
+2. Verbrauchervertrag (Art. 6 Rom I)? → Gewoehnlicher Aufenthalt + ausgerichtete Tätigkeit
+3. Eingriffsnormen (Art. 9 Rom I)? → Embargo, Sanktionen, Kartellrecht, Marktrecht
+4. Gibt es Renvoi-Problem (Weiter-/Rueckverweisung)? → Art. 24 Rom I: kein Renvoi
+
+### Output-Template Rechtsgutachten Anwendbares Recht
+**Adressat:** Mandant oder Gericht — Tonfall: sachlich-juristisch
+
+```
+Rechtsgutachten: Anwendbares Recht (Rom I)
+Vertrag: [BEZEICHNUNG] vom [DATUM]
+Parteien: [KLAEGER] (Sitz: [LAND]) ./. [BEKLAGTER] (Sitz: [LAND])
+
+1. Rechtswahl (Art. 3 Rom I):
+   [JA: [RECHTSORDNUNG] — Nachweis: Klausel X / NEIN: Objektive Anknuepfung]
+
+2. Objektive Anknuepfung Art. 4 Rom I:
+   Vertragstyp: [KAUF/DIENSTLEISTUNG/...]
+   Charakteristische Leistung: [VERKAEUFER/DIENSTLEISTER]
+   Gewoehnlicher Aufenthalt Leistungserbringer: [LAND]
+   → Anwendbares Recht: [RECHTSORDNUNG]
+
+3. Eingriffsnormen (Art. 9 Rom I):
+   [KEINE / JA: [BESCHREIBUNG]]
+
+4. Ergebnis:
+   Auf den vorliegenden Vertrag ist [RECHTSORDNUNG] anwendbar.
+```

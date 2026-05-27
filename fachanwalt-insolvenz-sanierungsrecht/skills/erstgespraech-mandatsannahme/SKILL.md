@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Insolvenz- und Restrukturierungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Insolvenz- und Restrukturierungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Insolvenz- und Restrukturierungsrecht
@@ -151,3 +151,22 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+
+## Aktuelle Leitentscheidungen — Insolvenz-Erstmandat
+
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Geschaeftsfuehrerin bleibt auch bei Handeln eines Mitgeschaeftsfuehrers eigenstaendig verpflichtet; Delegation der Antragspflicht ist unwirksam.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung nach § 15b InsO (frueherer § 64 GmbHG): Geschaeftsfuehrerin haftet persoenlich fuer Zahlungen nach Insolvenzreife; Schutzausnahme nur bei Zahlungen zur Aufrechterhaltung des Betriebs, die das Schuldvermögen nicht verringern.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungsberatung: anwaltliche Beratung zur Sanierung schliiesst spaetere Vorsatzanfechtung des Mandanten nicht aus, wenn Sanierungs-Konzept nicht IDW S 6 Niveau hatte.
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose im Erstgespraech zu pruefen: positiv wenn ueberwiegende Wahrscheinlichkeit der Fortfuehrung in den naechsten 12 Monaten; Prognose-Dokument erstellen.
+
+## Paragrafenkette Erstmandat Insolvenz
+
+§ 43a BRAO (Interessenkonflikt) → §§ 10 ff. GwG (Identifizierungspflicht) → § 15a InsO (Antragspflicht 3/6 Wochen) → § 15b InsO (Haftung GF fuer Zahlungen nach Insolvenzreife) → §§ 17-19 InsO (Eröffnungsgruende) → § 3a RVG (Honorarvereinbarung)
+
+## Triage — Erstgespraech Insolvenzmandat
+
+1. **Welche Partei?** Geschaeftsfuehrung/Schuldner → Antragspflicht, Haftungsberatung. Glaeubiger → Antragsrecht, Forderungssicherung. Insolvenzverwalter → Beauftragung pruefen.
+2. **Fristen?** Antragspflicht § 15a InsO: ab heute bis zu welchem Datum? Sofort-Frist-Alarm!
+3. **GwG-Risiko?** Insolvenzmandate oft Hochrisiko-Kategorie (Geldflueisse, Verschleierungsrisiko) → gruendliche Risiobewertung.
+4. **Interessenkonflikt?** Kanzlei hat Glaeubiger und Schuldner im selben Verfahren → § 43a Abs. 4 BRAO Verbot.

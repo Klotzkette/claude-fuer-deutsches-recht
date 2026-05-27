@@ -1,6 +1,6 @@
 ---
 name: anw-organschaft-konzern-grundlagen
-description: "Beratung zur ertragsteuerlichen umsatzsteuerlichen und gewerbesteuerlichen Organschaft. Voraussetzungen finanzielle Eingliederung Stimmenmehrheit Gewinnabfuehrungsvertrag fuenf Jahre § 14 KStG § 2 Abs. 2 GewStG. USt-Organschaft § 2 Abs. 2 UStG finanziell wirtschaftlich organisatorisch eingegliedert keine Gewinnabfuehrung erforderlich. Begruendung Wirksamkeitspruefung Beendigung Risiken Mehrmuetter-Organschaft. EuGH C-141/20 Norddeutsche Gesellschaft fuer Diakonie Reform USt-Organschaft. Schreibvorlagen Gewinnabfuehrungsvertrag."
+description: "Beratung zur ertragsteuerlichen gewerbesteuerlichen und umsatzsteuerlichen Organschaft bei Holding- oder Konzernstrukturen. Anwendungsfall Mandant plant Organschaft Holding oder prueft ob bestehende Organschaft wirksam ist. Voraussetzungen KSt-Organschaft § 14 KStG finanzielle Eingliederung Gewinnabfuehrungsvertrag fuenf Jahre GewSt-Organschaft § 2 Abs. 2 GewStG USt-Organschaft § 2 Abs. 2 UStG finanziell wirtschaftlich organisatorisch eingegliedert. EuGH C-141/20 Norddeutsche Gesellschaft fuer Diakonie USt-Organschaft Reform. Output Beratungsmemo Wirksamkeitspruefung Risiken Mehrmuetter-Organschaft Vorlage Gewinnabfuehrungsvertrag."
 ---
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken

@@ -158,3 +158,19 @@ Mit freundlichen Grüßen
 ## Disclaimer
 
 > **Hinweis zum Bescheid.** Dieser Entwurf zur Beantwortung des Prüfungsbescheids ist eine KI-gestützte Vorarbeit. Die Argumentationsstruktur und die Anspruchsentwuerfe müssen durch die Patentanwältin vor Absendung sorgfaeltig gegengelesen werden. Insbesondere die Bewertung der erfinderischen Tätigkeit und die Wahl der Hilfsantragsabstufungen erfordern individuelle Bewertung. Diese Vorbereitung ersetzt nicht die anwaltliche Verantwortung gegenüber Amt und Mandant.
+
+## Triage-Fragen bei Pruefungsbescheid
+
+Bevor die Antwort auf den Pruefungsbescheid formuliert wird, klaere:
+1. Welche Einwaende werden geltend gemacht — Neuheit, erfinderische Taetigkeit, mangelnde Klarheit (Art. 84 EPU/§ 34 PatG) oder Offenbarung (Art. 83 EPU/§ 35 PatG)?
+2. Laeuft die 4-Monats-EPA-Frist (verlängerbar um 2 Monate) noch, oder ist eine Fristverlängerung erforderlich?
+3. Wurden Hilfsantraege vorbereitet (abgestufter Schutzbereich fuer den Fall, dass Hauptantrag nicht haltbar)?
+4. Sind alle in der Entgegenhaltung genannten Merkmale korrekt in der Anspruchsanalyse beruecksichtigt?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 12.09.2013 — X ZR 22/10 (Anspruchsaenderung im Pruefungsverfahren):** Im Erteilungsverfahren koennen Patentansprueche geaendert werden, sofern die Aenderung durch die urspruengliche Offenbarung gestuetzt ist (§ 38 PatG / Art. 123 EPU); eine Erweiterung uber den ursprunglich offenbarten Gegenstand hinaus fuehrt zur Nichtigkeit des Patents.
+
+> **EPA, Erweiterte Beschwerdekammer, G 2/21 (Plausibilitaet):** Die technische Wirkung, auf die eine erfinderische Taetigkeit gestuetzt wird, muss in der Anmeldung plausibel offenbart sein; spaetere Versuchsbelege koennen die Plausibilitaet ersetzen, wenn der Fachmann den Effekt nachtraeglich als glaubhaft bestaetigt ansehen kann.
+
+> **BGH, Urt. v. 14.10.2010 — Xa ZR 36/08 (Hilfsantrag EPA):** Im EPA-Beschwerdeverfahren spaetest eingereichte Hilfsantraege koennen als verspaetet zurueckgewiesen werden; die Pruefungstaktik muss daher fruehzeitig eine vollstaendige Hilfsantragsstaffel vorbereiten, auch wenn der Hauptantrag als verteidbar erscheint.

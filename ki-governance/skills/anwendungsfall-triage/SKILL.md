@@ -163,3 +163,36 @@ Betriebsrat einbeziehen; Offenlegung ggü. Bewerber:innen (Art. 13 DSGVO).
 - **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 5 Rn. 8 und Anhang III Rn. 15.**
 - **Ehmann/Selmayr, in: Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10.**
 - **Müller-Glöge, in: Erfurter Kommentar, 25. Aufl. 2025, § 87 BetrVG Rn. 32.**
+
+## Triage zu Beginn
+1. Was tut die KI genau — assistierend, augmentierend oder vollautomatisiert?
+2. Sind Betroffene schutzbeduertige Gruppen (Minderjaerige, Arbeitnehmer, Kreditnehmer)?
+3. Liegt eine Hochrisiko-Kategorie nach Anhang III KI-VO vor (Nr. 1-8 pruefen)?
+4. Ist eine vollautomatisierte Einzelentscheidung mit Rechtswirkung moeglich (Art. 22 DSGVO)?
+5. Besteht ein § 87 Abs. 1 Nr. 6 BetrVG-Mitbestimmungsrecht (Mitarbeiterbewertung)?
+
+## Output-Template — Triage-Ergebnis KI-Anwendungsfall
+**Adressat:** Governance-Team / Fachabteilung — Tonfall: klar, strukturiert
+```
+TRIAGE-ERGEBNIS KI-ANWENDUNGSFALL
+[DATUM] — [ANWENDUNGSFALL-ID]
+
+ANWENDUNGSFALL: [BESCHREIBUNG]
+KLASSIFIKATION: [FREIGEGEBEN / BEDINGT / NICHT FREIGEGEBEN]
+
+Art. 5 KI-VO (verbotene Praktiken): [Kein Verbot / VERBOTEN: BEGRUENDUNG]
+Anhang III KI-VO (Hochrisiko): [Nicht einschlaegig / Hochrisiko Kat. Nr. X]
+DSGVO Art. 22: [Nicht einschlaegig / Einschlaegig — Rechtsgrundlage: Art. 22 Abs. 2 lit. X]
+§ 87 Abs. 1 Nr. 6 BetrVG: [Nicht einschlaegig / Mitbestimmung erforderlich]
+
+Begruendung: [1-3 Saetze]
+
+Bei BEDINGT — Auflagen:
+1. [AUFLAGE + VERANTWORTLICHER + FRIST]
+2. [AUFLAGE + VERANTWORTLICHER + FRIST]
+
+Governance-Stufe: [Standard / Erhoeht / Hoch]
+Naechste Pruefung: [DATUM]
+
+Erstellt: [NAME], [DATUM]
+```

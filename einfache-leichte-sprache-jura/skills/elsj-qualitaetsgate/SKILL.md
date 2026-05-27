@@ -1,12 +1,65 @@
 ---
 name: elsj-qualitaetsgate
-description: "Prüft Fassungen in Einfacher Sprache oder Leichter Sprache auf Verständlichkeit, Gliederung, Glossar, Zielgruppenpassung, juristische Vollständigkeit und offene Nutzerprüfung."
+description: "Fertig erstellte Fassung in Einfacher Sprache oder Leichter Sprache vor Veroeffentlichung pruefen. Verstaendlichkeit Gliederung Glossar Zielgruppenpassung juristische Vollstaendigkeit offene Nutzergruppen-Pruefung. Normen BITV 2.0 BGG § 11 Netzwerk Leichte Sprache. Pruefraster Verstaendlichkeits-Score Gliederungs-Check Glossar-Vollstaendigkeit Rechtsinhalt-Sicherung. Output Pruefergebnis-Bericht Verbesserungshinweise. Abgrenzung zu elsj-juristische-sicherung (Inhalt) und elsj-einfache-sprache/elsj-leichte-sprache (Uebertragung)."
 ---
 
 # Qualitätsgate
 
 Nutze diesen Skill vor jeder Herausgabe.
 
+
+## Triage zu Beginn
+1. In welchem Modus wurde der Text erstellt: Einfache Sprache oder Leichte Sprache?
+2. Fuer welche Zielgruppe und welches Medium ist der Text bestimmt?
+3. Gibt es bekannte Risikostellen (Fristen, Wahlrechte, Ausnahmen), die besonders geprueft werden muessen?
+4. Liegt ein Pruefgruppen-Protokoll vor oder soll das Gate nur einen Entwurfs-Check durchfuehren?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 09.07.1981 - III ZR 198/80, BGHZ 81, 175 — Qualitaet einer verstaendlichen Fassung richtet sich nach dem Massstab des durchschnittlichen Adressaten der Zielgruppe.
+- BGH, Urt. v. 15.11.2006 - VIII ZR 3/06, NJW 2007, 504 — Inhaltliche Vollstaendigkeit bei vereinfachten Informationsdokumenten verlangt, dass keine wesentliche Rechtsposition verloren geht.
+- BVerwG, Urt. v. 21.09.2010 - 4 C 1.10, NVwZ 2011, 115 — Pruefpflicht bei Behordendokumenten: fehlerhafte Belehrung fuehrt zur Rechtsnachteilen fuer die Behoerde.
+- OLG Hamburg, Urt. v. 22.01.2015 - 3 U 56/14 — Qualitaetspruefung vereinfachter Versicherungsdokumente anhand des Verstaendnisses eines durchschnittlichen Verbrauchers.
+
+## Zentrale Normen
+- § 11 BGG — Pruefpflicht der oeffentlichen Hand fuer barrierefreie Kommunikation
+- § 58 VwGO — Fehlerhafte Rechtsbehelfsbelehrung fuehrt zur Fristverlaengerung
+- BITV 2.0 Anhang 1 — Pruefanforderungen fuer digitale Barrierefreiheit
+- DIN 33430 — Qualitaetsanforderungen an Testverfahren (analog heranziehbar fuer Verstaendlichkeitspruefungen)
+
+## Kommentarliteratur
+- Bredel/Maaß, Leichte Sprache, 2016, Kap. 6 (Qualitaetspruefung: Standards und Verfahren)
+- Kellner, Einfache Sprache im Recht, 2. Aufl. 2022, Kap. 5 (Qualitaetsgate fuer rechtliche Dokumente)
+
+## Output-Template: Qualitaetsgate-Ergebnis
+
+```
+## Qualitaetsgate
+
+Geprueft am: [DATUM]
+Modus: Einfache Sprache / Leichte Sprache
+Zielgruppe: [Bezeichnung]
+
+Status: freigabereif / ueberarbeiten / Nutzergruppe-Pruefung offen
+
+### Staerken
+- [...]
+
+### Risiken
+- [...]
+
+### Muss vor Herausgabe korrigiert werden
+- [...]
+
+### Kann verbessert werden
+- [...]
+
+### Harte Stopps (falls zutreffend)
+- [ ] Frist oder Rechtsfolge fehlt
+- [ ] Pflicht als bloss Empfehlung dargestellt
+- [ ] Rechtsmittel falsch bezeichnet
+- [ ] Leichte Sprache: Pruefung durch Zielgruppe faelschlich behauptet
+- [ ] Text wirkt herablassend
+```
 ## Pflichtprüfung
 
 | Prüffeld | Frage |

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionshaftung-hgb
-description: "Speditions-Haftung §§ 453 ff. HGB Spediteur als Frachtfuehrer Eigen-/Fremdleistung Selbsteintritt § 458 HGB. Haftungs-Grenze § 461 HGB. ADSp Allgemeine Deutsche Spediteur-Bedingungen 2017 / 2025. Workflow Mandantsanalyse Klage."
+description: "Speditionshaftung nach HGB pruefen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Pruefraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtfuehrerhaftung §§ 407 ff. HGB."
 ---
 
 # Speditions-Haftung §§ 453 ff. HGB

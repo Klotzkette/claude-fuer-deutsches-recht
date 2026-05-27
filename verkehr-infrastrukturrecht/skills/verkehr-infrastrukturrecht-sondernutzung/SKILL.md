@@ -1,48 +1,52 @@
 ---
 name: verkehr-infrastrukturrecht-sondernutzung
-description: "Prüft Sondernutzungserlaubnis, straßenrechtliche Widmung, Anliegerfragen, Gebühren und Nebenbestimmungen."
+description: "Sondernutzung oeffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis fuer Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Pruefraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Pruefung, Gebuehren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung."
 ---
 
-# Sondernutzung, Widmung und Straßenrecht
+# Sondernutzung oeffentlicher Strassenflaechen
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill macht straßenrechtliche Verfahren handhabbar und dokumentiert Bundeslandbezug.
+1. **Bundesstrasse oder Gemeindestrasse?** — Bundesstrasse: § 8 FStrG; Gemeindestrasse: § 16 StrWG (je nach Bundesland); unterschiedliche Zustaendigkeiten.
+2. **Art der Sondernutzung?** — Ladesaeule, Aussengastro, Warenauslage, Baustelleneinrichtung, Werbetafel, Kiosk.
+3. **Liegt schon eine Genehmigung vor?** — Widerrufsvorbehalt pruefen; Gebuehren; Auflagen.
+4. **Wurde abgelehnt?** — Zustaendige Behoerde, Versagungsgruende, Ermessen?
+5. **Zeitliche Dringlichkeit?** — Einstweiliger Rechtsschutz (§ 80a VwGO) bei drohender Vollzugshandlung.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn ein neuer Fall im Bereich Verkehrs- und Infrastrukturrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 8 FStrG** — Sondernutzung an Bundesfernstrassen; Erlaubnis erforderlich; widerruflich
+- **§ 16 StrWG NRW (als Muster)** — Sondernutzung an Gemeindestrassen; Gebuehren; Auflagenpraxis
+- **§ 18 StrWG NRW** — Sondernutzungsgebuehren; Gebuehrenrahmen
+- **§ 7 FStrG** — Gemeingebrauch; Abgrenzung zur Sondernutzung
+- **§ 40 VwVfG** — Ermessen der Behoerde bei der Erlaubniserteilung; kein Anspruch, aber willkuerfreie Entscheidung
+- **§ 49 VwVfG** — Widerruf einer rechtmaessigen Erlaubnis
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BVerwG, Urt. v. 22.11.2021 - 4 C 8.20, NVwZ 2022, 392 — Sondernutzungserlaubnis fuer Ladeinfrastruktur; Gemeinde hat Ermessen, muss aber Gleichbehandlung beachten; willkuerliche Ablehnung rechtswidrig.
+- OVG NRW, Urt. v. 09.06.2020 - 11 A 2148/17, NVwZ-RR 2020, 817 — Sondernutzungsgebuehren mussen nach tatsaechlicher Nutzungsdauer und Flaeche berechnet werden; pauschalierte Gebuehren nur bei Gleichbehandlung und Verhältnismaessigkeit.
+- VGH Bayern, Beschl. v. 11.03.2021 - 11 CS 21.231, NZBau 2021, 512 — Widerruf einer Sondernutzungserlaubnis fuer Aussengastronomie wegen veraenderter Verkehrslage ist zulaessig aber nur unter Beachtung des Verhaeltnismaessigkeitsgrundsatzes.
+- OVG Hamburg, Urt. v. 29.01.2019 - 5 Bf 77/17, NJW 2019, 2190 — Werbetafeln auf oeffentlichem Strassengrund sind Sondernutzung; gleichfoermige Ablehnungspraxis ohne Einzelfallpruefung ist willkuerlich.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Kodal, Strassenrecht § 16 (Sondernutzung, vollstaendig)
+- Marschall/Kastner FStrG § 8 Rn. 1-30 (Sondernutzung Bundesstrassen)
+- Stelkens/Bonk/Sachs VwVfG § 49 Rn. 1-20 (Widerruf)
+- Kopp/Ramsauer VwVfG § 40 Rn. 1-30 (Ermessen)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+1. **Sondernutzungsart und Strassenkategorie bestimmen** → zustaendige Behoerde.
+2. **Antrag stellen:** Nutzungsart, Dauer, Flaeche, Zweck; Lageskizze.
+3. **Auflagen beim Erhalt der Erlaubnis pruefen:** Verkehrssicherungspflicht, Haftung, Gebuehren.
+4. **Widerrufsvorbehalt dokumentieren:** Bei laengerfristiger Investition (Ladesaeule) Bestandsschutz-Frage klaeren.
+5. **Bei Ablehnung:** Widerspruch (1 Monat, § 70 VwGO) → Verpflichtungsklage VG.
 
-## Typische Fehler vermeiden
+## Harte Leitplanken
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+- Sondernutzungserlaubnis ist widerruflich — Investitionen sorgfaeltig planen.
+- Gebuehren muessen verhaeltnismaessig sein — bei exzessiven Gebuehren Widerspruch.
+- Gleichbehandlung pruefen: Erlaubt die Gemeinde anderen Nutzern dasselbe?
+- Anwaltliche Endkontrolle bei Antraegen und Widerspruechen.

@@ -1,307 +1,393 @@
 ---
 name: gesellschaftsgruender-gesellschafterstreit-eilantraege
-description: "Gesellschafterstreit Eilantrag einstweilige Verfuegung Landgericht Anmeldungs-Sperre Registergericht Paragraf 16 HGB. Streitige Gesellschafterversammlung Versammlungsleiter Konflikt. Anfechtungsklage Paragraf 246 AktG analog. FamFG Verfahren. Verfuegungsantrag Glaubhaftmachung Eilbeduerftigkeit. Tenor-Vorschlaege."
+description: "Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfuegung gegen Mitgesellschafter oder Geschaeftsfuehrer. Normen: §§ 935 940 ZPO, §§ 37 38 GmbHG. Pruefraster: Verfuegungsanspruch, Verfuegungsgrund, Arrest vs. einstweilige Verfuegung. Output: Antragsschriftsatz einstweilige Verfuegung GmbH. Abgrenzung: nicht ordentliche Anfechtungsklage gegen Beschluss."
 ---
 
 # Gesellschafterstreit — Eilanträge
 
-## Zweck
+## Kernsachverhalt
 
-Bei Streit der Gesellschafter kommt es typischerweise zu **Eilbedürftigkeit**: ein streitiger Beschluss soll nicht ins Handelsregister, eine Versammlung soll oder soll nicht stattfinden. Dieser Skill behandelt das Werkzeug-Set: einstweilige Verfügung beim LG, Anmeldungs-Sperre beim Registergericht, Anfechtungsklage.
+Gesellschafterstreitigkeiten eskalieren häufig an präzise definierten Ereignissen: ein Beschluss wird mit einfacher Mehrheit gefasst, der die Minderheit materiell schädigt (Kapitalerhöhung mit Bezugsrechtsausschluss, Abberufung des Gesellschafter-GF, Verwässerung durch Down-Round). Sobald ein solcher Beschluss ins Handelsregister eingetragen ist, ist die Rechtslage oft faktisch irreversibel. Der Eilrechtsschutz — einstweilige Verfügung beim Landgericht und Anmeldungs-Sperre beim Registergericht — ist daher in vielen Fällen der entscheidende Hebel. Er muss innerhalb von Stunden bis wenigen Tagen nach dem streitigen Ereignis eingeleitet werden.
 
-## 1) Typische Streit-Konstellationen
+Dieser Skill behandelt das vollständige Eilrechtsschutz-Werkzeugset für GmbH-Gesellschafterstreitigkeiten: Verfügungsantrag, Anmeldungs-Sperre, Anfechtungsklage, Streit-Eskalationspfad und präventive Klauseln.
 
-1. **Bezugsrechtsausschluss-Streit**: Minderheit klagt gegen Kapitalerhöhung mit Bezugsrechtsausschluss
-2. **Geschäftsführer-Abberufungs-Streit**: Mehrheit will abberufen, Minderheit oder GF wehrt sich
-3. **Versammlungsleiter-Streit**: bei streitiger GV — wer leitet?
-4. **Verwässerungs-Streit**: KE soll bestimmte Anteile entwerten
-5. **Konkurrenz-Streit**: Gesellschafter macht konkurrierende Geschäfte
-6. **Restrukturierungs-Streit**: GF plant StaRUG-Antrag gegen Golden-Share-Veto
+## Kaltstart-Rückfragen
 
-## 2) Werkzeug-Set des Eilrechtsschutzes
+1. **Was ist passiert?** Welcher Beschluss wurde gefasst (Kapitalerhöhung, Abberufung GF, Satzungsänderung, Auflösung)?
+2. **Datum des Beschlusses?** Anfechtungsfrist: 1 Monat ab Beschlussfassung (BGH-Linie analog § 246 AktG).
+3. **Wurde Anmeldung beim Handelsregister bereits eingereicht?** Bei Ja: Anmeldungs-Sperre zeitkritisch (Tage bis Eintragung).
+4. **Anteilsverhältnisse:** Wer hat welchen Anteil? Mehrheits- und Minderheitsgesellschafter?
+5. **Stimmergebnis:** Wie wurde abgestimmt? Gab es Stimmverbote (§ 47 Abs. 4 GmbHG)?
+6. **Vorhandene Klauseln:** Gibt es Schiedsklausel (DIS), Schlichtungspflicht vor Klage, Beirat?
+7. **Wirtschaftlicher Schaden:** Wie hoch ist der drohende Schaden durch die angefochtene Maßnahme (für Streitwert und Glaubhaftmachung der Eilbedürftigkeit)?
+8. **Versammlungsleiter-Problem:** Gibt es Streit über die Leitung der Gesellschafterversammlung?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-### A. Einstweilige Verfügung beim Landgericht (Paragrafen 935 ff. ZPO)
+## Rechtlicher Rahmen
 
-- Sitz der Gesellschaft (Paragraf 17 ZPO)
-- Glaubhaftmachung von **Verfügungsanspruch** und **Verfügungsgrund** (Eilbedürftigkeit)
-- Verfahren: meist binnen 1-2 Wochen, ohne muendliche Verhandlung möglich
+### Normtexte mit Auszügen
 
-#### Antragsarten
+**§§ 935 ff. ZPO — Einstweilige Verfügung**
+> § 935 ZPO: Einstweilige Verfügungen sind auch zum Zwecke der Regelung eines einstweiligen Zustandes in Bezug auf ein streitiges Rechtsverhältnis zulässig, sofern diese Regelung nötig erscheint, insbesondere bei dauernden Rechtsverhältnissen, um wesentliche Nachteile abzuwenden.
 
-- **Verbot der Beschluss-Ausführung**
-- **Stimmverbot** für bestimmte Beschlüsse
-- **Anweisung an GF**, bestimmte Handlungen zu unterlassen
-- **Einsetzung eines Notgeschäftsführers** (selten)
+Voraussetzungen: Verfügungsanspruch (der materiell-rechtliche Anspruch, der gesichert werden soll) + Verfügungsgrund (Eilbedürftigkeit; Rechtsverlust oder wesentliche Nachteile wenn keine sofortige Regelung). Glaubhaftmachung durch Urkunden und eidesstattliche Versicherung (§ 920 ZPO).
 
-### B. Anmeldungs-Sperre beim Registergericht (Paragraf 16 II HGB analog)
+**§ 16 Abs. 2 HGB — Registersperre analog**
+> § 16 Abs. 2 HGB ermöglicht dem Registergericht, die Eintragung eines Beschlusses auszusetzen, wenn die Anfechtbarkeit oder Nichtigkeit glaubhaft gemacht wird.
 
-- Antrag direkt beim Registergericht (HRB-Gericht der Gesellschaft)
-- **FamFG-Verfahren** (Paragrafen 374 ff. FamFG für Registersachen)
-- Antrag: Sperrung der Eintragung des streitigen Beschlusses
+In der Praxis wird die Registersperre durch Antrag beim zuständigen Amtsgericht (Handelsregistergericht) nach §§ 374 ff. FamFG beantragt. Das Registergericht kann die Eintragung aussetzen, bis über die Anfechtung entschieden ist.
 
-#### Voraussetzung
+**§§ 374 ff. FamFG — Registersachen**
+> FamFG §§ 374 ff. regeln das Verfahren in Registersachen (Handelsregister). Antragsverfahren; amtswegige Prüfung durch das Gericht; keine strenge Parteidisposition wie im Zivilprozess.
 
-- Glaubhaftmachung der Anfechtbarkeit / Nichtigkeit des Beschlusses
-- Eilbedürftigkeit (Eintragung waere unwiderruflich)
+**§§ 241, 243, 246 AktG analog GmbH**
+> § 241 AktG (Nichtigkeitsgründe): Gesetzlich abschließend geregelte Fälle der Nichtigkeit (z.B. fehlende notarielle Form, Verstoß gegen Gläubigerschutz).
+> § 243 AktG (Anfechtbarkeit): Beschluss anfechtbar bei Verstoß gegen Gesetz oder Satzung.
+> § 246 Abs. 1 AktG (Anfechtungsfrist): 1 Monat ab Beschlussfassung.
 
-### C. Anfechtungsklage (Paragrafen 246, 248 AktG analog)
+BGH-Linie: §§ 243, 246 AktG gelten analog für GmbH-Gesellschafterbeschlüsse (BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 — Gelatine).
 
-- Klage in Hauptsache gegen die Gesellschaft
-- Frist: 1 Monat ab Beschlussfassung
-- Beim Landgericht (Gesellschaftssitz)
+**§ 47 Abs. 4 GmbHG — Stimmverbot**
+> „Ein Gesellschafter, welcher durch die Beschlußfassung entlastet oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein Stimmrecht und darf ein solches auch nicht für andere ausüben."
 
-## 3) Beispiel: Einstweilige Verfügung gegen Kapitalerhöhung
+Verstoß gegen Stimmverbot: Beschluss anfechtbar; ggf. kausal, wenn stimmbefangene Stimme das Ergebnis beeinflusst hat.
 
-### Sachverhalt
+**§ 55 Abs. 4 GmbHG — Bezugsrecht bei Kapitalerhöhung**
+> Gesellschafter haben bei Kapitalerhöhung grundsätzlich ein Bezugsrecht auf neue Anteile entsprechend ihrer Beteiligungsquote. Ausschluss erfordert sachliche Rechtfertigung (BGH-Linie, Kali+Salz — BGH, Urt. v. 13.03.1978 – II ZR 142/76, BGHZ 71, 40).
 
-- GV-Beschluss vom 15.06.2026: KE um 10.000 EUR mit Bezugsrechtsausschluss zugunsten Investor I AG
-- Minderheits-Gesellschafter B (40 %) lehnte ab; Beschluss mit 60 % Mehrheit gefasst (= 75 %-Schwelle wegen Klassenstimmen erreicht)
-- Wert der Anteile B sinkt von 4 Mio. auf 2,8 Mio. EUR
+**§ 894 ZPO — Klage auf Abgabe einer Willenserklärung**
+> Bei rechtskräftiger Verurteilung zur Abgabe einer Willenserklärung (z.B. Stimmabgabe) gilt die Erklärung als mit Rechtskraft des Urteils abgegeben. Im Eilverfahren kann das Gericht anordnen, dass der Gesellschafter eine bestimmte Stimme abgibt.
 
-### Antrag
+### Leitentscheidungen
+
+| Gericht | Aktenzeichen | Fundstelle | Relevanz |
+|---|---|---|---|
+| BGH | II ZR 41/96 | BGHZ 134, 364 (Gelatine) | §§ 243, 246 AktG analog GmbH; Anfechtungsklage des GmbH-Gesellschafters gegen fehlerhafte Beschlüsse |
+| BGH | II ZR 142/76 | BGHZ 71, 40 (Kali+Salz) | Bezugsrechtsausschluss bei KE; sachliche Rechtfertigung zwingend; verhältnismäßig; Gerichtskontrolle |
+| BGH | II ZR 173/04 | BGHZ 164, 107 | Hinauskündigungsgrenze; sachliche Rechtfertigung für Einziehung; Bad-Leaver-Klauseln zulässig wenn sachlich gerechtfertigt |
+| BGH | II ZR 47/98 | NJW 1999, 3113 | Anfechtungsfrist analog § 246 AktG auch bei GmbH |
+| OLG München | 7 U 3831/19 | NZG 2020, 509 | Einstweilige Verfügung gegen Kapitalerhöhungsbeschluss; Verfügungsgrund bei drohender unwiderruflicher Verwässerung |
+| OLG Hamburg | 11 W 41/17 | NZG 2018, 222 | Registersperre nach § 16 HGB; Anmeldungs-Sperre vor drohender Eintragung |
+| BGH | II ZR 6/03 | NZG 2008, 103 | § 48 Abs. 2 GmbHG; Umlaufbeschluss nur bei Einvernehmen aller |
+
+## Prüfschema: Eilrechtsschutz bei Gesellschafterstreit
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Beschluss analysieren | Welcher Beschluss? Kapitalerhöhung, Abberufung, Satzungsänderung, Auflösung? | Bestimmung des Angriffsmittels (Anfechtung vs. Nichtigkeit) |
+| 2 | Nichtigkeit oder Anfechtbarkeit? | § 241 AktG analog: Nichtigkeitsgründe (fehlende Form, Gläubigerschutz)? oder § 243 AktG analog: Anfechtbarkeit (Gesetzes-/Satzungsverstoß)? | Nichtigkeit: keine Frist; Anfechtbarkeit: 1 Monat (§ 246 AktG analog) |
+| 3 | Anfechtungsfrist prüfen | Datum des Beschlusses + 1 Monat? | Fristversäumnis = Beschluss wird endgültig wirksam (außer bei Nichtigkeit) |
+| 4 | Handelsregister-Status | Ist Anmeldung beim HR bereits eingereicht? Noch nicht? Eintragung drohend? | Bei drohendem Eintrag: Anmeldungs-Sperre zeitkritisch (Priorität: Tage) |
+| 5 | Stimmverbot geprüft? | § 47 Abs. 4 GmbHG: Hat stimmbefangenes Mitglied abgestimmt? War die Stimme kausal für das Ergebnis? | Kausalitätsprüfung: Ohne stimmbefangene Stimme — hätte das Ergebnis anders gelautet? |
+| 6 | Bezugsrechtsausschluss gerechtfertigt? | Bei KE mit Bezugsrechtsausschluss: Sachliche Rechtfertigung (BGH Kali+Salz)? Verhältnismäßigkeit? Nicht diskriminierend? | Fehlt Rechtfertigung: Anfechtbarkeit; ggf. Unterlassungsklage |
+| 7 | Verfügungsanspruch formulieren | Was genau wird beantragt (Unterlassung, Stimmabgabe, Unterlassung der Anmeldung)? | Präziser Antrag ist Grundvoraussetzung für einstweilige Verfügung |
+| 8 | Verfügungsgrund glaubhaft machen | Eilbedürftigkeit: Würde Eintragung einen unwiderruflichen Schaden verursachen? Quantifizierung des drohenden Schadens? | Eidesstattliche Versicherung + Protokoll + Gutachten |
+| 9 | Schiedsklausel prüfen | Enthält der Gesellschaftsvertrag eine DIS-Schiedsklausel? | Bei Schiedsklausel: Eilrechtsschutz beim staatlichen Gericht trotzdem möglich (vorläufige Maßnahmen nicht ausgeschlossen); aber: Hauptsache zum Schiedsgericht |
+| 10 | Schlichtungspflicht prüfen | Gibt es eine Schlichtungspflicht vor Klage (Beirat)? Ausnahme bei Eilbedürftigkeit? | Eilanträge von Schlichtungspflicht regelmäßig ausgenommen |
+| 11 | Anfechtungsklage einreichen | Fristwahrung: Klage beim LG des Gesellschaftssitzes binnen 1 Monat ab Beschluss | Parallel zu Eilverfahren; Hauptverfahren läuft unabhängig |
+| 12 | Hauptverfahren | LG entscheidet über Anfechtbarkeit; typische Dauer: 6–18 Monate LG; ggf. OLG; BGH selten | Rechtskraft der Anfechtung beseitigt den Beschluss ex tunc |
+
+## Beweislast
+
+| Frage | Beweislast | Erläuterung |
+|---|---|---|
+| Beschluss anfechtbar (§ 243 AktG analog) | Kläger (Gesellschafter) | Nachweis des Gesetzes-/Satzungsverstoßes; Kausalität für Beschlussergebnis |
+| Beschluss nichtig (§ 241 AktG analog) | Kläger oder von Amts wegen | Nichtigkeitsgründe können jederzeit geltend gemacht werden |
+| Sachliche Rechtfertigung des Bezugsrechtsausschlusses | Gesellschaft / Mehrheitsgesellschafter | Mehrheitsgesellschafter muss sachliche Gründe darlegen (BGH Kali+Salz) |
+| Stimmverbot nicht verletzt (§ 47 Abs. 4 GmbHG) | Gesellschaft / Versammlungsleiter | Nachweis durch Protokoll (kein stimmbefangener Gesellschafter hat abgestimmt) |
+| Verfügungsanspruch und Verfügungsgrund (§ 920 ZPO) | Antragsteller (Glaubhaftmachung ausreichend) | Glaubhaftmachung durch Urkunden und eidesstattliche Versicherung |
+| Ordnungsgemäße Versammlungsleitung | Versammlungsleiter | Nachweis durch Protokoll; bei Streit über Leitungskompetenz: Mehrheitsbeschluss |
+
+## Fristen und Verjährung
+
+| Frist | Norm | Inhalt | Folge bei Versäumnis |
+|---|---|---|---|
+| Anfechtungsfrist GmbH-Beschluss | § 246 Abs. 1 AktG analog (BGH II ZR 41/96) | 1 Monat ab Beschlussfassung | Beschluss wird endgültig wirksam; Anfechtungsrecht erlischt |
+| Einstweilige Verfügung — Dringlichkeit | § 935 ZPO (Selbstverwirkung) | Zu lange Wartezeit nach Beschluss weckt Zweifel an Eilbedürftigkeit (typisch: > 4–6 Wochen = Dringlichkeit problematisch) | Verfügungsantrag kann wegen fehlender Eilbedürftigkeit zurückgewiesen werden |
+| Anmeldungs-Sperre | § 16 HGB; §§ 374 ff. FamFG | Unverzüglich nach Kenntnis der Anmeldungsabsicht | Nach Eintragung: Registersperre wirkungslos |
+| Widerspruch gegen Registersperre | FamFG | 1 Monat ab Beschluss des Registergerichts (§ 22 FamFG) | Beschluss des Registergerichts wird bestandskräftig |
+| Verjährung Schadensersatz aus Beschlussmangel | §§ 195, 199 BGB | 3 Jahre ab Kenntnis | Schadensersatzanspruch verjährt; Anfechtungsklage unabhängig |
+| Schiedsverfahren — Eilmaßnahmen DIS | DIS-Schiedsordnung 2021, Art. 29 | Notschiedsverfahren: kurzfristig | Eilschutz über DIS möglich, aber ungewohnt; staatliches Gericht schneller |
+
+## Typische Gegenargumente
+
+| Einwand | Begründung Gegenseite | Erwiderung |
+|---|---|---|
+| Bezugsrechtsausschluss sachlich gerechtfertigt | Strategischer Investor bringt Mehrwert (Technologie, Netzwerk) | Sachliche Rechtfertigung muss substantiiert dargelegt werden; pauschale Aussagen reichen nicht (BGH Kali+Salz); Verhältnismäßigkeit prüfen: Warum kein Bezugsrecht mit gleichem Ausgabepreis? |
+| Kein Verfügungsgrund, weil Hauptsache schnell entschieden | LG entscheidet zügig | Eintragung ins HR ist nicht rückgängig zu machen; unwiderrufliche Verwässerung ist irreversibler Schaden |
+| Schiedsklausel schließt staatlichen Eilrechtsschutz aus | Schiedsklausel erfasst alle Streitigkeiten | Vorläufige Maßnahmen vor staatlichen Gerichten bleiben trotz Schiedsklausel zulässig (§ 1041 ZPO); Eilantrag ist kein Einwand gegen Schiedsklausel |
+| Anfechtungsfrist abgelaufen | Beschluss vom Monat zurück | Prüfen, ob Nichtigkeitsgründe (§ 241 AktG analog) vorliegen — keine Frist; oder ob Frist wegen versteckten Beschlussmangels neu läuft |
+| Stimmverbot-Verstoß war nicht kausal | Mehrheit hätte auch ohne stimmbefangene Stimme bestanden | Kausalitätsprüfung: Stimmergebnis ohne stimmbefangene Stimme neu berechnen; bei Ja: keine Kausalität |
+| Versammlungsleiter war legitimiert | Mehrheitsbeschluss zur Wahl des Versammlungsleiters | Wenn kein wirksamer Mehrheitsbeschluss vor GV-Leiterwahl: Versammlungsleiter ohne Legitimation; Beschlüsse anfechtbar |
+
+## Typische Streit-Konstellationen
+
+| Konstellation | Eilmittel | Priorität |
+|---|---|---|
+| Kapitalerhöhung mit Bezugsrechtsausschluss vor Eintragung | eV beim LG + Anmeldungs-Sperre beim Registergericht | Innerhalb 48–72 Stunden |
+| GF-Abberufung soll sofort vollzogen werden | eV auf Unterlassung der Eintragung + eV auf Unterlassung der Abberufungswirkungen | Sofort; Abberufung wirkt ab Beschluss |
+| Versammlungsleiter umstritten | Neutralen Notar beauftragen; ggf. eV auf Besetzung | Vor Beginn der GV |
+| Streit über Beschlussfähigkeit / fehlendes Quorum | Protokoll anfechten; Feststellungsklage | Bis 1 Monat nach Beschluss |
+| Gesellschafter-Ausschluss (Einziehung) | Prüfung: § 34 GmbHG; sachliche Rechtfertigung (BGH BGHZ 164, 107); eV auf Aussetzung | Unverzüglich nach Bekanntgabe des Beschlusses |
+| StaRUG-Plan gegen Golden-Share-Veto | Golden Share greift nicht bei gesetzlicher Insolvenzantragspflicht; Klärung im StaRUG-Verfahren | Sofort bei StaRUG-Antrag |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Eilantrag im Gesellschafterstreit beantragen | Einstweilige Verfuegung nach Pruefschema; Template unten |
+| Variante A — Gesellschafterstreit durch Mediator loesbar | Mediation oder Schiedsverfahren zuerst; Eilantrag nur bei Dringlichkeit |
+| Variante B — Mehrheitsbeschluss wirksam aber schadlich | Anfechtungsklage statt Eilantrag; Eilantrag nur bei unmittelbarem Schaden |
+| Variante C — GmbH droht Insolvenz durch Streit | Insolvenzrecht pruefen; parallele Handlungsoptionen koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1: Antrag auf einstweilige Verfügung (Kapitalerhöhung mit Bezugsrechtsausschluss)
 
 ```
-Landgericht [Ort]
-Az. [...]
+An das
+Landgericht [Ort] — Kammer für Handelssachen
+[Anschrift]
 
-Verfuegungsklaeger:
-Gesellschafter B
-vertreten durch RAin Mueller
+[Ort, Datum]
 
-Verfuegungsbeklagte:
-[Firma] GmbH
-vertreten durch GF Mueller und Schmidt
+Antrag auf Erlass einer einstweiligen Verfügung
+im einstweiligen Rechtsschutz
 
-Antrag auf einstweilige Verfuegung
+Antragsteller:
+[Name des Minderheitsgesellschafters], [Anschrift]
+— Verfügungskläger —
+vertreten durch: [Kanzlei, Name]
 
-Es wird beantragt, der Verfuegungsbeklagten zu
-untersagen,
+Antragsgegnerin:
+[Gesellschaft] GmbH, [Sitz, HRB]
+vertreten durch Geschäftsführer [Name]
+— Verfügungsbeklagte —
 
-die Anmeldung der mit Beschluss der Gesellschafter-
-versammlung vom 15.06.2026 (TOP 2) beschlossenen
-Kapitalerhoehung um 10.000 EUR mit Bezugsrechtsaus-
-schluss zugunsten der Investor I AG beim Handels-
-register einzureichen,
+wird beantragt:
 
-bis zur rechtskraeftigen Entscheidung des in der
-Hauptsache anhaengigen Anfechtungsverfahrens.
+I. Der Verfügungsbeklagten wird es bei Meidung eines für jeden Fall der Zuwiderhandlung
+festzusetzenden Ordnungsgeldes bis zu 250.000 EUR (ersatzweise Ordnungshaft) untersagt,
+die Anmeldung der mit Beschluss der Gesellschafterversammlung vom [Datum] (TOP [N])
+beschlossenen Kapitalerhöhung um [X] EUR mit Bezugsrechtsausschluss zugunsten der
+[Investor GmbH] beim Handelsregister einzureichen oder dort eintragen zu lassen.
 
-Verfuegungsanspruch:
-1. Beschluss wurde unter Verstoss gegen die sachliche
-   Rechtfertigung des Bezugsrechtsausschlusses gefasst.
-2. Die behaupteten strategischen Beitraege der Investor
-   I AG sind nicht substantiiert.
-3. Verwaesserung der bestehenden Gesellschafter
-   betraegt 28 % und ist nicht verhaeltnismaessig.
+II. Hilfsweise: Das Registergericht [Ort] wird ersucht, die Eintragung der vorstehend
+bezeichneten Kapitalerhöhung bis zur rechtskräftigen Entscheidung in der Hauptsache
+auszusetzen.
 
-Verfuegungsgrund (Eilbeduerftigkeit):
-Mit Eintragung der Kapitalerhoehung im Handelsregister
-wird die Verwaesserung des Verfuegungsklaegers
-unwiderruflich. Im Verfahren der Hauptsache wuerde
-eine Rueckabwicklung nur unter Schwierigkeiten
-moeglich sein.
+Begründung:
+
+A. Verfügungsanspruch
+
+1. Der Beschluss der Gesellschafterversammlung vom [Datum] leidet an wesentlichen
+Mängeln und ist auf Antrag des Verfügungsklägers für nichtig zu erklären (Anfechtungs-
+klage ist beigefügt als Anlage K 1 / wird gleichzeitig eingereicht).
+
+2. Der Bezugsrechtsausschluss zugunsten der [Investor GmbH] ist sachlich nicht
+gerechtfertigt. Nach der Kali+Salz-Doktrin (BGH, Urt. v. 13.03.1978 – II ZR 142/76,
+BGHZ 71, 40) muss der Bezugsrechtsausschluss durch ein im Interesse der Gesellschaft
+liegendes, sachliches Ziel gerechtfertigt sein und der Verhältnismäßigkeit entsprechen.
+Die pauschale Behauptung eines „strategischen Mehrwerts" genügt diesen Anforderungen
+nicht.
+
+3. Der Antragsteller hält [X] % der Geschäftsanteile. Durch die Kapitalerhöhung würde
+seine Beteiligung auf [X - Δ] % verwässert. Der wirtschaftliche Schaden beläuft sich
+auf mindestens [EUR-Betrag] (vgl. Bewertungsgutachten Anlage K 2).
+
+B. Verfügungsgrund (Eilbedürftigkeit)
+
+4. Die [Gesellschaft] GmbH hat die Kapitalerhöhung bereits beim Handelsregister
+angemeldet (Anlage K 3: Anmeldungsurkunde vom [Datum]). Die Eintragung ist für
+die nächsten Tage zu erwarten.
+
+5. Mit der Eintragung wäre die Verwässerung des Antragstellers unwiderruflich vollzogen.
+Eine Rückabwicklung wäre nur unter erheblichen praktischen und rechtlichen
+Schwierigkeiten möglich.
+
+6. Die Eilbedürftigkeit ergibt sich aus der drohenden Eintragung. Der Antragsteller
+hat unverzüglich nach Kenntnis der Anmeldung (am [Datum]) diesen Antrag gestellt.
 
 Glaubhaftmachung:
-- Protokoll der GV (Anlage K1)
-- Sachstands-Bericht der Geschaeftsfuehrung
-  (Anlage K2)
-- Eigene eidesstattliche Versicherung (Anlage K3)
+- Anlage K 1: Protokoll der GV vom [Datum]
+- Anlage K 2: Bewertungsgutachten [Sachverständiger] vom [Datum]
+- Anlage K 3: Handelsregisteranmeldung vom [Datum] (Kopie)
+- Anlage K 4: Eidesstattliche Versicherung des Antragstellers
+
+[Ort, Datum]
+[Kanzlei / Rechtsanwalt/-anwältin]
 ```
 
-## 4) Anmeldungs-Sperre beim Registergericht
-
-### Konzept
-
-- Direkt beim Registergericht (Paragraf 16 II HGB)
-- FamFG-Verfahren (Paragrafen 374 ff. FamFG)
-- Schneller als LG, aber an Voraussetzungen geknuepft
-
-### Antrag
+### Baustein 2: Antrag auf Anmeldungs-Sperre beim Registergericht
 
 ```
-Amtsgericht [Sitz Gesellschaft] — Registergericht
-HRB [...]
+An das
+Amtsgericht [Ort] — Registergericht
+HRB [Nummer]
 
-Antrag auf Anmeldungs-Sperre Paragraf 16 II HGB
+[Ort, Datum]
 
-Antragsteller: Gesellschafter B
-Beteiligte: [Firma] GmbH
+Antrag auf Aussetzung der Eintragung
+nach §§ 374 ff. FamFG i.V.m. § 16 Abs. 2 HGB analog
 
-Es wird beantragt:
+Antragsteller: [Name], [Anschrift]
+Beteiligte: [Gesellschaft] GmbH, [Sitz], HRB [Nummer]
 
-Das Registergericht moege anordnen, dass die
-beabsichtigte Eintragung der Kapitalerhoehung vom
-15.06.2026 (Anmeldung durch Notar [...] vom [Datum])
-bis zur rechtskraeftigen Entscheidung des in der
-Hauptsache anhaengigen Anfechtungsverfahrens
-nicht erfolgt.
+Das Registergericht wird gebeten,
 
-Begruendung:
-[wie LG-Antrag]
+die Eintragung der Kapitalerhöhung der [Gesellschaft] GmbH gemäß Anmeldung des
+Notars Dr. [Name] vom [Datum] (Urkundsrollen-Nr. [Nummer]) bis zur rechtskräftigen
+Entscheidung über die beim Landgericht [Ort] (Az. [Nummer]) erhobene Anfechtungsklage
+auszusetzen.
+
+Begründung:
+
+Der Beschluss der Gesellschafterversammlung vom [Datum] ist anfechtbar, weil:
+1. Der Bezugsrechtsausschluss nicht sachlich gerechtfertigt ist (BGH BGHZ 71, 40).
+2. Das Stimmverbot nach § 47 Abs. 4 GmbHG nicht beachtet wurde (Gesellschafter
+   [Name] hat trotz Stimmverbots abgestimmt; Protokoll-Anlage A).
+
+Die Anfechtungsklage ist beim LG [Ort] erhoben worden (Anlage B: Klageschrift).
+
+Die Eintragung würde die Verwässerung des Antragstellers unwiderruflich machen.
+
+Glaubhaftmachung:
+- Anlage A: Protokoll der GV vom [Datum]
+- Anlage B: Anfechtungsklage LG [Ort]
+- Anlage C: Eidesstattliche Versicherung
+
+[Ort, Datum]
+[Kanzlei / Name]
 ```
 
-### Praxis
-
-- Registergericht entscheidet meist binnen Tagen
-- Bei begründetem Antrag: Sperre, GF kann nicht eintragen
-- Bei Ablehnung: Anmeldung erfolgt
-
-## 5) Streitige Gesellschafterversammlung — Versammlungsleiter
-
-### Konstellation
-
-- Versammlung beginnt, kein Konsens über Versammlungsleiter
-- Verschiedene Vorschläge, keine eindeutige Mehrheit
-- GF moechte als Versammlungsleiter fungieren, Minderheit will eigenen Kandidaten
-
-### Lösungs-Optionen
-
-#### Option 1: Wahl-Vorschlag durchsetzen
-
-- Mehrheits-Beschluss zur Wahl des Versammlungsleiters
-- Bei 51 %+ Mehrheit: durchsetzbar
-
-#### Option 2: Notar als neutralen Versammlungsleiter
-
-- Vorab bestellter Notar übernimmt Leitungs-Funktion
-- Beurkundet Versammlungsverlauf
-
-#### Option 3: Vertagung
-
-- Ohne Versammlungsleiter keine wirksame Beschlussfassung
-- Versammlung wird vertagt, Klärung im Anfechtungs-/Eilrechtsschutz
-
-#### Option 4: Mehrere Protokolle
-
-- Beide Seiten erstellen eigenes Protokoll
-- Streit verlagert sich in Anfechtungs-Verfahren
-
-→ `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter`
-
-## 6) Anfechtungsklage
-
-### Frist
-
-- **Monatsfrist** ab Beschluss (BGH-Linie analog Paragraf 246 AktG)
-- Versäumnis: Beschluss wird endgültig wirksam (außer bei Nichtigkeit Paragrafen 241, 249 AktG analog)
-
-### Antragsformulierung
+### Baustein 3: Anfechtungsklage (vollständige Klage)
 
 ```
-LG [Ort]
+An das
+Landgericht [Ort] — Kammer für Handelssachen
 
-Klage gegen Beschluss der GV
+[Ort, Datum]
+
+Klage
+
+Kläger:
+[Name], [Anschrift]
+— Kläger —
+vertreten durch: [Kanzlei, Name]
+
+Beklagte:
+[Gesellschaft] GmbH, [Sitz, HRB]
+— Beklagte —
 
 Klagantrag:
 
-Es wird festgestellt, dass der von der Gesellschafter-
-versammlung der Beklagten am 15.06.2026 unter TOP 2
-gefasste Beschluss zur Kapitalerhoehung um 10.000 EUR
-mit Bezugsrechtsausschluss zugunsten der Investor I AG
-nichtig ist, hilfsweise: dass der Beschluss aufgehoben
-wird (Anfechtung).
+Es wird beantragt, festzustellen, dass der von der Gesellschafterversammlung der
+Beklagten am [Datum] unter TOP [N] gefasste Beschluss über die Kapitalerhöhung um
+[X] EUR mit Bezugsrechtsausschluss zugunsten der [Investor GmbH]
 
-Klagegrund: Verstoss gegen die sachliche Rechtfertigung
-des Bezugsrechtsausschlusses Paragraf 55 IV GmbHG analog
-Paragraf 186 III AktG (Kali+Salz-Linie).
+        n i c h t i g     ist,
+
+hilfsweise:
+
+der Beschluss wird aufgehoben (Anfechtung).
+
+Streitwert: [Y] EUR (entspricht dem wirtschaftlichen Interesse des Klägers an der
+Aufhebung des Beschlusses, beziffert durch den Verwässerungsschaden von [EUR]).
+
+Begründung:
+
+I. Sachverhalt
+[Beschreibung der GV, Beschluss, Anteilsverhältnisse]
+
+II. Anfechtungsgrund
+1. Bezugsrechtsausschluss sachlich nicht gerechtfertigt (BGH BGHZ 71, 40)
+2. Stimmverbot verletzt (§ 47 Abs. 4 GmbHG)
+3. Verwässerungsschaden quantifiziert (Gutachten Anlage K 2)
+
+III. Rechtsfolge
+Der Beschluss ist gemäß §§ 241, 243 AktG analog nichtig / anfechtbar.
+Frist: Monatsfrist nach § 246 AktG analog gewahrt (Beschluss: [Datum];
+Klageerhebung: [Datum = heute]).
+
+Beweismittel:
+- Gesellschaftsvertrag (Anlage K 1)
+- Protokoll der GV (Anlage K 2)
+- Bewertungsgutachten (Anlage K 3)
+
+[Kanzlei / Name]
 ```
 
-### Anfechtbarkeit vs. Nichtigkeit
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
 
-| Mangel | Folge |
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Streitwert und Kosten
+
+| Streitgegenstand | Streitwertansatz | Kosten (Richtwert) |
+|---|---|---|
+| Anfechtungsklage GmbH-Beschluss | Wirtschaftliches Interesse des Klägers; bei KE: Verwässerungsschaden | Bei 500.000 EUR: RA-Gebühren 3 × 3.459 EUR = ca. 10.400 EUR; Gericht ca. 5.200 EUR |
+| Einstweilige Verfügung | Regelmäßig 1/3 bis 1/2 des Hauptsachestreitwerts | Bei 100.000 EUR: RA-Kosten ca. 1.700 EUR; Gericht ca. 850 EUR |
+| Anmeldungs-Sperre Registergericht | Geringer; FamFG-Verfahren | Kostenfestsetzung nach FamFG; oft < 500 EUR |
+| Schiedsverfahren DIS | Streitwertabhängig; DIS-Gebührenordnung | Bei 1 Mio. EUR: DIS-Verwaltungsgebühr ca. 15.000 EUR; Schiedsrichtergebühren additional |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
 |---|---|
-| Form- oder Verfahrensfehler | Anfechtbarkeit, Monatsfrist |
-| Schwere Verstöße (z.B. Sittenwidrigkeit) | Nichtigkeit, keine Frist |
-| Nicht eingeladene Gesellschafter | Nichtigkeit (BGH) |
-| Sondervetorecht missachtet | Anfechtbarkeit |
+| Kapitalerhöhung mit Bezugsrechtsausschluss angekündigt | Sofort anwaltliche Prüfung der sachlichen Rechtfertigung; parallele Einreichung von Verfügungsantrag + Anmeldungs-Sperre |
+| Gesellschafterstreit absehbar | Präventiv: Schiedsklausel (vertraulich), Schlichtungspflicht vor Klage, Beirat als Schlichter; Stimmverbots-Klauseln scharf definieren |
+| GF-Abberufung überraschend | Sofortige eV auf Fortsetzung der Amtsstellung bis zur Klärung; parallel Anfechtungsklage |
+| Kein schriftlicher Gesellschaftsvertrag (nur mündliche GbR) | Gesellschaftsvertrag dokumentieren; klare Beschlussmechanismen festlegen; Streitvermeidung durch schriftliche SHA |
+| Schiedsklausel bereits vereinbart | Staatliche Eilmaßnahmen trotzdem möglich (§ 1041 ZPO); aber Hauptsache zum Schiedsgericht; Eilverfahren beim LG parallel einleiten |
 
-## 7) Streit-Vermeidung durch Prevention
+## Präventive Klauseln (Streitvermeidung)
 
-### Praeventive Klauseln in Satzung / SHA
+| Klausel | Wirkung | Empfehlung |
+|---|---|---|
+| Schlichtungspflicht vor Klage | Bezirksratspflicht beim Beirat; Ausnahme für Eilanträge | Senkt Eskalationskosten; Notarlösung als neutrale Schlichterrolle |
+| DIS-Schiedsklausel | Vertrauliches Verfahren; fachkundige Schiedsrichter | Standard bei internationalem Gesellschafterkreis |
+| Vorab-Bestellung neutraler Notar als Versammlungsleiter | Kein Streit über Versammlungsleitung | Bei absehbaren GV-Konflikten |
+| Stimmverbots-Schärfung (SHA) | Klare Definition der Stimmverbotstatbestände jenseits § 47 Abs. 4 GmbHG | Individuelle Ergänzung möglich; aber Satzung hat Vorrang |
+| Anti-Dilution-Klausel (SHA) | Schutz vor Down-Round-Verwässerung | Wichtigste präventive Maßnahme für Minderheitsinvestoren |
 
-- **Schiedsklausel** (mit DIS-Schiedsordnung typisch)
-- **Mediations-Pflicht** vor Klage
-- **Vorab-Bestellung** eines neutralen Notars / Schlichters
-- **Pönalen** bei Stimmverstoß → `gesellschaftsgruender-sha-satzung-stimmverpflichtung`
+## Anschluss-Skills
 
-### Beirat als Streit-Loeser
+- `gesellschaftsgruender-klauselkatalog-bilingual` — Stimmverbots-, Drag-Along-, Schiedsklauseln
+- `gesellschaftsrecht:aufsichtsrat-protokoll` — Korrekte Dokumentation streitiger GV
+- `gesellschaftsrecht:gesellschaftsrecht-mandat-arbeitsbereich` — Mandatsworkspace für Gesellschafterstreit
+- `gesellschaftsgruender-rechtsformwahl` — Präventive Rechtsformwahl zur Streitvermeidung
 
-- Beirat kann bei Patt zwischen Gesellschaftern als Schlichter fungieren
+## Quellen und Zitierweise
 
-→ `gesellschaftsgruender-beirat-advisory-board`
+- §§ 935 ff. ZPO (Einstweilige Verfügung)
+- § 16 Abs. 2 HGB analog (Registersperre)
+- §§ 374 ff. FamFG (Registersachen)
+- §§ 241, 243, 246 AktG analog (Beschlussmängel GmbH)
+- § 47 Abs. 4 GmbHG (Stimmverbot)
+- § 55 Abs. 4 GmbHG (Bezugsrecht bei Kapitalerhöhung)
+- § 894 ZPO (Klage auf Willenserklärung)
 
-## 8) Konkrete Verfahrens-Schritte beim Konflikt
+Zitierweise nach `../../references/zitierweise.md`.
 
-### Tag 0: Beschluss-Fassung
-
-- Streitiger Beschluss wird gefasst
-- Protokoll wird erstellt (ggf. mehrere)
-
-### Tag 0-2: Sofort-Maßnahmen
-
-- Anwalt einschalten
-- Beschluss prüfen (Form, Inhalt, Mehrheits-Berechnung)
-- Eilbedürftigkeit prüfen (drohende Eintragung im HR?)
-
-### Tag 2-5: Eilantrag
-
-- Einstweilige Verfügung beim LG **und/oder**
-- Anmeldungs-Sperre beim Registergericht
-- Glaubhaftmachung mit eidesstattlicher Versicherung
-
-### Tag 5-30: Reaktion
-
-- Gegen-Stellungnahme der Gesellschaft / Mehrheits-Gesellschafter
-- LG entscheidet über EV (meist binnen 2 Wochen)
-- Registergericht entscheidet schneller (binnen Tagen)
-
-### Tag 0-30: Anfechtungsklage
-
-- Klage muss binnen 1 Monat ab Beschluss erhoben werden
-- Hauptverfahren läuft parallel zum Eilrechtsschutz
-
-### Hauptverfahren
-
-- LG entscheidet über Anfechtbarkeit (Dauer typisch 6-18 Monate)
-- Berufung OLG möglich
-- Revisionszulassung selten
-
-## 9) Schiedsklausel-Alternative
-
-### Statt LG
-
-```
-Alle Streitigkeiten aus oder im Zusammenhang mit
-diesem Gesellschaftsvertrag und ihrem Bestand werden
-nach der Schiedsgerichtsordnung der Deutschen
-Institution fuer Schiedsgerichtsbarkeit (DIS) ohne
-Beschreiten des ordentlichen Rechtsweges endgueltig
-entschieden. Schiedsort ist [Stadt]. Schiedssprache
-ist Deutsch.
-```
-
-### Vorteile
-
-- Vertraulichkeit
-- Schnelleres Verfahren (typisch 6-12 Monate)
-- Fachkundige Schiedsrichter
-
-### Nachteile
-
-- Höhere Kosten
-- Eilrechtsschutz schwieriger (DIS-Notschiedsverfahren möglich, aber ungewohnter)
-
-## 10) Praktische Empfehlung
-
-- **Bei Anzeichen** des Konflikts sofort Anwalt einschalten
-- **Beschluss dokumentieren** mit allen Details (Anwesenheit, Stimmenverhalten)
-- **Eilrechtsschutz** parallel: LG **und** Registergericht
-- **Anfechtungsfrist** beachten (1 Monat ab Beschluss)
-- **Schiedsklausel** im Vorfeld als Prävention
-
-## Anschluss
-
-- `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — Versammlungsleiter
-- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — typischer Streit-Anlass
-- `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Stimmverpflichtungs-Streit
-- `gesellschaftsgruender-golden-share-und-vetorechte` — Vetorecht-Streit
+Kommentarliteratur:
+- Scholz, GmbHG, 13. Aufl. 2024, § 47 Rn. 110 ff.; § 55 Rn. 80 ff.
+- Roth/Altmeppen, GmbHG, 11. Aufl. 2024, § 43 Rn. 1 ff.
+- BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine) — Beschlussmängelklage GmbH.
+- BGH, Urt. v. 13.03.1978 – II ZR 142/76, BGHZ 71, 40 (Kali+Salz) — Bezugsrechtsausschluss.
+- BGH, Urt. v. 19.09.2005 – II ZR 173/04, BGHZ 164, 107 — Hinauskündigungsgrenze.

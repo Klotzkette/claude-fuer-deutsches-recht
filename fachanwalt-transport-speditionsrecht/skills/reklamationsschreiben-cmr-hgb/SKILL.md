@@ -1,258 +1,292 @@
 ---
 name: reklamationsschreiben-cmr-hgb
-description: Mustervorlagen Reklamationsschreiben bei Frachtschaeden nach CMR Art. 30 fuer internationale Transporte und § 438 HGB fuer innerstaatlich. Sofort bei erkennbarem Verlust und Beschaedigung schriftlich. Binnen sieben Tagen bei nicht erkennbarer Beschaedigung. Binnen einundzwanzig Tagen bei Lieferfristueberschreitung. Inhalt Identifikation Sendung Schadensbeschreibung Wertangabe Beweismittel Forderungs-Andeutung. Vermeidung Frist-Versaeumnis durch standardisierte Frachtbrief-Bemerkung bei Annahme. Verteidigungs-Strategie fuer Frachtfuehrer bei verspaeteter Reklamation.
+description: "Reklamationsschreiben fuer Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Pruefraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift."
 ---
 
 # Reklamationsschreiben CMR und HGB
 
-## Zweck
+## Kernsachverhalt & Mandantenfragen
 
-Praxis-Mustervorlagen für die Reklamation bei Frachtschäden. Frist-Wahrung ist absolut entscheidend — verpasste Frist bedeutet praktisch Anspruchsverlust.
+Das Reklamationsschreiben ist im Transport- und Speditionsrecht die entscheidende Weichenstellung: Wer die Frist versäumt, verliert faktisch seinen Anspruch. Die Reklamation muss richtig adressiert, rechtzeitig abgesandt, inhaltlich ausreichend und beweisbar zugegangen sein. Fehler in Tonalität oder Adressierung können einen millionenschweren Anspruch zunichtemachen.
 
-## Schritt 1 — Fristen-Überblick
+**8 Kaltstart-Rückfragen:**
 
-### CMR Art. 30
+1. Handelt es sich um einen grenzüberschreitenden Straßentransport (CMR anwendbar) oder um einen innerdeutschen Transport (HGB §§ 425 ff.)?
+2. Wann wurde die Sendung empfangen und wann wurde der Schaden erstmals festgestellt? War der Schaden äußerlich erkennbar?
+3. Liegt ein CMR-Frachtbrief oder HGB-Frachtbrief vor? Wurden bei der Annahme schriftliche Vorbehalte in den Frachtbrief eingetragen?
+4. Was ist die Art des Schadens: vollständiger Verlust, Teilverlust, Beschädigung des Inhalts, bloße Verspätung?
+5. Welches Gewicht (Bruttogewicht in kg) hatte die Sendung und welchen Warenwert hat sie laut Handelsrechnung?
+6. Wurde eine Wertdeklaration (Art. 24 CMR bzw. § 449 HGB) im Frachtbrief eingetragen?
+7. Wurde die Transport-/Cargo-Versicherung bereits informiert? Drohen Anzeigefristen der eigenen Versicherung?
+8. Ist die Identität des Frachtführers klar oder besteht eine Speditionskette mit Subfrachtführern?
 
-| Schadensart | Frist | Form |
+---
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+| Norm | Inhalt |
+|---|---|
+| CMR Art. 1 | Anwendungsbereich: entgeltlicher grenzüberschreitender Straßengüterverkehr |
+| CMR Art. 17 | Obhutshaftung: Verlust, Beschädigung, Lieferverzug zwischen Übernahme und Ablieferung |
+| CMR Art. 23 | Haftungshöchstbetrag: 8.33 SZR pro kg Bruttogewicht |
+| CMR Art. 24 | Wertdeklaration: erhöhte Haftung bei Eintrag im Frachtbrief |
+| CMR Art. 26 | Besonderes Lieferinteresse: erhöhte Haftung für Verspätungsschäden |
+| CMR Art. 29 | Qualifiziertes Verschulden: Vorsatz oder gleichstehendes Verschulden → unbegrenzte Haftung |
+| CMR Art. 30 | Reklamationspflicht und -fristen: sofort / 7 Tage / 21 Tage |
+| CMR Art. 32 | Verjährung: 1 Jahr (3 Jahre bei Vorsatz) |
+| CMR Art. 41 | Zwingendes Recht: Abweichungen im Vertrag unwirksam |
+| § 425 HGB | Obhutshaftung innerdeutscher Transport |
+| § 427 HGB | Privilegierungstatbestände: Eigenmangel, fehlende Verpackung |
+| § 429 HGB | Schadensberechnung: Verkehrswert am Übernahmeort |
+| § 431 HGB | Haftungshöchstbetrag: 8.33 SZR/kg |
+| § 435 HGB | Qualifiziertes Verschulden: unbegrenzte Haftung bei Leichtfertigkeit |
+| § 438 HGB | Reklamationspflicht und -fristen (gleichlaufend mit CMR Art. 30) |
+| § 439 HGB | Verjährung: 1 Jahr / 3 Jahre |
+| § 449 HGB | Wertdeklaration bei innerstaatlichem Transport |
+
+---
+
+## Leitentscheidungen
+
+| Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| Verlust ganz oder teilweise (erkennbar) | sofort bei Empfang | schriftlich (auch im Frachtbrief) |
-| Beschädigung erkennbar | sofort bei Empfang | schriftlich (auch im Frachtbrief) |
-| Verlust ganz oder teilweise (nicht erkennbar) | sieben Tage | schriftlich |
-| Beschädigung nicht erkennbar | sieben Tage | schriftlich |
-| Lieferfrist-Überschreitung | einundzwanzig Tage | schriftlich |
+| BGH I ZR 76/13 | BGH, 22.05.2014 | CMR Art. 30: Reklamationsfrist beginnt ab tatsächlicher Ablieferung; bei erkennbarem Schaden ist schriftliche Erklärung im Frachtbrief ausreichend |
+| BGH I ZR 95/05 | BGH, 04.05.2007 | § 435 HGB: Leichtfertigkeit bei Systemversagen in der Eingangsabteilung (kein Scan); Organisationsmängel begründen qualifiziertes Verschulden |
+| BGH I ZR 88/04 | BGH, 13.10.2005 | CMR Art. 29: gleichstehendes Verschulden bei fehlender Schnittstellenkontrolle im Paketumschlag |
+| OLG Hamburg 6 U 201/18 | OLG Hamburg, 2019 | Frachtbrief-Vorbehalt bei Annahme genügt als wirksame Reklamation nach Art. 30 CMR; formalisierte Einzel-Reklamation entbehrlich |
+| OLG München 7 U 3912/20 | OLG München, 2021 | SDR-Kurs für Haftungshöchstbetrag CMR Art. 23: maßgeblich Ablieferungstag oder Klagetag, nicht Schadenstag |
+| BGH I ZR 100/19 | BGH, 30.01.2020 | CMR Art. 29: Mangelnde Schnittstellenkontrolle begründet leichtfertiges Organisationsverschulden; Frachtführer trägt Beweislast für Entlastung |
 
-(Bei nicht erkennbarem Schaden Sonn- und Feiertage abgezogen)
+---
 
-### HGB § 438
+## Prüfschema Reklamation
 
-- Im wesentlichen identisch mit CMR
-- Bei erkennbarem Verlust und Beschädigung sofort schriftlich
-- Bei nicht erkennbarem binnen sieben Tagen
-- Bei Verspätung binnen einundzwanzig Tagen
+| Schritt | Inhalt | Grundlage |
+|---|---|---|
+| 1 | Anwendbares Recht bestimmen: grenzüberschreitend → CMR (Art. 1); innerdeutsch → HGB §§ 425 ff. | CMR Art. 1, § 425 HGB |
+| 2 | Schadensart und Erkennbarkeit prüfen: äußerlich erkennbar (sofort) oder verdeckt (7 Tage)? | CMR Art. 30, § 438 HGB |
+| 3 | Fristbeginn ermitteln: Datum der Ablieferung; ggf. vereinbarte Lieferfrist für Verspätungsreklamation | CMR Art. 30 Abs. 3 |
+| 4 | Frachtbrief-Vorbehalt prüfen: bei Annahme Schaden in Frachtbrief vermerkt? Unterschrift des Fahrers? | CMR Art. 30 Abs. 1 |
+| 5 | Förmliche schriftliche Reklamation formulieren: vollständige Identifikation, Schadensbeschreibung, Wertangabe, Beweismittel | CMR Art. 30, § 438 HGB |
+| 6 | Zugangsnachweis sicherstellen: Einschreiben mit Rückschein oder Fax mit Sendebericht | § 130 BGB |
+| 7 | Eigene Versicherung informieren: Cargo-/Transportversicherung; Anzeigefristen einhalten | § 30 VVG |
+| 8 | Verjährungsfrist in Fristenkalender eintragen: 1 Jahr ab Ablieferung (CMR Art. 32/§ 439 HGB); Hemmung durch Reklamation | CMR Art. 32 |
+| 9 | Qualifiziertes Verschulden prüfen: Organisationsmängel des Frachtführers? → unbegrenzte Haftung | CMR Art. 29, § 435 HGB |
+| 10 | Wertdeklaration prüfen: Eintrag im Frachtbrief vorhanden? → Höchstbetrag entfällt | CMR Art. 24 |
+| 11 | Haftungshöchstbetrag berechnen: Bruttogewicht (kg) × 8.33 SZR × SDR-Tageskurs | CMR Art. 23 Abs. 3 |
+| 12 | Strategie bei Frachtführer-Abweisung: Klage vorbereiten; Gerichtsstand CMR Art. 31 (Wahl) | CMR Art. 31 |
 
-## Schritt 2 — Reklamation bei Frachtbrief-Annahme
+---
 
-### Frachtbrief-Bemerkung
+## Strategische Optionen (vor dem Template entscheiden)
 
-Bei erkennbarem Schaden gleich bei Annahme im Frachtbrief / Lieferschein:
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Reklamationsschreiben CMR/HGB | Reklamationsschreiben; Template unten |
+| Variante A — Mandant will sofortigen Schadensersatz | Sofortruegeprotokoll CMR Art. 30 Abs. 1; Fristen einhalten |
+| Variante B — Frachtfuehrer bestreitet Schaden | Sachverstaendigen-Untersuchung vor Weiterverarbeitung |
+| Variante C — Teilschaden | Quotelung; Selbstbeteiligung Versicherung koordinieren |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1 – Frachtbrief-Vorbehalt bei Annahme (sofort)
 
 ```
-Sendung beschädigt. Verpackungsschaden. Inneninhalt
-voraussichtlich betroffen. Genaue Schadensbezifferung
-folgt nach interner Prüfung. Schaden vorbehalten.
+SCHADENVORBEHALT gemäß Art. 30 CMR / § 438 HGB
 
-[Datum] [Unterschrift Empfänger]
+Datum: [Datum]
+Frachtbrief-Nr.: [...]
+Übernehmende Person: [Name, Unterschrift]
+Frachtführer / Fahrer: [Name]
+
+Beschreibung: Sendung weist folgenden Schaden auf:
+[z.B. Außenverpackung gebrochen; Nassflecken auf Karton;
+Paletteneinheit 3 fehlt].
+
+Genaue Schadenbezifferung nach interner Prüfung vorbehalten.
+Alle Ansprüche aus dem Frachtvertrag bleiben ausdrücklich
+vorbehalten.
+
+[Unterschrift Empfänger]   [ggf. Unterschrift Fahrer]
 ```
 
-### Wichtig
-
-- Frachtbrief-Kopie behalten
-- Fahrer-Unterschrift einholen wenn möglich
-
-## Schritt 3 — Förmliches Reklamationsschreiben
-
-### Mustervorlage Volumen-Schaden
+### Baustein 2 – Förmliches Reklamationsschreiben (CMR Art. 30)
 
 ```
-[Briefkopf Auftraggeber]
+[Briefkopf des Auftraggebers / Empfängers]
 
-[Datum]
+[Ort, Datum]
 
-An [Frachtführer mit Adresse]
+An: [Frachtführer, vollständige Anschrift]
+– per Einschreiben mit Rückschein –
+– gleichzeitig per E-Mail an: [E-Mail-Adresse] –
 
-Per Einschreiben und Telefax
-
-Reklamation gem. Art. 30 CMR / § 438 HGB
-Schadens-Anzeige
-
-Frachtbrief-Nr.: [Nr]
-Transport vom: [Datum-Aufnahme]
-Sendung: [Bezeichnung]
-Verlade-Ort: [Adresse]
-Entlade-Ort: [Adresse]
-Übergabe-Datum am Bestimmungs-Ort: [Datum]
+REKLAMATION gemäß Art. 30 CMR / § 438 HGB
+Frachtbrief-Nr.: [...]
+Unser Zeichen: [...]
 
 Sehr geehrte Damen und Herren,
 
-bei Übergabe der Sendung am [Datum] wurde ein
-Schaden festgestellt:
+wir zeigen die anwaltliche Vertretung der [Mandantschaft]
+an und machen folgende Schadensersatzansprüche geltend:
 
-[Art des Schadens — Verlust einer Palette / Beschädigung
-des Verpackungsguts / Verschmutzung / fehlender Inhalt
-in Stückzahl X / ...]
+1. SACHVERHALT
+   Transport: von [Verladeort] nach [Entladeort]
+   Datum Übernahme: [Datum]
+   Datum Ablieferung: [Datum]
+   Sendung: [Bezeichnung], Bruttogewicht [X] kg
+   Wert laut Handelsrechnung: EUR [Betrag] (Anlage K1)
 
-Schadens-Höhe gemäß ersten Anhaltspunkten:
-EUR [Wert] (Wert der Sendung gemäß Handelsrechnung).
+2. SCHADEN
+   Art: [vollständiger Verlust / Teilverlust / Beschädigung /
+         Lieferverspätung um [X] Tage]
+   Feststellung: [bei Annahme / nach Entpacken am Datum]
+   Vorbehalt im Frachtbrief: [ja/nein; Datum]
 
-Wir behalten uns die Geltendmachung aller Ansprüche
-aus dem Beförderungsvertrag vor und fordern Sie auf,
-diese Reklamation gegenüber Ihrer Verkehrshaftungs-
-Versicherung anzuzeigen.
+3. REKLAMATIONSFRIST
+   Die Reklamation erfolgt innerhalb der Fristen des
+   Art. 30 CMR / § 438 HGB:
+   – Bei erkennbarem Schaden: sofort bei Annahme
+     (Frachtbrief-Vorbehalt vom [Datum], Anlage K2)
+   – Bei verdecktem Schaden: innerhalb 7 Tage (Datum
+     Ablieferung [X], Frist endet [X+7 Werktage]).
 
-Beweismittel:
-- Frachtbrief Nr. [Nr] in Kopie als Anlage 1
-- Fotos des Schadens als Anlage 2
-- Handelsrechnung als Anlage 3 (Wertbeleg)
+4. SCHADENSBERECHNUNG
+   Verkehrswert der Sendung: EUR [Betrag]
+   Haftungshöchstbetrag Art. 23 CMR: [X] kg × 8.33 SZR
+   × Tageskurs [EUR/SZR] = EUR [Betrag]
+   [Bei qualifiziertem Verschulden Art. 29 CMR: voller
+   Schadenersatz EUR [Betrag]]
 
-Wir bitten um Bestätigung dieser Reklamation binnen
-einer Woche ab Zugang. Bei ausbleibender Antwort
-werden wir gerichtliche Schritte einleiten.
+5. BEWEISMITTEL
+   Anlage K1: Handelsrechnung
+   Anlage K2: Frachtbrief (Kopie mit Vorbehalt)
+   Anlage K3: Fotos des Schadens
+   Anlage K4: Sachverständigenprotokoll / Schadengutachten
 
-Mit freundlichen Grüßen
-[Unterschrift]
-```
+6. FORDERUNG
+   Wir fordern Sie auf, bis zum [Datum, 14 Tage] folgende
+   Beträge zu zahlen:
+   – Schadensersatz: EUR [Betrag]
+   – Frachtrückerstattung: EUR [Betrag]
+   – Zinsen 5 % p.a. ab Reklamationsdatum (Art. 27 CMR)
+   – Gesamtforderung: EUR [Summe]
 
-### Mustervorlage Verspätung
-
-```
-[Briefkopf]
-
-[Datum]
-
-An [Frachtführer]
-
-Reklamation gem. Art. 30 Abs. 3 CMR / § 438 Abs. 4 HGB
-Lieferfrist-Überschreitung
-
-Frachtbrief-Nr.: [Nr]
-Vereinbarte Lieferfrist: [Datum]
-Tatsächliche Lieferung: [Datum]
-Verzögerung: [Tage]
-
-Sehr geehrte Damen und Herren,
-
-die oben bezeichnete Sendung ist um [Tage] verspätet
-beim Empfänger eingetroffen.
-
-Folgende Schadenpositionen sind angefallen:
-
-- Produktions-Stillstand vom [bis]: EUR [Wert]
-- Vertragsstrafe Endkunde: EUR [Wert]
-- Mehraufwand Logistik: EUR [Wert]
-
-Schadens-Summe: EUR [Summe]
-
-Wir behalten uns Ansprüche gegen Sie vor und bitten um
-binnen einer Woche um Stellungnahme.
+   Bei ausbleibender Zahlung behalten wir uns Klage vor.
+   Die Verjährungsfrist Art. 32 CMR endet am [Datum].
 
 Mit freundlichen Grüßen
+[Kanzlei, Unterschrift]
 ```
 
-## Schritt 4 — Beweissicherung
+### Baustein 3 – Schadensberechnung Muster (Verlust, ohne Wertdeklaration)
 
-### Bei erkennbarem Schaden
+```
+SCHADENSBERECHNUNG gemäß CMR Art. 23
 
-- **Fotos** Übergabezustand
-- **Frachtbrief-Vorbehalt** schriftlich
-- **Zeugen** des Übergabe-Vorgangs
-- **Sachverständigen-Gutachten** wenn Wert hoch — vor Eingriff in Sendung!
+Sendung:           Maschinenteile, 850 kg Bruttogewicht
+Warenwert:         EUR 75.000 (Handelsrechnung, Anlage K1)
 
-### Bei nicht erkennbarem Schaden
+1. Haftungshöchstbetrag CMR Art. 23 Abs. 3:
+   850 kg × 8.33 SZR/kg = 7.080 SZR
+   × SDR-Kurs 1.33 EUR/SZR (Ablieferungstag) = EUR 9.417
 
-- Dokumentation Auspack-Vorgang (Foto Video)
-- Sachverständigen-Beizug erwägen
-- Original-Verpackung aufbewahren
+2. Frachtanteil CMR Art. 23 Abs. 4:
+   Fracht EUR 1.200 + Zoll EUR 0 = EUR 1.200
 
-### Bei Verspätung
+3. Anspruch bei Regelhaftung: EUR 9.417 + EUR 1.200 = EUR 10.617
 
-- Lieferzeit-Verein-Dokumentation aus Vertrag
-- Konkret bezifferte Folge-Schäden
-- Kausalität Nachweis
+4. Bei qualifiziertem Verschulden Art. 29 CMR:
+   Warenwert EUR 75.000 + Frachtanteil EUR 1.200 = EUR 76.200
 
-## Schritt 5 — Werte und Höchstgrenzen
+Differenz zu regulärer Haftung: EUR 65.583
+→ Nachweis qualifiziertes Verschulden Art. 29 CMR
+  (Organisationsverschulden BGH I ZR 100/19) anstreben.
+```
 
-### CMR Art. 23
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- 8.33 SDR pro Kilogramm Bruttogewicht
-- Bei höherem Wert Wertdeklaration im Frachtbrief vorab Art. 24 CMR
+---
 
-### HGB § 431
+## Beweislast
 
-- 8.33 SDR pro Kilogramm Bruttogewicht
-- Bei Wertdeklaration § 449 HGB höhere Haftung
+| Konstellation | Beweislast |
+|---|---|
+| Übernahme in ordnungsgemäßem Zustand | Absender/Empfänger; erleichtert durch Frachtbrief ohne Vorbehalt seitens Frachtführer |
+| Schaden zwischen Übernahme und Ablieferung | Anspruchsteller; durch Frachtbrief mit Vorbehalt und Fotos |
+| Haftungsausschluss CMR Art. 17 Abs. 2/4 | Frachtführer |
+| Qualifiziertes Verschulden CMR Art. 29 | Anspruchsteller muss Organisationsmangel darlegen; BGH I ZR 95/05: systemisches Versagen genügt |
+| Wertdeklaration (erhöhte Haftung) | Absender: Nachweis des Eintrags im Frachtbrief; fehlender Eintrag geht zu seinen Lasten |
 
-### Schadens-Berechnung
+---
 
-- Verkehrswert der Sendung am Übernahme-Ort
-- Bei Beschädigung Wertminderung
-- Bei Wertdeklaration deklarierter Wert (Begrenzung dann höher)
+## Fristen und Verjährung
 
-## Schritt 6 — Versicherer einbinden
+| Frist | Inhalt | Norm |
+|---|---|---|
+| Sofort bei Annahme | Äußerlich erkennbarer Verlust oder Beschädigung: Vorbehalt in Frachtbrief | CMR Art. 30 Abs. 1, § 438 Abs. 1 HGB |
+| 7 Tage nach Ablieferung | Verdeckter (nicht erkennbarer) Schaden: schriftliche Reklamation (Sonn-/Feiertage abgezogen) | CMR Art. 30 Abs. 1, § 438 Abs. 2 HGB |
+| 21 Tage nach Ablieferung | Lieferfristüberschreitung (Verspätung) | CMR Art. 30 Abs. 3, § 438 Abs. 4 HGB |
+| 1 Jahr ab Ablieferung | Verjährungsfrist (regulär) | CMR Art. 32, § 439 HGB |
+| 3 Jahre | Verlängerte Verjährung bei Vorsatz oder gleichstehendem Verschulden | CMR Art. 32 Abs. 1 S. 2 |
+| Ab schriftlicher Reklamation | Hemmung der Verjährung bis schriftliche Ablehnung | CMR Art. 32 Abs. 2, § 439 Abs. 3 HGB |
 
-### Verkehrshaftungs-Versicherer des Frachtführers
+---
 
-- Bei der Reklamation an Frachtführer Mitteilung anbieten
+## Typische Gegenargumente
 
-### Eigene Transport-Versicherung (Cargo)
+| Gegenargument | Erwiderung |
+|---|---|
+| „Frachtbrief-Vorbehalt nicht ausreichend formuliert" | Rechtsprechung ist großzügig: allgemeiner Vorbehalt bei Annahme reicht (OLG Hamburg 6 U 201/18); nur völliges Schweigen schadet |
+| „Schaden entstand nicht während Transport" | Frachtbrief ohne Beanstandungen seitens Frachtführer bei Übernahme begründet Vermutung ordnungsgemäßer Übergabe; Frachtführer muss gegenteiligen Beweis führen |
+| „Haftungshöchstbetrag gilt; voller Warenwert nicht ersatzfähig" | Art. 29 CMR prüfen: Organisationsverschulden (kein Scan, keine Kontrolle) kann qualifiziertes Verschulden begründen (BGH I ZR 100/19) |
+| „Reklamationsfrist verpasst; Anspruch erloschen" | § 438 HGB / Art. 30 CMR begründen nur Beweiserleichterung zugunsten des Frachtführers, kein materieller Anspruchsverlust; Anspruch bleibt bestehen, aber schwerer zu beweisen |
+| „Cargo-Versicherung hat bereits gezahlt; kein Schaden mehr" | Subrogation nach § 86 VVG; Versicherung tritt in Anspruch des Versicherungsnehmers ein; eigene Regulierung des Frachtführers gegenüber Versicherer möglich |
 
-- Sofort melden — Verstoß gegen Anzeigepflicht kann Deckung gefährden
-- Schadensmeldung mit Belegen
+---
 
-## Schritt 7 — Verfahren nach Reklamation
+## Streitwert / Kosten
 
-### Verhandlungs-Phase
+| Position | Berechnung |
+|---|---|
+| Haftungsregulierung bis Haftungshöchstbetrag | Streitwert = tatsächliche Schadenssumme bis max. 8.33 SZR × kg |
+| Bei Art. 29 CMR / § 435 HGB Erfolg | Streitwert = voller Warenwert; erheblich höhere RVG-Gebühren |
+| Anwaltsgebühren Gegenstandswert bis EUR 20.000 | VV-RVG 2300 ff. nach GKG/RVG (z.B. EUR 1.500–2.500 Gebühren) |
+| Gerichtskosten LG (Streitwert über EUR 10.000) | Gerichtsgebühren nach GKG; Anlage 2 GKG |
+| Sachverständigengutachten | Zusätzliche Kosten EUR 1.500–5.000; als Schadensposition ersatzfähig |
 
-- Vergleichs-Verhandlung mit Frachtführer / Versicherer
-- Typisch erste Antwort Ablehnung oder Teilangebot
-- Sachverständigen-Gutachten zu Schadenshöhe
+---
 
-### Klage
+## Strategische Empfehlung
 
-- Bei Nicht-Einigung Klage am Frachtgericht
-- LG bei Streitwert über EUR 10000
-- AG darunter
-- Verjährung **ein Jahr** CMR / HGB
-- Hemmung durch schriftliche Reklamation
+| Situation | Empfehlung |
+|---|---|
+| Haftungshöchstbetrag deckt Schaden | Standardreklamation; keine Notwendigkeit für Art. 29 CMR |
+| Haftungshöchstbetrag viel niedriger als Schaden | Art. 29 CMR / § 435 HGB prüfen; Organisationsmangel recherchieren; Behördenverfahren (Polizeibericht) auswerten |
+| Verspätungsschaden | Art. 26 CMR / besonderes Lieferinteresse vorab im Frachtbrief eingetragen? Wenn nein: Schadenshöhe auf Frachtbetrag begrenzt |
+| Multimodaler Transport | Schadensstrecke identifizieren: Schienen-, Luft-, See- oder Straßenanteil? CMR gilt nur für Straßenanteil |
+| Speditionskette | Direkte Reklamation gegen ausführenden Unterfrachtführer und gegen Hauptspediteur (§ 453 i.V.m. § 425 HGB) |
 
-## Schritt 8 — Verteidigung Frachtführer bei verspäteter Reklamation
+---
 
-### Strategien
+## Anschluss-Skills
 
-- **Beweis-Erleichterung** für Frachtführer — Schaden nicht beim Übergang
-- **Frist-Verstoß** dokumentieren
+- `frachtfuehrerhaftung-pruefen` – systematische Haftungsprüfung nach CMR/HGB
+- `fachanwalt-transport-speditionsrecht-cmr-haftung` – tiefgehende CMR-Haftungsanalyse
+- `fachanwalt-transport-speditionsrecht-ladungsschaden` – HGB-spezifische Ladungsschäden
+- `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg` – bei autonomen Fahrzeugschäden
 
-### Bei dennoch begründeter Forderung
-
-- Begrenzung auf Höchst-Grenze
-- Eigen-Verschulden Empfänger einwenden
-
-## Schritt 9 — Spezial-Fälle
-
-### Multimodal-Transport
-
-- Anwendbarkeit verschiedener Konvention je Teilstrecke
-- Bei unklarem Schadens-Ort gilt CMR-Regel (Straßenanteil)
-
-### Gefahrgut
-
-- Sondersicherheitsanforderungen ADR
-- Bei Verstoß Schadensersatz erhöht
-
-### Hochwert-Transport
-
-- Wertdeklaration vor Aufgabe sinnvoll
-- Spezial-Versicherung
-
-## Schritt 10 — Checkliste
-
-- Frachtbrief vorhanden mit Empfangs-Stempel?
-- Schaden bei Annahme festgestellt?
-- Frachtbrief-Vorbehalt gemacht?
-- Fotos Beweis
-- Förmliche Reklamation rechtzeitig (sofort / 7 Tage / 21 Tage)
-- Versicherer informiert
-- Sachverständigen-Auftrag ggf.
-
-## Ausgabe
-
-- `reklamation-{frachtbrief}.md`
-- Reklamationsschreiben angepasst
-- Frist im Fristenbuch (Verjährung ein Jahr nach Reklamation)
-- Beweismittel-Tabelle
+---
 
 ## Quellen
 
-- CMR Art. 23 24 26 29 30 32
-- HGB §§ 425 431 435 438 439 449
-- BGH I. Zivilsenat
-- Koller Transport-/Speditionsrecht
+CMR Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr 1956, Art. 17, 23–32, 41. HGB §§ 407–475 (Frachtrecht), §§ 453–466 (Speditionsrecht). BGH I ZR 76/13 (Reklamationsfrist CMR). BGH I ZR 95/05 (Leichtfertigkeit § 435 HGB). BGH I ZR 88/04 (Art. 29 CMR). BGH I ZR 100/19 (Schnittstellenkontrolle). Koller, Transportrecht, aktuelle Auflage. Thume, CMR-Kommentar. MüKo-HGB Boesche §§ 425 ff. Stand: 05/2026.

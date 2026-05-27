@@ -164,3 +164,54 @@ Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]
 - **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4.**
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22.**
 - **Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.**
+
+## Triage zu Beginn
+1. Existiert bereits eine KI-Nutzungsrichtlinie — vollstaendig oder veraltet (vor KI-VO 2024)?
+2. Welche Zielgruppe soll die Richtlinie adressieren — alle Mitarbeiter, IT, Fachabteilungen?
+3. Ist ein Betriebsrat vorhanden — ist § 87 Abs. 1 Nr. 6 BetrVG-Mitbestimmung einzuholen?
+4. Welche KI-Systeme sind bereits im Einsatz — Inventar aus ki-inventar-Skill vorhanden?
+5. Welches regulatorische Regime ist massgeblich — KI-VO Hochrisiko, DSGVO Art. 22, DSA?
+
+## Output-Template — KI-Nutzungsrichtlinie (Entwurf)
+**Adressat:** Alle Mitarbeiter / Geschaeftsleitung — Tonfall: klar, verbindlich, anwaltlich pruefbeduerftig
+```
+KI-NUTZUNGSRICHTLINIE
+[UNTERNEHMEN] — Version [VERSIONSNUMMER] — Stand: [DATUM]
+ENTWURF — VOR EINSATZ ANWALTLICHE PRUEFUNG ERFORDERLICH
+
+§ 1 Geltungsbereich und Zweck
+Diese Richtlinie gilt fuer alle Mitarbeiterinnen und Mitarbeiter von
+[NAME MANDANT] beim Einsatz von KI-Systemen im Rahmen ihrer Taetigkeit.
+Zweck ist die Sicherstellung eines rechtssicheren, transparenten und
+verantwortungsvollen KI-Einsatzes gemaess KI-VO (VO 2024/1689) und DSGVO.
+
+§ 2 Freigegebene KI-Systeme
+Folgende KI-Systeme sind fuer den Einsatz freigegeben:
+- [SYSTEM 1]: zulaessige Verwendungszwecke
+- [SYSTEM 2]: zulaessige Verwendungszwecke
+
+§ 3 Verbotene Praktiken (Art. 5 KI-VO)
+Der Einsatz von KI-Systemen fuer folgende Zwecke ist absolut verboten: [...]
+
+§ 4 Menschliche Aufsicht (Art. 26 KI-VO)
+Bei Hochrisiko-Anwendungen ist eine menschliche Pruefung vor jeder
+Entscheidung sicherzustellen. Vollautomatisierte Entscheidungen nach
+Art. 22 DSGVO sind nur nach Freigabe durch [ROLLE] zulaessig.
+
+§ 5 Datenschutz und Vertraulichkeit
+Personenbezogene und vertrauliche Daten duerfen nur in KI-Systeme
+eingegeben werden, fuer die ein AVV nach Art. 28 DSGVO besteht.
+
+§ 6 Meldepflichten
+Sicherheitsvorfaelle und Probleme mit KI-Ausgaben sind unverzueglich
+an [ANSPRECHPARTNER] zu melden.
+
+§ 7 Schulung
+Alle Mitarbeiter, die KI-Systeme einsetzen, besuchen die verpflichtende
+KI-Schulung bis [DATUM] (Art. 4 KI-VO Kompetenzgebot).
+
+Ansprechpartner KI-Governance: [NAME, EMAIL]
+Datenschutzbeauftragter: [NAME, EMAIL]
+
+[DATUM] — [UNTERSCHRIFT GESCHAEFTSFUEHRUNG]
+```

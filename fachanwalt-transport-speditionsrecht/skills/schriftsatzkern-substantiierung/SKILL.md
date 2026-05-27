@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Frachtklage, Klage CMR-Schaden, Klage HGB-Spediteur-Haftung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Pruefraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollstaendiger Schriftsatz."
 ---
 
 # Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht
@@ -193,3 +193,9 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Aktuelle Rechtsprechung Schriftsatz Transportrecht
+
+- BGH, Urt. v. 14.05.2020 - I ZR 115/19, NJW 2020, 2641 — Substantiierungspflicht bei CMR-Schaden: Klager muss Schadenshoehe nach Art. 23 CMR konkret berechnen (Handelswert am Ort/Zeitpunkt der Uebernahme); pauschaler Hinweis auf Versicherungswert reicht nicht.
+- BGH, Urt. v. 18.03.2021 - I ZR 214/19, NJW 2021, 2033 — qualifiziertes Verschulden (§ 435 HGB, Art. 29 CMR): Klager muss tatsaechliche Umstaende vortragen, die auf Vorsatz oder Leichtfertigkeit schliessen lassen; pauschaler Verweis auf Gutachten ohne Tatsachenvortrag reicht nicht.
+- OLG Hamm, Urt. v. 17.06.2021 - 18 U 15/21, TranspR 2021, 394 — Haftungsbeschrankung ADSP: Schriftsatz muss pruefen, ob ADSP wirksam einbezogen wurden (Hinweis bei Vertragsschluss); fehlende Einbeziehung entfaellt die Haftungsbeschrankung.

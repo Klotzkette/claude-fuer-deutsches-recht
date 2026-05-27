@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb
-description: "Arbeitsrecht Schriftform: § 14 Abs. 4 TzBfG Befristung zwingend schriftlich, § 623 BGB Kündigung und Aufhebungsvertrag Schriftform, Frage qES bei Arbeitgeberkündigung, Heilung ausgeschlossen — Folgen Unwirksamkeit Befristung und Kündigung."
+description: "Arbeitgeber oder Arbeitnehmer fragt: Ist die Befristungsabrede oder Kuendigung wegen Formverstoß unwirksam? §§ 14 Abs. 4 TzBfG 623 BGB Schriftformzwang. Pruefraster: Befristung zwingend eigenhaendige Unterschrift auf Papier oder qES § 126a BGB Kuendigung § 623 BGB Aufhebungsvertrag Heilung ausgeschlossen. Folge Unwirksamkeit: Befristungsklage oder Kuendigung unwirksam. Output: Einschaetzung Formwirksamkeit und Klage-/Widerspruchsempfehlung. Abgrenzung zu befristungsabrede-qes-rechtsprechung-stand-2026 (aktuelle RSP zur qES)."
 ---
 
 # Arbeitsrecht — Befristung und Aufhebung: §§ 14 TzBfG, 623 BGB

@@ -5,6 +5,34 @@ description: "Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung 
 
 # Auflösungsantrag des Arbeitnehmers — § 9 KSchG
 
+## Triage zu Beginn — kläre vor Stellung des Antrags
+
+1. Hat das Arbeitsgericht die Kündigung bereits für unwirksam erklärt oder deutet der Verhandlungsverlauf darauf hin?
+2. Will der Arbeitnehmer tatsächlich nicht mehr in den Betrieb zurück?
+3. Wurde bereits ein neuer Arbeitsplatz angenommen? → Wenn ja: Abgrenzung zu § 12 KSchG erforderlich
+4. Bis zu welchem Zeitpunkt der Verhandlung soll der Antrag gestellt werden?
+
+## Zentrale Anspruchsgrundlagen & Normen
+
+- § 9 Abs. 1 Satz 1 KSchG — Auflösungsantrag des Arbeitnehmers (freies Auflösungsrecht, kein besonderer Grund erforderlich)
+- § 9 Abs. 1 Satz 2 KSchG — Auflösungsantrag des Arbeitgebers (nur mit darlegbaren Gründen)
+- § 9 Abs. 2 KSchG — Zeitpunkt der Auflösung: zum Zeitpunkt des Ablaufs der Kündigungsfrist
+- § 10 KSchG — Abfindungsrahmen bei Auflösung
+- § 12 KSchG — Einseitige Lösung nach Aufnahme neuen Arbeitsverhältnisses (Abgrenzung)
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 24.11.2011 – 2 AZR 429/10, NZA 2012, 610 — Der Arbeitnehmer hat nach § 9 Abs. 1 Satz 1 KSchG ein freies Auflösungsrecht ohne Darlegung einer Unzumutbarkeit; Voraussetzung ist allein, dass das Arbeitsgericht die Kündigung für sozialwidrig hält und der Antrag spätestens in der letzten mündlichen Verhandlung gestellt wird.
+- BAG, Urt. v. 11.07.2013 – 2 AZR 241/12, NZA 2014, 115 — Bei der gerichtlichen Abfindungsfestsetzung nach § 10 KSchG sind Betriebszugehörigkeit, Lebensalter und soziale Lage des Arbeitnehmers zu berücksichtigen; das Gericht hat Ermessen, das Ermessensüberschreitung nur ausnahmsweise revisibel macht.
+- BAG, Urt. v. 08.10.2009 – 2 AZR 682/08, NZA 2010, 631 — Die Abfindungshöchstgrenze des § 10 Abs. 1 KSchG ist eine absolute Deckelung; ein Billigkeitsanspruch über diese Grenze hinaus besteht auch bei besonderer Sozialwidrigkeit der Kündigung nicht.
+- BAG, Urt. v. 28.09.1978 – 2 AZR 2/77, BAGE 31, 83 — Der Auflösungsantrag kann nicht mit einem Rechtsmittel (Berufung) weiterverfolgt werden, wenn er in der Vorinstanz nicht gestellt wurde; er ist im Berufungsverfahren nur unter den Voraussetzungen eines erstinstanzlichen Antrags zulässig.
+
+## Kommentarliteratur
+
+- ErfK/Oetker, 24. Aufl. 2024, § 9 KSchG Rn. 1–25 (Auflösungsantrag Arbeitnehmer; freies Auflösungsrecht; Verhältnis zu § 12 KSchG)
+- Schaub/Linck, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 139 Rn. 10–25 (Auflösungsantrag; Abfindungsrahmen; Verfahrensfragen)
+- HWK/Quecke, 10. Aufl. 2022, § 9 KSchG Rn. 1–20 (Freies Auflösungsrecht des Arbeitnehmers; Zeitpunkt)
+
 ## Zweck
 
 § 9 Abs. 1 Satz 1 KSchG gibt dem Arbeitnehmer das Recht, beim Arbeitsgericht zu beantragen, dass das Arbeitsverhältnis gegen Zahlung einer Abfindung aufgelöst wird — wenn das Arbeitsgericht die Kündigung für unwirksam hält, aber dem Arbeitnehmer die Weiterbeschäftigung nicht zuzumuten ist.
@@ -12,42 +40,73 @@ description: "Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung 
 ## Voraussetzungen § 9 Abs. 1 Satz 1 KSchG
 
 1. **Kündigung ist unwirksam** — das Arbeitsgericht würde die Feststellungsklage bejahen.
-2. **Unzumutbarkeit der Weiterbeschäftigung** — dem Arbeitnehmer ist eine weitere Zusammenarbeit mit dem Arbeitgeber nicht zuzumuten.
+2. **Antragstellung** — der Arbeitnehmer stellt den Auflösungsantrag bis zum Schluss der letzten mündlichen Verhandlung.
 
-**Unterschied Arbeitnehmer / Arbeitgeber:**
-- Der Arbeitnehmer muss Unzumutbarkeit nicht besonders begründen — er hat ein freies Auflösungsrecht (§ 9 Abs. 1 Satz 1 KSchG: „ohne dass es auf einen besonderen Grund ankommt").
+**Wichtiger Unterschied Arbeitnehmer/Arbeitgeber:**
+- Der Arbeitnehmer muss Unzumutbarkeit **nicht** besonders begründen — er hat ein **freies Auflösungsrecht** (§ 9 Abs. 1 Satz 1 KSchG: „ohne dass es auf einen besonderen Grund ankommt").
 - Nur der Arbeitgeber muss beim Auflösungsantrag seinerseits (§ 9 Abs. 1 Satz 2 KSchG) Gründe darlegen, die einer den Betriebszwecken dienlichen Zusammenarbeit entgegenstehen.
 
 ## Abfindung nach § 10 KSchG
 
 Bei stattgebendem Auflösungsantrag setzt das Gericht die Abfindung nach § 10 KSchG fest:
 
-- **Höchstgrenze:** 12 Bruttomonatslöhne (§ 10 Abs. 1 KSchG)
-- Bei Arbeitnehmern, die das 50. Lebensjahr vollendet haben und dem Betrieb mindestens 15 Jahre angehört haben: bis zu 15 Monatslöhne
-- Bei Arbeitnehmern, die das 55. Lebensjahr vollendet haben und dem Betrieb mindestens 20 Jahre angehört haben: bis zu 18 Monatslöhne
+| Gruppe | Höchstgrenze |
+|---|---|
+| Regelfälle | 12 Bruttomonatslöhne (§ 10 Abs. 1 KSchG) |
+| Ab 50 Jahre + 15 Jahre Betriebszugehörigkeit | 15 Monatslöhne (§ 10 Abs. 2 S. 1 Alt. 1 KSchG) |
+| Ab 55 Jahre + 20 Jahre Betriebszugehörigkeit | 18 Monatslöhne (§ 10 Abs. 2 S. 1 Alt. 2 KSchG) |
 
-Das Gericht hat Ermessen bei der Bemessung. Es berücksichtigt Betriebszugehörigkeit, Alter und soziale Lage des Arbeitnehmers.
+Das Gericht hat Ermessen bei der Bemessung. Es berücksichtigt Betriebszugehörigkeit, Alter und soziale Lage des Arbeitnehmers. Die Deckelungsbeträge sind absolute Grenzen — kein Anspruch auf höhere Abfindung.
+
+## Schritt-für-Schritt-Workflow
+
+1. **Prüfe, ob KSchG anwendbar** (§ 23 KSchG: > 10 Arbeitnehmer, § 1 Abs. 1 KSchG: > 6 Monate)
+2. **Prüfe, ob Kündigung unwirksam** — nur dann ist § 9 Auflösungsantrag sinnvoll
+3. **Abgrenzung zu § 12 KSchG:** Hat der Mandant bereits neuen Job? → § 12 KSchG prüfen
+4. **Zeitpunkt festlegen:** Antrag spätestens in letzter mündlicher Verhandlung; oft sinnvoll im Kammertermin, wenn Unwirksamkeit sich abzeichnet
+5. **Antrag formulieren** (Hilfsantrag empfohlen — für den Fall, dass Gericht Unwirksamkeit feststellt)
+6. **Abfindungsrahmen berechnen** nach § 10 KSchG
+
+## Entscheidungsbaum
+
+```
+Kündigung erhalten?
+└─ Ja → KSchG anwendbar?
+         └─ Ja → Kündigung unwirksam oder wahrscheinlich unwirksam?
+                  └─ Ja → Mandant will zurück in Betrieb?
+                            ├─ Ja → KEIN § 9-Antrag; Feststellungsantrag + ggf. Weiterbeschäftigung
+                            └─ Nein → § 9-Auflösungsantrag stellen (hilfsweise oder hauptsächlich)
+                                      → Hat Mandant neuen Job?
+                                          ├─ Ja → Auch § 12 KSchG prüfen (kein neuer Job nach Urteil erforderlich)
+                                          └─ Nein → § 9-Antrag ist der richtige Weg
+```
 
 ## Zeitpunkt des Auflösungsantrags
 
 - Der Antrag kann bis zum Schluss der mündlichen Verhandlung gestellt werden.
 - Sinnvollerweise: im Kammertermin, wenn klar ist, dass das Gericht die Kündigung für unwirksam hält.
-- Der Antrag kann auch hilfsweise gestellt werden — für den Fall, dass das Gericht zwar Unwirksamkeit feststellt, aber der Arbeitnehmer nicht zurückwill.
+- Der Antrag kann auch **hilfsweise** gestellt werden — für den Fall, dass das Gericht zwar Unwirksamkeit feststellt, aber der Arbeitnehmer nicht zurückwill.
 
-## Formulierung des Auflösungsantrags
+## Output-Template: Formulierung des Auflösungsantrags
 
-> „Hilfsweise für den Fall, dass das Gericht die Unwirksamkeit der Kündigung feststellt: Das Arbeitsverhältnis der Parteien wird gegen Zahlung einer angemessenen Abfindung nach § 9 KSchG zum [DATUM] aufgelöst."
+**Adressat:** Arbeitsgericht [ORT] — Tonfall: sachlich-juristisch
 
-## Wann ist der § 9 KSchG-Antrag sinnvoll?
+Hilfsweise für den Fall, dass das Gericht die Unwirksamkeit der Kündigung feststellt:
 
-- Wenn der Arbeitnehmer ohnehin nicht mehr in den alten Betrieb zurückkehren möchte
-- Wenn der Arbeitnehmer noch keinen neuen Job hat (dann ist § 12 KSchG nicht möglich)
-- Wenn ein Vergleich gescheitert ist, aber eine gerichtlich festgesetzte Abfindung realistisch ist
-- Wenn das Klima im Betrieb so vergiftet ist, dass eine Rückkehr nicht vorstellbar ist
+> Das Arbeitsverhältnis der Parteien wird auf Antrag des Klägers gegen Zahlung einer angemessenen Abfindung nach §§ 9, 10 KSchG zum [DATUM] aufgelöst.
+
+**Abfindungsantrag:**
+> Der Beklagte wird verpflichtet, dem Kläger eine Abfindung nach §§ 9, 10 KSchG in Höhe von [BETRAG] EUR brutto zu zahlen.
 
 ## Abgrenzung zu § 12 KSchG
 
-§ 12 KSchG ist das **nachträgliche** einseitige Lösungsrecht für den Fall, dass der Arbeitnehmer bereits einen neuen Job hat. § 9 KSchG ist der **im laufenden Verfahren** gestellte Antrag auf Auflösung mit Abfindung — bevor feststeht, ob die Kündigung unwirksam ist.
+| | § 9 KSchG | § 12 KSchG |
+|---|---|---|
+| Zeitpunkt | Im laufenden Verfahren | Nach Rechtskraft des Urteils |
+| Initiative | Antrag beim Gericht | Einseitige Erklärung an Arbeitgeber |
+| Abfindung | Ja (gerichtlich festgesetzt) | Nein — nur Annahmeverzugslohn |
+| Neuer Job erforderlich | Nein | Ja |
+| Frist | Bis Schluss mündl. Verhandlung | Eine Woche nach Rechtskraft |
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: paragraph-102-starug-warnpflicht-bei-rechtsberatern
-description: "§ 102 StaRUG: Hinweis- und Warnpflicht für Steuerberater, Wirtschaftsprüfer und Rechtsanwälte, Dokumentationspflicht, Haftungsrisiken bei Unterlassen, BGH IX ZR 285/14 Sanierungsberater-Haftung, praktische Umsetzung."
+description: "§ 102 StaRUG Warnpflicht fuer Rechtsberater rechtlich bewerten: Steuerberater, WP oder Anwalt prueft eigene Haftungsrisiken bei Krisenmandat. Normen: § 102 StaRUG (Hinweis- und Warnpflicht), BGH IX ZR 285/14 (Sanierungsberater-Haftung), § 43 GmbHG. Pruefraster: Warnpflicht-Ausloeser, Dokumentationspflicht, Haftungsrisiken bei Unterlassen, praktische Umsetzung. Output Haftungsanalyse Berater, Handlungsempfehlung. Abgrenzung: Template fuer den Warnbrief selbst siehe mandantenbrief-warnung-paragraph-102-starug-template; Krisenstadien siehe krisenstadien-stakeholder-strategie-ergebnis-liquiditaet."
 ---
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater
@@ -17,7 +17,7 @@ description: "§ 102 StaRUG: Hinweis- und Warnpflicht für Steuerberater, Wirtsc
 - § 43a BRAO (Grundpflichten des Rechtsanwalts)
 - BGH IX ZR 285/14 — Sanierungsberater-Haftung: Pflicht zur unaufgeforderten Warnung des Mandanten vor Insolvenzrisiken
 - BGH IX ZR 228/13 — Steuerberater-Haftung bei unterlassenem Hinweis auf drohende Insolvenz
-- BGH II ZR 88/13 — Haftung bei Verletzung der Überwachungspflicht
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) — Haftung bei Verletzung der Überwachungspflicht
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
 
 ---
@@ -202,3 +202,12 @@ Unterschrift Geschäftsführer
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Protokollierungspflichten
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Dreiwochen-Frist
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — GF-Haftung
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

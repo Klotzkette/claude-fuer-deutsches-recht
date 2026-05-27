@@ -1,6 +1,6 @@
 ---
 name: zv-pfueb-mieter-finanzamt
-description: "PfÜB gegen sonstige Drittschuldner: Mieter (Mietzinsforderung), Finanzamt (Steuererstattung, Kindergeld nur eingeschränkt), Krankenkassen (Krankengeld), Versicherungen (Rückkaufswert), Geschäftspartner (offene Rechnungen). Beachtet § 851 ZPO Unübertragbarkeit, § 850b ZPO bedingt pfändbare Bezüge, § 46 AO Steueranspruchsabtretung. Lädt, wenn weder Bank noch Arbeitgeber Drittschuldner ist."
+description: "Glaeubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Pruefraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rueckkaufswert Geschaeftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn)."
 ---
 
 # PfÜB Mieter, Finanzamt, sonstige Drittschuldner

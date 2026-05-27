@@ -1,9 +1,32 @@
 ---
 name: kanzlei-allgemein-zeitnarrative
-description: "Erzeugt stündliche oder manuelle Zeiterfassungsabfragen mit abrechenbaren Narrativen. Erfasst Akte Dauer Takt Bearbeiter Tätigkeit Quelle Honorargrundlage Abrechenbarkeit Rechnungsfähigkeit und Datenschutzreduktion."
+description: "Zeiterfassung mit abrechenbaren Narrativen fuer Kanzlei-Mandate. Anwendungsfall Anwalt hat Taetigkeit ausgeubt und will Zeit mit praezisem Narrativ erfassen fuer spaetere Rechnungsstellung. Normen § 10 RVG Pflichtangaben Narrative GoBD-Zeitstempel. Pruefraster Akte Dauer Takt 6-Minuten-Bloecke Bearbeiter Taetigkeit Honorargrundlage Abrechenbarkeit Datenschutzreduktion. Output Zeiterfassungsprotokoll mit Narrativ Abrechenbarkeit und Rechnungsvorbereitungsnotiz. Abgrenzung zu timesheet-aktenzeitung (Gesamtzeittabelle) und kanzlei-allgemein-rechnung."
 ---
 
 # Zeitnarrative und Timesheet
+
+
+## Triage zu Beginn
+1. Fuer welche Akte und welchen Bearbeiter soll der Zeiteintrag erfasst werden?
+2. Ist die Taetigkeit nach RVG oder nach Stundensatz abrechenbar — oder intern (nicht abrechenbar)?
+3. Gibt es eine genaue Zeitangabe oder soll die Dauer aus dem Workflow-Verlauf geschaetzt werden?
+4. Soll der Eintrag sofort in die Rechnung oder erst in das interne Timesheet?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 29.07.2021 - IX ZR 5/21, NJW 2021, 3320 — Honorarvereinbarung nach Stundensatz erfordert detaillierte Zeitaufzeichnungen; pauschalierte Taetigkeitsbeschreibung reicht nicht fuer Nachvollziehbarkeit nach § 10 RVG analog.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Anwaltliches Honorar muss spezifiziert werden; Rechnung ohne nachvollziehbare Taetigkeitsangabe ist nicht fällig.
+- BGH, Urt. v. 17.01.2019 - IX ZR 52/18, NJW 2019, 1232 — Mandant kann Zeitaufzeichnung verlangen (§ 10 RVG analog); Kanzlei muss Taetigkeitsliste fuehren und auf Anforderung herausgeben.
+- BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — Zeitnachweis als Betriebsausgabenbeleg: Zeitaufzeichnungen muessen GoBD-konform unveraenderbar sein.
+
+## Zentrale Normen
+- § 10 RVG — Pflichtangaben auf der Rechnung: Taetigkeitsnachweis als Faelligkeitsvoraussetzung
+- § 3a RVG — Honorarvereinbarung: Stundensatz-Abrechnung und Dokumentationspflicht
+- § 147 AO — Aufbewahrungspflicht: Zeiterfassungsbelege 10 Jahre
+- § 238 HGB — Buchfuehrungspflicht: Zeitnarrative als Teil der betrieblichen Aufzeichnungen
+
+## Kommentarliteratur
+- Mueckenberger/Meiling RVG § 10 Rn. 1-25 (Taetigkeitsnachweis und Faelligkeit)
+- Gerold/Schmidt RVG § 3a Rn. 1-20 (Stundensatz-Vereinbarung und Dokumentation)
 
 ## Zweck
 

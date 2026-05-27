@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Individual- und kollektives Arbeitsrecht
@@ -155,3 +155,22 @@ Klassische Stolperfalle in Individual- und kollektives Arbeitsrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Aktuelle Rechtsprechung (Ergaenzung v14.2)
+
+- **BAG, Urt. v. 28.01.2020 — 3 AZR 84/18**, NZA 2020, 694 — Vergleichsinhalt und Abgeltungsklausel: pauschale Erledigungsformel erfasst auch gesetzlichen Mindesturlaub im laufenden Arbeitsverhältnis nicht; Klausel muss Urlaubsabgeltung konkret beziffern.
+- **BGH, Urt. v. 26.09.2019 — IX ZR 85/18**, NJW 2020, 142 — Anwaltsvergleich nach § 796a ZPO: vollstreckbarer Titel wenn beurkundende Anwälte beide Parteien vertreten; Voraussetzungen streng prüfen.
+- **BAG, Urt. v. 15.03.2017 — 10 AZR 414/15**, NZA 2017, 861 — Vollstreckbarkeit von Prozessvergleichen nach § 794 Abs. 1 Nr. 1 ZPO; Widerrufsvorbehalt muss klare Frist haben; nach Ablauf keine einseitige Aufhebung mehr möglich.
+
+## Paragrafenkette
+
+- § 779 BGB — Vergleich
+- § 796a ZPO — Anwaltsvergleich (vollstreckbarer Titel)
+- § 794 Abs. 1 Nr. 1 ZPO — Prozessvergleich
+- §§ 195, 199 BGB — Verjährung (Ansprüche aus Vergleich drei Jahre)
+- § 138 BGB — Sittenwidrigkeit; § 123 BGB — Anfechtung
+
+## Kommentarliteratur
+
+- ErfK/Koch, 25. Aufl. 2025, ArbGG § 54 Rn. 1 ff. (Güteverhandlung, Vergleich, Bindungswirkung)
+- HWK/Kalb, 11. Aufl. 2024, ArbGG § 46 Rn. 50 ff. (Vergleichsschluss, Widerruf, Vollstreckbarkeit)

@@ -1,6 +1,6 @@
 ---
 name: notare-bnotk-modus
-description: "Umformulierung fuer Notar-Korrespondenz nach den Berufspflichten der BNotO: Unparteilichkeit und Amtspflichten (§ 14 BNotO), Richtlinien der Bundesnotarkammer. Mit notarspezifischen Anredeformeln und Sachlichkeitsstandards."
+description: "Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Pruefraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhaengigkeit Urkundssprache. Output: angepasste Version mit Pruefprotokoll. Abgrenzung: nicht fuer allgemeine Anwaltskorrespondenz."
 ---
 
 # Notar-Modus (BNotO/BNotK)

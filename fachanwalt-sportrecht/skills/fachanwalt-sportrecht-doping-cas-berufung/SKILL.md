@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-doping-cas-berufung
-description: "Doping-Verfahren WADA-Code CAS-Berufung Lausanne. NADA-Verfahren Deutschland. Strict Liability Beweislast. Therapeutic Use Exemption TUE. Sanktion 2-4 Jahre Sperre. Workflow Verfahren CAS-Schiedsverfahren."
+description: "Athlet muss Doping-Sperre vor CAS anfechten oder WADA/NADA legt Berufung gegen Freispruch ein. WADA-Code strict liability Therapeutic Use Exemption Sanktion 2-4 Jahre. Normen WADA-Code Art. 2 10 13 CAS Code AntiDopG § 4. Pruefraster Strict-Liability-Pruefung TUE No-Fault-Nachweis Art. 10 Abs. 5 CAS-Fristen. Output CAS-Berufungsschrift TUE-Antrag Sanktions-Reduktions-Argumentation. Abgrenzung zu cas-berufung-vorbereiten (allg. Berufung) und fachanwalt-sportrecht-doping-verfahren (NADA-Erstverfahren)."
 ---
 
 # Doping-Berufung CAS

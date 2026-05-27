@@ -1,6 +1,6 @@
 ---
 name: ki-vo-hochrisiko-personalwesen
-description: "Erläutert die Hochrisiko-Anforderungen der KI-VO für KI-Systeme im Personalwesen: Anhang III Nr. 4 Bewerberauswahl und Personalentscheidungen, Inkrafttreten 2. August 2026, Pflichten bei Einsatz im HR-Bereich der Kanzlei sowie Beratungsmandate im Arbeitsrecht."
+description: "KI-VO Hochrisiko-Anforderungen fuer Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Pruefraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitaetsbewertung, Transparenzpflichten fuer Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan fuer August 2026. Abgrenzung zu Bias-und-Diskriminierung-Pruefung und zu KI-VO-Betreiber-Pflichten."
 ---
 
 # KI-VO Hochrisiko Personalwesen
@@ -34,3 +34,51 @@ Beim Einsatz von Hochrisiko-KI-Systemen im Personalwesen sind gemäß Art. 26 Ab
 ## Hinweise zur Aktualisierung
 
 Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsakte der EU-Kommission und durch Leitlinien des Europäischen KI-Büros ist bis zum 2. August 2026 zu verfolgen. Ebenso sind BAG- und Landesarbeitsgericht-Entscheidungen zur Zulässigkeit von KI-Systemen im Personalwesen zu beobachten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 23.04.2020 — C-507/18 (NH), NJW 2020, 1999 Rn. 31: AGG-Diskriminierung auch bei mittelbarer Wirkung — massgeblich fuer KI-Bewerbungsauswahl.
+- BAG, Urt. v. 19.12.2019 — 8 AZR 2/19, NJW 2020, 1612 Rn. 22: Mittelbare Diskriminierung im Bewerbungsverfahren durch neutral scheinende Auswahlkriterien — gilt fuer KI-Screening-Systeme.
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Profiling als Art. 22 DSGVO-Entscheidung — Einstellungs-KI faellt darunter.
+- BAG, Urt. v. 13.01.2004 — 9 AZR 603/02, NZA 2004, 784 Rn. 16: Mitbestimmungspflicht des Betriebsrats bei technischen Ueberwachungs- und Bewertungssystemen.
+
+## Zentrale Normen (Paragrafenkette)
+- Anhang III Nr. 2 KI-VO — Hochrisiko-Kategorie: Einstellung und Personalentscheidungen
+- Art. 26 KI-VO — Betreiberpflichten bei Hochrisiko-KI Personalwesen
+- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmungsrecht des Betriebsrats
+- § 1 AGG — Diskriminierungsverbot bei Einstellungsentscheidungen
+- § 26 BDSG — Beschaeftigtendatenschutz
+
+## Triage zu Beginn
+1. Welche Personalentscheidung soll KI unterstuetzen — Bewerbungsscreening, Leistungsbewertung, Kuendigung?
+2. Ist der Betriebsrat nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden worden?
+3. Wurde ein Bias-Test auf AGG-geschuetzte Merkmale durchgefuehrt?
+4. Gibt es einen menschlichen Entscheidungstraeger — kein vollautomatisierter Prozess (Art. 22 DSGVO)?
+5. Sind Bewerber/Arbeitnehmer nach Art. 13/14 DSGVO ueber KI-Einsatz informiert?
+
+## Output-Template — Hochrisiko-KI-Personalwesen-Check
+**Adressat:** HR / Compliance / Betriebsrat — Tonfall: strukturiert, rechtlich
+```
+HOCHRISIKO-KI PERSONALWESEN-CHECK
+[DATUM] — System: [SYSTEMNAME] — Einsatzzweck: [BESCHREIBUNG]
+
+Anhang III Nr. 2 KI-VO — Hochrisiko: JA
+Anwendbare Betreiberpflichten Art. 26 KI-VO: ALLE
+
+Betriebsrat nach § 87 Abs. 1 Nr. 6 BetrVG:
+☑/☐ Eingebunden am [DATUM] — Ergebnis: [ZUSTIMMUNG / BV ABGESCHLOSSEN]
+☑/☐ Kein Betriebsrat vorhanden
+
+AGG-Bias-Test:
+☑/☐ Test durchgefuehrt am [DATUM] — Methode: [BESCHREIBUNG]
+☑/☐ Kein Material-Bias gefunden / Bias gefunden: [MASSNAHME]
+
+Art. 22 DSGVO:
+☑/☐ Human-in-the-Loop fuer alle Personalentscheidungen
+☑/☐ Widerspruchsrecht implementiert (Art. 22 Abs. 3 DSGVO)
+
+Information Bewerber/Arbeitnehmer (Art. 13/14 DSGVO):
+☑/☐ Datenschutzhinweis KI-Einsatz erteilt
+
+Freigabe: [JA / BEDINGT / NEIN]
+Verantwortlicher: [NAME], [DATUM]
+```

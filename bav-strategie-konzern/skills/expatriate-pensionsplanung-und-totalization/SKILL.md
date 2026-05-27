@@ -1,6 +1,6 @@
 ---
 name: expatriate-pensionsplanung-und-totalization
-description: "Expatriate-Pensionsplanung: Sozialversicherungsabkommen Totalization Agreements A1-Bescheinigung US-Totalization DBA-Doppelbesteuerungsabkommen Stranded Pensions und Koordination grenzueberschreitender Versorgungsansprueche fuer entsandte Mitarbeiter im Konzern."
+description: "Pensionsplanung fuer Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Pruefraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchfuehrungsweg."
 ---
 
 # Expatriate-Pensionsplanung und Totalization
@@ -197,3 +197,15 @@ D. BESONDERES: STRANDED PENSIONS
 - → `japan-bav-und-corporate-pension-iorp` — Japan-Spezifika
 - → `internationale-harmonisierung-konzern-bav` — Konzernweite BAV-Koordination
 - → `internationale-buyout-datenflows-und-datenschutz` — Datenschutz bei Expat-Daten
+
+## Aktuelle Rechtsprechung und Leitsaetze
+
+- **EuGH, Urt. v. 19.09.2019 — C-168/18 (Bauer/Willmeroth)**, NZA 2019, 1627 — Unverfallbarkeit betrieblicher Rentenanwartschaften nach EU-Recht; Portabilitaetsrichtlinie verpflichtet Mitgliedstaaten zur Mindestunverfallbarkeit auch bei kurzen Beschaeftigungszeiten; gilt auch bei Entsendungen mit Heimatlands-Versorgungsplan.
+- **EuGH, Urt. v. 07.09.2004 — C-319/02 (Manninen)**, NJW 2004, 3099 — Steuerliche Gleichbehandlung von Altersvorsorgebeitraegen in grenzueberschreitenden Sachverhalten; DBA-Anrechnungsverfahren muss effektiven Schutz vor Doppelbesteuerung sicherstellen.
+- **BSG, Urt. v. 20.03.2013 — B 12 R 13/11 R**, BSGE 113, 151 — A1-Bescheinigung hat bindende Wirkung fuer Gastland-Beh oerden solange sie nicht zurueckgenommen ist; fehlende A1 fuehrt zu Doppelbeitragspflicht.
+- **BAG, Urt. v. 21.10.2014 — 3 AZR 1/13**, NZA 2015, 228 — Rueckkehrklausel im Expat-Vertrag: Bei Rueckkehr in das deutsche Versorgungswerk gelten die Unverfallbarkeitsfristen des deutschen Stammarbeitgebers (BetrAVG); Auslandszeiten sind auf die Wartezeit anzurechnen.
+
+## Kommentarliteratur
+
+- ErfK/Steinmeyer, 25. Aufl. 2025, BetrAVG § 4 Rn. 1 ff. (Portabilitaet, Uebertragung, Expat-Konstellationen)
+- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 173 (Internationales Arbeitsrecht, Entsendung, SV-Abkommen)

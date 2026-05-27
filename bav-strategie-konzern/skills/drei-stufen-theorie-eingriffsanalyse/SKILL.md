@@ -1,6 +1,6 @@
 ---
 name: drei-stufen-theorie-eingriffsanalyse
-description: "Drei-Stufen-Theorie des BAG zur Eingriffsanalyse betrieblicher Versorgungsrechte: BAG GS 1/82 BAG 3 AZR 392/06 erdiente Ansprueche erdiente Dynamik kuenftige Zuwachse Eingriffstiefen-Matrix Rechtfertigungsmassstab sachlich-proportional-triftig-zwingend fuer Konzern-Restrukturierungen."
+description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Pruefraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhaeltnismaessigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Loesungen."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte
@@ -22,6 +22,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - §§ 1, 2, 16 BetrAVG (Unverfallbarkeit, Berechnung, Anpassung)
 - §§ 77, 87 BetrVG (Betriebsvereinbarung; erzwingbare Mitbestimmung)
 - EuGH C-168/18 (Bauer/Willmeroth) — Unionsrechtlicher Mindestschutz
+- BAG 26.09.2023 — 3 AZR 264/21 (Drei-Stufen: Gesamtversorgungsklausel mit Nettolohnbezug; Einfrieren des Nettolohnanteils ist Stufe-2-Eingriff; triftige Gründe erforderlich wenn Rentenabsenkung den Gesamtversorgungsgrad tangiert)
+- BAG 13.10.2020 — 3 AZR 410/18 (Ablauf Versorgungswerkschließung: Einfrierung Future Service bei sachlichem Grund zulässig; deutliche Kommunikation des Stichtags an Berechtigte zwingend)
+
+### Kommentarliteratur
+
+- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, § 1 Rn. 400 ff. (Drei-Stufen-Theorie Eingriffsanalyse)
+- Langohr-Plato, Betriebliche Altersversorgung, 8. Aufl. 2022, Kap. 12 (Eingriffe und Besitzstandsschutz)
 
 ---
 

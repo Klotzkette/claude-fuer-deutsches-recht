@@ -1,9 +1,28 @@
 ---
 name: anw-kaltstart-interview
-description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfragt Schwerpunktbereiche (Einkommensteuer / Umsatzsteuer / Koerperschaftsteuer / Gewerbesteuer / Erbschaftsteuer / Steuerstrafrecht) typische Mandate (Einspruch Klage Aussetzung der Vollziehung Aussenpruefungs-Begleitung Selbstanzeige) zustaendige Finanzaemter und Finanzgerichte Schnittstelle zum Steuerberater des Mandanten Aktenstruktur Versandwege ELSTER-Praxis fuer Finanzaemter und beA-Praxis fuer Finanzgerichte und Eskalation. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md."
+description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation Plugin oder Konfiguration enthaelt noch Platzhalter-Marker. Erfragt Schwerpunktbereiche ESt USt KSt GewSt ErbSt Steuerstrafrecht typische Mandate Einspruch Klage AdV Aussenpruefungs-Begleitung Selbstanzeige zustaendige Finanzaemter und Finanzgerichte Schnittstelle Steuerberater Aktenstruktur ELSTER-Praxis beA-Praxis. Output Kanzlei-Konfigurationsprofil unter CLAUDE.md Verzeichnis. Abgrenzung zu anw-mandat-triage-steuerrecht das mandatsbezogen arbeitet."
 ---
 
 # /steuerrecht-anwalt-und-berater:anw-kaltstart-interview
+
+## Rechtliche Grundlagen (Orientierung für das Interview)
+
+### Zentrale Normen
+- **AO** Abgabenordnung — Hauptverfahrensrecht
+- **FGO** Finanzgerichtsordnung — Klageverfahren
+- **EStG KStG GewStG UStG ErbStG GrStG** materielles Steuerrecht
+- **BRAO** § 31a beA-Einrichtungspflicht
+- **§ 87a Abs. 1 S. 2 AO n.F.** (JStG 2024, 6.12.2024) — ELSTER/ERiC-only für Finanzbehoerden
+- **§ 52d FGO** — beA-Pflicht gegenüber Finanzgerichten
+
+### Aktuelle Rechtsprechung (Versandwege)
+- BFH, Urt. v. 22.06.2022 - XI R 25/20, BStBl II 2023, 42 Rn. 16 — Klagefrist § 47 Abs. 1 FGO beginnt mit Bekanntgabe der Einspruchsentscheidung; bei postalischer Zusendung greift die Vier-Tages-Fiktion des § 122 Abs. 2 AO.
+- BFH, Urt. v. 13.03.2018 - IX R 22/17, BStBl II 2018, 489 Rn. 11 — Die Einspruchsfrist ist eine Ausschlussfrist; Verschulden der Kanzlei beim Fristversaeumnis geht zu Lasten des Mandanten (keine Wiedereinsetzung).
+- BFH, Beschl. v. 12.11.2020 - V B 32/20, BFH/NV 2021, 228 Rn. 6 — Im AdV-Verfahren nach § 69 FGO ist vollständige Sachverhaltsprüfung nicht geboten; schlussiger Vortrag zu ernstlichen Zweifeln genügt.
+
+### Kommentarliteratur
+- Tipke/Kruse, AO/FGO (Großkommentar) — für alle Verfahrensfragen
+- Golluch/Seib, FGO — für das Klageverfahren vor dem Finanzgericht
 
 ## Ablauf
 

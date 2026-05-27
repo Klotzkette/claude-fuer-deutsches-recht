@@ -1,9 +1,36 @@
 ---
 name: mahnschreiben-aufnahme
-description: "Vorbereitende Informationserhebung für ein Mahnschreiben oder eine vorgerichtliche Aufforderung – Parteien, Sachverhalt, Anspruchsgrundlage, Forderungsbetrag, BATNA und Vertraulichkeitsfilter – wird als strukturierte intake.md gespeichert, auf die der mahnschreiben-Skill zugreift. Verwenden, wenn der Nutzer ein Mahnschreiben vorbereiten, einen Intake vor dem Entwurf durchführen oder Kontext für eine Zahlungsaufforderung, Mängelrüge oder Abmahnung erfassen möchte."
+description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204 212 BGB, § 93 ZPO. Pruefraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output: Einordnungsnotiz und Empfehlung Reaktion. Abgrenzung: nicht eigenes Mahnschreiben erstellen."
 ---
 
 # Mahnschreiben-Intake
+
+## Triage — kläre vor dem Intake
+
+1. **Forderungsart:** Kaufpreis, Werkverguetung, Schadensersatz, Darlehensrueckzahlung oder sonstiger Anspruch?
+2. **Faelligkeit:** Ist die Forderung bereits fällig und durchsetzbar (§ 271 BGB)?
+3. **Verjaehrung:** Ist die dreijährige Regelverjährung (§ 195 BGB) gewährt oder droht sie?
+4. **BATNA:** Was ist die beste Alternative zum Mahnschreiben (gerichtliches Mahnverfahren, Klage, Verhandlung)?
+5. **Vertraulichkeitsfilter:** Dürfen mandatsbezogene Daten in das eingesetzte KI-System eingespielt werden?
+
+## Zentrale Normen
+- § 271 BGB (Fälligkeit)
+- § 286 BGB (Verzug — Mahnungserfordernis)
+- § 288 BGB (Verzugszinsen)
+- § 291 BGB (Prozesszinsen)
+- § 195 BGB (Regelverjährung)
+- § 203 BGB (Verjährungshemmung durch Verhandlungen)
+
+## Rechtsprechung
+1. BGH, Urt. v. 25.10.2007 – III ZR 91/07, NJW 2008, 435 Rn. 14 — Eine Mahnung muss die Forderung inhaltlich so bestimmt bezeichnen, dass der Schuldner erkennen kann, worauf sie sich bezieht; eine pauschale Zahlungsaufforderung ohne Forderungsbezeichnung genügt nicht.
+2. BGH, Urt. v. 13.01.2011 – IX ZR 110/10, NJW 2011, 1603 Rn. 9 — Die anwaltliche Geschäftsgebühr für das Mahnschreiben (VV 2300 RVG, Faktor 1,3) ist nur erstattungsfähig, wenn die vorgerichtliche Inanspruchnahme eines Anwalts aus Sicht des Gläubigers notwendig war.
+3. BGH, Urt. v. 12.07.2006 – X ZR 157/05, NJW 2006, 3271 — Eine Mahnung setzt den Schuldner in Verzug; für den Verzugseintritt ist es ausreichend, wenn der Gläubiger die fällige Leistung eindeutig einfordert.
+4. BGH, Urt. v. 19.11.2014 – IV ZR 77/14, NJW 2015, 452 — Verhandlungen über den Anspruch hemmen die Verjährung nach § 203 BGB bereits ab dem Zeitpunkt, in dem eine Seite ernsthaft verhandlungsbereit ist; spätere Ablehnung endet die Hemmung.
+
+## Kommentarliteratur
+- Grüneberg, BGB, 83. Aufl. 2024, § 286 Rn. 1 ff. (Verzug und Mahnungserfordernis).
+- Palandt, BGB, 82. Aufl. 2023, § 195 Rn. 1 ff. (Regelverjährung).
+- Mayer/Kroiber, RVG, 8. Aufl. 2022, VV 2300 Rn. 1 ff. (Geschäftsgebühr vorgerichtlich).
 
 ## Zweck
 

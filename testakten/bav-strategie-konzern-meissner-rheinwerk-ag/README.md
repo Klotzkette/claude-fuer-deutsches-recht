@@ -90,7 +90,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 2. **Pension Buyout** für ca. 4.300 Rentner (DBO ca. EUR 780 Mio.) mit Hanseatica
    Lebensversicherung AG; Financial Close geplant 31.12.2026
 3. **CTA-Ausweitung** des „Rheinland Trust e.V." von EUR 780 Mio. auf EUR 1,1 Mrd.
-   (Doppeltreuhand, insolvenzfest nach BAG 3 AZR 18/12)
+   (Doppeltreuhand, insolvenzfest nach BAG, Urt. v. 22.09.2020 — 3 AZR 303/18)
 
 ### Laufende Verfahren
 
@@ -116,7 +116,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 | `Versorgungsordnung_Werk_Stuttgart_2002.pdf` | PDF | VO 1981/2002, Werk Stuttgart-Vaihingen (K-VO-2) | Unterstützungskasse, Gesamtversorgung 75 % Bruttogehalt |
 | `Versorgungsordnung_Werk_Bremen_2014.pdf` | PDF | VO 2008/2014, Werk Bremen-Häfen (K-VO-5) | Pensionsfonds § 112 VAG; DC-Modell; BaFin-reguliert |
 | `Konzept_Projekt_Rheingold_2030.pdf` | PDF | Strategiepapier Sompeh-Ostermann, 8 Seiten, Version 2.1 | Risikomatrix, Meilensteinplan, internationale Dimension UK/JP |
-| `Memo_CTA_Strukturierung.pdf` | PDF | Memo zur Doppeltreuhand „Rheinland Trust e.V." | IAS-19-Qualifizierung; BAG 3 AZR 18/12; Aufstockung EUR 320 Mio. |
+| `Memo_CTA_Strukturierung.pdf` | PDF | Memo zur Doppeltreuhand „Rheinland Trust e.V." | IAS-19-Qualifizierung; BAG, Urt. v. 22.09.2020 — 3 AZR 303/18; Aufstockung EUR 320 Mio. |
 | `Memo_Pension_Buyout_Versicherer.pdf` | PDF | Verhandlungsstand Hanseatica Lebensversicherung AG | Indikativpreis EUR 820 Mio.; § 4 Abs. 4 BetrAVG; Japan-Segment |
 | `Memo_DB_zu_DC_Transition.pdf` | PDF | DB→DC-Transition: Rechtliches, Steuerfolgen, IAS 19 (Curtailment) | Curtailment-Gewinn ca. EUR 100 Mio.; Settlement-Verlust ca. EUR 40 Mio. |
 | `Mail_Vorstand_an_Kanzlei.pdf` | PDF | Drei E-Mails: CFO↔Partner, Kanzlei-intern, Kyoto-Update | Budgetstatus, Einigungsstellenstand, BaFin-Kyoto, Tokyo District Court |

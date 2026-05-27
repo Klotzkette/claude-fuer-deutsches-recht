@@ -1,9 +1,39 @@
 ---
 name: zv-pfaendungstabelle-2025
-description: "Berechnet pfändbare Beträge nach Pfändungsfreigrenzenbekanntmachung 1.7.2025 (gültig bis 30.6.2026; danach jährliche Anpassung nach § 850c Abs. 4 ZPO). Liefert Freibetrag nach § 850c ZPO inklusive Unterhaltsstaffel, Pfändungsstufen, P-Konto-Sockel § 850k ZPO und privilegierte Berechnung § 850d ZPO. Ruft das Python-Werkzeug werkzeuge/pfaendungsrechner.py auf. Lädt bei jeder Berechnung pfändbarer Bezüge."
+description: "Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Pruefraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung)."
 ---
 
 # Pfändungstabelle 1.7.2025
+
+
+## Triage zu Beginn
+
+1. Handelt es sich um Arbeitseinkommen (§ 850c ZPO) oder selbstständiges Einkommen (§ 850i ZPO)?
+2. Wie viele unterhaltsberechtigte Personen sind zu berücksichtigen?
+3. Handelt es sich um privilegierte Unterhaltspfändung (§ 850d ZPO) oder reguläre Pfändung?
+4. Hat der Schuldner ein P-Konto — wenn ja, Sockelbetrag und Erhöhungen (§ 850k ZPO) berechnen?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 04.07.2018 - VII ZB 38/15, NJW 2018, 3109 — § 850c ZPO: Pfändungsfreigrenze ist nach dem Nettoeinkommen zu berechnen; auf den nächsten vollen 10-EUR-Schritt abrunden nach § 850c Abs. 5 ZPO.
+- BGH, Beschl. v. 26.06.2014 - IX ZB 88/13, NJW 2014, 2738 — Drittschuldnererklärung: Bank muss korrekt über Pfändbarkeit des Kontoguthabens Auskunft geben; Fehler begründet Schadensersatz.
+- BGH, Beschl. v. 10.11.2011 - VII ZB 64/10, NJW 2012, 234 — P-Konto-Bescheinigung: Schuldner hat Anspruch auf Bescheinigung über Erhöhungsbeträge; Bescheinigungsstelle muss unverzüglich ausstellen.
+- BGH, Beschl. v. 01.10.2020 - IX ZB 4/20, NJW 2021, 73 — § 850d ZPO privilegierte Unterhaltspfändung: Selbstbehalt wird vom Vollstreckungsgericht festgesetzt; ohne Beschluss gilt Standardselbstbehalt nach Düsseldorfer Tabelle als Orientierung.
+
+## Zentrale Normen
+
+- § 850a ZPO — Unpfändbare Bezüge (Sonderzuwendungen, Aufwandsentschädigungen)
+- § 850c ZPO — Pfändungsfreigrenze (Tabelle, jährlich angepasst)
+- § 850d ZPO — privilegierte Unterhaltspfändung (geringerer Selbstbehalt)
+- § 850f ZPO — Erhöhung durch Gericht aus persönlichen Gründen
+- § 850i ZPO — Pfändung bei selbstständigem Einkommen
+- § 850k ZPO — Pfändungsschutzkonto (P-Konto), Sockelbetrag und Erhöhungen
+
+## Kommentarliteratur
+
+- Zöller/Herget, ZPO, 35. Aufl. 2024, § 850c Rn. 1-20 (Pfändungsfreigrenze Berechnung)
+- MüKo-ZPO/Smid, 6. Aufl. 2022, § 850d Rn. 1-20 (privilegierte Unterhaltspfändung)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 850k Rn. 1-15 (P-Konto)
 
 ## Aufgabe
 

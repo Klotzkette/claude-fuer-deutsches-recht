@@ -1,6 +1,6 @@
 ---
 name: lernsitzung
-description: "Führt eine fokussierte Lerneinheit mit N Fragen zu einem Rechtsgebiet durch — Karteikarten, Klausurfragen im Gutachtenstil oder mündliche Abfrage. Verfolgt die Ergebnisse und aktualisiert den Lernplan. Lädt, wenn der Nutzer „10 Fragen zu [Rechtsgebiet]\", „Lerneinheit starten\", „5 Karten zu [Thema]\" oder „Abfrage [Rechtsgebiet]\" sagt."
+description: "Lernsitzung fuer Jurastudium interaktiv durchfuehren: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklaerungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Loesungsschemata Zivilrecht Strafrecht oeffentliches Recht. Pruefraster Thema und Lernziel festlegen, Erklaerung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklaerungen und Zwischentest. Abgrenzung zu Karteikarten fuer Memorierung und zu Gutachten-Uebung fuer Klausurtraining."
 ---
 
 # Lerneinheit

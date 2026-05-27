@@ -1,6 +1,6 @@
 ---
 name: luecken-aufzeiger
-description: "Gap-Analyse interner Richtlinien gegen aktuelle Aufsichtsverlautbarungen (BaFin-Rundschreiben, MaRisk-Novellen, EBA-Leitlinien). Laden bei Vergleich von Bestandsrichtlinien mit neuen regulatorischen Anforderungen."
+description: "Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Pruefraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen Verbesserungsvorschlaege. Output: Lueckenanalyse Stellungnahmen-Vorentwurf. Abgrenzung: nicht fuer interne Compliance-Luecken (luecken)."
 ---
 
 # Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen
@@ -90,6 +90,21 @@ Schweregradkriteria:
 ### 5. Gap-Tracker schreiben
 
 Gap-Liste in `~/.claude/plugins/config/claude-fuer-deutsches-recht/regulatorisches-recht/gap-tracker.yaml` aktualisieren.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 06.07.2010 — 2 BvL 13/09, BVerfGE 126, 268 Rn. 40 — Gesetzgeber-Pflicht zur Luecken-Schliesssung bei verfassungsrechtlich gebotenem Handeln; BVerfG kann Gesetzgeber zur Nachbesserung verpflichten ohne Norm sofort fuer nichtig zu erklaeren
+- EuGH, Urt. v. 19.11.2015 — C-509/13 (Montis Design), NJW 2016, 215 — Luecken im nationalen Recht bei RL-Umsetzung; Mitgliedstaaten haben Luecken durch richtlinienkonforme Auslegung zu schliessen; vollstaendige Nichtbefassung kann Vertragsverletzung begruenden
+- BGH, Urt. v. 25.01.2022 — XI ZR 559/20, NJW 2022, 1303 — Luecken in AGB-Kontrolle bei regulatorischen Finanzprodukten; BGB-Luecken bei Regulierungs-Compliance schliessen Gerichte nach § 306 Abs. 2 BGB
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 20 Abs. 3 GG (Lueckenfuellungs-Pflicht) — § 5 EGBGB (Analogie) — §§ 133, 157 BGB (Auslegung) — §§ 306 Abs. 2 BGB (Lueckenfuellung AGB-Recht) — Art. 288 AEUV (Richtlinien-Umsetzungs-Luecken)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 20 Abschn. VI Rn. 80 ff. (Rechtsstaatsprinzip, Lueckenfuellung)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 45 ff. (Norm-Luecken im Verwaltungsrecht)
 
 ## Quellen und Zitierweise
 

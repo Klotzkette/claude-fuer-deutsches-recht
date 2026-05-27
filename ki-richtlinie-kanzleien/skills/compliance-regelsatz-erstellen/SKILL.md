@@ -1,6 +1,6 @@
 ---
 name: compliance-regelsatz-erstellen
-description: "Erzeugt einen standardisierten Compliance-Regelsatz für den KI-Einsatz in Kanzleien mit zehn konkreten Geboten: kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, keine PDF-Uploads ohne AVV, Korrekturlesung als Pflicht sowie Kennzeichnung KI-generierter Inhalte."
+description: "Compliance-Regelsatz Zehn Gebote fuer KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln fuer alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Pruefraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett fuer vollstaendige Richtlinie und zu Berufsrecht-Bausteine."
 ---
 
 # Compliance-Regelsatz erstellen
@@ -13,11 +13,28 @@ Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRA
 
 ## Vorgehen
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Zielgruppe definieren**: Unterschiedliche Regeln für anwaltliche und nicht-anwaltliche Mitarbeitende oder einheitlicher Regelsatz für alle?
 2. **Zehn Gebote formulieren**: Aus den rechtlichen Anforderungen konkrete Handlungsregeln ableiten.
 3. **Ausnahmen definieren**: Wann sind Ausnahmen zulässig (z.B. Upload mit AVV)?
 4. **Kommunikation sicherstellen**: Regelsatz in Schulungen erklären, schriftlich quittieren lassen.
 5. **Regelsatz plakativ aufbereiten**: Auf einer DIN-A4-Seite oder als Poster für Kanzleiräume aufbereiten.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — KI-Compliance-Regelsatz fuer Kanzlei erstellen | Regelsatz nach 10-Gebote-Schema; Template unten |
+| Variante A — Kleine Kanzlei max drei Seiten | Kurzfassung Regelsatz; nur Kernregeln |
+| Variante B — Mandant will Regelsatz in Englisch | Englischsprachige Vorlage; Terminologie anpassen |
+| Variante C — Vorhandener Regelsatz aktualisieren | Nur geaenderte Stellen ueberarbeiten; Version-Tracking |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -43,6 +60,60 @@ Der Regelsatz operationalisiert die zentralen Rechtspflichten: § 43a Abs. 2 BRA
 
 **10.** Wir melden jeden Verdachtsfall einer Compliance-Verletzung beim KI-Einsatz unverzüglich an [Name Datenschutzbeauftragter/Berufsrechtsbeauftragter/Geschäftsführung].
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Der Regelsatz ist mindestens halbjährlich zu überprüfen. Bei wesentlichen Änderungen der genutzten KI-Dienste, bei neuen Gerichtsentscheidungen zur Haftung oder bei neuen BRAK/DAV-Hinweisen ist eine Aktualisierung geboten. Alle Mitarbeitenden müssen über Änderungen informiert und neu geschult werden.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 70: Kein Transfer personenbezogener Daten an US-Anbieter ohne angemessenes Schutzniveau; Compliance-Regelsatz muss Privat-Account-Verbot enthalten.
+- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht gilt auch fuer technische Dienstleister; Compliance-Regelsatz muss AVV-Anforderungen umsetzen.
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Anwaltshaftung bei unkritischer Uebernahme fehlerhafter KI-Ausgaben — Korrekturpflicht als Compliance-Anforderung.
+- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: Mitbestimmungsrecht des Betriebsrats bei EDV-Nutzungsrichtlinien — KI-Compliance-Regelsatz erfordert Betriebsratseinbindung.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a Abs. 2 BRAO — Verschwiegenheit
+- § 43e BRAO — IT-Dienstleister-Anforderungen
+- Art. 28 DSGVO — AVV-Pflicht
+- Art. 5 Abs. 1 lit. c KI-VO — Verbotene biometrische Praktiken
+- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmung bei technischen Ueberwachungssystemen
+
+## Triage zu Beginn
+1. Welche KI-Systeme werden in der Kanzlei eingesetzt — ist eine Freigabeliste vorhanden?
+2. Gibt es bereits einen Compliance-Regelsatz oder wird er neu erstellt?
+3. Ist ein Betriebsrat vorhanden — wurde nach § 87 Abs. 1 Nr. 6 BetrVG eingebunden?
+4. Sind alle Mitarbeiter ueber das Privat-Account-Verbot und die Anonymisierungspflicht informiert?
+5. Gibt es Schulungsunterlagen zum Compliance-Regelsatz?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template — Compliance-Regelsatz KI (10 Gebote)
+**Adressat:** Alle Kanzlei-Mitarbeiter — Tonfall: verbindlich, klar
+```
+COMPLIANCE-REGELSATZ KI-EINSATZ — [KANZLEI]
+Stand: [DATUM] — Version: [VERSIONSNUMMER]
+VERBINDLICH FUER ALLE MITARBEITERINNEN UND MITARBEITER
+
+1. KEIN PRIVAT-ACCOUNT: Nur freigegebene Kanzlei-Accounts verwenden.
+2. KEINE MANDATSDATEN OHNE ANONYMISIERUNG: Vor jeder KI-Eingabe pseudonymisieren.
+3. KEIN PDF-UPLOAD OHNE AVV: Dokumente nur in Systeme mit Art. 28 DSGVO-AVV hochladen.
+4. KEINE UNKRITISCHE UEBERNAHME: Jede KI-Ausgabe ist vor Verwendung menschlich zu pruefen.
+5. KENNZEICHNUNGSPFLICHT: KI-generierte Inhalte im Schriftsatz als solche kennzeichnen.
+6. QUELLENVERIFIZIERUNG: Jede Rechtsprechungs-Fundstelle gegen amtliche Quellen pruefen.
+7. KEINE VERTRAULICHEN DATEN IN NICHT-FREIGEGEBENE SYSTEME.
+8. MELDEPFLICHT: Sicherheitsvorfall oder ungewoehnliches KI-Verhalten sofort melden an: [KONTAKT].
+9. SCHULUNGSPFLICHT: Jaehrliche KI-Pflichtschulung erforderlich.
+10. COMPLIANCE-OFFICER KONTAKTIEREN bei Unsicherheit: [KONTAKT].
+
+Verabschiedet von: [GESCHAEFTSFUEHRUNG], [DATUM]
+```

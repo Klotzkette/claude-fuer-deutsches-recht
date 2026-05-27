@@ -1,6 +1,6 @@
 ---
 name: common-law-simulation-negotiation
-description: "Simuliert UK US Vertragsverhandlungen, Issue Lists und Mandantengespräche mit False-Friends-Lernkurve."
+description: "Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Pruefraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklaerung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklaerung)."
 ---
 
 # Simulation und Verhandlungstraining
@@ -47,3 +47,78 @@ Fiktive Verhandlungsrunden trainieren junge Anwältinnen und Anwälte mit klar m
 ## Ton
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Triage vor Verhandlungssimulation
+
+Kläre vor dem Training:
+
+1. Reale oder fiktive Verhandlung — sollen echte Mandantendaten verwendet werden?
+2. Welche Partei spielt der Trainee — Käufer, Verkäufer, Kreditgeber, Target?
+3. Erfahrungsniveau: Erstes Jahr, Mittelstufe, Senior Associate?
+4. Welche Schlüsselklauseln sind Gegenstand der Simulation (MAC, Indemnity, Reps & Warranties, Pricing)?
+5. Soll die Simulation auf englisches Recht, New York Law oder einen hybriden Kontext ausgerichtet sein?
+
+## Key Case Law — Verhandlung und Good Faith
+
+- *Walford v Miles* [1992] 2 AC 128 (HL) — kein implied duty to negotiate in good faith im englischen Recht; Pre-Contractual-Verhandlungen binden grundsaetzlich nicht, Lock-Out-Agreements ohne bestimmbare Laufzeit sind nichtig — ein fundamentaler Unterschied zu § 311 II BGB.
+- *Petromec Inc v Petroleo Brasileiro SA* [2005] EWCA Civ 891 — begrenzte Ausnahme: express duty of good faith in einem Teilvertrag kann bindend sein; wichtig fuer Trainingsszenarien mit NDA + Term Sheet.
+- *Pitt v PHH Asset Management Ltd* [1994] 1 WLR 327 (CA) — Lock-Out-Agreement mit bestimmter Laufzeit ist wirksam und durchsetzbar; zeigt Gestaltungsalternative zu Good-Faith-Klauseln.
+- *BCCI SA v Ali* [2001] UKHL 8 — weite Releases in Vergleichsverhandlungen; Parteien muessen klar und deutlich formulieren, wenn sie unbekannte Claims freigeben wollen — Lehrfall fuer Settlement-Training.
+
+## Normen und Quellen — Verhandlungsrecht
+
+**UK**
+- Contract (Rights of Third Parties) Act 1999 — Drittbegünstigte in Verhandlungsszenarien
+- Misrepresentation Act 1967 — vorvertragliche Falschangaben im Verhandlungsverlauf
+- Civil Evidence Act 1995 — admissibility von Without-Prejudice-Kommunikation
+
+**US**
+- Restatement (Second) of Contracts §§ 161-164 — Misrepresentation in Negotiations
+- UCC § 1-304 — obligation of good faith (bei UCC-Vertraegen, anders als Common Law)
+- FRCP Rule 408 — settlement communications (Beweis-Ausschluss)
+
+**Praxis**
+- Fisher/Ury/Patton, *Getting to Yes*, 3rd ed. 2011 — BATNA-Konzept
+- Mnookin/Peppet/Tulumello, *Beyond Winning*, 2000 — Lawyer-as-Negotiator
+
+## Simulationsszenarien — Uebersicht
+
+| Szenario | Governing Law | Knackpunkt | Typischer Trainee-Fehler |
+|---|---|---|---|
+| SPA-Verhandlung (Tech-M&A) | English Law | MAC-Definition, Locked-Box vs Completion Accounts | MAC zu eng definieren |
+| NDA-Verhandlung | New York Law | Definition of Confidential Information, Residuals | "Residuals-Klausel" nicht bemerken |
+| Kreditvertrag | English Law (LMA) | Financial Covenants, Cure Rights | Equity Cure nicht verhandeln |
+| Settlement Agreement | English Law | Release-Breite, BCCI-Risiko | Unbekannte Claims freisetzen |
+| JV-Term Sheet | DE + English Law | Good-Faith-Pflicht vs. Walford v Miles | BGB-Standard auf englischen Vertrag anwenden |
+
+## Output-Template: Simulationsprotokoll
+
+**Adressat:** Trainer / Supervisorin — **Tonfall:** strukturiert, lernorientiert
+
+```
+VERHANDLUNGSSIMULATION — PROTOKOLL
+Datum: [DATUM]
+Szenario: [BEZEICHNUNG]
+Trainee: [NAME / ANONYMISIERT]
+Partei: [KAEUFER / VERKAEUFER / ...]
+Governing Law: [RECHTSORDNUNG]
+
+ERGEBNIS DER SIMULATION
+Einigungspunkte: [...]
+Offene Punkte: [...]
+Erreichtes BATNA-Ergebnis: [BESSER / SCHLECHTER / EINIGUNG]
+
+BEOBACHTUNGEN
+Staerken: [...]
+Entwicklungsbereiche: [...]
+
+FALSE-FRIENDS-VORFAELLE
+- [Begriff] wurde falsch verwendet: [Beschreibung] — Korrekt: [...]
+
+JURISTISCHE FEHLER
+- [Punkt] — Richtige Regel: [Kurz] — Fundstelle: [...]
+
+FEEDBACK-GESPRAECH
+Kernbotschaft: [1-2 Saetze]
+Naechster Uebungsschritt: [...]
+```

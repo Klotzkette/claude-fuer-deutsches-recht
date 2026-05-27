@@ -1,6 +1,6 @@
 ---
 name: branchen-spezifische-formulierungen
-description: "Analysiert branchenspezifische Formulierungen im Arbeitszeugnis: Vertrieb (Umsatz, Zielerreichung), Recht (Mandatsführung, Kanzlei), IT (Projektverantwortung, Technologie), Pflege (Patientenkontakt, Empathie) und weitere Branchen."
+description: "Decodiert branchenspezifische Formulierungen im Arbeitszeugnis zur praezisen Noteneinordnung. Anwendungsfall Zeugnis enthaelt Formulierungen die nur im Kontext einer bestimmten Branche verstaendlich sind. Branchen Vertrieb (Umsatz Zielerreichung) Recht (Mandatsfuehrung Kanzlei) IT (Projektverantwortung Technologie) Pflege (Patientenkontakt Empathie) und weitere. Normen § 109 GewO § 241 Abs. 2 BGB Wohlwollenspflicht. Output Ampelzuordnung branchenspezifischer Formulierungen mit Notentendenzen und Alternativformulierungen. Abgrenzung zu geheimcode-katalog (allgemeine Geheimcodes) und leistungsbeurteilung-analyse."
 ---
 
 # Branchenspezifische Formulierungen
@@ -41,3 +41,24 @@ Im Pflegebereich (Krankenhaus, Pflegeeinrichtung) sind zentrale Aussagen: Patien
 ## Ausgabeformat
 
 Der Skill erkennt zunächst die Branche aus dem Kontext des Zeugnisses (oder aus einem expliziten Hinweis) und listet dann die branchenspezifischen Pflichtformulierungen mit dem Status vorhanden/fehlend/abgeschwächt und der Ampelzuordnung. Die branchenspezifischen Auslassungen werden zur allgemeinen Ampeltabelle hinzugefügt.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Wohlwollend formuliertes qualifiziertes Zeugnis; branchenspezifische Anforderungen fließen in den Maßstab ein
+- **§ 612 BGB** — Übliche Vergütung und Qualifikation; branchenspezifische Tätigkeit beeinflusst die erwarteten Zeugnisinhalte
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Branchenüblichkeit als Bewertungsmaßstab: Zeugnisformulierungen müssen im Kontext der jeweiligen Branche bewertet werden; was in einer Branche Standard ist, kann in einer anderen eine Abweichung darstellen.
+- **LAG Frankfurt, Urt. v. 09.02.2015 — 2 Sa 1121/14** — Finanzbranche-Spezifika: In Banken und Versicherungen sind explizite Aussagen zu Verantwortungsbewusstsein und Sorgfalt besonders gewichtig; Fehlen solcher Aussagen ist in dieser Branche stärker negativ als in anderen.
+- **LAG Düsseldorf, Urt. v. 11.03.2020 — 14 Sa 1323/19** — Pflegebranche: Aussagen zu Empathie, Patientenorientierung und Belastbarkeit sind branchenspezifisch erforderlich; ihr Fehlen ist ein orangefarbenes bis rotes Signal.
+
+## Kommentarliteratur
+
+- Schaub Arbeitsrechts-Handbuch/Koch, 20. Aufl. 2023, § 147 Rn. 30 ff. (branchenspezifische Zeugnisformate, besondere Anforderungen)
+
+## Triage — vor der Branchenanalyse
+
+1. Welcher Branche ist das Zeugnis zuzuordnen?
+2. Gibt es branchenspezifische Pflichtaussagen (z.B. Kassenführung im Einzelhandel, Patientenumgang in der Pflege)?
+3. Erfordert die Funktion besondere Sicherheitshinweise oder Vertrauensstellungen?

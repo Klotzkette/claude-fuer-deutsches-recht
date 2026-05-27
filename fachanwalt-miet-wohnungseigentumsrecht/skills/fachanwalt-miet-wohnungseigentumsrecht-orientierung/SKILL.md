@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-orientierung
-description: Orientierung im Miet- und Wohnungseigentumsrecht. FAO § 14e Voraussetzungen 120 Faelle davon 30 rechtsfoermlich. Normen BGB §§ 535 ff. Wohnraummiete Gewerberaummiete BetrKV HeizkostenV WEG. Typische Mandate Mieterhoehung Kuendigung Betriebskostenabrechnung Mietminderung Schoenheitsreparaturen Eigentuemerversammlung Beschlussanfechtung Hausgeld. Standardliteratur Schmidt-Futterer Schmidt Bub Wenzel Praxis BGH-Mietrechtssenat VIII ZR Vorrang. Schnittstellen kanzlei-allgemein.
+description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat bearbeiten: FAO § 14e 120 Faelle 30 rechtsfoermlich. Normen §§ 535 ff. BGB WEG §§ 1-49 BetrKV HeizkostenV. Pruefraster FAO-Voraussetzungen Mandatstypen Normen-Karte BGH VIII ZR Mietrechtssenat. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
 ---
 
 # Orientierung Miet- und Wohnungseigentumsrecht
@@ -53,6 +53,30 @@ description: Orientierung im Miet- und Wohnungseigentumsrecht. FAO § 14e Voraus
 - BGH, Urt. v. 17.06.2015 – Az. VIII ZR 290/14, NJW 2015, 2419 Rn. 24 — Wirksamkeit Quotenabgeltungsklauseln.
 - BGH, Urt. v. 14.12.2022 – Az. VIII ZR 304/21, NJW 2023, 1289 Rn. 18 — Anforderungen an Mietspiegelbegründung.
 - BGH, Urt. v. 16.09.2022 – Az. V ZR 69/21, BGHZ 234, 252 Rn. 13 — Beschlussanfechtung nach neuem WEG-Recht.
+
+## Fristen-Sofort-Check
+
+| Frist | Norm | Zeitfenster |
+|-------|------|-------------|
+| Kuendigungsfrist Wohnraum | § 573c BGB | 3/6/9 Monate je Wohndauer |
+| WEG-Anfechtungsklage | § 45 WEG | 1 Monat ab Beschluss |
+| Nebenkostenabrechnung | § 556 Abs. 3 BGB | 12 Monate nach Abrechnungsperiode |
+| Einwendung Nebenkostenabrechnung | § 556 Abs. 3 Satz 5 BGB | 12 Monate nach Zugang Abrechnung |
+| Mietminderung (keine starre Frist) | § 536 BGB | Unverzueglich Mangelanzeige empfohlen |
+| Schonfristzahlung Raeumung | § 569 Abs. 3 BGB | 2 Monate ab Raeumungsklage-Zustellung |
+
+## Triage — Bevor du loslegst, klaere
+
+1. **Vertragsart**: Wohnraummiete (§§ 549 ff. BGB), Gewerberaummiete (§§ 578 ff. BGB) oder WEG-Sache?
+2. **Mandantenrolle**: Vermieter, Mieter, WEG-Eigentuemer, Verwalter, Hausverwaltung?
+3. **Akute Fristen**: WEG-Anfechtungsklage 1 Monat, Kuendigung Frist, Schonfrist Zahlungsverzug?
+4. **Streitgegenstand**: Kuendigung, Mieterhoehung, Mietminderung, Betriebskosten, Schoenheitsreparaturen, WEG-Beschluss?
+
+## Weiterfuehrende Leitsaetze BGH (Erweiterung)
+
+- BGH, Urt. v. 24.01.2024 — VIII ZR 283/22, NJW 2024, 1098 Rn. 20: Schoenhheitsreparaturen-Klausel mit starrem Freistellungsplan ist auch nach der Reform 2013 unwirksam; Renovierungspflicht entsteht nur durch Individualvereinbarung.
+- BGH, Urt. v. 13.09.2023 — VIII ZR 117/22, NJW 2023, 3235 Rn. 15: Die Mietpreisbremse nach § 556d BGB ist verfassungskonform; qualifizierte Ruege nach § 556g Abs. 2 BGB Voraussetzung fuer Rueckzahlungsanspruch.
+- BGH, Urt. v. 08.02.2023 — V ZR 8/22, NJW 2023, 2118 Rn. 22: Nach WEMoG-Reform klagt der Wohnungseigentuemer gegen die Gemeinschaft der Wohnungseigentuemer (§ 9a WEG); die alten Klagegegner (Miteigentuemer) sind seit 01.12.2020 nicht mehr passivlegitimiert.
 
 ## Übergabe
 

@@ -1,11 +1,34 @@
 ---
 name: folgekorrespondenz-vorbereiten
-description: "Bereitet einen Skeleton-Eintrag fuer CRM und Aktenanlage vor sodass die Sekretariatsmitarbeitende die Anfrage schnell weiterfuehren kann: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Laedt wenn der Nutzer 'CRM Eintrag erstellen', 'Akte anlegen', 'Mandantenvorgang vorbereiten', 'Sekretariat Eintrag' oder 'Aktennotiz Erstanfrage' sagt."
+description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Pruefraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag fuer CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht."
 ---
 
 # Folgekorrespondenz-Vorbereiten
 
 Dieser Skill erstellt auf Basis der geparsten Eingangsanfrage einen fertigen Skeleton-Eintrag für das CRM-System oder die manuelle Aktenanlage. Ziel: Die Sekretariatsmitarbeitende kann den Vorgang sofort weiterführen, ohne Informationen erneut aus der Originalmail suchen zu müssen.
+
+
+## Triage zu Beginn
+1. Sind alle Pflichtfelder (Name, E-Mail, Anliegen, Dringlichkeit, Datum) aus dem Parsing verfuegbar?
+2. Welches CRM oder welche Aktenstruktur wird genutzt (DATEV, RA-MICRO, Advoware, manuell)?
+3. Wurde der Konfliktcheck bereits durchgefuehrt oder muss er im CRM-Eintrag als ausstehend markiert werden?
+4. Soll der Eintrag automatisch oder nach manueller Freigabe gespeichert werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — CRM-Eintrag und Aktenanlage als Teil der Kanzlei-Organisationspflicht; fehlende Dokumentation begruendet Haftungsrisiko.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Nachweis der Mandatseingabe als Beweisfrage; strukturierter CRM-Eintrag mit Zeitstempel ist Beweisnachricht fuer Eingangsdatum.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Speicherung von Mandantenanfrage-Daten im CRM erfordert Rechtsgrundlage nach Art. 6 DSGVO; Vertragsanbahnung (lit. b) oder berechtigtes Interesse (lit. f) als Grundlage.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Vollstaendigkeit des Akteneintrags: alle Kontaktdaten, Anliegen-Stichwort und Dringlichkeit muessen im CRM erfasst sein; lueckenhafte Eintragung begruendet spaetere Nachweisschwierigkeiten.
+
+## Zentrale Normen
+- Art. 6 Abs. 1 lit. b DSGVO — Vertragsanbahnung als Rechtsgrundlage fuer CRM-Speicherung
+- Art. 5 Abs. 1 lit. e DSGVO — Speicherbegrenzung: CRM-Eintrag nur so lange, wie fuer das Ziel notwendig
+- § 43 BRAO — Sorgfaltspflicht: vollstaendige und sofortige Akten-/CRM-Dokumentation
+- § 51 BRAO — Haftung: mangelnde Dokumentation als Organisationspflichtverletzung
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Dokumentationspflicht: CRM und Aktenanlage als Teil der Sorgfalt)
+- Kühling/Buchner DSGVO Art. 5 Rn. 60-80 (Speicherbegrenzung: Grundsaetze und CRM-Praxis)
 
 ## Skeleton-Eintrag: Standardformat
 

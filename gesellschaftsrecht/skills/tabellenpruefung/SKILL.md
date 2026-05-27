@@ -19,6 +19,19 @@ Dies ist **keine** Problemerkennung. `/gesellschaftsrecht:dd-findings-extraktion
 
 Dies ersetzt **nicht** das Lesen des Dokuments. Jede Zelle ist ein **Hinweis, der der Verifikation bedarf**, kein abschließender Befund.
 
+## Kernsachverhalt
+
+Die Prompt-Matrix löst ein klassisches Problem in der M&A-Due-Diligence: Wenn 200 Kundenverträge auf Change-of-Control-Klauseln geprüft werden müssen, kann ein Anwalt dies nicht einzeln konsistenter qualitätsprüfen als durch ein strukturiertes Schema, das für jeden Vertrag dieselben Fragen in derselben Reihenfolge stellt. Das Risiko ohne Matrix: Unterschiedliche Prüfer stellen unterschiedliche Fragen, übersehen relevante Klauseln oder formulieren Befunde inkonsistent. Mit Matrix: Vollständigkeit, Vergleichbarkeit und Rückverfolgbarkeit sind strukturell gesichert.
+
+## Kaltstart-Rückfragen
+
+1. Welche Dokumente sollen geprüft werden — Vertragsnummern, Dokumententypen, VDR-Pfad, Dateipfad, oder direkt hochgeladen?
+2. Welche Datenpunkte/Fragen sollen für alle Dokumente extrahiert werden (Spaltenprompts)?
+3. Gibt es Dokumente, die besondere Behandlung brauchen — Konzernverträge, fremdsprachige Verträge, Nachträge ohne Hauptvertrag?
+4. Welche Materiality-Schwelle gilt — welche Klauseln sind immer meldepflichtig, unabhängig vom Schwellenwert?
+5. Welches Ausgabeformat wird benötigt — Markdown, Excel, CSV?
+6. Welches Recht gilt primär — deutsches Recht, englisches Recht, US-Recht, mehrere?
+
 ## Eingaben
 
 - **Dokumentenquelle**: Datenraum-Ordner (VDR), lokaler Pfad, SharePoint-Bibliothek, Liste von Dateipfaden
@@ -38,6 +51,7 @@ Dies ersetzt **nicht** das Lesen des Dokuments. Jede Zelle ist ein **Hinweis, de
 **Change-of-Control:**
 - BGH, Urt. v. 29.04.2008 – KZR 2/07, NJW 2008, 3055 Rn. 18 (Kündigung bei mittelbarem Kontrollwechsel)
 - BGH, Urt. v. 10.11.2016 – I ZR 193/15, NJW-RR 2017, 877 Rn. 14 (Vertragsübernahme ohne Schuldnerzustimmung)
+- OLG Frankfurt, Urt. v. 10.09.2020 – 26 U 35/19 (unzureichende Disclosure im Datenraum)
 
 **Abtretungsverbote:**
 - § 399 BGB (Abtretungsausschluss durch Parteivereinbarung)
@@ -46,6 +60,20 @@ Dies ersetzt **nicht** das Lesen des Dokuments. Jede Zelle ist ein **Hinweis, de
 
 **MAC-Klauseln:**
 - §§ 313, 314 BGB (Wegfall der Geschäftsgrundlage; außerordentliche Kündigung) als gesetzlicher Hintergrund
+
+**Konzernrecht:**
+- §§ 15 ff. AktG (verbundene Unternehmen)
+- § 311 AktG (nachteilige Maßnahmen)
+- § 308 AktG (Weisungsrecht im Vertragskonzern)
+- §§ 291, 292 AktG (Unternehmensverträge)
+
+**Datenschutz:**
+- Art. 28 Abs. 4 DSGVO (Sub-Auftragsverarbeitung bei SaaS-Verträgen)
+- Art. 46 DSGVO (Drittlandübermittlung)
+
+**AGB-Recht:**
+- §§ 305 ff. BGB (Inhaltskontrolle; überraschende Klauseln; unangemessene Benachteiligung)
+- § 307 Abs. 1 BGB (Generalklausel AGB-Kontrolle)
 
 **Kommentarliteratur:**
 - Westermann, in: MüKoBGB, 9. Aufl. 2022, § 453 Rn. 12 (Unternehmenskauf, Due Diligence)
@@ -131,6 +159,54 @@ spalten:
     prompt: >
       Welche betragsmäßige Haftungsobergrenze ist vereinbart? In EUR.
       Mehrere Limits (z. B. pro Schadensfall vs. aggregat) separat erfassen.
+
+  - id: laufzeit
+    label: Mindestlaufzeit und Kündigung
+    typ: dauer
+    prompt: >
+      Wie lange läuft der Vertrag mindestens? Welche Kündigungsfristen gelten?
+      Ordentliche und außerordentliche Kündigung separat. Dauer + Einheit.
+
+  - id: exklusivitaet
+    label: Exklusivität
+    typ: klassifizieren
+    optionen:
+      - exklusiv_zugunsten_mandant
+      - exklusiv_zugunsten_gegenpartei
+      - gegenseitig_exklusiv
+      - keine_exklusivitaet
+    prompt: >
+      Enthält der Vertrag eine Exklusivitätsklausel? Wer ist begünstigt?
+      Wörtliches Zitat als Begleitfeld.
+
+  - id: streitbeilegung
+    label: Streitbeilegung
+    typ: klassifizieren
+    optionen:
+      - ordentliches_gericht_de
+      - schiedsverfahren_dis
+      - schiedsverfahren_icc
+      - schiedsverfahren_lcia
+      - schiedsverfahren_sonstig
+      - mediation_vorschaltung
+      - auslaendisches_gericht
+      - keine_klausel
+    prompt: >
+      Welche Streitbeilegungsklausel enthält der Vertrag? Gerichtsstand, Schiedsort,
+      Schiedsordnung. Anwendbares Recht. Wörtliches Zitat.
+
+  - id: datenschutz_avv
+    label: Auftragsverarbeitung DSGVO
+    typ: klassifizieren
+    optionen:
+      - avv_enthalten
+      - avv_als_anlage
+      - keine_personenbezogenen_daten
+      - unklar
+    prompt: >
+      Enthält der Vertrag eine Auftragsverarbeitungsvereinbarung (AVV) nach
+      Art. 28 DSGVO? Bei SaaS-Verträgen Sub-AV nach Art. 28 Abs. 4 prüfen.
+      Drittlandübermittlung nach Art. 46 DSGVO prüfen.
 ```
 
 ### Schritt 2 — Zeilenprompts definieren (das Neue an dieser Matrix)
@@ -316,13 +392,73 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 
 **Ergebnis** (Auszug):
 
-| Dokument | Zeilen­prompt­typ | Gegenpartei | CoC | Abtretung | Haftungs­obergrenze | Zeilen­prompt-Notiz |
+| Dokument | Zeilenprompttyp | Gegenpartei | CoC | Abtretung | Haftungsobergrenze | Zeilenprompt-Notiz |
 |---|---|---|---|---|---|---|
 | Alpha-MSA | rahmenvertrag | Alpha GmbH | zustimmungserforderlich | zustimmungserforderlich | 12 Mio EUR | § 311 AktG geprüft — keine Beherrschungsklausel; CoC eindeutig |
 | Berlin-Miete | gewerberaummietvertrag | Vermieter XY GbR | keine_regelung | absolut (§ 354a HGB-Vorbehalt) | unbegrenzt | Indexmiete § 5(2): Klausel ⚠️ § 557b BGB-konform? prüfen |
 | Beta-Vendor | internationaler_vertrag | Beta Ltd | kündigungsrecht_bei_coc | frei_übertragbar | 5 Mio EUR | English law, LCIA-Schiedsverfahren — Zuständigkeitsfrage geklärt |
 | K7-Nachtrag | anlage_nachtrag | (s. K6) | (s. K6) | (s. K6) | (s. K6) | Verweis auf K6 — separat zu lesen |
 | Gamma-SaaS | (eigener) | Gamma GmbH | zustimmungserforderlich | zustimmungserforderlich | 100% Jahresvergütung | Art. 28 IV DSGVO: Sub-AV-Erlaubnis ohne Vorabzustimmung ⚠️ |
+
+## Prüfschema für den Matrix-Aufbau
+
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Dokumentenquelle klären | Pfad, Anzahl, Format, Zugänglichkeit | Inventar steht |
+| 2 | Spaltenprompts definieren | Je Datenpunkt: Typ, Prompt, Optionen | Schema fertig |
+| 3 | Zeilenprompts erfassen | Dokumenttypen identifizieren; Sonderbehandlung beschreiben | Zeilen-Prompts fertig |
+| 4 | Matrix anzeigen | Probematrix dem Nutzer zeigen; Bestätigung einholen | Matrix bestätigt |
+| 5 | Probedurchlauf | 3–5 Dokumente; Schema auf Konsistenz prüfen | Schema validiert |
+| 6 | Schema anpassen | Inkonsistente Spalten umformulieren; fehlende Optionen ergänzen | Schema final |
+| 7 | Vollständiger Durchlauf | Alle Dokumente parallel; Zeilenprompts zuordnen | Rohdaten fertig |
+| 8 | Normalisierung | Spaltenweise Konsistenzprüfung; Ausreißer manuell prüfen | Normiert |
+| 9 | Stichproben-Verifikation | 10 % der Zitate am Quelldokument verifizieren | Qualitätsprüfung |
+| 10 | Ausgabe erzeugen | Markdown + Excel/CSV + Schema-Dateien | Output fertig |
+| 11 | Zusammenfassung | Statistik, Flags, offene Prüfpunkte | Zusammenfassung |
+| 12 | Übergabe | An DD-Findings-Skill, Disclosure Schedules, Q&A | Übergabe dokumentiert |
+
+## Erweiterte Spaltenprompt-Bibliothek
+
+### Arbeitsrecht / Employment
+
+| Spalte | Typ | Prompt |
+|---|---|---|
+| Wettbewerbsverbot | klassifizieren | Hat der Arbeitnehmer / die Schlüsselperson ein nachvertragliches Wettbewerbsverbot? § 74 HGB: Karenzentschädigung erforderlich; Dauer max. 2 Jahre. |
+| Change-of-Control-Recht | klassifizieren | Hat der Mitarbeiter ein Sonderkündigungsrecht oder Abfindungsanspruch bei Kontrollwechsel? |
+| Geheimnisschutz | wörtlich | Enthält der Vertrag eine Geheimhaltungsklausel? § 1 GeschGehG: Legaldefinition prüfen. |
+
+### IP / Technologie
+
+| Spalte | Typ | Prompt |
+|---|---|---|
+| IP-Eigentumsklausel | klassifizieren | Wer ist Eigentümer des während der Zusammenarbeit entwickelten IP? Klassifikation: Auftraggeber / Auftragnehmer / gemeinsam. |
+| Lizenzumfang | wörtlich | Welche Nutzungsrechte werden eingeräumt? Territorial, zeitlich, exklusiv/nicht-exklusiv, sublizenzierbar? |
+| Open-Source-Verpflichtungen | klassifizieren | Enthält der Vertrag Verpflichtungen aus Open-Source-Lizenzen? Copyleft-Risiko (GPL, AGPL)? |
+
+### Finance / Kredit
+
+| Spalte | Typ | Prompt |
+|---|---|---|
+| Financial Covenants | wörtlich | Welche Financial Covenants enthält der Vertrag? EBITDA-Mindestwert, Verschuldungsgrad, Interest Cover Ratio. |
+| Material Adverse Change | wörtlich | Enthält der Vertrag eine MAC-Klausel? Definition: welche Ereignisse? Schwellenwert? |
+| Vorfälligkeitsregelung | klassifizieren | Kann der Kreditgeber vorzeitig kündigen oder fällig stellen? Auslöser: Cross-Default, MAC, Covenant-Verletzung? |
+
+### Real Estate / Immobilien
+
+| Spalte | Typ | Prompt |
+|---|---|---|
+| Mietfläche | betrag | Gemietete Fläche in m². Wörtliches Zitat aus Mietvertrag. |
+| Untervermietungsrecht | klassifizieren | Darf der Mieter untervermieten? Zustimmungserfordernis des Vermieters? § 540 BGB. |
+| Konkurrenzschutz | klassifizieren | Enthält der Mietvertrag eine Konkurrenzschutzklausel zugunsten des Mieters? |
+
+## Beweislast und Haftungsrisiken
+
+| Risiko | Norm | Konsequenz |
+|---|---|---|
+| Unvollständiger Review führt zu übersehener CoC-Klausel | §§ 280, 634 BGB (Anwaltsvertrag); § 43 BRAO | Anwaltshaftung; Schadensersatz |
+| Paraphrase als Zitat ausgegeben | BGH-Grundsätze zur Beweiskraft | Befund ohne Beweiswert; Garantieverletzung nicht nachweisbar |
+| § 354a HGB nicht beachtet | § 354a HGB; § 399 BGB | Unwirksamkeit des Abtretungsverbots übersehen; Closing-Problem |
+| DSGVO Sub-AV übersehen | Art. 28 Abs. 4 DSGVO | Bußgeldrisiko; Haftung des Auftraggebers |
 
 ## Risiken und typische Fehler
 
@@ -333,6 +469,17 @@ Strukturierte Tabelle (Markdown sitzungsintern + Excel/CSV als Dateien) + `revie
 - **Konfidenzwerte erfinden.** Kein numerischer Konfidenzwert. Stattdessen: `unklar` / `prüfung_erforderlich`-Zustände + verbatim Zitate als Konfidenz-Signal.
 - **§ 354a HGB ignorieren.** Abtretungsverbote zwischen Kaufleuten ggf. unwirksam — in Schema-Notizen vermerken.
 - **Zeilenprompt aus Erinnerung statt aus Fakten.** Wenn der Reviewer behauptet „dieser Vertrag ist ein Konzernvertrag" — Faktenlage muss aus dem Dokument belegt sein, nicht aus Vermutung.
+- **Fremde Rechtsordnung ohne Hinweis.** Englischsprachige Verträge sind nicht automatisch nach englischem Recht; Rechtswahlklausel lesen und dokumentieren.
+- **Nachträge ohne Hauptvertrag.** Nachtrag ohne Hauptvertrag ergibt unvollständige Datenlage; immer Hauptvertrag referenzieren und als Pflichtlektüre markieren.
+
+## Abgrenzung zu anderen Review-Methoden
+
+| Methode | Zweck | Unterschied zur Prompt-Matrix |
+|---|---|---|
+| Freies Dokumenten-Review | Umfassende Prüfung eines einzelnen Vertrags | Kein Stapeldurchlauf; kein einheitliches Schema |
+| DD-Findings-Extraktion | Probleme in Massendaten finden | Findet Anomalien; beantwortet keine feste Fragenliste |
+| Checklisten-Review | Ja/Nein-Fragen ohne Quellennachweis | Kein Zitat; kein Quellenbezug |
+| Prompt-Matrix (dieser Skill) | Gleiche Fragen für alle Dokumente, mit Quellennachweis | Vergleichbarkeit + Beweiskette + Sonderbehandlung |
 
 ## Quellenpflicht
 
@@ -346,5 +493,59 @@ Jede rechtliche Beurteilung im Schema-Aufbau und in der Normalisierung mit Norm 
 - AGB-Kontrolle bei Stapel: `§§ 305 ff. BGB`
 - Sub-AV: `Art. 28 Abs. 4 DSGVO`
 - Kommentare: `Hopt, in: Baumbach/Hopt, HGB, 41. Aufl. 2024, § 354a Rn. 1`
+- Wettbewerbsverbot: `§ 74 HGB`
+- GeschGehG: `§ 1 GeschGehG`
+- Open-Source: Copyleft-Systematik GPL, AGPL
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall. Jede Zelle der Matrix ist ein Hinweis, der vor Verwendung in einer Garantie, einem Anhang oder einem Memo zu verifizieren ist.
+
+## Output-Template
+
+**Adressat:** Bearbeitender Anwalt / Transaktionsteam — Tonfall: sachlich-strukturiert, zeilengenau
+
+```
+PROMPT-MATRIX PRUEFERGEBNIS
+Mandat: [MANDATSCODE]
+Schema-Version: [v1.0 / Datum]
+Pruefzeitraum: [DATUM] bis [DATUM]
+Erstellt von: [NAME], [KANZLEI]
+
+--- ZUSAMMENFASSUNG ---
+Dokumente geprueft: [N]
+Spalten im Schema: [N]
+Zellen gesamt: [N]
+Auffaelligkeiten (prüfung_erforderlich): [N]
+Eindeutig bewertete Zellen: [N] ([%])
+
+--- ERGEBNISMATRIX ---
+| Nr. | Dokument | [SPALTE 1] | [SPALTE 2] | [SPALTE 3] | Auffaelligkeiten |
+|---|---|---|---|---|---|
+| 1 | [DATEINAME] | [WERT / "ZITAT"] | [WERT] | unklar | § [NORM] — prüfung_erforderlich |
+| 2 | [DATEINAME] | [WERT] | [WERT] | [WERT] | — |
+
+--- AUFFAELLIGKEITEN (prüfung_erforderlich) ---
+1. Dokument [N], Spalte [SPALTENNAME]:
+   Befund: [BESCHREIBUNG]
+   Relevante Norm: [§ NORM]
+   Zitat: "[WORTLAUT AUS DOKUMENT]"
+   Empfehlung: [HANDLUNGSHINWEIS]
+
+2. [Weitere Auffaelligkeiten]
+
+--- GRENZFAELLE (menschliche Entscheidung erforderlich) ---
+1. Dokument [N]: [BESCHREIBUNG GRENZFALL]
+   Moegliche Einordnung A: [OPTION A] — Argument: [BEGRUENDUNG]
+   Moegliche Einordnung B: [OPTION B] — Argument: [BEGRUENDUNG]
+   Entscheidung erbeten bis: [DATUM]
+
+--- NAECHSTE SCHRITTE ---
+1. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM]
+2. [AKTION] — verantwortlich: [PERSON] — Frist: [DATUM]
+```
+
+## Rote Schwellen
+
+- **Mehr als 20 % der Zellen als `prüfung_erforderlich`** — Schema ueberarbeiten; Zeilenprompts praezisieren; oder Stichprobengroesse erhoehen bevor Vollstaendigkeitsdurchlauf.
+- **Abtretungsverbot uebersehen (§ 399 BGB / § 354a HGB)** — Haftungsrisiko bei Garantie; alle Abtretungsverbots-Spalten manuell validieren.
+- **Rechtswahlklausel auslaendisches Recht ohne Hinweis** — Anwendbares Recht bestimmt Gueltigkeit aller anderen Befunde; Rechtswahlspalte immer zuerst pruefen.
+- **Zitat fehlt bei belastender Befundzeile** — Beweiswert null; Nachpruefung erforderlich bevor Weitergabe an Mandant.

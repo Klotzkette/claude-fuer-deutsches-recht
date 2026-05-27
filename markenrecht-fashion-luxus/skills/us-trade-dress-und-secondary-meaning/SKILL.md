@@ -1,6 +1,6 @@
 ---
 name: us-trade-dress-und-secondary-meaning
-description: "US Trade Dress Protection: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Product Configuration (Wal-Mart v. Samara Bros. 529 U.S. 205) erfordert Secondary Meaning, Product Packaging (Two Pesos v. Taco Cabana 505 U.S. 763) kann inherent distinctiveness haben. Functionality Doctrine TrafFix Devices 532 U.S. 23. Laedt, wenn der Nutzer 'Trade Dress US', 'Secondary Meaning', 'Product Configuration' oder 'Flakon Trade Dress' sagt."
+description: "US Trade Dress Protection fuer Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schuetzen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Pruefraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke."
 ---
 
 # US Trade Dress und Secondary Meaning
@@ -131,3 +131,19 @@ Declaration of [Name], authorized signatory of klôtzzkètté Inc.
 - **Survey-Kosten:** Secondary-Meaning-Survey kostet USD 50.000-150.000; frühzeitig budgetieren
 - **TrafFix-Falle:** Expired patent über ein Trade-Dress-Feature ist fast unwiderlegbares Indiz für Funktionalität — vor Trade Dress Anmeldung alle relevanten Patente prüfen
 - **Circuit Split Boutique-Ambiente:** Kein einheitliches Recht; SDNY tendenziell Trade-Dress-freundlich für Luxusmarken
+
+## Triage-Fragen bei US Trade Dress
+
+Bevor der Trade-Dress-Schutz beansprucht wird, klaere:
+1. Ist das Trade Dress inherently distinctive (Produktverpackung: moeglicherweise ja; Produktkonfiguration: nein — Wal-Mart-Doktrin)?
+2. Gibt es beendigten oder laufenden Patentschutz auf ein Element des Trade Dress (TrafFix-Risiko: Funktionalitaet)?
+3. Liegen Secondary-Meaning-Belege vor (Werbeausgaben, Marktanteil, Konsumentenbefragung)?
+4. In welchem Circuit wird die Verletzungsklage eingereicht — gibt es Circuit-spezifische Besonderheiten?
+
+## Aktuelle Rechtsprechung (US)
+
+> **Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205 (2000):** Produktkonfigurationen sind nie inherently distinctive und koennen Trade-Dress-Schutz nur durch Nachweis von Secondary Meaning erlangen; das Gericht zieht eine scharfe Grenze zwischen Produktverpackung (kann inherently distinctive sein) und Produktgestaltung.
+
+> **Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992):** Trade Dress, das inherently distinctive ist (hier: Restaurantambiente), ist ohne Secondary-Meaning-Nachweis schutzfaehig nach § 43(a) Lanham Act; das Zurueckgreifen auf inherent distinctiveness setzt voraus, dass das Trade Dress nicht funktional ist.
+
+> **TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23 (2001):** Ein Trade-Dress-Merkmal, das durch ein abgelaufenes Patent als funktional erklaert wurde, ist als wettbewerbsrechtlich freizuhaltendes Element nicht schutzfaehig; das Ablaufen des Patents ist starkes Indiz fuer Funktionalitaet — Registrierung sollte daher vor Patent-Expiry geprueft werden.

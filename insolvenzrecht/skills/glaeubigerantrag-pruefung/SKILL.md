@@ -116,6 +116,9 @@ beauftragt wird oder das Gericht einen vorläufigen Sachverständigen bestellt.
 
 ## Ablauf
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Schritt 1 — Gläubigerprüfung: Forderung
 
 - **Titulierungsstand**: Liegt ein vollstreckbarer Titel vor (Urteil, Beschluss,
@@ -192,6 +195,20 @@ Schuldnerreaktionen und die rechtliche Bewertung:
   kann Eigenverwaltung beantragen (§§ 270 ff. InsO) und behält größeren Einfluss
   auf das Verfahren, als wenn der Gläubigerantrag zur Eröffnung führt.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Glaeubiger-Insolvenzantrag pruefend und Kurzgutachten erstellen | Kurzgutachten nach Pruefschema; Template unten |
+| Variante A — Forderung noch nicht tituliert Antrag riskant | Titulierung zuerst; Insolvenzantrag nach Urteil oder Vollstreckungstitel |
+| Variante B — Schuldner bietet Zahlung an wenn Antrag zurueckgenommen | Ruecknahme-Verhandlung pruefen; wirtschaftliches Ergebnis beachten |
+| Variante C — Mehrere Glaeubiger koordinierter Antrag moeglich | Koordinierter Sammelantrag pruefen; Hauptglaeubiger bestimmen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabeformat
 
 Strukturiertes Prüfungsmemo mit:
@@ -204,6 +221,7 @@ Strukturiertes Prüfungsmemo mit:
 4. **Formulierungsvorschlag** für den zentralen Antragssatz
 5. **Quellen** (vollständige Zitierung aller herangezogenen Entscheidungen und
    Kommentarstellen)
+
 
 ## Beispiel
 
@@ -309,3 +327,48 @@ zu belegen. Pinpoint-Angaben (Randnummer) sind Pflicht.
 ---
 
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — Glaeubigerantrag
+
+Bevor losgelegt wird, klaere:
+
+1. **Forderung vollstreckbar?** Titel oder Glaubhaftmachung § 14 Abs. 1 InsO; eidesstattliche Versicherung ausreichend.
+2. **ZU nachweisbar?** 10%-Luecke BGH IX ZB 116/08; Indizien sammeln: Rücklastschriften, offene Vollstreckungen, Zahlungsstockungen ueber 3 Wochen.
+3. **Rechtsschutzbeduernis?** Kein Missbrauch, keine Druckausübung ohne echte ZU-Indizien (BGH IX ZB 8/04).
+4. **Sicherungsantrag § 21 InsO?** Sofort-Massnahmen bei Vermoegensgefaehrdung beantragen?
+5. **Kostenvorschuss § 26 InsO?** Glaeubigerinteresse an Verfahren trotz Massearmut?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template Kurzgutachten Glaeubigerantrag
+
+**Adressat:** Mandant (Glaeubiger) — Tonfall: sachlich-empfehlend
+
+```
+INTERNES GUTACHTEN — GLAEUBIGERANTRAG § 14 InsO
+Datum: [DATUM]    Mandant: [GLAEUBIGER]    Schuldner: [SCHULDNER]
+
+ERGEBNIS: Glaeubigerantrag [SINNVOLL / NICHT SINNVOLL]
+
+BEGRUENDUNG:
+Forderung: EUR [BETRAG], Faelligkeit [DATUM], Vollstreckbarkeit [JA/NEIN]
+ZU-Nachweis: [Indizien aufzaehlen]
+Rechtsschutzbeduernis: [Beurteilung]
+Sicherungsantrag § 21 InsO: [EMPFOHLEN weil ...]
+Kostenvorschuss: EUR [BETRAG] ggf. erforderlich (§ 26 InsO)
+
+NAECHSTER SCHRITT: [Antrag einreichen bis DATUM]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+

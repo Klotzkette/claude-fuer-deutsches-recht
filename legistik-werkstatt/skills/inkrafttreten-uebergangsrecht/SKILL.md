@@ -1,6 +1,6 @@
 ---
 name: inkrafttreten-uebergangsrecht
-description: "Erstellt Inkrafttretens- und Uebergangsregelung. Standardformel und Sonderfaelle. Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio legis genuegend Vorlauf Pruefung. Gestaffeltes Inkrafttreten verschiedene Artikel zu verschiedenen Daten. Bei EU-Bezug Stillhalteperiode der Notifizierung beachten. Aussenwirkung erst nach Bekanntmachung BGBl Bundesanzeiger. Endet mit Paragraf Inkrafttreten plus Uebergangsregelung formuliert."
+description: "Inkrafttretens- und Uebergangsregelung fuer Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Uebergangsrecht muessen noch ergaenzt werden. Standardformel Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio legis genuegend Vorlauf pruefen. Gestaffeltes Inkrafttreten verschiedene Artikel. EU-Bezug Stillhalteperiode Notifizierung. Aussenwirkung erst nach Bekanntmachung BGBl. Output Paragraf Inkrafttreten plus Uebergangsregelung fertig formuliert."
 ---
 
 # Inkrafttreten und Übergangsrecht
@@ -57,6 +57,21 @@ Wenn das Vorhaben nach RL 2015/1535 notifiziert wurde, darf erst nach Ablauf der
 ## Außenwirkung
 
 Außenwirkung beginnt erst mit Verkündung im BGBl bzw. Landesgesetzblatt. Eintrag im Bundesanzeiger ist nur für Verwaltungsvorschriften relevant.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 23.02.2010 — 1 BvL 10/05, BVerfGE 125, 304 Rn. 53 — echte Rueckwirkung belastender Gesetze grds. verfassungswidrig; nur ausnahmsweise zulaessig bei zwingenden Gruenden des oeffentlichen Wohls und bei fehlendem schutzwuerdigem Vertrauen
+- BVerfG, Beschl. v. 07.07.2010 — 2 BvL 1/03, BVerfGE 127, 1 Rn. 70 — unechte Rueckwirkung (Eingabe in laufende Sachverhalte) zulaessig; Verhaeltnismaessigkeit Massstab; Uebergangsregelungen sind Pflicht wenn Vertrauen schutzwuerdig
+- BVerfG, Beschl. v. 28.11.2023 — 2 BvF 1/22, NJW 2024, 289 — Ruen. 45 — angemessene Anpassungsfrist bei belastenden Gesetzesaenderungen; Normgeber muss schutzwuerdiges Vertrauen durch Uebergangs-Gestaltung wuerdigen; fehlen von Uebergangsrecht kann Norm unverhältnismaessig machen
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 20 Abs. 3 GG (Rechtsstaat, Vertrauensschutz) — Art. 14 GG (Eigentumsschutz bei Uebergangsrecht) — §§ 6-7 HdR (Inkrafttreten, Uebergangsbestimmungen) — § 49 Abs. 6 VwVfG (Bestandsschutz laufender Bewilligungen) — Art. 79 EGBGB (Uebergangsregelungen BGB)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 20 Abschn. VII Rn. 140 ff. (Rueckwirkungsverbot, Vertrauensschutz)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 11 Rn. 25 ff. (Vertrauensschutz und Uebergangsrecht)
 
 ## Ausgabe
 

@@ -9,6 +9,37 @@ description: "Checkliste fuer Kuendigungsschutz-Vergleiche: Beendigungsdatum; Ab
 
 Ein Vergleich im Kündigungsschutzprozess ist mehr als nur eine Abfindungszahlung. Dieser Skill listet alle Punkte auf, die in einem Vergleich geregelt werden sollten — und erklärt, worauf es dabei ankommt.
 
+## Triage zu Beginn — kläre vor Vergleichsverhandlung
+
+1. In welchem Stadium befindet sich das Verfahren (Gütertermin / Kammertermin / nach Urteil)?
+2. Liegt bereits ein Vergleichsangebot des Arbeitgebers vor? (Höhe, Beendigungsdatum, Zeugnisnote)
+3. Hat der Arbeitnehmer Sonderkündigungsschutz, der den Vergleichsdruck verringert?
+4. Droht ein verlorenes Urteil (Hinweisbeschluss des Gerichts zur Erfolgsaussicht bekannt)?
+5. Sind alle Vergleichsthemen (Abfindung, Zeugnis, Freistellung, Wettbewerbsverbot) bekannt?
+
+**Schrittfolge Vergleichsverhandlung:**
+```
+Step 1: Vergleichsangebot entgegennehmen, NICHT sofort zustimmen
+Step 2: Bedenk- und Prüfzeit erbitten (mindestens eine Stunde, ggf. bis nächster Tag)
+Step 3: Alle Vergleichspunkte schriftlich festhalten (diese Checkliste)
+Step 4: Steuerliche und sozialversicherungsrechtliche Auswirkungen berücksichtigen
+Step 5: Vergleich bei Zustimmung protokollieren lassen (§ 794 Abs. 1 Nr. 1 ZPO)
+Step 6: Widerrufsvorbehalt prüfen (sofern möglich, zwei Wochen Widerrufsfrist vereinbaren)
+```
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 27.09.1984 – 2 AZR 62/83, BAGE 47, 26 — Ein gerichtlich protokollierter Vergleich ist ein vollstreckbarer Titel nach § 794 Abs. 1 Nr. 1 ZPO; er ist bindend, sobald beide Parteien zustimmen.
+- BAG, Urt. v. 11.11.2021 – 2 AZR 256/21, NZA 2022, 223 — Eine pauschalierte Erledigungsklausel erfasst alle Ansprüche aus dem Arbeitsverhältnis, also auch offene Lohnforderungen und Urlaubsabgeltung — es sei denn, sie werden ausdrücklich ausgenommen.
+- BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435 — Der Arbeitnehmer hat nach § 109 GewO Anspruch auf ein qualifiziertes Zeugnis mit mindestens der Note befriedigend; höhere Noten müssen im Vergleich konkret vereinbart werden.
+- BAG, Urt. v. 06.09.2006 – 5 AZR 703/05, NZA 2007, 107 — Die Abfindungsvereinbarung nach §§ 9, 10 KSchG ersetzt den Arbeitslosengeldanspruch nicht; das Beendigungsdatum ist für die Berechnung der Anwartschaftszeit entscheidend.
+
+## Kommentarliteratur
+
+- ErfK/Kiel, 24. Aufl. 2024, § 9 KSchG Rn. 20-35 — (Abfindung, gerichtlicher Vergleich, Rechtsfolge)
+- Preis/Hamacher, ArbeitsR-HdB, 20. Aufl. 2023, § 60 Rn. 1 ff. — (Vergleichsschluss, Erledigungsklausel, Widerrufsrecht)
+- MHdB ArbR/Wisskirchen, 5. Aufl. 2021, § 97 Rn. 5 ff. — (Zeugnis im Vergleich, Formulierungsrisiken)
+
 ## Checkliste: Was muss in den Vergleich?
 
 ### 1. Beendigungsdatum

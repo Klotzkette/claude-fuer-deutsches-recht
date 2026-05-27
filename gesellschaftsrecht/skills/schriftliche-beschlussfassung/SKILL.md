@@ -5,6 +5,17 @@ description: "Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbH
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss
 
+## Triage zu Beginn
+
+Vor dem Beschlussentwurf klaeren:
+
+1. **Rechtsform:** GmbH / UG (schriftliches Verfahren § 48 Abs. 2 GmbHG) oder AG (Umlaufbeschluss nur fuer AR § 108 Abs. 4 AktG und Vorstand)? Bei AG-HV: Praesenz-HV oder virtuelle HV (§ 118a AktG) erforderlich.
+2. **Einverstaendnis aller Gesellschafter?** § 48 Abs. 2 GmbHG setzt nach h.M. voraus, dass alle Gesellschafter dem schriftlichen Verfahren zustimmen (oder der Gesellschaftsvertrag das Verfahren explizit zulaesst). Ist das sichergestellt?
+3. **Massnahme-Typ:** Routine (Geschaeftsfuehrer, Prokura, Jahresabschluss) oder wesentlich (M&A, Satzungsaenderung, Liquidation)? → Bei wesentlichen Massnahmen: Anwaltliche Pruefung vor Unterzeichnung.
+4. **Stimmverbot?** Ist ein Gesellschafter von der Abstimmung ausgeschlossen (§ 47 Abs. 4 GmbHG)? Insbesondere bei Eigenbestellung zum Geschaeftsfuehrer (str.)
+5. **Beurkundungspflicht?** Satzungsaenderung (§ 53 GmbHG), Kapitalerhoehung, Abtretung von Anteilen (§ 15 Abs. 3 GmbHG) — Notar erforderlich?
+6. **Handelsregisteranmeldung?** Geschaeftsfuehrerwechsel (§ 39 GmbHG), Satzungsaenderung, Kapitalerhoehung erforderlich?
+
 ## Zweck
 
 Routinemäßige Gesellschafterbeschlüsse einer GmbH erfordern keine Versammlung. Geschäftsführerbestellung, Jahresabschluss-Feststellung, Gewinnverwendung, Prokuraerteilung können im schriftlichen Verfahren nach § 48 Abs. 2 GmbHG gefasst werden. Dieser Skill entwirft sie im Hausstil, sucht den nächstliegenden Präzedenzfall und flaggt Maßnahmen, bei denen anwaltliche Prüfung geboten ist.
@@ -114,7 +125,65 @@ Formhinweise: Präzise formulieren (keine Vagen Formulierungen); bevollmächtigt
 
 ## Ausgabeformat
 
-Beschlussentwurf + Unterzeichner-Checkliste + Prüf-Checkliste + Entwurfs-Hinweis. Arbeitsergebnis-Kopfzeile auf Prüf-Unterlagen.
+Beschlussentwurf + Unterzeichner-Checkliste + Pruef-Checkliste + Entwurfs-Hinweis. Arbeitsergebnis-Kopfzeile auf Pruef-Unterlagen.
+
+## Output-Template
+
+**Adressat:** Gesellschafter / Unterzeichnerkreis — Tonfall: praezise-rechtlich, handlungsanleitend
+
+```
+BESCHLUSS DER GESELLSCHAFTER
+der [FIRMA]
+im schriftlichen Verfahren nach § 48 Abs. 2 GmbHG
+
+Datum: [TT.MM.JJJJ]
+
+Die unterzeichnenden Gesellschafter der [FIRMA], einer GmbH mit Sitz in [ORT],
+eingetragen im Handelsregister des Amtsgerichts [ORT] unter HRB [NUMMER],
+fassen folgenden Beschluss ohne Einberufung einer Gesellschafterversammlung:
+
+VORBEMERKUNG
+[Ein bis zwei Saetze: Hintergrund des Beschlusses]
+
+BESCHLUSS
+Die Gesellschafter beschliessen:
+
+[PRAZISE FORMULIERUNG DES BESCHLUSSEGENSTANDS]
+
+Folgebeschluss 1: Die Geschaeftsfuehrer werden beauftragt und ermaaechtigt, alle zur Durchfuehrung
+dieser Massnahme erforderlichen Handlungen vorzunehmen.
+
+[Folgebeschluss 2: Genehmigung bereits getroffener Vormaßnahmen, falls erforderlich]
+
+Dieser Beschluss wird wirksam mit Eingang der Zustimmungserklaerungen aller Gesellschafter
+[oder: der satzungsmaessig erforderlichen [QUOTE]-Mehrheit].
+
+--- UNTERZEICHNER ---
+[GESELLSCHAFTERNAME] — Geschaeftsanteil: [N EUR / N %]
+Unterschrift: ________________________ Datum: _______________
+
+[Fuer jeden weiteren Gesellschafter wiederholen]
+
+--- STIMMVERBOT (§ 47 Abs. 4 GmbHG) ---
+[NAME] ist von der Abstimmung ausgeschlossen (Begruendung: [INTERESSENKONFLIKT]).
+Stimmen ohne [NAME]: [N] Stimmen; erforderliche Mehrheit: [N] Stimmen.
+Ergebnis: ANGENOMMEN / ABGELEHNT
+
+--- HANDELSREGISTER ---
+Handelsregisteranmeldung erforderlich: [JA — § 39 GmbHG / NEIN]
+Notar: [NAME] beauftragt: [JA / NEIN]
+
+--- ENTWURFS-VERMERK ---
+Dies ist ein Entwurf zur anwaltlichen Pruefung. Die Unterzeichnung begruendet
+rechtswirksame Gesellschafterbeschluesse. Vor Zirkulation mit Rechtsanwalt pruefen.
+```
+
+## Rote Schwellen
+
+- **§ 48 Abs. 2 GmbHG: Nicht alle Gesellschafter stimmen dem schriftlichen Verfahren zu** — Beschluss im Umlaufverfahren ist nach h.M. unwirksam; stattdessen Gesellschafterversammlung einberufen.
+- **Satzungsaenderung ohne Notar** — § 53 GmbHG: Beurkundungspflicht; ohne Notar ist der Beschluss formnichtig (§ 125 BGB).
+- **Stimmverbot § 47 Abs. 4 GmbHG uebersehen** — Beschluss anfechtbar; befangenen Gesellschafter ausdrücklich ausschliessen und dokumentieren.
+- **Beschlussformulierung vage** — In spaeterer DD oder bei Anfechtung muss der Beschluss den Gegenstand eindeutig benennen; Namen, Betraege, Dokumentdaten prazise eintragen.
 
 ## Beispiel
 

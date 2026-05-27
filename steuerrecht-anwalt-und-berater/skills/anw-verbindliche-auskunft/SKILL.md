@@ -1,6 +1,6 @@
 ---
 name: anw-verbindliche-auskunft
-description: Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines Sachverhalts. Voraussetzungen Antragsteller noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebuehrenpflicht nach SteuAuskV gestaffelt nach Gegenstandswert (§ 34 GKG analog); Gebuehrenfreiheit unter 10000 EUR steuerlicher Auswirkung (WtcG 2024). Bindungswirkung BFH-Linie zu Wirkungs-Umfang. Workflow Antrag Vorabklaerung Folge-Entscheidung. Strategische Vor- und Nachteile. Erzeugt formgerechten Antrag.
+description: "Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebuehrenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebuehrenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile."
 ---
 
 # Verbindliche Auskunft nach § 89 Abs. 2 AO
@@ -145,7 +145,7 @@ Präzise Fragen z. B.:
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt; alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulässig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt; alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulässig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
 
 ## Anschluss
 

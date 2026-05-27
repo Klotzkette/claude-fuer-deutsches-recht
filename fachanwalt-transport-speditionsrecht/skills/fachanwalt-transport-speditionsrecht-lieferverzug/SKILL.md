@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-lieferverzug
-description: "Lieferverzug des Frachtfuehrers nach § 423 HGB pruefen. Vereinbarte oder angemessene Lieferfrist. Haftung § 425 HGB i.V.m. § 431 Abs. 3 HGB max. dreifache Fracht. CMR Art. 19 und Art. 23 Abs. 5 max. Frachtbetrag. Anzeigepflicht § 438 Abs. 3 HGB binnen 21 Tagen. Schadensersatz wegen Pflichtverletzung Wegfall des Lieferinteresses § 423 HGB. BGH I ZR zu Auslegung der Lieferfrist."
+description: "Lieferverzug im Gueterverkehr pruefen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Pruefraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden."
 ---
 
 # Lieferverzug

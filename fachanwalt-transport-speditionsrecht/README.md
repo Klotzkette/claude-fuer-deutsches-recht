@@ -1,6 +1,6 @@
 # Fachanwalt Transport Speditionsrecht
 
-Light-Touch-Plugin Fachanwalt für Transport- und Speditionsrecht. Orientierung HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung §§ 453 ff. Speditionsvertrag CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp.
+Plugin Fachanwalt für Transport- und Speditionsrecht. Orientierung HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung §§ 453 ff. Speditionsvertrag CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

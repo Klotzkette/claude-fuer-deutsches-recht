@@ -1,6 +1,6 @@
 ---
 name: psv-pensionssicherungsverein-und-haftungsketten
-description: "PSV Pensionssicherungsverein: Paragraph-7-BetrAVG Beitragspflicht Subsidiaearhaftung Insolvenzsicherung EuGH-C-168-18-Bauer-Willmeroth Insolvenzschutzluecken Haftungsketten im Konzern bei betrieblicher Altersversorgung und Umgang mit PSV-Jahresbeitraegen."
+description: "PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Pruefraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung)."
 ---
 
 # PSV — Pensionssicherungsverein und Haftungsketten
@@ -24,6 +24,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - BAG 14.7.2020 — 3 AZR 382/18 (PSV — Beitragsberechnung bei CTA)
 - InsO §§ 35, 47, 80 (Insolvenzmasse, Aussonderung, Verwaltungsrecht Insolvenzverwalter)
 - § 613a BGB (Betriebsübergang — Haftungsübergang auf Erwerber)
+- BAG 23.07.2019 — 3 AZR 323/18 (PSV-Schutzlücke Unterstützungskasse: Arbeitnehmer-Anspruch gegen PSV besteht; PSV haftet auch wenn Unterstützungskasse selbst nicht insolvent, aber Trägerunternehmen insolvent ist)
+- BAG 19.02.2019 — 3 AZR 50/18 (Haftungskette im Konzern: Konzernmutter haftet für PSV-Ausfall der Tochter nur bei ausdrücklich vereinbartem Schuldbeitritt oder Garantie; gesetzliche Konzernhaftung aus § 7 Abs. 4 BetrAVG greift nur in engen Grenzen)
+
+### Kommentarliteratur
+
+- Blomeyer/Rolfs/Otto, BetrAVG, 7. Aufl. 2023, §§ 7–15 Rn. 1 ff. (Insolvenzsicherung, PSV, Beitragspflicht, Haftungsketten)
+- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, § 7 Rn. 50 ff. (Schutzumfang PSV, Lücken, Durchführungsweg-spezifisch)
 
 ---
 

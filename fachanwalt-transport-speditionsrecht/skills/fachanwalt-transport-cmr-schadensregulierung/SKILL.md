@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-cmr-schadensregulierung
-description: "CMR-Schadens-Regulierung internationaler Strassentransport. CMR-Frachtbrief Art. 9 Beweis. Haftungs-Grenze Art. 23 III CMR 8.33 SZR/kg. Reklamation 7 Tage Art. 30 CMR. Verjaehrung 1 Jahr Art. 32 CMR. Workflow Schadensaufnahme Klage."
+description: "Schadensregulierung im grenzueberschreitenden Gueterverkehr nach CMR durchfuehren. Normen: Art. 17 ff. 23 ff. CMR. Pruefraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht."
 ---
 
 # CMR-Schadensregulierung

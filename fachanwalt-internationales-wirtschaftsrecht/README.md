@@ -1,6 +1,6 @@
 # Fachanwalt Internationales Wirtschaftsrecht
 
-Light-Touch-Plugin Fachanwalt für Internationales Wirtschaftsrecht. Orientierung CISG Brüssel Ia Rom I Rom II grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG.
+Plugin Fachanwalt für Internationales Wirtschaftsrecht. Orientierung CISG Brüssel Ia Rom I Rom II grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

@@ -1,6 +1,6 @@
 ---
 name: pruefungsgespraech-ag
-description: "Prüfungsgespräch nach deutscher AG-Tradition — stellt Fragen, hakt nach, gibt die Antwort erst, wenn der Studierende sie erarbeitet hat. Übt die mündliche Prüfung, das AG-Gespräch und das Klausurdenken. Lädt, wenn der Nutzer „Abfrage\", „mündlich prüfen\", „AG-Gespräch simulieren\", „Fragen-Antwort-Drill\" oder „mündliche Prüfung üben\" sagt."
+description: "Pruefungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Loesungsschemata, Tatbestaende Zivilrecht Strafrecht oeffentliches Recht. Pruefraster Gespraeachsfuehrung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Pruefungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung fuer Vorbereitung und zu Examensvorbereitung-Fragen."
 ---
 
 # Prüfungsgespräch nach AG-Tradition

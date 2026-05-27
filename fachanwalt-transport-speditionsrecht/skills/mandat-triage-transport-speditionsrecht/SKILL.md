@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-transport-speditionsrecht
-description: Strukturierte Eingangs-Abfrage fuer Transport- und Speditionsmandate. Klaert Mandantenrolle (Versender Empfaenger Frachtfuehrer Spediteur Versicherer Lager Subunternehmer) Verkehrstraeger (Strasse Schiene Wasser Luft multimodal) Inlands- vs. grenzueberschreitend Sachgebiet (Verlust Beschaedigung Verspaetung Frachtforderung Speditionsverguetung Multimodalvertrag Gefahrgut ADR RID Zollrecht). Sofort-Fristen Reklamation sofort bei erkennbarem Verlust binnen sieben Tagen bei verdecktem Mangel einundzwanzig Tagen bei Verzug Verjaehrung ein/drei Jahre Art. 32 CMR § 439 HGB. Eskalation Telefon-Sofort bei laufender Reklamationsfrist Gefahrgut-Zwischenfall. Routing zu frachtfuehrerhaftung-pruefen.
+description: "Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Pruefraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
 ---
 
 # Mandat-Triage Transport- und Speditionsrecht
@@ -121,3 +121,9 @@ Transportmandate sind zeitkritisch — Reklamationsfristen sind kurz und können
 - ADSp
 - BGH I. Zivilsenat
 - Koller Transport-/Speditionsrecht
+
+## Aktuelle Rechtsprechung Triage Transport
+
+- BGH, Urt. v. 29.01.2015 - I ZR 195/13, NJW 2015, 2426 — Verjaehrungs-Sofort-Check: HGB § 439 kennt nur 1 Jahr Verjaehrung (Sonderrecht); versaeumter Hinweis auf kuerzere Verjaehmrungsfrist als im allg. BGB-Recht (3 Jahre) begruendet Anwaltshaftung.
+- BGH, Urt. v. 01.02.2018 - I ZR 246/16, NJW 2018, 1382 — CMR Art. 32: internationale Transporte unterliegen CMR-Verjaehrung (1 Jahr; 3 Jahre bei Vorsatz); nationale HGB-Verjaehrung tritt zurueck; Triage muss pruefen: grenzueberschreitend oder national?
+- OLG Koeln, Urt. v. 07.05.2019 - 3 U 40/18, TranspR 2019, 348 — Multimodal-Transport: Triage muss klaeren, welches Recht gilt, wenn Transport Strasse und Schiene kombiniert; unimodales Regime nur anwendbar, wenn Schadensort bekannt (§ 452a HGB).

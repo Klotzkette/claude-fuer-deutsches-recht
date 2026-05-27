@@ -1,6 +1,6 @@
 # Fachanwalt Bau Architektenrecht
 
-Light-Touch-Plugin Fachanwalt für Bau- und Architektenrecht. Orientierung BGB Werkvertragsrecht §§ 650a ff. Bauvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht der Länder. Schnittstellen Vergaberecht und Verwaltungsrecht.
+Plugin Fachanwalt für Bau- und Architektenrecht. Orientierung BGB Werkvertragsrecht §§ 650a ff. Bauvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht der Länder. Schnittstellen Vergaberecht und Verwaltungsrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

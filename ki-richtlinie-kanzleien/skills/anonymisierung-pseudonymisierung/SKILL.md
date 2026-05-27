@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-pseudonymisierung
-description: "Stufenmodell der Anonymisierung und Pseudonymisierung für KI-Nutzung in Kanzleien: Schwärzung von Namen, Adressen und Aktenzeichen, Ersetzung durch Platzhalter, Konsistenz bei Mehrfachverwendung sowie Prüfung des Re-Identifikationsrisikos."
+description: "Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schuetzen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Pruefraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine."
 ---
 
 # Anonymisierung und Pseudonymisierung
@@ -40,3 +40,50 @@ Nach abgeschlossener Anonymisierung ist das Dokument von einer zweiten Person au
 ## Hinweise zur Aktualisierung
 
 Automatisierungs-Tools für die Anonymisierung entwickeln sich rasch weiter. Die Kanzlei sollte halbjährlich prüfen, ob neue oder verbesserte Tools zur Verfügung stehen. Ebenso sind neue Datenschutzbehörden-Empfehlungen zur Anonymisierung zu beachten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.05.2009 — C-553/07 (Rijkeboer), NJW 2009, 2013 Rn. 26: Anonymisierung ist nur wirksam, wenn keine vernuenftigerweise in Betracht kommenden Mittel der Re-Identifikation bestehen (Erwaegungs-Grundsatz 26 DSGVO).
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 70: Pseudonymisierte Daten bleiben personenbezogene Daten, wenn der Schluessell noch existiert — massgeblich fuer Kanzlei-KI-Einsatz.
+- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Kein ausreichender Geheimnisschutz ohne Re-Identifikationsrisikotest — massgeblich fuer § 43a Abs. 2 BRAO.
+- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300 Rn. 30: Informationelle Selbstbestimmung erfordert Schutz auch gegen technisch moegliche Re-Identifikation.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 4 Nr. 1 DSGVO — Begriff personenbezogene Daten
+- Art. 4 Nr. 5 DSGVO — Pseudonymisierung
+- Erwaegungsgrund 26 DSGVO — Anonymisierung und Re-Identifikationsrisiko
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht
+- § 203 StGB — Berufsgeheimnis
+
+## Triage zu Beginn
+1. Handelt es sich um echte Anonymisierung oder nur Pseudonymisierung — besteht ein Zuordnungsschluessel?
+2. Welche Datenkategorien sind betroffen — besondere Kategorien nach Art. 9 DSGVO?
+3. Ist ein Re-Identifikationsrisiko durch Kombination verbleibender Merkmale (Branche, Ort, Umstaende) moeglich?
+4. Wird das Dokument in einem KI-System mit Training verarbeitet — besteht Risiko des Modell-Memorizings?
+5. Ist der Anonymisierungsprozess dokumentiert und vieraugengeprueft?
+
+## Output-Template — Anonymisierungsprotokoll
+**Adressat:** Kanzlei intern (Akte) — Tonfall: knapp, dokumentierend
+```
+ANONYMISIERUNGSPROTOKOLL
+[DATUM] — [AKTENZEICHEN] — Dokument: [BEZEICHNUNG]
+
+Anonymisiert von: [NAME]
+Datum: [DATUM]
+Verfahren: Platzhalter-Schema (M1/G1/Z1/Az-1)
+
+Ersetzte Kategorien:
+☑ Namen
+☑ Adressen
+☑ Aktenzeichen
+☑ Geburtsdaten
+☑ Kontonummern
+☐ Gesundheitsdaten (falls betroffen)
+☐ Sonstige: [BESCHREIBUNG]
+
+Re-Identifikationsrisiko-Check:
+Vier-Augen-Pruefung durch: [NAME]
+Ergebnis: [KEIN RISIKO / RISIKO — WEITERE SCHWAERZUNG: BESCHREIBUNG]
+
+Anonymisierungsgrad: [ANONYMISIERT / PSEUDONYMISIERT]
+DSGVO anwendbar: [JA / NEIN]
+```

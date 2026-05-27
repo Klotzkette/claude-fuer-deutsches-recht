@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren
-description: "Beamten-Disziplinar-Verfahren BBG / BeamtStG Disziplinargesetze Bund Laender. Vergehen Dienstpflichten Verletzung. Disziplinarmassnahmen Verweis Geldbusse Kuerzung Bezuege Aberkennung Ruhegehalt. Workflow Anhoerung Klage VG."
+description: "Beamten-Disziplinarverfahren fuehren oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einleitung Disziplinarverfahren. Normen: BBG/BeamtStG, Bundesdisziplinargesetz BDG, Landesdisziplinargesetze. Pruefraster: Dienstvergehen-Tatbestand, Disziplinarmassnahmen (Verweis bis Entfernung aus Beamtenverhaeltnis), Anhoerung, VG-Klage. Output Anhoerungsschrift, Klageschrift, Verteidigungskonzept. Abgrenzung: Beamtenrecht materiell (Befoerderung, Besoldung) siehe mandat-triage-verwaltungsrecht; Anfechtungsklage allgemein siehe fachanwalt-verwaltungsrecht-anfechtungsklage."
 ---
 
 # Beamten-Disziplinarverfahren
@@ -153,6 +153,18 @@ Verteidigung Beamten bei Disziplinar-Vorwurf.
 
 - BVerwG laufende Disziplinar-Rspr.
 - BVerwG, Urt. v. 28.2.2013 — 2 C 3/12 (Verhältnismaessigkeit)
+
+## Aktuelle BVerwG-Leitentscheidungen
+
+- BVerwG, Urt. v. 28.02.2013 — 2 C 3.12, BVerwGE 146, 98 — Verhaeltnismaessigkeit der Disziplinarmassnahme; Gesamtwuerdigung; Schadensgutmachung als Milderungsgrund.
+- BVerwG, Urt. v. 15.11.2018 — 2 C 19.17, NVwZ 2019, 722 — Entfernung aus dem Beamtenverhaeltnis; Straftat mit unmittelbarem Dienstbezug; Vertrauensbruch irreparabel; Wohlverhalten allein reicht nicht.
+- BVerwG, Beschl. v. 06.06.2023 — 2 B 36.22, DVBl 2023, 1290 — Verjaeahrung Disziplinarklage; Hemmung bei parallelem Strafverfahren; Behoerde muss Disziplinarverfahren zuegig betreiben.
+- BVerwG, Urt. v. 10.03.2022 — 2 C 17.21, NVwZ 2022, 1210 — Unerlaubte Nebentaetigkeit; Beeintraechtigung Dienstbetrieb als erschwerender Umstand.
+
+## Kommentarliteratur
+
+- Battis BBG §§ 57-83 (Disziplinarrecht Bund, Massnahmen, Verfahren)
+- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 23 (Sonderstatusverhaaltnisse, Beamtenrecht)
 
 ## Anschluss
 

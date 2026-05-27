@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-sportrecht
-description: Strukturierte Eingangs-Abfrage fuer sportrechtliche Mandate. Klaert Mandantenrolle (Sportler Profisportler Amateur Verein Verband Sponsor Bertrebsleiter Trainer) Sachgebiet (Verbandsstrafe Spielsperre Doping Spielervertrag Transferstreit Sponsoringvertrag Persoenlichkeitsrechte Werbung Marketing Sport-Schiedsgericht CAS) Sofort-Fristen Verbandsfrist gegen Sanktion typisch eine bis zwei Wochen Saison-Bezogenheit Spielsperre vor wichtigem Spiel. Eskalation Telefon-Sofort bei Sperre vor entscheidendem Spiel Doping-Verdachtsmoment positivem Test. Routing zu verbandsstrafe-anfechten.
+description: "Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen. Verbandsfrist gegen Sanktion typisch 1-2 Wochen. Normen je nach Routing. Pruefraster Mandanten-Typ Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation bei Spielsperre oder Doping-Verdacht. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-sportrecht-orientierung (Ueberblick)."
 ---
 
 # Mandat-Triage Sportrecht

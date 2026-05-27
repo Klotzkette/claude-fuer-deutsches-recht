@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-erinnerung
-description: "Hinweis auf die anwaltliche Schweigepflicht nach Paragraph 43a Abs. 2 BRAO: gilt erst nach Mandatsbeginn; vor Mandatserteilung gilt allgemeine Diskretion aber keine mandatsbezogene Schweigepflicht. Instruiert Sekretariatsmitarbeitende ueber den Uebergang. Laedt wenn der Nutzer 'Schweigepflicht Anwalt', 'Vertraulichkeit Mandat', 'Paragraph 43a BRAO', 'wann gilt Verschwiegenheit' oder 'Mandatsbeginn Vertraulichkeit' sagt."
+description: "Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt. § 43a Abs. 2 BRAO Schweigepflicht. Pruefraster: Schweigepflicht gilt erst nach Mandatsbeginn vorher allgemeine Diskretion. Uebergangs-Instruktion Sekretariat. Output: Instruktionshinweis Schweigepflicht. Abgrenzung zu konfliktcheck-vorab (vor Mandatsannahme) und mandatsverhaeltnis-hinweis (Haftung)."
 ---
 
 # Vertraulichkeit-Erinnerung

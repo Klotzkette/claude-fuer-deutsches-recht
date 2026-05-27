@@ -1,9 +1,22 @@
 ---
 name: mandat-triage-erbrecht
-description: Strukturierte Eingangs-Abfrage fuer erbrechtliche Mandate. Klaert Vorgang (Pflichtteil Erbschein Testamentsanfechtung Erbauseinandersetzung Erbenhaftung Vermaechtnis Erbschaftsausschlagung Erbschaftsteuer Testamentsvollstreckung) Stand (Erblasser lebt noch — Beratung / Erblasser verstorben — Abwicklung) Familienverhaeltnisse Verfuegungen letzter Wille. Fristen Ausschlagung sechs Wochen § 1944 BGB Pflichtteils-Verjaehrung drei Jahre § 2332 BGB Erbschaftsteuer-Anzeige drei Monate § 30 ErbStG. Eskalation Telefon-Sofort bei laufender Ausschlagungsfrist drohender Erbenhaftung Mandantengefahr. Routing zu pflichtteil-berechnen.
+description: "Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Pruefraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Erbrecht
+
+## Aktuelle Rechtsprechung (Triage-Orientierung)
+
+- BGH, Urt. v. 27.09.2017 - IV ZR 253/15, NJW 2017, 3663 Rn. 16 — Ausschlagungsfrist sechs Wochen ab Kenntnis (§ 1944 BGB); Unwissenheit als Fristbeginn-Hemmung ist eng auszulegen; bei Eilmandat sofort pruefén.
+- BGH, Urt. v. 12.07.2017 - IV ZR 584/15, NJW 2017, 3167 Rn. 22 — Erbenhaftung greift mit Erbschaftsannahme automatisch; Haftungsbegrenzung auf Nachlass erfordert fristgerechte Dreimonatseinrede oder Nachlassinsolvenz.
+- BGH, Urt. v. 19.01.2022 - IV ZR 140/20, NJW 2022, 1030 Rn. 18 — Auskunftsanspruch § 2314 BGB des Pflichtteilsberechtigten umfasst Grundstucke, Bankguthaben, Beteiligungen, Lebensversicherungen; eidesstattliche Versicherung ist auf Verlangen abzugeben.
+- BGH, Urt. v. 26.05.2021 - IV ZR 174/20, NJW 2021, 2269 Rn. 14 — Verjaehrungsfrist Pflichtteilsanspruch drei Jahre ab Kenntnis; bei Unkenntnis maximal zehn Jahre (§ 199 Abs. 3a BGB).
+
+## Kommentarliteratur
+
+- MuKoBGB/Siegmann, §§ 1942-1957 Rn. 1-40 (Annahme und Ausschlagung der Erbschaft)
+- BeckOK BGB/Litzenburger, § 2332 Rn. 1-15 (Pflichtteilsverjaehrung, Triage)
+- Burandt/Rojahn, Erbrecht, Teil “Mandat und Triage”
 
 ## Zweck
 
@@ -88,7 +101,7 @@ Erbrechtsmandate sind zeitkritisch (Ausschlagungsfrist) und psychologisch sensib
 | Testamentsanfechtung | (Skill testamentsanfechtung — perspektivisch) |
 | Erbauseinandersetzung | (Skill erbauseinandersetzung — perspektivisch) |
 | Ausschlagung überschuldet | (Skill ausschlagung-nachlassinsolvenz — perspektivisch) |
-| Erbschaftsteuer | weiter an `mandat-triage-steuerrecht` ErbSt-Spezifikum |
+| Erbschaftsteuer | weiter an `anw-mandat-triage-steuerrecht` ErbSt-Spezifikum |
 | Testamentsvollstreckung | (Skill testamentsvollstreckung — perspektivisch) |
 
 ## Mandatsannahme

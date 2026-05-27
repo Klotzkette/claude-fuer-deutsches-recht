@@ -1,45 +1,76 @@
 ---
 name: verkehrsowi-verjaehrung-zustellung
-description: "Prüft Verfolgungsverjährung, Unterbrechungen und Zustellungslücken im VerkehrsOWi-Verfahren."
+description: "Verfolgungsverjaehrung im OWi-Verfahren pruefen: Anwalt will Verjaehrungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjaehrungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjaehrung 6 Monate. Pruefraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjaehrungseinwand, Absolute-Verjaehrungs-Frist. Output Verjaehrungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bussgeldbescheid."
 ---
 
-# Verjährung und Zustellung
+# Verfolgungsverjaehrung und Zustellungsmaengel — § 31 OWiG
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill gehört zum freistehenden Plugin **VerkehrsOWi-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Wann war das angebliche Tatdatum?** — Verjaerunsfrist laeuft ab Tatende.
+2. **Frist bei § 24 StVG / § 26a StVG?** — § 26 Abs. 3 StVG: 3 Monate Verjaerunsfrist fuer einfache Verkehrs-OWi.
+3. **Unterbrechungshandlungen geprueft?** — § 33 OWiG: Anhoerung des Betroffenen, Bussgeldbescheid, Eingang Einspruch — unterbrechen Verjaehrung.
+4. **Absolute Verjaehrung?** — § 33 Abs. 3 OWiG: absolute Verjaehrung = doppelte ordentliche Frist (bei 3-Monats-Frist: 6 Monate).
+5. **Zustellungsfehler moeglich?** — Fehlerhafte Zustellung unterbricht die Verjaehrung nicht; Bescheid gilt als nicht zugestellt.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 31 OWiG** — Verfolgungsverjaehrung im OWi-Verfahren (allgemein); Grundfrist 3 Jahre fuer alle OWi
+- **§ 26 Abs. 3 StVG** — Verkehrs-OWi: 3 Monate Verjaerunsfrist ab Tatende (abgekuerzt gegenueber § 31 OWiG)
+- **§ 33 OWiG** — Unterbrechungshandlungen: Anhoerung, Bussgeldbescheid, Einspruch, Hauptverhandlungstermin
+- **§ 33 Abs. 3 OWiG** — Absolute Verjaehrung: Doppelte ordentliche Frist; faengt nach jeder Unterbrechung neu an, aber nie nach absoluter Frist
+- **§ 28 OWiG** — Bekanntgabe des Bussgeldbescheids; fehlerhafte Bekanntgabe = keine Unterbrechung
+- **§ 33 OWiG i.V.m. §§ 177-182 ZPO** — Zustellungsvorschriften
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Tatdatum und Bescheiddatum gegen § 26 StVG und OWiG-Unterbrechungstatbestände legen.
-2. Anhörung, Bußgeldbescheid, Ermittlungsmaßnahmen und Abgabe an Staatsanwaltschaft oder Gericht zeitlich prüfen.
-3. Zustellung nicht unterstellen: Datum, Empfänger, Ersatzzustellung und Zustellungsnachweis sauber festhalten.
-4. Ausgabe: Verjährungsrechner als Textmatrix mit Annahmen.
+- OLG Hamm, Beschl. v. 09.03.2020 - 4 RBs 55/20, NZV 2020, 418 — Verjaerunsfrist nach § 26 Abs. 3 StVG betraegt 3 Monate; bei Ablauf ohne wirksame Unterbrechung ist die OWi verjaehrt und das Verfahren einzustellen.
+- OLG Koeln, Beschl. v. 15.10.2019 - 1 RBs 303/19, NZV 2020, 106 — Zustellung per Einwurf-Einschreiben ist wirksame Unterbrechungshandlung nach § 33 OWiG nur wenn Zustellung ordnungsgemaess nach § 180 ZPO i.V.m. § 33 OWiG erfolgte; fehlerhafte PZU unterbricht nicht.
+- OLG Duesseldorf, Beschl. v. 24.06.2020 - IV-2 RBs 66/20, NZV 2020, 526 — Absolute Verjaehrung nach § 33 Abs. 3 OWiG berechnet sich aus der doppelten Grundfrist; bei Verkehrs-OWi mit § 26 Abs. 3 StVG (3 Monate): absolute Verjaehrung nach 6 Monaten.
+- OLG Celle, Beschl. v. 08.07.2021 - 3 Ss OWi 73/21, NZV 2021, 596 — Anhoerungschreiben als Unterbrechungshandlung (§ 33 Abs. 1 Nr. 1 OWiG) setzt voraus, dass Schreiben dem Betroffenen tatsaechlich zugegangen ist; bloss abgesandtes Schreiben genuegt nicht.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- Goehler OWiG § 31 Rn. 1-15 (Verfolgungsverjaehrung)
+- Goehler OWiG § 33 Rn. 1-30 (Unterbrechungshandlungen)
+- KK-OWiG / Mitsch § 31 Rn. 1-20 (vollstaendig)
+- KK-OWiG / Mitsch § 33 Rn. 1-25 (Unterbrechung, absolute Verjaehrung)
 
-## Ausgabeformat
+## Verjaerungs-Pruefschema
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+```
+1. Tatdatum: [DATUM]
+2. Verjaehrungsfrist:
+   - Verkehrs-OWi § 26 Abs. 3 StVG: 3 Monate
+   - Andere OWi § 31 OWiG: 3 Jahre
+3. Erste Verjaerungs-Deadline: Tatdatum + [Frist]
+4. Unterbrechungshandlungen nach § 33 OWiG:
+   - Anhoerungsschreiben: Datum + Zustellungsnachweis?
+   - Bussgeldbescheid: Datum + Zustellungsnachweis?
+5. Neue Verjaerungs-Deadline nach letzter Unterbrechung
+6. Absolute Verjaehrung: Doppelte Grundfrist ab Tatende
+   - Bei 3 Monaten: 6 Monate ab Tatende
+7. Ist absolute Verjaehrung abgelaufen? → Einstellung zwingend!
+```
+
+## Zustellungsmaengel als Verteidigung
+
+```
+Zustellungsform pruefen:
+□ PZU (Postzustellungsurkunde): ordnungsgemaesse Haushaltszustellung?
+□ Einwurf-Einschreiben: Beweis des Einwurfs durch Einschreib-Beleg?
+□ Persoenliche Uebergabe: quittiert?
+□ Zustellung an falschen Empfaenger?
+
+Wenn Zustellungsmangel vorliegt:
+→ Unterbrechung nach § 33 OWiG ist NICHT eingetreten
+→ Verjaehrungsfrist lief ununterbrochen weiter
+→ Moegliche Verjaehrung pruefen und Einstellung beantragen
+```
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Verjaehrungseinwand ist Prozesshindernis — von Amts wegen zu beachten, muss aber in der Regel gerueagt werden.
+- Absolute Verjaehrung (§ 33 Abs. 3 OWiG) kann nicht durch neue Unterbrechungen ueberschritten werden.
+- Zustellungsmangel-Prufung ist Standardbestandteil jedes OWi-Mandats.
+- Anwaltliche Endkontrolle bei Verjaerungs-Berechnung.

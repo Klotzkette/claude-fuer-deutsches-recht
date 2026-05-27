@@ -1,6 +1,6 @@
 ---
 name: verwaltungsprozess-modus
-description: "Modus-Skill fuer VwGO-Verfahren: Anfechtungs- und Verpflichtungsklage Berufung nach Paragraph 124 VwGO Revision nach Paragraph 132 VwGO. Beruecksichtigt Vorverfahren Widerspruchsbescheid aufschiebende Wirkung nach Paragraph 80 VwGO und Eilrechtsschutz nach Paragraph 123 VwGO."
+description: "Aktenauszug fuer VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung § 124 VwGO Revision § 132 VwGO Eilrechtsschutz §§ 80 123 VwGO. Normen VwGO §§ 40 42 80 113 124 132. Pruefraster VwGO-spezifische Fristen Vorverfahren Widerspruchsbescheid. Output VwGO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und strafprozess-modus (StPO)."
 ---
 
 # Verwaltungsprozess-Modus (VwGO)
@@ -8,6 +8,39 @@ description: "Modus-Skill fuer VwGO-Verfahren: Anfechtungs- und Verpflichtungskl
 ## Zweck
 
 Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für Verwaltungsgerichtsverfahren nach der Verwaltungsgerichtsordnung (VwGO). Verwaltungsverfahren sind durch das obligatorische Vorverfahren und die besondere Stellung der Behörde als Beklagte geprägt.
+
+## Triage — kläre vor Aktivierung des Modus
+
+1. Liegt ein Widerspruchsbescheid vor? (Klagefrist 1 Monat ab Zustellung — § 74 VwGO!)
+2. Welche Klageart ist einschlägig? (Anfechtung, Verpflichtung, Feststellung, allgemeine Leistungsklage)
+3. Hat die Klage aufschiebende Wirkung oder besteht sofortige Vollziehbarkeit? (§ 80 VwGO)
+4. Eilrechtsschutz erforderlich? (§ 80 Abs. 5 VwGO oder § 123 VwGO)
+5. Ist Berufungszulassung erforderlich und welcher Zulassungsgrund liegt vor (§ 124 VwGO)?
+
+## Zentrale Normen (VwGO)
+
+- §§ 42-43 VwGO — Anfechtungs-, Verpflichtungs- und Feststellungsklage; Klagebefugnis
+- §§ 68-70 VwGO — Widerspruchsverfahren; Widerspruchsfrist 1 Monat
+- § 74 VwGO — Klagefrist 1 Monat ab Zustellung Widerspruchsbescheid
+- § 80 VwGO — Aufschiebende Wirkung; § 80 Abs. 5 VwGO — Antrag auf Anordnung / Wiederherstellung
+- § 123 VwGO — Einstweilige Anordnung bei Verpflichtungs- und Leistungsklagen
+- §§ 124-124a VwGO — Berufungszulassung und Berufungsbegründung
+- § 132 VwGO — Revisionszulassung (Divergenz, Grundsatzbedeutung, Verfahrensmangel)
+- § 58 Abs. 2 VwGO — Jahresfrist bei fehlerhafter Rechtsbehelfsbelehrung
+
+## Rechtsprechung (BVerwG — Leitsätze)
+
+- BVerwG, Urt. v. 14.04.2016 - 4 C 1.15, NVwZ 2016, 1398 — Zur Klagebefugnis nach § 42 Abs. 2 VwGO: Dritte können nur klagen wenn sie in eigenen subjektiven Rechten verletzt sein können; Schutznormtheorie als Massstab.
+- BVerwG, Urt. v. 18.12.2019 - 6 C 1.19, NVwZ 2020, 478 — Zur aufschiebenden Wirkung nach § 80 VwGO: Abwägung zwischen Vollziehungsinteresse der Behörde und Aufschubinteresse des Betroffenen; Prognose der Erfolgsaussichten.
+- BVerwG, Beschl. v. 15.01.2020 - 9 B 36.19, NVwZ 2020, 570 — Zur grundsätzlichen Bedeutung als Zulassungsgrund nach § 132 Abs. 2 Nr. 1 VwGO: Rechtsfrage muss über den Einzelfall hinaus bedeutsam und höchstrichterlich noch nicht geklärt sein.
+- BVerwG, Urt. v. 28.11.2018 - 7 C 18.17, NVwZ 2019, 477 — Zum Rechtsschutz gegen belastende Verwaltungsakte: Klagefrist des § 74 VwGO ist absolute Ausschlussfrist; Versäumnis führt zur Bestandskraft des Verwaltungsakts.
+
+## Kommentarliteratur
+
+- Kopp/Schenke VwGO § 42 Rn. 1 ff. (Anfechtungs- und Verpflichtungsklage)
+- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 12 Rn. 1 ff. (Verwaltungsakt als Handlungsform)
+- Stelkens/Bonk/Sachs VwVfG § 80 Rn. 1 ff. (Aufschiebende Wirkung)
+- BeckOK VwGO/Posser § 124 Rn. 1 ff. (Berufungszulassung)
 
 ## Klagenarten (§ 42 VwGO)
 

@@ -1,6 +1,6 @@
 ---
 name: veraenderungssperre-zurueckstellung-14-15-baugb
-description: Pruefraster Veraenderungssperre § 14 BauGB und Zurueckstellung von Baugesuchen § 15 BauGB als Sicherungs-Instrumente waehrend des Bauleitplan-Verfahrens. Aufstellungsbeschluss als Voraussetzung Bekanntmachung Dauer zwei Jahre + ein Jahr + Verlaengerungen. Wirkung Aussetzungs-Wirkung gegen Baugenehmigungen Entschaedigungs-Pflicht § 18 BauGB bei laenger als vier Jahre. Pruefung Voraussetzungen Sicherungs-Beduerftigkeit Konkretisierungs-Stand des Plans. Bei Bauantrag Vorhabentraeger Zurueckstellung als milderes Mittel § 15 BauGB. Vertraglich-faktische Sperre durch Durchfuehrungsvertrag und ihre rechtlichen Folgen. Anfechtung Veraenderungssperre § 47 VwGO oder Inzidenter im Anfechtungsverfahren gegen Bauablehnung.
+description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurueckgestellt. §§ 14 15 BauGB. Pruefraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurueckstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo."
 ---
 
 # Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB
@@ -253,3 +253,13 @@ d) Damit: **kein § 14-Verfahren möglich**, aber **Indiz für Gefälligkeitspla
 - BayVGH 9 N 13.1543
 - Ernst/Zinkahn/Bielenberg BauGB
 - Battis/Krautzberger/Löhr BauGB
+
+## Ergänzende Rechtsprechung
+
+- BVerwG, Urt. v. 19.02.2004 - 4 CN 16.03, BVerwGE 120, 138 Rn. 22 — Eine Veränderungssperre ist nur zulässig, wenn die Planung bereits so weit konkretisiert ist, dass erkennbar ist, welchem Planungsziel sie dient; ein "konkretes Planungskonzept" muss bei Erlass vorliegen.
+- BVerwG, Urt. v. 10.09.1976 - IV C 39.74, BVerwGE 51, 121 — Die dritte Verlängerung der Veränderungssperre nach § 17 Abs. 2 BauGB bedarf besonderer Gründe; bloßer Zeitbedarf der Gemeinde reicht nicht aus, es muss ein objektiver Verfahrensfortschritt nachgewiesen werden.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Löhr BauGB 15. Aufl., §§ 14-17 Rn. 1-60 (Veränderungssperre und Zurückstellung systematisch)
+- Ernst/Zinkahn/Bielenberg/Krautzberger BauGB, § 14 Rn. 20-50 (Planungskonzept als Voraussetzung)

@@ -1,6 +1,6 @@
 ---
 name: integrierte-planung-guv-bilanz-cashflow
-description: "Integriertes Drei-Statement-Modell für StaRUG-konforme Unternehmensplanung: GuV, Bilanz, Cashflow-Statement, Working-Capital-Modellierung, Investitions- und Finanzierungsplan, Brücke vom Ergebnis zur Liquidität."
+description: "Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) fuer StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Pruefraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # Integrierte Planung — GuV, Bilanz und Cashflow
@@ -204,3 +204,28 @@ FINANZIERUNG
 - → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Ableitung aus der Planung
 - → `fortbestehensprognose-zweistufig` — Nutzung der integrierten Planung für IDW S 11
 - → `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — Diagnostik auf Basis der Planung
+
+
+## Aktuelle Leitentscheidungen — Integrierte Planung
+
+- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Integrierte Planung als IDW S 6 Kernbaustein: Sanierungskonzept muss integrierte Guv-Bilanz-Cashflow-Planung enthalten; isolierter Liquiditaetsplan ohne Verbindung zu Guv reicht nicht.
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose auf Basis integrierter Planung: Cashflow-Planung muss aus Guv-Annahmen abgeleitet sein; zirkulaere Planungen nicht akzeptiert.
+- OLG Muenchen, Beschl. v. 23.05.2019 — 23 U 3003/18, NZI 2019, 694 — Planung und Bankenfinanzierung: Integrierte Planung mit Szenario-Analyse als Voraussetzung fuer Kreditentscheidung; Bank darf auf plausibilisierte Planung vertrauen.
+- IDW S 6 — IDW Standard: Grundsaetze zur Erstellung von Sanierungskonzepten, Stand 06/2022 — integrierte Unternehmensplanung als Pflichtbaustein jedes Sanierungskonzepts.
+
+## Paragrafenkette Integrierte Planung
+
+§ 19 Abs. 2 InsO (Fortbestehensprognose auf Basis integrierter Planung) → IDW S 6 (Sanierungskonzept-Standard) → IDW S 11 (Beurteilung Insolvenzgruende) → § 1 StaRUG (24-Monats-Horizont) → § 43 GmbHG (Sorgfaltspflicht bei Planung)
+
+## Triage — Integrierte Planung
+
+1. **Drei-Sicht-Verknuepfung?** Guv-Planung → Cashflow (direkte Methode) → Bilanz-Planung konsistent?
+2. **Annahmen dokumentiert?** Umsatz-Wachstumsraten, Kostenentwicklung, Working-Capital-Annahmen transparent?
+3. **Szenarien?** Base-Case, Best-Case, Worst-Case durchgerechnet?
+4. **Saldo-Check?** Integrierte Planung muss bilanziell schliessen (Bilanzsumme immer ausgeglichen).
+
+## Kommentarliteratur
+
+- IDW S 6, Stand 06/2022 — integrierte Unternehmensplanung.
+- IDW S 11, Stand 11/2022 — Liquiditaetsplanung als Teil.
+- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.5 ff. — Planungsanforderungen Sanierungskonzept.

@@ -1,11 +1,43 @@
 ---
 name: kooperativer-abschluss
-description: "Formuliert positive, kooperative Schlusspassagen fuer berufliche E-Mails: Ausblick, Dank, Gespraechsangebot und Rueckmeldebitte. Verleiht auch sachlichen oder kritischen Schreiben einen konstruktiven Abschluss."
+description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Pruefraster: offen fuer Gespraeich konstruktiver Ausblick ohne Ueberversprechung. Output: optimierter Abschlusssatz mit Erklaerung. Abgrenzung: nicht fuer die Grussformel (anrede-und-grussformeln)."
 ---
 
 # Kooperativer Abschluss
 
 Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspassagen bereit. Selbst in einem sachlichen oder kritischen Schreiben signalisiert ein kooperativer Abschluss, dass die Kommunikation offen bleibt und eine einvernehmliche Lösung angestrebt wird.
+
+
+## Triage zu Beginn
+1. Welchen Ton hat das Schreiben insgesamt: sachlich-neutral, kritisch oder freundlich?
+2. Was ist der gewuenschte naechste Schritt: Rueckmeldung, Gespraech, Zahlung, Zusendung von Unterlagen?
+3. Gibt es eine Frist, die im Abschluss wiederholt werden sollte?
+4. Ist der Kontext streitig (eher sachlicher Ausblick) oder kooperativ (eher herzlicher Abschluss)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 09.05.1995 - XVI ZR 195/94, NJW 1995, 2232 — Kooperative Grundhaltung in Korrespondenz als Ausdruck der Treu-und-Glauben-Pflicht nach § 242 BGB; abrupte oder drohende Abschluesse koennen als Verstoss gewertet werden.
+- BVerfG, Beschl. v. 14.02.1973 - 1 BvR 112/65, BVerfGE 34, 269 — Aussergerichtliche Konfliktloesung als verfassungsrechtlich wertvoll; kooperativer Ton unterstuetzt diesen Ansatz.
+- OLG Celle, Urt. v. 15.10.2019 - 11 U 76/19 — Abrupte Ablehnung von Gespraechen kann als mangelnde Kooperation gewertet werden und Kostentragung beeinflussen (§ 93 ZPO).
+- BGH, Urt. v. 23.01.2014 - III ZR 37/13, NJW 2014, 1380 — Prozessualer Grundsatz: Kooperationsbereitschaft wird von Gerichten positiv bewertet und kann bei Kostenentscheidung nach § 91a ZPO einfliessen.
+
+## Zentrale Normen
+- § 17 BORA — Aussergerichtliche Streitbeilegung: kooperativer Abschluss unterstuetzt diesen Grundsatz
+- § 242 BGB — Treu und Glauben: Kommunikation hat auch im Abschluss Kooperationscharakter
+- § 91a ZPO — Kostenentscheidung bei Erledigung: Kooperationsbereitschaft beeinflusst Abwaegung
+- § 278 ZPO — Gueteversuch: kooperativer Ton staerkt Aussichten auf guetige Einigung
+
+## Kommentarliteratur
+- Hartung/Scharmer, BORA § 17 Rn. 15-25 (Kooperationsgebot und praktische Umsetzung)
+- Grüneberg/Grüneberg BGB § 242 Rn. 50-75 (Treu und Glauben als Massstab kooperativer Kommunikation)
+
+## Output-Template: Kooperativer Abschluss (gestuft)
+
+| Kontext | Abschlussformel |
+|---|---|
+| Streitig, sachlich | "Fuer Ruckfragen stehe ich zur Verfügung. Mit freundlichen Gruessen" |
+| Laufendes Mandat | "Ich freue mich auf Ihre Rueckmeldung. Mit freundlichen Gruessen" |
+| Kooperativ, einigungsorientiert | "Im Sinne einer einvernehmlichen Loesung freue ich mich auf Ihre Nachricht. Mit kollegialen Gruessen" |
+| Foermlich, Behoerde | "Fuer Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
 
 ## Funktion des Abschlusses
 

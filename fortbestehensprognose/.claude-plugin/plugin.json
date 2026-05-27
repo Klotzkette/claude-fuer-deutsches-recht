@@ -1,6 +1,6 @@
 {
   "name": "fortbestehensprognose",
-  "version": "9.0.0",
+  "version": "14.2.0",
   "description": "Fortbestehensprognose § 19 Abs. 2 InsO als Geschaeftsfuehrer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquiditaet. Sanierungsbausteine Patronatserklaerung Comfortletter Rangruecktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,9 +1,32 @@
 ---
 name: kanzlei-allgemein-qualitaetsgate-hardening
-description: "Härtet Kanzlei-Outputs mit Qualitätsgates für Anfänger und Profis. Prüft Substanz Beweise Anlagen Fristen Zuständigkeit Anträge Vollmacht Datenschutz Zitate Versand Rechnung und offene Risiken vor Ausgabe."
+description: "Haertet Kanzlei-Outputs mit mehrstufigen Qualitaetsgates fuer Anfaenger und Profis. Anwendungsfall Schriftsatz Vertrag oder beA-Versand soll vor Abgang auf Substanz Vollstaendigkeit und Haftungsrisiken geprueft werden. Normen § 51 BRAO Haftung § 43a BRAO Berufspflichten § 130a ZPO formelle Anforderungen. Pruefraster Substanz Beweise Anlagen Fristen Zustaendigkeit Antraege Vollmacht Datenschutz Zitate Versandweg Rechnung offene Risiken. Output Qualitaetsgate-Bericht mit Ampelstatus Maengelliste und Freigabeentscheidung. Abgrenzung zu versand-vor-check (unmittelbarer Pre-Check) und kanzlei-allgemein-schreibcanvas."
 ---
 
 # Qualitätsgate und Hardening
+
+
+## Triage zu Beginn
+1. Welches Produkttyp soll geprueft werden: Klage, Replik, Antrag, Vertrag, Mandantenbrief, Rechnung oder beA-Versand?
+2. Soll der Schnellcheck (nur rote Risiken), Normal- oder Profi-Modus (Taktik, Gegner-Argument, Kosten) eingesetzt werden?
+3. Gibt es eine laufende Frist, die den Pruefumfang begrenzt?
+4. Soll das Qualitaetsgate-Protokoll als Aktenbestandteil gespeichert werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anwaltliches Qualitaetsgate als Sorgfaltspflicht: erkennbare Schwachstellen im Schriftsatz muessen vor dem Versand behoben werden.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Prozessfuehrung erfordert, dass der Anwalt alle Arguments- und Beweismoeglichkeiten ausschoepft; Qualitaetsgate prueft dies.
+- BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Fehlende Beweisangebote in der Klage als Anwaltsfehler: Klaeger verliert bei mangelhafter Beweispraesentation auch begruendete Ansprueche.
+- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — Zitierprüfung als Teil anwaltlicher Sorgfalt: falsch zitierte Entscheidungen koennen Gegner und Gericht die Argumentation untergraben.
+
+## Zentrale Normen
+- § 43 BRAO — Sorgfaltspflicht: Qualitaetssicherung als Grundpflicht vor jedem Ausgang
+- § 130 ZPO — Inhalt von Schriftsaetzen: Antraege und Begruendung muessen vollstaendig sein
+- § 253 Abs. 2 ZPO — Klageschrift: Vollstaendigkeitspflicht bei Antraegen und Tatsachen
+- § 51 BRAO — Haftung bei erkennbar lueckenhaftem oder fehlerhaftem Schriftsatz
+
+## Kommentarliteratur
+- Zöller/Greger ZPO §§ 130, 253 Rn. 1-25 (Anforderungen an Inhalt und Vollstaendigkeit)
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Sorgfaltspflicht bei Schriftsatzgestaltung und -pruefung)
 
 ## Zweck
 

@@ -1,138 +1,201 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch
-description: "Marken-Widerspruchsverfahren DPMA EUIPO Frist 3 Monate § 42 MarkenG. Verwechslungsgefahr 4-Stufen-Test Aehnlichkeit Zeichen Aehnlichkeit Waren Bekanntheit Wechselwirkung. Beweispflicht ernsthafte Benutzung § 26 MarkenG. Workflow Pruefraster Schriftsatz Verteidigung Loeschung."
+description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Pruefraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht fuer Loeschungsklage (§ 49 MarkenG)."
 ---
 
 # Marken-Widerspruchsverfahren
 
-## Zweck
+## Triage zu Beginn
 
-Widerspruch gegen die Eintragung einer juenger angemeldeten Marke wegen aelterer Rechte.
+1. **Mandantenrolle:** Widersprechender (Inhaber aelterer Marke) oder Angegriffener (Inhaber juengerer Marke)?
+2. **Behoerde:** DPMA (nationale Marke) oder EUIPO (Unionsmarke)?
+3. **Frist gewahrt?** 3 Monate ab Veroeffentlichung (§ 42 Abs. 1 MarkenG / Art. 46 UMV) — bei Verjaehrung sofort auf Loeschungsklage umstellen.
+4. **Aeltere Marke benutzungsreif?** Wenn Eintragungs-Datum ueber 5 Jahre: Benutzungsnachweis bereithalten (§ 26 MarkenG).
+5. **Verwechslungsgefahr prima facie?** Zeichenaehnlichkeit + Warenaehnlichkeit grob pruefen.
+6. **Bekanntheit der aelteren Marke** (§ 14 Abs. 2 Nr. 3 MarkenG) als zusaetzlicher Hebel?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## 1) Eingangs-Abfrage
+## Zentrale Normen und Paragrafenkette
 
-1. Junge Marke: DPMA oder EUIPO?
-2. AE (aeltere Marke): Stand der Benutzung, Eintragungs-Datum, Klassen?
-3. Verwechslungs-Aehnlichkeit Zeichen?
-4. Waren-/Dienstleistungs-Aehnlichkeit?
-5. Bekanntheit der AE?
-6. Frist gewahrt (3 Monate ab Veröffentlichung)?
+- § 42 Abs. 1 MarkenG — Widerspruchsfrist 3 Monate
+- § 9 Abs. 1 Nr. 2 MarkenG — Verwechslungsgefahr als Widerspruchsgrund
+- § 26 MarkenG — Benutzungspflicht und Nichtbenutzungseinwand
+- § 14 Abs. 2 Nr. 3 MarkenG — Bekanntheit als erweiterter Schutz
+- § 50 MarkenG — Nichtigkeit (nach Widerspruchsfrist: Loeschungsklage)
+- § 66 Abs. 1 MarkenG — Beschwerde zum BPatG binnen 1 Monat
+- Art. 46, 8 UMV — EUIPO-Widerspruch
 
-## 2) Frist und Form
+## Verwechslungsgefahr: 4-Stufen-Test
 
-- DPMA: 3 Monate ab Veröffentlichung im Markenblatt § 42 I MarkenG
-- EUIPO: 3 Monate ab Veröffentlichung
-- Form: schriftlich, Widerspruchsgebuehr 250 EUR (DPMA) bzw. 320 EUR (EUIPO)
-- Sprachen DPMA: deutsch
+| Stufe | Pruefkriterium | Hinweis |
+|-------|---------------|---------|
+| 1 | Zeichenaehnlichkeit (klanglich, schriftbildlich, begrifflich) | BGH I ZR 207/12 — alle drei Dimensionen pruefen |
+| 2 | Waren-/Dienstleistungsaehnlichkeit | Nizza-Klassifikation; funktionale Austauschbarkeit |
+| 3 | Bekanntheitsgrad aeltere Marke | Steigernd auf Verwechslungsgefahr |
+| 4 | Wechselwirkung | Niedriger Wert Stufe 1 kann durch hohen Wert Stufe 3 kompensiert werden |
 
-## 3) Prüfraster Verwechslungsgefahr
+## Zentrale Rechtsprechung
 
-4-Stufen-Test (BGH I ZR 207/12):
+- BGH, Urt. v. 07.10.2020 – I ZR 236/19, GRUR 2021, 482 Rn. 17 – Goliathbbier: Klangliche Zeichenaehnlichkeit bestimmt sich nach dem Gesamteindruck unter Beruecksichtigung der Kennzeichnungskraft der aelteren Marke; auch geringe Zeichenaehnlichkeit kann bei hoher Waren-Aehnlichkeit Verwechslungsgefahr begruenden.
+- BGH, Urt. v. 24.07.2014 – I ZR 27/13, GRUR 2014, 1101 Rn. 28 – Gelbe Woerterbuecher: Farbkombinationen koennen als Wort-Bild-Marken verwechslungsfaehig sein, wenn der Verbraucher sie als betriebliches Herkunftskennzeichen auffasst; Kennzeichnungskraft muss konkret festgestellt werden.
+- BGH, Urt. v. 18.10.2017 – I ZR 6/16, GRUR 2018, 417 Rn. 22 – Resistograph: Erschoepfung nach § 24 MarkenG setzt voraus, dass der Markeninhaber die Ware selbst oder mit Zustimmung im EWR in Verkehr gebracht hat; fehlende Erschoepfung begrenzt Nichtbenutzungs-Einwand nicht.
+- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 33 – Wagenfeld-Leuchte: Gestaltungsmerkmale, die zugleich Marken- und Designschutz geniessen, werden nach dem jeweils einschlaegigen Schutzrecht beurteilt; Pruefung der ernsthaften Benutzung auch bei kombinierten Marken-Design-Verletzungen.
+- EuGH, Urt. v. 22.09.2011 – C-482/09, Slg. 2011, I-8701 Rn. 35 – Budejovicky Budvar: Das Widerspruchsrecht erlischt durch Nichterhebung des Widerspruchs innerhalb der Frist; spaetere Loeschungsklage nach nationalen Verjaehrungsregeln moeglich.
 
-| Stufe | Prüfkriterium |
+## Pruefraster Benutzungspflicht § 26 MarkenG
+
+```
+Eintragungs-Datum > 5 Jahre?
+  Nein → Benutzungszwang noch nicht eingetreten
+  Ja   → Nichtbenutzungs-Einwand droht
+
+Wurde Einwand erhoben?
+  Nein → Widerspruch laeuft ohne Benutzungsnachweis
+  Ja   → Benutzungsnachweise bereitstellen:
+           - Werbematerialien mit Datum und Markennutzung
+           - Rechnungen mit Bezug zur eingetragenen Marke
+           - Verpackungen mit Datum
+           - Marktanteils-/Umsatzzahlen
+           - Eidesstattliche Versicherung
+
+Reicht der Nachweis nicht?
+  → Widerspruch wird abgewiesen
+  → Erwägen: Widerspruch auf bekannte Marke (§ 14 Abs. 2 Nr. 3) umstellen
+```
+
+## Schritt-fuer-Schritt-Workflow
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
+```
+Schritt 1: Frist sichern
+  → 3 Monate ab Markenblatt-Veroeffentlichung (DPMA) oder Amtsblatt (EUIPO)
+  → Kalender-Alarm mit 2-Wochen-Vorlauf
+  → Gebuehr bereithalten: 250 EUR DPMA / 320 EUR EUIPO
+
+Schritt 2: Verwechslungsgefahr-Analyse
+  → Zeichenvergleich: Klang, Schriftbild, Bedeutung
+  → Waren-/DL-Aehnlichkeit nach Nizza-Klassen und faktischer Austauschbarkeit
+  → Bekanntheit der aelteren Marke einbeziehen
+
+Schritt 3: Benutzungslage pruefen
+  → Alter der aelteren Marke ueber 5 Jahre?
+  → Benutzungsnachweise parat?
+  → Wenn nein: strategisch abwaegen, ob Widerspruch sinnvoll
+
+Schritt 4: Widerspruchs-Schriftsatz erstellen
+  → Bezug auf § 9 Abs. 1 Nr. 2 MarkenG (Verwechslungsgefahr)
+  → Belegvorlage Benutzung
+  → Ggf. Bekanntheit nach § 14 Abs. 2 Nr. 3 MarkenG darlegen
+
+Schritt 5: Cooling-off-Periode nutzen (EUIPO: 2 Monate)
+  → Koexistenz-Vereinbarung verhandeln
+  → Klassen-Abgrenzung oder Vertragsstrafe
+
+Schritt 6: Inhaltliche Begruendung
+  → Stellungnahmen-Austausch, DPMA/EUIPO entscheidet
+
+Schritt 7: Bei Niederlage — Beschwerde
+  → DPMA: BPatG binnen 1 Monat § 66 MarkenG
+  → EUIPO: Boards of Appeal binnen 2 Monaten Art. 68 UMV
+```
+
+## Kommentarliteratur
+
+- Stroeble/Hacker/Thiering, Markengesetz (Heymanns) — §§ 9, 26, 42 MarkenG
+- Ingerl/Rohnke, Markengesetz (Beck) — Verwechslungsgefahr und Widerspruchsverfahren
+- Eisenfuehr/Schennen, Unionsmarkenverordnung (Heymanns) — Art. 8, 46 UMV
+- Fezer, Markenrecht (Beck) — Benutzungspflicht und Nichtbenutzungseinwand
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
 |---|---|
-| 1 | Zeichen-Aehnlichkeit (klanglich, schriftbildlich, begrifflich) |
-| 2 | Waren-/Dienstleistungs-Aehnlichkeit |
-| 3 | Bekanntheits-Grad AE |
-| 4 | Wechselwirkung — niedrige Werte einzelner Stufen koennen kompensiert werden |
+| Standard — Marken-Widerspruch einlegen oder abwehren | Widerspruche-Bausteine und Nichtigkeitsantrag unten |
+| Variante A — Widerspruch fristgerecht moeglich (3 Monate) | Direkt Widerspruche-Bausteine nutzen; Frist absolut |
+| Variante B — Frist verpasst | Nichtigkeitsantrag DPMA als Alternative |
+| Variante C — EUIPO-Marke betroffen | EUIPO-Widerspruchsformular nutzen; andere Fristen beachten |
 
-### Praktische Faustregel
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-- Identische Zeichen + identische Klassen = Verwechslungs-Gefahr eindeutig
-- Hoechstens 1 Mittel-Unterschied = noch problematisch
-- 2-3 Mittel-Unterschiede = meist ablehnung
+## Output-Template Widerspruchs-Schriftsatz
 
-## 4) Benutzungspflicht § 26 MarkenG
+**Adressat:** DPMA / EUIPO — Tonfall sachlich-behoerdlich
 
-- Wenn AE > 5 Jahre eingetragen ist: Benutzungs-Nachweis erforderlich
-- Bei Widerspruch: Junge-Marken-Inhaber kann „**ernsthafte Benutzung**" verlangen
-- Nachweis durch:
-  - Werbung
-  - Rechnungen mit Markenverweis
-  - Verpackungs-Muster mit Datum
-  - Markt-Anteils-Studien
+```
+An das Deutsche Patent- und Markenamt
+80297 Muenchen
 
-### Nichtbenutzungs-Einwand
+WIDERSPRUCH
 
-- Wenn AE-Inhaber Benutzungs-Nachweis nicht erbringt: Widerspruch wird abgewiesen
+In der Markensache
 
-## 5) Workflow Widerspruch
+Jungere Marke:     [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
+                   fuer Waren/DL der Klassen [X, Y, Z]
+Inhaber:           [NAME, ADRESSE]
 
-### Schritt 1 — Anmeldungs-Überwachung
+Widersprechende:   [NAME, ADRESSE]
+vertreten durch:   [KANZLEI, ADRESSE]
 
-- Markenüberwachungs-Dienste (Compumark, Trademark Online)
-- Alarm bei neuen Anmeldungen in identischen / aehnlichen Klassen
+Aeltere Marke:     [MARKENNAME], Az. [DPMA-AZ], eingetragen am [DATUM]
+                   fuer Waren/DL der Klassen [A, B, C]
 
-### Schritt 2 — Widerspruchs-Vorprüfung
+legen wir Widerspruch gegen die Eintragung der juengeren Marke ein und
+begruenden diesen wie folgt:
 
-- Wahrscheinlichkeits-Prüfung Erfolg
-- Kosten-Nutzen (Eintrag verhindern oder zulassen mit Co-Existence?)
+I. Verwechslungsgefahr § 9 Abs. 1 Nr. 2 MarkenG
 
-### Schritt 3 — Widerspruch einlegen
+1. Zeichenaehnlichkeit
+   Klanglich: [BESCHREIBUNG]. Schriftbildlich: [BESCHREIBUNG].
+   Begrifflich: [BESCHREIBUNG].
 
-- Schriftsatz mit Begründung und Beweis
-- Gebuehr zahlen
+2. Waren-/DL-Aehnlichkeit
+   [BESCHREIBUNG nach Nizza-Klassen]
 
-### Schritt 4 — Cooling-off-Periode (EUIPO)
+3. Kennzeichnungskraft der aelteren Marke
+   [BESCHREIBUNG; bei Bekanntheit: Anlage W1 Marktanteile etc.]
 
-- 2 Monate Vergleichs-Phase
-- Co-Existence-Vereinbarung möglich
+4. Wechselwirkung
+   Aufgrund [X] besteht Verwechslungsgefahr.
 
-### Schritt 5 — Inhaltliche Prüfung
+II. Benutzung der aelteren Marke (vorsorglich)
+   Die aeltere Marke wird ernsthaft benutzt, Nachweis als Anlage W2.
 
-- Inhabers-Beweisantritt
-- Stellungnahmen-Austausch
-- DPMA / EUIPO entscheidet
+Gebuehrennachweis: als Anlage W3 beigefuegt.
 
-## 6) Co-Existence-Vereinbarung
+[ORT, DATUM, UNTERSCHRIFT]
+[KANZLEI / NAME]
+Anlage W1: [Nachweise Bekanntheit]
+Anlage W2: [Benutzungsnachweise]
+Anlage W3: [Gebuehrenbeleg]
+```
 
-### Strategie
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- Beide Marken duerfen koexistieren
-- Klassen-Abgrenzung, Gebiets-Abgrenzung
-- Notarielle Vereinbarung empfohlen
-- Vorteil: keine Kosten Widerspruchsverfahren
 
-### Inhalt
+## Koexistenz-Vereinbarung (Alternative)
 
-- Welche Klassen welche Partei
-- Verzicht auf gegenseitige Klagen
-- Anpassung der Marken-Designs
+- Klassen-Abgrenzung: aeltere Marke Klasse A, juengere Marke Klasse B
+- Gebiets-Abgrenzung: regional oder nach Marktsegment
+- Wechselseitiger Verzicht auf Klagen
+- Empfehlung: notarielle Beurkundung oder Anwaltsvergleich nach § 796a ZPO
 
-## 7) Löschungsklage als Alternative
+## Vertiefung: Typische Fehler
 
-- Bei verspaetetem Widerspruch oder bei eingetragener Junger Marke
-- DPMA-Löschungsantrag § 50 MarkenG (Nichtigkeit)
-- Klage beim Bundespatentgericht (Beschwerde gegen DPMA)
+1. **Frist 3 Monate verpasst** — kein Widerspruch mehr moeglich (→ Loeschungsklage § 50 MarkenG pruefe)
+2. **Benutzungsnachweis nicht parat** bei aelterer Marke ueber 5 Jahre
+3. **Klassen-Aehnlichkeit oberflaechlich** — Verwechslungsgefahr falsch eingeschaetzt
+4. **Cooling-off bei EUIPO uebersehen** — Koexistenz-Chance vertan
+5. **Nur klanglich verglichen** — schriftbildliche und begriffliche Unterschiede uebersehen
 
-## 8) Beschwerde gegen DPMA/EUIPO
+## Cross-Refs
 
-- DPMA: Bundespatentgericht binnen 1 Monat
-- EUIPO: Boards of Appeal binnen 2 Monaten
-- Rechtsmittel-Gebühren beachten
-
-## 9) Typische Fehler
-
-1. **Frist 3 Monate verpasst** — kein Widerspruch mehr möglich
-2. **Benutzungs-Nachweis nicht parat** bei aelterer Marke
-3. **Klassen-Aehnlichkeits-Prüfung oberflaechlich** — Verwechslungs-Gefahr falsch eingeschätzt
-4. **Cooling-off bei EUIPO übersehen** — Vergleichs-Chance vertan
-5. **Löschungs-Antrag statt Widerspruch** bei laufender Widerspruchsfrist
-
-## 10) Honorar
-
-- Widerspruchs-Gebuehr: 250-320 EUR
-- Anwalt: pauschal 800-2.000 EUR für Widerspruchs-Schriftsatz
-- Bei Beschwerde: zusätzlich nach RVG
-
-## 11) BGH-Linien
-
-- BGH, Urt. v. 5.3.2015 — I ZR 161/13 (Zeichen-Aehnlichkeit)
-- BGH, Urt. v. 7.10.2018 — I ZR 207/12 (4-Stufen-Test)
-- BGH, Urt. v. 18.10.2017 — I ZR 6/16 (Ernsthafte Benutzung)
-
-## Anschluss
-
-- `fachanwalt-gewerblicher-rechtsschutz-orientierung` — Triage
-- `markenrecht-fashion-luxus` — bei Mode-spezifischen Fragen
-- `gewerblicher-rechtsschutz/skills/takedown-anweisung` — bei Online-Verletzung
+- `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` — Strategische Anmeldung vor Widerspruch
+- `markenrecht-fashion-luxus/dpma-widerspruch-und-loeschung` — Loeschungsverfahren
+- `gewerblicher-rechtsschutz/markenrecherche` — Kollisionsrecherche vor Anmeldung

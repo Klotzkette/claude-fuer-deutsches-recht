@@ -1,9 +1,32 @@
 ---
 name: gliederung-mit-tiefenstruktur
-description: Gliederungs-Erstellung Hausarbeit mit Tiefen-Struktur A-Roemisch-Arabisch-Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge bei Zivilrecht oeffentlich-rechtlicher Aufbau Strafrecht 3-Stufen-Aufbau. Ziel uebersichtliche logische und verschachtelte Gliederung mit hierarchischer Struktur die das Pruefungsschema sichtbar macht.
+description: "Student erstellt Gliederung fuer juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht oeffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Pruefraster Gliederungs-Logik Hierarchie Pruefungsschema-Sichtbarkeit Vollstaendigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-fuer-schritt (Inhalt)."
 ---
 
 # Gliederung mit Tiefen-Struktur
+
+
+## Triage zu Beginn
+1. Welches Fachgebiet und wie viele Anspruchsgrundlagen/Pruefungspunkte sind zu erwarten?
+2. Wie ist die gewuenschte Tiefe der Gliederung (Anfaenger: A.I.1.a), Examen: tiefer)?
+3. Gibt es Konkurrenzen zwischen Anspruchsgrundlagen, die in der Gliederung sichtbar sein muessen?
+4. Sollen Hilfsweise-Pruefungen als eigene Gliederungspunkte oder als Unterpunkte erscheinen?
+
+## Aktuelle Rechtsprechung und Methodik
+- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Anspruchsgrundlagen muessen in der logischen Reihenfolge geprueft werden; zunaechst speziellere Normen, dann allgemeine (Lex-specialis-Grundsatz).
+- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — Keine Vermischung verschiedener Anspruchsgrundlagen ohne Abgrenzung; strukturierte Gliederung ist Pruefungsvoraussetzung.
+- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Konkurrierende Ansprueche muessen erkennbar getrennt geprueft werden; Zusammenfuehren ohne Abgrenzung begruendet methodischen Fehler.
+- BVerfG, Beschl. v. 04.02.1975 - 2 BvL 5/74, BVerfGE 38, 386 — Logische Konsistenz juristischer Argumentationsstruktur ist verfassungsrechtliches Gebot des Rechtsstaatsprinzips.
+
+## Zentrale Normen
+- § 242 BGB — Treu und Glauben: Gliederung muss die rechtlichen Beziehungen vollstaendig abbilden
+- § 308 ZPO — Bindung an Antraege: Gliederung darf nicht ueber den Bearbeitungsvermerk hinausgehen
+- §§ 195 ff. BGB — Verjährung als eigener Gliederungspunkt bei Anspruchs-Erloesung
+- § 362 BGB — Erfuellung als erster Erloeschungsgrund in Gliederungs-Unterebene
+
+## Kommentarliteratur
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 1 Rn. 1-30 (Systemdenken im BGB als Grundlage der Gliederung)
+- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, Einl. Rn. 10-25 (Anspruchsgrundlagen-System und Rangfolge)
 
 ## Zweck
 

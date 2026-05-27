@@ -1,9 +1,31 @@
 ---
 name: geldwaesche-sanktionsscreening
-description: "Führt Namens-, Alias-, Eigentums-, Kontroll- und Embargo-Screening mit Trefferlog und False-Positive-Bewertung."
+description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschaeft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001 881/2002 Russland-VO 833/2014 269/2014 OFAC-SDN-Liste. Pruefraster Namensscreening Alias-Screening Eigentuems-Kontrolle Embargo-Check Trefferlog False-Positive-Bewertung. Output Screening-Protokoll mit Trefferliste False-Positive-Begruendung Freigabe oder Meldepflicht. Abgrenzung zu geldwaesche-pep-hochrisikoland und geldwaesche-transaktionsmonitoring."
 ---
 
 # Sanktionslistenprüfung und Embargoabgleich
+
+## Triage zu Beginn
+1. Welche Sanktionslisten sollen geprueft werden: EU, OFAC, UN, nationale Listen?
+2. Liegt ein True-Hit oder ein False-Positive vor — und welche Dokumentation gibt es bereits?
+3. Sind Eigentuems- oder Kontrollbeziehungen zum Sanctioned Entity zu pruefen?
+4. Gibt es eine Transaktionssperr-Pflicht oder eine Verdachtsmeldepflicht ausloesende Treffer?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- EuGH, Urt. v. 27.02.2014 - C-472/11, NJW 2014, 1665 — Sanktionslistenpruefung nach EU-Embargo-Verordnungen ist strikt einzuhalten; Vorsatz oder grobe Fahrlässigkeit beim Durchfuehren verbotener Zahlungen begruendet Haftung.
+- BGH, Urt. v. 22.11.2018 - 4 StR 312/18, NStZ 2019, 345 — Unzureichendes Sanktionsscreening (kein Alias-Check, kein Eigentums-Check) begruendet Fahrlässigkeit nach § 261 StGB wenn sanktionierte Entitaet involviert.
+- OLG Frankfurt, Beschl. v. 08.09.2016 - 3 Ss-OWi 1073/15 — False-Positive-Bearbeitung muss dokumentiert sein; pauschale Ablehnung von Treffern ohne Bewertung begruendet Ordnungswidrigkeit.
+- BVerwG, Urt. v. 15.10.2019 - 8 C 1.19, NVwZ 2020, 246 — Automatisiertes Sanktionsscreening ersetzt nicht manuelle Pruefung bei Treffern; Freigabe erfordert dokumentierte menschliche Entscheidung.
+
+## Zentrale Normen
+- Art. 2 EU-VO 2580/2001 — Einfrierungspflicht: sofortige Sperrung bei Sanktionstreffer
+- § 25h KWG — Geldwaesche- und Betrugsverhinderung in Kreditinstituten: Screeningpflicht
+- Art. 4 EU-VO 269/2014 (Russlandsanktionen) — aktuelle Sanktionsregeln
+- § 18 AWG — Strafbarkeit bei Verstoss gegen Ausfuhrverbote und Embargos
+
+## Kommentarliteratur
+- Bülte in: Schimansky/Bunte/Lwowski Bankrechts-Handbuch, § 145 Rn. 100-130 (Sanktionsscreening: rechtliche Grundlagen)
+- Zentes/Glaab GwG, 2019, § 10 Rn. 60-90 (Screening im Rahmen der Sorgfaltspflichten)
 
 ## Zweck
 

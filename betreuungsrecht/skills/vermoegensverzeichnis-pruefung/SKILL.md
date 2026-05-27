@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-pruefung
-description: "Unterstützt bei Erstellung, Prüfung und Aktualisierung des Vermögensverzeichnisses des Betreuers nach §§ 1835 und 1839 BGB sowie der jährlichen Rechnungslegung nach § 1865 BGB. Lädt, wenn Schlagwörter wie „Vermögensverzeichnis\", „Anfangsvermögen\", „Rechnungslegung\", „§ 1835 BGB\", „§ 1865 BGB\" oder „Sperrvermerk\" auftreten."
+description: "Vermögensverzeichnis fuer Betreuung prüfen und erstellen: Anwendungsfall Betreuer muss nach § 1835 BGB Vermögensverzeichnis aufnehmen oder bestehendes Verzeichnis auf Vollstaendigkeit und Richtigkeit prüfen. § 1835 BGB Vermögensverzeichnis, § 1836 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung Vorsorgevollmacht. Pruefraster Vermoegensgegenstaende vollstaendig Konten Immobilien Wertpapiere, Verbindlichkeiten, Vermoegensveraenderungen seit letztem Verzeichnis, Bestandsnachweis Belege. Output vollstaendiges Vermögensverzeichnis mit Prüfprotokoll und Differenzliste. Abgrenzung zu Jahresbericht-Betreuungsgericht und zu Kontodaten-Vertragsverdacht."
 ---
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)
@@ -188,9 +188,9 @@ mit Aufgabenkreis Vermögenssorge und Gesundheitssorge.
 >
 > | Konto | IBAN | Saldo 12.05.2026 | Sperrvermerk |
 > |---|---|---|---|
-> | Postbank Giro | DE12 …4521 | 2.187,33 EUR | nein |
-> | Postbank Tagesgeld | DE12 …7788 | 24.500,00 EUR | ja (beantragt) |
-> | Volksbank Sparbuch | DE99 …3344 | 8.900,00 EUR | ja (beantragt) |
+> | Postbank Giro | DE12 …4521 | 2187.33 EUR | nein |
+> | Postbank Tagesgeld | DE12 …7788 | 24500.00 EUR | ja (beantragt) |
+> | Volksbank Sparbuch | DE99 …3344 | 8900.00 EUR | ja (beantragt) |
 >
 > Mündelsicherheit (§ 1839 BGB): Postbank Tagesgeld und Volksbank Sparbuch
 > sind verzinslich angelegt und einlagengesichert. Antrag auf Anordnung des

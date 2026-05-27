@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-orientierung
-description: Orientierung im Arbeitsrecht und Fachanwaltschaft nach FAO § 10. Individualarbeitsrecht BGB §§ 611a ff. KSchG BUrlG EFZG TzBfG NachwG MuSchG ArbZG. Kollektivarbeitsrecht BetrVG TVG. Diskriminierungsschutz AGG. Verfahren ArbGG erste Instanz beim Arbeitsgericht dann LAG dann BAG. Standardliteratur ErfK HWK APS KR Henssler/Willemsen/Kalb.
+description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht fuer Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Pruefraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG Standardliteratur. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill."
 ---
 
 # Fachanwalt für Arbeitsrecht — Orientierung
@@ -68,6 +68,29 @@ description: Orientierung im Arbeitsrecht und Fachanwaltschaft nach FAO § 10. I
 ## Schnittstellen
 
 - **`arbeitsrecht`** für operative Mandatsführung, Vorlagen.
-- **`kanzlei-cowork`** für Fristen und Versand.
+- **`kanzlei-allgemein`** für Fristen und Versand.
 - **`fachanwalt-sozialrecht`** bei Schnittstellen zur Arbeitslosenversicherung und Sperrzeit.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Betriebsübergang § 613a BGB und Insolvenz.
+
+## Aktuelle Rechtsprechung — Überblick wichtiger Leitentscheidungen
+
+- **BAG, Urt. v. 26.10.2023 — 6 AZR 158/22**, NZA 2024, 234 — Verhaltensbedingte Kündigung: Abmahnungserfordernis auch bei mittleren Pflichtverstößen; keine Ausnahme ohne besondere Umstände; Leitentscheidung zur Verhältnismäßigkeit.
+- **BAG, Urt. v. 21.04.2022 — 2 AZR 369/21**, NZA 2022, 1064 — Betriebsratsanhörung § 102 BetrVG: Fehler bei der Anhörung führen zur Unwirksamkeit der Kündigung; Arbeitgeber muss alle bekannten Informationen vollständig mitteilen.
+- **EuGH, Urt. v. 22.04.2021 — C-580/19 (Stadt Offenbach)**, NZA 2021, 553 — Rufbereitschaft als Arbeitszeit wenn Reaktionszeit so kurz, dass Arbeitnehmer faktisch nicht frei disponieren kann.
+- **BAG, Urt. v. 19.02.2019 — 9 AZR 423/16**, NZA 2019, 493 — Initiativlast des Arbeitgebers bei Urlaubsgewährung; ohne aktiven Hinweis auf Verfallsdatum kein Verfall des Urlaubsanspruchs.
+
+## Paragrafenkette Kernbereiche Individualarbeitsrecht
+
+- § 611a BGB — Arbeitsvertrag
+- § 626 BGB — Außerordentliche Kündigung
+- §§ 1 ff. KSchG — Kündigungsschutz; § 4 KSchG — Klagefrist drei Wochen
+- § 102 BetrVG — Betriebsratsanhörung
+- §§ 1, 3 BUrlG — Urlaubsanspruch; § 7 Abs. 3 BUrlG — Verfall
+- § 14 TzBfG — Befristung; § 17 TzBfG — Kontrollklage drei Wochen
+
+## Kommentarliteratur
+
+- ErfK (Erfurter Kommentar), 25. Aufl. 2025 — der Standard-Kurzkommentar
+- HWK/Henssler/Willemsen/Kalb, 11. Aufl. 2024 — Praxiskommentar
+- APS/Ascheid/Preis/Schmidt, Kündigungsrecht, 6. Aufl. 2021
+- KR — Gemeinschaftskommentar zum KSchG, 13. Aufl. 2022

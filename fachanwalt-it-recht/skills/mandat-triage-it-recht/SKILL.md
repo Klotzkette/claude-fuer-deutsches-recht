@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-it-recht
-description: Strukturierte Eingangs-Abfrage fuer IT-rechtliche Mandate. Klaert Sachgebiet (Softwareerstellung Lizenzrecht SaaS Cloud Hosting IT-Sicherheit DSGVO IT-Compliance NIS-2 Cyber-Vorfall AI-Act KRITIS Telekommunikationsrecht TMG Provider-Haftung E-Commerce Domain-Recht Plattformrecht DSA TMG abgeloest durch DDG seit 14.05.2024) Mandantenrolle (Auftraggeber Auftragnehmer Plattform Hosting-Provider Nutzer) Vertragstyp Phase (vor Vertrag waehrend Projekt nach Abnahme Streit) Sofort-Fristen Cyber-Vorfall-Meldung 72-Stunden-DSGVO 24-Stunden-NIS-2 Stilllegungs-Anordnungen. Eskalation Telefon-Sofort bei Cyber-Vorfall Hacker-Angriff. Routing zu softwarefehler-mangelhaftung-pruefen.
+description: "Strukturierte Eingangs-Abfrage fuer IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Pruefraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h."
 ---
 
 # Mandat-Triage IT-Recht
@@ -79,6 +79,7 @@ IT-Recht ist breit und stark im Wandel (DSGVO NIS-2 AI Act DSA). Triage stellt S
 - Versicherung Cyber Berufshaftpflicht IT
 - Berufshaftpflicht Anwalt für Beratung
 - Streitwert sehr variabel
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -121,6 +122,19 @@ Bei aktivem Hacker-Angriff:
 - **Heute** DSGVO-Meldung Domain-Sperre Filesharing-Antwort
 - **Diese Woche** Mangel-Klage Vertragsentwurf
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — IT-Recht Mandat triage und routen | Triage-Protokoll; Template unten |
+| Variante A — Datenschutz-Schwerpunkt | DSGVO-Skills pruefen; DPA als erstes |
+| Variante B — Strafrecht-Beruehrer | § 202a ff. StGB; Strafrecht-Skill einbeziehen |
+| Variante C — Eilsituation Datenpanne | 72h-Frist DSGVO Art. 33; Skill cyber-incident-response |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 ## Ausgabe
 
 - `triage-protokoll-it-recht.md`
@@ -129,6 +143,11 @@ Bei aktivem Hacker-Angriff:
 - Mandatsvereinbarung mit Honorar
 - Bei Cyber-Incident: Sofort-Checkliste als Anhang
 - Empfehlung Folge-Skill
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Quellen
 
@@ -141,3 +160,49 @@ Bei aktivem Hacker-Angriff:
 - BGH VIII. Zivilsenat
 - Marly Softwarerecht
 - Schneider IT-Recht
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Anwaltshaftung bei Mandatsuebernahme ohne Konflikt-Check — Interessenkonflikt bereits bei Beratung desselben Sachverhalts auf Gegenseite entsteht.
+- EuGH, Urt. v. 07.03.2024 — C-604/22 (IAB Europe), NJW 2024, 1205 Rn. 48: Consent-Management-Betreiber als gemeinsam Verantwortlicher i.S.d. Art. 26 DSGVO; relevant fuer Mandatspruefung IT-Dienstleister.
+- BGH, Urt. v. 26.01.2017 — VII ZR 198/15, NJW 2017, 1534 Rn. 22: Eilbeduerftigkeit im IT-Projektstreit — einstweilige Verfuegung bei drohender Projektunterbrechung zulaessig; RA-Sofortmandat gerechtfertigt.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a BRAO — Anwaltliche Grundpflichten: Interessenkonflikt-Verbot
+- § 45 BRAO — Verbotene Taetigkeit (frueherer Mandant / Gegenpartei)
+- Art. 33 DSGVO — 72-Stunden-Meldepflicht Datenpanne
+- § 32 BSIG n. F. — NIS-2-Meldepflicht 24 Stunden / 72 Stunden
+- Art. 19 NIS-2-RL (EU 2022/2555) — Haftung Geschaeftsleitungsorgane
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken, Anwaltliches Berufsrecht, 3. Aufl. 2020, § 43a BRAO Rn. 12 ff.: Konflikt-Check als Mandats-Voraussetzung.
+- Schneider, IT-Recht, 5. Aufl. 2021, Kap. 1 Rn. 45 ff.: Mandatseinleitung im IT-Recht.
+
+## Triage zu Beginn
+1. Besteht ein Interessenkonflikt — wurde dieselbe Partei oder Gegenseite bereits beraten (§ 43a BRAO)?
+2. Liegt ein Cyber-Vorfall oder eine Datenpanne vor — laeuft die 72-Stunden-Frist (Art. 33 DSGVO)?
+3. Handelt es sich um eine NIS-2-relevante Einrichtung — laeuft die 24-Stunden-Fruhwarnung (§ 32 BSIG n. F.)?
+4. Welches Sachgebiet ist einschlaegig (Softwarerecht, Datenschutz, KI-VO, DSA, Plattformrecht)?
+5. Wie hoch ist der Streitwert — sechsstellig oder mehr erfordert fruehs Sachverstaendigen-Bedarf klaeren?
+
+## Output-Template — Triage-Protokoll IT-Recht
+**Adressat:** Kanzlei intern (Akte) — Tonfall: strukturiert-knapp
+```
+TRIAGE-PROTOKOLL IT-RECHT
+[DATUM] — [AKTENZEICHEN] — [NAME MANDANT]
+
+1. Mandantenrolle: [Auftraggeber / Auftragnehmer / Plattform / Nutzer]
+2. Sachgebiet: [Softwareerstellung / SaaS / DSGVO / NIS-2 / AI Act / DSA / ...]
+3. Eilbeduerftigkeit:
+   - Cyber-Vorfall: [Ja / Nein] — Entdeckungszeitpunkt: [DATUM UHRZEIT]
+   - DSGVO-Meldung 72h laeuft ab: [DATUM UHRZEIT] (Art. 33 DSGVO)
+   - NIS-2-Fruehwarnung 24h laeuft ab: [DATUM UHRZEIT] (§ 32 BSIG n. F.)
+4. Konflikt-Check: [Durchgefuehrt — kein Konflikt / KONFLIKT: BESCHREIBUNG]
+5. Streitwert-Schaetzung: EUR [BETRAG]
+6. Naechste Schritte:
+   - [MASSNAHME 1] bis [DATUM]
+   - [MASSNAHME 2] bis [DATUM]
+7. Routing: [FOLGE-SKILL]
+
+Bearbeiter: [NAME RA/RAin]
+```

@@ -1,6 +1,6 @@
 ---
 name: lksg-csddd-lieferkettensorgfalt
-description: Pruefraster Lieferkettensorgfalt nach LkSG (seit 1.1.2023) und EU-CSDDD (Richtlinie 2024/1760 Umsetzungsfrist 26.7.2026 anwendbar ab 2027 mit Schwellen-Phasing). Anwendungsbereich Unternehmen mit Sitz Deutschland und Mitarbeitern ab 1000 (LkSG) bzw. EU-Schwellenwerte CSDDD. Sorgfaltspflichten Risikomanagement Grundsatzerklaerung Risiko-Analyse jaehrlich anlassbezogen Praeventionsmassnahmen Abhilfemassnahmen Beschwerdemechanismus § 8 LkSG Dokumentation Berichterstattung. Erweiterte Pflichten zu mittelbaren Zulieferern bei substantiierter Kenntnis. Sanktionen § 24 LkSG Zwangsgeld Bussgeld bis EUR 800000 oder 2 Prozent Konzernumsatz. BAFA-Aufsicht. § 11 LkSG Prozessstandschaft Gewerkschaften und NGOs.
+description: "Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Pruefraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklaerung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A)."
 ---
 
 # LkSG und CSDDD — Lieferkettensorgfalt

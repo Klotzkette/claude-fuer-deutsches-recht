@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-verstaendigung-257c-toa-46a
-description: "Verstaendigung § 257c StPO Tateroffenes Geschaeft Geständnis gegen Strafrahmen. Taeter-Opfer-Ausgleich § 46a StGB. Adhaesionsverfahren § 403 StPO Schmerzensgeld im Strafverfahren. Einstellung gegen Auflage § 153a StPO. Workflow Vorbereitung Verstaendigung Mandantengespraech Belehrung."
+description: "Verstaendigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prueft ob Einigung durch Deal Einstellung oder TOA fuer Mandanten vorteilhaft ist. § 257c StPO Verstaendigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Pruefraster Verstaendigungs-Eignung beurteilen, Gestaendnis-Risiken pruefen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verstaendigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung fuer Hauptverhandlung und zu Einlassung."
 ---
 
 # Verständigung § 257c StPO / TOA § 46a StGB

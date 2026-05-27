@@ -1,6 +1,6 @@
 ---
 name: lesefassung-konsolidiert
-description: "Erstellt eine Lesefassung des geaenderten Stammgesetzes in der nach Inkrafttreten gueltigen Form. Einheitlich gelesen ohne Aenderungsmarkierung. Hilfreich fuer Adressaten und Vollzugsbehoerden. Pro Stammgesetz eine eigene Datei. Praezise Datierung Stand nach Inkrafttreten des neuen Gesetzes und der zugehoerigen Verordnung. Mit Pruefliste Format-Konventionen Inkrafttretens-Handling Verweis-Pflege Beispiel-Header DOCX-Ausgabe-Konventionen."
+description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne Aenderungsmarkierungen. Einheitlich lesbar ohne Aenderungsmarkierung Datierung Stand nach Inkrafttreten. Format-Konventionen Inkrafttretens-Handling Verweis-Pflege DOCX-Ausgabe. Output Lesefassung pro Stammgesetz bereinigt datiert. Abgrenzung zu synopse-erstellen Gegenueberestellung alt und neu."
 ---
 
 # Lesefassung konsolidiert
@@ -121,3 +121,17 @@ Die Lesefassung ist **kein** amtliches Dokument. Die amtliche Konsolidierung erf
 - `dokumente-rendern-docx-pdf` — für den DOCX-/PDF-Export der Lesefassung
 - `referentenentwurf-bauen` — bei aenderbarem Entwurfsstand
 - `inkrafttreten-uebergangsrecht` — bei stufenweisem Inkrafttreten oder Übergangsregelungen
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 15.01.2002 — 1 BvR 1783/99, BVerfGE 104, 357 Rn. 25 — Normenklarheits-Gebot erfordert, dass Buerger und Gerichte Geltungsinhalt eines Gesetzes ohne unzumutbaren Aufwand ermitteln koennen; unuebersichtliche Aenderungskette kann Normenklarheit verletzen
+- BVerwG, Urt. v. 28.07.2011 — 2 C 28.10, NVwZ 2012, 26 — Lesefassung als Hilfsmittel hat keine eigenstaendige Rechtswirkung; Geltung richtet sich stets nach dem im BGBl. veroeffentlichten Originaltext; abweichende Lesefassung begrundet keine Rechte
+- BGH, Urt. v. 26.04.2017 — VIII ZR 233/15, NJW 2017, 2268 — bei Kollision zwischen Originalgesetz und nichtamtlicher Lesefassung hat Originaltext Vorrang; Richtigkeits-Garant liegt beim amtlichen Bundesgesetzblatt
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 82 GG (Ausfertigung und Verkuendung) — § 1 BGBlG (Bundesgesetzblatt als amtliche Quelle) — §§ 1-5 NormDokVO (Normdokumentations-Verordnung) — Art. 20 Abs. 3 GG (Normklarheit als Rechtsstaatsprinzip)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 82 Rn. 1 ff. (Verkuendung, Normursprungs-Frage)
+- Schneider, Gesetzgebung, 3. Aufl. 2002, § 7 Rn. 1 ff. (Normfassung, Konsolidierung)

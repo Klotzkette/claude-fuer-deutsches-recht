@@ -1,6 +1,6 @@
 ---
 name: examens-prognose
-description: "Examensprognose auf Basis vergangener JPA-Klausuren, Statistiken des BMJV und bekannter Schwerpunktmuster. Lade diesen Skill bei Anfragen wie „Was kommt im Examen?\", „JPA-Statistik\", „Examensprognose\", „examens-prognose\" oder „worauf soll ich mich konzentrieren\"."
+description: "Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizpruefungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Pruefraster vergangene JPA-Klausuren analysieren, Haeufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen fuer Uebungsklausuren und zu Lernplan."
 ---
 
 # Examensprognose / JPA-Statistik

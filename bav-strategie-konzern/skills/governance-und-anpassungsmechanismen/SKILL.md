@@ -1,6 +1,6 @@
 ---
 name: governance-und-anpassungsmechanismen
-description: "Pension Committee Charter Trustee-Board-Strukturen Anpassungsentscheidungen nach Paragraph 16 BetrAVG und sachlich-billige Ermessensausuebung fuer Konzern-Pensionsgremien im Stil von Treuenfels Yamamoto Duesseldorf: Governance-Rahmen fuer betriebliche Altersversorgung grosser Unternehmen."
+description: "Governance-Strukturen und Anpassungsmechanismen fuer Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Pruefraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill)."
 ---
 
 # Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG
@@ -23,6 +23,13 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - VAG §§ 26, 234 (Governance-Anforderungen Pensionskassen und Pensionsfonds)
 - MaRisk (Mindestanforderungen an das Risikomanagement — analog anwendbar auf interne Pension Committees)
 - IAS 19.135–145 (Angabepflichten zu Governance und Risikomanagement)
+- BAG 24.09.2019 — 3 AZR 747/17 (Anpassungsentscheidung § 16 BetrAVG: volle gerichtliche Überprüfung der Prognoseentscheidung; AG trägt Darlegungslast für ausreichende Eigenkapitalrendite)
+- BAG 16.06.2020 — 3 AZR 530/19 (Prognoseprinzip bei wirtschaftlicher Leistungsfähigkeit § 16 BetrAVG: Dreijahres-Finanzplan muss konkrete Pläne des Unternehmens abbilden; keine pauschalen Branchenprognosen)
+
+### Kommentarliteratur
+
+- Rolfs/Giesen/Kreikebohm/Udsching, BeckOK ArbeitsR, § 16 BetrAVG Rn. 1 ff. (Anpassungsprüfungspflicht, Prognoseprinzip)
+- Kemper/Kisters-Kölkes/Berenz/Huber, BetrAVG, 9. Aufl. 2023, § 16 Rn. 50 ff. (Eigenkapitalrendite, Ermessen)
 
 ---
 
@@ -198,7 +205,7 @@ c) einem unabhängigen Sachverständigen (benannt durch Arbeitgeber und Betriebs
 a) Überwachung der Anlagerichtlinien (Investment Policy Statement)
 b) Billigung des Jahresberichts des Treuhänders
 c) Zustimmung zu wesentlichen Änderungen der Anlagestruktur
-d) Sicherstellung der Insolvenzfestigkeit gem. BAG 3 AZR 18/12
+d) Sicherstellung der Insolvenzfestigkeit gem. BAG, Urt. v. 22.09.2020 — 3 AZR 303/18
 ```
 
 ---

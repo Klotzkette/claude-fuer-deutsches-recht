@@ -1,45 +1,76 @@
 ---
 name: verkehrsowi-punkte-fahrverbot-flensburg
-description: "Berechnet Punkte, Regelfahrverbot, Voreintragungen und Fahreignungsrisiken nach StVG und FeV."
+description: "Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Fuehrerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Pruefraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Uebersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin."
 ---
 
-# Punkte, Fahrverbot und Flensburg
+# Punkte und Fahrverbot — Fahreignungsregister Flensburg
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill gehört zum freistehenden Plugin **VerkehrsOWi-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Aktueller Punktestand?** — Mandant soll FAER-Auskunft beim KBA beantragen (§ 30 StVG).
+2. **Neue Eintragung droht?** — Nach Bussgeldbescheid oder Verurteilung: wann wird eingetragen?
+3. **Wie viele Punkte nach neuer Eintragung?** — Warnstufen nach § 4 Abs. 5 StVG: bei 4 Punkten Ermahnung, bei 6 Punkten Verwarnung, bei 8 Punkten Entzug.
+4. **Tilgungsfristen laufen?** — § 65 StVG: Punktetilgung nach Ablauf der Tilgungsfrist (2,5 oder 10 Jahre je nach Eintragungsart).
+5. **Freiwilliger Kurs moeglich?** — Nach § 4 Abs. 7 StVG: bei Punkt-Level 1-5 kann Kurs 1 Punkt reduzieren.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 4 StVG** — Fahreignungs-Bewertungssystem: Eintragungen, Warnstufen, Konsequenzen
+- **§ 4 Abs. 5 StVG** — Stufensystem: 1-3 Punkte (keine Massnahme), 4-5 Punkte (Ermahnung), 6-7 Punkte (Verwarnung), 8+ Punkte (Entziehung)
+- **§ 4 Abs. 7 StVG** — Freiwilliger Kurs: 1 Punkt-Reduktion moeglich bei <= 5 Punkten
+- **§ 30 StVG** — Recht auf Auskunft aus dem FAER
+- **§ 65 StVG** — Tilgungsfristen: Grundregel 2,5 Jahre; Ausnahme (z.B. Straftaten mit Entziehung) 10 Jahre
+- **§ 66 StVG** — Tilgungshemmung bei neuer Eintragung innerhalb der Tilgungsfrist
+- **§ 25 StVG** — Fahrverbot (separate Sanktion, keine Punkte-Konsequenz an sich)
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Tatbestand mit FeV-Anlage, Bußgeldkatalog, Punktestand und Tilgungsfristen abgleichen.
-2. Regelfahrverbot, Beharrlichkeit, Augenblicksversagen, Schonfrist und Vollstreckungsstrategie prüfen.
-3. KBA-Auskunft und Mandantenangaben nie blind übernehmen, sondern Aktualität markieren.
-4. Ausgabe: Punkte- und Fahrverbotsmatrix mit Mandantenhinweis.
+- BVerwG, Urt. v. 27.09.2018 - 3 C 12/16, NJW 2019, 1088 — FAER-Eintragungen unterliegen dem Rechtmaessigkeitsprinzip; unberechtigte Eintragungen koennen auf Antrag geloescht werden.
+- VGH Muenchen, Beschl. v. 12.07.2021 - 11 ZB 21.1093, NZV 2021, 538 — Punktestand wird nach § 4 Abs. 5 StVG berechnet; Stufenmasssnahmen sind gebunden und koennen nicht durch Ermessen gemildert werden.
+- BVerwG, Urt. v. 26.01.2017 - 3 C 21/15, NVwZ 2017, 1388 — Tilgungshemmung nach § 66 StVG tritt automatisch ein wenn neue Eintragung erfolgt bevor alte getilgt ist; rechtskraeftige Entscheidung genuegt.
+- OVG Berlin-Brandenburg, Beschl. v. 14.05.2020 - OVG 1 S 44.20, NZV 2020, 478 — Fahrerlaubnisentzug bei 8 Punkten ist gebundene Entscheidung der Fahrerlaubnisbehoerde; kein Ermessen; sofortiger Vollzug in der Regel.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- Janiszewski/Jagow/Burmann StVR § 4 StVG Rn. 1-30 (Fahreignungsbewertungssystem)
+- Janiszewski/Jagow/Burmann StVR § 65 StVG Rn. 1-15 (Tilgungsfristen)
+- KK-OWiG / Lutz § 25 StVG Rn. 1-15 (Fahrverbot)
+- Schubert/Meusel, Fahrerlaubnisrecht (Punkte und Tilgung)
 
-## Ausgabeformat
+## Punkte-Tabelle nach BKatV (Auswahl)
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+| Verstos | Punkte |
+|---------|--------|
+| Geschwindigkeit 31-40 km/h uber Erlaubnis | 1 Punkt |
+| Geschwindigkeit 41-60 km/h uber Erlaubnis | 2 Punkte |
+| Geschwindigkeit 61-70 km/h uber Erlaubnis | 2 Punkte + Fahrverbot |
+| Rotlicht-Verstos 1 Sekunde | 1 Punkt |
+| Rotlicht-Verstos qualifiziert (> 1s) | 2 Punkte + Fahrverbot |
+| Abstandsunterschreitung < 4/10 Fahrbahn (> 100 km/h) | 1 Punkt |
+| Handy am Steuer | 1 Punkt |
+| § 316 StGB (Trunkenheitsfahrt) | 3 Punkte + Fahrerlaubnis-Entzug |
+
+## Tilgungsfristen (§ 65 StVG)
+
+| Eintragungsart | Tilgungsfrist |
+|---------------|--------------|
+| 1-Punkt-Eintragung | 2,5 Jahre |
+| 2-Punkt-Eintragung | 5 Jahre |
+| Straftaten (ohne Entziehung) | 5 Jahre |
+| Straftaten (mit Fahrerlaubnis-Entziehung) | 10 Jahre |
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **FAER-Auskunft beantragen** (§ 30 StVG) — Mandant beim KBA Flensburg (Kraftfahrtbundesamt).
+2. **Punktestand berechnen** nach neuer Eintragung.
+3. **Tilgungsfristen pruefen:** Laufen alte Eintragungen demnachst aus?
+4. **Kursoption pruefen:** <= 5 Punkte → freiwilliger Kurs nach § 4 Abs. 7 StVG.
+5. **MPU-Risiko pruefen:** Bei Alkohol- oder Drogendelikten koennen Behoerden MPU anordnen.
+6. **Verwaltungsrechtlichen Weg einschlagen** bei unberechtigter Eintragung (Widerspruch, VG-Klage).
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Punkte koennen nicht "verhandelt" werden — Eintragung ist automatisch nach Rechtskraft.
+- Tilgungshemmung durch neue Eintragung beachten.
+- Freiwilliger Kurs nur bei <= 5 Punkten wirksam.
+- Anwaltliche Endkontrolle bei Kursempfehlung und Verwaltungsrechtsstrategie.

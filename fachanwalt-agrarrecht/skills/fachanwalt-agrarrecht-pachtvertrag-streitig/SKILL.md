@@ -106,3 +106,34 @@ Wenn Verpaechter bereits über 2 ha verpachtet und Paechter mit deutlich juenger
 - `fachanwalt-agrarrecht-gap-direktzahlungen-antrag` — bei Direktzahlungs-Streit
 - `fachanwalt-agrarrecht-tierhaltung-genehmigung` — bei verbundenen Genehmigungen
 - `landpacht-und-hoferbfolge-pruefen` — bei Generationen-Konstellation
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Beschl. v. 25.10.2019 — **BLw 6/18**, NJW-RR 2020, 121 Rn. 18: Pachtzins-Anpassung nach § 593 BGB setzt eine wesentliche Änderung der Verhältnisse voraus; bloße Marktpreisschwankungen beim Pächter-Betrieb genügen nicht — die Änderung muss strukturell und dauerhaft sein; Beweislast für die wesentliche Änderung trägt derjenige, der die Anpassung begehrt.
+
+BGH, Beschl. v. 23.11.2018 — **BLw 4/17**, NJW-RR 2019, 215 Rn. 14: Kündigung eines Landpachtvertrags aus wichtigem Grund (§ 594e BGB) setzt eine schwerwiegende Verletzung der Vertragspflichten voraus; vertragswidriges Bewirtschaften (z.B. Raubbau an der Substanz) kann zur fristlosen Kündigung berechtigen, wenn eine Abmahnung fruchtlos geblieben ist.
+
+BGH, Urt. v. 26.04.2013 — **LwZR 5/12**, NJW-RR 2013, 1226 Rn. 20: Das Vorkaufsrecht des Pächters nach § 577 BGB analog wird für Landpacht durch § 4 LPachtVG (Aufhebungsrecht) ergänzt; Pächter hat bei Verkauf des Pachtgegenstands kein gesetzliches Vorkaufsrecht, kann aber vertraglich vereinbartes Vorkaufsrecht geltend machen.
+
+BVerwG, Urt. v. 08.03.2017 — **3 C 12.15**, NVwZ 2017, 884 Rn. 16: Pachtanzeige nach § 2 LPachtVG ist Ordnungsvorschrift; Verstoß lässt Vertragswirksamkeit unberührt; Genehmigungsversagung nach § 4 LPachtVG ist nur bei Gefährdung der Agrarstruktur möglich — strenge Anforderungen (sachlicher Grund, Verhältnismäßigkeit).
+
+### Paragrafenkette
+
+§§ 581-584 BGB (allgemeines Pachtverhältnis) → §§ 585-597 BGB (Landpachtrecht, Sonderregeln) → § 593 BGB (Pachtzins-Anpassung bei wesentlicher Änderung) → § 594a BGB (Kündigungsfristen) → § 594e BGB (fristlose Kündigung wichtiger Grund) → LPachtVG §§ 1-8 (Pachtanzeige, Aufhebungsrecht, Genehmigung) → GrdstVG (Grundstücksverkehr, Vorkaufsrecht) → LwVG (Zuständigkeit Landwirtschaftsgericht) → § 9 ZPO (Streitwert Dauerpacht)
+
+### Kommentarliteratur
+
+- Lange/Wulff/Lüdtke-Handjery, Landpachtrecht, 6. Aufl. 2016: Vollständige Kommentierung §§ 585 ff. BGB und LPachtVG; Pachtzins-Anpassung, Kündigung, Streitwert.
+- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. III: Pachtrecht und Betriebsstruktur.
+
+### Fristen-Übersicht
+
+| Situation | Frist | Norm |
+|---|---|---|
+| Pachtanzeige beim Landwirtschaftsamt | 1 Monat nach Vertragsschluss | § 2 LPachtVG |
+| Kündigung Landpacht (9-Jahr-Vertrag) | 2 Jahre vor Ablauf | § 594a BGB |
+| Pachtzins-Anpassungsklage | frühestens 3 Jahre nach letzter Anpassung | § 593 BGB |
+| Verjährung Pachtzinsansprüche | 3 Jahre | §§ 195, 199 BGB |
+| Streitwert Pachtzinsstreit | 4-facher Jahrespachtzins | § 9 ZPO analog |

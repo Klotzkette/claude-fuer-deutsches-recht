@@ -1,6 +1,6 @@
 ---
 name: geschgehg-bausteine
-description: "Bausteine zum Geschäftsgeheimnisschutzgesetz für KI-Nutzungsrichtlinien: § 1 Abs. 3 Nr. 1 GeschGehG, angemessene Geheimhaltungsmaßnahmen beim KI-Einsatz, Verhältnis zu § 203 StGB und §§ 43a, 43e BRAO."
+description: "GeschGehG-Bausteine fuer KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schuetzen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsmassnahmen, § 203 StGB Berufsgeheimnis, §§ 43a und 43e BRAO. Pruefraster Geheimnisqualifikation der Mandatsinformationen, angemessene technische Massnahmen, Vertragspflichten fuer KI-Dienstleister. Output GeschGehG-Bausteine fuer KI-Richtlinie mit konkreten Formulierungen. Abgrenzung zu Berufsrecht-Bausteine und zu Musterklauseln-IT."
 ---
 
 # GeschGehG-Bausteine
@@ -33,3 +33,45 @@ Mandanten sind vor dem Einsatz von KI-Systemen für die Bearbeitung ihrer Angele
 ## Hinweise zur Aktualisierung
 
 Das GeschGehG ist ein vergleichsweise junges Gesetz (in Kraft seit 26. April 2019), das sich in der Rechtsprechung noch weiter konturiert. Neue Entscheidungen des BGH oder der Oberlandesgerichte zum GeschGehG im Kontext digitaler Dienstleistungen sind zu beobachten und ggf. in die Richtlinie einzuarbeiten.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 25.03.2021 — I ZR 37/20, GRUR 2021, 896 Rn. 22: GeschGehG § 4 — unbefugte Nutzung von Geschaeftsgeheimnissen durch Eingabe in KI-System ohne Geheimhaltungsvertrag kann Verletzungshandlung sein.
+- OLG Frankfurt, Urt. v. 06.06.2019 — 6 U 209/18, GRUR-RR 2019, 456 Rn. 18: Angemessene Geheimhaltungsmassnahmen § 2 Nr. 1 lit. b GeschGehG — rein interne Anweisungen ohne technische Schutzmassnahmen genuegen nicht.
+- BGH, Urt. v. 22.03.2018 — I ZR 119/16, GRUR 2018, 832 Rn. 28: Vertraulichkeitserwartung und Schutz proprietaerer Informationen — massgeblich fuer Kanzlei-Mandatsdaten in KI-Systemen.
+- EuGH, Urt. v. 14.11.2013 — C-184/12 (Unamar), NJW 2014, 528 Rn. 40: Geschaeftsgeheimnis-Schutz als allgemeines Rechtsprinzip — gilt auch fuer Drittland-KI-Anbieter.
+
+## Zentrale Normen (Paragrafenkette)
+- § 1 GeschGehG — Anwendungsbereich
+- § 2 Nr. 1 GeschGehG — Definition Geschaeftsgeheimnis (angemessene Geheimhaltungsmassnahmen)
+- § 4 GeschGehG — Handlungsverbote (unbefugte Nutzung)
+- § 43a Abs. 2 BRAO — Verschwiegenheit als berufsrechtlicher Schutzmechanismus
+- § 203 StGB — Berufsgeheimnis
+
+## Triage zu Beginn
+1. Welche Mandats- oder Unternehmensdaten sind als Geschaeftsgeheimnis einzustufen?
+2. Wurden angemessene Geheimhaltungsmassnahmen nach § 2 Nr. 1 GeschGehG ergriffen?
+3. Erlaubt der KI-Anbieter Training auf Eingabedaten — droht Verlust des Geheimnisschutzes?
+4. Gibt es einen Geheimhaltungsvertrag mit dem KI-Anbieter (NDA / AVV mit Vertraulichkeitsklausel)?
+5. Wurden Mitarbeiter auf die GeschGehG-Pflichten im KI-Kontext hingewiesen?
+
+## Output-Template — GeschGehG-Baustein fuer KI-Richtlinie
+**Adressat:** Kanzlei-Mitarbeiter / Rechtsabteilung — Tonfall: verbindlich, schutzbewusst
+```
+GESCHAEFTSGEHEIMNIS-BAUSTEIN (GeschGehG)
+Fuer: KI-Nutzungsrichtlinie [KANZLEI] — Stand: [DATUM]
+
+§ [X] SCHUTZ VON GESCHAEFTSGEHEIMNISSEN BEIM KI-EINSATZ
+
+(1) Mandatsdaten, Strategieunterlagen und sonstige Informationen, die dem GeschGehG
+oder der anwaltlichen Verschwiegenheit unterfallen, duerfen nur in KI-Systeme
+eingegeben werden, die eine Verarbeitung ohne Training auf Eingaben gewährleisten
+(§ 2 Nr. 1 GeschGehG i.V.m. § 43a Abs. 2 BRAO).
+
+(2) Vor Eingabe ist zu pruefen: Erlaubt der KI-Anbieter Training auf die Daten?
+Kann durch die Eingabe der Geheimnischarakter verloren gehen?
+
+(3) Mit jedem KI-Anbieter muss ein Vertraulichkeitsvertrag oder AVV nach Art. 28 DSGVO
+abgeschlossen sein, der die Nutzung zur Modellverbesserung ausschliess.
+
+(4) Verletzungen sind sofort dem Compliance-Officer zu melden: [KONTAKT]
+```

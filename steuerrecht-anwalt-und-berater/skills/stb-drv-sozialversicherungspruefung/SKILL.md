@@ -1,6 +1,6 @@
 ---
 name: stb-drv-sozialversicherungspruefung
-description: "DRV-Sozialversicherungspruefung Begleitung durch Steuerberater. Pruefturnus alle vier Jahre § 28p SGB IV. Pruefungsschwerpunkte Statusfeststellung GF Scheinselbststaendigkeit Mini- und Midijobs Phantomlohn-Saetze BAGB-Stundenlohn Mindestlohn. § 266a StGB Strafbarkeit unterlassener Arbeitnehmer-Anteil. Haftungsrisiko Geschaeftsfuehrung § 69 AO i.V.m. Lohnsteuer-AP. Schreibvorlagen Mitwirkung Anhoerung Widerspruch."
+description: "Steuerberater-Begleitung der DRV-Sozialversicherungspruefung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Pruefankuendigung oder Pruefung laeuft bereits. Pruefungsschwerpunkte Statusfeststellung GF Scheinselbststaendigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenpruefung Verknuepfung. Output Mitwirkungsdokumentation Anhoerungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern GF-Haftung Steuer."
 ---
 
 # DRV-Sozialversicherungsprüfung — Steuerberater-Begleitung
@@ -33,7 +33,7 @@ Steuerberater-Begleitung der **Sozialversicherungsprüfung** durch die Deutsche 
 - **§ 7a SGB IV** — Statusfeststellungsverfahren (Clearingstelle DRV).
 - **§ 266a StGB** — Vorenthalten und Veruntreuen von Arbeitsentgelt; **Arbeitnehmeranteil** SV-Beiträge **strikt** unabhängig von Liquidität.
 - **§ 14 Abs. 2 SGB IV** — Phantomlohn: tatsächlich gezahlt = Mindestlohn × Stunden, auch wenn vertraglich weniger; Differenzbeitragspflicht.
-- **MiLoG** — Mindestlohngesetz; Anpassung Mindestlohn jährlich (12,82 EUR seit 1.1.2025; 13,90 EUR ab 1.1.2026).
+- **MiLoG** — Mindestlohngesetz; Anpassung Mindestlohn jährlich (12.82 EUR seit 1.1.2025; 13.90 EUR ab 1.1.2026).
 - **§ 8 Abs. 1 Nr. 1 SGB IV** — Mini-Job-Grenze (538 EUR seit 1.10.2022; dynamisch an Mindestlohn).
 - **§ 22 SGB IV** — Verjährung Beitragsforderung: vier Jahre (regelmäßig); 30 Jahre bei Vorsatz.
 
@@ -141,4 +141,4 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 28p SGB IV-Prüfturnus 4 Jahre. Mindestlohn 13,90 EUR ab 1.1.2026. Mini-Job-Grenze dynamisch an Mindestlohn gekoppelt. BSG-Statusfeststellungs-Rechtsprechung (B 12 R 11/18 R) ungebrochen. Bei Reform MiLoG / SGB IV aktualisieren.
+Stand: 05/2026. § 28p SGB IV-Prüfturnus 4 Jahre. Mindestlohn 13.90 EUR ab 1.1.2026. Mini-Job-Grenze dynamisch an Mindestlohn gekoppelt. BSG-Statusfeststellungs-Rechtsprechung (B 12 R 11/18 R) ungebrochen. Bei Reform MiLoG / SGB IV aktualisieren.

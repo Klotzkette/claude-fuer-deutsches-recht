@@ -1,6 +1,6 @@
 ---
 name: gliederungs-baukasten
-description: "Erstellt oder erweitert Lernstrukturen nach dem Prüfungsstoff der Ersten und Zweiten Staatsprüfung (JAG/JAPrO der Bundesländer) — Skripten-Gliederung, Definitionen-Lernkartei, Paragraphenübersicht. Gerüstbau: schreibt die Inhalte nicht für den Studierenden. Lädt, wenn der Nutzer „Lernstruktur aufbauen\", „Gliederung [Rechtsgebiet]\", „Übersicht erstellen\" oder „mein Lernblatt erweitern\" sagt."
+description: "Gliederungs-Baukasten fuer juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung fuer Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Pruefraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Ueberschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben fuer Formulierung und zu Subsumtionslehre fuer Argumentation."
 ---
 
 # Lernstruktur-Builder

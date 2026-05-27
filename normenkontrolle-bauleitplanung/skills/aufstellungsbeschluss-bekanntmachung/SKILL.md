@@ -1,6 +1,6 @@
 ---
 name: aufstellungsbeschluss-bekanntmachung
-description: Pruefung der formellen Verfahrenskette eines Bebauungsplans vom Aufstellungsbeschluss bis zur Bekanntmachung als Satzung. Paragraf 2 Abs. 1 BauGB Aufstellungsbeschluss der Gemeinde mit ortsueblicher Bekanntmachung. Paragraf 3 BauGB Buergerbeteiligung Paragraf 4 BauGB Behoerdenbeteiligung. Paragraf 10 Abs. 1 BauGB Beschluss als Satzung. Paragraf 10 Abs. 3 BauGB ortsuebliche Bekanntmachung mit Hinweis auf Paragraf 215 BauGB und Auslegungsort. Anstossfunktion der Bekanntmachung als zentrale Wirksamkeitsvoraussetzung. Pruefung Zustaendigkeit Beschlussfaehigkeit Befangenheit. Identitaet der ausgelegten und beschlossenen Planfassung. Mehrfache Auslegung bei Aenderung. Audit ueber Beschlussvorlagen Sitzungsprotokolle Auszug Niederschrift Gemeinderat.
+description: "Mandant prueft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Pruefraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Identitaet ausgelegte und beschlossene Fassung Zustaendigkeit Beschlussfaehigkeit. Output: Verfahrensfehlerpruefung-Protokoll. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren) und planerhaltung-214-215-baugb."
 ---
 
 # Aufstellungsbeschluss und Bekanntmachung
@@ -144,3 +144,14 @@ Audit der formellen Verfahrenskette des B-Plans. Häufigste Treffer im Normenkon
 - BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion)
 - BVerwG, Urteil vom 18.7.2013 – 4 CN 3.12 (Identität Planfassung)
 - BVerwG, Beschluss vom 18.12.1987 – 4 NB 2.87 (Ortsüblichkeit)
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BVerwG, Beschl. v. 15.04.1988 — 4 N 4.87, BVerwGE 79, 200 Rn. 12: Ortsueblliche Bekanntmachung als Anstossfunktion muss die wesentlichen Eckpunkte des Planvorhabens erkennbar machen; formelhafte Bekanntmachung ohne Bezug zum Plangebiet genuegt nicht.
+- BVerwG, Urt. v. 18.07.2013 — 4 CN 3.12, NVwZ 2014, 173 Rn. 18: Identitaet der ausgelegten und der vom Gemeinderat beschlossenen Planfassung ist zwingendes Wirksamkeitserfordernis; nachtraegliche Planänderungen erfordern erneute Auslegung.
+- BVerwG, Urt. v. 01.07.2010 — 4 C 4.08, BVerwGE 137, 247 Rn. 22: Beschlussfaehigkeit des Gemeinderats bei Satzungsbeschluss ist Wirksamkeitsvoraussetzung; fehlerhafte Sitzungseinladung kann Beschlussfaehigkeit vernichten.
+
+## Kommentarliteratur
+
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — §§ 2, 10 Rn. 1 ff.
+- Ernst/Zinkahn, BauGB — §§ 2, 10 BauGB Verfahrensvorschriften

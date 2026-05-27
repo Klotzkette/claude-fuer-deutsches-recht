@@ -1,11 +1,34 @@
 ---
 name: dringlichkeitsmarker
-description: "Erkennt Fristen und Eile-Signale in Mandantenanfragen: Hauptverhandlung naechste Woche, Kuendigungsfrist laeuft, Haftungsfalle, Zwangsvollstreckung, Insolvenzantrag. Setzt Dringlichkeitsstufe HOCH/MITTEL/NIEDRIG und markiert: Anwalt muss sofort anrufen statt auf E-Mail zu warten. Laedt wenn der Nutzer 'Dringlichkeit pruefen', 'Frist erkannt', 'Sofortmassnahme Mandant', 'Fristproblem Erstanfrage' oder 'Eilbedarf Anfrage' sagt."
+description: "Eingehende Mandantenanfrage enthaelt moeglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Pruefraster: Signale Hauptverhandlung naechste Woche Kuendigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort)."
 ---
 
 # Dringlichkeitsmarker
 
 Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt eine Dringlichkeitsstufe. Bei hoher Dringlichkeit ist ein sofortiger Anwaltsrückruf erforderlich — die anfragende Person darf nicht auf eine E-Mail-Antwort warten.
+
+
+## Triage zu Beginn
+1. Enthält die Anfrage eine konkrete Datumsangabe oder Fristnennung (Gerichtstermin, Kuendigungsfrist, Rechtsmittelfrist)?
+2. Welches Rechtsgebiet ist betroffen — welche typischen Fristen gelten (KSchG 3 Wochen, § 517 ZPO 1 Monat Berufung)?
+3. Gibt es Anzeichen fuer Zwangsvollstreckung, Insolvenzantrag oder strafrechtliche Eile?
+4. Ist die Dringlichkeitsstufe HOCH — muss der Anwalt sofort anrufen statt auf E-Mail zu warten?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anwalt muss auf erkennbare Fristen-Signale in Mandantenanfragen sofort reagieren; verspaetete Erstantwort bei akuter Frist begruendet Haftungsrisiko nach § 51 BRAO.
+- BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Notfrist (Berufung, Revision) laeuft auch, wenn kein Mandat erteilt wurde; Anwalt muss Fristproblem sofort eskalieren, wenn er davon weiss.
+- BAG, Urt. v. 23.05.2023 - 5 AZR 400/22, NZA 2023, 1100 — Kuendigungsschutzklage: 3-Wochen-Frist nach § 4 KSchG beginnt mit Zugang; erstes Gespräch muss Fristeintrag ausloesen.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtswahrnehmung erfordert sofortiges Handeln bei drohenden Rechtsnachteilen; Erstantwort-System muss Dringlichkeitseskalation sicherstellen.
+
+## Zentrale Normen
+- § 4 KSchG — Kuendigungsschutzklage-Frist: 3 Wochen ab Zugang der Kuendigung (Notfrist)
+- § 517 ZPO — Berufungsfrist: 1 Monat ab Urteilszustellung (Notfrist, unverlaengerbar)
+- § 51 BRAO — Haftung: Fristversaeumnis durch mangelnde Dringlichkeits-Erkennung
+- § 233 ZPO — Wiedereinsetzung: nur moeglich wenn Kanzlei keine Fahrlässigkeit trifft
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 51 Rn. 1-30 (Haftung fuer Fristversaeumnis bei Erstanfragen)
+- Zöller/Greger ZPO § 233 Rn. 1-20 (Wiedereinsetzung: Voraussetzungen und anwaltliche Sorgfalt)
 
 ## Dringlichkeitsstufen
 

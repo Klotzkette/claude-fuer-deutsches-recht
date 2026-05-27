@@ -5,6 +5,30 @@ description: "Typische Vergleichsbausteine in der Entfristungsklage: Entfristung
 
 # Vergleichsverhandlung: Checkliste Entfristungsklage
 
+## Triage zu Beginn — kläre vor der Vergleichsverhandlung
+
+1. Will der Mandant Weiterbeschäftigung (unbefristetes Arbeitsverhältnis) oder Beendigung mit Abfindung?
+2. Welche Abfindungsuntergrenze ist akzeptabel?
+3. Stehen offene Urlaubstage, Überstunden oder Gehaltsansprüche aus?
+4. Sperrzeit-Risiko: Auf wessen Veranlassung wird das AV beendet? (§ 159 SGB III)
+5. Wird ein qualifiziertes Zeugnis benötigt? Welche Note?
+6. Erledigungsklausel: Gibt es weitere offene Ansprüche aus dem Arbeitsverhältnis?
+
+## Zentrale Normen
+
+- §§ 9, 10 KSchG i.V.m. § 17 Satz 2 TzBfG — Auflösungsantrag auf Abfindung
+- § 7 Abs. 4 BUrlG — Urlaubsabgeltung bei Beendigung
+- § 615 BGB — Annahmeverzugslohn bei Weiterbeschäftigungsverweigerung
+- § 159 SGB III — Sperrzeit bei Aufhebungsvertrag auf eigene Veranlassung
+- § 34 EStG — Fünftel-Regelung für Abfindungen (steuerliche Behandlung prüfen)
+- § 109 GewO — Zeugnisanspruch
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 19.05.2010 – 5 AZR 253/09, NZA 2010, 939 — Annahmeverzugslohn steht dem Arbeitnehmer für den Zeitraum zu, in dem der Arbeitgeber die Weiterbeschäftigung trotz Unwirksamkeit der Befristung verweigert; anderweitiger Verdienst ist nach § 615 Satz 2 BGB anzurechnen.
+- BAG, Urt. v. 01.02.2006 – 5 AZR 187/05, NZA 2006, 619 — Eine weit gefasste Erledigungsklausel im Vergleich erfasst auch Ansprüche, die die Parteien nicht bedacht haben; der Mandant muss auf das Risiko der Vernichtung offener Forderungen hingewiesen werden.
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Bei einem starken Schriftformmangel-Fall (elektronische Signatur) ist die Rechtsposition des Arbeitnehmers günstig; dies sollte bei Vergleichsverhandlungen als Druckmittel berücksichtigt werden.
+
 ## Zweck
 
 Ein Vergleich in der Entfristungsklage kann verschiedene Formen annehmen. Dieser Skill listet alle relevanten Punkte auf.

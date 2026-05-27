@@ -1,9 +1,32 @@
 ---
 name: zivilrecht-anspruchsgrundlagen-pruefung
-description: Zivilrechtliches Schema Anspruchsgrundlagen-Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Pruefungsschemata je Anspruchsgrundlage. Konkurrenzen Lex specialis. Beispiele BGB Schuldrecht Sachenrecht Familienrecht Erbrecht.
+description: "Student prueft zivilrechtliche Ansprueche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Pruefungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB. Pruefraster Anspruchsgrundlagen-Reihenfolge Spezialitaet Konkurrenzen lex specialis. Output Anspruchspruefungs-Schema Begruendung. Abgrenzung zu strafrecht-tatbestand (Strafrecht) und oeffentliches-recht-statthaft (Verwaltungsrecht)."
 ---
 
 # Zivilrecht — Anspruchsgrundlagen-Prüfung
+
+
+## Triage zu Beginn
+1. Welche Anspruchsgrundlagen kommen nach V-C-G-D-D-B in Betracht?
+2. Gibt es besondere Konkurrenzprobleme (§ 823 BGB neben §§ 280 ff. BGB, § 812 BGB neben Vertragsrecht)?
+3. Welche Voraussetzungen der primaer einschlaegigen Anspruchsgrundlage sind streitig?
+4. Gibt es Einreden oder Einwendungen (Erloeschung, Verjährung, § 320 BGB)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — V-C-G-D-D-B-Reihenfolge als methodischer Standard: Vertrag ist dem Delikt vorrangig; kein Bereicherungsanspruch solange Vertragsanspruch besteht.
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Anspruchsgrundlagen-Pruefung erfordert vollstaendige Tatbestandspruefung auch bei scheinbar eindeutigen Sachverhalten.
+- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Bereicherungsanspruch (§ 812 BGB) ist subsidiaer gegenueber vertraglichen Rueckforderungsanspruechen; § 812 greift nur bei Rechtsgrundlosigkeit.
+- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — § 280 Abs. 1 BGB erfordert Schuldverhaeltnis, Pflichtverletzung, Vertretenmüssen und Schaden; alle vier Voraussetzungen muessen geprueft werden.
+
+## Zentrale Normen
+- §§ 433, 634, 611, 677 BGB — Vertragsrecht als erste Pruefungsstufe der V-C-G-D-D-B
+- § 311 Abs. 2 BGB — Culpa in contrahendo als vorvertragliche Haftung
+- §§ 823 ff. BGB — Deliktsrecht als vierte Stufe
+- §§ 812 ff. BGB — Bereicherungsrecht als letzte Auffangnorm
+
+## Kommentarliteratur
+- Grüneberg/Grüneberg BGB Vorbem § 241 Rn. 1-50 (Anspruchsgrundlagen-System und V-C-G-D-D-B-Reihenfolge)
+- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, § 1 Rn. 1-40 (Anspruchsgrundlagen im Zivilrecht)
 
 ## Zweck
 

@@ -5,6 +5,16 @@ description: "Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils —
 
 # Praxisprofil anpassen
 
+## Triage zu Beginn
+
+Vor der Profilanpassung klaeren:
+
+1. **Profil vorhanden?** Existiert eine CLAUDE.md mit abgeschlossenem Kaltstart-Interview? Falls nicht: `gesellschaftsrecht-kaltstart-interview` zuerst ausfuehren.
+2. **Was soll geaendert werden?** Ein Abschnitt (Wesentlichkeitsschwelle, Modul, Risikoprofil, Person) oder mehrere Abschnitte? — Pro Durchlauf nur eine Aenderung.
+3. **Modul-Aktivierung?** Wird ein bisher inaktives Modul aktiviert (z.B. Kapitalmarkt)? Dann sind Folge-Einrichtungsfragen zu stellen.
+4. **Rechtsrelevante Aenderung?** Betrifft die Aenderung Normschwellen (z.B. Wesentlichkeitsschwelle M&A) oder Verfahrensregeln (z.B. Beschlussformat)? Dann rechtliche Downstream-Konsequenz erklaeren.
+5. **Downstream-Wirkung?** Welche anderen Skills werden von der Aenderung beeinflusst? (Tabelle der konfigurierbaren Bereiche zeigen)
+
 ## Zweck
 
 Der Nutzer möchte eine einzelne Einstellung im Praxisprofil ändern — ein Risikoprofil, einen Eskalationskontakt, einen Modulschalter, ein Ausgabeformat — ohne das vollständige Ersteinrichtungs-Interview zu wiederholen und ohne YAML manuell zu bearbeiten.
@@ -74,9 +84,45 @@ Bei Änderungen an Unternehmensname, Branche, Sitz, Tätigkeitssetting, Rechtsfo
 
 ## Ausgabeformat
 
-- Bestätigung der Änderung mit Vorher-/Nachher-Wert
+- Bestaetigung der Aenderung mit Vorher-/Nachher-Wert
 - Hinweis auf betroffene Skills
 - Ggf. Inkonsistenzwarnung (s. u.)
+
+## Output-Template
+
+**Adressat:** Praxis-Nutzer / Kanzlei-intern — Tonfall: sachlich-bestaedigend, handlungsanleitend
+
+```
+PROFILANPASSUNG GESELLSCHAFTSRECHT
+Datum: [TT.MM.JJJJ]
+Geaenderter Abschnitt: [ABSCHNITTSNAME]
+
+--- AENDERUNG ---
+VORHER: [ALTER WERT]
+NACHHER: [NEUER WERT]
+
+--- BETROFFENE SKILLS ---
+Diese Aenderung wirkt auf folgende Skills:
+- [SKILL 1]: [BESCHREIBUNG DER AUSWIRKUNG]
+- [SKILL 2]: [BESCHREIBUNG DER AUSWIRKUNG]
+Rueckwirkende Anwendung auf bestehende Daten: [NEIN / NUR AUF ANFRAGE]
+
+--- INKONSISTENZ-PRUEFUNG ---
+[KEIN KONFLIKT ERKANNT]
+oder:
+Konflikt erkannt: [BESCHREIBUNG] — Empfehlung: [HANDLUNGSHINWEIS]
+
+--- BESTAEIGUNG ---
+Praxisprofil gespeichert. Naechste Ausgabe verwendet den neuen Wert.
+Weitere Anpassungen: `/gesellschaftsrecht:gesellschaftsrecht-anpassen` erneut aufrufen.
+```
+
+## Rote Schwellen
+
+- **Wesentlichkeitsschwelle M&A auf null oder sehr niedrig gesetzt** — alle Vertraege werden als wesentlich geflaggt; DD-Tools werden unbrauchbar; Wert ueberdenken.
+- **Modul deaktiviert, obwohl aktive Mandate dieses Modul nutzen** — laufende Mandate koennen Skills nicht mehr laden; erst nach Abschluss aller Mandate in diesem Bereich deaktivieren.
+- **Schutzfunktionen (\"pruefen\"-Flags, Quellenhinweise) entfernt** — haftungsrechtliches Risiko; vor Entfernung Trade-off ausfuehrlich erklaeren.
+- **Mehrere Abschnitte in einem Durchlauf geaendert** — Downstream-Konflikte schwer nachverfolgbar; eine Aenderung pro Durchlauf.
 
 ## Beispiel
 

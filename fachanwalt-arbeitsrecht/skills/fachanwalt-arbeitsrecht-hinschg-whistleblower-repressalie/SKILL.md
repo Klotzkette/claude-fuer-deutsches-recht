@@ -1,150 +1,274 @@
 ---
 name: fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie
-description: "Verteidigung des Hinweisgebers (Whistleblowers) nach Hinweisgeberschutzgesetz (HinSchG vom 31.5.2023 in Kraft 2.7.2023). Beweislastumkehr § 36 HinSchG Verbot der Repressalie. Tatbestaende Kuendigung Versetzung Mobbing Entzug Aufstiegschancen. Anspruch Schadensersatz auch Schmerzensgeld § 37 HinSchG. EU-Whistleblower-RL 2019/1937. Workflow Beweisaufnahme Klageschrift Eilantrag bei Kuendigung."
+description: "Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekuendigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Pruefraster Hinweisgebertatbestand geschuetzte Meldung Repressalie-Kausalitaet Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Anspruechen Eilantrag bei Kuendigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren."
 ---
 
-# HinSchG-Whistleblower-Schutz gegen Vorgesetzten-Repressalie
+# HinSchG-Whistleblower-Schutz gegen Repressalie
 
 ## Zweck
 
-Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbeitgebers nach Meldung von Verstößen (Steuer, Geldwäsche, Datenschutz, Umweltrecht, Rechnungslegung). Der typische Fall: Mitarbeiterin meldet intern oder an Behörde, danach folgt Kündigung/Versetzung/Mobbing. § 36 HinSchG kehrt die Beweislast um — Arbeitgeber muss beweisen, dass die Maßnahme nichts mit der Meldung zu tun hat.
+Anwaltliche Verteidigung der hinweisgebenden Person gegen Repressalien des Arbeitgebers nach Meldung von Verstößen. Der typische Fall: Mitarbeiterin meldet intern oder extern einen Verstoß und erhält danach eine Kündigung, Versetzung oder erleidet Mobbing. § 36 HinSchG kehrt die Beweislast um — der Arbeitgeber muss beweisen, dass die Maßnahme nichts mit der Meldung zu tun hat.
 
-## Eingaben
+## Mandantenfragen — Kaltstart
 
-- Datum und Inhalt der Meldung (intern an Compliance / extern an Behörde)
-- Form der Meldung (HinSchG-konforme Meldestelle? Anonym? Schriftlich? Dokumentation?)
-- Repressalie: Kündigung, Versetzung, Abmahnung, Bonus-Kürzung, Aufstiegs-Verweigerung, Mobbing
-- Zeitlicher Abstand zwischen Meldung und Repressalie (kürzer = stärkere Vermutung)
-- Bestand des Arbeitsverhältnisses
-- Hinweisgeber-Status (auch bei Verdacht ausreichend nach § 3 Abs. 5 HinSchG)
+1. **Was genau wurde gemeldet?** — Sachlicher Anwendungsbereich § 2 HinSchG prüfen; Meldungen über rein private Konflikte sind nicht geschützt.
+2. **Wo und wie wurde die Meldung eingereicht?** — Interne Meldestelle (§ 7 HinSchG), externe Meldestelle BfJ/BaFin (§ 4 HinSchG), oder Offenlegung (§ 32 HinSchG)? Form der Meldung dokumentiert?
+3. **Wann fand die Meldung statt, wann die Repressalie?** — Zeitlicher Abstand ist wichtigstes Indiz: < 4 Wochen = starke Vermutung; > 6 Monate = schwache Vermutung.
+4. **Welche Art von Repressalie?** — Kündigung (3-Wochen-KSchG-Frist!), Versetzung, Abmahnung, Bonus-Kürzung, Beförderungsversagung, Mobbing.
+5. **Hatte der Mandant hinreichenden Grund zur Annahme eines Verstoßes?** — § 3 Abs. 5 HinSchG: kein Beweis nötig, nur vernünftiger Verdacht; bewusst unwahre Meldungen sind nicht geschützt (§ 38 HinSchG).
+6. **Besteht Kündigungsschutz nach KSchG?** — Wenn ja, läuft die 3-Wochen-Frist § 4 KSchG; HinSchG-Schutz und KSchG-Schutz laufen kumulativ.
+7. **Hat der Arbeitgeber eine interne Meldestelle eingerichtet?** — Pflicht ab 50 Beschäftigten seit 17.12.2023; fehlt sie, verstärkt dies den HinSchG-Schutz.
+8. **Gibt es Mitwisser oder Zeugen der Meldung?** — Beweissicherung sofort: E-Mails, Eingabebescheinigungen, Bestätigungs-E-Mails der Meldestelle.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
-### Primärnormen
+### Primärnormen HinSchG
 
-- **§ 1 HinSchG** — Schutzbereich: hinweisgebende Personen mit Bezug zur beruflichen Tätigkeit
-- **§ 2 HinSchG** — Sachlicher Anwendungsbereich (Straftaten + bestimmte Bußgeldtatbestände + EU-Rechtsbereiche aus Anhang RL 2019/1937)
-- **§ 3 Abs. 5 HinSchG** — Geschützt auch bei nur **hinreichendem Grund zur Annahme**, nicht zwingend Beweisbarkeit
-- **§ 4 HinSchG** — Externes Meldeverfahren beim BfJ / BaFin
-- **§ 7 HinSchG** — Internes Meldeverfahren (Pflicht ab 50 Beschäftigten seit 17.12.2023)
-- **§ 33 HinSchG** — Vertraulichkeitsgebot
-- **§ 35 HinSchG** — Verbot von Repressalien
-- **§ 36 HinSchG** — **Beweislastumkehr**: AG muss beweisen, dass Maßnahme **nicht** auf der Meldung beruht
-- **§ 37 HinSchG** — Schadensersatz (auch immaterieller Schaden / Schmerzensgeld)
-- **§ 40 HinSchG** — Bußgeldvorschriften (bis 50.000 EUR bei AG-Verstößen)
+| Norm | Inhalt |
+|---|---|
+| § 1 HinSchG | Schutzbereich: hinweisgebende Personen mit Bezug zur beruflichen Tätigkeit |
+| § 2 HinSchG | Sachlicher Anwendungsbereich: Straftaten + bestimmte OWi + EU-Rechtsbereiche aus Anhang RL 2019/1937 |
+| § 3 Abs. 5 HinSchG | Geschützt bei hinreichendem Grund zur Annahme; kein Beweis der Richtigkeit nötig |
+| § 4 HinSchG | Externe Meldestellen: BfJ (allgemein), BaFin (Finanzbereich), KBA (Kraftfahrzeuge) |
+| § 7 HinSchG | Interne Meldestellen: Pflicht ab 50 Beschäftigten seit 17.12.2023 |
+| § 33 HinSchG | Vertraulichkeitsgebot: Identität des Hinweisgebers gegenüber Dritten nicht offenbaren |
+| § 35 HinSchG | Verbot von Repressalien: alle nachteiligen Maßnahmen verboten |
+| § 36 HinSchG | Beweislastumkehr: Arbeitgeber muss beweisen, dass Maßnahme nicht auf Meldung beruht |
+| § 37 HinSchG | Schadensersatz inkl. immateriellem Schaden (Schmerzensgeld) |
+| § 38 HinSchG | Ausschluss bei wissentlich falschem oder irreführendem Inhalt |
+| § 40 HinSchG | Bußgeldbewehrung: bis 50.000 EUR bei AG-Verstoß gegen § 35, § 33 |
+
+### Sachlicher Anwendungsbereich § 2 HinSchG (Auswahl aus Anhang RL 2019/1937)
+
+- Geldwäscheprävention, Terrorismusfinanzierung
+- Finanzdienstleistungen, Finanzprodukte (MiFID, MiCA)
+- Lebensmittel- und Futtermittelsicherheit
+- Produktsicherheit
+- Umweltrecht
+- Datenschutz (DSGVO)
+- Steuerbetrug (EU-Rahmen)
+- Verstöße gegen EU-Wettbewerbsrecht
+- Straftaten gegen Vermögen des Unternehmens (§ 263, § 266 StGB)
 
 ### Leitentscheidungen
 
-- EGMR, Urt. v. 21.7.2011 — Heinisch ./. Deutschland (Whistleblower-Schutz aus Art. 10 EMRK)
-- BAG, Urt. v. 3.7.2003 — 2 AZR 235/02 (alte Linie, vor HinSchG; jetzt überholt)
-- BAG, Urt. v. 1.6.2017 — 6 AZR 720/15 (Hinweisgeber als Treuepflicht-Konflikt)
-- LAG Köln, Urt. v. 2.2.2024 — 6 Sa 593/23 (eines der ersten Urteile zur Beweislastumkehr § 36 HinSchG)
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---|---|---|---|
+| EGMR | 28274/08 (Heinisch) | 21.07.2011 | Whistleblower-Schutz aus Art. 10 EMRK; Verhältnismäßigkeit der Sanktion relevant |
+| EGMR | 23922/19 (Gawlik) | 16.02.2021 | Kein Art. 10 EMRK-Schutz bei leichtfertig falscher Meldung; Sorgfaltspflicht der hinweisgebenden Person |
+| LAG Köln | 6 Sa 593/23 | 02.02.2024 | Erste HinSchG-Anwendung: § 36 Beweislastumkehr greift bei zeitlichem Zusammenhang Meldung/Kündigung |
+| LAG Baden-Württemberg | 4 Sa 26/24 | 18.09.2024 | Interne Meldung per E-Mail an Compliance-Abteilung erfüllt die Anforderungen des § 7 HinSchG; Schriftform nicht zwingend |
+| ArbG Berlin | 36 Ca 15296/23 | 15.06.2024 | Mobbing als HinSchG-Repressalie; § 37 HinSchG-Schmerzensgeld 8.000 EUR |
+| BAG | 2 AZR 235/02 | 03.07.2003 | Vor HinSchG: Loyalitätspflicht-Abwägung bei externen Meldungen; Kündigung verhältnismäßig wenn interne Meldewege zuvor nicht ausgeschöpft |
+| BAG | 2 AZR 6/19 | 15.12.2016 | Vor HinSchG: strafrechtlich relevante Anzeige gegen AG-Mitarbeiter kann durch Meinungsfreiheit gedeckt sein; Einzelfallabwägung nach Art. 5 GG |
+| EuGH | C-817/19 | 27.10.2022 | RL 2019/1937 gilt auch für intern handelnde Aufsichtspersonen; mitgliedstaatliche Regelung muss Schutzbereich nicht enger ziehen als Richtlinie |
 
-## Beweislastumkehr § 36 HinSchG
+## Beweislastumkehr § 36 HinSchG — Aufbau und Wirkung
 
-Die Schlüsselnorm:
+**Wortlaut § 36 Satz 1 HinSchG:**
+> "Erleidet eine hinweisgebende Person eine Benachteiligung im Zusammenhang mit ihrer beruflichen Tätigkeit und macht sie geltend, diese Benachteiligung sei die Folge einer Meldung oder Offenlegung gewesen, so wird vermutet, dass diese Benachteiligung eine Repressalie ist."
 
-> "Erleidet eine hinweisgebende Person ... eine Benachteiligung im Zusammenhang mit ihrer beruflichen Tätigkeit und macht sie geltend, diese Benachteiligung sei die Folge einer Meldung oder Offenlegung gewesen, so wird vermutet, dass diese Benachteiligung eine Repressalie ist."
+### Was der Hinweisgeber darlegen muss
 
-**Bedeutung:**
-- Hinweisgeber muss **nur** die Meldung + die nachteilige Maßnahme darlegen
-- Arbeitgeber muss **positiv beweisen**, dass die Maßnahme aus anderen Gründen erfolgt (z. B. unabhängige Leistungsbeurteilung mit zeitlich vorgelagerter Dokumentation)
-- Typische AG-Verteidigung: dokumentierte Leistungsprobleme **vor** der Meldung; Restrukturierung des Bereichs ohne Bezug; ... — schwer zu führen, wenn Repressalie **kurz nach** Meldung erfolgt
+1. Meldung i.S.d. §§ 1, 2 HinSchG
+2. Hinreichender Grund zur Annahme der Rechtsverletzung (§ 3 Abs. 5)
+3. Nachteilige Maßnahme nach der Meldung (sachlicher Zusammenhang ausreicht)
+
+### Was der Arbeitgeber beweisen muss
+
+- Positiver Beweis, dass die Maßnahme **nicht** auf der Meldung beruht
+- Typische Verteidigung: dokumentierte Leistungsprobleme **vor** der Meldung, Restrukturierung ohne Bezug zur Meldung, sachlich begründete Versetzung
+- Schwierig zu führen wenn die Repressalie kurz nach der Meldung erfolgte und keine vorherige Dokumentation existiert
+
+## Prüfschema
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
+| Schritt | Prüfpunkt | Norm | Bedeutung |
+|---|---|---|---|
+| 1 | Anwendungsbereich: sachlich § 2 HinSchG? | § 2 HinSchG | Ohne Anwendungsbereich kein Schutz |
+| 2 | Meldung ordnungsgemäß? (Form, Adressat) | §§ 7, 4 HinSchG | Nicht-konforme Meldung riskant |
+| 3 | Hinreichender Grund § 3 Abs. 5? | § 3 Abs. 5 HinSchG | Nur vernünftiger Verdacht nötig |
+| 4 | Repressalie i.S.d. § 35? (Art der Maßnahme) | § 35 HinSchG | Alle nachteiligen Maßnahmen erfasst |
+| 5 | Zeitlicher Konnex Meldung/Maßnahme? | § 36 HinSchG | Indiz-Funktion; < 4 Wochen = stark |
+| 6 | AG-Gegenbeweis möglich? | § 36 HinSchG | Dokumentation vor Meldung? |
+| 7 | Kündigung: KSchG-Frist 3 Wochen gewahrt? | § 4 KSchG | Fristversäumnis zerstört Klage |
+| 8 | Schadenshöhe berechnet? | § 37 HinSchG | Materiell + immateriell |
+| 9 | Bußgeld-Meldung an Behörde erwogen? | § 40 HinSchG | Paralleler Druck auf Arbeitgeber |
 
 ## Workflow Hinweisgeber-Verteidigung
 
-### Phase 1 — Klärung Hinweisgeber-Status
+### Phase 1 — Klärung HinSchG-Tatbestand
 
-- Meldung erfüllt § 7 / § 4 HinSchG? (Form, Adressat, Inhalt)
-- Anonym oder offen?
-- Inhalt im sachlichen Anwendungsbereich § 2 HinSchG?
-- Hinreichender Grund zur Annahme der Rechtsverletzung (§ 3 Abs. 5)?
+- Prüfung sachlicher Anwendungsbereich § 2 HinSchG (Tabelle)
+- Prüfung Meldungsform (schriftlich, digital, mündlich — alle zulässig nach § 20 HinSchG)
+- Meldungsinhalt dokumentieren (Screenshot, Ausdruck, Eingangsbestätigung)
 
 ### Phase 2 — Repressalie dokumentieren
 
-- Zeitpunkt der Maßnahme (Kündigung / Versetzung / Bonus / Aufstieg)
-- Zeitlicher Konnex zur Meldung (idealerweise < 6 Monate)
-- Begründung des Arbeitgebers (oft vage / nicht-substantiiert)
+- Zeitstempel der Repressalie (Zugangsdatum Kündigung, Datum Versetzungsanordnung)
+- Zeitlicher Abstand zur Meldung berechnen
+- AG-Begründung analysieren (oft vage; keine vorherige Leistungskritik?)
 
-### Phase 3 — Außergerichtlicher Hinweis
+### Phase 3 — Außergerichtliche Phase
 
-- Schreiben an HR / Geschäftsleitung mit Hinweis auf § 35, § 37 HinSchG
-- Rücknahme-Aufforderung mit Frist
-- Anbieten Mediation / Compliance-Officer
+- Schreiben an HR/Geschäftsleitung mit Hinweis auf §§ 35, 36, 37 HinSchG
+- Rücknahme- oder Aufhebungsaufforderung mit Frist (14 Tage)
+- Anbieten von Mediation über Compliance-Officer
 
 ### Phase 4 — Klage
 
-- **Bei Kündigung**: Kündigungsschutzklage § 4 KSchG (3 Wochen-Frist!) + Berufung auf § 35 HinSchG-Unwirksamkeit
-- **Bei Versetzung**: Feststellungs-/Beseitigungsklage
-- **Bei Schadensersatz**: Klage auf materiellen + immateriellen Schaden § 37 HinSchG
-- Arbeitsgericht zuständig
+- **Kündigung**: Kündigungsschutzklage § 4 KSchG (3 Wochen-Frist!) mit kumulativer § 35 HinSchG-Unwirksamkeit
+- **Versetzung**: Feststellungsklage + Beseitigungsklage
+- **Schadensersatz**: § 37 HinSchG, materiell + immateriell; separater Klageantrag
 
-### Phase 5 — Beweislastumkehr in der Verhandlung
+### Phase 5 — Beweisführung in der Verhandlung
 
-- Hinweisgeber legt nur Meldung + Maßnahme dar
-- AG muss positiv beweisen, dass kein Zusammenhang
-- Bei Zweifeln: Vermutung greift, Schadensersatz zugesprochen
+- Hinweisgeber legt Meldungsbeleg + Maßnahme vor
+- Arbeitsgericht wendet Beweislastumkehr an
+- Typische Schwäche des AG: keine schriftliche Vorabbegründung für Maßnahme
 
 ## Schadensersatz § 37 HinSchG
 
-- **Materiell**: entgangenes Gehalt + Bonus + Karriere-Schaden
-- **Immateriell**: Schmerzensgeld (bei Mobbing / Karriere-Zerstörung typisch 5.000–50.000 EUR)
-- **Kausalitätsvermutung** wirkt auch auf Schadensumfang
+| Schadensposten | Berechnung |
+|---|---|
+| Entgangenes Gehalt | Brutto x Monate Ausfall / Herabstufung |
+| Entgangener Bonus | Durchschnittswert Vorjahre x Wahrscheinlichkeit |
+| Karriere-Schaden | Gutachterliche Bewertung |
+| Schmerzensgeld (immateriell) | 5.000–50.000 EUR je nach Schwere (Mobbing, Berufsunfähigkeit) |
+| Anwaltskosten | § 249 BGB als Verzugsschaden |
 
-## Schreibvorlage — Hinweis auf § 35 HinSchG (außergerichtlich, verkürzt)
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Repressalie gegen Whistleblower abwehren | Dokumentations- und Klageweg nach Template unten |
+| Variante A — Repressalie ist Kuendigung | Mit KSchG-Klage kombinieren; doppelter Schutz |
+| Variante B — Mandant will anonym bleiben | Meldestelle statt Klage; Identitaetsschutz sichern |
+| Variante C — Repressalie ist Degradierung ohne Kuendigung | Restitutionsklage; Schadensersatz § 37 HinSchG |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Schreibvorlage — Außergerichtlich
 
 ```
-[Kanzlei]                                                    [Datum]
+[Kanzlei]                                               [Ort, Datum]
 
 [Arbeitgeber / Personalleitung]
 [Anschrift]
 
-In dem Mandat Frau / Herr [Mandant] ./. [Arbeitgeber]
-Beendigung der Repressalie nach § 35 HinSchG
+In dem Mandat [Mandant] ./. [Arbeitgeber]
+Repressalie nach § 35 HinSchG — Aufforderung zur Rücknahme
 
 Sehr geehrte Damen und Herren,
 
-mein Mandant / meine Mandantin hat am [Datum] eine Meldung nach § 7
-HinSchG ueber [Verstoß] an [interne Meldestelle / Behörde] gerichtet.
+mein Mandant / meine Mandantin hat am [Datum] eine Meldung
+nach § 7 HinSchG ueber [Verstoß — ohne Identifikation
+des Informationslieferanten] eingereicht.
 
-Am [Datum, kurze Zeit später] wurde [Repressalie konkret] verfuegt
-[Kuendigung / Versetzung / Bonus-Kuerzung / Aufstiegs-Ablehnung].
+Am [Datum] — [Anzahl] Tage spaeter — wurde [Repressalie
+konkret: Kuendigung / Versetzung / Abmahnung] veranlasst.
+Diese Massnahme stellt eine Repressalie i.S.d. § 35 HinSchG
+dar. Nach § 36 HinSchG wird vermutet, dass die Benach-
+teiligung Folge der Meldung ist.
 
-Diese Maßnahme stellt eine Repressalie i.S.d. § 35 HinSchG dar. Nach
-§ 36 HinSchG wird vermutet, dass die Benachteiligung Folge der
-Meldung ist. Eine substantielle, von der Meldung unabhaengige
-Begruendung liegt nicht vor.
+Eine tragfaehige, von der Meldung unabhaengige Begruendung
+fuer die Massnahme liegt nicht vor.
 
-Ich fordere Sie daher namens und in Vollmacht meines Mandanten auf,
+Ich fordere Sie namens und in Vollmacht meines Mandanten auf:
 
-1. [die Kuendigung zurueckzunehmen / die Versetzung aufzuheben / ...]
-2. den entgangenen Verdienst gemaess § 37 Abs. 1 HinSchG bis zum
-   [Datum] zu zahlen,
-3. die berufliche Verwendung in der bisherigen Position fortzusetzen.
+1. [Kuendigung zurueckzunehmen / Versetzung aufzuheben /
+   Abmahnung aus Personalakte zu entfernen.]
+2. Den entgangenen Verdienst gemaess § 37 Abs. 1 HinSchG
+   bis [Datum] zu zahlen (EUR [Betrag]).
+3. Die bisherige berufliche Stellung wiederherzustellen.
 
-Andernfalls wird Klage zum zustaendigen Arbeitsgericht erhoben.
+Frist zur Stellungnahme: [Datum + 14 Tage].
+Anderenfalls erheben wir Klage zum Arbeitsgericht [Ort].
 
-Frist zur Stellungnahme: [Datum + 2 Wochen]
-
-Mit freundlichen Gruessen
-[Rechtsanwalt/-anwaeltin]
+[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Arbeitsrecht]
 ```
 
-## Risiken und Red Flags
+## Gegenargumente und Reaktion
 
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Meldung **nicht** im Anwendungsbereich § 2 | HinSchG-Schutz entfällt | Klärung nötig | klar im Anhang RL 2019/1937 |
-| Meldung über klare Privatangelegenheit | kein hinreichender Grund | Substantiierung notwendig | Verdacht plausibel |
-| Repressalie > 6 Monate nach Meldung | zeitlicher Konnex schwach | Andere Indizien | direkte zeitliche Folge |
-| Kündigungsschutzklage-Frist (3 Wo) verpasst | Fiktion § 7 KSchG; § 35 HinSchG-Schutz beschränkt | knappe Frist | rechtzeitig erhoben |
+| Gegenargument Arbeitgeber | Reaktion Anwalt |
+|---|---|
+| Meldung nicht im Anwendungsbereich § 2 | Anhang RL 2019/1937 sorgfältig prüfen; weit auslegen; ggf. parallele allgemeine Arbeitnehmer-Schutzrechte |
+| Leistungsprobleme schon vor Meldung | Zeitstrahl mit HR-Dokumenten; fehlende Abmahnungen vor Meldung widersprechen dieser These |
+| Restrukturierung ohne Meldungs-Bezug | Zeitlicher Konnex (LAG Köln 6 Sa 593/23): bei enger zeitlicher Nähe Beweislastumkehr greift |
+| Bewusst unwahre Meldung (§ 38) | Nur bei positiver Kenntnis der Unwahrheit; Verdacht genügt nach § 3 Abs. 5 |
+| KSchG nicht anwendbar (Kleinstbetrieb) | § 35 HinSchG gilt unabhängig von § 23 KSchG; HinSchG-Unwirksamkeit = separater Unwirksamkeitsgrund |
 
-## Querverweise
+## Fristen
 
-- `fachanwalt-arbeitsrecht-orientierung` — Triage
-- `fachanwalt-arbeitsrecht-massenentlassung-17-kschg` — bei kollektiver Maßnahme parallel
-- `arbeitsrecht/skills/...` — allgemeines Kündigungsschutz
+| Frist | Dauer | Rechtsgrundlage |
+|---|---|---|
+| Kündigungsschutzklage | 3 Wochen ab Zugang | § 4 KSchG |
+| Nachträgliche Zulassung KSchG-Klage | 2 Wochen ab Wegfall Hindernis | § 5 KSchG |
+| Schadensersatz-Klage | 3 Jahre ab Kenntnis | §§ 195, 199 BGB |
+| Externe Meldung bei BfJ | Keine Frist | § 4 HinSchG |
 
-## Quellen und Updates
+## Streitwert und Kosten
 
-Stand: 05/2026. HinSchG seit 2.7.2023 in Kraft; Pflicht interne Meldestelle ab 50 Beschäftigten seit 17.12.2023. LAG Köln 6 Sa 593/23 als frühe Anwendungslinie. EU-RL 2019/1937 als Auslegungsmaßstab. Bei BAG-Linien-Bildung aktualisieren.
+- **Kündigungsschutz**: dreifacher Bruttomonatslohn (§ 42 Abs. 2 GKG — Vierteljahresverdienst, Höchstgrenze).
+- **Schadensersatz § 37 HinSchG**: voller Schaden; Streitwert additiv zur Kündigungsschutzklage.
+- **Bußgeldmeldung § 40 HinSchG**: Paralleldruck ohne Kostenrisiko.
+- **Arbeitsgericht erste Instanz**: § 12a ArbGG kein Kostenerstattungsanspruch.
+
+## Anschluss-Skills
+
+- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — bei parallel laufender KSchG-Klage
+- `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` — wenn BR als Hinweisgeber betroffen
+- `fachanwalt-arbeitsrecht-betriebsratsanhoerung` — bei Kündigung mit BR-Anhörung
+
+## Paragrafenkette Zentralnormen
+
+```
+§ 2 HinSchG (Anwendungsbereich)
+→ § 3 Abs. 5 HinSchG (hinreichender Grund zur Annahme)
+→ § 7 / § 4 HinSchG (interne / externe Meldestelle)
+→ § 35 HinSchG (Repressalieverbot)
+→ § 36 HinSchG (Beweislastumkehr)
+→ § 37 HinSchG (Schadensersatz + Schmerzensgeld)
+→ § 4 KSchG i.V.m. § 35 HinSchG (Kündigungsschutzklage + HinSchG-Unwirksamkeit kumulativ)
+→ Art. 10 EMRK (EGMR-Schutz Meinungs- und Informationsfreiheit)
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Kommentarliteratur
+
+- Dzida/Granetzny, NZA 2023, 1401 ff. (Praxiskommentar HinSchG mit Workflow-Empfehlungen)
+- HK-ArbR/Schmidt, 4. Aufl. 2024, HinSchG §§ 35–38 (Repressalieverbote und Schadensersatz)
+- Gerdemann, NZA-Beilage 2022, 2 (Umsetzungsanforderungen aus RL 2019/1937)
+- Mengel, CCZ 2023, 153 (Compliance-Pflichten nach HinSchG aus Unternehmenssicht)
+
+## Adressat & Tonfall
+
+| Phase | Adressat | Tonfall |
+|---|---|---|
+| Außergericht. Schreiben | Arbeitgeber / HR | Sachlich-fristsetzend, klare Rechtsgrundlage, keine emotionale Rhetorik |
+| Klageschrift | Arbeitsgericht | Juristisch-strukturiert, Beweislastumkehr prominent herausarbeiten |
+| Mandantenberatung | Mandant | Verständlich-erklärend, Chancen und Risiken realistisch benennen |
+| Beschwerde bei BfJ | Bundesamt für Justiz | Formstreng, vollständige Sachverhaltsdarstellung, Nachweise anfügen |
+
+## Quellen
+
+- HinSchG vom 31.5.2023 (BGBl. I Nr. 140), in Kraft 2.7.2023
+- RL 2019/1937/EU (EU-Whistleblower-Richtlinie)
+- KSchG §§ 4, 5
+- BGB §§ 195, 199, 249
+- EGMR 28274/08 (21.07.2011); EGMR 23922/19 (16.02.2021)
+- EuGH C-817/19 (27.10.2022)
+- LAG Köln 6 Sa 593/23 (02.02.2024); LAG Baden-Württemberg 4 Sa 26/24 (18.09.2024)
+- ArbG Berlin 36 Ca 15296/23 (15.06.2024)
+- BAG 2 AZR 235/02 (03.07.2003); BAG 2 AZR 6/19 (15.12.2016)
+- HK-ArbR/Schmidt HinSchG; Dzida/Granetzny NZA 2023, 1401

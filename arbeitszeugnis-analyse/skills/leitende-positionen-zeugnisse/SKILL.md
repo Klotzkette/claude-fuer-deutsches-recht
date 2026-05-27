@@ -39,3 +39,13 @@ Für Mitglieder der Geschäftsführung oder des Vorstands sind zusätzliche Baus
 ## Ausgabeformat
 
 Der Skill prüft zunächst, ob es sich um ein Führungskräfte-Zeugnis handelt (anhand der beschriebenen Position). Dann gibt er die Führungskräfte-Checkliste aus (Baustein / vorhanden / Ampel) und integriert die Ergebnisse in die allgemeine Ampeltabelle. Fehlende Führungsbausteine erhalten besonderes Gewicht in der Gesamtnotenberechnung.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
+- **§§ 195, 199 BGB** — Verjährung drei Jahre ab Jahresende
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei Notenstufen: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.

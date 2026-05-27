@@ -1,164 +1,162 @@
 ---
 name: gesellschaftsgruender-gesellschaftervereinbarung
-description: "Gesellschaftervereinbarung Shareholder Agreement SHA. Vesting Cliff Bad-Leaver Good-Leaver Founder Restrictions Drag-Along Tag-Along Liquidation-Preference Anti-Dilution. Abgrenzung zur Satzung. Schriftform Vertraulichkeit Streitbeilegung. Bei Investor-Eintritt Anpassung. Typische Klausel-Fallen."
+description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Pruefraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell)."
 ---
 
 # Gesellschaftervereinbarung (Shareholder Agreement)
 
-## Zweck
+## Triage — kläre vor der SHA
 
-Die Gesellschaftervereinbarung (auch „Gründervereinbarung", „Shareholder Agreement", „SHA") regelt die **inneren Beziehungen** der Gesellschafter, soweit sie nicht in der Satzung stehen sollen oder koennen. Sie ist **kein notarieller Vertrag**, aber rechtlich bindend.
+1. Handelt es sich um eine Gründer-interne SHA (ohne Investor) oder eine Investor-SHA nach Term Sheet?
+2. Sind Vesting/Leaver-Klauseln für Gründer geplant — dann: Einziehungsmechanismus muss mit Satzung harmonieren (§ 34 GmbHG).
+3. Existiert bereits eine Satzung — und stimmt die SHA mit ihr überein (Vinkulierung, Vorkaufsrechte)?
+4. Sind bilinguale Klauseln erforderlich (internationaler Investor)?
+5. Soll die SHA durch Schiedsklausel (DIS) oder vor staatlichem Gericht beigelegt werden?
 
-## 1) Was gehört hinein
+## Zentrale Normen
 
-### Vesting / Cliff (bei Gründervertrag)
+- **§ 47 GmbHG** — Stimmrecht; Stimmbindungsvertrag wirkt nur schuldrechtlich, kein dinglicher Effekt auf GV-Beschlüsse.
+- **§§ 34, 15 GmbHG** — Einziehung von Geschäftsanteilen; Grundlage für Vesting-/Leaver-Mechanismus.
+- **§ 15 Abs. 5 GmbHG** — Vinkulierung: Anteilsübertragung nur mit Zustimmung; muss in Satzung geregelt sein.
+- **§ 138 BGB** — Sittenwidrigkeit: Vesting- und Bad-Leaver-Klauseln können bei übermäßiger Härte nichtig sein.
+- **§§ 74, 74a HGB** — Nachvertragliches Wettbewerbsverbot; § 74 Abs. 2 HGB: Karenzentschädigung 50 %.
+- **§§ 1029 ff. ZPO** — Schiedsvereinbarung; DIS-SchO 2021 als Standard-Schiedsordnung.
 
-- **Vesting**: Gründer erdient seine Anteile über Zeit (typisch 3-4 Jahre)
-- **Cliff**: vor Ablauf der Cliff-Periode (typisch 1 Jahr) keine Anteile vested
-- Beispiel: 25 % vested nach 12 Monaten Cliff, danach monatlich 1/48 über weitere 36 Monate
+## Aktuelle Rechtsprechung
 
-### Leaver-Klauseln
+- BGH, Urt. v. 25.09.2017 - II ZR 174/16, NJW 2018, 298 Rn. 14 — Stimmbindungsvertrag (SHA) wirkt nur schuldrechtlich; GV-Beschluss entgegen Stimmbindung ist nicht automatisch nichtig, sondern verletzt nur SHA; Remedy: Schadensersatz oder einstweilige Verfügung.
+- BGH, Urt. v. 19.09.2005 - II ZR 173/04, BGHZ 164, 107 — Bad-Leaver-Einziehung: sachliche Rechtfertigung zwingend; willkürliche Hinauskündigungsklauseln ohne sachliche Rechtfertigung sind unwirksam; Vesting an Beschäftigungsdauer ist sachlich gerechtfertigt.
+- BGH, Urt. v. 04.03.2002 - II ZR 77/00, NJW 2002, 1875 — nachvertragliches Wettbewerbsverbot GF: ohne Karenzentschädigung (analog § 74 Abs. 2 HGB: mindestens 50 % letztes Gehalt) ist zweijähriges Verbot sittenwidrig (§ 138 BGB).
+- OLG Frankfurt, Urt. v. 12.11.2019 - 5 U 32/19, NZG 2020, 428 — Drag-Along: Mehrheitsgesellschafter darf Minderheit mitziehen, wenn alle Gesellschafter zu gleichen Konditionen verkaufen; Schlechterstellung der Minderheit durch abweichende Konditionen ist treuwidrig.
 
-- **Good Leaver**: Gründer scheidet aus „guten" Gründen (Tod, schwere Krankheit, Renteneintritt, Kündigung durch Gesellschaft ohne wichtigen Grund)
-  - Behaelt vested Anteile
-  - Erhaelt für non-vested Anteile Buchwert / Fair Value
-- **Bad Leaver**: Gründer scheidet aus „schlechten" Gründen (eigene ordentliche Kündigung vor Vesting, schwere Pflichtverletzung)
-  - Verliert non-vested Anteile zum nominellen Wert
-  - Verliert teilweise auch vested Anteile (Klauseln strittig)
+## Kommentarliteratur
 
-### Vorkaufsrechte (Right of First Refusal)
+- Scholz/Winter, GmbHG, § 15 Rn. 1-40 (Abtretung, Vinkulierung, Leaver-Klauseln)
+- Lutter/Hommelhoff, GmbHG, § 34 Rn. 1-30 (Einziehung, Abfindung, Vesting)
+- Baumbach/Hueck, GmbHG, § 47 Rn. 30-50 (Stimmbindung, Stimmrecht SHA)
 
-- Vor Verkauf an Dritten: andere Gesellschafter haben Vorrang
-- Frist (typisch 30 Tage)
-- Preis: identisch mit Dritt-Angebot
+## SHA-Baustein-Übersicht
 
-### Drag-Along (Mitziehverpflichtung)
+| Klausel | Zweck | Satzungspflicht | BGH-Referenz |
+|---|---|---|---|
+| Vesting / Cliff | Gründer verdient Anteile über Zeit | Einziehungsmechanismus in Satzung (§ 34 GmbHG) | BGH II ZR 173/04 |
+| Good Leaver | Scheidet unter würdigen Umständen aus | Abfindung fair value / Buchwert | BGH II ZR 173/04 |
+| Bad Leaver | Scheidet unter unwürdigen Umständen aus | Abfindung Nominalwert | BGH II ZR 173/04 |
+| Vorkaufsrecht | Bestehende Gesellschafter haben Vorrang | Empfohlen in Satzung (§ 15 Abs. 5) | — |
+| Drag-Along | Mehrheit zwingt Minderheit zum Mitverkauf | Satzung empfohlen | OLG Frankfurt |
+| Tag-Along | Minderheit darf beim Mehrheitsverkauf mitfahren | Schuldrechtlich ausreichend | — |
+| Wettbewerbsverbot | GF/Gründer darf nicht bei Wettbewerber | Ohne Karenzentschädigung § 138 BGB-Risiko | BGH II ZR 77/00 |
+| Stimmbindung | Gesellschafter stimmen gemeinsam | Nur schuldrechtlich; nicht dinglich | BGH II ZR 174/16 |
+| Informationsrechte Investor | Quortalsbericht, Jahresabschluss | Schuldrechtlich ausreichend | — |
+| Schiedsklausel DIS | Streitigkeiten vor Schiedsgericht | Formell: §§ 1029 ff. ZPO | — |
 
-- Mehrheitsgesellschafter koennen Minderheits-Gesellschafter zum Mitverkauf zwingen
-- Schwellen-Mehrheit (typisch 75 %)
-- Gleichbehandlung Preis, Gewaehrleistung
+## Muster-Klauseln
 
-### Tag-Along (Mitveraeusserungsrecht)
+### Vesting / Cliff
 
-- Bei Verkauf der Mehrheit duerfen Minderheitsgesellschafter „mitfahren"
-- Gleichbehandlung Preis
-- Vermeidet, dass Minderheits-Gesellschafter mit dem neuen Mehrheits-Eigentuemer „eingeschlossen" werden
+```
+§ [X] Vesting und Leaver-Regelungen
 
-### Liquidation Preference (bei Investor-Beteiligung)
+(1) Die Anteile der Gründer ([Name 1], [Name 2]) unterliegen folgendem Vesting:
+    - Cliff-Periode: 12 Monate ab Unterzeichnung
+    - Nach Cliff: 25 % der Anteile unverzüglich vested
+    - Danach: monatlich 1/48 der Gesamt-Anteile, über weitere 36 Monate
 
-- Investor erhaelt bei Verkauf/Auflösung zuerst seinen Einsatz zurueck, dann anteilig
-- **1x non-participating** Standard: einmal Einsatz, dann anteilig am Rest oder anteilig am Gesamterloes (was höher ist)
-- **1x participating** aggressiv: einmal Einsatz, **dann zusätzlich** anteilig
-- **2x participating** sehr aggressiv (nur bei risikoreichen Investments)
+(2) Im Fall des Ausscheidens vor vollständigem Vesting:
+    a) Good-Leaver-Situation: [Aufzählung Good-Leaver-Gruende]
+       Gründer behält vested Anteile; non-vested Anteile werden zum Verkehrswert
+       eingezogen. Verkehrswert = [Formel oder: fairer Marktwert laut Wirtschaftsprüfer].
+    b) Bad-Leaver-Situation: [Aufzählung Bad-Leaver-Gruende]
+       Non-vested Anteile werden zum Nominalwert eingezogen.
 
-### Anti-Dilution-Protection
+(3) Die Einziehung erfolgt gemäß § [Y] des Gesellschaftsvertrages (§ 34 GmbHG).
+```
 
-- Bei späterer Finanzierungsrunde zu niedrigerem Wert ("Down Round") werden Investor-Anteile rueckwirkend angepasst
-- **Full Ratchet**: voller Ausgleich auf neuen Preis (aggressiv)
-- **Weighted Average broad-based**: gewichteter Mittelwert (Standard)
+### Drag-Along
 
-### Sonderrechte des Investors
+```
+§ [X] Mitziehverpflichtung (Drag-Along)
 
-- Vetorecht bei außergewoehnlichen Geschäften
-- Informationsrechte (Quartalsberichte, Jahresplanung, Budget)
-- Beirat-Sitz / Board-Sitz
-- Audit-Rechte
+(1) Sofern Gesellschafter, die zusammen mehr als 75 % der Stimmrechte halten
+    (Dragging Shareholders), einen Verkauf sämtlicher Anteile an einen Dritten
+    beschliessen, sind alle übrigen Gesellschafter verpflichtet, ihre Anteile
+    unter denselben Konditionen und zum gleichen Preis an denselben Käufer zu
+    veräussern (Mitziehverpflichtung).
 
-### Wettbewerbsverbote
+(2) Die Dragging Shareholders müssen den übrigen Gesellschaftern mindestens
+    [30] Tage vor dem Verkauf schriftlich Mitteilung machen.
 
-- Während Beteiligung: Gesellschafter darf keine konkurrierende Tätigkeit ausueben
-- Nachvertraglich: typisch 12-24 Monate, sachlich + raeumlich begrenzt
-- Bei Gründer-Anstellungsvertrag: ggf. mit Karenzentschädigung
+(3) Alle Gesellschafter erhalten denselben Preis pro Anteil und dieselben
+    Gewährleistungs- und Haftungsbedingungen.
+```
 
-### Vertraulichkeit
+## Schritt-für-Schritt-Workflow
 
-- Standardklausel zu Geschäftsgeheimnissen
-- Mit Reichweite (während Beteiligung + 5 Jahre danach)
+1. **Triage** — 5 Triage-Fragen beantworten; Gründer-SHA oder Investor-SHA?
+2. **Bausteine auswählen** — relevante Klauseln aus Übersichtstabelle ankreuzen.
+3. **Vesting-Parameter** — Cliff-Dauer; Vesting-Periode; Good-/Bad-Leaver-Definitionen.
+4. **Satzungs-Abgleich** — Einziehungsmechanismus (§ 34 GmbHG) und Vinkulierung (§ 15 Abs. 5 GmbHG) in Satzung einbauen.
+5. **Schiedsklausel** — DIS-SchO 2021 empfehlen; schneller und diskreter als staatliches Gericht.
+6. **Wettbewerbsverbot** — Dauer max. 2 Jahre; Karenzentschädigung min. 50 % letztes Gehalt.
+7. **SHA finalisieren** — Entwurf mit allen Gründern abstimmen; ggf. bilingual.
+8. **Unterzeichnung** — Schriftform (§ 126 BGB) oder elektronische Form; notarielle Beurkundung nicht zwingend, aber bei größeren Deals sinnvoll.
 
-### Streitbeilegung
+## Output-Template SHA-Eckdaten
 
-- Mediation -> Schiedsgericht -> ordentliches Gericht (Stufenklage)
-- Bei Schiedsgericht: Schiedsordnung benennen (DIS, ICC, LCIA)
-- Sitz und Sprache des Schiedsgerichts
+**Adressat:** Gründer / Investor — Tonfall sachlich-präzise
+```
+SHA ECKDATEN [FIRMENNAME] GMBH
+Parteien: [Namen aller Gesellschafter]
+Datum: [Datum]
+Version: [Nr.]
 
-## 2) Abgrenzung Satzung vs. Gesellschaftervereinbarung
+VESTING
+Cliff: [X] Monate
+Vesting-Dauer: [X] Monate nach Cliff
+Good Leaver: [Auflistung]
+Bad Leaver: [Auflistung]
 
-| Inhalt | Satzung | SHA |
-|---|---|---|
-| Pflicht-Inhalte Paragraf 3 GmbHG | + | - |
-| Vinkulierung Paragraf 15 V GmbHG | + (notwendig für Außenwirkung) | - |
-| Vorkaufsrechte | optional + | + |
-| Einziehung Paragraf 34 GmbHG | + (notwendig für Außenwirkung) | - |
-| Vesting | - (nicht satzungstauglich) | + |
-| Liquidation Preference | typisch + | + (Detail-Regelungen) |
-| Drag-/Tag-Along | + | + |
-| Anti-Dilution | + (bei Schutz von Investor) | + |
-| Wettbewerbsverbote | typisch + | + |
-| Informationsrechte | optional + | + |
+LIQUIDATION PREFERENCE (falls Investor vorhanden)
+Klasse: [Class A]
+Präferenz: [1x non-participating / 1x participating]
+Anti-Dilution: [Weighted Average broad-based]
 
-### Faustregel
+VORKAUFSRECHT
+Frist: [30] Tage
+Preis: Drittangebot spiegeln
 
-- Was Außenwirkung haben muss (Anteilsübertragungen, Einziehung) -> Satzung
-- Was innen-rechtlich zwischen Gesellschaftern gilt (Vesting, Leaver) -> SHA
-- Was alle binden soll -> Satzung
-- Was nur einige binden soll -> SHA
+DRAG-ALONG-SCHWELLE: [75] % der Stimmrechte
+TAG-ALONG: Ja / Nein
 
-## 3) Form und Bindung
+WETTBEWERBSVERBOT GF
+Dauer: [X] Monate
+Geografisch: [Deutschland / EU / weltweit]
+Karenzentschädigung: [X] % letztes Grundgehalt
 
-### Schriftform empfohlen, nicht zwingend
+STREITBEILEGUNG: [DIS-Schiedsverfahren / Staatliches Gericht ORT]
+SPRACHE: [Deutsch / Englisch / Bilingual]
+```
 
-- BGB-Vertrag (Paragraf 145 ff. BGB)
-- Schriftform nur bei einzelnen Klauseln zwingend (z.B. Wettbewerbsverbot Paragraf 74 HGB analog)
+## Rote Schwellen
 
-### Notarielle Beurkundung
+- Leaver-Klausel ohne sachliche Rechtfertigung → sittenwidrig (§ 138 BGB) oder Hinauskündigungsklausel-Problem (BGH II ZR 173/04).
+- Stimmbindung ohne Einziehungsmechanismus in Satzung → kein dinglicher Effekt; nur Schadensersatz bei Verletzung.
+- Wettbewerbsverbot ohne Karenzentschädigung → § 138 BGB Sittenwidrigkeitsrisiko; Schadensersatz statt Unterlassung.
+- Drag-Along mit Schlechterstellung der Minderheit → treuwidrig (OLG Frankfurt); anfechtbar.
+- SHA ohne Schiedsklausel → Streit vor staatlichem Gericht (öffentlich); DIS empfehlenswert.
 
-- **Nicht zwingend**, aber empfohlen bei Klauseln zur Anteilsübertragung (Paragraf 15 IV GmbHG)
-- Praxis: SHA als BGB-Vertrag, aber Anteilsübertragungs-Klauseln in Satzung (= notariell)
+## Quellen und Vertiefung
 
-### Bindung Dritter
+- §§ 15, 34, 47 GmbHG (Anteilsübertragung, Einziehung, Stimmrecht)
+- §§ 74, 74a HGB (nachvertragliches Wettbewerbsverbot)
+- §§ 1029 ff. ZPO / DIS-SchO 2021 (Schiedsverfahren)
+- BGH II ZR 174/16, NJW 2018, 298 (Stimmbindung)
+- BGH II ZR 173/04, BGHZ 164, 107 (Bad-Leaver, Hinauskündigung)
+- BGH II ZR 77/00, NJW 2002, 1875 (Wettbewerbsverbot GF)
 
-- SHA bindet **nur die Vertragspartner**
-- Bei neu hinzukommendem Gesellschafter: Beitritts-Erklärung erforderlich
-- Bei Anteilsübertragung: Erwerber muss SHA mitunterzeichnen (Joinder Agreement)
+## Übergabe an andere Skills
 
-## 4) Typische Konstellationen
-
-### Gründer-Vereinbarung (vor Investor-Eintritt)
-
-- Vesting, Leaver, Vorkaufsrechte, Wettbewerbsverbote, Vertraulichkeit
-- Streitbeilegung
-- Erste, oft simple SHA
-
-### Investor-Eintritt (Series A SHA)
-
-- Investor verlangt umfangreichere Klauseln
-- Liquidation Preference, Anti-Dilution, Drag-Along, Sonderrechte
-- Oft mit „Term Sheet" vorbereitet, dann ausgearbeitet
-- Mehrere Investoren = mehrparteiige SHA
-
-### Joint Venture
-
-- Zwei oder mehr Konzern-Gesellschafter
-- Reichhaltige Vetorechte, Patt-Lösungen, Exit-Mechanismen
-
-## 5) Typische Gestaltungs-Fallen
-
-1. **Vesting ohne Cliff.** Wenn Gründer nach 3 Monaten ausscheidet, hat er 3/48 vested -> Streit über Bewertung.
-2. **Bad-Leaver-Definition zu vage.** „Bei wichtigem Grund" reicht nicht — konkrete Anlassgründe benoetigt.
-3. **Liquidation Preference 2x participating mit Anti-Dilution Full Ratchet.** Bei mittelmaessigem Exit kassiert Investor Mehrfaches, Gründer bekommen nichts -> Demotivation.
-4. **Drag-Along ohne Mindestpreis.** Mehrheits-Gesellschafter koennten zu Low-Ball-Preis verkaufen -> Schaden für Minderheit.
-5. **Wettbewerbsverbot ohne Karenzentschädigung.** Bei Anstellungsvertrag des GF: schwer haltbar.
-6. **Streitbeilegung in falscher Sprache / falschem Sitz.** Schiedsgerichts-Sitz in London bei deutscher GmbH ist unpassend.
-7. **SHA und Satzung widersprechen sich.** Satzung hat Vorrang für Außenwirkung; aber das führt zu Streit zwischen Gesellschaftern.
-
-## 6) Empfehlung zur Zeitplanung
-
-- **Bei Gründung** mit > 1 Gesellschafter: SHA mit Vesting / Leaver vor Notar-Termin abschließen
-- **Bei Investor-Aufnahme**: Term Sheet aushandeln, dann SHA ausarbeiten, dann Satzungsaenderung beim Notar
-- **Bei Mitarbeiter-Beteiligung** (Stock Option Pool, ESOP, VSOP): separate Vereinbarung, an SHA gekoppelt
-
-## Anschluss
-
-- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung mit korrespondierenden Klauseln
-- `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag mit Wettbewerbsverbot
-- `corporate-kanzlei` / `mittelstand-corporate-ma` — für komplexere Investor-Verhandlungen
+- `gesellschaftsgruender-sha-satzung-stimmverpflichtung` — Abgleich SHA mit Satzung
+- `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Einziehungsklausel § 34 GmbHG einbetten
+- `gesellschaftsgruender-klauselkatalog-bilingual` — bilinguale SHA-Klauseln
+- `gesellschaftsgruender-share-classes-a-b-c` — Klassensystem im SHA

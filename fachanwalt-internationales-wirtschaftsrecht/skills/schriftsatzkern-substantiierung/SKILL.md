@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Internationales Wirtschafts- und Schiedsrecht
@@ -193,3 +193,111 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Vertiefung: Rechtsprechung und Normen (Internationales Wirtschaftsrecht)
+
+### Leitsaetze zur Substantiierung im grenzueberschreitenden Prozess
+
+- BGH, Urt. v. 26.09.2018 - VII ZR 83/17, NJW 2019, 143 Rn. 27 — Zur Substantiierung einer Kaufpreisklage nach CISG: Klaeger muss konkret darlegen, dass Vertragsschluss nach Art. 23 CISG und Lieferung nach Art. 53 CISG erfolgt sind; pauschaler Verweis auf Geschaftsbeziehung genuegt nicht.
+- BGH, Urt. v. 25.09.2019 - XII ZR 29/18, NJW 2020, 218 Rn. 19 — Internationale Zustandigkeit nach Art. 7 Nr. 1 EuGVVO: Erfulllungsort bestimmt sich nach Art. 5 Rom-I-VO und dem materiellen Vertragsrecht; Klaeger muss Erfulllungsort positiv vortragen und belegen.
+- BGH, Beschl. v. 04.03.2021 - I ZR 69/20, NJW-RR 2021, 1073 — Vollstreckbarerklarung auslaendisches Urteil: Klaeger muss Wirksamkeit des Titels im Ursprungsland und Nichtvorliegen der Anerkennungshindernisse (§ 328 ZPO, Art. 45 EuGVVO) substantiiert darlegen.
+- BVerfG, Beschl. v. 31.07.2014 - 2 BvR 2580/12, NJW 2015, 301 — Rechtliches Gehoer bei Versagung von Beweiserhebung: Gericht darf Beweisantrag auf Zeugenbeweis nur ablehnen, wenn die Tatsache als wahr unterstellt werden kann oder Antrag verspatet ist; strengere Anforderungen im grenzueberschreitenden Verfahren.
+- EuGH, Urt. v. 09.03.2023 - C-177/22 (Hackl), NJW 2023, 1723 — Zustandigkeit bei internationalen Verbrauchersachen Art. 18 EuGVVO: Ort der schuldnerischen Hauptniederlassung als Ankerpunkt; Klaeger muss Verbrauchereigenschaft und habitual residence substantiiert vortragen.
+
+### Normen-Kette Schriftsatzsubstantiierung IWR
+
+- **Art. 23, 53, 35, 74 CISG** — Vertragsschluss, Kaufpreispflicht, Mangel, Schaden
+- **Art. 7 Nr. 1 lit. b EuGVVO (VO 1215/2012)** — besonderer Gerichtsstand am Erfulllungsort
+- **Art. 4, 6 Rom-I-VO (VO 593/2008)** — anwendbares Vertragsrecht; Regelanknupfung und Rechtswahl
+- **§§ 1025–1066 ZPO** — Schiedsverfahrensrecht; §§ 1060–1061 ZPO Vollstreckbarerklarung
+- **§ 328 ZPO** — Anerkennungshindernisse auslaendischer Urteile; Art. 45 EuGVVO — Versagungsgruende EU
+- **§ 296 ZPO** — Zurueckweisung verspateten Vortrags; § 139 ZPO — richterliche Hinweispflicht
+
+### Kommentarliteratur
+
+- Rauscher, in: MuKo ZPO, §§ 328, 1060, 1061 — Anerkennungsrecht, Schiedsrecht
+- Staudinger/Magnus, CISG Art. 23, 35, 74 — Kommentierung Vertragsschluss und Schadensrecht
+- Schlosser/Hess, EU-Zivilprozessrecht, EuGVVO Art. 7 — Gerichtsstand Erfulllungsort
+
+## Triage vor Schriftsatzerstellung
+
+Bevor losgelegt wird, klaere:
+1. Welches Gericht ist zustandig — nationaler oder internationaler Gerichtsstand (EuGVVO, Schiedsklausel)?
+2. Welches materielle Recht gilt — CISG, ROM-I-Rechtswahl, nationale Kollisionsnormen?
+3. Liegt ein vollstreckbarer Titel aus dem Ausland vor — Pruefung § 328 ZPO bzw. Art. 45 EuGVVO?
+4. Ist die Klagefrist gewahrt — Verjährung nach CISG Art. 39 (2 Jahre ab Mangel), § 195 BGB, Sonderfristen?
+5. Welche Beweismittel sind verfugbar — Urkunden, Zeugen im Ausland (Hager Beweisaufnahmeubereinkommen)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schriftsatz internationales Verfahren verfassen | Schriftsatz-Vorlage; Template unten |
+| Variante A — Zweisprachiges Verfahren | Englischsprachige Version parallel vorbereiten |
+| Variante B — Schiedsverfahren statt Gericht | Statement of Claim nach ICC/UNCITRAL Rules; anderes Skill |
+| Variante C — Eilverfahren noetig | Verkuerztes Template; Eilantrag an zustaendiges Gericht |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template: Klageschrift IWR-Kurzrubrum
+
+**Adressat:** Landgericht [ORT] — Internationale Handelskammer / Schiedsgericht
+**Tonfall:** Sachlich-juristisch, praezise Subsumtion
+
+```
+An das Landgericht [ORT]
+[Anschrift]
+— Handelskammer —
+
+Klage
+
+[KLAGER], [ANSCHRIFT], [LAND]
+— Klager —
+Prozessbevollmachtigte: [KANZLEI, ADRESSE]
+
+gegen
+
+[BEKLAGTE], [ANSCHRIFT], [LAND]
+— Beklagte —
+
+wegen: Kaufpreiszahlung / Schadensersatz (CISG)
+Streitwert: EUR [BETRAG]
+
+I. KLAGEANTRAG
+Die Beklagte wird verurteilt, an den Klager EUR [BETRAG] nebst Zinsen
+in Hohe von [X] % seit [DATUM] zu zahlen.
+
+II. ZUSTANDIGKEIT
+Das LG [ORT] ist international und ortlich zustandig nach Art. 7 Nr. 1
+lit. b EuGVVO: Erfulllungsort des Kaufvertrages war [ORT/STAAT].
+
+III. ANWENDBARES RECHT
+Das UN-Kaufrecht (CISG) findet Anwendung; beide Parteien haben
+Niederlassungen in CISG-Vertragsstaaten (Art. 1 Abs. 1 lit. a CISG).
+Eine Abwahl nach Art. 6 CISG ist nicht erfolgt.
+
+IV. SACHVERHALT
+Am [DATUM] schlossen die Parteien einen Kaufvertrag ueber [WARE]
+zum Preis von EUR [BETRAG] (Anlage K1: Kaufvertrag).
+[...]
+
+V. RECHTLICHE WUERDIGUNG
+[Subsumtion CISG Art. 53, 74; ggf. EuGVVO Erfulllungsort]
+
+VI. BEWEISANGEBOTE
+- Anlage K1: Kaufvertrag vom [DATUM]
+- Anlage K2: Liefernachweis / Handelsrechnung
+- Zeuge: [NAME], [ADRESSE], zum Beweisthema: [...]
+
+[KANZLEI], [ORT], [DATUM]
+[RECHTSANWAELTIN/RECHTSANWALT]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

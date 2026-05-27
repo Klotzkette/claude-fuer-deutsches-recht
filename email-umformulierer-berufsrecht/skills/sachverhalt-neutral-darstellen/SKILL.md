@@ -1,11 +1,34 @@
 ---
 name: sachverhalt-neutral-darstellen
-description: "Wandelt subjektive Vorwuerfe und emotionale Schilderungen in objektive Sachverhaltsdarstellungen um. Nutzt Passivkonstruktionen, Datumsbezuege und unpersoenliche Formulierungen, um Konfliktstoff zu reduzieren ohne den Kern zu verfaelschen."
+description: "Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Pruefraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht fuer rechtliche Stellungnahmen."
 ---
 
 # Sachverhalt neutral darstellen
 
 Dieser Skill transformiert subjektiv gefärbte, vorwurfsvolle oder emotionale Sachverhaltsschilderungen in sachliche, objektive Darstellungen. Ziel ist nicht die Verschleierung des Problems, sondern seine nüchterne und präzise Beschreibung — so wie es ein guter Schriftsatz erfordert.
+
+
+## Triage zu Beginn
+1. Welcher Abschnitt des Textes enthaelt subjektive Wertungen, die in neutrale Darstellung umgewandelt werden muessen?
+2. Muss der Sachverhalt vollstaendig erhalten bleiben oder darf er kondensiert werden?
+3. Fuer welchen Adressaten: Gericht (maximale Sachlichkeit), Mandant (erklaerend), Gegner (zurueckhaltend)?
+4. Gibt es Passagen, bei denen die Distanzierungsformel ("nach Ihrer Darstellung") benoetigt wird?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 22.04.2008 - VI ZR 83/07, NJW 2008, 2262 — Neutrale Sachverhaltsschilderung in Schriftsaetzen schafft keinen Anknuepfungspunkt fuer Rufschaedigungsansprueche; wertende Zusaetze dagegen koennen haften.
+- BGH, Urt. v. 09.04.2019 - VI ZR 89/18, NJW 2019, 2927 — Tatsachenbehauptung und Meinungsauesserung sind strikt zu trennen; neutrale Sachverhaltsschilderung faellt unter Tatsachenbereich.
+- BVerfG, Beschl. v. 25.06.2009 - 1 BvR 134/03, NJW 2009, 3016 — Sachverhaltsschilderung im Rahmen berechtigter Interessenwahrnehmung ist auch dann zulaessig, wenn sie den Anderen nachteilig trifft.
+- OLG Muenchen, Urt. v. 17.03.2016 - 29 U 3682/15 — Passivkonstruktionen in neutraler Sachverhaltsschilderung loesen regelmassig keine Ehrschutzansprueche aus, solange keine falsche Tatsachenbehauptung.
+
+## Zentrale Normen
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot und Wahrheitspflicht bei Sachverhaltsschilderungen
+- § 138 ZPO — Wahrheitspflicht der Parteien im Prozess (Sachverhalt muss wahrheitsgemaess dargestellt werden)
+- § 823 Abs. 1 BGB — Persoenlichkeitsrecht: neutrale Schilderung schutzt vor Haftung
+- § 193 StGB — Wahrnehmung berechtigter Interessen: Schutzbereich bei wahrheitsgemaesser sachlicher Darstellung
+
+## Kommentarliteratur
+- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 30-50 (Wahrheitspflicht und sachliche Darstellung)
+- MüKoZPO/Fritsche § 138 Rn. 20-40 (Wahrheitspflicht und Sachverhaltsdarstellung)
 
 ## Grundprinzipien der neutralen Darstellung
 

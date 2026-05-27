@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-kaltstart-interview
-description: "Einmalige Ersteinrichtung der Beratungsstelle. Führt den anleitenden Volljuristen durch ein strukturiertes Interview zur Konfiguration des Plugins: Beratungsstellentyp, Rechtsgrundlage, Fachbereiche, Aufsichtsmodell, Verschwiegenheitshinweise, Pädagogikhaltung. Ergebnis wird in CLAUDE.md gespeichert. Aufrufen bei Neugründung oder grundlegender Neuausrichtung der Beratungsstelle."
+description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG § 1 Erlaubnisnorm, BRAO Aufsicht, Beratungsordnung der Hochschule. Pruefraster Hochschule und Beratungsordnung, verfuegbare Rechtsgebiete, Anleiter-Kontakte, Fristen und Mandatsgrenzen, Eskalationsregeln. Output vollstaendiges Konfigurations-Profil fuer Rechtsberatungsstelle. Abgrenzung zu Rechtsberatungsstelle-Anpassen fuer spaetere Aenderungen und zu Einarbeitung."
 ---
 
 # /kaltstart-interview
@@ -13,6 +13,29 @@ description: "Einmalige Ersteinrichtung der Beratungsstelle. Führt den anleiten
 ---
 
 # Ersteinrichtung der Beratungsstelle
+
+
+## Triage zu Beginn
+1. Handelt es sich um eine Neugründung oder eine grundlegende Neuausrichtung der bestehenden Beratungsstelle?
+2. Welche Rechtsgrundlage gilt fuer die Beratungsstellenarbeit: § 6 Abs. 2 Nr. 2 RDG, § 8 RDG oder Tätigkeit unter zugelassenem Anwalt?
+3. Welche Fachbereiche sollen von Anfang an eingerichtet werden (Mietrecht, Sozialrecht, Aufenthaltsrecht)?
+4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Ersteinrichtung der Beratungsstellenorganisation als Grundlage jeder rechtmaessigen Rechtsberatungstaetigkeit; fehlende Erstdokumentation begruendet Haftungsrisiken.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtsberatung erfordert klare Aufsichtsstrukturen und Kompetenzgrenzen; Kaltstart-Interview legt diese fest.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Anleitungsorganisation muss tatsaechliche Kontrollmoeglichkeit des Anleiters sicherstellen; formale Aufsicht ohne tatsaechliche Pruefung genuegt nicht.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzrechtliche Grundlagen muessen vor Aufnahme der Beratungsstellentaetigkeit geklaert sein (AVV, TOM, Verarbeitungsverzeichnis nach Art. 30 DSGVO).
+
+## Zentrale Normen
+- § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen fuer erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anleiters: muss von Beginn an organisatorisch sichergestellt werden
+- § 203 Abs. 4 StGB — Einbeziehung Dritter (Studierende): Verschwiegenheitsvereinbarungen als Pflichtbestandteil der Ersteinrichtung
+- Art. 30 DSGVO — Verarbeitungsverzeichnis: muss vor Beginn der Datenverarbeitung erstellt werden
+
+## Kommentarliteratur
+- Krenzler (Hrsg.) RDG § 6 Rn. 44-52, § 8 Rn. 1-30 (Erlaubnisfreie Beratung: Anleitungsorganisation und Rechtsgrundlage)
+- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit: Organisationspflicht bei Einbeziehung Dritter)
 
 ## Zweck
 

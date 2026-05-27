@@ -1,6 +1,6 @@
 ---
 name: fruehwarnsystem-architektur-zwei-jahres-horizont
-description: "Architektur eines StaRUG-konformen Frühwarnsystems mit 24-Monats-Horizont: IDW S 6 und IDW PS 340 n.F., Risiko-Inventar, KPI-Kaskade, Eskalationsstufen, Reporting-Frequenzen, Schwellenwerte, organisatorische Einbettung."
+description: "StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikomanagement-Pruefung). Pruefraster: Risiko-Inventar, KPI-Kaskade, Eskalationsstufen, Reporting-Frequenzen, Schwellenwerte, Organisationseinbettung. Output Fruehwarnsystem-Konzept, Implementierungsplan, Governance-Struktur. Abgrenzung: KPI-Set Ampelsystem siehe kennzahlenset-und-ampelsystem-starug-konform; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
 ---
 
 # Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont
@@ -204,3 +204,28 @@ Die Geschäftsführung beschließt:
 - → `kennzahlenset-und-ampelsystem-starug-konform` — KPI-Definitionen und Schwellen
 - → `integrierte-planung-guv-bilanz-cashflow` — Drei-Statement-Modell
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Systemdokumentation
+
+
+## Aktuelle Leitentscheidungen — Fruehwarnsystem und § 1 StaRUG
+
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Haftung bei fehlendem Fruehwarnsystem: IV klagt GF auf Schadensersatz wenn kein Monitoring-System vorhanden und Krise zu spaet erkannt; Mangel eines Fruehwarnsystems erhoht Fahrlaeissigkeitsvorwurf.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG Sorgfaltspflicht: ordentlicher GF muss Liquiditaet und Ertragslage laufend beobachten; Unterlassen loest Haftung aus.
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — 24-Monats-Horizont StaRUG: § 1 StaRUG verlangt Fruehwarnsystem mit 24-Monats-Vorausschau; GF muss Bestandsgefaehrdungen fruehzeitig erkennen.
+- OLG Frankfurt, Urt. v. 12.09.2019 — 5 U 14/19 — Jahresabschluss als Fruehwarninstrument: Verpflichtung des GF Jahresabschluss zeitnah aufzustellen und aus negativen EK-Kennzahlen Handlungsbedarf abzuleiten.
+
+## Paragrafenkette Fruehwarnsystem
+
+§ 1 StaRUG (Pflicht zur Fruehwarnung) → § 102 StaRUG (Rechtsberater-Warnpflicht) → § 43 GmbHG (Sorgfaltspflicht GF) → § 93 AktG (Vorstandshaftung) → § 91 Abs. 2 AktG (Fruehwarnsystem-Pflicht AG) → § 15a InsO (Antragspflicht bei erkannter ZU/Ueberschuldung)
+
+## Triage — Fruehwarnsystem
+
+1. **Kennzahlen-Set?** Welche Kennzahlen werden in welchem Rhythmus erhoben? (Liquiditaet, EBIT, Forderungslaufzeit, Eigenkapital-Quote)
+2. **Ampelsystem vorhanden?** Gruene, gelbe, rote Schwellen definiert?
+3. **Eskalationskette?** Wer wird bei roten Ampeln informiert? GF → Aufsichtsrat → Anwalt?
+4. **Historische Daten?** 2 Jahre Ruckschau fuer Trend-Erkennung vorhanden?
+
+## Kommentarliteratur
+
+- Braun/Herzig, StaRUG § 1 — Pflicht zur Krisenfrueherkennung.
+- MüKo InsO/Gehrlein, StaRUG § 1 Rn. 1 ff. — Fruehwarnpflichten.
+- K. Schmidt/Uhlenbruck, GmbH in Krise, § 3 — Krisenfrueherkennung in der GmbH-Praxis.

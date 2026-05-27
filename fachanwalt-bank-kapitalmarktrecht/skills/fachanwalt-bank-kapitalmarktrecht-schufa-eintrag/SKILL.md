@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-schufa-eintrag
-description: "Negativeintrag bei SCHUFA pruefen und Loeschung verlangen. Rechtsgrundlage Datenverarbeitung Art. 6 DSGVO § 31 BDSG fuer Scoring; berechtigtes Interesse Art. 6 Abs. 1 lit. f DSGVO. Berichtigung Art. 16 DSGVO Loeschung Art. 17 DSGVO. Vorherige Information und qualifizierte Mahnung erforderlich. EuGH C-634/21 zur Scoring-Tauglichkeit. Schadensersatz Art. 82 DSGVO BGH VI ZR 1213/22 zur Kausalitaet."
+description: "Mandant erhaelt negativen SCHUFA-Eintrag und will diesen loeschen oder berichtigen lassen. Art. 16 17 DSGVO § 31 BDSG Scoring EuGH C-634/21. Normen Art. 6 16 17 82 DSGVO § 31 BDSG BGH VI ZR 1213/22. Pruefraster Eintragungsvoraussetzungen Loeschungsanspruch Scoring-Transparenz Schadensersatz Art. 82 DSGVO. Output Loeschungsschreiben SCHUFA Widerspruch Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch (Detail) und mandat-triage (Ersterfassung)."
 ---
 
 # SCHUFA-Eintrag

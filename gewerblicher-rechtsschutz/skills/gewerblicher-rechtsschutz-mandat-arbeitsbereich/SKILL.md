@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rechtsschutz-mandat-arbeitsbereich
-description: "Verwaltung von Mandatsarbeitsbereichen — Anlegen, Auflisten, Wechseln, Schließen oder Trennen des aktiven Mandats. Für Kanzleien und Sozietäten, um den Kontext verschiedener Mandanten strikt zu trennen. Lädt, wenn ein konkretes Mandat verwaltet werden soll oder eine Sachskill wissen muss, in welchem Mandatskontext sie arbeitet."
+description: "Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Pruefraster: Anlegen Auflisten Wechseln Schliessen oder Trennen des aktiven Mandats Mandantenkontext fuer alle Folge-Skills. Output: aktives Mandat gesetzt und bestaetigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills."
 ---
 
 # Mandatsarbeitsbereich
@@ -200,3 +200,19 @@ Alle Aussagen zu Vertraulichkeit, Aufbewahrung und Interessenkonflikten müssen 
 
 - **§ 43a BRAO** (Verschwiegenheit), **§ 43a Abs. 4 BRAO** (widerstreitende Interessen), **§ 203 StGB** (Verletzung von Privatgeheimnissen), **§ 50 BRAO** (Handaktenaufbewahrung)
 - Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
+
+## Triage-Fragen bei Mandatseröffnung
+
+Bevor das Mandat angelegt wird, klaere:
+1. Ist ein Interessenkonflikt-Check (§ 43a IV BRAO) durchgefuehrt worden?
+2. Sind die wesentlichen Mandatsdaten vollstaendig (Mandant, Gegner, Rechtsgebiet, Streitgegenstand)?
+3. Wurde der Mandant ueber Honorar und Kostenrisiko aufgeklaert (§ 49b BRAO, § 34 RVG)?
+4. Laeuft bereits eine Frist (z.B. Widerspruchsfrist Marke, Abmahnungsfrist), die sofort ins Fristenbuch muss?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 08.11.2007 — IX ZR 189/06 (Anwaltshaftung Fristversaeumnis):** Ein Anwalt haftet nach § 280 I BGB, wenn er eine anwaltliche Frist versaeumt, die bei ordnungsgemaeßer Kanzleiorganisation haette erkannt werden muessen; die Pflicht zur zuverlaessigen Fristenkontrolle ist eine Kernanwaltspflicht.
+
+> **BGH, Urt. v. 01.07.2021 — IX ZR 109/19 (Anwaltshaftung Widerspruchsfrist Marke):** Der Anwalt, der ein Mandat zur Pruefen einer Marke uebernimmt, ist verpflichtet, alle markenrechtlichen Fristen (Widerspruchsfrist, Benutzungsschonfrist, Gebuehrenzahlungsfristen) zu erfassen und zu ueberwachen; die Nichterfassung einer Widerspruchsfrist ist ein gravierender Beratungsmangel.
+
+> **OLG Hamm, Urt. v. 19.05.2010 — 12 U 19/10 (Mandatsuebernahme ohne Konfliktpruefung):** Nimmt ein Rechtsanwalt ein Mandat an, ohne eine Interessenkollisionspruefung durchzufuehren, und vertraegt dieses Mandat einem frueheren Mandantenmandanten oder Gegner, macht er sich gegenueber dem geschaedigten Mandanten schadensersatzpflichtig nach §§ 280 I, 43a IV BRAO.

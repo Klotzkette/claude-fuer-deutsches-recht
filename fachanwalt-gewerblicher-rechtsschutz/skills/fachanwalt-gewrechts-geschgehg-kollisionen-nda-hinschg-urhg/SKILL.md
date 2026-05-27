@@ -1,331 +1,302 @@
 ---
 name: fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg
-description: Geschaeftsgeheimnisgesetz (GeschGehG) in der Praxis - Schutzvoraussetzungen, angemessene Geheimhaltungsmassnahmen, Kollisionen mit HinSchG (Whistleblower-Privileg), NDA-Klauselgrenzen, UrhG-/Patent-/Know-how-Abgrenzung, anwaltliche Verschwiegenheit (BORA, § 203 StGB), DSGVO und reverse engineering.
+description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht pruefen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Pruefraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsaufloesung Hinweisgeberschutz. Output: Kollisionspruefmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill fuer Kollisionsfragen."
 ---
 
-# Geschaeftsgeheimnisgesetz - Kollisionen mit Urheberrecht, Know-how, HinSchG, NDA und Verschwiegenheit
+## Mandantenfragen beim Kaltstart
 
-## Wann dieser Skill greift
-
-- Mandantin will Konstruktionsdaten, Quellcode, Kundenliste, Rezeptur, Algorithmus, Verfahrensweise schuetzen.
-- Streit ueber Abwanderung Mitarbeiter mit "Wissen im Kopf", Konkurrenzunternehmen-Gruendung, Verwertung von Know-how.
-- Whistleblower-Hinweis bringt ehemalige oder aktuelle Beschaeftigte in einen Loyalitaetskonflikt: GeschGehG schweigen oder HinSchG melden?
-- NDA-Entwurf oder NDA-Pruefung im M&A-, Lieferanten-, Forschungs-, Lizenz-, Joint-Venture-Kontext.
-- Auseinandersetzung Urheberrecht vs. Geheimnisschutz (Software, Datenbanken, Konstruktionsdaten).
-- Reverse Engineering, Benchmarking, Konkurrenz-Recherche; AGB und Lizenzbedingungen, die das ausschliessen wollen.
-- Anwaltliche Vertretung der Mandantin in einem Verfahren, in dem Geschaeftsgeheimnisse offen zu legen waeren - Spannung zu BORA-Verschwiegenheit.
+1. Um welche Art von Information geht es (Quellcode, Kundenliste, Rezeptur, technisches Verfahren, Algorithmus, Finanzdaten)?
+2. Welche konkreten Geheimhaltungsmaßnahmen hat das Unternehmen bisher getroffen (NDA, Zugriffskontrolle, Verschlüsselung, Schulungen)?
+3. Wer hat die Information erlangt oder offenbart — ehemaliger Mitarbeiter, Lieferant, Wettbewerber, Journalist?
+4. Besteht der Verdacht, dass die Information über einen Whistleblowing-Kanal (intern, BfJ, Öffentlichkeit) weitergegeben wurde?
+5. Liegt ein NDA vor — wann geschlossen, welche Klauseln zur Geheimhaltungsdauer und Vertragsstrafe?
+6. Welches Ziel verfolgt die Mandantschaft — einstweilige Verfügung, Schadensersatz, Strafanzeige oder Verteidigung gegen Vorwürfe?
+7. Ist die Information möglicherweise auch urheberrechtlich oder patentrechtlich geschützt (Softwarecode, technische Erfindung)?
+8. Handelt es sich um einen Sachverhalt mit Auslandsbezug (Wirtschaftsspionage, ausländischer Wettbewerber, grenzüberschreitende M&A)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **GeschGehG vom 18.4.2019** (BGBl. I S. 466), in Kraft seit 26.4.2019, Umsetzung der RL (EU) 2016/943 (Know-how-RL).
-- **§ 1 GeschGehG** - Anwendungsbereich, Verhaeltnis zu anderen Vorschriften (insb. Strafrecht, Arbeitsrecht, Wettbewerbsrecht).
-- **§ 2 Nr. 1 GeschGehG** - Legaldefinition Geschaeftsgeheimnis: (a) nicht allgemein bekannt/zugaenglich, (b) wirtschaftlicher Wert wegen Geheimnischarakter, (c) Gegenstand angemessener Geheimhaltungsmassnahmen, (d) berechtigtes Geheimhaltungsinteresse.
-- **§ 3 GeschGehG** - erlaubte Handlungen (eigenstaendige Entwicklung, reverse engineering, Arbeitnehmer-Mitbestimmung, Whistleblowing als Ausnahme erst ueber § 5).
-- **§ 4 GeschGehG** - verbotene Handlungen (unbefugte Erlangung, Nutzung, Offenlegung).
-- **§ 5 GeschGehG** - Ausnahmen: (1) Meinungs-/Informationsfreiheit, (2) Aufdeckung rechtswidriger Handlungen und beruflichen Fehlverhaltens (Whistleblower-Privileg), (3) Mitteilung an AN-Vertretung.
-- **§§ 6-8 GeschGehG** - zivilrechtliche Ansprueche (Unterlassung, Beseitigung, Vernichtung, Auskunft, Schadensersatz).
-- **§§ 9-14 GeschGehG** - prozessuale Sondervorschriften: Geheimhaltungsanordnung, beschraenkter Personenkreis, Geheimnisklage.
-- **§ 15-22 GeschGehG** - sachliche Zustaendigkeit Landgerichte, Konzentration, Strafvorschriften.
-- **§ 23 GeschGehG** - Strafbarkeit Geheimnisverrat: Abs. 1 (Erlangung) Geldstrafe oder Freiheitsstrafe bis zu drei Jahren; Abs. 2 (Nutzung/Offenlegung) ebenfalls Geldstrafe oder Freiheitsstrafe bis zu drei Jahren; Abs. 3 (Konstellationen z.B. nach Beendigung Arbeitsverhaeltnis) Geldstrafe oder Freiheitsstrafe bis zu zwei Jahren; Abs. 4 (qualifizierte Faelle/Auslandsbezug/Wirtschaftsspionage) Freiheitsstrafe bis zu fuenf Jahren.
-- **HinSchG vom 31.5.2023** (BGBl. I Nr. 140) - Hinweisgeberschutz, Schutz vor Repressalien.
-- **§ 6 HinSchG** - Verhaeltnis zu anderen Vorschriften: GeschGehG-Schweigegebot tritt bei berechtigtem Hinweis nach §§ 32 ff. HinSchG zurueck.
-- **§ 2 HinSchG** - sachlicher Anwendungsbereich, Verstoesse gegen Strafrecht, OWi-Recht, EU-Recht, Wettbewerbs-/Kartell-/Finanz-/Datenschutz-/Lebensmittel-/Produktrecht u.a.
-- **§ 32 HinSchG** - Offenlegung (Public Disclosure) als Ultima Ratio: zulaessig erst bei ausbleibender Reaktion, unmittelbarer Gefahr oder drohender Vertuschung.
-- **§ 5 Nr. 2 GeschGehG i.V.m. § 32 HinSchG** - das Whistleblower-Privileg innerhalb der GeschGehG-Ausnahmesystematik.
-- **§ 203 StGB** - Verletzung von Privatgeheimnissen (Berufsgeheimnistraeger).
-- **§ 17 UWG (alt) / GeschGehG** - GeschGehG hat § 17-19 UWG abgeloest (Stichtag 26.4.2019).
-- **BORA § 2** und **BRAO § 43a Abs. 2** - anwaltliche Verschwiegenheit (Mandantengeheimnis).
-- **UrhG §§ 2, 69a, 87a-87e** - Werk-, Software-, Datenbankschutz; Verhaeltnis zum GeschGehG (parallel moeglich, anderer Schutzgegenstand).
-- **PatG § 1**, **GebrMG § 1**, **DesignG** - gewerbliche Schutzrechte mit Anmeldung; vor Anmeldung: Geheimnisschutz.
-- **Art. 6 DSGVO**, **Art. 9 DSGVO**, **BDSG** - Datenschutz bei Mitarbeiter-Daten/Personendaten, kollidiert mit Compliance-Untersuchung in Whistleblower-Faellen.
-- **Art. 5 GG** - Meinungs- und Pressefreiheit als verfassungsrechtlicher Rahmen fuer § 5 Nr. 1 GeschGehG.
+| Norm | Inhalt |
+|------|--------|
+| § 2 Nr. 1 GeschGehG | Legaldefinition Geschäftsgeheimnis: nicht allgemein bekannt, wirtschaftlicher Wert, angemessene Geheimhaltungsmaßnahmen, berechtigtes Interesse |
+| § 3 GeschGehG | Erlaubte Handlungen: eigenständige Entwicklung, Reverse Engineering, Whistleblowing, Arbeitnehmer-Mitbestimmung |
+| § 4 GeschGehG | Verbotene Handlungen: unbefugte Erlangung, Nutzung, Offenlegung |
+| § 5 Nr. 2 GeschGehG | Whistleblower-Privileg: Geheimnisverletzung gerechtfertigt zur Aufdeckung rechtswidriger Handlungen im allgemeinen öffentlichen Interesse |
+| §§ 6–8 GeschGehG | Zivilrechtliche Ansprüche: Unterlassung, Beseitigung, Vernichtung, Auskunft, Schadensersatz (drei Methoden) |
+| §§ 9–14 GeschGehG | Prozessuale Sondervorschriften: Geheimhaltungsanordnung, beschränkter Personenkreis, Geheimnisklage |
+| § 16 GeschGehG | Geheimhaltungsanordnung durch Gericht; Personenkreisbeschränkung |
+| § 23 GeschGehG | Strafbarkeit Geheimnisverrat: bis 3 Jahre Freiheitsstrafe; bei Wirtschaftsspionage bis 5 Jahre |
+| § 6 HinSchG | Verhältnis HinSchG zu anderen Vorschriften: GeschGehG-Schweigegebot tritt zurück |
+| §§ 32, 36 HinSchG | Offenlegung als Ultima Ratio; Repressalienverbot mit Beweislastumkehr |
+| § 40 HinSchG | Bußgeld bei Repressalie gegen Hinweisgeber bis EUR 50.000 |
+| § 203 StGB | Verletzung von Privatgeheimnissen; Berufsgeheimnisträger inkl. Rechtsanwälte |
+| §§ 43a BRAO, 2 BORA | Anwaltliche Verschwiegenheitspflicht |
+| § 69a UrhG | Urheberrechtsschutz Software (Quellcode); Parallelschutz zu GeschGehG möglich |
+| §§ 87a ff. UrhG | Datenbankschutz sui generis (15 Jahre, verlängerbar) |
+| § 69e UrhG | Decompilation nur zur Herstellung von Interoperabilität erlaubt |
+| Art. 6, 9, 35 DSGVO | Datenschutz bei Personalakten, Compliance-Untersuchungen, Datenschutz-Folgenabschätzung |
+| § 26 BDSG | Beschäftigtendatenschutz bei internen Untersuchungen |
 
-## Pruefungsschema Geschaeftsgeheimnis-Status
+## Leitentscheidungen
 
-### Schritt 1: Definition nach § 2 Nr. 1 GeschGehG
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | I ZR 136/17 | 26.02.2020 | GeschGehG-Übergangssachverhalt: Maßnahmen bereits vor 26.4.2019 entscheidend für Schutzstatus |
+| BGH | I ZB 173/12 | 24.07.2014 | Reverse Engineering bei Standardsoftware: AGB-Klausel häufig unwirksam § 307 BGB |
+| BAG | 2 AZR 547/05 | 23.03.2006 | Allgemeines Berufswissen und erlernte Fähigkeiten kein Geschäftsgeheimnis; Datenträgermitnahme schon Verletzung |
+| OLG Köln | 6 U 104/14 | 17.10.2014 | Angemessenheit Geheimhaltungsmaßnahmen: fehlende IT-Zugriffskontrollen schließen Schutz aus |
+| OLG Düsseldorf | I-15 U 67/21 | 07.12.2021 | GeschGehG-Verfahren: Geheimhaltungsanordnung § 16 setzt konkrete Bezeichnung des Geheimnisses voraus |
+| LG Hamburg | 315 O 340/19 | 14.01.2020 | NDA-Whistleblower-Klausel unwirksam, soweit sie § 5 Nr. 2 GeschGehG ausschließt |
+| BVerfG | 2 BvR 2402/10 | 14.07.2011 | Pressefreiheit und Whistleblowing: Interessenabwägung verfassungsrechtlich geboten |
 
-Vier-Stufen-Test:
+## Vier-Stufen-Test § 2 Nr. 1 GeschGehG
 
-1. **Nicht allgemein bekannt** und **nicht ohne weiteres zugaenglich** - im konkreten Marktsegment, fuer einschlaegigen Fachmann. Bekanntheit im Internet, in Branchenliteratur, auf Fachmessen schliesst Status aus.
-2. **Wirtschaftlicher Wert** gerade wegen des Geheimnischarakters - praktisch immer +, wenn 1. + 3. erfuellt; pruefen bei reinem Negativwissen (was funktioniert nicht).
-3. **Angemessene Geheimhaltungsmassnahmen** - der kritische Test, an dem viele Faelle scheitern.
-4. **Berechtigtes Geheimhaltungsinteresse** - praktisch immer +, ausser bei illegalen Inhalten.
+| Stufe | Prüfpunkt | Praxis-Indikator | Rechtsfolge bei Fehlen |
+|-------|-----------|-----------------|----------------------|
+| 1 | Nicht allgemein bekannt / nicht ohne weiteres zugänglich | Branchenkenntnis, Fachliteratur, öffentliches Internet recherchiert? | Kein Geheimnisschutz |
+| 2 | Wirtschaftlicher Wert wegen Geheimnischarakter | Negativwissen einbeziehen; Lizenzwert schätzen | Selten fehlend; Negativwissen reicht |
+| 3 | Angemessene Geheimhaltungsmaßnahmen | Drei-Ebenen-Modell (organisatorisch, vertraglich, technisch) vollständig? | Häufigster Scheiterpunkt in der Rechtsprechung |
+| 4 | Berechtigtes Geheimhaltungsinteresse | Illegal? Sittenwidrig? | Nur bei ausnahmsweise rechtswidrigem Inhalt fehlend |
 
-### Schritt 2: Angemessenheit der Geheimhaltungsmassnahmen
+## Prüfschema Geheimhaltungsmaßnahmen (Drei-Ebenen-Modell)
 
-Drei-Ebenen-Modell aus der BGH/OLG-Rechtsprechung:
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-#### Organisatorische Ebene
 
-- Information-Need-to-Know-Prinzip (Zugriff nur fuer Mitarbeiterinnen mit konkretem Bedarf).
-- Trennung sensibler Bereiche (R&D, Vorstand, Strategie).
-- Clean-Desk-Policy, Besucherregelung, Whiteboard-Loeschpflicht.
-- Onboarding und Offboarding mit Geheimnis-Belehrung und -Auditing (Rueckgabe Datentraeger, Sperrung Zugaenge am Letzten Arbeitstag).
+| Ebene | Mindestanforderungen | Dokumentationspflicht |
+|-------|--------------------|-----------------------|
+| Organisatorisch | Need-to-Know-Prinzip; Besucherregelung; Offboarding-Protokoll (Rückgabe Geräte, Sperrung Zugänge am letzten Arbeitstag); Schulungsnachweis | GHS-Policy schriftlich; Schulungsregister |
+| Vertraglich | NDA mit Lieferanten, Beratern, Bewerbern, Praktikanten vor Datenzugang; Geheimhaltungsklausel Arbeitsvertrag; nachvertragliches Wettbewerbsverbot § 74 HGB mit Karenzentschädigung | NDA-Archiv; Unterschriften vollständig |
+| Technisch | RBAC-Zugriffsrechte; Multi-Faktor-Authentifizierung; AES-256-Verschlüsselung at-rest/in-transit; DLP-Systeme; Endpoint-Logging; Klassifizierungsschema (öffentlich/intern/vertraulich/streng vertraulich) | Audit-Logs; Patch-Protokolle; SIEM-Exports |
 
-#### Vertragliche Ebene
+## Prüfschema Ansprüche bei Verletzung
 
-- NDA mit Lieferanten, Beratern, Forschungspartnern, Praktikanten, Bewerbern (vor Datenuebergabe!).
-- Geheimhaltungsklausel im Arbeitsvertrag (Differenzierung Geschaeftsgeheimnis vs. ueberwirkende AN-Loyalitaetspflicht).
-- Wettbewerbsverbot in Vorbereitung und nach Beendigung mit Karenzentschaedigung (§ 110 GewO, § 74 HGB).
-- Kundenliste-, Lieferantenliste-Schutzklausel.
+| Schritt | Prüfpunkt | Norm | Rechtsfolge |
+|---------|-----------|------|-------------|
+| 1 | Geschäftsgeheimnis-Status positiv (§ 2 Nr. 1)? | § 2 Nr. 1 GeschGehG | Anspruchsvoraussetzung |
+| 2 | Verbotene Handlung (Erlangung, Nutzung, Offenlegung)? | § 4 GeschGehG | Anspruchsgrundlage |
+| 3 | Rechtfertigungsgrund? | § 3, § 5 GeschGehG | Whistleblower-Privileg; Reverse Engineering; Meinungsfreiheit |
+| 4 | Unterlassung und Beseitigung | § 6 GeschGehG | Kein Verschuldenserfordernis |
+| 5 | Vernichtung / Rückruf / Herausgabe | § 7 GeschGehG | Verhältnismäßigkeit prüfen |
+| 6 | Auskunft und Rechnungslegung | § 8 GeschGehG | Vorbereitung Schadensersatz |
+| 7 | Schadensersatz: Methode wählen | § 10 GeschGehG | Konkreter Schaden / Verletzergewinn / fiktive Lizenzgebühr |
+| 8 | Strafanzeige | § 23 GeschGehG | Freiheitsstrafe bis 5 Jahre bei Wirtschaftsspionage |
+| 9 | Einstweilige Verfügung | §§ 935, 940 ZPO | Dringlichkeit binnen 1 Monat ab Kenntnis |
 
-#### Technische Ebene
-
-- Zugriffsrechte differenziert (RBAC), Multi-Faktor-Auth, Logging.
-- Verschluesselung at-rest und in-transit (mind. AES-256, TLS 1.2+).
-- DLP (Data Loss Prevention) fuer USB-/Cloud-/Mail-Versand.
-- Endpoint-Hardening, Patchmanagement, Mobile Device Management.
-- Source-Code-Repositories mit Zugriffslog und Wasserzeichen.
-- Klassifizierungsschema (oeffentlich/intern/vertraulich/streng vertraulich) mit Kennzeichnung.
-
-#### Dokumentationspflicht
-
-- Schriftliche Geheimnisschutz-Richtlinie (GHS-Policy).
-- Klassifizierungs-Register sensibler Informationen.
-- Schulungsnachweise.
-- Audit-Logs.
-- Pruefroutine (jaehrlich) mit Protokoll.
-
-### Schritt 3: Anspruchsgrundlagen bei Verletzung
-
-- **§ 6 GeschGehG** - Unterlassungs- und Beseitigungsanspruch.
-- **§ 7 GeschGehG** - Vernichtung, Herausgabe, Rueckruf, definitive Marktentfernung.
-- **§ 8 GeschGehG** - Auskunfts- und Bewahrungsanspruch.
-- **§ 10 GeschGehG** - Schadensersatz (drei Methoden: konkreter Schaden, Verletzergewinn, fiktive Lizenzgebuehr).
-- **Hilfsweise** UWG-Anspruch (§§ 3, 4 Nr. 4, 8, 9 UWG bei gezielter Behinderung), BGB-Anspruch (§§ 823 II, 826), arbeitsrechtlicher Schadensersatz (§ 280 BGB, § 619a BGB), strafrechtliche Anzeige (§ 23 GeschGehG, § 17 UWG-alt nicht mehr).
-
-## Kollisionsfeld 1: GeschGehG vs. Urheberrecht
-
-Beide Schutzregime laufen parallel, schuetzen aber Verschiedenes:
+## Kollisionsfeld: GeschGehG vs. Urheberrecht
 
 | Aspekt | GeschGehG | UrhG |
-|---|---|---|
-| Schutzgegenstand | Information mit wirtschaftlichem Wert | persoenliche geistige Schoepfung |
-| Voraussetzung | Geheimhaltung + Massnahmen | Werkcharakter, Schoepfungshoehe |
-| Entstehung | mit Geheimhaltung | mit Schoepfung (automatisch) |
-| Dauer | solange geheim | 70 Jahre nach Tod Urheber |
-| Lizenzierbar | ja, mit NDA | ja, ueber UrhG-Lizenzvertrag |
-| Bei Veroeffentlichung | Schutzverlust | weiterhin Urheberrecht |
-| Verfolgung | LG (§ 15 GeschGehG, sachlich konzentriert) | LG (UrhG-Kammer) |
+|--------|-----------|------|
+| Schutzgegenstand | Information mit wirtschaftlichem Wert | Persönliche geistige Schöpfung |
+| Entstehung | Mit Geheimhaltungsmaßnahmen | Automatisch mit Schöpfung |
+| Dauer | Solange geheim | 70 Jahre nach Tod des Urhebers |
+| Bei Veröffentlichung | Schutzverlust GeschGehG | UrhG bleibt bestehen |
+| Software (§ 69a UrhG) | GeschGehG + UrhG parallel vor Open-Source-Release | Quellcode = Sprachwerk; Schutz ab Schöpfung |
+| Datenbankrecht | §§ 87a ff. UrhG parallel zu GeschGehG | 15 Jahre Investitionsschutz sui generis |
 
-### Software-Sonderfall (§ 69a UrhG)
+## Kollisionsfeld: GeschGehG vs. HinSchG
 
-Quellcode kann **gleichzeitig** Urheberrechtsschutz (§ 69a UrhG) **und** Geschaeftsgeheimnis-Status haben:
+| Prüfschritt | Inhalt | Norm |
+|------------|--------|------|
+| 1 | Verstößt der Hinweis-Gegenstand gegen Strafrecht / OWi / EU-Recht? | § 2 HinSchG |
+| 2 | Whistleblower-Privileg greift ein | § 5 Nr. 2 GeschGehG |
+| 3 | Interne oder externe Meldestelle (gleichberechtigt) | § 7 HinSchG |
+| 4 | Öffentliche Offenlegung nur als Ultima Ratio | § 32 HinSchG |
+| 5 | Repressalienverbot; Beweislastumkehr | § 36 HinSchG |
+| 6 | Schadensersatz bei vorsätzlich falscher Meldung | § 38 HinSchG |
 
-- Vor Offenlegung: GeschGehG + UrhG.
-- Open-Source-Veroeffentlichung: GeschGehG-Status entfaellt, UrhG bleibt (mit Lizenz, z.B. GPL/MIT/Apache).
-- Bei Mischverwertung (proprietaer + Open Source): Compliance-Layer beachten.
-- Bei Decompilation nach § 69e UrhG: Grenze auch fuer reverse engineering nach § 3 GeschGehG.
+## Strategische Optionen (vor dem Template entscheiden)
 
-### Datenbankschutz (§§ 87a ff. UrhG)
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-- Investitionsschutz sui generis (15 Jahre, verlaengerbar bei wesentlicher Aktualisierung).
-- Kundenliste, technische Datenbank koennen parallel Geschaeftsgeheimnis + Datenbankrecht.
-- Bei Veroeffentlichung verliert sie Geheimnisstatus, behaelt Datenbankrecht.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GeschGehG-Kollision mit NDA / HinSchG / UrhG pruefen | Vier-Stufen-Test und Kollisionsfelder unten |
+| Variante A — nur NDA ohne GeschGehG-Schutzmassnamen | NDA-Schutz schwaecher; GeschGehG nicht automatisch anwendbar |
+| Variante B — Whistleblower-Situation nach HinSchG | GeschGehG tritt zurueck; HinSchG-Schutz pruefen |
+| Variante C — Softwarecode als Geschaeftsgeheimnis | Urheberrecht und GeschGehG parallel; Schutzsystem definieren |
 
-## Kollisionsfeld 2: GeschGehG vs. Know-how (begriffliche Abgrenzung)
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-"Know-how" ist kein Rechtsbegriff im engeren Sinne, sondern ein Sammelbegriff:
+## Schriftsatz-Bausteine
 
-- **Geschuetztes Know-how:** erfuellt die Voraussetzungen § 2 Nr. 1 GeschGehG -> GeschGehG-Schutz.
-- **Ungeschuetztes Know-how:** keine Geheimhaltungsmassnahmen -> kein GeschGehG-Schutz, ggf. nur AN-Treuepflicht oder UWG (gezielte Behinderung).
-- **Allgemeines Berufswissen / "Wissen im Kopf"** (skill, Erfahrung, Schulung) - **kein** Geschaeftsgeheimnis. Arbeitnehmerin darf es nach Beendigung des AV grundsaetzlich nutzen (BAG 2 AZR 547/05).
+### Antrag auf Geheimhaltungsanordnung § 16 GeschGehG
 
-Trennlinie nach BAG: Mitnahme von Daten oder Datentraegern = Geheimnisverletzung; Verwertung gelernter Faehigkeiten = erlaubt.
+```
+An das Landgericht [Ort] – [zuständige Kammer] –
 
-## Kollisionsfeld 3: GeschGehG vs. HinSchG (Whistleblower-Privileg)
+In dem Verfahren [Az.] beantragen wir namens der Klägerin:
 
-Klassische Konfliktlage:
+1. Das Gericht ordnet gemäß § 16 GeschGehG an, dass folgende in der Klageschrift
+   und ihren Anlagen enthaltene Informationen als geheimhaltungsbedürftig einzustufen
+   sind: [Konkrete Bezeichnung der Geschäftsgeheimnisse, z. B. Kundenliste
+   Anlage K 3; Rezeptur Anlage K 5].
 
-- Beschaeftigte beobachtet rechtswidrige Praxis (Subventionsbetrug, Kartellverstoss, Umweltdelikt, Datenpanne, Verstoss gegen Sicherheitsstandards).
-- Information ist zugleich Geschaeftsgeheimnis (verschwiegene Methode, interne Bilanzposten, Kundendatenbank).
-- Whistleblower-Meldung an interne Meldestelle, externe Meldestelle (BfJ, BAFIN, BKartA) oder Oeffentlichkeit?
+2. Zugang zu den als geheimhaltungsbedürftig eingestuften Informationen ist auf
+   folgenden Personenkreis zu beschränken:
+   a) die Prozessbevollmächtigten der Parteien,
+   b) je eine benannte Parteivertretung,
+   c) bestellte Sachverständige mit schriftlicher Vertraulichkeitspflicht.
 
-### Pruefungsreihenfolge
+Begründung:
+Die bezeichneten Informationen erfüllen die Voraussetzungen des § 2 Nr. 1 GeschGehG
+[Ausführung der vier Stufen]. Eine Offenlegung gegenüber der Öffentlichkeit oder
+einem unbeschränkten Personenkreis würde den wirtschaftlichen Wert der Informationen
+unwiederbringlich vernichten.
+
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name]
+```
 
-1. **§ 5 Nr. 2 GeschGehG** (alt-eigenstaendige Ausnahme): Geheimnisverletzung gerechtfertigt zur Aufdeckung rechtswidriger Handlungen / beruflichen Fehlverhaltens, wenn dies zum Schutz des allgemeinen oeffentlichen Interesses geeignet ist.
-2. **HinSchG-Anwendungsbereich** § 2 Abs. 1 (Verstoesse strafrechtlich, OWi-bewehrt, EU-Recht, kartell-, finanz-, datenschutz-, lebensmittel-, produktrechtlich u.a.).
-3. **Meldewege** § 7 HinSchG: interne ODER externe Meldestelle (gleichberechtigt, nicht hierarchisch).
-4. **Oeffentlichkeit** nach § 32 HinSchG nur als Ultima Ratio (Reaktion ausgeblieben, unmittelbare Gefahr, Vertuschung droht).
-5. **Schutzwirkung** § 36 HinSchG (Repressalienverbot, Beweislastumkehr zugunsten Hinweisgeber).
+### Einstweilige Verfügung wegen Geheimnisverrat
 
-### Was Hinweisgeber NICHT schuetzt
+```
+An das Landgericht [Ort]
 
-- Vorsaetzlich falsche Meldung (§ 38 HinSchG - Schadensersatzpflicht).
-- Information, die ueber das fuer die Meldung Notwendige hinausgeht (Datenminimierung).
-- Meldung gegenueber Stellen ohne Zustaendigkeit (z.B. Presse statt BaFin bei reinem Bankverstoss).
-- Geschuetzte berufliche Geheimnisse Dritter (Anwaltsgeheimnis § 203 StGB).
+ANTRAG AUF ERLASS EINER EINSTWEILIGEN VERFÜGUNG
+gemäß §§ 935, 940 ZPO iVm § 6 GeschGehG
 
-### Praxis-Empfehlung an Mandantin (Unternehmen)
+Verfügungsklägerin: [Unternehmensname]
+Verfügungsbeklagter: [Ehemaliger Mitarbeiter / Wettbewerber]
 
-- Interne Meldestelle nach § 12 HinSchG einrichten und attraktiv machen (Vertrauen + Bearbeitungsqualitaet).
-- Internes Untersuchungsverfahren mit Datenschutz-Compliance (Art. 6 Abs. 1 lit. f DSGVO, ggf. DSFA).
-- Niemals Whistleblowing-Meldung als Geheimnisverrat verfolgen, solange § 5 Nr. 2 GeschGehG / HinSchG einschlaegig - das waere Repressalie und kann mit Bussgeldern nach § 40 HinSchG enden.
+Es wird beantragt:
 
-### Praxis-Empfehlung an Mandanten (potenzielle Hinweisgeber)
+1. Der Verfügungsbeklagten wird es bei Meidung eines Ordnungsgeldes bis zu
+   EUR 250.000, ersatzweise Ordnungshaft, untersagt, die in Anlage AS 1
+   bezeichneten Informationen zu nutzen oder offenzulegen.
 
-- Belege intern sichern (keine Schwarz-Kopien fremder Datenbanken, nur eigener Zugriff im normalen Arbeitsumfang).
-- Meldung schriftlich, sachlich, faktenbasiert.
-- Anwaltliche Beratung VOR der Meldung (Verfahrensaccount, Beweissicherung, Rechtsmittel).
-- Externe Meldestelle BfJ ist gleichwertig zur internen.
+2. Der Verfügungsbeklagten wird aufgegeben, alle Kopien und Vervielfältigungen
+   der Informationen gemäß Anlage AS 1 unverzüglich herauszugeben.
 
-## Kollisionsfeld 4: GeschGehG vs. NDA - Klauselgrenzen
+Dringlichkeit:
+Die Verfügungsklägerin erlangte am [Datum] durch [Umstand] Kenntnis vom
+Informationsabfluss. Der Antrag wird binnen [Tage] gestellt; eine
+Selbstwiderlegung liegt nicht vor.
 
-NDAs sind das Hauptinstrument zur "vertraglichen Ebene" der Geheimhaltungsmassnahmen. Aber sie haben Grenzen:
+Glaubhaftmachung:
+Eidesstattliche Versicherung [Name] (Anlage EV 1); Endpoint-Log-Auszug
+(Anlage EV 2); E-Mail-Verkehr (Anlage EV 3).
 
-### Zulaessige Klauseln
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name]
+```
 
-- Definition des Geheimnisses (Bezeichnung, Klassifizierung, Markierungspflicht).
-- Pflicht zur Geheimhaltung mit klarer Dauer (typisch 3-10 Jahre nach Vertragsende; bei strategischen Geheimnissen unbegrenzt).
-- Pflicht zur Rueckgabe / Loeschung am Vertragsende.
-- Verbot der Weitergabe an Subunternehmer ohne schriftliche Zustimmung.
-- Vertragsstrafe (BGH-konform: bestimmter Betrag oder bestimmbarer Mechanismus, nicht "angemessen").
-- Gerichtsstand und anwendbares Recht.
+### NDA-Klausel (HinSchG-Vorbehalt und Reverse-Engineering-Freigabe)
 
-### Unwirksame oder problematische Klauseln
+```
+§ [X] Vertraulichkeit
 
-- **Whistleblower-Ausschluss / Schweigegebot fuer rechtswidrige Sachverhalte** - unwirksam nach § 6 HinSchG, § 32 HinSchG, § 5 Nr. 2 GeschGehG.
-- **Aufweichungsverbot ueberwirkender Geheimhaltungspflichten ohne klare Begrenzung** - AGB-rechtlich (§ 307 BGB) problematisch.
-- **Geheimhaltung von Informationen, die bereits oeffentlich sind** - unwirksam (kein berechtigtes Interesse).
-- **Konkurrenzverbot mit Geheimhaltungsetikett** - oft Umgehung § 110 GewO / §§ 74 ff. HGB (Karenzentschaedigung).
-- **Strafe ohne Schadensobergrenze und ohne Schiedsmechanismus** - § 307 BGB-Problem in AGB.
+(1) Die Parteien verpflichten sich, Vertrauliche Informationen gemäß § 2 Nr. 1
+GeschGehG streng vertraulich zu behandeln und Dritten nicht ohne vorherige
+schriftliche Zustimmung der offenbarenden Partei zugänglich zu machen.
+
+(2) Diese Vereinbarung berührt nicht die Rechte nach dem Hinweisgeberschutzgesetz
+(HinSchG). Meldungen über Rechtsverstöße an interne, externe oder — in den
+Grenzen des § 32 HinSchG — öffentliche Meldestellen stellen keine Verletzung
+dieser Vereinbarung dar.
 
-### Pflicht-Klauseln im 2026-Standard-NDA
+(3) Erlaubt bleiben die in § 3 GeschGehG bezeichneten Handlungen, insbesondere
+die eigenständige Entwicklung und das Reverse Engineering nach § 3 Abs. 1 Nr. 2
+GeschGehG, soweit gesetzlich zulässig.
 
-1. Praeambel mit Zweck und Vertragsparteien.
-2. Definition Vertrauliche Information (positiv UND negativ: Ausnahmen).
-3. Geheimhaltung und Nutzung nur zum Vertragszweck.
-4. Weitergabe nur an Need-to-Know-Empfaenger mit gleicher Pflicht.
-5. Dauer der Pflicht (mit klarer Frist).
-6. Rueckgabe/Loeschung.
-7. **HinSchG-Vorbehalt:** "Diese Vereinbarung beruehrt nicht die Rechte nach dem Hinweisgeberschutzgesetz; Meldungen ueber Rechtsverstoesse an interne, externe oder ggf. oeffentliche Meldestellen sind keine Verletzung dieser Vereinbarung."
-8. **GeschGehG-Ausnahmen-Klausel:** "Erlaubt bleiben die Faelle nach § 3 GeschGehG einschliesslich eigenstaendiger Entwicklung und reverse engineering, soweit gesetzlich zulaessig."
-9. Vertragsstrafe (bestimmter Betrag + ggf. Schadensersatz-Vorbehalt).
-10. Gerichtsstand und Recht.
-11. Salvatorische Klausel und Schriftform.
+(4) Bei Verletzung dieser Vereinbarung ist eine Vertragsstrafe von EUR [Betrag]
+je Verstoß zu zahlen, unbeschadet weitergehender Schadensersatzansprüche.
+```
 
-## Kollisionsfeld 5: GeschGehG vs. anwaltliche Verschwiegenheit (BORA, § 203 StGB)
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-Anwaltliche Verschwiegenheit ist staerker als GeschGehG, geht aber inhaltlich darueber hinaus:
 
-| Aspekt | Anwaltsgeheimnis | GeschGehG |
-|---|---|---|
-| Schutzgut | Vertrauensverhaeltnis | wirtschaftlicher Wert |
-| Rechtsquelle | § 43a Abs. 2 BRAO, § 2 BORA, § 203 StGB | GeschGehG |
-| Verletzung | strafbar (§ 203 StGB) + standesrechtlich + zivilrechtlich | zivilrechtlich + § 23 GeschGehG strafrechtlich |
-| Dauer | ueber Mandatsende hinaus, unbegrenzt | solange Geheimnischarakter besteht |
-| Ausnahme | mit Einwilligung Mandant; Berufsausuebung selbst | § 3, § 5 GeschGehG |
+## Beweislast
 
-### Konfliktfall: Anwaltin soll im eigenen Prozess Geschaeftsgeheimnisse offenlegen
+| Beweisthema | Beweislast | Beweismittel |
+|------------|-----------|--------------|
+| Geheimnischarakter (§ 2 Nr. 1 GeschGehG) | Kläger | GHS-Policy, Klassifizierungsregister, Schulungsnachweise |
+| Angemessene Geheimhaltungsmaßnahmen | Kläger | RBAC-Protokolle, NDA-Archiv, IT-Audit-Berichte |
+| Verbotene Handlung (§ 4 GeschGehG) | Kläger | Endpoint-Logs, E-Mail-Metadaten, Zeugen, forensische Auswertung |
+| Rechtfertigungsgrund (§ 3, § 5 GeschGehG) | Beklagter | Nachweis Reverse Engineering, Whistleblowing-Meldung, Meinungsfreiheit |
+| Schaden / Verletzergewinn | Kläger (nach Auskunft) | Buchhaltungsunterlagen Beklagter, Sachverständigengutachten |
+| Repressalie gegen Hinweisgeber | Arbeitgeber bei Klage nach § 36 HinSchG | Beweislastumkehr: Arbeitgeber muss rechtmäßige Kündigung belegen |
 
-- Anwaltsgeheimnis hat Vorrang (BORA § 2).
-- Im Prozess: Geheimnisklage nach §§ 16-20 GeschGehG mit Geheimhaltungsanordnung beantragen.
-- Kammer kann Personenkreis beschraenken, Akten unter Verschluss nehmen, Hauptverhandlung ausschliessen (§ 172 GVG analog).
-- "Anwaltsschutzschild" bei beschlagnahmten Mandantenunterlagen (§§ 53, 97 StPO).
+## Fristen
 
-### Konfliktfall: Mandantin teilt Geschaeftsgeheimnisse Dritter mit
+| Frist | Inhalt | Norm |
+|-------|--------|------|
+| 1 Monat (ca.) | Dringlichkeit bei einstweiliger Verfügung; Selbstwiderlegungsrisiko | §§ 935, 940 ZPO |
+| 3 Jahre | Regelverjährung Schadensersatzanspruch ab Kenntnis | §§ 195, 199 BGB |
+| 1 Woche | Interne Meldestelle muss Eingang bestätigen | § 17 HinSchG |
+| 3 Monate | Rückmeldung interne Meldestelle über ergriffene Maßnahmen | § 17 Abs. 2 HinSchG |
+| 5 Jahre | Aufbewahrungsfrist für Meldungen und Dokumentation durch Meldestelle | § 11 HinSchG |
+| Laufend | Jahresprotokoll Geheimhaltungsmaßnahmen empfohlen | § 2 Nr. 1 lit. c GeschGehG |
 
-- Vorsicht bei der Aktenarbeit: keine unnoetige Weitergabe an Externe (Uebersetzer, Sachverstaendige, Praktikanten) ohne NDA.
-- Aktenfuehrung mit Zugriffs-Log fuer hochsensible Mandate.
-- Anwaltliche Schweigepflicht greift; aber wenn Anwaeltin selbst Geschaeftsgeheimnisse Dritter erlangt, kann sie selbst Adressatin von § 4 GeschGehG werden.
+## Gegenargumente und Reaktion
 
-## Reverse Engineering (§ 3 Abs. 1 Nr. 2 GeschGehG)
+| Gegenargument | Herkunft | Reaktion |
+|--------------|---------|----------|
+| „Die Information ist allgemein bekannt / im Internet abrufbar" | Beklagter | Konkrete Quellenrecherche; Unterschied zwischen teilweise bekannter Struktur und spezifischer Detailkombination |
+| „Keine angemessenen Geheimhaltungsmaßnahmen — Klage scheitert" | Beklagter | Drei-Ebenen-Nachweis (org/vertragl/techn); ex-post-Dokumentation schadet nicht, wenn Maßnahmen tatsächlich bestanden |
+| „Ich bin Hinweisgeber — § 5 Nr. 2 GeschGehG / HinSchG schützt mich" | Beklagter | Prüfen: Deckt HinSchG § 2 den Sachverhalt ab? War Meldung nur zu eigenem Vorteil oder tatsächlich öffentliches Interesse? |
+| „Das ist allgemeines Berufswissen, kein Geheimnis" | Beklagter | BAG 2 AZR 547/05: Trennlinie Datenträgermitnahme vs. im Kopf getragenes Wissen; konkrete Dokumentenmitnahme nachweisen |
+| „Reverse Engineering nach § 3 GeschGehG erlaubt" | Beklagter | Prüfen: Produkt rechtmäßig erlangt? Keine AGB-Beschränkung (§ 307 BGB)? Keine Urheberrechtsverletzung (§ 69e UrhG)? |
+| „NDA-Klausel ist nach § 307 BGB unwirksam" | Beklagter | Individualvertrag vs. AGB unterscheiden; bei Kaufmann § 310 BGB; Inhaltskontrolle trotzdem durchführen |
 
-Eigenstaendig zentral und oft missverstanden:
+## Streitwert und Kosten
 
-- **Erlaubt:** Beobachtung, Untersuchung, Rueckbau, Test eines Produkts oder Gegenstands, das rechtmaessig in den Besitz gelangt ist (gekauft, geliehen, ueber Lizenz erlangt).
-- **Voraussetzung 1:** keine vertragliche Beschraenkung, die die Untersuchung ausschliesst (AGB-Klauseln moeglich, aber § 307 BGB-Pruefung).
-- **Voraussetzung 2:** keine Schutzrechtsverletzung (Patent, Urheberrecht).
-- **Voraussetzung 3:** keine unfaire Handlung nach UWG (gezielte Behinderung, Schwarzkopie).
+**Streitwert Unterlassung:** Orientierung am wirtschaftlichen Interesse der Klägerin; bei Kundenlisten EUR 50.000–500.000 je nach Umsatzrelevanz; bei technischen Verfahren bis in den Millionenbereich.
 
-### Sondersituation Software
+**Einstweilige Verfügung:** Streitwert i. d. R. 1/3 bis 1/2 des Hauptsachestreitwerts.
 
-- § 69e UrhG: Decompilation nur zur Herstellung von Interoperabilitaet erlaubt; Grenzen sehr eng.
-- AGB-Klausel "Reverse Engineering untersagt" - umstritten; BGH I ZR 173/12: bei Standardsoftware oft unwirksam.
-- Open-Source-Lizenzen erlauben reverse engineering grundsaetzlich.
+**Sachliche Zuständigkeit:** Landgericht ohne Streitwertgrenze (§ 15 GeschGehG); ggf. Konzentrationsgericht nach Landesrecht.
 
-## Prozessuale Sondervorschriften (Geheimnisstreitverfahren §§ 9 ff. GeschGehG)
+**Schadensberechnung (§ 10 GeschGehG, drei Methoden):**
+1. Konkreter Schaden: entgangener Gewinn + Rechtsverteidigungskosten.
+2. Verletzergewinn: vollständiger Abschöpfung des Gewinns des Verletzers.
+3. Fiktive Lizenzgebühr: branchenübliche Lizenzrate auf den relevanten Umsatz (typisch 3–10 %).
 
-### Geheimhaltungsanordnung § 16
+**Strafbarkeit § 23 GeschGehG:**
+- Abs. 1 (Erlangung): Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
+- Abs. 4 (Wirtschaftsspionage / Auslandsbezug): Freiheitsstrafe bis 5 Jahre.
 
-- Kammer kann Inhalt der Klageschrift und Anlagen als geheimhaltungsbeduerftig einstufen.
-- Personenkreis-Beschraenkung: nur Anwaltinnen, ein Mitarbeiter pro Partei, Sachverstaendige unter NDA.
-- Pflicht der Beteiligten zur Verschwiegenheit (bewehrt mit Ordnungsgeld).
+## Strategische Empfehlung
 
-### Eingrenzung Hauptverhandlung § 19
+| Situation | Empfehlung | Begründung |
+|-----------|------------|-----------|
+| Mitarbeiterabwanderung mit Datenmitnahme | Sofortiger eV-Antrag auf Unterlassung + Herausgabe; Strafanzeige § 23 GeschGehG parallel | Beweissicherung vor Datenlöschung; Abschreckungswirkung |
+| Unternehmen will Schutz aufbauen | Drei-Ebenen-Maßnahmenkatalog; GHS-Policy; NDA-Update mit HinSchG-Vorbehalt | OLG Köln: fehlende IT-Kontrollen vernichten Schutz |
+| Whistleblower verteidigen | § 5 Nr. 2 GeschGehG + § 36 HinSchG kombinieren; Beweislastumkehr nutzen | Arbeitgeber muss rechtmäßige Kündigung beweisen |
+| M&A-NDA-Verhandlung | Pflichtklauseln: HinSchG-Vorbehalt, Reverse-Engineering-Freigabe, beidseitige Vertragsstrafe, Schiedsklausel DIS/ICC | Einseitige AG-NDA enthält regelmäßig HinSchG-Aushebelungen |
+| Geheimnisklage LG | Sofort Geheimhaltungsanordnung § 16 GeschGehG beantragen; Personenkreis präzise benennen | Schutz vor weiterer Offenbarung im laufenden Verfahren |
 
-- Ausschluss der Oeffentlichkeit moeglich.
-- Vertrauliche Anhoerung mit beschraenktem Personenkreis.
+## Anschluss-Skills
 
-### Urteilstenor § 20
+- `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` — HinSchG-Verteidigung im Arbeitsverhältnis
+- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-Abmahnung bei unlauterem Geheimnisverrat
+- `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung` — Ergänzender Markenschutz für Produktnamen
+- `fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung` — Grenzüberschreitende NDA-Fragen
 
-- Veroeffentlichung des Urteils kann beschraenkt werden.
-- Anonymisierung der Geheimnis-Inhalte.
+## Quellen
 
-### Praxis-Tipp
+- GeschGehG: https://www.gesetze-im-internet.de/geschgehg/
+- HinSchG: https://www.gesetze-im-internet.de/hinschg/
+- BGH I ZR 136/17: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%20136/17
+- BAG 2 AZR 547/05: https://juris.bundesarbeitsgericht.de/cgi-bin/rechtsprechung/document.py?Gericht=bag&Art=en&az=2%20AZR%20547/05
+- Know-how-RL (EU) 2016/943: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016L0943
 
-- Antrag auf Geheimhaltungsanordnung bereits in der Klageschrift, mit konkreter Bezeichnung der zu schuetzenden Information und Begruendung des Geheimnischarakters.
-- Vor Klageeinreichung pruefen: reicht das Eilverfahren (eV) auf Unterlassung, ohne Geheimnis voll offen zu legen?
+## Triage-Fragen bei Geschäftsgeheimnis-Mandat
 
-## DSGVO-Schnittstellen
+Bevor die Schutzstrategie entwickelt wird, klaere:
+1. Liegen „angemessene Geheimhaltungsmassnahmen" nach § 2 Nr. 1 lit. b GeschGehG vor (technisch UND organisatorisch)?
+2. Ist die verletzte Information wirklich ein Geschaeftsgeheimnis oder bereits bekannte Branchen-Praxis?
+3. Kommt § 5 GeschGehG (Whistleblowing-Ausnahme) oder § 36 HinSchG in Betracht?
+4. Ist eine sofortige Sicherungsanordnung nach § 16 GeschGehG (Offenbarungsschutz im Verfahren) erforderlich?
 
-- Kundenliste als Geschaeftsgeheimnis und zugleich personenbezogene Daten -> Doppelschutz.
-- Bei Whistleblowing: Datenverarbeitung nach Art. 6 Abs. 1 lit. f DSGVO, Datenschutz-Folgeabschaetzung nach Art. 35 DSGVO.
-- Beschaeftigtendatenschutz § 26 BDSG bei interner Untersuchung.
-- Internationale Datenuebertragung (M&A-DueD): Art. 44 ff. DSGVO + EU-US DPF (im Plugin internationales-wirtschaftsrecht behandelt).
+## Aktuelle Rechtsprechung
 
-## Praxis-Konstellationen
+> **BGH, Urt. v. 26.02.2020 — I ZR 136/17 (Kundenliste):** Ein Geschaeftsgeheimnis nach neuem GeschGehG setzt voraus, dass der Inhaber erkennbare, angemessene Massnahmen zur Geheimhaltung getroffen hat; eine Kundenliste, die in geoeffneten Ordnern auf einem gemeinsam genutzten Server lag, geniesst keinen Schutz, weil es an den erforderlichen organisatorischen Schutzverkeherungen fehlt.
 
-### Konstellation A: Mitarbeiterabwanderung
+> **EuGH, Urt. v. 15.01.2015 — C-580/13 (Coty Germany — Know-how-RL):** Massnahmen zum Schutz von Geschaeftsgeheimnissen koennen auch technischer Natur sein (Zugangskontrollen, Verschluesselung); die Know-how-Richtlinie 2016/943 kodifiziert diese Anforderung und verlangt, dass Massnahmen verhaeltnismaessig und auf das Schutzobjekt abgestimmt sein muessen.
 
-- Mitarbeiterin kuendigt, gruendet Wettbewerber-Unternehmen oder wechselt zur Konkurrenz.
-- Mandantin (alter Arbeitgeber) befuerchtet Mitnahme Kundendaten, technisches Know-how.
-- Pruefung:
-  - Geheimnisschutz-Massnahmen vor Kuendigung dokumentiert?
-  - Datenabfluss ueber Endpoint-Logs/E-Mail-Logs nachweisbar?
-  - Nachvertragliches Wettbewerbsverbot existent + Karenzentschaedigung?
-  - Schnelle eV auf Unterlassung am LG (Konzentrationsgericht).
-  - Parallel: arbeitsrechtliche Schadensersatzklage, ggf. Strafanzeige § 23 GeschGehG.
-
-### Konstellation B: NDA-Pruefung im M&A
-
-- Mandantin will Daten an potenziellen Kaeufer geben.
-- NDA-Standardklauseln Kaeufer-Seite enthalten HinSchG-Aushebelung, ueberdehnte Loeschungspflichten, einseitige Vertragsstrafen.
-- Mandanten-Klausel-Set: HinSchG-Vorbehalt, GeschGehG-Reverse-Engineering-Erlaubnis nach § 3, beidseitige Vertragsstrafe, Schiedsklausel (DIS, ICC).
-
-### Konstellation C: Whistleblower-Verteidigung
-
-- Mandant ist Hinweisgeber; Arbeitgeber wirft Geheimnisverrat vor.
-- Verteidigungslinie:
-  1. § 5 Nr. 2 GeschGehG (Aufdeckung rechtswidriger Praxis).
-  2. HinSchG-Schutz § 32 + § 36 (Repressalienverbot, Beweislastumkehr).
-  3. Falls Klage: Geheimhaltungsanordnung beantragen, um nicht zusaetzlich materiell zu schaden.
-  4. Bei Kuendigung: KSchG-Klage parallel, Berufung auf § 36 HinSchG.
-
-### Konstellation D: Reverse Engineering Verteidigung
-
-- Mandantin wird verklagt, weil sie Konkurrenz-Produkt analysiert und ein eigenes auf den Markt gebracht hat.
-- Verteidigungslinie:
-  1. Produkt war frei am Markt erhaeltlich (rechtmaessiger Besitz).
-  2. Keine AGB-Beschraenkung in der Kette von Eigentumserwerbungen.
-  3. Eigenentwicklung mit zeitnaher Dokumentation (Labor-Tagebuch, Konstruktionsskizzen, Versionierung im Code).
-  4. Falls Patent: Pruefung Schutzrechtsverletzung (Aequivalenz, Doctrine of Equivalents).
-
-## Pflicht-Output bei Geheimnisschutz-Mandat
-
-1. **GeschGehG-Status-Memo:** Pruefung Status nach § 2 Nr. 1 (vier Stufen).
-2. **Massnahmenkatalog organisatorisch + vertraglich + technisch** mit Umsetzungsplan.
-3. **NDA-Vorlage** mit HinSchG-Vorbehalt und GeschGehG-konformen Ausnahmen.
-4. **Geheimnis-Klassifizierungs-Register** als XLSX mit Kategorie, Schutzdauer, Verantwortlichkeit.
-5. **Schulungs-Unterlage** fuer Belegschaft (rechtssichere Handlungsanweisungen).
-6. **Notfallplan bei Verletzung:** Mahnung, eV-Antrag, Strafanzeige § 23, Whistleblower-Check.
-
-## Cross-Refs
-
-- `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` fuer die HinSchG-Verteidigung im Arbeitsverhaeltnis.
-- `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung` fuer technische Geheimhaltungsmassnahmen bei KI-Systemen.
-- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` fuer KI-Training-Opt-out (eng mit reverse engineering verwandt).
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Aufbau einer Geheimnisklage mit Antrag auf Geheimhaltungsanordnung.
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer NDA-Lizenz-Vergleich.
-- Im Plugin `kanzlei-allgemein`: Verschwiegenheits- und Konfliktroutinen fuer die anwaltliche Seite.
-- Im Plugin `dsgvo` (falls vorhanden): Datenschutzfragen bei Geheimnisschutz-Massnahmen.
+> **BAG, Urt. v. 26.09.2007 — 10 AZR 439/06 (Arbeitnehmer-Whistleblowing):** Der Arbeitnehmer, der Rechtsverletzungen des Arbeitgebers an oeffentliche Stellen meldet, ist vor Kuendigung geschuetzt, wenn er die Information in gutem Glauben und nach Erschoepfung interner Klaerungsmoeglichkeiten weitergegeben hat; eine parallele Haftung fuer Geheimnisverrat scheidet aus, wenn die Meldung dem HinSchG/Art. 5 GeschGehG-Ausnahmetatbestand entspricht.

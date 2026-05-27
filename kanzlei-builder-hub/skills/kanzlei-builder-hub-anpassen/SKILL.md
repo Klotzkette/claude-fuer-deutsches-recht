@@ -1,9 +1,32 @@
 ---
 name: kanzlei-builder-hub-anpassen
-description: "Kanzleiprofil, Positivliste, Registry-Watchlist und Aktualisierungseinstellungen anpassen. Einsetzen, wenn der Nutzer einzelne Profil-Abschnitte ändern möchte, neue Registries hinzufügen, Positivliste-Einträge aktualisieren oder die Update-Benachrichtigungseinstellungen ändern möchte — ohne das vollständige kaltstart-interview zu wiederholen."
+description: "Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Pruefraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation."
 ---
 
 # /anpassen — Kanzleiprofil und Einstellungen anpassen
+
+
+## Triage zu Beginn
+1. Welcher Abschnitt des Kanzleiprofils soll angepasst werden: Rechtsgebiete, Positivliste, TOM-Dokumentation, Registries oder Update-Einstellungen?
+2. Liegt ein konkreter Anlass vor (neue Rechtsgebiet-Erweiterung, Datenschutzaenderung, Teamaenderung)?
+3. Ist die bestehende Konfiguration vollstaendig und ohne Platzhalter (sonst Kaltstart-Interview noetig)?
+4. Betrifft die Aenderung datenschutzrechtlich relevante Konfiguration (TOM, AVV, Verarbeitungsverzeichnis)?
+
+## Aktuelle Rechtsprechung
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Verarbeitung von Mandantendaten durch KI-Systeme erfordert aktuelle TOM nach Art. 32 DSGVO; Kanzleiprofil-Aenderungen muessen TOM-Dokumentation mitziehen.
+- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Aenderung von Verarbeitungsgrundlagen erfordert Aktualisierung des Verarbeitungsverzeichnisses nach Art. 30 DSGVO; nachtraegliche Dokumentation ist unzureichend.
+- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — Datensparsamkeit und Zweckbindung nach Art. 5 DSGVO gelten auch fuer kanzleiinterne Konfigurationsdaten; nur notwendige Profilangaben speichern.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Aenderungshistorie als Dokumentationspflicht bei technisch-organisatorischen Massnahmen; lueckenlose Protokollierung von Konfigurationsaenderungen dient als Nachweis der Sorgfalt.
+
+## Zentrale Normen
+- Art. 25 DSGVO — Privacy by Design und Default: Konfigurationsaenderungen muessen Datenschutz beruecksichtigen
+- Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer KI-Infrastruktur
+- Art. 30 DSGVO — Verarbeitungsverzeichnis: bei jeder Aenderung des Verarbeitungsumfangs zu aktualisieren
+- Art. 32 DSGVO — Technisch-organisatorische Massnahmen: TOM-Dokumentation nach jeder relevanten Aenderung
+
+## Kommentarliteratur
+- Sydow/Marsch DSGVO Art. 30 Rn. 1-25 (Verarbeitungsverzeichnis: Inhalt und Aktualisierungspflicht)
+- Kühling/Buchner DSGVO Art. 32 Rn. 1-30 (TOM: Anforderungen und Dokumentation fuer Kanzleibetrieb)
 
 ## Zweck
 

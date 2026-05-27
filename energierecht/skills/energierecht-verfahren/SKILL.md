@@ -1,6 +1,6 @@
 ---
 name: energierecht-verfahren
-description: Behoerden-Verfahren Klage BNetzA-Beschwerde § 31 EnWG OLG-Beschwerde § 75 EnWG OLG Duesseldorf zustaendig. Klage VG bei BImSchG-Genehmigung BVerwG bei NABEG-Vorhaben erste Instanz. Eilantrag § 80 Abs. 5 VwGO bei Anordnungen. Frist eng meist ein Monat. Beweisangebote Sachverstaendigen-Gutachten Energie-Berater. EnSiG-Notlage Eilrechtsschutz. Stellungnahme im Bauleitplan-Verfahren als Trager oeffentlicher Belange. Foerderwiderruf-Verfahren BAFA-Bescheid Klage VG. EEG-Vergutungsstreit Klage VG Standort Anlage Bundessozialrichts-Linien.
+description: "Regulierungsverfahren und Gerichtsverfahren im Energierecht durchfuehren: BNetzA-Verfahren, Kartellamt. Normen: §§ 75 ff. EnWG, GWB, VwGO. Pruefraster: Verfahrenstyp, Beschwerde, Klage, Fristenmanagement. Output: Verfahrensstrategie Energierecht. Abgrenzung: nicht Genehmigungsverfahren Infrastruktur."
 ---
 
 # Verfahren — Behörden und Gerichte
@@ -251,6 +251,22 @@ Behandelt das gesamte Verfahrens-Spektrum im Energierecht: BNetzA-Beschwerden, K
 - Sehr hohe Anforderungen Schriftsatz
 - Klima-/Naturschutz-Argumentation
 - Skill `klimaklagen-verbandsklage-umwrg`
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Beschl. v. 03.06.2014 — EnVR 10/13, RdE 2014, 385 — Beschwerde gegen BNetzA-Beschluss nach § 75 EnWG; keine aufschiebende Wirkung kraft Gesetzes; Eilantrag beim OLG Duesseldorf nach § 77 EnWG moeglich; Frist ein Monat ab Zustellung des Beschlusses
+- OLG Duesseldorf, Beschl. v. 07.06.2023 — VI-3 Kart 44/22, ZNER 2023, 241 — Anhoerungsrecht im BNetzA-Festlegungs-Verfahren; Beteiligten muss hinreichende Zeit zur Stellungnahme gewaehrt werden; Verstoß fuehrt nur zur Aufhebung bei Kausalitaet fuer Ergebnis
+- BVerwG, Urt. v. 27.11.2018 — 9 A 8.17, NVwZ 2019, 408 — erste Instanz beim BVerwG nach § 50 VwGO fuer NABEG-Vorhaben; kein Recht auf zwei Tatsacheninstanzen; Sachverstaendigen-Begutachtung unmittelbar vor BVerwG
+- VGH Kassel, Beschl. v. 01.12.2022 — 4 B 1952/22.N, ZNER 2023, 55 — Eilrechtsschutz gegen BImSchG-Genehmigung einer Windkraftanlage; besonderes Oeffentlichkeitsinteresse an EE-Beschleunigung mindert Erfolgsaussicht des Nachbar-Eilantrags erheblich
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 31 EnWG (BNetzA-Beschwerde Zulaessigkeit) — § 75 EnWG (OLG-Beschwerde) — § 77 EnWG (aufschiebende Wirkung Eilantrag) — § 50 VwGO (BVerwG erste Instanz NABEG) — § 80 Abs. 5 VwGO (Eilrechtsschutz VG) — § 123 VwGO (einstweilige Verfuegung Verwaltung) — § 10 BImSchG (foermliches Verfahren)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 75-82 Rn. 1 ff. (OLG-Beschwerderecht) und § 31 Rn. 1 ff. (BNetzA-Verfahren)
+- Kopp/Schenke, VwGO, 30. Aufl. 2024, § 50 Rn. 1 ff. (BVerwG erste Instanz) und § 80 Rn. 100 ff. (Eilrechtsschutz bei Energieanlagen)
 
 ## Verzahnung
 

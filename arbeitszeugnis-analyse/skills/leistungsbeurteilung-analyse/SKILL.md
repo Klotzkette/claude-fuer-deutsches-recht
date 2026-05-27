@@ -43,3 +43,13 @@ Belastbarkeit wird häufig durch Formulierungen wie „auch in Stressphasen zuve
 ## Ausgabeformat
 
 Jede Leistungsaussage wird in der Ampeltabelle mit Satz, Teilbereich (Qualität/Tempo/Motivation/Belastbarkeit/Eigeninitiative), Ampelfarbe, Notentendenz und Begründung ausgewiesen. Die Gesamttendenz der Leistungsbeurteilung wird am Ende zusammengefasst.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Grundlage aller Bewertungen
+- **§§ 195, 199 BGB** — Verjährung drei Jahre ab Jahresende
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung bei Notenstufen: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Formulierungen, die Fortkommen unnötig erschweren, sind berichtigungspflichtig, auch wenn wahr.

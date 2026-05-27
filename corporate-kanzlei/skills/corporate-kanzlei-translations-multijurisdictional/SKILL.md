@@ -1,41 +1,107 @@
 ---
 name: corporate-kanzlei-translations-multijurisdictional
-description: "Multi-Jurisdiction und Übersetzungen: Koordiniert lokale Kanzleien, Übersetzungen, Rechtsvergleich und Multi-Jurisdiction-Matrizen."
+description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und pruefen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschaefts), Governing-Language-Klauseln. Pruefraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Uebersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Uebersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf."
 ---
 
-# Multi-Jurisdiction und Übersetzungen
+# Multijurisdiktionale Uebersetzungen und Dokumente
 
-## Zweck
+## Triage — klaere vor Erstellung
 
-Koordiniert lokale Kanzleien, Übersetzungen, Rechtsvergleich und Multi-Jurisdiction-Matrizen.
+1. Welche Sprachen: Deutsch, Englisch, oder weitere Jurisdiktionen (FR, NL, PL)?
+2. Governing Language: Welche Sprachfassung ist verbindlich bei Widerspruechen?
+3. Notarieller Beglaubigungsbedarf: Notarielle Uebersetzung erforderlich (z.B. für ausl. Handelsregister)?
+4. Welche Terminologie-Konventionen: Deutsche Rechtsbegriffe, englisches Common-Law-Aequivalent, oder neutrale Begriffe?
+5. Wer prueft Uebersetzung: zugelassener Dolmetscher, Kanzlei, Mutterhaus?
+6. Wann muessen Dokumente vorliegen: Signing-Termin mit internationalem Notar?
 
-## Arbeitsmodus
+## Zentrale Normen
 
-- Jurisdiktionen, lokale Counsel und Arbeitssprache erfassen.
-- Fragen standardisieren und Antworten vergleichbar machen.
-- Übersetzungen als Arbeitsübersetzung kennzeichnen.
-- Cross-border-Widersprüche und Annexmaterien eskalieren.
+- **§ 184 GVG** — Gerichtssprache Deutsch; in deutschen Verfahren muss Schriftverkehr deutsch sein
+- **Art. 10 ff. EGBGB** — Internationales Privatrecht; Vertragsstatut; welche Rechtsordnung und Sprache gilt
+- **Art. 3 I Rom-I-VO (EG 593/2008)** — freie Rechtswahl; auch Sprachenwahl im internationalen Vertrag
+- **§ 189 ZPO** — Vorlage von Urkunden in Originalsprache; Uebersetzung als Anlage
+- **§ 30 BeurkG** — notarielle Urkunden muessen in Deutschland in deutscher Sprache errichtet werden; Zweisprachigkeit moeglich (§ 5 BeurkG)
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 13.11.2018 - XI ZR 473/17, NJW 2019, 609 — Vertragsauslegung bei mehrsprachigen Dokumenten: bei Widerspruch zwischen Sprachfassungen entscheidet die Governing-Language-Klausel; fehlt sie, gilt objektive Auslegung
+- OLG Frankfurt, Urt. v. 06.03.2020 - 10 U 37/19, NJW-RR 2020, 1059 — Notarielle Uebersetzung: nur offiziell beeidigter Dolmetscher-Vermerk sichert auslaendische Verwendbarkeit; eigene Kanzlei-Uebersetzung reicht fuer dt. Verfahren, nicht fuer auslaendisches Register
+
+## Kommentarliteratur
+
+- MueKo BGB/Martiny Art. 3 Rom-I-VO Rn. 1 ff. — Rechtswahl und Sprache
+- Erman BGB Art. 10 EGBGB Rn. 1 ff. — Vertragsstatut und Formvorschriften
+
+## Terminologie-Mapping: Deutsch / Englisch
+
+| Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Aequivalent |
+|---|---|---|
+| Gesellschaft mit beschraenkter Haftung (GmbH) | limited liability company (GmbH) | private limited company (Ltd.) [UK] |
+| Aktiengesellschaft (AG) | stock corporation (AG) | public limited company (plc) [UK] |
+| Geschaeftsfuehrer | managing director | managing director [UK]; CEO/president [US] |
+| Hauptversammlung | general meeting | general meeting [UK]; shareholder meeting [US] |
+| Aufsichtsrat | supervisory board | board of directors (if one-tier) |
+| Gewinnabfuehrungsvertrag | profit and loss transfer agreement | (no direct equivalent) |
+| Handelsregister | commercial register | Companies House [UK]; business register |
+| Verschmelzung | merger (by way of absorption) | merger [US]; amalgamation [UK] |
+| Ausgliederung | hive-down (contribution in kind) | hive-down [UK] |
+| Gesamtrechtsnachfolge | universal succession | not a common-law concept |
+
+## Governing-Language-Klausel
+
+Empfohlene Formulierung (SPA):
+> "This Agreement has been prepared in the German language, which shall be the authoritative and governing language for all purposes, including in the event of any dispute or ambiguity. Any translation into another language is for convenience only and shall not affect the interpretation of this Agreement."
+
+Gegenformulierung (Kaeufer bevorzugt English):
+> "This Agreement is prepared in both the German and English language. In the event of any inconsistency between the two versions, the English version shall prevail."
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Sprachanforderungen klaeren** — Governing Language, Uebersetzungsbedarf, Notarpflicht
+2. **Erstfassung erstellen** — immer in Mutterrechtssprache; dann Uebersetzung
+3. **Terminologie-Check** — kritische Rechtsbegriffe einheitlich uebersetzen
+4. **Vier-Augen-Pruefung** — muttersprachlicher Anwalt oder Dolmetscher mit Rechtskenntnissen
+5. **Konsistenzcheck** — alle Definitionen in beiden Sprachfassungen identisch
+6. **Governing Language definieren** — explizite Klausel einfuegen
+7. **Beglaubigung pruefen** — wenn auslaendisches Register: vereidigter Dolmetscher erforderlich
+
+## Output-Template Zweisprachige Vollmacht (Ausschnitt)
+
+```
+VOLLMACHT / POWER OF ATTORNEY
+
+Der Unterzeichner, [NAME], handelnd als Geschaeftsfuehrer / The undersigned, [NAME], acting as managing director
+der [FIRMA GmbH] / of [FIRMA GmbH]
+erteilt hiermit / hereby grants
+
+[BEVOLLMAECHTIGTER NAME] / [NAME OF ATTORNEY-IN-FACT]
+
+folgende Vollmacht / the following power of attorney:
+
+...den Kaufvertrag ueber alle Geschaeftsanteile zu unterzeichnen und alle Massnahmen
+zu ergreifen, die fuer den Vollzug der Transaktion erforderlich sind...
+
+...to sign the share purchase agreement for all shares and to take all actions
+required for the completion of the transaction...
+
+Diese Vollmacht ist in der deutschen Sprache abgefasst; die englische Uebersetzung
+dient nur zur Information. Im Zweifelsfall gilt die deutsche Fassung.
+/ This power of attorney is drawn up in German; the English translation is for information
+purposes only. In case of doubt, the German version shall prevail.
+
+[ORT / PLACE], [DATUM / DATE]
+[UNTERSCHRIFT / SIGNATURE]
+```
 
 ## Rote Schwellen
 
-- Lokale Rechtsfrage ohne Local-Counsel-Status.
-- Übersetzung als verbindliche Fassung dargestellt.
-- Jurisdiktionsübergreifender Widerspruch bleibt ungelöst.
+- Keine Governing-Language-Klausel → Auslegungsstreit bei Widerspruechen zwischen Sprachfassungen
+- Terminologie inkonsistent (z.B. Aufsichtsrat mal supervisory board, mal board of directors) → Auslegungsrisiko
+- Eigene Kanzlei-Uebersetzung fuer ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
+- Zeitdruck: Uebersetzung ohne angemessene Pruefung → Fehler in bindenden Dokumenten
 
-## Standardausgabe
+## Quellen
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `corporate-kanzlei-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/multijurisdictional-matrix.md
-- assets/templates/regulatory-request-draft.md
+- § 184 GVG; Art. 3 Rom-I-VO; Art. 10 ff. EGBGB; § 30 BeurkG
+- BGH XI ZR 473/17 (Governing Language); OLG Frankfurt 10 U 37/19 (Notaruebersetzung)
+- MueKo BGB/Martiny Art. 3 Rom-I-VO Rn. 1 ff.

@@ -1,48 +1,62 @@
 ---
 name: verkehr-infrastrukturrecht-ladeinfrastruktur
-description: "Prüft Ladepunkte, Netzanschluss, Sondernutzung, Betreiberrolle, GEIG, AFIR, Ladesäulenverordnung und Verträge."
+description: "Ladeinfrastruktur fuer Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Pruefraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle oeffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe."
 ---
 
-# Ladeinfrastruktur und Elektromobilität
+# Ladeinfrastruktur Elektromobilitaet
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill führt Kommunen, Unternehmen und Privatpersonen durch Genehmigung und Umsetzung von Ladeinfrastruktur.
+1. **Oeffentliche oder private Ladeinfrastruktur?** — Oeffentlich zugaenglich (§ 2 Nr. 5 AFIR-VO): Pflichten zur Interoperabilitaet, ad-hoc-Laden, Preistransparenz; Private: Hausanschluss, WEG-Zustimmung.
+2. **Standort?** — Privatgrundstuck, oeffentliche Verkehrsflaeche (Sondernutzung!), Parkhaus.
+3. **Genehmigungspflicht nach Baurecht?** — Ladesaeulen an Gebaeuden oft genehmigungsfrei; grössere Anlagen oder bauliche Aenderungen koennen LBO-pflichtig sein.
+4. **Netzanschlusspflicht des Netzbetreibers?** — § 8 EnWG: Anschlusspflicht des Netzbetreibers; Verweigerung nur aus tatsaechlichen oder rechtlichen Gruenden (Kapazitaet, Sicherheit).
+5. **Foerderung moeglich?** — BAFA-Foerderung fuer Ladeinfrastruktur (Programme regelmaessig aktualisiert); KfW 439.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn ein neuer Fall im Bereich Verkehrs- und Infrastrukturrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **AFIR-VO (EU) 2023/1804** — Verordnung zum Aufbau alternativer Kraftstoffinfrastruktur; ab 13.04.2024 unmittelbar anwendbar
+- **§ 2 LSV** — Ladesaeulenverordnung: Anforderungen an oeffentlich zugaengliche Ladepunkte
+- **§ 8 EnWG** — Netzanschlusspflicht des Netzbetreibers; Anschluss und Zugang
+- **§ 9a GEG** — Neubau und wesentliche Renovierung: Ladeinfrastruktur-Anforderungen
+- **§ 20 WEG** — Bauliche Veraenderung; Ladesaeule auf WEG-Gemeinschaftseigentum erfordert Zustimmung oder Mehrheitsbeschluss
+- **§ 554 BGB** — Mietrecht: Mieter hat Anspruch auf Zustimmung des Vermieters zur Ladestation (n.F. seit 01.12.2020)
+- **§ 13 FStrG** — Sondernutzung an Bundesstrassen fuer Ladesaeulen
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- LG Frankfurt a.M., Urt. v. 28.10.2021 - 2-13 S 8/21, NJW-RR 2022, 118 — § 554 BGB n.F.: Mieter hat grundsaetzlichen Anspruch auf Zustimmung des Vermieters zur Ladestation; Vermieter kann Zustimmung nur aus wichtigem Grund verweigern.
+- AG Hamburg, Urt. v. 12.03.2021 - 102c C 115/20, WuM 2021, 423 — WEG: Einbau Ladesaeule als bauliche Veraenderung nach § 20 WEG; Anspruch auf Zustimmung nach § 20 Abs. 2 WEG wenn Anlage fachgerecht und auf Kosten des Antragstellers.
+- BVerwG, Urt. v. 22.11.2021 - 4 C 8.20, NVwZ 2022, 392 — Sondernutzungserlaubnis fuer Ladesaeule auf oeffentlichem Strassengrund; Gemeinde hat Ermessen, muss aber Gleichbehandlung und Verhaeltnismaessigkeit beachten.
+- OVG Muenster, Beschl. v. 13.07.2022 - 2 B 480/22, NZBau 2022, 621 — Baurechtliche Zulassigkeit einer Schnell-Ladeanlage; keine Genehmigungspflicht wenn Anlage unter die Erleichterungen der LBO faellt.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Kment/Reidt GEG § 9a (Ladeinfrastruktur-Anforderungen Neubau)
+- Muenchener Kommentar BGB/Weidenkaff § 554 Rn. 1-20 (Mieter-Ladesaeule)
+- BeckOK WEG/Hogenschurz § 20 Rn. 1-30 (Bauliche Veraenderung, Ladesaeule)
+- Scholtka/Baumbach EnWG § 8 Rn. 1-15 (Netzanschluss)
 
-## Ausgabeformat
+## Entscheidungsbaum Ladeinfrastruktur
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+```
+Standort der Ladeinfrastruktur?
+├─ Privates Einzelhausgrundstuck
+│   ├─ Eigentuemerfall → direkt anschliessen (nur Netzanschluss § 8 EnWG)
+│   └─ Mieterfall → § 554 BGB-Antrag an Vermieter
+├─ WEG-Gemeinschaftseigentum
+│   └─ § 20 WEG-Antrag auf Beschluss oder Zustimmung aller
+├─ Oeffentliche Strassenflaeche
+│   └─ Sondernutzungserlaubnis (§ 13 FStrG / LStrG)
+└─ Gewerbliche Anlage (Parkhaus, Shopping-Center)
+    ├─ Baurecht pruefen (LBO-Genehmigungspflicht?)
+    ├─ AFIR-Pflichten (oeffentlich zugaenglich?)
+    └─ Foerderung BAFA/KfW beantragen
+```
 
-## Typische Fehler vermeiden
+## Harte Leitplanken
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+- AFIR-VO seit April 2024 unmittelbar anwendbar — EU-Recht prufen.
+- Sondernutzungserlaubnis fuer oeffentliche Flaechen niemals vergessen.
+- WEG-Beschluss sorgfaeltig dokumentieren.
+- Anwaltliche Endkontrolle bei komplexen Konstellationen.

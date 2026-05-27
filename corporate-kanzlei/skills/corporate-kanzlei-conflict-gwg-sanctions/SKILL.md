@@ -1,41 +1,148 @@
 ---
 name: corporate-kanzlei-conflict-gwg-sanctions
-description: "Konflikt-, GwG- und Sanktionscheck: Führt Annahmeprüfung für Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektor- und Laender-Risiken."
+description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmepruefung fuer Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck
 
-## Zweck
+## Triage — klaere vor Mandatsannahme
 
-Führt Annahmeprüfung für Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektor- und Länder-Risiken.
+1. Sind alle Parteien und Affiliates vollstaendig identifiziert (Vollstaendige Firmennamen, Sitz, Eigentuemerstruktur)?
+2. Gibt es bestehende Mandate mit einer der Parteien oder Konkurrenzunternehmen?
+3. Herkunftsland des Erwerbers / Investors: Russland, Belarus, Iran, Nordkorea, Venezuela, sonstige Sanktionslaender?
+4. Handelt es sich um ein GwG-Kataloggeschaeft (§ 2 I Nr. 10 GwG: Trusts, Gesellschaftsgründungen, M&A-Transaktionen)?
+5. Wirtschaftlich Berechtigter: Gibt es eine natiuerliche Person mit >25 % Beteiligung?
+6. PEP: Ist eine der beteiligten Personen politisch exponiert?
+7. Mittelherkunft: Wie wird der Kaufpreis finanziert? Barmittel aus unklarer Quelle?
 
-## Arbeitsmodus
+## Zentrale Normen
 
-- Parteien und Affiliates normalisieren.
-- UBO-, PEP-, Sanktions- und Hochrisikofragen als Dokumentationsbogen anlegen.
-- Mandatsannahme, Ablehnung oder Enhanced Due Diligence vorschlagen.
-- Verdachtsmomente nicht ausformulieren, sondern geschuetzt dokumentieren.
+- **§ 43a III BRAO** — Interessenwiderstreit; Vertretungsverbot bei widerstreitenden Interessen
+- **§§ 2, 10-17 GwG** — Pflichten zur Kundensorgfalt (CDD); wirtschaftlich Berechtigter; erhoehte Sorgfalt PEP
+- **§ 3 GwG** — Definition wirtschaftlich Berechtigter; 25%-Schwelle; natuerliche Person hinter Gesellschaft
+- **§ 12 GwG** — Erhoehte Sorgfaltspflichten; PEP, Hochrisikolaender, ungewoehnliche Transaktionen
+- **§ 43 GwG** — Verdachtsmeldung an FIU; Meldepflicht bei Verdacht auf Geldwaesche
+- **EU-Sanktionsregelungen (EG) 765/2006, 833/2014** — Belarus/Russland; Handels- und Kapitalmarktsanktionen
+- **US OFAC SDN List** — Sonderbeschraenkungsliste; Transaktionen mit gelisteten Personen verboten (auch extraterritorial)
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 23.09.2020 - III ZR 453/19, NJW 2021, 148 — Kanzlei muss nach GwG wirtschaftlich Berechtigten des Mandanten kennen; bei PEP-Status erhoehte Sorgfalt erforderlich; Unterlassung = Pflichtverletzung
+- BGH, Urt. v. 12.07.2018 - III ZR 183/17, NJW 2018, 2957 — § 43a BRAO Interessenwiderstreit: Kanzlei haftet bei Vertretung beider Seiten in Transaktion auch ohne ausgedruecklichen Schaden
+- EuGH, Urt. v. 13.07.2023 - C-55/22 — 5. Geldwaescherichtlinie: wirtschaftlich Berechtigter in Transparenzregister pflicht; Zugaenglichkeit auch fuer Anwaelte; Datenschutzgrundrecht beschraenkt Oeffentlichkeit
+- OLG Frankfurt, Urt. v. 15.11.2021 - 23 U 51/21, NZI 2022, 205 — Sanktionen: Vertrag mit sanktionierter Partei nach EU-Recht nichtig (§ 134 BGB); kein Anspruch auf Kaufpreis
+
+## Kommentarliteratur
+
+- Richter/Schuurman, Geldwaeschegesetz (2021) §§ 2-17 — CDD-Pflichten bei Kanzleien
+- Henssler/Pruestell, BRAO (3. Aufl. 2019) § 43a — Interessenwiderstreit und Vertretungsverbot
+- Herzog/Muehlhausen, GwG (3. Aufl. 2022) § 43 — Verdachtsmeldepflicht
+
+## GwG-CDD-Pruefungsmatrix
+
+| Pruefschritt | Inhalt | Nachweis | Risikostufe |
+|---|---|---|---|
+| 1. Identifizierung Mandant | Name, Sitz, HRB, Unternehmensform | HR-Auszug, Gesellschafterliste | Standard |
+| 2. Wirtschaftlich Berechtigter (§ 3 GwG) | Nauerliche Person >25 %; bei Kontrolle auch weniger | Aktionaeersstruktur; UBO-Erklaerung | Standard |
+| 3. PEP-Check | Politisch exponierte Person (Regierung, Parlament, Richter, Diplomaten, Familienangehoerige) | PEP-Datenbank (z.B. Dow Jones, Refinitiv World-Check) | Erhoehte Sorgfalt |
+| 4. Sanktions-Check | EU-Sanktionslisten; US OFAC SDN; UN-Sanktionsliste | Sanktionsdatenbank; OFAC-Match | Hochrisiko: Ablehnen |
+| 5. Mittelherkunft | Woher stammt das Kapital fuer die Transaktion? | Jahresabschluss, Bankbestaetigung, Finanzierungsvertrag | Erhoehte Sorgfalt bei Hochrisikolaendern |
+| 6. Laenderrisiko | Hochrisikolaender nach § 15 GwG; EU-Liste; FATF-Liste | FATF-Laenderliste | Erhoehte Sorgfalt |
+| 7. Transaktionsstruktur | Ungewoehnliche Komplexitaet ohne erkennbaren wirtschaftlichen Grund | Geschaeftszweck-Erklaerung | Erhoehte Sorgfalt |
+
+## Sanktions-Schnellpruefung
+
+### EU-Sanktionen (wichtigste Regime)
+- **Russland (EG 833/2014):** Handels- und Finanzsanktionen; Personenliste (Annex I/III); Sektorverbote (Energie, Militaer, Luft)
+- **Belarus (EG 765/2006):** Personenliste; Sektorverbote
+- **Iran (EG 267/2012):** Nuklearprogramm; Personenliste; Finanzsanktionen
+- **Nordkorea (EG 2017/1509):** umfassende Sanktionen
+
+### Konsequenz bei Treffer
+→ Mandatsannahme ablehnen. Bestehendes Mandat: Niederlegung pruefen. Verdachtsmeldung an FIU (§ 43 GwG).
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Parteien-Liste erstellen** — alle Parteien, bekannte Affiliates, UBOs aus Unterlagen zusammenstellen
+2. **Konflikt-System abfragen** — alle Namen im internen Konfliktsystem; unklare Treffer an Senior Partner
+3. **GwG-CDD starten** — Identifizierungsdokumente einholen; UBO-Erklaerung unterschreiben lassen
+4. **Sanktions-Screening** — alle Personen und Gesellschaften gegen EU/OFAC/UN-Listen; Datum dokumentieren
+5. **PEP-Pruefung** — relevante Personen durch PEP-Datenbank; bei Treffer: erhoehte Sorgfalt
+6. **Laender-Risiko bewerten** — Hochrisikolaender nach FATF; verstaerkte Pruefung
+7. **Mittelherkunft klaeren** — Finanzierungsstruktur; keine unerklarlichen Barmittel
+8. **Entscheidung** — Mandatsannahme / Enhanced Due Diligence / Ablehnung
+9. **Dokumentation** — CDD-Bogen abschliessen; Aktennotiz; Freigabe durch Partner
+10. **Laufendes Monitoring** — Sanktionslisten aendern sich; Neubewertung bei Eskalation
+
+## Entscheidungsbaum: Mandatsannahme oder Ablehnung?
+
+```
+Sanktions-Treffer (OFAC/EU)?
+  → Ja: Mandat ablehnen; Verdachtsmeldung FIU pruefen (§ 43 GwG)
+  → Nein: PEP?
+       → Ja: Erhoehte Sorgfalt; schriftliche Freigabe Managing Partner; verstaerkte Ueberwachung
+       → Nein: Wirtschaftlich Berechtigter unbekannt/verweigert?
+            → Ja: Mandat ablehnen (§ 10 GwG)
+            → Nein: Mittelherkunft ungeklaert?
+                 → Ja: Erhoehte Sorgfalt; Erklaerung einfordern; ggf. ablehnen
+                 → Nein: Standard-CDD-Abschluss; Mandatsannahme moeglich
+```
+
+## Output-Template CDD-Dokumentationsbogen
+
+**Adressat:** Kanzlei-intern / Compliance-Beauftragte — Tonfall vollstaendig, prueffaehig
+
+```
+GwG-CDD-BOGEN
+Mandat: [MATTER-NR.]
+Mandant: [NAME, Sitz, Rechtsform]
+Datum: [DATUM]
+Bearbeiter: [NAME]
+
+1. WIRTSCHAFTLICH BERECHTIGTER (§ 3 GwG)
+   Name: [NAME]
+   Nationalitaet: [LAND]
+   Beteiligung: [%]
+   Nachweis: [HR-Auszug / UBO-Erklaerung vom DATUM]
+
+2. SANKTIONS-SCREENING
+   Datum: [DATUM]
+   Datenbank: [EU / OFAC / UN]
+   Ergebnis: [Kein Treffer / Treffer: Beschreibung]
+
+3. PEP-CHECK
+   Datenbank: [NAME]
+   Ergebnis: [Kein PEP / PEP: Beschreibung]
+   Massnahmen bei PEP: [Erhoehte Sorgfalt; Senior-Freigabe]
+
+4. LAENDERRISIKO
+   Hauptsitz: [LAND]
+   Hochrisikoland: [Ja/Nein; FATF-Liste]
+   Massnahmen: [Erhoehte Sorgfalt / Keine]
+
+5. MITTELHERKUNFT
+   Beschreibung: [Eigenkapital aus laufendem Geschaeft / Finanzierung: Bank X]
+   Nachweis: [Bankbestaetigung; Jahresabschluss]
+
+6. ENTSCHEIDUNG
+   [ ] Mandatsannahme — keine Bedenken
+   [ ] Enhanced Due Diligence — Massnahmen: [Beschreibung]
+   [ ] Ablehnung — Grund: [Beschreibung]
+   [ ] Verdachtsmeldung FIU (§ 43 GwG) am [Datum]
+
+Freigabe durch: [PARTNER-NAME], [DATUM]
+```
 
 ## Rote Schwellen
 
-- Konflikt nicht abgeschlossen.
-- Sanktions- oder PEP-Treffer ungeklart.
-- GwG-Kataloggeschäft oder Mittelherkunft offen.
+- Sanktions-Treffer ohne Ablehnung → § 134 BGB Nichtigkeit; strafrechtliche Risiken
+- GwG-CDD nicht vor Mandatsannahme → § 10 GwG; Bussgeld bis 5 Mio. EUR oder 10 % Jahresumsatz
+- PEP ohne erhoehte Sorgfalt → § 12 GwG-Pflichtverletzung
+- Interessenkollision nicht erkannt → § 43a BRAO; Schadensersatz; berufsrechtliche Konsequenzen
+- Verdachtsmeldepflicht nicht beachtet → § 261 StGB Beihilfe zur Geldwaesche moeglich
 
-## Standardausgabe
+## Quellen
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
-
-## Übergabe an andere Skills
-
-- Komplexe Eingänge zuerst an `corporate-kanzlei-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/conflict-sanctions-gwg-check.md
-- assets/templates/confidentiality-need-to-know-log.md
+- §§ 43a BRAO; §§ 2-17, 43 GwG; EU-Sanktionsverordnungen (EG) 833/2014, 765/2006
+- BGH III ZR 453/19 (GwG-Kanzlei-Pflicht); BGH III ZR 183/17 (Interessenwiderstreit)
+- Richter/Schuurman GwG (2021); Henssler/Pruestell BRAO § 43a

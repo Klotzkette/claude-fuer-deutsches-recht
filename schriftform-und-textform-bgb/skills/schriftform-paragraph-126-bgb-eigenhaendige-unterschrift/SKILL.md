@@ -1,6 +1,6 @@
 ---
 name: schriftform-paragraph-126-bgb-eigenhaendige-unterschrift
-description: "Schriftform § 126 BGB: eigenhändige Namenszeichnung, Urkundeneinheit bei mehrseitigen Verträgen, Blankounterschrift, Faksimile-Stempel, räumliche Lage der Unterschrift unter dem Text — BGH-Linie und Praxis für Vermieter, Makler, Arbeitgeber."
+description: "Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Pruefraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel raeumliche Lage der Unterschrift unter dem Text. BGH-Linie. Output: Schriftform-Pruefung und Empfehlung fuer Vertragspartner. Abgrenzung zu elektronische-form-paragraph-126a-bgb-qes (qES) und textform-paragraph-126b-bgb-dauerhafter-datentraeger."
 ---
 
 # Schriftform § 126 BGB — Eigenhändige Unterschrift

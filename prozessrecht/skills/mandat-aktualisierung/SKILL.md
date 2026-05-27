@@ -1,6 +1,6 @@
 ---
 name: mandat-aktualisierung
-description: "Fügt einem Prozessmandat einen datierten Eintrag in die Verlaufsakte hinzu und aktualisiert den Protokolleintrag — erfasst neue Entwicklungen, Statusänderungen, Risikoneubewertungen, Fristverschiebungen und Änderungen bei der Vergleichskompetenz. Lädt, wenn der Nutzer eine Aktualisierung zu einem Prozessmandat eintragen, eine neue Entwicklung notieren oder eine Statusänderung im Portfolio festhalten möchte."
+description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Pruefraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung."
 ---
 
 # Mandats-Aktualisierung

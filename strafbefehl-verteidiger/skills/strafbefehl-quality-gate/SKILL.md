@@ -1,45 +1,71 @@
 ---
 name: strafbefehl-quality-gate
-description: "Prüft vor Einspruch, Schriftsatz oder Hauptverhandlung Fristen, Akte, Strategie, Freigaben und Stopper."
+description: "Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlusspruefung durchfuehren. Pruefraster Fristen Vollmacht Zulaessigkeit Einlassung Beweisantraege Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 409 StPO Strafbefehlsinhalt § 46 StGB Strafzumessung. Output Fehlerliste mit Ampel-Bewertung und Checkliste offener Punkte. Abgrenzung: strafbefehl-kommandocenter fuer laufende Mandats-Steuerung."
 ---
 
-# Qualitätstor
+# Quality Gate — Strafbefehl-Mandat
 
 ## Zweck
 
-Dieser Skill gehört zum freistehenden Plugin **Strafbefehl-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+Dieser Skill ist die abschliessende Qualitaetssicherung fuer das Strafbefehlsmandat. Er ist an drei kritischen Punkten einzusetzen:
+1. **Vor Einspruch-Versand** — alle formalen Voraussetzungen erfuellt?
+2. **Vor der Hauptverhandlung** — vollstaendige Vorbereitung?
+3. **Nach dem Urteil** — Rechtsmitteloptionen geprueft?
 
-## Wann verwenden
+## Gate 1: Vor Einspruch-Versand
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+```
+□ Einspruchsfrist § 410 Abs. 1 StPO berechnet und noch offen?
+   Zustellungsdatum: [DATUM] + 14 Tage = Fristende: [DATUM]
+□ Vollmacht des Mandanten liegt vor?
+□ Strafbefehl-Inhalt auf § 409 StPO geprueft (Pflicht-Inhalte)?
+□ Delikt ist Vergehen (kein Verbrechen § 12 StGB)?
+□ Sanktion liegt im Katalog § 407 Abs. 2 StPO?
+□ Beschraenkt oder unbeschraenkt? Mandant aufgeklaert?
+□ Einspruchsschreiben: Name, Az., Zustellungsdatum, Datum, Unterschrift?
+□ Einspruch per EB-Fax oder anwaltlichem Fax versendet?
+□ Eingang beim Gericht bestaetigt?
+□ Akteneinsicht gleichzeitig beantragt?
+AMPEL: GRUEN wenn alle Punkte erfuellt / ROT wenn Frist nicht mehr offen
+```
 
-## Arbeitsweise
+## Gate 2: Vor Hauptverhandlung
 
-1. Frist, Aktenzeichen, Gericht, Vollmacht, Versand, Anlagen, Mandantenfreigabe und Zustellung prüfen.
-2. Strategie mit Mandantenziel, Beweislage, Rechtsfolge und Nebenfolgen abgleichen.
-3. Unklare Tatsachen als Annahme markieren und keine Erfolgsgarantie ausgeben.
-4. Ausgabe: Stopperliste und Freigabeampel.
+```
+□ Akteneinsicht vollstaendig erhalten und ausgewertet?
+□ Einlassung mit Mandant abgestimmt (Schweigen oder Aussage)?
+□ Beweisantraege vorbereitet (Beweisthema + Beweismittel)?
+□ Sachverstaendiger beauftragt wenn noetig?
+□ Einkommensnachweise fuer Tagessatz-Pruefung vollstaendig?
+□ § 153a-Antrag bei Staatsanwaltschaft gestellt oder abgelehnt?
+□ Verstaendigung § 257c StPO geprueft und entschieden?
+□ Mandant ueber HV-Ablauf informiert (Aufruf, Vernehmung, Plaedoyer, Letztes Wort)?
+□ Fahrerlaubnis-Problematik (§ 69 StGB / § 44 StGB) vollstaendig bearbeitet?
+□ Pflichtverteidiger-Beiordnung geprueft (§ 140 StPO)?
+□ Erscheinungspflicht oder Entbindungsantrag § 411 Abs. 2 StPO?
+AMPEL: GRUEN wenn vollstaendig / GELB wenn offene Punkte / ROT wenn kritische Luecken
+```
 
-## Rückfragen, wenn unklar
+## Gate 3: Nach Urteil
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+```
+□ Urteil vollstaendig angehoert / protokolliert?
+□ Rechtsmittelfrist notiert: 1 Woche ab Urteilsverkuendung (§§ 314, 341 StPO)?
+□ Fristende: [DATUM DES URTEILS] + 7 Tage = [FRISTENDE]
+□ Berufung oder Revision geprüft? (Tatsachen vs. Rechtsfehler)
+□ Annahme-Berufung § 313 StPO: Erfolgaussichten vorhanden?
+□ Absolute Revisionsgründe § 338 StPO geprueft?
+□ Tagessatz-Hoehe korrekt berechnet?
+□ Fahrerlaubnis-Massnahme korrekt?
+□ Beschraenktes Rechtsmittel auf Rechtsfolgen moeglich?
+□ Mandant ueber Entscheidung und Optionen informiert?
+□ Ratenzahlungsantrag § 42 StGB noetig?
+AMPEL: GRUEN wenn zufriedenstellend / GELB wenn Rechtsmittel moeglich / ROT wenn Fehler vorhanden
+```
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Quality Gate niemals ueberspringen — auch bei einfachen Faellen.
+- ROT-Punkte immer dokumentieren und ansprechen.
+- Mandant ueber jeden Schritt informieren und Entscheidungen schriftlich bestaetigen.
+- Anwaltliche Endkontrolle bei jedem Gate zwingend.

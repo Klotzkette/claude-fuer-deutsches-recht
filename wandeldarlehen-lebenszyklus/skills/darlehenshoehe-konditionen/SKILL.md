@@ -1,6 +1,6 @@
 ---
 name: darlehenshoehe-konditionen
-description: "Erfassung und Dokumentation der Darlehenskonditionen: EUR-Betrag, Laufzeit (Standard zwei Jahre Feste Laufzeit), Zinssatz (Standard fuenf Prozent p.a. pro rata temporis act/360), Auszahlungsmodus (sieben Bankarbeitstage), Bankverbindung der Gesellschaft, aufschiebende Bedingungen und Kuendigungsausschluss."
+description: "Darlehenshoehe Zinsen Laufzeit und Konditionen fuer Wandeldarlehen verhandeln und dokumentieren. §§ 488 491 BGB Darlehensvertrag §§ 246 247 BGB Zinsen. Pruefraster: Darlehenshoehe Zinssatz Disagio Laufzeit Faelligkeit Sicherheiten Rangruecktritt. Output: Term-Sheet Konditionenblatt Vertragsklauseln. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Darlehensbetrag und Konditionen
@@ -81,3 +81,17 @@ Ordentliche Kündigung ausgeschlossen für alle Parteien. § 490 Abs. 1 BGB vert
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Darlehensrecht aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 07.03.2013 — **IX ZR 7/12**, BGHZ 196, 363 Rn. 18: Rückzahlung eines Gesellschafterdarlehens innerhalb eines Jahres vor Insolvenzantragstellung ist nach § 135 Abs. 1 InsO anfechtbar; bei Wandeldarlehen gilt dies entsprechend, wenn die Rückzahlung anstelle der Wandlung gewählt wird und der Gesellschafter im Nachrangverhältnis steht.
+
+BGH, Urt. v. 29.01.2015 — **IX ZR 279/13**, NJW 2015, 1181 Rn. 14: Fälligkeitsklauseln in Darlehensverträgen, die bei Insolvenzantragstellung sofortige Rückzahlung vorsehen, sind nach § 119 InsO unwirksam; Wandeldarlehen sollten deshalb keine insolvenzabhängige Fälligkeitsbeschleunigung enthalten.
+
+BGH, Urt. v. 29.09.2015 — **II ZR 271/14**, BGHZ 207, 54 Rn. 22: Der Zinssatz eines Gesellschafterdarlehens muss fremdüblich sein; ein übermäßiger Zinssatz kann als verdeckte Gewinnausschüttung gewertet werden oder der Sittenwidrigkeitskontrolle nach § 138 BGB unterliegen; Maßstab ist der Vergleich mit dem Marktzins für vergleichbare Risiken.
+
+### Normen-Ergänzung
+
+§§ 488, 491 ff. BGB (Darlehensvertrag) → § 490 BGB (Kündigung, vertraglich ausgeschlossen) → § 314 BGB (Kündigung wichtiger Grund, unberührt) → § 138 BGB (Sittenwidrigkeit überhöhter Zins) → §§ 135, 143 InsO (Anfechtung Rückzahlung Gesellschafterdarlehen) → § 119 InsO (Unwirksamkeit insolvenzabhängiger Lösungsklauseln) → §§ 3, 4 StaRUG (Restrukturierungsrahmen)

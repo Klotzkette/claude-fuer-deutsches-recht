@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-erkennung
-description: "Unterscheidet qualifiziertes Endzeugnis, einfaches Zeugnis, Zwischenzeugnis und Ausbildungszeugnis. Erklärt die Auswirkung der Zeugnisart auf Inhalt, Erwartungshaltung und Interpretationsrahmen für die Ampelanalyse."
+description: "Unterscheidet qualifiziertes Endzeugnis einfaches Zeugnis Zwischenzeugnis und Ausbildungszeugnis am Beginn jeder Analyse. Anwendungsfall Zeugnis liegt vor und muss bevor Analyse startet der richtigen Zeugnisart zugeordnet werden. Normen § 109 GewO qualifiziertes vs. einfaches Zeugnis § 16 BBiG Ausbildungszeugnis. Pruefraster Inhalt Zeitbezug Position Stichtag Ausstellungsanlass. Output Zeugnisart-Klassifikation mit Erlauterungen zu Inhalt Erwartungshaltung und Interpretationsrahmen fuer alle Folge-Skills. Abgrenzung zu zeugnis-ueberblick-extraktion (Kopfdaten) und notenrelevante-saetze-identifizieren."
 ---
 
 # Zeugnisart-Erkennung
@@ -36,3 +36,13 @@ Führungskräfte-Zeugnisse (leitende Angestellte) haben zusätzliche Erwartungen
 ## Ausgabeformat
 
 Der Skill gibt zunächst die erkannte Zeugnisart aus (mit Begründung) und listet dann die erwarteten Bausteine mit dem Status „vorhanden / fehlend / unerwartet". Auf dieser Basis justiert er den Interpretationsrahmen für alle nachgelagerten Analyse-Skills.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

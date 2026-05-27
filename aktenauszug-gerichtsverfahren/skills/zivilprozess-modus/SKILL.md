@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-modus
-description: "Modus-Skill fuer ZPO-Verfahren: ordentliche Klage muendliche Verhandlung Berufung nach Paragraph 511 ff. ZPO Revision nach Paragraph 542 ff. ZPO und einstweilige Verfuegung nach Paragraph 935 ff. ZPO. Stellt verfahrensspezifische Besonderheiten und Fristen im Aktenauszug heraus."
+description: "Aktenauszug fuer ZPO-Verfahren erstellen: ordentliche Klage muendliche Verhandlung Berufung §§ 511 ff. ZPO Revision §§ 542 ff. ZPO einstweilige Verfuegung §§ 935 ff. ZPO. Normen ZPO BGH-Leitsaetze. Pruefraster ZPO-Fristen Instanzenzug Besonderheiten. Output ZPO-spezifischer Aktenauszug. Abgrenzung zu arbeitsgerichtsverfahren-modus (ArbGG) und verwaltungsprozess-modus (VwGO)."
 ---
 
 # Zivilprozess-Modus (ZPO)
@@ -8,6 +8,37 @@ description: "Modus-Skill fuer ZPO-Verfahren: ordentliche Klage muendliche Verha
 ## Zweck
 
 Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für ordentliche Zivilverfahren nach der Zivilprozessordnung (ZPO). Er ergänzt den allgemeinen Aktenauszug-Workflow um ZPO-spezifische Fristen, Verfahrensschritte und Besonderheiten.
+
+## Triage — kläre vor Aktivierung des Modus
+
+1. Ordentliches Klageverfahren, Berufung, Revision oder einstweilige Verfügung?
+2. Wurde das Urteil bereits zugestellt? (Berufungsfrist läuft — § 517 ZPO!)
+3. Liegt eine einstweilige Verfügung vor? (Vollziehungsfrist § 929 Abs. 2 ZPO — 1 Monat!)
+4. Ist Zulassung der Berufung oder Revision erforderlich?
+5. Wurden neue Angriffs- und Verteidigungsmittel in Berufungsinstanz eingeführt (§ 531 ZPO)?
+
+## Zentrale Normen
+
+- §§ 271-276 ZPO — Klageerhebung, Zustellung, Klageerwiderungsfrist
+- §§ 300-329 ZPO — Urteil (Entscheidungsreife, Teilurteil, Zwischenurteil, Verkündung)
+- §§ 511-541 ZPO — Berufung (Zulässigkeit, Begründung, neue Angriffsmittel, Verwerfung)
+- §§ 542-566 ZPO — Revision und Rechtsbeschwerde (Zulassung, Begründung)
+- §§ 935-945a ZPO — Arrest und einstweilige Verfügung (Verfügungsanspruch, Verfügungsgrund)
+- § 929 Abs. 2 ZPO — Vollziehungsfrist 1 Monat bei einstweiliger Verfügung
+
+## Rechtsprechung (BGH — Leitsätze ZPO-Verfahren)
+
+- BGH, Urt. v. 22.09.2020 - II ZR 73/19, NJW 2021, 76 — Zur Bestimmtheit des Berufungsantrags nach § 520 Abs. 3 ZPO: Berufungsantrag muss erkennen lassen, in welchem Umfang und weshalb das erstinstanzliche Urteil angegriffen wird.
+- BGH, Beschl. v. 07.05.2020 - IX ZB 14/19, NJW 2020, 2181 — Zur Zurückweisung nach § 522 Abs. 2 ZPO: Berufungsgericht darf nur verwerfen wenn keine Aussicht auf Erfolg und kein Bedarf nach muendlicher Verhandlung; Hinweispflicht vorher.
+- BGH, Urt. v. 23.01.2018 - XI ZR 298/17, NJW 2018, 1302 — Neue Angriffsmittel in der Berufungsinstanz nach § 531 Abs. 2 ZPO: Nachlässigkeit in erster Instanz schließt Berücksichtigung aus; Partei muss Entschuldigungsgrund darlegen.
+- BGH, Beschl. v. 27.11.2019 - XII ZB 311/19, NJW 2020, 528 — Vollziehung der einstweiligen Verfügung nach § 929 Abs. 2 ZPO: Vollziehungsfrist beginnt mit Beschlusszustellung an Antragsteller; fehlende Vollziehung macht Beschluss wirkungslos.
+
+## Kommentarliteratur
+
+- Zöller/Heßler ZPO § 511 Rn. 1 ff. (Berufungszulässigkeit)
+- MüKo ZPO/Rimmelspacher § 531 Rn. 1 ff. (Neue Angriffs- und Verteidigungsmittel)
+- Thomas/Putzo ZPO § 935 Rn. 1 ff. (Einstweilige Verfügung)
+- Zöller/Vollkommer ZPO § 929 Rn. 1 ff. (Vollziehungsfrist)
 
 ## Verfahrensarten im ZPO-Modus
 

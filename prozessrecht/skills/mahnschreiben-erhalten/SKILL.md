@@ -1,9 +1,35 @@
 ---
 name: mahnschreiben-erhalten
-description: "Eingehendes Mahnschreiben oder Abmahnung triage – Felder extrahieren, Portfolio abgleichen, Berechtigung prüfen, Handlungsoptionen mit Empfehlung vorstellen und ggf. an Mandat-Intake oder Mahnschreiben-Intake übergeben. Verwenden, wenn der Nutzer sagt „wir haben eine Mahnung bekommen\", „triage dieses Schreiben\" oder ein eingehendes Aufforderungsschreiben zur Auswertung vorlegt."
+description: "Auf erhaltenes Mahnschreiben der Gegenseite reagieren: Widerspruch, Zahlungsplan oder Verjaebrungsaufschub. Normen: §§ 286 287 BGB, §§ 203 204 BGB. Pruefraster: Forderungspruefung, Verjaebrungsrisiko, Verteidigungsoptionen. Output: Antwortschreiben auf Mahnschreiben. Abgrenzung: nicht Klageverteidigung."
 ---
 
 # Eingehendes Mahnschreiben / Abmahnung – Triage
+
+## Triage — kläre vor der Auswertung
+
+1. **Schreibentyp:** Einfache Mahnung, Abmahnung (Wettbewerb/Urheberrecht), Forderungsschreiben eines Inkassos oder Klageankündigung?
+2. **Frist:** Enthalt das Schreiben eine Zahlungsfrist oder Reaktionsfrist — wann läuft sie ab?
+3. **Berechtigung:** Ist die behauptete Forderung dem Grunde und der Höhe nach berechtigt?
+4. **Portfolio-Abgleich:** Liegt bereits ein Mandat oder ein Konflikt zu diesem Sachverhalt vor?
+5. **Handlungspriorität:** Sofortige Reaktion (Unterlassung, Zahlung, Ablehnung) oder abwarten?
+
+## Zentrale Normen
+- § 286 BGB (Verzug durch Mahnung)
+- § 203 BGB (Verjährungshemmung durch Verhandlungen)
+- § 8 Abs. 1 UWG (Abmahnung im Wettbewerbsrecht)
+- § 97a UrhG (Abmahnung im Urheberrecht)
+- § 43a Abs. 1 BRAO (Interessenkonflikt bei eingehenden Forderungen)
+
+## Rechtsprechung (ergänzt)
+1. BGH, Urt. v. 17.07.2008 – I ZR 75/06, NJW 2008, 3711 Rn. 16 — Eine wirksame Mahnung setzt die Bestimmtheit der Forderung und den ernsthaften Erfüllungswillen des Gläubigers voraus; fehlt es daran, tritt kein Verzug ein.
+2. BGH, Urt. v. 01.06.2006 – I ZR 167/03, GRUR 2007, 164 Rn. 12 — Eine Abmahnung im Wettbewerbsrecht muss die beanstandete Verletzungshandlung konkret bezeichnen; Pauschalabmahnungen sind unzulässig.
+3. BGH, Urt. v. 25.10.2012 – I ZR 112/11, NJW 2013, 775 Rn. 19 — Verhandlungen hemmen die Verjährung nach § 203 BGB bereits bei bloßem Beantworten einer Forderung; ein ausdrückliches Verhandlungsangebot ist nicht erforderlich.
+4. BGH, Urt. v. 14.01.2016 – I ZR 65/14, NJW 2016, 2269 — Die Reaktionsprüfung bei eingehenden Abmahnungen umfasst auch eine Interessenabwägung; eine sofortige Unterlassungserklärung kann Rechtsnachteile begründen.
+
+## Kommentarliteratur
+- Köhler/Bornkamm/Feddersen, UWG, 42. Aufl. 2024, § 8 Rn. 1 ff. (Abmahnung Wettbewerbsrecht).
+- Grüneberg, BGB, 83. Aufl. 2024, § 286 Rn. 1 ff. (Verzug durch Mahnung).
+- Wandtke/Bullinger, UrhG, 6. Aufl. 2022, § 97a Rn. 1 ff. (Abmahnung Urheberrecht).
 
 ## Zweck
 

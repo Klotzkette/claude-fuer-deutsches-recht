@@ -1,6 +1,6 @@
 ---
 name: anw-stundung-erlass-vollstreckungsaufschub
-description: "Antraege auf Stundung § 222 AO Erlass § 227 AO und Vollstreckungsaufschub § 258 AO bei Zahlungskrise des Mandanten. Stundung erhebliche Haerte ohne Gefaehrdung des Anspruchs. Erlass aus persoenlichen oder sachlichen Billigkeitsgruenden. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg. Verzinsung § 234 AO im Falle Stundung. Schreibvorlage Antrag Begruendung Sicherheitsleistung Ratenzahlungsplan."
+description: "Antraege auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann faellige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO ohne Anspruchsgefaehrdung. Erlass aus persoenlichen oder sachlichen Billigkeitsgruenden § 227 AO. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg § 258 AO Verzinsung bei Stundung § 234 AO. Output Antrag mit Begruendung Sicherheitsleistung Ratenzahlungsplan. Abgrenzung zu anw-aussetzung-vollziehung AdV und anw-insolvenzreife-pruefung-17-19-inso."
 ---
 
 # Stundung § 222 AO / Erlass § 227 AO / Vollstreckungsaufschub § 258 AO
@@ -27,7 +27,7 @@ Anwaltliche Beratung und Antragstellung beim Finanzamt zur Streckung der Zahlung
 - **§ 227 AO** — Erlass aus Billigkeitsgründen (sachlich oder persönlich); endgültiger Verzicht oder vorläufiger Erlass (§ 163 AO als materiellrechtliche Variante).
 - **§ 163 AO** — Abweichende Festsetzung aus Billigkeitsgründen (häufig als Vorgriff vor § 227 AO genutzt).
 - **§ 258 AO** — Vollstreckungsaufschub: einstweilige Einstellung oder Beschränkung der Vollstreckung; **kein Verzicht auf die Forderung**.
-- **§ 234 AO** — Stundungszinsen: regelmäßig 0,5 % pro Monat (= 6 % p. a.) **bis 31.12.2018**; seit 1.1.2019 nach BVerfG 1 BvR 2237/14 abgesenkt auf 0,15 % pro Monat (= 1,8 % p. a.) bei Erstattungs- und Nachzahlungszinsen § 233a AO — Stundungszinsen sind allerdings weiterhin 0,5 %/Monat (gesonderter Zinssatz; SteuerReformierung 2024 unverändert).
+- **§ 234 AO** — Stundungszinsen: regelmäßig 0.5 % pro Monat (= 6 % p. a.) **bis 31.12.2018**; seit 1.1.2019 nach BVerfG 1 BvR 2237/14 abgesenkt auf 0.15 % pro Monat (= 1.8 % p. a.) bei Erstattungs- und Nachzahlungszinsen § 233a AO — Stundungszinsen sind allerdings weiterhin 0.5 %/Monat (gesonderter Zinssatz; SteuerReformierung 2024 unverändert).
 - **§ 240 AO** — Säumniszuschläge: 1 % pro angefangenem Monat der Säumnis (Mindestbetrag 5 EUR). Bei Stundung **keine** Säumniszuschläge.
 - **AEAO** zu §§ 222, 227, 258 AO — Verwaltungsanweisungen mit Praxis-Maßstab.
 
@@ -37,7 +37,7 @@ Anwaltliche Beratung und Antragstellung beim Finanzamt zur Streckung der Zahlung
 - BFH, Urt. v. 28.2.2012 — VII R 36/11 (Sicherheitsleistung als Regel; Verzicht nur bei nachgewiesener Unmöglichkeit).
 - BFH, Urt. v. 21.10.1987 — X R 29/81 (Persönlicher Billigkeitserlass: wirtschaftliche Existenz dauerhaft gefährdet).
 - BFH, Urt. v. 11.2.1987 — II R 9/84 (Sachlicher Billigkeitserlass: Gesetzesergebnis steht im Widerspruch zum Gesetzeszweck).
-- BVerfG, Beschl. v. 8.7.2021 — 1 BvR 2237/14 (Zinssatzhöhe § 233a AO verfassungswidrig; Folgewirkung auf Stundungszinsen umstritten — § 234 AO bislang unverändert 0,5 %/Monat).
+- BVerfG, Beschl. v. 8.7.2021 — 1 BvR 2237/14 (Zinssatzhöhe § 233a AO verfassungswidrig; Folgewirkung auf Stundungszinsen umstritten — § 234 AO bislang unverändert 0.5 %/Monat).
 
 ## Drei-Stufen-Vorgehen
 
@@ -170,4 +170,4 @@ angebot]
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 234 AO Stundungszinssatz aktuell unverändert 0,5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu § 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform der Säumnis-/Stundungszinsen aktualisieren.
+Stand: 05/2026. § 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu § 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform der Säumnis-/Stundungszinsen aktualisieren.

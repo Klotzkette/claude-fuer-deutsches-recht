@@ -1,12 +1,55 @@
 ---
 name: elsj-juristische-sicherung
-description: "Sichert bei verständlichen Fassungen juristischer Texte Rechte, Pflichten, Fristen, Beträge, Rechtsfolgen, Ausnahmen und Unsicherheiten gegen Bedeutungsverlust."
+description: "Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verloren gehen: Rechte Pflichten Fristen Betraege Rechtsfolgen Ausnahmen. Normen §§ 133 157 BGB Auslegungspflicht. Pruefraster Rechte-Vollstaendigkeit Pflichten-Sicherung Fristen-Erhalt Rechtsfolgen-Klarheit Ausnahmen-Abbildung. Output juristische Sicherungs-Checkliste gesicherte Fassung. Abgrenzung zu elsj-einfache-sprache (Uebertragung) und elsj-qualitaetsgate (Endpruefung)."
 ---
 
 # Juristische Sicherung
 
 Nutze diesen Skill vor und nach jeder Übertragung.
 
+
+## Triage zu Beginn
+1. Welche Fristen kommen im Originaltext vor — Datum, Fristbeginn, Fristende, Folgen?
+2. Welche Pflichten (Muss-Handlungen) und welche Rechte (Kann-Optionen) sind enthalten?
+3. Gibt es Ausnahmen oder Vorbehalte, die praktisch wichtig sein koennen?
+4. Sind rechtliche Unsicherheiten oder offene Pruefungen im Originaltext erkennbar?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 26.09.2007 - VIII ZR 143/06, NJW 2008, 214 — Fehlende oder falsche Belehrung ueber Widerrufsrecht fuehrt zur Verlaengerung der Widerrufsfrist; Fristangaben muessen praezise sein.
+- BGH, Urt. v. 15.05.2014 - III ZR 368/13, NJW 2014, 2284 — Beratungspflicht des Anwalts umfasst Hinweis auf alle relevanten Fristen, auch wenn Mandant diese nicht erfragt.
+- BVerwG, Urt. v. 21.09.2010 - 4 C 1.10, NVwZ 2011, 115 — Rechtsbehelfsbelehrung in Bescheiden muss vollstaendig und unmissverstaendlich sein; fehlende Belehrung verlaengert Frist auf ein Jahr.
+- BVerfG, Beschl. v. 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 — Rechtsschutz setzt voraus, dass Buerger Fristen und Rechtsmittel verstehen koennen.
+
+## Zentrale Normen
+- § 58 VwGO — Rechtsbehelfsbelehrung und Fristverlaengerung bei fehlerhafter Belehrung
+- § 355 BGB — Widerrufsrecht: Frist, Belehrung, Folgen bei fehlender Belehrung
+- § 214 BGB — Wirkung der Verjährung
+- § 130 BGB — Zugang als Fristbeginn
+
+## Kommentarliteratur
+- Bredel/Maaß, Leichte Sprache, 2016, Kap. 5.3 (Fristen und Rechtsfolgen verstaendlich darstellen)
+- MüKoBGB/Fritsche § 355 Rn. 10-25 (Widerrufsbelehrung: Form und Verstaendlichkeit)
+
+## Output-Template: Juristische Sicherungs-Matrix
+
+```
+## Juristische Sicherung — Pruefvermerk
+
+Dokument: [TITEL / AKTENZEICHEN]
+Geprueft am: [DATUM]
+
+| Kategorie | Original | Erhalten? | Bemerkung |
+|---|---|---|---|
+| Frist | [Datum/Dauer] | ja/nein | [Fristbeginn, -ende, Folge] |
+| Pflicht | [Muss-Handlung] | ja/nein | [Nicht abgeschwaecht?] |
+| Recht | [Kann-Option] | ja/nein | [Als Option formuliert?] |
+| Risiko | [Rechtsfolge] | ja/nein | [Klar aber nicht drohend?] |
+| Ausnahme | [wenn vorhanden] | ja/nein | [Gesondert erklaert?] |
+| Unsicherheit | [offene Fragen] | ja/nein | [Nicht als sicher dargestellt?] |
+
+Gesamtbefund: freigabereif / nacharbeiten
+Offene Punkte: [...]
+```
 ## Bedeutungs-Matrix
 
 Erstelle eine Tabelle:

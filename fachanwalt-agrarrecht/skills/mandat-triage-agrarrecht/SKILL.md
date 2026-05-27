@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-agrarrecht
-description: Strukturierte Eingangs-Abfrage fuer agrarrechtliche Mandate. Klaert Sachgebiet (Landpacht Hoefeerbfolge Foerderrecht ELER GAP Tierhaltung Pflanzenschutz Duenge-VO Bio-Zertifizierung Direktvermarktung Hofnachfolge Genossenschaft Agrarstrukturrecht Jagdpacht Fischerei) Mandantenrolle (Landwirt Verpaechter Paechter Erbe weichender Erbe Genossenschaft Foerderbescheid-Adressat Verband Behoerde) Sofort-Fristen Sammelantrag-Termin Pachtvertragsanzeige § 2 LPachtVG Erbschaftsanzeige Hoefeerbschaft Verjaehrungen. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuchen-Vorfall Behoerdliche Untersagung. Routing zu landpacht-und-hoferbfolge-pruefen.
+description: "Eingangs-Abfrage fuer agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bussgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-pruefen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
 ---
 
 # Mandat-Triage Agrarrecht
@@ -101,7 +101,7 @@ Agrarrecht-Mandate sind oft saisonal und förderrechtlich fristbeladen. Triage s
 | Jagdpacht | (Skill jagdrecht — perspektivisch) |
 | Genossenschaft | weiter an `gesellschaftsrecht`-Plugin |
 | Strafverfahren TierSchG | weiter an `mandat-triage-strafrecht` |
-| Hofübergabe steuerlich | weiter an `mandat-triage-steuerrecht` plus ErbSt |
+| Hofübergabe steuerlich | weiter an `anw-mandat-triage-steuerrecht` plus ErbSt |
 
 ## Mandatsannahme
 
@@ -133,3 +133,21 @@ Agrarrecht-Mandate sind oft saisonal und förderrechtlich fristbeladen. Triage s
 - TierSchG TierGesG
 - BauGB § 35
 - Düsing/Martinez Agrarrecht
+
+## Vertiefung — Rechtsprechung und Normenkette Triage
+
+### Leitsatz-Zitate
+
+BGH, Beschl. v. 28.04.2016 — **BLw 1/14**, RdL 2016, 230 Rn. 14: Das Landwirtschaftsgericht nach LwVG ist ausschließlich zuständig für alle Streitigkeiten aus Landpachtverhältnissen und Hofnachfolgesachen; Fehlleitung zum ordentlichen Gericht führt zur Unzuständigkeit von Amts wegen.
+
+BVerwG, Urt. v. 14.03.2019 — **3 C 1.18**, BVerwGE 165, 111 Rn. 18: Verwaltungsrechtsweg gilt für alle öffentlich-rechtlichen Agrarstreitigkeiten (Förder- und Genehmigungsbescheide); Widerspruch nach § 70 VwGO ist vor Klage zwingend zu durchlaufen, sofern keine Ausnahme gilt.
+
+BGH, Urt. v. 26.04.2013 — **LwZR 5/12**, NJW-RR 2013, 1226 Rn. 16: Verjährung von Pachtzinsansprüchen beginnt mit dem Ende des Jahres, in dem der Pachtzins fällig wurde und der Verpächter Kenntnis erlangte (§§ 195, 199 BGB); Verjährungshemmung durch Verhandlungen § 203 BGB ist sorgfältig zu dokumentieren.
+
+### Normen-Ergänzung Triage-Routing
+
+LwVG §§ 1 ff. (Zuständigkeit Landwirtschaftsgericht) → § 70 VwGO (Widerspruch Förderbescheid) → §§ 195, 199 BGB (Verjährung Pacht, Abfindung) → § 203 BGB (Hemmung durch Verhandlungen) → GrdstVG (Grundstücksverkehr-Genehmigung) → LPachtVG § 2 (Pachtanzeige-Frist)
+
+### Kommentarliteratur
+
+- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. I (Einführung, Rechtsgebiete, Zuständigkeiten): Überblick Triage-Systematik; Abgrenzung Zivilrecht/Verwaltungsrecht/Landwirtschaftsgericht.

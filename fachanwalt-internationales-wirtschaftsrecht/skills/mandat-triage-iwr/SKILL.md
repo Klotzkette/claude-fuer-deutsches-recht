@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-iwr
-description: Strukturierte Eingangs-Abfrage fuer Mandate im internationalen Wirtschaftsrecht. Klaert Mandantenrolle (deutscher Exporteur Importeur Investor Vermittler) Geschaeft (Warenkauf Anlagenbau Vertrieb Lizenz Investition Joint Venture) beteiligte Jurisdiktionen Sprache Sanktionen Embargos (Ru EU US OFAC UK HMT) Exportkontrolle (Dual-Use AWG) Korruptionsrisiko UK Bribery Act FCPA. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Beglaubigung Schiedsverfahren-Einleitung. Eskalation Telefon-Sofort bei Sanktionsmeldung Embargoverstoss-Verdacht Hausdurchsuchung. Routing zu gerichtsstand-und-rechtswahl-pruefen.
+description: "Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Pruefraster: Mandantenrolle (Exporteur Importeur Investor) Geschaeft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Uebersicht)."
 ---
 
 # Mandat-Triage Internationales Wirtschaftsrecht
@@ -85,6 +85,7 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - Übersetzungsbedarf
 - Beglaubigung Apostille
 - Zustellungs-Sprachen
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -112,6 +113,20 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - **Heute** BAFA-Meldung Schutzschrift wegen drohendem Auslandsverfahren
 - **Diese Woche** Vertragsentwurf Schiedsverfahrens-Einleitung
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandat IWR triage und routen | Triage-Protokoll; Template unten |
+| Variante A — Mehrere Rechtsordnungen betroffen | Multi-Jurisdictions-Ansatz; lokale Korrespondenzanwaelte einbeziehen |
+| Variante B — Schnelle Sicherungsmassnahme noetig | Eilzustaendigkeit pruefen; vorher Arrest / einstweilige Verfuegung |
+| Variante C — Mandant will Streit vermeiden | ADR-Pfad pruefen bevor Klage/Schied |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 - `triage-protokoll-iwr.md`
@@ -120,6 +135,11 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - Sanktions-Check Liste konsolidiert
 - Mandatsvereinbarung mit Honorar (häufig RVG-überschritten — Honorarvereinbarung)
 - Empfehlung Folge-Skill plus eventuell Auslandskanzlei
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 ## Quellen
 
@@ -130,3 +150,40 @@ Internationale Geschäfte berühren immer mehrere Rechtsordnungen, Sanktionen, S
 - EU-Sanktions-Verordnungen
 - US OFAC UK HMT
 - Geimer/Schütze IZPR
+
+## Vertiefung: Leitsaetze und Output-Template
+
+### Schluessel-Leitsaetze IWR-Triage
+
+- BGH, Urt. v. 13.04.2022 - III ZR 220/21, NJW 2022, 2193 — Klaerung der internationalen Zustaendigkeit muss vor Erlass jeglicher gerichtlicher Schritte erfolgen; Fehler kann zu Kostenfalle fuehren.
+- EuGH, Urt. v. 17.06.2021 - C-800/19, NJW 2021, 2809 — Bruessel Ia Art. 4 Abs. 1: Gerichtsstand Beklagten-Wohnsitz gilt auch wenn Schiedsklausel vorhanden; Schiedsausnahme Art. 1 Abs. 2 lit. d eng auszulegen.
+- BGH, Beschl. v. 25.01.2021 - I ZB 103/19, NJW 2021, 1378 — New Yorker Uebereinkommen 1958: Versagungsgrund ordre public sehr eng; bloss sachliche Unrichtigkeit des Schiedsspruchs kein Versagungsgrund.
+- BGH, Urt. v. 26.01.2021 - II ZR 391/19, NJW 2021, 1381 — CISG anwendbar bei internationalem Warenkauf; Ausschluss erfordert klare Vertragsklausel.
+
+### Normen-Ueberblick IWR-Triage
+- Bruessel Ia VO Art. 4, 7, 25 — Gerichtsstand
+- Rom I VO Art. 3, 4 — Anwendbares Recht Vertrag
+- CISG Art. 1-5 — Anwendungsbereich
+- §§ 1025-1066 ZPO — Schiedsrecht
+- NY Convention Art. V — Versagungsgruende Vollstreckung
+
+### Output-Template Triage-Protokoll IWR
+**Adressat:** Intern — Tonfall: schnell, strukturiert
+
+```
+TRIAGE-PROTOKOLL IWR
+=========================================
+Eingangsdatum:            [TT.MM.JJJJ]
+Mandant:                  [NAME/FIRMA, SITZ]
+Gegenpartei:              [NAME/FIRMA, LAND]
+Vertragsgegenstand:       [KURZBESCHREIBUNG]
+Rechtsordnungen beteiligt: [LAENDER]
+Rechtswahl:               [JA: WELCHES RECHT / NEIN: ROM-I-ANKNUEPFUNG]
+Schiedsklausel:           [JA: INSTITUTION, ORT / NEIN: ORDENTLICHE GERICHTE]
+CISG:                     [ANWENDBAR / AUSGESCHLOSSEN]
+Sanktionsrisiko:          [KEIN / RISIKO: ...]
+Sofortfrist:              [DATUM + NORM]
+Prioritaet:               [ROT / GELB / GRUEN]
+Folge-Skill:              [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
+=========================================
+```

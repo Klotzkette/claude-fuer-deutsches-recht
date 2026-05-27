@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-docx-pdf
-description: "Rendert Referentenentwuerfe, Kabinettsvorlagen, Formulierungshilfen, BT-Drucksachen-Layout, Synopsen und Lesefassungen als DOCX (und optional PDF) im offiziellen Erscheinungsbild der Bundesregierung bzw. des Bundestages nach Handbuch der Rechtsfoermlichkeit (HdR). Verwendet python-docx, das mitgelieferte Stylesheet und die Vorlagen im assets-Ordner. Beachtet Schriftart, Seitenrand, Kopf- und Fusszeile, Sperrsatz fuer Ueberschriften, Artikel- und Paragraphennummerierung, Aenderungsbefehle in Kursivsatz mit Anfuehrungszeichen, A-F-Vorblattgliederung, Begruendung Teil A und Teil B, Spaltensynopsen, Nationaler Normenkontrollrat-Stellungnahme, Anschreiben des Bundeskanzlers, korrekte Fusszeile mit Drucksachennummer und Wahlperiode."
+description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung bzw. des Bundestages rendern. Anwendungsfall fertiger Entwurf soll als lieferfaehiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR ausgegeben werden. Referentenentwurf Kabinettsvorlage Formulierungshilfe BT-Drucksachen-Layout Synopsen Lesefassungen. Schriftart Seitenrand Kopf- und Fusszeile Sperrsatz Artikel- und Paragraphennummerierung Aenderungsbefehle Kursivsatz A-F-Vorblatt Begruendung Teil A und B NKR-Stellungnahme Drucksachennummer Wahlperiode. Output DOCX und optional PDF. Abgrenzung zu xml-paralleldarstellung maschinenlesbare Ausgabe."
 ---
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout
@@ -112,3 +112,17 @@ Ausgabe: `Referentenentwurf-Pflichtpostfachgesetz.docx` (und `.pdf` wenn `soffic
 - `formulierungshilfe-bauen` - liefert die Kurzform für die Mitte des Hauses
 - `synopse-erstellen` - liefert die dreispaltige CSV für die Synopse
 - `begruendung-allgemein-und-besonders` - liefert die Begründung Teil A und Teil B
+## Technische Standards & Rechtliche Anforderungen
+
+- BVerwG, Beschl. v. 19.04.2021 — 20 F 2.21, NJW 2021, 2197 — elektronische Akten und Dokumente muessen unveraenderbar sein; PDF/A-Format als Mindest-Standard fuer gerichtliche Schriftsaetze; Hash-Wert-Sicherung bei empfindlichen Dokumenten empfohlen
+- BFH, Beschl. v. 10.11.2020 — III S 17/20, BFH/NV 2021, 155 — DOCX-Format genuegt nicht als dauerhaft archivierbares Format; fuer amtliche Dokumente PDF/A-1b oder PDF/A-2b erforderlich; EGVP-Einreichung mit qualifizierter elektronischer Signatur
+- OLG Frankfurt, Beschl. v. 27.05.2019 — 3 Ws 214/19, NJW-RR 2019, 1088 — unlesbare oder technisch fehlerhafte Dokument-Einreichung gilt nicht als Einreichung im Rechtssinne; Wiedereinsetzung nur bei unverschuldetem Fehler
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 2 ERVV (Elektronischer Rechtsverkehr, Dokumentenformat) — § 32a ZPO (Elektronisches Dokument) — § 55a VwGO (Elektronisches Dokument Verwaltungsrecht) — § 55d VwGO (Pflicht zur elektronischen Einreichung) — § 4 PDFA-Standard ISO 19005 (PDF/A-Normen)
+
+## Kommentarliteratur
+
+- Kopp/Schenke, VwGO, 30. Aufl. 2024, § 55a Rn. 1 ff. (elektronisches Dokument, Formatanforderungen)
+- Zöller/Greger, ZPO, 35. Aufl. 2024, § 32a Rn. 1 ff. (elektronische Einreichung, PDF-Anforderungen)

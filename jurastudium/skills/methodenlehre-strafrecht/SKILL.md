@@ -5,6 +5,29 @@ description: "Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechen
 
 # Methodenlehre — Strafrecht
 
+
+## Triage zu Beginn
+1. Welches Strafrechts-Thema wird erarbeitet: Tatbestand, Rechtswidrigkeit, Schuld oder Konkurrenzen?
+2. Gibt es ein konkretes Fallbeispiel oder wird die Methodik abstrakt geuebt?
+3. Welcher Aspekt ist unklar: objektiver Tatbestand, subjektiver Tatbestand oder Trennungsfragen?
+4. Liegt ein Analogieproblem oder ein Bestimmtheitsproblem (Art. 103 Abs. 2 GG) vor?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 02.11.2011 - 2 StR 375/11, NJW 2012, 1093 — Bedingter Vorsatz als methodisch anspruchsvolles Tatbestandsmerkmal: Wissens- und Willenselement muessen getrennt geprueft werden.
+- BGH, Urt. v. 11.12.2018 - 2 StR 391/18, NStZ 2019, 469 — Notwehr § 32 StGB: Gegenwaertigkeit des Angriffs und Erforderlichkeit der Verteidigung als zwingend getrennte Pruefungsschritte.
+- BVerfG, Beschl. v. 23.06.2010 - 2 BvR 2559/08, BVerfGE 126, 170 — Bestimmtheitsgebot Art. 103 Abs. 2 GG: Analogieverbot ist strikt; nur gesetzlich beschriebenes Verhalten ist strafbar.
+- BGH, Urt. v. 28.06.2018 - 3 StR 108/18, NStZ 2019, 28 — Konkurrenzlehre: Tateinheit (§ 52 StGB) erfordert teilweise Identitaet der Tatbeitraege; Tatmehrheit (§ 53 StGB) bei vollstaendig trennbaren Handlungen.
+
+## Zentrale Normen
+- §§ 13-35 StGB — Allgemeiner Teil: methodischer Kern des Strafrechts
+- Art. 103 Abs. 2 GG — Bestimmtheitsgebot: Analogieverbot und seine Auswirkung auf Auslegung
+- §§ 52, 53 StGB — Konkurrenzlehre: Tateinheit und Tatmehrheit
+- § 15 StGB — Vorsatz als Regelform; Fahrlässigkeit nur bei ausdrucklicher Normierung
+
+## Kommentarliteratur
+- Fischer StGB §§ 13-35 Rn. 1-200 (Allgemeiner Teil: vollstaendige Methodendarstellung)
+- Schoenke/Schroeder StGB Vor § 13 Rn. 1-150 (Verbrechensaufbau und Methodik)
+
 ## Zweck
 
 Strafrecht hat den methodisch strengsten Aufbau aller drei großen Rechtsgebiete: dreistufig, formal trennscharf, mit Verboten, die in anderen Rechtsgebieten nicht gelten (Analogieverbot zulasten des Täters, Bestimmtheitsgebot, Rückwirkungsverbot, Schuldprinzip). Wer das innere Gerüst kennt, kann jede Klausur lösen — auch ohne den konkreten Tatbestand auswendig zu wissen.

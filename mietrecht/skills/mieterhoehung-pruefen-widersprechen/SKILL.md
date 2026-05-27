@@ -62,3 +62,18 @@ Erzeuge ein höflich-bestimmtes Schreiben mit:
 3. Eindeutige Erklärung (Zustimmung, Teilzustimmung, Verweigerung).
 4. Aufforderung zur schriftlichen Bestätigung.
 5. **Disclaimer am Ende** — Hinweis, dass dies kein anwaltliches Schreiben ist und der Mieter sich beraten lassen sollte.
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 Rn. 28: Ein qualifizierter Mietspiegel bindet das Gericht als sachverstaendiges Zeugnis; Gegenbeweis durch Vermieter erfordert eigenes Sachverstaendigengutachten.
+- BGH, Urt. v. 21.09.2022 — VIII ZR 188/21, NJW 2022, 3580 Rn. 22: Formelle Anforderungen an Mieterhoehungsverlangen (§ 558a BGB) sind praezise; fehlerhafte Wohnlageangabe macht Verlangen unwirksam.
+- BGH, Urt. v. 19.07.2023 — VIII ZR 275/22, NJW 2023, 2893: Teilzustimmung zu Mieterhoehung ist moeglich und sinnvoll, wenn bestimmter Teil des Verlangens begruendet ist; Teilzustimmung beendet Verzugsrisiko bezueglich des anerkannten Teils.
+
+## Paragrafenkette
+
+§§ 558, 558a, 558b, 558c, 558d BGB
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 558 ff. BGB
+- BeckOK Mietrecht — §§ 558 ff. Mietspiegel und Kappungsgrenze

@@ -5,6 +5,18 @@ description: "Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 Gmb
 
 # GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag
 
+## Triage zu Beginn
+
+Vor Beginn der Gruendungsbegleitung klaeren:
+
+1. **Rechtsform sicher?** GmbH oder UG (haftungsbeschraenkt, § 5a GmbHG)? Bei Stammkapital < 25.000 EUR: UG; bei nur 1 Gesellschafter und 1 Geschaeftsfuehrer: Musterprotokoll (§ 2 Abs. 1a GmbHG) moeglich.
+2. **Gesellschafterkreis vollstaendig?** Alle Gesellschafter identifiziert, Geschaeftsfaehigkeit geprueft? Minderjaehrige: familiengerichtliche Genehmigung erforderlich?
+3. **Gegenstand erlaubnispflichtig?** Zahlungsdienste (§ 32 KWG), Finanzanlageberatung (§ 34f GewO), Immobilienmakler (§ 34c GewO), Gesundheit, Waffen? Genehmigung VOR Gruendung einholen.
+4. **Sacheinlagen?** Wird Stammkapital durch Sacheinlagen aufgebracht? → Sachgruendungsbericht (§ 5 Abs. 4 GmbHG) erforderlich; Zeitaufwand und Werthaltigkeitspruefung einplanen.
+5. **Geschaeftsfuehrer geprueft?** Bestellungshindernisse nach § 6 Abs. 2 GmbHG ausgeschlossen? (insb. Insolvenzstraftaten, Betrug, Untreue)
+6. **Transparenzregister-Pflicht bekannt?** Wirtschaftlich Berechtigte (§ 3 GwG) identifiziert? Eintragungsfrist 2 Wochen nach Gruendung.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
 ## Zweck
 
 Dieser Skill deckt den gesamten Gründungsprozess einer GmbH ab: Entwurf und
@@ -80,6 +92,9 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
 
 ## Ablauf
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 1. **Vorbereitung** – Firmenrecherche beim zuständigen Handelsregister und DPMA
    (Namensähnlichkeit); Gegenstandsformulierung; Bestellungshindernis-Prüfung
    § 6 Abs. 2 GmbHG; ggf. behördliche Genehmigungen vorab einholen.
@@ -113,13 +128,102 @@ Haftungsbeschränkung, Mindestkapital, Gründungsformalien, Dauer und Kosten.
      Fragebogen.
    - Bankverbindung: Geschäftskonto für Stammkapital und laufenden Zahlungsverkehr.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — GmbH gruenden nach Standardprogramm | Gruendungsprotokoll nach Ablauf; Template unten |
+| Variante A — Gruendung eilt keine Zeit fuer Musterprotokoll | Musterprotokoll-GmbH § 2 Abs. 1a GmbHG als Schnelloption |
+| Variante B — Gesellschafter aus verschiedenen Laendern | Notarielle Gruendung im Inland; Vollmacht aus dem Ausland pruefen |
+| Variante C — Gruender will erst UG dann Hochstufung | UG-Gruendung zuerst; Hochstufung nach Kapitalaufbau |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabeformat
 
-- **Gründungs-Checkliste** (Tabelle): Schritt | Norm | Verantwortlich | Frist.
-- **Gesellschaftsvertragsentwurf** (Schriftsatz): Mindestinhalt § 3 GmbHG;
-  optionale Klauseln (Vinkulierung, Wettbewerbsverbot, Nachschusspflicht).
-- **Mandantenmemo** (Gutachtenstil): Kapitalaufbringungsrisiken, Vorgesellschaftshaftung,
-  UG-Vergleich.
+- **Gruendungs-Checkliste** (Tabelle): Schritt | Norm | Verantwortlich | Frist.
+- **Gesellschaftsvertragsentwurf** (Schriftsatz): Mindestinhalt § 3 GmbHG; optionale Klauseln (Vinkulierung, Wettbewerbsverbot, Nachschusspflicht).
+- **Mandantenmemo** (Gutachtenstil): Kapitalaufbringungsrisiken, Vorgesellschaftshaftung, UG-Vergleich.
+
+
+## Output-Template
+
+**Adressat:** Gruender / Mandant — Tonfall: verstaendlich-erklaerend, fristen-orientiert
+
+```
+GRUENDUNGS-CHECKLISTE
+Mandant: [NAME]
+Gesellschaft (geplante Firma): [FIRMA GmbH / UG (haftungsbeschraenkt)]
+Sitz (geplant): [ORT]
+Erstellt von: [NAME], [KANZLEI]
+Datum: [TT.MM.JJJJ]
+
+> Vertraulich — Mandatsgeheimnis § 43a Abs. 2 BRAO.
+
+--- VORBEREITUNGSPHASE ---
+☐ Firmenrecherche Handelsregister / DPMA — Name verfuegbar: [JA / OFFEN]
+☐ Gesellschafterkreis vollstaendig — alle GF geprueft (§ 6 Abs. 2 GmbHG)
+☐ Erlaubnispflichtige Taetigkeit geprueft — Genehmigung: [NICHT ERFORDERLICH / BEANTRAGT]
+☐ Sacheinlagen: [KEINE / SACHGRUENDUNGSBERICHT ERFORDERLICH]
+☐ Stammkapital: [BETRAG EUR] (GmbH: mind. 25.000 EUR; UG: mind. 1 EUR)
+
+--- BEURKUNDUNG (§ 2 GmbHG) ---
+☐ Notar: [NAME], [ORT] — Termin: [TT.MM.JJJJ]
+☐ Gesellschaftsvertrag beurkundet am: [DATUM / OFFEN]
+☐ Musterprotokoll: [JA — § 2 Abs. 1a GmbHG / NEIN — individueller GV]
+☐ Gesellschafterbeschluesse (GF-Bestellung § 46 Nr. 5 GmbHG) beurkundet
+
+--- STAMMKAPITAL-EINZAHLUNG (§ 7 Abs. 2 GmbHG) ---
+☐ Geschaftskonto eroeffnet bei: [BANK]
+☐ Einzahlung: [BETRAG EUR] eingezahlt am: [DATUM] (mind. 12.500 EUR bei GmbH vor Anmeldung)
+☐ Einzahlungsnachweis: [VORHANDEN / AUSSTEHEND]
+
+--- HANDELSREGISTERANMELDUNG (§ 7 GmbHG) ---
+☐ Versicherung GF (§ 8 Abs. 3 GmbHG) unterzeichnet: [TT.MM.JJJJ]
+☐ Anmeldung durch Notar eingereicht am: [TT.MM.JJJJ]
+☐ HRB-Nummer vergeben: [NUMMER / AUSSTEHEND]
+☐ Eintragung erfolgt am: [TT.MM.JJJJ / AUSSTEHEND]
+
+--- NACHGELAGERTE PFLICHTEN ---
+☐ Gewerbeanmeldung § 14 GewO — Frist: [4 Wochen nach Betriebsaufnahme] — erledigt: [DATUM / OFFEN]
+☐ Transparenzregister § 20 GwG — Frist: 2 Wochen nach Eintragung ([TT.MM.JJJJ]) — erledigt: [DATUM / OFFEN]
+☐ Steuerliche Erfassung ELSTER — Fragebogen abgesandt: [DATUM / OFFEN]
+☐ IHK-Mitgliedschaft — Beitragsbescheid abgewartet: [JA / OFFEN]
+
+--- KOSTEN (SCHAETZUNG) ---
+Notargebuehren (GnotKG): ca. [BETRAG EUR] (abhaengig vom Geschaeftswert)
+Gerichtsgebuehren Handelsregister: ca. [BETRAG EUR]
+Beratungshonorar: [BETRAG EUR / nach RVG / Pauschalhonorar]
+Gesamtschaetzung: ca. [BETRAG EUR]
+
+--- STATUS GESAMT ---
+Phase: [VORBEREITUNG / BEURKUNDUNG / EINZAHLUNG / ANMELDUNG / ABGESCHLOSSEN]
+Naechster Schritt: [AKTION] — Frist: [DATUM]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+
+## Rote Schwellen
+
+- **Handeln vor HR-Eintragung ohne Hinweis auf Vorgesellschaftshaftung** — § 11 Abs. 2 GmbHG: persoenliche Haftung der Handelnden; Mandant explizit warnen.
+- **Stammkapital nicht oder zu wenig eingezahlt vor Anmeldung** — § 7 Abs. 2 GmbHG: mind. 12.500 EUR vor Anmeldung; Registergericht lehnt sonst Eintragung ab.
+- **Bestellungshindernis § 6 Abs. 2 GmbHG uebersehen** — Vorstrafe des Geschaeftsfuehrers fuehrt zur Ablehnung der Eintragung; Strafregisterauszug vorab anfordern.
+- **Transparenzregister-Frist versaeumt** — Bussgeld bis 1.000.000 EUR (§ 56 Abs. 1 GwG); 2-Wochen-Frist ab Eintragung sofort im Fristenbuch verankern.
+- **Erlaubnispflichtige Taetigkeit ohne Genehmigung aufgenommen** — Ordnungswidrigkeitsrisiko, Betriebsuntersagung; Genehmigung VOR Aufnahme der Taetigkeit einholen.
 
 ## Beispiel
 

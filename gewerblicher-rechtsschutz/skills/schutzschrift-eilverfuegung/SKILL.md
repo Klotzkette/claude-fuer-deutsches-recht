@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-eilverfuegung
-description: Strukturierte Schutzschrift zur Abwehr drohender einstweiliger Verfuegung. Hinterlegung beim zentralen elektronischen Schutzschriftenregister § 945a ZPO. Aufbau Sachverhalt aus Sicht potenziell Antragsgegner rechtliche Gegenrede zu erwarteten Beanstandungen Glaubhaftmachung mit eidesstattlicher Versicherung Wertangabe Senatsauswahl Gerichts-Wahl. Ziel Antrag mit muendlicher Verhandlung oder Ablehnung des Antrags ohne mundliche Verhandlung. Gueltigkeit sechs Monate § 945a ZPO. Beratungs-Trigger nach Abmahnung Schreiben Verletzungs-Erstkontakt. Strategischer Einsatz bei verschiedenen Gerichten Senatsauswahl.
+description: "Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befuerchtet einstweilige Verfuegung ohne Anhoerung. § 945a ZPO Schutzschrift ZSER. Pruefraster: Hinterlegung zentrales elektronisches Schutzschriftenregister § 945a ZPO Sachverhalt Gegenrede Glaubhaftmachung eidesstattliche Versicherung Wertangabe Senatsauswahl. Output: Schutzschrift-Entwurf fuer sofortige Hinterlegung. Abgrenzung zu unterlassungsverlangen (Abwehr der Abmahnung selbst) und verletzungs-triage."
 ---
 
 # Schutzschrift gegen Eilverfügung
@@ -219,11 +219,18 @@ Es wird beantragt:
 - Hinterlegungs-Dokumentation BESR
 - Frist im Fristenbuch (sechs Monate Gültigkeit)
 
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 17.10.2019 – I ZR 34/18, GRUR 2020, 401 Rn. 22 – DSDS: Schutzschrift kann Dringlichkeitsvermutung widerlegen, wenn darin plausibel vorgetragen wird, dass kein Verfuegungsanspruch besteht; Gericht muss Schutzschrift vor Erlass lesen.
+- BGH, Urt. v. 06.02.2020 – I ZR 93/18, GRUR 2020, 660 Rn. 14: Selbstwiderlegung der Dringlichkeit bei UWG-Abmahnung; 4-Wochen-Frist ab Kenntnis; Schutzschrift muss auf die von Abmahner behauptete Dringlichkeitslage eingehen.
+- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 314 Rn. 27: Einstweilige Verfuegung wegen Markenverletzung setzt Wiederholungsgefahr voraus; Schutzschrift kann Wiederholungsgefahr mit eigener Unterlassungserklaerung widerlegen.
+- OLG Muenchen, Beschl. v. 05.03.2020 – 6 U 5709/19, GRUR-RS 2020, 9183 Rn. 18: Schutzschrift beim Zentralen Schutzschriftenregister (ZSSR) wirksam hinterlegt; Wirkung fuer alle deutschen Gerichte; Gueltigkeitsdauer 6 Monate.
+
 ## Quellen
 
 - ZPO §§ 921 935 945a
 - MarkenG § 24
 - UWG § 6
 - BGH I. Zivilsenat
-- Köhler/Bornkamm/Feddersen UWG
+- Koehler/Bornkamm/Feddersen UWG
 - Ingerl/Rohnke MarkenG

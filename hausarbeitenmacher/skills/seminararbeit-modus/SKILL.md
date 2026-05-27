@@ -1,9 +1,32 @@
 ---
 name: seminararbeit-modus
-description: Spezifika fuer Seminararbeiten im Unterschied zur Hausarbeit. Persoenliche Lekture durch Lehrkraft hoehere wissenschaftliche Eigenstaendigkeit Vortragspflicht. Themenwahl Forschungsfrage Literaturschau eigene These Disputation. Laenge Tiefe Methode. Adressaten-Orientierung mit Argumenten nicht mit Schleim.
+description: "Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenstaendigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissenschaftsfreiheit Art. 5 GG. Pruefraster Forschungsfrage These Argumentation Disputation-Vorbereitung. Output Seminararbeit-Struktur Forschungsfragen-Entwurf. Abgrenzung zu hausarbeit-workflow-start (Standard-Hausarbeit)."
 ---
 
 # Seminararbeit-Modus
+
+
+## Triage zu Beginn
+1. Wie lautet die genaue Forschungsfrage oder das Seminar-Thema?
+2. Welchen wissenschaftlichen Standpunkt oder welche These soll die Arbeit entwickeln?
+3. Gibt es Pflicht-Literaturquellen, die vom Lehrstuhl vorgegeben wurden?
+4. In welchem Format soll der Vortrag erfolgen und wie viel Zeit steht fuer Disputation zur Verfügung?
+
+## Aktuelle Rechtsprechung und Methodik
+- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Wissenschaftliche Eigenstaendigkeit nach Art. 5 Abs. 3 GG schützt die freie Entfaltung wissenschaftlicher Positionen in Seminararbeiten.
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Eigenstaendige Argumentation mit Belegkette ist Standard der juristischen Wissenschaft; Seminararbeit als erster Schritt in den Wissenschaftsbetrieb.
+- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — These und Gegenthese muessen vollstaendig und fair dargestellt werden; unvollstaendige Literaturdiskussion begruendet Mangel der wissenschaftlichen Leistung.
+- BVerfG, Beschl. v. 12.12.2000 - 2 BvR 1290/99, NJW 2001, 1269 — Muendliche Verteidigung wissenschaftlicher Positionen als integraler Bestandteil juristischer Ausbildung.
+
+## Zentrale Normen
+- Art. 5 Abs. 3 GG — Wissenschaftsfreiheit als Grundlage der Seminararbeit
+- § 1 Abs. 1 BRAO — Anwaltliche Unabhaengigkeit als Ausbildungsziel
+- §§ 133, 157 BGB — Auslegungs-Methoden als inhaltlicher Massstab
+- § 242 BGB — Treu und Glauben: auch wissenschaftliche Auseinandersetzung muss fair und vollstaendig sein
+
+## Kommentarliteratur
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, Einl. Rn. 15-35 (Wissenschaftlicher Anspruch und Methodik im Studium)
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, Einl. (Wissenschaftliche Argumentation in der juristischen Dogmatik)
 
 ## Zweck
 

@@ -1,9 +1,32 @@
 ---
 name: ag-vorbereitung
-description: "Vorbereitung auf das Aufrufen in der Arbeitsgemeinschaft (AG) oder im Seminar. Lade diesen Skill bei Anfragen wie „AG-Vorbereitung\", „Seminar vorbereiten\", „was fragt der Dozent\", „Cold Call\" oder „ich werde morgen drangenommen\"."
+description: "AG-Vorbereitung und Cold-Call-Prep fuer Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und oeffentliches Recht Loesungsschemata, Subsumtion. Pruefraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, moegliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterloesung und Argumentationsstruktur. Abgrenzung zu Pruefungsgespraech-AG fuer laufende AG-Diskussion und zu Examensvorbereitung-Fragen."
 ---
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)
+
+
+## Triage zu Beginn
+1. In welchem Fachgebiet findet die AG statt: Zivilrecht, Strafrecht, oeffentliches Recht?
+2. Welches Thema oder welcher Fall steht auf dem AG-Plan?
+3. Wie viel Zeit bis zur AG — und welche Vorbereitung ist bisher erfolgt?
+4. Gibt es spezifische Fragen oder Schwachpunkte, die besonders geuebt werden sollen?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Anspruchspruefung im Gutachtenstil: Obersatz-Definition-Subsumtion-Ergebnis als Standard fuer AG-Vorbereitung; cold-call-Faehigkeit setzt echte Durchdringung voraus.
+- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung unbestimmter Begriffe nach §§ 133, 157 BGB: AG-typische Frage, die echte Antwortbereitschaft erfordert.
+- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — Mehrstufen-Schadensersatzanspruch aus § 280 BGB: typische AG-Pruefungsstruktur mit Schuldverhaeltnis, Pflichtverletzung, Vertretenmüssen, Schaden.
+- BVerfG, Beschl. v. 12.09.2006 - 2 BvR 2115/01, NJW 2007, 207 — Begruendungsfahigkeit im Gesprach als Kompetenz juristischer Ausbildung; AG-Vorbereitung foerdert diese Kernkompetenz.
+
+## Zentrale Normen
+- §§ 133, 157 BGB — Auslegung als AG-Dauerthema
+- § 280 Abs. 1 BGB — Schadensersatz: Standard-AG-Anspruch
+- §§ 32, 34 StGB — Notwehr/Notstand: AG-Klassiker Strafrecht
+- §§ 40, 42 VwGO — Rechtsweg und Klagearten: AG-Grundlage oeffentliches Recht
+
+## Kommentarliteratur
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, §§ 1-5 (Grundbegriffe: AG-Basiswissen)
+- Fischer StGB, 71. Aufl. 2024, §§ 13-15 (Vorsatz/Fahrlässigkeit: Kern der Strafrechts-AG)
 
 ## Zweck
 

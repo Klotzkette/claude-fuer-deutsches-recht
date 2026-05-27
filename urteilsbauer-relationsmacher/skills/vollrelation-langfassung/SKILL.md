@@ -1,6 +1,6 @@
 ---
 name: vollrelation-langfassung
-description: "Ausformulierte Vollrelation im Schulstandard fuer Referendar/-innen- und Assessor/-innen-Pruefung mit gutachterlichem Stil bei Bedarf bis zu 20 Seiten Sachbericht Auslegung Zulaessigkeit Schluessigkeit Erheblichkeit Replik Beweisstation Tenorierung Nebenentscheidungen Selbstkontrolle. Schreibt jede Station als eigenen Abschnitt mit Obersatz Definition Subsumtion Ergebnis. Gegenstueck zur Kurzfassung im Skill relation-zivil."
+description: "Vollstaendige Relation im Schulstandard fuer Referendar-/Assessorpruefung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Pruefraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulaessigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung fuer Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer."
 ---
 
 # Vollrelation Langfassung - Schulstandard für Prüfung

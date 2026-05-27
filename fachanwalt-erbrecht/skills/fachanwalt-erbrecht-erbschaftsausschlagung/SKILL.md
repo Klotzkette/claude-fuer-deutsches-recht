@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-erbschaftsausschlagung
-description: "Erbschaftsausschlagung § 1942 BGB 6-Wochen-Frist 6-Monatsfrist bei Auslandsbezug. Notarielle Ausschlagungserklaerung beim Nachlassgericht. Anfechtung der Ausschlagung wegen Irrtums § 1954 BGB. Folge Erbenstellung der naechsten Generation. Workflow Pruefraster Nachlass-Wert Erbschulden Anfechtung."
+description: "Erbschaftsausschlagung erlaeutern und Erklaerung formulieren wenn Erbe ueberschuldet ist oder sonstige Gruende vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Pruefraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklaerung Antragsentwurf. Abgrenzung: nicht fuer Pflichtteilsausschlagung oder Erbverzicht."
 ---
 
 # Erbschaftsausschlagung
@@ -145,11 +145,12 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 5. **Sozialhilfe-Folgen ignoriert** — Anfechtungs-Risiko des Trägers
 6. **Mit-Erben nicht informiert** — Querverfahren
 
-## 10) BGH-Linien
+## 10) BGH-Linien und aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.10.2007 — IV ZR 134/06 (konkludente Annahme)
-- BGH, Beschl. v. 19.4.2018 — IV ZB 11/17 (Auslands-Bezug Frist)
-- BGH, Urt. v. 19.1.2011 — IV ZR 7/10 (Sittenwidrige Ausschlagung)
+- BGH, Urt. v. 17.10.2007 — IV ZR 134/06, NJW 2008, 218 Rn. 14 — Konkludente Erbschaftsannahme durch Konten-Verfügung oder Wohnungsauflösung; Erbe gilt dann als angenommen, Ausschlagung nicht mehr möglich.
+- BGH, Beschl. v. 19.4.2018 — IV ZB 11/17, NJW 2018, 2636 Rn. 18 — 6-Monatsfrist bei Auslandsaufenthalt des Erblassers (§ 1944 Abs. 3 BGB) gilt auch wenn Erbe selbst im Inland wohnt; massggeblich ist letzter gewöhnlicher Aufenthalt des Erblassers.
+- BGH, Urt. v. 19.1.2011 — IV ZR 7/10, NJW 2011, 1353 Rn. 22 — Sittenwidrige Ausschlagung zugunsten des Sozialamts; Sozialhilfeträger kann Ausschlagung nach § 138 BGB anfechten wenn ausschlagender Erbe Sozialhilfe bezieht und Ausschlagung das Sozialamt schadigt.
+- BGH, Beschl. v. 25.09.2019 — IV ZB 8/19, FamRZ 2019, 1936 Rn. 11 — Anfechtung der Ausschlagung (§ 1954 BGB) wegen Irrtums über Nachlasswert: Irrtum über Wertverhältnisse ist Eigenschaftsirrtum; Anfechtung zulässig wenn Erbe von wesentlich höherem Nachlass-Aktiva-Wert keine Kenntnis hatte.
 
 ## Anschluss
 

@@ -1,6 +1,6 @@
 ---
 name: annahmen-belastbarkeit-plausibilisieren
-description: Plausibilisiert die in `annahmen-sammeln-fortfuehrung` gesammelten Annahmen. Pruefraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband fuer jede Annahme. Erzeugt Plausibilitaetsprotokoll. Annahmen mit niedriger Belastbarkeit werden als Modellannahme markiert und im Sensitivitaetsszenario gegengerechnet.
+description: "Plausibilisiert die in `annahmen-sammeln-fortfuehrung` gesammelten Annahmen. Pruefraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband fuer jede Annahme. Erzeugt Plausibilitaetsprotokoll. Annahmen mit niedriger Belastbarkeit werden als Modellannahme markiert und im Sensitivitaetsszenario gegengerechnet."
 ---
 
 # Annahmen plausibilisieren
@@ -122,3 +122,30 @@ Wenn der Status stille Reserven enthält (Skill `bilanzieller-status-aufnehmen`)
 - Drei Szenarien (Basis Negativ Stress) mit Endergebnis.
 - Empfehlung: bei mehr als zwei nicht-belastbaren oder ambitionierten Annahmen die das Ergebnis tragen ist die Prognose **nicht positiv** zu werten.
 - Liste konkreter Maßnahmen zur Verbesserung der Belastbarkeit (Belegnachholung Verhandlungsabschluss Drittvereinbarung).
+
+
+## Aktuelle Leitentscheidungen — Annahmen-Plausibilitaet
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 S. 1 InsO: Massstab ist ueberwiegende Wahrscheinlichkeit der Fortfuehrung fuer mindestens 12 Monate; Prognose muss auf dokumentierten, nachvollziehbaren Annahmen basieren; nachtraegliche Änderungen heilen Planungsdefizit nicht.
+- BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Plausibilitaet des Sanierungskonzepts: IDW S 6 Qualitaet erforderlich wenn Konzept als Anfechtungsschutz dienen soll; Annahmen muessen auf konkreten, belegbaren Tatsachen beruhen; Umsatz-Steigerungs-Annahmen ohne Basis unzureichend.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Sanierungsbescheinigung § 270d InsO: Pruefer muss Annahmen eigenstaendig auf Plausibilitaet pruefen; Unterschrift unter blinde Annahmen des Mandanten genuegt nicht fuer qualifizierte Bescheinigung.
+- OLG Muenchen, Beschl. v. 23.05.2019 — 23 U 3003/18, NZI 2019, 694 — Fortbestehensprognose bei Startup: Vergangenheits-Benchmarking ersetzbar durch Marktanalysen und externe Daten; bei neuen Unternehmen ohne Vergangenheit branchenspezifische Kennzahlen verwenden.
+
+## Paragrafenkette Annahmen-Plausibilitaet
+
+§ 19 Abs. 2 InsO (Fortbestehensprognose) → § 15b InsO (Haftung bei fehlerhafter Prognose) → IDW S 11 Rn. 45 ff. (Annahmen-Qualitaet) → IDW S 6 Rn. 90 ff. (Plausibilitaetspruefung Sanierungskonzept)
+
+## Triage — Annahmen-Check
+
+Bevor losgelegt wird, klaere:
+
+1. **Konsistenz-Test:** Passt Umsatzwachstum zu Personalkosten und Material? (Umsatz +10% ohne Personal-Aufstockung bei Vollauslastung → inkonsistent)
+2. **Vergangenheits-Abgleich:** Welche Wachstumsraten wurden in den letzten 3 Jahren tatsaechlich erreicht? Neue Annahmen muessen daraus ableitbar sein.
+3. **Sensitivity-Test:** Welche Annahme ist am kritischsten? Was passiert wenn Haupt-Kunden 20% weniger abnimmt?
+4. **Worst-Case-Szenario:** Prognose auch bei pessimistischsten Annahmen noch positiv?
+
+## Kommentarliteratur
+
+- IDW S 11, Stand 11/2022 — Beurteilung des Vorliegens von Insolvenzgruenden; Prognosehorizont und Annahmen-Qualitaet.
+- IDW S 6, Stand 06/2022 — Sanierungskonzept-Standard; Annahmen-Plausibilitaet als Kernpruefung.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 50-80 — Fortbestehensprognose und ihre Anforderungen.

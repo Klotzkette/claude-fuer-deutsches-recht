@@ -295,3 +295,41 @@ Mindeststandard:
 
 ---
 *Dieser Skill ersetzt keine konkrete anwaltliche Beratung im Einzelfall.*
+
+
+## Triage — Ueberschuldungs-Pruefung § 19 InsO
+
+Bevor losgelegt wird, klaere:
+
+1. **Bilanzieller Status?** Aktiva kleiner als Passiva auf Basis von Fortfuehrungswerten (erste Stufe)?
+2. **Stille Reserven?** Grundstuecke, Beteiligungen, Patente zum Verkehrswert hoeher als Buchwert?
+3. **Sanierungsmassnahmen einbezogen?** Rangruecktritt, Patronatserklaerung, Kapitalzufuhr — bereits wirksam oder nur geplant?
+4. **Fortbestehensprognose positiv?** Dann keine Ueberschuldung trotz negativem Reinvermoegen (§ 19 Abs. 2 S. 1 InsO).
+5. **Frist?** Ueberschuldung erkannt → Antragspflicht § 15a InsO: 6 Wochen.
+
+## Output-Template Ueberschuldungs-Memo
+
+**Adressat:** Geschaeftsfuehrung / Insolvenzgericht — Tonfall: sachlich-betriebswirtschaftlich
+
+```
+UEBERSCHULDUNGSSTATUS nach § 19 InsO
+Gesellschaft: [FIRMA]    Stichtag: [DATUM]
+
+STUFE 1 — BILANZIELLER STATUS (Fortfuehrungswerte)
+Aktiva (Verkehrswerte): EUR [BETRAG]
+- Sachanlagen: EUR [...]
+- Forderungen: EUR [...]
+- Liquide Mittel: EUR [...]
+Passiva: EUR [BETRAG]
+- Eigenkapital: EUR [...]
+- Fremdkapital: EUR [...]
+BILANZIELLES REINVERMOEGEN: EUR [positiv / negativ]
+
+STUFE 2 — FORTBESTEHENSPROGNOSE
+Ergebnis Prognose: [POSITIV / NEGATIV]
+Grundlage: [IDW S 11 / Eigenprognose / Liquiditaetsplanung]
+
+ERGEBNIS:
+[Ueberschuldung i.S.d. § 19 InsO: JA / NEIN]
+[Antragspflicht: JA ab [DATUM] / NEIN]
+```

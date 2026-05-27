@@ -1,6 +1,6 @@
 ---
 name: anw-umsatzsteuer-vorsteuerabzug-pruefen
-description: Pruefraster Vorsteuerabzug § 15 UStG. Voraussetzungen Unternehmer-Eigenschaft Leistungsbezug fuer Unternehmen ordnungsgemaesse Rechnung § 14 UStG inhaltliche Pflichtangaben § 14 Abs. 4 UStG steuerbarer Umsatz innerhalb EU mit USt-IdNr. Steuerfreie Umsaetze § 4 UStG mit Ausschluss Vorsteuerabzug § 15 Abs. 2 UStG Ausnahmen Ausland Einfuhr-Verbrauch-Steuer. Berichtigung Vorsteuer § 15a UStG bei Aenderung der Verhaeltnisse Wirtschaftsguter. Pflichtangaben Rechnung nach BFH XI R 23/15 GoBD-Anforderungen. Steuerstrafrechtliche Risiken Vorsteuer-Karussell.
+description: "Vorsteuerabzug nach § 15 UStG pruefen und Risiken bei Umsatzsteuer-Pruefung bewerten. Anwendungsfall Finanzamt streicht Vorsteuer Mandant fragt ob Rechnung ausreicht oder Vorsteuer-Karussell-Vorwurf droht. Voraussetzungen Unternehmer-Eigenschaft Leistungsbezug fuer Unternehmen ordnungsgemaesse Rechnung § 14 UStG Pflichtangaben § 14 Abs. 4 UStG. Ausschluss Vorsteuerabzug steuerfreie Umsaetze § 4 UStG § 15 Abs. 2 UStG. Berichtigung § 15a UStG GoBD-Anforderungen BFH XI R 23/15. Output Pruefraster Vorsteuerabzug Berichtigungs-Berechnung Risikohinweis Strafrecht."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen

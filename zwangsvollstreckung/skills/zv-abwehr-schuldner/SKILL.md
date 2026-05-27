@@ -1,6 +1,6 @@
 ---
 name: zv-abwehr-schuldner
-description: "Schuldnerseite: Abwehr unzulässiger oder unbilliger Zwangsvollstreckung. Klärt Erinnerung § 766 ZPO (formale Mängel), Vollstreckungsabwehrklage § 767 ZPO (materielle Einwendungen), Klauselgegenklage § 768 ZPO, Drittwiderspruchsklage § 771 ZPO, Vollstreckungsschutz § 765a ZPO, P-Konto-Freigabe § 850k ZPO, einstweilige Einstellung § 769 ZPO. Lädt aus Schuldnerperspektive."
+description: "Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmaessigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Pruefraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung)."
 ---
 
 # Schuldnerabwehr in der Zwangsvollstreckung

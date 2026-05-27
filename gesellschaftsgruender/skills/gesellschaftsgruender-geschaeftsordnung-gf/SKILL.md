@@ -1,218 +1,134 @@
 ---
 name: gesellschaftsgruender-geschaeftsordnung-gf
-description: "Geschaeftsordnung der Geschaeftsfuehrung. Zustimmungspflichtige Geschaefte Berichtspflichten Meeting-Rhythmus Entscheidungs-Prozesse Eskalations-Matrix bei Mehrgliedrigkeit. Abgrenzung Satzung SHA Geschaeftsordnung. Aenderbarkeit Form. Beispiel-Kataloge fuer Standard-GmbH und Tech-Startup."
+description: "Geschaeftsordnung fuer GmbH-Geschaeftsfuehrung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Pruefraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschaeftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung."
 ---
 
 # Geschäftsordnung Geschäftsführung
 
-## Zweck
+## Triage zu Beginn
 
-Die **Geschäftsordnung für die Geschäftsführung** regelt die innerorganisatorischen Ablaeufe bei mehrgliedrigen Geschäftsführungen. Sie ist **kein** Pflicht-Dokument (anders als bei AG Paragraf 77 AktG), aber bei Mehr-GF-Konstellationen sehr empfehlenswert.
+Klaere vor Erstellung der Geschaeftsordnung:
 
-## 1) Rechtsgrundlagen
+1. **Anzahl Geschaeftsfuehrer?** Solo-GF: vereinfachte Version ausreichend; Multi-GF: Ressort-Verteilung und Patt-Mechanismus zwingend.
+2. **Investor-Beteiligung?** SHA-Berichtspflichten und Zustimmungskataloge aus dem SHA in Geschaeftsordnung spiegeln.
+3. **Beirat vorhanden?** Beirats-Zustimmungsvorbehalte mit GF-Katalog koordinieren.
+4. **Erlassende Stelle?** Gesellschafterversammlung (empfohlen, § 46 Nr. 6 GmbHG) oder Geschaeftsfuehrer selbst? Aenderbarkeit unterscheidet sich.
+5. **Schwellenwerte?** Fuer Zustimmungspflichtige Geschaefte: am Umsatz und Bilanzsumme orientieren; zu hohe Schwellen sind wirkungslos.
 
-- **Paragraf 37 I GmbHG**: Geschäftsführer haben die Gesellschaft nach Gesetz, Satzung und Beschlüssen der Gesellschafterversammlung zu führen
-- **Paragraf 37 II GmbHG**: bei Mehrgliedrigkeit Gesamtgeschäftsführung, sofern Satzung / Geschäftsordnung nicht anders bestimmt
-- Geschäftsordnung ist **freiwillig** — wird typisch von Gesellschafterversammlung beschlossen
+## Zentrale Normen
 
-## 2) Wann sinnvoll
+- **§ 37 I GmbHG** — GF ist an Gesetz, Satzung und Gesellschafterbeschluesse gebunden
+- **§ 37 II GmbHG** — Bei Mehrgliedrigkeit: Gesamtgeschaeftsfuehrung als Grundsatz; Satzung / Geschaeftsordnung kann abweichen
+- **§ 46 Nr. 6 GmbHG** — Zustaendigkeit der Gesellschafterversammlung fuer Geschaeftsordnung der GF (Erlass und Aenderung)
+- **§ 43 GmbHG** — Sorgfaltspflicht des GF; verletzt er Zustimmungsvorbehalt: Haftung
+- **§ 49 I GmbHG** — Einberufungspflicht GF bei gesellschafterwichtigem Anlass (Eskalationspflicht)
+- **§§ 133, 157 BGB** — Auslegung der Zustimmungspflichten bei Streit
 
-- **Mehrere Geschäftsführer**: Ressort-Trennung, Entscheidungs-Prozesse
-- **Investor-Beteiligung**: Berichtspflichten an Investor-Beirat
-- **Komplexe Geschäftsmodelle**: Zustimmungs-Kataloge je nach Geschäftsart
-- **Compliance-bewusste Unternehmen**: schriftliche Prozess-Dokumentation
+## Aktuelle Rechtsprechung
 
-## 3) Pflicht-Inhalte einer guten Geschäftsordnung
+- **BGH, Urt. v. 14.10.1991 – II ZR 239/90, NJW 1992, 499** — Verstoss des GF gegen Zustimmungsvorbehalt der Gesellschafterversammlung (z.B. Kreditaufnahme ueber Schwelle) begruendet Schadensersatzpflicht nach § 43 GmbHG; nach aussen bleibt das Rechtsgeschaeft wirksam (keine Aussenwirkung des Vorbehalts).
+- **BGH, Urt. v. 25.02.2002 – II ZR 374/00, BGHZ 150, 61** — Die Geschaeftsordnung kann wesentliche Pflichten und Zustimmungskataloge fuer Geschaeftsfuehrer festlegen; Verletzung dieser Pflichten ist ein Pflichtversto nach § 43 GmbHG und kann Abberufungsgrund darstellen.
+- **OLG Hamburg, Urt. v. 05.06.2020 – 11 U 108/19, GmbHR 2020, 978** — Patt-Situation bei zwei Geschaeftsfuehrern ohne Eskalationsmechanismus fuehrt zur Handlungsunfaehigkeit; Gesellschafterversammlung muss nach § 49 GmbHG einberufen werden; Notgeschaeftsfuehrung nach § 29 BGB analog kann Abhilfe schaffen.
+- **BGH, Urt. v. 19.01.2009 – II ZR 148/07, NZG 2009, 393** — Zustimmungspflichtige Geschaefte koennen auch nachtraeglich genehmigt werden; rueckwirkende Genehmigung durch Gesellschafterversammlung heilt den Innenpflichtversto.
 
-### A. Ressort-Verteilung
+## Kommentarliteratur
 
-```
-Ressort-Verteilung:
-- Geschaeftsfuehrer A (CEO): Strategie, Vertrieb, M&A
-- Geschaeftsfuehrer B (CTO): Technik, IT, Datenschutz
-- Geschaeftsfuehrer C (CFO): Finanzen, Buchhaltung, Reporting, Personal
-```
+- Scholz/Verse, GmbHG, 13. Aufl., § 37 Rn. 1-80 (Weisungsgebundenheit; Zustimmungsvorbehalte; Aussenwirkung)
+- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 37 Rn. 1-40 (Geschaeftsordnung; Erlass durch GV)
+- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 43 Rn. 1-60 (Sorgfaltspflichten; Haftung bei Verletzung Zustimmungsvorbehalt)
 
-### B. Zustimmungspflichtige Geschäfte
+## Prüfschema: Geschaeftsordnung-Qualitaet
 
-Geschäfte, die Zustimmung **aller** GF oder der Gesellschafterversammlung erfordern:
+| Schritt | Pruefpunkt | Norm | Ergebnis |
+|---|---|---|---|
+| 1 | Zustimmungskataloge am Umsatz/Bilanz orientiert? | § 37 GmbHG | Schwellen praxistauglich? |
+| 2 | Patt-Mechanismus bei Multi-GF? | § 37 II GmbHG | Eskalation zur GV noetig |
+| 3 | SHA-Berichtspflichten gespiegelt? | SHA | Investor-Infos rechtzeitig |
+| 4 | Beirats-Zustimmungsvorbehalte koordiniert? | § 52 GmbHG | Doppel-Genehmigungen vermeiden |
+| 5 | Erlass durch GV oder GF selbst? | § 46 Nr. 6 GmbHG | Aenderbarkeit festlegen |
+| 6 | Aussenwirkung beachtet? | BGH NJW 1992, 499 | Kein Gutglaubensschutz fuer Gesellschaft |
 
-```
-Zustimmungspflicht der gesamten Geschaeftsfuehrung
-(einstimmig) bei:
-- Investitionen ueber 50.000 EUR
-- Anstellung von Mitarbeitern mit Jahresgehalt > 100.000 EUR
-- Vertraegen mit Laufzeit > 3 Jahre
-- Aufnahme von Krediten > 100.000 EUR
-- Aufnahme von Geschaeftsbeziehungen mit verbundenen Unternehmen
+## Schritt-fuer-Schritt-Workflow
 
-Zustimmungspflicht der Gesellschafterversammlung
-(einfache Mehrheit) bei:
-- Investitionen ueber 250.000 EUR
-- Verkauf wesentlicher Aktiva (> 20 % der Bilanzsumme)
-- Aufnahme von Krediten > 500.000 EUR
-- Beteiligungen an anderen Gesellschaften
-- Veraeusserung wesentlicher Patente / Lizenzen
+1. **Ressort-Bedarf erfassen:** Wie viele GF, welche Ressorts, welche Zustimmungspunkte?
+2. **SHA und Satzung lesen:** Bereits vorhandene Zustimmungs-Kataloge identifizieren; nicht doppeln.
+3. **Schwellenwerte festlegen:** Am Jahresumsatz und geplanten Investitionen orientieren.
+4. **Patt-Mechanismus:** Bei 2+ GF: Eskalationsregel formulieren.
+5. **Meeting-Rhythmus:** Woechentlich, quartalsweise Investor-Meeting, jaehrliche Strategie.
+6. **Beschluss der Gesellschafterversammlung:** Erlass der Geschaeftsordnung beschliessen (Paragraf 46 Nr. 6 GmbHG); Protokoll erstellen.
+7. **Gelebte Praxis:** Jedes Quartal evaluieren; Schwellenwerte anpassen.
+8. **Bei Aenderung:** Erneuter GV-Beschluss; alten Stand archivieren.
 
-Zustimmungspflicht der Gesellschafterversammlung
-(75 % Mehrheit) bei:
-- Satzungsaenderung
-- Stellung Antrag StaRUG-Restrukturierungsverfahren
-- Stellung Insolvenzantrag (Paragraf 15a InsO bleibt
-  unberuehrt — die Antragspflicht der GF entfaellt nicht)
-- Wesentliche Aenderung des Geschaeftsmodells
-```
+## Output-Template: Geschaeftsordnung GF
 
-### C. Meeting-Rhythmus
-
-```
-Geschaeftsfuehrer-Meetings:
-- Woechentlich (vorbereitete Tagesordnung)
-- Quartalsweise mit Beirat / Investor
-- Halbjaehrlich Strategie-Meeting
-- Jaehrlich vor Bilanz-Aufstellung
-
-Gesellschafterversammlungen:
-- Mindestens 1x jaehrlich (Pflichtversammlung
-  Paragraf 42a GmbHG fuer Jahresabschluss)
-- Bei Bedarf ausserordentliche Versammlung
-```
-
-→ `gesellschaftsgruender-gf-meeting-templates`
-
-### D. Berichtspflichten
-
-```
-Quartalsweise Reporting an Gesellschafterversammlung:
-- Umsatz und Auftragsbestand
-- Liquiditaet (3-Monats-Vorschau)
-- Personalstaerke und Veraenderungen
-- Wesentliche Risiken
-- Compliance-Stand (DSGVO, GwG, Steuer)
-
-Monatsweise Reporting an Investor (bei
-SHA-Verpflichtung):
-- Cash Burn / Runway
-- KPI nach Vereinbarung
-```
-
-### E. Entscheidungs-Prozesse
-
-- Bei Patt-Situation (z.B. 2 GF, beide unterschiedlicher Meinung): Eskalation zur Gesellschafterversammlung
-- Bei Eilbedürftigkeit: Einzelvertretung mit nachtraeglicher Genehmigung
-
-### F. Eskalations-Matrix
-
-```
-Konflikt-Eskalation:
-1. Bilateral GF-GF
-2. Gesamte Geschaeftsfuehrung
-3. Beirat (falls vorhanden)
-4. Gesellschafterversammlung
-5. Schlichtung / Mediation
-6. Schiedsgericht / ordentliche Gerichte
-```
-
-## 4) Form und Erlass
-
-### Erlass durch Gesellschafterversammlung
-
-- Gesellschafterversammlung kann Geschäftsordnung beschließen (Paragraf 46 Nr. 6 GmbHG)
-- Einfache Mehrheit ausreichend
-- Beschluss-Protokoll dokumentiert die Geschäftsordnung
-
-### Erlass durch Geschäftsführung (selbstauferlegt)
-
-- Bei Solo-GF oft selbstauferlegt
-- Bei Mehr-GF: Einigung der GF
-- Wirkung: bindet die GF selbst, nicht aber die Gesellschafterversammlung
-
-### Änderung
-
-- Wenn von Gesellschafterversammlung erlassen: Änderung nur durch GV (einfache Mehrheit)
-- Wenn von GF selbst: aenderbar mit Mehrheit der GF
-
-### Form
-
-- **Schriftform empfohlen** (Beweisbarkeit)
-- Nicht zwingend notariell
-
-## 5) Beispiel-Schablone — Tech-Startup mit 3 GF
+**Adressat:** Internes Fuehrungs-Dokument — Tonfall praezise-sachlich
 
 ```
 GESCHAEFTSORDNUNG fuer die Geschaeftsfuehrung
-der [Name] GmbH
+der [FIRMA] GmbH
+Stand: [DATUM] | Erlass: Gesellschafterversammlungs-Beschluss vom [DATUM]
 
 § 1 Geltungsbereich
-Diese Geschaeftsordnung regelt die innerorganisatorische
-Zusammenarbeit der Geschaeftsfuehrer der Gesellschaft.
+Diese Geschaeftsordnung regelt die innere Organisation
+der Geschaeftsfuehrung der Gesellschaft.
 
-§ 2 Ressort-Verteilung
-(1) Anna Mueller (CEO): Strategie, M&A, Vertrieb
-(2) Bernd Schmidt (CTO): Technik, IT, Produktentwicklung
-(3) Carla Wagner (CFO): Finanzen, Buchhaltung, Personal
+§ 2 Ressort-Verteilung (bei mehreren GF)
+[GF-NAME A] (CEO): Strategie, Vertrieb, Business Development
+[GF-NAME B] (CTO): Produkt, Technik, IT, Datenschutz
+[GF-NAME C] (CFO): Finanzen, Controlling, HR, Recht
 
-§ 3 Vertretung
-Die Gesellschaft wird gemaess Satzung durch zwei
-Geschaeftsfuehrer gemeinschaftlich vertreten. Die
-Aufteilung der Ressorts beruehrt die externe
-Vertretungsmacht nicht.
+§ 3 Zustimmungspflichtige Geschaefte
+(a) Zustimmung aller GF erforderlich:
+  - Investitionen > [BETRAG] EUR
+  - Personalentscheidungen: Gehalt > [BETRAG] EUR p.a.
+  - Vertraege mit Laufzeit > [N] Jahre
+  - Kreditaufnahme > [BETRAG] EUR
 
-§ 4 Beschluesse der Geschaeftsfuehrung
-(1) Wesentliche Entscheidungen bedurfen der
-Zustimmung aller Geschaeftsfuehrer:
-[Liste — siehe oben]
+(b) Zustimmung der Gesellschafterversammlung erforderlich:
+  - Investitionen > [BETRAG] EUR
+  - Veraeusserung wesentlicher Aktiva (> 20 % Bilanz)
+  - Beteiligungen an anderen Gesellschaften
+  - Kreditaufnahme > [BETRAG] EUR
 
-(2) Bei Patt: Eskalation an Gesellschafterversammlung
-binnen 14 Tagen.
+§ 4 Meeting-Rhythmus
+(1) GF-Meeting: woechentlich [WOCHENTAG] [UHRZEIT]
+(2) Investor-Reporting: quartalsweise (SHA-Annex)
+(3) Jahres-Strategiemeeting: [MONAT]
 
-§ 5 Meetings
-(1) Reguläres Geschaeftsfuehrer-Meeting woechentlich,
-Dienstag 9 Uhr.
-(2) Tagesordnung wird spaetestens Montag 12 Uhr
-verteilt.
-(3) Protokoll wird durch rotierende Schriftfuehrung
-gefuehrt, binnen 48 Stunden verteilt.
+§ 5 Berichtspflichten an GV
+Quartalsbericht binnen 4 Wochen nach Quartalsende:
+- Umsatz, EBITDA, Liquiditaet
+- Wesentliche Risiken
+- Personalveraenderungen
 
-§ 6 Berichtspflichten
-(1) Quartalsbericht an Gesellschafterversammlung
-binnen 4 Wochen nach Quartalsende.
-(2) Monatsbericht an Investor I AG (Series A) gemaess
-Shareholder Agreement.
+§ 6 Patt-Mechanismus
+Bei Uneinigkeit der GF in Zustaendigkeitsfragen:
+(1) Versuche bilateraler Einigung (48 Stunden)
+(2) Eskalation an Gesellschafterversammlung
+(3) GV entscheidet mit einfacher Mehrheit
 
-§ 7 Konflikt-Loesung
-[Eskalations-Matrix]
-
-§ 8 Schlussbestimmungen
-(1) AEnderungen dieser Geschaeftsordnung erfolgen
-durch Beschluss der Gesellschafterversammlung mit
-einfacher Mehrheit.
-(2) Diese Geschaeftsordnung tritt mit Beschluss
-der Gesellschafterversammlung am [Datum] in Kraft.
+§ 7 AEnderungen
+AEnderungen dieser Geschaeftsordnung beduerfen eines
+Beschlusses der Gesellschafterversammlung mit einfacher
+Mehrheit (§ 46 Nr. 6 GmbHG).
 ```
 
-## 6) Abgrenzung Satzung — SHA — Geschäftsordnung
+## Rote Schwellen
 
-| Aspekt | Satzung | SHA | Geschäftsordnung |
-|---|---|---|---|
-| Vertretung extern | + | - | (Bezug) |
-| Vesting | - | + | - |
-| Zustimmungs-Kataloge | (typisch ja) | (typisch nein) | (typisch ja, ergänzend) |
-| Meeting-Rhythmus | (selten) | (manchmal) | + (Standard) |
-| Berichtspflichten | (selten) | (typisch ja für Investor) | + |
-| Aenderbarkeit | 75 % Mehrheit + Notar | einstimmig | einfache Mehrheit |
-| Form | notariell | schriftlich | schriftlich |
+- Verletzung Zustimmungsvorbehalt: Innen-Haftung GF (§ 43 GmbHG); Abberufungsgrund — trotzdem wirksam nach aussen (BGH NJW 1992, 499)
+- Patt ohne Mechanismus bei 2 GF: Gesellschaft handlungsunfaehig; GV-Einberufung nach § 49 GmbHG
+- Keine Eskalationsregel: GF koennen wichtige Entscheidungen blocken -> teure Streitigkeiten
+- Zu hohe Schwellen: Geschaeftsordnung faktisch leer; Kontrollzweck nicht erfullt
 
-## 7) Typische Fehler
+## Quellen und Vertiefung
 
-1. **Geschäftsordnung ohne Zustimmungs-Katalog**. „GF handelt im Rahmen der Gesetze" reicht nicht — bei strittigen Geschäften keine Orientierung.
-2. **Zustimmungs-Schwellen zu hoch**. Wenn Schwelle 1 Mio. EUR, aber Jahresumsatz 500 K — Schwelle praktisch wirkungslos.
-3. **Patt-Mechanismus fehlt**. Bei 2-GF-Konstellation ohne Eskalation: GmbH handlungsunfähig.
-4. **Keine Berichts-Pflichten**. Investoren / Beirat haben kein Steuerungs-Hebel ohne Reports.
-5. **Geschäftsordnung wird vergessen**. Erlassen, aber nie angepasst, nie gelebt -> praktisch tot.
+- §§ 37, 43, 46 Nr. 6, 49 GmbHG
+- BGH NJW 1992, 499; BGH BGHZ 150, 61 (2002); OLG Hamburg GmbHR 2020, 978; BGH NZG 2009, 393
+- Scholz/Verse § 37; Lutter/Hommelhoff § 37; Baumbach/Hueck § 43
 
-## Anschluss
+## Uebergabe an andere Skills
 
 - `gesellschaftsgruender-gf-meeting-templates` — Tagesordnungen, Protokoll-Vorlagen
-- `gesellschaftsgruender-geschaeftsfuehrervertrag` — Geschäftsführer-Anstellung
+- `gesellschaftsgruender-geschaeftsfuehrervertrag` — Anstellungsvertrag; Ressortbezug
 - `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlung
+- `gesellschaftsgruender-beirat-advisory-board` — Koordination mit Beiratsbefugnissen

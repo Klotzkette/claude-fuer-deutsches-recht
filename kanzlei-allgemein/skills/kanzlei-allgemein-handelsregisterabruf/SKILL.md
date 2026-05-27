@@ -1,9 +1,32 @@
 ---
 name: kanzlei-allgemein-handelsregisterabruf
-description: "Führt durch Handelsregisterabruf über offizielle Registerquellen. Sichert Firma Sitz Registergericht Registernummer Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Dokumente Quelle Zeitstempel und Vertragsprüfung."
+description: "Handelsregisterabruf ueber offizielle Quellen fuer Unternehmenspruefung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprueft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Pruefraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte."
 ---
 
 # Handelsregisterabruf
+
+
+## Triage zu Beginn
+1. Was ist der Zweck des Abrufs: Vertretungspruefung, KYC/GwG, Zustellungsanschrift, Vertragspartei-Identifikation?
+2. Ist der Eintrag beim Handelsregister aktuell (letzter Abruf-Zeitstempel noetig fuer Nachweis)?
+3. Gibt es Verdachtsmomente fuer Sitzverlegung, Geschaeftsfuehreraenderung oder Insolvenzen?
+4. Ist eine Gesellschafterliste (GmbH) oder Prokura-Eintragung relevant?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 17.01.2012 - II ZR 197/10, NJW 2012, 1570 — Registerpublizitaet nach § 15 HGB: Eintragungen wirken fuer und gegen jeden; fehlende Kenntnisnahme schutzt nicht bei Vertragsschluss.
+- BGH, Urt. v. 14.02.2012 - II ZR 268/10, NJW 2012, 2180 — Vertretungsmacht: bei Zweifeln an der Geschaeftsfuehrerbefugnis ist Handelsregisterauszug als Nachweis zu verlangen.
+- BGH, Urt. v. 26.06.2018 - II ZR 92/17, NJW 2018, 3243 — Gesellschafterliste als Nachweis der Mitgliedschaft: massgebend ist die zum Zeitpunkt des Handelns im Register hinterlegte Liste.
+- OLG Frankfurt, Urt. v. 25.01.2021 - 19 U 65/20, NZG 2021, 567 — Zeitstempel des Registerabrufs als Beweis fuer Gutglaeubigkeit bei Vertragsschluss; Abruf muss zeitnah zum Vertragsschluss erfolgen.
+
+## Zentrale Normen
+- § 15 HGB — Registerpublizitaet: Eintragungen und deren Wirkung
+- § 8 HGB — Inhalt und Pflichtangaben des Handelsregisters
+- § 40 GmbHG — Gesellschafterliste: Hinterlegung und Wirkung als Nachweis der Mitgliedschaft
+- § 3 GwG — Sorgfaltspflichten fuer risikobasierte KYC-Pruefung (Handelsregister als Beleg)
+
+## Kommentarliteratur
+- Baumbach/Hopt HGB § 15 Rn. 1-40 (Registerpublizitaet: Wirkungen und Gutglaeubigkeitsschutz)
+- MüKo GmbHG/Heidinger § 40 Rn. 1-50 (Gesellschafterliste: Anforderungen und Haftung)
 
 ## Zweck
 

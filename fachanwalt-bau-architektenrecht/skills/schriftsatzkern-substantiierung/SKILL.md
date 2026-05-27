@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Klage auf Werklohn, Schadensersatzklage Baumangel, Honorarklage HOAI: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Pruefraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollstaendiger Schriftsatz."
 ---
 
 # Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht
@@ -193,3 +193,71 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Aktuelle Rechtsprechung Bau-/Architektenrecht
+
+- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1537 Rn. 24 — Für die Substantiierung eines Mangels im Bauprozess genügt es, wenn der Auftraggeber Art und Ausmaß des Mangels schildert; er muss nicht die Ursache des Mangels darlegen — das ist Aufgabe des Sachverständigen.
+- BGH, Urt. v. 23.10.2008 - VII ZR 64/07, BGHZ 178, 267 Rn. 19 — Der Vortrag des Mangels muss so konkret sein, dass die Gegenseite darauf erwidern kann; bloße Verweise auf Gutachten ohne Wiedergabe der wesentlichen Inhalte im Schriftsatz reichen nicht aus.
+- BGH, Urt. v. 07.03.2013 - VII ZR 68/10, NJW 2013, 1744 Rn. 33 — Bei Streit über Werklohnforderungen ist der Auftragnehmer zur vollständigen Schlussrechnungslegung verpflichtet; fehlende oder unvollständige Schlussrechnung verhindert Fälligkeit nach § 641 Abs. 1 BGB.
+- BGH, Urt. v. 09.01.2003 - VII ZR 181/00, BGHZ 153, 244 Rn. 22 — HOAI-Honorarklage: vollständige Darlegung der anrechenbaren Kosten und der erbrachten Leistungsphasen ist Pflichtinhalt jeder HOAI-Klage; pauschale Honorarvereinbarungen außerhalb der Mindest-/Höchstsätze müssen bei Abschluss vereinbart werden.
+
+## Paragrafenkette Substantiierung Bauprozess
+
+§ 631 BGB (Werkvertrag) → §§ 633-638 BGB (Mängelhaftung) → § 641 BGB (Fälligkeit) → § 650a BGB (Bauvertrag) → § 650p BGB (Architektenvertrag) → VOB/B § 13 (Mängelhaftung VOB) → VOB/B § 14 (Abrechnung) → §§ 130, 131 ZPO (Schriftsatz-Anforderungen) → § 296 ZPO (Zurückweisung verspäteten Vortrags)
+
+## Kommentarliteratur
+
+- Werner/Pastor Der Bauprozess 16. Aufl., Kap. 5 Rn. 1200-1250 (Substantiierung Baumangel-Klage)
+- Kniffka/Koeble Kompendium des Baurechts 5. Aufl., 5. Teil Rn. 80-120 (Werklohanklage Schlussrechnung)
+- BeckOK BGB/Voit § 631 Rn. 120-145 (Prozessführung Werkvertrag)
+
+## Triage vor Schriftsatzerstellung
+
+Kläre vor Beginn:
+1. Klage auf Werklohn, Mängelbeseitigung oder Schadensersatz? (Unterschiedliche Substantiierungsanforderungen)
+2. Liegt eine prüffähige Schlussrechnung vor? (Fälligkeitsvoraussetzung Werklohn)
+3. Welche Beweismittel stehen bereit? (Privatsachverständiger, Gutachten, Fotos, Aufmaß)
+4. Abnahme erfolgt? (Voraussetzung Werklohnfälligkeit und Mängelgewährleistung)
+5. Liegt VOB/B-Vertrag vor? (Rügepflichten und Fristregelungen VOB/B beachten)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Schriftsatz im Baurecht substantiieren | Aufbauschema A-F; Pflicht-Output unten |
+| Variante A — Sachverhalt technisch hochkomplex | Sachverstaendigen-Beweisantrag frueHzeitig ankuendigen |
+| Variante B — VOB/B und BGB-Ansprueche parallel | Anspruchsgrundlagen klar trennen; Hilfsantraege erwaegen |
+| Variante C — schnelles Verfahren gewuenscht | Beschraenkung auf Hauptklagepunkt; Hilfsantraege weglassen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template Mängelklage (Auszug)
+
+**Adressat:** Landgericht / Amtsgericht — Tonfall sachlich-juristisch
+
+```
+III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
+
+1. Vertragswidriger Zustand
+   Am [DATUM] stellte unsere Mandantschaft folgende Mängel fest:
+   a) [MANGEL 1]: [KONKRETE BESCHREIBUNG], Fotos als Anlage K[X]
+   b) [MANGEL 2]: [BESCHREIBUNG], Privatgutachten SV [NAME] als Anlage K[Y]
+   
+2. Nacherfüllungsverlangen und Fristsetzung
+   Mit Schreiben vom [DATUM] (Anlage K[Z]) forderte unsere Mandantschaft zur Nacherfüllung
+   auf und setzte Frist bis zum [DATUM]. Die Frist verstrich ergebnislos.
+   
+3. Kostenvorschuss § 637 Abs. 3 BGB
+   Der Kostenvorschuss berechnet sich wie folgt: [BERECHNUNG NACH PRIVATGUTACHTEN].
+   Beweis: Sachverständigengutachten [NAME] (Anlage K[Y]); Zeugin [NAME] (Adresse) zum
+   Beweisthema: Fristsetzung und fruchtloser Ablauf.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

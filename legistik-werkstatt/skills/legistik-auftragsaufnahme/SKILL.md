@@ -1,6 +1,6 @@
 ---
 name: legistik-auftragsaufnahme
-description: "Strukturierte Aufnahme eines legistischen Auftrags. Nimmt eine politische Vorgabe entgegen Koalitionsvertrag Beschluss Bundeskabinett Landtagsantrag Buergermeisterbeschluss Aufsichtsweisung. Bricht sie herunter in operationalisierbare Regelungsziele. Klaert Adressaten Buerger Unternehmen Verwaltung Gerichte. Klaert Eingriffstiefe deklaratorisch konstitutiv. Klaert Dringlichkeit Eckpunktepapier Referentenentwurf Formulierungshilfe Kabinettsentwurf. Erzeugt Auftragsblatt mit zehn Fragen Regelungsziel Adressat Eingriff Norm-Ebene Vorrang anderer Normen EU-Bezug Verfassungsbezug Folgen Zeitplan Beteiligte. Anschluss `normhierarchie-routing`."
+description: "Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen legistischen Vorhaben Koalitionsvertrag Beschluss Kabinett Landtag Aufsichtsweisung liegt vor. Klaert Adressaten Eingriffstiefe deklaratorisch oder konstitutiv Dringlichkeit Eckpunktepapier Referentenentwurf Formulierungshilfe Kabinettsentwurf Norm-Ebene Verfassungs- und EU-Bezug Zeitplan Beteiligte. Output Auftragsblatt mit zehn Fragen. Anschluss normhierarchie-routing. Abgrenzung zu normenkartierung bestehende Normen kartieren."
 ---
 
 # Legistik-Auftragsaufnahme
@@ -59,6 +59,21 @@ Welche Stufe ist plausibel? Bundesgesetz, Landesgesetz, Rechtsverordnung Bund, R
 | Folgen Bürger/Wirtschaft/Verwaltung | |
 | Beteiligte Stellen | |
 | Zeitplan | |
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 14.01.2015 — 1 BvR 931/12, BVerfGE 138, 261 Rn. 30 — Gesetzgebungsauftrag und Bestimmtheitsgrundsatz: Auftragsaufnahme muss Regelungszweck, Adressaten-Kreis und Grundrechtsbezug klaeren; unklarer Auftrag fuehrt regelmaessig zu normativer Unschaerfe im Entwurf
+- BVerfG, Urt. v. 09.07.2007 — 2 BvF 1/04, BVerfGE 119, 59 Rn. 60 — Gesetzgeber muss bei Auftragsannahme die Kompetenz-Frage vorab klaeren; spaetere Ueberarbeitung eines inkompetenten Entwurfs nicht moeglich ohne erneutes Auftragsverfahren
+- BGH, Urt. v. 22.10.2015 — III ZR 24/15, NJW 2016, 319 — Auftrag zur Rechtsetzung zwischen Auftraggeber und Rechtsberatung; Auftragsaufnahme-Protokoll ist Grundlage des Mandatsverhaeltnisses; unklare Auftragsabgrenzung kann Honoraranspruch gefahrden
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 14-20 GGO (Auftragsannahme ministerieller Rechtsetzungsauftrag) — Art. 76 Abs. 1 GG (Initiativrecht Bundesregierung) — §§ 611-630 BGB (Dienstvertrag, Mandatsrecht) — § 62 GGO (Checkliste Gesetzgebungsauftrag)
+
+## Kommentarliteratur
+
+- Schneider, Gesetzgebung, 3. Aufl. 2002, §§ 1-2 Rn. 1 ff. (Gesetzgebungsauftrag, Auftragsaufnahme-Systematik)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 1 ff. (Normgebungsauftrag und -programme)
 
 ## Ausgabe
 

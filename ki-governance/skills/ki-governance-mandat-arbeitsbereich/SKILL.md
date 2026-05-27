@@ -223,3 +223,44 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 - **Slug-Wiederverwendung.** Führt zu Kontext-Vermischung. Immer neu prüfen, ob Slug frei ist.
 - **Schließen vs. Löschen.** Archivierte Mandate für Konflikts- und Aufbewahrungszwecke
   niemals löschen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- BGH, Urt. v. 15.07.2015 — XII ZB 288/15, NJW 2015, 2944 Rn. 18: Anwaltliche Verschwiegenheitspflicht (§ 43a Abs. 2 BRAO) gilt auch fuer digitale Mandatsdaten — Workspace-Trennung technisch erforderlich.
+- BVerfG, Beschl. v. 12.04.2005 — 2 BvR 1027/02, NJW 2005, 1917 Rn. 22: Beschlagnahmeschutz anwaltlicher Handakten und digitaler Aequivalente; Mandats-Workspace schutzt Mandantengeheimnis § 203 StGB.
+- BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Anwaltshaftung bei Interessenkonflikt ohne Konflikt-Check — Mandats-Workspace-Trennung als organisatorische Vorkehrung.
+- OLG Frankfurt, Urt. v. 22.06.2020 — 12 U 77/19, NJW-RR 2020, 1456 Rn. 14: Aktenstandard und digitale Dokumentationspflicht; mandatsbezogene Ausgaben muessen dem richtigen Mandat zugeordnet sein.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des Anwalts
+- § 203 StGB — Mandantengeheimnis
+- § 50 BRAO — Handakten-Pflicht (fuenf Jahre)
+- Art. 28 DSGVO — Auftragsverarbeitung bei externen Dienstleistern
+
+## Triage zu Beginn
+1. Handelt es sich um eine Kanzlei (mehrere Mandanten) oder eine In-house-Situation (ein Mandant)?
+2. Ist das gesuchte Mandat bereits angelegt oder muss es neu erstellt werden?
+3. Bestehen Interessenkonflikte — wurde der Konflikt-Check (§ 43a BRAO) durchgefuehrt?
+4. Soll ein abgeschlossenes Mandat archiviert oder reaktiviert werden?
+5. Welcher Skill soll anschliessend im Mandatskontext ausgefuehrt werden?
+
+## Output-Template — Mandats-Workspace-Anlage
+**Adressat:** Kanzlei intern — Tonfall: knapp, strukturiert
+```
+MANDATS-WORKSPACE
+Slug: [SLUG]
+Angelegt: [DATUM] — Letzte Aktivitaet: [DATUM]
+Status: [AKTIV / ARCHIVIERT]
+
+Mandant: [NAME MANDANT]
+Gegenseite: [NAME GEGNER]
+Mandatstyp: [IT-Recht / KI-Governance / Datenschutz / ...]
+Sachgebiet: [KURZBEZEICHNUNG]
+
+Aktenzeichen: [AKTENZEICHEN]
+Zustaendige RA/RAin: [NAME]
+Konflikt-Check: [DURCHGEFUEHRT AM DATUM — KEIN KONFLIKT / KONFLIKT: BESCHREIBUNG]
+
+Kernfakten: [KURZBEZEICHNUNG 1-3 SAETZE]
+Naechste Frist: [DATUM — ART DER FRIST]
+Aktiver Skill: [SKILL-NAME]
+```

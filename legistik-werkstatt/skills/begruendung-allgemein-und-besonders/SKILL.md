@@ -1,6 +1,6 @@
 ---
 name: begruendung-allgemein-und-besonders
-description: "Erstellt die zweiteilige Begruendung zu einem Entwurf. Allgemeiner Teil A Anlass und Ziel der Gesetzgebung B wesentlicher Inhalt C Alternativen D Erfuellungsaufwand E weitere Kosten F weitere Folgen. Besonderer Teil B nach jedem geaenderten Paragrafen Erlaeuterung was wird geaendert warum wie ist es zu verstehen welche Auslegungsfragen sind absehbar Bezug zu Rechtsprechung BVerfG BVerwG BGH BSG BFH BAG EuGH. Verweis auf bestehende Kommentare und Aufsaetze wo absehbar. Endet mit vollstaendiger Begruendung. Anschluss `synopse-erstellen` und `xml-paralleldarstellung`."
+description: "Zweiteilige Begruendung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder Kabinettsentwurf ist fertig und Begruendung muss nach HdR-Schema aufgebaut werden. Allgemeiner Teil A Anlass und Ziel B wesentlicher Inhalt C Alternativen D Erfuellungsaufwand E weitere Kosten F weitere Folgen. Besonderer Teil Erlaeuterung je geaendertem Paragrafen was geaendert wird warum wie es zu verstehen ist absehbare Auslegungsfragen Bezug BVerfG BVerwG BGH BSG BFH BAG EuGH-Rechtsprechung. Output vollstaendige Begruendung. Anschluss synopse-erstellen xml-paralleldarstellung."
 ---
 
 # Begründung allgemein und besonders
@@ -72,6 +72,22 @@ Pro Artikel und pro Paragraf:
 - [ ] Rechtsprechung zitiert wo passend
 - [ ] Erfüllungsaufwand mit Zahlen
 - [ ] EU-Bezug und Notifizierung adressiert
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 06.07.1999 — 2 BvF 3/90, BVerfGE 101, 1 Rn. 52 — Gesetzes-Begruendung dient der parlamentarischen Kontrolle; unzureichende Begruendung kann Anhaltspunkt fuer Willkuer sein, entbindet aber nicht von materiellem Verfassungsmasstab
+- BVerwG, Urt. v. 28.01.2021 — 4 CN 6.19, NVwZ 2021, 1197 — besondere Begruendungspflicht bei planungsrechtlichen Entscheidungen mit erheblichen Auswirkungen auf Dritte; Abwaegungsergebnis muss aus Begruendung erkennbar sein
+- BVerfG, Beschl. v. 18.01.2012 — 1 BvL 7/08, BVerfGE 130, 76 Rn. 42 — Wesentlichkeitsgrundsatz verlangt, dass wesentliche Fragen vom Gesetzgeber selbst entschieden werden; Delegations-Begruendung im Besonderen Teil erforderlich
+- BSG, Urt. v. 06.03.2018 — B 1 KR 67/17 B, juris — Begruendungspflicht bei Ermessensakt; vollstaendige Begruendung Pflicht nach § 39 SGB X; fehlerhafte Begruendung heilbar nach § 41 VwVfG nur im Widerspruchs-/Klageverfahren
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 39 VwVfG (Begruendungspflicht Verwaltungsakt) — § 41 VwVfG (Heilung von Begruendungsmaengeln) — § 76 GGO (Begruendung Referentenentwurf) — §§ 1-4 UVPG (Umwelt-Begruendungspflichten) — § 35 BauGB (Begruendung Abwaegungsergebnis Bauleitplanung)
+
+## Kommentarliteratur
+
+- Stelkens/Bonk/Sachs, VwVfG, 10. Aufl. 2023, § 39 Rn. 1 ff. (Begruendungspflicht Verwaltungsakt)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 10 Rn. 40 ff. (Begruendung als Verfassungsgebot)
 
 ## Ausgabe
 

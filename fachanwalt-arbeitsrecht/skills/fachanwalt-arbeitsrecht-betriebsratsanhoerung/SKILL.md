@@ -1,108 +1,213 @@
 ---
 name: fachanwalt-arbeitsrecht-betriebsratsanhoerung
-description: Anhoerung des Betriebsrats nach § 102 BetrVG vor jeder Kuendigung. Mitteilung Kuendigungsgruende vollstaendig. Stellungnahmefrist eine Woche bei ordentlicher drei Tage bei ausserordentlicher Kuendigung § 102 Abs. 2 BetrVG. Ohne ordnungsgemaesse Anhoerung Unwirksamkeit § 102 Abs. 1 S. 3 BetrVG. Pruefe Vollstaendigkeit Subjektive Determinationstheorie BAG. Schreibvorlage Anhoerungsschreiben.
+description: "Betriebsratsanhoerung nach § 102 BetrVG vor jeder Kuendigung. Anwendungsfall Kuendigung soll ausgesprochen werden und BR-Anhoerung muss korrekt durchgefuehrt werden. Normen § 102 BetrVG Anhoerungs- und Widerspruchsrecht § 102 Abs. 1 S. 3 BetrVG Unwirksamkeit bei fehlerhafter Anhoerung § 102 Abs. 5 BetrVG Weiterbeschaeftigungsanspruch. Pruefraster vollstaendige Mitteilung Kuendigungsgruende subjektive Determinationstheorie Stellungnahmefrist eine Woche ordentlich drei Tage ausserordentlich Widerspruchsgruende. Output Anhoerungsschreiben-Vorlage Empfangsprotokoll und Kuendigungs-Timing-Plan. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
 ---
 
 # Anhörung des Betriebsrats (§ 102 BetrVG)
 
-## Kaltstart-Rückfragen
+## Zweck
 
-1. Gibt es einen Betriebsrat im Betrieb?
-2. Welche Kündigung steht bevor (ordentlich, außerordentlich, Änderungskündigung)?
-3. Welche Gründe sollen mitgeteilt werden?
-4. Sonderkündigungsschutz nach MuSchG, BEEG, SGB IX?
+Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung — aus Arbeitgeber-Sicht als sorgfältige Vorbereitung, aus Arbeitnehmer-Sicht als potenzieller Unwirksamkeitsgrund. Der häufigste Formfehler im deutschen Kündigungsrecht.
+
+## Mandantenfragen — Kaltstart
+
+1. **Gibt es einen Betriebsrat im Betrieb?** — § 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach § 1 BetrVG beachten.
+2. **Welche Kündigung steht bevor — ordentlich, außerordentlich, Änderungs­kündigung?** — Bestimmt Stellungnahme-Frist und Widerspruchsmöglichkeit.
+3. **Welche Kündigungsgründe sollen mitgeteilt werden?** — Vollständigkeitspflicht nach subjektiver Determinationstheorie (BAG 2 AZR 15/15): Alle aus Arbeitgeber-Sicht maßgeblichen Gründe.
+4. **Liegt Sonderkündigungsschutz vor?** — MuSchG, BEEG, SGB IX, Datenschutzbeauftragter: Anhörungsschreiben muss ggf. auf Schwerbehinderung, Schwangerschaft etc. eingehen.
+5. **Gibt es eine betriebsbedingte Kündigung mit Sozialauswahl?** — Vergleichsgruppe und Sozialauswahlentscheidung im Anhörungsschreiben mitteilen; sonst Anhörung unvollständig.
+6. **Ist die Zweiwochenfrist bei außerordentlicher Kündigung gefährdet?** — § 626 Abs. 2 BGB: 2 Wochen ab Kenntnis des Grundes für Arbeitgeber; Anhörung lauft innerhalb dieser Frist.
+7. **Wurde die Anhörung bereits dokumentiert?** — Datum der Übergabe / Zusendung an Vorsitzenden des Betriebsrats (§ 26 Abs. 2 BetrVG); Beginn Stellungnahmefrist.
+8. **Hat der Betriebsrat Widerspruch eingelegt?** — Wenn ja: Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG bis zur Klärung durch Gericht.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 102 BetrVG** — Anhörung des Betriebsrats vor jeder Kündigung; ohne Anhörung Unwirksamkeit nach § 102 Abs. 1 S. 3 BetrVG.
-- **Subjektive Determinationstheorie:** Arbeitgeber teilt die aus seiner Sicht maßgeblichen Kündigungsgründe vollständig mit; spätere Nachschiebung führt zur Verwertbarkeit nur bei ergänzender Anhörung (BAG, Urt. v. 16.07.2015 – Az. 2 AZR 15/15, NZA 2016, 99 Rn. 14, 17; BAG, Urt. v. 22.09.2016 – Az. 2 AZR 700/15, NZA 2017, 169 Rn. 24).
-- **Stellungnahmefristen § 102 Abs. 2 BetrVG:**
-  - ordentliche Kündigung: eine Woche
-  - außerordentliche Kündigung: drei Tage
-- **Widerspruchsgründe § 102 Abs. 3 BetrVG** — nur gegen **ordentliche** Kündigungen (z. B. unzureichende Sozialauswahl, andere Beschäftigungsmöglichkeiten); ein Widerspruch des Betriebsrats gegen eine außerordentliche Kündigung ist gesetzlich nicht vorgesehen.
-- **Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG** bei Widerspruch und Klage gegen eine ordentliche Kündigung.
-- **§ 79 BetrVG** Verschwiegenheitspflicht; bei sensiblen Daten Schwärzung.
+| Norm | Inhalt |
+|---|---|
+| § 102 Abs. 1 S. 1 BetrVG | Anhörungspflicht vor jeder Kündigung |
+| § 102 Abs. 1 S. 3 BetrVG | Unwirksamkeitsfolge bei Unterlassen oder unvollständiger Anhörung |
+| § 102 Abs. 2 BetrVG | Stellungnahmefristen: 1 Woche ordentlich, 3 Tage außerordentlich |
+| § 102 Abs. 3 BetrVG | Widerspruchsgründe gegen ordentliche Kündigung |
+| § 102 Abs. 4 BetrVG | Zustimmungsfiktion bei Schweigen (nach Fristablauf ordentliche Kündigung) |
+| § 102 Abs. 5 BetrVG | Weiterbeschäftigungsanspruch bei Widerspruch + Klage |
+| § 26 Abs. 2 BetrVG | Vertretung durch Vorsitzenden als Empfangsberechtigten |
+| § 79 BetrVG | Verschwiegenheitspflicht; sensible Daten ggf. schwärzen |
+
+### Leitentscheidungen
+
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---|---|---|---|
+| BAG | 2 AZR 15/15 | 16.07.2015 | Subjektive Determinationstheorie: AG teilt alle von ihm als maßgeblich angesehenen Gründe mit; späteres Nachschieben nur nach erneuter Anhörung |
+| BAG | 2 AZR 700/15 | 22.09.2016 | Vollständigkeit: pauschale Gründe genügen nicht; Sachverhalt muss konkret beschrieben sein |
+| BAG | 2 AZR 736/13 | 23.10.2014 | Unvollständige Anhörung ist nicht ordnungsgemäß |
+| BAG | 2 AZR 532/19 | 13.02.2020 | Sozialauswahl: Vergleichsgruppe und Auswahlentscheidung im Anhörungsschreiben notwendig |
+| BAG | 2 AZR 67/18 | 16.01.2019 | Außerordentliche Kündigung: 3-Tages-Frist; bei Schweigen kann Kündigung nach Fristablauf ausgesprochen werden |
+| BAG | 7 ABR 45/21 | 22.06.2022 | Betriebsrat kann Fristverzicht erklären |
+| BAG | 2 AZR 397/21 | 05.05.2022 | Nachschieben von Kündigungsgründen setzt erneute vollständige Anhörung nach § 102 BetrVG voraus; bloße Ergänzung des ursprünglichen Schreibens genügt nicht |
+| BAG | 2 AZR 43/22 | 02.03.2023 | Anhörung per E-Mail an den Betriebsratsvorsitzenden wahrt die Formvorgaben; maßgeblich ist der Zugang beim Vorsitzenden als Empfangsberechtigtem nach § 26 Abs. 2 BetrVG |
+
+## Kommentarliteratur
+
+- Fitting, BetrVG-Kommentar, 32. Aufl. 2024, § 102 Rn. 1–100 (Anhörungsinhalt, Frist, Folgen)
+- DKKW/Buschmann, BetrVG, 17. Aufl. 2022, § 102 Rn. 50 ff. (subjektive Determinationstheorie)
+- ErfK/Koch, 25. Aufl. 2025, § 102 BetrVG Rn. 1 ff. (systematische Darstellung)
+- HWK/Ricken, Arbeitsrecht Kommentar, 11. Aufl. 2024, § 102 BetrVG Rn. 20 ff. (Vollständigkeitsanforderungen)
+
+## Prüfschema Betriebsratsanhörung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
+| Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
+|---|---|---|---|
+| 1 | Betriebsrat existiert im Betrieb? | § 1 BetrVG | Keine Anhörungspflicht |
+| 2 | Anhörung schriftlich oder in Textform? | § 21a Abs. 2 BetrVG | Formmangel; heilbar? |
+| 3 | Zugang beim Vorsitzenden nachweisbar? | § 26 Abs. 2 BetrVG | Frist-Beginn unklar |
+| 4 | Personen-Daten vollständig? | BAG 2 AZR 736/13 | Anhörung unvollständig |
+| 5 | Beschäftigungs-Daten vollständig? | BAG 2 AZR 15/15 | Anhörung unvollständig |
+| 6 | Kündigungsart und Termin angegeben? | BAG 2 AZR 700/15 | Anhörung unvollständig |
+| 7 | Kündigungsgründe vollständig + konkret? | BAG 2 AZR 15/15 | Unvollständig — § 102 Abs. 1 S. 3 |
+| 8 | Sozialauswahl dargelegt (bei betriebsbedingt)? | BAG 2 AZR 532/19 | Anhörung unvollständig |
+| 9 | Stellungnahme abgewartet oder Frist abgelaufen? | § 102 Abs. 2 BetrVG | Kündigung vor Fristablauf = unwirksam |
+| 10 | Bei Widerspruch: § 102 Abs. 5-Anspruch beachtet? | § 102 Abs. 5 BetrVG | Weiterbeschäftigung möglicherweise einklagbar |
 
 ## Mindestinhalt der Anhörung
 
-| Punkt | Beispiel |
+| Inhaltspunkt | Erforderlich | Beispiel |
+|---|---|---|
+| Vollständiger Name, Geburtsdatum | Ja | "Max Mustermann, geb. 01.01.1980" |
+| Familienstand | Ja | "verheiratet" |
+| Unterhaltspflichten | Ja | "2 Kinder" |
+| Schwerbehinderung | Ja | "GdB 50" oder "keine" |
+| Eintrittsdatum | Ja | "01.09.2015" |
+| Tätigkeit / Abteilung | Ja | "Sachbearbeiter Buchhaltung, Abt. Controlling" |
+| Bruttomonatsvergütung | Ja | "EUR 4.200 brutto" |
+| Kündigungsart und -termin | Ja | "ordentlich zum 31.12.2026" |
+| Kündigungsgründe (konkret) | Ja | Sachverhalt mit Daten, nicht nur Bezeichnung |
+| Sozialauswahl + Vergleichsgruppe | Bei betriebsbedingter Kündigung | Wer im Vergleich, warum Mandant ausgewählt |
+| Abmahnungen (bei verhaltensbedingter) | Ja | Datum, Inhalt, Folge |
+| Krankheitszeiten (bei personenbedingter) | Ja | AU-Tage pro Jahr 2023/2024/2025 |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
 |---|---|
-| Bezeichnung des Arbeitnehmers | Name, Geburtsdatum, Familienstand, Unterhaltspflichten, ggf. Schwerbehinderung |
-| Beschäftigungsdaten | Eintritt, Tätigkeit, Abteilung, Vergütung |
-| Kündigungsart | ordentlich, außerordentlich, Änderungs- |
-| Kündigungstermin | Datum, Frist |
-| Kündigungsgründe | konkret, vollständig, ggf. mit Daten und Sachverhalt |
-| Sozialauswahl (bei betriebsbedingter Kündigung) | Vergleichbare Arbeitnehmer und Auswahlkriterien |
-| Anlagen | Abmahnungen, Krankheitsdaten, ärztliche Stellungnahmen, Schwerbehindertenausweis |
+| Standard — Anhoerungsruege § 102 BetrVG in Klageschrift | Ruege-Baustein nach Template unten |
+| Variante A — Anhoerungsmangel klar und offensichtlich | Auf starke Unwirksamkeit setzen; Vergleich auf hohem Niveau |
+| Variante B — Anhoerung formell ok aber inhaltlich unvollstaendig | Subjektive Determinationstheorie pruefen; Einzelfall-Argumentation |
+| Variante C — Kein Betriebsrat vorhanden | § 102 BetrVG entfaellt; andere Unwirksamkeitsgruende pruefen |
 
-Eine unvollständige Anhörung ist regelmäßig nicht ordnungsgemäß (BAG, Urt. v. 23.10.2014 – Az. 2 AZR 736/13, NZA 2015, 476 Rn. 13).
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Prüfschema
-
-```
-1. Existenz Betriebsrat im Betrieb (§ 1 BetrVG).
-2. Form: schriftlich oder per E-Mail (§ 21a Abs. 2 BetrVG erlaubt Textform für innerbetriebliche Kommunikation).
-3. Inhalt: subjektive Determination, vollständige Begründung.
-4. Anhörung vor Ausspruch der Kündigung.
-5. Fristbeginn mit Zugang bei Vorsitz BR (§ 26 Abs. 2 BetrVG).
-6. Stellungnahme abwarten oder Schweigen der Frist
-   - ordentlich: 1 Woche — Schweigen = Zustimmungsfiktion § 102 Abs. 2 S. 2 BetrVG.
-   - ausserordentlich: 3 Tage — keine Zustimmungsfiktion im Gesetz; bei Schweigen oder Stellungnahme gilt die Anhoerung als abgeschlossen, die Kuendigung kann ausgesprochen werden (BAG, st. Rspr.).
-7. Bei Widerspruch § 102 Abs. 3 BetrVG: Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG.
-8. Dokumentation für späteren Prozess.
-```
-
-## Schreibvorlage
+## Schreibvorlage Anhörungsschreiben
 
 ```
 [Briefkopf Arbeitgeber]
 
-An den Betriebsrat
-- Herrn/Frau Vorsitzende/n -
-Im Hause                                                              [Ort, Datum]
+An den Betriebsrat — Herrn/Frau Vorsitzende/n — Im Hause
+                                               [Ort, Datum]
 
-Anhörung des Betriebsrats gemäß § 102 BetrVG zur beabsichtigten Kündigung
-des Arbeitnehmers/der Arbeitnehmerin [Name]
+Anhörung gemäss § 102 BetrVG zur beabsichtigten Kündigung
 
-Sehr geehrter Herr/Frau Vorsitzende,
+Sehr geehrter Herr / Frau [Vorsitzende/r],
 
-wir beabsichtigen, das Arbeitsverhältnis mit dem nachstehend bezeichneten Mitarbeiter/der Mitarbeiterin zu beenden, und hören Sie hierzu vor Ausspruch der Kündigung an.
+wir beabsichtigen, das Arbeitsverhältnis mit
+[Name, geb. [Datum]], [Tätigkeitsbezeichnung],
+zu kündigen und hören Sie hierzu vor Ausspruch an.
 
-1. Daten des Arbeitnehmers/der Arbeitnehmerin
-   Name, Geburtsdatum, Familienstand
-   Unterhaltspflichten (Ehegatte, Kinder)
-   Schwerbehinderung (Grad), Gleichstellung
+1. Persönliche Daten
+   Name: [Name]
+   Geburtsdatum: [Datum]
+   Familienstand: [verheiratet / ledig / geschieden]
+   Unterhaltspflichten: [Anzahl Kinder; Ehegatte]
+   Schwerbehinderung: [ja, GdB [Grad] / nein]
 
 2. Beschäftigungsdaten
    Eintritt: [Datum]
-   Position: [Tätigkeit]
-   Abteilung: [Abteilung]
-   Bruttomonatsvergütung: EUR [Betrag]
+   Tätigkeit: [Bezeichnung]
+   Abteilung: [Bezeichnung]
+   Brutto-Monatsvergütung: EUR [Betrag]
 
 3. Beabsichtigte Kündigung
-   Art: [ordentlich / außerordentlich / Änderungs-]
-   Frist: [Frist]
-   Termin: [Datum]
+   Art: [ordentlich / ausserordentlich / Aenderungs-]
+   Kündigungsfrist: [Dauer]
+   Datum: [Termin]
 
 4. Kündigungsgründe
-   [Vollständige Sachverhaltsschilderung, Daten, Sachverhalt, Belege]
-   [Bei verhaltensbedingter Kündigung: vorhergehende Abmahnung(en), negative Prognose]
-   [Bei betriebsbedingter Kündigung: betriebliche Erfordernisse, Sozialauswahl mit Vergleichsgruppen]
-   [Bei personenbedingter Kündigung: Dauer der Erkrankung, Prognose, Versuche der leidensgerechten Beschäftigung]
+   [Vollständige Sachverhaltsschilderung; bei verhaltens-
+   bedingt: Pflichtverletzung + Abmahnung(en) mit Daten +
+   negative Prognose; bei betriebsbedingt: Wegfall des AP,
+   Sozialauswahl Vergleichsgruppe + Ergebnis; bei personen-
+   bedingt: AU-Zeiten mit Daten, Prognose, erhebliche
+   Betriebsbeeinträchtigung]
 
 5. Anlagen
-   - [Abmahnungen]
-   - [Krankheitsdaten/AU-Bescheinigungen]
-   - [Sozialauswahlübersicht]
+   [ ] Abmahnung(en) [Datum]
+   [ ] Auswertung AU-Zeiten
+   [ ] Sozialauswahlübersicht
+   [ ] [Sonstiges]
 
-Wir bitten um Stellungnahme innerhalb der Frist des § 102 Abs. 2 BetrVG.
+Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
+§ 102 Abs. 2 BetrVG (Frist endet am [Datum]).
 
-[Unterschrift Geschäftsführung]
+[Unterschrift Geschäftsführung / HR-Leitung]
 ```
 
-## Übergabe
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- Anhörung und Stellungnahme oder Fristablauf für den Klageprozess dokumentieren.
-- Bei außerordentlicher Kündigung Zwei-Wochen-Frist § 626 Abs. 2 BGB im Auge behalten — Anhörung läuft parallel.
-- Auf Mandantenseite des Arbeitnehmers: Anhörungsdefizite als Klagegrund prüfen.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0.
+
+## Widerspruchsgründe § 102 Abs. 3 BetrVG
+
+| Widerspruchsgrund | Inhalt |
+|---|---|
+| Nr. 1 | Sozialwidrige Auswahl (KSchG-Verstoss) |
+| Nr. 2 | Freier Arbeitsplatz im Betrieb oder anderen Unternehmen |
+| Nr. 3 | Umschulung oder Weiterbildung möglich |
+| Nr. 4 | Weiterbeschäftigung unter geänderten Arbeitsbedingungen nach Zustimmung |
+| Nr. 5 | Widerspruch eines anderen Betriebsrats dem dieser zugeordnet ist |
+
+**Wichtig:** Widerspruch nur gegen **ordentliche** Kündigung möglich; gegen außerordentliche Kündigung kein gesetzliches Widerspruchsrecht.
+
+## Weiterbeschäftigungsanspruch § 102 Abs. 5 BetrVG
+
+- Voraussetzungen: wirksamer Widerspruch des BR nach § 102 Abs. 3 + Kündigungsschutzklage des Arbeitnehmers
+- Arbeitgeber muss Arbeitnehmer bis zur Klärung des Kündigungsstreits weiterbeschäftigen
+- AG kann Befreiung beantragen, wenn Kündigung offensichtlich wirksam, Weiterbeschäftigung unverhältnismäßig belastend
+- BAG 2 AZR 67/18: Widerspruch muss form- und fristgerecht sein; inhaltliche Anforderungen an Begründung niedrig
+
+## Beweislast und Darlegungslast
+
+- **Arbeitgeber** trägt Beweislast für ordnungsgemäße Anhörung: Inhalt, Vollständigkeit, Zugang, Fristablauf (BAG 2 AZR 15/15).
+- **Arbeitnehmer** bei Anhörungsrüge: muss konkreten Mangel darlegen (z.B. fehlende Sozialauswahl, nicht genannte Abmahnung).
+- Einwand "subjektiv vollständig": Arbeitgeber kann geltend machen, er habe gutgläubig alle ihm bekannten Gründe mitgeteilt.
+
+## Typische Anhörungsmängel in der Praxis
+
+| Mangel | Häufigkeit | Heilung |
+|---|---|---|
+| Sozialauswahl nicht erwähnt | Sehr häufig | Nein — führt zu Unwirksamkeit |
+| Abmahnung nicht beigefügt | Häufig | Ggf. wenn aus Gründen beschrieben |
+| Kündigung vor Fristablauf ausgesprochen | Mittel | Nein — absoluterMangel |
+| Schwerbehinderung nicht erwähnt | Häufig | Führt zu Anhörungsmangel wenn bekannt |
+| Übergabe nicht an Vorsitzenden | Selten | Fristlauf zweifelhaft |
+
+## Anschluss-Skills
+
+- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — Klageerhebung nach Anhörungsmangel
+- `fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung` — bei parallelem Beschlussmangel
+- `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` — bei kombinierter Kündigung und Freistellung
+
+## Quellen
+
+- BetrVG §§ 1, 26, 79, 102
+- KSchG §§ 1, 4
+- BAG 2 AZR 15/15 (16.07.2015); BAG 2 AZR 700/15 (22.09.2016)
+- BAG 2 AZR 736/13 (23.10.2014); BAG 2 AZR 532/19 (13.02.2020)
+- BAG 2 AZR 67/18 (16.01.2019); BAG 7 ABR 45/21 (22.06.2022)
+- Fitting BetrVG-Kommentar § 102; DKKW BetrVG § 102

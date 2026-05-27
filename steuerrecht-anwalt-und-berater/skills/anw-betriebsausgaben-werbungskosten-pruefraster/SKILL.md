@@ -1,6 +1,6 @@
 ---
 name: anw-betriebsausgaben-werbungskosten-pruefraster
-description: Pruefraster fuer die Abgrenzung Betriebsausgaben § 4 Abs. 4 EStG und Werbungskosten § 9 EStG von Kosten der privaten Lebensfuehrung § 12 EStG. Anwendung Aufteilungsgebot bei gemischt veranlassten Aufwendungen GrS BFH GrS 1/06 und Folge-Rechtsprechung. Spezial-Faelle Arbeitsmittel doppelte Haushaltsfuehrung Fahrtkosten Pendlerpauschale Verpflegungsmehraufwand Fortbildung Studienreisen Pkw-Nutzung Wirtschaftsmittel betrieblich und privat Bewirtungsaufwendungen Bestechung § 4 Abs. 5 Satz 1 Nr. 10 EStG Geschenke Reisekosten BAB Sponsoring Spenden. Beruecksichtigt Nachweispflicht und Aufzeichnungspflichten § 4 Abs. 7 EStG.
+description: "Pruefraster Betriebsausgaben § 4 Abs. 4 EStG und Werbungskosten § 9 EStG abgrenzen von Kosten der privaten Lebensfuehrung § 12 EStG. Anwendungsfall Mandant fragt ob Ausgabe steuerlich absetzbar ist Finanzamt streicht Posten oder Betriebspruefung beanstandet Abzug. Aufteilungsgebot gemischt veranlasste Aufwendungen GrS BFH GrS 1/06. Spezialfall Arbeitsmittel doppelte Haushaltsfuehrung Fahrtkosten Pendlerpauschale Verpflegungsmehraufwand Fortbildung Studienreisen Pkw-Nutzung Bewirtungsaufwendungen § 4 Abs. 5 EStG Geschenke Sponsoring. Nachweispflicht Aufzeichnungspflichten § 4 Abs. 7 EStG. Output Pruefprotokoll Abzugs- entscheidung Empfehlung Belegnachweise."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster
@@ -85,7 +85,7 @@ Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ans
 
 ### Fahrtkosten
 
-- **Pendlerpauschale** § 9 Abs. 1 Nr. 4 EStG — seit 1.1.2026: EUR 0,38 pro Kilometer ab dem 1. Kilometer, dauerhaft (Steueränderungsgesetz 2025); bis 31.12.2025 galt: EUR 0,30 bis 20 km, ab 21 km EUR 0,38. Höchstbetrag EUR 4.500 pro Jahr bei Nutzung anderer Verkehrsmittel als eigenes/zur Nutzung überlassenes Kfz.
+- **Pendlerpauschale** § 9 Abs. 1 Nr. 4 EStG — seit 1.1.2026: EUR 0.38 pro Kilometer ab dem 1. Kilometer, dauerhaft (Steueränderungsgesetz 2025); bis 31.12.2025 galt: EUR 0.30 bis 20 km, ab 21 km EUR 0.38. Höchstbetrag EUR 4500 pro Jahr bei Nutzung anderer Verkehrsmittel als eigenes/zur Nutzung überlassenes Kfz.
 - Alternativ: tatsächliche Kosten (Bahn Flug)
 
 ### Verpflegungsmehraufwand

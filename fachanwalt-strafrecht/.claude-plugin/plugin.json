@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-strafrecht",
-  "version": "9.0.0",
-  "description": "Light-Touch-Plugin Fachanwalt fuer Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-cowork.",
+  "version": "14.2.0",
+  "description": "Plugin Fachanwalt fuer Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -16,6 +16,11 @@
     "ermittlungsverfahren",
     "hauptverhandlung",
     "revision",
-    "akteneinsicht-strafakte"
+    "akteneinsicht-strafakte",
+    "nebenklage",
+    "opfervertretung",
+    "zeugenbeistand",
+    "adhaesion",
+    "insolvenzantrag-sta"
   ]
 }

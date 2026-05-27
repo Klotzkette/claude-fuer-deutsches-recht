@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
@@ -155,3 +155,22 @@ Klassische Stolperfalle in Versicherungsvertragsrecht (Personen- und Sachversich
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Vertiefung — Rechtsprechung Vergleich Versicherungsrecht
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 19.11.2013 — **VI ZR 336/12**, NJW 2014, 688 Rn. 18: Vergleichsabschluss im Versicherungsstreit bindet die Parteien nach § 779 BGB; Anfechtung wegen Irrtums nach § 119 BGB scheidet aus, wenn der Irrtum den bei Vergleichsschluss ungewissen Sachverhalt betrifft, der gerade Gegenstand der Einigung war.
+
+BGH, Urt. v. 14.03.2006 — **IV ZR 5/04**, NJW 2006, 1661 Rn. 14: Pauschale Abgeltungsklauseln in Versicherungsvergleichen erfassen alle Ansprüche aus dem versicherten Schadensfall; zukünftige Folgeschäden (z.B. spätere BU-Verschlechterung) sind nur ausgeschlossen, wenn dies ausdrücklich vereinbart wurde und dem VN bei Vergleichsschluss bekannt war.
+
+BGH, Urt. v. 08.05.2013 — **IV ZR 84/12**, VersR 2013, 856 Rn. 10: Im BU-Vergleich ist die Bindungswirkung des Nachprüfungsverfahrens (§ 174 VVG) gesondert zu regeln; ohne ausdrückliche Regelung bleibt dem Versicherer das Recht zur Nachprüfung erhalten, auch wenn ein Globalvergleich geschlossen wurde.
+
+### Normen-Ergänzung
+
+§ 779 BGB (Vergleich) → §§ 133, 157 BGB (Auslegung Abgeltungsklausel) → § 174 VVG (Nachprüfungsverfahren BU) → § 794 ZPO (Prozessvergleich) → § 796a ZPO (Anwaltsvergleich) → § 116 SGB X (Regress-Übergang bei Sozialleistungen im Vergleich berücksichtigen)
+
+### Kommentarliteratur
+
+- Veith/Gräfe, Der Versicherungsprozess, 4. Aufl. 2020, Kap. 12 (Vergleich und Einigung im Versicherungsstreit): Abgeltungsklausel, Nachprüfungsverfahren, Steuerfolgen.
+- Prölss/Martin, VVG, 31. Aufl. 2021, § 174 VVG: Nachprüfungsverfahren BU; Verhältnis zu Vergleich.

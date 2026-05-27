@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Bank-, Kapitalmarkt- und Wertpapierrecht
@@ -193,3 +193,19 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Vertiefung: Leitsaetze Schriftsatzanforderungen Bank-/Kapitalmarktrecht
+
+### Schluessel-Leitsaetze Substantiierung
+
+- BGH, Urt. v. 16.03.2021 - XI ZR 79/20, NJW 2021, 1944 Rn. 28 — Darlegung zum Beratungsfehler muss konkret die fehlerhafte Information oder Aufklaerungsluecke benennen; pauschale Behauptung "falscher Beratung" genuegt nicht.
+- BGH, Urt. v. 08.05.2012 - XI ZR 262/10, NJW 2012, 2427 Rn. 33 — Kausalitaetsvermutung aufklaerungsrichtigen Verhaltens: Bank muss substantiiert darlegen, dass Anleger auch bei korrekter Aufklaerung investiert haette.
+- BGH, Urt. v. 21.10.2003 - XI ZR 453/02, NJW 2004, 61 Rn. 16 — Schadensersatz aus Falschberatung: Schaden entsteht mit dem Erwerb; Verjaebrungsfrist beginnt mit grob fahrlaessiger Unkenntnis der wesentlichen Tatsachen.
+- BGH, Urt. v. 26.01.2021 - XI ZR 279/19, WM 2021, 416 Rn. 19 — Widerrufsklage: Klaegende muss konkret die Fehler der Widerrufsbelehrung benennen; bloss auf "Fehlerhaftigkeit" hinweisen genuegt nicht.
+
+### Normen-Kette Schriftsatz Bank-/Kapitalmarktrecht
+- §§ 280, 311 BGB — Anspruchsgrundlage Beratungsfehler
+- §§ 495, 355 BGB — Widerruf Verbraucherkredit
+- § 64 WpHG — Geeignetheitspruefung (ab 2018)
+- § 287 ZPO — Schadensschaetzung durch Gericht
+- § 296 ZPO — Zurueckweisung verspaeteten Vortrags

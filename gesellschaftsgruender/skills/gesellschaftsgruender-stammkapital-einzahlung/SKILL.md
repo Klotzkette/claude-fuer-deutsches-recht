@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-stammkapital-einzahlung
-description: "Stammkapital-Einzahlung GmbH UG bei Bargruendung. Mindestbetrag 12500 EUR GmbH 100 Prozent UG. Sachgruendung vollstaendig. Freie Verfuegung Geschaeftsfuehrer Paragraf 7 II 2 GmbHG. Geschaeftskonto-Eroeffnung GwG-Identifikation. Bank-Bestaetigung. Spaetere Kapitalerhoehung. Hin- und Herzahlen Verbot Paragraf 19 GmbHG."
+description: "Stammkapitaleinzahlung bei GmbH-Gruendung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: §§ 7 Abs. 2 und 19 GmbHG. Pruefraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlagepruefung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungsvorlage. Abgrenzung: nicht Kapitalerhöhung nach Gruendung."
 ---
 
 # Stammkapital-Einzahlung
@@ -193,3 +193,58 @@ Die Einlage muss **endgültig** und **uneingeschraenkt** beim GF zur freien Verf
 - `gesellschaftsgruender-handelsregister-anmeldung` — Anmeldung mit Einzahlungs-Bestätigung
 - `gesellschaftsgruender-transparenzregister` — TraFinG-Pflicht
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — Buchhaltung Kapitalkonto
+
+## Triage zu Beginn
+
+Klaere vor Anmeldung beim HR:
+
+1. **GmbH oder UG?** GmbH: mind. 12.500 EUR einzuzahlen vor Anmeldung; UG: Stammkapital vollstaendig.
+2. **Bar- oder Sachgruendung?** Bar: Konto-Bestätigung; Sach: Werthaltigkeitsnachweis und Sachgruendungsbericht.
+3. **Hin- und Herzahlen-Risiko?** Steht zeitnah ein Kauf vom Gesellschafter an? Vorsicht § 19 V GmbHG.
+4. **Vorratsgesellschaft?** Wird eine bestehende GmbH neu aktiviert? Dann neue Einzahlung erforderlich.
+5. **Auslaendische Gesellschafter?** GwG-Pruefung der Bank kann Konto-Eroeffnung verzoegern.
+6. **Gesellschaftskonto bereits eroeffnet?** Frist zum Notar-Termin beachten (2-7 Tage Bankprozess).
+
+## Aktuelle Rechtsprechung
+
+- **BGH, Urt. v. 16.01.2006 – II ZR 65/04, BGHZ 165, 352** — Die Pflicht zur Einzahlung des Stammkapitals vor Anmeldung (§ 7 Abs. 2 GmbHG) ist eine Voraussetzung der HR-Eintragung; eine falsche eidesstattliche Versicherung des GF begründet Strafbarkeit nach § 82 GmbHG und persoenliche Haftung.
+- **BGH, Urt. v. 20.07.2009 – II ZR 273/07, NJW 2009, 2987** — Das „Hin- und Herzahlen" (Einzahlung der Bareinlage verbunden mit zeitnaher Rueckzahlung) fuehrt dazu, dass die Einlage als nicht erbracht gilt; der GF haftet fuer die Differenz; die eidesstattliche Versicherung der freien Verfuegbarkeit ist falsch.
+- **BGH, Urt. v. 18.10.2010 – II ZR 277/08, NJW 2011, 513** — Bei einer wirtschaftlichen Neugründung (Aktivierung einer Vorrats- oder Mantelgesellschaft) sind die Vorschriften ueber die Kapitalaufbringung wie bei einer Neugründung anzuwenden; volle Einzahlung des Stammkapitals erforderlich.
+- **OLG Muenchen, Urt. v. 03.05.2018 – 7 U 3965/17, GmbHR 2018, 712** — Bei Sacheinlagen ist der Wert zum Zeitpunkt der Anmeldung massgeblich; spaeter eingetretene Wertverluste befreien von der Differenzhaftung nicht; Differenzhaftung nach § 9 GmbHG gilt absolut.
+
+## Kommentarliteratur
+
+- Scholz/Winter, GmbHG, 13. Aufl., §§ 5, 7, 9, 19 Rn. 1-100 (Stammkapital; Einzahlungspflicht; Hin-und-Herzahlen)
+- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 7 Rn. 1-60 (Mindesteinzahlung; Freie Verfuegung; Eidesstattliche Versicherung)
+- Baumbach/Hueck/Fastrich, GmbHG, 23. Aufl., § 19 Rn. 1-60 (Einlageschuld; Hin-und-Herzahlen; Differenzhaftung)
+
+## Output-Template: Einzahlungs-Protokoll fuer Anwaltsakte
+
+**Adressat:** Interne Dokumentation — Tonfall sachlich
+
+```
+STAMMKAPITAL-EINZAHLUNGS-PROTOKOLL
+Gesellschaft: [FIRMA i.G.] | Datum: [DATUM]
+
+STAMMKAPITAL: [BETRAG] EUR
+MINDESTEINZAHLUNG (GmbH: 50%): [BETRAG] EUR
+EINGEZAHLT AM: [DATUM]
+KONTONUMMER: [IBAN]
+BANK: [NAME]
+
+EINZAHLENDE GESELLSCHAFTER:
+  [NAME 1]: [BETRAG] EUR (Ueberweisung von Konto [IBAN])
+  [NAME 2]: [BETRAG] EUR (Ueberweisung von Konto [IBAN])
+
+BANKBESTAETIGUNG ERHALTEN: Ja / Nein | Datum: [DATUM]
+WORTLAUT: "Betrag steht zur freien Verfuegung des GF"
+
+HIN-UND-HERZAHLEN-CHECK:
+  Geplanter Kauf vom Gesellschafter: Ja / Nein
+  Falls Ja: Zeitabstand zum Einzahlungsdatum: [N] Monate
+  Risiko: [OK / ERHOEHTES RISIKO — Pruefung empfohlen]
+
+EIDESSTATTLICHE VERSICHERUNG GF: [NAME] am [DATUM]
+
+EINGEREICHT AN NOTAR: Ja / Nein | Datum: [DATUM]
+```

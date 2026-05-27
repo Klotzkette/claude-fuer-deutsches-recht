@@ -1,6 +1,6 @@
 ---
 name: zv-notarielle-urkunde-grundschuld
-description: "Zwangsvollstreckung aus notarieller Urkunde mit Unterwerfungsklausel (§ 794 Abs. 1 Nr. 5 ZPO), insbesondere Grundschuld mit dinglicher und persönlicher Unterwerfung. Klärt Klauselumschreibung § 727 ZPO bei Forderungsabtretung, Sicherungsabrede, Kündigung § 1193 BGB, Sechs-Monats-Frist, Vollstreckung in das Grundstück (ZVG) und in das persönliche Vermögen (PfÜB)."
+description: "Glaeubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Pruefraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung § 727 ZPO bei Abtretung Sicherungsabrede Kuendigung § 1193 BGB 6-Monats-Frist Vollstreckung Grundstueck ZVG vs. persoenliches Vermoegen PfUeB. Output: Vollstreckungsstrategie und Schriftsatz-Entwurf. Abgrenzung zu zv-zvg-antrag-glaeubiger (Versteigerung) und zv-titel-klausel-zustellung."
 ---
 
 # Vollstreckung aus notarieller Grundschuldurkunde

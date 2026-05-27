@@ -59,3 +59,15 @@ Probleme:
 - Wurde die Entscheidung für getrennte oder integrierte Betrachtung begründet?
 - Netzwerkeffekte in der Abgrenzung berücksichtigt?
 - DMA-Gatekeeper-Designierung als Referenzpunkt verwendet? (vgl. Skill `dma-und-gatekeeper-markt`)
+
+## Leitentscheidungen Mehrseitige Maerkte
+
+- EuGH, Urt. v. 12.09.2019 — C-376/18 (Mastercard), ECLI:EU:C:2019:712 — Mehrseitiger Zahlungsmarkt; Netzwerkeffekte zwischen Kartenhaltern und Haendlern; Preissetzung systemisch betrachten.
+- EuGH, Urt. v. 27.06.2023 — C-252/21 (Facebook), NZKart 2023, 430 — Plattformdominanz; kostenloser Dienst trotzdem marktbeherrschend; Wert der Nutzerdaten als Gegenleistung.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — § 18 Abs. 3a GWB; direkte und indirekte Netzwerkeffekte; Multi-Homing-Potenzial als Faktor.
+- BKartA, Beschl. v. 01.02.2022 — B6-22/21 (Facebook/Meta) — Plattformmacht; Social-Network-Markt; Nutzerdaten als Wechselkostenfaktor.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 15-40 (Mehrseitige Maerkte, Plattformen, § 18 Abs. 3a)
+- Immenga/Mestmaecker GWB § 18 Abs. 3a Rn. 1-60 (Plattformmaerkte, Netzwerkeffekte)

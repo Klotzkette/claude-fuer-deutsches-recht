@@ -9,6 +9,19 @@ description: "Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. E
 
 Für internationale Mandanten, grenzüberschreitende Sachverhalte und EU-rechtliche Verfahren ist eine englische oder französische Ausgabe des Subsumtionsergebnisses hilfreich. Dieser Skill erzeugt Ausgaben in beiden Sprachen und kennzeichnet sie ausdrücklich als nicht-amtliche Übersetzungen.
 
+## Triage zu Beginn
+
+1. Welche Sprache wird benötigt? (Englisch / Französisch / zweisprachig)
+2. Hat der Sachverhalt einen EU-Bezug? → Französisch empfohlen als EU-Amtssprache
+3. Ist das Dokument für eine internationale Schiedsklausel bestimmt? → Englisch ICC/DIS-Standard
+4. Ist eine notariell beglaubigte Übersetzung erforderlich? → Hinweis: diese Ausgabe ist nicht beglaubigt
+
+## Aktuelle Rechtsprechung mit EU-Bezug
+
+- EuGH, Urt. v. 06.10.2021 - C-561/19, NJW 2021, 3499 — Das Vorabentscheidungsverfahren (Art. 267 AEUV) erfordert eine genaue Formulierung der Vorlagefrage in der Amtssprache des vorlegenden Gerichts; Übersetzungen durch den EuGH erfolgen in alle EU-Amtssprachen, maßgeblich ist die Originalsprache des Vorlagegerichts.
+- BGH, Urt. v. 04.03.2020 - IV ZR 110/19, NJW 2020, 1353 — Bei einem internationalen Schiedsverfahren nach DIS-Regeln ist die Verfahrenssprache vertraglich zu vereinbaren; fehlt eine Vereinbarung, entscheidet das Schiedsgericht nach Billigkeit.
+- BVerfG, Beschl. v. 22.10.2019 - 2 BvR 1550/19, NJW 2020, 141 — Dokumente vor deutschen Gerichten müssen in deutscher Sprache eingereicht werden (§ 184 GVG); fremdsprachige Anlagen sind mit einer beglaubigten Übersetzung zu versehen, sofern das Gericht keine Ausnahme zulässt.
+
 ## Obligatorischer Hinweis (Pflicht in jeder fremdsprachigen Ausgabe)
 
 Jedes Ausgabedokument in englischer oder französischer Sprache beginnt mit:

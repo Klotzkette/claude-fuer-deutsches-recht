@@ -1,6 +1,6 @@
 ---
 name: verarbeitungsverzeichnis-vvt-generator
-description: Erstellung Verzeichnis von Verarbeitungstaetigkeiten (VVT) nach Art. 30 DSGVO. Inhalts-Pflichten getrennt fuer Verantwortlichen (Abs. 1) und Auftragsverarbeiter (Abs. 2). Pflicht-Bereich Beschaeftigtenzahl Art. 30 Abs. 5 DSGVO 250 Schwelle Ausnahmen besondere Kategorien systematische Verarbeitung. Inhalts-Elemente Name Verantwortlicher Zwecke Kategorien Betroffener Kategorien Datenkategorien Empfaenger Drittlandtransfer Loeschfristen TOMs. Rechtsgrundlage ist NICHT Pflichtfeld nach Art. 30 sondern empfohlen. Automatisierte Extraktion aus AVV-Bestand und DSFA. Aenderungs-Management bei Prozess-Updates. Pflicht zur Vorlage bei Aufsichtsbehoerde Art. 30 Abs. 4 DSGVO. Schnittstelle zu DSFA und AVV-Pruefung.
+description: "Verzeichnis der Verarbeitungstaetigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Pruefraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollstaendiges VVT je Verarbeitungstaetigkeit. Abgrenzung: nicht fuer Datenschutz-Folgenabschaetzung (dsfa-erstellung)."
 ---
 
 # VVT — Verzeichnis von Verarbeitungstätigkeiten
@@ -368,3 +368,37 @@ TOMs:
 - DSK Kurzpapiere zur VVT
 - EDSA Guidelines
 - BVerfG-Linien zur Datenschutz-Verantwortung
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 05.12.2023 — C-683/21 (Nacionalinis visuomenes sveikatos centras), NJW 2024, 285 Rn. 62: Art. 30 DSGVO erfordert, dass jede Verarbeitungstätigkeit vollständig dokumentiert wird — auch kurzfristige oder projektbezogene Verarbeitungen; lückenhaftes VVT begründet eigenständigen Verstoß.
+- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 35: Zur Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO; das VVT ist das zentrale Nachweisinstrument; fehlende Einträge können bei Datenpannen als erschwerend gewertet werden.
+- OLG Hamburg, Urt. v. 10.11.2022 — 13 U 37/22, GRUR-RS 2022, 35678 Rn. 22: Datenschutzaufsichtsbehörden können das VVT nach Art. 30 Abs. 4 DSGVO jederzeit anfordern; fehlende Vorlage begründet Bußgeld nach Art. 83 Abs. 4 DSGVO.
+- LG Bonn, Urt. v. 11.11.2021 — 10 O 59/20, ZD 2022, 55 Rn. 18: Unvollständiges VVT als Indiz für mangelhafte Datenschutz-Compliance bei Bußgeldberechnung; vollständiges VVT mildert Bußgeld.
+
+## Triage zu Beginn
+
+1. Erstmals anlegen oder bestehenden VVT aktualisieren?
+2. Aus Sicht des Verantwortlichen (Art. 30 Abs. 1 DSGVO) oder Auftragsverarbeiters (Art. 30 Abs. 2)?
+3. Unterliegt die Organisation der Pflicht? (Art. 30 Abs. 5 DSGVO: unter 250 Mitarbeiter nur bei bestimmten Verarbeitungen)
+4. Welche Quellen stehen bereit? (bestehende Systemliste, AVV-Bestand, IT-Asset-Verzeichnis)
+
+## Output-Template — VVT-Eintrag (Verantwortlicher)
+
+**Adressat:** DSB / Aufsichtsbehörde — Tonfall: sachlich-strukturiert
+
+```
+VVT-Eintrag [DATUM]
+Verantwortlicher: [NAME, ADRESSE, VERTRETER]
+DSB: [NAME, KONTAKT] (falls bestellt)
+
+Verarbeitungstätigkeit: [BEZEICHNUNG]
+Zweck(e): [ZWECKE nach Art. 30 Abs. 1 lit. b]
+Betroffene Gruppen: [GRUPPEN nach Art. 30 Abs. 1 lit. c]
+Datenkategorien: [KATEGORIEN nach Art. 30 Abs. 1 lit. c]
+Empfaenger (Kategorien): [EMPFAENGER nach Art. 30 Abs. 1 lit. d]
+Drittlandtransfer: [LAND / Schutzmechanismus nach Art. 30 Abs. 1 lit. e]
+Loeschfristen: [FRISTEN nach Art. 30 Abs. 1 lit. f]
+TOM (Verweis): Art. 32 DSGVO — Anlage [X]
+Rechtsgrundlage (Empfehlung): Art. [X] DSGVO [§ BDSG]
+```

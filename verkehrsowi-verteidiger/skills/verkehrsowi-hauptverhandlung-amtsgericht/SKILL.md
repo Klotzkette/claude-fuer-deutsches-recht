@@ -1,45 +1,127 @@
 ---
 name: verkehrsowi-hauptverhandlung-amtsgericht
-description: "Bereitet die OWi-Hauptverhandlung mit Beweisanträgen, Einlassung, Fragen und Vergleichsstrategie vor."
+description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und fuehren: Termin nach Einspruch gegen Bussgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisantraege), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Pruefraster: Beweisantraege (Sachverstaendiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmoeglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot."
 ---
 
-# Hauptverhandlung vor dem Amtsgericht
+# Hauptverhandlung OWi am Amtsgericht
 
-## Zweck
+## Triage zu Beginn — Checkliste vor der HV
 
-Dieser Skill gehört zum freistehenden Plugin **VerkehrsOWi-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Erscheinungspflicht?** — § 73 Abs. 1 OWiG: Betroffener kann von Erscheinungspflicht entbunden werden; auf Antrag. Verteidiger kann allein erscheinen (§ 73 Abs. 3 OWiG).
+2. **Beweisantraege formuliert?** — § 77 OWiG: Beweisantraege moegen vorbereitet sein; konkretes Beweisthema + Beweismittel.
+3. **Einlassung oder Schweigen?** — § 55 OWiG: Schweigen neutral; Einlassung nur wenn strategisch vorteilhaft.
+4. **Verstaendigungsangebot gemacht?** — Informelle Gespraech mit Staatsanwalt oder Richter vor HV.
+5. **Rechtsbeschwerde vorbereitbar?** — § 79 OWiG: Nur bei Geldbusse > 250 EUR oder Fahrverbot; Revisionsbegrenzt auf Rechtsfehler.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 71 OWiG** — Hauptverhandlung: gilt StPO entsprechend soweit OWiG nichts anderes regelt
+- **§ 73 OWiG** — Erscheinungspflicht: Absehen, Entbindung; Verteidiger kann allein erscheinen
+- **§ 74 OWiG** — Verwerfung des Einspruchs bei unentschuldigtem Ausbleiben
+- **§ 77 OWiG** — Beweisantraege: Ablehnungsgruende eng; Sachverstaendigenrecht
+- **§ 17 OWiG** — Geldbusse: Zubemassung nach Schwere und Einkommen
+- **§ 79 OWiG** — Rechtsbeschwerde: zulaessig bei Geldbusse > 250 EUR oder Fahrverbot
+- **§ 80 OWiG** — Zulassung der Rechtsbeschwerde bei grundsaetzlicher Bedeutung
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Ladung, Entbindung vom persönlichen Erscheinen, Vollmacht und Terminskollision prüfen.
-2. Einlassung, Schweigen, Beweisanträge, Sachverständiger, Zeugenfragen und Rechtsfolgenvorschlag planen.
-3. Mandanten auf Ablauf, Kleidung, Sprache, Risiken und Vergleichsmöglichkeiten vorbereiten.
-4. Ausgabe: Verhandlungsmappe mit Ablaufplan.
+- BGH, Beschl. v. 30.10.1997 - 4 StR 24/97, BGHSt 43, 277 — Im OWi-Verfahren bei standardisiertem Messverfahren keine detaillierte Urteilsbegruendung notwendig; aber konkrete Einwaende muessen beschieden werden.
+- OLG Bamberg, Beschl. v. 08.05.2017 - 3 Ss OWi 626/17, NZV 2017, 494 — Sachverstaendigenantrag zu Messfehlerursachen muss beschieden werden wenn konkrete Angriffspunkte.
+- OLG Saarbruecken, Beschl. v. 18.10.2021 - Ss BS 49/21 OWi, NZV 2022, 84 — Verwerfung eines Sachverstaendigenantrags ohne Begruendung verletzt faires Verfahren.
+- OLG Koblenz, Beschl. v. 17.11.2020 - 1 OWi 6 SsBs 65/20, NZV 2021, 156 — Vor Verwerfung nach § 74 OWiG muss Gericht Entschuldigungsgruende wirklich pruefen.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- KK-OWiG / Senge § 77 Rn. 1-40 (Beweisaufnahme OWi)
+- Goehler OWiG § 73 Rn. 1-15 (Erscheinungspflicht)
+- Goehler OWiG § 74 Rn. 1-20 (Verwerfung Einspruch)
+- KK-OWiG / Mitsch § 79 Rn. 1-25 (Rechtsbeschwerde)
 
-## Ausgabeformat
+## Vorbererungs-Checkliste (1 Woche vor HV)
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+```
+□ Messakte vollstaendig ausgewertet?
+□ Sachverstaendigenantrag formuliert (wenn noetig)?
+□ Einlassung oder Schweigen entschieden?
+□ Haertefall-Argument (Fahrverbot) vorbereitet?
+□ Entbindungsantrag (§ 73 OWiG) gestellt?
+□ Verstaendigung mit Gericht/StA sondiert?
+□ Mandant ueber HV-Ablauf informiert?
+□ Rechtsbeschwerde-Strategie vorgedacht?
+```
+
+## Ablauf-Schema HV OWi
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+```
+1. Aufruf der Sache (§ 243 StPO i.V.m. § 71 OWiG)
+2. Feststellung Erscheinen aller Beteiligten
+3. Ggf. Einspruchsverwerfungsantrag der StA? → widersprechen
+4. Verlesung Anklage (Tatvorwurf)
+5. Belehrung Betroffener § 55 OWiG (Schweigerecht)
+6. Einlassung oder Schweigen
+7. Beweisaufnahme:
+   a) Zeugen (Polizeibeamte)
+   b) Urkundsbeweis (Messprotokoll, Eichschein)
+   c) Sachverstaendiger (wenn beantragt und zugelassen)
+8. Schlussvortrag Staatsanwaltschaft
+9. Plaedoyer Verteidiger
+10. Letztes Wort Betroffener
+11. Urteil (Freispruch / Geldbusse / Fahrverbot)
+```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — OWi-Hauptverhandlung am Amtsgericht fuehren | Plaedoyer nach Schema; Template unten |
+| Variante A — Mandant will Einspruch zuruecknehmen vor HV | Einspruchsruecknahme statt HV; Bussgeldbescheid wird rechtskraeftig |
+| Variante B — Freispruch unrealistisch Strafmass im Fokus | Strafzumessungs-Plaedoyer; Fahrverpflichtung pruefen |
+| Variante C — Rechtsbeschwerde bereits im Blick | Verteidigungsstrategie HV auf Rechtsbeschwerde ausrichten; Protokollfuehrung beachten |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzkern Plaedoyer OWi
+
+```
+Sehr geehrtes Gericht,
+
+[Zusammenfassung der Beweisaufnahme aus Sicht der Verteidigung]
+
+Die Messung ist aus folgenden Gruenden anzuzweifeln:
+[Konkreter Angriffspunkt 1]
+[Konkreter Angriffspunkt 2]
+
+Strafzumessung: Bei Verurteilung beantrage ich Absehen vom
+Fahrverbot / Herabsetzung der Geldbusse, weil:
+[Haertefall / mildernde Umstaende / Erstverstos]
+
+Antrag: Freispruch / Einstellung / Geldbusse von [X] EUR
+ohne Fahrverbot.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Sachverstaendigenantrag vor Schluss der Beweisaufnahme stellen.
+- Letztes Wort des Betroffenen niemals vergessen.
+- Entbindungsantrag rechtzeitig (vor HV) stellen.
+- Rechtsbeschwerde nur bei Geldbusse > 250 EUR oder Fahrverbot; sonst kein Rechtsmittel.
+- Anwaltliche Endkontrolle bei Plaedoyer und Antraegen.

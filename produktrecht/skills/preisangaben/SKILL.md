@@ -77,6 +77,22 @@ Das Modell benötigt:
 **Schritt 6 – Dokumentation**
 - 30-Tage-Preishistorie für alle Produkte mit Aktionen intern dokumentieren und archivieren (Beweislast im UWG-Prozess beim Händler).
 
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 07.04.2022 — I ZR 143/21, NJW 2022, 2200 — 30-Tage-Niedrigstpreisregel § 11 PAngV 2022; Referenz-Tiefstpreis muss tatsaechlich der niedrigste Preis der letzten 30 Tage sein; manipulative Preiserhöhung vor Sale-Beginn unlauter
+- OLG Frankfurt, Urt. v. 18.05.2023 — 6 U 1/23, WRP 2023, 890 — Streichpreis muss dem tatsaechlichen Preis der letzten 30 Tage entsprechen; fiktiver Referenzpreis ist Irrefuehrung nach § 5 UWG; Busgeld und Abmahnrisiko hoch
+- EuGH, Urt. v. 26.10.2023 — C-144/23 (Lidl), NJW 2024, 50 — Art. 6a RL 98/6/EG (Omnibus-Richtlinie); nationaler Spielraum bei Produkten ohne 30-Tage-Preishistorie begrenzt; Mitgliedstaaten koennen ergaenzende Regeln erlassen, duerfen Schutzstandard aber nicht unterschreiten
+- BGH, Urt. v. 09.07.2020 — I ZR 163/19, NJW 2020, 2958 — Grundpreisangabe § 4 PAngV; fehlende Grundpreisangabe bei verpflichteten Produkten ist Wettbewerbsverstoss; Angemessenheit der Schriftgroesse nach PAngV muss die Angabe deutlich sichtbar machen
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 1-4 PAngV (Preisangaben, Gesamtpreis, Grundpreis) — § 11 PAngV (30-Tage-Niedrigstpreisregel) — §§ 3, 5 UWG (Irreführende Werbung, Preisgestaltung) — Art. 6a RL 98/6/EG i.d.F. Omnibus-RL 2019/2161 (Preisreduzierungen)
+
+## Kommentarliteratur
+
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 312 ff. Rn. 1 ff. (Informationspflichten Verbraucherschutz, Fernabsatz, Preisangaben)
+- BeckOK UWG/Alexander, § 5 Rn. 1 ff. (Irreführung Preisangaben, Streichpreise, Black-Friday)
+
 ## Ausgabeformat
 
 - **Preisauszeichnungs-Checkliste** (Tabelle): § 3 / § 4 / § 6 / § 11 PAngV × Anforderung × Status × Handlungsbedarf.

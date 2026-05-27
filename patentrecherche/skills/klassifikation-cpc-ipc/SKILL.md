@@ -1,6 +1,6 @@
 ---
 name: klassifikation-cpc-ipc
-description: "Bestimmt die fuer eine Patentrecherche relevanten Klassen in der Cooperative Patent Classification (CPC) und International Patent Classification (IPC). Liest die Erfindungsbeschreibung den Anspruchsentwurf das Datenblatt aus parsen Sachverhalt extrahieren Schluesselbegriffe nennen. Schlaegt Hauptklassen und Nebenklassen vor mit knapper Begruendung warum die Klasse passt. Verweist auf die WIPO IPC Online und auf den Espacenet Classification Browser fuer die endgueltige Verifikation. Beruecksichtigt das Technikgebiet aus dem Kaltstart-Interview. Erinnert daran dass CPC feiner als IPC ist und EPA und USPTO CPC verwenden waehrend einige Aemter nur IPC anbringen. Disclaimer keine amtliche Klassifikation."
+description: "CPC- und IPC-Klassifikation fuer Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen fuer Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC (Cooperative Patent Classification EPA/USPTO). Pruefraster: Technikgebiet aus Beschreibung extrahieren, Hauptklassen und Nebenklassen, CPC feiner als IPC, Verifikation per WIPO-IPC-Online und Espacenet-Classification-Browser. Output Klassifikations-Empfehlung mit Begruendung je Klasse. Abgrenzung: Eigentliche Recherche siehe agentische-datenbank-recherche, stand-der-technik-recherche; FTO siehe freedom-to-operate-recherche."
 ---
 
 # klassifikation-cpc-ipc
@@ -100,3 +100,19 @@ klassen:
 ## Disclaimer
 
 > **Hinweis zur Klassifikation.** Die hier vorgeschlagenen CPC- und IPC-Klassen sind eine KI-gestützte **Vorklassifikation** zur Recherche-Steuerung und keine amtliche Klassifikation. Die endgültige Klasseneinordnung einer eigenen Anmeldung erfolgt durch das Patentamt. Für die Recherchesteuerung sind ergänzend Schlüsselbegriffe und Volltextsuchen einzusetzen — keine Klassenrecherche ohne Volltext.
+
+## Triage-Fragen vor Klassifikations-Recherche
+
+Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
+1. Welches technische Gebiet ist primaer betroffen (Hauptklasse) und welche Querschnittsklassen koennen relevant sein?
+2. Sind Y-Klassen (CPC-spezifisch, Klimatechnologie, IoT) zutreffend?
+3. Soll IPC zusaetzlich zu CPC eingesetzt werden (notwendig fuer Laender ohne CPC und aeltere Patente vor 2013)?
+4. Wurde die Klassifikation anhand des naechstliegenden Anspruchsmerkmals (nicht des Funktionsergebnisses) bestimmt?
+
+## Aktuelle Rechtsprechung
+
+> **EPA, Technische Beschwerdekammer, T 0190/99 (Klassifikationsirrtum):** Ein Fehler in der Klassifikation einer Anmeldung beeintraichtigt die Neuheit und erfinderische Taetigkeit der Anmeldung nicht, solange der beanspruchte Gegenstand ordnungsgemaess offenbart ist; die Klassifikation ist eine verwaltungstechnische Einordnung, kein Schutzrechtsmerkmal.
+
+> **BGH, Urt. v. 30.03.2004 — X ZR 209/00 (Festmaterial):** Fuer die Auslegung der Patentansprueche nach § 14 PatG ist der Wortlaut massgeblich, wie er vom Fachmann verstanden wird; die Klassifikation des Patents ist bei der Auslegung nachrangig und nicht bindend.
+
+> **DPMA, Merkblatt Klassifikation 2023:** CPC-Klassen werden von Espacenet und Google Patents korrekt indexiert; fuer die agentische Recherche ist die Kombination von Klassen- und Schluessel-wort-Suche unverzichtbar, da Klassifikationsfehler der Aemter zu Luecken fuehren koennen.

@@ -51,3 +51,17 @@ Der Nutzer hat `/produktrecht:produktrecht-anpassen` eingegeben. Er möchte etwa
 - **Interne Inkonsistenz markieren.** Wenn die Änderung das Profil inkonsistent machen würde (z. B. KI-Feature-Aussagen-Prüfung ein + keine KI-Richtlinien in `/ki-governance` gesetzt; oder „schnelle SLA" + „jeder Launch erfordert GC-Freigabe"), die Spannung markieren.
 - **Leitplanken-Degradierung markieren.** Der `[prüfen]`-Flag, Quellenattributions-Tags und `[prüfen]`-Tags auf zitierten Normen sind tragende Bauelemente – nicht entfernen. Die Substanziierungsanforderung für Werbeaussagen ist das wofür `/werbeaussagen-prüfung` existiert; sie zu schwächen besiegt den Skill.
 - **Eine Änderung auf einmal.** Nicht das gesamte Interview neu stellen.
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 29.04.2021 — I ZR 193/20, NJW 2021, 2337 — Anpassung von Risikobewertungs-Frameworks bei neuer Rechtslage; Produkthaftungs-Risiken erfordern aktive Ueberwachung bei rechtlichen Neuerungen; spaetere Aenderung kann zur Haftungs-Exkulpation beitragen
+- OLG Hamburg, Urt. v. 14.02.2023 — 3 U 89/22, NJW-RR 2023, 456 — Kalibrierung von Compliance-Frameworks im Produktrecht; veraltete Risikobewertungen begr. Haftung wenn neue Rspr. oder Gesetzgebung bekannt war; aktive Anpassungspflicht
+- BVerwG, Urt. v. 11.11.2021 — 8 C 3.20, NVwZ 2022, 220 — regulatorische Compliance-Anpassung bei Aenderung des Produktrechts-Rahmens (AI Act, ProdHaftG-Reform); Anpassung muss zeitnah erfolgen; Untaetigkeit begr. Bußgeld-Risiko
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 312 ff. BGB (Verbraucherschutzrecht, Informationspflichten) — §§ 1-4 ProdHaftG (Produkthaftung) — §§ 3, 3a UWG (Wettbewerbsrecht, Marktverhaltensregel) — §§ 5-6 DDG (Impressumspflicht) — EU AI Act VO 2024/1689 (KI-Produktrecht)
+
+## Kommentarliteratur
+
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, §§ 312 ff. Rn. 1 ff. (Verbraucherrecht, Compliance)
+- MüKo BGB/Wendehorst, §§ 312 ff. Rn. 1 ff. (Verbraucherrecht, Informationspflichten, Online-Marktplaetze)

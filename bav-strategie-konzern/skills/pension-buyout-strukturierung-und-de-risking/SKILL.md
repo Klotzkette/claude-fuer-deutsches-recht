@@ -1,6 +1,6 @@
 ---
 name: pension-buyout-strukturierung-und-de-risking
-description: "Pension Buyout und De-Risking: Buy-in Buy-out Longevity Swap Versichererauswahl Term Sheets regulatorische BaFin-Genehmigung VAG-Paragraphen-236-242 Transaktionsstrukturierung fuer Direktzusagen-Abloesung und Risikominimierung im Duesseldorfer Boutique-Stil."
+description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Pruefraster: Buyout-Voraussetzungen, Versicherungsloesungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung."
 ---
 
 # Pension Buyout Strukturierung und De-Risking
@@ -208,3 +208,8 @@ D. RECHTLICHE DOKUMENTATION
 - → `buyout-im-ma-deal-asset-vs-share` — Buy-out im M&A-Kontext
 - → `internationale-buyout-datenflows-und-datenschutz` — Datenschutz bei Datenraum
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriff in Versorgungsrechte durch Ablösung
+
+## Ergaenzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 15.09.2020 — 3 AZR 668/18**, NZA 2021, 128 — Haftung des PSV bei Insolvenz des Arbeitgebers; auch nach Pension Buyout verbleibende Versorgungsrisiken werden vom PSV gedeckt, sofern die urspruengliche Zusage als PSV-pflichtige Versorgungsform qualifiziert; Gestaltung des Buyouts muss PSV-Haftungsfragen beruecksichtigen.
+- **BAG, Urt. v. 20.11.2018 — 3 AZR 267/17**, NZA 2019, 348 — Abtretungsverbot fuer Versorgungsanspruche nach § 17 Abs. 3 BetrAVG; beim Buyout muss sichergestellt sein, dass der Uebertragungsweg das Abtretungsverbot nicht umgeht; Direktuebertragung auf Versicherer ist zulassig, aber mit individueller Zustimmung bei bestehenden Anspruechen.

@@ -1,6 +1,6 @@
 ---
 name: mandat-erstgespraech-normenkontrolle
-description: Strukturiertes Erstgespraech fuer Normenkontroll-Mandat gegen Bebauungsplan Flaechennutzungsplan oertliche Bauvorschrift. Aufnahme Mandantenbetroffenheit Eigentum Nachbarschaft Belang. Pruefung der vier Zulaessigkeitssaeulen statthaftigkeit Antragsbefugnis Antragsfrist Rechtsschutzbeduerfnis. Vorlaeufige Erfolgsaussichten anhand erste Plan-Sichtung Bekanntmachung Begruendung. Kosten-Aufklaerung RVG-Wahlmandat Streitwert nach Streitwertkatalog Verwaltungsgerichtsbarkeit Nr 9.8.1. Mandantenchronologie der Beteiligung am Aufstellungsverfahren als Schluesselgrundlage fuer Ruegefristen Paragraf 215 BauGB. Aktenanlage und Dokumentation. Entscheidung Hauptsache versus Eilantrag Paragraf 47 Abs. 6 VwGO. Mandatsannahme oder Ablehnung mit Begruendung.
+description: "Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Pruefraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstpruefung Plan-Unterlagen vorlaeufige Erfolgsaussichten Kostenaufklaerung RVG Streitwert. Output: Erstgespraechen-Protokoll Mandatsannahme-Empfehlung Fallplan. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptschriftsatz) und jahresfrist-47-abs-2-vwgo."
 ---
 
 # Erstgespräch Normenkontroll-Mandat
@@ -161,3 +161,15 @@ Erste Sortierung eines Mandats gegen einen Bebauungsplan, Flächennutzungsplan o
 - Streitwertkatalog Verwaltungsgerichtsbarkeit 2013 Nr. 9.8.1
 - BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Antragsbefugnis Nachbar)
 - BVerwG, Urteil vom 18.11.2010 – 4 CN 3.10 (Präklusionswirkung Einwendung)
+
+## Aktuelle Rechtsprechung — Triage-relevante Leitsaetze
+
+- BVerwG, Beschl. v. 31.01.2017 — 4 BN 28.16, NVwZ 2017, 648 Rn. 15: Antragsbefugnis von Nachbarn ausserhalb des Plangebiets setzt abwaegungserheblichen Belang voraus; bloss ideelle oder finanzielle Interessen genuegen nicht.
+- BVerwG, Urt. v. 20.11.2018 — 4 CN 7.17, NVwZ 2019, 487 Rn. 22: Jahresfrist § 47 Abs. 2 VwGO beginnt mit ordnungsmaessiger Bekanntmachung; fehlerhafte oder fehlende Bekanntmachung loest keine Frist aus.
+- BVerwG, Urt. v. 26.04.2021 — 4 CN 1.20, BVerwGE 172, 160 Rn. 20: Rechtsschutzbeduerfnis fuer Normenkontrolle entfaellt nur, wenn der Antrag offensichtlich unzulaessig ist oder der Antragsteller kein schutzwuerdiges Interesse hat.
+
+## Kommentarliteratur
+
+- Kopp/Schenke, VwGO, 29. Aufl. — § 47 Rn. 1 ff. Normenkontrolle gesamt
+- Schoch/Schneider, VwGO — § 47 Rn. 1 ff.
+- Battis/Krautzberger/Loehr, BauGB, 15. Aufl. — §§ 214, 215 Rn. 1 ff.

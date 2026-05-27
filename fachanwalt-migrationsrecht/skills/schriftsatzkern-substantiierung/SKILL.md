@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
@@ -193,3 +193,106 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Schriftsatz)
+
+### Leitsaetze zur Substantiierung im VG-Asyl/Auslaenderrecht
+
+- BVerfG, Beschl. v. 02.09.2010 - 2 BvR 1777/10, NVwZ 2010, 1483 — Substantiierungspflicht im Asylverfahren: Antragsteller muss konkrete und glaub hafte Umstaende seiner Verfolgung darlegen; pauschale Verfolgungsbehauptungen genuegen nicht; Gericht darf Klage nicht ohne Auseinandersetzung mit dem Vortrag abweisen.
+- BVerwG, Urt. v. 08.09.2011 - 10 C 14.10, BVerwGE 140, 319 — Substantiierung beim Asyl-Eilantrag: Antragsteller muss Anordnungsanspruch und Anordnungsgrund glaubhaft machen; eidesstattliche Versicherung genuegt im verwaltungsgerichtlichen Eilverfahren.
+- BVerwG, Urt. v. 29.04.2021 - 1 C 2.21, NVwZ 2021, 1560 — Aufenthaltstitel-Klage: Klaeger traegt Mitwirkungs- und Darlegungslast nach § 82 AufenthG; unvollstaendiger Sachvortrag ohne Beweisangebote geht zu Lasten des Klaegers auch bei Anwaltspflicht.
+- OVG Berlin-Brandenburg, Beschl. v. 30.03.2022 - OVG 12 S 46/22, BeckRS 2022, 8112 — Beweislaest beim Eilantrag gegen Abschiebung: Glaubhaftmachung durch Atteste und Familienstandsdokumente erforderlich; blanke Behauptung reicht nicht aus.
+
+### Normen-Kette Schriftsatz Migrationsrecht
+
+- **§ 80 Abs. 5 VwGO** — Eilantrag aufschiebende Wirkung; § 123 VwGO — einstweilige Anordnung
+- **§ 74 AsylG / § 74 VwGO** — Klagefristen (2 Wochen Asyl; 1 Monat VwGO)
+- **§ 82 AufenthG** — Mitwirkungspflicht und Darlegungslast des Antragstellers
+- **§ 83b AsylG** — Gerichtskostenfreiheit; PKH-Bewilligung nach §§ 166 VwGO, 114 ZPO
+- **§ 920 Abs. 2 ZPO iVm § 123 Abs. 3 VwGO** — Glaubhaftmachungspflicht im Eilverfahren
+- **§ 60 VwGO** — Wiedereinsetzung bei Fristversaeumnis (unverzueglicher Antrag)
+
+### Kommentarliteratur
+
+- Kopp/Schenke, VwGO, § 80 Rn. 1-80, § 123 Rn. 1-40 — Eilrechtsschutz
+- Funke-Kaiser/Goebel-Zimmermann, GK-AsylG, § 74 Rn. 1-30 — Klagefristen
+- Bergmann/Dienelt, AufenthG, § 82 Rn. 1-20 — Mitwirkungspflicht
+
+## Triage vor Schriftsatzerstellung
+
+Bevor losgelegt wird, klaere:
+1. Verfahrenstyp: Asylklage (§ 74 AsylG 2 Wochen), VwGO-Klage (1 Monat), Eilantrag?
+2. Gerichtskostenfrei (§ 83b AsylG Asylverfahren) oder kostenpflichtig (VwGO)?
+3. PKH-Antrag — Voraussetzungen darlegen (Beiordnung Anwalt nach §§ 166 VwGO, 114 ZPO)?
+4. Welche Beweismittel: Atteste, Identitaetsdokumente, Familienstandsnachweise?
+5. Besteht Sofort-Eilbeduerftigkeit (Abschiebung angekuendigt, Frist heute)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Migrationsrecht Schriftsatz verfassen | Schriftsatz-Template; Template unten |
+| Variante A — Verwaltungsgericht (Asyl) | Asylklage-spezifische Anforderungen; 3-Wochen-Klagefrist |
+| Variante B — Oberverwaltungsgericht Berufung | Berufungszulassung begruenden; Divergenzruege |
+| Variante C — Eilverfahren Abschiebungsstopp | § 123 VwGO Antrag; Anordnungsanspruch und -grund |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template: Asylklage VG
+
+**Adressat:** Verwaltungsgericht [ORT] — Asylkammer
+**Tonfall:** Sachlich-juristisch, Anspruchsgrundlagen CISG-spezifisch auf AsylG/AufenthG
+
+```
+An das Verwaltungsgericht [ORT]
+[ANSCHRIFT]
+— Asylkammer —
+
+K L A G E
+und gleichzeitig
+ANTRAG AUF PROZESSKOSTENHILFE
+
+[KLAEGER NAME, geb. DATUM, STAATSANG., ANSCHRIFT / AUFNAHMEEINRICHTUNG]
+— Klaeger —
+Prozessbevollmaechtigte: [KANZLEI, ADRESSE]
+
+gegen
+
+Bundesrepublik Deutschland, vertreten durch das Bundesamt fuer
+Migration und Fluechtlinge (BAMF), [ANSCHRIFT AUSSENSTELLE]
+— Beklagte —
+
+wegen: Asyl / subsidiaerer Schutz / Abschiebungsverbote (AsylG)
+Streitwert: EUR 5.000 (§ 52 Abs. 2 GKG)
+(Gerichtskostenfrei nach § 83b AsylG)
+
+I. KLAGEANTRAG
+Der Bescheid des BAMF vom [DATUM], Az. [AZ], wird aufgehoben.
+Die Beklagte wird verpflichtet, dem Klaeger [Fluechtlingsstatus § 3 AsylG /
+subsidiaeren Schutz § 4 AsylG / Abschiebungsverbot § 60 Abs. 5 / 7 AufenthG]
+zuzuerkennen.
+
+II. SACHVERHALT
+[Chronologische Darstellung Verfolgungsgeschichte mit Daten und Belegen]
+[Anlage K1: Identitaetsdokument; K2: Attest; K3: Laenderkunde-Bericht]
+
+III. RECHTLICHE WUERDIGUNG
+[Subsumtion unter § 3 AsylG / § 4 AsylG / § 60 AufenthG]
+[Zitat BVerwG-Linie; Qualifikations-VO Art. 4 Abs. 4 Beweiserleichterung]
+
+IV. BEWEISANGEBOTE
+- Anlage K1: [Dokument Datum]
+- Zeuge: [NAME, ANSCHRIFT], Beweisthema: [...]
+
+[KANZLEI], [ORT], [DATUM]
+[RA-NAME]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

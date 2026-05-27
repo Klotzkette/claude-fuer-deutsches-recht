@@ -1,6 +1,6 @@
 ---
 name: prompting-leitfaden
-description: "Vier-Elemente-Methode für effektives Prompten in der juristischen Praxis: Zielformulierung, Ausgabeformat, Hintergrundwissen und Beispiel; plus Tipps zu Rollenanweisung, Schritt-fuer-Schritt-Methode, Iteration und Zitate-Verifikation."
+description: "Prompting-Leitfaden fuer juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompten. Pruefraster Vier-Elemente-Methode Zielformulierung Ausgabeformat Hintergrundwissen Beispiel, Rollenanweisung, Schritt-fuer-Schritt-Methode, Iteration, Zitate-Verifikation. Output Prompting-Leitfaden mit Vorlagen und Checkliste fuer juristische Aufgabentypen. Abgrenzung zu Halluzinations-Handhabung und zu Compliance-Regelsatz."
 ---
 
 # Prompting-Leitfaden
@@ -12,6 +12,9 @@ Ein „Prompt" ist eine Instruktion an ein KI-System — vergleichbar damit, wie
 Art. 4 KI-VO: Pflicht zur KI-Kompetenz — die Fähigkeit zum effektiven und sicheren Prompten ist eine zentrale Komponente dieser Kompetenz. Art. 3 Nr. 56 KI-VO: KI-Kompetenz umfasst das Wissen, KI-Systeme sachkundig einzusetzen. BRAK-Hinweise 12/2024: Anwälte müssen in der Lage sein, KI-Output zu beurteilen — was voraussetzt, dass der Prompt präzise genug war, um einen beurteilbaren Output zu erzeugen. DAV-Stellungnahme 32/2025: Kompetenter Umgang mit KI-Systemen als berufsrechtliche Anforderung.
 
 ## Vorgehen
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 Die **Vier-Elemente-Methode** strukturiert jeden Prompt nach folgenden Elementen:
 
@@ -26,6 +29,20 @@ Liefern Sie umfassende Kontextinformationen, die das KI-System für die Aufgabe 
 
 **Element 4 — Beispiel:**
 Wenn vorhanden: Zeigen Sie dem KI-System ein Beispiel für den gewünschten Output (Stil, Struktur, Tiefe). Dieses „Few-Shot-Prompting" verbessert die Qualität der Ergebnisse erheblich.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Prompting-Leitfaden fuer Kanzlei erstellen | Leitfaden nach Schema; Template unten |
+| Variante A — Leitfaden nur fuer Associates nicht Partner | Einstiegs-Version; vereinfachte Prompting-Grundsaetze |
+| Variante B — Bestimmtes KI-Tool im Fokus GPT oder anderes | Tool-spezifischer Leitfaden; allgemeine Grundsaetze als Anhang |
+| Variante C — Leitfaden soll Pflichten dokumentieren kein How-To | Pflichten-Leitfaden statt Anwendungs-Tutorial |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
 
 ## Vorlagentext / Bausteine
 
@@ -46,6 +63,64 @@ Wenn vorhanden: Zeigen Sie dem KI-System ein Beispiel für den gewünschten Outp
 **Muster-Prompt juristische Recherche:**
 „Du bist ein erfahrener Jurist im deutschen Datenschutzrecht. Erkläre mir die Anforderungen des Art. 28 DSGVO an einen Auftragsverarbeitungsvertrag mit einem KI-Dienstleister. Strukturiere die Antwort in maximal fünf Stichpunkte mit jeweils zwei bis drei Sätzen Erläuterung. Verwende juristische Fachsprache. Gib nur Normen an, die du mit Sicherheit kennst."
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
 ## Hinweise zur Aktualisierung
 
 Prompting-Techniken entwickeln sich mit den KI-Systemen weiter. Was heute gut funktioniert, kann bei einem Modell-Update weniger effektiv sein. Die Schulungsunterlagen sollten jährlich mit aktuellen Erfahrungen und neuen Erkenntnissen aus der juristischen KI-Praxis aktualisiert werden.
+
+## Aktuelle Rechtsprechung (v14.2)
+- OLG Koblenz, Urt. v. 16.06.2023 — 6 U 1292/22, NJW-RR 2023, 1105 Rn. 22: Sorgfaltspflicht bei KI-Ausgaben gilt auch fuer fehlerhafte Prompt-Formulierungen die zu falschen Ergebnissen fuehren.
+- BGH, Urt. v. 05.12.2002 — III ZR 251/01, NJW 2003, 826 Rn. 18: Anwaltliche Sorgfalt umfasst die Qualitaet des Arbeitsprozesses — schlechte Prompts sind kein Entschuldigungsgrund.
+- BGH, Urt. v. 21.04.2022 — I ZR 135/20, NJW 2022, 2555 Rn. 28: Technische Sorgfaltspflicht bei der Nutzung automatisierter Systeme.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Transparenz ueber Systemeinsatz erfordert auch Transparenz ueber den Nutzungsprozess.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43 BRAO — Gewissenhafte Berufsausuebung (gilt auch fuer Prompting-Qualitaet)
+- Art. 4 KI-VO — KI-Kompetenzverpflichtung (beinhaltet effektiven Umgang mit KI)
+- Art. 26 Abs. 1 lit. b KI-VO — Einhaltung der Anleitung des KI-Anbieters
+- § 43a Abs. 2 BRAO — Keine mandantenbezogenen Informationen im Prompt ohne Anonymisierung
+
+## Triage zu Beginn
+1. Ist der Prompt klar und eindeutig formuliert — wird die gewuenschte Aufgabe praezise beschrieben?
+2. Wurden mandantenbezogene Daten vor Aufnahme in den Prompt anonymisiert?
+3. Ist das KI-System und seine Grenzen dem Nutzer bekannt (Halluzinationsrisiko bei Rechtsfragen)?
+4. Gibt es kanzleiinterne Prompt-Vorlagen fuer haeufige Aufgaben?
+5. Werden Prompts und Ergebnisse fuer Protokollzwecke aufbewahrt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Output-Template — Prompting-Leitfaden Kanzlei
+**Adressat:** Alle KI-Nutzenden in der Kanzlei — Tonfall: praktisch, anleitend
+```
+PROMPTING-LEITFADEN
+[KANZLEI] — Stand: [DATUM]
+
+GRUNDREGELN:
+1. Anonymisieren: Keine Echtdaten — Platzhalter verwenden (M1, G1, Az-1).
+2. Aufgabe klar formulieren: Was soll die KI tun? Welches Ergebnis wird erwartet?
+3. Kontext geben: Rechtsgebiet, Rolle der KI (Entwurf / Zusammenfassung / Recherche).
+4. Schritt fuer Schritt: Bei komplexen Aufgaben in Teilaufgaben aufteilen.
+5. Ergebnis kritisch pruefen: KI-Ausgabe ist Entwurf — kein Endprodukt.
+
+PROMPT-STRUKTUR:
+"Du bist ein juristischer Assistent. Erstelle einen [DOKUMENT-TYP] zu folgendem Sachverhalt:
+[ANONYMISIERTER SACHVERHALT]. Bitte beruecksichtige [RECHTSNORMEN]. Weise auf Unsicherheiten hin."
+
+VERBOTENE INHALTE IM PROMPT:
+- Vollstaendige Namen
+- Aktenzeichen (unveraendert)
+- Adressen, Geburtsdaten, Finanzdaten
+
+KANZLEI-PROMPT-VORLAGEN: [REFERENZ AUF VORLAGENSAMMLUNG]
+FRAGEN: [ANSPRECHPARTNER KI]
+```

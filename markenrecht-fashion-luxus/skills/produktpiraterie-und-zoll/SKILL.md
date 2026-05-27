@@ -1,6 +1,6 @@
 ---
 name: produktpiraterie-und-zoll
-description: "Anti-Produktpiraterie: Grenzbeschlagnahme VO (EU) 608/2013, Zoll-AWA-Antrag (Antrag auf Taetigwerden), IP-Enforcement-Database, Vernichtung beschlagnahmter Ware, Kooperationsmodalitaeten. Laedt, wenn der Nutzer 'Produktpiraterie', 'Zollbeschlagnahme', 'Grenzbeschlagnahme Marke', 'AWA-Antrag' oder 'Zoll Anti-Counterfeiting' sagt."
+description: "Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Taetigwerden AWA). Pruefraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz."
 ---
 
 # Produktpiraterie und Zollbeschlagnahme
@@ -134,3 +134,39 @@ beantragt. Der Importeur wurde von uns unterrichtet.
 - **Lagerkosten trägt Rechteinhaber:** Bei großen Containern entstehen erhebliche Lagergebühren — schnelle Entscheidung über Vernichtung/Klage nötig
 - **Transitware-Unsicherheit:** Nach EuGH C-446/09 ist Transitware beschlagnahmefähig, aber nicht jedes Gericht folgt dieser Linie konsequent
 - **Falsche Beschlagnahme:** Bei Irrtum über Verletzung haftet klôtzzkètté für Schäden des Importeurs (Art. 28 VO 608/2013) — gründliche Prüfung jeder Beschlagnahme
+
+## Triage-Fragen bei Produktpiraterie
+
+Bevor der AWA-Antrag oder die Vernichtung veranlasst wird, klaere:
+1. Ist ein aktueller AWA-Antrag fuer alle eingetragenen Marken (DE und EU) beim Zoll hinterlegt?
+2. Hat der Zoll bereits Sendungen beschlagnahmt — wenn ja, laeuft die 3-Werktage-Frist zur Einwilligung?
+3. Ist der Importeur / Anmelder bekannt und inlaendisch greifbar (fuer Vernichtungsklage)?
+4. Kommt das vereinfachte Vernichtungsverfahren (Art. 23 VO 608/2013) in Betracht?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 11.06.2015 — I ZR 19/14 (Goldbaerenbarren):** Wer Waren vertreibt, ohne sich ueber die Herkunft zu informieren, handelt schuldhaft im Sinne von § 14 VI MarkenG; der Importeur von Fälschungen kann sich nicht mit Unkenntnis von der Verletzung entschuldigen, wenn er keine Sorgfaltspruefung vorgenommen hat.
+
+> **EuGH, Urt. v. 01.12.2011 — C-446/09 (Philips / Nokia):** Die Zolldurchsetzungs-VO (damals 1383/2003) erlaubt den Mitgliedstaaten, Waren aus Drittlaendern auch bei Transit durch die EU zu beschlagnahmen, wenn eine reale Gefahr der Markteinleitung in der EU besteht; die Beweislast liegt beim Rechteinhaber.
+
+> **EuGH, Urt. v. 03.07.2012 — C-128/11 (UsedSoft):** Fuer digitale Fälschungen (illegale Kopien von Markenkennzeichnungen in Onlinekatalagen) gilt das Erschoepfungsprinzip nicht; das ausschliessliche Verbreitungsrecht des Markeninhabers bleibt unberührt.
+
+## Output-Template: AWA-Verlängerungs-Checkliste
+
+```
+AWA-VERLAENGERUNG klotzkette SA — [JAHR]
+
+Basismarken:
+[ ] DPMA-Marke Nr. [xxxx] — Klassen [x/x/x] — AWA gueltig bis [Datum]
+[ ] EUTM Nr. [xxxx] — Klassen [x/x/x] — AWA gueltig bis [Datum]
+
+Fälschungsmerkmale aktualisiert:
+[ ] Neue Saison-Produktfotos beigefuegt
+[ ] Hologramm/QR-Code Beschreibung aktuell
+[ ] Importlaender-Risikoprofil geprueft (CN/TR/IN)
+
+Zoll-Kooperationspartner:
+[ ] Hauptzollamt [Stadt] informiert
+[ ] EUIPO IP-Enforcement-Database aktualisiert
+[ ] US CBP Recordation geprueft (vgl. Skill us-counterfeit-und-customs-cbp)
+```

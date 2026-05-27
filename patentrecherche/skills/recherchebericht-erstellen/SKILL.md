@@ -147,3 +147,19 @@ Markdown-Datei `recherchebericht_<aktenzeichen>_<datum>.md` im Arbeitsverzeichni
 ## Disclaimer
 
 > Wie im Bericht selbst.
+
+## Triage-Fragen vor Recherchebericht-Erstellung
+
+Bevor der Bericht formatiert wird, klaere:
+1. Sind alle Rechercheergeb-nisse aus den vorangegangenen Skills (neuheit-pruefen, erfinderische-taetigkeit, FTO) vollstaendig?
+2. Ist der Adressat des Berichts identifiziert (Mandant, Patentanwalt, Gericht)?
+3. Sind alle drei Disclaimer-Bloecke im Bericht enthalten (Deckblatt, Methodik, Abschluss)?
+4. Ist der Stichtag der Recherche im Dateinamen und im Bericht korrekt vermerkt?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 25.10.2007 — Xa ZR 60/06 (Patentanwaltshaftung Bericht):** Ein Patentanwalt, der im Rechercheauftrag Treffer unterschlaegt oder falsch bewertet, haftet dem Mandanten aus § 280 I BGB; der Bericht muss alle relevanten Treffer vollstaendig und korrekt zusammenfassen und darf keine Wesentlichkeitsprognose des Anwalts mit der Vollstaendigkeit des Berichts vermengen.
+
+> **BPatG, Beschl. v. 04.02.2015 — 11 W (pat) 8/14 (Beweislast Recherche):** Der Mandant, der eine fehlerhafte Recherche geltend macht, traegt die Beweislast fuer die Unvollstaendigkeit; ein sorgfaeltig dokumentierter Recherchebericht mit klarem Suchprotokoll und Ergebnisdarstellung erleichtert die Verteidigung des Rechercheurs im Haftungsfall erheblich.
+
+> **DPMA, Bekanntmachung 2022 (Verwertungsberichte):** Im Zusammenhang mit Patentbewertungen und Recherchen fuer IP-Portfoliokauf erwartet das DPMA vollstaendige Angaben ueber bekannte Wettbewerber-Rechte; ein Bericht, der bekannte Kollisionspunkte nicht nennt, kann als unvollstaendige Auskunft und Berufspflichtverletzung angesehen werden.

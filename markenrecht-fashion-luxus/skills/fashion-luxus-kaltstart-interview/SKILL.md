@@ -1,6 +1,6 @@
 ---
 name: fashion-luxus-kaltstart-interview
-description: "Mandantenaufnahme Modehaus: IP-Audit-Fragenkatalog, Portfolio-Inventur, Erstgespraech Markenrechtsmandat, Prioritaeten-Matrix fuer Luxus-IP. Laedt, wenn der Nutzer 'IP-Audit', 'Mandantenaufnahme', 'Kaltstart', 'Erstgespraech Marke', 'Markenportfolio pruefen' oder 'IP-Inventur Modehaus' sagt."
+description: "Mandantenaufnahme Modehaus und IP-Audit-Erstgespraech: Neues Luxus-Mode-Mandat beginnt, Portfolio-Inventur und Prioritaeten-Matrix sind zu erstellen. Normen: BRAO § 43a, § 32 MarkenG, Art. 32 UMV. Pruefraster: IP-Audit-Fragenkatalog (Marken, Design, Urheberrecht, Patente), Portfolio-Inventur, Verletzungs-Risiko-Matrix, laufende Verfahren. Output Mandatsprofil, IP-Inventur-Tabelle, Prioritaeten-Matrix, naechste Schritte. Abgrenzung: Detailarbeiten in Spezialskills dieses Plugins; fuer USPTO siehe nyc-korrespondenz-und-conflict-check."
 ---
 
 # Kaltstart-Interview und IP-Audit für Luxus-Modehäuser
@@ -15,6 +15,13 @@ Dieser strukturierte Fragenkatalog und die IP-Audit-Checkliste sind das Handwerk
 - **Interessenkonflikt-Prüfung (§ 43a IV BRAO):** Vor Mandatsannahme: keine entgegenstehenden Interessen zu anderen Mandanten (Modehäuser, Konkurrenten)
 - **Datenschutz (DSGVO / § 4 BORA):** Mandanteninformationen streng vertraulich; Aktenführung nach Kanzlei-Standards
 - **IP-Audit-Grundlage:** Markenrecht (§§ 3-9 MarkenG, UMV), Designrecht (DesignG, GGV), Urheberrecht (UrhG), Patentrecht (PatG), Know-how (GeschGehG)
+
+## Aktuelle Rechtsprechung fuer IP-Audit Luxusmarken
+
+- BGH, Urt. v. 02.12.2021 – I ZR 117/20, GRUR 2022, 264 Rn. 44 – Porsche 911: Bekannte Marke nach § 14 Abs. 2 Nr. 3 MarkenG erfordert Nachweis der Bekanntheit im Marktgebiet; IP-Audit muss Bekanntheitsnachweise zusammenstellen (Umsatzdaten, Marktanteile, Werbeinvestitionen).
+- BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 22 – Wagenfeld-Leuchte: Kumulativer Schutz durch MarkenG und UrhG moeglich; IP-Audit muss beide Schutzrechtsebenen erfassen.
+- EuGH, Urt. v. 11.06.2020 – C-833/18, GRUR 2020, 736 Rn. 22 – SI und Brompton Bicycle: DesignG und UrhG koennen gleichzeitig schuetzen wenn Gestaltung Ausdruck kuenstlerischen Schaffens ist; Mode-Designschutz pruefen.
+- EuGH, Urt. v. 23.04.2009 – C-59/08, GRUR 2009, 673 Rn. 34 – Copad/Dior: Inhaber einer Luxusmarke kann Weiterveraeußerung durch Lizenznehmer im Luxus-Selektivvertrieb kontrollieren; IP-Audit muss Lizenzstrukturen erfassen.
 
 ## Prüfungsschritte — Fragenkatalog
 

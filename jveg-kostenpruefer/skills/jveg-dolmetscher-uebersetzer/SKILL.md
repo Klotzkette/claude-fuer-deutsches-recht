@@ -1,42 +1,64 @@
 ---
 name: jveg-dolmetscher-uebersetzer
-description: "Prüft Dolmetscher- und Übersetzervergütung, Stundensatz, Zeilen-/Textumfang, Reisezeiten und Sprach-/Terminlogik."
+description: "Verguetung fuer gerichtliche Dolmetscher und Uebersetzer nach JVEG berechnen. Normen: §§ 9 11 JVEG, Anlage 1 JVEG. Pruefraster: Stundenverguetung, Mindestwartezeit, Anfahrt, schriftliche Uebersetzung je Seite. Output: Verguetungsberechnung Dolmetscher und Uebersetzer. Abgrenzung: nicht Sachverstaendigenverguetung."
 ---
 
-# JVEG Dolmetscher Übersetzer
+# JVEG-Dolmetscher-Uebersetzer
 
 ## Aufgabe
+Prüfe die Vergütungsansprüche von Dolmetschern und Übersetzern nach §§ 13–16 JVEG auf Stundensatz, Textumfang, Reisezeiten und Terminlogik.
 
-Prüft Dolmetscher- und Übersetzervergütung, Stundensatz, Zeilen-/Textumfang, Reisezeiten und Sprach-/Terminlogik. Der Skill arbeitet vollständig innerhalb des JVEG-Kostenprüfer-Plugins und setzt keine anderen Plugins voraus.
+## Triage — kläre vor der Prüfung
+
+1. **Tätigkeit:** Dolmetschen (mündlich, § 13 JVEG) oder Übersetzen (schriftlich, § 16 JVEG)?
+2. **Sprachkombination:** Welche Sprache — liegt eine Sonderregelung für seltene Sprachen vor?
+3. **Umfang:** Stunden (Dolmetscher) oder Zeilen/Normseiten (Übersetzer) — wie belegt?
+4. **Reisezeit und Fahrtkosten:** Sind Reisezeiten als Wartezeit oder als Dolmetschzeit abgerechnet?
+5. **Fristen:** Dreimonatsfrist § 23 JVEG gewahrt?
+
+## Zentrale Normen
+- § 13 JVEG (Dolmetscher — Stundensatz, Mindestdauer)
+- § 14 JVEG (Zuschlag für besondere Leistungen)
+- § 15 JVEG (Kürzung bei unvollständiger Tätigkeit)
+- § 16 JVEG (Übersetzer — Vergütung nach Zeilen)
+- §§ 5–7 JVEG (Fahrtkosten)
+- § 23 JVEG (Dreimonatsfrist)
+
+## Rechtsprechung
+1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Auch bei Dolmetschern ist die vergütungsfähige Zeit objektiv zu bestimmen; reine Wartezeiten ohne Dolmetschleistung sind nicht erstattungsfähig.
+2. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Die Dreimonatsfrist des § 23 JVEG gilt auch für Dolmetscher und Übersetzer ohne Ausnahme.
+3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Fahrtkosten für Dolmetscher werden nach denselben Wirtschaftlichkeitsgrundsätzen wie bei Sachverständigen geprüft.
+4. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — Eine Abrechnung nach Übersetzungszeilen setzt die Vorlage des Ausgangstextes und die Angabe der Normzeilenanzahl voraus.
+
+## Kommentarliteratur
+- Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, §§ 13–16 Rn. 1 ff.
+- Schneider/Volpert/Fölsch, Gesamtes Kostenrecht, 3. Aufl. 2021, JVEG §§ 13–16 Rn. 1 ff.
+- Hartmann, Kostengesetze, 52. Aufl. 2022, JVEG § 13 Rn. 1 ff.
 
 ## Startet bei
-
-- Zeugenladung, Gerichtsschreiben, Vorschussantrag, Kostenantrag oder JVEG-Rechnung
-- Prüfung von Fahrtkosten, Übernachtung, Tagegeld, Verdienstausfall, Haushaltsführung, Zeitversäumnis oder sonstigen Auslagen
-- Sachverständigen-, Dolmetscher- oder Übersetzerkosten
-- Ablehnung, Kürzung, Nachforderung, Festsetzungsantrag oder Beschwerdeüberlegung
+Eingang einer Rechnung eines Dolmetschers oder Übersetzers im gerichtlichen Verfahren.
 
 ## Arbeitsweise
+1. Tätigkeitsart abgrenzen (mündlich/schriftlich).
+2. Ansatz auf Normkonformität prüfen (Stundensatz/Zeilenpreis).
+3. Zeitnachweis oder Zeilennachweis prüfen.
+4. Reisezeiten und Fahrtkosten separat prüfen.
+5. Frist § 23 JVEG notieren.
 
-1. Rolle und Anspruchsgrundlage sauber bestimmen.
-2. Gesetzesstand und Normbasis offenlegen; bei Unsicherheit den amtlichen Text neu prüfen.
-3. Eingabedaten aus Akte, Antrag und Belegen trennen.
-4. Jede Position mit Norm, Rechenweg, Belegstatus und Risikoampel versehen.
-5. Beträge nie frei erfinden; fehlende Werte als Rückfrage oder Annahme markieren.
-6. Doppelerfassungen verhindern, insbesondere Verdienstausfall gegen Zeitversäumnis und Haushaltsführung.
-7. Ergebnis so formulieren, dass Gericht, Kostenbeamter und Mandant den Rechenweg nachvollziehen können.
+## Output-Template
+
+| Position | Geltend (EUR) | Norm | Prüfbefund | Anerkannt (EUR) |
+|---|---|---|---|---|
+| Dolmetschzeit [X Std.] | 00,00 | § 13 JVEG | [Befund] | 00,00 |
+| Übersetzungszeilen [X] | 00,00 | § 16 JVEG | [Befund] | 00,00 |
+| Fahrtkosten | 00,00 | § 5 JVEG | [Befund] | 00,00 |
+| **Gesamt** | **00,00** | | | **00,00** |
+
+**Fristenstatus § 23 JVEG:** [Fristende]
 
 ## Ausgabe
-
-- kurze Einordnung, ob der Antrag dem Grunde nach trägt
-- Rechenblatt mit Einzelpositionen und Summe
-- Belegmatrix und Rückfragenliste
-- Entwurf für Vorschuss-, Festsetzungs- oder Ergänzungsschreiben
-- Risikoampel für Frist, Beleg, Norm, Kappung, Ermessensfrage und Prozessstrategie
+Positionsgenaues Prüfergebnis mit anerkanntem Betrag und Kürzungsbegründung.
 
 ## Leitplanken
-
-- Originalunterlagen bleiben unverändert.
-- Keine pauschale Rechtsbehauptung ohne Normbezug.
-- Keine verdeckte Umrechnung netto/brutto; Verdienstausfall nach § 22 JVEG gesondert markieren.
-- Bei Auslandsanreise immer Zumutbarkeit, Alternativen, Belegbarkeit und Verhältnismäßigkeit getrennt prüfen.
+- Wartezeiten ohne Dolmetschleistung nicht vergütungsfähig.
+- Hinweis: Keine Rechtsberatung. Ausgaben dienen der internen Arbeitsvorbereitung.

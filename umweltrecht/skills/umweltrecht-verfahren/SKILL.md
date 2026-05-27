@@ -1,48 +1,175 @@
 ---
 name: umweltrecht-verfahren
-description: "Führt Ausgangs-, Anhörungs-, Widerspruchs-, Eil- und Klageverfahren mit Fristen und Anlagen."
+description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Pruefraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zustaendigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bussgeld-sanktionen (Ordnungsrecht)."
 ---
 
 # Umweltrechtliche Verwaltungs- und Gerichtsverfahren
 
-## Zweck
+## Triage — klaere Verfahrenskontext
 
-Dieser Skill erstellt Behördenbriefe, Klagegerüste, Eilanträge und Mandantenupdates.
+1. Wer ist Klaeger/Antragsteller — Betreiber, Nachbar oder Umweltverband?
+2. Liegt Bescheid/Genehmigung vor oder geht es um Normenkontrolle (§ 47 VwGO)?
+3. Ist Verfahren BImSchG-Genehmigung (VG), Planfeststellung (OVG/BVerwG) oder Rechtsetzung?
+4. Besteht Eilbedarf (vollziehbare Genehmigung, bevorstehende Baumafsnahme)?
+5. Wurden Einwendungen im Genehmigungsverfahren rechtzeitig erhoben (Praeklusions-Risiko)?
+6. UmwRG-Vereinigung — Anerkennungsstatus geprueft?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Wann verwenden
+## Zentrale Normen und Paragrafenkette
 
-- wenn ein neuer Fall im Bereich Umweltrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 42 Abs. 1 VwGO** — Anfechtungsklage (Aufhebung Verwaltungsakt)
+- **§ 42 Abs. 2 VwGO** — Klagebefugnis (moegliche Verletzung eigener Rechte)
+- **§ 43 VwGO** — Feststellungsklage (Rechtsverhaeltnis, Unwirksamkeit Norm)
+- **§ 47 VwGO** — Normenkontrolle (Satzungen, Verordnungen, Bebauungsplaene)
+- **§ 80 Abs. 5 VwGO** — Eilantrag Wiederherstellung/Anordnung aufschiebende Wirkung
+- **§ 80a VwGO** — Drittanfechtung Baugenehmigung/Zulassung
+- **§ 113 Abs. 1 VwGO** — Aufhebungsklage; Abs. 5 — Verpflichtungsklage
+- **§ 123 VwGO** — Einstweilige Anordnung (Unterlassung, Vorabrherausgabe)
+- **§ 1 UmwRG** — Anwendungsbereich (UVP-pflichtige, IPPC-Anlagen, Plaene)
+- **§ 2 UmwRG** — Verbandsklage ohne Selbstbetroffenheit
+- **§ 4 UmwRG** — Verfahrensfehler fuer sich allein als Aufhebungsgrund bei UVP-Pflicht
+- **§ 5 UmwRG** — Praeklusion bei Nichtbeteiligung im Verwaltungsverfahren
 
-## Arbeitsweise
+## Leitentscheidungen
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- BVerwG, Urt. v. 28.04.2022 — 7 A 2.21, BVerwGE 175, 227 — Planfeststellung Windenergie; UmwRG § 4 Abs. 1a; Verfahrensfehler (fehlende UVP) fuehrt zu Aufhebung ohne Kausalitaetspruefung.
+- BVerwG, Urt. v. 18.03.2021 — 7 C 9.19, NVwZ 2021, 1421 — Heilung von UVP-Verfahrensfehlern; NaVeRe nur bei vollstaendiger Nachholung unter gleichen Bedingungen; Nachbesserung nach Klage unzulaessig.
+- EuGH, Urt. v. 15.10.2015 — C-137/14 (Kommission/Deutschland), NVwZ 2015, 1665 — § 44a VwGO, § 5 UmwRG Praeklusion unvereinbar mit EU-Umweltrecht; Buerger muessen gerichtlichen Zugang behalten.
+- BVerwG, Urt. v. 26.09.2019 — 7 C 5.18, DVBl 2020, 176 — § 2 UmwRG Verbandsklage; Anerkennungsvoraussetzungen; UmwRG-Verein muss im Bereich der betroffenen Umweltgueeter taetig sein.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Kopp/Schenke VwGO §§ 42, 80, 113, 123 (Prozessrecht systematisch)
+- Schoch/Schneider/Bier VwGO §§ 42, 43, 47 (Klagearten)
+- Jarass/Kloepfer UmwRG §§ 1, 2, 4, 5 (Kommentar Umweltrechtsbehelfsgesetz)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
 
-## Typische Fehler vermeiden
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### A) Anfechtungsklage (Dritter gegen Genehmigung)
+
+1. **Klagebefugnis pruefen**: § 42 Abs. 2 VwGO — drittschuetzende Norm (§ 5 Abs. 1 Nr. 1 BImSchG, TA-Laerm)?
+2. **Praeklusionsrisiko**: Im Genehmigungsverfahren Einwendungen erhoben? Sonst § 5 UmwRG Praeklusion pruefbar (aber EuGH C-137/14 schwaecht).
+3. **Klagefrist**: § 74 Abs. 1 VwGO — 1 Monat ab Bekanntgabe; bei Auslegung § 10 BImSchG: 2 Wochen nach Auslegungsende (§ 10 Abs. 8 BImSchG beachten).
+4. **Eilantrag § 80a**: Sofort wenn Genehmigung vollziehbar und Bauarbeitten drohen.
+5. **Klageschrift**: Klageantrag, Sachverhalt, rechtliche Begruendung mit Leitsaetzen.
+6. **Verbandsklage**: UmwRG-Anerkennung pruefen; § 4 UmwRG Verfahrensfehler als eigenstaendiger Aufhebungsgrund.
+
+### B) Verpflichtungsklage (Betreiber auf Genehmigung)
+
+1. **Vorverfahren**: Antrag bei Behoerde; Ablehnung oder Untaetigkeit 3 Monate (§ 75 VwGO).
+2. **Klage**: Verpflichtungsklage auf Genehmigungserteilung; ggf. hilfsweise Verbescheidungsklage.
+3. **Eilantrag § 123 VwGO**: Einstweilige Anordnung auf Duldung Vorbau-/Vorbereitung.
+4. **Normenkontrolle § 47 VwGO**: Bei Angriff auf Bauleitplan, der Projekt verhindert.
+
+### Entscheidungsbaum Klageform
+
+```
+Liegt ein belastender VA vor?
+  JA → Anfechtungsklage § 42 Abs. 1 VwGO
+       Dritter (nicht Adressat)?
+         JA → Drittschutz pruefen; § 80a Eilantrag
+         NEIN → Standard-Anfechtungsklage
+  NEIN → Ist eine Handlung (Genehmigung) abgelehnt?
+           JA → Verpflichtungsklage § 42 Abs. 1 Alt. 2 VwGO
+           NEIN → Feststellungsklage § 43 VwGO (Rechtsverhaeltnis)
+                  Norm angreifbar? → Normenkontrolle § 47 VwGO (OVG)
+```
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Klage gegen BImSchG-Genehmigung | Klageschrift nach Schema; Template unten |
+| Variante A — Genehmigung auf Antrag von Mandant Verteidigung noetig | Verteidigungsposition als Beigeladener; Klageschrift ist Klaeger-Template |
+| Variante B — Nur bestimmte Auflagen anfechtbar nicht Gesamtgenehmigung | Teilklage; nur Auflagen angreifen |
+| Variante C — Normenkontrolle als staerkerer Angriffspunkt | Normenkontrolle § 47 VwGO pruefen; oft wirkungsvoller als Einzelklage |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Output-Template: Klageschrift Anfechtung BImSchG-Genehmigung
+
+**Adressat:** Verwaltungsgericht [ORT] — Tonfall: sachlich-juristisch
+
+```
+An das Verwaltungsgericht [ORT]
+
+K l a g e
+
+des/der [NAME KLAEGER], [ADRESSE]
+— Klaeger/in —
+Verfahrensbevollmaechtigte: [KANZLEI]
+
+gegen
+
+[BUNDESLAND/BEHOERDE]
+— Beklagte —
+beigeladen: [BETREIBER]
+
+wegen Aufhebung einer Genehmigung nach BImSchG
+
+A n t r a g
+
+Der Bescheid vom [DATUM], Az. [AZ.], wird aufgehoben.
+
+B e g r u e n d u n g
+
+I. Sachverhalt
+[BETREIBER] erhielt am [DATUM] eine Genehmigung gemaess § 4 BImSchG
+fuer [Anlage, Ort, Kapazitaet]. Klaeger/in ist Eigentuemerinn des Grundstuecks
+[Flur], ca. [X] m von der Anlage entfernt.
+
+II. Klagebefugnis
+Klaeger/in ist in drittschuetzenden Normen verletzt:
+§ 5 Abs. 1 Nr. 1 BImSchG — Schutz vor schaedlichen Umwelteinwirkungen.
+TA-Laerm-Richtwert Nacht 40 dB(A) wird prognostiziert ueberschritten.
+
+III. Begruendung
+1. Schallgutachten fehlerhaft: [Konkrete Maengel]
+2. UVP-Pflicht (UVPG Anlage 1 Nr. [X]) verletzt; Verfahren nicht durchgefuehrt.
+   § 4 UmwRG: Verfahrensfehler fuehrt ohne Kausalitaetspruefung zur Aufhebung.
+3. Materieller Fehler: Nebenbestimmung Betriebszeit unzureichend.
+
+Anlagen: Eigentumsnachweise, Schall-Gegengutachten, Lageplan
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Fristen-Ueberblick
+
+| Schritt | Frist | Grundlage |
+|---|---|---|
+| Einwendungen im Verfahren | Auslegungsfrist + 2 Wochen | § 10 Abs. 3 BImSchG |
+| Widerspruch | 1 Monat | § 70 VwGO |
+| Klage | 1 Monat | § 74 VwGO |
+| Eilantrag § 80a | Unverzueglich | — |
+| Beschwerde OVG § 146 | 2 Wochen / Begruendung 1 Monat | § 146 VwGO |
+| Normenkontrolle OVG | 1 Jahr ab Bekanntmachung | § 47 Abs. 2 VwGO |
+
+## Vertiefung: UmwRG nach EuGH C-137/14
+
+- EuGH hat deutsche Praeklusion § 5 UmwRG fuer unionsrechtswidrig erklaert soweit sie den gerichtlichen Zugang Einzelner beschraenkt.
+- Praxis: Gericht prueft Einwendungen auch wenn im Verwaltungsverfahren nicht erhoben — Chance fuer Klaeger.
+- Aber: VG prueft Opportunitaet im Einzelfall; konservativere OVG-Linie partiell erhalten.
+
+## Anschluss-Skills
+
+- `eilantrag-80-abs-5-vwgo` — Eilrechtsschutz bei Genehmigung
+- `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` — Drittanfechtungs-Strategie
+- `klimaklagen-verbandsklage-umwrg` — Verbandsklage UmwRG
+- `fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo` — Normenkontrolle

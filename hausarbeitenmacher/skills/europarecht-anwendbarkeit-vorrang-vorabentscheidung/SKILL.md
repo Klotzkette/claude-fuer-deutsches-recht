@@ -1,6 +1,6 @@
 ---
 name: europarecht-anwendbarkeit-vorrang-vorabentscheidung
-description: Europarecht in der Hausarbeit Anwendungs-Vorrang VO direkt geltend RL Umsetzungs-Pflicht richtlinien-konforme Auslegung Marleasing Vorabentscheidungs-Verfahren Art 267 AEUV. EU-konforme Auslegung nationales Recht. EuGH-Linien Grundfreiheiten Diskriminierungs-Verbot. Grundrechte-Charta GRC. Beispiele Verbraucherrechte-RL Datenschutz-GVO Lieferketten-RL.
+description: "Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Pruefraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Pruefung CILFIT-Ausnahmen. Output Europarecht-Pruefungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtspruefung (GG)."
 ---
 
 # Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung

@@ -1,0 +1,89 @@
+[AUSZUG — VOLLSTAENDIGES GUTACHTEN UMFASST 64 SEITEN — HIER NUR AUFFAELLIGE STELLEN MIT FUNDSTELLENANGABE]
+
+==== S. 4 ====
+
+Zusammenfassend ist festzustellen, dass die Anlage die zugesagte Nennleistung
+unter Beruecksichtigung der oertlichen Gegebenheiten und der vorgefundenen
+Installation grundsaetzlich erreichen koennte.
+
+Zusammenfassend ist festzustellen, dass die Wechselrichter dem Stand der
+Technik entsprechen und ordnungsgemaess in das Anlagensystem eingebunden
+wurden.
+
+Zusammenfassend ist festzustellen, dass die Modulhalter den allgemeinen
+Anerkennungsregeln der Technik genuegen.
+
+==== S. 11 ====
+
+Es ist wichtig zu beachten, dass bei einer Photovoltaikanlage die tatsaechliche
+Energieerzeugung von zahlreichen Faktoren abhaengt. Dazu zaehlen die
+geographische Lage, die Ausrichtung der Module, die Verschattung durch
+umliegende Vegetation, die Temperatur, der Verschmutzungsgrad und der Zustand
+der Wechselrichter.
+
+Es ist wichtig zu beachten, dass auch saisonale Schwankungen erhebliche
+Unterschiede im Ertrag bewirken koennen.
+
+Es ist wichtig zu beachten, dass die zugesagte Nennleistung als
+Maximalleistung unter Standardtestbedingungen zu verstehen ist.
+
+==== S. 19 ====
+
+Sehr geehrter Sachverstaendiger Pfaffenberger,
+
+bei der Beantwortung der Beweisfrage zu Beweisthema 2 ist zu beachten,
+dass die Installation der Wechselrichter [...]
+
+[STILBRUCH — vorher und nachher in 3. Person; hier ploetzlich Anrede an
+den Sachverstaendigen selbst]
+
+==== S. 23 ====
+
+Im Hinblick auf die Modulhalter ist zu konstatieren, dass [...]
+Im Hinblick auf die hydraulische Dichtigkeit ist zu konstatieren, dass [...]
+Im Hinblick auf die thermische Ausdehnung ist zu konstatieren, dass [...]
+Im Hinblick auf die mechanische Stabilitaet ist zu konstatieren, dass [...]
+Im Hinblick auf die Korrosionsbestaendigkeit ist zu konstatieren, dass [...]
+Im Hinblick auf die UV-Bestaendigkeit ist zu konstatieren, dass [...]
+
+[Sechsfache Wiederholung der gleichen Satzeinleitung. Auffaellig.]
+
+==== S. 28 ====
+
+Eine Ortsbegehung wurde am [DATUM EINFUEGEN] durchgefuehrt.
+
+[Platzhalter nicht ersetzt — vermutlich Vorlagen-Fragment]
+
+==== S. 34 ====
+
+Beweisthema 3 — Mangelbeseitigungskosten Modulhalter:
+
+Die Mangelbeseitigungskosten lassen sich anhand allgemeiner Erfahrungswerte
+auf circa 40.000 bis 60.000 Euro schaetzen.
+
+[KEINE EINZELPOSITION-AUFSCHLUESSELUNG, keine Bezugnahme auf das
+Privatgutachten Wallner, das die 49.600 EUR detailliert aufschluesselt.
+Keine Auseinandersetzung mit den Anknuepfungstatsachen der Akte.]
+
+==== S. 41 ====
+
+Der Sachverstaendige hat die einschlaegigen Normen geprueft. Hierzu zaehlen
+insbesondere DIN EN 61730, IEC 61215, VDE-AR-N 4105 sowie die einschlaegigen
+Herstellervorgaben der Solartec-Bavaria GmbH.
+
+[ABER: Tatsaechlich gibt es keine VDE-AR-N 4105 mit dem genannten Gegenstand;
+die VDE-AR-N 4105 betrifft Niederspannungsnetz-Anschluesse, nicht Wechselrichter-
+Installation. Halluzinationsverdacht.]
+
+==== S. 58 ====
+
+Das Gutachten wurde unter sorgfaeltiger Auswertung aller verfuegbaren
+Informationen erstellt. Es ist zu beachten, dass Schlussfolgerungen nur
+soweit gezogen werden koennen, wie die Datenbasis dies zulaesst.
+
+[Generische Standardformulierung — austauschbar fuer jedes beliebige Gutachten]
+
+==== Unterschrift S. 64 ====
+
+gez. Dipl.-Ing. Edmund Pfaffenberger
+oeffentlich bestellt und vereidigt

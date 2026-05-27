@@ -1,6 +1,6 @@
 ---
 name: erfindungsmeldung-aufnahme
-description: "Erstprüfung einer Erfindungsmeldung nach deutschem Recht — Neuheit, erfinderische Tätigkeit, technischer Charakter (EPÜ), Schutzfähigkeit, Arbeitnehmererfindung (ArbnErfG) und strategischer Wert. Lädt, wenn eine Erfindungsmeldung eingereicht wird und eine Ersteinschätzung zu Anmeldung, Weiterverfolgung oder Ablehnung benötigt wird."
+description: "Mitarbeiter meldet eine Erfindung oder Unternehmen prueft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Pruefraster: Neuheit erfinderische Taetigkeit technischer Charakter EPUe Schutzfaehigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung)."
 ---
 
 # Erfindungseingang — Erstprüfung
@@ -239,3 +239,19 @@ Jede Aussage zu Neuheit, erfinderischer Tätigkeit oder Vergütung muss auf konk
 - **Rechtsprechung:** mindestens eine BGH-Entscheidung zur Neuheit oder erfinderischen Tätigkeit
 - **Kommentar:** Benkard PatG oder Bartenbach/Volz ArbnErfG mit § und Randnummer
 - Alle Quellen mit Fundstelle zitieren. Modellannahmen als `[Modellwissen — verifizieren]` kennzeichnen.
+
+## Triage-Fragen bei Erfindungsmeldung
+
+Bevor die Erfindung aufgenommen und bewertet wird, klaere:
+1. Liegt eine Diensterfindung (§ 4 ArbnErfG — Arbeitgeber hat Inanspruchnahmerecht) oder eine Freierfindung vor?
+2. Laeuft die 4-Monats-Frist des § 6 I ArbnErfG fuer die Inanspruchnahme bereits?
+3. Gibt es neuheitsschaedliche Vorveröffentlichungen (Veroeffentlichung vor Anmeldedatum)?
+4. Besteht technischer Charakter im Sinne des EPÜ Art. 52 (Software: loest technisches Problem auf technischem Weg)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 16.04.2013 — X ZR 49/12 (Fahrzeuggetriebesteuerung):** Eine erfinderische Taetigkeit liegt vor, wenn der Fachmann ausgehend vom naechstliegenden Stand der Technik nicht in naheliegender Weise zur beanspruchten Loesung gelangt waere; die Aufgabe-Loesung-Methode (Problem-and-Solution-Approach) des EPA ist auch vor deutschen Gerichten anerkannt.
+
+> **BGH, Urt. v. 26.10.2004 — X ZR 94/01 (Keks-Form):** Fuer die Neuheitspruefung nach § 3 PatG ist jedes Merkmal des Anspruchs einzeln mit dem Stand der Technik zu vergleichen; eine Kombination von Merkmalen ist neu, wenn sie als Kombination nicht in einer einzigen Entgegenhaltung offenbart ist.
+
+> **BAG, Urt. v. 21.12.2011 — 7 AZR 524/10 (Arbeitnehmererfindung):** Die Verguetung des Arbeitnehmererfinders nach §§ 9 ff. ArbnErfG ist nach einem dreistufigen Verfahren zu ermitteln (wirtschaftlicher Wert, Anteilsfaktor, Mitarbeiterposition); ein Arbeitgeber, der die Erfindung in Anspruch nimmt, muss die Verguetung unverzueglich festsetzen und anbieten.

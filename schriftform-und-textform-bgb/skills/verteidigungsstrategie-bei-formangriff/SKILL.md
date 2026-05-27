@@ -1,6 +1,6 @@
 ---
 name: verteidigungsstrategie-bei-formangriff
-description: "Verteidigung bei Formangriff: Heilungsmöglichkeiten nach Formverstoß, Nachholung der Form, § 242 BGB Treuwidrigkeitseinwand gegen Berufung auf Formmangel, Anfechtbarkeit, Beweislastverteilung — BGH-Linie zu Schranken der Formberu­fung."
+description: "Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Pruefraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-fuer-vertrag-oder-willenserklaerung."
 ---
 
 # Verteidigungsstrategie bei Formangriff

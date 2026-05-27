@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-erste-stufe
-description: Erstes Forderungsschreiben an die Airline. Erfasst Anspruchsteller (alle Passagiere mit Vollmachten) Anspruchsgrundlage Art. 7 VO 261/2004 konkrete Berechnung Frist zur Zahlung (typisch zwei Wochen) Bankverbindung. Inkludiert die rechtliche Begruendung mit Pinpoint auf VO 261/2004 und EuGH-Urteilen. Erwaehnt Schlichtungsstelle Luftverkehr SOEP als naechste Stufe. Versandweg Einschreiben mit Rueckschein oder Airline-Kundenservice-Portal mit Eingangsbestaetigung.
+description: "Erstes Forderungsschreiben an die Airline. Erfasst Anspruchsteller (alle Passagiere mit Vollmachten) Anspruchsgrundlage Art. 7 VO 261/2004 konkrete Berechnung Frist zur Zahlung (typisch zwei Wochen) Bankverbindung. Inkludiert die rechtliche Begruendung mit Pinpoint auf VO 261/2004 und EuGH-Urteilen. Erwaehnt Schlichtungsstelle Luftverkehr SOEP als naechste Stufe. Versandweg Einschreiben mit Rueckschein oder Airline-Kundenservice-Portal mit Eingangsbestaetigung."
 ---
 
 # Forderungsschreiben — Erste Stufe
@@ -137,6 +137,11 @@ Mit freundlichen Grüßen
 - Bei Nichtzahlung tritt Verzug spätestens mit Fristablauf ein (§ 286 Abs. 1 BGB).
 - Verzugszinsen Verbraucher 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
 - Bei einer Pauschalreise mit Unternehmer-Stellung kann § 288 Abs. 2 BGB (9 Prozentpunkte) einschlägig sein — selten relevant für Verbraucher.
+
+## Leitentscheidungen Forderungsschreiben
+
+- BGH, Urt. v. 12.11.2019 — X ZR 117/18, NJW 2020, 464 — Mahnung setzt Verzug in Gang § 286 BGB; Verzugszinsen 5 Prozentpunkte ueber Basiszinssatz; Erstattung Anwaltskosten bei unberechtigter Verweigerung.
+- EuGH, Urt. v. 13.10.2011 — C-83/10 (Sousa Rodriguez), NJW 2011, 3355 — Ausgleichszahlung nach VO 261 sofort faellig; keine Aufschiebung durch interne Regulierungsentscheidung der Airline.
 
 ## Ausgabe
 

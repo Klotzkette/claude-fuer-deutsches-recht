@@ -1,6 +1,6 @@
 # Fachanwalt Sportrecht
 
-Light-Touch-Plugin Fachanwalt für Sportrecht. Orientierung Verbandsrecht der Sportverbände DFB FIFA UEFA IOC DOSB CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Sportler Veranstalterhaftung.
+Plugin Fachanwalt für Sportrecht. Orientierung Verbandsrecht der Sportverbände DFB FIFA UEFA IOC DOSB CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Sportler Veranstalterhaftung.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

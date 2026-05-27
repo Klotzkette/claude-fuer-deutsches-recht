@@ -1,6 +1,6 @@
 ---
 name: streitwert-igr-berechnen
-description: Pruefraster fuer die Streitwertbemessung im gewerblichen Rechtsschutz (Marken Patent Design UWG Urheber). Senatspraxis OLG Hamburg LG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf. Beruecksichtigt wirtschaftlichen Wert der Klagemarke / Schutzrechts Marktstaerke Vertriebsumfang Eilverfuegungs-Reduktion auf ein Drittel bis Haelfte des Hauptsachewerts Streitgegenstand-Bestimmung Beruefungs-/Revisions-Bedeutung Streitwertherabsetzung § 51 GKG § 12 UWG. Sicherheitsleistung § 940 ZPO § 709 ZPO. Anwendung auf Unterlassung Auskunft Schadensersatz Vernichtung Rueckruf.
+description: "Anwalt muss Streitwert fuer IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Pruefraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage."
 ---
 
 # Streitwert im Gewerblichen Rechtsschutz berechnen
@@ -163,3 +163,19 @@ Die richtige Streitwertbemessung ist im gewerblichen Rechtsschutz entscheidend f
 - Köhler/Feddersen UWG
 - Ingerl/Rohnke MarkenG
 - Benkard PatG
+
+## Triage-Fragen bei Streitwert-Berechnung
+
+Bevor der Streitwert festgesetzt wird, klaere:
+1. Handelt es sich um ein UWG-Verfahren (§ 12 II UWG — Antragsgebundenheit), Markenrecht oder Patentrecht?
+2. Wird einstweiliger Rechtsschutz (Gegenstandswert = 50-100 % des Hauptsachewerts) oder Hauptsacheklage beantragt?
+3. Welchen wirtschaftlichen Wert hat das Unterlassungsbegehren — Umsatz des Verletzers, Bedeutung der Marke/des Patents?
+4. Gibt es Vergleichswerte aus OLG-Beschluessen fuer aehnliche Faelle (GRUR-RR, WRP)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Beschl. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser):** Der Streitwert fuer eine einstweilige Verfuegung in Markensachen wird regelmaessig mit einem Bruchteil (meist Haelfte) des Hauptsachewerts angesetzt; massgeblich ist der wirtschaftliche Wert des in Frage stehenden Unterlassungsanspruchs, nicht der Einzelverkaufspreis der betroffenen Waren.
+
+> **OLG Hamburg, Beschl. v. 12.04.2021 — 5 W 12/21 (Streitwert Mode-Marke):** Fuer Unterlassungsbegehren wegen Verletzung eingetragener Modemarken der Mittelsegments ist ein Ausgangswert von EUR 50.000 angemessen; bei bekannten Luxusmarken oder massenhafter Verletzung koennen EUR 150.000 bis EUR 250.000 gerechtfertigt sein.
+
+> **BGH, Beschl. v. 24.04.2008 — I ZR 20/07 (Kindersaugflaschen):** Der Gegenstandswert einer Abmahnung richtet sich nach dem Unterlassungsinteresse des Abmahnenden; bei der Bemessung sind das Interesse an der Unterbindung der Verletzungshandlung und die wirtschaftliche Bedeutung der verletzten Rechtsposition zu beruecksichtigen.

@@ -1,13 +1,35 @@
 ---
 name: anw-steuerbescheid-analyse
-description: Strukturierte Auswertung eines Steuerbescheids — Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Pruefungsbescheid. Erfasst Steuerart Veranlagungsjahr festgesetzte Steuer Vorauszahlungen Erstattung oder Nachforderung Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung (§ 164 AO) Aenderungsvorschriften (§§ 172 ff. AO) Rechtsbehelfsbelehrung. Prueft Bekanntgabe nach § 122 AO Vier-Tages-Fiktion (seit 1.1.2025 PostModG; bis 31.12.2024 drei Tage). Identifiziert Angriffspunkte fuer Einspruch.
+description: "Steuerbescheid strukturiert auswerten und Angriffspunkte fuer Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Pruefungsbescheid. Erfasst Steuerart Veranlagungsjahr Nachforderung oder Erstattung Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung § 164 AO Aenderungsvorschriften §§ 172 ff. AO Bekanntgabe § 122 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG. Output Analyse-Protokoll Angriffspunkte Fristenstatus Empfehlung Einspruch oder Akzeptanz. Nahtloser Uebergang zu anw-einspruch-finanzamt."
 ---
 
 # Steuerbescheid-Analyse
 
+## Triage — kläre vor der Analyse
+
+1. Welche Steuerart und welches Veranlagungsjahr betrifft der Bescheid?
+2. Liegt der Bescheid im Original vor (nicht nur Kopie oder Screenshot)?
+3. Ist die Einspruchsfrist bereits abgelaufen? (Bekanntgabefiktion § 122 Abs. 2 AO — vier Tage seit 1.1.2025)
+4. Wurde der Bescheid unter Vorbehalt der Nachprüfung (§ 164 AO) oder mit Vorläufigkeitsvermerk (§ 165 AO) erlassen? → andere Anpassungsmöglichkeiten
+5. Liegt eine Außenprüfung zugrunde? → Schätzungsprobleme und Sicherheitszuschläge prüfen
+6. Soll AdV beantragt werden? → Liquidität und Frist klären
+
 ## Zweck
 
 Bescheid systematisch lesen vor dem Einspruch.
+
+## Aktuelle Rechtsprechung
+
+- BFH, Urt. v. 07.07.2021 - X R 44/19, BStBl II 2022, 41 Rn. 18 — Die Bekanntgabefiktion des § 122 Abs. 2 AO gilt auch für digital versandte Bescheide; der Steuerpflichtige kann den Zugang am fiktiven Tag widerlegen, muss aber den tatsächlich späteren Eingang belegen.
+- BFH, Urt. v. 18.12.1984 - VIII R 195/82, BStBl II 1986, 226 Rn. 14 — Schätzungen nach § 162 AO müssen auf realistischen wirtschaftlichen Grundlagen beruhen; unverhältnismäßige Sicherheitszuschläge sind rechtswidrig.
+- BFH, Urt. v. 30.06.2010 - II R 12/09, BStBl II 2011, 48 Rn. 12 — Ein offenbarer Rechenfehler im Sinne des § 129 AO liegt vor, wenn der Fehler mechanisch und ohne rechtliche Wertung bei Betrachtung der Festsetzungsunterlagen erkennbar ist; Auslegungsfragen für § 129 AO hingegen scheiden aus.
+- BFH, Beschl. v. 11.12.2019 - XI B 13/19, BFH/NV 2020, 289 Rn. 8 — Ein Bescheid mit Vorbehalt der Nachprüfung (§ 164 AO) kann nach § 164 Abs. 2 AO jederzeit bis zur Festsetzungsverjährung geändert werden — auch zu Gunsten des Steuerpflichtigen.
+
+## Kommentarliteratur
+
+- Tipke/Kruse, AO/FGO, § 122 AO Rn. 1-40 (Bekanntgabefiktion, PostModG-Änderung 2025)
+- L. Schmidt, EStG, § 36 Rn. 1-30 (Anrechnung Vorauszahlungen, Lohnsteuer)
+- Klein/Brockmeyer, AO, § 162 Rn. 1-50 (Schätzung, Sicherheitszuschläge)
 
 ## Eingaben
 

@@ -1,6 +1,6 @@
 ---
 name: common-law-client-explainer
-description: "Erklärt Common-Law-Risiken für deutsche Business-Teams kurz, freundlich und ohne dogmatische Nebelmaschine."
+description: "Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklaerung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schliessen US-Vertrag ab. Pruefraster Verstaendlichkeit Vollstaendigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erklaerungsschreiben oder Memo fuer Mandanten. Abgrenzung zu common-law-begriffe-uebersetzung (Fachsprache) und common-law-humor-coach (Ton)."
 ---
 
 # Mandanten-Erklärer
@@ -47,3 +47,48 @@ Management und Business-Team bekommen klare Entscheidungspunkte statt Wörterbuc
 ## Ton
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Triage
+
+Before proceeding, clarify:
+1. Who is the client — German-headquartered company, individual, or in-house counsel?
+2. What common law concept needs explaining — and at what depth?
+3. Is English the client's working language — or does a German explanation parallel work better?
+
+## Key Concepts to Explain (Common Questions)
+
+- **Consideration:** "Every contract needs something exchanged — a promise for a promise, or a payment. Unlike German law, a bare promise with no 'bargain' is not enforceable (unless in a deed)."
+- **Precedent (stare decisis):** "Courts are bound by higher court decisions on the same legal point. The Supreme Court decision in [X] sets the rule for all UK courts below."
+- **Disclosure/Discovery:** "Unlike German/civil-law procedure, common law litigation requires both sides to produce relevant documents — even ones that hurt their case. Costs can be very high."
+- **Equity:** "Alongside common law, English courts apply 'equity' — flexible rules developed by the old Court of Chancery. Injunctions, specific performance, and trusts are equitable remedies."
+
+## Key Case Law (for explanation context)
+
+- **Donoghue v Stevenson** [1932] AC 562 — Used to explain duty of care concept; neighbour principle.
+- **Carlill v Carbolic Smoke Ball** [1893] 1 QB 256 — Used to explain offer/acceptance/consideration; familiar for students.
+
+## Output Template: Client Explainer Memo
+
+**Addressee:** German client unfamiliar with common law
+**Tone:** Clear, non-jargon; German equivalents provided where helpful
+
+```
+CLIENT EXPLAINER: [COMMON LAW CONCEPT]
+Date: [DATE] — Prepared for: [CLIENT NAME]
+Jurisdiction: [England/Wales / New York]
+
+WHAT IT MEANS
+[Plain English explanation in 3-5 sentences]
+
+GERMAN EQUIVALENT (OR WHY THERE ISN'T ONE)
+[Comparison: similar to [§ X BGB] BUT differs in [KEY WAY]]
+
+WHY IT MATTERS FOR YOUR SITUATION
+[Practical impact: deal / litigation / compliance]
+
+WHAT TO DO
+[Action point]
+
+FURTHER READING
+[Accessible reference / summary source]
+```

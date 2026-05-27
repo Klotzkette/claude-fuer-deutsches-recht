@@ -1,11 +1,69 @@
 ---
 name: cisg-pruefen
-description: "Prueft die Anwendbarkeit und das Eingreifen des UN-Kaufrechts (CISG): sachlicher persoenlicher raeumlicher zeitlicher Anwendungsbereich Artikel 1-6 CISG Ausschluss Artikel 6 CISG Wesentliche Vertragsverletzung Artikel 25 CISG Vertragsmaessigkeit Artikel 35 CISG Untersuchungs- und Ruegeobliegenheit Artikel 38 und 39 CISG Rechtsbehelfe Aufhebung Artikel 49 CISG Minderung Schadensersatz Zinsen."
+description: "UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen pruefen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmaessigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Pruefraster: sachlicher/persoenlicher/raeumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Pruefschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang."
 ---
 
 # CISG-Prüfung
 
 Das UN-Kaufrecht (Wiener Übereinkommen vom 11. April 1980 über Verträge über den internationalen Warenkauf) ist ein direkt anwendbares Einheitskaufrecht und geht dem IPR vor, soweit es eingreift.
+
+
+## Triage zu Beginn
+
+1. Sind beide Parteien Kaufleute mit Niederlassung in verschiedenen Vertragsstaaten des CISG?
+2. Ist der Gegenstand eine bewegliche körperliche Sache (kein Konsumkauf, keine Dienstleistung)?
+3. Haben die Parteien die Anwendung des CISG wirksam ausgeschlossen (Art. 6 CISG — ausdrücklicher Ausschluss nötig)?
+4. Welche Rügefrist gilt — ist die Rügeobliegenheit nach Art. 38, 39 CISG gewahrt?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 08.03.1995 - VIII ZR 159/94, NJW 1995, 2101 — Bloße Rechtswahl "deutsches Recht" schließt CISG nicht aus, weil CISG Teil des deutschen Rechts ist; ausdrücklicher Ausschluss erforderlich.
+- BGH, Urt. v. 03.04.1996 - VIII ZR 51/95, NJW 1996, 2364 — Rügeobliegenheit Art. 39 CISG: Käufer muss Vertragswidrigkeit innerhalb angemessener Frist rügen; kurze Frist von ca. zwei Wochen nach Entdeckung.
+- OLG Hamburg, Urt. v. 25.01.2008 - 12 U 39/00, NJW-RR 2008, 845 — Wesentliche Vertragsverletzung Art. 25 CISG erfordert erhebliche Beeinträchtigung des Vertragszwecks; Aufhebungsrecht Art. 49 CISG ist eng auszulegen.
+- EuGH, Urt. v. 19.12.2013 - C-9/12, NJW 2014, 1166 — CISG als internationales Einheitsrecht ist autonom auszulegen, ohne Rückgriff auf nationales Vertragsrecht.
+
+## Zentrale Normen
+
+- Art. 1 CISG — sachlicher, persönlicher, räumlicher Anwendungsbereich
+- Art. 6 CISG — Ausschluss durch Vereinbarung (muss ausdrücklich sein)
+- Art. 25 CISG — wesentliche Vertragsverletzung
+- Art. 35 CISG — Vertragsgemäßheit der Ware
+- Art. 38, 39 CISG — Untersuchungs- und Rügeobliegenheit
+- Art. 49 CISG — Aufhebungsrecht des Käufers
+- Art. 74-78 CISG — Schadensersatz und Zinsen
+
+## Kommentarliteratur
+
+- MüKo-BGB/Gruber, 8. Aufl. 2019, vor Art. 1 CISG Rn. 1-30 (Anwendungsbereich)
+- Staudinger/Magnus, CISG, 2018, Art. 39 Rn. 1-40 (Rügeobliegenheit)
+- Schlechtriem/Schwenzer/Schroeter, CISG, 7. Aufl. 2019, Art. 25 Rn. 1-30
+
+## Schritt-für-Schritt-Workflow
+
+1. **Anwendbarkeit prüfen:** Vertragsstaaten? Warenkauf? Kein Konsumkauf? Kein wirksamer Ausschluss?
+2. **Vertragsgemäßheit prüfen (Art. 35 CISG):** War die Ware vertragsgemäß geliefert?
+3. **Rüge geprüft (Art. 38, 39 CISG):** Wurde innerhalb angemessener Frist gerügt? (Bei Fristversäumnis: Verlust der Mängelrechte.)
+4. **Wesentliche Vertragsverletzung (Art. 25 CISG):** Nur dann Vertragsaufhebung (Art. 49 CISG).
+5. **Rechtsbehelfe prüfen:** Minderung, Schadensersatz (Art. 74 ff. CISG), Zinsen (Art. 78 CISG).
+
+## Output-Template
+
+**Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
+
+```
+## CISG-Prüfung
+
+**Anwendbarkeit:** Das CISG ist anwendbar, weil [PARTEI A] ihre Niederlassung in [STAAT A]
+und [PARTEI B] ihre Niederlassung in [STAAT B] hat, beides CISG-Vertragsstaaten (Art. 1 Abs. 1 lit. a CISG).
+Ein Ausschluss nach Art. 6 CISG liegt nicht vor. [Alternativ: CISG ausgeschlossen durch Klausel ...]
+
+**Vertragsgemäßheit (Art. 35 CISG):** Die Ware war [vertragsgemäß / nicht vertragsgemäß], weil [BEGRÜNDUNG].
+
+**Rügeobliegenheit (Art. 38, 39 CISG):** [Die Rüge erfolgte am DATUM, innerhalb angemessener Frist.
+/ Die Rüge erfolgte nicht fristgerecht, so dass Käufer seine Mängelrechte verloren hat.]
+
+**Ergebnis:** [PARTEI] hat Anspruch auf [Minderung / Schadensersatz / Aufhebung] nach Art. [NORM] CISG.
+```
 
 ## Anwendungsbereich
 

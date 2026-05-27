@@ -1,6 +1,6 @@
 ---
 name: do-versicherung-manager-haftung
-description: Pruefraster D&O-Versicherung bei Manager-Haftung in Insolvenz-Lage. Versicherungs-Verhaeltnis Versicherer Versicherter Versicherungs-Nehmer typisch Gesellschaft. Versicherungs-Fall Schadensereignis vs. Anspruchserhebung Claims-made-Prinzip. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Anspruchsverteidiger gegen Insolvenz-Verwalter-Klage. Versicherer-Pflicht Verteidigung Schadensregulierung. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. Aktuelle BGH-Linie zur Insolvenz-Anfechtung Praemienzahlung. Pflichten Versicherter rechtzeitige Meldung Mitwirkungs-Pflichten. Selbstbehalt Hoechstdeckungssumme.
+description: "Insolvenzverwalter verklagt Geschaeftsfuehrer und D&O-Versicherung soll Deckung pruefen oder Manager fragt nach Versicherungsschutz in der Krise. Pruefraster D&O-Versicherung Claims-made-Prinzip Schadensereignis vs. Anspruchserhebung. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. BGH-Linie zur Insolvenz-Anfechtung Praemien-Zahlung. Output D&O-Deckungs-Memo mit Versicherungs-Lage und Pflichten des Versicherten. Abgrenzung: antragspflicht-15a-inso fuer die Haftung selbst."
 ---
 
 # D&O-Versicherung bei Manager-Haftung
@@ -345,3 +345,9 @@ Mit freundlichen Gruessen
 - BGH IV. Zivilsenat zu D&O-Auslegungs-Fragen
 - Bruck/Möller VVG
 - Werber D&O-Versicherung
+
+
+## Ergaenzende Leitentscheidungen
+
+- BGH, Urt. v. 08.10.2013 — VI ZR 111/12, NZI 2014, 68 — D&O Versicherung und Insolvenz: IV tritt als Rechtsnachfolger in D&O-Ansprueche der Gesellschaft ein; Direktklage des IV gegen D&O-Versicherer zulaeissig.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung § 15b InsO: GF haftet persoenlich fuer Zahlungen nach Insolvenzreife; D&O-Versicherung deckt § 15b-Anspruch als "wrongful trading" ab wenn Versicherungspolice weit genug.

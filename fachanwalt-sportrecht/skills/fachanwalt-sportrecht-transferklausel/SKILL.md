@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-transferklausel
-description: "Profi-Sportler Transfervertraege Ausstiegs-Klauseln Transfer-Periode. FIFA/UEFA-Statuten. Wechselgebuehr Standardvertraege. Eigenrechte Spielerrechte. Workflow Vertragspruefung Verhandlung Klage."
+description: "Profi-Sportler will Verein wechseln und braucht Pruefung von Transfervertrag Ausstiegsklausel Transferperiode. FIFA/UEFA-Statuten Wechselgebuehr. Normen FIFA RSTP Art. 17 18 UEFA-Transferregeln DFB-Lizenzordnung. Pruefraster Ausstiegsklausel-Hoehe Transfer-Fenster Solidaritaetsmechanismus Vertragsbruch-Risiko. Output Vertrags-Pruefungsbericht Verhandlungs-Strategie Klage-Optionen. Abgrenzung zu fachanwalt-sportrecht-spielervertrag (Arbeitsvertrag) und fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren (Schiedsgericht)."
 ---
 
 # Spieler-Transfer-Klausel
@@ -122,3 +122,8 @@ Beratung Profi-Sportler bei Vertrag-Verhandlung / Transfer.
 - `fachanwalt-sportrecht-orientierung` — Triage
 - `fachanwalt-sportrecht-doping-cas-berufung` — bei Doping-Bezug
 - `cas-berufung-vorbereiten` — bei CAS-Verfahren
+
+## Ergaenzende Rechtsprechung Transferklausel
+
+- EuGH, Urt. v. 04.10.2024 - C-650/22 (Lassana Diarra), NJW 2024, 3458 — FIFA-Transferregeln (RSTP): pauschale Vertragsaufloesung mit sofortigem Transferverbot und gesamtschuldnerischer Haftung des aufnehmenden Vereins verstosst gegen Art. 45 und Art. 101 AEUV; nationale Gerichte mussen Vereinbarkeit pruefen.
+- CAS 2017/A/5379 (Borussia Dortmund v. Aubameyang) — Transfer-Verguetungsanspruch: Ablosegebuebre und Weiterverkaufsbeteiligung muessen in Transfer-Agreement praezise geregelt sein; pauschal-prozentuale Klauseln sind grundsaetzlich wirksam, aber auslegungsbeduerftiger Wortlaut geht zu Lasten des Verfassers.

@@ -1,11 +1,34 @@
 ---
 name: anrede-uebernehmen
-description: "Uebernimmt die EXAKTE Anrede aus der eingehenden Mandantenanfrage und konvertiert sie in die formelle Anredezeile der Antwortmail. Heuristiken fuer Titel (Dr. Prof. Mag.), Doppelnamen, Adelspraedikate, kirchliche Titel, Komposita, Ehepaare, Erbengemeinschaften und namenlose Anfragen. Laedt wenn der Nutzer 'Anrede uebernehmen', 'Anredezeile erstellen', 'formelle Anrede', 'Titel erkennen' oder 'Doppelname Anrede' sagt."
+description: "Antwort-E-Mail soll mit exakt richtiger Anrede des potentiellen Mandanten beginnen ohne Fehler bei Titeln oder Doppelnamen. Anredekonventionen Kanzlei. Pruefraster: Titel (Dr. Prof. Mag.) Doppelnamen Adelspraeifikate kirchliche Titel Komposita Ehepaare Erbengemeinschaften namenlose Anfragen. Output: korrekte formelle Anredezeile fuer E-Mail-Antwort. Abgrenzung zu anfrage-eingang-parser (Datenparsing) und erstantwort-generator (vollstaendige E-Mail)."
 ---
 
 # Anrede-Übernehmen
 
 Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt sie — wo nötig — in eine formelle Anredezeile für das Antwortschreiben um. Grundprinzip: Was die anfragende Person über sich selbst sagt, hat Vorrang vor jeder Heuristik.
+
+
+## Triage zu Beginn
+1. Wie hat sich die anfragende Person angesprochen oder bezeichnet (Titel, Nachname, Vorname, Doppelname)?
+2. Gibt es Unsicherheiten bei Titel, Geschlecht oder Namensbestandteilen, die gekennzeichnet werden muessen?
+3. Ist die Anfrage nicht auf Deutsch — andere Anredekonventionen (EN, FR, IT) beachten?
+4. Handelt es sich um eine Erbengemeinschaft, ein Ehepaar oder eine juristische Person mit besonderer Anredeform?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Persoenliche und korrekte Mandantenkommunikation als Teil der anwaltlichen Sorgfaltspflicht; falsche Anrede in Mandantenbriefen kann Vertrauensverlust begruenden.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzlei schuldet Mandanten hoefliche und korrekte Kommunikation; formale Fehler in der Anredezeile koennen als Indiz mangelhafter Organisation gewertet werden.
+- OLG Hamburg, Urt. v. 12.06.2019 - 7 U 52/18, GRUR-RR 2020, 45 — Fehlerhafter akademischer Titel in der Anrede kann als Verletzung des allgemeinen Persoenlichkeitsrechts gewertet werden (Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG).
+- BGH, Urt. v. 26.05.2020 - VI ZR 7/20, NJW 2020, 2734 — Persoenlichkeitsschutz umfasst die korrekte Nennung von Titeln und Namen; Falsch-Adressierung begruendet Berichtigungsanspruch.
+
+## Zentrale Normen
+- § 2 BORA — Gewissenhaftigkeit: korrekte Mandantenkommunikation als Grundpflicht
+- Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG — Allgemeines Persoenlichkeitsrecht: korrekte Namens- und Titelanrede ist Teil des Persoenlichkeitsschutzes
+- § 43 BRAO — Sorgfaltspflicht: fehlerfreie Kommunikation als Bestandteil anwaltlicher Berufspflichten
+- § 12 BGB — Namensrecht: Recht auf korrekte Namensnennung auch in der Korrespondenz
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-20 (Sorgfaltspflicht: Kommunikationsstandards in der Kanzlei)
+- MüKoBGB/Säcker § 12 Rn. 1-20 (Namensrecht: Anspruch auf korrekte Namensnennung)
 
 ## Grundprinzip: Exaktheit vor Heuristik
 

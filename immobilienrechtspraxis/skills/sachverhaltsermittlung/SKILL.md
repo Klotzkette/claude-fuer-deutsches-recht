@@ -1,6 +1,6 @@
 ---
 name: sachverhaltsermittlung
-description: Unterstuetzt Inhouse-Juristen bei der zeitraubendsten Phase eines Vorgangs — der Sachverhaltsermittlung. Statt sofort den vollen Sachverhalt zu fordern, fuehrt der Skill einen strukturierten Frageprozess in mehreren Stufen. Stufe eins extrahiert Eckpunkte aus vorhandenen Unterlagen. Stufe zwei stellt gezielte Rueckfragen an Asset-Management oder Hausverwaltung. Stufe drei rekonstruiert eine zeitliche Abfolge. Stufe vier markiert Beweisluecken. Ausgabe ist ein konsolidiertes Sachverhalts-Memo mit klarer Trennung gesichert plausibel offen. Geeignet fuer Mietstreitigkeiten Mietmaengelanzeigen Kuendigungen Bauschadensfaelle und Property-Management-Konflikte.
+description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhaeltnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Pruefraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog. Output: Sachverhalts-Ermittlungsbericht. Abgrenzung: nicht rechtliche Bewertung."
 ---
 
 # Sachverhaltsermittlung
@@ -86,3 +86,20 @@ sonst das Vertrauen — und das ist der teuerste Verlust.
   Hausverwaltung anbei. Konsolidiere zum Memo."
 - "Ich habe nur eine halbe Akte. Welche Fragen muss ich stellen,
   bevor ich rechtlich prüfe?"
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 12.10.2022 — VIII ZR 339/21, NJW 2023, 218 Rn. 20: Bei Mietmaengelstreitigkeiten muss der Mieter die Ursache des Mangels nicht beweisen; es genuegt die Darlegung der Mangelerscheinung; der Vermieter traegt dann die Last des Gegenbeweises (keine mangelfreie Beschaffenheit).
+- BGH, Urt. v. 26.10.2022 — VIII ZR 328/21, NJW 2023, 296 Rn. 28: Eigenbedarfskuendigung erfordert im Schreiben konkrete Angabe von Eigenbedarfsinteressent und Nutzungszweck — fehlende Angaben machen Kuendigung formell unwirksam.
+- BGH, Urt. v. 31.05.2023 — VIII ZR 143/22, NJW 2023, 2735: Sachverhaltsunsicherheiten bei Betriebskosten gehen zu Lasten des Vermieters; er traegt Darlegungslast fuer Umlagefaehigkeit jeder Position.
+
+## Paragrafenkette
+
+- Mangelanzeige/Mietminderung: §§ 536, 536a, 543 BGB
+- Kuendigung: §§ 543, 569, 573 BGB
+- Betriebskosten: § 556 Abs. 3 BGB, BetrKV
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — Sachverhaltsermittlung als Praxisvoraussetzung
+- BeckOK Mietrecht — §§ 536 ff. Beweislast

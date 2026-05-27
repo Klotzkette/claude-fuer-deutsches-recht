@@ -5,6 +5,16 @@ description: "Ersteinrichtungs-Interview für das gesellschaftsrechtliche Praxis
 
 # Ersteinrichtungs-Interview
 
+## Triage zu Beginn
+
+Vor dem Kaltstart-Interview klaeren:
+
+1. **Profil bereits vorhanden?** CLAUDE.md lesen: vollstaendig befuellt? Falls ja: `--redo` oder `--modul [name]` verwenden, kein Neustart.
+2. **Aufruf-Flag?** `--neues-mandat` (nur Transaktionskontext), `--modul ma/aufsichtsrat/kapitalmarkt/gesellschaften` (nur ein Modul), `--integrationen-pruefen` (nur Integrationen), `--redo` (Vollneustart).
+3. **Zeitbudget des Nutzers?** 2 Minuten (Kurzversion: nur Rolle + aktive Module) oder 15 Minuten (vollstaendige Einrichtung inkl. Schwellenwerte und Hausstil)?
+4. **Welche Module werden benoetigt?** Nicht alle Module annehmen; Nutzer explizit fragen. Pro-Tipp: Die meisten Nutzer brauchen 1-2 Module, nicht alle vier.
+5. **Seed-Dokumente verfuegbar?** Wenn Nutzer Due-Diligence-Anforderungsliste oder Musterbeschluesse hochgeladen hat: aus diesen extrahieren statt manuell fragen.
+
 ## Zweck
 
 Gesellschaftsrechtliche Mandate variieren erheblich: Ein GmbH-Syndikusrechtsanwalt (§ 46 BRAO) bei einem Start-up führt M&A-Transaktionen durch, pflegt die Gesellschafterliste und protokolliert Gesellschafterbeschlüsse. Ein Kanzleianwalt bei einem DAX-Konzern verantwortet möglicherweise nur BaFin-Meldepflichten oder die Vorbereitung von Hauptversammlungen. Dieses Interview ermittelt, welche Bereiche für den Nutzer aktiv sind, und baut ausschließlich das relevante Praxisprofil — keine leeren Abschnitte für nicht anwendbare Bereiche.
@@ -120,9 +130,71 @@ Zusammenfassung zeigen, Praxisprofil erstellen, Pflege erläutern:
 
 ## Ausgabeformat
 
-- Praxisprofil in CLAUDE.md mit allen aktiven Modulen und befüllten Abschnitten
+- Praxisprofil in CLAUDE.md mit allen aktiven Modulen und befuellten Abschnitten
 - Keine `[PLATZHALTER]` in abgeschlossenen Sektionen — nur bewusst ausgelassene Felder als `[AUSSTEHEND]` markieren
-- Tabellarische Übersicht aktiver Module mit Kurzbeschreibung
+- Tabellarische Uebersicht aktiver Module mit Kurzbeschreibung
+
+## Output-Template
+
+**Adressat:** Praxis-Nutzer / Kanzlei-intern — Tonfall: sachlich-bestaedigend, handlungsanleitend
+
+```
+## Gesellschaftsrecht Praxisprofil
+_Erstellt: [TT.MM.JJJJ] — Version 1.0_
+
+### Unternehmen / Kanzlei
+Name: [KANZLEI / UNTERNEHMEN]
+Taetigkeitssetting: [Sozietaet / Syndikusrechtsanwalt in-house / Rechtsamt]
+Branche: [BRANCHE]
+Rechtsform betreuter Gesellschaften: [GmbH / AG / SE / KG / etc.]
+Sitz: [ORT]
+Registergericht: [AMTSGERICHT ORT] — HRB [NUMMER]
+Rechtsteam-Groesse: [N] Personen
+
+### Eskalationsmatrix
+Wesentliche Entscheidungen: [PERSON / GREMIUM]
+Externe Eskalation ab: [BETRAG EUR / BESCHREIBUNG]
+Externe Kanzlei: [NAME]
+
+### Aktive Module
+| Modul | Aktiv | Konfiguriert |
+|---|---|---|
+| M&A | [JA / NEIN] | [JA / AUSSTEHEND] |
+| Governance / Beschlussfassung | [JA / NEIN] | [JA / AUSSTEHEND] |
+| Kapitalmarkt | [JA / NEIN] | [JA / AUSSTEHEND] |
+| Gesellschaftsverwaltung | [JA / NEIN] | [JA / AUSSTEHEND] |
+
+### M&A-Modul (falls aktiv)
+Regelfall: [Kaeuferseite / Verkaeuferseite / variabel]
+Wesentlichkeitsschwelle Vertragsreview: [BETRAG EUR]
+VDR-Plattform: [INTRALINKS / DATASITE / ANDERES]
+KI-Massenreview-Vertrauen: [ERGEBNIS UEBERNEHMEN / 10-PROZENT-STICHPROBE / VOLLPRUEFUNG]
+
+### Governance-Modul (falls aktiv)
+Hausbeschlussformat: [BESCHLOSSEN: / Beschluss Nr. / etc.]
+Bevorzugte Unterzeichner: [LISTE]
+Notarielle Beurkundung erforderlich bei: [SATZUNGSAENDERUNG / KAPITALMASNAHME / etc.]
+
+### Gesellschaftsverwaltungs-Modul (falls aktiv)
+Anzahl aktiv verwalteter Gesellschaften: [N]
+Entity-Management-System: [NAME / TABELLE]
+Jahresabschluss-Pflichten: [HGB / IFRS]
+
+### Integrationen
+| System | Status | Letzter Test |
+|---|---|---|
+| [VDR-NAME] | [VERBUNDEN / NICHT VERBUNDEN] | [DATUM] |
+| Handelsregister | [VERBUNDEN / NICHT VERBUNDEN] | [DATUM] |
+
+_Profil-Pflege: Einzelne Aenderungen per `/gesellschaftsrecht:gesellschaftsrecht-anpassen`.
+Vollstaendige Neueinrichtung per `/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview --redo`._
+```
+
+## Rote Schwellen
+
+- **Modul-Annahme ohne Nachfragen** — nicht alle Module als aktiv annehmen; Nutzer verliert Zeit mit irrelevanten Fragen; immer zuerst fragen.
+- **Konkrete Schwellenwerte nicht erfasst** — 'uebliche Schwellen' ist kein Wert; nach Zahlen fragen.
+- **Profil mit Platzhaltern abgeschlossen** — `[PLATZHALTER]` in CLAUDE.md fuehrt dazu, dass Skills falsche Defaultwerte verwenden; nur als `[AUSSTEHEND]` mit Erklaerung belassen.
 
 ## Beispiel
 

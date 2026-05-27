@@ -114,3 +114,46 @@ Interaktiver Dialog: Karte → Auswahl → aktueller Wert / neuer Wert → Best�
   - `[prüfen]`-Tags auf zitierten Normen/Vorschriften – tragend, nicht entfernen.
 - **Eine Änderung auf einmal.** Nicht das gesamte Interview neu stellen. Bei mehreren
   Änderungen sequenziell vorgehen und jede vor dem Weitermachen bestätigen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Profilbasierte KI-Entscheidungen fallen unter Art. 22 DSGVO — Anpassung der Risikoeinstellung muss DSGVO-Widerspruchsrecht berucksichtigen.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Systeme muss Entscheidungslogik verstaendlich offenlegen — Anpassungen der Offenlegungsklauseln im Praxisprofil muss Art. 22 Abs. 3 DSGVO beruecksichtigen.
+- BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Interne Organisationspflichten bei technischen Systemen — KI-Governance-Aenderungen muessen konsistent in alle verbundenen Prozesse eingepflegt werden.
+- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Transparenz algorithmischer Entscheidungen als Pflicht auch im Verwaltungsbereich; Eskalationsmatrix-Aenderungen muessen nachvollziehbar dokumentiert werden.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 5 KI-VO — verbotene Praktiken (jede Profileinstellung muss dagegen gecheckt werden)
+- Art. 26/29 KI-VO — Betreiberpflichten (Anpassungen an Hochrisiko-Einstellungen)
+- Art. 22 DSGVO — automatisierte Einzelentscheidungen
+- Art. 35 DSGVO — DSFA-Ausloeser
+- § 87 Abs. 1 Nr. 6 BetrVG — Mitbestimmungsrecht bei Mitarbeiter-KI
+
+## Kommentarliteratur
+- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 26 Rn. 5: Betreiberpflichten und Governance-Dokumentation.
+- Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 10: Widerspruchsrecht und Konfigurationsanforderungen.
+
+## Triage zu Beginn
+1. Welcher Abschnitt des Praxisprofils soll geaendert werden — Risikoeinstellung, Register, Eskalation?
+2. Hat die Aenderung nachgelagerte Auswirkungen auf andere Skills (Triage, Folgenabschaetzung)?
+3. Betrifft die Aenderung die Eskalationsmatrix — wer ist neuer Genehmiger?
+4. Wird eine Leitplanke degradiert — welche Schutzfunktion entfaellt?
+5. Sind Aenderungen am gemeinsamen Profil (unternehmens-profil.md) betroffen?
+
+## Output-Template — Profil-Aenderungsbestaetigung
+**Adressat:** KI-Governance-Verantwortlicher — Tonfall: knapp, bestaedigend
+```
+PROFIL-AENDERUNGSBESTAETIGUNG
+[DATUM] — Geaenderter Abschnitt: [ABSCHNITT]
+
+Alte Einstellung: [ALTER WERT]
+Neue Einstellung: [NEUER WERT]
+
+Nachgelagerte Auswirkungen:
+- [SKILL X]: [BESCHREIBUNG AUSWIRKUNG]
+- [SKILL Y]: [BESCHREIBUNG AUSWIRKUNG]
+
+Leitplanken: [KEINE DEGRADATION / DEGRADIERT: BESCHREIBUNG UND BESTAETIGUNG]
+
+Naechste Pruefung: [DATUM]
+Geaendert von: [NAME], [DATUM]
+```

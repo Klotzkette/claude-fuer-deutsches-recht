@@ -1,48 +1,63 @@
 ---
 name: verkehr-infrastrukturrecht-foerderung-vergabe
-description: "Prüft Förderbedingungen, Zuwendungsrecht, Vergabe, Leistungsbeschreibung, Dokumentation und Nachtragsrisiken."
+description: "Foerderrecht und Vergabe fuer Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt oeffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Pruefraster: Foerderfaehigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Pruefung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin."
 ---
 
-# Förderung und Vergabe Infrastruktur
+# Foerderrecht und Vergabe — Verkehrsinfrastruktur
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill verbindet Projektfinanzierung, Vergabeakte und Umsetzungscontrolling.
+1. **Foerderung oder Vergabe?** — Foerderrecht: Zuwendungsbescheid nach GVFG/LStrG/BVWP; Vergaberecht: Ausschreibung und Zuschlag bei oeffentlichen Auftraggebern.
+2. **EU-Schwellenwert ueberschritten?** — Vergabe: EU-weit ab 5.382.000 EUR (Bauleistungen 2024), 221.000 EUR (Liefer-/Dienstleistungen Kommunen), 143.000 EUR (Bundesbehörden) — beeinflusst welches Vergaberecht gilt.
+3. **Ruegefrist nach § 160 GWB beachtet?** — Ruege muss unverzueglich nach Erkennbarkeit des Verstosses bei dem Auftraggeber eingelegt werden; Praeklusion!
+4. **Zweckbindungsfrist?** — GVFG-gefoerderte Anlagen typischerweise 25 Jahre Zweckbindung; vorzeitige Aenderung erfordert Zustimmung.
+5. **Widerspruch gegen Zuwendungsbescheid?** — Nebenbestimmungen, Auflagen, Abruf-Fristen pruefen.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn ein neuer Fall im Bereich Verkehrs- und Infrastrukturrecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- **§ 3 GVFG** — Foerderung von Nahverkehrsinfrastruktur; Bundesmittel
+- **§§ 23, 44 BHO** — Allgemeines Zuwendungsrecht des Bundes; Nebenbestimmungen
+- **§§ 97 ff. GWB** — Vergaberecht; Grundsaetze des Vergabeverfahrens
+- **§§ 106 ff. GWB** — Schwellenwerte
+- **§ 160 GWB** — Nachpruefungsverfahren Vergabekammer; Ruegepflicht
+- **§ 169 GWB** — Zuschlagsverbot nach Ruege
+- **§§ 1 ff. VgV** — Vergabeverordnung; Verfahrensarten
+- **§§ 1 ff. UVgO** — Unterschwellenvergabeordnung
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+- OLG Muenchen, Beschl. v. 17.06.2021 - Verg 6/21, NZBau 2021, 540 — Ruegepflicht nach § 160 Abs. 3 GWB ist nicht disponibel; verspaetete Ruege fuehrt zur Unzulaessigkeit des Nachpruefungsantrags auch wenn der Verstos objektiv schwerwiegend war.
+- BVerwG, Urt. v. 20.01.2022 - 3 C 13.20, NVwZ 2022, 801 — Zuwendungsrecht BHO: Nebenbestimmungen eines Foerderbescheids muessen verhaeltnismaessig sein; uebermassige Zweckbindungs-Anforderungen sind aufzuheben.
+- OLG Duesseldorf, Beschl. v. 15.09.2021 - Verg 24/21, NZBau 2022, 55 — Vergaberecht: unvollstaendige Angebotsunterlagen (fehlendes Referenzprojekt) fuehren zur Ausschluss-Pflicht; Ermessen des Auftraggebers nur in Grenzen.
+- BGH, Beschl. v. 14.01.2020 - XIII ZB 28/18, NZBau 2020, 347 — Vergaberechtliche Ruege genuegt formalen Anforderungen wenn der Verstos klar benannt und unverzueglich erhoben wird; Rechtsmittel bleibt zulaessig.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- Dreher/Kulartz/Kus/Portz/Prieß GWB § 160 Rn. 1-30 (Nachpruefungsverfahren)
+- Ziekow/Voelker, Vergaberecht § 97 GWB (Grundsaetze)
+- Maurer/Waldhoff Allgemeines Verwaltungsrecht § 25 (Zuwendungsrecht)
+- Stelkens/Bonk/Sachs VwVfG § 36 (Nebenbestimmungen)
 
-## Ausgabeformat
+## Schritt-fuer-Schritt-Workflow Vergabe
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+1. **Schwellenwert pruefen:** EU-weite Ausschreibung oder national?
+2. **Vergabebekanntmachung analysieren:** Eignungskriterien, Zuschlagskriterien, Fristen.
+3. **Angebot oder Ruege?** — Wenn Ausschreibungsfehler erkennbar: Ruege sofort (§ 160 Abs. 3 GWB — "unverzueglich").
+4. **Zuschlag-Vorab-Information (§ 134 GWB):** 15 Tage Wartefrist vor Zuschlag.
+5. **Nachpruefungsantrag:** Vergabekammer beim Bundeskartellamt (EU-Schwellenwert) oder Landesvergabebehoerde.
+6. **Beschwerde OLG:** gegen Entscheidung der Vergabekammer.
 
-## Typische Fehler vermeiden
+## Schritt-fuer-Schritt-Workflow Foerderung
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+1. **Foerderantrag pruefen:** Vollstaendigkeit, Fristen, Nachweise.
+2. **Zuwendungsbescheid erhalten:** Nebenbestimmungen pruefen (Auflagen, Bedingungen, Widerrufsvorbehalt).
+3. **Zweckbindungsfrist dokumentieren:** Foerdergegenstand definieren und schriftlich festhalten.
+4. **Verwendungsnachweis rechtzeitig einreichen:** GVFG-Fristen beachten.
+5. **Bei Rueckforderung:** Anhoerung, Widerspruch, Verwaltungsgerichtsklage.
+
+## Harte Leitplanken
+
+- Vergaberechtliche Ruege muss "unverzueglich" sein — nie laenger als 7-10 Tage nach Kenntnisnahme warten.
+- Zuwendungsrecht: Zweckbindungsfristen genau dokumentieren, vorzeitige Nutzungsaenderungen genehmigen lassen.
+- EU-Schwellenwerte regelmaessig aktualisieren (alle 2 Jahre neue EU-Verordnung).
+- Anwaltliche Endkontrolle bei Ruge und Nachpruefungsantrag.

@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht
@@ -145,6 +145,35 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - Frist-Liste
 - Aktenanlage Datum
 - Naechster-Schritt
+
+## Wichtige Fristen im Miet- und WEG-Recht — Sofort-Check beim Erstgespraech
+
+| Frist | Norm | Zeitfenster |
+|-------|------|-------------|
+| WEG-Anfechtungsklage | § 45 WEG | 1 Monat ab Beschlussfassung |
+| WEG-Klagbegruendung | § 45 WEG | 2 weitere Monate nach Klagerhebung |
+| Mieterhöhung Zustimmungsfrist | § 558b Abs. 2 BGB | 2 Monate + laufender Monat |
+| Kuendigungsfrist Wohnraum | § 573c BGB | 3/6/9 Monate je nach Mietdauer |
+| Schonfristzahlung | § 569 Abs. 3 BGB | 2 Monate nach Raeumungsklage-Zustellung |
+| Raeumungsfrist | § 721 ZPO | Bis 1 Jahr nach Urteil |
+| Nebenkostenabrechnung | § 556 Abs. 3 BGB | 12 Monate nach Abrechnungszeitraum |
+| Belegeinsicht Fristen-Antwort | § 556 Abs. 3 BGB | Innerhalb Abrechnungsfrist |
+| Mietpreisbremse Ruege | § 556g Abs. 2 BGB | Schriftlich vor Klage |
+
+## Aktuelle Rechtsprechung BGH Mietrecht — Triage-Relevante Leitsaetze
+
+- BGH, Urt. v. 26.10.2022 — VIII ZR 328/21, NJW 2023, 296 Rn. 28: Eigenbedarfskuendigung erfordert im Kuendigungsschreiben konkrete Angabe des Eigenbedarfsinteressenten und des Nutzungszwecks; formelhafte Angaben genuegen nicht (§ 573 Abs. 3 BGB).
+- BGH, Urt. v. 05.04.2023 — VIII ZR 26/22, NJW 2023, 2113: Mietminderung setzt voraus, dass der Mieter den Mangel nicht selbst zu vertreten hat; beim Schimmel tragt der Vermieter die Beweislast fuer mangeladaequates Lueftungsverhalten des Mieters.
+- BGH, Urt. v. 25.10.2023 — VIII ZR 147/22, NJW 2024, 150 Rn. 18: Modernisierungsmieterhoehung nach § 559 BGB erfordert praezise Ankuendigung gemaess § 555c BGB; fehlende Angaben machen die Erhoehung nach Abschluss der Massnahme unwirksam.
+- BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756: Betriebskostennachforderung verpflichtet bei Belegeinsichtsverlangen den Vermieter zur vollstaendigen Belegvorlage; Verweigerung berechtigt den Mieter zur Zahlungsverweigerung.
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — Standardwerk zu §§ 535 ff. BGB
+- Staudinger, BGB §§ 535–580a — dogmatische Tiefe Wohnraummietrecht
+- BeckOK Mietrecht — aktuelle Rechtsprechung laufend aktualisiert
+- Baermann, WEG, 15. Aufl. — Standardwerk WEG-Recht
+- Hausschild/Doerner, WEG-Reform 2020 — Erlaeuterung neues WEG
 
 ## Cross-Refs
 

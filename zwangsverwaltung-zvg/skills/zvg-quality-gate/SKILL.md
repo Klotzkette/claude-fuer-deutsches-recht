@@ -1,6 +1,6 @@
 ---
 name: zvg-quality-gate
-description: "Quality Gate für Zwangsverwaltung. Prüft Beschluss Objekt Konto Rent Roll Berichte Rechnungslegung Verteilung Belege Rollen und Risiken vor Versand."
+description: "Quality Gate fuer Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprueft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Pruefraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht."
 ---
 
 # Quality Gate für Zwangsverwaltung
@@ -57,3 +57,31 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 - §§ 13 bis 16 ZwVwV
 - § 155 ZVG
+
+## Ergänzende Rechtsprechung
+
+- BGH, Beschl. v. 25.09.2008 - IX ZB 205/06, NZI 2009, 55 Rn. 25 — Das Vollstreckungsgericht überprüft die Ordnungsmäßigkeit der Verwaltung; wesentliche Fehler in Buchführung oder Berichterstattung können zur Entlassung und zu Haftungsansprüchen führen.
+- BGH, Beschl. v. 07.12.2007 - IX ZB 74/04, NZI 2008, 186 Rn. 10 — Die Vergütung nach ZwVwV wird nur gewährt, wenn die Verwaltung ordnungsgemäß und vollständig durchgeführt wurde; eine fehlerhafte Qualitätssicherung kann zu Vergütungskürzungen führen.
+
+## Paragrafenkette Quality-Gate
+
+§ 154 ZVG (Gerichtliche Aufsicht) → § 20 ZwVwV (Vergütung Ordnungsmäßigkeit) → § 13-15 ZwVwV (Buchführung Berichte) → § 839 BGB (Haftung Amtspflichtverletzung) → § 280 BGB (Pflichtverletzung Schadensersatz)
+
+## Kommentarliteratur
+
+- Stöber ZVG 22. Aufl., § 154 Rn. 20-40 (Qualitätskontrolle Gericht)
+- Böttcher ZVG 6. Aufl., § 20 ZwVwV Rn. 10-25 (Vergütungsvoraussetzungen)
+
+## Quality-Gate-Checkliste (Quartalsweise)
+
+**Pflicht-Checkpunkte:**
+- [ ] Treuhandkonto-Saldo stimmt mit Buchungsjournal überein
+- [ ] Alle Mieteinnahmen vollständig verbucht
+- [ ] Alle Ausgabenbelege vorhanden und zugeordnet
+- [ ] Grundsteuer und laufende öffentliche Lasten bezahlt
+- [ ] Gebäudeversicherung aktiv und Prämie bezahlt
+- [ ] Gericht-Bericht erstellt und eingereicht (falls fällig)
+- [ ] Rückstandsliste aktuell (Mieter, Beträge, Mahnstufen)
+- [ ] Instandhaltungsmaßnahmen dokumentiert und genehmigt (falls erforderlich)
+- [ ] Keine Zahlungen an Schuldner ohne Gerichtsgenehmigung
+- [ ] Aktennotizen für außergewöhnliche Vorkommnisse vorhanden

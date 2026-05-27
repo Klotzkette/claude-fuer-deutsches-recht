@@ -1,6 +1,6 @@
 ---
 name: pflichtenkollision-und-shift-of-fiduciary-duties
-description: "Shift of Fiduciary Duties in der Unternehmenskrise: Wandel der Geschäftsführerpflichten vom Eigentümer- zum Gläubigerinteresse, COMI-Verlagerungs-Verbote, EuGH C-594/14 Kornhaas, Pflichtenkollision und Lösungsstrategien."
+description: "Shift of Fiduciary Duties in der Unternehmenskrise analysieren: GF prueft ob Pflichten nun Glaeubigern gegenueber bestehen. Normen: EuGH C-594/14 Kornhaas (Glaeubigerschutz EU), § 43 GmbHG, § 93 AktG. Pruefraster: Wandel vom Eigentuemer- zum Glaeubiger-Interesse, COMI-Verlagerungs-Verbote, Pflichtenkollision und Loesungsstrategien. Output Pflichtenkollisions-Memo, Handlungsempfehlung in Krisensituation. Abgrenzung: GF-Haftung siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise
@@ -19,7 +19,7 @@ Im Normalzustand schuldet der Geschäftsführer seine Loyalität den Gesellschaf
 - § 19 Abs. 2 InsO (Fortführungsprognose bei Überschuldung)
 - EuGH C-594/14 Kornhaas (Anwendung deutschen Insolvenzrechts auf EU-Auslandsgesellschaften)
 - BGH II ZR 234/17 (Sorgfaltspflichten in der Krise)
-- BGH II ZR 88/13 (Zahlung nach Insolvenzreife als Haftungsauslöser)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Zahlung nach Insolvenzreife als Haftungsauslöser)
 - EuInsVO Art. 3 Abs. 1 (COMI — Centre of Main Interests)
 
 ---
@@ -171,3 +171,12 @@ Erstellt von: ___________________
 - → `krisenstadien-stakeholder-strategie-ergebnis-liquiditaet` — Krisenstadien-Diagnostik
 - → `fortbestehensprognose-zweistufig` — Fortführungsprognose als Pflichtanker
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Beweissicherung
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

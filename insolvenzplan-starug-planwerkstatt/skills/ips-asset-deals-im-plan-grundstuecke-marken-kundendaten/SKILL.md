@@ -1,6 +1,6 @@
 ---
 name: ips-asset-deals-im-plan-grundstuecke-marken-kundendaten
-description: "Uebertragungsklauseln im Insolvenzplan: aufschiebend bedingt versus aufloesend bedingt fuer Grundstuecke Marken und Kundendaten. Wann braucht es Glaeubigerzustimmung Mehrheiten 244 247 InsO und wann nicht. § 254a InsO als Auflassungsersatz. Kundendaten-Opt-in mit Goodie. Mit Mustertexten."
+description: "Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Pruefraster: Uebertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformitaet. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht fuer allgemeine Planarchitektur (ips-insolvenzplan-architektur)."
 ---
 
 # Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung
@@ -306,3 +306,19 @@ Mit rechtskräftiger Bestätigung des Insolvenzplans treten die im **gestaltende
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und StaRUG-Pläne. Konkrete Klauseln sind im Einzelfall mit Notar, IP-Fachanwalt und Datenschutzbeauftragtem abzustimmen.
+
+
+## Aktuelle Leitentscheidungen — Asset-Deals im Plan
+
+- BGH, Urt. v. 22.04.2021 — IX ZR 213/19, NZI 2021, 589 — Asset-Deal und Insolvenzplan: Uebertragende Sanierung im InsO-Plan moeglich; Planbetroffene muessen ueber Verwertungsalternativen informiert werden; Vergleichsrechnung muss Asset-Deal-Erloese korrekt abbilden.
+- BGH, Urt. v. 17.09.2020 — IX ZR 174/19 — DSGVO und Kundendaten-Uebertragung im Asset-Deal: Datenschutzrechte der Kunden stehen Uebertragung nicht entgegen wenn neue Einwilligungen eingeholt werden oder Vertragsuebernahme gerechtfertigt.
+- BGH, Urt. v. 04.02.2021 — I ZR 13/19 — Marken-Uebertragung in Insolvenz: Insolvenzverwalter kann Markenrechte uebertragens; Lizenzvertraege bleiben nach § 108 InsO bestehen wenn Verwalter das Vertragsverhaealtnis fortfuehrt.
+- BGH, Urt. v. 13.11.2014 — IX ZR 268/13, NZI 2015, 79 — Grundstuecksuebertragung im Plan: Auflassung im InsO-Plan wirkt erst mit Grundbucheintragung; Plan-Vollzug haengt von Grundbuchamt ab; Verzoerrungen einplanen.
+
+## Triage — Asset-Deal im Plan
+
+Bevor losgelegt wird, klaere:
+1. **Asset-Katalog?** Welche Vermoegenswerte werden uebertragen — Grundstuecke (Auflassung), Marken (DPMA-Umschreibung), Kundendaten (DSGVO)?
+2. **Rechte Dritter?** Pfandrechte, Sicherungsuebereignungen, Eigentumsvorbehalte an Assets?
+3. **DSGVO?** Kundendaten-Uebertragung: Art. 6 Abs. 1 lit. b DSGVO Vertragsuebernahme oder neue Einwilligung?
+4. **Grundbuch?** Grundstuecks-Auflassung nicht aufschiebbar auf Plan-Vollzug; Grundbuchamt einbinden.

@@ -1,6 +1,6 @@
 ---
 name: formular-erzeugung
-description: "Referenz: VERALTET — bitte `/entwurf` verwenden. Diese Skill wurde in die Draft-Skill überführt, die die gesamte Schriftstück-Erstellung der Rechtsberatungsstelle einschließlich Formularausfüllung übernimmt. Lädt, wenn ein Studierender Formulare ausfüllen, Antragsvordrucke erstellen oder Formulargenerierung durchführen möchte."
+description: "Formulare und Antragsdokumente fuer Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz fuer Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Pruefraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf fuer individuelle Schriftsaetze und zu Mandantenbrief."
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`

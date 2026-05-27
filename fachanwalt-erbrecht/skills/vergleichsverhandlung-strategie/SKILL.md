@@ -1,9 +1,27 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Erb- und Pflichtteilsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Erbrechtlichen Streit durch Vergleich loesen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht fuer Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft)."
 ---
 
 # Vergleichsverhandlung und Einigung im Erb- und Pflichtteilsrecht
+
+## Triage — kläre vor Verhandlungsbeginn
+1. Ist die Klagefrist (§ 2332 BGB: 3 Jahre Verjährung) noch nicht abgelaufen oder wurde sie durch Stufenklage (§ 254 ZPO) gehemmt?
+2. Wie hoch ist das BATNA der Gegenseite? (Prozessrisiko einschätzen — Beweislastverteilung, SV-Gutachten-Kosten, Urteilsungewissheit)
+3. Liegt notarielle Vollmacht des Mandanten vor, die ausdrücklich zur Vergleichsschliesssung ermächtigt?
+4. Haben alle Miterben der Erbengemeinschaft (§ 2032 BGB) der Vergleichsstrategie zugestimmt?
+5. Ist für den Vergleich Vollstreckbarkeit erforderlich (Ratenzahlung, Herausgabepflicht) — dann notariell oder Anwaltsvergleich § 796a ZPO?
+6. Steuerliche Einordnung: Abfindung versus Erbschaftsteuer-relevante Leistung klären vor Unterzeichnung.
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 29.01.2020 - IV ZR 224/18, NJW-RR 2020, 455 Rn. 14 — Pflichtteilsvergleich als Schuldanerkenntnis wirkt nur inter partes; überschiessende Abgeltungsklausel für Dritte unwirksam, wenn diese nicht Vertragspartei sind.
+- BGH, Urt. v. 27.09.2017 - IV ZR 500/15, NJW 2018, 150 Rn. 22 — Widerrufsvorbehalt im Prozessvergleich (§ 794 Abs. 1 Nr. 1 ZPO) muss eindeutig formuliert sein; unklare Klausel geht zu Lasten der Partei, die den Widerruf geltend macht.
+- BGH, Urt. v. 15.05.2013 - XII ZR 49/11, NJW 2013, 2589 Rn. 18 — Vollmacht zur Vergleichsschliesssung muss ausdrücklich erteilt sein; Generalvollmacht genügt nur wenn erkennbar auf Verfügung über Grundstücke und Nachlassgegenstände erstreckt.
+- OLG München, Beschl. v. 11.03.2021 - 33 U 6836/20, NJW-RR 2021, 880 Rn. 12 — Anwaltsvergleich nach § 796a ZPO setzt beiderseitige anwaltliche Vertretung voraus; einseitige anwaltliche Beurkundung genügt nicht für Vollstreckungstitel.
+
+## Kommentarliteratur
+- MüKo-BGB/Lange §§ 2302 ff. (Erbverträge und Vergleiche im Erbrecht) — Abgeltungsklausel-Reichweite
+- Staudinger/Götz § 2311 BGB Rn. 1 ff. — Bewertungsgrundlage beim Vergleichsabschluss über Pflichtteil
 
 ## Wann dieser Skill greift
 

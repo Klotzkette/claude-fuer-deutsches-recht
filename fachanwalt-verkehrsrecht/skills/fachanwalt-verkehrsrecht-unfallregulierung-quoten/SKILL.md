@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-unfallregulierung-quoten
-description: "Unfallregulierung Quoten-Modelle Mitverschulden § 254 BGB. Schadenspositionen Reparatur Mietwagen Wertminderung Nutzungs-Ausfall Schmerzensgeld. 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Workflow Schadens-Aufnahme Versicherer Klage."
+description: "Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Pruefraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
 ---
 
 # Unfallregulierung — Quoten

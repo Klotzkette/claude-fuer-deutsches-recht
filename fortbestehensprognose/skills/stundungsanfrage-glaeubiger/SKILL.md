@@ -1,6 +1,6 @@
 ---
 name: stundungsanfrage-glaeubiger
-description: Erzeugt Stundungsanfragen an Glaeubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Glaeubiger Forderungshoehe Faelligkeit Stundungswunsch (neue Faelligkeit Ratenzahlung Tilgungspause) Begruendung Sicherheitsangebot. Pro Glaeubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich fuer Beruecksichtigung in der Liquiditaetsplanung.
+description: "Erzeugt Stundungsanfragen an Glaeubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Glaeubiger Forderungshoehe Faelligkeit Stundungswunsch (neue Faelligkeit Ratenzahlung Tilgungspause) Begruendung Sicherheitsangebot. Pro Glaeubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich fuer Beruecksichtigung in der Liquiditaetsplanung."
 ---
 
 # Stundungsanfrage Gläubiger
@@ -208,3 +208,47 @@ stundungen:
 - Wiedervorlage zur Prüfung der Zusage in 14 Tagen.
 - Tracker mit Status (versendet / zugesagt / abgelehnt / verhandlung).
 - Hinweis: bei Ablehnung Liquiditätsplan-Update mit weiteren Maßnahmen erforderlich.
+
+
+## Aktuelle Leitentscheidungen — Stundungsanfragen
+
+- BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Stundungsvereinbarung und Anfechtung: Ratenzahlungsvereinbarung als Kenntnisanzeichen fuer Zahlungsunfaehigkeit § 130 InsO; Glaeubiger, der Stundung einraeumt und spaeter Zahlung erhaelt, laeuft Anfechtungsrisiko.
+- BGH, Urt. v. 24.05.2005 — IX ZR 123/04, BGHZ 163, 134 — ZU-Beseitigung durch Stundung: ernsthafte Stundungsvereinbarung mit bonitaerem Glaeubiger beseitigt ZU vorlaeufig; muss schriftlich sein und Leistungsfaehigkeit des Schuldners glaubhaft machen.
+- BFH, Urt. v. 23.04.2020 — VII R 24/19 — Steuerstundung § 222 AO: Finanzamt stundet Steuerforderungen nur bei sachlicher oder persoenlicher Haerte; Unzumutbarkeit der Sofortzahlung muss detailliert dargelegt werden; temporaere Liquiditaetsnot reicht aus.
+- BSG, Urt. v. 10.12.2019 — B 12 R 9/18 — Sozialversicherungs-Stundung § 76 SGB IV: sehr restriktiv; Kranken- und Rentenversicherungsbeitraege selten gestundet; Insolvenzgeldsicherungs-Beitrag bevorzugt gezahlt.
+
+## Paragrafenkette Stundungsanfragen
+
+§ 271 BGB (Faelligkeit) → § 222 AO (Stundung Steuer) → § 76 SGB IV (Stundung SV-Beitraege) → § 17 InsO (ZU-Beseitigung durch Stundung) → § 130 InsO (Anfechtungsrisiko bei Stundungsvereinbarung)
+
+## Triage — Stundungsanfrage-Strategie
+
+1. **Glaeubiger-Typ?** Lieferant (oft kulant), Bank (meist rigide), FA (sachliche Haerte erforderlich), SV-Traeger (sehr restriktiv).
+2. **Stundungszeitraum?** Realistischer Zeitraum bis zur Liquiditaetsverbesserung angeben.
+3. **Sicherheitsangebot?** Abtretung Forderungen, Eigentuemervorbehalt-Verlaengerung, persoenliche Buergschaft GF?
+4. **Anfechtungsrisiko?** Stundungsvereinbarung in Krisenzeit + spaetere Zahlung = § 130 InsO Risiko; FA-Stundungsantrag schriftlich und mit Liquiditaetsplan belegen.
+
+## Output-Template Stundungsschreiben an Finanzamt
+
+**Adressat:** Finanzamt [ORT] — Tonfall: sachlich-erklaerend
+
+```
+Stundungsantrag nach § 222 AO
+Steuernummer: [STEUERNUMMER]
+Schuldner: [FIRMA]
+Datum: [DATUM]
+
+Sehr geehrte Damen und Herren,
+
+wir beantragen Stundung der faelligen Steuerverbindlichkeiten aus [Steuerbescheid vom DATUM, Az. XX]
+in Hoehe von EUR [BETRAG] bis zum [DATUM].
+
+Begruendung:
+[FIRMA] befindet sich in einer voruibergehenden Liquiditaetsengpass-Situation aufgrund [Ursache].
+Eine detaillierte Liquiditaetsplanung liegt als Anlage bei (Anlage 1 — 13-Wochen-Forecast).
+Nach aktueller Planung ist die Begleichung der Steuerschuld bis [DATUM] moeglich.
+
+Wir bitten um Stundung ohne Saumniszuschlaege fuer den genannten Zeitraum.
+
+Anlagen: Liquiditaetsplanung (Anlage 1), aktuelle BWA (Anlage 2)
+```

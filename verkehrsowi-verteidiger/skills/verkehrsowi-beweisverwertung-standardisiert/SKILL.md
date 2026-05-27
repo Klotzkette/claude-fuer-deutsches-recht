@@ -1,45 +1,85 @@
 ---
 name: verkehrsowi-beweisverwertung-standardisiert
-description: "Prüft Beweisverwertung, standardisierte Messverfahren und konkrete Angriffspunkte ohne Schematismus."
+description: "Beweisverwertbarkeit im standardisierten OWi-Messverfahren angreifen: Mandant bestreitet Messergebnis. Normen: BGH NJW 1993 3081 (standardisiertes Messverfahren), § 77 Abs. 2 OWiG (Sachverstaendigen-Antrag). Pruefraster: Eichmaengel, Bedienungsfehler, Rohmessdaten-Verweigerung, Fahreridentifikation, Verwertungsverbote bei Verfahrensfehler. Output Beweisverwertungs-Einwand, Sachverstaendigen-Antrag. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte."
 ---
 
-# Beweisverwertung und Standardisierung
+# Standardisiertes Messverfahren und Beweisverwertung
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill gehört zum freistehenden Plugin **VerkehrsOWi-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Standardisiertes Messverfahren oder nicht?** — BGH unterscheidet standardisierte Verfahren (keine detaillierte Urteilsbegruendung notwendig) von nichtstandardisierten (vollstaendige Darlegung erforderlich).
+2. **Welche konkreten Angriffspunkte auf die Messung gibt es?** — Pauschales Bestreiten genuegt nicht um das standardisierte Verfahren zu erschuettern.
+3. **Rohmessdaten vorhanden?** — BVerfG NJW 2021, 455: Verweigerung verletzt Art. 103 Abs. 1 GG.
+4. **Sachverstaendigenantrag gestellt?** — § 77 Abs. 2 OWiG: Gericht darf nur ablehnen wenn Antrag missbräuchlich oder Beweisthema nicht entscheidungserheblich.
+5. **Fahreridentifikation aus Messfoto eindeutig?** — Lichtbild-Qualitaet prufen; Sachverstaendiger fuer biometrischen Vergleich moeglich.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 77 OWiG** — Beweisaufnahme: Gericht darf und muss Beweise erheben wenn entscheidungserheblich
+- **§ 77 Abs. 2 OWiG** — Ablehnung von Beweisantraegen nur aus enumerativen Gruenden
+- **§ 71 OWiG i.V.m. § 261 StPO** — Freie Beweiswuerdigung
+- **Art. 103 Abs. 1 GG** — Rechtliches Gehoer: Betroffener muss Beweise angreifen koennen
+- **§ 6 MessEG** — Eichpflicht als Grundbedingung der Verwertbarkeit
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Nicht bei jedem Messfehler Verwertungsverbot behaupten, sondern Erhebungsfehler, Relevanz und Rechtsschutzbedarf trennen.
-2. Rohmessdaten, Verteidigungszugang, Fair Trial und gerichtliche Aufklärungspflicht gezielt prüfen.
-3. Rechtsprechung nur mit verifizierter Fundstelle verwenden.
-4. Ausgabe: Angriffspunkte nach Erfolgsaussicht und Beweisbedarf.
+- BGH, Beschl. v. 19.08.1993 - 4 StR 627/93, NJW 1993, 3081 — Standardisiertes Messverfahren: Gerichte duerfen bei anerkannten Verfahren auf detaillierte Messbegruendung verzichten; aber konkrete Einwaende des Betroffenen sind aufzuklaeren.
+- BVerfG, Beschl. v. 12.11.2020 - 2 BvR 1616/18, NJW 2021, 455 — Wenn Rohmessdaten nicht herausgegeben werden, kann das rechtliche Gehoer verletzt sein; Gericht muss Auswirkung auf die Verteidigung pruefen.
+- OLG Bamberg, Beschl. v. 08.05.2017 - 3 Ss OWi 626/17, NZV 2017, 494 — Sachverstaendigenantrag zu Messfehlerursachen muss beschieden werden wenn konkrete Angriffspunkte vorgebracht sind; Ablehnung als offenkundig unerheblich nicht ohne weiteres moeglich.
+- OLG Saarbruecken, Beschl. v. 18.10.2021 - Ss BS 49/21 OWi, NZV 2022, 84 — Verwerfung eines Sachverstaendigenantrags ohne nachvollziehbare Begruendung verletzt das Recht auf ein faires Verfahren; Rechtsbeschwerde erfolgreich.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- KK-OWiG / Senge § 77 Rn. 1-40 (Beweisaufnahme, Sachverstaendigenrecht)
+- Goehler OWiG § 77 Rn. 1-25 (Ablehnung von Beweisantraegen)
+- Burhoff, Handbuch OWi (Messverfahren und Beweisverwertung), Rn. 1500-1600
+- Krenberger/Krumm OWiG § 77 (Praxiswissen)
 
-## Ausgabeformat
+## Standardisierte Messverfahren — anerkannt in Deutschland
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+| Messgeraet | Verfahren |
+|-----------|---------|
+| ESO ES 3.0 | Lasermessung von hinten |
+| TraffiStar S350 | Stationaere Radarueberwachung |
+| PoliScan Speed | Laserscan-Verfahren |
+| Riegl FG21-P | Handlaser-Messung |
+| ProViDa | Nachfahren mit Polizeifahrzeug |
+| TRAFFIPAX SpeedoPhot | Stationaere Blitzanlage |
+
+## Angriffspunkte gegen die Verwertbarkeit
+
+```
+STANDARDISIERTES VERFAHREN ERSCHUETTERN:
+1. Eichmangel: Eichschein abgelaufen oder Geraet nicht geeicht
+2. Bedienungsfehler: Aufstellort nicht regelkonform
+3. Mehrfachbelegung: Zwei Fahrzeuge im Messfeld
+4. Reflexionen: Baeume, Schilder im Schussfeld des Lasers
+5. Nachfahrmessung: Mindestabstand eingehalten? Geschwindigkeit konstant?
+
+ROHMESSDATEN-PROBLEMATIK:
+- Geraet speichert keine Rohmessdaten? → BVerfG 2020 zitieren
+- Geraet speichert, aber Herausgabe verweigert? → Verwertungsverbot ruegen
+
+FAHRERIDENTIFIKATION:
+- Foto nicht eindeutig → Sachverstaendigen-Antrag Lichtbild-Identifikation
+- Fahrerbestreitens → kein Auskunftszwang (§ 55 StPO)
+
+SACHVERSTAENDIGENANTRAG (§ 77 Abs. 2 OWiG):
+- Konkrete Angriffspunkte benennen: Eichfehler, Bedienungsfehler, Reflexion
+- Antrag konkret: Sachverstaendiger fuer [GERAET], Beweisthema: [THEMA]
+```
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Messgeraet und -verfahren identifizieren.**
+2. **Angriffspunkte pruefen** (s. Checkliste).
+3. **Rohmessdaten-Status feststellen** — angefordert? Vorhanden?
+4. **Sachverstaendigenantrag konkret formulieren** wenn Angriffspunkte bestehen.
+5. **In der Hauptverhandlung:** Beweisantrag § 77 OWiG stellen; bei Ablehnung: Gruende in das Protokoll aufnehmen lassen; Rechtsbeschwerde-Grundlage sichern.
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Pauschal "Messung war falsch" genuegt nicht — konkrete Angriffspunkte notwendig.
+- Sachverstaendigenantrag mit Beweisthema und Sachverstaendigenbezeichnung formulieren.
+- Rohmessdaten-Anforderung immer schriftlich dokumentieren.
+- Anwaltliche Endkontrolle bei Sachverstaendigenauswahl.

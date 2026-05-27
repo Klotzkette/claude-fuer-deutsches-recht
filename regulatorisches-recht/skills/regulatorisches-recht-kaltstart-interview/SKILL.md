@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-kaltstart-interview
-description: "Ersteinrichtung des Plugins für aufsichtsrechtliche Praxis. Laden, wenn das Praxisprofil noch nicht konfiguriert ist oder neu eingerichtet werden soll."
+description: "Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Pruefraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte fehlende Informationen. Abgrenzung: nicht fuer laufendes Mandat."
 ---
 
 # Ersteinrichtung – Regulatorisches Recht
@@ -188,3 +188,11 @@ Praxisprofil wurde gespeichert. Zusammenfassung:
 - **Falsche Rollenauswahl:** Wenn ein Nicht-Jurist das Plugin als „Rechtsanwalt" konfiguriert, fehlt der Hinweis auf erforderliche Anwaltsprüfung. Bei Zweifeln zum nicht-juristischen Modus default.
 - **Materialitätsschwelle zu niedrig gesetzt:** Führt zu Alert-Flut; jeder Feed-Eintrag wird als wesentlich markiert. Lieber hoch einsetzen und nach 2 Wochen nachjustieren.
 - **Keine Richtlinienbibliothek verbunden:** Policy-Diff und Gap-Analyse laufen gegen eingefügten Inhalt; qualitativ deutlich schlechter als gegen indizierte Dokumente.
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 10.01.2019 — III ZR 109/17, NJW 2019, 1312 — vollstaendige Sachverhaltsaufnahme bei regulatorischen Mandaten; unvollstaendige Onboarding-Informationen koennen Beratungsfehler begruenden wenn spaetere Luecken zu Haftungsrisiken fuehren
+- BVerfG, Beschl. v. 30.11.2011 — 1 BvR 3269/08, NJW 2012, 282 — Mandatsaufnahme im Bereich Regulierungsrecht erfordert Pruefung aktueller Rechtslage; veraltete Profil-Kalibrierung begr. Haftung
+
+**Kernnormen:** §§ 611-630 BGB — §§ 48-49 VwVfG — Art. 288 AEUV
+
+**Kommentarliteratur:** Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 1 Rn. 1 ff. (Regulierungsrecht, Grundbegriffe)

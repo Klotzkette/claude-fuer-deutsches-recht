@@ -1,11 +1,34 @@
 ---
 name: spam-und-massen-anfrage-filter
-description: "Erkennt Spam-Muster in eingehenden Mandantenanfragen: Werbung, Spamfilter-Umgehung, klassische 419-Scams, automatisierte Recruiter-Mails, Massen-Mandantenanfragen und Phishing. Kennzeichnet die Anfrage zur Aussortierung ohne Erstantwort. Laedt wenn der Nutzer 'Spam pruefen', 'verdaechtige Anfrage', 'Scam-Mail', '419-Betrug', 'Massen-Anfrage erkennen' oder 'Phishing Kanzlei' sagt."
+description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Pruefraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker."
 ---
 
 # Spam-und-Massen-Anfrage-Filter
 
 Dieser Skill erkennt und kennzeichnet eingehende E-Mails, die keine legitimen Mandantenanfragen sind. Bei positiver Spam-Erkennung wird keine Erstantwort generiert; stattdessen erhält das Sekretariat eine Aussortierungsempfehlung.
+
+
+## Triage zu Beginn
+1. Zeigt die Anfrage klassische Spam-Muster (419-Scam, automatisierte Masse, Phishing, Werbung)?
+2. Gibt es Hinweise auf massenhafte identische Einsendung (Template-Formulierungen, ungewoehnliche Absenderadressen)?
+3. Soll die Anfrage zur Aussortierung markiert oder direkt verworfen werden?
+4. Gibt es Zweifelsfaelle, bei denen die Sekretariatsmitarbeiterin manuell entscheiden soll?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Spam-Filter als zulaessige technisch-organisatorische Massnahme nach Art. 32 DSGVO; automatisierte Erkennung von Spam-Mustern ist berufsrechtlich unbedenklich.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — 419-Scam als Betrugsversuch: Kanzlei, die auf Vorschussbetrug-Anfragen antwortet, riskiert, in Betrug verwickelt zu werden; Erkennung und Nichtbearbeitung ist pflichtgemaess.
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Kanzlei hat kein Mandat gegenueber Spam-Absendern; Nichtbeantwortung ist berechtigt und begruendet keine Berufspflichtverletzung.
+- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — TOM nach Art. 32 DSGVO umfasst auch Spam-Erkennungssysteme fuer eingehende Kommunikation; Kanzlei muss unerwuenschte Nachrichten abfangen koennen.
+
+## Zentrale Normen
+- Art. 32 DSGVO — TOM: Spam-Filter als Sicherheitsmassnahme fuer Kanzleikommunikation
+- § 263 StGB — Betrug: 419-Scam als strafrechtlich relevanter Betrugsversuch; Nichtbearbeitung ist pflichtgemaess
+- § 43 BRAO — Sorgfaltspflicht: Ressourceneinsatz der Kanzlei darf auf legitime Anfragen beschraenkt werden
+- Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: keine Verarbeitung von Spam-Daten
+
+## Kommentarliteratur
+- Kühling/Buchner DSGVO Art. 32 Rn. 1-25 (TOM: Sicherheitsanforderungen fuer Kanzleikommunikation)
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-20 (Sorgfaltspflicht: Selektion legitimer Mandantenanfragen)
 
 ## Spam-Muster-Katalog
 

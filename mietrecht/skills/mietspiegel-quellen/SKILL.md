@@ -165,3 +165,9 @@ Der Skill übergibt an `mieterhoehung-pruefen-widersprechen` mit `ergebnis.bewer
 ## Disclaimer
 
 Diese Quellensammlung ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Recherche amtlicher Quellen. Vor jeder Verwendung den Aktualitätsstand auf der jeweiligen amtlichen Seite prüfen. Die Letztverantwortung für die Anwendung im Einzelfall liegt beim Anwalt.
+
+## Aktuelle Rechtsprechung — Leitsaetze Mietspiegel
+
+- BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 Rn. 28: Ein qualifizierter Mietspiegel (§ 558d BGB) ist im Prozess als Sachverstaendigenzeugnis zu wuerdigen; er darf nur mit ernsthaften inhaltlichen Bedenken beiseitegelassen werden.
+- BGH, Urt. v. 18.05.2022 — VIII ZR 214/21, NJW 2022, 2669 Rn. 22: Die Bezugnahme auf einen einfachen Mietspiegel (§ 558c BGB) genuegt als Begruendungsmittel, wenn der Vermieter den konkreten Tabellenplatz angibt und die Wohnwertmerkmale erlaeutert.
+- BVerfG, Beschl. v. 18.07.2019 — 1 BvL 1/18, NJW 2019, 3164: Gesetzliche Mietpreisbremse und damit verbundene Mietspiegel-Anwendung sind verfassungskonform; der Eingriff in die Vertragsfreiheit ist verhaeltnismaessig.

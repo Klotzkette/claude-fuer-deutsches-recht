@@ -1,6 +1,6 @@
 ---
 name: rechtstheorie-rechtsphilosophie-anbindung
-description: Rechtstheoretische und rechtsphilosophische Bezug in Hausarbeit Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Ueberlegungen zu Rechtsbegriff Geltungsgrund Auslegung Rechtsfortbildung Gerechtigkeit. Wenn der Sachverhalt grundsaetzliche Fragen aufwirft kann eine kurze theoretische Reflexion die Hausarbeit aufwerten.
+description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Pruefraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Ueberblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtspruefung (Grundrechte)."
 ---
 
 # Rechtstheorie und Rechtsphilosophie — Anbindung

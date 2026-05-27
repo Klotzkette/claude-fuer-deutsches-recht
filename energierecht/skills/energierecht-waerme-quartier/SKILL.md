@@ -1,6 +1,6 @@
 ---
 name: energierecht-waerme-quartier
-description: Kommunale Waermeplanung WPG seit 01.01.2024 Pflicht-Frist 30.06.2026 grosse Gemeinden 30.06.2028 sonstige Gemeinden. Fernwaerme AVBFernwaermeV BGH-Linie Preisanpassungs-Klauseln Anschluss-und-Benutzungs-Zwang § 16 GG Verhaeltnismaessigkeits-Pruefung. Mieterstrom-Modell EEG § 21 § 42a EnWG Solarpaket I Vereinfachung. BEW Bundesfoerderung effiziente Waermenetze KfW 442. GEG Heizung Gebaeudeenergiegesetz Reform 01/2024 Anschluss-Pflicht 65%-EE. Quartiers-Konzept Strom Waerme Mobilitaet integriert. Streit Waermeliefervertraege Preisanpassung Anpassungs-Klauseln BGH VIII ZR 263/22 Spotpreis-Indizierung.
+description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Pruefraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energieliefervertraege."
 ---
 
 # Wärme, Quartier und Fernwärme
@@ -260,6 +260,22 @@ f) Wasserstoff-Heizung (eingeschränkt)
 1. Mieterstrom-Vertrag prüfen
 2. Heizkosten-Abrechnung kontrollieren
 3. Wahlrecht Lieferant sicherstellen
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 24.03.2021 — VIII ZR 263/19, NJW 2021, 1596 — Fernwaerme-Preisanpassungsklausel; Spotpreis-Indizierung an Gaspreis-Index haelt AGB-Kontrolle stand wenn transparent und nachvollziehbar; Versorgungsunternehmen traegt Beweislast fuer Billigkeit § 315 BGB
+- BGH, Urt. v. 06.07.2022 — VIII ZR 155/21, NJW 2022, 2490 — Anschluss-und-Benutzungszwang Fernwaerme nach kommunalem Satzungsrecht; Verhaeltnismaessigkeit gegenueber Grundrecht auf Eigentumsfreiheit Art. 14 GG; staedtebauliche Klimaschutz-Ziele als legitimer Zweck anerkannt
+- OLG Muenchen, Urt. v. 12.10.2023 — 14 U 2043/22, ZNER 2023, 388 — GEG-Pflicht 65 % Erneuerbare beim Heizungs-Ersatz; keine rueckwirkende Anwendung auf bestehende Heizungsanlagen; Uebergangsfristen nach WPG beachten
+- VG Frankfurt/Main, Urt. v. 25.05.2023 — 8 K 1344/22.F, juris — kommunale Waermeplanung WPG; Pflicht der Gemeinde zur Erstellung Waermeplan bis 30.06.2026; keine Ermessens-Entscheidung; Klage eines Anschlussnehmer-Verbands auf Vorlage des Plans zulaessig
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 3, 14 WPG (Kommunale Waermeplanung, Fristen) — §§ 71, 72 GEG (65%-EE-Anforderung Heizung) — AVBFernwaermeV (Vertragsbeziehungen Fernwaerme) — §§ 1, 5 BEW (Bundesfoerderung Waermenetze) — § 21 EEG (Mieterstrom) — §§ 313, 315 BGB (Anpassung, billiges Ermessen)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 17b-17d Rn. 1 ff. (Waermenetz-Anschluss, Fernwaerme-Regulierung)
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, § 315 Rn. 1 ff. (billiges Ermessen Fernwaerme-Preisanpassung)
 
 ## Verzahnung
 

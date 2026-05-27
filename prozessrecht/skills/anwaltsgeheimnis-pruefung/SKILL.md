@@ -1,6 +1,6 @@
 ---
 name: anwaltsgeheimnis-pruefung
-description: "Erstprüfung der Vertraulichkeits- und Vorlageschutzklassifizierung von Dokumenten in Prozessmandaten — offensichtlich geschützte, offensichtlich nicht geschützte und zweifelhafte Dokumente werden sortiert und für die anwaltliche Prüfung markiert. Lädt, wenn der Nutzer Dokumente auf Vertraulichkeitsschutz prüfen, eine Vorlagepflicht-Liste erstellen oder vorzulegende Unterlagen nach § 142 ZPO oder § 97 StPO sichten möchte."
+description: "Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen pruefen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Pruefraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Pruefergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung: nicht Datenschutz-Compliance DSGVO."
 ---
 
 # Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit)

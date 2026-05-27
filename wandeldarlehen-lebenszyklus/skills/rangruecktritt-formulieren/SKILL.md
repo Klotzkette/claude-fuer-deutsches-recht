@@ -1,6 +1,6 @@
 ---
 name: rangruecktritt-formulieren
-description: "Formulierung des qualifizierten Rangruecktritts mit vorinsolvenzlicher Durchsetzungssperre und insolvenzlicher Subordination nach § 39 Abs. 2 InsO und BGH IX ZR 191/15 sowie IX ZR 133/14. IDW S 11 bilanzielle Behandlung. GIRA-Bestaetigung gegenueber Wirtschaftspruefer. Aufhebungsverbot als Vertrag zugunsten Dritter (§ 328 BGB)."
+description: "Rangruecktrittserklaerung fuer Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangruecktritt. Pruefraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangruecktrittserklaerung Pruefmemo. Abgrenzung: nicht fuer allgemeine Darlehenskonditionen (darlehenshoehe-konditionen)."
 ---
 
 # Qualifizierten Rangrücktritt formulieren

@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-musterbasiert
-description: Erstellt immobilienrechtliche Vertraege strikt auf Basis hausinterner Mustervertraege und Term Sheets. Kernregel ist Klauselschutz — vorgegebene Musterklauseln werden NICHT umformuliert. KI fuellt nur markierte Platzhalter und Variablen, erzeugt projektspezifische Anlagen und protokolliert jede Abweichung vom Muster mit Begruendung. Geeignet fuer Mietvertraege (Wohnraum und Gewerbe), Kaufvertraege ueber Immobilien, Bestellung von Grunddienstbarkeiten, Erbbaurechte, Verwaltervertraege nach WEG und Asset-Management-Vertraege. Ausgabe ist .docx auf Muster-Layout mit Aenderungsprotokoll und Hinweisen wo manuelle Pruefung zwingend ist (zB Genehmigungserfordernisse Vorkaufsrechte oeffentlich-rechtliche Lasten).
+description: "Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Pruefraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output: Vertragsentwurf auf Musterbasis. Abgrenzung: nicht individuelle Vertragspruefung."
 ---
 
 # Vertragserstellung musterbasiert
@@ -79,3 +79,22 @@ und gibt das Dokument unverändert zurück mit Hinweis.
   Eckpunktepapier. Prüfe ob Mietpreisbremse greift und markiere."
 - "Erstelle WEG-Verwaltervertrag aus Muster, Term Sheet anbei,
   Bestellungsbeschluss als Anlage einfügen."
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 07.03.2018 — XII ZR 129/16, NJW 2018, 1875 Rn. 22: Schriftformerfordernis § 550 BGB gilt fuer alle Aenderungen des Gewerbemietvertrags; Nachtraege ohne Schriftform koennen zur ordentlichen Kuendigung fuhren trotz vereinbarten Kuendigungsausschlusses.
+- BGH, Urt. v. 25.07.2018 — VIII ZR 220/17, NJW 2018, 2564 Rn. 18: Mietvertrag-AGB-Klauseln zu Schoenheitsreparaturen sind wirksam nur bei Uebergabe in unrenoviertem Zustand mit entsprechender Minderung; Musterklauseln pruefen.
+- BGH, Urt. v. 13.09.2023 — VIII ZR 117/22, NJW 2023, 3235 Rn. 15: Mietpreisbremse-Pflicht besteht ab dem ersten Mietvertrag nach Erlass der Landesverordnung; Mustervertrag muss Mietpreisbremseregelung und Ausnahmepruefung integrieren.
+
+## Paragrafenkette
+
+- Schriftform: § 550 BGB, § 311b BGB
+- Mietpreisbremse: §§ 556d ff. BGB
+- Modernisierung: §§ 555a ff. BGB
+- WEG-Verwaltervertrag: §§ 26 ff. WEG
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — Vertragsgestaltung
+- BeckOK BGB — §§ 535 ff. Mietvertrag-Gestaltung
+- Baermann, WEG, 15. Aufl. — §§ 26 ff. Verwaltervertrag

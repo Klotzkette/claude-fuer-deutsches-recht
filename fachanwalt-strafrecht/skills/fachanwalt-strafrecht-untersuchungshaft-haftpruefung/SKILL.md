@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-untersuchungshaft-haftpruefung
-description: "Untersuchungs-Haft §§ 112 ff. StPO Haftgrund dringender Tatverdacht Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr. Haftpruefung § 117 StPO 3-Monats-Frist. Beschwerde Haftbeschwerde § 304 StPO. Workflow Sofort-Massnahmen Pruefungstermin Haftbeschwerde."
+description: "Untersuchungshaft und Haftpruefung nach §§ 112 ff. StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftpruefungsantrag stellen. §§ 112-113 StPO Haftgruende Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr, § 117 StPO Haftpruefung 3-Monats-Frist, § 304 StPO Haftbeschwerde. Pruefraster dringender Tatverdacht prüfen, Haftgrundargumente widerlegen, verhaeltnismaessige Alternativmassnahmen anbieten. Output Haftbefehlsanfechtung oder Haftpruefungsantrag mit Argumentationsstrategie. Abgrenzung zu Erstgespraeach und zu Hauptverhandlung-Vorbereiten."
 ---
 
 # Untersuchungshaft Haftprüfung

@@ -5,6 +5,35 @@ description: "Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachtr�
 
 # Nachtragsverwaltung
 
+
+## Triage zu Beginn
+
+1. Liegen alle Vertragsversionen (Basisvertrag + alle Nachträge) vollständig vor?
+2. Ist die chronologische Reihenfolge der Nachträge eindeutig — anhand von Datum oder Nummerierung?
+3. Soll eine Gesamtübersicht (Modus 1) oder eine Klausel-Rückverfolgung (Modus 2) erstellt werden?
+4. Gibt es Widersprüche zwischen Nachträgen die auf Auslegung nach § 157 BGB (lex posterior) hinweisen?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 07.02.2002 - I ZR 304/99, NJW 2002, 2710 — Auslegung von Vertragsänderungen: Nachträge sind nach dem Willen der Parteien im Zeitpunkt ihrer Vereinbarung auszulegen; spätere Entwicklungen beeinflussen die Auslegung des früheren Textes nicht rückwirkend.
+- BGH, Urt. v. 25.04.2018 - VIII ZR 176/17, NJW 2018, 2113 — Stille Änderungen durch mehrfache Verlängerungen: Jede stillschweigende Verlängerung übernimmt den ursprünglichen Klauselinhalt, es sei denn, die Parteien haben etwas anderes vereinbart.
+- BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1706 — Spezialklausel geht Generalklausel vor; Nachtrag geht Ursprungsvertrag vor (lex posterior); ausdrücklicher Vorrangvorbehalt im Basisvertrag ändert Reihenfolge.
+- BGH, Urt. v. 19.09.2018 - XII ZR 69/17, NJW 2019, 51 — Schriftformheilung im Gewerbemietrecht: Nachtrag muss ausdrücklichen Bezug auf Hauptvertrag enthalten, sonst greift § 550 BGB (Schriftformerfordernis).
+
+## Zentrale Normen
+
+- §§ 133, 157 BGB — Vertragsauslegung (lex posterior-Prinzip bei widersprüchlichen Klauseln)
+- § 125, 126 BGB — Schriftformmängel (Nachtrag ohne Schriftform kann Gesamtvertrag kündbar machen)
+- § 311 BGB — Vertragsänderungen und Ergänzungsvereinbarungen
+- § 550 BGB — Schriftformerfordernis bei langfristiger Miete (mehr als 1 Jahr)
+- § 154 BGB — fehlendes Einvernehmen über einzelne Punkte
+
+## Kommentarliteratur
+
+- Grüneberg, BGB, 83. Aufl. 2024, § 157 Rn. 1-20 (Auslegung, lex posterior)
+- MüKo-BGB/Busche, 9. Aufl. 2022, § 133 Rn. 10-30 (Auslegung Vertragsänderungen)
+- Schmidt-Futterer, Mietrecht, 15. Aufl. 2022, § 550 Rn. 20-40 (Schriftformheilung)
+
 ## Zweck
 
 Verträge sammeln über die Zeit Nachträge an. Spätestens beim dritten Nachtrag erinnert sich niemand mehr, was im Ursprungsvertrag stand oder welche Fassung einer Klausel gilt. Dieser Skill liest den Basisvertrag und alle Nachträge in chronologischer Reihenfolge und erstellt entweder eine Gesamtübersicht aller Änderungen oder verfolgt eine bestimmte Klausel durch jede Fassung bis zur aktuell geltenden Regelung.

@@ -1,209 +1,121 @@
 ---
 name: gesellschaftsgruender-firmenname-pruefung
-description: "Pruefung des Firmennamens vor Notar-Termin. Handelsregister-Suche Paragraf 30 HGB Verwechslungsgefahr. IHK-Firmenvorpruefung. Marken-Suche DPMA EUIPO. Domain-Verfuegbarkeit. Bei Beanstandung Alternative-Vorschlaege. Irrefuehrungsverbot Paragraf 18 II HGB. Kennzeichnungs-Kraft Paragraf 18 I HGB."
+description: "Firmenname auf Zulaessigkeit und Verwechslungsgefahr pruefen: Differenzierungsgebot, Irrefuehrungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Pruefraster: Unterscheidungskraft, Irrefuehrungsverbot, Handelsregisterfaehigkeit, Markenrecherche-Empfehlung. Output: Pruefergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA."
 ---
 
 # Firmenname-Prüfung
 
-## Zweck
+## Triage zu Beginn
 
-Vor Notar-Termin muss der Firmenname **vollständig** auf Verfügbarkeit, Verwechslungsfähigkeit, Marken-Konflikte und Domain geprüft werden. Später laesst sich der Name nur mit Notar-Beurkundung und Handelsregister-Änderung wechseln — teuer und unangenehm.
+Klaere mindestens 2 Wochen vor Notar-Termin:
 
-## 1) Prüfungs-Schritte
+1. **3-5 Wunsch-Firmen bereit?** Immer Alternativen vorbereiten; Plan A kann beanstandet werden.
+2. **Branchenbezeichnung im Namen?** Pruefen ob Zulassung erforderlich (Bank: BaFin; Steuer: StBerG; Rechts: RAK).
+3. **Personenname im Firmennamen?** Eigener Name: unproblematisch; fremder Name: Berechtigung pruefen (§ 12 BGB).
+4. **Marken-Relevanz?** Bei Startup oder Brand mit Aussenauftritt: DPMA/EUIPO-Recherche vor Eintragung.
+5. **Internationale Aktivitaet?** Bedeutung des Namens in Zielmaerkten pruefen; schwer aussprechbare Namen vermeiden.
+6. **Domain bereits gesichert?** Domain VOR Notar-Termin sichern; nachtraeglich oft nicht mehr verfuegbar.
 
-### A. Handelsregister-Suche
+## Zentrale Normen
 
-- **Common Register Search**: gemeinsam.handelsregister.de
-- Suche nach identischem Namen am Sitz / Nachbar-Bezirken
-- **Paragraf 30 HGB**: Verwechslungsgefahr vermeiden
-- Verwechslungsgefahr besteht bei ahnlichem Klang, Bedeutung, Schreibweise
+- **§ 17 HGB** — Firma ist der Name, unter dem Kaufmann im Handelsverkehr auftritt
+- **§ 18 I HGB** — Kennzeichnungsgeeignetheit der Firma
+- **§ 18 II HGB** — Irreführungsverbot; keine Firma, die zur Taeuschung geeignet ist
+- **§ 19 HGB** — Pflicht-Rechtsform-Zusatz (GmbH, AG, OHG, KG usw.)
+- **§ 30 HGB** — Verwechslungsgefahr; am Ort Pflicht zur Unterscheidbarkeit von bestehenden Firmen
+- **§ 12 BGB** — Namensrecht; Schutz des Namensrechts bei Verwendung fremder Namen
+- **§ 14 MarkenG** — Verletzung einer eingetragenen Marke durch Firmenname; Unterlassungsanspruch
 
-### B. IHK-Firmenvorprüfung
+## Aktuelle Rechtsprechung
 
-- **Kostenlos** oder geringe Gebuehr
-- IHK prüft die Firma auf Zulässigkeit (Paragraf 18 HGB) und Verwechslungsgefahr (Paragraf 30 HGB)
-- Bestätigung als Beweis für Notar
-- Empfehlung: **immer** machen
+- **BGH, Urt. v. 05.11.2015 – I ZR 50/14, GRUR 2016, 705** — Ein Firmenname, der den Unternehmensgegenstand in generischer Form beschreibt (z.B. „Online Service GmbH"), ist nach § 18 I HGB nicht hinreichend kennzeichnungsfaehig; Ergaenzung durch Phantasie- oder Personenname erforderlich.
+- **BGH, Urt. v. 22.07.2004 – I ZR 135/01, NJW 2004, 3692** — Verwechslungsgefahr nach § 30 HGB besteht nicht nur bei identischer, sondern auch bei aehnlicher Firma im selben Registerbezirk; Klangs- und Schriftbild-Aehnlichkeit genuegen.
+- **OLG Hamm, Beschl. v. 23.03.2010 – 15 W 15/10, NZG 2010, 638** — Firmenzusatz „International" ist irrefuehrend (§ 18 II HGB), wenn das Unternehmen ausschliesslich lokal taetig ist; Beanstandung durch HR-Gericht gerechtfertigt.
+- **BGH, Urt. v. 14.12.2006 – I ZR 34/04, GRUR 2007, 614** — Verwendung eines geschuetzten Markennamens als Firma stellt Markenverletzung nach § 14 MarkenG dar; Unterlassungs- und Schadenersatzanspruch des Markeninhabers; Umfirmierungspflicht.
 
-### C. Marken-Suche
+## Kommentarliteratur
 
-- **DPMA-Recherche** (registrierte deutsche Marken): www.dpma.de
-- **EUIPO** (EU-Marken): www.euipo.europa.eu
-- **TMview** (international): www.tmdn.org
-- Prüfen auf Verwechslung mit eingetragenen Marken in der eigenen Branche
+- MüKo HGB/Heidinger, 5. Aufl. 2021, §§ 17-37 Rn. 1-100 (Firmenrecht; Kennzeichnungskraft; Irrefuehrungs-Verbot)
+- Baumbach/Hopt, HGB, 41. Aufl. 2022, § 18 Rn. 1-50 (Firma; Verwechslungsgefahr)
+- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 1-200 (Marken-Verletzung durch Firmennamen)
 
-### D. Domain-Verfügbarkeit
+## Prüfschema: Firmennamen-Check
 
-- .de (DENIC), .com, .eu, branchenrelevante TLD
-- Domain-Reseller: Strato, 1&1, GoDaddy, etc.
-- Bei strategischer Bedeutung: Domain **vor** der Notar-Beurkundung sichern
+| Schritt | Pruefung | Stelle | Ergebnis |
+|---|---|---|---|
+| 1 | Handelsregister-Suche bundesweit | gemeinsam.handelsregister.de | Konflikt? Wenn ja, Name anpassen |
+| 2 | IHK-Firmenvorpruefung beantragt | Oertliche IHK | Bescheinigung erhalten? |
+| 3 | Kennzeichnungseignung geprueft | Selbst / Anwalt | Nicht generisch; Unterscheidungskraft vorhanden |
+| 4 | Irrefuehrungs-Check | Selbst | Keine falsche Branchenangabe; keine Zulassungs-Vortaeuschung |
+| 5 | Rechtsform-Zusatz vorhanden | Selbst | GmbH / UG / AG / OHG explizit angegeben |
+| 6 | DPMA-Marken-Recherche | dpma.de | Kein identischer / aehnlicher Markenname |
+| 7 | EUIPO-Marken-Recherche | euipo.europa.eu | EU-Marken-Konflikt? |
+| 8 | Domain .de gesichert | DENIC / Registrar | Verfuegbar und gesichert VOR Notar |
+| 9 | Domain .com gesichert | Registrar | Verfuegbar und gesichert |
+| 10 | Personenname-Berechtigung | Selbst | Eigener Name oder nachgewiesene Berechtigung |
+| 11 | Branchenbezeichnung-Zulassung | Berufsrecht | Bank, Steuer, Rechts, Arzt: Zulassung geprueft |
+| 12 | Internationale Bedeutung geprueft | Selbst | Keine negativen Konnotationen in Zielmaerkten |
 
-### E. Social-Media-Handles
+## Schritt-fuer-Schritt-Workflow
 
-- Facebook, Instagram, LinkedIn, X (Twitter), TikTok
-- Bei Marketing-Bedeutung prüfen
+1. **T-14 (2 Wochen vor Notar):** 3-5 Wunsch-Namen listen; HR-Suche nationwide; DPMA-Stichprobe.
+2. **T-10:** IHK-Vorpruefung beantragen (oft binnen 2-5 Werktagen); Domain-Verfuegbarkeit pruefen.
+3. **T-7:** IHK-Bescheinigung liegt vor; Domain bei Verfuegbarkeit SOFORT sichern; ggf. Marken-Anmeldung einleiten.
+4. **T-3:** Alle Alternativen bereit halten; Marken-Recherche abgeschlossen.
+5. **T (Notar-Termin):** Beurkundung mit gewaehltem Namen; IHK-Bescheinigung dem Notar vorlegen.
+6. **T+5 bis T+14 (HR-Pruefung):** HR-Gericht prueft; bei Beanstandung: Satzungsaenderung und erneute Beurkundung (Kosten ca. 300-600 EUR).
+7. **Nach Eintragung:** Marken-Anmeldung auf Gesellschaft umschreiben (falls zuvor auf Gruender angemeldet).
 
-### F. Sprachen / Internationalisierung
+## Output-Template: Firmenname-Pruefprotokoll
 
-- Bei internationaler Aktivität: Bedeutung in anderen Sprachen
-- Kuriose Bedeutungen in Zielmaerkten
-- Schwer aussprechbare Namen vermeiden
-
-## 2) Anforderungen an die Firma Paragraf 17 ff. HGB
-
-### Kennzeichnungs-Kraft Paragraf 18 I HGB
-
-- Firma muss zur **Kennzeichnung** des Kaufmanns geeignet sein
-- Unterscheidungs-Funktion gegenüber anderen
-- Beispiele:
-  - ✅ „Mueller Maschinenbau GmbH" — kennzeichnungsfähig
-  - ❌ „Deutsche Firma GmbH" — zu allgemein
-
-### Irreführungsverbot Paragraf 18 II HGB
-
-- Keine **irreführenden Angaben** in der Firma
-- Beispiele:
-  - ❌ „Bundesweite Versorgung GmbH" — wenn nur regional taetig
-  - ❌ „Bank-Beratung GmbH" — wenn keine Bank-Lizenz
-  - ❌ „International Holding GmbH" — wenn keine internationale Holding-Struktur
-
-### Rechtsform-Zusatz
-
-- **Pflicht**: GmbH, UG (haftungsbeschränkt), AG, OHG, KG, ...
-- **Nicht** abkürzungsfähig (z.B. „GmbH" muss ausgeschrieben oder durch Standard-Abkürzung)
-
-### Verwechslungs-Gefahr Paragraf 30 HGB
-
-- Im gleichen oertlichen Bereich (= Bezirk des Registergerichts) keine Verwechslung mit eingetragenen Firmen
-- Bei Verwechslungsgefahr: Beanstandung durch HR-Gericht
-
-## 3) Typische Beanstandungs-Gründe
-
-1. **Zu allgemein** („Deutsche Firma GmbH")
-2. **Verwechslungsfähig** mit anderer eingetragener Firma in Bezirk
-3. **Irreführend** in Branchenbezeichnung
-4. **Geschuetzt** als Marke eines Dritten (Beanstandung indirekt: Klage des Markeninhabers)
-5. **Geschuetzte Berufsbezeichnung** ohne Zulassung (z.B. „Steuerberatungs-GmbH" ohne StBerG-Zulassung)
-6. **Personennamen** ohne Berechtigung (Paragraf 12 BGB)
-7. **Geografische Bezeichnungen** ohne Bezug (z.B. „Berlin AG" als rein bayerisches Unternehmen — möglich, aber im Marketing problematisch)
-
-## 4) Beispiele
-
-### Empfohlen
-
-- „[Personenname] [Branche] GmbH" — z.B. „Mueller Maschinenbau GmbH"
-- „[Fantasiename] [Branche] GmbH" — z.B. „Solis Vision GmbH"
-- „[Branche] [Region] GmbH" — z.B. „Hanseatische Vermögensverwaltung GmbH"
-
-### Riskant
-
-- „[Sehr generischer Begriff] GmbH" — z.B. „Erfolg GmbH"
-- „[Geschuetzter Begriff] GmbH" — z.B. „Stiftung Warentest GmbH"
-
-## 5) Alternative-Strategie
-
-### Plan A: Wunsch-Firma
-
-### Plan B: Wenn A beanstandet wird
-
-- Erweiterung um Branche: „Mueller GmbH" -> „Mueller IT-Beratung GmbH"
-- Erweiterung um Region: „Mueller GmbH" -> „Mueller GmbH Berlin"
-- Erweiterung um Personenname: „Mueller GmbH" -> „Mueller & Schmidt GmbH"
-
-### Plan C: Komplett anders
-
-- Bei wiederholten Beanstandungen: kompletter Wechsel
-
-### Praxis-Tipp
-
-- **3-5 Alternativen** vor Notar-Termin bereithalten
-- IHK kann mehrere parallel prüfen
-
-## 6) Marken-Strategie
-
-### Bei strategischer Marken-Bedeutung
-
-- **Firmenname und Marke kollidieren-frei**: Anmeldung der Marke parallel zur Gesellschaftsgründung
-- DPMA-Anmeldung: ca. 290 EUR pro Klasse
-- EUIPO-Anmeldung: ca. 850 EUR pro Klasse
-- Prüfung 6-12 Monate
-
-### Bei späterer Marken-Anmeldung
-
-- Risiko: Dritter kann Marke für den eigenen Firmennamen anmelden
-- Bei Verlust: Firmen-Umfirmierung erforderlich
-
-### Anmeldung Marken-Inhaber als Gesellschaft
-
-- Bei Marken-Anmeldung als „[Firma] GmbH i.G.": geht oft, aber Inhaber ist erst nach Eintragung definitiv
-- Sicher: Anmeldung im Namen eines Gründers, spätere Übertragung auf die GmbH
-
-## 7) Workflow
-
-### Tag T-14 (vor Notar)
-
-1. **Vorschläge sammeln**: 3-5 Wunsch-Namen
-2. **HR-Suche** in Common Register
-3. **DPMA-Recherche** bei strategischer Bedeutung
-4. **Domain-Prüfung**
-5. **Vorprüfung IHK** beantragt
-
-### Tag T-7
-
-6. **IHK-Bescheinigung** liegt vor
-7. **Domain** gesichert
-8. **Marken-Anmeldung** ggf. eingereicht
-
-### Tag T (Notar)
-
-9. **Beurkundung** mit gewähltem Namen
-
-### Tag T+5 bis T+14
-
-10. **HR-Eintragung** (Prüfung HR-Gericht)
-11. **Bei Beanstandung**: alternative Firma -> Satzungsaenderung -> erneute Beurkundung
-
-## 8) Prüf-Checkliste
+**Adressat:** Interne Dokumentation / Anwaltsakte
 
 ```
-| Pruefung | Stelle | Ergebnis |
-|---|---|---|
-| HR-Suche bundesweit | gemeinsam.handelsregister.de | [ ] OK / [ ] Konflikt |
-| IHK-Firmenvorpruefung | oertliche IHK | [ ] Bescheinigung erhalten |
-| DPMA-Marken | dpma.de | [ ] OK / [ ] Konflikt |
-| EUIPO-Marken | euipo.europa.eu | [ ] OK / [ ] Konflikt |
-| Domain .de | DENIC | [ ] verfuegbar |
-| Domain .com | Reseller | [ ] verfuegbar |
-| Social-Media Handles | je Plattform | [ ] verfuegbar |
-| Bedeutung in Zielsprachen | manuell | [ ] OK |
-| Rechtsform-Zusatz | Selbst | [ ] vorhanden |
-| Kennzeichnungs-Kraft | Selbst | [ ] OK |
-| Keine Irrefuehrung | Selbst | [ ] OK |
+FIRMENNAME-PRUEFPROTOKOLL
+Mandant: [NAME] | Datum: [DATUM] | Notar-Termin: [DATUM]
+
+Gewuenschte Firmennamen (Prioritaetsreihenfolge):
+1. [NAME 1] GmbH
+2. [NAME 2] GmbH
+3. [NAME 3] GmbH
+
+Pruef-Ergebnisse:
+
+| Pruefung                  | Name 1      | Name 2      | Name 3      |
+|---------------------------|-------------|-------------|-------------|
+| HR-Suche (HR-Bezirk)      | OK / Konflikt| OK / Konflikt| OK / Konflikt|
+| IHK-Vorpruefung           | Bestätigt   | Ausstehend  | -           |
+| DPMA Marken               | OK          | Konflikt    | OK          |
+| EUIPO Marken              | OK          | OK          | OK          |
+| Domain .de                | Gesichert   | Vergeben    | Verfuegbar  |
+| Domain .com               | Verfuegbar  | Vergeben    | Verfuegbar  |
+| Irrefuehrungs-Check       | OK          | -           | -           |
+| Branchenbezeichnung-Zulass.| n/a        | -           | -           |
+
+Empfehlung: [NAME 1] GmbH (keine Konflikte, Domain gesichert)
+Fallback: [NAME 3] GmbH
+
+Naechste Schritte:
+[ ] IHK-Bescheinigung fuer [NAME 1] einholen
+[ ] Domain [name1].de registriert am [DATUM]
+[ ] Marken-Anmeldung DPMA fuer [NAME 1] einleiten?
 ```
 
-## 9) Typische Fehler
+## Rote Schwellen
 
-1. **Nur IHK-Vorprüfung, keine HR-Suche**. IHK prüft regional, HR-Suche zeigt bundesweite Verwechslungen.
-2. **Marken-Suche überhaupt nicht**. Spätere Marken-Klage möglich.
-3. **Domain nicht gesichert**. Nach Gründung steht Domain nicht zur Verfügung.
-4. **Branchen-Bezeichnung ohne Zulassung**. Z.B. „[Name] Bank GmbH" ohne BaFin-Lizenz -> Untersagung.
-5. **Personennamen ohne Berechtigung**. Z.B. „Einstein Energie GmbH" — Erben prüfen lassen.
-6. **Geografische Falsch-Bezeichnung**. „Hamburger Holding GmbH" mit Sitz Muenchen -> Beanstandung möglich.
+- Branchenbezeichnung „Bank", „Versicherung", „Steuerberatung" ohne Zulassung: Beanstandung und Ordnungswidrigkeitsverfahren
+- Verwechslungsgefahr mit bestehender Firma im Registerbereich: Beanstandung HR-Gericht (§ 30 HGB)
+- Fremder Name ohne Berechtigung: Namensklage nach § 12 BGB; Unterlassung und Schadenersatz
+- Marken-Verletzung durch Firmennamen: Unterlassungsklage; Umfirmierungspflicht; erhebliche Kosten
 
-## 10) Kosten
+## Quellen und Vertiefung
 
-| Prüfung | Kosten |
-|---|---|
-| IHK-Vorprüfung | 0-100 EUR |
-| HR-Suche | 0 EUR online |
-| DPMA-Recherche | 0 EUR online (Stichprobe), prof. Recherche 200-1.000 EUR |
-| EUIPO-Recherche | analog |
-| Domain | 5-20 EUR pro Jahr |
-| Marken-Anmeldung DPMA | ab 290 EUR |
-| Marken-Anmeldung EUIPO | ab 850 EUR |
+- §§ 17-30 HGB (Firmenrecht), § 12 BGB, § 14 MarkenG
+- BGH GRUR 2016, 705; BGH NJW 2004, 3692; OLG Hamm NZG 2010, 638; BGH GRUR 2007, 614
+- MüKo HGB/Heidinger §§ 17-37; Baumbach/Hopt § 18; Ingerl/Rohnke § 14 MarkenG
 
-## Anschluss
+## Uebergabe an andere Skills
 
-- `gesellschaftsgruender-gmbh-vorbereitung` — Firma als Baustein
+- `gesellschaftsgruender-gmbh-vorbereitung` — Firmenname als Baustein der Vorbereitung
 - `gesellschaftsgruender-notar-vorbereitung` — IHK-Bescheinigung vorlegen
-- `gesellschaftsgruender-handelsregister-anmeldung` — Prüfung durch HR-Gericht
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Pruefung durch Registergericht

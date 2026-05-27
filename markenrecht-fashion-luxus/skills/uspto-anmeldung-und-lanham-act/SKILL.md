@@ -1,6 +1,6 @@
 ---
 name: uspto-anmeldung-und-lanham-act
-description: "USPTO-Anmeldung nach Lanham Act 15 U.S.C. § 1051 ff.: Use in Commerce vs. Intent-to-Use, TEAS Plus/Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests. Koordination mit Whitman Brennan Forsythe LLP NYC. Laedt, wenn der Nutzer 'USPTO Anmeldung', 'US Marke anmelden', 'TEAS Plus', 'Lanham Act' oder 'Intent to Use' sagt."
+description: "USPTO-Markenanmeldung nach Lanham Act durchfuehren: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Pruefraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check."
 ---
 
 # USPTO-Anmeldung und Lanham Act
@@ -141,3 +141,19 @@ for clothing, key cases, and cardholders
 - **Specimen-Anforderungen:** Reine Werbeanzeige reicht nicht; Marke muss als Source Identifier auf der Ware erkennbar sein
 - **ITU-Verlängerungsfristen:** Maximal 3 Jahre ab Notice of Allowance; danach verfällt die Anmeldung ohne Benutzungsnachweis
 - **Standard Character vs. Special Form:** Special-Form-Marke mit Sonderzeichen (ô/è) — Transliteration in Standard Characters zusätzlich anmelden für breiteren Schutz
+
+## Triage-Fragen vor USPTO-Anmeldung
+
+Bevor die TEAS-Anmeldung eingereicht wird, klaere:
+1. Ist die Benutzung in den USA bereits belegt (Use Application) oder erst geplant (Intent-to-Use — ITU)?
+2. Kann Section 44(d)-Prioritaet auf eine DPMA/EUIPO-Anmeldung geltend gemacht werden (6-Monats-Frist)?
+3. Sind Sonderzeichen im Markenzeichen vorhanden — und wird eine Standard-Character-Parallelanmeldung benoetigt?
+4. Sind die Goods/Services im ID-Manual des USPTO exakt beschrieben (Formalvoraussetzung TEAS Plus)?
+
+## Aktuelle Rechtsprechung (US)
+
+> **KP Permanent Make-Up, Inc. v. Lasting Impression I, Inc., 543 U.S. 111 (2004):** Eine Fair-Use-Einrede unter § 33(b)(4) Lanham Act steht dem Beklagten zur Verfuegung, auch wenn eine gewisse Likelihood of Confusion besteht; fuer das Anmeldungsverfahren bedeutet dies, dass deskriptive Terme trotz Registrierung durch Dritte fair benutzbar bleiben.
+
+> **Qualitex Co. v. Jacobson Products Co., 514 U.S. 159 (1995):** Farben koennen als Marken eingetragen werden, wenn sie durch Benutzung Secondary Meaning erworben haben; der Supreme Court bestatigte, dass Lanham Act keine kategorischen Ausschluesse fuer nicht-traditionelle Markenarten kennt.
+
+> **In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001):** Ein Zeichen ist „merely descriptive" nach § 2(e)(1) Lanham Act, wenn es eine Eigenschaft oder Qualitaet der Waren unmittelbar beschreibt; bei Phantasiewoertern im Luxusbereich ist die Beschreibungsschranke in der Regel kein Hindernis, solange keine offensichtliche laudatory Bedeutung vorliegt.

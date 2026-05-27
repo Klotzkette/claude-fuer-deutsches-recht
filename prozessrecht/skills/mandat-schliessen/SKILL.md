@@ -1,6 +1,6 @@
 ---
 name: mandat-schliessen
-description: "Mandat abschließen – Ergebnis, Endexposition und Erkenntnisse festhalten, dann aus dem aktiven Portfolio archivieren ohne den Datensatz zu löschen. Verwenden, wenn der Nutzer ein Mandat schließen möchte, sagt „[Mandat] ist abgeschlossen\", oder ein Vergleich, Klagerücknahme, Urteil, Rücknahme oder Konsolidierung als Ergebnis dokumentieren will."
+description: "Mandat nach Prozessabschluss formal schliessen: Kostenfestsetzung, Archivierung, Mandanteninformation. Normen: §§ 103 ff. ZPO, RVG. Pruefraster: Kostenfestsetzungsantrag, Ergebnismitteilung, Handaktenfreigabe. Output: Abschlussbericht Mandat. Abgrenzung: nicht laufende Mandat-Aktualisierung."
 ---
 
 # Mandat schließen

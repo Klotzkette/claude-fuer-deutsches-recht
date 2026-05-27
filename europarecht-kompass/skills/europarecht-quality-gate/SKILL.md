@@ -1,6 +1,6 @@
 ---
 name: europarecht-quality-gate
-description: "Prüft jedes EU-Arbeitsprodukt auf Rechtsquelle, CELEX, Anwendungsbeginn, nationale Umsetzung, Verfahren und offene Vorlagefragen."
+description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken pruefen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Pruefraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformitaet fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate fuer alle Europarechts-Skills."
 ---
 
 # Europarecht-Qualitätstor
@@ -47,3 +47,35 @@ Keine finale Freigabe ohne CELEX/Curia/EUR-Lex, Status, Anwendungsbeginn, nation
 ## Ton
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Vertiefung: Pruefpunkte und Leitsaetze
+
+- EuGH, Urt. v. 06.10.1982 - 283/81 (Cilfit) — Acte-clair keine CELEX-Fundstelle erfinden: jede behauptete Offenkundigkeit muss an allen Sprachfassungen verifiziert werden.
+- EuGH, Urt. v. 26.02.2013 - C-617/10 (Akerberg Fransson) — Anwendungsbereich GRCh: kein bloßes "Charta greift" behaupten ohne Art. 51 GRCh zu pruefen.
+
+## Triage Quality Gate
+
+Bevor losgelegt wird, klaere:
+1. Ist jede CELEX-Nummer verifiziert (EUR-Lex oder Curia)?
+2. Ist der Anwendungsbereich GRCh Art. 51 korrekt geprueft?
+3. Sind alle Fristen aufgefuehrt (Klage-, Widerruf-, Einreichungsfristen)?
+4. Werden Denkfehler (Direktwirkung Richtlinie zwischen Privaten) vermieden?
+
+## Output-Template: Quality-Gate-Checkliste
+
+```
+QUALITY GATE EU-RECHT
+Dokument: [BEZEICHNUNG] — Datum: [DATUM]
+
+[ ] Alle CELEX-Nummern in EUR-Lex/Curia verifiziert
+[ ] Keine erfundenen EuGH-Aktenzeichen oder Fundstellen
+[ ] Anwendungsbereich GRCh Art. 51 korrekt geprueft
+[ ] Fristen vollstaendig und korrekt (Art. 263 AEUV 2 Monate / Sonderfristen)
+[ ] Vorrang-Konsequenz korrekt formuliert (nicht "Nichtigkeit" sondern "Nichtanwendung")
+[ ] Direktwirkung Richtlinie: nur vertikal wenn Frist abgelaufen
+[ ] Keine unzulaessige horizontale Direktwirkung Richtlinie zwischen Privaten
+[ ] Quellenstand aktuell (letzte EU-Aenderungen einbezogen)
+[ ] Offene Fragen und Unsicherheiten dokumentiert
+
+Ergebnis: [ ] Freigabe [ ] Nacharbeit erforderlich — [Punkt]
+```

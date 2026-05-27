@@ -181,3 +181,14 @@ Deckungsverifikationsregeln befinden sich in der Referenz-Skill
 `interne-untersuchung` — diese vor inhaltlicher Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Ergänzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 29.06.2017 — 2 AZR 597/16**, NZA 2017, 1179 — Aufklärungsobliegenheit des Arbeitgebers vor Verdachtskündigung; mutwillige Verzögerung der Ermittlungen lässt die Zwei-Wochen-Frist des § 626 Abs. 2 BGB nicht aufleben; neuzugegangene Erkenntnisse müssen daher zeitnah in das Protokoll eingespeist und dokumentiert werden.
+- **BAG, Urt. v. 19.02.2015 — 8 AZR 1007/13**, NZA 2015, 932 — Verhältnismäßigkeitsmaßstab bei Auswertung dienstlicher E-Mails ohne Betriebsvereinbarung; heimliche Auswertung ohne konkrete Verdachtslage unzulässig; Erkenntnisse unterliegen Beweisverwertungsverbot.
+
+## Triage — vor der Dateneingabe klären
+
+1. Handelt es sich um neue Zeugenaussagen, Dokumentenlieferung oder anwaltliche Notizen?
+2. Liegt eine § 87 Abs. 1 Nr. 6 BetrVG-freigabe für E-Mail-/IT-Auswertungen vor?
+3. Begründet die neue Erkenntnis erstmals einen konkreten Tatverdacht? → Dann Kenntnisdatum für § 626 Abs. 2 BGB festhalten!

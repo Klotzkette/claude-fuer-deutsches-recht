@@ -62,6 +62,20 @@ Dieser Skill erzeugt formale Dokument-Bausteine für Anträge, Beschwerden und K
 
 **Mindestinhalt:** Bezeichnung des Bescheids, Erklärung des Widerspruchs, Begründung (empfohlen, nicht zwingend).
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Formale Dokumentbausteine generieren fuer Antrag Beschwerde oder Klageschrift | Ausgabe nach Schema; Bausteine unten |
+| Variante A — Nur Tenor-Baustein noetig kein vollstaendiges Dokument | Nur Tenor generieren; Sachverhalt und Begruendung separat |
+| Variante B — Verwaltungsrecht statt Zivilrecht andere Anforderungen | VwGO-Variante des Templates verwenden |
+| Variante C — Dokument soll durch KI-Kennzeichnungspflicht versehen werden | Kennzeichnungs-Skill parallel; Baustein erganzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 Das System erzeugt:
@@ -74,3 +88,15 @@ Das System erzeugt:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

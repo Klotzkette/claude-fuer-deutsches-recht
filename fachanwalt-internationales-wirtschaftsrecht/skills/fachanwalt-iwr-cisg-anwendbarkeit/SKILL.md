@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-cisg-anwendbarkeit
-description: "CISG-Anwendbarkeitspruefung UN-Kaufrecht. Sachlicher Anwendungsbereich Warenkauf Art. 1. Raeumlicher beide Parteien in CISG-Vertragsstaaten oder kollisions-Recht. Ausschluss Art. 6 CISG nur eindeutig. Garantie Maengelpflichten Art. 35 ff. CISG. Untersuchungs- und Ruegepflicht Art. 38 39 CISG. Workflow Pruefung Strategie Schriftsatz."
+description: "Unternehmen hat grenzueberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschliessen? CISG Anwendbarkeit Art. 1 CISG. Pruefraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung (inhaltliche Pruefung) und gerichtsstand-und-rechtswahl-pruefen."
 ---
 
 # CISG-Anwendbarkeit
@@ -123,3 +123,35 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 - `fachanwalt-iwr-brussels-ia-zustaendigkeit` — bei Forum-Frage
 - `cisg-pruefen` (Vollplugin-Skill) — vertiefte Prüfung
 - `incoterms-und-gefahruebergang` — bei Lieferungs-Risiko
+
+## Vertiefung: Triage und Output-Template CISG-Anwendbarkeit
+
+### Triage — Bevor losgelegt wird, klaere:
+
+1. Haben beide Parteien Niederlassung in CISG-Vertragsstaaten? → Art. 1 Abs. 1 lit. a CISG
+2. Fuehrt IPR-Verweisung in CISG-Staat? → Art. 1 Abs. 1 lit. b CISG (von DE nicht erklaert; kein Problem)
+3. Ist Warenkauf (kein Verbraucherkauf, keine Dienstleistung, kein Strom)?
+4. Wurde CISG ausgeschlossen (Art. 6 CISG)? → AGB-Klausel "deutsches Recht" schliesst CISG NICHT automatisch aus (BGH VIII ZR 67/04)
+
+### Ergaenzende Leitsaetze
+
+- BGH, Urt. v. 25.11.1998 - VIII ZR 259/97, NJW 1999, 1260 — CISG gilt auch fuer Kauf von Computeranlage als Ware; gemischte Kauf/Dienstleistungsvertraege nach Art. 3 Abs. 2 CISG: Schwerpunkt Ware oder Dienstleistung entscheidend.
+- BGH, Urt. v. 12.02.2014 - VIII ZR 42/13, NJW 2014, 1668 Rn. 22 — CISG-Gewaehrleistung: Art. 35 CISG: Verkaefer haftet fuer zugesicherte Eigenschaft; Beschaffenheitsvereinbarung nach CISG weiter als nach deutschem Recht.
+- OLG Frankfurt, Urt. v. 17.09.2014 - 4 U 97/14, IPRax 2015, 344 — CISG schliesst ergaenzende Anwendung deutschen AGB-Rechts aus soweit CISG Frage abschliessend regelt.
+
+### Output-Template Checkliste CISG-Anwendbarkeit
+**Adressat:** Intern (Kaltstart) — Tonfall: schnell, checkboxorientiert
+
+```
+CHECKLISTE CISG-ANWENDBARKEIT
+===================================
+[ ] Parteien haben Sitz in verschiedenen Staaten
+[ ] Beide Staaten Vertragsstaaten CISG
+[ ] Gegenstand: Kauf von Waren (nicht Dienstleistungen)
+[ ] Kein Verbraucherkauf
+[ ] CISG nicht ausgeschlossen (Art. 6 CISG)
+===================================
+ERGEBNIS:
+[ ] CISG ANWENDBAR
+[ ] CISG NICHT ANWENDBAR → Anwendbares Recht nach Rom I
+```

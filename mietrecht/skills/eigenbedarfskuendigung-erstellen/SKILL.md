@@ -82,3 +82,66 @@ Erzeuge ein Kündigungsschreiben mit:
 ## Vor Versand (Disclaimer wiederholt)
 
 Vor Versand der Eigenbedarfskündigung: fachanwaltliche Prüfung. Risiko: Unwirksamkeit Schadensersatz strafrechtliche Verfolgung bei Vortaeuschung. Sperrfristen aus Landesverordnung prüfen.
+
+## Aktuelle Rechtsprechung Eigenbedarfskündigung
+
+- BGH, Urt. v. 04.03.2015 - VIII ZR 166/14, NJW 2015, 1590 Rn. 14 — Die Eigenbedarfskündigung erfordert eine Begründung, die dem Mieter die Beurteilung ermöglicht, ob der geltend gemachte Bedarf tatsächlich besteht; es muss konkret angegeben werden wer die Wohnung benötigt und aus welchem Grund die aktuelle Unterkunft der begünstigten Person unzumutbar ist.
+- BGH, Urt. v. 29.03.2017 - VIII ZR 44/16, NJW 2017, 1891 Rn. 22 — Entfällt der Eigenbedarf nach Zugang der Kündigung aber vor Auszug des Mieters, hat der Vermieter dies unverzüglich mitzuteilen; verletzt er diese Pflicht, ist er dem Mieter zum Schadensersatz nach § 280 Abs. 1 BGB verpflichtet.
+- BGH, Urt. v. 12.05.2010 - VIII ZR 96/09, NJW 2010, 2437 Rn. 18 — Die Sperrfrist nach § 577a BGB beginnt mit der Veräußerung; Umwandlung allein reicht nicht; der Zeitpunkt der Eintragung des neuen Eigentümers im Grundbuch ist maßgeblich.
+- BGH, Urt. v. 22.05.2019 - VIII ZR 180/18, NJW 2019, 2765 Rn. 26 — Übermäßige Begründungspflicht im Kündigungsschreiben: der Vermieter muss nicht jedes Detail der persönlichen Umstände der begünstigten Person offenbaren; wesentliche Umstände müssen aber genannt werden.
+
+## Paragrafenkette Eigenbedarfskündigung
+
+§ 573 Abs. 2 Nr. 2 BGB (berechtigtes Interesse Eigenbedarf) → § 573 Abs. 3 BGB (Begründungspflicht) → § 573c BGB (Kündigungsfristen) → § 568 Abs. 1 BGB (Schriftform) → § 568 Abs. 2 BGB (Widerspruchshinweis) → § 574 BGB (Sozialklausel Widerspruch) → § 574b BGB (Widerspruchsfrist 2 Monate) → § 577a BGB (Sperrfrist nach Umwandlung) → § 280 BGB (Schadensersatz bei vorgetäuschtem Eigenbedarf)
+
+## Kommentarliteratur
+
+- Schmidt-Futterer Mietrecht 15. Aufl., § 573 BGB Rn. 50-150 (Eigenbedarfskündigung vollständig)
+- Staudinger BGB, § 573 Rn. 30-80 (Eigenbedarf berechtigtes Interesse)
+- BeckOK Mietrecht, § 573 BGB Rn. 20-60 (aktuelle Rechtsprechung Eigenbedarf)
+
+## Triage vor Erstellung Eigenbedarfskündigung
+
+Kläre vor Beginn:
+1. Natürliche Person als Vermieter? (Juristische Personen können keinen Eigenbedarf geltend machen)
+2. Berechtigte Person konkret benannt? (Name Verhältnis Wohnsituation Bedarfsgrund)
+3. Wurde die Wohnung nach Abschluss des Mietvertrags in Wohnungseigentum umgewandelt? (Sperrfrist § 577a BGB prüfen)
+4. Welche Mietdauer liegt vor? (Bestimmt Kündigungsfrist § 573c BGB)
+5. Ist der Hinweis auf das Widerspruchsrecht nach § 574 BGB vorbereitet?
+
+## Output-Template Eigenbedarfskündigungsschreiben
+
+**Adressat:** Mieter — Tonfall sachlich-erklärend, Schriftform zwingend
+
+```
+[VERMIETER]
+[ADRESSE VERMIETER]
+
+An [ALLE MIETER MIT NAMEN]
+[ADRESSE MIETWOHNUNG]
+
+[ORT], [DATUM]
+
+Kündigung des Mietverhältnisses wegen Eigenbedarfs
+
+Sehr geehrte/r Herr/Frau [NAME],
+
+hiermit kündige ich das mit Ihnen bestehende Mietverhältnis über die Wohnung
+[ANSCHRIFT, LAGE, STOCKWERK, QM] vom [DATUM DES MIETVERTRAGS] gemäß § 573
+Abs. 2 Nr. 2 BGB ordentlich zum [KÜNDIGUNGSTERMIN, berechnet nach § 573c BGB].
+
+Begründung (§ 573 Abs. 3 BGB):
+Ich benötige die Wohnung für [BEGÜNSTIGTE PERSON, VERHÄLTNIS].
+[BEGÜNSTIGTE PERSON] lebt derzeit in [AKTUELLE WOHNSITUATION].
+Die aktuelle Unterkunft ist nicht zumutbar, weil [BEDARFSGRUND: zu klein/zu weit/gesundheitliche Gründe/etc.].
+
+Hinweis auf Widerspruchsrecht (§ 574 BGB):
+Sie können der Kündigung widersprechen, wenn die Beendigung des Mietverhältnisses
+für Sie eine unzumutbare Härte bedeutet. Der Widerspruch muss spätestens zwei Monate
+vor Ablauf der Kündigungsfrist schriftlich erfolgen (§ 574b Abs. 2 BGB).
+
+Mit freundlichen Grüßen
+[EIGENHAENDIGE UNTERSCHRIFT ALLER VERMIETER]
+```
+
+**Hinweis:** Vor Versand fachanwaltliche Prüfung empfohlen.

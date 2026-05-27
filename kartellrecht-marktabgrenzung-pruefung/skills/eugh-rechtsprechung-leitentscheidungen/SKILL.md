@@ -62,3 +62,16 @@ Marktbeherrschung sozialer Netzwerke in Deutschland; Bestätigung der enger defi
 ## Verwendungshinweis
 
 Alle Entscheidungen müssen mit dem konkreten Sachverhalt abgeglichen werden. Analoge Übertragung ohne Kontextprüfung ist ein methodischer Fehler.
+
+## Kerneintscheidungen EuGH Wettbewerbsrecht (Chronologisch)
+
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Grundlegend Marktdefinition Art. 102 AEUV; Produktmarkt Bananen; Dominanztest.
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Treuerabatte als Missbrauch; Einzelne Vitaminmaerkte; Stabilitaet Marktanteil.
+- EuGH, Urt. v. 09.11.1983 — Rs. 322/81 (Michelin I), Slg. 1983, 3461 — Angebotsseitige Substitution; After-Sales-Markt Reifen.
+- EuGH, Urt. v. 13.12.2012 — C-226/11 (Expedia), NZKart 2013, 106 — Bezweckte Beschraenkungen niemals de minimis.
+- EuGH, Urt. v. 21.09.2023 — C-176/19 P (Servier), ECLI:EU:C:2023:700 — Neuere Methodenpruefung Marktdefinition; EK-Begruendungspflicht.
+
+## Kommentarliteratur
+
+- Mestmaecker/Schweitzer Europaeisches Wettbewerbsrecht Art. 101/102 AEUV Rn. 1-200 (systematisch)
+- Immenga/Mestmaecker EU-Wettbewerbsrecht (Kommentar, aktuelle Auflage)

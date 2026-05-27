@@ -1,11 +1,34 @@
 ---
 name: konfliktcheck-vorab
-description: "Hinweis-Skill: vor Mandatsannahme muss ein Interessenkonflikt-Check nach Paragraph 43a Abs. 4 BRAO und Paragraph 3 BORA erfolgen. Instruiert Sekretariatsmitarbeitende, vor Terminvergabe die Gegenseite und Beteiligten zu erfragen. Laedt wenn der Nutzer 'Konfliktcheck', 'Interessenkonflikt pruefen', 'Paragraph 43a BRAO', 'Gegenseite erfragen' oder 'Mandatsannahme pruefen' sagt."
+description: "Sekretariat soll vor Terminvergabe Interessenkonflikt pruefen. § 43a Abs. 4 BRAO § 3 BORA Interessenkonflikt-Check. Pruefraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate. Output: Konfliktcheck-Anweisung und Abfragemuster. Abgrenzung zu mandatsverhaeltnis-hinweis (nach Mandatsannahme) und vertraulichkeit-erinnerung."
 ---
 
 # Konfliktcheck-Vorab
 
 Dieser Skill erinnert an die berufsrechtliche Pflicht zum Interessenkonflikt-Check vor Mandatsannahme und instruiert das Sekretariat, die dafür erforderlichen Informationen bereits bei der Terminvergabe zu erfragen.
+
+
+## Triage zu Beginn
+1. Sind alle konfliktsrelevanten Informationen vorhanden: Gegenseite, Beteiligte, Rechtsgebiet, Aktenzeichen?
+2. Ist die anfragende Person oder die Gegenseite ein bekannter oder ehemaliger Mandant (auch Sozietaetsmitglieder pruefen)?
+3. Gibt es Anzeichen fuer einen Gesamtkonflikt (Sozietaet als Ganzes betroffen, § 3 Abs. 2 BORA)?
+4. Bei Interessenkonflikt: welche Konsequenz (Mandatsablehnug, Hinweis an Suchenden auf andere Kanzlei)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 08.11.2007 - IX ZR 5/06, NJW 2008, 371 — Verstoß gegen § 43a Abs. 4 BRAO durch gleichzeitige Vertretung gegenlaeufiger Interessen: Honoraranspruch kann verlustig gehen; Mandat muss niedergelegt werden.
+- BGH, Urt. v. 25.02.2016 - IX ZR 109/15, NJW 2016, 1590 — Ehemalige-Mandanten-Konflikt: § 43a Abs. 4 BRAO gilt auch bei vorangegangener Beratung in derselben Sache; Kanzlei muss Altakten pruefen.
+- BGH, Urt. v. 01.04.2014 - IX ZB 73/11, NJW 2014, 2298 — Parteiverrat nach § 356 StGB: Strafbarkeit setzt voraus, dass Anwalt in derselben Sache mit widerstrebenden Interessen taetig war; berufsrechtliche Pflichtverletzung geniegt nicht.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Interessenkonflikt-Check vor Mandatsannahme als verfassungsrechtlich gebotene Massnahme zur Sicherung des Vertrauens in die Rechtspflege.
+
+## Zentrale Normen
+- § 43a Abs. 4 BRAO — Verbot der Vertretung widerstreitender Interessen
+- § 3 BORA — Konkretisierung des Interessenkonflikt-Verbots: gilt auch fuer ehemalige Mandanten und Sozietaetsmitglieder
+- § 356 StGB — Parteiverrat: strafrechtliche Konsequenz bei gleichzeitiger Vertretung gegenlaeufiger Interessen
+- § 14 BRAO — Widerruf der Zulassung bei schwerwiegenden Berufsrechtsverletzungen
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43a Rn. 150-200 (Interessenkonflikt: Tatbestand, Ausnahmen und Rechtsfolgen)
+- Henssler/Prütting BRAO § 3 BORA Rn. 1-30 (Konkretisierung: Ehemalige Mandanten und Sozietaets-Konflikt)
 
 ## Rechtsgrundlage
 

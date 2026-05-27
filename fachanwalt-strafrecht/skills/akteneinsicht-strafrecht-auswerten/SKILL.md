@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-strafrecht-auswerten
-description: Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverstaendige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Pruefung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisantraegen Befangenheits-Pruefung und Vermerk fuer Beweisverwertung.
+description: "Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverstaendige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Pruefung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisantraegen Befangenheits-Pruefung und Vermerk fuer Beweisverwertung."
 ---
 
 # Akteneinsicht — Strafakte auswerten
@@ -147,3 +147,16 @@ Pro Tat-Element (objektiver Tatbestand: Wer Wann Wo Wie):
 - BGH 2. und 5. Strafsenat (Verwertungsverbote)
 - Meyer-Goßner/Schmitt StPO
 - Beulke/Swoboda Strafprozessrecht
+
+## Aktuelle Rechtsprechung Aktenauswertung
+
+- BVerfGE 103, 142 (Beschl. v. 20.02.2001 - 2 BvR 1444/00) — Hausdurchsuchung: "Gefahr im Verzug" nach § 105 I StPO ist eng auszulegen; richterliche Anordnung bleibt Regelfall; polizeiliche Eigenmaechtikeit ohne konkrete Eilbegruendung fuehrt zum Beweisverwertungsverbot.
+- BGH, Urt. v. 26.11.1998 - 4 StR 493/98, BGHSt 44, 308 — Beweisverwertungsverbot bei Belehrungsfehler (§ 136 StPO): Vernehmungsprotokoll ist grundsaetzlich unverwertbar, wenn der Beschuldigte nicht ordnungsgemaess ueber sein Schweigerecht belehrt wurde.
+- BGH, Urt. v. 18.04.2007 - 5 StR 546/06, BGHSt 51, 285 — TKU-Zufall-Funde (§ 108 StPO): aus einer TKU nach § 100a StPO gewonnene Erkenntnisse duerfen nur in dem Mass in anderen Verfahren verwertet werden wie § 100e VI StPO es erlaubt; Verwendungsbeschrankung.
+- BGH, Urt. v. 30.07.1999 - 1 StR 618/98, BGHSt 45, 221 — Aussagen-Wuerdigung bei Aussage-gegen-Aussage: Gericht muss alle Glaubwuerdigkeitsmerkmale pruefen (Konstanz, Detailreichtum, Entstehungsgeschichte); Revisionsgericht kontrolliert Methodenfehler.
+
+## Kommentarliteratur Aktenauswertung
+
+- Meyer-Gossner/Schmitt, StPO, 67. Aufl. 2024, § 136a Rn. 1-40 (verbotene Vernehmungsmethoden)
+- Eisenberg, Beweisrecht der StPO, 11. Aufl. 2022 (Standardwerk Beweisverwertungsverbote)
+- Schoenke/Schroeder, StGB, 30. Aufl. 2019, Vorb. §§ 1 ff. Rn. 1-30 (Grundlagen Strafrecht)

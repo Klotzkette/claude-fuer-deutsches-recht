@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Privates Baurecht, Architekten- und Ingenieurrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild. Normen: §§ 631 633 650a ff. BGB, VOB/B. Pruefraster: Werkvertrag vs. Bauvertrag, Mangelkatalog, Fristen, Interessenlage. Output: Erstgespraeches-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Klageschrift oder Gutachten."
 ---
 
 # Erstgespraech und Mandatsannahme im Privates Baurecht, Architekten- und Ingenieurrecht

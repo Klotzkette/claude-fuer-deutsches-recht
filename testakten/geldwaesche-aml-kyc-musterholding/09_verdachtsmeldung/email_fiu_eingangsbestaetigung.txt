@@ -1,0 +1,37 @@
+Von: noreply@fiu.bund.de
+An: t.eckhardt@musterholding.de
+Datum: Di, 19.05.2026 11:36
+Betreff: [goAML] Eingangsbestaetigung Verdachtsmeldung VM-MH-2026-0041
+
+* * * AUTOMATISCH ERZEUGTE NACHRICHT - BITTE NICHT ANTWORTEN * * *
+
+Sehr geehrte/r Verpflichtete/r,
+
+Ihre Verdachtsmeldung wurde am 19.05.2026 um 11:34:42 Uhr (MESZ) im
+goAML-Portal eingereicht.
+
+  Meldungsnummer  : VM-MH-2026-0041
+  Eingangs-ID FIU : DE-FIU-2026-1059388
+  Verpflichteter  : Musterholding GmbH (HRB 74281 B)
+  Status          : EINGEGANGEN - in Bearbeitung
+  Anlagen         : 7 Dateien (PDF/CSV/XLSX), Gesamtgroesse 14,8 MB
+  Pruefkanal      : SOLLPRUEFUNG (regulaer)
+
+Hinweis Ausfuehrungsverbot gem. § 46 GwG:
+Sie sind bis zur Freigabe durch die FIU - laengstens bis zum Ablauf des
+dritten Werktages nach Eingang Ihrer Meldung - verpflichtet, die gemeldete
+Transaktion NICHT auszufuehren.
+
+Ablauf 3-Werktage-Frist: 22.05.2026, 23:59:59 Uhr MESZ.
+Sollte bis dahin keine ausdrueckliche Untersagung erfolgen, gilt die
+Transaktion als von der FIU nicht beanstandet (§ 46 Abs. 2 Satz 2 GwG).
+
+Bei Rueckfragen erreichen Sie das FIU-Kontaktteam unter:
+  E-Mail: kontakt@fiu.bund.de
+  Tel:    +49 351 44 834 - 556
+
+Diese E-Mail ist signiert (S/MIME). Pruefen Sie das Signatur-Zertifikat.
+
+Mit freundlichen Gruessen
+Financial Intelligence Unit
+Generalzolldirektion - Direktion VIII

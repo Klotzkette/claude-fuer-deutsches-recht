@@ -1,6 +1,6 @@
 ---
 name: ssnip-test-anwendung
-description: Wendet den SSNIP-Test (Small but Significant Non-transitory Increase in Price / Hypothetischer-Monopolisten-Test) an. Prueft Preiserhoehung von 5 bis 10 Prozent Profitabilitaet fuer hypothetischen Monopolisten kritische Verlustanalyse und Cellophane-Fallacy-Risiko nach EU-Bekanntmachung zur Marktdefinition 2024.
+description: "Sachlichen Markt mit dem SSNIP-Test abgrenzen ob ein hypothetischer Monopolist profitabel Preise um 5 bis 10 Prozent erhoehen koennte. Wendet Small but Significant Non-transitory Increase in Price Hypothetischer-Monopolisten-Test an. Normen EU-Bekanntmachung Marktdefinition 2024 § 18 GWB Art. 102 AEUV FKVO 139/2004. Pruefraster kritische Verlustanalyse Cellophane-Fallacy-Risiko Datenbasis Preiselastizitaet. Output SSNIP-Test-Memo mit Marktdefinitions-Ergebnis und methodischer Bewertung. Abgrenzung: elastizitaeten-diversion-ratios fuer vertiefte oekonometrische Analyse."
 ---
 
 # SSNIP-Test — Anwendung
@@ -57,6 +57,18 @@ Leitfälle:
 - Zwei-/Mehrseitige Märkte: Preiserhöhung auf einer Marktseite kann durch Netzwerkeffekte konterkariert werden.
 - Regulierte Preise: Test auf Basis regulierter Preise setzt falsche Ausgangspunkte.
 - Innovationsmärkte: Nicht-Preis-Parameter dominieren.
+
+## Leitentscheidungen SSNIP-Test
+
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Cellophane-Fallacy Vorlaeufer; Preise bei Marktmacht-Ausschluss abweichend; Ausgangspreis muss korrigiert werden.
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — SSNIP-Prinzip zur Identifikation naher Substitute; Bananenmarkt als Pionierfall.
+- EK, Horizontal Merger Guidelines 2004, Rn. 18-21 — SSNIP-Test als primaere Methode; kritische Verlustanalyse; Cellophane Fallacy Einschraenkung.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — SSNIP Methodologie; hypothetischer Monopolisten-Test als konsistenter Ansatz; Abweichung begruendungspflichtig.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 5-30 (Marktabgrenzungsmethoden, SSNIP, HMT)
+- Mestmaecker/Schweitzer Europaeisches Wettbewerbsrecht Art. 102 AEUV Rn. 80-120 (Marktdefinition EK-Praxis)
 
 ## Dokumentation
 

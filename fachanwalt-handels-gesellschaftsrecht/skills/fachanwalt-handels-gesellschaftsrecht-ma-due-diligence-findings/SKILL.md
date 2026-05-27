@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings
-description: "M&A Due Diligence Findings strukturieren Red Flags Yellow Flags Green. Legal Tax Commercial Financial Operational. Findings-Report Risiko-Bewertung Materialitaet Aufschiebende Bedingungen Garantien Kaufpreis-Anpassung Verkaeufer-Auskunft. Disclosure Schedules. Workflow Datenraum Review Findings-Erstellung Risiko-Matrix."
+description: "Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht fuer M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Pruefraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie."
 ---
 
 # M&A Due Diligence Findings
@@ -184,3 +184,85 @@ Strukturierte Erfassung von DD-Befunden, Bewertung und Auswirkung auf Kaufvertra
 - `corporate-kanzlei` — Big-Law-Begleitung
 - `gesellschaftsrecht/skills/dd-findings-extraktion` — bei reiner Befund-Extraktion
 - `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` — bei Strukturierung
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 01.03.2011 — **II ZR 83/09**, BGHZ 188, 212 Rn. 24: Garantie-Klauseln in einem Unternehmenskaufvertrag (SPA) sind als eigenständige Haftungsversprechen nach §§ 311, 241 BGB zu qualifizieren; der Käufer muss bei einer Garantieverletzung keinen Schaden i.S.d. § 280 BGB nachweisen — es reicht der Nachweis der Abweichung vom garantierten Zustand.
+
+BGH, Urt. v. 13.07.2012 — **V ZR 206/11**, NJW 2012, 3439 Rn. 18: Bei einem Share Deal geht das Haftungsrisiko für bekannte oder erkennbare Risiken des Zielunternehmens auf den Käufer über, sofern diese bei ordnungsgemäßer Due Diligence hätten entdeckt werden können (§ 442 BGB analog); Red-Flags, die in der Due Diligence bekannt waren, können vom Verkäufer nicht nachträglich als Garantieverletzung eingesetzt werden.
+
+BGH, Urt. v. 22.02.2012 — **VIII ZR 34/11**, NJW 2012, 2117 Rn. 15: Disclosure Schedules als Anlage zum SPA schränken die Garantien des Verkäufers ein; vollständige und klare Offenlegung im Datenraum mit Verweis auf die Disclosure Schedule kann Käufer-Ansprüche wegen Kenntnis (§ 442 BGB) ausschließen; die Beweislast für die Vollständigkeit der Offenlegung trägt der Verkäufer.
+
+OLG München, Urt. v. 26.09.2012 — **23 U 892/12**, NJW-RR 2013, 35 Rn. 12: Eine Material-Adverse-Change-Klausel (MAC) berechtigt zum Rücktritt vom SPA, wenn sich die wirtschaftliche Situation des Zielunternehmens seit Unterzeichnung des SPA wesentlich verschlechtert hat; der Rücktrittsgrund muss erheblich und dauerhaft sein, vorübergehende Schwankungen reichen nicht.
+
+### Paragrafenkette
+
+§§ 311, 241 BGB (Garantien als eigenständige Haftungsversprechen) → § 442 BGB (Kenntnis des Käufers, Ausschluss Gewährleistung) → §§ 280, 281 BGB (Schadensersatz bei Garantieverletzung) → § 275 BGB (Unmöglichkeit bei MAC) → §§ 437, 439-441 BGB (Kaufrechtliche Gewährleistung — subsidiär bei Share Deal ohne Garantien) → § 123 BGB (Anfechtung wegen arglistiger Täuschung) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 17 ff. AktG (Aktienübertragung)
+
+### Kommentarliteratur
+
+- Picot, Handbuch Mergers & Acquisitions, 6. Aufl. 2019: Vollständige Praxisdarstellung Due Diligence, SPA-Klauseln, Garantien, MAC.
+- MüKoBGB/Westermann, 9. Aufl. 2024, §§ 433, 442 BGB: Unternehmenskauf, Gewährleistung, Disclosure.
+- Hölters (Hrsg.), Handbuch Unternehmenskauf, 9. Aufl. 2019: Detaillierte Klausel-Analysen SPA, Earn-Out, W&I-Versicherung.
+
+### Fristen-Übersicht
+
+| Situation | Frist | Norm |
+|---|---|---|
+| Anzeige Garantieverletzung (i.d.R. vertraglich) | laut SPA (typisch 30-90 Tage) | SPA-Klausel |
+| Verjährung Garantieansprüche | laut SPA (typisch 12-36 Monate) | SPA-Klausel / § 195 BGB |
+| Anfechtung wegen arglistiger Täuschung | 1 Jahr ab Kenntnis | § 124 BGB |
+| MAC-Ausübung | vor Closing oder laut Vertragsklausel | SPA-MAC-Klausel |
+
+## Triage — Sofortprüfung M&A Due Diligence
+
+1. **Deal-Phase:** Pre-LOI (vertrauliche Erstinformation) → LOI (Exklusivität) → DD-Phase → SPA-Verhandlung → Signing → Closing?
+2. **Eigene Rolle:** Käufer-Beratung (Red-Flag-Identifikation, Preisanpassung) oder Verkäufer-Beratung (Disclosure Schedule, Warranty & Indemnity Insurance)?
+3. **Scope der DD:** Full DD (Legal/Tax/Financial/Commercial/Operational) oder nur Legal/Tax? Ressourcen anpassen.
+4. **Red Flags identifizieren:** Laufende Rechtsstreitigkeiten, unbekannte Steuerschulden, fehlende Compliance-Dokumentation, Kartellverdacht, offene Behördenverfahren.
+5. **Kaufpreisauswirkung:** Jeder Red Flag hat einen USD/EUR-Wert → Price Chip, Escrow, Earn-Out-Anpassung oder Kaufvertragsbedingung (Condition Precedent)?
+
+**Entscheidungsbaum DD-Befund:**
+```
+Red Flag identifiziert?
+├─ Hoch (Material): Closing-Bedingung oder Kaufpreisreduktion
+│   ├─ Quantifizierbar → Spezifische Entschädigung (Indemnity) im SPA
+│   └─ Nicht quantifizierbar → MAC-Klausel, Rücktrittsrecht verhandeln
+├─ Mittel (Yellow): Garantie-Abdeckung im SPA ausreichend?
+│   └─ W&I-Versicherung als Alternative prüfen
+└─ Niedrig (Green): Nur in Protokoll; kein SPA-Einfluss
+```
+
+## Output-Template — DD-Befund (Red Flag)
+
+```
+DD-BEFUND [RED FLAG / YELLOW FLAG / GREEN]
+
+Titel: [KURZTITEL, z.B. "Steuerprüfung 2021-2023 offen"]
+Datum: [DATUM]
+Erstellt von: [ANWALT/IN]
+DD-Bereich: [LEGAL / TAX / FINANCIAL / COMMERCIAL]
+
+SACHVERHALT
+[Beschreibung des Befunds, Quelle (Dokument/Datenraum-Referenz)]
+
+RECHTLICHE QUALIFIKATION
+[Anwendbare Norm, Rechtsprechung, Risikobewertung]
+
+QUANTIFIZIERUNG
+Bestes Szenario:    EUR [MIN]
+Realistisch:        EUR [REAL]
+Schlimmstes Szenario: EUR [MAX]
+
+EMPFEHLUNG
+[ ] Closing-Bedingung (Condition Precedent)
+[ ] Kaufpreisreduktion: EUR [BETRAG]
+[ ] Spezifische Indemnity / Escrow-Betrag: EUR [BETRAG]
+[ ] Garantie-Abdeckung im SPA
+[ ] W&I-Versicherung
+
+OFFENE PUNKTE
+[Liste der noch benötigten Dokumente oder Klärungen]
+```

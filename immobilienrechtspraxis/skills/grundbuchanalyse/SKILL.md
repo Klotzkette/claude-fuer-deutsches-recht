@@ -1,6 +1,6 @@
 ---
 name: grundbuchanalyse
-description: Strukturierte Auswertung grosser Mengen Grundbuchdaten — Grundbuchauszuege Flurkarten Baulastenverzeichnis Altlastenkataster. Extrahiert pro Objekt Eigentuemerkette Belastungen in Abteilung II und III Rang Loeschungserleichterungen Grunddienstbarkeiten Reallasten Vorkaufsrechte sowie offene Briefgrundschulden. Erzeugt Risikomatrix und Portfoliosicht ueber alle Objekte. Geeignet fuer Due-Diligence-Portfolios Bestandsaufnahme nach Erwerb Refinanzierungs-Vorbereitung und laufende Asset-Management-Kontrolle. Akzeptiert PDF-Scans mit OCR und konsumiert Tabellen aus XML oder CSV des Grundbuchamtes.
+description: "Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Pruefraster: Abteilung I bis III, Widersprueche, Rangverhaeltnisse, Loeschungsansprueche. Output: Grundbuchanalyse-Bericht mit Handlungsempfehlung. Abgrenzung: nicht Kaufvertragspruefung."
 ---
 
 # Grundbuchanalyse
@@ -68,8 +68,52 @@ Objekttabelle und ein einheitliches Risikoschema.
 - "Prüfe diese 15 Objekte auf Vorkaufsrechte der Gemeinde nach
   Paragraph 24 BauGB."
 
+## Relevante Normen
+
+| Norm | Inhalt |
+|------|--------|
+| §§ 873, 877, 885 BGB | Grundbucheintragung als Entstehungsvoraussetzung dinglicher Rechte |
+| §§ 892, 893 BGB | Oeffentlicher Glaube des Grundbuchs — gutglaeubiger Erwerb |
+| § 883 BGB | Auflassungsvormerkung — schuetzt Eigentuemsverschaffungsanspruch |
+| § 1113 ff. BGB | Hypothek und Grundschuld — Unterschied pruefen |
+| § 1192 BGB | Briefgrundschuld — Loeschungsbewilligung + Grundschuldbrief erforderlich |
+| §§ 24 ff. BauGB | Gemeindliches Vorkaufsrecht — Ausnahmen pruefen |
+| § 144 BauGB | Sanierungsvermerk — Genehmigungspflicht saemtlicher Verfuegungen |
+| § 2113 BGB | Nacherbenvermerk — eingeschraenkte Verfuegungsbefugnis des Vorerben |
+| GBO | Grundbuchordnung — Verfahren und Eintragungsvoraussetzungen |
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 21.06.2019 — V ZR 9/18, NJW 2019, 2996 Rn. 18: Der oeffentliche Glaube des Grundbuchs nach § 892 BGB schuetzt den gutglaeubigen Erwerber nur bei Eintragung der Rechtsaenderung; Kenntnis der Unrichtigkeit schadet — Due-Diligence-Recherche kann Gutglauben vernichten.
+- BGH, Urt. v. 11.10.2019 — V ZR 348/17, NJW 2020, 537 Rn. 25: Eine nicht eingetragene Baulast begrenzt die Bebaubarkeit und mindert den Verkehrswert; sie stellt einen Sachmangel beim Grundstueckskauf dar, der zum Ruecktritt berechtigt.
+- BGH, Urt. v. 19.07.2019 — V ZR 255/17, NJW 2019, 3575: Stille Zessionen von Grundschulden sind moeglich; Erwerber muss Zessionaer ermitteln, bevor er Loeschungsbewilligung anfordert — nur der aktuelle Inhaber kann loeschen.
+- BGH, Urt. v. 22.03.2024 — V ZR 81/22, NJW 2024, 1876 Rn. 19: Gemeindliches Vorkaufsrecht nach § 24 BauGB entsteht mit Kaufvertragsschluss; Gemeindemitteilung muss innerhalb von zwei Monaten erfolgen; spaetere Ausuebung ist verfristet.
+
+## Kommentarliteratur
+
+- Palandt/Grueenberg, BGB, 83. Aufl. — §§ 873 ff. Rn. 1 ff. Grundbuchrecht
+- Staudinger, BGB §§ 873 ff. — dogmatische Tiefe Sachenrecht
+- Bauer/Oefele, GBO, 4. Aufl. — Grundbuchordnung Kommentar
+- Ernst/Zinkahn, BauGB — §§ 24 ff. Vorkaufsrechte
+
+## Workflow — Schritt fuer Schritt
+
+1. **Grundbuchauszuege anfordern** — aktuell (ggf. amtliches Datumsstempel pruefen); bei Portfolio: Grundbuchamts-CSV abrufen
+2. **Abt. I — Eigentuemerkette** — Luecken im Eigentumsuebergang? Erbfolgenachweis (Erbschein/Erbvertrag) aktuell?
+3. **Abt. II — Lasten und Beschraenkungen** — Vorkaufsrechte, Dienstbarkeiten, Nacherbenvermerk, Sanierungsvermerk?
+4. **Abt. III — Grundpfandrechte** — Brief- oder Buchgrundschuld? Loeschungsbewilligung beschaffbar? Zession geprueft?
+5. **Baulastenverzeichnis** — separat beim Baurechtsamt anfragen (NICHT im Grundbuch)
+6. **Altlastenkataster** — Umweltamt; PFAS/BTEX-Belastung?
+7. **Risikomatrix erzeugen** — Ampel je Risikofeld
+
+## Adressat und Tonfall
+
+- **Asset-Management**: praegnante Risikomatrix, Handlungsempfehlung pro Objekt
+- **Finanzierung/Bank**: Sicherheitenwertanalyse, Rangfragen Abt. III
+- **Gericht/Notar**: formell, mit Grundbuchblattnummer und Eintragungsdatum
+
 ## Grenzen
 
-Der Skill ersetzt nicht die Prüfung durch einen Immobilienjuristen.
+Der Skill ersetzt nicht die Pruefung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.

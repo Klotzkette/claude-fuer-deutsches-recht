@@ -1,6 +1,6 @@
 # Fachanwalt Versicherungsrecht
 
-Light-Touch-Plugin Fachanwalt für Versicherungsrecht. Orientierung VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstellen kanzlei-cowork und fachanwalt-verkehrsrecht.
+Plugin Fachanwalt für Versicherungsrecht. Orientierung VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstellen kanzlei-allgemein und fachanwalt-verkehrsrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

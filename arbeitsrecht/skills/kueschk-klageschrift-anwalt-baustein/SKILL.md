@@ -5,6 +5,41 @@ description: "Anwaltliche Klageschrift Kuendigungsschutzklage: Klageschrift mit 
 
 # Klageschrift — Anwaltliche Version
 
+## Triage zu Beginn — kläre vor Klageschrifterstellung
+
+1. Drei-Wochen-Frist § 4 KSchG gewahrt? (Zugang + 21 Tage)
+2. KSchG anwendbar? (§ 23 KSchG: > 10 Arbeitnehmer; § 1 Abs. 1 KSchG: > 6 Monate)
+3. Sonderkündigungsschutz vorhanden? (Schwangerschaft, BR-Mitglied, SGB IX etc.)
+4. Formfehler vorhanden? (§ 623 BGB; § 174 BGB; § 102 BetrVG)
+5. Welcher Haupt-Angriffspunkt? (Formfehler / KSchG-Anwendbarkeit / materieller Grund)
+6. Weiterbeschäftigungsantrag stellen? (nur wenn Mandant tatsächlich zurück will)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen
+
+- § 4 Satz 1 KSchG — Klagefrist 3 Wochen ab Zugang
+- § 7 KSchG — Fiktion der Wirksamkeit bei Fristversäumnis
+- § 1 Abs. 2 KSchG — Soziale Rechtfertigung (betriebs-, personen-, verhaltensbedingt)
+- § 23 Abs. 1 KSchG — Geltungsbereich (> 10 Arbeitnehmer)
+- § 102 BetrVG — BR-Anhörung; Unwirksamkeit ohne ordnungsgemäße Anhörung
+- § 623 BGB — Schriftformerfordernis Kündigung
+- § 42 Abs. 2 GKG — Streitwert: 3 Bruttomonatsgehalter
+- § 12a ArbGG — kein Kostenerstattungsanspruch erste Instanz
+- § 256 ZPO — allgemeiner Feststellungsantrag (sog. Schleppnetz)
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 — Betriebsbedingte Kündigung: Der Arbeitgeber muss konkret darlegen, welche unternehmerische Entscheidung er getroffen hat und dass infolge dieser Entscheidung der Beschäftigungsbedarf dauerhaft entfallen ist; Pauschalbehauptung von Auftragsrückgang genügt nicht.
+- BAG, Urt. v. 29.06.2017 – 2 AZR 302/16, NZA 2018, 61 — Verhaltensbedingte Kündigung: Eine Abmahnung ist bei steuerbarem Verhalten grundsätzlich erforderlich; sie kann nur ausnahmsweise entbehrlich sein, wenn es sich um eine schwerwiegende Pflichtverletzung handelt, bei der eine Verhaltensänderung nicht zu erwarten ist.
+- BAG, Urt. v. 22.09.2016 – 2 AZR 700/15, NZA 2017, 175 — BR-Anhörung: Der Arbeitgeber hat dem Betriebsrat alle für die Kündigung maßgeblichen Tatsachen mitzuteilen; Nachschieben von Tatsachen, die dem Betriebsrat nicht mitgeteilt wurden, ist im Prozess ausgeschlossen.
+- BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Allgemeiner Weiterbeschäftigungsanspruch: Nach erstinstanzlichem Obsiegen besteht ein Anspruch auf tatsächliche Weiterbeschäftigung aus §§ 611, 613, 242 BGB i.V.m. Art. 1 und 2 GG; der Arbeitgeber muss überragende Gegeninteressen darlegen.
+
+## Kommentarliteratur
+
+- ErfK/Oetker, 24. Aufl. 2024, § 1 KSchG Rn. 200–300 (Darlegungs- und Beweislast betriebsbedingte Kündigung; Sozialauswahl)
+- Schaub/Linck, Arbeitsrechts-Handbuch, 19. Aufl. 2021, § 133 Rn. 1–50 (Klageschrift Kündigungsschutz; Anträge; Anlagen)
+- HWK/Quecke, 10. Aufl. 2022, § 102 BetrVG Rn. 1–50 (BR-Anhörung; formelle Anforderungen; Konsequenzen)
+
 ## Zweck
 
 Dieser Skill erzeugt eine anwaltliche Klageschrift für Kündigungsschutzverfahren vor dem Arbeitsgericht. Er setzt Kenntnisse des KSchG-Prüfschemas voraus und ist für Rechtsanwältinnen und Rechtsanwälte konzipiert.
@@ -18,6 +53,19 @@ Vor Einreichung sicherstellen:
 - [ ] Formfehler geprüft (§§ 623 BGB, 174 BGB, 102 BetrVG)
 - [ ] Mandant über Kostenrisiko belehrt (§ 12a ArbGG: kein Kostenerstattungsanspruch erste Instanz)
 - [ ] Vollmacht vorliegen
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Kuendigungsschutzklage fachgerecht erheben | Klageschrift-Muster unten; Drei-Wochen-Frist absolut einhalten |
+| Variante A — Mandant will Abfindung nicht Weiterbeschaeftigung | Aufloeungsantrag § 9 KSchG einbeziehen; kooperativen Schlussabsatz nutzen |
+| Variante B — starke Unwirksamkeitsgruende (BR-Fehler) | Auf guten Vergleich hinarbeiten statt streitigem Verfahren |
+| Variante C — Betriebsrat nicht beteiligt | Unwirksamkeit fast sicher; Klage als Verhandlungsmasse einsetzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
 ## Klageschrift-Muster (Vollform)
 
@@ -115,5 +163,11 @@ Rechtsanwältin/Rechtsanwalt
 - [ ] K 6: Abmahnungen (bei verhaltensbedingter Kündigung)
 
 ---
+
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.

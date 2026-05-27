@@ -1,6 +1,6 @@
 ---
 name: normhierarchie-routing
-description: "Entscheidet welche Norm-Ebene fuer einen legistischen Auftrag richtig ist Bundesgesetz Landesgesetz Rechtsverordnung Bund Rechtsverordnung Land Satzung Koerperschaft. Pruefkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG ausschliesslich konkurrierend Erforderlichkeitsklausel Art. 72 Abs. 2 GG. Landeskompetenz Auffangzustaendigkeit. Verordnungsermaechtigung Art. 80 GG. Satzungskompetenz Art. 28 Abs. 2 GG. Vorrang des Gesetzes Wesentlichkeitstheorie BVerfG. Wenn Buergerrechte oder Strafe nur Gesetz nicht VO oder Satzung. Endet mit Entscheidung plus Begruendung in drei Saetzen plus Verweis auf naechsten Pruef-Skill."
+description: "Richtige Normbene fuer ein legistisches Vorhaben bestimmen Bundesgesetz Landesgesetz Rechtsverordnung oder Satzung. Anwendungsfall politische Vorgabe liegt vor unklar auf welcher Ebene geregelt werden soll. Pruefkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG Landeskompetenz Verordnungsermaechtigung Art. 80 GG Satzungskompetenz Art. 28 Abs. 2 GG Wesentlichkeitstheorie BVerfG Vorbehalt des Gesetzes. Bei Buergerrechten oder Strafnormen nur Gesetz. Output Normebenentscheidung Begruendung drei Saetze Verweis naechster Skill. Anschluss gesetzgebungskompetenz-pruefen verordnungsermaechtigung-art80."
 ---
 
 # Normhierarchie-Routing
@@ -44,6 +44,21 @@ Prüfen mit Skill `verordnungsermaechtigung-art80`. Wenn keine ausreichende Erma
 ### F - Wenn Mehrebenen-Vorhaben
 
 Manchmal braucht es: Bundesgesetz (Rahmen), Bundesverordnung (Details), Landesgesetz (Umsetzung), Verwaltungsvorschrift (Vollzug). Dann ist eine Tabelle der Ebenen zu erstellen.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 24.01.2012 — 1 BvL 21/11, BVerfGE 130, 240 Rn. 40 — Normhierarchie als Verfassungsgrundlage; nachrangige Norm die gegen hoeherrangige verstoesst ist nichtig; kein bloß schwebend ungueltiger Status ohne Normenkontrolle
+- BVerwG, Urt. v. 17.06.2020 — 6 C 3.19, NVwZ 2020, 1400 — Rangverhaltnis Bundesrecht / Landesrecht nach Art. 31 GG; Bundesrecht bricht Landesrecht; Gericht darf nachrangiges Landesrecht unangewendet lassen ohne Normenkontrolle
+- EuGH, Urt. v. 15.07.1964 — 6/64 (Costa/ENEL), NJW 1964, 2371 — EU-Primärrecht steht ueber nationalem Recht einschliesslich nationaler Verfassung; Anwendungsvorrang EU-Recht gegenueber nationalem Gesetz auch ohne Nichtigerklarung
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 1 Abs. 3 GG (Grundrechtsbindung aller Staatsgewalt) — Art. 93 Abs. 1 Nr. 2 GG (abstrakte Normenkontrolle) — Art. 100 GG (konkrete Normenkontrolle) — Art. 288 AEUV (EU-Verordnung als unmittelbar anwendbares Recht)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 31 Rn. 1 ff. (Bundesrecht bricht Landesrecht) und Art. 100 Rn. 1 ff. (Normenkontrolle)
+- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 31 Rn. 1 ff. und Art. 93 Rn. 1 ff. (Hierarchie, Normenkontrolle)
 
 ## Ausgabe
 

@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-pruefung
-description: "Prueft Datenuebermittlungen in Drittlaender nach Art. 44 ff. DSGVO: Angemessenheitsbeschluesse (USA: EU-US Data Privacy Framework 2023, UK, Schweiz), Standardvertragsklauseln (SCC 2021 Module 1 bis 4), Transfer Impact Assessment nach EuGH C-311/18 Schrems II, BCR und Ausnahmen nach Art. 49 DSGVO."
+description: "Datentransfer in Drittlaender ausserhalb EU und EWR auf Zulässigkeit pruefen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Pruefraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Pruefmemo TIA-Vorlage. Abgrenzung: nicht fuer innereuroaeischen Datenaustausch."
 ---
 
 # Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)
@@ -247,3 +247,50 @@ Stand: 05/2026. Aktualität bei folgenden Ereignissen prüfen und Skill aktualis
 - Örtliche Datenschutzgesetze in Drittlaendern (z.B. CLOUD Act Amendments, neue chinesische Datenschutzgesetze PIPL)
 
 Nächste geplante Überprüfung: 05/2027 oder bei wesentlichen Änderungen.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 04.07.2023 — C-252/21 (Meta Platforms/Bundeskartellamt), NJW 2023, 2555 Rn. 88–120: Zum grenzüberschreitenden Datentransfer im Konzernkontext; Verantwortliche müssen für jede Übermittlung eigenständig das Schutzniveau im Zielland bewerten; konzerninterne Transfers sind nicht privilegiert.
+- BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zum Drittlandsübermittlungsregime; Verantwortliche können sich nicht auf AGB-Versprechen eines US-Anbieters verlassen, wenn die Rechtslage im Zielland den Schutz strukturell untergräbt; eigene TIA zwingend.
+- BVerwG, Urt. v. 11.09.2019 — 8 C 6.19, BVerwGE 166, 289 Rn. 35: Zur Verwertbarkeit von Erkenntnissen aus US-Datenquellen im deutschen Verwaltungsverfahren — strukturelles Schutzdefizit durch FISA begründet auch verwaltungsrechtliche Nutzungsschranken.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: Für die Meldepflicht Art. 33 DSGVO und für die TIA gilt: schon die Möglichkeit eines Risikos genügt; unzureichende Drittlandsabsicherung erhöht Haftungsrisiko für Datenpannen.
+
+## Triage zu Beginn (Entscheidungsbaum)
+
+```
+Findet eine Übermittlung außerhalb EU/EWR statt?
+  Nein → kein Kapitel-V-DSGVO-Problem
+  Ja → Angemessenheitsbeschluss vorhanden?
+        Ja (USA/DPF, UK, Schweiz etc.) → DPF-Listung aktuell prüfen; Schrems-II-Risiko bleibt
+        Nein → SCC (Beschluss 2021/914) vorhanden?
+                 Ja → TIA erforderlich; Modul korrekt?
+                 Nein → BCR / Art. 49 Ausnahme?
+                          Nein → Übermittlung unzulässig
+```
+
+## Output-Template — TIA-Ergebnis
+
+**Adressat:** Datenschutzbeauftragter / Rechtsabteilung — Tonfall: sachlich-juristisch
+
+```
+Transfer Impact Assessment (TIA) [DATUM]
+Empfaengerland: [LAND]
+Empfaenger: [NAME, FUNKTION]
+Uebermittlungsgrundlage: Angemessenheitsbeschluss / SCC Modul [X] / BCR / Art. 49
+
+Rechtslage Empfaengerland:
+- Nachrichtendienstliche Befugnisse: [BESCHREIBUNG]
+- Schutzlevel: aequivalent / eingeschraenkt / unzureichend
+
+Risikobewertung:
+- Wahrscheinlichkeit behördlicher Zugriffe: hoch / mittel / gering
+- Datensensitivität: hoch / mittel / gering
+- Gesamtrisiko: hoch / mittel / akzeptabel
+
+Zusatzmassnahmen:
+- Verschlüsselung: [ja/nein; Standard]
+- Pseudonymisierung: [ja/nein]
+- Vertragliche Widerstandspflicht: [ja/nein]
+
+Ergebnis: Übermittlung zulässig / zulässig mit Auflagen / unzulässig
+```

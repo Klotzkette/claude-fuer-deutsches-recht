@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-mit-roten-flaggen
-description: "Anonymisiertes Beispielzeugnis mit gemischten roten, orangen und grünen Bewertungen als Schulungsmaterial. Vollständige Ampel-Analysetabelle als Lernbeispiel für Zeugnissprache und Geheimcode-Erkennung."
+description: "Anonymisiertes Beispielzeugnis mit roten orangen und gruenen Bewertungen als Schulungsmaterial. Anwendungsfall Training fuer Zeugnissprache und Geheimcode-Erkennung. Enthalt gemischte Ampelsignale mit vollstaendiger Analysetabelle. Output Ampel-Analysetabelle als kommentiertes Lernbeispiel mit Note-4- und Note-5-Signalen. Abgrenzung zu muster-arbeitszeugnis-gemischte-noten (Drift-Schwerpunkt) und muster-arbeitszeugnis-note-1 (Positivreferenz)."
 ---
 
 # Muster-Arbeitszeugnis mit roten Flaggen (Schulungsmaterial)
@@ -66,3 +66,13 @@ Wir danken Herrn Beispiel für seine Mitarbeit und wünschen ihm für die Zukunf
 ## Ausgabeformat
 
 Der Skill gibt das Muster-Zeugnis mit eingebetteten Analyse-Kommentaren aus (wie im Beispiel oben), gefolgt von der vollständigen Ampeltabelle und der Gesamtbewertung. Einsatz als Schulungsmaterial für Mitarbeitende, Personalverantwortliche und Rechtsanwälte.
+
+## Rechtliche Einordnung und Normen
+
+- **§ 109 GewO** — Anspruch auf qualifiziertes wohlwollendes Zeugnis
+- **§ 109 Abs. 2 GewO** — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig
+
+## Aktuelle Rechtsprechung
+
+- **BAG, Urt. v. 18.11.2014 — 9 AZR 584/13**, NZA 2015, 345 — Beweislastverteilung: Note schlechter als befriedigend beweist Arbeitgeber; Note besser als befriedigend beweist Arbeitnehmer; diese Verteilung gilt für alle notenrelevanten Bestandteile.
+- **BAG, Urt. v. 12.08.2008 — 9 AZR 632/07**, BAGE 127, 232 — Wohlwollensgebot: Arbeitgeber muss Formulierungen wählen, die Fortkommen nicht unnötig erschweren; Berichtigungsanspruch bei Verstoß.

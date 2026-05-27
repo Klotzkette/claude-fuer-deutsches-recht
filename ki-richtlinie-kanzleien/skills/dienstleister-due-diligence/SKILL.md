@@ -1,6 +1,6 @@
 ---
 name: dienstleister-due-diligence
-description: "Auswahlkriterien für KI-Dienstleister in Kanzleien: EU-Sitz versus US-Sitz, Enterprise-Tier mit Training-Opt-out, Verschlüsselung, Zertifizierungen wie ISO 27001 und SOC 2 sowie Standardvertragsklauseln für datenschutzkonforme Beauftragung."
+description: "KI-Dienstleister Due Diligence fuer Kanzleien durchfuehren: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und muss eigenverantwortlich Datenschutz Berufsrecht und Sicherheit prüfen. § 43e BRAO Dienstleisterpruefung, Art. 28 Abs. 1 DSGVO Garantiepflichten, ISO 27001 SOC 2. Pruefraster EU-Sitz vs. US-Sitz, Enterprise-Tier mit Training-Opt-out, Verschluesselung, Zertifizierungen, Subprozessoren, Standardvertragsklauseln. Output Dienstleister-Bewertungsmatrix mit Ampelstatus und AVV-Empfehlung. Abgrenzung zu Auftragsverarbeitungsvertrag-Pruefen und zu Musterklauseln-IT."
 ---
 
 # Dienstleister Due Diligence
@@ -56,3 +56,48 @@ Die sorgfältige Auswahl des KI-Dienstleisters ist eine zentrale berufsrechtlich
 ## Hinweise zur Aktualisierung
 
 Die Zertifizierungen und die EU-US-Datenschutzrahmen sind regelmäßig auf Aktualität zu prüfen. Datenschutzbehörden-Entscheidungen zu einzelnen KI-Anbietern (z.B. Untersagungen durch DPAs) sind zu beobachten. Jährliche Neubeurteilung des eingesetzten Dienstleisters empfohlen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Due Diligence bei US-Anbietern erfordert Transfer Impact Assessment; EU-Sitz-Anforderung nicht absolut.
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 55: Sorgfaltspflicht bei KI-Dienstleister-Auswahl — Verantwortlicher bleibt fuer Entscheidungslogik haftbar.
+- BGH, Urt. v. 17.05.2018 — VII ZR 157/17, NJW 2018, 2412 Rn. 18: AGB-Kontrolle von Haftungsausschluessen bei komplexen IT-Systemen; Dienstleister-Due-Diligence muss Haftungsklauseln pruefen.
+- OLG Muenchen, Urt. v. 09.11.2021 — 33 U 2023/21, NJW-RR 2022, 85 Rn. 18: Sorgfaltspflichtverletzung bei fehlender Pruefung des Drittlandtransfers durch Cloud-Anbieter.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 28 Abs. 1 DSGVO — hinreichende Garantien des Auftragsverarbeiters
+- Art. 46 DSGVO — Drittlandtransfer-Sicherheitsnetz (SCC, Angemessenheitsbeschluss)
+- § 43e BRAO — IT-Dienstleister in Kanzleien
+- Art. 9 KI-VO — Risikomanagementsystem Anbieter-Anforderungen
+
+## Triage zu Beginn
+1. Wo hat der KI-Dienstleister seinen Sitz — EU, USA oder sonstiges Drittland?
+2. Gibt es einen Enterprise-Tier mit Training-Opt-out — oder ist Training auf Eingaben Standard?
+3. Welche Zertifizierungen weist der Anbieter vor (ISO 27001, SOC 2, BSI C5)?
+4. Sind Standardvertragsklauseln und eine Transferfolgenabschaetzung vorhanden?
+5. Ist der Anbieter CLOUD Act-Risiken ausgesetzt (US-Muttergesellschaft)?
+
+## Output-Template — Dienstleister-Due-Diligence-Bericht
+**Adressat:** Kanzlei-Management / DSB — Tonfall: strukturiert, risikoorientiert
+```
+DIENSTLEISTER-DUE-DILIGENCE
+[DATUM] — Anbieter: [NAME] — Zweck: [BESCHREIBUNG]
+
+SITZ: [LAND]
+EU-Datenzentrum: [JA / NEIN — Standort: BESCHREIBUNG]
+Training auf Eingaben: [NEIN (Enterprise-Tier) / JA — UNZULAESSIG fuer Mandatsdaten]
+CLOUD Act-Risiko: [NIEDRIG / HOCH — Begruendung]
+
+Zertifizierungen:
+☑/☐ ISO 27001
+☑/☐ SOC 2 Typ II
+☑/☐ BSI C5
+
+Datentransfer-Absicherung:
+☑/☐ Angemessenheitsbeschluss (EU-US Data Privacy Framework)
+☑/☐ Standardvertragsklauseln
+☑/☐ Transferfolgenabschaetzung (TIA) durchgefuehrt
+
+Gesamtbewertung: [FREIGEGEBEN / BEDINGT / ABGELEHNT]
+Auflagen: [BESCHREIBUNG]
+Geprueft von: [NAME], [DATUM]
+```

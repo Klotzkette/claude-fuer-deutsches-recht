@@ -1,6 +1,6 @@
 ---
 name: skill-installierer
-description: "Installiert einen Kanzlei-Skill aus einer überwachten Registry. Liest zuerst die Zulassungsliste, lädt die rohe SKILL.md vollständig herunter, führt Sicherheitsprüfungen und eine Qualitätskontrolle (skills-qualitaetspruefung) durch und schreibt Dateien erst nach ausdrücklicher Nutzerfreigabe. Lädt, wenn der Nutzer „Skill installieren [Name]\" eingibt, einen Skill aus dem Verzeichnis auswählt oder eine direkte Skill-URL übergibt."
+description: "Neue Skills in der KI-Anwaltskanzlei installieren: Verfuegbarkeitscheck, Abhaengigkeiten, Konfiguration. Normen: technisch/intern. Pruefraster: Kompatibilitaet, Abhaengigkeitspruefung, Testlauf. Output: Installationsprotokoll neuer Skill. Abgrenzung: nicht Skill-Aktualisierung."
 ---
 
 # Skill-Installer

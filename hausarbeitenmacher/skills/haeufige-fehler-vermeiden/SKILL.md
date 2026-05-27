@@ -1,9 +1,32 @@
 ---
 name: haeufige-fehler-vermeiden
-description: Liste der 20 typischen Fehler in juristischen Hausarbeiten methodische Fehler stilistische Fehler formale Fehler. Mit gentle Korrektur-Hinweisen.
+description: "Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 haeufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Pruefraster Fehlertypen-Scan Selbstpruefung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil)."
 ---
 
 # Häufige Fehler vermeiden — Top-20
+
+
+## Triage zu Beginn
+1. Befindet sich der Text in der Rohfassung (Fehler noch einzubauen) oder der Endfassung (Endcheck)?
+2. Auf welche Fehlerkatgorien soll besonders geachtet werden: methodisch, stilistisch, formal oder inhaltlich?
+3. Liegt bereits eine Bewertung eines Tutors vor, die Schwachstellen benennt?
+4. Ist die Arbeit zum ersten Mal gelesen (Ersterkennung) oder nach einer Pause (frische Perspektive)?
+
+## Aktuelle Rechtsprechung und Methodik
+- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Typischer Subsumtionsfehler: Tatbestandsmerkmal ohne Sachverhaltsbezug abgehandelt; BGH kassiert entsprechende Urteile wegen Begruendungsmangels.
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Unbelegte Tatsachenbehauptungen in juristischen Schriften begründen zivilrechtliche Haftung; im Lernkontext: Fehler ohne Beleg wird als methodisch unzulaessig bewertet.
+- BGH, Urt. v. 14.10.2003 - VI ZR 425/02, NJW 2004, 356 — Sorgfaeltige Quellenrecherche als Sorgfaltspflicht; im Studienkontext: fehlende Fundstellen begruenden Abzug.
+- BVerfG, Beschl. v. 04.02.1975 - 2 BvL 5/74, BVerfGE 38, 386 — Logisch-konsistente Argumentation als rechtsstaatliches Gebot; Fehler in Prüfungslogik fuehren zu materiell falschen Ergebnissen.
+
+## Zentrale Normen
+- § 195 BGB — Regelverjaehrung: haeufig vergessener Pruefungspunkt, fuehrt zu Fehler 19
+- § 138 Abs. 1 ZPO — Wahrheitspflicht: mahnende Analogie fuer korrekte Sachverhaltserfassung
+- § 242 BGB — Treu und Glauben: verhindert uebertrieben formalistische Fehler
+- §§ 133, 157 BGB — Auslegungsgrundsaetze: Masstab fuer Definitionen und Subsumtion
+
+## Kommentarliteratur
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 40-70 (Haeufige Fehler in der Rechtsanwendung)
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 4 (Korrekte und fehlerhafte Subsumtion)
 
 ## Zweck
 

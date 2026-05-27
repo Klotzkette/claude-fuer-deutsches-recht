@@ -1,111 +1,259 @@
 ---
 name: fachanwalt-arbeitsrecht-kuendigungsschutzklage
-description: Kuendigungsschutzklage nach § 4 KSchG. Frist drei Wochen ab Zugang der schriftlichen Kuendigung. Schriftform § 623 BGB. Anwendbarkeit KSchG § 1 § 23. Soziale Rechtfertigung § 1 Abs. 2 betriebsbedingt verhaltensbedingt personenbedingt. Sonderkuendigungsschutz MuSchG BEEG SGB IX. Anhoerung Betriebsrat § 102 BetrVG. Schreibvorlage Klage Arbeitsgericht.
+description: "Kuendigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kuendigung. Anwendungsfall Arbeitnehmer erhaelt Kuendigung und will Klage erheben oder Arbeitgeber prueft Kuendigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Pruefraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kuendigungsgruende Sonderkuendigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
 ---
 
 # Kündigungsschutzklage (§ 4 KSchG)
 
-## Kaltstart-Rückfragen
+## Zweck
 
-1. Datum des Zugangs der schriftlichen Kündigung?
-2. Ist die Kündigung schriftlich erfolgt (§ 623 BGB)?
-3. Betriebsgröße und Beschäftigungsdauer (§ 1, § 23 KSchG)?
-4. Kündigungsart (ordentlich, außerordentlich nach § 626 BGB, Änderungskündigung)?
-5. Sonderkündigungsschutz (Schwangerschaft, Elternzeit, Schwerbehinderung)?
-6. Betriebsrat angehört (§ 102 BetrVG)?
+Strukturierte Vorgehensweise bei Mandaten zur Kündigungsschutzklage — von der Erstberatung bis zur Klageschrift. Das Fristrisiko (3 Wochen ab Zugang) ist der kritische Faktor; alles andere kann nachgebessert werden.
 
-## Anspruchsgrundlagen
+## Mandantenfragen — Kaltstart
 
-- **Kündigungsschutz:** § 1 Abs. 2 KSchG — soziale Rechtfertigung erforderlich (betrieblich, verhaltens- oder personenbedingt).
-- **Klagefrist:** § 4 KSchG — drei Wochen ab Zugang. Versäumung führt zur Fiktion der Wirksamkeit (§ 7 KSchG).
-- **Schriftform:** § 623 BGB — Verstoß: § 125 S. 1 BGB Nichtigkeit (BAG, Urt. v. 17.12.2015 – Az. 6 AZR 709/14, NZA 2016, 361 Rn. 14).
-- **Außerordentliche Kündigung:** § 626 BGB — wichtiger Grund; Zwei-Wochen-Frist § 626 Abs. 2 BGB.
-- **Anhörung Betriebsrat:** § 102 BetrVG — vor jeder Kündigung; ohne Anhörung Unwirksamkeit (BAG, Urt. v. 16.07.2015 – Az. 2 AZR 15/15, NZA 2016, 99 Rn. 16).
-- **Sonderkündigungsschutz:**
-  - Schwangerschaft, vier Monate nach Entbindung: § 17 MuSchG.
-  - Elternzeit: § 18 BEEG.
-  - Schwerbehinderung: §§ 168 ff. SGB IX (Zustimmung Integrationsamt).
-  - Datenschutzbeauftragte: § 6 Abs. 4 BDSG.
-- **Massenentlassungsanzeige:** § 17 KSchG — vor Ausspruch beim Arbeitsamt; Verstoß führt zur Unwirksamkeit (BAG, Urt. v. 22.09.2016 – Az. 2 AZR 276/16, NZA 2017, 175 Rn. 38).
+1. **Genaues Zugangsdatum der Kündigung?** — Tag der persönlichen Aushändigung oder Einwurf in Briefkasten + Postlauf-Vermutung; Zugang = Wissenmüssen-Zeitpunkt, nicht Kenntnisnahme.
+2. **Liegt die Kündigung schriftlich vor?** — § 623 BGB: Schriftform; bei elektronischer Übermittlung (E-Mail, WhatsApp) = nichtig nach § 125 BGB.
+3. **Betriebsgröße und Betriebszugehörigkeit?** — KSchG gilt bei > 10 VZÄ-Beschäftigten (§ 23 KSchG) und Betriebszugehörigkeit > 6 Monate (§ 1 KSchG).
+4. **Handelt es sich um ordentliche oder außerordentliche Kündigung?** — Außerordentliche: § 626 BGB, Zweiwochenfrist für Arbeitgeber ab Kenntnis des Grundes.
+5. **Bestehen besondere Kündigungsschutztatbestände?** — Schwangerschaft/Mutterschutz § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratstätigkeit § 15 KSchG.
+6. **Wurde Betriebsrat angehört?** — § 102 BetrVG: ohne ordnungsgemäße Anhörung = Unwirksamkeit; Anhörungsschreiben anfordern.
+7. **Wurde eine Massenentlassung gemeldet?** — § 17 KSchG bei gleichzeitiger Entlassung von Schwellenwert-Anzahl; Anzeige an Agentur für Arbeit vor Ausspruch zwingend.
+8. **Welche Abfindung ist im Ergebnis erreichbar?** — Orientierung: ½ Bruttomonatslohn je Beschäftigungsjahr (Praxis-Faustformel); Streitwert nach § 42 GKG.
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persönlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+### Primärnormen
+
+| Norm | Inhalt |
+|---|---|
+| § 1 KSchG | Soziale Rechtfertigung: Voraussetzung für Kündigungsschutz |
+| § 4 KSchG | 3-Wochen-Klagefrist ab Zugang der schriftlichen Kündigung |
+| § 5 KSchG | Nachträgliche Zulassung bei unverschuldeter Fristversäumnis |
+| § 7 KSchG | Fiktionswirkung: Fristversäumnis = Kündigung gilt als wirksam |
+| § 9 KSchG | Auflösungsantrag (Abfindung) bei fehlendem Vertrauensverhältnis |
+| § 10 KSchG | Abfindungshöhe: bis 12 Monatsgehälter (bis 15 / 18 bei langer Betriebsz.) |
+| § 15 KSchG | Sonderkündigungsschutz Betriebsratsmitglieder |
+| § 23 KSchG | Betriebsgrößenschwelle: > 10 VZÄ (Neueinstellungen ab 1.1.2004) |
+| § 102 BetrVG | Anhörungspflicht; ohne Anhörung = Unwirksamkeit |
+| § 17 KSchG | Massenentlassungsanzeige; Verstoß = Unwirksamkeit |
+| § 626 BGB | Außerordentliche Kündigung: wichtiger Grund + 2-Wochen-Frist |
+| § 623 BGB | Schriftform; elektronische Form genügt nicht |
+
+### Soziale Rechtfertigung § 1 Abs. 2 KSchG
+
+#### Betriebsbedingte Kündigung
+
+- Dringende betriebliche Erfordernisse: Wegfall des Arbeitsplatzes durch unternehmerische Entscheidung
+- Sozialauswahl § 1 Abs. 3 KSchG: Dauer Betriebszugehörigkeit, Lebensalter, Unterhaltspflichten, Schwerbehinderung; Vergleichsgruppe nach Austauschbarkeit
+- Weiterbeschäftigungs-Pflicht auf freiem Arbeitsplatz prüfen
+
+#### Verhaltensbedingte Kündigung
+
+- Pflichtverletzung
+- Abmahnung grundsätzlich erforderlich (außer bei schwerem Verstoß)
+- Negative Prognose (Wiederholungsgefahr)
+
+#### Personenbedingte Kündigung
+
+- Dauerhafte Eignungsstörung (z.B. Langzeiterkrankung)
+- Prognose negativer Gesundheitsverlauf
+- Interessenabwägung (betriebliche Beeinträchtigung vs. Arbeitnehmer-Schutzwürdigkeit)
+- BAG-Dreistufentest: (1) negative Prognose, (2) erhebliche betriebliche Beeinträchtigung, (3) Interessenabwägung
+
+### Leitentscheidungen
+
+| Gericht | Aktenzeichen | Kernaussage |
+|---|---|---|
+| BAG | 2 AZR 15/15 | 16.07.2015 — Anhörung BR § 102 BetrVG: Vollständigkeit nach subjektiver Determination |
+| BAG | 2 AZR 276/16 | 22.09.2016 — Massenentlassung § 17 KSchG: Verstoß = Unwirksamkeit |
+| BAG | 6 AZR 709/14 | 17.12.2015 — § 623 BGB: elektronische Signatur genügt nicht |
+| BAG | 2 AZR 392/21 | 13.07.2022 — Sozialauswahl: Vergleichsgruppe nach objektiver Austauschbarkeit |
+| BAG | 2 AZR 198/21 | 16.12.2021 — Langzeiterkrankung: Dreistufentest; betriebliche Auswirkung muss konkret dargelegt werden |
+| EuGH | C-134/22 | 13.07.2023 — § 17 KSchG Massenentlassung: Konsultationspflicht vor Kündigungsausspruch |
+| BAG | 2 AZR 43/22 | 02.03.2023 — Verhaltensbedingte Kündigung: Abmahnung entbehrlich nur bei schwerster Pflichtverletzung oder irreparablem Vertrauensbruch |
+| BAG | 2 AZR 214/22 | 25.08.2022 — Sozialauswahl: Altersgruppen-Bildung nach § 1 Abs. 3 S. 2 KSchG zulässig zur Erhaltung ausgewogener Altersstruktur |
+| BAG | 2 AZR 63/22 | 13.10.2022 — Personenbedingte Kündigung: negative Gesundheitsprognose muss auf konkreten Tatsachen beruhen; reine Fehlzeiten-Statistik ist Indiz, nicht ausreichend |
+| BAG | 2 AZR 335/21 | 22.09.2022 — Schriftform § 623 BGB: Zugangszeitpunkt bei Einwurf in Briefkasten; Abwesenheit des Empfängers verzögert Zugang nicht bei regel­mäßiger Postleerung |
+
+## Kommentarliteratur
+
+- APS/Dau, Kündigungsrecht, 6. Aufl. 2022, § 1 KSchG Rn. 1–200 (soziale Rechtfertigung, alle drei Kündigungsarten)
+- ErfK/Oetker, 25. Aufl. 2025, § 1 KSchG Rn. 50 ff. und § 4 KSchG Rn. 1 ff. (Klagefrist, Fiktionswirkung)
+- Schaub/Linck, Arbeitsrechts-Handbuch, 20. Aufl. 2023, § 130 Rn. 1 ff. (Kündigungsschutzklage Prozess-Praxis)
+- HWK/Quecke, 11. Aufl. 2024, § 102 BetrVG Rn. 50 ff. (Anhörungsfehler als Kündigungshindernis)
+
+## Prüfschema Kündigung
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+| Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
+|---|---|---|---|
+| 1 | Schriftliche Kündigung + Zugang | § 623 BGB | Nichtigkeit; Kündigung inexistent |
+| 2 | Klagefrist 3 Wochen ab Zugang gewahrt? | § 4 KSchG | § 7 KSchG-Fiktion; Kündigung wirksam |
+| 3 | Anwendbarkeit KSchG: Dauer ≥ 6 Monate? | § 1 KSchG | Kein KSchG-Schutz |
+| 4 | Betriebsgröße > 10 VZÄ? | § 23 KSchG | Kein KSchG-Schutz |
+| 5 | Sonderkündigungsschutz? (MuSchG, BEEG, SGB IX, BetrVG) | §§ 17 MuSchG, 18 BEEG, 168 SGB IX | Unwirksamkeit ohne behördliche Zustimmung |
+| 6 | BR-Anhörung ordnungsgemäß? | § 102 BetrVG | Unwirksamkeit |
+| 7 | Massenentlassung: § 17 KSchG-Anzeige? | § 17 KSchG | Unwirksamkeit (EuGH C-134/22) |
+| 8 | Außerordentl.: wichtiger Grund + 2 Wochen-Frist? | § 626 BGB | Unwirksamkeit |
+| 9 | Soziale Rechtfertigung: betrieblich/verhaltens-/personenbedingt? | § 1 Abs. 2 KSchG | Kündigung sozialwidrig |
+| 10 | Sozialauswahl korrekt? | § 1 Abs. 3 KSchG | Sozialwidrige Kündigung |
 
 ## Beweislast
 
-- Wirksamkeit der Kündigung trägt der **Arbeitgeber**: Schriftform, Zugang, soziale Rechtfertigung, Anhörung Betriebsrat, ggf. behördliche Zustimmung.
-- Sonderkündigungsschutz und seine Voraussetzungen trägt der **Arbeitnehmer** (z. B. Mitteilung der Schwangerschaft binnen zwei Wochen ab Kenntnis nach § 17 Abs. 2 S. 1 MuSchG).
+| Frage | Beweislast |
+|---|---|
+| Schriftform + Zugang + Termin | Arbeitgeber |
+| Soziale Rechtfertigung (Betrieb, Verhalten, Person) | Arbeitgeber |
+| Sozialauswahl (Vergleichsgruppe, Kriterien, Ergebnis) | Arbeitgeber |
+| Anhörung BR (Inhalt, Vollständigkeit, Frist) | Arbeitgeber |
+| Massenentlassungsanzeige § 17 KSchG | Arbeitgeber |
+| Sonderkündigungsschutz (Schwangerschaft) | Arbeitnehmer (Mitteilung binnen 2 Wochen nach Kenntnis) |
+| Verspätete Zulassung § 5 KSchG | Arbeitnehmer (unverschuldetes Hindernis) |
 
-## Prüfschema
+## Strategische Optionen (vor dem Template entscheiden)
 
-```
-1. Zugang und Form der Kündigung
-   - Schriftlich § 623 BGB; Unterzeichnung durch Berechtigten.
-2. Klagefrist § 4 KSchG
-   - Drei Wochen ab Zugang; verlängert durch nachträgliche Zulassung § 5 KSchG nur bei unverschuldeter Versäumung.
-3. Anwendbarkeit KSchG
-   - § 1 KSchG (Beschäftigungsdauer 6 Monate) und § 23 KSchG (Betriebsgröße über 10 Vollzeit-Äquivalente bei Neueinstellung ab 01.01.2004).
-4. Anhörung Betriebsrat § 102 BetrVG
-   - Form, Inhalt, Stellungnahme.
-5. Soziale Rechtfertigung § 1 Abs. 2 KSchG
-   - Betriebsbedingt: dringende betriebliche Erfordernisse, Sozialauswahl § 1 Abs. 3 KSchG.
-   - Verhaltensbedingt: Pflichtverletzung, vorherige Abmahnung, negative Prognose.
-   - Personenbedingt: dauerhafte Eignungsstörung; lange Krankheit als Sonderfall.
-6. Sonderkündigungsschutz prüfen.
-7. Bei außerordentlicher Kündigung § 626 BGB
-   - Wichtiger Grund; Zwei-Wochen-Frist § 626 Abs. 2 BGB.
-8. Antrag formulieren
-   - Feststellungsantrag § 4 KSchG; ggf. Weiterbeschäftigungsantrag.
-   - Hilfsweise Auflösungsantrag § 9 KSchG mit Abfindung § 10 KSchG.
-```
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Schreibvorlage (Klage)
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mandant will Kündigung anfechten | KSchG-Klage nach § 4 KSchG; Template unten |
+| Variante A — Mandant will Streit vermeiden | Aufhebungsvertrag mit Anwaltsbestätigung statt Klage |
+| Variante B — Arbeitgeber ist verhandlungsbereit | Reine Abfindungsverhandlung vor Klageerhebung — Klage nur als Druckmittel vorbereiten |
+| Variante C — Toxic Workplace / Gesundheitsrisiko | Eigenkündigung mit Sperrzeit-Vermeidungsstrategie (§ 159 SGB III wichtiger Grund prüfen) |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat in das Schema zu pressen.
+
+## Schriftsatzbaustein — Klageschrift
 
 ```
 An das Arbeitsgericht [Ort]
-[Anschrift]                                                          [Ort, Datum]
+[Anschrift]                                        [Ort, Datum]
 
 In dem Rechtsstreit
 
-[Name Arbeitnehmer], [Anschrift]
-                              - Klagepartei -
-Prozessbevollmächtigte: [Kanzlei], …
+[Name, Anschrift Klagepartei]
+                        — Klagepartei —
+Prozessbevollmächtigte: [Kanzlei]
 
 gegen
 
-[Name Arbeitgeber], [Anschrift]
-                              - Beklagte -
+[Name, Anschrift Beklagte]
+                        — Beklagte —
 
 wegen Kündigungsschutz
 
 erheben wir namens und in Vollmacht der Klagepartei
 
-                            Kündigungsschutzklage
+                    Kündigungsschutzklage
 
-und beantragen, das Gericht möge nach mündlicher Verhandlung wie folgt erkennen:
+und beantragen:
 
-1. Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die schriftliche Kündigung der Beklagten vom [Datum], der Klagepartei zugegangen am [Datum], nicht aufgelöst worden ist.
-2. Die Beklagte wird verurteilt, die Klagepartei zu unveränderten Arbeitsbedingungen als [Tätigkeit] weiterzubeschäftigen, hilfsweise bis zur rechtskräftigen Entscheidung dieses Verfahrens.
-3. Hilfsweise: Das Arbeitsverhältnis wird gegen Zahlung einer angemessenen Abfindung gemäß § 9 KSchG aufgelöst.
-4. Die Beklagte trägt die Kosten des Rechtsstreits.
+1. Es wird festgestellt, dass das Arbeitsverhältnis durch
+   die Kündigung vom [Datum], zugestellt am [Datum],
+   nicht aufgelöst worden ist.
 
-Streitwert: drei Bruttomonatsverdienste (§ 42 Abs. 2 S. 1 GKG — Vierteljahresverdienst, Hoechstgrenze).
+2. Die Beklagte wird verurteilt, die Klagepartei zu
+   unveränderten Bedingungen als [Tätigkeit] weiterzu-
+   beschäftigen, hilfsweise bis zur rechtskräftigen
+   Entscheidung.
+   [ggf. Antrag 2 weglassen wenn Mandant Aufhebung statt
+   Weiterbeschäftigung wünscht]
+
+3. Hilfsweise wird das Arbeitsverhältnis nach § 9 KSchG
+   gegen Zahlung einer Abfindung aufgelöst, deren Höhe
+   in das gerichtliche Ermessen gestellt wird.
+   [Hilfsantrag § 9 KSchG entfällt wenn Mandant ausdrücklich
+   Weiterbeschäftigung will]
+
+4. Die Kosten trägt die Beklagte.
+
+Streitwert: [3 × Bruttomonat] EUR (§ 42 Abs. 2 GKG).
+[Streitwert-Variante: 3 × Bruttomonat nach § 42 Abs. 2 GKG
+ODER abweichend wenn Sondervereinbarung oder ao. Kündigung]
 
 Sachverhalt:
-[Anstellungsdaten, Tätigkeit, Lohn, Kündigung, Anhörung Betriebsrat, Sonderkündigungsschutz]
+[Anstellungsdaten, Lohn, Art der Kündigung, Zugang,
+Angaben BR-Anhörung, ggf. Sonderkündigungsschutz]
 
-Rechtliche Bewertung:
-1. Klagefrist § 4 KSchG ist gewahrt; Zugang am [Datum], Klagefrist endet am [Datum].
-2. KSchG ist anwendbar (Beschäftigungsdauer > 6 Monate, Betriebsgröße > 10).
-3. Soziale Rechtfertigung § 1 Abs. 2 KSchG fehlt, weil [Argumente].
-4. Anhörung Betriebsrat § 102 BetrVG ist nicht ordnungsgemäß erfolgt, weil [Argumente].
-5. (ggf.) Sonderkündigungsschutz nach § 17 MuSchG / § 18 BEEG / § 168 SGB IX.
+Zur Klagefrist:
+Die Kündigung ging am [Datum] zu; die Klagefrist endet
+am [Datum + 3 Wochen]. Die Klage geht fristgerecht ein.
 
-Anlagen: Arbeitsvertrag, Kündigungsschreiben, ggf. Schwerbehindertenausweis, …
+Zur Unwirksamkeit:
+1. § 623 BGB: [ggf. Formfehler]
+2. § 102 BetrVG: [Anhörungsmangel]
+3. § 17 KSchG: [ggf. Massenentlassungspflicht verletzt]
+4. Kein wichtiger Grund § 626 BGB: [bei ao. Kündigung]
+5. Keine soziale Rechtfertigung § 1 KSchG: [Begründung]
 
-[Anwalt, Fachanwalt für Arbeitsrecht]
+Anlagen: AV, Kündigungsschreiben, ggf. Schwerb.-Ausweis
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine gütliche Lösung vor dem Gütetermin an und
+sind zu einem konstruktiven Gespräch bereit. Eine
+außergerichtliche Einigung spart beiden Seiten Zeit und
+Kosten und kann für die Klagepartei wirtschaftlich
+attraktiver sein als ein streitiges Verfahren.
+
+Schlussabsatz Variante B (formal-streng):
+Eine außergerichtliche Einigung kommt nur in Betracht,
+wenn ein angemessenes Abfindungsangebot innerhalb von
+7 Tagen vorgelegt wird. Andernfalls werden sämtliche
+rechtlichen Möglichkeiten konsequent ausgeschöpft.
+
+[Rechtsanwalt/-anwaeltin, Fachanwalt fuer Arbeitsrecht]
 ```
 
-## Übergabe
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- Klage am Tag des Zugangs vorbereiten, spätestens am dritten Werktag einreichen — kein Risiko.
-- Zustellung über beA mit Empfangsbekenntnis dokumentieren.
-- Schlichtungstermin (Güteverhandlung § 54 ArbGG) ist Pflichttermin; Vorbereitung Vergleichsoptionen.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0.
+## Fristen — Überblick
+
+| Frist | Dauer | Rechtsgrundlage |
+|---|---|---|
+| Kündigungsschutzklage | 3 Wochen ab Zugang | § 4 KSchG |
+| Nachträgl. Zulassung | 2 Wochen ab Wegfall des Hindernisses | § 5 KSchG |
+| Außerordentl. Kündigung: AG-Frist | 2 Wochen ab Kenntnis des Grundes | § 626 Abs. 2 BGB |
+| SGB IX: Zustimmung Integrationsamt | Vor Kündigung; bei Notfall-Kündigung: 2 Wochen nachträglich | §§ 168, 174 SGB IX |
+| MuSchG: Mitteilungspflicht AG | AG muss bei Kenntnis sofort stoppen | § 17 Abs. 1 MuSchG |
+| Verjährung Schadensersatz | 3 Jahre | §§ 195, 199 BGB |
+
+## Typische Vergleichs-Werte (Praxis)
+
+| Beschäftigungsdauer | Praxis-Abfindung | Rechtlich möglich bis |
+|---|---|---|
+| 1–3 Jahre | 1–3 Bruttomonatsgehälter | § 10 Abs. 1 KSchG: 12 Monatsgehälter |
+| 5–10 Jahre | 3–6 Bruttomonatsgehälter | § 10 Abs. 2: 15 Monatsgehälter (≥ 50 J., ≥ 15 J.) |
+| > 15 Jahre | 6–10 Bruttomonatsgehälter | § 10 Abs. 3: 18 Monatsgehälter (≥ 55 J., ≥ 20 J.) |
+
+## Strategische Empfehlung
+
+| Konstellation | Empfehlung |
+|---|---|
+| Mandant will Weiterbeschäftigung | Klage + Weiterbeschäftigungsantrag; Vergleich nur bei attraktivem Angebot |
+| Mandant will Abfindung | Klage als Verhandlungsmasse; Auflösungsantrag § 9 KSchG vorbereiten |
+| Betriebsrat nicht angehört | Unwirksamkeit feststeht fast sicher; Basis für guten Vergleich |
+| Massenentlassung nicht angezeigt | Starker Klagegrund; § 17 KSchG-Verstöße häufig übersehen |
+| Sonderkündigungsschutz (Schwangerschaft) | Kündigung zunächst nichtig; Zustimmung Gewerbeaufsicht prüfen |
+
+## Anschluss-Skills
+
+- `fachanwalt-arbeitsrecht-betriebsratsanhoerung` — Anhörungsrüge vertiefen
+- `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` — bei paralleler Freistellungs-Frage
+- `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` — bei HinSchG-Bezug der Kündigung
+
+## Quellen
+
+- KSchG §§ 1, 4, 5, 7, 9, 10, 15, 17, 23
+- BGB § 623, § 626
+- BetrVG § 102
+- SGB IX §§ 168, 174
+- MuSchG § 17; BEEG § 18
+- GKG § 42
+- BAG 2 AZR 15/15; BAG 2 AZR 276/16; BAG 6 AZR 709/14
+- BAG 2 AZR 392/21; BAG 2 AZR 198/21; EuGH C-134/22
+- Kleinebrink/Grau/Diepenbruck Kündigung im Arbeitsrecht; APS KSchG-Kommentar

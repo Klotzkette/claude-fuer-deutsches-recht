@@ -1,6 +1,6 @@
 ---
 name: streitwert
-description: "Berechnung und Darlegung des Streitwerts nach GKG und RVG für Zivil-, Handels- und Gesellschaftssachen; Kostenfestsetzungsanträge nach § 104 ZPO. Lädt, wenn es um Streitwert, Gegenstandswert, Gerichtskosten, Anwaltsgebühren oder die Kostenfestsetzung geht."
+description: "Streitwert fuer zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebuehren. Normen: §§ 3 9 ZPO, GKG, RVG. Pruefraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhalt der Ansprueche)."
 ---
 
 # Streitwertfestsetzung – GKG / RVG

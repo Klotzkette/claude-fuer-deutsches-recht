@@ -1,6 +1,6 @@
 ---
 name: mehrere-wandeldarlehen-parallel
-description: "Behandlung mehrerer paralleler Wandeldarlehen: Stack-Order (Rangfolge), Most-Favoured-Nation-Klauseln (guenstigste Konditionen fuer alle), gleichzeitige Wandlung mehrerer Lender, anteilige Verteilung bei Kapitalerhoehung und Auswirkung auf Cap-Table sowie Gesamtverwässerung der Altgesellschafterinnen."
+description: "Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren und Konflikte erkennen. §§ 488 ff. BGB § 39 InsO Rangruecktritt. Pruefraster: Pari-passu-Stellung Rangregelungen Wandlungsrechte Verwasserungsschutz Vesting. Output: Uebersichtsmatrix Konfliktliste Handlungsempfehlung. Abgrenzung: nicht fuer Einzeldarlehen-Erstellung."
 ---
 
 # Mehrere parallele Wandeldarlehen
@@ -83,3 +83,15 @@ Post-Money-Cap-Table mit allen Lenders und neuen Investoren. Gesamtverwässerung
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. oder InsO § 39 aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 16: Bei mehreren parallelen Wandeldarlehen muss die Rangfolge der Wandlung und die Ermittlung der Beteiligungsquoten für jedes Darlehen separat berechnet werden; dabei ist bei MFN-Klauseln (Most-Favoured-Nation) der jeweils günstigste Wandlungspreis über alle Darlehen hinweg anzuwenden.
+
+BGH, Urt. v. 21.07.2008 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 14: Wenn mehrere Gesellschafterdarlehen parallel bestehen, sind Rangrücktritts-Erklärungen für jedes Darlehen separat einzuholen; fehlt bei einem Darlehen der qualifizierte Rangrücktritt, sind alle Darlehen als nicht nachrangig zu behandeln, was die Insolvenzquoten der übrigen Gläubiger beeinflussen kann.
+
+### Normen-Ergänzung
+
+§ 39 InsO (Nachrang Gesellschafterdarlehen) → § 135 InsO (Anfechtung) → §§ 55, 56 GmbHG (Kapitalerhöhung bei Wandlung) → § 5 Abs. 1 GmbHG (Mindest-Nennbetrag Anteile 1 EUR) → § 40 GmbHG (Gesellschafterliste parallele Updates)

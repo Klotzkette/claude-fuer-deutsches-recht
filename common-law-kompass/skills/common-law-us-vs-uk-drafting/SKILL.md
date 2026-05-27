@@ -1,6 +1,6 @@
 ---
 name: common-law-us-vs-uk-drafting
-description: "Trennt British English, English Law, US contract style, Delaware/New York-Konventionen und generisches Business-English."
+description: "Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag fuer UK- oder US-Gegenpartei. Pruefraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl)."
 ---
 
 # UK vs US Drafting
@@ -47,3 +47,88 @@ Mischenglisch aus Schulenglisch, US-Templates und Londoner Klauseln wird geglät
 ## Ton
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Triage vor UK-vs-US-Drafting-Analyse
+
+Kläre vor der Vergleichsanalyse:
+
+1. Liegt ein Dokument vor, das gemischt UK/US-Stil aufweist, oder soll ein neues sauber in einer Tradition entworfen werden?
+2. Governing Law: English law (London), New York, Delaware, oder anderer US-Staat?
+3. Vertragstyp: SPA, Darlehensvertrag, Services Agreement, IP-Lizenz, JV-Agreement?
+4. Counterparty-Erwartung: US-Firm oder Magic-Circle-UK-Firm? (Das praegt Styleerwartungen stark.)
+5. Welche Klauseln wurden bereits als problematisch identifiziert?
+
+## Key Case Law — Interpretation UK vs US
+
+- *Arnold v Britton* [2015] UKSC 36, [2015] AC 1619 — UK Supreme Court betont: klarer Vertragswortlaut schlaegt kontextuelle Auslegung; englisches Recht tendiert zu wortgetreuer Auslegung bei gut gedrafteten Texten.
+- *Investors Compensation Scheme v West Bromwich* [1998] 1 WLR 896 (HL) — Lord Hoffmann: Kontext und Hintergrundwissen beeinflussen Bedeutung; englische Auslegung ist kontextuell, aber nicht rewriting.
+- *Frigaliment Importing Co v BNS International Sales Corp* 190 F Supp 116 (SDNY 1960) — US-Klassiker zu Vertragsauslegung ("What is chicken?"): Trade usage, course of dealing und course of performance als Auslegungsquellen nach UCC.
+- *Pacific Gas & Electric Co v GW Thomas Drayage* 69 Cal 2d 33 (Cal 1968) — US (California) Parol Evidence Rule: extrinsic evidence grundsaetzlich zulaessig zur Klaerung von Ambiguities — ein fundamentaler Unterschied zu klassischer englischer plain-meaning-Auslegung.
+
+## UK vs US Drafting-Vergleichsmatrix
+
+| Punkt | England & Wales | New York / Delaware | Deutsches Fallbeil-Risiko |
+|---|---|---|---|
+| Consideration | Erforderlich; past consideration ungueltig | Erforderlich; "valuable consideration" reicht | Fehler: deutschen Synallagma-Begriff anwenden |
+| Conditions vs Warranties | Condition: Ruecktritt; Warranty: Schadensersatz | Rep & Warranty: oft zusammen, survival-Klausel entscheidend | Warranty als "Garantie i.S.v. § 443 BGB" fehldeuten |
+| Indemnity | Verschuldensunabhaengig, enger Wortlaut | Verschuldensunabhaengig; NY: Anti-Indemnity-Statutes beachten | Als Schadensersatz i.S.v. § 249 BGB behandeln |
+| Material Adverse Change | Court-sceptisch (Akorn v Fresenius - Delaware) | MAC-Trigger schwer auszuloesen; hohe Schwelle | MAC als Force-Majeure-Ersatz missverstehen |
+| Entire Agreement Clause | Sperrt nur collateral warranties, nicht statutory misrep | Merger Clause sperrt Parol Evidence breiter | Als vollstaendigen Haftungsausschluss ueberschaetzen |
+| Good Faith | Kein allgemeiner implied duty (Walford v Miles) | UCC § 1-304: duty of good faith bei UCC-Vertraegen | BGB-Treu-und-Glauben-Mastab anlegen |
+| Limitation of Liability | UCTA reasonableness test | NY: Generally enforceable, aber gross negligence nicht ausschliessbar | Cap zu hoch oder zu niedrig ansetzen |
+| Notice Provisions | Strict compliance gefordert | Substantial compliance oft ausreichend | Notice-Fristen als Formsache behandeln |
+
+## Normen und Quellen
+
+**UK**
+- Sale of Goods Act 1979 ss 12-15 — implied terms conditions/warranties
+- UCTA 1977 ss 2, 3, 11 — limits on exclusion clauses
+- Misrepresentation Act 1967 — rep-Haftung neben Vertragsrecht
+- Companies Act 2006 ss 39-41 — corporate capacity and authority
+
+**US (New York / Delaware)**
+- UCC Art. 1 (§ 1-304 good faith), Art. 2 (§§ 2-313 to 2-318 warranties)
+- Restatement (Second) of Contracts §§ 201-203 (interpretation)
+- DGCL § 102(b)(7) — limitation of director liability
+- NY GOL § 5-1401 — NY choice of law enforceability
+
+**Kommentar**
+- McKendrick, *Contract Law*, 14th ed. 2021 (UK) — Standardlehrbuch
+- Farnsworth, *Farnsworth on Contracts*, 3rd ed. 2004 (US) — Standardwerk
+
+## Output-Template: UK-vs-US-Vergleichsmemo
+
+**Adressat:** Partnerebene oder Mandant — **Tonfall:** praezise, tabellarisch, handlungsorientiert
+
+```
+UK VS US DRAFTING — VERGLEICHSMEMO
+Datum: [DATUM]
+Dokument: [VERTRAGSNAME]
+Governing Law (aktuell): [...]
+Ziel-Jurisdiktion (nach Anpassung): [...]
+Bearbeiter: [NAME]
+
+ZUSAMMENFASSUNG
+Das vorliegende Dokument ist [ueberwiegend UK / ueberwiegend US / gemischt] und weist
+[X] Stellen auf, die jurisdiktionsfremde Elemente enthalten.
+
+KRITISCHE UK/US-KONFLIKTE
+
+Nr. | Klausel | Aktueller Text | Problem | Empfohlene Aenderung | Prioritaet
+----|---------|---------------|---------|---------------------|----------
+ 1  | [§/Abs.] | "[Auszug]" | [UK/US-Konflikt] | "[Neuer Text]" | HOCH
+ 2  | ...
+
+STYLE-ANPASSUNGEN (Nicht-kritisch)
+- [Liste formaler Stilanpassungen: Datumsformat, defined terms, Nummerierung, ...]
+
+JURISDICTION-SPEZIFISCHE CHECKLISTE
+[ ] Consideration/past consideration geprueft (UK)
+[ ] Deed vs Simple Contract: Formerfordernis geklaert
+[ ] UCTA-Reasonableness-Test bestanden (UK)
+[ ] UCC-Warranty-Disclaimer § 2-316 eingehalten (US)
+[ ] MAC-Definition: Delaware-Standard beruecksichtigt (US-M&A)
+[ ] Walford v Miles: No good-faith-obligation clause beachtet (UK)
+
+LOCAL-COUNSEL-EMPFEHLUNG: [Ja / Nein / Fuer Teilbereiche]
+```

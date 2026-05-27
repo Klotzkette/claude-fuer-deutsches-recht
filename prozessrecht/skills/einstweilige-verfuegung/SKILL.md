@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung
-description: "Unterstützt bei Beantragung, Abwehr und Vollziehung einstweiliger Verfügungen nach §§ 935 und 940 ZPO. Deckt Verfügungsanspruch, Verfügungsgrund, Glaubhaftmachung, Widerspruch und Schutzschrift ab. Lädt, wenn ein Mandat eine einstweilige Verfügung, eine Schutzschrift oder die Aufhebung einer Verfügung betrifft."
+description: "Antrag auf einstweilige Verfuegung zur Sicherung zivilrechtlicher Ansprueche formulieren. Normen: §§ 935 940 ZPO. Pruefraster: Verfuegungsanspruch, Verfuegungsgrund, Glaubhaftmachung, Zustaendigkeit, Arrest-Abgrenzung. Output: Antragsschrift einstweilige Verfuegung. Abgrenzung: nicht Berufungsrecht §§ 511 ff. ZPO."
 ---
 
 # Einstweilige Verfügung – §§ 935, 940 ZPO

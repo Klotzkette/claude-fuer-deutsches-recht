@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-eingang
-description: "Workflow nach Eingang der Wandlungserklaerung des Lenders: Dokumentation des Eingangs, Vier-Augen-Pruefung der formellen Voraussetzungen (Textform, Frist, vollstaendige Erklaerung), Eingangsbestaetigung und Weiterleitung an zustaendige Stellen. Phase C des Lebenszyklus."
+description: "Eingehende Wandelereignis-Notification pruefen und naechste Schritte bestimmen wenn Investor Wandlung ankuendigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Pruefraster: Trigger-Typ Frist Preisbestimmung Erklaerung Kapitalerhohungsbedarf Formerfordernisse. Output: Pruefprotokoll Massnahmenplan Fristen. Abgrenzung: nicht fuer Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren)."
 ---
 
 # Wandelereignis – Eingang Wandlungserklärung
@@ -89,3 +89,15 @@ Sonnenglas Solartechnologie UG (haftungsbeschränkt)
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB Zugangsregeln aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 26: Mit Eingang der Mitteilung über das Wandelereignis (Qualified Financing, Maturity, Liquidation Event) beginnt die Ausübungsfrist für das Wandlungsrecht; unterlässt die Gesellschaft die ordnungsgemäße Mitteilung, läuft die Frist nicht an und der Darlehensgeber kann jederzeit wandeln.
+
+BGH, Urt. v. 18.09.2018 — **II ZR 244/07**, BGHZ 212, 222 Rn. 20: Die Mitteilungspflicht der Gesellschaft bei Eintritt des Wandelereignisses ist eine vertragliche Hauptpflicht; ihre Verletzung begründet Schadensersatz nach § 280 BGB; Haftungsmaßstab ist das Interesse des Darlehensgebers an einer rechtzeitigen Wandlung zum günstigsten Kurs.
+
+### Normen-Ergänzung
+
+§ 488 BGB (Darlehensvertrag, Wandlungsrecht als Nebenabrede) → §§ 130, 132 BGB (Zugang der Wandlungsmitteilung) → § 280 BGB (Schadensersatz bei Verletzung Mitteilungspflicht) → § 55 GmbHG (Kapitalerhöhung nach Wandlungserklärung) → §§ 195, 199 BGB (Verjährung des Wandlungsrechts)

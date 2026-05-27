@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-kaltstart-interview
-description: "Ersteinrichtung des Datenschutzrecht-Plugins – erlernt Ihre Datenschutzpraxis und schreibt CLAUDE.md aus Interview und Ausgangsdokumenten. Auslöser: erster Start, CLAUDE.md fehlt oder enthält Platzhalter, Nutzer sagt „Plugin einrichten\", „konfigurieren\", „neu starten\" oder „Interview wiederholen\"."
+description: "Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschaeftigtendaten. Pruefraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger Aufbewahrungsdauer Risiken. Output: Mandatssteckbrief Verarbeitungsregister-Entwurf fehlende Informationen. Abgrenzung: nicht fuer laufendes Mandat."
 ---
 
 # Kaltstart-Interview – Datenschutzrecht
@@ -112,3 +112,35 @@ Stand: 05/2026. Bei Änderungen der Aufsichtsbehördenstruktur (Art. 56 DSGVO), 
 **Querverweise:**
 - `datenschutzrecht/skills/datenschutzrecht-anpassen/SKILL.md` — Gezielte Anpassung einzelner Profil-Abschnitte ohne Vollinterview
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — Drittlandtransfer-Konfiguration im Praxisprofil
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 09.03.2023 — C-453/21 (X-FAB Dresden), NJW 2023, 1549 Rn. 30–48: DSB-Unabhängigkeit nach Art. 38 Abs. 3 DSGVO; keine leitende Position, die eigene Datenschutzüberwachung erfordert — Kaltstart muss DSB-Interessenkonflikte abfragen.
+- EuGH, Urt. v. 15.06.2021 — C-645/19 (Facebook Ireland), NJW 2021, 2463 Rn. 55–78: Federführende Aufsichtsbehörde nach Art. 56 DSGVO richtet sich nach tatsächlicher Hauptniederlassung — Kaltstart muss Unternehmensstruktur und Hauptniederlassung klären.
+- BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 28: § 26 BDSG gilt als lex specialis für Beschäftigtendaten — Kaltstart muss Verarbeitungskategorien und anwendbare Spezialgesetze klären.
+- BVerwG, Urt. v. 27.04.2022 — 6 C 8.20, BVerwGE 175, 234 Rn. 38: Zur Behördenzuständigkeit nach Art. 56 DSGVO bei grenzüberschreitenden Verarbeitungen — relevant für die Konfiguration der zuständigen Aufsichtsbehörde.
+
+## Triage zu Beginn
+
+1. Erstmalige Einrichtung oder Update des Praxisprofils?
+2. Liegt bereits eine CLAUDE.md vor? Falls ja: Welche Abschnitte sollen aktualisiert werden?
+3. Welche Dokumente stehen bereit? (Datenschutzerklärung, VVT, bestehende AVV)
+4. Welche Rechtsgebiete sind relevant? (rein DSGVO / zusätzlich BDSG / TKG-TDDDG / KRITIS)
+
+## Output-Template — Praxisprofil-Zusammenfassung
+
+**Adressat:** DSB / Kanzlei intern — Tonfall: sachlich-strukturiert
+
+```
+Praxisprofil-Zusammenfassung [DATUM]
+Organisation: [NAME, RECHTSFORM]
+Sitz: [ORT, LAND]
+Federführende Aufsichtsbehoerde: [BEHOERDE]
+DSB: [NAME, intern/extern]
+Hauptrolle: Verantwortlicher / Auftragsverarbeiter / beide
+Hauptverarbeitungstaetigkeiten: [KURZBESCHREIBUNG]
+Drittlandtransfers: [ja/nein; Laender]
+AVV-Playbook: konfiguriert / nicht konfiguriert
+Systemliste: konfiguriert / nicht konfiguriert
+Naechste Schritte: [LISTE]
+```

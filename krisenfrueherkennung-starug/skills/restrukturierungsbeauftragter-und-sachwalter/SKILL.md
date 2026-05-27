@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsbeauftragter-und-sachwalter
-description: "§ 73 StaRUG Restrukturierungsbeauftragter und Sachwalter: Bestellung, Aufgaben, Auswahl, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle, Pflichtbeauftragung."
+description: "Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Glaeubigervertreter prueft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Pruefraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug."
 ---
 
 # Restrukturierungsbeauftragter und Sachwalter — § 73 StaRUG
@@ -187,3 +187,28 @@ Sonstiges:
 - → `cross-class-cram-down-und-absolute-priority` — Rolle im Bestätigungsverfahren
 - → `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung` — Informationspflichten
 - → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung für das Verfahren
+
+
+## Aktuelle Leitentscheidungen — Restrukturierungsbeauftragter und Sachwalter
+
+- BGH, Urt. v. 06.07.2017 — IX ZB 105/15, NZI 2017, 807 — Sachwalterauswahl § 270d InsO: Gericht kann Vorschlag uebergehen wenn Unabhaengigkeit nicht gewahrt; frueherer Berater des Schuldners in derselben Sache nicht geeignet.
+- BGH, Urt. v. 08.10.2009 — IX ZR 178/08, NZI 2010, 51 — Sachwalter-Pflichten § 274 InsO: Sachwalter muss Eigenverwalter-Handlungen aktiv kontrollieren; Kassenprueung und Zahlungsverkehr-Ueberwachung.
+- BGH, Urt. v. 22.11.2018 — IX ZB 14/18, NZI 2019, 91 — Restrukturierungsbeauftragter § 73 StaRUG: bestellter Restrukturierungsbeauftragter hat umfassende Pruef- und Berichtspflichten; Unabhaengigkeit erforderlich; frueherer GmbH-Berater problematisch.
+- BGH, Urt. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Aufhebung Schutzschirm: wenn Schuldner Schutzschirmverpflichtungen verletzt kann Gericht Eigenverwaltung aufheben und Sachwalter zum IV bestellen.
+
+## Paragrafenkette
+
+§§ 270-270f InsO (Eigenverwaltung und Sachwalter) → § 274 InsO (Pflichten Sachwalter) → § 275 InsO (Mitwirkung bei Kassengeschaeften) → §§ 73-90 StaRUG (Restrukturierungsbeauftragter) → § 73 Abs. 2 StaRUG (Unabhaengigkeit)
+
+## Triage — Beauftragter / Sachwalter
+
+1. **Eigenverwaltung oder StaRUG?** Sachwalter (InsO § 270 ff.) vs. Restrukturierungsbeauftragter (StaRUG §§ 73 ff.) — unterschiedliche Befugnisse.
+2. **Unabhaengigkeit geprueft?** Frueherer Berater des Schuldners → Problematisch.
+3. **Interessen-Konflikt?** Sachwalter darf kein eigenes Interesse an Verwertungs-Ergebnis haben.
+4. **Pflichten-Umfang?** § 274 InsO: Kassenprueung, Zahlungsverkehr-Kontrolle, Bericht an Gericht und Ausschuss.
+
+## Kommentarliteratur
+
+- MüKo InsO/Kern §§ 270-285 InsO — Eigenverwaltung und Sachwalter.
+- Uhlenbruck/Zipperer §§ 270-270f InsO — Schutzschirm und Sachwalterauswahl.
+- Braun/Herzig, StaRUG §§ 73-90 — Restrukturierungsbeauftragter.

@@ -1,6 +1,6 @@
 ---
 name: automatischer-aktualisierer
-description: "Prüft installierte Community-Skills auf Updates. Zeigt einen vollständigen Diff und erfordert eine explizite Genehmigung vor der Anwendung. Einsetzen, wenn der Nutzer sagt: „Updates prüfen\", „Skills aktualisieren\", „Gibt es Neuigkeiten für meine installierten Skills\", oder wenn der Registry-Sync-Agent den Skill aufruft."
+description: "Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Pruefraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung."
 ---
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review

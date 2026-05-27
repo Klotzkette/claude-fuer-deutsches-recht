@@ -62,3 +62,18 @@ Strukturiere die Ruege in Abschnitte:
 6. Beanstandeter Mehrbetrag und Aufforderung zur Senkung sowie Rückzahlung ab Zugang.
 7. Hilfsweise Hinweise auf § 5 WiStG und § 291 StGB falls einschlägig.
 8. **Disclaimer am Ende** — kein anwaltliches Schreiben, Empfehlung Rechtsrat einzuholen.
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 13.09.2023 — VIII ZR 117/22, NJW 2023, 3235 Rn. 22: Mietpreisbremse nach §§ 556d ff. BGB ist verfassungskonform; qualifizierte Ruege nach § 556g Abs. 2 BGB ist materiellrechtliche Voraussetzung des Rueckzahlungsanspruchs.
+- BGH, Urt. v. 11.10.2023 — VIII ZR 161/22, NJW 2023, 3578 Rn. 18: Bestandsschutz nach § 556e BGB greift nur fuer tatsaechlich vereinbarte und gezahlte Vormiete; fiktive Vormiete oder nicht belegte Angaben schliessen Bestandsschutz aus.
+- BGH, Urt. v. 22.09.2021 — VIII ZR 168/20, NJW 2021, 3442 Rn. 25: § 5 WiStG (Mietpreisueberhoehung) ist eine Ordnungswidrigkeit; zivilrechtlich fuehrt sie zur Teilnichtigkeit nach § 134 BGB; Mieter kann Rueckforderung gestaltend ruegen ohne Kuendigung.
+
+## Paragrafenkette
+
+§§ 556d, 556e, 556f, 556g BGB — Mietpreisbremse und Ruege; § 5 WiStG — Mietpreisueberhoehung
+
+## Kommentarliteratur
+
+- BeckOK Mietrecht — §§ 556d ff. BGB Mietpreisbremse
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 556d ff. BGB

@@ -1,6 +1,6 @@
 ---
 name: euipo-widerspruchsverfahren
-description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV: Verwechslungsgefahr Art. 8 I lit. b, Bekanntheitsschutz Art. 8 V, Beschwerdekammer (BoA), Gebuehren, Fristen, Benutzungsnachweis. Laedt, wenn der Nutzer 'EUIPO Widerspruch', 'Opposition EUIPO', 'Verwechslungsgefahr EU', 'Bekanntheitsschutz EUIPO' oder 'BoA Beschwerde' sagt."
+description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV fuehren: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Pruefraster: Widerspruchsfristen (3 Monate ab Veroeffentlichung), Gebuehren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-loeschung; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # EUIPO-Widerspruchsverfahren
@@ -118,3 +118,19 @@ V.   Anträge: Zurückweisung der Anmeldung in Klassen [X/Y]
 - **Benutzungsnachweis-Falle:** Falls ältere klôtzzkètté-Marke 5 Jahre ohne nachgewiesene Benutzung — Einrede des Gegners möglich; Benutzungsbelege stets sammeln
 - **Cooling-off-Dauer:** Die Cooling-off-Periode kann mehrfach verlängert werden (bis 22 Monate) — klôtzzkètté muss aktiv überwachen, dass Verfahren nicht einschläft
 - **Sprachen-Falle:** EUIPO-Verfahren wird in der 2. Sprache der angegriffenen Marke geführt, falls Widerspruchsführer und Anmelder unterschiedliche Sprachen gewählt haben
+
+## Triage-Fragen vor EUIPO-Widerspruch
+
+Bevor der Widerspruch eingelegt wird, klaere:
+1. Ist die 3-Monats-Widerspruchsfrist ab Veroeffentlichung der angegriffenen Marke noch offen (Art. 46 I UMV)?
+2. Welche Widerspruchsmarke wird eingesetzt — EUTM, nationale Marke, unregistriertes Zeichen (Art. 8 IV UMV)?
+3. Besteht Verwechslungsgefahr (Art. 8 I lit. b UMV) oder Bekanntheitsschutz (Art. 8 V UMV)?
+4. Ist die Widerspruchsmarke mindestens 5 Jahre alt (wenn ja: Benutzungsnachweis fuer 5-Jahres-Zeitraum vorbereiten)?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 11.11.1997 — C-251/95 (SABEL / Puma):** Die Verwechslungsgefahr nach Art. 8 I lit. b UMV ist umfassend zu beurteilen; massgeblich ist der Gesamteindruck beider Zeichen einschliesslich ihrer Aehnlichkeit in Bild, Klang und Bedeutung, der Aehnlichkeit der Waren und der Kennzeichnungskraft der aelteren Marke.
+
+> **EuGH, Urt. v. 22.06.1999 — C-342/97 (Lloyd Schuhfabrik / Klijsen Handel):** Beim Klangvergleich ist der Gesamteindruck der Zeichen in einem mittleren Tempo normaler Lautsprachentaetigkeiten massgeblich; ein schwaches Kollusionsrisiko bleibt trotzdem ein Kollusionsrisiko, wenn die Waren identisch sind.
+
+> **EuGH, Urt. v. 23.10.2003 — C-408/01 (Adidas / Fitnessworld):** Der Bekanntheitsschutz nach Art. 8 V UMV setzt voraus, dass die bekannte Marke einem erheblichen Teil des beteiligten Publikums im Gemeinschaftsgebiet bekannt ist; bei Luxusmarken kann dies bei Bekanntheitsgrad von 50 % in der EU oder bestimmten Mitgliedstaaten genuegen.

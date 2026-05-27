@@ -1,6 +1,6 @@
 ---
 name: ki-governance-kaltstart-interview
-description: "Führt das Erstgespräch zur KI-Governance durch — ermittelt KI-Inventar, Rolle im KI-Lieferkette (Anbieter/Betreiber gem. Art. 3 KI-VO), regulatori- schen Anwendungsbereich und schreibt das Praxisprofil in die Konfiguration. Lädt, wenn der Nutzer „KI-Governance einrichten\", „KI-Inventar erfassen\", „Plugin konfigurieren\", „Erstgespräch KI\" oder „AI Act Anwendungsbereich prüfen\" sagt oder die Konfigurationsdatei fehlt bzw. `[PLATZHALTER]` enthält."
+description: "KI-Governance-Plugin erstmalig einrichten oder Inventar der KI-Systeme im Unternehmen erfassen und AI-Act-Anwendungsbereich pruefen. Fuehrt Erstgespraech durch ermittelt KI-Inventar Rolle im KI-Lieferkette (Anbieter/Betreiber Art. 3 KI-VO 2024/1689) regulatorischen Anwendungsbereich. Normen EU-KI-VO 2024/1689 Art. 3 Rolle Art. 6 Risikoklasse Hochrisiko-KI Anhang III. Output Praxisprofil in Konfiguration mit KI-Inventar Rollenklassifizierung und Governance-Framework. Abgrenzung: ki-governance-anpassen fuer spaetere Einzelaenderungen ki-inventar fuer laufende Inventar-Pflege."
 ---
 
 # Erstgespräch KI-Governance
@@ -170,3 +170,59 @@ Mittelständischer Softwarehersteller (500 MA, Sitz Deutschland, Kunden EU/UK):
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 5 ff.**
 - Ausgaben auf Basis von Gesprächsangaben: `[ANGABEN AUS INTERVIEW —
   anwaltliche Prüfung empfohlen]` kennzeichnen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Ersterfassung von KI-Systemen muss Art. 22 DSGVO-Scoring-Kontext beruecksichtigen; Anbieter-/Betreiber-Rolle bestimmt Pflichtumfang nach KI-VO.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber algorithmischer Entscheidungssysteme muss Entscheidungslogik offenlegen — gilt fuer jedes im Kaltstart erfasste KI-System.
+- BGH, Beschl. v. 26.11.2020 — I ZB 58/19, GRUR 2021, 612 Rn. 18: Haftungsmasstabe fuer automatisierte Informationssysteme; bei Ersterfassung Haftungsregime klaren.
+- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13, NJW 2020, 300: Grundrechtliche Schutzpflichten gegenueber algorithmischen Systemen; Erstgespräch muss regulatorischen Fussabdruck vollstaendig erfassen.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 3 Nr. 3/4 KI-VO — Definitionen Anbieter / Betreiber
+- Art. 5 KI-VO — verbotene Praktiken (ab 02.02.2025)
+- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
+- Art. 9-15 KI-VO — Anbieterpflichten
+- Art. 25-29 KI-VO — Betreiberpflichten
+
+## Triage zu Beginn
+1. Handelt das Unternehmen als Anbieter, Betreiber, Importeur oder Haendler (Art. 3 KI-VO)?
+2. Welche KI-Systeme sind bereits produktiv — und welche sind in Planung?
+3. Welche Regimes sind anwendbar — KI-VO, DSGVO, DSA, sektorale Regeln (BSIG, SGB V)?
+4. Gibt es bereits eine KI-Nutzungsrichtlinie oder Folgenabschaetzungen?
+5. Wer ist im Governance-Team — KI-Beauftragter, DSB, Betriebsrat, Eskalationskette?
+
+## Output-Template — Praxisprofil-Ersterfassung
+**Adressat:** KI-Beauftragter / Rechtsabteilung — Tonfall: strukturiert, vollstaendig
+```
+PRAXISPROFIL KI-GOVERNANCE — ERSTERFASSUNG
+[DATUM] — [UNTERNEHMEN / NAME MANDANT]
+
+1. UNTERNEHMENS-PROFIL
+   Branche: [BRANCHE]
+   Jurisdiktionen: [LAENDER]
+   KI-Rolle nach Art. 3 KI-VO: [ANBIETER / BETREIBER / IMPORTEUR / HAENDLER]
+
+2. KI-INVENTAR (Einstieg)
+   | System | Zweck | Rolle | Risikoklasse | Status |
+   |---|---|---|---|---|
+   | [SYSTEM 1] | [ZWECK] | [ROLLE] | [KLASSE] | [STATUS] |
+
+3. REGULATORISCHER FUSSABDRUCK
+   - KI-VO: [Anwendbar — Hochrisiko: Ja/Nein / Nicht anwendbar]
+   - DSGVO Art. 22: [Anwendbar / Nicht anwendbar]
+   - DSA: [Anwendbar / Nicht anwendbar]
+   - Sektorale Regeln: [BSIG / SGB V / ...]
+
+4. GOVERNANCE-TEAM
+   KI-Beauftragter: [NAME]
+   DSB: [NAME]
+   Eskalation: [NAME / ROLLE]
+
+5. RISIKOEINSTELLUNG: [KONSERVATIV / MITTIG / PROGRESSIV]
+
+6. NAECHSTE SCHRITTE
+   1. [MASSNAHME bis DATUM]
+
+Erstellt: [NAME], [DATUM]
+Naechste Pruefung: [DATUM]
+```

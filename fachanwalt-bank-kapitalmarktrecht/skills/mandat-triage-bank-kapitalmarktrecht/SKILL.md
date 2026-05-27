@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bank-kapitalmarktrecht
-description: Strukturierte Eingangs-Abfrage fuer bank- und kapitalmarktrechtliche Mandate. Klaert Sachgebiet (Anlageberatungsfehler Kapitalmarktinformationshaftung Prospekthaftung Kreditfinanzierung Verbraucherkredit Bauerfinanzierung Bank-AGB Konto-Sperre Kontopfaendung Bankenrettung BaFin-Aufsicht Geldwaesche § 261 StGB AGB-Banken-Kunde Sparbuch Schwarzgeld) Mandantenrolle (Anleger Kreditnehmer Verbraucher Bank Vorstand Compliance Beauftragter) Sofort-Fristen-Check Verjaehrung drei Jahre § 195 BGB Hoechstfrist zehn Jahre § 199 Abs. 3 BGB. Eskalation Telefon-Sofort bei Kontosperrung BaFin-Anordnung. Routing zu anlageberatungsfehler-pruefen.
+description: "Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen. Verjaehrung §§ 195 199 Abs. 3 BGB 3 Jahre / 10 Jahre. Normen je nach Routing. Pruefraster Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation Kontosperrung BaFin-Anordnung. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-bank-kapitalmarktrecht-orientierung (Ueberblick)."
 ---
 
 # Mandat-Triage Bank- und Kapitalmarktrecht
@@ -133,3 +133,49 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 - KWG
 - ZPO §§ 850k 899-910 (PKoFoG)
 - BGH XI. Zivilsenat — Bond Lehman Ille Kickback
+
+## Vertiefung: Rechtsprechung und erweiterte Triage
+
+### Schluessel-Leitsaetze fuer Triage Bank-/Kapitalmarktrecht
+
+- BGH, Urt. v. 06.07.1993 - XI ZR 12/93, BGHZ 123, 126 (Bond-Urteil) — Anleger- und anlagegerechte Beratung als Grundpflicht; Fehler begruendet § 280 BGB Schadensersatz.
+- BGH, Urt. v. 19.12.2006 - XI ZR 56/05, BGHZ 170, 226 (Kickback II) — Aufklaerungspflicht ueber Rueckverguetungen; Fehler = Pflichtverletzung.
+- BGH, Urt. v. 14.01.2020 - XI ZR 143/19, NJW 2020, 1274 — Verbraucherdarlehen § 498 BGB: Kuendigung erfordert qualifizierten Verzug.
+- BGH, Urt. v. 25.04.2023 - XI ZR 225/21, NJW 2023, 2037 — Negativzins-Klausel AGB unwirksam bei fehlender Transparenz.
+
+### Erweiterte Triage-Matrix
+
+| Konstellation | Sofortmassnahme | Folge-Skill |
+|---|---|---|
+| Widerruf Immobiliendarlehen, Frist laeuft | SOFORT Widerruf erklaeren | `widerrufsjoker-immobiliendarlehen` |
+| Anlageberatung, Verjaebrung naht | Ombudsmann SOFORT (hemmt Verjaebrung) | `anlageberatungsfehler-pruefen` |
+| Kreditkuendigung ohne § 498-Voraussetzungen | Widerspruch + Feststellungsklage | `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung` |
+| SCHUFA-Eintrag rechtswidrig | Loeschungsverlangen Art. 17 DSGVO | `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` |
+| Cybertrading-Betrug, < 8 Wochen | SEPA-Recall SOFORT | `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` |
+| MiCA-Stablecoin BaFin-Lizenz | Whitepaper + Antrag vorbereiten | `fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin` |
+| Negativzins-Klausel AGB | AGB-Kontrolle § 307 BGB + Rueckforderung | `anlageberatungsfehler-pruefen` |
+
+### Entscheidungsbaum Verjaebrung
+
+Ist die Verjaebrungsfrist bekannt?
+→ NEIN: Datum der Beratung/Schaden + 3 Jahre = § 195 BGB; aber max. 10 Jahre ab Entstehung § 199 Abs. 3 BGB
+→ JA und < 6 Monate: Ombudsmann-Antrag zur Hemmung SOFORT; parallel Klageschrift vorbereiten
+→ JA und > 10 Jahre: Verjaebrung eingetreten; Sonderfall Arglist § 199 Abs. 3 Nr. 2 BGB pruefen
+
+### Output-Template Triage-Protokoll
+**Adressat:** Intern — Tonfall: schnell, strukturiert
+
+```
+TRIAGE-PROTOKOLL Bank-/Kapitalmarktrecht
+=========================================
+Eingangsdatum:       [TT.MM.JJJJ]
+Mandant:             [NAME]
+Sachgebiet:          [Anlageberatung / Verbraucherkredit / Kreditkuendigung ...]
+Sofortfrist:         [DATUM + RECHTSGRUNDLAGE]
+Verjaebrung:         [3 Jahre ab XX.XX.XXXX]
+Streitwert:          EUR [BETRAG]
+Prioritaet:          [ROT / GELB / GRUEN]
+Folge-Skill:         [SKILL-NAME]
+Naechster Schritt:   [MASSNAHME] bis [DATUM] durch [PERSON]
+=========================================
+```

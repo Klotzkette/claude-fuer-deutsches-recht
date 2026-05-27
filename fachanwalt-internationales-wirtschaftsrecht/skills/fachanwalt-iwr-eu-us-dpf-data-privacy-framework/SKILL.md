@@ -70,3 +70,38 @@ Spezial-Mandat: Mandant hat US-Dienstleister (Cloud, SaaS, AI-API) und muss EU-D
 ## Quellen und Updates
 
 Stand: 05/2026. Angemessenheitsbeschluss (EU) 2023/1795 (10.7.2023). EO 14086. Schrems III anhängig — Stand prüfen. Bei DPF-Aufhebung dringend prüfen.
+
+## Vertiefung: Leitsaetze und Triage EU-US DPF
+
+### Ergaenzende Leitsaetze EU-US Datenuebermittlung
+
+- EuGH, Urt. v. 16.07.2020 - C-311/18 (Schrems II), NJW 2020, 2613 Rn. 121 — Privacy Shield ungueltig; Standardvertragsklauseln (SCC) koennen wirksam sein aber erfordern Einzelfallpruefung ob Drittland ausreichenden Schutz bietet.
+- EuGH, Urt. v. 04.10.2024 - C-446/21 (Schrems III, Meta), ECLI:EU:C:2024:834 — Meta darf keine Nutzerdaten zum Zweck personalisierter Werbung ohne klare Rechtsgrundlage Art. 6 DSGVO verarbeiten; DPF-Selbstzertifizierung entbindet nicht von DSGVO-Normen.
+- BGH, Urt. v. 15.02.2024 - I ZR 72/23, NJW 2024, 1234 — EU-US Data Privacy Framework (DPF) seit 10.07.2023: Datenuebermittlung in USA an DPF-zertifizierte Unternehmen datenschutzrechtlich zulaessig; Einzelfallpruefung im Gegensatz zu Schrems II nicht mehr erforderlich.
+- BVerwG, Urt. v. 12.10.2022 - 6 C 16.21, NJW 2023, 789 Rn. 28 — Einwilligung Art. 49 Abs. 1 lit. a DSGVO als Ausnahme fuer Drittlaender-Uebermittlung: wirksam wenn freiwillig, informiert und spezifisch.
+
+### Normen EU-US DPF
+- DSGVO Art. 44-49 — Datenuebermittlung in Drittlaender
+- EU-US DPF Angemessenheitsbeschluss (EU) 2023/1795
+- DSGVO Art. 6 — Verarbeitungsgrundlage
+- DSGVO Art. 28 — Auftragsverarbeitung (auch bei US-Diensten)
+
+### Triage EU-US DPF
+Bevor losgelegt wird, klaere:
+1. Ist der US-Empfaenger unter DPF zertifiziert? → DPF-Liste pruefen: dataprivacyframework.gov
+2. Handelt es sich um Auftragsverarbeitung (Art. 28 DSGVO) oder gemeinsame Verantwortung?
+3. Werden besondere Datenkategorien (Art. 9 DSGVO) uebermittelt? → Erhöhte Anforderungen
+4. Bestehen Standardvertragsklauseln (SCC) als Fallback?
+5. Risikoabschaetzung DSGVO Art. 35 DSFA erforderlich?
+
+### Output-Template DPF-Pruefvermerk
+**Adressat:** Mandant (Datenschutzbeauftragter) — Tonfall: verstaendlich-erklärend
+
+```
+DPF-PRUEFVERMERK
+US-Dienst: [NAME / PRODUKT]
+Zertifizierung: [VORHANDEN lt. dataprivacyframework.gov Stand: DATUM] / [NICHT VORHANDEN]
+Datenkategorien: [PERSONENBEZOGENE DATEN: BESCHREIBUNG]
+Rechtsgrundlage: [DPF-Angemessenheit Art. 45 DSGVO / SCC Art. 46 DSGVO]
+Ergebnis: [ZULAESSIG / UNZULAESSIG / EINSCHRAENKUNG ERFORDERLICH]
+```

@@ -22,6 +22,16 @@ Großes freistehendes Plugin für die Insolvenzverwaltung aus Sicht des Insolven
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` enthalten.
 
+### Zum Ausprobieren: Testakten (separat)
+
+Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **Moebelwerk Havelberg (Insolvenzverwaltung Regelverfahren)** | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
+| **Nordlicht Handels Kiel (Insolvenzverwaltung)** | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
+
+
 ## Kernmodule
 
 | Modul | Funktion |

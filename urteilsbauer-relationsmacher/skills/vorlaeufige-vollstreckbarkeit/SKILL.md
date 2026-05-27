@@ -1,9 +1,74 @@
 ---
 name: vorlaeufige-vollstreckbarkeit
-description: "Bestimmt die Anordnung zur vorlaeufigen Vollstreckbarkeit nach Paragrafen 708 bis 720a ZPO: Standardformel Paragraf 709 ZPO Sicherheitsleistung 110 Prozent kleinere Beschwer Paragraf 711 ZPO Paragraf 713 ZPO Versaeumnisurteil Paragraf 708 Nr. 2 ZPO Schutzantraege."
+description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Pruefraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-pruefen."
 ---
 
 # Vorläufige Vollstreckbarkeit
+
+
+## Triage zu Beginn
+
+1. Welcher Entscheidungstyp liegt vor — Endurteil, Versäumnisurteil, Anerkenntnisurteil, Beschluss?
+2. Wie hoch ist der Verurteilungsbetrag — bis 1.500 EUR (§ 708 Nr. 11 ZPO) oder darüber (§ 709 ZPO)?
+3. Ist Berufung statthaft (Beschwer > 600 EUR) — wenn nein: § 713 ZPO (ohne Sicherheit)?
+4. Hat die unterlegene Partei einen Schutzantrag nach § 711 ZPO gestellt?
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 05.12.2012 - III ZB 47/12, NJW 2013, 1232 — § 713 ZPO setzt voraus, dass keine Berufung statthaft ist; Gericht muss Beschwer prüfen, bevor Vollstreckbarkeit ohne Sicherheit ausgesprochen wird.
+- BGH, Beschl. v. 19.04.2006 - VIII ZB 140/05, NJW 2006, 2263 — § 711 ZPO Schutzantrag muss vor Verkündung gestellt werden; nachträglicher Antrag ist unzulässig.
+- BGH, Urt. v. 17.09.1998 - I ZR 184/97, NJW 1999, 654 — § 709 ZPO Sicherheitsleistung von 110 Prozent ist Regelfall; Abweichung bedarf besonderer Begründung.
+- BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — Vollstreckungsschutz nach § 719 ZPO bei Berufung möglich, wenn Vollstreckung zu nicht zu ersetzenden Nachteilen führt.
+
+## Zentrale Normen
+
+- § 708 ZPO — Vollstreckbarkeit ohne Sicherheitsleistung (Nr. 1-11 Aufzählung)
+  - Nr. 2: Versäumnisurteil
+  - Nr. 4: Anerkenntnisurteil
+  - Nr. 11: Endurteile bis 1.500 EUR
+- § 709 ZPO — Vollstreckbarkeit gegen Sicherheitsleistung von 110 Prozent (Regel)
+- § 711 ZPO — Schutzantrag der unterliegenden Partei
+- § 713 ZPO — keine Sicherheit bei fehlendem Rechtsmittel (Beschwer ≤ 600 EUR)
+- § 719 ZPO — Einstellung der Vollstreckung bei Berufung
+
+## Kommentarliteratur
+
+- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 708 Rn. 1-25, § 709 Rn. 1-15, § 713 Rn. 1-10
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 711 Rn. 1-10 (Schutzantrag)
+- MüKo-ZPO/Götz, 6. Aufl. 2022, § 719 Rn. 1-15 (Vollstreckungsschutz)
+
+## Schritt-für-Schritt-Entscheidungsbaum
+
+```
+Entscheidungstyp?
+├── Versäumnisurteil → § 708 Nr. 2 ZPO (ohne Sicherheit)
+├── Anerkenntnisurteil → § 708 Nr. 4 ZPO (ohne Sicherheit)
+├── Endurteil bis 1.500 EUR → § 708 Nr. 11 ZPO (ohne Sicherheit)
+└── Endurteil über 1.500 EUR:
+    ├── Berufung statthaft (Beschwer > 600 EUR)? → § 709 ZPO (110 Prozent Sicherheit)
+    │   └── Schutzantrag § 711 ZPO gestellt? → § 711 ZPO Formulierung ergänzen
+    └── Berufung nicht statthaft (Beschwer ≤ 600 EUR, keine Zulassung)? → § 713 ZPO (ohne Sicherheit)
+```
+
+## Output-Template
+
+**Adressat:** Urteil → Tenor (Ziff. 3) — Tonfall: formal-amtlich
+
+```
+## Vorläufige Vollstreckbarkeit
+
+**Standardfall § 709 ZPO:**
+"Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn
+Prozent des jeweils zu vollstreckenden Betrages."
+
+**Bei § 713 ZPO (keine Berufung):**
+"Das Urteil ist ohne Sicherheitsleistung vorläufig vollstreckbar."
+
+**Bei Schutzantrag § 711 ZPO:**
+"Der Beklagten wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von
+einhundertzehn Prozent des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht die
+Klägerin vor der Vollstreckung Sicherheit in gleicher Höhe leistet."
+```
 
 ## Standardregelung
 

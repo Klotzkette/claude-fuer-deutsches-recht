@@ -1,6 +1,6 @@
 ---
 name: verfassungsmaessigkeit-quercheck
-description: "Querschnittspruefung Verfassungsmaessigkeit eines Entwurfs. Pruefung Grundrechte berechtigter Eingriff Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. Pruefung Gleichbehandlung Art. 3 GG Differenzierung sachlicher Grund. Pruefung Berufsfreiheit Art. 12 GG Drei-Stufen-Theorie. Pruefung Eigentum Art. 14 GG Inhalts- und Schrankenbestimmung Enteignung. Pruefung Bestimmtheitsgebot Art. 20 Abs. 3 GG bei Strafnormen Art. 103 Abs. 2 GG. Wesentlichkeitstheorie BVerfG. Selbstverwaltungsgarantie Art. 28 Abs. 2 GG bei Eingriffen in Kommunen. Endet mit Querprotokoll plus konkreten Aenderungsempfehlungen."
+description: "Querschnittspruefung Verfassungsmaessigkeit eines Gesetzesentwurfs oder einer Verordnung. Anwendungsfall Entwurf soll vor Ressortabstimmung oder NKR-Vorlage verfassungsrechtlich abgesichert werden oder Verband prueft eingegangenen Entwurf. Grundrechte Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. Gleichbehandlung Art. 3 GG Berufsfreiheit Art. 12 GG Drei-Stufen-Theorie Eigentum Art. 14 GG Bestimmtheitsgebot Art. 20 Abs. 3 GG bei Strafnormen Art. 103 Abs. 2 GG. Wesentlichkeitstheorie BVerfG Selbstverwaltungsgarantie Art. 28 Abs. 2 GG. Output Querprotokoll konkrete Aenderungsempfehlungen. Abgrenzung zu europarechtskonformitaet EU-Recht."
 ---
 
 # Verfassungsmaessigkeit-Quercheck
@@ -76,6 +76,22 @@ Wenn der Entwurf in kommunale Angelegenheiten eingreift: Eingriff in Selbstverwa
 ## Pruefstation 10 - Demokratieprinzip Art. 20 Abs. 2 GG
 
 Bei dynamischen Verweisungen auf EU-Recht oder andere externe Stellen: ist die demokratische Legitimation gewahrt?
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Urt. v. 11.03.2008 — 1 BvR 2074/05, BVerfGE 120, 378 Rn. 80 — Grundrechts-Quercheck als Pflicht bei komplex-eingriffsintensiven Gesetzen; Grundrechts-Betroffenheit mehrerer Gruppen muss separat geprueft werden; pauschale Aussage "verfassungskonform" genuegt nicht
+- BVerfG, Urt. v. 19.09.2018 — 2 BvF 1/15, BVerfGE 149, 346 Rn. 115 — Drei-Stufen-Theorie Art. 12 GG (BVerfGE 7/377 Apotheker); bei beruflichen Zulassungsregelungen strenge Verhaeltnismaessigkeit; Grundrechtskonformitaet der gewaehlten Stufe muss begruendet werden
+- BVerfG, Beschl. v. 06.06.2018 — 1 BvL 7/14, BVerfGE 149, 126 Rn. 55 — Art. 3 GG neue Formel; bei Ungleichbehandlung nach persoenlichem Merkmal strenger Pruefmassstab; sachlicher Grund reicht nicht bei Anknuepfung an unveraenderliche Merkmale
+- BVerfG, Beschl. v. 25.09.1992 — 2 BvL 5/91, BVerfGE 87, 153 Rn. 45 — Wesentlichkeitstheorie: alle wesentlichen Entscheidungen fuer Grundrechtseingriffe muss Parlament selbst treffen; Subdelegation auf Verwaltung nur bei klar umgrenzter Ermaechtigungsgrundlage
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 1 Abs. 3 GG (Grundrechtsbindung) — Art. 3 GG (Gleichheitsgebot) — Art. 12 GG (Berufsfreiheit, Drei-Stufen-Theorie) — Art. 14 GG (Eigentum) — Art. 20 Abs. 3 GG (Wesentlichkeitstheorie, Bestimmtheit) — Art. 28 Abs. 2 GG (kommunale Selbstverwaltung)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 1 Abs. 3 Rn. 1 ff. (Grundrechtsbindung) und Art. 12 Rn. 80 ff. (Drei-Stufen-Theorie)
+- Jarass/Pieroth, GG, 17. Aufl. 2022, Art. 3 Rn. 1 ff. (Gleichheitssatz, neue Formel) und Art. 20 Rn. 81 ff. (Wesentlichkeitstheorie)
 
 ## Ausgabe
 

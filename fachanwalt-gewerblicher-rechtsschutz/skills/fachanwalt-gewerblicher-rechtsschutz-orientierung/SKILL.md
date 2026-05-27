@@ -1,61 +1,91 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-orientierung
-description: Orientierung im gewerblichen Rechtsschutz. FAO § 14k Voraussetzungen 80 Faelle davon 50 rechtsfoermlich. MarkenG DesignG UWG PatG GebrMG. UrhG-Schnittstellen. Typische Mandate Markenanmeldung Markenstreit Designverletzung UWG-Abmahnung einstweilige Verfuegung lizenzanaloger Schadensersatz Lizenzvertrag. Standardliteratur Ingerl Rohnke Eichmann Kur Eisenfuehr Schennen Koehler Bornkamm Feddersen. Schnittstellen Plugin urheberrecht.
+description: "Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Pruefraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbeduerfnis. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Orientierung Gewerblicher Rechtsschutz
 
-## Kaltstart-Rückfragen
+## Triage: Welches Schutzrecht ist betroffen?
 
-1. Welches Schutzrecht ist betroffen (Marke, Design, Gebrauchsmuster, Patent) oder geht es um lauterkeitsrechtliche Wettbewerbsverstöße (UWG)?
-2. Mandantenrolle: Schutzrechtsinhaber, Verletzer, Lizenznehmer, Konkurrent?
-3. Geografischer Schutzumfang: nationale Eintragung (DPMA), Unionsmarke/Gemeinschaftsgeschmacksmuster (EUIPO), internationale Registrierung (WIPO)?
-4. Liegt bereits eine Abmahnung oder einstweilige Verfügung vor (Frist beachten)?
-5. Gibt es einen Lizenzvertrag oder eine Vorbenutzungslage zu prüfen?
+```
+Marke (Wort, Bild, Form)?
+  → MarkenG §§ 3 ff.; Ansprueche §§ 14 ff. MarkenG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
+
+Design (Erscheinungsform Erzeugnis)?
+  → DesignG §§ 2 ff.; Ansprueche §§ 38 ff. DesignG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-designverletzung
+
+Patent / Gebrauchsmuster?
+  → PatG §§ 1 ff.; GebrMG §§ 1 ff.; Nichtigkeit §§ 21, 81 PatG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage
+
+Unlauterer Wettbewerb?
+  → UWG §§ 3 ff.; Abmahnung §§ 8, 13 UWG
+  → Skill: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
+
+Domain-Streit?
+  → MarkenG § 14 + § 15; UDRP; Skript: takedown-anweisung
+
+Keine Eintragungs-Barriere vorhanden?
+  → Erst Recherche: markenrecherche / fto-triage
+```
 
 ## FAO § 14k — Voraussetzungen
 
 - **Theoretischer Lehrgang:** 120 Zeitstunden gewerblicher Rechtsschutz (FAO § 4).
-- **Praktischer Nachweis:** 80 Fälle in den letzten drei Jahren, davon mindestens 50 rechtsförmlich (§ 5 Abs. 1 lit. l FAO).
-- **Bereiche § 14k FAO:** Marken-, Design-, Patent- und Gebrauchsmusterrecht, Sortenschutz, Wettbewerbsrecht (UWG), Bezüge zum Urheberrecht und Kartellrecht.
+- **Praktischer Nachweis:** 80 Fälle in den letzten drei Jahren, davon mindestens 50 rechtsfoermlich (§ 5 Abs. 1 lit. l FAO).
+- **Bereiche § 14k FAO:** Marken-, Design-, Patent- und Gebrauchsmusterrecht, Sortenschutz, Wettbewerbsrecht (UWG), Bezuege zum Urheberrecht und Kartellrecht.
 
-## Maßgebliche Normen
+## Massgebliche Normen
 
-- **MarkenG:** Schutzfähigkeit §§ 3, 8 MarkenG; Schutzdauer §§ 47 ff.; Verletzungsansprüche §§ 14, 18, 19; Löschungsverfahren §§ 49 ff.
-- **DesignG:** Schutzfähigkeit Neuheit und Eigenart §§ 2 ff. DesignG; Schutzdauer 25 Jahre § 27 DesignG; Ansprüche §§ 38 ff.
-- **UWG:** Generalklausel § 3 UWG; konkrete Tatbestände §§ 3a-7 UWG; Anspruchsberechtigte und Anspruchsinhalte §§ 8 ff. UWG; Aufwendungsersatz § 13 Abs. 3 UWG (frühere § 12 UWG aF).
-- **PatG / GebrMG:** Patentanmeldung und Patentverletzung §§ 9, 139 PatG; Gebrauchsmuster §§ 1 ff. GebrMG.
-- **UrhG:** Schnittstellen bei urheberrechtlich geschützten Werken, insb. Lizenzanaloger Schadensersatz § 97 Abs. 2 UrhG.
+- **MarkenG:** Schutzfaehigkeit §§ 3, 8; Schutzdauer §§ 47 ff.; Verletzungsansprueche §§ 14, 18, 19; Loeschungsverfahren §§ 49 ff.
+- **DesignG:** Schutzfaehigkeit Neuheit und Eigenart §§ 2 ff.; Schutzdauer 25 Jahre § 27 DesignG; Ansprueche §§ 38 ff.
+- **UWG:** Generalklausel § 3; Tatbestaende §§ 3a-7; Anspruchsberechtigte §§ 8 ff.; Aufwendungsersatz § 13 Abs. 3; Missbrauch § 8c UWG.
+- **PatG / GebrMG:** Patentverletzung § 139 PatG; Nichtigkeit §§ 21, 81 PatG; Gebrauchsmuster §§ 1 ff. GebrMG.
+- **UrhG:** Schnittstellen bei urheberrechtlich geschuetzten Werken; Lizenzanaloger Schadensersatz § 97 Abs. 2 UrhG.
 - **EU-Recht:** UMV (EU 2017/1001), GGV (EG 6/2002), DurchsetzungsRL 2004/48/EG.
 
-## Typische Mandate
+## Typische Mandate mit Zeitschiene
 
-- Markenanmeldung DPMA / EUIPO mit Klassenrecherche und Strategie.
-- Verteidigung gegen Widerspruch oder Löschungsantrag.
-- Markenverletzungs- und UWG-Abmahnung, Unterlassungserklärung und Vertragsstrafe.
-- Einstweilige Verfügung wegen Marken- oder Designverletzung.
-- Lizenzanaloger Schadensersatz, Auskunft, Rückruf und Vernichtung §§ 18, 19 MarkenG.
-- Domainstreitigkeiten (UDRP, gerichtlich).
+| Mandatstyp | Erstschritte | Frist |
+|------------|-------------|-------|
+| Markenanmeldung DPMA | Recherche, Klassenauswahl, Antrag | Keine gesetzliche Frist, aber fruehzeitig |
+| Widerspruch gegen Marke | Frist-Check, Zeichenvergleich, Schriftsatz | 3 Monate ab Veroeffentlichung § 42 MarkenG |
+| UWG-Abmahnung reaktiv | Formanalyse, Missbrauch pruefen, mod. UE | ueblicherweise 7-14 Tage Reaktionsfrist |
+| Einstweilige Verfuegung | Dringlichkeit pruefen, Glaubhaftmachung | 4 Wochen Selbstwiderlegungsfrist |
+| Designverletzungsklage | SdT-Recherche, Neuheits-Eigenarts-Test | Verjaehrung 3 Jahre §§ 195, 199 BGB |
+| Patent-Nichtigkeitsklage | StdT-Recherche, BPatG, Nebenintervention | Keine Frist, aber Verletzungsverfahren dringt |
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 28.02.2019 – I ZR 231/15, GRUR 2019, 765 Rn. 19 – Martini Baby: Parallelitaet marken- und lauterkeitsrechtlicher Ansprueche; Anspruchsgrundlagen kumulieren, nicht verdraengen — beide pruefen.
+- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 31 – Energieeffizienzklasse III: Abmahnung des Mitbewerbers nach § 8 Abs. 3 Nr. 1 UWG erfordert ernsthaftes Interesse an der Unterlassung; Serienabmahner-Check nach § 8c UWG.
+- BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 27 – Goldbaerenbarren: Vertragsstrafe nach Hamburger Brauch erfordert Verhaeltnismaessigkeit; 5.001 EUR-Pauschale ist nicht automatisch angemessen.
+- BGH, Urt. v. 02.12.2021 – I ZR 117/20, GRUR 2022, 264 Rn. 44 – Porsche 911: Bekannte Marke nach § 14 Abs. 2 Nr. 3 MarkenG schuetzt auch ohne Verwechslungsgefahr gegen Ausnutzung der Unterscheidungskraft; weiter Schutzumfang bei hohem Bekanntheitsgrad.
+- EuGH, Urt. v. 11.06.2020 – C-833/18, GRUR 2020, 736 Rn. 22 – SI und Brompton Bicycle: DesignG und UrhG koennen gleichzeitig schuetzen, wenn die Gestaltung Ausdruck eines kuenstlerischen Schaffens ist; kumulativer Schutz moeglich.
 
 ## Standardliteratur
 
-- **Ingerl/Rohnke**, Markengesetz (Beck) — Standardwerk Markenrecht.
-- **Eichmann/Kur**, Designrecht (Beck).
-- **Eisenführ/Schennen**, Unionsmarkenverordnung (Heymanns).
-- **Köhler/Bornkamm/Feddersen**, UWG (Beck) — Standardwerk Lauterkeitsrecht.
-- **Benkard**, Patentgesetz (Beck) — Standardwerk Patentrecht.
+- **Stroeble/Hacker/Thiering**, Markengesetz (Heymanns) — Standardwerk Markenrecht
+- **Ingerl/Rohnke**, Markengesetz (Beck) — Praxiskommentar Markenrecht
+- **Eichmann/Kur**, Designrecht (Beck) — Designschutz
+- **Eisenfuehr/Schennen**, Unionsmarkenverordnung (Heymanns) — EUIPO-Verfahren
+- **Koehler/Bornkamm/Feddersen**, UWG (Beck) — Standardwerk Lauterkeitsrecht
+- **Benkard**, Patentgesetz (Beck) — Standardwerk Patentrecht
+- **Schulte**, PatG (Heymanns) — Patentrecht und GebrMG
 
-## Maßgebliche Rechtsprechung
+## Fristen-Checkliste
 
-- BGH, Urt. v. 18.10.2017 – Az. I ZR 6/16, GRUR 2018, 417 Rn. 21 – Resistograph — Markenverletzung und Erschöpfung.
-- BGH, Urt. v. 28.04.2016 – Az. I ZR 254/14, GRUR 2016, 1067 Rn. 28 – Allegro barocco — UWG-Irreführung.
-- BGH, Urt. v. 24.07.2014 – Az. I ZR 27/13, GRUR 2014, 1101 Rn. 17 – Gelbe Wörterbücher — Markenähnlichkeit.
-- BGH, Urt. v. 24.07.2017 – Az. X ZR 142/15, BGHZ 215, 214 Rn. 19 — Verletzergewinn als Schadensersatzberechnungsmethode.
-- EuGH, Urt. v. 12.06.2008 – Az. C-533/06, Slg. 2008, I-4231 Rn. 51 – O2 Holdings — Vergleichende Werbung.
+- [ ] Widerspruchsfrist Marke: 3 Monate (§ 42 MarkenG / Art. 46 UMV)
+- [ ] Einstweilige Verfuegung: max. 4 Wochen Kenntnis (Selbstwiderlegung)
+- [ ] Einspruch Patent: 9 Monate ab Erteilung (§ 59 Abs. 1 PatG)
+- [ ] Beschwerde BPatG: 1 Monat (§ 66 MarkenG; § 73 PatG)
+- [ ] Verjaehrung Ansprueche: 3 Jahre ab Kenntnis (§§ 195, 199 BGB)
+- [ ] Verjaerungs-Hemmung: Klage, Mahnbescheid, Verhandlung (§ 204 BGB)
 
-## Übergabe
+## Uebergabe
 
-- Bei urheberrechtlichen Vorfragen Schnittstelle zum Plugin `urheberrecht`.
-- Bei kartellrechtlichen Bezügen (Lizenzkartell, Marktmissbrauch) Schnittstelle zum Plugin `kartellrecht-grundlagen`.
-- Bei steuerrechtlicher Bewertung von IP-Rechten Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH/EuGH-Pinpoint mit Rn., Hierarchie EuGH vor BGH vor OLG vor LG).
+- Bei urheberrechtlichen Vorfragen: Plugin `urheberrecht` / `fachanwalt-urheber-medienrecht`.
+- Bei kartellrechtlichen Bezuegen (Lizenzkartell, Marktmissbrauch): Plugin `kartellrecht-grundlagen`.
+- Bei steuerrechtlicher Bewertung von IP-Rechten: Plugin `steuerrecht-anwalt-und-berater`.

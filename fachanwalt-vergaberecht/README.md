@@ -1,6 +1,6 @@
 # Fachanwalt Vergaberecht
 
-Light-Touch-Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachprüfungsverfahren Vergabekammer OLG-Vergabesenat. Schnittstellen fachanwalt-bau-architektenrecht.
+Plugin Fachanwalt für Vergaberecht. Orientierung GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A EU-Vergabe-RL Nachprüfungsverfahren Vergabekammer OLG-Vergabesenat. Schnittstellen fachanwalt-bau-architektenrecht.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aml-kyc-sanktionen
-description: "Verknüpft GwG-Risikoanalyse, wirtschaftlich Berechtigte, KYC, Sanktionsscreening, Transaktionsmonitoring, Schulungen und interne Kontrollen."
+description: "Verknuepft GwG-Risikoanalyse KYC Sanktionsscreening und interne Kontrollpflichten im Aussenhandel. Anwendungsfall Exporteur oder Haendler braucht integriertes AML- und Sanktions-Compliance-System fuer grenzueberschreitende Geschaefte. Normen GwG § 5 Risikoanalyse EU-Sanktionsverordnungen AWG § 34 Aussenwirtschaftsstrafrecht. Pruefraster GwG-Risikoanalyse wirtschaftlich Berechtigte KYC Sanktionsscreening Transaktionsmonitoring Schulungen Kontrollen. Output Integriertes Compliance-Handbuch mit Risikomatrix KYC-Prozess Screening-Protokoll und Schulungsplan. Abgrenzung zu aussenwirtschaft-sanktionen-embargos und geldwaesche-praevention-aml-kyc-Plugin."
 ---
 
 # AML, KYC und Sanktions-Compliance
@@ -49,3 +49,67 @@ Dieser Skill baut ein integriertes Kontrollsystem für internationale Geschäfts
 - Keine CBAM-Berechnung ohne Warencode, Warenmenge, Emissionsdatenquelle und markierte Annahmen.
 - Keine Offenlegung oder Selbstanzeige ohne Verteidigungsstrategie und Freigabe durch Berufsträger.
 - Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
+
+## Triage vor AML-/KYC-Sanktionspruefung
+
+Kläre vor der Pruefung:
+
+1. Handelt es sich um eine Neukunden-Onboarding-Pruefung, laufende Transaction-Monitoring-Auswertung oder retrospektiven Verdachtsfall?
+2. Welche Kundengruppe — juristischen Person mit UBO-Kette, PEP, Korrespondenzbank oder reine Privatkunde?
+3. Welche Sanktionslisten wurden bereits gescreent (EU, OFAC, UN, UK OFSI)?
+4. Liegt ein Sorgfaltspflichten-Treffer nach § 10 GwG (vereinfacht, standard, verstaerkt) vor?
+5. Wurde eine Verdachtsmeldung nach § 43 GwG bereits abgegeben oder ist sie erforderlich?
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 10.03.2016 - C-235/14 (Safe Interenvios) — Anforderungen an verstaerkte Sorgfaltspflichten nach 4. Geldwaesche-RL bei Hochrisikolaendern; Korrespondenzbanken muessen eigenstaendige Risikoanalyse durchfuehren.
+- BGH, Urt. v. 09.12.2014 - II ZR 360/13, NJW 2015, 1014 — Haftung des Geschaftsfuehrers fuer AML-Compliance-Versaeumnisse; Organpflicht schliesst GwG-Pflichten der Gesellschaft ein.
+- BVerwG, Urt. v. 21.06.2016 - 8 C 5.15 — Zum Umfang der Aufzeichnungs- und Aufbewahrungspflichten nach GwG; BaFin-Massnahmen gegenueber Verpflichteten sind grundsatzlich verhaltensmaessig.
+- EuGH, Urt. v. 02.09.2021 - C-790/19 (LG/MH/BV gegen Bundesanstalt) — Zur Vertraulichkeit von Geldwaescheverdachtsmeldungen; verpflichtete Stellen duerfen Betroffene nicht vorab informieren (Tipping Off).
+
+## Normen-Kette AML/KYC/Sanktionen
+
+- §§ 10-14 GwG — Kundensorgfaltspflichten (KYC), vereinfachte, standard, verstaerkte
+- § 43 GwG — Verdachtsmeldepflicht an FIU
+- § 56 GwG — Bussgeldtatbestaende GwG, bis 1 Mio EUR
+- Art. 5-7 VO (EU) 833/2014 — Bereitstellungsverbot Finanzmittel Russland
+- FATF Recommendations 10, 15, 20 — Internationale Standards KYC/AML
+- 6. Geldwaesche-Richtlinie (EU) 2018/1673 — Strafbarkeit Geldwaesche
+
+## Kommentarliteratur
+
+- Herzog/Achtelik, GwG-Kommentar, 4. Aufl. — massgeblich §§ 10-43 GwG
+- Zentes/Glaab, Handbuch Geldwaescherecht — AML-Praxis Banken und Finanzdienstleister
+
+## Output-Template: AML/KYC-Pruefungsvermerk
+
+**Adressat:** Compliance-Abteilung / Vorstand — **Tonfall:** dokumentationsintensiv, risikoorientiert
+
+```
+AML/KYC-PRUEFUNGSVERMERK
+Datum: [DATUM]
+Kunde/Entitaet: [NAME]  Typ: [Natuerliche Person / Jur. Person]
+Risikoklasse (GwG): [ ] Niedrig / [ ] Standard / [ ] Hoch / [ ] Sehr hoch (§ 15 GwG)
+Bearbeiter: [NAME]
+
+1. SANKTIONSSCREENING
+   Gescreente Listen: EU / OFAC SDN / UN SC / UK OFSI / Sonstige
+   Treffer: [ ] Kein Treffer / [ ] Treffer: [BEZEICHNUNG, Liste, Datum]
+   Bewertung: [ ] Echttreffer — Blockierung / [ ] False Positive — Freigabe
+
+2. KYC-SORGFALTSSTUFE
+   Anwendbare Sorgfaltsstufe: § [10/13/15] GwG — Begruendung: [...]
+   UBO identifiziert: [ ] Ja: [NAME, %-Anteil] / [ ] Nein — Abweichung begruendet
+
+3. PEP-CHECK
+   PEP-Status: [ ] Kein PEP / [ ] PEP — Position: [...]
+   Massnahme: [ ] Verstaerkte Pruefung — Ergebnis: [...]
+
+4. VERDACHTSMELDUNG
+   Verdacht nach § 43 GwG: [ ] Nein / [ ] Ja — Gemeldet an FIU am: [DATUM]
+
+5. ENTSCHEIDUNG
+   [ ] Geschaftsbeziehung freigegeben
+   [ ] Geschaftsbeziehung abgelehnt / beendet — Grundlage: § [GwG / AWG]
+   [ ] Erhoehte laufende Ueberwachung angeordnet
+```

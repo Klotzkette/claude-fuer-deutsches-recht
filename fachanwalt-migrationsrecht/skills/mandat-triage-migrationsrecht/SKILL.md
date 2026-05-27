@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-migrationsrecht
-description: Strukturierte Eingangs-Abfrage fuer migrationsrechtliche Mandate. Klaert Vorgang (Asylantrag Visum-Erteilung Aufenthaltstitel-Verlaengerung Niederlassungserlaubnis Familiennachzug Abschiebungsandrohung Ausweisung Einbuergerung Schutz vor Abschiebung Dublin-III Asyl-Folgeantrag) Mandantenstatus Asylsuchender Geduldeter Anerkannter unerlaubt eingereist EU-Buerger Drittstaatsangehoeriger. Sofort-Fristen Asylklage zwei Wochen § 74 AsylG Abschiebungsandrohung einstweiliger Rechtsschutz § 80 Abs. 5 VwGO. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Hafterhalt Ueberstellung Dublin. Routing zu aufenthaltstitel-pruefung.
+description: "Eingangs-Abfrage fuer migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Ueberstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-pruefung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
 ---
 
 # Mandat-Triage Migrationsrecht
@@ -143,3 +143,63 @@ Bei drohender Abschiebung:
 - BVerwGE Std.Spruch
 - Hailbronner AuslR
 - Bergmann/Dienelt AusländerR
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- BVerfG, Beschl. v. 12.05.2005 - 2 BvR 569/05, NJW 2005, 1858 — Eilrechtsschutz im Migrationsrecht: Gericht muss Grundrechte auch im beschleunigten Verfahren beachten; PKH-Bewilligung darf Eilbeduerftigkeit nicht ignorieren; effektiver Rechtsschutz Art. 19 Abs. 4 GG gilt auch bei drohender Abschiebung.
+- BVerwG, Urt. v. 27.04.2010 - 10 C 4.09, BVerwGE 136, 360 — Wiederaufgreifenspruefung bei Folgeantrag: BAMF prueft zunaechst Zulaessigkeit; Gericht kann bei offensichtlich zulaessigem Folgeantrag Eilrechtsschutz gewaehren auch bevor BAMF entschieden hat.
+- BVerwG, Urt. v. 14.12.2016 - 1 C 4.16, BVerwGE 157, 18 — Streitwert im Asylverfahren: § 52 Abs. 2 GKG Regelstreitwert EUR 5.000; gerichtskostenfrei nach § 83b AsylG; bei Abschiebungsverbot § 60 AufenthG Streitwert EUR 2.500.
+
+## Normen-Kette Triage
+
+- **§ 36 AsylG** — 1-Woche-Klagefrist bei offensichtlich unbegruedet; § 74 Abs. 1 AsylG — 2-Wochen-Klagefrist
+- **§§ 80 Abs. 5, 123 VwGO** — Eilrechtsschutzoptionen
+- **§ 52 GKG** — Streitwert (Abs. 2: EUR 5.000 Regelwert Asyl)
+- **§ 83b AsylG** — Gerichtskostenfreiheit im Asylverfahren
+- **§§ 166 VwGO, 114 ZPO** — PKH im Verwaltungsverfahren
+- **§ 71 AsylG** — Folgeantrag bei Wiederaufgreifensgruenden
+
+## Output-Template: Triage-Protokoll Migrationsrecht
+
+**Adressat:** Kanzlei-intern
+**Tonfall:** Strukturiert; aktionsorientiert
+
+```
+TRIAGE-PROTOKOLL MIGRATIONSRECHT
+Datum: [DATUM] — Anruf / Walk-in / E-Mail
+Bearbeiterin: [RA-NAME]
+
+1. MANDANT
+Name: [NAME, geb. DATUM, Staatsang.]
+Aufenthaltsstatus: [Gestattung / Duldung / AE § X / NE / illegal]
+Sprache / Dolmetscher: [SPRACHE; Dolmetscher erforderlich: ja/nein]
+
+2. AKUTE EILBEDUERFTIGKEIT (Checkboxen)
+[ ] Abschiebung angekuendigt — Datum: [...]
+[ ] Asylklage-Frist 2 Wochen — laeuft ab: [DATUM]
+[ ] § 36 AsylG 1-Woche-Frist — laeuft ab: [DATUM]
+[ ] Dublin-Ueberstellung droht
+[ ] Abschiebehaft
+[ ] Sonstige Eilbeduerftigkeit: [...]
+
+3. VORGANG
+[ ] Asylantrag / BAMF-Anhoerung
+[ ] Asyl-Klage
+[ ] Folgeantrag § 71 AsylG
+[ ] Aufenthaltstitel-Antrag / Verlaengerung
+[ ] Familiennachzug
+[ ] Abschiebungsabwehr Eilantrag
+[ ] Ausweisung Widerspruch
+[ ] Einbuergerung
+[ ] Grenzverfahren GEAS
+
+4. FRISTEN IM KALENDER
+Naechste Frist: [DATUM — Art der Frist]
+PKH-Antrag: [gestellt / noch nicht / nicht erforderlich]
+
+5. ROUTING
+Folge-Skill: [skill-name]
+Eskalation: [ ] Sofort-Telefon [ ] Heute [ ] Diese Woche
+
+Aktennummer: [AZ]
+```

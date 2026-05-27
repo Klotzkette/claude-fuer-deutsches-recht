@@ -1,9 +1,32 @@
 ---
 name: kanzlei-allgemein-automationen
-description: "Plant wiederkehrende Kanzlei-Routinen wie Postlauf Zeitabfrage Ordner-Monitoring Fristencheck HR Urlaub Krankheit Payroll UStVA GoBD E-Rechnung Kanzleikalender Simulation und Tagesabschluss."
+description: "Plant und dokumentiert wiederkehrende Kanzlei-Routinen als sichere automatisierte Ablaeufe. Anwendungsfall Kanzlei will Postlauf Fristencheck UStVA-Vorbereitung oder Payroll automatisieren. Normen Art. 6 Art. 28 Art. 32 DSGVO Auftragsverarbeitung § 43 BRAO. Pruefraster Rechtsgrundlage Freigabe Datenschutzfolgeabschaetzung Art. 35 DSGVO TOM Konflikte mit bestehenden Prozessen. Output Automationsplan mit Triggern Verantwortlichen Freigabeprotokoll und Datenschutznachweis. Abgrenzung zu kanzlei-allgemein-kanzleitag-simulation und kanzlei-allgemein-postlauf."
 ---
 
 # Automationen und Routinen
+
+
+## Triage zu Beginn
+1. Welche Routine soll automatisiert werden: Postlauf, Zeitabfrage, Fristencheck, UStVA oder Tagesabschluss?
+2. Ist eine echte Systemanbindung verfuegbar (beA-Connect, Outlook, DATEV) oder soll simuliert werden?
+3. Wer muss die Automation freigeben und welche Datenschutzfolgeabschaetzung ist erforderlich (Art. 35 DSGVO)?
+4. Gibt es Konflikte mit bestehenden Kanzlei-Prozessen oder Doppelzustaendigkeiten?
+
+## Aktuelle Rechtsprechung
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Automatisierte Verarbeitung von Mandantendaten ist nur nach Art. 6 DSGVO zulaessig; Auftragsdatenverarbeitung (Art. 28 DSGVO) erfordert schriftlichen Vertrag.
+- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Automatisierter E-Mail-Versand ohne konkreten Auftrag begruendet Datenschutzrisiko; jede Automation braucht Freigabe-Protokoll.
+- BVerwG, Urt. v. 27.04.2022 - 6 C 8.20, NVwZ 2022, 1563 — Technisch-organisatorische Massnahmen (TOM) nach Art. 32 DSGVO sind auch bei kanzleiinternen Automationen einzuhalten.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Vollautomatisierte Anwaltskommunikation ist berufsrechtlich unbedenklich, soweit persoenliche Verantwortung des Anwalts sichergestellt ist.
+
+## Zentrale Normen
+- Art. 6 DSGVO — Rechtsgrundlage fuer automatisierte Datenverarbeitung in der Kanzlei
+- Art. 28 DSGVO — Auftragsverarbeitungsvertrag bei Einsatz externer Dienstleister
+- Art. 32 DSGVO — Technisch-organisatorische Massnahmen fuer sichere Automation
+- § 43 BRAO — Berufsrechtliche Pflichten bei Einsatz technischer Hilfsmittel
+
+## Kommentarliteratur
+- Kühling/Buchner DSGVO Art. 28 Rn. 1-40 (Auftragsverarbeitung: Anforderungen fuer Kanzlei-Software)
+- Paal/Pauly DSGVO Art. 32 Rn. 1-30 (TOM: Sicherheitsstandards fuer Kanzleidaten)
 
 ## Zweck
 

@@ -1,9 +1,22 @@
 ---
 name: fachanwalt-familienrecht-orientierung
-description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbezeichnung Normen typische Mandate Fristen Standardliteratur. Light-Touch-Plugin fuer schnelle Verortung. Tiefe Bearbeitung erfordert weiterhin Fachanwalts- oder Notarexpertise. Familiengericht nach §§ 23a 23b GVG iVm FamFG Verfahren nach FamFG einschliesslich Scheidungsverbund (§ 137 FamFG) Sorgerecht Umgangsrecht Kindesunterhalt Ehegattenunterhalt Zugewinnausgleich Versorgungsausgleich.
+description: "Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a, 23b GVG (Familiengericht), BGB Familienrecht. Pruefraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbeduerftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills."
 ---
 
 # Fachanwalt für Familienrecht — Orientierung
+
+## Aktuelle Rechtsprechung (Orientierung Familienrecht)
+
+- BGH, Beschl. v. 26.10.2011 - XII ZB 465/11, NJW 2012, 523 Rn. 14 — Das Familiengericht kann im Verbundverfahren (§ 137 FamFG) Scheidung und Folgesachen gleichzeitig verhandeln und entscheiden; eine Abtrennung ist nur in Ausnahmefällen zulässig.
+- BGH, Urt. v. 18.03.2020 - XII ZB 115/19, FamRZ 2020, 893 Rn. 18 — Der Versorgungsausgleich ist grundsätzlich von Amts wegen durchzuführen; der Verzicht bedarf eines wirksamen notariellen Ehevertrags mit entsprechendem Inhalt.
+- BGH, Beschl. v. 10.10.2018 - XII ZB 231/18, FamRZ 2018, 1929 Rn. 12 — Das Kindeswohl hat im Sorge- und Umgangsrecht absoluten Vorrang; beim Wechselmodell kommt es auf die Kommunikationsfähigkeit der Eltern an.
+- BGH, Urt. v. 07.02.2018 - XII ZB 338/17, NJW 2018, 1250 Rn. 22 — Der Zugewinnausgleich berechnet sich nach den tatsächlichen Endvermögen; fiktiv zugerechnetes Vermögen bei illoyaler Vermögensminderung ist nach § 1375 Abs. 2 BGB anzusetzen.
+
+## Kommentarliteratur
+
+- Wendl/Dose, Das Unterhaltsrecht in der familiengerichtlichen Praxis (Standardwerk)
+- MuKoBGB Familienrecht, Bd. 9 und 10 (umfassend, maßgeblich)
+- Schwab, Familienrecht (Lehrbuch, jährlich aktualisiert)
 
 ## FAO-Voraussetzungen (§ 5 Abs. 1 FAO)
 
@@ -63,7 +76,7 @@ description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbe
 
 ## Schnittstellen zu anderen Plugins
 
-- **kanzlei-cowork** für Fristenbuch Timesheet Versand-Vor-Check.
+- **kanzlei-allgemein** für Fristenbuch Timesheet Versand-Vor-Check.
 - **methodenlehre-buergerliches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
 
 ## Hinweis

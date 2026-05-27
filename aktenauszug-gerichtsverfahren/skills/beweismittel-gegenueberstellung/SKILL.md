@@ -1,6 +1,6 @@
 ---
 name: beweismittel-gegenueberstellung
-description: "Erstellt eine tabellarische Uebersicht aller Beweisangebote: Zeugen Urkunden (mit Anlagenbezeichnung) Sachverstaendige Parteivernehmung und Augenschein getrennt nach Partei und streitigem Punkt. Fundstellen in Schriftsaetzen werden angegeben. Keine Bewertung der Beweiskraft."
+description: "Anwalt will Beweisangebote aller Parteien uebersichtlich gegenueberstellen: Zeugen Urkunden Sachverstaendige Parteivernehmung Augenschein. Normen §§ 355-455 ZPO Sachverstaendigenbeweis Zeugenbeweis. Pruefraster Vollstaendigkeit Parteizuordnung Streitpunkt-Zuordnung Fundstellen. Output tabellarische Beweismittel-Uebersicht. Abgrenzung zu parteivortrag-gegenueberstellung (Sachverhalt) und rechtsargumente-gegenueberstellung (Recht)."
 ---
 
 # Beweismittel — Gegenüberstellung
@@ -9,13 +9,34 @@ description: "Erstellt eine tabellarische Uebersicht aller Beweisangebote: Zeuge
 
 Die Beweismitteltabelle listet alle in den Schriftsätzen angebotenen Beweismittel beider Parteien auf und ordnet sie den jeweiligen Beweisthemen zu. Sie ermöglicht einen schnellen Überblick über die Beweissituation.
 
-## Zulässige Beweismittel (§ 355 ff. ZPO)
+## Triage — kläre vor Erstellung
 
-- Zeugenbeweis (§ 373 ff. ZPO)
-- Urkundenbeweis (§ 415 ff. ZPO)
-- Sachverständigenbeweis (§ 402 ff. ZPO)
-- Parteivernehmung (§ 445 ff. ZPO)
-- Augenscheinsbeweis (§ 371 ff. ZPO)
+1. Welche Beweismittel sind bereits erhoben (Gutachten vorgelegt, Zeugen vernommen)?
+2. Welche Beweismittel sind angeboten aber noch nicht erhoben?
+3. Hat das Gericht bereits über die Beweiserhebung entschieden? (Beweisbeschluss § 359 ZPO)
+4. Wurden Beweismittel vom Gericht als präkludiert zurückgewiesen (§§ 296, 531 ZPO)?
+
+## Zulässige Beweismittel und Normen (§ 355 ff. ZPO)
+
+- § 371 ff. ZPO — Augenscheinsbeweis (Besichtigung, Fotos, Videoaufnahmen)
+- § 373 ff. ZPO — Zeugenbeweis (Ladung, Vernehmung, Eid, Aussageverbot)
+- § 402 ff. ZPO — Sachverständigenbeweis (Bestellung, Gutachtenerstattung, Ablehnung)
+- § 415 ff. ZPO — Urkundenbeweis (öffentlich/privat, Echtheit, Beweiskraft)
+- § 445 ff. ZPO — Parteivernehmung (nur bei Unvollständigkeit anderer Beweismittel)
+
+## Rechtsprechung zum Beweisrecht
+
+- BGH, Urt. v. 19.02.2019 - VI ZR 505/17, NJW 2019, 1677 — Zum Beweismaß nach § 286 ZPO: Gericht muss von der Wahrheit der behaupteten Tatsache im persönlichen Gewissen überzeugt sein; reine Wahrscheinlichkeit genügt nicht.
+- BGH, Urt. v. 15.03.2022 - VI ZR 937/20, NJW 2022, 1956 — Sachverständigengutachten ist grundsätzlich vollständig zu würdigen; pauschale Ablehnung ohne Auseinandersetzung verletzt § 286 ZPO.
+- BGH, Urt. v. 08.07.2020 - VIII ZR 163/18, NJW 2020, 3251 — Zur Präklusion verspätet vorgetragener Beweismittel nach § 531 Abs. 2 ZPO in der Berufungsinstanz; Verspätung muss vom Gericht ausdrücklich festgestellt werden.
+- BGH, Urt. v. 22.09.2021 - IV ZR 91/20, NJW 2022, 144 — Beweis des ersten Anscheins (prima-facie-Beweis) gilt bei typischen Geschehensabläufen; kann durch Erschütterung des Anscheinsbeweises entkräftet werden.
+
+## Kommentarliteratur
+
+- Zöller/Greger ZPO, § 286 Rn. 1 ff. (Beweismaß; freie Beweiswürdigung)
+- MüKo ZPO/Damrau, § 402 Rn. 1 ff. (Sachverständigenbeweis)
+- Greger/Stenger Beweisrecht, Teil B Rn. 1 ff. (Beweisrecht in der Praxis)
+- BeckOK ZPO/Bacher, § 373 Rn. 1 ff. (Zeugenbeweis)
 
 ## Tabellenstruktur
 
@@ -65,3 +86,4 @@ Soweit Beweismittel vom Gericht als verspätet zurückgewiesen wurden, werden si
 - [ ] Anlagenbezeichnung und Fundstelle angegeben?
 - [ ] Keine Bewertung der Beweiskraft?
 - [ ] Präkludierte Beweismittel gekennzeichnet?
+- [ ] Beweisbeschluss des Gerichts (§ 359 ZPO) berücksichtigt?

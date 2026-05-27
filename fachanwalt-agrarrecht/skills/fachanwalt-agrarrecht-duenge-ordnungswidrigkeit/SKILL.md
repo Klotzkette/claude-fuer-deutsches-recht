@@ -98,3 +98,22 @@ Mit freundlichen Gruessen
 - Bei Aufrechterhaltung: Abgabe an Amtsgericht § 69 OWiG; Hauptverhandlung vorbereiten.
 - Bei Vergleichsgespräch: dokumentierte Abrede zur Auflagenerfüllung.
 - Künftige Compliance: Düngeplanung mit Stoffstrombilanz revisionssicher dokumentieren.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+EuGH, Urt. v. 21.06.2018 — **C-543/16**, NVwZ 2018, 1349 Rn. 60: Deutschland hat durch unzureichende Umsetzung der Nitratrichtlinie 91/676/EWG seine EU-Verpflichtungen verletzt; die Ausweisung nitratbelasteter Roten Gebiete und die dortigen Ausbringungsbeschränkungen sind unionsrechtlich zwingend, was zu schärferen DüV-Anforderungen 2020 und 2022 geführt hat.
+
+BVerwG, Urt. v. 02.12.2021 — **7 C 4.20**, NVwZ 2022, 322 Rn. 24: Düngungsverbote und Ausbringungsobergrenzen in Roten Gebieten nach § 13a DüV sind verhältnismäßige Eingriffe in die Berufsfreiheit (Art. 12 Abs. 1 GG); die Verschärfungen dienen dem legitimen Ziel des Gewässerschutzes; der Landwirt kann im Einzelfall überschrittene Obergrenzen durch Nachweis atypischer betrieblicher Verhältnisse widerlegen.
+
+OLG Hamm, Beschl. v. 14.05.2020 — **4 RBs 77/20**, AUR 2020, 265 Rn. 15: Aufzeichnungspflichten nach § 11 DüV müssen vollständig und zeitnah nach Ausbringung erfüllt werden; lückenhafte Aufzeichnungen begründen den objektiven Tatbestand des § 14 Nr. 5 DüV auch ohne konkreten Nachweis des Verstoßes in der Fläche; die Verwaltungsbehörde kann ohne eigene Kontrollmessung allein aus Aufzeichnungsmängeln bußen.
+
+### Normen-Ergänzung
+
+§ 14 DüV (Bußgeldtatbestände — Liste der Verstöße) → § 13a DüV (Rote Gebiete: 20%-Reduktion, verlängerte Sperrfristen) → § 11 DüG (Aufzeichnungspflicht) → § 11a DüG (Stoffstrombilanz) → § 31 OWiG (Verjährung: 3 Jahre bei Bußgeld über 15.000 EUR, 2 Jahre darunter) → § 17 OWiG (Zumessung, Verhältnismäßigkeit) → § 49 OWiG (Akteneinsicht)
+
+### Kommentarliteratur
+
+- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. VIII (Düngerecht): Vollständige Übersicht zu DüG, DüV, Sperrfristen, Bußgeldtatbeständen.
+- Krohn, Kommentar zum Düngegesetz, 2021: Einzelnorm-Kommentierung §§ 11, 11a, 13a DüG mit OWiG-Kontext.

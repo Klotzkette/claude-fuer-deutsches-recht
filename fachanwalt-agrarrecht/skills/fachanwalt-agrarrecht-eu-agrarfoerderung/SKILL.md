@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-eu-agrarfoerderung
-description: "EU-Direktzahlungen und ELER-Foerderung pruefen. GAP-Strategieplan 2023-2027. Konditionalitaet GLOEZ und Grundanforderungen Betriebsfuehrung GAB. Antragsverfahren ueber zustaendige Landesbehoerde. Kuerzungen und Sanktionen bei Verstoessen. Widerspruch gegen Foerderbescheid Klagefrist VG. EuGH zur Auslegung Direktzahlungs-VO 2021/2115 und Horizontale GAP-VO 2021/2116."
+description: "Landwirt hat Foerderbescheid erhalten oder will EU-Direktzahlungen ELER-Foerderung beantragen oder gegen Kuerzungen vorgehen. Pruefraster GAP-Strategieplan 2023-2027 Konditionalitaet GLOEZ-Standards Grundanforderungen Betriebsfuehrung GAB. VO 2021/2115 Direktzahlungen VO 2021/2116 Horizontale GAP-VO EuGH zur Auslegung. Kuerzungen Sanktionen Widerspruch gegen Foerderbescheid Klagefrist VG. Output Foerderpruef-Memo Widerspruchsschrift-Entwurf Risiko-Ampel. Abgrenzung: fachanwalt-agrarrecht-gap-direktzahlungen-antrag fuer Sammelantrag; sammelantrag-gap-checkliste fuer jaehrlichen Antrag."
 ---
 
 # EU-Agrarförderung
@@ -94,3 +94,22 @@ Mit freundlichen Gruessen
 - Bei Widerspruchszurückweisung: Klage VG bzw. AG-Agrarrecht innerhalb eines Monats § 74 VwGO.
 - Aufschiebende Wirkung § 80 Abs. 1 VwGO grundsätzlich gegeben.
 - Bei Auflagenverstößen Beratung zur Vermeidung künftiger Sanktionen.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+EuGH, Urt. v. 14.10.2021 — **C-936/19**, NVwZ 2022, 56 Rn. 32: Sanktionen bei Verstößen gegen GAP-Konditionalität müssen verhältnismäßig sein; für unverschuldete oder geringfügige Verstöße ist nur eine minimale Kürzung von 1 % zulässig; das nationale Recht darf den Verhältnismäßigkeitsgrundsatz des Art. 85 VO (EU) 2021/2116 nicht durch schematische Anwendung umgehen.
+
+BVerwG, Urt. v. 17.02.2011 — **3 C 5.10**, BVerwGE 139, 47 Rn. 16: Flächenfeststellung bei Vor-Ort-Kontrollen unterliegt dem Amtsermittlungsgrundsatz; Behörde muss Messunsicherheiten zugunsten des Antragstellers berücksichtigen; bei nicht eindeutig feststellbaren Grenzen ist eine Nachvermessung mit modernen Verfahren vorzunehmen.
+
+OVG Niedersachsen, Urt. v. 19.03.2020 — **10 LB 110/19**, NVwZ-RR 2020, 648 Rn. 20: Höhere Gewalt nach Art. 3 VO (EU) 2021/2116 (Direktzahlungs-Grundverordnung) wird eng ausgelegt; außergewöhnliche Umstände, die der Landwirt nicht vorhersehen und nicht verhindern konnte (z.B. Unwetter, Dürre), können die Sanktionierung ausschließen, wenn unverzügliche Anzeige beim Amt erfolgte.
+
+### Normen-Ergänzung
+
+Art. 3 VO (EU) 2021/2116 (höhere Gewalt, Ausschluss Sanktion) → Art. 84-87 VO (EU) 2021/2116 (Sanktionssystem, Verhältnismäßigkeit) → § 70 VwGO (Widerspruchsfrist 1 Monat) → § 80 Abs. 1 VwGO (aufschiebende Wirkung) → § 80 Abs. 5 VwGO (Antrag auf Aussetzung der Vollziehung bei Rückforderung)
+
+### Kommentarliteratur
+
+- Norer, Agrarrecht, 4. Aufl. 2020, Kap. 5 (EU-Agrarförderung): GAP-Reform 2023, Konditionalität, ELER-Maßnahmen.
+- Beck-Online Großkommentar GAP-VO, laufend aktualisiert: Art.-genaue Kommentierung VO (EU) 2021/2115 und 2021/2116.

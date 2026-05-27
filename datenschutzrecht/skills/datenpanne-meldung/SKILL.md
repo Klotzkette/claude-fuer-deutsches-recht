@@ -1,6 +1,6 @@
 ---
 name: datenpanne-meldung
-description: "Begleitet Verantwortliche und Berater bei der Prüfung der Meldepflicht nach Art. 33 DSGVO (72-Stunden-Frist an Aufsichtsbehörde) und der Benachrichtigungspflicht nach Art. 34 DSGVO (betroffene Personen), einschließlich Dokumentation. Lädt bei Datenpannen, Sicherheitsvorfällen, unberechtigten Zugriffen und Datenverlust."
+description: "Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Pruefraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenenbenachrichtigung Dokumentation. Output: Meldeschreiben an Aufsichtsbehoerde Betroffenenbenachrichtigung Dokumentationsprotokoll. Abgrenzung: nicht fuer praeventive Massnahmen (dsfa-erstellung)."
 ---
 
 # Datenpannen-Meldung (Art. 33/34 DSGVO)
@@ -125,3 +125,8 @@ Stand: 05/2026. Aktualität prüfen bei neuen EuGH-Entscheidungen zum Schadenser
 - `datenschutzrecht/skills/drittlandstransfer-pruefung/SKILL.md` — bei Datenpannen mit Drittlandbezug (Benachrichtigungspflicht des Importeurs)
 - `datenschutzrecht/skills/dsfa-erstellung/SKILL.md` — Nachträgliche DSFA-Prüfung nach Datenpanne; Vorab-Konsultation Art. 36 DSGVO
 - `datenschutzrecht/skills/avv-pruefung/SKILL.md` — Meldepflicht des Auftragsverarbeiters nach Art. 33 Abs. 2 DSGVO im AVV-Kontext
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44–55: Art. 82 DSGVO setzt für immateriellen Schadensersatz voraus, dass ein konkreter immaterieller Schaden feststellbar ist; bloßer Datenschutzverstoß ohne spürbaren Nachteil genügt nicht. Für die Meldepflicht ist dies irrelevant — Art. 33 DSGVO ist unabhängig vom Schadenseintritt.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.

@@ -93,3 +93,19 @@ Empfehlung an die Patentanwältin:
 ## Disclaimer
 
 > **Hinweis zur Recherche.** Diese Stand-der-Technik-Recherche ist eine KI-gestützte Vorrecherche und keine amtliche Recherche. Geheime ältere Anmeldungen (§ 3 Abs. 2 PatG / Art. 54 Abs. 3 EPÜ) sind erst nach Ablauf der 18-Monats-Frist erfassbar. Nicht-deutsche, nicht-englische und nicht-französische Volltexte werden nicht vollständig durchsucht. Die Bewertung als X/Y/A/P/E ist eine vorläufige Einschätzung — die amtliche Recherche durch DPMA oder EPA kann zu anderen Ergebnissen kommen.
+
+## Triage-Fragen vor Stand-der-Technik-Recherche
+
+Bevor die Recherche begonnen wird, klaere:
+1. Was ist der Prioritaetszeitpunkt — nach diesem Datum relevante Dokumente sind nicht massgeblich (§ 3 I PatG)?
+2. Gibt es bekannte Vorveröffentlichungen durch den Mandanten selbst (Messevortrag, Dissertation, Produktkatalog)?
+3. Sind Nicht-Patent-Literatur (NPL) — Aufsaetze, Normen, Konferenz-Proceedings — fuer das Technikgebiet besonders relevant?
+4. Welcher Fachmann ist massgeblich (IPC/CPC-basierte Einordnung des Technikgebiets)?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 23.01.2018 — X ZR 166/15 (Stand der Technik — NPL):** Nicht-Patent-Literatur kann ebenso gut neuheitsschaedlich sein wie Patentdokumente; Hochschulschriften, Fachaufsaetze und Produktkataloge sind dem Stand der Technik zuzurechnen, wenn sie vor dem Prioritaetstag oeffentlich zugaenglich waren.
+
+> **BGH, Urt. v. 17.04.2007 — X ZR 208/05 (Offenkundige Vorbenutzung):** Eine offenkundige Vorbenutzung der Erfindung durch den Anmelder selbst vor dem Anmeldetag zerstoert die Neuheit, auch wenn keine Drittveroeffentlichung stattgefunden hat; ein Messevortrag, eine Produktdemonstration oder ein Prospekt genuechen als Oeffentlichmachung.
+
+> **BPatG, Beschl. v. 14.04.2015 — 13 W (pat) 53/11 (Fachmann-Standard):** Der Fachmann ist eine Hilfskonstruktion mit durchschnittlichem Fachwissen im betreffenden Technikgebiet und Zugang zum gesamten relevanten Stand der Technik; interdisziplinaere Erfindungen koennen ein Fachteam erfordern, das verschiedene Spezialisierungen vereint.

@@ -1,6 +1,6 @@
 ---
 name: gutachten-uebung
-description: "Übt und bewertet Gutachtenstil-Klausuren für das deutsche Jurastudium — Anspruchsgrundlagenprüfung, Obersatz-Definition-Subsumtion-Ergebnis, Hilfsgutachten, EU-Recht im Gutachten, Klausurtechnik. Schreibt die Klausur NICHT um. Lädt, wenn der Nutzer „mein Gutachten prüfen\", „Gutachtenstil üben\", „Klausur Feedback\" oder „Subsumtion prüfen\" sagt."
+description: "Gutachten Uebung fuer Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht oeffentliches Recht. Pruefraster Gutachten-Schema korrekt, Definitionen vollstaendig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterloesung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre fuer reine Methodik und zu Examensvorbereitung-Fragen."
 ---
 
 # Gutachtenstil-Übung

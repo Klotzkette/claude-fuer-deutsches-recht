@@ -1,6 +1,6 @@
 ---
 name: anw-defi-lending-yield-farming-bmf-22-11-2024
-description: "Steuerliche Behandlung DeFi-Lending Yield Farming Liquidity Mining nach BMF-Schreiben vom 22.11.2024 (Folge zum BMF-Krypto-Schreiben 10.5.2022). Einkuenfte § 22 Nr. 3 EStG bzw. § 20 EStG. Token-Tausch als Veraeusserung § 23 EStG mit Spekulationsfrist. Wrapped Tokens Yield Tokens LP-Tokens. Steuererklaerungs-Pflicht inkl. DAC8. Workflow Wallet-Analyse Cointracking Erklaerung."
+description: "Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklaerungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklaerungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto."
 ---
 
 # DeFi-Lending / Yield Farming — Steuerliche Behandlung BMF 22.11.2024

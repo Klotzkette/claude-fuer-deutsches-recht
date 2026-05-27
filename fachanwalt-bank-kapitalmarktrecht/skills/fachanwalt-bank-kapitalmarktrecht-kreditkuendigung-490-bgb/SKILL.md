@@ -1,146 +1,190 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb
-description: "Kreditkuendigung der Bank § 490 BGB bei wesentlicher Vermoegensverschlechterung Voraussetzungen Ankuendigung Kuendigungsfrist Sicherheiten. AGB-Banken Nr. 19 Klausel. Auswirkung Faelligstellung Vollstreckung Bonitaets-Triage. AN-Strategie Widerspruch Stundung Ratenplan einstweiliger Rechtsschutz. Workflow Sofort-Sicherung."
+description: "Bank kuendigt Kredit nach § 490 BGB wegen wesentlicher Vermoegensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Pruefraster Kuendigungs-Voraussetzungen Ankuendigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkuendigung (allg. Kuendigung) und widerrufsjoker (Widerruf)."
 ---
 
 # Kreditkündigung § 490 BGB
 
 ## Zweck
 
-Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer und Banken.
+Mandate bei drohender oder erfolgter Kreditkündigung — für Kreditnehmer (Abwehr) und Banken (Rechtssicherheit). Zeitkritisch: nach Kündigung beginnen Vollstreckungsfristen.
 
-## 1) Eingangs-Abfrage
+## Mandantenfragen — Kaltstart
 
-1. Kreditart (Konsumentenkredit, Immobiliendarlehen, Geschäftskredit, KfW)?
-2. Aktueller Saldo und Tilgungsstand?
-3. Anlass der Kündigung (Ratenstundung, Bonitaet, Sicherheiten)?
-4. Kündigungsschreiben Wortlaut?
-5. AGB-Banken Vertrag (Nr. 19)?
-6. Sicherheiten (Grundschuld, Bürgschaft)?
-7. Konsumenten- oder Unternehmenskredit?
+1. **Welche Art von Kredit — Konsument, Immobiliendarlehen, Geschäftskredit, KfW?** — Bestimmt anwendbare Sondervorschriften (§ 498 BGB bei Konsumentenkredit).
+2. **Was ist der angegebene Kündigungsgrund?** — Wesentliche Vermögensverschlechterung (§ 490 BGB), Verzug (§ 498 BGB), Vertragsverstoß, AGB-Banken Nr. 19?
+3. **Wurde die Kündigung schriftlich erklärt?** — Form­erfordernis; mündliche Kündigung bei Verbraucher-Immobiliendarlehen unzureichend.
+4. **Hat die Bank eine Vorwarnung ausgesprochen?** — BGH-Linie (Hausbank-Prinzip): bei langjähriger Kundenbeziehung Pflicht zur Vorwarnung (BGH XI ZR 178/10).
+5. **Wie hoch ist der Restschuldbetrag?** — Streitwert + Vollstreckungsgefahr; sofortige Vollstreckung aus Grundschuldurkunde möglich?
+6. **Wurden 2 Raten nicht bezahlt (Konsumentenkredit)?** — § 498 BGB: 10 %-Schwelle + 2-Wochen-Mahnung = Pflicht-Voraussetzungen.
+7. **Welche Sicherheiten bestehen?** — Grundschuld, Bürgschaft, Kfz-Sicherungsübereignung; Verwertungsreihenfolge?
+8. **Gibt es ein Sanierungskonzept oder StaRUG-Potential?** — Bei GmbH/AG mit Zahlungsunfähigkeitsrisiko: StaRUG-Vorprüfung parallel.
 
-## 2) Rechtsgrundlagen Kündigung
+## Rechtsgrundlagen
 
-### § 490 BGB — Wesentliche Vermögensverschlechterung
+### Primärnormen
 
-> „Vor Auszahlung des Darlehens kann der Darlehensgeber im Zweifel den Darlehensvertrag bei einer wesentlichen Verschlechterung der Vermögensverhältnisse des Darlehensnehmers oder der Werthaltigkeit einer für das Darlehen gestellten Sicherheit, durch die die Rückzahlung des Darlehens, auch unter Verwertung der Sicherheit, gefährdet wird, kündigen. Nach Auszahlung kann er nur in der Regel kündigen, soweit die Voraussetzungen nach Satz 1 in besonderem Masse vorliegen."
-
-### AGB-Banken Nr. 19
-
-- Kündigungsrecht bei wesentlicher Vermögensverschlechterung
-- Klauselkontrolle § 308, § 309 BGB
-
-### § 498 BGB — Verbraucherdarlehen
-
-- Bei Konsumentenkrediten: Kündigung nur bei **Verzug 2 Raten + > 10 % Kreditbetrag** + **2-Wochen-Mahnung mit Hinweis**
-
-### § 314 BGB — Wichtiger Grund
-
-- Auch für Geschäftskredit subsidiaer
-
-## 3) Voraussetzungen Bank-Kündigung
-
-| Element | Prüfung |
+| Norm | Inhalt |
 |---|---|
-| Wesentliche Verschlechterung | Bonitaets-Tatbestände: Insolvenzantrag, Eidesstattliche Versicherung, Bilanz-Verlust |
-| Gefährdung der Rückzahlung | Sicherheits-Wert vs. Restschuld; Beleihungs-Wert |
-| Ankündigung / Vorwarnung | BGH XI ZR 178/10: Bei Hausbank-Kündigung muss Vorwarnung erfolgen |
-| Konsumenten: 2 Raten Verzug + Mahnung | § 498 BGB iVm § 502 BGB |
-| Verhältnismaessigkeit | bei Geringfuegigkeit unwirksam |
+| § 490 Abs. 1 BGB | Ordentliche Kündigung vor/nach Auszahlung bei wesentlicher Vermögensverschlechterung |
+| § 490 Abs. 2 BGB | Außerordentliche Kündigung beim Darlehensnehmer: besondere Einzel-Umstände |
+| § 498 BGB | Verbraucherdarlehen: Kündigung erst bei 2 Raten-Verzug + Schwellenwert (10 % bei Laufzeit ≤ 3 Jahre; 5 % bei Laufzeit > 3 Jahre) + 2-Wochen-Mahnung mit Fristsetzung |
+| § 314 BGB | Kündigung aus wichtigem Grund (subsidiär) |
+| AGB-Banken Nr. 19 | Kündigungsrecht bei wesentlicher Verschlechterung; Klauselkontrolle |
+| § 288 BGB | Verzugszinsen: 5 Prozentpunkte (Verbraucher), 9 Prozentpunkte (B2B) über Basiszinssatz |
 
-## 4) Folgen der Kündigung
+### Wesentliche Vermögensverschlechterung § 490 Abs. 1 BGB
 
-### Faelligstellung
+**Tatbestandsmerkmale:**
+- Wesentliche Verschlechterung der Vermögensverhältnisse des Darlehensnehmers
+- ODER wesentliche Verschlechterung der Werthaltigkeit der Sicherheit
+- DADURCH Rückzahlung gefährdet (auch unter Verwertung der Sicherheit)
 
-- Gesamter Restbetrag sofort faellig
-- Verzug ab Faelligstellung
-- Verzugszinsen 9 %-Pkt. über Basis (§ 288 II BGB) bei B2B; 5 %-Pkt. bei Verbraucher (§ 288 I BGB)
+**Indizien für wesentliche Verschlechterung:**
+- Eröffnung eines Insolvenzverfahrens oder Antrag
+- Eidesstattliche Versicherung / Vermögensauskunft
+- Erheblicher Bilanzverlust / BWA-Verschlechterung
+- Wegfall wesentlicher Sicherheiten (z.B. Grundstücksverkauf)
+- Negative Auskünfte SCHUFA / Creditreform
 
-### Sicherheiten-Verwertung
+### Leitentscheidungen
 
-- Grundschuld: Zwangsversteigerung / Zwangsverwaltung
-- Bürgschaft: Inanspruchnahme Buergen
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---|---|---|---|
+| BGH | XI ZR 178/10 | 26.05.2020 | Hausbank-Prinzip: Vorwarnung bei langjähriger Kundenbeziehung nötig |
+| BGH | XI ZR 348/13 | 28.10.2014 | Wesentliche Verschlechterung: konkrete Tatsachen nötig; pauschale Einschätzung genügt nicht |
+| BGH | XI ZR 81/14 | 21.03.2017 | Verbraucherdarlehen: § 498 BGB-Voraussetzungen strikt; kein Satz-außer-Kraft durch AGB |
+| OLG Frankfurt | 17 U 183/17 | 28.11.2018 | AGB-Banken Nr. 19: Inhaltskontrolle § 307 BGB; nicht unangemessen benachteiligend |
+| BGH | XI ZR 252/15 | 19.01.2016 | Sicherheitenverwertung erst nach Fälligkeit und Mahnung |
 
-### SCHUFA-Eintrag
+## Prüfschema Kreditkündigung
 
-- Negative SCHUFA-Meldung
-- Auswirkungen 3-Jahres-Folgewirkung
+| Schritt | Prüfpunkt | Norm | Rechtsfolge bei Fehler |
+|---|---|---|---|
+| 1 | Schriftliche Kündigung mit Begründung? | Praxis-Pflicht | Kündigung angreifbar |
+| 2 | Wesentliche Verschlechterung konkret? | § 490 Abs. 1 BGB | Kündigung unwirksam |
+| 3 | Vorwarnung bei Hausbank-Beziehung? | BGH XI ZR 178/10 | Kündigung unwirksam |
+| 4 | Bei Konsument: 2 Raten + 10 % + Mahnung? | § 498 BGB | Kündigung unwirksam |
+| 5 | Stellungnahme-Frist gewährt? | Verhältnismäßigkeit | Kündigung ggf. unwirksam |
+| 6 | Sicherheiten-Verwertung: Fälligkeit + Mahnung? | § 252 BGB-Praxis | Vorzeitige Vollstreckung angreifbar |
+| 7 | SCHUFA-Meldung gerechtfertigt? | § 31 BDSG, § 4 DSGVO | Datenschutz-Verletzung |
 
-## 5) AN-Strategie
+## Typische Kündigungsszenarien
 
-### Schritt 1 — Schriftliche Reaktion
+### Szenario A — GmbH mit Liquiditätsengpass
 
-- Innerhalb **2 Wochen** Widerspruch
-- Vorlage Liquiditäts-/Sanierungs-Plan
-- Bei Verbraucher: Prüfung § 498 BGB Voraussetzungen
+1. Bank stützt Kündigung auf negative BWA und fehlende Liquiditätsprognose
+2. Mandant hat keine Vorwarnung erhalten
+3. Reaktion: Widerspruch (fehlende Vorwarnung nach BGH XI ZR 178/10), Liquiditätsplan vorlegen, Stundungsvereinbarung beantragen
 
-### Schritt 2 — Verhandlung
+### Szenario B — Privatperson, Konsumentenkredit, 3 Raten in Verzug
 
-- **Stundung** (typisch 6-12 Monate)
-- **Ratenanpassung** (Verlängerung)
-- **Sicherheiten-Stellung** zusätzlich
-- **Bürgschaft** Dritte
+1. § 498 BGB-Voraussetzungen prüfen: 10 %-Schwelle (bei Restschuld 80.000 EUR = 8.000 EUR Rückstand), 2-Wochen-Mahnung mit Hinweis
+2. Wenn Schwelle und Mahnung erfüllt: Kündigung wirksam
+3. Reaktion: Ratenplan, ggf. Stundungsvereinbarung vor Kündigungsausspruch
 
-### Schritt 3 — Klage / Eilantrag
+### Szenario C — Immobiliendarlehen, Wert der Sicherheit gesunken
 
-- Bei Drohung der Zwangsversteigerung: einstweiliger Rechtsschutz
-- Feststellungsklage Kündigung unwirksam
-- Streitwert: Restschuld
+1. Bank kündigt wegen Sicherheitenverschlechterung (Immobilienwert gesunken)
+2. Prüfen: aktuelles Sachverständigengutachten vs. Bank-Bewertung
+3. Reaction: Gegengutachten, ggf. Nachbesicherung anbieten
 
-## 6) Bank-Strategie
+## Außergerichtliche Strategie (Kreditnehmer)
 
-### Beweissicherung
+### Schritt 1 — Sofortiger Widerspruch (binnen 2 Wochen)
 
-- Wesentliche Verschlechterung dokumentieren (Bilanz-Auszug, BWA, SCHUFA, Externe Auskunft)
-- Mahnungs-Geschichte (bei Verbraucher)
-- Vorgespräche-Protokoll
+```
+[Kanzlei]                                            [Ort, Datum]
 
-### Kommunikation
+[Bank]
+[Anschrift]
 
-- Schriftform zwingend
-- Konkrete Begründung
-- Frist zur Stellungnahme (typisch 2-4 Wochen)
+Widerspruch gegen Kreditkündigung
+Kreditvertrag Nr. [Nr.] vom [Datum]
 
-## 7) BGH-Linien
+Sehr geehrte Damen und Herren,
 
-- BGH, Urt. v. 26.5.2020 — XI ZR 178/10 (Vorwarnung Hausbank)
-- BGH, Urt. v. 28.10.2014 — XI ZR 348/13 (Wesentliche Verschlechterung)
-- BGH, Urt. v. 21.3.2017 — XI ZR 81/14 (Verzug Verbraucher)
+die mit Schreiben vom [Datum] ausgesprochene Kündigung
+des oben bezeichneten Kreditvertrags ist unwirksam.
 
-## 8) Typische Fehler
+Begründung:
 
-### Bank-Fehler
+1. Fehlende Vorwarnung: Bei einer Kreditbeziehung von
+   [x] Jahren war eine Vorwarnung vor Kündigung
+   erforderlich (BGH, 26.05.2020 — XI ZR 178/10).
+   Eine solche ist nicht erfolgt.
 
-1. **Kündigung ohne Vorwarnung** bei Hausbank-Verhältnis
-2. **Pauschale Begründung** ohne konkrete Tatbestände
-3. **Konsumenten: ohne 10 %-Schwelle erfüllt** kündigen
-4. **AGB-Nr. 19 unverhältnismaessig** angewendet
+2. Keine wesentliche Vermögensverschlechterung: Die
+   von Ihnen genannten Umstände [konkret benennen]
+   begründen keine wesentliche Verschlechterung i.S.d.
+   § 490 Abs. 1 BGB. Unsere aktuelle BWA weist
+   [positive Indikatoren] aus (Anlage [Nr.]).
 
-### Kunden-Fehler
+3. Liquiditätsplan: Wir legen Ihnen anbei einen
+   3-monatigen Liquiditätsplan vor, der die Fortführung
+   der Kreditbedienung belegt (Anlage [Nr.]).
 
-1. **Nicht reagiert** auf Vorwarnung
-2. **Keine Liquiditäts-Planung** vorgelegt
-3. **Kündigung als unabaenderlich** akzeptiert
-4. **Spät-Strafanwalt** bei drohender Zwangsversteigerung
+Wir bitten um Rücknahme der Kündigung und Fortsetzung
+des Kreditverhältnisses zu den bisherigen Konditionen.
 
-## 9) Konkrete Beispiel-Konstellation
+[Rechtsanwalt/-anwaeltin]
+```
 
-GmbH-Kreditkündigung 800.000 EUR, AG behauptet Bonitaets-Gefährdung:
+### Schritt 2 — Verhandlung Stundung / Ratenstundung
 
-1. Schriftlicher Widerspruch binnen 2 Wochen
-2. BWA aktuell und Liquiditäts-Vorschau 3 Monate vorlegen
-3. Sanierungs-Konzept (StaRUG-Pre-Check)
-4. Verhandlung Stillhalte-Vereinbarung mit AG
-5. Bei Scheitern: Feststellungsklage + einstweiliger Rechtsschutz
+- Verhandlungsangebot: Stundung 6–12 Monate, danach erhöhte Tilgung
+- Sicherheiten-Nachbesserung anbieten (zusätzliche Bürgschaft, Lebensversicherung)
+- Sanierungs-/Restrukturierungsberater einschalten
 
-## 10) Honorar
+### Schritt 3 — Eilantrag (§ 935 ZPO) bei drohender Zwangsversteigerung
 
-- Beratung: Pauschal 1.500-3.000 EUR
-- Klage: nach Streitwert (Restschuld) — § 13 RVG, § 48 GKG
-- Erfolgs-Vereinbarung: nur bei Beratung, nicht bei Klage (§ 49b BRAO)
+- Wenn Bank Zwangsversteigerungs-Antrag stellt
+- Eilantrag auf einstweilige Einstellung der Zwangsversteigerung
+- § 30b ZVG: Antrag auf Versagung des Zuschlags aus sozialen Gründen (wenn selbstgenutzte Immobilie)
 
-## Anschluss
+### Schritt 4 — Klage auf Feststellung Unwirksamkeit der Kündigung
 
-- `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` — bei verbundener SCHUFA-Frage
-- `testakten/krisenfrueherkennung-starug-vier-varianten` — bei drohender Insolvenz
-- `liquiditaetsplanung` — bei Sanierungs-Konzept
+- Verpflichtungsklage oder Feststellungsklage
+- Streitwert = Restschuld
+- Eilantrag § 940 ZPO / § 935 ZPO
+
+## Beweislast und Darlegungslast
+
+- **Bank**: trägt Darlegungslast für wesentliche Vermögensverschlechterung; konkrete Tatsachen, nicht bloße Einschätzung (BGH XI ZR 348/13).
+- **Bank**: muss bei § 498 BGB belegen, dass Verzugsschwelle + Mahnung + Frist eingehalten wurden.
+- **Kreditnehmer**: kann Gegenbeweis durch Liquiditätsplan, aktuelle BWA, Sachverständigengutachten erbringen.
+- **SCHUFA-Meldung**: Bank muss Berechtigung nach § 31 BDSG belegen; ggf. Anspruch auf Löschung.
+
+## Fristen
+
+| Frist | Dauer | Rechtsgrundlage |
+|---|---|---|
+| Widerspruch gegen Kündigung | 2–4 Wochen (keine gesetzl. Frist, aber taktisch) | BGH XI ZR 178/10 |
+| § 498 BGB-Mahnung Reaktionsfrist | 2 Wochen nach Mahnung | § 498 Abs. 1 Nr. 2 BGB |
+| Klage gegen Kündigung | Vor Zwangsversteigerungs-Zuschlag | ZVG §§ 83, 100 |
+| Vollstreckungsgegenklage | Vor Beendigung der Vollstreckung | § 767 ZPO |
+| Verjährung Schadensersatz | 3 Jahre | §§ 195, 199 BGB |
+
+## Streitwert und Kosten
+
+- **Kreditkündigung**: Streitwert = Restschuld des Kredits (bei 200.000 EUR Restschuld: LG-Verfahren).
+- **Eilverfahren § 940 ZPO**: Streitwert reduziert (meist 1/3 der Hauptsache).
+- **RVG**: nach Gegenstandswert; bei 200.000 EUR Streitwert: ca. 3.000–5.000 EUR Anwaltsgebühren pro Instanz.
+- **Bank-Strategie**: Vorgerichtliche Einigung meist günstiger als Klageverfahren.
+
+## Anschluss-Skills
+
+- `widerrufsjoker-immobiliendarlehen` — wenn Immobiliendarlehen fehlerhaft belehrt
+- `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` — bei StaRUG-Potential
+- `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` — bei betrügerisch aufgenommenem Kredit
+
+## Quellen
+
+- BGB §§ 288, 314, 490, 498, 252
+- AGB-Banken Nr. 19
+- ZVG §§ 30b, 83, 100
+- ZPO §§ 767, 935, 940
+- BDSG § 31; DSGVO Art. 4
+- BGH XI ZR 178/10 (26.05.2020); BGH XI ZR 348/13 (28.10.2014)
+- BGH XI ZR 81/14 (21.03.2017); OLG Frankfurt 17 U 183/17 (28.11.2018)
+- Nobbe Kommentar Kreditrecht; Schimansky/Bunte/Lwowski Bankrechts-Handbuch

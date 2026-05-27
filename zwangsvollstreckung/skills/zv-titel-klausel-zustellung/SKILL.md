@@ -1,6 +1,6 @@
 ---
 name: zv-titel-klausel-zustellung
-description: "Prüft die drei Säulen der Zwangsvollstreckung nach § 704 sowie §§ 724 und 750 ZPO: vollstreckbarer Titel, Vollstreckungsklausel und Zustellung an den Schuldner. Klärt Klauselbeschaffung beim Urkundsbeamten/Notar/Insolvenzgericht, Übertragung der Klausel auf Rechtsnachfolger nach §§ 727 ff. ZPO, qualifizierte Klausel bei bedingten Titeln und Wartefrist § 750 Abs. 1 ZPO. Lädt, wenn Unsicherheit besteht, ob aus einem Titel überhaupt vollstreckt werden darf."
+description: "Glaeubiger hat Urteil oder sonstigen Titel und prueft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Pruefraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Pruefprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung)."
 ---
 
 # Drei-Säulen-Prüfung: Titel, Klausel, Zustellung

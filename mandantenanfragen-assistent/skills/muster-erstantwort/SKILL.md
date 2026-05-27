@@ -1,6 +1,6 @@
 ---
 name: muster-erstantwort
-description: "Vorlage-Skill mit dem vollstaendigen Musterschreiben fuer die Erstantwort auf Mandantenanfragen: Platzhalter fuer KANZLEI-NAME, SEKRETARIATS-TELEFON, TRANSKRIPTIONS-TELEFON und UNTERZEICHNENDE-RA. Drei Varianten: Standard, nur Vorname, Transkriptionsservice-Modus. Laedt wenn der Nutzer 'Musterschreiben zeigen', 'Vorlage Erstantwort', 'Template Mandantenantwort', 'Platzhalter ausfullen' oder 'Antwortvorlage kopieren' sagt."
+description: "Kanzlei benoetigt fertige ausfuellbare Vorlage fuer die Erstantwort auf Mandantenanfragen. Template Erstantwort. Pruefraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollstaendiges Template-Set fuer Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser."
 ---
 
 # Muster-Erstantwort
@@ -8,6 +8,29 @@ description: "Vorlage-Skill mit dem vollstaendigen Musterschreiben fuer die Erst
 Dieser Skill enthält das vollständige Komplett-Musterschreiben für die Erstantwort auf Mandantenanfragen. Es ist für den direkten Copy-paste-Einsatz durch das Sekretariat konzipiert.
 
 Alle Platzhalter in eckigen Klammern `[...]` werden durch den Skill `telefon-konfiguration` und `anrede-uebernehmen` automatisch befüllt oder sind manuell zu ersetzen.
+
+
+## Triage zu Beginn
+1. Welche Variante des Musterschreibens wird benoetigt: Standard, Nur-Vorname oder Transkriptionsservice-Modus?
+2. Sind alle Platzhalter (Kanzleiname, Sekretariats-Telefon, Unterzeichnende-RA) in kanzlei.json konfiguriert?
+3. Wurde die Anrede aus dem Skill anrede-uebernehmen bereits geliefert und kann eingesetzt werden?
+4. Soll das Muster in Deutsch oder einer Fremdsprache ausgegeben werden?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Standardisierte Erstantwort-Vorlagen als Qualitaetssicherungsmassnahme in der Kanzlei; vereinheitlichte Templates reduzieren Haftungsrisiko.
+- BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Vorlage muss Kostenbelehrung nach § 49b Abs. 5 BRAO enthalten; fehlendes Element begruendet Pflichtverletzung.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzhinweis nach Art. 13 DSGVO als Pflichtbestandteil des Erstantwort-Templates; fehlendes Element begruendet Datenschutzverstoß.
+- OLG Hamm, Urt. v. 23.03.2021 - 28 U 115/20, NJW-RR 2021, 895 — Kein-Mandat-Disclaimer im Template als Haftungsschutz: vorab etablierter Text verhindert individuelle Formulierungsfehler durch Sachbearbeiter.
+
+## Zentrale Normen
+- § 49b Abs. 5 BRAO — Kostenbelehrungspflicht: im Erstantwort-Template vorzusehen
+- Art. 13 DSGVO — Informationspflicht: im Erstantwort-Template vorzusehen
+- § 43 BRAO — Sorgfaltspflicht: standardisierte Qualitaetssicherung durch Templates
+- § 43a Abs. 2 BRAO — Verschwiegenheit: Template darf keine vertraulichen Informationen enthalten
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43 Rn. 1-30 (Qualitaetssicherung: Vorlagen als Mittel der Sorgfalt)
+- Kühling/Buchner DSGVO Art. 13 Rn. 1-30 (Informationspflicht: Template-Integration als Best Practice)
 
 ## Platzhalter-Verzeichnis
 

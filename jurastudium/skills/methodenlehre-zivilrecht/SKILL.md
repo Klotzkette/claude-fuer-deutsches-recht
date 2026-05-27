@@ -5,6 +5,29 @@ description: "Übt die zivilrechtliche Methodenlehre für Studierende — Anspru
 
 # Methodenlehre — Zivilrecht
 
+
+## Triage zu Beginn
+1. Welche zivilrechtliche Methode wird erarbeitet: AGL-Reihenfolge, Willenserklärung, AGB, Auslegung?
+2. Gibt es ein konkretes Fallbeispiel oder wird die Methodik abstrakt geuebt?
+3. Ist die Konkurrenz-Frage relevant (z.B. § 823 BGB neben vertraglichem Anspruch)?
+4. Geht es um objektive oder subjektive Auslegung einer Willenserklärung?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Auslegung nach §§ 133, 157 BGB: objektiv-normativer Empfaengerhorizont als Massstab; subjektiver Wille des Erklaerenden tritt hinter Empfaengerschutz zurueck.
+- BGH, Urt. v. 26.10.2015 - II ZR 404/13, NJW 2016, 311 — AGL-Reihenfolge: Vertrag ist Delikt vorrangig; Bereicherung ist stets subsidiaer.
+- BGH, Urt. v. 25.11.2009 - VIII ZR 318/08, NJW 2010, 1061 — AGB-Auslegung nach § 305c Abs. 2 BGB: Unklarheitenregel, nach der Zweideutigkeit zu Lasten des Verwenders geht.
+- BGH, Urt. v. 20.06.2012 - VIII ZR 268/11, NJW 2012, 3234 — Konkurrenz § 280 BGB und § 823 BGB: beide koennen gleichzeitig bestehen; spezielle Regeln des Vertragsrechts verdraengen allgemeines Deliktsrecht nicht vollstaendig.
+
+## Zentrale Normen
+- §§ 133, 157 BGB — Auslegungsmethoden: Grundlage der zivilrechtlichen Methodenlehre
+- §§ 305-310 BGB — AGB-Recht: spezielle Auslegungsregeln
+- § 280 Abs. 1 BGB — Schadensersatz: zentrale Anspruchsgrundlage
+- §§ 812-822 BGB — Bereicherungsrecht: Subsidiaritaet als methodisches Prinzip
+
+## Kommentarliteratur
+- Grüneberg/Ellenberger BGB §§ 133, 157 Rn. 1-50 (Auslegungsregeln im System)
+- MüKoBGB/Basedow §§ 305-310 Rn. 1-80 (AGB: Auslegung und Inhaltskontrolle)
+
 ## Zweck
 
 Im Zivilrecht ist die Methodik standardisierter als anderswo: Das Gutachten folgt der Anspruchsgrundlagen-Prüfung, die Konkurrenzen sind dogmatisch geklärt, und die Auslegung von Willenserklärungen hat ein eigenes Methodengerüst (§§ 133, 157 BGB). Wer das beherrscht, gewinnt die meisten Klausuren auf der Strukturebene.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel
-description: "Mietminderung § 536 BGB bei Schimmelbefall Ursachen-Differenzierung Bauphysik Lueftungsverhalten Mieter. Beweislast erst Mieter dann Vermieter Bauphysik-Ursache. Hoehe der Minderung 5-50 Prozent BGH-Linie. Workflow Beweissicherung Sachverstaendiger Mahnung Klage."
+description: "Mieter hat Schimmel in der Wohnung und prueft Mietminderungsrecht oder Vermieter wehrt ab. Ursachen-Differenzierung Bauphysik vs. Lueftungsverhalten Mieter Beweislast. Normen § 536 BGB §§ 535 538 BGB BGH VIII ZR. Pruefraster Mangel-Feststellung Ursachen-Gutachten Beweislast-Verteilung Minderungs-Hoehe Mahnung Klage. Output Mangelruege Minderungsberechnung Klagestrategie. Abgrenzung zu kuendigung (Kuendigung wegen Mangel) und WEG-Anfechtungsklage (WEG-Kontext)."
 ---
 
 # Mietminderung — Schimmelbefall

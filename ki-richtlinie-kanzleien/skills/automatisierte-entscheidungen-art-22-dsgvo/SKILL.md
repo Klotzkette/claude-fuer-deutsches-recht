@@ -1,6 +1,6 @@
 ---
 name: automatisierte-entscheidungen-art-22-dsgvo
-description: "Erläutert das Verbot ausschließlich automatisierter Einzelentscheidungen nach Art. 22 DSGVO, Ausnahmen, Einwilligungserfordernisse und konkrete Anwendungsfälle in Kanzleien wie Mandatszuordnung, Honorarberechnung und Bonitätsprüfung."
+description: "Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulaessig ist. Art. 22 DSGVO Verbot automatisierter Einzelentscheidungen, Art. 6 DSGVO Rechtsgrundlage, DSGVO Einwilligung. Pruefraster erhebliche Auswirkung der Entscheidung, Ausnahmen Einwilligung Vertrag gesetzliche Grundlage, Widerspruchsrecht und Gegendarstellung. Output Pruefprotokoll mit Einordnung und notwendigen Schutzmaßnahmen. Abgrenzung zu KI-VO-Betreiber-Pflichten und zu DSGVO-Compliance."
 ---
 
 # Automatisierte Entscheidungen Art. 22 DSGVO
@@ -34,3 +34,47 @@ Sofern KI-Systeme an Entscheidungen mit Auswirkungen auf Mandanten oder Dritte b
 ## Hinweise zur Aktualisierung
 
 Mit zunehmender Integration von KI-Systemen in Kanzleimanagement-Software (z.B. automatische Mandatszuordnung, Dokumentenpriorisierung) steigt die Relevanz des Art. 22 DSGVO. Neue EuGH- oder BGH-Entscheidungen zur Auslegung von Art. 22 DSGVO sowie Leitlinien des Europäischen Datenschutzausschusses (EDSA) sind regelmäßig zu prüfen.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Automatisiertes Scoring als Art. 22 Abs. 1 DSGVO-Entscheidung, wenn Score massgebliche Grundlage fuer Drittentscheidung; kein vollautomatischer Beschluss erforderlich.
+- EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik verstaendlich offenlegen — Transparenzpflicht nach Art. 22 Abs. 3 DSGVO.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- OLG Frankfurt, Urt. v. 14.11.2022 — 17 U 107/22, NJW-RR 2023, 412 Rn. 20: Praeventiver Unterlassungsanspruch bei drohendem Art. 22-Verstoss ohne Human-in-the-Loop.
+
+## Zentrale Normen (Paragrafenkette)
+- Art. 22 Abs. 1 DSGVO — Verbot vollautomatisierter Einzelentscheidungen mit Rechtswirkung
+- Art. 22 Abs. 2 lit. a-c DSGVO — Ausnahmen (Vertrag, gesetzliche Pflicht, Einwilligung)
+- Art. 22 Abs. 3 DSGVO — Widerspruchsrecht und menschliche Pruefung
+- Art. 13/14 DSGVO — Informationspflichten bei automatisierten Entscheidungen
+- § 26 BDSG — Beschaeftigtendatenschutz bei KI-Mitarbeiterbewertung
+
+## Triage zu Beginn
+1. Liegt eine vollautomatisierte Entscheidung mit Rechtswirkung oder erheblicher Beeintraechtigung vor?
+2. Ist eine Rechtsgrundlage nach Art. 22 Abs. 2 lit. a-c DSGVO gegeben?
+3. Ist ein menschlicher Ueberpruefer vorgesehen — oder stempelt er nur ab (Stempel-Risiko)?
+4. Werden Betroffene nach Art. 13/14 DSGVO ueber die automatisierte Entscheidung informiert?
+5. Ist ein Widerspruchsrecht und eine Korrekturmoeglichkeit nach Art. 22 Abs. 3 DSGVO implementiert?
+
+## Output-Template — Art. 22 DSGVO-Pruefprotokoll
+**Adressat:** DSB / Compliance — Tonfall: strukturiert, rechtlich
+```
+ART. 22 DSGVO-PRUEFPROTOKOLL
+[DATUM] — System: [SYSTEMNAME] — Anwendungsfall: [BESCHREIBUNG]
+
+Vollautomatisiert: [JA / NEIN]
+Rechtswirkung / erhebliche Beeintraechtigung: [JA / NEIN — BEGRUENDUNG]
+Art. 22 Abs. 1 DSGVO einschlaegig: [JA / NEIN]
+
+Falls einschlaegig — Rechtsgrundlage Art. 22 Abs. 2:
+☑/☐ lit. a — Vertragserfuellung
+☑/☐ lit. b — gesetzliche Pflicht
+☑/☐ lit. c — ausdrueckliche Einwilligung
+
+Human-in-the-Loop: [JA — wie: BESCHREIBUNG / NEIN / NOMINELL — Stempel-Risiko]
+Widerspruchsrecht implementiert: [JA / NEIN]
+Informationspflicht Art. 13/14 DSGVO erfuellt: [JA / NEIN]
+
+Ergebnis: [ZULASSIG / UNZULASSIG — MASSNAHME ERFORDERLICH]
+Massnahme: [BESCHREIBUNG bis DATUM]
+Geprueft von: [NAME], [DATUM]
+```

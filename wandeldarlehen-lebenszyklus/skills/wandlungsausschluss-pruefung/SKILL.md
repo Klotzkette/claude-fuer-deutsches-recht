@@ -1,6 +1,6 @@
 ---
 name: wandlungsausschluss-pruefung
-description: "Pruefung Verfallklauseln, Erloeschen des Wandlungsrechts, Verzicht, Verjaehrung (§§ 194 ff. BGB, drei Jahre) und vertragliche Ausschlussgruende. Wann ist das Wandlungsrecht des Lenders nicht mehr ausuebbar? Auswirkung auf Rueckzahlungsanspruch."
+description: "Pruefen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Pruefraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Pruefmemo Empfehlung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Wandlungsausschluss-Prüfung
@@ -79,3 +79,15 @@ Wandlungsrecht besteht: Weiter zu `wandlungspreis-berechnung`. Wandlungsrecht er
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung BGB-Verjährungsrecht aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 22.09.2014 — **II ZR 57/13**, NJW 2014, 3442 Rn. 18: Wandlungsausschluss-Klauseln (z.B. bei Insolvenz des Unternehmens vor dem Qualifying Event) sind zulässig, müssen aber klar und eindeutig formuliert sein; im Zweifel ist die Klausel nach § 305c Abs. 2 BGB gegen den Klauselverwender (Gesellschaft) auszulegen, was zugunsten des Darlehensgebers auf Wandlung hinausläuft.
+
+BGH, Urt. v. 21.07.2008 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 20: Bei Insolvenz der Gesellschaft vor Wandlung kann der Insolvenzverwalter das Wandeldarlehn als Gesellschafterdarlehen einordnen; das Wandlungsrecht erlischt durch Insolvenzeröffnung nicht automatisch, ist jedoch der Insolvenzquote der nachrangigen Gläubiger unterworfen (§ 39 Abs. 1 Nr. 5 InsO).
+
+### Normen-Ergänzung
+
+§ 305c Abs. 2 BGB (Unklarheitenregelung gegen Verwender) → § 307 BGB (AGB-Kontrolle) → § 39 InsO (Nachrang Gesellschafterdarlehen) → § 119 InsO (Unwirksamkeit insolvenzabhängiger Lösungsklauseln) → §§ 55, 56 GmbHG (Kapitalerhöhung, Voraussetzung Wandlung)

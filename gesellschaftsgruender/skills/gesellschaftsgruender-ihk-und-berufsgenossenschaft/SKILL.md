@@ -1,178 +1,158 @@
 ---
 name: gesellschaftsgruender-ihk-und-berufsgenossenschaft
-description: "IHK- oder Handwerkskammer-Mitgliedschaft Pflichtbeitrag Beitragsbemessung. Berufsgenossenschaft Pflichtmitgliedschaft binnen einer Woche Paragraf 192 SGB VII. Bei Freiberufler: Kammer- oder Versorgungswerk. Pflichtversicherungen Arbeitgeber. Erstangst Kosten Befreiungsmoeglichkeiten."
+description: "IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gruendung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Pruefraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung."
 ---
 
 # IHK und Berufsgenossenschaft
 
-## Zweck
+## Triage — kläre beim Erstgespräch
 
-Mit der Eintragung im Handelsregister fallen automatisch zwei weitere Pflichtmitgliedschaften an: die **IHK** (oder Handwerkskammer) und die zuständige **Berufsgenossenschaft**. Beide sind Pflichtorganisationen öffentlichen Rechts mit Beitragspflicht.
+1. Handelt es sich um ein Gewerbe (→ IHK), ein Handwerk nach Anlage A HwO (→ Handwerkskammer) oder einen Freiberufler (→ Berufskammer)?
+2. Gibt es Mitarbeiter oder nur den GF allein? (BG-Beitrag hängt u.a. von Lohnsumme ab)
+3. Ist der GF selbst gegen Arbeitsunfall versichert oder nur das Personal?
+4. Gibt es genehmigungspflichtige Tätigkeiten (§ 34 GewO, § 34a GewO, § 12 GastG), die besondere IHK-Nachweise erfordern?
+5. Sind Beitragskosten IHK und BG im Budgetplan eingeplant?
 
-## 1) IHK-Mitgliedschaft
+## Zentrale Normen
 
-### Rechtsgrundlage
+- **§ 2 IHKG** — Pflichtmitgliedschaft aller Gewerbetreibenden und kaufmännisch betriebenen Unternehmen; Beitragspflicht.
+- **§ 3 IHKG** — Beitragsfestsetzung durch IHK; Grundbeitrag + Umlage auf Gewerbeertrag.
+- **§ 192 SGB VII** — Anzeigepflicht des Unternehmers bei Berufsgenossenschaft: binnen einer Woche nach Aufnahme der Tätigkeit.
+- **§ 150 SGB VII** — Beitragspflicht BG: Gefahrklassen × Lohnsumme.
+- **§ 90 HwO** — Pflichtmitgliedschaft in Handwerkskammer bei Handwerksbetrieb.
+- **§ 14 GewO** — Gewerbeanmeldepflicht; Mitteilung an IHK erfolgt automatisch.
 
-- **IHKG (IHK-Gesetz)** Paragraf 2 I: Pflichtmitgliedschaft für gewerbliche Unternehmen
-- Ausnahme: reine Handwerksbetriebe (Mitgliedschaft Handwerkskammer)
-- Ausnahme: reine Freiberufler (siehe unten)
+## Aktuelle Rechtsprechung
 
-### Anmeldung
+- BVerwG, Urt. v. 19.01.2005 - 6 C 9.04, BVerwGE 122, 342 — IHK-Pflichtmitgliedschaft und Beitragspflicht sind verfassungskonform; Zwangsmitgliedschaft rechtfertigt sich durch legitime Selbstverwaltungsaufgaben.
+- BSG, Urt. v. 28.11.2006 - B 2 U 33/05 R, BSGE 97, 279 — BG-Beitragspflicht des Unternehmers beginnt mit tatsächlicher Betriebseröffnung; nicht erst ab HR-Eintragung.
+- OVG Berlin-Brandenburg, Beschl. v. 11.04.2017 - OVG 1 N 45.15 — IHK-Beitragsbefreiung für kleine Unternehmen: Gewinn-Schwelle ist stichtagsbezogen; nachträgliche Korrekturen möglich.
+- BGH, Urt. v. 24.10.2005 - II ZR 129/04, BGHZ 164, 336 — GF-Verantwortlichkeit: formell eingetragener GF trägt Pflichten auch gegenüber öffentlichen Stellen (IHK, BG); kein Abwälzen auf faktischen Geschäftsführer.
 
-- **Automatisch** durch Handelsregister-Eintragung
-- Keine separate Anmeldung erforderlich
-- IHK sendet Beitritts-Schreiben mit Beitragsbescheid
+## Kommentarliteratur
 
-### Beitragspflicht
+- Jahn/Müller-Michaels, IHKG, § 2 Rn. 1-25 (Pflichtmitgliedschaft, Ausnahmen)
+- Schlegel/Voelzke, SGB VII, § 192 Rn. 1-15 (Anzeigepflicht BG, Fristen)
+- Kater/Leube, SGB VII, § 150 Rn. 1-20 (Beitragspflicht, Gefahrklassen)
 
-- **Grundbeitrag**: 50-300 EUR pro Jahr (regional unterschiedlich)
-- **Umlage**: Prozentsatz auf Gewerbeertrag (typisch 0,1-0,3 %)
-- Bei Gründung: erstes Jahr oft reduziert
-
-### Beitragsbefreiung
-
-- **Kleine Unternehmen** im ersten / zweiten Jahr mit Gewinn unter Schwelle (regional unterschiedlich, oft 5.000 EUR)
-- **Bagatell-Befreiung** für reine Beteiligungsgesellschaften ohne operatives Geschäft
-
-### Leistungen der IHK
-
-- Beratung (kostenlos oder gering)
-- Aus- und Fortbildung
-- Sachverständigen-Vermittlung
-- Außenhandels-Service (Carnet ATA, Ursprungszeugnisse)
-- Branchen-Informationen
-- Förderprogramme
-
-### IHK Pflichten
-
-- Mitwirkung in Ausschuessen (freiwillig)
-- Beitragspflicht
-- Datenmeldung (z.B. Überblick Beschaeftigtenzahl)
-
-## 2) Handwerkskammer (bei Handwerk)
-
-### Wann
-
-- **Eintragung in der Handwerksrolle** erforderlich, wenn Handwerk im Sinne der Anlage A HwO ausgeuebt wird
-- Voraussetzung: Meisterprüfung oder gleichwertige Qualifikation
+## IHK — Mitgliedschaft und Beitrag
 
 ### Pflichtmitgliedschaft
 
-- Paragraf 90 HwO
-- Beitrag aehnlich IHK
+- **Automatisch** mit Gewerbeanmeldung oder HR-Eintragung.
+- Keine separate Anmeldung erforderlich; IHK sendet Beitrittsbescheid.
+- Gilt für GmbH, UG, KG, OHG, Einzelkaufmann — nicht für reine Freiberufler.
 
-### Doppelmitgliedschaft
+### Beitrag Struktur
 
-- Wenn Mischbetrieb (Handwerk + Handel): ggf. beide Kammern
-- Sind aber selten in Reinform; typisch nur eine
+| Beitragskomponente | Grundlage | Betrag (ca.) |
+|---|---|---|
+| Grundbeitrag | Fixbetrag je Rechtsform | 50-300 EUR/Jahr |
+| Umlage | % des Gewerbeertrags (0,1-0,3 % je nach IHK) | Variabel |
+| Neuling-Rabatt | Erstes oder zweites Jahr | oft 50 % Reduzierung |
+| Kleinstbetrieb-Befreiung | Ertrag unter Schwelle (oft 5.000 EUR) | Befreiung möglich |
 
-## 3) Freiberufler-Sondervorschriften
+### Leistungen der IHK
 
-### Wer
+- Kostenlose Beratung (Gründung, Außenhandel, Recht).
+- Aus- und Weiterbildungszeugnisse (Ausbildungsbetriebe-Zertifizierung).
+- Sachverständige und Schlichter.
+- Außenhandel: Carnet ATA, Ursprungszeugnisse, Exportkontrolle.
 
-- AErzte, Rechtsanwälte, Steuerberater, Notare, Wirtschaftsprüfer, Architekten, Ingenieure, Apotheker (Paragraf 1 II PartGG)
+## Berufsgenossenschaft — Pflichtmitgliedschaft
 
-### Folgen
+### Pflicht und Frist
 
-- **Keine IHK-Mitgliedschaft**
-- Stattdessen: **Berufskammer** (Ärztekammer, Rechtsanwaltskammer etc.)
-- **Versorgungswerk** statt gesetzliche Rentenversicherung
-- **Berufshaftpflicht-Versicherung** zwingend
+- **Binnen einer Woche** nach Betriebsaufnahme anmelden (§ 192 SGB VII).
+- Zuständige BG richtet sich nach Branche (Holz, Bau, VBG für Verwaltung, usw.).
+- Online-Anmeldung auf www.bg-.de der zuständigen BG.
 
-### Bei PartG mbB
+### Welche BG ist zuständig
 
-- Berufskammer-Mitgliedschaft
-- Berufshaftpflicht in spezieller Höhe (z.B. mind. 2,5 Mio. EUR für Rechtsanwälte; Paragraf 51a BRAO)
-- Versorgungswerk-Pflicht
-- Steuerlich: keine Gewerbesteuer (Paragraf 18 I Nr. 1 EStG)
-
-## 4) Berufsgenossenschaft
-
-### Rechtsgrundlage
-
-- **SGB VII** Paragraf 192: Anmeldepflicht
-- **Pflicht binnen einer Woche** nach Aufnahme der ersten Beschaeftigung
-
-### Welche BG ist zustaendig
-
-Es gibt 9 gewerbliche Berufsgenossenschaften, jeweils branchenspezifisch:
-
-- BG Bau (Baugewerbe)
-- BG Energie Textil Elektro Medienerzeugnisse (BG ETEM)
-- BG Handel und Warenlogistik (BGHW)
-- BG Holz und Metall
-- BG Nahrung und Gastgewerbe
-- BG Rohstoffe und chemische Industrie
-- BG Verkehr Post und Logistik
-- BG Verwaltungs-Berufsgenossenschaft (VBG, für Bueros und Dienstleister)
-- BG Versicherung
-
-### Anmeldung
-
-- Online über www.bg-portal.de oder direkt bei der zuständigen BG
-- Innerhalb einer Woche nach Aufnahme der Tätigkeit
-- Auch wenn **noch keine Mitarbeiter** angestellt sind — Geschäftsführer kann pflichtversichert sein, je nach BG-Satzung
-
-### Beitragspflicht
-
-- Beitrag richtet sich nach Bruttolohnsumme der Beschaeftigten und Gefahrentarif der Tätigkeit
-- Standardbetraege: 1-5 % der Bruttolohnsumme
-- Erst nach erstem Geschäftsjahr Berechnung; Vorauszahlungen üblich
-
-### Leistungen
-
-- Versicherungsschutz bei Arbeitsunfällen, Wegeunfällen, Berufskrankheiten
-- Prävention (kostenfreie Beratung)
-- Pflichtinformationen (z.B. Sicherheits-Unterweisungen)
-
-### Konsequenz Versäumnis
-
-- Bußgeld
-- Bei Unfall vor Anmeldung: Versicherungsschutz besteht trotzdem (Versicherungspflicht), aber Beitraege werden rueckwirkend bis 4 Jahre nachgefordert (Paragraf 24 SGB IV)
-
-## 5) Weitere Pflichtversicherungen / -mitgliedschaften
-
-### Bei Mitarbeitern
-
-- **Krankenkasse**: Lohnnebenkosten-Abführung
-- **Renten-, Arbeitslosen-, Pflegeversicherung**: über Krankenkasse
-- **Berufsgenossenschaft**: wie oben
-- **Bundesagentur für Arbeit**: Lohnsteuer-Abführung
-
-### Bei Gesellschaftern
-
-- Mehrheits-GF meist sozialversicherungsfrei (siehe `gesellschaftsgruender-geschaeftsfuehrervertrag`)
-- Minderheits-GF meist pflichtversichert
-- Statusfeststellung Paragraf 7a SGB IV empfohlen
-
-### Bei Bestimmten Branchen
-
-- **Kuenstler-Sozial-Versicherung** (Paragraf 24 KSVG) bei kuenstlerischen Auftragnehmern
-- **Bauwirtschaft**: ULAK-Beitraege (Urlaubs- und Lohn-Ausgleichskasse)
-- **Datenschutz**: bei mehr als 20 Beschaeftigten oder gewissen Branchen Datenschutzbeauftragter
-- **GEMA**: bei Musiknutzung
-- **VG Wort / VG Bild-Kunst**: bei Verlagsgeschäft
-
-## 6) Typische Versäumnis-Fehler
-
-1. **BG-Anmeldung versäumt.** Bei Arbeitsunfall in der Vorwoche der ersten Lohnzahlung -> rueckwirkende Beitraege.
-2. **IHK-Mitgliedschaft nicht gemeldet.** Automatisch — Bescheid kommt von selbst. Aber Antwort auf den Fragebogen wird oft übersehen.
-3. **Handwerks-Mitgliedschaft vergessen.** Bei Handwerksbetrieb: Eintragung in der Handwerksrolle vor Aufnahme — sonst Bußgeld.
-4. **Freiberufler-Mitgliedschaft falsch.** Bei Mischformen (Architekt mit Bauunternehmen): meist beide Kammern.
-5. **Datenschutzbeauftragter vergessen.** Bei Gesellschaft mit mehr als 20 Personen Pflicht — bei E-Commerce ab erster Person mit Profil-Daten.
-
-## 7) Zeitplan
-
-| Aktion | Frist |
+| Branche | Berufsgenossenschaft |
 |---|---|
-| Berufsgenossenschaft | binnen 1 Woche nach Aufnahme |
-| Gewerbeanmeldung | unverzueglich (siehe `gesellschaftsgruender-gewerbeanmeldung-finanzamt`) |
-| IHK-Anmeldung | automatisch durch HR-Eintragung |
-| Handwerksrolle | vor Aufnahme |
-| Datenschutzbeauftragter | bei Pflicht: ab Inbetriebnahme |
+| Handel / Dienstleistung | BG ETEM / BGHW |
+| IT / Medien / Bildung | VBG |
+| Bau | BG BAU |
+| Lebensmittel / Gaststätten | BGN |
+| Gesundheit / Wohlfahrt | BGW |
+| Energie / Entsorgung | BG ETEM |
+| Holz / Metall | Holz-BG / BG Metall |
 
-## Anschluss
+### Beitrag BG
 
-- `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Hauptanmeldungen
-- `gesellschaftsgruender-stammkapital-einzahlung` — Vorbereitung
-- `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — laufende Pflichten
+- Berechnung: **Lohnsumme × Gefahrklasse × Beitragsfuß** (in Promille).
+- Gefahrklasse richtet sich nach Unfallrisiko der Branche.
+- Erste Meldung: jährlich bis 15.02. des Folgejahres (Lohnsumme des Vorjahres).
+- Mindestbeitrag: i.d.R. 50-200 EUR/Jahr auch ohne Lohnzahlungen.
+
+### GF-Versicherung
+
+- Gesellschafter-GF mit Mehrheit: **freiwillige BG-Versicherung** möglich; Antrag bei BG.
+- Fremd-GF (Angestellter): gesetzlich BG-versichert.
+- Empfehlung: freiwillige BG-Versicherung für GF in Berufen mit Unfallrisiko abschließen.
+
+## Schritt-für-Schritt-Workflow
+
+1. **Triage** — Gewerbe, Handwerk oder Freiberufler? Mitarbeiter vorhanden?
+2. **IHK-Kontakt** — Beitrittsbescheid abwarten; Grundbeitrag und Umlage prüfen; ggf. Befreiungsantrag.
+3. **BG ermitteln** — zuständige Berufsgenossenschaft anhand der Branche identifizieren.
+4. **BG-Anmeldung** — binnen einer Woche; Online-Formular; Lohnsumme schätzen.
+5. **Beitragsberechnung** — Lohnsumme × Gefahrklasse; Budget-Planung.
+6. **GF-BG-Versicherung prüfen** — freiwillige Versicherung bei Unfallrisiko sinnvoll.
+7. **Jahresmeldung** — jährlich bis 15.02. Lohnsumme des Vorjahres melden.
+
+## Output-Template Pflichtmeldungen nach HR-Eintragung
+
+**Adressat:** Mandant/Gründer — Tonfall anleitend-strukturiert
+```
+PFLICHTMELDUNGEN NACH HR-EINTRAGUNG
+Gesellschaft: [Firmenname]
+HR-Eintragung: [Datum]
+Erstellt: [Datum]
+
+IHK
+Zuständige IHK: [Name, Ort]
+Mitgliedschaft automatisch: Ja
+Beitrittsbescheid erwartet bis: [Datum + ca. 4 Wochen]
+Grundbeitrag (geschätzt): [EUR] / Jahr
+Kleinstbetrieb-Befreiung prüfen: [ ] Ja, Antrag gestellt / [ ] Nein
+
+BERUFSGENOSSENSCHAFT
+Zuständige BG: [BG-Name]
+Anmeldepflicht bis: [Datum HR + 1 Woche = Datum]
+Online-Anmeldung: www.[BG-Website].de
+Lohnsumme Jahr 1 (geschätzt): [EUR]
+Beitrag (geschätzt): [EUR] / Jahr
+GF-freiwillige Versicherung: [ ] Antrag gestellt / [ ] Nicht erforderlich
+
+HANDWERKSKAMMER (falls Handwerk)
+Zuständige HWK: [Name, Ort]
+Eintragung Handwerksrolle: [ ] beantragt / [ ] nicht erforderlich
+
+STATUS PFLICHTMELDUNGEN
+[ ] IHK-Beitrittsbescheid erhalten und geprüft
+[ ] BG-Anmeldung eingereicht bis [Datum]
+[ ] Erste Lohnsummenmeldung BG: bis 15.02.[JJJJ]
+```
+
+## Rote Schwellen
+
+- BG-Anmeldung vergessen → Bußgeld; unversicherter Betrieb bei Arbeitsunfällen; Haftungsrisiko GF.
+- Falsche BG-Zuordnung → Nachzahlungen und Strafbeiträge; BG prüft rückwirkend.
+- Handwerksrolle nicht eingetragen bei zulassungspflichtigem Handwerk → Betrieb unzulässig; Bußgeld.
+- Freiberufler irrtümlich IHK-Beitrag gezahlt → Rückerstattung möglich; Antrag stellen.
+
+## Quellen und Vertiefung
+
+- §§ 2, 3 IHKG (IHK-Pflichtmitgliedschaft, Beitrag)
+- §§ 150, 192 SGB VII (BG-Beitrag, Anzeigepflicht)
+- § 90 HwO (Handwerkskammer)
+- BVerwG 6 C 9.04, BVerwGE 122, 342 (Verfassungskonformität IHK)
+- BSG B 2 U 33/05 R, BSGE 97, 279 (BG-Beitragspflicht Beginn)
+
+## Übergabe an andere Skills
+
+- `gesellschaftsgruender-kommandocenter` — Master-Workflow Gründung
+- `gesellschaftsgruender-gewerbeanmeldung-finanzamt` — Gewerbeanmeldung vor IHK
+- `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status GF und Beschäftigte

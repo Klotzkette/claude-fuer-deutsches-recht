@@ -1,136 +1,288 @@
 ---
 name: fachanwalt-erbrecht-krypto-wallet-nachlass-multisig
-description: "Sonderfall Nachlass Krypto-Vermoegen mit Multi-Sig-Wallet oder Hardware-Wallet ohne Seed-Phrase. Erblasser hat Wallet nicht eroeffnungsbereit hinterlassen. Erbenstellung § 1922 BGB plus technische Verwertbarkeit. Beweisfuehrung Eigentum am Krypto-Vermoegen. Steuerliche Bewertung § 23 EStG / ErbStG zum Todeszeitpunkt. Auseinandersetzung bei Erbengemeinschaft. Workflow Asset-Identifikation Wallet-Zugang Bewertung."
+description: "Krypto-Vermoegenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen. §§ 1922 1967 BGB digitale Nachlasswerte. Pruefraster: Wallet-Zugang Private Keys Multi-Sig Wertermittlung Steuer Erbschaft Sicherung. Output: Sicherungsplan Uebergabe-Anleitung Steuerhinweise. Abgrenzung: nicht fuer allgemeine Nachlassaufnahme."
 ---
 
-# Krypto-Nachlass — Multi-Sig-Wallet ohne Seed-Phrase
+# Digitaler Nachlass — Krypto-Wallet und Multi-Sig
 
-## Zweck
+## Mandantenfragen beim Kaltstart
 
-Spezial-Mandat: Erblasser hinterlässt Krypto-Vermögen, aber Erben kommen nicht an die Wallet. Hardware-Wallet ohne Seed-Phrase, Multi-Sig-Wallet mit Mit-Signern (Verstorbenem + Dritten), Custodial Account ohne Zugangsdaten — alle drei Konstellationen verlangen eigenes Vorgehen. Bewertung zum Todesstichtag für Pflichtteil + ErbSt nicht trivial.
+1. In welcher Wallet-Form sind die Krypto-Assets gespeichert — Hardware-Wallet (Ledger, Trezor), Software-Wallet, Custodial Exchange (Coinbase, Binance, Kraken) oder Multi-Signature-Wallet?
+2. Liegt die Seed-Phrase (12–24 Wörter, BIP39-Standard) vor? Wurde sie schriftlich hinterlegt (Tresor, Notar, Safe)?
+3. Welche Kryptowährungen sind betroffen — Bitcoin, Ethereum, Stablecoins, NFTs, DeFi-Token?
+4. Welcher Wert zum Todestag (Stichtag § 11 ErbStG)? Liegen Transaktionshistorien vor (Steuererklärung)?
+5. Ist eine Vollmacht oder postmortale Vollmacht erteilt worden? Gibt es ein Testament mit Erbeinsetzung für Krypto?
+6. Hat der Exchange Kenntnis vom Erbfall? Wurden Zugangssperrungen vorgenommen?
+7. Wie hoch ist der Anschaffungswert (relevant für § 23 EStG Spekulationsgewinnsteuer)?
+8. Gibt es Hinweise auf Smart-Contract-gebundene Assets (DeFi Liquidity Pools, Staking-Verträge)?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Eingaben
+## Rechtsgrundlagen
 
-- Wallet-Typ (Hardware-Wallet Ledger/Trezor, Software-Wallet, Custodial Exchange, Multi-Sig)
-- Vorhandene Anhaltspunkte (Briefverkehr, USB-Sticks, Notizen mit Seed-Wörtern, Recovery-Cards)
-- Mit-Signer bei Multi-Sig bekannt?
-- Token-/Coin-Bestand (Bitcoin, Ethereum, ERC-20, NFTs)
-- Bewertung am Todestag (€)
-- Erbengemeinschaft oder Alleinerbe
-- Steuerwerte für ErbSt-Erklärung
+| Norm | Inhalt |
+|------|--------|
+| § 1922 BGB | Gesamtrechtsnachfolge — alle Vermögenswerte einschließlich digitaler Assets gehen auf Erben über |
+| § 1937 ff. BGB | Testierfreiheit — Krypto-Assets können testamentarisch zugewiesen werden |
+| § 2032 ff. BGB | Erbengemeinschaft — gemeinsame Verfügungsbefugnis über Nachlassgegenstände |
+| § 261 BGB | Auskunft und Erteilung eidesstattlicher Versicherung |
+| § 2314 BGB | Auskunftsanspruch Pflichtteilsberechtigter — umfasst Krypto-Assets |
+| § 12 ErbStG | Bewertung zum Todestag — Krypto-Marktwert am Sterbetag |
+| § 23 Abs. 1 Nr. 2 EStG | Spekulationsgewinnsteuer bei Veräußerung innerhalb Jahresfrist |
+| § 17 EStG | Wesentliche Beteiligung — relevant bei Token mit Gesellschafterstellung |
+| § 10 Abs. 5 Nr. 3 ErbStG | Nachlassverbindlichkeiten — Steuerschulden aus Krypto abzugsfähig |
 
-## Rechtlicher Rahmen
+## Leitentscheidungen
 
-### Erbrecht
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | III ZR 183/17 | 12.07.2018 | "Facebook-Erbe" — digitale Accounts gehen als Nachlassgegenstände auf Erben über; Erbenstellung als Vertragspartei bei höchstpersönlichen Rechten differenzieren |
+| BFH | IX R 3/22 | 14.02.2023 | Krypto-Veräußerungsgewinne sind Einkünfte nach § 23 EStG; Behaltefrist ein Jahr; nach Ablauf steuerfrei |
+| FG Köln | 14 K 1212/20 | 25.11.2020 | Bitcoin als sonstige wirtschaftliche Einheit; Bewertung nach Börsenkurs am Stichtag |
+| BVerfG | 2 BvL 8/23 | anhängig | Verfassungsmäßigkeit § 23 EStG bei Krypto — Stand 05/2026 noch nicht entschieden |
 
-- **§ 1922 BGB** — Gesamtrechtsnachfolge: Krypto als digitales Vermögensgut erfasst (BGH-Linie zu digitalen Inhalten: III ZR 183/17 "Facebook-Erbe")
-- **§ 2032 BGB** — Erbengemeinschaft: Bruchteilsgemeinschaft am Krypto-Vermögen bis Auseinandersetzung
-- **§ 2042 BGB** — Auseinandersetzung; bei Krypto regelmäßig durch Verkauf + Aufteilung Erlös
-- **§ 2314 BGB** — Auskunftsanspruch Pflichtteilsberechtigter
-- **§ 2050 BGB** — Ausgleichung bei Schenkung Wallet-Zugang zu Lebzeiten
+## Konstellationen und Lösungsansätze
 
-### Steuerrecht
+### Konstellation A — Hardware-Wallet ohne zugängliche Seed-Phrase
 
-- **§ 12 ErbStG i.V.m. § 9 BewG** — Bewertung zum Todesstichtag (gemeiner Wert = Marktwert)
-- **§ 23 EStG** — Bei Veräußerung durch Erben: Spekulationsfrist 1 Jahr, Übernahme der AK (BFH IX R 3/22)
-- **BMF-Schreiben vom 10.5.2022** und **Folgeschreiben 22.11.2024** zur steuerlichen Behandlung Krypto
+**Problem:** Erblasser hat Seed-Phrase nicht dokumentiert; Hardware-Wallet gesperrt (PIN-Versuche erschöpft).
 
-### Leitentscheidungen
+| Schritt | Maßnahme | Rechtliche Grundlage |
+|---------|---------|---------------------|
+| 1 | Hardware-Wallet sicherstellen, nicht weiter entsperren | Eigentümerrecht § 903 BGB |
+| 2 | Forensische Datenrettung durch spezialisierte Dienstleister (Unciphered, KeychainX) | Kosten als Nachlassverbindlichkeit |
+| 3 | Bei digitalem Nachlass-Tresor oder Notar-Hinterlegung recherchieren | § 34 BNotO |
+| 4 | Umfeld befragen (Hinterlassenschaft, Safe, digital) | — |
+| 5 | Bei endgültigem Verlust: steuerliche Wertberichtigung auf null | BMF 22.11.2024 |
 
-- BGH, Urt. v. 12.7.2018 — **III ZR 183/17** "Facebook-Erbe" (Digitale Inhalte erbbar)
-- BFH, Urt. v. 14.2.2023 — **IX R 3/22** (Krypto-Veräußerung § 23 EStG steuerpflichtig)
-- BFH-anhängig (2025) zu Krypto-Bewertung bei Erbschaft mit illiquiden Token
+**Erbschaftsteuer-Problem:** § 12 ErbStG — Assets werden zum Todestag bewertet auch wenn faktisch nicht zugänglich. Anfechtung möglich wenn Unzugänglichkeit beweisbar (Verweis auf § 12 Abs. 4 BewG).
 
-## Konstellationen
+### Konstellation B — Multi-Signature-Wallet (2-von-3-Signatur)
 
-### A — Hardware-Wallet ohne Seed-Phrase
+**Problem:** Wallet erfordert Signaturen mehrerer Schlüssel; Mitunterzeichner verweigern Kooperation.
 
-- Wallet (Ledger/Trezor) physisch vorhanden, PIN unbekannt
-- Bei 3 Fehlversuchen: Reset → Vermögen verloren wenn Seed nicht extern
-- **Lösung**: forensische Datenwiederherstellung (selten erfolgreich) oder Trezor-Bruteforce-Tools (rechtlich grau)
-- Bei Totalverlust: Bewertungsfrage — ErbSt auf nicht-zugängliches Vermögen?
+| Schritt | Maßnahme | Rechtliche Grundlage |
+|---------|---------|---------------------|
+| 1 | Erbenstellung nachweisen (Erbschein § 2353 BGB) | § 2353 ff. BGB |
+| 2 | Klage auf Mitwirkung der anderen Schlüsselhalter | §§ 241, 242 BGB Treuepflicht |
+| 3 | Einstweilige Verfügung auf vorläufige Zugangssicherung | §§ 935, 940 ZPO |
+| 4 | Bei Smart-Contract-Multi-Sig: technisches Gutachten zum Schlüsselrecht | Sachverständige |
 
-### B — Multi-Sig-Wallet (2-of-3 / 3-of-5)
+### Konstellation C — Custodial Exchange (Coinbase, Binance, Kraken)
 
-- Erblasser war einer von mehreren Signern
-- Bei 2-of-3: zwei verbleibende Signer können verfügen (auch ohne Erblasser-Key)
-- Bei 3-of-3: Erbe braucht Erblasser-Key zwingend
-- **Rechtlich**: Mit-Signer haben Treuhand-/Fremdgeldverwahrungs-Pflichten (§ 667 BGB analog)
+**Problem:** Exchange hat Zugangsdaten des Erblassers; Erbe muss sich gegenüber Exchange legitimieren.
 
-### C — Custodial Exchange ohne Zugangsdaten
+| Schritt | Maßnahme | Frist |
+|---------|---------|-------|
+| 1 | Erbschein oder eröffnetes Testament + Sterbeurkunde einreichen | Unverzüglich nach Erbfall |
+| 2 | Exchange-Widerspruchsfrist: oft 60–90 Tage nach Meldung | Exchange-AGB |
+| 3 | Bei Verweigerung: Klage auf Herausgabe des Kontoguthabens | § 985 BGB analog (Quasi-Eigentümer) |
+| 4 | Steuerliche Dokumentation: Transaktionshistorie anfordern | BFH IX R 3/22 |
+| 5 | Jahresfrist § 23 EStG prüfen: Anschaffung des Erblassers relevant | BMF 22.11.2024 |
 
-- Bitvavo, Binance, Coinbase, Bitpanda — KYC-Konto
-- Identitätsnachweis Erbe + Erbschein + Todesurkunde
-- Plattformen haben Erbschafts-Prozesse (Coinbase: Estate, Bitvavo: Inheritance)
-- Frist regelmäßig 12 Wochen
+**BGH III ZR 183/17-Übertragung:** Exchange ist verpflichtet, mit Erben als Rechtsnachfolger zu kontrahieren; höchstpersönliche AGB-Klauseln, die Vererblichkeit ausschließen, sind nach BGH-Rechtsprechung regelmäßig unwirksam (AGB-Kontrolle §§ 305 ff. BGB).
 
-## Workflow
+### Konstellation D — Unbekannte Wallets und unvollständige Dokumentation
 
-### Phase 1 — Asset-Identifikation
+**Ermittlung:** 
+- Gerät-Forensik (Computer, Smartphone): Wallet-Software-Spuren
+- Blockchain-Explorer (Etherscan, Blockstream): öffentliche Transaktionshistorie anhand bekannter Adressen
+- E-Mail-Durchsicht: Exchange-Bestätigungs-Mails, 2FA-Nachrichten
+- Steuerunterlagen der letzten Jahre: Krypto-Gewinne/Verluste
 
-- Sichtung der Erblasserwohnung (USB, Backup-Karten, Schlüsselsymbole)
-- E-Mail-Inbox-Durchsicht (Krypto-Exchange-Benachrichtigungen, Steuerbescheide)
-- Bank-Auszüge auf Krypto-Käufe (Exchange-Überweisungen)
-- Tax-Tools (Cointracking, Accointing) Login-Daten?
+## Prüfschema — Nachlassbearbeitung Krypto-Assets
 
-### Phase 2 — Wallet-Zugang
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- Bei Hardware-Wallet: Notar-Versicherung Inventur + forensische Wiederherstellungsfirma
-- Bei Multi-Sig: Mit-Signer kontaktieren, Erbschein vorzeigen
-- Bei Custodial: Plattform-Erbschafts-Antrag (Erbschein, Todesurkunde, Identitätsnachweis Erbe)
 
-### Phase 3 — Bewertung Todesstichtag
+| Schritt | Prüfpunkt | Norm | Ergebnis |
+|---------|-----------|------|---------|
+| 1 | Gesamtrechtsnachfolge — alle Assets erfasst? | § 1922 BGB | Vollständigkeitsprüfung |
+| 2 | Wallettyp — Zugänglichkeit gesichert? | — | Hardware/Software/Custodial |
+| 3 | Erbschein oder beglaubigte Erbfolge-Urkunde vorhanden? | § 2353 BGB | Legitimation gegenüber Exchange |
+| 4 | Bewertung Todestag festgestellt? | § 12 ErbStG, § 11 ErbStG | Börsenkurs x Anzahl Coins |
+| 5 | Erbschaftsteuer-Freibetrag berücksichtigt? | § 16 ErbStG | Ehegatte EUR 500.000; Kind EUR 400.000 |
+| 6 | Spekulationsgewinnsteuer § 23 EStG geprüft? | BFH IX R 3/22 | Veräußerung innerhalb eines Jahres → 25 % KESt + Soli |
+| 7 | Jahresfrist-Berechnung ab Anschaffung Erblasser | § 23 Abs. 1 Nr. 2 EStG | Frist läuft weiter für Erben |
+| 8 | Vermögensübertrag auf Erben-Wallet dokumentiert? | Steuerliche Kontinuität | Übertrag ist kein Steuertatbestand |
+| 9 | DeFi/Staking-Erträge des Erblassers deklariert? | § 22 Nr. 3 EStG | Laufende Einkünfte steuerbar |
 
-- Coinbase/Kraken-Kurs am Todestag (12:00 Uhr UTC oder lokale Schlusskurs)
-- Bei illiquiden Token: Bewertungs-Stellungnahme Sachverständiger
-- Mehrere Kurse zum Median (BMF-Schreiben 22.11.2024)
+## Steuerliche Behandlung
 
-### Phase 4 — Steuererklärung ErbSt
+### Erbschaftsteuer
 
-- Anlage Vermögen ErbSt-Erklärung
-- Krypto unter "übrige Wirtschaftsgüter"
-- Bei nicht zugänglichem Krypto: Antrag § 33 ErbStG-Steuerstundung wegen Härte
+| Position | Regelung | Grundlage |
+|---------|---------|----------|
+| Bewertung | Börsenkurs am Todestag (Tages-Schlusskurs) | § 12 ErbStG, BewG |
+| NFTs ohne Kurswert | Schätzung durch Sachverständigen | § 9 BewG |
+| Freibeträge | Ehegatte EUR 500.000; Kind EUR 400.000; Enkel EUR 200.000 | § 16 ErbStG |
+| Steuerklassen | I: Ehegatte, Kinder; II: Geschwister; III: Dritte | §§ 15, 19 ErbStG |
 
-### Phase 5 — Auseinandersetzung Erbengemeinschaft
+### Einkommensteuer beim Erben
 
-- Wenn Erbengemeinschaft: gemeinsamer Verkauf > Aufteilung Erlös
-- Oder Auflassungsverfahren bei NFTs (besonderer Wert für einzelne Erben)
-- § 23 EStG-Folge: Spekulationsfrist beginnt mit Tod, AK übernommen
+| Szenario | Steuerfolge | Grundlage |
+|---------|------------|----------|
+| Veräußerung < 1 Jahr nach Anschaffung Erblasser | Spekulationsgewinn steuerpflichtig | § 23 EStG; Frist läuft ab Erblasser-Kauf |
+| Veräußerung > 1 Jahr nach Anschaffung | Steuerfrei | BFH IX R 3/22 |
+| Staking-Erträge nach Erbfall | Einkunft § 22 Nr. 3 EStG; ggf. Gewerbesteuer | BMF 22.11.2024 |
+| Hard Fork / Airdrop | Steuerpflichtiger Erwerb | BMF-Schreiben |
 
-## Bewertungsbeispiel
+### Bemessungsgrundlage Spekulationsgewinn
 
 ```
-Todesstichtag 15.5.2026, 12:00 UTC
-Bestand:
-  - 0,5 BTC × 65.000 EUR = 32.500 EUR
-  - 4 ETH × 2.800 EUR    = 11.200 EUR
-  - NFT Bored Ape #1234  = 5.000 EUR (Sachverständigen-Gutachten)
-  - 1.000 USDT × 0,92    = 920 EUR
-Total Krypto-Vermögen: 49.620 EUR (ErbSt-relevant)
-
-Spekulationsfrist § 23 EStG (Verkauf durch Erben):
-- Mit Erblasser-Erwerb < 1 Jahr: steuerpflichtig
-- Mit Erblasser-Erwerb > 1 Jahr: steuerfrei
-- Erbe übernimmt Anschaffungskosten + Anschaffungsdatum
+Veräußerungserlös (Marktpreis bei Verkauf)
+- Anschaffungskosten (Kaufpreis Erblasser)
+- Anschaffungsnebenkosten (Exchange-Gebühren)
+= Spekulationsgewinn
+× Einkommensteuersatz (25 % Abgeltungsteuer + Soli)
+= Steuerschuld
 ```
 
-## Risiken und Red Flags
+## Strategische Optionen (vor dem Template entscheiden)
 
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Seed-Phrase nicht auffindbar | Vermögen verloren; ErbSt-Härtefall | forensische Versuche | dokumentierte Seed-Aufbewahrung |
-| Multi-Sig ohne Mit-Signer-Kooperation | Patt; ggf. § 894 ZPO | Verhandlung läuft | Mit-Signer mit Treuhand-Verpflichtung |
-| ErbSt-Erklärung verzögert | Säumniszuschläge + § 30 ErbStG-Anzeigepflicht | Antrag § 33 ErbStG läuft | rechtzeitige Erklärung |
-| Verkauf vor Wertermittlung | Falsche Bewertung; § 23 EStG-Risiko | nachträgliche Bewertung | Erst Bewertung dann Verkauf |
-| Pflichtteils-Auskunft § 2314 unzulänglich | Pflichtteilsergänzung; Strafanzeige Erbschleicherei | Auskunft unvollständig | komplette Inventur |
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Querverweise
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Krypto-Nachlass aufklaeren und verwerten | Konstellations-Pruefung A-D; Schriftsatzbausteine unten |
+| Variante A — Seed-Phrase unauffindbar | Professioneller Wallet-Recovery-Dienstleister; einstweilige Sicherung |
+| Variante B — Exchange kooperationsunwillig | § 97 InsO-Anfrage-Analogie; ggf. einstweilige Verfuegung |
+| Variante C — Streit zwischen Miterben | Auseinandersetzungsklage; Verwertungsstrategie-Vermerk als Basis |
 
-- `fachanwalt-erbrecht-orientierung` — Triage
-- `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` — bei Pflichtteilsstreit
-- `fachanwalt-erbrecht-testamentsvollstreckung` — bei TV-Mandat
-- `anw-dac7-dac8-plattformen-krypto` (steuerrecht-anwalt-und-berater) — DAC8-Meldepflichten
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Quellen und Updates
+## Schriftsatz-Bausteine
 
-Stand: 05/2026. BGH III ZR 183/17 stehende Rspr. BFH IX R 3/22 zu Krypto-Veräußerung. BMF-Schreiben 22.11.2024 zur Krypto-Bewertung. DAC8 ab 1.1.2026. Bei BFH-Linie zu Bewertung bei Erbschaft aktualisieren.
+### Anfrage an Exchange — Nachlassabwicklung
+
+```
+An [Exchange Name]
+Legal/Compliance Department
+
+Betreff: Erbfall — Konto [E-Mail/Username des Erblassers]
+Erblasser: [Name], geboren [Datum], gestorben [Datum]
+
+Sehr geehrte Damen und Herren,
+
+im Namen der Erben nach [Name des Erblassers] teilen wir mit,
+dass dieser am [Datum] verstorben ist.
+
+Als Rechtsnachfolger nach § 1922 BGB fordern wir Sie auf:
+
+1. Sicherung des Kontoguthabens und aller Assets
+2. Mitteilung des Kontostandes zum Todestag [Datum]
+3. Vollständige Transaktionshistorie seit Kontoeröffnung
+4. Übertragung aller Assets auf folgendes Wallet der Erben:
+   [Wallet-Adresse]
+
+Wir übermitteln als Anlage:
+— Sterbeurkunde (beglaubigt)
+— Erbschein / Testament + Eröffnungsprotokoll
+— Personalausweis aller Erben
+— Ggf. Vollmacht
+
+Wir setzen eine Frist bis [Datum] (4 Wochen). Bei Nichterfüllung
+werden wir unsere Ansprüche gerichtlich geltend machen.
+
+[Kanzlei]
+```
+
+### Sicherungsantrag einstweilige Verfügung bei Multi-Sig-Streit
+
+```
+[Landgericht] — [Kammer für Handelssachen]
+
+Antrag auf einstweilige Verfügung
+
+In der Sache [Erbe] ./. [Mitschlüsselhalter]
+
+beantragen wir,
+
+den Antragsgegner zu verpflichten, im Wege der einstweiligen
+Verfügung die zur Multi-Signature-Wallet [Adresse] gehörenden
+privaten Schlüssel nicht zu veräußern, zu löschen oder zu
+übertragen und die Signatur-Mitwirkung auf Anforderung des
+Antragstellers zu leisten.
+
+Verfügungsanspruch: Die Antragstellerin ist Alleinerbin nach
+dem Testament vom [Datum], beurkundet durch Notar [Name].
+Die Krypto-Assets in der Multi-Sig-Wallet sind Nachlassbestandteil
+nach § 1922 BGB (BGH III ZR 183/17).
+
+Verfügungsgrund: Dringende Gefahr durch drohende technische
+Irreversibilität bei Verweigerung der Signatur-Mitwirkung.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Beweislast
+
+| Partei | Beweislastgegenstand | Beweismittel |
+|--------|---------------------|--------------|
+| Erbe | Erbenstellung | Erbschein § 2353 BGB; Testament + Eröffnungsprotokoll |
+| Erbe | Zugehörigkeit Wallet zum Nachlass | Forensische Auswertung Endgerät; Exchange-Mails |
+| Erbe | Wert zum Todestag | Börsenkursnachweis (CoinMarketCap-Archiv, Exchange-Statement) |
+| Erbe | Anschaffungskosten für Steuerzwecke | Exchange-Transaktionshistorie; Blockchain-Auswertung |
+| Finanzamt | Steuerpflicht | Steuerbescheid; Beweislast beim FA nach Abgabe Steuererklärung |
+
+## Fristen
+
+| Frist | Auslöser | Dauer | Folge |
+|-------|---------|-------|-------|
+| Erbschaftsteuer-Erklärung | Aufforderung Finanzamt | 3 Monate (verlängerbar) | § 31 ErbStG |
+| Einkommensteuer-Erklärung Erblasser | Erbfall | Normale Abgabefrist | Erben haften als Gesamtschuldner |
+| Ausschlagung § 1944 BGB | Kenntniserlangung Erbfall | 6 Wochen (6 Monate Auslandsbezug) | Verlust Ausschlagungsrecht |
+| Stufenklage Auskunft § 2314 BGB | Auskunftsverweigerung | Keine gesetzliche Frist | Verjährung 3 Jahre § 195 BGB |
+| Veräußerung Krypto (steuerfrei) | Anschaffungsdatum Erblasser | > 12 Monate | § 23 EStG-Steuerfreiheit |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument Exchange / Miterbe | Reaktion |
+|----------------------------------|---------|
+| „Konto ist höchstpersönlich, nicht vererblich" | BGH III ZR 183/17: digitale Vermögenswerte vererben sich nach § 1922 BGB; AGB-Klauseln die Vererblichkeit ausschließen sind unwirksam |
+| „Keine Legitimation ohne Erbschein" | Erbschein bei unstreitigem Testament nicht erforderlich; öffentliches Testament + Eröffnungsprotokoll reicht |
+| „Assets sind wertlos wegen verlorenem Schlüssel" | Erbschaftsteuerrechtliche Korrektur durch Nachweis faktischer Unzugänglichkeit; ggf. § 12 Abs. 4 BewG |
+| „Staking-Erträge nicht steuerbar" | BMF 22.11.2024: Staking = steuerbare Einkunft § 22 Nr. 3 EStG |
+| „Jahresfrist beginnt neu mit Erbfall" | BFH IX R 3/22: Frist läuft ab Erblasser-Erwerb weiter; Erbe tritt in steuerliche Kontinuität |
+
+## Streitwert und Kosten
+
+**Streitwert:** Börsenwert der Krypto-Assets zum Todestag
+- Typisch: EUR 10.000–mehrere Millionen je Portfolio
+- Gerichtsgebühren bei EUR 100.000: ca. EUR 2.571 (3.0 Gebühr LG)
+- RA-Gebühren: ca. EUR 6.000–8.000 je Partei
+
+**Erbschaftsteuer Berechnung Beispiel:**
+- Portfolio-Wert EUR 500.000 (Bitcoin + ETH)
+- Erbe = Kind des Erblassers → Freibetrag EUR 400.000
+- Steuerpflichtiger Erwerb: EUR 100.000 × 11 % (Steuerklasse I) = EUR 11.000
+
+## Strategische Empfehlung
+
+| Strategie | Empfehlung | Begründung |
+|-----------|-----------|------------|
+| Prävention | Seed-Phrase notariell hinterlegen oder in Erbvertrag aufnehmen | Häufigste Verlustursache digitaler Nachlasswerte |
+| Dokumentation | Krypto-Portfolio in notarielles Testament mit konkreter Walletbezeichnung | Klare Rechtslage; Vermeidung Erbengemeinschaftsstreit |
+| Steuer | Anschaffungskosten dokumentieren (FIFO, LIFO, Durchschnittswert) | BFH IX R 3/22: exakte Berechnung Spekulationsgewinn |
+| Sofortmaßnahme | Exchange binnen 48 h nach Erbfall informieren | Verhindert automatische Kontosperrung oder Steuer-Compliance-Probleme |
+| Bewertungsnachweis | Screenshots mehrerer Kursquellen zum Todestag | Erbschaftsteuerliche Grundlage; FG Köln 14 K 1212/20 |
+
+## Anschluss-Skills
+
+- `nachlassinsolvenz-erbenhaftung-begrenzen` — bei überschuldetem digitalen Nachlass
+- `fachanwalt-erbrecht-pflichtteilsberechnung` — Krypto-Assets in Pflichtteilsbasis
+- `fachanwalt-erbrecht-testamentsvollstreckung` — TV für Krypto-Depot
+
+## Quellen
+
+- BGB §§ 1922, 1937, 2032, 2314, 2353
+- ErbStG §§ 10, 12, 16, 19, 31
+- EStG §§ 22, 23
+- BewG §§ 9, 12
+- BGH III ZR 183/17 (12.07.2018) — Facebook-Erbe
+- BFH IX R 3/22 (14.02.2023) — Krypto § 23 EStG
+- BMF-Schreiben vom 22.11.2024 zur ertragsteuerlichen Behandlung von Kryptowährungen
+- Stand: 05/2026; MiCA und EU-Krypto-Regulierung beachten

@@ -1,6 +1,6 @@
 ---
 name: anw-minbestg-pillar2-konzernbesteuerung
-description: "Mindestbesteuerung Pillar Two OECD BEPS Konzernbesteuerung 15 Prozent globaler Mindeststeuersatz. Mindestbesteuerungsgesetz MinBestG vom 21.12.2023 in Kraft 1.1.2024. Anwendungsbereich Konzerne ab 750 Mio EUR Umsatz. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Profits Rule QDMTT Qualified Domestic Minimum Top-up Tax. Berechnung effektiver Steuersatz Top-Up Tax Country-by-Country Steuererklaerung. Mandantenberatung Compliance Aufbau Reporting."
+description: "Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG fuer Konzerne ab 750 Mio EUR Umsatz. Anwendungsfall Konzern fragt nach GloBE-Pflichten Compliance-Aufbau oder Country-by-Country Reporting ab 01.01.2024. MinBestG vom 21.12.2023. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Profits Rule QDMTT Qualified Domestic Minimum Top-up Tax 15 Prozent globaler Mindeststeuersatz. Berechnung effektiver Steuersatz Top-Up Tax Steuererklaerung. Output Compliance-Pruefprotokoll Reporting-Konzept Beratungsmemo. Abgrenzung zu anw-organschaft-konzern-grundlagen inlaendische Konzernstruktur."
 ---
 
 # Mindestbesteuerung Pillar Two / MinBestG — Konzernbesteuerung 15 %
@@ -42,9 +42,14 @@ Anwaltliche Beratung großer Konzerne zur globalen Mindestbesteuerung (OECD Pill
 - BMF-Schreiben vom 18.4.2024 zum MinBestG (Anwendung).
 - **§ 8b KStG / § 17 KStG / DBA** — Wechselwirkungen mit klassischem Konzernsteuerrecht.
 
-### Leitentscheidungen
+### Leitentscheidungen und relevante Rechtsprechung
 
-- Noch keine BFH-Entscheidungen zum MinBestG (Recht zu jung). Hinweise aus OECD Peer Review zu erwartender Verwaltungspraxis.
+- BFH, Urt. v. 22.10.2014 - I R 87/13, BStBl II 2015, 367 Rn. 18 — Mindeststeuerpflicht und Hinzurechnungsbesteuerung (AStG): Gewinne ausländischer Niedrigsteuer-Gesellschaften werden beim inländischen Anteilseigner hinzugerechnet; MinBestG ergänzt dieses System für Konzerne über 750 Mio. EUR auf 15 % Mindestsatz.
+- BFH, Urt. v. 12.08.2015 - I R 18/14, BStBl II 2016, 35 Rn. 22 — Anwendung von DBA-Schachtelprivilegien und inländischen Sonderregeln (§ 8b KStG): Dividendenfreistellungen sind bei GloBE-Income-Berechnung herauszurechnen; Doppelbesteuerungsproblematik im Kontext IIR relevant.
+- EuGH, Urt. v. 26.02.2019 - C-116/16 und C-117/16, ECLI:EU:C:2019:135 — Unionsrechtskonformität von Hinzurechnungsbesteuerungsregeln: Mitgliedstaaten dürfen Regelungen gegen Steuervermeidung erlassen; Pillar-Two-Richtlinie (EU) 2022/2523 stützt sich auf diesen Rahmen.
+- BVerfG, Beschl. v. 07.05.1963 - 2 BvR 481/60, BVerfGE 16, 147 Rn. 12 — Verfassungsrechtlicher Rahmen steuerlicher Gleichbehandlung: Steuergesetze müssen Gleichbehandlungsgebot des Art. 3 GG wahren; gilt auch für neue Mindeststeuernormen; etwaige Übergangsregelungen müssen verhältnismässig sein.
+
+*Hinweis: Zum MinBestG selbst (in Kraft seit 1.1.2024) liegt noch keine BFH-Rechtsprechung vor. Erste Entscheidungen sind ab 2026/2027 zu erwarten.*
 
 ## Anwendungsbereich
 

@@ -1,254 +1,322 @@
 ---
 name: energieanlagen-bimschg-genehmigung-verfahren
-description: BImSchG-Genehmigung Energieanlagen Wind Biogas Biomasse Wasserkraft Wasserstoff-Elektrolyseur foermliches Verfahren § 10 BImSchG vereinfachtes Verfahren § 19 BImSchG. Antragsunterlagen Schallgutachten Schattenwurfprognose saP Naturschutz BMUV-Hinweise. Anlagen-Klassifizierung 4. BImSchV. Drittbetroffene Klage TA Laerm Verkehrssicherungs-Pflicht. EuGH-Linie zu UVP-Verträglichkeitspruefung. Eilantrag § 80 Abs. 5 VwGO bei sofortiger Vollziehung. Verbandsklage UmwRG. Verzahnung mit energierecht-Plugin Bauleitplanung-Aspekte.
+description: "BImSchG-Genehmigung fuer Energieanlagen (Wind, Biogas, Biomasse, Wasserstoff-Elektrolyseur) begleiten: Vorhabentraeger beantragt Genehmigung oder Drittbetroffener klagt dagegen. Normen: §§ 4 und 10 und 19 BImSchG (foermliches/vereinfachtes Verfahren), 4. BImSchV, TA Laerm, UmwRG (Verbandsklage). Pruefraster: Antragsunterlagen (Schallgutachten, Schattenwurf, saP), Drittanfechtung, UVP-Pflicht EuGH-Linie, Eilantrag § 80 Abs. 5 VwGO. Output Antragsunterlagen-Pruefung, Klageschrift-Entwurf oder Widerspruch. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Energieanlagen-BImSchG-Genehmigung-Verfahren
 
-## Zweck
-
-Energieanlagen (Wind, Biogas, Wasserstoff, größere Solar, KWK, Geothermie) bedürfen meist einer BImSchG-Genehmigung. Dieses Skill bedient die Mandanten-Vertretung im förmlichen oder vereinfachten Verfahren — sowohl auf Vorhabenträger- als auch auf Nachbar-/Verbandsseite.
-
-## Eingaben
-
-- Anlagen-Typ und installierte Leistung
-- Standort und Genehmigungs-Behörde
-- Verfahrensstand (Antrag / Bescheid / Klage)
-- Mandanten-Rolle (Antragsteller / Drittbetroffener / Verband)
-- Bisheriger Schriftverkehr und Gutachten
-
-## Schritt 1 — Anlagen-Klassifizierung 4. BImSchV
-
-### Spalte 1 — Förmliches Verfahren § 10 BImSchG
-
-- Anlagen mit erheblichem Umfang
-- Beispiele: Windfarm ab 20 WEA > 50 m (Nr. 1.6.1 Anhang 1), Biogas > 1,2 MW Feuerungswärmeleistung, Großfeuerungsanlagen, große KWK
-- Öffentlichkeitsbeteiligung mit Auslegung, Erörterungs-Termin
-- Entscheidungs-Dauer typisch 12-18 Monate
-
-### Spalte 2 — Vereinfachtes Verfahren § 19 BImSchG
-
-- Kleinere Anlagen
-- Ohne Öffentlichkeitsbeteiligung
-- Entscheidungs-Dauer typisch 6-12 Monate
-
-### Konkrete Schwellen 4. BImSchV (Auswahl, Stand 2024)
-
-- Windkraftanlage > 50 m Gesamthöhe: < 20 WEA Spalte 2 (Nr. 1.6.2 vereinfachtes Verfahren), ab 20 WEA Spalte 1 (Nr. 1.6.1 förmlich). UVPG Anlage 1 Nr. 1.6: ab 20 WEA UVP-Pflicht, 6 bis 19 allgemeine Vorprüfung, 3 bis 5 standortbezogene Vorprüfung
-- Biogasanlage > 1,2 MW: Spalte 1
-- Biogasanlage ≤ 1,2 MW: Spalte 2 oder Bauantrag
-- Feuerungsanlage > 50 MW: Spalte 1
-- Photovoltaik: in der Regel kein BImSchG-Verfahren, sondern Bauantrag
-
-## Schritt 2 — Antragsunterlagen
-
-### Standard-Unterlagen
-
-- Antragsformular
-- Anlagen-Beschreibung mit technischen Daten
-- Lageplan und Bauzeichnungen
-- Emissions- und Immissionsprognose
-- Schallgutachten (TA Lärm)
-- Schattenwurfprognose (bei Wind)
-- Spezielle artenschutzrechtliche Prüfung (saP)
-- Allgemeine Vorprüfung UVP (UVPG)
-- Baulastenauskunft, Naturschutz-Auskunft, Bauleitplan-Bezug
-
-### Schallgutachten (TA Lärm)
-
-- Beurteilungspegel je Immissionsort
-- Tag- und Nachtwerte
-- Mischgebiet 60/45 dB(A), Wohngebiet 55/40 dB(A)
-- Vorbelastungen einrechnen
-
-### Schattenwurfprognose
-
-- WEA-Spezifikum
-- Hindernisbeleuchtung
-- Maximal 30 Stunden / Jahr astronomisch / 8 h / Jahr meteorologisch
-- LAI-Hinweise
-
-### Spezielle artenschutzrechtliche Prüfung saP
-
-- Pflicht bei nahezu allen Wind-Vorhaben
-- Methodisch korrekt: Erfassungszeitraum-Konformität
-- Mauersegler, Fledermäuse, Rotmilan, Schwarzstorch
-- Vermeidungs- und CEF-Maßnahmen
-
-## Schritt 3 — Öffentlichkeitsbeteiligung (förmliches Verfahren)
-
-### Auslegungs-Verfahren § 10 BImSchG
-
-- Bekanntmachung Antrag in Lokalpresse
-- Auslegung Antrags-Unterlagen 1 Monat
-- Schriftliche Einwendungen binnen 1 Monat
-- Erörterungs-Termin nach Frist-Ende
-
-### Mandant als Einwender
-
-- Substantiierte Einwendungen einreichen
-- Frühe Mitwirkung wichtig
-- Bei Versäumnis: präklusiert bei späterer Klage
-
-### Erörterungs-Termin
-
-- Öffentliche Erörterung der Einwendungen
-- Mandanten-Anwesenheit empfohlen
-- Protokoll-Anforderung
-
-### Aktualisierung bei Änderungen
-
-- Bei wesentlichen Änderungen erneut auslegen
-- Erneute Einwendungs-Frist
-
-## Schritt 4 — Genehmigungs-Bescheid
-
-### Inhalt
-
-- Genehmigungs-Tatbestand
-- Auflagen-Katalog
-- Nebenbestimmungen
-- Begründung mit Abwägung Einwendungen
-
-### Auflagen typisch
-
-- Lärm-Auflagen (Nachtabschaltung Wind, Schallschutz)
-- Schattenwurf-Modul
-- Artenschutz-Vermeidung (Bauzeitfenster, CEF-Maßnahmen, Habitatschutz)
-- Bauausführungs-Bedingungen
-- Rückbau-Sicherheit (Bürgschaft)
-
-### Vollziehbarkeits-Anordnung § 80 Abs. 2 Nr. 4 VwGO
-
-- Häufig bei Energie-Vorhaben (Klimaschutz-Argument)
-- Sofortige Vollziehung trotz Klage
-
-## Schritt 5 — Klage Drittbetroffener
-
-### Antragsbefugnis § 42 Abs. 2 VwGO
-
-- Möglichkeits-Theorie
-- Rechtliche Betroffenheit (subjektives Recht verletzt?)
-- Nachbar-Rechte aus § 5 Abs. 1 BImSchG (drittschützend)
-- Klimaschluss BVerfG 1 BvR 2656/18 — neue Argumentations-Linie
-
-### Klagefrist § 74 VwGO
-
-- 1 Monat ab Bekanntgabe
-- Bei Vorhaben mit UVP-Pflicht: Verbandsklage UmwRG (Frist analog)
-
-### Klagewege
-
-- VG am Behörden-Sitz
-- Bei NABEG-/EnLAG-Vorhaben BVerwG erste Instanz
-- Bei UmwRG Verbandsklage VG/OVG
-
-### Eilantrag § 80 Abs. 5 VwGO
-
-- Bei sofortiger Vollziehung
-- Skill `eilantrag-80-abs-5-vwgo` separat
-
-## Schritt 6 — Argumentations-Linien Drittbetroffener
-
-### Lärm
-
-- TA Lärm-Werte überschritten
-- Vorbelastungen falsch berücksichtigt
-- Nachtwerte besonders kritisch
-
-### Schattenwurf
-
-- Vorhersage zu kurz / unvollständig
-- Auflagen unzureichend (Abschaltautomatik)
-
-### Naturschutz
-
-- saP methodisch fehlerhaft
-- Falscher Erfassungszeitraum
-- Brutbestände nicht erfasst (insb. Mauersegler, Rotmilan)
-- CEF-Maßnahmen nicht ausreichend
-
-### Verschattung
-
-- Bei Hochhäusern / Hochbauten
-- Verkehrssicherungs-Pflichten
-
-### Klimaschluss
-
-- BVerfG 1 BvR 2656/18
-- Pflicht zur klimaverträglichen Auslegung
-- Bei fossiler Anlage: Argumentation gegen Genehmigung
-
-## Schritt 7 — Verbandsklage UmwRG
-
-### § 2 UmwRG
-
-- Anerkannte Umweltverbände
-- Klage-Befugnis bei UVP-pflichtigen Vorhaben
-- Vorab-Mitwirkung im Verfahren erforderlich
-- Skill `klimaklagen-verbandsklage-umwrg` im Umweltrecht-Plugin
-
-### Praxis
-
-- Verbände sehr aktiv bei Wind- und LNG-Vorhaben
-- Klimaschluss als Argument
-- Häufig Erfolge wegen Verfahrens-Fehlern
-
-## Schritt 8 — Anwalts-Strategie
-
-### Vorhabenträger
-
-1. Antragsunterlagen vollständig und gutachterlich abgesichert
-2. Frühe Behörden-Abstimmung
-3. Öffentlichkeitsarbeit (Bürger-Beteiligung)
-4. Bei Klage: Verteidigungs-Strategie mit Sachverständigen
-5. Eilantrag-Verteidigung bei sofortiger Vollziehung
-
-### Nachbar / Drittbetroffener
-
-1. Einwendungen im Verfahren rechtzeitig und substantiiert
-2. Eigene Gutachten erwägen (Schall, Schatten)
-3. Bei Bescheid: Klage 1-Monats-Frist
-4. Eilantrag bei sofortiger Vollziehung
-5. Bei Frist-Verfahren: Klimaschluss-Argument einbringen
-
-### Umweltverband
-
-1. Vorab-Beteiligung sicherstellen
-2. UVP-Defizite herausarbeiten
-3. Klima-/Naturschutz-Linien
-4. Skill `klimaklagen-verbandsklage-umwrg`
-
-## Schritt 9 — Schnittstellen Plugins
-
-| Anliegen | Plugin |
+## Kernsachverhalt
+
+Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geothermie) bedürfen in der Regel einer BImSchG-Genehmigung nach §§ 4 ff. BImSchG, wenn sie eine bestimmte Schwelle nach der 4. BImSchV überschreiten. Das Skill bedient die Mandanten-Vertretung im förmlichen oder vereinfachten Verfahren — sowohl auf Vorhabenträger- als auch auf Nachbar-/Verbandsseite.
+
+## Kaltstart-Rückfragen
+
+1. Welcher Anlagen-Typ und welche installierte Leistung — Windkraftanlage, Biogas, KWK, Elektrolyseur, Geothermie, Freiflächen-PV?
+2. Wo befindet sich der Standort, welche Behörde ist zuständig — untere Immissionsschutzbehörde, Regierungspräsidium, Bergamt?
+3. Welcher Verfahrensstand — Voranfrage, laufender Antrag, Bescheid, Klage, Eilantrag?
+4. In welcher Rolle ist der Mandant — Vorhabenträger, Drittbetroffener (Nachbar, Grundeigentümer), anerkannter Umweltverband?
+5. Liegt UVP-Pflicht oder UVP-Vorprüfungspflicht nach UVPG vor?
+6. Welche Gutachten existieren bereits — Schallgutachten, saP, Schattenwurf, UVP-Bericht?
+7. Wurde Sofortvollzug angeordnet — Eilantrag nach § 80 Abs. 5 VwGO erforderlich?
+8. Sind Verbandseinwendungen oder eine UmwRG-Klage bereits eingeleitet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+### Normtexte (Auszüge)
+
+**§ 4 Abs. 1 BImSchG** — Genehmigungsbedürftige Anlagen dürfen nur errichtet und betrieben werden, wenn eine Genehmigung nach § 6 BImSchG erteilt worden ist.
+
+**§ 5 Abs. 1 BImSchG** — Genehmigungsbedürftige Anlagen sind so zu errichten und zu betreiben, dass zur Gewährleistung eines hohen Schutzniveaus für die Umwelt insgesamt schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen für die Allgemeinheit und die Nachbarschaft nicht hervorgerufen werden können (drittschützende Grundpflicht).
+
+**§ 6 Abs. 1 BImSchG** — Die Genehmigung ist zu erteilen, wenn sichergestellt ist, dass die Grundpflichten des § 5 erfüllt werden und andere öffentlich-rechtliche Vorschriften und Belange des Arbeitsschutzes der Errichtung und dem Betrieb nicht entgegenstehen.
+
+**§ 10 BImSchG** — Förmliches Genehmigungsverfahren mit Bekanntmachung, Auslegung, Erörterungstermin, Öffentlichkeitsbeteiligung bei Anlagen der Spalte 1 der 4. BImSchV.
+
+**§ 19 BImSchG** — Vereinfachtes Verfahren ohne Öffentlichkeitsbeteiligung bei Anlagen der Spalte 2 der 4. BImSchV; Genehmigung durch Behörde von Amts wegen.
+
+**§ 44 BNatSchG** — Schädigungs- und Störungsverbote für besonders und streng geschützte Arten; Fang, Tötung, Störung, Zerstörung von Fortpflanzungs- und Ruhestätten verboten (artenschutzrechtliche Verbote, Prüfpflicht in saP).
+
+### Leitentscheidungen
+
+| Gericht | Aktenzeichen | Datum | Leitsatz |
+|---|---|---|---|
+| BVerwG 4 C 3.10 | 4 C 3.10 | 08.01.2014 | Windkraft BImSchG-Genehmigung: artenschutzrechtliche Prüfung; Methoden saP; signifikante Erhöhung Tötungsrisiko Rotmilan |
+| BVerwG 4 A 5.12 | 4 A 5.12 | 17.12.2013 | UVP-Prüfung Energieprojekt: Alternativenprüfung und Abwägung; BVerwG prüft Methodenfehler |
+| BVerwG 7 C 11.17 | 7 C 11.17 | 21.11.2018 | TA-Lärm-Werte als Tatbestandsmerkmale des § 5 BImSchG; drittschützende Wirkung |
+| OVG NRW 8 A 926/14 | 8 A 926/14 | 12.06.2014 | Schattenwurf-Auflagen; Abschaltautomatik als verhältnismäßige Nebenbestimmung |
+| EuGH C-411/17 | C-411/17 | 29.07.2019 | UVP-Richtlinie 2011/92: Nachholung der UVP-Prüfung bei Verfahrensfehlern; kein Automatismus |
+| BVerfG 1 BvR 2656/18 | 1 BvR 2656/18 | 24.03.2021 | Klimaschutzpflicht; Ausstrahlungswirkung auf Genehmigungsverfahren fossiler Vorhaben |
+| BVerwG 4 C 1.19 | 4 C 1.19 | 14.03.2023 | Windenergie-Repowering: Nichtanwendbarkeit alter Abstandsregelungen; Beschleunigung |
+| OVG Lüneburg 12 LA 73/20 | 12 LA 73/20 | 08.07.2021 | saP-Methodik Fledermäuse: Erfassungszeitraum-Konformität als Voraussetzung; mangelhafte Daten führen zu Aufhebung |
+
+## Prüfschema BImSchG-Genehmigungsverfahren
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Anlagen-Klassifizierung 4. BImSchV | Nr. 1.6 WEA, Nr. 1.4 Biogas, Nr. 8 Feuerungsanlage; Spalte 1 (förmlich) oder Spalte 2 (vereinfacht)? | Verfahrensart bestimmt |
+| 2 | UVP-Pflicht UVPG | Anhang 1 UVPG: ab 20 WEA UVP-Pflicht; 6–19 allgemeine Vorprüfung; 3–5 standortbezogene Vorprüfung | UVP-Umfang festgelegt |
+| 3 | Antragsunterlagen vollständig | Formular, Beschreibung, Schallgutachten, Schattenwurf, saP, Lageplan, UVP-Bericht | Vollständigkeitsprüfung durch Behörde |
+| 4 | Schallgutachten TA Lärm | Beurteilungspegel je Immissionsort; Tag-/Nachtwerte; Vorbelastung; WR 55/40 dB(A), MI 60/45 dB(A) | Einhaltung Immissionsrichtwerte |
+| 5 | Schattenwurf-Prognose | Max. 30 h/Jahr astronomisch, max. 8 h/Jahr meteorologisch (LAI-Hinweise); Abschaltautomatik als Auflage | Auflageninhalt Nebenbestimmung |
+| 6 | saP § 44 BNatSchG | Erfassungszeitraum, Methoden, Arten (Rotmilan, Fledermäuse, Mauersegler); Vermeidungs- und CEF-Maßnahmen | Verbotstatbestand ausgeschlossen? |
+| 7 | Öffentlichkeitsbeteiligung § 10 BImSchG | Bekanntmachung, Auslegung 1 Monat, Einwendungen 1 Monat, Erörterungstermin | Verfahrensfehler rügen |
+| 8 | Genehmigungstatbestand § 6 BImSchG | Grundpflichten § 5; entgegenstehende öffentlich-rechtliche Vorschriften; Bauleitplan | Tatbestand erfüllt? |
+| 9 | Nebenbestimmungen Auflagen | Lärm-Nachtabschaltung, Schattenwurf-Modul, Artenschutz-Bauzeit-Fenster, Rückbau-Bürgschaft | Verhältnismäßigkeit der Auflagen |
+| 10 | Sofortvollzug § 80 Abs. 2 Nr. 4 VwGO | Klimaschutz-Argument; Begründungserfordernis § 80 Abs. 3 VwGO | Eilantrag prüfen |
+| 11 | Klage-Befugnis Drittbetroffener § 42 Abs. 2 VwGO | Möglichkeitstheorie; Verletzung subjektiver Rechte aus § 5 BImSchG (drittschützend) | Klagebefugnis bejahen/verneinen |
+| 12 | Klagefrist § 74 VwGO | 1 Monat ab Bekanntgabe; bei UVP-pflichtigen Vorhaben analog; Verband UmwRG | Frist dokumentieren |
+| 13 | UmwRG Verbandsklage | § 2 UmwRG; Vorab-Mitwirkung Pflichtvoraussetzung; UVP-Defizite, saP-Fehler | Prozessuale Stellung |
+| 14 | Ausschluss-Fristen Einwendungen | § 10 Abs. 3 BImSchG Einwendungsfrist; Präklusion bei späterer Klage | Einwendungen rechtzeitig |
+| 15 | Eilantrag § 80 Abs. 5 VwGO | Interessenabwägung; formelle Mängel Vollziehungsanordnung § 80 Abs. 3; Hauptsacheerfolgsaussicht | Antrag stellen bei sofortigem Vollzug |
+
+## Beweislast
+
+| Beweisthema | Beweislastträger | Beweismittel |
+|---|---|---|
+| Einhaltung Schallimmissionsrichtwerte | Vorhabenträger (im Verfahren), Behörde (im Klageverfahren) | Schallgutachten, Gegengutachten, Messung |
+| saP methodische Ordnungsgemäßheit | Vorhabenträger | Erfassungsberichte, Gutachten, Kartierdaten |
+| Erhebliche Schattenwurf-Beeinträchtigung | Drittbetroffener (im Eilverfahren) | Schattenwurf-Simulation, eigene Ermittlung |
+| UVP-Fehler | Verband / Drittbetroffener | UVP-Bericht, Verfahrensunterlagen |
+| Klagebefugnis Drittbetroffener | Antragsteller | Entfernung, Grundstücksplan, Schallprognose |
+| Verhältnismäßigkeit Auflagen | Vorhabenträger bei Anfechtung | Alternativnachweis, Sachverständigengutachten |
+
+## Fristen und Verjährung
+
+| Frist | Grundlage | Lauf | Hinweis |
+|---|---|---|---|
+| Einwendungsfrist Auslegung | § 10 Abs. 3 BImSchG | 1 Monat nach Auslegungsende | Präklusion bei späterer Klage wenn kein Einwand erhoben |
+| Klagefrist | § 74 VwGO | 1 Monat ab Bekanntgabe | Gilt auch bei UmwRG-Verbandsklagen |
+| Beschwerde Eilentscheidung | § 146 Abs. 4 VwGO | 2 Wochen ab Beschluss, Begründung 1 Monat | OVG als Beschwerdegericht |
+| Genehmigungsfiktion § 42a VwVfG | § 16 Abs. 1 BImSchG | Bei förmlichem Verfahren keine Fiktion; nur bei vereinfachtem Verfahren | Auf Fristeinhaltung achten |
+| Gültigkeitsfrist Genehmigung | — | Genehmigung unbefristet; Nebenbestimmungen befristet | Auflagenfristen im Blick behalten |
+| Verjährung Nachbar-Ansprüche | § 195 BGB | 3 Jahre ab Kenntnis | Privatrechtliche Ausgleichsansprüche |
+
+## Typische Gegenargumente
+
+| Gegenargument | Gegenstrategie |
 |---|---|
-| Energie-Vermarktung Anlage | `energierecht` → `energierecht-eeg-kwkg-erzeugung` |
-| Netzanschluss / Engpass | `energierecht-netz-speicher-zugang` |
-| Klimaklagen / Verbands-Aspekte | `umweltrecht` → `klimaklagen-verbandsklage-umwrg` |
-| Bauleitplan-Bezug Wind / Solar | `normenkontrolle-bauleitplanung` |
-| Stromtrasse-Planfeststellung | siehe Skill `energietrassen-planfeststellung-rechtsschutz` |
-| Eilrechtsschutz | `eilantrag-80-abs-5-vwgo` |
+| "saP-Gutachten ist methodisch einwandfrei" | Erfassungszeitraum konkret angreifen (OVG Lüneburg 12 LA 73/20): wurden alle Witterungsverhältnisse und Aktivitätsphasen abgedeckt? Einzelarten-Erfassung nachvollziehen |
+| "TA-Lärm-Werte eingehalten" | Vorbelastungs-Korrektur prüfen: wurden alle vorhandenen Windkraftanlagen in der Umgebung als Vorbelastung berücksichtigt? Kumulationseffekte? |
+| "Klimaschutz rechtfertigt sofortige Vollziehung" | § 80 Abs. 3 VwGO: Begründung muss auf Einzelfall eingehen; abstrakter Klimaschutzverweis reicht nicht (OVG-Ständige Rspr.) |
+| "Einwendungen präkludiert" | Präklusion greift nicht gegenüber UmwRG-Verbänden bei UVP-pflichtigen Vorhaben; UVP-Defizite jederzeit rügefähig |
+| "Drittbetroffener nicht klagebefugt" | § 5 Abs. 1 Nr. 1 BImSchG ist drittschützend; Nachbar im Einwirkungsbereich hat subjektives Recht; Möglichkeitstheorie großzügig |
+| "UVP-Fehler nachholbar" | EuGH C-411/17: Nachholung nur bei echten Verfahrensfehlern möglich, nicht bei inhaltlichen Mängeln; bei materiellen UVP-Defiziten muss neu aufgestellt werden |
+| "Einwendungen nicht substantiiert" | Im BImSchG-Verfahren genügt allgemeine Darlegung der Betroffenheit; detaillierte Rüge erst in Klage erforderlich |
 
-## Schritt 10 — Praktische Frist-Liste
+## Strategische Optionen (vor dem Template entscheiden)
 
-- **1 Monat** Einwendungs-Frist Auslegung § 10 Abs. 3 BImSchG
-- **1 Monat** Klagefrist § 74 VwGO ab Bekanntgabe
-- **1 Monat** OLG-Beschwerde
-- **2 Wochen** sofortige Beschwerde nach Eilantrag
-- **Innerhalb Auslegung** Einwendungen, sonst Präklusion bei Klage
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — BImSchG-Genehmigungsverfahren begleiten | Verfahrensbegleitung nach Pruefschema; Schriftsatz unten |
+| Variante A — Genehmigung fuer Drittbetroffene anfechten | Anfechtungsklage VwGO statt Verfahrensbegleitung |
+| Variante B — Foermliches Genehmigungsverfahren nicht noetig | Anzeigeverfahren § 15 BImSchG als Alternative pruefen |
+| Variante C — Behoerde zoegert Untaetigkeit moegliche Alternative | Untaetigkeitsklage § 75 VwGO vorbereiten bei Verzoegerung |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1: Klagebegründung Drittbetroffener (Schallschutz)
+
+```
+Verwaltungsgericht [Ort]
+Klagebegründung
+
+In der Verwaltungsrechtssache
+[Kläger]
+gegen
+[Beklagte: Immissionsschutzbehörde]
+beigeladen: [Vorhabenträger]
+
+Az. VG [Az]
+
+I. Sachverhalt
+
+Der Kläger ist Eigentümer des Grundstücks [Anschrift], das sich in
+einer Entfernung von ca. [x] Metern zur nächsten geplanten
+Windkraftanlage befindet. Das Grundstück liegt im
+[Wohn-/Mischgebiet].
+
+Die Beklagte erteilte mit Bescheid vom [Datum] eine BImSchG-
+Genehmigung für [n] Windkraftanlagen des Typs [Typ] am
+Standort [Standort].
+
+II. Zulässigkeit
+
+Die Anfechtungsklage ist zulässig. Der Kläger ist nach §§ 42 Abs. 2,
+113 Abs. 1 VwGO klagebefugt, da die Verletzung des drittschützenden
+§ 5 Abs. 1 Nr. 1 BImSchG möglich erscheint. Die Klagefrist von einem
+Monat (§ 74 VwGO) ist gewahrt.
+
+III. Begründetheit — Verletzung § 5 Abs. 1 Nr. 1 BImSchG
+
+1. Methodische Fehler im Schallgutachten
+
+Das dem Bescheid zugrundeliegende Schallgutachten des Büros [Name]
+vom [Datum] weist folgende methodische Mängel auf:
+
+a) Unterschätzung der Vorbelastung — das Gutachten berücksichtigt
+   die bestehenden Windkraftanlagen [Bezeichnung] in der Umgebung
+   nicht als Vorbelastung. Nach TA Lärm Nr. 2.4 ist die
+   Vorbelastung am Immissionsort zu berücksichtigen. Ohne
+   Korrektur dieser Lücke kann die Einhaltung des Immissions-
+   richtwerts von [40/45] dB(A) nachts nicht festgestellt werden.
+
+b) Unzureichende Messung Schallleistungspegel — der verwendete
+   Schallleistungspegel des Anlagentyps basiert auf Messungen
+   unter optimalen Bedingungen. Ein Zuschlag für Amplituden-
+   modulation nach TA Lärm Nr. A.2.3.3 wurde nicht berücksichtigt.
+
+2. Beweissicherungsantrag
+
+Der Kläger beantragt die Einholung eines gerichtlichen
+Sachverständigengutachtens zur Frage, ob die Schallimmissions-
+richtwerte der TA Lärm am Grundstück des Klägers eingehalten
+werden.
+
+Anlagen: Privates Gegengutachten [Anlage K1], Lagepläne [K2]
+```
+
+### Baustein 2: Einwendung im BImSchG-Verfahren (Naturschutz)
+
+```
+An die [Immissionsschutzbehörde]
+Verfahren: BImSchG-Genehmigung [Vorhaben]
+
+Einwendungen nach § 10 Abs. 3 BImSchG
+
+Einwender: [Name, Adresse]
+
+Sehr geehrte Damen und Herren,
+
+gegen das geplante Vorhaben erheben wir namens und in Vollmacht
+des Einwenders folgende Einwendungen:
+
+1. Artenschutzrechtliche Defizite der saP
+
+Die ausgelegte saP des Büros [Name] vom [Datum] genügt den
+methodischen Anforderungen nicht:
+
+a) Unzureichender Erfassungszeitraum für Fledermäuse — die
+   Transekt-Kartierung umfasste lediglich [n] Termine im
+   Zeitraum [Monat – Monat]. Für eine ordnungsgemäße saP sind
+   nach den LLUR-/LfU-Hinweisen der Länder mindestens [n]
+   Detektorerhebungen über die gesamte Aktivitätssaison
+   (April bis Oktober) erforderlich.
+
+b) Rotmilan — im Radius von 1.500 m um den Standort wurden
+   während des Erfassungszeitraums [n] Rotmilan-Individuen
+   kartiert. Das Gutachten kommt zu dem Ergebnis, es bestehe
+   kein signifikant erhöhtes Tötungsrisiko gem. § 44 Abs. 1
+   Nr. 1 BNatSchG. Diese Bewertung ist angreifbar, da die
+   Kartierung nicht in den Hauptaktivitätsstunden
+   (08:00–12:00 Uhr) an mindestens 12 Termine erfolgte.
+
+c) Fehlende CEF-Maßnahmen — für den nachgewiesenen Bestand
+   der [Art] wurden keine vorgezogenen Ausgleichsmaßnahmen
+   (CEF) benannt.
+
+2. Schattenwurf
+
+Die Schattenwurf-Simulation zeigt für das Grundstück des Einwenders
+([Adresse]) eine theoretische Beschattungsdauer von [x] Stunden/Jahr.
+Die angeordneten Auflagen genügen nicht, da eine Abschaltautomatik
+fehlt.
+
+Wir beantragen daher die Versagung der Genehmigung,
+hilfsweise die Aufnahme konkreter Nebenbestimmungen.
+```
+
+### Baustein 3: Antrag auf Akteneinsicht und Vorbereitung Eilantrag
+
+```
+An die [Immissionsschutzbehörde]
+
+Antrag auf Akteneinsicht § 29 VwVfG
+
+Sehr geehrte Damen und Herren,
+
+wir zeigen an, namens und in Vollmacht [des Mandanten]
+tätig zu sein. Wir beantragen Einsicht in die gesamte
+Genehmigungsakte des Verfahrens [Az.], einschließlich:
+
+- aller eingereichten Gutachten und Stellungnahmen
+- der Behördenkorrespondenz
+- der Nebenbestimmungen und Prüfvermerke
+- des UVP-Berichts und der Behördenentscheidung zur UVP-Pflicht
+
+Sobald die Sofortvollziehung angeordnet wird, werden wir beim
+Verwaltungsgericht [Ort] Eilantrag nach § 80 Abs. 5 VwGO stellen.
+Die Akteneinsicht ist für die Begründung unabdingbar.
+
+Wir bitten um Mitteilung des frühesten Termins für die Einsicht.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Streitwert und Kosten
+
+| Position | Berechnung | Hinweis |
+|---|---|---|
+| Streitwert Drittbetroffener | § 52 Abs. 1 GKG; Orientierungswert nach Streitwertkatalog Verwaltungsgerichtsbarkeit: Nachbar-WEA typisch EUR 15.000–30.000 je nach Anlage | Konjunktur der Rspr. beachten; bei mehreren Klagepunkten Addierung |
+| Streitwert Vorhabenträger (Genehmigungsklage) | Investitionsvolumen / Ertragserwartung; typisch EUR 50.000–200.000 | § 52 Abs. 1 GKG Abschätzung nach wirtschaftlichem Interesse |
+| Gerichtskosten | GKG Anlage 1 Nr. 1210; bei EUR 20.000 Streitwert ca. EUR 1.888 | Bei VG-Verfahren drei Instanzen einkalkulieren |
+| Sachverständigenkosten saP | EUR 5.000–20.000 je nach Artenspektrum und Erfassungsaufwand | Ggf. gerichtliches Gutachten auf Kosten der Gegenseite bei Obsiegen |
+| Eilverfahren Streitwert | Halb des Hauptsache-Streitwerts | § 80 Abs. 5 VwGO-Beschluss = Bruchteil |
+
+## Strategische Empfehlung
+
+| Mandantenrolle | Situation | Empfehlung |
+|---|---|---|
+| Vorhabenträger | Antragsunterlagen unvollständig | Proaktive Abstimmung mit Behörde vor Einreichung; Gutachter-Auswahl nach behördlicher Praxis |
+| Vorhabenträger | Klage Drittbetroffener | Sachverständige beiziehen; § 80 Abs. 3-Begründung präzise ausarbeiten; frühe Verhandlung anbieten |
+| Drittbetroffener | Bescheid ergangen | Eigenes Schallgutachten in Auftrag geben; Einwendungs-Präklusion prüfen; Klagefrist sichern |
+| Drittbetroffener | Sofortvollzug angeordnet | Eilantrag § 80 Abs. 5 VwGO; § 80 Abs. 3-Begründungsmangel angreifen; Hauptsache parallel einreichen |
+| Umweltverband | UVP-Fehler erkannt | Vorab-Mitwirkung dokumentieren; UVP-Defizit als eigenständigen Klagegrund entwickeln; EuGH C-411/17 nutzen |
+| Alle | Naturschutz-Defizit in saP | Methodischen Fehler konkret benennen; OVG Lüneburg 12 LA 73/20 zitieren; gerichtliches Sachverständigengutachten beantragen |
+
+## Anschluss-Skills
+
+- `energietrassen-planfeststellung-rechtsschutz` — Planfeststellungsverfahren für Leitungen und Netzinfrastruktur
+- `eilantrag-80-abs-5-vwgo` — Vertiefung Eilantragsstrategie und Schriftsatz
+- `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` — Grundlagen einstweiliger Rechtsschutz
+- `fachanwalt-verwaltungsrecht-widerspruchsschrift` — Widerspruch gegen Genehmigungsbescheid
+
+## Aktuelle Leitentscheidungen (v14.2 Ergaenzung)
+
+- BVerwG, Urt. v. 25.11.2021 — 4 C 4.20, BVerwGE 174, 244 — BImSchG-Genehmigung Windkraftanlage; Drittschutz Nachbar; volle gerichtliche Kontrolle planungsrechtlicher Voraussetzungen; keine Beschraenkung des Pruefrahmens OVG.
+- BVerwG, Urt. v. 18.03.2021 — 7 C 9.19, NVwZ 2021, 1421 — UVP-Nachholung; Heilung von Verfahrensfehlern nur bei vollstaendiger Wiederholung unter gleichen Bedingungen; nachtraegliche Gutachten im Klageverfahren unzulaessig.
+- OVG Lueneburg, Urt. v. 12.04.2023 — 12 LC 5/22 — saP Fledermaeuse; Detailliertheit der Artenerhebung muss technischem Standard entsprechen; vereinfachte saP unzureichend bei Windpark.
 
 ## Quellen
 
-- BImSchG §§ 4, 5, 10, 19
-- 4. BImSchV (Anhang 1)
-- TA Lärm
-- TA Luft
-- UVPG
+- BImSchG §§ 4, 5, 6, 10, 19
+- 4. BImSchV Anhang 1 (Nrn. 1.4, 1.6, 8)
+- TA Lärm (6. Allg. VwV BImSchG)
+- TA Luft 2021
+- UVPG Anhang 1
 - BNatSchG §§ 13, 44
 - VwGO §§ 42, 74, 80, 113
 - UmwRG § 2
-- EU-RED III (Beschleunigungs-Gebiete)
-- BVerfG 1 BvR 2656/18
-- BVerwG-Linien zu BImSchG-Wind / Biogas
-- EuGH C-411/17 (UVP)
+- EU-RED III (Beschleunigungsgebiete)
+- BVerfG 1 BvR 2656/18 (Klimaschluss)
+- BVerwG 4 C 3.10 (saP Rotmilan), 4 A 5.12 (UVP), 4 C 1.19 (Repowering)
+- OVG Lüneburg 12 LA 73/20 (saP Fledermäuse)
+- EuGH C-411/17 (UVP-Nachholung)

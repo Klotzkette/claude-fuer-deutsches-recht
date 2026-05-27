@@ -1,6 +1,6 @@
 # Fachanwalt Miet- und Wohnungseigentumsrecht
 
-Light-Touch-Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraum- und Gewerberaummiete. Mieterhöhung §§ 558 ff. BGB. Kündigung §§ 543, 569, 573 BGB. WEG-Beschlussanfechtung § 44 WEG. Betriebskostenverordnung BetrKV. Schnittstellen `kanzlei-allgemein`.
+Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e. BGB §§ 535 ff. Wohnraum- und Gewerberaummiete. Mieterhöhung §§ 558 ff. BGB. Kündigung §§ 543, 569, 573 BGB. WEG-Beschlussanfechtung § 44 WEG. Betriebskostenverordnung BetrKV. Schnittstellen `kanzlei-allgemein`.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

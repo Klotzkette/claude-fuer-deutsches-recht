@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Auslaender-, Asyl- und Staatsangehoerigkeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Auslaender-, Asyl- und Staatsangehoerigkeitsrecht
@@ -151,3 +151,25 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+## Vertiefung: Rechtsprechung und Normen (Migrationsrecht Mandatsannahme)
+
+- BVerfG, Beschl. v. 04.12.2019 - 2 BvR 1163/19, NJW 2020, 621 — Anwaltliche Begleitung bei BAMF-Anhörung: Beschränkung auf zwei Personen im Anhörungsraum ist verfassungsrechtlich zulässig; Mandant hat aber Recht auf Anwalt seiner Wahl als Beistand gemäß § 25 Abs. 6 AsylG.
+- BVerwG, Urt. v. 27.06.2017 - 1 C 26.16, BVerwGE 159, 196 — Streitwert Asylklage: § 52 Abs. 2 GKG setzt Regelstreitwert von 5.000 EUR fest; Ausnahmen nur bei bezifferbarem wirtschaftlichen Interesse.
+- BGH, Urt. v. 27.11.2019 - VIII ZR 285/18, NJW 2020, 534 — Honorarvereinbarung: Formerfordernis § 3a RVG gilt strikt; muendliche Vereinbarung ueber Stundenhonorar ist unwirksam; Anwalt kann nur RVG-Gebuehren verlangen.
+- BVerfG, Beschl. v. 12.05.2005 - 2 BvR 569/05, NJW 2005, 1858 — Prozesskostenhilfe im verwaltungsgerichtlichen Eilverfahren: PKH ist zu gewaehren wenn Erfolgschancen hinreichend sind; Gericht darf PKH nicht mit Verweis auf Eilbeduerftigkeit versagen.
+
+## Normen-Kette Erstgespraech
+
+- **§ 10 ff. GwG** — Sorgfaltspflichten und Identifizierung; § 2 Abs. 1 Nr. 10 GwG — Anwendung auf RA-Mandate
+- **§ 43a Abs. 4 BRAO / § 3 BORA** — Interessenkonflikt; Doppelvertretung verboten
+- **§ 3a RVG** — Honorarvereinbarung; Schriftform; Trennungsgebot RVG-Gebuehren / Stundensatz
+- **§§ 166 VwGO, 114 ZPO** — Prozesskostenhilfe im Verwaltungsverfahren
+- **§ 52 GKG** — Streitwert; Abs. 2 Regelstreitwert 5.000 EUR fuer Asylklage
+- **§ 25 Abs. 6 AsylG** — Recht auf anwaltlichen Beistand bei BAMF-Anhörung
+
+## Kommentarliteratur
+
+- Bergmann/Dienelt, Auslaenderrecht, 14. Aufl. 2024, § 74 AsylG Rn. 1-20 — Klagefristen
+- BRAK-Kommentar, GwG fuer Rechtsanwaelte, 3. Aufl. 2023 — Identifizierungspflichten
+- Zockoll, in: Hartung/Scharmer, BORA/CCBE § 43a BRAO Rn. 1 ff. — Interessenkonflikt

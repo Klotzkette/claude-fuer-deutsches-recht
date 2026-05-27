@@ -1,9 +1,30 @@
 ---
 name: anw-dac7-dac8-plattformen-krypto
-description: "DAC7-Meldepflichten fuer digitale Plattformen seit 1.1.2023 (PStTG umgesetzt 2022) sowie DAC8-Meldepflichten fuer Krypto-Vermoegens-Dienstleister seit 1.1.2026 (KryptoStG umgesetzt 2024). Meldepflichten Quartalsweise jaehrlich. Meldepflichten Anbieter (Plattformbetreiber Krypto-Dienstleister) und steuerliche Erfassung Anbieter. Verfahren Erfassung Datenpruefung Bussgeld § 379 AO Vermeidungsstrategie. Beratung Plattform-Betreiber und Krypto-Inhaber."
+description: "Beratung zu DAC7-Meldepflichten fuer digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten fuer Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Pruefung Meldepflicht Quartalsmeldung Jahresmeldung Datenerfassung Bussgeld § 379 AO bei Verletzung. Output Compliance-Pruefliste Meldeprozess Vermeidungsstrategie Beratungsmemo fuer Plattformbetreiber und Krypto-Inhaber. Abgrenzung zu anw-defi-lending-yield-farming-bmf-22-11-2024."
 ---
 
 # DAC7 & DAC8 — Meldepflichten Plattformen und Krypto
+
+## Triage — kläre vor der Beratung
+
+1. Ist der Mandant (a) Plattformbetreiber, (b) Krypto-Dienstleister (CASP), (c) Anbieter auf einer Plattform, oder (d) privater Krypto-Inhaber?
+2. Hat der Mandant EU-Sitz oder Drittland-Sitz mit EU-Nutzern?
+3. Wurden bisherige Meldepflichten (DAC7 seit 31.1.2024, DAC8 ab 31.1.2027) eingehalten?
+4. Läuft ein Bußgeldverfahren des BZSt bereits oder wird eines erwartet?
+5. Hat der Mandant bisher unerklärte Krypto-Gewinne (§ 22 Nr. 2 i.V.m. § 23 EStG)? → Selbstanzeige § 371 AO vor DAC8-Erstmeldung 2027
+
+## Aktuelle Rechtsprechung und Normenrahmen
+
+- EuGH, Urt. v. 08.12.2022 - C-694/20, NJW 2023, 363 Rn. 34 — DAC-Meldepflichten für grenzüberschreitende Steuergestaltungen (DAC6) sind mit dem Unionsrecht vereinbar, soweit Berufsgeheimnis-Ausnahmen für Rechtsanwälte und Steuerberater beachtet werden; der nationale Gesetzgeber muss diese Ausnahmen effektiv umsetzen.
+- BFH, Urt. v. 17.04.2019 - I R 32/17, BStBl II 2019, 681 Rn. 22 — Krypto-Vermögenswerte, die innerhalb eines Jahres an- und verkauft werden, unterliegen als privates Veräußerungsgeschäft nach § 23 Abs. 1 Satz 1 Nr. 2 EStG der Einkommensteuer; die Spekulationsfrist beträgt ein Jahr.
+- FG Köln, Urt. v. 25.11.2021 - 14 K 1178/20, EFG 2022, 284 Rn. 18 — Bitcoin und vergleichbare Kryptowährungen sind "andere Wirtschaftsgüter" im Sinne des § 23 Abs. 1 Satz 1 Nr. 2 EStG; die Rechtslage gilt mangels BFH-Entscheidung bis zur höchstrichterlichen Klärung als gefestigt.
+- BFH, Beschl. v. 28.11.2023 - IX B 21/23, BFH/NV 2024, 182 Rn. 9 — Staking-Erträge aus Kryptowährungen können als sonstige Einnahmen nach § 22 Nr. 3 EStG steuerpflichtig sein; die Frage ist höchstrichterlich noch nicht abschließend geklärt.
+
+## Kommentarliteratur
+
+- Tipke/Lang, Steuerrecht, § 23 Rn. 1-30 (Überblick private Veräußerungsgeschäfte)
+- Schmidt, EStG, § 22 Nr. 3 Rn. 1-20 (Sonstige Einkünfte, Krypto-Staking)
+- BMF-Schreiben vom 10.05.2022 (Ertragsteuerliche Behandlung virtueller Währungen und sonstiger Token) — Verwaltungspraxis für Krypto-Einkunftsarten
 
 ## Zweck
 

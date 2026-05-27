@@ -1,121 +1,217 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-kuendigung
-description: Kuendigung eines Wohnraummietverhaeltnisses. Ordentliche Kuendigung § 573 BGB mit berechtigtem Interesse Eigenbedarf Pflichtverletzung Hinderung wirtschaftlicher Verwertung. Ausserordentliche fristlose Kuendigung §§ 543 569 BGB bei Zahlungsverzug oder schwerer Pflichtverletzung. Kuendigungsfristen § 573c. Schonfristzahlung § 569 Abs. 3. Widerspruch und Haerteklausel §§ 574 ff. Schreibvorlagen.
+description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuendigung und prueft Wirksamkeit. Ordentliche Kuendigung § 573 BGB ausserordentliche Kuendigung §§ 543 569 BGB Eigenbedarfskuendigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Pruefraster Kuendigungs-Grund Abmahnung Kuendigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kuendigungs-Schreiben Widerspruch Raeumugsklage. Abgrenzung zu eigenbedarfskuendigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht)."
 ---
 
 # Kündigung eines Wohnraummietverhältnisses
 
 ## Kaltstart-Rückfragen
 
-1. Mietverhältnis befristet oder unbefristet? Mietbeginn?
-2. Kündigungsanlass: Eigenbedarf, Zahlungsverzug, schwere Pflichtverletzung, sonstiges berechtigtes Interesse?
-3. Bei Eigenbedarf: Konkreter Bedarfsperson (Name, Verwandtschaftsgrad nach § 573 Abs. 2 Nr. 2 BGB), Nutzungsabsicht (Selbstnutzung, Familienangehörige, Haushaltsangehörige)?
-4. Bei Zahlungsverzug: Höhe Rückstand, Zeitraum, Mahnungen, Abmahnung? Liegen zwei Monatsmieten oder Rückstand über zwei Termine mit insgesamt mehr als einer Monatsmiete vor?
-5. Wie lange wohnt die Mieterseite bereits in der Wohnung (Kündigungsfristen § 573c BGB)?
-6. Sind Härtegründe iSv § 574 BGB erkennbar (hohes Alter, Schwangerschaft, schwere Krankheit, fehlender Ersatzwohnraum)?
+1. Mietverhältnis befristet oder unbefristet — Mietbeginn, Datum letzter Mietvertrag?
+2. Kündigungsanlass — Eigenbedarf, Zahlungsverzug, schwere Pflichtverletzung, wirtschaftliche Verwertung, sonstiges berechtigtes Interesse?
+3. Bei Eigenbedarf: Name der Bedarfsperson, Verwandtschaftsgrad § 573 Abs. 2 Nr. 2 BGB, konkrete Nutzungsabsicht (Selbstnutzung, Angehöriger)?
+4. Bei Zahlungsverzug: Höhe des Rückstands, Zeitraum, wie viele Monatsmieten, Datum letzter Mahnung?
+5. Bei Pflichtverletzung: welche Pflichtverletzung, Abmahnung erfolgt?
+6. Wie lange wohnt die Mieterseite — Mietdauer entscheidend für Kündigungsfristen § 573c BGB?
+7. Sind Härtegründe iSv § 574 BGB erkennbar — hohes Alter, schwere Krankheit, fehlender Ersatzwohnraum?
+8. Liegt ein Zeitmietvertrag vor — § 575 BGB Voraussetzungen erfüllt?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **Ordentliche Kündigung Vermieter § 573 BGB:** Nur bei berechtigtem Interesse — insbesondere Eigenbedarf § 573 Abs. 2 Nr. 2 BGB, Pflichtverletzung § 573 Abs. 2 Nr. 1 BGB, Hinderung wirtschaftlicher Verwertung § 573 Abs. 2 Nr. 3 BGB.
-- **Schriftform § 568 BGB** mit Begründung § 573 Abs. 3 BGB.
-- **Fristen § 573c BGB:** Drei Monate; nach fünf Jahren Mietdauer sechs Monate; nach acht Jahren neun Monate.
-- **Außerordentliche fristlose Kündigung § 543 BGB:** Wichtiger Grund, Abwägung; bei Zahlungsverzug konkretisierte Tatbestände § 543 Abs. 2 Nr. 3 BGB.
-- **Wohnraumspezifika § 569 BGB:** Zahlungsverzug § 569 Abs. 3 Nr. 1, Schonfristzahlung § 569 Abs. 3 Nr. 2 BGB binnen zwei Monaten nach Räumungsklagezustellung heilt fristlose Kündigung.
-- **Widerspruch §§ 574 ff. BGB:** Sozialklausel bei Härte, schriftlich bis zwei Monate vor Beendigung; Verlängerung gerichtlich bestimmt § 574a BGB.
-- **Schriftliche Belehrung § 568 Abs. 2 BGB** über Widerspruch.
+### Ordentliche Kündigung
 
-## Maßgebliche Rechtsprechung
+- **§ 573 Abs. 1 BGB** — berechtigtes Interesse des Vermieters erforderlich; abschließende Regelung.
+- **§ 573 Abs. 2 Nr. 1 BGB** — Pflichtverletzung: schuldhaftes Verhalten des Mieters, das Kündigung als angemessene Reaktion erscheinen lässt; i. d. R. Abmahnung Voraussetzung (BGH VIII ZR 191/10).
+- **§ 573 Abs. 2 Nr. 2 BGB** — Eigenbedarf: Vermieter oder Familienangehörige (§ 573 Abs. 2 Nr. 2 Halbsatz 2: Familienangehörige = namentlich aufzuführen); Nutzungswunsch muss ernsthaft, vernünftig und nachvollziehbar sein.
+- **§ 573 Abs. 2 Nr. 3 BGB** — Wirtschaftliche Verwertung: angemessene wirtschaftliche Verwertung ohne Kündigung nicht möglich; strenge Voraussetzungen.
+- **§ 573 Abs. 3 BGB** — Begründungspflicht im Kündigungsschreiben: Anfechtungsgrund konkret und aktuell; Austausch nach Zugang grundsätzlich nicht möglich (BGH VIII ZR 61/18).
+- **§ 568 Abs. 1 BGB** — Schriftform zwingend.
+- **§ 568 Abs. 2 BGB** — Belehrung über Widerspruchsrecht §§ 574 ff. BGB.
 
-- BGH, Urt. v. 22.08.2018 – Az. VIII ZR 277/16, BGHZ 219, 297 Rn. 19 — Eigenbedarf und tatrichterliche Härteprüfung.
-- BGH, Urt. v. 27.06.2007 – Az. VIII ZR 271/06, NJW 2007, 2845 Rn. 24 — Vorgetäuschter Eigenbedarf Schadensersatz.
-- BGH, Urt. v. 13.10.2021 – Az. VIII ZR 91/20, NJW-RR 2022, 90 Rn. 21 — Schonfristzahlung heilt nur die fristlose nicht die hilfsweise ordentliche Kündigung.
-- BGH, Urt. v. 04.05.2011 – Az. VIII ZR 191/10, NJW 2011, 2284 Rn. 13 — Abmahnung als Voraussetzung bei Pflichtverletzungskündigung.
-- BGH, Beschl. v. 23.10.2018 – Az. VIII ZR 61/18, NJW 2019, 444 Rn. 8 — Begründungserfordernis § 573 Abs. 3 BGB.
+### Fristen
+
+- **§ 573c Abs. 1 BGB** — Kündigungsfristen nach Mietdauer: bis 5 Jahre: 3 Monate; bis 8 Jahre: 6 Monate; über 8 Jahre: 9 Monate.
+- Zugang bis zum dritten Werktag eines Monats = Fristbeginn dieses Monats (§ 573c Abs. 1 Satz 2 BGB).
+
+### Außerordentliche fristlose Kündigung
+
+- **§ 543 Abs. 1 BGB** — wichtiger Grund, der es dem Kündigenden unzumutbar macht, das Mietverhältnis fortzuführen.
+- **§ 543 Abs. 2 Nr. 3 BGB** — Zahlungsverzug: lit. a bei zwei aufeinanderfolgenden Monaten jeweils mind. eine Monatsmiete; lit. b Verzug über zwei Mietzeiträume mit mehr als einer Monatsmiete.
+- **§ 543 Abs. 3 BGB** — Abmahnungserfordernis vor Kündigung wegen Ruhestörung/Pflichtverletzung.
+- **§ 569 Abs. 3 Nr. 1 BGB** — Schonfristzahlung heilt die fristlose Kündigung: vollständige Begleichung binnen zwei Monaten nach Zustellung der Räumungsklage.
+- **BGH VIII ZR 91/20** — Schonfristzahlung heilt nur die fristlose Kündigung, nicht die hilfsweise erklärte ordentliche Kündigung.
+
+### Sozialklausel / Widerspruch
+
+- **§ 574 BGB** — Widerspruchsrecht des Mieters bei Härte; schriftlich.
+- **§ 574b Abs. 2 BGB** — Widerspruch spätestens zwei Monate vor Beendigung.
+- **§ 574a BGB** — Gerichtliche Bestimmung der Verlängerung bei Widerspruch.
+
+### BGH-Rechtsprechung
+
+- BGH, Urt. v. 22.08.2018 — **VIII ZR 277/16** (BGHZ 219, 297): Eigenbedarf — ernsthafte, tatsächliche Nutzungsabsicht; Tatgericht hat Härtegründe zu würdigen.
+- BGH, Urt. v. 27.06.2007 — **VIII ZR 271/06**: vorgetäuschter Eigenbedarf = Schadensersatz Umzugskosten + Mietzinsdifferenz.
+- BGH, Urt. v. 13.10.2021 — **VIII ZR 91/20**: Schonfristzahlung heilt nur fristlose, nicht hilfsweise ordentliche Kündigung.
+- BGH, Urt. v. 04.05.2011 — **VIII ZR 191/10**: Abmahnung vor Pflichtverletzungskündigung grundsätzlich erforderlich.
+- BGH, Beschl. v. 23.10.2018 — **VIII ZR 61/18**: Begründungspflicht § 573 Abs. 3 BGB — Auswechslung nach Zugang grundsätzlich unzulässig.
 
 ## Prüfschema
 
-```
-1. Kündigungsart wählen
-   - Ordentlich § 573 BGB (berechtigtes Interesse erforderlich)
-   - Außerordentlich fristlos § 543 BGB
-   - Häufig: außerordentlich fristlos und hilfsweise ordentlich
-2. Form § 568 BGB
-   - Schriftform mit eigenhändiger Unterschrift
-   - Belehrung Widerspruchsrecht §§ 574 ff. BGB
-3. Begründung § 573 Abs. 3 BGB
-   - Eigenbedarfsperson namentlich benennen
-   - Nutzungsabsicht konkret darstellen
-   - Bei Pflichtverletzung Abmahnung darstellen
-4. Frist § 573c BGB
-   - Zugangsfristen Dritter Werktag des Monats
-5. Bei Zahlungsverzug
-   - Tatbestand § 543 Abs. 2 Nr. 3 BGB
-   - Schonfristzahlung § 569 Abs. 3 BGB beachten
-   - Hilfsweise ordentliche Kündigung § 573 Abs. 2 Nr. 1 BGB
-6. Härte § 574 BGB
-   - Mieterwiderspruch bis zwei Monate vor Beendigung
-   - Härteabwägung im Räumungsprozess
-7. Räumungsklage
-   - Sachliche Zuständigkeit AG ohne Streitwertgrenze § 23 Nr. 2a GVG
-   - Räumungsfristen § 721 ZPO
-```
+| Nr. | Prüfschritt | Norm | Kernfrage |
+|---|---|---|---|
+| 1 | Wohnraummiete | §§ 549 ff. BGB | Sozialmietrecht anwendbar? Kein preisgebundener Wohnraum? |
+| 2 | Kündigungsart | §§ 543, 573 BGB | Ordentlich, außerordentlich oder kombiniert (AO + hilfsweise O)? |
+| 3 | Berechtigtes Interesse | § 573 BGB | Eigenbedarf, Pflichtverletzung, wirtschaftliche Verwertung, sonstiges? |
+| 4 | Abmahnung | § 543 Abs. 3 BGB, § 573 Abs. 2 Nr. 1 BGB | Bei Pflichtverletzung: Abmahnung vorausgegangen? |
+| 5 | Zahlungsverzug-Tatbestand | § 543 Abs. 2 Nr. 3 BGB | Zwei volle Monatsmieten oder Übermonats-Rückstand? |
+| 6 | Schriftform und Begründung | §§ 568, 573 Abs. 3 BGB | Schriftlich? Konkrete, aktuelle Begründung? |
+| 7 | Belehrung Widerspruch | § 568 Abs. 2 BGB | Widerspruchshinweis §§ 574 ff. BGB enthalten? |
+| 8 | Kündigungsfristen | § 573c BGB | Zugang rechtzeitig? Frist nach Mietdauer? |
+| 9 | Schonfristzahlung | § 569 Abs. 3 BGB | Bei Räumungsklage: Zwei-Monats-Frist für Nachzahlung? |
+| 10 | Härtegründe | §§ 574 ff. BGB | Widerspruch schriftlich, rechtzeitig? Härteabwägung? |
 
-## Schreibvorlage Eigenbedarfskündigung
+## Strategische Optionen (vor dem Template entscheiden)
 
-```
-[Briefkopf Vermieterin / Kanzlei]                                  [Ort, Datum]
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-An [Mieter / Mieterin]
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Mietkuendigung (Eigenbedarf/Zahlungsverzug) | Kuendigungsschreiben; Template unten |
+| Variante A — Mieter widerspricht wegen Haertefall | §§ 574 ff. BGB Sozialklausel; Verlaengerung verhandeln |
+| Variante B — Mieter zahlt nicht mehr | Fristlose Kuendigung § 543 BGB + ordentliche parallel |
+| Variante C — Eigenbedarf nur vorgetaeuscht | Schadensersatz Mieter; Strafanzeige Betrug pruefen |
 
-Kündigung des Mietverhältnisses gemäß §§ 573 Abs. 1, Abs. 2 Nr. 2 BGB
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-Sehr geehrte [Anrede],
 
-namens und in Vollmacht der Vermieterin kündige ich das mit Mietvertrag vom
-[Datum] über die Wohnung [Anschrift] begründete Mietverhältnis ordentlich
-zum [Datum entsprechend § 573c BGB].
+## Schriftsatzbausteine
 
-Berechtigtes Interesse besteht in Eigenbedarf der [Bedarfsperson, Name,
-Verwandtschaftsgrad gemäß § 573 Abs. 2 Nr. 2 BGB]. Diese benötigt die Wohnung
-zum [Datum] für [Nutzungszweck Wohnnutzung, Lebensumstand: Auszug aus
-Elternhaus / Heirat / Berufswechsel etc.]. Eine alternative Wohnung steht der
-Bedarfsperson nicht zur Verfügung [konkrete Begründung].
-
-Ich weise Sie gemäß § 568 Abs. 2 BGB auf Ihr Widerspruchsrecht §§ 574 ff. BGB
-hin. Ein Widerspruch ist spätestens zwei Monate vor Beendigung des
-Mietverhältnisses schriftlich zu erklären (§ 574b Abs. 2 BGB).
-
-Bitte räumen Sie die Wohnung fristgerecht und übergeben Sie sie besenrein.
-
-Mit freundlichen Grüßen
-[Anwalt, Fachanwalt für Miet- und Wohnungseigentumsrecht]
-```
-
-## Schreibvorlage Zahlungsverzugskündigung
+### Eigenbedarfskündigung
 
 ```
-Kündigung gemäß § 543 Abs. 2 Nr. 3 BGB, hilfsweise § 573 Abs. 2 Nr. 1 BGB
+[Briefkopf Vermieter / Kanzlei]                       [Ort, Datum]
 
-Sie sind mit Mietzahlungen in Verzug:
-- Miete [Monat 1]:      offen EUR [Betrag]
-- Miete [Monat 2]:      offen EUR [Betrag]
-Gesamtrückstand:        EUR [Betrag], somit mehr als zwei Monatsmieten.
+An [Mieterin / Mieter, Anschrift]
 
-Der Tatbestand des § 543 Abs. 2 Nr. 3 lit. b BGB ist erfüllt.
+Kündigung gemäß §§ 573 Abs. 1, 573 Abs. 2 Nr. 2 BGB
 
-Hiermit kündige ich das Mietverhältnis fristlos gemäß § 543 BGB, hilfsweise
-ordentlich gemäß § 573 Abs. 2 Nr. 1 BGB zum nächst zulässigen Termin
-(§ 573c BGB).
+namens und in Vollmacht der Vermieterin kündige ich das
+Mietverhältnis über die Wohnung [Anschrift, Stockwerk, qm]
+ordentlich zum [Datum nach § 573c BGB].
 
-Hinweis Schonfristzahlung § 569 Abs. 3 BGB: Die fristlose Kündigung kann durch
-vollständige Begleichung des Rückstands binnen zwei Monaten nach Zustellung
-einer Räumungsklage geheilt werden. Die hilfsweise ordentliche Kündigung bleibt
-hiervon unberührt (BGH Az. VIII ZR 91/20).
+Berechtigtes Interesse — Eigenbedarf:
+Die Bedarfsperson [Name, Verwandtschaftsgrad: z.B. Tochter
+§ 573 Abs. 2 Nr. 2 BGB] benötigt die Wohnung ab [Datum] zum
+Zweck der Eigennutzung als Hauptwohnsitz. Die Bedarfsperson
+lebt derzeit in [Situation, z.B. Wohngemeinschaft ohne eigenständige
+Wohnung] und beabsichtigt [Beschreibung der konkreten Nutzung].
+Eine andere geeignete freie Wohnung steht der Bedarfsperson
+nicht zur Verfügung.
+
+Bitte räumen Sie die Wohnung bis spätestens [Datum] und
+übergeben Sie sie besenrein.
+
+Hinweis auf Widerspruchsrecht §§ 574 ff. BGB gemäß
+§ 568 Abs. 2 BGB: Sie können der Kündigung bis zwei Monate
+vor Ablauf der Kündigungsfrist schriftlich widersprechen,
+wenn Sie Härtegründe iSv § 574 BGB geltend machen
+(Datum Widerspruch spätestens: [Datum]).
+
+[Unterschrift, Anwalt]
 ```
 
-## Übergabe
+### Zahlungsverzugskündigung (kombiniert)
 
-- Bei Räumungsklage Schnittstelle zur Räumungsvollstreckung (Berliner Modell, Frankfurter Modell).
-- Bei Sozialdaten zur Härtefallabwägung Schnittstelle zum Plugin `fachanwalt-sozialrecht`.
-- Bei vorgetäuschtem Eigenbedarf Schadensersatzrisiko (Umzugskosten, Mehrmiete) beachten.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Pinpoint, Hierarchie).
+```
+Kündigung gem. § 543 Abs. 2 Nr. 3 BGB,
+hilfsweise § 573 Abs. 2 Nr. 1 BGB
+
+Ausstehende Mietzahlungen:
+  [Monat/Jahr]:    EUR [Betrag]
+  [Monat/Jahr]:    EUR [Betrag]
+  Gesamtrückstand: EUR [Betrag]
+  (mehr als zwei volle Monatsmieten iSv § 543 Abs. 2 Nr. 3
+  lit. a BGB / Rückstand über zwei Mietzeiträume iSv lit. b BGB)
+
+Wir kündigen das Mietverhältnis hiermit fristlos gemäß § 543
+Abs. 2 Nr. 3 BGB sowie hilfsweise ordentlich gemäß § 573
+Abs. 2 Nr. 1 BGB zum nächst zulässigen Termin (§ 573c BGB).
+
+Hinweis Schonfristzahlung § 569 Abs. 3 BGB: Die fristlose
+Kündigung kann durch vollständige Begleichung aller ausstehenden
+Beträge binnen zwei Monaten nach Zustellung einer Räumungsklage
+geheilt werden. Die hilfsweise ordentliche Kündigung wird
+dadurch nicht berührt (BGH VIII ZR 91/20).
+
+[Unterschrift]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Beweislast und Darlegungslast
+
+| Frage | Last | Beweismittel |
+|---|---|---|
+| Eigenbedarf — ernsthafte Absicht | Vermieter | Eidesstattliche Versicherung; Zeugen; Umstände |
+| Vorgetäuschter Eigenbedarf | Mieter (Schadensersatz) | Keine Einzug nach Auszug; Vermietung an Dritte |
+| Zahlungsverzug | Vermieter | Kontoauszüge; Mahnungen |
+| Abmahnung bei Pflichtverletzung | Vermieter | Abmahnschreiben; Zugangsnachweis |
+| Härtegründe Widerspruch | Mieter | Sozialberichte; Attest; Wohnungsmarktlage |
+
+## Fristen und Verjährung
+
+| Frist | Dauer | Norm |
+|---|---|---|
+| Ordentliche Kündigung bis 5 Jahre Mietzeit | 3 Monate zum Monatsende | § 573c Abs. 1 Satz 1 BGB |
+| Ordentliche Kündigung bis 8 Jahre Mietzeit | 6 Monate zum Monatsende | § 573c Abs. 1 Satz 1 BGB |
+| Ordentliche Kündigung über 8 Jahre Mietzeit | 9 Monate zum Monatsende | § 573c Abs. 1 Satz 1 BGB |
+| Zugang-Deadline ordentliche Kündigung | Bis 3. Werktag des Kalendermonats | § 573c Abs. 1 Satz 2 BGB |
+| Schonfristzahlung | 2 Monate nach Räumungsklagezustellung | § 569 Abs. 3 Nr. 2 BGB |
+| Widerspruch Mieter | Bis 2 Monate vor Beendigung | § 574b Abs. 2 BGB |
+| Räumungsklage nach fristloser Kündigung | Unverzüglich nach Ablauf; sonst Verwirkung möglich | allg. |
+| Verjährung Schadensersatz vorgetäuschter Eigenbedarf | 3 Jahre ab Kenntnis §§ 195, 199 BGB | §§ 195, 199 BGB |
+
+## Typische Gegenargumente und Reaktion
+
+| Einwand Mieter | Reaktion Vermieter |
+|---|---|
+| Eigenbedarf vorgetäuscht | Ernsthafte Nutzungsabsicht durch Belege und Zeugen; keine Weitervermietung nach Auszug |
+| Kein Verwandtschaftsgrad nach § 573 Abs. 2 Nr. 2 BGB | Kreis der Angehörigen ist weit: Kinder, Eltern, Geschwister, Enkel, Ehegatte |
+| Schonfristzahlung heilt Kündigung | Nur fristlose wird geheilt (BGH VIII ZR 91/20); ordentliche bleibt wirksam |
+| Härteklausel § 574 BGB | Abwägung im Prozess; hohe Latte bei echtem Eigenbedarf (BGH VIII ZR 277/16) |
+| Abmahnung nicht erfolgt | Bei Zahlungsverzug § 543 Abs. 2 Nr. 3 BGB keine Abmahnung erforderlich |
+
+## Streitwert und Kosten
+
+- Streitwert Räumungsklage: Jahresbetrag der Miete § 41 Abs. 2 GKG.
+- AG-Kosten bei 12.000 EUR Streitwert: ca. 400 EUR Gerichtsgebühren erste Instanz.
+- RVG Anwalt bei 12.000 EUR: ca. 1.200 EUR netto.
+- Schadensersatz vorgetäuschter Eigenbedarf: Umzugskosten + Mietdifferenz × Monate.
+- Prozesskostenhilfe für Mieter bei Räumungsklage: §§ 114 ff. ZPO.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Eigenbedarf — kein Druck | Ordentliche Kündigung mit vollständiger Begründung; Widerspruchsmöglichkeit für Härtegründe einplanen |
+| Hoher Zahlungsverzug | Fristlos + hilfsweise ordentlich; unverzüglich Räumungsklage |
+| Schonfristzahlung erfolgte | Fristlose Kündigung geheilt; hilfsweise ordentliche verfolgen |
+| Härtegründe absehbar | Sozialamt und Wohnungsamt frühzeitig einschalten; Wohnungssuche begleiten |
+| Abmahnung vergessen | Abmahnung nachholen; danach neue Kündigung |
+
+## Anschluss-Skills
+
+- `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` — Mieterhöhung nach Sanierung
+- `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` — WEG-Vermietung
+
+## Quellen
+
+- BGB §§ 535, 543, 549–574b
+- GKG § 41
+- BGH VIII ZR 277/16; VIII ZR 271/06; VIII ZR 91/20; VIII ZR 191/10; VIII ZR 61/18
+- Schmidt/Futterer Mietrecht, aktuelle Aufl.
+- Staudinger BGB §§ 535 ff.

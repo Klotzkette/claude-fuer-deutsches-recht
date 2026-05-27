@@ -1,45 +1,78 @@
 ---
 name: verkehrsowi-kommandocenter
-description: "Startet VerkehrsOWi-Mandate mit Fristensicherung, Vorwurfsprofil, Beweisplan und Verteidigungsroute."
+description: "Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Pruefraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy."
 ---
 
-# VerkehrsOWi-Kommandocenter
+# VerkehrsOWi-Verteidiger — Kommandocenter
 
 ## Zweck
 
-Dieser Skill gehört zum freistehenden Plugin **VerkehrsOWi-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet Dringlichkeit und routet zur richtigen Subskill-Anleitung.
 
-## Wann verwenden
+## Sofort-Triage bei Mandatsaufnahme
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+**Drei kritische Fragen zuerst:**
 
-## Arbeitsweise
+1. **Fristlage:** Wann wurde der Bussgeldbescheid zugestellt? Einspruchsfrist § 67 Abs. 1 OWiG: 2 Wochen ab Zustellung.
+   - Frist offen → Einspruch sofort, dann vertiefen
+   - Frist abgelaufen → Wiedereinsetzung § 52 OWiG pruefen
 
-1. Zustellungsdatum, Tatdatum, Aktenzeichen, Behörde, Kennzeichen und Mandatsziel erfassen.
-2. Sofort zwischen Anhörung, Bußgeldbescheid, Ladung, Urteil und Rechtsbeschwerde unterscheiden.
-3. Vorwurf in Tatbestand, Messmittel, Fahreridentifikation, Rechtsfolge und Frist zerlegen.
-4. Ausgabe: Kurzlage, Ampel, nächste drei Schritte, fehlende Unterlagen.
+2. **OWi oder Strafrecht?** — Grenzwert: § 24a Abs. 1 StVG (0,5 Promille OWi) vs. § 316 StGB (ab 1,1 Promille oder Ausfallerscheinung = Strafrecht!); Geschwindigkeit: OWi immer.
 
-## Rückfragen, wenn unklar
+3. **Fahrverbot oder Fahrerlaubnis-Entzug?** — § 25 StVG (OWi: 1-3 Monate, bleibt Fahrerlaubnis) vs. § 69 StGB (Strafrecht: Entziehung mit Sperrfrist).
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+## Ampel-Schnelldiagnose
 
-## Ausgabeformat
+| Situation | Ampel | Massnahme |
+|-----------|-------|-----------|
+| Frist laeuft in < 3 Tagen | ROT | Einspruch SOFORT, dann vertiefen |
+| Frist laeuft in 4-7 Tagen | GELB | Einspruch und Akteneinsicht parallel |
+| Frist > 7 Tage | GRUEN | Strukturierte Bearbeitung |
+| Frist abgelaufen, Wiedereinsetzungsgrund | GELB | § 52 OWiG Antrag |
+| Strafrecht (§ 316 StGB) statt OWi | ROT | Subskill Strafrecht wechseln! |
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+## Routing-Matrix
+
+| Aufgabe | Subskill |
+|---------|---------|
+| Einspruchsfrist berechnen + einlegen | `verkehrsowi-fristen-einspruch` |
+| Akteneinsicht Messakte anfordern | `verkehrsowi-akteneinsicht-messakte` |
+| Messverfahren-Angriffspunkte pruefen | `verkehrsowi-messverfahren-geschwindigkeit` |
+| Beweisverwertung standardisiert | `verkehrsowi-beweisverwertung-standardisiert` |
+| Alkohol / Drogen § 24a StVG | `verkehrsowi-alkohol-drogen-24a` |
+| Fahreridentifizierung | `verkehrsowi-fahreridentifizierung` |
+| Anhoerung / Bussgeldbescheid-Pruefung | `verkehrsowi-anhoerung-bussgeldbescheid` |
+| Haertefall Fahrverbot | `verkehrsowi-haertefall-fahrverbot` |
+| Punkte in Flensburg | `verkehrsowi-punkte-fahrverbot-flensburg` |
+| Hauptverhandlung Amtsgericht | `verkehrsowi-hauptverhandlung-amtsgericht` |
+| Rechtsbeschwerde | `verkehrsowi-rechtsbeschwerde` |
+| Zeugen Polizei Strategie | `verkehrsowi-zeugen-polizei-strategie` |
+| Rotlicht Abstand Handy | `verkehrsowi-rotlicht-abstand-handy` |
+| Verjaehrung Zustellung | `verkehrsowi-verjaehrung-zustellung` |
+| Mandantenkommunikation | `verkehrsowi-mandantenkommunikation` |
+| Quality Gate | `verkehrsowi-quality-gate` |
+
+## Zentrale OWi-Normen im Ueberblick
+
+- **§ 24 StVG** — Ordnungswidrigkeiten im Strassenverkehr allgemein
+- **§ 24a StVG** — Alkohol (0,5 Promille) und Drogen
+- **§ 25 StVG** — Fahrverbot 1-3 Monate
+- **§ 26 StVG** — Zustaendigkeit Bussgeldbehoerde
+- **§ 67 OWiG** — Einspruch 2-Wochen-Frist
+- **§ 77 OWiG** — Beweisaufnahme, Sachverstaendige
+- **§ 79 OWiG** — Rechtsbeschwerde
+- **§ 4 BKatV** — Regelfahrverbot und Abweichung bei Haertefall
+- **Art. 103 Abs. 1 GG** — Rechtliches Gehoer, Rohmessdaten-Recht
+
+## Querschnitts-Rechtsprechung
+
+- BGH BGHSt 43, 277 — Standardisiertes Messverfahren befreit von Detailbegruendung, aber konkrete Einwaende sind aufzuklaeren.
+- BVerfG NJW 2021, 455 — Rohmessdaten: Zugang aus Art. 103 Abs. 1 GG.
+- OLG Bamberg NZV 2017, 494 — Sachverstaendigenantrag bei konkreten Messfehler-Angriffspunkten zwingend zu bescheiden.
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- OWi vs. Strafrecht immer zuerst klaeren — falsche Qualifikation ist schwerer Fehler.
+- Frist immer zuerst sichern — kein Schritt vor Einspruch.
+- Rohmessdaten grundsaetzlich anfordern.
+- Anwaltliche Endkontrolle bei allen Fristen und Antraegen.

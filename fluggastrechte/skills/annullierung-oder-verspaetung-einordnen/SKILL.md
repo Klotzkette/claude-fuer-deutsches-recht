@@ -1,6 +1,6 @@
 ---
 name: annullierung-oder-verspaetung-einordnen
-description: Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 5 VO 261/2004) Verspaetung (Art. 6 VO 261/2004 plus EuGH-Sturgeon-Rechtsprechung) Nichtbefoerderung wegen Overbooking (Art. 4 VO 261/2004) oder reine Umbuchung. Behandelt Sonderfaelle Flug am naechsten Tag mit gleicher Flugnummer Anschlussflug ohne Anschluss-Beifoerderung Ersatzflug. Erzeugt Subsumtionsergebnis mit Begruendung Verweis auf Normen und Rechtsprechung.
+description: "Ordnet das Stoerungsereignis rechtlich ein — Annullierung (Art. 5 VO 261/2004) Verspaetung (Art. 6 VO 261/2004 plus EuGH-Sturgeon-Rechtsprechung) Nichtbefoerderung wegen Overbooking (Art. 4 VO 261/2004) oder reine Umbuchung. Behandelt Sonderfaelle Flug am naechsten Tag mit gleicher Flugnummer Anschlussflug ohne Anschluss-Beifoerderung Ersatzflug. Erzeugt Subsumtionsergebnis mit Begruendung Verweis auf Normen und Rechtsprechung."
 ---
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Bank-, Kapitalmarkt- und Wertpapierrecht
@@ -155,3 +155,24 @@ Klassische Stolperfalle in Bank-, Kapitalmarkt- und Wertpapierrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+## Vertiefung: Rechtsprechung Bank-/Kapitalmarktrecht Vergleich
+
+### Schluessel-Leitsaetze Vergleich und Einigung
+
+- BGH, Urt. v. 09.06.2022 - IX ZR 108/21, NJW 2022, 2987 Rn. 24 — Vergleich nach § 779 BGB setzt gegenseitiges Nachgeben voraus; einseitiger Forderungsverzicht ist kein Vergleich sondern Erlass.
+- BGH, Urt. v. 25.06.2015 - VII ZR 200/14, NJW 2015, 2812 Rn. 18 — Pauschale Abgeltungsklausel erfasst auch kuenftige unbekannte Ansprueche wenn Parteien erkennbar eine Gesamtbereinigung wollten; Auslegung nach §§ 133, 157 BGB.
+- BGH, Urt. v. 12.07.2016 - XI ZR 564/15, NJW 2017, 245 — Verwirkung des Widerrufsrechts setzt Zeit- und Umstandsmoment voraus; Bank muss konkrete Vertrauenstatbestand nachweisen.
+- BGH, Urt. v. 18.01.2022 - XI ZR 467/20, NJW 2022, 1018 Rn. 15 — Bei Vergleich ueber Anlageberatungs-Schadensersatz muss Bank Kausalitaet durch Vergleich nicht mehr nachweisen; Vergleich schafft eigene Anspruchsgrundlage.
+
+### Normen-Kette Vergleich und Vollstreckung
+- § 779 BGB — Vergleichsvertrag (gegenseitiges Nachgeben)
+- § 796a ZPO — Anwaltsvergleich als Vollstreckungstitel
+- § 794 Abs. 1 Nr. 1 ZPO — Prozessvergleich als Vollstreckungstitel
+- §§ 133, 157 BGB — Auslegung Abgeltungsklausel
+- § 203 BGB — Hemmung Verjaebrung durch Verhandlungen
+
+### Kommentarliteratur Vergleich
+- Grueneberg BGB § 779 (Vergleich)
+- Zoe lner/Noack ZPO § 796a (Anwaltsvergleich)
+- Schimansky/Bunte/Lwowski Bankrechts-Handbuch § 134 (Vergleich im Bank- und Kapitalmarktrecht)

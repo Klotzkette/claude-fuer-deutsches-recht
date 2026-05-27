@@ -9,6 +9,37 @@ description: "Zeugnisanspruch nach § 109 GewO: qualifiziertes Zeugnis; BAG-Mind
 
 Das Zeugnis ist oft ein wichtiger Verhandlungspunkt im Kündigungsschutzprozess. Arbeitnehmer haben einen gesetzlichen Anspruch auf ein qualifiziertes Zeugnis — aber die Note ist verhandelbar.
 
+## Triage zu Beginn — kläre vor Zeugnisberatung
+
+1. Liegt bereits ein Zeugnis vor, das beanstandet werden soll?
+2. Soll die Zeugnisnote im Vergleich verhandelt werden (Zielkorridor: gut oder sehr gut)?
+3. Ist das Zeugnis Teil eines größeren Vergleichs oder ein eigenständiger Anspruch nach Beendigung?
+4. Bestehen konkrete Negativformulierungen oder Schlüsselsatzprobleme im vorliegenden Zeugnis?
+
+**Schrittfolge Zeugnisstrategie im Vergleich:**
+```
+Step 1: Ist eine bestimmte Note gewünscht? → Konkrete Formulierung vereinbaren
+Step 2: Zeugnisentwurf vorliegen lassen und prüfen
+Step 3: Negativsignale identifizieren (vgl. Negativsignal-Liste unten)
+Step 4: Option B (vollständiger Zeugnistext im Vergleich) bei Zweifeln bevorzugen
+Step 5: Ausstellungsdatum und Unterzeichner festschreiben
+Step 6: Frist für Ausstellung (z.B. zwei Wochen nach Beendigung) in Vergleich aufnehmen
+```
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435 — Arbeitnehmer haben bei fehlender Substantiierung besserer Leistungen Anspruch auf ein Zeugnis mit der Gesamtnote befriedigend (Formulierung: „zur vollen Zufriedenheit“); der Arbeitgeber kann nicht auf dieser Grundlage einseitig eine schlechtere Note erteilen.
+- BAG, Urt. v. 14.10.2003 – 9 AZR 12/03, NZA 2004, 313 — Enthaltene Negativsignale im Zeugnis (z.B. „hat sich stets bemüht“) erfüllen den Anspruch auf ein ordnungsgemäßes Zeugnis nicht; der Arbeitnehmer kann Berichtigung verlangen.
+- BAG, Urt. v. 07.09.2021 – 9 AZR 3/21, NZA 2022, 70 — Das Zeugnis darf keine versteckten negativen Aussagen über den Arbeitnehmer enthalten; Formulierungen, die auf den ersten Blick positiv erscheinen, aber in der Branche als negativ bekannt sind, begründen einen Berichtigungsanspruch.
+- BAG, Urt. v. 28.02.2012 – 9 AZR 340/10, NZA 2012, 806 — Bei Vergleich über eine bestimmte Zeugnisformulierung müssen beide Parteien über denselben Inhalt übereinstimmen; Formulierungsstreitigkeiten nach Vergleich können zu erneutem Prozess führen.
+
+## Kommentarliteratur
+
+- ErfK/Schlachter, 24. Aufl. 2024, § 109 GewO Rn. 1-25 — (Inhalt, Form, Notensystem, Negativsignale)
+- Schaub/Koch, ArbeitsR-HdB, 20. Aufl. 2023, § 148 Rn. 1 ff. — (Zeugnisinhalt, Zeugnisberichtigung)
+- MHdB ArbR/Wisskirchen, 5. Aufl. 2021, § 97 Rn. 5 ff. — (Zeugnis im Vergleich, Formulierungsrisiken)
+- Etzel/Böhm, Kündigungsschutz, 12. Aufl. 2022, Rn. 1060 ff. — (Zeugnisanspruch im Kündigungsschutzprozess)
+
 ## Gesetzlicher Anspruch § 109 GewO
 
 Nach § 109 Abs. 1 GewO hat der Arbeitnehmer bei Beendigung des Arbeitsverhältnisses Anspruch auf ein schriftliches Zeugnis. Das Zeugnis muss mindestens Angaben über Art und Dauer der Tätigkeit enthalten (einfaches Zeugnis).

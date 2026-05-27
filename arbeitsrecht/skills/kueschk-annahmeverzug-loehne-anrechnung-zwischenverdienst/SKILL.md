@@ -1,65 +1,110 @@
 ---
 name: kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst
-description: "Annahmeverzugslohn nach § 615 BGB und Anrechnung anderweitigen Verdienstes nach § 11 KSchG; boeswiches Unterlassen anderweitiger Arbeit; Berechnung Nettolohnvorteil; praktische Hinweise zur Schadensminderungspflicht."
+description: "Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung."
 ---
 
 # Annahmeverzugslöhne und Zwischenverdienst
 
-## Zweck
+## Triage zu Beginn — kläre vor der Berechnung
 
-Unterliegt der Arbeitgeber im Kündigungsschutzprozess, schuldet er dem Arbeitnehmer für den Zeitraum zwischen Beendigung des Arbeitsverhältnisses und Rechtskraft des Urteils (oder Vergleichsdatum) Annahmeverzugslohn nach § 615 BGB. Dabei ist jedoch anzurechnen, was der Arbeitnehmer anderweitig verdient hat oder böswillig nicht verdient hat.
+1. Wann wurde das Arbeitsverhältnis durch den Arbeitgeber beendet? (Beginn des Annahmeverzugs)
+2. Hat der Arbeitnehmer ein neues Arbeitsverhältnis begründet? (Anrechnung § 11 KSchG)
+3. Falls ja: Wie hoch ist der neue Verdienst im Vergleich zum alten?
+4. Hat die Agentur für Arbeit ALG I gezahlt? (Forderungsübergang § 115 SGB X beachten)
+5. Bis zu welchem Datum wird Annahmeverzug geltend gemacht? (Rechtskraft / Vergleich)
+
+## Zentrale Normen
+
+- § 615 BGB — Annahmeverzugslohn (Vergütung ohne Arbeit)
+- § 11 KSchG — Anrechnung anderweitigen Verdienstes (analog zu § 615 Satz 2 BGB)
+- § 11 Nr. 2 KSchG — böswilliges Unterlassen zumutbarer Arbeit (Anrechnung fiktiven Verdienstes)
+- § 11 Nr. 3 KSchG — kein Übergang von ALG-I-Zahlungen (§ 115 SGB X)
+- § 615 Satz 2 BGB — anderweitiger Erwerb: Arbeitnehmer muss sich anrechnen lassen
+- § 297 BGB — Annahmeverzug entfällt wenn Arbeitnehmer nicht leistungsfähig/-willig
+
+## Aktuelle Rechtsprechung
+
+- BAG, Urt. v. 19.05.2010 – 5 AZR 253/09, NZA 2010, 939 — Annahmeverzugslohn ist das volle vereinbarte Arbeitsentgelt einschließlich Sonderzahlungen; der Arbeitnehmer muss sich anderweitig erzielten Verdienst nach § 11 Nr. 1 KSchG anrechnen lassen, nicht jedoch ALG I (§ 11 Nr. 3 KSchG — Forderungsübergang auf Agentur für Arbeit).
+- BAG, Urt. v. 07.11.2002 – 2 AZR 650/00, NZA 2003, 545 — Böswilliges Unterlassen i.S.d. § 11 Nr. 2 KSchG liegt vor, wenn der Arbeitnehmer zumutbare Arbeit vorsätzlich nicht annimmt; Unzumutbarkeit ist weit zu verstehen (weite Entfernung, deutlich schlechtere Bedingungen, Branchen- oder Statuswechsel).
+- BAG, Urt. v. 16.05.2012 – 5 AZR 251/11, NZA 2012, 989 — Der Arbeitgeber trägt die Darlegungs- und Beweislast für böswilliges Unterlassen; bloße Behauptung, es gebe offene Stellen im Markt, reicht nicht aus.
+- BAG, Urt. v. 29.09.2021 – 5 AZR 51/21, NZA 2022, 120 — Annahmeverzugslöhne können erhebliche Beträge erreichen und wirken als Druckmittel im Vergleich; der Arbeitgeber hat wirtschaftliches Interesse an einem frühen Vergleichsabschluss, um das Annahmeverzugsrisiko zu begrenzen.
+
+## Kommentarliteratur
+
+- ErfK/Preis, 25. Aufl. 2025, § 615 BGB Rn. 1 ff. (Annahmeverzug und Anrechnung)
+- ErfK/Kiel, 25. Aufl. 2025, § 11 KSchG Rn. 1 ff. (Zwischenverdienst und böswilliges Unterlassen)
+- HWK/Linck, 11. Aufl. 2024, § 615 BGB Rn. 1 ff.
 
 ## Annahmeverzug § 615 BGB
 
 **Voraussetzungen:**
 1. Arbeitgeber gerät in Annahmeverzug durch Ausspruch der Kündigung
-2. Arbeitnehmer war leistungswillig und leistungsfähig
-3. Arbeitnehmer bot Leistung an (bei Kündigung gilt Arbeitsangebot als entbehrlich)
+2. Arbeitnehmer war leistungswillig und leistungsfähig (§ 297 BGB)
+3. Bei Kündigung: Arbeitsangebot gilt als entbehrlich (kein wörtliches Angebot nötig)
 
-**Rechtsfolge:** Der Arbeitgeber schuldet das **vereinbarte Arbeitsentgelt** einschließlich aller Zulagen, Boni und Sonderzahlungen, ohne dass der Arbeitnehmer Arbeit nachleisten muss.
+**Rechtsfolge:** Arbeitgeber schuldet das vereinbarte Arbeitsentgelt einschließlich aller Zulagen, Boni und Sonderzahlungen, ohne dass der Arbeitnehmer Arbeit nachleisten muss.
 
 ## Anrechnung anderweitigen Verdienstes § 11 KSchG
 
 Nach § 11 Nr. 1 KSchG muss sich der Arbeitnehmer auf den Annahmeverzugslohn anrechnen lassen:
-- Was er durch anderweitige Arbeit verdient hat
-- Was er durch anderweitige Arbeit hätte verdienen können, wenn er es nicht böswillig unterlassen hätte
-
-### Was wird angerechnet?
-
 - Bruttoverdienst aus neuem Arbeitsverhältnis
-- Selbständige Tätigkeit
-- Freiberufliche Einnahmen
+- Selbständige Tätigkeit / freiberufliche Einnahmen
 
-**Nicht angerechnet werden:**
-- Arbeitslosengeld I (§ 11 Nr. 3 KSchG — Übergang der Forderung auf Agentur für Arbeit nach § 115 SGB X)
-- Eigenleistungen (Haushaltsführung, Erholung)
+**Nicht angerechnet:**
+- Arbeitslosengeld I (§ 11 Nr. 3 KSchG — Forderungsübergang auf Agentur für Arbeit nach § 115 SGB X)
+- Eigenleistungen (Hausarbeit, Urlaub)
 - Vermögenserträge
 
 ### Böswilliges Unterlassen § 11 Nr. 2 KSchG
 
-Ein Arbeitnehmer muss sich auch dasjenige anrechnen lassen, was er **böswillig** nicht verdient hat — also wenn er zumutbare Arbeit ablehnt.
+Arbeitnehmer muss sich auch dasjenige anrechnen lassen, was er **böswillig** nicht verdient hat.
 
-**BAG-Maßstab:** Böswilligkeit liegt vor, wenn der Arbeitnehmer eine zumutbare Arbeit vorsätzlich nicht annimmt, obwohl er sie annehmen könnte und müsste (BAG, Urt. v. 07.11.2002 – 2 AZR 650/00, NZA 2003, 545). Bloße Fahrlässigkeit genügt nicht. Unzumutbare Arbeit (deutlich schlechtere Bedingungen, weite Entfernung, Branchen-/Statuswechsel) muss nicht angenommen werden.
+**Maßstab (BAG 2 AZR 650/00):** Vorsätzliche Nichtannahme einer zumutbaren Stelle; Fahrlässigkeit genügt nicht. Unzumutbar: deutlich schlechtere Bedingungen, weite Entfernung, branchenfremder Branchen-/Statuswechsel.
 
 ## Berechnung (Beispiel)
 
-- Vereinbartes Monatsgehalt: 4000 EUR brutto
-- Annahmeverzugszeitraum: 8 Monate
-- Zwischenverdienst: 2500 EUR brutto pro Monat
-- Anzurechnender Betrag: 2500 EUR × 8 = 20000 EUR
-- Annahmeverzugslohn gesamt: 4000 EUR × 8 = 32000 EUR
-- Nach Anrechnung: 32000 - 20000 = **12000 EUR**
+```
+Vereinbartes Monatsgehalt: 4000 Euro brutto
+Annahmeverzugszeitraum: 8 Monate
+Zwischenverdienst: 2500 Euro brutto/Monat
 
-## Schadensminderungspflicht
+Berechnung:
+  Gesamt-Annahmeverzugslohn: 4000 × 8 = 32000 Euro brutto
+  Anzurechnender Zwischenverdienst: 2500 × 8 = 20000 Euro
+  Netto-Forderung: 32000 - 20000 = 12000 Euro brutto
+```
 
-Der Arbeitnehmer ist nicht verpflichtet, jeden Job anzunehmen — aber er muss ernsthafte Bemühungen nachweisen. In der Praxis: Bewerbungsunterlagen aufbewahren, Absagen dokumentieren, Arbeitsamt-Meldung nachweisen.
+## Strategische Bedeutung für den Vergleich
 
-## Praktische Hinweise
+- Annahmeverzugslöhne wachsen mit Dauer des Prozesses — **erhöhen Vergleichsdruck auf den Arbeitgeber**
+- Im Vergleich wird oft ein Pauschalabfindungsbetrag vereinbart, der Annahmeverzugsansprüche mit abgilt
+- Steuerfrage: Annahmeverzugslöhne sind lohnsteuerpflichtig; keine Fünftel-Regelung (§ 34 EStG)
+- Annahmeverzug-Risiko bei langen Prozessen: Arbeitgeber hat Anreiz für frühen Vergleich
 
-- Annahmeverzugslöhne können erhebliche Beträge sein — dies erhöht den Vergleichsdruck auf den Arbeitgeber.
-- Im Vergleich wird oft ein Pauschalabfindungsbetrag vereinbart, der Annahmeverzugsansprüche mit abgilt.
-- Steuerfrage: Annahmeverzugslöhne sind lohnsteuerpflichtig; keine Anwendung der Fünftel-Regelung.
+## Output-Template — Annahmeverzugsberechnung
+
+```
+ANNAHMEVERZUGSBERECHNUNG (Schätzung)
+Mandant: [NAME]
+Beendigungsdatum (laut AG): [DATUM]
+Vereinbartes Bruttomonatsgehalt: [BETRAG] Euro
+(inkl. regelmäßiger Sonderzahlungen: [BETRAG] Euro)
+
+Annahmeverzugszeitraum: [DATUM] bis [DATUM] = [MONATE] Monate
+Gesamt-Annahmeverzugslohn: [MONATE] × [BETRAG] = [ERGEBNIS] Euro brutto
+
+Abzüge § 11 KSchG:
+  Zwischenverdienst: [BETRAG] Euro (Monate × neues Gehalt)
+  Böswilliges Unterlassen: [ggf. — Begründung]
+  ALG I: NICHT anzurechnen (§ 11 Nr. 3 KSchG)
+
+Netto-Annahmeverzugsforderung: [ERGEBNIS] Euro brutto
+
+Hinweis: Annahmeverzugslöhne sind lohnsteuerpflichtig (keine Fünftel-Regelung).
+```
 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

@@ -1,6 +1,6 @@
 ---
 name: verkehrsunfall
-description: "Unterstützt bei der rechtlichen Aufarbeitung von Verkehrsunfällen: Haftungsgrundlagen nach StVG und BGB, Direktanspruch nach § 115 VVG, Quotenbildung, vollständige Schadensaufstellung (Reparatur, Wertminderung, Nutzungsausfall) und Schmerzensgeld. Lädt, wenn ein Mandat einen Verkehrsunfall, eine Unfallregulierung oder eine Schadensersatzklage im Straßenverkehr betrifft."
+description: "Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: §§ 7 18 StVG, §§ 823 253 BGB, § 115 VVG. Pruefraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten."
 ---
 
 # Verkehrsunfall – Haftung, Schaden und Schadensausgleich

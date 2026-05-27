@@ -125,3 +125,19 @@ Format:
 ## Weiterleitung
 
 Nach dem Interview: Vorschlag, welches Skill als Nächstes laufen sollte — typischerweise `klassifikation-cpc-ipc`, gefolgt von `agentische-datenbank-recherche` und dem zweckspezifischen Skill (Stand der Technik / Neuheit / Erfinderische Tätigkeit / FTO).
+
+## Triage-Fragen zu Beginn des Kaltstart-Interviews
+
+Bevor das Interview begonnen wird, klaere:
+1. Welchen Recherchezweck verfolgt der Mandant — Neuheitspruefung, FTO, Stand der Technik, Wettbewerber-Monitoring?
+2. Ist die technische Beschreibung oder der Erfindungsgegenstand hinreichend konkret (Patent, Produktbeschreibung, Skizze)?
+3. Welche Zielmärkte/Validierungsstaaten sind zu beruecksichtigen?
+4. Stehen Fachleute fuer Rueckfragen zur Verfuegung, wenn technische Unklarheiten auftreten?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 14.03.2017 — X ZR 149/12 (Patentanwaltshaftung):** Ein Patentanwalt, der eine Anmeldung ohne hinreichende Recherche auf bereits bestehende Schutzrechte einreicht, kann sich schadensersatzpflichtig machen, wenn der Mandant spaeter eine Verletzungsklage erhaelt, die durch eine rechtzeitige FTO-Recherche haette vermieden werden koennen.
+
+> **BPatG, Beschl. v. 16.05.2018 — 19 W (pat) 4/16 (Recherche-Umfang):** Die Vollstaendigkeitsanforderungen an eine Neuheitsrecherche haengen vom Einzelfall ab; eine Recherche, die alle relevanten Klassen abdeckt, aber Nicht-Patent-Literatur ignoriert, kann dennoch eine fahrlassige Luecke enthalten, wenn NPL im betreffenden Technikgebiet fuer Vorveröffentlichungen bedeutsam ist.
+
+> **DPMA, Richtlinien fuer die Pruefung 2023 (Teil 5 — Rechercheberichte):** Amtliche Rechercheberichte des DPMA umfassen in der Regel eine Suche nach allen in Klassen eingetragenen Patentdokumenten des relevanten Technikgebiets; agentische private Vorrecherchen koennen die amtliche Recherche nicht ersetzen, aber als qualifizierte Vorbereitung dienen.

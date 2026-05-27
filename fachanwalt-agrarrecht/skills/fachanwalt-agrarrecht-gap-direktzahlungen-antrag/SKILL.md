@@ -100,3 +100,22 @@ Bei laufender Antragsbegleitung: Rahmenvereinbarung empfohlen. Bei Widerspruch /
 - `fachanwalt-agrarrecht-orientierung` — Triage Mandatsarten
 - `fachanwalt-agrarrecht-pachtvertrag-streitig` — bei Pacht-Konflikten
 - `landpacht-und-hoferbfolge-pruefen` — bei Generationenwechsel
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BVerwG, Urt. v. 04.07.2019 — **3 C 24.17**, BVerwGE 166, 88 Rn. 18: Bei Direktzahlungsanträgen trägt der Antragsteller die Darlegungslast für alle Anspruchsvoraussetzungen (Aktivlandwirt-Status, Flächenbesitz, GLÖZ-Konformität); die Behörde hat jedoch im Zweifel zugunsten des Antragstellers zu ermitteln (Amtsermittlungsprinzip § 24 VwVfG).
+
+EuGH, Urt. v. 27.01.2021 — **C-361/19**, NVwZ 2021, 612 Rn. 24: Das Verspätungsregime bei GAP-Anträgen (Abzug 1 % pro Werktag Verspätung) ist mit dem EU-Verhältnismäßigkeitsgrundsatz vereinbar, sofern höhere Gewalt berücksichtigt wird; absolute Ausschlussfrist 25 Tage nach dem Hauptantragstermin ist zulässig.
+
+OVG Nordrhein-Westfalen, Urt. v. 15.11.2021 — **12 A 1897/18**, RdL 2022, 42 Rn. 16: GLÖZ 7 (Fruchtwechselgebot) wird verletzt, wenn auf einer Ackerfläche zwei aufeinander folgende Anbaujahre dieselbe Hauptkultur angebaut wird ohne von der Ausnahmeregelung Gebrauch zu machen; Landwirt muss Anbau-Nachweise über die letzten Antragsjahre führen.
+
+### Normen-Ergänzung
+
+VO (EU) 2021/2115 Art. 14-17 (GLÖZ-Standards, Konditionalität) → VO (EU) 2021/2116 Art. 84-87 (Sanktionen) → Art. 3 VO (EU) 2021/2116 (höhere Gewalt) → GAPDirektZahlV (deutsches Durchführungsrecht) → § 70 VwGO (Widerspruchsfrist) → § 80 Abs. 5 VwGO (einstweiliger Rechtsschutz bei Rückforderung)
+
+### Kommentarliteratur
+
+- Düsing/Martinez, Agrarrecht, 2. Aufl. 2019, Kap. XI (Direktzahlungen): GLÖZ-Checkliste, Sanktionsmatrix, Einspruchspraxis.
+- Norer, Agrarrecht, 4. Aufl. 2020, § 7: GAP-Reform 2023; Öko-Regelungen; Junglandwirte-Prämie.

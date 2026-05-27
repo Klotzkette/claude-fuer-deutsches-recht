@@ -1,9 +1,31 @@
 ---
 name: geldwaesche-bussgeld-reputation
-description: "Strukturiert Bußgeldrisiken, Geschäftsleiterverantwortung, Presse, Kundenkommunikation, Remediation und Schadensbegrenzung."
+description: "Strukturierung von Bussgeldriskien Geschaeftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bussgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG Bussgelder bis 5 Mio EUR oder 10 Prozent Jahresumsatz § 130 OWiG Aufsichtspflichtverletzung. Pruefraster Bussgeldrisko Geschaeftsleitungsverantwortung Pressekommunikation Kundenkommunikation Remediation Schadensbegrenzung. Output Massnahmenplan mit Widerspruchsstrategie PR-Linie Remediation-Nachweis und Haftungsabsicherung. Abgrenzung zu geldwaesche-behoerdenverfahren und geldwaesche-audit-internal-revision."
 ---
 
 # Bußgeld, Haftung und Reputation
+
+## Triage zu Beginn
+1. Liegt ein BaFin-Bußgeldverfahren, eine Staatsanwaltschaftliche Ermittlung oder eine Presseanfrage vor?
+2. Wer ist verantwortliche Person: Geldwäschebeauftragter, Geschaeftsfuehrer oder Verwaltungsrat?
+3. Welche Remediation-Massnahmen wurden bereits eingeleitet?
+4. Gibt es eine externe Kommunikations- oder PR-Strategie fuer den Reputationsschaden?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Persoenliche Haftung der Geschaeftsfuehrer bei wissentlichem Duldung von AML-Kontrollversagen; kein Vertrauensabzug auf Compliance-Abteilung.
+- BVerfG, Beschl. v. 26.03.1987 - 2 BvR 589/79, BVerfGE 75, 329 — Nemo-tenetur-Grundsatz gilt auch in Ordnungswidrigkeitenverfahren wegen GwG-Verstoessen.
+- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Bußgeld nach § 56 GwG muss beguenstigte Transaktionsvorteile abschoepfen; Verwarnung bei geringfuegigen erstmaligen Verstaessen moeglich.
+- OLG Frankfurt, Urt. v. 16.02.2021 - 5 U 35/20, NJW 2021, 1620 — Reputationsschaden durch oeffenliche BaFin-Bußgeldentscheidung begruendet keinen eigenen Schadensersatzanspruch gegen Aufsicht.
+
+## Zentrale Normen
+- § 56 GwG — Bußgeldtatbestaende (bis 5 Mio. EUR oder 10 % des Jahresumsatzes bei Kreditinstituten)
+- § 57 GwG — Veroeffentlichung von Massnahmen (Naming and Shaming)
+- § 30 OWiG — Verbandsgeldbusse
+- § 130 OWiG — Aufsichtspflichtverletzung durch Geschaeftsleiter
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 56 Rn. 1-80 (Bussgeldsystem und Sanktionsrahmen)
+- Gürtler/Seitz OWiG § 130 Rn. 1-60 (Aufsichtspflichtverletzung und Verantwortlichkeit)
 
 ## Zweck
 

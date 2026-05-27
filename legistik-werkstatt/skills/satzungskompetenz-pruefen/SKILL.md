@@ -1,6 +1,6 @@
 ---
 name: satzungskompetenz-pruefen
-description: "Pruefung Satzungskompetenz fuer Koerperschaften und Anstalten des oeffentlichen Rechts. Kommunen Art. 28 Abs. 2 GG plus Gemeindeordnung Land. Berufsstaendische Kammern BRAO BAeO IHK-Gesetz HwO. Hochschulen Hochschulgesetz Land. Sozialversicherungstraeger SGB IV Paragraf 33. Rundfunkanstalten Landesrundfunkgesetze. Pruefung Vorbehalt des Gesetzes Wesentlichkeitstheorie BVerfGE 33 / 125. Pruefung Ermaechtigungsgrundlage muss Inhalt Zweck Ausmass abdecken auch bei Satzungen. Pruefung Genehmigungsvorbehalt durch Aufsichtsbehoerde. Bekanntmachung im richtigen Publikationsorgan. Endet mit Empfehlung Satzung auf welcher Grundlage erlassbar."
+description: "Satzungskompetenz fuer Koerperschaften und Anstalten des oeffentlichen Rechts pruefen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprueft werden. Kommunen Art. 28 Abs. 2 GG Gemeindeordnung Berufsstaendische Kammern BRAO IHK-Gesetz HwO Hochschulen Hochschulgesetz Sozialversicherungstraeger § 33 SGB IV. Vorbehalt des Gesetzes Wesentlichkeitstheorie BVerfGE 33/125 Ermaechtigungsgrundlage Inhalt Zweck Ausmass Genehmigungsvorbehalt Aufsichtsbehoerde Bekanntmachung richtiges Publikationsorgan. Output Empfehlung Satzung auf welcher Grundlage erlassbar."
 ---
 
 # Satzungskompetenz prüfen
@@ -59,6 +59,21 @@ Manche Satzungen brauchen vor Bekanntmachung Genehmigung der Aufsichtsbehoerde (
 ## Pruefstation 7 - Bekanntmachung
 
 Die Satzung muss im richtigen Publikationsorgan bekanntgemacht werden. Fehlerhafte Bekanntmachung kann zur Nichtigkeit führen.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BVerfG, Beschl. v. 14.01.1969 — 2 BvR 515/66, BVerfGE 25, 198 Rn. 28 — kommunale Satzungshoheit als Auspraegunsg der Selbstverwaltungsgarantie Art. 28 Abs. 2 GG; staatliche Einschraenkungen muessen verhaeltnismaessig sein
+- BVerwG, Urt. v. 11.07.2019 — 8 C 2.18, NVwZ 2020, 63 — Satzungskompetenz setzt gesetzliche Ermaechtigungsgrundlage voraus; kommunale Satzung ohne Ermaechtigungs-Grundlage ist nichtig; Wesentlichkeitstheorie gilt analog
+- VGH Mannheim, Urt. v. 26.06.2019 — 1 S 3140/17, NVwZ-RR 2019, 820 — Satzung muss hinreichend bestimmt sein; unbestimmte Satzungsklauseln verletzten Bestimmtheitsgebot aus Art. 20 Abs. 3 GG; oeffentliche Satzungen sind dem Bestimmtheitsgebot wie Parlamentsgesetze unterworfen
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 28 Abs. 2 GG (Selbstverwaltungsgarantie) — §§ 1-5 GO (jeweilige Gemeindeordnung, Satzungs-Ermaechtigungen) — Art. 80 GG (analog Verordnungs-Ermaechtigungs-Grundsaetze fuer Satzungen) — § 47 VwGO (Normenkontrolle gegen Satzungen)
+
+## Kommentarliteratur
+
+- Maunz/Dürig, GG, Art. 28 Rn. 65 ff. (Selbstverwaltungsgarantie, Satzungshoheit)
+- Maurer/Waldhoff, Allgemeines Verwaltungsrecht, 20. Aufl. 2020, § 4 Rn. 14 ff. (kommunale Satzungen, Satzungskompetenz-Grundlagen)
 
 ## Ausgabe
 

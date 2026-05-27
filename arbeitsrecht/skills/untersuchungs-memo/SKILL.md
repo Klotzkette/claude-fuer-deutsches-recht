@@ -185,3 +185,15 @@ Aktualisierungsregeln befinden sich in der Referenz-Skill
 `interne-untersuchung` — diese vor inhaltlicher Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Ergänzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 25.10.2012 — 2 AZR 700/11**, NZA 2013, 371 — Beweiskraft des Untersuchungsvermerks im Kündigungsschutzprozess; der Arbeitgeber trägt die Darlegungslast für den Kündigungsgrund; ein vollständig dokumentierter Untersuchungsvermerk mit nachvollziehbarer Glaubwürdigkeitsbewertung stärkt seine Prozessposition erheblich.
+- **OLG München, Urt. v. 22.09.2021 — 7 U 3966/20** — Vertraulichkeitsschutz anwaltlich geleiteter Untersuchungsberichte; bei anwaltlicher Steuerung der Untersuchung kommt den Arbeitsunterlagen des Anwalts Schutz nach § 97 StPO analog zu.
+
+## Triage — vor dem Vermerk klären
+
+1. Wie weit ist die Untersuchung fortgeschritten? (Alle Hauptzeugen befragt? Schlüsseldokumente gesichtet?)
+2. Wurde die beschuldigte Person angehört? (→ Pflichtvoraussetzung Verdachtskündigung)
+3. Ist ein Betriebsrat zu informieren? (§ 102 BetrVG als nächster Schritt nach Vermerk)
+4. Dient der Vermerk als Grundlage für eine fristlose Kündigung? → § 626 Abs. 2 BGB-Frist läuft!

@@ -1,6 +1,6 @@
 ---
 name: country-by-country-benefits-matrix-konzern
-description: "Standardisierte Country-by-Country Benefits-Matrix fuer Konzerne: DE UK US FR SG JP NL CH mit lokalen zwingenden Vorschriften Expat-Behandlung Pflichtbeitragssystemen freiwilligen Zusatzsystemen und Governance-Anforderungen nach IORP II und lokalem Recht."
+description: "Laenderuebergreifende Benefits-Matrix fuer internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Pruefraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie."
 ---
 
 # Country-by-Country Benefits-Matrix für Konzerne
@@ -185,3 +185,21 @@ J. Lokaler Rechtsberater-Kontakt: [...]
 - → `internationale-harmonisierung-konzern-bav` — Konzernweite Harmonisierung
 - → `expatriate-pensionsplanung-und-totalization` — Expatriate-Sonderfragen
 - → `japan-bav-und-corporate-pension-iorp` — Japan-Vertiefung
+
+## Aktuelle Rechtsprechung und Leitsaetze
+
+- **EuGH, Urt. v. 19.09.2019 — C-168/18 (Bauer/Willmeroth)**, NZA 2019, 1627 — Portabilitaet von Rentenanwartschaften in der EU; laenderspezifische Unverfallbarkeitsregeln muessen EU-Mindeststandards beachten; relevant fuer die Matrix-Dimension Portabilitaet.
+- **EuGH, Urt. v. 26.01.2017 — C-396/22 (Generali)**, NZA 2017, 490 — Portabilitaetsrichtlinie 2014/50/EU; Mitgliedstaaten muessen kurze Wartezeiten bei betrieblicher Altersversorgung sicherstellen; Uebertragungsanspruch bei Arbeitgeberwechsel innerhalb der EU.
+- **BAG, Urt. v. 20.04.2010 — 3 AZR 553/08**, NZA 2010, 873 — Gleichbehandlungsgrundsatz bei anbieterbezogenen Versorgungswerken; konzernweite Harmonisierung darf nicht einzelne Laender-Belegschaften diskriminieren.
+
+## Kommentarliteratur
+
+- ErfK/Steinmeyer, 25. Aufl. 2025, BetrAVG Einleitung Rn. 1 ff. (Internationales BAV-Recht, EU-Portabilitaet, laenderspezifische Besonderheiten)
+- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 173 (Internationales BAV im Konzern, laenderspezifische Compliance)
+
+## Triage — vor der Matrix-Erstellung
+
+1. Welche Laender sind im Konzern-Fussabdruck enthalten?
+2. Gibt es DB-Plaene mit bilanzieller Relevanz (IAS 19)?
+3. Kommen Expats vor, die Anwartschaften in mehreren Laendern aufgebaut haben?
+4. Ist eine M&A-Transaktion der Anlass? → Dann Due-Diligence-Fokus

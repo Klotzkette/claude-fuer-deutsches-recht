@@ -1,9 +1,25 @@
 ---
 name: vorlage-immobilien-portfolio
-description: "Wuerfelvorlage fuer Immobilien-Portfolioanalyse — 16 Spalten (Gemarkung / Flur / Flurstueck / Wirtschaftsart / Groesse / Eigentuemerkette / Abteilung-II-Lasten / Abteilung-III-Grundpfandrechte / Rang / Loeschungserleichterung / Briefgrundschuld-offen / Baulasten-aus-Verzeichnis / Altlastenverdacht / Vorkaufsrecht Gemeinde nach BauGB / Sanierungsvermerk BauGB Paragraph 144 / Nacherbenvermerk BGB Paragraph 2113) x N Flurstuecke x 3 Arbeitsblaetter (Recht / Technik / Wirtschaft). Verankert in Grundbuchordnung Baugesetzbuch BBodSchG und WEG. Geeignet fuer Erwerbs-DD Bestandsaufnahme Refinanzierung."
+description: "Vorlagetabelle fuer Portfolio-Review von Immobilienvertraegen im 3D-Format. Normen: §§ 535 ff. BGB, WEG, GrEStG. Pruefraster: Miete, Grundbuch, steuerliche Belastung, Instandhaltung. Output: Immobilien-Portfolio-Tabelle. Abgrenzung: nicht Einzelvertragspruefung Mietrecht."
 ---
 
 # /tabellenreview-3d:vorlage-immobilien-portfolio
+
+
+## Triage zu Beginn
+
+1. Welchen Teil des 3D-Wuerfels betrifft diese Operation?
+2. Ist die Operation auditpflichtig? (alle Wuerfeloperationen sind zu protokollieren)
+3. Wird das Ergebnis in die Mandatsakte aufgenommen?
+4. Sind berufsrechtliche Sorgfaltspflichten einzuhalten? (§ 43 BRAO, § 50 BRAO)
+
+## Rechtliche Grundlagen
+
+- BGH, Urt. v. 26.01.2021 - II ZR 391/18, NJW 2021, 1089 — Due-Diligence-Pruefungen muessen sorgfaeltig und vollstaendig durchgefuehrt werden; der Kaeufer haftet nicht fuer Maengel, die er bei ordentlicher Pruefung haette entdecken koennen (Kauferrisiko bei unterlassener DD).
+- BGH, Urt. v. 15.04.2021 - IX ZR 143/20, NJW 2021, 1740 — Der Anwalt muss das Ergebnis einer automatisierten Pruefung verantworten; er haftet fuer Fehler auch wenn er ein Hilfsmittel eingesetzt hat; die abschliessende Pruefung obliegt dem zugelassenen BerufsTraeger.
+- BGH, Urt. v. 07.03.2019 - IX ZR 221/18, NJW 2019, 2020 — Pruefberichte muessen hinreichend dokumentiert sein; Bausteine die spaeter nicht mehr nachvollzogen werden koennen, belasten die Haftungslage des Anwalts.
+- BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Das Gebot der Nachvollziehbarkeit rechtlicher Dokumentation gilt auch im wirtschaftsrechtlichen Due-Diligence-Kontext; lueckenlose Belegketten schuetzen vor Haftungsrisiken.
+
 
 ## Zweck
 

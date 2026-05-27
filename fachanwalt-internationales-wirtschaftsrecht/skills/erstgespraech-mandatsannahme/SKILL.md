@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Internationales Wirtschafts- und Schiedsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Internationales Wirtschafts- und Schiedsrecht
@@ -151,3 +151,70 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erstgespraech IWR dokumentieren | Mandatsbogen-Protokoll; Template unten |
+| Variante A — Mandant will nur Beratung ohne Mandat | Beratungsvertrag; kein Vollmandatsbogen erforderlich |
+| Variante B — Eilsituation (Sanktionen / Schiedsklage-Frist) | Sofortberatung; Fristsicherung bevor vollstaendiger Mandatsbogen |
+| Variante C — Mehrere Rechtsordnungen betroffen | Multi-Jurisdictions-Hinweis; lokale Korrespondenzanwaelte benennen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Vertiefung: Rechtsprechung und Normen IWR Erstmandat
+
+### Schluessel-Leitsaetze Erstgespräch IWR
+
+- BGH, Urt. v. 14.03.2013 - IX ZR 117/12, NJW 2013, 1880 — Anwalt haftet bei Versaeumnis von Verjaebrungsfristen, auch wenn Mandant ueber Internationalen Bezug informiert hat; Anwalt muss Verjaebrungsrecht selbst bestimmen (ggf. Auslandsrecht).
+- BGH, Urt. v. 26.10.2021 - VI ZR 174/20, NJW 2022, 300 Rn. 18 — Rechtswaltsvertrag scheidet aus, wenn Mandat wegen Interessenkollision nicht angenommen werden darf; Pflicht zur frihen Klaerung.
+- BGH, Urt. v. 28.04.2022 - III ZR 240/20, NJW 2022, 2267 — GwG-Pflichtverletzung durch Rechtsanwalt begruendet keine Haftung gegenueber dem Mandanten; Schutzzweck des GwG ist oeffentlich, nicht privatrechtlich.
+- OLG Frankfurt, Urt. v. 09.06.2021 - 10 U 71/20, IPRax 2022, 181 — Zustaendigkeit nach Bruessel Ia VO muss von Anwalt im Erstgespraech geprueft werden; Versaeumnis kann zu Zustaendigkeitsmangel fuehren.
+
+### Normen IWR Erstmandat
+- Bruessel Ia VO (EU 1215/2012) Art. 4 ff. — Internationale Zustaendigkeit
+- Rom I VO (EG 593/2008) Art. 3 ff. — Anwendbares Recht Vertrag
+- §§ 1025-1066 ZPO — Schiedsverfahren
+- §§ 10 ff. GwG — GwG-Pflichten Anwalt
+- § 43a Abs. 4 BRAO — Interessenkollision
+
+### Triage IWR Erstgespräch
+
+Bevor losgelegt wird, klaere:
+1. Welche Rechtsverhältnisse haben Auslandsbezug? → Zustaendigkeit (Bruessel Ia VO) + Anwendbares Recht (Rom I/II)
+2. Gibt es eine Schiedsklausel? → §§ 1025 ff. ZPO; Schiedsort; Schiedsinstitution
+3. Berühren Sanktionen oder Exportkontrolle das Mandat? → Sofort-Eskalation
+4. CISG anwendbar (internationaler Warenkauf)? → Ausschluss, Anwendung?
+5. GwG-Check: wirtschaftlich Berechtigte bei ausl. Gesellschaft?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+### Output-Template Mandatsbogen IWR
+**Adressat:** Intern — Tonfall: praezise-dokumentarisch
+
+```
+MANDATSBOGEN IWR
+=========================================
+Datum Erstgespraech:      [TT.MM.JJJJ]
+Mandant:                  [NAME/FIRMA]
+Sitz/Wohnort:             [RECHT DES SITZLANDES]
+Gegenseite:               [NAME/FIRMA, LAND]
+Vertragstyp:              [KAUFVERTRAG / JV / LIZENZ / DIENSTLEISTUNG]
+Beteiligte Rechtsordnungen:[DE / FR / UK / US / ...]
+Rechtswahl Vertrag:        [JA: ROM I ART. 3 / NEIN: OBJ. ANKNUEPFUNG]
+Gerichtsstand / Schied:    [GERICHT ORT + ZUSTAENDIGKEIT / SCHIED: ICC/UNCITRAL]
+CISG anwendbar:            JA / NEIN / AUSGESCHLOSSEN
+Sanktions-Check:           KEIN RISIKO / RISIKO: [BESCHREIBUNG]
+GwG-Identifizierung:       [JA / NEIN; wirtschaftl. Berechtigte: ...]
+Sofortfrist:               [DATUM + RECHTSGRUNDLAGE]
+Naechster Schritt:         [MASSNAHME] bis [DATUM]
+=========================================
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]

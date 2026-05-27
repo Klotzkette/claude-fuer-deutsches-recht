@@ -1,6 +1,6 @@
 ---
 name: schwerpunktthemen-identifikation
-description: "Identifiziert drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten aus Schriftsaetzen und ohne Erfolgsprognose. Jeder Streitpunkt wird mit Relevanz fuer den Verfahrensausgang und einschlaegiger Rechtsprechung (soweit in Akte enthalten) dargestellt."
+description: "Anwalt braucht schnellen Ueberblick ueber drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Pruefraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Ueberblick) und rechtsargumente-gegenueberstellung (alle Argumente)."
 ---
 
 # Schwerpunktthemen-Identifikation
@@ -8,6 +8,33 @@ description: "Identifiziert drei bis fuenf rechtliche Hauptstreitpunkte des Verf
 ## Zweck
 
 Dieser Skill identifiziert die drei bis fünf zentralen Rechtsfragen, auf denen das Verfahren schwerpunktmäßig beruht. Er hilft dem Anwalt, die Prioritäten für die weitere Bearbeitung zu setzen, ohne eine Einschätzung des Ausgangs zu treffen.
+
+## Triage — kläre vor Identifikation
+
+1. Hat das Gericht bereits Hinweise nach § 139 ZPO erteilt, auf welche Punkte es ankommt?
+2. Liegt ein Beweisbeschluss vor (§ 359 ZPO)? Beweisthemen sind automatisch Schwerpunkte.
+3. Sind in der Akte BGH- oder OLG-Urteile von den Parteien zitiert? (Hinweis auf rechtlich umstrittene Punkte)
+4. Welche Punkte sind in mehreren Schriftsätzen (Klageerwiderung, Replik, Duplik) ausführlich diskutiert?
+
+## Zentrale Normen
+
+- § 139 ZPO — Richterliche Hinweispflicht; Hinweise des Gerichts benennen die Schwerpunkte
+- § 286 ZPO — Freie Beweiswürdigung; entscheidungserhebliche Tatsachen sind Schwerpunkte
+- § 359 ZPO — Beweisbeschluss; benennt beweisbedürftige Tatsachen
+- § 522 Abs. 2 ZPO — Berufungsverwerfung; Schwerpunkt in der Berufung ist Erfolgsaussicht
+
+## Rechtsprechung zu Schwerpunktthemen im Zivilprozess
+
+- BGH, Urt. v. 12.05.2016 - VII ZR 171/15, NJW-RR 2016, 853 — Zum richterlichen Hinweis nach § 139 ZPO: Gericht muss auf Punkte hinweisen, die eine Partei erkennbar übersehen hat; Verstoß begründet Verfahrensfehler.
+- BGH, Urt. v. 19.11.2019 - VI ZR 141/18, NJW 2020, 545 — Entscheidungserheblichkeit einer Rechtsfrage als Voraussetzung für die Revisionszulassung (§ 543 Abs. 2 ZPO); nur grundsätzliche Rechtsfragen berechtigen zur Revision.
+- BGH, Urt. v. 08.01.2019 - XI ZR 535/17, NJW 2019, 1296 — Zur Darlegungs- und Beweislastverteilung als zentralem Schwerpunktthema: die Partei, die sich auf einen anspruchsbegründenden Umstand beruft, trägt die Beweislast.
+- BGH, Beschl. v. 26.06.2018 - VIII ZR 289/17, NJW-RR 2018, 966 — Erfordernis des Hinweises vor Klageabweisung; fehlender Hinweis kann Gehörsverletzung nach Art. 103 Abs. 1 GG begründen.
+
+## Kommentarliteratur
+
+- Zöller/Greger ZPO, § 139 Rn. 1 ff. (Materielle Prozessleitung, Hinweispflicht)
+- MüKo ZPO/Becker-Eberhard § 286 Rn. 1 ff. (Entscheidungserheblichkeit und Beweislast)
+- Thomas/Putzo ZPO, § 359 Rn. 1 ff. (Beweisbeschluss)
 
 ## Kriterien für ein Schwerpunktthema
 

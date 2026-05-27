@@ -1,176 +1,251 @@
 ---
 name: stb-liquiditaetsvorschau-3-6-12-monate
-description: "Erstellt für eine GmbH/UG aus unstrukturierten Eingaben (Rechnungen, Bankauszüge, BWA, SuSa, Zahlungserwartungen, Daueraufträge) eine robuste rollierende Liquiditätsvorschau mit Wochenraster über 3 und 6 und 12 Monate. Prüft fortlaufend, ob Zahlungsunfähigkeit nach § 17 InsO (10-%-Lücke / 3-Wochen-Horizont) droht oder bereits eingetreten ist, und liefert eine insolvenzrechtliche Fortführungsprognose unter Beachtung der Abgrenzung zwischen handelsbilanzieller und insolvenzrechtlicher Überschuldung (§ 19 InsO). Methodik nach IDW S 6 (Sanierungskonzept) und IDW S 11 (Insolvenzeröffnungsgründe). Exportiert die Tabelle nach Excel."
+description: "Rollierende Liquiditaetsvorschau 3-6-12 Monate fuer GmbH oder UG erstellen mit insolvenzrechtlicher Fortbestehensprognose. Anwendungsfall Steuerberater begleitet Krisenmandat und benoetigt strukturierte Zahlungsplanung fuer Insolvenzreife-Pruefung. Methodisch nach IDW S 6 Sanierungskonzept und IDW S 11 Insolvenzoeffnungsgruende. Wochenraster Pruefung Zahlungsunfaehigkeit § 17 InsO 10-Prozent-Luecke drei Wochen Ueberschuldung § 19 InsO. Output rollierende Tabelle Ampel-Bewertung Excel-Export. Abgrenzung zu stb-liquiditaetsvorschau-3wochen Kurzfristversion."
 ---
 
 # Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)
 
-## Powerplugin-Hinweis
+## Kernsachverhalt
 
-**Die vollständige, fachlich autarke Version dieses Skills lebt im Plugin Liquiditätsplanung (`liquiditaetsplanung`)** (Power-Plugin Liquiditätsvorschau) — mit BGH-Schema Passiva II (BGHZ 217, 129), Volumeneffekt der Quote, Bugwellenrspr. (BGH II ZR 112/21), 10-%-Schwelle (BGH IX ZR 48/21), titulierten Forderungen mit Nennwert (BGH IX ZR 229/22), objektiver Beurteilung (BGH II ZR 139/23), Excel-Vorlage, optionalem HTML-Padlet oder Markdown-Artefakt, Banking-Wahl und Memo-nur-auf-Anfrage. Wenn `liquiditaetsplanung` installiert ist, dorthin übergeben.
+Krisenhafte GmbH/UG-Mandanten benötigen eine strukturierte, wöchentlich rollierte Liquiditätsvorschau als Grundlage für die insolvenzrechtliche Prüfung nach § 17 InsO und für die Fortführungsprognose nach § 19 InsO. Der Skill erzeugt diese Planung aus dem typischen unstrukturierten Steuerberater-Material (BWA, SuSa, offene Posten, Kontoauszüge) und generiert automatisch eine insolvenzrechtliche Ampel pro Woche.
 
-Wenn nicht installiert, hier nach dem Steuerberater-spezifischen Schema arbeiten und am Ende die Hinweispflicht nach § 102 StaRUG dokumentieren.
+## Kaltstart-Rückfragen
 
-## Zweck
-
-Dieser Skill erzeugt aus dem typischerweise vorhandenen, oft unstrukturierten Material einer kleinen Kapitalgesellschaft (offene Rechnungen, Bankauszüge, BWA, SuSa, Zahlungserwartungen, Kreditverträge, Daueraufträge, Sozialversicherungs- und Steuerbescheide) eine **rollierende Liquiditätsvorschau** mit folgenden Funktionen:
-
-1. **Wochenraster (Mo–So)** über drei Horizonte:
-   - **Kurzfristhorizont 13 Wochen (3 Monate)** – primär für § 17 InsO (Zahlungsunfähigkeit).
-   - **Mittelfristhorizont 26 Wochen (6 Monate)** – Brücke zwischen Zahlungsfähigkeit und Fortführungsprognose.
-   - **Langfristhorizont 52 Wochen (12 Monate)** – Grundlage Fortbestehensprognose nach § 19 Abs. 2 InsO und Fortführungsprognose nach IDW S 6.
-
-2. **Automatische Insolvenzreife-Ampel** für jede Woche:
-   - **Grün**: Liquide Mittel > 110 % der in der Folgewoche fällig werdenden Verbindlichkeiten.
-   - **Gelb (Zahlungsstockung)**: Lücke < 10 % oder Lücke ≥ 10 %, aber innerhalb von 3 Wochen schließbar.
-   - **Rot (Zahlungsunfähigkeit § 17 InsO)**: Lücke ≥ 10 % und nicht innerhalb von 3 Wochen schließbar (st. Rspr. BGH BGHZ 163, 134 Rn. 12 ff.).
-
-3. **Fortführungsprognose**: 12-Monats-Auswertung mit den **Kernelementen des IDW S 6** (siehe unten), abgegrenzt von einer reinen handelsbilanziellen Überschuldungsprognose. Liefert ein Ergebnis „positive Fortführungsprognose" / „negative Fortführungsprognose" mit Begründung.
-
-4. **Excel-Export**: Die Tabelle wird über `werkzeuge/build_liquiditaetsplan.py` als `liquiditaetsplan.xlsx` exportiert. Cloud-Bedienung über interaktive Tabelle möglich; Werte mit Excel-Formeln, nicht hartcodiert.
-
-Anwendungsfälle: Krisen-GmbH/UG, Mittelstand mit Bugwellen-Liquidität, Vorbereitung Sanierungsgespräch mit Hausbank, Dokumentation Fortbestehensprognose für § 19 InsO, Vorbereitung StaRUG-Restrukturierungsverfahren, regelmäßige wöchentliche Geschäftsführer-Sitzung.
-
-## Eingaben
-
-Strukturiert oder unstrukturiert; das Modell soll robust extrahieren:
-
-- **Stammdaten Gesellschaft**: Rechtsform, Branche, Mitarbeiterzahl, Jahresumsatz, Hausbank, Stichtag.
-- **Eröffnungsbestand liquider Mittel**: Kontostände, Kasse, Tagesgeld, ungenutzte Kreditlinien (mit Laufzeit und Konditionen).
-- **Offene Verbindlichkeiten** (Kreditorenliste): Lieferant, Fälligkeitsdatum, Betrag, Mahnstufe, Stundungen.
-- **Offene Forderungen** (Debitorenliste): Kunde, Rechnungsdatum, Fälligkeit, voraussichtlicher Zahlungseingang, Ausfallrisiko.
-- **Dauerverpflichtungen**: Miete, Pacht, Leasing, Personal (Lohn, Gehalt, AG-Anteil SV), Krankenkassenbeiträge (monatliche Drittellast), Lohnsteuer, Strom/Gas, Versicherungen.
-- **Steuern**: Umsatzsteuer-Vorauszahlung/-Erstattung (mit Voranmeldungsturnus, ggf. Dauerfristverlängerung), Körperschaftsteuer-Vorauszahlung, Gewerbesteuer-Vorauszahlung, Rückstände beim Finanzamt.
-- **Kreditverträge**: Tilgung, Zins, Sondertilgung, Covenants (z.B. EK-Quote, Leverage), Avalrahmen.
-- **Geplante Investitionen/Desinvestitionen**: CapEx, Maschinenverkauf, Sale-and-Lease-back.
-- **Auftragsbestand**: zugesagte Aufträge mit Lieferzeitpunkt, voraussichtlichem Zahlungsziel, Abschlagszahlungen.
-- **Bankauszüge** der letzten 3–6 Monate (für saisonale Muster und Plausibilität).
-- **BWA und SuSa** (siehe Schwester-Skill `stb-bwa-sus-bilanz-pruefung`).
-
-Wenn Daten lückenhaft sind: Annahmen explizit dokumentieren, sensitivitätsanalysieren (Best/Base/Worst).
+1. Welche Stammdaten — Rechtsform, Branche, Mitarbeiterzahl, Jahresumsatz, Stichtag, Hausbank?
+2. Welche Liquiditätsdaten liegen vor — Kontostand, Kreditlinien (Stand und Limit), offene Forderungen-Liste?
+3. Welche offenen Verbindlichkeiten bestehen — Kreditorenliste mit Fälligkeitsdatum und Mahnstufe?
+4. Welche Dauerverpflichtungen — Miete, Lohn, SV-Beiträge (Drittellast), Lohnsteuer, Leasing, Versicherungen?
+5. Welche Steuerverbindlichkeiten — USt-Voranmeldungsturnus, Körperschaft- und Gewerbesteuer-Vorauszahlungen, Rückstände?
+6. Welcher Auftragsbestand — zugesagte Aufträge mit Zahlungserwartung, Abschläge, Zahlungsziel?
+7. Gibt es Kreditverträge mit Covenants (EK-Quote, Leverage) und wann sind diese zu messen?
+8. Liegt ein Sanierungskonzept IDW S 6 vor oder soll die Vorschau Grundlage dafür sein?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtlicher Rahmen
 
 ### Primärnormen
 
-- **§ 17 InsO – Zahlungsunfähigkeit**: Der Schuldner ist zahlungsunfähig, wenn er nicht in der Lage ist, die fälligen Zahlungspflichten zu erfüllen; in der Regel anzunehmen, wenn er seine Zahlungen eingestellt hat.
-- **§ 18 InsO – Drohende Zahlungsunfähigkeit**: Voraussichtliche Unfähigkeit zur Erfüllung im Zeitraum **24 Monate** (Prognose).
-- **§ 19 InsO – Überschuldung**: Vermögen deckt Verbindlichkeiten nicht, **es sei denn** Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich (positive Fortbestehensprognose; Prognosehorizont aktuell 12 Monate, ggf. nach SanInsKG geändert – Stichtag prüfen).
-- **§ 15a InsO – Insolvenzantragspflicht**: 3 Wochen ab Eintritt der Zahlungsunfähigkeit, 6 Wochen ab Eintritt der Überschuldung.
-- **§ 15b InsO – Zahlungsverbote nach Insolvenzreife**.
-- **§ 1 StaRUG – Krisenfrüherkennung**: Pflicht der Geschäftsleitung zur fortlaufenden Krisenüberwachung.
+**§ 17 InsO** — Zahlungsunfähigkeit: Liquiditätslücke ≥ 10 %, nicht beseitigbar binnen 3 Wochen (BGH BGHZ 163, 134 Rn. 12 ff.).
+
+**§ 18 InsO** — Drohende Zahlungsunfähigkeit: voraussichtliche Unfähigkeit im 24-Monats-Horizont; Grundlage Eigenantragsoption.
+
+**§ 19 InsO** — Überschuldung: Fortbestehensprognose primär; bei negativer Prognose Liquidationswerte-Status. Prognosezeitraum nach SanInsKG 24 Monate (für Anträge bis 31.12.2026).
+
+**§ 15a InsO** — Antragspflicht: 3 Wochen (§ 17), 6 Wochen (§ 19).
+
+**§ 102 StaRUG** — Hinweispflicht des Steuerberaters; Liquiditätsvorschau als technisches Instrument der Krisenfrüherkennung.
 
 ### Leitentscheidungen
 
-1. BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12–19: Definition Zahlungsunfähigkeit; Liquiditätslücke ≥ 10 % und nicht binnen 3 Wochen schließbar; Abgrenzung zur Zahlungsstockung.
+| Gericht | Aktenzeichen | Datum | Leitsatz |
+|---|---|---|---|
+| BGH IX ZR 123/04 | BGHZ 163, 134 | 24.05.2005 | Definition Zahlungsunfähigkeit; 10-%-Lücke; 3-Wochen-Frist |
+| BGH IX ZR 228/03 | NJW 2007, 78 | 12.10.2006 | Indizienkatalog: SV-Rückstände, Stundungen, Rücklastschriften |
+| BGH II ZR 233/18 | NJW 2020, 1809 | 19.11.2019 | Fortbestehensprognose; tragfähiges Konzept + Finanzplan; überwiegende Wahrscheinlichkeit |
+| BGH II ZR 298/11 | BGHZ 195, 42 | 09.10.2012 | Insolvenzrechtliche Überschuldung; Fortführungs- vs. Liquidationswerte |
+| BGH IX ZR 48/21 | IX ZR 48/21 | 10.02.2022 | 10-%-Schwelle bei Zahlungsunfähigkeit; Klarstellung Passivseite |
+| BGH IX ZR 229/22 | IX ZR 229/22 | 15.09.2023 | Titulierte Forderungen mit Nennwert als Passiva I; keine Abzinsung |
+| BGH II ZR 139/23 | II ZR 139/23 | 12.03.2024 | Objektive Beurteilung der Zahlungsunfähigkeit; kein subjektives Element erforderlich |
 
-2. BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NJW 2007, 78 Rn. 16–22: Indizienkatalog der Zahlungsunfähigkeit; eingestellte SV-Beiträge, Stundungen, Mahnverfahren, Lastschriftrückläufer.
+## Prüfschema Liquiditätsvorschau
 
-3. BGH, Urt. v. 19.11.2019 – II ZR 233/18, NJW 2020, 1809 Rn. 17 ff.: Fortbestehensprognose nach § 19 Abs. 2 InsO – tragfähiges Unternehmenskonzept und Finanzplan; Maßstab überwiegende Wahrscheinlichkeit.
 
-4. BGH, Urt. v. 09.10.2012 – II ZR 298/11, BGHZ 195, 42 Rn. 12–18: Maßgeblich ist nicht die handelsbilanzielle Überschuldung, sondern die **insolvenzrechtliche** Überschuldung; Fortführungs- vs. Liquidationswerte je nach Prognose.
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-### Kommentarliteratur und berufsständische Verlautbarungen
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Datenaufnahme | BWA, SuSa, Kontoauszüge, Kreditorenliste, Debitorenliste, Dauerverpflichtungen | Datenbasis vollständig |
+| 2 | Eröffnungsbestand Liquidität | Kontostand, ungenutzte Kreditlinie (ziehungsfähig), Tagesgeld | Aktiva I-Basis |
+| 3 | Einzahlungs-Buckets | Kundenforderungen nach Eingangswahrscheinlichkeit; USt-Erstattung; sonstige | Einzahlungsplan |
+| 4 | Auszahlungs-Buckets | Personal (Lohn × 1.28 inkl. AG-SV); USt-Zahlung; KSt/GewSt-Vorauszahlungen; Miete; Leasing; Zins+Tilgung; Lieferanten | Auszahlungsplan |
+| 5 | Wochenraster 13 Wochen | Spalten: KW, Anfangsbestand, Einzahlungen, Auszahlungen, Endbestand, fällige VB Folgewoche, 3-Wochen-Lücke (kumuliert), Quote, Ampel | Primäres Instrument § 17 InsO |
+| 6 | 3-Wochen-Test § 17 InsO | Quote = Lücke_3W / fällige VB ≥ 10 %? Nicht binnen 3 Wochen schließbar? | Ampel Rot/Gelb/Grün |
+| 7 | SV- und Lohnsteuer-Position | SV-Beiträge (AG+AN-Anteil Drittellast); Lohnsteuer § 41a EStG; separate Zeile; nie aufrechnen | Passiva I korrekt |
+| 8 | Steuerforderungen Passiva I | FA-Forderungen; Stundung § 222 AO → außen lassen; AdV § 361 AO → bleibt Passiva I | BGH II ZR 298/11 |
+| 9 | Sensitivitätsanalyse | Best/Base/Worst: Zahlungseingang 100 %/80 %/60 %; Auftragserfüllung wie geplant/−10 %/−25 % | Risikoszenario |
+| 10 | Mittel- und Langfristhorizont | 26 Wochen (monatlich aggregiert ab Monat 4), 52 Wochen; Fortführungsprognose-Grundlage | § 18 und § 19 InsO |
+| 11 | Fortführungsprognose IDW S 6 | Krisenstadium; Konzept; integrierte Planung; überwiegende Wahrscheinlichkeit | § 19 InsO Stufe 1 |
+| 12 | Abgrenzung HGB vs. InsO | EK-Negativsaldo ≠ Insolvenzreife; Überschuldungsstatus separat; Stille Reserven/Lasten | BGH BGHZ 195, 42 |
+| 13 | Indizienkatalog prüfen | SV-Rückstände, Stundungsanträge, Lastschriftrückläufer, eingestellte Lieferantenzahlungen | Zahlungseinstellung ohne Deckungslücke möglich |
+| 14 | Ergebnis-Memo | Ampel-Zusammenfassung; frühester Rot-Eintritt (KW-Angabe); Handlungsempfehlung; § 102 StaRUG | Mandantenkommunikation |
+| 15 | Excel-Export | Sheets: 13W, 26W, 52W, Fortführungsprognose, Annahmen; Ampel bedingte Formatierung | Arbeitsunterlage |
 
-1. K. Schmidt/Herchen, in: K. Schmidt, Insolvenzordnung, 20. Aufl. 2023, § 17 InsO Rn. 5–35: Liquiditätsbilanz nach BGH-Konzept; 10-%-Grenze; 3-Wochen-Horizont; Behandlung von Stundungen und Kreditlinien.
+## Wochenraster-Struktur (Excel-Vorlage)
 
-2. Uhlenbruck/Mock, Insolvenzordnung, 16. Aufl. 2024, § 19 InsO Rn. 47–95: Zweistufige Überschuldungsprüfung; Fortbestehensprognose als Kernsanierungselement; Anforderung integrierte Planung (Ertrag/Bilanz/Liquidität).
+```
+LIQUIDITÄTSVORSCHAU — [Firma] GmbH
+Stand: [Datum]
 
-3. **IDW S 6 (i.d.F. 2018)**: Anforderungen an die Erstellung von Sanierungskonzepten – Kernelemente: (i) Auftrag und Auftragsdurchführung, (ii) Basisinformationen, (iii) Analyse Krisenstadium und Ursachen, (iv) Leitbild des sanierten Unternehmens, (v) Maßnahmen zur Krisenbewältigung, (vi) integrierter Unternehmensplan und Fortführungsprognose.
+| KW | Anfangs-  | + Einzah- | − Auszah- | End-    | Fäll. VB | 3W-Lücke | Quote | Ampel |
+|    | bestand   | lungen    | lungen    | bestand | Folge-KW | kumuliert |  %    |       |
+|----+-----------|-----------|-----------|---------|----------|----------|-------|-------|
+| 21 | 18.500    | 42.000    | 47.200    | 13.300  | 61.800   | 48.500   | 78 %  | ROT   |
+| 22 | 13.300    | 51.000    | 45.600    | 18.700  | 38.200   |          |       |       |
+| 23 | 18.700    | 145.000*  | 44.100    | 119.600 |          |          | GRÜN  |       |
+     *Großauftrag-Eingang; Zahlungseingang-Risiko: Base 100 %, Worst 60 %
+```
 
-4. **IDW S 11 (Stand 22.08.2016 + Updates)**: Beurteilung des Vorliegens von Insolvenzeröffnungsgründen – Liquiditätsstatus, 3-Wochen-Finanzplan, Fortbestehensprognose, Abgrenzung handelsbilanzielle vs. insolvenzrechtliche Überschuldung.
+## Beweislast
 
-5. Pape/Schaltke, in: Pape/Uhländer, StaRUG, 1. Aufl. 2021, § 1 StaRUG Rn. 10–30: Geschäftsleiterpflichten zur Krisenfrüherkennung; integrierte Planung als Pflichtprogramm.
+| Beweisthema | Beweislastträger | Beweismittel |
+|---|---|---|
+| Zahlungsunfähigkeit zum Stichtag | Insolvenzverwalter / Kläger im Nachhinein | Liquiditätsvorschau als Indiz; BGH NJW 2007, 78 |
+| Zahlungseingang-Wahrscheinlichkeit | GF / StB | Debitorenliste, Mahnstand, DA-Liste |
+| Kreditlinie ziehungsfähig | GF | Bankbescheinigung über Limit und Valuta |
+| SV-Rückstände | Offen aus Buchhaltung; BG-/KK-Bescheide | Konto-Auszüge SV-Beitragskonten |
+| Fortführungsprognose positiv | GF / IDW S 6-Gutachter | Integrierter Finanzplan; Konzept |
 
-## Ablauf
+## Fristen und zeitliche Warnschwellen
 
-**Schritt 1 – Datenaufnahme**
-- Nutzer-Input parsen: PDFs (Bankauszüge, Rechnungen), CSV (Buchhaltungsexport), freier Text.
-- Strukturieren in: (a) Anfangsbestand, (b) Einzahlungs-Buckets (Kundenforderungen, USt-Erstattungen, sonstige), (c) Auszahlungs-Buckets (Personal, SV, Lohnsteuer, USt-Zahlung, KSt/GewSt, Lieferanten, Miete, Leasing, Zins+Tilgung, sonstiges).
-- Ausfallrisiko-Score für Debitoren (Top-Kunden, Mahnstand, Branche).
+| Horizont | Insolvenzrechtliche Bedeutung | Handlungspflicht |
+|---|---|---|
+| Woche 0–3 | § 17 InsO-Stichtag; 3-Wochen-Test | Sofortige Prüfung Antragspflicht |
+| Woche 0–13 | Zahlungsunfähigkeit; 3-Wochen-Test wöchentlich rollierend | Wöchentliche Aktualisierung |
+| Woche 0–26 | Mittelfristhorizont; Finanzierungsbedarf | Bankgespräch; Gesellschafterdarlehen |
+| Woche 0–52 | Fortbestehensprognose § 19 InsO; IDW S 6-Grundlage | Sanierungskonzept |
+| Monate 0–24 | § 18 InsO drohende ZU; SanInsKG | Eigenantragsoption; StaRUG |
 
-**Schritt 2 – Wochenraster bauen**
-- Spalten: KW (Mo–So) ab KW Stichtag, Anfangsbestand Bank, + Einzahlungen je Bucket, − Auszahlungen je Bucket, **Endbestand**, **fällige Verbindlichkeiten in Folgewoche**, **3-Wochen-Lücke (kumuliert)**, **Lücken-Quote in %**, **Ampel**.
-- Drei Sheets: `13-Wochen`, `26-Wochen`, `52-Wochen`. Letzteres monatlich aggregiert ab Monat 4.
+## Typische Fehler
 
-**Schritt 3 – 3-Wochen-Test (§ 17 InsO)**
-- Pro Woche: berechne `Lücke = max(0, fällige Verbindlichkeiten − verfügbare Mittel)`.
-- Berechne `Lücke_3W = Summe der ungedeckten fälligen Verbindlichkeiten in t, t+1, t+2 minus erwartete Zugänge in t+1, t+2`.
-- Berechne `Quote = Lücke_3W / fällige Verbindlichkeiten in t`.
-- `Ampel = rot` wenn Quote ≥ 10 % und Lücke_3W am Ende der Periode nicht null; `gelb` wenn Quote ≥ 10 %, aber binnen 3 Wochen schließbar; sonst `grün`.
+| Fehler | Korrekte Vorgehensweise |
+|---|---|
+| Negativem EK als Insolvenzreife gleichsetzen | Handelsbilanzielle Unterdeckung ≠ Insolvenzreife; Überschuldungsstatus separat (BGH BGHZ 195, 42) |
+| Kreditlinie vollständig als Aktiva I | Nur ziehungsfähiger, nicht gesperrter oder bereits ausgeschöpfter Teil |
+| Auftragseingang zu optimistisch ansetzen | Sensitivitätsanalyse: Worst-Case-Szenario immer einbeziehen; BGH verlangt realistische Annahmen |
+| USt-Voranmeldung fehlt in Auszahlungen | USt monatlich oder quartalsweise je nach Turnus; Dauerfristverlängerung berücksichtigen |
+| AdV als Passiva I-Entlastung | Falsch: AdV § 361 AO hemmt Vollziehung, lässt Forderung materiell bestehen (§ 17 InsO-Relevant) |
+| Lohnzahlungen ohne AG-SV-Anteil | Drittellast: Lohn × 1.28 für Personal-Gesamtkosten |
+| 3-Wochen-Frist ab Erkenntnis (StB-Sicht) | Frist läuft ab Eintritt der Zahlungsunfähigkeit, nicht ab Erstellung der Vorschau |
 
-**Schritt 4 – Sensitivität (Best/Base/Worst)**
-- Drei Spalten parallel: Zahlungseingang 100 %, 80 %, 60 % der Forderungen.
-- Drei Spalten parallel: Auftragsausführung wie geplant, −10 %, −25 %.
-- Ergebnis: Ampel je Szenario.
+## Strategische Optionen (vor dem Template entscheiden)
 
-**Schritt 5 – Fortführungsprognose (12 Monate)**
-- Aggregation auf Monatsebene; Übergang zu Ertrags- und Bilanzplanung (verzahnt).
-- Prüfe die **IDW-S-6-Kernelemente**:
-  1. **Krisenstadium** (Stakeholder-/Strategie-/Produkt-/Absatz-/Erfolgs-/Liquiditäts-/Insolvenzkrise nach Hauschka-Schema).
-  2. **Krisenursachen** (intern/extern).
-  3. **Leitbild** des sanierten Unternehmens (Geschäftsmodell, Markt, Positionierung).
-  4. **Maßnahmen** (Innenfinanzierung, Außenfinanzierung, leistungswirtschaftlich, finanzwirtschaftlich).
-  5. **Integrierte Planung** (Ertrag/Bilanz/Liquidität) 24+ Monate.
-  6. **Ergebnis**: positive vs. negative Fortführungsprognose mit Begründung.
-- Maßstab nach BGH NJW 2020, 1809 Rn. 18: überwiegende Wahrscheinlichkeit.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-**Schritt 6 – Abgrenzung handelsbilanzielle vs. insolvenzrechtliche Überschuldung**
-- Handelsbilanzielles negatives EK ist **kein** Insolvenzgrund. Maßgeblich ist der **Überschuldungsstatus** mit Fortführungswerten bei positiver Prognose, mit Liquidationswerten bei negativer Prognose (BGH BGHZ 195, 42 Rn. 12 ff.).
-- Qualifizierter Rangrücktritt (§ 39 Abs. 2 InsO) eliminiert Verbindlichkeit aus dem Status.
-- Stille Reserven (insb. Sachanlagen, selbst erstellte immaterielle WG) sind zu aktivieren.
-- Stille Lasten (Rückstellungsbedarf, Prozessrisiken, Bürgschaften) sind anzusetzen.
-- Ergebnis: **Insolvenzfähige Überschuldung** nur, wenn rechnerische Unterdeckung **und** negative Fortführungsprognose.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Liquiditaetsvorschau fuer 3 bis 12 Monate erstellen | Vorschau nach Schema; Schriftsatz unten |
+| Variante A — Kurzfristige Liquiditaet kritisch Woche noetig | Kurzfrist-Vorschau separat; dann Mittelfrist ergaenzen |
+| Variante B — Saisonales Unternehmen | Saisonalitaets-Hinweise in Vorschau einarbeiten |
+| Variante C — Bankfinanzierung laeuft aus Prolongation noetig | Bankgespraeche-Version der Vorschau; Stresstest anfuegen |
 
-**Schritt 7 – Excel-Export**
-- Aufruf `python werkzeuge/build_liquiditaetsplan.py --eingabe <mandant>.yaml --ausgabe liquiditaetsplan.xlsx`.
-- Drei Sheets (13W/26W/52W), Ampel via bedingter Formatierung, Lückenquote in Prozentformat, Formeln (`=SUMME(...)`, `=B5-C5`, kein Hartcoding).
-- Ergänzungssheet `Fortfuehrungsprognose` mit IDW-S-6-Matrix.
-- Ergänzungssheet `Annahmen` (alle Inputs nachvollziehbar).
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-## Ausgabeformat
 
-1. **Liquiditätsplan Excel** (`liquiditaetsplan.xlsx`) mit Sheets:
-   - `13-Wochen` (Wochenraster, Ampel, 3-Wochen-Test)
-   - `26-Wochen`
-   - `52-Wochen` (ab Monat 4 monatlich aggregiert)
-   - `Fortfuehrungsprognose` (IDW-S-6-Matrix)
-   - `Annahmen` (Inputs und Sensitivitäten)
-2. **Lage-Memo** im Gutachtenstil mit
-   - Ergebnis § 17 InsO (zahlungsunfähig / drohend / zahlungsfähig) mit Wochenangabe des frühesten Roteintritts.
-   - Ergebnis § 19 InsO (positive/negative Fortführungsprognose, insolvenzrechtliche Überschuldung indiziert ja/nein).
-   - Handlungsempfehlungen: Antragspflicht §§ 15a, 15b InsO oder StaRUG-Restrukturierungsrahmen (§§ 29 ff. StaRUG).
-3. **Hinweis auf Hinweispflicht** (§ 102 StaRUG) wenn nicht-Geschäftsleiter beauftragt (z.B. Steuerberater nutzt Skill für Mandanten).
+## Schriftsatzbausteine
 
-## Beispiel
+### Baustein 1: Memo an GF — Liquiditätsvorschau-Ergebnis
 
-**Sachverhalt**: Edelholz Manufaktur Berlin GmbH, 20 Mitarbeiter, Jahresumsatz 2,1 Mio. EUR, Stichtag 18.05.2026, Kontostand 18.500 EUR, Kontokorrent 150.000 EUR zu 92 % ausgeschöpft, offene LuL 187.000 EUR (davon 64.000 EUR überfällig), SV-Rückstand 38.000 EUR, USt-Vorauszahlung 14.200 EUR fällig 10.06.2026, Großauftrag 145.000 EUR mit Lieferung KW 28 und Zahlungsziel 30 Tage netto.
+```
+MEMO — VERTRAULICH
+An: Geschäftsführung [Firma] GmbH
+Von: [Steuerberater/Kanzlei]
+Datum: [Datum]
 
-**Gutachtenstil**:
+Betreff: Ergebnis Liquiditätsvorschau 13-Wochen — § 17 InsO-Prüfung
 
-*§ 17 InsO*: 13-Wochen-Test zeigt in KW 22 eine Lücke von 41.000 EUR (Quote 22 %); selbst inkl. erwarteter Eingänge aus dem Großauftrag wäre die Lücke erst in KW 32 vollständig schließbar – damit **nicht innerhalb von 3 Wochen** ab KW 22. **Zahlungsunfähigkeit liegt voraussichtlich ab KW 22 vor** (BGH BGHZ 163, 134 Rn. 14). Ampel rot.
+1. Ergebnis Ampel-Übersicht:
+   KW [x]: GRÜN (Quote [y] %)
+   KW [x+1]: GELB (Quote [z] % — Zahlungsstockung, voraussichtlich
+              lösbar durch Eingang Rechnung [Rn.] EUR [x] in KW [x+2])
+   KW [x+3]: ROT (Quote [a] % — Zahlungsunfähigkeit § 17 InsO
+              droht, falls Eingang Großauftrag ausbleibt)
 
-*§ 19 InsO*: Handelsbilanzielles EK negativ. Überschuldungsstatus mit Fortführungswerten unter Berücksichtigung stiller Reserven der CNC-Anlage (Verkehrswert 180.000 EUR, Buchwert 95.000 EUR) ergibt rechnerische Unterdeckung von ca. 60.000 EUR. Fortführungsprognose negativ, weil integrierte 12-Monats-Planung keinen positiven operativen Cashflow bei realistischen Annahmen erbringt (IDW S 6, Tz. 5 ff.; BGH NJW 2020, 1809 Rn. 18). **Insolvenzrechtliche Überschuldung indiziert**.
+2. Früheste § 17-InsO-Relevanz: KW [x+3] — [Datum]
 
-*Handlungsempfehlung*: Antragspflicht 3 Wochen ab Eintritt § 17 InsO (KW 22) bzw. 6 Wochen ab § 19 InsO. Parallel Prüfung StaRUG-Restrukturierungsrahmen nur möglich bei rein **drohender** Zahlungsunfähigkeit – nicht mehr eröffnet, wenn § 17 InsO bereits eingetreten ist. Hinweis nach § 102 StaRUG durch beauftragten Steuerberater zu erteilen.
+3. Handlungsempfehlung:
+   a) Sofortige anwaltliche Prüfung der Insolvenzreife beauftragen.
+   b) Bankgespräch zur Linienerweiterung bis [Datum].
+   c) Auftragseingang [Bezeichnung] sichern/beschleunigen.
+   d) Bis KW [x+2] Liquiditätslage neu auswerten.
 
-## Risiken und typische Fehler
+Wir stehen für ein persönliches Besprechungsgespräch zur Verfügung.
+Bitte bestätigen Sie Kenntnisnahme dieses Memos schriftlich.
+```
 
-- **Handelsbilanzielle vs. insolvenzrechtliche Überschuldung verwechseln**: Negatives EK in HGB-Bilanz allein begründet keinen Antragsgrund (BGH BGHZ 195, 42 Rn. 12); maßgeblich ist Überschuldungsstatus.
-- **3-Wochen-Frist statisch rechnen**: Die Frist läuft ab dem **Eintritt** der Zahlungsunfähigkeit, nicht ab Erstellung des Liquiditätsplans.
-- **Stundungen als Liquidität werten**: Stundungen verschieben die Fälligkeit, sind aber Indiz für Zahlungsunfähigkeit (BGH NJW 2007, 78 Rn. 18) – nicht beruhigen lassen.
-- **Kreditlinien unkritisch ansetzen**: Nur **zugesagte und ziehungsfähige** Linien zählen; gekündigte oder ausgeschöpfte Linien nicht.
-- **Großaufträge ohne Zahlungseingangsrisiko ansetzen**: Realistische Annahmen mit Ausfall- und Skonto-Quoten; immer Sensitivität (Worst Case).
-- **Fortführungsprognose ohne IDW-S-6-Struktur**: Eine nicht strukturierte „Prognose" trägt vor Gericht nicht; BGH NJW 2020, 1809 verlangt tragfähiges Konzept.
-- **USt- und LSt-Rückstände kleinreden**: Diese sind starke Insolvenzindizien und führen oft zur Anzeige durch Finanzamt/Krankenkasse (§ 15a Abs. 4 InsO).
-- **Personalkosten unterschätzen**: Lohn + AG-Anteil SV + KK-Beiträge = ca. 1,28× Bruttolohn; monatliche Drittellast SV-Beiträge.
-- **SanInsKG-Stand übersehen**: Prognosehorizont § 19 InsO wurde temporär verkürzt; aktuelle Fassung am Bewertungsstichtag prüfen.
+### Baustein 2: Fortführungsprognose — Ergebnisübersicht IDW S 6
 
-## Quellenpflicht
+```
+FORTFÜHRUNGSPROGNOSE — [Firma] GmbH — [Datum]
 
-Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (BGHZ 163, 134; BGH NJW 2007, 78; BGH NJW 2020, 1809; BGHZ 195, 42) und zwei Kommentarbelege im Bearbeiter-Stil (K. Schmidt/Herchen; Uhlenbruck/Mock; Pape/Schaltke). Berufsständische Verlautbarungen (IDW S 6, IDW S 11) sind gesondert zu zitieren und nicht als „Rechtsprechung" zu kennzeichnen.
+1. Krisenstadium (IDW S 6):
+   [Liquiditätskrise / Ertragskrise / Strategiekrise — begründen]
 
-Siehe ergänzend:
-- `references/idw-s6-kernelemente.md` – Strukturmatrix Sanierungskonzept
-- `references/wochenraster-anleitung.md` – Aufbau und Buckets der Wochenplanung
-- `werkzeuge/build_liquiditaetsplan.py` – Excel-Generator (mit Beispiel-YAML)
+2. Krisenursachen:
+   Intern: [z.B. gesunkene Marge, Personalkosten]
+   Extern: [z.B. Nachfragerückgang, Rohstoffpreise]
+
+3. Leitbild des sanierten Unternehmens:
+   [Kerngeschäft; Restrukturierungsmaßnahmen; Ziel-Geschäftsmodell]
+
+4. Maßnahmen zur Krisenbewältigung:
+   Innenfinanzierung: [Forderungsabbau, WC-Reduzierung]
+   Außenfinanzierung: [Gesellschafterdarlehen, Bankgespräch]
+   Leistungswirtschaftlich: [Kostenabbau, Produktsortiment]
+
+5. Integrierte 24-Monats-Planung:
+   Monat 1–12: Ergebnis [x]; Cashflow [y]; EK [z]
+   Monat 13–24: Ergebnis [a]; Cashflow [b]; EK [c]
+
+6. Ergebnis Fortführungsprognose:
+   [ ] Positiv — überwiegende Wahrscheinlichkeit der Fortführung
+   [ ] Negativ — Fortführung nicht überwiegend wahrscheinlich
+   Begründung: [...]
+
+7. Rechtsfolge für § 19 InsO:
+   Positiv: keine Überschuldung, auch bei negativem Eigenkapital.
+   Negativ: Überschuldungsstatus mit Liquidationswerten erforderlich.
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Streitwert und Kosten
+
+| Position | Berechnung | Hinweis |
+|---|---|---|
+| Liquiditätsplanung (laufend) | Zeithonorar StB; typisch EUR 500–2.000 je Monat | Als eigenständige Leistung vereinbaren |
+| Sanierungskonzept IDW S 6 | EUR 10.000–50.000+ je nach Komplexität | WP/StB mit Sanierungserfahrung |
+| Insolvenzreife-Gutachten Anwalt | § 34 RVG oder Stundensatz; typisch EUR 2.000–8.000 | Wird durch Liquiditätsvorschau als Datenbasis vorbereitet |
+| Excel-Vorlage Erstellung | Einmalig ca. 4–8 Stunden; dann rollierend 1–2 h/Woche | — |
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung |
+|---|---|
+| Grüne Ampeln, kein § 17-Risiko | Monatliche Aktualisierung; § 102 StaRUG-Hinweispflicht dokumentiert erfüllt |
+| Gelbe Ampeln — Zahlungsstockung absehbar lösbar | Bankgespräch; Gesellschafterdarlehen; Debitoren-Beschleunigung; wöchentliche Aktualisierung |
+| Rote Ampele — § 17 InsO-Schwelle | Sofortige anwaltliche Beratung; Antragspflicht-Check; § 102 StaRUG-Warnschreiben |
+| Großauftrag als einziger Ausweg | Worst-Case-Szenario ohne Auftrag ausarbeiten; nicht auf Eingang vertrauen ohne Vertrag |
+| Kreditlinien ausgeschöpft | Neue Finanzierungsquellen (Factoring, Gesellschafter, Sale-and-Lease-back) prüfen |
+
+## Anschluss-Skills
+
+- `anw-insolvenzreife-pruefung-17-19-inso` — anwaltliche Insolvenzreife-Prüfung mit Datenbasis aus Liquiditätsvorschau
+- `stb-bwa-sus-bilanz-pruefung` — vorgelagerte BWA/SuSa-Prüfung
+- `stb-warnschreiben-krisensignale` — § 102 StaRUG-Pflichthinweis an GF
+
+## Quellen
+
+- InsO §§ 17, 18, 19, 15a, 15b
+- StaRUG §§ 1, 102
+- SanInsKG (Prognosezeitraum 24 Monate bis 31.12.2026)
+- BGH IX ZR 123/04 = BGHZ 163, 134
+- BGH IX ZR 228/03 = NJW 2007, 78
+- BGH II ZR 233/18 = NJW 2020, 1809
+- BGH II ZR 298/11 = BGHZ 195, 42
+- BGH IX ZR 48/21 (10-%-Schwelle)
+- BGH IX ZR 229/22 (titulierte Forderungen Nennwert)
+- BGH II ZR 139/23 (objektive Beurteilung)
+- IDW S 6 (Sanierungskonzept); IDW S 11 (Insolvenzeröffnungsgründe)
+- K. Schmidt/Herchen, InsO § 17 Rn. 5–35
+- Uhlenbruck/Mock, InsO § 19 Rn. 47–95
+- Pape/Schaltke, StaRUG § 102 Rn. 8–35

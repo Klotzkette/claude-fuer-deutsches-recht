@@ -1,153 +1,144 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Urheber-, Presse- und Medienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Pruefraster: Sachverhaltserfassung Schutzfaehigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
 ---
 
-# Erstgespraech und Mandatsannahme im Urheber-, Presse- und Medienrecht
+# Erstgespraech und Mandatsannahme im Urheber- und Medienrecht
 
-## Wann dieser Skill greift
+## Triage zu Beginn — klaere vor jedem weiteren Schritt
 
-- Neue Anfrage aus dem Bereich Urheber-, Presse- und Medienrecht (Telefon, Mail, Empfehlung, Walk-in).
-- Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klaeren, Konflikt- und GwG-Pruefung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+1. Liegt eine **Abmahnung, einstweilige Verfuegung oder Fristmitteilung** vor? Datum feststellen und sofort Kalender-Alarm setzen.
+2. Welches **Sachgebiet:** Urheberrecht (Werknutzung), Persoenlichkeitsrecht/KUG, Presserecht (Gegendarstellung), Rundfunk/Streaming, Plattformhaftung, Musikrecht/Verwertungsgesellschaft?
+3. **Mandantenrolle:** Urheber (Schutzsuchender), Werknutzer (ggf. Verletzer), Medienhaus (Abgemahnter), Betroffener (Presserecht, KUG), Plattformbetreiber?
+4. Liegt **Eilbeduerftigkeit** vor (Berichterstattung in 2 Tagen, Bild im Netz, einstweilige Verfuegung zugestellt)?
+5. Sind **mehrere Parteien** am Sachverhalt beteiligt, fuer die ein Interessenkonflikt bestehen koennte (§ 43a Abs. 4 BRAO, § 3 BORA)?
+
+## Zentrale Normen und Paragrafenkette
+
+- § 97a UrhG — Abmahnpflicht und -kosten im Urheberrecht
+- § 97 Abs. 1, 2 UrhG — Unterlassung und Schadensersatz lizenzanalog
+- §§ 22, 23 KUG — Recht am eigenen Bild
+- §§ 823 Abs. 1, 1004 BGB i.V.m. Art. 2 Abs. 1, 1 Abs. 1 GG — Persoenlichkeitsrechtsverletzung
+- §§ 195, 199 BGB — Verjaehrung 3 Jahre; § 102 UrhG spezielle Verjährungsregel
+- LPG (jeweiliges Bundesland) — Gegendarstellungsanspruch
+- § 43a Abs. 4 BRAO, § 3 BORA — Interessenkonflikt
+- §§ 10 ff. GwG — Identifizierungspflicht
+
+## Zentrale Rechtsprechung
+
+- BGH, Urt. v. 12.11.2009 – I ZR 166/07, GRUR 2010, 616 Rn. 24 – marions-kochbuch.de: Streitwert bei Urheberrechtsverletzungen im Internet; Einzelbild bei gewerblichem Kontext typisch 6.000-10.000 EUR je Foto.
+- BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 17 – Posterlounge: Schadensersatz nach Lizenzanalogie erfordert Feststellung der ortsueblicherweise zu zahlenden Lizenz; MFM-Tarife als Richtwert bei Pressefotografie.
+- BGH, Beschl. v. 19.02.2019 – VI ZR 483/17, NJW 2019, 1383 Rn. 12 – Persoenlichkeitsrecht Online: Verletzung des allgemeinen Persoenlichkeitsrechts durch Berichterstattung begruendet Unterlassungs- und Gegendarstellungsanspruch; Streitwert 15.000-50.000 EUR je nach Schwere.
+- BVerfG, Beschl. v. 25.06.2009 – 1 BvR 134/03, NJW 2010, 47 Rn. 18: Anwaltliche Vertretung bei Presserecht und Persoenlichkeitsrechtssachen; § 43a BRAO Interessenkonflikt bei Vertretung des Presseorgans und des Betroffenen.
 
 ## Phasen des Erstgespraechs
 
 ### 1. Aufnahme der Konstellation (10-15 Min.)
 
-Standard-Fragenraster fuer Urheber-, Presse- und Medienrecht:
-
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klaegerin/Beklagter, Antragsteller, Beschuldigter)
-- Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
-- Konkrete fachliche Stossrichtung: Urheberrecht, KUG, Bildrechte, Filesharing, Verlag, GG-Pressefreiheit
-- Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
-- **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Unterlassungsklage Persoenlichkeitsrecht, Klage Urheberrechtsverletzung). Frist-Alarm an die Vorbereitung weitergeben.
+- Beteiligte (Name, Adresse, Rolle: Urheber, Verletzer, Medienhaus, Betroffener)
+- Verletzungs-Gegenstand (Werk, Bild, Artikel, Aeusserung) — exakt beschreiben lassen
+- Datum der Veroeffentlichung / des Verstosses
+- Bisherige Korrespondenz (Abmahnung, einstweilige Verfuegung, Gegendarstellungsverlangen)
+- **Fristenscreening sofort:** Antwortfristen aus Abmahnungen, Reaktionsfrist auf einstweilige Verfuegung, Gegendarstellungsfristen nach LPG
 
 ### 2. Konflikt-Pruefung und GwG-Check (5 Min.)
 
-- Konflikt-Check ueber Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
-- GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
-- Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach §§ 10 ff. GwG i.V.m. § 2 Abs. 1 Nr. 10 GwG fuer RA-Mandate).
+- Konflikt-Check: frueheres Mandat mit Gegenseite oder Sachzusammenhang?
+- GwG-Identifizierung: Lichtbildausweis, bei juristischer Person Handelsregisterauszug
+- Risikobewertung (Medienhaus-Mandate: typisch mittel/hoch wegen Rechtsschutzdeckung der Gegenseite)
 
 ### 3. Vollmacht und Schweigepflichtentbindung
 
-- Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behoerde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klaeren.
+- Allgemeine Vollmacht
+- Ggf. Sondervollmacht fuer DPMA-Schiedsstelle-Verfahren (VGG) oder beA-Einreichung
 
 ### 4. Streitwert und Gebuehrenvereinbarung
 
-Standard-Streitwerte im Bereich Urheber-, Presse- und Medienrecht:
+Standard-Streitwerte im Urheber- und Medienrecht:
 
-- Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
-- RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag pruefen, wenn wirtschaftlich angezeigt.
-- Vorschussanforderung nach § 9 RVG.
+| Mandate | Ueblicher Streitwert | Norm |
+|---------|---------------------|------|
+| Einzel-Foto Verletzung | 6.000-10.000 EUR | BGH marions-kochbuch.de |
+| Filesharing Film/Musik | 1.000-10.000 EUR | § 97a Abs. 3 UrhG |
+| Persoenlichkeitsrecht Boulevard | 15.000-50.000 EUR | BGH VI ZR Rspr. |
+| Gegendarstellung Presse | 10.000-30.000 EUR | OLG-Rspr. |
+| Software Open Source | 5.000-50.000 EUR | Marktbedeutung |
 
-### 5. Strategie-Erstskizze
+## Output-Template Mandatsbogen
 
-Drei Weichen am Ende des Erstgespraechs:
+**Adressat:** intern (Kanzleiakte) — Tonfall sachlich-strukturiert
 
-- **Mandat annehmen:** vollstaendig (Pruefung + Schriftsatz) oder begrenzt (nur Pruefung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzustaendig oder Konflikt.
-- **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
+```
+MANDATSBOGEN — URHEBER-/MEDIENRECHT
 
-## Pflicht-Output am Ende
+Datum:            [TT.MM.JJJJ]
+Aktenzeichen:     [INTERN]
+Mandant:          [NAME, Geburtsdatum, Adresse, Telefon, E-Mail]
+Gegner:           [NAME, Adresse, ggf. anwaltliche Vertretung]
+Sachgebiet:       [ ] Urheberrecht  [ ] KUG  [ ] Presserecht  [ ] Rundfunk  [ ] VGG
+Verletzungsobjekt:[Werk/Bild/Aeusserung kurz beschreiben]
+Veroeffentl.-Datum:[TT.MM.JJJJ]
+Frist:            [DATUM] — Bereich: [Abmahnung/eV/Gegendarstellung]
+Konflikt-Check:   [ ] geprueft, kein Konflikt  [ ] Einwilligung liegt vor
+GwG:              [ ] Identifizierung erfolgt  [ ] Risiko: [niedrig/mittel/hoch]
+Vollmacht:        [ ] unterschrieben am [DATUM]
+Streitwert:       ca. [BETRAG] EUR (Schaetzung)
+Honorar:          [ ] RVG  [ ] Stundenhonorar [BETRAG EUR/h]
+Naechste Schritte: 1. [MASSNAHME] bis [DATUM] — 2. [MASSNAHME] bis [DATUM]
+```
 
-1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjaehrung, Ausschlussfristen, Beweisanforderungs-Fristen).
-3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
-4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
-5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
+## Output-Template E-Mail Erstgespraechs-Zusammenfassung
 
-## Relevante Rechtsgrundlagen und Standards
+**Adressat:** Mandant — Tonfall verstaendlich-erklaerend
 
-- BORA, BRAO, FAO fuer Fachanwaltschaft Urheber-, Presse- und Medienrecht.
-- GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- UrhG, KUG, GG Art. 5, RStV/MStV, TDDDG, BGB (fuer fachliche Erstpruefung).
-- DSGVO und BDSG fuer den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+```
+Sehr geehrte/r Frau/Herr [NAME],
 
-## Typische Fehler im Erstgespraech
+nach unserem heutigen Gespraech fasse ich die wesentlichen Punkte zusammen:
 
-- Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
-- Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> spaeter Streit mit Mandantin ueber Befugnisse.
-- Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk ueber Risikobewertung.
+1. Sachverhalt: [Kurzbeschreibung]
+2. Rechtliche Einordnung: [z.B. Urheberrechtsverletzung § 97 UrhG / Persoenlichkeitsrecht § 823 BGB]
+3. Empfohlene Vorgehensweise: [z.B. Abmahnung / Gegendarstellungsverlangen / Klage]
+4. Naechste Frist: [DATUM] — [Was bis dahin geschieht]
+5. Kosten: Streitwert ca. [BETRAG] EUR; Anwaltsgebuehren nach RVG ca. [BETRAG] EUR.
+6. Bitte senden Sie bis [DATUM]: [Liste Unterlagen]
 
-## Praxis-Checkliste
+Mit freundlichen Gruessen
+[KANZLEI / NAME]
+```
 
-- [ ] Personalien und Rolle aller Beteiligten erfasst
-- [ ] Konflikt-Check durchgefuehrt
-- [ ] GwG: Identifizierung + Risikobewertung notiert
-- [ ] Allgemeine Vollmacht unterschrieben
-- [ ] Speziale Vollmacht / Entbindungserklaerung (wo noetig) unterschrieben
-- [ ] Streitwert geschaetzt
-- [ ] Honorarvereinbarung unterschrieben oder ausdruecklich auf RVG verwiesen
-- [ ] Fristenliste angelegt und in Kalender eingetragen
-- [ ] Mandatsbogen vollstaendig
-- [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
+## Schritt-fuer-Schritt-Workflow
 
+```
+Schritt 1: Frist identifizieren
+  → Abmahnung: Reaktionsfrist pruefen (uebl. 7-14 Tage)
+  → Gegendarstellung: LPG-Frist pruefen (uebl. 2-3 Monate)
+  → einstweilige Verfuegung: Widerspruchsfrist 14 Tage (§ 924 ZPO)
 
-## Konkrete Praxis-Konstellationen
+Schritt 2: Konflikt-Check und GwG
 
-### Konstellation A: Eilbeduerftigkeit
+Schritt 3: Vollmacht unterzeichnen lassen
 
-Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Urheber-, Presse- und Medienrecht). Handlungs-Sequenz:
+Schritt 4: Streitwert abschaetzen und Honorar vereinbaren
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behoerdenportal).
-2. Antrag auf Wiedereinsetzung (§ 233 ZPO, § 60 VwGO, § 110 AO) als Reserve dokumentieren.
-3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
-4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
+Schritt 5: Mandatsbogen vollstaendig ausfuellen
 
-### Konstellation B: Komplexer Sachverhalt, Datenraum unsortiert
+Schritt 6: E-Mail-Zusammenfassung binnen 48 h an Mandanten
+```
 
-Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
+## Fristen-Checkliste Urheber- und Medienrecht
 
-1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum fuer Verjaehrungs- und Ausschlussfristen identifizieren.
-3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
-
-### Konstellation C: Interessenkonflikt-Naehe
-
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung:
-
-1. § 43a Abs. 4 BRAO und § 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
-2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
-3. Bei Zweifel: Mandat ablehnen und an Kanzleikollegium ueberweisen.
-
-## Mandanten-Erwartungsmanagement
-
-- Realistische Erfolgs- und Kostenprognose (nicht "Wir gewinnen sicher").
-- Verfahrensdauer im Bereich Urheber-, Presse- und Medienrecht: Erfahrungswerte nach Instanz.
-- Vergleichschance vs. streitiges Urteil als Option offen halten.
-- Schriftliche Zusammenfassung des Erstgespraechs binnen 48 h.
-
-## Honorarvereinbarung - Best Practices
-
-- RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach § 3a RVG.
-- Erfolgshonorar nur in den engen Grenzen § 4a RVG.
-- Vorschuss in Hoehe der voraussichtlichen 1. Instanz.
-- Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege moeglich sind.
-
-## Mandatsbogen-Muster (Mindestinhalt)
-
-- Mandant (Name, Geburtsdatum, Anschrift, Telefon, E-Mail)
-- Gegner (Name, Anschrift, ggf. anwaltliche Vertretung)
-- Kurzbeschreibung Sachverhalt (5-10 Saetze)
-- Ziel des Mandats (eine Zeile)
-- Strittige Fragen (bullet)
-- Geprueft: Konflikt - GwG - Vollmacht
-- Streitwert (Schaetzung)
-- Honorarvereinbarung (RVG/Stunde/Pauschale)
-- Frist-Liste
-- Aktenanlage Datum
-- Naechster-Schritt
+| Verfahren | Frist | Norm |
+|-----------|-------|------|
+| Reaktion auf Abmahnung | 7-14 Tage (Abmahnfrist) | § 97a UrhG |
+| Gegendarstellung | 2-3 Monate ab Kenntnis | LPG (landesrechtl.) |
+| Widerspruch einstweilige Verfuegung | 14 Tage § 924 ZPO | § 924 ZPO |
+| Verjaehrung Urheberrecht | 3 Jahre ab Kenntnis | §§ 195, 199 BGB; § 102 UrhG |
+| Einstweilige Verfuegung (aktiv) | max. 4 Wochen Kenntnis | Selbstwiderlegungsfrist OLG |
 
 ## Cross-Refs
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+- `mandat-triage-urheber-medienrecht` — detaillierte Sachgebiets-Triage
+- `urheber-abmahnung-pruefen` — Abmahnpruefung
+- `fachanwalt-urheber-medienrecht-gegendarstellung-presse` — Gegendarstellung
+- `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung

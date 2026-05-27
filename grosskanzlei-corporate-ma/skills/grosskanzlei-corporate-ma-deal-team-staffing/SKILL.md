@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-deal-team-staffing
-description: "Deal-Team und Staffing: Plant Workstreams, Rollen, Kapazitaeten, Review-Level und Eskalationswege für große Transaktionen."
+description: "Deal-Team-Besetzung und Staffing-Plan fuer Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Pruefraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan fuer Fristen und zu Konflikt-GwG-Sanktions-Check fuer Mandat-Annahme."
 ---
 
 # Deal-Team und Staffing
@@ -39,3 +39,38 @@ Plant Workstreams, Rollen, Kapazitäten, Review-Level und Eskalationswege für g
 
 - assets/templates/deal-team-staffing-plan.md
 - assets/templates/authority-matrix.md
+
+## Triage
+
+1. Was ist die Deal-Komplexitaet — Gross-Transaktion (Cross-border, Multi-Jurisdiktion) oder Standard-M&A?
+2. Welche Workstreams sind zu besetzen — Corporate, Steuer, Arbeitsrecht, IP, Real Estate, Regulatory, Finance?
+3. Welche Kapazitaeten sind intern verfuegbar — Senior Associate, Associate, Partner?
+4. Sind externe Co-Counsel oder lokale Kanzleien fuer andere Jurisdiktionen erforderlich?
+5. Was ist das Honorarbudget und die Abrechnungsstruktur — Time-Based, Capped Fee, Success Fee?
+
+## Zentrale Rechtsgrundlagen
+
+- § 43a BRAO — Interessenkonflikt innerhalb des Deal-Teams: jeder Teamanwalt muss conflicts-geprueft sein
+- §§ 10, 11 GwG — GwG-Pflichten gelten fuer alle eingebundenen Berufsträger; Teamleiter traegt Gesamtverantwortung
+- § 49b BRAO — Honorarvereinbarung: bei M&A-Mandaten vertragliche Vereinbarung ueber Abrechnungsmodalitaeten; schriftliche Basis empfohlen
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung im Team: fehlende Spezialisierung im Team kann Pflichtverletzung begründen; Teamleiter haftet fuer unzureichendes Staffing
+
+## Kommentarliteratur
+
+- Schramm/Alexander, BRAO, § 49b Rn. 1-40 (Honorarvereinbarung, M&A-Mandate)
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Workstream-Matrix erstellen:** je Workstream: Leader, Reviewer, Associate, Deadline
+2. **Kapazitaetspruefung:** interne Verfuegbarkeit pruefen; bei Engpass: Co-Counsel-Einbindung
+3. **Conflicts-Check fuer gesamtes Team:** § 43a BRAO; alle Teamanwaltseintragungen im Conflicts-System
+4. **Eskalationswege definieren:** wer entscheidet bei Red Flag, Deal-Breaker, Media-Anfragen?
+5. **Honorarstruktur abstimmen:** Budget-Tracking, weekly Status, Kunden-Reporting
+
+## Rote Schwellen
+
+- Workstream ohne qualifizierten Spezialisten: Haftungsrisiko
+- Kein Conflicts-Check fuer Team-Mitglieder: § 43a BRAO-Verstoß

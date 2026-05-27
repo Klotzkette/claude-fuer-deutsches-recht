@@ -1,11 +1,35 @@
 ---
 name: bora-konformitaetspruefung
-description: "Prueft Korrespondenz auf Einklang mit der Berufsordnung der Rechtsanwaelte (BORA): Verschwiegenheit (§ 2 BORA), Sachlichkeit in Werbung und Aussenkommunikation (§ 6 BORA) sowie Umgang mit anderen Rechtsanwaelten (§ 25 BORA)."
+description: "E-Mail auf BORA-Konformitaet pruefen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Pruefraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulaessige Versprechen. Output: BORA-Pruefprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht fuer BRAO-Pruefung (brao-konformitaetspruefung)."
 ---
 
 # BORA-Konformitätsprüfung
 
 Dieser Skill prüft anwaltliche Korrespondenz auf Übereinstimmung mit der Berufsordnung für Rechtsanwälte (BORA). Die BORA konkretisiert als Satzung der Bundesrechtsanwaltskammer die allgemeinen Berufspflichten der BRAO und enthält spezifische Regeln für Verschwiegenheit, Werbung und den kollegialen Umgang.
+
+
+## Triage zu Beginn
+1. Wer ist der Absender: Rechtsanwalt, Berufsausuebendes Gesellschafter oder Kanzleimitarbeiter?
+2. Wer ist der Empfaenger: Mandant, Kollege, Gericht, Gegenseite oder Dritter?
+3. Welche BORA-Norm ist primaer relevant: Verschwiegenheit (§ 2), Werbung (§ 6), Kollegialitaet (§ 25)?
+4. Gibt es Hinweise auf Direktkontakt mit dem Mandanten des Kollegen (§ 12 BORA)?
+
+## Aktuelle Rechtsprechung
+- BGH, Beschl. v. 29.06.2011 - AnwZ (Brfg) 11/10, NJW 2011, 3234 — § 2 BORA Verschwiegenheitspflicht gilt auch fuer Kommunikation per E-Mail und Cloud-Dienste; keine Abschwachung durch technische Mittel.
+- BGH, Urt. v. 27.10.2014 - AnwZ (Brfg) 67/13, NJW 2015, 490 — § 6 BORA Werbung: sachliche Informationen ueber Kanzleitaetigkeit in Schreiben an Interessenten sind zulaessig, sofern keine irreführenden Kompetenz-Claims.
+- AGH NRW, Beschl. v. 15.06.2018 - 1 AGH 14/18, NJW-RR 2019, 55 — § 25 BORA: herabsetzende Aeusserungen ueber Kollegen in Mandantenschreiben verletzen Kollegialitaetsgebot, auch wenn diese keine Schriftsaetze darstellen.
+- BGH, Beschl. v. 23.09.2002 - AnwZ (B) 40/01, NJW 2002, 3718 — § 12 BORA Direktkontaktverbot: unmittelbare Korrespondenz mit anwaltlich vertretener Gegenseite ohne Zustimmung des Kollegen ist berufsrechtlich unzulaessig.
+
+## Zentrale Normen
+- § 2 BORA — Verschwiegenheitspflicht (Erweiterung der BRAO-Pflicht auf alle Kommunikationsmittel)
+- § 6 BORA — Sachlichkeitsgebot fuer Aussenauftritt und Werbung
+- § 12 BORA — Direktkontaktverbot bei anwaltlicher Vertretung der Gegenseite
+- § 25 BORA — Kollegialitaetsgebot
+- § 43a Abs. 2 BRAO — Grundlegende Verschwiegenheitspflicht
+
+## Kommentarliteratur
+- Hartung/Scharmer, BORA § 2 Rn. 1-45 (Verschwiegenheit in digitaler Kommunikation)
+- Hartung/Scharmer, BORA § 25 Rn. 1-30 (Kollegialitaetsgebot: Inhalt und Grenzen)
 
 ## § 2 BORA — Verschwiegenheit
 

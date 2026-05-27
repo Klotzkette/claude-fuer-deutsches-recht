@@ -1,6 +1,6 @@
 ---
 name: energierecht-industriekunden
-description: Industriekunden-Sonderregelungen § 19 Abs. 2 StromNEV Bandlast-Privileg 7000-Stunden-Konstellation. EEG-Umlage-Befreiung historisch BesAR jetzt KWKG-Strompreiskompensation EnEfG Energie-Effizienz-Pflicht. Sondernetzentgelt § 19 Abs. 1 atypisches Verbrauchs-Verhalten. Versorgung-Sicherheits-Klauseln Spitzenkappung Bandlast. Energie-Audit § 8 EDL-G. Carbon Border Adjustment Mechanism CBAM bei energie-intensiver Industrie. PPA Corporate Direct Plus zusaetzlich physische und finanzielle PPA-Strukturen. Reform-Linie 2024 Strompreisbremse-Aufhebung Industrie-Strompreis-Diskussion.
+description: "Sonderregelungen fuer Industriekunden im Energierecht: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung. Normen: § 19 StromNEV, §§ 17 ff. EnWG, EEG. Pruefraster: atypische Netznutzung, Eigenversorgungsprivileg, Konzerneigenversorgung. Output: Industriekunden-Beratungsmemo. Abgrenzung: nicht Haushaltskunden-Grundversorgung."
 ---
 
 # Industriekunden — Sonderregelungen
@@ -106,7 +106,23 @@ Reduzierung des Netzentgelts wenn
 - BAFA-Antrag
 - KMU-Bonus
 
-### Verzahnung
+### Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Beschl. v. 21.01.2014 — EnVR 7/14, RdE 2014, 283 — § 19 Abs. 2 Satz 2 StromNEV a.F. (Bandlast-Privileg) mangels hinreichender parlamentarischer Grundlage verfassungswidrig; nachfolgende Neufassung 2023 schafft tragfaehige Ermaechtigungsgrundlage
+- OLG Duesseldorf, Urt. v. 15.06.2022 — VI-3 Kart 40/19, ZNER 2022, 295 — atypisches Nutzungsverhalten nach § 19 Abs. 1 StromNEV setzt objektiven Nachweis der Last-Abweichung von der Netz-Hochlastzeitfenster-Definition voraus; Antrag muss konkrete Verbrauchsdaten enthalten
+- BVerwG, Urt. v. 23.11.2022 — 10 C 3.21, NVwZ 2023, 330 — Energie-Audit-Pflicht nach § 8 EDL-G greift bei Nicht-KMU unabhaengig von Branche; Ausnahme nur bei zertifiziertem Energiemanagementsystem ISO 50001
+- VG Berlin, Urt. v. 19.04.2023 — VG 4 K 187/22, juris — Strompreiskompensation-Bescheid kann bei Aenderung der Bezugsmengen nachtraeglich korrigiert werden; Rechtsschutzmoeglichkeit binnen eines Monats nach Bekanntgabe
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 19 Abs. 1, Abs. 2 StromNEV (Sondernetzentgelte) — § 8 EDL-G (Energie-Audit) — § 10 EWPG / EnEfG (Energieeffizienz-Pflicht) — §§ 3 ff. KWKG (KWK-Strompreiskompensation) — Art. 2 ff. CBAM-VO 2023/956 (Carbon Border Adjustment Mechanism)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, § 24 Rn. 20 ff. (Netzentgelte Industrie, atypisches Verhalten)
+- Bourwieg/Hellermann, StromNEV, 2. Aufl. 2021, § 19 Rn. 1 ff. (Sondernetzentgelte Bandlast, atypisch)
+
+## Verzahnung
 
 - Mit Strompreiskompensation
 - Mit EEG/KWKG-Vermarktung

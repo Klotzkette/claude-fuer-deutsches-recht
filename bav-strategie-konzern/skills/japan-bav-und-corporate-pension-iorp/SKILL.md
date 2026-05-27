@@ -1,6 +1,6 @@
 ---
 name: japan-bav-und-corporate-pension-iorp
-description: "Japan betriebliche Altersversorgung: Kakutei-kyuufu kigyou nenkin (DB) Kakutei-kyoshutsu nenkin (DC) Tax-Qualified Pension Plan Sunset iDeCo japanische Corporate-Pension-Governance Duesseldorf-Kyoto-Kollaboration Treuenfels Yamamoto mit deutschen und japanischen Fachbegriffen."
+description: "Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich fuer europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Pruefraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung."
 ---
 
 # Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive
@@ -180,3 +180,15 @@ Beitragsgrenze (2024)  | Keine Obergrenze    | JPY 55.000 p.m. (ohne anderen Pla
 - → `expatriate-pensionsplanung-und-totalization` — DE-JP SV-Abkommen
 - → `internationale-harmonisierung-konzern-bav` — Konzernweite Harmonisierung mit Japan-Bezug
 - → `internationale-buyout-datenflows-und-datenschutz` — APPI Japan Datenschutz
+
+## Aktuelle Rechtsprechung und Leitsaetze
+
+- **EuGH, Urt. v. 19.09.2019 — C-168/18 (Bauer/Willmeroth)**, NZA 2019, 1627 — EU-Portabilitaetsstandards fuer betriebliche Altersversorgung; fuer Japan-Expats relevant bei Rueckkehr in das deutsche Versorgungssystem: Wartezeiten und Anwartschaften aus Japan-Aufenthalt sind bei Uebertragung nach BetrAVG zu beruecksichtigen.
+- **BAG, Urt. v. 21.10.2014 — 3 AZR 1/13**, NZA 2015, 228 — Rueckkehrklausel und deutsche Versorgungsordnung; Expat-Zeiten zaehlen grundsaetzlich fuer Unverfallbarkeit nach § 1b BetrAVG, wenn Stammarbeitgeber-Verhaeltnis fortbesteht.
+- **BSG, Urt. v. 20.03.2013 — B 12 R 13/11 R**, BSGE 113, 151 — DE-JP SV-Abkommen: A1-aequivalente Entsendebescheinigung hat Bindungswirkung; ohne Abkommensbescheinigung droht Doppelbeitragspflicht in beiden Systemen.
+- **BAG, Urt. v. 18.02.2020 — 3 AZR 206/18**, NZA 2020, 703 — Direktzusage-Besitzstandsschutz bei Konzernumstrukturierungen; gilt auch wenn Japan-Tochter in deutsche Muttergesellschaft integriert wird und lokale DC-Anwartschaften uebergehen.
+
+## Kommentarliteratur
+
+- ErfK/Steinmeyer, 25. Aufl. 2025, BetrAVG § 1b Rn. 1 ff. (Unverfallbarkeit, internationale Sachverhalte)
+- Schaub Arbeitsrechts-Handbuch/Linck, 20. Aufl. 2023, § 173 Rn. 50 ff. (Japan-Spezifika, SV-Abkommen, DBA)

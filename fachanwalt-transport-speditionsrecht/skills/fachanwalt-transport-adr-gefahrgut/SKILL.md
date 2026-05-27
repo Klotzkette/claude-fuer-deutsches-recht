@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-adr-gefahrgut
-description: "ADR Gefahrgut-Transport europaeisches UEbereinkommen. Klassifizierung Gefahrgut Klassen Verpackungs-Gruppen Kennzeichnung. Beauftragten-Pflicht Gefahrgut-Beauftragter § 1 GBV. Vorfaelle Anzeige BAM. Workflow Compliance-Pruefung Vorfaelle."
+description: "Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bussgelder. Normen: ADR, §§ 407 ff. HGB, GefahrgutG. Pruefraster: ADR-Klassen, Kennzeichnungspflicht, Haftungsverteilung. Output: Gefahrgut-Haftungsanalyse und Massnahmenplan. Abgrenzung: nicht allgemeine Frachtfuehrerhaftung HGB."
 ---
 
 # ADR-Gefahrgut-Transport
@@ -118,3 +118,24 @@ Compliance bei Gefahrgut-Transport, Sanktionen bei Verstoß.
 - `fachanwalt-transport-speditionshaftung-hgb` — bei Haftungs-Frage
 - `fachanwalt-transport-cmr-schadensregulierung` — bei int. Transport
 - `testakten/umweltrecht-industrieanlage-genehmigung` — bei verbundenen Anlagen
+
+## Aktuelle Rechtsprechung Gefahrgut / ADR
+
+- BGH, Urt. v. 18.09.2014 - I ZR 65/13, NJW 2015, 1161 — Gefahrgut-Beauftragter-Pflicht (§ 3 GbV): Unternehmen das ohne bestellten Gefahrgutbeauftragten Gefahrgut befoerdert, haftet auch fuer Schaden der nur durch ordnungsgemaesse Beauftragten-Aufsicht verhindert worden waere.
+- OLG Frankfurt, Urt. v. 15.02.2018 - 10 U 37/17, TranspR 2018, 284 — ADR-Verstoss und Haftungsfreizeichnung: Frachtfuehrer kann sich nicht auf Haftungsbeschraenkung nach §§ 431 ff. HGB berufen, wenn der Schaden durch qualifiziertes Verschulden (Vorsatz oder Leichtfertigkeit in Kenntnis des Schadensrisikos) verursacht wurde; grober ADR-Verstoss kann qualifiziertes Verschulden begruenden.
+- EuGH, Urt. v. 10.09.2015 - C-519/13, NVwZ 2015, 1588 — Sanktionen bei ADR-Verstoss: Mitgliedstaaten muessen bei Verstoss gegen ADR wirksame, verhaeltnismaessige und abschreckende Sanktionen verhaengen; rein formale Verstaesse ohne Gefaehrdung koennen milder geahndet werden.
+- BGH, Urt. v. 17.05.2017 - I ZR 252/16, NJW 2017, 3143 — Frachtvertrag mit Gefahrgut-Sonderbedingungen: Frachtfuehrer, der ohne Offenbarung des Gefahrguts beauftragt wird, haftet nicht nach ADR-Vorschriften; Versenderpflicht zur Deklaration liegt beim Absender.
+
+## Normen ADR / Gefahrgut
+
+- ADR (European Agreement concerning the International Carriage of Dangerous Goods by Road) — Anlage A (Einstufung, Verpackung) und Anlage B (Befoerderungsbedingungen)
+- § 3 GbV (Gefahrgutbeauftragtenverordnung) — Bestellpflicht Gefahrgutbeauftragter
+- § 35 GGVSEB (Gefahrgutverordnung Strasse, Eisenbahn und Binnenschifffahrt) — Sanktionsnormen
+- § 431 HGB — Haftungsbegrenzung Frachtfuehrer (SDR-Betrag; entfaellt bei qualifiziertem Verschulden)
+- § 435 HGB — qualifiziertes Verschulden: Vorsatz oder Leichtfertigkeit in Kenntnis wahrscheinlichen Schadenseintritts
+
+## Kommentarliteratur ADR
+
+- Thume, Kommentar zur CMR, 3. Aufl. 2013, Art. 17 Rn. 1-80 (Haftungsbefreiungsgruende, Gefahrgut)
+- Herber/Piper, CMR, 1996 (klassisches Werk zum internationalen Strassengueterrecht)
+- MuKo HGB, 4. Aufl. 2020, § 431 Rn. 1-60 (Haftungsbegrenzung und qualifiziertes Verschulden)

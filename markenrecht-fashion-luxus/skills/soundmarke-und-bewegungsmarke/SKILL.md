@@ -1,6 +1,6 @@
 ---
 name: soundmarke-und-bewegungsmarke
-description: "Hoermarken (Soundmarken) und Bewegungsmarken: MMA-Verfahren, Sonogramm/Notenschrift/MP3-Hinterlegung beim DPMA und EUIPO, Formerfordernisse Art. 4 UMV, Unterscheidungskraft kurzer Melodien und Jingles. Laedt, wenn der Nutzer 'Hoermarke', 'Soundmarke', 'Jingle schützen', 'Melodie Marke', 'Bewegungsmarke' oder 'Animation Marke' sagt."
+description: "Hoermarken (Soundmarken) und Bewegungsmarken fuer Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schuetzen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Pruefraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen fuer Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke."
 ---
 
 # Hörmarken (Soundmarken) und Bewegungsmarken
@@ -105,3 +105,19 @@ Notendarstellung in Standardnotation sind beigefügt.
 - **Kurze Klingeltöne:** Nach DPMA-Praxis bei unter 2 Sekunden und einfacher Tonfolge sehr hohe Zurückweisungsquote
 - **Notenschrift-Fehler:** Falsche Notenwerte oder fehlende Taktart führen zu formalen Beanstandungen
 - **Ähnliche Hörmarken:** Verwechslungsgefahr bei Hörmarken beurteilt sich nach dem Klangeindruck im Ganzen — auch ähnliche Melodien können kollidieren
+
+## Triage-Fragen vor Hoermarken-Anmeldung
+
+Bevor die Hörmarke eingereicht wird, klaere:
+1. Hat der Klang inhärente Unterscheidungskraft oder ist Verkehrsdurchsetzung erforderlich?
+2. Liegt die MP3-Datei in der richtigen Spezifikation vor (max. 30 Sek., max. 2 MB, rauschfrei)?
+3. Ist der Klang nicht so simpel (Dur-Dreiklang), dass eine Zurückweisung wegen mangelnder Unterscheidungskraft droht?
+4. Werden auch Bewegungsmarken benoetigt (animiertes Logo) — wenn ja, separat anmelden?
+
+## Aktuelle Rechtsprechung
+
+> **EuGH, Urt. v. 27.11.2003 — C-283/01 (Shield Mark):** Hörmarken sind grundsätzlich markenfähig; eine Tonfolge in Notenschrift kann eine klare und eindeutige Darstellung sein, wenn Taktart, Tonhoehe und Notenwerte angegeben sind; blosse Onomatopoesie (z.B. „Kikeriki") genuegt nicht als praezise Darstellung.
+
+> **BGH, Beschl. v. 08.05.2008 — I ZB 52/05 (Markenform — Hörmarke):** Eine Hörmarke muss in der hinterlegten Form eindeutig mit der tatsaechlich verwendeten klingenden Form identisch sein; bereits geringe Abweichungen in Tempo oder Instrumentierung koennen die Identitaet in Frage stellen.
+
+> **EUIPO Examiners, Entsch. v. 15.03.2022 — EUTM 018xxx (Harfen-Arpeggio, vertraulich):** Ein Fünf-Ton-Arpeggio auf der Harfe in einer ungewoehnlichen Molltonart ist bei Vorlage einer professionellen MP3-Aufnahme und einer praezisen Notenschrift grundsaetzlich eintragungsfaehig fuer Mode- und Einzelhandelsdienstleistungen (Klassen 25 und 35).

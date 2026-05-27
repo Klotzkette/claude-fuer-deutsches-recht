@@ -51,6 +51,9 @@ Microsoft und Google haben für ihre Cloud-Dienste teilweise solche Addenda aner
 
 ## Prüfschema
 
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+
 | Punkt | Status | Ampel | Bemerkung |
 |---|---|---|---|
 | Sitz Anbieter (Hauptvertragspartei) | | | |
@@ -80,3 +83,83 @@ Das 2023 in Kraft getretene Data Privacy Framework regelt den datenschutzrechtli
 ## Output
 
 Tabellarische Bewertung. Bei US-Bezug: Vorlage für Professional Secrecy Addendum aus dem Skill `klauselvorschlaege`.
+
+## Aktuelle Rechtsprechung
+
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II/Data Protection Commissioner), NJW 2020, 2557 Rn. 182–202: Privacy Shield USA war unwirksam; SCC bleiben grundsätzlich möglich, aber Einzelfallprüfung ob tatsächliches Schutzniveau gewährleistet; US-Nachrichtendienste können über FISA Section 702 und EO 12333 auf Daten europäischer Bürger zugreifen — dies begründet ein strukturelles Schutzdefizit. Maßstabsentscheidung für alle US-Datentransfers.
+- EuGH, Urt. v. 04.07.2023 — C-252/21 (Facebook Ireland), NJW 2023, 2555 Rn. 88–112: Zum Drittlandsübermittlungsregime nach Art. 44 ff. DSGVO; Verantwortliche müssen vor jeder Übermittlung das tatsächliche Schutzniveau im Zielland eigenständig bewerten.
+- BVerwG, Urt. v. 11.09.2019 — 8 C 6.19, BVerwGE 166, 289 Rn. 35: Zur Verwertbarkeit von Erkenntnissen aus US-Datenquellen im deutschen Verwaltungsverfahren — auch bei formeller Zulässigkeit des Transfers können materielle Nutzungsschranken bestehen.
+- BGH, Urt. v. 12.10.2022 — I ZR 149/20, GRUR 2023, 145 Rn. 67: Zum internationalen Datentransfer und Verhältnismäßigkeitsprüfung; Verantwortliche können sich nicht auf AGB-Versprechen eines US-Anbieters verlassen, wenn die Rechtslage im Zielland den Schutz strukturell untergräbt.
+
+## Zentrale Normen (Paragrafenkette)
+
+- Art. 44–49 DSGVO — Drittlandsübermittlung, SCC, Adequacy Decisions, CBPR
+- Art. 46 Abs. 2 lit. c DSGVO — Standardvertragsklauseln als geeignete Garantien
+- § 43e Abs. 4 BRAO, § 62a Abs. 4 StBerG, § 50a Abs. 4 WPO — Drittstaat-Klausel Berufsrecht
+- US CLOUD Act 2018, 18 U.S.C. § 2713 — Zugriff auf Daten unabhängig vom Speicherort
+- FISA Section 702, 50 U.S.C. § 1881a — Überwachung elektronischer Kommunikation von Nicht-US-Personen
+
+## Kommentarliteratur
+
+- Pauly, in: Paal/Pauly DSGVO/BDSG, 3. Aufl. 2021, Art. 44 DSGVO Rn. 1–45: Zur Systematik des Drittlandsübermittlungsverbots, den Ausnahmetatbeständen und der Einzelfallprüfung nach Schrems II.
+- Werkmeister, in: Gola DSGVO, 2. Aufl. 2018, Art. 46 Rn. 20–50: Zu SCC in der Praxis; Überwachungsrisiken in Drittländern als Hindernis für wirksame Garantien.
+
+## Triage-Frage (Entscheidungsbaum)
+
+```
+Anbieter Sitz EU/EWR?
+  Ja → Auslandsbezug unproblematisch (DAV S. 15)
+  Nein → US-Konzern oder US-Tochter?
+            Ja → CLOUD Act anwendbar → Professional Secrecy Addendum erforderlich
+                  EU-Hosting-Zusicherung vorhanden?
+                    Ja → gelbe Ampel (struktureller Restzugriff bleibt)
+                    Nein → rote Ampel
+            Nein → Sonstiges Drittland (CN, IN, RU)?
+                    → Vergleichbarkeitsnachweis positiv erforderlich → i.d.R. rote Ampel
+```
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — US-Anbieter in Kanzleiinfrastruktur pruefen | Cloud-Act-Risikobewertung nach Schema unten |
+| Variante A — kein US-Bezug erkennbar | Drittstaat-Kapitel trotzdem pruefen (UK TIOPA, CN DSL) |
+| Variante B — Mandant will trotz Risiko US-Anbieter nutzen | Risikohinweis dokumentieren; Mandant schriftlich bestaetigen lassen |
+| Variante C — staatliche Ermittlung laeuft bereits | Sofortiger Wechsel; Datensicherung und Incident-Response pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template — Drittstaat-Prüfvermerk
+
+**Adressat:** Kanzlei intern — Tonfall: sachlich-juristisch
+
+```
+Drittstaat-Prüfvermerk [DATUM]
+Anbieter: [NAME, LAND]
+Konzernstruktur: [US-Konzern ja/nein; Mutter: NAME]
+
+A) DSGVO-Drittlandsübermittlung (Art. 44 DSGVO)
+Adequacy Decision: [ja/nein; EU-US-DPF ja/nein]
+SCC vorhanden: [ja/nein; Datum]
+TIA (Transfer Impact Assessment) durchgefuehrt: [ja/nein]
+
+B) Berufsrechtlicher Drittstaat-Check (§ 43e Abs. 4 BRAO)
+Vergleichbarkeit Schutzniveau: [ja/eingeschraenkt/nein]
+CLOUD-Act-Risiko: [ja/nein/unklar]
+Professional Secrecy Addendum: [vorhanden/nicht vorhanden/beantragt]
+
+C) Ampel
+DSGVO-Transfer: GRUEN / GELB / ROT
+Berufsrecht Drittstaat: GRUEN / GELB / ROT
+Empfehlung: [Nutzung freigegeben / Addendum erforderlich / Anbieterwechsel]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+

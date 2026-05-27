@@ -1,6 +1,6 @@
 ---
 name: unterhalt-duesseldorfer-tabelle
-description: Berechnet Kindesunterhalt nach Duesseldorfer Tabelle und Ehegattenunterhalt (Trennungs- und nachehelicher Unterhalt). Erfasst bereinigtes Nettoeinkommen abzueglich berufsbedingter Aufwendungen 5 Prozent-Pauschale Schulden Vorsorgeaufwendungen Krankenversicherung. Beruecksichtigt Selbstbehalt (notwendiger angemessener Selbstbehalt) Mangelfaelle Erwerbstaetigenbonus Halbteilungsgrundsatz fiktives Einkommen bei Unterhaltsverletzung. Pflicht zur Selbstauskunft § 1605 BGB Verzug nach § 1613 BGB. Quellen Duesseldorfer Tabelle aktuelle Fassung BGH XII. Zivilsenat. Verweist auf Skill mandat-triage-familienrecht fuer Vorabklaerung.
+description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Pruefraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstaetigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt fuer Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt."
 ---
 
 # Unterhalt nach Düsseldorfer Tabelle

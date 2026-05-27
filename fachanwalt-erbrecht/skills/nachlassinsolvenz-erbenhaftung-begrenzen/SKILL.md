@@ -1,188 +1,313 @@
 ---
 name: nachlassinsolvenz-erbenhaftung-begrenzen
-description: Strategien zur Begrenzung der Erbenhaftung bei moeglicherweise ueberschuldetem Nachlass. Optionen Ausschlagung § 1944 BGB sechs Wochen Frist Nachlassverwaltung § 1981 BGB Nachlassinsolvenz § 315 ff. InsO § 1980 BGB Duerftigkeits-Einrede § 1990 BGB Erschoepfungs-Einrede § 1992 BGB. Dreimonats-Einrede § 2014 BGB Aufgebots-Verfahren § 1970 BGB. Vor- und Nachteile der Ausschlagung beim Pflichtteils-Anspruch § 1371 Abs. 3 BGB Schenkungssteuer. Inventarerrichtung § 2002 BGB als Schutzwirkung gegen unbeschraenkte Haftung.
+description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Pruefraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht fuer Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung)."
 ---
 
 # Nachlassinsolvenz und Erbenhaftung begrenzen
 
-## Zweck
+## Mandantenfragen beim Kaltstart
 
-Bei vermutlich überschuldetem Nachlass die Erbenhaftung begrenzen — vom Ausschlagungs-Recht bis zur Nachlassinsolvenz.
+1. Ist der Nachlass überschuldet (Passiva übersteigen Aktiva)? Liegen Schuldenaufstellungen und Vermögensverzeichnisse vor?
+2. Innerhalb welcher Frist nach Erbschaftskenntnis befinden wir uns — noch vor Ablauf der 6-Wochen-Ausschlagungsfrist § 1944 BGB?
+3. Ist der Erblasser Kaufmann gewesen? Besteht Insolvenzantragspflicht über den Nachlass (§ 1980 BGB, §§ 315 ff. InsO)?
+4. Sind mehrere Miterben vorhanden? Haften sie als Gesamtschuldner (§ 2058 BGB)?
+5. Welche Erbenhaftungs-Instrumente stehen noch offen — Inventar, Nachlassverwaltung, Nachlassinsolvenz, Dürftigkeits-Einrede?
+6. Bestehen Pflichtteilsansprüche Dritter, die den Nachlass weiter belasten?
+7. Ist der Erbe Ehegatte des Erblassers — besondere Regelung § 1371 Abs. 3 BGB bei Ausschlagung und Zugewinnausgleich?
+8. Gibt es Verbindlichkeiten aus Bürgschaften, laufenden Verträgen oder offener Steuer des Erblassers?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Eingaben
+## Rechtsgrundlagen
 
-- Sterbeurkunde
-- Vermögensaufstellung (Bekanntes)
-- Schulden-Übersicht
-- Bisherige Erben-Handlungen (Annahme erfolgt? Bestandsaufnahme?)
-- Eigene Vermögenslage des Erben
+| Norm | Inhalt |
+|------|--------|
+| § 1922 BGB | Gesamtrechtsnachfolge — Erbe übernimmt Aktiva und Passiva |
+| § 1944 BGB | Ausschlagungsfrist — 6 Wochen ab Kenntnis; 6 Monate bei Auslandsbezug |
+| § 1945 BGB | Form der Ausschlagung — gegenüber Nachlassgericht; persönlich oder durch Bevollmächtigten |
+| § 1953 BGB | Wirkung der Ausschlagung — Erbe gilt als nicht angefallen; gesetzliche Erbfolge |
+| § 1994 BGB | Inventarfrist — Nachlassgericht kann Frist zur Inventarerrichtung setzen |
+| § 2002 BGB | Inventarerrichtung — vollständiges Verzeichnis Aktiva und Passiva |
+| § 2005 BGB | Folgen unbeschränkter Haftung — bei Inventar-Unterdrückung oder Inventar-Untreue |
+| § 2007 BGB | Folgen mangelhafter Inventarerrichtung |
+| § 1975 BGB | Haftungsbeschränkung — Erbe kann Nachlassverwaltung oder Nachlassinsolvenz beantragen |
+| § 1981 BGB | Nachlassverwaltung — Trennung Eigenvermögen und Nachlass; Befriedigung nur aus Nachlass |
+| § 1990 BGB | Dürftigkeits-Einrede — Erbe kann Befriedigung verweigern wenn Nachlass zur Deckung aller Gläubiger nicht ausreicht |
+| § 1970 BGB | Aufgebotsverfahren — Gläubiger müssen Forderungen innerhalb Aufgebotsfrist anmelden |
+| § 2058 BGB | Gesamtschuldnerische Haftung der Miterben |
+| § 2059 BGB | Haftungsbeschränkung vor Auseinandersetzung — Miterbe haftet nur für seinen Erbteil |
+| § 1980 BGB | Insolvenzantragspflicht — Erbe muss Insolvenz über Nachlass beantragen wenn Überschuldung oder Zahlungsunfähigkeit |
+| §§ 315–331 InsO | Nachlassinsolvenzverfahren — besondere InsO-Vorschriften für Nachlass |
+| § 1371 Abs. 3 BGB | Ehegatte: bei Ausschlagung Zugewinnausgleich und kleiner Pflichtteil nach § 2303 BGB |
 
-## Schritt 1 — Ausschlagung § 1944 BGB
+## Leitentscheidungen
 
-### Frist
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | IV ZR 113/15 | 26.10.2016 | Ausschlagungsfrist § 1944 BGB — Kenntnis erfordert positive Kenntnis von Erbfall und Berufungsgrund; Unkenntnis von Überschuldung keine Anfechtungsgrundlage |
+| BGH | IV ZR 239/12 | 04.06.2014 | Inventarerrichtung § 2002 BGB — Inventar muss vollständig sein; wissentlich unvollständiges Inventar führt zu unbeschränkter Haftung |
+| BGH | IX ZB 70/09 | 06.05.2010 | Nachlassinsolvenz §§ 315 ff. InsO — Erbe kann Insolvenzantrag stellen; Gläubiger auch antragsberechtigt |
+| BGH | IV ZR 177/11 | 07.12.2011 | § 1990 BGB Dürftigkeits-Einrede — Erbe muss Einrede erheben; Gericht kann nicht von Amts wegen |
+| OLG Hamm | 15 W 283/14 | 22.01.2015 | Ausschlagungsanfechtung § 1954 BGB — Irrtum über Überschuldung kann Anfechtungsgrund sein wenn Erbe davon nichts wissen konnte |
 
-- **Sechs Wochen** ab Kenntnis von Anfall und Berufungsgrund
-- **Sechs Monate** wenn Erblasser im Ausland oder Erbe im Ausland
-- Ausschluss-Frist § 1944 Abs. 1 BGB — keine Wiedereinsetzung
+## Prüfschema — Haftungsbegrenzungs-Instrumente
 
-### Form
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-- **Erklärung beim Nachlassgericht** oder
-- **Notariell beglaubigte Erklärung**
 
-### Wirkung
+| Schritt | Instrument | Frist | Voraussetzung | Folge |
+|---------|-----------|-------|--------------|-------|
+| 1 | Ausschlagung § 1944 BGB | 6 Wochen ab Kenntniserlangung | Keine | Erbe gilt als nicht angefallen; vollständige Schuldenbefreiung |
+| 2 | Anfechtung der Ausschlagung | 6 Wochen ab Irrtumskenntnis § 1954 BGB | Anfechtungsgrund (Irrtum, Täuschung) | Rücknahme Ausschlagung; Erbenstellung wieder |
+| 3 | Inventarerrichtung § 2002 BGB | Auf Nachlassgericht-Frist | Erbe hat Erbschaft angenommen | Beweissicherung Aktiva/Passiva; Haftungsbegrenzungsgrundlage |
+| 4 | Nachlassverwaltung § 1981 BGB | Kein gesetzliche Frist; sinnvoll vor Befriedigung Gläubiger | Erbenantrag beim Nachlassgericht | Trennung Eigen- und Nachlassvermögen; Erbe haftet nicht mit Eigenvermögen |
+| 5 | Nachlassinsolvenz §§ 315 ff. InsO | Unverzüglich nach Kenntnis Überschuldung (§ 1980 BGB) | Überschuldung oder Zahlungsunfähigkeit Nachlass | Gesetzliches Verteilungsverfahren; Insolvenzverwalter; pro-rata-Befriedigung |
+| 6 | Dürftigkeits-Einrede § 1990 BGB | Erhebung als Einrede im Prozess | Nachlass reicht für alle Gläubiger nicht aus | Beschränkung Befriedigung auf Nachlassbestand; Eigenvermögen geschützt |
+| 7 | Aufgebotsverfahren § 1970 BGB | Antrag beim Nachlassgericht | Nach Erbschaftsannahme | Bekannte und unbekannte Gläubiger müssen sich melden; Nachlass-Haftungsbeschränkung |
 
-- Erbe gilt als nie geworden § 1953 Abs. 1 BGB
-- Nachrücken nachfolgender Erben (Kinder Geschwister)
-- **Ehegatten-Sonderwirkung** § 1371 Abs. 3 BGB — Ausschlagung behält Pflichtteil und Zugewinn-Ausgleich konkret
+## Instrument 1 — Ausschlagung § 1944 BGB (Priorität bei Überschuldung)
 
-### Vorbedacht Ausschlagung
+### Frist und Form
 
-- **Vermögensaufstellung** geschätzt vor Ausschlagung
-- **Steuer-Wirkung** Schenkungssteuer / Erbschaftsteuer
-- **Folgen für Kinder** — bei Ausschlagung wird Kind Erbe
+- **6 Wochen** ab Kenntnis von Berufung als Erbe und des Grundes der Berufung (Testament, gesetzliche Erbfolge)
+- **6 Monate** wenn Erblasser oder Erbe ihren letzten gewöhnlichen Aufenthalt im Ausland hatten
+- **Form:** Erklärung gegenüber dem Nachlassgericht; persönlich oder durch Notar-beglaubigte Vollmacht
+- **Keine Fristverlängerung** grundsätzlich; Fristversäumnis = Erbschaftsannahme
 
-## Schritt 2 — Inventar errichten § 2002 BGB
+### Praktische Hinweise
 
-### Frist
+- Frist beginnt mit **positiver Kenntnis** — nicht mit Verdacht oder Möglichkeit der Kenntnisnahme (BGH IV ZR 113/15)
+- Bei Überschuldungsverdacht: unverzüglich Nachlass-Überblick verschaffen; keine Aktivitäten, die Erbschaftsannahme implizieren (Konten-Abhebungen, Schuldenbegleichung aus eigenem Vermögen)
+- Konkludente Erbschaftsannahme: Zahlung von Erblasserschulden, Inbesitznahme Nachlassgegenstände, Antrag auf Erbschein
 
-- **Nachlassgericht setzt Frist auf Antrag eines Nachlassgläubigers** § 1994 Abs. 1 Satz 1 BGB (Glaubhaftmachung der Forderung erforderlich)
-- Bei Versäumnis unbeschränkte Haftung § 1994 Abs. 1 Satz 2 BGB
-- Freiwillige Inventarerrichtung ohne Antrag jederzeit möglich (§ 1993 BGB)
+### Wirkung der Ausschlagung
 
-### Schutzwirkung
+- Erbe gilt als nicht angefallen § 1953 BGB
+- Gesetzliche Erbfolge tritt ein (ggf. nächste Erbordnung)
+- **Wichtig für Ehegatten:** Ausschlagung + Zugewinnausgleich nach § 1371 Abs. 3 BGB möglich — kann wirtschaftlich günstiger sein als Erbschaftsannahme mit Überschuldung
 
-- Bei Errichtung beschränkte Haftung Nachlass
-- Schutz gegen Erben-Eigenvermögens-Haftung
+## Instrument 2 — Inventarerrichtung §§ 1994, 2002 BGB
 
-## Schritt 3 — Nachlassverwaltung § 1981 BGB
+### Zweck
 
-### Antrag
+Das Inventar ist das vollständige Verzeichnis des Nachlasses (Aktiva und Passiva). Es dient als Grundlage für Haftungsbeschränkungen und Pflichtteilsberechnungen.
 
-- Antrag des Erben oder eines Nachlass-Gläubigers
-- Beim Nachlassgericht
+### Inhalt des Inventars
 
-### Wirkung
+- Alle Aktiva: Bankguthaben, Wertpapiere, Immobilien, Krypto-Assets, Fahrzeuge, Hausrat
+- Alle Passiva: Schulden, Bürgschaften, Verbindlichkeiten, Unterhaltsrückstände, Steuerschulden
+- Schenkungen der letzten 10 Jahre (§ 2325 BGB — Pflichtteilsergänzung)
+- Wert zum Todestag
 
-- Haftung begrenzt auf Nachlass
-- Nachlassverwalter übernimmt Verfügung
-- Eigenvermögen geschützt
+### Folgen mangelhaften Inventars
 
-### Kosten
+- Wissentlich unvollständig → unbeschränkte Haftung § 2005 BGB
+- Wesentliche Auslassungen → Verlust der Haftungsbeschränkung
 
-- Vergütung Nachlassverwalter aus Nachlass
+## Instrument 3 — Nachlassverwaltung § 1981 BGB
 
-## Schritt 4 — Nachlassinsolvenz § 1980 BGB
+**Voraussetzung:** Antrag des Erben beim Nachlassgericht (zuständig: AG Nachlassgericht am letzten Wohnsitz Erblasser)
 
-### Antragspflicht
+**Wirkung:**
+- Treuhandverwaltung des Nachlasses durch bestellten Nachlassverwalter
+- Eigenvermögen des Erben vollständig geschützt
+- Gläubiger können nur auf Nachlass zugreifen, nicht auf Eigenvermögen des Erben
+- Erbe wird von Nachlassverwaltung entlastet
 
-- Erbe muss Antrag stellen wenn Zahlungsunfähigkeit oder Überschuldung des Nachlasses erkannt
-- **§ 1980 Abs. 1 BGB** Pflicht zur unverzüglichen Antragstellung
-- Bei Verletzung Schadensersatz-Haftung gegenüber Nachlassgläubigern
+**Kosten:** Nachlassverwalter erhält angemessene Vergütung aus dem Nachlass
 
-### Verfahren
+**Sinnvoll wenn:**
+- Nachlass-Überschuldung nicht sicher aber möglich
+- Komplexer Nachlass mit unklarer Verbindlichkeitensituation
+- Mehrere Gläubiger, unklare Rangfolge
 
-- §§ 315 ff. InsO — Sonderform der Insolvenz
-- Insolvenzverwalter abwickelt
-- Erbe behält Eigenvermögen geschützt
+## Instrument 4 — Nachlassinsolvenz §§ 315–331 InsO
 
-### Beendigung Verfahren
+**Antragsberechtigt:**
+- Erbe (§ 317 InsO) — Pflicht bei Kenntnis Überschuldung/Zahlungsunfähigkeit (§ 1980 BGB)
+- Nachlassgläubiger
+- Nachlassverwalter
 
-- Mit Aufhebung bei Verteilung Masse
-- Mangels Masse Abweisung — dann Dürftigkeits-Einrede
+**Eröffnungsvoraussetzung:**
+- Zahlungsunfähigkeit oder Überschuldung des Nachlasses
+- Keine Massearmut (Kosten des Verfahrens müssen aus Masse gedeckt sein)
 
-## Schritt 5 — Dürftigkeits-Einrede § 1990 BGB
+**Besonderheiten Nachlassinsolvenz:**
+- Insolvenzverwalter verwaltet Nachlass getrennt vom Eigenvermögen des Erben
+- Pro-rata-Befriedigung der Gläubiger nach Insolvenzordnung (§§ 38–55 InsO)
+- Erbe haftet nicht persönlich für Restschulden nach Verfahrensabschluss
 
-### Voraussetzung
+**Pflicht nach § 1980 BGB:**
+- Erbe muss **unverzüglich** Insolvenzantrag stellen wenn Überschuldung oder Zahlungsunfähigkeit bekannt
+- Bei Verletzung: Schadensersatz gegenüber Nachlassgläubigern
 
-- Nachlass-Insolvenz-Antrag wegen Massearmut zurückgewiesen
-- Eingeschränkte Haftung des Erben
+## Instrument 5 — Dürftigkeits-Einrede § 1990 BGB
 
-### Wirkung
+**Anwendung:**
+- Wenn Nachlassverwaltung oder -insolvenz nicht angeordnet/beantragt
+- Erbe kann Befriedigung auf Nachlassbestand beschränken
+- Einrede muss aktiv erhoben werden (BGH IV ZR 177/11)
 
-- Haftung nur auf vorhandenen Nachlass beschränkt
-- Erbe muss Nachlass-Gegenstände nicht verkaufen außer dem zur Befriedigung erforderlichen Maß
-- Eigenvermögen vollständig geschützt
+**Wirkung:**
+- Gläubiger können Herausgabe der Nachlassgegenstände verlangen
+- Befriedigung nur aus vorhandenem Nachlass
+- Eigenvermögen des Erben bleibt vollständig geschützt
 
-## Schritt 6 — Erschöpfungs-Einrede § 1992 BGB
+**Schriftsatz-Muster Einrede:**
+```
+Wir erheben hiermit die Dürftigkeits-Einrede nach § 1990 BGB.
+Der Nachlass reicht zur Befriedigung aller Nachlassgläubiger
+nicht aus. Die Befriedigung Ihrer Forderung in Höhe von EUR [X]
+kann daher nur aus dem vorhandenen Nachlass erfolgen.
+```
 
-- Bei Nachlass-Vermächtnissen und Auflagen
-- Schutz wenn diese den Nachlass erschöpfen
+## Instrument 6 — Aufgebotsverfahren § 1970 BGB
 
-## Schritt 7 — Dreimonats-Einrede § 2014 BGB
+**Zweck:** Bekannte und unbekannte Gläubiger zur Anmeldung ihrer Forderungen auffordern.
 
-- In den ersten drei Monaten nach Erbschafts-Annahme
-- Erbe kann Befriedigung der Gläubiger verweigern
-- Schutz für Übergangs-Zeitraum
+**Wirkung:** Gläubiger, die sich nicht melden, werden bei der Nachlassverteilung nachrangig behandelt.
 
-## Schritt 8 — Aufgebotsverfahren § 1970 BGB
+**Verfahren:**
+1. Antrag beim Nachlassgericht
+2. Öffentliche Bekanntmachung
+3. Anmeldefrist (regelmäßig 6 Wochen bis 3 Monate)
+4. Ausschluss nicht gemeldeter Gläubiger von vordringlicher Befriedigung
 
-- Aufruf der Gläubiger durch öffentliche Bekanntmachung
-- Frist zur Anmeldung
-- Bei Nicht-Anmeldung Ausschluss
-- Erben-Schutz gegen verspätete Gläubiger-Forderungen
+## Besonderheit: Ehegatte und § 1371 Abs. 3 BGB
 
-## Schritt 9 — Schritt-für-Schritt-Strategie
+Schlägt der überlebende Ehegatte die Erbschaft aus:
+- **Kein erbrechtlicher Zugewinnausgleich** (§ 1371 Abs. 1 BGB entfällt)
+- **Dafür**: Güterrechtlicher Zugewinnausgleich nach §§ 1373 ff. BGB
+- **Kleiner Pflichtteil** nach § 2303 BGB als gesetzlicher Erbteil ohne Zugewinnzuschlag
+- **Wirtschaftlich günstiger** wenn Erbschaft überschuldet, Zugewinn aber erheblich
 
-### Sofortige Maßnahmen
+## Strategische Optionen (vor dem Template entscheiden)
 
-1. Sterbe-Urkunde besorgen
-2. Vermögens-Übersicht erstellen
-3. Schulden-Sammlung (Bank Krankenkasse Vermieter Versicherungen)
-4. Bei Verdacht Überschuldung Ausschlagungs-Frist im Blick
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-### Bewertungs-Phase
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Erbenhaftung begrenzen | Instrumente 1-6 sequenziell pruefen; Schriftsatzbausteine unten |
+| Variante A — Uebersch-Uldung des Nachlasses klar | Ausschlagung § 1944 BGB priorisieren; Frist 6 Wochen |
+| Variante B — Nachlasswert unklar | Inventar § 1994 BGB aufnehmen; Haftungsbeschraenkung sichern |
+| Variante C — mehrere Glaeubiger draengen | Nachlassverwaltung oder Nachlassinsolvenz als Gesamtloesung |
 
-1. Bei klar überschuldet — Ausschlagung
-2. Bei unklarer Lage — Nachlassverwaltung beantragen
-3. Bei begrenzbaren Risiken — Inventar errichten
-4. Bei klar werthaltigem Nachlass — Annahme
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-### Bei späteren Überraschungen
+## Schriftsatz-Bausteine
 
-- Verspätet auftretende Schulden — Aufgebotsverfahren
-- Bei Überschuldungs-Erkenntnis Nachlassinsolvenz-Antrag
+### Ausschlagungserklärung
 
-## Schritt 10 — Pflichtteils-Recht beim Ausschlagen § 1371 Abs. 3 BGB
+```
+Nachlassgericht [Amtsgericht]
+Geschäftszeichen: [Az.]
 
-- Ehegatten-Sondernorm
-- Bei Ausschlagung behält Ehegatte Anspruch auf Pflichtteil plus konkreten Zugewinn
+Ausschlagungserklärung nach § 1945 BGB
 
-## Schritt 11 — Steuerliche Aspekte
+[Name, Adresse des Erben]
 
-- **Erbschaftsteuer** bei Annahme
-- **Schenkungssteuer** bei Auseinandersetzung mit anderen Erben
-- **Anrechnung lebzeitiger Schenkungen** bei Erbschaftsteuer
-- Vergleich Skill `pflichtteil-berechnen` mit steuerlicher Beratung
+erkläre hiermit die Ausschlagung der Erbschaft nach dem am
+[Datum] verstorbenen [Name Erblasser], zuletzt wohnhaft
+[Adresse].
 
-## Schritt 12 — Verträge gegen Erblasser-Wille
+Die Ausschlagung erfolgt fristgerecht. Der Erbfall wurde
+mir am [Datum] bekannt.
 
-- Ungültige Letztwillige Verfügung — Anfechtung § 2082 BGB
-- Erb-Vertrag-Aufhebung
-- Pflichtteilsverzicht grundsätzlich wirksam bei notarieller Form § 2346 Abs. 2 iVm § 2348 BGB; Nichtigkeit nach § 138 BGB nur in besonderen Einzelfällen (z. B. Sittenwidrigkeit gegenüber behindertem Sozialhilfeempfänger ist nach BGH IV ZR 7/10 vom 19.01.2011 gerade nicht gegeben)
+Datum, Unterschrift
+[Hinweis: Bei notariellem Vorgehen: Notarielle Beglaubigung]
+```
 
-## Praktische Checkliste
+### Antrag Nachlassverwaltung
 
-- Ausschlagungs-Frist im Auge — sofort Datum notieren
-- Vermögensaufstellung
-- Schulden-Inventur
-- Nachlassgericht-Mitteilung wenn Frist knapp
-- Steuer-Beratung einbinden
-- Familien-Konstellation berücksichtigen (Nachrücken Kinder)
+```
+Nachlassgericht [Amtsgericht]
+Betreff: Antrag auf Nachlassverwaltung nach § 1981 BGB
 
-## Ausgabe
+Antragsteller: [Name, Adresse] — Erbe nach [Erblasser]
 
-- `erbenhaftung-analyse.md` strukturiert
-- Strategie-Empfehlung mit Risikoabwägung
-- Ausschlagungs-Erklärung als Entwurf (notariell oder Nachlassgericht)
-- Antrag Nachlassverwaltung-Vorbereitung
-- Frist im Fristenbuch (Ausschlagung sechs Wochen Inventar nach gerichtlicher Anordnung)
-- Steuer-Hinweis
+Es wird beantragt, für den Nachlass nach dem am [Datum]
+verstorbenen [Name] Nachlassverwaltung anzuordnen.
+
+Begründung: Der Nachlass ist nach vorläufiger Prüfung
+überschuldet / die Schuldenlage ist unklar. Zum Schutz
+der Nachlassgläubiger und zur Trennung von Eigenvermögen
+wird Nachlassverwaltung beantragt.
+
+Vorläufige Vermögensaufstellung:
+Aktiva: EUR [ca. X]
+Passiva: EUR [ca. Y]
+Saldo: EUR [-Z]
+
+[Unterschrift Erbe]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+
+## Beweislast
+
+| Partei | Beweislastgegenstand | Beweismittel |
+|--------|---------------------|--------------|
+| Erbe | Fristgemäße Ausschlagung | Eingangsstempel Nachlassgericht; Einschreiben |
+| Erbe | Kenntnis-Zeitpunkt für Fristbeginn | Schreiben von Gläubigern, Verwandten; Datum Erbschein-Einsicht |
+| Erbe | Inventar vollständig und richtig | SV-Bewertung; Bankbescheinigungen; Grundbuchauszüge |
+| Erbe | Dürftigkeit des Nachlasses § 1990 BGB | Vermögensverzeichnis; Schulden-Aufstellung |
+| Gläubiger | Forderung gegen den Nachlass | Urkunden, Kreditvertrag, Schuldtitel |
+
+## Fristen
+
+| Frist | Auslöser | Dauer | Folge |
+|-------|---------|-------|-------|
+| Ausschlagung § 1944 BGB | Kenntnis von Erbfall + Berufungsgrund | 6 Wochen (6 Monate Auslandsbezug) | Annahme der Erbschaft kraft Gesetzes |
+| Inventarfrist § 1994 BGB | Nachlassgericht-Aufforderung | Mind. 1 Monat | Unbeschränkte Haftung bei Nichteinhaltung |
+| Insolvenzantragspflicht § 1980 BGB | Kenntnis Überschuldung/Zahlungsunfähigkeit | Unverzüglich | Schadensersatz gegenüber Gläubigern |
+| Aufgebotsverfahren § 1970 BGB | Antrag Nachlassgericht | Anmeldefrist in Bekanntmachung | Ausschluss verspäteter Gläubiger |
+| Anfechtung der Ausschlagung § 1954 BGB | Kenntnis des Anfechtungsgrundes | 6 Wochen | Verlust Anfechtungsrecht |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument Gläubiger | Reaktion |
+|------------------------|---------|
+| „Erbe hat Erbschaft konkludent angenommen" | Prüfung ob Inbesitznahme, Schuldenbegleichung etc. erfolgt ist; ggf. Anfechtung § 1954 BGB |
+| „Frist § 1944 BGB abgelaufen" | Anfechtung der Annahme § 1954 BGB wenn Irrtum über Überschuldung (OLG Hamm 15 W 283/14) |
+| „Dürftigkeits-Einrede nicht rechtzeitig erhoben" | § 1990 BGB-Einrede kann noch im Prozess erhoben werden solange keine Befriedigung erfolgt |
+| „Nachlassinsolvenz zu spät" | § 1980 BGB: Ersatz-Haftung des Erben für Verzögerungsschaden; Minderung durch frühestmögliche Antragstellung |
+| „Nachlassverwaltung nicht beantragt" | Noch möglich solange kein Insolvenzverfahren eröffnet |
+
+## Streitwert und Kosten
+
+**Kosten Ausschlagung:** Nachlassgericht-Gebühr nach GNotKG (Nachlass-Wert-abhängig; oft EUR 50–300)
+
+**Kosten Nachlassverwaltung:** Verwalterhonorar aus Nachlass (4–6 % bei Standardabwicklung)
+
+**Kosten Nachlassinsolvenz:** Mindestkostendeckung erforderlich; bei Massearmut Abweisung mangels Masse
+
+**RA-Gebühren:** Streitwert = Nachlasswert; VV-RVG bei EUR 100.000 ca. EUR 3.000–5.000 pro Partei
+
+## Strategische Empfehlung
+
+| Strategie | Empfehlung | Begründung |
+|-----------|-----------|------------|
+| Sofortmaßnahme | Keine Handlungen vor Entscheidung über Ausschlagung | Konkludente Annahme vermeiden |
+| Frist-Priorität | 6-Wochen-Frist § 1944 BGB im Blick behalten | Absolutfrist; kein Ermessen des Gerichts |
+| Schulden-Überblick | Vollständige Aufstellung Aktiva/Passiva vor Entscheidung | Grundlage Ausschlagungsentscheidung |
+| Ehegatten-Strategie | § 1371 Abs. 3 BGB-Option bei überschuldetem Nachlass mit positivem Zugewinn prüfen | Wirtschaftlich oft günstigste Lösung |
+| Insolvenzantrag | Bei klarer Überschuldung unverzüglich stellen | Persönliche Haftung des Erben nach § 1980 BGB vermeiden |
+
+## Anschluss-Skills
+
+- `fachanwalt-erbrecht-krypto-wallet-nachlass-multisig` — bei digitalem Nachlass in der Insolvenzprüfung
+- `pflichtteil-berechnen` — Pflichtteilsberechnung nach Ausschlagung
+- `fachanwalt-erbrecht-testamentsvollstreckung` — TV-Abwicklung bei komplexem überschuldetem Nachlass
 
 ## Quellen
 
-- BGB §§ 1944 1953 1970 1980 1981 1990 1992 1994 2002 2014 2082 1371
-- InsO §§ 315 ff.
-- BGH IV. Zivilsenat
-- MüKoBGB Erbrecht
-- Burandt/Rojahn Erbrecht
+- BGB §§ 1922, 1944, 1945, 1953, 1954, 1970, 1975, 1980, 1981, 1990, 1994, 2002, 2005, 2007, 2058, 2059, 1371
+- InsO §§ 315–331
+- BGH IV ZR 113/15 (26.10.2016)
+- BGH IX ZB 70/09 (06.05.2010)
+- BGH IV ZR 177/11 (07.12.2011)
+- MüKoBGB Erbrecht, §§ 1975 ff.
+- Stand: 05/2026

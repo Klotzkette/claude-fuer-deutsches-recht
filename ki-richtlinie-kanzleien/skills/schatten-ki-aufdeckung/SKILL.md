@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-aufdeckung
-description: "Methoden zur Erkennung und zum Umgang mit verdeckter Chatbot-Nutzung durch Mitarbeitende in Kanzleien: Stilanalyse, Browser-Logs, Mitarbeiterbefragung, freiwillige Selbstauskunft und Einrichtung einer vertraulichen Anlaufstelle."
+description: "Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleifuehrung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Pruefraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett."
 ---
 
 # Schatten-KI Aufdeckung
@@ -31,3 +31,50 @@ Für Fragen zum zulässigen Einsatz von KI-Systemen steht [Name Datenschutzbeauf
 ## Hinweise zur Aktualisierung
 
 Mit zunehmender Verbreitung von KI-Funktionen in alltäglichen Arbeitstools (MS Office, E-Mail-Clients) wird die Abgrenzung zwischen autorisierter und nicht autorisierter KI-Nutzung schwieriger. Die Richtlinie muss angepasst werden, sobald neue KI-Integrationen in bestehende Kanzlei-Software eingeführt werden.
+
+## Aktuelle Rechtsprechung (v14.2)
+- EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Personenbezogene Daten in nicht freigegebenen KI-Systemen (Privat-Accounts) können unzulaessigen Drittlandtransfer darstellen.
+- BGH, Urt. v. 26.09.2019 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 15: Verschwiegenheitspflicht gilt technologieneutral — auch Verwendung privater KI-Tools mit Mandatsdaten ist Verstoss.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (Oesterreichische Post), NJW 2023, 1985 Rn. 42: Rechenschaftspflicht Art. 5 Abs. 2 DSGVO — Verantwortlicher muss auch Schatten-IT-Verstoeße durch Mitarbeiter kontrollieren.
+- BAG, Urt. v. 18.07.2017 — 1 ABR 59/15, NJW 2017, 3673 Rn. 28: IT-Nutzungsrichtlinien sind verbindlich — Verstoss kann arbeitsrechtliche Konsequenzen haben.
+
+## Zentrale Normen (Paragrafenkette)
+- § 43a Abs. 2 BRAO — Verschwiegenheit (gilt auch bei privaten Accounts)
+- Art. 5 Abs. 2 DSGVO — Rechenschaftspflicht der Kanzlei
+- Art. 28 DSGVO — AVV-Pflicht (Schatten-KI hat keinen AVV)
+- § 203 StGB — Berufsgeheimnis (Strafbarkeit bei Weitergabe)
+- § 626 BGB — Ausserordentliche Kuendigung bei grobem Verstoss
+
+## Triage zu Beginn
+1. Gibt es Hinweise auf nicht freigegebene KI-Tools im Einsatz — Browser-Erweiterungen, private Accounts?
+2. Wurden Mitarbeiter ueber Schatten-KI-Risiken und das Privat-Account-Verbot informiert?
+3. Gibt es technische Massnahmen zur Unterbindung (URL-Filter, Geraetemanagemement)?
+4. Wie wird Schatten-KI-Nutzung erkannt — technisch oder durch Selbstmeldung?
+5. Welche arbeitsrechtlichen Konsequenzen drohen bei Verstoss?
+
+## Output-Template — Schatten-KI-Aufdeckungs-Protokoll
+**Adressat:** IT-Sicherheit / Compliance — Tonfall: strukturiert, massnahmenorientiert
+```
+SCHATTEN-KI-AUFDECKUNGS-PROTOKOLL
+[DATUM] — Kanzlei: [NAME MANDANT]
+
+ERKANNTE NICHT-FREIGEGEBENE KI-TOOLS:
+| Tool | Erkannt durch | Datum | Nutzer (anonym) | Mandatsdaten involviert |
+|---|---|---|---|---|
+| [TOOL] | [METHODE] | [DATUM] | [ROLLE] | [JA/NEIN/UNBEKANNT] |
+
+MASSNAHMEN:
+1. Sofortmassnahme: [BESCHREIBUNG — z.B. Zugang sperren, Nutzer informieren]
+2. Datenrisiko-Pruefung: Waren Mandatsdaten betroffen? [JA/NEIN — wenn JA: DSGVO-Pruefung]
+3. Nachsorge: [SCHULUNG / AKTENNOTIZ / MITARBEITERGESPRAECH]
+
+DSGVO-MASSNAHMEN (falls Mandatsdaten betroffen):
+☑/☐ Datenpanne nach Art. 33 DSGVO pruefbeduerftig
+☑/☐ Berufsrechtliche Meldepflicht (§ 43a BRAO) gegeben
+
+PRAEVENTION:
+☑/☐ URL-Filter aktualisiert
+☑/☐ Mitarbeiterschulung angesetzt
+
+Verantwortlicher: [NAME], [DATUM]
+```

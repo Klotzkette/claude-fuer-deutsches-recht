@@ -1,6 +1,6 @@
 ---
 name: bilanzieller-status-aufnehmen
-description: Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Pruefraster bilanzielle Ueberschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und ausserbilanzielle Verpflichtungen (Pensionsrueckstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Ueberschuldung ist nicht automatisch insolvenzrechtliche Ueberschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose).
+description: "Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Pruefraster bilanzielle Ueberschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und ausserbilanzielle Verpflichtungen (Pensionsrueckstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Ueberschuldung ist nicht automatisch insolvenzrechtliche Ueberschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose)."
 ---
 
 # Bilanzieller Status aufnehmen
@@ -133,3 +133,28 @@ Ergebnis: trotz **bilanzieller Überschuldung von 82.000 EUR** ist die **insolve
 - `bilanzieller-status.yaml` mit Stichtag Bilanzwerten stillen Reserven Lasten Rangrücktritt und insolvenzrechtlicher Bilanzbasis.
 - Erste Ergebnisaussage (insolvenzrechtliche Bilanzbasis positiv / negativ).
 - Empfehlung: bei negativer Bilanzbasis ohne Aussicht auf Fortbestehensprognose **sofort** Insolvenzanwalt — § 15a InsO Sechs-Wochen-Frist beginnt zu laufen.
+
+
+## Aktuelle Leitentscheidungen — Bilanzieller Status
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Ueberschuldungs-Pruefung § 19 InsO: bilanzieller Ueberschuldungsstatus als erste Stufe; Fortbestehensprognose heilt nur wenn Ueberwiegendes-Wahrscheinlichkeits-Standard erfuellt; stille Reserven duerfen bilanziellen Status korrigieren wenn nachgewiesen.
+- BGH, Urt. v. 05.02.2007 — II ZR 234/05, NZI 2007, 419 — Ansatz stiller Reserven: Zeitwerte der Aktiva (nicht Buchwerte) fuer insolvenzrechtlichen Ueberschuldungsstatus massgeblich; Verkehrswert-Gutachten erforderlich wenn erhebliche Differenz zu Bilanzwert.
+- BGH, Urt. v. 23.06.1997 — II ZR 220/95 — Patronatserklaerung im bilanziellen Status: harte externe Patronatserklaerung kann Passivierung des Gesellschafterdarlehens verhindern wenn Patronatserklaerung Insolvenz-fest formuliert (BGH II ZR 174/00 Kriterien).
+- BGH, Urt. v. 08.01.2001 — II ZR 88/99, NJW 2001, 1280 — Qualifizierter Rangruecktritt: Gesellschafterdarlehen nicht passivierbar wenn Rangruecktritt § 19 Abs. 2 S. 2 InsO-konform formuliert (Erstrang nach Insolvenzglaeubigern und Geschaeftsbeendigung).
+
+## Paragrafenkette Bilanzieller Status
+
+§ 19 Abs. 2 InsO (Ueberschuldungsbegriff) → § 19 Abs. 2 S. 2 InsO (qualifizierter Rangruecktritt) → § 35 Abs. 1 InsO (Massebegriff stille Reserven) → HGB §§ 252-255 (Bewertungsgrundsaetze) → IDW S 11 Rn. 20-42 (Status-Ermittlung)
+
+## Triage — Bilanzieller Status
+
+1. **Stichtag festlegen:** Welches Datum hat der Status? (aktuellstes Datum mit verlaesslichen Daten)
+2. **Stille Reserven identifizieren:** Grundstuecke zum Buchwert vs. Verkehrswert; Forderungen vs. Marktpreis; Beteiligungen.
+3. **Ausserbilanzielle Verpflichtungen:** Pensionen, Buergschaften, noch nicht ausgewiesene Verluste aus schwebenden Geschaeften.
+4. **Sanierungsmassnahmen einbeziehen?** Gesellschafterdarlehen mit Rangruecktritt, Patronatserklaerung, Kapitalzufuhr — bereits vorhanden oder noch planerisch?
+
+## Kommentarliteratur
+
+- IDW S 11, Stand 11/2022 Rn. 20-42 — Insolvenzstatus und bilanzielle Ueberschuldung.
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 1-50 — Zweistufiger Ueberschuldungsbegriff und Bewertung.
+- Uhlenbruck/Mock § 19 InsO Rn. 1-30 — Bilanzieller Status und Ansatzfragen.

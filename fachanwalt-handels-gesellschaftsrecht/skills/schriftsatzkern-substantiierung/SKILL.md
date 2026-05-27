@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Anfechtungs-/Nichtigkeitsklage GV-Beschluss, Auskunftsklage, Squeeze-out: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Anfechtungs-/Nichtigkeitsklage GV-Beschluss, Auskunftsklage, Squeeze-out: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Handels- und Gesellschaftsrecht
@@ -193,3 +193,22 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Vertiefung — Rechtsprechung Gesellschaftsrechts-Schriftsatz
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 04.11.2002 — **II ZR 224/00**, BGHZ 152, 280 Rn. 14: Im Haftungsprozess gegen GmbH-Geschäftsführer (§ 43 GmbHG) muss die Gesellschaft nur dartun und beweisen, dass ein pflichtwidriges Handeln des Geschäftsführers und ein Schaden entstanden sind; der Geschäftsführer trägt dann Beweislast dafür, dass er den Sorgfaltsmaßstab eingehalten hat (§ 93 Abs. 2 Satz 2 AktG analog).
+
+BGH, Urt. v. 20.03.2018 — **II ZR 293/16**, NJW 2018, 1889 Rn. 18: Bei Beschlussanfechtungsklagen nach § 246 AktG und analog bei der GmbH muss der Schriftsatz den konkreten Beschlussmangel (Verfahrensfehler oder inhaltliche Unwirksamkeit) darlegen; pauschaler Hinweis auf Formfehler ohne Substanziierung genügt nicht — Klageschrift muss Beschlusstext, Beschlussfehler und Kausalität für den Fehler konkret benennen.
+
+BGH, Urt. v. 14.07.2009 — **II ZR 17/08**, BGHZ 182, 1 Rn. 12: Bei Handelsvertreterausgleich § 89b HGB muss die Berechnung im Schriftsatz die fünf Berechnungsschritte (Rohausgleich, Billigkeit, gesetzliche Höchstgrenze, Kürzungen) nachvollziehbar darlegen; bloße Nennung einer Ausgleichssumme ohne Herleitung ist nicht substantiiert.
+
+### Normen-Ergänzung
+
+§ 43 GmbHG (Haftung, Beweislast) → § 93 Abs. 2 Satz 2 AktG (Beweislastumkehr analog) → § 246 AktG (Beschlussanfechtung, Monatsfrist) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 1, 3 UmwG (Umwandlungsmaßnahmen, Protokoll) → § 89b HGB (Handelsvertreterausgleich, Berechnung) → § 138 Abs. 2, 3 ZPO (Substantiierungspflicht, qualifiziertes Bestreiten)
+
+### Kommentarliteratur
+
+- Hüffer/Koch, AktG, 16. Aufl. 2024, §§ 241-261: Beschlussanfechtung; Substantiierungsanforderungen; Heilungsmöglichkeiten.
+- Baumbach/Hueck, GmbHG, 23. Aufl. 2022, § 43: Beweislastverteilung Geschäftsführerhaftung; Schriftsatz-Standards.

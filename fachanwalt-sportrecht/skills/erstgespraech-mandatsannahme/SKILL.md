@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: Strukturierter Erstgespraechsleitfaden fuer Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+description: "Strukturierter Erstgespraechsleitfaden fuer Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Sport- und Sponsoringrecht
@@ -151,3 +151,18 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
 - Kanzlei-Allgemein-Plugin `kanzlei-allgemein` fuer Konflikt-, GwG- und PEP-Pruefroutinen.
+
+## Aktuelle Rechtsprechung Erstgespraech Sportrecht
+
+- BGH, Urt. v. 28.11.2005 - II ZR 355/03, NJW 2006, 598 — Vereinsstrafrecht: ordentliche Gerichte pruefen Vereinssanktionen auf Verfahrensgerechtigkeit und Willkuerfreiheit; Verbandsstrafen muessen auf einer Satzungsgrundlage beruhen und verhaeltnismaessig sein.
+- BVerfG, Beschl. v. 24.09.2009 - 1 BvR 1842/09 — Vereinsausschluss: Grundrechtsschutz des Art. 9 GG wirkt mittelbar auf vereinsrechtliche Ausschlussverfahren; besonders intensive Lebensbereichsberuehmung durch Verein begruendet erhoehte Verfahrensanforderungen.
+- OLG Frankfurt, Urt. v. 18.04.2019 - 13 U 136/18, NJW-RR 2019, 1175 — Spielervertrag: vorformulierte Vertragsklausel im Sportlermanager-Vertrag ist nach § 307 BGB unwirksam, wenn sie einseitig die Laufzeit zu Lasten des Sportlers ausdehnt.
+- EuGH, Urt. v. 21.12.2023 - C-333/21 (European Superleague), NJW 2024, 504 — FIFA/UEFA-Monopolregeln fuer europaische Fussballwettbewerbe verstosse gegen Art. 101 und 102 AEUV, soweit sie den Marktzugang konkurrierender Wettbewerbe ohne sachliche Rechtfertigung blockieren.
+
+## Normen Erstgespraech Sportrecht
+
+- §§ 21-79 BGB — Vereinsrecht (Satzung, Vereinsregister, Mitgliedschaft)
+- § 25 BGB — Vereinsverfassung; Autonomie des Vereins
+- §§ 38 ff. BGB — Mitgliedschaft; Austritt; Ausschluss
+- § 242 BGB — Treu und Glauben; Verwirkung von Sanktionsrechten
+- § 307 BGB — Inhaltskontrolle vorformulierter Vertragsklauseln im Sportlermanager-Vertrag

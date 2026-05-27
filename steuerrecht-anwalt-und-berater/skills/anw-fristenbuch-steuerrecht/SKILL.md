@@ -1,9 +1,30 @@
 ---
 name: anw-fristenbuch-steuerrecht
-description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Datei mit Hauptfristen und Vorfristen. Standardfristen AO (§ 355 Einspruch ein Monat / § 356 ein Jahr bei fehlender Rechtsbehelfsbelehrung) FGO (§ 47 Klage ein Monat / § 116 Nichtzulassungsbeschwerde ein Monat / § 120 Revisionsbegruendung zwei Monate). Berechnet Fristbeginn nach § 122 Abs. 2 AO Vier-Tages-Fiktion (seit 1.1.2025 PostModG; bis 31.12.2024 Drei-Tages-Fiktion) und § 108 AO Fristberechnung. Vorfristen typisch fuenf Tage vor Hauptfrist.
+description: "Fristenbuch fuer steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegruendung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen."
 ---
 
 # Fristenbuch Steuerrecht
+
+## Triage — Sofortprüfung bei jedem neuen Mandat
+
+1. Liegt ein Steuerbescheid vor? → Einspruchsfrist ein Monat (§ 355 Abs. 1 AO) sofort eintragen
+2. Liegt eine Einspruchsentscheidung vor? → Klagefrist ein Monat (§ 47 Abs. 1 FGO) sofort eintragen
+3. Fehlt die Rechtsbehelfsbelehrung oder ist sie fehlerhaft? → Jahresfrist (§ 356 AO), aber nicht warten — so früh wie möglich handeln
+4. Liegt bereits Fristversäumnis vor? → Wiedereinsetzung § 110 AO prüfen (Frist ein Monat nach Wegfall des Hindernisses)
+5. Besteht Festsetzungsverjährungs-Problematik (§ 169 AO)? → Ablaufhemmung prüfen (§ 171 AO)
+
+## Aktuelle Rechtsprechung (Fristen)
+
+- BFH, Urt. v. 13.03.2018 - IX R 22/17, BStBl II 2018, 489 Rn. 11 — Die Einspruchsfrist ist eine nicht verlängerbare Ausschlussfrist; Wiedereinsetzung nach § 110 AO setzt voraus, dass der Beteiligte ohne Verschulden verhindert war, die Frist einzuhalten.
+- BFH, Urt. v. 07.07.2021 - X R 44/19, BStBl II 2022, 41 Rn. 18 — Die Bekanntgabefiktion des § 122 Abs. 2 AO gilt auch für digital versandte Bescheide; vier Tage seit PostModG 1.1.2025.
+- BFH, Urt. v. 14.02.2019 - V R 68/17, BStBl II 2019, 421 Rn. 14 — Ablaufhemmung der Festsetzungsverjährung nach § 171 Abs. 4 AO durch Beginn einer Außenprüfung tritt nur ein, wenn die Prüfungsanordnung wirksam zugestellt und der Prüfer mit der eigentlichen Prüfungshandlung begonnen hat.
+- BFH, Urt. v. 29.10.2013 - VIII R 27/10, BStBl II 2014, 295 Rn. 19 — Bei Steuerhinterziehung (§ 370 AO) beträgt die Festsetzungsverjährungsfrist zehn Jahre (§ 169 Abs. 2 Satz 2 AO); dies gilt auch für jahrelang nicht erklärte Auslandseinkünfte.
+
+## Kommentarliteratur
+
+- Tipke/Kruse, AO/FGO, § 355 AO Rn. 1-30 (Einspruchsfrist, Bekanntgabefiktion, Fristberechnung)
+- Klein, AO, § 169 Rn. 1-40 (Festsetzungsverjährung, Hinterziehung, Ablaufhemmung)
+- Gräber/Stapperfend, FGO, § 47 Rn. 1-30 (Klagefrist, Berechnungsregeln)
 
 ## Zentralablage
 
@@ -47,7 +68,7 @@ description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Dat
 | AdV-Antrag an FG | § 69 FGO | keine eigene Frist |
 | Nichtzulassungsbeschwerde | § 116 Abs. 2 FGO | ein Monat |
 | Revisionsbegründung | § 120 Abs. 2 FGO | zwei Monate |
-| Aussetzungszinsen | § 237 AO | bei Verlust 0,15 Prozent pro Monat |
+| Aussetzungszinsen | § 237 AO | bei Verlust 0.15 Prozent pro Monat |
 
 ## Bekanntgabe (§ 122 AO)
 
@@ -97,4 +118,4 @@ description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Dat
 
 - `fristenbuch.yaml` aktualisiert
 - `fristen-uebersicht.md` Tagesbericht nächste sieben Tage
-- Vorfristen-Erinnerung in Sekretariats-Tagesbrief (Plugin `kanzlei-cowork`)
+- Vorfristen-Erinnerung in Sekretariats-Tagesbrief (Plugin `kanzlei-allgemein`)

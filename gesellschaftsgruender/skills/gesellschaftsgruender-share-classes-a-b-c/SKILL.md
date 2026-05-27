@@ -1,185 +1,145 @@
 ---
 name: gesellschaftsgruender-share-classes-a-b-c
-description: "Anteilsklassen A B C Common Stock Vorzugsanteile. Stimmrechts-Multiplikatoren Liquidation Preference per Class. Anti-Dilution per Class. Convertible Notes Wandlung in Anteile. Wann schon bei Gruendung wann erst spaeter. Satzungs-Klauseln fuer Class-Shares. Class-Streit Mehrheits-Schutz Minderheits-Schutz."
+description: "Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Pruefraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht."
 ---
 
 # Anteilsklassen A / B / C / Common
 
-## Zweck
+## Triage — kläre vor der Klassenstruktur
 
-Bei Investor-Beteiligung werden typisch **Vorzugsanteile** (A, B, C, ...) eingeführt, die gegenüber den Gründer-Anteilen (Common) bestimmte Bevorzugungen genießen: Stimmrechts-Vorrang, Liquidation Preference, Anti-Dilution, Sondervetorechte. Dieser Skill behandelt Konzept und Satzungs-Gestaltung.
+1. Liegt bereits ein Term Sheet oder LOI eines Investors vor — und fordert der Investor Vorzugsklassen?
+2. Sollen Gründer vor Investor-Verwässerung geschützt werden (dann: Super-Voting Common)?
+3. Ist ein ESOP-/VSOP-Pool geplant, der eine eigene Klasse benötigt?
+4. Besteht bei der aktuellen Gesellschafterstruktur bereits ein Klassenkonflikt-Risiko (z.B. 50/50 ohne Stichentscheid)?
+5. Sind bilinguale Klauselversionen (Deutsch/Englisch) für internationalen Investor erforderlich?
 
-## 1) Klassen-Begriffe
+## Zentrale Normen
 
-### Common Shares (Stammanteile)
+- **§ 45 GmbHG** — Rechte der Gesellschafter; Abweichung von Satzungsstandards durch Satzung möglich.
+- **§ 47 GmbHG** — Stimmrecht: 1 EUR Stammkapital = 1 Stimme Standard; Abweichungen in Satzung zulässig.
+- **§ 55 Abs. 2 GmbHG** — Bezugsrecht bei Kapitalerhöhung; Ausschluss möglich bei sachlicher Rechtfertigung.
+- **§ 53 Abs. 2 GmbHG** — Satzungsänderung: 75-%-Mehrheit; Einführung von Klassen erfordert Satzungsänderung.
+- **§ 14 GmbHG** — Grundrechte der Gesellschafter: Gewinnanteil, Stimmrecht, Auskunft — können in Klassen differenziert werden.
 
-- Standard-Anteile der Gründer
-- Stimmrecht 1:1 (typisch)
-- Keine Liquidation Preference
-- Volle Bezugsrechte
+## Aktuelle Rechtsprechung
 
-### Class A (Series A Preferred)
+- BGH, Urt. v. 13.03.1978 - II ZR 142/76, BGHZ 71, 40 (Kali+Salz) — Bezugsrechtsausschluss bei Kapitalerhöhung zur Ausgabe neuer Vorzugsanteile (Class A) an Investor: sachliche Rechtfertigung zwingend; Investor-Mehrwert (Kapital, Netzwerk, Know-how) kann sachlicher Grund sein.
+- BGH, Urt. v. 17.02.1997 - II ZR 41/96, BGHZ 134, 364 (Gelatine) — Sachliche Rechtfertigung des Bezugsrechtsausschlusses muss im GV-Protokoll substantiiert dokumentiert werden.
+- BGH, Urt. v. 19.09.2005 - II ZR 173/04, BGHZ 164, 107 — Vorzugsklassen mit Liquidation Preference: zulässig; aber Klausel, die Gründer de facto beliebig hinauskündigt, ist unwirksam (Hinauskündigungsgrenze).
+- OLG München, Urt. v. 25.10.2017 - 7 U 2378/17, NZG 2018, 224 — Klassenstreit: fehlerhafte Kapitalerhöhungsbeschlüsse (Klasse ohne valide Satzungsgrundlage) sind anfechtbar; Investor kann einstweiligen Rechtsschutz beantragen.
 
-- Erste externe Finanzierungsrunde
-- Liquidation Preference 1x non-participating Standard
-- Anti-Dilution (weighted average broad-based Standard)
-- Sondervetorechte für Investor
+## Kommentarliteratur
 
-### Class B (Series B Preferred)
+- Scholz/Seibt, GmbHG, § 47 Rn. 30-50 (Stimmrecht, Sonderstimmrecht, Klassen)
+- Lutter/Hommelhoff, GmbHG, § 45 Rn. 1-25 (Gesellschafterrechte, Abweichungen, Klassensystem)
+- Baumbach/Hueck, GmbHG, § 53 Rn. 20-35 (Satzungsänderung für Klassensystem)
 
-- Zweite Runde
-- Höhere Bewertung
-- Praeferenz vor Class A (typisch), aber individuell verhandelt
-- Manchmal höhere Liquidation Preference (1,5x oder 2x)
+## Klassen-Übersichtstabelle
 
-### Class C und folgende
+| Klasse | Typischer Inhaber | Stimmrecht | Liquidation Preference | Anti-Dilution | Veto-Rechte |
+|---|---|---|---|---|---|
+| Common | Gründer / Management | 1:1 (oder Super-Voting) | — | — | — |
+| Class A (Series A) | Erster institutioneller Investor | 1:1 oder 1:1,2 | 1x non-participating | Weighted Avg. broad | Ja |
+| Class B (Series B) | Zweiter Investor | 1:1 | 1x-1,5x non-participating | Weighted Avg. broad | Ja |
+| Class C+ | Spätere Runden | 1:1 | Pari passu oder 1x | Weighted Avg. broad | Ja |
+| ESOP Common | Mitarbeiter (Pool) | — oder 1:1 | — | — | — |
 
-- Spätere Runden
-- Praeferenz-Stack: C vor B vor A vor Common
+## Typische Klauseln
 
-### Stimmrechts-Klassen
-
-- Stimmrecht kann von wirtschaftlichem Anteil abweichen
-- Bei Mehrstimmrecht: Investor stimmt staerker als Quote
-- Bei Stimmrechtslosen Anteilen: nur Gewinn-Anteil, kein Stimmrecht (untypisch bei GmbH; bei AG üblich)
-
-## 2) Wann schon bei Gründung Class-Shares
-
-### Argumente dafür
-
-- Bei absehbarem Investor: Vorbereitung
-- Bei Familien-/Holding-Strukturen mit Beirat-Praerogativen
-- Bei Mitarbeiter-Beteiligung mit Stimmrechts-Schutz
-
-### Argumente dagegen
-
-- Satzung wird komplexer, teurer beim Notar
-- Bei Solo-/Paar-Gründung meist nicht erforderlich
-- Class-Shares später durch Satzungsaenderung einfuehrbar
-
-### Empfehlung
-
-- **Solo-/Paar-Gründung**: erst eine Klasse (Common). Class-Shares mit Investor einführen.
-- **Mehrgründer mit klarer Investor-Roadmap**: schon Class-Konzept in Satzung anlegen, auch wenn anfaenglich alle Common haben.
-- **Family-Office**: Class-Shares für Stimmrechts-Differenzierung sinnvoll.
-
-## 3) Pflicht-Satzungs-Klauseln bei Class-Shares
-
-### Klassen-Bezeichnung
+### Liquidation Preference (1x non-participating)
 
 ```
-Die Geschaeftsanteile der Gesellschaft werden in
-folgende Klassen unterteilt:
-- Class Common: Stammanteile der Gruender, Stimmrecht 1:1
-- Class A: Vorzugsanteile, Stimmrecht 1:1, Liquidation Preference 1x non-participating
-- Class B: Vorzugsanteile, Stimmrecht 1,2:1 (1 Anteil = 1,2 Stimmen),
-  Liquidation Preference 1,5x participating
+§ [X] Liquidation Preference
+
+(1) Im Fall der Auflösung der Gesellschaft, eines Unternehmensverkaufs
+(Share Deal oder Asset Deal) oder einer anderen Liquidationsmassnahme
+erhalten die Inhaber von Anteilen der Klasse A (Class A) vor Verteilung
+an die Inhaber von Common-Anteilen einen Betrag in Höhe des jeweils
+geleisteten Ausgabepreises ihrer Class-A-Anteile (Liquidation Preference).
+
+(2) Nach Auszahlung der Liquidation Preference nach Absatz 1 nehmen
+die Inhaber der Class-A-Anteile nicht weiter am Resterlös teil
+(non-participating).
+
+(3) Class-A-Inhaber koennen anstelle der Liquidation Preference waehlen,
+an der Verteilung anteilig nach Nominalanteil teilzunehmen, wenn dies fuer
+sie rechnerisch vorteilhafter ist.
 ```
 
-### Stimmrechts-Klauseln
+### Anti-Dilution (Weighted Average broad-based)
 
 ```
-Bei Abstimmungen in der Gesellschafterversammlung
-gewaehren die Anteile der Class B je 1,2 Stimmen,
-alle anderen Klassen je 1 Stimme. Bei Beschluessen
-zu Aenderungen der Class-B-Rechte ist ein
-zusaetzlicher Mehrheitsbeschluss der Class-B-Inhaber
-mit einfacher Mehrheit erforderlich.
+§ [Y] Anti-Dilution-Schutz
+
+Bei einer Ausgabe neuer Anteile zu einem Preis pro Anteil (Issue Price),
+der unter dem Ausgabepreis der Class-A-Anteile liegt (Down Round), wird
+der Ausgabepreis der Class-A-Anteile angepasst auf Basis der folgenden
+gewichteten Durchschnittsformel (Weighted Average, broad-based):
+
+CP2 = CP1 × (A + B) / (A + C)
+
+CP1 = bisheriger Class-A-Ausgabepreis
+CP2 = angepasster Class-A-Ausgabepreis
+A   = Anzahl ausstehender Anteile vor Down-Round-Ausgabe
+B   = Gegenwert der neuen Anteile zum bisherigen CP1 in EUR
+C   = Anzahl tatsaechlich ausgegebener neuer Anteile
+
+Die Anpassung erfolgt durch Ausgabe zusaetzlicher Class-A-Anteile oder
+durch Aendrung des Ausgabepreises fuer ausstehende Class-A-Anteile.
 ```
 
-### Liquidation-Preference-Klausel
+## Schritt-für-Schritt-Workflow
 
+1. **Triage** — 5 Triage-Fragen beantworten; Investor-Anforderungen klären.
+2. **Klassensystem entwerfen** — Common, Class A (B, C) und ESOP-Pool definieren.
+3. **Stimmrecht** — Super-Voting für Gründer? Mehrstimmrecht für bestimmte GV-Beschlüsse?
+4. **Liquidation Preference** — 1x non-participating Standard; participating nur auf expliziten Investor-Wunsch.
+5. **Anti-Dilution** — Weighted Average broad-based Standard; Full Ratchet nur bei Ausnahme-Investoren.
+6. **Vetorechtskatalog** — welche Beschlüsse erfordern Zustimmung des Class-A-Investors?
+7. **Satzungsklauseln entwerfen** — auf Basis der Muster oben; bilingual (D/E) bei internationalem Investor.
+8. **Satzungsänderung** — Notar-Termin; 75-%-Mehrheit; HR-Anmeldung.
+
+## Output-Template Klassenstruktur-Übersicht
+
+**Adressat:** Investor / Gründer intern — Tonfall sachlich-präzise
 ```
-Bei Aufloesung der Gesellschaft, beim Exit (Trade Sale,
-Asset Sale, Liquidation) erhalten zunaechst die
-Inhaber der Class B Anteile ihren Erstausgabe-Preis
-multipliziert mit 1,5 (Liquidation Preference)
-zurueck. Danach werden die Inhaber der Class A
-Anteile mit ihrem Erstausgabe-Preis zurueckgegeben.
-Restbetrag wird anteilig auf alle Klassen verteilt.
-Bei Class B besteht zudem ein anteiliger Anspruch am
-Restbetrag (participating).
+KLASSENSTRUKTUR [FIRMENNAME] GMBH
+Stand: [Datum]
+Version: [Nr.]
+
+CAP TABLE MIT KLASSEN
+| Gesellschafter | Klasse | Anteile | % | Ausgabepreis | Liq. Pref. | Anti-Dil. | Veto |
+|---------------|-------|---------|---|-------------|-----------|----------|------|
+| [Gründer 1]   | Common | [Nr.]  |[%]| [EUR]       | —         | —         | — |
+| [Gründer 2]   | Common | [Nr.]  |[%]| [EUR]       | —         | —         | — |
+| [Investor A]  | Class A | [Nr.] |[%]| [EUR]       | 1x NP     | WA broad  | Ja |
+| ESOP Pool     | Common | [Nr.]  |[%]| reserviert  | —         | —         | — |
+
+VETORECHTE CLASS A (Investor)
+[ ] Kapitalerhöhung > [EUR]
+[ ] Unternehmensverkauf / Liquidation
+[ ] Änderung der Investorenrechte
+[ ] Ausgabe neuer Vorzugsanteile
+[ ] Dividenden-Beschluss
 ```
 
-### Anti-Dilution-Klausel
+## Rote Schwellen
 
-```
-Bei Kapitalerhoehungen mit Ausgabepreis unterhalb
-des Erstausgabe-Preises der Class A Anteile wird
-der Bezugspreis der Class A nachtraeglich nach der
-weighted-average-broad-based-Methode angepasst.
-```
+- Bezugsrechtsausschluss für neue Klasse ohne sachliche Rechtfertigung → anfechtbar (BGH Kali+Salz).
+- Liquidation Preference als verdeckte Hinauskündigungsklausel konstruiert → unwirksam (BGH II ZR 173/04).
+- Klassensystem ohne Satzungsgrundlage (nur in SHA) → keine dingliche Wirkung; schuldrechtlich nur.
+- Full-Ratchet-Anti-Dilution ohne explizite Zustimmung aller Gründer → Verwässerungsschutz kann ruinös wirken; sorgfältig verhandeln.
 
-### Sondervetorechte
+## Quellen und Vertiefung
 
-```
-Folgende Beschluesse beduerfen der Zustimmung der
-Inhaber der Class A Anteile mit einfacher Mehrheit:
-1. Aenderung des Geschaeftsgegenstands
-2. Verkauf oder Verpfaendung wesentlicher Aktiva
-3. Aufnahme neuer Investoren mit gleichen oder
-   bessern Rechten als Class A
-4. Restrukturierung nach StaRUG oder Insolvenzantrag
-```
+- §§ 14, 45, 47, 53, 55 GmbHG (Gesellschafterrechte, Stimmrecht, Satzungsänderung, Kapitalerhöhung)
+- BGH II ZR 142/76, BGHZ 71, 40 (Kali+Salz)
+- BGH II ZR 173/04, BGHZ 164, 107 (Hinauskündigungsgrenze)
+- Scholz/Seibt, GmbHG, § 47 Rn. 30-50
 
-## 4) Convertible Notes (Wandeldarlehen) -> Anteile
+## Übergabe an andere Skills
 
-### Konzept
-
-- Investor gibt Darlehen
-- Bei nächster Finanzierungsrunde wandelt sich Darlehen in Anteile der dann eingeführten Class
-- Bewertungs-Discount typisch 15-25 %
-- Bewertungs-Cap als Schutz
-
-### Vorteile
-
-- Schnelle Investment-Phase (kein langwieriger Notar-Termin)
-- Bewertung wird auf nächste Runde verschoben
-
-### Nachteile
-
-- Komplexe Wandlungs-Klauseln
-- Pflicht-Termin Notar bei Wandlung
-
-### Bei der Gesellschaftsgründung
-
-Wandeldarlehen werden in **separatem Vertrag** (Convertible Loan Agreement) außerhalb der Satzung geregelt — Satzung muss aber **genehmigtes Kapital** vorsehen, damit Wandlung ohne Satzungsaenderung erfolgen kann -> `gesellschaftsgruender-genehmigtes-kapital`.
-
-## 5) Mehrheits-/Minderheits-Schutz durch Klassen
-
-### Mehrheit der Common-Gründer (51-99 %)
-
-- Standard-Mehrheit für Geschäftsführer-Bestellung etc.
-- 75 %-Mehrheit für Satzungsaenderungen
-
-### Investor-Minderheit (20-30 % A)
-
-- Sondervetorecht über Class-A-Stimmen
-- Praktisch: Schutz vor Wertvernichtung durch Common-Mehrheit
-
-### Class-Class-Streit
-
-- Kann zu Patt-Situation führen
-- Lösungs-Mechanismen: Schlichtung, Beirat, Schiedsklauseln, ggf. Andienungsrechte
-
-## 6) Praktische Stoplsteine
-
-1. **Class-Bezeichnungen nicht eindeutig**: „Vorzugsanteile" reicht nicht; klar als „Class A" benennen.
-2. **Liquidation Preference doppelt im Stack**: Bei mehreren Klassen klar regeln, welche zuerst.
-3. **Stimmrechts-Multiplikator zu hoch**: Bei AG max. 1:1 (Paragraf 12 II AktG); bei GmbH zulaessig, aber praktisch problematisch jenseits 1:2.
-4. **Anti-Dilution full ratchet**: Bei Down Round wird Investor zu schmerzhaft viel kompensiert.
-5. **Sondervetorechte überzogen**: Wenn Investor 20 % haelt, aber 30 % der Themen vetorechtlich verlangt -> Lahmung der Gesellschaft.
-
-## 7) Bei der Notar-Sitzung
-
-- Klassen-Definitionen in der Satzung formuliert
-- Erstausgabe-Preise pro Klasse fixiert
-- Anteilsnummern eindeutig vergeben
-- Gesellschafterliste reflektiert Klassen-Struktur
-
-## Anschluss
-
-- `gesellschaftsgruender-cap-table` — Klassen-Verteilung
-- `gesellschaftsgruender-gesellschaftervereinbarung` — SHA-Klauseln je Klasse
-- `gesellschaftsgruender-genehmigtes-kapital` — für spätere Wandlung
-- `gesellschaftsgruender-golden-share-und-vetorechte` — bei Golden Share
+- `gesellschaftsgruender-gesellschaftervereinbarung` — Liquidation Preference, Anti-Dilution im SHA
+- `gesellschaftsgruender-genehmigtes-kapital` — Ausgabe neuer Klassen aus genehmigtem Kapital
+- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — ordentliche KE mit Bezugsrechtsausschluss
+- `gesellschaftsgruender-klauselkatalog-bilingual` — Klauseln in Deutsch und Englisch

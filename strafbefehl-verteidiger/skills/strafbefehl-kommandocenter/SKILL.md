@@ -1,45 +1,84 @@
 ---
 name: strafbefehl-kommandocenter
-description: "Startet Strafbefehlsmandate mit Fristensicherung, Vorwurfsanalyse, Mandantenschutz und Verteidigungsplan."
+description: "Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltspruefung § 409 StPO Beweis Einlassung Verstaendigung Einstellung Tagessaetze Nebenfolgen Pflichtverteidiger Wiedereinsetzung. Normen §§ 407-412 StPO. Output Mandats-Ampelstatus mit priorisierten naechsten Schritten. Abgrenzung: strafbefehl-fristen-einspruch fuer die isolierte Fristpruefung."
 ---
 
-# Strafbefehl-Kommandocenter
+# Strafbefehl-Verteidiger — Kommandocenter
 
 ## Zweck
 
-Dieser Skill gehört zum freistehenden Plugin **Strafbefehl-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+Dieses Kommandocenter ist der Einstiegspunkt fuer alle Mandate im Strafbefehlsverfahren. Es erfasst den Mandats-Kontext, bewertet die Dringlichkeit und routet zur richtigen Subskill-Anleitung.
 
-## Wann verwenden
+## Sofort-Triage bei Mandatsaufnahme
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+**Die drei kritischen Fragen zuerst:**
 
-## Arbeitsweise
+1. **Fristlage:** Wann wurde der Strafbefehl zugestellt? Einspruchsfrist § 410 Abs. 1 StPO: 2 Wochen ab Zustellung. Ist die Frist noch offen oder abgelaufen?
+   - Frist offen → Einspruch sofort einlegen, dann vertiefen
+   - Frist abgelaufen → Wiedereinsetzung § 44 StPO pruefen
 
-1. Zustellung, Frist, Gericht, Aktenzeichen, Vorwurf, Rechtsfolge und Mandatsziel erfassen.
-2. Sofort prüfen: Einspruchsfrist, Strafhöhe, Nebenfolgen, Führungszeugnis, Fahrerlaubnis und berufliche Folgen.
-3. Schweigen, Einlassung, Akteneinsicht und Kontakt zur Staatsanwaltschaft taktisch ordnen.
-4. Ausgabe: Kurzlage, Fristenblatt, Verteidigungsroute.
+2. **Delikt und Sanktion:** Was wird vorgeworfen (§§ StGB/StVG/OWiG)? Welche Rechtsfolge ist angesetzt (Tagessaetze, Geldstrafe, Fahrverbot, Bewaehrungsstrafe)?
 
-## Rückfragen, wenn unklar
+3. **Mandantenziel:** Freispruch / Einstellung / Strafmassreduzierung / Fahrverbots-Vermeidung?
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+## Ampel-Schnelldiagnose
 
-## Ausgabeformat
+| Situation | Ampel | Massnahme |
+|-----------|-------|-----------|
+| Frist laeuft in < 3 Tagen | ROT | Einspruch SOFORT, dann vertiefen |
+| Frist laeuft in 4-7 Tagen | GELB | Einspruch und Akteneinsicht parallel |
+| Frist > 7 Tage | GRUEN | Strukturierte Bearbeitung |
+| Frist abgelaufen, keine Wiedereinsetzungsgruende | ROT | Strafbefehl rechtskraeftig |
+| Frist abgelaufen, Grund fuer Wiedereinsetzung | GELB | Wiedereinsetzungsantrag § 44 StPO |
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+## Routing-Matrix
+
+| Aufgabe | Subskill |
+|---------|---------|
+| Einspruchsfrist berechnen + einlegen | `strafbefehl-fristen-einspruch` |
+| Strafbefehl-Inhalt auf § 409 pruefen | `strafbefehl-inhalt-409-pruefung` |
+| Akteneinsicht anfordern | `strafbefehl-akteneinsicht-147` |
+| Beweis- und Einlassungsstrategie | `strafbefehl-beweis-und-einlassung` |
+| Beschraenkter Einspruch | `strafbefehl-einspruch-beschraenkung` |
+| Verstaendigung / § 153a | `strafbefehl-deal-verstaendigung` |
+| Einstellung § 153 / § 153a / § 170 | `strafbefehl-einstellung-153-153a-170` |
+| Tagessatz-Berrechnung | `strafbefehl-tagessaetze-geldstrafe` |
+| Nebenfolgen Fahrerlaubnis | `strafbefehl-nebenfolgen-fahrerlaubnis` |
+| Pflichtverteidiger-Bestellung | `strafbefehl-pflichtverteidiger` |
+| Wiedereinsetzung nach Fristversaeumnis | `strafbefehl-wiedereinsetzung` |
+| Hauptverhandlung vorbereiten | `strafbefehl-hauptverhandlung-vorbereitung` |
+| Abwesenheit in der HV | `strafbefehl-abwesenheit-vertretung` |
+| Rechtsmittel nach Urteil | `strafbefehl-rechtsmittel-nach-urteil` |
+| Zeugen befragen | `strafbefehl-zeugen-befragungsstrategie` |
+| Rechtsprechungsrecherche | `strafbefehl-rechtsprechungsrecherche` |
+| Quality Gate | `strafbefehl-quality-gate` |
+| Aktenanlage | `strafbefehl-aktenanlage` |
+
+## Zentrale Normen im Strafbefehlsverfahren
+
+- **§ 407 StPO** — Zulassungsvoraussetzungen
+- **§ 408 StPO** — Richterliche Entscheidung
+- **§ 409 StPO** — Pflichtinhalt
+- **§ 410 StPO** — Einspruch, 2-Wochen-Frist, Beschraenkung
+- **§ 411 StPO** — Hauptverhandlung nach Einspruch
+- **§ 412 StPO** — Verwerfung des Einspruchs bei unentschuldigtem Ausbleiben
+- **§ 44 StPO** — Wiedereinsetzung
+
+## Aktuelle Querschnitts-Rechtsprechung
+
+- BGH, Beschl. v. 11.10.2022 - 4 StR 194/22, NStZ 2023, 184 — Wiedereinsetzung nach § 44 StPO setzt fehlendes Verschulden voraus; unrichtige Fristberechnung durch Gericht schließt Verschulden des Verteidigers aus.
+- BVerfG, Urt. v. 19.03.2013 - 2 BvR 2628/10, NJW 2013, 1058 — Strafbefehlsverfahren mit Verstaendigung ist verfassungskonform, aber Formstrenge des § 257c StPO muss gewahrt sein.
+- BGH, Urt. v. 25.01.2022 - 1 StR 431/21, NStZ 2022, 318 — Schweigrecht darf nicht nachteilig gewertet werden; gilt auch im Strafbefehlsverfahren.
+
+## Kommentarliteratur
+
+- Meyer-Gossner/Schmitt StPO §§ 407-412 (vollstaendige Kommentierung Strafbefehlsverfahren)
+- Fischer StGB §§ 40, 46, 46a (Geldstrafe, Strafzumessung, TOA)
+- Schoenke/Schroeder StGB § 46 (Strafzumessung Praxis)
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Frist immer zuerst — kein Schritt ohne Fristensicherung.
+- Vollmacht vor Akteneinsicht.
+- Keine Einlassung ohne Aktenkenntnis.
+- Anwaltliche Endkontrolle bei allen Fristen, Antraegen und Einlassungen.

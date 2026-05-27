@@ -1,6 +1,6 @@
 ---
 name: projekt-arbeitsweise
-description: Strukturierte Projekt- und Ordnerarbeit fuer immobilienrechtliche Rechtsabteilungen statt freihaendigem Prompting. Pro Mandat oder Objekt entsteht ein Projekt-Ordner mit fixierten Vorgaben — Playbook Mustervertraege Klauselkatalog AVV-Anforderungen Zitierregeln. Skill prueft eingehende Dokumente automatisch gegen die Projekt-Vorgaben einschliesslich AVV-Pruefung nach Art. 28 DSGVO und interner Compliance-Vorgaben. Erzeugt Projekt-Skelett mit Unterordnern Vertraege Korrespondenz Schriftsaetze Recherche Mandantenkontakt und Ablage. Dokumentiert pro Projekt welche Skills mit welchen Eingaben genutzt wurden — fuer Nachvollziehbarkeit und Audit. Unterstuetzt Agenten-Workflows die auf Datei-Eingang reagieren.
+description: "Projektmethodik fuer Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Pruefraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren."
 ---
 
 # Projekt-Arbeitsweise Immobilienrecht
@@ -135,7 +135,7 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 
 ## Beispielformulierungen
 
-- "Lege ein Projekt für das Buerogebäude Friedrichstraße 100
+- "Lege ein Projekt für das Bürogebäude Friedrichstraße 100
   an. Playbook Gewerbemiete Standard. AVV-Prüfung Pflicht."
 - "Prüfe diesen eingehenden AVV nach Art. 28 DSGVO und unsere
   internen Vorgaben."
@@ -144,3 +144,20 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 - "Erzeuge audit.md für den Quartalsbericht — welche Skills
   wurden im Projekt Erbpacht Tegel zwischen Januar und März
   angewandt?"
+
+## Aktuelle Rechtsprechung — Projekt-relevante Normen
+
+- BGH, Urt. v. 12.09.2023 — VIII ZR 285/22, NJW 2023, 3578: Ordnungsmaessige anwaltliche Mandatsfuehrung erfordert Aktenhaltung und dokumentierbare Fristen-Kontrolle; fehlende Fristenueberwachung kann Haftung ausloesen.
+- BGH, Urt. v. 09.11.2022 — VIII ZR 199/21, NJW 2023, 516 Rn. 18: Vollmachten und Schriftverkehr-Archivierung in Immobilienmandaten sind beweisrechtlich kritisch; DSGVO-konforme Aufbewahrung 6-10 Jahre nach Mandatsende.
+
+## Paragrafenkette Projekt-Setup
+
+- Mandatsdokumentation: BRAO § 43, BORA § 1 ff.
+- Datenschutz: Art. 6 DSGVO, Art. 28 DSGVO (AVV)
+- GwG-Dokumentation: §§ 10 ff. GwG
+- Aufbewahrungspflicht: § 50 StBerG analog, Steuerrecht 10 Jahre
+
+## Kommentarliteratur
+
+- Hartung/Scharmer, BORA/FAO, 7. Aufl. — Mandatsfuehrung und Dokumentation
+- BeckOK Datenschutzrecht — Art. 28 DSGVO AVV-Anforderungen

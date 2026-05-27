@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-do-deckungsabwehr
-description: "D-und-O-Versicherung Directors and Officers Deckungsabwehr durch Versicherer. Pflichtverletzung § 43 GmbHG Anspruchsgrundlage. Versicherer-Einwaende vorsaetzliche Pflichtverletzung Insider-Trading Verbotener Geschaeftsbereich. Workflow Anspruchs-Pruefung Klage gegen Versicherer."
+description: "D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsanspruechen. Anwendungsfall Versicherung hat Deckung fuer Geschaeftsfuehrerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschaeftsfuehrer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Pruefraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschaeftsbereich AVB-Auslegung. Output Deckungsanfragen-Pruefung mit AVB-Analyse Widerspruchsbegruendung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-pruefen."
 ---
 
 # D&O-Deckungsabwehr
@@ -151,3 +151,105 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 - `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` — bei LV-Bezug
 - `gesellschaftsgruender-geschaeftsfuehrervertrag` — bei GF-Anstellung
 - `corporate-kanzlei` — bei M&A-Vertretung
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 13.04.2016 — **IV ZR 220/14**, NJW 2016, 2184 Rn. 26: Bei D&O-Versicherungen ist der Selbstbehalt nach § 93 Abs. 2 Satz 3 AktG eine zwingende gesetzliche Vorgabe; entsprechende Klauseln in Versicherungsbedingungen, die den Selbstbehalt ausschließen oder reduzieren, sind nach § 134 BGB nichtig, soweit sie zugunsten von Vorstandsmitgliedern börsennotierter Gesellschaften vereinbart werden.
+
+BGH, Urt. v. 18.11.2020 — **IV ZR 217/19**, NJW 2021, 378 Rn. 18: Der Versicherer einer D&O-Versicherung kann Leistungsfreiheit wegen vorsätzlicher Pflichtverletzung des Versicherten nach § 103 VVG geltend machen; der Beweis des bedingten Vorsatzes obliegt dem Versicherer, wobei leichtfertige oder grob fahrlässige Pflichtverletzungen des Organs nicht genügen.
+
+BGH, Urt. v. 13.04.2010 — **IV ZR 118/09**, BGHZ 185, 252 Rn. 22: Das „Claims-made"-Prinzip in der D&O-Versicherung (Versicherungsschutz knüpft an Anspruchserhebung, nicht an schadensbegründendes Ereignis an) ist mit dem deutschen AGB-Recht vereinbar; Nachhaftungsklauseln müssen klar und transparent formuliert sein.
+
+OLG Frankfurt, Urt. v. 24.02.2021 — **7 U 74/19**, VersR 2021, 812 Rn. 14: Bei D&O-Streitigkeiten über die Deckungsablehnung wegen Vorsatz ist die Forderungsstellung der Gesellschaft gegen den Geschäftsführer von der Deckungsfrage zu trennen; der Versicherer kann dem Versicherten im Deckungsprozess Einwendungen aus § 43 GmbHG nicht selbst entgegenhalten.
+
+### Paragrafenkette
+
+§ 43 GmbHG (Sorgfaltspflicht Geschäftsführer, Haftungsanspruch) → § 93 AktG (Sorgfaltspflicht Vorstand) → §§ 100 ff. VVG (Haftpflichtversicherung) → § 103 VVG (Ausschluss bei Vorsatz) → § 106 VVG (Deckungsschutz) → §§ 19, 28, 81 VVG (Anzeigepflichten, Obliegenheiten) → § 93 Abs. 2 Satz 3 AktG (Selbstbehalt-Pflicht börsennotiert) → § 15b InsO (früher § 64 GmbHG aF — Haftung bei Insolvenzreife) → §§ 133, 157 BGB (AVB-Auslegung D&O-Bedingungen)
+
+### Kommentarliteratur
+
+- Beckmann/Matusche-Beckmann, Versicherungsrechts-Handbuch, 3. Aufl. 2015, § 28 (D&O-Versicherung): Deckungsstruktur, Claims-made-Prinzip, Selbstbehalt, Abgrenzung Vorsatz/grobe Fahrlässigkeit.
+- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, §§ 100, 103 VVG: Haftpflichtversicherung, Vorsatzausschluss in D&O-Konstellationen.
+
+### Fristen-Übersicht
+
+| Maßnahme | Frist | Norm |
+|---|---|---|
+| Schadensanzeige an Versicherer (Obliegenheit) | unverzüglich nach Kenntnis | § 28 VVG i.V.m. AVB |
+| Verjährung Deckungsanspruch | 3 Jahre (ab Anspruchserhebung gegen Organ) | § 195 BGB |
+| Nachhaftungsdeckung (Claims-made) | vertraglich (typisch 6-24 Monate) | AVB D&O |
+| Klage LG Versicherer-Sitz | nach Ablehnung unverzüglich | § 215 VVG |
+
+## Triage — Sofortprüfung D&O-Deckungsabwehr
+
+1. **Wer ist der Versicherte?** → Aktives oder ehemaliges Organ? Claims-made-Zeitraum prüfen — läuft Nachhaftungsdeckung noch?
+2. **Welcher Anspruch wird gegen das Organ erhoben?** → § 43 GmbHG, § 93 AktG, § 15b InsO? Vorsatz oder Fahrlässigkeit?
+3. **Ablehnungsgrund des Versicherers identifizieren:** Vorsatz (§ 103 VVG)? Fehlende Schadensanzeige? Anerkennung ohne Zustimmung? Kausalitätsfrage?
+4. **Selbstbehalt berechnen:** Börsennotierte AG → § 93 Abs. 2 Satz 3 AktG; GmbH → vertraglich/AVB.
+5. **Insolvenzverwalter involviert?** → Klage des IV aus § 15b InsO gegen GF; D&O-Deckung typisch — Vorsatz-Einwand sorgfältig prüfen.
+
+**Entscheidungsbaum:**
+```
+Ablehnungsgrund?
+├─ Vorsatz (§ 103 VVG) → Beweislast beim Versicherer; nur bedingter Vorsatz ausreichend
+│   └─ Grobe Fahrlässigkeit? → kein Ausschluss; Versicherer haftet
+├─ Claims-made abgelaufen → Nachhaftungsklausel prüfen (AVB)
+│   └─ Nachhaftung noch aktiv? → Versicherungsschutz besteht
+├─ Selbstbehalt-Streit → § 93 II 3 AktG nur börsennotierte AG; GmbH vertraglich
+└─ Kooperationspflichtverletzung → nur bei nachgewiesenem Vorsatz leistungsfrei
+```
+
+## Schritt-für-Schritt-Workflow D&O-Deckungsklage
+
+1. **Erstdokumentation:** Anspruchsschreiben gegen das Organ sichern; Versicherungspolice + alle AVB einholen; Nachhaftungsperiode prüfen.
+2. **Deckungsanzeige vorbereiten** und fristgemäß beim Versicherer einreichen — kein Anerkenntnis, keine Erklärungen ohne Abstimmung.
+3. **Ablehnungsschreiben analysieren:** Ablehnungsgrund qualifizieren (Vorsatz, AVB-Ausschluss, Obliegenheitsverletzung?).
+4. **Vorsatz-Einwand widerlegen:** Tatsachenvortrag zur subjektiven Seite (Schädigungs-Absicht fehlend); BGH IV ZR 217/19 zitieren.
+5. **AVB-Auslegung:** Ausschlussklauseln eng auslegen; §§ 305c, 307 BGB prüfen; Claims-made-Klausel auf Transparenz.
+6. **Deckungsklage** beim LG am Sitz des Versicherers: Zahlungs- oder Freistellungsklage.
+
+## Output-Template — Deckungsklage D&O (Klageskizze)
+
+```
+Klage
+
+[NAME DES ORGANS] (Kläger), vertreten durch RA [NAME KANZLEI]
+gegen
+[VERSICHERER] (Beklagte)
+
+Az.: [AZ LG]
+Streitwert: EUR [DECKUNGSSUMME]
+
+I. ANTRÄGE
+
+1. Die Beklagte wird verurteilt, den Kläger von der Zahlungspflicht
+   gegenüber [GESELLSCHAFT] aus dem Urteil/Beschluss vom [DATUM]
+   in Höhe von EUR [BETRAG] freizustellen.
+2. Hilfsweise: Es wird festgestellt, dass die Beklagte verpflichtet ist,
+   dem Kläger aus dem D&O-Vertrag Pol.-Nr. [NR] Deckungsschutz
+   für den Anspruch [BESCHREIBUNG] zu gewähren.
+
+II. BEGRÜNDUNG
+
+1. Deckungsschutz dem Grunde nach
+   Der Kläger ist versicherte Person gem. § __ AVB D&O. Der
+   Anspruch [GESELLSCHAFT] gegen den Kläger wegen [§ 43 GmbHG /
+   § 93 AktG] ist ein versicherter Vermögensschaden i.S.d. § __ AVB.
+
+2. Claims-made-Zeitraum
+   Anspruchserhebung durch [GESELLSCHAFT/IV] am [DATUM] — innerhalb
+   der Nachhaftungsperiode bis [DATUM].
+
+3. Vorsatz-Einwand verfehlt
+   Der Versicherer trägt die Beweislast für Vorsatz (§ 103 VVG).
+   Der Kläger handelte lediglich fahrlässig [Tatsachenvortrag].
+
+4. Selbstbehalt-Berechnung
+   Selbstbehalt nach § __ AVB: EUR [BETRAG] (10 % oder 1,5×JG).
+   Restforderung: EUR [BETRAG].
+
+Beweis: Anlage K1 Versicherungspolice, K2 AVB, K3 Ablehnungsschreiben,
+        K4 Gutachten [SV], K5 Vollmacht
+```

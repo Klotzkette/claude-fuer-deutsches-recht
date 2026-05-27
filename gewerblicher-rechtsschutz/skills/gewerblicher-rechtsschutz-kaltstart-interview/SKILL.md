@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rechtsschutz-kaltstart-interview
-description: "Ersteinrichtungsinterview für das Plugin „Gewerblicher Rechtsschutz\". Liest Kanzleiprofil, Schutzrechtsportfolio, Durchsetzungsstrategie und Genehmigungsmatrix und schreibt das Ergebnis in CLAUDE.md. Vor dem ersten Einsatz aller anderen Skills ausführen."
+description: "Kanzlei oder Unternehmen richtet das gewerbliche-Rechtsschutz-Plugin zum ersten Mal ein und muss Profil und Strategie hinterlegen. Ersteinrichtung Gewerblicher Rechtsschutz. Pruefraster: Kanzleiprofil Schutzrechtsportfolio Durchsetzungsstrategie Genehmigungsmatrix. Output: CLAUDE.md Kanzleiprofil als Grundlage fuer alle anderen Skills. Abgrenzung zu gewerblicher-rechtsschutz-anpassen (Nachbearbeitung) und mandat-triage-gewerblicher-rechtsschutz."
 ---
 
 # Ersteinrichtungsinterview
@@ -107,6 +107,14 @@ Dieses Interview-Skill zitiert keine primären Rechtsquellen; es konfiguriert da
 ## Ausgabeformat
 
 Gesprächsorientiertes Q&A (ein Themenblock je Nachricht, nicht alle Fragen auf einmal). Abschluss: Bestätigungsmeldung + Link zum angelegten Profil + Liste der freigeschalteten Befehle.
+
+## Rechtlicher Hintergrund: Relevante Normen bei Kanzleieinrichtung
+
+- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 44 – Energieeffizienzklasse III: Durchsetzungsstrategie muss auf echtes Unterlassungsinteresse ausgerichtet sein; missbräuchliche Abmahnserie nach § 8c UWG begündet Haftungsrisiko; Genehmigungsmatrix sollte Missbrauchsprüfung enthalten.
+- BGH, Urt. v. 14.01.2016 – I ZR 65/14, GRUR 2016, 399 Rn. 23: Lizenzanaloger Schadensersatz bei Markenverletzung setzt Rechteinhaber-Position voraus; im Kanzleiprofil müssen eingetragene Schutzrechte vollständig erfasst sein fuer valide Streitwertberechnungen.
+- § 43a Abs. 2 BRAO – Verschwiegenheitspflicht: Schutzrechtsportfolio und Genehmigungsmatrix enthalten mandantenbezogene Daten und unterliegen der Verschwiegenheit; nur in gesicherter Umgebung speichern.
+- § 203 StGB – Schutz mandantenbezogener Daten: Weitergabe des Kanzleiprofils an Dritte ohne Mandantenzustimmung strafbewehrt.
+- FAO § 14k – Fachanwalt gewerblicher Rechtsschutz: Einrichtung des Profils hilft beim Nachweis der Fallzahlen (80 Fälle in 3 Jahren, davon 50 rechtsfoermlich) durch strukturiertes Mandatsmanagement.
 
 ## Risiken / typische Fehler
 

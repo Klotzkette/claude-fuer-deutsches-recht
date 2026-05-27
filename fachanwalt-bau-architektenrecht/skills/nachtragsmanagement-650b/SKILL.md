@@ -1,199 +1,366 @@
 ---
 name: nachtragsmanagement-650b
-description: Pruefraster Bauvertrags-Nachtraege nach § 650b BGB seit Reform 2018. Anordnung Aenderung des vereinbarten Werkerfolgs Anpassung Vergueting Streitvergleich vor Schlichter Anrufung gerichtliche Aenderungs-Antrag. Anwendung VOB/B § 2 VOB/B Mehr- und Minderkosten Anordnungs-Recht Auftraggeber Begruendungs-Pflicht Kalkulations-Grundlagen. Pruefung Stoerung Bauablauf § 6 VOB/B verlaengerte Ausfuehrungs-Frist. Berechnung Nachtrags-Verguetung Selbstkosten plus Zuschlaege Bauzeit-Verlaengerung. Schriftform-Vertraege § 650a BGB.
+description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Pruefraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankuendigungspflicht, Verhandlung. Output: Nachtragsbegruendung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung."
 ---
 
 # Nachtragsmanagement § 650b BGB
 
-## Zweck
+## Mandantenfragen beim Kaltstart
 
-Bauprojekte sind selten konflikt-frei — Anordnungen Änderungen vom Bauherr lösen Nachträge aus. Dieses Skill strukturiert die Anwendung der Reform-2018-Regelung § 650b BGB.
+1. Welcher Vertragstyp — BGB-Bauvertrag § 650a BGB (seit 01.01.2018), Verbraucherbauvertrag § 650i ff. BGB oder VOB/B-Bauvertrag? Bei VOB/B: wirksam als Ganzes einbezogen?
+2. Was ist der konkrete Anlass des Nachtrags — Änderung Werkerfolg (§ 650b Abs. 1 Nr. 1 BGB) oder zusätzliche Leistung notwendig (§ 650b Abs. 1 Nr. 2 BGB)?
+3. Liegt eine schriftliche Anordnung des Auftraggebers vor? Wurden Verhandlungen über Vergütungsanpassung aufgenommen?
+4. Ist die 30-Tage-Verhandlungsfrist für Eilantrag § 650d BGB bereits abgelaufen?
+5. Welche konkreten Mehrkosten entstehen (Material, Lohn, Geräte, Bauzeitverlängerung)?
+6. Wurde Behinderungsanzeige nach § 6 Abs. 1 VOB/B / analog § 642 BGB rechtzeitig gestellt?
+7. Gibt es Kalkulationsunterlagen aus dem Ursprungsangebot für die Kostenbasis nach § 2 Abs. 5 VOB/B?
+8. Besteht Eilbedürftigkeit — drohende Insolvenz Auftraggeber, Fertigstellungstermin überschritten, Subunternehmer unter Zeitdruck?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Anwendungs-Bereich
+## Rechtsgrundlagen
 
-### BGB-Bauvertrag § 650a BGB
+| Norm | Inhalt |
+|------|--------|
+| § 650a BGB | BGB-Bauvertrag — Schriftformempfehlung; Abgrenzung zu Werkvertrag §§ 631 ff. |
+| § 650b BGB | Anordnungsrecht Besteller — Änderung des vereinbarten Werkerfolgs (Nr. 1) oder notwendige Leistungsänderung (Nr. 2); Verhandlungspflicht; Zumutbarkeit |
+| § 650c BGB | Vergütungsanpassung — auf Basis tatsächlicher Kosten; 80-Prozent-Abrechnungsrecht Abs. 3 ohne Einigung |
+| § 650d BGB | Gerichtlicher Eilantrag — einstweilige Verfügung; ab 30 Tage erfolglosen Verhandlungen; Eilbedürftigkeit |
+| § 650i ff. BGB | Verbraucherbauvertrag — besonderer Schutz; Widerruf; Baubeschreibungspflicht |
+| § 642 BGB | Annahmeverzug Besteller — Entschädigung ohne Verschuldensnachweis bei Mitwirkungspflichtverletzung |
+| § 313 BGB | Wegfall Geschäftsgrundlage — bei außergewöhnlichem Kostensprung (selten anwendbar) |
+| § 2 Abs. 5 VOB/B | Mehrvergütung bei Änderung des Bauentwurfs — Kalkulation aus ursprünglichem Angebot |
+| § 2 Abs. 6 VOB/B | Vergütung für nicht beauftragte Leistungen — Zustimmungspflicht AG |
+| § 2 Abs. 7 VOB/B | Einheitspreisvertrag — Masseänderungen; Preisanpassungsrecht bei > 10 % Abweichung |
+| § 6 Abs. 1 VOB/B | Behinderungsanzeige — schriftlich, unverzüglich; Voraussetzung für Anspruch |
+| § 6 Abs. 2 VOB/B | Bauzeitverlängerung um Behinderungsdauer plus Anlaufzeit |
+| § 6 Abs. 6 VOB/B | Schadensersatz bei Verschulden des Auftraggebers — inkl. entgangener Gewinn |
 
-- Seit 1.1.2018 eigene Bauvertrags-Regelung
-- Schriftform empfohlen § 650a Abs. 1 BGB
-- Unterscheidung Verbraucherbauvertrag § 650i ff.
+## Leitentscheidungen
 
-### VOB/B-Bauvertrag
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | VII ZR 23/19 | 09.01.2020 | Erste BGH-Entscheidung zu § 650b/c BGB (Übergangsfall); Anordnungsrecht als neues Instrument |
+| BGH | VII ZR 11/08 | 24.02.2011 | Konkrete bauablaufbezogene Darstellung der Behinderung notwendig; pauschale Behauptungen genügen nicht |
+| BGH | VII ZR 340/13 | 26.02.2015 | § 2 Abs. 5 VOB/B: Kalkulationsgrundlage des Ursprungsangebots maßgeblich für Nachtragspreis |
+| BGH | VII ZR 160/12 | 22.01.2015 | Massenänderung § 2 Abs. 7 VOB/B: Preisanpassung erst ab 10 % Abweichung je Position |
+| BGH | VII ZR 128/09 | 26.04.2012 | § 642 BGB-Entschädigung: Ausgleich ohne Verschulden; Mitwirkungspflicht umfasst Planlieferung und Freimachung |
+| OLG München | 28 U 2174/20 | 15.09.2021 | 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB: Schätzung des AN ist vorläufig; endgültige Abrechnung nach Abnahme |
 
-- Parallele Regelung § 2 VOB/B
-- Bei wirksamer Einbeziehung anwendbar
+## Prüfschema — Nachtragsanspruch im Überblick
 
-## Schritt 1 — Anordnungs-Recht § 650b Abs. 1 BGB
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-### Inhalt
 
-- Bauherr kann **Änderung des vereinbarten Werkerfolgs** anordnen
-- Bauherr kann **Änderung notwendige Leistung** anordnen
-- Unternehmer Pflicht zur Ausführung nach Anordnung — vorbehaltlich Zumutbarkeit
+| Schritt | Prüfpunkt | Norm | Folge |
+|---------|-----------|------|-------|
+| 1 | BGB-Bauvertrag oder VOB/B? | §§ 650a, 305 BGB | Anwendbares Regelwerk |
+| 2 | Änderungsanordnung des AG schriftlich? | § 650b Abs. 1, § 650a BGB | Schriftlichkeit Voraussetzung |
+| 3 | Zumutbarkeit für AN? | § 650b Abs. 1 Satz 2 BGB | AN kann verweigern bei Unzumutbarkeit |
+| 4 | Verhandlungen über Vergütungsanpassung aufgenommen? | § 650b Abs. 2 BGB | Pflicht zur Verhandlung vor Eilantrag |
+| 5 | Einigung über Nachtragsvergütung? | § 650c BGB | Schriftliche Vereinbarung; sonst 80-%-Recht |
+| 6 | Keine Einigung — 80-%-Abrechnungsrecht genutzt? | § 650c Abs. 3 BGB | AN kann 80 % abrechnen; AG zahlt Vorbehalt |
+| 7 | Eilantrag nach 30 Tagen § 650d BGB? | § 650d BGB | Einstweilige Verfügung auf vorläufige Vergütung |
+| 8 | Behinderungsanzeige § 6 VOB/B / § 642 BGB? | § 6 Abs. 1 VOB/B | Ohne Anzeige Verlust Bauzeitverlängerung |
+| 9 | Verjährung Vergütungsanspruch? | § 195 BGB (3 Jahre) | Klage oder Mahnbescheid vor Fristablauf |
 
-### Voraussetzung
+## Schritt 1 — Vertragsgrundlage und Anordnungsrecht
 
-- **Anordnung schriftlich** § 650a BGB
-- **Bestimmtheit** der gewünschten Änderung
+### BGB § 650b — Zwei-Tatbestände-System
 
-### Zumutbarkeit
+**Tatbestand 1 (§ 650b Abs. 1 Nr. 1 BGB):** Besteller ordnet Änderung des vereinbarten Werkerfolgs an.
+- Beispiele: Größenänderung, Materialwechsel, Ausführungsänderung
+- AN muss ausführen, wenn zumutbar
+- Vergütungsanpassung zwingend (§ 650c BGB)
 
-- Bei Unzumutbarkeit für Unternehmer Verweigerungs-Recht § 650b Abs. 1 Satz 2 BGB
-- Beispiel: technisch nicht durchführbar
+**Tatbestand 2 (§ 650b Abs. 1 Nr. 2 BGB):** Änderung notwendig zur Erreichung des vereinbarten Werkerfolgs.
+- Beispiele: unvorhergesehene Bodenverhältnisse, fehlende Plangrundlagen, technische Notwendigkeit
+- AN muss ausführen wenn zumutbar
+- Vergütungsanpassung nach § 650c BGB
 
-## Schritt 2 — Vergütungs-Anpassung § 650c BGB
+**Zumutbarkeits-Vorbehalt:**
+- AN kann Ausführung verweigern wenn betriebsorganisatorisch oder technisch unzumutbar
+- Ablehnungserklärung schriftlich und unverzüglich
+- Beispiele: Leistung technisch nicht machbar; Kapazitäts-Überbelastung
 
-### Vor-Verhandlung
+### VOB/B § 2 Abs. 5 — Parallelregelung
 
-- Beide Parteien sollen tatsächliche und vorhersehbare Kosten verhandeln
-- Verzug mit Verhandlungen begründet Verzögerungs-Folgen
+- Anwendbar bei wirksam einbezogener VOB/B
+- Mehrvergütung bei Änderung des Bauentwurfs
+- Basis: Kalkulationsgrundlagen des ursprünglichen Angebots
+- BGH VII ZR 340/13: tatsächliche Preise aus Ursprungsangebot, nicht Marktwerte
 
-### Bei Einigung
+## Schritt 2 — Vergütungsberechnung § 650c BGB
 
-- Höhere Vergütung
-- Niedrigere Vergütung
-- Verlängerte Ausführungs-Frist
+### Berechnungsmethoden im Überblick
 
-### Bei Nicht-Einigung
+| Methode | Anwendung | Grundlage |
+|---------|-----------|----------|
+| Kostenbasierte Berechnung | BGB-Bauvertrag § 650c Abs. 1 | Tatsächliche Selbstkosten + AGK + WuG |
+| Kalkulationsbasierte Berechnung | VOB/B § 2 Abs. 5 | Kalkulationslinie Ursprungsangebot |
+| 80-%-Abrechnung | § 650c Abs. 3 BGB bei Nicht-Einigung | 80 % des angebotenen Nachtragspreises |
 
-- Unternehmer kann nach **Acht-Zig Prozent** der angebotenen Kosten Abrechnung verlangen
-- Streitvergleich vor Schlichter oder Gerichts-Antrag § 650d BGB
+### Kalkulations-Positionen (Selbstkosten-Berechnung)
 
-## Schritt 3 — Berechnungs-Grundlagen Nachtrag
+```
+Nachtragsposition — Selbstkostenkalkulation
 
-### Selbstkosten-Berechnung
+I. Lohnkosten
+   Stundenanzahl:        [X] h
+   Stundensatz brutto:   EUR [Y]/h (inkl. SV-Anteile + Zulagen)
+   Gesamt:               EUR [A]
 
-- **Material** Einkaufspreis plus Verwaltungs-Zuschlag
-- **Lohn** Stundensatz Bau-Mindestlohn plus Sozialversicherung Verwaltung
-- **Geräte** Vorhaltungs-Stunden Kostensätze
-- **Allgemeine Geschäftskosten** AGK plus Wagnis und Gewinn
+II. Materialkosten
+   Einkaufspreise:       EUR [B] netto
+   Lager-/Handlingszuschlag [5–10 %]: EUR [C]
+   Gesamt:               EUR [D]
 
-### Kalkulations-Grundlage
+III. Gerätekosten
+   Mietkosten/AfA:       EUR [E] (Geräteliste)
+   Betriebskosten:       EUR [F]
+   Gesamt:               EUR [G]
 
-- Bei BGB-Vertrag eigene tatsächliche Kosten
-- Bei VOB/B-Vertrag Kalkulations-Grundlagen des Vertrags-Angebots § 2 Abs. 5 VOB/B
+IV. Nachunternehmerkosten
+   NU-Angebot netto:     EUR [H]
+   Verwaltungszuschlag [5 %]: EUR [I]
+   Gesamt:               EUR [J]
 
-### Mehr- oder Minder-Kosten
+V. Allgemeine Geschäftskosten (AGK)
+   Prozentsatz aus Ursprungsangebot: [X]%
+   Basis: I+II+III+IV =  EUR [K]
+   AGK [X]%:             EUR [L]
 
-- Beide Richtungen
-- Bei reduzierter Leistung Minderkosten
+VI. Wagnis und Gewinn (WuG)
+   Prozentsatz aus Ursprungsangebot: [X]%
+   WuG:                  EUR [M]
 
-## Schritt 4 — Bauzeit-Verlängerung
+GESAMTNETTO:              EUR [Summe]
+USt 19%:                  EUR [Summe]
+GESAMTBRUTTO:             EUR [Summe]
+```
 
-### Bei Anordnung mit längerer Ausführungs-Dauer
+### Massenänderung VOB/B § 2 Abs. 7
 
-- Bauablaufstörung Frist-Verlängerung
-- Bei Witterung höherer Gewalt Frist-Verlängerung § 6 VOB/B
+- Bei > 10 % Mengenabweichung einer Position: Preisanpassungsrecht
+- Auf Antrag einer der Parteien
+- Anpassung nach Verhältnis; BGH VII ZR 160/12: tatsächliche Kalkulationsgrundlage
 
-### Behinderungs-Anzeige § 6 Abs. 1 VOB/B
+## Schritt 3 — 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB
 
-- **Schriftlich** beim Auftraggeber
-- **Unverzüglich** nach Erkennen
-- Beweissicherungs-Funktion
-- Bei Unterlassen Verzicht auf Verlängerung
+**Voraussetzung:**
+- AN hat Nachtragsangebot gemäß § 650c Abs. 1 BGB erstellt
+- AG hat Angebot nicht oder nicht vollständig angenommen
+- Leistung ist ausgeführt oder ausführbar
+
+**Inhalt:**
+- AN darf 80 % der angebotenen Nachtragsvergütung in Abschlagsrechnung stellen
+- AG zahlt unter Vorbehalt
+- Endabrechnung nach Abnahme (vollständige Nachtragsabrechnung)
+
+**Verfahren:**
+1. Nachtragsangebot erstellen (vollständige Kalkulation)
+2. AG lehnt ab oder keine Einigung nach 30 Tagen
+3. AN stellt Abschlagsrechnung mit 80 % der Nachtragssumme
+4. AG zahlt unter Vorbehalt weiterer Prüfung
+
+## Schritt 4 — Behinderungsanzeige (Voraussetzung Bauzeitverlängerung)
+
+**§ 6 Abs. 1 VOB/B — Pflichten:**
+- Schriftlich (auch E-Mail mit Lesebestätigung)
+- Unverzüglich bei Erkennen (Praxis: binnen 48–72 h)
+- Konkrete Beschreibung der Behinderungsursache
+- Voraussichtliche Dauer und Auswirkung
+
+**Ohne Behinderungsanzeige:**
+- Anspruch auf Bauzeitverlängerung entfällt (§ 6 Abs. 1 Satz 2 VOB/B)
+- Ausnahme: Offenkundigkeit der Behinderung (BGH VII ZR 11/08)
+- Schadenersatzanspruch § 6 Abs. 6 VOB/B bleibt bei Verschulden AG bestehen
+
+**§ 642 BGB — Annahmeverzug (BGB-Vertrag):**
+- AG kommt in Annahmeverzug wenn Mitwirkung unterbleibt
+- Entschädigung ohne Verschuldensnachweis
+- Höhe: angemessene Vergütung + ersparte Aufwendungen
 
 ## Schritt 5 — Gerichtlicher Eilantrag § 650d BGB
 
-- Beidseitig möglich nach 30 Tagen verfolglose Verhandlung
-- Bei Eilbedürftigkeit kürzer
-- Einstweilige Verfügung möglich
-- BGH VII ZR 23/19 zur ersten Anwendung
-- Bauzeit-Schiedsverfahren
+**Voraussetzungen:**
+1. Parteien haben mindestens 30 Tage verhandelt ohne Einigung
+2. Bei Eilbedürftigkeit (drohender Bauverzug, Insolvenzgefahr) auch früher
+3. Antrag auf einstweilige Verfügung auf vorläufige Vergütungszahlung
 
-## Schritt 6 — Honorar-Anpassung
+**Inhalt Eilantrag:**
+- Bescheinigung des Verhandlungsversuchs (E-Mails, Protokolle)
+- Kostennachweis (Kalkulation, Belege)
+- Eilbedürftigkeit begründen (z.B. Liquiditätsengpass, drohende Insolvenz)
 
-### Schriftliche Vergütungs-Vereinbarung
+**Besonderheit:** § 650d BGB schließt für Baurechtsstreitigkeiten den Verfügungsgrund der Dringlichkeit nicht aus — eigene Tatbestandsvoraussetzungen.
 
-- Bei Einigung schriftlich
-- Bei Schweigen acht-Zig Prozent Abrechnungs-Recht
+## Strategische Optionen (vor dem Template entscheiden)
 
-### Bei Streit-Vergleich vor Schlichter
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-- Standardisierte Schlichtungs-Verfahren der Bau-Verbände
-- Verhandlungs-Ergebnis bindend
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Nachtragsanspruch nach § 650b BGB oder VOB/B geltend machen | Fuenfstufiges Schema; Bausteine unten |
+| Variante A — Auftraggeber bestreitet Anordnung | 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB nutzen |
+| Variante B — Streit ueber Vergaetungshoehe | Kalkulations-Methode OffMat-Vergleich; Gerichtsgutachten antizipieren |
+| Variante C — eilige Bauzeitverlaengerung noetig | Gerichtlicher Eilantrag § 650d BGB; kurzfristig stellen |
 
-## Schritt 7 — Strategische Aspekte
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-### Aus Auftraggeber-Sicht
+## Schriftsatz-Bausteine
 
-- **Anordnungs-Recht** flexibel einsetzbar
-- **Kostenkontrolle** durch Verhandlungs-Pflicht
-- **Bei Streit Achzig-Prozent-Regel** beachten
-
-### Aus Auftragnehmer-Sicht
-
-- **Behinderungs-Anzeige** sofort schreiben
-- **Schriftliche Dokumentation** aller Anordnungen
-- **Kostenkalkulation** vorbereiten
-- **Bei Verschulden Verzögerung** Schadensersatz
-
-## Schritt 8 — Konkrete Schriftsätze
-
-### Behinderungs-Anzeige § 6 VOB/B
+### Behinderungsanzeige § 6 Abs. 1 VOB/B
 
 ```
+An die [Auftraggeberin / Bauleitung]
+Bauvorhaben [Objekt] Vertrag-Nr. [Nr.]
+
+Behinderungsanzeige § 6 Abs. 1 VOB/B
+[Datum]
+
 Sehr geehrte Damen und Herren,
 
-aufgrund [Ursache der Behinderung] können wir unsere
-vertraglich geschuldete Leistung in der vereinbarten
-Bauzeit nicht erbringen.
+namens und in Vollmacht des Auftragnehmers zeigen wir
+folgende Behinderung der Bauausführung an:
 
-Die Behinderung dauert voraussichtlich [Tage] an.
+I. Sachverhalt
+Beginn der Behinderung: [Datum, Uhrzeit]
+Ursache:                [konkrete Beschreibung — z.B. fehlende
+                         Planlieferung Ausführungsplan Nr. XX,
+                         nicht fertiggestelltes Vorgewerk Gewerk Y,
+                         Anordnung Auftraggeber vom [Datum]]
+Betroffenes Gewerk:     [Bezeichnung]
+Auswirkung:             Vollständiger Stillstand / Teilstillstand
 
-Mehrkosten [EUR Schätzwert] sind absehbar.
+II. Voraussichtliche Folgen
+1. Bauzeitverlängerung voraussichtlich [Anzahl] Werktage (§ 6 Abs. 2 VOB/B)
+2. Stillstandskosten Personal [Anzahl] Arbeitnehmer × [Tagessatz]
+3. Vorhaltekosten Geräte [Beschreibung]
+4. Beschleunigungsmaßnahmen ggf. erforderlich
 
-Wir bitten um Anpassung der Bauzeit und um Anpassung
-der Vergütung.
+III. Forderungen
+Wir behalten uns Geltendmachung von Bauzeitverlängerung und
+Mehrvergütung gemäß § 6 Abs. 2 und Abs. 6 VOB/B ausdrücklich vor.
+Das Nachtragsangebot wird gesondert eingereicht.
 
-Mit freundlichen Grüßen
+Wir bitten um umgehende Beseitigung der Behinderungsursache
+und Rückmeldung bis [Datum].
+
+Anlagen: Bautagebuchauszug, Fotodokumentation, Bauablaufplan SOLL/IST
 ```
 
-### Nachtrags-Angebot
+### Nachtragsangebot nach § 650c BGB / § 2 Abs. 5 VOB/B
 
 ```
-Nachtrags-Angebot Nr. [N] vom [Datum]
-
+Nachtragsangebot Nr. [N] vom [Datum]
 Bauvorhaben: [Bezeichnung]
-Auftraggeber: [Name]
-Auftragnehmer: [Name]
+Auftraggeber: [Name, Anschrift]
+Auftragnehmer: [Name, Anschrift]
 
-Anordnung des Auftraggebers vom [Datum]:
-[Inhalt der Anordnung]
+Anlass:
+Änderungsanordnung des Auftraggebers vom [Datum], Az./Schreiben: [Ref.]
+[Kurzbeschreibung der Änderung]
 
-Mehrleistung gemäß § 650c BGB / § 2 Abs. 5 VOB/B:
-- [Positions-Beschreibung mit Menge und Einheits-Preis]
-- ...
+Kalkulationsgrundlage: Selbstkosten nach § 650c Abs. 1 BGB
+[alternativ: Kalkulationsgrundlage Ursprungsangebot nach § 2 Abs. 5 VOB/B]
 
-Mehrkosten netto: EUR [Summe]
-USt: EUR [Summe]
-Brutto: EUR [Summe]
+Pos. | Leistungsbeschreibung        | Menge  | Einheit | EP (EUR) | GP (EUR)
+-----|------------------------------|--------|---------|----------|----------
+001  | [Beschreibung Mehrleistung]  | [X]    | [m²/h]  | [Y]      | [Z]
+002  | [Beschreibung Mehrleistung]  | [X]    | [Stk]   | [Y]      | [Z]
+...
 
-Bauzeit-Verlängerung: [Tage]
+Gesamtnetto:         EUR [Summe]
+Umsatzsteuer 19%:    EUR [Summe]
+Gesamtbrutto:        EUR [Summe]
+
+Bauzeitverlängerung: [Anzahl] Werktage gemäß anliegender Bauablaufanalyse.
+
+Dieses Angebot gilt 30 Tage. Bei Nichteinigung behalten wir uns
+die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
+
+[Unterschrift Auftragnehmer]
 ```
 
-## Schritt 9 — Verjährung
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- Werkmangel-Ansprüche fünf Jahre § 634a BGB
-- Vergütungs-Ansprüche drei Jahre § 195 BGB
-- Bei Nachträgen Verjährung pro Nachtrag separat
 
-## Schritt 10 — Schnittstelle Mangel-Ansprüche
+## Beweislast
 
-- Bei mangelhafter Leistung Skill `werkmangel-vob-bgb-pruefen`
-- Bei Nachtrags-Streit hier
-- Differenzierung wichtig — Vergütungs-Streit anderer Klage-Ansatz als Mangel-Streit
+| Partei | Beweislastgegenstand | Beweismittel |
+|--------|---------------------|--------------|
+| Auftragnehmer | Anordnung des Auftraggebers erfolgt | Schriftliche Anordnung, E-Mail, Baubesprechungsprotokoll |
+| Auftragnehmer | Kalkulation der Mehrkosten | Kostenaufstellung, Lieferscheine, Stundenzettel |
+| Auftragnehmer | Behinderung eingetreten, Datum | Behinderungsanzeige, Bautagebuch |
+| Auftragnehmer | Kausalität Bauzeit | Bauablaufplan SOLL/IST, SV-Gutachten |
+| Auftraggeber | Nachtrag nicht zumutbar | Technische Unmöglichkeit, wirtschaftliche Unzumutbarkeit |
+| Auftraggeber | Eigene Kalkulationsgrundlage (Gegenangebot) | Eigene Kostenschätzung |
 
-## Ausgabe
+## Fristen
 
-- `nachtrags-analyse.md` mit Anordnungs-Dokumentation
-- Nachtrags-Angebot strukturiert
-- Behinderungs-Anzeige ggf.
-- Frist im Fristenbuch
-- Bei Eilbedürftigkeit Eilantrag-Vorbereitung § 650d BGB
+| Frist | Auslöser | Dauer | Folge |
+|-------|---------|-------|-------|
+| Behinderungsanzeige § 6 Abs. 1 VOB/B | Erkennen Behinderung | Unverzüglich (max. 2–3 Werktage) | Verlust Bauzeitverlängerungsanspruch |
+| Verhandlungsfrist vor Eilantrag § 650d | Einreichung Nachtrag | 30 Tage | Nach Ablauf Eilantrag möglich |
+| 80-Prozent-Abrechnung | Ablehnung Nachtrag oder Verhandlungsschluss | Ab Ablehnung möglich | Vorläufige Abschlagszahlung |
+| Verjährung Vergütungsanspruch | Abnahme | 3 Jahre § 195 BGB | Klage oder Mahnbescheid |
+| Verjährung VOB/B-Mehrvergütung | Schlussrechnungsstellung | 3 Jahre allg. | Anspruchsverlust |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument Auftraggeber | Reaktion |
+|---------------------------|---------|
+| „Leistung war bereits im Vertrag enthalten" | LV-Analyse: Positionsbeschreibung, Leistungsverzeichnis — Abgrenzung zu tatsächlicher Mehrleistung |
+| „Preis überhöht, Marktpreise niedriger" | § 650c BGB: Selbstkosten maßgeblich, nicht Marktpreise; bei VOB/B: Kalkulationsgrundlage Ursprungsangebot (BGH VII ZR 340/13) |
+| „Keine schriftliche Anordnung, nur mündlich" | Baubesprechungsprotokoll, E-Mail-Bestätigung als Beweis; bei VOB/B § 1 Abs. 4: auch konkludente Anordnung |
+| „80-Prozent-Abrechnung zu früh" | § 650c Abs. 3 BGB: 30 Tage Verhandlung oder Ablehnung genügt; keine weiteren Fristen |
+| „Behinderungsanzeige fehlte" | Offenkundigkeit der Behinderung entbindet von Anzeigepflicht; Dokumentation durch Bautagebuch |
+| „Bauzeitverlängerung nicht nachgewiesen" | BGH VII ZR 11/08: Konkrete Bauablaufanalyse; kritischer Pfad; SV-Gutachten |
+
+## Streitwert und Kosten
+
+**Streitwert:**
+- Nachtragsstreitigkeiten typisch EUR 20.000–500.000
+- 80-%-Abschlag: 80 % des Nachtragswerts
+- Bauzeitverlängerungskosten kumulativ
+
+**Gerichtsgebühren Beispiel EUR 100.000 Streitwert:**
+- LG: ca. EUR 2.571 (3,0 Gebühr)
+- RA je Partei: ca. EUR 6.000–8.000 (1,3 VV + Terminsgebühr)
+- SV-Bauablaufgutachten: EUR 5.000–20.000
+
+**Praktische Wirtschaftlichkeit:**
+- Eilantrag § 650d BGB bei Nachtrag > EUR 50.000 wirtschaftlich sinnvoll
+- Bei kleineren Nachträgen: Bauunternehmer-Spitzenverband-Schlichtung
+
+## Strategische Empfehlung
+
+| Strategie | Empfehlung | Begründung |
+|-----------|-----------|------------|
+| Dokumentation | Jede Änderungsanordnung sofort schriftlich bestätigen | Beweissicherung; mündliche Anordnungen gehen verloren |
+| Nachtragsangebot | Innerhalb 7 Tage nach Anordnung einreichen | Verhindert Streit über Verhandlungsbeginn und 30-Tage-Frist |
+| Bautagebuch | Täglich führen mit Unterschrift Bauleitung beider Seiten | Entscheidender Beweis für Behinderung und Kausalität |
+| 80-%-Recht | Bei stockenden Verhandlungen frühzeitig anwenden | Liquiditätssicherung; AG ist unter Zugzwang |
+| Eilantrag | Bei > EUR 50.000 Nachtragssumme und stockenden Verhandlungen | § 650d BGB als starkes Druckmittel |
+| Baurechts-SV | Früh einschalten für Bauablaufanalyse | BGH VII ZR 11/08-Anforderungen ohne SV kaum erfüllbar |
+
+## Anschluss-Skills
+
+- `fachanwalt-bau-architektenrecht-bauablauf-vbg` — Behinderungsanzeige und Bauzeitverlängerung
+- `fachanwalt-bau-architektenrecht-werkmangel-vob-bgb-pruefen` — wenn Nachtragstreit mit Mangelhaftung verbunden
+- `fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt` — nach Fertigstellung
 
 ## Quellen
 
-- BGB §§ 650a 650b 650c 650d 650i
-- VOB/B §§ 2 6
-- BGH VII. Zivilsenat
-- Werner/Pastor Bauprozess
-- Kniffka/Koeble Kompendium
+- BGB §§ 650a–650d, 650i–650v, 642
+- VOB/B §§ 1, 2, 6
+- BGH VII ZR 23/19 (09.01.2020)
+- BGH VII ZR 11/08 (24.02.2011)
+- BGH VII ZR 340/13 (26.02.2015)
+- Werner/Pastor, Der Bauprozess, 16. Aufl.
+- Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
+- Kapellmann/Schiffers, Vergütung und Bauablauf
+- Stand: 05/2026

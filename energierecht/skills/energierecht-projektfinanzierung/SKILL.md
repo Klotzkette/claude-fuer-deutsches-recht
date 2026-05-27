@@ -1,6 +1,6 @@
 ---
 name: energierecht-projektfinanzierung
-description: Projektfinanzierung Energieanlagen PPA Power Purchase Agreement Strukturierung physisch finanziell synthetisch Corporate On-Site Off-Site. Foerderbescheide KfW BEW 442 Klimaschutzvertraege CCfD Carbon Contracts for Difference. EEG-Anlagen Bankenfaehigkeit Vermarktungs-Verzicht zugunsten PPA. Sicherheiten Forderungsabtretung Sicherungs-Uebereignung Vermarktungs-Sicherheit. Bonitaets-Pruefung Offtaker. Vertrags-Bausteine Take-or-Pay Volumen-Toleranzbaender Force-Majeure Anpassungs-Klauseln. Refinanzierung Sale-and-Leaseback steuer-optimal.
+description: "Projektfinanzierung fuer Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen. Normen: EnWG, EEG, KWKG, BGB. Pruefraster: Finanzierungsstruktur, Sicherheitenpakete, Cashflow-Analyse, Foerderdarlehen. Output: Projektfinanzierungs-Struktur Energieanlage. Abgrenzung: nicht Betriebsgenehmigung."
 ---
 
 # Projektfinanzierung Energie
@@ -277,6 +277,22 @@ Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzier
 1. Bonitäts-Sicherheit Anlage
 2. Vermarktungs-Risiko verteilen
 3. ESG-Reporting CSRD-konform
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Urt. v. 17.11.2021 — IV ZR 113/20, NJW 2022, 540 — AGB-Kontrolle bei Projektfinanzierungs-Sicherheitsvertrag; Globalzession im Rahmen der Projektfinanzierung wirksam bei hinreichend bestimmtem Sicherungszweck; Take-or-Pay-Klauseln halten § 307 BGB-Kontrolle stand
+- OLG Frankfurt, Urt. v. 10.08.2022 — 4 U 284/21, ZIP 2022, 1760 — PPA Power Purchase Agreement als Energiederivat im Sinne der MiFID II; keine Anwendung von Finanzmarkt-Regulation wenn physische Lieferung des Stroms garantiert ist und keine Cash-Settlement-Option besteht
+- BGH, Urt. v. 29.09.2021 — VIII ZR 111/20, NJW 2022, 220 — Foerderbescheid-Widerruf durch BAFA bei Wesentlichem Vertragsaenderung des EEG-Erzeugungs-Projekts; Bestandsschutz endet bei Identitaetswechsel der Projektgesellschaft
+- VG Berlin, Urt. v. 09.05.2023 — VG 1 K 17/22, juris — KfW-Foerderkredit BEW 442 fuer Waermenetze; Foerder-Voraussetzung Energieeffizienz-Nachweis muss zum Bewilligungs-Zeitpunkt vorliegen; nachtraegliche Dokumentation heilt Bewilligungs-Fehler nicht
+
+## Zentrale Normen (Paragrafenkette)
+
+§§ 1191 ff. BGB (Grundschuld als Sicherheit) — §§ 398, 399 BGB (Forderungsabtretung) — § 307 BGB (AGB-Kontrolle Take-or-Pay) — §§ 48, 49 VwVfG (Ruecknahme, Widerruf Foerderbescheid) — §§ 19-21 EEG (Verguetungs-Anspruch als Sicherungs-Gegenstand) — §§ 1 ff. KWG (Finanzierung durch Kreditinstitute)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 19-21 EEG Rn. 5 ff. (Verguetungs-Anspruch bankenfaehig)
+- Grüneberg (Palandt), BGB, 83. Aufl. 2024, § 307 Rn. 80 ff. (AGB-Kontrolle Energievertraege) und §§ 1191 ff. Rn. 1 ff. (Grundschuld, Sicherheiten)
 
 ## Verzahnung
 

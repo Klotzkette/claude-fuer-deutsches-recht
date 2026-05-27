@@ -1,6 +1,6 @@
 ---
 name: common-law-contract-formation-consideration
-description: "Erklärt offer, acceptance, consideration, deed, promissory estoppel und UCC-Varianten ohne deutsche Gegenleistungsfalle."
+description: "Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Pruefraster Consideration-Pruefung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklaerung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln)."
 ---
 
 # Contract Formation und Consideration
@@ -47,3 +47,54 @@ Contract formation wird nicht mit deutschem Willenserklärungs- und Synallagma-A
 ## Ton
 
 Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Triage
+
+Before proceeding, clarify:
+1. Which jurisdiction — England/Wales, New York, Delaware, other US state, or multi-jurisdictional?
+2. Is this a simple contract, deed, or a contract under UCC (goods)?
+3. Is there a consideration issue — adequacy vs. sufficiency; past consideration?
+4. Promissory estoppel raised — US or UK variant?
+
+## Key Case Law
+
+- **Currie v Misa** [1875] LR 10 Ex 153 — Classic definition of consideration (UK): a valuable consideration may consist of a right, interest, profit, or benefit; or forbearance, detriment, loss or responsibility.
+- **Williams v Roffey Brothers** [1991] 1 QB 1 (CA) — Practical benefit as fresh consideration for renegotiated price; avoids strict Stilk v Myrick rule in subcontractor context.
+- **Carlill v Carbolic Smoke Ball Co** [1893] 1 QB 256 (CA) — Offer to public; unilateral contract; acceptance by performance; consideration satisfied by inconvenience of use.
+- **Foakes v Beer** [1884] 9 AC 605 (HL) — Part-payment of debt not good consideration for release of balance; no practical benefit in pure debt context (distinguishable from Williams v Roffey).
+- **UCC § 2-204** (US) — Contract for sale of goods may be formed in any manner showing agreement including conduct; no need for mirror-image acceptance.
+
+## Normen und Quellen
+
+- **UK:** Contracts (Rights of Third Parties) Act 1999; Misrepresentation Act 1967; Sale of Goods Act 1979; Consumer Rights Act 2015
+- **US:** UCC Article 2 (goods); Restatement (Second) of Contracts (services); common law (Restatement)
+- Cheshire, Fifoot and Furmston, Law of Contract (17th ed. 2017)
+- Treitel, Law of Contract (14th ed. 2015)
+
+## Output Template: Contract Formation Checklist
+
+**Addressee:** Client or internal memo
+**Tone:** Clear, functional; highlighting jurisdiction-specific risks
+
+```
+CONTRACT FORMATION CHECKLIST
+Date: [DATE] — Matter: [DESCRIPTION]
+Jurisdiction: [England/Wales / New York / Delaware / ...]
+
+1. OFFER: Clear, definite, communicated: [YES / NO — issue: ...]
+2. ACCEPTANCE: Mirror-image (UK strict) / UCC 2-207 (US battle of forms): [...]
+   Method of acceptance: [in writing / conduct / performance]
+3. CONSIDERATION:
+   Adequacy (courts generally don't review): [YES]
+   Sufficiency (must be of value in law): [YES / NO — past consideration issue?]
+   Practical benefit (Williams v Roffey applicable?): [YES / NO]
+4. INTENTION TO CREATE LEGAL RELATIONS: [presumed commercial / rebutted?]
+5. DEED (if consideration absent): [signed / witnessed / delivered?]
+6. CAPACITY: parties legally capable: [YES / NO — corporation authority?]
+7. UCC ISSUES (if goods): Merchant rule § 2-205 / 2-207: [applicable / not]
+
+RESULT:
+[ ] Valid binding contract
+[ ] Contract fails — issue: [DESCRIPTION]
+[ ] Local counsel review recommended
+```

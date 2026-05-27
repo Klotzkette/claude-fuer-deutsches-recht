@@ -1,6 +1,6 @@
 ---
 name: wandlungspreis-berechnung
-description: "Konkrete Formel fuer den Wandlungspreis: Anteile = (Darlehen + aufgelaufene Zinsen) / Wandlungspreis. Wandlungspreis = MIN(Pre-Money/vollverwaesserte Anteile, (1-Discount) x Pre-Money/Anteile, Cap/Anteile). Schritt-fuer-Schritt-Beispielrechnung fuer alle drei Trigger-Typen. Aufrundungsregel nach § 5 GmbHG."
+description: "Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandlung ausgeloest wird. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Bewertungsdeckel Rabatt Qualified-Financing-Preis MFN Verwasserungsschutz Rundungsregel. Output: Berechnungsnachweis Wandlungspreis neue Anteile. Abgrenzung: nicht fuer Cap-Table-Update (cap-table-update-pre-post)."
 ---
 
 # Wandlungspreis-Berechnung
@@ -95,3 +95,15 @@ Wandlungssumme C − Nennbetrag neue Anteile = Einlage in Kapitalrücklage (§ 2
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 5 und 55 ff. sowie HGB § 272 aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6 Rn. 20: Bei Berechnung des Wandlungspreises nach der Cap-Formel ist sicherzustellen, dass die einzubringende Forderung den Wandlungspreis je Anteil übersteigt; Differenzhaftung (§ 56 Abs. 2 GmbHG) tritt ein, wenn der Sachwert der Forderung unter dem Nennbetrag der neuen Anteile liegt — daher ist Zinsberechnung bis zum Wandlungsstichtag exakt durchzuführen.
+
+BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 22: Der Wandlungspreis je Anteil ergibt sich aus der Formel MIN(Cap/vollverwässerte Anteile; Runden-Preis × (1-Discount)); Aufrundung auf ganze Anteile nach § 5 Abs. 1 GmbHG (Mindestnennbetrag 1 EUR je Anteil) ist zwingend.
+
+### Normen-Ergänzung
+
+§ 5 Abs. 1 GmbHG (Mindest-Nennbetrag 1 EUR pro Anteil, Aufrundung) → § 56 Abs. 2 GmbHG (Differenzhaftung bei Unterschreitung Sachwert) → § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage für Wandlungsagio) → §§ 488 ff. BGB (Zinslauf bis Wandlungsstichtag) → § 138 BGB (Sittenwidrigkeit bei Preis-Manipulation)

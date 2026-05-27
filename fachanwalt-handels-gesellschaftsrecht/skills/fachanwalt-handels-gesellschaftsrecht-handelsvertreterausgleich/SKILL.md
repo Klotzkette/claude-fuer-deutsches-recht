@@ -1,213 +1,279 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich
-description: Ausgleichsanspruch des Handelsvertreters nach § 89b HGB. Drei kumulative Voraussetzungen Unternehmervorteile aus geworbenen Neukunden Provisionsverluste des Handelsvertreters und Billigkeit. Höchstgrenze § 89b Abs. 2 HGB durchschnittliche Jahresvergütung der letzten fünf Jahre. Ausschluss bei Eigenkündigung des Handelsvertreters § 89b Abs. 3 HGB. Verzicht im Voraus unwirksam § 89b Abs. 4 HGB. Berechnung nach Münchener Modell. Geltendmachung binnen Jahresfrist. Schreibvorlagen.
+description: "Handelsvertreterausgleich § 89b HGB: drei kumulative Voraussetzungen (Unternehmervorteile, Provisionsverluste, Billigkeit). Höchstgrenze Durchschnitt 5-Jahres-Vergütung § 89b Abs. 2 HGB. Ausschlussgründe § 89b Abs. 3 HGB (Eigenkündigung ohne wichtigen Grund). Jahresfrist § 89b Abs. 4 HGB. Verzicht im Voraus unwirksam. Berechnung Münchener Modell (Abwanderungsquote, Abzinsung, Billigkeit). Analoge Anwendung auf Vertragshändler/Franchisenehmer (BGH VIII ZR 249/08). EuGH-Rechtsprechung Semen C-348/07. Schriftsatzvorlagen Geltendmachung und Klage."
 ---
 
-# Handelsvertreterausgleich nach § 89b HGB
+## Mandantenfragen beim Kaltstart
 
-## Kaltstart-Rückfragen
-
-1. Wann endete das Handelsvertreterverhältnis und durch wen wurde es beendet (Eigenkündigung Handelsvertreter, Kündigung Unternehmer, Aufhebung, Tod)?
-2. Hat der Handelsvertreter neue Kunden geworben oder Geschäftsverbindungen wesentlich erweitert, und führen diese auch nach Vertragsende zu Umsätzen?
-3. Höhe der Provisionen der letzten fünf Vertragsjahre (Jahresvergütungen) — wegen § 89b Abs. 2 HGB Höchstgrenze.
-4. Wurde der Anspruch innerhalb eines Jahres nach Vertragsende schriftlich geltend gemacht (§ 89b Abs. 4 Satz 2 HGB)?
-5. Gibt es einen schriftlichen Handelsvertretervertrag mit Ausgleichsklauseln, Wettbewerbsabreden, Karenzentschädigung?
-6. Liegen Gründe für den Ausschluss nach § 89b Abs. 3 HGB vor (Eigenkündigung ohne wichtigen Grund, schuldhaftes Verhalten, Übernahme durch Dritten mit Vereinbarung)?
+1. Wann endete das Handelsvertreterverhältnis, und wer hat es beendet (Eigenkündigung des Handelsvertreters, Kündigung des Unternehmens, einvernehmliche Aufhebung, Tod)?
+2. Hat der Handelsvertreter neue Kunden geworben oder bestehende Geschäftsverbindungen wesentlich erweitert, und erzielen diese Kunden nach Vertragsende weiterhin Umsätze beim Unternehmer?
+3. Wie hoch waren die Provisionen der letzten 5 Vertragsjahre (Jahresvergütungen für § 89b Abs. 2 HGB-Höchstgrenze)?
+4. Wurde der Ausgleichsanspruch innerhalb eines Jahres nach Vertragsende schriftlich geltend gemacht (§ 89b Abs. 4 S. 2 HGB)?
+5. Liegt ein schriftlicher Handelsvertretervertrag mit Ausgleichs-, Wettbewerbs- oder Karenzklauseln vor?
+6. Liegt ein Ausschlussgrund vor — Eigenkündigung ohne wichtigen Grund, Kündigung des Unternehmers aus schuldhaftem Verhalten des Handelsvertreters, Übernahme durch Dritten mit Vereinbarung?
+7. Handelt es sich ggf. um einen Vertragshändler oder Franchisenehmer (analoge Anwendung § 89b HGB)?
+8. Welche Sogwirkung hat die Marke des Unternehmers gehabt — stark oder schwach — relevant für Billigkeitskorrektur?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
-- **§ 89b Abs. 1 HGB:** Ausgleichsanspruch nach Beendigung des Vertragsverhältnisses bei kumulativen Voraussetzungen — (1) Unternehmer hat aus der Geschäftsverbindung mit neuen Kunden, die der Handelsvertreter geworben hat, auch nach Beendigung des Vertragsverhältnisses erhebliche Vorteile; (2) der Handelsvertreter verliert infolge der Beendigung Ansprüche auf Provision, die er bei Fortsetzung des Vertragsverhältnisses aus bereits abgeschlossenen oder künftig zustande kommenden Geschäften mit den von ihm geworbenen Kunden hätte; (3) die Zahlung eines Ausgleichs entspricht unter Berücksichtigung aller Umstände der Billigkeit.
-- **§ 89b Abs. 2 HGB:** Höchstgrenze — der Ausgleich beträgt höchstens eine nach dem Durchschnitt der letzten fünf Jahre der Tätigkeit des Handelsvertreters berechnete Jahresprovision oder sonstige Jahresvergütung; bei kürzerer Dauer ist der Durchschnitt während der Dauer der Tätigkeit maßgebend.
-- **§ 89b Abs. 3 HGB:** Ausschluss — kein Anspruch, wenn (1) der Handelsvertreter gekündigt hat, es sei denn, ein Verhalten des Unternehmers gibt hierzu begründeten Anlass oder dem Handelsvertreter ist eine Fortsetzung wegen Alter oder Krankheit nicht zuzumuten; (2) der Unternehmer aus wichtigem Grund wegen schuldhaften Verhaltens des Handelsvertreters gekündigt hat; (3) eine Übernahme durch einen Dritten mit Vereinbarung mit dem Unternehmer erfolgt.
-- **§ 89b Abs. 4 HGB:** Anspruch kann im Voraus nicht ausgeschlossen werden; binnen einer Jahresfrist nach Beendigung des Vertragsverhältnisses geltend zu machen.
-- **§ 89b Abs. 5 HGB:** Anwendung auf Versicherungs- und Bausparkassenvertreter mit Modifikationen (eigene Höchstgrenzen).
-- **Analoge Anwendung:** Vertragshändler, wenn er nach dem Vertrag in die Absatzorganisation des Herstellers eingegliedert ist und verpflichtet ist, bei Vertragsende seinen Kundenstamm zu übertragen (BGH-Rechtsprechung).
+| Norm | Inhalt |
+|------|--------|
+| § 89b Abs. 1 HGB | Ausgleichsanspruch: (1) Unternehmervorteile aus neuen Kunden, (2) Provisionsverluste des HV, (3) Billigkeit |
+| § 89b Abs. 2 HGB | Höchstgrenze: Durchschnitt der letzten 5 Jahresvergütungen; bei kürzerer Vertragsdauer: Gesamtdurchschnitt |
+| § 89b Abs. 3 HGB | Ausschluss: Eigenkündigung ohne wichtigen Grund; Kündigung durch Unternehmer aus schuldhaftem Verhalten; Übernahme durch Dritten |
+| § 89b Abs. 4 HGB | Verzicht im Voraus unwirksam; Geltendmachung binnen 1 Jahr nach Beendigung |
+| § 89b Abs. 5 HGB | Modifizierte Anwendung auf Versicherungs- und Bausparkassenvertreter |
+| § 89a HGB | Kündigung aus wichtigem Grund; fristlose Kündigung |
+| §§ 84 ff. HGB | Begriffsbestimmung Handelsvertreter; ständiger Betrauung; selbständiger Gewerbetreibender |
+| § 92 HGB | Versicherungsvertreter; Sonderregeln |
+| Richtlinie 86/653/EWG | Handelsvertreter-RL; europarechtskonforme Auslegung § 89b HGB zwingend (EuGH Semen) |
+| § 288 Abs. 2 BGB | Verzugszinsen 9 Prozentpunkte über Basiszinssatz bei Unternehmern |
 
-## Maßgebliche Rechtsprechung
+## Leitentscheidungen
 
-- BGH, Urt. v. 13.01.2010 – Az. VIII ZR 25/08, BGHZ 184, 65 Rn. 12 — Ausgleichsanspruch und Berücksichtigung der Sogwirkung der Marke.
-- BGH, Urt. v. 06.10.2010 – Az. VIII ZR 209/07, NJW 2011, 848 Rn. 18 — Bemessung des Ausgleichs nach europarechtskonformer Auslegung im Lichte der Handelsvertreterrichtlinie 86/653/EWG.
-- EuGH, Urt. v. 26.03.2009 – Rs. C-348/07 — Turgay Semen ./. Deutsche Tamoil GmbH, Slg. 2009 I-2341 Rn. 25 — Billigkeitsabwägung darf Provisionsverluste nicht zwingend kappen.
-- BGH, Urt. v. 11.11.2009 – Az. VIII ZR 249/08, NJW-RR 2010, 257 Rn. 17 — Vertragshändler und entsprechende Anwendung § 89b HGB.
-- BGH, Urt. v. 23.11.2011 – Az. VIII ZR 203/10, NJW 2012, 1107 Rn. 23 — Sogwirkung und Berücksichtigung der Markenstärke beim Provisionsverlust.
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
+| BGH | VIII ZR 25/08 | 13.01.2010 | Sogwirkung starker Marke mindert Ausgleich; konkreter Nachweis der Sogwirkungsstärke erforderlich |
+| BGH | VIII ZR 209/07 | 06.10.2010 | Europarechtskonform: Münchener Modell grundsätzlich zulässig; EuGH-Vorgaben zu Provisionsverlust beachten |
+| EuGH | C-348/07 | 26.03.2009 | Semen/Deutsche Tamoil: Billigkeitsabwägung darf Provisionsverluste nicht allein durch Marken-Sogwirkung kappen; Provisionsverluste sind unverzichtbare Untergrenze |
+| BGH | VIII ZR 249/08 | 11.11.2009 | Vertragshändler: § 89b HGB analog, wenn Eingliederung in Absatzorganisation + Pflicht zur Kundenstammübertragung bei Vertragsende |
+| BGH | VIII ZR 203/10 | 23.11.2011 | Sogwirkung und Markenstärke im Billigkeitsrahmen; keine pauschale Kürzung ohne Marktanalyse |
+| BGH | VIII ZR 13/16 | 07.02.2018 | Jahresfrist § 89b Abs. 4: Geltendmachung kann durch Anwalt erfolgen; konkludente Geltendmachung reicht nicht |
+| OLG Hamburg | 9 U 4/19 | 15.01.2020 | Franchisenehmer und § 89b HGB analog: Kundenstammübertragung als entscheidendes Kriterium |
+
+## Berechnungsschema Münchener Modell
+
+| Schritt | Berechnung | Erläuterung |
+|---------|-----------|-------------|
+| 1 | Bruttoprovision aus Neukunden letztes Vertragsjahr | Basis für Prognose |
+| 2 | Multiplikation Prognosezeitraum (3–5 Jahre) unter Berücksichtigung Abwanderungsquote (typisch 15–25 % p. a.) | Gibt Bruttoprovisionsverlust |
+| 3 | Abzug verwaltende Tätigkeit (Bestandspflege, ohne Neuwerbung): 15–25 % | BGH: nur Neuwerbungsanteile maßgeblich |
+| 4 | Abzinsung auf Vertragsendezeitpunkt (Basiszinssatz zzgl. Risikoaufschlag) | Barwertberechnung |
+| 5 | Billigkeitskorrektur: Sogwirkung der Marke (Abschlag); Wettbewerbsverbot, Karenzentschädigung, Alter, Krankheit | Kann Ergebnis erhöhen oder senken |
+| 6 | Vergleich mit Höchstgrenze § 89b Abs. 2 HGB (Durchschnitt 5-Jahres-Vergütung) | Niedrigerer Wert gilt |
+
+### Rechenbeispiel
+
+```
+Provisionsverlust-Berechnung (Prognosezeitraum 4 Jahre, Abwanderung 20 % p. a.):
+
+Bruttoprovision Neukunden letztes Jahr:   EUR 50.000
+Jahr 1 (×80 %):                           EUR 40.000
+Jahr 2 (×64 %):                           EUR 32.000
+Jahr 3 (×51,2 %):                         EUR 25.600
+Jahr 4 (×40,96 %):                        EUR 20.480
+Bruttoprovisionsverlust gesamt:           EUR 118.080
+
+Abzug Bestandspflege 20 %:              ./. EUR  23.616
+Zwischensumme:                            EUR  94.464
+
+Abzinsung Barwert (Faktor 0,93):          EUR  87.852
+
+Billigkeitsabschlag Sogwirkung 15 %:    ./. EUR  13.178
+Berechnetes Ergebnis:                     EUR  74.674
+
+Höchstgrenze § 89b Abs. 2 HGB
+(Ø 5 Jahresvergütungen je EUR 60.000):    EUR  60.000
+
+Ausgleichsanspruch:                       EUR  60.000 zzgl. 19 % USt
+```
 
 ## Prüfschema § 89b HGB
 
-```
-1. Beendigung des Handelsvertretervertrags
-2. Unternehmervorteile aus neu geworbenen Kunden
-   - Neukunde = vom Handelsvertreter zugeführt
-   - Auch wesentliche Erweiterung bestehender Geschäftsverbindung
-   - Nachvertragliche Geschäfte oder Wahrscheinlichkeit fortdauernder Geschäfte
-3. Provisionsverluste des Handelsvertreters
-   - Provisionen, die bei Fortsetzung zu erwarten gewesen wären
-   - Prognosezeitraum regelmäßig 3-5 Jahre
-   - Abwanderungsquote berücksichtigen
-4. Billigkeit (§ 89b Abs. 1 Nr. 3 HGB)
-   - Sogwirkung der Marke (BGH NJW 2012, 1107)
-   - Wettbewerbsverbot nachvertraglich, Karenzentschädigung
-   - Bezahlte Aus- und Fortbildung durch Unternehmer
-   - Lebensalter, Krankheit, Versorgungswerk
-5. Höchstgrenze § 89b Abs. 2 HGB
-   - Durchschnitt der letzten 5 Jahre (bei kürzerer Dauer: gesamte Vertragszeit)
-   - Roh- nicht Nettoprovision, alle laufenden Vergütungen
-6. Ausschlussgründe § 89b Abs. 3 HGB
-   - Eigenkündigung HV ohne wichtigen Grund / ohne Alter-Krankheit
-   - Kündigung Unternehmer aus wichtigem Grund wegen schuldhaftem Verhalten HV
-   - Übernahme durch Dritten mit Vereinbarung Unternehmer-Dritter
-7. Geltendmachung binnen Jahresfrist § 89b Abs. 4 S. 2 HGB
-```
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-## Berechnung nach Münchener Modell
 
-```
-Schritt 1: Provisionsverlust-Berechnung
-- Bruttoprovision letztes Vertragsjahr aus Geschäften mit Neukunden
-- Multiplikator Prognosezeitraum (z.B. 4 Jahre)
-- Abwanderungsquote pro Jahr (z.B. 20%)
+| Schritt | Prüfpunkt | Norm | Rechtsfolge |
+|---------|-----------|------|-------------|
+| 1 | Handelsvertretervertrag i. S. §§ 84 ff. HGB? | § 84 HGB | Analoge Anwendung bei Vertragshändler/Franchisenehmer prüfen |
+| 2 | Beendigung des Vertragsverhältnisses? | § 89b Abs. 1 HGB | Frist läuft erst ab Vertragsende |
+| 3 | Neukunden geworben oder Geschäftsverbindungen wesentlich erweitert? | § 89b Abs. 1 Nr. 1 HGB | Nachweis durch Kundenlisten, Provisionsabrechnungen |
+| 4 | Nachvertragliche Unternehmervorteile aus diesen Kunden? | § 89b Abs. 1 Nr. 1 HGB | Prognostische Schätzung zulässig (§ 287 ZPO) |
+| 5 | Provisionsverluste des Handelsvertreters? | § 89b Abs. 1 Nr. 2 HGB | Prognose nach Abwanderungsquote; EuGH Semen: Untergrenze beachten |
+| 6 | Billigkeit? | § 89b Abs. 1 Nr. 3 HGB | Sogwirkung, Wettbewerbsverbot, persönliche Umstände |
+| 7 | Höchstgrenze § 89b Abs. 2 HGB? | § 89b Abs. 2 HGB | Durchschnitt letzte 5 Jahre; kürzer = Gesamtdurchschnitt |
+| 8 | Ausschlussgründe § 89b Abs. 3 HGB? | § 89b Abs. 3 HGB | Eigenkündigung ohne wichtigen Grund schließt Anspruch aus |
+| 9 | Jahresfrist § 89b Abs. 4 S. 2 HGB eingehalten? | § 89b Abs. 4 HGB | Versäumnis = Anspruchsverlust (materiell-rechtliche Ausschlussfrist) |
 
-Beispiel:
-Provision Neukunden letztes Jahr:          EUR 50.000,00
-Jahr 1 (100% - 20%):                       EUR 40.000,00
-Jahr 2 (80% - 20%):                        EUR 32.000,00
-Jahr 3 (64% - 20%):                        EUR 25.600,00
-Jahr 4 (51.2% - 20%):                      EUR 20.480,00
-Summe Bruttoprovisionsverluste:            EUR 118.080,00
+## Strategische Optionen (vor dem Template entscheiden)
 
-Schritt 2: Abzug verwaltender Tätigkeit (Bestandspflege)
-ca. 15-25% (BGH-Rechtsprechung)
-EUR 118.080,00 minus 20% =                 EUR  94.464,00
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-Schritt 3: Abzinsung auf Vertragsende
-Abzinsungsfaktor je nach Zinsniveau (z.B. 2.5% p.a.)
-Barwert ca. EUR 88.000,00
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Handelsvertreterausgleich § 89b HGB berechnen und fordern | Muenchener Modell-Berechnung; Schriftsatzbausteine unten |
+| Variante A — Ausgleich offensichtlich gering | Aussergerichtliche Geltendmachung; Klage bei Verweigerung |
+| Variante B — Unternehmer behauptet Ausschlussgruende | Ausschlussgruende § 89b Abs. 3 HGB gegenprueefen |
+| Variante C — Verjährung Jahresfrist laeuft ab | Geltendmachung unverzueglich; Frist § 89b Abs. 4 HGB wahren |
 
-Schritt 4: Billigkeitskorrektur
-- Sogwirkung Marke: Abschlag z.B. 15%
-- Sonstige Faktoren: Zu- oder Abschlag
-Beispielergebnis: EUR 74.800,00
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-Schritt 5: Höchstgrenze § 89b Abs. 2 HGB
-Durchschnitt 5-Jahres-Vergütung: EUR 60.000,00
-Daher Begrenzung auf:           EUR  60.000,00
+## Schriftsatz-Bausteine
 
-Ausgleichsanspruch: EUR 60.000,00 zzgl. USt
-```
-
-## Schreibvorlage Geltendmachung gegenüber Unternehmer
+### Geltendmachung (außergerichtlich, Jahresfrist wahrend)
 
 ```
-[Briefkopf Kanzlei]
-[Unternehmer]                                              [Ort, Datum]
+[Briefkopf Kanzlei]                                          [Ort, Datum]
+
+An [Unternehmensname]                             - Einschreiben/Rückschein -
 
 Beendigung Handelsvertretervertrag vom [Datum]
-Geltendmachung Ausgleichsanspruch § 89b HGB
+Geltendmachung Ausgleichsanspruch § 89b HGB — Wahrung Jahresfrist
 
 Sehr geehrte Damen und Herren,
 
-unter Bezugnahme auf die anliegende Vollmacht zeige ich die Vertretung des
-Handelsvertreters [Name] an.
+unter Bezugnahme auf die anliegende Vollmacht (Anlage 1) zeige ich die
+anwaltliche Vertretung des Handelsvertreters [Name] an.
 
-Das Handelsvertretervertragsverhältnis endete zum [Datum] durch
-[ordentliche Kündigung des Unternehmens / einvernehmliche Aufhebung].
-Damit ist der Ausgleichsanspruch nach § 89b HGB entstanden.
+Das Handelsvertreterverhältnis endete zum [Datum]. Der Ausgleichsanspruch
+nach § 89b HGB ist entstanden und wird hiermit innerhalb der Jahresfrist
+des § 89b Abs. 4 S. 2 HGB schriftlich geltend gemacht.
 
-Mein Mandant hat während der Vertragslaufzeit von [...] Jahren einen
-erheblichen Kundenstamm aufgebaut. Im letzten vollen Vertragsjahr [Jahr]
-erzielte er Bruttoprovisionen in Höhe von EUR [Betrag], davon entfielen
-EUR [Betrag] auf von ihm geworbene Neukunden.
+Vorläufige Berechnung (Detailberechnung folgt nach Belegübermittlung):
 
-Nach den Grundsätzen des Münchener Modells (BGH NJW 2011, 848 Rn. 18)
-errechnet sich der Ausgleichsanspruch wie folgt (Detailberechnung Anlage):
+Bruttoprovisionen Neukunden letztes Jahr:   EUR [X]
+Provisionen Ø 5 Jahre:                     EUR [X/Jahr]
+Höchstgrenze § 89b Abs. 2 HGB:             EUR [X]
+Vorläufiger Ausgleichsanspruch:             EUR [X] zzgl. 19 % USt
 
-   Provisionsverluste 4 Jahre Prognose:    EUR [...]
-   Abzug Bestandspflege ca. 20%:           EUR [...]
-   Barwert nach Abzinsung:                 EUR [...]
-   Billigkeitsabwägung § 89b Abs. 1 Nr. 3: EUR [...]
-   Höchstgrenze § 89b Abs. 2 HGB:          EUR [...]
+Zur Ermittlung des Ausgleichs sind wir auf die Provisionsabrechnungen und
+Kundendaten der letzten 5 Vertragsjahre angewiesen. Wir bitten um deren
+Übermittlung bis zum [Datum].
 
-   Ausgleichsanspruch:                     EUR [...]
-   zzgl. 19% USt:                          EUR [...]
-   Gesamtforderung:                        EUR [...]
+Nach Vorlage der Unterlagen werden wir den Anspruch beziffert geltend machen.
 
-Ich fordere Sie auf, den Ausgleichsbetrag von EUR [...] zzgl. Umsatzsteuer
-binnen drei Wochen, also bis zum [Datum], auf das Konto [...] zu zahlen.
-
-Sofern keine fristgerechte Zahlung erfolgt, ist Klage beim Landgericht
-[Sitz Unternehmer] vorgesehen.
-
-Diese Geltendmachung wahrt die Jahresfrist § 89b Abs. 4 Satz 2 HGB.
-
-Mit freundlichen Grüßen
-[Anwalt, Fachanwalt für Handels- und Gesellschaftsrecht]
+[Kanzlei, Fachanwalt/Fachanwältin für Handels- und Gesellschaftsrecht]
 ```
 
-## Schreibvorlage Klage auf Ausgleich
+### Klage auf Handelsvertreterausgleich
 
 ```
+An das Landgericht [Sitz des Unternehmens]
+— Kammer für Handelssachen —                                 [Ort, Datum]
+
 Klage
 
-[Handelsvertreter] gegen die [Unternehmen]              - Kläger / Beklagte -
+des [Handelsvertreter], [Anschrift]              – Kläger –
+gegen
+die [Unternehmensname], [Anschrift]              – Beklagte –
 
-wegen Ausgleichsanspruch § 89b HGB
+wegen Handelsvertreterausgleich § 89b HGB
 
 Anträge:
-1. Die Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen in
-   Höhe von neun Prozentpunkten über dem Basiszinssatz seit [Datum] zu
-   zahlen.
+
+1. Die Beklagte wird verurteilt, an den Kläger EUR [Betrag] nebst Zinsen
+   in Höhe von neun Prozentpunkten über dem Basiszinssatz seit [Datum]
+   zu zahlen.
 2. Die Beklagte trägt die Kosten des Rechtsstreits.
 
-Streitwert: EUR [Betrag]
+Streitwert: EUR [Betrag].
 
 Begründung:
+
 I. Sachverhalt
-1. Der Kläger war von [Datum] bis [Datum] aufgrund Handelsvertretervertrags
-   (Anlage K 1) als selbständiger Handelsvertreter für die Beklagte tätig.
-2. Das Vertragsverhältnis endete durch Kündigung der Beklagten vom [Datum]
-   zum [Datum]. Auf Eigenkündigung des Klägers beruht die Beendigung nicht.
+Der Kläger war seit [Datum] als selbständiger Handelsvertreter (§ 84 HGB) für
+die Beklagte tätig (Handelsvertretervertrag vom [Datum], Anlage K 1). Das
+Vertragsverhältnis endete durch Kündigung der Beklagten zum [Datum] (Anlage K 2).
 
-II. Anspruchsgrundlage § 89b Abs. 1 HGB
-1. Unternehmervorteile aus geworbenen Neukunden:
-   Der Kläger hat während der Vertragslaufzeit insgesamt [Anzahl] Neukunden
-   geworben (Anlage K 2). Diese Kunden bringen der Beklagten auch nach
-   Vertragsende erhebliche Umsätze. Die Provisionen aus Geschäften mit den
-   vom Kläger akquirierten Kunden betrugen im letzten Vertragsjahr EUR
-   [Betrag] (Anlage K 3, Provisionsabrechnungen).
-2. Provisionsverluste des Klägers:
-   Bei Fortsetzung des Vertragsverhältnisses hätte der Kläger weitere
-   Provisionen erzielt. Auf Basis einer Prognose von 4 Jahren und einer
-   Abwanderungsquote von 20% pro Jahr ergibt sich ein Bruttoprovisionsverlust
-   von EUR [Betrag] (Berechnung Anlage K 4).
-3. Billigkeit § 89b Abs. 1 Nr. 3 HGB:
-   Eine Sogwirkung der Marke der Beklagten ist nur in geringem Umfang
-   anzunehmen. Der Kläger hat den Markt in [Region] eigenständig erschlossen.
-   Eine nachvertragliche Karenzentschädigung wurde nicht gezahlt.
+II. Unternehmervorteile § 89b Abs. 1 Nr. 1 HGB
+Der Kläger hat [Anzahl] Neukunden akquiriert (Kundenliste Anlage K 3). Diese
+Kunden erzielen mit der Beklagten nach Vertragsende erhebliche Umsätze. Die
+Provisionen aus Neukundengeschäften betrugen im letzten Vertragsjahr [Jahr]
+EUR [Betrag] (Provisionsabrechnungen Anlage K 4).
 
-III. Höhe des Anspruchs § 89b Abs. 2 HGB
-Der Durchschnitt der Provisionen der letzten 5 Jahre beträgt EUR [Betrag]
-pro Jahr (Anlage K 5). Damit ist der berechnete Ausgleich von EUR [Betrag]
-[unter / oberhalb] der Höchstgrenze. Es wird die [berechnete Höhe / die
-Höchstgrenze] geltend gemacht.
+III. Provisionsverluste § 89b Abs. 1 Nr. 2 HGB
+Berechnungsgrundlage nach Münchener Modell (Anlage K 5, Detailberechnung):
+[Prognose 4 Jahre, Abwanderungsquote 20 %, Barwert, Billigkeitskorrektur].
+Ergebnis: EUR [Betrag].
 
-IV. Keine Ausschlussgründe § 89b Abs. 3 HGB
-Die Beklagte hat das Vertragsverhältnis ordentlich gekündigt. Eine eigene
-Kündigung durch den Kläger oder eine außerordentliche Kündigung aus
-wichtigem Grund wegen schuldhaften Verhaltens liegt nicht vor.
+IV. Billigkeit § 89b Abs. 1 Nr. 3 HGB
+Eine überragende Sogwirkung der Marke der Beklagten ist nicht nachweisbar.
+Eine Karenzentschädigung wurde nicht gezahlt.
 
-V. Geltendmachung Jahresfrist § 89b Abs. 4 S. 2 HGB
-Der Anspruch wurde mit Schreiben vom [Datum] (Anlage K 6) und damit
-innerhalb der Jahresfrist geltend gemacht.
+V. Höchstgrenze § 89b Abs. 2 HGB
+Ø Jahresvergütung der letzten 5 Jahre: EUR [Betrag]/Jahr. Höchstgrenze: EUR [Betrag].
+Der berechnete Ausgleich liegt [unter/über] der Höchstgrenze. Geltend gemacht
+wird: EUR [Betrag].
 
-VI. Verzug und Zinsen
-Die Beklagte befindet sich seit Ablauf der gesetzten Zahlungsfrist am
-[Datum] in Verzug, § 286 BGB. Zinsen schuldet sie nach § 288 Abs. 2 BGB.
+VI. Kein Ausschlussgrund § 89b Abs. 3 HGB
+Das Vertragsverhältnis wurde durch die Beklagte ordentlich gekündigt.
 
-[Anwalt, Fachanwalt für Handels- und Gesellschaftsrecht]
+VII. Jahresfrist § 89b Abs. 4 S. 2 HGB
+Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
+
+[Kanzlei, Fachanwalt/Fachanwältin für Handels- und Gesellschaftsrecht]
 ```
 
-## Übergabe
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-- Bei Vertragshändlern und Franchisenehmern analoge Anwendung prüfen — Eingliederung in Absatzorganisation und Pflicht zur Kundenstammübertragung erforderlich.
-- Bei grenzüberschreitenden Sachverhalten Handelsvertreterrichtlinie 86/653/EWG und EuGH-Rechtsprechung (insbesondere Semen, Az. C-348/07) zwingend beachten — der EuGH lässt keine Kappung des Provisionsverlustes allein aus Billigkeit zu.
-- Steuerliche Behandlung: Ausgleichszahlung ist Einkunft aus Gewerbebetrieb, ermäßigter Steuersatz § 34 EStG bei Beendigung möglich — Schnittstelle zum Plugin `steuerrecht-anwalt-und-berater`.
-- Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie BVerfG → EuGH → BGH).
+
+## Beweislast
+
+| Beweisthema | Beweislast | Beweismittel |
+|------------|-----------|--------------|
+| Handelsvertreterstellung (§ 84 HGB) | Kläger | Handelsvertretervertrag; Gewerbeanmeldung; Provisionsabrechnungen |
+| Neukunden geworben | Kläger | Kundenliste mit Erstakquise-Datum; Provisionsabrechnungen |
+| Nachvertragliche Unternehmervorteile | Kläger (Prognose, § 287 ZPO) | Fortlaufende Umsätze der Neukunden nach Vertragsende |
+| Eigenkündigung ohne wichtigen Grund (Ausschluss § 89b Abs. 3 Nr. 1) | Unternehmer | Kündigungsschreiben; Ursache der Kündigung |
+| Schuldhaftes Verhalten des HV (§ 89b Abs. 3 Nr. 2) | Unternehmer | Abmahnungen; Protokolle; Zeugen |
+| Höhe Jahresvergütung (Höchstgrenze § 89b Abs. 2) | Beide / Auskunftspflicht Unternehmer | Provisionsabrechnungen der letzten 5 Jahre |
+| Sogwirkung Marke (Billigkeit) | Unternehmer (Abschlag) | Marktforschungsdaten; Markenstärkeindex |
+
+## Fristen
+
+| Frist | Inhalt | Norm |
+|-------|--------|------|
+| 1 Jahr | Geltendmachung Ausgleichsanspruch nach Vertragsende (Ausschlussfrist) | § 89b Abs. 4 S. 2 HGB |
+| 6 Monate | Außerordentliche Kündigung nach § 89a HGB nach Kenntnis des wichtigen Grundes | § 89a HGB; BGH-Rspr. |
+| 3 Jahre | Verjährung des bezifferten Ausgleichsanspruchs ab Fälligkeit | §§ 195, 199 BGB |
+| 5 Jahre | Aufbewahrungspflicht Provisionsabrechnungen (§ 257 HGB) | § 257 HGB |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument | Herkunft | Reaktion |
+|--------------|---------|----------|
+| „Eigenkündigung des HV — § 89b Abs. 3 Nr. 1 HGB" | Unternehmer | Nachweis wichtiger Grund (unzumutbares Verhalten des Unternehmers); oder Alter/Krankheit des HV |
+| „Keine Neukunden geworben — nur Bestandspflege" | Unternehmer | Provisionsabrechnungen detailliert aufschlüsseln; Anteil Neukunden- vs. Bestandsprovisionen |
+| „Starke Marken-Sogwirkung reduziert Billigkeit auf null" | Unternehmer | EuGH Semen C-348/07: Provisionsverluste dürfen nicht unter die Mindestgrenze gedrückt werden |
+| „Jahresfrist versäumt" | Unternehmer | Fristenwahrung durch anwaltliches Schreiben belegen; Datum des Poststempels |
+| „Kein Handelsvertreter sondern Arbeitnehmer" | Unternehmer | Selbständigkeit nach § 84 HGB: kein Weisungsrecht des Unternehmers über Arbeitszeit und -ort; Beweise für unternehmerische Freiheit |
+| „Vertragshändler hat keinen § 89b HGB-Anspruch" | Unternehmer | BGH VIII ZR 249/08: Analoge Anwendung bei Eingliederung in Absatzorganisation + Kundenstammübertragungspflicht |
+
+## Streitwert und Kosten
+
+**Streitwert:** Bezifferter Ausgleichsanspruch; vor Bezifferung: Antrag auf vorläufigen Streitwert nach § 61 GKG.
+
+**Beispiel: Ausgleich EUR 60.000:**
+- Gerichtsgebühren (3.0 LG-Verfahren aus EUR 60.000): ca. EUR 1.638.
+- Anwaltsgebühren (1.3 + 1.2 + Auslagen): ca. EUR 3.800 netto je Seite.
+
+**Umsatzsteuer:** Ausgleichsanspruch ist umsatzsteuerpflichtig (§ 1 Abs. 1 Nr. 1 UStG); daher zzgl. 19 % USt auf Nettobetrag.
+
+**Steuerliche Behandlung beim Handelsvertreter:** § 34 EStG ermäßigter Steuersatz möglich bei Vertragsbeendigung als außerordentliche Einkunft.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung | Begründung |
+|-----------|------------|-----------|
+| Jahresfrist droht zu verstreichen | Sofort Geltendmachungsschreiben mit vorläufiger Berechnung | § 89b Abs. 4: Frist ist materiell-rechtlich; Versäumnis = endgültiger Verlust |
+| Unternehmer verweigert Provisionsauskünfte | Auskunftsklage vorbereiten; § 87c HGB Provisionsauskunftspflicht | Ohne Zahlen keine Hauptsacheklage bezifferbar |
+| Starke Marke des Unternehmers | EuGH Semen einsetzen; Provisionsverluste als Mindestuntergrenze verteidigen | Reine Billigkeitskürzung unzulässig |
+| Vertragshändler oder Franchisenehmer | § 89b HGB analog prüfen: Eingliederung und Kundenstammübertragung nachweisen | BGH VIII ZR 249/08 als Argument |
+
+## Anschluss-Skills
+
+- `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` — Bei parallelem Gesellschafterstreit nach Ende des HV-Verhältnisses in Gesellschaft
+- `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` — Steuerplanung für Ausgleichszahlung
+- `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` — Wenn GF des Unternehmens Ausgleich verhindert
+
+## Quellen
+
+- § 89b HGB: https://www.gesetze-im-internet.de/hgb/__89b.html
+- RL 86/653/EWG: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31986L0653
+- EuGH C-348/07 (Semen): https://curia.europa.eu/juris/liste.jsf?num=C-348/07
+- BGH VIII ZR 209/07: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=VIII%20ZR%20209/07
+- BGH VIII ZR 249/08: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=VIII%20ZR%20249/08

@@ -54,3 +54,18 @@ Erzeuge ein Rückfrage- oder Beanstandungsschreiben mit:
 4. Berechnung des aus Sicht des Mieters richtigen Saldos.
 5. Frist zur Stellungnahme (zwei Wochen).
 6. **Disclaimer am Ende** — Empfehlung, vor Klage anwaltlichen Rat einzuholen.
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756 Rn. 22: Belegeinsichtsverlangen des Mieters ist berechtigt; Vermieter muss Originalbelege oder beglaubigte Kopien vorlegen; unvollstaendige Belegvorlage berechtigt zur Einwendung gegen die Abrechnung.
+- BGH, Urt. v. 22.11.2023 — VIII ZR 94/22, NJW 2024, 512 Rn. 25: Formell unwirksame Nebenkostenabrechnung loest keine Nachzahlungspflicht aus; Nachforderungsfrist nach § 556 Abs. 3 Satz 3 BGB laeuft trotzdem ab.
+- BGH, Urt. v. 07.12.2022 — VIII ZR 291/21, NJW 2023, 745 Rn. 18: Einwendungsfrist nach § 556 Abs. 3 Satz 5 BGB betraegt 12 Monate nach Zugang der Abrechnung; Versaeumung fuehrt zum Anspruchsverlust auch bei inhaltlichen Fehlern.
+
+## Paragrafenkette
+
+§ 556 Abs. 3 BGB — Abrechnungsfrist und Einwendungsfrist; BetrKV — Umlagefaehigkeit
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — § 556 BGB Rn. 1 ff.
+- BeckOK Mietrecht — § 556 BGB Betriebskostenpruefung

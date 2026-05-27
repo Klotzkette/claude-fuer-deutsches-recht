@@ -1,6 +1,6 @@
 {
   "name": "berufsrecht-ki-vertragspruefung",
-  "version": "9.0.0",
+  "version": "14.2.0",
   "description": "Berufsrechtliche und strafrechtliche Vorpruefung von Vertraegen mit privaten Legal-AI-Anbietern. Fuer Anwaelte StB WP Patentanwaelte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. DAV-Stellungnahme. Gutachten Rueckfragebrief Klauseln.",
   "license": "Apache-2.0 OR MIT",
   "author": {

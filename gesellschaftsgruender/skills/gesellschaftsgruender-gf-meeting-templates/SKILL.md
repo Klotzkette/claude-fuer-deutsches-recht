@@ -1,265 +1,198 @@
 ---
 name: gesellschaftsgruender-gf-meeting-templates
-description: "Templates Geschaeftsfuehrer-Meetings Tagesordnung Einladung Protokoll. Wochentlicher Rhythmus Standing Agenda. Quartalsreview mit Beirat. Strategie-Meeting halbjaehrlich. Bei Konflikt: dokumentierte Diskussion. Schriftliche Beschluss-Faehigkeit bei verhinderter Anwesenheit per Umlauf-Beschluss. Bilinguale Vorlagen Deutsch Englisch."
+description: "Vorlagen fuer Geschaeftsfuehrersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Pruefraster: Beschlussfaehigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates fuer GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlungs-Protokoll."
 ---
 
 # GF-Meeting-Templates
 
-## Zweck
+## Triage — kläre vor jedem Meeting
 
-Vorlagen für Tagesordnung, Einladung und Protokoll der Geschäftsführer-Meetings. Bei mehrgliedriger Geschäftsführung sind dokumentierte Meetings essentiell — sowohl zur Entscheidungs-Dokumentation als auch zur Haftungs-Prävention.
+1. Ist ein Beschluss zu fassen — dann BJR-konforme Dokumentation der Informationsgrundlage erforderlich (§ 43 GmbHG)?
+2. Handelt es sich um ein reguläres Manage-Meeting oder einen außerordentlichen Anlass (Krise, Investor-Eintritt, Gesellschafterstreit)?
+3. Sind externe Berater anwesend — dann Verschwiegenheitspflichten und Clean-Room-Anforderungen beachten.
+4. Gibt es insiderinformationsrelevante Tagesordnungspunkte — dann Teilnehmerkreis einschränken.
+5. Soll das Protokoll auf Deutsch, Englisch oder bilingual erstellt werden?
 
-## 1) Einladung — Standard-GF-Meeting
+## Zentrale Normen
 
+- **§ 43 GmbHG** — Sorgfaltspflicht GF: Entscheidungen müssen auf angemessener Informationsgrundlage beruhen; Protokoll als Haftungsschutz.
+- **§ 48 GmbHG** — Gesellschafterversammlung und Umlaufbeschluss: schriftliche Abstimmung bei Einvernehmen aller.
+- **§ 35 GmbHG** — Vertretung der Gesellschaft durch GF.
+- **§ 51 GmbHG** — Form und Frist der GV-Einberufung: mindestens 1 Woche Vorlauf (abkürzbar durch Satzung).
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 Rn. 22 — GF muss Entscheidungsgrundlagen aktiv beschaffen und verifizieren; Protokoll ist Haftungsschutz, weil es die BJR-Voraussetzungen dokumentiert.
+- BGH, Urt. v. 21.04.1997 - II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat / Beirat muss eigenständig Informationen einholen; Verlassen auf GF-Bericht ohne Nachfrage begründet Haftung.
+- BGH, Urt. v. 15.01.2013 - II ZR 90/11, NZG 2013, 428 — GmbH-GF-Beschluss per E-Mail / Umlaufverfahren: zulässig, wenn alle GF zustimmen; bei Widerspruch auch eines GF: kein wirksamer Beschluss.
+- OLG Hamburg, Urt. v. 14.01.2015 - 11 U 71/14, GmbHR 2015, 362 — Protokoll als Beweismittel: lückenhaftes oder nachträglich geändertes Protokoll begründet Zweifel an der Ordnungsgemäßheit des Beschlusses; GF trägt Beweislast.
+
+## Kommentarliteratur
+
+- Scholz/Crezelius, GmbHG, § 43 Rn. 10-25 (Sorgfaltspflicht, Haftungsschutz durch Dokumentation)
+- Lutter/Hommelhoff, GmbHG, § 48 Rn. 1-20 (Umlaufbeschluss, Beschlussfähigkeit)
+- Baumbach/Hueck, GmbHG, § 35 Rn. 1-15 (Vertretung, Entscheidungsprozess GF)
+
+## Meeting-Typen und Rhythmus
+
+| Meeting-Typ | Rhythmus | Teilnehmer | Zweck |
+|---|---|---|---|
+| GF-Jour-Fixe | Wöchentlich | alle GF | Laufende Koordination, KPIs, Offene Punkte |
+| Monatlicher Abschluss-Review | Monatlich | GF + Steuerberater | Finanzen, Liquidität, Steuern |
+| Quartals-Review mit Beirat | Quartalsweise | GF + Beirat | Strategie, Performance, Risiken |
+| Außerordentliches GF-Meeting | Bei Anlass | GF (ggf. Berater) | Krise, Investor, Gesellschafterstreit |
+| Gesellschafterversammlung | Mindestens jährlich | Gesellschafter | Jahresabschluss, Beschlüsse (§ 46 GmbHG) |
+
+## Template 1 — GF-Jour-Fixe Einladung (DE/EN)
+
+**Deutsch**
 ```
-Subject: Einladung GF-Meeting [KW XX] [Datum]
+Betreff: GF-Meeting [KW XX] — [Datum]
 
-Liebe Geschaeftsfuehrer-Kollegen,
+Liebe Kolleginnen und Kollegen,
 
-hiermit lade ich euch zum naechsten GF-Meeting ein:
+hiermit lade ich zum wöchentlichen GF-Meeting ein:
 
-Datum:     Dienstag, [Datum]
-Uhrzeit:   09:00 - 10:30 Uhr
-Ort:       Video-Conference [Link] / Konferenzraum [Ort]
-Teilnehmer: Anna Mueller (CEO), Bernd Schmidt (CTO),
-            Carla Wagner (CFO)
+Datum:     [Wochentag], [Datum]
+Uhrzeit:   [Uhrzeit]
+Ort:       Videokonferenz [Link] / Konferenzraum [Ort]
+Teilnehmer: [Namen, Funktionen]
 
-TAGESORDNUNG:
-1. Begruessung und Beschlussfaehigkeit
-2. Genehmigung Protokoll vorheriges Meeting
-3. Status Q-Plan / KPIs
-4. [konkrete Punkte]
-5. Beschlussfassungen
-6. Sonstiges / Ausblick naechste Woche
+TAGESORDNUNG
+1. Begrüßung, Beschlussfähigkeit
+2. Genehmigung Protokoll KW [X]
+3. Kennzahlen / Status-Update (Dashboard Anlage [X])
+4. [Konkreter Punkt 1]
+5. [Konkreter Punkt 2 — Beschlussfassung]
+6. Offene Punkte / TODO-Review
+7. Sonstiges, Ausblick nächste Woche
 
-Unterlagen:
-- Status-Dashboard (Anhang)
-- Entwurf [konkrete Vorlagen]
+Bitte Unterlagen bis [Datum T-1] an alle verteilen.
+Bei Verhinderung: Umlaufbeschluss für eilbedürftige Themen.
 
-Bei Verhinderung bitte rechtzeitig Bescheid geben;
-ggf. Umlauf-Beschluss fuer eilbeduerftige Themen.
-
-Beste Gruesse
-[Name]
+[Name, Funktion]
 ```
 
-### Bilingual (DE/EN)
-
+**Englisch**
 ```
-INVITATION MANAGEMENT MEETING [Date]
+Subject: Management Meeting [CW XX] — [Date]
 
 Dear colleagues,
 
-I hereby invite you to the next management meeting.
+I hereby invite you to the weekly management meeting:
 
-Date:        Tuesday, [Date]
-Time:        9:00 a.m. - 10:30 a.m. CET
-Location:    Video conference [Link]
-Participants: Anna Mueller (CEO), Bernd Schmidt (CTO),
-              Carla Wagner (CFO)
+Date:      [Day], [Date]
+Time:      [Time] CET
+Location:  Video conference [Link] / Conference room [Location]
+Attendees: [Names, Functions]
 
-AGENDA:
-1. Welcome and quorum check
-2. Approval of previous minutes
-3. Status Q-plan / KPIs
-4. [specific items]
-5. Resolutions
-6. Misc / Outlook
+AGENDA
+1. Welcome, quorum
+2. Approval of minutes [CW X]
+3. KPIs / status update (dashboard attached)
+4. [Specific item 1]
+5. [Specific item 2 — resolution]
+6. Open items / TODO review
+7. AOB, outlook next week
 
-The German version of this invitation shall prevail
-in case of inconsistencies. [Bei Inkonsistenzen geht
-die deutsche Fassung vor.]
-
-Best regards,
-[Name]
+Please distribute documents by [Date T-1].
+[Name, Function]
 ```
 
-→ `gesellschaftsgruender-bilinguale-dokumente`
+## Template 2 — GF-Protokoll (BJR-konform)
 
-## 2) Standing Agenda (wiederkehrend)
-
+**Adressat:** Akte / Gesellschaft — Tonfall sachlich-juristisch
 ```
-Standing-Agenda Punkte (woechentlich)
-- Status Pipeline / Umsatz
-- Personal-Entwicklung (Einstellungen, Abgaenge)
-- Liquiditaet (Cash Burn, Runway)
-- Risiken und Compliance
-- Naechste Meilensteine
-```
+PROTOKOLL GESCHÄFTSFÜHRER-MEETING
+Datum: [Datum]
+Beginn: [Uhrzeit] Uhr / Ende: [Uhrzeit] Uhr
+Ort: [Ort / Videokonferenz]
+Protokollführer: [Name]
 
-## 3) Protokoll-Vorlage — Standard
+ANWESENDE
+Name | Funktion | Anwesend
+[Name 1] | CEO | Ja
+[Name 2] | CTO | Ja (digital)
+[Name 3] | CFO | Entschuldigt / Vertreten durch [Name]
 
-```
-PROTOKOLL GF-Meeting [KW XX] / [Datum]
+BESCHLUSSFÄHIGKEIT: Ja / Nein — Begründung: [ggf.]
 
-Beginn:    09:00 Uhr
-Ende:      10:30 Uhr
-Ort:       Video
-Teilnehmer:
-- Anna Mueller (CEO), anwesend
-- Bernd Schmidt (CTO), anwesend
-- Carla Wagner (CFO), anwesend
-Schriftfuehrung: Carla Wagner
-Beschlussfaehigkeit: festgestellt
+TOP 1: [TITEL]
+Sachverhalt: [2-3 Sätze]
+Informationsgrundlage: [Berater, Bericht, Marktdaten]
+Alternativen erwogen: [kurz]
+Beschluss: [Wortlaut des Beschlusses]
+Abstimmung: [X] Ja / [X] Nein / [X] Enthaltung
+Ergebnis: [angenommen / abgelehnt]
+Verantwortlich: [Name]
+Frist: [Datum]
 
-TOP 1 — Genehmigung Vorprotokoll
-Beschluss: einstimmig genehmigt
+TOP 2: [TITEL]
+[wie oben]
 
-TOP 2 — Status Q-Plan
-[Konkrete Status-Punkte]
+OFFENE PUNKTE (TODO)
+Nr. | Punkt | Owner | Frist | Priorität
+1  | [Punkt] | [Name] | [Datum] | [hoch/mittel/niedrig]
 
-TOP 3 — Beschluss zur Einstellung eines IT-Sicherheits-
-Beauftragten
-Hintergrund: NIS-2-Umsetzung, DSGVO-Anforderung
-Diskussion: [knappe Zusammenfassung]
-Vorschlag: Stelle mit Jahresgehalt 90.000 EUR
-Beschluss: einstimmig zustimmend (Anna, Bernd, Carla)
+NÄCHSTES MEETING: [Datum]
 
-TOP 4 — [...]
-
-NAECHSTE SCHRITTE
-- Carla: Stellenanzeige, Frist 7 Tage
-- Bernd: Anforderungsprofil IT-Sicherheit
-- Anna: Information an Investor I AG
-
-Naechstes Meeting:
-Dienstag, [Datum], 09:00 Uhr
-
-Genehmigung dieses Protokolls:
-Carla Wagner       _______________
-Anna Mueller       _______________
-Bernd Schmidt      _______________
+GENEHMIGUNG
+Protokoll genehmigt: [ ] Ja am [Datum] / [ ] Nein (Einwände: [Einwand])
+Unterschriften: [GF 1] ______________ [GF 2] ______________
 ```
 
-## 4) Umlauf-Beschluss bei Verhinderung
-
-### Voraussetzungen
-
-- **Einstimmigkeit** erforderlich (Paragraf 48 II GmbHG analog für GF-Beschluss)
-- Schriftform oder Textform (E-Mail genuegt)
-- Dokumentiert im nächsten Protokoll
-
-### Vorlage
+## Template 3 — Umlaufbeschluss (§ 48 Abs. 2 GmbHG)
 
 ```
-Subject: Umlauf-Beschluss [Thema] - [Datum]
+UMLAUFBESCHLUSS DER GESCHÄFTSFÜHRER
+[Firmenname] GmbH
 
-Liebe Kollegen,
+Datum: [Datum]
+Beschlussgegenstand: [Thema]
 
-aufgrund Eilbeduerftigkeit bitten wir um schriftliche
-Beschlussfassung im Umlauf-Verfahren.
+Hiermit fassen die Geschäftsführer [Name 1] und [Name 2] folgenden Beschluss
+im schriftlichen Verfahren gemäß § 48 Abs. 2 GmbHG:
 
-THEMA: [konkreter Beschluss]
-HINTERGRUND: [knappe Begruendung]
-VORSCHLAG: [konkreter Antrag]
+BESCHLUSS:
+[Wortlaut]
 
-Antwort-Optionen:
-[ ] Zustimmung
-[ ] Ablehnung
-[ ] Diskussionsbedarf (dann Praesenz-Meeting noetig)
+Informationsgrundlage: [Unterlage, Bericht, Beratungsergebnis]
 
-Antwort-Frist: [Datum / Uhrzeit]
+ABSTIMMUNG
+Geschäftsführer [Name 1]: [ ] Zustimmung [ ] Ablehnung [ ] Enthaltung
+Geschäftsführer [Name 2]: [ ] Zustimmung [ ] Ablehnung [ ] Enthaltung
 
-Bei einstimmiger Zustimmung ist der Beschluss
-gefasst und wird im naechsten GF-Meeting protokolliert.
+Annahme erfordert Einstimmigkeit bei § 48 Abs. 2 GmbHG.
 
-Beste Gruesse
-[Name]
+Datum, Ort: __________ Unterschriften: __________
 ```
 
-## 5) Quartalsreview mit Beirat / Investor
+## Schritt-für-Schritt-Workflow
 
-```
-TAGESORDNUNG QUARTALSREVIEW Q[X] / [Jahr]
+1. **Triage** — Meeting-Typ bestimmen; Beschlussbedarf identifizieren.
+2. **Tagesordnung erstellen** — Punkte mit Informationsunterlagen verknüpfen.
+3. **Einladung versenden** — mindestens 1 Woche Vorlauf (außerordentlich: kürzer möglich).
+4. **Protokoll führen** — BJR-konform: Informationsgrundlage, Alternativen, Abstimmung.
+5. **Offene Punkte** — TODO-Liste mit Owner und Frist aus Protokoll destillieren.
+6. **Protokoll genehmigen** — Nächstes Meeting: TOP 1 immer Protokollgenehmigung.
+7. **Archivieren** — Protokolle in Gesellschaftsakte; mindestens 10 Jahre aufbewahren.
 
-Beginn:    14:00 Uhr
-Ende:      17:00 Uhr
-Ort:       Konferenzraum / Hybrid
-Teilnehmer:
-- Geschaeftsfuehrung (CEO, CTO, CFO)
-- Beirat: [Namen]
-- Investor I AG: [Vertreter]
+## Rote Schwellen
 
-TAGESORDNUNG:
-1. Begruessung und Vorstellungsrunde
-2. Wirtschaftliche Lage (CFO, 30 Min.)
-   - Umsatz, EBITDA, Cash Burn, Runway
-   - Vergleich Plan / Ist
-3. Produkt und Technik (CTO, 30 Min.)
-4. Markt und Vertrieb (CEO, 30 Min.)
-5. Personal und Organisation (CFO, 15 Min.)
-6. Risiken und Compliance (CFO, 15 Min.)
-7. Strategie-Updates und Beirat-Empfehlungen (60 Min.)
-8. Beschlussfassungen (bei Bedarf)
-9. Naechste Schritte
+- Protokoll fehlt bei wichtigem GF-Beschluss → kein Haftungsschutz BJR; GF trägt Beweislast (§ 43 Abs. 2 S. 2 GmbHG).
+- Umlaufbeschluss ohne Einvernehmen aller GF → unwirksam (§ 48 Abs. 2 GmbHG).
+- Informationsgrundlage nicht dokumentiert → BJR-Schutz entfällt.
+- Protokoll nachträglich geändert ohne Genehmigungsvermerk → Beweiswert zweifelhaft.
 
-Materialien (Frist: 5 Tage vor Termin):
-- Quartalsbericht (P&L, Cash Flow, Bilanz-Auszug)
-- KPI-Dashboard
-- Plan-Ist-Vergleich
-- Risiko-Bericht
-```
+## Quellen und Vertiefung
 
-## 6) Strategie-Meeting (halbjaehrlich)
+- §§ 35, 43, 48, 51 GmbHG (GF-Pflichten, Beschlussfähigkeit, Einberufung)
+- BGH II ZR 234/20, NJW 2022, 1381 (BJR Informationspflicht)
+- BGH II ZR 90/11, NZG 2013, 428 (Umlaufbeschluss)
+- Scholz/Crezelius, GmbHG, § 43 Rn. 10-25
 
-Laenger angelegt (z.B. ganztaegig), oft mit externem Moderator. Themen:
+## Übergabe an andere Skills
 
-- Mission / Vision Review
-- Marktanalyse, Wettbewerber
-- Produkt-Roadmap
-- Personal-Planung
-- Finanzplanung 12-24 Monate
-- Risiko-Strategie
-- Exit-Strategie
-
-## 7) Bei Konflikt-Diskussion
-
-### Dokumentation der Differenzen
-
-- Wenn GF unterschiedlicher Auffassung: **beide Positionen** ins Protokoll
-- Stimmverhalten pro GF dokumentieren
-- Bei Patt: Eskalation an Gesellschafterversammlung
-
-### Beispiel
-
-```
-TOP 3 — Aufnahme Series B Verhandlungen mit
-[Investor X]
-
-Diskussion:
-- Anna Mueller (CEO): pro, da Wachstumsfinanzierung
-  benoetigt und Bewertung attraktiv
-- Bernd Schmidt (CTO): kontra, da Verwaesserung der
-  Gruender bedenklich und Investor-Pool zu klein
-- Carla Wagner (CFO): zustimmend zu Verhandlungen,
-  aber mit Forderung: Pre-Money mindestens 8 Mio. EUR
-
-Beschluss: Aufnahme der Verhandlungen mit klaren
-Vorgaben: Pre-Money 8 Mio. EUR, Anti-Dilution
-broad-based weighted average, Liquidation Preference
-1x non-participating. Status-Bericht in 4 Wochen.
-
-Stimmen: Anna pro, Bernd kontra, Carla mit Vorgaben
-Mehrheit: 2:1 zustimmend
-```
-
-## 8) Form und Aufbewahrung
-
-- **Schriftform** des Protokolls (idR im internen System)
-- **Aufbewahrung** mindestens 10 Jahre (Paragraf 257 HGB)
-- **Vertraulichkeit**: nicht extern weitergeben ohne Gesellschafter-Zustimmung
-- Bei Investor-Berichtspflicht: nur relevanter Auszug
-
-## 9) Typische Fehler
-
-1. **Keine Tagesordnung**. Diskussion ohne Struktur, Beschlüsse später nicht nachvollziehbar.
-2. **Schriftliche Beschlüsse fehlen**. Bei Streit nicht beweisbar.
-3. **Stimmverhalten nicht dokumentiert**. Bei späterer Haftungsfrage problematisch.
-4. **Beschlüsse nicht eindeutig**. „Wir denken über X nach" ist kein Beschluss.
-5. **Nächste Schritte vergessen**. Wer macht was bis wann?
-
-## Anschluss
-
-- `gesellschaftsgruender-geschaeftsordnung-gf` — Rahmen-Geschäftsordnung
-- `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlung
-- `gesellschaftsgruender-bilinguale-dokumente` — DE/EN-Vorlagen
+- `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — GV-Protokoll (Gesellschafterversammlung)
+- `gesellschaftsgruender-gv-einladung-tagesordnung` — Gesellschafterversammlungs-Einladung
+- `gesellschaftsgruender-beirat-advisory-board` — Beiratssitzungs-Templates

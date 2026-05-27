@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-briefe
-description: "Referenz: VERALTET — für Routine-Korrespondenz `/mandantenbrief` verwenden, für inhaltliche Statusupdates `/status mandant`. Im Zuge des Umbaus auf Version 2 in zwei fokussiertere Skills aufgeteilt. Lädt, wenn ein Studierender einen verständlichen Mandantenbrief, ein Statusschreiben in leichter Sprache oder eine einfach formulierte Mandantenmitteilung erstellen möchte."
+description: "Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Pruefraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Uebersetzung in einfacher Sprache mit Erklaerung der naechsten Schritte. Abgrenzung zu Mandantenbrief fuer foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin."
 ---
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`

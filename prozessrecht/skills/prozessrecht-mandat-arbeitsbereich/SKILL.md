@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-mandat-arbeitsbereich
-description: "Verwaltet Mandatsarbeitsbereiche für Mehrmandat-Kanzleien — anlegen, auflisten, wechseln, abschließen oder vom aktiven Mandat lösen. Lädt, wenn der Nutzer einen neuen Mandatsarbeitsbereich anlegen, das aktive Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder nur auf Kanzleiebene arbeiten möchte."
+description: "Digitaler Arbeitsbereich fuer Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Pruefraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill."
 ---
 
 # Mandatsarbeitsbereich
@@ -40,6 +40,9 @@ Anwälte mit mehreren Mandanten und Verfahren arbeiten parallel an verschiedenen
 - `Römermann, in: BeckOK BRAO, 21. Ed. (Stand 01.03.2024), § 50 Rn. 12` — Handaktenpflicht, Aufbewahrung, Vernichtung.
 
 ## Ablauf
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ### Schritt 1: Konfiguration prüfen
 
@@ -91,12 +94,38 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter separater Überschri
 
 `Aktives Mandat:` in der Kanzlei-`CLAUDE.md` auf `keins — nur Kanzleiebene` setzen. Bestätigung anzeigen.
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Prozessrechtlichen Mandats-Workspace aufbauen | Arbeitsbereich nach Schema; Template unten |
+| Variante A — Mandat nur beratend kein Klageauftrag | Beratungsmandat; Prozess-Template weglassen |
+| Variante B — Mehrere Instanzen parallel | Instanzübergreifende Workspace-Struktur; separate Aktenteile |
+| Variante C — Internationales Verfahren Schiedsgericht | Schiedsverfahrens-Workspace; anderen Skill parallel einsetzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabeformat
 
 ### Vorlage `akte.md`
 
 ```markdown
 [ARBEITSERGEBNIS-KOPFZEILE — gemäß Kanzleikonfiguration]
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 # Mandat: [Mandant] — [Kurzbeschreibung]
 

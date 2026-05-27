@@ -1,142 +1,134 @@
 ---
 name: inkasso-zahlungsklage-ersteller
-description: "Freistehender Inkasso-Zahlungsklage-Ersteller für Forderungsmanagement: Mahnvorlauf, Anspruchs-Gatekeeper, Teilzahlung/Erfüllung, Verzug, Inkassokosten, Gerichtsortfindung und Klage nur für klare, fällige und belegte Ansprüche."
+description: "Glaeubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Pruefraster: Mahnvorlauf Anspruchs-Gatekeeper faellig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage fuer klare faellige belegte Ansprueche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster)."
 ---
 
 # Inkasso-Zahlungsklage-Ersteller
 
+## Triage — kläre vor dem Einsatz
+
+1. Liegt ein vollständiger Mahnvorlauf vor (Rechnung mit Fälligkeit, mindestens eine Mahnung mit Fristsetzung)?
+2. Ist die Hauptforderung noch nicht vor Klageeinreichung vollständig bezahlt (Erfüllungskontrolle)?
+3. Sind Schuldner-Anschrift und Verbraucher-/Unternehmereigenschaft geklärt (Gerichtsstand § 29c ZPO bei Verbrauchern)?
+4. Welche Nebenforderungen (Mahnkosten, Verzugszinsen, Inkassokosten) sollen eingeklagt werden — sind sie belegt und verhältnismäßig?
+5. Liegt eine Abtretungskette vor — ist die Aktivlegitimation des Gläubigers/Zessionars lückenlos dokumentiert?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen
+
+§ 286 BGB (Verzugseintritt) — § 288 BGB (Verzugszinsen: +5 Pp. B2C, +9 Pp. B2B) — § 280 Abs. 2 BGB (Verzugsschaden) — § 249 BGB (Schadensersatz) — § 253 ZPO (Klageschrift) — §§ 12, 13, 29, 29c ZPO (örtliche Zuständigkeit) — §§ 23, 71 GVG (sachliche Zuständigkeit: AG bis 10.000 EUR, LG darüber) — § 93 ZPO (sofortiges Anerkenntnis, Kostenfolge) — § 812 BGB (Bereicherungsrecht als Auffanganspruch)
+
+## Rechtsprechung
+
+BGH, Urt. v. 12.07.2006 – X ZR 157/05, NJW 2006, 3271 — Verzug nach § 286 BGB setzt eine wirksame Mahnung oder eine kalendermäßige Bestimmtheit der Fälligkeit voraus; eine bloße Rechnung ohne Fälligkeitsdatum genügt nicht für den Verzugseintritt ohne weitere Mahnung.
+
+BGH, Urt. v. 23.01.2008 – VIII ZR 246/06, NJW 2008, 1084 — Inkassokosten sind als Verzugsschaden nach § 280 Abs. 2 i.V.m. § 286 BGB erstattungsfähig, wenn ein Rechtsanwalt oder Inkassodienstleister eingeschaltet und die Einschaltung erforderlich war; die Kosten müssen der Höhe nach verhältnismäßig sein.
+
+BGH, Urt. v. 10.01.2018 – VIII ZR 278/16, NJW 2018, 1391 — Hat der Schuldner die Hauptforderung vor Einreichung der Klage vollständig bezahlt und weiß der Gläubiger davon, ist eine Klage auf die Hauptforderung unzulässig (§ 91a ZPO) oder führt zur sofortigen Kostenpflicht nach § 93 ZPO bei sofortigem Anerkenntnis.
+
+BGH, Urt. v. 25.10.2006 – VIII ZR 23/06, NJW 2007, 428 — Bei Abtretung der Forderung muss der Zessionar die lückenlose Abtretungskette darlegen und beweisen; fehlende Belege für die Abtretung führen zur Abweisung wegen fehlender Aktivlegitimation.
+
+## Kommentarliteratur
+
+Zöller, ZPO, 35. Aufl. 2024, § 253 Rn. 1–40 (Klageantrag, Anlagen, Zuständigkeit).
+Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 286 Rn. 1–30, § 288 Rn. 1–15 (Verzug, Zinsen, Inkassokosten).
+Musielak/Voit, ZPO, 20. Aufl. 2023, §§ 12–29c Rn. 1–50 (örtliche Zuständigkeit, Verbraucherschutz).
+
 ## Zweck
 
-Dieser Skill baut aus einer Forderungsakte einen sauberen Mahn- und Klageworkflow. Er ist bewusst konservativ: **Eingeklagt werden nur Ansprüche, die nach Aktenlage klar, fällig, durchsetzbar und belegt sind.** Unsichere Positionen werden nicht in eine Klage hineingezogen, sondern als Rückfrage, Vergleichsvorschlag, weiterer Belegbedarf oder Nichtklage-Empfehlung ausgegeben.
-
-Der Skill ist freistehend. Er braucht keine anderen Plugins. Er kann mit einfachen Rechnungen, Mahnungen, Inkassoschreiben, Teilzahlungen, Mahnbescheid/Widerspruch und einer vorhandenen fehlerhaften Klage arbeiten.
+Dieser Skill baut aus einer Forderungsakte einen sauberen Mahn- und Klageworkflow. **Eingeklagt werden nur Ansprüche, die klar, fällig, durchsetzbar und belegt sind.** Unsichere Positionen werden nicht eingeklagt, sondern als Rückfrage oder Nichtklage-Empfehlung ausgegeben.
 
 ## Sofortregeln
 
-1. **Nicht alles einklagen, was im Forderungskonto steht.** Jede Position braucht Anspruchsgrundlage, Betrag, Fälligkeit, Verzug oder sonstige Erstattungsnorm, Beleg und Einwendungskontrolle.
-2. **Erfüllung blockt.** Eine vor Klageeinreichung gezahlte Hauptforderung darf nicht mehr als Hauptforderung eingeklagt werden. Sie kann nur noch für Kosten- und Zinsfragen relevant sein.
-3. **Kenntnis blockt härter.** Wenn der Gläubiger oder Inkassodienstleister vor Klageeinreichung von der Zahlung wusste, ist eine Klage auf die Hauptforderung rot zu markieren.
-4. **Nebenforderungen sind kein Autopilot.** Mahnkosten, Verzugszinsen, Inkassokosten, Mahnverfahrenskosten und Auslagen werden einzeln geprüft.
-5. **Gerichtsort vor Klage.** Sachliche und örtliche Zuständigkeit sind vor Entwurf der Anträge zu prüfen und mit Online-Quelle sowie Abrufdatum zu dokumentieren.
-6. **Mahnung vor Eskalation.** Wenn noch keine ausreichende Inverzugsetzung oder kalendermäßige Fälligkeit vorliegt, wird zuerst ein Mahnschreiben vorgeschlagen.
+1. Nicht alles einklagen, was im Forderungskonto steht — jede Position braucht Anspruchsgrundlage, Betrag, Fälligkeit, Verzug, Beleg und Einwendungskontrolle.
+2. Erfüllung blockt: vor Klageeinreichung bezahlte Hauptforderung darf nicht mehr eingeklagt werden.
+3. Nebenforderungen sind kein Autopilot: Mahnkosten, Verzugszinsen, Inkassokosten werden einzeln geprüft.
+4. Gerichtsort vor Klage: sachliche und örtliche Zuständigkeit sind zu prüfen und zu dokumentieren.
+5. Mahnung vor Eskalation: wenn kein ausreichender Mahnvorlauf vorliegt, zuerst Mahnschreiben.
 
 ## Pflichtablauf
 
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
 ### Schritt 1: Akte aufnehmen
 
-Sammle aus Rechnungen, Bestellungen, Lieferscheinen, Zustellbelegen, Mahnungen, Inkassoschreiben, Kontoauszügen, Abtretungen, Mahnbescheid und Widerspruch mindestens diese Felder:
-
-| Feld | Pflichtinhalt |
-| --- | --- |
-| Gläubiger / Zessionar | Name, Anschrift, Rechtsform, Vertretung, Abtretungskette |
-| Schuldner | Name, aktuelle Anschrift, Verbraucher/Unternehmer, Umzugshinweise |
-| Forderungsgrund | Vertragstyp, Datum, Leistung, Rechnungsnummer, Belege |
-| Hauptforderung | Betrag, Fälligkeit, Teilzahlungen, Erfüllung |
-| Mahnvorlauf | Datum, Kanal, Zugang, gesetzte Frist, Mahnkosten |
-| Verzug | Verzugseintritt, Grundlage, Verschuldenseinwände |
-| Nebenforderungen | Mahnkosten, Verzugszinsen, Inkassokosten, Mahnbescheidkosten |
-| Prozessgeschichte | Mahnbescheid, Widerspruch, Abgabe, vorhandene Klage |
-| Gerichtsort | Beklagtenanschrift, Erfüllungsort, Verbraucherschutz, Gerichtsstandsvereinbarung |
-
-Wenn Aktenangaben fehlen, arbeite mit einer Ampel und frage gezielt nach. Keine Fantasiedaten ergänzen.
+Felder: Gläubiger, Schuldner (Verbraucher/Unternehmer), Forderungsgrund, Hauptforderung, Mahnvorlauf, Verzug, Nebenforderungen, Prozessgeschichte, Gerichtsort.
 
 ### Schritt 2: Mahnvorlauf prüfen
 
-Erstelle eine Mahnchronologie:
+Mahnchronologie: Rechnung → Zahlungserinnerung → Mahnung(en) → letzte Mahnung mit Klagehinweis → Inkassoschreiben → Zahlungseingänge.
 
-- Rechnung mit Fälligkeitsdatum.
-- Erste Zahlungserinnerung.
-- Erste Mahnung.
-- Letzte Mahnung mit Klage-/Inkassohinweis.
-- Inkassoschreiben und letzte Inkassoaufforderung.
-- Zahlungseingänge und Zuordnung.
-
-Bewerte jeden Mahnschritt:
-
-- **Grün:** Zugang und Inhalt plausibel, Frist klar, Betrag richtig.
-- **Gelb:** Zugang oder Betrag unklar, aber nacharbeitbar.
-- **Rot:** falscher Adressat, falscher Betrag, bereits erledigte Forderung oder rechtlich ungeeignet.
-
-Wenn noch kein sauberer Mahnvorlauf vorliegt, liefere zuerst ein Mahnschreiben. Der Klageentwurf folgt erst nach Ablauf der gesetzten Frist.
+Ampelbeurteilung: grün (klar), gelb (unklar, nacharbeitbar), rot (rechtlich ungeeignet oder bereits erledigt).
 
 ### Schritt 3: Anspruchs-Gatekeeper
 
-Prüfe jede Forderungsposition als eigene Zeile:
+Prüfe je Position: Anspruchsgrundlage, Betrag, Fälligkeit, Durchsetzbarkeit, Verzug, Verschulden, Prozessrisiko, Gerichtsort.
 
-| Prüffrage | Grün nur wenn |
-| --- | --- |
-| Anspruchsgrundlage | Norm und Tatsachen passen zusammen |
-| Betrag | rechnerisch nachvollziehbar und belegt |
-| Fälligkeit | Datum aus Vertrag/Rechnung/Gesetz klar |
-| Durchsetzbarkeit | keine Erfüllung, Aufrechnung, Stundung, Verjährung oder Abtretungslücke |
-| Verzug | § 286 BGB oder kalendermäßige Fälligkeit tragfähig |
-| Verschulden | keine durchgreifenden Entlastungsargumente offen |
-| Prozessrisiko | Einwendungen wurden sichtbar gewürdigt |
-| Gerichtsort | zuständiges Gericht plausibel und online gegengeprüft |
-
-Ausgabe je Position:
-
-- **GRÜN / klagefähig:** in den Klageantrag aufnehmen.
-- **GELB / nur nach Freigabe:** Rückfrage, Belegnachforderung oder Vergleichsvorschlag.
-- **ROT / nicht einklagen:** nicht in die Klage aufnehmen; begründen.
+- GRÜN → in den Klageantrag.
+- GELB → Rückfrage oder Belegbedarf.
+- ROT → nicht einklagen, Begründung angeben.
 
 ### Schritt 4: Gerichtsort finden
 
-1. **Sachliche Zuständigkeit:** Streitwert prüfen. Nach der Plugin-Logik seit 01.01.2026 grundsätzlich Amtsgericht bis 10.000 EUR, Landgericht darüber; Sonderzuständigkeiten prüfen.
-2. **Örtliche Zuständigkeit:** allgemeiner Gerichtsstand der Beklagten nach §§ 12, 13 ZPO, bei juristischen Personen § 17 ZPO. Erfüllungsort nach § 29 ZPO nur nach genauer Prüfung, bei Verbrauchern § 29c ZPO beachten. Gerichtsstandsvereinbarungen bei Verbrauchern kritisch prüfen.
-3. **Mahngericht:** Für ein vorgeschaltetes Mahnverfahren das zentrale Mahngericht des Landes prüfen. Bei Bayern typischerweise AG Coburg.
-4. **Online-Abgleich:** Gericht über justizadressen.nrw.de, justiz.de oder das zuständige Landesjustizportal suchen. Quelle, URL, Abrufdatum, Treffer und verbleibende Unsicherheiten dokumentieren.
-
-Wenn die Anschrift streitig oder veraltet ist, keine Klage freigeben, bevor die ladungsfähige aktuelle Anschrift geklärt ist.
+Sachlich: AG bis 10.000 EUR (§ 23 GVG), LG darüber (§ 71 GVG). Örtlich: §§ 12, 13, 29, 29c ZPO. Online-Abgleich über justiz.de oder justizadressen.nrw.de; Quelle und Abrufdatum dokumentieren.
 
 ### Schritt 5: Output bauen
 
-Der Skill liefert standardmäßig:
+1. Mahnchronologie als Tabelle.
+2. Anspruchsmatrix mit Ampel.
+3. Klagefreigabe (was wird eingeklagt, was nicht, warum).
+4. Gerichtsortprüfung mit Quellenplatzhalter.
+5. Klageentwurf nur für grüne Positionen.
+6. Beleg- und Anlagenliste mit K-Sigeln.
+7. Kosten-/Risiko-Hinweis zu § 93 ZPO.
 
-1. **Mahnchronologie** als Tabelle.
-2. **Anspruchsmatrix** mit Ampel.
-3. **Klagefreigabe**: was wird eingeklagt, was nicht, warum.
-4. **Gerichtsortprüfung** mit Online-Quellenplatzhalter.
-5. **Klageentwurf** nur für grüne Positionen.
-6. **Beleg- und Anlagenliste** mit K-Sigeln.
-7. **Kosten-/Risiko-Hinweis** zu § 93 ZPO, Teilerledigung, sofortigem Anerkenntnis und unverhältnismäßiger Nebenforderungsklage.
+## Strategische Optionen (vor dem Template entscheiden)
 
-## ModeFuchs-Testakte
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-Die Beispielakte `testakten/inkasso-zahlungsklage-modefuchs/` ist der Referenzfall:
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Zahlungsklage gegen saumigen Schuldner | Mahnverfahren oder Klageschrift nach Schema; Template unten |
+| Variante A — Schuldner gibt Ratenzahlung an | Ratenvereinbarung statt Klage; Vollstreckungstitel danach |
+| Variante B — Forderung wirtschaftlich zweifelhaft Insolvenz droht | Insolvenzantrag pruefen statt Klage; Klage nur wenn Masse erwartet |
+| Variante C — Mandant will Geschaeftsbeziehung erhalten | Aussergerichtliche Einigung zuerst; Klage als letztes Mittel |
 
-- Kauf auf Rechnung über 698,00 EUR.
-- Mehrere Mahnungen.
-- Abtretung an InkassoZentrale GmbH.
-- Inkassokosten und Verzugsnebenforderungen.
-- Zahlung der Hauptforderung vor Klageeinreichung.
-- Späterer Mahnbescheid und Klage, die die bereits erfüllte Hauptforderung trotzdem enthält.
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-Erwartete Bewertung:
 
-- Hauptforderung 698,00 EUR: **ROT, nicht einklagen**, weil vor Klageeinreichung bezahlt und aktenkundig.
-- Mahnkosten, Verzugszinsen, Inkassokosten zusammen 99,84 EUR: **GELB**, nur nach Prüfung von Zugang, Verzug, Verschulden, Höhe und Verhältnismäßigkeit; bei geringer Quote Vergleich oder Nichtklage prüfen.
-- Gerichtsort: Beklagtenwohnsitz Nürnberg prüfen; vorhandene Klage zum AG Nürnberg plausibel, aber online zu verifizieren.
+## Output-Template
 
-## Werkzeug
+**Inkasso-Zahlungsklage — Anspruchsmatrix**
 
-Für strukturierte JSON-Fälle kann `scripts/inkasso_claim_gate.py` genutzt werden:
+Schuldner: [...] | Forderungsstand: [...] EUR | Stand: [Datum]
 
-```bash
-python scripts/inkasso_claim_gate.py \
-  --input testakten/inkasso-zahlungsklage-modefuchs/08_claim_gate_input.json \
-  --output testakten/inkasso-zahlungsklage-modefuchs/09_claim_gate_output.json
-```
+| Position | Betrag EUR | Ampel | Begründung |
+|---|---|---|---|
+| Hauptforderung | [...] | GRÜN/ROT | [...] |
+| Verzugszinsen | [...] | GRÜN/GELB | ab [...] |
+| Mahnkosten | [...] | GRÜN/GELB | Beleg: [...] |
+| Inkassokosten | [...] | GRÜN/GELB | Verhältnismäßigkeit: [...] |
 
-Das Werkzeug ersetzt keine Rechtsprüfung. Es ist ein formaler Gatekeeper: bezahlte Hauptforderungen, fehlende Belege und unklare Nebenforderungen werden sichtbar geblockt oder in Review gestellt.
+**Gerichtsort:** AG/LG [...] — Online-Quelle: [...] — Abrufdatum: [...]
 
-## Ausgabe-Ton
+**Klageantrag (nur grüne Positionen):**
+Der Beklagte wird verurteilt, an den Kläger [...] EUR nebst Zinsen in Höhe von [...] Prozentpunkten über dem Basiszinssatz seit [...] zu zahlen.
 
-Kurz, klar und prozessnah. Keine langen Gutachten, wenn ein Gate rot ist. Dann zuerst sagen: **Diese Position nicht einklagen** und den Grund nennen.
+**Empfehlung:** [Klage einreichen / zuerst Mahnung / Positionen [...] nicht einklagen]
 
-## Übergabe an die Zwangsvollstreckung
+---
 
-Nach Rechtskraft des Zahlungstitels oder Erlass des Vollstreckungsbescheids lädt das freistehende
-Plugin `zwangsvollstreckung` den passenden Folge-Skill: `zv-vollstreckungsbescheid-folge` für den
-Übergang aus dem Mahnverfahren, `zv-pfueb-bank` für Kontopfändung, `zv-pfueb-arbeitsentgelt` für
-Lohnpfändung mit Tabelle 1.7.2025, `zv-vermoegensauskunft-gv` für die Vorfeld-Recherche.
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+

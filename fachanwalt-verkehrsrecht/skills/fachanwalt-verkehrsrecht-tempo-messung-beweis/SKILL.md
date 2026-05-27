@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-tempo-messung-beweis
-description: "Tempo-Messung Beweisanfechtung. Standardmessgeraete PoliScan Speed Es 3.0 LeivTec XV-3 Multanova Mess-Verfahren-Verzeichnis PTB. Standardmessverfahren standardisiertes Beweis-Verfahren. Akteneinsicht Mess-Dokumentation Eichschein. Workflow Bussgeld Einspruch Klage."
+description: "Mandant bestreitet korrekte Geschwindigkeitsmessung in Bussgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Pruefraster: Standardmessgeraete PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverstaendigen. Abgrenzung zu fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen (Gesamtpruefung) und bussgeld-einspruch-pruefen."
 ---
 
 # Tempo-Messung Beweisanfechtung

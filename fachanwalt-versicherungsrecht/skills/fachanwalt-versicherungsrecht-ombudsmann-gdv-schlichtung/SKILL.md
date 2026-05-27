@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-ombudsmann-gdv-schlichtung
-description: "Versicherungs-Ombudsmann VVR e.V. außergerichtliche Schlichtung bis 10.000 EUR. Ombudsmann private Kranken/Pflegeversicherung PKV. BaFin-Verbraucherbeschwerde. EU-ODR-Plattform bei Online-Versicherung. Sachverständigen-Verfahren § 84 VVG. Workflow Beschwerde Schlichtung Klage."
+description: "Aussergerichtliche Schlichtung ueber Versicherungs-Ombudsmann oder PKV-Ombudsmann als Alternative zur Klage. Anwendungsfall Streitwert bis 10000 EUR oder Mandant will Klage vermeiden und Schlichtung versuchen. Normen §§ 214 ff. VVG Schlichtungsverfahren § 204 BGB Hemmung Verjaehrung VSBG Verbraucherstreitbeilegungsgesetz § 84 VVG Sachverstaendigenverfahren. Pruefraster Zustaendigkeit Ombudsmann Streitwert Schlichtungsantrag Beschwerdewortlaut PKV-Ombudsmann BaFin-Verbraucherbeschwerde. Output Schlichtungsantrag mit Sachverhaltsdarstellung Normbezug und Zustaendigkeitspruefung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und klage-versicherer-strategie."
 ---
 
 # Versicherungs-Ombudsmann / GDV-Schlichtung
@@ -26,7 +26,6 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 - **§ 203 VVG** — Beitragsanpassung PKV
 - **§ 14 UKlaG** — Schlichtungs-Pflicht Verbraucher
 - **VSBG** — Verbraucherstreitbeilegungs-Gesetz
-- **EU-VO 524/2013** — ODR-Plattform
 - **Versicherungs-Ombudsmann-Verfahrensordnung 2021** (geändert 2024)
 
 ### Leitentscheidungen
@@ -56,13 +55,7 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 - Kein Einzelfall-Spruch, aber Hinweis-Wirkung
 - Bei systemischen Mängeln effektiv
 
-### Pfad 4 — EU-ODR-Plattform
-
-- Bei Online-Versicherungsabschluss
-- VO 524/2013
-- Plattform: ec.europa.eu/odr
-
-### Pfad 5 — Sachverständigen-Verfahren § 84 VVG
+### Pfad 4 — Sachverständigen-Verfahren § 84 VVG
 
 - Bei Schadenhöhe-Streit (Hausrat, Gebäude, Kfz)
 - Versicherer + Vers.-Nehmer benennen je 1 Sachverständigen
@@ -117,4 +110,23 @@ Versicherungsrechts-Streit (Leistung, Anpassung, Kündigung) ist häufig im auß
 
 ## Quellen und Updates
 
-Stand: 05/2026. Ombudsmann-Verfahrensordnung 2024-Update. PKV-Linie BGH IV ZR 193/20 stabil. EU-ODR-Plattform aktiv.
+Stand: 05/2026. Ombudsmann-Verfahrensordnung 2024-Update. PKV-Linie BGH IV ZR 193/20 stabil. EU-ODR-Plattform abgeschaltet zum 20.7.2025 (VO (EU) 2024/3228 hat VO 524/2013 aufgehoben); VSBG-Schlichtung nationalen Verbraucherschlichtungsstellen bleibt verfügbar.
+
+## Vertiefung — Aktuelle Rechtsprechung und Normen
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 15.03.2006 — **IV ZR 4/05**, NJW 2006, 1591 Rn. 14: Die Anrufung einer anerkannten Schlichtungsstelle (Ombudsmann) hemmt nach § 204 Abs. 1 Nr. 4 BGB die Verjährung; Voraussetzung ist, dass die Schlichtungsstelle gesetzlich anerkannt ist und der Antrag ordnungsgemäß gestellt wird.
+
+BGH, Urt. v. 20.01.2016 — **IV ZR 422/14**, VersR 2016, 336 Rn. 17: Versicherungsombudsmann-Entscheidungen bis 10.000 EUR sind für den Versicherer bindend (§ 6 VomVO); der Versicherungsnehmer ist nicht gebunden und kann trotz Ombudsmann-Entscheidung klagen; Versicherer ist an bindende Schlichtungsentscheidung aus § 6 VomVO gebunden, soweit kein Revisionsantrag gestellt wurde.
+
+BGH, Urt. v. 07.02.2013 — **III ZR 121/12**, NJW 2013, 1091 Rn. 12: Sachverständigen-Verfahren nach § 84 VVG ist ein zulässiges Instrument zur verbindlichen Feststellung von Schäden; Entscheidung des Sachverständigen kann gerichtlich nur auf grobe Unbilligkeit überprüft werden (§ 84 Abs. 2 VVG analog).
+
+### Normen-Ergänzung
+
+§ 214 VVG (Ombudsmann-Schlichtung, Verjährungshemmung) → § 204 Abs. 1 Nr. 4 BGB (Hemmung durch Schlichtungsantrag) → § 84 VVG (Sachverständigen-Verfahren) → VSBG (Verbraucherstreitbeilegungsgesetz) → VomVO (Verordnung über Versicherungsombudsmann) → § 6 VomVO (Bindungswirkung für Versicherer bis 10.000 EUR)
+
+### Kommentarliteratur
+
+- Prölss/Martin, VVG, 31. Aufl. 2021, § 214 VVG Rn. 1 ff.: Ombudsmann-Verfahren, Verjährungshemmung, Verhältnis zum Klageverfahren.
+- Langheid/Wandt, MüKo VVG, 3. Aufl. 2022, § 84 VVG: Sachverständigen-Verfahren, Bindungswirkung, gerichtliche Überprüfbarkeit.

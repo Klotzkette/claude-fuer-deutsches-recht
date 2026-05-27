@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Insolvenzantrag, Anfechtungsklage, StaRUG-Restrukturierungsantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Insolvenzantrag, Anfechtungsklage, StaRUG-Restrukturierungsantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Insolvenz- und Restrukturierungsrecht
@@ -193,3 +193,22 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+
+## Aktuelle Leitentscheidungen fuer Schriftsaetze im Insolvenzrecht
+
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Vorsatzanfechtung § 133 InsO: klagende IV muss konkrete Bedrohungslage (nicht nur drohende ZU) in Klageschrift darlegen; Indizien wie Ratenzahlungsangebote, Mahnungen, ZV-Massnahmen.
+- BGH, Urt. v. 16.07.2015 — IX ZR 197/14, NZI 2015, 892 — Substantiierungslast im Anfechtungsprozess: klagender IV muss alle Zahlungen, Daten und Gegner-Kenntnis-Indizien im Schriftsatz konkret vortragen; pauschaler Verweis auf Kontoauszuege reicht nicht.
+- BGH, Urt. v. 20.02.2014 — IX ZR 164/13, NZI 2014, 473 — Klagaenderung InsO-Anfechtung: Wechsel des Tatbestands (z.B. von § 130 auf § 133) ist Klagaenderung nach § 263 ZPO; Glaubhaftmachung Zulassung bei neuen Tatsachen.
+- BGH, Urt. v. 10.01.2013 — IX ZR 3/12, NZI 2013, 391 — Bargeschaeft § 142 InsO: Gegner muss im Prozess Bargeschaeft-Einrede erstatten und Gleichwertigkeit + Zeitlichkeit tatsaechlich darlegen; keine Beweislastumkehr zugunsten Gegner.
+
+## Paragrafenkette Schriftsatz-Grundgeruest Insolvenz
+
+§ 129 InsO (Grundtatbestand) → §§ 130-133 InsO (konkrete Tatbestaende) → § 143 InsO (Rechtsfolge Rueckgewaehr) → § 146 InsO (Verjaehrung) → § 240 ZPO (Unterbrechung durch Insolvenz) → §§ 261 263 ZPO (Klagezustaendigkeit, Klagaenderung) → § 294 ZPO (Glaubhaftmachung Insolvenzgericht)
+
+## Triage — Schriftsatz-Typ bestimmen
+
+1. **Anfechtungsklage Verwalter?** → Tatbestand § 130/131/133 InsO; ZU-Datum; Gegner-Kenntnis-Indizien; § 146 InsO Verjaehrung check.
+2. **Insolvenzantrag Glaeubigerseite?** → § 14 InsO; Forderungs-Glaubhaftmachung; ZU-Indizien.
+3. **Forderungsanmeldung?** → § 174 InsO; Tabellen-Eintrag; Rang; Belege.
+4. **Tabellenklage nach Bestreiten?** → § 180 InsO; ZPO-Klage; Beweismittel.

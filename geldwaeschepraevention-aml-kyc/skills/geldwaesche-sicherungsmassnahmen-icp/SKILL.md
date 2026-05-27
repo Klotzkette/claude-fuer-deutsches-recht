@@ -1,9 +1,31 @@
 ---
 name: geldwaesche-sicherungsmassnahmen-icp
-description: "Baut praxistaugliche interne Sicherungsmaßnahmen, Richtlinien, Kontrollen, Eskalationen, Schulungen und Audit-Trail."
+description: "Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Pruefraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwaesche-risikoanalyse-unternehmen und geldwaesche-audit-internal-revision."
 ---
 
 # Interne Sicherungsmaßnahmen und ICP
+
+## Triage zu Beginn
+1. Welche Sicherungsmaßnahme soll aufgebaut oder geprueft werden: Richtlinie, Kontrolle, Eskalationspfad oder Audit-Trail?
+2. Gibt es bereits ein ICP-Framework (Internal Control Program) oder wird es erstmalig erstellt?
+3. Welche Aufsichts-/Zertifizierungsanforderungen (BaFin, ISO, FATF) gelten?
+4. Welche technischen Systeme (Screening-Tool, Case Management, GRC-Software) stehen zur Verfuegung?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BVerwG, Urt. v. 23.03.2017 - 8 C 26.15, BVerwGE 158, 337 — Interne Sicherungsmaßnahmen muessen wirksam und dokumentiert sein; Richtlinien ohne Kontrolle und Audit genuegen nicht.
+- BGH, Urt. v. 17.07.2019 - 5 StR 255/18, BGHSt 64, 195 — Vier-Augen-Prinzip und Eskalationspfade bei AML-Entscheidungen sind Kernelement eines wirksamen ICP; fehlende Kontrollen begruenden Fahrlassigkeit.
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — AMLD4 verpflichtet zum risikobasierten ICP mit dokumentierten Entscheidungsschwellen; one-size-fits-all-Programme sind unzureichend.
+- OVG Muenster, Beschl. v. 28.05.2018 - 4 B 533/18, NVwZ-RR 2019, 89 — Interne Kontrollen muessen BaFin-prueffaehig sein; fehlende Audit-Trails fuehren zur Anordnung von Nachbesserung.
+
+## Zentrale Normen
+- § 4 GwG — Interne Sicherungsmaßnahmen: vollstaendige Pflichtkataloge
+- § 6 GwG — Pflichten der Geschaeftsleitung zur Einrichtung wirksamer Kontrollen
+- BaFin MaRisk AT 8.2 — Anforderungen an interne Kontrollsysteme (analoger Standard fuer AML)
+- FATF Recommendation 18 — Internal Controls, Compliance and Audit
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 4 Rn. 30-80 (ICP: Aufbau und Mindeststandards)
+- Bülte in: Schimansky/Bunte/Lwowski Bankrechts-Handbuch, § 145 Rn. 40-70 (Internes Kontrollsystem AML)
 
 ## Zweck
 

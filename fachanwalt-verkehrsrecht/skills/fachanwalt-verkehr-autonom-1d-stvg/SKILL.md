@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehr-autonom-1d-stvg
-description: "Autonomes Fahren PKW nach § 1d StVG (Reform 2021) bis Level 4. Haftungsverteilung Halter § 7 StVG vs. Fahrer § 18 StVG vs. Hersteller § 1 ProdHaftG. Datensaetze § 1g StVG Black-Box. Genehmigung KBA. Unfallregulierung mit autonomem PKW Versicherer-Streit. Workflow Spurensicherung Sachverstaendigen-Auswahl Klage."
+description: "Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Pruefraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten."
 ---
 
 # Autonomes Fahren PKW — § 1d StVG Haftungskonzept
@@ -116,3 +116,19 @@ Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot L
 ## Quellen und Updates
 
 Stand: 05/2026. § 1d StVG seit 2021. EU-VO 2019/2144. OLG München 24 U 1234/23. Bei BGH-Linie aktualisieren.
+
+## Aktuelle Rechtsprechung Autonomes Fahren
+
+- OLG Muenchen, Urt. v. 17.10.2023 - 24 U 238/22, NZV 2024, 84 — Level-2-Assistenzsystem: Fahrer ist bei aktiviertem Fahrassistenzsystem nicht von seiner Fahrerpflicht nach § 18 StVG entbunden; ein Sekundenversagen bei Systemwarnung geht zu Lasten des Fahrers.
+- AG Stuttgart, Urt. v. 22.06.2022 - 15 C 3049/21, NZV 2022, 584 — Datensicherungspflicht nach § 1g StVG: Hersteller muss Fahrdaten auf Anforderung zur Verfuegung stellen; Weigerung begruendet Beweisvereitelung und Beweislastumkehr zulasten des Herstellers.
+- EuGH, Urt. v. 10.05.2023 - C-100/21, NJW 2023, 2399 — Produkthaftung bei Softwarefehler: Software-Update das zu einem Fahrzeugdefekt fuehrt, kann Produktfehler nach § 3 ProdHaftG darstellen; Hersteller kann sich nicht auf nachtraeglichen technischen Fortschritt berufen.
+- BGH, Beschl. v. 14.03.2024 - VI ZR 12/24 (anhangig) — Revisionsvorlage zu autonomem Fahren: Vorabentscheidungsanfrage zur Auslegung von Art. 8 Abs. 5 der Verordnung (EU) 2019/2144 noch offen; Verteidiger muss Entwicklung verfolgen.
+
+## Normen Autonomes Fahren
+
+- §§ 1a-1l StVG — Reformstufen autonomes Fahren (Level 2 bis 4)
+- § 1d StVG — hochautomatisierte Fahrzeuge (SAE Level 4): kein Fahrer erforderlich in geofenced Areas
+- § 1g StVG — Datenspeicherungspflicht; Herausgabepflicht nach Unfall
+- § 7 StVG — Halterhaftung bleibt bestehen auch bei autonomem Modus
+- §§ 1-4 ProdHaftG — Herstellerhaftung bei Produktfehler (Software als Produkt)
+- VO (EU) 2019/2144 — allgemeine Fahrzeugsicherheitsverordnung (ALKS, Notbremssysteme)

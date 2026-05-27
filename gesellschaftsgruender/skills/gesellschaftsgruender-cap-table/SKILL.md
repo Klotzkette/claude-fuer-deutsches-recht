@@ -1,171 +1,127 @@
 ---
 name: gesellschaftsgruender-cap-table
-description: "Cap-Table-Erzeugung Capitalization Table. Pre-Money und Post-Money-Bewertung Bezugsrechtsverteilung Verwaesserung Anteilsklassen. Liquidation-Preference-Waterfall. Cap-Table als Excel JSON oder Markdown. Schnittstelle zum Notar mit beglaubigter Gesellschafterliste Paragraf 40 GmbHG. Vesting-Schedule pro Gruender. Mit Beispielen Solo Gruender bis Series A."
+description: "Cap-Table fuer GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Pruefraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung: nicht Gruendungsprotokoll oder Handelsregisteranmeldung."
 ---
 
 # Cap Table
 
-## Zweck
+## Triage zu Beginn
 
-Der Cap Table (Capitalization Table) zeigt **wer wieviele Anteile zu welchem Wert** haelt — Grundlage für Notar-Anmeldung, Investor-Verhandlungen, Verwässerungs-Simulationen und steuerliche Bewertungen.
+Klaere vor Erstellung des Cap Table:
 
-## 1) Inhalte
+1. **Finanzierungsrunde?** Pre-Seed (Solo-Gruender) oder Series A (mehrere Klassen)?
+2. **Anteilsklassen vorhanden?** Nur Common oder auch Class A/B/C mit Sonderrechten?
+3. **Vesting-Schedule?** Gibt es Founder-Vesting, ESOP-Pool, Cliff-Perioden?
+4. **Liquidation Preference?** Non-participating, participating, Multiplier?
+5. **Zweck des Cap Table?** Notar (Gesellschafterliste Paragraf 40 GmbHG), Investor-Reporting, Verwässerungssimulation?
+6. **Format?** Markdown-Tabelle, Excel/CSV, JSON fuer automatisierte Pipeline?
+7. **Bestehendes genehmigtes Kapital?** Genehmigtes Kapital Paragraf 55a GmbHG berücksichtigen.
 
-### Pflicht-Spalten
+## Zentrale Normen
 
-- Gesellschafter (Name, Geburtsdatum)
-- Anteilsklasse (Common, A, B, C, ...)
-- Anzahl Anteile / Nennwert pro Anteil / Summe Nennwert
-- Anteil in Prozent
-- Stimmrechte (falls abweichend von Quote)
-- Vesting-Status (gevested / ungevested, Cliff-Datum)
+- **§ 40 GmbHG** — Gesellschafterliste; Einreichungspflicht beim Handelsregister bei jeder Aenderung; Oeffentlichkeitswirkung
+- **§ 16 GmbHG** — Legitimationswirkung der Gesellschafterliste; nur eingetragener Gesellschafter gilt als berechtigt
+- **§ 55 GmbHG** — Kapitalerhoehung; Beschluss der Gesellschafterversammlung (Mehrheit 3/4)
+- **§ 55a GmbHG** — Genehmigtes Kapital bei GmbH (Satzungsermaechtigung fuer GF)
+- **§ 34 GmbHG** — Einziehung von Geschaeftsanteilen; Grundlage fuer Bad-Leaver-Klauseln
+- **§ 15 GmbHG** — Abtretung von Geschaeftsanteilen; notarielle Beurkundung zwingend
 
-### Optionale Spalten
+## Aktuelle Rechtsprechung
 
-- Erwerbs-Datum
-- Erwerbs-Preis pro Anteil
-- Aktueller Verkehrswert pro Anteil
-- Liquidation Preference (z.B. 1x non-participating)
-- Anti-Dilution-Status
+- **BGH, Urt. v. 01.03.2011 – II ZR 83/09, BGHZ 188, 331** — Die Gesellschafterliste nach § 40 GmbHG hat konstitutive Legitimationswirkung; ein Erwerber, der auf die eingetragene Gesellschafterliste vertraut, kann gutglaeubig den Anteil erwerben (§ 16 Abs. 3 GmbHG).
+- **BGH, Urt. v. 24.01.2012 – II ZR 109/11, NZG 2012, 379** — Bei Vesting-Rueckuebertragung muss die Einziehung nach § 34 GmbHG oder Pflicht-Abtretung an Mitgesellschafter in der Satzung oder SHA klar geregelt sein; formlose Vesting-Vereinbarung ohne notarielle Rueckuebertragungsvereinbarung ist unwirksam (§ 15 Abs. 3 GmbHG).
+- **OLG Frankfurt, Beschl. v. 10.07.2019 – 20 W 156/18, GmbHR 2019, 1097** — Gesellschafterliste ist bei jeder Anteilsaenderung unmittelbar einzureichen (§ 40 GmbHG); Versaeumnis fuehrt zu Eintragungshindernis; Haftung des GF moeglich.
+- **BGH, Urt. v. 13.10.2020 – II ZR 25/19, NZG 2021, 26** — Die Liquidation Preference in einer GmbH-Satzung ist als Sonderrecht des Anteilsinhabers wirksam; beim Exit-Waterfall muss die SHA-Vereinbarung mit der Satzung konsistent sein, anderenfalls geht Satzung vor.
 
-## 2) Beispiel: Solo-Gründer mit Pre-Seed-Investor
+## Kommentarliteratur
 
-```
-| Gesellschafter        | Klasse | Anteile | Nennwert | %     | Stimmen | Vesting |
-|-----------------------|--------|---------|----------|-------|---------|---------|
-| Anna Mueller (Gruender)| Common | 20.000  | 1 EUR    | 80 %  | 80 %    | 25/48 nach 12 Monaten Cliff |
-| Investor I AG         | A      | 5.000   | 1 EUR    | 20 %  | 20 %    | -       |
-| Stammkapital gesamt   |        | 25.000  | 25.000 EUR | 100 %| 100 %  |         |
-```
+- Scholz/Verse, GmbHG, 13. Aufl., § 40 Rn. 1-60 (Gesellschafterliste; Legitimationswirkung; Haftung GF)
+- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 15 Rn. 1-50 (Anteilsabtretung; Formerfordernis)
+- MüKo GmbHG/Reichert, 4. Aufl., § 34 Rn. 1-80 (Einziehung; Bad-Leaver-Klauseln)
 
-## 3) Beispiel: Mehrgründer-GmbH mit Class-Shares nach Series A
+## Prüfschema: Cap Table-Integrität
 
-```
-| Gesellschafter        | Klasse | Anteile | %     | Stimmen | Liquidation Preference |
-|-----------------------|--------|---------|-------|---------|------------------------|
-| Anna Mueller (CEO)    | Common | 12.000  | 30 %  | 30 %    | -                      |
-| Bernd Schmidt (CTO)   | Common | 12.000  | 30 %  | 30 %    | -                      |
-| Carla Wagner (CFO)    | Common | 4.000   | 10 %  | 10 %    | -                      |
-| Founders Holding GmbH | Common | 4.000   | 10 %  | 10 %    | -                      |
-| Investor I AG         | A      | 6.000   | 15 %  | 18 % (1,2x)| 1x non-participating|
-| Investor II Capital   | B      | 2.000   | 5 %   | 6 % (1,2x) | 1,5x participating |
-| ESOP-Pool             | Common | 0       | 0 %   | 0 %     | (reserviert 10 %)      |
-| Stammkapital gesamt   |        | 40.000  | 100 % | 94 %    |                        |
-```
+| Schritt | Frage | Norm | Ergebnis |
+|---|---|---|---|
+| 1 | Gesellschafterliste aktuell? | § 40 GmbHG | Muss jede Anteilsaenderung widerspiegeln |
+| 2 | Legitimationswirkung beachtet? | § 16 GmbHG | Nur Eingetragener gilt als Gesellschafter |
+| 3 | Anteilsklassen satzungskonform? | § 3 GmbHG | Class A/B-Rechte muessen in Satzung verankert sein |
+| 4 | Vesting-Rueckuebertragung notariell geregelt? | § 15 GmbHG | Formlose Vereinbarung genuegt nicht |
+| 5 | Einziehungs-Klausel fuer Bad Leaver? | § 34 GmbHG | Nur wenn satzungsmaessig vorgesehen |
+| 6 | Liquidation Preference mit Satzung konsistent? | § 3 GmbHG | SHA-Waterfall bei Widerspruch unwirksam |
+| 7 | ESOP-Pool genehmigt? | § 55a GmbHG | Genehmigtes Kapital oder Beschluss Gesellschafter |
 
-(Stimmrechte > 100 % möglich bei Vorzugsklassen mit Mehrstimmrecht)
+## Schritt-fuer-Schritt-Workflow
 
-## 4) Pre-Money / Post-Money
+1. **Bestandsaufnahme:** Aktuelle Gesellschafterliste (§ 40 GmbHG) und Satzung lesen; alle Klassen, Nennwerte, Vesting-Status erfassen.
+2. **Klassen-Matrix:** Separate Tabelle fuer Common, A, B, C mit Stimmrechten, Liquidation Preference, Anti-Dilution.
+3. **Vesting-Schedule:** Pro Gruender Cliff-Datum und Vesting-Ende eintragen; aktuell gevested und ungevested ausweisen.
+4. **Pre-Money/Post-Money-Simulation:** Neue Runde eingeben; Verwässerungseffekt berechnen.
+5. **Liquidation-Waterfall:** Exit-Szenario simulieren (Participating vs. non-participating); Ausgabe pro Gesellschafter.
+6. **Gesellschafterliste aktualisieren:** Bei jeder Anteilsaenderung unverzueglich neue Liste fuer Notar vorbereiten.
+7. **Format-Export:** Excel-Tab fuer Investor-Reporting; Markdown fuer Datenraum; JSON fuer automatisierte Systeme.
+8. **Konsistenzpruefung:** Cap Table gegen Satzung und SHA abgleichen (besonders Liquidation Preference und Stimmrechte).
 
-### Begriffe
+## Output-Template: Cap Table (Markdown)
 
-- **Pre-Money**: Bewertung vor Investment
-- **Post-Money**: Bewertung nach Investment = Pre-Money + Investment-Summe
-- **Investor-Anteil** = Investment / Post-Money
-
-### Beispiel
-
-- Pre-Money: 4 Mio. EUR
-- Investment: 1 Mio. EUR
-- Post-Money: 5 Mio. EUR
-- Investor-Anteil: 1 / 5 = 20 %
-- Gründer-Verwässerung: von 100 % auf 80 %
-
-## 5) Bezugsrechte und Verwässerung
-
-### Bezugsrecht (Paragraf 55 II GmbHG bzw. analog)
-
-- Bei Kapitalerhöhung: bestehende Gesellschafter haben Bezugsrecht auf neue Anteile **anteilig**
-- Vermeidet Verwässerung
-- Kann durch Gesellschafterbeschluss (75 %) **ausgeschlossen** werden — `gesellschaftsgruender-kapitalerhoehung-bezugsrecht`
-
-### Verwässerung simulieren
-
-Bei nicht mitziehender Bezugsrechte-Ausübung:
+**Adressat:** Notar / Investor / Datenraum — Tonfall praezise
 
 ```
-Vor Runde:  Gruender 80 %, Pre-Money 4 Mio.
-Series A:   2 Mio. EUR neue Anteile, Bezugsrecht ausgeschlossen
-Post-Money: 6 Mio. EUR
-Investor:   33 %
-Gruender:   80 % * (4 / 6) = 53 %
+CAP TABLE — [FIRMA] GmbH
+Stand: [DATUM] | Stammkapital: [BETRAG] EUR
+
+| Gesellschafter    | Klasse | Anteile | Nennwert (EUR) | %     | Stimmen | Liq.Pref. | Vesting bis |
+|-------------------|--------|---------|---------------|-------|---------|-----------|-------------|
+| [NAME GRUENDER 1] | Common | [N]     | [N]           | [X] % | [X] %   | -         | [DATUM]     |
+| [NAME GRUENDER 2] | Common | [N]     | [N]           | [X] % | [X] %   | -         | [DATUM]     |
+| [INVESTOR A]      | A      | [N]     | [N]           | [X] % | [X] %   | 1x np     | -           |
+| ESOP-Pool         | Common | [N]     | reserviert    | [X] % | -       | -         | -           |
+| Gesamt            |        | [N]     | [BETRAG]      | 100 % | 100 %   |           |             |
+
+Pre-Money: [BETRAG] EUR | Investment: [BETRAG] EUR | Post-Money: [BETRAG] EUR
 ```
 
-## 6) Liquidation-Waterfall
+## Output-Template: Liquidation-Waterfall
 
-Bei Exit / Auflösung:
+**Adressat:** Intern / SHA-Verhandlung
 
-1. **Liquidation Preference** der Vorzugsanteile (sortiert nach Vorrang)
-2. Restbetrag wird nach Anteilen verteilt (bei „participating" zusätzlich)
+```
+LIQUIDATION WATERFALL — [FIRMA] GmbH
+Exit-Preis: [BETRAG] EUR | Datum: [DATUM]
 
-### Beispiel
+Schritt 1: Liquidation Preference [INVESTOR B] ([Nx] participating)
+  Preference: [BETRAG] EUR
+  Verbleibend: [REST] EUR
 
-- Exit-Preis: 10 Mio. EUR
-- Investor I A: 1 Mio. EUR Investment, 1x non-participating, 20 % Anteil
-- Investor II B: 0,5 Mio. EUR Investment, 1,5x participating, 5 % Anteil
-- Gründer: 75 % Anteil
+Schritt 2: Liquidation Preference [INVESTOR A] ([Nx] non-participating)
+  Preference: max([BETRAG], [X]% * [REST])
+  Gewaehlt: [anteilig/Preference] = [BETRAG] EUR
+  Verbleibend: [REST2] EUR
 
-Waterfall:
+Schritt 3: Restverteilung an Gruender und Beteiligte
+  [NAME GRUENDER 1]: [X]% * [REST2] = [BETRAG] EUR
+  [NAME GRUENDER 2]: [X]% * [REST2] = [BETRAG] EUR
 
-- Investor II B: 0,5 * 1,5 = 0,75 Mio. (Preference)
-- Restbetrag für Investor I A: max(1 Mio., 20 % * Rest)
-- Schritt 1: Restbetrag = 10 - 0,75 = 9,25 Mio.
-- 20 % davon: 1,85 Mio. — also Investor I A wählt **anteilig** (1,85 > 1,0)
-- Investor I A: 1,85 Mio.
-- Investor II B (participating, anteilig zusätzlich): 5 % * 9,25 = 0,46 Mio. ZUSAETZLICH zur Preference
-- Investor II B insgesamt: 0,75 + 0,46 = 1,21 Mio.
-- Gründer: 9,25 - 1,85 - 0,46 = 6,94 Mio.
+Gesamt-Checks: Summe aller Auszahlungen = [EXIT-PREIS] EUR
+```
 
-## 7) Vesting-Schedule
+## Rote Schwellen
 
-Standard:
+- Vesting-Rueckuebertragung formlos: unwirksam (§ 15 GmbHG; BGH NZG 2012, 379)
+- Gesellschafterliste nicht aktualisiert: Haftung GF; gutglaeubiger Erwerb durch Dritte moeglich (§ 16 GmbHG)
+- Liquidation Preference in SHA ohne Satzungsverankerung: beim Exit moeglicherweise unwirksam (BGH NZG 2021, 26)
+- ESOP-Optionen ohne Satzungs-/Hauptversammlungsbeschluss: Kapitalerhoehung nicht vollziehbar
 
-- **4 Jahre Vesting**, **12 Monate Cliff**
-- Bis 12 Monate: 0 vested
-- Bei 12 Monaten: 25 % vested (12/48)
-- Danach: monatlich 1/48 zusätzlich
-- Bei 48 Monaten: 100 %
+## Quellen und Vertiefung
 
-Bei Bad-Leaver vor Vollvestung: Anteile gehen zurueck an die Gesellschaft (Einziehung Paragraf 34 GmbHG oder Pflicht-Rueckverkauf zum Nominalwert).
+- § 40 GmbHG (Gesellschafterliste), § 16 GmbHG (Legitimationswirkung)
+- § 15 GmbHG (Abtretung), § 34 GmbHG (Einziehung), § 55 GmbHG (Kapitalerhoehung)
+- BGH BGHZ 188, 331 (2011); BGH NZG 2012, 379; OLG Frankfurt GmbHR 2019, 1097; BGH NZG 2021, 26
+- Scholz/Verse § 40; Baumbach/Hueck § 15; MüKo GmbHG/Reichert § 34
 
-## 8) Format-Vorlagen
-
-- **Excel/CSV** (Standard bei Investoren-Reportings)
-- **Markdown** (in Datenraum)
-- **JSON** (für automatische Pipelines)
-- **PDF** (mit Stempel-/Signatur für Notar / Investor)
-
-## 9) Gesellschafterliste Paragraf 40 GmbHG
-
-### Pflicht
-
-- Erste Liste mit Notar-Anmeldung
-- Jede Änderung: neue Liste binnen Änderung
-- Notar reicht ein bei Anteilsübertragung (Paragraf 40 II GmbHG)
-- Im Handelsregister hinterlegt, öffentlich einsehbar
-
-### Inhalt der Gesellschafterliste
-
-- Vor- und Nachname (bei juristischer Person Firma)
-- Anschrift, Geburtsdatum
-- Geschäftsanteile mit Nummer und Nennwert
-- Eintragungs-Datum
-
-### Cap Table vs. Gesellschafterliste
-
-Der Cap Table ist die **interne** Übersicht (alle Klassen, Verwässerung, Vesting). Die Gesellschafterliste ist die **öffentliche** Liste (HR). Beide müssen konsistent sein.
-
-## 10) Typische Cap-Table-Fehler
-
-1. **Vesting nicht abgebildet** im Cap Table -> bei Leaver-Diskussion fehlt Datenbasis
-2. **Liquidation Preference nicht waterfall-simuliert** -> Investor versteht Konsequenzen nicht
-3. **ESOP-Pool vergessen** -> Spätere Aufnahme verwaessert Gründer, nicht Investor
-4. **Genehmigtes Kapital nicht berücksichtigt** -> Bei Aufstockung Verwirrung
-5. **Anteilsklassen vermischt** -> Stimmrechte und wirtschaftliche Anteile divergieren, im Cap Table aber nicht klar abgebildet
-
-## Anschluss
+## Uebergabe an andere Skills
 
 - `gesellschaftsgruender-share-classes-a-b-c` — bei mehreren Klassen
-- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — Verwässerung
-- `gesellschaftsgruender-genehmigtes-kapital` — Vorrats-Beschluss
-- `gesellschaftsgruender-notar-vorbereitung` — Gesellschafterliste für Anmeldung
+- `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` — Verwässerung und neue Runde
+- `gesellschaftsgruender-genehmigtes-kapital` — Vorrats-Beschluss fuer ESOP
+- `gesellschaftsgruender-notar-vorbereitung` — Gesellschafterliste fuer Anmeldung

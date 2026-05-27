@@ -1,10 +1,10 @@
 {
-    "name": "ki-vo-ai-act-pruefer",
-    "version": "9.0.0",
-    "description": "Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, verbotene Praktiken, Hochrisiko-Diagnose und 12-Schritte-Roadmap bis CE, Konformitaetsbewertung, EU-DB, Marktbeobachtung. Auch Negativ-Diagnose ueber Rueckausnahme Art. 6 Abs. 3, GPAI, Sanktionen.",
-    "license": "Apache-2.0 OR MIT",
-    "author": {
-        "name": "Klotzkette"
-    },
-    "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  "name": "ki-vo-ai-act-pruefer",
+  "version": "14.2.0",
+  "description": "Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, verbotene Praktiken, Hochrisiko-Diagnose und 12-Schritte-Roadmap bis CE, Konformitaetsbewertung, EU-DB, Marktbeobachtung. Auch Negativ-Diagnose ueber Rueckausnahme Art. 6 Abs. 3, GPAI, Sanktionen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
 }

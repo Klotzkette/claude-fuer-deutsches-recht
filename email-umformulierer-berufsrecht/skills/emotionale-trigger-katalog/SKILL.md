@@ -1,11 +1,34 @@
 ---
 name: emotionale-trigger-katalog
-description: "Woerterbuch typischer emotionaler Trigger in beruflicher Korrespondenz mit neutralen Ersatzformulierungen. Umfasst Schimpfwoerter, Pauschalurteile, Kompetenzabsprachen und Drohgesten mit jeweils sachlicher Entsprechung."
+description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Pruefraster: aggressive Formulierungen persoenliche Angriffe emotionale Uebertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht fuer vollstaendige Umformulierung (allgemeine-berufliche-korrespondenz)."
 ---
 
 # Emotionaler Trigger-Katalog
 
 Dieser Skill stellt ein strukturiertes Wörterbuch typischer emotionaler und unsachlicher Formulierungen bereit, die in beruflicher Korrespondenz auftreten. Zu jedem Trigger wird eine neutrale, berufsrechtskonforme Ersatzformulierung gezeigt, die den sachlichen Kern erhält.
+
+
+## Triage zu Beginn
+1. Welcher Trigger-Typ liegt vor: Kompetenzabsprache (A), Charakterangriff (B), Drohung (C), Pauschalurteil (D) oder Affektsprache (E)?
+2. Wer ist der Absender des Trigger-Textes: Mandant, Gegner, Kollege oder Dritter?
+3. Muss der Trigger bloss aus eigenem Schreiben entfernt oder auch im Antwortschreiben neutralisiert werden?
+4. Gibt es berufsrechtlich relevante Schwellenueberschreitungen (§ 43a Abs. 3 BRAO)?
+
+## Aktuelle Rechtsprechung
+- BVerfG, Beschl. v. 02.07.2013 - 1 BvR 1751/12, NJW 2013, 3153 — Grenze zwischen zulaessiger scharfer Kritik und unzulaessiger Schmahkritik; sachliche Kritik am Gegner bleibt auch in zugespitzter Form schutzwuerdig.
+- BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — Qualifizierte Herabwuerdigungen ueberschreiten den Bereich zulässiger Kritik und erfullen Persoenlichkeitsrechtsverletzung.
+- AGH Muenchen, Beschl. v. 25.03.2015 - BayAGH III-4-14, AnwBl 2015, 560 — § 43a Abs. 3 BRAO: Verwendung von Affektsprache in Schriftsatz fuehrt zu berufsrechtlicher Ruege.
+- OLG Frankfurt, Urt. v. 19.08.2010 - 6 U 70/10, NJW-RR 2011, 105 — Sarkasmus in anwaltlichen Schreiben an Gericht als Verstoss gegen die Wuerde des Verfahrens gewertet.
+
+## Zentrale Normen
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot: Verbot bewusst unwahrer Tatsachenbehauptungen und herabsetzender Aeusserungen
+- § 185 StGB — Beleidigung (Typ B und D bei schwerer Herabsetzung)
+- Art. 5 GG — Meinungsfreiheit: Schutz sachlicher Kritik, nicht von Schmahkritik
+- § 824 BGB — Kreditgefaehrdung durch unwahre Tatsachenbehauptungen
+
+## Kommentarliteratur
+- Gaier/Wolf/Goebel, BRAO § 43a Abs. 3 Rn. 40-80 (Katalog unzulaessiger Aeusserungsformen)
+- Schoenke/Schroeder/Lenckner StGB § 185 Rn. 1-50 (Beleidigung: Grenze zu zulaessiger Kritik)
 
 ## Zweck und Anwendung
 

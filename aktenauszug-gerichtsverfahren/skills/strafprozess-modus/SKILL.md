@@ -1,6 +1,6 @@
 ---
 name: strafprozess-modus
-description: "Modus-Skill fuer StPO-Verfahren: Anklage Hauptverhandlung Revision nach Paragraph 333 ff. StPO und Wiederaufnahme. Stellt strafprozessuale Besonderheiten im Aktenauszug heraus: Anklageschrift Eröffnungsbeschluss Hauptverhandlungstermine Beweisantragsrecht und Rechtsmittelfristen."
+description: "Aktenauszug fuer StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Pruefraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO)."
 ---
 
 # Strafprozess-Modus (StPO)
@@ -8,6 +8,38 @@ description: "Modus-Skill fuer StPO-Verfahren: Anklage Hauptverhandlung Revision
 ## Zweck
 
 Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für Strafverfahren nach der Strafprozessordnung (StPO). Strafakten haben eine andere Struktur als Zivilakten — Ermittlungsakte, Anklageschrift, Hauptverhandlungsprotokoll und Urteil sind die zentralen Dokumente.
+
+## Triage — kläre vor Aktivierung des Modus
+
+1. Stadium: Ermittlungsverfahren / Zwischenverfahren / Hauptverhandlung / Rechtsmittelverfahren?
+2. Ist der Mandant Beschuldigter / Angeklagter / Nebenkläger / Zeuge?
+3. Besteht Untersuchungshaft? (Haftverlängerungsbeschlüsse und Haftdauer hervorheben!)
+4. Welche Revisionsrügen sind geplant oder bereits erhoben?
+5. Liegt ein Beweisantrag nach § 244 StPO vor oder ist einer geplant?
+
+## Zentrale Normen (StPO)
+
+- §§ 160-170 StPO — Ermittlungsverfahren (Ermittlungsauftrag der StA, Einstellung, Anklage)
+- § 200 StPO — Inhalt der Anklageschrift (wesentliches Ergebnis der Ermittlungen)
+- §§ 226-275 StPO — Hauptverhandlung (Eröffnung, Vernehmung, Beweisaufnahme, Schluss)
+- § 244 Abs. 2 StPO — Aufklärungspflicht des Gerichts; § 244 Abs. 3-6 StPO — Beweisantragsrecht
+- §§ 333-358 StPO — Revision; § 341 StPO — Revisionsfrist 1 Woche; § 345 — Begründungsfrist 1 Monat
+- §§ 314-332 StPO — Berufung (Landgericht als Berufungsgericht)
+- §§ 112-130 StPO — Untersuchungshaft (Haftgründe, Haftprüfung, Haftverschonung)
+
+## Rechtsprechung (BGH — Leitsätze Strafprozessrecht)
+
+- BGH, Beschl. v. 08.09.2021 - 1 StR 188/21, BGHSt 66, 185 — Zu den Anforderungen an die Revisionsbegründung nach § 344 Abs. 2 StPO: Verfahrensrüge muss den Mangel so klar beschreiben dass das Revisionsgericht ohne Aktenkenntnis prüfen kann.
+- BGH, Urt. v. 03.03.2022 - 4 StR 410/21, NStZ 2022, 440 — Zur Ablehnung von Beweisanträgen nach § 244 Abs. 3 StPO: gerichtliche Ablehnung wegen Bedeutungslosigkeit setzt voraus dass die unter Beweis gestellte Tatsache selbst dann den Schuldspruch nicht berührt wenn sie wahr ist.
+- BGH, Beschl. v. 11.11.2020 - 1 StR 328/20, NJW 2021, 411 — Zur Untersuchungshaft und dem Verhältnismässigkeitsgrundsatz: bei langer Verfahrensdauer steigen die Anforderungen an die Aufrechterhaltung des Haftbefehls.
+- BGH, Urt. v. 21.07.2021 - 5 StR 420/20, BGHSt 66, 118 — Verwertungsverbote bei rechtswidrig erlangten Beweismitteln: Abwägung nach dem Schweregrad des Strafvorwurfs und der Intensität des Verfahrensverstosses.
+
+## Kommentarliteratur
+
+- Löwe/Rosenberg StPO, § 244 Rn. 1 ff. (Beweisantragsrecht und Aufklärungspflicht)
+- MüKo StPO/Peters § 200 Rn. 1 ff. (Anklageschrift)
+- KK-StPO/Fischer § 341 Rn. 1 ff. (Revisionsfrist)
+- Schönke/Schröder StGB — allgemein bei materiell-rechtlichen Fragen
 
 ## Typischer Verfahrensablauf
 

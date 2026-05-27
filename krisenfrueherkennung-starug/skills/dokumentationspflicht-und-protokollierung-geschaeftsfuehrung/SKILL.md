@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflicht-und-protokollierung-geschaeftsfuehrung
-description: "Dokumentationspflicht und Krisenprotokollierung der Geschäftsführung: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für Haftungsprozesse, § 43 GmbHG und § 93 Abs. 2 S. 2 AktG."
+description: "Krisenprotokollierung der Geschaeftsfuehrung fuer Haftungsschutz: GmbH-Geschaeftsfuehrer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr), Business Judgment Rule. Pruefraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung fuer spaetere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse
@@ -17,7 +17,7 @@ In der Krise entscheidet oft nicht das Handeln über die Haftung, sondern der Be
 - § 15a InsO (Insolvenzantragspflicht — Nachweis der Kenntnis und des Handelns)
 - § 15b InsO (Zahlungsverbot — Nachweis erlaubter Zahlungen)
 - § 102 StaRUG (Dokumentation der Warnung)
-- BGH II ZR 88/13 (Dokumentation als Enthaftungselement)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Dokumentation als Enthaftungselement)
 - IDW PS 340 n.F. (Systemdokumentation als Anforderung)
 
 ---
@@ -255,3 +255,11 @@ Erstellt von: ___________________ Datum: ___________
 - → `paragraph-102-starug-warnpflicht-bei-rechtsberatern` — Dokumentation der Warnung
 - → `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist` — Protokoll des Erkenntniszeitpunkts
 - → `fruehwarnsystem-architektur-zwei-jahres-horizont` — Systemdokumentation IDW PS 340 n.F.
+
+
+## Weitere Leitentscheidungen
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 InsO und Handlungspflichten: positive Prognose heilt Ueberschuldung; negative Prognose loest Antragspflicht aus; Dokumentation ist Haftungsschutz.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — § 43 GmbHG / § 15b InsO: Geschaeftsfuehrer haftet persoenlich; ordnungsgemaesse Krisenfrueherkennung und Dokumentation als Entlastungsbeweis.
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Antragspflicht § 15a InsO: Fristbeginn mit Kenntnis; spaeteres Handeln erhoht Haftungsrisiko erheblich.
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungs-Konzept-Pflicht: echter Sanierungsversuch mit dokumentiertem Konzept schutzt vor Strafbarkeit und Anfechtung.

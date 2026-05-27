@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Insolvenz- und Restrukturierungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Insolvenz- und Restrukturierungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
 ---
 
 # Vergleichsverhandlung und Einigung im Insolvenz- und Restrukturierungsrecht
@@ -155,3 +155,22 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+
+## Aktuelle Leitentscheidungen — Vergleich im Insolvenz-Kontext
+
+- BGH, Urt. v. 06.05.2021 — IX ZR 72/20, NZI 2021, 631 — Sanierungsvergleich schliiesst Vorsatzanfechtung aus wenn ex ante schlueissiges Sanierungskonzept (IDW S 6 Qualitaet) vorliegt und ernsthafter Sanierungsversuch unternommen wurde.
+- BGH, Urt. v. 12.01.2017 — IX ZR 130/16, NZI 2017, 385 — Ratenzahlungsvereinbarung mit Glaeubiger in der Krise = Kenntnis-Indiz fuer § 130 InsO; Vergleich loest kein Bargeschaeft aus (kein zeitgleicher Leistungsaustausch).
+- BGH, Urt. v. 03.03.2022 — IX ZR 254/20, NZI 2022, 444 — Bargeschaeft § 142 InsO bei Ratenzahlung ausgeschlossen; max. 30-Tage-Frist Leistung/Gegenleistung streng; Vergleichszahlung nur Bargeschaeft wenn Gegenwert sofort fliesist.
+- BGH, Urt. v. 14.01.2010 — IX ZR 105/08, NJW 2010, 2277 — Prozessvergleich § 794 Abs. 1 Nr. 1 ZPO als Vollstreckungstitel; Widerrufsvorbehalt: klar befristet; Kostenteilung ArbG nach § 98 ZPO.
+
+## Paragrafenkette Vergleich
+
+§ 779 BGB (Vergleichsdefinition) → § 794 Abs. 1 Nr. 1 ZPO (Prozessvergleich = Titel) → § 796a ZPO (Anwaltsvergleich) → § 142 InsO (Bargeschaeft-Ausnahme) → § 133 InsO (Vorsatzanfechtungs-Risiko Vergleich) → §§ 195 199 BGB (Verjaehrung 3 Jahre)
+
+## Triage — Vergleich ja oder nein?
+
+1. **Insolvenzreife der Gegenseite?** Drohende ZU → Ratenzahlungsvergleich anfechtungsgefaehrdet (§ 130 InsO); sofort Einmalzahlung vereinbaren oder Sicherheit verlangen.
+2. **Vollstreckungsrisiko?** Gegenseite in der Krise → Sofort-Zahlung bevor Insolvenzverfahren eroeffnet wird.
+3. **Steuerliche Behandlung?** Vergleich ueber Lohnforderungen → Lohnsteuer + SV-Abzug bleibt bestehen; Schadensersatz-Vergleich keine USt.
+4. **Mandantenfreigabe?** Schriftliche Freigabe des Mandanten vor Unterzeichnung (Vollmachtsumfang § 83 ZPO).

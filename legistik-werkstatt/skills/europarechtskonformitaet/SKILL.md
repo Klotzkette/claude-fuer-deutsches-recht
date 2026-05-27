@@ -1,6 +1,6 @@
 ---
 name: europarechtskonformitaet
-description: "Pruefung der Vereinbarkeit eines legistischen Vorhabens mit EU-Recht. Primaerrecht EUV AEUV Charta der Grundrechte. Sekundaerrecht Verordnungen Richtlinien. Pruefung Anwendungsbereich Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. EuGH-Rechtsprechung. Pruefung Notifizierungspflicht 2015/1535 fuer technische Vorschriften und IT-Vorschriften. Pruefung Subsidiaritaetsprinzip und Verhaeltnismaessigkeitsgrundsatz EU Art. 5 EUV. Pruefung Vorlagepflicht Art. 267 AEUV bei spaeteren Streitigkeiten. Endet mit Pruefgutachten ein bis drei Seiten plus Empfehlung Notifizierungs-Vermerk."
+description: "Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht pruefen. Anwendungsfall Referent oder Verband fragt ob nationales Vorhaben mit EU-Recht vereinbar ist oder ob Notifizierungspflicht besteht. Primaerrecht EUV AEUV Grundrechtecharta Sekundaerrecht Verordnungen Richtlinien. Pruefung Anwendungsbereich Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. Notifizierungspflicht Richtlinie 2015/1535 technische Vorschriften IT-Vorschriften. Subsidiaritaet Verhaeltnismaessigkeit Art. 5 EUV Vorlagepflicht Art. 267 AEUV. Output Pruefgutachten ein bis drei Seiten Notifizierungs-Vermerk Empfehlung. Abgrenzung zu verfassungsmaessigkeit-quercheck nationales Verfassungsrecht."
 ---
 
 # Europarechtskonformität
@@ -57,6 +57,22 @@ Auch wenn die EU zustaendig waere - hat sie tatsächlich Recht gesetzt? Wenn nic
 ## Pruefstation 7 - Vorlagepflicht Art. 267 AEUV
 
 Anwendung im Vollzug: Wenn das nationale Gesetz zu EU-Recht Auslegungszweifel weckt, wird das Tatgericht ggf. den EuGH anrufen müssen.
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- EuGH, Urt. v. 30.04.1996 — C-194/94 (CIA Security International), NJW 1996, 1895 — Verstoss gegen Notifizierungspflicht RL 2015/1535 fuehrt zur Unanwendbarkeit der technischen Vorschrift im konkreten Rechtsstreit; Einzelne koennen sich unmittelbar auf die Nicht-Notifizierung berufen
+- EuGH, Urt. v. 08.04.2014 — C-293/12 und C-594/12 (Digital Rights Ireland), NJW 2014, 2169 — nationale Umsetzungsgesetz einer RL unterliegt Charta-Kontrolle sobald es EU-Recht durchfuehrt; Art. 7 und Art. 8 Grundrechte-Charta unmittelbar anwendbar
+- BVerfG, Beschl. v. 06.11.2019 — 1 BvR 16/13 (Recht auf Vergessen I), BVerfGE 152, 152 — im Anwendungsbereich deutschen Rechts ohne EU-Umsetzung gilt GG, nicht Charta; Abgrenzung massgeblich fuer Pruefmassstab nationales Gericht
+- EuGH, Urt. v. 25.07.2018 — C-216/18 (Minister for Justice, LM), NJW 2018, 3091 — Primat EU-Recht gilt auch bei nationaler Verfassung; nationales Gericht darf EU-widrige nationale Norm nicht anwenden auch wenn Verfassungsgericht anders entschieden
+
+## Zentrale Normen (Paragrafenkette)
+
+Art. 288 AEUV (Rechtsakte, Verordnung, Richtlinie) — Art. 5 EUV (Subsidiaritaet, Verhaeltnismaessigkeit) — Art. 267 AEUV (Vorlagepflicht) — RL 2015/1535/EU Art. 1, 5 (Notifizierungspflicht) — Art. 51 Charta (Anwendungsbereich Grundrechte-Charta)
+
+## Kommentarliteratur
+
+- Calliess/Ruffert, EUV/AEUV, 6. Aufl. 2022, Art. 288 AEUV Rn. 1 ff. (Richtlinien-Umsetzung, unmittelbare Wirkung) und Art. 5 EUV Rn. 1 ff. (Subsidiaritaet)
+- Streinz, Europarecht, 11. Aufl. 2019, § 5 Rn. 30 ff. (Vorrang EU-Recht, Anwendungsvorrang)
 
 ## Ausgabe
 

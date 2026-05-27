@@ -1,45 +1,62 @@
 ---
 name: verkehrsowi-quality-gate
-description: "Prüft vor Versand oder Termin, ob Fristen, Beweise, Rechtsfolge, Mandantenfreigabe und Anlagen passen."
+description: "Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prueft Kanzlei Vollstaendigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisantraege), BVerfG Rohmessdaten. Pruefraster: Messakte vollstaendig, Rohmessdaten vorhanden, Eichschein geprueft, Fahrverbot-Haertefall-Pruefung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Pruefprotokoll fuer jede Phase. Abgrenzung: Detailpruefungen in Spezialskills; Gesamtsteuerung siehe verkehrsowi-kommandocenter."
 ---
 
-# Qualitätstor
+# Quality Gate — OWi-Mandat
 
-## Zweck
+## Gate 1: Vor Einspruch-Versand
 
-Dieser Skill gehört zum freistehenden Plugin **VerkehrsOWi-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+```
+□ Einspruchsfrist § 67 Abs. 1 OWiG berechnet und noch offen?
+   Zustellungsdatum: [DATUM] + 14 Tage = Fristende: [DATUM]
+□ Vollmacht des Betroffenen liegt vor?
+□ Bussgeldbescheid auf Pflichtinhalt § 66 OWiG geprueft?
+□ OWi oder Strafrecht? (Grenzwert BAK § 316 StGB vs. § 24a StVG)
+□ Einspruch beschraenkt (§ 67 Abs. 2) oder unbeschraenkt?
+□ Mandant hat Anhoerungsbogen NICHT ausgefuellt?
+□ Einspruchsschreiben: Name, Az., Zustellungsdatum, Datum, Unterschrift?
+□ Akteneinsicht inklusive Messakte beantragt?
+□ Einspruch per Fax mit EB versendet, Eingang bestaetigt?
+AMPEL: GRUEN alle Punkte erfuellt / ROT Frist abgelaufen
+```
 
-## Wann verwenden
+## Gate 2: Nach Akteneinsicht — Vor Hauptverhandlung
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+```
+□ Messakte vollstaendig? (Eichschein, Messprotokoll, Schulung, Rohmessdaten)
+□ Toleranzabzug nachgerechnet?
+□ Eichgueltigkeit zum Messzeitpunkt geprueft?
+□ Rohmessdaten vorhanden oder Verweigerung dokumentiert?
+□ Sachverstaendigenantrag formuliert (wenn konkrete Angriffspunkte)?
+□ Fahreridentifikation geprueft (Foto-Qualitaet)?
+□ Verjaehrung geprueft (§ 26 Abs. 3 StVG, § 33 OWiG)?
+□ Zustellungsfehler geprueft?
+□ Haertefall-Argumentation vorbereitet (wenn Fahrverbot)?
+□ Punkte-Flensburg geprueft (neuer Stand nach Eintragung)?
+□ Entbindungsantrag § 73 OWiG gestellt?
+□ Mandant ueber HV-Ablauf informiert?
+AMPEL: GRUEN vollstaendig / GELB offene Punkte / ROT kritische Luecken
+```
 
-## Arbeitsweise
+## Gate 3: Nach Urteil
 
-1. Vor jedem Versand: Frist, Adresse, Aktenzeichen, Vollmacht, Anlagen, Signatur und Versandart prüfen.
-2. Vor jedem Termin: Beweismittel, Fragen, Einlassung, Vergleichsziel und Mandantenrisiko prüfen.
-3. Unklare Rechtslage als Prüfbedarf markieren, nicht kaschieren.
-4. Ausgabe: Freigabeampel mit Stoppern.
-
-## Rückfragen, wenn unklar
-
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-
-## Ausgabeformat
-
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+```
+□ Urteil vollstaendig angehoert?
+□ Rechtsbeschwerde-Option geprueft: Geldbusse > 250 EUR oder Fahrverbot?
+□ Frist: 1 Woche ab Urteilsverkuendung
+□ Zulassungsbeschwerde § 80 OWiG bei Geldbusse <= 250 EUR?
+□ Absolute Revisionsgründe nach § 338 StPO vorhanden?
+□ Tagessatz/Geldbusse korrekt berechnet?
+□ Fahrverbot-Dauer und Wirkungszeitpunkt korrekt?
+□ Vier-Monats-Frist § 25 Abs. 2a StVG beantragt?
+□ Mandant ueber Ergebnis und naechste Schritte informiert?
+AMPEL: GRUEN zufriedenstellend / GELB Rechtsbeschwerde moeglich / ROT Fehler
+```
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Quality Gate ist Pflichtprozess — auch bei einfachen Faellen.
+- ROT-Punkte muessen unverzueglich adressiert werden.
+- Mandant ueber jeden Gate-Status informieren.
+- Anwaltliche Endkontrolle bei jedem Gate zwingend.

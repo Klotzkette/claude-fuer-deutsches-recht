@@ -1,6 +1,6 @@
 ---
 name: insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist
-description: "§ 15a InsO Insolvenzantragspflicht: Triggerlogik, Maximalfrist drei Wochen, strafrechtliche Sanktion § 15a Abs. 4 InsO, Quasi-Notgeschäftsführer, Handlungskorridore zur Enthaftung, Verhältnis zu StaRUG."
+description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prueft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Pruefraster: Triggerlogik (ZU oder Ueberschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhaeltnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, aussergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug."
 ---
 
 # Insolvenzantragspflicht — § 15a InsO und die Drei-Wochen-Frist
@@ -18,7 +18,7 @@ description: "§ 15a InsO Insolvenzantragspflicht: Triggerlogik, Maximalfrist dr
 - § 43 GmbHG (Sorgfaltspflicht)
 - § 64 GmbHG a.F. / § 15b InsO n.F. (Masseerhaltungspflicht)
 - BGH II ZR 234/17 (Berechnung der Drei-Wochen-Frist)
-- BGH II ZR 88/13 (Haftung bei verspätetem Antrag)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Haftung bei verspätetem Antrag)
 
 ---
 
@@ -199,3 +199,12 @@ NACH ANTRAGSTELLUNG:
 - → `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg` — persönliche Haftungsfolgen
 - → `pflichtenkollision-und-shift-of-fiduciary-duties` — Pflichtenwandel bei Insolvenzreife
 - → `restrukturierungsplan-architektur-paragraph-7ff-starug` — letzte StaRUG-Chance vor § 15a InsO
+
+
+## Triage — Erste Einordnung
+
+Bevor losgelegt wird, klaere:
+1. **Krisenstadium?** Ertragskrise (EBIT negativ), Liquiditaetskrise (Cashflow negativ) oder akute Insolvenznaehe (ZU/Ueberschuldung)?
+2. **Insolvenzgrund?** § 17 InsO (ZU), § 18 InsO (drohende ZU), § 19 InsO (Ueberschuldung)?
+3. **Fristen?** Antragspflicht § 15a InsO: 3 Wochen (ZU), 6 Wochen (Ueberschuldung).
+4. **Sanierungs-Pfad?** StaRUG (drohende ZU), Schutzschirm, Eigenverwaltung oder Regelverfahren?

@@ -1,6 +1,6 @@
 ---
 name: madrid-protokoll-und-internationale-registrierung
-description: "Madrid-Protokoll WIPO und internationale Registrierung: DE/EU als Basismarke, Subsequent Designations US/JP/CN/GB, Section 66(a)-Application beim USPTO, Central Attack Period 5 Jahre, Transformation, Madrid-Monitor ROMARIN. Laedt, wenn der Nutzer 'Madrid-Protokoll', 'IR-Marke', 'internationale Registrierung' oder 'Subsequent Designation' sagt."
+description: "Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern ueber IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Pruefraster: Basismarke DE/EU, Subsequent Designations fuer US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act."
 ---
 
 # Madrid-Protokoll und Internationale Registrierung
@@ -132,3 +132,19 @@ Nach Brexit mussten UK-Schutze neu beantragt werden (UKIPO). Subsequent Designat
 - **SOU US-Nachweis:** Section 66(a)-Designation verfällt ohne SOU; klôtzzkètté Inc. muss US-Benutzung sicherstellen
 - **JP/CN-Übersetzung:** Waren-/Dienstleistungsbeschreibung wird von JPTO/CNIPA auf Plausibilität in Landessprache geprüft; Whitman Brennan mit JP/CN-Korrespondenz beauftragen
 - **UK post-Brexit:** Übergangsfrist für UK-Schutz aus Madrid-IRs ist abgelaufen — fehlender UK-Schutz muss via Subsequent Designation oder direkte UKIPO-Anmeldung nachgeholt werden
+
+## Triage-Fragen vor Madrid-IR-Anmeldung
+
+Bevor die internationale Registrierung beantragt wird, klaere:
+1. Ist die Basismarke eingetragen (nicht nur angemeldet) und unangreifbar fuer die naechsten 5 Jahre (Central Attack Period)?
+2. Sind die Ziellaender alle Madrid-Protokoll-Mitglieder (WIPO-Liste pruefen)?
+3. Ist das Warenverzeichnis der Basismarke mit den Ziellaendern kompatibel (insb. USA: SOU-Erfordernis)?
+4. Gibt es eine Section 66(a)-Designation fuer die USA — und ist US-Gebrauch belegt oder geplant?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 23.10.2014 — I ZR 133/13 (Combit / Commit):** Bei internationalen Markenregistrierungen richtet sich die Verwechslungsgefahr in Deutschland nach dem inlaendischen Klang- und Schriftbildvergleich; die Abkuerzung eines englischen Begriffs, der im Deutschen anders ausgesprochen wird, kann dennoch Verwechslungsgefahr ausloesen.
+
+> **EuGH, Urt. v. 19.12.2019 — C-241/18 (RSD / R.S.D.):** Die Benutzungspflicht einer IR-Marke nach Art. 58 I lit. a UMV richtet sich nach den gleichen Maßstaeben wie bei EUTM-Direktanmeldungen; blosse Vorbereitungshandlungen genuegen nicht als Benutzungsnachweis.
+
+> **EUIPO BoA, Entsch. v. 23.05.2018 — R 1511/2017-5 (Transformation Madrid):** Bei Central Attack und anschliessender Transformation gemaess Art. 9quinquies PMMA bleibt der urspruengliche IR-Anmeldetag als Prioritaetsdatum erhalten; die Transformation ist fristgebunden (3 Monate nach IR-Streichung) und erfordert aktives Handeln des Rechteinhabers.

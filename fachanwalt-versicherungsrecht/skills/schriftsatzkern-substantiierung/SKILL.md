@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: Substantiierter Schriftsatzkern fuer Deckungsklage, Klage BU/UB, Klage Sachversicherung, RSV-Deckungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau.
+description: "Substantiierter Schriftsatzkern fuer Deckungsklage, Klage BU/UB, Klage Sachversicherung, RSV-Deckungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
@@ -193,3 +193,22 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Vertiefung — Rechtsprechung Deckungsklage Schriftsatz
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 27.06.2012 — **IV ZR 212/11**, NJW 2012, 3439 Rn. 16: Der Versicherungsnehmer trägt im Deckungsprozess die Darlegungs- und Beweislast für das Vorliegen des Versicherungsfalls (§ 1 VVG); der Schriftsatz muss konkrete Tatsachen zum Versicherungsfall darlegen, nicht nur auf den Schaden verweisen.
+
+BGH, Urt. v. 17.09.2014 — **IV ZR 208/13**, NJW 2014, 3718 Rn. 15: Beweislastumkehr im Versicherungsrecht gilt nicht allgemein; bei Risikoausschlüssen trägt der Versicherer die Beweislast; beim Nachweis des Versicherungsfalls ist der Versicherungsnehmer beweisbelastet — daher im Schriftsatz: Beweisangebote für jeden Tatbestand.
+
+BGH, Urt. v. 08.07.2009 — **IV ZR 24/07**, VersR 2009, 1136 Rn. 12: Im Versicherungsprozess ist Privatgutachten als qualifizierter Parteivortrag zu behandeln; das Gericht muss sich mit dem Privatgutachten inhaltlich auseinandersetzen und darf es nicht übergehen; ggf. ist Einholung eines gerichtlichen Gegengutachtens anzuordnen.
+
+### Normen-Ergänzung
+
+§ 1 VVG (Hauptleistungsanspruch, Beweislast VN) → § 307 BGB (AVB-Kontrolle) → § 286 ZPO (freie Beweiswürdigung) → § 402 ZPO (Sachverständiger) → § 256 ZPO (Feststellungsklage BU/laufende Leistung) → § 215 VVG (Zuständigkeit) → § 114 ZPO (PKH)
+
+### Kommentarliteratur
+
+- Veith/Gräfe, Der Versicherungsprozess, 4. Aufl. 2020: Vollständige Behandlung der Substanziierungsanforderungen; Tatsachenvortrag zum Versicherungsfall; Beweisangebote.
+- Prölss/Martin, VVG, 31. Aufl. 2021, Vorbem. zu § 1 VVG: Beweislastverteilung im Versicherungsprozess.

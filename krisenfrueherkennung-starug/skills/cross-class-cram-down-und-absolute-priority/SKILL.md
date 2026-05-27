@@ -1,6 +1,6 @@
 ---
 name: cross-class-cram-down-und-absolute-priority
-description: "Cross-Class-Cram-Down nach § 26 StaRUG: gerichtliche Planbestätigung gegen ablehnende Gruppen, Absolute-Priority-Rule, Schlechterstellungsverbot § 30 StaRUG, Obstruktionsverbot § 31 StaRUG, Anwendungsvoraussetzungen."
+description: "Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Glaeubiger-Gruppen bestaetigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Pruefraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Glaeubiger-schlechter-gestellt-Test, gerichtliche Planbestaetigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin."
 ---
 
 # Cross-Class-Cram-Down und Absolute Priority — § 26 StaRUG
@@ -182,3 +182,28 @@ ERGEBNIS:
 - → `restrukturierungsbeauftragter-und-sachwalter` — Kontrollfunktion im Cram-Down
 - → `drohende-zahlungsunfaehigkeit-paragraph-18-inso` — Zugangsvoraussetzung
 - → `fortbestehensprognose-zweistufig` — Basis der Vergleichsrechnung
+
+
+## Aktuelle Leitentscheidungen — Cross-Class Cramdown
+
+- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG Cramdown § 26: Plan kann gegen ablehnende Klasse bestaetigt werden wenn: (1) kein Glaeubiger schlechter als ohne Plan, (2) Mehrheit der Klassen zugestimmt, (3) keine Klasse uebervorteilt gegenueber anderen gleichrangigen.
+- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — InsO Cramdown § 245: Best-Interest-Test als Mindeststandard; Glaeubiger darf nicht weniger erhalten als in der Liquidation; IV/Schuldner traegt Beweislast.
+- LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Absolute Priority Rule: abgeleitete Anforderung aus § 26 StaRUG; nachrangige Glaeubiger duerfen keine Vorteile erhalten wenn vorrangige Klasse ablehnt.
+- BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cramdown-Pruefung: Gericht prueft Cramdown-Voraussetzungen selbstaendig; mangelhafte Vergleichsrechnung fuehrt zur Ablehnung.
+
+## Paragrafenkette Cross-Class Cramdown
+
+§ 245 InsO (Obstruktionsverbot InsO) → § 245a InsO (absolute priority) → § 26 StaRUG (Cross-Class Cramdown) → § 27 StaRUG (ablehnende Klasse schlechtergestellt) → § 28 StaRUG (Minderheitenschutz)
+
+## Triage — Cramdown-Strategie
+
+1. **Ablehnende Klasse identifiziert?** Welche Klasse/Gruppe wird ablehnen?
+2. **Best-Interest-Test berechnet?** Liquidationsquote als untere Grenze fuer ablehnende Klasse.
+3. **Mehrheit der Klassen vorhanden?** Mindestens Haelfte aller Klassen muss zugestimmt haben.
+4. **Gleichbehandlung?** Kein Glaeubiger gleichen Rangs darf schlechter gestellt sein als abgelehnende Klasse.
+
+## Kommentarliteratur
+
+- Braun/Herzig, StaRUG §§ 26-28 — Cramdown und Minderheitenschutz.
+- MüKo InsO/Eidenmüller § 245 InsO Rn. 1 ff. — Obstruktionsverbot.
+- Uhlenbruck/Lüer §§ 245-246 InsO Rn. 1 ff. — InsO Cramdown.

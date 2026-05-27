@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-generator
-description: "Verfasst einen praegnanten ein- bis zweiSatz-Kern des Rechtsstreits: Wer streitet mit wem worüber und welche Hauptnorm ist einschlaegig. Juristisch praezise neutrale Sprache ohne Wertung und ohne Erfolgsprognose. Geeignet fuer alle Verfahrensarten nach ZPO StPO VwGO ArbGG und SGG."
+description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Pruefraster Praegnanz Vollstaendigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Ueberblick) und verfahrensidentifikation (Stammdaten)."
 ---
 
 # Einleitungssatz-Generator
@@ -8,6 +8,34 @@ description: "Verfasst einen praegnanten ein- bis zweiSatz-Kern des Rechtsstreit
 ## Zweck
 
 Der Einleitungssatz gibt dem Leser in einem bis zwei Sätzen den Kern des Rechtsstreits wieder. Er nennt die handelnden Parteien, den Streitgegenstand und — wo möglich — die anwendbare Hauptnorm. Er ersetzt nicht die Zusammenfassung, sondern eröffnet sie.
+
+## Triage — kläre vor Formulierung
+
+1. Zivilverfahren, Arbeitsgericht, Strafverfahren, Verwaltungsgericht oder Sozialgericht?
+2. Erstinstanz, Berufung oder Revision?
+3. Was ist die Hauptnorm des Anspruchs oder der Anklage?
+4. Wie lautet der exakte Klagebetrag oder das Klagebegehren?
+
+## Zentrale Normen (Streitgegenstand / Klagebegehren)
+
+- § 253 Abs. 2 Nr. 2 ZPO — Klageschrift: bestimmter Antrag und Sachverhalt als Grundlage des Einleitungssatzes
+- § 264 ZPO — Klageaenderung (im Einleitungssatz ggf. letzten Stand des Antrags aufführen)
+- § 308 ZPO — Bindung des Gerichts an Antrag (ne ultra petita)
+- § 42 VwGO — Anfechtungs- und Verpflichtungsklage
+- § 4 KSchG — Kündigungsschutzklage (Frist und Antrag)
+
+## Rechtsprechung zum Streitgegenstand und Klagebegehren
+
+- BGH, Urt. v. 19.12.2019 - III ZR 233/18, NJW 2020, 537 — Zum zweigliedrigen Streitgegenstandsbegriff: Streitgegenstand wird durch Antrag und Lebenssachverhalt bestimmt; beide Elemente müssen im Einleitungssatz erkennbar sein.
+- BGH, Urt. v. 13.09.2018 - I ZR 26/17, NJW 2019, 210 — Klageziel muss aus dem Klagebegehr eindeutig bestimmbar sein; vage Formulierungen fuhren zur Unzulässigkeit nach § 253 Abs. 2 Nr. 2 ZPO.
+- BAG, Urt. v. 21.09.2017 - 2 AZR 57/17, NZA 2018, 131 — Feststellungsantrag nach § 4 KSchG muss die konkrete Kündigung bezeichnen (Datum und Art der Kündigung).
+- BVerwG, Urt. v. 14.04.2015 - 1 C 11.14, NVwZ 2015, 1141 — Anfechtungsklage nach § 42 VwGO erfordert genaue Bezeichnung des angefochtenen Verwaltungsakts.
+
+## Kommentarliteratur
+
+- Zöller/Greger ZPO, § 253 Rn. 1 ff. (Klagebegehren und Antrag)
+- Thomas/Putzo ZPO, § 264 Rn. 1 ff. (Klageaenderung)
+- MüKo ZPO/Becker-Eberhard, § 308 Rn. 1 ff. (Bindung an Antrag)
 
 ## Struktur des Einleitungssatzes
 
@@ -60,8 +88,9 @@ Ergänzend kann ein zweiter Satz den prozessualen Stand knapp abbilden:
 ## Qualitätscheck
 
 Nach Erstellung prüfen:
-- [ ] Wer streitet mit wem? ✓ / ✗
-- [ ] Worüber wird gestritten? ✓ / ✗
-- [ ] Hauptnorm genannt? ✓ / ✗
-- [ ] Keine Wertung? ✓ / ✗
-- [ ] Maximal zwei Sätze? ✓ / ✗
+- [ ] Wer streitet mit wem? ja/nein
+- [ ] Worüber wird gestritten? ja/nein
+- [ ] Hauptnorm genannt? ja/nein
+- [ ] Keine Wertung? ja/nein
+- [ ] Maximal zwei Sätze? ja/nein
+- [ ] Streitgegenstand i.S.v. § 253 Abs. 2 Nr. 2 ZPO hinreichend bestimmt? ja/nein

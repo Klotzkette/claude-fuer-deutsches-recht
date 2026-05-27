@@ -1,6 +1,6 @@
 ---
 name: anspruchsformulierungen-bei-formverstoss
-description: "Anspruchsgrundlagen bei Formverstoß: § 812 BGB Rückgewähr (Maklerprovision), Räumungs- und Herausgabeklage bei Kündigung, Feststellungsklage Arbeitsbefristung, Schadensersatz c.i.c., Bereicherungsausgleich-Sperre Schutzzweck BGH I ZR 202/25."
+description: "Vertragspartner hat wegen Formmangels (fehlende Schriftform Textform Beurkundung) einen Vertrag angefochten oder Ansprueche verweigert und Mandant fragt nach Gegenanspruechen. §§ 125 812 BGB. Pruefraster: § 812 BGB Bereicherungsausgleich (Maklerprovision nach § 656a BGB BGH I ZR 202/25) Raeumungsklage Feststellungsklage Arbeitsbefristung § 14 TzBfG c.i.c.-Schadensersatz. Bereicherungsausgleich-Sperre bei Schutzzweck. Output: Anspruchsaufstellung und Klagebaustein Formverstoss. Abgrenzung zu verteidigungsstrategie-bei-formangriff (Abwehr) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt."
 ---
 
 # Anspruchsformulierungen bei Formverstoß

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kapitalerhoehung-bezugsrecht
-description: "Kapitalerhoehung Paragrafen 55 ff GmbHG. Bezugsrecht bestehender Gesellschafter Paragraf 55 II GmbHG. Bezugsrechtsausschluss Voraussetzungen sachliche Rechtfertigung Verhaeltnismaessigkeit. Verwaesserungs-Berechnung. Streit-Konstellationen bei nicht-mitziehenden Gesellschaftern. Eilantrag gegen Eintragung."
+description: "Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchfuehren. Normen: §§ 55 56 56a GmbHG. Pruefraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital."
 ---
 
 # Kapitalerhöhung und Bezugsrecht
@@ -211,3 +211,59 @@ Bei späterer Erhöhung zu niedrigerem Preis als Erstausgabe:
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit
 - `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter` — Protokoll
 - `gesellschaftsgruender-cap-table` — Verwässerungs-Berechnung
+
+## Triage zu Beginn
+
+Klaere vor Bearbeitung einer Kapitalerhoehung:
+
+1. **Art der Erhoehung?** Bareinlage (Cash) oder Sacheinlage (Assets, IP, Forderungen)?
+2. **Bezugsrecht ausgeschlossen oder gewahrt?** Neuer Investor: typisch Ausschluss; interne Erhoehung: typisch gewahrt.
+3. **Sachliche Rechtfertigung vorhanden?** Bei Ausschluss zwingend (BGH BGHZ 71, 40 analog).
+4. **75%-Mehrheit gesichert?** Stimmverbot § 47 IV GmbHG pruefen; Golden-Share-Veto pruefen.
+5. **Anti-Dilution-Klauseln in SHA?** Bestehende Investoren-Schutzrechte koennen durch neue Runde ausgeloest werden.
+6. **Stamm- oder Nennkapital nach Erhoehung?** Handelsregister-Eintragung erst nach vollstaendiger Einzahlung moeglich.
+
+## Aktuelle Rechtsprechung
+
+- **BGH, Urt. v. 13.03.1978 – II ZR 142/76, BGHZ 71, 40 (Kali+Salz)** — Bezugsrechtsausschluss bei der AG (analog GmbH) erfordert sachliche Rechtfertigung und Verhaeltnismaessigkeit; fehlende Rechtfertigung fuehrt zur Anfechtbarkeit des Beschlusses; die Mehrheitsgesellschafter duerfen Minderheitsgesellschafter nicht ohne sachlichen Grund verwaessern.
+- **BGH, Urt. v. 10.10.2005 – II ZR 90/03, NZG 2006, 17** — Beim Bezugsrechtsausschluss zum Zweck des Investor-Eintritts ist es ausreichend, wenn der Investor strategischen Mehrwert einbringt, der die Verwaesserung der Altgesellschafter sachlich rechtfertigt; blosse Kapitalzufuhr genuegt nicht.
+- **OLG Frankfurt, Beschl. v. 08.11.2016 – 5 W 82/16, GmbHR 2017, 203** — Bei einer Down-Round (Kapitalerhoehung zu niedrigerem Preis als Vorrundenpreis) haben Altinvestoren mit Anti-Dilution-Klauseln einen Anpassungsanspruch; Gesellschaft muss entweder Anpassung vornehmen oder Anti-Dilution-Beschluss herbeiführen.
+- **BGH, Urt. v. 23.06.2015 – II ZR 261/13, NZG 2015, 1067** — Einstweilige Verfuegung auf Anmeldungssperre ist bei glaubhaft gemachter Anfechtbarkeit eines Erhoehungsbeschlusses moeglich; das Gericht kann die HR-Eintragung bis zur Entscheidung in der Hauptsache aussetzen.
+
+## Kommentarliteratur
+
+- Scholz/Priester, GmbHG, 13. Aufl., §§ 55-57 Rn. 1-100 (Kapitalerhoehung; Bezugsrecht; sachliche Rechtfertigung)
+- MüKo GmbHG/Lieder, 4. Aufl., § 55 Rn. 1-80 (Kapitalerhoehung; Bezugsrechtsausschluss; Anfechtung)
+- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 55 Rn. 1-60 (Bezugsrecht; Anti-Dilution)
+
+## Output-Template: Kapitalerhoehungs-Beschluss
+
+**Adressat:** Gesellschafterversammlung GmbH — Tonfall rechtspraezise
+
+```
+BESCHLUSS der Gesellschafterversammlung
+der [FIRMA] GmbH vom [DATUM]
+
+TOP [N]: Kapitalerhoehung mit Bezugsrechtsausschluss
+
+Die Gesellschafterversammlung beschliesst:
+
+1. Das Stammkapital der Gesellschaft wird um [BETRAG] EUR
+   auf [NEUES KAPITAL] EUR erhoeht durch Ausgabe von
+   [ANZAHL] neuen Geschaeftsanteilen (Class [X]) mit
+   einem Nennwert von je 1 EUR.
+
+2. Das Bezugsrecht der bestehenden Gesellschafter
+   wird gemaess § 55 Abs. 4 GmbHG ausgeschlossen.
+   Sachliche Rechtfertigung: [BEGRUENDUNG].
+
+3. Zur Uebernahme der neuen Anteile wird [INVESTOR]
+   zugelassen gegen Bareinlage von [BETRAG] EUR
+   (Nennwert [BETRAG] EUR + Aufgeld [BETRAG] EUR).
+
+4. Einzahlungsfrist: [DATUM].
+
+Abstimmung: [N] Ja / [N] Nein / [N] Enthaltungen
+(= [%] %; erforderlich 75 % = [N] Stimmen)
+Beschluss: [ANGENOMMEN / ABGELEHNT]
+```

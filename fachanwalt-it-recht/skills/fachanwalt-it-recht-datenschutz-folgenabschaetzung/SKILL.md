@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-datenschutz-folgenabschaetzung
-description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchfuehren. Pflicht bei voraussichtlich hohem Risiko fuer Rechte und Freiheiten natuerlicher Personen insbesondere bei neuen Technologien systematischer Profilbildung umfangreicher Verarbeitung besonderer Kategorien Art. 9 DSGVO oder oeffentlichen Bereichen. Schwarze Liste der Aufsichtsbehoerden DSK beachten. Konsultation der Aufsichtsbehoerde Art. 36 DSGVO bei Restrisiko. Dokumentationspflicht Art. 30 DSGVO."
+description: "Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko fuer Betroffene soll eingefuehrt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Pruefraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung."
 ---
 
 # Datenschutz-Folgenabschätzung
@@ -76,3 +76,38 @@ Mit freundlichen Gruessen
 - Bei Konsultationspflicht: Versand an Aufsicht und Eintrag der Achtwochen-Frist.
 - DSFA in Datenschutzakte ablegen und an DSB übergeben.
 - Bei Verstoß-Erkennung Meldung Art. 33 DSGVO innerhalb 72 Stunden prüfen.
+
+## Aktuelle Rechtsprechung (v14.2)
+
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 55: DSFA-Pflicht nach Art. 35 DSGVO und Risikobewertung sind eigenständige Pflichten; fehlende DSFA begründet Verstoß nach Art. 83 Abs. 4 DSGVO unabhängig vom Schadenseintritt.
+- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht bei KI-gestützten Entscheidungssystemen; neue Technologien nach Art. 35 Abs. 1 DSGVO iVm EDSA-Kriterien lösen regelmäßig DSFA-Pflicht aus — auch wenn kein Hochrisiko-KI-System nach KI-VO vorliegt.
+- EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
+- EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Verstoß gegen Art. 35 DSGVO (fehlende DSFA) begründet keinen automatischen Schadensersatz, ist aber eigenständiger Bußgeldtatbestand Art. 83 Abs. 4 DSGVO.
+
+## Triage zu Beginn
+
+1. Welche EDSA-Kriterien sind erfüllt? (Mindestens 2 für DSFA-Pflicht)
+2. Steht die Verarbeitung auf der BfDI- oder DSK-Blacklist?
+3. Liegt ein KI-System vor? (FRIA nach Art. 27 KI-VO parallel zur DSGVO-DSFA)
+4. Ergebnis: DSFA PFLICHT / DSFA EMPFOHLEN / KEINE DSFA?
+
+## Output-Template — DSFA-Kurzprotokoll
+
+**Adressat:** DSB / Aufsichtsbehörde — Tonfall: sachlich-juristisch
+
+```
+DSFA-Kurzprotokoll [DATUM]
+Verarbeitungsvorgang: [BEZEICHNUNG]
+Verantwortlicher: [NAME]
+DSFA-Pflicht: JA (EDSA-Kriterien: [LISTE]) / NEIN
+
+Risikobewertung (Vor Maßnahmen):
+- Wahrscheinlichkeit: hoch / mittel / gering
+- Schwere: hoch / mittel / gering
+
+Maßnahmen: [LISTE]
+
+Restrisiko: AKZEPTABEL / VORAB-KONSULTATION Art. 36 DSGVO erforderlich
+
+Genehmigt von: [FUNKTION, NAME]
+```

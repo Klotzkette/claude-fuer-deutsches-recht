@@ -75,3 +75,18 @@ Erzeuge ein Schreiben mit:
 ## Hinweis zur Mietpreisbremse
 
 In Gebieten mit Mietpreisbremse darf eine Erhöhung bei bestehendem Mietverhältnis grundsaetzlich erfolgen — die Mietpreisbremse begrenzt nur die Neuvermietung. Aber: bei Neuvermietung ist eine Miete über ortsübliche Vergleichsmiete plus zehn Prozent unzulässig (§ 556d BGB). Bei Folgeerhöhungen im laufenden Verhältnis gilt nur die Kappungsgrenze.
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 18.05.2022 — VIII ZR 214/21, NJW 2022, 2669 Rn. 22: Das Mieterhoehungsverlangen muss das Begruendungsmittel eindeutig benennen und klar beziffern; Verweis auf allgemeine Mietspiegel ohne konkreten Tabellenplatz genuegt nicht.
+- BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 Rn. 28: Qualifizierter Mietspiegel als Begruendungsmittel muss korrekt angewandt werden; fehlerhafte Einordnung der Wohnlage ist substantiierungspflichtig ruegbar.
+- BGH, Urt. v. 22.06.2022 — VIII ZR 374/20, NJW 2022, 2829 Rn. 18: Die Kappungsgrenze (§ 558 Abs. 3 BGB) gilt absolut; Erhoehungen darueber sind anteilig unwirksam; Teilzustimmung mooeglich.
+
+## Paragrafenkette
+
+§§ 558, 558a, 558b BGB — Begruendungsmittel, Wartefrist, Kappungsgrenze
+
+## Kommentarliteratur
+
+- Schmidt-Futterer, Mietrecht, 15. Aufl. — § 558a BGB Rn. 1 ff.
+- BeckOK Mietrecht — § 558a BGB Begruendungsanforderungen

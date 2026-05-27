@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-aussergewoehnliche-umstaende-pruefen
-description: Prueft die Einrede aussergewoehnliche Umstaende nach Art. 5 Abs. 3 VO 261/2004. Differenziert zwischen Wetter Vulkanasche Vogelschlag Streik Flugsicherung Streik der eigenen Mitarbeiter wilder Streik technischem Defekt politischer Instabilitaet Sicherheitsrisiko medizinischem Notfall. EuGH-Rechtsprechung Wallentin-Hermann Pesokova Kruesemann Airhelp SAS Moens. Pflichtkriterium auch zumutbare Massnahmen zur Vermeidung. Erzeugt Subsumtion mit Pinpoint und Gegenargumenten.
+description: "Prueft die Einrede aussergewoehnliche Umstaende nach Art. 5 Abs. 3 VO 261/2004. Differenziert zwischen Wetter Vulkanasche Vogelschlag Streik Flugsicherung Streik der eigenen Mitarbeiter wilder Streik technischem Defekt politischer Instabilitaet Sicherheitsrisiko medizinischem Notfall. EuGH-Rechtsprechung Wallentin-Hermann Pesokova Kruesemann Airhelp SAS Moens. Pflichtkriterium auch zumutbare Massnahmen zur Vermeidung. Erzeugt Subsumtion mit Pinpoint und Gegenargumenten."
 ---
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)

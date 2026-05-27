@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-filesharing-verteidigung
-description: "Filesharing-Abmahnung Verteidigung. Anschluss-Inhaber-Haftung BGH I ZR 154/15 sekundaere Darlegungs-Last. Modifizierte Unterlassungserklaerung Strategie. Streitwert begrenzt § 97a III UrhG 1.000 EUR Gegenstandswert. Workflow Sofort-Massnahmen Verteidigung Klage."
+description: "Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Pruefraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklaerung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht fuer allgemeine Urheberrechtsverletzungen."
 ---
 
 # Filesharing-Abmahnung Verteidigung
@@ -115,3 +115,19 @@ Verteidigung Verbraucher bei Filesharing-Abmahnung.
 - `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` — bei verbundener Frage
 - `urheber-abmahnung-pruefen` (Power-Tool) — Prüfraster
 - `fachanwalt-urheber-medienrecht-orientierung` — Triage
+
+## Triage-Fragen bei Filesharing-Verteidigungs-Mandat
+
+Bevor die Verteidigungsstrategie festgelegt wird, klaere:
+1. Wurden alle Personen im Haushalt als moegliche Taeter identifiziert und befraegt (sekundaere Darlegungslast)?
+2. Ist der Router-Zugang zum fraglichen Zeitpunkt gesichert (Passwort-Protokoll, WLAN-Verschluesselung)?
+3. Wurde eine Unterlassungserklaerung bereits abgegeben — wenn ja, unter welchen Bedingungen?
+4. Ist die Kostendeckelung EUR 1.000 (§ 97a III UrhG) einschlaegig oder handelt es sich um gewerbliche Verletzung?
+
+## Aktuelle Rechtsprechung
+
+> **BGH, Urt. v. 11.06.2015 — I ZR 75/14 (Tauschboerse III):** Der Inhaber eines Internetanschlusses kann die Vermutung seiner Taetertschaft widerlegen, indem er konkret vortraegt, welche anderen Familienangehoerigen den Anschluss zu der fraglichen Zeit genutzt haben und dass diese als Taeter in Betracht kommen; die blosse Moeglichkeit fremden Zugangs genuegt nicht.
+
+> **BGH, Urt. v. 12.05.2016 — I ZR 86/15 (Tauschboerse VII):** Die Anschlussinhabers-Haftung setzt verschuldetes Handeln voraus; ein Familienmitglied, das ohne Wissen des Anschlussinhabers Tauschboersen-Software installiert hat, begruendet keine Mitstoerurhaftung des Anschlussinhabers, sofern kein Aufsichtspflicht-Verstoß vorliegt.
+
+> **EuGH, Urt. v. 18.10.2018 — C-149/17 (Bastei Lubbe / Herrmann):** Das Unionsrecht verlangt, dass nationale Gerichte auch bei widerspruechlichen Aussagen der Haushaltsmitglieder eine effektive Durchsetzung des Urheberrechts ermoeglichen; ein nationales Recht, das Berechtigten jede Moeglichkeit der Rechtsdurchsetzung nimmt, vertoesst gegen Art. 8 Durchsetzungsrichtlinie 2004/48.

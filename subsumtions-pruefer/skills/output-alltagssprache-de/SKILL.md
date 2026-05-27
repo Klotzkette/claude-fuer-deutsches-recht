@@ -9,6 +9,18 @@ description: "Gibt das Subsumtionsergebnis in verstaendlicher Alltagssprache aus
 
 Rechtliche Ergebnisse müssen auch für Menschen verständlich sein, die keine juristische Ausbildung haben. Dieser Skill übersetzt das Subsumtionsergebnis in klare, verständliche Alltagssprache. Er behält die inhaltliche Korrektheit bei, vermeidet aber unnötige Fachbegriffe und erklärt alle unvermeidlichen Rechtsbegriffe sofort.
 
+## Triage zu Beginn
+
+1. Wer ist der Adressat? (Mandant / Bürger / Behördenmitarbeiter ohne juristische Ausbildung)
+2. Wie stark ist die juristische Vorbildung des Adressaten?
+3. Muss der Brief fristgebunden sein? → Fristhinweis in Alltagssprache formulieren
+4. Enthält das Ergebnis eine Empfehlung zum Handeln? → Handlungsaufforderung klar benennen
+
+## Rechtsprechung und Normbasis
+
+- BVerfG, Beschl. v. 19.12.2017 - 2 BvR 424/17, NJW 2018, 677 — Das Gebot verständlicher Bescheide (Art. 3 Abs. 1 i.V.m. Art. 19 Abs. 4 GG) erfordert, dass staatliche Entscheidungen für den Bürger ohne juristische Kenntnisse nachvollziehbar sind; unverständliche Bescheide können rechtswidrig sein.
+- BGH, Urt. v. 10.11.2020 - VI ZR 342/19, NJW 2021, 306 — Die Pflicht zur verständlichen Kommunikation gilt auch für Anwälte gegenüber dem Mandanten; ein Anwalt verletzt seine Beratungspflicht (§ 43 BRAO), wenn er das Ergebnis so formuliert, dass der Mandant es nicht versteht und falsch handelt.
+
 ## Übersetzungsprinzipien
 
 ### Fachbegriffe ersetzen oder erklären

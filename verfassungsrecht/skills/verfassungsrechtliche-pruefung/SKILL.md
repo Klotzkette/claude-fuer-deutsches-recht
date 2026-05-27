@@ -1,6 +1,6 @@
 ---
 name: verfassungsrechtliche-pruefung
-description: "Master-Workflow fuer die Pruefung einer Norm oder einer Massnahme der oeffentlichen Gewalt am Grundgesetz. Gesamtschema formelle und materielle Verfassungsmaessigkeit. Ruft die Spezialskills auf: Gesetzgebungskompetenz formelle Verfassungsmaessigkeit Grundrechtspruefung Verhaeltnismaessigkeit. Vor jeder Aussage zwingend bverfg-rechtsprechung-recherchieren konsultieren. Disclaimer mehrfach."
+description: "Verfassungsrechtliche Pruefung einer Massnahme oder Norm umfassend durchfuehren. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Pruefraster: formelle Verfassungsmaessigkeit Grundrechtspruefung Staatsstrukturprinzipien Verhaeltnismaessigkeit EU-Recht. Output: umfassendes Verfassungspruefmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtspruefung oder formelle-verfassungsmaessigkeit."
 ---
 
 # Verfassungsrechtliche Prüfung — Master-Workflow

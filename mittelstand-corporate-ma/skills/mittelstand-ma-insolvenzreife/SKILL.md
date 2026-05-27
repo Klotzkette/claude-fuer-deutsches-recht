@@ -1,49 +1,232 @@
 ---
 name: mittelstand-ma-insolvenzreife
-description: "Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: prüft Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit, Überschuldung, Antragspflichten und Deal-Auswirkungen intern."
+description: "Unternehmen in M&A-Situation oder Krise und Anwalt prueft ob Insolvenzantragspflicht besteht: Zahlungsunfaehigkeit drohende Zahlungsunfaehigkeit Ueberschuldung StaRUG-Schwelle. Normen §§ 17-19 InsO § 15a InsO §§ 1-4 StaRUG. Pruefraster Zahlungsunfaehigkeitstest Ueberschuldungspruefung Fortbestehensprognose Antragspflicht-Timing. Output Insolvenzreife-Ampel Antragspflicht-Gutachten Handlungsempfehlung. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditaetsvorschau (Cash-Modell)."
 ---
 
-# Freistehender Insolvenzreife- und StaRUG-Schwellencheck
+# Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
 
-## Zweck
+## Kernsachverhalt
 
-Dieser Skill prüft in Corporate/M&A-Mandaten, ob Liquiditäts-, Fortbestehens-, Antragspflicht- oder StaRUG-Themen den Deal steuern. Er ersetzt keine finale insolvenzrechtliche Stellungnahme, zwingt aber die kritischen Fragen in eine belastbare Dokumentation.
+Im Mittelstand ist die Insolvenzreife-Prüfung besonders heikel, weil der Gesellschafter-Geschäftsführer häufig selbst der einzige Entscheidungsträger ist und keine unabhängige Kontrolle stattfindet. Die Antragspflicht (§ 15a InsO) trifft ihn persönlich und ist strafrechtlich bewehrt (§ 15a Abs. 4 InsO). Gleichzeitig liegen die Warnsignale — BWA mit Verlusten, überzogener Kontokorrentkredit, Steuerrückstände, Lieferantensperren — oft offen auf dem Tisch, werden aber als vorübergehend bagatellisiert. In M&A-Prozessen gefährdet die Insolvenzreife des Zielunternehmens nicht nur das Closing, sondern führt auch dazu, dass der Käufer Schadensersatz verlangen kann oder vom Vertrag zurücktreten darf. Für den Berater ist die Dokumentation des Zeitpunkts der Kenntniserlangung von entscheidender Bedeutung.
 
-## Prüfungsbereiche
+## Kaltstart-Rückfragen
 
-- Zahlungsunfähigkeit nach § 17 InsO anhand Liquiditätsstatus und 3-Wochen-Vorschau.
-- Drohende Zahlungsunfähigkeit nach § 18 InsO als Frühwarn- und StaRUG-Thema.
-- Überschuldung nach § 19 InsO mit Fortbestehensprognose und Überschuldungsstatus.
-- Antragspflichten und Organhaftung nach § 15a InsO.
-- StaRUG-Frühwarnung und Restrukturierungsoptionen.
-- Deal-Auswirkungen: MAC, Ordinary Course, Covenants, Finanzierung, Closing Conditions, W&I-Ausschlüsse.
+1. Welches ist der konkrete Anlass — DD-Krisencheck, GF-Beratung, StaRUG-Frühwarnung, laufender M&A-Prozess mit Liquiditätszweifel?
+2. Liegen vor: Bankkontoauszüge (aktuell), OPOS Kreditoren, BWA mit SuSa, letzter Jahresabschluss, Steuerrückstandsauskunft?
+3. Besteht ein überzogener Kontokorrentkredit? Hat die Hausbank Bedenken geäußert oder Kreditkündigungen angedroht?
+4. Sind Steuerrückstände (Finanzamt, Krankenkassen) vorhanden? Gibt es Vollstreckungsankündigungen oder -beschlüsse?
+5. Existieren Lieferantensperren oder Vorkasseforderungen als Krisenindikator?
+6. Hat der Steuerberater auf Fortführungszweifel hingewiesen (§ 321a HGB analog, Going-Concern)?
+7. Welche M&A-Auswirkungen sind zu prüfen — MAC-Trigger, Closing Condition, Kaufpreisminderung?
+8. Kennt der GF seine persönliche Haftungsexposition aus § 15b InsO?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
-## Arbeitsmodus
+## Rechtsgrundlagen
 
-1. Erst Datenqualität prüfen: Bankstände, OPOS, Forecast, Bilanz, stille Lasten, Finanzierungslinien, Patronate, Rangrücktritte.
-2. Liquiditätsstatus und Vorschau aus `mittelstand-ma-liquiditaetsvorschau` übernehmen oder neu aufbauen.
-3. Fortbestehensannahmen getrennt nach operativ, finanziell, rechtlich und transaktionsbezogen dokumentieren.
-4. Antragspflicht- und Geschäftsleiterfristen als rote Schwellen in den CP-Kalender eintragen.
-5. Unsicherheit nicht glätten: Wenn Daten fehlen, `nicht beurteilbar` ausgeben und konkrete Nachforderung formulieren.
+### Normtexte
 
-## Ausgabe
+| Norm | Regelungsinhalt (Auszug) |
+|---|---|
+| § 17 InsO | Zahlungsunfähigkeit: > 10 % Deckungslücke über 3 Wochen; maßgeblich für Antragspflicht |
+| § 18 InsO | Drohende Zahlungsunfähigkeit: Prognosezeitraum 24 Monate; StaRUG-Öffner |
+| § 19 InsO | Überschuldung: Passiva > Aktiva (Überschuldungsstatus); positiver Prognose als Korrektiv |
+| § 15a InsO | Antragspflicht: GmbH-GF, Vorstand, Liquidator; 3 Wochen (ZU), 6 Wochen (ÜS) |
+| § 15a Abs. 4 InsO | Strafbarkeit der Insolvenzverschleppung: bis zu 3 Jahre Freiheitsstrafe oder Geldstrafe |
+| § 15b InsO | Zahlungsverbote nach Insolvenzreife; GF haftet persönlich für masseschmälernde Zahlungen |
+| § 43 GmbHG | Sorgfaltspflicht des GF: Pflicht zur Liquiditätsüberwachung und frühzeitigen Krisenreaktion |
+| § 64 S. 1 GmbHG a.F. | (heute § 15b InsO): GF-Haftung für Zahlungen nach Insolvenzreife; durch Gesetzesreform 2021 in § 15b InsO überführt |
+| §§ 1–93 StaRUG | Vorinsolvenzlicher Restrukturierungsrahmen: Zugang nur bei § 18 InsO, nicht bei § 17 oder § 19 InsO ohne Prognose |
 
-- Insolvenzreife-Matrix mit Status je Prüfung.
-- StaRUG-Frühwarnmatrix.
-- Fragenliste an Geschäftsleitung, CFO, Steuerberater, Finanzierungspartner und Insolvenzrechtsteam.
-- Deal Impact Memo für SPA, Signing/Closing, W&I und Board Paper.
-- Senior-Review-Gate mit Datum, Owner und offener Belegkette.
+### Leitentscheidungen
 
-## Rote Schwellen
+| Gericht | Az. | Datum | Leitsatz (kurz) |
+|---|---|---|---|
+| BGH | II ZR 277/16 | 19.06.2018 | Zahlungsunfähigkeit ab 10 % Deckungslücke über 3 Wochen; GF muss Liquidität laufend überwachen; Unwissenheit schützt nicht |
+| BGH | II ZR 252/13 | 14.10.2014 | § 15b InsO-Vorgänger: GF haftet für jede Zahlung nach Insolvenzreife; auch Löhne und Lieferantenzahlungen |
+| BGH | II ZR 167/14 | 26.04.2016 | Rangrücktritt: muss schriftlich, ausdrücklich und mit klarem Bezug auf alle betroffenen Verbindlichkeiten vereinbart sein |
+| OLG Düsseldorf | 6 U 68/19 | 10.12.2020 | Steuerberater-Haftung Mittelstand: Steuerberater muss Mandant auf Insolvenzreife-Warnsignale aus BWA hinweisen |
+| BGH | IX ZR 61/12 | 19.12.2013 | Fortbestehensprognose: überwiegende Wahrscheinlichkeit; Finanzierungszusagen müssen konkret und belastbar sein |
+| BGH | IX ZR 14/21 | 28.04.2022 | § 15b InsO: Haftungsausnahme bei Zahlung mit Zustimmung der Gläubigergesamtheit; sehr eng ausgelegt |
 
-- Geschäftsleitung will trotz roter Liquiditätsampel signen oder closen.
-- Fortbestehensprognose wird nur behauptet, aber nicht finanziell belegt.
-- Zahlungsstockungen werden als „Timing“ etikettiert, ohne OPOS- und Bankabgleich.
-- Rangrücktritt, Patronat oder Stundung sind rechtlich nicht dokumentiert.
+## Prüfschema (Mittelstand)
 
-## Vorlagen
 
-- assets/templates/insolvenzreife-transaktionscheck.md
-- assets/templates/starug-fruehwarnmatrix.md
-- assets/templates/insolvenzplan-klassenmatrix.md
-- assets/templates/liquiditaetsvorschau-3-wochen.md
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+
+| Schritt | Prüfungspunkt | Inhalt | Ergebnis |
+|---|---|---|---|
+| 1 | Datenqualität sicherstellen | Bankkontoauszüge, OPOS, BWA, JA, Steuerrückstandsauskunft; Lücken als TODO | Datenlücken-Liste |
+| 2 | Krisenindikator-Screening | Überzogener Kontokorrentkredit, Rücklastschriften, Lieferantensperren, Steuerrückstände, GF-Ratlosigkeit | Indikatoren dokumentiert |
+| 3 | Liquiditätsstatus erstellen | Aktuelle Banksalden; OPOS fällig < 3 Wochen; Deckungslücke berechnen | Deckungslücke EUR [X] |
+| 4 | § 17 InsO-Prüfung | Deckungslücke > 10 %? Dauer > 3 Wochen? Ausreichende Einzahlungen plausibel? | § 17 InsO: [Ja / Nein / unklar] |
+| 5 | Kontokorrentkredit-Status | KK ausgeschöpft? Bank hat Limit reduziert? Kreditkündigung droht? | KK-Status |
+| 6 | Steuer- und SV-Rückstände | Finanzamt, Krankenkassen, Berufsgenossenschaft; Vollstreckungsbescheide prüfen | Steuer/SV-Schulden |
+| 7 | Überschuldungsstatus (§ 19 InsO) | Bilanz-Passiva > Aktiva? Stille Lasten aufdecken: Pensionen, Prozessrisiken, Bürgschaften | Überschuldung: [Ja / Nein] |
+| 8 | Fortbestehensprognose | 12 Monate: konkrete Finanzierungszusage, Auftragsbestand, Saisonalität; nicht nur Hoffnung | Prognose: [positiv / negativ] |
+| 9 | § 18 InsO / StaRUG-Eignung | Drohende Zahlungsunfähigkeit 24 Monate; COMI in Deutschland; keine laufende Insolvenz | StaRUG: [geeignet / nicht geeignet] |
+| 10 | Antragspflicht-Frist | § 15a InsO: Fristbeginn dokumentieren; GF über Strafrechtrisiko informieren | Frist: [Datum] |
+| 11 | § 15b InsO-Exposition | Welche Zahlungen seit Insolvenzreife? GF über Rückforderungsrisiko aufklären | Zahlungs-Protokoll |
+| 12 | StaRUG-Frühwarnsystem | Restrukturierungsbeauftragter empfehlen? StaRUG-Anzeige? Gläubigergespräch? | StaRUG-Fahrplan |
+| 13 | Deal-Impact (M&A) | MAC-Klausel, Closing Condition, W&I-Ausschluss, Kaufpreisminderung durch Net Debt-Erhöhung | Deal Impact Memo |
+| 14 | Steuerberater und GF informieren | Schriftlicher Hinweis auf Insolvenzreife und persönliche Haftung; Dokumentation | Hinweis-Schreiben |
+| 15 | Senior-Review und Eskalation | Insolvenzrechtsspezialist einbinden; Human-in-the-loop; Mandats-Dokumentation | Eskalation dokumentiert |
+
+## Mittelstand-Krisenindikator-Checkliste
+
+| Indikator | Schwellenwert / Kriterium | Handlungsbedarf |
+|---|---|---|
+| Kontokorrentkredit | Über 80 % ausgenutzt; Limit-Reduktion durch Bank | Bankgespräch; StaRUG prüfen |
+| Rücklastschriften | Mehr als 2 in einem Monat | Sofortige Liquiditätsvorschau |
+| Steuerrückstände | Umsatzsteuer > 2 Monate offen | Ratenzahlungsantrag; Insolvenzreife prüfen |
+| Lieferantensperren | Vorkasseforderungen > 3 Lieferanten | Verhandlungen; Liquiditätsstatus erstellen |
+| Lohnzahlung verzögert | Löhne > 5 Tage nach Fälligkeit | § 17 InsO-Prüfung sofort |
+| BWA-Verlust | Kumulierter Verlust > 50 % des Eigenkapitals | § 19 InsO-Prüfung |
+| Jahresabschluss-Testat | Prüfer verweigert Testat oder erteilt eingeschränktes Testat | Sofortige Beratung |
+
+## Beweislast
+
+| Beweisthema | Beweislastträger | Beweismittel |
+|---|---|---|
+| Zahlungsunfähigkeit bei Antragspflicht | Insolvenzverwalter | Bankkontoauszüge, OPOS, Rücklastschriften |
+| Fortbestehensprognose | GF | Finanzierungszusage (schriftlich), Auftragsbestand |
+| Zeitpunkt der Kenntniserlangung | GF / Insolvenzverwalter | BWA, E-Mails, Beraterkorrespondenz, Protokolle |
+| Masseschmälernde Zahlungen § 15b | Insolvenzverwalter | Kontoauszüge, Buchungsbelege, Stichtagsdokumentation |
+
+## Fristen und Verjährung
+
+| Fristtyp | Dauer | Norm | Hinweis |
+|---|---|---|---|
+| Antragspflicht — ZU | 3 Wochen | § 15a Abs. 1 InsO | Strafrechtliche Sanktion § 15a Abs. 4 InsO |
+| Antragspflicht — Überschuldung | 6 Wochen | § 15a Abs. 1 InsO | Keine Verlängerung |
+| § 15b-Haftung — Verjährung | 3 Jahre ab Kenntnis | §§ 195, 199 BGB | Direkthaftung GF |
+| StaRUG-Rahmen | Max. 24 Monate | §§ 31, 33 StaRUG | Bei § 17 InsO kein StaRUG-Zugang |
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Insolvenzreife fuer Mittelstand pruefen | Insolvenzreife-Pruefung nach Schema; Schriftsatz unten |
+| Variante A — Mittelstand hat noch Gesellschafter-Darlehen | Nachrangigkeit pruefen; Eigen- vs Fremdkapital abgrenzen |
+| Variante B — Sanierungs-LOI mit Investor vorhanden | Fortbestehensprognose mit LOI als Grundlage |
+| Variante C — Betrieb soll kurzfristig eingestellt werden | Kontrolllierte Liquidation statt Insolvenzantrag pruefen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
+## Schriftsatzbausteine
+
+### Baustein 1 — Hinweisschreiben an GF (Insolvenzreife-Verdacht)
+
+```
+ANWALTLICH VERTRAULICH
+
+An: [Name Geschäftsführer]
+Von: [Kanzlei]
+Datum: [TT.MM.JJJJ]
+
+Betreff: Erste Einschätzung zur Liquiditätslage [Firma GmbH]
+
+Sehr geehrte/r Herr/Frau [Name],
+
+auf Grundlage der uns vorliegenden Unterlagen (Bankkontoauszug [Datum], BWA [Monat],
+OPOS Kreditoren [Datum]) teilen wir Ihnen folgende erste Einschätzung mit:
+
+LIQUIDITÄTSSTATUS: Die fälligen Verbindlichkeiten übersteigen die verfügbare Liquidität
+um EUR [X] (ca. [Y] %). Dies überschreitet die BGH-Schwelle für Zahlungsunfähigkeit
+(BGH II ZR 277/16). Die Antragspflicht nach § 15a InsO könnte ausgelöst sein.
+
+PERSÖNLICHE HAFTUNG: Bei Eintritt der Zahlungsunfähigkeit sind Sie als Geschäftsführer
+verpflichtet, innerhalb von 3 Wochen Insolvenzantrag zu stellen (§ 15a InsO). Zahlungen,
+die Sie nach Eintritt der Insolvenzreife leisten, können von einem späteren
+Insolvenzverwalter von Ihnen persönlich zurückgefordert werden (§ 15b InsO).
+
+EMPFOHLENE MASSNAHMEN:
+1. Sofortige Liquiditätsvorschau (nächste 3 Wochen) aufstellen.
+2. Steuerberater bis [Datum] konsultieren (aktualisierte BWA und Steuerstatus).
+3. Prüfen, ob StaRUG-Frühwarnung eingeleitet werden kann.
+4. Insolvenzantrag-Fristbeginn dokumentieren.
+
+Diese Einschätzung ersetzt keine vollständige insolvenzrechtliche Stellungnahme.
+Wir empfehlen die sofortige Einschaltung eines Restrukturierungsspezialisten.
+
+[Kanzlei, Unterschrift]
+```
+
+### Baustein 2 — Deal-Impact-Memo für den Käufer
+
+```
+VERTRAULICH — Deal Impact Memo
+Projekt: [Deal-Code]
+Datum: [TT.MM.JJJJ]
+
+Liquiditätsstatus Zielgesellschaft: AMPEL ROT (Stand [Datum])
+
+DEAL-AUSWIRKUNGEN:
+
+1. MAC-Klausel (SPA Ziffer [X]): Die festgestellte Liquiditätslücke von EUR [X]
+   (> 10 % der fälligen Verbindlichkeiten) könnte als Material Adverse Change
+   im Sinne der SPA-Definition zu qualifizieren sein.
+   EMPFEHLUNG: Vollzug suspendieren bis zur Klärung.
+
+2. Closing Condition: Garantie der Zahlungsfähigkeit (SPA Ziffer [X]) ist bei
+   Zahlungsunfähigkeit nicht erfüllt. Käufer kann Vollzug verweigern.
+
+3. Net Debt Erhöhung: Steuerrückstände EUR [X] und KK-Überziehung EUR [Y] erhöhen
+   Net Debt um EUR [Z] → Kaufpreisminderung von EUR [Z] (per SPA-Mechanik).
+
+4. W&I-Versicherung: Police Ziffer [X] schließt Schäden aus, die auf Insolvenzreife
+   beruhen. W&I-Broker informieren.
+
+NÄCHSTE SCHRITTE:
+TODO [Käufer-Anwalt]: MAC-Analyse abschließen bis [Datum]
+TODO [Käufer-GF]: Finanzierungsbereitschaft bei MAC neu bewerten
+TODO [W&I-Broker]: Police-Ausschlüsse klären bis [Datum]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+
+## Streitwert und Kosten
+
+| Schadensfall | Ansatz | Norm |
+|---|---|---|
+| § 15b InsO-Haftung GF | Summe masseschmälernder Zahlungen | § 15b InsO |
+| StaRUG-Beratungskosten | EUR 30.000–300.000 je nach Komplexität | Budgetplanung GF |
+| Kaufpreisminderung (Net Debt) | Betrag der Schulden-Mehrung | SPA Completion Accounts |
+| Insolvenzverschleppungsschaden | Gläubigerschaden durch verzögerten Antrag | §§ 823 Abs. 2, 826 BGB |
+
+## Strategische Empfehlung
+
+| Akteur | Empfehlung |
+|---|---|
+| GmbH-GF | Wöchentlichen Liquiditätscheck durchführen; Steuerberater als Frühwarnsystem nutzen; bei Deckungslücke sofort Anwalt — keine Hoffnung auf Besserung ohne Plan |
+| Steuerberater | BWA proaktiv auswerten; Mandant bei Warnsignalen schriftlich hinweisen; Haftungsrisiko aus Schweigen kennen |
+| Käufer (Mittelstand-DD) | Insolvenzreife als Closing Condition absichern; MAC-Klausel mit konkretem Liquiditätsschwellenwert; Net-Debt-Stichtag wählen |
+
+## Anschluss-Skills
+
+- `mittelstand-ma-liquiditaetsvorschau` — Detaillierte Liquiditätsplanung
+- `corporate-kanzlei-restructuring-starug-insolvenzplan` — StaRUG-Planung
+- `mittelstand-ma-aktenanlage` — Dokumentation und Aktenführung
+- `anw-insolvenzreife-pruefung-17-19-inso` — Technische Insolvenzprüfung
+
+## Quellen
+
+- BGH, Urt. v. 19.06.2018, Az. II ZR 277/16 (Zahlungsunfähigkeit, 10 %-Schwelle)
+- BGH, Urt. v. 14.10.2014, Az. II ZR 252/13 (Masseschmälernde Zahlungen)
+- BGH, Urt. v. 26.04.2016, Az. II ZR 167/14 (Rangrücktritt)
+- BGH, Urt. v. 19.12.2013, Az. IX ZR 61/12 (Fortbestehensprognose)
+- BGH, Urt. v. 28.04.2022, Az. IX ZR 14/21 (§ 15b InsO-Haftungsausnahme)
+- OLG Düsseldorf, Urt. v. 10.12.2020, Az. 6 U 68/19 (Steuerberater-Haftung)
+- §§ 15a, 15b, 17, 18, 19 InsO; §§ 1–93 StaRUG; § 43 GmbHG; §§ 823, 826 BGB

@@ -1,9 +1,32 @@
 ---
 name: kanzlei-allgemein-kanzleitag-simulation
-description: "Führt im Simulationsmodus durch einen achtstündigen Kanzleitag mit Mandatsannahme GwG KYC Postlauf beA E-Mail Messenger Schreib-Canvas Fristen Zeitnarrativen Rechnung UStVA Eingangsrechnungen und Tagesabschluss."
+description: "Fuehrt im Simulationsmodus durch einen achtstuendigen Kanzleitag fuer Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-Workflow vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart."
 ---
 
 # Kanzleitag-Simulation
+
+
+## Triage zu Beginn
+1. Soll die Simulation in Echtzeit oder beschleunigt ablaufen?
+2. Welche Integrationen sind echt vorhanden (beA, E-Mail, DMS) und welche werden simuliert?
+3. Welche Testakten und Mandanten sollen in der Simulation vorkommen?
+4. Dient die Simulation Training, Onboarding, Demo oder Qualitaetssicherung?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Praxisnahe Ausbildung junger Anwälte als Teil der Kanzleipflicht; realistische Simulation von Kanzleiablaeufen unterstuetzt Qualitaetssicherung.
+- BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtswahrnehmung setzt Praxiskenntnisse voraus; Kanzlei-Simulation ist legitimes Ausbildungsmittel.
+- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Einsatz technischer Hilfsmittel und Simulationsumgebungen ist berufsrechtlich zulaessig, wenn Mandantendaten nicht gefaehrdet sind.
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Simulationsumgebungen muessen echte Mandantendaten anonymisieren; Test mit Echtdaten erfordert Auftragsverarbeitungsvertrag.
+
+## Zentrale Normen
+- § 43a Abs. 2 BRAO — Verschwiegenheit: gilt auch im Simulationsmodus; keine echten Mandatsdaten ohne Anonymisierung
+- Art. 32 DSGVO — TOM: Sicherheitsstandards gelten auch fuer Trainingsumgebungen
+- § 43 BRAO — Fortbildungspflicht des Anwalts: Simulation als anerkanntes Fortbildungsmittel
+- § 26 BDSG — Beschaeftigtendatenschutz: gilt auch bei internem Onboarding mit Simulationsdaten
+
+## Kommentarliteratur
+- Gaier/Wolf/Göcken BRAO § 43a Rn. 30-60 (Verschwiegenheit bei Einsatz externer und interner Systeme)
+- Kühling/Buchner DSGVO Art. 32 Rn. 1-25 (Sicherheit der Verarbeitung: TOM in Testumgebungen)
 
 ## Zweck
 

@@ -1,6 +1,6 @@
 ---
 name: wohnraummiete-kuendigung-paragraph-568-bgb
-description: "Schriftform Wohnraummiete-Kündigung § 568 Abs. 1 BGB: qES grundsätzlich als Schriftformersatz möglich (§ 126a BGB), aber Zugangserfordernis BGH VIII ZR 159/23 beachten; Begründungspflicht § 569 BGB, ordentliche Kündigung § 573 BGB, Praxisempfehlung Papier mit Boten."
+description: "Vermieter oder Mieter hat Kuendigung des Wohnraummietvertragsempfangen oder versendet und Anwalt prueft Schriftform. § 568 Abs. 1 BGB Schriftformerfordernis Kuendigung Wohnraummietvertrag. Pruefraster: qES grundsaetzlich moeglich § 126a BGB aber Zugangserfordernis BGH VIII ZR 159/23 Begruendungspflicht § 569 Abs. 2 BGB Empfehlung Papier mit Boten. Output: Formwirksamkeits-Analyse Kuendigung und Empfehlung Zustellungsweg. Abgrenzung zu gewerberaummiete-paragraph-550-bgb-langzeitform (Gewerbe) und kuendigung-per-schriftsatz-zustellung-formfragen."
 ---
 
 # Wohnraummiete-Kündigung — § 568 BGB und Formfragen

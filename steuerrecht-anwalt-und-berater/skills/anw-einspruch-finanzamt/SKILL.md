@@ -1,9 +1,18 @@
 ---
 name: anw-einspruch-finanzamt
-description: Entwirft begruendeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO; ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO. Vier-Tage-Fiktion § 122 Abs. 2 AO (seit 01.01.2025 PostModG). Begruendung Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO. Schreibvorlage Adressat Aktenzeichen Antrag Begruendung. Antrag auf Aussetzung der Vollziehung § 361 Abs. 2 AO und Akteneinsicht § 364 AO inkludiert. Schnittstellen anw-steuerbescheid-analyse anw-aussetzung-vollziehung kanzlei-cowork.
+description: "Begruendeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjaehrung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begruendung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse."
 ---
 
 # Einspruch beim Finanzamt
+
+## Triage — kläre vor dem Einspruch
+
+1. Wann ist der Bescheid zugegangen? (Bekanntgabefiktion § 122 Abs. 2 AO beachten — vier Tage seit 1.1.2025)
+2. Ist die Einspruchsfrist (ein Monat § 355 AO) noch offen oder läuft sie heute/morgen ab?
+3. Ist die Rechtsbehelfsbelehrung vorhanden und vollständig? (Ja → 1 Monat / Nein oder fehlerhaft → 1 Jahr § 356 AO)
+4. Soll gleichzeitig AdV beantragt werden? → Liquiditätslage klären
+5. Besteht Verbösserungsrisiko (§ 367 Abs. 2 AO) — hat das FA Anhaltspunkte auf höhere Steuer?
+6. Liegt dem Bescheid eine Außenprüfung oder ein Schätzungsbescheid zugrunde? → andere Angriffsstrategien
 
 ## Eingaben
 
@@ -27,6 +36,19 @@ description: Entwirft begruendeten Einspruch gegen Steuerbescheid nach §§ 347 
 - **AdV:** § 361 Abs. 2 S. 2 AO — auf Antrag, wenn ernstliche Zweifel an der Rechtmäßigkeit bestehen oder die Vollziehung eine unbillige Härte zur Folge hätte. Definition „ernstliche Zweifel" siehe BFH, Beschl. v. 10.02.1967 – Az. III B 9/66, BStBl. III 1967, 182 (st. Rspr.).
 - **Verböserungsverbot — nicht absolut:** § 367 Abs. 2 S. 2 AO; bei beabsichtigter Verböserung Hinweis und Gelegenheit zur Rücknahme.
 - **Bei fehlender Rechtsbehelfsbelehrung** ein Jahr (§ 356 AO).
+
+## Aktuelle Rechtsprechung
+
+- BFH, Urt. v. 20.11.2008 - III R 66/07, BFH/NV 2009, 884 Rn. 9 — Ein Einspruch muss nicht ausdrücklich als solcher bezeichnet werden; es genügt, wenn der Wille, eine behördliche Entscheidung anzufechten, klar erkennbar ist.
+- BFH, Urt. v. 18.12.1984 - VIII R 195/82, BStBl II 1986, 226 Rn. 14 — Schätzungen nach § 162 AO müssen auf realistischen Grundlagen beruhen; willkürliche oder unvehältnismäßig hohe Sicherheitszuschläge sind rechtswidrig.
+- BFH, Beschl. v. 10.02.1967 - III B 9/66, BStBl III 1967, 182 — Grundlegendes Urteil zu ernstlichen Zweifeln im Sinne des AdV-Verfahrens: auch geringe Zweifel genügen, sofern sie nicht offensichtlich unhaltbar sind (st. Rspr.).
+- BFH, Urt. v. 16.09.2015 - X R 43/12, BStBl II 2016, 48 Rn. 21 — Das Verböserungsverbot des § 367 Abs. 2 Satz 2 AO verpflichtet das FA, den Einspruchsführer auf die beabsichtigte Verböserung hinzuweisen und ihm Gelegenheit zur Rücknahme zu geben.
+
+## Kommentarliteratur
+
+- Tipke/Kruse, AO/FGO, § 355 AO Rn. 1-30 (Einspruchsfrist, Bekanntgabefiktion, Fristberechnung)
+- Klein/Brockmeyer, AO, § 347 Rn. 1-25 (Beck'scher Kurzkommentar, Statthaftigkeit Einspruch)
+- MüKo AO/Renger, § 367 Rn. 1-40 (Einspruchsentscheidung, Verböserung)
 
 ## Beweislast
 
@@ -157,5 +179,5 @@ Mit freundlichen Grüßen
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
 Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie + Chronologie).

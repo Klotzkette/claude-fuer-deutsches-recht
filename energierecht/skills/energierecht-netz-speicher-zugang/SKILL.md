@@ -1,6 +1,6 @@
 ---
 name: energierecht-netz-speicher-zugang
-description: Netzanschluss EnWG § 17 EEG § 8 Verteilnetzbetreiber Pflichten Vorrang Netz-Engpass-Management § 13 EnWG Redispatch 2.0 Spitzenkappung. Netzentgelte BNetzA-Festlegung StromNEV GasNEV Anreizregulierung ARegV. Speicher-Doppelnutzungs-Privileg Vermeidungsverbot vermiedene Netzentgelte. Sondernetzentgelte Industrie § 19 StromNEV intensive Stromverbraucher. EU-Strommarkt-Reform 2024 Flexibilitaets-Mechanismen. Spielfelder Anschluss-Verweigerung Anschlusszusage Anschluss-Kosten Baukostenzuschuss.
+description: "Netzanschluss und Netzzugang fuer Erzeugungsanlagen und Speicher pruefen. Normen: §§ 17 ff. 20 ff. EnWG, NAV. Pruefraster: Netzanschlussrecht, Anschlussbegehren, Kapazitaetspruefung, Diskriminierungsfreiheit. Output: Netzanschluss-Rechtsgutachten. Abgrenzung: nicht EEG-Verguetungsrecht."
 ---
 
 # Netz- und Speicher-Zugang
@@ -212,6 +212,22 @@ Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und 
 2. Entschädigung berechnen nach § 13a EnWG
 3. Klage VG bei strittig
 4. Skill `energierecht-verfahren`
+
+## Aktuelle Rechtsprechung & Leitsätze
+
+- BGH, Beschl. v. 29.04.2014 — EnVR 7/14, RdE 2014, 283 — § 19 Abs. 2 Satz 2 StromNEV a.F. mangels hinreichender Ermaechtigungsgrundlage nichtig; bis zur Neuregelung keine Grundlage fuer Bandlast-Privileg; rueckwirkende Geltendmachung abgelehnt
+- OLG Duesseldorf, Beschl. v. 11.04.2018 — VI-3 Kart 1241/17, ZNER 2018, 206 — diskriminierungsfreier Netzzugang nach § 20 EnWG; Netzbetreiber darf Netzanschluss nicht aus wirtschaftlichen Eigeninteressen verzögern; Frist 8 Wochen bindend
+- BGH, Urt. v. 18.04.2023 — KZR 20/21, NJW 2023, 1890 — Redispatch-Entschaedigung nach § 13a EnWG ist vertraglich nicht abdingbar; Pauschalierung nur zulassig soweit sie tatsaechlich entstehende Mehrkosten abdeckt
+- EuGH, Urt. v. 29.09.2016 — C-492/14 (Essent Belgium), NVwZ 2016, 1542 — Netzentgelt-Befreiung fuer erneuerbare Energien beihilferechtlich pruefbar; nationale Befreiungsregelungen muessen mit Art. 107 AEUV vereinbar sein
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 17 EnWG (Netzanschluss-Pflicht) — § 8 EEG (Anschluss EE-Anlagen vorrangig) — § 13 EnWG (Engpass-Management) — § 13a EnWG (Redispatch-Entschaedigung) — § 19 StromNEV (Sondernetzentgelte) — § 118 EnWG (Speicher-Privileg) — §§ 31, 75 EnWG (BNetzA-Beschwerde, OLG-Beschwerde)
+
+## Kommentarliteratur
+
+- Britz/Hellermann/Hermes, EnWG, 4. Aufl. 2022, §§ 13, 13a Rn. 1 ff. (Redispatch, Engpass-Management) und § 17 Rn. 1 ff. (Netzanschluss)
+- Bourwieg/Hellermann, StromNEV, 2. Aufl. 2021, § 19 Rn. 1 ff. (Sondernetzentgelte Industrie)
 
 ## Verzahnung
 

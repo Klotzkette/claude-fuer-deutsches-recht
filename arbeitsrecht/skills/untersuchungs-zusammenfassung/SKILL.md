@@ -220,3 +220,15 @@ befinden sich in der Referenz-Skill `interne-untersuchung` — diese vor
 inhaltlicher Arbeit laden.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+## Ergänzende Rechtsprechung (v14.2)
+
+- **BAG, Urt. v. 19.04.2012 — 2 AZR 258/11**, NZA 2012, 1295 — Theorie der subjektiven Determinierung bei der Betriebsratsanhörung: der Betriebsrat ist nur über die Kündigungsgründe zu unterrichten, die der Arbeitgeber kennt und die für seine Kündigung maßgeblich sind; eine unvollständige HR-Zusammenfassung als Grundlage der BR-Anhörung kann zur Unwirksamkeit der Kündigung führen.
+- **BGH, Urt. v. 04.07.2017 — II ZR 319/15**, NJW 2017, 3143 — Informationspflichten der Geschäftsleitung gegenüber dem Aufsichtsrat bei laufenden Compliance-Untersuchungen; der Vorstand muss den AR zeitnah und vollständig über Risiken informieren.
+
+## Triage — vor der Zusammenfassung klären
+
+1. Für welche Zielgruppe ist die Zusammenfassung bestimmt? (HR / Geschäftsführung/AR / externe Bevollmächtigte)
+2. Welche Entscheidung soll die Zusammenfassung unterstützen? (Disziplinarmaßnahme / Governance / Prozessvorbereitung)
+3. Liegt ein HinSchG-Sachverhalt vor? → Identitätsschutz sicherstellen
+4. Dient sie als Grundlage für die BR-Anhörung? → § 102 BetrVG, Vollständigkeitspflicht!

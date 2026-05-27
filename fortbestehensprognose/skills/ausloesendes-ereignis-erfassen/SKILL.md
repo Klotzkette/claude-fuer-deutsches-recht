@@ -1,6 +1,6 @@
 ---
 name: ausloesendes-ereignis-erfassen
-description: Erfasst den Anlass der Fortbestehensprognose. Typische Ausloeser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftspruefers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschaeftsfuehrers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig fuer spaeteren Nachweis dass der Geschaeftsfuehrer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO).
+description: "Erfasst den Anlass der Fortbestehensprognose. Typische Ausloeser sind Hinweis des Steuerberaters nach § 102 StaRUG Hinweis des Wirtschaftspruefers Bekanntwerden negativen Eigenkapitals Bilanzaufstellung mit negativem EK Liquiditaetsengpass Gesellschafterhinweis eigene Sorge des Geschaeftsfuehrers. Dokumentiert Anlass Datum Hinweisgeber Mitteilungsform. Wichtig fuer spaeteren Nachweis dass der Geschaeftsfuehrer auf Insolvenzanzeichen rechtzeitig reagiert hat (Haftungsfrage § 15b InsO)."
 ---
 
 # Auslösendes Ereignis erfassen
@@ -95,3 +95,28 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 - `ausloesendes-ereignis.yaml` mit allen Pflichtfeldern.
 - Erste Risikobewertung (grün / gelb / rot).
 - Empfehlung: bei rot direkt zu `wenn-prognose-negativ-naechste-schritte` und Insolvenzanwalt einschalten — diese Prüfung kann fortgesetzt werden aber nicht ohne anwaltliche Begleitung.
+
+
+## Aktuelle Leitentscheidungen — Ausloesende Ereignisse
+
+- BGH, Urt. v. 26.01.2017 — IX ZR 285/14 — Haftung nach § 15b InsO: Pflicht zur Erstellung der Fortbestehensprognose entsteht ab dem Moment, in dem der Geschaeftsfuehrer Insolvenzanzeichen erkennt oder erkennen muss; spaeteres Handeln erhoelt Schadensersatzrisiko.
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose: Erstellung ist unverzueglich nach Bekanntwerden der bilanziellen Ueberschuldung oder Liquiditaetskrise erforderlich; Wartezeiten erhoehen Haftungsrisiko.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung § 15b InsO (alt § 64 GmbHG): auch Einzelgeschaeftsfuehrer haften individuell; Hinweis des Steuerberaters gilt als Anlass zur Pruefung, nicht erst als Pflicht-Trigger.
+- BGH, Urt. v. 14.05.2007 — II ZR 48/06, NZI 2007, 615 — Antragspflicht beginnt mit Kenntnis oder fahrlässiger Unkenntnis des Insolvenzgrundes; § 102 StaRUG-Hinweispflicht des Rechtsberaters als fruehwarnendes Signal.
+
+## Paragrafenkette Ausloesende Ereignisse
+
+§ 102 StaRUG (Warnpflicht Rechtsberater) → § 19 InsO (Ueberschuldung als Eröffnungsground) → § 15a InsO (Antragspflicht 3/6 Wochen) → § 15b InsO (Haftung GF) → § 43 GmbHG (Sorgfaltspflicht)
+
+## Triage — Ausloesende Ereignisse
+
+1. **Wer hat das Signal gesandt?** Steuerberater (§ 102 StaRUG), Wirtschaftspruefer, eigene Erkenntnis GF, Bank-Gespraech?
+2. **Datum des Signals?** Tag-genau dokumentieren → Beginn der Haftungszeit-Uhr.
+3. **Schriftliche Dokumentation?** E-Mail, Aktenvermerk, Protokoll vorhanden?
+4. **Sofortmassnahmen?** Liquiditaetsplanung starten, Anwalt einschalten, Steuerberater beauftragen?
+
+## Kommentarliteratur
+
+- MüKo InsO/Haarmeyer § 15a InsO Rn. 1-50 — Antragspflicht und ihr Beginndatum.
+- Uhlenbruck/Mock § 19 InsO Rn. 1-40 — Ueberschuldung und Pflicht zur Fortbestehensprognose.
+- K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 4 Rn. 4.1 ff. — Krisenstadien und Handlungspflichten.

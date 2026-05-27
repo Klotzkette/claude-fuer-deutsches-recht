@@ -76,3 +76,19 @@ Profil wird geschrieben. Empfohlene nächste Skills:
 4. (parallel) `/liquiditaetsplanung` — für die rollierende 12-Monats-Liquidität
 
 Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Prozent seit mehr als drei Wochen) **sofort** Insolvenzanwalt einschalten und mit Plugin `insolvenzrecht` arbeiten — nicht in diesem Plugin weiterarbeiten.
+
+
+## Rechtlicher Rahmen und Leitentscheidungen
+
+- BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose § 19 Abs. 2 S. 1 InsO: massgeblicher Massstab ueberwiegende Wahrscheinlichkeit; Prognosezeitraum mindestens 12 Monate; Erstellung unverzueglich bei Krisenzeichen.
+- BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung nach § 15b InsO: Geschaeftsfuehrer haftet persoenlich fuer Zahlungen nach Insolvenzreife; ordnungsgemaesse Erstellung der Fortbestehensprognose ist Entlastungsbeweis.
+- BGH, Urt. v. 14.05.2007 — II ZR 48/06, NZI 2007, 615 — Antragspflicht-Beginn: mit Kenntnis oder fahrlaeissiger Unkenntnis des Insolvenzgrundes; Kaltstart-Interview dokumentiert Erstkenntnis.
+
+## Paragrafenkette Kaltstart
+
+§ 19 InsO (Ueberschuldungsgrund) → § 15a InsO (Antragspflicht) → § 15b InsO (Zahlungs-/Haftungsrisiko) → § 43 GmbHG (Sorgfaltspflicht GF) → IDW S 11 (Standard Insolvenz-Beurteilung)
+
+## Kommentarliteratur
+
+- IDW S 11, Stand 11/2022 — vollstaendiger Standard zur Beurteilung von Insolvenzgruenden.
+- K. Schmidt/Uhlenbruck, GmbH in Krise Sanierung und Insolvenz, § 4 — Krisenstadien und Erstmassnahmen.

@@ -1,6 +1,6 @@
 ---
 name: produktmarkt-nachfragesubstitution
-description: Prueft die sachliche Marktabgrenzung aus Nachfragersicht. Bewertet funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck und Bedarfsdeckungsaequivalenz. Prueft Verallgemeinerungsannahmen und fehlende Differenzierungen nach Kundensegmenten gemaess EU-Bekanntmachung zur Marktdefinition 2024 und Paragraf 18 GWB.
+description: "Kernschritt jeder Marktabgrenzung: sachlicher Markt aus Nachfragersicht bestimmen. Prueft funktionale Austauschbarkeit Preisreagibilitaet qualitative Unterschiede Verwendungszweck Bedarfsdeckungsaequivalenz. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Pruefraster Verallgemeinerungsannahmen fehlende Differenzierungen nach Kundensegmenten SSNIP-Test. Output Nachfragesubstitutions-Memo mit Marktdefinition und Argument-Schwachstellen-Liste. Abgrenzung: produktmarkt-angebotsumstellung fuer Supply-Side-Perspektive."
 ---
 
 # Produktmarkt — Nachfragesubstitution
@@ -58,3 +58,13 @@ Häufige Fehler:
 ## Zwischenergebnis
 
 Stufe: **eng / angemessen / zu weit** — mit Kurzformulierung der Hauptschwäche.
+
+## Leitentscheidungen Nachfragesubstitution
+
+- EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands), Slg. 1978, 207 — Nachfragesubstitution Primaerkriterium; Verbraucherperspektive; saisonale und qualitative Faktoren.
+- EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche), Slg. 1979, 461 — Kreuzpreiselastizitaet als Indikator; Vitamingruppen nicht substitutionsfaehig.
+- BGH, Beschl. v. 23.06.2020 — KVR 69/19, NZKart 2020, 557 — Kundenbefragungen als Evidenz Nachfragesubstitution; Methodenqualitaet entscheidend.
+
+## Kommentarliteratur
+
+- Bechtold/Bosch GWB § 18 Rn. 5-20 (Nachfragesubstitution, Kreuzpreiselastizitaet, SSNIP)

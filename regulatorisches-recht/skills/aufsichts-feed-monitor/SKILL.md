@@ -1,6 +1,6 @@
 ---
 name: aufsichts-feed-monitor
-description: "Überwacht regulatorische Quellen auf neue Verlautbarungen und Rechtsänderungen, gefiltert nach einem konfigurierbaren Wesentlichkeitsschwellenwert. Lädt, wenn der Nutzer „Feeds prüfen\", „Was gibt es Neues im Regulatorischen\", „BaFin-Rundschreiben\" oder eine konkrete Fundstelle zur Einordnung nennt — oder wenn der Scheduler-Agent die Skill automatisch auslöst."
+description: "Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen fuer Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Pruefraster: Relevanz fuer Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Aenderungen Handlungsliste. Abgrenzung: nicht fuer tiefe Regulierungsanalyse (stellungnahmen)."
 ---
 
 # Regulatorischer Feed-Watcher

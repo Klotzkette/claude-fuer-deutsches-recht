@@ -5,6 +5,20 @@ description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristun
 
 # Entfristungsklage: Was will der Nutzer?
 
+## Zentrale Normen (Überblick)
+
+- § 17 TzBfG — 3-Wochen-Klagefrist (kritischste Frist; läuft auch bei Weiterbeschäftigung)
+- § 14 Abs. 4 TzBfG — Schriftformerfordernis (häufig übersehener Unwirksamkeitsgrund)
+- § 14 Abs. 2 Satz 2 TzBfG — Vorbeschäftigungsverbot
+- § 16 TzBfG — Rechtsfolge: Vertrag gilt als unbefristet
+- § 4 KSchG — Klagefrist Kündigungsschutz (zur Abgrenzung)
+- § 623 BGB — Schriftformerfordernis Kündigung (zur Abgrenzung)
+
+## Aktuelle Rechtsprechung (Kurzüberblick für Triage)
+
+- BAG, Urt. v. 16.04.2008 – 7 AZR 1048/06, NZA 2008, 999 — Häufigster Unwirksamkeitsgrund: elektronische Unterzeichnung des Arbeitsvertrags (DocuSign, E-Mail-Signatur) verletzt § 14 Abs. 4 TzBfG — Befristung automatisch unwirksam, Rechtsfolge § 16 TzBfG.
+- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Vorbeschäftigungsverbot gilt zeitlich unbegrenzt; auch mehrere Jahre zurückliegende frühere Tätigkeiten beim selben Arbeitgeber sperren die sachgrundlose Befristung.
+
 ## Zweck
 
 Dieser Skill ist der Einstieg in den Entfristungs-Workflow. Er klärt, ob das Ziel des Nutzers ist, festzustellen, dass ein angeblich befristeter Vertrag in Wirklichkeit **unbefristet** ist (Befristungskontrollklage / Entfristungsklage).

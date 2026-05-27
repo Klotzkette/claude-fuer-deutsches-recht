@@ -1,6 +1,6 @@
 ---
 name: vorlageanordnung
-description: "Triage einer gerichtlichen oder behördlichen Beweisanordnung — Klassifizierung, Umfangs- und Beschlagnahmeschutzanalyse, Portfolioquerverweis und Erstellung eines Einwendungsgerüsts, Mitwirkungsplans und Fristenkalenders. Lädt, wenn der Nutzer eine Vorladung, Zeugenladung, Vorlageanordnung, Durchsuchungsanordnung oder behördliche Anforderung erhalten hat und deren Reaktionsstrategie klären möchte."
+description: "Vorlageanordnung nach § 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: §§ 142 143 ZPO. Pruefraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren §§ 485 ff. ZPO."
 ---
 
 # Triage Gerichtliche und Behördliche Beweisanordnungen

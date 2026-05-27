@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-kapitalerhoehung
-description: "Anmeldung der Kapitalerhoehung an das Handelsregister durch den Notar nach § 57 GmbHG. Erforderliche Unterlagen, Bearbeitungsdauer zwei bis acht Wochen, Folge-Anmeldung Transparenzregister nach § 19 GwG. Pruefung durch Registergericht und haeuFige Beanstandungsgruende."
+description: "Handelsregisteranmeldung nach Kapitalerhohung durch Wandlung vorbereiten. § 57 GmbHG Anmeldepflicht §§ 54 55 GmbHG Kapitalerhohung. Pruefraster: Anmeldungsinhalt Unterlagen Notar Einreichungspflicht Eintragungsvoraussetzungen. Output: Anmeldungsentwurf Unterlagencheckliste. Abgrenzung: nicht fuer Gesellschafterliste (gesellschafterliste-aktualisieren)."
 ---
 
 # Handelsregisteranmeldung Kapitalerhöhung
@@ -82,3 +82,17 @@ Unmittelbar nach HR-Eintragung: Prüfung ob Lender wirtschaftlich Berechtigter (
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung GmbHG §§ 57/9c oder FamFG aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 15.01.2013 — **II ZR 235/11**, BGHZ 196, 195 Rn. 22: Anmeldung der Kapitalerhöhung zum Handelsregister muss durch alle Geschäftsführer erfolgen (§ 57 GmbHG); bei der Sachkapitalerhöhung (Wandlung Darlehen) ist dem Handelsregister zusätzlich der Sacheinlagebericht und die Erklärung über die Werthaltigkeit der eingebrachten Forderung beizufügen.
+
+OLG Düsseldorf, Beschl. v. 14.06.2017 — **3 Wx 91/17**, GmbHR 2017, 912 Rn. 10: Das Handelsregister prüft die formelle Ordnungsmäßigkeit der Kapitalerhöhungsanmeldung; materiell-rechtliche Mängel (z.B. zu niedrige Bewertung der Sacheinlage) prüft es nicht; der Geschäftsführer und die Gesellschafter haften jedoch für eine unzutreffende Werthaltigkeitsbescheinigung (§ 57 Abs. 4 GmbHG).
+
+BGH, Urt. v. 24.10.2005 — **II ZR 179/03**, BGHZ 165, 6 Rn. 18: Mit Eintragung der Kapitalerhöhung im Handelsregister wird die Wandlung wirksam; vor Eintragung können die neuen Anteile weder übertragen noch belastet werden; der Darlehensgeber erhält erst mit Eintragung rechtlich gesicherte Gesellschafterstellung.
+
+### Normen-Ergänzung
+
+§ 57 GmbHG (Anmeldung Kapitalerhöhung zum Handelsregister) → § 57a GmbHG (vereinfachte Kapitalerhöhung) → § 12 HGB i.V.m. §§ 374 ff. FamFG (elektronische Anmeldung) → § 56 Abs. 2 GmbHG (Sacheinlagebericht) → § 8 HGB (Inhalt Handelsregisteranmeldung)

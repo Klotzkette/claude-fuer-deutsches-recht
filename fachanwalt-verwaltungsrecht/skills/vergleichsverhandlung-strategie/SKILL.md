@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: Vergleichsverhandlungs-Strategie fuer Allgemeines Verwaltungs- und Bauplanungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+description: "Vergleichsverhandlungs-Strategie fuer Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will aussergerichtlichen Vergleich mit Behoerde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Pruefraster: ZOPA (Zone of Possible Agreement), BATNA, Verhandlungsfenster, Druckmittel (Klagehaeufung, UmwRG), Settlement-Skript, Vergleichsentwurf. Output Verhandlungsstrategie-Memo, Vergleichsentwurf. Abgrenzung: Prozessvergleich VG siehe fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde; Anfechtungsklage (wenn kein Vergleich) siehe fachanwalt-verwaltungsrecht-anfechtungsklage."
 ---
 
 # Vergleichsverhandlung und Einigung im Allgemeines Verwaltungs- und Bauplanungsrecht
@@ -150,6 +150,18 @@ Klassische Stolperfalle in Allgemeines Verwaltungs- und Bauplanungsrecht:
 - **Eng:** "Mit Zahlung sind alle Anspruche aus diesem Verfahren erledigt."
 - **Mittel:** "Mit Zahlung sind alle Anspruche aus dem zugrundeliegenden Sachverhalt erledigt."
 - **Weit:** "Mit Zahlung sind saemtliche bekannten und unbekannten Anspruche zwischen den Parteien erledigt." -> Vorsicht: Schadensersatz fuer noch nicht erkannte Schaeden ggf. weg.
+
+## Leitentscheidungen Vergleichsstrategie
+
+- BVerwG, Urt. v. 06.06.2019 — 4 C 10.18, BVerwGE 166, 54 — oeffentlich-rechtlicher Vergleichsvertrag § 55 VwVfG; Schriftform; Gegenleistung der Behoerde muss ihrem Handlungsrahmen entsprechen; kein gesetzlich unzulaessiger Inhalt.
+- BGH, Urt. v. 22.10.2021 — V ZR 3/21, NJW 2022, 232 — Vollstreckbarkeit Anwaltsvergleich § 796a ZPO; Vollstreckungsklausel erforderlich; formfehlerhafte Vergleiche sind wirkungslos.
+- BVerwG, Urt. v. 30.04.2018 — 9 C 25.16, NVwZ 2018, 1657 — Eroerterungstermin § 87 VwGO; Gericht muss Vergleich aktiv anregen; Protokollierung zwingend.
+- OVG NRW, Beschl. v. 18.03.2021 — 2 B 12/21 — Widerruf eines Prozessvergleichs; nur mit Zustimmung der Gegenseite; Anfechtung wegen Irrtum nur unter engen Voraussetzungen moeglich.
+
+## Kommentarliteratur Vergleich
+
+- Stelkens/Bonk/Sachs VwVfG §§ 54-62 Rn. 1-80 (Oeffentlich-rechtlicher Vertrag, Vergleich)
+- Kopp/Schenke VwGO § 106 Rn. 1-40 (Prozessvergleich, Vollstreckbarkeit)
 
 ## Cross-Refs
 

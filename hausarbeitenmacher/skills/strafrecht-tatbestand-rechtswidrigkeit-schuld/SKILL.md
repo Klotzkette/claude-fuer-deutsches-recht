@@ -1,9 +1,32 @@
 ---
 name: strafrecht-tatbestand-rechtswidrigkeit-schuld
-description: Strafrechtliches Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgruende Schuldfaehigkeit Schuldformen Entschuldigungsgruende. Versuch Vollendung Ruecktritt § 24 StGB. Konkurrenzen Tateinheit Tatmehrheit. Beispiele § 242 § 263 § 223 § 212 StGB.
+description: "Student prueft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgruende Schuldfaehigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Ruecktritt § 24 StGB Konkurrenzen. Pruefraster Stufenpruefung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Pruefungsschema Begruendung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-fuer-schritt (Methode)."
 ---
 
 # Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld
+
+
+## Triage zu Beginn
+1. Welches Straftatbestandsdelikt ist im Sachverhalt erkennbar: Koerperverletzung, Betrug, Diebstahl, Toetung?
+2. Gibt es Hinweise auf Versuch, Vollendung oder Ruecktritt nach § 24 StGB?
+3. Liegen Anzeichen fuer Rechtfertigungsgruende vor (Notwehr § 32, rechtfertigender Notstand § 34)?
+4. Gibt es Schuldunfaehigkeitsindikatoren (Alter, psychische Erkrankung, Trunkenheit)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 02.11.2011 - 2 StR 375/11, NJW 2012, 1093 — Vorsatz beim Toetungsdelikt: direkte und bedingte Absicht; bedingte Toetungsabsicht erfordert Billigung des Todes, nicht nur Voraussicht.
+- BGH, Urt. v. 11.12.2018 - 2 StR 391/18, NStZ 2019, 469 — Notwehr § 32 StGB: Gegenwaertigkeit des Angriffs als entscheidendes Tatbestandsmerkmal; Pruefungsschema Angriff-Gegenwaertigkeit-Notwehrlage.
+- BGH, Urt. v. 29.08.2018 - 5 StR 326/18, NStZ 2019, 157 — Betrug § 263 StGB: Taeuschungshandlung muss Irrtum beim Opfer kausal hervorrufen; Kausalzusammenhang Pflichtmerkmal.
+- BGH, Urt. v. 28.06.2018 - 3 StR 108/18, NStZ 2019, 28 — Stehlens-Tatbestand § 242 StGB: Gewahrsamsbruch erfordert Beseitigung ohne oder gegen den Willen des Gewahrsamsinhabers; konklusive Handlungen genuegen.
+
+## Zentrale Normen
+- §§ 13-35 StGB — Allgemeiner Teil: Tatbestand, Rechtswidrigkeit, Schuld
+- § 15 StGB — Vorsatz als Regelfall; Fahrlässigkeit nur bei ausdrücklicher Normierung
+- §§ 32, 34 StGB — Notwehr und rechtfertigender Notstand
+- §§ 20, 21 StGB — Schuldunfaehigkeit und verminderte Schuldfaehigkeit
+
+## Kommentarliteratur
+- Fischer StGB, 71. Aufl. 2024, §§ 13-35 (Systematisches Schema Tatbestand-Rechtswidrigkeit-Schuld)
+- Schoenke/Schroeder StGB Vor § 13 Rn. 1-100 (Verbrechensaufbau und Pruefungsschema)
 
 ## Zweck
 

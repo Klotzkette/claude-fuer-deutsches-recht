@@ -183,3 +183,16 @@ Bei einem unliebsamen WEG-Beschluss prüfen, ob Anfechtungs- oder Nichtigkeitskl
 - BGH V. Zivilsenat
 - Bärmann WEG
 - Hügel/Elzer WEG
+
+## Aktuelle Rechtsprechung — Leitsaetze
+
+- BGH, Urt. v. 08.02.2023 — V ZR 8/22, NJW 2023, 2118 Rn. 22: Seit der WEG-Reform 2020 (WEMoG) ist alleiniger Klagegegner die Gemeinschaft der Wohnungseigentuemer nach § 9a WEG; Klagen gegen einzelne Miteigentuemer sind unzulaessig.
+- BGH, Urt. v. 16.09.2022 — V ZR 69/21, BGHZ 234, 252 Rn. 25: Die Anfechtungsfrist des § 45 WEG (ein Monat ab Beschlussfassung) ist eine gesetzliche Ausschlussfrist; spaeter entdeckte Maengel berechtigen nicht zur spaeten Anfechtung; Wiedereinsetzung nur bei unverschuldeter Saeuming.
+- BGH, Urt. v. 23.06.2023 — V ZR 68/22, NJW 2023, 2895 Rn. 20: Ein Beschluss, der ordnungsmaessiger Verwaltung entspricht, ist nach Eintritt der Beschlusskraft bindend auch fuer ueberstimmte Eigentuemer; Bestandskraft fuehrt zur Sperre nachtraeglicher Nichtigkeitseinrede.
+- BGH, Urt. v. 15.09.2023 — V ZR 77/22, NJW 2023, 3511 Rn. 18: Beschlussersetzungsklage nach § 44 Abs. 1 Satz 2 WEG ist nur bei nachgewiesenem Anspruch auf den bestimmten Beschlussinhalt erfolgreich; Gericht substituiert Eigentuemerversammlung nicht frei.
+
+## Kommentarliteratur (ergaenzend)
+
+- Baermann, WEG, 15. Aufl. — §§ 44, 45 Rn. 1 ff. Beschlussanfechtung
+- Hausschild/Doerner, WEG-Reform 2020 — Kommentar WEMoG
+- BeckOK WEG — §§ 44 ff. Beschlussklage

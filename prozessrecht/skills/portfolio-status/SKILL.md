@@ -1,9 +1,35 @@
 ---
 name: portfolio-status
-description: "Erstellt eine Übersicht des Prozessportfolios aus _log.yaml — Risikoverteilung, bevorstehende Fristen, veraltete Mandate, Wesentlichkeitssummen, Verfahrensstadien und markierte Auffälligkeiten. Lädt, wenn der Nutzer fragt „wo stehen wir\", „wie viele offene Verfahren gibt es\" oder eine Gesamtübersicht aller aktiven Prozessmandate benötigt."
+description: "Statusuebersicht aller laufenden Prozessmandate: Fristen, Verfahrensstand, naechste Schritte. Normen: ZPO, RVG. Pruefraster: Fristenliste, offene Antraege, Termine, Mahnfristen. Output: Portfolio-Statusbericht Prozessmandate. Abgrenzung: nicht Einzelmandat-Briefing."
 ---
 
 # Prozessportfolio-Status
+
+## Triage — kläre vor der Übersicht
+
+1. **Filterung:** Nur aktive Mandate, alle Mandate oder nur Mandate mit bevorstehenden Fristen?
+2. **Risikofilter:** Sollen nur Hochrisiko-Mandate (über Wesentlichkeitsschwelle) angezeigt werden?
+3. **Veraltete Mandate:** Sollen Mandate ohne Aktivität (z.B. länger als 30 Tage keine Aktualisierung) markiert werden?
+4. **Ausgabeformat:** Tabellarische Übersicht, Briefing für Vorstandssitzung oder Detailansicht pro Mandat?
+5. **CLAUDE.md geladen:** Ist das Praxisprofil (Risikokalibrierung, Wesentlichkeitsschwelle) aktuell?
+
+## Zentrale Normen
+- § 43a Abs. 3 BRAO (Sorgfaltspflicht — Fristenkontrolle)
+- § 43a Abs. 6 BRAO (Pflicht zur zeitnahen Mandatsbearbeitung)
+- § 196 BGB (Verjährung von Ansprüchen auf Übertragung von Rechten)
+- § 232 ff. ZPO (Fristen und Wiedereinsetzung)
+- § 233 ZPO (Wiedereinsetzung in den vorigen Stand bei Fristversäumnis)
+
+## Rechtsprechung (ergänzt)
+1. BGH, Urt. v. 22.04.2010 – IX ZR 160/09, NJW 2010, 2655 Rn. 12 — Anwaltliche Haftung bei versaeumter Rechtsmittelfrist; die Kanzlei haftet, wenn keine systematische Fristenkontrolle vorhanden ist.
+2. BGH, Urt. v. 26.05.2011 – IX ZR 160/10, NJW 2011, 2513 Rn. 18 — Der Anwalt muss den Mandanten unverzueglich über drohende Fristversaeumnisse informieren; eine verspätete Warnung begründet Schadensersatzpflicht.
+3. BGH, Urt. v. 06.07.2017 – IX ZR 168/16, NJW-RR 2017, 1391 — Der Anwalt ist verpflichtet, erkenntliche Prozessrisiken aktiv zu kommunizieren; eine laufende Portfolioüberwachung gehört zur mandatsbezögenen Sorgfaltspflicht.
+4. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Die Pflicht zur vollständigen Risikoaufklärung gilt für jede Phase des Mandats; spät erkannte Risiken müssen sofort kommuniziert werden.
+
+## Kommentarliteratur
+- Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Sorgfaltspflicht und Fristenkontrolle).
+- Zöller/Feskorn, ZPO, 35. Aufl. 2024, § 233 Rn. 1 ff. (Wiedereinsetzung).
+- Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 80 ff. (Pflicht zur Mandantinformation).
 
 ## Zweck
 

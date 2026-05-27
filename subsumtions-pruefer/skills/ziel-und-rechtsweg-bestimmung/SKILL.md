@@ -5,13 +5,34 @@ description: "Ermittelt interaktiv das Nutzerziel (Anspruchsdurchsetzung, Abwehr
 
 # Ziel- und Rechtsweg-Bestimmung
 
+## Triage zu Beginn — kläre vor der Rechtsweg-Bestimmung
+
+1. Was möchte der Nutzer erreichen? (Zahlung / Unterlassung / Anfechtung VA / Strafanzeige / ...)
+2. Wer ist Gegner? (Privatperson / Unternehmen / Behörde / Staat)
+3. Ist Behördenbeteiligung erkennbar? → Öffentliches Recht prüfen
+4. Besteht Dringlichkeit? → Eilverfahren parallel skizzieren
+5. Wurde ein Vorverfahren (Widerspruch, Einspruch) bereits durchgeführt?
+
 ## Zweck
 
-Bevor Normen geprüft werden, muss klar sein, was der Nutzer mit der Prüfung erreichen will. Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich die einschlägigen Normen. Dieser Skill erfasst das Ziel strukturiert und gibt einen ersten Rechtsweg-Hinweis.
+Das Ziel bestimmt den Rechtsweg, die Verfahrensart, die Klageart und letztlich die einschlägigen Normen. Dieser Skill erfasst das Ziel strukturiert und gibt einen ersten Rechtsweg-Hinweis.
+
+## Zentrale Normen zur Rechtswegsbestimmung
+
+- § 13 GVG — ordentliche Gerichtsbarkeit (bürgerliche Rechtsstreitigkeiten, Streit über Privatrecht)
+- § 40 VwGO — Verwaltungsrechtsweg (öffentlich-rechtliche Streitigkeiten, nicht verfassungsrechtlicher Art)
+- § 51 SGG — Sozialgerichtsbarkeit (Angelegenheiten der Sozialversicherung)
+- § 33 FGO — Finanzgerichtsbarkeit (Steuern und Abgaben)
+- § 17 GVG — Rechtsweg-Verweisung; § 17a GVG — Rüge der Unzuständigkeit
+
+## Aktuelle Rechtsprechung
+
+- BGH, Beschl. v. 10.12.2020 - III ZB 57/20, NJW 2021, 392 — Die Abgrenzung ordentliche Gerichtsbarkeit / Verwaltungsgerichtsbarkeit richtet sich nach der Natur des Anspruchs; privatrechtliche Forderung gegen Behörde ist vor ordentlichem Gericht zu klagen, nicht vor VG.
+- BVerwG, Beschl. v. 18.09.2019 - 6 B 46.18, NVwZ 2020, 246 — Für die Eröffnung des Verwaltungsrechtswegs (§ 40 VwGO) genügt, dass eine öffentlich-rechtliche Streitigkeit vorliegt; die Abgrenzung zu bürgerlich-rechtlichen Streitigkeiten richtet sich nach dem Charakter der streitbegründenden Norm.
+- BSG, Urt. v. 23.07.2020 - B 3 KR 4/20 R, NJW 2021, 183 — Streitigkeiten über gesetzliche Krankenversicherungsleistungen sind ausschließlich vor den Sozialgerichten (SGG) zu entscheiden; eine Klage vor dem ordentlichen Gericht ist unzulässig.
+- BGH, Beschl. v. 17.06.2021 - I ZB 55/20, NJW 2021, 2437 — Bei Zweifeln über den zuständigen Rechtsweg ist der Rechtsstreit nach § 17a GVG an das zuständige Gericht zu verweisen; eine Rüge der Unzuständigkeit muss vor dem Mündlichkeitstermin erhoben werden.
 
 ## Zielfragen
-
-Das System fragt:
 
 **Was möchten Sie erreichen?**
 
@@ -19,50 +40,41 @@ Das System fragt:
 |-----|------|---------------------|
 | 1 | Anspruch durchsetzen (Zahlung, Unterlassung, Herausgabe) | ZPO / ordentliche Gerichtsbarkeit |
 | 2 | Anspruch abwehren (Klageabweisung, Widerklage) | ZPO |
-| 3 | Verwaltungsentscheidung anfechten (Bescheid, Genehmigung) | VwGO (Anfechtungsklage § 42 Abs. 1 Alt. 1 VwGO) |
-| 4 | Verwaltungsentscheidung erzwingen (Verpflichtungsklage) | VwGO § 42 Abs. 1 Alt. 2 |
+| 3 | Verwaltungsentscheidung anfechten (Bescheid) | VwGO Anfechtungsklage § 42 Abs. 1 Alt. 1 |
+| 4 | Verwaltungsentscheidung erzwingen | VwGO Verpflichtungsklage § 42 Abs. 1 Alt. 2 |
 | 5 | Sozialleistung durchsetzen oder anfechten | SGG |
-| 6 | Steuerbescheid anfechten | FGO |
-| 7 | Strafanzeige erstatten / Strafverfolgung initiieren | StPO / Staatsanwaltschaft |
-| 8 | Verfassungsbeschwerde erheben | BVerfGG § 90 |
-| 9 | EuGH-Vorabentscheidung anregen | Art. 267 AEUV |
-| 10 | Einstweiligen Rechtsschutz beantragen | § 935 ff. ZPO / § 80 Abs. 5 VwGO / § 86b SGG |
-| 11 | Familienrechtliche Entscheidung (Sorge, Unterhalt, Scheidung) | FamFG |
-| 12 | Sonstiges / unklar | → Rückfragen |
+| 6 | Steuerbescheid anfechten | FGO (Einspruch → Klage) |
+| 7 | Strafanzeige erstatten | StPO / Staatsanwaltschaft |
+| 8 | Verfassungsbeschwerde erheben | BVerfGG § 90 (Erschöpfung Rechtsweg) |
+| 9 | Einstweiligen Rechtsschutz | §§ 935/940 ZPO / § 80 Abs. 5 VwGO |
+| 10 | Familiensache (Sorge, Unterhalt, Scheidung) | FamFG |
 
-## Rechtsweg-Abgrenzung (Überblick)
+## Rechtsweg-Entscheidungsbaum
 
-**Ordentliche Gerichtsbarkeit (ZPO):** Zivilrecht (BGB, HGB, WEG), Privatrecht allgemein. Klageart: allgemeine Leistungsklage, Feststellungsklage, Gestaltungsklage.
-
-**Verwaltungsgerichtsbarkeit (VwGO):** Öffentliches Recht, Verwaltungsakte, Normerlass (§ 47 VwGO). Abgrenzung Verwaltungsakt/Realakt/öffentlich-rechtlicher Vertrag beachten.
-
-**Sozialgerichtsbarkeit (SGG):** Sozialversicherung, SGB I–XII, AsylbLG. Widerspruchspflicht (§§ 83 ff. SGG).
-
-**Finanzgerichtsbarkeit (FGO):** Steuer- und Zollrecht. Einspruch vor Klage (§ 44 FGO).
-
-**Strafgerichtsbarkeit (StPO):** Nur staatliche Strafverfolgung. Kein privatrechtlicher Anspruch hier — ggf. Nebenklage.
-
-**BVerfG:** Grundrechtsverletzung durch staatliche Gewalt, Erschöpfung des Rechtswegs (§ 90 Abs. 2 BVerfGG).
+```
+Ist eine Behörde beteiligt?
+├─ Ja → Handlung hoheitlich?
+│       ├─ Ja → VwGO / SGG / FGO (je nach Sachgebiet)
+│       └─ Nein → ordentliche Gerichtsbarkeit (Fiskusprivileg ausnahmsweise)
+└─ Nein → ZPO (ordentliche Gerichtsbarkeit)
+          ├─ Schiedsklausel vorhanden? → §§ 1025 ff. ZPO
+          └─ Arbeitssache? → ArbGG; Familiensache? → FamFG
+```
 
 ## Warnmechanik
 
 Das System warnt bei folgenden Konstellationen:
+- Nutzer nennt Ziel im Zivilrecht, Sachverhalt klingt nach öffentlichem Recht: Hinweis auf VwGO
+- Nutzer möchte Strafanzeige, aber Sachverhalt betrifft nur Zivilrecht: kein Straftatbestand erkennbar
+- Vorverfahren (Widerspruch) noch nicht durchgeführt: Klage unzulässig (§ 68 VwGO)
 
-- Nutzer nennt Ziel im Zivilrecht, Sachverhalt klingt nach öffentlichem Recht (z. B. Baugenehmigung): Hinweis auf VwGO.
-- Nutzer möchte Strafanzeige, aber Sachverhalt betrifft nur Zivilrecht (Vertragsstreit): Hinweis auf fehlende Strafbarkeit im Zivilrecht.
-- Mehrere Rechtswege möglich (z. B. Presserecht: Unterlassung ZPO, Gegendarstellungsanspruch VwGO bei öffentlich-rechtlichem Rundfunk): Hinweis auf Wahlmöglichkeit.
-- Rechtsweg noch nicht erschöpft: Hinweis auf Widerspruchspflicht oder Vorverfahren.
+**Das System trifft keine verbindliche Rechtswegentscheidung.** Die endgültige Bestimmung obliegt dem Gericht (§ 17a GVG).
 
-**Das System trifft keine verbindliche Rechtswegentscheidung.** Es liefert einen Orientierungshinweis. Die endgültige Bestimmung des Rechtswegs obliegt dem zuständigen Gericht (§ 17a GVG).
+## Kommentarliteratur
 
-## Ausgabe
-
-Strukturierter Hinweis:
-- Erkanntes Ziel
-- Wahrscheinlicher Rechtsweg
-- Klageart (soweit bestimmbar)
-- Erforderliche Voraussetzungen (Widerspruch, Frist, Beschwer)
-- Nächster Skill im Workflow
+- Kopp/Schenke VwGO § 40 (Rechtsweg öffentliches Recht)
+- Zöller ZPO § 13 GVG (ordentlicher Rechtsweg)
+- Baumbach/Lauterbach ZPO §§ 17/17a GVG (Rechtswegverweisung)
 
 ---
 

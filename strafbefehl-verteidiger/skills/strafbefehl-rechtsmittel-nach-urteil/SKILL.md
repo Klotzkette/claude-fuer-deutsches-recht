@@ -1,45 +1,92 @@
 ---
 name: strafbefehl-rechtsmittel-nach-urteil
-description: "Prüft nach Hauptverhandlung Berufung, Revision, Annahmeberufung und Kostenrisiko."
+description: "Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgründe § 338 StPO. Beschränkung auf Strafe."
 ---
 
-# Rechtsmittel nach Urteil
+# Rechtsmittel nach Urteil im Strafbefehlsverfahren
 
-## Zweck
+## Triage zu Beginn
 
-Dieser Skill gehört zum freistehenden Plugin **Strafbefehl-Verteidiger**. Er arbeitet ohne andere Plugins, ohne externe Agenten und ohne vorausgesetzte Kanzleisoftware. Wenn Unterlagen, Register oder Schnittstellen fehlen, fragt er gezielt nach oder erzeugt auf Wunsch klar markierte Simulationsdaten.
+1. **Welches Gericht hat verurteilt?** — Amtsgericht (Strafrichter): Berufung zum LG oder Revision zum OLG (§§ 312, 335 StPO); LG: nur Revision zum BGH.
+2. **Was soll angegriffen werden?** — Tatsachenfeststellung → Berufung; Rechtsfehler → Revision; Strafmass → wahlweise beides.
+3. **Frist:** Berufung und Revision: 1 Woche ab Urteilsverkuendung, schriftlich oder protokollarisch (§§ 314, 341 StPO).
+4. **Revision oder Berufung?** — Berufung ist neue Verhandlung in der Tatsache; Revision prueft nur Rechtsfehler. Sprung-Revision (§ 335 StPO) direkt vom AG zum OLG moeglich.
+5. **Beschraenkung auf Strafmass?** — Berufung kann auf Rechtsfolgen beschraenkt werden wenn Schuldfeststellung unstreitig ist.
 
-## Wann verwenden
+## Zentrale Normen
 
-- wenn der konkrete Arbeitsschritt im Mandat ansteht
-- wenn eine Frist, ein Beweisproblem, eine Rechtsfolge oder ein Mandantenrisiko nicht sauber sortiert ist
-- wenn aus unstrukturierten Uploads ein prüfbarer anwaltlicher Arbeitsstand werden soll
+- **§ 312 StPO** — Berufung gegen Urteile des Strafrichters und Schoeffengerichts; Frist 1 Woche
+- **§ 313 StPO** — Annahme-Berufung bei Urteilen mit Geldstrafe bis 15 Tagessaetze oder Freiheitsstrafe bis 3 Monate; LG kann Annahme verweigern
+- **§ 314 StPO** — Einlegung der Berufung: schriftlich oder zu Protokoll
+- **§ 317 StPO** — Berufungsbegründung (keine Pflicht aber empfehlenswert)
+- **§ 333 StPO** — Revision gegen Urteile
+- **§ 335 StPO** — Sprung-Revision direkt zum OLG
+- **§ 341 StPO** — Einlegung der Revision: 1 Woche, schriftlich oder zu Protokoll
+- **§ 344 StPO** — Revisionsbegründung: Erklaerung, welche gesetzlichen Vorschriften verletzt sind
+- **§ 345 StPO** — Revisionsbegründungsfrist: 1 Monat nach Zustellung der Urteilsgruende
+- **§ 338 StPO** — Absolute Revisionsgründe (z.B. Verletzung letztes Wort, Verletzung gesetzlicher Richter)
 
-## Arbeitsweise
+## Aktuelle Rechtsprechung
 
-1. Urteilsformel, Gründe, Zustellung, Rechtsmittelbelehrung und Frist erfassen.
-2. Berufung, Revision, Annahmeberufung und Beschränkung auf Rechtsfolgen prüfen.
-3. Mandant über Kosten, Risiko und Zeitplan verständlich informieren.
-4. Ausgabe: Rechtsmittelampel.
+- BGH, Beschl. v. 21.06.2022 - 4 StR 152/22, NJW 2022, 3082 — Revisionsgericht prueft nur ob Rechtsfehler vorliegt; Tatsachenwuerdigung des Tatgerichts kann nur auf Denkgesetze und Erfahrungssaetze hin kontrolliert werden.
+- BGH, Urt. v. 15.02.2022 - 3 StR 407/21, NStZ 2022, 372 — Absoluter Revisionsgrund nach § 338 Nr. 8 StPO (Verletzung letztes Wort) besteht wenn Angeklagter nicht Gelegenheit hatte, sich zuletzt zu aeussern; Protokollberichtigung nicht moeglich.
+- BGH, Beschl. v. 20.04.2021 - 4 StR 76/21, NStZ 2021, 442 — Revisionsbegründung muss Angriffspunkte konkret bezeichnen; Pauschalruege genuegt nicht fuer Sachrueuge.
+- OLG Celle, Beschl. v. 18.07.2022 - 3 Ss 20/22, NStZ-RR 2022, 319 — Annahme-Berufung nach § 313 StPO bei Geldstrafe bis 15 Tagessaetze erfordert hinreichende Erfolgsaussichten; Annahmeversagung ist mit weiterer Beschwerde nicht anfechtbar.
 
-## Rückfragen, wenn unklar
+## Kommentarliteratur
 
-- Welche Frist läuft und wie ist die Zustellung belegt?
-- Welche Unterlagen liegen wirklich vor und welche fehlen?
-- Welche Mandantenziele sind zwingend, welche nur wünschenswert?
-- Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+- Meyer-Gossner/Schmitt StPO §§ 312-332 (Berufung, vollstaendig)
+- Meyer-Gossner/Schmitt StPO §§ 333-358 (Revision, vollstaendig)
+- Meyer-Gossner/Schmitt StPO § 338 Rn. 1-60 (absolute Revisionsgründe)
+- Fischer StGB § 46 Rn. 1-100 (Strafzumessung als Revisionsgegenstand)
 
-## Ausgabeformat
+## Entscheidungsbaum Rechtsmittelwahl
 
-- Kurzlage mit Ampel
-- Fristen- oder Prüftabelle
-- konkrete nächste Schritte
-- Entwurf, Fragenkatalog oder Mandantenhinweis, soweit passend
-- offene Annahmen, Quellenstand und Stopper
+```
+Urteil des Amtsgerichts:
+├─ Tatsachen falsch festgestellt? → Berufung (§ 312 StPO)
+│   ├─ Nur Strafmass zu hoch? → Beschraenkte Berufung auf Rechtsfolgen
+│   └─ Vollstaendige Neuverhandlung gewollt? → Unbeschraenkte Berufung
+├─ Rechtsfehler (Verfahrens- oder Sachfehler)? → Revision (§ 333 StPO)
+│   ├─ Absoluter Revisionsgrund (§ 338 StPO)? → Revision fast immer erfolgversprechend
+│   └─ Sachruege (Rechtsfehler bei Strafzumessung, Tatbestand)? → Revision mit Begruendung
+└─ Sprung-Revision (§ 335 StPO)?
+    └─ Wenn Berufung wenig Aussicht und Rechtsfrage klar → direkt zu OLG
+
+Fristenkontrolle:
+□ 1 Woche Rechtsmittelfrist (§§ 314, 341 StPO)
+□ 1 Monat Revisionsbegründungsfrist ab Urteilszustellung (§ 345 StPO)
+□ Fristverlängerung moeglich?
+```
+
+## Output-Template Berufungsschrift
+
+```
+An das Landgericht [ORT]
+— Berufungskammer —
+[Anschrift]
+
+In der Strafsache gegen [NAME]
+Az. AG: [AKTENZEICHEN]
+
+Berufung nach § 312 StPO
+
+Namens des Angeklagten lege ich gegen das Urteil des Amtsgerichts
+[ORT] vom [DATUM] frist- und formgerecht
+
+Berufung
+
+ein. Die Berufung wird [auf die Rechtsfolgen beschraenkt /
+vollumfaenglich] erhoben.
+
+Ich bitte um Mitteilung des Termins zur Berufungsverhandlung.
+
+Mit freundlichen Gruessen [KANZLEI]
+```
 
 ## Harte Leitplanken
 
-- Keine erfundenen Fundstellen, Aktenzeichen oder Gerichtsentscheidungen.
-- Keine echten Mandatsgeheimnisse in ungeprüfte Cloud- oder KI-Umgebungen.
-- Keine Erfolgsgarantie.
-- Bei Fristen, Rechtsmitteln und Aussageverhalten immer anwaltliche Endkontrolle markieren.
+- Rechtsmittelfrist 1 Woche — sofort nach Urteil eintragen, keine Ausnahmen.
+- Revisionsbegründungsfrist 1 Monat — nach Zustellung der Urteilsgruende; nicht ab Verkuendung.
+- Annahme-Berufung (§ 313 StPO): Erfolgsaussichten darlegen.
+- Anwaltliche Endkontrolle vor Einlegung und vor Begründung.

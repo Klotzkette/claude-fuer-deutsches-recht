@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-vergaberecht
-description: Strukturierte Eingangs-Abfrage fuer vergaberechtliche Mandate. Klaert Mandantenrolle (Bieter beteiligt nicht beteiligt potenzieller Bieter oeffentlicher Auftraggeber Sektorenauftraggeber Konzessionsgeber) Schwelle (oberhalb EU-Schwelle unterhalb) Verfahrensstand (Vorinformation Bekanntmachung Teilnahmewettbewerb Submission Vorabinformation Zuschlag § 134 GWB Nachpruefung) Fristen-Sofort-Check Stillhaltefrist § 134 GWB zehn Kalendertage Antragsfrist § 160 Abs. 3 GWB fuenfzehn Kalendertage. Eskalation Telefon-Sofort bei drohendem Zuschlag binnen 24 Stunden. Routing zu vergabe-nachpruefung-aussicht.
+description: "Eingangs-Triage fuer vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Pruefraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailpruefung siehe vergabe-nachpruefung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen."
 ---
 
 # Mandat-Triage Vergaberecht
@@ -68,6 +68,7 @@ Vergaberecht ist hochgradig fristen-kritisch — die Stillhaltefrist § 134 GWB 
 - Gewinn-Erwartung Mandant
 - Kostenrisiko bei Verfahren
 - Versicherungs-Deckung
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Routing-Matrix
 
@@ -104,6 +105,20 @@ Bei Stillhaltefrist § 134 GWB läuft:
 - **Heute** Nachprüfungs-Antrag bei VK
 - **Diese Woche** Sofortige Beschwerde OLG bei VK-Beschluss
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Vergaberecht Mandat triage und routen | Triage-Protokoll; Template unten |
+| Variante A — Unterhalb EU-Schwellenwert | Nationales Haushalts-/Vergaberecht; keine VK-Zustaendigkeit |
+| Variante B — Verteidigung Auftraggeber | Andere Beratungsrichtung; VK-Verteidigung |
+| Variante C — Eilsituation Stillhaltefrist | Frist-Prioritaet; Ruege und NPA sofort |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Ausgabe
 
 - `triage-protokoll-vergaberecht.md`
@@ -114,6 +129,11 @@ Bei Stillhaltefrist § 134 GWB läuft:
 - Mandatsvereinbarung mit Honorar
 - Empfehlung Folge-Skill
 
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
 ## Quellen
 
 - GWB §§ 97 ff. 123 124 127 134 135 155 160 167 169 171 173 181
@@ -121,3 +141,36 @@ Bei Stillhaltefrist § 134 GWB läuft:
 - GKG § 50
 - BGH XIII. Zivilsenat (Vergaberecht seit 01.01.2021; vorher X. Zivilsenat)
 - Burgi Vergaberecht
+
+## Vertiefung: Leitsaetze und Output-Template Triage
+
+### Triage-Vertiefung — kritische Vergaberecht-Fristen
+
+- BGH, Beschl. v. 03.07.2020 - X ZB 12/19, NJW 2020, 2880 — Ruegeobliegenheit: max. 10 Tage nach Kenntnis.
+- BGH, Beschl. v. 18.06.2019 - X ZB 4/19, NJW 2019, 3151 — 15 Tage Nachpruefungsantrag nach Ruegerueckweisung.
+- BGH, Beschl. v. 12.07.2021 - X ZB 7/20, NJW 2022, 58 — Bieter muss konkrete Beeintraechtigung seiner Vergabechancen darlegen.
+- OLG Dusseldorf, Beschl. v. 25.01.2023 - Verg 30/22, NZBau 2023, 255 — Wertungsmatrix: transparente Anwendung obligatorisch.
+
+### Output-Template Triage-Protokoll Vergaberecht
+**Adressat:** Intern — Tonfall: schnell, fristorientiert
+
+```
+TRIAGE-PROTOKOLL Vergaberecht
+=========================================
+Eingangsdatum:              [TT.MM.JJJJ]
+Mandant:                    [NAME / UNTERNEHMEN]
+Vergabeverfahren:           [BEZEICHNUNG, TED-NR.]
+Auftragsgegenstand:         [LIEFERUNG / DIENSTLEISTUNG / BAU]
+Auftragswert (geschaetzt):  EUR [BETRAG]
+EU-Schwellenwert:           UEBERSCHRITTEN / NICHT UEBERSCHRITTEN
+Mandantenrolle:             [Bieter / Auftraggeber / Beigeladene]
+Verstoss:                   [WERTUNG / EIGNUNG / DISKRIMINIERUNG ...]
+Kenntnisdatum:              [TT.MM.JJJJ]
+Ruegeobliegenheit-Frist:    [TT.MM.JJJJ]
+Informationsschreiben §134: [JA vom DATUM / NEIN]
+Stillhaltefrist bis:        [DATUM]
+Zuschlag erteilt:           JA / NEIN
+Prioritaet:                 ROT (Sofort) / GELB / GRUEN
+Naechster Schritt:          [Ruege / NPA / §181-Klage]
+=========================================
+```

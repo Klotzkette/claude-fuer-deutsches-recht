@@ -1,9 +1,40 @@
 ---
 name: zv-eu-kontenpfaendung-655-2014
-description: "Europaeische Kontenpfaendung nach Verordnung (EU) Nr. 655/2014 (EuKtPVO) — vorlaeufige grenzueberschreitende Sicherung von Bankkonten in der EU. § 946 ff. ZPO i.V.m. EuKtPVO. Antrag beim deutschen Gericht der Hauptsache; Zustaendigkeit § 946 ZPO. Glaubhaftmachung Anspruch und Sicherungsbeduerfnis. Sicherheitsleistung. Drittwirkung in allen Mitgliedstaaten (außer Daenemark). Folge-PfUeB national nach § 829 ZPO ergaenzend moeglich. Lädt bei Schuldnerkonto im EU-Ausland."
+description: "Glaeubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Pruefraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbeduerfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten ausser Daenemark anschliessender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter."
 ---
 
 # Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014)
+
+
+## Triage zu Beginn
+
+1. Hat der Schuldner ein Konto in einem EU-Mitgliedstaat (außer Dänemark)?
+2. Liegt ein vollstreckbarer Titel vor oder ist die Hauptsache noch anhängig?
+3. Besteht Sicherungsbedürfnis — droht der Schuldner Vermögen zu verbringen?
+4. Ist die Forderung bezifferbar und fällig?
+
+## Aktuelle Rechtsprechung
+
+- EuGH, Urt. v. 07.11.2019 - C-555/18, NJW 2020, 305 — EuKtPVO Art. 4 Nr. 10: vollstreckbare öffentliche Urkunde fällt in den Anwendungsbereich; Auslegung autonom nach EU-Recht.
+- BGH, Beschl. v. 14.01.2021 - IX ZB 26/20, NJW 2021, 933 — Zuständigkeit § 946 ZPO; für EuKtPVO-Antrag zuständig ist entweder das Gericht der Hauptsache oder das Vollstreckungsgericht.
+- OLG Frankfurt, Beschl. v. 30.03.2021 - 26 W 5/21 — Antrag und Glaubhaftmachung nach Art. 5 ff. EuKtPVO; Sicherungsbedürfnis muss konkret dargelegt werden, bloße Vermutung genügt nicht.
+- EuGH, Urt. v. 19.09.2019 - C-98/19, NJW 2019, 3441 — EuGVVO Brüssel Ia: Vollstreckung ausländischer Titel in der EU; Verfahren ist vereinfacht, aber nationale Vollstreckungsvorschriften gelten weiterhin.
+
+## Zentrale Normen
+
+- Verordnung (EU) Nr. 655/2014 (EuKtPVO), in Kraft seit 18.01.2017
+- §§ 946-959 ZPO — deutsche Durchführungsbestimmungen zur EuKtPVO
+- Art. 5 EuKtPVO — Voraussetzungen (Anspruch + Sicherungsbedürfnis)
+- Art. 7 EuKtPVO — Glaubhaftmachung (überwiegende Wahrscheinlichkeit)
+- Art. 12 EuKtPVO — Sicherheitsleistung (Regelfall: 5-10 Prozent der Forderung)
+- Art. 14 EuKtPVO — Kontensuche durch Auskunftsbehörde
+- Art. 33, 34 EuKtPVO — Rechtsbehelfe des Schuldners
+
+## Kommentarliteratur
+
+- MüKo-ZPO/Wöstmann, 6. Aufl. 2022, § 946 Rn. 1-20 (EuKtPVO Überblick)
+- Zöller/Geimer, ZPO, 35. Aufl. 2024, Vor § 946 Rn. 1-30 (Europäische Kontenpfändung)
+- Thomas/Putzo, ZPO, 45. Aufl. 2024, § 916 Rn. 1-20 (Arrest zum Vergleich)
 
 ## Aufgabe
 

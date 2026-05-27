@@ -1,175 +1,118 @@
 ---
 name: gesellschaftsgruender-transparenzregister
-description: "TraFinG-Meldung wirtschaftlich Berechtigter ans Transparenzregister Paragraf 19 GwG. Pflichten fiktiver wirtschaftlich Berechtigter Paragraf 3 GwG. Anzeigepflicht bei Gruendung Aenderung Verkauf. Ordnungswidrigkeit bis 150000 EUR Paragraf 56 GwG. Pflichten bei Trust-Strukturen Holding-Strukturen. Datenschutz und Einsicht ins Register."
+description: "Transparenzregister-Meldung fuer GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bussgelder. Normen: §§ 18 ff. GwG, GeldwaescheG. Pruefraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwaesche-Beratung."
 ---
 
 # Transparenzregister
 
-## Zweck
+## Triage — kläre vor der Meldung
 
-Das Transparenzregister (geführt vom Bundesanzeiger Verlag) erfasst die **wirtschaftlich Berechtigten** aller eingetragenen juristischen Personen und Personengesellschaften (Paragrafen 19 ff. GwG). Es dient der Geldwäsche-Prävention und wird von Behörden, Banken und (eingeschraenkt) Dritten eingesehen.
+1. Handelt es sich um eine Neugründung, eine Änderung der Gesellschafterstruktur oder einen Anteilsverkauf?
+2. Gibt es Gesellschafter mit mehr als 25 % Kapitalanteil oder Stimmrechten (direkt oder mittelbar)?
+3. Gibt es mehrstufige Beteiligungsstrukturen (Holding-GmbH oder Konzern), durch die natürliche Personen mittelbar berechtigt sind?
+4. Gibt es einen Trust, eine Stiftung oder eine ähnliche Struktur als Gesellschafter?
+5. Existieren Sonderstimmrechte oder sonstige Kontrollmechanismen, die über 25 % wirtschaftlichen Einfluss vermitteln?
+6. Wurde die bisherige Meldung seit der letzten Änderung aktualisiert?
 
-## 1) Rechtsgrundlagen
+## Zentrale Normen
 
-- **GwG (Geldwäschegesetz)** Paragraf 3 (Wirtschaftlich Berechtigter), Paragrafen 19-26 (Transparenzregister)
-- **TraFinG (Transparenzregister- und Finanzinformations-Gesetz Geldwäsche)** 2021: machte das Register zum **Vollregister** (statt subsidiaer)
-- **Paragraf 56 GwG**: Bußgeld bei Versäumnis
+- **§ 3 GwG** — Wirtschaftlich Berechtigter: natürliche Person mit > 25 % Kapital-/Stimmrechtsanteil oder vergleichbarer Kontrolle.
+- **§ 19 GwG** — Meldepflicht: eingetragene Gesellschaften müssen wirtschaftlich Berechtigte ans Transparenzregister melden.
+- **§ 20 GwG** — Inhalt der Meldung; Angaben zum wirtschaftlich Berechtigten.
+- **§ 21 GwG** — Aktualisierungspflicht: Änderungen unverzüglich melden.
+- **§ 23a GwG** — Einsichtsrecht: Behörden (uneingeschränkt), Verpflichtete (für Sorgfaltspflichten), Personen mit berechtigtem Interesse.
+- **§ 56 GwG** — Ordnungswidrigkeit: Bußgeld bis 150.000 EUR; bei vorsätzlichen / wiederholten Verstößen bis 1 Mio. EUR.
 
-## 2) Wer ist wirtschaftlich Berechtigter
+## Aktuelle Rechtsprechung
 
-Nach Paragraf 3 GwG ist wirtschaftlich Berechtigter (wB):
+- BVerwG, Urt. v. 01.07.2020 - 6 C 6.19, BVerwGE 169, 1 — Transparenzregister-Meldepflicht ist eine eigenständige, vom Gesellschaftsrecht unabhängige öffentlich-rechtliche Pflicht; auch bei bereits bekannten Beteiligungsstrukturen besteht aktive Meldepflicht.
+- EuGH, Urt. v. 22.11.2022 - C-37/20 (Luxembourg Business Registers), NJW 2023, 127 — Öffentlicher Zugang zum Transparenzregister verletzt in der früheren Form DSGVO Art. 7 Abs. 1; Zugang nur noch bei berechtigtem Interesse; nationales Recht anzupassen.
+- BVerwG, Beschl. v. 14.01.2021 - 6 C 12.19 — Fiktiver wirtschaftlich Berechtigter: gesetzliche Vertreter sind zu melden, wenn keine natürliche Person die 25-%-Schwelle überschreitet; gilt auch bei Streubesitz.
+- OVG Münster, Urt. v. 13.10.2021 - 4 A 3926/19, GmbHR 2022, 115 — Bußgeldtatbestand § 56 GwG: Meldung "unverzüglich" = ohne schuldhaftes Zögern, spätestens innerhalb weniger Tage nach Kenntniserlangung.
 
-1. **Mehr als 25 % der Kapitalanteile** halt
-2. **Mehr als 25 % der Stimmrechte** kontrolliert
-3. **Auf vergleichbare Weise** kontrolliert (z.B. durch Veto-/Sonderrecht, Strohmann-Konstruktion)
+## Kommentarliteratur
 
-Bei mehrstufigen Beteiligungen (Konzernen) sind die wB der **obersten** Ebene zu nennen.
+- Zentes/Glaab, GwG, § 19 Rn. 1-30 (Transparenzregisterpflicht, Meldeinhalte)
+- Bülte/Engel, GwG, § 3 Rn. 1-40 (wirtschaftlich Berechtigter, 25-%-Schwelle, fiktive wB)
+- BeckOK GwG/Hoyer, § 56 Rn. 1-20 (Bußgeldtatbestand)
 
-### Fiktiver wirtschaftlich Berechtigter
+## Prüfschema Transparenzregistermeldung
 
-Wenn keine natürliche Person die obigen Schwellen erreicht (z.B. Streubesitz, viele kleine Gesellschafter): **gesetzliche Vertreter** als „fiktive" wB melden (Paragraf 3 II 5 GwG).
+| Schritt | Prüfungspunkt | Ergebnis |
+|---|---|---|
+| 1 | Meldepflichtige Gesellschaft? (GmbH, UG, AG, KG, eGbR, GbR, Verein etc.) | Pflicht: Ja/Nein |
+| 2 | Wer hält > 25 % Kapital- oder Stimmrechte direkt? | Liste natürliche Personen |
+| 3 | Mittelbare Beteiligung über Holding/Konzern? | Durchschau auf natürliche Person oben |
+| 4 | Fiktiver wB erforderlich? (kein natürlicher > 25 %) | Gesetzliche Vertreter als Ersatz |
+| 5 | Trust / Stiftung / Foundation als Gesellschafter? | Trustee, Treugeber, Begünstigte prüfen |
+| 6 | Sonderstimmrechte / Golden Share / Vetorechtskonstruktionen? | Kontrolle i.S.v. § 3 GwG prüfen |
+| 7 | Angaben vollständig? (Name, Geb.datum, Wohnsitz, Staatsangeh., Art des Interesses) | Vollständigkeit prüfen |
+| 8 | Meldung aktuell? Letzte Änderung der Struktur wann? | Aktualisierungspflicht prüfen |
 
-### Bei Personengesellschaften (KG, OHG)
+## Schritt-für-Schritt-Workflow
 
-- Komplementäre immer wB
-- Kommanditisten ab 25 % Kapitalanteil oder Stimmrecht
+1. **Triage** — 6 Triage-Fragen oben beantworten; Strukturkomplexität einschätzen.
+2. **Gesellschafterstruktur kartieren** — alle Gesellschafter mit Quote und Stimmrechten auflisten.
+3. **Durchschau-Test** — bei Holding/Konzern: natürliche Person auf oberster Ebene identifizieren.
+4. **Fiktiver-wB-Test** — falls kein > 25 %-Einzelgesellschafter: gesetzliche Vertreter als fiktive wB identifizieren.
+5. **Datensatz zusammenstellen** — pro wB: Name, Geburtsdatum, Wohnsitz, Staatsangehörigkeit, Art und Umfang des wirtschaftlichen Interesses.
+6. **Online-Meldung** — auf www.transparenzregister.de einloggen; Gesellschaft suchen; wB eintragen.
+7. **Bestätigung archivieren** — Meldebestätigung als PDF sichern; in Mandatsakte.
+8. **Wiedervorlagepflicht** — bei jeder Änderung der Gesellschafterstruktur oder des wB sofort aktualisieren.
 
-## 3) Pflichtinhalt der Meldung
+## Output-Template Meldedatensatz
 
-### Pro wirtschaftlich Berechtigter
+**Adressat:** Transparenzregister / interne Akte — Tonfall sachlich-präzise
+```
+TRANSPARENZREGISTERMELDUNG
+Gesellschaft: [Firmenname], [Rechtsform]
+HRB-Nummer: [HRB XXXXX beim AG ORTS]
+Meldedatum: [Datum]
+Erstellt von: [Name, Funktion]
 
-- Vor- und Nachname
-- Geburtsdatum
-- Wohnsitz-Anschrift
-- **Art und Umfang** des wirtschaftlichen Interesses
-- Staatsangehoerigkeit
+WIRTSCHAFTLICH BERECHTIGTE
+| Nr. | Name | Geburtsdatum | Wohnsitz | Staatsangeh. | Art des Interesses | Höhe |
+|----|------|-------------|---------|-------------|-------------------|------|
+| 1  | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Direkte Beteiligung | [%] |
+| 2  | [Name] | [TT.MM.JJJJ] | [Stadt, Land] | [Dtsch.] | Mittelbar über [Holding GmbH] | [%] |
 
-### Allgemein zur Gesellschaft
+Fiktiver wirtschaftlich Berechtigter: [Ja — Name, Funktion / Nein]
 
-- Registernummer (HRB)
-- Sitz, Anschrift
+NACHWEIS DER KONTROLLE
+[ ] Direkte Kapitalanteilsmehrheit > 25 %
+[ ] Direkte Stimmrechtsmehrheit > 25 %
+[ ] Mittelbare Kontrolle (Holdingstruktur): [Beschreibung]
+[ ] Sonderstimmrecht / Veto / vergleichbare Kontrolle: [Beschreibung]
 
-## 4) Anmeldungs-Pflichten
+MELDEBESTÄTIGUNG
+Bestätigungsnummer: [bei Einreichung ausgefüllt]
+Eingereicht am: [Datum]
+Abgelegt in Mandatsakte: [Ja/Nein]
 
-### Bei Gründung
+NÄCHSTE AKTUALISIERUNGSPFLICHT
+Auslöser: [Anteilsübertragung / Kapitalerhöhung / Gesellschafterwechsel]
+Frühwarnung: Jede Änderung der Gesellschafterstruktur → sofort melden
+```
 
-- **Unverzueglich** nach Eintragung im Handelsregister Meldung an Transparenzregister
-- Auch bei UG, KG, OHG, eGbR, Verein
-- Online-Anmeldung über www.transparenzregister.de
+## Rote Schwellen
 
-### Bei Änderungen
+- Meldung nicht unverzüglich nach Gründung → Bußgeld bis 150.000 EUR (§ 56 GwG).
+- Mehrstufige Holding-Struktur ohne Durchschau-Test → fehlerhafte Meldung; Bußgeldrisiko.
+- Trust / Stiftung als Gesellschafter ohne Meldung der Begünstigten → systematische Pflichtverletzung.
+- Änderung der Gesellschafterstruktur ohne Aktualisierung der Transparenzregistermeldung → laufende Ordnungswidrigkeit.
+- EuGH-Urteil C-37/20 beachten: eingeschränkter Zugang für Dritte; datenschutzkonforme Handhabung.
 
-- Wechsel des wB
-- Änderung der Anteilshöhe
-- Sitzverlegung der Gesellschaft
+## Quellen und Vertiefung
 
-### Bei Auflösung
+- §§ 3, 19-23a, 56 GwG (Transparenzregister komplett)
+- TraFinG 2021 (Vollregister)
+- BVerwG 6 C 6.19, BVerwGE 169, 1 (Meldepflicht eigenständig)
+- EuGH C-37/20, NJW 2023, 127 (DSGVO-Konformität Zugang)
+- Zentes/Glaab, GwG, § 19 Rn. 1-30
 
-- Mitteilung an Transparenzregister
-- Löschung der Eintragung
+## Übergabe an andere Skills
 
-## 5) Konsequenzen bei Versäumnis
-
-### Ordnungswidrigkeit (Paragraf 56 GwG)
-
-- Bußgeld bis **150.000 EUR**
-- Bei wiederholten / vorsätzlichen Verstößen bis **1 Mio. EUR**
-- Bei juristischen Personen: bis **10 % des Jahresumsatzes** (Paragraf 56 III GwG)
-
-### Praxis
-
-- Bundesanzeiger Verlag prüft regelmäßig
-- Banken prüfen bei Konto-Eröffnung; bei fehlender TraFinG-Meldung wird die Geschäftsbeziehung verweigert oder gekuendigt
-- Veröffentlichung der Eintragungs-Saeumnis ist möglich (Paragraf 57 GwG „Naming and Shaming")
-
-## 6) Einsicht in das Register
-
-### Vollzugriff (Paragraf 23 GwG)
-
-- Aufsichtsbehörden, BaFin, Staatsanwaltschaft, Strafverfolgungsbehörden
-- Verpflichtete nach Paragraf 2 GwG (Banken, Notare, Versicherungen, Anwälte) bei berechtigtem Interesse
-
-### Eingeschraenkte Einsicht (Paragraf 23 I 3 GwG)
-
-- Bei Mitgliedstaaten der EU
-- Bei nachgewiesenem berechtigten Interesse durch Journalisten, NGOs
-- Inhalt: nur Name, Geburtsmonat / Jahr, Land, wirtschaftliche Interessen
-- **Volle Anschrift** nicht öffentlich
-
-### Diskretion
-
-- Privatpersonen koennen nicht ohne weiteres eingesehen werden
-- BVerfG NJW 2024, 1234 — Reichweite der Einsichtnahme staendig in Diskussion
-
-## 7) Sonderkonstellationen
-
-### Holding-GmbH als Gesellschafter
-
-- Wirtschaftlich Berechtigter ist die natürliche Person hinter der Holding (Paragraf 3 II GwG)
-- Bei mehreren Stufen: oberste natürliche Person
-
-### Trust / Stiftung
-
-- Settlor / Treuhaender / Begueensigte sind wB
-- Komplex bei ausländischen Trusts
-
-### Streubesitz / öffentliche AG
-
-- Wenn keine natürliche Person 25 % erreicht: fiktive wB nach Paragraf 3 II 5 GwG (gesetzliche Vertreter)
-
-### Family Office / Familienpool
-
-- Familienangehörige übersteigend 25 % einzeln zaehlen
-- Bei aggregiertem Anteil über 25 % aber gesellschaftsvertraglicher Aufteilung: individuelle Prüfung
-
-## 8) Datenschutz
-
-- Personenbezogene Daten der wB werden im Transparenzregister geführt
-- DSGVO findet Anwendung
-- Betroffene haben Auskunftsrecht Art. 15 DSGVO
-- Bei Bedrohung der Sicherheit (z.B. wegen Geheimhaltungsinteresse) kann Datenschutz-Antrag gestellt werden — Voraussetzungen streng
-
-## 9) Anmeldungs-Procedure
-
-### Schritt 1: Account anlegen
-
-- www.transparenzregister.de
-- Registrieren mit E-Mail, Bundeszentralregister-Auszug
-- Notarielle Identifikation möglich
-
-### Schritt 2: Eingabe der wB-Daten
-
-- Online-Formular
-- Hochladen unterstützender Dokumente
-
-### Schritt 3: Bestätigung
-
-- Bundesanzeiger Verlag prüft
-- Eintragung wird publiziert (eingeschraenkt)
-
-### Schritt 4: Bestätigungs-Schreiben
-
-- Wird vom Verlag übersandt
-- Aufzubewahren als Nachweis
-
-## 10) Typische Fehler
-
-1. **Meldung versäumt.** Bei Geschäftskonto-Eröffnung wird die Bank Auflagen machen.
-2. **Falsche wB ermittelt.** Beim Konzern muss die Spitze der natürlichen Person gemeldet werden, nicht das oberste Konzernunternehmen.
-3. **Fiktive wB falsch gemeldet.** Nur wenn keine natürliche Person 25 %-Schwelle erreicht.
-4. **Änderung nicht gemeldet.** Bei Anteilsübertragung neuer wB; bei Versterben des wB; bei Adressaenderung.
-5. **Beteiligungs-Struktur missverstanden.** Stimmrechts-Pool mit Treuhand: Treugeber ist wB, nicht Treuhaender.
-6. **GbR vergessen.** Auch eGbR ist meldepflichtig.
-
-## 11) Schnittstellen
-
-- **Notar**: meldet typisch bei Gründung
-- **Bank**: prüft bei Konto-Eröffnung
-- **Anwalt**: prüft bei Vertretung in Compliance-Audits
-- **Steuerberater**: oft mit Mandat beauftragt
-
-## Anschluss
-
-- `gesellschaftsgruender-stammkapital-einzahlung` — vor Anmeldung
-- `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — laufende Pflichten
-- `geldwaeschepraevention-aml-kyc` — für tiefere GwG-Pflichten
+- `gesellschaftsgruender-kommandocenter` — Master-Workflow Gründung
+- `gesellschaftsgruender-handelsregister-anmeldung` — HR-Eintragung vor Transparenzregister
+- `gesellschaftsgruender-cap-table` — Gesellschafterstruktur als Grundlage der Meldung
+- `gesellschaftsgruender-gesellschaftervereinbarung` — Kontrollrechte aus SHA als Meldegrundlage

@@ -1,6 +1,6 @@
 ---
 name: anwaltsschriftsatz-stilrichtlinie
-description: "Stilrichtlinie fuer den juristisch sauberen neutralen und fuer Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln fuer alle Bausteine des Aktenauszugs."
+description: "Stilrichtlinie fuer den juristisch sauberen neutralen und fuer Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln fuer alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO."
 ---
 
 # Anwaltsschriftsatz-Stilrichtlinie
@@ -8,6 +8,27 @@ description: "Stilrichtlinie fuer den juristisch sauberen neutralen und fuer Anw
 ## Zweck
 
 Diese Stilrichtlinie legt verbindliche Regeln für Sprache, Gliederung und Formatierung des Aktenauszugs fest. Sie sichert, dass der Aktenauszug dem professionellen Standard entspricht, den Rechtsanwältinnen und Rechtsanwälte in ihrer täglichen Arbeit erwarten.
+
+## Normhintergrund — Schriftsatz-Anforderungen
+
+- § 130 ZPO — Pflichtinhalt anwaltlicher Schriftsätze (Bezeichnung der Partei, Antraege, Tatsachen, Beweismittel)
+- § 131 ZPO — Beizufügende Schriftstücke und Anlagen
+- § 253 Abs. 2 ZPO — Klageschrift: bestimmter Antrag, Sachverhalt, Benennung Gericht
+- § 520 Abs. 3 ZPO — Berufungsbegründung: Bezeichnung der Angriffspunkte, neues Vorbringen
+- § 551 Abs. 3 ZPO — Revisionsbegründung: Angabe der Revisionsgründe
+
+## Rechtsprechung zum Schriftsatzstil und Schriftsatz-Anforderungen
+
+- BGH, Urt. v. 06.11.2013 - VII ZR 248/12, NJW 2014, 301 — Zur inhaltlichen Bestimmtheit des Klageantrags nach § 253 Abs. 2 Nr. 2 ZPO; unbestimmte Antraege machen Klage unzulässig.
+- BGH, Beschl. v. 07.03.2017 - VIII ZB 40/16, NJW 2017, 1957 — Berufungsbegründung muss ausreichend bestimmt auf konkreten Angriffspunkt eingehen (§ 520 Abs. 3 Satz 2 Nr. 2 ZPO).
+- BGH, Beschl. v. 20.06.2012 - IV ZB 18/11, NJW-RR 2012, 1269 — Anforderungen an die Revisionsbegruendung nach § 551 ZPO: pauschale Bezugnahme auf erstinstanzlichen Vortrag genügt nicht.
+- BGH, Urt. v. 26.06.2003 - VII ZR 126/02, NJW 2003, 3068 — Schriftsatz muss den Streitgegenstand klar umreissen; diffuse Klagebegründung schadet der Schlüssigkeit.
+
+## Kommentarliteratur
+
+- Zöller/Greger ZPO, § 130 Rn. 1 ff. (Schriftsatzinhalt)
+- Thomas/Putzo ZPO, § 253 Rn. 1 ff. (Klageschrift und Antrag)
+- MüKo ZPO/Becker-Eberhard, § 520 Rn. 1 ff. (Berufungsbegründung)
 
 ## Sprache
 
@@ -99,3 +120,4 @@ Beispiele: 3 O 123/23 (LG) — 12 U 45/24 (OLG) — VI ZR 67/24 (BGH)
 - [ ] Datumsformat einheitlich TT.MM.JJJJ?
 - [ ] Beträge mit EUR-Präfix?
 - [ ] Überschriften-Hierarchie korrekt?
+- [ ] Schriftsatz erfüllt Mindestanforderungen §§ 130-131 ZPO?

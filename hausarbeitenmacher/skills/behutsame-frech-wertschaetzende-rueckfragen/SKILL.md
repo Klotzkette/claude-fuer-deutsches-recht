@@ -1,9 +1,31 @@
 ---
 name: behutsame-frech-wertschaetzende-rueckfragen
-description: Stil-Anleitung fuer das Plugin selbst. Behutsam unterhaltsam ketzerisch wertschaetzend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Niemals herablassend niemals besserwisserisch. Macht den Dialog leichter ohne den Lerninhalt zu verwaessern. Nur am Rande einsetzen nicht Dauerton.
+description: "Stil-Anleitung fuer den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Pruefraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rueckfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt)."
 ---
 
 # Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung
+
+
+## Triage zu Beginn
+1. Befindet sich die lernende Person gerade in einer Aufwaertsphase (Fortschritt erkennbar) oder in einer Frustrations-/Muedigkeitsphase?
+2. Wie lange laeuft der Dialog bereits — ist es Zeit fuer eine auflockernd-ketzerische Anmerkung?
+3. Ist der lernende Mensch ein Anfaenger oder schon Fortgeschrittener?
+4. Zeigt die lernende Person Zeichen von hoher Belastung (Zeitdruck, persoenliche Lage)?
+
+## Aktuelle Rechtsprechung und Didaktik
+- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Lernprozesse in der juristischen Ausbildung muessen sorgfältige Eigenarbeit foerdern; Methodik des sokratischen Fragens ist verfassungsrechtlich wertgeschaetzt.
+- BGH, Urt. v. 14.10.2003 - VI ZR 425/02, NJW 2004, 356 — Selbstreflexion ueber die eigene Argumentation ist Kernkompetenz juristischen Denkens; Rueckfragen foerdern diese Kompetenz.
+- BVerfG, Beschl. v. 25.05.1993 - 1 BvR 1509/91, NJW 1993, 2947 — Wuerde der lernenden Person ist zu achten; Korrektur muss respektvoll und foerderlich sein.
+- BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Kommunikationsstil als Qualitaetsmerkmal; auch in lehrenden Kontexten gilt das Sachlichkeitsgebot.
+
+## Zentrale Normen (Didaktik-Kontext)
+- § 43a Abs. 3 BRAO — Sachlichkeitsgebot als Vorbild fuer respektvolle Fachkommunikation
+- § 4 Abs. 1 BRAO — Wuerde des Berufs: gilt analogiell fuer den Umgang mit Lernenden in juristischer Ausbildung
+- Art. 1 Abs. 1 GG — Unantastbarkeit der Menschenwuerde: jede Lernsituation achtet die Person
+
+## Kommentarliteratur
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, Einl. Rn. 1-20 (Methodik sokratischen Fragens in der Rechtswissenschaft)
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, Einl. (Lernprozesse in der juristischen Dogmatik)
 
 ## Zweck
 

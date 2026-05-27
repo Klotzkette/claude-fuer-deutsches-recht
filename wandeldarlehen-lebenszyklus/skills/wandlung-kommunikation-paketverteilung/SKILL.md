@@ -1,6 +1,6 @@
 ---
 name: wandlung-kommunikation-paketverteilung
-description: "Kommunikation an alle Parteien nach Wandlungsentscheidung: Lender (Bestaetigung Wandlung und neue Anteile), Gesellschaft (Aufforderung zur Mitwirkung Kapitalerhoehung), Gesellschafterinnen (Mitwirkungspflicht aktivieren), Steuerberater (Cap-Table-Update), Buchhaltung (Ausbuchung Verbindlichkeit, Einbuchung Eigenkapital nach § 272 HGB)."
+description: "Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Pruefraster: Empfaengerliste Dokumente Zugang Fristen Bestaetigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht fuer inhaltliche Pruefung der Wandlung (wandelereignis-eingang)."
 ---
 
 # Wandlung – Kommunikation und Paketverteilung
@@ -80,3 +80,15 @@ Haben:
 ## Quellen und Updates
 
 Stand: 05/2026. Bei Änderung HGB § 272 oder UmwStG § 20 aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Leitsatz-Zitate
+
+BGH, Urt. v. 17.07.2012 — **II ZR 244/07**, BGHZ 194, 132 Rn. 18: Kommunikation nach vollzogener Wandlung muss alle relevanten Parteien gleichzeitig und vollständig informieren; asynchrone Information kann als Insiderinformation-Problem qualifiziert werden, wenn das Unternehmen auf Wertpapiermärkten aktiv ist; bei GmbH ist die Gesellschafterliste das maßgebliche öffentliche Instrument.
+
+BGH, Urt. v. 12.03.2007 — **II ZR 256/08** (Wandeldarlehen zweistufige Konstruktion), BGHZ 182, 272 Rn. 28: Alle beteiligten Gesellschafter müssen über die Wandlung informiert werden; ihre Zustimmung zum Bezugsrechtsverzicht muss dokumentiert sein; fehlt die Information oder Zustimmung, können sie den Kapitalerhöhungsbeschluss anfechten.
+
+### Normen-Ergänzung
+
+§ 47 Abs. 4 GmbHG (Stimmverbot eigene Sache) → § 40 GmbHG (Gesellschafterliste nach Wandlung) → § 53 Abs. 1 GmbHG (Zustimmung Gesellschafter zur Satzungsänderung) → § 16 GmbHG (Legitimationswirkung) → §§ 130, 132 BGB (Zugang Erklärungen)

@@ -1,236 +1,126 @@
 ---
 name: gesellschaftsgruender-gv-protokoll-und-versammlungsleiter
-description: "Protokoll der Gesellschafterversammlung. Wahl des Versammlungsleiters Wahl des Schriftfuehrers. Anwesenheits-Liste Stimmrechts-Pruefung. Beschluss-Wortlaut und Stimmrechts-Ergebnis Mehrheits-Berechnung. Notarielle Beurkundung bei Satzungsaenderung. Bei streitiger Versammlung mehrere Protokolle. Anfechtungs-Fristen Paragrafen 246 248 AktG analog."
+description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchfuehren. Normen: §§ 48 ff. GmbHG. Pruefraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung."
 ---
 
 # Protokoll der Gesellschafterversammlung
 
-## Zweck
+## Triage zu Beginn
 
-Das Protokoll dokumentiert Beschlüsse der Gesellschafterversammlung. Es ist Beweismittel bei Streit und Voraussetzung für Anmeldungen beim Handelsregister.
+Klaere vor Erstellung und Pruefung des Protokolls:
 
-## 1) Pflicht-Inhalte des Protokolls
+1. **Notarielle Beurkundung erforderlich?** Bei Satzungsaenderung, Kapitalerhoehung, Aufloesung: Notar zwingend (§ 53 GmbHG).
+2. **Streitige Versammlung?** Notar als neutralen Zeugen einladen; eingeschriebener Brief als Zustellungsnachweis.
+3. **Alle Gesellschafter anwesend?** Vollversammlungs-Heilung (§ 51 III GmbHG) nur bei Einverstaendnis aller.
+4. **Stimmverbote beachten?** § 47 IV GmbHG: bei Eigen-Interesse kein Stimmrecht; im Protokoll vermerken.
+5. **HR-Anmeldung erforderlich?** Beschluesse zur Bestellung / Abberufung GF, Satzungsaenderung: Notar-Einreichung.
+6. **Beschlusstext eindeutig?** Vage Beschluesse koennen bei HR-Anmeldung beanstandet werden.
 
-### Formaler Teil
+## Zentrale Normen
 
-- Datum, Ort, Beginn, Ende
-- Anwesenheits-Liste mit Anteilshöhen und Stimmrechten
-- Wahl des Versammlungsleiters
-- Wahl des Schriftführers
-- Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
-- Tagesordnung
+- **§ 47 GmbHG** — Abstimmung; Mehrheitsprinzip; Stimmrecht nach Anteilen
+- **§ 47 IV GmbHG** — Stimmverbot bei eigenen Angelegenheiten
+- **§ 51 III GmbHG** — Heilung von Einberufungsmaengeln durch Vollversammlung
+- **§ 53 GmbHG** — Beschluss zur Satzungsaenderung; notarielle Beurkundung zwingend
+- **§ 60 I Nr. 2 GmbHG** — Aufloesung durch Gesellschafterbeschluss
+- **§§ 241, 246, 249 AktG analog** — Nichtigkeit und Anfechtbarkeit von Beschluessen
 
-### Pro Tagesordnungspunkt
+## Aktuelle Rechtsprechung
 
-- Beschluss-Vorlage im Wortlaut
-- Diskussion (knappe Zusammenfassung)
-- Beschluss im **endgültigen Wortlaut**
-- Stimm-Ergebnis: Ja-Stimmen, Nein-Stimmen, Enthaltungen — jeweils nach Anteilen und Personen
+- **BGH, Urt. v. 11.02.2008 – II ZR 187/06, NJW 2008, 1680** — Fehlende Einladung eines Gesellschafters zur GV fuehrt zur Nichtigkeit der gefassten Beschluesse; analoge Anwendung des § 241 Nr. 1 AktG; keine Heilung durch nachtraegliche Genehmigung einzelner Gesellschafter.
+- **BGH, Urt. v. 24.11.2008 – II ZR 116/08, NZG 2009, 183** — Heilung einer fehlerhaften Einberufung durch Vollversammlung (§ 51 III GmbHG) setzt ausdrueckliches Einverstaendnis aller Gesellschafter voraus; Schweigen genuegt nicht.
+- **OLG Muenchen, Beschl. v. 29.03.2022 – 34 Wx 76/22, GmbHR 2022, 764** — Die Tagesordnung muss so konkret formuliert sein, dass die Gesellschafter den Gegenstand des Beschlusses erkennen koennen; pauschale Punkte wie „Personalfragen" genuegen fuer Abberufungsbeschluesse nicht.
+- **BGH, Urt. v. 20.01.1986 – II ZR 73/85, BGHZ 97, 28** — Gesellschafter, der ein Stimmverbot nach § 47 IV GmbHG hat, darf an der Abstimmung nicht teilnehmen; abgegebene Stimme ist nicht zu zaehlen; bei Zweifel entscheidet das Gericht auf Anfechtungsklage.
 
-### Schluss
+## Kommentarliteratur
 
-- Schluss der Versammlung
-- Unterschriften: Versammlungsleiter und Schriftführer
+- Scholz/Seibt, GmbHG, 13. Aufl., § 47 Rn. 1-150 (Abstimmung; Stimmverbote; Protokoll)
+- Lutter/Hommelhoff, GmbHG, 21. Aufl., § 53 Rn. 1-60 (Satzungsaenderung; notarielle Form)
+- Baumbach/Hueck/Zöllner, GmbHG, 23. Aufl., § 51 Rn. 1-50 (Beschlussfaehigkeit; Heilung)
 
-## 2) Wahl des Versammlungsleiters
+## Prüfschema: Protokoll-Rechtmaessigkeit
 
-### Standard
+| Schritt | Pruefpunkt | Norm | Ergebnis |
+|---|---|---|---|
+| 1 | Alle Gesellschafter eingeladen und anwesend/vertreten? | § 51 GmbHG | Fehlt: Nichtigkeit |
+| 2 | Versammlungsleiter gewaehlt und protokolliert? | Satzung | Fehlt: Anfechtungsrisiko |
+| 3 | Beschlussfaehigkeit festgestellt? | Satzung | Fehlt: Anfechtungsrisiko |
+| 4 | Stimmverbot § 47 IV GmbHG geprueft? | § 47 IV | Verletzung: Beschluss anfechtbar |
+| 5 | Mehrheit korrekt berechnet? | §§ 47, 53 GmbHG | Falsche Berechnung: Anfechtbarkeit |
+| 6 | Notarielle Beurkundung bei Satzungsaenderung? | § 53 GmbHG | Fehlt: Nichtigkeit |
+| 7 | Beschlusstext klar und eindeutig? | HR-Anforderungen | Vage: Beanstandung bei Eintragung |
 
-- Wahl durch die GV mit einfacher Mehrheit
-- Typisch der Geschäftsführer (der einberufen hat) oder ein Gesellschafter
+## Schritt-fuer-Schritt-Workflow
 
-### Bei streitiger Versammlung
+1. **Vorbereitung:** Anwesenheits-Liste mit Anteilen und Stimmrechten erstellen; Stimmverbot-Pruefung pro Gesellschafter pro TOP.
+2. **Eroeffnung:** Feststellung Beschlussfaehigkeit und ordnungsgemae Einladung protokollieren.
+3. **Versammlungsleiter-Wahl:** Abstimmung fuer Versammlungsleiter; Ergebnis protokollieren.
+4. **Pro TOP:** Beschlussvorlage im Wortlaut; kurze Diskussion zusammenfassen; Stimmen zaehlen und aufschlüsseln.
+5. **Beschlussformulierung:** Klarer, vollstaendiger Beschlusstext; bei HR-relevanten Beschluessen: exakter Wortlaut.
+6. **Schluss:** Schluss der Versammlung protokollieren; Protokoll sofort vom Versammlungsleiter unterschreiben.
+7. **HR-Anmeldung** bei erforderlichen Beschluessen: Notar einschalten; Protokoll + Beurkundung einreichen.
+8. **Aufbewahrung:** 10 Jahre (§ 257 HGB); Original-Unterzeichnung sichern.
 
-- Verschiedene Gesellschafter koennen verschiedene Versammlungsleiter vorschlagen
-- Wahl durch GV — wer die einfache Mehrheit erhaelt, leitet
-- Bei **Patt**: keine wirksame Wahl -> Versammlung verschoben oder Eskalation
+## Output-Template: GV-Protokoll (Standard)
 
-### Befugnisse des Versammlungsleiters
-
-- Ordnungsmaecht in der Versammlung (Reihenfolge, Diskussionsdauer)
-- Feststellung der Beschlüsse
-- Unterzeichnung des Protokolls
-- Bei Streit: stark umstritten, was er einseitig feststellen darf
-
-## 3) Stimmrechts-Berechnung
-
-### Standardregeln
-
-- Stimmrecht nach Anteilen (Paragraf 47 II GmbHG)
-- 1 EUR Geschäftsanteil = 1 Stimme
-- Abweichungen in Satzung möglich (Mehrstimmrecht, Sonderklassen) → `gesellschaftsgruender-share-classes-a-b-c`
-
-### Mehrheits-Erfordernisse
-
-| Beschluss | Mehrheit |
-|---|---|
-| Standard | einfache Mehrheit (>50 % der abgegebenen Stimmen) |
-| Geschäftsführer-Bestellung | einfache Mehrheit |
-| Geschäftsführer-Abberufung | einfache Mehrheit (Paragraf 38 GmbHG) |
-| Satzungsaenderung | 75 % der abgegebenen Stimmen (Paragraf 53 II GmbHG) |
-| Auflösung | 75 % (Paragraf 60 I Nr. 2 GmbHG) |
-| Kapitalerhöhung | 75 % (Paragraf 53 II GmbHG) |
-| Verkauf wesentlicher Aktiva | abhängig von Satzung |
-| Entlastung | einfache Mehrheit (typisch) |
-
-### Stimmverbot Paragraf 47 IV GmbHG
-
-Bei eigenen Angelegenheiten ausgeschlossen:
-
-- Entlastung des eigenen GF-Stellung
-- Befreiung von Verbindlichkeiten
-- Geltendmachung von Schadensersatzanspruechen gegen den Gesellschafter
-
-## 4) Notarielle Beurkundung bei bestimmten Beschlüssen
-
-### Notar-Pflicht (Paragraf 53 GmbHG)
-
-- Satzungsaenderung
-- Erhöhung / Herabsetzung des Stammkapitals
-- Auflösung der Gesellschaft
-- Verschmelzung / Spaltung (UmwG)
-
-### Praxis
-
-- Notar wird zur Versammlung eingeladen oder ad hoc bestellt
-- Notar beurkundet **gesamten Versammlungsverlauf** als Protokoll
-- Notar-Protokoll ersetzt das übliche Protokoll
-
-### Wahl-Erfordernis
-
-- Wahl-Beschlüsse (z.B. Geschäftsführer-Bestellung) **nicht** notarpflichtig, außer Satzung sieht es vor
-- Schriftform genuegt
-
-## 5) Beispiel-Protokoll
+**Adressat:** Gesellschafter; Handelsregister — Tonfall sachlich-praezise
 
 ```
-PROTOKOLL der ausserordentlichen Gesellschafter-
-versammlung der [Firma] GmbH
+PROTOKOLL der [ordentlichen / ausserordentlichen]
+Gesellschafterversammlung der [FIRMA] GmbH
 
-Datum:     [Datum]
-Ort:       [Ort]
-Beginn:    14:00 Uhr
-Ende:      15:30 Uhr
+Datum: [DATUM] | Ort: [ORT] | Beginn: [UHRZEIT]
 
-Anwesend (Stimmrechte gemaess Satzung):
-- Anna Mueller         10.000 Anteile (40 %)
-- Bernd Schmidt        10.000 Anteile (40 %)
-- Investor I AG         5.000 Anteile (20 %, davon
-                       Class A mit Stimmrechts-
-                       Multiplikator 1,2)
+ANWESENHEIT:
+[NAME 1], [ANTEILE] EUR (= [%] %; [STIMMEN] Stimmen)
+[NAME 2], [ANTEILE] EUR (= [%] %; [STIMMEN] Stimmen)
+Gesamt anwesend: [SUMME] EUR ([%] % des Stammkapitals)
 
-Stimmrechte gesamt:    25.000 Anteile + 1.000 Mehrstimm-
-                       rechte = 26.000 Stimmrechte
+Tagesordnung (wie eingeladen):
+[LISTE DER TOPs]
 
-Tagesordnung:
-1. Begruessung, Beschlussfaehigkeit, Versammlungsleiter
-2. Beschluss zur Bestellung eines weiteren Geschaefts-
-   fuehrers, Carla Wagner
-3. Sonstiges
+TOP 1 — Eroeffnung und Versammlungsleiter
+Feststellung: ordnungsgemae Einladung; alle Gesellschafter
+anwesend; Versammlung beschlussfaehig.
+Vorschlag und Wahl Versammlungsleiter: [NAME]
+Abstimmung: einstimmig.
 
-TOP 1 — Begruessung, Versammlungsleiter
+TOP [N] — [BEZEICHNUNG]
+Beschlussvorlage (im Wortlaut):
+"[GENAUER BESCHLUSSTEXT]"
 
-Es wird festgestellt:
-- Die Versammlung wurde fristgerecht (3 Wochen vor dem
-  Termin) durch Anna Mueller (Geschaeftsfuehrerin)
-  eingeladen.
-- Alle Gesellschafter sind anwesend.
-- Die Versammlung ist beschlussfaehig.
+Diskussion: [KURZE ZUSAMMENFASSUNG]
 
-Wahl des Versammlungsleiters: Anna Mueller
-Wahl des Schriftfuehrers: Bernd Schmidt
+Abstimmung:
+  [NAME 1] ([N] Stimmen): Ja / Nein / Enthaltung
+  [NAME 2] ([N] Stimmen): Ja / Nein / Enthaltung
 
-Beschluss: einstimmig zustimmend
+Ergebnis: [N] Ja-Stimmen / [N] Nein-Stimmen / [N] Enthaltungen
+Beschluss: [ANGENOMMEN / ABGELEHNT]
+Erforderliche Mehrheit: [EINFACH / 75% etc.] — [ERREICHT / NICHT ERREICHT]
 
-TOP 2 — Bestellung Carla Wagner zur Geschaeftsfuehrerin
+Schluss der Versammlung: [UHRZEIT]
 
-Beschluss-Vorlage:
-„Carla Wagner, geboren am [Datum] in [Ort], wohnhaft
-[Adresse], wird mit Wirkung zum [Datum] zur weiteren
-Geschaeftsfuehrerin der Gesellschaft bestellt. Sie
-vertritt die Gesellschaft gemaess Paragraf [X] der
-Satzung gemeinschaftlich mit einer weiteren Geschaefts-
-fuehrerin. Befreiung von den Beschraenkungen des
-Paragraf 181 BGB wird erteilt."
-
-Diskussion: [knappe Zusammenfassung]
-
-Stimmen:
-- Anna Mueller (10.000 Anteile, 10.000 Stimmen): pro
-- Bernd Schmidt (10.000 Anteile, 10.000 Stimmen): pro
-- Investor I AG (5.000 Anteile, 6.000 Stimmen mit
-  Multiplikator): pro
-
-Beschluss: Bestellung Carla Wagner einstimmig
-zustimmend mit 26.000 von 26.000 abgegebenen Stimmen.
-
-TOP 3 — Sonstiges
-Keine weiteren Punkte.
-
-Schluss der Versammlung: 15:30 Uhr.
-
-Versammlungsleiterin:    _______________
-                         Anna Mueller
-
-Schriftfuehrer:          _______________
-                         Bernd Schmidt
+Versammlungsleiter: ___________  [NAME]
+Schriftfuehrer:     ___________  [NAME]
 ```
 
-## 6) Anfechtung von Beschlüssen
+## Rote Schwellen
 
-### Anfechtbarkeit (Paragrafen 246, 248 AktG analog)
+- Fehlende Einladung eines Gesellschafters: NICHTIGKEIT aller Beschluesse (BGH NJW 2008, 1680)
+- Satzungsaenderung ohne Notar: NICHTIGKEIT (§ 53 GmbHG)
+- Stimmverbot verletzt: Beschluss anfechtbar; ggf. Mehrheit damit unterschritten (BGH BGHZ 97, 28)
+- Beschlusstext vage: HR beanstandet Eintragung; Nacharbeit und erneute Beurkundung noetig
 
-- Bei Verfahrensfehlern (Einladung, Mehrheits-Berechnung)
-- Bei Verstoß gegen Satzung
-- Bei Verstoß gegen Treuepflicht
+## Quellen und Vertiefung
 
-### Frist
+- §§ 47, 47 IV, 51, 53, 60 GmbHG; §§ 241, 246, 249 AktG analog
+- BGH NJW 2008, 1680; BGH NZG 2009, 183; OLG Muenchen GmbHR 2022, 764; BGH BGHZ 97, 28
+- Scholz/Seibt § 47; Lutter/Hommelhoff § 53; Baumbach/Hueck § 51
 
-- Monatsfrist ab Beschlussfassung (BGH-Linie analog Paragraf 246 AktG)
-- Klage beim Landgericht der Gesellschafts-Sitz
+## Uebergabe an andere Skills
 
-### Nichtigkeit (Paragrafen 241, 249 AktG analog)
-
-- Bei schweren Mängeln (z.B. nicht eingeladene Gesellschafter)
-- Keine Frist
-
-→ `gesellschaftsgruender-gesellschafterstreit-eilantraege`
-
-## 7) Bei streitiger Versammlung — Mehrere Protokolle
-
-### Konstellation
-
-- Gesellschafter A leitet Versammlung; Gesellschafter B widerspricht der Leitung; jeder erstellt eigenes Protokoll
-- Verschiedene Beschluss-Feststellungen
-
-### Lösung
-
-- Notar empfohlen — neutrale Beurkundung
-- Andernfalls: Anfechtungs-Klage zur Feststellung der wahren Beschlüsse
-
-### Bei Anmeldung beim Handelsregister
-
-- Bei zweideutigen Protokollen wird das HR-Gericht beanstanden
-- Klage vor LG erforderlich, ggf. einstweilige Anmeldungs-Sperre (Paragraf 16 HGB analog)
-
-## 8) Aufbewahrung
-
-- Protokolle sind **mindestens 10 Jahre** aufzubewahren (Paragraf 257 HGB)
-- Idealerweise dauerhaft (z.B. für spätere Due Diligence vor M&A)
-- Originale (mit Unterschriften) im Original-Archiv
-
-## 9) Typische Protokoll-Fehler
-
-1. **Anwesenheits-Liste unvollständig**. Bei Anfechtung schwer beweisbar, wer wirklich da war.
-2. **Stimm-Ergebnis nicht beschriftet**. „Beschluss ist einstimmig" reicht nicht — Anteile / Stimmen aufschlüsseln.
-3. **Versammlungsleiter-Wahl vergessen** zu protokollieren. Anfechtungs-Argument.
-4. **Beschluss-Wortlaut unklar**. Bei späterer Anmeldung HR-Beanstandung.
-5. **Stimmverbot Paragraf 47 IV GmbHG nicht berücksichtigt**. Stimmen müssen abgezogen werden.
-6. **Notar fehlt bei satzungsaendendem Beschluss**. Beschluss nichtig.
-
-## Anschluss
-
-- `gesellschaftsgruender-gv-einladung-tagesordnung` — Einladung
-- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit
-- `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung
-- `gesellschaftsgruender-share-classes-a-b-c` — Klassen-Stimmrechte
+- `gesellschaftsgruender-gv-einladung-tagesordnung` — Einladung vorab
+- `gesellschaftsgruender-gesellschafterstreit-eilantraege` — bei Streit ueber Beschluesse
+- `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg` — Pflichtversammlung-Protokoll
+- `gesellschaftsgruender-share-classes-a-b-c` — Klassen-Stimmrechts-Berechnung

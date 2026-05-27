@@ -1,6 +1,6 @@
 ---
 name: europarecht-simulation-behoerde-gericht
-description: "Simuliert EU-bezogene Behörden-, Gerichts- und Kommissionsverfahren mit Lernkurve für junge Juristinnen und Juristen."
+description: "Verhandlung vor EU-Behoerde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Pruefraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht fuer Klageentwuerfe (europarecht-klagearten-eugh)."
 ---
 
 # Simulation Behörde, Gericht und Kommission
@@ -47,3 +47,35 @@ Fiktive Verfahren trainieren Beihilfe, Richtlinienumsetzung, Vorlagefrage, Chart
 ## Ton
 
 Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+
+## Vertiefung: Rechtsprechung und Leitsaetze
+
+- EuGH, Urt. v. 27.06.2013 - C-93/12 (ET Agrokonsulting), EuZW 2013, 710 — Nationales Verfahren bei EU-Recht: Behoerde muss EU-Recht-konforme Auslegung vornehmen; kein Ermessen entgegen klaren EU-Vorgaben.
+- EuGH, Urt. v. 30.04.1996 - C-194/94 (CIA Security), EuZW 1996, 481 — Behoerden-Simulation: nicht notifizierte technische Vorschrift ist unanwendbar — Simulation der Behoerdenreaktion muss diesen Grundsatz beachten.
+
+## Triage Simulation
+
+Bevor losgelegt wird, klaere:
+1. Wird eine Behoerden- oder Gerichts-Reaktion simuliert — welche Seite?
+2. Welches Argument wird auf EU-Recht-Konformitaet geprueft?
+3. Wie realistisch soll die Simulation sein — Planspiel oder praezise Einschaetzung?
+
+## Output-Template: Simulations-Protokoll
+
+```
+SIMULATIONS-PROTOKOLL EU-RECHT
+Datum: [DATUM] — Mandant: [NAME]
+
+Simulierte Rolle: [BEHOERDE — [NAME] / GERICHT — [INSTANZ]]
+EU-Recht-Bezug: [Art. X AEUV / VO / RL]
+Rechtsfrage: [FORMULIERUNG]
+
+SIMULIERTES ERGEBNIS
+a) Aus Sicht Behoerde: [Bescheid-Ergebnis mit Begruendung]
+b) Aus Sicht Gericht 1. Instanz: [Urteil und Begruendung]
+c) Vorlage Art. 267 AEUV: [wahrscheinlich / nicht wahrscheinlich — Begründung]
+d) Gegenargument Mandant: [...]
+
+HANDLUNGSEMPFEHLUNG:
+[...]
+```

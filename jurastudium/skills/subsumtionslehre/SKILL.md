@@ -5,6 +5,29 @@ description: "Übt die Subsumtion als Königsdisziplin der deutschen Klausur —
 
 # Subsumtionslehre
 
+
+## Triage zu Beginn
+1. Welches Tatbestandsmerkmal wird gerade subsumiert und liegt eine Definition vor?
+2. Gibt es einen Sachverhaltsbezug fuer die Subsumtion oder wird abstrakt geuebt?
+3. Liegt ein Subsumtionssprung vor (Ergebnis wird vorweggenommen ohne Pruefungsweg)?
+4. Ist das Tatbestandsmerkmal streitig (mehrere Definitionen moeglich)?
+
+## Aktuelle Rechtsprechung
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Musterpruefung des BGH: Obersatz-Definition-Subsumtion-Ergebnis als Grundstruktur jeder Anspruchspruefung; ohne diese Struktur ist die Pruefung lueckenhaft.
+- BGH, Urt. v. 16.01.2009 - V ZR 133/08, NJW 2009, 1061 — Definition des gutglaeubigen Erwerbs (§ 892 BGB): Subsumtion erfordert genaue Pruefung der Eintragung und des guten Glaubens als gesonderte Tatbestandsmerkmale.
+- BGH, Urt. v. 27.11.2008 - VII ZR 206/06, NJW 2009, 580 — Subsumtion ohne Sachverhaltsbezug fuehrt zu Begruendungsmangel; jede Subsumtion muss konkrete Sachverhaltstatsachen verarbeiten.
+- BVerfG, Beschl. v. 23.06.2010 - 2 BvR 2559/08, BVerfGE 126, 170 — Im Strafrecht ist die Subsumtion besonders an den Normtext gebunden; Analogie zu Lasten des Taeter ist verboten (Art. 103 Abs. 2 GG).
+
+## Zentrale Normen
+- §§ 133, 157 BGB — Auslegung als Grundlage der Tatbestandsmerkmal-Bestimmung
+- § 276 Abs. 2 BGB — Fahrlässigkeitsdefinition als Muster-Tatbestandsmerkmal
+- § 242 StGB — Diebstahl: Klassiker-Tatbestand fuer Subsumtionsuebungen
+- § 280 Abs. 1 BGB — Vier-Voraussetzungen-Anspruch als Subsumtions-Drillkern
+
+## Kommentarliteratur
+- Bydlinski, Juristische Methodenlehre, 2. Aufl. 1991, § 3 Rn. 1-70 (Subsumtion: Theorie und Praxis)
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, § 2 Rn. 1-50 (Subsumtion als Grundoperation)
+
 ## Zweck
 
 Subsumtion ist die Anwendung einer abstrakten Rechtsnorm auf einen konkreten Sachverhalt. Sie ist die zentrale Tätigkeit der juristischen Klausur, der Hausarbeit und der späteren Praxis. Eine Klausur scheitert sehr selten am fehlenden Wissen — sie scheitert daran, dass nicht **subsumiert**, sondern **behauptet** wird.

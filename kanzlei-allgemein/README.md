@@ -2,7 +2,9 @@
 
 Technischer Plugin-Name: `kanzlei-allgemein`.
 
-Eigenständiges großes Kanzlei-Plugin für den gesamten Arbeitszyklus einer Kanzlei: edles Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Eingang, Intake, freundliche Menüführung, Mandatsannahme, Geldwäscheprüfung, KYC, PEP-Check, Kontoblatt, Schreib-Canvas, Klage- und Replik-Turbo, Vertragsentwurf, Rechtsprechungsrecherche, Handelsregisterabruf, Qualitätsgate, Konfliktcheck, Aktenanlage, Fristen, Action-Items, beA-Nachrichtenjournal, elektronisches Empfangsbekenntnis, Kanzleikalender, HR, Urlaub, Krankheit, Payroll-Vorbereitung, granulare Zeiterfassung mit Narrative, Mandatsvereinbarung, Honorar, GoBD-nahe Rechnungsvorbereitung, Geschäftskonto, offene Posten, Zahlungseingangs-Matching, E-Rechnung, XRechnung, ZUGFeRD, UStVA-Vorbereitung, Simulation, Output und Versandkontrolle.
+Eigenständiges großes Kanzlei-Plugin für den gesamten Arbeitszyklus einer Kanzlei. **Mit v11.0.0 wurden die Skills des früheren `kanzlei-cowork`-Plugins vollständig in `kanzlei-allgemein` integriert** — Fristenbuch, Timesheet, RVG-Rechnung, Versand-Vor-Check, beA-Versand-Prüfung, Posteingang/Postausgang, Mandantenakte, Aktenbestandspflege, Honorar-Mahnwesen, Mandantenbriefe, Geburtstage, Weihnachtskarten und Sekretariats-Tagesbrief.
+
+Das Plugin deckt: edles Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Eingang, Intake, freundliche Menüführung, Mandatsannahme, Geldwäscheprüfung, KYC, PEP-Check, Kontoblatt, Schreib-Canvas, Klage- und Replik-Turbo, Vertragsentwurf, Rechtsprechungsrecherche, Handelsregisterabruf, Qualitätsgate, Konfliktcheck, Aktenanlage, Fristen, Action-Items, beA-Nachrichtenjournal, elektronisches Empfangsbekenntnis, Kanzleikalender, HR, Urlaub, Krankheit, Payroll-Vorbereitung, granulare Zeiterfassung mit Narrative, Mandatsvereinbarung, Honorar, GoBD-nahe Rechnungsvorbereitung, Geschäftskonto, offene Posten, Zahlungseingangs-Matching, E-Rechnung, XRechnung, ZUGFeRD, UStVA-Vorbereitung, Simulation, Output und Versandkontrolle.
 
 Es ist **nicht** auf Großkanzleien beschränkt. Der Name meint den großen Kanzlei-Workflow: vom ersten Eingang bis zum versandfertigen Ergebnis.
 
@@ -11,7 +13,6 @@ Es ist **nicht** auf Großkanzleien beschränkt. Der Name meint den großen Kanz
 | Plugin | Direkt-Download |
 | --- | --- |
 | Kanzlei-Lebenszyklus (`kanzlei-allgemein`, dieses Plugin) | [kanzlei-allgemein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-allgemein.zip) |
-| Kanzlei-Cowork | [kanzlei-cowork.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-cowork.zip) |
 | Prozessrecht | [prozessrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/prozessrecht.zip) |
 
 Die URL ist stabil und zeigt auf die neueste Release-Version.
@@ -25,6 +26,15 @@ Die URL ist stabil und zeigt auf die neueste Release-Version.
 5. In einer neuen Unterhaltung mit einem typischen Auftrag starten, etwa: „Starte das volle Kanzlei-Workflow-Plugin für diese neue Nachricht.“
 
 Wichtig: Nicht das komplette Repository-ZIP hochladen. Das Upload-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `assets/` im ZIP-Root enthalten; `references/` ist optional, falls ein Plugin Referenzen mitliefert.
+
+### Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **Kanzlei-Alltag** | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
+
 
 ## Was das Plugin abbildet
 
@@ -62,6 +72,26 @@ Wichtig: Nicht das komplette Repository-ZIP hochladen. Das Upload-ZIP muss direk
 | UStVA-Simulation | `kanzlei-allgemein-ustva-simulation` | ELSTER-Ausfall oder fehlender Anschluss: Simulation, manueller Eingabebogen, XML-Upload-Prüfung oder Steuerberater-Paket |
 | Simulation | `kanzlei-allgemein-kanzleitag-simulation` | Acht-Stunden-Kanzleitag beschleunigt oder in Echtzeit mit simulierten Integrationen durchspielen |
 | Automationen | `kanzlei-allgemein-automationen` | Vorschläge für stündliche Zeiterinnerung, tägliche Postrunde und Ordner-Monitoring |
+
+
+## Cowork-/Sekretariats-Skills (fusioniert aus `kanzlei-cowork`)
+
+| Skill | Zweck |
+| --- | --- |
+| `aktenbestand-pflege` | Laufende Pflege des Aktenbestands — Aktualisierung Status (laufend/ruhend/abgeschlossen), Mandatsende mit Schlussrechnung, Archivierung nach Aufbewahrungspflicht |
+| `bea-versand-pruefen` | Prüft den beA-Versand nach §§ 130a ZPO; 32d StPO; 65d SGG; 55a VwGO; 52d FGO sowie § 31a BRAO; sicherer Übermittlungsweg, qeS-Optionen, EB-Logik |
+| `fristenbuch-fuehren` | Zentrales Fristenbuch mit Haupt- und Vorfristen, Berechnung nach ZPO/StPO/SGG/FGO/VwGO/FamFG/AO/BGB; Vier-Tages-Fiktion PostModG seit 1.1.2025 |
+| `geburtstage-feiertage` | Mandanten- und Geschäftspartner-Geburtstagsverteiler, Firmenjubiläen, formell-warme Glückwunsch-Vorlagen |
+| `kanzlei-cowork-kaltstart-interview` | Kaltstart-Interview für das Cowork-Profil der Kanzlei (Profil, Rechtsgebiete, Sekretariat, Aktenstruktur, beA-Profil, Versandregeln) |
+| `mahnwesen-honorar` | Mahnwesen Honorarforderungen — Stufen Zahlungserinnerung, erste/zweite/dritte Mahnung nach § 286 BGB, Klagedrohung |
+| `mandantenakte-anlegen` | Mandantenakte nach Kanzleikonvention — Stammdaten, Vollmacht, Mandatsumfang, Konflikt § 43a IV BRAO/§ 3 BORA, Art. 13 DSGVO, GwG-Identifizierung |
+| `mandantenbrief-vorlagen` | Standardvorlagen Mandantenbrief — Anrede, Bezug, Sachstand, Empfehlung, nächste Schritte, Frist, Kostenhinweis, Berufsbezeichnung |
+| `posteingang-ausgang` | Postein- und Postausgangsbuch — Empfangstag (Fristbeginn), Absender, Akte, Aktion; Versandbuch mit beA/Brief/Fax/E-Mail |
+| `rechnungserstellung-rvg` | Honorarrechnungen nach RVG (Anlage 1 VV RVG, Anlage 2 Gebührentabelle) oder Honorarvereinbarung; Pflichtangaben § 10 RVG |
+| `sekretariats-tagesbrief` | Tagesbrief mit Fristen heute und nächste Woche, Vorfristen, Posteingang Vortag, Wiedervorlagen, Termine, beA-Eingang |
+| `timesheet-aktenzeitung` | Zeiterfassung pro Mandat (Aktenzeitung) in 6-Minuten-Blöcken, Abrechenbarkeit, Honorarsatz, Reports |
+| `versand-vor-check` | Pflicht-Pre-Check vor Versand — Dokumentidentität, Unterschrift, Adressat, Anlagen, Versandweg, qeS bei beA |
+| `weihnachtskarten` | Weihnachtskartenverteiler — postalisch oder digital, formell-zurückhaltend bis persönlich, Drucklisten |
 
 ## Sicherheitsleitplanken
 
@@ -178,7 +208,7 @@ Diese Dateien sind bewusst textbasiert, damit sie in jeder Umgebung lesbar sind.
 Das Plugin funktioniert allein. Für fachliche Ausarbeitung sind je nach Mandat zusätzlich hilfreich:
 
 - `prozessrecht` für gerichtliche Schriftsätze und Fristenlogik.
-- `kanzlei-cowork` für bestehende Kanzlei-Cowork-Bausteine.
+- (Hinweis: Das frühere Plugin `kanzlei-cowork` ist seit v11.0.0 vollständig in dieses Plugin fusioniert. Externe Verweise auf `kanzlei-cowork` zeigen jetzt auf `kanzlei-allgemein`.)
 - `zitierweise-deutsches-recht` und `methodenlehre-buergerliches-recht` für juristische Ausgabequalität.
 - Rechtsgebietsplugins wie `arbeitsrecht`, `vertragsrecht`, `sozialrecht-kanzlei`, `steuerrecht-anwalt-und-berater`, `insolvenzrecht`.
 

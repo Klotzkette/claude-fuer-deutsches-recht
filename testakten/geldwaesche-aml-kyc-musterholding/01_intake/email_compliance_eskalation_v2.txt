@@ -1,0 +1,67 @@
+Von: t.eckhardt@musterholding.de
+An: a.degenhardt@musterholding.de
+CC: dr.weiss@kanzlei-weiss-partner.de; rechtsabteilung@musterholding.de
+Datum: Mo, 18.05.2026 17:44
+Betreff: DRINGEND - Verdichtung Geldwaesche-Verdacht Musterholding/Danube/Adriatic
+Klassifizierung: STRENG VERTRAULICH - nur Vorstand
+Wichtigkeit: Hoch
+
+Sehr geehrter Herr Dr. Degenhardt,
+
+ich fasse den Sachstand nach Eingang der Adriatic-Antwort vom 14.05.2026
+zusammen. Aus meiner Sicht ist die Schwelle des § 43 Abs. 1 Nr. 1 GwG
+(Tatsachen begruenden Verdacht) ueberschritten. Ich werde morgen (19.05.2026)
+die Verdachtsmeldung beim FIU einreichen.
+
+ROTE FLAGGEN (kumulativ):
+
+1) UBO-Kette intransparent
+   Danube TS SRL -> 100% Helvetia Vermoegensverwaltung AG (CH) -> 95%
+   Cyprus Trust ueber Blue Harbor Holdings Ltd. (CY). Treuhaender legt
+   Begünstigte nicht offen, Verweis auf cypriotisches Trustrecht. KEINE
+   natuerliche Person identifiziert.
+
+2) PEP-Treffer GF Danube
+   Andrei Moldovan, geb. 14.03.1978, Tiraspol. Treffer in EU-PEP-Datenbank
+   (Stadtrat Chisinau 2018-2021), neu am 22.05.2026 bestaetigter Treffer
+   moldauische Antikorruptions-Liste (NCA).
+
+3) Drittzahlung ohne Vertragsbasis
+   Zahlung Adriatic (MT) -> Musterholding (DE), Vertrag aber mit Danube
+   (RO). Adriatic-Antwort zur Mittelherkunft unzureichend - lediglich
+   Hinweis auf "Konzern-Cash-Pooling" ohne Vorlage des Cash-Pool-Vertrags.
+
+4) Risikoland-Konstellation
+   FATF-Grey-List-Naehe (Moldau), Hochrisikoland-naehe (Zypern-Trust),
+   Hawala-aehnliches Drittzahlungsmuster.
+
+5) Wirtschaftliche Unplausibilitaet
+   187.500 EUR Anzahlung fuer einen Erstauftrag eines neu onboardeten
+   Kunden ohne Bonitaetsnachweis ist branchenunueblich. Ueberschiessende
+   Anzahlung deutet auf Layering-Schritt.
+
+6) Transparenzregister-Unstimmigkeit
+   Bei unserer Tochter (Immobilien-Tochter Frankfurt) habe ich heute
+   festgestellt, dass im Transparenzregister noch der alte GF eingetragen
+   ist. Wir muessen die Unstimmigkeit gem. § 23a GwG selbst melden -
+   passend dazu Entwurf liegt vor.
+
+7) Vertriebsdruck
+   Vertrieb (Schoenberger) hat mehrfach versucht, die Pruefung zu
+   beschleunigen. Notiz dazu liegt in der Akte.
+
+EMPFEHLUNG:
+a) Verdachtsmeldung 19.05.2026 morgens einreichen (Vorlage liegt RA Weiss
+   zur Endpruefung vor)
+b) Geschaeftsbeziehung Danube TS SRL beenden, sobald FIU-Frist abgelaufen
+c) Zahlung Adriatic an Bank zur Rueckabwicklung geben
+d) Stillschweige-Pflicht intern strikt durchsetzen (§ 47 GwG)
+e) Schulung Vertrieb noch in Q2/2026 nachschulen (Tipping-Off-Verbot)
+
+Bitte um schriftliche Bestaetigung bis 18.05.2026 22:00, dass ich die
+Meldung einreichen soll.
+
+Mit freundlichen Gruessen
+Thomas Eckhardt
+Geldwaeschebeauftragter (§ 7 GwG)
+Musterholding GmbH

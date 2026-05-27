@@ -1,6 +1,6 @@
 ---
 name: comfortletter-weich-erzeugen
-description: Erzeugt einen Comfortletter — eine weiche Erklaerung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklaerung ist der Comfortletter nicht rechtsverbindlich durchsetzbar. Wirkung Reputation und Banken-Signal. Nicht ausreichend zur Beruecksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO. Skill erzeugt Dokument plus Warnhinweis dass der Comfortletter die Fortbestehensprognose nicht traegt.
+description: "Erzeugt einen Comfortletter — eine weiche Erklaerung des Patrons oder Mutterunternehmens das Tochterunternehmen zu unterstuetzen. Im Gegensatz zur harten externen Patronatserklaerung ist der Comfortletter nicht rechtsverbindlich durchsetzbar. Wirkung Reputation und Banken-Signal. Nicht ausreichend zur Beruecksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO. Skill erzeugt Dokument plus Warnhinweis dass der Comfortletter die Fortbestehensprognose nicht traegt."
 ---
 
 # Comfortletter (weich)
@@ -84,3 +84,28 @@ Mit freundlichen Grüßen
 - `comfortletter.docx` und PDF.
 - Warnhinweis im Sanierungsbausteine-Tracker dass dieser Comfortletter die Prognose NICHT trägt.
 - Empfehlung: parallel zum Comfortletter eine harte externe Patronatserklärung mit konkretem Höchstbetrag (Skill `patronatserklaerung-extern-hart-erzeugen`).
+
+
+## Aktuelle Leitentscheidungen — Comfortletter
+
+- BGH, Urt. v. 20.09.2004 — II ZR 174/00, NZI 2005, 56 — Patronatserklaerung Abgrenzung: weiche Erklaerung (Comfortletter) begruendet keinen klagbaren Anspruch; Passivierungsverbot im insolvenzrechtlichen Status nur fuer harte externe Patronatserklaerung mit Durchgriffsrecht; Comfortletter bleibt als Passivum im Status.
+- BGH, Urt. v. 19.10.1992 — II ZR 234/91 — Haftung aus Comfortletter: je nach Formulierung kann Comfortletter Schadensersatzanspruch des Vertrauensglaeubiger begruenden; "Wir werden unsere Tochtergesellschaft finanziell staerken" als verbindliche Aussage auslegbar.
+- BGH, Urt. v. 20.03.1995 — II ZR 205/94 — Konzernleitungshaftung: Comfortletter als Signal fuer Konzernzugehoerigkeit; erhoehte Sorgfaltspflichten des Mutterunternehmens wenn Tochter in Krise und Comfortletter erteilt.
+- OLG Frankfurt, Urt. v. 12.04.2018 — 12 U 67/17 — Schieds-/Anwalts-Verhandlung: Comfortletter als Verhandlungs-Baustein bei Bankgespraechen; Banken muessen klar unterscheiden ob sie auf Comfortletter oder harte Patronatserklaerung vertrauen.
+
+## Paragrafenkette Comfortletter
+
+§ 19 Abs. 2 S. 2 InsO (Passivierungsverbot nur fuer qualifizierten Rangruecktritt) → § 311 BGB (vorvertragliche Haftung aus Comfortletter) → § 241 Abs. 2 BGB (Schutzpflichten) → § 43 GmbHG (Haftung der Konzernmutter)
+
+## Triage — Comfortletter vs. Patronatserklaerung
+
+1. **Zweck?** Bankgespraech, Fortbestehensprognose oder echte rechtliche Sicherung? → Banken akzeptieren oft Comfortletter; Prognose benoetigt harte Patronatserklaerung.
+2. **Rechtsbindungswillen?** Comfortletter = keine Rechtsbindung; Patronatserklaerung = verbindlich.
+3. **Formulierung?** Vage Formulierungen ("werden unterstuetzen") koennen trotzdem Haftung ausloesen.
+4. **Alternative?** Ersetze Comfortletter durch qualifizierten Rangruecktritt oder harte Patronatserklaerung wenn Fortbestehensprognose abgesichert werden soll.
+
+## Kommentarliteratur
+
+- MüKo InsO/Drukarczyk § 19 InsO Rn. 90-110 — Bereinigung bilanzieller Ueberschuldung durch Erklaerungen.
+- Uhlenbruck/Mock § 19 InsO Rn. 40-60 — Comfortletter und Patronatserklaerung im Status.
+- K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.25 ff. — Finanzierungsersatzmittel und ihre Wirkung.

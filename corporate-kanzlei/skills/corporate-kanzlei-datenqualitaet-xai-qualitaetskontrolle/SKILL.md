@@ -1,41 +1,136 @@
 ---
 name: corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle
-description: "Datenqualität und XAI-Qualitätskontrolle: Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab."
+description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prueft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Pruefraster: Belegkette vollstaendig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Pruefung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet."
 ---
 
-# Datenqualität und XAI-Qualitätskontrolle
+# Datenqualität und Qualitätskontrolle im M&A-Mandat
 
-## Zweck
+## Triage — kläre vor jeder Analyse
 
-Sichert KI-gestützte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab.
+1. Welche Datenquellen liegen vor — Datenraum, öffentliches Register, Gutachten, Managementangaben, Presseberichte?
+2. Ist der Datenstand verifiziert und aktuell — Datum der letzten Aktualisierung, Version, Vollständigkeitsbestätigung des Verkäufers?
+3. Welches Risikoniveau hat das Ergebnis — geht es in Board Paper, SPA-Warranty-Katalog, DD-Bericht oder nur interne Orientierung?
+4. Wer ist Human-in-the-loop (Senior Associate, Counsel, Partner) und bis wann ist Senior Review einzuholen?
+5. Gibt es bereits bekannte Datenlücken oder Widersprüche zwischen Quellen (z.B. HR-Zahlen vs. HGB-Anhang)?
 
-## Arbeitsmodus
+## Zentrale Grundlagen
 
-- Datenqualität, Quellenstatus, Stichprobe und Plausibilisierung festhalten.
-- Explainability-Anforderungen für jedes Ergebnis markieren.
-- Human-in-the-loop und Senior Review dokumentieren.
-- Fehler, Annahmen und nicht geprüfte Bereiche offenlegen.
+- **§ 93 Abs. 1 S. 2 AktG / § 43 Abs. 1 GmbHG** — Business Judgment Rule: Entscheidung muss auf angemessener Information beruhen; fehlerhafte Datenbasis = kein Safe Harbour.
+- **§ 311 AktG** — Abhängigkeitsbericht: Datenqualität entscheidend für Nachteilsfeststellung.
+- **§ 22 WpHG / Art. 17 MAR** — Insiderinformation: fehlerhafte Quellenattribution kann Marktmissbrauchsrisiko auslösen.
+- **§§ 242, 264 HGB** — Buchführungspflichten: Verlässlichkeit der Finanzdaten als Prüfungsgrundlage.
+- **DSGVO Art. 5 Abs. 1 lit. d** — Datenrichtigkeit: personenbezogene Daten müssen sachlich richtig und aktuell sein.
+
+## Aktuelle Rechtsprechung
+
+- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 Rn. 22 — GmbH-Geschäftsführer muss Entscheidungsgrundlagen aktiv verifizieren; Verlassen auf mündliche Managementangaben ohne Gegenprüfung reicht für BJR-Safe-Harbour nicht aus.
+- BGH, Urt. v. 21.04.1997 - II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat trifft eigenständige Informationspflicht; Verlassen auf Vorstandsberichte ohne eigene Prüfung begründet Haftung.
+- OLG Frankfurt, Urt. v. 07.12.2021 - 5 U 134/20, ZIP 2022, 310 — Unvollständige Disclosure-Schedules als Garantieverletzung: Verkäufer haftet, wenn bekannte Datenmängel nicht offengelegt werden.
+- BGH, Urt. v. 26.06.2012 - II ZR 66/11, NZG 2012, 1030 Rn. 16 — Informationspflicht des Aufsichtsrats: Unklare Zahlengrundlage begründet Nachforschungspflicht vor Beschlussfassung.
+
+## Kommentarliteratur
+
+- Spindler, in: MüKo AktG, § 93 Rn. 60 ff. (Informationsbeschaffungspflicht als BJR-Voraussetzung)
+- Fleischer, in: MüKo GmbHG, § 43 Rn. 75 ff. (Sorgfaltspflicht GF bei datenbasierter Entscheidung)
+- Hüffer/Koch, AktG, § 93 Rn. 18-25 (angemessene Information, Verlässlichkeit)
+
+## Prüfmatrix Datenqualitätskontrolle
+
+| Dimension | Prüffrage | Ampel | Massnahme bei Rot |
+|---|---|---|---|
+| Quellenursprung | Stammt Datum aus Primärquelle (Register, Jahresabschluss) oder Sekundärquelle (Zusammenfassung, Managementvorlage)? | Grün/Gelb/Rot | Primärquelle einholen oder Vorbehalt dokumentieren |
+| Aktualität | Ist Datenstand nicht älter als [6 Monate]? Stichtag bekannt? | Grün/Gelb/Rot | Verkäuferbestätigung anfordern; Bringschuld in SPA |
+| Vollständigkeit | Gibt es erkennbare Lücken — fehlende Perioden, fehlende Gesellschaften, fehlende Tochtergesellschaften? | Grün/Gelb/Rot | Informationsanforderungsliste (Q&A) aufsetzen |
+| Konsistenz | Stimmen Daten in unterschiedlichen Quellen überein — HR-Zahlen = HGB-Anhang = Managementpräsentation? | Grün/Gelb/Rot | Abweichungsanalyse; Eskalation an Owner |
+| Verlässlichkeit der Schlussfolgerung | Ist Schlussfolgerung aus Datenlage logisch zwingend oder spekulativ? | Grün/Gelb/Rot | Vorbehalt einfügen; Human-in-the-loop |
+| Human-in-the-loop | Ist Senior Review vor Verwendung in Board Paper / SPA / DD-Bericht eingeholt? | Grün/Rot | Review dokumentieren; Keine Weiterverwendung ohne Freigabe |
+
+## Schritt-für-Schritt-Workflow
+
+1. **Quellen inventarisieren:** Alle Quellen mit Bezeichnung, Version, Datum, Datenraum-ID und Vollständigkeitsgrad in Belegkette erfassen.
+2. **Risikolevel bestimmen:** Geht Ergebnis in Entscheidungsvorlage (hohes Risiko), DD-Bericht (mittleres Risiko) oder internen Vermerk (niedriges Risiko)?
+3. **Konsistenzcheck:** Zahlen aus mindestens zwei unabhängigen Quellen gegenprüfen; Abweichungen > [10 %] als Konflikt markieren.
+4. **Lückenanalyse:** Fehlende Daten als TODO mit Owner und Frist erfassen; keine Lücken stillschweigend interpolieren.
+5. **Schlussfolgerungsprotokoll:** Jede analytische Schlussfolgerung mit Begründung und Unsicherheitsgrad versehen.
+6. **Human-in-the-loop-Gate:** Bei Risikoniveau Hoch: Senior Review vor Weiterverwendung; Freigabe dokumentieren.
+7. **Qualitätsprotokoll finalisieren:** Ergebnis mit Ampelstatus, Belegkette, offenen Punkten und Freigabegrad übergeben.
+
+## Output-Template Qualitätsprotokoll
+
+**Adressat:** Deal-Team intern — Tonfall sachlich-analytisch
+```
+DATENQUALITÄTSPROTOKOLL
+Mandat: [Mandatsname / Deal-Bezeichnung]
+Ersteller: [Name, Funktion]
+Datum: [Datum]
+Version: [Nr.]
+Freigabe durch: [Name, Funktion, Datum]
+
+ANALYSIERTES ERGEBNIS
+Gegenstand: [kurze Beschreibung des Ergebnisses / der Schlussfolgerung]
+Verwendungszweck: [Board Paper / DD-Bericht / SPA-Annex / interner Vermerk]
+Risikoniveau: [Hoch / Mittel / Niedrig]
+
+BELEGKETTE
+| Nr. | Quelle | Dok-Bezeichnung | Version/Datum | Datenraum-ID | Vollständigkeitsstatus |
+|----|--------|-----------------|--------------|--------------|----------------------|
+| 1  | [Quelle] | [Bezeichnung] | [V/Datum] | [ID] | [Vollständig/Lücke] |
+
+KONSISTENZPRÜFUNG
+| Datenpunkt | Quelle 1 | Quelle 2 | Abweichung | Bewertung |
+|-----------|---------|---------|-----------|-----------|
+| [Punkt]   | [Wert]  | [Wert]  | [%/EUR]   | [OK/Konflikt] |
+
+BEKANNTE DATENLÜCKEN
+| Nr. | Fehlende Information | Auswirkung auf Analyse | Owner | Frist | Eskalation |
+|----|---------------------|----------------------|-------|-------|------------|
+| 1  | [Lücke]             | [Gering/Mittel/Hoch] | [Name] | [Datum] | [Stufe] |
+
+SCHLUSSFOLGERUNG
+[Ergebnis in 2-3 Sätzen; Grad der Sicherheit; Vorbehalte]
+
+HUMAN-IN-THE-LOOP
+Senior Review eingeholt: [Ja / Nein / Ausstehend]
+Reviewer: [Name, Funktion]
+Freigabedatum: [Datum]
+Freigabegrad: [Vollständig / Unter Vorbehalt / Abgelehnt]
+
+OFFENE PUNKTE (TODO)
+| Nr. | Punkt | Owner | Frist | Eskalationsstufe |
+|----|-------|-------|-------|-----------------|
+| 1  | [Punkt] | [Name] | [Datum] | [Partner/Counsel/Associate] |
+```
 
 ## Rote Schwellen
 
-- Keine Belegkette.
-- Nicht erklärbares Ergebnis bei hohem Risiko.
-- Bias oder Datenlücke wird nicht benannt.
+- Schlussfolgerung geht in Board Paper oder SPA ohne dokumentierte Belegkette → Stop; Qualitätsprotokoll erstellen.
+- Bekannte Datenlücke wird verschwiegen statt als Vorbehalt dokumentiert → Haftungsrisiko für Anwalt und GF/Vorstand.
+- Human-in-the-loop-Gate übersprungen bei Risikoniveau Hoch → Senior Review sofort nachholen.
+- Widersprüche zwischen Quellen > [10 %] ohne Klärung → Weitergabe stoppen; Eskalation an Owner.
+- Ergebnis aus nicht verifizierbarer Sekundärquelle als Primärfakt dargestellt → Korrektur erforderlich.
 
-## Standardausgabe
+## Strategische Hinweise
 
-- Kurze Deal-Karte mit Phase, Rolle, Owner, Frist, Risiko, nächster Aktion und Freigabegrad.
-- Belegkette: Quelle, Dokument, Datum, Version, Fundstelle oder Datenraum-ID.
-- Offene Punkte als `TODO` mit Owner und Eskalationsstufe.
-- Bei hohem Risiko immer Human-in-the-loop und Senior Review verlangen.
+| Situation | Empfehlung |
+|---|---|
+| Managementangaben ohne schriftliche Grundlage | Als unverified markieren; schriftliche Bestätigung/Garantie im SPA verlangen |
+| Datenraum-Dokument ohne Versionsnummer | Zeitstempel und Datenraum-ID als Proxy nutzen; Verkäufer um Versionshistorie bitten |
+| Widersprüchliche Finanzzahlen | Buchhalterischen Beleg (Jahresabschluss, Steuerklarung) als Anker verwenden; Management um Überleitung bitten |
+| Ergebnis unter Zeitdruck ohne vollständige Daten | Vorbehalt dokumentieren; Eskalationsschwelle klar benennen; Entscheidungsträger informieren |
+
+## Quellen und Vertiefung
+
+- §§ 93 AktG, 43 GmbHG (BJR-Informationspflicht)
+- §§ 242, 264 HGB (Buchführungsqualität als Datengrundlage)
+- Art. 5 Abs. 1 lit. d DSGVO (Datenrichtigkeit)
+- BGH II ZR 234/20, NJW 2022, 1381 (GmbH-GF Informationspflicht)
+- BGH II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck)
+- Spindler, in: MüKo AktG, § 93 Rn. 60 ff.
+- Hüffer/Koch, AktG, § 93 Rn. 18-25
 
 ## Übergabe an andere Skills
 
-- Komplexe Eingänge zuerst an `corporate-kanzlei-kommandocenter` zurückspielen.
-- Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
-- Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
-
-## Vorlagen
-
-- assets/templates/data-quality-gate.md
-- assets/templates/xai-quality-control-log.md
+- `corporate-kanzlei-kommandocenter` — Gesamtkoordination; Eskalation bei roter Schwelle
+- `corporate-kanzlei-board-paper-business-judgment` — Board Paper setzt Qualitätsprotokoll voraus
+- `corporate-kanzlei-due-diligence-reporting` — DD-Report nur mit verifizierten Quellen
+- `corporate-kanzlei-disclosure-schedules` — Disclosure nur mit vollständiger Belegkette

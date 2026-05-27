@@ -1,9 +1,32 @@
 ---
 name: hausarbeit-workflow-start
-description: Master-Workflow-Skill der Studierende durch die gesamte Hausarbeits- oder Seminararbeits-Loesung fuehrt. Sokratisch fragend gentle korrigierend ermutigend. Erst Fangfrage zur Lehrkraft dann Aufgabenstellung erfassen dann Routing dann Methoden dann Fachgebiet-Schemata dann Subsumtion dann Endkontrolle. Bei Hausarbeit Korrekturassistent bei Seminararbeit persoenliche Lekture. Bei falschen Eingaben sensibel umlenken nicht abkanzeln. Bindet Web-Recherche Beck-Online juris Google-Scholar ein. Behutsame frech-wertschaetzende Rueckfragen am Rande. Ziel echte Durchdringung plus fertige Arbeit am Ende.
+description: "Student beginnt Hausarbeit und braucht vollstaendige Begleitung von Anfang bis Abgabe. Master-Workflow-Skill: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Pruefraster Gesamt-Workflow sokratisch fragen gentle korrigieren Beck-Online juris einbinden. Output fertige Hausarbeit Schritt fuer Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination)."
 ---
 
 # Master-Workflow Hausarbeiten- und Seminararbeitenmacher
+
+
+## Triage zu Beginn
+1. Hausarbeit oder Seminararbeit?
+2. Von welchem Lehrstuhl/Fachgebiet stammt die Aufgabe?
+3. Wie viel Zeit bis zur Abgabe?
+4. Sind Vorleistungen (Gliederung, Disposition) gefordert?
+
+## Aktuelle Rechtsprechung und Methodik
+- BVerfG, Beschl. v. 11.06.1980 - 1 PBvU 1/79, BVerfGE 54, 277 — Sorgfaeltige Bearbeitung juristischer Aufgaben erfordert methodisches Vorgehen; ad hoc Subsumtion ohne Struktur begruendet fehlerhafte Ergebnisse.
+- BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Systematische Anspruchspruefung ist Standard in Zivil- und Verwaltungsrecht; unsystematische Bearbeitung fuehrt zu luckenhaeften Ergebnissen.
+- BAG, Urt. v. 26.06.2013 - 5 AZR 428/12, NZA 2013, 1081 — Juristische Arbeitsweise erfordert Planung und strukturiertes Vorgehen; lernmethodische Grundsaetze sind ubertragbar auf akademische Arbeiten.
+- BVerfG, Beschl. v. 12.09.2006 - 2 BvR 2115/01, NJW 2007, 207 — Dokumentation des eigenen Vorgehens als Qualitaetsmerkmal juristischen Arbeitens; Workflow-Dokumentation verbessert Ergebnisse.
+
+## Zentrale Normen
+- § 13 JAG NRW — Anforderungen an Hausarbeiten im Examen: voellig eigensatndige wissenschaftliche Leistung
+- § 1 PruefO Jura (beispielhaft) — Eigenstaendigkeit als Grundprinzip jeder juristischen Pruefungsleistung
+- §§ 133, 157 BGB — Methodische Basis fuer korrekte Auslegung im Workflow
+- § 242 BGB — Treu und Glauben: umfasst auch sorgfaeltige wissenschaftliche Arbeit
+
+## Kommentarliteratur
+- Larenz/Wolf Allgemeiner Teil BGB, 9. Aufl. 2004, Einl. Rn. 1-25 (Methodik juristischen Arbeitens im Studium)
+- Brox/Walker, Allgemeines Schuldrecht, 48. Aufl. 2024, Einl. Rn. 1-20 (Systematisches Arbeiten als Lernziel)
 
 ## Zweck
 

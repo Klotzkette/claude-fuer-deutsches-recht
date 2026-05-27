@@ -1,6 +1,6 @@
 ---
 name: mandant-aufnahme
-description: "Strukturiertes Erstgespräch – fachbereichsspezifische Vorlagen, fachübergreifende Problemerkennung, RDG-Konfliktprüfung, Interessenkonflikt-Check und Triage-Klassifikation. Erzeugt eine formatierte Fallzusammenfassung, die der Studierende analysiert und der Anleiter prüft. Entscheidet nicht über Mandatsannahme. Aufrufen bei neuen Mandaten oder zur Erfassung eines Erstgesprächs."
+description: "Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und muss Sachverhalt strukturiert erfassen Rechtsgebiet einordnen und naechste Schritte bestimmen. BeratungsHiG § 2 Beratungsberechtigung, BRAO § 43a Interessenkonflikte, niedrigschwellige Erstberatung. Pruefraster Sachverhalt aufnehmen, Dringlichkeit und Fristen erfassen, Interessenkonflikt prüfen, Beratungsschein-Berechtigungen klaeren. Output Mandantenaufnahme-Protokoll mit Sachverhalts-Zusammenfassung und Sofortmassnahmen. Abgrenzung zu Kaltstart-Interview fuer Plugin-Konfiguration und zu Memo fuer rechtliche Analyse."
 ---
 
 # /mandant-aufnahme

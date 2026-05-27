@@ -1,11 +1,68 @@
 ---
 name: dsgvo-rechtswidriges-produkt
-description: "Prueft ob ein Produkt aus dem Ausland datenschutzrechtswidrig im Sinne der DSGVO ist: raeumlicher Anwendungsbereich Art. 3 DSGVO Erforderlichkeit Art. 5 Abs. 1 lit. c DSGVO Rechtsgrundlage Art. 6 DSGVO Einwilligung Art. 7 DSGVO Informationspflichten Art. 13 14 DSGVO Datenuebermittlung Drittlaender Art. 44 ff DSGVO automatisierte Entscheidung Art. 22 DSGVO biometrische Daten Art. 9 DSGVO. Relevant fuer Smartglasses Wearables IoT."
+description: "Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit pruefen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-Produkt DSGVO-konform ist. Normen: Art. 3 DSGVO (raeumlicher Anwendungsbereich), Art. 5 Abs. 1 lit. c (Datensparsamkeit), Art. 6 (Rechtsgrundlage), Art. 9 (biometrische Daten), Art. 13-14 (Informationspflichten), Art. 44 ff. (Drittlandtransfer), Art. 22 (automatisierte Entscheidung). Pruefraster: Anwendbarkeit, Rechtsgrundlage, Sonderkateg. Daten, Drittlandtransfer. Output DSGVO-Pruefschema mit Ergebnis und Empfehlung. Abgrenzung: allgemeine DSGVO-Beratung siehe datenschutzrecht-Plugin; DSA siehe dsa-dma-Plugin."
 ---
 
 # DSGVO-rechtswidriges Produkt
 
 Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtswidrig zu bewerten ist und der Kaeufer Rückabwicklung will.
+
+
+## Triage zu Beginn
+
+1. Unterliegt das Produkt dem räumlichen Anwendungsbereich der DSGVO (Art. 3 Abs. 1 oder Abs. 2 DSGVO)?
+2. Welche Kategorien personenbezogener Daten werden verarbeitet — biometrische Daten (Art. 9 DSGVO)?
+3. Werden Daten in Drittländer übermittelt ohne SCC oder anderen Mechanismus (Art. 44 ff. DSGVO)?
+4. Hat der Käufer wirksame Einwilligung erteilt oder scheidet Einwilligung aus (Art. 7 DSGVO)?
+
+## Aktuelle Rechtsprechung
+
+- EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2993 — Meta/Facebook: Berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO setzen echte Abwägung voraus; kommerzielle Interessen allein genügen nicht.
+- BGH, Urt. v. 23.06.2021 - VI ZR 39/20, NJW 2021, 3041 — DSGVO-Verstöße können zivilrechtlichen Schadensersatzanspruch nach Art. 82 DSGVO begründen; immaterieller Schaden muss konkret dargelegt werden.
+- EuGH, Urt. v. 14.12.2023 - C-340/21, NJW 2024, 519 — Bloße Befürchtung zukünftiger Missbräuche genügt für immateriellen Schaden nach Art. 82 DSGVO nicht; konkreter Kontrollverlust oder Beeinträchtigung nötig.
+- BGH, Urt. v. 12.10.2021 - VI ZR 488/19, NJW 2022, 389 — DSGVO als Eingriffsnorm nach Art. 9 Rom-I; gilt auch wenn Vertragsstatut ausländisches Recht ist.
+
+## Zentrale Normen
+
+- Art. 3 DSGVO — räumlicher Anwendungsbereich (Niederlassungs- und Marktortprinzip)
+- Art. 6 DSGVO — Rechtsgrundlagen für Verarbeitung
+- Art. 7 DSGVO — wirksame Einwilligung
+- Art. 9 DSGVO — besondere Kategorien (biometrische Daten, Gesundheitsdaten)
+- Art. 44 ff. DSGVO — Drittlandübermittlung (SCC, Angemessenheitsbeschluss)
+- Art. 82 DSGVO — Schadensersatz (materiell und immateriell)
+- § 134 BGB — Nichtigkeit bei Verstoß gegen Verbotsgesetz
+
+## Kommentarliteratur
+
+- Kühling/Buchner, DSGVO/BDSG, 4. Aufl. 2024, Art. 3 Rn. 1-40 (räumlicher Anwendungsbereich)
+- Sydow/Marsch, DSGVO, 3. Aufl. 2022, Art. 9 Rn. 1-30 (besondere Datenkategorien)
+- Paal/Pauly, DSGVO/BDSG, 3. Aufl. 2021, Art. 82 Rn. 1-30 (Schadensersatz)
+
+## Schritt-für-Schritt-Workflow
+
+1. **Anwendbarkeit DSGVO prüfen (Art. 3):** Niederlassungsprinzip oder Marktortprinzip.
+2. **Verarbeitungsarten inventarisieren:** Welche Daten werden vom Produkt verarbeitet?
+3. **Rechtsgrundlage prüfen (Art. 6, 7, 9):** Für jede Verarbeitungsart.
+4. **Drittlandübermittlung (Art. 44 ff.):** SCC vorhanden? Angemessenheitsbeschluss?
+5. **Privatrechtliche Konsequenzen:** Nichtigkeit § 134 BGB? Sachmangel § 434 BGB? CISG Art. 35?
+6. **Schadensersatz (Art. 82 DSGVO):** Materiell und immateriell — konkreten Schaden darlegen.
+
+## Output-Template
+
+**Adressat:** Entscheidungsgründe — Tonfall: sachlich-juristisch
+
+```
+## DSGVO-Prüfung
+
+**Anwendbarkeit Art. 3 DSGVO:** Ja, weil [Niederlassungsprinzip / Marktortprinzip: Produkt
+richtet sich an Personen in der EU].
+
+**Verarbeitungsarten:** [Produkt X] verarbeitet [DATENART, z.B. biometrische Daten nach Art. 9 DSGVO].
+
+**Rechtsgrundlage Art. 6 DSGVO:** Keine wirksame Rechtsgrundlage, weil [BEGRÜNDUNG].
+
+**Folge:** [Sachmangel § 434 BGB / Nichtigkeit § 134 BGB / Schadensersatz Art. 82 DSGVO].
+```
 
 ## Pruefstationen
 

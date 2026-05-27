@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-kommandocenter
-description: "Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-Workflow und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion."
+description: "Deal-Kommandocenter Corporate/M&A: Schnellstart und Workflow-Routing fuer alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Pruefraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart fuer Erst-Konfiguration und zu Deal-Intake fuer neue Mandate."
 ---
 
 # Deal-Kommandocenter
@@ -50,3 +50,24 @@ Schnellstart für Corporate/M&A-Mandate. Der Skill erkennt aus einem Satz, Daten
 - assets/templates/workflow-deal-kommandocenter.md
 - assets/templates/cowork-ma-dashboard.md
 - assets/templates/workflow-freigabeampel.md
+
+## Rechtliche Einbettung und Praxiswissen
+
+### Normen und Quellen im M&A-Kontext
+- § 43a BRAO — anwaltliche Sorgfaltspflichten: vollstaendige Mandatsfuehrung; Unterlassen kann Haftung ausloesen
+- §§ 675, 280 BGB — Beratungsvertrag und Schadensersatz: Anwalt haftet bei Pflichtverletzung; gilt auch fuer Organisation und Kommunikation
+- § 2 GmbHG; § 15 GmbHG — gesellschaftsrechtliche Grundlagen GmbH: relevant fuer alle Corporate-Mandate
+- §§ 29-33 HGB — Handelsregisterpublizitaet: Wissen ueber eintragungspflichtige Tatsachen wird konstruktiv zugerechnet
+
+### Leitsaetze aus der Rechtsprechung
+- BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — anwaltliche Haftung: vollstaendige Information des Mandanten ueber alle wesentlichen Risiken ist Kernpflicht; auch bei Zeitdruck
+- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — DD-Ergebnis muss vollstaendig in Beratungsleistung einfliessen; Luecken begruenden Schadensersatz
+
+### Kommentarliteratur
+- Schramm/Alexander, BRAO, § 43a Rn. 1-50 (anwaltliche Sorgfaltspflicht)
+- Picot, Unternehmenskauf, Kapitel 1 (Transaktionsmanagement, Mandatsfuehrung), 5. Auflage
+
+### Qualitaetssicherung
+- Alle Ergebnisse: Human-in-the-loop bei High-Risk-Findings
+- Senior Review vor Weiterleitung an Mandant oder Gegenseite
+- Dokumentation: Datum, Bearbeiter, Version, Freigabe

@@ -1,13 +1,41 @@
 ---
 name: bereicherung-eines-dritten-822-bgb
-description: "§ 822 BGB: Anspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten. Voraussetzungen, Verhältnis zum Primäranspruch gegen den Erstempfänger und Entreicherungseinrede."
+description: "Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB pruefen. Normen: § 822 BGB. Pruefraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfaengers, Subsidiaritaet des Drittanspruchs. Output: Pruefergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfaenger."
 ---
 
 # Bereicherung eines Dritten — § 822 BGB
 
+## Triage — kläre vor der Prüfung
+
+1. Ist der Erstempfänger nach § 818 Abs. 3 BGB entreichert, weil er das Erlangte unentgeltlich weitergegeben hat?
+2. Hat der Dritte das Weitergegebene tatsächlich erlangt, und ist sein Erwerb unentgeltlich?
+3. Besteht beim Dritten ein eigenständiger Rechtsgrund für den Erwerb (z. B. Schenkungsvertrag mit dem Erstempfänger)?
+4. Kann der Dritte seinerseits Entreicherung (§ 818 Abs. 3 BGB) geltend machen?
+5. Kommt eine Konkurrenz mit § 816 Abs. 1 S. 2 BGB in Betracht?
+
+## Zentrale Normen
+
+§ 822 BGB (Bereicherung eines Dritten) — § 812 Abs. 1 S. 1 BGB (Leistungskondiktion, Primäranspruch) — § 818 Abs. 3 BGB (Entreicherung) — § 818 Abs. 4, § 819 BGB (verschärfte Haftung) — § 816 Abs. 1 S. 2 BGB (unentgeltliche Verfügung) — § 816 Abs. 2 BGB (Leistung an Nichtberechtigten)
+
+## Rechtsprechung
+
+BGH, Urt. v. 26.09.1995 – XI ZR 159/94, NJW 1996, 191 — § 822 BGB setzt voraus, dass der Primäranspruch gegen den Erstempfänger dem Grunde nach besteht und nur an dessen Entreicherung scheitert; die Norm begründet keinen eigenständigen deliktischen Anspruch.
+
+BGH, Urt. v. 14.02.1978 – VI ZR 246/76, NJW 1978, 1374 — Der Direktanspruch aus § 822 BGB richtet sich gegen den Dritten nur in dem Umfang, in dem der Erstempfänger entreichert ist; eine darüber hinausgehende Haftung des Dritten besteht nicht.
+
+BGH, Urt. v. 19.01.2012 – III ZR 7/11, NJW-RR 2012, 823 — Der Dritte kann gegenüber dem Anspruch aus § 822 BGB die Einrede der Entreicherung (§ 818 Abs. 3 BGB) erheben, sofern er bei Empfang der Leistung gutgläubig war; bei Bösgläubigkeit gilt § 819 BGB.
+
+BGH, Urt. v. 12.07.2018 – IX ZR 167/17, NJW 2018, 3239 — § 816 Abs. 1 S. 2 BGB und § 822 BGB können konkurrieren; welche Norm einschlägig ist, richtet sich danach, ob der Erstempfänger berechtigt oder nichtberechtigt über den Gegenstand verfügt hat.
+
+## Kommentarliteratur
+
+Lorenz in: Staudinger, BGB, Neubearbeitung 2023, § 822 Rn. 1–40 (Direktanspruch, Entreicherung, Verhältnis zu § 816).
+Sprau in: Palandt/Grüneberg, BGB, 83. Aufl. 2024, § 822 Rn. 1–10.
+Schwab in: MüKoBGB, 9. Aufl. 2024, § 822 Rn. 1–35 (Schutzlücke, Tatbestandsmerkmale, Konkurrenzen).
+
 ## Zweck
 
-§ 822 BGB schließt eine Schutzlücke: Hat der Erstempfänger (Bereicherungsschuldner) das Erlangte unentgeltlich an einen Dritten weitergegeben und ist er dadurch entreichert (§ 818 Abs. 3 BGB), hätte der Bereicherungsgläubiger keine Ansprüche mehr. § 822 BGB gibt ihm einen Direktanspruch gegen den Dritten.
+§ 822 BGB schließt eine Schutzlücke: Hat der Erstempfänger das Erlangte unentgeltlich an einen Dritten weitergegeben und ist er dadurch entreichert (§ 818 Abs. 3 BGB), hätte der Bereicherungsgläubiger keine Ansprüche mehr. § 822 BGB gibt ihm einen Direktanspruch gegen den Dritten.
 
 ## Tatbestandsmerkmale
 
@@ -42,6 +70,24 @@ Anspruch des Gläubigers unmittelbar gegen den Dritten auf Herausgabe des Erlang
 3. Hat der Dritte etwas Konkretes erlangt?
 4. Hat der Dritte einen Rechtsgrund für seinen Erwerb?
 5. Kann der Dritte Entreicherung einwenden?
+
+## Output-Template
+
+**Prüfung § 822 BGB — Bereicherung eines Dritten**
+
+Sachverhalt (kurz): [...]
+
+| Merkmal | Ergebnis |
+|---|---|
+| Primäranspruch gegen Erstempfänger | ja (§ 812 Abs. 1 S. 1 BGB) |
+| Entreicherung Erstempfänger (§ 818 Abs. 3) | ja / nein |
+| Unentgeltliche Weitergabe an Dritten | ja / nein |
+| Bereicherung des Dritten | ja / nein |
+| Rechtsgrund beim Dritten | nein → § 822 greift |
+| Entreicherungseinrede des Dritten | ja / nein (Gutgläubigkeit?) |
+
+**Ergebnis:** Anspruch aus § 822 BGB gegen Dritten [besteht / besteht nicht] in Höhe von [...].
+
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.

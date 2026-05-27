@@ -1,6 +1,6 @@
 ---
 name: anw-aussenpruefung-strategien
-description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach §§ 193 ff. AO. Pruefungsanordnung (§ 196 AO) Anfechtung Pruefungsumfang (§ 194 AO) Mitwirkungspflichten (§ 200 AO) Datenzugriff (§ 147 AO) Auskunftsverweigerungsrecht (§§ 102 103 AO) Trennungsprinzip (§ 393 AO). Schlussbesprechung (§ 201 AO) Pruefungsbericht (§ 202 AO) Verbindliche Zusage (§ 204 AO). Strategie aktive Mitwirkung dokumentierter Widerspruch Vergleichs-Verhandlung GoBD DSFinV-K. Aenderungsbescheide §§ 173 175 AO.
+description: "Anwaltliche Begleitung einer Betriebspruefung Aussenpruefung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Pruefungsanordnung § 196 AO oder Pruefung laeuft bereits. Pruefraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Pruefungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verstaendigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verstaendigung-schlussbesprechung."
 ---
 
 # Außenprüfung — Strategien und Begleitung
@@ -11,6 +11,7 @@ description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach
 2. Welche Steuerarten und welche Veranlagungszeiträume?
 3. Wurde die Prüfung bereits angekündigt? Datum der Prüfungsanordnung?
 4. Liegt der Verdacht auf eine Steuerstraftat nahe oder schon eingeleitet?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Rechtsgrundlagen
 
@@ -34,6 +35,9 @@ description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach
 - BGH, Urt. v. 12.12.2019 – Az. 1 StR 219/19 — Selbstbelastungsverbot.
 
 ## Prüfschema
+
+
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 ```
 1. Prüfungsanordnung § 196 AO
@@ -88,7 +92,7 @@ description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach
 - **Teilnahme** Mandant Steuerberater Anwalt.
 - **Protokoll** mit allen Vereinbarungen — bei Einvernehmen über Sachverhalte rechtlich relevant.
 - **Tatsächliche Verständigung** über Sachverhaltsfragen § 88 AO iVm BFH-Rspr. möglich (nicht: Verständigung über Recht).
-- **Schlussbesprechungsprotokoll** in der Mandantenakte (`kanzlei-cowork`).
+- **Schlussbesprechungsprotokoll** in der Mandantenakte (`kanzlei-allgemein`).
 
 ### Phase 5 — Prüfungsbericht (§ 202 AO)
 
@@ -121,6 +125,20 @@ description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach
 - Nicht: Verständigung über Recht.
 - BGH-Linie zur „tatsächlichen Verständigung".
 
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Strategie fuer Aussenprufung entwickeln und Stellungnahme erstellen | Stellungnahme nach Schema; Template unten |
+| Variante A — Mandant will kooperieren um Prüfung schnell abzuschliessen | Kooperative Strategie; Unterlagen proaktiv vorlegen |
+| Variante B — Pruefung hat strafrechtliche Relevanz | Steuerstrafrecht-Skill einschalten; vorsichtige Kooperation |
+| Variante C — Pruefungsergebnis ist klar falsch Einspruch noetig | Einspruchsstrategie parallel vorbereiten; Schlussbesprechung nutzen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+
 ## Schreibvorlage Stellungnahme zur Schlussbesprechung
 
 ```
@@ -152,6 +170,18 @@ namens und in Vollmacht der [Mandantin] nehmen wir zu den Prüfungsfeststellunge
 Mit freundlichen Grüßen
 [Anwalt, Fachanwalt für Steuerrecht]
 ```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+
+Schlussabsatz Variante A (kooperativ):
+Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+
+Schlussabsatz Variante B (formal-streng):
+Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
 
 ## Steuerstrafrechtliche Risiken
 

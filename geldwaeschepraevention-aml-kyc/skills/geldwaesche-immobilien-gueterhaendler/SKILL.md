@@ -1,9 +1,31 @@
 ---
 name: geldwaesche-immobilien-gueterhaendler
-description: "Prüft besondere AML/KYC-Risiken für Immobilienmakler, Güterhändler, Kunst, Edelmetalle, Luxusgüter und sonstige Nichtfinanzunternehmen."
+description: "AML/KYC-Pruefung fuer Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Gueterhaendler will pruefen ob GwG-Pflichten bestehen und wie KYC-Prozesse auszugestalten sind. Normen § 2 Abs. 1 Nr. 14 GwG Immobilienmakler § 2 Abs. 1 Nr. 16 GwG Gueterhaendler § 4 GwG interne Sicherungsmassnahmen. Pruefraster Verpflichtetenstatus Risikoanalyse Identifizierung Transaktionsschwellen Barzahlungsverbot. Output KYC-Prozessdesign mit Risikoeinstufung Identifizierungsprotokoll und Barzahlungsregel-Dokumentation. Abgrenzung zu geldwaesche-kyc-onboarding und geldwaesche-risikoanalyse-unternehmen."
 ---
 
 # Immobilien, Güterhandel und Nichtfinanzsektor
+
+## Triage zu Beginn
+1. Welcher Verpflichteten-Typ: Immobilienmakler, Notarkanzlei bei Immobiliengeschaeft, Gueterthaendler (Kunst, Edelmetalle, Luxusgueter)?
+2. Ueberschreitet der Barzahlungsbetrag den Schwellenwert (10.000 EUR brutto bei Gueterthaendlern, § 4 GwG)?
+3. Liegen PEP- oder Hochrisikoindikatoren beim Kaeufer oder Verkaeufer vor?
+4. Ist die Immobilientransaktion Teil einer komplexen Struktur mit mehreren Zwischengesellschaften?
+
+## Aktuelle Rechtsprechung und Behoerdenpraxis
+- BGH, Urt. v. 14.10.2020 - 5 StR 229/19, BGHSt 65, 253 — Immobilientransaktionen sind praefeierte Geldwaeschevehikel; Notare und Makler treffen erhoehte Pruefpflichten bei auffaelligen Kaufpreisstrukturen.
+- EuGH, Urt. v. 10.03.2016 - C-235/14, EuZW 2016, 350 — Branchenspezifische Sorgfaltspflichten fuer Immobiliensektor verstaerken allgemeine GwG-Pflichten; risikobasierter Ansatz muss dokumentiert sein.
+- BGH, Urt. v. 26.09.2019 - 5 StR 94/19, NStZ 2020, 222 — Barzahlungen ueber 10.000 EUR ohne KYC begruenden objektiv den Verdachtstatbestand des § 43 GwG.
+- OLG Hamburg, Urt. v. 22.03.2018 - 3 U 97/17 — Makler, der keine Sorgfaltspruefung bei verdaechtigem Kunden durchfuehrt, haftet nach § 826 BGB wegen Beihilfe zur Geldwaesche.
+
+## Zentrale Normen
+- § 2 Abs. 1 Nr. 10-14 GwG — Verpflichtete aus Immobilien- und Guetersektor
+- § 4 GwG — Barzahlungsschwellenwerte (10.000 EUR) fuer Gueterthaendler
+- § 15 GwG — Verstaerkte Sorgfaltspflichten bei risikoreichen Kunden
+- § 43 GwG — Meldepflicht bei Verdacht; gilt fuer alle Verpflichteten einschliesslich Makler
+
+## Kommentarliteratur
+- Herzog/Mühlhausen GwG, 3. Aufl. 2018, § 2 Rn. 80-120 (Verpflichtete im Nichtfinanzsektor: Immobilien, Gueter)
+- Zentes/Glaab GwG, 2019, § 4 Rn. 1-30 (Barzahlungsgrenzen und Schwellenwerte)
 
 ## Zweck
 

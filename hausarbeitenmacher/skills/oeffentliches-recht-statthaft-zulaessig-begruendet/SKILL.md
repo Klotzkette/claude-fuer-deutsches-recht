@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-recht-statthaft-zulaessig-begruendet
-description: Oeffentlich-rechtliches Schema Verwaltungs-/Verfassungsklage Statthaftigkeit Zulaessigkeit Begruendetheit. VwGO §§ 40 42 47 113. BVerfGG Verfassungsbeschwerde. Klage-Arten Anfechtungsklage Verpflichtungsklage Leistungsklage Feststellungsklage Normenkontrolle einstweiliger Rechtsschutz.
+description: "Student bearbeitet oeffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulaessigkeit Begruendetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Pruefraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output pruefungsschema oeffentliches Recht Statthaftigkeits-Pruefung. Abgrenzung zu verfassungsrecht-grundrechtspruefung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl)."
 ---
 
 # Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit

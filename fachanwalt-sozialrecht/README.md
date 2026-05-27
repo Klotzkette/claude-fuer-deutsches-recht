@@ -1,8 +1,8 @@
 # Fachanwalt Sozialrecht
 
-Light-Touch-Plugin Fachanwalt für Sozialrecht nach FAO § 11. Orientierung, Widerspruch, SGB-II-Bescheid, Erwerbsminderungsrente. Schnittstellen zu `sozialrecht-kanzlei` und `kanzlei-cowork`.
+Vollumfaengliches Plugin fuer Fachanwaltschaft Sozialrecht inkl. Kanzleioperative. Fachanwalt fuer Sozialrecht nach FAO § 11. Widerspruch, Klage, Eilantrag, SGB-II-Bescheid, Erwerbsminderungsrente, GdB-Schwerbehinderung, Pflegegrad, Hilfsmittel, Eingliederungshilfe. Kanzleioperative: Bescheidanalyse, Akteneinsicht, PKH, Fristenbuch, Mandanten-Intake, Mandantenbrief Leichte Sprache.
 
-## ⬇️ Direkt-Download (einzelnes ZIP)
+## Direkt-Download (einzelnes ZIP)
 
 | Plugin | Direkt-Download |
 | --- | --- |
@@ -16,12 +16,47 @@ Light-Touch-Plugin Fachanwalt für Sozialrecht nach FAO § 11. Orientierung, Wid
 
 ## Enthaltene Skills
 
+### Fachanwaltschaft-Skills
+
 | Skill | Zweck |
 | --- | --- |
 | `fachanwalt-sozialrecht-orientierung` | FAO § 11, SGB I bis XII, Sozialgerichtsbarkeit, Standardliteratur. |
 | `fachanwalt-sozialrecht-widerspruch-sozialleistung` | Widerspruch gegen Sozialleistungsbescheid, § 84 SGG, Frist ein Monat. |
 | `fachanwalt-sozialrecht-sgb-ii-bescheid` | Bürgergeld-Bescheid SGB II — Bedarfsberechnung, Regelbedarf, Sanktionen. |
 | `fachanwalt-sozialrecht-erwerbsminderungsrente` | Volle / teilweise Erwerbsminderungsrente nach §§ 43, 240 SGB VI. |
+| `fachanwalt-sozialrecht-gdb-schwerbehinderung` | GdB-Feststellung § 152 SGB IX, Merkzeichen, Widerspruchsbausteine. |
+| `fachanwalt-sozialrecht-krankengeld-aussteuerung` | Krankengeldbezug, Aussteuerung, Anschlussleistungen. |
+| `fachanwalt-sozialrecht-eu-rente-antrag` | EU-Rentenantrag, grenzüberschreitende Sozialversicherung. |
+| `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` | Long-COVID, Berufskrankheit, Berufsgenossenschaft. |
+| `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` | Vergleichsstrategie Sozialgericht und Widerspruchsverhandlung. |
+
+### Kanzleioperative-Skills
+
+| Skill | Zweck |
+| --- | --- |
+| `bescheidanalyse` | Strukturierte Analyse von Sozialleistungsbescheiden. |
+| `bescheid-frist-quick-check` | Schnellprüfung Widerspruchsfrist und Bekanntgabe. |
+| `widerspruchsfrist-und-zustellung-sgb` | Fristberechnung Zustellung und SGB-Bekanntgaberegeln. |
+| `fristenbuch-sozialrecht` | Fristenverwaltung für Sozialrechtsmandate. |
+| `akteneinsicht-anfordern` | Akteneinsicht nach § 25 SGB X beantragen. |
+| `akteneinsicht-auswerten` | Auswertung der Verwaltungsakte nach Akteneinsicht. |
+| `eilantrag-sozialrecht` | Eilantrag § 86b SGG beim Sozialgericht. |
+| `klage-sozialgericht` | Klage beim Sozialgericht nach Widerspruchsbescheid. |
+| `pkh-erfolgsaussicht-pruefen` | Prozesskostenhilfe-Erfolgsaussicht prüfen. |
+| `prozesskostenhilfe-antrag` | PKH-Antrag formulieren und einreichen. |
+| `hilfsmittelantrag-pruefen` | Hilfsmittelantrag (Rollstuhl, Hörhilfe, Vorlesekraft) prüfen. |
+| `pflegegrad-widerspruch` | Widerspruch gegen Pflegegrad-Einstufung. |
+| `eingliederungshilfe-schule` | Eingliederungshilfe Schulbegleitung SGB IX. |
+| `anlagen-erstellen` | Anlagenkonvolut für Schriftsätze erstellen. |
+| `mandanten-intake` | Strukturierter Mandanten-Intake für Sozialrechtsfälle. |
+| `mandat-triage-sozialrecht` | Triage und Priorisierung von Sozialrechtsmandaten. |
+| `sozialrecht-fallaufnahme-routing` | Fallaufnahme-Routing an den richtigen Skill. |
+| `sozialrecht-kanzlei-kaltstart-interview` | Kaltstart-Interview für neue Sozialrechtsfälle. |
+| `mandantenbrief-leichte-sprache` | Mandantenbriefe in leichter Sprache. |
+| `schulung-fallbesprechung` | Interne Fallbesprechung und Schulung. |
+| `erstgespraech-mandatsannahme` | Erstgespräch und Mandatsannahme. |
+| `schriftsatzkern-substantiierung` | Schriftsatz-Substantiierung für Klageverfahren. |
+| `vergleichsverhandlung-strategie` | Vergleichsverhandlung Strategie im Sozialrecht. |
 
 ## Lizenz
 

@@ -1,6 +1,6 @@
 ---
 name: inkasso-rdg
-description: "Begleitet registrierte Inkassounternehmen und Rechtsanwälte bei der rechtskonformen Durchführung von Inkassodienstleistungen nach dem RDG – von Registrierungsvoraussetzungen über Hinweispflichten gegenüber Schuldnern bis zur Vergütung und datenschutzkonformen Datenverarbeitung. Lädt bei Fragen zu Inkasso, RDG-Registrierung, Mahnung, Schuldnerschutz und Legal-Tech-Inkasso."
+description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG pruefen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Pruefraster: Erlaubnispflicht Nebenleistungsprivileg Inkassoerlaubnis Zulassung Aufsicht Kundenschutz. Output: RDG-Pruefmemo Erlaubnis-Empfehlung. Abgrenzung: nicht fuer anwaltliche Forderungseinziehung."
 ---
 
 # Inkassodienstleistungen (RDG)
