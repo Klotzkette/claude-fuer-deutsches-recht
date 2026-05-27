@@ -3,11 +3,11 @@ name: stb-jahresabschluss-veroeffentlichung-bundesanzeiger
 description: "Jahresabschluss-Veroeffentlichung Bundesanzeiger § 325 HGB. Anwendungsfall Pflichtveroeffentlichung Kapitalgesellschaft Frist 12 Monate Groessenklassen Erleichterungen. Methodik elektronische Uebermittlung. Output Bundesanzeiger-Eintrag."
 ---
 
-# Jahresabschluss-Veroeffentlichung im Bundesanzeiger
+# Jahresabschluss-Offenlegung im Unternehmensregister
 
 ## Kernsachverhalt
 
-Kapitalgesellschaften und KapCoGes (GmbH & Co. KG) muessen ihren Jahresabschluss im Bundesanzeiger veroeffentlichen (§ 325 HGB). Frist: 12 Monate nach Bilanzstichtag. Groessenklassen (§ 267 HGB) bestimmen Umfang. Verspaetung: Bussgeld bis 25.000 EUR pro Pflichtteil. Seit 2022 elektronische Uebermittlung ueber publikations-plattform.de.
+Kapitalgesellschaften und KapCoGes (insbesondere GmbH & Co. KG) muessen ihren Jahresabschluss offenlegen (§ 325 HGB). Frist: 12 Monate nach Bilanzstichtag. Groessenklassen (§ 267 HGB) bestimmen Umfang und Veroeffentlichungs- bzw. Hinterlegungsweg. Verspaetung loest ein Ordnungsgeldverfahren des Bundesamts fuer Justiz (BfJ) gemaess § 335 HGB aus (Ordnungsgeld 2.500-25.000 EUR, ggf. mehrfach festsetzbar). Zustaendige Plattform: Seit den Geschaeftsjahren mit Beginn nach dem 31.12.2021 erfolgt die Offenlegung nach dem DiRUG (BGBl. I 2021, 3338) ueber das **Unternehmensregister** (publikations-plattform.de), nicht mehr direkt ueber den Bundesanzeiger; fuer aeltere Geschaeftsjahre gilt noch die Veroeffentlichung im Bundesanzeiger.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,20 +24,22 @@ Kapitalgesellschaften und KapCoGes (GmbH & Co. KG) muessen ihren Jahresabschluss
 
 ### Primaernormen
 
-**§ 325 HGB** — Veroeffentlichungspflicht.
+**§ 325 HGB** — Offenlegungspflicht (Geschaeftsjahre ab 01.01.2022: Uebermittlung an das Unternehmensregister gem. § 8b HGB).
 
-**§§ 326-329 HGB** — Erleichterungen Groessenklassen.
+**§ 8b HGB** — Unternehmensregister als zentrale Plattform.
 
-**§ 267 HGB** — Groessenklassen.
+**§§ 326-329 HGB** — groessenabhaengige Erleichterungen.
 
-**§ 264a HGB** — KapCoGes.
+**§ 267 HGB, § 267a HGB** — Groessenklassen (inkl. Kleinst-Kapitalgesellschaft).
 
-**§ 335 HGB** — Bussgeldverfahren.
+**§ 264a HGB** — Anwendung auf KapCoGes (z.B. GmbH & Co. KG).
+
+**§ 335 HGB** — Ordnungsgeldverfahren des BfJ (2.500-25.000 EUR pro Festsetzung; mehrfache Festsetzung zulaessig).
 
 ### Verwaltungsanweisungen
 
-- BAnz (Bundesanzeiger).
-- BfJ (Bundesamt fuer Justiz) Bussgeldverfahren.
+- BfJ-Merkblaetter zum Ordnungsgeldverfahren.
+- DiRUG (Gesetz zur Umsetzung der Digitalisierungsrichtlinie, BGBl. I 2021, 3338) — Umstellung Bundesanzeiger → Unternehmensregister.
 
 ## Workflow
 
@@ -63,15 +65,15 @@ Kapitalgesellschaften und KapCoGes (GmbH & Co. KG) muessen ihren Jahresabschluss
 
 ### Phase 3 — Frist und Uebermittlung
 
-- Frist: 12 Monate nach Bilanzstichtag.
-- Form: elektronisch ueber publikations-plattform.de (Bundesanzeiger).
-- StB-Zertifikat oder Mandanten-Zertifikat.
+- Frist: 12 Monate nach Bilanzstichtag (§ 325 Abs. 1a HGB).
+- Form: elektronische Uebermittlung an das Unternehmensregister ueber publikations-plattform.de (Anmeldung mit Nutzerkonto, Authentifizierung via DE-Mail bzw. ELSTER).
+- Zertifikat: StB-Berechtigung oder Mandanten-Login; bei Mehrfach-Mandanten Sammelversand moeglich.
 
-### Phase 4 — Bussgeld bei Verspaetung
+### Phase 4 — Ordnungsgeldverfahren bei Verspaetung
 
-- BfJ-Ordnungsgeld-Verfahren.
-- Erste Mahnung: 2.500 EUR.
-- Bei wiederholter Verspaetung: bis 25.000 EUR pro Pflichtteil.
+- Das BfJ leitet nach Fristablauf das Verfahren nach § 335 HGB ein und droht ein Ordnungsgeld an (Regelhoehe ab 2.500 EUR).
+- Wird der Verpflichtung innerhalb der gesetzten sechswoechigen Nachfrist nicht entsprochen, setzt das BfJ das Ordnungsgeld fest und kann es mehrfach in steigender Hoehe festsetzen (bis 25.000 EUR pro Festsetzung).
+- Fuer Kleinstkapitalgesellschaften gilt eine reduzierte Ordnungsgeld-Mindestschwelle (§ 335 Abs. 1a HGB).
 
 ### Phase 5 — Hinterlegung statt Veroeffentlichung
 
@@ -92,11 +94,11 @@ Kapitalgesellschaften und KapCoGes (GmbH & Co. KG) muessen ihren Jahresabschluss
 
 ## Strategie und Praxis-Tipps
 
-- Frist 12 Monate hart — bei Verspaetung Bussgeld.
-- Hinterlegungs-Option fuer Kleinste GmbH: oft attraktiv (Vertraulichkeit).
-- Bei mehreren Vorperioden offen: rechtzeitig nachholen.
-- Veroeffentlichungs-Kosten: ca. 30-200 EUR je nach Umfang.
-- StBVV: Veroeffentlichung Sonderauftrag (Pauschal).
+- Die 12-Monats-Frist gemaess § 325 Abs. 1a HGB ist hart; verstreicht sie, leitet das BfJ ohne weitere Mahnung das Ordnungsgeldverfahren ein.
+- Die Hinterlegungs-Option fuer Kleinstkapitalgesellschaften (§ 326 Abs. 2 HGB) ist haeufig attraktiv: Bilanz ist dann nur auf Antrag und gegen Gebuehr einsehbar — wesentlicher Vertraulichkeitsvorteil bei vergleichbaren Kosten.
+- Bei mehreren offenen Vorperioden: nachholen vor Folgeperiode, da das BfJ Ordnungsgelder mehrfach festsetzen kann.
+- Veroeffentlichungskosten variieren mit Umfang und Format; Richtwert pro Geschaeftsjahr 30-200 EUR — konkrete Gebuehren ueber den Tarif des Unternehmensregisters.
+- StBVV-Honorar: Offenlegung als Sonderauftrag, in der Praxis ueblich als Pauschalvereinbarung gem. § 14 StBVV oder als Beratungsleistung gem. § 21 StBVV (Erstellung E-Bilanz und Offenlegung sind getrennte Leistungen).
 
 ## Querverweise
 
@@ -108,6 +110,7 @@ Kapitalgesellschaften und KapCoGes (GmbH & Co. KG) muessen ihren Jahresabschluss
 
 Stand: 05/2026.
 
-- HGB §§ 264a, 267, 325-329, 335.
-- BAnz.
-- BfJ-Verfahrensanweisungen.
+- HGB §§ 8b, 264a, 267, 267a, 325-329, 335.
+- DiRUG (BGBl. I 2021, 3338).
+- BfJ-Verfahrensanweisungen zum Ordnungsgeldverfahren.
+- Unternehmensregister: www.unternehmensregister.de bzw. www.publikations-plattform.de.

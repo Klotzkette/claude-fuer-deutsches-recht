@@ -44,21 +44,22 @@ Die SV-Beitraege werden grundsaetzlich paritaetisch zwischen AG und AN aufgeteil
 
 ### Phase 1 — Standard-Aufteilung
 
-| Zweig | AG-Anteil (typisch) | AN-Anteil (typisch) |
+| Zweig | AG-Anteil (typisch derzeit ca.) | AN-Anteil (typisch derzeit ca.) |
 |---|---|---|
 | KV allgemein | 7,3 Prozent | 7,3 Prozent |
-| KV-Zusatzbeitrag (KK individuell) | halftig (paritaetisch) | halftig |
-| PV (allgemein) | halftig | halftig |
-| PV-Zuschlag Kinderlose | 0 | 0,6 Prozent (Stand 2025; aktualisieren) |
-| PV Sachsen | 1,025 Prozent | 1,025 Prozent (nicht paritaetisch) |
-| RV | 9,3 Prozent | 9,3 Prozent |
-| AV | aktuell verifizieren | aktuell verifizieren |
-| U1 (Kleinunternehmer) | voll AG | 0 |
-| U2 (Mutterschaft) | voll AG | 0 |
+| KV-Zusatzbeitrag (KK-individuell) | halftig (paritaetisch) | halftig |
+| PV (allgemein, ausserhalb Sachsen) | halftig | halftig |
+| PV-Zuschlag Kinderlose ab 23 Jahre | 0 | typisch ca. 0,6 Prozent allein zu Lasten AN (Stand 2024; 2026 verifizieren) |
+| PV-Abschlag mit Kindern (Reform 2023) | je nach Kinderzahl | gestaffelter Abschlag — 2026 verifizieren |
+| PV Sachsen | typisch geringer AG-Anteil als anderswo (AN zahlt mehr) | typisch hoeherer AN-Anteil | 
+| RV | 9,3 Prozent | 9,3 Prozent (gesamt 18,6 Prozent) |
+| AV | aktuell verifizieren (typisch ca. 1,3 Prozent je Seite) | wie AG |
+| U1 (Kleinunternehmer bis 30 AN) | voll AG | 0 |
+| U2 (Mutterschaft, alle AG) | voll AG | 0 |
 | Insolvenzgeld-Umlage | voll AG | 0 |
 | Berufsgenossenschaft | voll AG | 0 |
 
-(Beitragssaetze 2026 zwingend verifizieren ueber DRV/BMAS/GKV-Spitzenverband.)
+(Saemtliche Beitragssaetze 2026 zwingend verifizieren ueber Sozialversicherungs-Rechengroessenverordnung, DRV, BMAS, GKV-Spitzenverband sowie KK-individuelle Zusatzbeitragssatzungen.)
 
 ### Phase 2 — PV-Kinderlosenzuschlag
 

@@ -55,11 +55,11 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 | Periodenabgrenzung fehlt | Sprunghafte Aufwendungen | RAP nicht gebucht | RAP nachbuchen |
 | Bestandsveraenderung falsch | Wareneinsatz unplausibel | Inventur fehlt, Schaetzung schlecht | Zwischeninventur oder Warenroll |
 | Lohnbuchungen verzoegert | Personalkosten zu niedrig | Lohnprogramm nicht synchron | Buchung aus Lohnprogramm uebernehmen |
-| Verrechnungskonto offen | Saldo > 0 in 1590/1599 | Buchung nicht zugeordnet | Klaerung mit Mandant |
+| Verrechnungskonto offen | Saldo nicht null im Verrechnungs-/Geldtransit-Konto (z. B. SKR 03 1590/1599) | Buchung nicht zugeordnet | Klaerung mit Mandant; Kontonummer im aktuellen DATEV-Kontenrahmen verifizieren |
 | USt-Voranmeldung uneinheitlich | USt-Konto-Saldo passt nicht | USt-Schluessel falsch | Buchung pruefen |
 | Sonderzahlungen Personal | Monatsausschlag Lohn | Tantieme einmalig | Im Erlaeuterungstext erwaehnen |
 | Abschreibungen nicht aktualisiert | AfA monatlich konstant trotz Investition | Anlagenbuchhaltung nicht synchron | AfA aktualisieren |
-| Skonti-Buchung | Erloese zu hoch | Skonti nicht erloesschmaelernd gebucht | Konto 8730/4730 nutzen |
+| Skonti-Buchung | Erloese zu hoch | Skonti nicht erloesschmaelernd gebucht | Erloesschmaelerung im richtigen Erloeskontenbereich (vgl. DATEV-Kontenrahmen aktuelle Fassung, SKR 03 typisch 8730er bzw. SKR 04 4730er-Bereich) |
 | Provisionserloese | DB falsch | Aufwand statt Erloesschmaelerung | Buchung umstellen |
 
 ### Phase 3 — Plausibilitaetsquoten
@@ -75,10 +75,10 @@ BWA-Fehler sind nicht nur Schoenheitsmaengel — sie verfaelschen die Steuerung,
 
 ### Phase 4 — Lohnbuchungs-Konsistenz
 
-- Lohnsumme BWA = Bruttolohn Lohnprogramm (Konto 4120/4130 oder 6020/6030).
-- SV-AG-Anteil Konto = Konto Lohnabrechnung (durchschnittlich rund 21 Prozent vom Brutto).
-- Berufsgenossenschaft monatlich anteilig gebucht (Konto 4140/6140).
-- Pauschalsteuer Aushilfen Konto 4148/6148 oder vergleichbar.
+- Lohnsumme BWA muss mit dem Bruttolohn aus dem Lohnprogramm uebereinstimmen (Konten Loehne/Gehaelter SKR 03 4120/4130 bzw. SKR 04 6020/6030 — DATEV-Kontenrahmen aktuelle Fassung).
+- SV-AG-Anteil-Konto-Saldo gegen den AG-Anteil aus der Lohnabrechnung pruefen (Daumenregel: ca. 20-21 Prozent vom Bruttolohn — konkreter Beitragssatz Stand 2026 fuer KV/RV/PV/AV verifizieren).
+- Berufsgenossenschaft monatlich anteilig gebucht (Konto SKR 03 4140 bzw. SKR 04 6140 — Konkretisierung im aktuellen DATEV-Kontenrahmen pruefen).
+- Pauschalsteuer fuer Aushilfen ueber das jeweils passende Steueraufwandskonto buchen (z. B. SKR 03 4148 fuer Lohnsteuer 2 Prozent Pauschal — Konto in aktueller DATEV-Fassung verifizieren).
 
 ### Phase 5 — Spezial-Pruefungen
 

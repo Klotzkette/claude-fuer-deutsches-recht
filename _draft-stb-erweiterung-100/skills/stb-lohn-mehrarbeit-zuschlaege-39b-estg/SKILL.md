@@ -41,18 +41,18 @@ Zuschlaege fuer tatsaechlich geleistete Sonntags-, Feiertags- und Nachtarbeit si
 
 ## Workflow
 
-### Phase 1 — Zuschlag-Saetze § 3b EStG
+### Phase 1 — Zuschlag-Hoechstsaetze § 3b EStG (LSt-/SV-frei bis zu diesen Saetzen)
 
-| Zuschlagsart | Hoechstsatz LSt-frei |
+| Zuschlagsart | Steuerlicher Hoechstsatz auf Grundlohn |
 |---|---|
-| Sonntagsarbeit | 50 Prozent des Grundlohns |
+| Sonntagsarbeit (0-24 Uhr) | 50 Prozent |
 | Feiertagsarbeit (Wochentag-Feiertag) | 125 Prozent |
-| Heiligabend ab 14 Uhr; 1. Weihnachtstag, 1. Mai | 150 Prozent |
+| Heiligabend ab 14 Uhr; 1. und 2. Weihnachtstag; 1. Mai | 150 Prozent |
 | Silvester ab 14 Uhr | 125 Prozent |
-| Nachtarbeit (20-6 Uhr) | 25 Prozent |
+| Nachtarbeit (20-6 Uhr, regulaer) | 25 Prozent |
 | Nachtarbeit (0-4 Uhr, sofern vor 0 Uhr aufgenommen) | 40 Prozent |
 
-Wenn tariflich hoehere Zuschlaege vereinbart sind, ist der gesetzliche Maximalsatz die LSt-/SV-Frei-Grenze; daruber hinaus volle Versteuerung.
+Wenn tariflich oder einzelvertraglich hoehere Zuschlaege vereinbart sind, bleibt nur der Anteil bis zum § 3b-EStG-Hoechstsatz steuer- und SV-frei; der ueberschiessende Teil ist voll lohnsteuer- und beitragspflichtig. Die ArbZG-Definition Nachtarbeit (23-6 Uhr, § 2 Abs. 3 ArbZG) ist nicht identisch mit der steuerlichen Definition.
 
 ### Phase 2 — Grundlohn-Grenze 50 EUR/Stunde
 

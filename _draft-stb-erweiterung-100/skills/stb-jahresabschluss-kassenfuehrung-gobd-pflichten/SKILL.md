@@ -7,7 +7,7 @@ description: "Kassenfuehrung GoBD-Pflichten. Anwendungsfall Mandanten mit Barges
 
 ## Kernsachverhalt
 
-Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrung sensibler Pruefpunkt. § 146 AO verlangt Zeitgerechtigkeit und Vollstaendigkeit; § 146a AO erfordert seit 01.01.2020 TSE (Technische Sicherheitseinrichtung) bei elektronischen Aufzeichnungssystemen. Verstoesse fuehren zu Schaetzung oder Hinzurechnung der Steuerhinterziehung.
+Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrung ein sensibler Pruefpunkt. § 146 AO verlangt Zeitgerechtigkeit und Vollstaendigkeit; § 146a AO erfordert seit 01.01.2020 (BMF-Nichtbeanstandungsregelung bis 30.09.2020) eine zertifizierte Technische Sicherheitseinrichtung (TSE) bei elektronischen Aufzeichnungssystemen. Seit 01.01.2020 besteht zudem die Belegausgabepflicht nach § 146a Abs. 2 AO. Verstoesse koennen zur Schaetzungsbefugnis (§ 162 AO), Bussgeld (§ 379 AO) bzw. zu steuerstrafrechtlicher Bewertung als Steuerhinterziehung fuehren.
 
 ## Kaltstart-Rueckfragen
 
@@ -90,10 +90,10 @@ Bei Mandanten mit Bargeschaeft (Gastronomie, Einzelhandel) ist die Kassenfuehrun
 
 ## Strategie und Praxis-Tipps
 
-- TSE-Pflicht ist hart durchgesetzt — Bussgeld bis 25.000 EUR.
-- Verfahrensdokumentation ist haeufig vernachlaessigt, aber Pflicht.
-- Bei Mandanten mit hohem Bargeschaeft StB-Begleitung sinnvoll.
-- Kassennachschau auch unangekuendigt — sofortige Pruefung Bedingungen.
+- Die TSE-Pflicht ist hart durchgesetzt; der Bussgeldrahmen reicht nach § 379 Abs. 6 AO bis 25.000 EUR pro Verstoss.
+- Die Verfahrensdokumentation (Konfiguration, Bedienungsanleitung, Aenderungsprotokoll) ist haeufig vernachlaessigt, aber ausdruecklich Pflichtbestandteil nach GoBD (BMF v. 28.11.2019, Rz. 153 ff.).
+- Bei Mandanten mit hohem Bargeschaeft ist eine kontinuierliche StB-Begleitung sinnvoll; bei Verdacht auf Manipulation gilt die Belehrungspflicht nach Mandantenkommunikations-Skill `stb-warnschreiben-krisensignale`.
+- Die Kassennachschau nach § 146b AO erfolgt unangekuendigt — auch zu Beginn der Geschaeftsoeffnung; Mandanten sollten auf den Umgang mit dem Pruefer (Vorlage Kassen-Z-Bons, TSE-DSFinV-K-Daten) geschult werden.
 
 ## Querverweise
 

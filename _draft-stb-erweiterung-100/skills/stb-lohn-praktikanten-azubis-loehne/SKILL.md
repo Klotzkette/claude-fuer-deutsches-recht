@@ -65,7 +65,7 @@ Praktika und Berufsausbildung haben besondere lohn- und sv-rechtliche Behandlung
 - Pflichtpraktikum: in der Regel beitragsfrei in KV/PV/AV; RV nur bei vereinbarter Vergueteung.
 - Freiwilliges Praktikum < 3 Monate: wie Pflichtpraktikum.
 - Freiwilliges Praktikum > 3 Monate: wie regulaeres Arbeitsverhaeltnis.
-- Berufsausbildung: voll SV-pflichtig mit besonderen Beitragssaetzen (bis 350 EUR Vergueteung: AG zahlt allein die Beitraege fuer den AN).
+- Berufsausbildung: voll SV-pflichtig in allen Zweigen. Bei geringer Ausbildungsverguetung unterhalb einer Geringverdienergrenze (§ 20 Abs. 3 Satz 1 Nr. 1 SGB IV — Stand 2024 bei 325 EUR/Monat, Wert zwingend Stand 01.01.2026 verifizieren) traegt der AG den gesamten SV-Beitrag (AG- und AN-Anteil); oberhalb der Grenze normale paritaetische Aufteilung.
 
 ### Phase 4 — Sachleistungen Berufsausbildung
 

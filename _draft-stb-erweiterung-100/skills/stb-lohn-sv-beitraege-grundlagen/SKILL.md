@@ -50,16 +50,16 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 
 ## Workflow
 
-### Phase 1 — BBG und Beitragssaetze 2026 (verifizieren)
+### Phase 1 — BBG und Beitragssaetze 2026 (zwingend verifizieren)
 
-| Zweig | West/Ost | BBG (verifizieren) | Beitragssatz (verifizieren) |
+| Zweig | West/Ost | BBG monatlich (typisch derzeit ca.; 2026 verifizieren) | Beitragssatz (typisch derzeit ca.; 2026 verifizieren) |
 |---|---|---|---|
-| RV | West/Ost | aktuelle BBG 2026 verifizieren | 18,6 Prozent (oder aktuell verifizieren) |
-| AV | West/Ost | gleich RV-BBG | aktuell verifizieren |
-| KV | bundeseinheitlich | JAEG / BBG verifizieren | allgemein 14,6 + Zusatzbeitrag (KK-individuell) |
-| PV | bundeseinheitlich | BBG KV | aktuell verifizieren; Kinderlosenzuschlag aktuell verifizieren |
+| RV | West / Ost (Angleichung 2025 abgeschlossen — Stand 01.01.2026 verifizieren) | 8.050 EUR / 7.450 EUR (Stand 2024 West/Ost; aktuelle Werte Sozialversicherungs-Rechengroessenverordnung) | 18,6 Prozent (paritaetisch je 9,3 Prozent) |
+| AV | wie RV | wie RV-BBG | aktuell verifizieren (typisch 2,6 Prozent paritaetisch) |
+| KV | bundeseinheitlich | BBG KV 5.175 EUR (Stand 2024); JAEG hoeher; Stand 2026 verifizieren | allgemein 14,6 Prozent + KK-individueller Zusatzbeitrag (durchschnittlich ca. 1,7 Prozent Stand 2024 — zwingend 2026 verifizieren) |
+| PV | bundeseinheitlich, Sonderregelung Sachsen | wie BBG KV | aktuell verifizieren; PV-Kinderlosenzuschlag fuer kinderlose AN ab 23 Jahre (Stand 2024 ca. 0,6 Prozent allein zu Lasten AN — Reform 2023 mit Kinderbonus); zwingend 2026 verifizieren |
 
-(Saemtliche Werte sind in den Lohnabrechnungs-Programmen hinterlegt; bei Mandantengespraech aktuelle Werte 2026 verifizieren ueber DRV, GKV-Spitzenverband, BMAS.)
+(Saemtliche Werte sind in den Lohnabrechnungs-Programmen hinterlegt; bei Mandantengespraech aktuelle Werte zwingend Stand 01.01.2026 verifizieren ueber Sozialversicherungs-Rechengroessenverordnung, DRV, GKV-Spitzenverband, BMAS.)
 
 ### Phase 2 — Beitragsaufteilung AG/AN
 
@@ -97,10 +97,10 @@ Die Sozialversicherung umfasst vier Hauptzweige: Rentenversicherung (RV), Kranke
 
 ### Phase 6 — Buchung und Abrechnung
 
-- SV-AG-Anteil als Lohnnebenkosten (Konto 4138/4140 SKR 03).
-- SV-AN-Anteil als Abzug vom Brutto.
-- Gesamtsumme an Krankenkasse (Gesamt-SV-Beitrag).
-- Faelligkeit: drittletzter Bankarbeitstag des laufenden Monats (§ 23 Abs. 1 SGB IV).
+- SV-AG-Anteil als Lohnnebenkosten (Konto 6110 SKR04 / 4130 SKR03 "Gesetzliche soziale Aufwendungen") an Verbindlichkeit Sozialversicherung (3760 SKR04 / 1741 SKR03).
+- SV-AN-Anteil als Abzug vom Brutto-Loehne-Konto: Loehne und Gehaelter (6020 SKR04 / 4120 SKR03) gegen Verbindlichkeit SV (3760 SKR04 / 1741 SKR03).
+- Gesamtsumme an Krankenkasse einheitlich (Gesamt-SV-Beitrag).
+- Faelligkeit: drittletzter Bankarbeitstag des laufenden Monats fuer die voraussichtliche Beitragsschuld (§ 23 Abs. 1 SGB IV); spaetestens Korrektur mit Beitragsnachweis bis 15. des Folgemonats.
 
 ## Output
 

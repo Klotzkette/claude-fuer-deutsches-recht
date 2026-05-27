@@ -7,7 +7,7 @@ description: "Aufbau der Standard-BWA fuer Steuerberater erlaeutern und konfigur
 
 ## Kernsachverhalt
 
-Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steuerungsinstrument. Steuerberater erstellen sie monatlich oder quartalsweise aus der Finanzbuchhaltung. Die Standard-BWA (DATEV BWA 01) liefert in funf Blocken einen periodengerechten Erfolgsausweis: Umsatzerloese, Material und Wareneinsatz, Personalkosten, sonstige betriebliche Aufwendungen, Abschreibungen, Zinsergebnis und Steuern. Der Skill leitet die Konfiguration und die korrekte Befuellung der Standard-BWA an und stellt sicher, dass die wirtschaftlich relevanten Aussagen sauber ablesbar sind.
+Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steuerungsinstrument. Steuerberater erstellen sie monatlich oder quartalsweise aus der Finanzbuchhaltung. Die Standard-BWA (DATEV-BWA-Form 01) liefert in fuenf Bloecken einen periodengerechten Erfolgsausweis: Umsatzerloese, Material- und Wareneinsatz, Personalkosten, sonstige betriebliche Aufwendungen, Abschreibungen sowie Zinsergebnis und Steuern. Der Skill leitet die Konfiguration und die korrekte Befuellung der Standard-BWA an und stellt sicher, dass die wirtschaftlich relevanten Aussagen sauber ablesbar sind.
 
 ## Kaltstart-Rueckfragen
 
@@ -38,21 +38,22 @@ Die Betriebswirtschaftliche Auswertung (BWA) ist das zentrale unterjaehrige Steu
 
 ### Leitentscheidungen und Verwaltungsanweisungen
 
-- BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NJW 2017, 1611 — Hinweispflicht des StB bei Krisensignalen aus laufender Buchhaltung und BWA.
-- BFH, Urt. v. 25.06.2014 - I R 29/13, BStBl II 2015, 327 — Periodengerechte Zuordnung bei Aufwand und Ertrag.
-- BMF-Schreiben v. 28.11.2019 zu GoBD (BStBl I 2019, 1269) — Anforderungen an die laufende Buchfuehrung, die der BWA zugrunde liegt.
+- BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NJW 2017, 1611 — Hinweispflicht des StB bei Krisensignalen aus laufender Buchhaltung und BWA (stabile Leitentscheidung).
+- BFH-Rechtsprechung zur periodengerechten Zuordnung von Aufwand und Ertrag (konkretes Aktenzeichen wie BFH I R 29/13 vor Uebernahme in juris/beck-online verifizieren).
+- BMF-Schreiben zu GoBD (aktuelle Fassung in juris/Bundesfinanzministerium verifizieren; das BMF-Schreiben v. 28.11.2019, BStBl I 2019, 1269 ist die bislang massgebliche Grundlage, etwaige Aktualisierungen pruefen).
 - IDW PS 480 — Grundsaetze fuer die Erstellung von Jahresabschluessen (analog fuer hochwertige BWA-Erstellung).
 
-Aktenzeichen vor Uebernahme in juris/beck-online verifizieren.
+Aktenzeichen und Fundstellen vor Uebernahme in juris/beck-online verifizieren.
 
 ## Workflow
 
 ### Phase 1 — Datenbasis pruefen
 
-- Vollstaendigkeit der Buchungen pruefen: Bank, Kasse, OPOS Debitor/Kreditor.
-- Vorlaufige Sachkontenverteilung im Verrechnungskonto 1590/1599 auf null oder klar dokumentiert.
-- Lohnbuchungen aus dem Lohnprogramm uebernommen? Sozialversicherungs-Beitragsschulden zum Auswertungsstichtag erfasst?
-- Belege chronologisch und vollstaendig verbucht; Cut-off-Datum festlegen.
+- Vollstaendigkeit der Buchungen pruefen: Bank-Kontoauszuege bis zum Stichtag verbucht, Kassenbuch abgestimmt, OPOS-Listen Debitor und Kreditor aktualisiert.
+- Vorlaeufige Sachkontenverteilung im Verrechnungskonto (z. B. SKR 03 Konto 1590/1599 bzw. SKR 04 Konto 1370/1379 — DATEV-Kontenrahmen aktuelle Fassung heranziehen) auf Null stellen oder klar dokumentieren.
+- Lohnbuchungen aus dem Lohnprogramm uebernommen? Sozialversicherungs-Beitragsschulden zum Auswertungsstichtag erfasst (Konto SKR 03 1742 bzw. SKR 04 3740 fuer Verbindlichkeiten SV)?
+- Belege chronologisch und vollstaendig verbucht; Cut-off-Datum festlegen (z. B. 5. Werktag des Folgemonats).
+- DATEV-Klickpfad zur Pruefung: Rechnungswesen → Stammdaten → Buchungsstapel → Stapelverarbeitung → noch nicht festgeschriebene Buchungen vor BWA festschreiben.
 
 ### Phase 2 — Periodenabgrenzungen
 
@@ -63,20 +64,20 @@ Aktenzeichen vor Uebernahme in juris/beck-online verifizieren.
 
 ### Phase 3 — BWA-Struktur befuellen
 
-Die Standardliederung in funf Bloecken:
+Die Standardgliederung in fuenf Bloecken (Kontennummern typische SKR-Bereiche, im Einzelfall mit aktueller DATEV-Kontenrahmenfassung abgleichen):
 
-1. **Umsatzerloese und sonstige betriebliche Ertraege** — Konten 8000-8999 (SKR 03) bzw. 4000-4999 (SKR 04).
-2. **Material- und Wareneinsatz** — Wareneingang, Roh- Hilfs- Betriebsstoffe, Fremdleistungen.
-3. **Personalkosten** — Loehne und Gehaelter, Sozialversicherungsanteile AG, Berufsgenossenschaft, sonstige Personalnebenkosten.
-4. **Sonstige betriebliche Aufwendungen** — Raumkosten, Betriebsbedarf, Kfz-Kosten, Werbe- und Reisekosten, Abschreibungen (separat ausgewiesen).
-5. **Zinsergebnis und Steuern** — Zinsaufwand, Zinsertrag, Gewerbesteuer, Koerperschaftsteuer-Vorauszahlungen.
+1. **Umsatzerloese und sonstige betriebliche Ertraege** — Erloesbereich SKR 03 8000-8999 bzw. SKR 04 4000-4999.
+2. **Material- und Wareneinsatz** — Wareneingang, Roh-, Hilfs- und Betriebsstoffe, Fremdleistungen (SKR 03 ab 3000 bzw. SKR 04 ab 5000).
+3. **Personalkosten** — Loehne und Gehaelter, Sozialversicherungsanteile AG, Berufsgenossenschaft, sonstige Personalnebenkosten (SKR 03 ab 4100 bzw. SKR 04 ab 6000).
+4. **Sonstige betriebliche Aufwendungen** — Raumkosten, Betriebsbedarf, Kfz-Kosten, Werbe- und Reisekosten; Abschreibungen werden meist separat als eigene Position ausgewiesen.
+5. **Zinsergebnis und Steuern** — Zinsaufwand, Zinsertrag, Gewerbesteuer-Rueckstellungen, Koerperschaftsteuer-Vorauszahlungen.
 
 ### Phase 4 — Plausibilisierung
 
-- Umsatzerloese vs. Vorjahres-Monatsumsatz: Abweichung > 20 Prozent klaeren.
-- Materialquote (Materialeinsatz/Umsatz): branchentypisch (Industrie 30-50 Prozent, Handel 60-80 Prozent, Dienstleistung 0-20 Prozent).
-- Personalquote (Personalkosten/Umsatz): bei Dienstleistung typisch 35-55 Prozent.
-- Ergebnis vor Steuern auf Konsistenz zur SuSa pruefen — Endsaldo Erfolgskonten muss matchen.
+- Umsatzerloese gegen Vorjahres-Monatsumsatz pruefen: Abweichung mehr als 20 Prozent (Daumenregel) inhaltlich klaeren.
+- Materialquote (Materialeinsatz im Verhaeltnis zum Umsatz): branchentypisch ca. 30-50 Prozent in der Industrie, ca. 60-80 Prozent im Handel, ca. 0-20 Prozent bei Dienstleistung. Konkrete Branchenwerte ueber DATEV-BBE-Branchenvergleich verifizieren.
+- Personalquote (Personalkosten zu Umsatz): bei Dienstleistung typisch ca. 35-55 Prozent (Branchenrichtwert, Verifikation in BBE Branchenkennzahlen empfohlen).
+- Ergebnis vor Steuern auf Konsistenz zur Summen- und Saldenliste pruefen — Endsaldo der Erfolgskonten muss mit BWA uebereinstimmen.
 
 ### Phase 5 — BWA-Ausgabe und Erlaeuterung
 
@@ -119,7 +120,7 @@ Stand: 05/2026.
 - HGB §§ 238, 240, 252, 257.
 - EStG § 5b (E-Bilanz).
 - AO § 147 (Aufbewahrung).
-- BMF v. 28.11.2019 zu GoBD, BStBl I 2019, 1269.
-- DATEV Standard-BWA 01 (Form 01).
+- BMF-Schreiben zu GoBD (aktuelles Schreiben in juris/Bundesfinanzministerium verifizieren; bislang BMF v. 28.11.2019, BStBl I 2019, 1269).
+- DATEV Standard-BWA Form 01.
 - StBerG §§ 1, 33, 57 Abs. 3.
-- Verifikations-Hinweis: Bei Reformen Kontenrahmen (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen.
+- Verifikations-Hinweis: Bei Reformen des Kontenrahmens (DATEV-Updates jaehrlich) Aktualisierung der BWA-Konfiguration pruefen. Aktenzeichen vor Mandantenversand in juris/beck-online gegenpruefen.

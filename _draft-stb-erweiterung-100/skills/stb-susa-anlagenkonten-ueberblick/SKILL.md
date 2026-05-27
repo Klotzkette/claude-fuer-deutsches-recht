@@ -34,9 +34,9 @@ Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte
 
 **§ 7b EStG** — Sonderabschreibung Wohnungsbau (befristet, aktuelle Geltung verifizieren).
 
-**§ 6 Abs. 2 EStG** — Geringwertige Wirtschaftsgueter bis 800 EUR netto.
+**§ 6 Abs. 2 EStG** — Geringwertige Wirtschaftsgueter; aktuelle Wertgrenze (zuletzt 800 EUR netto, etwaige Anhebung Stand 2026 in juris verifizieren).
 
-**§ 6 Abs. 2a EStG** — Pool-Abschreibung 250-1.000 EUR.
+**§ 6 Abs. 2a EStG** — Pool-/Sammelposten-Abschreibung; Wertgrenzen (zuletzt 250-1.000 EUR; etwaige Erhoehung Stand 2026 in juris verifizieren).
 
 ### Standards
 
@@ -48,15 +48,16 @@ Anlagenkonten der Klasse 0 (SKR 03) bzw. 0xxx-1xxx (SKR 04) zeigen die Buchwerte
 
 ### Phase 1 — Hauptbuch-Bestaende
 
+Anlagenkonten SKR 03 (Kontennummern typische Beispiele; konkrete Nummern mit aktueller DATEV-Kontenrahmenfassung abgleichen):
+
 ```
-ANLAGENKONTEN SKR 03 (typisch):
 0010   Immaterielle Wirtschaftsgueter
 0020   Grundstuecke und Bauten
 0080   Maschinen
-0440   Gerinwertige Wirtschaftsgueter
+0440   Geringwertige Wirtschaftsgueter
 0500   Fuhrpark
 0670   Betriebs- und Geschaeftsausstattung
-0900   Anzahlungen Anlagen
+0900   Anzahlungen auf Anlagen
 1000   Beteiligungen
 ```
 
@@ -82,12 +83,12 @@ Buero-Ausstattung 15.000      6.000          9.000            —       —     
 - Zugang: Anschaffung neu, Aktivierung Eigenleistung, Einlage.
 - Abgang: Verkauf, Verschrottung, Entnahme.
 - Bei Anlagenabgang: Restbuchwert ausbuchen, Verkaufserloes gegenrechnen.
-- Veraeusserungserloese: Konto 8400 / 8401 (steuerfrei) bzw. 8420 (steuerpflichtig).
+- Veraeusserungserloese im SKR 03: Konten im 8400er-Bereich (Erloese aus Anlagenverkauf); konkrete Kontonummer fuer steuerfreien bzw. steuerpflichtigen Verkauf im aktuellen DATEV-Kontenrahmen verifizieren.
 
 ### Phase 5 — Sonder-AfA und § 6b EStG
 
-- § 7g EStG: Sonderabschreibung KMU bis 50 Prozent in den ersten 5 Jahren (in 5-Jahres-Phase verteilt; aktuelle Bedingungen 2026 verifizieren).
-- § 7b EStG: Sonderabschreibung Wohnungsneubau (befristet; Stand 2026 pruefen).
+- § 7g EStG: Sonderabschreibung fuer KMU (Hoehe und Bedingungen wurden in den letzten Jahren mehrfach angepasst; aktuelle Quote und Voraussetzungen Stand 2026 in juris verifizieren).
+- § 7b EStG: Sonderabschreibung Wohnungsneubau (befristete Foerderung; aktuelle Geltungsdauer Stand 2026 pruefen).
 - § 6b EStG Ruecklage: bei Veraeusserung Grund und Boden, Gebaeude — Uebertragung auf Reinvestitionen.
 
 ### Phase 6 — Reporting
@@ -105,11 +106,11 @@ Buero-Ausstattung 15.000      6.000          9.000            —       —     
 ## Strategie und Praxis-Tipps
 
 - Anlagenspiegel und Hauptbuch sollten quartalsweise abgestimmt werden.
-- GWG-Pool optional (§ 6 Abs. 2a EStG) — bietet Vereinfachung, aber 5-Jahres-Abschreibung im Pool.
-- Bei Investitionsabzugsbetrag § 7g EStG: 50 Prozent vorab abziehbar, Ruecklage im Eigenkapital.
-- Sonderabschreibungen § 7b EStG sind gesetzlich befristet — Geltung 2026 verifizieren.
+- GWG-Pool optional (§ 6 Abs. 2a EStG) — bietet Vereinfachung mit Sammelposten-Abschreibung ueber fuenf Jahre.
+- Beim Investitionsabzugsbetrag nach § 7g EStG (Quote zuletzt 50 Prozent vorab abziehbar) sind die Bedingungen mehrfach angepasst worden; aktuelle Quote und Anspruchsvoraussetzungen Stand 2026 verifizieren.
+- Sonderabschreibungen § 7b EStG sind gesetzlich befristet — Geltung Stand 2026 verifizieren.
 - StBVV: Anlagenbuchhaltung als separater Auftrag oder in Buchfuehrungspauschale.
-- DATEV-Tipp: DATEV Anlagenbuchhaltung mit automatischer 1/12-AfA-Buchung im SuSa.
+- DATEV-Tipp: DATEV-Anlagenbuchhaltung mit automatischer 1/12-AfA-Buchung in der SuSa (Klickpfad: Anlagenbuchfuehrung → Abschreibungsbuchungen → Buchungsstapel an Rechnungswesen uebergeben).
 
 ## Querverweise
 

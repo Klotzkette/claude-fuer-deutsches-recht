@@ -55,10 +55,11 @@ Werkstudenten sind ordentlich immatrikulierte Studierende, die im Nebenerwerb ar
 
 ### Phase 2 — Arbeitszeitpruefung
 
-- Vorlesungszeit: max. 20 Stunden/Woche.
+- Vorlesungszeit: max. 20 Wochenstunden.
 - Vorlesungsfreie Zeit (Semesterferien): mehr als 20 Stunden moeglich.
-- Mehrfach-Werkstudent: Summe der Stunden ueber alle AG.
-- Bei Ueberschreitung von 20 Wochenstunden in der Vorlesungszeit: kein Werkstudent mehr.
+- Mehrfach-Werkstudent: Summe der Stunden ueber alle AG ist massgeblich.
+- 26-Wochen-Regel: Eine Ueberschreitung der 20-Wochen-Stunden-Grenze bleibt insgesamt unschaedlich, wenn sie ueberwiegend in vorlesungsfreien Zeitraeumen liegt und im Zeitraum von 52 Wochen rueckwirkend nicht mehr als 26 Wochen umfasst (st. Spitzenverbands-Rundschreiben; konkrete aktuelle Faktoren verifizieren).
+- Bei dauerhafter Ueberschreitung der 20 Wochenstunden in der Vorlesungszeit: Werkstudenten-Status weg, voll SV-pflichtig.
 
 ### Phase 3 — SV-Beitraege
 

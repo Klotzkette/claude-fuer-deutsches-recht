@@ -75,18 +75,19 @@ Finanzanlagen      | ...
 
 | Methode | Anwendung |
 |---|---|
-| Linear | Standard nach AfA-Tabelle |
-| Degressiv | Befristet wiedereingefuehrt; aktuelle Geltung 2026 verifizieren |
-| Leistungs-AfA | Maschinen mit messbarer Leistung |
-| Sonder-AfA § 7g EStG | KMU bis 50 Prozent erste 5 Jahre |
-| Sonder-AfA § 7b EStG | Wohnungsneubau (befristet) |
+| Linear (§ 7 Abs. 1 EStG) | Standard nach AfA-Tabelle |
+| Degressiv (§ 7 Abs. 2 EStG) | Befristet wiedereingefuehrt (Wachstumschancengesetz 2024: bewegliche WG ab 01.04.2024 - 31.12.2024 mit max. 20 % bzw. 2-fach linear); aktuelle Geltung 2026 ueber BMF / Beck-Online verifizieren |
+| Leistungs-AfA (§ 7 Abs. 1 S. 6 EStG) | Bewegliche WG mit messbarer Leistung |
+| Sonder-AfA § 7g Abs. 5 EStG | KMU: bis 40 % (durch JStG 2020 fuer Anschaffungen ab 2020 angehoben von 20 %) im Jahr der Anschaffung und den folgenden 4 Jahren — Werte aktuell verifizieren |
+| Sonder-AfA § 7b EStG | Mietwohnungsneubau (zeitlich befristete Foerderung; Aufstockung durch Wachstumschancengesetz 2024 — aktuellen Stand verifizieren) |
 
 ### Phase 5 — Investitionsabzugsbetrag § 7g EStG
 
-- Vorab 50 Prozent von den Anschaffungskosten als IAB.
-- Voraussetzung: KMU-Schwellen (Gewinn vor IAB unter 200.000 EUR; aktuell verifizieren).
-- Ruecklage im Eigenkapital.
-- Aufloesung mit tatsaechlicher Anschaffung binnen 3 Jahren.
+- IAB: bis zu 50 % der voraussichtlichen Anschaffungs- oder Herstellungskosten gewinnmindernd vor Anschaffung; Hoechstbetrag 200.000 EUR im Wirtschaftsjahr.
+- Voraussetzung: einheitliche Gewinngrenze 200.000 EUR (durch das JStG 2020 fuer alle Einkunftsarten); aktuelle Werte fortlaufend pruefen.
+- IAB ist ausserbilanzielle Gewinnminderung (keine handelsrechtliche Ruecklage; nur in der steuerlichen Gewinnermittlung).
+- Aufloesung im Jahr der tatsaechlichen Investition gegen Hinzurechnung; spaetestens nach 3 Wirtschaftsjahren ohne Investition rueckwirkende Aufloesung mit Verzinsung gem. § 233a AO.
+- Achtung Rueckwirkungsgefahr: Bei rueckwirkendem Wegfall droht Anpassung des Veranlagungsjahres mit Steuernachzahlung.
 
 ### Phase 6 — GWG
 

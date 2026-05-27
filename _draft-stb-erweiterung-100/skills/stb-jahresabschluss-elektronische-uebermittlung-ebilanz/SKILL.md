@@ -7,7 +7,7 @@ description: "E-Bilanz § 5b EStG elektronische Uebermittlung. Anwendungsfall Bi
 
 ## Kernsachverhalt
 
-§ 5b EStG verpflichtet alle Bilanzierer zur elektronischen Uebermittlung der Steuerbilanz an das Finanzamt (E-Bilanz). Die Uebermittlung erfolgt im XBRL-Format ueber eine standardisierte Taxonomie. Frist parallel zur Steuererklaerung. Bei Mandanten mit Handelsbilanz und Steuerbilanz: beide oder Ueberleitung uebermitteln.
+§ 5b EStG verpflichtet alle Bilanzierer zur elektronischen Uebermittlung der Steuerbilanz an das Finanzamt (E-Bilanz). Die Uebermittlung erfolgt im XBRL-Format auf Basis der jaehrlich vom BMF veroeffentlichten Kerntaxonomie (BMF-Taxonomie, abrufbar ueber esteuer.de) und wird ueber das ERiC-Modul der Finanzverwaltung uebertragen (in DATEV: integrierte ERiC-Schnittstelle, in Addison/Sage separates ERiC-Plugin). Frist: parallel zur Steuererklaerung (Festsetzungsverjaehrung beachten, ggf. § 109 AO Verlaengerung). Bei Mandanten mit Handelsbilanz und Steuerbilanz uebermittelt der StB regelmaessig die Handelsbilanz nebst Ueberleitungsrechnung; die "Echte-Steuerbilanz"-Uebermittlung ist Wahlrecht.
 
 ## Kaltstart-Rueckfragen
 
@@ -34,8 +34,9 @@ description: "E-Bilanz § 5b EStG elektronische Uebermittlung. Anwendungsfall Bi
 
 ### Verwaltungsanweisungen
 
-- BMF v. 28.09.2011 zu E-Bilanz.
-- BMF jaehrliche Taxonomie-Aktualisierung.
+- BMF-Schreiben vom 28.09.2011, IV C 6 - S 2133-b/11/10009 zur erstmaligen E-Bilanz-Einfuehrung (Anwendungszeitpunkte und Mindestumfang).
+- BMF-Schreiben zur jaehrlichen Aktualisierung der Taxonomie (zuletzt veroeffentlichte Fassung ueber esteuer.de bzw. BMF-Newsletter pruefen).
+- Anwendungsfragen siehe AEAO zu § 5b EStG (Anwendungserlass zur Abgabenordnung in jeweils gueltiger Fassung).
 
 ## Workflow
 
@@ -47,22 +48,22 @@ description: "E-Bilanz § 5b EStG elektronische Uebermittlung. Anwendungsfall Bi
 
 ### Phase 2 — Taxonomie
 
-- Aktuelle Taxonomie (BMF-Verzeichnis ueber bzst.de).
-- Pflichtfelder pruefen.
-- Optionale Felder bei Bedarf nutzen.
+- BMF-Kerntaxonomie in der jeweils gueltigen Jahresfassung (Veroeffentlichung typisch im 2. Quartal, Anwendungspflicht ab Folgejahr). Bezugsquelle: www.esteuer.de.
+- Pflichtfelder ("Mussfelder") sind zwingend zu fuellen; bei nicht verfuegbarem Datum dokumentierter "NIL"-Wert (Auffangregel siehe BMF-Taxonomie-Begleitdokumentation).
+- Optionale Felder ("Kannfelder") nach Bedarf; "Mussfelder, soweit vorhanden" sind bei tatsaechlichem Vorliegen verpflichtend.
 
 ### Phase 3 — Konten-Zuordnung
 
-- Standard-Konten SKR 03 / SKR 04 sind taxonomie-konform.
-- Individuelle Konten: manuelle Zuordnung.
-- DATEV-E-Bilanz-Modul automatisiert.
+- Standardkontenrahmen SKR 03 / SKR 04 (DATEV) bzw. IKR sind mit Standard-Mapping zur Kerntaxonomie ausgestattet; konkrete Mapping-Pflege siehe SKR-aktuelle Fassung.
+- Individuelle Konten erfordern manuelle Zuordnung zur Taxonomie-Position; Pruefen vor Versand zwingend.
+- In DATEV Kanzlei-Rechnungswesen erfolgt die E-Bilanz-Erstellung typischerweise ueber das Modul "E-Bilanz" mit eigenem Pruefprotokoll (genaue Programmpfade in der aktuellen DATEV-Programmversion ggf. abweichend).
 
 ### Phase 4 — Uebermittlung
 
-- ELSTER-Zugang.
-- XBRL-Dokument generieren.
-- Sendung an FA.
-- Quittung mit Transaktions-Nummer.
+- Auswertung im StB-Programm generiert eine XBRL-Datei (Endung .xbrl bzw. eingebettet in das XBRL-Paket).
+- Versand an die Finanzverwaltung erfolgt ueber das ERiC-Modul (ELSTER Rich Client) mit Authentifizierungszertifikat (in der Regel das Berater-/Organisations-Zertifikat im ELSTER-Online-Portal).
+- Vor Echt-Versand: Plausibilitaetspruefung im ERiC durchlaufen; Pruefprotokoll dokumentieren.
+- Nach Versand: Uebermittlungsprotokoll (Transferticket-ID) speichern; Ablage in der Mandantenakte (Pflicht zur Aufbewahrung der Versandquittung).
 
 ### Phase 5 — Steuerbilanz-Anteil
 
@@ -101,5 +102,6 @@ Stand: 05/2026.
 
 - EStG §§ 5, 5b, 25.
 - AO §§ 140, 141.
-- BMF v. 28.09.2011.
-- Verifikations-Hinweis: aktuelle Taxonomie 2026 ueber BMF/BZSt.
+- BMF-Schreiben vom 28.09.2011 (IV C 6 - S 2133-b/11/10009) sowie Folgeschreiben.
+- AEAO zu § 5b EStG.
+- Verifikations-Hinweis: aktuelle Taxonomie-Version 2026 und Folgejahre ueber www.esteuer.de bzw. BMF-Newsletter pruefen.

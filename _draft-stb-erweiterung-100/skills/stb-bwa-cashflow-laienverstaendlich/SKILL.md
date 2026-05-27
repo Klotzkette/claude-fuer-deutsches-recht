@@ -117,7 +117,7 @@ BANK-/KASSE-BESTAND ENDE                      [X]
 - "Gewinn vs. Cash"-Erklaerung: Gewinn kann positiv sein und Bank-Bestand sinken, wenn Forderungen steigen.
 - Bei Bankgespraech: Cashflow-Uebersicht oft entscheidender als reine GuV.
 - StBVV: Cashflow-Uebersicht als Bestandteil der Quartals-BWA oder als Zusatzauftrag.
-- DATEV-Tipp: Cashflow-Modul automatisiert; bei vereinfachter Darstellung manuelle Aufbereitung.
+- DATEV-Tipp: Der DATEV-Bilanzbericht beinhaltet eine automatisierte Kapitalflussrechnung (Klickpfad: Rechnungswesen → Bilanzbericht → Bestandteile waehlen → Kapitalflussrechnung). Die vereinfachte Mandantendarstellung erfolgt in Excel oder im DATEV-Praesentationsmodul manuell.
 
 ## Querverweise
 

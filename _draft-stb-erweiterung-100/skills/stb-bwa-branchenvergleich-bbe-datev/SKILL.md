@@ -43,17 +43,17 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 
 ### Phase 1 — Branchenklassifikation
 
-- WZ-Code 2008 des Mandanten ermitteln (Statistisches Bundesamt).
-- Beispiele: 56.10.1 Restaurants mit Bedienung, 47.11.1 Lebensmittel-Einzelhandel, 41.20.1 Bau von Wohngebaeuden.
-- Im DATEV-Stammblatt erfassen — Voraussetzung fuer BBE-Auswertung.
-- Bei Mischbetrieb: Hauptbranche festlegen.
+- WZ-Code des Mandanten ermitteln (aktuelle Klassifikation der Wirtschaftszweige des Statistischen Bundesamtes; bisher WZ 2008, Aktualisierung pruefen).
+- Beispiele typischer WZ-Codes: Restaurants mit Bedienung, Lebensmittel-Einzelhandel, Bau von Wohngebaeuden (konkrete Schluessel im Mandantenstamm gegen die aktuelle WZ-Fassung pruefen).
+- Im DATEV-Stammblatt erfassen — Voraussetzung fuer BBE-Auswertung (Klickpfad: Mandantendaten → Allgemeines → Branchenschluessel).
+- Bei Mischbetrieb: Hauptbranche festlegen und Nebenbranche dokumentieren.
 
 ### Phase 2 — BBE-Datenabruf
 
-- DATEV Kanzlei-Rechnungswesen → BBE-Branchenbericht.
+- DATEV-Klickpfad: Kanzlei-Rechnungswesen → Auswertungen → BBE-Branchenvergleich.
 - Berichtsjahr und Vergleichsperiode auswaehlen.
-- Datenstand pruefen (in der Regel 1-2 Jahre Verzug).
-- Filter nach Mandantengroesse (Umsatz-Klassen).
+- Datenstand pruefen — BBE-Daten weisen typischerweise einen Zeitverzug von ein bis zwei Jahren auf.
+- Filter nach Mandantengroesse (Umsatzklasse) setzen, damit Vergleich zur Peer-Gruppe sauber ist.
 
 ### Phase 3 — Standard-Kennzahlen
 
@@ -116,6 +116,6 @@ Stand: 05/2026.
 - StBerG §§ 33, 57.
 - DSGVO / BDSG.
 - DATEV BBE-Branchenbericht.
-- WZ 2008 Statistisches Bundesamt.
+- Klassifikation der Wirtschaftszweige (Statistisches Bundesamt — aktuelle Fassung verifizieren).
 - IDW PS 480.
-- Verifikations-Hinweis: BBE-Datenstand aktuell pruefen (1-2 Jahre Verzug ueblich).
+- Verifikations-Hinweis: BBE-Datenstand aktuell pruefen (Zeitverzug von ein bis zwei Jahren ueblich); Aktenzeichen und Branchenrichtwerte vor Mandanteneinsatz in juris/beck-online bzw. DATEV-Update verifizieren.

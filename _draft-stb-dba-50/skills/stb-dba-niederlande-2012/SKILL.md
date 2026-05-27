@@ -1,0 +1,112 @@
+---
+name: stb-dba-niederlande-2012
+description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzueberschreitende Arbeitsverhaeltnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+---
+
+# DBA Deutschland-Niederlande (2012/2016)
+
+## Kernsachverhalt
+
+Das aktuelle DBA-Niederlande wurde 2012 unterzeichnet und gilt seit 01.01.2016. Es loeste das alte DBA von 1959 ab und passte den Vertragstext den OECD-Standards 2010 an. Praxisrelevant fuer den deutsch-niederlaendischen Mittelstand sind Logistik-Betriebsstaetten, Holding-Strukturen, grenznahe Arbeitsverhaeltnisse (insbesondere im Rheinland) und Pensionsfaelle.
+
+## Kaltstart-Rueckfragen
+
+1. Welche Einkunftsart? Arbeit, Beteiligung, Lizenz, Logistik?
+2. Wohnsitz beider Vertragsparteien?
+3. Bei Beteiligung: Schachtelhoehe, Holding-Struktur?
+4. Bei Pensionen: gesetzliche AOW, betriebliche Pension, private Versicherung?
+5. Bauausfuehrung welcher Dauer?
+6. Holding-Konstellation mit Substanz?
+7. Logistik-Betriebsstaette (Lager als Hilfstaetigkeit oder mehr)?
+8. MLI-Anpassungen relevant?
+
+## Rechtlicher Rahmen
+
+### Primaernormen
+
+- **DBA Deutschland-Niederlande vom 12.04.2012**, in Kraft 01.12.2015, anwendbar ab Veranlagungszeitraum 01.01.2016 (BGBl. 2012 II S. 1414) — **Datum und Fundstelle verifizieren**.
+- Aenderungsprotokoll vom 11.01.2016 (BGBl. 2016 II S. 1144) — **verifizieren**.
+- **OECD-MA 2010/2017**.
+- **§§ 34c, 32b, 50d EStG**, § 20 AStG.
+- **MLI**: Deutschland und Niederlande Unterzeichner — **Status verifizieren**.
+
+### Leitentscheidungen und BMF-Schreiben
+
+- BFH I R 11/19 (Niederlande-Pension) — **Aktenzeichen verifizieren**.
+- BMF-Schreiben zu DBA Niederlande Anwendung — **verifizieren**.
+
+## Land-spezifisches
+
+### Ansaessigkeit (Art. 4)
+
+- Tie-Breaker entsprechend OECD-MA.
+- Bei Personengesellschaften: niederlaendische CV/BV-Konstrukte koennen Qualifikationskonflikte ausloesen.
+
+### Betriebsstaette (Art. 5)
+
+- Bauausfuehrung **12 Monate** Standard.
+- Logistik-Lager (Distribution Center): Pruefung Hilfstaetigkeit vs. Hauptbetrieb — MLI Anti-Fragmentierung.
+
+### Aktive Einkuenfte
+
+- Unternehmensgewinne (Art. 7): Betriebsstaette als Anknuepfung.
+- Loehne (Art. 14): 183-Tage-Regel; Grenzgaengerregelung in DBA-Niederlande **abweichend von Schweiz/Oesterreich; konkret pruefen**.
+
+### Passive Einkuenfte
+
+- **Dividenden** (Art. 10): typ. 5/15 Prozent — **konkreten Hoechstsatz verifizieren**. Schachtel 10 Prozent.
+- **Zinsen** (Art. 11): typ. 0 Prozent — **verifizieren**.
+- **Lizenzgebuehren** (Art. 12): typ. 0 Prozent — **verifizieren**.
+
+### Vermeidungs-Methode (Art. 22)
+
+- Freistellung mit Progressionsvorbehalt bei aktiven Einkuenften und Aktivitaetsklausel.
+- Anrechnung bei passiven Einkuenften.
+
+### Besonderheiten
+
+- **Pensionen Art. 17**: bei kleinen Renten Wohnsitzstaat, bei groesseren Pensionen Quellenstaat — die im DBA verankerte Schwelle wird in der Literatur regelmaessig mit 15.000 EUR pro Jahr referenziert; **die exakte Schwelle, ihre Berechnungsgrundlage (Brutto/Netto) und etwaige Indexanpassungen aus dem DBA-Text und ggf. der zugehoerigen Verstaendigungsvereinbarung uebernehmen, nicht aus diesem Skill**.
+- **Sozialversicherungsleistungen**: AOW (gesetzliche niederlaendische Rente) gesondert geregelt.
+- **Holding-Strukturen**: niederlaendische Cooperatie und BV-Konstrukte — Hybrid-Konflikte mit § 1 KStG.
+- **Personengesellschaften**: niederlaendische CV (commanditaire vennootschap) kann steuerlich opak oder transparent sein — Qualifikation klaeren.
+
+## Workflow
+
+### Phase 1 — DBA-Anwendbarkeit
+1. Anwendbares DBA (DBA 2012 fuer Zeitraum ab 2016; DBA 1959 fuer Altzeitraeume).
+
+### Phase 2 — Ansaessigkeit klaeren
+1. Tie-Breaker.
+
+### Phase 3 — Einkunftsart einordnen
+1. Bei Holding: Lookthrough beachten.
+
+### Phase 4 — Verteilungs- und Methodenartikel
+1. Quellensteuer-Hoechstsatz.
+2. Freistellung / Anrechnung.
+
+### Phase 5 — Erstattung / Erklaerung
+1. BZSt-Antrag.
+2. Anlage AUS / N-AUS / R-AUS.
+
+## Output
+
+- Mandanten-Memo zur DBA-Anwendung.
+- Berechnungsbeispiel mit Vergleich Freistellung und Anrechnung.
+- Hinweise zu Holding-Substanz § 50d Abs. 3 EStG.
+
+## Strategie und Praxis-Tipps
+
+- Pensions-Schwelle DBA-Niederlande: ab Ueberschreitung Quellenstaat (Niederlande) — Pension oft hoeher besteuert als in Deutschland; bei Doppelbesteuerung Verstaendigungsverfahren Art. 25 MA. Schwellenwert strikt aus DBA-Text Art. 17 uebernehmen.
+- AOW-Renten gesondert: Wohnsitzstaat (Deutschland), aber Progressionsvorbehalt.
+- Holding-Substanz: niederlaendische BV ohne Personal kein Treaty-Schutz nach § 50d Abs. 3 EStG.
+- Grenzgaenger-Lohnsteuerabzug: niederlaendischer Arbeitgeber, deutscher Wohnsitz — keine spezielle Grenzgaengerregelung wie bei Schweiz/Oesterreich/Frankreich; 183-Tage-Regel gilt.
+- MLI Anti-Fragmentierung relevant bei Lager-/Distributionsstrukturen.
+
+## Querverweise
+
+- `stb-dba-grundprinzip-oecd-musterabkommen`, `stb-dba-ansaessigkeit-tie-breaker-rules`, `stb-dba-methodenartikel-anrechnung-vs-freistellung`, `stb-dba-quellensteuer-erstattung-bzst-50c-estg`, `stb-dba-rentner-pensionen-art-18`.
+
+## Quellen und Updates
+
+Stand: 05/2026. DBA-Niederlande 12.04.2012, in Kraft 01.12.2015, Anwendung ab 01.01.2016. **Datum, BGBl-Fundstelle, Aenderungsprotokolle, MLI-Anpassungen vor Uebernahme in juris/beck-online verifizieren. Quellensteuer-Saetze und Pensionsschwelle konkret im DBA-Text pruefen.**

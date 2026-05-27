@@ -48,37 +48,37 @@ Eine fehlerhafte SuSa ist Risiko fuer alle Folgeauswertungen — BWA, USt-VA, Ja
 - Differenz = Systemfehler (selten, aber bei Datenmigrationen moeglich).
 - Bei Differenz: Konto-Pruefung bis zur Buchung zurueck.
 
-### Phase 2 — Konten-Plausibilitaet
+### Phase 2 — Konten-Plausibilitaet (Kontennummern beispielhaft im SKR 03; aktuelle DATEV-Kontenrahmenfassung pruefen)
 
-| Konto | Erwartung | Auffaelligkeit |
+| Konto-Bereich | Erwartung | Auffaelligkeit |
 |---|---|---|
-| 8000-8999 Erloese (SKR 03) | Habensaldo | Sollsaldo = Gutschriften nicht erfasst |
-| 4000-4999 Aufwand (SKR 03) | Sollsaldo | Habensaldo = Storno nicht erfasst |
-| 1200 Bank | Sollsaldo oder Habensaldo (Kontokorrent) | Plausibel mit Bankauszug |
-| 1400 Forderungen | Sollsaldo | Habensaldo = Vorauszahlungen Kunden |
-| 1500 Verbindlichkeiten LuL | Habensaldo | Sollsaldo = Vorauszahlungen Lieferanten |
-| 1576/1776 USt | Plausibel zu USt-VA | Differenz = USt-Fehler |
-| 1590/1599 Verrechnungskonten | Saldo 0 | Saldo > 0 = nicht zugeordnete Buchungen |
-| 2000 Eigenkapital | Habensaldo (positives EK) | Sollsaldo = negatives EK; Krisensignal |
+| 8000er Erloese (SKR 03) | Habensaldo | Sollsaldo deutet auf nicht erfasste Gutschriften hin |
+| 4000er Aufwand (SKR 03) | Sollsaldo | Habensaldo deutet auf nicht erfasste Stornos hin |
+| 1200 Bank | Sollsaldo oder Habensaldo (Kontokorrent) | Mit Bankauszug abgleichen |
+| 1400er Forderungen (SKR 03 Sammelkonto) | Sollsaldo | Habensaldo deutet auf Kundenvorauszahlungen hin |
+| 1700er Verbindlichkeiten LuL (SKR 03 Sammelkonto) | Habensaldo | Sollsaldo deutet auf Vorauszahlungen an Lieferanten hin |
+| USt-Konten (z. B. 1576 Vorsteuer 19 Prozent / 1776 USt 19 Prozent im SKR 03) | Plausibel zur USt-Voranmeldung | Differenz weist auf USt-Buchungsfehler hin |
+| Geldtransit-/Verrechnungskonten (z. B. SKR 03 1590/1599) | Saldo null | Saldo deutet auf nicht zugeordnete Buchungen hin |
+| Eigenkapital-Konto (z. B. SKR 03 2000) | Habensaldo (positives EK) | Sollsaldo bedeutet negatives Eigenkapital — Krisensignal |
 
-### Phase 3 — USt-Konsistenz
+### Phase 3 — USt-Konsistenz (Kontennummern beispielhaft im SKR 03; mit aktueller DATEV-Kontenrahmenfassung abgleichen)
 
-- USt aus 1776 vs. USt-VA: Differenz pruefen.
-- Vorsteuer aus 1576 vs. VA: Differenz pruefen.
-- Innergemeinschaftlicher Erwerb (Konto 1786 SKR 03): Erfassung pruefen.
-- Reverse-Charge: Konten 1781/1787 (SKR 03) korrekt?
+- USt-Konto 19 Prozent (typisch SKR 03 1776) gegen USt-Voranmeldung pruefen.
+- Vorsteuer-Konto 19 Prozent (typisch SKR 03 1576) gegen USt-Voranmeldung pruefen.
+- Innergemeinschaftlicher Erwerb (USt-Konten im 1780er-Bereich, z. B. SKR 03 1786): Erfassung pruefen.
+- Reverse-Charge nach § 13b UStG: korrekte Konten in aktuellem DATEV-Kontenrahmen verifizieren (typisch SKR 03 1787 und 1576/1577 fuer Vorsteuer-Gegenbuchung).
 
 ### Phase 4 — Hauptbuch-Nebenbuch-Konsistenz
 
-- Saldo 1400 Hauptbuch = Summe Debitoren-OPOS.
-- Saldo 1500 Hauptbuch = Summe Kreditoren-OPOS.
-- Bei Differenz: Buchung ohne Personenkonto-Zuordnung suchen.
+- Saldo Forderungssammelkonto (typisch SKR 03 1400) gegen Summe der Debitoren-OPOS pruefen.
+- Saldo Verbindlichkeiten-Sammelkonto (typisch SKR 03 1700) gegen Summe der Kreditoren-OPOS pruefen.
+- Bei Differenz: Buchungen ohne Personenkonto-Zuordnung suchen (DATEV-Klickpfad: Rechnungswesen → Buchungserfassung → Stapelverarbeitung → Filter "ohne OPOS-Zuordnung").
 
 ### Phase 5 — Anlagenkonten und AfA
 
-- Anlagenkonten Saldo = Buchwert Anlagenspiegel.
-- AfA-Buchung gegen 4830/4832 = Summe AfA Anlagenspiegel.
-- Bei Zu- oder Abgaengen Anlagenspiegel synchron.
+- Anlagenkonten-Saldo (Klasse 0 SKR 03) gegen Buchwert im Anlagenspiegel pruefen.
+- AfA-Aufwandskonten (typisch SKR 03 4830 fuer Sachanlagen) gegen Summe der AfA aus dem Anlagenspiegel abstimmen.
+- Bei Zu- oder Abgaengen Anlagenspiegel synchronhalten.
 
 ### Phase 6 — Fehlerprotokoll und Korrektur
 
@@ -86,17 +86,17 @@ Eine fehlerhafte SuSa ist Risiko fuer alle Folgeauswertungen — BWA, USt-VA, Ja
 FEHLERPROTOKOLL SUSA-PRUEFUNG
 Datum: [Datum] Bearbeiter: [Name]
 
-1. Konto 1590 Saldo 12.500 EUR — nicht abgebaut.
+1. Verrechnungskonto (z. B. SKR 03 1590) Saldo 12.500 EUR — nicht abgebaut.
    Ursache: unzugeordnete Bankbuchung 28.04.2026.
-   Korrektur: Buchung GVC-Zuordnung 71 (Kunde) und Konto 1400.
+   Korrektur: Buchungsaufloesung gegen Forderungssammelkonto (SKR 03 1400), GVC-Zuordnung 71.
 
-2. Konto 4000 Habensaldo 850 EUR — ungewoehnlich.
-   Ursache: Gutschrift Kunde 10002 ohne Erloesschmaelerung.
-   Korrektur: Konto 8730 (Erloesschmaelerung) statt Erlosrueckbuchung.
+2. Erloeskonto Habensaldo wider Erwarten gering, Sollsaldo 850 EUR.
+   Ursache: Gutschrift Kunde 10002 wurde gegen Erloeskonto gebucht statt Erloesschmaelerung.
+   Korrektur: Umbuchung auf Erloesschmaelerungs-Konto im 8730er-Bereich (SKR 03; aktuelle DATEV-Kontonummer verifizieren).
 
-3. Differenz 1776 USt vs. USt-VA 240 EUR.
+3. Differenz USt-Konto (z. B. SKR 03 1776) vs. USt-Voranmeldung 240 EUR.
    Ursache: vergessene Buchung am 30.04.2026.
-   Korrektur: Nachbuchung mit Steuerschluessel 3.
+   Korrektur: Nachbuchung mit Steuerschluessel 3 (Umsatz 19 Prozent).
 ```
 
 ## Output

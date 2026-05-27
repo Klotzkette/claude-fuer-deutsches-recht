@@ -58,11 +58,13 @@ Kurzarbeit ist die voruebergehende Reduzierung der regelmaessigen Arbeitszeit au
 
 ### Phase 3 — Berechnung KUG
 
-- Sollentgelt = Brutto-Lohn ohne Arbeitsausfall.
-- Istentgelt = tatsaechliches Brutto.
-- Nettoentgeltdifferenz = Differenz fiktive Netto-Sollentgelt minus Netto-Istentgelt.
-- KUG = 60 Prozent der Nettoentgeltdifferenz (67 Prozent bei AN mit mind. einem Kind).
-- BBG-Grenze: Sollentgelt bis BBG RV.
+- Sollentgelt = pauschaliertes Brutto-Lohn ohne Arbeitsausfall (auf BBG RV begrenzt).
+- Istentgelt = tatsaechliches Brutto im Anspruchsmonat.
+- Pauschalierte Nettoentgeltdifferenz = Differenz fiktives Netto-Sollentgelt minus Netto-Istentgelt nach KUG-Tabelle der BA.
+- KUG ohne Kind: 60 Prozent der Nettoentgeltdifferenz.
+- KUG mit Kind (mindestens ein Kind nach ELStAM oder zumindest aus Kinderfreibetrag erkennbar): 67 Prozent der Nettoentgeltdifferenz.
+- BBG-Grenze: Sollentgelt nur bis BBG RV (West / Ost — Werte 2026 verifizieren).
+- Pandemie-Sonderaufstockungen (auf 70/77 Prozent ab 4. Monat, 80/87 Prozent ab 7. Monat) sind regulaer ausgelaufen — Anwendung nur bei Sonderverordnung; Stand 2026 pruefen.
 
 ### Phase 4 — Lohnabrechnung
 

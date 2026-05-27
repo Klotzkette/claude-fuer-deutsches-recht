@@ -7,7 +7,7 @@ description: "Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematisch
 
 ## Kernsachverhalt
 
-Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bilanzstichtag. Inventur, Periodenabgrenzung, Rueckstellungen, Anlagenspiegel, Mandantenfragebogen — all das muss aufeinander abgestimmt sein. Der Steuerberater fuehrt eine Standardroutine mit klaren Etappen.
+Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bilanzstichtag und eine geordnete Abwicklung in den ersten vier Monaten danach. Inventur, Periodenabgrenzung, Rueckstellungen, Anlagenspiegel und Mandantenfragebogen muessen aufeinander abgestimmt sein. Die folgende Standardroutine setzt den Bilanzstichtag (i.d.R. 31.12.) als Anker; die Phasen koennen bei abweichendem Geschaeftsjahr entsprechend verschoben werden.
 
 ## Kaltstart-Rueckfragen
 
@@ -40,44 +40,43 @@ Der Jahresabschluss erfordert systematische Vorbereitung 8-12 Wochen vor dem Bil
 
 ## Workflow
 
-### Phase 1 — 8 Wochen vor Stichtag
+### Phase 1 — 8 Wochen vor Stichtag (Anker Stichtag: T-8 Wochen)
 
-- Mandantenfragebogen versenden.
-- Inventur-Termin und -Anweisung mit Mandant abstimmen.
-- Pruefungs-Vorbereitung bei groesseren Kapitalgesellschaften.
+- Mandantenfragebogen (siehe `stb-mandantenfragebogen-jahresabschluss`) versenden mit Rueckfrist 4 Wochen.
+- Inventur-Termin und -Anweisung mit Mandant schriftlich abstimmen (insbesondere bei Stichtagsinventur am 31.12.).
+- Bei Pruefungspflicht (§ 316 HGB): Vor-Pruefungs-Vorbereitung mit dem Wirtschaftspruefer; Pruefungsplanung abstimmen.
+- Hinweis an Mandant zu Investitionen, IAB § 7g EStG, Sonder-AfA-Optionen vor Stichtag.
 
-### Phase 2 — Stichtag und Inventur
+### Phase 2 — Stichtag und Inventur (Bilanzstichtag)
 
-- Inventur vor Ort begleiten oder Beobachterrolle bei groesseren Mandanten.
-- Inventurprotokolle aufnehmen.
-- Bestandsabweichungen klaeren.
+- Inventur vor Ort begleiten oder Beobachterrolle bei groesseren Mandanten; bei kleineren Mandanten Stichprobenbegleitung.
+- Inventurprotokolle aufnehmen (Mengen, Bewertungshinweise, Pruefdatum, Bearbeiter).
+- Bestandsabweichungen unmittelbar klaeren (Cut-off-Listen Lieferungen / Wareneingang).
 
-### Phase 3 — 4 Wochen nach Stichtag
+### Phase 3 — 1. Quartal nach Stichtag (Wochen 1-4): Bestandskonten abstimmen
 
-- Dezember-Buchungen finalisieren.
-- Bankabstimmung Endsalden.
-- OPOS-Pflege.
+- Dezember-Buchungen finalisieren (letzte Belege, Bank-Cut-off, Lohn-Dezember inkl. Boni).
+- Bank-Saldenabstimmung Endbestand; Saldenbestaetigungen einholen.
+- OPOS-Pflege (Debitoren / Kreditoren); zweifelhafte Forderungen markieren.
 
-### Phase 4 — 6-10 Wochen nach Stichtag
+### Phase 4 — 1. Quartal nach Stichtag (Wochen 5-10): Abgrenzungen, Rueckstellungen, Anlagen
 
-- Periodenabgrenzung (RAP).
-- Rueckstellungen quantifizieren.
-- Anlagenspiegel mit AfA.
-- Saldenabstimmung (Forderungen, Verbindlichkeiten, Banken).
+- Periodenabgrenzung (RAP) gemaess `stb-jahresabschluss-abgrenzungen-rap-rai`.
+- Rueckstellungen quantifizieren gemaess `stb-jahresabschluss-rueckstellungen-bewertung`.
+- Anlagenspiegel und AfA gemaess `stb-jahresabschluss-anlagenverzeichnis-afa`.
+- Saldenabstimmung Forderungen, Verbindlichkeiten, Banken; Werterhellungstatsachen pruefen.
 
-### Phase 5 — 10-12 Wochen nach Stichtag
+### Phase 5 — 2. Quartal nach Stichtag (Wochen 10-14): Entwurf und Mandantengespraech
 
-- Jahresabschluss-Entwurf.
-- Bilanz, GuV, Anhang.
-- Lagebericht (bei groesseren Kapitalgesellschaften).
-- Mandantengespraech zum Entwurf.
+- Jahresabschluss-Entwurf (Bilanz, GuV, Anhang); bei Pflichtgesellschaft Lagebericht.
+- Wahlrechtsausuebung dokumentieren (Mandantenwahl protokolliert).
+- Mandantengespraech zum Entwurf (Brueckenschlag zu `stb-jahresgespraech-mandant-bwa-basis`).
 
-### Phase 6 — 12-16 Wochen nach Stichtag
+### Phase 6 — 2.-3. Quartal nach Stichtag (Wochen 14-26): Freigabe, Uebermittlung, Offenlegung
 
-- Mandanten-Freigabe.
-- Endgueltige Aufstellung.
-- E-Bilanz-Uebermittlung an FA.
-- Bundesanzeiger-Veroeffentlichung (innerhalb 12 Monaten).
+- Mandanten-Freigabe schriftlich (Aufstellungserklaerung).
+- E-Bilanz-Uebermittlung an FA gemaess `stb-jahresabschluss-elektronische-uebermittlung-ebilanz`.
+- Offenlegung im Unternehmensregister (§ 325 HGB) innerhalb 12 Monaten nach Stichtag gemaess `stb-jahresabschluss-veroeffentlichung-bundesanzeiger`.
 
 ## Output
 

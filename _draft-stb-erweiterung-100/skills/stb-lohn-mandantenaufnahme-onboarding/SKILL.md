@@ -79,10 +79,11 @@ Die Aufnahme eines neuen Lohn-Mandanten ist organisatorisch anspruchsvoll: Stamm
 
 ### Phase 3 — ELStAM-Abruf
 
-- ELStAM-Verfahren (Elektronische LohnSteuerAbzugsMerkmale): zentraler Abruf der LSt-Merkmale beim BZSt.
-- Voraussetzung: Steuer-Id des AN.
-- Abrufschluessel: Arbeitgeber-Steuer-Nr und BSN.
-- Abruf-Zeitpunkt: vor erster Lohnabrechnung.
+- ELStAM-Verfahren (Elektronische LohnSteuerAbzugsMerkmale): zentraler Abruf der LSt-Merkmale beim BZSt (§ 39e EStG).
+- Voraussetzung: Steuer-Id (11-stellig) des AN.
+- Abrufschluessel: AG-Steuer-Nr (FA-Schluessel + AG-Nr) und Geburtsdatum des AN.
+- Abruf-Zeitpunkt: vor der ersten Lohnabrechnung, in DATEV LODAS unter Mandant → Mitarbeiterverwaltung → ELStAM-Anmeldung; bei DATEV Lohn und Gehalt unter Stamm → ELStAM-Verfahren. Ruecklauf in der Regel binnen Sekunden.
+- Erst-Anmeldung mit Anlassgrund "Beginn der Beschaeftigung"; Folgemonatlich automatische Aktualisierung bei Aenderungen (Steuerklasse, KiFB, KKB).
 
 ### Phase 4 — SV-Anmeldung
 

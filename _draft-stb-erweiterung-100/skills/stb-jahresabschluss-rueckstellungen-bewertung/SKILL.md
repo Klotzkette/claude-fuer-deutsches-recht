@@ -63,14 +63,15 @@ Rueckstellungen sind Bilanzposten fuer ungewisse Verbindlichkeiten, drohende Ver
 
 ### Phase 3 — Steuerliche Einschraenkungen
 
-- § 5 Abs. 4a EStG: Drohende Verluste nur eingeschraenkt; § 5 Abs. 4a Nr. 5 EStG ausgeschlossen.
-- Rueckstellungen fuer ausgleichbare Verluste in der Steuerbilanz oft nicht zulaessig.
-- Pensionsrueckstellungen § 6a EStG mit Rechnungszinsfuss-Vorgabe.
+- § 5 Abs. 4a EStG: Drohverlustrueckstellungen sind in der Steuerbilanz dem Grunde nach **nicht** zulaessig — handelsrechtliche Pflicht (§ 249 Abs. 1 S. 1 Alt. 2 HGB) und steuerliches Verbot fallen damit auseinander; in der Ueberleitungsrechnung zur Steuerbilanz zwingend zu korrigieren.
+- Wahlrechte handelsrechtlicher Aufwandsrueckstellungen sind in der Steuerbilanz regelmaessig nicht abbildbar.
+- Pensionsrueckstellungen sind nach § 6a EStG mit festem Rechnungszinsfuss von 6 % zu bewerten; daraus resultieren erhebliche Abweichungen zur HGB-Bewertung nach § 253 Abs. 2 HGB.
 
 ### Phase 4 — Diskontierung § 253 HGB
 
-- Bei Rueckstellungen mit Restlaufzeit ueber 1 Jahr: Diskontierung mit Durchschnittszins aus den vergangenen 7 Jahren (kurzfristige Rueckstellungen) oder 10 Jahren (Pensionen).
-- Banken-Bundesbank-Zinssaetze pflegen (Stichtag 2026 verifizieren).
+- Rueckstellungen mit Restlaufzeit > 1 Jahr sind nach § 253 Abs. 2 S. 1 HGB mit dem durchschnittlichen Marktzinssatz der vergangenen 7 Geschaeftsjahre abzuzinsen.
+- Bei Altersversorgungsverpflichtungen besteht das Wahlrecht zur pauschalen Abzinsung mit dem 7-Jahres- oder 10-Jahres-Durchschnittszins fuer eine Restlaufzeit von 15 Jahren (§ 253 Abs. 2 S. 1, 2 HGB).
+- Die Zinssaetze werden monatlich von der Deutschen Bundesbank veroeffentlicht; aktuelle Werte zum Bilanzstichtag pflegen.
 
 ### Phase 5 — Aufloesung
 

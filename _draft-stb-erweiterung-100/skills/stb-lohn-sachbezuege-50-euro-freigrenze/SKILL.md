@@ -58,10 +58,11 @@ Sachbezuege (geldwerte Vorteile, die nicht in Geld bestehen) sind nach § 8 Abs.
 
 ### Phase 2 — 50-EUR-Pruefung
 
-- Monatlich Summe Sachbezuege.
-- Ueberschreitung 50 EUR: GESAMTE Zuwendung steuerpflichtig.
-- Nicht: nur den ueberschreitenden Teil — sondern Freigrenze, nicht Freibetrag.
-- Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit) bis 60 EUR LSt-frei (gesonderte Regelung, nicht Sachbezugs-Freigrenze).
+- Monatlich Summe Sachbezuege je AN.
+- Ueberschreitung 50 EUR: die GESAMTE monatliche Zuwendung ist lohnsteuer- und SV-pflichtig — nicht nur der ueberschreitende Teil (Freigrenze, nicht Freibetrag).
+- Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit) bis 60 EUR LSt-frei (gesonderte Regelung R 19.6 LStR, nicht Sachbezugs-Freigrenze; vgl. `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro`).
+- Sachbezugswerte SvEV (Verpflegung, Unterkunft) — Stand 01.01.2026 ueber BMAS/SvEV-VO verifizieren (Frueh, Mittag, Abendessen jeweils typische Tagessaetze; Werte werden jaehrlich angepasst).
+- Zahlenbeispiel: Tankgutschein 49 EUR + Sachgeschenk 5 EUR im selben Monat = 54 EUR; Folge — vollstaendige Versteuerung der 54 EUR, weil 50-EUR-Grenze ueberschritten.
 
 ### Phase 3 — Inflationsausgleichspraemie (2022-2024)
 

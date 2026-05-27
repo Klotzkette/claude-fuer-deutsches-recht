@@ -34,12 +34,12 @@ Abfindungen aus Anlass der Beendigung des Arbeitsverhaeltnisses sind aussergewoe
 
 **SvEV § 1 Abs. 1 Nr. 16** — SV-Behandlung Abfindungen.
 
-### Leitentscheidungen
+### Leitentscheidungen (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
 
-- BFH zu Zusammenballung: BFH IX R 47/14 — Auszahlungsmodalitaeten.
-- BFH zu echter Abfindung: BFH zur SV-Behandlung BSG B 12 KR 6/13 R.
+- BFH IX R 47/14 — Zusammenballung der Einkuenfte, Auszahlungsmodalitaeten.
+- BSG B 12 KR 6/13 R — SV-rechtliche Einordnung echter Abfindungen.
 
-(Aktenzeichen vor Uebernahme in juris/beck-online verifizieren.)
+Im civil law tragen die Kommentar- und Aufsatz-Literatur eigenstaendig (vgl. CLAUDE.md): zusaetzlich Schmidt/EStG, Blumich/EStG zu § 24 Nr. 1 und § 34 sowie aktuelle Aufsaetze in DStR/DB zur Fuenftel-Regelung-Reform 2024/2025 (Wegfall des LSt-Abzugs in der Lohnabrechnung — Veranlagungspflicht durch AN) heranziehen.
 
 ## Workflow
 
@@ -83,8 +83,8 @@ Die Fuenftel-Regelung mindert die Steuerprogression — bei vollstaendiger Wirku
 ### Phase 6 — Lohnabrechnung
 
 - DATEV LODAS: Abfindung mit Lohnart "Sonstige Bezuege ermaessigt" buchen.
-- Fuenftel-Berechnung automatisch.
-- LSt-Bescheinigung in Zeile 10 ("Aussergewoehnliche Einkuenfte fuer mehrere Jahre").
+- Achtung Reform: Mit dem Wachstumschancengesetz wurde der Lohnsteuer-Abzug der Fuenftel-Regelung im Lohnsteuer-Verfahren ab 2025 gestrichen (Verifikation 2026 ueber aktuelles BMF-Schreiben zur Lohnsteuer-Ermittlung); seither erfolgt die Fuenftel-Anwendung nur noch in der Veranlagung beim AN. AG sollte AN zur Einkommensteuererklaerung anhalten.
+- LSt-Bescheinigung in Zeile 10 ("Ermaessigt besteuerter Arbeitslohn fuer mehrere Jahre") — gilt fuer die Zuordnung zur Kennzahl; konkretes Feld bei jedem LSt-Update verifizieren.
 
 ## Output
 

@@ -48,41 +48,43 @@ Die Standard-BWA fasst Konten in funf Bloecken zusammen. Fuer detaillierte Analy
 
 ### Phase 2 — Aufbau strukturierte Betriebsuebersicht
 
+Beispiel-Aufbau (Kontennummern typische SKR 03-Beispiele; konkrete Nummern mit aktueller DATEV-Kontenrahmenfassung abgleichen):
+
 ```
 BETRIEBSUEBERSICHT
 Mandant: [Firma]
 Zeitraum: [Monat / kumuliert]
 
 I. UMSATZ UND BETRIEBLICHE ERTRAEGE
-  8000 Erloese aus Lieferungen 19 Prozent       [X]
-  8100 Erloese aus Lieferungen 7 Prozent        [X]
-  8400 Erloese steuerfrei innergem. Lieferung   [X]
-  8500 Sonstige betriebliche Ertraege           [X]
+  8400 Erloese 19 Prozent USt                   [X]
+  8300 Erloese 7 Prozent USt                    [X]
+  8125 Erloese steuerfreie innergem. Lieferung  [X]
+  8200 Sonstige betriebliche Ertraege           [X]
 
 II. MATERIAL- UND WARENEINSATZ
-  3000 Wareneingang 19 Prozent                  [X]
-  3100 Wareneingang 7 Prozent                   [X]
-  3300 Fremdleistungen                          [X]
+  3400 Wareneingang 19 Prozent VSt              [X]
+  3300 Wareneingang 7 Prozent VSt               [X]
+  3100 Fremdleistungen                          [X]
 
 III. PERSONALKOSTEN
   4120 Loehne                                   [X]
   4130 Gehaelter                                [X]
-  4138 SV-Beitraege AG                          [X]
-  4140 Berufsgenossenschaft                     [X]
+  4138 Beitraege zur Berufsgenossenschaft       [X]
+  4140 Krankenkassen-AG-Anteil                  [X]
 
 IV. SONSTIGE BETRIEBLICHE AUFWENDUNGEN
-  4200 Raumkosten                               [X]
-  4210 Heizung Strom Wasser                     [X]
+  4210 Miete                                    [X]
+  4240 Gas Strom Wasser                         [X]
   4500 Kfz-Kosten                               [X]
-  4600 Werbung Reisekosten                      [X]
-  4900 Sonstige                                 [X]
+  4600 Werbe- und Reisekosten                   [X]
+  4900 Sonstige betriebliche Aufwendungen       [X]
 
 V. ABSCHREIBUNGEN
-  4830 AfA Sachanlagen                          [X]
+  4830 Absetzungen auf Sachanlagen              [X]
 
 VI. ZINSERGEBNIS UND STEUERN
-  7300 Zinsaufwand                              [X]
-  7200 Zinsertraege                             [X]
+  7300 Zinsen und aehnliche Aufwendungen        [X]
+  7100 Zinsertraege                             [X]
   7600 Steuern vom Einkommen und Ertrag         [X]
 
 ERGEBNIS NACH STEUERN                           [X]
@@ -137,9 +139,9 @@ ERGEBNIS NACH STEUERN                           [X]
 ## Querverweise
 
 - `stb-bwa-aufbau-grundlagen` — BWA-Grundlagen.
-- `stb-susa-erstellen-grundlagen` — SuSa.
+- `stb-susa-erstellen-grundlagen` — Summen- und Saldenliste als Grundlage.
 - `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Vorjahresvergleich.
-- `stb-datev-bwa-modul-bedienen-tipps` — DATEV-Konfiguration.
+- `stb-bwa-kontenrahmen-skr03-skr04` — Kontenrahmenwahl und Mapping.
 
 ## Quellen und Updates
 

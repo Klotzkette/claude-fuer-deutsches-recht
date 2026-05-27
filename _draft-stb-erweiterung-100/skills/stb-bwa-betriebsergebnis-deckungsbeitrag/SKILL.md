@@ -72,16 +72,16 @@ Umsatzerloese                          [Umsatz]
 
 ### Phase 3 — DATEV/Addison-Konfiguration
 
-- DATEV: BWA-Form 21 (Branchen) oder individuelle BWA-Form ueber Berater-Konfiguration.
-- Addison: BWA-Definition mit eigenen Bloecken.
-- Kostenstellen-Zuordnung ueber DATEV-Kostenrechnung oder Sachkontenmasken.
+- DATEV: BWA-Form 21 (Branchen-BWA) oder individuelle BWA-Form ueber Berater-Konfiguration. Klickpfad: Rechnungswesen → Stammdaten → Auswertungspakete → Eigene BWA-Form definieren.
+- Addison: BWA-Definition mit eigenen Bloecken im Auswertungsmanager.
+- Kostenstellen-Zuordnung ueber DATEV-Kostenrechnung (Modul Kostenrechnung Classic/Comfort) oder Sachkontenmasken mit Kostenstellen-Feld.
 
 ### Phase 4 — Break-even-Analyse
 
-- Break-even-Umsatz = Fixkosten / Deckungsbeitragsrate.
-- Deckungsbeitragsrate = DB I / Umsatz.
-- Sicherheitsmarge = (Ist-Umsatz minus Break-even) / Ist-Umsatz.
-- Beispiel: Fixkosten 100.000 EUR, DB-Rate 40 Prozent → Break-even 250.000 EUR Umsatz.
+- Break-even-Umsatz = Fixkosten geteilt durch Deckungsbeitragsrate.
+- Deckungsbeitragsrate = DB I geteilt durch Umsatz.
+- Sicherheitsmarge = (Ist-Umsatz minus Break-even-Umsatz) geteilt durch Ist-Umsatz.
+- Rechenbeispiel: Fixkosten 100.000 EUR, DB-Rate 40 Prozent ergibt einen Break-even-Umsatz von 250.000 EUR. Liegt der Ist-Umsatz bei 300.000 EUR, betraegt die Sicherheitsmarge rund 17 Prozent.
 
 ### Phase 5 — Reporting und Erlaeuterung
 
@@ -115,6 +115,7 @@ Umsatzerloese                          [Umsatz]
 - `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` — Rentabilitaetskennzahlen.
 - `stb-bwa-cashflow-laienverstaendlich` — Cashflow-Darstellung.
 - `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
+- `stb-bwa-statische-liquiditaet-kennzahlen` — Liquiditaetskennzahlen ergaenzend zur DB-Rechnung.
 
 ## Quellen und Updates
 

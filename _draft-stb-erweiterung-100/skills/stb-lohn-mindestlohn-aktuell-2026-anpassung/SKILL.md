@@ -53,17 +53,18 @@ Der gesetzliche Mindestlohn wird kontinuierlich angehoben — durch Empfehlung d
 | 01.07.2021 | 9,60 |
 | 01.01.2022 | 9,82 |
 | 01.07.2022 | 10,45 |
-| 01.10.2022 | 12,00 (Gesetzliche Erhoehung) |
+| 01.10.2022 | 12,00 (gesetzliche Erhoehung) |
 | 01.01.2024 | 12,41 |
-| 01.01.2025 (verifizieren) | aktueller Wert |
-| 01.01.2026 (verifizieren) | aktueller Wert |
+| 01.01.2025 | 12,82 (verifizieren) |
+| 01.01.2026 | Empfehlung Mindestlohnkommission bzw. Verordnung — zwingend Stand 01.01.2026 verifizieren |
 
 ### Phase 2 — Verifikations-Quellen
 
-- Bundesgesetzblatt (BGBl.).
-- Mindestlohnkommission (mindestlohn-kommission.de).
-- BMAS-Pressemitteilungen.
-- DATEV-Updates (jaehrlich zum 1. Januar).
+- Bundesgesetzblatt (BGBl.) — Mindestlohn-Verordnungen.
+- Mindestlohnkommission (mindestlohn-kommission.de) — Empfehlungen.
+- BMAS-Pressemitteilungen und Beschluesse.
+- DATEV-Programm-Updates (jaehrlich zum 1. Januar; DATEV LODAS → Stamm → Lohnsteuer / Beitragssaetze).
+- Aktuelle Mindestlohn-Verordnung 2026 zwingend nachschlagen — Mindestlohnkommission tagt im Zwei-Jahres-Rhythmus (juenste Empfehlung typisch im Sommer des Vorjahres).
 
 ### Phase 3 — Wirkung auf Mandantenbetriebe
 

@@ -30,7 +30,7 @@ Der Soll-Ist-Vergleich legt unterjaehrige Planwerte des Mandanten neben die tats
 
 **§ 252 HGB** — Going-concern; positive Fortbestehensprognose setzt belastbaren Plan voraus.
 
-**§ 19 Abs. 2 InsO** — Fortbestehensprognose 24-Monats-Horizont (SanInsKG bis 31.12.2026).
+**§ 19 Abs. 2 InsO** — Fortbestehensprognose; Prognosezeitraum (regulaer 12 Monate; durch SanInsKG zeitweise auf vier Monate verkuerzt). Aktuelle Geltungsdauer der SanInsKG-Verkuerzung in juris pruefen.
 
 ### Standards
 
@@ -111,7 +111,7 @@ Stand: 05/2026.
 
 - HGB §§ 252, 265.
 - StaRUG § 1.
-- InsO § 19 (i.V.m. SanInsKG bis 31.12.2026).
+- InsO § 19 (Prognosezeitraum; SanInsKG-Sonderregelung mit aktueller Geltungsdauer in juris verifizieren).
 - IDW S 6, IDW S 11, IDW PS 305.
 - DATEV Kanzlei-Rechnungswesen Plan-Modul.
 - Addison Budget-Modul.

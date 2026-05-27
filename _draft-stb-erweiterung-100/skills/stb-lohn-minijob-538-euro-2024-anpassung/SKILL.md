@@ -64,6 +64,8 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 
 (Saetze U1/U2 jaehrlich neu festgelegt; 2026 verifizieren.)
 
+**Zahlenbeispiel gewerblicher Minijob (Stand 01.01.2024, MiLo 12,41 EUR, Grenze 538 EUR):** Bruttolohn 500 EUR. AG-Pauschalabgaben ca. 30 Prozent + Umlagen — 15 Prozent RV (75 EUR) + 13 Prozent KV (65 EUR) + 2 Prozent LSt-Pauschale (10 EUR) + U1 + U2 + Insolvenzgeld-Umlage = rund 150-160 EUR. AN-Auszahlung 500 EUR netto, sofern AN von der RV-Pflicht befreit ist; sonst minus AN-RV-Differenzbetrag ca. 18 EUR (3,6 Prozent).
+
 ### Phase 3 — RV-Pflicht und Opt-out
 
 - Grundsatz: Minijob ist RV-pflichtig.

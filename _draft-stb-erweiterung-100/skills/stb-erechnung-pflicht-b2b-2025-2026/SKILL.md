@@ -7,7 +7,7 @@ description: "eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsf
 
 ## Kernsachverhalt
 
-Seit 01.01.2025 ist die eRechnung (elektronische Rechnung in strukturierter Form) im B2B-Bereich Pflicht. Grundlage: § 14 UStG i.V.m. ViDA (VAT in the Digital Age) und Wachstumschancengesetz 2024. PDF-Rechnungen reichen nicht mehr aus. Akzeptierte Formate: XRechnung (XML) und ZUGFeRD (Hybrid). Uebergangsfristen fuer den Versand bis 31.12.2027 (bei kleineren Umsaetzen). Der Steuerberater muss Mandanten ueber die Pflicht informieren und Konfigurationen anpassen.
+Seit 01.01.2025 sind alle inlaendischen B2B-Unternehmer verpflichtet, **eRechnungen empfangen zu koennen** (§ 14 Abs. 1 i.V.m. Abs. 2 UStG n.F., Wachstumschancengesetz vom 27.03.2024, BMF-Schreiben vom 15.10.2024). Die **Versandpflicht** ist demgegenueber gestaffelt: Bis 31.12.2026 duerfen Rechnungen weiterhin als PDF/sonstige elektronische Form mit Empfaengerzustimmung versendet werden; bis 31.12.2027 bleibt dies fuer Kleinunternehmen mit Vorjahresumsatz bis 800.000 EUR moeglich. Ab 01.01.2028 ist der eRechnungs-Versand zwischen inlaendischen Unternehmern verbindlich. Akzeptierte Formate: XRechnung (CIUS-konform, reines XML) und ZUGFeRD ab Version 2.0.1 (Hybridformat). Der Steuerberater muss Mandanten ueber die Pflicht informieren und insbesondere die Empfangsbereitschaft sicherstellen.
 
 ## Kaltstart-Rueckfragen
 
@@ -24,15 +24,17 @@ Seit 01.01.2025 ist die eRechnung (elektronische Rechnung in strukturierter Form
 
 ### Primaernormen
 
-**§ 14 UStG** — Rechnungspflichten.
+**§ 14 Abs. 1 S. 3 UStG n.F.** — Definition eRechnung als strukturiertes elektronisches Format gemaess EN-16931.
 
-**§ 14 Abs. 4a UStG** — eRechnung-Definition.
+**§ 14 Abs. 2 UStG n.F.** — Ausstellungspflicht in eRechnungsform zwischen inlaendischen Unternehmern (mit Uebergangsregeln § 27 Abs. 38 UStG).
 
-**§ 14 Abs. 2 UStG** — Ausstellungspflicht.
+**§ 27 Abs. 38 UStG n.F.** — Uebergangsregeln (sonstige Rechnungsform bis 31.12.2026 / 31.12.2027 fuer Kleinunternehmer mit Umsatz <= 800.000 EUR).
 
-**Wachstumschancengesetz 2024** — Einfuehrung.
+**§ 33 UStDV, § 34 UStDV** — Ausnahmen (Kleinbetrag, Fahrausweis).
 
-**EU-RL 2014/55** — eRechnung-Standard.
+**Wachstumschancengesetz vom 27.03.2024** — BGBl. I 2024 Nr. 108.
+
+**EU-RL 2014/55/EU** — eRechnungs-Standard EN-16931.
 
 ### Verwaltungsanweisungen
 
@@ -41,26 +43,27 @@ Seit 01.01.2025 ist die eRechnung (elektronische Rechnung in strukturierter Form
 
 ## Workflow
 
-### Phase 1 — Geltungsbereich
+### Phase 1 — Geltungsbereich (Wachstumschancengesetz 2024)
 
 | Phase | Zeitraum | Pflicht |
 |---|---|---|
-| Empfang | Ab 01.01.2025 | Alle Unternehmer im B2B (zwingende Empfangsbereitschaft) |
-| Versand | Ab 01.01.2025 | Grosse Unternehmen (Umsatz > 800.000 EUR Vorjahr) |
-| Versand kleine Unternehmen | Ab 01.01.2027 | Schwellenwert je nach Reform-Verlauf; aktuell verifizieren |
-| Versand alle | Ab 01.01.2028 | Verbindlich; PDF nicht mehr akzeptiert |
+| Empfang | Ab 01.01.2025 | Alle inlaendischen B2B-Unternehmer (zwingende Empfangsbereitschaft, ohne Schwellenwert) |
+| Versand sonstige elektr. Rechnungen | 01.01.2025 - 31.12.2026 | Versand als PDF / sonstige elektronische Form weiter zulaessig, sofern Empfaengerzustimmung |
+| Versand sonstige elektr. Rechnungen, Kleinunternehmer | 01.01.2025 - 31.12.2027 | Verlaengert fuer Rechnungsausstellung durch Unternehmer mit Vorjahresumsatz <= 800.000 EUR |
+| eRechnung-Versand vollumfaenglich | Ab 01.01.2028 | Verbindlich; PDF/Papier zwischen inlaendischen Unternehmern nicht mehr ausreichend |
+| Ausgenommen | dauerhaft | Kleinbetragsrechnungen § 33 UStDV (bis 250 EUR), Fahrausweise § 34 UStDV, B2C-Rechnungen |
 
-(Schwellenwerte und Daten 2026 verifizieren.)
+Stand BMF-Schreiben vom 15.10.2024; Aktualisierungen 2026 ueber bzst.de bzw. BMF-Newsletter verifizieren.
 
 ### Phase 2 — Format-Wahl
 
 | Format | Eigenschaften |
 |---|---|
-| XRechnung | Reines XML, von Bund vorgegebener Standard |
-| ZUGFeRD | Hybrid PDF + XML-Anhang; Mensch und Maschine lesbar |
-| Sonstige (z.B. EDIFACT) | Branchen-spezifisch; nach Vereinbarung |
+| XRechnung | Reines XML nach CIUS der KoSIT; Standard fuer oeffentliche Auftraggeber (E-Rech-VO Bund seit 27.11.2020) |
+| ZUGFeRD ab Version 2.0.1 | Hybridformat PDF/A-3 mit eingebettetem XML; menschen- und maschinenlesbar; ab Profil EN-16931 eRechnung-konform |
+| Sonstige (z.B. EDIFACT) | Nur zulaessig, wenn EN-16931-konforme strukturierte Rechnungsdaten enthalten / extrahierbar sind |
 
-ZUGFeRD ab Version 2.2 ist gleichberechtigt mit XRechnung.
+Hinweis: Das ZUGFeRD-Profil MINIMUM und BASIC-WL sind **nicht** eRechnung-konform i.S.d. § 14 Abs. 1 S. 6 UStG.
 
 ### Phase 3 — Empfangs-Setup
 
@@ -94,12 +97,11 @@ ZUGFeRD ab Version 2.2 ist gleichberechtigt mit XRechnung.
 
 ## Strategie und Praxis-Tipps
 
-- eRechnung-Pflicht ist Reform-Hebel — Mandanten frueh informieren.
-- Empfang ab 01.01.2025 zwingend — wer nicht empfangsbereit ist, kann eRechnung nicht abrechnen.
-- ZUGFeRD ist Standard fuer Mittelstand (PDF + XML; auch Auge-freundlich).
-- XRechnung ist Pflicht fuer oeffentliche Auftraggeber (Bund seit 2020).
-- DATEV-Tipp: DATEV DUO + DATEV-Faktura unterstuetzen eRechnung; Update zwingend.
-- StBVV: Konfigurationsberatung als Sonderauftrag.
+- Die wichtigste Stufe ist seit 01.01.2025 die **Empfangsbereitschaft** — ohne sie kann ein eRechnungs-pflichtiger Lieferant nicht ordnungsgemaess abrechnen, der Mandant verliert ggf. den Vorsteuerabzug.
+- Mindest-Empfangsweg ist ein E-Mail-Postfach, das XML-/PDF-Anhaenge bis ueblicher Groesse annimmt; ein dediziertes eRechnungs-Postfach erleichtert Workflow und GoBD-Archivierung.
+- ZUGFeRD eignet sich als Einstiegsformat fuer Mittelstand und Kleinunternehmer (PDF bleibt fuer den Anwender lesbar). XRechnung ist Pflichtformat im B2G-Verkehr mit Bundesstellen (E-Rech-VO seit 27.11.2020) und in einigen Laendern.
+- DATEV-Hinweis: In DATEV Unternehmen Online laesst sich der eRechnungs-Empfang ueber das Postfach "Eingangsrechnungen" und das ZUGFeRD-Auswertungsmodul konfigurieren; konkrete Programmpfade in der aktuellen DATEV-Programmversion verifizieren.
+- StBVV: Konfigurationsberatung als Beratungsleistung gem. § 21 StBVV oder Pauschalvereinbarung gem. § 14 StBVV (Mandanten frueh per Rundschreiben informieren — Mustertext im Skill `stb-mandantenanfrage-reaktion-frist-laufend`).
 
 ## Querverweise
 
@@ -111,9 +113,11 @@ ZUGFeRD ab Version 2.2 ist gleichberechtigt mit XRechnung.
 
 Stand: 05/2026.
 
-- UStG § 14.
-- Wachstumschancengesetz 2024.
-- BMF v. 15.10.2024.
-- BMF v. 22.06.2023 ViDA.
-- EU-RL 2014/55.
-- Verifikations-Hinweis: Schwellenwerte und Uebergangsfristen 2026 verifizieren.
+- UStG §§ 14, 27 Abs. 38; UStDV §§ 33, 34.
+- Wachstumschancengesetz vom 27.03.2024 (BGBl. I 2024 Nr. 108).
+- BMF-Schreiben vom 15.10.2024, IV D 2 - S 7287-a/23/10001 :007.
+- EU-RL 2014/55/EU; Norm EN-16931.
+- KoSIT XRechnung-Spezifikation (aktuelle Version verifizieren).
+- ZUGFeRD-Spezifikation (FeRD), aktuelle Profile pruefen.
+- ViDA (VAT in the Digital Age, COM 2022/701-703) — EU-Reformpaket, Inkrafttreten und Detailregelungen verifizieren.
+- Verifikations-Hinweis: alle Werte und Fristen jaehrlich gegen BMF-Newsletter / bzst.de pruefen.

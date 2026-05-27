@@ -44,13 +44,15 @@ Die Direktversicherung ist der haeufigste bAV-Durchfuehrungsweg: AG schliesst ei
 
 ### Phase 1 — Foerderungs-Grenzen
 
-| Grenze | Wert (2024, Verifikation 2026) | Wirkung |
+| Grenze | Wert (typisch derzeit ca.; 2026 verifizieren) | Wirkung |
 |---|---|---|
-| 8 Prozent BBG (West) | Ca. 7.728 EUR/Jahr Direktversicherungs-Beitrag (2024) | LSt-frei |
-| 4 Prozent BBG (West) | Ca. 3.864 EUR/Jahr | SV-frei (zusaetzlich zu LSt-Freiheit bis 4 Prozent) |
-| Daruber hinaus | Volle Versteuerung; SV-Pflicht | Wie regulaerer Lohn |
+| 8 Prozent BBG-West RV | ca. 7.728 EUR/Jahr (BBG-West RV 96.600 EUR fuer 2024 — Stand 2026 zwingend ueber DRV/BMAS-Sozialversicherungs-Rechengroessenverordnung verifizieren) | LSt-frei |
+| 4 Prozent BBG-West RV | ca. 3.864 EUR/Jahr (2024) | SV-frei (zusaetzlich zur LSt-Freiheit) |
+| Darueber hinaus | Vollversteuerung; SV-Pflicht | Wie regulaerer Lohn |
 
-(2026 BBG-Werte verifizieren ueber BMAS/DRV.)
+**Zahlenbeispiel (Stand 2024-Werte):** AN mit Entgeltumwandlung 200 EUR/Monat in Direktversicherung = 2.400 EUR/Jahr. Liegt unter 4-Prozent-BBG (3.864 EUR) — voll LSt- UND SV-frei. AG erspart SV-AG-Anteil und muss daher 15 Prozent Pflichtzuschuss nach § 1a BetrAVG leisten (= 30 EUR/Monat).
+
+(2026 BBG-Werte und Hoechstgrenzen zwingend ueber Sozialversicherungs-Rechengroessenverordnung verifizieren.)
 
 ### Phase 2 — Vergleich Entgeltumwandlung vs. AG-Finanzierung
 

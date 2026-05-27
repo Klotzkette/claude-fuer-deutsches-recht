@@ -43,9 +43,9 @@ SV-Beitragsnachweise und DEUEV-Meldungen werden elektronisch an die Krankenkasse
 
 | System | Vorteile | Nachteile |
 |---|---|---|
-| sv.net | Kostenfrei; Standard GKV-Spitzenverband | Beschraenkter Funktionsumfang; nicht mandantenoptimal bei vielen AN |
-| DATEV DAKOTA | Integriert in DATEV LODAS; mandantenoptimiert | Kostenpflichtig |
-| ITSG-Software anderer Anbieter | Mandanten-spezifisch | Pruefung Kosten/Nutzen |
+| sv.net (ITSG) | Kostenfrei; Standard GKV-Spitzenverband; sv.net classic ist 2023/2024 abgeloest durch sv.net Online und sv.net Comfort — Stand 2026 Migration ueber ITSG verifizieren | Beschraenkter Funktionsumfang; nicht mandantenoptimal bei vielen AN |
+| DATEV DAKOTA | Integriert in DATEV LODAS / Lohn und Gehalt; mandantenoptimiert; jaehrliches Zertifikat ueber DATEV-eService | Kostenpflichtig |
+| ITSG-Software anderer Anbieter (z.B. Lexware, Addison) | Mandanten-spezifisch | Pruefung Kosten/Nutzen |
 
 ### Phase 2 — Zugang und Zertifikate
 

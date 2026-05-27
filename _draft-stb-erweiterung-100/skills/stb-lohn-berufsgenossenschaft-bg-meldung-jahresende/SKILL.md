@@ -58,11 +58,12 @@ Jeder AG ist Pflichtmitglied einer Berufsgenossenschaft (BG; gesetzliche Unfallv
 - Aussschluesse: ggf. bestimmte Sonderzahlungen (BG-spezifisch).
 - Aufteilung nach Gefahrenklasse (bei Mischbetrieb).
 
-### Phase 4 — Elektronischer Lohnnachweis
+### Phase 4 — Elektronischer Lohnnachweis (UV-Jahresmeldung)
 
-- Form: elektronisch ueber sv.net, DAKOTA, oder BG-Portal.
-- Frist: spaetestens 15. Februar des Folgejahres.
-- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung.
+- Form: elektronisch ueber sv.net, DAKOTA oder das BG-Portal; in DATEV LODAS unter Auswertung → Jahresmeldungen → UV-Jahresmeldung.
+- Frist: spaetestens 16. Februar des Folgejahres (gesetzlicher Stichtag — bei Wochenend-Verschiebung folgender Werktag).
+- Inhalt: Lohnsumme je Gefahrenklasse, geleistete Arbeitsstunden, Mitgliedsnummer.
+- Nach BG-Bescheid: Beitragsbescheid mit Nachzahlung oder Erstattung; Faelligkeit der Nachzahlung typisch 15. April des Folgejahres (verifizieren ueber BG-Satzung).
 
 ### Phase 5 — Vorauszahlungen
 

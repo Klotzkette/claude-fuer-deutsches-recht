@@ -71,16 +71,16 @@ EBITDA-MARGE:
   EBITDA / Umsatz * 100
 ```
 
-### Phase 3 — Schwellenwerte und Bewertung
+### Phase 3 — Schwellenwerte und Bewertung (Daumenregeln, branchenabhaengig)
 
-| Kennzahl | Gruen | Gelb | Rot |
+| Kennzahl | Gruen (typisch) | Gelb (typisch) | Rot (typisch) |
 |---|---|---|---|
-| Eigenkapitalrendite (nach Steuern) | > 15 Prozent | 5-15 Prozent | < 5 Prozent |
-| Gesamtkapitalrendite | > 10 Prozent | 5-10 Prozent | < 5 Prozent |
-| Umsatzrentabilitaet | > 8 Prozent | 3-8 Prozent | < 3 Prozent |
-| EBITDA-Marge | > 15 Prozent | 8-15 Prozent | < 8 Prozent |
+| Eigenkapitalrendite (nach Steuern) | ueber ca. 15 Prozent | ca. 5-15 Prozent | unter ca. 5 Prozent |
+| Gesamtkapitalrendite | ueber ca. 10 Prozent | ca. 5-10 Prozent | unter ca. 5 Prozent |
+| Umsatzrentabilitaet | ueber ca. 8 Prozent | ca. 3-8 Prozent | unter ca. 3 Prozent |
+| EBITDA-Marge | ueber ca. 15 Prozent | ca. 8-15 Prozent | unter ca. 8 Prozent |
 
-(Branchenabhaengig; Industrie typisch hoher EK-Renditen, Handel typisch niedrigere Umsatzrentabilitaet aber hoher Kapitalumschlag.)
+Die Schwellenwerte sind Branchen-Daumenregeln und vor Mandantengespraech mit aktuellen BBE-Branchendaten zu verifizieren. Industriebetriebe weisen typischerweise hoehere EK-Renditen aus; Handel hat oft geringe Umsatzrentabilitaet bei hohem Kapitalumschlag.
 
 ### Phase 4 — DuPont-Analyse
 

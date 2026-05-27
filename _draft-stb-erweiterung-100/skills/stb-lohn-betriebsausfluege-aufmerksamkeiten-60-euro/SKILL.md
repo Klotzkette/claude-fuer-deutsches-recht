@@ -52,9 +52,10 @@ Aufmerksamkeiten zu persoenlichen Anlaessen (Geburtstag, Hochzeit, Geburt eines 
 
 ### Phase 2 — Hoechstgrenze
 
-- 60 EUR brutto pro persoenlichem Anlass.
+- 60 EUR brutto inkl. USt pro persoenlichem Anlass.
 - Ueberschreitung: GESAMTE Zuwendung steuerpflichtig (Freigrenze, nicht Freibetrag).
 - Bei mehrfacher Aufmerksamkeit im Jahr: jede separat (z.B. Geburtstag + Hochzeit = beide bis 60 EUR moeglich).
+- Beispiel: Geschenkkorb fuer 55 EUR brutto zum Geburtstag = LSt- und SV-frei. Geschenkkorb fuer 65 EUR brutto = vollstaendig (alle 65 EUR) lohnsteuer- und beitragspflichtig; Pauschalierung § 37b EStG (30 Prozent) als AG-Option moeglich.
 
 ### Phase 3 — Form der Zuwendung
 

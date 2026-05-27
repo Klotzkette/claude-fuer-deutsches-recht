@@ -51,6 +51,8 @@ Die Summen- und Saldenliste (SuSa) ist die periodengerecht aufbereitete Auflistu
 
 ### Phase 2 — SuSa-Aufbau
 
+Aufbau-Beispiel (Kontennummern beispielhaft im SKR 03; im konkreten Mandat mit aktueller DATEV-Kontenrahmenfassung abgleichen — SKR 04 nutzt eine andere Nummernlogik):
+
 ```
 SUMMEN- UND SALDENLISTE
 Mandant: [Firma]
@@ -58,20 +60,19 @@ Periode: [Monat / Quartal / YTD]
 
 Konto  Bezeichnung           Soll-Summe   Haben-Summe   Saldo Soll   Saldo Haben
 0440   GWG                   [X]          [X]           [X]          [X]
-0670   Bauten Grundst.       [X]          [X]           [X]          [X]
+0670   Bauten/Grundstuecke   [X]          [X]           [X]          [X]
 ...
 1000   Kasse                 [X]          [X]           [X]          [X]
 1200   Bank                  [X]          [X]           [X]          [X]
 1400   Forderungen LuL       [X]          [X]           [X]          [X]
-1500   Verb. LuL             [X]          [X]           [X]          [X]
-1576   Vorsteuer 19          [X]          [X]           [X]          [X]
-1776   USt 19                [X]          [X]           [X]          [X]
-2000   Bilanzgewinn          [X]          [X]           [X]          [X]
+1576   Vorsteuer 19 Prozent  [X]          [X]           [X]          [X]
+1700   Verb. LuL             [X]          [X]           [X]          [X]
+1776   USt 19 Prozent        [X]          [X]           [X]          [X]
+2000   Eroeffnungsbilanz     [X]          [X]           [X]          [X]
 ...
-4000   Erloese 19            [X]          [X]           [X]          [X]
-4400   Provisionsertraege    [X]          [X]           [X]          [X]
-5000   Wareneingang 19       [X]          [X]           [X]          [X]
-6100   Lohn                  [X]          [X]           [X]          [X]
+3400   Wareneingang 19 Pr.   [X]          [X]           [X]          [X]
+4120   Loehne                [X]          [X]           [X]          [X]
+8400   Erloese 19 Prozent    [X]          [X]           [X]          [X]
 ...
 ```
 
@@ -79,7 +80,7 @@ Konto  Bezeichnung           Soll-Summe   Haben-Summe   Saldo Soll   Saldo Haben
 
 - Konten ohne Saldo ausblenden (Default in DATEV).
 - Reihenfolge nach Kontonummer (Bilanzgliederung implizit).
-- Separate Ausweisung Bestandskonten (Klasse 0-3 SKR 03) und Erfolgskonten (Klasse 4-8).
+- Separate Ausweisung Bestandskonten (Klassen 0-2 SKR 03; Klassen 0-3 SKR 04) und Erfolgskonten (Klassen 4-8 SKR 03; Klassen 4-7 SKR 04).
 - Personenkonten nur auf Wunsch (separate OPOS-Liste).
 
 ### Phase 4 — Plausibilitaetspruefung

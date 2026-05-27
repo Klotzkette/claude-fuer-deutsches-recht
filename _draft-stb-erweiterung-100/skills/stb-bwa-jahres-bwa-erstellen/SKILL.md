@@ -128,7 +128,7 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 - Bei Gesellschafterversammlung: Jahres-BWA als Tischvorlage statt blanker Bilanz.
 - Mehrjahres-Trend ist Standard bei mittelstaendischer Bilanzanalyse — 5 Jahre ist guter Kompromiss.
 - StBVV: Jahres-BWA als Zusatzauftrag neben Jahresabschluss-Erstellung; ggf. Pauschal.
-- DATEV-Tipp: DATEV Jahres-BWA-Modul mit 5-Jahres-Vergleich automatisiert.
+- DATEV-Tipp: Klickpfad fuer Mehrjahres-Vergleich: Rechnungswesen → Auswertungen → BWA → BWA-Form mit Vorjahresspalten waehlen, Jahresvergleich aktivieren.
 
 ## Querverweise
 

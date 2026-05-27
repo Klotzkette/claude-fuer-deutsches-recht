@@ -54,10 +54,13 @@ Stellt der AG dem AN einen Dienstwagen zur privaten Nutzung zur Verfuegung, ents
 
 ### Phase 2 — 1-Prozent-Methode
 
-- 1 Prozent des Bruttolistenpreises pro Monat = Sachbezug Privatnutzung.
-- Plus 0,03 Prozent x Bruttolistenpreis x Entfernungskilometer fuer Fahrten Wohnung-Arbeit.
-- E-Auto (bis 60.000 EUR Listenpreis, Erstzulassung 2024 ff.): 0,25 Prozent statt 1 Prozent (aktuelle Grenze 2026 verifizieren).
-- Hybrid (bestimmte Bedingungen): 0,5 Prozent statt 1 Prozent.
+- 1 Prozent des Bruttolistenpreises (auf volle 100 EUR abgerundet) pro Monat = Sachbezug Privatnutzung.
+- Plus 0,03 Prozent x Bruttolistenpreis x Entfernungskilometer fuer Fahrten Wohnung-Arbeit (oder 0,002 Prozent je tatsaechlich gefahrenem Arbeitsweg-Tag bei Einzelnachweis).
+- E-Auto (rein elektrisch, Bruttolistenpreis bis 70.000 EUR — Anhebung 2024; Stand 2026 in BMF verifizieren): nur ein Viertel der Bemessungsgrundlage (0,25 Prozent statt 1 Prozent), entsprechend 0,0075 Prozent statt 0,03 Prozent fuer Wohnung-Arbeit.
+- E-Auto ueber Listenpreis-Grenze: halbe Bemessungsgrundlage (0,5 Prozent statt 1 Prozent).
+- Plug-in-Hybrid: 0,5 Prozent bei Mindest-Reichweite oder CO2-Bedingungen (Voraussetzungen § 6 Abs. 1 Nr. 4 Satz 2 Nr. 3 ff. EStG; Stand 2026 verifizieren).
+
+**Zahlenbeispiel:** Verbrenner-Dienstwagen Bruttolistenpreis 45.000 EUR; Wohnung-Arbeit 15 km. Monatlicher Sachbezug: 1 Prozent x 45.000 EUR = 450 EUR + 0,03 Prozent x 45.000 EUR x 15 km = 202,50 EUR; gesamt 652,50 EUR Sachbezug. Bei E-Auto 45.000 EUR Listenpreis (in Foerderbereich): nur 0,25 Prozent x 45.000 EUR = 112,50 EUR Privatanteil + 0,0075 Prozent x 45.000 EUR x 15 km = 50,625 EUR; gesamt 163,125 EUR.
 
 ### Phase 3 — Fahrtenbuch-Methode
 

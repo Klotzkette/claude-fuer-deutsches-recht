@@ -36,23 +36,23 @@ Streitfaelle in der Lohnbuchhaltung haben oft zwei Streitlinien parallel: arbeit
 
 **§ 67 StBerG** — Berufshaftpflicht.
 
-### Leitentscheidungen BAG
+### Leitentscheidungen BAG (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
 | BAG 9 AZR 305/05 | Arbeitnehmereigenschaft nach Gesamtbild der Verhaeltnisse |
-| BAG 5 AZR 1/12 | Werkvertrag und AN: Abgrenzung |
-| BAG 6 AZR 327/21 | Crowdwork und Arbeitsverhaeltnis |
+| BAG 5 AZR 1/12 | Werkvertrag und AN — Abgrenzung |
+| BAG 6 AZR 327/21 | Crowdwork und Arbeitsverhaeltnis (Aktenzeichen verifizieren) |
 
-### Leitentscheidungen BSG
+### Leitentscheidungen BSG (Aktenzeichen vor Uebernahme in juris/beck-online verifizieren)
 
 | Aktenzeichen | Leitsatz |
 |---|---|
-| BSG B 12 R 22/13 R | Familien-GGF Beherrschende Stellung |
-| BSG B 12 KR 13/17 R | Statusfeststellung Schwiegersohn |
+| BSG B 12 R 22/13 R | Familien-GGF — beherrschende Stellung trotz Minderheitsbeteiligung moeglich |
+| BSG B 12 KR 13/17 R | Statusfeststellung Schwiegersohn-Geschaeftsfuehrer Familien-GmbH |
 | BSG B 12 R 13/12 R | Mehrheits-GGF in der Regel selbstaendig |
 
-(Aktenzeichen vor Uebernahme in juris/beck-online verifizieren.)
+Hinweis: Im civil law ist auch ohne Praezedenzbindung die Kommentar- und Aufsatzliteratur argumentativ tragend (vgl. CLAUDE.md). Bei aktuellen Streitfaellen daher zusaetzlich Bearbeiter im Kasseler Kommentar, MuenchKomm-SGB IV, GK-SGB IV sowie aktuelle Aufsaetze (NZA, NZS, DStR) heranziehen.
 
 ## Workflow
 

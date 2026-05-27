@@ -89,7 +89,13 @@ Der monatliche Lohnsteuer-Abschluss ist die Hauptarbeit der Lohnbuchhaltung: Bru
 
 - Nettolohn = Brutto minus LSt/KiSt/SolZ minus SV-AN-Anteile (- Pfaendung, - VL, - Sonderabzug).
 - Ueberweisung an AN-Konto.
-- Buchung im Hauptbuch (Loehne, SV-AG, LSt-Verbindlichkeit, KK-Verbindlichkeit).
+- Typische Buchungssaetze SKR04 (SKR03 entsprechend):
+  - Loehne und Gehaelter: 6020 SKR04 (4120 SKR03) "Loehne" an 3740 SKR04 (1742 SKR03) "Verbindlichkeiten aus Lohn- und Kirchensteuer", 3760 SKR04 (1741 SKR03) "Verbindlichkeiten im Rahmen der sozialen Sicherheit", 3790 SKR04 (1755 SKR03) "Sonstige Verbindlichkeiten gegenueber Mitarbeitern".
+  - AG-SV-Anteil: 6110 SKR04 (4130 SKR03) "Gesetzliche soziale Aufwendungen" an 3760 SKR04 (1741 SKR03).
+  - Bei Auszahlung Netto: 3790 SKR04 an Bank (1800 SKR04 / 1200 SKR03).
+  - Abfuehrung LSt: 3740 SKR04 an Bank.
+  - Abfuehrung SV: 3760 SKR04 an Bank.
+- Konten-Nr je nach Kontenplan und DATEV-Mandantenkonfiguration; bei Abweichungen Mandantenstammdaten pruefen.
 
 ### Phase 6 — Anmeldung Lohnsteuer
 

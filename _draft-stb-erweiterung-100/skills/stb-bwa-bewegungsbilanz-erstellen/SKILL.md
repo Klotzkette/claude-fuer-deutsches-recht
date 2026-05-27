@@ -124,12 +124,12 @@ MITTELVERWENDUNG:
 
 ## Strategie und Praxis-Tipps
 
-- Bewegungsbilanz ist nicht Pflicht bei kleinen Mandanten, aber Standard bei mittelstaendischer Bilanzanalyse.
-- Banken erwarten oft Bewegungsbilanz oder direkt Kapitalflussrechnung bei groesseren Kreditengagements.
-- Bei Sanierungsmandaten Pflichtbestandteil neben Liquiditaetsplan.
-- Praxis-Tipp: Bewegungsbilanz halbjaehrlich, nicht monatlich (zu detailaufwendig).
-- StBVV: Sonderauswertung mit Zeithonorar oder Pauschal.
-- DATEV-Tipp: DATEV BAB / Bewegungsbilanz-Modul automatisiert aus zwei SuSa-Stichtagen.
+- Die Bewegungsbilanz ist bei Kleinunternehmen keine Pflicht, gehoert bei mittelstaendischer Bilanzanalyse jedoch zum Standard.
+- Banken erwarten bei groesseren Kreditengagements regelmaessig eine Bewegungsbilanz oder direkt eine Kapitalflussrechnung.
+- Bei Sanierungsmandaten ist die Bewegungsbilanz Pflichtbestandteil neben dem Liquiditaetsplan.
+- Praxis-Tipp: Die Bewegungsbilanz wird ueblicherweise halbjaehrlich erstellt und nicht monatlich, da der Aufstellungsaufwand bei kuerzerem Intervall den Steuerungsnutzen uebersteigt.
+- StBVV: Diese Sonderauswertung wird ueber Zeithonorar oder Pauschalvereinbarung gesondert abgerechnet.
+- DATEV-Tipp: Das DATEV-Bilanzbericht-/BAB-Modul automatisiert die Bewegungsbilanz aus zwei SuSa-Stichtagen (Klickpfad: Rechnungswesen → Auswertungen → Bewegungsbilanz oder Bilanzanalyse-Auswertungspaket).
 
 ## Querverweise
 

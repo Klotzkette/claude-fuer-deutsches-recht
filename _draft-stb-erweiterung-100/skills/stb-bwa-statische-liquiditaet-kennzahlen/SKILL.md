@@ -24,7 +24,7 @@ Statische Liquiditaetskennzahlen geben einen Schnappschuss der Zahlungsfaehigkei
 
 ### Primaernormen
 
-**§ 17 InsO** — Zahlungsunfaehigkeit (BGH BGHZ 163, 134: 10-Prozent-Luecke, 3-Wochen-Frist).
+**§ 17 InsO** — Zahlungsunfaehigkeit. Die Liquiditaetsluecke von 10 Prozent und die 3-Wochen-Frist gehen auf BGH, Urt. v. 24.05.2005 - IX ZR 123/04, BGHZ 163, 134 zurueck (stabile Leitentscheidung).
 
 **§ 19 InsO** — Ueberschuldung mit Fortbestehensprognose.
 
@@ -73,17 +73,17 @@ ANLAGENDECKUNG II:
   (sollte ueber 100 Prozent sein, sonst Fristenkongruenz verletzt)
 ```
 
-### Phase 3 — Schwellenwerte und Ampel
+### Phase 3 — Schwellenwerte und Ampel (typische Daumenregeln, branchenabhaengig)
 
-| Kennzahl | Gruen | Gelb | Rot |
+| Kennzahl | Gruen (typisch) | Gelb (typisch) | Rot (typisch) |
 |---|---|---|---|
-| Liquiditaet 1. Grades | > 20 Prozent | 10-20 Prozent | < 10 Prozent |
-| Liquiditaet 2. Grades | > 100 Prozent | 80-100 Prozent | < 80 Prozent |
-| Liquiditaet 3. Grades | > 200 Prozent | 120-200 Prozent | < 120 Prozent |
+| Liquiditaet 1. Grades | ueber ca. 20 Prozent | ca. 10-20 Prozent | unter ca. 10 Prozent |
+| Liquiditaet 2. Grades | ueber ca. 100 Prozent | ca. 80-100 Prozent | unter ca. 80 Prozent |
+| Liquiditaet 3. Grades | ueber ca. 200 Prozent | ca. 120-200 Prozent | unter ca. 120 Prozent |
 | Working Capital | Positiv mit Reserve | Knapp positiv | Negativ |
-| Anlagendeckung II | > 110 Prozent | 100-110 Prozent | < 100 Prozent |
+| Anlagendeckung II | ueber ca. 110 Prozent | ca. 100-110 Prozent | unter ca. 100 Prozent |
 
-(Hinweis: Schwellenwerte branchenabhaengig; Handel hat oft niedrigere Liquiditaet 3. Grades wegen schnellem Lagerumschlag.)
+Die Schwellenwerte sind Branchenrichtwerte und vor Mandantengespraech mit BBE-Daten zu verifizieren. Handel weist oft niedrigere Liquiditaet 3. Grades wegen schnellem Lagerumschlag aus.
 
 ### Phase 4 — Interpretation
 
@@ -132,6 +132,6 @@ Stand: 05/2026.
 - InsO §§ 17, 19.
 - HGB §§ 252, 268.
 - StaRUG § 102.
-- BGH BGHZ 163, 134.
+- BGH, Urt. v. 24.05.2005 - IX ZR 123/04, BGHZ 163, 134 (10-Prozent-Luecke und 3-Wochen-Frist; Aktenzeichen vor Mandantenversand in juris/beck-online verifizieren).
 - IDW S 6, IDW S 11.
 - BBE-Branchenkennzahlen.

@@ -46,9 +46,10 @@ Das JobRad / Dienstrad ist ein vom AG geleastes Fahrrad oder E-Bike, das dem AN 
 
 ### Phase 2 — Sachbezug 0,25-Prozent-Regelung
 
-- Bruttolistenpreis x 0,25 Prozent = monatlicher Sachbezug.
-- Beispiel: Rad 3.000 EUR Listenpreis x 0,25 Prozent = 7,50 EUR/Monat Sachbezug.
-- Aufgerundet auf volle 100 EUR Listenpreis.
+- Konstruktion: 1 Prozent von einem Viertel des Bruttolistenpreises (= 0,25 Prozent vom Bruttolistenpreis) als monatlicher Sachbezug Privatnutzung.
+- Bruttolistenpreis vorher auf volle 100 EUR abgerundet.
+- Im Unterschied zum Dienstwagen: keine zusaetzlichen 0,03 Prozent fuer Fahrten Wohnung-Arbeit beim Fahrrad/E-Bike (nicht S-Pedelec).
+- **Zahlenbeispiel:** Bruttolistenpreis 3.000 EUR — 0,25 Prozent = 7,50 EUR/Monat Sachbezug. Bei E-Bike 4.500 EUR Listenpreis — 0,25 Prozent x 4.500 EUR = 11,25 EUR/Monat.
 
 ### Phase 3 — Leasingvertrag
 
