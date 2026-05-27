@@ -1,0 +1,10 @@
+{
+  "register_entwurf": "primaer",
+  "organisation": "Emerald Liffey Bank plc",
+  "sitz": "Dublin, Irland",
+  "deutsche_niederlassung": "Zweigniederlassung Frankfurt am Main, Taunusanlage 12, 60325 Frankfurt am Main",
+  "rechtstraeger_pruefung": "plc ist alleinige juristische Person; Frankfurter Branch unselbststaendig",
+  "betraute_personen": ["Aisling Byrne", "Dr. Carla Heidenreich", "Jonas Krueger", "Sofia Marin"],
+  "taetigkeitsbeschreibung": "Interessenvertretung zu Zahlungsdienste-, Bankenaufsichts- und Einlagensicherungsfragen gegenueber Bundestag und Bundesregierung.",
+  "risiko": "Frankfurter Niederlassung muss sichtbar genug abgebildet werden, sonst Untertransparenz."
+}

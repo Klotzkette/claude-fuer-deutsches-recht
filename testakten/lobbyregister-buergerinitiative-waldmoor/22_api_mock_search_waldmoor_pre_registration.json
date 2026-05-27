@@ -1,0 +1,15 @@
+{
+  "$schema": "https://www.lobbyregister.bundestag.de/json-schemas/R2.22/Lobbyregistersuche-Registereintrag-schema-R2.22.json",
+  "source": "Deutscher Bundestag, Lobbyregister fuer die Interessenvertretung gegenueber dem Deutschen Bundestag und der Bundesregierung",
+  "sourceUrl": "https://api.lobbyregister.bundestag.de/rest/v2/registerentries?q=Waldmoor%202030&format=json",
+  "sourceDate": "2026-05-20T16:08:11.212+02:00",
+  "jsonDocumentationUrl": "https://www.lobbyregister.bundestag.de/informationen-und-hilfe/open-data-1049716",
+  "searchUrl": "https://api.lobbyregister.bundestag.de/rest/v2/registerentries?q=Waldmoor%202030&format=json",
+  "searchParameters": {
+    "q": "Waldmoor 2030",
+    "format": "json"
+  },
+  "resultCount": 0,
+  "cursor": "mock-waldmoor-final",
+  "results": []
+}

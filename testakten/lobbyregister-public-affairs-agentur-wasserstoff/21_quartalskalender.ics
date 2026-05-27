@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Spreebogen Regulatory//Lobbyregister Fristen//DE
+BEGIN:VEVENT
+UID:spreebogen-q2-upload-20260630@example
+DTSTAMP:20260526T080000Z
+DTSTART;VALUE=DATE:20260630
+SUMMARY:Lobbyregister Q2 Stellungnahmen pruefen
+DESCRIPTION:HansaH2 und Nordsee Elektrolyse Stellungnahmen fuer Upload pruefen.
+END:VEVENT
+BEGIN:VEVENT
+UID:spreebogen-opengrid-review-20260528@example
+DTSTAMP:20260526T080000Z
+DTSTART:20260528T080000Z
+DTEND:20260528T083000Z
+SUMMARY:OpenGrid Unterauftrag Lobbyregister-Check
+END:VEVENT
+END:VCALENDAR

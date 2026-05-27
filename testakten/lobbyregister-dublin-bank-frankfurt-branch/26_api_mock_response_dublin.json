@@ -1,0 +1,151 @@
+{
+  "$schema": "https://www.lobbyregister.bundestag.de/json-schemas/R2.22/Lobbyregister-Registereintrag-schema-R2.22.json",
+  "source": "Deutscher Bundestag, Lobbyregister fuer die Interessenvertretung gegenueber dem Deutschen Bundestag und der Bundesregierung",
+  "sourceUrl": "https://api.lobbyregister.bundestag.de/rest/v2/registerentries/R009814?format=json",
+  "sourceDate": "2026-06-02T09:17:22.184+02:00",
+  "jsonDocumentationUrl": "https://www.lobbyregister.bundestag.de/informationen-und-hilfe/open-data-1049716",
+  "accountDetails": {
+    "activeLobbyist": true,
+    "activeDateRanges": [
+      {
+        "fromDate": "2026-06-01T00:00:00.000+02:00"
+      }
+    ],
+    "firstPublicationDate": "2026-06-01T15:42:10.000+02:00",
+    "lastUpdateDate": "2026-06-01T15:42:10.000+02:00",
+    "registerEntryVersions": [
+      {
+        "registerEntryId": 9814001,
+        "version": 1,
+        "legislation": "GL2024",
+        "validFromDate": "2026-06-01T15:42:10.000+02:00",
+        "versionActiveLobbyist": true,
+        "jsonDetailUrl": "https://api.lobbyregister.bundestag.de/rest/v2/registerentries/R009814/1?format=json"
+      }
+    ],
+    "accountHasCodexViolations": false,
+    "codexViolations": []
+  },
+  "registerNumber": "R009814",
+  "registerEntryDetails": {
+    "registerEntryId": 9814001,
+    "legislation": "GL2024",
+    "version": 1,
+    "detailsPageUrl": "https://www.lobbyregister.bundestag.de/suche/R009814",
+    "pdfUrl": "https://www.lobbyregister.bundestag.de/media/R009814/1.pdf",
+    "validFromDate": "2026-06-01T15:42:10.000+02:00",
+    "fiscalYearUpdate": {
+      "updateMissing": false,
+      "lastFiscalYearUpdate": "2026-06-01T15:42:10.000+02:00"
+    },
+    "refusedAnything": false
+  },
+  "lobbyistIdentity": {
+    "identity": "ORGANIZATION",
+    "companyName": "Emerald Liffey Bank plc",
+    "legalForm": {
+      "de": "Public limited company nach irischem Recht"
+    },
+    "address": {
+      "type": "FOREIGN",
+      "internationalAdditional1": "45 Sir John Rogerson's Quay",
+      "internationalAdditional2": "Dublin 2, Irland"
+    },
+    "furtherAddresses": [
+      {
+        "type": "NATIONAL",
+        "nationalAdditional1": "Zweigniederlassung Frankfurt am Main",
+        "street": "Taunusanlage",
+        "houseNumber": "12",
+        "postalCode": "60325",
+        "city": "Frankfurt am Main"
+      }
+    ],
+    "recentGovernmentFunctionPresent": false
+  },
+  "activitiesAndInterests": {
+    "generalInformation": "Interessenvertretung zu Zahlungsdienste-, Bankenaufsichts- und Einlagensicherungsfragen gegenueber Bundestag und Bundesregierung. Die deutschen Termine werden ueber die unselbststaendige Zweigniederlassung Frankfurt am Main vorbereitet und durch den irischen Rechtstraeger freigegeben.",
+    "fieldsOfInterest": [
+      "Bankenaufsicht",
+      "Finanzmaerkte",
+      "Digitalisierung im Finanzsektor",
+      "Verbraucherschutz bei Zahlungsdiensten"
+    ],
+    "regulatoryProjects": [
+      {
+        "title": "Digital-Euro-Begleitgesetz und Betrugspraevention bei Instant Payments",
+        "description": "Klarstellung der Haftungs- und Meldepflichten grenzueberschreitend taetiger Kreditinstitute mit unselbststaendigen Zweigniederlassungen in Deutschland."
+      },
+      {
+        "title": "Einlagensicherungsbeitraege grenzueberschreitender Banken",
+        "description": "Praxisgerechte Behandlung von Passporting-Instituten bei nationalen Berichtspflichten."
+      }
+    ]
+  },
+  "employeesInvolvedInLobbying": {
+    "numberOfEmployeesInvolvedInLobbying": 4,
+    "fullTimeEquivalent": "2.30",
+    "persons": [
+      {
+        "firstName": "Aisling",
+        "lastName": "Byrne",
+        "role": "Group Head of Public Policy"
+      },
+      {
+        "firstName": "Carla",
+        "lastName": "Heidenreich",
+        "role": "Leiterin Deutschland, Zweigniederlassung Frankfurt"
+      },
+      {
+        "firstName": "Jonas",
+        "lastName": "Krueger",
+        "role": "Senior Regulatory Affairs Manager"
+      },
+      {
+        "firstName": "Sofia",
+        "lastName": "Marin",
+        "role": "Policy Analyst"
+      }
+    ]
+  },
+  "financialExpenses": {
+    "fiscalYear": "2025",
+    "rangeFrom": 180000,
+    "rangeTo": 190000,
+    "method": "Kostenstellen DUB-PP, FRA-REG und BER-CONS nach Dublettenbereinigung"
+  },
+  "mainFundingSources": {
+    "sources": [
+      "Eigenmittel aus Bankgeschaeft"
+    ]
+  },
+  "publicAllowances": {
+    "allowancesPresent": false,
+    "items": []
+  },
+  "donators": {
+    "donatorsPresent": false,
+    "items": []
+  },
+  "membershipFees": {
+    "membershipFeesPresent": false,
+    "items": []
+  },
+  "annualReports": {
+    "annualReportPresent": true,
+    "annualReportUrl": "https://example.invalid/emerald-liffey-bank-annual-report-2025"
+  },
+  "statements": {
+    "statementsPresent": false,
+    "items": []
+  },
+  "contracts": {
+    "contractsPresent": false,
+    "clients": [],
+    "contractors": []
+  },
+  "codeOfConduct": {
+    "ownCodeOfConduct": true,
+    "codeOfConductPdfUrl": "https://example.invalid/emerald-liffey-bank-code-of-conduct.pdf"
+  }
+}

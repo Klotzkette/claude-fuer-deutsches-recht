@@ -1,0 +1,23 @@
+{
+  "name": "lobbyregister-bundestag",
+  "displayName": "Lobbyregister Bundestag",
+  "version": "14.2.0",
+  "description": "Lobbyregister-Bundestag-Superplugin mit 50 gefuehrten Skills fuer Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "lobbyregister",
+    "bundestag",
+    "bundesregierung",
+    "lobbyrg",
+    "interessenvertretung",
+    "transparenz",
+    "compliance",
+    "verhaltenskodex",
+    "public-affairs",
+    "register"
+  ]
+}

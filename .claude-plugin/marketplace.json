@@ -609,6 +609,15 @@
       "version": "14.2.0"
     },
     {
+      "name": "lobbyregister-bundestag",
+      "source": "./lobbyregister-bundestag",
+      "description": "Lobbyregister-Bundestag-Superplugin mit 50 gefuehrten Skills fuer Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "14.2.0"
+    },
+    {
       "name": "mandantenanfragen-assistent",
       "source": "./mandantenanfragen-assistent",
       "description": "Assistent fuer Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt foermlich uebernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an.",

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Emerald Liffey Bank//Public Policy//DE
+BEGIN:VEVENT
+UID:elb-berlin-20260528-1030@example
+DTSTAMP:20260520T093000Z
+DTSTART:20260528T083000Z
+DTEND:20260528T093000Z
+SUMMARY:Gespräch Digital-Euro-Begleitgesetz mit Büro MdB K. Reimers
+LOCATION:Paul-Löbe-Haus, Raum 4.300
+DESCRIPTION:Teilnehmer ELB: Jonas Krueger, Sofia Marin. Offenlegungssatz vorab senden.
+END:VEVENT
+END:VCALENDAR

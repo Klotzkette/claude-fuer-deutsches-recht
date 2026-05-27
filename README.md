@@ -25,7 +25,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 |---|---|
 | **Plugins** | 98 |
 | **Skills (SKILL.md)** | über 1800 — [thematische Gesamtuebersicht](./SKILLS.md) |
-| **Testakten** | 44 |
+| **Testakten** | 49 |
 | **Fachanwalts-/-anwältinnen-Profile** | 23 |
 | **Letzter Release** | [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -263,6 +263,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`krisenfrueherkennung-starug`](./krisenfrueherkennung-starug) | Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung. |
 | [`legistik-werkstatt`](./legistik-werkstatt) | Legistik-Werkstatt für Bundes- und Landesministerien. Vom politischen Auftrag über Normhierarchie Kompetenzprüfung Normenkartierung Terminologie zu Referentenentwurf Kabinettsmappe Formulierungshilfe Rechtsverordnung Satzung. Inkl. Begründung Synopse Lesefassung XML Folgenabschätzung Goldplating-Check und Schulungstrainings. Erzeugt am Ende DOCX und PDF im offiziellen HdR-Layout (Times New Roman BT-Drucksachen, Arial Referentenentwurf). |
 | [`liquiditaetsplanung`](./liquiditaetsplanung) | Bündel-Plugin für die rollierende Liquiditätsplanung: 3-Wochen-Test § 17 InsO (BGH BGHZ 163, 134), 13/26/52-Wochen-Forecast mit Ampel, Fortführungsprognose IDW S 6/S 11 und insolvenzrechtliche Liquiditätsbilanz. Verweist auf die Skills in `steuerrecht-anwalt-und-berater` und `insolvenzrecht`. |
+| [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Superplugin fuer Meldung und Registrierung im Lobbyregister des Deutschen Bundestages und der Bundesregierung: 50 gefuehrte Skills zu Pflichtcheck, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Verstoessen und Fristen. |
 | [`mandantenanfragen-assistent`](./mandantenanfragen-assistent) | Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt förmlich, übernimmt die Anrede aus der eingehenden E-Mail, nennt die telefonische Terminvergabe, bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an. |
 | [`markenrecht-fashion-luxus`](./markenrecht-fashion-luxus) | Markenrecht-Boutique für Luxus-Modehäuser - DPMA/EUIPO Alicante/USPTO Lanham Act via NYC-Korrespondenz, alle Markenarten (Wort/Bild/Slogan/Sound/Duft/3D/Position/Haptik/Anti-KI), Widerspruch, Löschung, Verletzung, Produktpiraterie, Selektivvertrieb. |
 | [`memorandums-ersteller`](./memorandums-ersteller) | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung: Sachverhalt mit Quellenreferenz, Rechtsfrage, rechtliche Würdigung, Ergebnis und Empfehlung. |
