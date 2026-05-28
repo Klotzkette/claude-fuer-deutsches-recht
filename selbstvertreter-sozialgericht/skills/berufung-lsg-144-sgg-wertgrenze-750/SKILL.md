@@ -138,7 +138,7 @@ Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / P
 
 - `urteil-sozialgericht-was-jetzt` — vorgelagert
 - `berufung-zulassung-besondere-bedeutung` — Zulassung
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` — wenn Wertgrenze nicht erreicht
+- `berufung-zulassung-besondere-bedeutung` — wenn Wertgrenze nicht erreicht oder die Berufung nicht zugelassen wurde
 - `pkh-vor-sozialgericht-73a-sgg` — PKH auch im LSG
 
 ## Quellen und Aktualitaet

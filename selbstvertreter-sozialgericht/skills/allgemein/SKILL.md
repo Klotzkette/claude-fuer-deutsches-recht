@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter Sozialgericht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter-Sozialgericht-Plugin. Fragt Erfahrungslevel, Bescheid, Behörde, Ziel, Fristen, Notlage, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills vor und führt durch Widerspruch, Klage, Eilantrag, Beweis, Termin, Sanity-Check, Rechtsprechung und Rechtsmittelgrenzen."
 ---
 
 # Selbstvertreter Sozialgericht — Allgemein
@@ -9,7 +9,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter So
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Selbstvertreter Sozialgericht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Plugin für Buerger ohne Anwalt vor dem Sozialgericht. Widerspruch Klage Eilantrag bei Pflegegrad Krankenkasse Buergergeld EM-Rente und GdB. Einfache Sprache. Kostenfrei für Versicherte nach § 183 SGG. Workflow-Plugin ohne inhaltliche Rechtsprüfung.
+**Plugin-Fokus:** Plugin für Bürgerinnen und Bürger ohne Anwalt vor dem Sozialgericht. Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Unfallversicherung, Belege, medizinische Gutachten, Rechtsprechung, Sanity-Check und Rechtsmittelgrenzen. Einfache Sprache, kostenbewusst nach § 183 SGG und stark in der praktischen Selbstvertretung.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -36,8 +36,8 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
-- **Alternativen:** `...`, `...`
+- **Primärer Pfad:** `anfaenger-workflow-sozialgericht`, `sanity-check-selbstvertretung-sozialgericht` oder passender Fachskill — kurze Begründung aus dem Material
+- **Alternativen:** höchstens zwei weitere Plugin-Skills mit konkretem Nutzen
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
 ### 1. Intake in 60 Sekunden
@@ -46,13 +46,14 @@ Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. We
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+| Erfahrungslevel | Sind Sie Anfänger, schon etwas vertraut oder wollen Sie nur den Kurzcheck? | Der Anfänger-Workflow erklärt Bescheid, Widerspruch, Klage und Eilantrag in kleinen Schritten. |
+| Schreiben | Was liegt vor: Bescheid, Widerspruchsbescheid, Gutachten, Ladung, Urteil, Schreiben des Gerichts? | Der Verfahrensstand entscheidet den Weg. |
+| Behörde/Thema | Jobcenter, Krankenkasse, DRV, Pflegekasse, Versorgungsamt, BG, Sozialamt? | Jedes Thema braucht andere Belege. |
+| Ziel | Widerspruch, Klage, Eilantrag, Stellungnahme, Gutachtenangriff, Terminvorbereitung, Berufung? | Output sofort sauber ausrichten. |
+| Fristen | Wann kam das Schreiben an, was steht in der Rechtsbehelfsbelehrung? | Eilsachen zuerst sichern. |
+| Notlage | Fehlt Geld, Wohnung, Behandlung, Pflege, Hilfsmittel oder Krankenversicherungsschutz? | Eilantrag kann nötig sein. |
+| Unterlagen | Bescheide, Umschlag, Arztberichte, Gutachten, Pflegeprotokoll, Kontoauszüge, Schriftverkehr? | Aktenarbeit statt Raten. |
+| Format | Einfache Sprache, Mustertext, Sanity-Check, Tabelle oder gerichtstauglicher Schriftsatz? | Ergebnis direkt verwendbar machen. |
 
 ### 2. Sofort-Triage
 
@@ -60,7 +61,7 @@ Arbeite danach in dieser Reihenfolge:
 
 1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+3. **Arbeitsmodus wählen:** Anfänger-Workflow, Kurzprüfung, Sanity-Check, Widerspruch, Klage, Eilantrag, Beweisplan, Gutachtenreaktion, Terminvorbereitung, Rechtsprechungschat oder Rechtsmittelgrenzen-Check.
 4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
@@ -73,35 +74,67 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+- Wenn der Nutzer Anfänger ist oder die Akte nach Bescheidchaos aussieht, zuerst `anfaenger-workflow-sozialgericht` vorschlagen.
+- Vor jedem Versand an Behörde oder Gericht `sanity-check-selbstvertretung-sozialgericht` anbieten.
+- Bei SG-Urteil, Berufung, Nichtzulassungsbeschwerde oder BSG-Frage `zulassungsgrenzen-check-sozialgericht` vorschlagen.
+- Bei Rechtsprechung, Gutachtenlinien, BSG-/LSG-Zitaten oder Behördenargumenten `rechtsprechungschat-sozialgericht` vorschlagen und keine Fundstellen erfinden.
 
 ### 4. Antwortformat für den Einstieg
 
 Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 **Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
+- Ziel: konkreter nächster Output.
+- Schreiben: Bescheid, Widerspruchsbescheid, Gutachten, Ladung, Urteil oder unklar.
+- Erfahrungslevel: Anfänger, normal geführt, Kurzmodus oder nicht erkennbar.
+- Eilt wegen: Widerspruchsfrist, Klagefrist, Eilbedarf, Termin, Gutachtenfrist, Urteil oder keine Eile erkennbar.
+- Fehlende Unterlagen: konkret benennen.
 
 **Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
+1. Frist und Notlage sichern.
+2. Bescheidkette, Thema und Ziel ordnen.
+3. Passenden Plugin-Skill wählen und vor Versand einen Sanity-Check durchführen.
 
 **Passende Skills aus diesem Plugin**
 | Skill | Warum jetzt? | Erwarteter Output |
 |---|---|---|
-| `...` | [...] | [...] |
+| `anfaenger-workflow-sozialgericht` | wenn der Nutzer geführt werden möchte | einfacher Schrittplan mit Frist, Weg und Belegen |
+| `sanity-check-selbstvertretung-sozialgericht` | vor Abgabe, Eilantrag, Termin oder Rechtsmittel | Ampelprüfung mit Reparaturliste |
+| `zulassungsgrenzen-check-sozialgericht` | nach SG-Urteil oder bei Rechtsmittel | Berufungs-/Zulassungscheck |
+| `rechtsprechungschat-sozialgericht` | bei BSG-/LSG-/BVerfG-Argumenten | verifizierbare Fundstellenlogik und Schriftsatzbaustein |
 
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
 ### 5. Spezial-Skills in diesem Plugin
 
+Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kurz warum, und nenne dann höchstens drei bis fünf Skills, die wirklich als nächstes helfen.
+
+**Routenkarte**
+
+| Lage | Primärpfad | Ergänzende Skills |
+|---|---|---|
+| Nutzer ist Anfänger oder der Bescheid ist unverständlich | `anfaenger-workflow-sozialgericht` | `orientierung-selbstvertreter-sozialgericht`, danach `sanity-check-selbstvertretung-sozialgericht` |
+| Bescheid ist neu | `widerspruch-ohne-anwalt-einreichen` | `widerspruchsfrist-84-sgg`, `widerspruch-begruendung-laienleitfaden`, `fristen-berechnen-sgg-laien` |
+| Widerspruchsbescheid liegt vor | `klagearten-uebersicht-sgg` | `klage-zusammenstellen-bundle-sozialgericht`, `klagebegruendung-laienleitfaden`, `anlagen-bezeichnen-und-sortieren-sozialgericht` |
+| Geld, Behandlung, Wohnung oder Pflege fehlt sofort | `eilantrag-86b-sgg-grundlagen` | thematisch `eilantrag-buergergeld-jobcenter`, `eilantrag-krankenkassen-leistung` oder `eilantrag-pflegekassen-pflegehilfsmittel` |
+| Medizinische Unterlagen oder Gutachten entscheiden | `medizinische-gutachten-strategie-laien` | `arztberichte-vorlegen-laien-leitfaden`, `widerspruch-gegen-gutachten-laien`, `sachverstaendigen-wahlrecht-109-sgg` |
+| Kerngebiet ist Bürgergeld, Pflegegrad, Krankenkasse, EM-Rente oder GdB | passenden Fachskill wählen | immer Belege, Zeitraum und Antrag mit `sanity-check-selbstvertretung-sozialgericht` prüfen |
+| Termin oder Vergleich steht an | `terminvorbereitung-laien-checkliste-sozialgericht` | `verhalten-im-saal-sozialgericht-laienleitfaden`, `vergleich-vorschlag-101-sgg` |
+| SG-Urteil liegt vor | `zulassungsgrenzen-check-sozialgericht` | `berufung-lsg-144-sgg-wertgrenze-750`, `berufung-zulassung-besondere-bedeutung`, BSG nur mit Vertretungszwang |
+| Rechtsprechung wird gebraucht | `rechtsprechungschat-sozialgericht` | BSG/LSG/BVerfG/EuGH nur mit verifizierter Fundstelle und passendem Sachverhalt |
+
+**Minimalpfad für schnelle Hilfe**
+
+1. Frist, Rechtsbehelfsbelehrung und Notlage sichern.
+2. Bescheidkette, Behörde, Thema und Ziel feststellen.
+3. Einen Primärskill starten.
+4. Vor Abgabe immer `sanity-check-selbstvertretung-sozialgericht` anbieten.
+
 | Skill | Wann vorschlagen? |
 |---|---|
 | `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
+| `anfaenger-workflow-sozialgericht` | Geführter Anfänger-Workflow: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
 | `anfechtungsklage-54-sgg` | Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt. |
 | `anlagen-bezeichnen-und-sortieren-sozialgericht` | Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren. |
 | `anwaltskosten-bei-erfolg-erstattung` | Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte. |
@@ -151,7 +184,9 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `pkh-anwaltsbeiordnung-erfolgsaussicht` | Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt. |
 | `pkh-vor-sozialgericht-73a-sgg` | Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung. |
 | `revision-bsg-160-sgg` | Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil. |
+| `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat: findet, erklärt und bewertet BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung. |
 | `sachverstaendigen-wahlrecht-109-sgg` | Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag. |
+| `sanity-check-selbstvertretung-sozialgericht` | Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung: prüft Frist, Bescheidkette, Klageart, Eilbedürftigkeit, Belege, Antrag, Kosten und rote Flaggen. |
 | `saeumnis-im-termin-sozialgericht` | Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger. |
 | `sozialgericht-zustaendigkeit-51-sgg` | Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht. |
 | `sozialleistungen-uebersicht-sgb` | Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger. |
@@ -176,6 +211,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |
 | `wohngeld-und-sozialhilfe-grenzfaelle` | Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Gericht ist zuständig. Wohngeld Verwaltungsgericht Sozialhilfe Sozialgericht. |
 | `zeugenbeweis-sozialgericht-373-zpo-analog` | Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt. |
+| `zulassungsgrenzen-check-sozialgericht` | Zulassungs- und Rechtsmittelgrenzen: § 144 SGG 750 EUR, laufende Leistungen über ein Jahr, Erstattungsstreitigkeiten 10.000 EUR, Zulassungsgründe, Nichtzulassungsbeschwerde, Revision und BSG-Anwaltszwang. |
 
 ## Qualitätsversprechen
 
@@ -187,4 +223,4 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ---
 
-Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
+Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Fristen, Bescheidkette, Belege, Eilbedarf, Kosten und Routing strukturiert; die fachliche Endverantwortung bleibt beim Menschen, und rote Grenzfälle gehören zu Sozialverband, Beratungshilfe, PKH oder anwaltlicher Prüfung.

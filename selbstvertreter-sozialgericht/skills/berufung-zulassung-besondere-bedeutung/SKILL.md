@@ -106,7 +106,7 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 
 ## Worauf Sie besonders achten muessen
 
-- **Sehr formell**: hier muss man Jura-mae§Sig argumentieren.
+- **Sehr formell**: hier muss man juristisch sauber argumentieren.
 - **Anwalt sinnvoll** mit PKH.
 - **Frist 1 Monat** wie ueblich.
 
@@ -120,7 +120,7 @@ Das LSG laesst die Berufung zu. Verfahren beim LSG laeuft dann ganz normal.
 
 - `urteil-sozialgericht-was-jetzt` — vorgelagert
 - `berufung-lsg-144-sgg-wertgrenze-750` — wenn Wertgrenze erreicht
-- `nichtzulassungsbeschwerde-bsg-160a-sgg` — Aequivalent zum BSG
+- `nichtzulassungsbeschwerde-bsg-160a-sgg` — erst nach einem LSG-Urteil ohne zugelassene Revision
 - `pkh-vor-sozialgericht-73a-sgg` — PKH
 
 ## Quellen und Aktualitaet

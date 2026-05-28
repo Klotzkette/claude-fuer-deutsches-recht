@@ -1,7 +1,7 @@
 {
   "name": "selbstvertreter-amtsgericht",
   "version": "22.0.0",
-  "description": "Plugin für Buerger ohne Anwalt vor dem Amtsgericht. Zuständigkeit Streitwert Klageschrift Erwiderung Replik Fristen Beweise PKH Termin Berufung. Workflow- und Verfahrens-Plugin ohne inhaltliche Prüfung.",
+  "description": "Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

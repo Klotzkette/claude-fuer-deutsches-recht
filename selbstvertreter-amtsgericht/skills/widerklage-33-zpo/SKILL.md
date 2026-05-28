@@ -40,7 +40,7 @@ In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vert
 
 ### Schritt 2 — Zustaendigkeit
 
-- **Sachliche Zustaendigkeit**: Wenn beide Streitwerte addiert oberhalb der AG-Grenze (Stand 2026: 5.000 EUR, Reform laeuft) liegen, kann das AG **dennoch** zustaendig bleiben — § 33 II ZPO Widerklage faellt unter die Gerichtsbarkeit fuer die Klage.
+- **Sachliche Zuständigkeit**: Die allgemeine AG-Grenze liegt seit 01.01.2026 bei 10.000 EUR. Wenn Klage und Widerklage zusammen darüber liegen, kann das Amtsgericht für die Widerklage dennoch zuständig bleiben, wenn § 33 Abs. 2 ZPO greift; prüfen Sie das aber sauber mit `zulassungsgrenzen-check-amtsgericht`.
 - **Oertliche Zustaendigkeit**: Gericht der Hauptklage gilt auch fuer Widerklage.
 
 ### Schritt 3 — Widerklage statt Aufrechnung — wann?

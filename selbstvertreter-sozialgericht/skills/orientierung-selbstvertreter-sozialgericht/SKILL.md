@@ -1,6 +1,6 @@
 ---
 name: orientierung-selbstvertreter-sozialgericht
-description: "Einstieg für Buerger ohne Anwalt vor dem Sozialgericht. Überblick über Widerspruch Klage Eilantrag und die wichtigen Themen Pflegegrad Krankenkasse Buergergeld Erwerbsminderungs-Rente und Grad der Behinderung. Erklärt Grundregeln des SGG."
+description: "Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG."
 ---
 
 # Orientierung — Sich selbst vertreten am Sozialgericht
@@ -18,6 +18,8 @@ Sie sind nicht einverstanden mit einem Bescheid. Sie koennen sich wehren. Das ge
 - Sie haben gerade einen Bescheid bekommen und wissen nicht, was zu tun ist.
 - Sie wollen wissen, welche Wege es gibt.
 - Sie suchen einen Ueberblick, bevor Sie tiefer einsteigen.
+- Sie wollen in einfacher Sprache geführt werden.
+- Sie wollen vor Abgabe prüfen, ob Widerspruch, Klage oder Eilantrag vollständig sind.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -46,6 +48,7 @@ Schreiben Sie sich das Datum auf den Bescheid. Wann haben Sie ihn bekommen? Das 
 
 Es gibt drei Hauptwege:
 
+- **Anfänger-Workflow**: wenn Sie erst einmal geführt werden wollen (siehe `anfaenger-workflow-sozialgericht`).
 - **Widerspruch**: gegen einen Bescheid (siehe `widerspruch-vorverfahren-78-sgg`).
 - **Klage**: nach dem Widerspruchsbescheid (siehe `klagearten-uebersicht-sgg`).
 - **Eilantrag**: wenn Geld oder Leistung gerade gestoppt wurde (siehe `eilantrag-86b-sgg-grundlagen`).
@@ -75,6 +78,10 @@ Welches Sozialgesetzbuch (SGB) betrifft Ihren Bescheid?
 - Beratungsstellen Ihrer Stadt
 - Beratungshilfe-Schein vom Amtsgericht
 
+### Schritt 6 — Vor Versand prüfen
+
+Nutzen Sie `sanity-check-selbstvertretung-sozialgericht`, bevor Sie Widerspruch, Klage, Eilantrag oder Stellungnahme abschicken. Bei Urteil oder Berufung nutzen Sie `zulassungsgrenzen-check-sozialgericht`. Bei Zitaten aus Rechtsprechung oder Behördenargumenten nutzen Sie `rechtsprechungschat-sozialgericht`.
+
 ## Worauf Sie besonders achten muessen
 
 - **Die Frist!** Wenn Sie die Frist verpassen, ist Ihr Recht oft weg. Lesen Sie `wiedereinsetzung-frist-67-sgg`, falls die Frist schon abgelaufen ist.
@@ -91,6 +98,10 @@ Welches Sozialgesetzbuch (SGB) betrifft Ihren Bescheid?
 ## Querverweise
 
 - `widerspruch-vorverfahren-78-sgg` — der erste Schritt fast immer
+- `anfaenger-workflow-sozialgericht` — besonders geführter Einstieg
+- `sanity-check-selbstvertretung-sozialgericht` — letzte Ampel vor Versand, Termin oder Rechtsmittel
+- `zulassungsgrenzen-check-sozialgericht` — Berufung, Nichtzulassung, Revision und BSG-Vertretung
+- `rechtsprechungschat-sozialgericht` — Rechtsprechung verstehen und sauber verwenden
 - `klagearten-uebersicht-sgg` — wenn Widerspruch nicht hilft
 - `eilantrag-86b-sgg-grundlagen` — wenn es eilt
 - `gerichtskostenfreiheit-183-sgg` — das Verfahren ist kostenfrei

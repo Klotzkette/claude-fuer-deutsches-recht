@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter Amtsgericht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter-Amtsgericht-Plugin. Fragt Erfahrungslevel, Rolle, Ziel, Fristen, Streitwert, Gericht, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt Anfänger wie Fortgeschrittene durch Klage, Verteidigung, Beweis, Termin, Sanity-Check, Rechtsprechung und Rechtsmittelgrenzen."
 ---
 
 # Selbstvertreter Amtsgericht — Allgemein
@@ -9,7 +9,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Selbstvertreter Am
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Selbstvertreter Amtsgericht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Plugin für Buerger ohne Anwalt vor dem Amtsgericht. Zuständigkeit Streitwert Klageschrift Erwiderung Replik Fristen Beweise PKH Termin Berufung. Workflow- und Verfahrens-Plugin ohne inhaltliche Prüfung.
+**Plugin-Fokus:** Plugin für Bürgerinnen und Bürger ohne Anwalt vor dem Amtsgericht. Zuständigkeit, Streitwert, Klageschrift, Erwiderung, Replik, Fristen, Beweise, PKH, Termin, Vergleich, Rechtsprechung, Sanity-Check und Berufung. Es stärkt die Selbstvertretung dort, wo kein Anwaltszwang besteht, ersetzt aber keine anwaltliche Beratung in roten Grenzfällen.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -36,8 +36,8 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
-- **Alternativen:** `...`, `...`
+- **Primärer Pfad:** `anfaenger-workflow-amtsgericht`, `sanity-check-selbstvertretung-amtsgericht` oder passender Fachskill — kurze Begründung aus dem Material
+- **Alternativen:** höchstens zwei weitere Plugin-Skills mit konkretem Nutzen
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
 ### 1. Intake in 60 Sekunden
@@ -46,13 +46,15 @@ Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. We
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
+| Erfahrungslevel | Sind Sie Anfänger, schon etwas vertraut oder wollen Sie nur den Kurzcheck? | Der Anfänger-Workflow erklärt mehr und führt in kleineren Schritten. |
+| Rolle | Sind Sie Kläger, Beklagter, noch vor der Klage oder nach Urteil? | Der ganze Weg hängt von der Rolle ab. |
+| Ziel | Was soll am Ende entstehen: Klage, Klageerwiderung, Replik, Antrag, Beweisplan, Terminplan, Vergleichsprüfung, Berufungscheck? | Output sofort sauber ausrichten. |
 | Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
+| Fristen | Gibt es Zustellung, gelben Umschlag, gerichtliche Frist, Termin, Urteil oder Verjährungsrisiko? | Eilsachen zuerst sichern. |
+| Streitwert/Gericht | Um welchen Betrag geht es und welches Gericht steht im Schreiben? | Zuständigkeit, Anwaltszwang und Rechtsmittelgrenzen hängen daran. |
+| Unterlagen | Welche Dateien, Verträge, Rechnungen, Fotos, E-Mails, Chats, Zeugendaten, Urteile oder Ladungen liegen vor? | Aktenarbeit statt Raten. |
+| Risiko | Wo drohen Kosten, Versäumnisurteil, Verjährung, Vollstreckung, Anwaltszwang oder Beweisverlust? | Priorität und Vorsicht einstellen. |
+| Format | Wie ausführlich, in einfacher Sprache oder als direkt nutzbarer Schriftsatz? | Ergebnis direkt verwendbar machen. |
 
 ### 2. Sofort-Triage
 
@@ -60,7 +62,7 @@ Arbeite danach in dieser Reihenfolge:
 
 1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+3. **Arbeitsmodus wählen:** Anfänger-Workflow, Kurzprüfung, Sanity-Check, Schriftsatzentwurf, Beweisplan, Terminvorbereitung, Vergleichsprüfung, Rechtsprechungschat oder Rechtsmittelgrenzen-Check.
 4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
@@ -73,34 +75,65 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+- Wenn der Nutzer Anfänger ist oder das Material chaotisch wirkt, zuerst `anfaenger-workflow-amtsgericht` vorschlagen.
+- Vor jedem Versand an das Gericht `sanity-check-selbstvertretung-amtsgericht` anbieten.
+- Bei Streitwert, Zuständigkeit, § 495a ZPO, Berufung oder Anwaltszwang `zulassungsgrenzen-check-amtsgericht` vorschlagen.
+- Bei Zitaten, gegnerischer Rechtsprechung oder gerichtlichem Hinweis `rechtsprechungschat-amtsgericht` vorschlagen und keine Fundstellen erfinden.
 
 ### 4. Antwortformat für den Einstieg
 
 Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 **Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
+- Ziel: konkreter nächster Output.
+- Rolle: Kläger, Beklagter, vor Klage, nach Urteil oder unklar.
+- Erfahrungslevel: Anfänger, normal geführt, Kurzmodus oder nicht erkennbar.
+- Eilt wegen: Zustellung, gerichtlicher Frist, Termin, Verjährung, Urteil, Vollstreckung oder keine Eile erkennbar.
+- Fehlende Unterlagen: konkret benennen.
 
 **Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
+1. Frist und Gericht sichern.
+2. Rolle, Streitwert und Ziel ordnen.
+3. Passenden Plugin-Skill wählen und vor Versand einen Sanity-Check durchführen.
 
 **Passende Skills aus diesem Plugin**
 | Skill | Warum jetzt? | Erwarteter Output |
 |---|---|---|
-| `...` | [...] | [...] |
+| `anfaenger-workflow-amtsgericht` | wenn der Nutzer geführt werden möchte | kleiner Schrittplan in einfacher Sprache |
+| `sanity-check-selbstvertretung-amtsgericht` | vor Abgabe oder Termin | Ampelprüfung mit Reparaturliste |
+| `zulassungsgrenzen-check-amtsgericht` | bei Zuständigkeit, Streitwert, Berufung oder Anwaltszwang | Grenz- und Rechtsmittelcheck |
+| `rechtsprechungschat-amtsgericht` | bei Rechtsprechungsargumenten | verifizierbare Fundstellenlogik und Schriftsatzbaustein |
 
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
 
 ### 5. Spezial-Skills in diesem Plugin
 
+Spiele nicht den ganzen Katalog aus. Wähle erst einen klaren Pfad, erkläre kurz warum, und nenne dann höchstens drei bis fünf Skills, die wirklich als nächstes helfen.
+
+**Routenkarte**
+
+| Lage | Primärpfad | Ergänzende Skills |
+|---|---|---|
+| Nutzer ist Anfänger oder unsicher | `anfaenger-workflow-amtsgericht` | `orientierung-selbstvertreter-amtsgericht`, danach `sanity-check-selbstvertretung-amtsgericht` |
+| Zuständigkeit, Streitwert oder Anwaltszwang unklar | `zulassungsgrenzen-check-amtsgericht` | `sachliche-zustaendigkeit-amtsgericht-23-gvg`, `anwaltszwang-pruefen-78-zpo`, `wann-doch-anwalt-grenzfaelle` |
+| Klage soll vorbereitet werden | `vorabklaerung-erfolgsaussichten-selbstcheck` | `anspruchsgrundlage-finden-laienhilfe`, `klage-zusammenstellen-komplettes-bundle-amtsgericht`, `klageschrift-antrag-bestimmt-formulieren` |
+| Klage ist zugestellt worden | `klageerwiderung-checkliste-alle-punkte` | `einreden-aktiv-geltend-machen`, `substantiiertes-bestreiten-138-iv-zpo`, `klageerwiderung-fristen-274-zpo` |
+| Beweise sind das Problem | `beweismittel-vorab-sammeln-checkliste` | `beweislast-grundregel-wer-was`, `zeugenbeweis-373-ff-zpo`, `urkundenbeweis-415-ff-zpo` |
+| Gerichtstermin steht an | `terminvorbereitung-checkliste` | `verhalten-gerichtssaal-laienleitfaden`, `muendliche-verhandlung-akten-griffbereit`, `vergleich-richtervorschlag-278-ii-zpo` |
+| Urteil oder Rechtsmittel liegt vor | `urteil-pruefen-313-zpo` | `berufung-amtsgericht-511-zpo`, `zulassungsgrenzen-check-amtsgericht`, `rechtsmittelfrist-517-zpo` |
+| Fundstellen oder Gerichtshinweise irritieren | `rechtsprechungschat-amtsgericht` | nur verifizierte Entscheidungen verwenden, keine Aktenzeichen erfinden |
+
+**Minimalpfad für schnelle Hilfe**
+
+1. Frist und Zustellung sichern.
+2. Rolle, Gericht, Streitwert und Ziel feststellen.
+3. Einen Primärskill starten.
+4. Vor Abgabe immer `sanity-check-selbstvertretung-amtsgericht` anbieten.
+
 | Skill | Wann vorschlagen? |
 |---|---|
+| `anfaenger-workflow-amtsgericht` | Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache und routet zu Klage, Verteidigung, Beweis, PKH, Termin, Urteil und Rechtsmittel. |
 | `anlagen-formatieren-k1-k2-pdf-amtsgericht` | Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger… |
 | `anspruchsgrundlage-finden-laienhilfe` | Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten… |
 | `anwaltszwang-pruefen-78-zpo` | Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst… |
@@ -157,8 +190,10 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `rechtsmittelfrist-517-zpo` | Rechtsmittelfrist 1 Monat nach § 517 ZPO. Beginn mit Zustellung des vollständigen Urteils Notfrist keine Verlaengerung. Berechnung mit § 187 188 BGB Praeklusion bei Versaeumnis Wiedereinsetzung in Ausnahmefaellen. |
 | `replik-auf-klageerwiderung-systematik` | Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht… |
 | `richterlicher-hinweis-139-zpo-reaktion` | Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu… |
+| `rechtsprechungschat-amtsgericht` | Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht: findet, erklärt und bewertet Rechtsprechung, überträgt sie auf den eigenen Sachverhalt und verhindert erfundene oder unpassende Fundstellen. |
 | `sachliche-zustaendigkeit-amtsgericht-23-gvg` | Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der… |
 | `sachverstaendigenbeweis-402-zpo` | Sachverständigenbeweis nach §§ 402 ff. ZPO. Antrag Kostenvorschuss Auswahl des Sachverständigen Privatgutachten als Urkunde Gerichtsgutachten Prüfung der Glaubwürdigkeit. Wann ist Sachverständigen-Beweis sinnvoll und… |
+| `sanity-check-selbstvertretung-amtsgericht` | Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, Vergleich oder Rechtsmittel: prüft Fristen, Zuständigkeit, Anwaltszwang, Antrag, Beweise, Anlagen, Kosten, Versand und rote Flaggen. |
 | `saeumnis-im-termin-330-zpo` | Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis. |
 | `saeumnis-vermeiden-330-ff-zpo` | Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO. |
 | `substantiiertes-bestreiten-138-iv-zpo` | Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung.… |
@@ -180,6 +215,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `widerklage-33-zpo` | Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher… |
 | `wiedereinsetzung-frist-233-zpo` | Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzungen unverschuldetes Versaeumnis 2-Wochen-Antragsfrist Glaubhaftmachung Nachholung der versaeumten Handlung. Mustertext typische Faelle Krankheit Unfall… |
 | `zeugenbeweis-373-ff-zpo` | Zeugenbeweis nach §§ 373 ff. ZPO. Ladungsfähige Anschrift Beweisthema Zeugnis-Verweigerungsrechte Vereidigung. Wie Sie Zeugen benennen und im Verfahren einbringen. Was bei nahen Angehoerigen und Aussage-Wert zu… |
+| `zulassungsgrenzen-check-amtsgericht` | Zulässigkeits-, Zuständigkeits- und Rechtsmittelgrenzen: § 23 GVG 10.000 EUR, § 495a ZPO 1.000 EUR, § 511 ZPO 1.000 EUR, Übergangsfälle, Anwaltszwang und rote Flaggen. |
 | `zurechnungsproblem-versand-durch-dritte` | Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbstverantwortungs-Linie und BGH zur Wiedereinsetzung. Wer den Versand einem Dritten ueberlaesst traegt das Risiko der rechtzeitigen Einreichung. Praktische… |
 | `zwangsvollstreckung-querverweis-substitutionsagent` | Querverweis zum Substitutionsagenten für die Zwangsvollstreckung nach Urteil. Dieses Plugin behandelt die Vollstreckung nicht inhaltlich. Hinweis welche Schritte als naechstes anstehen und welche Tools dabei helfen… |
 
@@ -193,4 +229,4 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ---
 
-Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
+Hinweis: Dieser Skill stärkt die Selbstvertretung, indem er Workflow, Fristen, Zuständigkeit, Beweis und Routing strukturiert; die fachliche Endverantwortung bleibt beim Menschen, und rote Grenzfälle gehören zur Rechtsantragsstelle, Beratungshilfe oder anwaltlichen Prüfung.

@@ -114,7 +114,7 @@ Wenn fehlerhaft: Die "verlaengerte Rechtsmittel-Frist" greift — bis zu 1 Jahr 
 
 Pruefen Sie:
 
-- Streitwert ueber 600 EUR? (§ 511 II Nr. 1 ZPO) — sonst keine Berufung.
+- Beschwer über 1.000 EUR? (§ 511 Abs. 2 Nr. 1 ZPO, Stand 2026) — sonst Berufung nur bei Zulassung; Übergangsfälle mit alter 600-EUR-Grenze gesondert prüfen.
 - Berufung zugelassen? (§ 511 II Nr. 2 ZPO).
 - Fehler im Verfahren oder in der Sache?
 

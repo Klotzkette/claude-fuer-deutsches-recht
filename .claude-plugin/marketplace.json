@@ -773,7 +773,7 @@
     {
       "name": "selbstvertreter-amtsgericht",
       "source": "./selbstvertreter-amtsgericht",
-      "description": "Plugin für Buerger ohne Anwalt vor dem Amtsgericht. Zuständigkeit Streitwert Klageschrift Erwiderung Replik Fristen Beweise PKH Termin Berufung. Workflow- und Verfahrens-Plugin ohne inhaltliche Prüfung.",
+      "description": "Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.",
       "author": {
         "name": "Klotzkette"
       },
@@ -782,7 +782,7 @@
     {
       "name": "selbstvertreter-sozialgericht",
       "source": "./selbstvertreter-sozialgericht",
-      "description": "Plugin für Buerger ohne Anwalt vor dem Sozialgericht. Widerspruch Klage Eilantrag bei Pflegegrad Krankenkasse Buergergeld EM-Rente und GdB. Einfache Sprache. Kostenfrei für Versicherte nach § 183 SGG. Workflow-Plugin ohne inhaltliche Rechtsprüfung.",
+      "description": "Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Check, Rechtsprechungschat, Berufung.",
       "author": {
         "name": "Klotzkette"
       },
