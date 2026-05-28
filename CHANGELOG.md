@@ -1,5 +1,9 @@
 # Unreleased — Qualitätslauf nach Perplexity-Nachlauf
 
+- Neues Plugin `bgb-at-pruefer` mit 52 Skills zum BGB Allgemeiner Teil: Fallaufnahme, Anspruchsaufbau, Willenserklärung, Zugang, Vertragsschluss, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung.
+- Neue synthetische Testakte `bgb-at-altfraenkische-werkstatt` mit Online-Auktion, Annahmefrist, Minderjährigenkauf, Vollmacht, Anfechtung, Bedingung und Form-/Sittenwidrigkeitsprüffeldern.
+- `methodenlehre-buergerliches-recht` und `subsumtions-pruefer` verweisen nun auf `bgb-at-pruefer`, wenn die abstrakte Methodik in konkrete BGB-AT-Mechanik überführt werden soll.
+
 - Legistik-Werkstatt auf fünf Startbahnen erweitert: Bundesressort/Bundesregierung, Bundestag/Fraktion/Opposition, Landesressort/Landesregierung, Landtag/Landtagsfraktion und sonstige Normgeber.
 - Legistik-Allgemein-Skill fragt jetzt Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Verfahrensstand, Drucksache, Geschäftsordnung und Outputformat ab und routet sauber in Spezial-Skills.
 - `formulierungshilfe-bauen` kann jetzt nicht nur ministerielle Koalitions-Zulieferungen, sondern auch Gesetzentwürfe aus der Mitte, Änderungsanträge, Anträge und Entschließungsanträge für Bundestag und Landtage einschließlich Oppositionsarbeit.

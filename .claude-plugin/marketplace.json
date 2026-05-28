@@ -97,6 +97,15 @@
       "version": "19.0.0"
     },
     {
+      "name": "bgb-at-pruefer",
+      "source": "./bgb-at-pruefer",
+      "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingung, Fristen und Verjährung. 52 Skills plus synthetische Testakte.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "19.0.0"
+    },
+    {
       "name": "common-law-kompass",
       "source": "./common-law-kompass",
       "description": "Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.",
