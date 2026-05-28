@@ -1,6 +1,6 @@
 # Legistik-Werkstatt
 
-Vollständige Werkstatt für Legistinnen und Legisten in Bundes- und Landesministerien sowie kommunalen Rechtsämtern. Vom politischen Auftrag über Normhierarchie Kompetenzprüfung Normenkartierung Terminologie zu Referentenentwurf Kabinettsmappe Formulierungshilfe Rechtsverordnung und Satzung. Mit Querschnittsprüfungen Verfassungsrecht Europarecht Folgenabschätzung Goldplating Bestimmtheit Zirkelschluss. Erzeugt am Ende ein DOCX und PDF im offiziellen Layout nach Handbuch der Rechtsförmlichkeit - entweder ministerieller Referentenentwurf-Stil (Arial 11pt) oder BT-Drucksachen-Stil (Times New Roman 11pt, Sperrsatz, Drucksachennummer in der Kopfzeile).
+Vollständige Werkstatt für Legistinnen und Legisten in Bundesministerien, Bundestag, Fraktionen, Oppositionsarbeit, Landesministerien, Landtagen sowie kommunalen und kammerlichen Normgebern. Vom politischen Auftrag über Startbahn, Normhierarchie, Kompetenzprüfung, Normenkartierung und Terminologie zu Referentenentwurf, Kabinettsmappe, Gesetzentwurf aus der Mitte des Bundestages oder Landtages, Änderungsantrag, Entschließungsantrag, Antrag, Formulierungshilfe, Rechtsverordnung und Satzung. Mit Querschnittsprüfungen Verfassungsrecht Europarecht Folgenabschätzung Goldplating Bestimmtheit Zirkelschluss. Erzeugt am Ende ein DOCX und PDF im passenden offiziellen Layout - ministerieller Referentenentwurf-Stil, BT-/Landtagsdrucksachen-Stil oder Arbeitsfassung für Fraktion, Ausschuss und Normgeber.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 
@@ -31,6 +31,15 @@ Das Plugin deckt **alle Normebenen** ab:
 - Rechtsverordnung des Bundes und der Länder (Art. 80 GG, Landesverfassungen)
 - Satzungen von Kommunen, Kammern und Hochschulen (Art. 28 Abs. 2 GG, Selbstverwaltung)
 - Sekundärrechtsdurchführung und Notifizierung
+- parlamentarischer Antrag, Entschließungsantrag, Änderungsantrag und Gesetzentwurf aus der Mitte des Bundestages oder Landtages
+
+Das Plugin arbeitet mit **fünf Startbahnen**:
+
+- Bundesressort / Bundesregierung: Referentenentwurf, Ressortabstimmung, NKR, Kabinett, Bundesrat, Bundestag
+- Bundestag / Fraktion / Abgeordnete: Gesetzentwurf aus der Mitte, Änderungsantrag, Antrag, Entschließungsantrag, Ausschussfassung
+- Landesressort / Landesregierung: Landesreferentenentwurf, Landesverordnung, Kabinetts- und Landtagsweg
+- Landtag / Landtagsfraktion: landesspezifischer Gesetzentwurf, Änderungsantrag, Antrag, Entschließungsantrag
+- sonstiger Normgeber: kommunale Satzung, Kammerrecht, Hochschulsatzung, Beschlussvorlage, Bekanntmachung
 
 Das Plugin prüft **immer**:
 
@@ -44,7 +53,8 @@ Am Ende erzeugt es ein **lieferfertiges DOCX und PDF** im offiziellen Layout:
 
 - **Referentenentwurf** (Arial 11pt, Bearbeitungsstand-Kopf, A-F-Vorblatt)
 - **BT-Drucksache** (Times New Roman 11pt, Drucksachennummer + Wahlperiode in der Kopfzeile, Sperrsatz für Hauptüberschriften, Anschreiben des Bundeskanzlers)
-- **Formulierungshilfe** (kurz, für die Fraktionen)
+- **Formulierungshilfe / parlamentarische Vorlage** (für Koalition, Opposition, Ausschuss oder Ministerialzulieferung)
+- **Antrag / Entschließungsantrag** (beschlussreif, mit Begründung und Kurzvermerk)
 - **Synopse** (dreispaltig)
 - **Lesefassung** (konsolidiert nach Inkrafttreten)
 - **Kabinettsmappe** (Deckblatt + Anlagenverzeichnis)
@@ -53,16 +63,16 @@ Am Ende erzeugt es ein **lieferfertiges DOCX und PDF** im offiziellen Layout:
 
 | Phase | Skill | Zweck |
 | --- | --- | --- |
-| Auftrag | `legistik-auftragsaufnahme` | Politische Vorgabe in Regelungsauftrag übersetzen |
-| Normhierarchie | `normhierarchie-routing` | Gesetz vs Verordnung vs Satzung; Bund vs Land |
+| Auftrag | `legistik-auftragsaufnahme` | Startbahn, Institution, formalen Initiator und Regelungsauftrag übersetzen |
+| Normhierarchie | `normhierarchie-routing` | Regierung vs Parlament; Gesetz vs Verordnung vs Satzung vs Antrag; Bund vs Land |
 | Kompetenz | `gesetzgebungskompetenz-pruefen` | Art. 70 bis 74 GG, Erforderlichkeit |
 | Kompetenz | `verordnungsermaechtigung-art80` | Inhalt Zweck Ausmass nach Art. 80 GG |
 | Kompetenz | `satzungskompetenz-pruefen` | Art. 28 Abs. 2 GG, Kammern, Hochschulen |
 | Mapping | `normenkartierung` | Verweisnetz und Änderungsstellen |
 | Sprache | `terminologie-konsistenz` | Begriffsbrüche aufspüren |
 | Sprache | `zirkelschluss-pruefen` | Verweisgraf zykelfrei |
-| Entwurf | `referentenentwurf-bauen` | Vollformat des Entwurfs |
-| Entwurf | `formulierungshilfe-bauen` | Kurzfassung für die Mitte des Hauses |
+| Entwurf | `referentenentwurf-bauen` | Vollformat des Bundes- oder Landes-Referentenentwurfs |
+| Entwurf | `formulierungshilfe-bauen` | Formulierungshilfe, Änderungsantrag, Gesetzentwurf aus der Mitte, Antrag oder Entschließungsantrag |
 | Entwurf | `gesetzesentwurf-kabinett` | Kabinettsmappe |
 | Entwurf | `begruendung-allgemein-und-besonders` | Teil A I-VII und Teil B |
 | Entwurf | `synopse-erstellen` | Dreispaltige Synopse |

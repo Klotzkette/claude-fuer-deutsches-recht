@@ -1,17 +1,29 @@
 ---
 name: normhierarchie-routing
-description: "Richtige Normbene für ein legistisches Vorhaben bestimmen Bundesgesetz Landesgesetz Rechtsverordnung oder Satzung. Anwendungsfall politische Vorgabe liegt vor unklar auf welcher Ebene geregelt werden soll. Prüfkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG Landeskompetenz Verordnungsermaechtigung Art. 80 GG Satzungskompetenz Art. 28 Abs. 2 GG Wesentlichkeitstheorie BVerfG Vorbehalt des Gesetzes. Bei Buergerrechten oder Strafnormen nur Gesetz. Output Normebenentscheidung Begründung drei Saetze Verweis naechster Skill. Anschluss gesetzgebungskompetenz-prüfen verordnungsermaechtigung-art80."
+description: "Richtige Startbahn und Normebene für ein legistisches Vorhaben bestimmen: Bundesgesetz, Landesgesetz, Rechtsverordnung, Satzung, Verwaltungsvorschrift, parlamentarischer Antrag oder Entschliessungsantrag. Anwendungsfall politische Vorgabe liegt vor und unklar ist, ob Bundesministerium, Bundestag, Landesministerium, Landtag oder sonstiger Normgeber handeln soll. Prüfkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG, Landeskompetenz, Verordnungsermaechtigung Art. 80 GG, Satzungskompetenz Art. 28 Abs. 2 GG, Wesentlichkeitstheorie, Vorbehalt des Gesetzes, GO-BT/Landtags-GO. Output Startbahn- und Normebenentscheidung mit Begründung und nächstem Skill."
 ---
 
 # Normhierarchie-Routing
 
-> Entscheidet: Welche Norm-Ebene ist für dieses Vorhaben richtig?
+> Entscheidet: Wer kann handeln, auf welcher Ebene und in welchem Verfahren?
 
 ## Eingabe
 
 Auftragsblatt aus `legistik-auftragsaufnahme`.
 
 ## Prüfraster
+
+### Vorfrage - Welcher institutionelle Pfad?
+
+| Pfad | Wann naheliegend? | Nächster Skill |
+|---|---|---|
+| Bundesministerium / Bundesregierung | Bundeskompetenz, Regierungsprogramm, Kabinettspfad, Rechtsverordnung des Bundes | `referentenentwurf-bauen`, `gesetzesentwurf-kabinett`, `verordnungsermaechtigung-art80` |
+| Bundestag / Fraktion / Abgeordnete | Parlamentarischer Gesetzentwurf, Änderungsantrag, Entschließungsantrag oder Antrag | `formulierungshilfe-bauen` |
+| Landesministerium / Landesregierung | Landeskompetenz, Landesvollzug, Landesverordnung, Landesgesetz | `referentenentwurf-bauen`, danach landesspezifische Kabinetts-/Landtagsprüfung |
+| Landtag / Landtagsfraktion | Landesparlamentarischer Antrag oder Gesetzentwurf aus der Mitte des Landtags | `formulierungshilfe-bauen` |
+| Kommune / Kammer / Hochschule / sonstige Körperschaft | Selbstverwaltungs- oder Fachsatzung, Beschlussvorlage, Bekanntmachung | `satzungskompetenz-pruefen` |
+
+Wenn ein Vorhaben nur eine politische Position, Prüfbitte oder Aufforderung an Regierung/Verwaltung enthält, kann ein Antrag oder Entschließungsantrag richtiger sein als ein Gesetz.
 
 ### A - Ist es überhaupt eine zu kodifizierende Materie?
 
@@ -22,6 +34,12 @@ Wenn die politische Vorgabe nur Verwaltungspraxis aendern soll, reicht ein Erlas
 1. Prüfung **ausschließliche Gesetzgebung Bund** (Art. 71 und 73 GG): auswärtige Angelegenheiten, Verteidigung, Staatsangehoerigkeit, Wahrungseinheit, Bundeseisenbahnen, Luftverkehr, Postwesen, Telekommunikation, Bundeskriminalpolizei, Zoelle, Schutz deutsches Kulturgut.
 2. Prüfung **konkurrierende Gesetzgebung** (Art. 72 und 74 GG): Bürgerliches Recht, Strafrecht, Gerichtsverfassung, Aufenthaltsrecht, Sozialrecht, Wirtschaftsrecht, Arbeitsrecht, Straßenverkehr, öffentliche Fürsorge, Recht der Wirtschaft, etc. Prüfung **Erforderlichkeitsklausel** Art. 72 Abs. 2 GG bei den dort genannten Materien.
 3. Wenn weder Art. 71 noch Art. 73 noch Art. 74: **Landeszustaendigkeit** Art. 70 Abs. 1 GG (Auffangkompetenz).
+
+Bei Landeszuständigkeit:
+
+- Bundesland ausdrücklich benennen.
+- Landesverfassung, Geschäftsordnung der Landesregierung und Geschäftsordnung des Landtags als Prüfquellen markieren.
+- Prüfen, ob eine landesrechtliche Verordnung oder Satzung genügt oder ein Landesgesetz erforderlich ist.
 
 ### C - Wenn Gesetz oder Rechtsverordnung?
 
@@ -45,15 +63,31 @@ Prüfen mit Skill `verordnungsermaechtigung-art80`. Wenn keine ausreichende Erma
 
 Manchmal braucht es: Bundesgesetz (Rahmen), Bundesverordnung (Details), Landesgesetz (Umsetzung), Verwaltungsvorschrift (Vollzug). Dann ist eine Tabelle der Ebenen zu erstellen.
 
-## Aktuelle Rechtsprechung & Leitsätze
+### G - Wenn parlamentarischer Antrag ohne Normtext
 
-- BVerfG, Urt. v. 24.01.2012 — 1 BvL 21/11, BVerfGE 130, 240 Rn. 40 — Normhierarchie als Verfassungsgrundlage; nachrangige Norm die gegen hoeherrangige verstoesst ist nichtig; kein bloß schwebend ungueltiger Status ohne Normenkontrolle
-- BVerwG, Urt. v. 17.06.2020 — 6 C 3.19, NVwZ 2020, 1400 — Rangverhaltnis Bundesrecht / Landesrecht nach Art. 31 GG; Bundesrecht bricht Landesrecht; Gericht darf nachrangiges Landesrecht unangewendet lassen ohne Normenkontrolle
-- EuGH, Urt. v. 15.07.1964 — 6/64 (Costa/ENEL), NJW 1964, 2371 — EU-Primärrecht steht ueber nationalem Recht einschliesslich nationaler Verfassung; Anwendungsvorrang EU-Recht gegenueber nationalem Gesetz auch ohne Nichtigerklarung
+Ein Antrag, Entschließungsantrag oder Prüfauftrag ist naheliegend, wenn:
+
+- das Parlament die Regierung zu einem Bericht, Entwurf oder Verhalten auffordern soll,
+- ein politischer Alternativvorschlag ohne sofortigen Normtext gebraucht wird,
+- die Gesetzgebungskompetenz unsicher ist und zuerst ein Prüfauftrag sinnvoller ist,
+- eine Oppositionsfraktion ein Thema parlamentarisch sichtbar machen will.
+
+Dann zu `formulierungshilfe-bauen` routen, aber als Antrag/Entschließungsantrag, nicht als Normtext.
+
+## Arbeitsgrundlagen
+
+- Art. 70-74 GG: Kompetenzverteilung Bund/Länder.
+- Art. 76-78 GG: Bundesgesetzgebungsverfahren und Einbringungswege.
+- Art. 80 GG: Anforderungen an Rechtsverordnungsermächtigungen.
+- Art. 28 Abs. 2 GG: Kommunale Selbstverwaltung als Ausgangspunkt für Satzungen.
+- Art. 31 GG: Bundesrecht bricht Landesrecht.
+- GO-BT und Landtags-Geschäftsordnungen: parlamentarische Vorlagen, Anträge und Änderungsanträge.
+- Landesverfassungen und Verkündungsrecht: landesspezifischer Pfad.
+- EU-Recht: Anwendungsvorrang und Umsetzungsbedarf im jeweiligen Fachskill prüfen.
 
 ## Zentrale Normen (Paragrafenkette)
 
-Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 1 Abs. 3 GG (Grundrechtsbindung aller Staatsgewalt) — Art. 93 Abs. 1 Nr. 2 GG (abstrakte Normenkontrolle) — Art. 100 GG (konkrete Normenkontrolle) — Art. 288 AEUV (EU-Verordnung als unmittelbar anwendbares Recht)
+Art. 70-74 GG — Art. 76-78 GG — Art. 80 GG — Art. 28 Abs. 2 GG — Art. 31 GG — Art. 1 Abs. 3 GG — Art. 93 Abs. 1 Nr. 2 GG — Art. 100 GG — Art. 288 AEUV — GO-BT — jeweilige Landesverfassung und Landtags-GO
 
 ## Kommentarliteratur
 
@@ -62,9 +96,11 @@ Art. 31 GG (Bundesrecht bricht Landesrecht) — Art. 1 Abs. 3 GG (Grundrechtsbin
 
 ## Ausgabe
 
-- Entscheidung Norm-Ebene
+- Entscheidung institutionelle Startbahn
+- Entscheidung Norm-Ebene oder parlamentarischer Antragstyp
 - drei Sätze Begründung
-- Verweis auf nächsten Skill `gesetzgebungskompetenz-pruefen` oder `verordnungsermaechtigung-art80` oder `satzungskompetenz-pruefen`
+- offene landesspezifische oder geschäftsordnungsrechtliche Punkte
+- Verweis auf nächsten Skill `gesetzgebungskompetenz-pruefen`, `verordnungsermaechtigung-art80`, `satzungskompetenz-pruefen`, `referentenentwurf-bauen` oder `formulierungshilfe-bauen`
 
 ## Stolperfallen
 

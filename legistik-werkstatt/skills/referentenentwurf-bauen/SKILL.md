@@ -1,6 +1,6 @@
 ---
 name: referentenentwurf-bauen
-description: "Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen Normebene ist bestimmt Entwurfstext und Begründung muessen nach HdR erstellt werden. Format HdR Deckblatt Vorblatt A Problem und Ziel B Lösung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- und HdR-Prüfliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begründung-allgemein-und-besonders synopse-erstellen."
+description: "Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen, Startbahn und Normebene sind bestimmt und ein Bundes- oder Landesministerium braucht Entwurfstext und Begründung. Klaert Bundesressort oder Landesministerium, Bundesland, Landesverfassung, Landes-Geschäftsordnung, HdR- oder Landesstil. Format Deckblatt Vorblatt A Problem und Ziel B Lösung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- oder Landes-Prüfliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begründung-allgemein-und-besonders synopse-erstellen."
 ---
 
 # Referentenentwurf bauen
@@ -8,6 +8,17 @@ description: "Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. 
 > Das Kernformat der ministeriellen Rechtssetzung.
 
 ## Aufbau eines Referentenentwurfs
+
+### Profilwahl: Bund oder Land?
+
+Vor dem Aufbau immer festlegen:
+
+| Profil | Pflichtangaben | Maßstab |
+|---|---|---|
+| Bundesreferentenentwurf | Bundesministerium, Referat, Federführung, Mitzeichner, Bearbeitungsstand, Ressortabstimmung, NKR-Beteiligung | GGO, HdR, Kabinetts- und Bundesratsweg |
+| Landesreferentenentwurf | Bundesland, Landesministerium, Federführung, Landesverfassung, Geschäftsordnung der Landesregierung, Landtags- und Verkündungsweg | Landesrechtlicher Stil; HdR nur als Orientierung, soweit landesrechtlich passend |
+
+Wenn das Vorhaben nicht von einem Ministerium kommt, sondern aus Bundestag, Fraktion, Landtag oder Opposition, nicht diesen Skill erzwingen. Dann zu `formulierungshilfe-bauen` routen.
 
 ### Vorblatt
 
@@ -59,6 +70,8 @@ Oder gestaffeltes Inkrafttreten:
 
 "Berlin, den ... Der Bundespräsident ... Die Bundeskanzlerin ... Der Bundesminister ..."
 
+Bei Landesgesetzen und Landesverordnungen die landesspezifische Eingangs- und Schlussformel verwenden. Wenn sie nicht bekannt ist, als offenen Prüfpunkt ausweisen statt eine Bundesformel zu übertragen.
+
 ## Inhaltliche Standardstruktur eines Paragrafen
 
 1. **Anwendungsbereich / Definition**
@@ -72,22 +85,26 @@ Oder gestaffeltes Inkrafttreten:
 
 - [ ] Vorblatt vollständig (alle Abschnitte A bis H)
 - [ ] Eingangsformel passt zum Gesetz (Zustimmungserfordernis korrekt)
+- [ ] Bund/Land-Profil und zuständiges Ressort sauber dokumentiert
+- [ ] Bei Landesentwurf: Bundesland, Landesverfassung, Landes-Geschäftsordnung, Landtagsweg und Verkündungsblatt geprüft
 - [ ] Änderungsbefehle in Standardform
 - [ ] Inkrafttreten klar geregelt
 - [ ] Schlussformel passend
-- [ ] HdR-Spruchregeln eingehalten (siehe `hdr-stilcheck`)
+- [ ] HdR-Sprach- und Rechtsförmlichkeitsregeln eingehalten; bei Begriffen zusätzlich `terminologie-konsistenz` nutzen
 - [ ] Keine Verweisschleife (siehe `zirkelschluss-pruefen`)
 - [ ] Terminologie konsistent (siehe `terminologie-konsistenz`)
 
-## Aktuelle Rechtsprechung & Leitsätze
+## Arbeitsgrundlagen
 
-- BVerfG, Urt. v. 14.07.1959 — 2 BvF 1/58, BVerfGE 10, 20 Rn. 35 — Referentenentwurf als Ausdruck der Gesetzgebungs-Initiative; GGO-Format als Garant der Transparenz und parlamentarischen Kontrolle
-- BVerwG, Urt. v. 23.03.2016 — 6 C 14.15, NVwZ 2016, 943 — Ressortabstimmungs-Pflicht nach GGO ist formell; Verletzung fuehrt nicht zur Nichtigkeit aber kann parlamentarische Kontrolle beeintraechtigen; GGO als Innenrecht der Bundesregierung
-- BVerfG, Beschl. v. 14.03.2017 — 2 BvR 157/12, BVerfGE 145, 106 Rn. 60 — Aenderungsbefehle im Referentenentwurf muessen praezise sein; unpraezise Aenderungen fuehren zu Auslegungsproblemen; Normklarheit verlangt klare Aenderungs-Formulierungen (HdR-Standard)
+- GGO: Vorarbeiten, Beteiligungen, Rechtsprüfung, Ressortabstimmung, Kabinett und Bundesratsweg für Bundesentwürfe.
+- Handbuch der Rechtsförmlichkeit des BMJ: Form, Sprache, Änderungsbefehle, Aufbau von Gesetzes- und Verordnungsentwürfen.
+- Art. 76 GG: Einbringungsweg von Regierungsvorlagen im Bund.
+- Landesverfassung, Geschäftsordnung der Landesregierung und Landtags-Geschäftsordnung: maßgeblich für Landesentwürfe.
+- Art. 20 Abs. 3 GG und Bestimmtheitsgebot: Normtext muss klar, vollziehbar und widerspruchsfrei sein.
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 40-62 GGO (Referentenentwurf, Ressortabstimmung) — Art. 76 Abs. 1 GG (Einbringungsrecht Bundesregierung) — §§ 1-10 HdR (Handbuch der Rechtsfoermlichkeit, Aenderungsbefehle) — Art. 80 Abs. 1 Satz 3 GG (Citatum in Verordnungen)
+GGO (Bundesreferentenentwurf, Ressortabstimmung, Beteiligung, Kabinett) — Art. 76 Abs. 1 GG (Einbringungsrecht Bundesregierung) — HdR (Rechtsförmlichkeit, Änderungsbefehle) — Art. 80 Abs. 1 Satz 3 GG (Zitiergebot in Rechtsverordnungen) — Landesverfassung und Landes-Geschäftsordnung bei Landesentwürfen
 
 ## Kommentarliteratur
 
@@ -96,7 +113,7 @@ Oder gestaffeltes Inkrafttreten:
 
 ## Ausgabe
 
-Markdown-Datei mit dem kompletten Entwurfstext, bereit für Ressortabstimmung.
+Markdown-Datei mit dem kompletten Entwurfstext, bereit für Bundes- oder Landes-Ressortabstimmung, einschließlich Profilvermerk und offenen landesspezifischen Prüfpunkten.
 
 ## Anschluss
 

@@ -1,5 +1,9 @@
 # Unreleased — Qualitätslauf nach Perplexity-Nachlauf
 
+- Legistik-Werkstatt auf fünf Startbahnen erweitert: Bundesressort/Bundesregierung, Bundestag/Fraktion/Opposition, Landesressort/Landesregierung, Landtag/Landtagsfraktion und sonstige Normgeber.
+- Legistik-Allgemein-Skill fragt jetzt Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Verfahrensstand, Drucksache, Geschäftsordnung und Outputformat ab und routet sauber in Spezial-Skills.
+- `formulierungshilfe-bauen` kann jetzt nicht nur ministerielle Koalitions-Zulieferungen, sondern auch Gesetzentwürfe aus der Mitte, Änderungsanträge, Anträge und Entschließungsanträge für Bundestag und Landtage einschließlich Oppositionsarbeit.
+- `legistik-auftragsaufnahme`, `normhierarchie-routing` und `referentenentwurf-bauen` trennen fachlichen Verfasser, formalen Initiator und politischen Auftraggeber und führen Landesverfassung, Landes-Geschäftsordnung, Landtags-GO und Verkündungsrecht als Pflichtprüfpunkte mit.
 - Perplexitys stummer Upload-Block in allen 100 Allgemein-Skills geglättet: Fristenscan zuerst, Materialklassifikation, Kontextanker, Skill-Routing, nur eine konkrete Rückfrage und ein weniger begrenzender Co-Pilot-Ton.
 - Testakten mit `.placeholder`-Dateinamen in Chatbeschreibungen, Bildbeschreibungen, Fehlblätter, Inhaltsvermerke und Validierungsnotizen umbenannt; README-Verweise entsprechend aktualisiert.
 - Produktrecht-Skills von offenen Verify-/Pinpoint-Markern, einer nicht tragfähigen Produkthaftungsfundstelle und schematischen Influencer-/Green-Claims-Aussagen bereinigt.
