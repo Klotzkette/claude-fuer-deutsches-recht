@@ -38,10 +38,52 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 ## Enthaltene Skills
 
+Das Plugin umfasst **20 Skills**, gegliedert in fünf Blöcke. Reihenfolge bewusst: Praxis-Einstieg zuerst, Klassiker als Werkzeug, Strömungen für die methodische Tiefe.
+
+### Praxis-Einstieg und Anwendung
+
 | Skill | Zweck |
 | --- | --- |
-| `allgemein` | Einstieg, Triage und Workflow-Routing im Plugin. Bei stummem Upload (Dokument ohne Begleittext) reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, schlägt den passenden Spezial-Skill vor oder stellt genau eine gezielte Rückfrage. |
-| `methodenlehre-anwenden` | Wende deutsche juristische Methodenlehre auf zivilrechtliche Bewertungen an. Anspruchsgrundlagen-Reihenfolge, Auslegung Wortlaut Systematik Historie Telos ohne starre Rangfolge. Pragmatische BGH-Praxis: Teleologie dominiert in Begründungen. Rechtsfortbildung als reales Werkzeug. Aus Anwaltsperspektive — was Gerichte wirklich tun, nicht was Lehrbücher fordern. |
+| `allgemein` | Einstieg, Triage und Workflow-Routing im Plugin. Bei stummem Upload reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, schlägt den passenden Spezial-Skill vor oder stellt genau eine gezielte Rückfrage. |
+| `methodenlehre-anwenden` | Wende deutsche juristische Methodenlehre auf zivilrechtliche Bewertungen an. Anspruchsgrundlagen-Reihenfolge, Auslegung Wortlaut Systematik Historie Telos ohne starre Rangfolge. Pragmatische BGH-Praxis: Teleologie dominiert. Rechtsfortbildung als reales Werkzeug. |
+| `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion Larenz vs. BGH-pragmatisch. Schriftsatz-Strukturen und Formulierungsmuster. |
+
+### Klassische Auslegungskanones (Savigny-Vierer)
+
+| Skill | Zweck |
+| --- | --- |
+| `savigny-vier-auslegungsmethoden` | Savignys klassischer Vierer-Kanon (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage und Anwendung im BGB. Verhältnis zur modernen pragmatischen Auslegung. Gerüst für jede Normauslegung. |
+| `wortlaut-grammatikalische-auslegung` | Grammatikalische Auslegung. Allgemeiner Sprachgebrauch vs. juristische Fachsprache. Wortlaut-Grenze als äußere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Legaldefinitionen, Mehrdeutigkeit, unbestimmte Rechtsbegriffe. |
+| `systematische-auslegung` | Systematische Auslegung. Stellung der Norm im Gesetz. Bezug zu Nachbarnormen und Verweisungen. Konkordanz mit HGB, ZPO, GG, Unionsrecht. Konkrete Beispiele zu §§ 280, 311, 433, 823 BGB. |
+| `historische-auslegung` | Historische Auslegung. Subjektive vs. objektive Theorie. Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Quellen-Workflow über dipbt.bundestag.de. |
+| `teleologische-auslegung` | Teleologische Auslegung. Sinn und Zweck (ratio legis). Geltungstheorie vs. Entstehungstheorie. BGB-Beispiele zu Schutzzwecknormen (§§ 433, 437, 823, 1004, 1626). Warum die Teleologie in der BGH-Praxis das stärkste Argument ist und wo ihre Grenzen liegen. |
+
+### Verfassungs- und Unionsrechtskonforme Auslegung
+
+| Skill | Zweck |
+| --- | --- |
+| `verfassungs-und-unionsrechtskonforme-auslegung` | Verfassungs- und unionsrechtskonforme Auslegung. BVerfGE 7, 198 (Lüth-Drittwirkung). EuGH Marleasing C-106/89 (richtlinienkonform); EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien (EuGH Marshall 152/84). Grenzen (Wortlaut, contra legem). Anwendung im BGB (§§ 138, 242, 305 ff., 312 ff., 651a ff.). |
+
+### Rechtsfortbildung und Argumentationsfiguren
+
+| Skill | Zweck |
+| --- | --- |
+| `analogie-und-teleologische-reduktion` | Rechtsfortbildung jenseits der Wortlaut-Grenze. Analogie (planwidrige Lücke + vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot zulasten Privater im Strafrecht und Steuerrecht. |
+| `argumentum-figuren-e-contrario-a-maiore-a-fortiori` | Argumentum-Figuren. Umkehrschluss (e contrario), Erst-recht-Schluss (a maiore ad minus, a minore ad maius), a fortiori. Voraussetzungen und Verhältnis zur Analogie. BGB-Beispiele: § 181 BGB e contrario, §§ 134, 138 BGB a maiore, §§ 119, 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. |
+
+### Methodische Strömungen und Theoriegeschichte
+
+| Skill | Zweck |
+| --- | --- |
+| `pandekten-und-begriffsjurisprudenz` | Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Puchta, Windscheid. Begriffspyramide und logisches Ableitungsmodell. Verhältnis zum BGB (1900). Kritik durch Jhering, Heck, Larenz. Wo die Begriffsjurisprudenz heute noch trifft (AT, Stellvertretung) und wo nicht. |
+| `interessenjurisprudenz-heck` | Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz. Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Lösung. ratio legis als Interessenabwägung. Vorläufer der Wertungsjurisprudenz. Anwendung im BGB. |
+| `wertungsjurisprudenz-larenz-canaris` | Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptströmung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre 1960 (6. Aufl. 1991). Canaris, Systemdenken 1969. Objektive Wertungen, Rückbindung an Grundrechte und Rechtssystem. |
+| `topik-viehweg-vs-systemdenken` | Topik und Jurisprudenz nach Theodor Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Anwendung bei Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. |
+| `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Habermas, Faktizität und Geltung 1992. Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Anwendung im Zivilrecht: Generalklauseln, Verhältnismäßigkeit, Abwägung. Kritik durch Luhmann. |
+| `systemtheorie-luhmann-rechtssystem-autopoiese` | Systemtheorie Niklas Luhmanns. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binärer Code Recht/Unrecht. Verhältnis zu Wirtschaft, Politik, Wissenschaft. BGH als Beobachter zweiter Ordnung. |
+| `oekonomische-analyse-des-rechts-coase-posner` | Ökonomische Analyse des Rechts (Law and Economics). Coase, The Problem of Social Cost 1960. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmaßstab. Anwendung im Schadens-, Vertrags-, Nachbarrecht. Kritik aus Wertungsjurisprudenz und Grundrechtsdogmatik. |
+| `legal-realism-und-critical-legal-studies` | American Legal Realism und Critical Legal Studies. Holmes, The Path of the Law 1897. Llewellyn, Frank. CLS: Unger, Kennedy. Kritik an Neutralität, Objektivität, Systemdenken. Recht als Politik mit anderen Mitteln. Kritische Außensicht auf das deutsche Zivilrecht. |
+| `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Vorrang Unionsrecht, autonome Auslegung. |
 
 ## Verknüpfung mit anderen Plugins
 

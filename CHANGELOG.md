@@ -1,3 +1,27 @@
+# v49.1.0 — Skill-Uebersichten in methodenlehre und mietrecht vollstaendig
+
+Codex hatte in v48.0.0 achtzehn neue Methodenlehre-Skills hinzugefuegt; die README und der `allgemein`-Skill listeten aber nur zwei davon auf. Im Mietrecht-Plugin fehlten vier Skills in der README-Tabelle.
+
+## methodenlehre-buergerliches-recht
+
+- README Skill-Tabelle vollstaendig: alle 20 Skills in fuenf Bloecken (Praxis-Einstieg, klassische Auslegungskanones, Verfassungs- und Unionsrechtskonforme Auslegung, Rechtsfortbildung und Argumentationsfiguren, methodische Stroemungen).
+- `skills/allgemein/SKILL.md` Abschnitt 5 (Spezial-Skills): Routing-Tabelle mit allen 20 Skills, ebenfalls in fuenf Bloecken; Routing-Faustregel um Norm-Auslegung, Rechtsfortbildung, unionsrechtlichen Ursprung und akademische Reflexion erweitert.
+- Tippfehler `Geriust` -> `Gerüst` korrigiert (in der Beschreibung des Savigny-Skills).
+
+## mietrecht
+
+- README Skill-Tabelle: vier fehlende Skills ergaenzt (`allgemein`, `mandat-triage-mietrecht`, `mietkaution-rueckforderung`, `weg-beschluss-anfechten`).
+
+## Versionen
+
+- `methodenlehre-buergerliches-recht`: 49.0.0 -> 49.1.0
+- `mietrecht`: 49.0.0 -> 49.1.0
+- Marketplace.json: entsprechend bewegt
+
+Validatoren gruen: validate-plugin-structure OK, validate-yaml-frontmatter 0/0, welle5-komma-check 0 Treffer.
+
+---
+
 # v49.0.0 — WEG-Großakte, Barrierefreiheit und Komplettpaket
 
 - `weg-hausverwaltung` ausgebaut: sieben zusätzliche Skills für Großakten-Routing, Protokollmarathon, Ist-/Plan-/Mieterschnittstelle, Heizungs-/Versicherungsschäden, E-Mobilität/PV/Kellerstrom, Restaurant-/Hofkonflikte sowie Hausordnungsthemen.
