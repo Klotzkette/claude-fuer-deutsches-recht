@@ -119,7 +119,3 @@ Mit freundlichen Grüßen
 Hildemar
 
 PS: Ist 02:14 Uhr zu spät, um eine solche Mail zu schicken?
-
-## Notiz Adelheid von Westarp am Rand, Donnerstag 07:38
-
-> Hildemar, gut. Drei Sachen: (i) 02:14 Uhr-Mails sind eine Zeitstempel-Selbstverletzung. Schickst du in Zukunft erst nach 06:30. (ii) Waterfall-Annahme „25,3 Prozent" bitte mit Quelle: woher hast du diese Zahl? Cap Table v18.05.2026 ist noch instabil. (iii) Drag-Vorschlag 65 Prozent ist Verhandlungslogik, nicht Mandanteninteresse. Bitte gegen Gründerinteresse argumentieren: Sperrminorität der Gründer auf der einen, Mehrheit der A-Investoren auf der anderen Seite. Vorschlag muss aus dieser Logik heraus formuliert werden, nicht aus „Kompromiss-Mitte". A.

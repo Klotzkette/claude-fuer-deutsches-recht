@@ -1,11 +1,10 @@
-# Slack-Thread #project-comet-moth
+# Slack-Thread #project-comet-moth, Mittwoch 22:14 bis 22:58
 
-> Slack-Thread #project-comet-moth, Mittwoch 22:14 bis 22:58.
->
-> Auszug aus dem internen Slack-Channel des Deal-Teams am Vorabend des Series-A-Briefings.
-> Sechs Nachrichten zwischen CFO, Associate, CEO und Partnerin.
+**Channel:** `#project-comet-moth` (Deal Team Kometenfalter Systems GmbH)
+**Teilnehmer:** Olaf Eichholtz (CFO Mandantin), Hildemar K. (Associate), Kunigunde Reiter (CEO Mandantin), Adelheid von Westarp (Partnerin)
+**Zeitraum:** Mittwoch, 22:14 bis 22:58 Uhr
 
-## Chronologischer Verlauf
+## Verlauf
 
 > **22:14 — Olaf Eichholtz (CFO)**
 > Cap Table v18 ist hochgeladen. Achtung, ich habe in dem Excel die Series-A-Shares schon eingerechnet, damit Kunigunde am Donnerstag sieht, was sie nach Closing hätte. Reiner Voraus-Blick.

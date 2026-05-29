@@ -74,14 +74,13 @@
 | 15.07.2026 | Zielcloseing. |
 | 15.09.2026 | Long-Stop-Date laut Term Sheet. |
 
-## Was die Akte testet
+## Aktenschwerpunkte für die kommende Verhandlung
 
-- Trennung von **Cap Table** (internes Steuerungsinstrument) und **Gesellschafterliste** (öffentliches Register nach Paragraf 40 GmbHG).
-- Wirtschaftliches Verständnis von **fully diluted basis**, Option-Pool-Shuffle, Wandeldarlehen, VSOP-Anteilen.
-- Umgang mit englischen Vertragsbegriffen, die deutsch ähnlich klingen, aber rechtlich anders wirken: Liquidation Preference, Anti-Dilution, Drag/Tag, Reps & Warranties, Consent Matters, Investor Director.
-- Brücke zwischen englischem Term Sheet und deutscher Notar-, Register- und GmbHG-Welt.
-- Sensibilität für Anfängerfehler: blinde Eindeutschung, Cap-Table-Gesellschafterlisten-Verwechslung, Übersehen des Wandeldarlehens, Beirat als Board behandeln.
-- Sauberer Übergang in Partnerbriefing, Mandantenmemo und Liste an Investor Counsel.
+- Saubere Trennung von **Cap Table** (internes Steuerungsinstrument) und **Gesellschafterliste** (öffentliches Register nach Paragraf 40 GmbHG).
+- Wirtschaftliche Position der Gründer auf **fully diluted basis** nach Pool-Shuffle, Wandlung des Wandeldarlehens Frau Ermelind und Bedienung der VSOP-Anteile.
+- Englische Vertragsbegriffe, die im deutschen Recht eine eigene Umsetzung verlangen: Liquidation Preference, Anti-Dilution, Drag/Tag, Reps & Warranties, Consent Matters, Investor Director.
+- Brücke zwischen englischem Term Sheet, deutscher Notar-, Register- und GmbHG-Welt sowie bestehender Satzung und Seed-SHA.
+- Vorbereitung der Verhandlung mit Northbridge bzw. Brackenmuir & Quint LLP: Partnerbriefing, Mandantenmemo und Liste an Investor Counsel.
 
 ## Offene Punkte zur Bearbeitung
 

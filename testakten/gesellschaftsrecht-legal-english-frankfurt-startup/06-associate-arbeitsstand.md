@@ -1,6 +1,6 @@
 # 06 Associate-Arbeitsstand mit Rotstift der Partnerin
 
-Dieses Dokument ist Hildemar K.s Arbeitsstand vom 20.05.2026, 02:14 Uhr. Adelheid von Westarp hat am 21.05.2026 vormittags mit rotem Stift Anmerkungen vermerkt. Die Anmerkungen sind hier als Block-Quote unter dem jeweiligen Satz eingefügt. Sinn der Datei: dem Nachwuchs zeigen, wie eine Partnerin Anfängertexte umarbeitet — sachlich, hart, lehrreich.
+Dieses Dokument ist Hildemar K.s Arbeitsstand vom 20.05.2026, 02:14 Uhr. Adelheid von Westarp hat am 21.05.2026 vormittags Anmerkungen am Rand vermerkt. Die Anmerkungen sind hier als Block-Quote unter dem jeweiligen Satz eingefügt.
 
 ---
 

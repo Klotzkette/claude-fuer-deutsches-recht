@@ -1,3 +1,41 @@
+# v44.0.1 — Testakte: Excel entlehrmaterialisiert, gemischte PDFs nach Kanaltyp getrennt
+
+Folgefix nach v44.0.0. Drei Dinge:
+
+## Excel
+
+- `18-cap-table-waterfall-training.xlsx` → ersetzt durch `18-cap-table-und-waterfall.xlsx`.
+- Workbook-Titel: "Cap Table und Waterfall — Series A Project Comet Moth" (statt "Corporate Legal English Training Workbook").
+- Sheets neu: Übersicht, Cap Table, Pool-Szenarien, Wandeldarlehen, Waterfall. Sheet "Rookie Quiz" geloescht, Sheet "README" als "Übersicht" mit Mandantin / Aktenzeichen / Sachbearbeitung / Stand neu aufgesetzt.
+- Alle "Lernziel", "Didaktischer Hinweis", "fiktive Testakte", "Training Workbook", "didaktisch", "Rookie"-Markierungen entfernt.
+
+## PDF-Trennung nach Kanaltyp
+
+- `01-partnerauftrag-email.md` enthielt zwei E-Mails plus einen Slack-Thread im selben PDF. Aufgeteilt: `01-partnerauftrag-emails.md` (nur die zwei E-Mails) plus `chats/01-slack-comet-moth-cap-table.md` (Slack) jeweils als eigenes DOCX und PDF.
+- `11-investor-counsel-markup-roundtrip.md` enthielt drei E-Mails plus eine Randnotiz Westarp. Aufgeteilt: `11-investor-counsel-markup-emails.md` (nur die drei E-Mails) plus `11n-westarp-randnotiz-zum-entwurf.md` (Randnotiz) jeweils als eigenes DOCX und PDF.
+- `chats/16-whatsapp-partner-associate-thread.md` jetzt auch als eigenes DOCX und PDF (zusaetzlich zum bereits separat existierenden Datei-16-PDF im Wurzelverzeichnis).
+
+## Restliche Textentlehrungen
+
+- `00-deal-personen-und-zeitleiste.md`: Abschnitt "Was die Akte testet" umbenannt in "Aktenschwerpunkte fuer die kommende Verhandlung", inhaltlich auf das Mandat statt auf den Lernzweck formuliert.
+- `06-associate-arbeitsstand.md`: Lead-Absatz von "dem Nachwuchs zeigen, wie eine Partnerin Anfaengertexte umarbeitet — sachlich, hart, lehrreich" auf "Adelheid von Westarp hat am 21.05.2026 vormittags Anmerkungen am Rand vermerkt" geaendert.
+- `14-board-und-consent-matters-mapping-de-en.md`: Abschnitt "Lernziel" in "Ausgangspunkt" umbenannt.
+- `chats/01-slack-comet-moth-cap-table.md`: Kopfblock "Auszug aus dem internen Slack-Channel" durch realistische Channel-/Teilnehmer-/Zeitstempel-Angaben ersetzt.
+
+## Konsequenzen fuer README und Plugin-README
+
+- Testakten-`README.md`: Aktenbestand-Tabelle aktualisiert (neue Dateinamen `01-partnerauftrag-emails`, `11-investor-counsel-markup-emails`, `11n-westarp-randnotiz-zum-entwurf`, `18-cap-table-und-waterfall.xlsx`). Hinweise auf chats/DOCX/PDF ergaenzt.
+- Plugin-`README.md`: Excel-Dateiname aktualisiert; Demo-Material-Sektion um chats/ ergaenzt.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- Volltextsuche `lehr|fiktiv|didakt|training|quiz|rookie|lernziel|simul|cheatsheet|musterloesung` ueber alle PDFs/DOCX/XLSX — 0 echte Treffer (nur juristischer Fachbegriff "Zweckuebertragungslehre" verbleibt).
+
+---
+
 # v44.0.0 — Testakte Frankfurt-Startup entlehrmaterialisiert: echte Akte statt Lehrkompendium
 
 Die Frankfurt-Startup-Testakte wird zu einer realistischen Mandatsakte umgebaut. Alle didaktischen Marker ("fiktive Lehrakte", "Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt", "Lehrmaterial") sowie alle formalen Lehrhilfen (Cheat-Sheets, Glossare, Fehlerkataloge, Index-Beipackzettel) sind entfernt. Was bleibt, ist das bluehende Leben einer Series-A-Mandatsakte der Kanzlei Hagemann & Westarp fuer die Kometenfalter Systems GmbH.

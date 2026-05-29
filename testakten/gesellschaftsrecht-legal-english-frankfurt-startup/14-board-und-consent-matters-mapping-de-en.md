@@ -2,9 +2,9 @@
 
 Internes Arbeitsdokument für das Mapping der Term-Sheet-Klausel „Investor Director Approval" in die deutsche GmbH-Welt. Wird in Datei 11 mehrfach referenziert.
 
-## Lernziel
+## Ausgangspunkt
 
-Im Term Sheet steht „**Investor Director Approval**", als sei das ein Block-Veto am Board-Tisch wie in Delaware. Die GmbH kennt **kein Board**. Wir müssen jede Klausel in **drei Organebenen** denken: (a) Geschäftsführung, (b) Gesellschafterversammlung, (c) Beirat (sofern installiert und mit Kompetenzen versehen).
+Im Term Sheet steht „**Investor Director Approval**", als sei das ein Block-Veto am Board-Tisch wie in Delaware. Die GmbH kennt **kein Board**. Jede Klausel ist deshalb in **drei Organebenen** zu denken: (a) Geschäftsführung, (b) Gesellschafterversammlung, (c) Beirat (sofern installiert und mit Kompetenzen versehen).
 
 ## Regelfragen vor jedem Mapping
 
