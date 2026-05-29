@@ -1,3 +1,11 @@
+# v41.0.0 — README-Spotlight: Corporate Legal English statt Meinungspruefer (Tag-Bump nach v40)
+
+Reiner Tag-Bump: Der v40.0.0-Tag wurde bereits zuvor auf den Sanity-Release-Commit `51ade7ae` gesetzt. Da der README-Schnitt (Meinungspruefer-Hero raus, Corporate Legal English oben) danach folgte und Tags nicht ueberschrieben werden, wird der aktuelle `main` als `v41.0.0` markiert.
+
+Inhaltlich identisch zum unten gepflegten v40-Eintrag (Sanity-Release + README-Spotlight). Keine Plugin-Aenderungen.
+
+---
+
 # v40.0.0 — Sanity-Check-Release nach v39 + README-Spotlight Corporate Legal English
 
 Sammelrelease: Der aktuelle `main`-Stand nach `v38.0.0` (Steuerrechts-Sanity-Fix) und `v39.0.0` (CO2KostAufG-Präzisierung) wurde gegen die Repo-Validatoren und den Release-ZIP-Bau geprüft und als nächster stabiler Download-Stand markiert. Zusätzlich wurde das README-Spotlight redaktionell geändert.
