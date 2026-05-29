@@ -1,6 +1,12 @@
-# v40.0.0 — Sanity-Check-Release nach v39
+# v40.0.0 — Sanity-Check-Release nach v39 + README-Spotlight Corporate Legal English
 
-Sammelrelease ohne neue Fachlogik: Der aktuelle `main`-Stand nach `v38.0.0` (Steuerrechts-Sanity-Fix) und `v39.0.0` (CO2KostAufG-Präzisierung) wurde noch einmal gegen die Repo-Validatoren und den Release-ZIP-Bau geprüft und als nächster stabiler Download-Stand markiert.
+Sammelrelease: Der aktuelle `main`-Stand nach `v38.0.0` (Steuerrechts-Sanity-Fix) und `v39.0.0` (CO2KostAufG-Präzisierung) wurde gegen die Repo-Validatoren und den Release-ZIP-Bau geprüft und als nächster stabiler Download-Stand markiert. Zusätzlich wurde das README-Spotlight redaktionell geändert.
+
+## README-Spotlight
+
+- Meinungspruefer-Block ganz oben aus README entfernt.
+- Spotlight-Abschnitt umbenannt zu "Ganz oben: Corporate Legal English" und auf `gesellschaftsrecht-legal-english` mit Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` fokussiert (Kaltstart, Dealroom-Lernpfad, Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD-Begriffe, englische Vertragssprache unter deutschem Recht).
+- Keine Plugin-Aenderungen; rein redaktioneller README-Schnitt zusätzlich zum Sanity-Release.
 
 ## Qualitätssicherung
 
@@ -8,6 +14,7 @@ Sammelrelease ohne neue Fachlogik: Der aktuelle `main`-Stand nach `v38.0.0` (Ste
 - `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler, 0 Warnungen
 - `node scripts/validate-plugin-structure.mjs` — OK
 - `python3 scripts/validate-release-zips.py /tmp/codex-release-sanity .claude-plugin/marketplace.json` — OK
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
 - Release-Asset-Sanity: 105 Plugin-ZIPs, 63 Testakten-ZIPs, 1 `marketplace.json`, insgesamt 169 Assets
 
 ## Dokumentation

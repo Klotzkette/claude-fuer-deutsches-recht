@@ -2,11 +2,9 @@
 
 > **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis**, an Gesetzestexten, amtlichen Materialien und frei überprüfbarer Rechtsprechung. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jede Nutzerin und jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
 
-## Ganz oben: Meinungsprüfer
+## Ganz oben: Corporate Legal English
 
-Neu im Repo ist der [`meinungspruefer`](./meinungspruefer): ein großes Äußerungsrechts-Plugin für Meinung/Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, Plattformfälle und US-Supreme-Court-Vergleich. Dazu gibt es die Testakte [`meinungspruefer-grenzfaelle-alltag`](./testakten/meinungspruefer-grenzfaelle-alltag/) mit X-Post, LinkedIn-Pinocchio, Kantinenfall, Elternchat, Bürgermeister-"Lackaffe", Abmahnung, Anhörung, Belegmappe und USA-Vergleichsnotiz.
-
-Ebenfalls besonders ausgebaut ist [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english): ein didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English, das Kaltstart, Dealroom-Lernpfad, Multi-Format-Auswertung, Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD-Begriffe und englische Vertragssprache unter deutschem Recht erklärt und in Big-Law-Workflows für Anfänger übersetzt. Dazu gehört die Testakte [`gesellschaftsrecht-legal-english-frankfurt-startup`](./testakten/gesellschaftsrecht-legal-english-frankfurt-startup/) mit Markdown, Excel, PDF-Scan, PDF-Cheatsheet, JPEG-Foto, Email-Screenshot und WhatsApp-Screenshot.
+Besonders ausgebaut ist [`gesellschaftsrecht-legal-english`](./gesellschaftsrecht-legal-english): ein didaktisches Gesellschaftsrechts-Plugin für Corporate Legal English, das Kaltstart, Dealroom-Lernpfad, Multi-Format-Auswertung, Cap Table, Gesellschafterliste, Term Sheet, SHA, Liquidation Preference, Anti-Dilution, Vesting, Drag/Tag, SPA/DD-Begriffe und englische Vertragssprache unter deutschem Recht erklärt und in Big-Law-Workflows für Anfänger übersetzt. Dazu gehört die Testakte [`gesellschaftsrecht-legal-english-frankfurt-startup`](./testakten/gesellschaftsrecht-legal-english-frankfurt-startup/) mit Markdown, Excel, PDF-Scan, PDF-Cheatsheet, JPEG-Foto, Email-Screenshot und WhatsApp-Screenshot.
 
 ## Über dieses Repository
 
