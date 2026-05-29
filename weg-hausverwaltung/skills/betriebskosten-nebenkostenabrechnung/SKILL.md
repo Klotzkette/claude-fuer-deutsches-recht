@@ -16,7 +16,7 @@ Die Schnittstelle zwischen WEG-Jahresabrechnung und mietrechtlicher Betriebskost
 - **Umlagefähigkeit** nach Mietvertrag (Klausel auf BetrKV verweisend) und BetrKV (https://www.gesetze-im-internet.de/betrkv/).
 - **Abrechnungszeitraum**: in der Regel Kalenderjahr; muss im Mietvertrag oder konsequent praktiziert sein.
 - **Zugangsfrist**: Vermieter muss innerhalb von **12 Monaten** ab Ende des Abrechnungszeitraums abrechnen (§ 556 Abs. 3 BGB — https://www.gesetze-im-internet.de/bgb/__556.html). Nach Ablauf nur noch zugunsten des Mieters Korrekturen möglich.
-- **Verteilerschlüssel** nach Mietvertrag, Wohnfläche, Verbrauch oder Einheiten; Heizung/Warmwasser zwingend mindestens 50/30/70 Prozent nach Verbrauch (HeizkostenV).
+- **Verteilerschlüssel** nach Mietvertrag, Wohnfläche, Verbrauch oder Einheiten; bei Heizung/Warmwasser zwingend nach HeizkostenV: verbrauchsabhängiger Anteil mindestens 50 % und höchstens 70 %, der restliche Anteil (30 % bis 50 %) nach Wohnfläche oder umbautem Raum (§§ 7, 8 HeizkostenV — https://www.gesetze-im-internet.de/heizkostenv/). Der häufige Schlüssel 70/30 (70 % Verbrauch, 30 % Fläche) ist eine zulässige Ausgestaltung innerhalb dieser Bandbreite, nicht die einzige.
 - **HeizkostenV**: Erfassung, Verteilung, Ablesung, Zwischenablesung bei Mieterwechsel.
 - **Nicht umlagefähig**: Verwaltungskosten, Instandsetzung/Erhaltung (vs. Wartung), Bankgebühren ohne Vertragsgrundlage, Reparaturen, Erhaltungsrücklage.
 - **Belegeinsicht** nach Aufforderung; Vermieter muss Einsicht ermöglichen, ggf. gegen Kostenerstattung Kopien.

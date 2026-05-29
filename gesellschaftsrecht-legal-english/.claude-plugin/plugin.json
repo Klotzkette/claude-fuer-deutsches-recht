@@ -1,6 +1,6 @@
 {
   "name": "gesellschaftsrecht-legal-english",
-  "version": "35.0.0",
+  "version": "36.0.0",
   "description": "Didaktisches Gesellschaftsrechts-Plugin fuer Corporate Legal English: Kaltstart, Dealroom-Lernpfad, Multi-Format-Auswertung, Cap Table, Term Sheet, SHA, Vesting, Drag/Tag, Liquidation Preference, Anti-Dilution, SPA, DD und Big-Law-Anfaengertraining.",
   "license": "Apache-2.0 OR MIT",
   "author": {

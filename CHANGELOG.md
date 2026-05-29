@@ -1,3 +1,29 @@
+# v36.0.0 — Codex-Round-3-Fixes: HeizkostenV-Bandbreite, § 18 vs. § 28 WEG, CO2KostAufG WEG-Grenzen, Gewährleistungs-Werkart, § 55a GmbHG, negatives Agio
+
+Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:
+
+- **HeizkostenV-Bandbreite korrekt formuliert** (`weg-hausverwaltung/skills/betriebskosten-nebenkostenabrechnung/SKILL.md`). Die irreführende Formulierung `mindestens 50/30/70 Prozent nach Verbrauch` wurde durch die richtige Regel ersetzt: verbrauchsabhängiger Anteil mindestens 50 Prozent und höchstens 70 Prozent, restlicher Anteil (30 bis 50 Prozent) nach Wohnfläche oder umbautem Raum (§§ 7, 8 HeizkostenV). Der häufige Schlüssel 70/30 ist ausdrücklich als eine zulässige Ausgestaltung innerhalb der Bandbreite gekennzeichnet.
+- **§ 55a GmbHG ergänzt** (`corporate-kanzlei/skills/corporate-kanzlei-agio-und-kapitalerhoehungsstruktur/SKILL.md`). Die Authorized-Capital-Zeile in der US-Term-Sheet-Übersetzungstabelle behauptete fälschlich, die GmbH kenne kein genehmigtes Kapital. Korrigiert auf: bei der AG § 202 AktG, bei der GmbH seit MoMiG ausdrücklich § 55a GmbHG (mit Verweis auf den bestehenden Skill `gesellschaftsgruender-genehmigtes-kapital`).
+- **Negatives Agio als rechtlich ausgeschlossen klargestellt** (`corporate-kanzlei/skills/corporate-kanzlei-agio-und-kapitalerhoehungsstruktur/SKILL.md`). Die Down-Round-Passage hatte die wirtschaftliche Verwässerung mit einem "negativen Agio" beschrieben. Das ist juristisch falsch: Ausgabe unter pari verstößt gegen § 9 Abs. 1 GmbHG / § 5 Abs. 2 GmbHG (Verbot der Unter-pari-Emission, nichtige Kapitalerhöhung). Korrigiert auf die drei zulässigen Down-Round-Instrumente: Null-Agio, größere Stückzahl zum reduzierten Preis pro Anteil, flankierende Wandeldarlehen oder Anti-Dilution-Anpassungen.
+- **CO2KostAufG nicht auf WEG-Innenverhältnis anwenden** (`testakten/weg-hausverwaltung-hohenzollernhof/11-co2kostaufg-aufteilungspruefung.md`). Die Testakte hatte den Eindruck vermittelt, das CO2KostAufG-Stufenmodell sei auf die WEG-Jahresabrechnung anzuwenden. Korrigiert: das CO2KostAufG regelt nur das Vermieter-Mieter-Verhältnis (§§ 1, 2 CO2KostAufG); die WEG-interne Hausgeldumlage bleibt bei § 16 Abs. 2 WEG und HeizkostenV. Praxisrelevanz für die WEG: vermietende Eigentümer brauchen aus der Jahresabrechnung Datengrundlagen (Brennstoffmenge, CO2-Emission, Energieträger, gebäudespezifischer CO2-Wert) gemäß § 2 Abs. 2 CO2KostAufG. Beanstandung und Anfechtungsrisiko entsprechend umformuliert.
+- **Gewährleistungsfrist nach Werkart differenziert** (`weg-hausverwaltung/skills/handwerker-beauftragung-vergabe/SKILL.md`). Die pauschale Auswahl `5 / 4 Jahre` ist nur für Bauwerk-Arbeiten korrekt. Ergänzt um die richtige Trias: BGB Bauwerk 5 Jahre (§ 634a Abs. 1 BGB), VOB/B Bauwerk 4 Jahre bei wirksamer Einbeziehung (§ 13 Abs. 4 VOB/B), sonstige Werkleistungen und Wartung 2 Jahre. Im Auftragsbestaetigungs-Muster und in der Vergleichstabelle.
+- **Belegeinsicht § 18 Abs. 4 WEG statt § 28 Abs. 4 WEG** (`weg-hausverwaltung/skills/datenschutz-dokumentenfreigabe/SKILL.md`). Die Belegeinsicht in Verwaltungsunterlagen folgt § 18 Abs. 4 WEG; § 28 Abs. 4 WEG regelt nur den Vermögensbericht. Description und Body entsprechend getrennt; beide Rechtsgrundlagen verlinkt.
+
+## Plugin-Versionsbumps
+
+- `corporate-kanzlei` 30.0.0 → 31.0.0
+- `weg-hausverwaltung` 35.0.0 → 36.0.0
+- `gesellschaftsrecht-legal-english` 35.0.0 → 36.0.0
+- `.claude-plugin/marketplace.json` synchronisiert
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
 # v35.0.0 — Agio-Dogmatik in drei Plugins, Codex-Round-2-Fixes, Umlaut-Hygiene Testakte
 
 - **Codex-Round-2-Fixes in `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/`.** Der `§ 14 GmbHG`-Anker für Sonderrechte/Vorzugsanteile wurde in den Dateien `06-associate-arbeitsstand.md` und `07-erwarteter-output-ohne-musterloesung.md` durch den korrekten Anker `Satzungsautonomie + § 35 BGB analog` ersetzt; gestützt auf ständige Rechtsprechung (BGHZ 123, 15; BGH II ZR 89/79 = LM BGB § 35 Nr. 4; OLG Nürnberg 12 U 813/99). § 14 GmbHG (Einlagepflicht/Nennbetrag) wird explizit als Nicht-Anker markiert. In `02-cap-table-und-gesellschafterliste.md` wurde der irreführende Verweis auf eine angebliche Subscription-Liste in Datei 03 Ziff. 2 berichtigt — die 4,8/0,4-Aufteilung steht in Datei 02 selbst (CFO-Slack-Thread vom 28.05.2026); Datei 03 Ziff. 2 verlangt nur eine Lead-Mindestquote von 75 Prozent.

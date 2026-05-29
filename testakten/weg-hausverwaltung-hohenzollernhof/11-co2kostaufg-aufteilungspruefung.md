@@ -11,7 +11,7 @@ status: Beanstandung der Jahresabrechnung 2023, 2024, 2025 angekuendigt
 
 **CO2KostAufG** (Kohlendioxidkostenaufteilungsgesetz) vom 05.08.2022 (BGBl. 2022 I S. 1390), in Kraft 01.01.2023.
 
-Gilt fuer **Vermieter-Mieter** und **WEG (intern Hausgeld)** sowie **Gewerbeeinheiten**.
+Gilt fuer das **Vermieter-Mieter-Verhaeltnis** (§§ 1, 2 CO2KostAufG) sowie fuer **Gewerbeeinheiten** im selben Pass-Through. Die **WEG-interne Hausgeldumlage** richtet sich dagegen nach WEG-Recht (§ 16 Abs. 2 WEG, Teilungserklaerung, ggf. Verteilerschluessel-Beschluss); das CO2KostAufG ordnet die CO2-Kosten **nicht** zwischen den Wohnungseigentuemern um. Praxisrelevanz fuer die WEG: vermietende Eigentuemer brauchen aus der WEG-Jahresabrechnung **Datengrundlagen** (Brennstoffmenge, CO2-Emission, Energietraeger, Gebaeude-spezifischer CO2-Ausstoss in kg CO2/m2/a), um in der eigenen Betriebskostenabrechnung gegenueber ihren Mietern die Stufenmodell-Aufteilung umsetzen zu koennen (§ 2 Abs. 2 CO2KostAufG). Selbstnutzer und vermietende Eigentuemer tragen ihren Eigentuemeranteil der Heizkosten unveraendert nach WEG/HeizkostenV; die Stufenmodell-Aufteilung greift erst in der Vermieter-Mieter-Ebene.
 
 Quelle (offen): https://www.gesetze-im-internet.de/co2kostaufg/
 
@@ -61,7 +61,7 @@ Beim Hohenzollernhof handelt es sich um ein Wohnobjekt mit **Anteil Nichtwohnnut
 
 ### Was die Verwalterin Berlin-Domus gemacht hat
 
-Die Jahresabrechnung 2025 (Stand 14.04.2026) **verteilt die gesamten Heizkosten inkl. CO2-Anteil pauschal nach HeizkostenV (70/30)** auf alle Einheiten. Das CO2KostAufG-Stufenmodell ist **nicht angewendet**.
+Die Jahresabrechnung 2025 (Stand 14.04.2026) **verteilt die gesamten Heizkosten inkl. CO2-Anteil pauschal nach HeizkostenV (70/30)** auf alle Einheiten. Die fuer die vermietenden Eigentuemer erforderlichen **Datengrundlagen nach § 2 Abs. 2 CO2KostAufG** (Energietraeger, eingesetzte Brennstoffmenge, daraus abgeleitete CO2-Emission, gebaeudespezifischer Wert in kg CO2/m2/a, Einstufung in die Stufentabelle) sind in der Abrechnung **nicht ausgewiesen**. Das Stufenmodell selbst ist auf WEG-Ebene **nicht anzuwenden** — Beanstandung richtet sich also auf die fehlende Informationsaufbereitung, nicht auf eine "falsche" interne Verteilung.
 
 **Konsequenz:**
 - **Mieter** zahlen mehr als sie muessten (Mieter-Anteil 60 % aus 5.060 = 3.036 EUR; tatsaechlich abgerechnet etwa 5.060 EUR auf Mieter umgelegt).
@@ -69,12 +69,12 @@ Die Jahresabrechnung 2025 (Stand 14.04.2026) **verteilt die gesamten Heizkosten 
 
 ### Beanstandung
 
-Beiratsvorsitz beanstandet die Jahresabrechnung 2025 wegen Verstosses gegen § 7 II Heizkostenverordnung in Verbindung mit CO2KostAufG.
+Beiratsvorsitz beanstandet die Jahresabrechnung 2025 **nicht** wegen einer fehlerhaften internen WEG-Verteilung, sondern wegen **fehlender Datengrundlagen nach § 2 Abs. 2 CO2KostAufG**, die die vermietenden Eigentuemer fuer ihre eigene Betriebskostenabrechnung gegenueber den Mietern benoetigen.
 
 **Mit Schreiben vom 12.05.2026:**
 > Sehr geehrte Frau Kornfeld,
 >
-> die Jahresabrechnung 2025 vom 14.04.2026 weist die CO2-Kosten nicht nach dem Stufenmodell § 5 ff. CO2KostAufG aus. Das Gas-Heizungsobjekt fällt unter Stufe 5 (27,35 kg CO2/m²; Aufteilung 60 %/40 %). Wir beanstanden die Abrechnung und bitten um Korrektur **vor** Verschickung an die Eigentuemer.
+> die Jahresabrechnung 2025 vom 14.04.2026 enthaelt nicht die nach § 2 Abs. 2 CO2KostAufG fuer die vermietenden Eigentuemer erforderlichen Angaben (Energietraeger, eingesetzte Brennstoffmenge, abgeleitete CO2-Emission, gebaeudespezifischer Wert in kg CO2/m2/a, Einstufung). Das Gas-Heizungsobjekt liegt nach unserer Berechnung bei 27,35 kg CO2/m2 (Stufe 5: 60 % Vermieter / 40 % Mieter). Die WEG-interne Verteilung der Heizkosten nach HeizkostenV bleibt unveraendert; wir bitten aber um Aufnahme der genannten Datenfelder **vor** Verschickung an die Eigentuemer, damit die vermietenden Eigentuemer ihrer Pflicht aus CO2KostAufG nachkommen koennen.
 >
 > Gleiche Beanstandung gilt nachtraeglich fuer 2023 und 2024. Wir behalten uns Rueckforderungs- und Beschlussanfechtungs-Rechte vor.
 >
@@ -83,7 +83,7 @@ Beiratsvorsitz beanstandet die Jahresabrechnung 2025 wegen Verstosses gegen § 7
 
 ## Anfechtungs-Risiko bei nicht-Korrektur
 
-Die Jahresabrechnung 2025 koennte nach § 44 WEG i.V.m. § 28 WEG anfechtbar sein, wenn die Beschlussfassung zur Genehmigung Mehrheit findet, aber das CO2KostAufG ignoriert.
+Anfechtungsrisiko: Eine Anfechtung des Genehmigungsbeschlusses nach § 44 WEG i.V.m. § 28 WEG **nur wegen fehlender CO2-Datenfelder** ist zweifelhaft, weil das CO2KostAufG die WEG-interne Verteilung nicht regelt. Mit hoeherer Erfolgsaussicht angreifbar ist der Abrechnungsbeschluss, wenn die fehlenden Datenangaben zu einer **unzureichenden Information der vermietenden Eigentuemer** fuehren und diese gegenueber ihren Mietern in Haftung geraten (§ 6 Abs. 1 CO2KostAufG: Pflichtverletzung des Vermieters bei fehlender Aufteilung). Praxisempfehlung: Korrektur vor Beschlussfassung; falls Beschluss bereits gefasst, separate Datenuebersicht nachreichen statt Anfechtung.
 
 **Fristen:**
 - Anfechtung: 1 Monat ab Beschlussfassung (§ 45 I WEG)

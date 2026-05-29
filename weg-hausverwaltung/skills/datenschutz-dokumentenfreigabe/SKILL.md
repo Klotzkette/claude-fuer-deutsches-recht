@@ -1,6 +1,6 @@
 ---
 name: datenschutz-dokumentenfreigabe
-description: "Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko, Verweis auf § 28 Abs. 4 WEG (Vermögensbericht) und Belegeinsicht-Logik."
+description: "Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko; Belegeinsicht nach § 18 Abs. 4 WEG (Verwaltungsunterlagen); § 28 Abs. 4 WEG nur für den Vermögensbericht."
 ---
 
 # Datenschutz und Dokumentenfreigabe
@@ -32,7 +32,9 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 
 ## Belegeinsicht / Vermögensbericht
 
-- § 28 Abs. 4 WEG: Vermögensbericht zur Information der Eigentümer; Belege auf Verlangen einsehbar.
+- **§ 18 Abs. 4 WEG**: Anspruch jedes Wohnungseigentümers auf Einsicht in die Verwaltungsunterlagen — das ist die Rechtsgrundlage für die Belegeinsicht (Rechnungen, Verträge, Kontoauszüge, Abrechnungsunterlagen). Anspruch besteht gegen die GdWE, in der Praxis erfüllt durch den Verwalter (https://www.gesetze-im-internet.de/woeigg/__18.html).
+- **§ 28 Abs. 4 WEG**: Anspruch auf Vorlage des Vermögensberichts (Aufstellung des Gemeinschaftsvermögens, Erhaltungsrücklage, Forderungen/Verbindlichkeiten) — nicht die Anspruchsgrundlage für die Belegeinsicht, sondern eigene Informationspflicht (https://www.gesetze-im-internet.de/woeigg/__28.html).
+- Praxis: Belegeinsicht auf Verlangen, Ort und Zeit billigerweise festlegen, kein Verbot der Anfertigung von Kopien/Fotos, soweit nicht durch Datenschutz Dritter (z. B. Mieter-Belege, Gehaltsabrechnungen Hauspersonal) eingeschränkt.
 - Empfehlenswert: kontrollierter Einsichtstermin oder geschütztes Portal mit Audit-Log.
 
 ## Mustertext Freigabeentscheidung
@@ -68,4 +70,4 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 
 ## Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. § 28 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__28.html ; DSGVO siehe Datenschutzrecht-Plugin.
+`rechtsstand-mai-2026-faktenbank` laden. § 18 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__18.html ; § 28 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__28.html ; DSGVO siehe Datenschutzrecht-Plugin.

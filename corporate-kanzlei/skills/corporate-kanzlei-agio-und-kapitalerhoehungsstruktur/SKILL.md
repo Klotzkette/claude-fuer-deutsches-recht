@@ -52,7 +52,7 @@ Das ist nicht atypisch sondern Standard. Wer mit einem Lead Investor verhandelt 
 | Stated Capital | Gezeichnetes Kapital Stammkapital | manchmal mit Grundkapital verwechselt (das ist AG-Begriff § 6 AktG) |
 | Issued Shares | Ausgegebene Geschäftsanteile | bei der GmbH gibt es keine Shares im US-Sinne |
 | Outstanding Shares | Ausgegebene und nicht eingezogene Geschäftsanteile | dasselbe wie Issued Shares minus Treasury Shares (in DE selten relevant) |
-| Authorized Capital | Genehmigtes Kapital (in der AG § 202 AktG in der GmbH gibt es das so nicht) | gelegentlich mit Stammkapital verwechselt |
+| Authorized Capital | Genehmigtes Kapital — bei der AG § 202 AktG, bei der GmbH seit MoMiG ausdrücklich § 55a GmbHG (für VC-Runden zunehmend genutzt; eigener Skill gesellschaftsgruender-genehmigtes-kapital im Repo) | gelegentlich mit Stammkapital verwechselt; früher verbreiteter Irrtum, GmbH kenne kein genehmigtes Kapital |
 | Pre-Money Valuation | Pre-Money-Bewertung Vor-Investitionsbewertung | unkritisch |
 | Post-Money Valuation | Post-Money-Bewertung | unkritisch |
 | Liquidation Preference 1x OPP | Einfache Liquidationspräferenz auf den Ausgabebetrag | wird oft als 1x Nennbetrag interpretiert — katastrophal für den Investor |
@@ -140,7 +140,7 @@ In Series-B-Runden stellt sich die Frage ob die Series-B-Liquidation-Preference 
 
 ### Bezugsrechtsausschluss bei Down-Rounds
 
-Bei Down-Rounds (Pre-Money unter letztem Post-Money) ist ein Bezugsrechtsausschluss zugunsten des Lead Investors oft notwendig. Sachliche Rechtfertigung nach Kali+Salz-Grundsatz (BGHZ 71, 40) erforderlich. Das Agio in der Down-Round ist niedriger oder negativ — was wirtschaftlich heißt: Verwässerung der Altgesellschafter mit höherer Hebelwirkung.
+Bei Down-Rounds (Pre-Money unter letztem Post-Money) ist ein Bezugsrechtsausschluss zugunsten des Lead Investors oft notwendig. Sachliche Rechtfertigung nach Kali+Salz-Grundsatz (BGHZ 71, 40) erforderlich. Das Agio in der Down-Round ist niedriger als in der Vorrunde oder Null — ein **negatives Agio ist rechtlich ausgeschlossen**, weil eine Ausgabe unter pari (Ausgabebetrag unter Nennbetrag) gegen § 9 Abs. 1 GmbHG / § 5 Abs. 2 GmbHG verstößt (Verbot der Unter-pari-Emission). Wirtschaftlich erreicht man die Verwässerung in einer Down-Round durch (i) sehr niedriges oder Null-Agio bei gleichem Nennbetrag, (ii) Ausgabe einer größeren Stückzahl neuer Geschäftsanteile zum reduzierten Preis je Anteil oder (iii) flankierende Instrumente (Wandeldarlehen, Anti-Dilution-Anpassung der bestehenden Series). Wer einem Mandanten ein negatives Agio vorschlägt, beschließt eine nichtige Kapitalerhöhung.
 
 ## Anfängerfehler im Corporate-Kontext
 

@@ -17,7 +17,7 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 2. **Leistungsbeschreibung** erstellen: gewünschtes Ergebnis, vorhandene Bausubstanz, Ausführungszeitfenster, einzuhaltende Normen.
 3. **Angebote vergleichbar machen**:
    - **Mindestens 2–3 Vergleichsangebote** bei substantiellen Maßnahmen (Schwellwerte im Verwaltervertrag/GO oder Beschluss verankert).
-   - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist, Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
+   - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist (abhängig von Werkart und VOB/B-Vereinbarung — siehe Mustertabelle), Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
 4. **Beschlussbedarf prüfen** (siehe Tabelle).
 5. **Beauftragung** mit klarer Vollmacht, Auftragsbestätigung, ggf. VOB/B-Vereinbarung, Versicherungsnachweis.
 6. **Nachträge** schriftlich vereinbaren (Mehrkostenrisiko sichtbar machen), Beirat ggf. einbinden.
@@ -41,7 +41,7 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 | --- | --- | --- | --- |
 | Brutto Festpreis | ... | ... | ... |
 | Ausführungszeit | ... | ... | ... |
-| Gewährleistungsfrist (Werkvertrag 5 J, VOB 4 J) | ... | ... | ... |
+| Gewährleistungsfrist (BGB: Bauwerk 5 J, sonstige Werkleistungen/Wartung 2 J — § 634a Abs. 1 BGB; VOB/B § 13 Abs. 4: Bauwerk 4 J, andere Arbeiten und Wartungsarbeiten 2 J, soweit VOB/B wirksam vereinbart) | ... | ... | ... |
 | Materialqualität / Typ | ... | ... | ... |
 | Ausgeschlossene Leistungen | ... | ... | ... |
 | Versicherung / Sachkunde | ... | ... | ... |
@@ -56,7 +56,7 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 > 2. Pauschalpreis brutto [Betrag] EUR (inkl. USt.).
 > 3. Ausführungszeitraum: [Beginn]–[Ende].
 > 4. Abnahme: gemeinsam vor Ort am [Datum].
-> 5. Gewährleistungsfrist: [5 / 4] Jahre ab Abnahme.
+> 5. Gewährleistungsfrist: [Bauwerk-Arbeit BGB 5 Jahre / Bauwerk-Arbeit mit wirksam vereinbarter VOB/B 4 Jahre / sonstige Werkleistung oder Wartung 2 Jahre — passend zur Auftragsart streichen] ab Abnahme.
 > 6. Versicherungsnachweis bitte bis [Datum] vorlegen.
 > 7. Nachträge nur schriftlich nach vorheriger Freigabe der Verwaltung.
 
