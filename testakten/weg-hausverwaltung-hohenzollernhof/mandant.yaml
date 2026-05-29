@@ -1,0 +1,53 @@
+mandant:
+  bezeichnung: WEG Hohenzollernhof
+  adresse: Hohenzollerndamm 180, 10713 Berlin-Wilmersdorf
+  rechtsform: Wohnungseigentuemergemeinschaft nach WEG
+  grundbuch:
+    amtsgericht: AG Charlottenburg
+    blatt: 47821
+    bestandsverzeichnis_nrn: "1-40"
+  einheiten:
+    wohnungen: 38
+    gewerbe: 2
+    stellplaetze_sondereigentum: 22
+    aussenstellplaetze_sondernutzung: 14
+  baujahr: 1908
+  miteigentumsanteile_basis: Nutzflaeche zuzueglich 25 % Aufschlag fuer Gewerbe
+  versicherungssumme_eur: 9840000
+  verwalter:
+    firma: Berlin-Domus Hausverwaltungs-GmbH
+    adresse: Bismarckstr. 87, 10625 Berlin
+    geschaeftsfuehrer: Markus Tröger
+    sachbearbeiter: Larissa Kornfeld
+    email: kornfeld@berlin-domus.de
+    vergueting_brutto_monat: 3570
+    vergueting_brutto_jahr: 42840
+    vertrag:
+      beginn: 2024-01-01
+      ende: 2027-12-31
+      eigentuemerbeschluss_top: TOP 7 EV 12.11.2023
+  beirat:
+    vorsitz: Dr. Annika Vogel-Schroth (WE 14)
+    beisitzer:
+      - Heinz-Otto Mertens (WE 32)
+      - Florentine Quast-Riedel (WE 21)
+    bestellung: EV 25.10.2024 TOP 9
+    amtszeit_ende: 2027-10-25
+  konfliktthemen_27_05_2026:
+    - balkonsanierung_12_balkone_hofseite_180000_240000_eur
+    - sonderumlage_beirat_6000_eur_pro_einheit
+    - steckersolar_5_antraege
+    - wallbox_antrag_yildiz_we_19
+    - hausgeldrueckstand_pasternak_we_3_3420_eur
+    - heizung_buderus_brennwertkessel_schwankungen
+    - co2_kostenaufteilung_2023_2024_2025_nicht_stufenmodell_konform
+  termine:
+    nächste_ev: 2026-06-17
+    einladungsfrist_tag: 2026-05-27
+  status_akte: in Vorbereitung Eigentuemerversammlung
+  testakte_zweck: |
+    Simuliert realistische Berliner Mittel-WEG mit allen typischen Konfliktthemen.
+    Bewusst unordentlich mit mehreren Fehlerquellen (Verteilungsschluessel, formale Beschluss-Maengel, CO2-Aufteilung).
+    Geeignet zum Test der weg-hausverwaltung-Skills: Eigentuemerversammlung vorbereiten,
+    Beschlussvorlagen schreiben, Wirtschaftsplan/Jahresabrechnung pruefen, Anfechtungs-
+    risiko bewerten, Hausgeldmahnung erstellen, bauliche Veraenderungen behandeln.
