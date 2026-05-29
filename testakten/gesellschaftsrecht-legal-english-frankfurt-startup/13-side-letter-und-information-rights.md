@@ -1,7 +1,5 @@
 # 13 Side Letter und Information Rights
 
-Datenraum-Auszug. Fiktiv. Zur Schulung der Lehre über Side Letters, Most Favoured Nation (MFN), Informationsrechte und Reporting-Pflichten im VC-Umfeld.
-
 ## Auszug Seed Side Letter Stahlauge Ventures GmbH, datiert 01.07.2023
 
 **Section 1 Information Rights**

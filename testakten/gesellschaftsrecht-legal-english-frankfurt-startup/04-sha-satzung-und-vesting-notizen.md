@@ -1,7 +1,5 @@
 # 04 SHA, Satzung und Vesting — Synopse Seed vs Series A
 
-> Fiktive Lehrakte. Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt.
-
 Diese Datei ist eine Arbeitsunterlage des Associates, die zentrale Bestimmungen der Satzung und des Seed-SHA dem Term Sheet (Datei 03) und dem geplanten Series-A-SHA gegenüberstellt. Sie ist bewusst tabellarisch und nicht beurkundungsreif. Die Partnerin Adelheid von Westarp hat den Auftrag erteilt, jede Diskrepanz als Verhandlungsfrage zu markieren.
 
 ---

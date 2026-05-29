@@ -1,7 +1,5 @@
 # 00 Deal Personen und Zeitleiste
 
-Fiktive Akte zu Schulungszwecken. Alle Namen, Unternehmen, Daten, Adressen, Beträge, Aktenzeichen und Vertragsklauseln sind frei erfunden. Übereinstimmungen mit realen Personen oder Unternehmen sind nicht beabsichtigt.
-
 ## Codename und Eckdaten
 
 | Punkt | Wert |
@@ -85,6 +83,6 @@ Fiktive Akte zu Schulungszwecken. Alle Namen, Unternehmen, Daten, Adressen, Betr
 - Sensibilität für Anfängerfehler: blinde Eindeutschung, Cap-Table-Gesellschafterlisten-Verwechslung, Übersehen des Wandeldarlehens, Beirat als Board behandeln.
 - Sauberer Übergang in Partnerbriefing, Mandantenmemo und Liste an Investor Counsel.
 
-## Wichtig für den Test
+## Offene Punkte zur Bearbeitung
 
-Diese Akte ist bewusst unrund. Sie enthält Widersprüche zwischen Term Sheet, Satzung, Seed-SHA, Wandeldarlehen und VSOP. Die Aufgabe besteht **nicht** darin, eine perfekte Verhandlungsposition zu schreiben, sondern die Widersprüche zu erkennen, in Partnerbriefing und Mandantenmemo zu übersetzen und für die Verhandlung sortiert vorzulegen.
+Die Akte ist im Arbeitsstand und enthält erkennbare Widersprüche zwischen Term Sheet, Satzung, Seed-SHA, Wandeldarlehen und VSOP. Die nächsten Schritte: die Widersprüche identifizieren, in Partnerbriefing und Mandantenmemo zusammenführen und für die anstehende Verhandlung sortiert vorlegen.

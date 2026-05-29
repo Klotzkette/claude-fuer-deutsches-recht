@@ -1,7 +1,5 @@
 # 12 Notar Checkliste und Handelsregisterlogik
 
-Interne Pre-Closing-Checkliste für die deutsche Notar- und Handelsregisterebene. Im Datenraum als „04 Closing/Notary" abgelegt. Fiktiv.
-
 ## Notariat und Termin
 
 | Punkt | Status |

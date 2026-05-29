@@ -1,7 +1,5 @@
 # 10 Wandeldarlehen Tante Ermelind Capital UG
 
-Fiktive Vertragskopie zur Schulung. Alle Personen, Beträge, Bedingungen sind frei erfunden.
-
 ## Convertible Loan Agreement, Stand 21.11.2024
 
 **Parties**
@@ -18,7 +16,7 @@ The Lender intends to support the Company prior to its Series A financing. The P
 
 1.1 The Lender shall grant a convertible loan in the principal amount of EUR 600,000.00 (six hundred thousand Euro) (the **Principal**).
 
-1.2 The Principal shall be disbursed to the Company's bank account at Frankfurter Volksbank (IBAN fiktiv DE89 3704 0044 0532 0130 00) within ten banking days after signing.
+1.2 The Principal shall be disbursed to the Company's bank account at Frankfurter Volksbank (IBAN DE89 3704 0044 0532 0130 00) within ten banking days after signing.
 
 ## Section 2 Interest
 

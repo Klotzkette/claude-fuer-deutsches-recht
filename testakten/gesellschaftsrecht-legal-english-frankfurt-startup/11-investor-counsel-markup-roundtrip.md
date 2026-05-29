@@ -1,11 +1,9 @@
 # 11 Investor Counsel Markup Roundtrip
 
-Fiktive E-Mail-Korrespondenz zwischen Brackenmuir & Quint LLP (Investor Counsel) und der Frankfurter Corporate-Praxis der Mandantenkanzlei. Zur Schulung leicht überzeichnet.
-
 ## Email 1 — Investor Counsel an Mandantenkanzlei
 
-**From:** Frieda Brackenmuir [mailto fiktiv f.brackenmuir@brackenmuir-quint.de]
-**To:** Adelheid von Westarp [mailto fiktiv vonwestarp@kanzlei.example]
+**From:** Frieda Brackenmuir <f.brackenmuir@brackenmuir-quint.de>
+**To:** Adelheid von Westarp <a.vonwestarp@hagemann-westarp.de>
 **Cc:** Vivienne Ostwald (Northbridge), Henning Lüttich (Northbridge), Deal Team
 **Date:** Mittwoch, 17:48 Uhr
 **Subject:** Project Comet Moth — Round 1 Markup Term Sheet
@@ -38,7 +36,7 @@ Best regards,
 Frieda
 
 Frieda Brackenmuir, Partner Corporate, Brackenmuir & Quint LLP
-Fiktive Adresse: Frankfurt am Main, Goetheplatz 7
+Brackenmuir & Quint LLP, Goetheplatz 7, 60313 Frankfurt am Main
 
 ## Email 2 — Mandantenkanzlei intern an Hildemar K.
 
@@ -52,7 +50,7 @@ Hildemar,
 
 bitte bereiten Sie bis morgen 11:00 eine erste Einschätzung zu folgenden Punkten vor:
 
-1. **Liquidation Preference 1x participating cap 2x**: was passiert wirtschaftlich beim Exit zu 15 Mio., 22 Mio., 35 Mio. und 80 Mio. EUR im Vergleich zur 1x non-participating? Bitte Waterfall mit fiktiven Annahmen, keine vorzeitige Mandantenkonsultation. Roswitha hilft beim Modell.
+1. **Liquidation Preference 1x participating cap 2x**: was passiert wirtschaftlich beim Exit zu 15 Mio., 22 Mio., 35 Mio. und 80 Mio. EUR im Vergleich zur 1x non-participating? Bitte Waterfall mit klar markierten Annahmen, keine vorzeitige Mandantenkonsultation. Roswitha hilft beim Modell.
 
 2. **Vesting Credit von 18 Monaten**: prüfen, ob diese 18 Monate kompatibel sind mit dem Seed-SHA, der ab 01.01.2024 36 Monate Reverse Vesting vorsieht. Wenn Series-A-Vesting ab Closing neu startet und nur 18 Monate Credit gewährt werden, wie viele Vesting-Monate verlieren die Gründer faktisch?
 

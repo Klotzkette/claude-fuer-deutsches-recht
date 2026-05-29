@@ -1,7 +1,5 @@
 # 24 Agio und Kapitalrücklage — Streitfrage Satzungsverankerung bei Kapitalerhöhung
 
-> **Fiktive Lehrakte.** Personen, Mandanten und Zitate sind erfunden. Übereinstimmungen mit realen Personen sind nicht beabsichtigt.
-
 ## Kontext im Deal
 
 Bei der Series-A-Runde von Kometenfalter Systems GmbH zahlt Northbridge Growth III SCS für 16.679 neue Geschäftsanteile zu einem Ausgabebetrag von ca. 287,77 EUR pro Anteil. Der Nennbetrag pro Geschäftsanteil ist 1,00 EUR. Die Differenz von 286,77 EUR pro Anteil ist das **Agio** (Aufgeld). Bei 18.069 Series-A-Anteilen sind das in Summe rund 5,182 Mio. EUR Agio — fast die gesamte Investitionssumme. Das Stammkapital steigt nur um 18.069 EUR von 30.000 auf 48.069 EUR.

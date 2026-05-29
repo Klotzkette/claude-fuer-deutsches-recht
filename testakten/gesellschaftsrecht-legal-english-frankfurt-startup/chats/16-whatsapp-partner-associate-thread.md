@@ -1,7 +1,5 @@
 # 16 WhatsApp Partner Associate Thread
 
-> Fiktiver Chat-Auszug zu Lehrzwecken. Der Thread ist bewusst informell, aber fachlich belastet: Er zeigt, wie schnell in Transaktionen aus einem scheinbar harmlosen Chat eine Arbeitsanweisung mit Cap-Table-, Notar- und Markup-Folgen wird.
-
 ## Donnerstag, 06:58 bis 08:21 Uhr
 
 **06:58 - Adelheid:** Guten Morgen. Northbridge hat nachts noch einmal wegen "fully diluted incl. pool and convertibles" nachgelegt. Bitte nicht einfach in die Gesellschafterliste kippen.
@@ -32,17 +30,4 @@
 
 **08:21 - Adelheid:** Ergebnis bis 10:30 bitte als 1-Seiter: Top-7 Begriffe, Top-5 deutsche Umsetzungsfragen, Top-3 Rückfragen an Mandantin, Senior-Gates.
 
-## Lernfragen
 
-1. Welche Chatnachricht ist nur Organisationshinweis, welche ist fachliche Arbeitsanweisung?
-2. Welche Begriffe dürfen nicht mechanisch übersetzt werden?
-3. Welche Stelle erzeugt eine Notar-/Registerfrage?
-4. Welche Rechenannahme muss zwingend in Excel sichtbar sein?
-5. Welche Antwort sollte Hildemar nie direkt an Investor Counsel schicken, bevor Adelheid sie gesehen hat?
-
-## Erwarteter Arbeitsmodus
-
-- Erst `anschauungsmaterial-multiformat-auswertung`: Chat als Quelle einordnen.
-- Dann `rookie-modus`: Top-Begriffe erklären.
-- Dann `cap-table-gesellschafterliste` und `fully-diluted-esop-option-pool`.
-- Danach `partner-briefing-memo`.

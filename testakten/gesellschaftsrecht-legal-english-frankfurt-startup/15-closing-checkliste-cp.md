@@ -1,7 +1,5 @@
 # 15 Closing Checkliste Conditions Precedent
 
-Interne Closing-Checkliste mit allen Conditions Precedent (CPs) und Closing Deliverables. Datenraum-Auszug. Fiktiv.
-
 ## CPs und Deliverables Gesamtübersicht
 
 | Nr. | Item | Type | Verantwortlich | Status | Dependencies |

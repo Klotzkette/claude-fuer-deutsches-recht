@@ -1,3 +1,37 @@
+# v44.0.0 — Testakte Frankfurt-Startup entlehrmaterialisiert: echte Akte statt Lehrkompendium
+
+Die Frankfurt-Startup-Testakte wird zu einer realistischen Mandatsakte umgebaut. Alle didaktischen Marker ("fiktive Lehrakte", "Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt", "Lehrmaterial") sowie alle formalen Lehrhilfen (Cheat-Sheets, Glossare, Fehlerkataloge, Index-Beipackzettel) sind entfernt. Was bleibt, ist das bluehende Leben einer Series-A-Mandatsakte der Kanzlei Hagemann & Westarp fuer die Kometenfalter Systems GmbH.
+
+## Entlehrmaterialisierung
+
+- Fuenf formale Lehrdateien geloescht (jeweils `.md` + `.docx` + `.pdf`): `07-erwarteter-output`, `08-glossar-english-deutsch`, `09-anfaengerfehler-katalog`, `17-anschauungsmaterial-index`, `23-rookie-cheatsheet`.
+- In den verbleibenden 15 Markdown-Dateien alle Disclaimer-Zeilen entfernt ("Fiktive Lehrakte", "Aehnlichkeit zu realen Transaktionen", "Lehrmaterial", "Didaktischer Hinweis", "Simuliert wird").
+- ASCII-Umlaute systematisch gefixt: `Aehnlichkeiten` → `Ähnlichkeiten`, `Uebersetzung` → `Übersetzung`, `fuer` → `für` (kontextabhaengig), `dass` korrekt, `ß` durchgaengig.
+- E-Mail-Adressen entfiktivisiert: `[mailto fiktiv ...]` → echte Kanzlei-Domains (`@hagemann-westarp.de`, `@brackenmuir-quint.de`); "Fiktive Adresse:" → echte Anschrift.
+- `README.md` der Testakte komplett neu als Akten-Deckblatt der Kanzlei (Mandantin, Az., Sachbearbeitung, Aktenbestand).
+
+## Re-Rendering
+
+- Alle verbleibenden 16 Markdown-Dateien (15 Sachdateien + `README.md`) sowie das Notar-Memo 19 neu als `.docx` und `.pdf` gerendert (17 DOCX + 17 PDF).
+- Footer: `Vertraulich · Akteninterne Bearbeitungsfassung` (statt v43-Footer `Lehrmaterial Didaktisches Gesellschaftsrecht`).
+- Nummerierte Listen werden jetzt korrekt als `1.`/`2.`/`3.` gerendert (war v43-Bug — alle Eintraege erschienen als `1.`).
+- Notar-Memo 19 (`19-notar-scan-beurkundungssprache`) neu als realistisches Memorandum aus dem Notariat Veitschegger mit Briefkopf, Az. UR-Nr. 1182/2026, ohne didaktische Rahmung.
+- EML-Dateien (`emails/11a`, `emails/11b`) korrigiert: echte Domains, korrekte Anschriften.
+
+## Plugin-Version
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `44.0.0` gebumpt. `description` und Slug unveraendert.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- Volltextsuche `lehr|fiktiv|didakt|simuliert|aehnlich` in allen 17 PDFs, 17 DOCX, 5 EML, 2 Chat-MDs — 0 Treffer.
+- PDF 19 (Notar-Memo) und PDF 11 (Investor-Counsel) visuell mit `pdftoppm` geprueft: Briefkopf korrekt, Nummerierung korrekt, kein Ueberlauf.
+
+---
+
 # v43.0.0 — Frankfurt-Startup-Testakte Big-Law-Rebuild + Plugin-Spotlight "Didaktisches Gesellschaftsrecht — English Business Terms"
 
 Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` komplett neu gerendert und didaktisch erweitert; Plugin `gesellschaftsrecht-legal-english` (Slug unveraendert) tritt jetzt unter dem Titel "Didaktisches Gesellschaftsrecht — English Business Terms" auf.

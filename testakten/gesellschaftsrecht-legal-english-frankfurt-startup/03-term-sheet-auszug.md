@@ -1,7 +1,5 @@
 # 03 Term Sheet Auszug
 
-> Hinweis: Fiktive Akte zu Lehrzwecken. Alle Namen, Zahlen und Klauseln sind erfunden; Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt.
-
 **Project Comet Moth — Series A Financing**
 **Company:** Kometenfalter Systems GmbH, HRB Frankfurt 137422
 **Lead Investor:** Northbridge Growth III SCS, Luxembourg (acting through its general partner Northbridge GP III S.a r.l.)

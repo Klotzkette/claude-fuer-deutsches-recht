@@ -1,8 +1,6 @@
 # 05 DD Red Flags und Client-Fragen
 
-> Fiktive Lehrakte. Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt.
-
-Dieses Dokument ist ein **Working Draft** des DD-Index aus dem virtuellen Datenraum "comet-moth-2026". Die Partnerin Adelheid von Westarp hat Hildemar K. beauftragt, jeden Befund mit (i) DD-Findung, (ii) Risiko-Einordnung, (iii) Frage an die Mandantin und (iv) möglichem Closing-Mechanismus zu versehen. Der Datenraumindex selbst hat über 600 Einträge; die nachfolgende Liste filtert die für Corporate-Legal-English-Didaktik relevanten Befunde.
+Dieses Dokument ist ein **Working Draft** des DD-Index aus dem virtuellen Datenraum "comet-moth-2026". Die Partnerin Adelheid von Westarp hat Hildemar K. beauftragt, jeden Befund mit (i) DD-Findung, (ii) Risiko-Einordnung, (iii) Frage an die Mandantin und (iv) möglichem Closing-Mechanismus zu versehen. Der Datenraumindex selbst hat über 600 Einträge; die nachfolgende Liste filtert die für das Series-A-Closing relevanten Befunde.
 
 ---
 

@@ -1,7 +1,5 @@
 # 06 Associate-Arbeitsstand mit Rotstift der Partnerin
 
-> Fiktive Lehrakte. Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt.
-
 Dieses Dokument ist Hildemar K.s Arbeitsstand vom 20.05.2026, 02:14 Uhr. Adelheid von Westarp hat am 21.05.2026 vormittags mit rotem Stift Anmerkungen vermerkt. Die Anmerkungen sind hier als Block-Quote unter dem jeweiligen Satz eingefügt. Sinn der Datei: dem Nachwuchs zeigen, wie eine Partnerin Anfängertexte umarbeitet — sachlich, hart, lehrreich.
 
 ---
@@ -60,7 +58,7 @@ To do: Prüfen, ob English long-form docs mit deutscher Notar- und Registerlogik
 
 > **AvW:** Ja, das funktioniert, aber nur mit Sorgfalt. Drei Punkte:
 
-> 1. **Notarielle Beurkundung** § 15 Abs. 3 GmbHG **verlangt deutsche Sprache** im Notarprotokoll, soweit die Beteiligten der deutschen Sprache mächtig sind (§ 5 BeurkG). Wenn ein Beteiligter nicht deutsch spricht, ist eine **schriftliche Uebersetzung** beizufügen, die der Notar für "richtig und vollständig" erklärt (§ 5 Abs. 2 BeurkG).
+> 1. **Notarielle Beurkundung** § 15 Abs. 3 GmbHG **verlangt deutsche Sprache** im Notarprotokoll, soweit die Beteiligten der deutschen Sprache mächtig sind (§ 5 BeurkG). Wenn ein Beteiligter nicht deutsch spricht, ist eine **schriftliche Übersetzung** beizufügen, die der Notar für "richtig und vollständig" erklärt (§ 5 Abs. 2 BeurkG).
 > 2. **Handelsregister** — die Anlagen zur Anmeldung müssen in deutscher Sprache eingereicht werden (§ 184 GVG analog, plus Registerverordnung).
 > 3. **SHA, Investment Agreement, Side Letter** können in englischer Sprache abgeschlossen werden, da sie **nicht** beurkundungsbedürftig sind, soweit sie nicht **die Übertragung von Geschäftsanteilen verpflichtend regeln** (§ 15 Abs. 4 GmbHG). Achtung: ein "Drag-Along" als schuldrechtliche Verpflichtung kann als verkaufsverpflichtend gelten und dann **beurkundungsbedürftig** sein. Strittig, aber konservativ: Notar einschalten.
 
