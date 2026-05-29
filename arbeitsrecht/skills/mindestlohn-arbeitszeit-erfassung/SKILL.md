@@ -89,8 +89,8 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 |---|---|---|
 | 1.1.2024 | EUR 12,41 | Vierte Mindestlohnanpassungsverordnung |
 | 1.1.2025 | EUR 12,82 | Vierte Mindestlohnanpassungsverordnung |
-| 1.1.2026 | EUR 13,90 | Fuenfte Mindestlohnanpassungsverordnung (Bundeskabinett 2025) |
-| 1.1.2027 | EUR 14,60 (vorgesehen) | Fuenfte Mindestlohnanpassungsverordnung |
+| 1.1.2026 | EUR 13,90 | Fuenfte Mindestlohnanpassungsverordnung vom 05.11.2025 (BGBl. 2025 I Nr. 268) |
+| 1.1.2027 | EUR 14,60 | Fuenfte Mindestlohnanpassungsverordnung vom 05.11.2025 (BGBl. 2025 I Nr. 268) |
 | Kuenftig | Empfehlung der Mindestlohn-Kommission, Umsetzung durch Verordnung BMAS | § 11 MiLoG |
 
 Quelle: bundesregierung.de / bmas.de (Pressemitteilung "Mindestlohn steigt zum 1. Januar 2026 auf 13,90 Euro"). Die Minijob-Verdienstgrenze passt sich an: 2026 = 603 EUR (Deutsche Rentenversicherung Baden-Wuerttemberg, Pressemitteilung 22.12.2025).

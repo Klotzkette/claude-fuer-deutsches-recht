@@ -67,6 +67,20 @@ Verbindung mit `fachanwalt-arbeitsrecht-orientierung` zur Mandatsaufnahme. Bei z
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
+## EU-Lohngerechtigkeitsrichtlinie 2023/970 (Umsetzungsfrist 07.06.2026)
+
+Die Richtlinie (EU) 2023/970 vom 10. Mai 2023 (ABl. L 132 vom 17.05.2023, S. 21) verpflichtet die Mitgliedstaaten zur Umsetzung bis zum 07. Juni 2026. Die nationale Umsetzung in deutsches Recht steht zum Stand Mai 2026 noch aus. Beratungsrelevante Pflichten:
+
+- Art. 5 — Vorvertragliche Entgelttransparenz: Auskunftspflicht des Arbeitgebers ueber Einstiegsgehalt oder Gehaltsspanne; Verbot, Bewerber nach der Gehaltshistorie zu fragen.
+- Art. 7 — Individueller Auskunftsanspruch ueber Durchschnittsentgelt nach Geschlecht fuer gleiche oder gleichwertige Arbeit; Frist zwei Monate.
+- Art. 9 — Berichtspflicht ueber das geschlechtsspezifische Entgeltgefaelle: ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (gestaffelte Uebergangsfristen).
+- Art. 10 — Gemeinsame Entgeltbewertung mit Arbeitnehmervertretung bei einem Entgeltgefaelle ab fuenf Prozent ohne sachliche Rechtfertigung.
+- Art. 16 — Schadensersatz ohne Obergrenze; volle Wiedergutmachung.
+- Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers bei Verletzung der Transparenzpflichten.
+- Art. 21 — Verjaehrungsfrist mindestens drei Jahre ab Kenntnis.
+
+Praxishinweis: Mandanten auf Geltungszeitpunkt hinweisen — unmittelbare Wirkung der Richtlinie greift nach Ablauf der Umsetzungsfrist, soweit Bestimmungen hinreichend bestimmt sind; richtlinienkonforme Auslegung des EntgTranspG ab Stichtag pruefen. Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
+
 ## Paragrafenkette
 
 - Art. 157 AEUV — Gleiches Entgelt für gleiche Arbeit

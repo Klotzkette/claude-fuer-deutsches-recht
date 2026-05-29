@@ -1,3 +1,21 @@
+# v29.0.1 — EU-Richtlinien-Nachzug, GVG-Streitwert ab 01.01.2026, Mietpreisbremse-Verlaengerung
+
+- **EU-Lohntransparenzrichtlinie 2023/970 nachgetragen** in `arbeitsrecht/skills/bag-equal-pay-paarvergleich-8azr30024/SKILL.md` und `fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich/SKILL.md`. Neue Bloecke fassen Art. 5 (vorvertragliche Transparenz, Verbot Gehaltshistorie), Art. 7 (Auskunft binnen zwei Monaten), Art. 9 (Berichtspflichten ab 250 / 150 / 100 Beschaeftigten), Art. 10 (gemeinsame Bewertung ab fuenf Prozent Gefaelle), Art. 16 (Schadensersatz ohne Obergrenze), Art. 18 (Beweislastumkehr bei Pflichtverletzung) und Art. 21 (Verjaehrung mindestens drei Jahre) zusammen. Umsetzungsfrist 07.06.2026; nationale Umsetzung steht zum Stand Mai 2026 noch aus. Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj
+- **EU-Plattformarbeitsrichtlinie 2024/2831 ausgearbeitet** in `arbeitsrecht/skills/arbeitnehmer-status/SKILL.md`. Einzeiler aus v29 ersetzt durch ausgearbeiteten Block mit Vermutungsregel zugunsten des Beschaeftigungsverhaeltnisses, Beweislastumkehr und Umsetzungsfrist 02.12.2026. Quelle: https://eur-lex.europa.eu/eli/dir/2024/2831/oj
+- **Mindestlohn ab 01.01.2026 / 01.01.2027 verifiziert** mit Fundstelle Fuenfte MindestlohnAnpassungsverordnung vom 05.11.2025, BGBl. 2025 I Nr. 268 — in `arbeitsrecht/skills/allgemein/SKILL.md` und `arbeitsrecht/skills/mindestlohn-arbeitszeit-erfassung/SKILL.md`. 13,90 EUR ab 01.01.2026; 14,60 EUR ab 01.01.2027.
+- **GVG-Streitwertgrenze korrigiert** in `mietrecht/skills/klageentwurf-amtsgericht/SKILL.md`. Frontmatter und Body benennen jetzt das Gesetz zur Staerkung der Amtsgerichte in Zivilsachen (Bundesrat-Billigung 21.11.2025, Inkrafttreten 01.01.2026) statt der falschen "Justizmodernisierung 2024". Anwaltszwang ebenfalls ab zehntausend Euro; Berufungsbeschwer in § 511 Abs. 2 Nr. 1 ZPO von 600 auf 1.000 Euro angehoben. Uebergangsregelung: vor 01.01.2026 anhaengige Verfahren bleiben bei fünftausend Euro. Quelle: BRAK-Nachrichten 24/2025 vom 26.11.2025.
+- **BGH-Rechtsprechung zur Zahlungsverzugskuendigung ergaenzt** in `mietrecht/skills/mahnung-zahlungsverzug-mieter/SKILL.md`: BGH, Urt. v. 01.07.2020 – VIII ZR 323/18 (Schonfristzahlung beseitigt nur die fristlose Kuendigung, hilfsweise ordentliche bleibt wirksam; § 574 Abs. 1 Satz 2 BGB ausgeschlossen) und BGH, Beschl. v. 08.12.2021 – VIII ZR 32/20 (Erheblichkeit nach § 573 Abs. 2 Nr. 1 BGB anhand der Gesamthoehe des Rueckstands). VIII ZR 287/23 vom 09.07.2025 aus v29 unveraendert erhalten.
+- **Mietpreisbremse-Verlaengerung dokumentiert** in `mietrecht/skills/mietspiegel-quellen/SKILL.md`. Neuer Block zum Verlaengerungsgesetz vom 17.07.2025 (BGBl. 2025 I Nr. 163, § 556d Abs. 2 Satz 4 BGB bis 31.12.2029) sowie BVerfG-Nichtannahmebeschluss vom 08.01.2026 – 1 BvR 183/25 (Verfassungsbeschwerde gegen die Verlaengerung erfolglos; Bestaetigung der Linie aus 1 BvL 1/18).
+- **Versionsbump.** `arbeitsrecht`, `fachanwalt-arbeitsrecht` und `mietrecht` auf `29.0.1` in `<plugin>/.claude-plugin/plugin.json` und in `.claude-plugin/marketplace.json`.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler, 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
 # v24.2.0 — References-Einzelfix und UNVERIFIABLE-Online-Check
 
 - **Welle 5 — References-Einzelfix.** Die 16 in v24.1.0 noch offenen toten `references/`-Verweise einzeln durchgegangen. 14 waren falsch-positiv (Aufloesungspfade, ASCII-Tree-Beispiele, generierte Skills). 1 echter Bug gefixt: `produktrecht/skills/produktrecht-kaltstart-interview` verwies auf `references/launch-pruefung-framework-de.md`, korrigiert auf den realen Pfad `produktrecht/skills/launch-pruefung/references/seven-category-framework.md`. 2 Laufzeit-Cache-Verweise (`kanzlei-builder-hub`: `registry-cache.json`, `surfaced.json`) durch leere `references/`-Verzeichnisse mit `README.md`-Hinweis dokumentiert.

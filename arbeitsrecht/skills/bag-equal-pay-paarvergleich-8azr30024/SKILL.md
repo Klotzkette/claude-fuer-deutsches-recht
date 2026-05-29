@@ -49,6 +49,20 @@ Tragender Punkt: Nach BAG 23.10.2025 - 8 AZR 300/24 genuegt ein Paarvergleich mi
 
 Der Anspruch richtet sich auf Entgeltnachzahlung für den Differenzbetrag (Paragraf 3 Absatz 1, Paragraf 7 EntgTranspG, Paragraf 611a BGB). Zusätzlich kommt Entschädigung nach Paragraf 15 Absatz 2 AGG in Betracht. Die Geltendmachungsfrist nach Paragraf 15 Absatz 4 AGG (zwei Monate) ist zu beachten, betrifft aber nur die Entschädigung, nicht den Anspruch auf gleiches Entgelt.
 
+## Ausblick EU-Lohntransparenzrichtlinie 2023/970
+
+Die Richtlinie (EU) 2023/970 des Europäischen Parlaments und des Rates vom 10. Mai 2023 zur Staerkung der Anwendung des Grundsatzes des gleichen Entgelts fuer Maenner und Frauen bei gleicher oder gleichwertiger Arbeit durch Entgelttransparenz und Durchsetzungsmechanismen (ABl. L 132 vom 17.05.2023, S. 21) ist bis zum 07. Juni 2026 in deutsches Recht umzusetzen. Nationale Umsetzung steht zum Stand Mai 2026 noch aus; ein Referentenentwurf zur Aenderung des EntgTranspG ist angekuendigt. Praxisrelevante Pflichten der Richtlinie:
+
+- Art. 5 — Vorvertragliche Entgelttransparenz: Bewerber haben Anspruch auf Information ueber das Einstiegsentgelt oder dessen Spanne; Verbot, nach der bisherigen Gehaltshistorie zu fragen.
+- Art. 7 — Auskunftsanspruch der Beschaeftigten ueber das eigene Entgelt und das durchschnittliche Entgelt nach Geschlecht fuer gleiche oder gleichwertige Arbeit; Antwort binnen zwei Monaten.
+- Art. 9 — Berichtspflicht des Arbeitgebers ueber das geschlechtsspezifische Entgeltgefaelle: Arbeitgeber ab 250 Beschaeftigten jaehrlich, ab 150 alle drei Jahre, ab 100 alle drei Jahre (nach Uebergangsfristen).
+- Art. 10 — Gemeinsame Entgeltbewertung mit Arbeitnehmervertretung, wenn das Entgeltgefaelle bei einer Arbeitnehmerkategorie mindestens fuenf Prozent betraegt und nicht durch geschlechtsneutrale Faktoren erklaerbar ist.
+- Art. 16 — Schadensersatz ohne Obergrenze; volle Wiedergutmachung einschliesslich entgangenem Entgelt, Boni und Sachleistungen.
+- Art. 18 — Beweislastumkehr zu Lasten des Arbeitgebers, sobald dieser Transparenzpflichten verletzt hat.
+- Art. 21 — Verjaehrungsfrist mindestens drei Jahre ab Kenntnis der Diskriminierung.
+
+Quelle: https://eur-lex.europa.eu/eli/dir/2023/970/oj — vor Beratung ueberpruefen, ob das Umsetzungsgesetz inzwischen verkuendet ist.
+
 ## Anschluss
 
 In Kombination mit `agg-pruefung-bewerber-und-beschaeftigte` für die generelle AGG-Prüfung und `mandat-triage-arbeitsrecht` für die Mandatsaufnahme. Zur Geltendmachung im Prozess die Hinweise aus `kueschk-klageschrift-anwalt-baustein` analog für die Equal-Pay-Klage anwenden.

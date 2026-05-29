@@ -39,7 +39,14 @@ Bevor losgelegt wird, kläre:
 ## Aktuelle Rechtsprechung
 
 - **BAG, Urteil vom 01.12.2020 - 9 AZR 102/20** (Crowdworker / Plattformarbeit): Auch ein Crowdworker, der ueber eine Smartphone-App Mikroauftraege erfuellt, kann Arbeitnehmer sein, wenn die organisatorische Einbindung (z.B. Anreizsystem mit Stufen / Level / Bewertung) ihn zur staendigen Auftragsannahme veranlasst und faktisch fremdbestimmte Arbeit erzwingt. Eine starre vertragliche Bezeichnung ist unerheblich; entscheidend ist die tatsaechliche Durchfuehrung. Quelle: dejure.org-Vernetzung BAG 01.12.2020 - 9 AZR 102/20.
-- Hinweis: BAG hat den Crowdworker-Status seitdem nicht generell ausgeweitet, jeder Einzelfall ist anhand der typusbildenden Merkmale (Weisungsgebundenheit, persoenliche Abhaengigkeit, Fremdbestimmung) zu pruefen. EuGH-Plattformarbeitsrichtlinie (RL 2024/2831) ist mit Umsetzungsfrist bis Dez. 2026 zu beobachten.
+- Hinweis: BAG hat den Crowdworker-Status seitdem nicht generell ausgeweitet, jeder Einzelfall ist anhand der typusbildenden Merkmale (Weisungsgebundenheit, persoenliche Abhaengigkeit, Fremdbestimmung) zu pruefen.
+- **EU-Plattformarbeitsrichtlinie (EU) 2024/2831 vom 23.10.2024** (ABl. L vom 11.11.2024; CELEX 32024L2831) - Umsetzungsfrist 02.12.2026:
+  - **Widerlegbare gesetzliche Vermutung** eines Arbeitsverhaeltnisses (Art. 5): liegen Tatsachen vor, die auf Steuerung und Kontrolle hindeuten, wird ein Arbeitsverhaeltnis vermutet; **die Beweislast fuer das Nichtbestehen liegt bei der digitalen Arbeitsplattform**; gilt nur fuer Zeitraeume ab 02.12.2026 (keine Rueckwirkung).
+  - **Algorithmisches Management (Kapitel III)**: Verbot der Verarbeitung bestimmter Daten (emotionaler Zustand, Privatgespraeche, Gewerkschaftszugehoerigkeit, sensible Merkmale, biometrische Identifizierung); Pflicht zur Datenschutz-Folgenabschaetzung mit Einbindung der Beschaeftigtenvertreter; Transparenzpflicht ueber Einsatz und Funktionsweise automatisierter Systeme.
+  - **Menschliche Aufsicht**: Entscheidungen ueber **Kontosperrung oder Vertragsbeendigung** muessen zwingend von einem Menschen getroffen werden; Recht auf Erklaerung und Ueberpruefung automatisierter Entscheidungen innerhalb von zwei Wochen.
+  - **Anwendungsbereich**: gilt fuer Plattformarbeitende mit Arbeitsvertrag/Arbeitsverhaeltnis; Vorschriften zum algorithmischen Management auch fuer Personen ohne Arbeitsvertrag.
+  - Umsetzung in deutsches Recht (vermutlich Aenderung BGB, BetrVG, NachweisG) steht aus; Praxis sollte im Mandat bereits ab 2026 die Vermutungsregel mitdenken.
+  - Quelle: eur-lex.europa.eu - https://eur-lex.europa.eu/eli/dir/2024/2831/oj
 - Aktualisierungen vor Schriftsatzverwendung in offenen Quellen (dejure.org, openjur.de, bundesarbeitsgericht.de, bundessozialgericht.de) pruefen.
 
 ## Quellenregel

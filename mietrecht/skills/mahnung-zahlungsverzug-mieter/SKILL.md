@@ -89,6 +89,8 @@ Vor Versand der fristlosen Kündigung: fachanwaltliche Prüfung der Rückstandsb
 ## Aktuelle Rechtsprechung — Leitsaetze
 
 - BGH, Urt. v. 09.07.2025 – Az. VIII ZR 287/23 — Schonfristzahlung nach § 569 Abs. 3 Nr. 2 BGB heilt nur die fristlose, nicht die ordentliche Kuendigung wegen Zahlungsverzugs. Klarstellung des Streits mit dem LG Berlin II. Folge: Doppelkuendigung (fristlos hilfsweise ordentlich) bleibt die strategisch sichere Loesung fuer den Vermieter. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.07.2025&Aktenzeichen=VIII+ZR+287/23
+- BGH, Urt. v. 01.07.2020 – Az. VIII ZR 323/18 — Schonfristzahlung (§ 569 Abs. 3 Nr. 2 BGB) beseitigt nur die fristlose Kuendigung wegen Zahlungsverzugs; eine hilfsweise erklaerte ordentliche Kuendigung nach § 573 Abs. 2 Nr. 1 BGB bleibt wirksam. Ein Ausschluss der Sozialklausel § 574 Abs. 1 Satz 2 BGB greift, weil ein Grund vorliegt, der den Vermieter zur fristlosen Kuendigung berechtigt hätte. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=01.07.2020&Aktenzeichen=VIII+ZR+323/18
+- BGH, Beschl. v. 08.12.2021 – Az. VIII ZR 32/20 — Erheblichkeit des Mietrueckstands im Sinne von § 573 Abs. 2 Nr. 1 BGB; massgeblich ist die Gesamthoehe des Rueckstands, nicht die Aufgliederung in einzelne Monatsbetraege. Bestaetigt die Wertungslinie zur ordentlichen Kuendigung neben der fristlosen. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.12.2021&Aktenzeichen=VIII+ZR+32/20
 - Weitere Rechtsprechungslinien des VIII. ZS zu § 543, § 569 BGB vor Ausgabe ueber https://www.bundesgerichtshof.de und https://dejure.org verifizieren.
 
 ## Basiszinssatz § 247 BGB und Verzug

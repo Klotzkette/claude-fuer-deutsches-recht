@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-amtsgericht
-description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG (zehntausend Euro seit Reform 2024). Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach.
+description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen; davor fünftausend Euro. Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach.
 ---
 
 # Klageentwurf zum Amtsgericht (Mietsache)
@@ -14,7 +14,7 @@ Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerich
 ### Schritt 1 — Sachliche Zuständigkeit
 
 - **Wohnraummietsachen** — Amtsgericht ist nach § 23 Nr. 2a GVG zuständig für Streitigkeiten aus Mietverhältnissen über Wohnraum **ohne Rücksicht auf den Streitwert**.
-- **Geschäftsraummiete** — allgemeine Streitwertgrenze des § 23 Nr. 1 GVG: AG bis **zehntausend Euro** (Erhöhung von zuvor fünftausend Euro durch die Justizmodernisierung 2024); darüber LG (§ 71 GVG).
+- **Geschäftsraummiete** — allgemeine Streitwertgrenze des § 23 Nr. 1 GVG: AG bis **zehntausend Euro** ab dem 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen (Bundesrat-Billigung 21.11.2025, Inkrafttreten 01.01.2026); darüber LG (§ 71 GVG). Übergangsregelung: Für vor dem 01.01.2026 anhängig gewordene Verfahren bleibt die alte Wertgrenze von fünftausend Euro maßgeblich. Quelle: BRAK-Nachrichten 24/2025 vom 26.11.2025. Anwaltszwang vor dem Landgericht greift ebenfalls erst ab zehntausend Euro Streitwert; die Berufungsbeschwer in § 511 Abs. 2 Nr. 1 ZPO wurde zugleich von 600 Euro auf 1.000 Euro angehoben.
 - Streitwert ist in jedem Fall zu berechnen (für Kosten und Berufungssumme).
 
 ### Schritt 2 — Örtliche Zuständigkeit (§ 29a ZPO)

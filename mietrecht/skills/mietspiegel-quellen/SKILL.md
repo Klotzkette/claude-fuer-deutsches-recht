@@ -166,6 +166,13 @@ Der Skill übergibt an `mieterhoehung-pruefen-widersprechen` mit `ergebnis.bewer
 
 Diese Quellensammlung ersetzt keine Rechtsberatung. Sie ist ein Werkzeug zur Recherche amtlicher Quellen. Vor jeder Verwendung den Aktualitätsstand auf der jeweiligen amtlichen Seite prüfen. Die Letztverantwortung für die Anwendung im Einzelfall liegt beim Anwalt.
 
+## Aktueller Gesetzgebungsstand zur Mietpreisbremse (Bund)
+
+- **Verlängerungsgesetz vom 17.07.2025** — BGBl. 2025 I Nr. 163. § 556d Abs. 2 Satz 4 BGB wurde dahingehend geaendert, dass die Ermächtigung der Landesregierungen zum Erlass von Mietpreisbremse-Verordnungen bis zum 31.12.2029 verlängert wurde. Ohne diese Verlängerung wären die Landesverordnungen spätestens Ende 2025 ausgelaufen.
+- **BVerfG, Nichtannahmebeschluss vom 08.01.2026 – Az. 1 BvR 183/25** — Verfassungsbeschwerde gegen die Verlängerung der Mietpreisbremse erfolglos. Das BVerfG hält an seiner Linie aus 1 BvL 1/18 vom 18.07.2019 fest: §§ 556d ff. BGB sind mit Art. 14 GG vereinbar; die Verlängerung ist ein verhältnismässiger Eingriff in die Eigentumsgarantie.
+- **Praxisfolge**: Für Neuvermietungen ab dem 01.01.2026 in Bundesländern mit Mietpreisbremse-Verordnung gilt die Begrenzung auf 110 Prozent der ortsueblichen Vergleichsmiete fort. Vor Beratung pruefen, ob die jeweilige Landesverordnung selbst noch in Kraft ist oder verlängert wurde — die Bundesregelung ermächtigt nur, sie verpflichtet nicht.
+- Quellen: BGBl. 2025 I Nr. 163 — https://www.recht.bund.de/bgbl/1/2025/163 ; BVerfG-Entscheidungssuche — https://www.bundesverfassungsgericht.de/SiteGlobals/Forms/Suche/EN/Entscheidungensuche_Formular.html
+
 ## Aktuelle Rechtsprechung — Leitsaetze Mietspiegel
 
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.

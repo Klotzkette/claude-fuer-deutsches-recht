@@ -373,5 +373,7 @@ Das Plugin richtet sich an Kanzleien und Syndikusrechtsanwaelte, die sowohl Arbe
 - BAG, 13.09.2022 - 1 ABR 22/21 (Arbeitszeiterfassung) - dejure.org-Vernetzung
 - BAG, 22.09.2022 - 8 AZR 4/21 (NachweisG-Schadensersatz) - dejure.org-Vernetzung
 - BSG, 12.07.2006 - B 11a AL 47/05 R (Sperrzeit-Vermeidung) - dejure.org-Vernetzung
-- Mindestlohn: 12,82 EUR ab 01.01.2025; **13,90 EUR ab 01.01.2026**; 14,60 EUR ab 01.01.2027 (vorgesehen, Fuenfte Mindestlohnanpassungsverordnung) - Quelle: bundesregierung.de / bmas.de
+- Mindestlohn: 12,82 EUR ab 01.01.2025; **13,90 EUR ab 01.01.2026**; 14,60 EUR ab 01.01.2027 (Fuenfte Mindestlohnanpassungsverordnung vom 05.11.2025, BGBl. 2025 I Nr. 268) - Quelle: bundesregierung.de / bmas.de
 - Minijob-Grenze 2026: 603 EUR / Monat - Quelle: Deutsche Rentenversicherung Baden-Wuerttemberg
+- EU-Plattformarbeitsrichtlinie 2024/2831 (ABl. L vom 11.11.2024) - Umsetzungsfrist 02.12.2026: widerlegbare gesetzliche Vermutung eines Arbeitsverhaeltnisses bei Plattformarbeit; Beweislast bei der Plattform; Regelungen zum algorithmischen Management; Umsetzung in deutsches Recht steht aus - Quelle: eur-lex.europa.eu (CELEX 32024L2831)
+- EU-Lohntransparenzrichtlinie 2023/970 (ABl. L 132 vom 17.05.2023) - Umsetzungsfrist 07.06.2026: Auskunftsanspruch zu individuellen und durchschnittlichen Entgelthoehen; Pflicht zur Angabe von Einstiegsentgelt oder Spanne in Stellenausschreibungen; Verbot der Frage nach Gehaltshistorie; Beweislastumkehr bei Verletzung von Transparenzpflichten; Berichterstattung ab 250 Beschaeftigten ab 07.06.2027 jaehrlich; Umsetzung in deutsches Recht steht aus - Quelle: eur-lex.europa.eu (CELEX 32023L0970)
