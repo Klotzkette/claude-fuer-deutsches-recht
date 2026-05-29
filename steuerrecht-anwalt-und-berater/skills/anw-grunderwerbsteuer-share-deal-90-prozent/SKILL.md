@@ -1,6 +1,6 @@
 ---
 name: anw-grunderwerbsteuer-share-deal-90-prozent
-description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht GrESt-Pflicht. 90-Prozent-Schwelle ab 01.07.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG Personengesellschaft § 1 Abs. 2b GrEStG Kapitalgesellschaft § 1 Abs. 3 AO unmittelbare Vereinigung § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist RETT-Blocker-Strukturen Anzeigepflicht § 19 GrEStG. Output GrESt-Prüfprotokoll Strukturierungs-Empfehlung Anzeige-Vorlage."
+description: "Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht GrESt-Pflicht. 90-Prozent-Schwelle ab 01.07.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG Personengesellschaft § 1 Abs. 2b GrEStG Kapitalgesellschaft § 1 Abs. 3 GrEStG unmittelbare Vereinigung § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist RETT-Blocker-Strukturen Anzeigepflicht § 19 GrEStG. Output GrESt-Prüfprotokoll Strukturierungs-Empfehlung Anzeige-Vorlage."
 ---
 
 # Grunderwerbsteuer bei Share Deals — 90-%-Schwelle, Anzeigepflicht, Gestaltung

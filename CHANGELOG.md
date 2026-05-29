@@ -1,3 +1,25 @@
+# v38.0.0 — Sanity-Check Tax + Bug-Fix § 1 Abs. 3 GrEStG statt AO
+
+Sanity-Check des Tax-Commits `4ab560c2` (16 neue GrESt- und Grundsteuer-Skills, zwei neue Testakten). Validatoren alle grün, Rechtsstand-Anker verifiziert (§ 6a GrEStG noch 95 %, BFH II B 13/25, II B 23/25, II B 47/25, BFH II R 25/24 zum Bundesmodell, BVerfG 1 BvL 11/14). Ein Bug gefunden und behoben.
+
+## Bug-Fix
+
+- **`anw-grunderwerbsteuer-share-deal-90-prozent` description**: Die YAML-`description` hatte den falschen Normverweis `§ 1 Abs. 3 AO` (Abgabenordnung) statt `§ 1 Abs. 3 GrEStG`. Im Body war die Norm korrekt zitiert; nur das Suchmetadatum-Feld war vertauscht. Korrigiert.
+
+## Plugin-Versionsbumps
+
+- `steuerrecht-anwalt-und-berater` 36.1.0 → 37.0.0
+- `.claude-plugin/marketplace.json` synchronisiert
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- Forbidden-Frontmatter-Check — leer
+
+---
+
 # v37.0.0 — Codex-Round-4-Fixes: CO2KostAufG-Datenpflichten richtig zuordnen
 
 Drei Codex-Findings zur Testakte `11-co2kostaufg-aufteilungspruefung.md` aus dem v36-PR behoben:
