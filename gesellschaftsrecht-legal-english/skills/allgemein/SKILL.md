@@ -53,6 +53,8 @@ Vermeide einen Vorlesungsstart. Besser ist ein kleiner, handhabbarer erster Schr
 | "Ich habe Screenshots, Excel, PDFs, Chats" | Multi-Format-Auswertung: Dokumentkarte je Quelle | `anschauungsmaterial-multiformat-auswertung` |
 | "Es geht um Zahlen" | Rechenanker, Annahmen, Kontrollformel | `cap-table-gesellschafterliste`, `fully-diluted-esop-option-pool`, `liquidation-preference-waterfall` |
 | "Englischer Vertrag, deutsches Recht" | Sprach-/Rechtswahl-/Beurkundungs-Gate | `deutsches-recht-englische-vertraege` |
+| "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" | § 19 Abs. 4/5 GmbHG-Pruefung, Anrechnungsloesung, Heilung | `verdeckte-sacheinlage` |
+| "Wir machen Vertragsrecht, BGB AT ist egal" | Gegencheck: Form, § 162, § 181, § 307, § 444 BGB, Einheitstheorie | `bgb-at-schuldrecht-at-im-ma` |
 
 ## Didaktischer Standardablauf
 

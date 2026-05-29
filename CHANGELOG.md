@@ -1,3 +1,26 @@
+# v47.1.0 — Plugin gesellschaftsrecht-legal-english: zwei neue Grundlagen-Skills
+
+Reaktion auf den Hinweis aus der Praxis (LinkedIn-Diskussion vom 29.05.2026), dass M&A-Anwaelte regelmaessig Basics aus BGB AT, Schuldrecht AT und Kapitalaufbringungsrecht uebersehen, weil sie M&A fuer reines Vertragsrecht halten. Gerade in Zeiten breiter KI-Nutzung bleibt das Grundlagenwissen entscheidend, damit Ergebnisse richtig interpretiert werden.
+
+Zwei neue Skills im Plugin `gesellschaftsrecht-legal-english`:
+
+- **`verdeckte-sacheinlage`**: erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG. Anrechnungsloesung seit MoMiG, Vorbelastungshaftung, Pruefraster mit sieben Schritten, typische M&A-Fallen (Cash-In-Series-A plus Akquisition, Wandeldarlehen, Verrechnungsabreden, Sale-and-lease-back, Beraterhonorar an Investor), klare Heilungswege.
+- **`bgb-at-schuldrecht-at-im-ma`**: macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen. Zehnstufiges Pruefraster: Form und Einheitstheorie § 15 Abs. 4 GmbHG, Stellvertretung §§ 164 ff. und § 181 BGB, Bedingungseintritt und -vereitelung § 162 BGB, AGB-Kontrolle §§ 305 ff. und § 307 BGB auch im B2B, Treu und Glauben § 242 BGB fuer reasonable-/best-efforts, Anfechtung §§ 119, 123 BGB und Sperre des § 444 BGB. Konkrete Falleinordnungen mit Heilungswegen.
+
+Beide Skills sind in der Fuehrungsmatrix des `allgemein`-Routing-Skills erfasst, damit Nutzer mit Aussagen wie "Wir machen Vertragsrecht, BGB AT ist egal" oder "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" direkt auf die richtige Stelle geroutet werden.
+
+## Plugin-Version
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `47.1.0` gebumpt (Skill-Anzahl von 30 auf 32). Description und Slug unveraendert.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
 # v47.0.0 — Schlussrunde Testakten, Übersichten und quellenfeste Schriftformakte
 
 Große Abschlussrunde über den Akten- und Release-Bestand:
