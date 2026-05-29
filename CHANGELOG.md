@@ -1,3 +1,14 @@
+# v47.1.1 — Plugin gesellschaftsrecht-legal-english: Codex-Feedback zu bgb-at-schuldrecht-at-im-ma
+
+Reaktion auf zwei P2-Badges aus dem Codex-Review zu PR #142:
+
+- **§ 343 BGB qualifiziert auf Kaufleute (§ 348 HGB):** Die fruehere Aussage "Im B2B kein § 343 BGB-Schutz" war zu pauschal. Der Ausschluss der richterlichen Herabsetzung greift nach § 348 HGB nur, wenn ein Kaufmann die Vertragsstrafe im Betrieb seines Handelsgewerbes verspricht. Fuer Freiberufler, nicht-gewerbliche GbRs und Unternehmer ohne Kaufmannseigenschaft bleibt § 343 BGB anwendbar. Wurde sauber qualifiziert.
+- **Falsche BGH-Zitate ersetzt:** BGH I ZR 17/05 (Pralinenform II) ist Markenrecht und keine Best-Efforts-/§ 242-Entscheidung. BGH VIII ZR 244/97 betrifft Leasing-AGB und nicht die Einheitstheorie. Beide entfernt. Neu: BGH II ZR 155/85 (14.04.1986) und BGH VIII ZR 329/99 (27.06.2001, NJW 2002, 142) zur Reichweite des Beurkundungserfordernisses nach § 15 Abs. 4 GmbHG. Die Best-Efforts-Auslegung wird nun dogmatisch ueber § 242 BGB hergeleitet, ohne unpassende Einzelfallzitate. AGB-B2B-Quelle ersetzt durch BGH VII ZR 58/14 (22.10.2015).
+
+## Plugin-Version
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `47.1.1` gebumpt. Description und Slug unveraendert. Skill-Anzahl unveraendert (32).
+
 # v47.1.0 — Plugin gesellschaftsrecht-legal-english: zwei neue Grundlagen-Skills
 
 Reaktion auf den Hinweis aus der Praxis (LinkedIn-Diskussion vom 29.05.2026), dass M&A-Anwaelte regelmaessig Basics aus BGB AT, Schuldrecht AT und Kapitalaufbringungsrecht uebersehen, weil sie M&A fuer reines Vertragsrecht halten. Gerade in Zeiten breiter KI-Nutzung bleibt das Grundlagenwissen entscheidend, damit Ergebnisse richtig interpretiert werden.

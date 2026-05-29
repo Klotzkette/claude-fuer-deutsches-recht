@@ -29,7 +29,7 @@ Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtsw
 - **"Best efforts" ohne Definition:** Auslegung ueber § 242 BGB; das Ergebnis ist in der Regel sachlicher und niedriger als das, was die englische Rechtspraxis darunter versteht.
 - **CP-Vereitelung:** Der Verkaeufer unterlaesst Handlungen, die zum CP-Eintritt fuehren wuerden. § 162 BGB fingiert den Eintritt. Wirkt zwingend, jedes "exclusive remedy"-Wording dagegen ist unwirksam.
 - **MAC-Klausel als AGB:** Wenn die MAC-Klausel von einer Seite gestellt und nicht ausgehandelt ist, droht § 307 BGB-Inhaltskontrolle.
-- **Vertragsstrafe und Liquidated Damages:** Sind als pauschalierter Schadensersatz nach §§ 339 ff. BGB zu pruefen. Im B2B kein § 343 BGB-Schutz, aber AGB-Kontrolle ueber § 307 BGB.
+- **Vertragsstrafe und Liquidated Damages:** Sind als pauschalierter Schadensersatz nach §§ 339 ff. BGB zu pruefen. § 343 BGB (richterliche Herabsetzung) ist nur bei kaufmaennischer Vertragsstrafe gemaess § 348 HGB ausgeschlossen; das setzt eine Vertragsstrafe voraus, die ein Kaufmann im Betrieb seines Handelsgewerbes versprochen hat. Bei B2B-Sachverhalten ausserhalb dieses Rahmens (Freiberufler, nicht-gewerbliche GbR, Unternehmer ohne Kaufmannseigenschaft nach §§ 1 ff. HGB) bleibt § 343 BGB anwendbar. Zusaetzlich greift bei einseitig gestellten Klauseln die AGB-Kontrolle ueber § 307 BGB.
 - **Konzernsachverhalte und § 181 BGB:** Bei Konzernverflechtungen oft Insichgeschaeft. Befreiung in der Satzung pruefen, sonst genehmigungsbeduerftig.
 
 ## Antwortvorgaben
@@ -44,9 +44,9 @@ Englischsprachige M&A- und Finanzierungsvertraege unter deutschem Recht (Rechtsw
 
 - § 125 BGB, § 138 BGB, § 158 BGB, § 162 BGB, § 164 BGB, § 181 BGB, § 242 BGB, § 305 BGB, § 307 BGB, § 311b BGB, § 444 BGB.
 - § 15 Abs. 3 und Abs. 4 GmbHG (Beurkundung Geschaeftsanteilskauf, Einheitstheorie).
-- BGH, Urt. v. 26.11.1998 - VII ZR 218/97 zur AGB-Kontrolle im unternehmerischen Verkehr.
-- BGH, Urt. v. 22.04.2010 - I ZR 17/05 zur Konkretisierung von "best efforts" nach § 242 BGB.
-- BGH, Urt. v. 25.03.1998 - VIII ZR 244/97 zur Einheitstheorie.
+- BGH, Urt. v. 14.04.1986 - II ZR 155/85 zur Beurkundungspflicht der Nebenabreden nach § 15 Abs. 4 GmbHG (Vollstaendigkeitsgrundsatz/Einheitstheorie).
+- BGH, Urt. v. 27.06.2001 - VIII ZR 329/99 (NJW 2002, 142) zur Reichweite der Beurkundungspflicht auf alle Nebenabreden, die nach dem Willen der Parteien Bestandteil der Verpflichtung zur Anteilsuebertragung sein sollen.
+- BGH, Urt. v. 22.10.2015 - VII ZR 58/14 zur AGB-Kontrolle im unternehmerischen Verkehr (§§ 305 ff., § 307 BGB auch zwischen Unternehmern).
 
 ## Verwandte Skills
 
