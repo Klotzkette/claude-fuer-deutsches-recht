@@ -52,7 +52,7 @@ Investor Director Approval: Bei GmbH nicht einfach wie Delaware Board behandeln.
 
 To do: Investor Counsel fragen, ob Series A Preferred Shares echte Anteilsklasse oder nur schuldrechtliche Rechte sein sollen.
 
-> **AvW:** Falsche Frage. In Deutschland gibt es **keine** Anteilsklassen wie in Delaware. Es gibt aber **unterschiedliche Geschaeftsanteile mit unterschiedlichen Rechten** (sog. "Geschaeftsanteile mit besonderen Rechten" gemaess § 5 Abs. 3 Satz 1 GmbHG). Diese werden in der Satzung definiert. Das heisst: (a) **Stammanteile** und (b) **Vorzugsanteile** sind in der **Satzung** zu definieren, mit den jeweiligen Liquidations-, Stimm- und Gewinnrechten. Schuldrechtliche Loesungen ueber den SHA sind moeglich, aber riskant bei Insolvenz und gegenueber Rechtsnachfolgern. Empfehlung: dingliche Loesung in Satzung, plus schuldrechtliche Spiegelung im SHA. Das bitte als eigenen Memo-Abschnitt fuer die Mandantin.
+> **AvW:** Falsche Frage. In Deutschland gibt es **keine** Anteilsklassen wie in Delaware. Es gibt aber **Geschaeftsanteile mit Sonderrechten einzelner Gesellschafter**, deren rechtliche Verankerung sich aus der allgemeinen **Satzungsautonomie** ergibt und auf § 14 GmbHG (Sonderrechte und Mitgliedschaft) gestuetzt wird. Hueten Sie sich vor dem Anfaengerfehler, § 5 Abs. 3 GmbHG als Anker zu zitieren — diese Vorschrift regelt **nur**, dass Geschaeftsanteile unterschiedliche **Nennbetraege** haben koennen und in Summe das Stammkapital ergeben muessen; sie betrifft **nicht** die wirtschaftlichen Sonderrechte wie Liquidation Preference oder Anti-Dilution. Die Vorzugsrechte werden in der **Satzung** definiert, mit den jeweiligen Liquidations-, Stimm- und Gewinnrechten. Schuldrechtliche Loesungen ueber den SHA sind moeglich, aber riskant bei Insolvenz und gegenueber Rechtsnachfolgern. Empfehlung: dingliche Loesung in Satzung (mit Aenderungsbeschluss nach § 53 GmbHG), plus schuldrechtliche Spiegelung im SHA. Das bitte als eigenen Memo-Abschnitt fuer die Mandantin.
 
 ## 9 English long-form docs unter deutschem Recht
 
@@ -74,7 +74,7 @@ To do:
 - Investor Counsel fragen, ob Series A Preferred Shares echte Anteilsklasse oder nur schuldrechtliche Rechte sein sollen.
 - Pruefen, ob English long-form docs mit deutscher Notar- und Registerlogik funktionieren.
 
-> **AvW:** Reihenfolge umstellen: **(1) Partnerbriefing zuerst** — kommen Sie morgen 8:00 Uhr in mein Buero. (2) Cap Table mit drei Szenarien (siehe Datei 02). (3) Begriffserklaerung fuer Kunigunde **erst nach** unserem Briefing — wir wollen nicht, dass Sie ihr Halbwissen weitergeben. (4) Notar-Frage klaere ich mit Roswitha Ploeger im Notariat Schwartz direkt. (5) Investor-Counsel-Frage: nicht "Anteilsklasse vs schuldrechtlich" fragen, sondern: "Wir gehen davon aus, dass die Series A Preferred Shares als besondere Geschaeftsanteile gemaess § 5 Abs. 3 GmbHG in der Satzung verankert werden. Stimmen Sie zu?" — das ist der professionelle Aufschlag.
+> **AvW:** Reihenfolge umstellen: **(1) Partnerbriefing zuerst** — kommen Sie morgen 8:00 Uhr in mein Buero. (2) Cap Table mit drei Szenarien (siehe Datei 02). (3) Begriffserklaerung fuer Kunigunde **erst nach** unserem Briefing — wir wollen nicht, dass Sie ihr Halbwissen weitergeben. (4) Notar-Frage klaere ich mit Roswitha Ploeger im Notariat Schwartz direkt. (5) Investor-Counsel-Frage: nicht "Anteilsklasse vs schuldrechtlich" fragen, sondern: "Wir gehen davon aus, dass die Series A Preferred Shares als Geschaeftsanteile mit Sonderrechten einzelner Gesellschafter in der Satzung verankert werden, gestuetzt auf die Satzungsautonomie und § 14 GmbHG. Stimmen Sie zu?" — das ist der professionelle Aufschlag.
 
 ---
 
@@ -88,7 +88,7 @@ OK. Ich habe heute Morgen schon das Glossar (Datei 08) und den Anfaengerfehler-K
 - Vesting-Anrechnung wird verhandelt, nicht akzeptiert.
 - Drag braucht Stimmbindung im SHA, weil Vinkulierung in Satzung 75 % verlangt.
 - Investor "Director" ist kein Board-Director, sondern Beiratsmitglied.
-- Series A Preferred Shares sind besondere Geschaeftsanteile gemaess § 5 Abs. 3 GmbHG.
+- Series A Preferred Shares sind Geschaeftsanteile mit Sonderrechten in der Satzung (Satzungsautonomie, § 14 GmbHG); § 5 Abs. 3 GmbHG ist **nicht** die Rechtsgrundlage.
 - English long-form docs gehen, aber Notar verlangt Deutsch.
 
 Ich bringe morgen 8:00 die Cap Table mit drei Szenarien und einen Memo-Entwurf fuer Kunigunde.

@@ -79,7 +79,7 @@ Maximalpunktzahl 100. Mindestpunktzahl fuer "Bestanden" 70.
 | Drag-/Tag-Schwellen harmonisiert | 5 | Stimmbindung im SHA, Vinkulierung beachtet |
 | Beirat vs Board of Directors | 10 | Geschaeftsordnung erwaehnt |
 | English contract under German law | 10 | Sprache, Notar, Register |
-| § 5 Abs. 3 GmbHG fuer Vorzugsanteile | 5 | Statt "Series A Preferred Shares" als Pseudoklasse |
+| Vorzugsrechte ueber Satzungsautonomie und Sonderrechte | 5 | Vorzugsrechte werden bei der GmbH als Sonderrechte einzelner Gesellschafter in der Satzung verankert (gestuetzt auf § 14 GmbHG und die allgemeine Satzungsautonomie, Satzungsaenderung nach § 53 GmbHG). § 5 Abs. 3 GmbHG ist **nicht** einschlaegig — er regelt nur, dass Geschaeftsanteile unterschiedliche Nennbetraege haben koennen und in Summe das Stammkapital ergeben muessen. "Series A Preferred Shares" als Pseudoklasse bleibt ein Anfaengerfehler. |
 | Disclosure-Schedule-Logik | 5 | DD-Befunde sauber eingeordnet |
 | Senior-Review-Gates gesetzt | 5 | Jede Mandantenantwort durch Partnerin |
 | Notarielle Form korrekt zugeordnet | 5 | § 15, § 53, § 55 GmbHG, § 5 BeurkG |
