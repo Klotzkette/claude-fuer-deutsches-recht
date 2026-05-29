@@ -1,3 +1,12 @@
+# Unreleased — Meinungsprüfer
+
+- Neues Plugin **`meinungspruefer`** mit 36 Skills zur Prüfung von Äußerungen nach einfachem Recht, Verfassungsrecht, Europarecht und Rechtsvergleich: Meinung/Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, § 193 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Arbeitsplatz, Schule und kommunale Machtkritik.
+- Neue Testakte **`meinungspruefer-grenzfaelle-alltag`** mit X-Post zum kommunalen Bauprojekt, LinkedIn-Pinocchio, Kantinenäußerung über Zahlen, Elternchat, Bürgermeister-"Lackaffe", Abmahnung, polizeilicher Anhörung, Belegmappe und USA-Vergleichsnotiz.
+- Nachlauf im Meinungsprüfer: vier neue Skills **`egmr-art-10-rechtsprechung`**, **`eugh-grch-art-11-rechtsprechung`**, **`olg-kg-praxis-rechtsprechung`** und **`rechtsvergleich-usa-supreme-court`**; die Rechtsprechungsbank wurde um EGMR, EuGH/GRCh, OLG/KG und Supreme-Court-Anker mit freien Quellen erweitert.
+- Rechtsprechungsbank im Plugin mit frei prüfbaren Quellen und ohne BeckRS-/Kommentar-/Aufsatz-Blindzitate.
+
+---
+
 # v24.1.0 — AZ-Strip, Konversationsstil und LG Aachen 10 O 306/25
 
 - **Welle 3 — Halluzinations-AZ entfernt.** Die im Vollaudit (`audit/audit_problems_2026-05-27.json`) als WRONG_TOPIC oder NOT_FOUND klassifizierten 969 Aktenzeichen wurden aus den betroffenen SKILL.md gestrichen. Ergebnis: 175 Dateien geaendert, 392 Zeilen entfernt; YAML-Frontmatter blieb unangetastet. Dokumentiert in `audit/README.md` und `audit/references_audit_2026-05-29.json`.

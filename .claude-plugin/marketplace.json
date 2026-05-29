@@ -645,6 +645,15 @@
       "version": "24.1.0"
     },
     {
+      "name": "meinungspruefer",
+      "source": "./meinungspruefer",
+      "description": "Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "24.1.0"
+    },
+    {
       "name": "memorandums-ersteller",
       "source": "./memorandums-ersteller",
       "description": "Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher.",

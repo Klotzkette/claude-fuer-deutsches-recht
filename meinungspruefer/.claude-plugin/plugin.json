@@ -1,0 +1,19 @@
+{
+  "name": "meinungspruefer",
+  "version": "24.1.0",
+  "description": "Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik.",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "meinungsfreiheit",
+    "beleidigung",
+    "strafrecht",
+    "presserecht",
+    "verfassungsrecht",
+    "europarecht",
+    "rechtsvergleich"
+  ]
+}

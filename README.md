@@ -1,6 +1,11 @@
 # Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 
 > **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis**, an Gesetzestexten, amtlichen Materialien und frei überprüfbarer Rechtsprechung. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jede Nutzerin und jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
+
+## Ganz oben: Meinungsprüfer
+
+Neu im Repo ist der [`meinungspruefer`](./meinungspruefer): ein großes Äußerungsrechts-Plugin für Meinung/Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR-/EuGH-Rechtsprechung, OLG-/KG-Praxis, Plattformfälle und US-Supreme-Court-Vergleich. Dazu gibt es die Testakte [`meinungspruefer-grenzfaelle-alltag`](./testakten/meinungspruefer-grenzfaelle-alltag/) mit X-Post, LinkedIn-Pinocchio, Kantinenfall, Elternchat, Bürgermeister-"Lackaffe", Abmahnung, Anhörung, Belegmappe und USA-Vergleichsnotiz.
+
 ## Über dieses Repository
 
 Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deutsches Recht** auf Basis der offenen "claude-for-legal"-Skills von Anthropic, vollständig ins Deutsche übertragen und an typische Arbeitsabläufe in Kanzleien, Rechtsabteilungen und bei Beratern angepasst. Die Struktur, Beispiele und Workflows sind inzwischen **für die deutsche Rechtspraxis überarbeitet und im Alltagseinsatz erprobt**, sie bleiben aber bewusst als Experiment gekennzeichnet: Es handelt sich **nicht** um ein geprüftes Produkt, sondern um eine technische Spielwiese zum Ausprobieren, Anpassen und Weiterentwickeln.
@@ -23,9 +28,9 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 102 |
-| **Skills (SKILL.md)** | 2419 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 57 |
+| **Plugins** | 103 |
+| **Skills (SKILL.md)** | 2455 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 58 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
 | **Letzter Release** | `v24.1.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -34,7 +39,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 
 ### Inhaltliche Cluster
 
-- **Rechtsgebiete (materiell):** BGB Allgemeiner Teil, Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Nachbarrecht/Nachbarschaftsstreit, Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Zwangsvollstreckung.
+- **Rechtsgebiete (materiell):** BGB Allgemeiner Teil, Arbeitsrecht, Mietrecht (Wohn-/Gewerbe), Nachbarrecht/Nachbarschaftsstreit, Erbrecht, Familienrecht, Sozialrecht, Strafrecht, Äußerungsrecht/Meinungsfreiheit, Verwaltungsrecht (inkl. Energieanlagen-BImSchG-Verfahren und Energietrassen-Planfeststellung), Steuerrecht, Insolvenzrecht inkl. StaRUG, Gesellschaftsrecht, Vertragsrecht, Markenrecht (inkl. Luxus-Fashion + USPTO/Lanham Act), Urheberrecht, Wettbewerbsrecht, Kartellrecht, Datenschutzrecht, IT-Recht, Bank- und Kapitalmarktrecht, Bau- und Architektenrecht, Verkehrsrecht, Medizinrecht, Migrationsrecht, Internationales Recht, Europarecht, Energierecht, Zwangsvollstreckung.
 - **Mechanik-Prüfer:** `bgb-at-pruefer` (BGB AT: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, Anfechtung, Stellvertretung, Verjährung, qES/beA/Formfiktion), `subsumtions-pruefer` (generischer Subsumtions-Workflow DE + EU), `bereicherungs-und-anfechtungsrecht-pruefer` (§§ 812 ff. BGB + AnfG + InsO-Anfechtung einschließlich KI-Schuldnerakten-Screening, § 135 InsO und Verteidigung), `ki-vo-ai-act-pruefer` (Verordnung (EU) 2024/1689 mit Anbieter/Betreiber-Entscheidungsbaum, Art. 5/6/25/51 ff.).
 - **Werkstatt- und Lehr-Plugins:**
   - `legistik-werkstatt` — komplette Gesetzgebungs-Werkstatt für Bundesministerien, Bundestag, Fraktionen/Opposition, Landesministerien, Landtage und sonstige Normgeber (Referentenentwurf Arial-Hausstil, BT-/Landtagsdrucksache, Vorblatt A–F, Synopse, Lesefassung, Kabinettsmappe, Formulierungshilfe, Änderungsantrag, Antrag, Entschließungsantrag). DOCX/PDF im passenden offiziellen Layout.
@@ -239,6 +244,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`lobbyregister-bundestag`](./lobbyregister-bundestag) | Superplugin für Meldung und Registrierung im Lobbyregister des Deutschen Bundestages und der Bundesregierung: 50 geführte Skills zu Pflichtcheck, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Verstößen und Fristen. |
 | [`mandantenanfragen-assistent`](./mandantenanfragen-assistent) | Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt förmlich, übernimmt die Anrede aus der eingehenden E-Mail, nennt die telefonische Terminvergabe, bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an. |
 | [`markenrecht-fashion-luxus`](./markenrecht-fashion-luxus) | Markenrecht-Boutique für Luxus-Modehäuser - DPMA/EUIPO Alicante/USPTO Lanham Act via NYC-Korrespondenz, alle Markenarten (Wort/Bild/Slogan/Sound/Duft/3D/Position/Haptik/Anti-KI), Widerspruch, Löschung, Verletzung, Produktpiraterie, Selektivvertrieb. |
+| [`meinungspruefer`](./meinungspruefer) | Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik. |
 | [`memorandums-ersteller`](./memorandums-ersteller) | Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung: Sachverhalt mit Quellenreferenz, Rechtsfrage, rechtliche Würdigung, Ergebnis und Empfehlung. |
 | [`methodenlehre-buergerliches-recht`](./methodenlehre-buergerliches-recht) | Methodenlehre und Falllösung im deutschen bürgerlichen Recht aus Anwaltsperspektive. Gutachtenstil, Anspruchsgrundlagen-Reihenfolge, Auslegung Wortlaut/Systematik/Historie/Telos pragmatisch ohne starre Rangfolge, unions- und verfassungskonforme Auslegung, Rechtsfortbildung. Breaking Change in v3.0 umbenannt. |
 | [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Acht Skills: Datenerhebung, Mieterhöhungs-Widerspruch, Mietsenkungsverlangen, Nebenkostenprüfung, Mieteranfragen, Klageentwurf Amtsgericht. |
