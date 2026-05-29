@@ -1,3 +1,30 @@
+# v43.0.0 — Frankfurt-Startup-Testakte Big-Law-Rebuild + Plugin-Spotlight "Didaktisches Gesellschaftsrecht — English Business Terms"
+
+Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` komplett neu gerendert und didaktisch erweitert; Plugin `gesellschaftsrecht-legal-english` (Slug unveraendert) tritt jetzt unter dem Titel "Didaktisches Gesellschaftsrecht — English Business Terms" auf.
+
+## Testakte-Rebuild
+
+- Alle 20 Textdateien + 2 didaktische Cheatsheets (19, 23) zusaetzlich als Big-Law-Memo gerendert: 22x `.docx` und 22x `.pdf` im Stil Times New Roman 11pt, Blocksatz, Seitenkopf (Mandantenname links / Dateilabel rechts), Seitenfuss (Vertraulichkeitshinweis links / "Seite X von Y" rechts), H1 zentriert, H2 nummeriert (13pt bold), H3 als (a)/(b) (11pt bold), Tabellen mit grauer Headerzeile und sauberem Umbruch.
+- PDF 19 (Notar-Scan Beurkundungssprache § 16 BeurkG) und PDF 23 (Rookie Cheatsheet Corporate Legal English ↔ Deutsches Werkzeug) komplett neu aufgesetzt: kein Textueberlauf am rechten Rand mehr, keine Label-Kollision "Deutsches WerkzeugSatzung" mehr, Spaltenbreiten 22/38/40 % mit sauberem Zeilenumbruch.
+- Fiktive E-Mails (2 aus Datei 01, 3 aus Datei 11) zusaetzlich als echte `.eml`-Dateien in `emails/` mit RFC-5322-Headern (Outlook-kompatibel).
+- Slack-Thread `#project-comet-moth` (Mittwoch 22:14-22:58) als eigenstaendige Markdown in `chats/01-slack-comet-moth-cap-table.md` extrahiert.
+- WhatsApp-Verlauf Partner/Associate (Donnerstag 06:58-08:21) vollstaendig in `chats/16-whatsapp-partner-associate-thread.md` gespiegelt (zusammenhaengender Thread, daher in Gaenze).
+
+## Plugin-Spotlight
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json`: `description` auf "Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English fuer Big-Law-Anfaenger…" umgestellt, `version` auf `43.0.0` gebumpt. Slug `gesellschaftsrecht-legal-english` BLEIBT (kein Rename).
+- `gesellschaftsrecht-legal-english/README.md`: Titel auf "Didaktisches Gesellschaftsrecht — English Business Terms". Testakten-Beschreibung um DOCX/PDF/EML/Chats erweitert.
+- `.claude-plugin/marketplace.json`: Eintrag fuer `gesellschaftsrecht-legal-english` an die neue description angepasst und auf `43.0.0` synchronisiert.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- PDF 19/23 + Stichprobe PDF 11 visuell mit `pdftoppm` geprueft: kein Ueberlauf, Header/Footer/Seitenzaehler korrekt.
+
+---
+
 # v42.0.0 — README-Spotlight komplett entfernt
 
 - "Ganz oben: Corporate Legal English"-Spotlight-Block aus README entfernt.

@@ -1,4 +1,4 @@
-# Didaktisiertes Gesellschaftsrecht Legal English
+# Didaktisches Gesellschaftsrecht — English Business Terms
 
 Didaktisches Plugin für die zweisprachige Gesellschaftsrechts- und Transaktionspraxis. Es erklärt nicht nur Begriffe, sondern führt Anfängerinnen, Anfänger und laterale Quereinsteiger durch echte Arbeitsprodukte: Cap Table, Term Sheet, Investment Agreement, Gesellschaftervereinbarung, Satzung, SPA, Due-Diligence-Report, Closing-Checkliste, Mandantenmemo und Partnerbriefing.
 
@@ -23,7 +23,7 @@ Der Leitgedanke: Deutsche Dogmatik bleibt der Anker, aber die Praxis spricht oft
 | --- | --- |
 | **Frankfurt Startup Round Legal English** | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
 
-Die Testakte enthält eine fiktive Venture-Capital- und M&A-Vorbereitung mit Partnerauftrag, Cap Table, Term Sheet, Gesellschafterliste, SHA-Auszug, DD-Notizen, Mandantenfragen und einem bewusst nervösen Associate-Arbeitsstand. Sie ist inzwischen als kleiner Dealroom angelegt: Markdown-Unterlagen, ein Excel-Trainingsmodell, PDF-Scan, PDF-Cheatsheet, Email-Screenshot, WhatsApp-Screenshot und Whiteboard-Foto.
+Die Testakte enthält eine fiktive Venture-Capital- und M&A-Vorbereitung mit Partnerauftrag, Cap Table, Term Sheet, Gesellschafterliste, SHA-Auszug, DD-Notizen, Mandantenfragen und einem bewusst nervösen Associate-Arbeitsstand. Sie ist als vollständiger Dealroom angelegt: 20 Markdown-Unterlagen, ein Excel-Trainingsmodell, Whiteboard-Foto, Email- und WhatsApp-Screenshot, plus rendernde DOCX- und PDF-Versionen aller Texte im Big-Law-Memo-Stil (Times New Roman 11 pt, Blocksatz, Header/Footer mit Mandatslabel und Seitennummern). Zusätzlich liegen die fiktiven E-Mails als echte `.eml`-Dateien im Unterordner `emails/` (Outlook-kompatibel), und die wichtigen Chatverläufe (Slack `#project-comet-moth`, WhatsApp Partner/Associate) liegen als eigene Markdown-Dateien im Unterordner `chats/`. PDF 19 (Notar-Scan Beurkundungssprache § 16 BeurkG) und PDF 23 (Rookie Cheatsheet Corporate Legal English ↔ Deutsches Werkzeug) wurden in v43.0.0 sauber neu gerendert, ohne Überlauf und ohne Label-Kollisionen.
 
 ## Installation
 

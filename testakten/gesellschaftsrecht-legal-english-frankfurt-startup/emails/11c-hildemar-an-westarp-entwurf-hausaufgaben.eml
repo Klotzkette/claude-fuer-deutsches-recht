@@ -1,0 +1,88 @@
+From: "Hildemar K." <hildemar.k@kanzlei.example>
+To: "Adelheid von Westarp" <vonwestarp@kanzlei.example>
+Cc: Roswitha =?utf-8?q?Pl=C3=B6ger?= <ploeger@kanzlei.example>
+Date: Thu, 28 May 2026 02:14:00 +0200
+Subject: RE: Comet Moth =?utf-8?b?4oCU?= Markup Hausaufgaben (Entwurf, bitte
+ streng =?utf-8?q?pr=C3=BCfen=29?=
+Message-ID: <178006146633.472272.12343446207500059100@kanzlei.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Frau von Westarp,
+
+anbei mein erster Aufschlag. Bitte hart kritisieren.
+
+1. Waterfall 1x participating cap 2x:
+
+   - Exit 15 Mio. EUR: Northbridge bekommt zuerst 5,2 Mio. (Liquidation Prefe=
+rence 1x), dann partizipiert pro rata mit etwa 25,3 Prozent fully diluted pos=
+t-money. Auf die verbleibenden 9,8 Mio. entfallen Northbridge weitere 2,48 Mi=
+o. Summe Northbridge 7,68 Mio., der Cap von 10,4 Mio. (2x) ist nicht erreicht=
+. Common Shareholder erhalten den Rest.
+   - Exit 22 Mio. EUR: Northbridge erst 5,2 Mio., dann 25,3 Prozent von 16,8 =
+Mio., also 4,25 Mio. Summe 9,45 Mio. Unter Cap.
+   - Exit 35 Mio. EUR: Northbridge 5,2 Mio. plus 25,3 Prozent von 29,8 Mio. g=
+leich 7,53 Mio. Summe 12,73 Mio. Hier greift der Cap 2x auf 10,4 Mio. Common =
+erh=C3=A4lt 35 minus 10,4 gleich 24,6 Mio.
+   - Exit 80 Mio. EUR: As-converted-Vergleich: Northbridge 25,3 Prozent von 8=
+0 Mio. gleich 20,24 Mio., h=C3=B6her als der Cap. Hier wandelt Northbridge wi=
+rtschaftlich um (As-converted is higher than capped participating) und erh=C3=
+=A4lt 20,24 Mio.
+
+   Hinweis Senior-Review: die Quote 25,3 Prozent ist eine Annahme nach Pool-S=
+huffle und vor Convertible-Wandlung. Die exakte Quote bedarf der Cap-Table-Mo=
+dellrechnung nach Pool und Convertible.
+
+2. Vesting Credit:
+
+   Seed-SHA: 36 Monate ab 01.01.2024, bis 31.12.2026. Zum Closing 15.07.2026 =
+h=C3=A4tten die Gr=C3=BCnder etwa 30 Monate gevested. Wenn Series-A-Vesting b=
+ei Closing mit 48 Monaten neu startet und nur 18 Monate Credit gew=C3=A4hrt w=
+erden, vesten effektiv 18 Monate gleich sofort, die =C3=BCbrigen 30 Monate ab=
+ Closing. Die Gr=C3=BCnder verlieren effektiv etwa zw=C3=B6lf Vesting-Monate =
+gegen=C3=BCber dem Seed-SHA.
+
+   Vorschlag zur Verhandlung: Credit von 24 Monaten, plus Lock-Up bis 31.12.2=
+027 als Kompromiss.
+
+3. Drag-Schwelle:
+
+   Northbridge schl=C3=A4gt 50 Prozent plus Series A Majority vor. Series A M=
+ajority sind allein etwa 25,3 Prozent. Zusammen mit 50 Prozent ist ein Drag m=
+=C3=B6glich, ohne dass alle Gr=C3=BCnder zustimmen. Satzung Paragraf 8 sieht =
+f=C3=BCr Satzungs=C3=A4nderungen 75 Prozent vor, aber Drag ist eine schuldrec=
+htliche Mitverkaufsverpflichtung. Es w=C3=A4re m=C3=B6glich, eine Drag-Schwel=
+le im SHA von 65 Prozent plus Series A Majority vorzuschlagen, was die Sperrm=
+inorit=C3=A4t der Gr=C3=BCnder (etwa 50 Prozent) noch achtet.
+
+4. Consent Matters:
+
+   Mapping in Datei 14 erg=C3=A4nzt. Layoffs: Investor-Director-Approval reic=
+ht aus, sofern Beirat installiert. Kontrakte ab 250.000: Gesellschafter-Vorbe=
+halt in der Satzung, weil materiell. Related Party: doppeltes Veto sinnvoll, =
+weil Interessenkonflikt.
+
+5. Convertible:
+
+   Wandlungsrechnung in Datei 10 erg=C3=A4nzt. Lender erh=C3=A4lt im Valuatio=
+n-Cap-Szenario eine niedrigere Conversion Price als Series A. Ich habe Northb=
+ridge noch nicht informiert. Bitte freigeben.
+
+6. Founder Reps:
+
+   Mein Vorschlag: separate Klausel mit Cap auf insgesamt 50.000 EUR je Gr=C3=
+=BCnder f=C3=BCr die Standard-Founder-Reps. Pers=C3=B6nliche Haftung mit Cap.=
+ Keine Reps zu Gesch=C3=A4ftsbetrieb, das macht die Gesellschaft.
+
+7. Costs:
+
+   Sprachvorschlag f=C3=BCr Kunigunde: =E2=80=9EDie =C3=9Cbernahme der Invest=
+or-Counsel-Kosten ist im deutschen Venture-Capital-Markt =C3=BCblich. Die Geg=
+enseite wird die =C3=9Cbernahme regelm=C3=A4=C3=9Fig erwarten. Wir empfehlen =
+einen festen Deckel und eine Stundenanforderung mit Detailrechnung."
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+Hildemar
+
+PS: Ist 02:14 Uhr zu sp=C3=A4t, um eine solche Mail zu schicken?
